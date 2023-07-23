@@ -1,0 +1,1 @@
+Chapitre V : Membre du groupe spécial de négociation, du comité d'entreprise européen, du comité de la société européenne, du comité de la société coopérative européenne ou du comité de la société issue de la fusion transfrontalière

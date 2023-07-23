@@ -1,0 +1,2 @@
+Lorsque, à l'issue du scrutin, il est constaté que la représentation des stagiaires et apprentis ne peut être assurée, le directeur dresse un procès-verbal de carence.
+

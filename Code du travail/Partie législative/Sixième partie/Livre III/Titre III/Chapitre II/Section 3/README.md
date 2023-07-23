@@ -1,0 +1,1 @@
+Section 3 : Utilisation des fonds par les opérateurs de compétences pour la prise en charge de l'alternance, du compte personnel de formation et du développement des compétences au bénéfice des entreprises de moins de cinquante salariés

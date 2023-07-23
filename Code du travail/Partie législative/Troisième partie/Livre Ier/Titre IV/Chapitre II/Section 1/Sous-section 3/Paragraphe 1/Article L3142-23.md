@@ -1,0 +1,1 @@
+Avant et après son congé, le salarié a droit à l'entretien professionnel mentionné au I de l'article L. 6315-1.

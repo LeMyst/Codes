@@ -1,0 +1,2 @@
+Le contrat pluriannuel est conclu pour une durée maximale de cinq ans. Il peut être révisé par voie d'avenants.
+

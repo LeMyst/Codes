@@ -1,0 +1,1 @@
+Sous-section 4 : Dispositions relatives à l'approbation des accords par les salariés pour les entreprises dont l'effectif habituel est inférieur à onze salariés et dans les entreprises de onze à vingt salariés dépourvues de représentant élu au comité social et économique

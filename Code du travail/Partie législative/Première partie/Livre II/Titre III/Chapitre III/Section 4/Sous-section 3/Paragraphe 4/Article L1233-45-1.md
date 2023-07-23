@@ -1,0 +1,1 @@
+Dans les entreprises de cinquante salariés ou plus, l'employeur peut, après avis favorable du comité social et économique, proposer des mesures de reclassement interne avant l'expiration du délai mentionné à l'article L. 1233-30.

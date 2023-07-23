@@ -1,0 +1,1 @@
+Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés à l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5

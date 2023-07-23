@@ -1,0 +1,2 @@
+Pendant l'exécution de la convention, l'apprenti continue de suivre les enseignements dispensés par le centre de formation auquel il est inscrit. Il se conforme au règlement intérieur de l'entreprise d'accueil.
+

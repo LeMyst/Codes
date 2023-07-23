@@ -1,0 +1,2 @@
+La convention triennale d'objectifs et de performance mentionnée au premier alinéa de l'article L. 6333-5 définit les objectifs stratégiques, opérationnels et de performance de la Caisse des dépôts et consignations pour la gestion du compte personnel de formation, qu'elle assortit d'indicateurs quantitatifs et qualitatifs. Elle fixe les moyens dont dispose la Caisse pour mettre en œuvre cette gestion et détermine les modalités de suivi de ses actions.
+

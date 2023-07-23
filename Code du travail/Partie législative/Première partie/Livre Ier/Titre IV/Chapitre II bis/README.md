@@ -1,0 +1,1 @@
+Chapitre II bis : Mesures visant à supprimer les écarts de rémunération entre les femmes et les hommes dans l'entreprise et à assurer une répartition équilibrée de chaque sexe parmi les cadres dirigeants et les membres des instances dirigeantes

@@ -1,0 +1,1 @@
+La résolution peut, en toute hypothèse, être demandée en justice.

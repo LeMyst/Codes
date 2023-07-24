@@ -1,0 +1,1 @@
+Section 2 : De l'information des salariés leur permettant de présenter une offre en cas de vente des parts sociales ou actions ou valeurs mobilières donnant accès à la majorité du capital, dans les sociétés soumises à l'obligation de mettre en place un comité d'entreprise

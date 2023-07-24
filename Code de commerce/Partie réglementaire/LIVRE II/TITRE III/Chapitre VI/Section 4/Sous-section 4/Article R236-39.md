@@ -1,0 +1,2 @@
+Les opérations de transformations transfrontalières sont régies par les dispositions de la présente sous-section ainsi que par les dispositions de la sous-section 1 de la présente section qui ne leur sont pas contraires.
+

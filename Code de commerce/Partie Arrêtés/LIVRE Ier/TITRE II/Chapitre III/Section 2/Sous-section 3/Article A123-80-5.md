@@ -1,0 +1,2 @@
+Le montant de la redevance prévu à l'article R. 123-208-3 du code de commerce est fixé à 30 euros.
+

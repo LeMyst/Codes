@@ -1,0 +1,1 @@
+Sous-section 1 : De la constitution avec offre au public  autre que l'une de celles mentionnées au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code.

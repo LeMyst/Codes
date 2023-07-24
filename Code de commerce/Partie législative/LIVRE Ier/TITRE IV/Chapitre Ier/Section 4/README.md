@@ -1,0 +1,1 @@
+Section 4 : De l'information anticipée des salariés leur permettant de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises soumises à l'obligation de mettre en place un comité d'entreprise

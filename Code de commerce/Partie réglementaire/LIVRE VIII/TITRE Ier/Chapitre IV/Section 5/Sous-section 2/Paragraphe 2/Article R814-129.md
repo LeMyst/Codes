@@ -1,0 +1,2 @@
+Sous réserve des règles de protection et de représentation des personnes protégées, les dispositions des articles R. 814-80 et R. 814-128 sont applicables à la cession des parts sociales de l'associé frappé d'interdiction légale ou placé sous le régime de la tutelle.
+

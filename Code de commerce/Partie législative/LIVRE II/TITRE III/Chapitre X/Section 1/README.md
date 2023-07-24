@@ -1,0 +1,1 @@
+Section 1 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente des parts sociales, actions ou valeurs mobilières donnant accès à la majorité du capital dans les sociétés qui ne sont pas soumises à l'obligation de mettre en place un comité d'entreprise

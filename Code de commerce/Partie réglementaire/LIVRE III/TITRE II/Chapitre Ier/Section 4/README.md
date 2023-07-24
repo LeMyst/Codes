@@ -1,0 +1,1 @@
+Section 4 : De l'accès partiel aux activités de vente volontaire de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen

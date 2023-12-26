@@ -60,9 +60,8 @@ du tribunal mixte de commerce |
 | Martinique | Fort-de-France | 15 |
 | Cour d'appel de Saint-Denis de La Réunion |
 | Mayotte | Mamoudzou | 5 |
-| La Réunion
-  | Saint-Denis | 8 |
-| Saint-Pierre | 8 |
+| La Réunion | Saint-Denis | 8 |
+| Saint-Pierre | 16 |
 
 
  

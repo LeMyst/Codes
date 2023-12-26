@@ -56,4 +56,5 @@ III. - L'Autorité de la concurrence peut :
 IV. - Si l'Autorité de la concurrence ne prend aucune des trois décisions prévues au III dans le délai mentionné au I, éventuellement prolongé en application du II, elle en informe le ministre chargé de l'économie.L'opération est réputée avoir fait l'objet d'une décision d'autorisation au terme du délai ouvert au ministre chargé de l'économie par le I de l'article L. 430-7-1.
 
 
+
   

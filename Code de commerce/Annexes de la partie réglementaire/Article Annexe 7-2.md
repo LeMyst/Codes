@@ -1,3 +1,5 @@
+  
+
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
 
@@ -419,8 +421,8 @@ Mende |
 |  
 Vaucluse |  
 Avignon |  
-35 |  
-6 |
+42 |  
+7 |
 |  
 Cour d'appel d'Orléans |
 |  

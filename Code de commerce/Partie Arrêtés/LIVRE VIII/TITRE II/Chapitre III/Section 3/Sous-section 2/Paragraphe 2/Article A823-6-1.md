@@ -102,15 +102,15 @@ Déterminer si une anomalie de classement est significative implique la prise en
 
   
 
-Communication avec les organes mentionnés à l'article L. 823-16 du code de commerce  
+Communication avec les organes mentionnés à l' article L. 823-16 du code de commerce   
 
   
 
-15. Conformément aux principes définis dans la norme “ communication avec les organes mentionnés à l'article L. 823-16 du code de commerce”, le commissaire aux comptes communique aux organes intéressés les anomalies non corrigées et les informe de l'incidence que ces anomalies peuvent avoir, prises individuellement ou en cumulé, sur l'opinion exprimée dans son rapport sur les comptes. Lors de cette communication, le commissaire aux comptes mentionne chacune des anomalies jugées significatives non corrigées. Il précise également l'incidence des anomalies non corrigées des exercices précédents.  
+15. Conformément aux principes définis dans la norme “ communication avec les organes mentionnés à l' article L. 823-16 du code de commerce ”, le commissaire aux comptes communique aux organes intéressés les anomalies non corrigées et les informe de l'incidence que ces anomalies peuvent avoir, prises individuellement ou en cumulé, sur l'opinion exprimée dans son rapport sur les comptes. Lors de cette communication, le commissaire aux comptes mentionne chacune des anomalies jugées significatives non corrigées. Il précise également l'incidence des anomalies non corrigées des exercices précédents.  
 
   
 
-16. Le commissaire aux comptes demande aux organes mentionnés à l'article L. 823-16 du code de commerceque l'ensemble des anomalies non corrigées le soient.  
+16. Le commissaire aux comptes demande aux organes mentionnés à l' article L. 823-16 du code de commerce que l'ensemble des anomalies non corrigées le soient.  
 
   
 
@@ -118,7 +118,7 @@ Déclaration écrite
 
   
 
-17. Dans le cadre des dispositions prévues dans la norme “ déclarations de la direction ”, le commissaire aux comptes demande une déclaration écrite du représentant légal et, s'il l'estime nécessaire, des membres des organes mentionnés à l'article L. 823-16 du code de commerceconfirmant que, selon eux, les incidences des anomalies non corrigées relevées par le commissaire aux comptes, ne sont pas, seules ou cumulées, significatives au regard des comptes pris dans leur ensemble. Un état des anomalies non corrigées est joint à cette déclaration écrite.  
+17. Dans le cadre des dispositions prévues dans la norme “ déclarations de la direction ”, le commissaire aux comptes demande une déclaration écrite du représentant légal et, s'il l'estime nécessaire, des membres des organes mentionnés à l' article L. 823-16 du code de commerce confirmant que, selon eux, les incidences des anomalies non corrigées relevées par le commissaire aux comptes, ne sont pas, seules ou cumulées, significatives au regard des comptes pris dans leur ensemble. Un état des anomalies non corrigées est joint à cette déclaration écrite.  
 
   
 

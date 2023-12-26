@@ -22,5 +22,16 @@ b) Des informations transmises par le ministère public ou l'autorité administr
 5° Pour l'accomplissement des obligations imposées aux greffiers par le service du greffe dans un intérêt d'ordre public ou d'administration judiciaire ;
 
 
-6° Pour les mentions prévues au 2 de l'article 24 du règlement (UE) n° 2015-848 du 20 mai 2015 précité.
+6° Pour les mentions prévues au 2 de l'article 24 du règlement (UE) n° 2015-848 du 20 mai 2015 précité ;
+
+
+7° Pour les inscriptions initiales, modificatives ou de radiation au registre des sûretés mobilières des saisies pénales du fonds de commerce ;  
+
+  
+
+8° Pour la radiation de toute mention au registre des sûretés mobilières du fait d'un transfert d'inscription vers un autre registre des hypothèques maritimes et fluviales ;  
+
+  
+
+9° Pour la délivrance du récépissé prévu à l'article R. 521-8.
 

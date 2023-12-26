@@ -12,3 +12,16 @@ III.-La référence à la directive 2005/36/ CE du Parlement européen et du Con
 
 IV.-La référence à la directive 2006/123/ CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur est remplacée par la référence aux règles en vigueur en métropole en vertu de cette directive.
 
+
+V. - La référence à la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers est remplacée par la référence aux règles en vigueur en métropole en vertu de cette directive.
+
+
+  
+
+ VI. - La référence à la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d'assurance est remplacée par la référence aux règles en vigueur en métropole en vertu de cette directive.
+
+
+  
+
+ VII. - La référence à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil est remplacée par la référence aux règles en vigueur en métropole en vertu de cette directive.
+

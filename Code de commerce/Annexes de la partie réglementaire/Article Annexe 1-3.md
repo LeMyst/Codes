@@ -1,4 +1,4 @@
-ANNEXE AUX ARTICLES R. 123-57 ET 123-58  
+ANNEXE AUX ARTICLES R. 123-57 ET 123-58
 
 
 1° Pour l'Allemagne :
@@ -37,7 +37,22 @@ de personenvennootschap met beperkre aansprakelijheid ;
 4° Pour la Bulgarie :
 
 
-5° Pour Chypre : 
+акционерно дружество ;
+
+
+дружество с ограничена отговорност ;
+
+
+командитно дружество с акции ;
+
+
+5° Pour Chypre :
+
+
+Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση ;
+
+
+ιδιωτικές εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση ;
 
 
 6° Pour la Croatie :
@@ -109,13 +124,19 @@ la société par actions simplifiée ;
 12° Pour la Grèce :
 
 
+ανώνυμη εταιρία, εταιρία περιορισμένης ευθύνης, ετερόρ-
+
+
+ρυθμη κατά μετοχές εταιρία ;
+
+
 13° Pour la Hongrie :
 
 
-részvénytajrsasajg ;
+részvénytársaság ;
 
 
-korlajtolt felelosségu tajrsasajg ;
+korlátolt felelosségu társaság ;
 
 
 14° Pour l'Irlande :
@@ -145,7 +166,7 @@ sociétà a responsabilità limitata ;
 16° Pour la Lettonie :
 
 
-Akciju sabiedriba ;
+akciju sabiedriba ;
 
 
 sabiedriba ar ierobezotu atbildibu ;
@@ -202,13 +223,13 @@ de besloten vennootschap met beperkte aansprakelijkheid ;
 21° Pour la Pologne :
 
 
-spojlka z ograniczona odpowiedzialnoscia ;
+spólka z ograniczona odpowiedzialnoscia :
 
 
-spojlka komandytowoakcyjna ;
+spólka komandytowoakcyjna ;
 
 
-spojlka akcyjna ;
+spólka akcyjna ;
 
 
 22° Pour le Portugal :
@@ -226,6 +247,15 @@ sociedade por quotas ;
 23° Pour la Roumanie :
 
 
+societate pe acţiuni ;
+
+
+societate eu răspundere limitată ;
+
+
+societate în comandita pe acţiuni ;
+
+
 24° Pour le Royaume-Uni :
 
 
@@ -241,10 +271,10 @@ the private company limited by shares or by guarantee ;
 25° Pour la Slovaquie :
 
 
-akciovaj spolecnost ;
+akciová spolecnost ;
 
 
-spolecnost s rucenijm obmedzenm' ;
+spolecnost s rucením obmedzeným’;
 
 
 26° Pour la Slovénie :
@@ -268,8 +298,8 @@ komaditna delniska druzba ;
 28° Pour la République tchèque :
 
 
-spolecnost s rucenijm omezenm ;
+spolecnost s rucením omezeným ;
 
 
-akciovaj spolecnost.
+akciová spolecnost.
 

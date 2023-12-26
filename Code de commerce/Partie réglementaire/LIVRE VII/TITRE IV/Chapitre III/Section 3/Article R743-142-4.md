@@ -1,6 +1,10 @@
-Pour la catégorie des prestations relatives aux warrants autres qu'agricoles, mentionnée au tableau 2 de l'article annexe 4-7, il n'est rien dû au greffier pour les mentions portées sur le registre des avis et oppositions.  
+  
+
+S'agissant du registre des sûretés mobilières, l'émolument relatif à l'inscription inclut la délivrance d'états certifiés, sans limite de nombre, pour toute personne dont le nom figure au registre en qualité de créancier, de débiteur ou de propriétaire au titre de l'inscription concernée. Cette délivrance est valable pendant toute la durée de l'inscription de la sûreté au registre.
+
 
   
 
   
 
+  

@@ -245,6 +245,9 @@ L'article R. 223-30 est applicable dans sa rédaction résultant du décret n° 
 L'article R. 223-36 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
 
 
+L'article R. 223-37 est applicable dans sa rédaction résultant du décret n° 2023-657 du 25 juillet 2023 ;
+
+
 L'article R. 224-3 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
 
 
@@ -330,6 +333,9 @@ Les articles R. 225-163 et R. 225-164-1 sont applicables dans leur rédaction r�
 
 
 L'article R. 225-166 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+
+
+L'article R. 225-166-1 est applicable dans sa rédaction résultant du décret n° 2023-657 du 25 juillet 2023 ;
 
 
 Les articles R. 226-1 et R. 226-2 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
@@ -931,9 +937,7 @@ R. 641-33 et R. 641-34 | Décret n° 2007-431 du 25 mars 2007 relatif à la part
 R. 641-35 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | R. 641-36 et R. 641-37 | 
 Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
-| R. 641-38 | 
-Décret n° 2023-434 du 3 juin 2023
- |
+| R. 641-38 | Décret n° 2023-434 du 3 juin 2023  |
 | 
 R. 641-39 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | 
@@ -1079,17 +1083,19 @@ R. 663-2 | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l
 | R. 663-9 et R. 663-10 | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-11 et R. 663-12 | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-12-1 et R. 663-13 | Décret n° 2023-434 du 3 juin 2023  |
-| R. 663-13-1 et R. 663-14 | Décret n° 2016-230 du 26 février 2016  |
-| R. 663-15 et R. 663-15-1 | Décret n° 2023-434 du 3 juin 2023  |
+| R. 663-13-1 et R. 663-14 | 
+Décret n° 2016-230 du 26 février 2016
+ |
+| R. 663-15 et R. 663-15-1 | 
+Décret n° 2023-434 du 3 juin 2023
+ |
 | R. 663-16 à R. 663-24 | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-25 | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-26 à R. 663-30 | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-31 | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-31-1 à R. 663-33 | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-34 | Décret n° 2023-434 du 3 juin 2023  |
-| R. 663-35 | 
-Décret n° 2016-230 du 26 février 2016
- |
+| R. 663-35 | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-36 à R. 663-38 | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-39 et R. 663-40 | Décret n° 2016-230 du 26 février 2016 |
 | 

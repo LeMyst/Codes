@@ -390,7 +390,8 @@ Exercice de la mission ou de la prestation par plusieurs commissaires aux compte
 
   
 
-Echanges avec les organes visés à l'article L. 823-16 du code de commerce  
+Echanges avec les organes visés à l'article L. 823-16 du code de commerce
+  
 
   
 

@@ -1,8 +1,5 @@
-Seules peuvent ouvrir droit à l'aide prévue par l'article 199 sexdecies du code général des impôts, les factures acquittées : 
+Seules peuvent ouvrir droit à l'aide prévue par l'article 199 sexdecies du code général des impôts, les factures acquittées :
 
-
-1° Soit par carte de paiement, prélèvement, virement, titre universel ou interbancaire de paiement ou par chèque ; 
-
+1° Soit par carte de paiement, prélèvement, virement, titre universel ou interbancaire de paiement ou par chèque ;
 
 2° Soit par chèque emploi-service universel.
-

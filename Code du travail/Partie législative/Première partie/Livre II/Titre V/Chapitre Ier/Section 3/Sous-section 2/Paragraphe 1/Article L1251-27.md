@@ -1,4 +1,1 @@
-  
- La rupture du contrat de mise à disposition ne constitue pas un cas de force majeure.  
-
-  
+La rupture du contrat de mise à disposition ne constitue pas un cas de force majeure.

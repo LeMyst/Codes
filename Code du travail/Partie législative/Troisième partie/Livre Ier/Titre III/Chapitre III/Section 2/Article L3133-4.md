@@ -1,6 +1,1 @@
-Le 1er mai est jour férié et chômé. 
-
-
-  
-
-  
+Le 1er mai est jour férié et chômé.

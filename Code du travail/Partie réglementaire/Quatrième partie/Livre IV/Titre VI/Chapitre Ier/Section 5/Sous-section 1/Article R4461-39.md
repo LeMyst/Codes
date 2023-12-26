@@ -1,2 +1,1 @@
 L'employeur s'assure que les méthodes et conditions d'intervention et d'exécution des travaux sont consignées sur le livret individuel hyperbare de chaque travailleur, mentionné à l'article R. 4461-10.
-

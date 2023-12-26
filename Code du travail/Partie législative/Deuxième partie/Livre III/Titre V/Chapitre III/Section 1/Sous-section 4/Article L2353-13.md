@@ -1,11 +1,7 @@
-  
- Le comité de la société européenne a la personnalité juridique.  
+Le comité de la société européenne a la personnalité juridique.
 
-  
- Il est présidé par le dirigeant de la société européenne.  
+Il est présidé par le dirigeant de la société européenne.
 
-  
- Le comité désigne un secrétaire.  
+Le comité désigne un secrétaire.
 
-  
- Il élit un bureau de trois membres lorsqu'il comprend au moins dix représentants du personnel.  
+Il élit un bureau de trois membres lorsqu'il comprend au moins dix représentants du personnel.

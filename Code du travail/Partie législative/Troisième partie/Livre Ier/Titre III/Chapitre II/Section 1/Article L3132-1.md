@@ -1,4 +1,1 @@
-  
- Il est interdit de faire travailler un même salarié plus de six jours par semaine.  
-
-  
+Il est interdit de faire travailler un même salarié plus de six jours par semaine.

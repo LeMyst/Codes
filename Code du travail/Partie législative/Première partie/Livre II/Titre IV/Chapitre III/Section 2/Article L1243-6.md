@@ -1,4 +1,1 @@
-  
- La suspension du contrat de travail à durée déterminée ne fait pas obstacle à l'échéance du terme.  
-
-  
+La suspension du contrat de travail à durée déterminée ne fait pas obstacle à l'échéance du terme.

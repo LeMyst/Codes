@@ -1,4 +1,1 @@
-
-  
 Des installations sanitaires appropriées sont mises à la disposition des travailleurs handicapés.
-

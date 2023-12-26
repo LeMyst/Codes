@@ -1,9 +1,3 @@
-L'arrêt du travail en cas d'intempéries est décidé par l'entrepreneur ou par son représentant sur le chantier après consultation du comité social et économique. 
-
-
-  
+L'arrêt du travail en cas d'intempéries est décidé par l'entrepreneur ou par son représentant sur le chantier après consultation du comité social et économique.
 
 Lorsque les travaux sont exécutés pour le compte d'une administration, d'une collectivité publique, d'un service concédé ou subventionné, le représentant du maître d'ouvrage sur le chantier peut s'opposer à l'arrêt du travail.
-
-
-  

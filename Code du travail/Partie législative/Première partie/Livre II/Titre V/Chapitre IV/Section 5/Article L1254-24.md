@@ -1,5 +1,3 @@
-L'entreprise de portage salarial exerce à titre exclusif l'activité de portage salarial.   
+L'entreprise de portage salarial exerce à titre exclusif l'activité de portage salarial.
 
-  
- Seule une entreprise de portage salarial peut conclure des contrats de travail en portage salarial. 
-
+Seule une entreprise de portage salarial peut conclure des contrats de travail en portage salarial.

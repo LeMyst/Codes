@@ -1,2 +1,1 @@
-Les heures supplémentaires se décomptent par semaine. 
-
+Les heures supplémentaires se décomptent par semaine.

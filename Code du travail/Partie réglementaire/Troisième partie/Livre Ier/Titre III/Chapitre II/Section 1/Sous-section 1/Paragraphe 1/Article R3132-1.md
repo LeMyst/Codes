@@ -1,7 +1,4 @@
-
-  
-Les établissements des industries énumérés dans le tableau suivant, qui attribuent le repos hebdomadaire à tous les salariés le même jour, bénéficient de la suspension du repos hebdomadaire prévue à l'article L. 3132-5 : 
-
+Les établissements des industries énumérés dans le tableau suivant, qui attribuent le repos hebdomadaire à tous les salariés le même jour, bénéficient de la suspension du repos hebdomadaire prévue à l'article L. 3132-5 :
 
 |  |  |
 | --- | --- |
@@ -48,8 +45,3 @@ Les établissements des industries énumérés dans le tableau suivant, qui attr
 |  | Tissage des étoffes de nouveauté destinées à l'habillement.  |
 |  | Tulles, dentelles et laizes de soie.  |
 |  | Voiles de navires armés pour la grande pêche (confection et réparation des). |
-
-
-
-  
-

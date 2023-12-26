@@ -1,5 +1,3 @@
-  
- Le contrat jeune en entreprise est un contrat à durée indéterminée.  
+Le contrat jeune en entreprise est un contrat à durée indéterminée.
 
-  
- Il peut être à temps partiel.  
+Il peut être à temps partiel.

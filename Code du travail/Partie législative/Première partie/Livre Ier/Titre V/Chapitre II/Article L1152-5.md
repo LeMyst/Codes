@@ -1,4 +1,1 @@
-  
- Tout salarié ayant procédé à des agissements de harcèlement moral est passible d'une sanction disciplinaire.  
-
-  
+Tout salarié ayant procédé à des agissements de harcèlement moral est passible d'une sanction disciplinaire.

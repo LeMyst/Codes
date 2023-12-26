@@ -1,20 +1,13 @@
-Sont constitutives de travail illégal, dans les conditions prévues par le présent livre, les infractions suivantes : 
+Sont constitutives de travail illégal, dans les conditions prévues par le présent livre, les infractions suivantes :
 
+1° Travail dissimulé ;
 
-1° Travail dissimulé ; 
+2° Marchandage ;
 
+3° Prêt illicite de main-d'oeuvre ;
 
-2° Marchandage ; 
+4° Emploi d'étranger non autorisé à travailler ;
 
-
-3° Prêt illicite de main-d'oeuvre ; 
-
-
-4° Emploi d'étranger non autorisé à travailler ; 
-
-
-5° Cumuls irréguliers d'emplois ; 
-
+5° Cumuls irréguliers d'emplois ;
 
 6° Fraude ou fausse déclaration prévue aux articles L. 5124-1 et L. 5429-1.
-

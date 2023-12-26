@@ -1,10 +1,5 @@
-Il est interdit d'affecter les jeunes à : 
+Il est interdit d'affecter les jeunes à :
 
+1° Des travaux d'abattage, d'euthanasie et d'équarrissage des animaux ;
 
- 1° Des travaux d'abattage, d'euthanasie et d'équarrissage des animaux ; 
-
-
- 2° Des travaux en contact d'animaux féroces ou venimeux. 
-
-
-  
+2° Des travaux en contact d'animaux féroces ou venimeux.

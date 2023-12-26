@@ -1,4 +1,1 @@
-  
- Le comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics est soumis au contrôle économique et financier de l'Etat.  
-
-  
+Le comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics est soumis au contrôle économique et financier de l'Etat.

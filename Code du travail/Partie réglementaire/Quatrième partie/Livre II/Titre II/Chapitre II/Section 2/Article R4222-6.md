@@ -1,9 +1,4 @@
-
-  
-Lorsque l'aération est assurée par ventilation mécanique, le débit minimal d'air neuf à introduire par occupant est fixé dans le tableau suivant :  
-
-
-
+Lorsque l'aération est assurée par ventilation mécanique, le débit minimal d'air neuf à introduire par occupant est fixé dans le tableau suivant :
 
 | DESIGNATION DES LOCAUX | DEBIT MINIMALd'air neuf par occupant(en mètres cubes par heures) |
 | --- | --- |
@@ -11,8 +6,3 @@ Lorsque l'aération est assurée par ventilation mécanique, le débit minimal d
 | Locaux de restauration, locaux de vente, locaux de réunion | 30 |
 | Ateliers et locaux avec travail physique léger | 45 |
 | Autres ateliers et locaux | 60 |
-
-
-
-  
-

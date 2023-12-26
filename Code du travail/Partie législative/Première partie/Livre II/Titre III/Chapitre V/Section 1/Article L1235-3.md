@@ -1,14 +1,10 @@
-Si le licenciement d'un salarié survient pour une cause qui n'est pas réelle et sérieuse, le juge peut proposer la réintégration du salarié dans l'entreprise, avec maintien de ses avantages acquis. 
+Si le licenciement d'un salarié survient pour une cause qui n'est pas réelle et sérieuse, le juge peut proposer la réintégration du salarié dans l'entreprise, avec maintien de ses avantages acquis.
 
+Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au salarié une indemnité à la charge de l'employeur, dont le montant est compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous.
 
-Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au salarié une indemnité à la charge de l'employeur, dont le montant est compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous. 
-
-
-
-
-| Ancienneté du salarié dans l'entreprise 
-(en années complètes)  | Indemnité minimale 
-(en mois de salaire brut)  | Indemnité maximale 
+| Ancienneté du salarié dans l'entreprise
+(en années complètes)  | Indemnité minimale
+(en mois de salaire brut)  | Indemnité maximale
 (en mois de salaire brut)  |
 | --- | --- | --- |
 | 0  | Sans objet  | 1  |
@@ -43,14 +39,10 @@ Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au
 | 29  | 3  | 20  |
 | 30 et au-delà  | 3  | 20  |
 
+En cas de licenciement opéré dans une entreprise employant habituellement moins de onze salariés, les montants minimaux fixés ci-dessous sont applicables, par dérogation à ceux fixés à l'alinéa précédent :
 
-En cas de licenciement opéré dans une entreprise employant habituellement moins de onze salariés, les montants minimaux fixés ci-dessous sont applicables, par dérogation à ceux fixés à l'alinéa précédent : 
-
-
-
-
-| Ancienneté du salarié dans l'entreprise 
-(en années complètes)  | Indemnité minimale 
+| Ancienneté du salarié dans l'entreprise
+(en années complètes)  | Indemnité minimale
 (en mois de salaire brut)  |
 | --- | --- |
 | 0  | Sans objet  |
@@ -65,9 +57,6 @@ En cas de licenciement opéré dans une entreprise employant habituellement moin
 | 9  | 2,5  |
 | 10  | 2,5  |
 
-
-Pour déterminer le montant de l'indemnité, le juge peut tenir compte, le cas échéant, des indemnités de licenciement versées à l'occasion de la rupture, à l'exception de l'indemnité de licenciement mentionnée à l'article L. 1234-9. 
-
+Pour déterminer le montant de l'indemnité, le juge peut tenir compte, le cas échéant, des indemnités de licenciement versées à l'occasion de la rupture, à l'exception de l'indemnité de licenciement mentionnée à l'article L. 1234-9.
 
 Cette indemnité est cumulable, le cas échéant, avec les indemnités prévues aux articles L. 1235-12, L. 1235-13 et L. 1235-15, dans la limite des montants maximaux prévus au présent article.
-

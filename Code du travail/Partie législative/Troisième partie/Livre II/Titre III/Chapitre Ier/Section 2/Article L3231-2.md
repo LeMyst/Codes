@@ -1,8 +1,5 @@
-  
- Le salaire minimum de croissance assure aux salariés dont les rémunérations sont les plus faibles :  
+Le salaire minimum de croissance assure aux salariés dont les rémunérations sont les plus faibles :
 
-  
- 1° La garantie de leur pouvoir d'achat ;  
+1° La garantie de leur pouvoir d'achat ;
 
-  
- 2° Une participation au développement économique de la nation.  
+2° Une participation au développement économique de la nation.

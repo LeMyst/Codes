@@ -1,4 +1,1 @@
-Le conseil d'administration est composé de représentants des organisations syndicales de salariés et de représentants des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel.   
-
-
-
+Le conseil d'administration est composé de représentants des organisations syndicales de salariés et de représentants des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel.

@@ -1,2 +1,1 @@
 Un décret précise les modalités d'application du présent chapitre.
-

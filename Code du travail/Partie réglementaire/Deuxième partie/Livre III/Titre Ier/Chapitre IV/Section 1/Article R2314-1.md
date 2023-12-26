@@ -1,22 +1,10 @@
-A défaut de stipulations dans l'accord prévu au troisième alinéa de l'article L. 2314-1, le nombre de membres de la délégation du personnel du comité social et économique prévu à l'article L. 2314-1 est défini dans le tableau ci-après.   
+A défaut de stipulations dans l'accord prévu au troisième alinéa de l'article L. 2314-1, le nombre de membres de la délégation du personnel du comité social et économique prévu à l'article L. 2314-1 est défini dans le tableau ci-après.
 
-  
-A défaut de stipulations dans l'accord prévu à l'article L. 2314-7, le temps mensuel nécessaire à l'exercice de leurs fonctions par les représentants mentionnés au 1° de l'article L. 2315-7 est fixé dans les limites d'une durée définie dans le tableau ci-après. Ce nombre d'heures peut être augmenté en cas de circonstances exceptionnelles.   
+A défaut de stipulations dans l'accord prévu à l'article L. 2314-7, le temps mensuel nécessaire à l'exercice de leurs fonctions par les représentants mentionnés au 1° de l'article L. 2315-7 est fixé dans les limites d'une durée définie dans le tableau ci-après. Ce nombre d'heures peut être augmenté en cas de circonstances exceptionnelles.
 
-  
-Lorsque les membres du comité social et économique sont également représentants de proximité, le temps nécessaire à l'exercice de leurs fonctions défini par l'accord prévu à l'article L. 2313-7 peut rester inchangé par rapport au temps dont ils disposent en vertu de l'accord prévu à l'article L. 2314-7 ou, à défaut du tableau ci-dessous.   
+Lorsque les membres du comité social et économique sont également représentants de proximité, le temps nécessaire à l'exercice de leurs fonctions défini par l'accord prévu à l'article L. 2313-7 peut rester inchangé par rapport au temps dont ils disposent en vertu de l'accord prévu à l'article L. 2314-7 ou, à défaut du tableau ci-dessous.
 
-  
-Les effectifs s'apprécient dans le cadre de l'entreprise ou dans le cadre de chaque établissement distinct.   
-
-  
-
-
-
-
-  
-
-
+Les effectifs s'apprécient dans le cadre de l'entreprise ou dans le cadre de chaque établissement distinct.
 
 | Effectif (nombre de salariés)  | Nombre de titulaires  | Nombre mensuel d'heures de délégation  | Total heures de délégation  |
 | --- | --- | --- | --- |
@@ -74,4 +62,3 @@ Les effectifs s'apprécient dans le cadre de l'entreprise ou dans le cadre de ch
 | 9500 à 9749  | 34  | 32  | 1088  |
 | 9750 à 9999  | 34  | 34  | 1156  |
 | 10000  | 35  | 34  | 1190 |
-

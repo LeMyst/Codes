@@ -1,2 +1,1 @@
-Sauf dispositions contraires, les conditions d'application de la présente section sont déterminées par décret en Conseil d'Etat. 
-
+Sauf dispositions contraires, les conditions d'application de la présente section sont déterminées par décret en Conseil d'Etat.

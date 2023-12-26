@@ -1,2 +1,1 @@
 La période de congé prévue au 3° bis de l'article L. 3142-1 commence à courir, au choix du salarié, soit pendant la période de sept jours précédant l'arrivée de l'enfant au foyer, soit le jour de l'arrivée de l'enfant au foyer ou le premier jour ouvrable qui suit cette arrivée.
-

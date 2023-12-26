@@ -1,4 +1,1 @@
-  
-Si, au terme de la négociation, aucun accord n'est intervenu, l'employeur peut mettre en oeuvre le plan pour l'égalité professionnelle, sous réserve d'avoir préalablement consulté et recueilli l'avis du comité social et économique.  
-
-  
+Si, au terme de la négociation, aucun accord n'est intervenu, l'employeur peut mettre en oeuvre le plan pour l'égalité professionnelle, sous réserve d'avoir préalablement consulté et recueilli l'avis du comité social et économique.

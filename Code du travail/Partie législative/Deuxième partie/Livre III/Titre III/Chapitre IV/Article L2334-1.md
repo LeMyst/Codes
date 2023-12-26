@@ -1,5 +1,3 @@
-  
- Le comité de groupe est présidé par le chef de l'entreprise dominante.  
+Le comité de groupe est présidé par le chef de l'entreprise dominante.
 
-  
- Il désigne un secrétaire.  
+Il désigne un secrétaire.

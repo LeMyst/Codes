@@ -1,4 +1,1 @@
-  
- La fonction tutorale peut être partagée entre plusieurs salariés.  
-
-  
+La fonction tutorale peut être partagée entre plusieurs salariés.

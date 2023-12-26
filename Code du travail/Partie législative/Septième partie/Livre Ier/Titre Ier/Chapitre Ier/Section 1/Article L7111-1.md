@@ -1,4 +1,1 @@
-  
- Les dispositions du présent code sont applicables aux journalistes professionnels et assimilés, sous réserve des dispositions particulières du présent titre.  
-
-  
+Les dispositions du présent code sont applicables aux journalistes professionnels et assimilés, sous réserve des dispositions particulières du présent titre.

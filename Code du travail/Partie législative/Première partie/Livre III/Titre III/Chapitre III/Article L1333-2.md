@@ -1,4 +1,1 @@
-  
- Le conseil de prud'hommes peut annuler une sanction irrégulière en la forme ou injustifiée ou disproportionnée à la faute commise.  
-
-  
+Le conseil de prud'hommes peut annuler une sanction irrégulière en la forme ou injustifiée ou disproportionnée à la faute commise.

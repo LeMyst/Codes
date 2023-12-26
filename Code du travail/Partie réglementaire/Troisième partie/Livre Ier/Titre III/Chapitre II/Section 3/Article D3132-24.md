@@ -1,4 +1,1 @@
-
-  
 Le juge mentionné à l'article L. 3132-31 est le président du tribunal judiciaire.
-

@@ -1,4 +1,1 @@
-  
- L'allocation complémentaire est à la charge de l'employeur.  
-
-  
+L'allocation complémentaire est à la charge de l'employeur.

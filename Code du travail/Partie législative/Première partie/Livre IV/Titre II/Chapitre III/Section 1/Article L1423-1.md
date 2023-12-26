@@ -1,5 +1,3 @@
 Le conseil de prud'hommes est divisé en sections autonomes.
 
-
 Il comporte une formation commune de référé.
-

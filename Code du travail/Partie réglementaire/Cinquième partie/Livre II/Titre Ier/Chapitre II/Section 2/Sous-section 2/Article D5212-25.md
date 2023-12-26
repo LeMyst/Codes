@@ -1,9 +1,4 @@
-
-  
-Les catégories d'emploi exigeant des conditions d'aptitude particulières sont énumérées dans la liste ci-dessous :  
-
-
-
+Les catégories d'emploi exigeant des conditions d'aptitude particulières sont énumérées dans la liste ci-dessous :
 
 | NUMÉRO DE LA NOMENCLATURE | INTITULÉ DE LA NOMENCLATURE DES PROFESSIONS ET CATÉGORIESsocioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) |
 | --- | --- |
@@ -43,10 +38,3 @@ Les catégories d'emploi exigeant des conditions d'aptitude particulières sont 
 | 681a | Ouvriers non qualifiés du gros œuvre du bâtiment. |
 | 691a | Conducteurs d'engins agricoles ou forestiers. |
 | 692a | Marins pêcheurs et ouvriers de l'aquaculture. |
-
-
-
-  
-
-  
- 

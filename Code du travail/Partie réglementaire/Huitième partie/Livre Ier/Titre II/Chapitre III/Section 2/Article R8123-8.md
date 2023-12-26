@@ -1,2 +1,1 @@
 Les médecins-conseils de l'inspection du travail, prévus à l'article L. 8123-6, sont choisis sur une liste arrêtée par décret pris après avis du Conseil d'orientation des conditions de travail.
-

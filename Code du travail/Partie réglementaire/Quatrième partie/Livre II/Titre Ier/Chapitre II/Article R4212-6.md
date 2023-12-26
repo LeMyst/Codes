@@ -1,9 +1,4 @@
-
-  
-Le maître d'ouvrage prévoit dans les locaux sanitaires l'introduction d'un débit minimal d'air déterminé par le tableau suivant :  
-
-
-
+Le maître d'ouvrage prévoit dans les locaux sanitaires l'introduction d'un débit minimal d'air déterminé par le tableau suivant :
 
 | DÉSIGNATION DES LOCAUX | DÉBIT MINIMALd'air introduit(en mètres cubespar heure et par local) |
 | --- | --- |
@@ -12,10 +7,5 @@ Le maître d'ouvrage prévoit dans les locaux sanitaires l'introduction d'un dé
 | Commune avec un cabinet d'aisances | 60 |
 | Bains, douches et cabinets d'aisances groupés | 30 + 15 N (\*) |
 | Lavabos groupés | 10 + 5 N (\*)
- |
+|
 |  N (\*) : nombre d'équipements dans le local(\*\*) : pour un cabinet d'aisances, une salle de bains ou de douches avec ou sans cabinet d'aisances, le débit minimal d'air introduit peut être limité à 15 mètres cubes par heure si ce local n'est pas à usage collectif. |
-
-
-
-  
-

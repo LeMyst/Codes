@@ -1,5 +1,3 @@
-  
-Les sentences arbitrales sont motivées.   
+Les sentences arbitrales sont motivées.
 
-  
-Elles ne peuvent faire l'objet que du recours pour excès de pouvoir devant la cour supérieure d'arbitrage mentionnée à l'article L. 2524-7.  
+Elles ne peuvent faire l'objet que du recours pour excès de pouvoir devant la cour supérieure d'arbitrage mentionnée à l'article L. 2524-7.

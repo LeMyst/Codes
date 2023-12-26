@@ -1,5 +1,3 @@
-  
- Tout membre d'un syndicat professionnel peut s'en retirer à tout instant, même en présence d'une clause contraire.  
+Tout membre d'un syndicat professionnel peut s'en retirer à tout instant, même en présence d'une clause contraire.
 
-  
- Le syndicat peut réclamer la cotisation correspondant aux six mois qui suivent le retrait d'adhésion.  
+Le syndicat peut réclamer la cotisation correspondant aux six mois qui suivent le retrait d'adhésion.

@@ -1,4 +1,1 @@
-Pôle Emploi est un établissement public à caractère administratif.   
-
-
-
+Pôle Emploi est un établissement public à caractère administratif.

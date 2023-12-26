@@ -1,4 +1,1 @@
-  
- Un décret en Conseil d'Etat détermine les mesures d'application de la présente sous-section.  
-
-  
+Un décret en Conseil d'Etat détermine les mesures d'application de la présente sous-section.

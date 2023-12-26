@@ -1,11 +1,3 @@
-Une ou plusieurs périodes de mise en situation en milieu professionnel peuvent être prescrites à un salarié en contrat d'accompagnement dans l'emploi, avec son accord et celui de son employeur. 
+Une ou plusieurs périodes de mise en situation en milieu professionnel peuvent être prescrites à un salarié en contrat d'accompagnement dans l'emploi, avec son accord et celui de son employeur.
 
-
- Chacune de ces périodes fait l'objet d'une convention selon les modalités prévues au chapitre V du présent titre, sous réserve des dispositions prévues par la présente sous-section. 
-
-
-  
-
-  
-
-  
+Chacune de ces périodes fait l'objet d'une convention selon les modalités prévues au chapitre V du présent titre, sous réserve des dispositions prévues par la présente sous-section.

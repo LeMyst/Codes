@@ -1,8 +1,5 @@
 Les industries dans lesquelles sont utilisées les matières susceptibles d'altération très rapide et celles dans lesquelles toute interruption de travail entraînerait la perte ou la dépréciation du produit en cours de fabrication ainsi que les catégories d'établissements et établissements mentionnés dans le tableau suivant, sont admis, en application de l'article L. 3132-12, à donner le repos hebdomadaire par roulement pour les salariés employés aux travaux ou activités spécifiés dans ce tableau.
 
-
-
-
 |  |  |
 | --- | --- |
 | CATÉGORIES D'ÉTABLISSEMENTS | TRAVAUX OU ACTIVITÉS |
@@ -217,4 +214,3 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 | Promoteurs et agences immobilières. | Bureaux de vente sur les lieux de construction ou d'exposition. |
 | Activités religieuses |
 | Etablissements à caractère religieux. | Activités directement liées à l'exercice du culte. |
-

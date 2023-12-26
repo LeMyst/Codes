@@ -1,5 +1,2 @@
-
-  
-Le secrétaire du comité de la société européenne est désigné parmi ses membres.  
- Le bureau est élu parmi ses membres.
-
+Le secrétaire du comité de la société européenne est désigné parmi ses membres.\
+Le bureau est élu parmi ses membres.

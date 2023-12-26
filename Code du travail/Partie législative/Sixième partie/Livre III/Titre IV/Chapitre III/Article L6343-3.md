@@ -1,4 +1,1 @@
-  
- Le stagiaire non titulaire d'un contrat de travail ne peut accomplir d'heures supplémentaires.  
-
-  
+Le stagiaire non titulaire d'un contrat de travail ne peut accomplir d'heures supplémentaires.

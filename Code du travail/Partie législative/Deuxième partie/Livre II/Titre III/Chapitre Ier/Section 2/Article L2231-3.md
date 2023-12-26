@@ -1,4 +1,1 @@
-  
- La convention ou l'accord est, à peine de nullité, un acte écrit.  
-
-  
+La convention ou l'accord est, à peine de nullité, un acte écrit.

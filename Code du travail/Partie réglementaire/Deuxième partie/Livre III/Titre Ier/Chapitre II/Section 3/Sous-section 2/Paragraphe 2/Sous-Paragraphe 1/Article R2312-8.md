@@ -1,7 +1,4 @@
-En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises de moins de trois cents salariés, la base de données prévue à l'article L. 2312-18 comporte les informations suivantes : 
-
-
-
+En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises de moins de trois cents salariés, la base de données prévue à l'article L. 2312-18 comporte les informations suivantes :
 
 |  |
 | --- |
@@ -35,11 +32,11 @@ En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises de mo
 -les résultats obtenus en fin d'action ou de période de professionnalisation ainsi que les conditions d'appréciation et de validation. Le bilan de la mise en œuvre du compte personnel de formation ;  |
 | f) Conditions de travail : durée du travail dont travail à temps partiel et aménagement du temps de travail ; Données sur le travail à temps partiel :
 -nombre, sexe et qualification des salariés travaillant à temps partiel ;
--horaires de travail à temps partiel pratiqués dans l'entreprise ; 
-Le programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail prévu au 2° de l'article L. 2312-27 établi à partir des analyses mentionnées à l'article L. 2312-9 et fixant la liste détaillée des mesures devant être prises au cours de l'année à venir dans les mêmes domaines afin de satisfaire, notamment : 
-i-Aux principes généraux de prévention prévus aux articles L. 4121-1 à L. 4121-5 et L. 4221-1 ; 
-ii-A l'information et à la formation des travailleurs prévues aux articles L. 4141-1 à L. 4143-1 ; 
-iii-A l'information et à la formation des salariés titulaires d'un contrat de travail à durée déterminée et des salariés temporaires prévues aux articles L. 4154-2 et L. 4154-4 ; 
+-horaires de travail à temps partiel pratiqués dans l'entreprise ;
+Le programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail prévu au 2° de l'article L. 2312-27 établi à partir des analyses mentionnées à l'article L. 2312-9 et fixant la liste détaillée des mesures devant être prises au cours de l'année à venir dans les mêmes domaines afin de satisfaire, notamment :
+i-Aux principes généraux de prévention prévus aux articles L. 4121-1 à L. 4121-5 et L. 4221-1 ;
+ii-A l'information et à la formation des travailleurs prévues aux articles L. 4141-1 à L. 4143-1 ;
+iii-A l'information et à la formation des salariés titulaires d'un contrat de travail à durée déterminée et des salariés temporaires prévues aux articles L. 4154-2 et L. 4154-4 ;
 iv-A la coordination de la prévention prévue aux articles L. 4522-1 et L. 4522-2 ;  |
 | B-Investissement matériel et immatériel :  | a) Evolution des actifs nets d'amortissement et de dépréciations éventuelles (immobilisations) ;  |
 | b) Le cas échéant, dépenses de recherche et développement ;  |
@@ -57,7 +54,7 @@ iv-A la coordination de la prévention prévue aux articles L. 4522-1 et L. 4522
 | A-Evolution des rémunérations salariales :  | a) Frais de personnel y compris cotisations sociales, évolutions salariales par catégorie et par sexe, salaire de base minimum, salaire moyen ou médian, par sexe et par catégorie professionnelle ;  |
 | b) Pour les entreprises soumises aux dispositions de l'article L. 225-115 du code de commerce , montant global des rémunérations visées au 4° de cet article ;  |
 | c) Epargne salariale : intéressement, participation ;  |
-| 5° Activités sociales et culturelles : montant de la contribution aux activités sociales et culturelles 
+| 5° Activités sociales et culturelles : montant de la contribution aux activités sociales et culturelles
 Du comité social et économique, mécénat ;  |
 | 6° Rémunération des financeurs, en dehors des éléments mentionnés au 4° :  |
 | A-Rémunération des actionnaires (revenus distribués) ;  |
@@ -68,13 +65,13 @@ Du comité social et économique, mécénat ;  |
 | C-Exonérations et réductions de cotisations sociales ;  |  |
 | D-Crédits d'impôts ;  |  |
 | E-Mécénat ;  |  |
-| F-Résultats financiers :  | a) Chiffre d'affaires, bénéfices ou pertes constatés ; 
-b) Résultats d'activité en valeur et en volume ; 
+| F-Résultats financiers :  | a) Chiffre d'affaires, bénéfices ou pertes constatés ;
+b) Résultats d'activité en valeur et en volume ;
 c) Affectation des bénéfices réalisés ;  |
 | 8° Partenariats :  |
 | A-Partenariats conclus pour produire des services ou des produits pour une autre entreprise ;  |
 | B-Partenariats conclus pour bénéficier des services ou des produits d'une autre entreprise ;  |
-| 9° Pour les entreprises appartenant à un groupe, transferts commerciaux et financiers 
+| 9° Pour les entreprises appartenant à un groupe, transferts commerciaux et financiers
 entre les entités du groupe :  |
 | A-Transferts de capitaux tels qu'ils figurent dans les comptes individuels des sociétés du groupe lorsqu'ils présentent une importance significative, notamment transferts de capitaux importants entre la société mère et les filiales ;  |
 | B-Cessions, fusions, et acquisitions réalisées.  |
@@ -84,6 +81,5 @@ entre les entités du groupe :  |
 | b) Utilisation durable des ressources : consommation d'eau et consommation d'énergie ;  |
 | C-Changement climatique :  | a) Identification des postes d'émissions directes de gaz à effet de serre produites par les sources fixes et mobiles nécessaires aux activités de l'entreprise (communément appelées " émissions du scope 1 ") et, lorsque l'entreprise dispose de cette information, évaluation du volume de ces émissions de gaz à effet de serre ;  |
 | b) Bilan des émissions de gaz à effet de serre prévu par l' article L. 229-25 du code de l'environnement ou bilan simplifié prévu par l' article 244 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021 pour les entreprises tenues d'établir ces différents bilans.  |
-| Notes : 
+| Notes :
 (1) Lorsque les données et informations environnementales transmises dans le cadre de cette rubrique ne sont pas éditées au niveau de l'entreprise (i. e. par exemple, au niveau du groupe ou des établissements distincts, le cas échéant), elles doivent être accompagnées d'informations supplémentaires pertinentes pour être mises en perspective à ce niveau. |
-

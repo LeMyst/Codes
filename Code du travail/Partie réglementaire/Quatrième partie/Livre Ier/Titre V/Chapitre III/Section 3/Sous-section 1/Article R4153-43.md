@@ -1,2 +1,1 @@
 En cas de modification des informations mentionnées aux 3° ou 5° de l'article R. 4153-41, ces informations sont tenues à la disposition de l'agent de contrôle de l'inspection du travail.
-

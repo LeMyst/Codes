@@ -1,4 +1,1 @@
-  
- Les documents communiqués aux représentants des salariés comportent au moins une version en français.  
-
-  
+Les documents communiqués aux représentants des salariés comportent au moins une version en français.

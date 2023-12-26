@@ -1,4 +1,1 @@
-  
- Des décrets en Conseil d'Etat déterminent les modalités d'application du présent chapitre.  
-
-  
+Des décrets en Conseil d'Etat déterminent les modalités d'application du présent chapitre.

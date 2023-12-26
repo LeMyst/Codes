@@ -1,9 +1,3 @@
-Lorsqu'un groupement d'employeurs se constitue, il en informe l'inspection du travail. 
-
-
-  
+Lorsqu'un groupement d'employeurs se constitue, il en informe l'inspection du travail.
 
 La liste des membres du groupement est tenue en permanence à la disposition de l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 au siège du groupement.
-
-
-  

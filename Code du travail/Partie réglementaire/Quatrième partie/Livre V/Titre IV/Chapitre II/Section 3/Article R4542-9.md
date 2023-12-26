@@ -1,5 +1,2 @@
-
-  
-Le siège est, s'il y a lieu, adaptable en hauteur et en inclinaison.  
- Un repose-pieds est mis à la disposition des travailleurs qui en font la demande.
-
+Le siège est, s'il y a lieu, adaptable en hauteur et en inclinaison.\
+Un repose-pieds est mis à la disposition des travailleurs qui en font la demande.

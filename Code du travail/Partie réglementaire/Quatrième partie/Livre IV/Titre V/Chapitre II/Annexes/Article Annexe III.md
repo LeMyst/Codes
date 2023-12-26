@@ -1,5 +1,3 @@
-
-
 |  |  |  |  |
 | --- | --- | --- | --- |
 | Numérotation modifiée | Nouvelle numérotation | Références modifiées | Nouvelles références |
@@ -214,16 +212,3 @@ Sous-section 1 :Exposition résultant de l'emploi ou du stockage de matières de
 | Section 4 :Dispositions communes | Sous-section 4 :Dispositions communes |  |  |
 | R. 4457-13 | R. 4451-143 | sections 1 à 3ces sectionschapitre Ier à VIarticle R. 4452-12sous-section 2section I du chapitre II(deux références)article R. 4453-24(deux références)article R. 4452-13 | sous- sections 1 à 3ces sous-sectionssection 1 à 6article R. 4451-29paragraphe 2sous-section 1de la section 2article R. 4451-67 |
 | R. 4457-14 | R. 4451-144 | article R. 4457-13article R. 4452-6et R. 4452-7section 6du chapitre III | article R. 4451-143article R. 4451-23et R. 4451-24sous-section 6de la section 3 |
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-

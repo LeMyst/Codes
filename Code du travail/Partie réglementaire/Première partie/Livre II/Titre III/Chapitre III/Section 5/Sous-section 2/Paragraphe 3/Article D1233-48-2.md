@@ -1,8 +1,3 @@
-Pour le calcul de la contribution prévue à l'article L. 1233-86 ou à l'article L. 1237-19-11, le nombre d'emplois supprimés est égal au nombre total de ruptures de contrat de travail prévues dans le cadre du ou des licenciements collectifs ou du ou des accords portant rupture conventionnelle collective dans l'ensemble des départements concernés.  
-
-  
+Pour le calcul de la contribution prévue à l'article L. 1233-86 ou à l'article L. 1237-19-11, le nombre d'emplois supprimés est égal au nombre total de ruptures de contrat de travail prévues dans le cadre du ou des licenciements collectifs ou du ou des accords portant rupture conventionnelle collective dans l'ensemble des départements concernés.
 
 Sont déduits du nombre de ruptures mentionné à l'alinéa précédent le nombre de salariés dont le reclassement, dans l'entreprise ou dans le groupe auquel elle appartient, est acquis à l'issue de la procédure de consultation des représentants du personnel prévue à l'article L. 1233-8 en cas de licenciement de moins de dix salariés dans une même période de trente jours, ou à l'article L. 1233-28 en cas de licenciement de dix salariés ou plus dans une même période de trente jours, ainsi que le nombre d'emplois pourvus sur le même poste de travail en remplacement des salariés dont le contrat de travail a été rompu en application de l'article L. 1237-19 dans le cas d'une rupture conventionnelle collective.
-
-
-  

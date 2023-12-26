@@ -1,5 +1,2 @@
-
-  
-Le conseiller du travail est désigné et maintenu en fonction après accord, selon le cas, entre l'employeur et le comité social et économique ou entre les employeurs et le comité interentreprises.   
+Le conseiller du travail est désigné et maintenu en fonction après accord, selon le cas, entre l'employeur et le comité social et économique ou entre les employeurs et le comité interentreprises.\
 En cas de désaccord, la décision est prise par l'inspecteur du travail.
-

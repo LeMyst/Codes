@@ -1,4 +1,1 @@
-  
- Les donations en faveur de mariage ne seront pas révocables pour cause d'ingratitude.  
-
-  
+Les donations en faveur de mariage ne seront pas révocables pour cause d'ingratitude.

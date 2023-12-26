@@ -1,8 +1,5 @@
-  
- Il répond de l'incendie, à moins qu'il ne prouve :  
+Il répond de l'incendie, à moins qu'il ne prouve :
 
-  
- Que l'incendie est arrivé par cas fortuit ou force majeure, ou par vice de construction.  
+Que l'incendie est arrivé par cas fortuit ou force majeure, ou par vice de construction.
 
-  
- Ou que le feu a été communiqué par une maison voisine.  
+Ou que le feu a été communiqué par une maison voisine.

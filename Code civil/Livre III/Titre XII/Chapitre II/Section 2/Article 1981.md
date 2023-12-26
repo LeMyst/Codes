@@ -1,4 +1,1 @@
-  
- La rente viagère ne peut être stipulée insaisissable que lorsqu'elle a été constituée à titre gratuit.  
-
-  
+La rente viagère ne peut être stipulée insaisissable que lorsqu'elle a été constituée à titre gratuit.

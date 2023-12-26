@@ -1,5 +1,3 @@
-  
- La chose doit être délivrée en l'état où elle se trouve au moment de la vente.  
+La chose doit être délivrée en l'état où elle se trouve au moment de la vente.
 
-  
- Depuis ce jour, tous les fruits appartiennent à l'acquéreur.  
+Depuis ce jour, tous les fruits appartiennent à l'acquéreur.

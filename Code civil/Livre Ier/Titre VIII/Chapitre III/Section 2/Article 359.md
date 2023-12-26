@@ -1,4 +1,1 @@
-  
- L'adoption est irrévocable.  
-
-  
+L'adoption est irrévocable.

@@ -1,4 +1,1 @@
-  
- Le dépôt est volontaire ou nécessaire.  
-
-  
+Le dépôt est volontaire ou nécessaire.

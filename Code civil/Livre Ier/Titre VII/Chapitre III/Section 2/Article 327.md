@@ -1,5 +1,3 @@
-  
- La paternité hors mariage peut être judiciairement déclarée.  
+La paternité hors mariage peut être judiciairement déclarée.
 
-  
- L'action en recherche de paternité est réservée à l'enfant.  
+L'action en recherche de paternité est réservée à l'enfant.

@@ -1,4 +1,1 @@
-  
- Le titre exécutoire contre le défunt l'est aussi contre l'héritier, huit jours après que la signification lui en a été faite.  
-
-  
+Le titre exécutoire contre le défunt l'est aussi contre l'héritier, huit jours après que la signification lui en a été faite.

@@ -1,4 +1,1 @@
-  
- Les créanciers de l'usufruitier peuvent faire annuler la renonciation qu'il aurait faite à leur préjudice.  
-
-  
+Les créanciers de l'usufruitier peuvent faire annuler la renonciation qu'il aurait faite à leur préjudice.

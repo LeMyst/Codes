@@ -1,4 +1,1 @@
-  
- Le séquestre est ou conventionnel ou judiciaire.  
-
-  
+Le séquestre est ou conventionnel ou judiciaire.

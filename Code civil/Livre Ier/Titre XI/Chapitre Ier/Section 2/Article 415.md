@@ -1,11 +1,7 @@
-  
- Les personnes majeures reçoivent la protection de leur personne et de leurs biens que leur état ou leur situation rend nécessaire selon les modalités prévues au présent titre.  
+Les personnes majeures reçoivent la protection de leur personne et de leurs biens que leur état ou leur situation rend nécessaire selon les modalités prévues au présent titre.
 
-  
- Cette protection est instaurée et assurée dans le respect des libertés individuelles, des droits fondamentaux et de la dignité de la personne.  
+Cette protection est instaurée et assurée dans le respect des libertés individuelles, des droits fondamentaux et de la dignité de la personne.
 
-  
- Elle a pour finalité l'intérêt de la personne protégée. Elle favorise, dans la mesure du possible, l'autonomie de celle-ci.  
+Elle a pour finalité l'intérêt de la personne protégée. Elle favorise, dans la mesure du possible, l'autonomie de celle-ci.
 
-  
- Elle est un devoir des familles et de la collectivité publique.  
+Elle est un devoir des familles et de la collectivité publique.

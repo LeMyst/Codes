@@ -1,4 +1,1 @@
-  
- Les biens sont meubles par leur nature ou par la détermination de la loi.  
-
-  
+Les biens sont meubles par leur nature ou par la détermination de la loi.

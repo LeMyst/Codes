@@ -1,4 +1,1 @@
-  
- Lorsqu'il y a un congé signifié, le preneur quoiqu'il ait continué sa jouissance, ne peut invoquer la tacite reconduction.  
-
-  
+Lorsqu'il y a un congé signifié, le preneur quoiqu'il ait continué sa jouissance, ne peut invoquer la tacite reconduction.

@@ -1,11 +1,7 @@
-  
- L'héritier règle le passif de la succession.  
+L'héritier règle le passif de la succession.
 
-  
- Il paye les créanciers inscrits selon le rang de la sûreté assortissant leur créance.  
+Il paye les créanciers inscrits selon le rang de la sûreté assortissant leur créance.
 
-  
- Les autres créanciers qui ont déclaré leur créance sont désintéressés dans l'ordre des déclarations.  
+Les autres créanciers qui ont déclaré leur créance sont désintéressés dans l'ordre des déclarations.
 
-  
- Les legs de sommes d'argent sont délivrés après paiement des créanciers.  
+Les legs de sommes d'argent sont délivrés après paiement des créanciers.

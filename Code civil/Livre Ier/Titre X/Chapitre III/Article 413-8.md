@@ -1,2 +1,1 @@
 Le mineur émancipé peut être commerçant sur autorisation du juge des tutelles au moment de la décision d'émancipation et du président du tribunal judiciaire s'il formule cette demande après avoir été émancipé.
-

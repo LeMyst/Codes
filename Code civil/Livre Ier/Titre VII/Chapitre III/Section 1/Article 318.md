@@ -1,4 +1,1 @@
-  
- Aucune action n'est reçue quant à la filiation d'un enfant qui n'est pas né viable.  
-
-  
+Aucune action n'est reçue quant à la filiation d'un enfant qui n'est pas né viable.

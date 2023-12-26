@@ -1,8 +1,5 @@
-  
- Le mariage se dissout :  
+Le mariage se dissout :
 
-  
- 1° Par la mort de l'un des époux ;  
+1° Par la mort de l'un des époux ;
 
-  
- 2° Par le divorce légalement prononcé.  
+2° Par le divorce légalement prononcé.

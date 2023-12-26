@@ -1,2 +1,1 @@
 Si elle procède d'un cas de force majeure, l'impossibilité d'exécuter la prestation choisie libère le débiteur.
-

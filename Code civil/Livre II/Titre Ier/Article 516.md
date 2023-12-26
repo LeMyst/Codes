@@ -1,4 +1,1 @@
-  
- Tous les biens sont meubles ou immeubles.  
-
-  
+Tous les biens sont meubles ou immeubles.

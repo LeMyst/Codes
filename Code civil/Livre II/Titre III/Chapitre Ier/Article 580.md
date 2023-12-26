@@ -1,4 +1,1 @@
-  
- L'usufruit peut être établi, ou purement, ou à certain jour, ou à condition.  
-
-  
+L'usufruit peut être établi, ou purement, ou à certain jour, ou à condition.

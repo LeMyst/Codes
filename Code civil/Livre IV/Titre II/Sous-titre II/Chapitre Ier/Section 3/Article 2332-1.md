@@ -1,4 +1,1 @@
-  
- Sauf dispositions contraires, les privilèges spéciaux priment les privilèges généraux.  
-
-  
+Sauf dispositions contraires, les privilèges spéciaux priment les privilèges généraux.

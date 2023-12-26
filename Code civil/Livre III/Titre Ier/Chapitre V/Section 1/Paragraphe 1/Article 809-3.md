@@ -1,4 +1,1 @@
-  
- La déclaration des créances est faite au curateur.  
-
-  
+La déclaration des créances est faite au curateur.

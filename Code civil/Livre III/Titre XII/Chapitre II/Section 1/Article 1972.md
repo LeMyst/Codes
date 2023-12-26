@@ -1,4 +1,1 @@
-  
- Elle peut être constituée sur une ou plusieurs têtes.  
-
-  
+Elle peut être constituée sur une ou plusieurs têtes.

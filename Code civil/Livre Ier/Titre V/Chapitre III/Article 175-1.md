@@ -1,4 +1,1 @@
-  
- Le ministère public peut former opposition pour les cas où il pourrait demander la nullité du mariage.  
-
-  
+Le ministère public peut former opposition pour les cas où il pourrait demander la nullité du mariage.

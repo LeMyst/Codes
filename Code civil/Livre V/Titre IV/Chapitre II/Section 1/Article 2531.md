@@ -1,14 +1,9 @@
-  
- Sont seuls susceptibles d'hypothèques :  
+Sont seuls susceptibles d'hypothèques :
 
-  
- 1° Les biens immobiliers qui sont dans le commerce et leurs accessoires réputés immeubles ;  
+1° Les biens immobiliers qui sont dans le commerce et leurs accessoires réputés immeubles ;
 
-  
- 2° L'usufruit des mêmes biens et accessoires, pendant le temps de sa durée ;  
+2° L'usufruit des mêmes biens et accessoires, pendant le temps de sa durée ;
 
-  
- 3° L'emphytéose, pendant le temps de sa durée ;  
+3° L'emphytéose, pendant le temps de sa durée ;
 
-  
- 4° Le droit de superficie.  
+4° Le droit de superficie.

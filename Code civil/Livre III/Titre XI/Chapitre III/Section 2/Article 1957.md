@@ -1,4 +1,1 @@
-  
- Le séquestre peut n'être pas gratuit.  
-
-  
+Le séquestre peut n'être pas gratuit.

@@ -1,4 +1,1 @@
-  
- Ce prêt est essentiellement gratuit.  
-
-  
+Ce prêt est essentiellement gratuit.

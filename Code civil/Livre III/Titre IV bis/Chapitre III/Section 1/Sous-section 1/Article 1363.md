@@ -1,6 +1,1 @@
-Nul ne peut se constituer de titre à soi-même. 
-
-
-  
-
-  
+Nul ne peut se constituer de titre à soi-même.

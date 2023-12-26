@@ -1,8 +1,5 @@
-  
- Il y a deux sortes de contrats de louage :  
+Il y a deux sortes de contrats de louage :
 
-  
- Celui des choses,  
+Celui des choses,
 
-  
- Et celui d'ouvrage.  
+Et celui d'ouvrage.

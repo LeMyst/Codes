@@ -1,4 +1,1 @@
-  
- La réserve de propriété est convenue par écrit.  
-
-  
+La réserve de propriété est convenue par écrit.

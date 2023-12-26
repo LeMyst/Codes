@@ -1,8 +1,5 @@
-  
- Les fruits naturels ou industriels de la terre,  
+Les fruits naturels ou industriels de la terre,
 
-  
- Les fruits civils,  
+Les fruits civils,
 
-  
- Le croît des animaux, appartiennent au propriétaire par droit d'accession.  
+Le croît des animaux, appartiennent au propriétaire par droit d'accession.

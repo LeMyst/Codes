@@ -1,4 +1,1 @@
-  
- Le dépôt proprement dit est un contrat essentiellement gratuit.  
-
-  
+Le dépôt proprement dit est un contrat essentiellement gratuit.

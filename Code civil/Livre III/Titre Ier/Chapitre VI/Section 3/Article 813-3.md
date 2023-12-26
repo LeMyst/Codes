@@ -1,4 +1,1 @@
-  
- La décision de nomination est enregistrée et publiée.  
-
-  
+La décision de nomination est enregistrée et publiée.

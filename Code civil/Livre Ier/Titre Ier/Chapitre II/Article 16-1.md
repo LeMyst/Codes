@@ -1,8 +1,5 @@
-  
- Chacun a droit au respect de son corps.  
+Chacun a droit au respect de son corps.
 
-  
- Le corps humain est inviolable.  
+Le corps humain est inviolable.
 
-  
- Le corps humain, ses éléments et ses produits ne peuvent faire l'objet d'un droit patrimonial.  
+Le corps humain, ses éléments et ses produits ne peuvent faire l'objet d'un droit patrimonial.

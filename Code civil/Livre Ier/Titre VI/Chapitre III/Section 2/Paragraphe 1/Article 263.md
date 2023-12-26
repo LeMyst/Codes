@@ -1,4 +1,1 @@
-  
- Si les époux divorcés veulent contracter entre eux une autre union, une nouvelle célébration du mariage est nécessaire.  
-
-  
+Si les époux divorcés veulent contracter entre eux une autre union, une nouvelle célébration du mariage est nécessaire.

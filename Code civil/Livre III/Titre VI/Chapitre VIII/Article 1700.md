@@ -1,4 +1,1 @@
-  
- La chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit.  
-
-  
+La chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit.

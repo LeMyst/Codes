@@ -1,4 +1,1 @@
-  
- Le présent code est applicable à Mayotte dans les conditions définies au présent livre.  
-
-  
+Le présent code est applicable à Mayotte dans les conditions définies au présent livre.

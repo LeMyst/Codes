@@ -1,4 +1,1 @@
-  
- La représentation n'a pas lieu en faveur des ascendants ; le plus proche, dans chacune des deux lignes, exclut toujours le plus éloigné.  
-
-  
+La représentation n'a pas lieu en faveur des ascendants ; le plus proche, dans chacune des deux lignes, exclut toujours le plus éloigné.

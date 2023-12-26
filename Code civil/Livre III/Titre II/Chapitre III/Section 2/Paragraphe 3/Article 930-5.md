@@ -1,4 +1,1 @@
-  
- La renonciation est opposable aux représentants du renonçant.  
-
-  
+La renonciation est opposable aux représentants du renonçant.

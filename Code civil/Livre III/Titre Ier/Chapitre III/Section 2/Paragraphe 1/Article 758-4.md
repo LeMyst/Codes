@@ -1,4 +1,1 @@
-  
- Le conjoint est réputé avoir opté pour l'usufruit s'il décède sans avoir pris parti.  
-
-  
+Le conjoint est réputé avoir opté pour l'usufruit s'il décède sans avoir pris parti.

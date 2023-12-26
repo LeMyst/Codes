@@ -1,4 +1,1 @@
-  
- Le donateur peut, à tout moment, renoncer à exercer la révocation pour survenance d'enfant.  
-
-  
+Le donateur peut, à tout moment, renoncer à exercer la révocation pour survenance d'enfant.

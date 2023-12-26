@@ -1,4 +1,1 @@
-  
- L'enfant conçu ou né pendant le mariage a pour père le mari.  
-
-  
+L'enfant conçu ou né pendant le mariage a pour père le mari.

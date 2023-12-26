@@ -1,4 +1,1 @@
-  
- Les servitudes continues et apparentes s'acquièrent par titre, ou par la possession de trente ans.  
-
-  
+Les servitudes continues et apparentes s'acquièrent par titre, ou par la possession de trente ans.

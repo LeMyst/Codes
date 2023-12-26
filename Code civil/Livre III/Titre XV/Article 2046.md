@@ -1,5 +1,3 @@
-  
- On peut transiger sur l'intérêt civil qui résulte d'un délit.  
+On peut transiger sur l'intérêt civil qui résulte d'un délit.
 
-  
- La transaction n'empêche pas la poursuite du ministère public.  
+La transaction n'empêche pas la poursuite du ministère public.

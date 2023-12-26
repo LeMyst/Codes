@@ -1,4 +1,1 @@
-  
- Le prêteur demeure propriétaire de la chose prêtée.  
-
-  
+Le prêteur demeure propriétaire de la chose prêtée.

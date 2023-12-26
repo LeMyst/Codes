@@ -1,4 +1,1 @@
-  
- Les dispositions du présent chapitre sont d'ordre public.  
-
-  
+Les dispositions du présent chapitre sont d'ordre public.

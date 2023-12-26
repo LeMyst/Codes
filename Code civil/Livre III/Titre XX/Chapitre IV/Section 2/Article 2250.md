@@ -1,2 +1,1 @@
-Seule une prescription acquise est susceptible de renonciation. 
-
+Seule une prescription acquise est susceptible de renonciation.

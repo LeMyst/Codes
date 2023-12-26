@@ -1,4 +1,1 @@
-  
- Tout Français jouira des droits civils.  
-
-  
+Tout Français jouira des droits civils.

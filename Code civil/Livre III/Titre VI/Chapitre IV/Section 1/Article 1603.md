@@ -1,4 +1,1 @@
-  
- Il a deux obligations principales, celle de délivrer et celle de garantir la chose qu'il vend.  
-
-  
+Il a deux obligations principales, celle de délivrer et celle de garantir la chose qu'il vend.

@@ -1,4 +1,1 @@
-  
- Le droit d'habitation ne peut être ni cédé ni loué.  
-
-  
+Le droit d'habitation ne peut être ni cédé ni loué.

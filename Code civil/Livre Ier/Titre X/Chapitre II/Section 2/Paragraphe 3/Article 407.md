@@ -1,5 +1,3 @@
-  
- La tutelle est une charge personnelle.  
+La tutelle est une charge personnelle.
 
-  
- Elle ne se transmet pas aux héritiers du tuteur.  
+Elle ne se transmet pas aux héritiers du tuteur.

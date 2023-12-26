@@ -1,11 +1,7 @@
-  
- Sont immeubles, par l'objet auquel ils s'appliquent :  
+Sont immeubles, par l'objet auquel ils s'appliquent :
 
-  
- L'usufruit des choses immobilières ;  
+L'usufruit des choses immobilières ;
 
-  
- Les servitudes ou services fonciers ;  
+Les servitudes ou services fonciers ;
 
-  
- Les actions qui tendent à revendiquer un immeuble.  
+Les actions qui tendent à revendiquer un immeuble.

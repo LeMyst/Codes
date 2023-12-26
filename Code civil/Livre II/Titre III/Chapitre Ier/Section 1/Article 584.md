@@ -1,5 +1,3 @@
-  
- Les fruits civils sont les loyers des maisons, les intérêts des sommes exigibles, les arrérages des rentes.  
+Les fruits civils sont les loyers des maisons, les intérêts des sommes exigibles, les arrérages des rentes.
 
-  
- Les prix des baux à ferme sont aussi rangés dans la classe des fruits civils.  
+Les prix des baux à ferme sont aussi rangés dans la classe des fruits civils.

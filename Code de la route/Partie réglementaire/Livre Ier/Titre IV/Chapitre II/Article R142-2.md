@@ -1,4 +1,1 @@
-  
- Les dispositions réglementaires du présent livre sont applicables à Mayotte.  
-
-  
+Les dispositions réglementaires du présent livre sont applicables à Mayotte.

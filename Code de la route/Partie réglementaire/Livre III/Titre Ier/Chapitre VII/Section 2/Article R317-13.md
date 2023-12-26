@@ -1,4 +1,1 @@
-  
- Le ministre chargé des transports détermine les conditions d'application de la présente section aux matériels de travaux publics.  
-
-  
+Le ministre chargé des transports détermine les conditions d'application de la présente section aux matériels de travaux publics.

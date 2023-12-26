@@ -1,4 +1,3 @@
-La licence de réutilisation est délivrée pour une durée maximale de cinq ans.   
+La licence de réutilisation est délivrée pour une durée maximale de cinq ans.
 
-  
- Elle est renouvelable.
+Elle est renouvelable.

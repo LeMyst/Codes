@@ -1,4 +1,1 @@
-  
- Les dispositions concernant la mise en fourrière ne sont pas applicables aux véhicules militaires.  
-
-  
+Les dispositions concernant la mise en fourrière ne sont pas applicables aux véhicules militaires.

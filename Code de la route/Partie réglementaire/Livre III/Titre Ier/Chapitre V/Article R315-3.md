@@ -1,5 +1,3 @@
-  
- Tout cycle doit être muni de deux dispositifs de freinage efficaces.  
+Tout cycle doit être muni de deux dispositifs de freinage efficaces.
 
-  
- Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.  
+Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.

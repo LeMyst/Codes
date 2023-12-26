@@ -1,4 +1,1 @@
-  
- Pour l'application du présent livre dans la collectivité territoriale de Saint-Pierre-et-Miquelon, le terme "département" est remplacé par "collectivité territoriale".  
-
-  
+Pour l'application du présent livre dans la collectivité territoriale de Saint-Pierre-et-Miquelon, le terme "département" est remplacé par "collectivité territoriale".

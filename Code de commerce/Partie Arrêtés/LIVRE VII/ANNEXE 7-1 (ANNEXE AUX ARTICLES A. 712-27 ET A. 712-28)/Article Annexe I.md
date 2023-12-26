@@ -1,19 +1,5 @@
- SECTIONS COMPTABLES À OUVRIR  
- AU SEIN DES DIFFÉRENTS SERVICES BUDGÉTAIRES
-
-
-  
-
-  
-
-
-  
-
-
-
-
-
-
+SECTIONS COMPTABLES À OUVRIR\
+AU SEIN DES DIFFÉRENTS SERVICES BUDGÉTAIRES
 
 |  SERVICES BUDGÉTAIRES |  SECTIONS COMPTABLES obligatoires |
 | --- | --- |
@@ -25,9 +11,3 @@
 |  Service Collecte et gestion de la PEEC. |  Collecte. Gestion. |
 |  Service Divers. |  Une section par opération (\*).  |
 |  (\*) Si l'opération en question présente une importance significative. |
-
-
-
-  
-
-  

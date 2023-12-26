@@ -1,4 +1,1 @@
-  
- Le porteur qui refuse le paiement par intervention perd ses recours contre ceux qui auraient été libérés.  
-
-  
+Le porteur qui refuse le paiement par intervention perd ses recours contre ceux qui auraient été libérés.

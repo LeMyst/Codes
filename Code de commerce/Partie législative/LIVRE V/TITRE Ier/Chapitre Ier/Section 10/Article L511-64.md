@@ -1,5 +1,3 @@
-  
- Les rechanges ne peuvent être cumulés.  
+Les rechanges ne peuvent être cumulés.
 
-  
- Chaque endosseur n'en supporte qu'un seul ainsi que le tireur.  
+Chaque endosseur n'en supporte qu'un seul ainsi que le tireur.

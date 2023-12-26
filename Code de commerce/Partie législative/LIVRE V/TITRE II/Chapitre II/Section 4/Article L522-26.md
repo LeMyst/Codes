@@ -1,4 +1,1 @@
-  
- Les récépissés et les warrants peuvent être transférés par voie d'endossement, ensemble ou séparément.  
-
-  
+Les récépissés et les warrants peuvent être transférés par voie d'endossement, ensemble ou séparément.

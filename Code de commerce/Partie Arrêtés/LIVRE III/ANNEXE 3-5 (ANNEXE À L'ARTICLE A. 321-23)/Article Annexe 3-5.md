@@ -1,129 +1,74 @@
+**Epreuve d'aptitude prévue à l'article R. 321-67**
 
-**Epreuve d'aptitude prévue à l'article R. 321-67** 
+Matières juridiques
 
+Ventes volontaires et judiciaires : notions et distinctions ; textes applicables.
 
+La fiscalité.
 
-Matières juridiques   
+Le droit de suite.
 
+L'intervention de l'Etat : droit de préemption.
 
+Les importations et exportations des œuvres d'art.
 
+Le trafic illicite des œuvres d'art.
 
-Ventes volontaires et judiciaires : notions et distinctions ; textes applicables. 
+Pratique des ventes volontaires
 
-
-La fiscalité. 
-
-
-Le droit de suite. 
-
-
-L'intervention de l'Etat : droit de préemption. 
-
-
-Les importations et exportations des œuvres d'art. 
-
-
-Le trafic illicite des œuvres d'art.   
-
-
-
-
-Pratique des ventes volontaires 
-
-
-de meubles aux enchères publiques   
-
-
-
+de meubles aux enchères publiques
 
 La pratique des ventes aux enchères publiques de meubles :
 
-
 -préparation des ventes ;
-
 
 -direction des ventes et incidents ;
 
-
--rédaction des actes et tenue des documents. 
-
+-rédaction des actes et tenue des documents.
 
 La pratique :
 
-
 -des estimations et prisées ;
-
 
 -des inventaires ;
 
-
 -des expertises ;
 
-
--des partages. 
-
+-des partages.
 
 Pratiques particulières :
 
-
 -spécificités du marché de l'art : identification et estimation des objets d'art ;
 
+-inventaire, estimation et vente du matériel industriel, commercial et agricole ; des stocks des entreprises ; des véhicules.
 
--inventaire, estimation et vente du matériel industriel, commercial et agricole ; des stocks des entreprises ; des véhicules.   
+Réglementation professionnelle
 
+Statut des sociétés de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires.
 
+Organisation et attributions du conseil des maisons de vente.
 
+Déontologie et discipline.
 
-Réglementation professionnelle   
+Responsabilité civile professionnelle.
 
-
-
-
-Statut des sociétés de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires. 
-
-
-Organisation et attributions du conseil des maisons de vente. 
-
-
-Déontologie et discipline. 
-
-
-Responsabilité civile professionnelle. 
-
-
-
-**Annexe à l'article A. 321-36** 
-
-
+**Annexe à l'article A. 321-36**
 
 Stage d'adaptation prévu à l'article R. 321-67
-  
 
+Fiche d'évaluation du stage d'adaptation
 
+à remplir par le maître de stage
 
+Dénomination sociale de la société de ventes volontaires et adresse :
 
-Fiche d'évaluation du stage d'adaptation 
+Nom et prénom du dirigeant de la société de ventes volontaires :
 
+Nom et prénom de la personne habilitée à diriger des ventes volontaires-maître de stage :
 
-à remplir par le maître de stage 
+Nom, prénom et adresse du stagiaire :
 
-
-Dénomination sociale de la société de ventes volontaires et adresse : 
-
-
-Nom et prénom du dirigeant de la société de ventes volontaires : 
-
-
-Nom et prénom de la personne habilitée à diriger des ventes volontaires-maître de stage : 
-
-
-Nom, prénom et adresse du stagiaire : 
-
-
-Durée du stage : du au 
-
-
-
+Durée du stage : du au
 
 |  | TRÈS BON  | BON  | MOYEN  | INSUFFISANT  | MAUVAIS  |
 | --- | --- | --- | --- | --- | --- |
@@ -138,26 +83,14 @@ Durée du stage : du au
 | Assiduité au stage  |  |  |  |  |  |
 | Maîtrise de la langue française  |  |  |  |  |  |
 
-
-Cocher les cases correspondantes. 
-
-
-  
-
-  
-
-
+Cocher les cases correspondantes.
 
 |  |
 | --- |
 | APPRECIATIONS COMPLEMENTAIRES DU MAITRE DE STAGE  |
 | A leSignatureOBSERVATIONS |
 
-
-
-
 |  |
 | --- |
 |  DU STAGIAIREA |
 |  leSignature |
-

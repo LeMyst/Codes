@@ -1,6 +1,1 @@
- Si l'opposition a été faite sans titre et sans cause ou est nulle en la forme et s'il n'y a pas instance engagée au principal, le vendeur peut se pourvoir en référé devant le président du tribunal, à l'effet d'obtenir l'autorisation de toucher son prix, malgré l'opposition.
-
-
-  
-
-  
+Si l'opposition a été faite sans titre et sans cause ou est nulle en la forme et s'il n'y a pas instance engagée au principal, le vendeur peut se pourvoir en référé devant le président du tribunal, à l'effet d'obtenir l'autorisation de toucher son prix, malgré l'opposition.

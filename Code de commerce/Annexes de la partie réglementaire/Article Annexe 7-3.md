@@ -1,9 +1,4 @@
-
 **Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer**
-
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -27,4 +22,3 @@ de Mamoudzou |
 de Saint-Denis |
 |  | Saint-Pierre | Saint-Pierre | Ressort du tribunal judiciaire
 de Saint-Pierre |
-

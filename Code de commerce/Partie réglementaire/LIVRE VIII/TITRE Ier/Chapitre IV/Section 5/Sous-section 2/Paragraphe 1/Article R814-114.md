@@ -1,5 +1,3 @@
-  
- Les parts sociales ne peuvent être données en nantissement.  
+Les parts sociales ne peuvent être données en nantissement.
 
-  
- Leur montant nominal ne peut être inférieur à 150 euros.  
+Leur montant nominal ne peut être inférieur à 150 euros.

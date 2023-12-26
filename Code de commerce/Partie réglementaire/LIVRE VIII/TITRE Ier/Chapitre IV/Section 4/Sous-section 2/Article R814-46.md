@@ -1,4 +1,1 @@
-  
- Les contrôles occasionnels peuvent être effectués de manière inopinée.  
-
-  
+Les contrôles occasionnels peuvent être effectués de manière inopinée.

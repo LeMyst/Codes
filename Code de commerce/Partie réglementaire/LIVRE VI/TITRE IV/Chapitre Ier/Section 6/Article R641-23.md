@@ -1,4 +1,1 @@
-  
-Les articles R. 622-19 et R. 622-20 sont applicables à la procédure de liquidation judiciaire.  
-
-  
+Les articles R. 622-19 et R. 622-20 sont applicables à la procédure de liquidation judiciaire.

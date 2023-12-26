@@ -1,4 +1,1 @@
-  
- Le marché est clos.  
-
-  
+Le marché est clos.

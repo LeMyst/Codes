@@ -1,7 +1,3 @@
-Les recours contre les décisions de la commission, tant en matière d'inscription ou de retrait que de discipline, sont portés devant la cour d'appel de Paris. 
+Les recours contre les décisions de la commission, tant en matière d'inscription ou de retrait que de discipline, sont portés devant la cour d'appel de Paris.
 
-
- Ces recours ont un caractère suspensif.
-
-
-  
+Ces recours ont un caractère suspensif.

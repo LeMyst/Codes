@@ -1,4 +1,1 @@
-  
- Le conseil arrête son règlement intérieur.  
-
-  
+Le conseil arrête son règlement intérieur.

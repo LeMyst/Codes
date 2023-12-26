@@ -1,36 +1,32 @@
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4,  
+JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4,
 
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
-
-
-
 
 |  |  |
 | --- | --- |
 | SIÈGE DES TRIBUNAUX
 judiciaires | RESSORT |
-| 
-Marseille. | 
+|
+Marseille. |
 Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
-| 
-Bordeaux. | 
+|
+Bordeaux. |
 Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
-| 
-Lille. | 
+|
+Lille. |
 Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |
-| 
-Fort-de-France. | 
+|
+Fort-de-France. |
 Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France. |
-| 
-Lyon. | 
+|
+Lyon. |
 Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. |
-| 
-Nancy. | 
+|
+Nancy. |
 Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. |
-| 
-Paris. | 
+|
+Paris. |
 Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles. |
-| 
-Rennes. | 
+|
+Rennes. |
 Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |
-

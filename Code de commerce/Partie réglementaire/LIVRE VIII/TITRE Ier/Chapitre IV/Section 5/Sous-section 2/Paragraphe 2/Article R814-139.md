@@ -1,4 +1,1 @@
-  
- La société peut faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées contre les associés.  
-
-  
+La société peut faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées contre les associés.

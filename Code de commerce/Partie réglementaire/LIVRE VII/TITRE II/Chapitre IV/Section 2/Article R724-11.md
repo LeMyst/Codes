@@ -1,2 +1,1 @@
 Lorsqu'il saisit la commission en application des articles L. 724-3, L. 724-4 ou R. 724-20, le garde des sceaux, ministre de la justice ou le premier président de la cour d'appel, transmet au président de la commission toutes les pièces afférentes à la poursuite.
-

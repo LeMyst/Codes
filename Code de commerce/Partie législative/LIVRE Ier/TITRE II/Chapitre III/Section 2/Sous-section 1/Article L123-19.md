@@ -1,8 +1,5 @@
-Les éléments d'actif et de passif doivent être évalués séparément. 
+Les éléments d'actif et de passif doivent être évalués séparément.
 
-
-Aucune compensation ne peut être opérée entre les postes d'actif et de passif du bilan ou entre les postes de charges et de produits du compte de résultat, sauf dans des cas exceptionnels prévus par un règlement de l'Autorité des normes comptables. 
-
+Aucune compensation ne peut être opérée entre les postes d'actif et de passif du bilan ou entre les postes de charges et de produits du compte de résultat, sauf dans des cas exceptionnels prévus par un règlement de l'Autorité des normes comptables.
 
 Le bilan d'ouverture d'un exercice doit correspondre au bilan de clôture de l'exercice précédent.
-

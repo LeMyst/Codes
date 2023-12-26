@@ -1,4 +1,1 @@
-  
-La durée minimale du délai de priorité de souscription prévu à l'article L. 225-135 est de trois jours de bourse.  
-
-  
+La durée minimale du délai de priorité de souscription prévu à l'article L. 225-135 est de trois jours de bourse.

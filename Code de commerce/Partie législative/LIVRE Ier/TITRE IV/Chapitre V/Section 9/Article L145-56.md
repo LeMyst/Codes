@@ -1,4 +1,1 @@
-  
- Les règles de compétence et de procédure des contestations relatives au bail sont fixées par décret en Conseil d'Etat.  
-
-  
+Les règles de compétence et de procédure des contestations relatives au bail sont fixées par décret en Conseil d'Etat.

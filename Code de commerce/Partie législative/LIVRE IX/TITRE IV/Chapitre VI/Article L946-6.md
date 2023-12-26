@@ -1,4 +1,1 @@
-  
-A l'article L. 621-2, les mots : " dans chaque département " sont remplacés par les mots : " en Polynésie française ".  
-
-  
+A l'article L. 621-2, les mots : " dans chaque département " sont remplacés par les mots : " en Polynésie française ".

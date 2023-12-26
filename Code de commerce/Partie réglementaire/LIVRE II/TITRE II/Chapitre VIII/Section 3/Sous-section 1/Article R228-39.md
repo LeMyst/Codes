@@ -1,4 +1,1 @@
-  
-La déclaration prévue au sixième alinéa de l'article L. 228-30 est faite par lettre simple ou recommandée.  
-
-  
+La déclaration prévue au sixième alinéa de l'article L. 228-30 est faite par lettre simple ou recommandée.

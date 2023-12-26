@@ -1,4 +1,1 @@
-  
- La dissolution de la société ne met pas fin aux fonctions du conseil de surveillance et des commissaires aux comptes.  
-
-  
+La dissolution de la société ne met pas fin aux fonctions du conseil de surveillance et des commissaires aux comptes.

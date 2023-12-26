@@ -1,4 +1,1 @@
-  
- Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur l'ensemble du territoire.  
-
-  
+Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur l'ensemble du territoire.

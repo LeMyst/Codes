@@ -1,4 +1,1 @@
-  
-Les 1°, 2° et 3° de l'article L. 310-5 sont supprimés.  
-
-  
+Les 1°, 2° et 3° de l'article L. 310-5 sont supprimés.

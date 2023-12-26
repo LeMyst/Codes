@@ -1,4 +1,1 @@
-  
- Le droit de vote dans les assemblées générales d'obligataires appartient au nu-propriétaire.  
-
-  
+Le droit de vote dans les assemblées générales d'obligataires appartient au nu-propriétaire.

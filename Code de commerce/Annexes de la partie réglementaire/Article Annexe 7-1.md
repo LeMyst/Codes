@@ -1,12 +1,4 @@
-  
-
 Siège et ressort des tribunaux de commerce
-
-
- 
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -204,6 +196,3 @@ Saint-Gaudens | Toulouse | Ressort des tribunaux judiciaires de Toulouse et de S
 | Hauts-de-Seine | Nanterre | Nanterre | Ressort du tribunal judiciaire de Nanterre |
 | Val-d'Oise | Pontoise | Pontoise | Ressort du tribunal judiciaire de Pontoise |
 | Yvelines | Versailles | Versailles | Ressort du tribunal judiciaire de Versailles |
-
-
-  

@@ -1,144 +1,90 @@
-  
+(ANNEXE À L'ARTICLE A. 762-4)
 
-(ANNEXE À L'ARTICLE A. 762-4) 
+FORMULAIRE DE DÉCLARATION MODIFICATIVE D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ
 
+(Articles L. 762-2 et R. 762-11 du code de commerce)
 
-FORMULAIRE DE DÉCLARATION MODIFICATIVE D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ 
-
-
-(Articles L. 762-2 et R. 762-11 du code de commerce) 
-
-
-Identification du salon 
+Identification du salon
 Dénomination initiale (4) :
 
+Date du récépissé de déclaration initiale :
 
-  
+Dénomination (4) :
 
-  
+Sigle (1) (4) :
 
-Date du récépissé de déclaration initiale : 
+Adresse de site internet (1) (4) :
 
+Localisation (adresse et descriptif succinct du lieu) (4) :
 
-Dénomination (4) : 
+Jour d'ouverture au public (4) :
 
+Jour de fermeture au public (4) :
 
-Sigle (1) (4) : 
+Précision éventuelle sur les dates :
 
+Conditions d'accès des visiteurs (2) (4) :
 
-Adresse de site internet (1) (4) : 
+― accès gratuit ;
 
+― titre payant ;
 
-Localisation (adresse et descriptif succinct du lieu) (4) : 
+― carte d'invitation.
 
+Secteur d'activité (4) :
 
-Jour d'ouverture au public (4) : 
+Liste limitative de produits ou services présentés déterminée par l'organisateur, dite nomenclature (si salon tel que défini aux 1° et 2° de l'article R. 762-4) (4) :
 
+Caractéristiques chiffrées
 
-Jour de fermeture au public (4) : 
+(Estimations)
+Surface nette (en mètres carrés) (3) (4) :
 
+Fréquentation attendue (3) :
 
-Précision éventuelle sur les dates : 
+Nombre de visites attendues (3) (4) :
 
+Nombre de visiteurs attendus (3) (4) :
 
-Conditions d'accès des visiteurs (2) (4) : 
+Nombre d'exposants prévus (3) (4) :
 
+Organisateur
 
-― accès gratuit ; 
+Dénomination sociale ou nom, prénom (s) (si personne physique) (4) :
 
+Sigle (1) (4) : Numéro d'identification SIRET (4) :
 
-― titre payant ; 
+Adresse (4) :
 
+Code postal (4) : Ville (4) :
 
-― carte d'invitation. 
+Téléphone (4) : Télécopie (4) :
 
+Mél (1) (4) :
 
-Secteur d'activité (4) : 
+Adresse de site internet (1) (4) :
 
+Responsable
 
-Liste limitative de produits ou services présentés déterminée par l'organisateur, dite nomenclature (si salon tel que défini aux 1° et 2° de l'article R. 762-4) (4) : 
+(Si différent de l'organisateur)
+Nom, prénom (s) :
 
+Fonction :
 
-Caractéristiques chiffrées 
+Téléphone : Téléphone portable (1) :
 
+Mél (1) :
 
-(Estimations) 
-Surface nette (en mètres carrés) (3) (4) : 
+J'atteste sur l'honneur que les exposants ne sont autorisés à délivrer sur place et à titre onéreux, dans le cadre d'une vente à emporter, que des marchandises dont la valeur n'excède pas 80 €.
 
+Date :
 
-Fréquentation attendue (3) : 
+Signature
 
+(1) Donnée facultative.
 
-Nombre de visites attendues (3) (4) : 
+(2) Rayer les mentions inutiles.
 
-
-Nombre de visiteurs attendus (3) (4) : 
-
-
-Nombre d'exposants prévus (3) (4) : 
-
-
-Organisateur 
-
-
-Dénomination sociale ou nom, prénom (s) (si personne physique) (4) : 
-
-
-Sigle (1) (4) : Numéro d'identification SIRET (4) : 
-
-
-Adresse (4) : 
-
-
-Code postal (4) : Ville (4) : 
-
-
-Téléphone (4) : Télécopie (4) : 
-
-
-Mél (1) (4) : 
-
-
-Adresse de site internet (1) (4) : 
-
-
-Responsable 
-
-
-(Si différent de l'organisateur) 
-Nom, prénom (s) : 
-
-
-Fonction : 
-
-
-Téléphone : Téléphone portable (1) : 
-
-
-Mél (1) : 
-
-
-J'atteste sur l'honneur que les exposants ne sont autorisés à délivrer sur place et à titre onéreux, dans le cadre d'une vente à emporter, que des marchandises dont la valeur n'excède pas 80 €. 
-
-
-Date :   
-
-
-
-
-Signature 
-
-
-(1) Donnée facultative. 
-
-
-(2) Rayer les mentions inutiles. 
-
-
-(3) La définition de ces caractéristiques figure à l'article A. 762-1. 
-
+(3) La définition de ces caractéristiques figure à l'article A. 762-1.
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier. A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), 67, rue Barbès, BP 80001, 94200 Ivry-sur-Seine Cedex. Pour plus d'informations : www.pme.gouv.fr.
-
-
-  

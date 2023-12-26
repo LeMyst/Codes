@@ -1,2 +1,1 @@
-Le greffier informe la personne chargée de réaliser l'inventaire de sa désignation par tout moyen. 
-
+Le greffier informe la personne chargée de réaliser l'inventaire de sa désignation par tout moyen.

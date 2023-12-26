@@ -1,7 +1,4 @@
-Les formalités accomplies en matière de saisie immobilière et de licitation par adjudication judiciaire donnent lieu à la perception des émoluments suivants : 
-
-
-
+Les formalités accomplies en matière de saisie immobilière et de licitation par adjudication judiciaire donnent lieu à la perception des émoluments suivants :
 
 | NUMÉRO DE LA PRESTATION (tableau 6 de l'article Annexe 4-7)  | DÉSIGNATION DE LA PRESTATION  | ÉMOLUMENT  |
 | --- | --- | --- |
@@ -37,4 +34,3 @@ Les formalités accomplies en matière de saisie immobilière et de licitation p
 | 34  | Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4 et R. 332-5du code des procédures civiles d'exécution  | 15,38 €  |
 | 35  | Notification du projet de distribution du prix au syndic de copropriété, au débiteur saisi et au Trésor public  | 15,38 €  |
 | 36  | Réquisition auprès du service de la publicité foncière aux fins de radiation des inscriptions et publications  | 3,85 €, par réquisition |
-

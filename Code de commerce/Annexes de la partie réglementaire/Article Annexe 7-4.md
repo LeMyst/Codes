@@ -1,13 +1,6 @@
 Nombre d'assesseurs des chambres commerciales des tribunaux judiciaires
 
-
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
-
-
- 
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -15,10 +8,10 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 du tribunal judiciaire | NOMBRE D'ASSESSEURS
 de la chambre commerciale
 du tribunal judiciaire |
-|  
+|\
 Cour d'appel de Colmar |
-|  
-Bas-Rhin |  
+|\
+Bas-Rhin |\
 Saverne | 8 |
 | Strasbourg | 32 |
 | Haut-Rhin | Colmar | 12 |
@@ -28,23 +21,7 @@ Saverne | 8 |
 | Sarreguemines | 12 |
 | Thionville | 12 |
 
-
- 
-
-
- 
-
-
 Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
-
-
- 
-
-
- 
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -62,10 +39,3 @@ du tribunal mixte de commerce |
 | Mayotte | Mamoudzou | 5 |
 | La Réunion | Saint-Denis | 8 |
 | Saint-Pierre | 16 |
-
-
- 
-
-
- 
-

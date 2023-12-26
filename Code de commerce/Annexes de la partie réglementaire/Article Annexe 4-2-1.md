@@ -1,12 +1,5 @@
-Juridictions commerciales compétentes en application du III de l'article L. 442-4 du code de commerce   
-des procédures qui sont applicables aux personnes, commerçants ou artisans 
-
-
-  
-
-  
-
-
+Juridictions commerciales compétentes en application du III de l'article L. 442-4 du code de commerce\
+des procédures qui sont applicables aux personnes, commerçants ou artisans
 
 |  |  |
 | --- | --- |
@@ -19,6 +12,3 @@ des procédures qui sont applicables aux personnes, commerçants ou artisans
 | Nancy  | Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.  |
 | Paris  | Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles.  |
 | Rennes  | Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |
-
-
-  

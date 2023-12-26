@@ -1,4 +1,1 @@
 Les opérations de scissions transfrontalières sont régies par les dispositions de la présente sous-section ainsi que par celles de la sous-section 1 de la présente section et celles de la section 2 du présent chapitre qui ne leur sont pas contraires.
-
-
-  

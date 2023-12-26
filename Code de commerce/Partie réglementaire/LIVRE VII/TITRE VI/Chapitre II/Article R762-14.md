@@ -1,2 +1,1 @@
 Les manifestations commerciales déclarées dans les conditions prévues aux articles R. 762-5 à R. 762-12 font l'objet d'une publicité, par l'administration et par voie électronique, dans des conditions fixées par arrêté du ministre chargé du commerce.
-

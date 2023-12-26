@@ -1,7 +1,4 @@
-Les formalités accomplies en matière de sûretés judiciaires donnent lieu à la perception des émoluments suivants : 
-
-
-
+Les formalités accomplies en matière de sûretés judiciaires donnent lieu à la perception des émoluments suivants :
 
 | NUMÉRO DE LA PRESTATION (tableau 6 de l'article Annexe 4-7)  | DÉSIGNATION DE LA PRESTATION  | ÉMOLUMENT  |
 | --- | --- | --- |
@@ -18,4 +15,3 @@ Les formalités accomplies en matière de sûretés judiciaires donnent lieu à 
 | De 6 500 € à 17 000 €  | 1,085 %  |
 | De 17 000 € à 60 000 €  | 0,723 %  |
 | Plus de 60 000 €  | 0,542 % |
-

@@ -1,4 +1,1 @@
-  
-Au troisième alinéa de l'article L. 711-6, les mots : " ou la commune " sont remplacés par les mots : " ou le territoire ".  
-
-  
+Au troisième alinéa de l'article L. 711-6, les mots : " ou la commune " sont remplacés par les mots : " ou le territoire ".

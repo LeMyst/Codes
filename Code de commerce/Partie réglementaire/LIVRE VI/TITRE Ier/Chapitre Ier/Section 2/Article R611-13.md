@@ -1,8 +1,5 @@
-  
-Pour l'application du II de l'article L. 611-2, le président du tribunal rend une ordonnance faisant injonction au représentant légal de la personne morale de déposer les comptes annuels ou à l'entrepreneur individuel à responsabilité limitée de déposer les documents mentionnés au premier alinéa de l'article L. 526-14 dans un délai d'un mois à compter de la notification ou de la signification de l'ordonnance, sous peine d'astreinte.   
+Pour l'application du II de l'article L. 611-2, le président du tribunal rend une ordonnance faisant injonction au représentant légal de la personne morale de déposer les comptes annuels ou à l'entrepreneur individuel à responsabilité limitée de déposer les documents mentionnés au premier alinéa de l'article L. 526-14 dans un délai d'un mois à compter de la notification ou de la signification de l'ordonnance, sous peine d'astreinte.
 
-  
-Cette ordonnance fixe le taux de l'astreinte et mentionne, en outre, les lieu, jour et heure de l'audience à laquelle l'affaire sera examinée.   
+Cette ordonnance fixe le taux de l'astreinte et mentionne, en outre, les lieu, jour et heure de l'audience à laquelle l'affaire sera examinée.
 
-  
-Elle n'est pas susceptible de recours.  
+Elle n'est pas susceptible de recours.

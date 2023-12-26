@@ -1,5 +1,3 @@
-  
- Le Conseil national et le bureau tiennent un registre de leurs délibérations.  
+Le Conseil national et le bureau tiennent un registre de leurs délibérations.
 
-  
- Le procès-verbal de chaque séance est signé par le président et le secrétaire.  
+Le procès-verbal de chaque séance est signé par le président et le secrétaire.

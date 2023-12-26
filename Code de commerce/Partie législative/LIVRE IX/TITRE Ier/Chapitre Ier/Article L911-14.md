@@ -1,12 +1,7 @@
-  
+L'article L. 145-35 est modifié ainsi qu'il suit :
 
-L'article L. 145-35 est modifié ainsi qu'il suit :   
+I.-Au premier alinéa, le mot : " départementale " est supprimé ;
 
-  
-I.-Au premier alinéa, le mot : " départementale " est supprimé ;   
+II.-Le dernier alinéa est ainsi rédigé :
 
-  
-II.-Le dernier alinéa est ainsi rédigé :   
-
-  
-" La composition de la commission, le mode de désignation de ses membres et ses règles de fonctionnement sont fixés par arrêté du représentant de l'Etat. "  
+" La composition de la commission, le mode de désignation de ses membres et ses règles de fonctionnement sont fixés par arrêté du représentant de l'Etat. "

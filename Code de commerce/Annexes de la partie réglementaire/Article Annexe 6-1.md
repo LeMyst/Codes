@@ -1,549 +1,526 @@
-  
-
-Juridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,  
+Juridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
 
 des procédures applicables aux commerçants et artisans
-
-
-
 
 |  |  |  |
 | --- | --- | --- |
 | DÉPARTEMENT | JURIDICTION | RESSORT |
-| 
-Ain | 
-TC de Bourg-en-Bresse | 
+|
+Ain |
+TC de Bourg-en-Bresse |
 Le département |
-| 
-Aisne | 
-TC de Saint-Quentin | 
+|
+Aisne |
+TC de Saint-Quentin |
 Ressort du TC |
-|  | 
-TC de Soissons | 
+|  |
+TC de Soissons |
 Ressort du TC |
-| 
-Allier | 
-TC de Cusset | 
+|
+Allier |
+TC de Cusset |
 Ressort du TC |
-|  | 
-TC de Montluçon | 
+|  |
+TC de Montluçon |
 Ressort du TC |
-| 
-Alpes-de-Haute-Provence | 
-TC de Manosque | 
+|
+Alpes-de-Haute-Provence |
+TC de Manosque |
 Le département |
-| 
-Alpes (Hautes-) | 
-TC de Gap | 
+|
+Alpes (Hautes-) |
+TC de Gap |
 Le département |
-| 
-Alpes-Maritimes | 
-TC d'Antibes | 
+|
+Alpes-Maritimes |
+TC d'Antibes |
 Ressort du TC |
-|  | 
-TC de Cannes | 
+|  |
+TC de Cannes |
 Ressort du TC |
-|  | 
-TC de Grasse | 
+|  |
+TC de Grasse |
 Ressort du TC |
-|  | 
-TC de Nice | 
+|  |
+TC de Nice |
 Ressort du TC |
-| 
-Ardèche | 
-TC d'Aubenas | 
+|
+Ardèche |
+TC d'Aubenas |
 Le département |
-| 
-Ardennes | 
-TC de Sedan | 
+|
+Ardennes |
+TC de Sedan |
 Le département |
-| 
-Ariège | 
-TC de Foix | 
+|
+Ariège |
+TC de Foix |
 Le département |
-| 
-Aube | 
-TC de Troyes | 
+|
+Aube |
+TC de Troyes |
 Le département |
-| 
-Aude | 
-TC de Carcassonne | 
+|
+Aude |
+TC de Carcassonne |
 Ressort du TC |
-|  | 
-TC de Narbonne | 
+|  |
+TC de Narbonne |
 Ressort du TC |
-| 
-Aveyron | 
-TC de Rodez | 
+|
+Aveyron |
+TC de Rodez |
 Le département |
-| 
-Bouches-du-Rhône | 
-TC d'Aix-en-Provence | 
+|
+Bouches-du-Rhône |
+TC d'Aix-en-Provence |
 Ressort du TC |
-|  | 
-TC de Marseille | 
+|  |
+TC de Marseille |
 Ressort du TC |
-|  | 
-TC de Salon-de-Provence | 
+|  |
+TC de Salon-de-Provence |
 Ressort du TC |
-|  | 
-TC de Tarascon | 
+|  |
+TC de Tarascon |
 Ressort du TC |
-| 
-Calvados | 
-TC de Caen | 
+|
+Calvados |
+TC de Caen |
 Ressort du TC |
-|  | 
-TC de Lisieux | 
+|  |
+TC de Lisieux |
 Ressort du TC |
-| 
-Cantal | 
-TC d'Aurillac | 
+|
+Cantal |
+TC d'Aurillac |
 Le département |
-| 
-Charente | 
-TC d'Angoulême | 
+|
+Charente |
+TC d'Angoulême |
 Le département |
-| 
-Charente-Maritime | 
-TC de La Rochelle | 
+|
+Charente-Maritime |
+TC de La Rochelle |
 Ressort du TC |
-|  | 
-TC de Saintes | 
+|  |
+TC de Saintes |
 Ressort du TC |
-| 
-Cher | 
-TC de Bourges | 
+|
+Cher |
+TC de Bourges |
 Le département |
-| 
-Corrèze | 
-TC de Brive-la-Gaillarde | 
+|
+Corrèze |
+TC de Brive-la-Gaillarde |
 Le département |
-| 
-Corse-du-Sud | 
-TC d'Ajaccio | 
+|
+Corse-du-Sud |
+TC d'Ajaccio |
 Le département |
-| 
-Corse (Haute) | 
-TC de Bastia | 
+|
+Corse (Haute) |
+TC de Bastia |
 Le département |
-| 
-Côte-d'Or | 
-TC de Dijon | 
+|
+Côte-d'Or |
+TC de Dijon |
 Le département |
-| 
-Côtes-d'Armor | 
-TC de Saint-Brieuc | 
+|
+Côtes-d'Armor |
+TC de Saint-Brieuc |
 Ressort du TC |
-| 
-Creuse | 
-TC de Guéret | 
+|
+Creuse |
+TC de Guéret |
 Le département |
-| 
-Dordogne | 
-TC de Bergerac | 
+|
+Dordogne |
+TC de Bergerac |
 Ressort du TC |
-|  | 
-TC de Périgueux | 
+|  |
+TC de Périgueux |
 Ressort du TC |
-| 
-Doubs | 
-TC de Besançon | 
+|
+Doubs |
+TC de Besançon |
 Ressort du TC |
-| 
-Drôme | 
-TC de Romans-sur-Isère | 
+|
+Drôme |
+TC de Romans-sur-Isère |
 Le département |
-| 
-Essonne | 
-TC d'Evry | 
+|
+Essonne |
+TC d'Evry |
 Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly |
-| 
-Eure | 
-TC d'Evreux | 
+|
+Eure |
+TC d'Evreux |
 Ressort du TC |
-|  | 
-TC de Bernay | 
+|  |
+TC de Bernay |
 Ressort du TC |
-| 
-Eure-et-Loir | 
-TC de Chartres | 
+|
+Eure-et-Loir |
+TC de Chartres |
 Le département |
-| 
-Finistère | 
-TC de Brest | 
+|
+Finistère |
+TC de Brest |
 Ressort du TC |
-|  | 
-TC de Quimper | 
+|  |
+TC de Quimper |
 Ressort du TC |
-| 
-Gard | 
-TC de Nîmes | 
+|
+Gard |
+TC de Nîmes |
 Le département |
-| 
-Garonne (Haute-) | 
-TC de Toulouse | 
+|
+Garonne (Haute-) |
+TC de Toulouse |
 Le département |
-| 
-Gers | 
-TC d'Auch | 
+|
+Gers |
+TC d'Auch |
 Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour |
-| 
-Gironde | 
-TC de Bordeaux | 
+|
+Gironde |
+TC de Bordeaux |
 Ressort du TC |
-|  | 
-TC de Libourne | 
+|  |
+TC de Libourne |
 Ressort du TC |
-| 
-Hérault | 
-TC de Béziers | 
+|
+Hérault |
+TC de Béziers |
 Ressort du TC |
-|  | 
-TC de Montpellier | 
+|  |
+TC de Montpellier |
 Ressort du TC |
-| 
-Ille-et-Vilaine | 
-TC de Rennes | 
+|
+Ille-et-Vilaine |
+TC de Rennes |
 Ressort du TC |
-|  | 
-TC de Saint-Malo | 
+|  |
+TC de Saint-Malo |
 Ressort du TC |
-| 
-Indre | 
-TC de Châteauroux | 
+|
+Indre |
+TC de Châteauroux |
 Le département |
-| 
-Indre-et-Loire | 
-TC de Tours | 
+|
+Indre-et-Loire |
+TC de Tours |
 Le département |
-| 
-Isère | 
-TC de Grenoble | 
+|
+Isère |
+TC de Grenoble |
 Ressort du TC |
-|  | 
-TC de Vienne | 
+|  |
+TC de Vienne |
 Ressort du TC |
-| 
-Jura | 
-TC de Lons-le-Saunier | 
+|
+Jura |
+TC de Lons-le-Saunier |
 Le département |
-| 
-Landes | 
-TC de Dax | 
+|
+Landes |
+TC de Dax |
 Ressort du TC |
-|  | 
-TC de Mont-de-Marsan | 
+|  |
+TC de Mont-de-Marsan |
 Ressort du TC et l'emprise de l'aérodrome d'Aire-sur-l'Adour |
-| 
-Loir-et-Cher | 
-TC de Blois | 
+|
+Loir-et-Cher |
+TC de Blois |
 Le département |
-| 
-Loire | 
-TC de Roanne | 
+|
+Loire |
+TC de Roanne |
 Ressort du TC |
-|  | 
-TC de Saint-Etienne | 
+|  |
+TC de Saint-Etienne |
 Ressort du TC |
-| 
-Loire (Haute-) | 
-TC du Puy-en-Velay | 
+|
+Loire (Haute-) |
+TC du Puy-en-Velay |
 Le département |
-| 
-Loire-Atlantique | 
-TC de Nantes | 
+|
+Loire-Atlantique |
+TC de Nantes |
 Ressort du TC |
-|  | 
-TC de Saint-Nazaire | 
+|  |
+TC de Saint-Nazaire |
 Ressort du TC |
-| 
-Loiret | 
-TC d'Orléans | 
+|
+Loiret |
+TC d'Orléans |
 Le département |
-| 
-Lot | 
-TC de Cahors | 
+|
+Lot |
+TC de Cahors |
 Le département |
-| 
-Lot-et-Garonne | 
-TC d'Agen | 
+|
+Lot-et-Garonne |
+TC d'Agen |
 Le département |
-| 
-Lozère | 
-TC de Mende | 
+|
+Lozère |
+TC de Mende |
 Le département |
-| 
-Maine-et-Loire | 
-TC d'Angers | 
+|
+Maine-et-Loire |
+TC d'Angers |
 Le département |
-| 
-Manche | 
-TC de Cherbourg-Octeville | 
+|
+Manche |
+TC de Cherbourg-Octeville |
 Ressort du TC |
-|  | 
-TC de Coutances | 
+|  |
+TC de Coutances |
 Ressort du TC |
-| 
-Marne | 
-TC de Châlons-en-Champagne | 
+|
+Marne |
+TC de Châlons-en-Champagne |
 Ressort du TC |
-|  | 
-TC de Reims | 
+|  |
+TC de Reims |
 Ressort du TC |
-| 
-Haute-Marne | 
-TC de Chaumont | 
+|
+Haute-Marne |
+TC de Chaumont |
 Le département |
-| 
-Mayenne | 
-TC de Laval | 
+|
+Mayenne |
+TC de Laval |
 Le département |
-| 
-Meurthe-et-Moselle | 
-TC de Val de Briey | 
+|
+Meurthe-et-Moselle |
+TC de Val de Briey |
 Ressort du TC |
-|  | 
-TC de Nancy | 
+|  |
+TC de Nancy |
 Ressort du TC |
-| 
-Meuse | 
-TC de Bar-le-Duc | 
+|
+Meuse |
+TC de Bar-le-Duc |
 Le département |
-| 
-Morbihan | 
-TC de Lorient | 
+|
+Morbihan |
+TC de Lorient |
 Ressort du TC |
-|  | 
-TC de Vannes | 
+|  |
+TC de Vannes |
 Ressort du TC |
-| 
-Moselle | 
-Tribunal judiciaire de Metz | 
+|
+Moselle |
+Tribunal judiciaire de Metz |
 Ressort du tribunal judiciaire |
-|  | 
-Tribunal judiciaire de Sarreguemines | 
+|  |
+Tribunal judiciaire de Sarreguemines |
 Ressort du tribunal judiciaire |
-|  | 
-Tribunal judiciaire de Thionville | 
+|  |
+Tribunal judiciaire de Thionville |
 Ressort du tribunal judiciaire |
-| 
-Nièvre | 
-TC de Nevers | 
+|
+Nièvre |
+TC de Nevers |
 Le département |
-| 
-Nord | 
-TC de Douai | 
+|
+Nord |
+TC de Douai |
 Ressort du TC |
-|  | 
-TC de Dunkerque | 
+|  |
+TC de Dunkerque |
 Ressort du TC |
-|  | 
-TC de Lille Métropole | 
+|  |
+TC de Lille Métropole |
 Ressort du TC |
-|  | 
-TC de Valenciennes | 
+|  |
+TC de Valenciennes |
 Ressort du TC |
-| 
-Oise | 
-TC de Beauvais | 
+|
+Oise |
+TC de Beauvais |
 Ressort du TC |
-|  | 
-TC de Compiègne | 
+|  |
+TC de Compiègne |
 Ressort du TC |
-| 
-Orne | 
-TC d'Alençon | 
+|
+Orne |
+TC d'Alençon |
 Le département |
-| 
-Paris | 
-TC de Paris | 
+|
+Paris |
+TC de Paris |
 Le département |
-| 
-Pas-de-Calais | 
-TC d'Arras | 
+|
+Pas-de-Calais |
+TC d'Arras |
 Ressort du TC |
-|  | 
-TC de Boulogne-sur-Mer | 
+|  |
+TC de Boulogne-sur-Mer |
 Ressort du TC |
-| 
-Puy-de-Dôme | 
-TC de Clermont-Ferrand | 
+|
+Puy-de-Dôme |
+TC de Clermont-Ferrand |
 Le département |
-| 
-Pyrénées-Atlantiques | 
-TC de Bayonne | 
+|
+Pyrénées-Atlantiques |
+TC de Bayonne |
 Ressort du TC |
-|  | 
-TC de Pau | 
+|  |
+TC de Pau |
 Ressort du TC |
-| 
-Pyrénées (Hautes-) | 
-TC de Tarbes | 
+|
+Pyrénées (Hautes-) |
+TC de Tarbes |
 Le département |
-| 
-Pyrénées-Orientales | 
-TC de Perpignan | 
+|
+Pyrénées-Orientales |
+TC de Perpignan |
 Le département |
-| 
-Rhin (Bas-) | 
-Tribunal judiciaire de Saverne | 
+|
+Rhin (Bas-) |
+Tribunal judiciaire de Saverne |
 Ressort du tribunal judiciaire |
-|  | 
-Tribunal judiciaire de Strasbourg | 
+|  |
+Tribunal judiciaire de Strasbourg |
 Ressort du tribunal judiciaire |
-| 
-Rhin (Haut-) | 
-Tribunal judiciaire de Colmar | 
+|
+Rhin (Haut-) |
+Tribunal judiciaire de Colmar |
 Ressort du tribunal judiciaire |
-|  | 
-Tribunal judiciaire de Mulhouse | 
+|  |
+Tribunal judiciaire de Mulhouse |
 Ressort du tribunal judiciaire |
-| 
-Rhône | 
-TC de Lyon | 
+|
+Rhône |
+TC de Lyon |
 Ressort du TC |
-|  | 
-TC de Villefranche-sur-Saône | 
+|  |
+TC de Villefranche-sur-Saône |
 Ressort du TC |
-| 
-Saône (Haute-) | 
-TC de Vesoul | 
+|
+Saône (Haute-) |
+TC de Vesoul |
 Le département |
-| 
-Saône-et-Loire | 
-TC de Chalon-sur-Saône | 
+|
+Saône-et-Loire |
+TC de Chalon-sur-Saône |
 Ressort du TC |
-|  | 
-TC de Mâcon | 
+|  |
+TC de Mâcon |
 Ressort du TC |
-| 
-Sarthe | 
-TC du Mans | 
+|
+Sarthe |
+TC du Mans |
 Le département |
-| 
-Savoie | 
-TC de Chambéry | 
+|
+Savoie |
+TC de Chambéry |
 Le département |
-| 
-Savoie (Haute-) | 
-TC d'Annecy | 
+|
+Savoie (Haute-) |
+TC d'Annecy |
 Ressort du TC |
-|  | 
-TC de Thonon-les-Bains | 
+|  |
+TC de Thonon-les-Bains |
 Ressort du TC |
-| 
-Seine (Hauts-de-) | 
-TC de Nanterre | 
+|
+Seine (Hauts-de-) |
+TC de Nanterre |
 Le département |
-| 
-Seine-Maritime | 
-TC de Dieppe | 
+|
+Seine-Maritime |
+TC de Dieppe |
 Ressort du TC |
-|  | 
-TC du Havre | 
+|  |
+TC du Havre |
 Ressort du TC |
-|  | 
-TC de Rouen | 
+|  |
+TC de Rouen |
 Ressort du TC |
-| 
-Seine-et-Marne | 
-TC de Meaux | 
+|
+Seine-et-Marne |
+TC de Meaux |
 Ressort du TC |
-|  | 
-TC de Melun | 
+|  |
+TC de Melun |
 Ressort du TC |
-| 
-Seine-Saint-Denis | 
-TC de Bobigny | 
+|
+Seine-Saint-Denis |
+TC de Bobigny |
 Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle |
-| 
-Sèvres (Deux-) | 
-TC de Niort | 
+|
+Sèvres (Deux-) |
+TC de Niort |
 Le département |
-| 
-Somme | 
-TC d'Amiens | 
+|
+Somme |
+TC d'Amiens |
 Le département |
-| 
-Tarn | 
-TC d'Albi | 
+|
+Tarn |
+TC d'Albi |
 Ressort du TC |
-|  | 
-TC de Castres | 
+|  |
+TC de Castres |
 Ressort du TC |
-| 
-Tarn-et-Garonne | 
-TC de Montauban | 
+|
+Tarn-et-Garonne |
+TC de Montauban |
 Le département |
-| 
-Territoire de Belfort | 
-TC de Belfort | 
+|
+Territoire de Belfort |
+TC de Belfort |
 Ressort du TC |
-| 
-Val-de-Marne | 
-TC de Créteil | 
+|
+Val-de-Marne |
+TC de Créteil |
 Le département et l'emprise de l'aérodrome de Paris-Orly |
-| 
-Val-d'Oise | 
-TC de Pontoise | 
+|
+Val-d'Oise |
+TC de Pontoise |
 Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle |
-| 
-Var | 
-TC de Draguignan | 
+|
+Var |
+TC de Draguignan |
 Ressort du TC |
-|  | 
-TC de Fréjus | 
+|  |
+TC de Fréjus |
 Ressort du TC |
-|  | 
-TC de Toulon | 
+|  |
+TC de Toulon |
 Ressort du TC |
-| 
-Vaucluse | 
-TC d'Avignon | 
+|
+Vaucluse |
+TC d'Avignon |
 Le département |
-| 
-Vendée | 
-TC de La Roche-sur-Yon | 
+|
+Vendée |
+TC de La Roche-sur-Yon |
 Le département |
-| 
-Vienne | 
-TC de Poitiers | 
+|
+Vienne |
+TC de Poitiers |
 Le département |
-| 
-Vienne (Haute-) | 
-TC de Limoges | 
+|
+Vienne (Haute-) |
+TC de Limoges |
 Le département |
-| 
-Vosges | 
-TC d'Epinal | 
+|
+Vosges |
+TC d'Epinal |
 Le département |
-| 
-Yonne | 
-TC d'Auxerre | 
+|
+Yonne |
+TC d'Auxerre |
 Ressort du TC |
-|  | 
-TC de Sens | 
+|  |
+TC de Sens |
 Ressort du TC |
-| 
-Yvelines | 
-TC de Versailles | 
+|
+Yvelines |
+TC de Versailles |
 Le département |
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-  

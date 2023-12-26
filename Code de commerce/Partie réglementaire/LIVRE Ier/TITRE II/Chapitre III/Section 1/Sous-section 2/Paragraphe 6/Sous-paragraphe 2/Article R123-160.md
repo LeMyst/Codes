@@ -1,38 +1,25 @@
-  
- Toute radiation donne lieu à l'insertion d'un avis au Bulletin officiel des annonces civiles et commerciales.  
+Toute radiation donne lieu à l'insertion d'un avis au Bulletin officiel des annonces civiles et commerciales.
 
-  
- L'avis contient :  
+L'avis contient :
 
-  
- 1° Pour les personnes physiques :  
+1° Pour les personnes physiques :
 
-  
- a) Les références de l'immatriculation ;  
+a) Les références de l'immatriculation ;
 
-  
- b) Les nom, nom d'usage, pseudonyme et prénoms de la personne immatriculée ;  
+b) Les nom, nom d'usage, pseudonyme et prénoms de la personne immatriculée ;
 
-  
- c) Le lieu de l'exploitation ;  
+c) Le lieu de l'exploitation ;
 
-  
- d) Le nom commercial ;  
+d) Le nom commercial ;
 
-  
- e) La date de la cessation de l'activité.  
+e) La date de la cessation de l'activité.
 
-  
- 2° Pour les personnes morales :  
+2° Pour les personnes morales :
 
-  
- a) Les références de l'immatriculation ;  
+a) Les références de l'immatriculation ;
 
-  
- b) La raison sociale ou la dénomination suivie, le cas échéant, de son sigle ;  
+b) La raison sociale ou la dénomination suivie, le cas échéant, de son sigle ;
 
-  
- c) S'il s'agit d'une société la forme juridique ;  
+c) S'il s'agit d'une société la forme juridique ;
 
-  
- d) L'adresse du siège.  
+d) L'adresse du siège.

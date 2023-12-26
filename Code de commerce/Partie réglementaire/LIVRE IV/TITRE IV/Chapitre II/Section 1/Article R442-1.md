@@ -1,4 +1,1 @@
 Lorsque le ministre chargé de l'économie ou le président de l'Autorité de la concurrence exerce l'action prévue par l'article L. 442-4 et les voies de recours y afférentes, il est dispensé de représentation par un avocat.
-
-
-  

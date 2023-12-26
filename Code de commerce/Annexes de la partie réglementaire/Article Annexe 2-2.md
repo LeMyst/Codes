@@ -1,15 +1,8 @@
 TABLEAU 1
 
-
 Annexe aux articles R. 225-81, R. 225-83 et R. 225-102
 
-
 Résultats financiers de la société au cours des cinq derniers exercices
-
-
-  
-
-
 
 | NATURE DES INDICATIONS | 20.. | 20.. | 20.. | 20.. | 20.. |
 | I. - Situation financière en fin d'exercice : |  |  |  |  |  |
@@ -33,23 +26,11 @@ Résultats financiers de la société au cours des cinq derniers exercices
 | (1) Pour l'exercice dont les comptes seront soumis à l'assemblée générale des actionnaires, indiquer le montant des bénéfices dont la distribution est proposée par le conseil d'administration, le directoire ou les gérants. |
 | (2) Si le nombre des actions a varié au cours de la période de référence, il y a lieu d'adapter les résultats indiqués et de rappeler les opérations ayant modifié le montant du capital. |
 
-
 TABLEAU 2
-
 
 Annexe aux articles R. 233-2 et R. 232-10
 
-
 Renseignements concernant les filiales et participations
-
-
-  
-
-  
-
-  
-
-
 
 | SOCIÉTÉSOU GROUPESDE SOCIÉTÉS | CAPITAL | RÉSERVES | QUOTE-PART de capital détenue (en pourcentage) | VALEUR d'inventaire des titres détenus | PRÊTS ET avances consentis par la société et non remboursées | MONTANT des cautions et avals fournis par la société | CHIFFRE d'affaires du dernier exercice | BÉNÉFICE net ou perte du dernier exercice | DIVIDENDES encaissés par la société au cours de l'exercice | OBSERVATIONS (1) |
 | I. - RENSEIGNEMENTS À FOURNIR LORSQUE LA SOCIÉTÉ N'A PAS ANNEXÉ À SON BILAN UN BILAN ET DES COMPTES CONSOLIDÉS ETABLIS CONFORMÉMENT À L'ARTICLE R. 233-3 |  |  |  |  |  |  |  |  |  |  |
@@ -75,4 +56,3 @@ Renseignements concernant les filiales et participations
 | a) Dans les sociétés françaises (ensemble) |  |  |  |  |  |  |  |  |  |  |
 | b) Dans les sociétés étrangères (ensemble) |  |  |  |  |  |  |  |  |  |  |
 | (1) Indiquer notamment dans cette colonne au cadre I, paragraphe A, les dates d'ouverture et de clôture des exercices des sociétés dans lesquelles sont détenues des participations lorsque ces dates ne coïncident pas avec celles de l'ouverture et de la clôture de l'exercice de la société. |
-

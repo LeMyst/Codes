@@ -1,7 +1,3 @@
-Le Conseil des maisons de vente arrête trois semaines avant la date de la première épreuve de chaque session la liste des candidats admis à subir les épreuves de l'examen d'aptitude. 
+Le Conseil des maisons de vente arrête trois semaines avant la date de la première épreuve de chaque session la liste des candidats admis à subir les épreuves de l'examen d'aptitude.
 
-
-Des convocations individuelles mentionnant le jour, l'heure et le lieu des épreuves sont adressées à chaque candidat quinze jours au moins à l'avance.  
-
-
-
+Des convocations individuelles mentionnant le jour, l'heure et le lieu des épreuves sont adressées à chaque candidat quinze jours au moins à l'avance.

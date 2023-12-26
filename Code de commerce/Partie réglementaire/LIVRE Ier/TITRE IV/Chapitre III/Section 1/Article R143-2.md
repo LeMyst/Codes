@@ -1,4 +1,1 @@
-  
- La notification contient élection de domicile dans le ressort du tribunal de commerce de la situation du fonds.  
-
-  
+La notification contient élection de domicile dans le ressort du tribunal de commerce de la situation du fonds.

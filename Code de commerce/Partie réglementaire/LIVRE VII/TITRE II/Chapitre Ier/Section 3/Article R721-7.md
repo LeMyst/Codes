@@ -1,4 +1,1 @@
-  
- Un Conseil national des tribunaux de commerce est institué auprès du garde des sceaux, ministre de la justice.  
-
-  
+Un Conseil national des tribunaux de commerce est institué auprès du garde des sceaux, ministre de la justice.

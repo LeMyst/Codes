@@ -1,4 +1,1 @@
-  
-Le deuxième alinéa du I et le II de l'article L. 310-2 sont supprimés.  
-
-  
+Le deuxième alinéa du I et le II de l'article L. 310-2 sont supprimés.

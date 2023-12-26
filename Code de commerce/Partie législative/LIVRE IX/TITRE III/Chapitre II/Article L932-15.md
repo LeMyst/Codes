@@ -1,4 +1,1 @@
-  
-Le dernier alinéa de l'article L. 228-36 est supprimé.  
-
-  
+Le dernier alinéa de l'article L. 228-36 est supprimé.

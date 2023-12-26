@@ -1,4 +1,1 @@
-  
- Le contrat d'appui est renouvelé par écrit.  
-
-  
+Le contrat d'appui est renouvelé par écrit.

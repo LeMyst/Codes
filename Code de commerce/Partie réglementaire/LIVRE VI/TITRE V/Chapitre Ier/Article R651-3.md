@@ -1,4 +1,1 @@
-  
-Les jugements rendus en application de l'article L. 651-2 sont communiqués par le greffier au procureur de la République.  
-
-  
+Les jugements rendus en application de l'article L. 651-2 sont communiqués par le greffier au procureur de la République.

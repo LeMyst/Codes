@@ -1,4 +1,1 @@
-  
- Toute cession effectuée en violation des clauses statutaires est nulle.  
-
-  
+Toute cession effectuée en violation des clauses statutaires est nulle.

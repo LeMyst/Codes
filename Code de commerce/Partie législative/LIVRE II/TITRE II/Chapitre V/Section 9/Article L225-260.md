@@ -1,8 +1,5 @@
-  
- Les actions de la société se composent :  
+Les actions de la société se composent :
 
-  
- 1° D'actions ou coupures d'actions de capital ;  
+1° D'actions ou coupures d'actions de capital ;
 
-  
- 2° D'actions dites " actions de travail ".  
+2° D'actions dites " actions de travail ".

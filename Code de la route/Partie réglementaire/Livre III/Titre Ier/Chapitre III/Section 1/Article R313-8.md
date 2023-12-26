@@ -9,6 +9,7 @@ I.-Tout véhicule à moteur peut être muni à l'avant de deux feux de brouillar
 Le véhicule peut être équipé d'un système d'éclairage avant adaptatif tel que défini à l'article R. 313-3-2.
 
 
+
 Lorsque les feux de brouillard sont inclus dans un système d'éclairage avant adaptatif dans lequel ils exercent également une autre fonction d'éclairage, leur axe peut être automatiquement orienté vers l'un ou l'autre côté. 
 
 

@@ -4,7 +4,7 @@ I. – En cas de changement de propriétaire d'un véhicule soumis à immatricul
 II. – L'ancien propriétaire effectue la déclaration mentionnée au I soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
 
 
-III. – En cas de cession à un professionnel de l'automobile, ce dernier effectue une déclaration d'achat dans les quinze jours suivants la transaction, soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
+III. – En cas de cession à un professionnel de l'automobile, ce dernier effectue une déclaration d'achat dans les quinze jours suivant la transaction, soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
 
 
 IV. – Lorsqu'un professionnel de l'automobile propriétaire d'un véhicule déjà immatriculé le revend à un non professionnel de l'automobile, il remet à l'acquéreur le certificat d'immatriculation sur lequel sont portées les mentions prévues au I, accompagné du récépissé de la déclaration d'achat en sa possession et remplit, s'il existe, le coupon de ce certificat d'immatriculation.

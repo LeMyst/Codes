@@ -16,7 +16,7 @@ II. - (Abrogé).
 III. - Les agréments des installations de contrôle, ainsi que toutes les mesures affectant leur validité, sont inscrits dans un registre national qui est élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 
-IV. - L'agrément des installations de contrôle peut être suspendu ou retiré pour tout ou partie des catégories de contrôles techniques qu'il concerne si les conditions de bon fonctionnement des installations ou si les prescriptions qui leur sont imposées par la présente section ne sont plus respectées, et après que la personne bénéficiaire de l'agrément et le représentant du réseau de contrôle auquel les installations sont éventuellement rattachées ont pu être entendus et mis à même de présenter des observations écrites ou orales.
+IV. - L'agrément des installations de contrôle peut être suspendu ou retiré pour tout ou partie des catégories de contrôles techniques qu'il concerne si les conditions posées lors de sa délivrance ou de bon fonctionnement des installations ou si les prescriptions qui leur sont imposées par la présente section ne sont plus respectées, et après que la personne bénéficiaire de l'agrément et le représentant du réseau de contrôle auquel les installations sont éventuellement rattachées ont pu être entendus et mis à même de présenter des observations écrites ou orales.
 
 
 En cas d'urgence, l'agrément des installations de contrôle peut être suspendu immédiatement pour une durée maximale de deux mois.

@@ -4,5 +4,5 @@ Les demandes en relèvement d'incapacité sont adressées au ministre de la just
 Toute demande rejetée après un examen au fond ne peut être renouvelée qu'après un nouveau délai d'un an.
 
 
-Le relèvement est prononcé par décret.
+Le relèvement est prononcé par arrêté du ministre de la justice.
 

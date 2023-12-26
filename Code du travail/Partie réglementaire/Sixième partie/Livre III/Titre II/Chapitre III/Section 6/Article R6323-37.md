@@ -7,7 +7,13 @@ I.-Dans le cadre des finalités définies à l'article R. 6323-33 et dans la lim
 2° Du recensement des activités bénévoles ou de volontariat, de l'alimentation et de la mobilisation des droits inscrits sur le compte d'engagement citoyen ; 
 
 
-3° De la mise en œuvre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10. 
+3° De la mise en œuvre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10 ; 
+
+
+4° De la mise à disposition de services permettant au titulaire d'un compte personnel de formation de recenser les connaissances et compétences acquises au cours de sa formation initiale et continue et de sa carrière, au sein du passeport d'orientation, de formation et de compétences mentionné au dernier alinéa de l'article L. 6323-8 ; 
+
+
+5° De la mise en œuvre et de la gestion du passeport de prévention mentionné à l'article L. 4141-5. 
 
 
 La liste de ces traitements automatisés est fixée par arrêté du ministre chargé de la formation professionnelle et du ministre chargé des collectivités territoriales. 

@@ -1,1 +1,1 @@
-Sous-section 3 : Informations en cas d'expatriation
+Sous-section 3 : Informations délivrées au salarié

@@ -15,7 +15,7 @@ Pour mettre en œuvre le droit à congé du salarié défini à l'article L. 314
 3° bis Trois jours pour l'arrivée d'un enfant placé en vue de son adoption ;
 
 
-4° Douze jours pour le décès d'un enfant ou quatorze jours jours ouvrés lorsque l'enfant est âgé de moins de vingt-cinq ans et quel que soit son âge si l'enfant décédé était lui-même parent ou en cas de décès d'une personne âgée de moins de vingt-cinq ans à sa charge effective et permanente ;
+4° Douze jours pour le décès d'un enfant ou quatorze jours lorsque l'enfant est âgé de moins de vingt-cinq ans et quel que soit son âge si l'enfant décédé était lui-même parent ou en cas de décès d'une personne âgée de moins de vingt-cinq ans à sa charge effective et permanente ;
 
 
 5° Trois jours pour le décès du conjoint, du partenaire lié par un pacte civil de solidarité, du concubin, du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une sœur ;

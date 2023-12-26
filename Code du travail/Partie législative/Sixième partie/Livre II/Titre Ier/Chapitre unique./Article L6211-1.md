@@ -6,3 +6,6 @@ Il a pour objet de donner à des travailleurs, ayant satisfait à l'obligation s
 
 La formation est gratuite pour l'apprenti et pour son représentant légal.
 
+
+Sous réserve de l'article L. 6241-5, le présent livre n'est pas applicable aux apprentis militaires, qui sont régis par le code de la défense.
+

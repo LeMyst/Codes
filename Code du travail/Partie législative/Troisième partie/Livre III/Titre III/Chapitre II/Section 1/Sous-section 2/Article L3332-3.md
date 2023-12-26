@@ -1,4 +1,2 @@
-  
-Le plan d'épargne d'entreprise peut être établi dans l'entreprise à l'initiative de celle-ci ou par un accord avec le personnel, conclu dans les conditions prévues à l'article L. 3322-6, notamment en vue de recevoir les versements effectués en application des titres Ier et II relatifs à l'intéressement et à la participation des salariés aux résultats de l'entreprise.  
+Le plan d'épargne d'entreprise peut être établi dans l'entreprise à l'initiative de celle-ci ou par un accord avec le personnel, conclu dans les conditions prévues à l'article L. 3322-6, notamment en vue de recevoir les versements effectués en application des titres Ier et II relatifs à l'intéressement et à la participation des salariés aux résultats de l'entreprise, de l'article 1er de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat et de l'article 10 de la loi n° 2023-1107 du 29 novembre 2023 portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise.
 
-  

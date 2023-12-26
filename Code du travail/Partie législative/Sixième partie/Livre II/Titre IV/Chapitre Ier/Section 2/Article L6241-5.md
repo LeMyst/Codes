@@ -46,5 +46,8 @@ c) Etre reconnu conformément à la procédure prévue à l'article L. 443-2 du 
 12° Les écoles de production mentionnées à l'article L. 443-6 du code de l'éducation ;
 
 
-13° Les organismes figurant sur une liste établie par arrêté des ministres chargés de l'éducation nationale et de la formation professionnelle, agissant au plan national pour la promotion de la formation technologique et professionnelle initiale et des métiers. Cette liste est établie pour trois ans et les organismes y figurant justifient d'un niveau d'activité suffisant, déterminé par décret, pour prétendre continuer à y être inscrits. Le montant versé par les entreprises à ces organismes au titre du solde de la taxe d'apprentissage ne peut dépasser 30 % du montant dû.
+13° Les organismes figurant sur une liste établie par arrêté des ministres chargés de l'éducation nationale et de la formation professionnelle, agissant au plan national pour la promotion de la formation technologique et professionnelle initiale et des métiers. Cette liste est établie pour trois ans et les organismes y figurant justifient d'un niveau d'activité suffisant, déterminé par décret, pour prétendre continuer à y être inscrits. Le montant versé par les entreprises à ces organismes au titre du solde de la taxe d'apprentissage ne peut dépasser 30 % du montant dû ;
+
+
+14° Les établissements d'enseignement technique et préparatoire militaire mentionnés à l'article L. 4153-1 du code de la défense.
 

@@ -16,7 +16,8 @@ I. ― Pour la réalisation des formations, en tenant compte de l'ampleur et la 
 4° Les conditions d'organisation de la formation des travailleurs concernés.   
 
   
-II. ― Pour la délivrance des certificats prévus aux articles R. 4461-4 et R. 4461-27 :  
+II. ― Pour la délivrance des certificats prévus aux articles R. 4461-4 et R. 4461-27 :
+  
 
   
 1° Les conditions de délivrance, la durée de validité et les modalités de renouvellement du certificat d'aptitude à l'hyperbarie et du certificat de conseiller à la prévention hyperbare ;   

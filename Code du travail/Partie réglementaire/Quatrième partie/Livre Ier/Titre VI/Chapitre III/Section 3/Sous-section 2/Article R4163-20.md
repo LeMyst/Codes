@@ -1,2 +1,2 @@
-Lorsqu'il reconnait la formation éligible, l'opérateur du conseil en évolution professionnelle fournit une attestation au salarié, qui la transmet dans le cadre de sa demande d'utilisation de points à l'organisme gestionnaire désigné à l'article R. 4163-15.
+Lorsque l'opérateur du conseil en évolution professionnelle a réalisé l'accompagnement préalable prévu par l'article R. 4163-19, il informe l'organisme gestionnaire désigné à l'article R. 4163-15. Il peut le faire au moyen d'un téléservice mis à sa disposition.
 

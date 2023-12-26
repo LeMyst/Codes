@@ -1,0 +1,7 @@
+Lorsqu'une ou plusieurs des informations mentionnées aux articles R. 1221-34 et R. 1221-36 doivent être modifiées, l'employeur remet au salarié un document indiquant ces modifications dans les plus brefs délais, et au plus tard à la date de prise d'effet de cette modification, selon les modalités prévues à l'article R. 1221-39.
+
+
+  
+
+ Les dispositions de l'alinéa précédent ne sont pas applicables lorsque la modification d'informations mentionnées à l'article R. 1221-34 résulte exclusivement d'un changement des dispositions législatives et réglementaires ou des stipulations conventionnelles en vigueur.
+

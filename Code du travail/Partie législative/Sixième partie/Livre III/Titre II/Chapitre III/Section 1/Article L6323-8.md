@@ -1,12 +1,32 @@
   
 
-I. ― Chaque titulaire d'un compte a connaissance du montant des droits inscrits sur son compte et des abondements dont il peut bénéficier en accédant à un service dématérialisé gratuit. Ce service dématérialisé donne également les informations sur les formations éligibles. Il assure la prise en charge des actions de formation de l'inscription du titulaire du compte aux formations jusqu'au paiement des prestataires mentionnés à l'article L. 6351-1.
+I. – Chaque titulaire d'un compte a connaissance du montant des droits inscrits sur son compte et des abondements dont il peut bénéficier en accédant à un service dématérialisé gratuit. Ce service dématérialisé donne également les informations sur les formations éligibles. Il assure la prise en charge des actions de formation de l'inscription du titulaire du compte aux formations jusqu'au paiement des prestataires mentionnés à l'article L. 6351-1.
 
 
-II. ― Un traitement automatisé de données à caractère personnel, dénommé " système d'information du compte personnel de formation ", dont les modalités de mise en œuvre sont fixées par décret en Conseil d'Etat, permet la gestion et l'utilisation des droits inscrits sur le compte personnel de formation.
+II. – Un traitement automatisé de données à caractère personnel, dénommé " système d'information du compte personnel de formation ", dont les modalités de mise en œuvre sont fixées par décret en Conseil d'Etat, permet la gestion et l'utilisation des droits inscrits sur le compte personnel de formation.
 
 
-Ce traitement intègre la possibilité, pour chaque titulaire du compte, de disposer d'un passeport d'orientation, de formation et de compétences, dont la consultation est autorisée exclusivement par le titulaire, qui recense les formations et les qualifications suivies dans le cadre de la formation initiale ou continue ainsi que les acquis de l'expérience professionnelle, selon des modalités déterminées par décret.
+III. – Un passeport d'orientation, de formation et de compétences recense, pour chaque titulaire, les éléments relatifs à la formation initiale ou continue, au parcours professionnel et aux activités mentionnées à l'article L. 5151-9 qui sont susceptibles de faciliter le maintien ou l'insertion des personnes dans l'emploi.
 
+
+ 
+
+
+ Le passeport d'orientation, de formation et de compétences est ouvert à tout titulaire d'un compte personnel de formation mentionné à l'article L. 6323-1. Il est intégré au système d'information du compte personnel de formation mentionné au II du présent article.
+
+
+ 
+
+
+ Le titulaire du passeport d'orientation, de formation et de compétences a accès à l'ensemble des données qui y figurent. Il peut autoriser un tiers à consulter tout ou partie de ces données, sous réserve du respect des conditions prévues à l'article 4 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+
+ 
+
+
+ Par dérogation au troisième alinéa du présent III, pour les seuls besoins des missions d'orientation, d'accompagnement, de formation et d'insertion mentionnées au I de l'article L. 5311-7, les agents des administrations, des institutions et des organismes dont la liste est fixée par le décret en Conseil d'Etat mentionné au II du présent article sont destinataires, dans la limite de ce qui est nécessaire à l'exercice de leurs missions respectives, des données contenues dans le passeport d'orientation, de formation et de compétences. 
+
+
+  
 
   

@@ -25,15 +25,18 @@ Le traitement automatisé mentionné à l'article R. 6323-32 a pour finalités d
 8° Le recensement des activités bénévoles ou de volontariat, l'alimentation et la mobilisation des droits inscrits sur le compte d'engagement citoyen conformément aux dispositions des articles L. 5151-7, L. 5151-8 et L. 5151-9 ; 
 
 
-9° La mise à disposition de services permettant au titulaire du compte personnel de formation de recenser les connaissances et compétences acquises, au cours de sa formation initiale et continue, et de sa carrière ; 
+9° La mise à disposition de services permettant au titulaire du compte personnel de formation de recenser les connaissances et compétences acquises, au cours de sa formation initiale et continue, et de sa carrière, au sein du passeport d'orientation, de formation et de compétences mentionné au second alinéa du II de l'article L. 6323-8 ; 
+
+
+9° bis La mise en œuvre et la gestion du passeport de prévention mentionné à l'article L. 4141-5 et intégré au passeport mentionné au 9° ; 
 
 
 10° La mise en œuvre du partage des données mentionné au deuxième alinéa de l'article L. 6353-10 ; 
 
 
-11° L'instruction des réclamations et des litiges ainsi que le recouvrement des sommes indûment versées, conformément aux modalités prévues par les conditions générales d'utilisation du service dématérialisé mentionnées à l'article L. 6323-9 du présent code et au III de l'article L. 1621-5 du code général des collectivités territoriales ;   
+11° L'instruction des réclamations et des litiges ainsi que le recouvrement des sommes indûment versées, conformément aux modalités prévues par les conditions générales d'utilisation du service dématérialisé mentionnées à l'article L. 6323-9 du présent code et au III de l'article L. 1621-5 du code général des collectivités territoriales ; 
 
-  
+
 12° L'accès aux formations mentionnées au I de l'article L. 1621-5 du code général des collectivités territoriales.
 
 

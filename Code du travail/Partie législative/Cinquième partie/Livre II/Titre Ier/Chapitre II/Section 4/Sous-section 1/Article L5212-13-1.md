@@ -1,0 +1,2 @@
+Les dispositions du présent code relatives aux travailleurs reconnus handicapés par la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles s'appliquent également aux personnes mentionnées à l'article L. 5212-13 du présent code, à l'exception de celles mentionnées au 5° du même article L. 5212-13, ainsi qu'aux personnes mentionnées à l'article L. 351-5 du code général de la fonction publique.
+

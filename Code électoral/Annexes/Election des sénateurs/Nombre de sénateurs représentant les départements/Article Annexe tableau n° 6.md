@@ -1,5 +1,3 @@
-
-
 |  |  |
 | --- | --- |
 | DÉPARTEMENTS | NOMBRE DE SÉNATEURS |
@@ -104,4 +102,3 @@
 | Val-d'Oise | 5 |
 | Yvelines | 6 |
 | Total | 326 |
-

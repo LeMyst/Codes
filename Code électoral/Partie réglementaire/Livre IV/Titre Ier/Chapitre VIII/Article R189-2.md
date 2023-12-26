@@ -1,8 +1,5 @@
-  
- La commission compétente pour le département où se trouve le chef-lieu de la région procède au recensement général des votes. Elle ne peut modifier les résultats constatés par chaque commission départementale.  
+La commission compétente pour le département où se trouve le chef-lieu de la région procède au recensement général des votes. Elle ne peut modifier les résultats constatés par chaque commission départementale.
 
-  
- Elle proclame les résultats du scrutin.  
+Elle proclame les résultats du scrutin.
 
-  
- Le procès-verbal qu'elle établit est remis au préfet de région.  
+Le procès-verbal qu'elle établit est remis au préfet de région.

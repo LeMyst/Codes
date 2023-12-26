@@ -1,4 +1,1 @@
-  
- Les sénateurs sont élus pour six ans.  
-
-  
+Les sénateurs sont élus pour six ans.

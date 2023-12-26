@@ -1,4 +1,1 @@
-  
- Nul ne peut être inscrit sur plusieurs listes électorales.  
-
-  
+Nul ne peut être inscrit sur plusieurs listes électorales.

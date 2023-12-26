@@ -1,5 +1,3 @@
-  
- Un sénateur est élu à Saint-Barthélemy.  
+Un sénateur est élu à Saint-Barthélemy.
 
-  
- Les dispositions organiques du livre II sont applicables à l'élection du sénateur de Saint-Barthélemy.  
+Les dispositions organiques du livre II sont applicables à l'élection du sénateur de Saint-Barthélemy.

@@ -1,8 +1,5 @@
 I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code électoral et fixant la répartition des sièges de sénateurs entre les séries est ainsi rédigé :
 
-
-
-
 |  |  |  |
 | --- | --- | --- |
 | SÉRIE A | SÉRIE B | SÉRIE C |
@@ -17,13 +14,7 @@ I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au co
 | Français établis hors de France | 4 |  |   | Français établis hors de France | 4 |
 | Total | 102 |   | 102 |  | 127 |
 
-
 II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
-
-
-  
-
-
 
 |  |  |  |
 | --- | --- | --- |
@@ -39,13 +30,7 @@ II. - A compter du renouvellement partiel de 2008, le tableau précité est ains
 | Français établis hors de France | 4 |  |   | Français établis hors de France | 4 |
 | Total | 114 |   | 102 |  | 127 |
 
-
 III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
-
-
-  
-
-
 
 |  |  |
 | --- | --- |
@@ -64,4 +49,3 @@ III. - A compter du renouvellement partiel de 2011, le tableau précité est ain
 | Nouvelle-Calédonie | 2 | Français établis hors de France | 6 |
 | Français établis hors de France | 6 |  |   |
 | Total | 170 |   | 178 |
-

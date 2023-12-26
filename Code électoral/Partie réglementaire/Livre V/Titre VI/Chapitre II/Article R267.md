@@ -1,4 +1,1 @@
-  
- Les résultats des scrutins sont publiés au Journal officiel de la Nouvelle-Calédonie.  
-
-  
+Les résultats des scrutins sont publiés au Journal officiel de la Nouvelle-Calédonie.

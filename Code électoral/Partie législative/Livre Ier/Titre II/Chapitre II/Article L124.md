@@ -1,4 +1,1 @@
-  
- Le vote a lieu par circonscription.  
-
-  
+Le vote a lieu par circonscription.

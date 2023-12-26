@@ -1,4 +1,1 @@
-  
- La collectivité forme une circonscription électorale unique.  
-
-  
+La collectivité forme une circonscription électorale unique.

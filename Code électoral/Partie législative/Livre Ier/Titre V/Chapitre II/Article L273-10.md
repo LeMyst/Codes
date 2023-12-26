@@ -1,14 +1,9 @@
 Lorsque le siège d'un conseiller communautaire devient vacant, pour quelque cause que ce soit, il est pourvu par le candidat de même sexe élu conseiller municipal ou conseiller d'arrondissement suivant sur la liste des candidats aux sièges de conseiller communautaire sur laquelle le conseiller à remplacer a été élu. Toutefois, lorsque la commune ne dispose que d'un siège de conseiller communautaire, ce siège est pourvu par le candidat supplémentaire mentionné au 1° du I de l'article L. 273-9.
 
-
 Lorsqu'il n'y a plus de candidat élu conseiller municipal ou conseiller d'arrondissement pouvant le remplacer sur la liste des candidats au siège de conseiller communautaire, le siège est pourvu par le premier conseiller municipal ou conseiller d'arrondissement de même sexe élu sur la liste correspondante des candidats aux sièges de conseiller municipal n'exerçant pas de mandat de conseiller communautaire. Toutefois, lorsque la commune ne dispose que d'un siège de conseiller communautaire, le siège est pourvu par le premier conseiller municipal élu sur la liste correspondante des candidats aux sièges de conseiller municipal n'exerçant pas de mandat de conseiller communautaire.
-
 
 Lorsqu'il n'existe pas de conseiller municipal ou de conseiller d'arrondissement pouvant être désigné en application des deux premiers alinéas, le siège de conseiller communautaire reste vacant jusqu'au prochain renouvellement du conseil municipal de la commune.
 
-
 Par dérogation au troisième alinéa, au terme de la première année suivant l'installation du conseil municipal de la commune concernée, lorsqu'il n'existe pas de conseiller municipal ou de conseiller d'arrondissement pouvant être désigné en application des deux premiers alinéas, le siège devenu vacant est pourvu par le premier candidat élu conseiller municipal ou conseiller d'arrondissement suivant sur la liste des candidats aux sièges de conseiller communautaire sur laquelle le conseiller à remplacer a été élu, sans tenir compte de son sexe. Lorsqu'il n'y a plus de candidat élu conseiller municipal ou conseiller d'arrondissement pouvant pourvoir le siège sur la liste des candidats au siège de conseiller communautaire, le siège est pourvu par le premier conseiller municipal ou conseiller d'arrondissement élu sur la liste correspondante des candidats aux sièges de conseiller municipal n'exerçant pas de mandat de conseiller communautaire, sans tenir compte de son sexe.
 
-
 La constatation, par la juridiction administrative, de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des conseillers communautaires inéligibles. La juridiction saisie proclame en conséquence l'élection du ou des candidats désignés en application des deux premiers alinéas.
-

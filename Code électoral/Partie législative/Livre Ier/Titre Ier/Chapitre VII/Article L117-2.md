@@ -1,1 +1,1 @@
- Le présent chapitre est applicable au vote par machine à voter et au vote par correspondance électronique.
+Le présent chapitre est applicable au vote par machine à voter et au vote par correspondance électronique.

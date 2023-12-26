@@ -1,3 +1,1 @@
-Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.  
-
-  
+Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.

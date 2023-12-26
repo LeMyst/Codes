@@ -1,4 +1,1 @@
-  
- L'élection se fait dans chaque commune.  
-
-  
+L'élection se fait dans chaque commune.

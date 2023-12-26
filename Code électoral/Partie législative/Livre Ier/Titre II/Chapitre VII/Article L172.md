@@ -1,4 +1,1 @@
-  
- Les électeurs sont convoqués par décret.  
-
-  
+Les électeurs sont convoqués par décret.

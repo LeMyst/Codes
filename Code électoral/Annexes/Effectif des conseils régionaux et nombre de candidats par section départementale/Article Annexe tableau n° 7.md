@@ -1,341 +1,336 @@
-  
-
-
-
-| RÉGION | 
+| RÉGION |
 EFFECTIF
-du conseil régional | DÉPARTEMENT | 
+du conseil régional | DÉPARTEMENT |
 NOMBRE DE CANDIDATS
 par section départementale |
 | --- | --- | --- | --- |
-| 
-Alsace, Champagne-Ardenne et Lorraine | 
+|
+Alsace, Champagne-Ardenne et Lorraine |
 
-169 | 
-Ardennes | 
+169 |
+Ardennes |
 11 |
-| 
-Aube | 
+|
+Aube |
 11 |
-| 
-Marne | 
+|
+Marne |
 19 |
-| 
-Haute-Marne | 
+|
+Haute-Marne |
 8 |
-| 
-Meurthe-et-Moselle | 
+|
+Meurthe-et-Moselle |
 24 |
-| 
-Meuse | 
+|
+Meuse |
 8 |
-| 
-Moselle | 
+|
+Moselle |
 34 |
-| 
-Collectivité européenne d'Alsace | 
+|
+Collectivité européenne d'Alsace |
 58 |
-| 
-Vosges | 
+|
+Vosges |
 14 |
-| 
-Aquitaine, Limousin et Poitou-Charentes | 
+|
+Aquitaine, Limousin et Poitou-Charentes |
 
-183 | 
-Charente | 
+183 |
+Charente |
 13 |
-| 
-Charente-Maritime | 
+|
+Charente-Maritime |
 22 |
-| 
-Corrèze | 
+|
+Corrèze |
 10 |
-| 
-Creuse | 
+|
+Creuse |
 6 |
-| 
-Dordogne | 
+|
+Dordogne |
 15 |
-| 
-Gironde | 
+|
+Gironde |
 48 |
-| 
-Landes | 
+|
+Landes |
 14 |
-| 
-Lot-et-Garonne | 
+|
+Lot-et-Garonne |
 12 |
-| 
-Pyrénées-Atlantiques | 
+|
+Pyrénées-Atlantiques |
 23 |
-| 
-Deux-Sèvres | 
+|
+Deux-Sèvres |
 14 |
-| 
-Vienne | 
+|
+Vienne |
 16 |
-| 
-Haute-Vienne | 
+|
+Haute-Vienne |
 14 |
-| 
-Auvergne et Rhône-Alpes | 
+|
+Auvergne et Rhône-Alpes |
 
-204 | 
-Ain | 
+204 |
+Ain |
 18 |
-| 
-Allier | 
+|
+Allier |
 11 |
-| 
-Ardèche | 
+|
+Ardèche |
 11 |
-| 
-Cantal | 
+|
+Cantal |
 6 |
-| 
-Drôme | 
+|
+Drôme |
 15 |
-| 
-Isère | 
+|
+Isère |
 34 |
-| 
-Loire | 
+|
+Loire |
 22 |
-| 
-Haute-Loire | 
+|
+Haute-Loire |
 8 |
-| 
-Métropole de Lyon | 
+|
+Métropole de Lyon |
 37 |
-| 
-Puy-de-Dôme | 
+|
+Puy-de-Dôme |
 19 |
-| 
-Rhône | 
+|
+Rhône |
 14 |
-| 
-Savoie | 
+|
+Savoie |
 13 |
-| 
-Haute-Savoie | 
+|
+Haute-Savoie |
 22 |
-| 
-Bourgogne et Franche-Comté | 
+|
+Bourgogne et Franche-Comté |
 
-100 | 
-Côte-d'Or | 
+100 |
+Côte-d'Or |
 21 |
-| 
-Doubs | 
+|
+Doubs |
 21 |
-| 
-Jura | 
+|
+Jura |
 11 |
-| 
-Nièvre | 
+|
+Nièvre |
 10 |
-| 
-Haute-Saône | 
+|
+Haute-Saône |
 10 |
-| 
-Saône-et-Loire | 
+|
+Saône-et-Loire |
 22 |
-| 
-Yonne | 
+|
+Yonne |
 14 |
-| 
-Territoire de Belfort | 
+|
+Territoire de Belfort |
 7 |
-| 
-Bretagne | 
+|
+Bretagne |
 
-83 | 
-Côtes-d'Armor | 
+83 |
+Côtes-d'Armor |
 17 |
-| 
-Finistère | 
+|
+Finistère |
 25 |
-| 
-Ille-et-Vilaine | 
+|
+Ille-et-Vilaine |
 28 |
-| 
-Morbihan | 
+|
+Morbihan |
 21 |
-| 
-Centre | 
+|
+Centre |
 
-77 | 
-Cher | 
+77 |
+Cher |
 11 |
-| 
-Eure-et-Loir | 
+|
+Eure-et-Loir |
 15 |
-| 
-Indre | 
+|
+Indre |
 9 |
-| 
-Indre-et-Loire | 
+|
+Indre-et-Loire |
 20 |
-| 
-Loir-et-Cher | 
+|
+Loir-et-Cher |
 12 |
-| 
-Loiret | 
+|
+Loiret |
 22 |
-| 
-Guadeloupe | 
+|
+Guadeloupe |
 
-41 | 
-Guadeloupe | 
-43 |
-| 
-Ile-de-France | 
-
-209 | 
-Paris | 
-42 |
-| 
-Seine-et-Marne | 
-25 |
-| 
-Yvelines | 
-27 |
-| 
-Essonne | 
-24 |
-| 
-Hauts-de-Seine | 
-30 |
-| 
-Seine-Saint-Denis | 
-29 |
-| 
-Val-de-Marne | 
-25 |
-| 
-Val-d'Oise | 
-23 |
-| 
-Languedoc-Roussillon et Midi-Pyrénées | 
-
-158 | 
-Ariège | 
-6 |
-| 
-Aude | 
-12 |
-| 
-Aveyron | 
-10 |
-| 
-Gard | 
-22 |
-| 
-Haute-Garonne | 
-38 |
-| 
-Gers | 
-7 |
-| 
-Hérault | 
-32 |
-| 
-Lot | 
-7 |
-| 
-Lozère | 
-4 |
-| 
-Hautes-Pyrénées | 
-9 |
-| 
-Pyrénées-Orientales | 
-15 |
-| 
-Tarn | 
-13 |
-| 
-Tarn-et-Garonne | 
-9 |
-| 
-Nord - Pas-de-Calais et Picardie | 
-
-170 | 
-Aisne | 
-17 |
-| 
-Nord | 
-76 |
-| 
-Oise | 
-25 |
-| 
-Pas-de-Calais | 
-44 |
-| 
-Somme | 
-18 |
-| 
-Basse-Normandie et Haute-Normandie | 
-
-102 | 
-Calvados | 
-23 |
-| 
-Eure | 
-20 |
-| 
-Manche | 
-17 |
-| 
-Orne | 
-11 |
-| 
-Seine-Maritime | 
 41 |
-| 
-Pays de la Loire | 
+Guadeloupe |
+43 |
+|
+Ile-de-France |
 
-93 | 
-Loire-Atlantique | 
-35 |
-| 
-Maine-et-Loire | 
-22 |
-| 
-Mayenne | 
-10 |
-| 
-Sarthe | 
-17 |
-| 
-Vendée | 
-19 |
-| 
-Provence-Alpes-Côte d'Azur | 
-
-123 | 
-Alpes-de-Haute-Provence | 
-6 |
-| 
-Hautes-Alpes | 
-6 |
-| 
-Alpes-Maritimes | 
-29 |
-| 
-Bouches-du-Rhône | 
-51 |
-| 
-Var | 
+209 |
+Paris |
+42 |
+|
+Seine-et-Marne |
+25 |
+|
+Yvelines |
 27 |
-| 
-Vaucluse | 
+|
+Essonne |
+24 |
+|
+Hauts-de-Seine |
+30 |
+|
+Seine-Saint-Denis |
+29 |
+|
+Val-de-Marne |
+25 |
+|
+Val-d'Oise |
+23 |
+|
+Languedoc-Roussillon et Midi-Pyrénées |
+
+158 |
+Ariège |
+6 |
+|
+Aude |
+12 |
+|
+Aveyron |
+10 |
+|
+Gard |
+22 |
+|
+Haute-Garonne |
+38 |
+|
+Gers |
+7 |
+|
+Hérault |
+32 |
+|
+Lot |
+7 |
+|
+Lozère |
+4 |
+|
+Hautes-Pyrénées |
+9 |
+|
+Pyrénées-Orientales |
+15 |
+|
+Tarn |
+13 |
+|
+Tarn-et-Garonne |
+9 |
+|
+Nord - Pas-de-Calais et Picardie |
+
+170 |
+Aisne |
+17 |
+|
+Nord |
+76 |
+|
+Oise |
+25 |
+|
+Pas-de-Calais |
+44 |
+|
+Somme |
+18 |
+|
+Basse-Normandie et Haute-Normandie |
+
+102 |
+Calvados |
+23 |
+|
+Eure |
+20 |
+|
+Manche |
+17 |
+|
+Orne |
+11 |
+|
+Seine-Maritime |
+41 |
+|
+Pays de la Loire |
+
+93 |
+Loire-Atlantique |
+35 |
+|
+Maine-et-Loire |
+22 |
+|
+Mayenne |
+10 |
+|
+Sarthe |
+17 |
+|
+Vendée |
+19 |
+|
+Provence-Alpes-Côte d'Azur |
+
+123 |
+Alpes-de-Haute-Provence |
+6 |
+|
+Hautes-Alpes |
+6 |
+|
+Alpes-Maritimes |
+29 |
+|
+Bouches-du-Rhône |
+51 |
+|
+Var |
+27 |
+|
+Vaucluse |
 16 |
-| 
-La Réunion | 
+|
+La Réunion |
 
-45 | 
-La Réunion | 
+45 |
+La Réunion |
 47 |
-

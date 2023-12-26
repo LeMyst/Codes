@@ -1,4 +1,1 @@
-  
- Le scrutin ne dure qu'un seul jour.  
-
-  
+Le scrutin ne dure qu'un seul jour.

@@ -1,8 +1,3 @@
- 
-
-
-
-
 |  |
 | --- |
 | Seine-et-Marne |
@@ -10,13 +5,13 @@
 | 2e circonscription | Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours |
 | 3e circonscription | Cantons de : Le Châtelet-en-Brie, Montereau-Fault-Yonne, Moret-sur-Loing, Mormant  |
 | 4e circonscription | Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie, Villiers-Saint-Georges |
-| 5e circonscription | Cantons de : Coulommiers, Crécy-la-Chapelle, La Ferté-sous-Jouarre 
+| 5e circonscription | Cantons de : Coulommiers, Crécy-la-Chapelle, La Ferté-sous-Jouarre
 Communes de : Bailly-Romainvilliers, Magny-le-Hongre, Serris  |
-| 6e circonscription | Cantons de : Lizy-sur-Ourcq, Meaux Nord, Meaux Sud 
+| 6e circonscription | Cantons de : Lizy-sur-Ourcq, Meaux Nord, Meaux Sud
 Communes de : Cuisy, Forfry, Gesvres-le-Chapitre, Juilly, Marchémoret, Montgé-en-Goële, Monthyon, Oissery, Le Plessis-l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets, Vinantes  |
 | 7e circonscription | Cantons de : Claye-Souilly, Dammartin-en-Goële (moins les communes de Cuisy, Forfry, Gesvres-le-Chapitre, Juilly, Marchémoret, Montgé-en-Goële, Monthyon, Oissery, Le Plessis-l'Evêque, Rouvres, Saint-Mard, Saint-Pathus, Saint-Soupplets, Vinantes), Lagny-sur-Marne, Mitry-Mory  |
 | 8e circonscription | Cantons de : Roissy-en-Brie, Thorigny-sur-Marne (moins les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris), Torcy  |
-| 9e circonscription | Cantons de : Brie-Comte-Robert, Pontault-Combault, Tournan-en-Brie 
+| 9e circonscription | Cantons de : Brie-Comte-Robert, Pontault-Combault, Tournan-en-Brie
 Commune de Combs-la-Ville  |
 | 10e circonscription | Cantons de : Champs-sur-Marne, Chelles, Noisiel, Vaires-sur-Marne  |
 | 11e circonscription | Cantons de : Combs-la-Ville (moins la commune de Combs-la-Ville), Le Mée-sur-Seine, Savigny-le-Temple  |
@@ -26,17 +21,17 @@ Commune de Combs-la-Ville  |
 | 3e circonscription | Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche, commune de Les Clayes-sous-Bois  |
 | 4e circonscription | Cantons de : Chatou, Houilles, Marly-le-Roi |
 | 5e circonscription | Cantons de : Maisons-Laffitte, Sartrouville, Le Vésinet |
-| 6e circonscription | Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud 
+| 6e circonscription | Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud
 Communes de Carrières-sous-Poissy, Médan et Villennes-sur-Seine  |
 | 7e circonscription | Cantons de : Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine |
 | 8e circonscription | Cantons de : Limay, Mantes-la-Jolie, Mantes-la-Ville |
 | 9e circonscription | Cantons de : Aubergenville, Bonnières-sur-Seine, Guerville, Houdan
 Communes de : Les Mureaux, Chapet |
 | 10e circonscription | Cantons de : Maurepas (moins les communes d'Elancourt et de La Verrière), Monfort-l'Amaury (partie non comprise dans la 12e circonscription), Rambouillet, Saint-Arnoult-en-Yvelines  |
-| 11e circonscription | Cantons de : Saint-Cyr-l'Ecole, Trappes 
+| 11e circonscription | Cantons de : Saint-Cyr-l'Ecole, Trappes
 Communes de : Elancourt et La Verrière (issues du canton de Maurepas), Le Mesnil-Saint-Denis (issue du canton de Chevreuse)  |
-| 12e circonscription | Cantons de : Plaisir (moins la commune de Les Clayes-sous-Bois), Poissy Sud 
-Communes de : Auteuil, Autouillet, Beynes, Boissy-sans-Avoir, Flexanville, Goupillières, Marcq, Neauphle-le-Château, Neauphle-le-Vieux, Saint-Germain-de-la-Grange, Saulx-Marchais, Thoiry, Vicq, Villiers-le-Mahieu, Villiers-Saint-Fréderic (issues du canton de Montfort-L'Amaury) 
+| 12e circonscription | Cantons de : Plaisir (moins la commune de Les Clayes-sous-Bois), Poissy Sud
+Communes de : Auteuil, Autouillet, Beynes, Boissy-sans-Avoir, Flexanville, Goupillières, Marcq, Neauphle-le-Château, Neauphle-le-Vieux, Saint-Germain-de-la-Grange, Saulx-Marchais, Thoiry, Vicq, Villiers-le-Mahieu, Villiers-Saint-Fréderic (issues du canton de Montfort-L'Amaury)
 Commune de Poissy (partie comprise dans le canton de Poissy Nord)  |
 | Deux-Sèvres |
 | 1re circonscription | Cantons de : Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Mazières-en-Gâtine, Niort Est, Niort Nord, Niort Ouest, Prahecq, Secondigny  |
@@ -91,8 +86,8 @@ Commune de Poissy (partie comprise dans le canton de Poissy Nord)  |
 | 3e circonscription | Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot |
 | 4e circonscription | Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel |
 | Yonne |
-| 1re circonscription | Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-Ouest, Bléneau, Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy 
- 
+| 1re circonscription | Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-Ouest, Bléneau, Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy
+
 Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne), Monéteau (issue du canton de Seignelay)  |
 | 2e circonscription | Cantons de : Ancy-le-Franc, Avallon, Brienon-sur-Armançon, Chablis, Coulanges-sur-Yonne (moins les communes d'Andryes et d'Etais-la-Sauvin), Cruzy-le-Châtel, Flogny-la-Chapelle, Guillon, L'Isle-sur-Serein, Ligny-le-Châtel, Migennes, Noyers, Quarré-les-Tombes, Saint-Florentin, Seignelay (moins la commune de Monéteau), Tonnerre, Vermenton, Vézelay  |
 | 3e circonscription | Cantons de : Cerisiers, Chéroy, Joigny, Pont-sur-Yonne, Saint-Julien-du-Sault, Sens Nord-Est, Sens Ouest, Sens Sud-Est, Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne  |
@@ -103,8 +98,8 @@ Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne)
 | 1re circonscription | Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud |
 | 2e circonscription | Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt |
 | 3e circonscription | Cantons de : Arpajon (moins les communes de Bruyères-le-Châtel et Ollainville), Brétigny-sur-Orge, Dourdan, Etréchy, Saint-Chéron  |
-| 4e circonscription | Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette 
- 
+| 4e circonscription | Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette
+
 Communes de : Bruyères-le-Châtel, Ollainville  |
 | 5e circonscription | Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis |
 | 6e circonscription | Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau |
@@ -186,4 +181,3 @@ Communes de : Bruyères-le-Châtel, Ollainville  |
 | 5e circonscription | Cantons de : Bras-Panon, La Plaine-des-Palmistes, Saint-André II, Saint-André III, Saint-Benoît I, Saint-Benoît II, Saint-Philippe, Sainte-Rose, Salazie  |
 | 6e circonscription | Cantons de : Saint-André I, Saint-Denis VII, Saint-Denis IX, Sainte-Marie, Sainte-Suzanne  |
 | 7e circonscription |  Cantons de : Les Avirons, L'Etang-Salé, Saint-Leu I, Saint-Leu II, Saint-Louis I, Saint-Paul IV, Saint-Paul V, Les Trois-Bassins  |
-

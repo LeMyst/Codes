@@ -1,6 +1,1 @@
-Les dispositions de l'article LO. 177 sont applicables. 
-
-
-  
-
-  
+Les dispositions de l'article LO. 177 sont applicables.

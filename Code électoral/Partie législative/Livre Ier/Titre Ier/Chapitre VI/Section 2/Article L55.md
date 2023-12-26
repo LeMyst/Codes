@@ -1,4 +1,1 @@
-  
- Il a lieu un dimanche.  
-
-  
+Il a lieu un dimanche.

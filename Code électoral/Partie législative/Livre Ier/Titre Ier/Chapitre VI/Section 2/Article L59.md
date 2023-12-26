@@ -1,4 +1,1 @@
-  
- Le scrutin est secret.  
-
-  
+Le scrutin est secret.

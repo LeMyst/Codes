@@ -1,10 +1,4 @@
- 
-
-
-
-
-
-| DÉSIGNATION DES SECTEURS  | ARRONDISSEMENTS 
+| DÉSIGNATION DES SECTEURS  | ARRONDISSEMENTS
 constituant les secteurs  | NOMBRE DE SIÈGES  |
 | --- | --- | --- |
 | 1er secteur  | 1er, 2e, 3e et 4e  | 8  |
@@ -26,7 +20,4 @@ constituant les secteurs  | NOMBRE DE SIÈGES  |
 | 20e secteur  | 20e  | 14  |
 | Total  | 163  |
 
-
-
-  
 .

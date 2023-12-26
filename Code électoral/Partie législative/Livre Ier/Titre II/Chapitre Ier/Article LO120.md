@@ -1,4 +1,1 @@
-  
- L'Assemblée nationale se renouvelle intégralement.  
-
-  
+L'Assemblée nationale se renouvelle intégralement.

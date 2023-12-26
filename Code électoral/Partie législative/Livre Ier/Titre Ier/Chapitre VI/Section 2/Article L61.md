@@ -1,4 +1,1 @@
-  
- L'entrée dans l'assemblée électorale avec armes est interdite.  
-
-  
+L'entrée dans l'assemblée électorale avec armes est interdite.

@@ -1,4 +1,1 @@
-  
- Le suffrage est direct et universel.  
-
-  
+Le suffrage est direct et universel.

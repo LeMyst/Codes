@@ -1,4 +1,1 @@
-  
- Les collèges électoraux sont convoqués par décret.  
-
-  
+Les collèges électoraux sont convoqués par décret.

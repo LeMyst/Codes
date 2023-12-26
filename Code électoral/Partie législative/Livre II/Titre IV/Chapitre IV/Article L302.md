@@ -1,3 +1,3 @@
-Les candidatures multiples sont interdites.  
+Les candidatures multiples sont interdites.
 
-Nul ne peut être candidat dans une même circonscription sur plusieurs listes ni dans plusieurs circonscriptions.  
+Nul ne peut être candidat dans une même circonscription sur plusieurs listes ni dans plusieurs circonscriptions.

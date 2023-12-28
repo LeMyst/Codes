@@ -1,2 +1,1 @@
-Paragraphe 1 : La capacité 
-
+Paragraphe 1 : La capacité

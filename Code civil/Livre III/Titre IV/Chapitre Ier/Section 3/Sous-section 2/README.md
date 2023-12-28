@@ -1,1 +1,1 @@
-Sous-section 2 : La pluralité de sujets 
+Sous-section 2 : La pluralité de sujets

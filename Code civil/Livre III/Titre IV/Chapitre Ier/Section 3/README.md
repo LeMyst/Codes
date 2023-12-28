@@ -1,1 +1,1 @@
-Section 3 : L'obligation plurale 
+Section 3 : L'obligation plurale

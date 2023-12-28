@@ -1,1 +1,1 @@
-Section 4 : La délégation 
+Section 4 : La délégation

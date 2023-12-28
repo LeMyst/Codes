@@ -1,1 +1,1 @@
-Sous-section 6 : Les actes récognitifs 
+Sous-section 6 : Les actes récognitifs

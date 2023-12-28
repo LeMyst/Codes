@@ -1,1 +1,1 @@
-Paragraphe 2 :  Des effets de l'adoption simple
+Paragraphe 2 : Des effets de l'adoption simple

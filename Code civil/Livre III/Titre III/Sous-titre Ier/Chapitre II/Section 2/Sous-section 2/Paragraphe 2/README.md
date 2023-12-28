@@ -1,1 +1,1 @@
- Paragraphe 2 : La représentation
+Paragraphe 2 : La représentation

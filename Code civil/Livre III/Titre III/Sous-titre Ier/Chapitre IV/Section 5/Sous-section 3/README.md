@@ -1,1 +1,1 @@
-Sous-section 3 : La réduction du prix 
+Sous-section 3 : La réduction du prix

@@ -1,1 +1,1 @@
-Paragraphe 3 : L'obligation facultative 
+Paragraphe 3 : L'obligation facultative

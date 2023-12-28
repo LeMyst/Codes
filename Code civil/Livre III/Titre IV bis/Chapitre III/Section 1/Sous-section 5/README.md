@@ -1,1 +1,1 @@
-Sous-section 5 : Les copies 
+Sous-section 5 : Les copies

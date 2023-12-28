@@ -1,1 +1,1 @@
-Paragraphe 2 : L'obligation à prestation indivisible 
+Paragraphe 2 : L'obligation à prestation indivisible

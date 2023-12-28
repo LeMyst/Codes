@@ -1,1 +1,1 @@
-Section 1 : La cession de créance 
+Section 1 : La cession de créance

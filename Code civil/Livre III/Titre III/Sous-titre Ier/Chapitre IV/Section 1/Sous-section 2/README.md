@@ -1,1 +1,1 @@
- Sous-section 2 : Effet translatif 
+Sous-section 2 : Effet translatif

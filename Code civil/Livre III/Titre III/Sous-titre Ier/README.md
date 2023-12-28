@@ -1,1 +1,1 @@
-Sous-titre Ier :  Le contrat 
+Sous-titre Ier : Le contrat

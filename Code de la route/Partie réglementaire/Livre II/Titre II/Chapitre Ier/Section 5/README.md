@@ -1,1 +1,1 @@
-Section 5 : Vérification d'aptitude 
+Section 5 : Vérification d'aptitude

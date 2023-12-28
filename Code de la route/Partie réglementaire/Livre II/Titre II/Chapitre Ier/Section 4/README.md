@@ -1,1 +1,1 @@
-Section 4 : Catégories de permis 
+Section 4 : Catégories de permis

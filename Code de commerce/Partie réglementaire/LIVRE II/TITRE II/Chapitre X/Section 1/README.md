@@ -1,1 +1,1 @@
-Section 1 : Des formalités de publicité 
+Section 1 : Des formalités de publicité

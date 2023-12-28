@@ -1,1 +1,1 @@
-Sous-section 6 : Prestations diverses 
+Sous-section 6 : Prestations diverses

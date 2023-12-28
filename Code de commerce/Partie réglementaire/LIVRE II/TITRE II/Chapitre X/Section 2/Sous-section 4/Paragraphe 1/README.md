@@ -1,1 +1,1 @@
-Paragraphe 1 : De l'augmentation de capital 
+Paragraphe 1 : De l'augmentation de capital

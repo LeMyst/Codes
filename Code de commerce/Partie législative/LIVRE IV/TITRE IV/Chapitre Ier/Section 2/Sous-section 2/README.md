@@ -1,1 +1,1 @@
-Sous-section 2 : Clause de renégociation 
+Sous-section 2 : Clause de renégociation

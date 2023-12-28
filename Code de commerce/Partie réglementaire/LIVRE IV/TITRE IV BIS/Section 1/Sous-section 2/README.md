@@ -1,1 +1,1 @@
-Sous-section 2 : Méthode de fixation des tarifs 
+Sous-section 2 : Méthode de fixation des tarifs

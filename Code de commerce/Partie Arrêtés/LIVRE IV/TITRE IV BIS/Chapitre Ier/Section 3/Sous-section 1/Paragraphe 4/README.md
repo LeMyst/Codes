@@ -1,2 +1,1 @@
-Paragraphe 4 : Actes divers 
-
+Paragraphe 4 : Actes divers

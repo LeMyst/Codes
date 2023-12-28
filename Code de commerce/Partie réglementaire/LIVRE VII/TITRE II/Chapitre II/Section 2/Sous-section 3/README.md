@@ -1,1 +1,1 @@
-Sous-section 3 : De l'obligation de formation 
+Sous-section 3 : De l'obligation de formation

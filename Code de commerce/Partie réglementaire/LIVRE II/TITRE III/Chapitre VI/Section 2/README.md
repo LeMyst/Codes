@@ -1,1 +1,1 @@
-Section 2 :  De la scission
+Section 2 : De la scission

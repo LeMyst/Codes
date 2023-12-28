@@ -1,1 +1,1 @@
-Sous-section 2 : Formalités 
+Sous-section 2 : Formalités

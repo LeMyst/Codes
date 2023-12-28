@@ -1,2 +1,1 @@
-Sous-section 1 :  Tarifs des actes 
-
+Sous-section 1 : Tarifs des actes

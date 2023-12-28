@@ -1,1 +1,1 @@
-Paragraphe 3 : Autres formalités diverses 
+Paragraphe 3 : Autres formalités diverses

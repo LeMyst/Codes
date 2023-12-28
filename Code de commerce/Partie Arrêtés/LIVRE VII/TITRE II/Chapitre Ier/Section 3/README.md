@@ -1,1 +1,1 @@
-Section 3  :   Du Conseil national des tribunaux de commerce
+Section 3 : Du Conseil national des tribunaux de commerce

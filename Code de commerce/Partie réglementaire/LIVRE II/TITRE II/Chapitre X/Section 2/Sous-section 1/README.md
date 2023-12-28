@@ -1,1 +1,1 @@
-Sous-section 1 : De la constitution 
+Sous-section 1 : De la constitution

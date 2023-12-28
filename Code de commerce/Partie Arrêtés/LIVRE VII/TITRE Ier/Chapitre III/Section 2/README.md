@@ -1,1 +1,1 @@
-Section 2  :   Des candidatures
+Section 2 : Des candidatures

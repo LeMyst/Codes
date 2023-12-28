@@ -1,1 +1,1 @@
-Section 4 : De la comptabilité.                         
+Section 4 : De la comptabilité.

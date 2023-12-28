@@ -1,2 +1,1 @@
-Section 5 : Des établissements d'enseignement supérieur consulaire 
-
+Section 5 : Des établissements d'enseignement supérieur consulaire

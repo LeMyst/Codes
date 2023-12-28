@@ -1,1 +1,1 @@
-Sous-Paragraphe 2 :  Des radiations 
+Sous-Paragraphe 2 : Des radiations

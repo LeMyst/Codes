@@ -1,1 +1,1 @@
-Section 2 :  Dispositions propres aux sociétés anonymes 
+Section 2 : Dispositions propres aux sociétés anonymes

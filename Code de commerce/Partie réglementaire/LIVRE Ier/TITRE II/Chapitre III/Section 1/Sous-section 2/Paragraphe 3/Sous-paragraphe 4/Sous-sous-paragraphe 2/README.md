@@ -1,1 +1,1 @@
-Sous-sous-paragraphe 2 : Des entrepreneurs individuels à responsabilité limitée. 
+Sous-sous-paragraphe 2 : Des entrepreneurs individuels à responsabilité limitée.

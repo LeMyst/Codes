@@ -1,1 +1,1 @@
-Section 3 :  Des mesures de publicité 
+Section 3 : Des mesures de publicité

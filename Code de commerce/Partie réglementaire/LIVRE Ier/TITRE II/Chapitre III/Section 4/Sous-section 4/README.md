@@ -1,1 +1,1 @@
-Sous-section 4 :  Dispositions générales
+Sous-section 4 : Dispositions générales

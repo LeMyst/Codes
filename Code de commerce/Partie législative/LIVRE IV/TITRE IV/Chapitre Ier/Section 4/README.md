@@ -1,1 +1,1 @@
-Section 4 : Pénalités logistiques 
+Section 4 : Pénalités logistiques

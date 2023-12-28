@@ -1,1 +1,1 @@
-Chapitre Ier : Mode de scrutin
+Chapitre Ier  : Mode de scrutin

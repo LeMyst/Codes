@@ -1,1 +1,1 @@
-Sous-section 5 : Droits d'alerte économique 
+Sous-section 5 : Droits d'alerte économique

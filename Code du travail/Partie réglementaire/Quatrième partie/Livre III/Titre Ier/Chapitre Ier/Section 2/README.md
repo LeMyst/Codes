@@ -1,1 +1,1 @@
- Section 2 : Dispositions d'application
+Section 2 : Dispositions d'application

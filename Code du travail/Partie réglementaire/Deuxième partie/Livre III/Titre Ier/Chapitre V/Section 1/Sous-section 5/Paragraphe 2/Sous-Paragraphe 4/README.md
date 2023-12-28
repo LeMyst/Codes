@@ -1,1 +1,1 @@
-Sous-Paragraphe 4 : Dépenses de formation 
+Sous-Paragraphe 4 : Dépenses de formation

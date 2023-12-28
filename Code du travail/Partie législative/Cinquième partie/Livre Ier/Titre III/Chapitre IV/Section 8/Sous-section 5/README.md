@@ -1,2 +1,1 @@
-Sous-section 5 : Dispositions d'application 
-
+Sous-section 5 : Dispositions d'application

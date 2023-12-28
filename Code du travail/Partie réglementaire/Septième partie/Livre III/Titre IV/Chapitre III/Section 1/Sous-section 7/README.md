@@ -1,1 +1,1 @@
-Sous-section 7 :  Le scrutin 
+Sous-section 7 : Le scrutin

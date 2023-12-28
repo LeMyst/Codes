@@ -1,1 +1,1 @@
- Section 1 : Régime des accords.
+Section 1 : Régime des accords.

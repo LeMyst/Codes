@@ -1,1 +1,1 @@
-  Sous-paragraphe 1er : Ordre public
+Sous-paragraphe 1er : Ordre public

@@ -1,1 +1,1 @@
-Titre III : Marchandage 
+Titre III : Marchandage

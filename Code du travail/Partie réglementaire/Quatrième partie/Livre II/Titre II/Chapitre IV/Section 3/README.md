@@ -1,1 +1,1 @@
- Section 3 : Matériel de premier secours et secouriste
+Section 3 : Matériel de premier secours et secouriste

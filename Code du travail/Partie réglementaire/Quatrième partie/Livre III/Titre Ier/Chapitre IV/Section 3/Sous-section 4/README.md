@@ -1,1 +1,1 @@
-Sous-section 4 :  Recouvrement des coûts 
+Sous-section 4 : Recouvrement des coûts

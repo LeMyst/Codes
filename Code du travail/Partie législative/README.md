@@ -1,1 +1,1 @@
-Partie législative  
+Partie législative

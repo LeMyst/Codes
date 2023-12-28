@@ -1,2 +1,1 @@
-Paragraphe 2 : Inscription sur la liste 
-
+Paragraphe 2 : Inscription sur la liste

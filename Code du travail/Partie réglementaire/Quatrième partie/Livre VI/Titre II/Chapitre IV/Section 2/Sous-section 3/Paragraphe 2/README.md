@@ -1,1 +1,1 @@
-Paragraphe 2 :  Visite de reprise
+Paragraphe 2 : Visite de reprise

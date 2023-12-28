@@ -1,1 +1,1 @@
-Titre Ier : Documents et affichages obligatoires 
+Titre Ier : Documents et affichages obligatoires

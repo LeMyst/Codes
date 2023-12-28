@@ -1,1 +1,1 @@
-Section 8 :  Dispositions d'application
+Section 8 : Dispositions d'application

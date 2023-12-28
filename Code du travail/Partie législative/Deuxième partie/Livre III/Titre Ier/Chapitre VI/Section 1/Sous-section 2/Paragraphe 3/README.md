@@ -1,1 +1,1 @@
-Paragraphe 3 : Durée et fin du mandat 
+Paragraphe 3 : Durée et fin du mandat

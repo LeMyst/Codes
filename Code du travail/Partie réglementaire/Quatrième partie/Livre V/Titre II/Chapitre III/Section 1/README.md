@@ -1,1 +1,1 @@
-Section 1 :  Attributions particulières.
+Section 1 : Attributions particulières.

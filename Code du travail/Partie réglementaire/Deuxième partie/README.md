@@ -1,2 +1,1 @@
-Deuxième partie : Les relations collectives de travail 
-
+Deuxième partie : Les relations collectives de travail

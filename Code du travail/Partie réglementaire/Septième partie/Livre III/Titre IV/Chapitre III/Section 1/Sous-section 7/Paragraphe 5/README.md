@@ -1,1 +1,1 @@
-Paragraphe 5 :   Les documents électoraux 
+Paragraphe 5 : Les documents électoraux

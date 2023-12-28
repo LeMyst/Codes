@@ -1,1 +1,1 @@
-Sous-section 5 : Formation 
+Sous-section 5 : Formation

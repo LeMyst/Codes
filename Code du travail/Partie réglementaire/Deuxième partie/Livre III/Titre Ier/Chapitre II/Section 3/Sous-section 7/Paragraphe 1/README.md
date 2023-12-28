@@ -1,1 +1,1 @@
-Paragraphe 1 : Nature des activités 
+Paragraphe 1 : Nature des activités

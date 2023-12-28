@@ -1,1 +1,1 @@
-Section 1 : Groupe spécial de négociation 
+Section 1 : Groupe spécial de négociation

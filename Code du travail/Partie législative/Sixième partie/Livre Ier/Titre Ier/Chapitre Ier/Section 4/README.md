@@ -1,3 +1,1 @@
- Section 4 : Supports d'information
-
-
+Section 4 : Supports d'information

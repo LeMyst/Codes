@@ -1,1 +1,1 @@
-Titre Ier : Cas, durées et périodes de protection 
+Titre Ier : Cas, durées et périodes de protection

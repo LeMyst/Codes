@@ -1,1 +1,1 @@
- Section 1 : Liste des travailleurs exposés
+Section 1 : Liste des travailleurs exposés

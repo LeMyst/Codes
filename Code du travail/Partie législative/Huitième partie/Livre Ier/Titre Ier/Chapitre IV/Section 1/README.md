@@ -1,1 +1,1 @@
-Section 1 : Obstacles et outrages 
+Section 1 : Obstacles et outrages

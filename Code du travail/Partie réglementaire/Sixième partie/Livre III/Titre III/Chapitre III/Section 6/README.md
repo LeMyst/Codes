@@ -1,1 +1,1 @@
-Section 6 :  Contrôle
+Section 6 : Contrôle

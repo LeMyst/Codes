@@ -1,1 +1,1 @@
-Sous-section 2 :  Durée du contrat 
+Sous-section 2 : Durée du contrat

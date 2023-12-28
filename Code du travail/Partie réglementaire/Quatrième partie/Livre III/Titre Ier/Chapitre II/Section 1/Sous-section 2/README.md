@@ -1,1 +1,1 @@
- Sous-section 2 : Équipements d'occasion
+Sous-section 2 : Équipements d'occasion

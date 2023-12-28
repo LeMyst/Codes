@@ -1,1 +1,1 @@
-Sous-section 3 : Prolongations 
+Sous-section 3 : Prolongations

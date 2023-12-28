@@ -1,1 +1,1 @@
-Sous-section 2 :  Modalités de désignation 
+Sous-section 2 : Modalités de désignation

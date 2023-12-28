@@ -1,1 +1,1 @@
- Section 1 : Caractéristiques des bâtiments
+Section 1 : Caractéristiques des bâtiments

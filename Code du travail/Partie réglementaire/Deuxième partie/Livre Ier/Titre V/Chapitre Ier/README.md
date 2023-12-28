@@ -1,5 +1,1 @@
-Chapitre Ier : Critères de représentativité 
-
-
-
-
+Chapitre Ier : Critères de représentativité

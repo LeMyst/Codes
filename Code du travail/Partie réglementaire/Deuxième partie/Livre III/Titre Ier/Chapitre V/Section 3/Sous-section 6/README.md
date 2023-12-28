@@ -1,1 +1,1 @@
-Sous-section 6 : Commissions 
+Sous-section 6 : Commissions

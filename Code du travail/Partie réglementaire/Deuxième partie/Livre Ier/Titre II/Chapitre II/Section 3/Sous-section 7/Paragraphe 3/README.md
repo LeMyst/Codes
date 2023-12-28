@@ -1,3 +1,1 @@
-Paragraphe 3 : Centralisation et proclamation des résultats 
-
-
+Paragraphe 3 : Centralisation et proclamation des résultats

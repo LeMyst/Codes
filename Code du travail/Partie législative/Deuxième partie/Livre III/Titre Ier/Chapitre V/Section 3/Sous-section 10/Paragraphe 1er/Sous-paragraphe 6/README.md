@@ -1,1 +1,1 @@
-  Sous-paragraphe 6 : Contestation
+Sous-paragraphe 6 : Contestation

@@ -1,1 +1,1 @@
- Section 8 : Prévention des explosions
+Section 8 : Prévention des explosions

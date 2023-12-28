@@ -1,6 +1,1 @@
-Sous-section 2 : Etablissement de la liste électorale 
-
-
-
-
-
+Sous-section 2 : Etablissement de la liste électorale

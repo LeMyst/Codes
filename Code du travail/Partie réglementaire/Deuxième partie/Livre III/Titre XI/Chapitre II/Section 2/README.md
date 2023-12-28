@@ -1,1 +1,1 @@
-Section 2 :  Désignation des membres 
+Section 2 : Désignation des membres

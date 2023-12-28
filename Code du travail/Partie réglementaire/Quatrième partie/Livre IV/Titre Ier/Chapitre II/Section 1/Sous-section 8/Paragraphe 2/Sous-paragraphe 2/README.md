@@ -1,1 +1,1 @@
- Sous-paragraphe 2 : Dossier médical
+Sous-paragraphe 2 : Dossier médical

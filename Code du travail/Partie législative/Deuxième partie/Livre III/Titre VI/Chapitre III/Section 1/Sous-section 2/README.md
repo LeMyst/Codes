@@ -1,3 +1,1 @@
-Sous-section 2 : Attributions 
-
-
+Sous-section 2 : Attributions

@@ -1,1 +1,1 @@
- Paragraphe 2 : Versement.
+Paragraphe 2 : Versement.

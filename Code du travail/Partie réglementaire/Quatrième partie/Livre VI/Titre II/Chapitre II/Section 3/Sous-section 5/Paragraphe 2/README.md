@@ -1,1 +1,1 @@
-Paragraphe 2 :  Référentiels
+Paragraphe 2 : Référentiels

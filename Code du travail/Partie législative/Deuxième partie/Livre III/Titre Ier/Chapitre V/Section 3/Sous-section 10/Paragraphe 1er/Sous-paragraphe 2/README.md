@@ -1,1 +1,1 @@
-  Sous-paragraphe 2 : Financement
+Sous-paragraphe 2 : Financement

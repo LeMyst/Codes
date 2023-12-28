@@ -1,1 +1,1 @@
-Sous-section 2 : Eligibilité 
+Sous-section 2 : Eligibilité

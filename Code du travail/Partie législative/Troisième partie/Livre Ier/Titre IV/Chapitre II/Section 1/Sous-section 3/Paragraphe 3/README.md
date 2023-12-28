@@ -1,1 +1,1 @@
-Paragraphe 3 : Dispositions supplétives 
+Paragraphe 3 : Dispositions supplétives

@@ -1,1 +1,1 @@
- Section 3 : Information des salariés.
+Section 3 : Information des salariés.

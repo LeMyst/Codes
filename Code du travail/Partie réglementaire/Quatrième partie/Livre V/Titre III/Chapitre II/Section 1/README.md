@@ -1,1 +1,1 @@
- Section 1 : Catégories d'opérations.
+Section 1 : Catégories d'opérations.

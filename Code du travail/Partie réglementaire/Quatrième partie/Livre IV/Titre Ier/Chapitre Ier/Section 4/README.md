@@ -1,1 +1,1 @@
- Section 4 : Protection des utilisateurs et acheteurs
+Section 4 : Protection des utilisateurs et acheteurs

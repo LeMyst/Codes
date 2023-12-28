@@ -1,3 +1,1 @@
-Sous-section 6 : Modalités de vote 
-
-
+Sous-section 6 : Modalités de vote

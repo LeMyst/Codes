@@ -1,1 +1,1 @@
-Section 2 : Régime juridique de la déclaration d'activité 
+Section 2 : Régime juridique de la déclaration d'activité

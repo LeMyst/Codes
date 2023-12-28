@@ -1,1 +1,1 @@
- Sous-section 2 : Vérifications périodiques
+Sous-section 2 : Vérifications périodiques

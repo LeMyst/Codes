@@ -1,1 +1,1 @@
- Section 1 : Organisation et fonctionnement 
+Section 1 : Organisation et fonctionnement

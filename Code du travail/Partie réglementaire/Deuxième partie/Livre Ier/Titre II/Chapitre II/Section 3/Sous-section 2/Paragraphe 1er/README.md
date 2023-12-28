@@ -1,3 +1,1 @@
-Paragraphe 1er : Traitement des données 
-
-
+Paragraphe 1er : Traitement des données

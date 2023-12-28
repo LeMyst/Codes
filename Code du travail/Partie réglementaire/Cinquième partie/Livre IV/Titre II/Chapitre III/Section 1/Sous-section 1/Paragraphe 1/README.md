@@ -1,1 +1,1 @@
- Paragraphe 1 : Conditions d'attribution.
+Paragraphe 1 : Conditions d'attribution.

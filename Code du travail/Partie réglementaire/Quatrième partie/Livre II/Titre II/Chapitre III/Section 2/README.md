@@ -1,1 +1,1 @@
- Section 2 : Ambiance thermique
+Section 2 : Ambiance thermique

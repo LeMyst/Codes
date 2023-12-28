@@ -1,1 +1,1 @@
-Sous-Paragraphe 3 : Congé de formation 
+Sous-Paragraphe 3 : Congé de formation

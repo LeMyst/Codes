@@ -1,1 +1,1 @@
- Sous-section 1 : Moyens d'extinction
+Sous-section 1 : Moyens d'extinction

@@ -1,1 +1,1 @@
-  Sous-paragraphe 4 : Opération de concentration
+Sous-paragraphe 4 : Opération de concentration

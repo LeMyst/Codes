@@ -1,1 +1,1 @@
-Sous-section 6 :  Formation et temps de délégation des représentants
+Sous-section 6 : Formation et temps de délégation des représentants

@@ -1,1 +1,1 @@
-Chapitre III : Eclairage, ambiance thermique. 
+Chapitre III : Eclairage, ambiance thermique.

@@ -1,1 +1,1 @@
-Section 4 : Allocation des travailleurs indépendants 
+Section 4 : Allocation des travailleurs indépendants

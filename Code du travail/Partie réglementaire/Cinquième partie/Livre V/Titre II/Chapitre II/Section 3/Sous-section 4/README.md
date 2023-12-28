@@ -1,1 +1,1 @@
-Sous-section 4 :  Insertion par l'activité économique
+Sous-section 4 : Insertion par l'activité économique

@@ -1,1 +1,1 @@
- Sous-section 4 : Cabinets d'aisance
+Sous-section 4 : Cabinets d'aisance

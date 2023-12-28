@@ -1,1 +1,1 @@
-Paragraphe 2 :  Télésanté au travail
+Paragraphe 2 : Télésanté au travail

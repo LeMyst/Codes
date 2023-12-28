@@ -1,1 +1,1 @@
-Sous-section 4 : Votes et délibérations 
+Sous-section 4 : Votes et délibérations

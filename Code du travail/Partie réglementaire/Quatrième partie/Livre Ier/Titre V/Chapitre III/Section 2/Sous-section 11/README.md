@@ -1,1 +1,1 @@
-Sous-section 11 :  Travaux temporaires en hauteur
+Sous-section 11 : Travaux temporaires en hauteur

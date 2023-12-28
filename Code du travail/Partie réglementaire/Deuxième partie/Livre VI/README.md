@@ -1,1 +1,1 @@
-Livre VI : Dispositions relatives à l'outre-mer 
+Livre VI : Dispositions relatives à l'outre-mer

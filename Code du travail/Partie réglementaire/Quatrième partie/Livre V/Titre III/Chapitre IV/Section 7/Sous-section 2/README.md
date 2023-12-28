@@ -1,1 +1,1 @@
- Sous-section 2 : Passerelles et escaliers.
+Sous-section 2 : Passerelles et escaliers.

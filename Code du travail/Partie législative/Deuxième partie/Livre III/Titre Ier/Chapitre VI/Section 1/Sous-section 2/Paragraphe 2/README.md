@@ -1,1 +1,1 @@
-Paragraphe 2 : Election 
+Paragraphe 2 : Election

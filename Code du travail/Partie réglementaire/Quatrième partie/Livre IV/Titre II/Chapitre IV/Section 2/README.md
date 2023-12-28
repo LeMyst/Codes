@@ -1,1 +1,1 @@
- Section 2 : Dispositions particulières à certaines activités
+Section 2 : Dispositions particulières à certaines activités

@@ -1,1 +1,1 @@
- Sous-section 7 : Information et formation des travailleurs
+Sous-section 7 : Information et formation des travailleurs

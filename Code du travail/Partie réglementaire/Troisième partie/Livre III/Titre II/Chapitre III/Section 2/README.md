@@ -1,1 +1,1 @@
- Section 2 : Information des salariés.
+Section 2 : Information des salariés.

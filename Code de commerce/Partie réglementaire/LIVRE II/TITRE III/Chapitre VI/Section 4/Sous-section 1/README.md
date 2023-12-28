@@ -1,1 +1,1 @@
-Sous-section 1 : De la fusion transfrontalière
+Sous-section 1 : De la fusion transfrontalière 

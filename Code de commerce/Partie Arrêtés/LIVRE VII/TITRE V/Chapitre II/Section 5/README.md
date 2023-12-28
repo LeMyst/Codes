@@ -1,1 +1,1 @@
-Section 5 : Des sanctions
+Section 5  :   Des sanctions

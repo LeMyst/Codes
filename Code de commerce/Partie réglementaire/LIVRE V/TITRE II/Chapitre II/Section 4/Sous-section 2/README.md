@@ -1,1 +1,1 @@
-Sous-section 2 : Des reçus d'entreposage
+Sous-section 2 : Des reçus d'entreposage 

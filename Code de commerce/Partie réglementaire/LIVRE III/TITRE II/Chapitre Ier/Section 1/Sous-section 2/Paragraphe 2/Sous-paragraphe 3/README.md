@@ -1,1 +1,1 @@
-Sous-paragraphe 3 : La procédure disciplinaire
+Sous-paragraphe 3 :  La procédure disciplinaire

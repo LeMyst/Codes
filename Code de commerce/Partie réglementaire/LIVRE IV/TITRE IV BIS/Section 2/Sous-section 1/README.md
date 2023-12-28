@@ -1,1 +1,1 @@
-Sous-section 1 : Redistribution interprofessionnelle
+Sous-section 1 : Redistribution interprofessionnelle 

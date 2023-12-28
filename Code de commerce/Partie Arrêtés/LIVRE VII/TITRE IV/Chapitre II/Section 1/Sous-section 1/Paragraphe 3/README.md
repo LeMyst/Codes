@@ -1,1 +1,1 @@
-Paragraphe 3 : De l'examen d'aptitude
+Paragraphe 3  :   De l'examen d'aptitude

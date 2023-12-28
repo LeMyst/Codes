@@ -1,1 +1,1 @@
-Section 1 : De l'établissement des listes électorales
+Section 1  :   De l'établissement des listes électorales

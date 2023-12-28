@@ -1,1 +1,1 @@
-Section 1 : Des pratiques restrictives de concurrence
+Section 1 : Des pratiques restrictives de concurrence 

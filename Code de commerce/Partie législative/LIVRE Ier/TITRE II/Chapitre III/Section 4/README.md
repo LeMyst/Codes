@@ -1,1 +1,1 @@
-Section 4 : Des formalités administratives des entreprises
+Section 4 : Des formalités administratives des entreprises 

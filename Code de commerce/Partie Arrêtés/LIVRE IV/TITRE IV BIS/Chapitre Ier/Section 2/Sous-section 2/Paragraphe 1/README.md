@@ -1,1 +1,1 @@
-Paragraphe 1 : Significations à la diligence des parties
+Paragraphe 1 : Significations à la diligence des parties 

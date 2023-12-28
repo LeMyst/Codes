@@ -1,1 +1,1 @@
-Section 1 : De l'ouverture de la procédure
+Section 1 :  De l'ouverture de la procédure

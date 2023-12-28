@@ -1,1 +1,1 @@
-Sous-section 3 : Dispositions diverses
+Sous-section 3  :   Dispositions diverses

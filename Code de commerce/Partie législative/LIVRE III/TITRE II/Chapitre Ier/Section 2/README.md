@@ -1,1 +1,1 @@
-Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen.
+Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de  l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen.

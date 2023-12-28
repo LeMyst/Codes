@@ -1,1 +1,1 @@
-Paragraphe 1 : De la déclaration
+Paragraphe 1 :  De la déclaration

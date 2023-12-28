@@ -1,1 +1,1 @@
-Chapitre II : Des manifestations commerciales
+Chapitre II   :  Des manifestations commerciales

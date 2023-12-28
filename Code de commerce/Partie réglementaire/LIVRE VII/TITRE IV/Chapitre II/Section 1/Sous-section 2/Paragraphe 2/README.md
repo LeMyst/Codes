@@ -1,1 +1,1 @@
-Paragraphe 2 : Nomination en cas de suppression d'office
+Paragraphe 2 : Nomination en cas de suppression d'office 

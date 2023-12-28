@@ -1,1 +1,1 @@
-Chapitre Ier : De l'institution et des missions
+Chapitre Ier   :  De l'institution et des missions

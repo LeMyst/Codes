@@ -1,1 +1,1 @@
-Section 2 : De la compétence
+Section 2  :   De la compétence

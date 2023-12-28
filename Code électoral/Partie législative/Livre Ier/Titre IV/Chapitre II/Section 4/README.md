@@ -1,1 +1,1 @@
-Section 4  : Opérations de vote
+Section 4 : Opérations de vote

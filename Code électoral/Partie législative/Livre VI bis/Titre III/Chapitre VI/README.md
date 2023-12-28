@@ -1,5 +1,1 @@
-Chapitre VI : Opérations de vote 
-
-
-
-
+Chapitre VI : Opérations de vote

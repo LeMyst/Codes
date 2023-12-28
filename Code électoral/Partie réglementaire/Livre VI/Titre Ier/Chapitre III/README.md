@@ -1,1 +1,1 @@
-Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte
+Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte

@@ -1,1 +1,1 @@
- Section 6 : Manutention des charges
+Section 6 : Manutention des charges

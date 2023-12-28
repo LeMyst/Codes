@@ -1,1 +1,1 @@
- Section 4 : Utilisation d'équipements de travail
+Section 4 : Utilisation d'équipements de travail

@@ -1,1 +1,1 @@
- Section 3 : Pénalité administrative.
+Section 3 : Pénalité administrative.

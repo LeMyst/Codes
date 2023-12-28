@@ -1,1 +1,1 @@
-Paragraphe 1er : Dispositions générales 
+Paragraphe 1er : Dispositions générales

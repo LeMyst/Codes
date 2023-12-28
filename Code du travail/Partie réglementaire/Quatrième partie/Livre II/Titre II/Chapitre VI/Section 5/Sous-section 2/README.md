@@ -1,1 +1,1 @@
-Sous-section 2 :  Vérification des installations électriques temporaires
+Sous-section 2 : Vérification des installations électriques temporaires

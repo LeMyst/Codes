@@ -1,1 +1,1 @@
-Livre V : Les conflits collectifs 
+Livre V : Les conflits collectifs

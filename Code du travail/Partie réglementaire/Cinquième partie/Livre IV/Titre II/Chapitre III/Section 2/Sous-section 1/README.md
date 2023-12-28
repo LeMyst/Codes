@@ -1,1 +1,1 @@
- Sous-section 1 : Fonds de solidarité.
+Sous-section 1 : Fonds de solidarité.

@@ -1,1 +1,1 @@
- Section 1 : Principes et définitions
+Section 1 : Principes et définitions

@@ -1,1 +1,1 @@
-Section 3 : Information des candidats 
+Section 3 : Information des candidats

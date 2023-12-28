@@ -1,1 +1,1 @@
-Livre III : Dividende du travail : intéressement, participation et épargne salariale 
+Livre III : Dividende du travail : intéressement, participation et épargne salariale

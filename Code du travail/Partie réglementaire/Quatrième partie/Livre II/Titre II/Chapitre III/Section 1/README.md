@@ -1,1 +1,1 @@
- Section 1 : Éclairage
+Section 1 : Éclairage

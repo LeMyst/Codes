@@ -1,1 +1,1 @@
-Sous-section 1 : Règlement intérieur 
+Sous-section 1 : Règlement intérieur

@@ -1,1 +1,1 @@
- Section 2 : Formation économique,  financière et juridique des représentants des salariés.
+Section 2 : Formation économique, financière et juridique des représentants des salariés.

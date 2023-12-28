@@ -1,1 +1,1 @@
- Section 2 : Équipements de protection individuelle
+Section 2 : Équipements de protection individuelle

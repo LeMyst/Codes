@@ -1,1 +1,1 @@
-Sous-section 2 :  Formations éligibles
+Sous-section 2 : Formations éligibles

@@ -1,1 +1,1 @@
-Chapitre IV : Dispositions applicables postérieurement  à l'immatriculation de la société européenne
+Chapitre IV : Dispositions applicables postérieurement à l'immatriculation de la société européenne

@@ -1,5 +1,1 @@
-Section 4 : Désignations complémentaires 
-
-
-
-
+Section 4 : Désignations complémentaires

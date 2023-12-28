@@ -1,1 +1,1 @@
-Sous-section 2 : Composition 
+Sous-section 2 : Composition

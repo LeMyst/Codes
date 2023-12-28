@@ -1,1 +1,1 @@
- Sous-section 1 : Levage des charges
+Sous-section 1 : Levage des charges

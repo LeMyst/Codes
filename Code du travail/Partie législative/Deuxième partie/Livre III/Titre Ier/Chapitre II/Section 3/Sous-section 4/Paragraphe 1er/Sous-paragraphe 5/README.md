@@ -1,1 +1,1 @@
-  Sous-paragraphe 5 : Offre publique d'acquisition
+Sous-paragraphe 5 : Offre publique d'acquisition

@@ -1,1 +1,1 @@
-  Sous-paragraphe 5 : Délai d'expertise
+Sous-paragraphe 5 : Délai d'expertise

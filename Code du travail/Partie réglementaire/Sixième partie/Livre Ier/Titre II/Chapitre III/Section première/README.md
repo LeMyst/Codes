@@ -1,1 +1,1 @@
-Section  première : Centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation et réseau des centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation
+Section première : Centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation et réseau des centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation

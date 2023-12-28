@@ -1,1 +1,1 @@
- Section 2 : Paiement du salaire.
+Section 2 : Paiement du salaire.

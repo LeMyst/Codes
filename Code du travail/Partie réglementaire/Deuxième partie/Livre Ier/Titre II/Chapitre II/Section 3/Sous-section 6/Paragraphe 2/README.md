@@ -1,3 +1,1 @@
-Paragraphe 2 : Bureau de vote 
-
-
+Paragraphe 2 : Bureau de vote

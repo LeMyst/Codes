@@ -1,1 +1,1 @@
-Section 3 :  Dispositions particulières à certains locaux ou emplacements
+Section 3 : Dispositions particulières à certains locaux ou emplacements

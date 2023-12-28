@@ -1,1 +1,1 @@
-Sous-section 2 : Entreprises adaptées 
+Sous-section 2 : Entreprises adaptées

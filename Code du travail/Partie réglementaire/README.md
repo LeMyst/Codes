@@ -1,1 +1,1 @@
-Partie réglementaire  
+Partie réglementaire

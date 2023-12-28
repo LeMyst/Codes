@@ -1,1 +1,1 @@
-Paragraphe 6 :   Les opérations de vote 
+Paragraphe 6 : Les opérations de vote

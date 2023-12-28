@@ -1,1 +1,1 @@
- Paragraphe 3 : Compétences.
+Paragraphe 3 : Compétences.

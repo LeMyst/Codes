@@ -1,1 +1,1 @@
- Paragraphe 2 : Versement, renouvellement et prolongation.
+Paragraphe 2 : Versement, renouvellement et prolongation.

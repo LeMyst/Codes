@@ -1,1 +1,1 @@
-Paragraphe 2 : Epargne salariale 
+Paragraphe 2 : Epargne salariale

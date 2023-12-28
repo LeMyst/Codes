@@ -1,1 +1,1 @@
- Section 4 : Maintenance, entretien et vérifications
+Section 4 : Maintenance, entretien et vérifications

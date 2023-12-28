@@ -1,1 +1,1 @@
-Livre II : Lutte contre le travail illégal 
+Livre II : Lutte contre le travail illégal

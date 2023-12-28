@@ -1,3 +1,1 @@
-Paragraphe 2 : Equipements de protection individuelle 
-
-
+Paragraphe 2 : Equipements de protection individuelle

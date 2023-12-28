@@ -1,3 +1,1 @@
-Paragraphe 2 : Equipements de travail 
-
-
+Paragraphe 2 : Equipements de travail

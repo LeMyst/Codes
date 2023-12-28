@@ -1,1 +1,1 @@
- Section 2 : Inspection commune préalable.
+Section 2 : Inspection commune préalable.

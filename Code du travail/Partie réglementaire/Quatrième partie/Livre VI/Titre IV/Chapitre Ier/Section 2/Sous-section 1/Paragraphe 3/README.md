@@ -1,1 +1,1 @@
-Paragraphe 3 :  Fonctionnement
+Paragraphe 3 : Fonctionnement

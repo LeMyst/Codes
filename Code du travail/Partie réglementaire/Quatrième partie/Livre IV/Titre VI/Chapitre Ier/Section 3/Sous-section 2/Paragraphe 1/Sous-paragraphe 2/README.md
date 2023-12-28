@@ -1,5 +1,1 @@
-Sous-paragraphe 2 : Composition des gaz 
-
-
-
-
+Sous-paragraphe 2 : Composition des gaz

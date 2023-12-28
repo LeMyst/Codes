@@ -1,1 +1,1 @@
-  Sous-paragraphe 1er : Champ de l'expertise
+Sous-paragraphe 1er : Champ de l'expertise

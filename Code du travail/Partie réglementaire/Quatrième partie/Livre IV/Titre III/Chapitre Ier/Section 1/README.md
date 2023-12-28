@@ -1,1 +1,1 @@
- Section 1 : Définitions
+Section 1 : Définitions

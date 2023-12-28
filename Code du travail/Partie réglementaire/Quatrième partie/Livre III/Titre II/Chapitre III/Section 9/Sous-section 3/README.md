@@ -1,1 +1,1 @@
- Sous-section 3 : Information et formation des travailleurs
+Sous-section 3 : Information et formation des travailleurs

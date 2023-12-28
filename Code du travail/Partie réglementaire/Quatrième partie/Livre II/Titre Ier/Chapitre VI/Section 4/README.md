@@ -1,1 +1,1 @@
- Section 4 : Chauffage des locaux
+Section 4 : Chauffage des locaux

@@ -1,1 +1,1 @@
-Section 2 bis : Autres dispositifs 
+Section 2 bis : Autres dispositifs

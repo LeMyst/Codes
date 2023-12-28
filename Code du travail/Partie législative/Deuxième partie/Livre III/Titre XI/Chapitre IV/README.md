@@ -1,1 +1,1 @@
-Chapitre IV : Fonctionnement 
+Chapitre IV : Fonctionnement

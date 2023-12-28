@@ -1,1 +1,1 @@
- Section 7 : Régime social et fiscal.
+Section 7 : Régime social et fiscal.

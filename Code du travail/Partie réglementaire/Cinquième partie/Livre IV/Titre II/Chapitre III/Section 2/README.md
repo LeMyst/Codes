@@ -1,1 +1,1 @@
- Section 2 : Financement des allocations.
+Section 2 : Financement des allocations.

@@ -1,1 +1,1 @@
-Titre VI : Avantages divers 
+Titre VI : Avantages divers

@@ -1,1 +1,1 @@
-Titre II : Participation aux résultats de l'entreprise 
+Titre II : Participation aux résultats de l'entreprise

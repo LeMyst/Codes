@@ -1,1 +1,1 @@
- Section 2 : Protection individuelle
+Section 2 : Protection individuelle

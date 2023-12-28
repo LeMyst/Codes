@@ -1,1 +1,1 @@
- Sous-section 2 : Opérations de troisième catégorie.
+Sous-section 2 : Opérations de troisième catégorie.

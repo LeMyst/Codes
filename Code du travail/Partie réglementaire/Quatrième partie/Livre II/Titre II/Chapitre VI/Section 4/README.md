@@ -1,1 +1,1 @@
-Section 4 :  Autres dispositions particulières
+Section 4 : Autres dispositions particulières

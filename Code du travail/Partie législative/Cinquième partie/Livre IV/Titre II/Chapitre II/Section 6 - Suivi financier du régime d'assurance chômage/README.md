@@ -1,1 +1,1 @@
-Section 6 -   Suivi financier du régime d'assurance chômage  
+Section 6 - Suivi financier du régime d'assurance chômage

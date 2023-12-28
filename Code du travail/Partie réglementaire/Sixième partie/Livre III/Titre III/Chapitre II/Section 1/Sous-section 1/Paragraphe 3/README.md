@@ -1,1 +1,1 @@
-Paragraphe 3 : Retrait de l'agrément 
+Paragraphe 3 : Retrait de l'agrément

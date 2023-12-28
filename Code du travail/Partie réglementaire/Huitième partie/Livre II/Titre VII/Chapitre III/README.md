@@ -1,1 +1,1 @@
-Chapitre III : Coordination interministérielle  de la lutte contre le travail illégal
+Chapitre III : Coordination interministérielle de la lutte contre le travail illégal

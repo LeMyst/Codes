@@ -1,1 +1,1 @@
-Titre II : Droits et libertés dans l'entreprise 
+Titre II : Droits et libertés dans l'entreprise

@@ -1,1 +1,1 @@
-  Sous-paragraphe 3 : Commission d'information et d'aide au logement
+Sous-paragraphe 3 : Commission d'information et d'aide au logement

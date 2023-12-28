@@ -1,2 +1,1 @@
-Sous-section 2 : Fonctionnement 
-
+Sous-section 2 : Fonctionnement

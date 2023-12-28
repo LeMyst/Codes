@@ -1,1 +1,1 @@
- Section 1 : Mise en place.
+Section 1 : Mise en place.

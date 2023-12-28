@@ -1,1 +1,1 @@
- Section 2 : Restauration et repos
+Section 2 : Restauration et repos

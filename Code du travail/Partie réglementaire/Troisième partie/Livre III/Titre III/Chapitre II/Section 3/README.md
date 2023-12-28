@@ -1,1 +1,1 @@
- Section 3 : Composition et gestion du plan.
+Section 3 : Composition et gestion du plan.

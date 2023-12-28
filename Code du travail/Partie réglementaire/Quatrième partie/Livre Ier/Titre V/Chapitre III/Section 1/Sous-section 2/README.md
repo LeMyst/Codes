@@ -1,1 +1,1 @@
- Sous-section 2 : Agrément des débits de boisson
+Sous-section 2 : Agrément des débits de boisson

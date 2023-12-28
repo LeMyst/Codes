@@ -1,1 +1,1 @@
-Sous-section 3 :  Mesures de sauvegarde 
+Sous-section 3 : Mesures de sauvegarde

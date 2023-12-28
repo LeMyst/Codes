@@ -1,2 +1,1 @@
-Chapitre II : Incompatibilités 
-
+Chapitre II : Incompatibilités

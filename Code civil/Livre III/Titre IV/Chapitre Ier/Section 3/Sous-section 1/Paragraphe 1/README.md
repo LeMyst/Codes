@@ -1,1 +1,1 @@
-Paragraphe 1 : L'obligation cumulative
+Paragraphe 1 : L'obligation cumulative 

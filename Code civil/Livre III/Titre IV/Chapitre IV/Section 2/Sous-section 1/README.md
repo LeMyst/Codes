@@ -1,1 +1,1 @@
-Sous-section 1 : Règles générales
+Sous-section 1 : Règles générales 

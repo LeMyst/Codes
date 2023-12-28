@@ -1,1 +1,1 @@
-Section 6 : De l'inscription des hypothèques
+Section 6 : De l'inscription des hypothèques 

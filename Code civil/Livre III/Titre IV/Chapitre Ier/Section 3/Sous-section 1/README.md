@@ -1,1 +1,1 @@
-Sous-section 1 : La pluralité d'objets
+Sous-section 1 : La pluralité d'objets 

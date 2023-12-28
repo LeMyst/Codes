@@ -1,1 +1,1 @@
-Sous-section 2 : Règles particulières
+Sous-section 2 : Règles particulières 

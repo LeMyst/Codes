@@ -1,1 +1,1 @@
-Sous-section 4 : La résolution
+Sous-section 4 : La résolution 

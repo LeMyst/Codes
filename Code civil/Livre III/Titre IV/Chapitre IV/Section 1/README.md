@@ -1,1 +1,1 @@
-Section 1 : Le paiement
+Section 1 : Le paiement 

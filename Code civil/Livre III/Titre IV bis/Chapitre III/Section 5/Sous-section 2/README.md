@@ -1,1 +1,1 @@
-Sous-section 2 : Le serment déféré d'office
+Sous-section 2 : Le serment déféré d'office 

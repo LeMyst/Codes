@@ -1,1 +1,1 @@
-Section 2 : La compensation
+Section 2 : La compensation 

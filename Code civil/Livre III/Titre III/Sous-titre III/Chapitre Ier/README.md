@@ -1,1 +1,1 @@
-Chapitre Ier : La gestion d'affaires
+Chapitre Ier : La gestion d'affaires 

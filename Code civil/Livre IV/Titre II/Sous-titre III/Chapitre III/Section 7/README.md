@@ -1,1 +1,1 @@
-Section 7 : Des effets des hypothèques
+Section 7 :  Des effets des hypothèques 

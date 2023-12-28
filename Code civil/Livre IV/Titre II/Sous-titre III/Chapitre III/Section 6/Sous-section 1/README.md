@@ -1,1 +1,1 @@
-Sous-section 1 : Du mode d'inscription des hypothèques
+Sous-section 1 : Du mode d'inscription des hypothèques 

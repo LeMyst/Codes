@@ -1,3 +1,5 @@
+# Article R327-1
+
 I.-Dans le cas prévu à l'article L. 327-2 où le propriétaire a donné son accord pour céder son véhicule à l'assureur, celui-ci déclare l'achat au ministre de l'intérieur dans les conditions fixées à l'article R. 322-4.
 
 II.-Dans le cas prévu à l'article L. 327-3 où le propriétaire a refusé de céder son véhicule à l'assureur, ce dernier en informe le ministre de l'intérieur par voie électronique dans un délai de quinze jours à compter du refus. Le ministre de l'intérieur procède à l'inscription d'une opposition au transfert du certificat d'immatriculation.

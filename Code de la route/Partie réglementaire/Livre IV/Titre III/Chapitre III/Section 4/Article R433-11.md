@@ -1,3 +1,5 @@
+# Article R433-11
+
 L'existence d'une alternative économiquement viable au transport routier s'apprécie pour chaque liaison au regard des critères de coût, de délais d'acheminement et de qualité de service.
 
 Les entreprises réceptionnaires de bois ronds remettent aux transporteurs une attestation sur l'honneur faisant état d'une absence d'alternative économiquement viable au transport routier. Une copie de cette attestation est en permanence à bord de chaque véhicule concerné.

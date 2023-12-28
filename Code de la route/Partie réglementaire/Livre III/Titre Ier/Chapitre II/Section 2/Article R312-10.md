@@ -1,3 +1,5 @@
+# Article R312-10
+
 I.-Sauf pour les machines agricoles automotrices et les machines et instruments agricoles remorqués, la largeur totale des véhicules ou parties de véhicules, y compris les superstructures amovibles et les pièces de cargaison normalisées telles que les conteneurs et caisses mobiles, mesurée toutes saillies comprises dans une section transversale quelconque, ne doit pas dépasser les valeurs suivantes, sauf dans les cas et conditions où des saillies excédant ce gabarit sont explicitement autorisées par arrêté du ministre chargé des transports :
 
 1° 2,60 mètres pour les superstructures à parois épaisses conçues pour le transport de marchandises sous température dirigée ;

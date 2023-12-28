@@ -1,3 +1,5 @@
+# Article L317-4-1
+
 I. - Le fait de mettre en circulation ou de faire circuler un véhicule à moteur ou une remorque muni d'une plaque portant un numéro d'immatriculation attribué à un autre véhicule dans des circonstances qui ont déterminé ou auraient pu déterminer des poursuites pénales contre un tiers est puni de sept ans d'emprisonnement et de 30 000 EUR d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :

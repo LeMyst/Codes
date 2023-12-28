@@ -1,3 +1,5 @@
+# Article R221-3-8
+
 L'organisateur agréé assure, dans les conditions prévues au présent article, l'accès des candidats à des sites d'examen sur le territoire de chaque département métropolitain et de chacune des collectivités suivantes : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte et Saint-Pierre-et-Miquelon.
 
 Cet accès est assuré à des dates et horaires qu'il détermine et qui sont proposés aux candidats à la réservation en ligne.

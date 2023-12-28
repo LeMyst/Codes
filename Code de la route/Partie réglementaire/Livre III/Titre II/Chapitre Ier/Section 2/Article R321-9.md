@@ -1,3 +1,5 @@
+# Article R321-9
+
 Le constructeur adresse la demande de réception CE d'un type de véhicule, de système, ou d'équipement au ministre chargé des transports.
 
 La demande est accompagnée d'un dossier constructeur qui comporte toutes les précisions nécessaires au contrôle de la conformité du type de véhicule, de système ou d'équipement aux prescriptions techniques exigées pour sa mise en circulation. La demande de réception d'un type de véhicule est également accompagnée de toutes les fiches de réception CE qui ont été accordées à des systèmes ou des équipements du type de véhicule concerné.

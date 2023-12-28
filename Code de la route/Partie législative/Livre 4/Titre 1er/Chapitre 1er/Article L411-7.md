@@ -1,3 +1,5 @@
+# Article L411-7
+
 Sur les voies ouvertes à la circulation publique, l'organisation de courses de véhicules à moteur est soumise à autorisation de l'autorité investie du pouvoir de police.
 
 Pour l'application de l'alinéa précédent sur le territoire de la métropole de Lyon, l'autorité à laquelle il est fait référence est celle investie du pouvoir de police de la circulation.

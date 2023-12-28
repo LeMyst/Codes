@@ -1,3 +1,5 @@
+# Article R321-24
+
 Le bénéfice de l'homologation d'un dispositif d'équipement de véhicule à moteur appartient à celui qui en a fait la demande et qui garde la responsabilité de la fabrication, c'est-à-dire soit au fabricant, soit à toute autre personne faisant fabriquer pour son compte par un façonnier. En cas de cession, le cédant et le concessionnaire doivent en aviser sans délai le ministre chargé des transports. Les noms du façonnier ou des façonniers successifs, s'il y a lieu, doivent être communiqués au ministre chargé des transports ; celui-ci peut faire effectuer tout contrôle et décider, le cas échéant, le retrait de l'agrément sur proposition de la commission de réception des projecteurs et des dispositifs d'équipement pour véhicules routiers.
 
 Si le fabricant n'est pas établi dans un Etat de l'Union européenne, l'agrément ne peut être accordé qu'à son représentant en France, dûment accrédité auprès du ministre chargé des transports.

@@ -1,3 +1,5 @@
+# Article R313-13
+
 Lorsque la largeur d'une machine agricole automotrice ou d'un matériel de travaux publics automoteur dépasse 2,55 mètres, ce véhicule doit porter à l'avant et à sa partie supérieure un panneau carré éclairé la nuit, visible de l'avant et de l'arrière du véhicule à une distance de 150 mètres par temps clair, sans être éblouissant et faisant apparaître en blanc sur fond noir une lettre D d'une hauteur égale ou supérieure à 0,20 mètre.
 
 Lorsque la largeur d'une machine, d'un instrument ou d'un matériel agricole ou de travaux publics, remorqué, dépasse 2,55 mètres, le véhicule tracteur doit être muni du panneau prévu à l'alinéa précédent.

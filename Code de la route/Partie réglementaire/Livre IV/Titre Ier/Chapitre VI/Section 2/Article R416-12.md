@@ -1,3 +1,5 @@
+# Article R416-12
+
 I. - Sur une chaussée pourvue ou non d'éclairage public, les véhicules à moteur et les ensembles de véhicules doivent être placés à l'arrêt ou en stationnement avec :
 
 1° A l'avant, le ou leurs feux de position allumés ;

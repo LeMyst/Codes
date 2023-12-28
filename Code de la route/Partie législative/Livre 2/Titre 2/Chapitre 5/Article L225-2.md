@@ -1,3 +1,5 @@
+# Article L225-2
+
 I.-Sans préjudice de l'application des lois d'amnistie, les informations relatives aux condamnations judiciaires, aux compositions pénales, aux amendes forfaitaires et aux mesures administratives affectant le permis de conduire doivent être effacées lorsque s'est écoulé un délai de dix ans sans que soit à nouveau intervenue une décision judiciaire, une mesure administrative mentionnée au 2° du I de l'article L. 225-1 ou une mesure établissant la réalité d'une infraction dans les conditions prévues à l'article L. 223-1.
 
 II.-Le délai prévu au I du présent article court :

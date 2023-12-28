@@ -1,3 +1,5 @@
+# Article L329-32
+
 I.-Le procès-verbal prévu à l'article L. 329-31 accompagné des pièces justificatives est transmis à l'opérateur économique qui dispose d'un délai de cinq jours francs à compter de sa notification pour indiquer s'il demande la mise en œuvre d'une expertise complémentaire.
 
 II.-Lorsque l'opérateur économique ne demande pas d'expertise complémentaire, l'autorité administrative chargée de la surveillance du marché des véhicules et des moteurs dresse un procès-verbal définitif et met en œuvre les mesures prévues aux articles L. 329-35 à L. 329-42.

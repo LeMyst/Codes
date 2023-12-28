@@ -1,3 +1,5 @@
+# Article L325-3-1
+
 I.-Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci ou à un ordre d'envoi en fourrière est puni de trois mois d'emprisonnement et de 3 750 EUR d'amende.
 
 II.-Toute personne physique coupable de ce délit encourt également les peines complémentaires suivantes :

@@ -1,3 +1,5 @@
+# Article R412-17-1
+
 I.-Lorsque le véhicule est partiellement ou hautement automatisé, le conducteur doit se tenir constamment en état et en position de répondre à une demande de reprise en main. Ses possibilités de mouvement et son champ de vision ne doivent pas être réduits par le nombre ou la position des passagers, par les objets transportés ou par l'apposition d'objets non transparents sur les vitres.
 
 II.-En application du 3° de l'article L. 123-1 et dans les conditions mentionnées au I, le conducteur doit également se tenir en état et en position d'effectuer sans délai une reprise en main afin d'exécuter les manœuvres qui lui incombent en application des dispositions du présent code afin :

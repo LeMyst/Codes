@@ -1,3 +1,5 @@
+# Article L211-2
+
 L'apprentissage de la conduite des véhicules à moteur en vue de l'obtention du permis de conduire se déroule selon des modalités fixées par le décret prévu à l'article L. 211-7.
 
 Pour chaque catégorie de formation, à l'exception de celle mentionnée à l'article L. 211-6, le ministre chargé de la sécurité routière définit les compétences à atteindre.

@@ -1,3 +1,5 @@
+# Article D221-3
+
 Les examens du permis de conduire susvisés comportent une épreuve théorique et une épreuve pratique qui se déroulent dans les conditions et selon les modalités fixées par arrêté du ministre chargé de la sécurité routière.
 
 Par exception aux dispositions de ce premier alinéa : l'épreuve pratique de la catégorie A est remplacée par le suivi d'une formation dispensée par un établissement ou une association agréés au titre de l'article L. 213-1 ou L. 213-7 pour les titulaires de la catégorie A2 depuis deux ans au moins.

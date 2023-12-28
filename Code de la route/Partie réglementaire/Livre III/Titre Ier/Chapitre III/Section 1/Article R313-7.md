@@ -1,3 +1,5 @@
+# Article R313-7
+
 Feux stop.
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque dont le poids total autorisé en charge est supérieur à 0,5 tonne doit être muni à l'arrière de deux ou de trois feux stop émettant vers l'arrière une lumière rouge non éblouissante.

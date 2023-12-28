@@ -1,3 +1,5 @@
+# Article L213-2
+
 Les conditions et les modalités de l'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière font l'objet d'un contrat écrit, qui peut être conclu dans l'établissement ou à distance, dans le respect de la section 2 du chapitre Ier du titre II du livre Ier du code de la consommation, entre le candidat et l'établissement. Ce contrat est conclu après une évaluation préalable du candidat. Il est conforme au contrat type de l'enseignement de la conduite, qui est défini par décret en Conseil d'Etat.
 
 La restitution du dossier au candidat qui en fait la demande ne donne lieu à l'application d'aucuns frais.

@@ -1,3 +1,5 @@
+# Article R329-5
+
 Les contrôles documentaires, les tests, les analyses, les contrôles physiques, les essais en laboratoire et les essais sur route sont réalisés par des organismes publics ou privés.
 
 La désignation des organismes admis à procéder à ces contrôles documentaires, ces tests, ces analyses, ces contrôles physiques, ces essais en laboratoire et ces essais sur route, s'effectue dans le cadre du respect des règles de la commande publique.

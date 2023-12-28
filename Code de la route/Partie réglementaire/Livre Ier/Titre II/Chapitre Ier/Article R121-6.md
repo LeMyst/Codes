@@ -1,3 +1,5 @@
+# Article R121-6
+
 Le titulaire du certificat d'immatriculation du véhicule est, en application de l'article L. 121-3, redevable pécuniairement de l'amende encourue pour des infractions aux règles sur :
 
 1° Le port d'une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé prévu à l'article R. 412-1 ;

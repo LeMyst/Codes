@@ -1,3 +1,5 @@
+# Article R325-8
+
 Lorsqu'un véhicule lui paraît en état de surcharge, le fonctionnaire ou agent habilité à prononcer l'immobilisation peut prescrire au conducteur de présenter son véhicule à une bascule proche autorisée pour un usage légal, en vue de sa pesée et, le cas échéant, de son immobilisation.
 
 Lorsqu'un véhicule paraît exagérément bruyant, le fonctionnaire ou agent peut prescrire de le présenter à un service de contrôle du niveau sonore en vue de sa vérification.

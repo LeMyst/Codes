@@ -1,3 +1,5 @@
+# Article L343-1
+
 Les articles L. 325-1, L. 325-2, L. 325-6 à L. 325-11 sont applicables à la Polynésie française, dans la rédaction suivante :
 
 " Art. L. 325-1- Les véhicules dont la circulation ou le stationnement en infraction aux dispositions du présent code ou aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur ou à la réglementation du transport des marchandises dangereuses par route compromettent la sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun peuvent à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction.

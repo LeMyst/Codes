@@ -1,3 +1,5 @@
+# Article A325-14
+
 Le délai prévu au quatrième alinéa de l'article L. 325-7 est réduit à dix jours pour :
 
 1° Tout véhicule à moteur ayant été déclaré dangereux et non réparable ;

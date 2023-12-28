@@ -1,3 +1,5 @@
+# Article R244-3
+
 Pour l'application en Polynésie française du présent titre :
 
 1° A l'article R. 235-3, les mots : “ un médecin, un biologiste, ou un étudiant en médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé publique ” sont remplacés par les mots : “ un médecin ou un biologiste ” et les mots : “ ou par un agent de police judiciaire adjoint ” sont supprimés ;

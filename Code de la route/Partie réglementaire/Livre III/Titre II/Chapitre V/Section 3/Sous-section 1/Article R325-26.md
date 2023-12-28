@@ -1,3 +1,5 @@
+# Article R325-26
+
 Les circonstances et les conditions dans lesquelles la mesure de mise en fourrière a été prise sont relatées :
 
 - soit dans un procès-verbal de mise en fourrière, consécutivement à la commission d'une infraction. Ce procès-verbal est transmis au procureur de la République et au préfet ;

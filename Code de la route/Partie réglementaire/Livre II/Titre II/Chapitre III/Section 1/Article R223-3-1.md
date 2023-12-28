@@ -1,3 +1,5 @@
+# Article R223-3-1
+
 I-Le titulaire du permis de conduire peut demander sur un site internet dédié et sécurisé que les informations relatives aux retraits et reconstitutions de points mentionnés au deuxième alinéa du III de l'article R. 223-3 ne lui soient plus communiquées par courrier simple, mais mises à sa disposition sous une forme dématérialisée sur un compte personnel accessible à partir de ce site.
 
 Ce compte personnel lui est attribué sous réserve qu'il ait :

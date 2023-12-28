@@ -1,3 +1,5 @@
+# Article L243-2
+
 Les 2°, 3° et 6° de l'article L. 231-2, le I, le II et les 2°, 3°, 5° et 6° du III de l'article L. 233-1, le I et les 2°, 4° et 5° du II de l'article L. 233-1-1, le I de l'article L. 233-1-2, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 
 Les articles L. 231-2, L. 233-2, L. 234-16, L. 235-1, L. 235-3 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs.

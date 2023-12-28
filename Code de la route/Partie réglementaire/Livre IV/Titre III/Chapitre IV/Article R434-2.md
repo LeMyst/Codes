@@ -1,3 +1,5 @@
+# Article R434-2
+
 Pour un convoi de deux véhicules, le nombre d'animaux attelés ne peut dépasser quatre pour le premier et deux, attelés de front, pour le deuxième.
 
 Pour un convoi de trois véhicules, seul le premier peut avoir deux animaux attelés, les deuxième et troisième ne devant en comporter qu'un seul.

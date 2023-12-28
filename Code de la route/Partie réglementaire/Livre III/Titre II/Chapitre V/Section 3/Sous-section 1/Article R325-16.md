@@ -1,3 +1,5 @@
+# Article R325-16
+
 I.-(abrogé)
 
 II. - L'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, territorialement compétent et, à Paris, l'agent de police judiciaire adjoint appartenant au corps des contrôleurs relevant du statut des administrations parisiennes et exerçant ses fonctions dans la spécialité voie publique ou l'agent placé sous leur autorité :

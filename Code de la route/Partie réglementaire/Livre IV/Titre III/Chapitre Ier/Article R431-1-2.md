@@ -1,3 +1,5 @@
+# Article R431-1-2
+
 En circulation, tout conducteur ou passager d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur doit porter des gants conformes à la réglementation relative aux équipements de protection individuelle.
 
 Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.

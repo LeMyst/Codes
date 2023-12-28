@@ -1,3 +1,5 @@
+# Article R433-4
+
 I.-La circulation des véhicules effectuant des transports exceptionnels est interdite :
 
 1° Sur l'ensemble du réseau routier et autoroutier du samedi ou veille de fête douze heures au lundi ou lendemain de fête six heures ; toutefois, le préfet qui a délivré l'autorisation de transport exceptionnel, peut, en cas de nécessité absolue et en tenant compte des circonstances locales, après avis le cas échéant des préfets des départements traversés, accorder des dérogations à cette interdiction ;

@@ -1,3 +1,5 @@
+# Article L235-2
+
 Les officiers ou agents de police judiciaire de la gendarmerie ou la police nationales territorialement compétents et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints font procéder, sur le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident mortel ou corporel de la circulation, à des épreuves de dépistage en vue d'établir si cette personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants.
 
 Les officiers ou agents de police judiciaire de la gendarmerie ou la police nationales territorialement compétents et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent également faire procéder à ces mêmes épreuves sur tout conducteur ou tout accompagnateur d'élève conducteur qui est impliqué dans un accident matériel de la circulation ou est l'auteur présumé de l'une des infractions au présent code ou à l'encontre duquel il existe une ou plusieurs raisons plausibles de soupçonner qu'il a fait usage de stupéfiants.

@@ -1,3 +1,5 @@
+# Article R325-7
+
 I.-Lorsque le véhicule est dépourvu d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque cet appareil a fait l'objet d'une modification ou d'une détérioration affectant son fonctionnement normal, la décision d'immobilisation prescrit de faire procéder soit à son installation par un installateur agréé, soit aux réparations et mises en conformité nécessaires.
 
 Un arrêté conjoint du ministre chargé de l'industrie et du ministre chargé des transports fixe les conditions d'application de ces dispositions.

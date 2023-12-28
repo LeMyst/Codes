@@ -1,3 +1,5 @@
+# Article R234-1
+
 I. – Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez le conducteur d'un véhicule de transport en commun, chez le conducteur dont le droit de conduire est limité aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique, installé par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, ainsi que chez le conducteur titulaire d'un permis de conduire soumis au délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage définie à l'article R. 211-3 ;

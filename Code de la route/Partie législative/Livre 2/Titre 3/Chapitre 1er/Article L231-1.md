@@ -1,3 +1,5 @@
+# Article L231-1
+
 Les dispositions relatives au délit de fuite commis par le conducteur d'un véhicule sont fixées par les articles 434-10 et 434-45 du code pénal ci-après reproduits :
 
 " Art. 434-10-Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de causer ou d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile qu'il peut avoir encourue, est puni de trois ans d'emprisonnement et de 75 000 € d'amende.

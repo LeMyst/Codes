@@ -1,3 +1,5 @@
+# Article R421-7
+
 Sauf en cas de nécessité absolue, les conducteurs ne doivent pas arrêter ou stationner leur véhicule sur les chaussées et les accotements, y compris sur les bandes d'arrêt d'urgence des autoroutes.
 
 Tout conducteur se trouvant dans la nécessité absolue d'immobiliser son véhicule doit le faire en dehors des voies de circulation ou, en cas d'impossibilité, au plus près du bord droit de la chaussée et dans tous les cas assurer la présignalisation de ce véhicule. S'il n'est pas en mesure de le remettre en marche par ses propres moyens, il doit faire le nécessaire pour assurer d'urgence le dégagement de l'autoroute.

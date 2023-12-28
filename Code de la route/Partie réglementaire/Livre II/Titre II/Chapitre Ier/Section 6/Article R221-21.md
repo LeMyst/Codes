@@ -1,3 +1,5 @@
+# Article R221-21
+
 Les dispositions du présent chapitre ne sont pas applicables, lorsqu'ils sont titulaires des brevets correspondants délivrés par l'autorité militaire, aux conducteurs :
 
 1° Des véhicules militaires et des véhicules d'instruction et d'intervention de la sécurité civile ;

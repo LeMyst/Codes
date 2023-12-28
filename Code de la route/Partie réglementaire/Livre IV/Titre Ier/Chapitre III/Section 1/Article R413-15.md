@@ -1,3 +1,5 @@
+# Article R413-15
+
 I. - Le fait de détenir ou de transporter un appareil, dispositif ou produit de nature ou présenté comme étant de nature à déceler la présence ou perturber le fonctionnement d'appareils, instruments ou systèmes servant à la constatation des infractions à la législation ou à la réglementation de la circulation routière ou de permettre de se soustraire à la constatation desdites infractions est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 Le fait de faire usage d'un appareil, dispositif ou produit de même nature est puni des mêmes peines.

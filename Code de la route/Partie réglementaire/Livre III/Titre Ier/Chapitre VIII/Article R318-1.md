@@ -1,3 +1,5 @@
+# Article R318-1
+
 Les véhicules à moteur ne doivent pas émettre de fumées, de gaz toxiques, corrosifs ou odorants, dans des conditions susceptibles d'incommoder la population ou de compromettre la santé et la sécurité publiques.
 
 Le ministre chargé des transports, le ministre chargé de la santé et le ministre chargé de l'environnement fixent par arrêté les conditions d'application du présent article.

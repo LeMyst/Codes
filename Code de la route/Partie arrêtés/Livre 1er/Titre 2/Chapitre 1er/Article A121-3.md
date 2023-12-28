@@ -1,3 +1,5 @@
+# Article A121-3
+
 I.- Lorsque ces informations sont adressées de façon dématérialisée, l'envoi est fait sur le site “ www. antai. fr ”, en utilisant les informations figurant sur l'avis de contravention, à l'aide du formulaire en ligne figurant sur ce site.
 
 Cet envoi produit les mêmes effets que l'envoi de la lettre recommandée avec demande d'avis de réception prévu par l'article L. 121-6.

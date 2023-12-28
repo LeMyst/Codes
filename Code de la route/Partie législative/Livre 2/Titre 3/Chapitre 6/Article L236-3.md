@@ -1,3 +1,5 @@
+# Article L236-3
+
 Toute personne coupable des délits prévus aux articles L. 236-1 et L. 236-2 encourt également, à titre de peine complémentaire :
 
 1° La confiscation obligatoire du véhicule ayant servi à commettre l'infraction si la personne en est le propriétaire ou, sous réserve des droits du propriétaire de bonne foi, si elle en a la libre disposition, à la condition, dans ce second cas, que le propriétaire dont le titre est connu ou qui a réclamé cette qualité au cours de la procédure ait été mis en mesure de présenter ses observations sur la mesure de confiscation envisagée par la juridiction de jugement aux fins, notamment, de faire valoir le droit qu'il revendique et sa bonne foi. La bonne foi est appréciée notamment au regard d'éléments géographiques et matériels objectifs. La juridiction peut toutefois ne pas prononcer cette peine par une décision spécialement motivée ;

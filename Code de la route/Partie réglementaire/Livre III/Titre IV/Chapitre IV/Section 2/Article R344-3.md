@@ -1,3 +1,5 @@
+# Article R344-3
+
 L'immobilisation peut être prescrite :
 
 1° Lorsque le conducteur est présumé en état d'ivresse ou sous l'empire d'un état alcoolique ;

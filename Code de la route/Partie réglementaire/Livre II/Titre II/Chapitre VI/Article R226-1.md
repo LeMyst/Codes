@@ -1,3 +1,5 @@
+# Article R226-1
+
 Le contrôle médical de l'aptitude à la conduite consiste en une évaluation de l'aptitude physique, cognitive et sensorielle du candidat au permis de conduire ou du titulaire du permis :
 
 1° Dans les cas prévus aux articles L. 223-5 et L. 224-14 ;

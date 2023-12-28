@@ -1,3 +1,5 @@
+# Article R412-6-1
+
 L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit.
 
 Est également interdit le port à l'oreille, par le conducteur d'un véhicule en circulation, de tout dispositif susceptible d'émettre du son, à l'exception des appareils électroniques correcteurs de surdité.

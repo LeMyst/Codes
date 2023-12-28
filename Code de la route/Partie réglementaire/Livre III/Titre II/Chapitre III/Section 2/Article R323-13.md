@@ -1,3 +1,5 @@
+# Article R323-13
+
 I. - Les installations de contrôle doivent comporter les moyens matériels nécessaires aux catégories de contrôles techniques réalisés et les moyens techniques permettant de recueillir les données relatives à ces contrôles et de transmettre ces données dans le délai fixé par arrêté du ministre chargé des transports soit à la direction du réseau de contrôle auquel elles sont rattachées, soit à l'organisme technique central, selon qu'il s'agit d'installations rattachées ou non à un réseau. L'ensemble de ces équipements est défini par arrêté du ministre chargé des transports.
 
 II. - L'activité d'un centre de contrôle doit s'exercer dans des locaux n'abritant aucune activité de réparation ou de commerce automobile ou de motocycles et ne communiquant avec aucun local abritant une telle activité.

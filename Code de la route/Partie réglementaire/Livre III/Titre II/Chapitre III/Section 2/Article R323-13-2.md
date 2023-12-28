@@ -1,3 +1,5 @@
+# Article R323-13-2
+
 Tout manquement aux dispositions des trois premiers alinéas de l'article R. 323-13-1 est passible d'une amende administrative dont le montant ne peut excéder 1 500 euros. Ce montant peut être porté à 3 000 euros en cas de réitération.
 
 Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et constater ces manquements. L'autorité administrative chargée de la concurrence et de la consommation est compétente pour prononcer les amendes administratives sanctionnant les manquements constatés.

@@ -1,3 +1,5 @@
+# Article R412-43-3
+
 I.-Tout conducteur d'engin de déplacement personnel motorisé doit être âgé d'au moins quatorze ans.
 
 II.-Sans préjudice de l'application, le cas échéant, des dispositions du IV de l'article R. 412-43-1, lorsqu'il circule la nuit, ou le jour lorsque la visibilité est insuffisante, tout conducteur d'un engin de déplacement personnel motorisé doit porter, soit un gilet de haute visibilité conforme à la réglementation, soit un équipement rétro-réfléchissant dont les caractéristiques sont fixées par arrêté du ministre chargé de la sécurité routière. Le conducteur peut porter un dispositif d'éclairage complémentaire non éblouissant et non clignotant.

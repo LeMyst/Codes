@@ -1,3 +1,5 @@
+# Article R329-25
+
 Sont punis de la peine prévue pour les contraventions de la cinquième classe :
 
 1° Le fait pour un détenteur de marchandises de ne pas avoir conservé un échantillon laissé à sa garde en application du deuxième alinéa de l'article R. 329-10 ou d'en avoir modifié l'état ;

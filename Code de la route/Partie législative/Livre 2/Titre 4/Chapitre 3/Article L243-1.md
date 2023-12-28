@@ -1,3 +1,5 @@
+# Article L243-1
+
 Pour l'application de l'article L. 225-4 en Nouvelle-Calédonie, les mots : " dans le département " sont remplacés par les mots : " dans la collectivité ".
 
 Les articles L. 234-1 à L. 234-9 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante :

@@ -1,3 +1,5 @@
+# Article A325-12
+
 Le modèle de fiche descriptive de l'état du véhicule à enlever en fourrière prévu à l'article R. 325-16 comporte au minimum les mentions suivantes :
 
 -le timbre de l'autorité dont relève la fourrière ou sa dénomination ;

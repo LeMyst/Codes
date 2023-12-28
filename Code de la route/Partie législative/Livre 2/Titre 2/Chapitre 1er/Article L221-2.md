@@ -1,3 +1,5 @@
+# Article L221-2
+
 I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 Toutefois, les conducteurs des véhicules et appareils agricoles ou forestiers attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés à conduire ces véhicules ou appareils pendant la durée de leur activité agricole ou forestière sans être titulaires du permis de conduire correspondant à la catégorie du véhicule considéré dès lors qu'ils sont âgés d'au moins seize ans, sauf exceptions prévues par décret en Conseil d'Etat.

@@ -1,3 +1,5 @@
+# Article R330-10
+
 I. ― La licence de réutilisation comprend des clauses conformes aux articles 38 et 41 du décret susmentionné du 30 décembre 2005.
 
 II. ― Elle précise que son titulaire ne peut transférer les données personnelles issues du " système d'immatriculation des véhicules ” à d'autres personnes que celles :

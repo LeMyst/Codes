@@ -1,3 +1,5 @@
+# Article R413-9
+
 La vitesse des véhicules transportant des matières dangereuses, dont le poids total autorisé en charge ou le poids total roulant autorisé est supérieur à 12 tonnes, ainsi que celle des transports exceptionnels mentionnés à l'article R. 433-1, est limitée à :
 
 1° 80 km/ h sur les autoroutes ;

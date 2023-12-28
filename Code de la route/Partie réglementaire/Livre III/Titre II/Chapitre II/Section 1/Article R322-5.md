@@ -1,3 +1,5 @@
+# Article R322-5
+
 I. – Le nouveau propriétaire d'un véhicule déjà immatriculé doit, s'il veut le maintenir en circulation, faire établir, dans un délai d'un mois à compter de la date de la cession, un certificat d'immatriculation à son nom dans les conditions prévues à l'article R. 322-1.
 
 Cette demande est adressée au ministre de l'intérieur soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.

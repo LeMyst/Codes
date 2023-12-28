@@ -1,3 +1,5 @@
+# Article R211-5-2
+
 La conduite encadrée s'adresse, d'une part, aux élèves conducteurs, apprentis conducteurs et stagiaires en formation professionnelle, âgés de seize ans au moins et préparant un diplôme professionnel et, d'autre part, aux apprentis conducteurs et stagiaires en formation professionnelle, âgés de dix-huit ans au moins et préparant un titre professionnel délivré par le ministère du travail.
 
 La personne qui souhaite recourir à la conduite encadrée ne peut le faire que si :

@@ -1,3 +1,5 @@
+# Article L235-3
+
 I.-Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :

@@ -1,3 +1,5 @@
+# Article R416-1
+
 Hors agglomération, l'usage des avertisseurs sonores n'est autorisé que pour donner les avertissements nécessaires aux autres usagers de la route.
 
 En agglomération, l'usage de l'avertisseur sonore n'est autorisé qu'en cas de danger immédiat.

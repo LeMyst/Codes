@@ -1,3 +1,5 @@
+# Article R234-5
+
 I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique.
 
 Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :

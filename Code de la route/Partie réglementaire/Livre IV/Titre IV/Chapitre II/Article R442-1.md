@@ -1,3 +1,5 @@
+# Article R442-1
+
 Pour l'application des dispositions du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
 1° "départementales" par "territoriales" ;

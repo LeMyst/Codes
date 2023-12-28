@@ -1,3 +1,5 @@
+# Article R223-4
+
 I.-Lorsque le conducteur titulaire du permis de conduire a commis, pendant le délai probatoire défini à l'article L. 223-1, une infraction ayant donné lieu au retrait d'au moins trois points, la notification du retrait de points lui est adressée par lettre recommandée avec demande d'avis de réception. Cette lettre l'informe de l'obligation de se soumettre à la formation spécifique mentionnée au quatrième alinéa de l'article L. 223-6 dans un délai de quatre mois.
 
 II.-Le fait de ne pas se soumettre à la formation spécifique mentionnée au I dans le délai de quatre mois est puni de l'amende prévue pour les contraventions de la 4e classe.

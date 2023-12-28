@@ -1,3 +1,5 @@
+# Article R317-24-1
+
 A partir d'une date définie par arrêté du ministre chargé des transports, tout transport effectué par un autocar est réalisé au moyen d'un véhicule équipé de ceintures de sécurité.
 
 Cette disposition n'est pas applicable aux véhicules dont le certificat d'immatriculation porte la mention d'usage " véhicule de collection ".

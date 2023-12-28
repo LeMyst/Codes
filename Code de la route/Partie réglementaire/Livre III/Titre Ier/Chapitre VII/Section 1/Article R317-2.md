@@ -1,3 +1,5 @@
+# Article R317-2
+
 Appareil de contrôle.
 
 I. - Le ministre chargé des transports définit les véhicules qui doivent être équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule. Le ministre chargé de la métrologie légale définit, en accord avec le ministre chargé des transports, les exigences réglementaires applicables à cet appareil ainsi que les conditions de son installation, de sa réparation et de sa vérification. Le ministre chargé des transports définit les délais d'application du présent alinéa.

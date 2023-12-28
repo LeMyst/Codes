@@ -1,3 +1,5 @@
+# Article R325-2
+
 L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, dans les cas prévus au présent code, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de l'infraction en se conformant aux règles relatives au stationnement.
 
 En cas d'absence du conducteur ou lorsque celui-ci refuse de déplacer son véhicule, l'immobilisation de ce véhicule peut être assurée par un moyen mécanique.

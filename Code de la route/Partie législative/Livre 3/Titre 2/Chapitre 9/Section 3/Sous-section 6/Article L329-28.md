@@ -1,3 +1,5 @@
+# Article L329-28
+
 Les informations et documents recueillis dans le cadre des contrôles prévus par le présent chapitre peuvent être communiqués, pour l'exercice de leurs missions respectives en matière de conformité ou de sécurité des produits :
 
 1° Aux agents des douanes ;

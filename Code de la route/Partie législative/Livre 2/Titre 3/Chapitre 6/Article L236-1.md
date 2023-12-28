@@ -1,3 +1,5 @@
+# Article L236-1
+
 I.-Le fait d'adopter, au moyen d'un véhicule terrestre à moteur, une conduite répétant de façon intentionnelle des manœuvres constituant des violations d'obligations particulières de sécurité ou de prudence prévues par les dispositions législatives et réglementaires du présent code dans des conditions qui compromettent la sécurité des usagers de la route ou qui troublent la tranquillité publique est puni d'un an d'emprisonnement et de 15 000 € d'amende.
 
 II.-Les peines sont portées à deux ans d'emprisonnement et à 30 000 € d'amende lorsque les faits sont commis en réunion.

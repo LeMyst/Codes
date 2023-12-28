@@ -1,3 +1,5 @@
+# Article R323-1
+
 Tout propriétaire d'un véhicule mentionné au présent chapitre n'est autorisé à le mettre ou le maintenir en circulation qu'après un contrôle technique ayant vérifié qu'il est en bon état de marche et en état satisfaisant d'entretien.
 
 Ce contrôle est effectué à l'initiative du propriétaire, dans les délais prescrits et à ses frais.

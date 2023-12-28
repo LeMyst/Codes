@@ -1,3 +1,5 @@
+# Article R213-8
+
 La délivrance de l'agrément aux associations mentionnées à l'article L. 213-7 est subordonnée à l'ensemble des conditions suivantes :
 
 1° Etre déclarée conformément à l'article 5 de la loi du 1er juillet 1901 susvisée relative au contrat d'association et soit être partie à une convention signée avec l'Etat, une collectivité locale, un établissement public ou une association chargée d'une mission de service public, soit être bénéficiaire d'une aide attribuée par une des personnes morales précitées, pour des actions parmi lesquelles l'apprentissage de la conduite et de la sécurité routière constitue un des moyens de l'insertion ou de la réinsertion sociale ou professionnelle ;

@@ -1,3 +1,5 @@
+# Article R235-6
+
 I.-Le prélèvement salivaire est effectué par un officier ou agent de police judiciaire de la gendarmerie ou de la police nationales territorialement compétent à l'aide d'un nécessaire, en se conformant aux méthodes et conditions prescrites par l'arrêté prévu à l'article R. 235-4.
 
 A la suite de ce prélèvement, l'officier ou l'agent de police judiciaire demande au conducteur s'il souhaite se réserver la possibilité de demander l'examen technique ou l'expertise prévus par l'article R. 235-11 ou la recherche de l'usage des médicaments psychoactifs prévus au même article.

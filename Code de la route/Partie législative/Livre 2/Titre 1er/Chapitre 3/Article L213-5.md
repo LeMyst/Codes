@@ -1,3 +1,5 @@
+# Article L213-5
+
 Dans l'hypothèse où les conditions prévues aux articles L. 213-3 et L. 213-4 cessent d'être remplies ou en cas de cessation définitive d'activité de l'établissement, il est mis fin aux agréments prévus à l'article L. 213-1.
 
 En cas d'urgence justifiée par des faits passibles d'une des condamnations visées à l'article L. 213-3, l'autorité administrative, après avoir mis l'intéressé en mesure de présenter ses observations, peut suspendre, pour une durée maximale de six mois, l'agrément délivré en application de l'article L. 213-1.

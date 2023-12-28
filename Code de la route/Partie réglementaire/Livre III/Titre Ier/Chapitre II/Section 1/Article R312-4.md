@@ -1,3 +1,5 @@
+# Article R312-4
+
 I.-Le poids total autorisé en charge d'un véhicule ne doit pas dépasser les limites suivantes :
 
 1° Véhicule à moteur à deux essieux, ou remorque à deux essieux :

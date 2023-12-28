@@ -1,3 +1,5 @@
+# Article L231-2
+
 Les personnes physiques coupables du délit prévu à l'article 434-10 du code pénal commis à l'occasion de la conduite d'un véhicule encourent également les peines complémentaires suivantes :
 
 1° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus ;

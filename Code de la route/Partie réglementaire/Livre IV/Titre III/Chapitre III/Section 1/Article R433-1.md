@@ -1,3 +1,5 @@
+# Article R433-1
+
 I.-Le transport ou la circulation de marchandises, engins ou véhicules présentant un caractère exceptionnel en raison de leurs dimensions ou de leur masse excédant les limites réglementaires, doit faire l'objet d'une autorisation préalable. Ces dispositions s'appliquent aux catégories de véhicules suivantes :
 
 1° Véhicule à moteur ou remorque transportant ou destiné au transport de charges indivisibles ;

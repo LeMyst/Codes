@@ -1,3 +1,5 @@
+# Article R343-4
+
 Les articles R. 325-12, R. 325-13, R. 325-14 à R. 325-17, R. 325-18, R. 325-19 à R. 325-32, R. 325-33, R. 325-34 à R. 325-38, R. 325-40 à R. 325-43 et R. 325-45 sont applicables à la Polynésie française dans la rédaction suivante :
 
 " Art. R. 325-12.-La mise en fourrière est le transfert d'un véhicule en un lieu désigné par l'autorité administrative ou par l'autorité judiciaire en vue d'y être retenu jusqu'à décision de celle-ci, aux frais du propriétaire du véhicule, afin de faire cesser une ou plusieurs des infractions prévues et réprimées par l'article R. 325-14.

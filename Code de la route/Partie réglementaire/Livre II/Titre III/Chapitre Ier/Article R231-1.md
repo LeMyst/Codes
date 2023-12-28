@@ -1,3 +1,5 @@
+# Article R231-1
+
 Tout conducteur ou tout usager de la route impliqué dans un accident de la circulation doit :
 
 1° S'arrêter aussitôt que cela lui est possible, sans créer un danger pour la circulation ;

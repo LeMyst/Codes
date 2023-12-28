@@ -1,3 +1,5 @@
+# Article R323-14
+
 I. - L'agrément des installations d'un centre de contrôle est délivré par le préfet du département où est implanté le centre.
 
 La demande d'agrément est adressée au préfet par la personne physique ou la personne morale qui exploite les installations du centre. Elle indique l'identité du demandeur, son statut juridique et les catégories de contrôles techniques qui seront effectués dans le centre et précise si celui-ci est rattaché ou non à un réseau de contrôle agréé. Elle est accompagnée d'un document par lequel l'exploitant s'engage à respecter les prescriptions d'un cahier des charges et précise les conditions dans lesquelles il sera satisfait à cet engagement.

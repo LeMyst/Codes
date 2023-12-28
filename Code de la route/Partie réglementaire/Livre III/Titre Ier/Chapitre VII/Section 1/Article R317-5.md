@@ -1,3 +1,5 @@
+# Article R317-5
+
 Compteur kilométrique.
 
 I.-Tout véhicule à moteur, à l'exception des véhicules et matériels agricoles ou de travaux publics, des cyclomoteurs, tricycles, ou quadricycles et des engins de déplacement personnel motorisés dont la vitesse maximale par construction n'excède pas 25 km/h doit être muni d'un dispositif qui enregistre de façon cumulative la distance parcourue.

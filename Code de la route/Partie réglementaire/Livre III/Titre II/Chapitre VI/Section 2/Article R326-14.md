@@ -1,3 +1,5 @@
+# Article R326-14
+
 I.-La procédure disciplinaire peut être engagée à l'encontre d'un expert en automobile, en cas de faute ou de manquement aux conditions d'exercice de son activité professionnelle, par le ministre chargé des transports, de sa propre initiative ou s'il est saisi d'une demande en ce sens.
 
 II.-Le ministre notifie à l'expert mis en cause les griefs formulés à son encontre par lettre recommandée avec avis de réception ou par remise contre récépissé. Il en informe, le cas échéant, le demandeur. Il désigne pour chaque affaire un rapporteur n'appartenant pas à la Commission nationale des experts en automobile mentionnée à l'article L. 326-5.

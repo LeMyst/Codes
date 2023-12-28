@@ -1,3 +1,5 @@
+# Article R316-3
+
 Toutes les vitres doivent être en substance transparente telle que le danger d'accidents corporels soit, en cas de bris, réduit dans toute la mesure du possible. Elles doivent être suffisamment résistantes aux incidents prévisibles d'une circulation normale et aux facteurs atmosphériques et thermiques, aux agents chimiques et à l'abrasion. Elles doivent également présenter une faible vitesse de combustion.
 
 Les vitres du pare-brise et les vitres latérales avant côté conducteur et côté passager doivent en outre avoir une transparence suffisante, tant de l'intérieur que de l'extérieur du véhicule, et ne provoquer aucune déformation notable des objets vus par transparence ni aucune modification notable de leurs couleurs. La transparence de ces vitres est considérée comme suffisante si le facteur de transmission régulière de la lumière est d'au moins 70 %. En cas de bris, elles doivent permettre au conducteur de continuer à voir distinctement la route.

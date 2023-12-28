@@ -1,3 +1,5 @@
+# Article R225-4
+
 I.-Sont autorisés à accéder directement aux informations mentionnées à l'article L. 225-1, à raison de leurs attributions et dans la limite du besoin d'en connaître :
 
 1° Les agents habilités des services centraux placés sous l'autorité du ministre de l'intérieur chargés de l'application des dispositions de l'article L. 225-1 et les membres de l'inspection générale de l'administration chargés du contrôle de leur mise en œuvre ;

@@ -1,3 +1,5 @@
+# Article R435-6
+
 I.-La circulation d'un bateau amphibie défini au 6.12 de l'article R. 311-1 est soumise à une déclaration préalable auprès du préfet de département du point d'entrée sur le domaine public routier.
 
 Un arrêté conjoint du ministre chargé des transports et du ministre chargé de la sécurité routière fixe les conditions d'application du présent I, notamment :

@@ -1,3 +1,5 @@
+# Article R435-3
+
 I.-La circulation des ensembles forains transportant des équipements ou animaux destinés à la présentation d'une attraction foraine, dont la longueur dépasse les limites réglementaires définies au chapitre II du livre III du présent code sans excéder 30 mètres, est soumise à des règles particulières fixées par un arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. Chacun des éléments composant cet ensemble doit respecter les limites réglementaires précitées.
 
 Cet arrêté précise notamment :

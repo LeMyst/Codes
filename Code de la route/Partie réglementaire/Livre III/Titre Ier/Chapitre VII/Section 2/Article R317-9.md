@@ -1,3 +1,5 @@
+# Article R317-9
+
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur, toute semi-remorque agricole, toute remorque, à l'exception des véhicules ou matériels agricoles remorqués montés sur bandages non pneumatiques ou dont le poids total autorisé en charge est inférieur ou égal à 1,5 tonne, doit être muni d'une plaque du constructeur portant de manière apparente le nom de celui-ci ou sa marque ou le symbole qui l'identifie, le type, le numéro d'identification, ou, pour les véhicules ou matériels agricoles, le numéro d'ordre dans la série du type et les caractéristiques de poids du véhicule.
 
 II.-La plaque du constructeur de tout matériel de travaux publics doit en outre comporter l'adresse du constructeur.

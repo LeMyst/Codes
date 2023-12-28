@@ -1,3 +1,5 @@
+# Article L212-1
+
 I.-L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière ainsi que l'animation de stages de sensibilisation à la sécurité routière mentionnés à l'article L. 223-6 sont subordonnés à la délivrance d'une autorisation administrative.
 
 II. - Tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen y exerçant les activités mentionnées au I est réputé détenir l'autorisation administrative pour exercer en France ces activités de façon temporaire et occasionnelle, sous réserve d'être légalement établi dans l'un de ces Etats et, lorsque ni ces activités ni la formation y conduisant n'y sont réglementées, de les avoir exercées dans un ou plusieurs Etats membres pendant une année ou à temps partiel pendant une durée équivalente au cours des dix années qui précèdent la prestation.

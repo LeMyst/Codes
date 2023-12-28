@@ -1,3 +1,5 @@
+# Article R110-2
+
 Pour l'application du présent code, les termes ci-après ont le sens qui leur est donné dans le présent article :
 
 - agglomération : espace sur lequel sont groupés des immeubles bâtis rapprochés et dont l'entrée et la sortie sont signalées par des panneaux placés à cet effet le long de la route qui le traverse ou qui le borde ;

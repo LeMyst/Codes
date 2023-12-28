@@ -1,3 +1,5 @@
+# Article R312-14
+
 La longueur des ensembles formés par un véhicule remorqueur et un véhicule en panne ou accidenté ne peut excéder 30 mètres.
 
 La longueur des ensembles formés par un véhicule remorqueur et un autobus en panne ou accidenté comportant plus d'une section articulée ne peut excéder 36 mètres.

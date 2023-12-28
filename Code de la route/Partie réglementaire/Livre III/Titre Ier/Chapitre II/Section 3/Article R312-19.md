@@ -1,3 +1,5 @@
+# Article R312-19
+
 I. - Toutes précautions utiles doivent être prises pour que le chargement d'un véhicule ne puisse être une cause de dommage ou de danger.
 
 II. - Tout chargement débordant ou pouvant déborder le contour extérieur du véhicule du fait des oscillations du transport doit être solidement amarré. Les pièces de grande longueur doivent être solidement amarrées entre elles et au véhicule, de manière à ne pas déborder dans leurs oscillations le contour latéral extérieur de celui-ci.

@@ -1,3 +1,5 @@
+# Article R225-5-2
+
 Le service permettant aux entreprises exerçant une activité de transport public routier de voyageurs ou de marchandises d'accéder aux informations mentionnées à l'article L. 225-5 donne lieu à la perception d'une redevance, qu'elles versent à la personne morale chargée de les délivrer.
 
 Les modalités de tarification de la redevance sont fixées par arrêté du ministre chargé de la sécurité routière.

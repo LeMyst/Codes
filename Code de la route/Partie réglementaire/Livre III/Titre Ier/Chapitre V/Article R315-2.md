@@ -1,3 +1,5 @@
+# Article R315-2
+
 I.-Le ministre chargé des transports fixe les conditions dans lesquelles doit être assuré le freinage des véhicules et matériels agricoles et de travaux publics.
 
 II.-Le fait de contrevenir aux dispositions prises en application du premier alinéa du présent article, lorsqu'elles s'appliquent aux véhicules dont le poids total autorisé en charge excède 3,5 tonnes, est puni de l'amende prévue pour les contraventions de la quatrième classe.

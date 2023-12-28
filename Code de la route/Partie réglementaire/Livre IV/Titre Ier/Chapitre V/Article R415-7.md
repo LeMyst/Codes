@@ -1,3 +1,5 @@
+# Article R415-7
+
 A certaines intersections indiquées par une signalisation dite "cédez le passage", tout conducteur doit céder le passage aux véhicules circulant sur l'autre ou les autres routes et ne s'y engager qu'après s'être assuré qu'il peut le faire sans danger.
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

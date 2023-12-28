@@ -1,3 +1,5 @@
+# Article R325-11
+
 I.-L'immobilisation ne peut être maintenue après que la circonstance qui l'a motivée a cessé.
 
 II.-Elle est levée :

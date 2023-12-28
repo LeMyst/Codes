@@ -1,3 +1,5 @@
+# Article R411-23-1
+
 I.-Sans préjudice des dispositions de l'article R. 411-23-2, les autobus, les autocars, les navettes urbaines et les trains urbains dont l'aménagement le prévoit peuvent circuler avec des passagers debout à l'intérieur des agglomérations.
 
 Toutefois les véhicules effectuant des services occasionnels de transport public ou les services privés peuvent être soumis à des conditions d'aménagement fixées par arrêté du ministre chargé des transports.

@@ -1,3 +1,5 @@
+# Article R312-2
+
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont le poids réel excède le poids total autorisé en charge fixé par le service en charge des réceptions désigné par arrêté par le ministre chargé des transports ou par l'autorité compétente d'un Etat membre de la Communauté européenne et inscrit sur le certificat d'immatriculation de chaque véhicule ou élément de véhicule.
 
 Il est interdit de faire circuler un véhicule ou un élément de véhicule dont un essieu supporte une charge réelle qui excède le poids maximal autorisé pour cet essieu.

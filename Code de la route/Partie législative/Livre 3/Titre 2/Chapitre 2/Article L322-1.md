@@ -1,3 +1,5 @@
+# Article L322-1
+
 I.-Lorsqu'une amende forfaitaire majorée a été émise, le comptable public compétent a la possibilité et, dans le cas prévu au second alinéa du III de l'article 529-6 du code de procédure pénale, l'obligation de faire opposition auprès de l'autorité administrative compétente à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République.
 
 Cette opposition suspend la prescription de la peine.

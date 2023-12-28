@@ -1,3 +1,5 @@
+# Article R414-3
+
 I. - Lorsque sur les routes de montagne et sur les routes à forte déclivité le croisement se révèle difficile, le véhicule descendant doit s'arrêter à temps le premier.
 
 II. - S'il est impossible de croiser sans que l'un des deux véhicules soit contraint de faire marche arrière, cette obligation s'impose :

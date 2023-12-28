@@ -1,3 +1,5 @@
+# Article R433-12
+
 Le poids total roulant autorisé d'un véhicule articulé, d'un ensemble composé d'un véhicule à moteur et d'une remorque ou d'un train double ne peut excéder :
 
 48 tonnes pour les véhicules articulés ou les trains routiers à 5 essieux ;

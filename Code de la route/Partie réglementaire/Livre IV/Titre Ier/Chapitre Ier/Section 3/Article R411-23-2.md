@@ -1,3 +1,5 @@
+# Article R411-23-2
+
 Dans les véhicules de transport en commun d'enfants, les enfants sont transportés assis.
 
 Dans une situation imprévue, de façon limitée et à titre exceptionnel, les enfants peuvent, sur décision de l'autorité organisatrice de transports concernée, être transportés debout aux conditions définies à l'article R. 411-23-1 dans les véhicules affectés à des services de transports scolaires, sans préjudice du pouvoir de l'autorité de police compétente.

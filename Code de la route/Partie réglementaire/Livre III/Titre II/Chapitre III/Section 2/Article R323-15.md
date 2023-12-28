@@ -1,3 +1,5 @@
+# Article R323-15
+
 I. - Lorsqu'un centre de contrôle agréé est rattaché à un réseau agréé, il ne peut dépendre que d'un seul réseau de contrôle.
 
 II. - Les contrôles techniques effectués sur des véhicules lourds appartenant à une même personne physique ou morale ne doivent pas représenter, chaque année, plus de 10 % de l'activité de contrôle technique des véhicules lourds d'un centre de contrôle non rattaché à un réseau ou de l'ensemble des installations de contrôles exploitées par le même réseau. Toutefois, le préfet de département peut accorder des dérogations à ces dispositions lorsque leur application constitue un obstacle manifeste à la bonne couverture géographique du territoire, sans que cette proportion puisse dépasser 35 %.

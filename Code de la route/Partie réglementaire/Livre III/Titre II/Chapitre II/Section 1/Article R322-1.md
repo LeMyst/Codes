@@ -1,3 +1,5 @@
+# Article R322-1
+
 I. – Tout propriétaire d'un véhicule à moteur autre qu'un cyclomobile léger, d'une remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes ou d'une semi-remorque et qui souhaite le mettre en circulation pour la première fois doit faire une demande de certificat d'immatriculation en justifiant de son identité. Le propriétaire doit également pouvoir justifier, à la demande du ministre de l'intérieur :
 
 1° De la souscription, pour le véhicule considéré, d'une assurance conforme aux dispositions de l'article L. 211-1 du code des assurances ;

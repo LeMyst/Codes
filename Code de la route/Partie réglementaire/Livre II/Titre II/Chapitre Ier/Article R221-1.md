@@ -1,3 +1,5 @@
+# Article R221-1
+
 I.-Le permis de conduire un véhicule terrestre à moteur s'obtient soit après réussite à l'examen du permis de conduire, soit après conversion d'un brevet militaire de conduite français, soit après échange d'un permis de conduire étranger, soit après réussite à une formation dispensée à cette fin ou validation d'un diplôme ou d'un titre professionnel délivrés à cette fin en France.
 
 Les titres mentionnés à l'article L. 221-1 qui sont assimilés au permis de conduire lorsque celui-ci n'est pas exigé pour la conduite d'un véhicule à moteur, comprennent notamment le certificat d'examen du permis de conduire, l'attestation de suivi de la formation requise pour la conduite des véhicules de types L5e et L6e pour les personnes nées après le 31 décembre 1987 et le récépissé de déclaration de perte ou de vol d'un permis de conduire.

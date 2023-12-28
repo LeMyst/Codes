@@ -1,3 +1,5 @@
+# Article R221-1-1
+
 I.-Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par le présent code, s'il n'est titulaire de la catégorie correspondante du permis de conduire en état de validité et s'il ne respecte les restrictions d'usage mentionnées sur ce titre.
 
 Par dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à la circulation publique, sauf dans le cas prévu à l'article R. 221-16.

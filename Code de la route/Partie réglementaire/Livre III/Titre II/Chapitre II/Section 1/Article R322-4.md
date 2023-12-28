@@ -1,3 +1,5 @@
+# Article R322-4
+
 I. – En cas de changement de propriétaire d'un véhicule soumis à immatriculation et déjà immatriculé, l'ancien propriétaire doit effectuer, dans les quinze jours suivant la cession, une déclaration au ministre de l'intérieur l'informant de cette cession et indiquant l'identité et le domicile déclarés par le nouveau propriétaire. Avant de remettre le certificat d'immatriculation à ce dernier, l'ancien propriétaire doit le barrer et y porter d'une manière très lisible et inaltérable la mention : " vendu le... /... /... " ou " cédé le... /.. /.... " (date de la cession), suivie de sa signature, et, sauf en cas de vente ou de cession à un professionnel de l'automobile, remplir le coupon ou, à défaut, découper la partie supérieure droite de ce document lorsqu'il comporte l'indication du coin à découper.
 
 II. – L'ancien propriétaire effectue la déclaration mentionnée au I soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.

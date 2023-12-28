@@ -1,3 +1,5 @@
+# Article R415-4
+
 I.-Tout conducteur s'apprêtant à quitter une route sur sa gauche doit serrer à gauche.
 
 II.-Lorsque la chaussée est à double sens de circulation il ne doit pas en dépasser l'axe médian. Néanmoins, lorsque cette chaussée comporte un nombre impair de voies matérialisées, il doit, sauf dispositions différentes prises par l'autorité investie du pouvoir de police, emprunter la voie médiane.

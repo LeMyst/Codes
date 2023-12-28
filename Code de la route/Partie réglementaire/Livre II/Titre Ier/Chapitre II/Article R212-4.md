@@ -1,3 +1,5 @@
+# Article R212-4
+
 Les autorisations mentionnées à l'article R. 212-2 ne peuvent être délivrées aux personnes qui ont fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère, à une peine criminelle, ou à une peine correctionnelle pour l'une des infractions suivantes :
 
 I. - Délits d'atteinte à la personne humaine prévus par le code pénal :

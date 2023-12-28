@@ -1,3 +1,5 @@
+# Article L326-6
+
 I. - Est incompatible avec l'exercice de la profession d'expert en automobile :
 
 1° La détention d'une charge d'officier public ou ministériel ;

@@ -1,3 +1,5 @@
+# Article R411-13
+
 Dans le département des Bouches-du-Rhône, la composition de la commission départementale de la sécurité routière est arrêtée conjointement par le préfet de département et le préfet de police des Bouches-du-Rhône.
 
 Le préfet de département peut constituer des formations spécialisées pour exercer chacune des attributions dévolues par le I de l'article R. 411-10 à la commission départementale de la sécurité routière.

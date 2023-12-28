@@ -1,3 +1,5 @@
+# Article R411-21
+
 Le fait, pour tout conducteur, de contrevenir aux dispositions portant établissement de barrières de dégel est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 La récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.

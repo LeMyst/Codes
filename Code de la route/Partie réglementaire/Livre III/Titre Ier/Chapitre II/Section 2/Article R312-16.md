@@ -1,3 +1,5 @@
+# Article R312-16
+
 La hauteur des motocyclettes, des tricycles et quadricycles à moteur et des cyclomoteurs ne peut excéder 2,50 mètres.
 
 Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

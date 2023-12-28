@@ -1,3 +1,5 @@
+# Article R212-1
+
 I. - L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière ainsi que l'autorisation d'animer les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 sont délivrées, pour une durée de cinq ans, par le préfet du lieu de résidence du demandeur ou, pour un non-résident en France, par le préfet du département où il envisage d'exercer la profession d'enseignant ou d'animateur, dans les conditions fixées par arrêté du ministre chargé de la sécurité routière.
 
 I bis. - L'autorisation temporaire et restrictive d'exercer est délivrée pour une durée de douze mois non renouvelable, dans les conditions fixées par le I bis de l'article R. 212-2, par le préfet du département où se trouve le siège de l'établissement d'enseignement de la conduite et de la sécurité routière avec lequel le demandeur, en cours de formation pour l'accès au titre professionnel, envisage d'exercer.

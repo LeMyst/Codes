@@ -1,3 +1,5 @@
+# Article R211-1
+
 I.-Des attestations scolaires de sécurité routière de premier et de second niveaux sont délivrées aux élèves qui ont subi avec succès un contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est organisé pour les élèves soumis à l'obligation scolaire définie à l'article L. 131-1 du code de l'éducation ainsi que pour les élèves âgés de plus de seize ans inscrits dans un établissement scolaire.
 
 II.-Une attestation de sécurité routière est délivrée aux personnes qui ont subi avec succès un contrôle des connaissances théoriques des règles de sécurité routière. Ce contrôle est ouvert aux personnes qui, pour quelque raison que ce soit, ne peuvent bénéficier des dispositions du I. Les titulaires d'un contrat d'apprentissage relèvent, quel que soit leur âge, des dispositions du présent alinéa.

@@ -1,3 +1,5 @@
+# Article L411-4
+
 Les règles relatives aux pouvoirs de police de la circulation routière dévolus au président du conseil exécutif dans la collectivité territoriale de Corse sont fixées par les articles L. 4424-21 et L. 4424-25 du code général des collectivités territoriales ci-après reproduits :
 
 " Art. L. 4424-21.-La collectivité territoriale de Corse assure la construction, l'aménagement, l'entretien et la gestion de la voirie classée en route nationale. Par convention, la collectivité territoriale peut en déléguer la mise en oeuvre aux départements.

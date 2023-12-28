@@ -1,3 +1,5 @@
+# Article R417-9
+
 Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à ne pas constituer un danger pour les usagers.
 
 Sont notamment considérés comme dangereux, lorsque la visibilité est insuffisante, l'arrêt et le stationnement à proximité des intersections de routes, des virages, des sommets de côte et des passages à niveau.

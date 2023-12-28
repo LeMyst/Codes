@@ -1,3 +1,5 @@
+# Article R322-9
+
 I. – Tout propriétaire d'une voiture particulière, d'une camionnette, d'un véhicule à moteur à deux roues ou trois roues et d'un quadricycle à moteur qui le cède pour destruction remet le certificat d'immatriculation à un centre VHU mentionné au 7° de l'article R. 543-154 du code de l'environnement en application de l'article R. 543-155 du même code. A cet effet, il appose sur le certificat d'immatriculation, d'une manière très lisible et inaltérable, la mention " vendu le.../.../... " ou " cédé le.../.../... " (date de la cession) " pour destruction ", suivie de sa signature. Lorsque ce document comporte un coupon, il le complète, le découpe et le conserve dans les conditions fixées à l'article R. 353. Lorsqu'il comporte, dans la partie supérieure droite, l'indication du coin à découper, il le découpe et le détruit.
 
 Si le propriétaire du véhicule ne dispose pas du certificat d'immatriculation, il remet au centre VHU soit un document officiel prouvant que le certificat d'immatriculation ne peut être fourni, soit la justification de propriété du véhicule.

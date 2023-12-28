@@ -1,3 +1,5 @@
+# Article R221-3-10
+
 I.-Pour l'application du présent article, le qualificatif “ examinateur ” désigne toute personne du site d'examen intervenant pour le passage de l'épreuve.
 
 II.-L'examinateur ne doit pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4.

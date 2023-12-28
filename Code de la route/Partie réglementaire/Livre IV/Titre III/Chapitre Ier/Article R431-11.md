@@ -1,3 +1,5 @@
+# Article R431-11
+
 Sur les véhicules à deux roues sauf les cycles dits tandems, le siège du passager doit être muni soit d'une courroie d'attache, soit d'au moins une poignée et de deux repose-pied.
 
 Sur tous les véhicules à deux roues, pour les enfants âgés de moins de cinq ans, l'utilisation d'un siège conçu à cet effet et muni d'un système de retenue est obligatoire.

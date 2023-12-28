@@ -1,3 +1,5 @@
+# Article R321-4
+
 Le fait de mettre en vente ou de vendre un véhicule ou un élément de véhicule sans qu'il ait fait l'objet d'une réception est puni de l'amende prévue pour les contraventions de la cinquième classe, sans préjudice des mesures administratives qui peuvent être prises par le ministre chargé des transports.
 
 La récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.

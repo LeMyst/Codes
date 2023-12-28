@@ -1,3 +1,5 @@
+# Article R411-18
+
 Le préfet peut interdire temporairement la circulation d'une ou plusieurs catégories de véhicules sur certaines portions du réseau routier.
 
 Des arrêtés du ministre de l'intérieur et du ministre chargé des transports peuvent interdire la circulation d'une ou plusieurs catégories de véhicules durant certaines périodes, certains jours ou certaines heures sur tout ou partie du réseau routier.

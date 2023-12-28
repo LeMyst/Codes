@@ -1,3 +1,5 @@
+# Article L130-9
+
 Lorsqu'elles sont effectuées par ou à partir des appareils de contrôle automatique ayant fait l'objet d'une homologation, les constatations relatives aux infractions dont la liste est fixée par décret en Conseil d'Etat font foi jusqu'à preuve du contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu d'une signature manuelle numérisée.
 
 Lorsque ces constatations font l'objet d'un traitement automatisé de données à caractère personnel mis en oeuvre conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée maximale de conservation de ces données ne peut excéder dix ans, sans préjudice de la possibilité pour le conducteur du véhicule ayant fait l'objet du contrôle de demander au procureur de la République territorialement compétent d'ordonner l'effacement des données le concernant lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire ou lorsque la procédure le concernant a donné lieu à une décision définitive de relaxe.

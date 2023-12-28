@@ -1,3 +1,5 @@
+# Article L122-1
+
 Outre les dispositions du code des assurances, les règles relatives à l'indemnisation des victimes d'accidents de la circulation sont fixées par les articles 1er à 6 de la loi n° 85-677 du 5 juillet 1985 ci-après reproduits :
 
 " Art. 1er-Les dispositions du présent chapitre s'appliquent, même lorsqu'elles sont transportées en vertu d'un contrat, aux victimes d'un accident de la circulation dans lequel est impliqué un véhicule terrestre à moteur ainsi que ses remorques ou semi-remorques, à l'exception des chemins de fer et des tramways circulant sur des voies qui leur sont propres. "

@@ -1,3 +1,5 @@
+# Article R225-6
+
 I.-La communication au titulaire du permis de conduire, ou au conducteur mentionné au I de l'article L. 223-10, du relevé intégral des mentions le concernant mentionné à l'article L. 225-3 est assurée par le préfet du département dans lequel il a établi son domicile, ou s'il réside à l'étranger, par l'agent diplomatique ou le consul compétent.
 
 II.-Le titulaire du permis de conduire ou le conducteur mentionné au I de l'article L. 223-10, son avocat ou son mandataire reçoit, à sa demande, communication des informations mentionnées à l'article L. 225-5 par l'intermédiaire du préfet.

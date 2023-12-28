@@ -1,3 +1,5 @@
+# Article R432-3
+
 Sur autoroute et route express, les dispositions relatives :
 
 1° A la circulation, à l'arrêt et au stationnement sur la bande centrale séparative des chaussées et les accotements notamment sur les bandes d'arrêt d'urgence ;

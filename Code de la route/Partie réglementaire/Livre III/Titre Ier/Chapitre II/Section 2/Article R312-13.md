@@ -1,3 +1,5 @@
+# Article R312-13
+
 I. - Sauf dans les cas et conditions où des saillies excédant le gabarit sont explicitement autorisées par arrêté du ministre chargé des transports, les trains doubles doivent satisfaire aux conditions suivantes :
 
 1° La distance mesurée parallèlement à l'axe longitudinal du train double entre les points extérieurs situés le plus à l'avant de la zone de chargement derrière la cabine et le plus à l'arrière de la semi-remorque attelée au véhicule articulé, diminuée de la distance comprise entre l'arrière du véhicule articulé et l'avant de la semi-remorque, ne doit pas excéder 15,65 mètres ;

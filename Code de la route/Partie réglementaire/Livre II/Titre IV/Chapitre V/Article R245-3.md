@@ -1,3 +1,5 @@
+# Article R245-3
+
 Pour l'application dans les îles Wallis et Futuna du présent titre :
 
 1° Au premier alinéa de l'article R. 235-3, les mots : “ un médecin, un biologiste, ou un étudiant en médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé publique ” sont remplacés par les mots : “ un médecin ou un biologiste ” ;

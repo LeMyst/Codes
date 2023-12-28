@@ -1,3 +1,5 @@
+# Article L327-3
+
 En cas de refus du propriétaire de céder le véhicule à l'assureur ou de silence dans le délai fixé à l'article L. 327-1, l'assureur doit en informer l'autorité administrative compétente.
 
 Celle-ci procède alors, pendant la durée nécessaire et jusqu'à ce que le propriétaire l'ait informée que le véhicule a été réparé, à l'inscription d'une opposition à tout transfert du certificat d'immatriculation. Elle en informe le propriétaire par lettre simple.

@@ -1,3 +1,5 @@
+# Article L213-3
+
 Nul ne peut exploiter, à titre individuel, ou être dirigeant ou gérant de droit ou de fait d'un des établissements mentionnés à l'article L. 213-1, s'il ne satisfait aux conditions suivantes :
 
 1° Ne pas avoir fait l'objet d'une condamnation :

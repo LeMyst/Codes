@@ -1,3 +1,5 @@
+# Article R317-11
+
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque, dont le poids total autorisé en charge excède 3,5 tonnes, à l'exception des véhicules ou matériels agricoles automoteurs, des véhicules ou matériels de travaux publics, des motocyclettes, des tricycles ou quadricycles à moteur et des cyclomoteurs, doivent porter, en évidence, pour un observateur placé à droite, l'indication :
 
 1° De son poids à vide, de son poids total autorisé en charge et de son poids total roulant autorisé ;

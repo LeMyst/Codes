@@ -1,3 +1,5 @@
+# Article R318-10
+
 I.-Les voitures particulières et les camionnettes doivent être construites de façon à limiter l'utilisation de substances dangereuses afin de prévenir le rejet de ces substances dans l'environnement, de faciliter le recyclage des composants et matériaux des véhicules et d'éviter d'avoir à éliminer des déchets dangereux au sens des articles R. 541-7 à R. 541-11 du code de l'environnement.
 
 Les substances dangereuses visées à l'alinéa précédent répondent aux critères des classes ou catégories de danger suivantes, visées à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges :

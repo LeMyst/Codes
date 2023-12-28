@@ -1,3 +1,5 @@
+# Article R330-2
+
 I.-Parmi les autorités et personnes énumérées à l'article L. 330-2, reçoivent communication, à raison de leurs attributions et dans la limite du besoin d'en connaître, des informations mentionnées à cet article, au moyen d'un accès direct :
 
 1° Les autorités judiciaires ;

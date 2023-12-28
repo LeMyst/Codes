@@ -1,3 +1,5 @@
+# Article R415-3
+
 I. - Tout conducteur s'apprêtant à quitter une route sur sa droite doit serrer le bord droit de la chaussée.
 
 II. - Il peut toutefois emprunter la partie gauche de la chaussée lorsque le tracé du virage et les dimensions du véhicule ou de son chargement le mettent dans l'impossibilité de tenir sa droite ; il ne doit ainsi manoeuvrer qu'à allure modérée, et après s'être assuré qu'il peut le faire sans danger pour autrui.

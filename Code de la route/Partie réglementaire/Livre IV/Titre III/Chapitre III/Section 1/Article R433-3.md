@@ -1,3 +1,5 @@
+# Article R433-3
+
 I.-Lorsque des besoins locaux permanents le justifient, le transport de marchandises ou la circulation de véhicules présentant un caractère exceptionnel en raison de leurs dimensions ou de leur masse, lesquelles ne respectent pas les limites réglementaires, peut être réglementé par arrêté du préfet du département dans lequel est effectué le déplacement. Ces dispositions s'appliquent exclusivement aux catégories de véhicules ou de marchandises suivantes :
 
 1° Pièce indivisible de grande longueur ;

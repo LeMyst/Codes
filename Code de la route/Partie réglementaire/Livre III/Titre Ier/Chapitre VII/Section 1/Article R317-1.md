@@ -1,3 +1,5 @@
+# Article R317-1
+
 Indicateur de vitesse.
 
 I. - Tout véhicule à moteur, à l'exception des véhicules agricoles, hors les tracteurs enjambeurs dont la vitesse maximale par construction n'excède pas 30 km/ h et matériels agricoles ou de travaux publics, des cyclomoteurs, tricycles ou quadricycles et des engins de déplacement personnel motorisés dont la vitesse maximale par construction n'excède pas 25 km/ h, doit être muni d'un indicateur de vitesse placé bien en vue du conducteur et maintenu constamment en bon état de fonctionnement.

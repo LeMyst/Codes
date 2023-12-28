@@ -1,3 +1,5 @@
+# Article R417-4
+
 I.-Hors agglomération, tout véhicule à l'arrêt ou en stationnement doit être placé autant que possible hors de la chaussée.
 
 II.-Lorsqu'il ne peut être placé que sur la chaussée, il doit l'être par rapport au sens de la circulation selon les règles suivantes :

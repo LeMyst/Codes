@@ -1,3 +1,5 @@
+# Article L324-2
+
 I.-Le fait, y compris par négligence, de mettre ou de maintenir en circulation un véhicule terrestre à moteur ainsi que ses remorques ou semi-remorques sans être couvert par une assurance garantissant sa responsabilité civile conformément aux dispositions de l'article L. 211-1 du code des assurances est puni de 3 750 euros d'amende.
 
 II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires suivantes :

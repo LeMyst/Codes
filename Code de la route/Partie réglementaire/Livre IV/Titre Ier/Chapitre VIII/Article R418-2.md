@@ -1,3 +1,5 @@
+# Article R418-2
+
 I. - Dans l'intérêt de la sécurité routière, sur les voies ouvertes à la circulation publique et en bordure de celles-ci, sont interdites, lorsqu'elles en sont visibles, la publicité et les enseignes, enseignes publicitaires et préenseignes :
 
 1° Comportant une indication de localité, complétée soit par une flèche, soit par une distance kilométrique ;

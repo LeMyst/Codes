@@ -1,3 +1,5 @@
+# Article R417-1
+
 I. - En agglomération, tout véhicule à l'arrêt ou en stationnement doit être placé par rapport au sens de la circulation selon les règles suivantes :
 
 1° Sur l'accotement, lorsqu'il n'est pas affecté à la circulation de catégories particulières d'usagers et si l'état du sol s'y prête ;

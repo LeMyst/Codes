@@ -1,3 +1,5 @@
+# Article L412-2
+
 Est puni de six mois d'emprisonnement et de 3 750 Euros d'amende tout conducteur d'un véhicule à moteur qui, dans un tunnel, ne respecte pas la distance de sécurité suffisante entre deux véhicules ou la distance de 50 mètres pour les véhicules de plus de 3,5 tonnes, et qui commet la même infraction dans un délai d'un an à compter de la date à laquelle cette condamnation est devenue définitive.
 
 Tout conducteur coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.

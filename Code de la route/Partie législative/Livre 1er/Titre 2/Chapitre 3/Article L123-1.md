@@ -1,3 +1,5 @@
+# Article L123-1
+
 Les dispositions du premier alinéa de l'article L. 121-1 ne sont pas applicables au conducteur, pour les infractions résultant d'une manœuvre d'un véhicule dont les fonctions de conduite sont déléguées à un système de conduite automatisé, lorsque ce système exerce, au moment des faits et dans les conditions prévues au I de l'article L. 319-3, le contrôle dynamique du véhicule.
 
 Le conducteur doit se tenir constamment en état et en position de répondre à une demande de reprise en main du système de conduite automatisé.

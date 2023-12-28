@@ -1,3 +1,5 @@
+# Article R431-9
+
 Pour les conducteurs de cycles à deux ou trois roues, l'obligation d'emprunter les bandes ou pistes cyclables est instituée par l'autorité investie du pouvoir de police après avis du préfet.
 
 Par dérogation aux dispositions de l'article R. 110-2, les conducteurs de cyclomoteurs à deux roues, sans side-car ni remorque peuvent être autorisés à emprunter les bandes et pistes cyclables par décision de l'autorité investie du pouvoir de police.

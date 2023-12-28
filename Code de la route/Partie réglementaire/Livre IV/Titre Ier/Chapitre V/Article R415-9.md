@@ -1,3 +1,5 @@
+# Article R415-9
+
 I. - Tout conducteur qui débouche sur une route en franchissant un trottoir ou à partir d'un accès non ouvert à la circulation publique, d'un chemin de terre ou d'une aire de stationnement ne doit s'engager sur la route qu'après s'être assuré qu'il peut le faire sans danger et qu'à une vitesse suffisamment réduite pour lui permettre un arrêt sur place.
 
 II. - Il doit céder le passage à tout autre véhicule.

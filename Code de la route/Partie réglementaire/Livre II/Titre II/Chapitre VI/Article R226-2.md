@@ -1,3 +1,5 @@
+# Article R226-2
+
 Ce contrôle est effectué par un médecin agréé par le préfet, consultant hors commission médicale, ou des médecins siégeant dans une commission médicale primaire départementale ou interdépartementale, mentionnés à l'article R. 221-11.
 
 Une commission médicale d'appel, composée de médecins généralistes et de spécialistes agréés, est créée dans chaque département. A défaut de praticiens en nombre suffisant, elle peut être interdépartementale.

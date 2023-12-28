@@ -1,3 +1,5 @@
+# Article L143-1
+
 I.-Sous réserve des adaptations prévues au II du présent article, les articles du présent code mentionnés dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Dispositions applicables  | Dans leur rédaction résultant de  |

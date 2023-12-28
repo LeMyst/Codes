@@ -1,3 +1,5 @@
+# Article R413-13
+
 Les véhicules dont la vitesse est réglementée en raison de leur poids ou de leur mode d'exploitation doivent porter, visible à l'arrière, l'indication de la ou des vitesses maximales qu'ils sont tenus de ne pas dépasser.
 
 Le ministre chargé de la sécurité routière fixe par arrêté les conditions d'application du présent article.

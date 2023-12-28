@@ -1,3 +1,5 @@
+# Article L329-20
+
 Les échantillons de véhicules ou de remorques, neufs ou d'occasion, permettant d'effectuer les contrôles peuvent :
 
 1° Etre acquis par l'autorité chargée de la surveillance du marché des véhicules et des moteurs et, à l'issue des contrôles, être détruits ou cédés à des tiers selon leur état ;

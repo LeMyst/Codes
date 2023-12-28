@@ -1,3 +1,5 @@
+# Article R313-6
+
 Feux de position latéraux.
 
 I. - Tout véhicule à moteur ou toute remorque, dont la longueur est supérieure à 6 mètres, à l'exception des châssis-cabines et des véhicules agricoles ou forestiers, doit être muni de feux de position latéraux.

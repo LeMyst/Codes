@@ -1,3 +1,5 @@
+# Article R413-14-1
+
 I. - Le fait, pour tout conducteur d'un véhicule à moteur, de dépasser de 50 km/h ou plus la vitesse maximale autorisée fixée par le présent code ou édictée par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :

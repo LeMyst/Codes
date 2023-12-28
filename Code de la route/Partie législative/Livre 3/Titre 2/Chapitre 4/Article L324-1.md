@@ -1,3 +1,5 @@
+# Article L324-1
+
 Les règles relatives à l'obligation de s'assurer pour faire circuler un véhicule à moteur ou une remorque sont fixées par les articles L. 211-1 et L. 211-2 du code des assurances ci-après reproduits :
 
 " Art.L. 211-1.-Toute personne physique ou toute personne morale autre que l'Etat, dont la responsabilité civile peut être engagée en raison de dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule est impliqué, doit, pour faire circuler celui-ci, être couverte par une assurance garantissant cette responsabilité, dans les conditions fixées par décret en Conseil d'Etat. Pour l'application du présent article, on entend par "véhicule" tout véhicule terrestre à moteur, c'est-à-dire tout véhicule automoteur destiné à circuler sur le sol et qui peut être actionné par une force mécanique sans être lié à une voie ferrée, ainsi que toute remorque, même non attelée.

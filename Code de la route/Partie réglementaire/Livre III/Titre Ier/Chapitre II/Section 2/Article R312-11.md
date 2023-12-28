@@ -1,3 +1,5 @@
+# Article R312-11
+
 I. - Sous réserve des dispositions des I bis à I quinquies, la longueur des véhicules et ensembles de véhicules mesurée en comprenant les superstructures amovibles et les pièces de cargaison normalisées telles que les conteneurs et caisses mobiles, et toutes saillies comprises dans une section longitudinale quelconque, ne doit pas dépasser les valeurs suivantes, sauf dans les cas et conditions où des saillies excédant ce gabarit sont explicitement autorisées par arrêté du ministre chargé des transports :
 
 1° Cyclomoteur, motocyclette, tricycle à moteur et quadricycle à moteur autre que le quadricycle léger de la sous-catégorie L6e-B et le quadricycle lourd de la sous-catégorie L7e-C : 4 mètres ;

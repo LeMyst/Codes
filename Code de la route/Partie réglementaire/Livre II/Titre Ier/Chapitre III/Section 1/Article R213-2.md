@@ -1,3 +1,5 @@
+# Article R213-2
+
 I.-Pour les exploitants des établissements d'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière et pour les exploitants des établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession d'enseignant de la conduite, l'agrément prévu à l'article L. 213-1 est délivré aux personnes remplissant les conditions suivantes :
 
 1° Ne pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ;

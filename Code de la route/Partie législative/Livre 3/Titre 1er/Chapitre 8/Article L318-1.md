@@ -1,3 +1,5 @@
+# Article L318-1
+
 Les véhicules doivent être construits, commercialisés, exploités, utilisés, entretenus et, le cas échéant, réparés de façon à minimiser la consommation d'énergie, la création de déchets non valorisables, les émissions de substances polluantes, notamment de dioxyde de carbone, visées à l'article L. 220-2 du code de l'environnement ainsi que les autres nuisances susceptibles de compromettre la santé publique.
 
 La consommation énergétique des véhicules et ses méthodes de mesure ainsi que leur classification au titre de leur contribution à la limitation de la pollution atmosphérique telle que définie au troisième alinéa du présent article, doivent être affichées sur le lieu de leur vente ou de leur location.

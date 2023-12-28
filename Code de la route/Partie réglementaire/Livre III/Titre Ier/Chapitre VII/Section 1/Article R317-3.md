@@ -1,3 +1,5 @@
+# Article R317-3
+
 L'appareil de contrôle, dénommé chronotachygraphe, doit être constamment maintenu en bon état de fonctionnement.
 
 Le chronotachygraphe est astreint à un contrôle en service renouvelé tous les deux ans, sur l'initiative et aux frais du détenteur de l'appareil, par l'un des centres de contrôle agréés à cet effet par les préfets des départements où ces centres sont situés.

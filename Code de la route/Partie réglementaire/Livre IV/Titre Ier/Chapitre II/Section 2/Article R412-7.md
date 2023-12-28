@@ -1,3 +1,5 @@
+# Article R412-7
+
 I.-Les véhicules doivent, sauf en cas de nécessité absolue, circuler sur la chaussée.
 
 Toutefois, ils peuvent franchir un trottoir, à partir de l'accès le plus proche, pour rejoindre ou quitter les accès carrossables des immeubles riverains ou des accès non ouverts à la circulation publique.

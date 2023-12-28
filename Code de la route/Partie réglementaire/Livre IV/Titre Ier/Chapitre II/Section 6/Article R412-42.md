@@ -1,3 +1,5 @@
+# Article R412-42
+
 I. - Les prescriptions de la présente section relatives aux piétons ne sont pas applicables aux cortèges, convois ou processions qui doivent se tenir sur la droite de la chaussée dans le sens de leur marche, de manière à en laisser libre au moins toute la moitié gauche.
 
 II. - Elles ne sont pas non plus applicables aux troupes militaires, aux forces de police en formation de marche et aux groupements organisés de piétons. Toutefois, lorsqu'ils marchent en colonne par un, ils doivent, hors agglomération, se tenir sur le bord gauche de la chaussée dans le sens de leur marche, sauf si cela est de nature à compromettre leur sécurité ou sauf circonstances particulières.

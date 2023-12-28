@@ -1,3 +1,5 @@
+# Article R224-6
+
 I. – Dans les cas prévus aux articles L. 224-2 et L. 224-7, le préfet peut restreindre le droit de conduire d'un conducteur ayant commis l'une des infractions prévues par les articles L. 234-1, L. 234-8 et R. 234-1, par arrêté, pour une durée qui ne peut excéder un an, aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique, installé par un professionnel agréé ou par construction, conformément aux dispositions de l'article L. 234-17, en état de fonctionnement et après avoir utilisé lui-même ce dispositif sans en avoir altéré le fonctionnement.
 
 Pendant cette durée, le permis de conduire de l'intéressé est conservé par l'administration et l'arrêté du préfet vaut permis de conduire au sens des articles R. 221-1-1 à D. 221-3 et titre justifiant de son autorisation de conduire au sens du I de l'article R. 233-1.

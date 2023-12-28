@@ -1,3 +1,5 @@
+# Article R413-10
+
 I. - Hors agglomération et à l'exception des voies sur lesquelles la vitesse des véhicules est limitée à 80 km/h en application du 3° du I de l'article R. 413-2, la vitesse des véhicules de transport en commun est limitée à 90 km/h.
 
 II.- Toutefois, cette vitesse maximale est relevée à 100 km/h :

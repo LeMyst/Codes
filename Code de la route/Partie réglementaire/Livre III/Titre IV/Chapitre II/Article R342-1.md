@@ -1,3 +1,5 @@
+# Article R342-1
+
 Pour l'application des dispositions réglementaires du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
 1° "direction régionale de l'industrie, de la recherche et de l'environnement" par "service chargé de la réception des véhicules" ;

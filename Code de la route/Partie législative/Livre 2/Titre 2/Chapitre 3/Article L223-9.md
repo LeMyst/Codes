@@ -1,3 +1,5 @@
+# Article L223-9
+
 I. ― Est puni de six mois d'emprisonnement et 15 000 € d'amende le fait, par l'auteur d'une contravention entraînant retrait de point du permis de conduire, de proposer ou de donner une rémunération à une personne pour qu'elle accepte d'être désignée comme conducteur du véhicule dans la requête en exonération ou la réclamation présentée dans les conditions prévues au b du 1° de l'article 529-10 du code de procédure pénale.
 
 II. ― Est puni des mêmes peines le fait, par toute personne, de proposer ou d'accepter contre rémunération d'être désignée, par l'auteur d'une contravention entraînant retrait de point, comme conducteur du véhicule dans la requête en exonération ou la réclamation présentée dans les conditions prévues au même b.

@@ -1,3 +1,5 @@
+# Article L213-1-1
+
 Un accès partiel, au sens de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, à la profession mentionnée à l'article L. 213-1 peut être accordé au cas par cas aux ressortissants de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen lorsque les trois conditions suivantes sont remplies :
 
 1° Le professionnel est pleinement qualifié pour exercer, dans l'Etat d'origine membre de l'Union ou partie à l'accord sur l'Espace économique européen, l'activité professionnelle pour laquelle l'accès partiel est sollicité ;

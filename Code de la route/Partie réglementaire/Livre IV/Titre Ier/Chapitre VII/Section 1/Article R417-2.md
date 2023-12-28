@@ -1,3 +1,5 @@
+# Article R417-2
+
 I.-Lorsque le maire décide d'instituer à titre permanent, pour tout ou partie de l'année, sur une ou plusieurs voies de circulation de l'agglomération, le stationnement unilatéral alterné des véhicules, la périodicité de celui-ci doit être semi-mensuelle.
 
 II.-Ce stationnement s'effectue alors dans les conditions suivantes :

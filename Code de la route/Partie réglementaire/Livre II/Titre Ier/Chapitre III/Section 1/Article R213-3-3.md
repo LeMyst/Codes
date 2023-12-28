@@ -1,3 +1,5 @@
+# Article R213-3-3
+
 I.-Constituent les frais d'accompagnement au sens de l'article L. 213-2 tous frais, quelles que soient leurs dénominations, ou toute majoration de prix, appliqués spécifiquement par un établissement d'enseignement de la conduite et de la sécurité routière aux candidats au titre de la présence d'un membre de son personnel lors de l'épreuve ou du transport du candidat sur le site de celle-ci.
 
 II.-Les frais appliqués au titre de l'accompagnement du candidat à l'épreuve sont déterminés préalablement à cette prestation.

@@ -1,3 +1,5 @@
+# Article L223-5
+
 I.-En cas de retrait de la totalité des points, l'intéressé reçoit de l'autorité administrative l'injonction de remettre son permis de conduire au préfet de son département de résidence et perd le droit de conduire un véhicule.
 
 II.-Il ne peut obtenir un nouveau permis de conduire avant l'expiration d'un délai de six mois à compter de la date de remise de son permis au préfet et sous réserve d'être reconnu apte après un examen ou une analyse médical, clinique, biologique et psychotechnique effectué à ses frais. Ce délai est porté à un an lorsqu'un nouveau retrait de la totalité des points intervient dans un délai de cinq ans suivant le précédent.

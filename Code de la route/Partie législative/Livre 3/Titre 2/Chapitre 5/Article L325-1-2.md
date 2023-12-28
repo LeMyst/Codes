@@ -1,3 +1,5 @@
+# Article L325-1-2
+
 I.-Les officiers ou agents de police judiciaire peuvent, avec l'autorisation préalable donnée par tout moyen du représentant de l'Etat dans le département où l'infraction a été commise, faire procéder à titre provisoire à l'immobilisation et à la mise en fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction :
 
 1° Lorsqu'est constatée une infraction pour laquelle une peine de confiscation obligatoire du véhicule est encourue ;

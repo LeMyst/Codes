@@ -1,3 +1,5 @@
+# Article R417-10
+
 I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
 
 II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :

@@ -1,3 +1,5 @@
+# Article R221-14
+
 I.-Postérieurement à la délivrance du permis, le préfet peut enjoindre à un conducteur de se soumettre à un contrôle médical de l'aptitude à la conduite :
 
 1° Dans le cas où les informations en sa possession lui permettent d'estimer que l'état de santé du titulaire du permis peut être incompatible avec le maintien de ce permis de conduire. Cet examen médical est réalisé par un médecin agréé consultant hors commission médicale ; au vu de l'avis médical émis, le préfet prononce, s'il y a lieu, soit la restriction de validité, la suspension ou l'annulation du permis de conduire, soit le changement de catégorie de ce titre ;

@@ -1,3 +1,5 @@
+# Article R313-3
+
 Feux de croisement.
 
 I.-Sauf dispositions différentes prévues au présent article, tout véhicule à moteur doit être muni à l'avant de deux feux de croisement, émettant vers l'avant une lumière jaune ou blanche permettant d'éclairer efficacement la route la nuit, par temps clair, sur une distance minimale de 30 mètres sans éblouir les autres conducteurs.

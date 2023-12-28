@@ -1,3 +1,5 @@
+# Article R212-2
+
 I. - L'autorisation d'enseigner la conduite et la sécurité routière est délivrée aux personnes remplissant les conditions suivantes :
 
 1° Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3 ;

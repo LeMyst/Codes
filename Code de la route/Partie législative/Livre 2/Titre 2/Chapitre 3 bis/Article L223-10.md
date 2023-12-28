@@ -1,3 +1,5 @@
+# Article L223-10
+
 I.-Tout conducteur titulaire d'un permis de conduire délivré par une autorité étrangère circulant sur le territoire national se voit affecter un nombre de points. Ce nombre de points est réduit de plein droit si ce conducteur a commis sur le territoire national une infraction pour laquelle cette réduction est prévue.
 
 II.-La réalité d'une infraction entraînant un retrait de points, conformément au I du présent article, est établie dans les conditions prévues à l'avant-dernier alinéa de l'article L. 223-1.

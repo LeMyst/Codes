@@ -1,3 +1,5 @@
+# Article R435-1
+
 I.-La circulation des véhicules et matériels agricoles ou forestiers et de leurs ensembles dont les dimensions, y compris les outillages portés amovibles, dépassent les limites réglementaires définies au chapitre II du livre III du présent code, et celle des machines agricoles automotrices et des machines et instruments agricoles remorqués d'une largeur supérieure à 2, 55 mètres, est soumise, lorsque leur longueur n'excède pas 25 mètres et leur largeur 4, 50 mètres, à des règles particulières fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur.
 
 Cet arrêté précise notamment :

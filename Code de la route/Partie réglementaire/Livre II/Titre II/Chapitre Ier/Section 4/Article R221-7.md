@@ -1,3 +1,5 @@
+# Article R221-7
+
 La catégorie A du permis de conduire autorise la conduite des véhicules relevant des catégories A2 et A1.
 
 La catégorie A2 du permis de conduire autorise la conduite des véhicules relevant de la catégorie A1.

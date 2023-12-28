@@ -1,3 +1,5 @@
+# Article R417-3
+
 I. - Lorsque l'autorité municipale décide, par voie d'arrêté, de limiter la durée du stationnement à l'intérieur de tout ou partie de l'agglomération, en prévoyant également l'obligation pour les conducteurs de véhicules d'apposer sur ceux-ci un dispositif destiné à faciliter le contrôle de cette limitation, ce dispositif doit être conforme à un modèle type.
 
 II. - Les indications du modèle type relatives aux heures d'arrivée doivent figurer parmi les mentions dont la stricte reproduction est obligatoire.

@@ -1,3 +1,5 @@
+# Article R313-12
+
 Dispositif d'éclairage de la plaque d'immatriculation arrière ou de la plaque d'exploitation.
 
 I. - Tout véhicule à moteur ou toute remorque doit être muni d'un dispositif lumineux capable de rendre lisible, à une distance minimale de 20 mètres, la nuit, par temps clair, le numéro inscrit sur sa plaque d'immatriculation arrière ou sur sa plaque d'exploitation.

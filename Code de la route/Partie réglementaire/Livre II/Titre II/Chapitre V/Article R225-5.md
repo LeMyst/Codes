@@ -1,3 +1,5 @@
+# Article R225-5
+
 I.-Parmi les autorités et personnes énumérées à l'article L. 225-5, reçoivent communication des informations mentionnées à cet article, à raison de leurs attributions et dans la limite du besoin d'en connaître, au moyen d'un accès direct :
 
 1° Les officiers ou agents de police judiciaire, des services de police ou des unités de la gendarmerie nationales agissant dans le cadre d'une enquête préliminaire ;

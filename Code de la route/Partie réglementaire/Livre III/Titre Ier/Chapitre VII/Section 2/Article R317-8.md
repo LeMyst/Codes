@@ -1,3 +1,5 @@
+# Article R317-8
+
 I. Tout véhicule à moteur, à l'exception des matériels de travaux publics doit être muni de deux plaques d'immatriculation, portant le numéro assigné au véhicule et fixées en évidence d'une manière inamovible à l'avant et à l'arrière du véhicule.
 
 Toutefois, toute motocyclette, tout tricycle ou quadricycle à moteur, tout cyclomoteur, tout véhicule agricole ou forestier à moteur attaché à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole, peut ne porter qu'une plaque d'immatriculation, fixée en évidence d'une manière inamovible à l'arrière du véhicule.

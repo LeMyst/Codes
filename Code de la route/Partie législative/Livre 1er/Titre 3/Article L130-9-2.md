@@ -1,3 +1,5 @@
+# Article L130-9-2
+
 I.-Afin de faciliter la constatation des infractions aux règles du présent code relatives au poids maximum autorisé des véhicules de transport de marchandises ou de transport en commun de personnes et de permettre le rassemblement des preuves de ces infractions, des dispositifs fixes de contrôle automatisé des données signalétiques des véhicules, associés à des systèmes de pesage en marche des véhicules, peuvent être mis en œuvre par les services de police et de gendarmerie nationales ainsi que par les services et agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité ou désignés par le ministre chargé des transports.
 
 Les données à caractère personnel collectées au moyen de ces dispositifs peuvent faire l'objet de traitements automatisés dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.

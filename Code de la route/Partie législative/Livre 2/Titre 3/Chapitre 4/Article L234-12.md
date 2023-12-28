@@ -1,3 +1,5 @@
+# Article L234-12
+
 I.-Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'une des infractions prévues aux articles L. 234-1 et L. 234-8 encourt également les peines complémentaires suivantes :
 
 1° La confiscation obligatoire du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ;

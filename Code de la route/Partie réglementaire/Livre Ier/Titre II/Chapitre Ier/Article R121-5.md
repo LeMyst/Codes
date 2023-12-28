@@ -1,3 +1,5 @@
+# Article R121-5
+
 Le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d'ordres, en connaissance de cause, de donner à tout transporteur routier de marchandises, ou à tout préposé de celui-ci, des instructions incompatibles avec le respect des dispositions :
 
 1° de l'article 6 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006, relatives aux durées maximales de conduite journalière ;

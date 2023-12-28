@@ -1,3 +1,5 @@
+# Article L344-1
+
 I. - Les articles L. 325-1, L. 325-1-1, L. 325-2 et L. 325-6 à L. 325-11 sont applicables en Nouvelle-Calédonie, dans la rédaction suivante :
 
 " Art. L. 325-1 - Les véhicules dont la circulation ou le stationnement, en infraction aux dispositions applicables localement, aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur, compromettent la sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule dans les cas et conditions précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction.

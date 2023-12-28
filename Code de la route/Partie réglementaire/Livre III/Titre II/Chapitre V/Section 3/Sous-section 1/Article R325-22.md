@@ -1,3 +1,5 @@
+# Article R325-22
+
 I. - Lorsque le propriétaire du véhicule faisant l'objet de la mise en fourrière est domicilié ou réside dans le ressort de l'officier de police judiciaire ou de l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions ou, à Paris, de l'agent de police judiciaire adjoint appartenant au corps des contrôleurs relevant du statut des administrations parisiennes exerçant ses fonctions dans la spécialité voie publique qui prescrit cette mesure, celui-ci peut faire garder le véhicule par son propriétaire, à condition que le certificat d'immatriculation soit immédiatement retiré. Ce document reçoit la destination prévue à l'article R. 325-34.
 
 II. - Dans cette hypothèse, l'autorité dont relève la fourrière est :

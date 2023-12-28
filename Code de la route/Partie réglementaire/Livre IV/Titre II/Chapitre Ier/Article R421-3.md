@@ -1,3 +1,5 @@
+# Article R421-3
+
 Tout conducteur qui emprunte une bretelle de raccordement autoroutière doit céder le passage aux véhicules qui circulent sur l'autoroute.
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

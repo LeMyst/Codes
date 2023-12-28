@@ -1,3 +1,5 @@
+# Article R433-8
+
 La circulation des ensembles de véhicules comprenant plus d'une remorque est interdite.
 
 Toutefois, est autorisée la circulation des ensembles comprenant deux remorques, dans des conditions fixées par arrêté du ministre chargé des transports, et des trains doubles.

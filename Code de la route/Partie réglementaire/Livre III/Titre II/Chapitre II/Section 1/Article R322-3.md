@@ -1,3 +1,5 @@
+# Article R322-3
+
 I.-Par dérogation aux dispositions des articles R. 322-1 et R. 322-2, la circulation d'un véhicule est autorisée sous couvert d'un certificat provisoire d'immatriculation, d'un coupon détachable dûment rempli, d'un certificat W garage, d'un certificat provisoire d'immatriculation permettant la circulation à titre expérimental d'un véhicule à délégation partielle ou totale de conduite, dit certificat WW DPTC, ou d'un certificat de transit ou d'un document équivalent délivré par les autorités compétentes d'un Etat membre de l'Union européenne.
 
 II.-Les conditions d'attribution et de durée d'utilisation du certificat provisoire d'immatriculation, du coupon détachable dûment rempli, du certificat W garage ou d'un certificat de transit ou d'un document équivalent délivré par les autorités compétentes d'un Etat membre de l'Union européenne sont définies par arrêté du ministre chargé des transports pris après avis du ministre de l'intérieur.

@@ -1,3 +1,5 @@
+# Article R413-2
+
 I.-Hors agglomération, la vitesse des véhicules est limitée à :
 
 1° 130 km/ h sur les autoroutes. Toutefois, lorsqu'une voirie appartenant au réseau routier national a fait l'objet d'un classement dans la catégorie des autoroutes en application du sixième alinéa de l'article R. 122-1 du code de la voirie routière, la vitesse maximale autorisée demeure celle fixée antérieurement à ce classement ;

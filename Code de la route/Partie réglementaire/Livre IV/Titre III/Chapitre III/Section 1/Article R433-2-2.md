@@ -1,3 +1,5 @@
+# Article R433-2-2
+
 La circulation des transports exceptionnels est préalablement signalée aux autorités chargées des services des voiries concernées selon les modalités définies par l'arrêté prévu à l'article R. 433-5.
 
 Le conducteur d'un transport exceptionnel doit justifier avoir procédé au signalement de son passage prévu au premier alinéa en cas de réquisition des agents de l'autorité compétente.

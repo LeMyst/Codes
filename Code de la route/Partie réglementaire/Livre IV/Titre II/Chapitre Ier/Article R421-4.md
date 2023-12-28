@@ -1,3 +1,5 @@
+# Article R421-4
+
 I. - Aussitôt que, sur autoroute, une bretelle de sortie ou une bifurcation est annoncée, tout conducteur doit selon le cas :
 
 1° Gagner la voie de circulation de droite ou de gauche s'il désire emprunter la bretelle de sortie ;

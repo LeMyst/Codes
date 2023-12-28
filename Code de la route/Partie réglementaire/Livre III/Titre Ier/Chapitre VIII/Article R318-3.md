@@ -1,3 +1,5 @@
+# Article R318-3
+
 Les véhicules à moteur ne doivent pas émettre de bruits susceptibles de causer une gêne aux usagers de la route ou aux riverains.
 
 Les bruits émis par les véhicules à moteur circulant sur une voie située à l'intérieur d'une agglomération et où la vitesse maximale autorisée des véhicules n'excède pas 50 km/ h ne doivent pas être d'un niveau d'émissions sonores supérieur à celui fixé par arrêté du ministre chargé de l'environnement, compte tenu de leur catégorie, de leur date de première mise en circulation et des vitesses maximales autorisées sur les voies de circulation.

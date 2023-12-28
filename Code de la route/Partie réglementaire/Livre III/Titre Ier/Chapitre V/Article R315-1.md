@@ -1,3 +1,5 @@
+# Article R315-1
+
 I.-Tout véhicule à moteur et toute remorque, à l'exception des véhicules et matériels agricoles ou de travaux publics et des engins de déplacement personnel motorisés, doit être pourvu de deux dispositifs de freinage dont les commandes sont entièrement indépendantes. L'installation de freinage doit être à action rapide et suffisamment puissante pour arrêter et maintenir à l'arrêt le véhicule. Sa mise en oeuvre ne doit pas affecter la direction du véhicule circulant en ligne droite.
 
 II.-L'un au moins des dispositifs de freinage doit agir sur des surfaces freinées fixées aux roues rigidement ou par l'intermédiaire de pièces donnant une sécurité suffisante.

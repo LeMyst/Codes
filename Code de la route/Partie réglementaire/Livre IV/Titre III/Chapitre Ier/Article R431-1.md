@@ -1,3 +1,5 @@
+# Article R431-1
+
 En circulation, tout conducteur ou passager d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur doit être coiffé d'un casque de type homologué. Ce casque doit être attaché.
 
 Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

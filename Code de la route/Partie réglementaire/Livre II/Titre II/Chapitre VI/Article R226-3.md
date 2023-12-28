@@ -1,3 +1,5 @@
+# Article R226-3
+
 La commission médicale primaire réalise les contrôles médicaux :
 
 1° A la suite d'une annulation ou suspension consécutive à une infraction pour conduite sous l'influence de l'alcool ou après usage de substances ou plantes classées comme stupéfiants ;

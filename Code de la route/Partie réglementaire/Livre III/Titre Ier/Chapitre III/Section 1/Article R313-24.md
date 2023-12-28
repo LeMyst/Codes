@@ -1,3 +1,5 @@
+# Article R313-24
+
 I.-Le ministre chargé des transports fixe par arrêté les conditions dans lesquelles sont assurées les connexions électriques des véhicules à moteur et de leurs remorques permettant le fonctionnement des dispositifs d'éclairage et de signalisation.
 
 II.-(Abrogé)

@@ -1,3 +1,5 @@
+# Article L413-1
+
 I. - Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende tout conducteur d'un véhicule à moteur qui, déjà condamné définitivement pour un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h, commet la même infraction en état de récidive dans les conditions prévues par le deuxième alinéa de l'article 132-11 du code pénal.
 
 II. - Tout conducteur coupable de ce délit encourt également les peines complémentaires suivantes :

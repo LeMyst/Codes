@@ -1,3 +1,5 @@
+# Article L236-2
+
 Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait :
 
 1° D'inciter directement autrui à commettre les faits mentionnés à l'article L. 236-1 ;

@@ -1,3 +1,5 @@
+# Article R221-3-2
+
 Des sessions spécialisées sont organisées par l'autorité administrative pour des publics particuliers ne pouvant pas se présenter aux épreuves théorique et pratique de l'examen du permis de conduire dans les mêmes conditions que les autres candidats.
 
 Les modalités d'organisation de ces sessions sont fixées par arrêté du ministre chargé de la sécurité routière.

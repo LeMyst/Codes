@@ -1,3 +1,5 @@
+# Article L329-33
+
 Les mesures et sanctions prévues à l'article L. 329-35 sont décidées par l'autorité chargée de la surveillance du marché des véhicules et des moteurs en cas de manquement :
 
 1° Aux dispositions techniques et aux dispositions administratives relatives à la réception des véhicules édictées en vertu des titres Ier et II du livre III du code de la route et de la réglementation européenne ;

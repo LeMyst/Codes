@@ -1,3 +1,5 @@
+# Article L142-1
+
 Pour l'application des dispositions du présent livre à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
 1° " Cour d'appel et chambre de l'instruction " par " Chambre d'appel de Mamoudzou " ;

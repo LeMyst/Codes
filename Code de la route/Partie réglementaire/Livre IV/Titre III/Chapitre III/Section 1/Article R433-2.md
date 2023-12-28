@@ -1,3 +1,5 @@
+# Article R433-2
+
 I.-L'autorisation prévue au I de l'article R. 433-1 est délivrée par arrêté du préfet du département du lieu de départ. Elle est valable sur des itinéraires précis ou sur l'ensemble des itinéraires situés sur un réseau routier, départemental ou national, défini dans les conditions prévues à l'article R. 433-2-1.
 
 Pour les transports exceptionnels en provenance de l'étranger, l'autorisation est délivrée par le préfet du département d'entrée en France.

@@ -1,3 +1,5 @@
+# Article R221-3-16
+
 I.-En cas de méconnaissance, pour un site d'examen déclaré, de l'une des obligations prévues à l'article R. 221-3-7, au III de l'article R. 221-3-9, à l'article R. 221-3-10 ou par le cahier des charges prévu à l'article L. 221-7, le préfet, après avoir mis l'organisateur agréé en mesure de présenter ses observations, peut suspendre, pour une durée maximale de six mois, l'exploitation de ce site.
 
 II.-En cas de méconnaissance grave ou répétée, pour un site d'examen déclaré, de l'une des obligations prévues à l'article R. 221-3-7, au III de l'article R. 221-3-9, à l'article R. 221-3-10 ou par le cahier des charges prévu à l'article L. 221-7, le préfet, après avoir mis l'organisateur agréé en mesure de présenter ses observations, peut mettre fin à l'exploitation du site.

@@ -1,3 +1,5 @@
+# Article R213-2-1
+
 Pour satisfaire aux conditions de qualifications professionnelles énoncées au 2° du I et au 2° du II de l'article R. 213-2, les personnes ayant acquis leurs qualifications dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen doivent satisfaire aux conditions suivantes :
 
 1° Conditions générales de la reconnaissance :

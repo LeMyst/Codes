@@ -1,3 +1,5 @@
+# Article R212-3
+
 Les titres ou diplômes prévus au 1° du I de l'article R. 212-2 sont :
 
 I. - Le titre professionnel d'enseignant de la conduite automobile et de la sécurité routière et les certificats de spécialisation de ce titre délivrés par le ministre chargé de l'emploi en application des articles R. 338-1 et suivants du code de l'éducation.

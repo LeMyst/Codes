@@ -1,3 +1,5 @@
+# Article R411-3-2
+
 Un arrêté pris par l'autorité détentrice du pouvoir de police de la circulation détermine les routes sur lesquelles est créée une voie verte après consultation des autorités gestionnaires de la voirie concernée.
 
 Lorsque la voie verte est créée sur une partie de domaine faisant l'objet d'une superposition d'affectations régie par une convention conclue en application du code général de la propriété des personnes publiques, l'arrêté est pris après consultation de l'autorité gestionnaire du domaine et vise cette convention.

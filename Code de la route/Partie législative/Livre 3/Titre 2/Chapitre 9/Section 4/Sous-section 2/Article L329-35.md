@@ -1,3 +1,5 @@
+# Article L329-35
+
 I.-L'autorité chargée de la surveillance du marché des véhicules et des moteurs peut, à l'issue d'une procédure contradictoire dont les modalités sont fixées par le décret prévu à l'article L. 329-51, prononcer une ou plusieurs des mesures suivantes :
 
 1° L'avertissement ;

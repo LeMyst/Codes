@@ -1,3 +1,5 @@
+# Article R323-27
+
 A compter du 1er janvier 2023, les véhicules motorisés à deux ou trois roues et les quadricycles à moteur font l'objet :
 
 1° D'un contrôle technique dans les six mois précédant l'expiration d'un délai de cinq ans à compter de la date de leur première mise en circulation ;

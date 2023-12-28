@@ -1,3 +1,5 @@
+# Article R225-2
+
 I.-Le préfet de département dans lequel est domicilié le demandeur ou le titulaire du permis de conduire fait procéder à l'enregistrement :
 
 1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ;

@@ -1,3 +1,5 @@
+# Article R316-4
+
 Le pare-brise des véhicules à moteur, à l'exception des cyclomoteurs à deux roues, des cyclomoteurs à trois roues non carrossés, des quadricycles légers à moteur et des engins de déplacement personnel motorisés non carrossés, des motocyclettes, doit être muni d'au moins un essuie-glace ayant une surface d'action, une puissance et une fréquence suffisantes pour que le conducteur puisse, de son siège, voir distinctement la route.
 
 Le pare-brise doit également être équipé d'un dispositif lave-glace.

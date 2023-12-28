@@ -1,3 +1,5 @@
+# Article R242-7
+
 I. - (Abrogé)
 
 II. - Pour l'application de l'article R. 235-12 à Mayotte, le représentant de l'Etat fixe par arrêté :

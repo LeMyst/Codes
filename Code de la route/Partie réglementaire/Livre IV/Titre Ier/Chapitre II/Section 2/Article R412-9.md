@@ -1,3 +1,5 @@
+# Article R412-9
+
 En marche normale, tout conducteur doit maintenir son véhicule près du bord droit de la chaussée, autant que le lui permet l'état ou le profil de celle-ci.
 
 Toutefois, un conducteur qui pénètre sur un carrefour à sens giratoire comportant plusieurs voies de circulation en vue d'emprunter une sortie située sur sa gauche par rapport à son axe d'entrée peut serrer à gauche.

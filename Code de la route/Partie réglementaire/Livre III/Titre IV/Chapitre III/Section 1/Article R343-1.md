@@ -1,3 +1,5 @@
+# Article R343-1
+
 Les articles R. 325-1 et R. 325-1-1 sont applicables à la Polynésie française dans la rédaction suivante :
 
 " Art. R. 325-1-L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à l'article L. 343-1 peuvent être décidés dans les cas et les conditions définis aux articles R. 343-2 à R. 343-4.

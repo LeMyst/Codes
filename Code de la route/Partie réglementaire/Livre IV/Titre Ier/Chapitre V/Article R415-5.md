@@ -1,3 +1,5 @@
+# Article R415-5
+
 Lorsque deux conducteurs abordent une intersection par des routes différentes, le conducteur venant par la gauche est tenu de céder le passage à l'autre conducteur, sauf dispositions différentes prévues au présent livre.
 
 Le fait, pour tout conducteur, de ne pas respecter les règles de priorité fixées au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

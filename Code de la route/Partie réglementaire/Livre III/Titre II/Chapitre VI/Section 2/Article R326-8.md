@@ -1,3 +1,5 @@
+# Article R326-8
+
 Le ministre chargé des transports procède à la vérification des qualifications professionnelles de l'expert relevant du II de l'article L. 326-4 au vu des pièces prévues à l'article R. 326-6, dans un délai d'un mois à compter de leur réception ainsi que de la déclaration qu'elles accompagnent et inscrit le prestataire sur la liste pour une durée d'un an.
 
 A l'issue du délai mentionné à l'alinéa précédent, en l'absence de demande de complément d'information ou de notification du résultat de la vérification des qualifications, l'expert est réputé être inscrit sur la liste.

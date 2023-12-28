@@ -1,3 +1,5 @@
+# Article R412-19
+
 Lorsque des lignes longitudinales continues axiales ou séparatives de voies de circulation sont apposées sur la chaussée, elles interdisent aux conducteurs leur franchissement ou leur chevauchement.
 
 Toutefois, leur chevauchement est autorisé pour le dépassement d'un engin de déplacement personnel motorisé, d'un cyclomobile léger ou d'un cycle dans les conditions prévues par l'article R. 414-4.

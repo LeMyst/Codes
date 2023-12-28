@@ -1,3 +1,5 @@
+# Article R130-12
+
 I.-L'interdiction de rediffusion de tout message ou de toute indication émis par les utilisateurs d'un service électronique d'aide à la conduite ou à la navigation par géolocalisation mentionnée à l'article L. 130-11 est prise par le préfet de département ou, à Paris, par le préfet de police ou, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône, sur proposition des officiers ou agents de police judiciaire et des agents de police judiciaire adjoints de la gendarmerie et de la police nationales.
 
 Le cas échéant, pour les contrôles routiers mentionnés à l'article L. 130-11 autres que ceux visant à procéder aux opérations prévues aux articles L. 234-9 ou L. 235-2, cette interdiction peut être prise par le ministre de l'intérieur.

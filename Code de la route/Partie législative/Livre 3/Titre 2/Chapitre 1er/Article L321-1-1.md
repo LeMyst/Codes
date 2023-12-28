@@ -1,3 +1,5 @@
+# Article L321-1-1
+
 Le fait de circuler sur les voies ouvertes à la circulation publique ou les lieux ouverts à la circulation publique ou au public avec un cyclomoteur, une motocyclette, un tricycle à moteur ou un quadricycle à moteur non soumis à réception est puni d' une contravention de la cinquième classe.
 
 Les véhicules mentionnés au premier alinéa dont la vitesse peut excéder, par construction, vingt-cinq kilomètres par heure sont vendus, cédés ou loués par des professionnels dans des conditions définies par décret. Lorsqu'un de ces véhicules est loué, le contrat de location comporte le numéro d'identification du véhicule mentionné à l'article L. 321-1-2 et le numéro d'immatriculation du véhicule servant à le transporter.

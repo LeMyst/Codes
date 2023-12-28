@@ -1,3 +1,5 @@
+# Article R325-8-1
+
 Lorsqu'un véhicule des catégories M2, M3, N2, N3, O3, O4 et T5 définies à l'article R. 311-1 paraît présenter une défaillance majeure ou critique affectant son état ou son équipement, une décision d'immobilisation peut être prescrite et être assortie de l'obligation de soumettre le véhicule à un contrôle technique routier approfondi. Un arrêté du ministre chargé des transports définit les défaillances majeures ou critiques affectant l'état ou l'équipement du véhicule et les modalités du contrôle technique routier approfondi.
 
 Une fiche de circulation provisoire, dont la durée de validité ne peut excéder sept jours, peut être établie selon la procédure mentionnée au II de l'article R. 325-9.

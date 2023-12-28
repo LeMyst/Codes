@@ -1,3 +1,5 @@
+# Article R412-3
+
 I.-Le transport d'un enfant de moins de dix ans sur un siège avant d'un véhicule à moteur est interdit, sauf dans l'un des cas suivants :
 
 1° Lorsque l'enfant est transporté, face à l'arrière, dans un système homologué de retenue spécialement conçu pour être installé à l'avant des véhicules et que le coussin de sécurité frontal est désactivé ;

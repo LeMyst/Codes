@@ -1,3 +1,5 @@
+# Article R322-7
+
 I. – Tout propriétaire d'un véhicule soumis à immatriculation doit, dans le mois qui suit le changement de domicile, de siège social ou d'établissement d'affectation ou de mise à disposition du véhicule, adresser par voie électronique une déclaration au ministre de l'intérieur l'informant de ce changement. Le propriétaire doit pouvoir justifier, à la demande du ministre de l'intérieur, de son nouveau domicile, siège social ou établissement d'affectation ou de mise à disposition du véhicule.
 
 II. – Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou plus, le locataire du véhicule déclare, dans un délai maximum d'un mois, tout changement mentionné au I au propriétaire qui le déclare par voie électronique au ministre de l'intérieur dans un délai maximum de dix jours à compter de la réception de la déclaration du locataire.

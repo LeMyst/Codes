@@ -1,3 +1,5 @@
+# Article L123-3
+
 I.-Sans préjudice des dispositions des articles 60-1,60-2,77-1-1 et 99-3 du code de procédure pénale, ont accès aux données du dispositif d'enregistrement des données d'état de délégation de conduite :
 
 1° Les fonctionnaires du corps de commandement ou d'encadrement de la police nationale mentionnés aux articles L. 130-1 et L. 130-3 du présent code, lorsque le véhicule est impliqué dans un accident de la circulation ayant occasionné un dommage corporel ;

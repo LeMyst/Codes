@@ -1,3 +1,5 @@
+# Article L223-6
+
 Si le titulaire du permis de conduire n'a pas commis, dans le délai de deux ans à compter de la date du paiement de la dernière amende forfaitaire, de l'émission du titre exécutoire de la dernière amende forfaitaire majorée, de l'exécution de la dernière composition pénale ou de la dernière condamnation définitive, une nouvelle infraction ayant donné lieu au retrait de points, son permis est affecté du nombre maximal de points.
 
 Le délai de deux ans mentionné au premier alinéa est porté à trois ans si l'une des infractions ayant entraîné un retrait de points est un délit ou une contravention de la quatrième ou de la cinquième classe.

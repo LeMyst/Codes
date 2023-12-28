@@ -1,3 +1,5 @@
+# Article R431-1-3
+
 I. - En circulation, le conducteur et le passager d'un cycle, s'ils sont âgés de moins de douze ans, doivent être coiffés d'un casque conforme à la réglementation relative aux équipements de protection individuelle. Ce casque doit être attaché.
 
 II. - S'il est âgé d'au moins dix-huit ans, le conducteur de cycle qui transporte un passager âgé de moins de douze ans doit s'assurer que ce passager est coiffé d'un casque dans les conditions prévues au I.

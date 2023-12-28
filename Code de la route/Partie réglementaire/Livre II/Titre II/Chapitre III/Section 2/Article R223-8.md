@@ -1,3 +1,5 @@
+# Article R223-8
+
 I.-Le titulaire de l'agrément prévu au II de l'article R. 213-2 délivre une attestation de stage à toute personne qui a suivi un stage de sensibilisation à la sécurité routière dans le respect de conditions d'assiduité et de participation fixées par arrêté du ministre chargé de la sécurité routière. Il transmet un exemplaire de cette attestation au préfet du département du lieu du stage, dans un délai de quinze jours à compter de la fin de celui-ci.
 
 II.-L'attestation délivrée à l'issue du stage effectué en application des dispositions du quatrième alinéa de l'article L. 223-6 donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire.

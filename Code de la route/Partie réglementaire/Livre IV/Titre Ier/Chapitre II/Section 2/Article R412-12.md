@@ -1,3 +1,5 @@
+# Article R412-12
+
 I. - Lorsque deux véhicules se suivent, le conducteur du second doit maintenir une distance de sécurité suffisante pour pouvoir éviter une collision en cas de ralentissement brusque ou d'arrêt subit du véhicule qui le précède. Cette distance est d'autant plus grande que la vitesse est plus élevée. Elle correspond à la distance parcourue par le véhicule pendant un délai d'au moins deux secondes.
 
 II. - Hors agglomération, lorsque des véhicules ou des ensembles de véhicules, dont le poids total autorisé en charge dépasse 3,5 tonnes ou dont la longueur dépasse 7 mètres, se suivent à la même vitesse, la distance de sécurité mentionnée au I est d'au moins 50 mètres.

@@ -1,3 +1,5 @@
+# Article R317-24
+
 Tout véhicule destiné normalement ou employé exceptionnellement au transport de personnes doit être aménagé de manière à assurer la sécurité et la commodité des voyageurs.
 
 Le ministre chargé des transports détermine les conditions particulières auxquelles doivent répondre, en plus de celles qui sont déjà prescrites par le présent chapitre, les différentes catégories de véhicules affectés au transport de personnes.

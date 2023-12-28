@@ -1,3 +1,5 @@
+# Article R318-2
+
 I.-Les véhicules à moteur des catégories M, N et L définies à l'article R. 311-1 sont identifiés, lorsque les conditions de leur utilisation le nécessitent, au moyen d'une vignette sécurisée appelée " certificat qualité de l'air ".
 
 Le certificat qualité de l'air atteste de la conformité des véhicules à différentes classes établies en tenant compte du niveau d'émission de polluants atmosphériques et de leur sobriété énergétique. Le classement des véhicules tient compte notamment de leur catégorie au sens de l'article R. 311-1, de leur motorisation, des normes techniques applicables à la date de réception des véhicules ou de leur date de première immatriculation ainsi que des éventuels dispositifs de traitement des émissions polluantes installés postérieurement à la première mise en circulation des véhicules.

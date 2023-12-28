@@ -1,3 +1,5 @@
+# Article R322-17
+
 Le comptable de la direction générale des finances publiques adresse sa demande d'opposition au transfert du certificat d'immatriculation au ministre de l'intérieur, soit par l'intermédiaire du préfet d'un département, soit par voie électronique.
 
 Le comptable de la direction générale des finances publiques remet, sur sa demande, au titulaire du certificat l'immatriculation un avis récapitulatif détaillant les amendes qui ont entraîné l'opposition.

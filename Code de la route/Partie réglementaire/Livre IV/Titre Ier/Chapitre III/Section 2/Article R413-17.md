@@ -1,3 +1,5 @@
+# Article R413-17
+
 I.-Les vitesses maximales autorisées par les dispositions du présent code, ainsi que celles plus réduites éventuellement prescrites par les autorités investies du pouvoir de police de la circulation, ne s'entendent que dans des conditions optimales de circulation : bonnes conditions atmosphériques, trafic fluide, véhicule en bon état.
 
 II.-Elles ne dispensent en aucun cas le conducteur de rester constamment maître de sa vitesse et de régler cette dernière en fonction de l'état de la chaussée, des difficultés de la circulation, notamment sur les voies adjacentes et des obstacles prévisibles.

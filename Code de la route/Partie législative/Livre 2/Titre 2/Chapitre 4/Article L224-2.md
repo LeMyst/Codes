@@ -1,3 +1,5 @@
+# Article L224-2
+
 I.-Le représentant de l'Etat dans le département peut, dans les soixante-douze heures de la rétention du permis prévue à l'article L. 224-1, ou dans les cent vingt heures pour les infractions pour lesquelles les vérifications prévues aux articles L. 234-4 à L. 234-6 et L. 235-2 ont été effectuées, prononcer la suspension du permis de conduire lorsque :
 
 1° L'état alcoolique est établi au moyen d'un appareil homologué, conformément au 1° du I de l'article L. 224-1, ou lorsque les vérifications mentionnées aux articles L. 234-4 et L. 234-5 apportent la preuve de cet état ou si le conducteur ou l'accompagnateur de l'élève conducteur a refusé de se soumettre aux épreuves et vérifications destinées à établir la preuve de l'état alcoolique ;

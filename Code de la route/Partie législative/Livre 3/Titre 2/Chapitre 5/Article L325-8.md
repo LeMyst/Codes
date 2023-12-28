@@ -1,3 +1,5 @@
+# Article L325-8
+
 I.-L'autorité dont relève la fourrière remet au service chargé du domaine les véhicules gardés en fourrière dont elle a constaté l'abandon à l'issue du délai prévu au premier alinéa de l'article L. 325-7 en vue de leur mise en vente. Ceux d'entre eux que le service chargé du domaine estime invendables et ceux qui ont fait l'objet d'une tentative de vente infructueuse sont livrés, sans délai, par l'autorité dont relève la fourrière, à la destruction.
 
 Les véhicules remis au service du domaine peuvent être récupérés par leur propriétaire avant leur vente, dans des conditions fixées par décret.

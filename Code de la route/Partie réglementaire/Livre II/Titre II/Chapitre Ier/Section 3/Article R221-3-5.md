@@ -1,3 +1,5 @@
+# Article R221-3-5
+
 I.-L'ouverture de chaque site d'examen est subordonnée à une déclaration préalable, renouvelable tous les cinq ans, auprès du préfet du département où est situé le site. A Paris, cette déclaration est adressée au préfet de police.
 
 II.-La déclaration par l'organisateur comprend :

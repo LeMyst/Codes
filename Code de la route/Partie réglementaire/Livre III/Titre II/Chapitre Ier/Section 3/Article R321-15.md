@@ -1,3 +1,5 @@
+# Article R321-15
+
 Avant sa mise en circulation et en l'absence de réception CE, tout véhicule à moteur, toute remorque ou tout élément de véhicule, toute semi-remorque doit faire l'objet d'une réception nationale effectuée soit par type à la demande du constructeur, soit à titre isolé à la demande du propriétaire ou de son représentant.
 
 Toutefois, en ce qui concerne les véhicules ou éléments de véhicules qui ne sont pas fabriqués ou assemblés sur le territoire d'un Etat membre de l'Union européenne, la réception par type n'est admise que si le constructeur possède en France un représentant spécialement accrédité auprès du ministre chargé des transports. Dans ce cas, elle a lieu sur demande dudit représentant.

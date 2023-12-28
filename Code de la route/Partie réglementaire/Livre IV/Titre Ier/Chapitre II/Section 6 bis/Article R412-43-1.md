@@ -1,3 +1,5 @@
+# Article R412-43-1
+
 I.-En agglomération, les conducteurs d'engins de déplacement personnel motorisés doivent circuler sur les bandes ou pistes cyclables. Lorsque la chaussée est bordée de chaque côté par une piste cyclable, ils doivent emprunter celle ouverte à droite de la route, dans le sens de la circulation.
 
 En l'absence de bandes ou pistes cyclables, ils peuvent également circuler :

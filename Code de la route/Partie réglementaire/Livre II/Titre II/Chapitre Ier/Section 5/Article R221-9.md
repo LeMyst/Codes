@@ -1,3 +1,5 @@
+# Article R221-9
+
 I. - La catégorie C du permis de conduire, obtenue avant le 20 janvier 1975, ou la catégorie C1 du permis de conduire obtenue entre le 20 janvier 1975 et le 31 décembre 1984 ou la catégorie C du permis de conduire obtenue entre le 1er janvier 1985 et le 1er juillet 1990 autorise la conduite de tous les véhicules affectés au transport de marchandises ainsi que celle des véhicules affectés au transport en commun sur des parcours de ligne dépassant 50 kilomètres sous réserve, pour ces derniers, des conditions relatives à l'expérience de conduite ou à la formation du conducteur fixées par arrêté du ministre chargé des transports.
 
 II. - La catégorie C du permis de conduire, obtenue entre le 20 janvier 1975 et le 31 décembre 1984, ou la catégorie C limitée, obtenue entre le 1er janvier 1985 et le 1er juillet 1990, autorise la conduite des véhicules affectés au transport de marchandises suivants :

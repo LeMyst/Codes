@@ -1,3 +1,5 @@
+# Article R130-11
+
 Font foi jusqu'à preuve du contraire les constatations, effectuées par ou à partir des appareils de contrôle automatique ayant fait l'objet d'une homologation, relatives aux infractions sur :
 
 1° Le port d'une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé prévu à l'article R. 412-1 ;

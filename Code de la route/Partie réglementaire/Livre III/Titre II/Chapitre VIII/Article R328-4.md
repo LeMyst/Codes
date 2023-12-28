@@ -1,3 +1,5 @@
+# Article R328-4
+
 En application de l'article L. 328-2, le ministre chargé des transports peut sanctionner le manquement à l'obligation prévue par l'article L. 328-1 dans les conditions suivantes.
 
 Après avoir mis l'annonceur en mesure de présenter par écrit ses observations sur les griefs formulés à son encontre, le ministre chargé des transports peut le mettre en demeure de se conformer à cette obligation dans un délai qu'il détermine. Il peut rendre publique cette mise en demeure.

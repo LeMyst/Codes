@@ -1,3 +1,5 @@
+# Article R344-1-1
+
 Les articles R. 317-2, R. 317-3 et R. 317-4 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
 
 " Art. R. 317-2.-Dans les cas où la réglementation en vigueur en Nouvelle-Calédonie prévoit que des véhicules doivent être équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse du véhicule, l'Etat définit les exigences réglementaires applicables à cet appareil ainsi que les conditions de son installation, de sa réparation et de sa vérification.

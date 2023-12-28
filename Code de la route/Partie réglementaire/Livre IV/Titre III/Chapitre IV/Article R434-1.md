@@ -1,3 +1,5 @@
+# Article R434-1
+
 I. - Sauf dans le cas d'un transport exceptionnel ou d'un convoi de véhicules, il ne peut être attelé :
 
 1° Aux véhicules servant au transport des marchandises, plus de cinq chevaux ou bêtes de trait s'il s'agit de véhicules à deux roues, plus de six boeufs ou de huit chevaux ou autres bêtes de trait s'il s'agit de véhicules à quatre roues sans que, dans ce dernier cas, il puisse y avoir plus de cinq animaux en enfilade ;

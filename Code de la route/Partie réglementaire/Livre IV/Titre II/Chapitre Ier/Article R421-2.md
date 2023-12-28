@@ -1,3 +1,5 @@
+# Article R421-2
+
 I.-L'accès des autoroutes est interdit à la circulation :
 
 1° Des animaux ;

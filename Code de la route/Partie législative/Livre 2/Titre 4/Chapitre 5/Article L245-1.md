@@ -1,3 +1,5 @@
+# Article L245-1
+
 Pour l'application de l'article L. 225-4 dans les îles Wallis et Futuna, les mots : " dans le département " sont remplacés par les mots : " dans la collectivité ".
 
 Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :

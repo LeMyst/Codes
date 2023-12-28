@@ -1,3 +1,5 @@
+# Article R212-4-1
+
 I.-Pour obtenir le renouvellement quinquennal de l'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière, l'enseignant doit remplir les conditions fixées au I de l'article R. 212-2 et à l'article R. 212-4.
 
 II.-Pour obtenir le renouvellement quinquennal de l'autorisation d'animer les stages de sensibilisation à la sécurité routière, l'animateur doit :

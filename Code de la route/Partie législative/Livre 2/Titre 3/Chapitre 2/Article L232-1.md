@@ -1,3 +1,5 @@
+# Article L232-1
+
 Les dispositions relatives à l'homicide involontaire commis à l'occasion de la conduite d'un véhicule terrestre à moteur sont fixées par les articles 221-6-1 et 221-8 du code pénal ci-après reproduits :
 
 Art. 221-6-1.-Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative ou réglementaire de prudence ou de sécurité prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à moteur, l'homicide involontaire est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.

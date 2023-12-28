@@ -1,3 +1,5 @@
+# Article R213-6
+
 Lors du renouvellement quinquennal de l'agrément mentionné à l'article L. 213-1, l'exploitant doit :
 
 1° Remplir les conditions fixées aux 1°, 4°, 5° et 6° du I ou du II de l'article R. 213-2, selon l'activité exercée ;

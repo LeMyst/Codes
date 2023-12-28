@@ -1,3 +1,5 @@
+# Article R130-3
+
 Les gardes champêtres peuvent constater par procès-verbal si elles sont commises à l'intérieur du territoire communal et sur des voies autres que les autoroutes :
 
 a) Les contraventions de police prévues aux articles R. 644-2 et R. 653-1 du code pénal lorsqu'il s'agit de contraventions se rapportant à la circulation routière ;

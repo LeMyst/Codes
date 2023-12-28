@@ -1,3 +1,5 @@
+# Article A121-2
+
 I.- Lorsque ces informations sont adressées par lettre recommandée avec demande d'avis de réception, il est utilisé le formulaire prévu à cette fin qui est joint à l'avis de contravention adressée au représentant légal de la personne morale.
 
 Ce formulaire mentionne que toute fausse déclaration expose le représentant de la personne morale ainsi que la personne morale à des poursuites pénales.

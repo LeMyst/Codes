@@ -1,3 +1,5 @@
+# Article L211-1 A
+
 I.-Informé d'un dépôt de plainte pour des faits de violence ou d'outrage prévus aux articles 222-9 à 222-13 et 433-5 du code pénal commis à l'encontre d'un inspecteur du permis de conduire et de la sécurité routière, d'un examinateur mentionné à l'article L. 221-5 du présent code ou d'un examinateur auquel a recours l'organisateur agréé mentionné à l'article L. 221-6, dans l'exercice ou à l'occasion de l'exercice de ses fonctions, le représentant de l'Etat dans le département où l'infraction a été commise peut, dans les vingt-quatre heures suivant la transmission cette information, à titre provisoire, interdire à l'auteur des faits de se présenter à l'examen théorique ou pratique du permis de conduire. La durée de l'interdiction ne peut excéder deux mois pour les faits d'outrage et six mois pour les faits de violence.
 
 II.-Quelle que soit sa durée, l'interdiction prononcée par le représentant de l'Etat dans le département cesse d'avoir effet lorsqu'est exécutoire une décision judiciaire prononçant une peine d'interdiction de se présenter à l'examen du permis de conduire.

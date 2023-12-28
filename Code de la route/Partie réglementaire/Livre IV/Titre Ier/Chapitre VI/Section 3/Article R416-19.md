@@ -1,3 +1,5 @@
+# Article R416-19
+
 I. - Lorsqu'un véhicule immobilisé sur la chaussée constitue un danger pour la circulation, notamment à proximité des intersections de routes, des virages, des sommets de côtes, des passages à niveau et en cas de visibilité insuffisante, ou lorsque tout ou partie de son chargement tombe sur la chaussée sans pouvoir être immédiatement relevé, le conducteur doit assurer la présignalisation de l'obstacle en faisant usage de ses feux de détresse et d'un triangle de présignalisation.
 
 En circulation, le conducteur doit disposer de ce triangle.

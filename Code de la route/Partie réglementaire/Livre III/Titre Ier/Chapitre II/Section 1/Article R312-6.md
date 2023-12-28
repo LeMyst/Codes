@@ -1,3 +1,5 @@
+# Article R312-6
+
 I.-Sur les véhicules ou éléments de véhicules comportant plus de deux essieux, la charge de l'essieu le plus chargé appartenant à un groupe d'essieux ne doit pas, en fonction de la distance séparant deux essieux consécutifs de ce groupe, dépasser les valeurs suivantes :
 
 a) Pour une distance entre deux essieux consécutifs inférieure à 0,90 mètre : 7,350 tonnes ;

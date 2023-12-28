@@ -1,3 +1,5 @@
+# Article R344-2
+
 Les articles R. 325-2 à R. 325-6 et R. 325-9 à R. 325-11 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante :
 
 " Art. R. 325-2-L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, dans les cas prévus au présent code, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de l'infraction en se conformant aux règles relatives au stationnement.

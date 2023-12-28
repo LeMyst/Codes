@@ -1,3 +1,5 @@
+# Article L212-2
+
 I. Nul ne peut être autorisé à enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière, s'il ne satisfait aux conditions suivantes :
 
 1° Ne pas avoir fait l'objet d'une condamnation :

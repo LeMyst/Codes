@@ -1,3 +1,5 @@
+# Article L233-1-1
+
 I.-Lorsque les faits prévus à l'article L. 233-1 ont été commis dans des circonstances exposant directement autrui à un risque de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente, ils sont punis de cinq ans d'emprisonnement et de 75 000 € d'amende.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque les faits ont été commis dans des circonstances exposant directement les personnes mentionnées au I de l'article L. 233-1 à un risque de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente.

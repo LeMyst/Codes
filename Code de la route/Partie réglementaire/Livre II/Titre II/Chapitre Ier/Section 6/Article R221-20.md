@@ -1,3 +1,5 @@
+# Article R221-20
+
 I.-Les dispositions du présent chapitre ne sont pas applicables aux conducteurs des véhicules et appareils agricoles ou forestiers, attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole.
 
 II.-Tout conducteur d'un véhicule ou appareil agricole appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole doit être âgé d'au moins seize ans.

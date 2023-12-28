@@ -1,3 +1,5 @@
+# Article R314-3
+
 Il est interdit d'introduire dans les surfaces de roulement des pneumatiques des éléments métalliques susceptibles de faire saillie. Le ministre chargé des transports fixe par arrêté les conditions dans lesquelles il peut être dérogé à cette interdiction ou fait usage de tout autre dispositif antidérapant.
 
 L'usage des chaînes n'est autorisé que sur les routes enneigées.

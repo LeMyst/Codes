@@ -1,3 +1,5 @@
+# Article R343-2
+
 Les articles R. 325-2 à R. 325-6 et R. 325-9 à R. 325-11 sont applicables à la Polynésie française dans la rédaction suivante :
 
 " Art. R. 325-2.-L'immobilisation est l'obligation faite au conducteur ou au propriétaire d'un véhicule, en cas d'infraction prévue à l'article R. 343-3, de maintenir ce véhicule sur place ou à proximité du lieu de constatation de l'infraction en se conformant aux règles relatives au stationnement.

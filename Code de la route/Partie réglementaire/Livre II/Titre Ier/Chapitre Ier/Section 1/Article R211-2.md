@@ -1,3 +1,5 @@
+# Article R211-2
+
 I. - Tout conducteur de cyclomoteur ou de quadricycle léger à moteur doit être âgé d'au moins quatorze ans.
 
 II.-Tout conducteur de cyclomoteur ou de quadricycle léger à moteur, né après le 31 décembre 1987 doit être titulaire soit du permis de conduire, soit du brevet de sécurité routière ou d'un titre reconnu équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dont la liste est fixée par arrêté du ministre chargé de la sécurité routière.

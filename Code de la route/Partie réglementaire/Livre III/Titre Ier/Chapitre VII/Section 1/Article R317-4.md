@@ -1,3 +1,5 @@
+# Article R317-4
+
 L'immobilisation des véhicules devant être équipés d'un appareil de contrôle permettant l'enregistrement de la vitesse peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3 :
 
 1° Lorsque le conducteur est en infraction aux règles relatives aux conditions de travail dans les transports routiers, publics ou privés ;

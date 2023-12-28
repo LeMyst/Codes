@@ -1,3 +1,5 @@
+# Article R329-11
+
 Lorsqu'un échantillon du produit à contrôler est prélevé, un procès-verbal est rédigé immédiatement, qui, outre un numéro d'ordre et l'indication de la date, de l'heure et du lieu, comporte les mentions suivantes :
 
 1° Les nom, prénoms, qualité et résidence administrative de l'agent habilité ;

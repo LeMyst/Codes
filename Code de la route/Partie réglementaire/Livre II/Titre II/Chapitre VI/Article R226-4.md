@@ -1,3 +1,5 @@
+# Article R226-4
+
 La commission médicale d'appel peut être saisie par la personne qui a fait l'objet d'un contrôle médical lorsque, à la suite de l'avis qui lui a été transmis, le préfet a rendu à son encontre une décision d'aptitude temporaire, d'aptitude avec restrictions d'utilisation du permis ou d'inaptitude.
 
 Cet appel ne suspend pas l'application de la décision préfectorale.

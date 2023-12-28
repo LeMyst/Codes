@@ -1,3 +1,5 @@
+# Article R344-4
+
 Les articles R. 325-12 à R. 325-38, R. 325-40 à R. 325-43 et R. 325-45 à R. 325-46 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
 
 " Art. R. 325-12.-I.-La mise en fourrière est le transfert d'un véhicule en un lieu désigné par l'autorité administrative ou judiciaire en vue d'y être retenu jusqu'à décision de celle-ci, aux frais du propriétaire de ce véhicule.

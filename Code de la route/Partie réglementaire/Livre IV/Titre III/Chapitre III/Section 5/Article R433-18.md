@@ -1,3 +1,5 @@
+# Article R433-18
+
 I. - Tout conducteur de véhicule de protection ou de véhicule de guidage destiné à l'accompagnement des transports exceptionnels doit avoir, préalablement à l'exercice de son activité de conduite, satisfait à une obligation de formation professionnelle initiale comportant la fréquentation de cours et sanctionnée par un examen.
 
 La formation destinée aux conducteurs de véhicules de protection est accessible aux personnes titulaires du permis de conduire de la catégorie B, dont le délai probatoire défini à l'article L. 223-1 est expiré.

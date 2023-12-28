@@ -1,3 +1,5 @@
+# Article R412-38
+
 Les feux de signalisation lumineux réglant la traversée des chaussées par les piétons sont verts ou rouges et comportent un pictogramme. Ils peuvent comporter un signal lumineux jaune indiquant leur mise en service.
 
 Lorsque la traversée d'une chaussée est réglée par ces feux, les piétons ne doivent s'engager qu'au feu vert.

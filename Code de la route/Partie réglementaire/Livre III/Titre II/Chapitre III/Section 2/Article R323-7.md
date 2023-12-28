@@ -1,3 +1,5 @@
+# Article R323-7
+
 I. - Le ministre chargé des transports désigne un organisme technique, dénommé organisme technique central, chargé pour son compte et selon ses instructions :
 
 1° De recueillir et d'analyser les résultats des contrôles afin de surveiller le fonctionnement des installations, de s'assurer de l'homogénéité des contrôles et de collecter des informations sur l'état du parc automobile national ;

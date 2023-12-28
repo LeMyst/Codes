@@ -1,3 +1,5 @@
+# Article R327-2
+
 I.-Lorsqu'un véhicule a été immobilisé ou mis en fourrière en application des articles L. 325-1 à L. 325-3 ou L. 325-12 en raison de la gravité des dommages qu'il a subis, l'officier ou l'agent mentionné au premier alinéa de l'article L. 327-4 qui procède aux constatations en informe le ministre de l'intérieur par voie électronique. Le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique.
 
 Lorsque le titulaire du certificat d'immatriculation ne remet pas son titre à l'officier ou l'agent de police judiciaire qui a procédé aux constatations en application de l'article L. 327-4, le ministre de l'intérieur informe le titulaire que son véhicule n'est plus autorisé à circuler sur les voies ouvertes à la circulation publique et procède à l'inscription d'une opposition au transfert du certificat d'immatriculation.

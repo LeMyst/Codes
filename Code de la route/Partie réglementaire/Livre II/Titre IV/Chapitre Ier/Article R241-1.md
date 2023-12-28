@@ -1,3 +1,5 @@
+# Article R241-1
+
 Pour l'application des dispositions du présent livre dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit :
 
 1° "département" par "collectivité territoriale" ;

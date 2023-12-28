@@ -1,3 +1,5 @@
+# Article R413-8
+
 La vitesse des véhicules dont le poids total autorisé en charge est supérieur à 3,5 tonnes ou des ensembles de véhicules dont le poids total roulant autorisé est supérieur à 3,5 tonnes, à l'exception des véhicules de transport en commun, est limitée à :
 
 1° 90 km/h sur les autoroutes ;

@@ -1,3 +1,5 @@
+# Article R411-19
+
 Pour les mesures propres à limiter l'ampleur et les effets des pointes de pollution sur la population, le préfet définit le périmètre des zones concernées, les mesures de suspension ou de restriction de la circulation, notamment par la réduction des vitesses maximales autorisées, qu'il est susceptible de prendre et les modalités de publicité et d'information préalables des usagers en cas de mise en œuvre de ces mesures. Ces modalités comportent au minimum l'information des maires intéressés et, sauf en cas de réduction des vitesses maximales autorisées ou de déviation de circulation faisant l'objet d'une signalisation routière conforme à l'article R. 411-25, la transmission d'un communiqué d'information à deux journaux quotidiens et à deux stations de radio ou de télévision, au plus tard à dix-neuf heures la veille de la mise en œuvre de ces mesures, afin de permettre sa diffusion dans les meilleurs délais.
 
 Les mesures mentionnées à l'alinéa précédent peuvent comporter l'interdiction de circulation des véhicules certains jours en fonction de leur numéro d'immatriculation ou de leur identification prévue à l'article L. 318-1.

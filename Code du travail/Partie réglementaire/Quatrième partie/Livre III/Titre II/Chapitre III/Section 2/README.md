@@ -1,1 +1,1 @@
-Section 2 : Installation des équipements de travail
+ Section 2 : Installation des équipements de travail

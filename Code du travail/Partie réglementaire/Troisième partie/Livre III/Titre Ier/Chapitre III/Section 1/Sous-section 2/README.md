@@ -1,1 +1,1 @@
-Sous-section 2 : Modification et dénonciation.
+ Sous-section 2 : Modification et dénonciation.

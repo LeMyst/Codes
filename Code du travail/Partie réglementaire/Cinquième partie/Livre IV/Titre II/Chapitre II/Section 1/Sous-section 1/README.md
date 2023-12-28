@@ -1,1 +1,1 @@
-Sous-section 1 : Conditions d'attribution.
+ Sous-section 1 : Conditions d'attribution.

@@ -1,1 +1,1 @@
-Section 1 : Rémunération mensuelle minimale.
+ Section 1 : Rémunération mensuelle minimale.

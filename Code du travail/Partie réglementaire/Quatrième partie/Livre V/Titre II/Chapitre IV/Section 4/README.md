@@ -1,1 +1,1 @@
-Section 4 : Fonctionnement.
+ Section 4 : Fonctionnement.

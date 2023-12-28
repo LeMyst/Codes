@@ -1,1 +1,1 @@
-Paragraphe 4 : Formation du coordonnateur et organisme de formation.
+ Paragraphe 4 : Formation du coordonnateur et organisme de formation.

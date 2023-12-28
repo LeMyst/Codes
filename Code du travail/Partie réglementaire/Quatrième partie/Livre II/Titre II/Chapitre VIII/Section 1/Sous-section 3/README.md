@@ -1,1 +1,1 @@
-Sous-section 3 : Lavabos et douches
+ Sous-section 3 : Lavabos et douches

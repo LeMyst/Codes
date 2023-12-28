@@ -1,1 +1,1 @@
-Paragraphe 3 : Ressources et dépenses
+Paragraphe 3 : Ressources et dépenses 

@@ -1,1 +1,1 @@
-Sous-section 2 : Vestiaires collectifs
+ Sous-section 2 : Vestiaires collectifs

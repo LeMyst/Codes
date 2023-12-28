@@ -1,1 +1,1 @@
-Sous-section 2 : Représentativité des organisations
+Sous-section 2 :  Représentativité des organisations

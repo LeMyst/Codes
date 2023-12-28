@@ -1,1 +1,1 @@
-Paragraphe 6 : Formation
+ Paragraphe 6 : Formation

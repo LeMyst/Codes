@@ -1,1 +1,1 @@
-Section 2 : Mesures générales de sécurité.
+ Section 2 : Mesures générales de sécurité.

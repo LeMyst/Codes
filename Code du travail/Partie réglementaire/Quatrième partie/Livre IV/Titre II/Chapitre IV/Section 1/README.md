@@ -1,1 +1,1 @@
-Section 1 : Dispositions communes à toutes les activités
+ Section 1 : Dispositions communes à toutes les activités

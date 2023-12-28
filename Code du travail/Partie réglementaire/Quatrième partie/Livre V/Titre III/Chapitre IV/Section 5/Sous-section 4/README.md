@@ -1,1 +1,1 @@
-Sous-section 4 : Signalisation et éclairage.
+ Sous-section 4 : Signalisation et éclairage.

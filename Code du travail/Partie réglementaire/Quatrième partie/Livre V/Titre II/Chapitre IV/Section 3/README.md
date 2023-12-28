@@ -1,1 +1,1 @@
-Section 3 : Composition.
+ Section 3 : Composition.

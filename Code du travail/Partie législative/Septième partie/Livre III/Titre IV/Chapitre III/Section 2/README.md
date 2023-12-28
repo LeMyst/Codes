@@ -1,1 +1,1 @@
-Section 2 : Représentation des travailleurs indépendants recourant aux plateformes
+Section 2 :  Représentation des travailleurs indépendants recourant aux plateformes

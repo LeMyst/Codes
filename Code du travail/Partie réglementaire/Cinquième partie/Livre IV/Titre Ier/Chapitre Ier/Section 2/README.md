@@ -1,1 +1,1 @@
-Section 2 : Changement de situation.
+ Section 2 : Changement de situation.

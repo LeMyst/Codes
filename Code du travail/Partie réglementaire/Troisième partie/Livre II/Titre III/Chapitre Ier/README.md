@@ -1,1 +1,1 @@
-Chapitre Ier : Salaire minimum interprofessionnel de croissance
+Chapitre Ier : Salaire minimum  interprofessionnel de croissance

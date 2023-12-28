@@ -1,1 +1,1 @@
-Sous-section 1 : Équipements neufs ou considérés comme neufs
+ Sous-section 1 : Équipements neufs ou considérés comme neufs

@@ -1,1 +1,1 @@
-Chapitre VIII : Installations sanitaires, restauration et hébergement
+Chapitre VIII : Installations sanitaires,  restauration et hébergement

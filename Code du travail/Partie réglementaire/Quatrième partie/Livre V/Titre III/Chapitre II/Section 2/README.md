@@ -1,1 +1,1 @@
-Section 2 : Déclaration préalable.
+ Section 2 : Déclaration préalable.

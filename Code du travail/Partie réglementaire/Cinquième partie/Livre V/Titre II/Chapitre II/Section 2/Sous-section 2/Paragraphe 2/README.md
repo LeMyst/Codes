@@ -1,1 +1,1 @@
-Paragraphe 2 : Aide de création ou reprise d'entreprise.
+ Paragraphe 2 : Aide de création ou reprise d'entreprise.

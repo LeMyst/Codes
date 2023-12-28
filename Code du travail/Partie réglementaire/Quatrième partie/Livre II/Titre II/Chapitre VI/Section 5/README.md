@@ -1,1 +1,1 @@
-Section 5 : Vérification des installations électriques
+Section 5 :  Vérification des installations électriques

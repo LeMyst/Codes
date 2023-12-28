@@ -1,1 +1,1 @@
-Chapitre II : Composition des commissions
+Chapitre II :  Composition des commissions

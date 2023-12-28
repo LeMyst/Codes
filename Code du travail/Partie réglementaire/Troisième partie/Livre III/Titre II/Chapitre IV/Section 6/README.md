@@ -1,1 +1,1 @@
-Section 6 : Paiement et déblocage anticipé.
+ Section 6 : Paiement et déblocage anticipé.

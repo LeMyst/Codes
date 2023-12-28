@@ -1,1 +1,1 @@
-Livre III : Voyageurs, représentants ou placiers, gérants de succursales, entrepreneurs salariés associés d'une coopérative d'activité et d'emploi et travailleurs utilisant une plateforme de mise en relation par voie électronique
+Livre III : Voyageurs, représentants ou placiers, gérants de succursales, entrepreneurs salariés associés d'une coopérative d'activité et d'emploi  et travailleurs utilisant une plateforme de mise en relation par voie électronique

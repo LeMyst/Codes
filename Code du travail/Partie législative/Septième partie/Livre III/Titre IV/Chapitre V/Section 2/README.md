@@ -1,1 +1,1 @@
-Section 2 : Composition, organisation et fonctionnement
+Section 2 :  Composition, organisation et fonctionnement

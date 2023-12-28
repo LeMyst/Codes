@@ -1,1 +1,1 @@
-Section 2 : Confort au poste de travail
+ Section 2 : Confort au poste de travail

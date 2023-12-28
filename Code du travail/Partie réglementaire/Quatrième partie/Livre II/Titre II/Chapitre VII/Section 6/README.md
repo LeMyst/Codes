@@ -1,1 +1,1 @@
-Section 6 : Prévention des explosions
+ Section 6 : Prévention des explosions

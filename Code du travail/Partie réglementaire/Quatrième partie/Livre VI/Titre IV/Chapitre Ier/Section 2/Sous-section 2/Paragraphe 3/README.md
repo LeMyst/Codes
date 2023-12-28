@@ -1,1 +1,1 @@
-Paragraphe 3 : Organisation et fonctionnement
+Paragraphe 3 :  Organisation et fonctionnement

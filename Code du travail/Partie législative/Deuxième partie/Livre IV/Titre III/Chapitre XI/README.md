@@ -1,1 +1,1 @@
-Chapitre XI : Membre d'une commission paritaire régionale interprofessionnelle
+Chapitre XI : Membre d'une commission paritaire régionale interprofessionnelle 

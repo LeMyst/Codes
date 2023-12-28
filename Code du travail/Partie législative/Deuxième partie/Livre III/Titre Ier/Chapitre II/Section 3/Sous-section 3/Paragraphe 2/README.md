@@ -1,1 +1,1 @@
-Paragraphe 2 : Champ de la négociation
+ Paragraphe 2 : Champ de la négociation

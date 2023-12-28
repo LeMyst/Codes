@@ -1,1 +1,1 @@
-Section 2 : Salarié saisonnier.
+Section 2 : Salarié saisonnier. 

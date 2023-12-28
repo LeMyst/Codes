@@ -1,1 +1,1 @@
-Section 2 : Dispositions générales
+Section 2 :  Dispositions générales

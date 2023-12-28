@@ -1,1 +1,1 @@
-Sous-section 3 : Consigne de sécurité incendie
+ Sous-section 3 : Consigne de sécurité incendie

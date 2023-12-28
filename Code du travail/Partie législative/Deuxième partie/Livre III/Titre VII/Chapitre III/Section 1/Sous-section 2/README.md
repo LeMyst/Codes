@@ -1,1 +1,1 @@
-Sous-section 2 : Attributions, composition et fonctionnement.
+Sous-section 2 :  Attributions, composition et fonctionnement.

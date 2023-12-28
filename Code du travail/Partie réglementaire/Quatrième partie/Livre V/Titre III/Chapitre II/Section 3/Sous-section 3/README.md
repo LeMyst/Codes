@@ -1,1 +1,1 @@
-Sous-section 3 : Registre-journal.
+ Sous-section 3 : Registre-journal.

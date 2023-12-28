@@ -1,1 +1,1 @@
-Sous-section 1 : Modalités de fixation.
+ Sous-section 1 : Modalités de fixation.

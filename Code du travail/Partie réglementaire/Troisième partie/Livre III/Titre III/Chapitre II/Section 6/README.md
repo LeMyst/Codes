@@ -1,1 +1,1 @@
-Section 6 : Indisponibilité des sommes, déblocage anticipé et liquidation.
+ Section 6 : Indisponibilité des sommes, déblocage anticipé et liquidation.

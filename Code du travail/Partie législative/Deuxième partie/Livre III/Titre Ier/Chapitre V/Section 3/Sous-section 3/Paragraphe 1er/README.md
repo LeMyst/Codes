@@ -1,1 +1,1 @@
-Paragraphe 1er : Périodicité
+Paragraphe 1er : Périodicité 

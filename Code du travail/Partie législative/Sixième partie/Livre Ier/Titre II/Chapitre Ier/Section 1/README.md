@@ -1,1 +1,1 @@
-Section 1 : Compétences des régions
+Section 1 :  Compétences des régions

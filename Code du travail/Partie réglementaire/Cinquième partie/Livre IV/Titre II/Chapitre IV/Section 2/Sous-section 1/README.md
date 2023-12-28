@@ -1,1 +1,1 @@
-Sous-section 1 : Champ d'application.
+ Sous-section 1 : Champ d'application.

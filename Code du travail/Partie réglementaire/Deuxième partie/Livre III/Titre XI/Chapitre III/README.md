@@ -1,1 +1,1 @@
-Chapitre III : Fonctionnement des commissions
+Chapitre III :  Fonctionnement des commissions

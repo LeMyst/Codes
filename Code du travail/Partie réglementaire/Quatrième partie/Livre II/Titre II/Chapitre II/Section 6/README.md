@@ -1,1 +1,1 @@
-Section 6 : Travaux en espace confiné
+ Section 6 : Travaux en espace confiné

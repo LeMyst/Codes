@@ -1,1 +1,1 @@
-Sous-section 1 : Choix de placement.
+ Sous-section 1 : Choix de placement.

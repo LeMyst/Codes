@@ -1,1 +1,1 @@
-Section 7 : Protection individuelle
+ Section 7 : Protection individuelle

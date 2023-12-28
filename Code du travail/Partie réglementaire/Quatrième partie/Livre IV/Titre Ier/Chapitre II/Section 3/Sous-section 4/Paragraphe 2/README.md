@@ -1,1 +1,1 @@
-Paragraphe 2 : Définition d'un mode opératoire
+ Paragraphe 2 : Définition d'un mode opératoire

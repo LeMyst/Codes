@@ -1,1 +1,1 @@
-Section 2 : Protocole de sécurité.
+ Section 2 : Protocole de sécurité.

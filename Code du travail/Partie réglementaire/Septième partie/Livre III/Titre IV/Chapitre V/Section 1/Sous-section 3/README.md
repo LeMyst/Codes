@@ -1,1 +1,1 @@
-Sous-section 3 : Conseil des acteurs des plateformes
+ Sous-section 3 : Conseil des acteurs des plateformes 

@@ -1,1 +1,1 @@
-Section 1 : Détermination des sièges
+Section 1 : Détermination des sièges 

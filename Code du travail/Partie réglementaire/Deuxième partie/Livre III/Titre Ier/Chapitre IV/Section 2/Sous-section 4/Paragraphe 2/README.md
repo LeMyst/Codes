@@ -1,1 +1,1 @@
-Paragraphe 2 : Attribution des sièges
+Paragraphe 2 : Attribution des sièges 

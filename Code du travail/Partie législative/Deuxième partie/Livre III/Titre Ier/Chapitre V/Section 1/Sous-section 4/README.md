@@ -1,1 +1,1 @@
-Sous-section 4 : Affichage
+ Sous-section 4 : Affichage

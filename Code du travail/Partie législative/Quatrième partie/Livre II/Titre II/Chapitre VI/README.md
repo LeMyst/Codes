@@ -1,1 +1,1 @@
-Chapitre VI : Installations électriques.
+Chapitre VI : Installations électriques. 

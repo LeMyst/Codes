@@ -1,1 +1,1 @@
-Paragraphe 2 : Champ de la négociation des autres commissions
+Paragraphe 2 : Champ de la négociation des autres commissions 

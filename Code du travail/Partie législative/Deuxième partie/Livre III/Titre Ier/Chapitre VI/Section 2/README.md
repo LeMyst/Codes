@@ -1,1 +1,1 @@
-Section 2 : Comité social et économique d'établissement
+Section 2 : Comité social et économique d'établissement 

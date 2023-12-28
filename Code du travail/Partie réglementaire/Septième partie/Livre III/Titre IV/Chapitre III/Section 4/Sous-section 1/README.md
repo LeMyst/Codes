@@ -1,1 +1,1 @@
-Sous-section 1 : Publicité et dépôt des accords de secteur
+Sous-section 1 : Publicité et dépôt des accords de secteur 

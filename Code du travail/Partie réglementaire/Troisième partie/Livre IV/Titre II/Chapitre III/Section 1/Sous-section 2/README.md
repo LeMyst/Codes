@@ -1,1 +1,1 @@
-Sous-section 2 : Allocation complémentaire.
+ Sous-section 2 : Allocation complémentaire.

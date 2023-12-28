@@ -1,1 +1,2 @@
-Section 2 : Représentativité au niveau national et multi-professionnel
+Section 2 : Représentativité au niveau national
+et multi-professionnel

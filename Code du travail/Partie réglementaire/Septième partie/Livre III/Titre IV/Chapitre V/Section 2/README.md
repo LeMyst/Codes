@@ -1,1 +1,1 @@
-Section 2 : Régime financier et comptable
+Section 2 : Régime financier et comptable 

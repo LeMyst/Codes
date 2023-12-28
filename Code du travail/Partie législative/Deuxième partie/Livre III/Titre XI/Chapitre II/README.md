@@ -1,1 +1,1 @@
-Chapitre II : Composition et mandat
+Chapitre II : Composition et mandat 

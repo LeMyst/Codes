@@ -1,1 +1,1 @@
-Sixième partie : La formation professionnelle tout au long de la vie
+Sixième partie : La formation professionnelle tout au long de la vie 

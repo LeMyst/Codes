@@ -1,1 +1,1 @@
-Sous-section 6 : Éclairage
+ Sous-section 6 : Éclairage

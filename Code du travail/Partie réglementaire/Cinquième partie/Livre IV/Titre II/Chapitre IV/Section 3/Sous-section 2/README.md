@@ -1,1 +1,1 @@
-Sous-section 2 : Allocation de solidarité spécifique.
+ Sous-section 2 : Allocation de solidarité spécifique.

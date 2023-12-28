@@ -1,1 +1,1 @@
-Sous-section 2 : Recueil de renseignements et de documents
+Sous-section 2 : Recueil de renseignements et de documents 

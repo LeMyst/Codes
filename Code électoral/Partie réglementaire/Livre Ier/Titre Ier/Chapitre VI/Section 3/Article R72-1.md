@@ -1,3 +1,5 @@
+# Article R72-1
+
 I.-Sur le territoire national, pour l'établissement de la procuration, le mandant présente en personne le formulaire administratif mentionné au premier alinéa de l'article R. 72 :
 
 1° A un magistrat du siège du tribunal judiciaire de sa résidence ou de son lieu de travail ou au directeur de greffe de ce tribunal ;

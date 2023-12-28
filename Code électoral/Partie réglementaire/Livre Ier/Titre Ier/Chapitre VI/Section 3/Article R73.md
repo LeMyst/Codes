@@ -1,3 +1,5 @@
+# Article R73
+
 La procuration est établie sans frais.
 
 Les mandants doivent justifier de leur identité.

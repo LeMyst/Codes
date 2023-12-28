@@ -1,3 +1,5 @@
+# Article LO142
+
 L'exercice des fonctions publiques non électives est incompatible avec le mandat de député.
 
 Sont exceptés des dispositions du présent article :

@@ -1,3 +1,5 @@
+# Article L49
+
 A partir de la veille du scrutin à zéro heure, il est interdit de :
 
 1° Distribuer ou faire distribuer des bulletins, circulaires et autres documents ;

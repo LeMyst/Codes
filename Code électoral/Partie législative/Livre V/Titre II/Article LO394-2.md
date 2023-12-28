@@ -1,3 +1,5 @@
+# Article LO394-2
+
 I. - Pour l'application de l'article LO 132 en Nouvelle-Calédonie, il y a lieu de lire :
 
 1° " de la Nouvelle-Calédonie " au lieu de : " du conseil régional " ;

@@ -1,3 +1,5 @@
+# Article L52-12
+
 I.-Chaque candidat ou candidat tête de liste soumis au plafonnement des dépenses électorales prévu à l'article L. 52-11 est tenu d'établir un compte de campagne lorsqu'il a obtenu au moins 1 % des suffrages exprimés ou s'il a bénéficié de dons de personnes physiques conformément à l'article L. 52-8 et selon les modalités prévues à l'article 200 du code général des impôts.
 
 Pour la période mentionnée à l'article L. 52-4 du présent code, le compte de campagne retrace, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses engagées ou effectuées en vue de l'élection par le candidat ou le candidat tête de liste ou pour son compte, à l'exclusion des dépenses de la campagne officielle.

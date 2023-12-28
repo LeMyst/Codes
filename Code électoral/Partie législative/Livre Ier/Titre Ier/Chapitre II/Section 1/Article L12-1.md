@@ -1,3 +1,5 @@
+# Article L12-1
+
 I.-Les personnes détenues dans un établissement pénitentiaire situé sur le territoire de la République sont inscrites sur la liste électorale de la commune de leur domicile ou de leur dernière résidence, à condition que cette résidence ait été de six mois au moins.
 
 II.-Par dérogation au I, elles peuvent être inscrites sur la liste électorale de la commune de leur choix parmi les communes suivantes :

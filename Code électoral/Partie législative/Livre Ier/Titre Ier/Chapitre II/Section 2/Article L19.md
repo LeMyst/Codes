@@ -1,3 +1,5 @@
+# Article L19
+
 I.-Dans chaque commune ou, à Paris, Marseille et Lyon, dans chaque arrondissement, une commission de contrôle statue sur les recours administratifs préalables prévus au III de l'article L. 18.
 
 II.-La commission s'assure également de la régularité de la liste électorale. A cette fin, elle a accès à la liste des électeurs inscrits dans la commune extraite du répertoire électoral unique et permanent.

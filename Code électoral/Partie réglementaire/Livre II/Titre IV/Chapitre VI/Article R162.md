@@ -1,3 +1,5 @@
+# Article R162
+
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les sénateurs, les conseillers régionaux, les conseillers départementaux , les conseillers métropolitains de Lyon et les délégués des conseils municipaux désignés dans les conditions prévues au titre III du présent livre.
 
 Sont mentionnés dans cette liste :

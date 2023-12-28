@@ -1,3 +1,5 @@
+# Article L381
+
 Les élections à l'Assemblée de Corse peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout candidat ou tout électeur d'une commune de Corse devant le Conseil d'Etat statuant au contentieux.
 
 Le même droit est ouvert au représentant de l'Etat dans la collectivité de Corse s'il estime que les conditions et les formes légalement prescrites n'ont pas été respectées.

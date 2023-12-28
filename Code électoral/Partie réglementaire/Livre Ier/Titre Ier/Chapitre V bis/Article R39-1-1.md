@@ -1,3 +1,5 @@
+# Article R39-1-1
+
 Lorsqu'il a recours, pour le recueil de fonds en ligne, à un prestataire de services de paiement, le mandataire s'assure :
 
 1° Que la page internet de l'opération de financement comprend bien l'intégralité des mentions prévues par l'article L. 52-9 s'agissant des dons, et des mentions prévues par les troisième et quatrième alinéas de l'article L. 52-7-1 s'agissant de prêts de personnes physiques ;

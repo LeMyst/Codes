@@ -1,3 +1,5 @@
+# Article LO548
+
 I.-Le mandat de conseiller territorial est incompatible :
 
 1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et directeur de préfecture ;

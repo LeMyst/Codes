@@ -1,3 +1,5 @@
+# Article LO227-3
+
 Pour chaque commune et chaque bureau de vote, la liste électorale complémentaire est extraite d'un répertoire électoral unique complémentaire établi par l'Institut national de la statistique et des études économiques conformément à l'article L. 16.
 
 Les dispositions de l'article L. 10, du I de l'article L. 11 et des articles L. 15 à L. 41 et L. 43, dans leur rédaction résultant de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales, qui sont relatives à l'établissement des listes électorales et au contrôle de leur régularité sont applicables à l'établissement des listes électorales complémentaires et au contrôle de leur régularité. Les droits conférés par ces articles aux nationaux français sont exercés par les personnes mentionnées à l'article LO 227-1.

@@ -1,3 +1,5 @@
+# Article R237
+
 Les dispositions de l'article R. 32 ne sont pas applicables aux élections au congrès et aux assemblées de province de la Nouvelle-Calédonie.
 
 La commission de propagande prévue dans chaque province par l'article L. 403 est instituée par arrêté du haut-commissaire publié au Journal officiel de la Nouvelle-Calédonie et installée dès l'ouverture de la campagne électorale.

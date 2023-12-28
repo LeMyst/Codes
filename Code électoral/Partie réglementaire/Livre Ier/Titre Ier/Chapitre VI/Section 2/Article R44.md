@@ -1,3 +1,5 @@
+# Article R44
+
 Les assesseurs de chaque bureau sont désignés conformément aux dispositions ci-après :
 
 - chaque candidat, binôme de candidats ou chaque liste en présence a le droit de désigner un assesseur et un seul pris parmi les électeurs du département ;

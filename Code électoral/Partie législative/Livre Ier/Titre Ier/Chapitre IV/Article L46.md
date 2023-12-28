@@ -1,3 +1,5 @@
+# Article L46
+
 Les fonctions de militaire en position d'activité sont incompatibles avec les mandats qui font l'objet du présent livre.
 
 Le présent article n'est pas applicable au réserviste exerçant une activité en vertu d'un engagement à servir dans la réserve opérationnelle ou au titre de la disponibilité. Toutefois, le réserviste de la gendarmerie nationale ne peut exercer cette activité au sein de la circonscription à l'intérieur de laquelle il exerce un mandat.

@@ -1,3 +1,5 @@
+# Article L558-19
+
 Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin.
 
 Au sein de chaque section, la liste est composée alternativement d'un candidat de chaque sexe.

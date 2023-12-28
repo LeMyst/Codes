@@ -1,3 +1,5 @@
+# Article Annexe tableau n° 5
+
 I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code électoral et fixant la répartition des sièges de sénateurs entre les séries est ainsi rédigé :
 
 |  |  |  |

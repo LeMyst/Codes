@@ -1,3 +1,5 @@
+# Article L154
+
 Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, sexe, date et lieu de naissance, domicile et profession.
 
 A cette déclaration sont jointes une copie du justificatif d'identité du candidat et les pièces de nature à prouver qu'il possède la qualité d'électeur.

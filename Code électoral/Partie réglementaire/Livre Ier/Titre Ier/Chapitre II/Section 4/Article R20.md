@@ -1,3 +1,5 @@
+# Article R20
+
 Pour l'application de l'article L. 37, les listes électorales comportent les informations suivantes :
 
 1° Données d'identification de l'électeur : nom, nom d'usage, prénoms, date de naissance, lieu de naissance ;

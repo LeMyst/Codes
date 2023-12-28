@@ -1,3 +1,5 @@
+# Article R39-1-A
+
 La déclaration du mandataire financier prévue à l'article L. 52-6 est faite par le candidat auprès du représentant de l'Etat dans le département ou la collectivité où se situe la circonscription électorale dans laquelle il se présente ou, lorsque cette déclaration intervient au titre de l'article L. 330-7, à la préfecture de Paris. En cas de scrutin binominal, la déclaration du mandataire financier comporte la signature des deux membres du binôme de candidats. Elle peut être déposée par l'un des membres du binôme ou par une personne mandatée par les deux membres du binôme.
 
 La déclaration comprend :

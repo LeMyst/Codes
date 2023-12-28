@@ -1,3 +1,5 @@
+# Article R66-2
+
 Sont nuls et n'entrent pas en compte dans le résultat du dépouillement :
 
 1° Les bulletins ne répondant pas aux prescriptions légales ou réglementaires édictées pour chaque catégorie d'élections, à l'exception de la prescription relative au grammage, ce dernier pouvant être de 60 à 80 grammes par mètre carré ;

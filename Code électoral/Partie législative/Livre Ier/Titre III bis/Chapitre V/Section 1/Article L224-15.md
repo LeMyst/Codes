@@ -1,3 +1,5 @@
+# Article L224-15
+
 La déclaration de candidature résulte du dépôt auprès des services compétents de l'Etat d'une liste répondant aux conditions fixées aux chapitres II et III du présent titre, ainsi qu'à celles du présent chapitre.
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit établi par ce candidat. A cet effet, chaque candidat établit un mandat signé de lui, confiant au candidat tête de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour.

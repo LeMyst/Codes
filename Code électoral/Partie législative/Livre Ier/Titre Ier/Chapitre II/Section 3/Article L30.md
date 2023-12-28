@@ -1,3 +1,5 @@
+# Article L30
+
 Par dérogation à l'article L. 17, peuvent demander à être inscrits sur la liste électorale de la commune entre le sixième vendredi précédant le scrutin et le dixième jour précédant ce scrutin :
 
 1° Les fonctionnaires et agents des administrations publiques mutés ou admis à faire valoir leurs droits à la retraite après la clôture des délais d'inscription ainsi que les membres de leur famille domiciliés avec eux à la date de la mutation ou de la mise à la retraite ;

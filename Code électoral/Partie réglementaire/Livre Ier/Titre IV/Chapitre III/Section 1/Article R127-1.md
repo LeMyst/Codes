@@ -1,3 +1,5 @@
+# Article R127-1
+
 Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées par les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits dans chaque section, le nombre des conseillers que la loi lui attribue.
 
 Le sectionnement est représenté par un plan déposé à la préfecture et à la mairie de la commune intéressée. Tout électeur peut le consulter et en prendre copie.

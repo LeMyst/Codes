@@ -1,3 +1,5 @@
+# Article L52-7-1
+
 Les personnes physiques peuvent consentir des prêts à un candidat dès lors que ces prêts ne sont pas effectués à titre habituel.
 
 La durée de ces prêts ne peut excéder cinq ans. Un décret en Conseil d'Etat fixe le plafond et les conditions d'encadrement du prêt consenti pour garantir que ce prêt ne constitue pas un don déguisé.

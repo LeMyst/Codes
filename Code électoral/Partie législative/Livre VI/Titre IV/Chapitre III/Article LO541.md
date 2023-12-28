@@ -1,3 +1,5 @@
+# Article LO541
+
 Nul ne peut être candidat sur plus d'une liste ni, au sein de chaque liste, sur plus d'une section.
 
 Une déclaration de candidature est obligatoire pour chaque liste avant chaque tour de scrutin.

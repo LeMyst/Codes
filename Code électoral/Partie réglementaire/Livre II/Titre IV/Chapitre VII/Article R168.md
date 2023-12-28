@@ -1,3 +1,5 @@
+# Article R168
+
 Dans les départements où fonctionne le scrutin majoritaire à deux tours, le premier scrutin est ouvert à huit heures trente et clos à onze heures ; le second scrutin est ouvert à quinze heures trente et clos à dix-sept heures trente.
 
 Dans les départements soumis au régime de la représentation proportionnelle, le scrutin est ouvert à huit heures trente et clos à dix-sept heures trente.

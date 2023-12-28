@@ -1,3 +1,5 @@
+# Article L72-1
+
 Le majeur protégé exerce personnellement son droit de vote pour lequel il ne peut être représenté par la personne chargée de la mesure de protection le concernant.
 
 Il ne peut donner procuration à l'une des personnes suivantes :

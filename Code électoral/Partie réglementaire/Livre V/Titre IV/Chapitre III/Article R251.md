@@ -1,3 +1,5 @@
+# Article R251
+
 La commission de recensement général des votes mentionnée à l'article L. 416 est instituée par arrêté du haut-commissaire de la République publié au Journal officiel de la Polynésie française.
 
 La commission comprend un magistrat, président, désigné par le premier président de la cour d'appel, deux membres désignés par la même autorité parmi les auxiliaires de justice de la Polynésie française, et un fonctionnaire désigné par le haut-commissaire.

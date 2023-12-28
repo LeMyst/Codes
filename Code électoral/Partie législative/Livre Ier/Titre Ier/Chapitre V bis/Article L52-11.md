@@ -1,3 +1,5 @@
+# Article L52-11
+
 Pour les élections auxquelles l'article L. 52-4 est applicable, il est institué un plafond des dépenses électorales (1), autres que les dépenses de propagande directement prises en charge par l'Etat, exposées par chaque candidat ou chaque liste de candidats, ou pour leur compte, au cours de la période mentionnée au même article.
 
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au tableau ci-après :

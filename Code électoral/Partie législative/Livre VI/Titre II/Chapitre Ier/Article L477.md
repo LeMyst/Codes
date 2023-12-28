@@ -1,3 +1,5 @@
+# Article L477
+
 Pour l'application des dispositions du présent code à Saint-Barthélemy, il y a lieu de lire :
 
 1° " collectivité " et " de la collectivité " au lieu respectivement de : " département " ou " arrondissement " et de : " départemental " ;

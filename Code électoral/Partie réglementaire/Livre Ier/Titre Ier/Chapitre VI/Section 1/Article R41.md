@@ -1,3 +1,5 @@
+# Article R41
+
 Le scrutin est ouvert à huit heures et clos le même jour à dix-huit heures.
 
 Toutefois, pour faciliter aux électeurs l'exercice de leur droit de vote, les préfets pourront prendre des arrêtés à l'effet d'avancer l'heure d'ouverture du scrutin ou de retarder son heure de clôture dans certaines communes.

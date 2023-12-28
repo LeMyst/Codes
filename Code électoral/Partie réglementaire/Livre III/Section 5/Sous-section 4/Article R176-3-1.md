@@ -1,3 +1,5 @@
+# Article R176-3-1
+
 Les opérations de vote par voie électronique sont placées sous le contrôle d'un bureau du vote électronique composé :
 
 1° D'un membre du Conseil d'Etat ou de son suppléant, également membre du Conseil d'Etat, désignés pour cinq ans par le vice-président du Conseil d'Etat, président ;

@@ -1,3 +1,5 @@
+# Article R176-4-6
+
 Ne donnent pas lieu à émargement les enveloppes d'identification :
 
 1° Reçues au nom d'un même électeur ou d'un électeur ayant déjà pris part au vote par voie électronique ;

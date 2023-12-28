@@ -1,3 +1,5 @@
+# Article R150
+
 Dans les départements où les élections ont lieu au scrutin majoritaire, les candidats peuvent se présenter soit isolément, soit sur une liste.
 
 En cas de décès d'un candidat isolé, son remplaçant devient candidat et peut désigner un nouveau remplaçant.

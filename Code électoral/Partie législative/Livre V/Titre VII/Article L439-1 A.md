@@ -1,3 +1,5 @@
+# Article L439-1 A
+
 Pour l'application de l'article L. 308-1 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le plafond de dépenses pour l'élection des sénateurs est de 1 193 300 francs CFP par candidat. Il est majoré de 5,96 francs CFP par habitant de la collectivité.
 
 Pour l'application du dernier alinéa du même article L. 308-1, la référence à l'indice des prix à la consommation des ménages, hors tabac, est remplacée :

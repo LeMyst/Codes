@@ -1,3 +1,5 @@
+# Article R72-1-1
+
 I. - Hors de France, pour l'établissement de la procuration, le mandant présente en personne le formulaire administratif mentionné au premier alinéa de l'article R. 72 :
 
 1° A l'ambassadeur pourvu d'une circonscription consulaire ;

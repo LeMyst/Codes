@@ -1,3 +1,5 @@
+# Article LO477-1
+
 Pour l'application de l'article LO. 132 à Saint-Barthélemy, il y a lieu de lire :
 
 1° " de la collectivité de Saint-Barthélemy " au lieu de : " du conseil régional " ;

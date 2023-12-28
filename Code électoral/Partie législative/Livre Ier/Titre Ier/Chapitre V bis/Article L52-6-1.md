@@ -1,3 +1,5 @@
+# Article L52-6-1
+
 Tout mandataire déclaré conformément aux articles L. 52-5 et L. 52-6 a droit à l'ouverture d'un compte de dépôt dans l'établissement de crédit de son choix ainsi qu'à la mise à disposition des moyens de paiement et services bancaires nécessaires à son fonctionnement. L'ouverture de ce compte intervient sur présentation d'une attestation sur l'honneur du mandataire qu'il ne dispose pas déjà d'un compte en tant que mandataire du candidat.
 
 L'établissement de crédit qui a refusé l'ouverture d'un compte remet systématiquement, gratuitement et sans délai au demandeur une attestation de refus d'ouverture de compte et l'informe qu'il peut demander à la Banque de France de lui désigner un établissement de crédit pour lui ouvrir un compte. A défaut de réponse de l'établissement de crédit dans un délai de quinze jours à compter de la demande d'ouverture de ce compte, la demande est réputée refusée.

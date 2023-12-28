@@ -1,3 +1,5 @@
+# Article LO438-2
+
 Les dispositions organiques du livre II, à l'exception de l'article LO. 274, sont applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des dispositions suivantes :
 
 1° Pour la Nouvelle-Calédonie, il y a lieu de lire :

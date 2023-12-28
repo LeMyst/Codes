@@ -1,3 +1,5 @@
+# Article R34
+
 La commission de propagande reçoit du préfet le matériel nécessaire à l'expédition des circulaires et bulletins de vote et fait préparer les libellés d'envoi.
 
 Elle est chargée :

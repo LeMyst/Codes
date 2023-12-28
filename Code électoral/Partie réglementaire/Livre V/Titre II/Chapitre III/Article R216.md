@@ -1,3 +1,5 @@
+# Article R216
+
 I.-Sauf le cas de dissolution de l'Assemblée nationale, pour le premier tour de scrutin, les déclarations de candidatures sont reçues dans les services du représentant de l'Etat en Nouvelle-Calédonie et dans les îles Wallis et Futuna à partir du quatrième lundi qui précède le jour de l'élection, et, en Polynésie française, à partir du lendemain de la publication au Journal officiel de la République française du décret portant convocation des électeurs.
 
 Pour le second tour, les déclarations de candidatures sont reçues à partir de la proclamation des résultats par la commission de recensement général des votes.

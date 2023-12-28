@@ -1,3 +1,5 @@
+# Article R176-3-9
+
 Pour voter par voie électronique, l'électeur, après s'être connecté au système de vote et identifié à l'aide de l'identifiant et du mot de passe prévus à l'article R. 176-3-7, exprime puis valide son vote au moyen d'un code de confirmation qui lui est communiqué selon des modalités précisées par l'arrêté mentionné au III de l'article R. 176-3.
 
 Tant qu'il n'a pas validé son vote par voie électronique, l'électeur conserve la possibilité de voter à l'urne, par procuration ou par correspondance sous pli fermé, dans les conditions prévues à la présente section.

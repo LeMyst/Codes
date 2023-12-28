@@ -1,3 +1,5 @@
+# Article R109-1
+
 La déclaration de candidature prescrite à l'article L. 210-1 est déposée à la préfecture par un membre du binôme de candidats, son remplaçant ou un mandataire désigné par les deux membres du binôme de candidats, dans le délai fixé par arrêté préfectoral, pour le premier tour de scrutin. En cas de second tour, elle est déposée dans les mêmes conditions au plus tard à seize heures le mardi suivant le premier tour.
 
 La déclaration de candidature est rédigée sur un imprimé.

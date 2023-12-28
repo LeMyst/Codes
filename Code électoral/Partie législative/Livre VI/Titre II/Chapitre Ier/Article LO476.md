@@ -1,3 +1,5 @@
+# Article LO476
+
 Pour l'application du présent code à Saint-Barthélemy, il y a lieu de lire :
 
 1° " collectivité " au lieu de : " département " ;

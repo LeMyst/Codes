@@ -1,3 +1,5 @@
+# Article R203
+
 Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire :
 
 1° " Territoire ", au lieu de : " département " ;

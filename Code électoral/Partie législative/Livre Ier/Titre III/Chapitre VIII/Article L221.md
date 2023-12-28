@@ -1,3 +1,5 @@
+# Article L221
+
 I. - En cas de démission d'office déclarée en application de l'article L. 118-3 ou en cas d'annulation de l'élection d'un candidat ou d'un binôme de candidats, il est procédé à une élection partielle, dans les conditions prévues au VI du présent article, dans le délai de trois mois à compter de cette déclaration ou de cette annulation.
 
 II. - Le conseiller départemental dont le siège devient vacant pour toute autre cause que celles mentionnées au I est remplacé par la personne élue en même temps que lui à cet effet.

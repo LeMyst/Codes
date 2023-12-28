@@ -1,3 +1,5 @@
+# Article R117-1-1-A
+
 I.-Pour l'application des dispositions du présent code à la Collectivité européenne d'Alsace, sauf disposition contraire, la référence au département s'entend des départements du Bas-Rhin ou du Haut-Rhin, en tant que circonscriptions administratives de l'Etat.
 
 II.-Par exception au I, pour la Collectivité européenne d'Alsace :

@@ -1,3 +1,5 @@
+# Article L433
+
 La déclaration comporte la signature de chaque candidat, sous réserve de la possibilité pour tout candidat de compléter la déclaration collective non signée par une déclaration individuelle faite dans le même délai et portant sa signature ainsi que la mention manuscrite suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection municipale sur la liste menée par (indication des nom et prénoms du candidat tête de liste). ” Elle est assortie de la copie d'un justificatif d'identité de chacun des candidats. Elle désigne expressément :
 
 1° Le titre de la liste présentée ;

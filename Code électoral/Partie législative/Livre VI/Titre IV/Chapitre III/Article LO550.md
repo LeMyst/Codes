@@ -1,3 +1,5 @@
+# Article LO550
+
 Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO. 548 doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
 
 A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité visés au I de l'article LO. 548 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.

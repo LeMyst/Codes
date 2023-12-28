@@ -1,3 +1,5 @@
+# Article R61
+
 Un assesseur est chargé de veiller à l'application des dispositions du dernier alinéa de l'article L. 62-1 et du second alinéa de l'article L. 64.
 
 Après la signature de la liste d'émargement, la carte électorale ou l'attestation d'inscription en tenant lieu est estampillée par un autre assesseur au moyen d'un timbre portant la date du scrutin.

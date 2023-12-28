@@ -1,3 +1,5 @@
+# Article L558-23
+
 Pour les déclarations de candidature avant le premier tour, le candidat désigné tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort duquel se trouve le chef-lieu de la collectivité territoriale, qui statue dans les trois jours.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des articles L. 558-10, L. 558-11, L. 558-14 ou L. 558-21, la liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus.

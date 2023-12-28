@@ -1,3 +1,5 @@
+# Article L425
+
 Les antennes de la société nationale chargée du service public de la communication audiovisuelle sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée, pour une durée totale de trois heures à la télévision et de trois heures à la radio.
 
 Ces durées sont réparties également entre les listes. Les listes présentées dans des circonscriptions différentes peuvent décider d'utiliser en commun leur temps d'antenne.

@@ -1,3 +1,5 @@
+# Article L273-9
+
 I. ― La liste des candidats aux sièges de conseiller communautaire figure de manière distincte sur le même bulletin que la liste des candidats au conseil municipal dont elle est issue.
 
 Sous réserve du II, la présentation de la liste des candidats au conseil municipal et à l'organe délibérant de l'établissement public de coopération intercommunale à fiscalité propre est soumise aux règles suivantes :

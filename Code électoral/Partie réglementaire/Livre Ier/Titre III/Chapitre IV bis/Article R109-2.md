@@ -1,3 +1,5 @@
+# Article R109-2
+
 A la déclaration de candidature, il est joint pour chaque membre du binôme de candidats et son remplaçant :
 
 I.-Une attestation d'inscription sur une liste électorale comportant nom, prénoms, date de naissance, sexe et lieu de vote de l'intéressé, délivrée par le maire de la commune d'inscription ou générée par la télé-procédure mentionnée à l'article 5 du décret n° 2018-343 du 9 mai 2018 dans les trente jours précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité, le passeport ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois.

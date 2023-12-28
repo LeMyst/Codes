@@ -1,3 +1,5 @@
+# Article L265
+
 La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions fixées aux articles L. 260, L. 263, L. 264 et LO. 265-1. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tours. La liste déposée indique expressément :

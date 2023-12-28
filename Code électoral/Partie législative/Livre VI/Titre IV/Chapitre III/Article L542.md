@@ -1,3 +1,5 @@
+# Article L542
+
 I.-La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux conditions fixées aux articles LO. 539 et LO. 541. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.

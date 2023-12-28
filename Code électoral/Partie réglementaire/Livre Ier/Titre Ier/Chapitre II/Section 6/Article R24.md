@@ -1,3 +1,5 @@
+# Article R24
+
 Les personnes inscrites sur les listes électorales de la commune qui ont atteint l'âge de dix-huit ans se voient remettre leur première carte électorale lors d'une cérémonie de citoyenneté organisée par le maire.
 
 Cette cérémonie ne peut pas être organisée durant la campagne électorale d'un scrutin concernant tout ou partie du territoire de la commune.

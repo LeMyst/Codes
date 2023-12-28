@@ -1,3 +1,5 @@
+# Article R39-1
+
 Lors de la perception d'un don, le mandataire prévu par le premier alinéa de l'article L. 52-4 enregistre les informations suivantes qui doivent figurer dans une annexe du compte de campagne du candidat sur support papier ou numérique : le montant du don, sa date de versement, son mode de règlement, l'identité, la nationalité et l'adresse du domicile fiscal du donateur.
 
 Ces informations doivent être reportées soit sur un reçu détaché d'une formule numérotée éditée par la Commission nationale des comptes de campagne et des financements politiques, soit sur un reçu numéroté édité dans le cadre d'un téléservice mis en œuvre par la commission.

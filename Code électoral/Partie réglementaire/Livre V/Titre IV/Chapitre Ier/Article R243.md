@@ -1,3 +1,5 @@
+# Article R243
+
 L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, pour la circonscription, par le haut-commissaire de la République et publié au Journal officiel de la Polynésie française au plus tard quatre jours après la date de clôture du dépôt des listes pour le premier tour de scrutin, et deux jours après la date de clôture des listes pour le second tour. Il est notifié aux maires.
 
 Cet état indique, pour chaque liste :

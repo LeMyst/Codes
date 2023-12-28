@@ -1,3 +1,5 @@
+# Article L280
+
 La composition du collège électoral appelé à élire les sénateurs assure, dans chaque département, la représentation des différentes catégories de collectivités territoriales et de la diversité des communes, en tenant compte de la population qui y réside.
 
 Ce collège électoral est composé :

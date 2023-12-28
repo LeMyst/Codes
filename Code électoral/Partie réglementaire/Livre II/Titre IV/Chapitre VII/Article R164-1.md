@@ -1,3 +1,5 @@
+# Article R164-1
+
 Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers départementaux et les conseillers métropolitains de Lyon qui souhaitent exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le début du scrutin.
 
 Cette demande doit préciser la nature de l'empêchement majeur invoqué par le mandant résultant d'une obligation professionnelle, d'un handicap, d'une raison de santé, de l'assistance apportée à une personne malade ou infirme, d'un placement en détention provisoire ou de l'exécution d'une peine privative de liberté n'entraînant pas une incapacité électorale.

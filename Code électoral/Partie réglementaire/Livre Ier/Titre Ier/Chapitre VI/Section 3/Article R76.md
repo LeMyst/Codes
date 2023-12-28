@@ -1,3 +1,5 @@
+# Article R76
+
 Pour chaque procuration, le nom du mandataire est mentionné à côté du nom du mandant sur la liste d'émargement extraite du répertoire électoral unique.
 
 A défaut d'une telle mention, le maire inscrit sur la liste d'émargement, à côté du nom du mandant, celui du mandataire. Les caractères utilisés pour porter cette mention manuscrite se distinguent avec netteté de ceux qui sont utilisés pour l'édition des autres indications figurant sur la liste.

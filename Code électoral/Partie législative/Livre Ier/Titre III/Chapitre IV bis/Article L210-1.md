@@ -1,3 +1,5 @@
+# Article L210-1
+
 Les candidats présentés en binôme en vue de l'élection au conseil départemental souscrivent, avant chaque tour de scrutin, une déclaration conjointe de candidature dans les conditions prévues par décret en Conseil d'Etat. Cette déclaration, revêtue de la signature des deux candidats, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun d'entre eux. Elle mentionne également pour chaque candidat la personne appelée à le remplacer comme conseiller départemental dans le cas prévu au II l'article L. 221. Les articles L. 155 et L. 163 sont applicables à la désignation du remplaçant. Pour l'application du premier alinéa de l'article L. 155, la mention manuscrite est la suivante : “ La présente signature marque mon consentement à être remplaçant (e) de (indication des nom et prénoms du candidat de même sexe), candidat à l'élection au conseil départemental. ”
 
 Le candidat et son remplaçant sont de même sexe.

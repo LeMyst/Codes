@@ -1,3 +1,5 @@
+# Article L558-25
+
 La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci.
 
 La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi.

@@ -1,3 +1,5 @@
+# Article LO147-1
+
 Le mandat de député est incompatible avec les fonctions de président et de vice-président :
 
 1° Du conseil d'administration d'un établissement public local ;

@@ -1,3 +1,5 @@
+# Article L428
+
 Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les dispositions du titre IV du livre Ier sont applicables, dans leur rédaction résultant de la loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral, sous réserve des dispositions prévues au présent chapitre.
 
 Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :

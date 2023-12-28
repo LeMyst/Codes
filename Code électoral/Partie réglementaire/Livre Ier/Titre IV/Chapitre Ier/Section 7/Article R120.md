@@ -1,3 +1,5 @@
+# Article R120
+
 Le tribunal administratif prononce sa décision dans le délai de deux mois à compter de l'enregistrement de la réclamation au greffe (bureau central ou greffe annexe) et la notification en est faite dans les huit jours à partir de sa date, dans les conditions fixées à l'article R. 751-3 du code de justice administrative. En cas de renouvellement général, le délai est porté à trois mois.
 
 S'il intervient une décision ordonnant une preuve, le tribunal administratif doit statuer définitivement dans le mois à partir de cette décision.

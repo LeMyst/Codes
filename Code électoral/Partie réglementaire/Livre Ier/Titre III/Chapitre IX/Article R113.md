@@ -1,3 +1,5 @@
+# Article R113
+
 Lorsque la protestation formée contre l'élection au conseil départemental par un électeur du canton, par un membre d'un binôme de candidats, par son remplaçant ou par un membre du conseil départemental a été consignée dans le procès-verbal des opérations électorales, conformément à l'article L. 222, ce procès-verbal doit être transmis dès sa réception par le préfet au greffe du tribunal administratif.
 
 Les protestations peuvent également être déposées directement au greffe du tribunal administratif au plus tard à dix-huit heures le cinquième jour qui suit l'élection.

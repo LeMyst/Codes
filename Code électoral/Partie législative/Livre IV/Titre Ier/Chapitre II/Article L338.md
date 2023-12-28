@@ -1,3 +1,5 @@
+# Article L338
+
 Les conseillers régionaux sont élus dans chaque région au scrutin de liste à deux tours sans adjonction ni suppression de noms et sans modification de l'ordre de présentation. Chaque liste est constituée d'autant de sections qu'il y a de départements dans la région.
 
 Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre de sièges égal au quart du nombre des sièges à pourvoir, arrondi à l'entier supérieur. Cette attribution opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de l'application du quatrième alinéa ci-après.

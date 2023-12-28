@@ -1,3 +1,5 @@
+# Article L418
+
 I. - Toute liste fait l'objet d'une déclaration de candidature collective revêtue de la signature de tous les candidats et déposée, par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit établi par ce candidat, auprès des services de l'administrateur supérieur au plus tard le vingt et unième jour précédant la date du scrutin. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection de l'assemblée territoriale des îles Wallis et Futuna sur la liste menée par (indication des nom et prénoms du candidat tête de liste). ” A défaut de signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de la déclaration.
 
 II. - La déclaration mentionne :

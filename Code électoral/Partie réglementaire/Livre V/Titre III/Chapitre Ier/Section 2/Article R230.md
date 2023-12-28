@@ -1,3 +1,5 @@
+# Article R230
+
 Les demandes mentionnées à l'article R. 229 sont recevables jusqu'au vingtième jour précédant celui du scrutin. Elles sont transmises sans délai par l'autorité municipale à la commission administrative spéciale qui statue dans les dix jours et au plus tard quinze jours avant le scrutin.
 
 Lorsque la commission refuse d'inscrire un électeur, sa décision est notifiée dans les deux jours à l'intéressé, par écrit et à domicile, par les soins de l'administration municipale. Il est fait mention de cette notification et de sa date sur le registre prévu au premier alinéa de l'article R. 222.

@@ -1,3 +1,5 @@
+# Article R174-1
+
 Pour l'application des articles R. 29, R. 34, R. 36 et R. 38, la commission électorale mentionnée à l'article L. 330-6 est substituée à la commission de propagande.
 
 En outre :

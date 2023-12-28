@@ -1,3 +1,5 @@
+# Article L288
+
 Dans les communes visées au chapitre II du titre IV du livre Ier du présent code, l'élection des délégués et celle des suppléants se déroulent séparément dans les conditions suivantes. Le vote a lieu au scrutin secret majoritaire à deux tours. Nul n'est élu délégué ou suppléant au premier tour s'il n'a réuni la majorité absolue des suffrages exprimés. Au second tour, la majorité relative suffit. En cas d'égalité des suffrages, le candidat le plus âgé est élu.
 
 Les candidats peuvent se présenter soit isolément, soit sur une liste qui peut ne pas être complète. Les adjonctions et les suppressions de noms sont autorisées.

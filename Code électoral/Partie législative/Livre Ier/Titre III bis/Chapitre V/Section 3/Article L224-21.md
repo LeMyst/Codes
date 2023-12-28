@@ -1,3 +1,5 @@
+# Article L224-21
+
 Le candidat tête de liste ou son représentant peut contester devant le tribunal administratif compétent le refus d'enregistrement qui lui a été opposé dans les vingt-quatre heures de la notification de ce refus.
 
 Si le tribunal administratif n'a pas statué dans le délai de trois jours qui suivent celui de sa saisine, la candidature est enregistrée par l'autorité compétente.

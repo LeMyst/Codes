@@ -1,3 +1,5 @@
+# Article R119
+
 Les réclamations contre les opérations électorales doivent être consignées au procès-verbal, sinon être déposées, à peine d'irrecevabilité, au plus tard à dix-huit heures le cinquième jour qui suit l'élection, à la sous-préfecture ou à la préfecture. Elles sont immédiatement adressées au préfet qui les fait enregistrer au greffe du tribunal administratif.
 
 Les protestations peuvent également être déposées directement au greffe du tribunal administratif dans le même délai.

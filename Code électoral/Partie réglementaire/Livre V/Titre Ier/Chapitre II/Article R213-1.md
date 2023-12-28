@@ -1,3 +1,5 @@
+# Article R213-1
+
 Pour l'application de la section 3 du chapitre VI du titre Ier du livre Ier en Nouvelle-Calédonie :
 
 1° Pour l'établissement d'une procuration dont le mandant est inscrit sur la liste électorale d'une commune située hors de Nouvelle-Calédonie ou d'une circonscription consulaire et le mandataire inscrit sur la liste électorale d'une commune située en Nouvelle-Calédonie, la télé-procédure mentionnée à l'article R. 72 n'est pas applicable ;

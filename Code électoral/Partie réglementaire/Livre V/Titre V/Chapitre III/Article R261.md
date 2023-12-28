@@ -1,3 +1,5 @@
+# Article R261
+
 N'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal :
 
 1° Les bulletins non conformes aux dispositions de l'article L. 52-3 ;

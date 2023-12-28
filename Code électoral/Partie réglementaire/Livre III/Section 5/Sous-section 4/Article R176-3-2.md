@@ -1,3 +1,5 @@
+# Article R176-3-2
+
 Chaque candidat peut désigner un délégué habilité à contrôler les opérations de vote par voie électronique. Les délégués sont informés des réunions du bureau du vote électronique auxquelles ils peuvent assister avec voix consultative.
 
 Les nom, prénoms, date et lieu de naissance et adresse des délégués sont notifiés au président du bureau du vote électronique au plus tard le deuxième lundi précédant la date du scrutin, à dix-huit heures (heure légale de Paris).

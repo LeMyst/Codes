@@ -1,3 +1,5 @@
+# Article R163
+
 Le bureau du collège électoral est présidé par le président du tribunal judiciaire, assisté des deux conseillers départementaux les plus âgés présents à l'ouverture du scrutin et non candidats.
 
 En cas d'empêchement, le premier président de la cour d'appel désignera un suppléant.

@@ -1,3 +1,5 @@
+# Article L387
+
 Pour l'application des dispositions du présent code dans les îles Wallis et Futuna, il y a lieu de lire :
 
 1° " territoire " au lieu de : " département " ;

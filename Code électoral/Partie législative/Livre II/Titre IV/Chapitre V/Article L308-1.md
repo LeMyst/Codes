@@ -1,3 +1,5 @@
+# Article L308-1
+
 Le chapitre V bis du titre Ier du livre Ier est applicable aux candidats aux élections sénatoriales.
 
 Le plafond des dépenses pour l'élection des sénateurs est de 10 000 € par candidat ou par liste. Il est majoré de :

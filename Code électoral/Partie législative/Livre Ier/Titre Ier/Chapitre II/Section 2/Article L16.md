@@ -1,3 +1,5 @@
+# Article L16
+
 I.-La liste électorale de la commune est extraite d'un répertoire électoral unique et permanent. Ce répertoire est tenu par l'Institut national de la statistique et des études économiques aux seules fins de gestion du processus électoral. A Paris, Marseille et Lyon, la liste électorale est extraite par arrondissement.
 
 Le répertoire électoral unique comprend les nom, prénoms, date et lieu de naissance, domicile ou lieu de résidence de chaque électeur, ainsi que toutes autres informations définies par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, nécessaires à la bonne tenue du répertoire.

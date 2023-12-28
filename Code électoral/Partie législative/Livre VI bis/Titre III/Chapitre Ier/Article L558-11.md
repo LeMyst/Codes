@@ -1,3 +1,5 @@
+# Article L558-11
+
 Ne sont pas éligibles :
 
 1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie du territoire de la collectivité territoriale ;

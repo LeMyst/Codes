@@ -1,3 +1,5 @@
+# Article L255-4
+
 Une déclaration de candidature est obligatoire au premier tour du scrutin pour tous les candidats et, au second tour, pour les candidats qui ne se sont pas présentés au premier tour.
 
 Elle est déposée à la préfecture ou à la sous-préfecture au plus tard :

@@ -1,3 +1,5 @@
+# Article R128
+
 A la déclaration de candidature en vue du premier tour, il est joint, pour chaque candidat visé à l'article L. 265 :
 
 1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale de cette commune comportant les nom, prénoms, date de naissance, sexe et lieu de vote de l'intéressé, délivrée par le maire ou générée par la télé-procédure mentionnée à l'article 5 du décret n° 2018-343 du 9 mai 2018 dans les trente jours précédant la date du dépôt de la candidature ou une copie de la décision de justice ordonnant l'inscription de l'intéressé ;

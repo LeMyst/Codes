@@ -1,3 +1,5 @@
+# Article L293-2
+
 L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité de Corse au sein du collège électoral du département de Corse-du-Sud.
 
 Chaque conseiller ou groupe de conseillers peut présenter avec l'accord des intéressés une liste de candidats en nombre au plus égal à celui des sièges à pourvoir.

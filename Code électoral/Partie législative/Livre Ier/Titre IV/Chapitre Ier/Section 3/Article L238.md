@@ -1,3 +1,5 @@
+# Article L238
+
 Nul ne peut être membre de plusieurs conseils municipaux.
 
 Toute personne qui s'est portée candidate et a été élue dans plusieurs circonscriptions électorales municipales le même jour perd de plein droit ses mandats de conseiller municipal.

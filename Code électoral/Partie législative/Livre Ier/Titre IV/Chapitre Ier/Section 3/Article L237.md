@@ -1,3 +1,5 @@
+# Article L237
+
 Les fonctions de conseiller municipal sont incompatibles avec celles :
 
 1° De préfet ou sous-préfet et de secrétaire général de préfecture ;

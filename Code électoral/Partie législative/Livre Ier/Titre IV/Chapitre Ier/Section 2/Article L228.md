@@ -1,3 +1,5 @@
+# Article L228
+
 Nul ne peut être élu conseiller municipal s'il n'est âgé de dix-huit ans révolus.
 
 Sont éligibles au conseil municipal tous les électeurs de la commune et les citoyens inscrits au rôle des contributions directes ou justifiant qu'ils devaient y être inscrits au 1er janvier de l'année de l'élection.

@@ -1,3 +1,5 @@
+# Article L12
+
 Les Français et les Françaises inscrits au registre des Français établis hors de France de la circonscription consulaire dans laquelle ils ont leur résidence peuvent, sur leur demande, être inscrits sur la liste électorale de l'une des communes suivantes :
 
 Commune de naissance ;

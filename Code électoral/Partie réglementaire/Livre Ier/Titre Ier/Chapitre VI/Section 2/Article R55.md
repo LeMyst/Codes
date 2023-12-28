@@ -1,3 +1,5 @@
+# Article R55
+
 Les bulletins de vote déposés par les candidats, binômes de candidats ou les listes, en application de l'article L. 58, ainsi que ceux adressés au maire par la commission de propagande sont placés dans chaque bureau, à la disposition des électeurs, sous la responsabilité du président du bureau de vote.
 
 Les bulletins de vote peuvent être remis directement au maire par les candidats ou leurs mandataires dûment désignés, au plus tard à midi la veille du scrutin.

@@ -1,3 +1,5 @@
+# Article L113-1
+
 I. – Sera puni de trois ans d'emprisonnement et de 45 000 € d'amende tout candidat, en cas de scrutin uninominal ou binominal, ou tout candidat tête de liste, en cas de scrutin de liste, qui :
 
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation de l'article L. 52-4 ;

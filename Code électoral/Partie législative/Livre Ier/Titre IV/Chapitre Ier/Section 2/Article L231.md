@@ -1,3 +1,5 @@
+# Article L231
+
 Ne sont pas éligibles dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans les préfets de région et les préfets, depuis moins de deux ans les sous-préfets, les secrétaires généraux de préfecture et les directeurs de cabinet de préfet, depuis moins d'un an les sous-préfets chargés de mission auprès d'un préfet et les secrétaires généraux ou chargés de mission pour les affaires régionales ou pour les affaires de Corse.
 
 Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de six mois :

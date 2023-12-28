@@ -1,3 +1,5 @@
+# Article R176-1-5
+
 Pour l'application des articles R. 46 et R. 55, l'ambassadeur ou le chef de poste consulaire est substitué au maire.
 
 En outre :

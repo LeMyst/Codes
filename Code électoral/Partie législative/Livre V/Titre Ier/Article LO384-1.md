@@ -1,3 +1,5 @@
+# Article LO384-1
+
 Les dispositions ayant valeur de loi organique du présent code, dans leur rédaction résultant de la loi organique n° 2019-1268 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral, sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. Pour leur application, il y a lieu de lire :
 
 1° Pour la Nouvelle-Calédonie :

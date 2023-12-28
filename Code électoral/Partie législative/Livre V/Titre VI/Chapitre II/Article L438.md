@@ -1,3 +1,5 @@
+# Article L438
+
 Les chapitres II et III du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur de la loi n° 2016-1658 du 5 décembre 2016 relative à l'élection des conseillers municipaux dans les communes associées de la Polynésie française et à la modernisation du code général des collectivités territoriales applicable aux communes de la Polynésie française, à leurs groupements et à leurs établissements publics, sont applicables en Polynésie française sous réserve des adaptations suivantes :
 
 1° Au premier alinéa de l'article L. 255-1, les mots : " comprises dans une commune de 20 000 habitants ou plus " sont supprimés ;

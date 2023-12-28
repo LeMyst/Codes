@@ -1,3 +1,5 @@
+# Article R40
+
 Les électeurs sont répartis par arrêté du préfet en autant de bureaux de vote que l'exigent les circonstances locales et le nombre des électeurs.
 
 Tout arrêté modifiant le périmètre des bureaux de vote doit être notifié au maire avant le 31 août de chaque année. Il entre en vigueur le premier janvier suivant.

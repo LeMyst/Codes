@@ -1,3 +1,5 @@
+# Article LO329
+
 Les chefs de mission diplomatique et les chefs de poste consulaire ne peuvent pas faire acte de candidature à l'élection des députés par les Français établis hors de France dans toute circonscription incluant le ressort dans lequel ils exercent ou ont exercé leurs fonctions depuis moins de trois ans à la date du scrutin.
 
 En outre, ne peuvent être élus dans toute circonscription incluant le ressort dans lequel ils exercent ou ont exercé leurs fonctions depuis moins d'un an à la date du scrutin :

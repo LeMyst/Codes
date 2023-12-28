@@ -1,3 +1,5 @@
+# Article LO136-1
+
 En cas de volonté de fraude ou de manquement d'une particulière gravité aux règles de financement des campagnes électorales, le Conseil constitutionnel, saisi d'une contestation formée contre l'élection ou en application du troisième alinéa de l'article L. 52-15, peut déclarer inéligible :
 
 1° Le candidat qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits à l'article L. 52-12 ;

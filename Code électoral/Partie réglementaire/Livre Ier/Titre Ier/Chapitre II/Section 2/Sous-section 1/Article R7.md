@@ -1,3 +1,5 @@
+# Article R7
+
 Le maire transmet au préfet la liste des conseillers municipaux prêts à participer aux travaux de la commission prévue à l'article L. 19 parmi ceux répondant aux conditions fixées par les IV, V, VI et VII de l'article L. 19.
 
 Dans chaque commune, les membres de la commission prévue à l'article L. 19 sont nommés par arrêté du préfet, pour une durée de trois ans, et après chaque renouvellement intégral du conseil municipal.

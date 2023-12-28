@@ -1,3 +1,5 @@
+# Article L126
+
 Nul n'est élu au premier tour de scrutin s'il n'a réuni :
 
 1° La majorité absolue des suffrages exprimés ;

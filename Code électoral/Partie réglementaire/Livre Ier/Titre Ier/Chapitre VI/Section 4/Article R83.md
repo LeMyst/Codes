@@ -1,3 +1,5 @@
+# Article R83
+
 Les opérations par lesquelles les électeurs expriment leur choix se déroulent au plus tard le samedi précédant le scrutin.
 
 Le chef de l'établissement pénitentiaire met à disposition des électeurs les bulletins de vote et les enveloppes électorales et d'identification mentionnés à l'article R. 82. Il s'assure que chaque électeur est soustrait aux regards pendant qu'il introduit son bulletin dans l'enveloppe électorale, dans des conditions permettant de respecter le secret du vote et la sincérité du scrutin.

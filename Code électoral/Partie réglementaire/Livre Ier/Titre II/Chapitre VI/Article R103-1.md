@@ -1,3 +1,5 @@
+# Article R103-1
+
 I.-En vue de bénéficier des émissions du service public de la communication audiovisuelle prévues à l'article L. 167-1, chaque parti ou groupement politique adresse sa demande au ministre de l'intérieur, par voie dématérialisée, au plus tard le cinquième vendredi qui précède le premier tour de scrutin à 18 heures. Cette demande est signée par le président du parti ou du groupement politique ou, à défaut, par la personne habilitée par ce dernier à cet effet.
 
 La demande indique le nom, l'adresse, le numéro de téléphone, l'adresse électronique et, le cas échéant, le numéro de télécopie du parti ou groupement ainsi que de la personne désignée par ce dernier pour suivre la procédure.

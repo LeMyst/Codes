@@ -1,3 +1,5 @@
+# Article L414
+
 I. - En Polynésie française, les antennes de la société nationale chargée du service public de la communication audiovisuelle outre-mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée.
 
 II. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des listes présentées par les partis et groupements politiques représentés à l'assemblée de la Polynésie française.

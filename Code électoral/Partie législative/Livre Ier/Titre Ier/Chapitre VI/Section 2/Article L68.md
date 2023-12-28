@@ -1,3 +1,5 @@
+# Article L68
+
 Tant au premier tour qu'éventuellement au second tour de scrutin, les listes d'émargement de chaque bureau de vote, ainsi que les documents qui y sont réglementairement annexés, sont joints aux procès-verbaux des opérations de vote transmis immédiatement après le dépouillement du scrutin à la préfecture ou, pour les élections des conseillers départementaux et des conseillers municipaux, à la sous-préfecture.
 
 S'il doit être procédé à un second tour de scrutin, le préfet ou le sous-préfet selon le cas, renvoie les listes d'émargement au maire, au plus tard le mercredi précédant le second tour.

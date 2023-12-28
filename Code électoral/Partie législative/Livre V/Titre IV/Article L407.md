@@ -1,3 +1,5 @@
+# Article L407
+
 La déclaration de candidature résulte du dépôt auprès des services du haut-commissaire d'une liste répondant aux conditions fixées à l'article 106 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.

@@ -1,3 +1,5 @@
+# Article LO146-2
+
 Il est interdit à tout député d'acquérir le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.
 
 Il est interdit à tout député d'exercer le contrôle d'une société, d'une entreprise ou d'un organisme :

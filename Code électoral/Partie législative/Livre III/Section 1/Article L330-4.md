@@ -1,3 +1,5 @@
+# Article L330-4
+
 Les candidats ou leurs représentants peuvent prendre communication et copie des listes électorales de la circonscription à l'ambassade, au poste consulaire ou au ministère des affaires étrangères. Il en est de même de tout parti ou groupement politique représenté par un mandataire dûment habilité.
 
 Les députés élus par les Français établis hors de France peuvent prendre communication et copie de l'ensemble des listes électorales consulaires de leur circonscription.

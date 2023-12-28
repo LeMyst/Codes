@@ -1,3 +1,5 @@
+# Article LO135-2
+
 I. – Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas échéant, les observations qu'il a formulées sont rendues publiques, dans les limites définies au III du présent article, par la Haute Autorité pour la transparence de la vie publique. Les électeurs peuvent adresser à la Haute Autorité toute observation écrite relative à ces déclarations d'intérêts et d'activités.
 
 Les déclarations de situation patrimoniale déposées par le député en application du même article LO 135-1 sont transmises par la Haute Autorité pour la transparence de la vie publique à l'administration fiscale. Celle-ci fournit à la Haute Autorité, dans les trente jours suivant cette transmission, tous les éléments lui permettant d'apprécier l'exhaustivité, l'exactitude et la sincérité de la déclaration de situation patrimoniale, notamment les avis d'imposition de l'intéressé à l'impôt sur le revenu et, le cas échéant, à l'impôt de solidarité sur la fortune.

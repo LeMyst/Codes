@@ -1,3 +1,5 @@
+# Article R199
+
 Le recensement général des votes est effectué par la commission dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-verbaux.
 
 La commission comprend un magistrat désigné par le premier président de la cour d'appel, président, un conseiller à l'Assemblée de Corse et un fonctionnaire de la préfecture de Corse-du-Sud désignés par le préfet de Corse.

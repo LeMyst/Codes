@@ -1,3 +1,5 @@
+# Article R56
+
 Sont placardées, par les soins de la municipalité :
 
 -à l'entrée de chaque mairie pendant la période électorale, des affiches contenant le texte des articles L. 9 à L. 11, L. 20, L. 30, L. 86 à L. 88, L. 93 ;

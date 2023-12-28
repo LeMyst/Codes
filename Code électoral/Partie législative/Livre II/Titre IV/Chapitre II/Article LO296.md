@@ -1,3 +1,5 @@
+# Article LO296
+
 Nul ne peut être élu au Sénat s'il n'est âgé de vingt-quatre ans révolus.
 
 Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale.

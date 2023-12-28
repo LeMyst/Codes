@@ -1,3 +1,5 @@
+# Article R345
+
 Le recensement général des votes est effectué, en présence des représentants des listes, par une commission.
 
 Cette commission de recensement général des votes est présidée par un magistrat du siège désigné par le président du tribunal supérieur d'appel. Il est assisté de deux fonctionnaires désignés par le représentant de l'Etat. Elle est instituée par un arrêté du représentant de l'Etat.

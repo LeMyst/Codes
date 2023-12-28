@@ -1,3 +1,5 @@
+# Article R84
+
 Le jour du scrutin, le chef de l'établissement pénitentiaire remet au président du bureau de vote où sont inscrites les personnes détenues de son établissement :
 
 1° Les enveloppes d'identification scellées ;

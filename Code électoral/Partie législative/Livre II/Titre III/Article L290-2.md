@@ -1,3 +1,5 @@
+# Article L290-2
+
 I.-Dans les communes dont le conseil municipal, composé selon les modalités fixées à l'article L. 2113-7 du code général des collectivités territoriales ou à l'article L. 2113-8 du même code, comprend 29 membres ou moins, celui-ci élit parmi ses membres un nombre de délégués déterminé dans les conditions prévues à l'article L. 284 du présent code pour une commune appartenant à la strate démographique immédiatement supérieure.
 
 Lorsque la détermination du nombre de délégués est impossible en application du même article L. 284, elle s'opère dans les conditions prévues aux II et III du présent article.

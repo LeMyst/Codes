@@ -1,3 +1,5 @@
+# Article L558-37
+
 Les dons consentis par une personne physique dûment identifiée pour le financement d'actions tendant à favoriser ou défavoriser le recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution ne peuvent excéder 4 600 €.
 
 Tout don de plus de 150 € consenti à un parti ou groupement politique en vue du financement d'actions tendant à favoriser ou défavoriser le recueil des soutiens doit être versé par chèque, virement, prélèvement automatique ou carte bancaire. Le parti ou groupement politique délivre un reçu pour chaque don.

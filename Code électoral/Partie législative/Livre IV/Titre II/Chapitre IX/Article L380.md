@@ -1,3 +1,5 @@
+# Article L380
+
 Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller de l'Assemblée de Corse élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
 
 Si le candidat ainsi appelé à remplacer le conseiller de l'Assemblée de Corse se trouve de ce fait dans l'un des cas d'incompatibilité mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti, le remplacement est assuré par le candidat suivant dans l'ordre de la liste.

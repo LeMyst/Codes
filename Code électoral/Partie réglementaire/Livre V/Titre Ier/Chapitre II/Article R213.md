@@ -1,3 +1,5 @@
+# Article R213
+
 I. - L'institut de la statistique et des études économiques de la Nouvelle-Calédonie (ISEE) met en œuvre un traitement automatisé de données à caractère personnel en vue de la tenue du fichier général des électeurs et électrices inscrits en Nouvelle-Calédonie mentionné au VII de l'article 189 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, ainsi que des listes électorales spéciales à la consultation prévue par le titre IX de cette même loi.
 
 II. - Ce fichier est constitué à partir :

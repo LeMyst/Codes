@@ -1,3 +1,5 @@
+# Article L308
+
 Un décret en conseil d'Etat fixe le nombre, les dimensions et les modalités d'envoi des circulaires et bulletins de vote que les candidats peuvent faire imprimer et envoyer aux membres du collège électoral.
 
 L'Etat prend à sa charge les frais d'envoi de ces circulaires et bulletins.

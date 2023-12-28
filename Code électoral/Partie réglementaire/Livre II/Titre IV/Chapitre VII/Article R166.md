@@ -1,3 +1,5 @@
+# Article R166
+
 Le président de chaque section a la police de l'assemblée qu'il préside.
 
 Il exerce ses pouvoirs conformément aux dispositions législatives et réglementaires en vigueur, et notamment aux dispositions de l'article R. 49, R. 51, R. 52 et R. 60.

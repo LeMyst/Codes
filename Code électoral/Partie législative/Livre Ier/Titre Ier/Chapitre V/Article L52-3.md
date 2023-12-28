@@ -1,3 +1,5 @@
+# Article L52-3
+
 Les bulletins de vote ne peuvent pas comporter :
 
 1° D'autres noms de personne que celui du ou des candidats ou de leurs remplaçants éventuels, à l'exception, pour la Ville de Paris et les communes de Marseille et de Lyon, du candidat désigné comme devant présider l'organe délibérant concerné par le scrutin ;

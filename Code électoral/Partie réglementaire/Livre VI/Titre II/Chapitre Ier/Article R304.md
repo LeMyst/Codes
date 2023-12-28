@@ -1,3 +1,5 @@
+# Article R304
+
 Pour l'application de ces dispositions à Saint-Barthélemy, il y a lieu de lire :
 
 1° " collectivité " et " de la collectivité ", au lieu de : " département " ou " arrondissement " et " départemental " ;

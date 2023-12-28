@@ -1,3 +1,5 @@
+# Article R76-1
+
 Le maire tient à disposition de tout électeur un registre des procurations extrait du répertoire électoral unique, y compris le jour du scrutin. Sont mentionnés dans ce registre :
 
 -les noms et prénoms du mandant et du mandataire ;

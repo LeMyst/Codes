@@ -1,3 +1,5 @@
+# Article L409
+
 Aucun retrait de candidat n'est accepté après le dépôt de la liste.
 
 En cas de décès de l'un des candidats, ses colistiers doivent le remplacer immédiatement par un nouveau candidat au rang qui lui convient. Cette nouvelle candidature fait l'objet d'une déclaration complémentaire soumise aux règles prévues ci-dessus.

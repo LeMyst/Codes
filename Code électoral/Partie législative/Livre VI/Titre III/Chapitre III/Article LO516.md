@@ -1,3 +1,5 @@
+# Article LO516
+
 I.-Sont inéligibles au conseil territorial :
 
 1° (Abrogé) ;

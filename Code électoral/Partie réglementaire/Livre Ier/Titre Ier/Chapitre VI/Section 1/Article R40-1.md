@@ -1,3 +1,5 @@
+# Article R40-1
+
 Les électeurs votant par correspondance selon les dispositions de l'article L. 79 et les électeurs inscrits dans la commune mentionnée au III de l'article L. 12-1 au titre des articles L. 12, L. 13 et L. 14 sont inscrits dans un même bureau de vote.
 
 Par arrêté pris avant le 31 août de chaque année, le préfet rattache ce bureau de vote aux circonscriptions de la commune chef-lieu du département ou de la collectivité qui comptent, avant ce rattachement, le plus d'inscrits à cette date, à savoir :

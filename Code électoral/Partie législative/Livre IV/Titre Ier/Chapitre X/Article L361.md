@@ -1,3 +1,5 @@
+# Article L361
+
 Les élections au conseil régional peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout candidat ou tout électeur de la région devant le Conseil d'Etat statuant au contentieux.
 
 Le même droit est ouvert au représentant de l'Etat dans la région s'il estime que les formes et conditions légalement prescrites n'ont pas été respectées.

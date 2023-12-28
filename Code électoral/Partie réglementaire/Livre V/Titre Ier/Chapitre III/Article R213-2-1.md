@@ -1,3 +1,5 @@
+# Article R213-2-1
+
 I.-Dans les îles Wallis et Futuna, les modalités de la tenue du répertoire électoral unique sont définies dans une convention entre l'Institut national de la statistique et des études économiques et l'administrateur supérieur des îles Wallis et Futuna.
 
 II.-Un arrêté de l'administrateur supérieur des îles Wallis et Futuna dresse la liste des membres de la commission prévue à l'article L. 19, qui sont nommés pour une durée de trois ans. Sa composition est rendue publique par affichage à la porte de la circonscription territoriale.

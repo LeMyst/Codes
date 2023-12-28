@@ -1,3 +1,5 @@
+# Article L74
+
 Le ou la mandataire participe au scrutin dans les conditions prévues à l'article L. 62.
 
 Il prend une enveloppe électorale après avoir fait constater l'existence d'un mandat de vote par procuration.

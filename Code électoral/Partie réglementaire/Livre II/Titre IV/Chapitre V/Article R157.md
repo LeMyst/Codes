@@ -1,3 +1,5 @@
+# Article R157
+
 Au plus tard le troisième lundi précédant le scrutin, un arrêté préfectoral institue une commission de propagande qui est chargée :
 
 1° D'adresser, au plus tard le mercredi précédant le scrutin, à tous les membres du collège électoral une circulaire accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ;

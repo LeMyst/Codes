@@ -1,3 +1,5 @@
+# Article R176-1-3
+
 Chaque bureau de vote est composé :
 
 1° De l'ambassadeur ou du chef de poste consulaire ou de son représentant, président ;

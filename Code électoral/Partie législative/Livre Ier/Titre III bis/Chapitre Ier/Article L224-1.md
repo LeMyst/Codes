@@ -1,3 +1,5 @@
+# Article L224-1
+
 Les conseillers métropolitains de Lyon sont élus pour six ans.
 
 Le conseil de la métropole de Lyon se renouvelle intégralement.

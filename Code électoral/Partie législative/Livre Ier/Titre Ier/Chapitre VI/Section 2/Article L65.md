@@ -1,3 +1,5 @@
+# Article L65
+
 Dès la clôture du scrutin, il est procédé au dénombrement des émargements. Ensuite, le dépouillement se déroule de la manière suivante : l'urne est ouverte et le nombre des enveloppes est vérifié. Si ce nombre est plus grand ou moindre que celui des émargements, il en est fait mention au procès-verbal. Le bureau désigne parmi les électeurs présents un certain nombre de scrutateurs sachant lire et écrire, lesquels se divisent par tables de quatre au moins. Si plusieurs candidats ou plusieurs listes sont en présence, il leur est permis de désigner respectivement les scrutateurs, lesquels doivent être répartis également autant que possible par chaque table de dépouillement. Le nombre de tables ne peut être supérieur au nombre d'isoloirs.
 
 Les enveloppes contenant les bulletins sont regroupées par paquet de cent. Ces paquets sont introduits dans des enveloppes spécialement réservées à cet effet. Dès l'introduction d'un paquet de cent bulletins, l'enveloppe est cachetée et y sont apposées les signatures du président du bureau de vote et d'au moins deux assesseurs représentant, sauf liste ou candidat unique, des listes ou des candidats différents.

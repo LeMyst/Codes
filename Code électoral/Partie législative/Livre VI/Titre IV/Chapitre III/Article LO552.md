@@ -1,3 +1,5 @@
+# Article LO552
+
 Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux.
 
 Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont pas été respectées.

@@ -1,3 +1,5 @@
+# Article L558-18
+
 Nul ne peut être conseiller à l'assemblée de Guyane et conseiller à l'assemblée de Martinique.
 
 Nul ne peut être conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique et conseiller régional ou conseiller à l'Assemblée de Corse.

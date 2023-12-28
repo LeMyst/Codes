@@ -1,3 +1,5 @@
+# Article L504
+
 Pour l'application des dispositions du présent code à Saint-Martin, il y a lieu de lire :
 
 1° " collectivité " et " de la collectivité " au lieu respectivement de : " département " ou " arrondissement " et de : " départemental " ;

@@ -1,3 +1,5 @@
+# Article R192
+
 L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre résultant du tirage au sort prévu à l'article R. 28, par le préfet de Corse et publié au plus tard le troisième samedi qui précède le jour du premier tour.
 
 L'état des listes de candidats au second tour est arrêté, s'il y a lieu, dans les mêmes conditions et publié le mercredi qui suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du dernier alinéa de l'article L. 374.

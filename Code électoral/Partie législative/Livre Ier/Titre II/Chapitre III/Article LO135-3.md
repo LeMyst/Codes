@@ -1,3 +1,5 @@
+# Article LO135-3
+
 La Haute Autorité pour la transparence de la vie publique peut demander à un député communication des déclarations qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.
 
 Elle peut également, si elle l'estime utile, demander les déclarations, mentionnées au premier alinéa, souscrites par le conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin du député concerné.

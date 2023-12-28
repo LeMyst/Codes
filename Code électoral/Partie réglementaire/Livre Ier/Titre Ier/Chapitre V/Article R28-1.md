@@ -1,3 +1,5 @@
+# Article R28-1
+
 Dès constatation d'un affichage interdit au regard des dispositions de l'article L. 51 du code électoral, le maire peut procéder d'office à la dépose des affiches, après une mise en demeure adressée au candidat, au candidat tête de liste, ou à son représentant, à défaut d'exécution spontanée dans le délai fixé par l'arrêté de mise en demeure.
 
 Après une mise en demeure adressée au maire et restée sans résultat au-delà de 48 heures, le préfet peut se substituer au maire pour appliquer la procédure prévue à l'alinéa précédent.

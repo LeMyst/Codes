@@ -1,3 +1,5 @@
+# Article R\*\*215
+
 I. - Sont assimilées, pour l'application de l'article LO. 131, même si elles sont exercées par délégation ou à titre intérimaire :
 
 1° Aux fonctions de préfet, les fonctions de haut-commissaire de la République en Nouvelle-Calédonie ou en Polynésie française et, dans les îles Wallis et Futuna, les fonctions d'administrateur supérieur ;

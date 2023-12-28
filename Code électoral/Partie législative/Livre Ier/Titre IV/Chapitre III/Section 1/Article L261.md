@@ -1,3 +1,5 @@
+# Article L261
+
 La commune forme une circonscription électorale unique.
 
 Toutefois les membres du Conseil de Paris et des conseils municipaux de Lyon et de Marseille sont élus par secteur. Le nombre des secteurs et le nombre des conseillers à élire dans chaque secteur sont déterminés par les tableaux n° 2, 3 et 4 annexés au présent code.

@@ -1,3 +1,5 @@
+# Article LO228-1
+
 Sont en outre éligibles au conseil municipal ou au Conseil de Paris les ressortissants des Etats membres de l'Union européenne autres que la France qui :
 
 a) Soit sont inscrits sur la liste électorale complémentaire de la commune ;

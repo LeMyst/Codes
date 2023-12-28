@@ -1,3 +1,5 @@
+# Article R28
+
 Le nombre maximum des emplacements réservés à l'affichage électoral en application de l'article L. 51, en dehors de ceux établis à côté des bureaux de vote, est fixé à :
 
 - cinq dans les communes ayant 500 électeurs et moins ;

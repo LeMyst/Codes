@@ -1,3 +1,5 @@
+# Article L11
+
 I.- Sont inscrits sur la liste électorale de la commune, sur leur demande :
 
 1° Tous les électeurs qui ont leur domicile réel dans la commune ou y habitent depuis six mois au moins et leurs enfants de moins de 26 ans ;

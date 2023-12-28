@@ -1,3 +1,5 @@
+# Article R176-3
+
 I. – Pour l'élection de députés par les Français établis hors de France, les électeurs mentionnés à l'article R. 172 peuvent voter par correspondance électronique. A cette fin, il est créé un traitement automatisé de données à caractère personnel, placé sous la responsabilité du ministre de l'intérieur et du ministre des affaires étrangères.
 
 Ce traitement automatisé garantit la séparation, dans des fichiers distincts, des données relatives aux électeurs, d'une part, et aux votes, d'autre part.

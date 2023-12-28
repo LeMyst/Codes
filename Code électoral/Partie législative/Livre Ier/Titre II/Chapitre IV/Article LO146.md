@@ -1,3 +1,5 @@
+# Article LO146
+
 Sont incompatibles avec le mandat parlementaire les fonctions de chef d'entreprise, de président de conseil d'administration, de président et de membre de directoire, de président de conseil de surveillance, d'administrateur délégué, de directeur général, directeur général délégué ou gérant exercées dans :
 
 1° les sociétés, entreprises ou établissements jouissant, sous forme de garanties d'intérêts, de subventions ou, sous forme équivalente, d'avantages assurés par l'Etat ou par une collectivité publique sauf dans le cas où ces avantages découlent de l'application automatique d'une législation générale ou d'une réglementation générale ;

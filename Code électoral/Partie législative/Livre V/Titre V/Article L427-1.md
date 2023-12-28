@@ -1,3 +1,5 @@
+# Article L427-1
+
 Les élections à l'assemblée territoriale des îles Wallis et Futuna peuvent être contestées, dans les quinze jours de la proclamation des résultats, par tout candidat ou par tout électeur de la circonscription électorale devant le Conseil d'Etat statuant au contentieux.
 
 Le même droit est ouvert à l'administrateur supérieur s'il estime que les conditions et les formes légalement prescrites n'ont pas été respectées.

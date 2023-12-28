@@ -1,3 +1,5 @@
+# Article R117-2
+
 Les dispositions des articles R. 5 à R. 16 sont applicables à l'établissement des listes électorales complémentaires instituées par l'article LO. 227-2.
 
 Les décisions prises par le maire en application du I de l'article L. 18 comportent en outre la mention de la nationalité de l'électeur.

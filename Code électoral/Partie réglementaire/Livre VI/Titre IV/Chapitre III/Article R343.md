@@ -1,3 +1,5 @@
+# Article R343
+
 Par dérogation à l'article R. 66-2, n'entrent pas en compte dans le résultat du dépouillement et sont annexés au procès-verbal :
 
 1° Les bulletins non conformes aux dispositions de l'article L. 52-3 ;

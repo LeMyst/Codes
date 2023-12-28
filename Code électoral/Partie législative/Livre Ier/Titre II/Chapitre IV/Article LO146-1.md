@@ -1,3 +1,5 @@
+# Article LO146-1
+
 Il est interdit à tout député de :
 
 1° Commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son mandat ;

@@ -1,3 +1,5 @@
+# Article L350
+
 Pour le premier tour, les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du scrutin, à midi. Il en est donné récépissé provisoire.
 
 Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340, L. 341-1 et L. 346 à L. 348 sont remplies. Le refus d'enregistrement est motivé.

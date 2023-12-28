@@ -1,3 +1,5 @@
+# Article L564
+
 La commission de contrôle de la consultation a pour mission de veiller à la régularité et à la sincérité de la consultation.
 
 A cet effet, elle est chargée :

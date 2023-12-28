@@ -1,3 +1,5 @@
+# Article L557
+
 Par dérogation à l'article L. 280, le sénateur est élu par un collège électoral composé :
 
 1° Du député et du sénateur ;

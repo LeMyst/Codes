@@ -1,3 +1,5 @@
+# Article LO141-1
+
 Le mandat de député est incompatible avec :
 
 1° Les fonctions de maire, de maire d'arrondissement, de maire délégué et d'adjoint au maire ;

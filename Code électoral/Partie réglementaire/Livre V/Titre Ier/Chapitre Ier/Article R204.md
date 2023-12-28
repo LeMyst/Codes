@@ -1,3 +1,5 @@
+# Article R204
+
 I.-Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2021-1740 du 22 décembre 2021 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 7, R. 8 et R. 10, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ;

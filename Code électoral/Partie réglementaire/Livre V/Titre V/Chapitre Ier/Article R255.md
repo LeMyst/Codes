@@ -1,3 +1,5 @@
+# Article R255
+
 L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre résultant du tirage au sort prévu à l'article R. 28 pour chaque circonscription, par l'administrateur supérieur et publié au Journal officiel du territoire au plus tard le troisième samedi qui précède le jour du scrutin.
 
 Cet état indique, par circonscription et pour chaque liste :

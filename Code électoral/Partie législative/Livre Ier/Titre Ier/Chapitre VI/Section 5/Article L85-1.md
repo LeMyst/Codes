@@ -1,3 +1,5 @@
+# Article L85-1
+
 Dans toutes les communes de plus de 20 000 habitants, il est institué des commissions de contrôle des opérations de vote qui sont chargées de vérifier la régularité de la composition des bureaux de vote ainsi que celle des opérations de vote, de dépouillement des bulletins et de dénombrement des suffrages et de garantir aux électeurs ainsi qu'aux candidats ou listes en présence le libre exercice de leurs droits.
 
 La commission est obligatoirement présidée par un magistrat de l'ordre judiciaire. Elle peut s'adjoindre des délégués choisis parmi les électeurs du département.

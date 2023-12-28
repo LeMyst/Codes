@@ -1,3 +1,5 @@
+# Article R176-3-3
+
 Le bureau du vote électronique veille au bon déroulement des opérations électorales et vérifie l'effectivité des dispositifs de sécurité prévus pour assurer le secret du vote, la sincérité du scrutin et l'accessibilité au suffrage.
 
 Il se réunit afin de procéder aux opérations prévues aux articles R. 176-3-8,

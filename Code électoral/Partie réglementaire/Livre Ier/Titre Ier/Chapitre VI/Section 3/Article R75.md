@@ -1,3 +1,5 @@
+# Article R75
+
 I. − Le formulaire administratif mentionné au premier alinéa de l'article R. 72 sont tenus à disposition des autorités habilitées ou accessibles en ligne.
 
 Le formulaire, signé par le mandant, comporte les données à caractère personnel et informations suivantes :

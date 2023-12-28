@@ -1,3 +1,5 @@
+# Article L192
+
 Les conseillers départementaux sont élus pour six ans ; ils sont rééligibles.
 
 Les conseils départementaux se renouvellent intégralement.

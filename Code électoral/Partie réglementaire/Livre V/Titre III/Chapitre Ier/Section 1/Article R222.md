@@ -1,3 +1,5 @@
+# Article R222
+
 La commission administrative spéciale tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui.
 
 Lorsque la commission refuse d'inscrire un électeur sur la liste électorale spéciale, sa décision est notifiée à l'intéressé dans les deux jours et au plus tard le 15 mars, par écrit et à domicile, par les soins de l'administration municipale. Il est fait mention de cette notification et de sa date sur le registre prévu au premier alinéa.

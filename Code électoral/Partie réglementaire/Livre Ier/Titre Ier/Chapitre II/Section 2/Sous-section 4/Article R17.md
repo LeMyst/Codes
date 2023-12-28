@@ -1,3 +1,5 @@
+# Article R17
+
 I.-Les recours au tribunal judiciaire prévus au III de l'article L. 18 et à l'article L. 20 sont formés par requête, faite, remise ou adressée au greffe du tribunal judiciaire. La requête indique les nom, prénoms et adresse du requérant et la qualité en laquelle il agit, ainsi que l'objet du recours.
 
 II.-Pour l'application du I de l'article L. 20, elle précise, en outre, les nom, prénoms et adresse de l'électeur concerné.

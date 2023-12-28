@@ -1,3 +1,5 @@
+# Article R176-4-5
+
 Les enveloppes d'identification et les justificatifs prévus à l'article R. 176-4-3 sont conservés dans un lieu sécurisé, sous la responsabilité de l'ambassadeur ou du chef de poste consulaire.
 
 A l'échéance du délai prévu à l'article R. 176-4-2, ces documents sont remis avec le registre prévu à l'article R. 176-4-4 au bureau centralisateur de la circonscription consulaire.

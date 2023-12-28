@@ -1,3 +1,5 @@
+# Article R176-3-10
+
 Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est clos le mercredi précédant la date du scrutin, à douze heures (heure légale de Paris).
 
 Les responsables du traitement automatisé prévu à l'article R. 176-3 extraient et enregistrent sur supports scellés le contenu de l'urne, les données relatives aux émargements et les états courants gérés par les serveurs. Ces opérations sont effectuées sous le contrôle du bureau du vote électronique. Les supports ainsi créés sont remis à son président, qui les conserve dans un lieu sécurisé.

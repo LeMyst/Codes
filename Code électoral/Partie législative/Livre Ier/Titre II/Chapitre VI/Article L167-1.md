@@ -1,3 +1,5 @@
+# Article L167-1
+
 I.-Pendant la campagne électorale, les émissions du service public de la communication audiovisuelle sont mises à la disposition des partis et groupements politiques dans les conditions prévues au présent article.
 
 II.-Pour le premier tour de scrutin, une durée d'émission de sept minutes est mise à la disposition de chaque parti ou groupement politique qui en fait la demande dès lors qu'au moins soixante-quinze candidats indiquent s'y rattacher dans des conditions définies par décret en Conseil d'Etat.

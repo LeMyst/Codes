@@ -1,3 +1,5 @@
+# Article R23
+
 Dans chaque commune les cartes électorales sont établies par le maire.
 
 Elles doivent obligatoirement comporter :

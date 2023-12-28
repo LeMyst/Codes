@@ -1,3 +1,5 @@
+# Article L90
+
 Sera passible d'une amende de 9 000 euros :
 
 -tout candidat qui utilisera ou permettra d'utiliser son panneau d'affichage dans un but autre que la présentation et la défense de sa candidature et de son programme, pour son remerciement ou son désistement ;

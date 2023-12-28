@@ -1,3 +1,5 @@
+# Article R202
+
 Pour l'application des dispositions du présent code en Polynésie française, il y a lieu de lire :
 
 1° " Polynésie française " , au lieu de : " département " et : " de la Polynésie " , au lieu de : " départemental " ;

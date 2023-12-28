@@ -1,3 +1,5 @@
+# Article L195
+
 Ne peuvent être élus membres du conseil départemental :
 
 1° Les préfets dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans ; les sous-préfets, secrétaires généraux et directeurs de cabinet de préfet dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de deux ans ; les sous-préfets chargés de mission auprès d'un préfet et les secrétaires en chef de sous-préfecture dans le département où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;

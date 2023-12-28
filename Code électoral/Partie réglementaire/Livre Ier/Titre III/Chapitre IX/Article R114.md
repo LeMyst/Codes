@@ -1,3 +1,5 @@
+# Article R114
+
 En cas de renouvellement général, le tribunal administratif prononce sa décision dans le délai de trois mois à compter de l'enregistrement de la réclamation au greffe ; la décision est notifiée dans les huit jours à partir de sa date au préfet et aux parties intéressées, dans les conditions fixées à l'article R. 751-3 du code de justice administrative.
 
 En cas d'élection partielle, ce délai est réduit à deux mois.

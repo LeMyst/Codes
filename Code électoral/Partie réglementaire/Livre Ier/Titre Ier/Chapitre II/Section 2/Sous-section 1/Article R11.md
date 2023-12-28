@@ -1,3 +1,5 @@
+# Article R11
+
 Pour l'application du II de l'article L. 19, la commission prévue à l'article L. 19 examine en priorité la régularité des inscriptions et radiations intervenues depuis sa dernière réunion.
 
 Les décisions prises dans le cadre du recours administratif préalable prévu au III de l'article L. 18 et celles prévues au II de l'article L. 19 sont prises à la majorité des membres présents.

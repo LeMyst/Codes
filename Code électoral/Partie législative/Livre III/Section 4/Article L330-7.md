@@ -1,3 +1,5 @@
+# Article L330-7
+
 I. - Pour l'application de l'article L. 52-5 :
 
 1° L'association de financement est déclarée à la préfecture de police ;

@@ -1,3 +1,5 @@
+# Article L392
+
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier :
 
 1° et 2° (abrogés)

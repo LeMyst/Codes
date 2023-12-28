@@ -1,3 +1,5 @@
+# Article R325
+
 A la déclaration de candidature, il est joint pour chaque candidat :
 
 1° Une attestation d'inscription sur la liste électorale comportant les nom, prénoms, date de naissance, sexe et lieu de vote de l'intéressé, délivrée par le président de la collectivité ou générée par la télé-procédure mentionnée à l'article 5 du décret n° 2018-343 du 9 mai 2018 dans les trente jours précédant le dépôt de la candidature, ou une copie de la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois mois ;

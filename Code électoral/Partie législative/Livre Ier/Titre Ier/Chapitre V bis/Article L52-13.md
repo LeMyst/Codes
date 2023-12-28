@@ -1,3 +1,5 @@
+# Article L52-13
+
 Les dépenses exposées par des candidats ayant agi séparément avant de figurer sur une même liste sont totalisées et décomptées comme faites au profit de cette liste lorsqu'elle a été constituée avant le premier tour.
 
 Les dépenses exposées par des candidats ayant agi séparément avant d'être réunis au sein d'un même binôme sont totalisées et décomptées comme faites au profit de ce binôme.

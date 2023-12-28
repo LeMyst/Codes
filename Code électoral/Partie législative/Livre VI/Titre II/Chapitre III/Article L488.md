@@ -1,3 +1,5 @@
+# Article L488
+
 Les déclarations de candidature doivent être déposées au plus tard :
 
 1° Pour le premier tour, le troisième vendredi qui précède le jour du scrutin, à dix-huit heures ;

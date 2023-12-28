@@ -1,3 +1,5 @@
+# Article L280-1
+
 Pour l'application du 2° de l'article L. 280, le conseil régional du Grand Est procède, dans le mois qui suit son élection, à la répartition de ses membres élus dans la section départementale correspondant à la Collectivité européenne d'Alsace entre les collèges chargés de l'élection des sénateurs du Bas-Rhin et du Haut-Rhin.
 
 Le nombre de membres à désigner pour faire partie des collèges électoraux sénatoriaux du Bas-Rhin et du Haut-Rhin est déterminé en fonction de la population respective de ces deux départements, à la représentation proportionnelle suivant la règle de la plus forte moyenne.

@@ -1,3 +1,5 @@
+# Article LO132
+
 I.-Les préfets sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel ils exercent ou ont exercé leurs fonctions depuis moins de trois ans à la date du scrutin.
 
 I bis.-Les sous-préfets, les secrétaires généraux de préfecture et les directeurs de cabinet de préfet sont inéligibles en France dans toute circonscription comprise en tout ou partie dans le ressort dans lequel ils exercent ou ont exercé leurs fonctions depuis moins de deux ans à la date du scrutin.

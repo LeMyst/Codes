@@ -1,3 +1,5 @@
+# Article R141
+
 Le bureau détermine le quotient électoral, successivement pour les délégués et les suppléants, en divisant le nombre des suffrages exprimés dans la commune par le nombre des mandats de délégués, puis par le nombre des mandats de suppléants.
 
 Il est attribué à chaque liste autant de mandats de délégués et de suppléants que le nombre de suffrages de la liste contient de fois le quotient électoral correspondant.

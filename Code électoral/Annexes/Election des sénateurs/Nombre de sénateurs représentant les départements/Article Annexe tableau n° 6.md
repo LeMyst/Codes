@@ -1,3 +1,5 @@
+# Article Annexe tableau n° 6
+
 |  |  |
 | --- | --- |
 | DÉPARTEMENTS | NOMBRE DE SÉNATEURS |

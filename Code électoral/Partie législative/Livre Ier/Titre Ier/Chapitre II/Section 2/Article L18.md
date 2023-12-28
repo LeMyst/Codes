@@ -1,3 +1,5 @@
+# Article L18
+
 I. - Le maire vérifie si la demande d'inscription de l'électeur répond aux conditions mentionnées au I de l'article L. 11 ou aux articles L. 12 à L. 15-1. Il statue sur cette demande dans un délai de cinq jours à compter de son dépôt.
 
 Le maire radie les électeurs qui ne remplissent plus aucune des conditions mentionnées au premier alinéa du présent I à l'issue d'une procédure contradictoire.

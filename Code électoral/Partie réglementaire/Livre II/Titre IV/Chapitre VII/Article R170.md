@@ -1,3 +1,5 @@
+# Article R170
+
 Sont nuls et n'entrent pas en compte dans le résultat du dépouillement :
 
 - les bulletins visés à l'article L. 66 ;

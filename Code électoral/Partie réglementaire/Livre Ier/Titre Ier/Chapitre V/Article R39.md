@@ -1,3 +1,5 @@
+# Article R39
+
 Lorsqu'il est prévu par la loi, le remboursement par l'Etat des frais d'impression ou de reproduction et d'affichage exposés avant chaque tour de scrutin par les candidats, les binômes de candidats ou les listes est effectué, sur présentation des pièces justificatives, pour les imprimés suivants :
 
 a) Deux affiches identiques d'un format maximal de 594 mm × 841 mm, par emplacement prévu à l'article L. 51 ;

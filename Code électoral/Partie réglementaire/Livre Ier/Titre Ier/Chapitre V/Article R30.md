@@ -1,3 +1,5 @@
+# Article R30
+
 Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'un grammage compris entre au moins 70 et au plus 80 grammes au mètre carré et avoir les formats suivants :
 
 - 105 x 148 mm au format paysage pour les bulletins comportant de un à quatre noms ;

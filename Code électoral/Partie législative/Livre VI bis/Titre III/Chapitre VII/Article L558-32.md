@@ -1,3 +1,5 @@
+# Article L558-32
+
 Le candidat venant sur une liste immédiatement après le dernier élu dans la même section est appelé à remplacer le conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
 
 Si le candidat ainsi appelé à remplacer le conseiller se trouve de ce fait dans l'un des cas d'incompatibilité mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser l'incompatibilité en démissionnant de l'un des mandats mentionnés à ce même article. A défaut d'option dans le délai imparti, le remplacement est assuré par le candidat suivant dans l'ordre de la section.

@@ -1,3 +1,5 @@
+# Article L330-6
+
 A l'intérieur des locaux des ambassades et des postes consulaires et des bureaux de vote ouverts dans d'autres locaux, des emplacements sont réservés, pendant la durée de la campagne électorale, pour l'apposition des affiches électorales des candidats.
 
 Dans chacun de ces emplacements, une surface égale est attribuée à chaque candidat.

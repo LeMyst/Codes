@@ -1,3 +1,5 @@
+# Article L162
+
 Les déclarations de candidatures pour le second tour de scrutin doivent être déposées avant dix-huit heures le mardi qui suit le premier tour.
 
 Toutefois si, par suite d'un cas de force majeure, le recensement des votes n'a pu être effectué dans le délai prévu à l'article L. 175, les déclarations seront reçues jusqu'à dix-huit heures le mercredi.

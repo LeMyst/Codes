@@ -1,3 +1,5 @@
+# Article R334
+
 Pour l'application de ces dispositions à Saint-Pierre-et-Miquelon, il y a lieu de lire :
 
 1° " collectivité territoriale " et " de la collectivité territoriale ", au lieu respectivement de : " département " ou : " arrondissement " et de : " départemental " ;

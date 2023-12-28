@@ -1,3 +1,5 @@
+# Article L267
+
 Les déclarations de candidatures doivent être déposées au plus tard :
 
 - pour le premier tour, le troisième jeudi qui précède le jour du scrutin, à dix-huit heures ;

@@ -1,3 +1,5 @@
+# Article R25
+
 Les cartes électorales sont distribuées aux électeurs, par les soins du maire.
 
 Cette distribution doit être achevée trois jours avant le scrutin.

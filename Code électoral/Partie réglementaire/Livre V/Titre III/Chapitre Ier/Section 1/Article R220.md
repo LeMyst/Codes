@@ -1,3 +1,5 @@
+# Article R220
+
 Pour les élections au congrès et aux assemblées de province, la commission administrative spéciale, instituée au II de l'article 189 de la loi organique n° 99-209 du 19 mars 1999, établit chaque année la liste électorale spéciale à l'élection des membres du congrès et des assemblées de province à partir de la liste électorale en vigueur, de la liste électorale spéciale de l'année précédente et du tableau annexe des électeurs qui ne sont pas inscrits sur la liste électorale spéciale.
 
 A ce titre :

@@ -1,3 +1,5 @@
+# Article L52-6
+
 Le candidat déclare par écrit à la préfecture de la circonscription électorale dans laquelle il se présente le nom du mandataire financier qu'il choisit. La déclaration doit être accompagnée de l'accord exprès du mandataire désigné. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer cette fonction. Dans le cas d'un scrutin de liste, aucun membre de la liste ne peut être le mandataire financier du candidat tête de la liste sur laquelle il figure. En cas de scrutin binominal, aucun des membres du binôme et aucun des remplaçants ne peut être désigné mandataire financier du binôme.
 
 Le mandataire financier est tenu d'ouvrir un compte de dépôt unique retraçant la totalité de ses opérations financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément désigné.

@@ -8,4 +8,6 @@ Les apprentis originaires d'un Etat membre de l'Union européenne effectuant une
 
 3° Le deuxième alinéa de l'article L. 6222-12, relatif aux conditions d'intégration d'une formation en apprentissage ;
 
-4° L'article L. 6211-2, relatif à la durée de la formation en apprentissage.
+4° L'article L. 6211-2, relatif à la durée de la formation en apprentissage ;
+
+5° Le premier alinéa de l'article L. 6222-1, relatif à la limite d'âge pour débuter un apprentissage.

@@ -6,7 +6,7 @@ I.-L'opérateur de compétences prend en charge au titre de la section financiè
 
 2° Les dépenses d'investissement visant à financer les équipements nécessaires à la réalisation des formations ;
 
-3° Des frais annexes à la formation des salariés en contrat d'apprentissage ou de professionnalisation, notamment d'hébergement et de restauration, dans des conditions déterminées par décret ;
+3° Des frais annexes à la formation des salariés en contrat d'apprentissage ou de professionnalisation, notamment d'hébergement et de restauration, ainsi que, le cas échéant, les frais correspondant aux cotisations sociales liées à une mobilité hors du territoire national, dans des conditions déterminées par décret ;
 
 4° Les dépenses exposées par l'entreprise pour chaque salarié, ou pour tout employeur de moins de onze salariés, lorsqu'il bénéficie d'une action de formation en qualité de tuteur ou de maître d'apprentissage, limitées à un plafond horaire et à une durée maximale, ainsi que les coûts liés à l'exercice de ces fonctions engagés par l'entreprise dans la limite de plafonds mensuels et de durées maximales. Les plafonds et durées mentionnés au présent 4° sont fixés par décret ;
 
@@ -24,7 +24,7 @@ b) Les personnes qui ont été suivies par un référent avant la signature d'un
 
 c) Les personnes qui n'ont exercé aucune activité professionnelle à plein temps et en contrat à durée indéterminée au cours des trois années précédant la signature du contrat de professionnalisation ;
 
-3° Tout ou partie de la perte de ressources ainsi que des coûts de toute nature y compris ceux correspondant aux cotisations sociales et, le cas échéant, la rémunération et les frais annexes générés par la mobilité hors du territoire national des apprentis et des salariés en contrat de professionnalisation en application des articles L. 6222-42 et L. 6325-25 ;
+3° Tout ou partie de la perte de ressources ainsi que des coûts de toute nature et, le cas échéant, la rémunération et les frais annexes générés par la mobilité hors du territoire national des apprentis et des salariés en contrat de professionnalisation en application des articles L. 6222-42 et L. 6325-25 ;
 
 4° Les actions portées par une convention-cadre de coopération mentionnée au b du 1° du II de l'article L. 6332-1, dans la limite d'un plafond fixé par voie règlementaire ;
 

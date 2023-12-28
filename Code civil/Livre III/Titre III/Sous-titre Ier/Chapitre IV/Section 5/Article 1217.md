@@ -1,3 +1,5 @@
+# Article 1217
+
 La partie envers laquelle l'engagement n'a pas été exécuté, ou l'a été imparfaitement, peut :
 
 - refuser d'exécuter ou suspendre l'exécution de sa propre obligation ;

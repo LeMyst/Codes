@@ -1,3 +1,5 @@
+# Article 361
+
 Le lien de parenté résultant de l'adoption simple s'étend aux enfants de l'adopté.
 
 Le mariage est prohibé :

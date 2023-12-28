@@ -1,3 +1,5 @@
+# Article 2441
+
 Si la valeur des immeubles sur lesquels l'hypothèque du mineur ou du majeur en tutelle a été inscrite excède notablement ce qui est nécessaire pour garantir la gestion du tuteur, celui-ci peut demander au conseil de famille ou à défaut au juge des tutelles de réduire l'inscription aux immeubles suffisants.
 
 Il peut pareillement lui demander de réduire l'évaluation qui avait été faite de ses obligations envers le mineur.

@@ -1,3 +1,5 @@
+# Article 387-1
+
 L'administrateur légal ne peut, sans l'autorisation préalable du juge des tutelles :
 
 1° Vendre de gré à gré un immeuble ou un fonds de commerce appartenant au mineur ;

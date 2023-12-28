@@ -1,3 +1,5 @@
+# Article 2508
+
 Les dispositions du titre XIX du livre III et du titre II du livre IV sont applicables à Mayotte sous réserve des dispositions du titre IV du présent livre et des dispositions suivantes :
 
 1° Le 4° de l'article 2331 est applicable à Mayotte dans les conditions suivantes :

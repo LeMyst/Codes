@@ -1,3 +1,5 @@
+# Article 810-5
+
 Le curateur dresse un projet de règlement du passif.
 
 Le projet prévoit le paiement des créances dans l'ordre prévu à l'article 796.

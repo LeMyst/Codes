@@ -1,3 +1,5 @@
+# Article 2472
+
 Si l'immeuble aliéné comprend un immeuble par destination grevé d'un gage, le créancier gagiste est assimilé à un créancier inscrit pour l'application de la présente sous-section.
 
 Le tiers acquéreur peut, une fois la vente publiée, purger l'immeuble par destination du droit de suite attaché au gage en application de l'article 2464. La notification indique alors le prix de l'immeuble par destination gagé, par ventilation s'il y a lieu du prix global, et inclut l'engagement, dans les limites et conditions fixées par cet article, de s'acquitter des dettes garanties par le gage.

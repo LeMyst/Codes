@@ -1,3 +1,5 @@
+# Article 812
+
 Toute personne peut donner à une ou plusieurs autres personnes, physiques ou morales, mandat d'administrer ou de gérer, sous réserve des pouvoirs confiés à l'exécuteur testamentaire, tout ou partie de sa succession pour le compte et dans l'intérêt d'un ou de plusieurs héritiers identifiés.
 
 Le mandataire peut être un héritier.

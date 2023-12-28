@@ -1,3 +1,5 @@
+# Article 483
+
 Le mandat mis à exécution prend fin par :
 
 1° Le rétablissement des facultés personnelles de l'intéressé constaté à la demande du mandant ou du mandataire, dans les formes prévues à l'article 481 ;

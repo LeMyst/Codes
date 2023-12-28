@@ -1,3 +1,5 @@
+# Article 2394
+
 Quand les époux ont stipulé la participation aux acquêts, chacun a, sauf convention contraire, la faculté d'inscrire l'hypothèque légale pour la sûreté de la créance de participation.
 
 L'inscription pourra être prise avant la dissolution du régime matrimonial, mais elle n'aura d'effet qu'à compter de cette dissolution et à condition que les immeubles sur lesquels elle porte existent à cette date dans le patrimoine de l'époux débiteur.

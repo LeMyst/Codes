@@ -1,3 +1,5 @@
+# Article 812-4
+
 Le mandat prend fin par l'un des événements suivants :
 
 1° L'arrivée du terme prévu ;

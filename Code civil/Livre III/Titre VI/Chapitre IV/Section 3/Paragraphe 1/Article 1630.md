@@ -1,3 +1,5 @@
+# Article 1630
+
 Lorsque la garantie a été promise, ou qu'il n'a rien été stipulé à ce sujet, si l'acquéreur est évincé, il a droit de demander contre le vendeur :
 
 1° La restitution du prix ;

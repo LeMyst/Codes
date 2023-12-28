@@ -1,3 +1,5 @@
+# Article 1872-1
+
 Chaque associé contracte en son nom personnel et est seul engagé à l'égard des tiers.
 
 Toutefois, si les participants agissent en qualité d'associés au vu et au su des tiers, chacun d'eux est tenu à l'égard de ceux-ci des obligations nées des actes accomplis en cette qualité par l'un des autres, avec solidarité, si la société est commerciale, sans solidarité dans les autres cas.

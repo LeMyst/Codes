@@ -1,3 +1,5 @@
+# Article 2418
+
 Les hypothèques légales, judiciaires et conventionnelles n'ont rang que du jour de leur inscription prise au fichier immobilier, dans la forme et de la manière prescrites par la loi.
 
 Par exception, l'hypothèque prévue au 3° de l'article 2402 est dispensée d'inscription. Elle prime toutes les autres hypothèques pour l'année courante et pour les deux dernières années échues. Elle vient en concours avec l'hypothèque du vendeur et du prêteur de deniers pour les années antérieures.

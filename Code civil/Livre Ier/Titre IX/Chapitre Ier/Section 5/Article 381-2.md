@@ -1,3 +1,5 @@
+# Article 381-2
+
 Le tribunal judiciaire déclare délaissé l'enfant recueilli par une personne, un établissement ou un service départemental de l'aide sociale à l'enfance qui se trouve dans la situation mentionnée à l'article 381-1 pendant l'année qui précède l'introduction de la demande en déclaration judiciaire de délaissement parental. La demande en déclaration de délaissement parental est obligatoirement transmise, à l'expiration du délai d'un an prévu à l'article 381-1, par la personne, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant, après que des mesures appropriées de soutien aux parents leur ont été proposées. La demande peut également être présentée par le ministère public agissant d'office ou, le cas échéant, sur proposition du juge des enfants.
 
 La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet de reprendre l'enfant ne constituent pas un acte suffisant pour rejeter de plein droit une demande en déclaration de délaissement parental et n'interrompent pas le délai mentionné au premier alinéa du présent article.

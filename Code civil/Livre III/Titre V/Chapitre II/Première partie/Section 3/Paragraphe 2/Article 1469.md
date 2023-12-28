@@ -1,3 +1,5 @@
+# Article 1469
+
 La récompense est, en général, égale à la plus faible des deux sommes que représentent la dépense faite et le profit subsistant.
 
 Elle ne peut, toutefois, être moindre que la dépense faite quand celle-ci était nécessaire.

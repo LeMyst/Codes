@@ -1,3 +1,5 @@
+# Article 1229
+
 La résolution met fin au contrat.
 
 La résolution prend effet, selon les cas, soit dans les conditions prévues par la clause résolutoire, soit à la date de la réception par le débiteur de la notification faite par le créancier, soit à la date fixée par le juge ou, à défaut, au jour de l'assignation en justice.

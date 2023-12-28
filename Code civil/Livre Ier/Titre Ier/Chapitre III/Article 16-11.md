@@ -1,3 +1,5 @@
+# Article 16-11
+
 L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que :
 
 1° Dans le cadre de mesures d'enquête ou d'instruction diligentées lors d'une procédure judiciaire ;

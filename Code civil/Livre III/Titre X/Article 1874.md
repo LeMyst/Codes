@@ -1,3 +1,5 @@
+# Article 1874
+
 Il y a deux sortes de prêt :
 
 Celui des choses dont on peut user sans les détruire ;

@@ -1,3 +1,5 @@
+# Article 55
+
 Les déclarations de naissance sont faites dans les cinq jours de l'accouchement, à l'officier de l'état civil du lieu.
 
 Par dérogation, ce délai est porté à huit jours lorsque l'éloignement entre le lieu de naissance et le lieu où se situe l'officier de l'état civil le justifie. Un décret en Conseil d'Etat détermine les communes où le présent alinéa s'applique.

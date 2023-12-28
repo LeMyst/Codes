@@ -1,3 +1,5 @@
+# Article 2490
+
 Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
 1° (Abrogé) ;

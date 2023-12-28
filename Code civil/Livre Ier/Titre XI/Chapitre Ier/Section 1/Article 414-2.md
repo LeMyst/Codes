@@ -1,3 +1,5 @@
+# Article 414-2
+
 De son vivant, l'action en nullité n'appartient qu'à l'intéressé.
 
 Après sa mort, les actes faits par lui, autres que la donation entre vifs et le testament, ne peuvent être attaqués par ses héritiers, pour insanité d'esprit, que dans les cas suivants :

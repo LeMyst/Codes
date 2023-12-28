@@ -1,3 +1,5 @@
+# Article 1127-1
+
 Quiconque propose à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à disposition les stipulations contractuelles applicables d'une manière qui permette leur conservation et leur reproduction.
 
 L'auteur d'une offre reste engagé par elle tant qu'elle est accessible par voie électronique de son fait.

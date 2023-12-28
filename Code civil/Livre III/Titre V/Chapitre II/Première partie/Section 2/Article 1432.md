@@ -1,3 +1,5 @@
+# Article 1432
+
 Quand l'un des époux prend en mains la gestion des biens propres de l'autre, au su de celui-ci, et néanmoins sans opposition de sa part, il est censé avoir reçu un mandat tacite, couvrant les actes d'administration et de jouissance, mais non les actes de disposition.
 
 Cet époux répond de sa gestion envers l'autre comme un mandataire. Il n'est, cependant, comptable que des fruits existants ; pour ceux qu'il aurait négligé de percevoir ou consommés frauduleusement, il ne peut être recherché que dans la limite des cinq dernières années.

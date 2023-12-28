@@ -1,3 +1,5 @@
+# Article 2531
+
 Sont seuls susceptibles d'hypothèques :
 
 1° Les biens immobiliers qui sont dans le commerce et leurs accessoires réputés immeubles ;

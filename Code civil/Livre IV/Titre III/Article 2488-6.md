@@ -1,3 +1,5 @@
+# Article 2488-6
+
 Toute sûreté ou garantie peut être prise, inscrite, gérée et réalisée par un agent des sûretés, qui agit en son nom propre au profit des créanciers de l'obligation garantie.
 
 L'agent des sûretés est titulaire des sûretés et garanties.

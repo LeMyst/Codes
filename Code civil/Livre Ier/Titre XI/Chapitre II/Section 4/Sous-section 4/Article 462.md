@@ -1,3 +1,5 @@
+# Article 462
+
 La personne en tutelle est assistée de son tuteur lors de la signature de la convention par laquelle elle conclut un pacte civil de solidarité. Aucune assistance ni représentation ne sont requises lors de la déclaration conjointe devant l'officier de l'état civil ou devant le notaire instrumentaire prévue au premier alinéa de l'article 515-3.
 
 Les dispositions du premier alinéa du présent article sont applicables en cas de modification de la convention.

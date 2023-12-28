@@ -1,3 +1,5 @@
+# Article 101-1
+
 La publicité des actes de l'état civil est assurée par la délivrance des copies intégrales ou d'extraits faite par les officiers de l'état civil.
 
 Le contenu et les conditions de délivrance des copies intégrales et des extraits sont fixés par décret en Conseil d'Etat.

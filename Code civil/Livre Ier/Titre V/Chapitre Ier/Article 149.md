@@ -1,3 +1,5 @@
+# Article 149
+
 Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit.
 
 Il n'est pas nécessaire de produire l'acte de décès du père ou de la mère de l'un des futurs époux lorsque le conjoint ou les père et mère du défunt attestent ce décès sous serment.

@@ -1,3 +1,5 @@
+# Article 345
+
 L'adoption plénière n'est permise qu'en faveur des enfants âgés de moins de quinze ans, accueillis au foyer du ou des adoptants depuis au moins six mois.
 
 Toutefois, si l'enfant a plus de quinze ans, l'adoption plénière peut également être demandée, si les conditions en sont remplies, pendant la minorité de l'enfant et dans les trois ans suivant sa majorité :

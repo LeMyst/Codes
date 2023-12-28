@@ -1,3 +1,5 @@
+# Article 526
+
 Sont immeubles, par l'objet auquel ils s'appliquent :
 
 L'usufruit des choses immobilières ;

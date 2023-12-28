@@ -1,3 +1,5 @@
+# Article 1576
+
 La créance de participation donne lieu à paiement en argent. Si l'époux débiteur rencontre des difficultés graves à s'en acquitter entièrement dès la clôture de la liquidation, les juges peuvent lui accorder des délais qui ne dépasseront pas cinq ans, à charge de fournir des sûretés et de verser des intérêts.
 
 La créance de participation peut toutefois donner lieu à un règlement en nature, soit du consentement des deux époux, soit en vertu d'une décision du juge, si l'époux débiteur justifie de difficultés graves qui l'empêchent de s'acquitter en argent.

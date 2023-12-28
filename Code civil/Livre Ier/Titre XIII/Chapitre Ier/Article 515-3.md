@@ -1,3 +1,5 @@
+# Article 515-3
+
 Les personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe devant l'officier de l'état civil de la commune dans laquelle elles fixent leur résidence commune ou, en cas d'empêchement grave à la fixation de celle-ci, devant l'officier de l'état civil de la commune où se trouve la résidence de l'une des parties.
 
 En cas d'empêchement grave, l'officier de l'état civil se transporte au domicile ou à la résidence de l'une des parties pour enregistrer le pacte civil de solidarité.

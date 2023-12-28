@@ -1,3 +1,5 @@
+# Article 780
+
 La faculté d'option se prescrit par dix ans à compter de l'ouverture de la succession.
 
 L'héritier qui n'a pas pris parti dans ce délai est réputé renonçant.

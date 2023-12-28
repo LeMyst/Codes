@@ -1,3 +1,5 @@
+# Article 2384
+
 Les droits du créancier titulaire d'un droit de gage immobilier s'éteignent notamment :
 
 1° Par l'extinction de l'obligation principale ;

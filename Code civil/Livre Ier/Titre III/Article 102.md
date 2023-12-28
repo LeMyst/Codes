@@ -1,3 +1,5 @@
+# Article 102
+
 Le domicile de tout Français, quant à l'exercice de ses droits civils, est au lieu où il a son principal établissement.
 
 Le lieu d'exercice des droits civils d'une personne sans domicile stable est celui où elle a fait élection de domicile dans les conditions prévues à l'article L. 264-1 du code de l'action sociale et des familles.

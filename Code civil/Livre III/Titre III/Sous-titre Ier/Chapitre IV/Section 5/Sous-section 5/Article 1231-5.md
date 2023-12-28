@@ -1,3 +1,5 @@
+# Article 1231-5
+
 Lorsque le contrat stipule que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages et intérêts, il ne peut être alloué à l'autre partie une somme plus forte ni moindre.
 
 Néanmoins, le juge peut, même d'office, modérer ou augmenter la pénalité ainsi convenue si elle est manifestement excessive ou dérisoire.

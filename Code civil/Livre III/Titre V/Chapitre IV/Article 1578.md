@@ -1,3 +1,5 @@
+# Article 1578
+
 A la dissolution du régime matrimonial, si les parties ne s'accordent pas pour procéder à la liquidation par convention, l'une d'elles peut demander au tribunal qu'il y soit procédé en justice.
 
 Sont applicables à cette demande, en tant que de raison, les règles prescrites pour arriver au partage judiciaire des successions et communautés.

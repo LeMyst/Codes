@@ -1,3 +1,5 @@
+# Article 810-3
+
 La vente a lieu soit par commissaire-priseur judiciaire, huissier ou notaire selon les lois et règlements applicables à ces professions, soit par le tribunal, soit dans les formes prévues par le code général de la propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier appartenant à l'Etat.
 
 Elle donne lieu à publicité.

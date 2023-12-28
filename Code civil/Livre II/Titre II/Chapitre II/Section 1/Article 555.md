@@ -1,3 +1,5 @@
+# Article 555
+
 Lorsque les plantations, constructions et ouvrages ont été faits par un tiers et avec des matériaux appartenant à ce dernier, le propriétaire du fonds a le droit, sous réserve des dispositions de l'alinéa 4, soit d'en conserver la propriété, soit d'obliger le tiers à les enlever.
 
 Si le propriétaire du fonds exige la suppression des constructions, plantations et ouvrages, elle est exécutée aux frais du tiers, sans aucune indemnité pour lui ; le tiers peut, en outre, être condamné à des dommages-intérêts pour le préjudice éventuellement subi par le propriétaire du fonds.

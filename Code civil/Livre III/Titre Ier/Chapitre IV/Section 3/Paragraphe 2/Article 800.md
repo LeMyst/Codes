@@ -1,3 +1,5 @@
+# Article 800
+
 L'héritier est chargé d'administrer les biens qu'il recueille dans la succession. Il tient le compte de son administration, des créances qu'il paye et des actes qui engagent les biens recueillis ou qui affectent leur valeur.
 
 Il répond des fautes graves dans cette administration.

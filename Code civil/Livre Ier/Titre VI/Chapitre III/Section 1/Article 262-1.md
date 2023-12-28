@@ -1,3 +1,5 @@
+# Article 262-1
+
 La convention ou le jugement de divorce prend effet dans les rapports entre les époux, en ce qui concerne leurs biens :
 
 -lorsqu'il est constaté par consentement mutuel par acte sous signature privée contresigné par avocats déposé au rang des minutes d'un notaire, à la date à laquelle la convention réglant l'ensemble des conséquences du divorce acquiert force exécutoire, à moins que cette convention n'en stipule autrement ;

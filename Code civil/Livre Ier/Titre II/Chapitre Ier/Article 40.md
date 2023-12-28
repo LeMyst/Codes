@@ -1,3 +1,5 @@
+# Article 40
+
 Les actes de l'état civil sont établis sur papier et sont inscrits, dans chaque commune, sur un ou plusieurs registres tenus en double exemplaire.
 
 Lorsqu'elles ont mis en œuvre des traitements automatisés des données de l'état civil, les communes s'assurent de leurs conditions de sécurité et d'intégrité. Les caractéristiques techniques des traitements mis en œuvre pour conserver ces données sont fixées par décret en Conseil d'Etat.

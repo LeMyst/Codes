@@ -1,3 +1,5 @@
+# Article 316-2
+
 Tout acte d'opposition du procureur de la République mentionne les prénoms et nom de l'auteur de la reconnaissance ainsi que les prénoms et nom, date et lieu de naissance de l'enfant concerné.
 
 En cas de reconnaissance prénatale, l'acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance ainsi que toute indication communiquée à l'officier de l'état civil relative à l'identification de l'enfant à naître.

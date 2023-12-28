@@ -1,3 +1,5 @@
+# Article 386
+
 L'administrateur légal est responsable de tout dommage résultant d'une faute quelconque qu'il commet dans la gestion des biens du mineur.
 
 Si l'administration légale est exercée en commun, les deux parents sont responsables solidairement.

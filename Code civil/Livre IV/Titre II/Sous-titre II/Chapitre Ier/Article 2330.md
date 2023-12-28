@@ -1,3 +1,5 @@
+# Article 2330
+
 Les privilèges mobiliers sont accordés par la loi.
 
 Ils sont généraux ou spéciaux.

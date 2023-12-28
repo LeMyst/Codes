@@ -1,3 +1,5 @@
+# Article 34
+
 Les actes de l'état civil énonceront l'année, le jour et l'heure où ils seront reçus, les prénoms et nom de l'officier de l'état civil, les prénoms, noms, professions et domiciles de tous ceux qui y seront dénommés.
 
 Les dates et lieux de naissance :

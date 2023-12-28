@@ -1,3 +1,5 @@
+# Article 63
+
 Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi que le lieu où le mariage devra être célébré.
 
 La publication prévue au premier alinéa ou, en cas de dispense de publication accordée conformément aux dispositions de l'article 169, la célébration du mariage est subordonnée :

@@ -1,3 +1,5 @@
+# Article 504
+
 Le tuteur accomplit seul les actes conservatoires et, sous réserve des dispositions du second alinéa de l'article 473, les actes d'administration nécessaires à la gestion du patrimoine de la personne protégée.
 
 Il agit seul en justice pour faire valoir les droits patrimoniaux de la personne protégée.

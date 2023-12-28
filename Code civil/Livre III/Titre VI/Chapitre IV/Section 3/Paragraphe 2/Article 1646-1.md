@@ -1,3 +1,5 @@
+# Article 1646-1
+
 Le vendeur d'un immeuble à construire est tenu, à compter de la réception des travaux, des obligations dont les architectes, entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage sont eux-mêmes tenus en application des articles 1792, 1792-1, 1792-2 et 1792-3 du présent code.
 
 Ces garanties bénéficient aux propriétaires successifs de l'immeuble.

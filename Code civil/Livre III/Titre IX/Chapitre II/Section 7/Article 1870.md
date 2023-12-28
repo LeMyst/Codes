@@ -1,3 +1,5 @@
+# Article 1870
+
 La société n'est pas dissoute par le décès d'un associé, mais continue avec ses héritiers ou légataires, sauf à prévoir dans les statuts qu'ils doivent être agréés par les associés.
 
 Il peut toutefois, être convenu que ce décès entraînera la dissolution de la société ou que celle-ci continuera avec les seuls associés survivants.

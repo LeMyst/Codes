@@ -1,3 +1,5 @@
+# Article 457
+
 Le juge peut autoriser le conseil de famille à se réunir et délibérer hors de sa présence lorsque ce dernier a désigné un mandataire judiciaire à la protection des majeurs comme tuteur ou subrogé tuteur. Le conseil de famille désigne alors un président et un secrétaire parmi ses membres, à l'exclusion du tuteur et du subrogé tuteur.
 
 Le président du conseil de famille transmet préalablement au juge l'ordre du jour de chaque réunion.

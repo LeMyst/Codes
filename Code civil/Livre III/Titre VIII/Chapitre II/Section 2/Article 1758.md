@@ -1,3 +1,5 @@
+# Article 1758
+
 Le bail d'un appartement meublé est censé fait à l'année, quand il a été fait à tant par an ;
 
 Au mois, quand il a été fait à tant par mois ;

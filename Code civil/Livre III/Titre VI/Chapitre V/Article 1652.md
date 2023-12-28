@@ -1,3 +1,5 @@
+# Article 1652
+
 L'acheteur doit l'intérêt du prix de la vente jusqu'au paiement du capital, dans les trois cas suivants :
 
 S'il a été ainsi convenu lors de la vente ;

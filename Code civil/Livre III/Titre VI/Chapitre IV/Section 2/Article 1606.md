@@ -1,3 +1,5 @@
+# Article 1606
+
 La délivrance des effets mobiliers s'opère :
 
 Ou par la remise de la chose,

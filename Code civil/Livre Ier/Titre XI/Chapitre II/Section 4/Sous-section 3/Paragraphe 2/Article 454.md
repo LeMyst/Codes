@@ -1,3 +1,5 @@
+# Article 454
+
 Le juge peut, s'il l'estime nécessaire et sous réserve des pouvoirs du conseil de famille s'il a été constitué, désigner un subrogé curateur ou un subrogé tuteur.
 
 Si le curateur ou le tuteur est parent ou allié de la personne protégée dans une branche, le subrogé curateur ou le subrogé tuteur est choisi, dans la mesure du possible, dans l'autre branche.

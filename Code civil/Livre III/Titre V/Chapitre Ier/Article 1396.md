@@ -1,3 +1,5 @@
+# Article 1396
+
 Les changements qui seraient apportés aux conventions matrimoniales avant la célébration du mariage doivent être constatés par un acte passé dans les mêmes formes. Nul changement ou contre-lettre n'est, au surplus, valable sans la présence et le consentement simultanés de toutes les personnes qui ont été parties dans le contrat de mariage, ou de leurs mandataires.
 
 Tous changements et contre-lettres, même revêtus des formes prescrites par l'article précédent, seront sans effet à l'égard des tiers, s'ils n'ont été rédigés à la suite de la minute du contrat de mariage ; et le notaire ne pourra délivrer ni grosses ni expéditions du contrat de mariage sans transcrire à la suite le changement ou la contre-lettre.

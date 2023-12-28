@@ -1,3 +1,5 @@
+# Article 311-23
+
 Lorsque la filiation n'est établie qu'à l'égard d'un parent, l'enfant prend le nom de ce parent.
 
 Lors de l'établissement du second lien de filiation puis durant la minorité de l'enfant, les parents peuvent, par déclaration conjointe devant l'officier de l'état civil, choisir soit de lui substituer le nom de famille du parent à l'égard duquel la filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. En cas d'empêchement grave, le parent peut être représenté par un fondé de procuration spéciale et authentique.

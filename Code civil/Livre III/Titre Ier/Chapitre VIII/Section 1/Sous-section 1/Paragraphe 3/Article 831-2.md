@@ -1,3 +1,5 @@
+# Article 831-2
+
 Le conjoint survivant ou tout héritier copropriétaire peut également demander l'attribution préférentielle :
 
 1° De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque du décès, et du mobilier le garnissant, ainsi que du véhicule du défunt dès lors que ce véhicule lui est nécessaire pour les besoins de la vie courante ;

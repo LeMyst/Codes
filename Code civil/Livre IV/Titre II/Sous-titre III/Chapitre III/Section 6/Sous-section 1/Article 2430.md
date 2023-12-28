@@ -1,3 +1,5 @@
+# Article 2430
+
 L'inscription cesse de produire effet si elle n'a pas été renouvelée au plus tard à la date visée au premier alinéa de l'article 2429.
 
 Chaque renouvellement est requis jusqu'à une date déterminée. Cette date est fixée comme il est dit à l'article 2429 en distinguant suivant que l'échéance ou la dernière échéance, même si elle résulte d'une prorogation de délai, est ou non déterminée et qu'elle est ou non postérieure au jour du renouvellement.

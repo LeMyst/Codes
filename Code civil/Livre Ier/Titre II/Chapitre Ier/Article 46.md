@@ -1,3 +1,5 @@
+# Article 46
+
 Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ; et, dans ces cas, les mariages, naissances et décès pourront être prouvés tant par les registres et papiers émanés des pères et mères décédés, que par témoins.
 
 Jusqu'à ce que la reconstitution ou la restitution des registres ait été effectuée, il peut être suppléé par des actes de notoriété à tous les actes de l'état civil dont les originaux ont été détruits ou sont disparus par suite d'un sinistre ou de faits de guerre.

@@ -1,3 +1,5 @@
+# Article 515-5-2
+
 Toutefois, demeurent la propriété exclusive de chaque partenaire :
 
 1° Les deniers perçus par chacun des partenaires, à quelque titre que ce soit, postérieurement à la conclusion du pacte et non employés à l'acquisition d'un bien ;

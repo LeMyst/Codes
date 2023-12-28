@@ -1,3 +1,5 @@
+# Article 16-12
+
 Sont seuls habilités à procéder à des identifications par empreintes génétiques :
 
 1° Les services ou organismes de police technique et scientifique mentionnés à l'article 157-2 du code de procédure pénale ;

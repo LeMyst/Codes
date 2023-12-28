@@ -1,3 +1,5 @@
+# Article 419
+
 Les personnes autres que le mandataire judiciaire à la protection des majeurs exercent à titre gratuit les mesures judiciaires de protection. Toutefois, le juge des tutelles ou le conseil de famille s'il a été constitué peut autoriser, selon l'importance des biens gérés ou la difficulté d'exercer la mesure, le versement d'une indemnité à la personne chargée de la protection. Il en fixe le montant. Cette indemnité est à la charge de la personne protégée.
 
 Si la mesure judiciaire de protection est exercée par un mandataire judiciaire à la protection des majeurs, son financement est à la charge totale ou partielle de la personne protégée en fonction de ses ressources et selon les modalités prévues par le code de l'action sociale et des familles.

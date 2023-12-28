@@ -1,3 +1,5 @@
+# Article 33
+
 Pour l'application du présent titre :
 
 1° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ;

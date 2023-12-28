@@ -1,3 +1,5 @@
+# Article 386-2
+
 Le droit de jouissance cesse :
 
 1° Dès que l'enfant a seize ans accomplis ou même plus tôt quand il contracte mariage ;

@@ -1,3 +1,5 @@
+# Article 496
+
 Le tuteur représente la personne protégée dans les actes nécessaires à la gestion de son patrimoine.
 
 Il est tenu d'apporter, dans celle-ci, des soins prudents, diligents et avisés, dans le seul intérêt de la personne protégée.

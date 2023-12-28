@@ -1,3 +1,5 @@
+# Article 2423
+
 L'inscription des hypothèques est opérée par le service chargé de la publicité foncière sur le dépôt de deux bordereaux datés, signés et certifiés conformes entre eux par le signataire du certificat d'identité prévu aux articles 5 et 6 du décret du 4 janvier 1955 ; un décret en Conseil d'Etat détermine les conditions de forme auxquelles le bordereau destiné à être conservé par ce service doit satisfaire. Au cas où l'inscrivant ne se serait pas servi d'une formule réglementaire, le service chargé de la publicité foncière accepterait cependant le dépôt, sous réserve des dispositions de l'avant-dernier alinéa du présent article.
 
 Toutefois, pour l'inscription de l'hypothèque légale attachée aux jugements de condamnation et de l'hypothèque judiciaire, le créancier présente en outre, soit par lui-même, soit par un tiers, audit service :

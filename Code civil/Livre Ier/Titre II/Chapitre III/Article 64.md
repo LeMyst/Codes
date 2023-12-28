@@ -1,3 +1,5 @@
+# Article 64
+
 L'affiche prévue à l'article précédent restera apposée à la porte de la maison commune pendant dix jours.
 
 Le mariage ne pourra être célébré avant le dixième jour depuis et non compris celui de la publication.

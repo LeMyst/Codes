@@ -1,3 +1,5 @@
+# Article 1792-1
+
 Est réputé constructeur de l'ouvrage :
 
 1° Tout architecte, entrepreneur, technicien ou autre personne liée au maître de l'ouvrage par un contrat de louage d'ouvrage ;

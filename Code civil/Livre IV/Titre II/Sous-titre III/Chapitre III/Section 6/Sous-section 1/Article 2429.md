@@ -1,3 +1,5 @@
+# Article 2429
+
 L'inscription conserve l'hypothèque jusqu'à la date que fixe le créancier en se conformant aux dispositions qui suivent.
 
 Si le principal de l'obligation garantie doit être acquitté à une ou plusieurs dates déterminées, la date extrême d'effet de l'inscription prise avant l'échéance ou la dernière échéance prévue est, au plus, postérieure de un an à cette échéance, sans toutefois que la durée de l'inscription puisse excéder cinquante années.

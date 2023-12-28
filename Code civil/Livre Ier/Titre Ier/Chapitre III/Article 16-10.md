@@ -1,3 +1,5 @@
+# Article 16-10
+
 I.-L'examen des caractéristiques génétiques constitutionnelles d'une personne ne peut être entrepris qu'à des fins médicales ou de recherche scientifique. Il est subordonné au consentement exprès de la personne, recueilli par écrit préalablement à la réalisation de l'examen.
 
 II.-Le consentement prévu au I est recueilli après que la personne a été dûment informée :

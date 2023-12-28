@@ -1,3 +1,5 @@
+# Article 1844-4
+
 Une société, même en liquidation, peut être absorbée par une autre société ou participer à la constitution d'une société nouvelle, par voie de fusion.
 
 Elle peut aussi transmettre son patrimoine par voie de scission à des sociétés existantes ou à des sociétés nouvelles.

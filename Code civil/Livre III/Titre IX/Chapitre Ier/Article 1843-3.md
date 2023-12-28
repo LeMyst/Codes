@@ -1,3 +1,5 @@
+# Article 1843-3
+
 Chaque associé est débiteur envers la société de tout ce qu'il a promis de lui apporter en nature, en numéraire ou en industrie.
 
 Les apports en nature sont réalisés par le transfert des droits correspondants et par la mise à la disposition effective des biens.

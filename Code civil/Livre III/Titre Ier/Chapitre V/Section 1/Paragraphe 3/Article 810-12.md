@@ -1,3 +1,5 @@
+# Article 810-12
+
 La curatelle prend fin :
 
 1° Par l'affectation intégrale de l'actif au paiement des dettes et des legs ;

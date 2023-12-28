@@ -1,3 +1,5 @@
+# Article 2356
+
 A peine de nullité, le nantissement de créance doit être conclu par écrit.
 
 Les créances garanties et les créances nanties sont désignées dans l'acte.

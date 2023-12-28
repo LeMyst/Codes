@@ -1,3 +1,5 @@
+# Article 2329
+
 Les sûretés sur les meubles sont :
 
 1° Les privilèges mobiliers ;

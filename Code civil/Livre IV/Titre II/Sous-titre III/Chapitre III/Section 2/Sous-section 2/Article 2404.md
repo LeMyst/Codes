@@ -1,3 +1,5 @@
+# Article 2404
+
 Le titulaire de la créance visée au 7° de l'article 2402 conserve son hypothèque par la double inscription faite :
 
 1° Par l'auteur de l'arrêté de police pris en application de l'article L. 184-1 du code de la construction et de l'habitation pour les mesures édictées sous peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement ou de l'article L. 511-11 du même code comportant une évaluation sommaire du coût des mesures ou des travaux à exécuter ;

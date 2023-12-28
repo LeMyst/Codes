@@ -1,3 +1,5 @@
+# Article 375-7
+
 Les père et mère de l'enfant bénéficiant d'une mesure d'assistance éducative continuent à exercer tous les attributs de l'autorité parentale qui ne sont pas inconciliables avec cette mesure. Ils ne peuvent, pendant la durée de cette mesure, émanciper l'enfant sans autorisation du juge des enfants.
 
 Sans préjudice de l'article 373-4 et des dispositions particulières autorisant un tiers à accomplir un acte non usuel sans l'accord des détenteurs de l'autorité parentale, le juge des enfants peut exceptionnellement, dans tous les cas où l'intérêt de l'enfant le justifie, autoriser la personne, le service ou l'établissement à qui est confié l'enfant à exercer un ou plusieurs actes déterminés relevant de l'autorité parentale en cas de refus abusif ou injustifié ou en cas de négligence des détenteurs de l'autorité parentale ou lorsque ceux-ci sont poursuivis ou condamnés, même non définitivement, pour des crimes ou délits commis sur la personne de l'enfant, à charge pour le demandeur de rapporter la preuve de la nécessité de cette mesure.

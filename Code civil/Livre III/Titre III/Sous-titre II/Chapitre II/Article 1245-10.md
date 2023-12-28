@@ -1,3 +1,5 @@
+# Article 1245-10
+
 Le producteur est responsable de plein droit à moins qu'il ne prouve :
 
 1° Qu'il n'avait pas mis le produit en circulation ;

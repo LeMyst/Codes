@@ -1,3 +1,5 @@
+# Article 1348-1
+
 Le juge ne peut refuser la compensation de dettes connexes au seul motif que l'une des obligations ne serait pas liquide ou exigible.
 
 Dans ce cas, la compensation est réputée s'être produite au jour de l'exigibilité de la première d'entre elles.

@@ -1,3 +1,5 @@
+# Article 674
+
 Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non,
 
 Celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,

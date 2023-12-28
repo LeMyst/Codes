@@ -1,3 +1,5 @@
+# Article 815-11
+
 Tout indivisaire peut demander sa part annuelle dans les bénéfices, déduction faite des dépenses entraînées par les actes auxquels il a consenti ou qui lui sont opposables.
 
 A défaut d'autre titre, l'étendue des droits de chacun dans l'indivision résulte de l'acte de notoriété ou de l'intitulé d'inventaire établi par le notaire.

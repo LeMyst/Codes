@@ -1,3 +1,5 @@
+# Article 2376
+
 Les privilèges immobiliers sont accordés par la loi.
 
 Ils sont généraux.

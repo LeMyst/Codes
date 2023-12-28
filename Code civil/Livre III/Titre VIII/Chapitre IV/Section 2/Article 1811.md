@@ -1,3 +1,5 @@
+# Article 1811
+
 On ne peut stipuler :
 
 Que le preneur supportera la perte totale du cheptel, quoique arrivée par cas fortuit et sans sa faute.

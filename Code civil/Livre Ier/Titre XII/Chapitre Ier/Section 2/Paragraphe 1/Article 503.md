@@ -1,3 +1,5 @@
+# Article 503
+
 Le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné, à un inventaire des biens de la personne protégée, qui est transmis au juge dans les trois mois de l'ouverture de la tutelle pour les biens meubles corporels, et dans les six mois pour les autres biens, avec le budget prévisionnel. Il en assure l'actualisation au cours de la mesure.
 
 Il peut obtenir communication de tous renseignements et documents nécessaires à l'établissement de l'inventaire auprès de toute personne publique ou privée, sans que puisse lui être opposé le secret professionnel ou le secret bancaire.

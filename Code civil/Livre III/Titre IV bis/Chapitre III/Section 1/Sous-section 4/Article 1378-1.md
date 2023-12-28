@@ -1,3 +1,5 @@
+# Article 1378-1
+
 Les registres et papiers domestiques ne font pas preuve au profit de celui qui les a écrits.
 
 Ils font preuve contre lui :

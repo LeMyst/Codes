@@ -1,3 +1,5 @@
+# Article 2393
+
 Outre celles prévues par des lois spéciales, les créances auxquelles une hypothèque légale générale est attachée sont :
 
 1° Celles de l'un des époux contre l'autre ;

@@ -1,3 +1,5 @@
+# Article 439
+
 Sous peine de caducité, la mesure de sauvegarde de justice ne peut excéder un an, renouvelable une fois dans les conditions fixées au quatrième alinéa de l'article 442.
 
 Lorsque la sauvegarde de justice a été prononcée en application de l'article 433, le juge peut, à tout moment, en ordonner la mainlevée si le besoin de protection temporaire cesse.

@@ -1,3 +1,5 @@
+# Article 815-6
+
 Le président du tribunal judiciaire peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt commun.
 
 Il peut, notamment, autoriser un indivisaire à percevoir des débiteurs de l'indivision ou des dépositaires de fonds indivis une provision destinée à faire face aux besoins urgents, en prescrivant, au besoin, les conditions de l'emploi. Cette autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier.

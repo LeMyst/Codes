@@ -1,3 +1,5 @@
+# Article 328
+
 Le parent, même mineur, à l'égard duquel la filiation est établie a, pendant la minorité de l'enfant, seul qualité pour exercer l'action en recherche de maternité ou de paternité.
 
 Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans l'impossibilité de manifester sa volonté, l'action est intentée par le tuteur conformément aux dispositions du deuxième alinéa de l'article 408.

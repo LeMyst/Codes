@@ -1,3 +1,5 @@
+# Article 387-5
+
 A l'occasion du contrôle mentionné à l'article précédent, le juge peut demander à l'administrateur légal de soumettre au directeur des services de greffe judiciaires du tribunal judiciaire un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
 
 Lorsque des comptes ont été demandés, l'administrateur légal doit remettre au directeur des services de greffe judiciaires, à la fin de sa mission, un compte définitif des opérations intervenues depuis l'établissement du dernier compte annuel.

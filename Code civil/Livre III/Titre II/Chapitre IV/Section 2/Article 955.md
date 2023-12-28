@@ -1,3 +1,5 @@
+# Article 955
+
 La donation entre vifs ne pourra être révoquée pour cause d'ingratitude que dans les cas suivants :
 
 1° Si le donataire a attenté à la vie du donateur ;

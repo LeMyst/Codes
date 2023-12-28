@@ -1,3 +1,5 @@
+# Article 1342-2
+
 Le paiement doit être fait au créancier ou à la personne désignée pour le recevoir.
 
 Le paiement fait à une personne qui n'avait pas qualité pour le recevoir est néanmoins valable si le créancier le ratifie ou s'il en a profité.

@@ -1,3 +1,5 @@
+# Article 791
+
 L'acceptation à concurrence de l'actif net donne à l'héritier l'avantage :
 
 1° D'éviter la confusion de ses biens personnels avec ceux de la succession ;

@@ -1,3 +1,5 @@
+# Article 890
+
 L'action en complément de part est admise contre tout acte, quelle que soit sa dénomination, dont l'objet est de faire cesser l'indivision entre copartageants.
 
 L'action n'est plus admise lorsqu'une transaction est intervenue à la suite du partage ou de l'acte qui en tient lieu sur les difficultés que présentait ce partage ou cet acte.

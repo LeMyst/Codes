@@ -1,3 +1,5 @@
+# Article 505
+
 Le tuteur ne peut, sans y être autorisé par le conseil de famille ou, à défaut, le juge, faire des actes de disposition au nom de la personne protégée.
 
 L'autorisation détermine les stipulations et, le cas échéant, le prix ou la mise à prix pour lequel l'acte est passé. L'autorisation n'est pas exigée en cas de vente forcée sur décision judiciaire ou en cas de vente amiable sur autorisation du juge.

@@ -1,3 +1,5 @@
+# Article 784
+
 Les actes purement conservatoires ou de surveillance et les actes d'administration provisoire peuvent être accomplis sans emporter acceptation de la succession, si le successible n'y a pas pris le titre ou la qualité d'héritier.
 
 Tout autre acte que requiert l'intérêt de la succession et que le successible veut accomplir sans prendre le titre ou la qualité d'héritier doit être autorisé par le juge.

@@ -1,3 +1,5 @@
+# Article 510
+
 Le tuteur établit chaque année un compte de sa gestion auquel sont annexées toutes les pièces justificatives utiles.
 
 A cette fin, il sollicite des établissements auprès desquels un ou plusieurs comptes sont ouverts au nom de la personne protégée un relevé annuel de ceux-ci, sans que puisse lui être opposé le secret professionnel ou le secret bancaire.

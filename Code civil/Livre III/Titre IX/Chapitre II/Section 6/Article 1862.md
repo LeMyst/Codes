@@ -1,3 +1,5 @@
+# Article 1862
+
 Lorsque plusieurs associés expriment leur volonté d'acquérir, ils sont, sauf clause ou convention contraire, réputés acquéreurs à proportion du nombre de parts qu'ils détenaient antérieurement.
 
 Si aucun associé ne se porte acquéreur, la société peut faire acquérir les parts par un tiers désigné à l'unanimité des autres associés ou suivant les modalités prévues par les statuts. La société peut également procéder au rachat des parts en vue de leur annulation.

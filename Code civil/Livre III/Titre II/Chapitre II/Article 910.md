@@ -1,3 +1,5 @@
+# Article 910
+
 I. - Les dispositions entre vifs ou par testament au profit des établissements de santé, des établissements sociaux et médico-sociaux ou d'établissements d'utilité publique n'ont leur effet qu'autant qu'elles sont autorisées par arrêté du représentant de l'Etat dans le département.
 
 II. - Toutefois, les dispositions entre vifs ou par testament au profit des fondations, des congrégations et des associations ayant la capacité à recevoir des libéralités et, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, des établissements publics du culte et des associations inscrites de droit local, à l'exception des associations ou fondations dont les activités ou celles de leurs dirigeants sont visées à l'article 1er de la loi n° 2001-504 du 12 juin 2001 tendant à renforcer la prévention et la répression des mouvements sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales, sont acceptées librement par celles-ci.

@@ -1,3 +1,5 @@
+# Article 2337
+
 Le gage est opposable aux tiers par la publicité qui en est faite.
 
 Il l'est également par la dépossession entre les mains du créancier ou d'un tiers convenu du bien qui en fait l'objet ou du titre qui, tel un connaissement, le représente.

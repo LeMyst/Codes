@@ -1,3 +1,5 @@
+# Article 436
+
 Le mandat par lequel la personne protégée a chargé une autre personne de l'administration de ses biens continue à produire ses effets pendant la sauvegarde de justice à moins qu'il ne soit révoqué ou suspendu par le juge des tutelles, le mandataire étant entendu ou appelé.
 
 En l'absence de mandat, les règles de la gestion d'affaires sont applicables.

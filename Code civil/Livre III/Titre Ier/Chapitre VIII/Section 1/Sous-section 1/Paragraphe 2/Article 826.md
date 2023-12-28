@@ -1,3 +1,5 @@
+# Article 826
+
 L'égalité dans le partage est une égalité en valeur.
 
 Chaque copartageant reçoit des biens pour une valeur égale à celle de ses droits dans l'indivision.

@@ -1,3 +1,5 @@
+# Article 727
+
 Peuvent être déclarés indignes de succéder :
 
 1° Celui qui est condamné, comme auteur ou complice, à une peine correctionnelle pour avoir volontairement donné ou tenté de donner la mort au défunt ;

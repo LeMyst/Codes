@@ -1,3 +1,5 @@
+# Article 790
+
 L'inventaire est déposé au tribunal dans le délai de deux mois à compter de la déclaration.
 
 L'héritier peut solliciter du juge un délai supplémentaire s'il justifie de motifs sérieux et légitimes qui retardent le dépôt de l'inventaire. En ce cas, le délai de deux mois est suspendu à compter de la demande de prorogation.

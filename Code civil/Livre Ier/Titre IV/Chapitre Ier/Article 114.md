@@ -1,3 +1,5 @@
+# Article 114
+
 Sans préjudice de la compétence particulière attribuée à d'autres juridictions, aux mêmes fins, le juge fixe, le cas échéant, suivant l'importance des biens, les sommes qu'il convient d'affecter annuellement à l'entretien de la famille ou aux charges du mariage.
 
 Il détermine comment il est pourvu à l'établissement des enfants.

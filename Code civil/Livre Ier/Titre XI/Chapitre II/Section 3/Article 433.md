@@ -1,3 +1,5 @@
+# Article 433
+
 Le juge peut placer sous sauvegarde de justice la personne qui, pour l'une des causes prévues à l'article 425, a besoin d'une protection juridique temporaire ou d'être représentée pour l'accomplissement de certains actes déterminés.
 
 Cette mesure peut aussi être prononcée par le juge, saisi d'une procédure de curatelle ou de tutelle, pour la durée de l'instance.

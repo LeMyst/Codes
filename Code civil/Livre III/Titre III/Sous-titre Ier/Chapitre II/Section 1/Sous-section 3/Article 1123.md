@@ -1,3 +1,5 @@
+# Article 1123
+
 Le pacte de préférence est le contrat par lequel une partie s'engage à proposer prioritairement à son bénéficiaire de traiter avec lui pour le cas où elle déciderait de contracter.
 
 Lorsqu'un contrat est conclu avec un tiers en violation d'un pacte de préférence, le bénéficiaire peut obtenir la réparation du préjudice subi. Lorsque le tiers connaissait l'existence du pacte et l'intention du bénéficiaire de s'en prévaloir, ce dernier peut également agir en nullité ou demander au juge de le substituer au tiers dans le contrat conclu.

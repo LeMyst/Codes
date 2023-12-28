@@ -1,3 +1,5 @@
+# Article 515-11
+
 L'ordonnance de protection est délivrée, par le juge aux affaires familiales, dans un délai maximal de six jours à compter de la fixation de la date de l'audience, s'il estime, au vu des éléments produits devant lui et contradictoirement débattus, qu'il existe des raisons sérieuses de considérer comme vraisemblables la commission des faits de violence allégués et le danger auquel la victime ou un ou plusieurs enfants sont exposés. A l'occasion de sa délivrance, après avoir recueilli les observations des parties sur chacune des mesures suivantes, le juge aux affaires familiales est compétent pour :
 
 1° Interdire à la partie défenderesse de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge aux affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;

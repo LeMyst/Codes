@@ -1,3 +1,5 @@
+# Article 373-2-2
+
 I.-En cas de séparation entre les parents, ou entre ceux-ci et l'enfant, la contribution à son entretien et à son éducation prend la forme d'une pension alimentaire versée, selon le cas, par l'un des parents à l'autre, ou à la personne à laquelle l'enfant a été confié.
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par :

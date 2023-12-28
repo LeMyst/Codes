@@ -1,3 +1,5 @@
+# Article 357
+
 L'adoption plénière confère à l'enfant le nom de l'adoptant.
 
 En cas d'adoption d'un enfant par un couple, ou les adoptants choisissent, par déclaration conjointe, le nom de famille dévolu à l'enfant : soit le nom de l'un d'eux, soit leurs deux noms accolés dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux.

@@ -1,3 +1,5 @@
+# Article 255
+
 Le juge peut notamment :
 
 1° Proposer aux époux une mesure de médiation, sauf si des violences sont alléguées par l'un des époux sur l'autre époux ou sur l'enfant, ou sauf emprise manifeste de l'un des époux sur son conjoint, et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder ;

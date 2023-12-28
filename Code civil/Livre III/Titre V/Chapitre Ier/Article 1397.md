@@ -1,3 +1,5 @@
+# Article 1397
+
 Les époux peuvent convenir, dans l'intérêt de la famille, de modifier leur régime matrimonial, ou même d'en changer entièrement, par un acte notarié. A peine de nullité, l'acte notarié contient la liquidation du régime matrimonial modifié si elle est nécessaire.
 
 Les personnes qui avaient été parties dans le contrat modifié et les enfants majeurs de chaque époux sont informés personnellement de la modification envisagée. Chacun d'eux peut s'opposer à la modification dans le délai de trois mois. En cas d'enfant mineur sous tutelle ou d'enfant majeur faisant l'objet d'une mesure de protection juridique, l'information est délivrée à son représentant, qui agit sans autorisation préalable du conseil de famille ou du juge des tutelles.

@@ -1,3 +1,5 @@
+# Article 76
+
 L'acte de mariage énoncera :
 
 1° Les prénoms, noms, professions, âges, dates et lieux de naissance, domiciles et résidences des époux ;

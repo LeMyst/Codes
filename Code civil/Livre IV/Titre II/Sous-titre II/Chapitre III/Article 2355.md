@@ -1,3 +1,5 @@
+# Article 2355
+
 Le nantissement est l'affectation, en garantie d'une obligation, d'un bien meuble incorporel ou d'un ensemble de biens meubles incorporels, présents ou futurs.
 
 Il est conventionnel ou judiciaire.

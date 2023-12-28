@@ -1,3 +1,5 @@
+# Article 796
+
 L'héritier règle le passif de la succession.
 
 Il paye les créanciers inscrits selon le rang de la sûreté assortissant leur créance.

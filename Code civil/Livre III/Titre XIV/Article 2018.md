@@ -1,3 +1,5 @@
+# Article 2018
+
 Le contrat de fiducie détermine, à peine de nullité :
 
 1° Les biens, droits ou sûretés transférés. S'ils sont futurs, ils doivent être déterminables ;

@@ -1,3 +1,5 @@
+# Article 1182
+
 La confirmation est l'acte par lequel celui qui pourrait se prévaloir de la nullité y renonce. Cet acte mentionne l'objet de l'obligation et le vice affectant le contrat.
 
 La confirmation ne peut intervenir qu'après la conclusion du contrat.

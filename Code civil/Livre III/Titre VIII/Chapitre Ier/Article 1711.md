@@ -1,3 +1,5 @@
+# Article 1711
+
 Ces deux genres de louage se subdivisent encore en plusieurs espèces particulières :
 
 On appelle " bail à loyer ", le louage des maisons et celui des meubles ;

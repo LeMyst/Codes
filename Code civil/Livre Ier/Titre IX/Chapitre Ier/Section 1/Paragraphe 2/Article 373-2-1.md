@@ -1,3 +1,5 @@
+# Article 373-2-1
+
 Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
 
 L'exercice du droit de visite et d'hébergement ne peut être refusé à l'autre parent que pour des motifs graves.

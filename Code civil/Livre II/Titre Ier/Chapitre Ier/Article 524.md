@@ -1,3 +1,5 @@
+# Article 524
+
 Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par destination.
 
 Les animaux que le propriétaire d'un fonds y a placés aux mêmes fins sont soumis au régime des immeubles par destination.

@@ -1,3 +1,5 @@
+# Article 342-13
+
 Celui qui, après avoir consenti à l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu engage sa responsabilité envers la mère et envers l'enfant.
 
 En outre, sa paternité est judiciairement déclarée. L'action obéit aux dispositions des articles 328 et 331.

@@ -1,3 +1,5 @@
+# Article 1961
+
 La justice peut ordonner le séquestre :
 
 1° Des meubles saisis sur un débiteur ;

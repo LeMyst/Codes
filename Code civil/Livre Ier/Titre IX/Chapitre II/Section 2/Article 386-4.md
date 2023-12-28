@@ -1,3 +1,5 @@
+# Article 386-4
+
 La jouissance légale ne s'étend pas aux biens :
 
 1° Que l'enfant peut acquérir par son travail ;

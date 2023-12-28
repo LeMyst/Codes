@@ -1,3 +1,5 @@
+# Article 1844-9
+
 Après paiement des dettes et remboursement du capital social, le partage de l'actif est effectué entre les associés dans les mêmes proportions que leur participation aux bénéfices, sauf clause ou convention contraire.
 
 Les règles concernant le partage des successions, y compris l'attribution préférentielle, s'appliquent aux partages entre associés.

@@ -1,3 +1,5 @@
+# Article 1204
+
 On peut se porter fort en promettant le fait d'un tiers.
 
 Le promettant est libéré de toute obligation si le tiers accomplit le fait promis. Dans le cas contraire, il peut être condamné à des dommages et intérêts.

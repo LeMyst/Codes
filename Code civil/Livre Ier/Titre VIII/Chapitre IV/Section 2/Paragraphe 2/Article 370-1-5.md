@@ -1,3 +1,5 @@
+# Article 370-1-5
+
 L'adoptant et l'autre membre du couple choisissent, par déclaration conjointe, le nom de famille dévolu à l'enfant : soit le nom de l'un d'eux, soit leurs deux noms accolés dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux.
 
 Cette faculté de choix ne peut être exercée qu'une seule fois.

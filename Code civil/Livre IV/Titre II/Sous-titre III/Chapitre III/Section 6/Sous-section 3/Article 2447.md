@@ -1,3 +1,5 @@
+# Article 2447
+
 Les services chargés de la publicité foncière seront tenus d'avoir un registre sur lequel ils inscriront, jour par jour, et par ordre numérique, les remises qui leur seront faites d'actes, décisions judiciaires, bordereaux et, généralement, de documents déposés en vue de l'exécution d'une formalité de publicité.
 
 Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.

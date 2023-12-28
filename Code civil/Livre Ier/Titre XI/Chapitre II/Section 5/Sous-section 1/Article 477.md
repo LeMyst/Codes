@@ -1,3 +1,5 @@
+# Article 477
+
 Toute personne majeure ou mineure émancipée ne faisant pas l'objet d'une mesure de tutelle ou d'une habilitation familiale peut charger une ou plusieurs personnes, par un même mandat, de la représenter pour le cas où, pour l'une des causes prévues à l'article 425, elle ne pourrait plus pourvoir seule à ses intérêts.
 
 La personne en curatelle ne peut conclure un mandat de protection future qu'avec l'assistance de son curateur.

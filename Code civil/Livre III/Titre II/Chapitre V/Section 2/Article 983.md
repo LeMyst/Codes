@@ -1,3 +1,5 @@
+# Article 983
+
 Dans tous les cas, il est fait un double original des testaments mentionnés aux articles 981 et 982.
 
 Si cette formalité n'a pu être accomplie en raison de l'état de santé du testateur, il est dressé une expédition du testament, signée par les témoins et par les officiers instrumentaires, pour tenir lieu du second original. Il y est fait mention des causes qui ont empêché de dresser le second original.

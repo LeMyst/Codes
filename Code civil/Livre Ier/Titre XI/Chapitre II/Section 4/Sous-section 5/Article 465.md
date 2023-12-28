@@ -1,3 +1,5 @@
+# Article 465
+
 A compter de la publicité du jugement d'ouverture, l'irrégularité des actes accomplis par la personne protégée ou par la personne chargée de la protection est sanctionnée dans les conditions suivantes :
 
 1° Si la personne protégée a accompli seule un acte qu'elle pouvait faire sans l'assistance ou la représentation de la personne chargée de sa protection, l'acte reste sujet aux actions en rescision ou en réduction prévues à l'article 435 comme s'il avait été accompli par une personne placée sous sauvegarde de justice, à moins qu'il ait été expressément autorisé par le juge ou par le conseil de famille s'il a été constitué ;

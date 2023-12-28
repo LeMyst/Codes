@@ -1,3 +1,5 @@
+# Article 79
+
 L'acte de décès énoncera :
 
 1° Le jour, l'heure et le lieu de décès ;

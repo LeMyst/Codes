@@ -1,3 +1,5 @@
+# Article 2331
+
 Outre celles prévues par des lois spéciales, les créances privilégiées sur la généralité des meubles sont :
 
 1° Les frais de justice, sous la condition qu'ils aient profité au créancier auquel le privilège est opposé ;

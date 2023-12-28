@@ -1,3 +1,5 @@
+# Article 1701
+
 La disposition portée en l'article 1699 cesse :
 
 1° Dans le cas où la cession a été faite à un cohéritier ou copropriétaire du droit cédé ;

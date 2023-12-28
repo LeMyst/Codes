@@ -1,3 +1,5 @@
+# Article 1054
+
 Si le grevé est héritier réservataire du disposant, la charge ne peut être imposée que sur la quotité disponible.
 
 Le donataire peut toutefois accepter, dans l'acte de donation ou postérieurement dans un acte établi dans les conditions prévues à l'article 930, que la charge grève tout ou partie de sa réserve.

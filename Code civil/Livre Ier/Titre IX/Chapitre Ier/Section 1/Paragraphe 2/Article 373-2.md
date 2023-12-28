@@ -1,3 +1,5 @@
+# Article 373-2
+
 La séparation des parents est sans incidence sur les règles de dévolution de l'exercice de l'autorité parentale.
 
 Chacun des père et mère doit maintenir des relations personnelles avec l'enfant et respecter les liens de celui-ci avec l'autre parent.

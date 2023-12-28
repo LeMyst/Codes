@@ -1,3 +1,5 @@
+# Article 344
+
 Peuvent être adoptés :
 
 1° Les mineurs pour lesquels les parents ou le conseil de famille ont valablement consenti à l'adoption ;

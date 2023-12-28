@@ -1,3 +1,5 @@
+# Article 1792-6
+
 La réception est l'acte par lequel le maître de l'ouvrage déclare accepter l'ouvrage avec ou sans réserves. Elle intervient à la demande de la partie la plus diligente, soit à l'amiable, soit à défaut judiciairement. Elle est, en tout état de cause, prononcée contradictoirement.
 
 La garantie de parfait achèvement, à laquelle l'entrepreneur est tenu pendant un délai d'un an, à compter de la réception, s'étend à la réparation de tous les désordres signalés par le maître de l'ouvrage, soit au moyen de réserves mentionnées au procès-verbal de réception, soit par voie de notification écrite pour ceux révélés postérieurement à la réception.

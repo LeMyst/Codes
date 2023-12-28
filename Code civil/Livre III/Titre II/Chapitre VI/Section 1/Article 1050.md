@@ -1,3 +1,5 @@
+# Article 1050
+
 Les droits du second gratifié s'ouvrent à la mort du grevé.
 
 Toutefois, le grevé peut abandonner, au profit du second gratifié, la jouissance du bien ou du droit objet de la libéralité.

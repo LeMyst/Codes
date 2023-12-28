@@ -1,3 +1,5 @@
+# Article 303
+
 La séparation de corps laisse subsister le devoir de secours ; le jugement qui la prononce ou un jugement postérieur fixe la pension alimentaire qui est due à l'époux dans le besoin. La pension alimentaire peut aussi être prévue par la convention de séparation de corps par consentement mutuel.
 
 Cette pension est attribuée sans considération des torts. L'époux débiteur peut néanmoins invoquer, s'il y a lieu, les dispositions de l'article 207, alinéa 2.

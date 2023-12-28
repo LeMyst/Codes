@@ -1,3 +1,5 @@
+# Article 1346-1
+
 La subrogation conventionnelle s'opère à l'initiative du créancier lorsque celui-ci, recevant son paiement d'une tierce personne, la subroge dans ses droits contre le débiteur.
 
 Cette subrogation doit être expresse.

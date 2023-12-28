@@ -1,3 +1,5 @@
+# Article 815-3
+
 Le ou les indivisaires titulaires d'au moins deux tiers des droits indivis peuvent, à cette majorité :
 
 1° Effectuer les actes d'administration relatifs aux biens indivis ;

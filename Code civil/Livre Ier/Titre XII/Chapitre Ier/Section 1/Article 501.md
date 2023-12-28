@@ -1,3 +1,5 @@
+# Article 501
+
 Le conseil de famille ou, à défaut, le juge détermine la somme à partir de laquelle commence, pour le tuteur, l'obligation d'employer les capitaux liquides et l'excédent des revenus. Le tuteur peut toutefois, sans autorisation, placer des fonds sur un compte.
 
 Le conseil de famille ou, à défaut, le juge prescrit toutes les mesures qu'il juge utiles quant à l'emploi ou au remploi des fonds soit par avance, soit à l'occasion de chaque opération. L'emploi ou le remploi est réalisé par le tuteur dans le délai fixé par la décision qui l'ordonne et de la manière qu'elle prescrit. Passé ce délai, le tuteur peut être déclaré débiteur des intérêts.

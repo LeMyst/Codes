@@ -1,3 +1,5 @@
+# Article 815-14
+
 L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose d'acquérir.
 
 Tout indivisaire peut, dans le délai d'un mois qui suit cette notification, faire connaître au cédant, par acte extrajudiciaire, qu'il exerce un droit de préemption aux prix et conditions qui lui ont été notifiés.

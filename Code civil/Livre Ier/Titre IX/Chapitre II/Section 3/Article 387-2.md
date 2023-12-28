@@ -1,3 +1,5 @@
+# Article 387-2
+
 L'administrateur légal ne peut, même avec une autorisation :
 
 1° Aliéner gratuitement les biens ou les droits du mineur ;

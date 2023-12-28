@@ -1,3 +1,5 @@
+# Article 1152
+
 La prescription de l'action court :
 
 1° A l'égard des actes faits par un mineur, du jour de la majorité ou de l'émancipation ;

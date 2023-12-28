@@ -1,3 +1,5 @@
+# Article 1928
+
 La disposition de l'article précédent doit être appliquée avec plus de rigueur :
 
 1° si le dépositaire s'est offert lui-même pour recevoir le dépôt ;

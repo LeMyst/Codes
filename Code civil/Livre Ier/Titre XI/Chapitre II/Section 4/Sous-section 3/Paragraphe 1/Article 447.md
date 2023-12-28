@@ -1,3 +1,5 @@
+# Article 447
+
 Le curateur ou le tuteur est désigné par le juge.
 
 Celui-ci peut, en considération de la situation de la personne protégée, des aptitudes des intéressés et de la consistance du patrimoine à administrer, désigner plusieurs curateurs ou plusieurs tuteurs pour exercer en commun la mesure de protection. Chaque curateur ou tuteur est réputé, à l'égard des tiers, avoir reçu des autres le pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.

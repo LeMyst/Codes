@@ -1,3 +1,5 @@
+# Article 809
+
 La succession est vacante :
 
 1° Lorsqu'il ne se présente personne pour réclamer la succession et qu'il n'y a pas d'héritier connu ;

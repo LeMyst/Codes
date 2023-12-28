@@ -1,3 +1,5 @@
+# Article 21-19
+
 Peut être naturalisé sans condition de stage :
 
 1° (Alinéa abrogé) ;

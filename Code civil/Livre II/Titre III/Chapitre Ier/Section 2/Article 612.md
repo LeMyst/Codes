@@ -1,3 +1,5 @@
+# Article 612
+
 L'usufruitier, ou universel, ou à titre universel, doit contribuer avec le propriétaire au paiement des dettes ainsi qu'il suit :
 
 On estime la valeur du fonds sujet à usufruit ; on fixe ensuite la contribution aux dettes à raison de cette valeur.

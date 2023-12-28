@@ -1,3 +1,5 @@
+# Article 618
+
 L'usufruit peut aussi cesser par l'abus que l'usufruitier fait de sa jouissance, soit en commettant des dégradations sur le fonds, soit en le laissant dépérir faute d'entretien.
 
 Les créanciers de l'usufruitier peuvent intervenir dans les contestations pour la conservation de leurs droits ; ils peuvent offrir la réparation des dégradations commises et des garanties pour l'avenir.

@@ -1,3 +1,5 @@
+# Article 1867
+
 Tout associé peut obtenir des autres associés leur consentement à un projet de nantissement dans les mêmes conditions que leur agrément à une cession de parts.
 
 Le consentement donné au projet de nantissement emporte agrément du cessionnaire en cas de réalisation forcée des parts sociales à la condition que cette réalisation soit notifiée un mois avant la vente aux associés et à la société.

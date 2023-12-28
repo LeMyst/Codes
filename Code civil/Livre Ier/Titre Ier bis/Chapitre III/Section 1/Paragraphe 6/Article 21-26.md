@@ -1,3 +1,5 @@
+# Article 21-26
+
 Est assimilé à la résidence en France lorsque cette résidence constitue une condition de l'acquisition de la nationalité française :
 
 1° Le séjour hors de France d'un étranger qui exerce une activité professionnelle publique ou privée pour le compte de l'Etat français ou d'un organisme dont l'activité présente un intérêt particulier pour l'économie ou la culture française ;

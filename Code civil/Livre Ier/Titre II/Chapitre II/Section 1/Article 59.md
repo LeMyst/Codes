@@ -1,3 +1,5 @@
+# Article 59
+
 En cas de naissance pendant un voyage maritime, il en sera dressé acte dans les trois jours de l'accouchement sur la déclaration du père, s'il est à bord.
 
 Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans les mêmes conditions, lorsqu'il y aura impossibilité de communiquer avec la terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent diplomatique ou consulaire français investi des fonctions d'officier de l'état civil.

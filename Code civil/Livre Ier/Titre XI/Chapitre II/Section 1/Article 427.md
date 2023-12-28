@@ -1,3 +1,5 @@
+# Article 427
+
 La personne chargée de la mesure de protection ne peut pas procéder à la clôture des comptes ou livrets ouverts, avant le prononcé de la mesure, au nom de la personne protégée. Elle ne peut pas non plus procéder à l'ouverture d'un autre compte ou livret auprès d'un nouvel établissement habilité à recevoir des fonds du public.
 
 Le juge des tutelles ou le conseil de famille s'il a été constitué peut toutefois l'y autoriser si l'intérêt de la personne protégée le commande.

@@ -1,3 +1,5 @@
+# Article 171-8
+
 Lorsque les formalités prévues à l'article 171-2 ont été respectées et que le mariage a été célébré dans les formes usitées dans le pays, il est procédé à sa transcription sur les registres de l'état civil à moins que des éléments nouveaux fondés sur des indices sérieux laissent présumer que le mariage encourt la nullité au titre des articles 144, 146, 146-1, 147, 161, 162, 163, 180 ou 191.
 
 Dans ce dernier cas, l'autorité diplomatique ou consulaire, après avoir procédé à l'audition commune des époux et, le cas échéant, aux entretiens individuels informe immédiatement le ministère public et sursoit à la transcription.

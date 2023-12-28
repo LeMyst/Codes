@@ -1,3 +1,5 @@
+# Article 783
+
 Toute cession, à titre gratuit ou onéreux, faite par un héritier de tout ou partie de ses droits dans la succession emporte acceptation pure et simple.
 
 Il en est de même :

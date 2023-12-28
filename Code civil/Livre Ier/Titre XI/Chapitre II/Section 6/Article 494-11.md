@@ -1,3 +1,5 @@
+# Article 494-11
+
 Outre le décès de la personne à l'égard de qui l'habilitation familiale a été délivrée, celle-ci prend fin :
 
 1° Par le placement de l'intéressé sous sauvegarde de justice, sous curatelle ou sous tutelle ;

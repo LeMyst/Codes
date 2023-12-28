@@ -1,3 +1,5 @@
+# Article 19-1
+
 Est français :
 
 1° L'enfant né en France de parents apatrides ;

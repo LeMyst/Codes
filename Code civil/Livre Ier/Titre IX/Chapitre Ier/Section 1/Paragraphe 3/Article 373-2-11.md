@@ -1,3 +1,5 @@
+# Article 373-2-11
+
 Lorsqu'il se prononce sur les modalités d'exercice de l'autorité parentale, le juge prend notamment en considération :
 
 1° La pratique que les parents avaient précédemment suivie ou les accords qu'ils avaient pu antérieurement conclure ;

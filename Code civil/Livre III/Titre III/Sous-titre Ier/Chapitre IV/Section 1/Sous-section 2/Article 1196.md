@@ -1,3 +1,5 @@
+# Article 1196
+
 Dans les contrats ayant pour objet l'aliénation de la propriété ou la cession d'un autre droit, le transfert s'opère lors de la conclusion du contrat.
 
 Ce transfert peut être différé par la volonté des parties, la nature des choses ou par l'effet de la loi.

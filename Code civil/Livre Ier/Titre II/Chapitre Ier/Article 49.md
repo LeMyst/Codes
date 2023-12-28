@@ -1,3 +1,5 @@
+# Article 49
+
 Dans tous les cas où la mention d'un acte relatif à l'état civil devra avoir lieu en marge d'un acte déjà inscrit, elle sera faite d'office.
 
 L'officier de l'état civil qui aura dressé ou transcrit l'acte donnant lieu à mention effectuera cette mention, dans les trois jours, sur les registres qu'il détient, et, si le double du registre où la mention doit être effectuée se trouve au greffe, il adressera un avis au procureur de la République de son arrondissement.

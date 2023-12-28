@@ -1,3 +1,5 @@
+# Article 1846
+
 La société est gérée par une ou plusieurs personnes, associées ou non, nommées soit par les statuts, soit par un acte distinct, soit par une décision des associés.
 
 Les statuts fixent les règles de désignation du ou des gérants et le mode d'organisation de la gérance.

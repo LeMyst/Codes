@@ -1,3 +1,5 @@
+# Article 410
+
 Le subrogé tuteur surveille l'exercice de la mission tutélaire et représente le mineur lorsque les intérêts de celui-ci sont en opposition avec ceux du tuteur.
 
 Le subrogé tuteur est informé et consulté avant tout acte important accompli par le tuteur.

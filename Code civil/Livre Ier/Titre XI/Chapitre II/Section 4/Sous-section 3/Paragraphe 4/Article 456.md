@@ -1,3 +1,5 @@
+# Article 456
+
 Le juge peut organiser la tutelle avec un conseil de famille si les nécessités de la protection de la personne ou la consistance de son patrimoine le justifient et si la composition de sa famille et de son entourage le permet.
 
 Le juge désigne les membres du conseil de famille en considération des sentiments exprimés par la personne protégée, de ses relations habituelles, de l'intérêt porté à son égard et des recommandations éventuelles de ses parents et alliés ainsi que de son entourage.

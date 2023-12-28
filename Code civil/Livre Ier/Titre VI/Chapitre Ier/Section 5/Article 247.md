@@ -1,3 +1,5 @@
+# Article 247
+
 Les époux peuvent, à tout moment de la procédure :
 
 1° Divorcer par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire ;

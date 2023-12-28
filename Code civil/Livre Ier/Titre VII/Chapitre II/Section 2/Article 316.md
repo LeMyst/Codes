@@ -1,3 +1,5 @@
+# Article 316
+
 Lorsque la filiation n'est pas établie dans les conditions prévues à la section I du présent chapitre, elle peut l'être par une reconnaissance de paternité ou de maternité, faite avant ou après la naissance.
 
 La reconnaissance n'établit la filiation qu'à l'égard de son auteur.

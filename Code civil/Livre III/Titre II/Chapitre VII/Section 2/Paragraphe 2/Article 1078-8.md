@@ -1,3 +1,5 @@
+# Article 1078-8
+
 Dans la succession de l'ascendant donateur, les biens reçus par les enfants ou leurs descendants à titre de partage anticipé s'imputent sur la part de réserve revenant à leur souche et subsidiairement sur la quotité disponible.
 
 Toutes les donations faites aux membres d'une même souche sont imputées ensemble, quel que soit le degré de parenté avec le défunt.

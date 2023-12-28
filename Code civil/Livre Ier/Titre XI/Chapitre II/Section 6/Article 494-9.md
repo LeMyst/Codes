@@ -1,3 +1,5 @@
+# Article 494-9
+
 Si la personne à l'égard de qui l'habilitation a été délivrée passe seule un acte dont l'accomplissement a été confié à la personne habilitée, celui-ci est nul de plein droit sans qu'il soit nécessaire de justifier d'un préjudice.
 
 Si elle accomplit seule un acte dont l'accomplissement nécessitait une assistance de la personne habilitée, l'acte ne peut être annulé que s'il est établi que la personne protégée a subi un préjudice.

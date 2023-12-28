@@ -1,3 +1,5 @@
+# Article 810
+
 Dès sa désignation, le curateur prend possession des valeurs et autres biens détenus par des tiers et poursuit le recouvrement des sommes dues à la succession.
 
 Il peut poursuivre l'exploitation de l'entreprise individuelle dépendant de la succession, qu'elle soit commerciale, industrielle, agricole ou artisanale.

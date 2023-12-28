@@ -1,3 +1,5 @@
+# Article 2425
+
 Sont publiées au fichier immobilier, sous forme de mentions en marge des inscriptions existantes, les subrogations aux hypothèques, mainlevées, réductions, cessions d'antériorité et transferts qui ont été consentis, prorogations de délais, changements de domicile et, d'une manière générale, toutes modifications, notamment dans la personne du créancier bénéficiaire de l'inscription, qui n'ont pas pour effet d'aggraver la situation du débiteur.
 
 Il en est de même pour les dispositions par acte entre vifs ou testamentaires, à charge de restitution, portant sur des créances hypothécaires.

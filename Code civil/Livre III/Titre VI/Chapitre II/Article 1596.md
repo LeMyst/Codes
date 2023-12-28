@@ -1,3 +1,5 @@
+# Article 1596
+
 Ne peuvent se rendre adjudicataires, sous peine de nullité, ni par eux-mêmes, ni par personnes interposées :
 
 Les tuteurs, des biens de ceux dont ils ont la tutelle ;

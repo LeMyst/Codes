@@ -1,3 +1,5 @@
+# Article 1112-1
+
 Celle des parties qui connaît une information dont l'importance est déterminante pour le consentement de l'autre doit l'en informer dès lors que, légitimement, cette dernière ignore cette information ou fait confiance à son cocontractant.
 
 Néanmoins, ce devoir d'information ne porte pas sur l'estimation de la valeur de la prestation.

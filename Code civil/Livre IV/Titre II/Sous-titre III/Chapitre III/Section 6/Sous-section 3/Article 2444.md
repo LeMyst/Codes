@@ -1,3 +1,5 @@
+# Article 2444
+
 I. - L'Etat est responsable du préjudice résultant des fautes commises par chaque service chargé de la publicité foncière dans l'exécution de ses attributions, notamment :
 
 1° Du défaut de publication des actes et décisions judiciaires déposés dans les services chargés de la publicité foncière et des inscriptions requises, toutes les fois que ce défaut de publication ne résulte pas d'une décision de refus ou de rejet ;

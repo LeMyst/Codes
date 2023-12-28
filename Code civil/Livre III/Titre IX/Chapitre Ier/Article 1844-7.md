@@ -1,3 +1,5 @@
+# Article 1844-7
+
 La société prend fin :
 
 1° Par l'expiration du temps pour lequel elle a été constituée, sauf prorogation effectuée conformément à l'article 1844-6 ;

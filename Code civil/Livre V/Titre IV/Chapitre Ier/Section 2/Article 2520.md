@@ -1,3 +1,5 @@
+# Article 2520
+
 S'il rejette la requête d'immatriculation ou estime ne pas pouvoir y donner suite, le conservateur la transmet au tribunal.
 
 Il en est de même s'il existe des oppositions ou des demandes d'inscription dont la mainlevée en la forme authentique n'a pas été donnée ou auxquelles le requérant refuse d'acquiescer.

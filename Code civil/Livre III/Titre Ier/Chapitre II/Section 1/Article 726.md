@@ -1,3 +1,5 @@
+# Article 726
+
 Sont indignes de succéder et, comme tels, exclus de la succession :
 
 1° Celui qui est condamné, comme auteur ou complice, à une peine criminelle pour avoir volontairement donné ou tenté de donner la mort au défunt ;

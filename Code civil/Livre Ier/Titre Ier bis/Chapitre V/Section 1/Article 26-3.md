@@ -1,3 +1,5 @@
+# Article 26-3
+
 Le ministre ou le directeur des services de greffe judiciaires du tribunal judiciaire refuse d'enregistrer les déclarations qui ne satisfont pas aux conditions légales.
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal judiciaire durant un délai de six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans.

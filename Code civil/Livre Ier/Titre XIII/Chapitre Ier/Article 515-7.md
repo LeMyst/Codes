@@ -1,3 +1,5 @@
+# Article 515-7
+
 Le pacte civil de solidarité se dissout par la mort de l'un des partenaires ou par le mariage des partenaires ou de l'un d'eux. En ce cas, la dissolution prend effet à la date de l'événement.
 
 L'officier de l'état civil du lieu d'enregistrement du pacte civil de solidarité ou le notaire instrumentaire qui a procédé à l'enregistrement du pacte, informé du mariage ou du décès par l'officier de l'état civil compétent, enregistre la dissolution et fait procéder aux formalités de publicité.

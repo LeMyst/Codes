@@ -1,3 +1,5 @@
+# Article 1433
+
 La communauté doit récompense à l'époux propriétaire toutes les fois qu'elle a tiré profit de biens propres.
 
 Il en est ainsi, notamment, quand elle a encaissé des deniers propres ou provenant de la vente d'un propre, sans qu'il en ait été fait emploi ou remploi.

@@ -1,3 +1,5 @@
+# Article 764
+
 Sauf volonté contraire du défunt exprimée dans les conditions de l'article 971, le conjoint successible qui occupait effectivement, à l'époque du décès, à titre d'habitation principale, un logement appartenant aux époux ou dépendant totalement de la succession, a sur ce logement, jusqu'à son décès, un droit d'habitation et un droit d'usage sur le mobilier, compris dans la succession, le garnissant.
 
 La privation de ces droits d'habitation et d'usage exprimée par le défunt dans les conditions mentionnées au premier alinéa est sans incidence sur les droits d'usufruit que le conjoint recueille en vertu de la loi ou d'une libéralité, qui continuent à obéir à leurs règles propres.

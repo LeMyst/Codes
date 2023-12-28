@@ -1,3 +1,5 @@
+# Article 734
+
 En l'absence de conjoint successible, les parents sont appelés à succéder ainsi qu'il suit :
 
 1° Les enfants et leurs descendants ;

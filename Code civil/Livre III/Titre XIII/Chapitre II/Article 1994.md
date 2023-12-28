@@ -1,3 +1,5 @@
+# Article 1994
+
 Le mandataire répond de celui qu'il s'est substitué dans la gestion :
 
 1° quand il n'a pas reçu le pouvoir de se substituer quelqu'un ;

@@ -1,3 +1,5 @@
+# Article 1873-5
+
 Les coïndivisaires peuvent nommer un ou plusieurs gérants, choisis ou non parmi eux. Les modalités de désignation et de révocation du gérant peuvent être déterminées par une décision unanime des indivisaires.
 
 A défaut d'un tel accord, le gérant pris parmi les indivisaires ne peut être révoqué de ses fonctions que par une décision unanime des autres indivisaires.

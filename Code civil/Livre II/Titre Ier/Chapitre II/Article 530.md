@@ -1,3 +1,5 @@
+# Article 530
+
 Toute rente établie à perpétuité pour le prix de la vente d'un immeuble, ou comme condition de la cession à titre onéreux ou gratuit d'un fonds immobilier, est essentiellement rachetable.
 
 Il est néanmoins permis au créancier de régler les clauses et conditions du rachat.

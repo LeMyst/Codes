@@ -1,3 +1,5 @@
+# Article 363
+
 L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier. Toutefois, si l'adopté est âgé de plus de treize ans, il doit consentir à cette adjonction.
 
 Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom de famille, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix du nom adjoint ainsi que l'ordre des deux noms appartiennent à l'adoptant, qui doit recueillir le consentement personnel de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom de l'adoptant au premier nom de l'adopté.

@@ -1,3 +1,5 @@
+# Article 397
+
 Le conseil de famille statue sur les empêchements, les retraits et les remplacements qui intéressent le tuteur et le subrogé tuteur.
 
 Le juge des tutelles statue sur ceux qui intéressent les autres membres du conseil de famille.

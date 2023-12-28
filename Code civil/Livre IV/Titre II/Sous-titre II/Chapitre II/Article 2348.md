@@ -1,3 +1,5 @@
+# Article 2348
+
 Il peut être convenu, lors de la constitution du gage ou postérieurement, qu'à défaut d'exécution de l'obligation garantie le créancier deviendra propriétaire du bien gagé.
 
 La valeur du bien est déterminée au jour du transfert par un expert désigné à l'amiable ou judiciairement, à défaut de cotation officielle du bien sur une plate-forme de négociation au sens du code monétaire et financier. Toute clause contraire est réputée non écrite.

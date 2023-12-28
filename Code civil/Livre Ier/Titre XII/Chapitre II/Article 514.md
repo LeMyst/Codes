@@ -1,3 +1,5 @@
+# Article 514
+
 Lorsque sa mission prend fin pour quelque cause que ce soit, le tuteur établit un compte de gestion des opérations intervenues depuis l'établissement du dernier compte et le soumet à la vérification et à l'approbation prévues aux articles 511 à 513-1.
 
 En outre, dans les trois mois qui suivent la fin de sa mission, le tuteur ou ses héritiers s'il est décédé remettent une copie des cinq derniers comptes de gestion et du compte mentionné au premier alinéa du présent article, selon le cas, à la personne devenue capable si elle n'en a pas déjà été destinataire, à la personne nouvellement chargée de la mesure de gestion ou aux héritiers de la personne protégée.

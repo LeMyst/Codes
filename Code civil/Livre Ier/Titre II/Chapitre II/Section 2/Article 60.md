@@ -1,3 +1,5 @@
+# Article 60
+
 Toute personne peut demander à l'officier de l'état civil à changer de prénom. La demande est remise à l'officier de l'état civil du lieu de résidence ou du lieu où l'acte de naissance a été dressé. S'il s'agit d'un mineur, la demande est remise par son représentant légal. L'adjonction, la suppression ou la modification de l'ordre des prénoms peut également être demandée.
 
 Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.

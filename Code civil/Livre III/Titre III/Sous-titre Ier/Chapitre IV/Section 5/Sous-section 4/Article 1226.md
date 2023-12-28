@@ -1,3 +1,5 @@
+# Article 1226
+
 Le créancier peut, à ses risques et périls, résoudre le contrat par voie de notification. Sauf urgence, il doit préalablement mettre en demeure le débiteur défaillant de satisfaire à son engagement dans un délai raisonnable.
 
 La mise en demeure mentionne expressément qu'à défaut pour le débiteur de satisfaire à son obligation, le créancier sera en droit de résoudre le contrat.

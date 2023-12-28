@@ -1,3 +1,5 @@
+# Article 2233
+
 La prescription ne court pas :
 
 1° A l'égard d'une créance qui dépend d'une condition, jusqu'à ce que la condition arrive ;

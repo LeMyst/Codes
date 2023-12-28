@@ -1,3 +1,5 @@
+# Article 426
+
 Le logement de la personne protégée et les meubles dont il est garni, qu'il s'agisse d'une résidence principale ou secondaire, sont conservés à la disposition de celle-ci aussi longtemps qu'il est possible.
 
 Le pouvoir d'administrer les biens mentionnés au premier alinéa ne permet que des conventions de jouissance précaire qui cessent, malgré toutes dispositions ou stipulations contraires, dès le retour de la personne protégée dans son logement.

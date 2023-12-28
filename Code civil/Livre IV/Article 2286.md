@@ -1,3 +1,5 @@
+# Article 2286
+
 Peut se prévaloir d'un droit de rétention sur la chose :
 
 1° Celui à qui la chose a été remise jusqu'au paiement de sa créance ;

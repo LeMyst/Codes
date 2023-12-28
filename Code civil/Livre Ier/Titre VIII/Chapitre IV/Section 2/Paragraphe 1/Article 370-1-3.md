@@ -1,3 +1,5 @@
+# Article 370-1-3
+
 L'adoption plénière de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin est permise :
 
 1° Lorsque l'enfant n'a de filiation légalement établie qu'à l'égard de ce conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;

@@ -1,3 +1,5 @@
+# Article 311-24-2
+
 Toute personne majeure peut porter, à titre d'usage, l'un des noms prévus aux premier et dernier alinéas de l'article 311-21.
 
 A l'égard des enfants mineurs, cette faculté est mise en œuvre par les deux parents exerçant l'autorité parentale ou par le parent exerçant seul l'autorité parentale.

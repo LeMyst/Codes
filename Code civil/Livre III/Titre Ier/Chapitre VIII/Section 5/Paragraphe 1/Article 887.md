@@ -1,3 +1,5 @@
+# Article 887
+
 Le partage peut être annulé pour cause de violence ou de dol.
 
 Il peut aussi être annulé pour cause d'erreur, si celle-ci a porté sur l'existence ou la quotité des droits des copartageants ou sur la propriété des biens compris dans la masse partageable.

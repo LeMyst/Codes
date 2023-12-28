@@ -1,3 +1,5 @@
+# Article 1872
+
 A l'égard des tiers, chaque associé reste propriétaire des biens qu'il met à la disposition de la société.
 
 Sont réputés indivis entre les associés les biens acquis par emploi ou remploi de deniers indivis pendant la durée de la société et ceux qui se trouvaient indivis avant d'être mis à la disposition de la société.

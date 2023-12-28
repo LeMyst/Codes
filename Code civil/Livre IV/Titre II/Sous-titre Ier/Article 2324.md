@@ -1,3 +1,5 @@
+# Article 2324
+
 La sûreté réelle est légale, judiciaire ou conventionnelle, selon qu'elle est accordée par la loi à raison de la qualité de la créance, par un jugement à titre conservatoire, ou par une convention.
 
 Elle est mobilière ou immobilière, selon qu'elle porte sur des biens meubles ou immeubles.

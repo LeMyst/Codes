@@ -1,3 +1,5 @@
+# Article 602
+
 Si l'usufruitier ne trouve pas de caution, les immeubles sont donnés à ferme ou mis en séquestre ;
 
 Les sommes comprises dans l'usufruit sont placées ;

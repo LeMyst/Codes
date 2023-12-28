@@ -1,3 +1,5 @@
+# Article 1245-5
+
 Est producteur, lorsqu'il agit à titre professionnel, le fabricant d'un produit fini, le producteur d'une matière première, le fabricant d'une partie composante.
 
 Est assimilée à un producteur pour l'application du présent chapitre toute personne agissant à titre professionnel :

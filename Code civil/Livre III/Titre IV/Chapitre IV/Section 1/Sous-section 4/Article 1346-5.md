@@ -1,3 +1,5 @@
+# Article 1346-5
+
 Le débiteur peut invoquer la subrogation dès qu'il en a connaissance mais elle ne peut lui être opposée que si elle lui a été notifiée ou s'il en a pris acte.
 
 La subrogation est opposable aux tiers dès le paiement.

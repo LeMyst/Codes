@@ -1,3 +1,5 @@
+# Article 354
+
 Le jugement prononçant l'adoption est mentionné ou transcrit sur les registres de l'état civil dans les conditions prévues par décret en Conseil d'Etat.
 
 La transcription tient lieu d'acte de naissance à l'adopté.

@@ -1,3 +1,5 @@
+# Article 279
+
 La convention homologuée a la même force exécutoire qu'une décision de justice.
 
 Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à homologation.

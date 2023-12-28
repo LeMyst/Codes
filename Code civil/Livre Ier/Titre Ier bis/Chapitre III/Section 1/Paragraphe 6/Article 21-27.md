@@ -1,3 +1,5 @@
+# Article 21-27
+
 Nul ne peut acquérir la nationalité française ou être réintégré dans cette nationalité s'il a été l'objet soit d'une condamnation pour crimes ou délits constituant une atteinte aux intérêts fondamentaux de la Nation ou un acte de terrorisme, soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à six mois d'emprisonnement, non assortie d'une mesure de sursis.
 
 Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une interdiction du territoire français non entièrement exécutée.

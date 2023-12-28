@@ -1,3 +1,5 @@
+# Article 1343-5
+
 Le juge peut, compte tenu de la situation du débiteur et en considération des besoins du créancier, reporter ou échelonner, dans la limite de deux années, le paiement des sommes dues.
 
 Par décision spéciale et motivée, il peut ordonner que les sommes correspondant aux échéances reportées porteront intérêt à un taux réduit au moins égal au taux légal, ou que les paiements s'imputeront d'abord sur le capital.

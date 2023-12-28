@@ -1,3 +1,5 @@
+# Article 1441
+
 La communauté se dissout :
 
 1° par la mort de l'un des époux ;

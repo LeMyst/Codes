@@ -1,3 +1,5 @@
+# Article 688
+
 Les servitudes sont ou continues, ou discontinues.
 
 Les servitudes continues sont celles dont l'usage est ou peut être continuel sans avoir besoin du fait actuel de l'homme : tels sont les conduites d'eau, les égouts, les vues et autres de cette espèce.

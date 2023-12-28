@@ -1,3 +1,5 @@
+# Article 316-1
+
 Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition par l'officier de l'état civil de l'auteur de la reconnaissance de l'enfant, que celle-ci est frauduleuse, l'officier de l'état civil saisit sans délai le procureur de la République et en informe l'auteur de la reconnaissance.
 
 Le procureur de la République est tenu de décider, dans un délai de quinze jours à compter de sa saisine, soit de laisser l'officier de l'état civil enregistrer la reconnaissance ou mentionner celle-ci en marge de l'acte de naissance, soit qu'il y est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition.

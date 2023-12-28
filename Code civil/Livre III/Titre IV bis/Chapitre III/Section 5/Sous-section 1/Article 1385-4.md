@@ -1,3 +1,5 @@
+# Article 1385-4
+
 Le serment ne fait preuve qu'au profit de celui qui l'a déféré et de ses héritiers et ayants cause, ou contre eux.
 
 Le serment déféré par l'un des créanciers solidaires au débiteur ne libère celui-ci que pour la part de ce créancier.

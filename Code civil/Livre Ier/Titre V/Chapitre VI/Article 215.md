@@ -1,3 +1,5 @@
+# Article 215
+
 Les époux s'obligent mutuellement à une communauté de vie.
 
 La résidence de la famille est au lieu qu'ils choisissent d'un commun accord.

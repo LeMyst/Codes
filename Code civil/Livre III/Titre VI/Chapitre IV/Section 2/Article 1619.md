@@ -1,3 +1,5 @@
+# Article 1619
+
 Dans tous les autres cas,
 
 Soit que la vente soit faite d'un corps certain et limité,

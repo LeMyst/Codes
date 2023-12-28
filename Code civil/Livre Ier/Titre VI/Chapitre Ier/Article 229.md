@@ -1,3 +1,5 @@
+# Article 229
+
 Les époux peuvent consentir mutuellement à leur divorce par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire.
 
 Le divorce peut être prononcé en cas :

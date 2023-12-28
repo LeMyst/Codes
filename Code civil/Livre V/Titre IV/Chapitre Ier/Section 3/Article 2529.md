@@ -1,3 +1,5 @@
+# Article 2529
+
 Dans le cas où plusieurs formalités de nature à produire des effets opposables aux tiers en vertu de l'article 2528, sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du titre dont la date est la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre des dépôts enregistrés.
 
 Lorsqu'une formalité obligatoire en vertu des 1°, à l'exclusion du i, et 2° de l'article 2521 et de nature à produire des effets opposables aux tiers en vertu de l'article 2528, et une inscription d'hypothèque, sont requises le même jour relativement au même immeuble, et que l'acte à publier et le titre de l'inscription portent la même date, l'inscription est réputée d'un rang antérieur, quel que soit l'ordre des dépôts enregistrés.

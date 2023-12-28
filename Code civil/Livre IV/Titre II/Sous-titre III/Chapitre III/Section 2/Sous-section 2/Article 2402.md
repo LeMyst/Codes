@@ -1,3 +1,5 @@
+# Article 2402
+
 Outre celles prévues par des lois spéciales, les créances auxquelles une hypothèque légale spéciale est attachée sont les suivantes :
 
 1° La créance du prix de vente d'un immeuble est garantie sur celui-ci ;

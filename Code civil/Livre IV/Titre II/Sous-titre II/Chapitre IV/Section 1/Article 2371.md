@@ -1,3 +1,5 @@
+# Article 2371
+
 A défaut de complet paiement à l'échéance, le créancier peut demander la restitution du bien afin de recouvrer le droit d'en disposer.
 
 La valeur du bien repris est imputée, à titre de paiement, sur le solde de la créance garantie.

@@ -1,3 +1,5 @@
+# Article 395
+
 Ne peuvent exercer les différentes charges de la tutelle :
 
 1° Les mineurs non émancipés, sauf s'ils sont le père ou la mère du mineur en tutelle ;

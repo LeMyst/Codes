@@ -1,3 +1,5 @@
+# Article 701
+
 Le propriétaire du fonds débiteur de la servitude ne peut rien faire qui tende à en diminuer l'usage, ou à le rendre plus incommode.
 
 Ainsi, il ne peut changer l'état des lieux, ni transporter l'exercice de la servitude dans un endroit différent de celui où elle a été primitivement assignée.

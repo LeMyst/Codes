@@ -1,3 +1,5 @@
+# Article 229-3
+
 Le consentement au divorce et à ses effets ne se présume pas.
 
 La convention comporte expressément, à peine de nullité :

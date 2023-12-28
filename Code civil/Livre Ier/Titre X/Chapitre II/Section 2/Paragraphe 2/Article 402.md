@@ -1,3 +1,5 @@
+# Article 402
+
 Les délibérations du conseil de famille sont nulles lorsqu'elles ont été surprises par dol ou fraude ou que des formalités substantielles ont été omises.
 
 La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1182.

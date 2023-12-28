@@ -1,3 +1,5 @@
+# Article 58
+
 Toute personne qui aura trouvé un enfant nouveau-né est tenue d'en faire la déclaration à l'officier de l'état civil du lieu de la découverte. Si elle ne consent pas à se charger de l'enfant, elle doit le remettre, ainsi que les vêtements et autres effets trouvés avec lui, à l'officier de l'état civil.
 
 Il est dressé un procès-verbal détaillé qui, outre les indications prévues à l'article 34 du présent code, énonce la date, l'heure, le lieu et les circonstances de la découverte, l'âge apparent et le sexe de l'enfant, toute particularité pouvant contribuer à son identification ainsi que l'autorité ou la personne à laquelle il est confié. Ce procès-verbal est inscrit à sa date sur les registres de l'état civil.

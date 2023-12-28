@@ -1,3 +1,5 @@
+# Article 730-1
+
 La preuve de la qualité d'héritier peut résulter d'un acte de notoriété dressé par un notaire, à la demande d'un ou plusieurs ayants droit.
 
 L'acte de notoriété doit viser l'acte de décès de la personne dont la succession est ouverte et faire mention des pièces justificatives qui ont pu être produites, tels les actes de l'état civil et, éventuellement, les documents qui concernent l'existence de libéralités à cause de mort pouvant avoir une incidence sur la dévolution successorale.

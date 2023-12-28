@@ -1,3 +1,5 @@
+# Article 2521
+
 Sans préjudice d'autres droits dont l'inscription est prévue par les dispositions du présent code, d'autres codes ou de la législation civile applicables à Mayotte, sont inscrits sur le livre foncier, aux fins d'opposabilité aux tiers :
 
 1° Les droits réels immobiliers suivants :

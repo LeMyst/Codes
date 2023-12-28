@@ -1,3 +1,5 @@
+# Article 511
+
 Pour les mineurs sous tutelle, le tuteur soumet au directeur des services de greffe judiciaires du tribunal judiciaire un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
 
 Le subrogé tuteur vérifie le compte avant de le transmettre avec ses observations au directeur des services de greffe judiciaires.

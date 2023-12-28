@@ -1,3 +1,5 @@
+# Article 459-2
+
 La personne protégée choisit le lieu de sa résidence.
 
 Elle entretient librement des relations personnelles avec tout tiers, parent ou non. Elle a le droit d'être visitée et, le cas échéant, hébergée par ceux-ci.

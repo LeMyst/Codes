@@ -1,3 +1,5 @@
+# Article 1350-2
+
 La remise de dette accordée au débiteur principal libère les cautions, même solidaires.
 
 La remise consentie à l'une des cautions solidaires ne libère pas le débiteur principal, mais libère les autres à concurrence de sa part.

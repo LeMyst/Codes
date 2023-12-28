@@ -1,3 +1,5 @@
+# Article 494-6
+
 L'habilitation peut porter sur :
 
 – un ou plusieurs des actes que le tuteur a le pouvoir d'accomplir, seul ou avec une autorisation, sur les biens de l'intéressé ;

@@ -1,3 +1,5 @@
+# Article 2474
+
 Les hypothèques s'éteignent notamment :
 
 1° Par l'extinction de l'obligation principale sous réserve du cas prévu à l'article 2422 ;

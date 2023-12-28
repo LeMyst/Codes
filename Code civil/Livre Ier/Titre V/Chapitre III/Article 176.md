@@ -1,3 +1,5 @@
+# Article 176
+
 Tout acte d'opposition énonce la qualité qui donne à l'opposant le droit de la former. Il contient également les motifs de l'opposition, reproduit le texte de loi sur lequel est fondée l'opposition et contient élection de domicile dans le lieu où le mariage doit être célébré. Toutefois, lorsque l'opposition est faite en application de l'article 171-4, le ministère public fait élection de domicile au siège de son tribunal.
 
 Les prescriptions mentionnées au premier alinéa sont prévues à peine de nullité et de l'interdiction de l'officier ministériel qui a signé l'acte contenant l'opposition.

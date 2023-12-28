@@ -1,3 +1,5 @@
+# Article 388
+
 Le mineur est l'individu de l'un ou l'autre sexe qui n'a point encore l'âge de dix-huit ans accomplis.
 
 Les examens radiologiques osseux aux fins de détermination de l'âge, en l'absence de documents d'identité valables et lorsque l'âge allégué n'est pas vraisemblable, ne peuvent être réalisés que sur décision de l'autorité judiciaire et après recueil de l'accord de l'intéressé.

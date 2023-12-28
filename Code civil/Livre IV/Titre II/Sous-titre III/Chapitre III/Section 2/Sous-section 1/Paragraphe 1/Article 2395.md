@@ -1,3 +1,5 @@
+# Article 2395
+
 Quand l'hypothèque légale a été inscrite par application de l'article précédent, et sauf clause expresse du contrat de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut consentir, au profit des créanciers de l'autre époux ou de ses propres créanciers, une cession de son rang ou une subrogation dans les droits résultant de son inscription.
 
 Il en est ainsi même pour l'hypothèque judiciaire, garantissant la pension alimentaire allouée ou susceptible d'être allouée à un époux, pour lui ou pour ses enfants.

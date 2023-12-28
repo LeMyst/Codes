@@ -1,3 +1,5 @@
+# Article 2440
+
 Quand l'hypothèque légale a été inscrite par application de l'article 2394, et sauf clause expresse du contrat de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
 
 Il en est ainsi même en ce qui concerne l'hypothèque légale, ou éventuellement l'hypothèque judiciaire, garantissant la pension alimentaire allouée ou susceptible d'être allouée à un époux, pour lui ou pour ses enfants.

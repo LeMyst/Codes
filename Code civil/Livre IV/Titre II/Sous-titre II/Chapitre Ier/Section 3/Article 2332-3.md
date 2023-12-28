@@ -1,3 +1,5 @@
+# Article 2332-3
+
 Les privilèges spéciaux du bailleur d'immeuble, du conservateur et du vendeur de meuble s'exercent dans l'ordre qui suit :
 
 1° Le privilège du conservateur, lorsque les frais de conservation sont postérieurs à la naissance des autres privilèges ;

@@ -1,0 +1,1 @@
+Section 2 : Traitements d'images au moyen de dispositifs de captation installés sur des aéronefs mis en œuvre par les services de la police nationale, de la gendarmerie nationale, des douanes et par les militaires des armées déployés sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense

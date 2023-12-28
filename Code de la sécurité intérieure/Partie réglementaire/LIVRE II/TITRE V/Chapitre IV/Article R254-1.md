@@ -1,0 +1,7 @@
+# Article R254-1
+
+Dans le cadre des contrôles qu'elle exerce de sa propre initiative ou sur saisine, sur le fondement du présent titre, la commission départementale de vidéoprotection peut déléguer un de ses membres pour collecter, notamment auprès du responsable du système, les informations utiles relatives aux conditions de fonctionnement d'un système de vidéoprotection et visant à vérifier la destruction des enregistrements, les difficultés tenant au fonctionnement du système ou la conformité du système à son autorisation.
+
+La commission départementale de vidéoprotection peut être réunie à l'initiative de son président pour examiner les résultats des contrôles et émettre, le cas échéant, des recommandations ainsi que pour proposer la suspension ou la suppression d'un système de vidéoprotection lorsqu'elle constate qu'il n'est pas autorisé ou qu'il en est fait un usage anormal ou non conforme à son autorisation.
+
+La commission départementale de vidéoprotection exerce sa mission de contrôle dans les mêmes conditions que la Commission nationale de l'informatique et des libertés. Toutefois, pour l'application à la commission départementale de vidéoprotection des dispositions de la sous-section 3 de la section 2 du chapitre Ier du titre Ier du décret n° 2019-536 du 29 mai 2019, la référence au II de l'article 19 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés est remplacée par une référence au présent chapitre.

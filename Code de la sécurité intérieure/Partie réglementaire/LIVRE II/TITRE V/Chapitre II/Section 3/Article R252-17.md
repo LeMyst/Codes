@@ -1,0 +1,3 @@
+# Article R252-17
+
+Le titulaire de l'autorisation est tenu d'informer préalablement l'autorité préfectorale de la date de mise en service des caméras de vidéoprotection. Lorsque le titulaire de l'autorisation d'installation, à l'intérieur d'un ensemble immobilier ou foncier complexe ou de grande dimension, d'un système de vidéoprotection a fait usage de la faculté ouverte par le quinzième alinéa de l'article R. 252-3, de remplacer le plan de masse et le plan de détail prévus aux 2° et 3° du même article par un plan du périmètre d'installation du système, il informe l'autorité préfectorale de la localisation des caméras à l'intérieur du périmètre d'installation du système de vidéoprotection préalablement à leur installation et, le cas échéant, à leur déplacement.

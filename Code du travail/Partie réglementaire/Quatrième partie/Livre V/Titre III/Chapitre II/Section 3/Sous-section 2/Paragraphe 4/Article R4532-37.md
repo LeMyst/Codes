@@ -1,3 +1,5 @@
+# Article R4532-37
+
 Un arrêté conjoint des ministres chargés du travail et de l'agriculture détermine :
 
 1° Les garanties minimales que doivent présenter les organismes de formation mentionnés à l'article R. 4532-34, relatives notamment aux méthodes et qualités pédagogiques des personnes chargées de la formation et à la capacité à évaluer les candidats au regard de leur compétence professionnelle ou de leur diplôme, à se conformer au référentiel de formation prévu au 2° et à assurer le contrôle des connaissances et des acquis ;

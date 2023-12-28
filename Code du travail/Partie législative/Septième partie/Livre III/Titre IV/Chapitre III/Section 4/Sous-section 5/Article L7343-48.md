@@ -1,3 +1,5 @@
+# Article L7343-48
+
 Les actions en justice exercées par une organisation représentant les travailleurs ou par une organisation représentant les plateformes sont soumises aux conditions prévues par les articles L. 2262-9 à L. 2262-13.
 
 Toute action en nullité de tout ou partie d'un accord de secteur doit, à peine d'irrecevabilité, être engagée dans un délai de deux mois à compter :

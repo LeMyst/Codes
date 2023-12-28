@@ -1,3 +1,5 @@
+# Article L2132-5
+
 Les syndicats professionnels peuvent :
 
 1° Créer et administrer des centres d'informations sur les offres et les demandes d'emploi ;

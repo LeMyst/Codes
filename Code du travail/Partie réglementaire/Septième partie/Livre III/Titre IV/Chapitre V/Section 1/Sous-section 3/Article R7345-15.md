@@ -1,3 +1,5 @@
+# Article R7345-15
+
 I.-Le conseil des acteurs des plateformes a pour mission de faire des propositions au président du conseil d'administration sur les sujets relevant de la compétence de l'établissement notamment :
 
 1° Les conditions de travail et d'exercice de leur activité des travailleurs mentionnés à l'article L. 7343-1 et les moyens de les améliorer ;

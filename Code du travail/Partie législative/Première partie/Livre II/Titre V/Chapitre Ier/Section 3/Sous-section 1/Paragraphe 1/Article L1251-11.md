@@ -1,3 +1,5 @@
+# Article L1251-11
+
 Le contrat de mission comporte un terme fixé avec précision dès la conclusion du contrat de mise à disposition.
 
 Toutefois, le contrat peut ne pas comporter de terme précis lorsqu'il est conclu dans l'un des cas suivants :

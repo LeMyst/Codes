@@ -1,3 +1,5 @@
+# Article R6323-10
+
 I.-Le salarié présente une demande de congé dans le cadre d'un projet de transition professionnelle à son employeur par écrit, au plus tard :
 
 1° Cent vingt jours avant le début de l'action de formation lorsque la réalisation de celle-ci entraîne une interruption continue de travail d'au moins six mois ;

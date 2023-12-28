@@ -1,3 +1,5 @@
+# Article L5315-1
+
 Un établissement public de l'Etat à caractère industriel et commercial contribue au service public de l'emploi mentionné à l'article L. 5311-1. A ce titre :
 
 1° Il participe à la formation et à la qualification des personnes les plus éloignées de l'emploi et contribue à leur insertion sociale et professionnelle ;

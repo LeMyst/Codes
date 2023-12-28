@@ -1,3 +1,5 @@
+# Article L2312-77
+
 Dans les sociétés, le comité social et économique peut demander en justice la désignation d'un mandataire chargé de convoquer l'assemblée générale des actionnaires en cas d'urgence.
 
 Il peut également requérir l'inscription de projets de résolutions à l'ordre du jour des assemblées.

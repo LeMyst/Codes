@@ -1,3 +1,5 @@
+# Article L2316-1
+
 Le comité social et économique central d'entreprise exerce les attributions qui concernent la marche générale de l'entreprise et qui excèdent les limites des pouvoirs des chefs d'établissement.
 
 Il est seul consulté sur :

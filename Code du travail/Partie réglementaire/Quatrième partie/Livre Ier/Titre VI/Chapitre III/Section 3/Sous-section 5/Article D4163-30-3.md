@@ -1,3 +1,5 @@
+# Article D4163-30-3
+
 I.-Les demandes de prise en charge d'un projet de reconversion professionnelle sont satisfaites dans l'ordre de leur réception.
 
 La commission paritaire interprofessionnelle régionale procède à l'examen du dossier du salarié.

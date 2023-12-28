@@ -1,3 +1,5 @@
+# Article L2122-5
+
 Dans les branches professionnelles, sont représentatives les organisations syndicales qui :
 
 1° Satisfont aux critères de l'article L. 2121-1 ;

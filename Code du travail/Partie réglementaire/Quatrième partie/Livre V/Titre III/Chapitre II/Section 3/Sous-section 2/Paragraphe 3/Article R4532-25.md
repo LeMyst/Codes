@@ -1,3 +1,5 @@
+# Article R4532-25
+
 Est réputée compétente, pour exercer la fonction de coordonnateur durant la phase de conception, d'étude et d'élaboration du projet de l'ouvrage, la personne physique qui justifie à la fois :
 
 1° D'une expérience professionnelle en architecture, ingénierie ou maîtrise d'œuvre, ou, pour les compétences de niveau 2 ou 3, d'un diplôme dans les conditions suivantes :

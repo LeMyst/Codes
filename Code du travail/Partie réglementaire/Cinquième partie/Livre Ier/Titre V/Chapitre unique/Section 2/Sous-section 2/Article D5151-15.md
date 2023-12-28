@@ -1,3 +1,5 @@
+# Article D5151-15
+
 Le titulaire du compte personnel d'activité souhaitant acquérir des droits inscrits sur son compte personnel de formation au titre des activités mentionnées au 3° de l'article L. 5151-9, à l'exception des réservistes civiques thématiques mentionnées aux 3°, 4°, 8° et au 11° de l'article D. 5151-14, déclare à la Caisse des dépôts et consignations, au plus tard le 30 juin de chaque année, le nombre d'heures qu'il a réalisées au cours de l'année civile précédente en tant que réserviste civique participant à l'encadrement d'autres réservistes civiques, ou en tant que réserviste civique siégeant dans l'organe d'administration ou de direction d'un organisme sans but lucratif de droit français.
 
 L'exactitude des données figurant dans la déclaration mentionnée au premier alinéa est attestée, auprès de la Caisse des dépôts et consignations, par l'une des personnes chargées de l'administration ou de la direction de l'organisme au sein duquel le réserviste civique effectue sa mission, au plus tard le 31 décembre de l'année au cours de laquelle la déclaration a été effectuée.

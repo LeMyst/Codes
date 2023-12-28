@@ -1,3 +1,5 @@
+# Article R7124-2
+
 La demande d'autorisation individuelle est accompagnée :
 
 1° D'une pièce établissant l'état civil de l'enfant ;

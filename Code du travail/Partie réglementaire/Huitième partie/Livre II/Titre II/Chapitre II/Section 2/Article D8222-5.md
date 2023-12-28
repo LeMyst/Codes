@@ -1,3 +1,5 @@
+# Article D8222-5
+
 La personne qui contracte, lorsqu'elle n'est pas un particulier répondant aux conditions fixées par l'article D. 8222-4, est considérée comme ayant procédé aux vérifications imposées par l'article L. 8222-1 si elle se fait remettre par son cocontractant, lors de la conclusion et tous les six mois jusqu'à la fin de son exécution :
 
 1° Une attestation de fourniture des déclarations sociales et de paiement des cotisations et contributions de sécurité sociale prévue à l'article L. 243-15 émanant de l'organisme de protection sociale chargé du recouvrement des cotisations et des contributions datant de moins de six mois dont elle s'assure de l'authenticité auprès de l'organisme de recouvrement des cotisations de sécurité sociale.

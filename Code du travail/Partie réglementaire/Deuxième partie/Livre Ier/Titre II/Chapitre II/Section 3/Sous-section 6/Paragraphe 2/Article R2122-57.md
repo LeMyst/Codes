@@ -1,3 +1,5 @@
+# Article R2122-57
+
 Le bureau de vote est présidé par un magistrat en activité ou honoraire de l'ordre judiciaire, désigné par le président de la chambre sociale de la Cour de cassation.
 
 Il comprend en outre :

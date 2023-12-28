@@ -1,3 +1,5 @@
+# Article R3122-5
+
 L'employeur peut prendre la décision de dépasser, sous sa propre responsabilité, la durée maximale quotidienne de huit heures lorsque les circonstances mentionnées à l'article R. 3122-1 impliquent :
 
 1° L'exécution de travaux urgents en vue d'organiser des mesures de sauvetage ;

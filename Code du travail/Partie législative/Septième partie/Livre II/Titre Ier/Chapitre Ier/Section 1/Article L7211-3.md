@@ -1,3 +1,5 @@
+# Article L7211-3
+
 Sont applicables aux salariés définis à l'article L. 7211-2 les dispositions relatives :
 
 1° Au harcèlement moral prévues aux articles L. 1152-1 et suivants, au harcèlement sexuel prévues aux articles L. 1153-1 et suivants ainsi qu'à l'exercice en justice par les organisations syndicales des actions qui naissent du harcèlement en application de l'article L. 1154-2 ;

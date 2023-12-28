@@ -1,3 +1,5 @@
+# Article R1423-36
+
 Sous réserve des dispositions du deuxième alinéa de l'article L. 123-1 du code de l'organisation judiciaire, chaque conseil de prud'hommes comporte un greffe dont le service est assuré par des fonctionnaires de l'Etat.
 
 Dans les conseils de prud'hommes mentionnés au deuxième alinéa de l'article L. 123-1 du code de l'organisation judiciaire, la direction du service de greffe du conseil de prud'hommes est assurée par le directeur de greffe du tribunal judiciaire.

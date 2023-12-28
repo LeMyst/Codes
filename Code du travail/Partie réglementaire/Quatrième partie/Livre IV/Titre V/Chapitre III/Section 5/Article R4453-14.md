@@ -1,3 +1,5 @@
+# Article R4453-14
+
 Les lieux de travail où les travailleurs sont susceptibles d'être exposés à des niveaux de champs électromagnétiques dépassant les valeurs déclenchant l'action sont identifiés et font l'objet d'une signalisation spécifique et appropriée. Leur accès est limité s'il y a lieu.
 
 Ils font l'objet d'une restriction ou d'un contrôle d'accès lorsque les travailleurs sont susceptibles d'être exposés à des niveaux de champs électromagnétiques dépassant les valeurs limites d'exposition.

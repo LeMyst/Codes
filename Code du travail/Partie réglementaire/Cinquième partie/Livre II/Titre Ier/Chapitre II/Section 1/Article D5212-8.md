@@ -1,3 +1,5 @@
+# Article D5212-8
+
 L'employeur assujetti à l'obligation d'emploi mentionnée au deuxième alinéa de l'article L. 5212-1 renseigne annuellement, dans la déclaration prévue à l'article L. 133-5-3 du code de la sécurité sociale, effectuée pour la période d'emploi du mois d'avril de l'année suivant celle au titre de laquelle la déclaration relative à l'obligation d'emploi est effectuée :
 
 -le nombre de salariés handicapés mis à sa disposition par une entreprise de travail temporaire ou un groupement d'employeurs ;

@@ -1,3 +1,5 @@
+# Article L2411-4
+
 Le licenciement d'un salarié mandaté au titre des articles L. 2232-23-1 et L. 2232-26 ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette autorisation est également requise dès que l'employeur a connaissance de l'imminence de sa désignation.

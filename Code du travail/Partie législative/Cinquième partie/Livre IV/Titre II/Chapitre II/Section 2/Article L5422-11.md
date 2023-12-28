@@ -1,3 +1,5 @@
+# Article L5422-11
+
 L'allocation d'assurance peut être financée par des contributions forfaitaires à la charge de l'employeur à l'occasion de la fin d'un contrat de travail dont la durée permet l'ouverture du droit à l'allocation.
 
 Ces contributions forfaitaires ne sont pas applicables :

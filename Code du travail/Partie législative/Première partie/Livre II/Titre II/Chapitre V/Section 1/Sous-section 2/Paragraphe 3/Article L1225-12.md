@@ -1,3 +1,5 @@
+# Article L1225-12
+
 L'employeur propose à la salariée qui occupe un poste de travail l'exposant à des risques déterminés par voie réglementaire un autre emploi compatible avec son état :
 
 1° Lorsqu'elle est en état de grossesse médicalement constaté ;

@@ -1,3 +1,5 @@
+# Article D3142-1-2
+
 Les pathologies chroniques mentionnées au 5° de l'article L. 3142-1 et au 6° de l'article L. 3142-4 sont :
 
 1° Les maladies chroniques prises en charge au titre des articles D. 160-4 et R. 160-12 du code de la sécurité sociale ;

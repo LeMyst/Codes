@@ -1,3 +1,5 @@
+# Article L7114-1
+
 Est puni d'un emprisonnement de deux ans et d'une amende de 3 750 euros, le fait :
 
 1° Soit de faire sciemment une déclaration inexacte en vue d'obtenir la carte d'identité de journaliste professionnel ou la carte d'identité de journaliste professionnel honoraire ;

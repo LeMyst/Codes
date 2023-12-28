@@ -1,3 +1,5 @@
+# Article L2353-13
+
 Le comité de la société européenne a la personnalité juridique.
 
 Il est présidé par le dirigeant de la société européenne.

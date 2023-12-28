@@ -1,3 +1,5 @@
+# Article R3252-22
+
 L'acte de saisie établi par le greffe contient :\
 1° Les nom, prénoms et domicile du débiteur et du créancier ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ;\
 2° Le décompte distinct des sommes pour lesquelles la saisie est pratiquée, en principal, frais et intérêts échus ainsi que l'indication du taux des intérêts ;\

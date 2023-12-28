@@ -1,3 +1,5 @@
+# Article L5212-10-1
+
 Peuvent être déduites du montant de la contribution annuelle les dépenses supportées directement par l'entreprise afférentes à des contrats de fourniture, de sous-traitance ou de prestations de services qu'elle passe avec :
 
 1° Des entreprises adaptées ;

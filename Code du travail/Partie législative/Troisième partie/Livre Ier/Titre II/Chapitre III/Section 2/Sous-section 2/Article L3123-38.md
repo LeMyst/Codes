@@ -1,3 +1,5 @@
+# Article L3123-38
+
 Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche étendu définit les emplois permanents pouvant être pourvus par des salariés titulaires d'un contrat de travail intermittent.
 
 Cette convention ou cet accord détermine, le cas échéant, les droits conventionnels spécifiques aux salariés titulaires d'un contrat de travail intermittent.

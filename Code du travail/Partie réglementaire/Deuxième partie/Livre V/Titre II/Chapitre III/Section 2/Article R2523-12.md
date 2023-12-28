@@ -1,3 +1,5 @@
+# Article R2523-12
+
 Le médiateur peut procéder à toutes auditions qu'il juge utiles. Il convoque les parties par lettre recommandée avec avis de réception ou par notification délivrée contre récépissé. Elles peuvent, en cas d'empêchement grave, se faire représenter par une personne ayant qualité pour conclure un accord.\
 Les personnes morales parties au conflit sont tenues de se faire représenter devant le médiateur dans les conditions prévues aux articles L. 2522-3 et R. 2522-18.
 

@@ -1,3 +1,5 @@
+# Article D1272-1
+
 La déclaration d'identification du salarié mentionnée à l' article D. 133-13-1 du code de la sécurité sociale d'identification du salarié comporte les mentions suivantes :
 
 1° Mentions relatives au salarié prévues aux 2° et 3° de l'article R. 1221-1, relatif à la déclaration préalable à l'embauche ;

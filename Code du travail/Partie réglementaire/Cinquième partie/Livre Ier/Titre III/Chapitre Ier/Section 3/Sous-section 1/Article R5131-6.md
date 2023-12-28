@@ -1,3 +1,5 @@
+# Article R5131-6
+
 L'Etat conclut avec les missions locales des conventions pluriannuelles d'objectifs. Les collectivités territoriales et leurs groupements signent également ces conventions lorsqu'ils participent au financement des missions locales.
 
 Au vu des orientations stratégiques mentionnées à l'article R. 5131-4, ces conventions précisent :

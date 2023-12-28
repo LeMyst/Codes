@@ -1,3 +1,5 @@
+# Article D5521-7
+
 Le comité directeur est informé à chacune de ses réunions :
 
 1° Par le ministre chargé de la lutte contre l'exclusion, de la situation en matière d'insertion, de pauvreté et de précarité en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon ;

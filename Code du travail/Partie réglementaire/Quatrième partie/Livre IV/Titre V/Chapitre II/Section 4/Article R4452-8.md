@@ -1,3 +1,5 @@
+# Article R4452-8
+
 Lorsqu'il procède à l'évaluation des risques, l'employeur prend en considération :
 
 1° Le niveau, le domaine des longueurs d'onde et la durée de l'exposition à des sources artificielles de rayonnement optique ;

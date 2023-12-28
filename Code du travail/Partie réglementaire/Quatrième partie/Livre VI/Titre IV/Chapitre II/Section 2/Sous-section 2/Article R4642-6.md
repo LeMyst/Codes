@@ -1,3 +1,5 @@
+# Article R4642-6
+
 Le directeur général est nommé pour une durée de trois ans renouvelable par arrêté du ministre en charge du travail.
 
 Il exerce la direction générale de l'établissement.

@@ -1,3 +1,5 @@
+# Article D6325-30
+
 En application du second alinéa de l'article L. 6325-2, l'accueil du salarié dans d'autres entreprises que celle qui l'emploie ne peut excéder la moitié du temps de formation en entreprise prévu par le contrat de professionnalisation. Cet accueil doit permettre au salarié de compléter sa formation en recourant, notamment, à des équipements ou des techniques qui ne sont pas utilisés par l'employeur.
 
 Chaque entreprise d'accueil désigne un tuteur.

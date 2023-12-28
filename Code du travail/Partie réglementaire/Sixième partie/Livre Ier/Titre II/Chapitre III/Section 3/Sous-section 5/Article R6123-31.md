@@ -1,3 +1,5 @@
+# Article R6123-31
+
 France compétences verse à un opérateur de compétences, au titre de la péréquation inter-branches mentionnée au 1° de l'article L. 6123-5, une dotation complémentaire pour le financement de l'alternance lorsque :
 
 1° Les fonds affectés à la section financière mentionnée au 1° de l'article L. 6332-3 sont insuffisants pour prendre en charge les dépenses mentionnées au I de l'article L. 6332-14 ;

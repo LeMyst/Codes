@@ -1,3 +1,5 @@
+# Article R3243-1
+
 Le bulletin de paie prévu à l'article L. 3243-2 comporte :
 
 1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;

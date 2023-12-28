@@ -1,3 +1,5 @@
+# Article R6232-2
+
 La convention précise notamment :
 
 1° Son objet ;

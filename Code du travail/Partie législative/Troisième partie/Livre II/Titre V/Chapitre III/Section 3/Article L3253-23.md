@@ -1,3 +1,5 @@
+# Article L3253-23
+
 Peuvent faire valoir une action directe ou des privilèges spéciaux :
 
 1° Dans les conditions fixées à l'article 1798 du code civil, les salariés des secteurs du bâtiment et des travaux publics ;

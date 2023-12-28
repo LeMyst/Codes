@@ -1,3 +1,5 @@
+# Article L2315-18
+
 Les membres de la délégation du personnel du comité social et économique et le référent prévu au dernier alinéa de l'article L. 2314-1 bénéficient de la formation nécessaire à l'exercice de leurs missions en matière de santé, de sécurité et de conditions de travail prévues au chapitre II du présent titre, dans des conditions déterminées par décret en Conseil d'Etat.
 
 La formation est d'une durée minimale de cinq jours lors du premier mandat des membres de la délégation du personnel.

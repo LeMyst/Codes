@@ -1,3 +1,5 @@
+# Article R2272-10
+
 Les missions dévolues à la Commission nationale peuvent être exercées par six sous-commissions :
 
 1° La sous-commission des conventions et accords, en ce qui concerne les 2° à 4° de l'article L. 2271-1, et sous réserve des compétences exercées par les sous-commissions mentionnées aux 4° à 6° du présent article. Lorsque les questions traitées concernent uniquement les professions agricoles, la sous-commission est réunie en formation spécifique ;

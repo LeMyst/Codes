@@ -1,3 +1,5 @@
+# Article L2315-74
+
 Lorsque le commissaire aux comptes du comité social et économique relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation du comité social et économique, il en informe le secrétaire et le président du comité social et économique, dans des conditions fixées par décret en Conseil d'Etat.
 
 A défaut de réponse du secrétaire du comité social et économique dans un délai fixé par décret en Conseil d'Etat ou si cette réponse ne lui permet pas d'être assuré de la continuité de l'exploitation du comité social et économique, le commissaire aux comptes établit un rapport spécial et invite l'employeur, par un document écrit dont la copie est transmise au président du tribunal judiciaire compétent et aux membres du comité social et économique, à réunir le comité afin que ce dernier délibère sur les faits relevés. Le commissaire aux comptes est convoqué à cette réunion, qui se tient dans des conditions et délais fixés par décret en Conseil d'Etat.

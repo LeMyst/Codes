@@ -1,3 +1,5 @@
+# Article R4624-35
+
 Le médecin du travail peut réaliser ou prescrire les examens complémentaires nécessaires :
 
 1° A la détermination de la compatibilité entre le poste de travail et l'état de santé du travailleur, notamment au dépistage des affections pouvant entraîner une contre-indication à ce poste de travail ;

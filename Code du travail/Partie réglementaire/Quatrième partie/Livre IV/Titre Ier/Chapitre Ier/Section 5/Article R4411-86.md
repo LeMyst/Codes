@@ -1,3 +1,5 @@
+# Article R4411-86
+
 Les exemptions au règlement (CE) n° 1272/2008 prévues au III de l'article L. 521-1 du code de l'environnement sont délivrées par décision conjointe du ministre de la défense et du ministre chargé du travail, sauf dans les cas d'urgence opérationnelle pour lesquels la décision est prise par le ministre de la défense qui en informe alors le ministre chargé du travail.
 
 La décision est notifiée au demandeur.

@@ -1,3 +1,5 @@
+# Article D6332-83
+
 L'opérateur de compétence prend en charge, dès lors qu'ils sont financés par les centres de formation d'apprentis, les frais annexes à la formation des apprentis prévus aux 3° des I et II de l'article L. 6332-14 selon les modalités suivantes :
 
 1° Les frais d'hébergement sont pris en charge par nuitée pour un montant déterminé par arrêté du ministre chargé de la formation professionnelle ;

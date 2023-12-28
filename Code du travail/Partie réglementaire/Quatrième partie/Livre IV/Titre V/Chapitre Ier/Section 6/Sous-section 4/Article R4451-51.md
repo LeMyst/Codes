@@ -1,3 +1,5 @@
+# Article R4451-51
+
 Un arrêté conjoint des ministres chargés du travail et de l'agriculture fixe :
 
 1° Les équipements de travail ou catégories d'équipements de travail et le type de sources radioactives scellées pour lesquels l'employeur fait procéder aux vérifications prévues aux articles R. 4451-40 à R. 4451-43 ainsi que la périodicité de ces vérifications ;

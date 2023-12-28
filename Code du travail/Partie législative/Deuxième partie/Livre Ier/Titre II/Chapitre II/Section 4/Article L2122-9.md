@@ -1,3 +1,5 @@
+# Article L2122-9
+
 Sont représentatives au niveau national et interprofessionnel les organisations syndicales qui :
 
 1° Satisfont aux critères de l'article L. 2121-1 ;

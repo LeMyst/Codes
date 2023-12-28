@@ -1,3 +1,5 @@
+# Article R4532-64
+
 Le plan particulier de sécurité est adapté aux conditions spécifiques de l'intervention sur le chantier.\
 A cet effet, outre la prise en compte des mesures de coordination générale décidées par le coordonnateur et l'énumération des installations de chantier et des matériels et dispositifs prévus pour la réalisation de l'opération, le plan mentionne, en les distinguant :\
 1° Les mesures spécifiques prises par l'entreprise pour prévenir les risques spécifiques découlant :\

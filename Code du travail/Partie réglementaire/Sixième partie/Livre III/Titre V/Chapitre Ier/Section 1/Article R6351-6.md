@@ -1,3 +1,5 @@
+# Article R6351-6
+
 Dans les trente jours qui suivent la réception de la déclaration complétée des pièces justificatives mentionnées à l'article R. 6351-5, le préfet de région délivre un récépissé comportant un numéro d'enregistrement à l'organisme qui satisfait aux conditions d'enregistrement de la déclaration d'activité.
 
 Jusqu'à la délivrance de ce récépissé ou la notification de la décision de refus d'enregistrement, l'organisme est réputé déclaré.

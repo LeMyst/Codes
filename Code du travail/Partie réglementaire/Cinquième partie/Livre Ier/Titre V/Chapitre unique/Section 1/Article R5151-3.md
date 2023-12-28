@@ -1,3 +1,5 @@
+# Article R5151-3
+
 Le système d'information du compte personnel d'activité a pour finalités de permettre :
 
 1° La consultation par le titulaire du compte et l'utilisation, dans le compte personnel d'activité, des droits inscrits ou mentionnés sur le compte personnel de formation, le compte professionnel de prévention ou le compte d'engagement citoyen, dans le cadre du service en ligne mentionné au I de l'article L. 5151-6 ;

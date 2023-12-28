@@ -1,3 +1,5 @@
+# Article R4412-6
+
 Pour l'évaluation des risques, l'employeur prend en compte, notamment :
 
 1° Les propriétés dangereuses des agents chimiques présents sur les lieux de travail ;

@@ -1,3 +1,5 @@
+# Article R5312-38
+
 Est autorisée la création par Pôle emploi d'un traitement automatisé de données à caractère personnel dénommé “Système d'information concernant les demandeurs d'emploi et salariés”.
 
 Il a pour finalités :

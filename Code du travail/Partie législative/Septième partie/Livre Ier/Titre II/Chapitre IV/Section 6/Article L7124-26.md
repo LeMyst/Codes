@@ -1,3 +1,5 @@
+# Article L7124-26
+
 Est puni d'une amende de 3 750 euros le fait de remettre des fonds, directement ou indirectement, à un enfant mentionné à l'article L. 7124-12, ou à ses représentants légaux :
 
 1° Soit sans avoir requis ou obtenu l'autorisation individuelle préalable à l'emploi d'un enfant dans les conditions prévues par l'article L. 7124-3 ;

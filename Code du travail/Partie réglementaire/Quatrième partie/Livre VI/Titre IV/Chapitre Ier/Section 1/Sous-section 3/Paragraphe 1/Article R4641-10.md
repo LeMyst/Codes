@@ -1,3 +1,5 @@
+# Article R4641-10
+
 La commission générale est présidée par le président de la section sociale du Conseil d'Etat, ou, en son absence, par un président de commission spécialisée ou, en son absence, le directeur général du travail ou son représentant.
 
 Elle comprend :

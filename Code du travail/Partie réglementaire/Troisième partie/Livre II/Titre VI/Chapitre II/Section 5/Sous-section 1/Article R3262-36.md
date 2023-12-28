@@ -1,3 +1,5 @@
+# Article R3262-36
+
 La Commission nationale des titres-restaurant est chargée :
 
 1° D'accorder l'assimilation à la profession de restaurateur aux personnes, entreprises ou organismes qui satisfont aux conditions prévues à l'article R. 3262-4 et aux articles R. 3262-26 à R. 3262-32 ;

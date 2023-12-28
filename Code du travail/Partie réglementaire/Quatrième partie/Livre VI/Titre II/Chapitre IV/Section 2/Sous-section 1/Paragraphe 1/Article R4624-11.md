@@ -1,3 +1,5 @@
+# Article R4624-11
+
 La visite d'information et de prévention dont bénéficie le travailleur est individuelle. Elle a notamment pour objet :
 
 1° D'interroger le salarié sur son état de santé ;

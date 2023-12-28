@@ -1,3 +1,5 @@
+# Article R7343-10
+
 I.-Un extrait de la liste électorale établie par l'Autorité des relations sociales des plateformes d'emploi peut être consulté sur le site internet dédié aux opérations de vote. Cet extrait, qui mentionne les noms, prénoms, et numéro de SIREN des électeurs, peut également être consulté dans les locaux de l'Autorité des relations sociales des plateformes d'emploi.
 
 II.-Un arrêté du ministre chargé du travail détermine :

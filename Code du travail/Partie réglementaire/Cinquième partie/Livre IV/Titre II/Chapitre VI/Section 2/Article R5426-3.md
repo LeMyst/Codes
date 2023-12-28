@@ -1,3 +1,5 @@
+# Article R5426-3
+
 I.-Le directeur mentionné à l'article R. 5312-26 supprime le revenu de remplacement mentionné à l'article L. 5421-1 pour une durée limitée ou définitivement selon les modalités suivantes :
 
 1° En cas de deuxième manquement mentionné au c du 3° de l'article L. 5412-1, il supprime le revenu de remplacement pour une durée de deux mois consécutifs. A partir du troisième manquement, le revenu de remplacement est supprimé pour une durée de quatre mois consécutifs ;

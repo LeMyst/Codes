@@ -1,3 +1,5 @@
+# Article D2315-1
+
 Lorsque le comité social et économique est réuni en visioconférence, le dispositif technique mis en œuvre garantit l'identification des membres du comité et leur participation effective, en assurant la retransmission continue et simultanée du son et de l'image des délibérations.
 
 Les dispositions prévues au premier alinéa ne font pas obstacle à la tenue de suspensions de séance.

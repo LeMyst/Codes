@@ -1,3 +1,5 @@
+# Article R3334-4
+
 Les cas dans lesquels, en application de l'article L. 3334-14, les droits constitués dans le cadre du plan d'épargne pour la retraite collectif au profit des salariés peuvent être, sur leur demande, exceptionnellement liquidés avant le départ à la retraite sont les suivants :
 
 1° L'invalidité de l'intéressé, de ses enfants, de son conjoint ou de son partenaire lié par un pacte civil de solidarité. Cette invalidité s'apprécie au sens des 2° et 3° de l'article L. 341-4 du code de sécurité sociale, ou est reconnue par décision de la commission des droits et de l'autonomie des personnes handicapées prévue à l'article L. 241-5 du code de l'action sociale et des familles à condition que le taux d'incapacité atteigne au moins 80 % et que l'intéressé n'exerce aucune activité professionnelle. Le déblocage pour chacun de ces motifs ne peut intervenir qu'une seule fois ;

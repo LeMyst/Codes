@@ -1,3 +1,5 @@
+# Article L1237-19-4
+
 L'autorité administrative notifie à l'employeur la décision de validation dans un délai de quinze jours à compter de la réception de l'accord collectif mentionné à l'article L. 1237-19.
 
 Elle la notifie, dans les mêmes délais, au comité social et économique, s'il existe, et aux signataires de l'accord. La décision prise par l'autorité administrative est motivée.

@@ -1,3 +1,5 @@
+# Article D1423-65
+
 Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoir consacré aux études de dossiers mentionnées au 2° de l'article R. 1423-55 ne peut dépasser les durées fixées au tableau ci-après :
 
 |  |  |

@@ -1,3 +1,5 @@
+# Article L5221-2-1
+
 Par dérogation à l'article L. 5221-2, n'est pas soumis à la condition prévue au 2° du même article L. 5221-2 :
 
 1° L'étranger qui entre en France afin d'y exercer une activité salariée pour une durée inférieure ou égale à trois mois dans un domaine figurant sur une liste fixée par décret ;

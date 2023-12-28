@@ -1,3 +1,5 @@
+# Article R4453-16
+
 Lorsqu'en dépit des mesures de prévention mises en œuvre en application de la présente section, l'exposition d'un travailleur dépasse les valeurs limites d'exposition, l'employeur :
 
 1° Prend immédiatement des mesures pour réduire l'exposition à un niveau inférieur à ces valeurs limites ;

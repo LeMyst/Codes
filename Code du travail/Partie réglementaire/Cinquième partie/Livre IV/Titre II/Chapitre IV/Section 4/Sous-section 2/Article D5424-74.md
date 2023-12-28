@@ -1,3 +1,5 @@
+# Article D5424-74
+
 I.-En métropole, en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon :
 
 1° Le montant forfaitaire de l'allocation des travailleurs indépendants mentionné à la première phrase du 1° de l'article L. 5424-27 est fixé à 26,30 euros par jour.

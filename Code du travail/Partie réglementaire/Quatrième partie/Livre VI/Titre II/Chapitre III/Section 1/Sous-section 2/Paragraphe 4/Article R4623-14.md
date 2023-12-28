@@ -1,3 +1,5 @@
+# Article R4623-14
+
 I.-Le médecin du travail assure personnellement l'ensemble de ses fonctions, dans le cadre des missions définies à l'article R. 4623-1. Elles sont exclusives de toute autre fonction dans les établissements dont il a la charge et dans le service interentreprises dont il est salarié.
 
 II.-Le médecin du travail peut toutefois confier, dans le cadre de protocoles écrits, les visites et examens relevant du suivi individuel des travailleurs aux collaborateurs médecins et aux internes en médecine du travail.

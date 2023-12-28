@@ -1,3 +1,5 @@
+# Article R2122-73
+
 Pour le vote par correspondance, il est fait usage :
 
 1° D'une enveloppe de retour adressée au centre de traitement ;

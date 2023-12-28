@@ -1,3 +1,5 @@
+# Article L6323-20-1
+
 Le salarié employé par une personne publique qui ne verse pas la contribution mentionnée à l'article L. 6331-1 mobilise son compte personnel de formation en application de l'article 22 ter de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
 
 Lorsque la personne publique verse la contribution mentionnée à l'article L. 6331-1, le salarié qu'elle emploie utilise ses droits inscrits sur le compte personnel de formation dans les conditions définies au présent chapitre. Il peut également solliciter une formation dans les conditions définies à l'article 22 ter de la loi n° 83-634 du 13 juillet 1983 précitée.

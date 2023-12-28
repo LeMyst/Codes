@@ -1,3 +1,5 @@
+# Article D5122-15
+
 I.-Pour l'application du 3° du II de l'article L. 5122-3, les modalités de calcul de l'indemnité et de l'allocation sont déterminées selon les règles suivantes :
 
 1° Pour les salariés dont la durée du travail est fixée par une convention de forfait en jours sur l'année, les jours ou demi-journées sont convertis en heures selon les modalités suivantes :

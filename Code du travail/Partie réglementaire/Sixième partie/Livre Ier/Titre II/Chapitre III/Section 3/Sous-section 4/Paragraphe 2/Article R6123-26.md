@@ -1,3 +1,5 @@
+# Article R6123-26
+
 I.-France compétences verse :
 
 1° La dotation relative à l'aide au développement des compétences des entreprises de moins de cinquante salariés, mentionnée au 2° du I de l'article R. 6123-25, aux opérateurs de compétences en fonction du nombre d'entreprises de moins de cinquante salariés adhérentes et de leur effectif salarié déterminé selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale ;

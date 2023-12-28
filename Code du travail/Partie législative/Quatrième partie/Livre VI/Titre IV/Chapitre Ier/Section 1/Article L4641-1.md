@@ -1,3 +1,5 @@
+# Article L4641-1
+
 Le conseil d'orientation des conditions de travail est placé auprès du ministre chargé du travail. Il assure les missions suivantes en matière de santé et de sécurité au travail et d'amélioration des conditions de travail :
 
 1° Il participe à l'élaboration des orientations stratégiques des politiques publiques nationales ;

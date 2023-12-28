@@ -1,3 +1,5 @@
+# Article R4641-6
+
 Le Conseil national d'orientation des conditions de travail est présidé par le ministre chargé du travail, ou en son absence, par le vice-président du conseil.
 
 Il comprend :

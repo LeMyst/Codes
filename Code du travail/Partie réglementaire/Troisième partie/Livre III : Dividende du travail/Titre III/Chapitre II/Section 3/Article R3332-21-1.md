@@ -1,3 +1,5 @@
+# Article R3332-21-1
+
 La condition prévue au 2° du I de l'article L. 3332-17-1 est remplie lorsque l'une ou l'autre des deux conditions suivantes est remplie :
 
 1° Les charges d'exploitation liées aux activités participant à la recherche d'une utilité sociale, au sens de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire, représentent au moins 66 % de l'ensemble des charges d'exploitation du compte de résultat de l'entreprise au cours des trois derniers exercices clos ;

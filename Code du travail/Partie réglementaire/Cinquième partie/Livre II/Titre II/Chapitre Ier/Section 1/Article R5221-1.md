@@ -1,3 +1,5 @@
+# Article R5221-1
+
 I.-Pour exercer une activité professionnelle salariée en France, les personnes suivantes doivent détenir une autorisation de travail lorsqu'elles sont employées conformément aux dispositions du présent code :
 
 1° Etranger non ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse ;

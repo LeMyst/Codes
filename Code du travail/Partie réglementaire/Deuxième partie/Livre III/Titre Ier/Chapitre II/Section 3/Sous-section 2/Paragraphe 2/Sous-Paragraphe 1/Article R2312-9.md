@@ -1,3 +1,5 @@
+# Article R2312-9
+
 En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises d'au moins trois cents salariés, la base de données économiques, sociales et environnementales prévue à l'article L. 2312-18 comporte les informations prévues dans le tableau ci-dessous.
 
 Elle comporte également les informations relatives à la formation professionnelle et aux conditions de travail prévues au 1° A e et f de l'article R. 2312-8.

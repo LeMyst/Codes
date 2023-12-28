@@ -1,3 +1,5 @@
+# Article R4544-4
+
 L'employeur définit et met en œuvre les mesures de prévention de façon à supprimer ou, à défaut, à réduire autant qu'il est possible le risque d'origine électrique lors des opérations sur les installations électriques ou dans leur voisinage. A cet effet, il s'assure que :
 
 1° Les travaux sont effectués hors tension, sauf s'il ressort de l'évaluation des risques que les conditions d'exploitation rendent dangereuse la mise hors tension ou en cas d'impossibilité technique ;

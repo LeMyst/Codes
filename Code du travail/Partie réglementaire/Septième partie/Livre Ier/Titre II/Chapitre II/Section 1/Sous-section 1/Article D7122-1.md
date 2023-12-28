@@ -1,3 +1,5 @@
+# Article D7122-1
+
 Les entrepreneurs de spectacles vivants soumis aux obligations du présent chapitre sont classés selon les catégories suivantes :
 
 1° Les exploitants de lieux de spectacles aménagés pour les représentations publiques ;

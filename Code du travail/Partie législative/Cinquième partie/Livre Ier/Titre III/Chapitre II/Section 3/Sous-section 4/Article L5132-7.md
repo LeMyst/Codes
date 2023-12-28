@@ -1,3 +1,5 @@
+# Article L5132-7
+
 Les associations intermédiaires sont des associations conventionnées par l'Etat ayant pour objet l'embauche des personnes sans emploi, rencontrant des difficultés sociales et professionnelles particulières, en vue de faciliter leur insertion professionnelle en les mettant à titre onéreux à disposition de personnes physiques ou de personnes morales.
 
 Une durée de travail hebdomadaire inférieure à la durée minimale mentionnée à l'article L. 3123-6 peut être proposée aux salariés lorsque le parcours d'insertion le justifie.

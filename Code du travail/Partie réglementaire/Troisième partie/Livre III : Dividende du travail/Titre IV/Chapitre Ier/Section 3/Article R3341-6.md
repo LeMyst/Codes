@@ -1,3 +1,5 @@
+# Article R3341-6
+
 L'état récapitulatif comporte les informations et mentions suivantes :
 
 1° L'identification du bénéficiaire ;

@@ -1,3 +1,5 @@
+# Article R7123-12
+
 Les agences de mannequins légalement établies dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen qui veulent exercer cette activité de façon temporaire et occasionnelle sur le territoire national adressent à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu d'exécution de la prestation et préalablement à celle-ci la déclaration comportant les informations suivantes :
 
 1° Les références de l'immatriculation de l'agence à un registre professionnel de son pays d'origine ;

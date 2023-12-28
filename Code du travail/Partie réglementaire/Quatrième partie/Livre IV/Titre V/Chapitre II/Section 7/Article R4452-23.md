@@ -1,3 +1,5 @@
+# Article R4452-23
+
 L'employeur établit pour ces travailleurs une fiche d'exposition comprenant les informations suivantes :
 
 1° La nature du travail accompli ;

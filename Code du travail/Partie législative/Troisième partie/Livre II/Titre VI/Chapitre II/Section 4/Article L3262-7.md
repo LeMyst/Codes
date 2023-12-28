@@ -1,3 +1,5 @@
+# Article L3262-7
+
 Un décret en Conseil d'Etat détermine les modalités d'application du présent titre, notamment :
 
 1° Les mentions qui figurent sur les titres-restaurant et les conditions d'apposition de ces mentions ;

@@ -1,3 +1,5 @@
+# Article L6241-1
+
 I.-La taxe d'apprentissage vise à favoriser l'égal accès à l'apprentissage et à contribuer au financement d'actions de développement de l'apprentissage dans les conditions prévues à l'article L. 6241-2.
 
 Elle est due par les employeurs passibles de l'impôt sur les sociétés mentionné à l'article 205 du code général des impôts, de plein droit ou sur option, ainsi que par les personnes physiques et par les sociétés ayant opté pour le régime fiscal des sociétés de personnes, lorsque ces personnes et sociétés exercent une activité mentionnée aux articles 34 et 35 du même code.

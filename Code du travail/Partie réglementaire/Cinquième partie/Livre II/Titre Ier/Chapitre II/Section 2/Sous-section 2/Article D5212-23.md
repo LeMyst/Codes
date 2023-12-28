@@ -1,3 +1,5 @@
+# Article D5212-23
+
 Les dépenses déductibles mentionnées à l'article L. 5212-11 sont relatives :
 
 1° A la réalisation de diagnostics et de travaux afin de rendre les locaux de l'entreprise accessibles aux bénéficiaires de l'obligation d'emploi ;

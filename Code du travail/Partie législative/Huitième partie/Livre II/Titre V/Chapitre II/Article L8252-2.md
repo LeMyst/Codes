@@ -1,3 +1,5 @@
+# Article L8252-2
+
 Le salarié étranger a droit au titre de la période d'emploi illicite :
 
 1° Au paiement du salaire et des accessoires de celui-ci, conformément aux dispositions légales, conventionnelles et aux stipulations contractuelles applicables à son emploi, déduction faite des sommes antérieurement perçues au titre de la période considérée. A défaut de preuve contraire, les sommes dues au salarié correspondent à une relation de travail présumée d'une durée de trois mois. Le salarié peut apporter par tous moyens la preuve du travail effectué ;

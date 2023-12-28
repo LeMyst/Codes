@@ -1,3 +1,5 @@
+# Article R6113-17
+
 I.-Le directeur général de France compétences peut, notamment en cas de signalement effectué sur le fondement du dernier alinéa de l'article R. 6113-14, demander tous documents et pièces lui permettant de s'assurer, pendant la durée de l'enregistrement, du respect de la condition d'honorabilité prévue à l'article R. 6113-14, du respect de l'obligation relative aux informations communiquées au public prévue à l'article R. 6113-14-1 ou du respect des critères mentionnés aux articles R. 6113-9 et R. 6113-11 au regard desquels ont été enregistrés les certifications professionnelles et les certifications ou habilitations.
 
 Au regard des éléments transmis au titre du premier alinéa, un rapport d'observations peut être notifié par le directeur général de France compétences aux ministères et organismes certificateurs en cas de non-respect des obligations mentionnées au premier alinéa, avec l'indication du délai dont ils disposent pour présenter des observations écrites et demander, le cas échéant, à être entendus. Ce délai ne peut être inférieur à trente jours à compter de la date de la notification.

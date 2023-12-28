@@ -1,3 +1,5 @@
+# Article R4451-13
+
 L'employeur évalue les risques résultant de l'exposition des travailleurs aux rayonnements ionisants en sollicitant le concours du salarié mentionné au I de l'article L. 4644-1 ou, s'il l'a déjà désigné, du conseiller en radioprotection.
 
 Cette évaluation a notamment pour objectif :

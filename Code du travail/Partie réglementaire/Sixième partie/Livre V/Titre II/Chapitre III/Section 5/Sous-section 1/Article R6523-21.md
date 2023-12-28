@@ -1,3 +1,5 @@
+# Article R6523-21
+
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelles constitue en son sein en un bureau comprenant :
 
 1° Trois représentants de l'Etat, dont le préfet de région, le recteur de région académique et un représentant de l'Etat désigné par le préfet de région parmi ceux mentionnés au 1° de l'article R. 6523-19.

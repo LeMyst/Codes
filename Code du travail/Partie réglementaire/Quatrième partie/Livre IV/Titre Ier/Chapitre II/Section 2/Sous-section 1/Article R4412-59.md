@@ -1,3 +1,5 @@
+# Article R4412-59
+
 Les dispositions de la présente section sont applicables aux activités dans lesquelles les travailleurs sont exposés ou susceptibles d'être exposés au cours de leur travail à des agents chimiques cancérogènes mutagènes ou toxiques pour la reproduction. Elles ne font pas obstacle aux mesures particulières prises par décret pour certains agents ou procédés cancérogènes, mutagènes ou toxiques pour la reproduction.\
 Les activités mentionnées au premier alinéa ne sont pas soumises aux dispositions de la section 1 à l'exception des dispositions suivantes :\
 1° Définitions de la sous-section 1 ;\

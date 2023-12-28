@@ -1,3 +1,5 @@
+# Article L2242-17
+
 La négociation annuelle sur l'égalité professionnelle entre les femmes et les hommes et la qualité de vie et des conditions de travail porte sur :
 
 1° L'articulation entre la vie personnelle et la vie professionnelle pour les salariés ;

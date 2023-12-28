@@ -1,3 +1,5 @@
+# Article R4746-1
+
 I.-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait pour un opérateur économique au sens du 13) de l'article 3 du règlement (UE) 2019/1020 d'exposer, de mettre en vente, de vendre, d'importer, de louer, de mettre à disposition ou de céder à quelque titre que ce soit :
 
 1° Un équipement de protection individuelle au sens du 1) de l'article 3 du règlement (UE) 2016/425 :

@@ -1,3 +1,5 @@
+# Article R6422-2
+
 La demande d'autorisation d'absence au titre du congé pour validation des acquis de l'expérience précise :
 
 1° La certification professionnelle visée ;

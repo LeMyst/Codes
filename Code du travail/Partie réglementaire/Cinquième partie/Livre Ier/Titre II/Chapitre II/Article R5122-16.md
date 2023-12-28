@@ -1,3 +1,5 @@
+# Article R5122-16
+
 En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaire, ou de difficultés financières de l'employeur, le préfet, ou sur délégation le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, peut faire procéder au paiement de l'allocation d'activité partielle par l'Agence de services et de paiement :
 
 1° Soit directement aux salariés ;

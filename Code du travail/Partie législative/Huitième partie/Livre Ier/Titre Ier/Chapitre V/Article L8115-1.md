@@ -1,3 +1,5 @@
+# Article L8115-1
+
 L'autorité administrative compétente peut, sur rapport de l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1, et sous réserve de l'absence de poursuites pénales, soit adresser à l'employeur un avertissement, soit prononcer à l'encontre de l'employeur une amende en cas de manquement :
 
 1° Aux dispositions relatives aux durées maximales du travail fixées aux articles L. 3121-18 à L. 3121-25 et aux mesures réglementaires prises pour leur application ;

@@ -1,3 +1,5 @@
+# Article L1237-3
+
 Lorsqu'un salarié ayant rompu abusivement un contrat de travail conclut un nouveau contrat de travail, le nouvel employeur est solidairement responsable du dommage causé à l'employeur précédent dans les cas suivants :
 
 1° S'il est démontré que le nouvel employeur est intervenu dans la rupture ;

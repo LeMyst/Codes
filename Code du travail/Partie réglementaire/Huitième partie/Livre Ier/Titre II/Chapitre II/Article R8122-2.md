@@ -1,3 +1,5 @@
+# Article R8122-2
+
 I. - Le directeur régional de l'économie, de l'emploi, du travail et des solidarités a autorité sur les directeurs départementaux de l'emploi, du travail et des solidarités et les directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations pour l'exercice des missions relevant des actions d'inspection de la législation du travail.
 
 Les directeurs départementaux de l'emploi, du travail et des solidarités, les directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations et, en Ile-de-France, les directeurs d'unités départementales exercent, au nom du directeur régional et sous son autorité, et dans le cadre des directives et instructions de la direction générale du travail, le pouvoir hiérarchique sur les agents du système d'inspection du travail affectés dans les directions départementales de l'emploi, du travail et des solidarités, les directions départementales de l'emploi, du travail, des solidarités et de la protection des populations et les unités départementales.

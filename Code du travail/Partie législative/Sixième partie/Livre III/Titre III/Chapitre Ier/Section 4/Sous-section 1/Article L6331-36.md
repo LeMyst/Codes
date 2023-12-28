@@ -1,3 +1,5 @@
+# Article L6331-36
+
 La cotisation prévue à l'article L. 6331-35 concourt au développement de la formation professionnelle initiale, notamment de l'apprentissage, et de la formation professionnelle continue dans les métiers des professions du bâtiment et des travaux publics.
 
 Cette cotisation contribue :

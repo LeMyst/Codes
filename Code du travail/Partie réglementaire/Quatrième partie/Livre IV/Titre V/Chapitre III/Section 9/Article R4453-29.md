@@ -1,3 +1,5 @@
+# Article R4453-29
+
 L'employeur définit les mesures et moyens de protection appropriés garantissant que :
 
 1° Les travailleurs sont protégés contre les effets nocifs pour la santé et les risques pour la sécurité ;

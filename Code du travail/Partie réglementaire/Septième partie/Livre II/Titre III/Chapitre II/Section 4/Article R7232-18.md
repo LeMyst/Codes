@@ -1,3 +1,5 @@
+# Article R7232-18
+
 Dès réception du dossier de déclaration complet, le préfet du département du lieu d'implantation du principal établissement de la personne morale ou de l'entrepreneur individuel enregistre la déclaration et lui délivre un récépissé. Dans le cas où le dossier est incomplet, le préfet en informe le demandeur et l'invite à produire les pièces ou informations manquantes.
 
 Le récépissé délivré à la personne morale ou à l'entrepreneur individuel est publié au recueil des actes administratifs de la préfecture.

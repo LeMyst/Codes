@@ -1,3 +1,5 @@
+# Article D6323-21-4
+
 I.-Les frais de gestion des commissions ne peuvent excéder un plafond déterminé dans la convention d'objectifs et de moyens.
 
 Ces frais sont définis en fonction des demandes présentées par la commission paritaire interprofessionnelle et des objectifs fixés avec le préfet de région.

@@ -1,3 +1,5 @@
+# Article L7343-29
+
 I.-L'accord collectif de secteur est négocié et conclu par :
 
 -d'une part, une ou plusieurs organisations de travailleurs reconnues représentatives dans le secteur figurant sur la liste prévue à l'article L. 7343-4 ;

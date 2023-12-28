@@ -1,3 +1,5 @@
+# Article R4311-4-1
+
 Répond à la définition de machine :
 
 1° Un ensemble équipé ou destiné à être équipé d'un système d'entraînement autre que la force humaine ou animale appliquée directement, composé de pièces ou d'organes liés entre eux dont au moins un est mobile et qui sont réunis de façon solidaire en vue d'une application définie ;

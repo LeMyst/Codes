@@ -1,3 +1,5 @@
+# Article D6332-79
+
 I.-Lorsque France compétences identifie des contrats d'apprentissage dont le niveau de prise en charge n'a pas été fixé, elle invite les branches concernées, par tout moyen donnant date certaine à la réception de cette demande, à le déterminer,
 
 II.-Les commissions paritaires nationales de l'emploi, ou le cas échéant les commissions paritaires des branches professionnelles, disposent de deux mois à compter de cette demande pour transmettre le niveau de prise en charge qu'elles ont déterminé en application de l'article D. 6332-78 à l'opérateur de compétences dont elles relèvent, qui le communique à France compétences.

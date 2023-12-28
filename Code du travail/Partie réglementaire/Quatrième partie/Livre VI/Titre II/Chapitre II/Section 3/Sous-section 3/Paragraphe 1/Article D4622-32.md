@@ -1,3 +1,5 @@
+# Article D4622-32
+
 Le comité interentreprises ou la commission de contrôle est informé :
 
 1° De tout changement de secteur ou d'affectation d'un médecin d'une entreprise ou d'un établissement de cinquante salariés et plus ;

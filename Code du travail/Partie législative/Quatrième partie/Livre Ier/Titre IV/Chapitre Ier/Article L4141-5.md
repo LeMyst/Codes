@@ -1,3 +1,5 @@
+# Article L4141-5
+
 L'employeur renseigne dans un passeport de prévention les attestations, certificats et diplômes obtenus par le travailleur dans le cadre des formations relatives à la santé et à la sécurité au travail dispensées à son initiative. Les organismes de formation renseignent le passeport selon les mêmes modalités dans le cadre des formations relatives à la santé et à la sécurité au travail qu'ils dispensent. Le travailleur peut également inscrire ces éléments dans le passeport de prévention lorsqu'ils sont obtenus à l'issue de formations qu'il a suivies de sa propre initiative.
 
 Le travailleur peut autoriser l'employeur à consulter l'ensemble des données contenues dans le passeport de prévention, y compris celles que l'employeur n'y a pas versées, pour les besoins du suivi des obligations de ce dernier en matière de formation à la santé et à la sécurité, sous réserve du respect des conditions de traitement des données à caractère personnel prévues à l'article 4 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.

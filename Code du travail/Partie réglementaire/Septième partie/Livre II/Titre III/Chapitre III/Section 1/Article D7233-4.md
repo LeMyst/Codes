@@ -1,3 +1,5 @@
+# Article D7233-4
+
 La personne morale ou l'entrepreneur individuel déclaré en application de l'article L. 7232-1-1 délivre à chacun de ses clients une attestation fiscale annuelle, pour leur permettre de bénéficier de l'aide prévue par l'article 199 sexdecies du code général des impôts.
 
 Cette attestation mentionne :

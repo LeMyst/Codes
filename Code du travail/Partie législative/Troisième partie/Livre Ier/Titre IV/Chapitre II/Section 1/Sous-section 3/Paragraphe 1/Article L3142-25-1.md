@@ -1,3 +1,5 @@
+# Article L3142-25-1
+
 Un salarié peut, sur sa demande et en accord avec son employeur, renoncer anonymement et sans contrepartie à tout ou partie de ses jours de repos non pris, qu'ils aient été ou non affectés sur un compte épargne-temps, au bénéfice d'un autre salarié de l'entreprise qui vient en aide à une personne atteinte d'une perte d'autonomie ou présentant un handicap lorsque cette personne est, pour cet autre salarié, l'une de celles mentionnées aux 1° à 9° de l'article L. 3142-16.
 
 Le congé annuel ne peut être cédé que pour sa durée excédant vingt-quatre jours ouvrables.

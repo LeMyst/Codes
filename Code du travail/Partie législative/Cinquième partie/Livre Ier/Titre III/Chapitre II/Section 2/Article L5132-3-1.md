@@ -1,3 +1,5 @@
+# Article L5132-3-1
+
 La convention annuelle d'objectifs et de moyens signée avec l'Etat, prévue à l'article L. 5134-19-4, comporte un volet relatif au cofinancement par le département des aides financières prévues à l'article L. 5132-2.
 
 En cas d'accord des parties, ce volet fixe le nombre prévisionnel d'aides cofinancées par le département, la manière dont ces aides sont attribuées aux structures d'insertion par l'activité économique et les montants financiers associés. Il peut également prévoir des modalités complémentaires de coordination des financements attribués au secteur de l'insertion par l'activité économique.

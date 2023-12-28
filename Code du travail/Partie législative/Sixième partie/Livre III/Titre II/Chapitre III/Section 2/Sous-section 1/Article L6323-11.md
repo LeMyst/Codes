@@ -1,3 +1,5 @@
+# Article L6323-11
+
 Le compte du salarié ayant effectué une durée de travail supérieure ou égale à la moitié de la durée légale ou conventionnelle du travail sur l'ensemble de l'année est alimenté au titre de cette année dans la limite d'un plafond. La valeur de ce plafond ne peut excéder dix fois le montant annuel de cette alimentation. Cette valeur et ce montant, exprimés en euros, sont fixés par décret en Conseil d'Etat.
 
 Le compte du salarié ayant effectué une durée de travail inférieure à la moitié de la durée légale ou conventionnelle du travail sur l'ensemble de l'année est alimenté au titre de cette année, dans la limite du plafond mentionné au premier alinéa, à due proportion de la durée de travail effectuée.

@@ -1,3 +1,5 @@
+# Article L2132-6
+
 Les syndicats professionnels peuvent constituer entre leurs membres des caisses spéciales de secours mutuels et de retraites.
 
 Les fonds de ces caisses sont insaisissables dans les limites déterminées par le code de la mutualité.

@@ -1,3 +1,5 @@
+# Article L7343-42
+
 I.-Sans préjudice des effets attachés à l'homologation, l'application des accords collectifs de secteur est obligatoire pour tous les signataires ou membres des organisations signataires.
 
 II.-La plateforme qui démissionne de l'organisation signataire postérieurement à la signature de l'accord de secteur demeure liée par ce dernier.

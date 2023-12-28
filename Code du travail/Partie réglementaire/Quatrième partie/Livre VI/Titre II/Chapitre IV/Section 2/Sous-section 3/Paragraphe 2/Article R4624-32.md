@@ -1,3 +1,5 @@
+# Article R4624-32
+
 L'examen de reprise a pour objet :
 
 1° De vérifier si le poste de travail que doit reprendre le travailleur ou le poste de reclassement auquel il doit être affecté est compatible avec son état de santé ;

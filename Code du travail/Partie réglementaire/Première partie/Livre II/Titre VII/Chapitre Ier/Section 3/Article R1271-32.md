@@ -1,3 +1,5 @@
+# Article R1271-32
+
 Le réseau des intervenants est constitué des personnes mentionnées aux articles L. 1271-1, L. 7232-1, L. 7232-1-1 et L. 7232-1-2.
 
 Pour être affiliés au réseau, les intervenants autorisés, agréés ou déclarés adressent à l'émetteur ou à l'organisme chargé du remboursement, au plus tard lors de la première demande de remboursement, une attestation d'agrément ou d'autorisation ou le récépissé de déclaration.

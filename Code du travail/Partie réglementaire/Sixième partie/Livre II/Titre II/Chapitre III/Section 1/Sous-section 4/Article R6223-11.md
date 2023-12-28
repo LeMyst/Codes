@@ -1,3 +1,5 @@
+# Article R6223-11
+
 L'accueil de l'apprenti dans une autre entreprise que celle qui l'emploie fait l'objet d'une convention tripartite conclue entre l'employeur, l'entreprise d'accueil et l'apprenti.
 
 La convention précise, notamment :

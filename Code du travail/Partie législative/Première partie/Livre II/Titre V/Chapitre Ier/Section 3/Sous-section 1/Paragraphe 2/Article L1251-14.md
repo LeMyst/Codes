@@ -1,3 +1,5 @@
+# Article L1251-14
+
 Le contrat de mission peut comporter une période d'essai dont la durée est fixée par convention ou accord professionnel de branche étendu ou par convention ou accord d'entreprise ou d'établissement.
 
 A défaut de convention ou d'accord, cette durée ne peut excéder :

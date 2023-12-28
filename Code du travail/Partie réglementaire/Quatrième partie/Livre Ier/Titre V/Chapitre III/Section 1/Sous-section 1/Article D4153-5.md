@@ -1,3 +1,5 @@
+# Article D4153-5
+
 L'employeur qui envisage d'employer un mineur adresse une demande écrite à l'inspecteur du travail au moins quinze jours avant la date prévue d'embauche.\
 La demande comporte :\
 1° Les nom, prénoms, âge et domicile de l'intéressé ;\

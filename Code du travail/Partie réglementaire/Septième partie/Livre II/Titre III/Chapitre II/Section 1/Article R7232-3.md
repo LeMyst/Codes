@@ -1,3 +1,5 @@
+# Article R7232-3
+
 A la demande d'agrément est joint un dossier comprenant :
 
 1° Le numéro unique d'identification ou une copie des statuts de la personne morale, ou, le cas échéant, pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, un document équivalent à l'extrait d'immatriculation au registre du commerce et des sociétés ou au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ;

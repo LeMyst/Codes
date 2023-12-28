@@ -1,3 +1,5 @@
+# Article R2421-5
+
 La décision de l'inspecteur du travail est motivée.\
 Elle est notifiée par lettre recommandée avec avis de réception :\
 1° A l'employeur ;\

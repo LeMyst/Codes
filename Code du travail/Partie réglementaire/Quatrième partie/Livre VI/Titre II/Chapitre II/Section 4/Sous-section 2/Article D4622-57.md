@@ -1,3 +1,5 @@
+# Article D4622-57
+
 Les services de prévention et de santé au travail transmettent par voie dématérialisée les données relatives à leur activité et à leur gestion financière et toute autre information demandée par l'autorité administrative dans les délais fixés par celle-ci. Elles concernent l'organisation et le fonctionnement des services de prévention et de santé au travail notamment :
 
 1° Les ressources et les outils utilisés, notamment une adresse électronique à jour pour faciliter la transmission des données ;

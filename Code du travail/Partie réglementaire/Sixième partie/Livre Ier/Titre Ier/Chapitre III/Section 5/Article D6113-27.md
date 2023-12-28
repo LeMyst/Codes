@@ -1,3 +1,5 @@
+# Article D6113-27
+
 Les projets de création, de révision ou de suppression des diplômes de l'enseignement supérieur inscrits au répertoire national des certifications professionnelles au titre du I de l'article L. 6113-5 sont soumis à une concertation préalable conformément au I de l'article L. 6113-3 selon les modalités suivantes :
 
 1° Les diplômes nationaux, les diplômes conférant un grade universitaire relevant de l'article L. 613-1 du code de l'éducation et les diplômes relevant des articles L. 641-4 ou L. 641-5 du code de l'éducation autres que ceux mentionnés aux 2° et 4° du présent article sont examinés par l'instance chargée des consultations conduisant à la révision périodique des nomenclatures des mentions de ces diplômes. Pour chaque diplôme, un binôme composé d'un enseignant-chercheur ou d'un enseignant et d'une personnalité du domaine socio-économique correspondant présente la certification au sein de cette instance ; le calendrier de concertation est présenté annuellement à cette instance ;

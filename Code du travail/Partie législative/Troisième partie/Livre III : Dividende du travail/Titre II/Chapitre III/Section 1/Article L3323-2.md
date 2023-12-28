@@ -1,3 +1,5 @@
+# Article L3323-2
+
 L'accord de participation peut prévoir l'affectation des sommes constituant la réserve spéciale de participation :
 
 1° A des comptes ouverts au nom des intéressés en application d'un plan d'épargne salariale remplissant les conditions fixées au titre III ;

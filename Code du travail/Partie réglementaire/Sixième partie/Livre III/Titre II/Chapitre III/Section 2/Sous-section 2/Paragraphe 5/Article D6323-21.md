@@ -1,3 +1,5 @@
+# Article D6323-21
+
 I.-Les commissions paritaires interprofessionnelles régionales financent :
 
 1° Les frais pédagogiques, les frais annexes et les frais liés à la validation des compétences et des connaissances des projets de transition professionnelle prévus par l'article R. 6323-14-3 ;

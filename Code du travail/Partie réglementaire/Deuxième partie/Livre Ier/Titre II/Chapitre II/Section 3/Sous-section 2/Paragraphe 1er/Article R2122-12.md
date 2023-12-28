@@ -1,3 +1,5 @@
+# Article R2122-12
+
 Un système de traitement automatisé de données à caractère personnel en vue de l'établissement de la liste électorale pour la mesure de l'audience mentionnée à l'article L. 2122-10-1, dénommé " fichiers des listes électorales pour la mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés ”, est créé par les services du ministre chargé du travail pour collecter les catégories de données suivantes :
 
 1° Les informations relatives au salarié :

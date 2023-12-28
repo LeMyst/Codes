@@ -1,3 +1,5 @@
+# Article R4451-35
+
 I.-Lors d'une opération exécutée par une entreprise extérieure pour le compte d'une entreprise utilisatrice, le chef de cette dernière assure la coordination générale des mesures de prévention qu'il prend et de celles prises par le chef de l'entreprise extérieure, conformément aux dispositions des articles R. 4511-5 et suivants.
 
 Le chef de l'entreprise utilisatrice et le chef de l'entreprise extérieure sollicitent le concours, pour l'application des mesures de prévention prises au titre du présent chapitre, du conseiller en radioprotection qu'ils ont respectivement désigné ou, le cas échéant, du salarié mentionné au I de l'article L. 4644-1.

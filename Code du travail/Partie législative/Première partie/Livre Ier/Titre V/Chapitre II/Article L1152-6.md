@@ -1,3 +1,5 @@
+# Article L1152-6
+
 Une procédure de médiation peut être mise en oeuvre par toute personne de l'entreprise s'estimant victime de harcèlement moral ou par la personne mise en cause.
 
 Le choix du médiateur fait l'objet d'un accord entre les parties.

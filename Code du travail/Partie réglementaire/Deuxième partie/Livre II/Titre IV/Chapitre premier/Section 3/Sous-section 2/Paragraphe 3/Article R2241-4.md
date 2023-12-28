@@ -1,3 +1,5 @@
+# Article R2241-4
+
 La négociation triennale en matière de formation professionnelle et d'apprentissage porte notamment sur :
 
 1° La nature des actions de formation et leur ordre de priorité ;

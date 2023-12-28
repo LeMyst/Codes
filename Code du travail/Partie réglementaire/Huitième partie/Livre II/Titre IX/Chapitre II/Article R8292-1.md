@@ -1,3 +1,5 @@
+# Article R8292-1
+
 La carte d'identification professionnelle est une carte individuelle sécurisée destinée à tout salarié effectuant un ou des travaux de bâtiment ou de travaux publics énumérés au premier alinéa de l'article R. 8291-1. La carte est la propriété de l'union des caisses mentionnée à l'article R. 8291-2. Elle comporte les logotypes de la “ Marianne ” et de l'union des caisses. Y sont mentionnés :
 
 1° L'identité du salarié : nom, prénoms, sexe ;

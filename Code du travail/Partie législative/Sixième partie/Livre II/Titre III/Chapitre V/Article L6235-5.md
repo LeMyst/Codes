@@ -1,3 +1,5 @@
+# Article L6235-5
+
 I.-Le livre III de la présente partie, dans ses dispositions applicables à l'apprentissage, est applicable à l'apprentissage transfrontalier.
 
 II.-Par dérogation au I, les dispositions suivantes ne sont pas applicables :

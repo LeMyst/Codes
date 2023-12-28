@@ -1,3 +1,5 @@
+# Article R7413-1
+
 Le donneur d'ouvrage à domicile tient une comptabilité distincte des matières premières et fournitures destinées au travailleur à domicile.\
 Cette comptabilité fait ressortir séparément :\
 1° A l'entrée dans l'établissement : la date d'entrée, la quantité et la nature de chaque article ;\

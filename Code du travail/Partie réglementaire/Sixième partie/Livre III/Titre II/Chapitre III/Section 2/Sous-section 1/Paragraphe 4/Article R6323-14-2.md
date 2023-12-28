@@ -1,3 +1,5 @@
+# Article R6323-14-2
+
 I.-Les demandes de prise en charge d'un projet de transition professionnelle sont satisfaites dans l'ordre de leur réception. Toutefois, les commissions paritaires interprofessionnelles régionales sont admises à déterminer certaines catégories d'actions et de publics prioritaires lorsque les demandes de prise en charge d'un projet de transition professionnelle qui leur sont présentées ne peuvent être toutes satisfaites simultanément.
 
 L'ordre de priorité est fixé par chaque commission au regard des spécificités de son territoire. Il tient compte notamment des analyses effectuées dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelle élaboré par la région en application de l'article L. 6121-1, d'une part, et du référentiel de priorités dans la satisfaction des demandes de prise en charge établi par France compétences en application du 10° de l'article L. 6123-5, d'autre part.

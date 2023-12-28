@@ -1,3 +1,5 @@
+# Article R4623-1
+
 Le médecin du travail est le conseiller de l'employeur, des travailleurs, des représentants du personnel et des services sociaux. Dans le champ de ses missions :
 
 1° Il participe à la prévention des risques professionnels et à la protection de la santé des travailleurs, notamment par :

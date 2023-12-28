@@ -1,3 +1,5 @@
+# Article R1454-1
+
 En cas d'échec de la conciliation, le bureau de conciliation et d'orientation assure la mise en état de l'affaire jusqu'à la date qu'il fixe pour l'audience de jugement. Des séances peuvent être spécialement tenues à cette fin.
 
 Après avis des parties, il fixe les délais et les conditions de communication des prétentions, moyens et pièces.

@@ -1,3 +1,5 @@
+# Article D6323-19-2
+
 I.-L'agrément peut être retiré lorsqu'une commission paritaire interprofessionnelle régionale ne satisfait plus aux dispositions des articles L. 6323-17-6, D. 6323-20-1, D. 6323-21, D. 6323-21-2 et D. 6323-21-4.
 
 II.-Lorsqu'il constate qu'une commission paritaire interprofessionnelle régionale ne satisfait plus les dispositions mentionnées au I, le préfet de région lui adresse une mise en demeure motivée, par tout moyen donnant date certaine à la réception de cette mise en demeure.

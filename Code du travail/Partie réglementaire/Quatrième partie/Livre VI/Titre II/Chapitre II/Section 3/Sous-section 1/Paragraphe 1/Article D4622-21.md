@@ -1,3 +1,5 @@
+# Article D4622-21
+
 Sauf avis contraire du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, un service de prévention et de santé au travail interentreprises ne peut s'opposer à l'adhésion d'une entreprise relevant de sa compétence.
 
 Un service de prévention et de santé au travail interentreprises peut accepter l'adhésion d'une entreprise située dans la région où il dispose d'un agrément dès lors que les conditions suivantes sont réunies :

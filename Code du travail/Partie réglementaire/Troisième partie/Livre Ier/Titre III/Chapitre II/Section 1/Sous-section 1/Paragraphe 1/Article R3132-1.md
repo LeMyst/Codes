@@ -1,3 +1,5 @@
+# Article R3132-1
+
 Les établissements des industries énumérés dans le tableau suivant, qui attribuent le repos hebdomadaire à tous les salariés le même jour, bénéficient de la suspension du repos hebdomadaire prévue à l'article L. 3132-5 :
 
 |  |  |

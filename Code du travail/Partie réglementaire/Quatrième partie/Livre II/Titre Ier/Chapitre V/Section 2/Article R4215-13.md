@@ -1,3 +1,5 @@
+# Article R4215-13
+
 Les locaux ou emplacements réservés à la production, la conversion ou la distribution de l'électricité, appelés locaux ou emplacements de service électrique, sont conçus et réalisés de façon à assurer tout à la fois :
 
 1° L'accessibilité aux matériels et l'aisance de déplacement et de mouvement ;

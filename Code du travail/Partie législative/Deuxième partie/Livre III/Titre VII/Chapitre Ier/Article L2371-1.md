@@ -1,3 +1,5 @@
+# Article L2371-1
+
 Le présent titre s'applique :
 
 1° Aux sociétés ayant leur siège en France issues d'une fusion, scission ou transformation transfrontalières ;

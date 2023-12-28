@@ -1,3 +1,5 @@
+# Article R4461-7
+
 L'employeur établit, pour chacun de ses établissements, un manuel de sécurité hyperbare, en tenant compte des résultats de l'évaluation des risques consignés dans le document unique prévu à l'article R. 4461-3.
 
 Ce manuel précise notamment :

@@ -1,3 +1,5 @@
+# Article R4462-27
+
 I.-La conduite et la surveillance, ou l'exécution, d'activités pyrotechniques déterminées, ainsi que d'activités déterminées de maintenance ou de transport interne de substances ou objets explosifs, ne sont confiées qu'à un travailleur habilité à cet effet par l'employeur à l'issue des formations initiales et complémentaires dispensées dans les conditions définies par le II et le III du présent article en application de l'article L. 4141-2.
 
 II.-Une formation initiale à la sécurité est dispensée par l'employeur au bénéfice des travailleurs qu'il embauche, ou des travailleurs temporaires, appelés à conduire, à surveiller ou à exécuter des activités pyrotechniques, les activités de maintenance ainsi que les activités de transport interne de substances ou objets explosifs.

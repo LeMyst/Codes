@@ -1,3 +1,5 @@
+# Article R3121-10
+
 L'autorisation de dépassement de la durée maximale hebdomadaire absolue du travail prévue par l'article L. 3121-21 est accordée par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Elle ne peut l'être qu'en cas de circonstance exceptionnelle entraînant temporairement un surcroît extraordinaire de travail.
 
 La demande d'autorisation est adressée par l'employeur à l'inspecteur du travail.

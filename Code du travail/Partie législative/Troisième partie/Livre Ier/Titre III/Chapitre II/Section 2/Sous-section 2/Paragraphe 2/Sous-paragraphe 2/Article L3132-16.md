@@ -1,3 +1,5 @@
+# Article L3132-16
+
 Dans les industries ou les entreprises industrielles, une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord collectif de travail étendu peut prévoir que le personnel d'exécution fonctionne en deux groupes dont l'un, dénommé équipe de suppléance, a pour seule fonction de remplacer l'autre pendant le ou les jours de repos accordés au premier groupe.
 
 Le repos hebdomadaire des salariés de l'équipe de suppléance est attribué un autre jour que le dimanche.

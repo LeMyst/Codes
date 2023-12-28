@@ -1,3 +1,5 @@
+# Article L4141-2
+
 L'employeur organise une formation pratique et appropriée à la sécurité au bénéfice :
 
 1° Des travailleurs qu'il embauche ;

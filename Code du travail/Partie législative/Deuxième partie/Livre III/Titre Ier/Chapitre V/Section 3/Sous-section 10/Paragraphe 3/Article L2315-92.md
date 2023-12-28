@@ -1,3 +1,5 @@
+# Article L2315-92
+
 I.-Un expert-comptable peut être désigné par le comité social et économique :
 
 1° Dans les conditions prévues à l'article L. 2312-41 relatif aux opérations de concentration ;

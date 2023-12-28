@@ -1,3 +1,5 @@
+# Article L800-4
+
 Dans le présent code et sous réserve, le cas échéant, des dispositions du présent livre, les mots : "national", "nationales", "nationaux", "France", "territoire français", "ensemble du territoire" ou "ensemble du territoire national" ne s'appliquent qu'aux départements de métropole, de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et à Saint-Pierre-et-Miquelon.
 
 Toutefois :

@@ -1,3 +1,5 @@
+# Article R5212-12
+
 Pour que l'accord mentionné à l'article L. 5212-8 soit agréé, le programme pluriannuel qu'il prévoit doit comporter un plan d'embauche et un plan de maintien dans l'emploi dans l'entreprise.
 
 Ces documents sont assortis d'objectifs, au nombre desquels doivent notamment figurer, pour chaque année d'exécution du programme, le nombre de bénéficiaires de l'obligation d'emploi mentionnés à l'article L. 5212-13 rapporté à l'effectif d'assujettissement et le nombre de ces bénéficiaires dont le recrutement est envisagé. Ils précisent en outre le financement prévisionnel des différentes actions programmées.

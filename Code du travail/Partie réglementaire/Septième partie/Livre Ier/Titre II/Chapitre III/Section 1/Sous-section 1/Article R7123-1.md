@@ -1,3 +1,5 @@
+# Article R7123-1
+
 Le contrat de travail conclu entre une agence de mannequins et chaque mannequin mis à la disposition d'un utilisateur est remis au mannequin, ou à ses représentants légaux, au plus tard dans les deux jours ouvrables suivant sa mise à disposition.
 
 Ce contrat comporte :

@@ -1,3 +1,5 @@
+# Article L2411-3
+
 Le licenciement d'un délégué syndical ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette autorisation est également requise pour le licenciement de l'ancien délégué syndical, durant les douze mois suivant la date de cessation de ses fonctions, s'il a exercé ces dernières pendant au moins un an.

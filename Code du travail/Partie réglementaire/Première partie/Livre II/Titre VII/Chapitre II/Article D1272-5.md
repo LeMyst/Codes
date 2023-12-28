@@ -1,3 +1,5 @@
+# Article D1272-5
+
 Le volet d'identification du salarié prévu au 2° de l'article D. 1272-1 comporte les mentions suivantes :\
 1° Mentions relatives au salarié :\
 a) L'ensemble des mentions prévues à l'article R. 1221-1, relatif à la déclaration préalable à l'embauche ;\

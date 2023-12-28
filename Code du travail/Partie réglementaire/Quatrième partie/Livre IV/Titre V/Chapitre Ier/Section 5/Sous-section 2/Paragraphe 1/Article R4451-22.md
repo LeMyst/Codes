@@ -1,3 +1,5 @@
+# Article R4451-22
+
 L'employeur identifie toute zone où les travailleurs sont susceptibles d'être exposés à des niveaux de rayonnements ionisants dépassant :
 
 1° Pour l'organisme entier, évalués à partir de la dose efficace : 0,08 millisievert par mois ;

@@ -1,3 +1,5 @@
+# Article D6222-1
+
 Les dérogations à la limite d'âge supérieure, prévue à l'article L. 6222-2, sont applicables dans les conditions suivantes :
 
 1° Pour les dérogations prévues aux 1° et 2°, l'âge de l'apprenti au moment de la conclusion du contrat est de trente-cinq ans au plus ;

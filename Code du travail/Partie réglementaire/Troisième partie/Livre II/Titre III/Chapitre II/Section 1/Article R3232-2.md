@@ -1,3 +1,5 @@
+# Article R3232-2
+
 Lors du paiement de l'allocation complémentaire, il est remis au salarié un document indiquant :\
 1° Le taux du salaire minimum de croissance ;\
 2° Le nombre d'heures correspondant à la durée légale du travail ;\

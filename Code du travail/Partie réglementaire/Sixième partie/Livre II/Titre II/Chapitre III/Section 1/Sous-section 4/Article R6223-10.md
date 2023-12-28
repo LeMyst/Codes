@@ -1,3 +1,5 @@
+# Article R6223-10
+
 I.-Afin de permettre à l'apprenti de compléter sa formation, en application de l'article L. 6221-1, une partie de sa formation pratique peut être dispensée dans d'autres entreprises que celle qui l'emploie notamment pour recourir à des équipements ou des techniques qui ne sont pas utilisés dans celle-ci.
 
 L'accueil de l'apprenti dans d'autres entreprises que celle qui l'emploie ne peut excéder la moitié du temps de formation en entreprise prévu par le contrat d'apprentissage. Le nombre d'entreprises d'accueil autres que celle qui l'emploie ne peut être supérieur à deux au cours de l'exécution d'un même contrat d'apprentissage.

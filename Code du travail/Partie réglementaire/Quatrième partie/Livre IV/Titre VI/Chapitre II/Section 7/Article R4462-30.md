@@ -1,3 +1,5 @@
+# Article R4462-30
+
 I.-Chacune des études de sécurité prévues à l'article R. 4462-3, à laquelle est joint le compte-rendu de la consultation du comité social et économique, est soumise pour approbation au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou à l'autorité qui lui est substituée en application des articles R. 8111-8 et R. 4462-29, et donne lieu à consultation de l'inspecteur de l'armement pour les poudres et explosifs.
 
 II.-Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou l'autorité qui lui est substituée fait connaître sa décision à l'employeur dans un délai de trois mois à compter de la date de réception de la demande d'approbation, par tout moyen permettant de donner date certaine à cette notification. Il peut toutefois, par décision motivée notifiée selon les mêmes modalités avant l'expiration du délai mentionné ci-dessus, fixer un nouveau délai si l'instruction du dossier l'exige, sans que le délai global puisse excéder six mois.

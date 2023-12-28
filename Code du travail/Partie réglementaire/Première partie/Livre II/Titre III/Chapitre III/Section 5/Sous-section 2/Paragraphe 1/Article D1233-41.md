@@ -1,3 +1,5 @@
+# Article D1233-41
+
 I. — Les mesures engagées avant la signature de la convention peuvent être prises en compte dans le cadre de cette dernière lorsqu'elles contribuent à la création d'activités, au développement des emplois et permettent d'atténuer les effets du licenciement envisagé ou de la rupture conventionnelle collective sur les autres entreprises dans le ou les bassins d'emploi concernés.
 
 Les mesures envisagées sous la forme de l'octroi d'un prêt aux mêmes fins sont valorisées à hauteur d'un coût prévisionnel tenant compte du coût de gestion du prêt, du coût du risque et du coût de l'accès au financement. Cette valorisation ne peut dépasser 30 % des sommes engagées.

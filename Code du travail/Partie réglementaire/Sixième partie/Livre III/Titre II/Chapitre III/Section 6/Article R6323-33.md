@@ -1,3 +1,5 @@
+# Article R6323-33
+
 Le traitement automatisé mentionné à l'article R. 6323-32 a pour finalités de permettre :
 
 1° La gestion et le contrôle des droits acquis au titre du compte personnel de formation et au titre du droit individuel à la formation des élus locaux, ainsi que des abondements en droits complémentaires, accessible via un service dématérialisé mis en place à cet effet ;

@@ -1,3 +1,5 @@
+# Article R6316-3
+
 I.-L'accréditation des organismes certificateurs prévue à l'article L. 6316-2 garantit le respect :
 
 1° De la norme de l'organisation internationale de normalisation correspondant à l'exercice de l'activité de certification des produits, des procédés et des services ;

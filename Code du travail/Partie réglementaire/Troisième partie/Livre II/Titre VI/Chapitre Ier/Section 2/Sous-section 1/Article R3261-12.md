@@ -1,3 +1,5 @@
+# Article R3261-12
+
 Sont exclus du bénéfice de la prise en charge des frais mentionnés à l'article R. 3261-11 :
 
 1° Les salariés bénéficiant d'un véhicule mis à disposition permanente par l'employeur avec prise en charge par l'employeur des dépenses de carburant ou d'alimentation électrique d'un véhicule ;

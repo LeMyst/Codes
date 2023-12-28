@@ -1,3 +1,5 @@
+# Article L1251-9
+
 Dans les six mois suivant un licenciement pour motif économique, il est interdit de faire appel à un salarié temporaire au titre d'un accroissement temporaire de l'activité, y compris pour l'exécution d'une tâche occasionnelle, précisément définie et non durable, ne relevant pas de l'activité normale de l'entreprise utilisatrice.
 
 Cette interdiction porte sur les postes concernés par le licenciement dans l'établissement.

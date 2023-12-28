@@ -1,3 +1,5 @@
+# Article R2313-4
+
 Lorsque l'un des employeurs mandaté par les autres prend une décision sur la détermination du nombre et du périmètre des établissements distincts en application de l'article L. 2313-8, il la porte à la connaissance de chaque organisation syndicale représentative dans l'unité économique et sociale et de chaque organisation syndicale ayant constitué une section syndicale dans l'unité économique et sociale, par tout moyen permettant de conférer date certaine à cette information.
 
 Lorsque les négociations se sont déroulées conformément au quatrième alinéa de l'article L. 2313-8, l'employeur mandaté par les autres réunit le comité afin de l'informer de sa décision.

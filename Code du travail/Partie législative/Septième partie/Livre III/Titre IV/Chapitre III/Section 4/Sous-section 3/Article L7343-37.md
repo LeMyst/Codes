@@ -1,3 +1,5 @@
+# Article L7343-37
+
 Une négociation peut également être engagée au niveau du secteur sur tout autre thème relatif aux conditions de travail et d'exercice de l'activité, notamment :
 
 1° Les modalités d'échanges d'informations entre la plateforme et les travailleurs sur l'organisation de leurs relations commerciales ;

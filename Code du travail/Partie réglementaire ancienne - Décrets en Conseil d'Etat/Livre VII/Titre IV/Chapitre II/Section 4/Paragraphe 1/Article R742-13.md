@@ -1,3 +1,5 @@
+# Article R742-13
+
 Quand les parties intéressées prennent l'initiative de recourir à la procédure réglementaire de conciliation, la partie la plus diligente adresse au ministre ou au directeur des affaires maritimes intéressé une requête aux fins de conciliation rédigée sur papier libre et exposant les points sur lesquels porte le litige.
 
 Le directeur des affaires maritimes transmet la requête au secrétaire de la commission compétente.

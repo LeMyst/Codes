@@ -1,3 +1,5 @@
+# Article L3123-6
+
 Le contrat de travail du salarié à temps partiel est un contrat écrit.
 
 Il mentionne :

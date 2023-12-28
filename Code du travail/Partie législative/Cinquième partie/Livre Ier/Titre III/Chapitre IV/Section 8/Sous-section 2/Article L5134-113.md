@@ -1,3 +1,5 @@
+# Article L5134-113
+
 L'aide relative à l'emploi d'avenir est accordée pour une durée minimale de douze mois et pour une durée maximale de trente-six mois, sans pouvoir excéder le terme du contrat de travail.
 
 Lorsque l'aide a été initialement accordée pour une durée inférieure à trente-six mois, elle peut être prolongée jusqu'à cette durée maximale.

@@ -1,3 +1,5 @@
+# Article D3131-4
+
 Il peut être dérogé, dans des conditions et selon des modalités fixées par accord prévu à l'article L. 3131-2, à la période minimale de onze heures de repos quotidien par salarié pour ceux exerçant les activités suivantes :\
 1° Activités caractérisées par l'éloignement entre le domicile et le lieu de travail du salarié ou par l'éloignement entre différents lieux de travail du salarié ;\
 2° Activités de garde, de surveillance et de permanence caractérisées par la nécessité d'assurer la protection des biens et des personnes ;\

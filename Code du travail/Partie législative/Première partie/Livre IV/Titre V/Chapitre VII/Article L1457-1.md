@@ -1,3 +1,5 @@
+# Article L1457-1
+
 Le conseiller prud'homme peut être récusé :
 
 1° Lorsqu'il a un intérêt personnel à la contestation, le seul fait d'être affilié à une organisation syndicale ne constituant pas cet intérêt personnel ;

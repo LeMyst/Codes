@@ -1,3 +1,5 @@
+# Article R6351-18
+
 I.-Le représentant du prestataire mentionné à l'article L. 6351-1 accède directement aux données à caractère personnel le concernant, en vue de renseigner et mettre à jour ses données à caractère personnel.
 
 II.-Ont accès à tout ou partie des données à caractère personnel incluses dans le traitement mentionné à l'article R. 6351-13, dans les conditions fixées par le responsable de traitement, à raison de leurs attributions respectives et dans la limite du besoin d'en connaître, pour ce qui relève des finalités mentionnées à l'article R. 6351-14 :

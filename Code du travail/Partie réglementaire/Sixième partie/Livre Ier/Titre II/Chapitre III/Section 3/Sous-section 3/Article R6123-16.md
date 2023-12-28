@@ -1,3 +1,5 @@
+# Article R6123-16
+
 Le budget de l'établissement comporte neuf sections financières :
 
 1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections :

@@ -1,3 +1,5 @@
+# Article R7213-3
+
 Le congé ne peut être confondu avec :\
 1° Une absence pour cause de maladie ;\
 2° Les périodes de cure indemnisées par la sécurité sociale ;\

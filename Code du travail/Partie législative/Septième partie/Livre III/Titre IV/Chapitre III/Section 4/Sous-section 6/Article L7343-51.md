@@ -1,3 +1,5 @@
+# Article L7343-51
+
 L'Autorité des relations sociales des plateformes d'emploi exclut de l'homologation les clauses qui apparaissent en contradiction avec des dispositions légales.
 
 Elle peut également refuser, pour des motifs d'intérêt général, notamment pour atteinte excessive à la libre concurrence, l'homologation d'un accord.

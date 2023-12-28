@@ -1,3 +1,5 @@
+# Article L1251-54
+
 Pour calculer les effectifs d'une entreprise de travail temporaire, il est tenu compte :
 
 1° Des salariés permanents de cette entreprise, déterminés conformément à l'article L. 1111-2 ;

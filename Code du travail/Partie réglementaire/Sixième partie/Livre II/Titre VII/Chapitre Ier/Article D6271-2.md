@@ -1,3 +1,5 @@
+# Article D6271-2
+
 La convention est conclue, en début ou en cours de contrat, entre l'employeur public mentionné à l'article L. 6227-1, l'autre employeur public ou l'entreprise qui assure l'accueil de l'apprenti.
 
 Elle doit préciser :

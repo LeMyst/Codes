@@ -1,3 +1,5 @@
+# Article R6523-23
+
 Le Comité de l'emploi, de la formation et de l'orientation professionnelle est composé, outre le représentant de l'Etat à Saint-Barthélemy et à Saint-Martin et le président du conseil territorial, de membres nommés par arrêté du représentant de l'Etat dans chacune des collectivités :
 
 1° Six représentants de l'Etat :

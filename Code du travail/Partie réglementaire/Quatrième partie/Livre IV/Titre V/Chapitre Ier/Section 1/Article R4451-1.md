@@ -1,3 +1,5 @@
+# Article R4451-1
+
 Les dispositions du présent chapitre s'appliquent dès lors que les travailleurs, y compris les travailleurs indépendants, sont susceptibles d'être exposés à un risque dû aux rayonnements ionisants d'origine naturelle ou artificielle.
 
 Elles s'appliquent notamment :

@@ -1,3 +1,5 @@
+# Article R4412-70
+
 Dans tous les cas d'utilisation d'un agent cancérogène, mutagène ou toxique pour la reproduction l'employeur applique les mesures suivantes :\
 1° Limitation des quantités de cet agent sur le lieu de travail ;\
 2° Limitation du nombre de travailleurs exposés ou susceptibles de l'être ;\

@@ -1,3 +1,5 @@
+# Article L6222-43
+
 Les apprentis originaires d'un Etat membre de l'Union européenne effectuant une période de mobilité en France bénéficient des dispositions du présent livre. En raison du caractère temporaire de cette mobilité, les dispositions suivantes ne leur sont pas applicables :
 
 1° L'article L. 6211-1, relatif à la finalité du contrat d'apprentissage ;

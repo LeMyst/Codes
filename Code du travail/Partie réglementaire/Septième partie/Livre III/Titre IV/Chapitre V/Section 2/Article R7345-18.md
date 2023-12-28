@@ -1,3 +1,5 @@
+# Article R7345-18
+
 Les dépenses de l'établissement comprennent :
 
 1° Les frais de personnel qui ne sont pas pris en charge par l'Etat ;

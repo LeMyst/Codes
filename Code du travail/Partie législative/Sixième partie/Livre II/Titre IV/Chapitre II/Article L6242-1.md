@@ -1,3 +1,5 @@
+# Article L6242-1
+
 I.-Une contribution supplémentaire à l'apprentissage est due annuellement par les entreprises d'au moins deux cent cinquante salariés qui sont redevables de la taxe d'apprentissage en application de l'article L. 6241-1 et dont le quotient de l'effectif annuel salarié pour l'ensemble des catégories mentionnées au II par l'effectif total de l'entreprise est inférieur à un seuil de 5 % au cours de l'année de référence.
 
 II.-Sont pris en compte au numérateur du quotient prévu au I :

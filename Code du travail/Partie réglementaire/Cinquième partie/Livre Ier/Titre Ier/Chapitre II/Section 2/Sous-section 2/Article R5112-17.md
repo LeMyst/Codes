@@ -1,3 +1,5 @@
+# Article R5112-17
+
 La formation spécialisée compétente en matière d'insertion par l'activité économique, dénommée conseil départemental de l'insertion par l'activité économique, comprend, outre le préfet :
 
 1° Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;

@@ -1,3 +1,5 @@
+# Article L2353-17
+
 L'ordre du jour des réunions du comité de la société européenne est arrêté par le président et le secrétaire.
 
 Il est communiqué aux membres du comité au moins quinze jours avant la date de la réunion.

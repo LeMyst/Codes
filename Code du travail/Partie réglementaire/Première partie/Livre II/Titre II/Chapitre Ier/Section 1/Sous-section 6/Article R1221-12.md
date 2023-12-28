@@ -1,3 +1,5 @@
+# Article R1221-12
+
 Sur toute demande des agents de contrôle mentionnés à l'article L. 8271-7, l'employeur :
 
 1° Présente l'avis de réception de la déclaration préalable à l'embauche s'il est encore tenu de le conserver en application de l'article R. 1221-8 ;

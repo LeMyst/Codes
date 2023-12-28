@@ -1,3 +1,5 @@
+# Article R2261-15
+
 I.-Le critère prévu par le 2° du I de l'article L. 2261-32 s'apprécie au regard :
 
 1° De la faiblesse du nombre d'accords conclus au cours des deux dernières années, notamment ceux assurant un salaire minimum national professionnel, au sens du 4° du II de l'article L. 2261-22, au moins égal au salaire minimum interprofessionnel de croissance ;

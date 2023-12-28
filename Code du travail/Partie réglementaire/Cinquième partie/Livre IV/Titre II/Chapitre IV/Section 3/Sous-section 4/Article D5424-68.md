@@ -1,3 +1,5 @@
+# Article D5424-68
+
 Le comité est saisi dans les conditions prévues au II de l'article L. 5424-23. Il transmet le résultat de son évaluation à l'organisation qui l'a saisi. Cette dernière peut communiquer le résultat de cette évaluation.
 
 Le délai prévu au III de l'article L. 5424-23 est fixé à vingt jours à compter de la réception de l'accord par le président du comité d'expertise. Le résultat de l'évaluation de l'accord est rendu public par le président du comité d'expertise.

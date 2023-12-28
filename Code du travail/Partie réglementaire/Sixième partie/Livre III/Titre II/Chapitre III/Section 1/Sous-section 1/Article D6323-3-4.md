@@ -1,3 +1,5 @@
+# Article D6323-3-4
+
 I.-Le salarié lanceur d'alerte mentionné au I de l'article 6 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique, ainsi que les personnes salariées mentionnées aux 1° et 2° de l'article 6-1 de cette loi, bénéficient d'un abondement de leur compte personnel de formation dans les conditions prévues au II de l'article 12 de la même loi.
 
 II.-Lorsqu'à l'occasion d'un litige le conseil des prud'hommes demande à l'employeur d'abonder le compte du salarié mentionné au I, il tient compte du montant des droits inscrits sur le compte du salarié bénéficiaire ainsi que du plafond de droits mentionné au I de l'article R. 6323-3-1.

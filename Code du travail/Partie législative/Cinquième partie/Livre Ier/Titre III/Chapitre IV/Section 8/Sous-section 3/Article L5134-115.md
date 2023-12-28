@@ -1,3 +1,5 @@
+# Article L5134-115
+
 Le contrat de travail associé à un emploi d'avenir peut être à durée indéterminée ou à durée déterminée.
 
 Lorsqu'il est à durée déterminée, il est conclu pour une durée de trente-six mois.

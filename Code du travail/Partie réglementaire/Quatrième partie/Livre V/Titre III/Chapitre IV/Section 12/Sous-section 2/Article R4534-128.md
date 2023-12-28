@@ -1,3 +1,5 @@
+# Article R4534-128
+
 En cas de mise hors tension de la ligne ou de l'installation, l'employeur demande à l'exploitant ou à l'usager de la ligne ou de l'installation de procéder à cette mise hors tension ou obtient de lui l'autorisation de la réaliser lui-même.\
 L'employeur :\
 1° N'ordonne le début du travail qu'après avoir vérifié que la mise hors tension est effective ;\

@@ -1,3 +1,5 @@
+# Article R5311-1
+
 La convention pluriannuelle prévue à l'article L. 5312-3 est conclue entre l'Etat, représenté par le ministre chargé de l'emploi, l'organisme gestionnaire de l'assurance chômage, représenté par son président, son vice-président et son directeur général et Pôle emploi, représenté par le président de son conseil d'administration et son directeur général.
 
 Sans préjudice des dispositions de l'article L. 5312-3, cette convention détermine :

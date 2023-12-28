@@ -1,3 +1,5 @@
+# Article R6341-15
+
 Les durées des stages sont les suivantes :\
 1° Stages à temps plein :\
 a) Durée maximum : trois ans ;\

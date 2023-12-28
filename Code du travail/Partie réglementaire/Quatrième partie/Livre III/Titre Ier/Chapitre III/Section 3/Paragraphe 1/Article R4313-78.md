@@ -1,3 +1,5 @@
+# Article R4313-78
+
 Les machines neuves ou considérées comme neuves soumises, soit aux procédures définies à l'article R. 4313-76, soit à celles prévues à l'article R. 4313-77, sont les suivantes :
 
 1° Scies circulaires (monolames et multilames) pour le travail du bois et des matériaux ayant des caractéristiques physiques similaires ou pour le travail de la viande et des matériaux ayant des caractéristiques physiques similaires, des types suivants :

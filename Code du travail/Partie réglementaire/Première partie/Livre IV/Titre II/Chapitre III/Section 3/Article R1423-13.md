@@ -1,3 +1,5 @@
+# Article R1423-13
+
 La réunion des conseillers prud'hommes en assemblée générale, en assemblée de section et, le cas échéant, en assemblée de chambre, a lieu chaque année pendant le mois de janvier dans l'ordre suivant :
 
 1° L'assemblée générale du conseil de prud'hommes élit, conformément aux articles L. 1423-3 à L. 1423-6, le président et le vice-président du conseil de prud'hommes. L'élection du président et du vice-président précède l'audience solennelle tenue au conseil de prud'hommes en application de l'article R. 111-2 du code de l'organisation judiciaire ;

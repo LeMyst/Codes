@@ -1,3 +1,5 @@
+# Article R1263-1
+
 I.-L'employeur établi hors de France conserve sur le lieu de travail du salarié détaché sur le territoire national ou, en cas d'impossibilité matérielle, dans tout autre lieu accessible à son représentant désigné en application de l'article L. 1262-2-1 et présente sans délai, à la demande de l'inspection du travail du lieu où est accomplie la prestation, les documents mentionnés au présent article.
 
 II.-Les documents requis aux fins de vérifier les informations relatives aux salariés détachés sont les suivants :

@@ -1,3 +1,5 @@
+# Article R6241-28-2
+
 Les montants des reversements mentionnés au premier alinéa du II de l'article L. 6131-4 du présent code sont déterminés chaque année, jusqu'à une date fixée par arrêté des ministres chargés de l'éducation nationale, de la formation professionnelle et de l'enseignement supérieur, à partir des montants des contributions dues ou, le cas échéant, des contributions recouvrées conformément au I de l'article L. 6131-3 du présent code.
 
 La Caisse des dépôts et consignations applique sur le montant de ces reversements les frais de gestion mentionnés au troisième alinéa du II de l'article L. 6131-4 du présent code.

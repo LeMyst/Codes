@@ -1,3 +1,5 @@
+# Article R2272-1
+
 I. - La Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle comprend :
 
 1° Le ministre chargé du travail ou son représentant, président ;

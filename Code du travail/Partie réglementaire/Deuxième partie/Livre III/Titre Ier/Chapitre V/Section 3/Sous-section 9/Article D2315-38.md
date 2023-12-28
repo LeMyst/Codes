@@ -1,3 +1,5 @@
+# Article D2315-38
+
 I.-Pour les comités sociaux et économiques relevant de l'article L. 2315-64, le rapport mentionné à l'article L. 2315-69 permettant d'éclairer l'analyse des comptes comporte les informations relatives à :
 
 1° L'organisation du comité : nombre de sièges légal ou conventionnel, nombre d'élus, et, le cas échéant, effectif de salariés du comité, nombre et nature des commissions du comité, organigramme des services du comité ;

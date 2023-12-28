@@ -1,3 +1,5 @@
+# Article L1226-24
+
 Le commis commercial qui, par suite d'un accident dont il n'est pas fautif, est dans l'impossibilité d'exécuter son contrat de travail a droit à son salaire pour une durée maximale de six semaines.
 
 Pendant cette durée, les indemnités versées par une société d'assurance ou une mutuelle ne sont pas déduites du montant de la rémunération due par l'employeur. Toute stipulation contraire est nulle.

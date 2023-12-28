@@ -1,3 +1,5 @@
+# Article L6113-4
+
 Les certificats de qualification professionnelle sont établis par une ou plusieurs commissions paritaires nationales de l'emploi de branche professionnelle.
 
 Ces commissions déterminent à l'occasion de la création de cette certification professionnelle la personne morale détentrice des droits de sa propriété intellectuelle. Elles peuvent, dans les mêmes formes et à tout moment, désigner une nouvelle personne morale qui se substitue à la précédente détentrice des droits de propriété de ce certificat.

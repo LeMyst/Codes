@@ -1,3 +1,5 @@
+# Article D6332-18
+
 I.-Les frais de gestion, d'information et de missions mentionnés à l'article R. 6332-17 ne peuvent excéder un plafond déterminé dans la convention d'objectifs et de moyens mentionnée à l'article L. 6332-2.
 
 Ces frais sont définis en fonction des demandes présentées par l'opérateur de compétences et des objectifs fixés avec le ministre chargé de la formation professionnelle.

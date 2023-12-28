@@ -1,3 +1,5 @@
+# Article L2421-1
+
 La demande d'autorisation de licenciement d'un délégué syndical, d'un salarié mandaté ou d'un conseiller du salarié ou d'un membre de la délégation du personnel au comité social et économique interentreprises est adressée à l'inspecteur du travail.
 
 En cas de faute grave, l'employeur peut prononcer la mise à pied immédiate de l'intéressé dans l'attente de la décision définitive.

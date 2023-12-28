@@ -1,3 +1,5 @@
+# Article R4216-2-3
+
 Un niveau d'un lieu de travail est exempté de l'obligation d'être doté d'espaces d'attente sécurisés ou d'espaces équivalents quand il remplit l'une des conditions suivantes :
 
 1° Il est situé en rez-de-chaussée et comporte un nombre suffisant de dégagements, prévus à l'article R. 4216-8, accessibles aux personnes handicapées ;

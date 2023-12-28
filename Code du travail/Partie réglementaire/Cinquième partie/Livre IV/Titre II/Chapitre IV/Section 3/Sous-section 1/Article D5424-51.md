@@ -1,3 +1,5 @@
+# Article D5424-51
+
 I. – L'allocation de professionnalisation et de solidarité est attribuée selon les règles définies par les annexes au règlement général annexé à la convention relative à l'indemnisation du chômage et applicables aux artistes du spectacle et aux ouvriers et techniciens de l'édition d'enregistrement sonore, de la production cinématographique et audiovisuelle, de la radio, de la diffusion et du spectacle mentionnées à l'article L. 5424-21, dans les conditions définies au présent article et aux articles D. 5424-51-1 et D. 5424-52.
 
 II. – Bénéficie de l'allocation de professionnalisation et de solidarité le travailleur involontairement privé d'emploi qui :

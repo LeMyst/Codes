@@ -1,3 +1,5 @@
+# Article R6113-24
+
 Le secrétariat de chaque commission est assuré par les services du ou des ministères auprès desquels elle est instituée.
 
 Le secrétariat établit le règlement intérieur de la commission, qui fixe les conditions de son fonctionnement et précise les règles de procédure applicables devant elle.

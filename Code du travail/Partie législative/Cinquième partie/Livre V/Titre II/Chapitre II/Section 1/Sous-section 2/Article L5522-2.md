@@ -1,3 +1,5 @@
+# Article L5522-2
+
 Pour son application en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, l'article L. 5134-19-1 est ainsi rédigé :
 
 " Art. L. 5134-19-1.-Le contrat unique d'insertion est un contrat de travail conclu entre un employeur et un salarié dans les conditions prévues à la sous-section 3 des sections 2 et 5 du présent chapitre et au paragraphe 3 de la sous-section 4 de la section 1 du chapitre II du titre II du livre V, au titre duquel est attribuée une aide à l'insertion professionnelle dans les conditions prévues à la sous-section 2 des sections 2 et 5 du présent chapitre et au paragraphe 2 de la sous-section 4 de la section 1 du chapitre II du titre II du livre V. La décision d'attribution de cette aide est prise par :

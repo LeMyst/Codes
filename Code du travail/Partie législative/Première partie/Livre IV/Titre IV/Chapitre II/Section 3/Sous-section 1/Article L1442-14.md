@@ -1,3 +1,5 @@
+# Article L1442-14
+
 Les sanctions disciplinaires applicables aux conseillers prud'hommes sont :
 
 1° Le blâme ;

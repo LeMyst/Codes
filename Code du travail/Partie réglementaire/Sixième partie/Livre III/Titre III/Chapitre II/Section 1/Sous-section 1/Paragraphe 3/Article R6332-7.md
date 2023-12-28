@@ -1,3 +1,5 @@
+# Article R6332-7
+
 Lorsqu'il constate qu'un opérateur de compétences ne satisfait plus les conditions d'agrément prévues à l'article R. 6332-4, le ministre chargé de la formation professionnelle lui adresse une mise en demeure motivée, par tout moyen donnant date certaine à la réception de cette mise en demeure.
 
 L'opérateur de compétences dispose d'un délai de deux mois pour présenter ses observations écrites ou orales.

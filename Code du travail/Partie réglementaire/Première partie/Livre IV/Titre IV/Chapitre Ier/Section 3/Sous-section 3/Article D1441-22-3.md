@@ -1,3 +1,5 @@
+# Article D1441-22-3
+
 Les catégories de données à caractère personnel relatives au mandataire départemental de l'organisation syndicale ou professionnelle pouvant être enregistrées dans le traitement automatisé sont les suivantes :
 
 1° Ses noms, prénoms et civilité ;

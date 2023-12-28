@@ -1,3 +1,5 @@
+# Article L4622-15
+
 Toute convention intervenant directement ou par personne interposée entre le service de prévention et de santé au travail et son président, son directeur ou l'un de ses administrateurs doit être soumise à l'autorisation préalable du conseil d'administration.
 
 Il en est de même des conventions auxquelles une des personnes visées au premier alinéa est indirectement intéressée.

@@ -1,3 +1,5 @@
+# Article L3253-15
+
 Les institutions de garantie mentionnées à l'article L. 3253-14 avancent les sommes comprises dans le relevé établi par le mandataire judiciaire, même en cas de contestation par un tiers.
 
 Elles avancent également les sommes correspondant à des créances établies par décision de justice exécutoire, même si les délais de garantie sont expirés.

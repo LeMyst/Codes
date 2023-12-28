@@ -1,3 +1,5 @@
+# Article R6332-15
+
 I.-L'opérateur de compétences gère les contributions mentionnées aux 2°, 3° et 4° de l'article L. 6131-1 au sein des sections consacrées au financement respectivement :
 
 1° Des actions en alternance ;

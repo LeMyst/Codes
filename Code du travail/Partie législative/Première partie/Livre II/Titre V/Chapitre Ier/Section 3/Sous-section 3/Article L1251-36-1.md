@@ -1,3 +1,5 @@
+# Article L1251-36-1
+
 A défaut de stipulation dans la convention ou l'accord de branche conclu en application de l'article L. 1251-36, ce délai de carence est égal :
 
 1° Au tiers de la durée du contrat de mission venu à expiration si la durée du contrat incluant, le cas échéant, son ou ses renouvellements, est de quatorze jours ou plus ;

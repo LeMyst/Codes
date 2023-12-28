@@ -1,3 +1,5 @@
+# Article R4623-17
+
 Dans les services autonomes de prévention et de santé au travail, les délégués des médecins du travail sont élus à raison d'un titulaire et d'un suppléant pour huit médecins, dans la limite de quatre titulaires et quatre suppléants.
 
 Dans les services interentreprises, ils sont élus à raison d'un titulaire et d'un suppléant par secteur, dans la limite de quatre titulaires et quatre suppléants.

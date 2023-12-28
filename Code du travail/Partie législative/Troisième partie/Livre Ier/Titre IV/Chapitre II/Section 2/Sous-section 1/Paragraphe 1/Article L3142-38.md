@@ -1,3 +1,5 @@
+# Article L3142-38
+
 Un décret en Conseil d'Etat détermine les modalités d'application de la présente sous-section, notamment :
 
 1° Les conditions dans lesquelles l'employeur peut différer le congé en raison des nécessités propres de l'entreprise ou de son exploitation ;

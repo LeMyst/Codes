@@ -1,3 +1,5 @@
+# Article L2261-32
+
 I.-Le ministre chargé du travail peut, eu égard à l'intérêt général attaché à la restructuration des branches professionnelles, engager une procédure de fusion du champ d'application des conventions collectives d'une branche avec celui d'une branche de rattachement présentant des conditions sociales et économiques analogues :
 
 1° Lorsque la branche compte moins de 5 000 salariés ;

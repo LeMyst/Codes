@@ -1,3 +1,5 @@
+# Article R7123-14
+
 I. ― La licence d'agence de mannequins est refusée ou retirée par le préfet mentionné à l'article R. * 7123-9 :
 
 1° Lorsque l'auteur de la demande de licence ou les dirigeants de l'agence n'offrent pas ou n'offrent plus les garanties de moralité nécessaires. A tout moment, l'autorité administrative peut demander la délivrance du bulletin n° 2 du casier judiciaire ou de tout document d'effet équivalent ;

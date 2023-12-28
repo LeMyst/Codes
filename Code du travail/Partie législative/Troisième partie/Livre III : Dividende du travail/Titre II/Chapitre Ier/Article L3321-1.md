@@ -1,3 +1,5 @@
+# Article L3321-1
+
 Les dispositions du présent titre sont applicables aux employeurs de droit privé et à leurs salariés.
 
 Un décret en Conseil d'Etat détermine les établissements publics de l'Etat à caractère industriel et commercial et les sociétés, groupements ou personnes morales, quel que soit leur statut juridique, dont plus de la moitié du capital est détenue directement par l'Etat, qui sont soumis aux dispositions du présent titre. Ce décret fixe les conditions dans lesquelles ces dispositions leur sont applicables.

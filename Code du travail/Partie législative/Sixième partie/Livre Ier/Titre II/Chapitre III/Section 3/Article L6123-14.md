@@ -1,3 +1,5 @@
+# Article L6123-14
+
 Un décret en Conseil d'Etat détermine les conditions d'application de la présente section, notamment :
 
 1° La nature des disponibilités et des charges mentionnées au 6° de l'article L. 6332-6 ;

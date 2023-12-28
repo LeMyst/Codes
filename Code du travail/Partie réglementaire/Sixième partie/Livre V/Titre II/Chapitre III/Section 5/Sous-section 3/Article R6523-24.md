@@ -1,3 +1,5 @@
+# Article R6523-24
+
 Les dispositions de la sous-section 1 de la présente section, à l'exception de celles du II de l'article R. 6523-16, du a de l'article R. 6523-17, de l'article R. 6523-18 en ce qu'il ajoute un 3° et un 4° au III de l'article R. 6123-3, de l'article R. 6523-19 et de l'article R. 6523-21, sont applicables à Saint-Pierre-et-Miquelon sous réserve des adaptations suivantes :
 
 1° Les attributions du comité régional de l'emploi, de la formation et de l'orientation professionnelles, sont exercées par le comité de l'emploi, de la formation et de l'orientation professionnelles ;

@@ -1,3 +1,5 @@
+# Article D1442-10-1
+
 Sont soumis à l'obligation de formation initiale prévue à l'article L. 1442-1 les conseillers prud'hommes nouvellement désignés n'ayant jamais exercé de mandat prud'homal ou n'ayant pas accompli cette obligation à laquelle ils étaient assujettis au cours d'un précédent mandat.
 
 Le conseiller prud'homme qui n'a pas suivi la formation initiale dans un délai de quinze mois à compter du premier jour du deuxième mois suivant sa nomination est réputé démissionnaire.

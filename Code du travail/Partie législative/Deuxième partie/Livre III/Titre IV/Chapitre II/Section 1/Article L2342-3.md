@@ -1,3 +1,5 @@
+# Article L2342-3
+
 L'employeur engage la procédure de constitution du groupe spécial de négociation lorsque les effectifs mentionnés à l'article L. 2341-1 sont atteints en moyenne sur l'ensemble des deux années précédentes.
 
 Le calcul des effectifs s'effectue conformément aux dispositions de l'article L. 1111-2 pour les entreprises ou établissements situés en France et conformément au droit national dans les autres Etats.

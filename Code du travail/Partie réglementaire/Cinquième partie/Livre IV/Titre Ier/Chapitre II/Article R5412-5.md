@@ -1,3 +1,5 @@
+# Article R5412-5
+
 La radiation de la liste des demandeurs d'emploi entraîne l'impossibilité d'obtenir une nouvelle inscription :
 
 1° Pendant une période d'un mois lorsqu'est constaté pour la première fois le manquement mentionné au c du 3° de l'article L. 5412-1. En cas de deuxième manquement, cette période est portée à une durée de deux mois consécutifs. A partir du troisième manquement, cette période est portée à une durée de quatre mois consécutifs ;

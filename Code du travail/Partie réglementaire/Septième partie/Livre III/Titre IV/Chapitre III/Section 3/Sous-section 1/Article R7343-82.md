@@ -1,3 +1,5 @@
+# Article R7343-82
+
 Sont joints à la déclaration de candidature d'une organisation professionnelle de plateformes souhaitant voir établie sa représentativité au niveau du secteur considéré en application de l'article L. 7343-23 :
 
 1° Une copie des statuts de l'organisation ainsi que du récépissé de dépôt de ceux-ci ;

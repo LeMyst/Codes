@@ -1,3 +1,5 @@
+# Article R6523-26-6
+
 Pour son application à Mayotte, l'article R. 6523-21 du code du travail est ainsi rédigé :
 
 “ Art. R. 6523-21.-Le comité régional de l'emploi, de la formation et de l'orientation professionnelles constitue en son sein un bureau comprenant :

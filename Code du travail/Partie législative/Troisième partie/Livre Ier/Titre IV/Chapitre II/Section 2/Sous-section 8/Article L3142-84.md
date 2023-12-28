@@ -1,3 +1,5 @@
+# Article L3142-84
+
 A l'expiration de son mandat, le salarié retrouve son précédent emploi, ou un emploi analogue assorti d'une rémunération équivalente, dans les deux mois suivant la date à laquelle il a avisé son employeur de son intention de reprendre cet emploi.
 
 Il bénéficie de tous les avantages acquis par les salariés de sa catégorie durant l'exercice de son mandat.

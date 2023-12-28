@@ -1,3 +1,5 @@
+# Article L8243-1
+
 Le fait de procéder à une opération de prêt illicite de main-d'oeuvre en méconnaissance des dispositions de l'article L. 8241-1, est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros.
 
 Les peines sont portées à cinq ans d'emprisonnement et à 75 000 € d'amende :

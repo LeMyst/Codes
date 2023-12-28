@@ -1,3 +1,5 @@
+# Article R4544-8
+
 Pour la réalisation de travaux sous tension, l'employeur met en œuvre les mesures de prévention qui comprennent, compte tenu de l'évaluation des risques :
 
 1° La définition des modes opératoires appropriés ;

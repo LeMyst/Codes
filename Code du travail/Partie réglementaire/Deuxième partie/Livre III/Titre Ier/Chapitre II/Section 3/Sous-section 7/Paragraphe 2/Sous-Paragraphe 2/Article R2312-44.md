@@ -1,3 +1,5 @@
+# Article R2312-44
+
 Le comité des activités sociales et culturelles interentreprises comprend :
 
 1° Un représentant des employeurs désigné par eux. Assisté d'un ou de deux suppléants, il préside le comité ;

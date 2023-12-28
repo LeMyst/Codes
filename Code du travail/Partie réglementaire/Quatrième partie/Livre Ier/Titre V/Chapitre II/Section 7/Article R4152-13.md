@@ -1,3 +1,5 @@
+# Article R4152-13
+
 Le local dédié à l'allaitement prévu à l'article L. 1225-32 est :\
 1° Séparé de tout local de travail ;\
 2° Aéré et muni de fenêtres ou autres ouvrants à châssis mobiles donnant directement sur l'extérieur ;\

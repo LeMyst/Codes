@@ -1,3 +1,5 @@
+# Article D4622-40
+
 La commission élabore son règlement intérieur, qui précise notamment :
 
 1° Le nombre de réunions annuelles de la commission ;

@@ -1,3 +1,5 @@
+# Article R1422-2
+
 Les décrets d'institution du conseil de prud'hommes prévus à l'article L. 1422-3 fixent le siège et le ressort du conseil ainsi que la date de la désignation des conseillers.
 
 Ils sont pris après consultation ou avis :

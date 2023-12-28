@@ -1,3 +1,5 @@
+# Article R5122-4
+
 Le préfet du département où est implanté l'établissement concerné apprécie les éléments produits par l'employeur à l'appui de sa demande, tels que mentionnés à l'article R. 5122-2, et contrôle la régularité des conditions de placement en activité partielle des salariés.
 
 La décision d'autorisation ou de refus, signée par le préfet, est notifiée à l'employeur dans un délai de quinze jours à compter de la date de réception de la demande d'autorisation.

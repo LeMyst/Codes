@@ -1,3 +1,5 @@
+# Article R3262-1-2
+
 Lorsque les titres-restaurant sont émis sous forme dématérialisée, les dispositions suivantes sont applicables :
 
 1° Les mentions prévues aux 1° et 2° de l'article R. 3262-1-1 figurent de façon très apparente sur le support physique du paiement dématérialisé. Si le paiement est effectué à partir d'un équipement terminal, au sens du 10° de l'article L. 32 du code des postes et des communications électroniques, utilisé par le salarié et comportant une fonctionnalité de paiement électronique, ces mentions sont accessibles directement sur cet équipement ;

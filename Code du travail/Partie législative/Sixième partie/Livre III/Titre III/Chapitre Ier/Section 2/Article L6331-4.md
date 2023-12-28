@@ -1,3 +1,5 @@
+# Article L6331-4
+
 La contribution mentionnée à l'article L. 6331-3 est dédiée au financement :
 
 1° De l'alternance ;

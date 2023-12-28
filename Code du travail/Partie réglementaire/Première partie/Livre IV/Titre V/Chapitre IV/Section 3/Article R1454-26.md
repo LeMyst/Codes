@@ -1,3 +1,5 @@
+# Article R1454-26
+
 Les décisions du conseil de prud'hommes sont notifiées aux parties par le greffe de ce conseil au lieu de leur domicile. La notification est faite par lettre recommandée avec avis de réception sans préjudice du droit des parties de les faire signifier par acte d'huissier de justice.
 
 Les parties sont informées des mesures d'administration judiciaire par tous moyens.

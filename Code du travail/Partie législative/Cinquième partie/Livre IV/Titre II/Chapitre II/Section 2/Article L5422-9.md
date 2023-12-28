@@ -1,3 +1,5 @@
+# Article L5422-9
+
 L'allocation d'assurance et l'allocation des travailleurs indépendants prévue à la section 4 du chapitre IV du présent titre sont financées par :
 
 1° Des contributions des employeurs ;

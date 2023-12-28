@@ -1,3 +1,5 @@
+# Article L5151-6
+
 I.-Chaque titulaire d'un compte personnel d'activité peut consulter les droits inscrits sur celui-ci et peut les utiliser en accédant à un service en ligne gratuit. Ce service en ligne est géré par la Caisse des dépôts et consignations, sans préjudice de l'article L. 4162-11. La Caisse des dépôts et consignations et la Caisse nationale d'assurance vieillesse concluent une convention définissant les modalités d'articulation des différents comptes et de mobilisation par leur titulaire.
 
 II.-Chaque titulaire d'un compte a également accès à une plateforme de services en ligne qui :

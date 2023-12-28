@@ -1,3 +1,5 @@
+# Article L2315-7
+
 L'employeur laisse le temps nécessaire à l'exercice de leurs fonctions :
 
 1° A chacun des membres titulaires constituant la délégation du personnel du comité social et économique ;

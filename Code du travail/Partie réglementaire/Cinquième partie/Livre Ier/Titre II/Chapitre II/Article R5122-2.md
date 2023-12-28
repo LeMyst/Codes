@@ -1,3 +1,5 @@
+# Article R5122-2
+
 L'employeur adresse au préfet du département où est implanté l'établissement concerné une demande préalable d'autorisation d'activité partielle.
 
 La demande précise :

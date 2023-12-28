@@ -1,3 +1,5 @@
+# Article R2262-1
+
 A défaut d'autres modalités prévues par une convention ou un accord conclu en application de l'article L. 2262-5, l'employeur :
 
 1° Informe le salarié des conventions et accords collectifs applicables dans l'entreprise ou l'établissement dans les conditions prévues par les articles R. 1221-34 et R. 1221-35 ;

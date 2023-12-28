@@ -1,3 +1,5 @@
+# Article L1226-2-1
+
 Lorsqu'il est impossible à l'employeur de proposer un autre emploi au salarié, il lui fait connaître par écrit les motifs qui s'opposent à son reclassement.
 
 L'employeur ne peut rompre le contrat de travail que s'il justifie soit de son impossibilité de proposer un emploi dans les conditions prévues à l'article L. 1226-2, soit du refus par le salarié de l'emploi proposé dans ces conditions, soit de la mention expresse dans l'avis du médecin du travail que tout maintien du salarié dans un emploi serait gravement préjudiciable à sa santé ou que l'état de santé du salarié fait obstacle à tout reclassement dans un emploi.

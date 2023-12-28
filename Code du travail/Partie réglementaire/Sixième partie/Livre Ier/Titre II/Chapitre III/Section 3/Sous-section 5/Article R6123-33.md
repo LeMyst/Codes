@@ -1,3 +1,5 @@
+# Article R6123-33
+
 Pour l'accomplissement de la mission de péréquation, France compétences attribue aux opérateurs de compétences la dotation complémentaire mentionnée à l'article R. 6123-31 en fonction de prévisions d'activité démontrant une insuffisance de couverture.
 
 Les prévisions d'activité détaillent les besoins d'engagements nouveaux et anciens.

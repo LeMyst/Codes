@@ -1,3 +1,5 @@
+# Article R4412-120
+
 L'employeur établit, pour chaque travailleur exposé, une fiche d'exposition à l'amiante indiquant :
 
 1° La nature du travail réalisé, les caractéristiques des matériaux et appareils en cause, les périodes de travail au cours desquelles il a été exposé et les autres risques ou nuisances d'origine chimique, physique ou biologique du poste de travail ;

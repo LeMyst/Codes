@@ -1,3 +1,5 @@
+# Article R2135-14
+
 Le conseil d'administration délibère dans les conditions prévues par l'article R. 2135-15 en vue notamment :
 
 1° D'adopter le règlement intérieur de l'association paritaire de gestion ou toutes ses modifications ultérieures ;

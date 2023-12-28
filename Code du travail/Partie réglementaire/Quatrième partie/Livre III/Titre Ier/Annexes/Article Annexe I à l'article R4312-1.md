@@ -1,3 +1,5 @@
+# Article Annexe I à l'article R4312-1
+
 Règles techniques en matière de santé et de sécurité applicables aux machines neuves ou considérées comme neuves mentionnées à l'article R. 4312-1 du code du travail
 
 Principes généraux.

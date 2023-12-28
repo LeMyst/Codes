@@ -1,3 +1,5 @@
+# Article L4532-1
+
 Lorsque la durée ou le volume prévus des travaux d'une opération de bâtiment ou de génie civil excède certains seuils, le maître d'ouvrage adresse avant le début des travaux une déclaration préalable :
 
 1° A l'autorité administrative ;

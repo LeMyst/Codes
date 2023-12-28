@@ -1,3 +1,5 @@
+# Article D3142-57
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-73, le bénéfice du congé de solidarité internationale peut être refusé par l'employeur s'il établit que le nombre de salariés, par établissement, bénéficiant déjà du congé à la date de départ envisagée par le salarié demandeur atteint la proportion suivante :
 
 1° Moins de 50 salariés : un bénéficiaire ;

@@ -1,3 +1,5 @@
+# Article L2261-31
+
 Les dispositions de la présente sous-section ne sont pas applicables :
 
 1° Aux accords relatifs à l'assurance chômage prévus à l'article L. 5422-20 ;

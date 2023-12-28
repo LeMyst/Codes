@@ -1,3 +1,5 @@
+# Article R5221-48
+
 Pour être inscrit sur la liste des demandeurs d'emploi, le travailleur étranger doit être titulaire de l'un des documents et titres de séjour suivants :
 
 1° La carte de résident délivrée en application du 5° de l'article L. 411-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ou la carte de résident portant la mention “ carte de résident de longue durée-UE ” délivrée en application du 6° de l'article L. 411-1 de ce code ;

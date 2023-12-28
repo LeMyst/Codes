@@ -1,3 +1,5 @@
+# Article R6251-1
+
 Pour l'application du dernier alinéa de l'article L. 6211-2, chaque ministre certificateur instaure une mission, placée sous son autorité, chargée du contrôle pédagogique des formations par apprentissage conduisant à l'obtention des diplômes relevant de sa compétence.
 
 Ces missions sont composées :

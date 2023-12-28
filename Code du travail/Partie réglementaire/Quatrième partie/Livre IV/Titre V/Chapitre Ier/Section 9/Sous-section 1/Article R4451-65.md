@@ -1,3 +1,5 @@
+# Article R4451-65
+
 I.-La surveillance dosimétrique individuelle liée à l'exposition externe ou l'exposition au radon est réalisée au moyen de dosimètres à lecture différée adaptés.
 
 Lorsque l'exposition externe est due au rayonnement cosmique, cette surveillance peut être réalisée au moyen d'une modélisation numérique.

@@ -1,3 +1,5 @@
+# Article R1253-14
+
 Un groupement d'employeurs peut être constitué pour mettre des remplaçants à la disposition :
 
 1° De chefs d'exploitations ou d'entreprises mentionnées aux 1° à 4° de l'article L. 722-1 du code rural et de la pêche maritime ;

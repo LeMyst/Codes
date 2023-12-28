@@ -1,3 +1,5 @@
+# Article R4412-160
+
 Un suivi individuel renforcé des travailleurs est assuré dans les conditions prévues aux articles R. 4624-22 à R. 4624-28 :
 
 1° Soit si l'exposition à une concentration de plomb dans l'air est supérieure à 0,05 mg/ m ³, calculée comme une moyenne pondérée en fonction du temps sur une base de huit heures ;

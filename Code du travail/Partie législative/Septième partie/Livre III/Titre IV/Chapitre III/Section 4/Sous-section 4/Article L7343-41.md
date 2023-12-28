@@ -1,3 +1,5 @@
+# Article L7343-41
+
 I.-L'accord collectif de secteur à durée indéterminée peut être dénoncé par les parties signataires.
 
 En l'absence de stipulation expresse, la durée du préavis qui doit précéder la dénonciation est de trois mois.

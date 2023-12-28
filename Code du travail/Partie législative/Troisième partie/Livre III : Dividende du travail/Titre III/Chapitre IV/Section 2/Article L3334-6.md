@@ -1,3 +1,5 @@
+# Article L3334-6
+
 Le plan d'épargne pour la retraite collectif peut recevoir, à l'initiative des participants, les versements des sommes issues de l'intéressement, de la participation, de la prime de partage de la valeur prévue à l'article 1er de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat, de la prime de partage de la valorisation de l'entreprise prévue à l'article 10 de la loi n° 2023-1107 du 29 novembre 2023 portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entrepriseainsi que d'autres versements volontaires et des contributions des entreprises prévues aux articles L. 3332-11 à L. 3332-13 et L. 3334-10.
 
 En outre, si le règlement du plan le prévoit, les entreprises peuvent, même en l'absence de contribution du salarié :

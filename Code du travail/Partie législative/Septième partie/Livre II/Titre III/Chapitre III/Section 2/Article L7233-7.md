@@ -1,3 +1,5 @@
+# Article L7233-7
+
 L'aide financière est exonérée d'impôt sur le revenu pour les bénéficiaires.
 
 Elle n'est pas prise en compte dans le montant des dépenses à retenir pour l'assiette du crédit d'impôt mentionné à l'article 199 sexdecies du code général des impôts.

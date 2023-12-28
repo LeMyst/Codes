@@ -1,3 +1,5 @@
+# Article R1233-15
+
 Est un établissement au sens de l'article L. 1233-57-9 une entité économique assujettie à l'obligation de constituer un comité social et économique d'établissement .
 
 Constitue une fermeture au sens de l'article L. 1233-57-9 la cessation complète d'activité d'un établissement lorsqu'elle a pour conséquence la mise en œuvre d'un plan de sauvegarde de l'emploi emportant un projet de licenciement collectif au niveau de l'établissement ou de l'entreprise.

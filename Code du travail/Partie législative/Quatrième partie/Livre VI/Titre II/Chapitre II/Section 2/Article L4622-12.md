@@ -1,3 +1,5 @@
+# Article L4622-12
+
 L'organisation et la gestion du service de prévention et de santé au travail sont placées sous la surveillance :
 
 1° Soit d'un comité social et économique interentreprises constitué par les comités sociaux et économiques intéressés ;

@@ -1,3 +1,5 @@
+# Article R4534-16
+
 Les examens du matériel, des engins, des installations ou des dispositifs de protection sont renouvelés aussi souvent que nécessaire, notamment :
 
 1° Après chaque démontage ou modification, ou lorsque l'une de leurs parties a été remplacée ;

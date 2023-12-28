@@ -1,3 +1,5 @@
+# Article L1237-12
+
 Les parties au contrat conviennent du principe d'une rupture conventionnelle lors d'un ou plusieurs entretiens au cours desquels le salarié peut se faire assister :
 
 1° Soit par une personne de son choix appartenant au personnel de l'entreprise, qu'il s'agisse d'un salarié titulaire d'un mandat syndical ou d'un salarié membre d'une institution représentative du personnel ou tout autre salarié ;

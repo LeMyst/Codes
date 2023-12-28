@@ -1,3 +1,5 @@
+# Article R6121-5
+
 Après le dépôt des propositions des candidats, la région peut solliciter de leur part des éléments autres que ceux mentionnés à l'article R. 6121-4, en fonction des critères de sélection retenus. Elle peut également demander à un candidat de compléter son dossier et en informe alors les autres candidats.
 
 Elle peut autoriser les candidats à proposer des variantes au dossier d'habilitation mentionné à l'article R. 6121-3, sous réserve du respect des exigences minimales qu'elle définit.

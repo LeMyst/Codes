@@ -1,3 +1,5 @@
+# Article L2145-12
+
 Les conventions ou accords collectifs de travail peuvent :
 
 1° Contenir des dispositions plus favorables que celles prévues par la présente sous-section, notamment en matière de rémunération ;

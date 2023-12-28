@@ -1,3 +1,5 @@
+# Article R5315-4
+
 Le président du conseil d'administration :
 
 1° Préside les débats du conseil d'administration. Il a voix prépondérante en cas de partage égal des voix ;

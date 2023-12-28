@@ -1,3 +1,5 @@
+# Article L2351-1
+
 Les dispositions du présent titre s'appliquent :
 
 1° Aux sociétés européennes ayant leur siège en France constituées conformément au règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE) ;

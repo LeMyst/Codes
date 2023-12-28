@@ -1,3 +1,5 @@
+# Article R7343-24
+
 Toute déclaration de candidature d'une organisation est accompagnée des pièces suivantes :
 
 1° Une déclaration sur l'honneur du mandataire de cette organisation attestant que sa candidature satisfait aux exigences prévues à l'article L. 7343-6 et précisant le ou les secteurs d'activité dans lesquels cette organisation se porte candidate ;

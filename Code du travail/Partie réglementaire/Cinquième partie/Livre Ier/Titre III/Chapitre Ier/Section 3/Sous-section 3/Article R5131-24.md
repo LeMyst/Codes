@@ -1,3 +1,5 @@
+# Article R5131-24
+
 I.-L'allocation mentionnée à l'article L. 5131-6 n'est pas cumulable avec le revenu de solidarité active mentionné à l'article L. 262-1 du code de l'action sociale et des familles, sauf pour les personnes à charge mentionnées à l'article R. 262-3 du même code. Les bénéficiaires du revenu de solidarité active et leur conjoint, concubin ou partenaire lié par un pacte civil de solidarité qui ont conclu un contrat d'engagement jeune dans le cadre fixé à l'article R. 5131-6 ne bénéficient pas de l'allocation prévue à l'article L. 5131-6.
 
 II.-L'allocation mentionnée à l'article L. 5131-6 n'est pas cumulable avec la prime d'activité mentionnée à l'article L. 841-1 du code de la sécurité sociale, sauf pour les personnes à charge mentionnées à l'article R. 842-3 du même code. Toutefois, lorsqu'un droit à la prime d'activité est ouvert au titre d'une activité antérieure au premier mois de bénéfice de l'allocation, la prime correspondant à cette période d'activité demeure cumulable avec l'allocation. Le versement de l'allocation prend fin, le cas échéant, à compter de l'ouverture du droit à la prime d'activité.

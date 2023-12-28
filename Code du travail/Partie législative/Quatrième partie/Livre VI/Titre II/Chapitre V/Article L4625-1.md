@@ -1,3 +1,5 @@
+# Article L4625-1
+
 Un décret détermine les règles relatives à l'organisation, au choix et au financement du service de prévention et de santé au travail ainsi qu'aux modalités de surveillance de l'état de santé des travailleurs applicables aux catégories de travailleurs suivantes :
 
 1° Salariés temporaires ;

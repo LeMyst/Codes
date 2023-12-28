@@ -1,3 +1,5 @@
+# Article L2242-1
+
 Dans les entreprises où sont constituées une ou plusieurs sections syndicales d'organisations représentatives, l'employeur engage au moins une fois tous les quatre ans :
 
 1° Une négociation sur la rémunération, notamment les salaires effectifs, le temps de travail et le partage de la valeur ajoutée dans l'entreprise ;

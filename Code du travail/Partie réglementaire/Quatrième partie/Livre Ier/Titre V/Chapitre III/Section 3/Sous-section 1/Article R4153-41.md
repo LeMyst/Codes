@@ -1,3 +1,5 @@
+# Article R4153-41
+
 Préalablement à l'affectation des jeunes aux travaux interdits susceptibles de dérogation mentionnés à la section 2 du présent chapitre, une déclaration de dérogation est adressée par tout moyen conférant date certaine à l'agent de contrôle de l'inspection du travail par l'employeur ou le responsable d'un établissement mentionné à l'article L. 4111-1 ou le chef d'un établissement mentionné aux articles R. 4153-38 et R. 4153-39, chacun en ce qui le concerne.
 
 Elle précise :

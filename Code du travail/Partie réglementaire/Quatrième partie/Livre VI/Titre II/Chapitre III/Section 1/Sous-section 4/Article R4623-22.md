@@ -1,3 +1,5 @@
+# Article R4623-22
+
 La décision de l'inspecteur du travail est motivée. Elle est notifiée par tout moyen permettant de lui conférer une date certaine :
 
 1° A l'employeur ;

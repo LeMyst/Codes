@@ -1,3 +1,5 @@
+# Article L4622-9-3
+
 Chaque service de prévention et de santé au travail interentreprises fait l'objet d'une procédure de certification, réalisée par un organisme indépendant, visant à porter une appréciation à l'aide de référentiels sur :
 
 1° La qualité et l'effectivité des services rendus dans le cadre de l'ensemble socle de services ;

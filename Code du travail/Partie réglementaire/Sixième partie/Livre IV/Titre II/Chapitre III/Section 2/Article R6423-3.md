@@ -1,3 +1,5 @@
+# Article R6423-3
+
 L'accompagnement à la validation des acquis de l'expérience est proposé en fonction des besoins du candidat. Ceux-ci sont déterminés avec le candidat, notamment en fonction des formations complémentaires recommandées, le cas échéant, par le ministère ou l'organisme certificateur au terme de l'examen de la recevabilité de sa demande. Il comprend un module de base composé d'une aide méthodologique à la description des activités et de l'expérience du candidat correspondant aux exigences du référentiel de la certification visée, à la formalisation de son dossier de validation, à la préparation de l'entretien avec le jury et le cas échéant à la mise en situation professionnelle.
 
 L'accompagnement peut également comprendre :

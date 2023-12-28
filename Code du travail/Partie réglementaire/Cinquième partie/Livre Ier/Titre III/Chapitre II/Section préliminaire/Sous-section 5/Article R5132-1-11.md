@@ -1,3 +1,5 @@
+# Article R5132-1-11
+
 Les prescripteurs peuvent conclure des conventions de coopération avec les structures d'insertion par l'activité économique, pour définir leurs engagements respectifs en matière d'accueil, de suivi et d'accompagnement des personnes déclarées éligibles et favoriser leur accès ultérieur au marché du travail.
 
 Ces conventions prévoient :

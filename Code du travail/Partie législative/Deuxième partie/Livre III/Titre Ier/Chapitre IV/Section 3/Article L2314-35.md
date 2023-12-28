@@ -1,3 +1,5 @@
+# Article L2314-35
+
 Lorsque survient une modification dans la situation juridique de l'employeur telle que mentionnée à l'article L. 1224-1, le mandat des membres élus de la délégation du personnel du comité social et économique et des représentants syndicaux de l'entreprise ayant fait l'objet de la modification subsiste lorsque cette entreprise conserve son autonomie juridique.
 
 Si cette entreprise devient un établissement au sens du présent titre ou si la modification mentionnée au premier alinéa porte sur un ou plusieurs établissements distincts qui conservent ce caractère, le mandat des représentants syndicaux subsiste et le mandat des membres élus de la délégation du personnel du comité social et économique se poursuit jusqu'à son terme.

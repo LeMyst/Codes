@@ -1,3 +1,5 @@
+# Article D6243-2
+
 I.-L'aide est attribuée au titre de la première année d'exécution du contrat d'apprentissage.
 
 II.-Son montant est de 6000 euros maximum.

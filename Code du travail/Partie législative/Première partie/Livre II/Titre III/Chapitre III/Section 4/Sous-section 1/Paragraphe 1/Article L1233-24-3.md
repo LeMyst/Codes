@@ -1,3 +1,5 @@
+# Article L1233-24-3
+
 L'accord prévu à l'article L. 1233-24-1 ne peut déroger :
 
 1° A l'obligation d'effort de formation, d'adaptation et de reclassement incombant à l'employeur en application de l'article L. 1233-4 ;

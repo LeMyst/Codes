@@ -1,3 +1,5 @@
+# Article L2313-8
+
 Lorsqu'une unité économique et sociale regroupant au moins onze salariés est reconnue par accord collectif ou par décision de justice entre plusieurs entreprises juridiquement distinctes, un comité social et économique commun est mis en place.
 
 Des comités sociaux et économiques d'établissement et un comité social et économique central d'entreprise sont constitués dans les unités économiques et sociales comportant au moins deux établissements.

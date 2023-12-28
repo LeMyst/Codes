@@ -1,3 +1,5 @@
+# Article R2312-60
+
 Dans les entreprises ou organismes dans lesquels les attributions du comité social et économique sont dévolues à des instances de représentation du personnel prévues par d'autres dispositions que celles du présent code, celles-ci sont substituées au comité social et économique pour l'application des dispositions :
 
 1° Des articles L. 6322-6 et R. 6322-3 à R. 6322-11, relatives au congé individuel de formation ;

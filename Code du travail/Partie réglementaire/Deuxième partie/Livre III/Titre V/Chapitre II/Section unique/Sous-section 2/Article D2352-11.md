@@ -1,3 +1,5 @@
+# Article D2352-11
+
 Lorsqu'aucune des sociétés, filiales et établissements n'a de représentant ou d'élu, les membres du groupe spécial de négociation sont élus directement par les salariés.\
 L'élection a lieu collège par collège. Elle est commune à l'ensemble des sociétés, filiales et établissements.\
 La répartition des sièges entre les différentes catégories et la répartition des salariés dans les collèges électoraux sont accomplies sur la base de leurs effectifs cumulés dans les sociétés, filiales et établissements.\

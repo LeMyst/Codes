@@ -1,3 +1,5 @@
+# Article R7111-18
+
 La commission chargée d'attribuer la carte d'identité des journalistes professionnels est paritaire.\
 Elle comprend :\
 1° Huit représentants des employeurs, dont :\

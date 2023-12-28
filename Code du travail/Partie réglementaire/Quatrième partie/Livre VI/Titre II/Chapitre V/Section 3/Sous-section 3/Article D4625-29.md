@@ -1,3 +1,5 @@
+# Article D4625-29
+
 Le service de prévention et de santé au travail principal est informé, par l'employeur, dans le délai d'un mois après son adhésion au service de prévention et de santé au travail de proximité :
 
 1° Des coordonnées du service de prévention et de santé au travail de proximité ;

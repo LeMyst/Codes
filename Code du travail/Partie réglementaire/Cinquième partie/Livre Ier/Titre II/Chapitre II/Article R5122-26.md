@@ -1,3 +1,5 @@
+# Article R5122-26
+
 La demande d'autorisation mentionnée à l'article R. 5122-2 adressée par voie dématérialisée est établie sur un site accessible en ligne, par l'intermédiaire du réseau internet, offrant les fonctionnalités nécessaires à la dématérialisation des échanges d'information entre l'employeur et le préfet de manière sécurisée et confidentielle.
 
 Les conditions générales d'utilisation de ce site précisent notamment les règles relatives à l'identification de l'auteur de la demande d'autorisation, à l'intégrité, à la lisibilité et à la fiabilité de la transmission, à sa date et à son heure, à l'assurance de sa réception ainsi qu'à sa conservation.

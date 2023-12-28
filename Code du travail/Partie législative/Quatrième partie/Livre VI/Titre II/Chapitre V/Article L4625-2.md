@@ -1,3 +1,5 @@
+# Article L4625-2
+
 Un accord collectif de branche étendu peut prévoir des dérogations aux règles relatives à l'organisation et au choix du service de prévention et de santé au travail ainsi qu'aux modalités de surveillance de l'état de santé des travailleurs dès lors que ces dérogations n'ont pas pour effet de modifier la périodicité des examens médicaux définie par le présent code.
 
 Ces dérogations concernent les catégories de travailleurs suivantes :

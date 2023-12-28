@@ -1,3 +1,5 @@
+# Article D4624-59
+
 Le suivi de l'état de santé prévu à l'article L. 4624-1-1 est applicable au travailleur qui remplit les conditions suivantes :
 
 1° Le travailleur exécute simultanément au moins deux contrats de travail, que ceux-ci soient à durée déterminée ou indéterminée ;

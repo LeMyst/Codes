@@ -1,3 +1,5 @@
+# Article R4216-21
+
 Les bâtiments et locaux sont conçus et réalisés de manière à respecter :
 
 1° Les dispositions relatives à la prévention des explosions prévues aux articles R. 4227-42 et suivants ;

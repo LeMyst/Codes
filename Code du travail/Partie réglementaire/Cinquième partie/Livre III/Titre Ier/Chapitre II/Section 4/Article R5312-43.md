@@ -1,3 +1,5 @@
+# Article R5312-43
+
 Les catégories de destinataires de tout ou partie des données à caractère personnel incluses dans le système d'information sont :
 
 1° A raison de leurs attributions respectives et dans la stricte limite des informations dont ils ont à connaître dans le cadre de l'exercice de leurs missions :

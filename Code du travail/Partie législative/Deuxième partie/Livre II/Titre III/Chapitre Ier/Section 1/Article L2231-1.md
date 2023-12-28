@@ -1,3 +1,5 @@
+# Article L2231-1
+
 La convention ou l'accord est conclu entre :
 
 - d'une part, une ou plusieurs organisations syndicales de salariés représentatives dans le champ d'application de la convention ou de l'accord ;

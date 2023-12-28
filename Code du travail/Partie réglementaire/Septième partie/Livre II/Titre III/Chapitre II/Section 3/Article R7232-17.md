@@ -1,3 +1,5 @@
+# Article R7232-17
+
 La déclaration comprend : 1° La raison sociale de la personne morale ou le nom de l'entrepreneur individuel et leur adresse ;
 
 2° L'adresse du principal établissement de la personne morale ou de l'entrepreneur individuel ainsi que l'adresse de leurs établissements secondaires ;

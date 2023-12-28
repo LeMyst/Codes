@@ -1,3 +1,5 @@
+# Article R7343-39
+
 Un bureau de vote est présidé par un magistrat en activité ou honoraire de l'ordre judiciaire, désigné par le président de la Chambre sociale de la Cour de cassation. Il comprend en outre :
 
 1° Un assesseur ayant la qualité de magistrat de l'ordre administratif, en activité ou honoraire, désigné par le président de la cour administrative d'appel de Paris ;

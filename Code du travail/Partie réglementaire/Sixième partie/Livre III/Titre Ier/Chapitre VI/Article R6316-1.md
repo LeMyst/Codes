@@ -1,3 +1,5 @@
+# Article R6316-1
+
 Les critères mentionnés à l'article L. 6316-1 auxquels doivent satisfaire les prestataires d'actions concourant au développement des compétences mentionnés à l'article L. 6351-1 sont :
 
 1° Les conditions d'information du public sur les prestations proposées, les délais pour y accéder et les résultats obtenus ;

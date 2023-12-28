@@ -1,3 +1,5 @@
+# Article R4542-1
+
 Les dispositions du présent chapitre s'appliquent aux travailleurs qui utilisent de façon habituelle et pendant une partie non négligeable du temps de travail des équipements de travail comportant des écrans de visualisation.\
 Toutefois, elles ne s'appliquent pas aux équipements suivants :\
 1° Les postes de conduite de véhicules ou d'engins ;\

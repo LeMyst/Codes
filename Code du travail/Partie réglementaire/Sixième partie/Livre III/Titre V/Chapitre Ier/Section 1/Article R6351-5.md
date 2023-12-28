@@ -1,3 +1,5 @@
+# Article R6351-5
+
 La déclaration d'activité est accompagnée des pièces justificatives suivantes :
 
 1° Une copie du justificatif d'attribution du numéro SIREN ;

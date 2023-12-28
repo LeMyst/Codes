@@ -1,3 +1,5 @@
+# Article Annexe II
+
 RAYONNEMENTS OPTIQUES LASER
 
 Les grandeurs physiques d'exposition pertinentes d'un point de vue biophysique sont choisies en fonction de la longueur d'onde et de la durée du rayonnement émis par la source. Plus d'une grandeur physique d'exposition, et donc plus d'une limite d'exposition correspondante, peut être pertinente pour une source de rayonnements optiques laser donnée.

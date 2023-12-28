@@ -1,3 +1,5 @@
+# Article L2316-13
+
 Le comité social et économique central est doté de la personnalité civile.
 
 Il est présidé par l'employeur ou son représentant, assisté éventuellement de deux collaborateurs qui ont voix consultative.

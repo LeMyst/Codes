@@ -1,3 +1,5 @@
+# Article L1421-3
+
 I.-Dans un délai de six mois à compter de leur installation, les conseillers prud'hommes remettent une déclaration exhaustive, exacte et sincère de leurs intérêts :
 
 1° Au président ou au vice-président du conseil, pour les conseillers prud'hommes ;

@@ -1,3 +1,5 @@
+# Article D1271-29
+
 L'émetteur adresse à la personne morale ou à l'entrepreneur individuel qui finance en tout ou partie des titres spéciaux de paiement mentionnés au B de l'article L. 1271-1 une information à transmettre au bénéficiaire du titre relative à la déclaration de cotisations sociales et à l'obligation préalable de se déclarer comme employeur avant toute embauche d'un salarié à domicile, le modèle d'attestation fiscale que l'entreprise doit adresser chaque année aux bénéficiaires de celle-ci et le modèle du bordereau leur permettant la tenue d'une comptabilité chèque à chèque.
 
 Il adresse à la personne morale ou à l'entrepreneur individuel le modèle d'attestation de dépenses qu'il doit fournir chaque fin d'année à leurs clients.

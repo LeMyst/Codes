@@ -1,3 +1,5 @@
+# Article D3345-5
+
 Sont dépositaires des accords et des règlements mentionnés à l'article D. 2231-5 les directeurs départementaux de l'emploi, du travail et des solidarités, les directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations et, en Ile-de-France, les directeurs d'unités départementales de la direction régionale et interdépartementale de l'économie de l'emploi du travail et des solidarités.
 
 L'autorité administrative mentionnée au premier alinéa délivre un récépissé attestant du dépôt de l'accord ou du règlement et des autres documents mentionnés au présent chapitre.

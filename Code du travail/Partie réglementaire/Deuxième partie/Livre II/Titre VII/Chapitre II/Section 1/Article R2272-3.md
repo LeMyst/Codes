@@ -1,3 +1,5 @@
+# Article R2272-3
+
 Les représentants titulaires des employeurs sont nommés par le ministre chargé du travail comme suit :
 
 1° Deux sur proposition du Mouvement des entreprises de France (MEDEF) ;

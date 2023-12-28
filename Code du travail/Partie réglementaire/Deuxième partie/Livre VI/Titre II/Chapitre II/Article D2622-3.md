@@ -1,3 +1,5 @@
+# Article D2622-3
+
 Pour l'application de l'article L. 23-112-1 à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, il est attribué le nombre de sièges suivant :
 
 1° Pour la commission paritaire régionale interprofessionnelle de Saint-Barthélemy : cinq sièges pour les organisations syndicales de salariés et cinq sièges pour les organisations professionnelles d'employeurs ;

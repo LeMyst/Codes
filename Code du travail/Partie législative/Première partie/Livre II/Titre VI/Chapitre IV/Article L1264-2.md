@@ -1,3 +1,5 @@
+# Article L1264-2
+
 I.-Le maître d'ouvrage, le donneur d'ordre ou l'entreprise utilisatrice est passible d'une amende administrative, dans les conditions prévues à l'article L. 1264-3 :
 
 1° En cas de méconnaissance d'une des obligations mentionnées au I de l'article L. 1262-4-1, lorsque son cocontractant n'a pas rempli au moins l'une des obligations lui incombant en application de l'article L. 1262-2-1 ;

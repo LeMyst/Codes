@@ -1,3 +1,5 @@
+# Article R5312-5-1
+
 La demande de rescrit, émanant d'un employeur concernant un de ses mandataires sociaux ou d'une personne titulaire d'un mandat social, prévue à l'article L. 5312-12-2 comporte une présentation précise et complète de la situation de fait de nature à permettre à Pôle emploi d'apprécier si les conditions requises sont satisfaites pour la détermination de l'assujettissement à l'assurance chômage.
 
 La demande, accompagnée de toutes les informations et pièces nécessaires, est présentée à Pôle emploi par tout moyen conférant date certaine à sa réception.

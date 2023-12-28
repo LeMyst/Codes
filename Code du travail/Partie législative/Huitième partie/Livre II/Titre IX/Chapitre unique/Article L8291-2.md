@@ -1,3 +1,5 @@
+# Article L8291-2
+
 En cas de manquement à l'obligation de déclaration mentionnée à l'article L. 8291-1, l'employeur ou, le cas échéant, l'entreprise utilisatrice est passible d'une amende administrative.
 
 Le manquement est passible d'une amende administrative, qui est prononcée par l'autorité administrative compétente sur le rapport motivé d'un agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 ou d'un agent mentionné au 3° de l'article L. 8271-1-2.

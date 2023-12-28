@@ -1,3 +1,5 @@
+# Article R1221-39
+
 L'employeur adresse les informations mentionnées aux articles R. 1221-34 et R. 1221-36 sous format papier, par tout moyen conférant date certaine.
 
 Il peut également les adresser sous format électronique, sous réserve que :

@@ -1,3 +1,5 @@
+# Article L3142-15
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-14, les dispositions suivantes sont applicables :
 
 1° La durée maximale du congé est de trois mois, renouvelable une fois ;

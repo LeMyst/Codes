@@ -1,3 +1,5 @@
+# Article L4622-2
+
 Les services de prévention et de santé au travail ont pour mission principale d'éviter toute altération de la santé des travailleurs du fait de leur travail. Ils contribuent à la réalisation d'objectifs de santé publique afin de préserver, au cours de la vie professionnelle, un état de santé du travailleur compatible avec son maintien en emploi. A cette fin, ils :
 
 1° Conduisent les actions de santé au travail, dans le but de préserver la santé physique et mentale des travailleurs tout au long de leur parcours professionnel ;

@@ -1,3 +1,5 @@
+# Article R5132-12
+
 La convention conclue avec une association intermédiaire comporte notamment :
 
 1° Une présentation du projet d'insertion de la structure précisant :

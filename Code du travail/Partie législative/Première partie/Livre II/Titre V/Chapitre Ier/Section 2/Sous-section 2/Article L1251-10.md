@@ -1,3 +1,5 @@
+# Article L1251-10
+
 Outre les cas prévus à l'article L. 1251-9, il est interdit de recourir au travail temporaire :
 
 1° Pour remplacer un salarié dont le contrat de travail est suspendu à la suite d'un conflit collectif de travail ;

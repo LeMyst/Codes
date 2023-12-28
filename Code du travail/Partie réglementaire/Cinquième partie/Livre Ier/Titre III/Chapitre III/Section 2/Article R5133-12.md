@@ -1,3 +1,5 @@
+# Article R5133-12
+
 L'aide personnalisée de retour à l'emploi est versée :
 
 1° Soit au bénéficiaire, pour couvrir tout ou partie de dépenses exposées par lui-même ;

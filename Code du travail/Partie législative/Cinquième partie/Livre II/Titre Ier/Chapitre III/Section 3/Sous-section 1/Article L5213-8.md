@@ -1,3 +1,5 @@
+# Article L5213-8
+
 Les travailleurs handicapés embauchés en application des dispositions du chapitre II ne peuvent, en cas de rechute de l'affection invalidante, bénéficier des avantages spéciaux accordés en cas de maladie par un statut particulier ou une convention ou accord collectif de travail.
 
 Toutefois, ces statuts ou conventions collectives peuvent prévoir des dérogations aux dispositions mentionnées au premier alinéa.

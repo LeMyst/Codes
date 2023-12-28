@@ -1,3 +1,5 @@
+# Article D6323-9
+
 I.-Pour bénéficier d'un projet de transition professionnelle, le salarié doit justifier :
 
 1° Soit d'une ancienneté d'au moins vingt-quatre mois, consécutifs ou non, en qualité de salarié, dont douze mois dans l'entreprise, quelle qu'ait été la nature des contrats de travail successifs ;

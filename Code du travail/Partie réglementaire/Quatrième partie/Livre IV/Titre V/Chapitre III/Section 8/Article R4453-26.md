@@ -1,3 +1,5 @@
+# Article R4453-26
+
 Pour chaque travailleur concerné, l'employeur identifie et transmet au médecin du travail et aux professionnels de santé mentionnés au premier alinéa de l'article L. 4624-1 les informations suivantes, qu'il réactualise en tant que de besoin :
 
 1° La nature du travail ;

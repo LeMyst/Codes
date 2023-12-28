@@ -1,3 +1,5 @@
+# Article L3332-15
+
 Les sommes recueillies par un plan d'épargne d'entreprise peuvent être affectées à l'acquisition :
 
 1° De titres émis par des sociétés d'investissement à capital variable régies par les articles L. 214-7 à L. 214-7-4 et L. 214-24-29 à L. 214-24-33 du code monétaire et financier ;

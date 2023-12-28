@@ -1,3 +1,5 @@
+# Article R4446-3
+
 L'employeur est informé par le médecin du travail de toute conclusion significative provenant notamment du suivi de l'état de santé du salarié exercé par le professionnel de santé mentionné au premier alinéa de l'article L. 4624-1, dans le respect du secret médical.
 
 L'employeur en tire toutes les conséquences utiles, et notamment :

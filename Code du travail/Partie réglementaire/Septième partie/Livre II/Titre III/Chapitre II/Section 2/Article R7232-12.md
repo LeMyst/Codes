@@ -1,3 +1,5 @@
+# Article R7232-12
+
 L'agrément est retiré à la personne morale ou à l'entrepreneur individuel qui :
 
 1° Cesse de remplir les conditions ou de respecter les obligations mentionnées aux articles R. 7232-4 à R. 7232-9 ;

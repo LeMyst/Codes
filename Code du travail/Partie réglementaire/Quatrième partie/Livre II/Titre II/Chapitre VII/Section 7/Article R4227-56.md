@@ -1,3 +1,5 @@
+# Article R4227-56
+
 La dispense est accordée après enquête de l'inspection du travail.\
 Elle est accordée après avis :\
 1° Du comité social et économique ;\

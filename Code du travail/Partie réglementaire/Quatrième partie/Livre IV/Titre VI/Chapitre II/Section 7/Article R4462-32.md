@@ -1,3 +1,5 @@
+# Article R4462-32
+
 I.-Dans le cas d'un site pyrotechnique multi-employeurs tel que défini à l'article R. 4462-2, les activités pyrotechniques du site ne peuvent être exercées que sur la base d'une convention établie et conclue par les différents employeurs présents.
 
 Cette convention définit, dans le respect des dispositions du présent chapitre et de l'ensemble des dispositions législatives et règlementaires applicables aux activités du site pyrotechnique multi-employeurs, l'organisation mise en place sur le site entre les différents employeurs pour :

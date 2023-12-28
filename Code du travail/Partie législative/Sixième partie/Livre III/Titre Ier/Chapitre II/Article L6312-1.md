@@ -1,3 +1,5 @@
+# Article L6312-1
+
 L'accès des salariés à des actions de formation professionnelle est assuré :
 
 1° A l'initiative de l'employeur, le cas échéant, dans le cadre d'un plan de développement des compétences ;

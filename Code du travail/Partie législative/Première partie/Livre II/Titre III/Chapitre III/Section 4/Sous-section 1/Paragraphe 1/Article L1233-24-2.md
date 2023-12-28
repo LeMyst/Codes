@@ -1,3 +1,5 @@
+# Article L1233-24-2
+
 L'accord collectif mentionné à l'article L. 1233-24-1 porte sur le contenu du plan de sauvegarde de l'emploi mentionné aux articles L. 1233-61 à L. 1233-63.
 
 Il peut également porter sur :

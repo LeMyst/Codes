@@ -1,3 +1,5 @@
+# Article L2144-2
+
 L'employeur engage avec les organisations syndicales représentatives dans l'entreprise une négociation sur les modalités complémentaires d'exercice du droit syndical.
 
 Cette négociation porte notamment sur les points suivants :

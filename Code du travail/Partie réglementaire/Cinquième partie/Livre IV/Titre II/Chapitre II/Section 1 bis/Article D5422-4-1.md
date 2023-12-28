@@ -1,3 +1,5 @@
+# Article D5422-4-1
+
 I. - Peuvent accéder aux données du traitement mentionné au I de l'article D. 5422-4, dans les limites strictement nécessaires à l'exercice de leurs missions, les agents des administrations et organismes mentionnés ci-après, désignés et habilités par l'autorité responsable de ces administrations et organismes :
 
 1° Les organismes de recouvrement des contributions d'assurance chômage mentionnés à l'article L. 5427-1 ;

@@ -1,3 +1,5 @@
+# Article D6325-24
+
 Pour bénéficier de l'aide prévue à l'article D. 6325-23, les groupements d'employeurs concluent une convention avec le préfet.\
 Cette convention précise :\
 1° Le nombre prévisionnel d'accompagnements éligibles à cette aide dans l'année ;\

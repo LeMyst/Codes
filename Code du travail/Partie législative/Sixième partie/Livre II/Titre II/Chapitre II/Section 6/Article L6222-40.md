@@ -1,3 +1,5 @@
+# Article L6222-40
+
 En ce qui concerne les sportifs de haut niveau, des aménagements sont apportés :
 
 1° Aux articles L. 6222-7 à L. 6222-10, relatifs à la durée du contrat ;

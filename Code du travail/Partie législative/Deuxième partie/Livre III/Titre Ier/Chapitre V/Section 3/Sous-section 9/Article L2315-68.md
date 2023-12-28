@@ -1,3 +1,5 @@
+# Article L2315-68
+
 Les comptes annuels du comité social et économique sont arrêtés, selon des modalités prévues par son règlement intérieur, par des membres élus du comité social et économique désignés par lui et au sein de ses membres élus.
 
 Les documents ainsi arrêtés sont mis à la disposition, le cas échéant, du ou des commissaires aux comptes mentionnés à l'article L. 2315-73.

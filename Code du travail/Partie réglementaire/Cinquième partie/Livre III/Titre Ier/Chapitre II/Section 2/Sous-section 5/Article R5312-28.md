@@ -1,3 +1,5 @@
+# Article R5312-28
+
 L'instance paritaire régionale prévue à l'article L. 5312-10 comprend cinq membres représentant les employeurs et cinq membres représentant les salariés désignés par les organisations syndicales de salariés et d'employeurs représentatives au plan national et interprofessionnel mentionnées à l'article L. 5422-22.
 
 Les membres de l'instance paritaire régionale sont désignés pour trois ans. Ce mandat est renouvelable. Pour chacun d'entre eux, un suppléant, chargé de le remplacer en cas d'empêchement, est désigné dans les mêmes conditions. Les suppléants peuvent assister aux réunions de l'instance.

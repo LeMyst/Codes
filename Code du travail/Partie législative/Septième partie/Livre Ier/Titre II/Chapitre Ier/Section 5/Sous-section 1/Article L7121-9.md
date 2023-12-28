@@ -1,3 +1,5 @@
+# Article L7121-9
+
 L'activité d'agent artistique, qu'elle soit exercée sous l'appellation d'impresario, de manager ou sous toute autre dénomination, consiste à recevoir mandat à titre onéreux d'un ou de plusieurs artistes du spectacle aux fins de placement et de représentation de leurs intérêts professionnels.
 
 Un décret en Conseil d'Etat fixe les modalités du mandat écrit visé au premier alinéa et les obligations respectives à la charge des parties.

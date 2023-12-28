@@ -1,3 +1,5 @@
+# Article R4412-133
+
 En fonction de l'évaluation des risques, l'employeur établit un plan de démolition, de retrait ou d'encapsulage au moyen d'un téléservice, accessible sur internet par un compte utilisateur et mis en œuvre par le ministre chargé du travail, intitulé : “ plateforme DEMAT @ MIANTE ”.
 
 Ce plan est établi pour le compte de l'employeur sur la plateforme DEMAT @ MIANTE par un référent ou toute personne titulaire d'un compte utilisateur, en fonction du périmètre du marché de travaux auxquels il correspond. Les données correspondant au référent ou au titulaire du compte utilisateur figurent au plan. Le plan précise également les données suivantes :

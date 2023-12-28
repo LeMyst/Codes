@@ -1,3 +1,5 @@
+# Article D7121-7
+
 L'agent artistique perçoit en contrepartie de ses services, dans les conditions fixées par le mandat mentionné à l'article R. 7121-6, une rémunération calculée en pourcentage des rémunérations, fixes ou proportionnelles à l'exploitation, perçues par l'artiste.
 
 Les sommes perçues par l'agent artistique en contrepartie des missions définies à l'article R. 7121-1, autres que celles mentionnées au second alinéa de l'article D. 7121-8, ne peuvent excéder un plafond de 10 % du montant brut des rémunérations définies au premier alinéa.

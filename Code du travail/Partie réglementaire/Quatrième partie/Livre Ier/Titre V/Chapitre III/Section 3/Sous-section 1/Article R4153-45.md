@@ -1,3 +1,5 @@
+# Article R4153-45
+
 L'employeur ou le chef d'établissement qui déclare déroger tient à disposition de l'agent de contrôle de l'inspection du travail, à compter de l'affectation de chaque jeune aux travaux en cause, les informations relatives :
 
 1° Aux prénoms, nom et date de naissance du jeune ;

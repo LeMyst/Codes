@@ -1,3 +1,5 @@
+# Article R5131-22
+
 Sont considérés comme des ressources partiellement déductibles en application du 2° de l'article R. 5131-20 :
 
 1° L'ensemble des revenus tirés d'une activité salariée ou non salariée ;

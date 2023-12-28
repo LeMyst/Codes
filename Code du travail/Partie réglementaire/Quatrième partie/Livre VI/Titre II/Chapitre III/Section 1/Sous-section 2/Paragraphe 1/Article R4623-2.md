@@ -1,3 +1,5 @@
+# Article R4623-2
+
 Seul un médecin remplissant l'une des conditions suivantes peut pratiquer la médecine du travail :
 
 1° Etre qualifié en médecine du travail ;

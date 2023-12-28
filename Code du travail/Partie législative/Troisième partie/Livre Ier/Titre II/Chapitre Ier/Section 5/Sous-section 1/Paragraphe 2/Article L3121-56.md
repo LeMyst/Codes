@@ -1,3 +1,5 @@
+# Article L3121-56
+
 Tout salarié peut conclure une convention individuelle de forfait en heures sur la semaine ou sur le mois.
 
 Peuvent conclure une convention individuelle de forfait en heures sur l'année, dans la limite du nombre d'heures fixé en application du 3° du I de l'article L. 3121-64 :

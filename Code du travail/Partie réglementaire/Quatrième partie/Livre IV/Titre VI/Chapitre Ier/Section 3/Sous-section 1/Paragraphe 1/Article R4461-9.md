@@ -1,3 +1,5 @@
+# Article R4461-9
+
 L'employeur remet un exemplaire du manuel de sécurité hyperbare au conseiller à la prévention hyperbare qui veille à la disponibilité de ce manuel sur le site d'intervention ou de travaux.
 
 L'employeur le tient à la disposition des travailleurs et du comité social et économique.

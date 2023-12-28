@@ -1,3 +1,5 @@
+# Article L2314-30
+
 Pour chaque collège électoral, les listes mentionnées à l'article L. 2314-29 qui comportent plusieurs candidats sont composées d'un nombre de femmes et d'hommes correspondant à la part de femmes et d'hommes inscrits sur la liste électorale. Les listes sont composées alternativement d'un candidat de chaque sexe jusqu'à épuisement des candidats d'un des sexes.
 
 Lorsque l'application du premier alinéa n'aboutit pas à un nombre entier de candidats à désigner pour chacun des deux sexes, il est procédé à l'arrondi arithmétique suivant :

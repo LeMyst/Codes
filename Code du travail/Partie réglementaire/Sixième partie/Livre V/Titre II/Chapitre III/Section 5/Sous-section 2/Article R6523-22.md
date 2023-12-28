@@ -1,3 +1,5 @@
+# Article R6523-22
+
 Les dispositions de la sous-section 1 de la présente section, à l'exclusion de l'article R. 6523-19, sont applicables à Saint-Barthélemy et Saint-Martin sous réserve des adaptations suivantes :
 
 1° Les attributions du comité régional de l'emploi, de la formation et de l'orientation professionnelles, sont exercées par le comité de l'emploi, de la formation et de l'orientation professionnelles ;

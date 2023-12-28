@@ -1,3 +1,5 @@
+# Article R4451-44
+
 I.-A la mise en service de l'installation et à l'issue de toute modification importante des méthodes et des conditions de travail susceptible d'affecter la santé et la sécurité des travailleurs, l'employeur procède, au moyen de mesurages, dans les zones délimitées et dans les lieux de travail attenants à ces zones au titre de l'article R. 4451-24, à la vérification initiale :
 
 1° Du niveau d'exposition externe ;

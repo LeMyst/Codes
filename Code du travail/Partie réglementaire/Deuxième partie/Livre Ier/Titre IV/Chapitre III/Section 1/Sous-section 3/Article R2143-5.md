@@ -1,3 +1,5 @@
+# Article R2143-5
+
 Le tribunal judiciaire statue en dernier ressort sur les contestations relatives aux conditions de désignation des délégués syndicaux légaux ou conventionnels.
 
 Il est saisi par voie de requête.

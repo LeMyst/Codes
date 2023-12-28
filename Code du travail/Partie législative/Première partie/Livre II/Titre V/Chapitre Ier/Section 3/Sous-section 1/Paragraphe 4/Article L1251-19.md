@@ -1,3 +1,5 @@
+# Article L1251-19
+
 Le salarié temporaire a droit à une indemnité compensatrice de congé payé pour chaque mission qu'il effectue, quelle qu'en ait été la durée.
 
 Le montant de l'indemnité est calculé en fonction de la durée de la mission et ne peut être inférieur au dixième de la rémunération totale brute perçue par le salarié pendant la mission. L'indemnité est versée à la fin de la mission.

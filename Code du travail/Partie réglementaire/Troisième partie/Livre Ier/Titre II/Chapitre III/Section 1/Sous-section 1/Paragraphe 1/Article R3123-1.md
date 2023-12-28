@@ -1,3 +1,5 @@
+# Article R3123-1
+
 Le bilan du travail à temps partiel prévu à l'article L. 3123-15 porte notamment sur :\
 1° Le nombre, le sexe et la qualification des salariés concernés, ainsi que les horaires de travail à temps partiel pratiqués ;\
 2° Le nombre d'heures complémentaires accomplies par les salariés à temps partiel.\

@@ -1,3 +1,5 @@
+# Article R3262-1-1
+
 Les titres-restaurant émis sur un support papier comportent, en caractères très apparents, les mentions suivantes :
 
 1° Le nom et l'adresse de l'émetteur ;

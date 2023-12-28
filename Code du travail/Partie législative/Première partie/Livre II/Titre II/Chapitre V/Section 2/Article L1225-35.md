@@ -1,3 +1,5 @@
+# Article L1225-35
+
 Après la naissance de l'enfant, le père salarié ainsi que, le cas échéant, le conjoint ou concubin salarié de la mère ou la personne salariée liée à elle par un pacte civil de solidarité bénéficient d'un congé de paternité et d'accueil de l'enfant de vingt-cinq jours calendaires ou de trente-deux jours calendaires en cas de naissances multiples.
 
 Le congé de paternité et d'accueil de l'enfant entraîne la suspension du contrat de travail.

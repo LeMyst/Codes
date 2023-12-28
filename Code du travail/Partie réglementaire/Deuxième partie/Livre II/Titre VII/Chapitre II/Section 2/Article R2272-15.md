@@ -1,3 +1,5 @@
+# Article R2272-15
+
 La sous-commission de l'emploi, de l'orientation et de la formation professionnelles mentionnée au 4° de l'article R. 2272-10 est composée comme suit :
 
 1° Le ministre chargé de l'emploi ou son représentant, président ;

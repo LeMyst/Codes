@@ -1,3 +1,5 @@
+# Article L8112-2
+
 Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 constatent également :
 
 1° Les infractions commises en matière de discriminations prévues au 3° et au 6° de l'article 225-2 du code pénal, les délits de harcèlement sexuel ou moral prévus, dans le cadre des relations de travail, par les articles 222-33 et 222-33-2 du même code, l'infraction de traite des êtres humains prévue à l'article 225-4-1 dudit code, les infractions relatives à la traite des êtres humains, au travail forcé et à la réduction en servitude, prévues aux articles 225-4-1,225-14-1 et 225-14-2 du même code, ainsi que les infractions relatives aux conditions de travail et d'hébergement contraires à la dignité des personnes, prévues par les articles 225-13 à 225-15-1 du même code ;

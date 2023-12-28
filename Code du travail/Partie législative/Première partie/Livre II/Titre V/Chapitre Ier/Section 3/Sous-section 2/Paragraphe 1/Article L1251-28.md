@@ -1,3 +1,5 @@
+# Article L1251-28
+
 La rupture anticipée du contrat de mission qui intervient à l'initiative du salarié ouvre droit pour l'entreprise de travail temporaire à des dommages et intérêts correspondant au préjudice subi.
 
 Ces dispositions ne s'appliquent pas lorsque le salarié justifie de la conclusion d'un contrat de travail à durée indéterminée.

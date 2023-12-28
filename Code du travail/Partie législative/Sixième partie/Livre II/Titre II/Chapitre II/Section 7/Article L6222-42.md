@@ -1,3 +1,5 @@
+# Article L6222-42
+
 I.-Le contrat d'apprentissage peut être exécuté en partie à l'étranger pour une durée qui ne peut excéder un an.
 
 La durée d'exécution du contrat en France doit être au minimum de six mois.

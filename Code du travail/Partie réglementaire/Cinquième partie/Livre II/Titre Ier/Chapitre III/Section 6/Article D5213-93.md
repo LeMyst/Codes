@@ -1,3 +1,5 @@
+# Article D5213-93
+
 I.-La décision d'admission du travailleurs handicapé dans le dispositif, prise après accord de l'intéressé, est rendue par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles conformément aux dispositions de l'article L. 241-6 du même code.
 
 Le dispositif d'emploi accompagné et la maison départementale des personnes handicapées compétente organisent, le cas échéant dans le cadre d'une convention, les modalités de partenariat et d'échanges permettant à la commission mentionnée à l'article L. 146-9 précité de prononcer une décision en urgence au titre du 5° de l'article R. 241-28 du même code.

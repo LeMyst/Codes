@@ -1,3 +1,5 @@
+# Article R5424-72-2
+
 I.-Le caractère non viable de l'activité mentionné au 3° de l'article L. 5424-25 correspond à une baisse d'au moins 30 % des revenus déclarés par le travailleur indépendant au titre de l'impôt sur le revenu correspondant à l'activité non salariée mentionnée au 1° de l'article R. 5424-70.
 
 La baisse des revenus d'activité correspondant à l'activité non salariée s'apprécie de la manière suivante :

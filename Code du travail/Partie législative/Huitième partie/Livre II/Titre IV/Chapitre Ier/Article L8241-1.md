@@ -1,3 +1,5 @@
+# Article L8241-1
+
 Toute opération à but lucratif ayant pour objet exclusif le prêt de main-d'oeuvre est interdite.
 
 Toutefois, ces dispositions ne s'appliquent pas aux opérations réalisées dans le cadre :

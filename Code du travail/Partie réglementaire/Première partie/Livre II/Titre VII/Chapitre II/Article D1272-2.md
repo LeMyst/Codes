@@ -1,3 +1,5 @@
+# Article D1272-2
+
 Le recours à un dispositif simplifié par les employeurs mentionnés au 1° et 2° de l'article L. 133-5-6 du code de la sécurité sociale vaut, à l'égard des salariés déclarés au moyen de ce dispositif, respect des obligations qui incombent à l'employeur en matière de :
 
 1° Formalités prévues par les articles D. 4622-1 à D. 4622-4, relatifs aux services de santé au travail, et R. 4624-10 à R. 4624-14, relatifs à l'examen d'embauche ;

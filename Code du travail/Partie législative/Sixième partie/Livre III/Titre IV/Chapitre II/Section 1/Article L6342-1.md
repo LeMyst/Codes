@@ -1,3 +1,5 @@
+# Article L6342-1
+
 Toute personne qui suit un stage de formation professionnelle continue en vertu du présent livre est obligatoirement affiliée à un régime de sécurité sociale.
 
 Le stagiaire qui, avant son stage, relevait, à quelque titre que ce soit, d'un régime de sécurité sociale, reste affilié à ce régime pendant la durée de son stage.

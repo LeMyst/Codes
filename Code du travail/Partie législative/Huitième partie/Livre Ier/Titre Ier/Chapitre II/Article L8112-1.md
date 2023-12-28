@@ -1,3 +1,5 @@
+# Article L8112-1
+
 Les agents de contrôle de l'inspection du travail sont membres soit du corps des inspecteurs du travail, soit du corps des contrôleurs du travail jusqu'à l'extinction de leur corps.
 
 Ils disposent d'une garantie d'indépendance dans l'exercice de leurs missions au sens des conventions internationales concernant l'inspection du travail.

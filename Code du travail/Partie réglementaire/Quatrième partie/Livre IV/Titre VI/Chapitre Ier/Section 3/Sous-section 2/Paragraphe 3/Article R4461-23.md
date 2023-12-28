@@ -1,3 +1,5 @@
+# Article R4461-23
+
 L'employeur s'assure, en procédant ou en faisant procéder, par analyse, et avant leur utilisation, de :
 
 1° La conformité des gaz respiratoires, fournis par des compresseurs, aux valeurs limites d'exposition professionnelle fixées par la présente sous-section ;

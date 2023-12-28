@@ -1,3 +1,5 @@
+# Article R4314-5
+
 I.-Aux fins de vérifier la conformité des équipements aux règles de conception, de fabrication et de mise sur le marché qui leur sont applicables et d'obtenir les preuves d'une éventuelle non-conformité, les autorités de surveillance du marché et les agents habilités peuvent :
 
 1° Exiger des opérateurs économiques la communication des documents et informations mentionnés à l'article R. 4314-8 ;

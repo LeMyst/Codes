@@ -1,3 +1,5 @@
+# Article R8291-1
+
 Les dispositions du présent titre s'appliquent aux employeurs établis en France dont les salariés accomplissent, dirigent ou organisent, même à titre occasionnel, accessoire ou secondaire, sur un site ou un chantier de bâtiment ou de travaux publics, des travaux d'excavation, de terrassement, d'assainissement, de construction, de montage et démontage d'éléments préfabriqués, d'aménagements ou équipements intérieurs ou extérieurs, de réhabilitation ou de rénovation, de démolition ou de transformation, de curage, de maintenance ou d'entretien des ouvrages, de réfection ou de réparation ainsi que de peinture et de nettoyage afférents à ces travaux et de toutes opérations annexes qui y sont directement liées.
 
 Elles s'appliquent aux entreprises de travail temporaire établies en France employant des salariés pour effectuer l'un ou plusieurs des travaux mentionnés au premier alinéa et toutes opérations annexes qui y sont directement liées.

@@ -1,3 +1,5 @@
+# Article R4453-13
+
 La réduction des risques liés à l'exposition aux champs électromagnétiques se fonde notamment sur :
 
 1° La mise en œuvre d'autres procédés de travail n'exposant pas aux champs électromagnétiques ou entraînant une exposition moindre ;

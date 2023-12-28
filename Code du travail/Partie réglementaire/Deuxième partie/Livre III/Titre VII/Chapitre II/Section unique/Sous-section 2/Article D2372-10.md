@@ -1,3 +1,5 @@
+# Article D2372-10
+
 Lorsque seuls certains sociétés, filiales et établissements ont un représentant ou un élu, les membres du groupe spécial de négociation sont :
 
 1° Soit désignés selon les modalités définies aux articles D. 2372-6 à D. 2372-9 ;

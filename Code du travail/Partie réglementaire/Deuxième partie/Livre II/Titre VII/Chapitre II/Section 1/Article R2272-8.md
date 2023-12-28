@@ -1,3 +1,5 @@
+# Article R2272-8
+
 La Commission nationale est convoquée par les ministres chargés du travail, de l'emploi ou de la formation professionnelle de leur propre initiative ou à la demande de la majorité de ses membres titulaires.
 
 Elle se réunit au moins une fois par an.

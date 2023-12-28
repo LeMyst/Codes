@@ -1,3 +1,5 @@
+# Article R3132-20-1
+
 I. - Pour être qualifié de zone commerciale au sens de l'article L. 3132-25-1, la zone faisant l'objet d'une demande de délimitation ou de modification remplit les critères suivants :
 
 1° Constituer un ensemble commercial au sens de l'article L. 752-3 du code de commerce d'une surface de vente totale supérieure à 20 000 m2 ;

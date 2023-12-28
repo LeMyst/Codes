@@ -1,3 +1,5 @@
+# Article R5132-28
+
 La convention conclue pour la mise en place d'un ou plusieurs ateliers et chantiers d'insertion comporte notamment :
 
 1° Une présentation du projet d'insertion de l'organisme conventionné précisant :

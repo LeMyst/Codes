@@ -1,3 +1,5 @@
+# Article D6123-1-1
+
 Dans le cadre de sa mission de service public de l'orientation et de la formation professionnelle, le centre d'animation, de ressources et d'information sur la formation-observatoire régional de l'emploi et de la formation :
 
 1° Collecte les informations relatives à l'offre de formation en apprentissage et de formation professionnelle continue à destination des personnes sans emploi, inscrites ou non comme demandeurs d'emploi.

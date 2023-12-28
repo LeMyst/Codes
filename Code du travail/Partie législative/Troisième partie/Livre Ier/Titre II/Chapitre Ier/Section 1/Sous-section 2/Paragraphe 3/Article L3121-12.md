@@ -1,3 +1,5 @@
+# Article L3121-12
+
 A défaut d'accord prévu à l'article L. 3121-11 :
 
 1° Le mode d'organisation des astreintes et leur compensation sont fixés par l'employeur, après avis du comité social et économique, et après information de l'agent de contrôle de l'inspection du travail ;

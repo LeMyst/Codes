@@ -1,3 +1,5 @@
+# Article L3344-1
+
 L'intéressement, la participation ou un plan d'épargne d'entreprise peut être mis en place au sein d'un groupe constitué par des entreprises juridiquement indépendantes, mais ayant établi entre elles des liens financiers et économiques.
 
 Toutefois, les dispositifs d'augmentation du capital prévus aux articles L. 3332-18 et suivants ainsi que de majoration des sommes versées annuellement par une ou plusieurs entreprises prévus au deuxième alinéa de l'article L. 3332-11 ne peuvent s'appliquer qu'au sein d'un groupe d'entreprises incluses dans le même périmètre de consolidation ou de combinaison des comptes en application des dispositions suivantes :

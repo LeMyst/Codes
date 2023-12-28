@@ -1,3 +1,5 @@
+# Article R4228-27
+
 La surface et le volume habitables, au sens de l'article R. 156-1 du code de la construction et de l'habitation, des locaux affectés à l'hébergement des travailleurs ne peuvent être inférieurs à 6 mètres carrés et 15 mètres cubes par personne. Les parties de locaux d'une hauteur inférieure à 1,90 mètre ne sont pas comptées comme surface habitable.
 
 Ces locaux sont aérés de façon permanente.

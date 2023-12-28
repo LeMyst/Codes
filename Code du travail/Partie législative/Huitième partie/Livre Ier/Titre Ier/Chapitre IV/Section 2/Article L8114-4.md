@@ -1,3 +1,5 @@
+# Article L8114-4
+
 L'autorité administrative compétente peut, tant que l'action publique n'a pas été mise en mouvement, transiger avec les personnes physiques et les personnes morales sur la poursuite d'une infraction constituant une contravention ou un délit, prévue et réprimée :
 
 1° Aux livres II et III de la première partie ;

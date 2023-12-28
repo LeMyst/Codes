@@ -1,3 +1,5 @@
+# Article R7124-19
+
 La demande d'agrément ou de renouvellement d'agrément présentée par un employeur en vue d'engager un enfant pour réaliser l'activité mentionnée au 5° de l'article L. 7124-1 est accompagnée des documents suivants :
 
 1° Un extrait d'acte de naissance de l'employeur ou de ses dirigeants, associés et gérants lorsqu'il s'agit d'une société ;

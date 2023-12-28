@@ -1,3 +1,5 @@
+# Article L3141-5
+
 Sont considérées comme périodes de travail effectif pour la détermination de la durée du congé :
 
 1° Les périodes de congé payé ;

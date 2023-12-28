@@ -1,3 +1,5 @@
+# Article R2312-8
+
 En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises de moins de trois cents salariés, la base de données prévue à l'article L. 2312-18 comporte les informations suivantes :
 
 |  |

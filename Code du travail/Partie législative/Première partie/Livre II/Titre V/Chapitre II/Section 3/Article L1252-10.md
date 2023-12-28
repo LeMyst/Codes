@@ -1,3 +1,5 @@
+# Article L1252-10
+
 Le contrat de mise à disposition établi pour chaque salarié comporte :
 
 1° Le contenu de la mission ;

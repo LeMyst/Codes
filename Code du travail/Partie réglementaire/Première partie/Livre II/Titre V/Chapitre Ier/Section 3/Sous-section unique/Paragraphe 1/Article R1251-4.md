@@ -1,3 +1,5 @@
+# Article R1251-4
+
 La déclaration préalable d'entreprise de travail temporaire prévue à l'article L. 1251-45 comporte les mentions suivantes :\
 1° L'indication de l'opération envisagée : création d'une entreprise de travail temporaire, ouverture d'une succursale, d'une agence ou d'un bureau annexe, déplacement du siège ou cessation d'activité ;\
 2° Le nom, le siège et le caractère juridique de l'entreprise ainsi que, le cas échéant, la localisation de la succursale, de l'agence ou du bureau annexe ;\

@@ -1,3 +1,5 @@
+# Article L5213-2-2
+
 Les informations relatives aux aménagements dont a bénéficié la personne en situation de handicap pendant sa scolarité, en formation professionnelle ou en emploi, définies par arrêté du ministre chargé de la formation professionnelle, sont conservées dans un système d'information national géré par la Caisse des dépôts et consignations.
 
 Les informations mentionnées au premier alinéa sont fournies par :

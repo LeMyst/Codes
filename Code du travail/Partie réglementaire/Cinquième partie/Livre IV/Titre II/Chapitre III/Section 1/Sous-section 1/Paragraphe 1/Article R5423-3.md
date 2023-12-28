@@ -1,3 +1,5 @@
+# Article R5423-3
+
 Ne sont pas prises en compte pour la détermination du droit à l'allocation de solidarité spécifique, les ressources suivantes :
 
 1° L'allocation d'assurance précédemment perçue par l'intéressé ;

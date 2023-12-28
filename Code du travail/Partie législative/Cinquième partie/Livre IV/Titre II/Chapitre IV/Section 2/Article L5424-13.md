@@ -1,3 +1,5 @@
+# Article L5424-13
+
 L'indemnité journalière d'intempéries est versée au salarié par son entreprise à l'échéance normale de la paie dans les mêmes conditions que cette dernière.
 
 Elle n'est pas due au salarié momentanément inapte.

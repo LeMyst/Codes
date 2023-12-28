@@ -1,3 +1,5 @@
+# Article L2231-2
+
 Les représentants des organisations mentionnées à l'article L. 2231-1 sont habilités à contracter, au nom de l'organisation qu'ils représentent, en vertu :
 
 1° Soit d'une stipulation statutaire de cette organisation ;

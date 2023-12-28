@@ -1,3 +1,5 @@
+# Article R4624-15
+
 Lorsque le travailleur a bénéficié d'une visite d'information et de prévention dans les cinq ans ou, pour le travailleur mentionné à l'article R. 4624-17, dans les trois ans précédant son embauche, l'organisation d'une nouvelle visite d'information et de prévention n'est pas requise dès lors que l'ensemble des conditions suivantes sont réunies :
 
 1° Le travailleur est appelé à occuper un emploi identique présentant des risques d'exposition équivalents ;

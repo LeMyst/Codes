@@ -1,3 +1,5 @@
+# Article L3163-2
+
 Le travail de nuit est interdit pour les jeunes travailleurs.
 
 Pour les jeunes salariés des établissements commerciaux et de ceux du spectacle, des dérogations peuvent être accordées, à titre exceptionnel, par l'inspecteur du travail.

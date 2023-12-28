@@ -1,3 +1,5 @@
+# Article R5213-45
+
 L'association mentionnée à l'article L. 5214-1 détermine le montant annuel des charges pérennes induites par le handicap mentionnées au 6° de l'article R. 5213-42 ou au 5° de l'article R. 5213-44, en application des modalités de calcul fixées par arrêté conjoint des ministres chargés de l'emploi et des personnes handicapées.
 
 La reconnaissance de la lourdeur du handicap est accordée comme suit :

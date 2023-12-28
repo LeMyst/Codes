@@ -1,3 +1,5 @@
+# Article L1453-1 A
+
 Par dérogation au premier alinéa de l'article 4 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, les parties peuvent se défendre elles-mêmes ou se faire assister ou représenter devant le conseil de prud'hommes, outre par un avocat, par :
 
 1° Les salariés ou les employeurs appartenant à la même branche d'activité ;

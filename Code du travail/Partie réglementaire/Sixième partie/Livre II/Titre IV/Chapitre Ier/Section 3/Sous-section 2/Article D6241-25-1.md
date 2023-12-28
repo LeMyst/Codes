@@ -1,3 +1,5 @@
+# Article D6241-25-1
+
 I.-Les organismes chargés du recouvrement mentionnés au II de l'article L. 6131-4 transmettent à la Caisse des dépôts et consignations les informations relatives aux entreprises redevables de la taxe d'apprentissage suivantes :
 
 1° Les numéros d'identifications mentionnés à l'article R. 123-221 du code de commerce ;

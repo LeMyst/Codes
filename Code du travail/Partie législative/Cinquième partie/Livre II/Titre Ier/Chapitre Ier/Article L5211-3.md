@@ -1,3 +1,5 @@
+# Article L5211-3
+
 Le programme régional d'accès à la formation et à la qualification professionnelle des personnes handicapées a pour objectif de répondre à leurs besoins de développement de compétences afin de faciliter leur insertion professionnelle.
 
 Il recense et quantifie les besoins en s'appuyant sur le diagnostic intégré dans le plan régional pour l'insertion des travailleurs handicapés défini à l'article L. 5211-5 et l'analyse contenue dans le contrat de plan régional de développement des formations et de l'orientation professionnelles défini au I de l'article L. 214-13 du code de l'éducation.

@@ -1,3 +1,5 @@
+# Article R5134-171
+
 Dans chaque académie concernée, une commission présidée par le recteur d'académie ou son représentant vérifie si les candidats à un emploi d'avenir professeur remplissent les conditions leur permettant d'en bénéficier.
 
 Le recteur d'académie désigne les membres de la commission qui comprend :

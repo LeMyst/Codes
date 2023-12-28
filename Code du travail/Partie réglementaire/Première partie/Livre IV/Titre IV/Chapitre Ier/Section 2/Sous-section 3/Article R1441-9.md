@@ -1,3 +1,5 @@
+# Article R1441-9
+
 I.-Pour les sections de l'industrie, du commerce et des services commerciaux, de l'agriculture et des activités diverses, sont prises en compte par section, en fonction du tableau de répartition défini à l'article R. 1423-4 :
 
 1° Les entreprises directement adhérentes à une organisation professionnelle d'employeurs candidate au niveau d'une branche professionnelle ou à une structure territoriale de cette organisation ;

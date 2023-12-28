@@ -1,3 +1,5 @@
+# Article L1244-1
+
 Les dispositions de l'article L. 1243-11 ne font pas obstacle à la conclusion de contrats de travail à durée déterminée successifs avec le même salarié lorsque le contrat est conclu dans l'un des cas suivants :
 
 1° Remplacement d'un salarié absent ;

@@ -1,3 +1,5 @@
+# Article R4626-17
+
 Afin d'assurer la mise en œuvre des compétences médicales, techniques et organisationnelles nécessaires à la prévention des risques professionnels et à l'amélioration des conditions de travail, l'établissement met à disposition du service autonome de prévention et de santé au travail les moyens nécessaires à son bon fonctionnement et à la réalisation de ses missions, notamment :
 
 1° Du personnel infirmier ;

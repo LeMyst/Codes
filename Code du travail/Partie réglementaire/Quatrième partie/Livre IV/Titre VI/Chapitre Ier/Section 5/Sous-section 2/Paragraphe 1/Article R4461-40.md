@@ -1,3 +1,5 @@
+# Article R4461-40
+
 Les équipes réalisant une intervention en milieu hyperbare, mentionnée au 2° de l'article R. 4461-1, sont constituées d'au moins deux personnes :
 
 1° Un opérateur intervenant en milieu hyperbare titulaire du certificat d'aptitude à l'hyperbarie ;

@@ -1,3 +1,5 @@
+# Article R2314-1
+
 A défaut de stipulations dans l'accord prévu au troisième alinéa de l'article L. 2314-1, le nombre de membres de la délégation du personnel du comité social et économique prévu à l'article L. 2314-1 est défini dans le tableau ci-après.
 
 A défaut de stipulations dans l'accord prévu à l'article L. 2314-7, le temps mensuel nécessaire à l'exercice de leurs fonctions par les représentants mentionnés au 1° de l'article L. 2315-7 est fixé dans les limites d'une durée définie dans le tableau ci-après. Ce nombre d'heures peut être augmenté en cas de circonstances exceptionnelles.

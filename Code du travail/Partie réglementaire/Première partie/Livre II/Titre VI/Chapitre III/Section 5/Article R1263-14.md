@@ -1,3 +1,5 @@
+# Article R1263-14
+
 La déclaration du maître d'ouvrage ou du donneur d'ordre mentionnée à l'article R. 1263-13, dont le modèle est fixé par arrêté du ministre chargé du travail, comporte les informations suivantes :
 
 1° Le nom ou la raison sociale, les adresses postale et électronique, les coordonnées téléphoniques, l'activité principale du maître d'ouvrage ou du donneur d'ordre déclarant ainsi que son numéro individuel d'identification fiscale au titre de l'assujettissement à la taxe sur la valeur ajoutée ou, à défaut de détenir un tel numéro, les références de son immatriculation à un registre professionnel ou toutes autres références équivalentes ;

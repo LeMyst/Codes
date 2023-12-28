@@ -1,3 +1,5 @@
+# Article R2272-2
+
 Les représentants titulaires des salariés sont nommés par le ministre chargé du travail comme suit :
 
 1° Deux représentants, sur proposition de la Confédération générale du travail (CGT) ;

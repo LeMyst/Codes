@@ -1,3 +1,5 @@
+# Article L6331-57
+
 Sont redevables d'une contribution versée au titre de la participation au développement de la formation professionnelle continue et égale à 0,15 % des rémunérations de l'année de référence les particuliers employeurs occupant un ou plusieurs :
 
 1° Salariés du particulier employeur mentionnés à l'article L. 7221-1 ;

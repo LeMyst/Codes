@@ -1,3 +1,5 @@
+# Article R5134-17
+
 La demande d'aide à l'insertion professionnelle, dont le modèle est fixé par arrêté du ministre chargé de l'emploi, comporte :
 
 1° Des informations relatives à l'identité du bénéficiaire et à sa situation au regard de l'emploi, des allocations dont il bénéficie et de sa qualification ;

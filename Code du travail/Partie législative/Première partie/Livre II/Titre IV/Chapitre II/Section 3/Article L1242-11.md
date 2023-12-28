@@ -1,3 +1,5 @@
+# Article L1242-11
+
 Ne sont pas applicables pendant la période d'essai les dispositions relatives :
 
 1° A la prise d'effet du contrat prévue à l'article L. 1242-9 ;

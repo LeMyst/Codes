@@ -1,3 +1,5 @@
+# Article R1254-3
+
 La déclaration préalable d'entreprise de portage salarial prévue à l'article L. 1254-27 comporte les mentions suivantes :
 
 1° L'indication de l'opération envisagée : création d'une entreprise de portage salarial, ouverture d'une succursale, d'une agence ou d'un bureau annexe, déplacement du siège ou cessation d'activité ;

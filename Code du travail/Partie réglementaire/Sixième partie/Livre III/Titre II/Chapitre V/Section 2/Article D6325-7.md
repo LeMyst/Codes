@@ -1,3 +1,5 @@
+# Article D6325-7
+
 Les missions du tuteur sont les suivantes :\
 1° Accueillir, aider, informer et guider les bénéficiaires du contrat de professionnalisation ;\
 2° Organiser avec les salariés intéressés l'activité de ces bénéficiaires dans l'entreprise et contribuer à l'acquisition des savoir-faire professionnels ;\

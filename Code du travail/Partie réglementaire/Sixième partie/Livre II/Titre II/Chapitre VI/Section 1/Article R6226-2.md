@@ -1,3 +1,5 @@
+# Article R6226-2
+
 Le contrat de mise à disposition de l'apprenti au sein de l'entreprise utilisatrice précise :
 
 1° Le titre ou diplôme préparé par l'apprenti ;

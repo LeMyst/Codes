@@ -1,3 +1,5 @@
+# Article L1254-1
+
 Le portage salarial désigne l'ensemble organisé constitué par :
 
 1° D'une part, la relation entre une entreprise dénommée " entreprise de portage salarial " effectuant une prestation et une entreprise cliente bénéficiant de cette prestation, qui donne lieu à la conclusion d'un contrat commercial de prestation de portage salarial ;

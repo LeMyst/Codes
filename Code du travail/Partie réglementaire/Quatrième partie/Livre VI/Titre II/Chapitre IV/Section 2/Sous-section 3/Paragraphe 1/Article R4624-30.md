@@ -1,3 +1,5 @@
+# Article R4624-30
+
 Au cours de l'examen de préreprise, le médecin du travail peut recommander :
 
 1° Des aménagements et adaptations du poste de travail ;

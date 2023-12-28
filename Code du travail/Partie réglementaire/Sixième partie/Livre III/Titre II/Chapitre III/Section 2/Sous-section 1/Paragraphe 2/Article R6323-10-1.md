@@ -1,3 +1,5 @@
+# Article R6323-10-1
+
 I.-L'employeur peut différer le bénéfice du congé de transition professionnelle demandé par un salarié :
 
 1° Lorsqu'il estime que l'absence de l'intéressé pourrait avoir des conséquences préjudiciables à la production et à la marche de l'entreprise. Un tel report est décidé pour une durée maximale de neuf mois, après avis du comité social et économique lorsque celui-ci existe ;

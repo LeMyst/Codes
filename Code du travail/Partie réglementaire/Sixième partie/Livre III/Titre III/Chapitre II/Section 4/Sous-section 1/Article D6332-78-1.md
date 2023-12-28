@@ -1,3 +1,5 @@
+# Article D6332-78-1
+
 I. - France compétences invite les branches, par tout moyen donnant date certaine à la réception de cette demande, à déterminer, dans les conditions mentionnées à l'article D. 6332-78, le niveau de prise en charge des contrats d'apprentissage. La commission paritaire nationale de l'emploi ou, à défaut, la commission paritaire de la branche professionnelle dispose d'un délai de deux mois à compter de la réception de cette demande pour transmettre à l'opérateur de compétence dont relève la branche le niveau de prise en charge qu'elle a déterminé. L'opérateur de compétence en informe France compétences.
 
 II.-A compter de la réception des niveaux de prise en charge fixés en application du I, France compétences dispose d'un délai de deux mois pour émettre ses recommandations prévues au 10° de l'article L. 6123-5.

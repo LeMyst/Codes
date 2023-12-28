@@ -1,3 +1,5 @@
+# Article L2234-6
+
 L'observatoire exerce les missions suivantes :
 
 1° Il établit un bilan annuel du dialogue social dans le département ;

@@ -1,3 +1,5 @@
+# Article R4421-3
+
 Les agents biologiques sont classés en quatre groupes en fonction de l'importance du risque d'infection qu'ils présentent :\
 1° Le groupe 1 comprend les agents biologiques non susceptibles de provoquer une maladie chez l'homme ;\
 2° Le groupe 2 comprend les agents biologiques pouvant provoquer une maladie chez l'homme et constituer un danger pour les travailleurs. Leur propagation dans la collectivité est peu probable et il existe généralement une prophylaxie ou un traitement efficaces ;\

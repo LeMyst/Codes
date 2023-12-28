@@ -1,3 +1,5 @@
+# Article R7232-6
+
 Le préfet accorde l'agrément lorsque les conditions suivantes sont remplies :
 
 1° La personne morale ou l'entrepreneur individuel dispose, en propre ou au sein du réseau dont il fait partie, des moyens humains, matériels et financiers permettant de satisfaire l'objet pour lequel l'agrément est sollicité ;

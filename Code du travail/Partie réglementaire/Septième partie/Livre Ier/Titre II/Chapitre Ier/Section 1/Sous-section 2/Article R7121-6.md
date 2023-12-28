@@ -1,3 +1,5 @@
+# Article R7121-6
+
 Le mandat entre un agent artistique et un artiste est régi dans les conditions prévues au titre XIII du livre III du code civil. Il précise au minimum :
 
 1° La ou les missions confiées et les modalités pour rendre compte de leur exécution périodique ;

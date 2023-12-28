@@ -1,3 +1,5 @@
+# Article R2242-6
+
 Il est tenu compte, pour fixer le taux de la pénalité, des motifs de défaillance dont l'employeur a justifié, des mesures prises par l'entreprise en matière d'égalité professionnelle entre les femmes et les hommes et de la bonne foi de l'employeur.
 
 Au titre des motifs de défaillance, sont pris en compte pour diminuer le taux tous motifs indépendants de la volonté de l'employeur susceptibles de justifier le non-respect des obligations mentionnées aux deux premiers alinéas l'article L. 2242-8, et notamment :

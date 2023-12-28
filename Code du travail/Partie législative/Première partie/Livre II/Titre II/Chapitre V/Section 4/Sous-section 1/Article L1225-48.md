@@ -1,3 +1,5 @@
+# Article L1225-48
+
 Le congé parental d'éducation et la période d'activité à temps partiel ont une durée initiale d'un an au plus. Ils peuvent être prolongés deux fois pour prendre fin au plus tard au terme des périodes définies aux deuxième et quatrième alinéas, quelle que soit la date de leur début.
 
 Le congé parental d'éducation et la période d'activité à temps partiel prennent fin au plus tard au troisième anniversaire de l'enfant.

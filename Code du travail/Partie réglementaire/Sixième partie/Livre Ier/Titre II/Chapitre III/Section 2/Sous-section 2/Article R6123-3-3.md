@@ -1,3 +1,5 @@
+# Article R6123-3-3
+
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelles est composé, outre le préfet de région et le président du conseil régional, de membres nommés par arrêté du préfet de région :
 
 1° Six représentants de la région désignés par le conseil régional ;

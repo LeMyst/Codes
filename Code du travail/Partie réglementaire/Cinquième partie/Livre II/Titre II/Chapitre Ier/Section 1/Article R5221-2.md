@@ -1,3 +1,5 @@
+# Article R5221-2
+
 Sont dispensés de l'autorisation de travail prévue à l'article R. 5221-1 :
 
 1° Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique européen et de la Confédération suisse, dans les conditions prévues aux articles L. 233-1 et L. 233-4 du code de l'entrée et du séjour des étrangers et du droit d'asile, ainsi que les membres de leur famille titulaires d'une carte de séjour portant la mention “ membre de la famille d'un citoyen de l'Union ”, en application de l'article L. 233-5 du même code ;

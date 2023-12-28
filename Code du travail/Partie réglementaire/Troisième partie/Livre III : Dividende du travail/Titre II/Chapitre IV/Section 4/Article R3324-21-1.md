@@ -1,3 +1,5 @@
+# Article R3324-21-1
+
 L'accord de participation prévoit les modalités d'information de chaque bénéficiaire.
 
 Cette information porte notamment sur :

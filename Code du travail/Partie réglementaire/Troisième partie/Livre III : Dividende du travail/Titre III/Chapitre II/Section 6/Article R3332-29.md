@@ -1,3 +1,5 @@
+# Article R3332-29
+
 Les faits en raison desquels, en application du deuxième alinéa de l'article L. 3332-16, les droits constitués au profit des participants peuvent être exceptionnellement débloqués avant l'expiration du terme de l'opération de rachat mentionné au 2° de cet article sont les suivants :\
 1° L'invalidité du salarié, appréciée au sens des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ;\
 2° La mise à la retraite du salarié ;\

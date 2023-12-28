@@ -1,3 +1,5 @@
+# Article L812-1
+
 Les dispositions des articles L. 129-5 à L. 129-12 s'appliquent dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon lorsque le chèque emploi-service universel a la nature d'un titre spécial de paiement. Dans ces départements et dans cette collectivité, il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des cotisations sociales :
 
 - des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 131-2 occupant moins de onze salariés ;

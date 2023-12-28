@@ -1,3 +1,5 @@
+# Article R8124-16
+
 L'autorité investie du pouvoir hiérarchique propose à tout agent, lors de son affectation, et aussi souvent que nécessaire par la suite, un entretien consacré à la prévention des situations de conflits d'intérêts.
 
 Lorsque l'agent est soumis à l'obligation de déclaration d'intérêts prévue à l'article 25 ter de la loi du 13 juillet 1983 précitée, l'entretien prévu au premier alinéa est obligatoire et se déroule sur la base du contenu de cette déclaration.

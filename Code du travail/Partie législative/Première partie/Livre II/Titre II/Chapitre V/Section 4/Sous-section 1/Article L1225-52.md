@@ -1,3 +1,5 @@
+# Article L1225-52
+
 En cas de décès de l'enfant ou de diminution importante des ressources du foyer, le salarié a le droit :
 
 1° S'il bénéficie du congé parental d'éducation, soit de reprendre son activité initiale, soit d'exercer son activité à temps partiel dans la limite de la durée initialement prévue par le contrat de travail ;

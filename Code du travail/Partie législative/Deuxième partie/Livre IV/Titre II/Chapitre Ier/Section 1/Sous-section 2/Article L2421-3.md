@@ -1,3 +1,5 @@
+# Article L2421-3
+
 Le licenciement envisagé par l'employeur d'un membre élu à la délégation du personnel au comité social et économique titulaire ou suppléant ou d'un représentant syndical au comité social et économique ou d'un représentant de proximité est soumis au comité social et économique, qui donne un avis sur le projet de licenciement dans les conditions prévues à la section 3 du chapitre II du titre Ier du livre III.
 
 L'avis est réputé acquis nonobstant l'acquisition d'un nouveau mandat postérieurement à cette consultation.

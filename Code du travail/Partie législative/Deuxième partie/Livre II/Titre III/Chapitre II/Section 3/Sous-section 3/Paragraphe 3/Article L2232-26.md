@@ -1,3 +1,5 @@
+# Article L2232-26
+
 Dans les entreprises dont l'effectif habituel est au moins égal à cinquante salariés dépourvues de délégué syndical lorsque, à l'issue de la procédure définie à l'article L. 2232-25-1, aucun membre de la délégation du personnel du comité social et économique n'a manifesté son souhait de négocier, les accords d'entreprise ou d'établissement peuvent être négociés, conclus, révisés ou dénoncés par un ou plusieurs salariés expressément mandatés par une ou plusieurs organisations syndicales représentatives dans la branche ou, à défaut, par une ou plusieurs organisations syndicales représentatives au niveau national et interprofessionnel. A cet effet, une même organisation syndicale ne peut mandater qu'un seul salarié.
 
 Les organisations syndicales représentatives dans la branche de laquelle relève l'entreprise ou, à défaut, les organisations syndicales représentatives au niveau national et interprofessionnel sont informées par l'employeur de sa décision d'engager des négociations.

@@ -1,3 +1,5 @@
+# Article L2261-27
+
 Quand l'avis motivé favorable de la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle a été émis sans opposition écrite et motivée soit de deux organisations d'employeurs, soit de deux organisations de salariés représentées à cette commission, le ministre chargé du travail peut étendre par arrêté une convention ou un accord ou leurs avenants ou annexes :
 
 1° Lorsque le texte n'a pas été signé par la totalité des organisations les plus représentatives intéressées ;

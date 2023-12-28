@@ -1,3 +1,5 @@
+# Article L3253-8
+
 L'assurance mentionnée à l'article L. 3253-6 couvre :
 
 1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation judiciaire, ainsi que les contributions dues par l'employeur dans le cadre du contrat de sécurisation professionnelle ;

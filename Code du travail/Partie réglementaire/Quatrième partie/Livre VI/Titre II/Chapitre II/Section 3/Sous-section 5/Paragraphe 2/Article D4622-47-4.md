@@ -1,3 +1,5 @@
+# Article D4622-47-4
+
 Les principes et référentiels mentionnés au dernier alinéa de l'article L. 4622-9-3 sont déclinés et mis en œuvre, en application des dispositions de la présente sous-section, dans un cahier des charges fixé par un arrêté du ministre chargé du travail. Cet arrêté précise notamment :
 
 1° Les modalités d'accréditation des organismes certificateurs mentionnés à l'article D. 4622-47-2 ;

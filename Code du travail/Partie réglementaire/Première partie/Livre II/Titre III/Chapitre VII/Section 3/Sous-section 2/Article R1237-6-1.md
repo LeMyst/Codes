@@ -1,3 +1,5 @@
+# Article R1237-6-1
+
 Lorsque le projet d'accord collectif portant rupture conventionnelle collective inclut des établissements relevant de la compétence de plusieurs directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, l'employeur informe le directeur régional du siège de l'entreprise de son intention d'ouvrir une négociation en application de l'article L. 1237-19.
 
 Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent est celui dans le ressort duquel se situe :

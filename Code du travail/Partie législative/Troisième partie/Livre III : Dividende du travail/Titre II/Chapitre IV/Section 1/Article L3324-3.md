@@ -1,3 +1,5 @@
+# Article L3324-3
+
 Dans les entreprises relevant de l'impôt sur le revenu, le bénéfice à retenir, avant déduction de l'impôt correspondant, est égal au bénéfice imposable de cet exercice, diminué :
 
 1° De la rémunération normale du travail du chef d'entreprise lorsque cette rémunération n'est pas admise dans les frais généraux pour l'assiette de l'impôt de droit commun ;

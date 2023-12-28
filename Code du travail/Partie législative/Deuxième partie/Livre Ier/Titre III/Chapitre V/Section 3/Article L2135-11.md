@@ -1,3 +1,5 @@
+# Article L2135-11
+
 Le fonds paritaire contribue à financer les activités suivantes, qui constituent des missions d'intérêt général pour les organisations syndicales de salariés et les organisations professionnelles d'employeurs concernées :
 
 1° La conception, la gestion, l'animation et l'évaluation des politiques menées paritairement au moyen de la contribution mentionnée au 1° du I de l'article L. 2135-10 et, le cas échéant, des participations volontaires versées en application du 2° du même I ;

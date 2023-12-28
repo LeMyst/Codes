@@ -1,3 +1,5 @@
+# Article R5132-1-21
+
 I.-Sont autorisées à enregistrer ou à consulter les données du traitement mentionné à l'article R. 5132-1-19, dans les conditions fixées par le responsable de traitement et dans la limite de ce qui est nécessaire à l'exercice de leurs missions, les personnes désignées et habilitées à cette fin au sein :
 
 1° Des structures d'insertion par l'activité économique ;

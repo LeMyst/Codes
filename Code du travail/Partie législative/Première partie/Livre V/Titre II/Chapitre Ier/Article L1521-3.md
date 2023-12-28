@@ -1,3 +1,5 @@
+# Article L1521-3
+
 Pour l'application de la présente partie à Saint-Pierre-et-Miquelon et en l'absence de mention particulière spécifique à cette collectivité :
 
 1° Les attributions dévolues au préfet, dans la région ou dans le département, sont exercées par le représentant de l'Etat ;

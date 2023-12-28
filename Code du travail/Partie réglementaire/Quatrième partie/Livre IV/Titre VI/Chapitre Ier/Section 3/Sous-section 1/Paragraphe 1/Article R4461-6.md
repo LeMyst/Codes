@@ -1,3 +1,5 @@
+# Article R4461-6
+
 Les procédures, et leurs paramètres, retenues pour les différentes méthodes d'intervention ou d'exécution de travaux sont fixées par des arrêtés conjoints du ministre chargé du travail et, chacun en ce qui le concerne, des ministres intéressés.
 
 Chaque arrêté précise notamment :

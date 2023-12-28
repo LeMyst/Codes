@@ -1,3 +1,5 @@
+# Article R5131-4
+
 L'Etat établit, en concertation avec la région, des orientations stratégiques relatives à la mise en œuvre du droit à l'accompagnement des jeunes confrontés à un risque d'exclusion professionnelle mentionné à l'article L. 5131-3. Il associe à ces travaux les départements, les communes et leurs groupements.
 
 Ces orientations s'inscrivent dans le cadre du schéma prévisionnel de développement du service public régional de l'orientation mentionné au 5° de l'article L. 214-13 du code de l'éducation et de la stratégie régionale coordonnée en matière d'emploi, d'orientation et de formation professionnelles mentionnée à l'article L. 6123-4-1 du code du travail.

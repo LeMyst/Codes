@@ -1,3 +1,5 @@
+# Article L8221-6
+
 I.-Sont présumés ne pas être liés avec le donneur d'ordre par un contrat de travail dans l'exécution de l'activité donnant lieu à immatriculation ou inscription :
 
 1° Les personnes physiques immatriculées au registre du commerce et des sociétés, au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat, au registre des agents commerciaux ou auprès des unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales pour le recouvrement des cotisations d'allocations familiales ;

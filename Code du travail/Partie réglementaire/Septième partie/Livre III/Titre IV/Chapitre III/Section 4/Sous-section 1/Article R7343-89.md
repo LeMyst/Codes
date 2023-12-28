@@ -1,3 +1,5 @@
+# Article R7343-89
+
 I.-Les accords collectifs de secteur sont publiés sur le site internet de l'Autorité des relations sociales des plateformes d'emploi.
 
 II.-L'acte prévu au deuxième alinéa de l'article L. 7343-34 par lequel les parties peuvent convenir qu'une partie de l'accord collectif de secteur ne doit pas faire l'objet de la publication prévue au premier alinéa de ce même article est signé par la majorité des organisations de travailleurs signataires de l'accord et par une ou plusieurs organisations professionnelles de plateformes signataires.

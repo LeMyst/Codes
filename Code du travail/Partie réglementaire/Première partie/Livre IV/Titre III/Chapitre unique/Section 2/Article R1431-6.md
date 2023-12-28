@@ -1,3 +1,5 @@
+# Article R1431-6
+
 Les représentants des employeurs au Conseil supérieur de la prud'homie sont :
 
 1° Cinq membres sur proposition du Mouvement des entreprises de France (MEDEF), parmi lesquels un représentant au moins au titre des entreprises moyennes et petites ;

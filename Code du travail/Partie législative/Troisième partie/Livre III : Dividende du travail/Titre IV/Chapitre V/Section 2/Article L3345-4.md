@@ -1,3 +1,5 @@
+# Article L3345-4
+
 Un accord de branche d'intéressement, de participation ou instaurant un plan d'épargne salariale fait l'objet d'une procédure d'agrément conduite par l'autorité administrative compétente à compter de son dépôt dans un délai et des conditions déterminés par décret.
 
 Le délai mentionné au premier alinéa ne peut excéder quatre mois. Il peut être prorogé une fois pour une durée équivalente à la moitié de la durée initiale.

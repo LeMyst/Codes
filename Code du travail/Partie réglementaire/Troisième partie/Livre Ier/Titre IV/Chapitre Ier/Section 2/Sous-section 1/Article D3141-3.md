@@ -1,3 +1,5 @@
+# Article D3141-3
+
 Ne peuvent être déduits du congé annuel :
 
 1° Les absences autorisées ;

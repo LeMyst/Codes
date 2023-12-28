@@ -1,3 +1,5 @@
+# Article R2623-5
+
 Les deux sections de la commission de conciliation comprennent :\
 1° Le préfet ou son représentant, président ;\
 2° Un fonctionnaire de catégorie A ;\

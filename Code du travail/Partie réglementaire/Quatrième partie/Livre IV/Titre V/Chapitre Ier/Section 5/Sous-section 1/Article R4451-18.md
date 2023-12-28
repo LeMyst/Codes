@@ -1,3 +1,5 @@
+# Article R4451-18
+
 I.-L'employeur met en œuvre les mesures de réduction des risques liés à l'exposition aux rayonnements ionisants lorsque les résultats de l'évaluation des risques mettent en évidence que l'exposition des travailleurs est susceptible d'atteindre ou de dépasser l'un des niveaux mentionnés au I de l'article R. 4451-15.
 
 II.-Les mesures mentionnées au I se fondent notamment sur :

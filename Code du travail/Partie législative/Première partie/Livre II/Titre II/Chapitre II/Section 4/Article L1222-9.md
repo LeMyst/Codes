@@ -1,3 +1,5 @@
+# Article L1222-9
+
 I.-Sans préjudice de l'application, s'il y a lieu, des dispositions du présent code protégeant les travailleurs à domicile, le télétravail désigne toute forme d'organisation du travail dans laquelle un travail qui aurait également pu être exécuté dans les locaux de l'employeur est effectué par un salarié hors de ces locaux de façon volontaire en utilisant les technologies de l'information et de la communication.
 
 Est qualifié de télétravailleur au sens de la présente section tout salarié de l'entreprise qui effectue, soit dès l'embauche, soit ultérieurement, du télétravail tel que défini au premier alinéa du présent I.

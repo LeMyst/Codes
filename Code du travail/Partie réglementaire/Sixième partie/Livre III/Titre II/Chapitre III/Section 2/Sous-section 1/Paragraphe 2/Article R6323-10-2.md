@@ -1,3 +1,5 @@
+# Article R6323-10-2
+
 Les demandes de congés de transition professionnelle qui ne peuvent être toutes satisfaites par l'employeur sont retenues suivant l'ordre de priorité décroissante suivant :
 
 1° Les demandes déjà présentées et qui ont été différées ;

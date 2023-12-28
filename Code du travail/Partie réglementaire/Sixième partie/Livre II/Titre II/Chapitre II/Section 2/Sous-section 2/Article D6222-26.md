@@ -1,3 +1,5 @@
+# Article D6222-26
+
 Le salaire minimum perçu par l'apprenti prévu à l'article L. 6222-29 pendant le contrat ou la période d'apprentissage est fixé :
 
 1° Pour les jeunes âgés de seize à dix-sept ans :

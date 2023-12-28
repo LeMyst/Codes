@@ -1,3 +1,5 @@
+# Article L1233-69
+
 L'employeur contribue au financement du contrat de sécurisation professionnelle par un versement représentatif de l'indemnité compensatrice de préavis, dans la limite de trois mois de salaire majoré de l'ensemble des cotisations et contributions obligatoires afférentes.
 
 La détermination du montant de ce versement et leur recouvrement, effectué selon les règles et sous les garanties et sanctions mentionnées au premier alinéa de l'article L. 5422-16, sont assurés par l'institution mentionnée à l'article L. 5312-1. Les conditions d'exigibilité de ce versement sont précisées par décret en Conseil d'Etat.

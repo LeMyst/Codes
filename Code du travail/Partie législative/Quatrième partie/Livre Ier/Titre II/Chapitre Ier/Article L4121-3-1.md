@@ -1,3 +1,5 @@
+# Article L4121-3-1
+
 I.-Le document unique d'évaluation des risques professionnels répertorie l'ensemble des risques professionnels auxquels sont exposés les travailleurs et assure la traçabilité collective de ces expositions.
 
 II.-L'employeur transcrit et met à jour dans le document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3.

@@ -1,3 +1,5 @@
+# Article R4641-18
+
 Placé auprès du préfet de région, le comité régional d'orientation des conditions de travail :
 
 1° Participe à l'élaboration et à l'actualisation de diagnostics territoriaux portant sur les conditions de travail et la prévention des risques professionnels ;

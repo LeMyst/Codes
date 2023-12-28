@@ -1,3 +1,5 @@
+# Article L1423-11
+
 En cas d'interruption durable de son fonctionnement ou de difficultés graves rendant ce fonctionnement impossible dans des conditions normales, le conseil de prud'hommes peut être dissous par décret motivé.
 
 Dans ce cas, les nouvelles nominations ont lieu dans un délai maximum de quatre mois à partir de la parution du décret de dissolution. Les fonctions des membres ainsi nommés prennent fin en même temps que celles des membres des autres conseils de prud'hommes.

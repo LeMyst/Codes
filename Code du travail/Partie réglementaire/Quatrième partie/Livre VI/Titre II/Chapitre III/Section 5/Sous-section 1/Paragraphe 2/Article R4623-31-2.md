@@ -1,3 +1,5 @@
+# Article R4623-31-2
+
 La formation spécifique en santé au travail prévue à l'article L. 4623-10 permet, au minimum, au candidat d'acquérir des compétences dans les matières suivantes :
 
 1° La connaissance du monde du travail et de l'entreprise ;

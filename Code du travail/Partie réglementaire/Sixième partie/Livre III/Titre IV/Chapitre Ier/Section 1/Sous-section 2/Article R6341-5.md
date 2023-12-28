@@ -1,3 +1,5 @@
+# Article R6341-5
+
 L'autorité administrative compétente pour délivrer l'agrément examine le projet de stage selon les critères d'appréciation suivants :\
 1° La nature du stage ;\
 2° Les conditions d'admission du stagiaire ;\

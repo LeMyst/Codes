@@ -1,3 +1,5 @@
+# Article R4153-40
+
 L'employeur ou le responsable de l'établissement mentionné à l'article L. 4111-1 et le chef d'établissement mentionné aux articles R. 4153-38 et R. 4153-39 peuvent, pour une durée de trois ans à compter de l'envoi de la déclaration prévue à l'article R. 4153-41, affecter des jeunes aux travaux interdits susceptibles de dérogation mentionnés à la section 2 du présent chapitre, sous réserve de satisfaire aux conditions suivantes :
 
 1° Avoir procédé à l'évaluation prévue aux articles L. 4121-3 et suivants, comprenant une évaluation des risques existants pour les jeunes et liés à leur travail ; cette évaluation est préalable à l'affectation des jeunes à leurs postes de travail ;

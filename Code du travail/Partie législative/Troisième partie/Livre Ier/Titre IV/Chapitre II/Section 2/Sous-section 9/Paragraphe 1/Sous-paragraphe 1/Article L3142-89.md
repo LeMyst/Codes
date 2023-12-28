@@ -1,3 +1,5 @@
+# Article L3142-89
+
 Lorsqu'il n'est pas fait application de l'article L. 2171-1, du second alinéa de l'article L. 4221-5 et des articles L. 4231-4 et L. 4231-5 du code de la défense, le réserviste salarié a droit à une autorisation d'absence annuelle d'une durée minimale de dix jours ouvrés par année civile au titre de ses activités d'emploi ou de formation dans la réserve opérationnelle militaire ou la réserve opérationnelle de la police nationale.
 
 Au-delà de sa durée d'autorisation d'absence annuelle, le réserviste salarié peut obtenir l'accord de son employeur pour effectuer une période d'emploi ou de formation au titre de la réserve opérationnelle militaire ou de la réserve opérationnelle de la police nationale pendant son temps de travail.

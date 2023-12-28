@@ -1,3 +1,5 @@
+# Article L1226-1
+
 Tout salarié ayant une année d'ancienneté dans l'entreprise bénéficie, en cas d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident constaté par certificat médical et contre-visite s'il y a lieu, d'une indemnité complémentaire à l'allocation journalière prévue à l'article L. 321-1 du code de la sécurité sociale, à condition :
 
 1° D'avoir justifié dans les quarante-huit heures de cette incapacité, sauf si le salarié fait partie des personnes mentionnées à l'article L. 169-1 du code de la sécurité sociale ;

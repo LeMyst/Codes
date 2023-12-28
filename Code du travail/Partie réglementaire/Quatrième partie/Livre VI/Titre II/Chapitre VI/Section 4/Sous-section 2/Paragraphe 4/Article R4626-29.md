@@ -1,3 +1,5 @@
+# Article R4626-29
+
 L'agent bénéficie d'un examen de reprise par le médecin du travail :
 
 1° Après un congé de maternité ;

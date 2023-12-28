@@ -1,3 +1,5 @@
+# Article R4121-5
+
 Lorsqu'un travailleur est victime d'un accident du travail ayant entraîné son décès, l'employeur informe l'agent de contrôle de l'inspection du travail compétent pour le lieu de survenance de l'accident immédiatement et au plus tard dans les douze heures qui suivent le décès du travailleur, sauf s'il établit qu'il n'a pu avoir connaissance du décès que postérieurement à l'expiration de ce délai. Dans ce cas, le délai de douze heures imparti à l'employeur pour informer l'agent de contrôle de l'inspection du travail court à compter du moment où l'employeur a connaissance du décès du travailleur.
 
 Cette information est communiquée par tout moyen permettant de conférer date certaine à cet envoi.

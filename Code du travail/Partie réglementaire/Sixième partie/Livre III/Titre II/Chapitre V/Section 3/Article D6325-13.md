@@ -1,3 +1,5 @@
+# Article D6325-13
+
 Dans les deux mois suivant le début du contrat de professionnalisation, l'employeur examine avec le salarié l'adéquation du programme de formation au regard des acquis du salarié.
 
 En cas d'inadéquation, l'employeur et le salarié peuvent, dans les limites de la durée de ce contrat, conclure un avenant.

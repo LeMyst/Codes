@@ -1,3 +1,5 @@
+# Article R2312-47
+
 Les membres du comité des activités sociales et culturelles interentreprises sont désignés pour une durée équivalente à celle qu'ils tiennent de leur mandat à leur comité social et économique.
 
 Le comité interentreprises exerce ses fonctions dans les locaux et avec le matériel et le personnel de l'un ou de plusieurs des comités sociaux et économiques qui y sont représentés.

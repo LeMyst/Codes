@@ -1,3 +1,5 @@
+# Article L1251-22
+
 Les obligations relatives à la médecine du travail sont à la charge de l'entreprise de travail temporaire.
 
 Sauf lorsque cette dernière relève du régime agricole, le suivi médical des salariés est assuré par des services de prévention et de santé au travail faisant l'objet d'un agrément spécifique.

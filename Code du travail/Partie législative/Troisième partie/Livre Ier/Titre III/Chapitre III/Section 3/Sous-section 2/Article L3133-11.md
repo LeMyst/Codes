@@ -1,3 +1,5 @@
+# Article L3133-11
+
 Un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche fixe les modalités d'accomplissement de la journée de solidarité.
 
 Cet accord peut prévoir :

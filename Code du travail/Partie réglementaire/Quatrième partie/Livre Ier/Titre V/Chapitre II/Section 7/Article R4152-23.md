@@ -1,3 +1,5 @@
+# Article R4152-23
+
 Le local dédié à l'allaitement est surveillé par un médecin désigné par l'employeur.
 
 Ce dernier tient à la disposition de l'agent de contrôle de l'inspection du travail, le nom et l'adresse de ce médecin.

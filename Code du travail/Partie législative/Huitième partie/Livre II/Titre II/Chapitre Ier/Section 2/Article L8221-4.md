@@ -1,3 +1,5 @@
+# Article L8221-4
+
 Les activités mentionnées à l'article L. 8221-3 sont présumées, sauf preuve contraire, accomplies à titre lucratif :
 
 1° Soit lorsque leur réalisation a lieu avec recours à la publicité sous une forme quelconque en vue de la recherche de la clientèle ;

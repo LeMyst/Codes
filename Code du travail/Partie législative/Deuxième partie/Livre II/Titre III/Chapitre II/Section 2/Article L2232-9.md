@@ -1,3 +1,5 @@
+# Article L2232-9
+
 I.-Une commission paritaire permanente de négociation et d'interprétation est mise en place par accord ou convention dans chaque branche.
 
 II.-La commission paritaire exerce les missions d'intérêt général suivantes :

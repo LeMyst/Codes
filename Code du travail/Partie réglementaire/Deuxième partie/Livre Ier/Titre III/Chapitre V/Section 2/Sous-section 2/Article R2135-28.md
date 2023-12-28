@@ -1,3 +1,5 @@
+# Article R2135-28
+
 I. - Pour l'application du 1° du I de l'article L. 2135-13, le fonds répartit ses crédits à parité entre les organisations syndicales de salariés et les organisations professionnelles d'employeurs selon les modalités qui suivent :
 
 1° Une dotation est répartie entre les organisations syndicales de salariés, d'une part, et les organisations professionnelles d'employeurs, d'autre part, représentatives au niveau national et interprofessionnel.

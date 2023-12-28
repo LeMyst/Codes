@@ -1,3 +1,5 @@
+# Article R2312-36
+
 Le comité social et économique assure la gestion des activités sociales et culturelles qui n'ont pas de personnalité civile, à l'exception des centres d'apprentissage et de formation professionnelle.
 
 Quel que soit leur mode de financement, cette gestion est assurée :

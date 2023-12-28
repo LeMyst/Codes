@@ -1,3 +1,5 @@
+# Article L8241-3
+
 I.-Par dérogation au dernier alinéa de l'article L. 8241-1 et dans les conditions prévues par le présent article, une entreprise peut mettre à disposition de manière temporaire ses salariés auprès d'une jeune ou d'une petite ou moyenne entreprise, afin de lui permettre d'améliorer la qualification de sa main-d'œuvre, de favoriser les transitions professionnelles ou de constituer un partenariat d'affaires ou d'intérêt commun. Le dispositif est applicable :
 
 1° Pour les entreprises utilisatrices, aux personnes morales dont la liste est fixée aux a à g du 1 de l'article 238 bis du code général des impôts, aux jeunes entreprises qui ont moins de huit ans d'existence au moment de la mise à disposition et aux petites ou moyennes entreprises de moins de deux cent cinquante salariés ;

@@ -1,3 +1,5 @@
+# Article R4227-52
+
 L'employeur établit et met à jour un document relatif à la protection contre les explosions, intégré au document unique d'évaluation des risques.\
 Ce document comporte les informations relatives au respect des obligations définies aux articles R. 4227-44 à R. 4227-48, notamment :\
 1° La détermination et l'évaluation des risques d'explosion ;\

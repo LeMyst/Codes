@@ -1,3 +1,5 @@
+# Article R4141-3
+
 La formation à la sécurité a pour objet d'instruire le travailleur des précautions à prendre pour assurer sa propre sécurité et, le cas échéant, celle des autres personnes travaillant dans l'établissement.\
 Elle porte sur :\
 1° Les conditions de circulation dans l'entreprise ;\

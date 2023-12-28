@@ -1,3 +1,5 @@
+# Article R5122-20
+
 L'Agence de services et de paiement est autorisée à mettre en œuvre un traitement automatisé des données à caractère personnel contenues dans les demandes préalables d'autorisation de placement en position d'activité partielle et les demandes d'indemnisation en application des articles R. 5122-2 et R. 5122-5.
 
 Le traitement automatisé a pour finalité :

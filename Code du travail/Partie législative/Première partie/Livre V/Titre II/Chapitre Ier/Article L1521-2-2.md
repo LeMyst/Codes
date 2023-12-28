@@ -1,3 +1,5 @@
+# Article L1521-2-2
+
 Pour l'application de la présente partie à Mayotte et en l'absence de mention particulière spécifique à cette collectivité :
 
 1° Les attributions dévolues au préfet dans la région ou dans le département sont exercées par le préfet de Mayotte ;

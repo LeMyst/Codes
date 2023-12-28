@@ -1,3 +1,5 @@
+# Article L4625-1-1
+
 Un décret en Conseil d'Etat prévoit les adaptations des règles définies aux articles L. 4624-1 et L. 4624-2 pour les salariés temporaires et les salariés en contrat à durée déterminée.
 
 Ces adaptations leur garantissent un suivi individuel de leur état de santé d'une périodicité équivalente à celle du suivi des salariés en contrat à durée indéterminée.

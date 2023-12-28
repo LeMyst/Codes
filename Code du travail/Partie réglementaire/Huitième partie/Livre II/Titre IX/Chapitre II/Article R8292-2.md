@@ -1,3 +1,5 @@
+# Article R8292-2
+
 Sont mentionnées sur la carte d'identification professionnelle, en plus des informations indiquées à l'article R. 8292-1 :
 
 1° Pour les salariés des entreprises mentionnées au premier alinéa de l'article R. 8291-1, les mentions suivantes :

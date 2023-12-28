@@ -1,3 +1,5 @@
+# Article L1234-15
+
 Le salarié a droit à un préavis :
 
 1° D'un jour lorsque sa rémunération est fixée par jour ;

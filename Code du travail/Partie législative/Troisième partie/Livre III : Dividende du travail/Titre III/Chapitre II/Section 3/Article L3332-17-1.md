@@ -1,3 +1,5 @@
+# Article L3332-17-1
+
 I.-Peut prétendre à l'agrément " entreprise solidaire d'utilité sociale " l'entreprise qui relève de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire et qui remplit les conditions cumulatives suivantes :
 
 1° L'entreprise poursuit à titre principal l'un au moins des objectifs suivants :

@@ -1,3 +1,5 @@
+# Article R4462-4
+
 Toute modification apportée à l'activité ou aux équipements d'une installation pyrotechnique ou toute modification apportée à proximité d'une installation pyrotechnique fixe pouvant avoir un effet sur les mesures de prévention et de protection retenues dans cette installation fait l'objet d'une analyse de sécurité rédigée par l'employeur permettant de juger du caractère notable ou non de cette modification.
 
 Une modification est considérée comme notable dans les cas suivants :

@@ -1,3 +1,5 @@
+# Article D1233-12
+
 La demande mentionnée à l'article L. 1233-57-5 est adressée par le comité social et économique, ou, en cas de négociation d'un accord mentionné à l'article L. 1233-24-1 par les organisations syndicales représentatives de l'entreprise, au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent en application des articles R. 1233-3-4 et R. 1233-3-5, par tout moyen permettant de conférer une date certaine.
 
 La demande est motivée. Elle précise les éléments demandés et leur pertinence.

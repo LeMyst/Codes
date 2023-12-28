@@ -1,3 +1,5 @@
+# Article R4412-122
+
 Les déchets sont :
 
 1° Ramassés au fur et à mesure de leur production ;

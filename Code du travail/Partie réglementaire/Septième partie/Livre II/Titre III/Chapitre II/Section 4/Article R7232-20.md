@@ -1,3 +1,5 @@
+# Article R7232-20
+
 La personne morale ou l'entrepreneur individuel qui cesse de remplir les conditions ou de respecter les obligations mentionnées aux 4°, 5° et 6° de l'article R. 7232-17 ou qui méconnaît de façon répétée, après mise en demeure par le préfet restée sans effet, les obligations définies à l'article R. 7232-19 perd le bénéfice des dispositions de l'article L. 7233-2 et des dispositions de l'article L. 241-10 du code de la sécurité sociale.
 
 Il en est informé par le préfet, par lettre recommandée avec accusé de réception. Il dispose d'un délai de quinze jours pour faire valoir ses observations.

@@ -1,3 +1,5 @@
+# Article R7124-5
+
 L'instruction permet à la commission d'apprécier :
 
 1° Si l'activité faisant l'objet de la demande peut, compte tenu de ses difficultés et de sa moralité, être normalement confiée à l'enfant ;

@@ -1,3 +1,5 @@
+# Article R2272-9
+
 I. - La Commission nationale peut s'adjoindre à titre consultatif des représentants des départements ministériels intéressés.
 
 II. - Assistent à la Commission nationale, sans voix délibérative, des représentants d'employeurs nommés par arrêté du ministre chargé du travail comme suit :

@@ -1,3 +1,5 @@
+# Article R4461-30
+
 Pour la réalisation des formations, des arrêtés conjoints du ministre chargé du travail et, chacun en ce qui le concerne, des ministres intéressés, fixent :
 
 I. ― Pour la réalisation des formations, en tenant compte de l'ampleur et la nature du risque lié à chaque type d'intervention ou de travaux en milieu hyperbare :

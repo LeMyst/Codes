@@ -1,3 +1,5 @@
+# Article R4641-7
+
 En complément des missions prévues à l'article L. 4641-2-1, le comité national de prévention et de santé au travail :
 
 1° Contribue à la définition de la position française sur les questions stratégiques au niveau européen ou international en matière de santé et de sécurité au travail ;

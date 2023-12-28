@@ -1,3 +1,5 @@
+# Article L3141-16
+
 A défaut de stipulation dans la convention ou l'accord conclus en application de l'article L. 3141-15, l'employeur :
 
 1° Définit après avis, le cas échéant, du comité social et économique :

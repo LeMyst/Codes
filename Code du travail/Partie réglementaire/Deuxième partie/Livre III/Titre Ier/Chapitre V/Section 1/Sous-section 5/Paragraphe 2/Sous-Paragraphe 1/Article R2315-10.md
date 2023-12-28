@@ -1,3 +1,5 @@
+# Article R2315-10
+
 La formation est dispensée dès la première désignation des membres de la délégation du personnel du comité social et économique.
 
 Elle est dispensée selon un programme théorique et pratique préétabli qui tient compte :

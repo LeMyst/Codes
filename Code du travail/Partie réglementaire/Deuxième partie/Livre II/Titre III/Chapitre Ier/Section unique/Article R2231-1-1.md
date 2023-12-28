@@ -1,3 +1,5 @@
+# Article R2231-1-1
+
 I. – L'acte prévu au deuxième alinéa de l'article L. 2231-5-1 par lequel les parties peuvent convenir qu'une partie de la convention ou de l'accord ne doit pas faire l'objet de la publication prévue au premier alinéa de ce même article est signé par la majorité des organisations syndicales signataires de la convention ou de l'accord et :
 
 1° Pour les accords de groupe, d'entreprise et d'établissement, par le représentant légal du groupe, de l'entreprise ou de l'établissement ou pour un accord interentreprises par les représentants légaux de celles-ci ;

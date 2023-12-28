@@ -1,3 +1,5 @@
+# Article L6313-3
+
 Les actions de formation mentionnées au 1° de l'article L. 6313-1 ont pour objet :
 
 1° De permettre à toute personne sans qualification professionnelle ou sans contrat de travail d'accéder dans les meilleures conditions à un emploi ;

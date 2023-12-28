@@ -1,3 +1,5 @@
+# Article R4462-17
+
 Les bâtiments où s'effectuent des activités pyrotechniques n'ont ni étage ni sous-sol, sauf si cet étage ou ce sous-sol contient uniquement les installations permettant d'abriter les servitudes de ces bâtiments.
 
 Le présent article n'est pas applicable :

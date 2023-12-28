@@ -1,3 +1,5 @@
+# Article L1233-3
+
 Constitue un licenciement pour motif économique le licenciement effectué par un employeur pour un ou plusieurs motifs non inhérents à la personne du salarié résultant d'une suppression ou transformation d'emploi ou d'une modification, refusée par le salarié, d'un élément essentiel du contrat de travail, consécutives notamment :
 
 1° A des difficultés économiques caractérisées soit par l'évolution significative d'au moins un indicateur économique tel qu'une baisse des commandes ou du chiffre d'affaires, des pertes d'exploitation ou une dégradation de la trésorerie ou de l'excédent brut d'exploitation, soit par tout autre élément de nature à justifier de ces difficultés.

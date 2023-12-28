@@ -1,3 +1,5 @@
+# Article R4323-69
+
 Les échafaudages ne peuvent être montés, démontés ou sensiblement modifiés que sous la direction d'une personne compétente et par des travailleurs qui ont reçu une formation adéquate et spécifique aux opérations envisagées.\
 Le contenu de cette formation est précisé aux articles R. 4141-13 et R. 4141-17. Il comporte, notamment :\
 1° La compréhension du plan de montage, de démontage ou de transformation de l'échafaudage ;\

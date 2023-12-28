@@ -1,3 +1,5 @@
+# Article L8113-7
+
 Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 et les fonctionnaires de contrôle assimilés constatent les infractions par des procès-verbaux qui font foi jusqu'à preuve du contraire.
 
 Ces procès-verbaux sont transmis au procureur de la République. Un exemplaire est également adressé au représentant de l'Etat dans le département.

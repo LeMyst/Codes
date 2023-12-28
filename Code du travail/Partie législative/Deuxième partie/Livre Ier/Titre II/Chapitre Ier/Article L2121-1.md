@@ -1,3 +1,5 @@
+# Article L2121-1
+
 La représentativité des organisations syndicales est déterminée d'après les critères cumulatifs suivants :
 
 1° Le respect des valeurs républicaines ;

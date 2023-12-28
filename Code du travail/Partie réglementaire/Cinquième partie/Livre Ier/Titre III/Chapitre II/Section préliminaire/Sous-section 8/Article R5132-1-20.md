@@ -1,3 +1,5 @@
+# Article R5132-1-20
+
 I.-Peuvent être enregistrées dans le traitement, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à l'article R. 5132-1-19, des données appartenant aux catégories suivantes :
 
 1° Données d'identification du bénéficiaire d'un parcours ;

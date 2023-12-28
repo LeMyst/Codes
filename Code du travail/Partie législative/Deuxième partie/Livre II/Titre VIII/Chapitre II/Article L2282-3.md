@@ -1,3 +1,5 @@
+# Article L2282-3
+
 Les stipulations comprises dans les accords sur le droit d'expression doivent être complétées par des dispositions portant sur :
 
 1° La définition des unités de travail retenues comme cadre des réunions de conseils d'atelier ou de bureau. Ces unités doivent avoir une dimension réduite ;

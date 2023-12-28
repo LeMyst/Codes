@@ -1,3 +1,5 @@
+# Article R2421-14
+
 En cas de faute grave, l'employeur peut prononcer la mise à pied immédiate de l'intéressé jusqu'à la décision de l'inspecteur du travail.
 
 La consultation du comité social et économique a lieu dans un délai de dix jours à compter de la date de la mise à pied.

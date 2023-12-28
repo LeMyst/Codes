@@ -1,3 +1,5 @@
+# Article L6341-3
+
 Les stages pour lesquels les régions assurent le financement de la rémunération du stagiaire, lorsqu'il suit un stage agréé dans les conditions fixées à l'article L. 6341-4, sont :
 
 1° (Abrogé)

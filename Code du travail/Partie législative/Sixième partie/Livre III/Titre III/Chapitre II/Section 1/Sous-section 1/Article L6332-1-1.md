@@ -1,3 +1,5 @@
+# Article L6332-1-1
+
 I.-L'opérateur de compétences est agréé par l'autorité administrative pour gérer les fonds mentionnés aux 1° et c du 3° de l'article L. 6123-5. Il a une compétence nationale.
 
 II.-L'agrément est accordé aux opérateurs de compétences en fonction :

@@ -1,3 +1,5 @@
+# Article L1142-5
+
 Il incombe à l'employeur de prendre en compte les objectifs en matière d'égalité professionnelle entre les femmes et les hommes dans l'entreprise et les mesures permettant de les atteindre :
 
 1° Dans les entreprises dépourvues de délégué syndical ;

@@ -1,3 +1,5 @@
+# Article R4512-3
+
 Au cours de l'inspection commune préalable, le chef de l'entreprise utilisatrice :\
 1° Délimite le secteur de l'intervention des entreprises extérieures ;\
 2° Matérialise les zones de ce secteur qui peuvent présenter des dangers pour les travailleurs ;\

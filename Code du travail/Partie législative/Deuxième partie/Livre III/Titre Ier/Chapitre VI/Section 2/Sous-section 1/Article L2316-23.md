@@ -1,3 +1,5 @@
+# Article L2316-23
+
 Les comités sociaux et économiques d'établissement assurent et contrôlent la gestion de toutes les activités sociales et culturelles.
 
 Toutefois, les comités sociaux et économiques d'établissement peuvent confier au comité social et économique central la gestion d'activités communes.

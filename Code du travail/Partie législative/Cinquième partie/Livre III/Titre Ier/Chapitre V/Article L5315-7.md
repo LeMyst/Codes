@@ -1,3 +1,5 @@
+# Article L5315-7
+
 Les biens de l'établissement public relèvent de son domaine privé. Ils peuvent être librement gérés et aliénés dans les conditions du droit commun.
 
 Lorsqu'un bien appartenant à l'établissement public est nécessaire à la bonne exécution de ses missions de service public ou au développement de celles-ci, l'Etat peut s'opposer à la disposition de ce bien par cession ou apport sous quelque forme que ce soit, à la création d'une sûreté sur ce bien, ou subordonner la cession, la réalisation de l'apport ou la création de la sûreté à la condition qu'elle ne soit pas susceptible de porter préjudice à l'accomplissement de ces missions. Est nul de plein droit tout acte de cession, apport ou création de sûreté réalisé sans que l'Etat ait été mis à même de s'y opposer, en violation de son opposition ou en méconnaissance des conditions fixées à la réalisation de l'opération.

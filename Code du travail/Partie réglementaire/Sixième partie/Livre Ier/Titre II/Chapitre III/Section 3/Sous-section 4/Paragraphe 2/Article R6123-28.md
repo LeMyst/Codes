@@ -1,3 +1,5 @@
+# Article R6123-28
+
 La dotation mentionnée à l'article R. 6123-24 est versée selon un calendrier défini par convention entre l'Etat et France compétences.
 
 Les dotations mentionnées à l'article R. 6123-25 sont versées par trimestre.

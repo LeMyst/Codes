@@ -1,3 +1,5 @@
+# Article L4622-6
+
 Les dépenses afférentes aux services de prévention et de santé au travail sont à la charge des employeurs.
 
 Au sein des services communs à plusieurs établissements ou à plusieurs entreprises constituant une unité économique et sociale, ces frais sont répartis proportionnellement au nombre des salariés comptant chacun pour une unité.

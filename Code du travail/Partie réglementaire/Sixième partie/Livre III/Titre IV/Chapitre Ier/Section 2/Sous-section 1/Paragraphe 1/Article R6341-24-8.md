@@ -1,3 +1,5 @@
+# Article R6341-24-8
+
 Sont revalorisés le 1er avril de chaque année par application du coefficient mentionné à l'article L. 161-25 du code de la sécurité sociale :
 
 1° Les montants versés au titre de la rémunération des stages mentionnés aux 2° et 3° de l'article L. 6341-2 et à l'article L. 6341-3, sauf lorsque cette rémunération est déterminée en tenant compte d'un salaire antérieur ;

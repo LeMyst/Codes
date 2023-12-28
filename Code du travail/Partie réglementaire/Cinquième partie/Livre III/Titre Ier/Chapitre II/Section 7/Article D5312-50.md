@@ -1,3 +1,5 @@
+# Article D5312-50
+
 Est autorisée la création par Pôle emploi et par les organismes de placement spécialisés mentionnés à l'article L. 5214-3-1 d'un traitement automatisé de données à caractère personnel dénommé “ Traitement des données de santé nécessaires à l'accompagnement adapté des demandeurs d'emploi en situation de handicap ”.
 
 Les données sont enregistrées au sein du traitement automatisé de données à caractère personnel mentionné à l'article R. 5312-38 afin de permettre à Pôle emploi et aux organismes de placement spécialisés d'assurer :

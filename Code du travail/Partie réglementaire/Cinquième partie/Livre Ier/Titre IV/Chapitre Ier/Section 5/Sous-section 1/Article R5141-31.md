@@ -1,3 +1,5 @@
+# Article R5141-31
+
 En cas d'acceptation de la demande, l'opérateur conclut avec la personne, par délégation de l'Etat, un contrat d'accompagnement indiquant, parmi les trois phases définies à l'article R. 5141-29, la phase par laquelle commence l'accompagnement. Les phases d'aide au montage et d'aide à la structuration financière peuvent être réalisées concomitamment ou successivement.
 
 Le contrat d'accompagnement définit les engagements réciproques de l'opérateur et de la personne accompagnée.

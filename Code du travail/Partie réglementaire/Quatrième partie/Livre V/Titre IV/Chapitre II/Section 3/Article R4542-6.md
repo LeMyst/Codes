@@ -1,3 +1,5 @@
+# Article R4542-6
+
 L'écran de visualisation obéit aux caractéristiques suivantes :\
 1° Les caractères sont d'une bonne définition et formés d'une manière claire, d'une dimension suffisante et avec un espace adéquat entre les caractères et les lignes ;\
 2° L'image est stable ;\

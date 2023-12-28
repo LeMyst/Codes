@@ -1,3 +1,5 @@
+# Article R7421-1
+
 Le bulletin ou le carnet remis au travailleur à domicile, en application de l'article L. 7421-2, est établi en deux exemplaires au moins.\
 Il mentionne :\
 1° Le nom et l'adresse de l'établissement ou les nom, prénoms et adresse du donneur d'ouvrage ;\

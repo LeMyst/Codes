@@ -1,3 +1,5 @@
+# Article R4451-94
+
 A l'issue des situations d'exposition prévues à la sous-section 1, pendant la période où la dose reçue demeure supérieure à l'une des valeurs limites fixées à l'article R. 4451-6 et par dérogation aux dispositions de cet article, le travailleur peut être affecté à des travaux l'exposant aux rayonnements ionisants sous réserve de :
 
 1° La délivrance d'un nouvel avis d'aptitude préalable attestant l'absence de contre-indication médicale à ces travaux ;

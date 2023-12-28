@@ -1,3 +1,5 @@
+# Article R4451-107
+
 I.-Dans le cas où l'un des niveaux de référence mentionnés à l'article R. 4451-11 a été dépassé, l'employeur informe sans délai de ce dépassement le travailleur concerné.
 
 II.-Lorsque l'exposition d'un travailleur dépasse le niveau de référence mentionné au I de l'article R. 4451-11, la poursuite des actions mentionnées à l'article R. 4451-96 qui lui sont confiées est conditionnée à :

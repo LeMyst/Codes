@@ -1,3 +1,5 @@
+# Article L2242-15
+
 La négociation annuelle sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l'entreprise porte sur :
 
 1° Les salaires effectifs ;

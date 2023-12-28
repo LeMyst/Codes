@@ -1,3 +1,5 @@
+# Article L1253-3
+
 Sont également considérées comme des groupements d'employeurs :
 
 1° Les sociétés coopératives existantes qui développent, au bénéfice exclusif de leurs membres, les activités mentionnées à l'article L. 1253-1 ;

@@ -1,3 +1,5 @@
+# Article R4741-5
+
 Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait, pour l'entrepreneur ou le sous-traitant :\
 1° De ne pas avoir laissé les travailleurs émettre des opinions pendant les réunions du collège ou de les avoir sanctionnés ou licenciés, en méconnaissance de l'article L. 4532-11 ;\
 2° De ne pas avoir fait mentionner dans les contrats de sous-traitance l'obligation de participer à un collège interentreprises de sécurité, de santé et des conditions de travail, en méconnaissance de l'article L. 4532-12 ;\

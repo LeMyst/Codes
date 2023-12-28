@@ -1,3 +1,5 @@
+# Article L1262-5
+
 Un décret en Conseil d'Etat détermine :
 
 1° Les conditions et modalités d'application des dispositions relevant des matières énumérées à l'article L. 1262-4 ;

@@ -1,3 +1,5 @@
+# Article L4163-1
+
 I.-L'employeur déclare de façon dématérialisée aux caisses mentionnées au II les facteurs de risques professionnels mentionnés aux b, c, d du 2° et au 3° de l'article L. 4161-1, auxquels les travailleurs pouvant acquérir des droits au titre d'un compte professionnel de prévention, dans les conditions fixées au présent chapitre, sont exposés au-delà de certains seuils, appréciés après application des mesures de protection collective et individuelle.
 
 II.-La déclaration mentionnée au I est effectuée, selon les modalités prévues à l'article L. 133-5-3 du code de la sécurité sociale, auprès de la caisse mentionnée aux articles L. 215-1 ou L. 752-4 du même code ou à l'article L. 723-2 du code rural et de la pêche maritime dont relève l'employeur. Un décret en précise les modalités.

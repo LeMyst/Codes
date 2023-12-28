@@ -1,3 +1,5 @@
+# Article L2411-22
+
 Le licenciement du conseiller prud'homme ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette autorisation est également requise pour :

@@ -1,3 +1,5 @@
+# Article D1233-40
+
 La convention mentionnée aux articles L. 1233-85 et L. 1237-19-10 comporte notamment :
 
 1° Les limites géographiques du ou des bassins d'emploi affectés par le licenciement collectif ou par la rupture conventionnelle collective et concernés par les mesures qu'elle prévoit ;

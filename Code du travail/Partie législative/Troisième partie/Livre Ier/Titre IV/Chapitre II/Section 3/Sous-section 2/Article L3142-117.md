@@ -1,3 +1,5 @@
+# Article L3142-117
+
 Pour mettre en œuvre le droit à congé du salarié mentionné à l'article L. 3142-105, une convention ou un accord collectif d'entreprise ou, à défaut, une convention ou un accord de branche détermine :
 
 1° La durée maximale du congé ou de la période de travail à temps partiel ;

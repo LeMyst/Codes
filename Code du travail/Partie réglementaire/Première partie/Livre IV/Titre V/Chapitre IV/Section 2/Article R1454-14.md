@@ -1,3 +1,5 @@
+# Article R1454-14
+
 Le bureau de conciliation et d'orientation peut, en dépit de toute exception de procédure et même si le défendeur ne comparaît pas, ordonner :\
 1° La délivrance, le cas échéant, sous peine d'astreinte, de certificats de travail, de bulletins de paie et de toute pièce que l'employeur est tenu légalement de délivrer ;\
 2° Lorsque l'existence de l'obligation n'est pas sérieusement contestable :\

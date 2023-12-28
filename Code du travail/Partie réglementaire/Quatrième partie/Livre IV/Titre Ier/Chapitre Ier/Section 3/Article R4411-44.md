@@ -1,3 +1,5 @@
+# Article R4411-44
+
 L'organisme mentionné à l'article L. 4411-4 est habilité à fournir à toute personne qui en fait la demande et intéressée par la protection des travailleurs, notamment au médecin du travail et aux membres des comités d'hygiène et de sécurité des conditions de travail, les renseignements qu'il détient relatifs :
 
 1° Aux dangers que présente une substance ou un mélange qui la contient ;

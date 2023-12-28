@@ -1,3 +1,5 @@
+# Article L1226-1-1
+
 Lorsque la protection de la santé publique le justifie, en cas de risque sanitaire grave et exceptionnel, tel que prévu à l'article L. 16-10-1 du code de la sécurité sociale, notamment d'épidémie, nécessitant l'adoption en urgence de conditions adaptées pour le versement de l'indemnité complémentaire prévue à l'article L. 1226-1 du présent code, dérogatoires au droit commun, celles-ci peuvent être prévues par décret, pour une durée limitée qui ne peut excéder un an.
 
 Dans les conditions et limites fixées par ce décret, les dérogations mises en œuvre en application du premier alinéa du présent article peuvent porter sur :

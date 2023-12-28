@@ -1,3 +1,5 @@
+# Article L6241-1-1
+
 I.-La taxe d'apprentissage mentionnée à l'article L. 6241-1 est assise sur les revenus d'activités retenus pour le calcul de l'assiette des cotisations sociales mentionnée à l'article L. 242-1 du code de la sécurité sociale et à l'article L. 741-10 du code rural et de la pêche maritime.
 
 Toutefois, les rémunérations dues aux apprentis par les employeurs de moins de onze salariés, selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale, sont exonérées de la taxe d'apprentissage.

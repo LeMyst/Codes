@@ -1,3 +1,5 @@
+# Article R4453-8
+
 Lorsqu'il procède à l'évaluation des risques, l'employeur prend en considération :
 
 1° L'origine et les caractéristiques des émissions de champs électromagnétiques présents sur le lieu de travail ;

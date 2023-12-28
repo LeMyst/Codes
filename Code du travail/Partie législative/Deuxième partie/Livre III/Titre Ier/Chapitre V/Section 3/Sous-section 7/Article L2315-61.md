@@ -1,3 +1,5 @@
+# Article L2315-61
+
 L'employeur verse au comité social et économique une subvention de fonctionnement d'un montant annuel équivalent à :
 
 1° 0,20 % de la masse salariale brute dans les entreprises de cinquante à moins de deux mille salariés ;

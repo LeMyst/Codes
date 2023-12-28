@@ -1,3 +1,5 @@
+# Article D6323-20-4
+
 La commission paritaire interprofessionnelle régionale a pour mission :
 
 1° L'examen, l'autorisation et la prise en charge des projets de transition professionnelle prévus à l'article L. 6323-17-2 et des projets de reconversion professionnelle prévus au 4° du I de l'article L. 4163-7 ;

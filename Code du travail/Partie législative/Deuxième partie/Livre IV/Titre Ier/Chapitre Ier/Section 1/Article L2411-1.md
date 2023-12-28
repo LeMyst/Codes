@@ -1,3 +1,5 @@
+# Article L2411-1
+
 Bénéficie de la protection contre le licenciement prévue par le présent chapitre, y compris lors d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire, le salarié investi de l'un des mandats suivants :
 
 1° Délégué syndical ;

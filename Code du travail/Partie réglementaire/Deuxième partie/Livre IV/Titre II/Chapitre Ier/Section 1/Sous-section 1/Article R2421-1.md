@@ -1,3 +1,5 @@
+# Article R2421-1
+
 La demande d'autorisation de licenciement d'un délégué syndical, d'un salarié mandaté, d'un membre de la délégation du personnel au comité social et économique interentreprises ou d'un conseiller du salarié est adressée à l'inspecteur du travail dont dépend l'établissement dans les conditions définies à l'article L. 2421-3.
 
 Lorsque le délégué syndical bénéficie également de la protection prévue aux sections 3 et 4 du chapitre Ier du titre Ier de la partie législative, la demande est accompagnée du procès-verbal de la réunion du comité social et économique.

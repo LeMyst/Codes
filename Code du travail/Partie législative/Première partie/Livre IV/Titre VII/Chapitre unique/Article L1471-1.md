@@ -1,3 +1,5 @@
+# Article L1471-1
+
 Toute action portant sur l'exécution du contrat de travail se prescrit par deux ans à compter du jour où celui qui l'exerce a connu ou aurait dû connaître les faits lui permettant d'exercer son droit.
 
 Toute action portant sur la rupture du contrat de travail se prescrit par douze mois à compter de la notification de la rupture.

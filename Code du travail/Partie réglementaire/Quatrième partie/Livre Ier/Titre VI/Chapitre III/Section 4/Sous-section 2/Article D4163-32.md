@@ -1,3 +1,5 @@
+# Article D4163-32
+
 I.-Pour le contrôle de l'effectivité ou de l'ampleur de l'exposition aux facteurs de risques professionnels et de l'exhaustivité des données déclarées mentionné à l'article L. 4163-16, les employeurs sont tenus d'adresser ou de présenter aux agents mentionnés au deuxième alinéa du même article tout document que ceux-ci leur demandent aux fins de l'exercice de leur mission et de permettre auxdits agents l'accès aux locaux de l'exploitation ou de l'entreprise.
 
 Ces agents procèdent, dans le respect des secrets de fabrication et des procédés d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs fonctions, à toutes vérifications sur pièces et sur place portant sur l'exactitude des déclarations fournies en vue de déterminer les droits des salariés au titre du compte professionnel de prévention.

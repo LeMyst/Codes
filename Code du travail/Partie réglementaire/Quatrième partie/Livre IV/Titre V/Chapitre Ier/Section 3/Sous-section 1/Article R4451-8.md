@@ -1,3 +1,5 @@
+# Article R4451-8
+
 L'exposition des jeunes âgés de seize ans au moins et de moins de dix-huit ans aux rayonnements ionisants ne dépasse pas :
 
 1° Pour l'organisme entier, 6 millisieverts sur 12 mois consécutifs, évaluée à partir de la dose efficace :

@@ -1,3 +1,5 @@
+# Article L5212-1
+
 La mobilisation en faveur de l'emploi des travailleurs handicapés concerne tous les employeurs. A ce titre, ces derniers déclarent l'effectif total des bénéficiaires de l'obligation d'emploi mentionnés à l'article L. 5212-13 qu'ils emploient, selon des modalités fixées par décret.
 
 Les articles L. 5212-2 à L. 5212-17 s'appliquent à tout employeur occupant au moins vingt salariés, y compris les établissements publics industriels et commerciaux.

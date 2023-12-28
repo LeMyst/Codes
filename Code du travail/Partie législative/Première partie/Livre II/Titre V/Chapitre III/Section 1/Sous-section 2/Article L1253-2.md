@@ -1,3 +1,5 @@
+# Article L1253-2
+
 Les groupements d'employeurs sont constitués sous l'une des formes suivantes :
 
 1° Association régie par la loi du 1er juillet 1901 relative au contrat d'association ;

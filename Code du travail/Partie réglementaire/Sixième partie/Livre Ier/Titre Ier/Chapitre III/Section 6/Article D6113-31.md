@@ -1,3 +1,5 @@
+# Article D6113-31
+
 Le socle de connaissances et de compétences professionnelles mentionné au I de l'article D. 6113-30 et le module complémentaire mentionné au III du même article font chacun l'objet d'une certification, sur proposition des organisations syndicales de salariés représentatives au niveau national et interprofessionnel et des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel dans les conditions définies par arrêté du ministre chargé de la formation professionnelle.
 
 Chacune de ces certifications s'appuie sur un référentiel qui précise les connaissances et les compétences attendues et sur un référentiel d'évaluation qui détermine les modalités d'évaluation des acquis.

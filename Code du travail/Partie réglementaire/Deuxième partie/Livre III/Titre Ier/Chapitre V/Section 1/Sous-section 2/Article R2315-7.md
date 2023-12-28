@@ -1,3 +1,5 @@
+# Article R2315-7
+
 A défaut d'accord d'entreprise, le temps passé par les membres de la délégation du personnel du comité social et économique aux réunions mentionnées au 2° de l'article L. 2315-11 n'est pas déduit des heures de délégation prévues à l'article R. 2314-1 dès lors que la durée annuelle globale de ces réunions n'excède pas :
 
 -30 heures pour les entreprises de 300 salariés à 1000 salariés ;

@@ -1,3 +1,5 @@
+# Article R2315-52
+
 Un arrêté du ministre chargé du travail détermine :
 
 1° Les modalités et conditions d'accréditation des organismes mentionnés à l'article R. 2315-51 ;

@@ -1,3 +1,5 @@
+# Article L2412-3
+
 La rupture du contrat de travail à durée déterminée d'un membre élu de la délégation du personnel du comité social et économique ou d'un représentant syndical au comité social et économique avant l'échéance du terme en raison d'une faute grave ou de l'inaptitude constatée par le médecin du travail, ou à l'arrivée du terme lorsque l'employeur n'envisage pas de renouveler un contrat comportant une clause de renouvellement, ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette procédure s'applique également à l'ancien membre élu de la délégation du personnel du comité social et économique ou au candidat aux fonctions de membre élu de la délégation du personnel du comité social et économique et à l'ancien représentant syndical au comité social et économique durant les délais prévus aux articles L. 2411-5 et L. 2411-7.

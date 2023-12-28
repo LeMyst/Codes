@@ -1,3 +1,5 @@
+# Article D6325-31
+
 L'accueil du salarié dans d'autres entreprises que celles qui l'emploie fait l'objet d'une convention conclue entre l'employeur, les entreprises d'accueil et le salarié.
 
 La convention précise notamment :

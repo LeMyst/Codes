@@ -1,3 +1,5 @@
+# Article D4626-2
+
 Le service de prévention et de santé au travail est organisé sous la forme :
 
 1° Soit d'un service autonome de prévention et de santé au travail propre à l'établissement ;

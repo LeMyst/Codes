@@ -1,3 +1,5 @@
+# Article L2312-42
+
 Lors du dépôt d'une offre publique d'acquisition, l'employeur de l'entreprise sur laquelle porte l'offre et l'employeur qui est l'auteur de cette offre réunissent immédiatement leur comité social et économique respectif pour les en informer.
 
 L'employeur auteur de l'offre réunit le comité social et économique dans les conditions prévues à l'article L. 2312-49.

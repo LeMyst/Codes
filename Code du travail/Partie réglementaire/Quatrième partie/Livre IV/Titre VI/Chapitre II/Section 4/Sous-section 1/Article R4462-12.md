@@ -1,3 +1,5 @@
+# Article R4462-12
+
 I. - A l'intérieur de l'enceinte pyrotechnique, des installations pyrotechniques distinctes sont prévues pour :
 
 1° L'étude, l'expérimentation et le contrôle des substances ou des objets explosifs ;

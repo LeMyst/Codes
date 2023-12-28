@@ -1,3 +1,5 @@
+# Article R6351-17
+
 I.-Les données à caractère personnel enregistrées dans le traitement mentionné à l'article R. 6351-13 sont conservées pour les nécessités du contrôle prévu à l'article L. 6361-2 pendant toute la durée de validité de la déclaration d'activité, y compris rectificative, et jusqu'à quatre ans après la fin de validité de cette déclaration.
 
 En cas de refus d'enregistrement de la déclaration d'activité, les données sont conservées pendant une durée de quatre ans à compter de la date de notification du refus et, au-delà de cette date, en cas de recours administratif ou contentieux, jusqu'à la fin de la procédure de recours.

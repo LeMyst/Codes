@@ -1,3 +1,5 @@
+# Article L1242-6
+
 Outre les cas prévus à l'article L. 1242-5, il est interdit de conclure un contrat de travail à durée déterminée :
 
 1° Pour remplacer un salarié dont le contrat de travail est suspendu à la suite d'un conflit collectif de travail ;

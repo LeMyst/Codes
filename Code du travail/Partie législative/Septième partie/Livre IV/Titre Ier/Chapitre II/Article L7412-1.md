@@ -1,3 +1,5 @@
+# Article L7412-1
+
 Est travailleur à domicile toute personne qui :
 
 1° Exécute, moyennant une rémunération forfaitaire, pour le compte d'un ou plusieurs établissements, un travail qui lui est confié soit directement, soit par un intermédiaire ;

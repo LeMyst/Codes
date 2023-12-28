@@ -1,3 +1,5 @@
+# Article R6222-66
+
 La convention conclue entre l'apprenti et ses représentants légaux pour les mineurs, l'employeur en France, l'employeur à l'étranger, le centre de formation en France et, le cas échéant, le centre de formation à l'étranger, en application du II de l'article L. 6222-42, précise, notamment :
 
 1° La date de début et de fin de la période de mobilité ;

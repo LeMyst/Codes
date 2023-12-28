@@ -1,3 +1,5 @@
+# Article L2232-23-1
+
 I. – Dans les entreprises dont l'effectif habituel est compris entre onze et moins de cinquante salariés, en l'absence de délégué syndical dans l'entreprise ou l'établissement, les accords d'entreprise ou d'établissement peuvent être négociés, conclus, révisés ou dénoncés :
 
 1° Soit par un ou plusieurs salariés expressément mandatés par une ou plusieurs organisations syndicales représentatives dans la branche ou, à défaut, par une ou plusieurs organisations syndicales représentatives au niveau national et interprofessionnel, étant membre ou non de la délégation du personnel du comité social et économique. A cet effet, une même organisation ne peut mandater qu'un seul salarié ;

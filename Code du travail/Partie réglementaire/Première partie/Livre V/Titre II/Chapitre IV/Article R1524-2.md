@@ -1,3 +1,5 @@
+# Article R1524-2
+
 Pour l'application à Mayotte de l'article R. 1221-2 :
 
 1° Les mots : “ à l'article R. 243-2 du code de la sécurité sociale ” sont remplacés par les mots : “ à l'article 1er du décret n° 98-1162 du 16 décembre 1998 fixant les règles applicables pour le recouvrement des ressources des régimes de sécurité sociale en vigueur dans la collectivité territoriale de Mayotte et pour le placement des disponibilités de la caisse de prévoyance sociale de Mayotte ” ;

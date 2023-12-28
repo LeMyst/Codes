@@ -1,3 +1,5 @@
+# Article R4523-17
+
 Les établissements comprenant une installation nucléaire de base qui ne sont pas soumis aux dispositions relatives à la commission santé, sécurité et conditions de travail élargie, en application de l'article L. 4523-12, répondent aux caractéristiques suivantes :
 
 1° Une instance est exclusivement dédiée au dialogue interentreprises dans le but d'améliorer la sécurité des travailleurs et de contribuer à la prévention des risques professionnels liés à l'interférence entre les activités, les installations et les matériels des différentes entreprises présentes sur un même lieu de travail. Elle se réunit au moins une fois par an ;

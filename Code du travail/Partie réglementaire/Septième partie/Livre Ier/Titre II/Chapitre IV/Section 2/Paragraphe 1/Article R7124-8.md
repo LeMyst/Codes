@@ -1,3 +1,5 @@
+# Article R7124-8
+
 La demande d'agrément ou de renouvellement d'agrément présentée par une agence de mannequins en vue d'engager, pour exercer l'activité mentionnée au 3° de l'article L. 7124-1, des enfants est accompagnée des documents suivants :
 
 1 Un extrait d'acte de naissance des dirigeants, associés et gérants de l'agence ;

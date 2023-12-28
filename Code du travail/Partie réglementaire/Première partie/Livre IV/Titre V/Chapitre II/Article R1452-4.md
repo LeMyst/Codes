@@ -1,3 +1,5 @@
+# Article R1452-4
+
 A réception des exemplaires de la requête et du bordereau mentionnés au deuxième alinéa de l'article R. 1452-2, le greffe convoque le défendeur par lettre recommandée avec demande d'avis de réception. La convocation indique :
 
 1° Les nom, profession et domicile du demandeur ;

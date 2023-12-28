@@ -1,3 +1,5 @@
+# Article R6523-2-4-1
+
 En application de l'article L. 6523-1-1, un opérateur de compétences qui n'est pas implanté dans un territoire d'outre-mer peut conclure avec un opérateur de compétences qui y est implanté une convention ayant pour objet l'accomplissement de ses missions dans ce territoire au bénéfice des entreprises soumises à une convention collective qui y est applicable et des entreprises du territoire concerné dont l'activité principale relève du champ professionnel pour lequel il est agréé. Une convention peut concerner plusieurs territoires d'outre-mer.
 
 Les conventions mentionnées au précédent alinéa font notamment état des orientations, priorités de formation, décisions de gestion et conditions de prise en charge des actions de formation, telles qu'elles ont été définies par l'opérateur de compétences non implanté sur le ou les territoires concernés, et prévoient les modalités de financement par l'opérateur de compétences non implanté des actions réalisées localement par l'opérateur de compétences implanté.

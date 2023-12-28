@@ -1,3 +1,5 @@
+# Article R4643-32
+
 Un représentant mandaté du comité régional de prévention est invité et assiste avec voix consultative :
 
 1° Aux réunions de la commission santé, sécurité et conditions de travail ;

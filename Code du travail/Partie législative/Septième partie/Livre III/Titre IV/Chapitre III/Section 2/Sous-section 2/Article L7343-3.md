@@ -1,3 +1,5 @@
+# Article L7343-3
+
 La représentativité des organisations représentant les travailleurs définis à l'article L. 7341-1 recourant pour leur activité aux plateformes mentionnées à l'article L. 7342-1 est déterminée d'après les critères cumulatifs suivants, appréciés dans le cadre du secteur considéré :
 
 1° Le respect des valeurs républicaines ;

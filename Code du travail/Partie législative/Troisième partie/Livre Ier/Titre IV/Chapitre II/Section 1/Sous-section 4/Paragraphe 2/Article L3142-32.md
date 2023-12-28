@@ -1,3 +1,5 @@
+# Article L3142-32
+
 Pour mettre en œuvre le droit à congé du salarié mentionné à l'article L. 3142-28, une convention ou un accord collectif d'entreprise ou, à défaut, une convention ou un accord de branche détermine :
 
 1° Les durées minimale et maximale du congé et le nombre de renouvellements ;

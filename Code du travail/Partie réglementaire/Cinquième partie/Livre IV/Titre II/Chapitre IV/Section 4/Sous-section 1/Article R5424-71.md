@@ -1,3 +1,5 @@
+# Article R5424-71
+
 I.- Pour l'application de la condition de revenus antérieurs d'activité mentionnée au 3° de l'article R. 5424-70, sont pris en compte les revenus déclarés par le travailleur indépendant à l'administration fiscale au titre de l'impôt sur le revenu et correspondant à l'activité non salariée mentionnée à l'article L. 5424-25.
 
 S'agissant des travailleurs indépendants relevant des régimes d'imposition prévus aux articles 50-0 ter et 102 ter du code général des impôts, sont pris en compte les chiffres d'affaires ou recettes déclarés, diminués des abattements mentionnés aux mêmes articles. S'agissant des travailleurs indépendants soumis au régime d'imposition défini à l' article 64 bis du code général des impôts , sont prises en compte les recettes de l'année d'imposition diminuées de l'abattement mentionné au même article.

@@ -1,3 +1,5 @@
+# Article L1221-12
+
 Un décret en Conseil d'Etat détermine :
 
 1° Les conditions dans lesquelles la déclaration préalable à l'embauche est réalisée ;

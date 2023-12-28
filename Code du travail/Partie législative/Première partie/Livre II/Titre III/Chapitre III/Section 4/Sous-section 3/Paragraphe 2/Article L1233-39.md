@@ -1,3 +1,5 @@
+# Article L1233-39
+
 Dans les entreprises de moins de cinquante salariés, l'employeur notifie au salarié le licenciement pour motif économique par lettre recommandée avec avis de réception.
 
 La lettre de notification ne peut être adressée avant l'expiration d'un délai courant à compter de la notification du projet de licenciement à l'autorité administrative.

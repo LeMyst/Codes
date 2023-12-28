@@ -1,3 +1,5 @@
+# Article L6121-1
+
 Sans préjudice des compétences de l'Etat en matière de formation professionnelle initiale des jeunes sous statut scolaire et universitaire et en matière de service militaire adapté prévu à l'article L. 4132-12 du code de la défense, la région est chargée de la politique régionale d'accès à la formation professionnelle des jeunes et des adultes à la recherche d'un emploi ou d'une nouvelle orientation professionnelle.
 
 Elle assure, dans le cadre de cette compétence, les missions suivantes :

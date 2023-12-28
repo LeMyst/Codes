@@ -1,3 +1,5 @@
+# Article R2272-15-1
+
 La sous-commission de la protection sociale complémentaire mentionnée au 5° de l'article R. 2272-10 est composée comme suit :
 
 1° Le ministre chargé de la sécurité sociale ou son représentant, président ;

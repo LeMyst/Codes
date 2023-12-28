@@ -1,3 +1,5 @@
+# Article R1253-40
+
 La société peut :
 
 1° Mettre à la disposition de l'un des membres du groupement d'employeurs un des salariés qu'elle emploie qui n'est pas affecté à cette activité ;

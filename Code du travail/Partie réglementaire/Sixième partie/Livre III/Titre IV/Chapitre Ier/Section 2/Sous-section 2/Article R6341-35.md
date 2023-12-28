@@ -1,3 +1,5 @@
+# Article R6341-35
+
 Le directeur de l'établissement ou du centre de formation :
 
 1° Fait connaître à l'institution ou au service chargé de la gestion des rémunérations tout changement survenu dans la situation des stagiaires susceptible de modifier le montant notifié par la décision mentionnée à l'article R. 6341-36 ;

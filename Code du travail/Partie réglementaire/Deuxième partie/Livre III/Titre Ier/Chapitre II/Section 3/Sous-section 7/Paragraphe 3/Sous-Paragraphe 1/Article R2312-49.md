@@ -1,3 +1,5 @@
+# Article R2312-49
+
 Les ressources du comité social et économique en matière d'activités sociales et culturelles sont constituées par :
 
 1° Les sommes versées par l'employeur pour le fonctionnement des institutions sociales de l'entreprise qui ne sont pas légalement à sa charge, à l'exclusion des sommes affectées aux retraités ;

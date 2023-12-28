@@ -1,3 +1,5 @@
+# Article R4643-3
+
 Afin de remplir sa mission, l'Organisme professionnel de prévention du bâtiment et des travaux publics :\
 1° Participe à la veille en matière de risques professionnels ;\
 2° Conduit les études relatives aux conditions de travail ;\

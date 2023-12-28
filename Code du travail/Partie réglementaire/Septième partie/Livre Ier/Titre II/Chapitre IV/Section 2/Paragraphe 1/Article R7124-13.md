@@ -1,3 +1,5 @@
+# Article R7124-13
+
 La durée de la suspension de l'agrément ne peut excéder un mois. Dans ce délai, la commission, saisie par l'autorité administrative définie à l'article R. 7124-1 propose à cette dernière, après que l'agence intéressée a été mise en mesure de présenter ses observations :
 
 1° Soit le retrait de l'agrément ;

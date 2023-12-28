@@ -1,3 +1,5 @@
+# Article R2242-4
+
 Dans le délai prévu à l'article R. 2242-3, l'employeur lui communique, par tout moyen permettant de donner date certaine à leur réception, les éléments apportant la preuve qu'il respecte bien la ou les obligations mentionnées dans la mise en demeure.
 
 Ces éléments sont :

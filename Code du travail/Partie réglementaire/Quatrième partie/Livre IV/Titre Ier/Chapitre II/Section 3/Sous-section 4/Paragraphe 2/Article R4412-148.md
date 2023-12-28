@@ -1,3 +1,5 @@
+# Article R4412-148
+
 Lorsque la durée prévisible de l'intervention est supérieure à cinq jours, l'employeur transmet, en outre, à l'agent de contrôle de l'inspection du travail et au service de prévention de l'organisme de sécurité sociale du lieu de l'intervention ainsi que, le cas échéant, à l'office professionnel de prévention du bâtiment et des travaux publics :
 
 1° Le lieu, la date de commencement et la durée probable de l'intervention ;

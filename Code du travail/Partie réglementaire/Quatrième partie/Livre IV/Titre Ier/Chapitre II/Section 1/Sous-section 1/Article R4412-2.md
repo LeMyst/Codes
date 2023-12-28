@@ -1,3 +1,5 @@
+# Article R4412-2
+
 Pour l'application du présent chapitre, on entend par :
 
 1° Activité impliquant des agents chimiques, tout travail dans lequel des agents chimiques sont utilisés ou destinés à être utilisés dans tout processus, y compris la production, la manutention, le stockage, le transport, l'élimination et le traitement, ou au cours duquel de tels agents sont produits ;

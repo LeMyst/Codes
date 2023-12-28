@@ -1,3 +1,5 @@
+# Article D1253-48
+
 La commission mixte nationale mentionnée à l'article D. 1253-47 se réunit sur convocation de la Fédération française des groupements d'employeurs pour l'insertion et la qualification, qui en assure le secrétariat. Elle comprend :
 
 1° Trois représentants de l'Etat nommés par le ministre chargé de l'emploi ;

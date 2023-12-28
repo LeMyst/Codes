@@ -1,3 +1,5 @@
+# Article R4425-6
+
 L'employeur organise au bénéfice des travailleurs une formation à la sécurité portant sur :\
 1° Les risques pour la santé et les prescriptions en matière d'hygiène ;\
 2° Les précautions à prendre pour éviter l'exposition ;\

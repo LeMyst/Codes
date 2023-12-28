@@ -1,3 +1,5 @@
+# Article L5132-2
+
 L'Etat peut conclure des conventions prévoyant, le cas échéant, des aides financières avec :
 
 1° Les employeurs dont l'activité a spécifiquement pour objet l'insertion par l'activité économique ;

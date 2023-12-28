@@ -1,3 +1,5 @@
+# Article L2143-13
+
 Chaque délégué syndical dispose d'un temps nécessaire à l'exercice de ses fonctions.
 
 Ce temps est au moins égal à :

@@ -1,3 +1,5 @@
+# Article R5213-42
+
 La demande de reconnaissance de la lourdeur du handicap est présentée par l'employeur au moyen d'un formulaire dont le modèle est fixé par arrêté conjoint des ministres chargés de l'emploi et des personnes handicapées.
 
 Ce formulaire, dûment renseigné et signé, est accompagné des pièces suivantes :

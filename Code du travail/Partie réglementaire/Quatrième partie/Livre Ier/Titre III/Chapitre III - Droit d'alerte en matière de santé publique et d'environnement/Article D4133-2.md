@@ -1,3 +1,5 @@
+# Article D4133-2
+
 L'alerte du représentant du personnel au comité social et économique, prévue à l'article L. 4133-2, est consignée sur le registre prévu à l'article D. 4133-1.
 
 Cette alerte est datée et signée.

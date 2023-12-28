@@ -1,3 +1,5 @@
+# Article R5134-53
+
 L'employeur informe, dans un délai franc de sept jours, de toute suspension ou rupture du contrat de travail qui interviendrait avant la fin de l'attribution de l'aide à l'insertion professionnelle :
 
 1° L'autorité ayant attribué l'aide ;

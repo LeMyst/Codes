@@ -1,3 +1,5 @@
+# Article D6323-8
+
 I.-Sans préjudice des dispositions de l'article L. 6321-1, la préparation à l'épreuve théorique du code de la route et à l'épreuve pratique du permis de conduire autorisant la conduite des véhicules des catégories B, C1, C, D1, D, C1E, CE, D1E, DE, mentionnées à l' article R. 221-4 du code de la route est éligible au compte personnel de formation dans les conditions suivantes :
 
 1° L'obtention du permis de conduire contribue à la réalisation d'un projet professionnel ou à favoriser la sécurisation du parcours professionnel du titulaire du compte ;

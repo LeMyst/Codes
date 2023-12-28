@@ -1,3 +1,5 @@
+# Article R4412-97
+
 I. - Le donneur d'ordre, le maître d'ouvrage ou le propriétaire d'immeubles par nature ou par destination, d'équipements, de matériels ou d'articles qui décide d'une opération comportant des risques d'exposition des travailleurs à l'amiante fait réaliser la recherche d'amiante mentionnée à l'article L. 4412-2 dans les conditions prévues par le présent paragraphe.
 
 Ces risques, appréciés par la personne mentionnée à l'alinéa précédent, peuvent notamment résulter du fait que l'opération porte sur des immeubles, équipements, matériels ou articles construits ou fabriqués avant l'entrée en vigueur des dispositions du décret n° 96-1133 du 24 décembre 1996 relatif à l'interdiction de l'amiante, pris en application du code du travail et du code de la consommation ou auxquels l'interdiction prévue par ce décret n'est pas applicable.

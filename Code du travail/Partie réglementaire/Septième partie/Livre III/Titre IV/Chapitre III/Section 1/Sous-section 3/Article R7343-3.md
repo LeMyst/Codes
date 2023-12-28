@@ -1,3 +1,5 @@
+# Article R7343-3
+
 I.-Afin de préparer et de permettre le vote électronique prévu à l'article L. 7343-9, il est créé un traitement automatisé de données à caractère personnel placé sous la responsabilité de l'Autorité des relations sociales des plateformes d'emploi.
 
 Les catégories de données à caractère personnel traitées sont les suivantes :

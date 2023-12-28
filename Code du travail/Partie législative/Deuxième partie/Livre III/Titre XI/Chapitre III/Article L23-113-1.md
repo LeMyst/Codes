@@ -1,3 +1,5 @@
+# Article L23-113-1
+
 Les commissions paritaires régionales interprofessionnelles ont pour compétence :
 
 1° De donner aux salariés et aux employeurs toutes informations ou tous conseils utiles sur les dispositions légales ou conventionnelles qui leur sont applicables ;

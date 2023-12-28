@@ -1,3 +1,5 @@
+# Article L2314-13
+
 La répartition des sièges entre les différentes catégories de personnel et la répartition du personnel dans les collèges électoraux font l'objet d'un accord entre l'employeur et les organisations syndicales conclu selon les conditions de l'article L. 2314-6.
 
 Cet accord mentionne la proportion de femmes et d'hommes composant chaque collège électoral.

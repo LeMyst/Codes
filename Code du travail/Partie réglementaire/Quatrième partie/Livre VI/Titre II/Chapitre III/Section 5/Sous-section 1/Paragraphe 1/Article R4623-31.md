@@ -1,3 +1,5 @@
+# Article R4623-31
+
 Un entretien infirmier peut être mis en place en accord avec le médecin du travail et sous sa responsabilité.
 
 L'infirmier peut également participer à des actions en milieu de travail et d'information collectives conçues en collaboration avec le médecin du travail et validées par lui.

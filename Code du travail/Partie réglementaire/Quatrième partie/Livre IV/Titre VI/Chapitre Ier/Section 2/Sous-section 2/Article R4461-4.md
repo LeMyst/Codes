@@ -1,3 +1,5 @@
+# Article R4461-4
+
 I. ― L'employeur désigne une personne chargée d'assurer la fonction de conseiller à la prévention hyperbare. Sous la responsabilité de l'employeur, ce conseiller participe notamment :
 
 1° A l'évaluation des risques prévue à l'article R. 4461-3 ;

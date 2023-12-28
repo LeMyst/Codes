@@ -1,3 +1,5 @@
+# Article R6331-64
+
 I. ― Il est créé au sein de l'opérateur de compétences chargé de gérer la contribution mentionné à l'article L. 6331-55 une section particulière chargée de gérer les contributions mentionnées à l'article L. 6331-65 du présent code.
 
 II. ― Le conseil d'administration de l'opérateur de compétences arrête, sur proposition du conseil de gestion de la section mentionnée au I, les services et actions de formation susceptibles d'êtres financés, les priorités, les critères et les conditions de prise en charge des demandes de formation présentées par les artistes auteurs. A défaut de proposition, le conseil d'administration délibère valablement sur ces questions.

@@ -1,3 +1,5 @@
+# Article D1242-3
+
 En application du 2° de l'article L. 1242-3, un contrat de travail à durée déterminée peut être conclu lorsque l'employeur s'engage à assurer un complément de formation professionnelle aux :
 
 1° Candidats effectuant un stage en vue d'accéder à un établissement d'enseignement ;

@@ -1,3 +1,5 @@
+# Article R4451-56
+
 I.-Lorsque l'exposition du travailleur ne peut être évitée par la mise en œuvre de moyen de protection collective, l'employeur met à disposition des équipements de protection individuelle, appropriés et adaptés afin de ramener cette exposition à un niveau aussi bas que raisonnablement possible.
 
 Il veille à leur port effectif.

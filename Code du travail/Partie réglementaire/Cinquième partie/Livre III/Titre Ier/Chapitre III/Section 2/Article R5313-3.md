@@ -1,3 +1,5 @@
+# Article R5313-3
+
 L'aide de l'Etat mentionnée à l'article L. 5313-1 est attribuée, par le préfet de région, aux maisons de l'emploi, pour la mise en œuvre, à partir d'un diagnostic territorial, des actions suivantes :
 
 1° Participation à l'anticipation des mutations économiques ;

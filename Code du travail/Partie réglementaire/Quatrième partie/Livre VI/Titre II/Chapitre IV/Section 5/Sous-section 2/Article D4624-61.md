@@ -1,3 +1,5 @@
+# Article D4624-61
+
 Le service de prévention et de santé au travail interentreprises de l'employeur principal apprécie, compte-tenu des informations dont il dispose, notamment celles transmises par les employeurs du travailleur, si celui-ci répond aux conditions prévues à l'article D. 4624-59.
 
 En tant que de besoin, l'employeur peut demander à son travailleur de l'informer de la conclusion d'autres contrats de travail auprès d'un ou plusieurs autres employeurs pendant la durée de son contrat, afin qu'il en informe, le cas échéant, son service de prévention et de santé au travail.

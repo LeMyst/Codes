@@ -1,3 +1,5 @@
+# Article L6241-5
+
 Sont habilités à percevoir le solde de la taxe d'apprentissage au titre des dépenses mentionnées au 1° de l'article L. 6241-4 :
 
 1° Les établissements publics d'enseignement du second degré ;

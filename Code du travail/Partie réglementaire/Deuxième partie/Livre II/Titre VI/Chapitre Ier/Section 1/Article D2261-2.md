@@ -1,3 +1,5 @@
+# Article D2261-2
+
 La convention de branche susceptible d'extension peut contenir, sans que cette énumération soit limitative, des stipulations concernant :\
 1° Les conditions particulières de travail :\
 a) Heures supplémentaires ;\

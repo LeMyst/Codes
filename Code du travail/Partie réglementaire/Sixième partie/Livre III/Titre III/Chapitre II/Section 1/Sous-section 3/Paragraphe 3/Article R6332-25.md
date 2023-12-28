@@ -1,3 +1,5 @@
+# Article R6332-25
+
 I.-Le paiement des frais de formation pris en charge par les opérateurs de compétences est réalisé après exécution des actions mentionnées à l'article L. 6313-1.
 
 II.-Pour les actions mentionnées aux 1° à 3° de l'article L. 6313-1, les parties peuvent convenir d'un échelonnement des paiements au fur et à mesure du déroulement des actions de formation. Cet échelonnement peut être assorti d'une avance dont le montant ne peut être supérieur à 30 % du prix convenu.

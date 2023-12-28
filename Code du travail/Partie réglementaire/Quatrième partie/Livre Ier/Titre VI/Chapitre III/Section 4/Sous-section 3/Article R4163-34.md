@@ -1,3 +1,5 @@
+# Article R4163-34
+
 I.-En cas de désaccord sur le nombre de points qui lui a été communiqué par l'organisme gestionnaire au niveau local à partir des données déclarées par l'employeur ou lorsqu'il n'a reçu aucune information à la date mentionnée au même alinéa et que cette situation résulte d'un différend avec son employeur sur l'exposition elle-même, le salarié doit, préalablement à la saisine de l'organisme, porter sa réclamation devant l'employeur.
 
 Cette réclamation, à laquelle est jointe, le cas échéant, une copie de l'information visée au deuxième alinéa de l'article D. 4163-31, est adressée à l'employeur par tout moyen permettant d'en attester la date de réception.

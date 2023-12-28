@@ -1,3 +1,5 @@
+# Article L1235-7-1
+
 L'accord collectif mentionné à l'article L. 1233-24-1, le document élaboré par l'employeur mentionné à l'article L. 1233-24-4, le contenu du plan de sauvegarde de l'emploi, les décisions prises par l'administration au titre de l'article L. 1233-57-5 et la régularité de la procédure de licenciement collectif ne peuvent faire l'objet d'un litige distinct de celui relatif à la décision de validation ou d'homologation mentionnée à l'article L. 1233-57-4.
 
 Ces litiges relèvent de la compétence, en premier ressort, du tribunal administratif, à l'exclusion de tout autre recours administratif ou contentieux.

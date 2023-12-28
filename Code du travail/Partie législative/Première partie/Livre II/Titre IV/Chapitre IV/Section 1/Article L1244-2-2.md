@@ -1,3 +1,5 @@
+# Article L1244-2-2
+
 I. – Dans les branches mentionnées à l'article L. 1244-2-1, à défaut de stipulations conventionnelles au niveau de la branche ou de l'entreprise, l'employeur informe le salarié sous contrat de travail à caractère saisonnier, par tout moyen permettant de conférer date certaine à cette information, des conditions de reconduction de son contrat avant l'échéance de ce dernier.
 
 II. – Dans les branches mentionnées à l'article L. 1244-2-1, à défaut de stipulations conventionnelles au niveau de la branche ou de l'entreprise, tout salarié ayant été embauché sous contrat de travail à caractère saisonnier dans la même entreprise bénéficie d'un droit à la reconduction de son contrat dès lors que :

@@ -1,3 +1,5 @@
+# Article R5134-165
+
 L'emploi d'avenir est conclu sous la forme, selon le cas :
 
 1° S'agissant d'un employeur mentionné au 2° ou au 3° de l'article L. 5134-111, d'un contrat d'accompagnement dans l'emploi à durée déterminée, d'au moins douze mois et d'au plus trente-six mois, régi par les dispositions de la section première-1 et de la section 2 du présent chapitre, sous réserve des dispositions spécifiques prévues par la présente section ;

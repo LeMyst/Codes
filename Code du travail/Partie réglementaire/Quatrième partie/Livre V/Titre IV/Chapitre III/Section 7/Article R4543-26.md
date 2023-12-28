@@ -1,3 +1,5 @@
+# Article R4543-26
+
 Le montage et le démontage des ascenseurs sont réalisés en suivant une méthode sûre. Celle-ci est établie pour le montage et, le cas échéant, pour le démontage sur la base des éléments fournis par le constructeur.
 
 La méthode de montage des ascenseurs tient, notamment, compte des documentations et indications prévues à l'article R. 134-31 du code de la construction et de l'habitation.

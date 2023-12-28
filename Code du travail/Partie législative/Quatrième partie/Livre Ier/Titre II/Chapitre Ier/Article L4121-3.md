@@ -1,3 +1,5 @@
+# Article L4121-3
+
 L'employeur, compte tenu de la nature des activités de l'établissement, évalue les risques pour la santé et la sécurité des travailleurs, y compris dans le choix des procédés de fabrication, des équipements de travail, des substances ou préparations chimiques, dans l'aménagement ou le réaménagement des lieux de travail ou des installations, dans l'organisation du travail et dans la définition des postes de travail. Cette évaluation des risques tient compte de l'impact différencié de l'exposition au risque en fonction du sexe.
 
 Apportent leur contribution à l'évaluation des risques professionnels dans l'entreprise :

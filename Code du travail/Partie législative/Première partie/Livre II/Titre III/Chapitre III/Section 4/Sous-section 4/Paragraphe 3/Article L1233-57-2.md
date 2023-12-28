@@ -1,3 +1,5 @@
+# Article L1233-57-2
+
 L'autorité administrative valide l'accord collectif mentionné à l'article L. 1233-24-1 dès lors qu'elle s'est assurée de :
 
 1° Sa conformité aux articles L. 1233-24-1 à L. 1233-24-3 ;

@@ -1,3 +1,5 @@
+# Article L1237-16
+
 La présente section n'est pas applicable aux ruptures de contrats de travail résultant :
 
 1° Des accords issus de la négociation mentionnée aux articles L. 2242-20 et L. 2242-21 ;

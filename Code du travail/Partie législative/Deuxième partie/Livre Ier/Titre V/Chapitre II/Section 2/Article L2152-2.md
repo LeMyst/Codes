@@ -1,3 +1,5 @@
+# Article L2152-2
+
 Sont représentatives au niveau national et multi-professionnel les organisations professionnelles d'employeurs :
 
 1° Qui satisfont aux critères mentionnés aux 1° à 5° de l'article L. 2151-1 ;

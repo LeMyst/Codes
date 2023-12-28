@@ -1,3 +1,5 @@
+# Article R6523-19
+
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelle est composé, outre le préfet ou son représentant et, selon le cas, le président du conseil régional en Guadeloupe et à La Réunion, le président de l'assemblée de Guyane ou le président du conseil exécutif de la Martinique, de membres nommés par arrêté du préfet :
 
 1° Huit représentants de l'Etat :

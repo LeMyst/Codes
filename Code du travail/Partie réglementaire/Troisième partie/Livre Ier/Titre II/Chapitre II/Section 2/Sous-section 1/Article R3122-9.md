@@ -1,3 +1,5 @@
+# Article R3122-9
+
 La demande d'autorisation d'affectation de travailleurs à des postes de nuit présentée à l'inspecteur du travail par l'employeur sur le fondement de l'article L. 3122-21 justifie, de façon circonstanciée :
 
 1° Les contraintes propres à la nature de l'activité ou au fonctionnement de l'entreprise qui rendent nécessaire le travail de nuit eu égard aux exigences de continuité de l'activité économique ou des services d'utilité sociale ;

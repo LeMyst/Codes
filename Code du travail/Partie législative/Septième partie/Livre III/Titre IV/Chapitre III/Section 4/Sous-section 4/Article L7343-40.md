@@ -1,3 +1,5 @@
+# Article L7343-40
+
 I.-Sont habilitées à réviser un accord collectif de secteur :
 
 1° Pendant un délai de deux ans à compter de la signature de l'accord, les organisations de travailleurs et les organisations professionnelles de plateformes signataires ;

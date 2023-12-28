@@ -1,3 +1,5 @@
+# Article R2234-1
+
 L'observatoire d'analyse et d'appui au dialogue social et à la négociation est composé au plus de treize membres :
 
 -jusqu'à six membres représentants des salariés ;

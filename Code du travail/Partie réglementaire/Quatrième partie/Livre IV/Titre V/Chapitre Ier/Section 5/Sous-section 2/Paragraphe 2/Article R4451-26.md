@@ -1,3 +1,5 @@
+# Article R4451-26
+
 I.-Chaque source de rayonnements ionisants fait l'objet d'une signalisation spécifique et appropriée.
 
 II.-Lorsque les conditions techniques ne permettent pas la signalisation individuelle de la source de rayonnements ionisants, un affichage comportant sa localisation et la nature du risque est prévu à chaque accès à la zone considérée.

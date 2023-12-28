@@ -1,3 +1,5 @@
+# Article R4313-12
+
 Des arrêtés conjoints des ministres chargés du travail, de l'agriculture, des douanes, de l'industrie et de la consommation fixent :
 
 1° Le contenu de la déclaration de conformité pour les machines ;

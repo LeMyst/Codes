@@ -1,3 +1,5 @@
+# Article R6332-77-1
+
 Les disponibilités dont un fonds d'assurance formation de non-salariés peut disposer au 31 décembre d'un exercice déterminé ne peuvent excéder le tiers du montant des charges comptabilisées au cours du même exercice, déduction faite des dotations aux amortissements et des provisions autres que celles relatives à un contentieux engagé avec un organisme de formation.
 
 N'entrent pas dans le calcul des disponibilités les contributions à la formation versée en année N permettant de financer les formations réalisées en année N + 1.

@@ -1,3 +1,5 @@
+# Article L2315-26
+
 Le comité social et économique peut organiser, dans le local mis à sa disposition, des réunions d'information, internes au personnel, portant notamment sur des problèmes d'actualité.
 
 Le comité peut inviter des personnalités extérieures, syndicales ou autres, dans les conditions prévues par les dispositions des articles L. 2142-10 et L. 2142-11.

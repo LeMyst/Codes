@@ -1,3 +1,5 @@
+# Article L1262-2
+
 A la condition qu'il existe un contrat de travail entre l'entreprise de travail temporaire et le salarié et que leur relation de travail subsiste pendant la période de détachement, une entreprise exerçant une activité de travail temporaire établie hors du territoire national peut détacher temporairement des salariés :
 
 1° Auprès d'une entreprise utilisatrice établie sur le territoire national ;

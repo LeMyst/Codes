@@ -1,3 +1,5 @@
+# Article L1235-2
+
 Les motifs énoncés dans la lettre de licenciement prévue aux articles L. 1232-6, L. 1233-16 et L. 1233-42 peuvent, après la notification de celle-ci, être précisés par l'employeur, soit à son initiative soit à la demande du salarié, dans des délais et conditions fixés par décret en Conseil d'Etat.
 
 La lettre de licenciement, précisée le cas échéant par l'employeur, fixe les limites du litige en ce qui concerne les motifs de licenciement.

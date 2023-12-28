@@ -1,3 +1,5 @@
+# Article L5212-7
+
 L'employeur peut s'acquitter de son obligation d'emploi :
 
 1° En accueillant en stage les bénéficiaires mentionnés à l'article L. 5212-13, quelle qu'en soit la durée, ainsi que les jeunes de plus de seize ans bénéficiaires de droits à la prestation de compensation du handicap, de l'allocation compensatrice pour tierce personne ou de l'allocation d'éducation de l'enfant handicapé qui disposent d'une convention de stage ;

@@ -1,3 +1,5 @@
+# Article R5132-8-2
+
 L'aide financière mentionnée à l'article R. 5132-8-1 est versée à l'entreprise d'insertion pour chaque poste de travail occupé à temps plein. Le cas échéant, le montant de l'aide est réduit à due proportion de l'occupation des postes.
 
 Son montant est égal à :

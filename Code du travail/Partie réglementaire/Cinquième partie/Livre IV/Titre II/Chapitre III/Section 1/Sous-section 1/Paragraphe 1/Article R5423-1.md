@@ -1,3 +1,5 @@
+# Article R5423-1
+
 Pour bénéficier de l'allocation de solidarité spécifique, les personnes mentionnées à l'article L. 5423-1 :
 
 1° Justifient de cinq ans d'activité salariée dans les dix ans précédant la fin du contrat de travail à partir de laquelle ont été ouverts leurs droits aux allocations d'assurance. En ce qui concerne les personnes ayant interrompu leur activité salariée pour élever un enfant, cette durée est réduite, dans la limite de trois ans, d'un an par enfant à charge ou élevé dans les conditions fixées à l'article R. 342-2 du code de la sécurité sociale ;

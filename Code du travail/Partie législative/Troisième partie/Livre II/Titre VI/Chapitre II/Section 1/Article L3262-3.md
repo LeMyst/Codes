@@ -1,3 +1,5 @@
+# Article L3262-3
+
 Les comptes prévus à l'article L. 3262-2 sont des comptes de dépôts de fonds intitulés " comptes de titres-restaurant ".
 
 Sous réserve des dispositions des articles L. 3262-4 et L. 3262-5, ils ne peuvent être débités qu'au profit de personnes ou d'organismes exerçant la profession de restaurateur, d'hôtelier restaurateur ou une activité assimilée, ou la profession de détaillant en fruits et légumes.

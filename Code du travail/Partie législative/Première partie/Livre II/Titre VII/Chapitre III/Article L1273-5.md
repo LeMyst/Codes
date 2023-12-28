@@ -1,3 +1,5 @@
+# Article L1273-5
+
 L'employeur qui utilise le " Titre Emploi-Service Entreprise " est réputé satisfaire, par la remise au salarié et l'envoi à l'organisme habilité des éléments du titre emploi qui leur sont respectivement destinés, aux formalités suivantes :
 
 1° Les règles d'établissement du contrat de travail, dans les conditions prévues par l'article L. 1221-1 ;

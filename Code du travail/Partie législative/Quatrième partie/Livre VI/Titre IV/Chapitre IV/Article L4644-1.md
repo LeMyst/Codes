@@ -1,3 +1,5 @@
+# Article L4644-1
+
 I.-L'employeur désigne un ou plusieurs salariés compétents pour s'occuper des activités de protection et de prévention des risques professionnels de l'entreprise.
 
 Le ou les salariés ainsi désignés par l'employeur bénéficient d'une formation en matière de santé au travail dans les conditions prévues aux articles L. 2315-16 à L. 2315-18.

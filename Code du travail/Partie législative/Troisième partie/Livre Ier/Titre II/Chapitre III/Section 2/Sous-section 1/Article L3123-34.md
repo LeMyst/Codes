@@ -1,3 +1,5 @@
+# Article L3123-34
+
 Le contrat de travail intermittent est un contrat à durée indéterminée.
 
 Il peut être conclu afin de pourvoir un emploi permanent qui, par nature, comporte une alternance de périodes travaillées et de périodes non travaillées.

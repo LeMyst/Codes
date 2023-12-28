@@ -1,3 +1,5 @@
+# Article R4641-3
+
 I.-Chacune des formations du conseil, à l'exception du comité national de prévention et de santé au travail, comprend :
 
 1° Le collège des départements ministériels ;

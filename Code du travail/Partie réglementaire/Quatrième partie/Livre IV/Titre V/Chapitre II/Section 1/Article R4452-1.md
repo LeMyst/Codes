@@ -1,3 +1,5 @@
+# Article R4452-1
+
 Pour l'application du présent chapitre, on entend par :
 
 1° Rayonnements optiques : tous les rayonnements électromagnétiques d'une longueur d'onde comprise entre 100 nanomètres et 1 millimètre. Le spectre des rayonnements optiques se subdivise en rayonnements ultraviolets, en rayonnements visibles et en rayonnements infrarouges :

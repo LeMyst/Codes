@@ -1,3 +1,5 @@
+# Article R4625-13
+
 Il n'est pas réalisé de nouvel examen médical d'aptitude avant la nouvelle mission si les conditions suivantes sont réunies :
 
 1° Le médecin du travail a pris connaissance d'un avis d'aptitude pour un même emploi dans les deux années précédant l'embauche ;

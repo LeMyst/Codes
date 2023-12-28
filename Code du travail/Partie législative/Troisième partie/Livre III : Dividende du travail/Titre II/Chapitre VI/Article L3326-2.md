@@ -1,3 +1,5 @@
+# Article L3326-2
+
 Des astreintes peuvent être prononcées par le juge judiciaire contre les entreprises qui n'exécutent pas les obligations qui leur incombent en application du présent titre.
 
 Les salariés de l'entreprise en cause et le procureur de la République dans le ressort duquel cette entreprise est située ont seuls qualité pour agir.

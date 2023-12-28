@@ -1,3 +1,5 @@
+# Article L1225-7
+
 La salariée enceinte peut être affectée temporairement dans un autre emploi, à son initiative ou à celle de l'employeur, si son état de santé médicalement constaté l'exige.
 
 En cas de désaccord entre l'employeur et la salariée ou lorsque le changement intervient à l'initiative de l'employeur, seul le médecin du travail peut établir la nécessité médicale du changement d'emploi et l'aptitude de la salariée à occuper le nouvel emploi envisagé.

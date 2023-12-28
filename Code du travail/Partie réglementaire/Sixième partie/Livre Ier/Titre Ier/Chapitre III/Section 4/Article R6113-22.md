@@ -1,3 +1,5 @@
+# Article R6113-22
+
 Les commissions professionnelles consultatives sont composées des membres suivants, nommés pour une durée de cinq ans par arrêté du ministre auprès duquel elles sont instituées ou, lorsqu'elles sont interministérielles, du ministre chargé de leur organisation administrative et matérielle en application du premier alinéa de l'article R. 6113-21 :
 
 1° Un représentant de chaque organisation syndicale de salariés représentative au niveau national et interprofessionnel, sur proposition de leur organisation respective ;

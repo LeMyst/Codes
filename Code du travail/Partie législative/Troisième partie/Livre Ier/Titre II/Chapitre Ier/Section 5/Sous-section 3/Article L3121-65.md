@@ -1,3 +1,5 @@
+# Article L3121-65
+
 I.-A défaut de stipulations conventionnelles prévues aux 1° et 2° du II de l'article L. 3121-64, une convention individuelle de forfait en jours peut être valablement conclue sous réserve du respect des dispositions suivantes :
 
 1° L'employeur établit un document de contrôle faisant apparaître le nombre et la date des journées ou demi-journées travaillées. Sous la responsabilité de l'employeur, ce document peut être renseigné par le salarié ;

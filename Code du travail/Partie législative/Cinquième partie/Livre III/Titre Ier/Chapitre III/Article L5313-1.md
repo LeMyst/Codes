@@ -1,3 +1,5 @@
+# Article L5313-1
+
 Les maisons de l'emploi, dont le ressort, adapté à la configuration des bassins d'emploi, ne peut excéder la région ou, en Corse, la collectivité territoriale, concourent à la coordination des politiques publiques et du partenariat local des acteurs publics et privés qui agissent en faveur de l'emploi, de la formation, de l'insertion et du développement économique.
 
 A partir d'un diagnostic partagé, elles exercent notamment une mission d'observation de la situation de l'emploi et d'anticipation des mutations économiques.

@@ -1,3 +1,5 @@
+# Article L3162-1
+
 Les jeunes travailleurs ne peuvent être employés à un travail effectif excédant huit heures par jour et trente-cinq heures par semaine.
 
 Par dérogation au premier alinéa, pour certaines activités déterminées par décret en Conseil d'Etat, lorsque l'organisation collective du travail le justifie, il peut être dérogé :

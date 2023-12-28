@@ -1,3 +1,5 @@
+# Article L2135-13
+
 I.-Le fonds paritaire répartit ses crédits :
 
 1° A parité entre les organisations syndicales de salariés, d'une part, et les organisations professionnelles d'employeurs, d'autre part, au titre de la mission mentionnée au 1° de l'article L. 2135-11, au niveau national et au niveau de la branche. Les modalités de répartition des crédits entre organisations syndicales de salariés, d'une part, et entre organisations professionnelles d'employeurs, d'autre part, sont déterminées, par voie réglementaire, de façon uniforme pour les organisations syndicales de salariés et en fonction de l'audience pour les organisations professionnelles d'employeurs. Pour l'appréciation de cette audience, sont pris en compte, chacun à hauteur de 50 %, d'une part, le nombre des entreprises adhérentes à des organisations professionnelles d'employeurs représentatives qui emploient au moins un salarié et, d'autre part, le nombre de salariés employés par ces mêmes entreprises ;

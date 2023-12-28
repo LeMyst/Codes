@@ -1,3 +1,5 @@
+# Article R4141-3-1
+
 L'employeur informe les travailleurs sur les risques pour leur santé et leur sécurité. Cette information porte sur :
 
 1° Les modalités d'accès au document unique d'évaluation des risques, prévu à l'article R. 4121-1 ;

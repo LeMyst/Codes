@@ -1,3 +1,5 @@
+# Article R4623-15
+
 Le médecin du travail peut être remplacé durant son absence.
 
 Lorsque la durée de l'absence excède trois mois, son remplacement est de droit.

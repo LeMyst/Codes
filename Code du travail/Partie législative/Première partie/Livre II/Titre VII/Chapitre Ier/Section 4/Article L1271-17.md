@@ -1,3 +1,5 @@
+# Article L1271-17
+
 Des décrets déterminent les modalités d'utilisation et de fonctionnement du chèque emploi-service universel, notamment :
 
 1° Celles relatives à l'encaissement et au remboursement des chèques emploi-service universels et aux obligations de contrôle, de vérification et de vigilance des organismes et établissements émettant ceux qui ont la nature de titre spécial de paiement ;

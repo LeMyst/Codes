@@ -1,3 +1,5 @@
+# Article R7122-17
+
 La déclaration unique et simplifiée comporte deux volets :
 
 1° Un premier volet qui permet de satisfaire à la déclaration préalable à l'embauche prévue à l'article L. 1221-10 ;

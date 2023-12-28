@@ -1,3 +1,5 @@
+# Article R7343-51
+
 Pour voter par voie électronique, l'électeur, après s'être connecté au système de vote et identifié selon les modalités prévues à l'article R. 7343-44, exprime puis valide son vote. Le vote est anonyme.
 
 Le bulletin de vote est chiffré sur le poste de l'électeur avant d'être envoyé par un canal lui-même chiffré vers les serveurs de vote, afin d'y être stocké de façon anonyme. Il demeure chiffré jusqu'au dépouillement.

@@ -1,3 +1,5 @@
+# Article L6313-4
+
 Les bilans de compétences mentionnés au 2° de l'article L. 6313-1 ont pour objet de permettre à des travailleurs d'analyser leurs compétences professionnelles et personnelles ainsi que leurs aptitudes et leurs motivations afin de définir un projet professionnel et, le cas échéant, un projet de formation.
 
 Ce bilan ne peut être réalisé qu'avec le consentement du travailleur. Le refus d'un salarié d'y consentir ne constitue ni une faute ni un motif de licenciement.

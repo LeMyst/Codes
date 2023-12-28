@@ -1,3 +1,5 @@
+# Article R3142-53
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-65, le bénéfice du congé de représentation peut être refusé par l'employeur s'il établit que le nombre de salariés, par établissement, ayant bénéficié de ce congé, durant l'année en cours, atteint la proportion suivante :
 
 1° Moins de 50 salariés : un bénéficiaire ;

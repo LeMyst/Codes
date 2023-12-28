@@ -1,3 +1,5 @@
+# Article R4431-1
+
 Pour l'application du présent titre, les paramètres physiques utilisés comme indicateurs du risque sont définis comme suit :\
 1° Le niveau de pression acoustique de crête est le niveau de la valeur maximale de la pression acoustique instantanée mesurée avec la pondération fréquentielle C ;\
 2° Le niveau d'exposition quotidienne au bruit est la moyenne pondérée dans le temps des niveaux d'exposition au bruit pour une journée de travail nominale de huit heures ;\

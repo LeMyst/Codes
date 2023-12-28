@@ -1,3 +1,5 @@
+# Article R1423-50
+
 Selon les besoins du service, les agents des greffes peuvent être délégués dans les services d'un autre conseil de prud'hommes du ressort de la même cour d'appel.
 
 Cette délégation est prononcée par décision des chefs de cour après consultation du président du conseil, du vice-président et du directeur de greffe. Elle ne peut excéder une durée de quatre mois.

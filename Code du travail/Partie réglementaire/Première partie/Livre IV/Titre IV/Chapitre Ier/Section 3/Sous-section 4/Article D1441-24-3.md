@@ -1,3 +1,5 @@
+# Article D1441-24-3
+
 I. – Les données à caractère personnel mentionnées aux articles D. 1441-22-2, D. 1441-22-3 et D. 1441-22-4 sont conservées comme suit :
 
 1° Jusqu'à la fin du mandat :

@@ -1,3 +1,5 @@
+# Article L1255-14
+
 Est puni de 3 750 € d'amende le fait pour un entrepreneur de portage salarial :
 
 1° De conclure un contrat de travail en portage salarial pour une activité de services, en méconnaissance de l'article L. 1254-5 ;

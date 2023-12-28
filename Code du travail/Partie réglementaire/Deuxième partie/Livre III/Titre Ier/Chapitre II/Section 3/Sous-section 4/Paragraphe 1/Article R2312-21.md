@@ -1,3 +1,5 @@
+# Article R2312-21
+
 Dans les entreprises d'au moins trois cents salariés, les informations trimestrielles du comité social et économique prévues au 3° de l'article L. 2312-69 retracent mois par mois, l'évolution des effectifs et de la qualification des salariés par sexe en faisant apparaître :
 
 1° Le nombre de salariés titulaires d'un contrat de travail à durée indéterminée ;

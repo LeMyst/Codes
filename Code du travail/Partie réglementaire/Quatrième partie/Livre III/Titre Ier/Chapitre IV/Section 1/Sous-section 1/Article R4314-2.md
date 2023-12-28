@@ -1,3 +1,5 @@
+# Article R4314-2
+
 Les dispositions du présent chapitre sont applicables lorsque le ministre chargé du travail et le ministre chargé de l'agriculture exercent leur mission de surveillance du marché.
 
 Le ministre chargé de la consommation exerce sa mission de surveillance du marché dans le cadre des dispositions du code de la consommation.

@@ -1,3 +1,5 @@
+# Article L7122-24
+
 L'employeur, qui remet au salarié et qui adresse à l'organisme habilité par l'Etat les éléments de la déclaration prévue à l'article L. 7122-23 qui leur sont respectivement destinés, est réputé satisfaire aux obligations relatives :
 
 1° A la déclaration préalable à l'embauche, prévue par l'article L. 1221-10 ;

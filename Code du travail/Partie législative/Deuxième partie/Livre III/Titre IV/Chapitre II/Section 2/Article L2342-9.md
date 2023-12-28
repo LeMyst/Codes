@@ -1,3 +1,5 @@
+# Article L2342-9
+
 Lorsqu'il opte pour la constitution d'un comité d'entreprise européen, le groupe spécial de négociation conclut un accord qui détermine :
 
 1° Les établissements de l'entreprise de dimension communautaire ou les entreprises membres du groupe d'entreprises de dimension communautaire concernés par l'accord ;

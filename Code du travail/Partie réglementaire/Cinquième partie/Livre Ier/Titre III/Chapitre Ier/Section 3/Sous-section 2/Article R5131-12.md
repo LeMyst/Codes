@@ -1,3 +1,5 @@
+# Article R5131-12
+
 Le contrat est signé un mois au plus tard après la réalisation du diagnostic, d'une part, au nom de l'Etat, par le représentant légal de la mission locale, ou tout salarié dûment habilité par lui et, d'autre part, par le bénéficiaire de l'accompagnement.
 
 Il mentionne :

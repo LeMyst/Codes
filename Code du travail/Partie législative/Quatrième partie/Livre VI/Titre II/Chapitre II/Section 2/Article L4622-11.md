@@ -1,3 +1,5 @@
+# Article L4622-11
+
 Le service de prévention et de santé au travail est administré paritairement par un conseil composé :
 
 1° De représentants des employeurs désignés par les organisations représentatives au niveau national et interprofessionnel parmi les entreprises adhérentes. Pour les services de prévention et de santé au travail ayant vocation à couvrir un champ n'excédant pas celui d'une branche professionnelle, ces représentants sont désignés par les organisations professionnelles d'employeurs reconnues représentatives au niveau de cette branche. Pour les services de prévention et de santé au travail ayant vocation à couvrir un secteur multiprofessionnel, ces représentants sont désignés par les organisations d'employeurs reconnues représentatives au niveau de ce secteur ;

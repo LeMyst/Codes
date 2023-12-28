@@ -1,3 +1,5 @@
+# Article L7122-22
+
 Les dispositions de la présente section s'appliquent :
 
 1° Aux personnes mentionnées à l'article L. 7122-19 ;

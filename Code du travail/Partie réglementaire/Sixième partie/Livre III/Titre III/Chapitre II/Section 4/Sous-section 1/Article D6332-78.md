@@ -1,3 +1,5 @@
+# Article D6332-78
+
 I.-La commission paritaire nationale de l'emploi, ou à défaut la commission paritaire de la branche professionnelle, détermine le niveau de prise en charge du contrat d'apprentissage en fonction du diplôme ou du titre à finalité professionnelle préparé. Ce niveau correspond à un montant annuel. Le niveau de prise en charge du contrat d'apprentissage permet le financement des centres de formation d'apprentis par les opérateurs de compétences dans les conditions prévues à l'article R. 6332-25.
 
 II.-Ce niveau de prise en charge comprend les charges de gestion administrative et les charges de production suivantes :

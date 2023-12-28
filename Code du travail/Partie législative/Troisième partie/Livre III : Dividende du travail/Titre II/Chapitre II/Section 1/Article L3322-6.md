@@ -1,3 +1,5 @@
+# Article L3322-6
+
 Les accords de participation sont conclus selon l'une des modalités suivantes :
 
 1° Par convention ou accord collectif de travail ;

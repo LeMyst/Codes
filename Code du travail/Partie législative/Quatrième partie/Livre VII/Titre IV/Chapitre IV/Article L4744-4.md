@@ -1,3 +1,5 @@
+# Article L4744-4
+
 Est puni d'une amende de 10 000 euros le fait pour un maître d'ouvrage :
 
 1° De ne pas désigner de coordonnateur en matière de sécurité et de santé, en méconnaissance de l'article L. 4532-4, ou de ne pas assurer au coordonnateur l'autorité et les moyens indispensables à l'exercice de sa mission, en méconnaissance de l'article L. 4532-5 ;

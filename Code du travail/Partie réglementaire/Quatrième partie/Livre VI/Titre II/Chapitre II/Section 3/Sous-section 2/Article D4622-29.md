@@ -1,3 +1,5 @@
+# Article D4622-29
+
 La commission médico-technique est constituée à la diligence du président du service de prévention et de santé au travail.
 
 Elle est composée :

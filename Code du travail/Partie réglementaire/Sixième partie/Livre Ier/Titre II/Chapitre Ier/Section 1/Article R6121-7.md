@@ -1,3 +1,5 @@
+# Article R6121-7
+
 I.-La convention d'habilitation contient les informations figurant aux 1° à 11° de l'article R. 6121-3 et mentionne les droits et les engagements de l'organisme retenu.
 
 Elle est signée par celui-ci puis par le président du conseil régional. Sa notification au candidat retenu permet son exécution.

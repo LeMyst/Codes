@@ -1,3 +1,5 @@
+# Article L1441-12
+
 Peuvent être candidats dans le collège des employeurs :
 
 1° Les personnes employant pour leur compte ou pour le compte d'autrui un ou plusieurs salariés ;

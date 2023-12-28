@@ -1,3 +1,5 @@
+# Article R7343-70
+
 Pour l'application de l'article L. 7343-17, la baisse substantielle d'activité peut notamment être établie par les éléments suivants :
 
 1° Une baisse substantielle du montant horaire moyen de revenu versé par la plateforme au travailleur dans les trois derniers mois d'activité, au regard des douze mois précédents.

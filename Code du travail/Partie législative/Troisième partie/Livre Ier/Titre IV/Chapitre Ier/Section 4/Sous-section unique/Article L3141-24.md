@@ -1,3 +1,5 @@
+# Article L3141-24
+
 I.-Le congé annuel prévu à l'article L. 3141-3 ouvre droit à une indemnité égale au dixième de la rémunération brute totale perçue par le salarié au cours de la période de référence.
 
 Pour la détermination de la rémunération brute totale, il est tenu compte :

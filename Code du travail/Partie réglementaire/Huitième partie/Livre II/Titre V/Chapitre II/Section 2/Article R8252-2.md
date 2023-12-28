@@ -1,3 +1,5 @@
+# Article R8252-2
+
 Le document remis au salarié étranger non autorisé à travailler comporte les informations suivantes :
 
 1° Dans tous les cas :

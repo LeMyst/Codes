@@ -1,3 +1,5 @@
+# Article R2122-88
+
 N'entrent pas en compte dans le résultat des votes par correspondance :
 
 1° Les enveloppes sans bulletin ;

@@ -1,3 +1,5 @@
+# Article R23-113-2
+
 La demande de remboursement du maintien de salaire du représentant salarié est transmise par son employeur dans les trois mois à l'organisation syndicale qui l'a désigné.
 
 Cette demande, à laquelle est jointe l'information prévue au troisième alinéa de l'article L. 23-114-1, précise :

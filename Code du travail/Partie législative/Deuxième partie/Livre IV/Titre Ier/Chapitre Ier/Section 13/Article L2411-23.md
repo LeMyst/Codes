@@ -1,3 +1,5 @@
+# Article L2411-23
+
 Le licenciement d'un assesseur maritime ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
 Cette autorisation est également requise pour :

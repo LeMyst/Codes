@@ -1,3 +1,5 @@
+# Article R1455-12
+
 A moins qu'il en soit disposé autrement, lorsqu'il est prévu que le conseil de prud'hommes statue selon la procédure accélérée au fond, la demande est portée à une audience tenue aux jour et heures à cet effet, dans les conditions prévues à l'article R. 1455-9.
 
 Elle est formée, instruite et jugée dans les conditions suivantes :

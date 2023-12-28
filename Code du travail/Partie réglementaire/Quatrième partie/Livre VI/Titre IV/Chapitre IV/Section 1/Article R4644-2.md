@@ -1,3 +1,5 @@
+# Article R4644-2
+
 L'intervention de l'intervenant en prévention des risques professionnels enregistré dans les conditions prévues à la section 2 est subordonnée à la conclusion d'une convention entre celui-ci et l'employeur ou le président du service de santé au travail interentreprises.
 
 Cette convention précise :

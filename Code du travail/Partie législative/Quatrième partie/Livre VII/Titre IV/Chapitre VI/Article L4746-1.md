@@ -1,3 +1,5 @@
+# Article L4746-1
+
 Pour un opérateur économique au sens de l'article 3 du règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur la surveillance du marché et la conformité des produits, et modifiant la directive 2004/42/ CE et les règlements (CE) n° 765/2008 et (UE) n° 305/2011 :
 
 1° Le fait d'exposer, de mettre en vente, de vendre, d'importer, de louer, de mettre à disposition ou de céder à quelque titre que ce soit un équipement de travail ou un équipement de protection individuelle n'ayant pas fait l'objet de la procédure d'évaluation de la conformité prévue par la réglementation relative à la conception, à la fabrication et à la mise sur le marché qui lui est applicable est puni d'une amende de 50 000 €. En cas de récidive légale, l'amende encourue est portée au double ;

@@ -1,3 +1,5 @@
+# Article R5422-2-1
+
 I.-La demande d'attestation du caractère réel et sérieux du projet professionnel mentionné au 2° du II de l'article L. 5422-1 est adressée par le salarié, par tout moyen donnant date certaine à sa réception, à la commission paritaire interprofessionnelle régionale mentionnée à l'article L. 6323-17-6, agréée dans la région de son lieu de résidence principale ou de son lieu de travail.
 
 Cette demande est recevable dès lors que le salarié n'a pas démissionné de son emploi préalablement à la demande de conseil en évolution professionnelle mentionnée à l'article L. 5422-1-1.

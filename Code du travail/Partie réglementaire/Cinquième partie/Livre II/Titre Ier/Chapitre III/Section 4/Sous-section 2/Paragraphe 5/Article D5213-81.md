@@ -1,3 +1,5 @@
+# Article D5213-81
+
 Le travailleur handicapé employé dans une entreprise adaptée peut, avec son accord et en vue d'une embauche éventuelle, être mis à la disposition d'un autre employeur, dans le cadre du contrat de mise à disposition prévu à l'article D. 5213-84.
 
 Le travailleur reconnu handicapé mis à disposition auprès d'un employeur autre qu'une entreprise adaptée, ouvre droit à une aide financière versée à l'entreprise adaptée au titre de l'accompagnement professionnel individualisé visant à favoriser la réalisation de son projet professionnel et faciliter son embauche.

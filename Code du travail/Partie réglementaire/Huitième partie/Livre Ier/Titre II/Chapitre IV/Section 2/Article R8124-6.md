@@ -1,3 +1,5 @@
+# Article R8124-6
+
 Tout agent exerçant l'autorité hiérarchique est garant du respect des règles déontologiques applicables à l'ensemble des agents placés sous son autorité. A cet effet :
 
 1° Il en explique le sens aux agents et en précise, par ses instructions, les modalités de mise en œuvre ;

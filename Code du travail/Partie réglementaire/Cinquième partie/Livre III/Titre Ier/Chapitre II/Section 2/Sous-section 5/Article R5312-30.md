@@ -1,3 +1,5 @@
+# Article R5312-30
+
 Un exemplaire du procès-verbal de chaque réunion de l'instance paritaire, signé par le président, est transmis :
 
 1° Aux membres de l'instance paritaire ;

@@ -1,3 +1,5 @@
+# Article L2315-39
+
 La commission est présidée par l'employeur ou son représentant.
 
 Elle comprend au minimum trois membres représentants du personnel, dont au moins un représentant du second collège, ou le cas échéant du troisième collège prévus à l'article L. 2314-11.

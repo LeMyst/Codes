@@ -1,3 +1,5 @@
+# Article R6323-3-1
+
 I. – Le compte personnel de formation du salarié mentionné à l'article L. 6323-11-1 qui a effectué une durée de travail supérieure ou égale à la moitié de la durée légale ou conventionnelle de travail sur l'ensemble de l'année est alimenté, au titre de cette année, à hauteur de 800 euros, dans la limite d'un plafond de 8 000 euros.
 
 II. – Afin de bénéficier de cette majoration, le salarié déclare remplir les conditions prévues à cet article par l'intermédiaire du service dématérialisé mentionné au I de l'article L. 6323-8. Cette déclaration peut être effectuée, à sa demande et selon les mêmes modalités, par son conseiller en évolution professionnelle. La majoration est effective à compter de l'alimentation du compte effectuée au titre de l'année au cours de laquelle cette déclaration est intervenue.

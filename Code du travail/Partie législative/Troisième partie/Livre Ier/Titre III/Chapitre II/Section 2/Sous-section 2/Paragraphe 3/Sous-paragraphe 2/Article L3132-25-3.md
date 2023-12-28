@@ -1,3 +1,5 @@
+# Article L3132-25-3
+
 I. – Les autorisations prévues à l'article L. 3132-20 sont accordées au vu d'un accord collectif ou, à défaut, d'une décision unilatérale de l'employeur prise après référendum.
 
 L'accord collectif fixe les contreparties accordées aux salariés privés du repos dominical ainsi que les engagements pris en termes d'emploi ou en faveur de certains publics en difficulté ou de personnes handicapées.

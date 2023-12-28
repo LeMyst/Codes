@@ -1,3 +1,5 @@
+# Article L143-11-9
+
 L'organisme mentionné à l'article L. 143-11-4 est subrogé dans les droits des salariés pour lesquels il a effectué des avances :
 
 a) Pour l'ensemble des créances, lors d'une procédure de sauvegarde ;

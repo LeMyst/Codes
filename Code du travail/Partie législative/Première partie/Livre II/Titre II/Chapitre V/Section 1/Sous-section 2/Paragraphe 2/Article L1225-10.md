@@ -1,3 +1,5 @@
+# Article L1225-10
+
 Lorsque l'employeur est dans l'impossibilité de proposer un autre emploi à la salariée travaillant de nuit, il lui fait connaître par écrit, ainsi qu'au médecin du travail, les motifs qui s'opposent à cette affectation.
 
 Le contrat de travail de la salariée est alors suspendu jusqu'à la date du début du congé légal de maternité et éventuellement durant la période complémentaire qui suit la fin de ce congé en application de l'article L. 1225-9.

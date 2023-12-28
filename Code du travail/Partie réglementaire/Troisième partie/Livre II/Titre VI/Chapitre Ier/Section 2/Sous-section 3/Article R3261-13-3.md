@@ -1,3 +1,5 @@
+# Article R3261-13-3
+
 Sont affichées directement sur les équipements terminaux, au sens du 10° de l'article L. 32 du code des postes et des communications électroniques, utilisés par le salarié et l'entreprise agréée sur le fondement de l'article L. 3261-7 pour un paiement à l'aide d'un titre-mobilité, les mentions suivantes :
 
 1° Le nom et l'adresse de l'émetteur du titre ;

@@ -1,3 +1,5 @@
+# Article L6222-37
+
 En ce qui concerne les personnes handicapées, des aménagements sont apportés aux dispositions des articles :
 
 1° L. 6222-1 à L. 6222-3, relatifs aux conditions de formation du contrat d'apprentissage ;

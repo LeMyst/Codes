@@ -1,3 +1,5 @@
+# Article L2343-1
+
 Un comité d'entreprise européen est institué conformément aux dispositions du présent chapitre dans les cas suivants :
 
 1° Lorsque le chef de l'entreprise ou de l'entreprise dominante de dimension communautaire refuse de mettre en place un groupe spécial de négociation ou d'ouvrir des négociations dans un délai de six mois à compter de la réception de la demande prévue à l'article L. 2342-4 ;

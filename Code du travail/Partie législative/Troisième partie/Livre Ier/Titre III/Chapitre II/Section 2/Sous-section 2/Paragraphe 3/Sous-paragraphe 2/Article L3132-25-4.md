@@ -1,3 +1,5 @@
+# Article L3132-25-4
+
 Pour l'application des articles L. 3132-20, L. 3132-24, L. 3132-25, L. 3132-25-1 et L. 3132-25-6, seuls les salariés volontaires ayant donné leur accord par écrit à leur employeur peuvent travailler le dimanche. Une entreprise ne peut prendre en considération le refus d'une personne de travailler le dimanche pour refuser de l'embaucher. Le salarié qui refuse de travailler le dimanche ne peut faire l'objet d'une mesure discriminatoire dans le cadre de l'exécution de son contrat de travail. Le refus de travailler le dimanche pour un salarié ne constitue pas une faute ou un motif de licenciement.
 
 L'accord collectif ou les mesures proposées par l'employeur mentionnés au II de l'article L. 3132-25-3 déterminent les modalités de prise en compte d'un changement d'avis du salarié privé du repos dominical.

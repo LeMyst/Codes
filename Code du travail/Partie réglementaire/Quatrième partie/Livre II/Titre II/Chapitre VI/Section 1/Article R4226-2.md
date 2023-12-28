@@ -1,3 +1,5 @@
+# Article R4226-2
+
 Les installations électriques comprennent l'ensemble des matériels électriques mis en œuvre pour la production, la conversion, la distribution ou l'utilisation de l'énergie électrique.
 
 Les installations électriques sont classées, comme suit, en fonction de la plus grande des tensions nominales, existant soit entre deux quelconques de leurs conducteurs, soit entre l'un d'entre eux et la Terre :

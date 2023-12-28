@@ -1,3 +1,5 @@
+# Article R7124-23
+
 Dans le délai d'un mois à compter du jour du dépôt de la demande d'autorisation individuelle, d'agrément ou de renouvellement d'agrément et à la condition que le dossier déposé soit complet, l'autorité administrative définie à l'article R. 7124-1 notifie aux parties intéressées :
 
 1° Le refus de l'autorisation ou l'agrément ;

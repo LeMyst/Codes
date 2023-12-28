@@ -1,3 +1,5 @@
+# Article L7112-5
+
 Si la rupture du contrat de travail survient à l'initiative du journaliste professionnel, les dispositions des articles L. 7112-3 et L. 7112-4 sont applicables, lorsque cette rupture est motivée par l'une des circonstances suivantes :
 
 1° Cession du journal ou du périodique ;

@@ -1,3 +1,5 @@
+# Article L3142-79
+
 L'employeur laisse au salarié, candidat à l'Assemblée nationale ou au Sénat, le temps nécessaire pour participer à la campagne électorale dans la limite de vingt jours ouvrables.
 
 Le même droit est accordé, sur sa demande, dans la limite de dix jours ouvrables au salarié candidat :

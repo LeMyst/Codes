@@ -1,3 +1,5 @@
+# Article L3121-67
+
 Des décrets en Conseil d'Etat déterminent les modalités d'application du présent chapitre pour l'ensemble des branches d'activité ou des professions ou pour une branche ou une profession particulière. Ces décrets fixent notamment :
 
 1° La répartition et l'aménagement des horaires de travail ;

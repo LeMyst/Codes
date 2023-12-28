@@ -1,3 +1,5 @@
+# Article R4532-12
+
 Le coordonnateur, au cours de la conception, de l'étude et de l'élaboration du projet de l'ouvrage :\
 1° Elabore le plan général de coordination lorsqu'il est requis ;\
 2° Constitue le dossier d'intervention ultérieure sur l'ouvrage ;\

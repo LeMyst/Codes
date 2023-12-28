@@ -1,3 +1,5 @@
+# Article R4451-96
+
 I.-Les dispositions de la présente section s'appliquent à tout employeur susceptible de confier à un travailleur lors d'une situation d'urgence radiologique mentionnée à l' article L. 1333-3 du code de la santé publique la mise en œuvre d'actions destinées à :
 
 1° Prévenir ou réduire un risque lié à une telle situation ;

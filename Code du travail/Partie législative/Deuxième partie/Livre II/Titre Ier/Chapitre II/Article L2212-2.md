@@ -1,3 +1,5 @@
+# Article L2212-2
+
 Des conventions ou des accords collectifs d'entreprise ou de branche peuvent définir :
 
 1° Le contenu des formations communes prévues à l'article L. 2212-1 et les conditions dans lesquelles elles sont dispensées ;

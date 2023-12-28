@@ -1,3 +1,5 @@
+# Article R4626-14
+
 Le service autonome de prévention et de santé au travail comprend au moins un médecin du travail employé à temps complet pour mille cinq cents agents.
 
 Pour tout effectif ou fraction inférieure à mille cinq cents agents, il est fait appel à un médecin du travail employé à temps partiel.

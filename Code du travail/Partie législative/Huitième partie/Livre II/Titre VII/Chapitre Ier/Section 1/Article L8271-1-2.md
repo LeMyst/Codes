@@ -1,3 +1,5 @@
+# Article L8271-1-2
+
 Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
 
 1° Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 ;

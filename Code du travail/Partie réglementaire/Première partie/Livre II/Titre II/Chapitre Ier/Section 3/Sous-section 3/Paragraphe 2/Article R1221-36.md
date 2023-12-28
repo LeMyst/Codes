@@ -1,3 +1,5 @@
+# Article R1221-36
+
 I. - Lorsqu'un salarié exerçant habituellement son activité professionnelle en France est appelé à travailler à l'étranger pour une durée supérieure à quatre semaines consécutives, les documents mentionnés au premier alinéa de l'article L. 1221-5-1 comportent, outre les informations prévues à l'article R. 1221-34, les informations suivantes :
 
 1° Le ou les pays dans lesquels le travail à l'étranger est effectué et la durée prévue ;

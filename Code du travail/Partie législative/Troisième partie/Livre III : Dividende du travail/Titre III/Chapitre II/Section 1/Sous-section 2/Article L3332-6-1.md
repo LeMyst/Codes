@@ -1,3 +1,5 @@
+# Article L3332-6-1
+
 Toute entreprise peut faire application d'un dispositif d'épargne d'entreprise conclu au niveau de la branche, dès lors que l'accord de branche a été agréé en application de l'article L. 3345-4.
 
 Les entreprises qui souhaitent appliquer l'accord de branche agréé concluent à cet effet un accord dans les conditions prévues aux articles L. 3332-3 et L. 3332-4.

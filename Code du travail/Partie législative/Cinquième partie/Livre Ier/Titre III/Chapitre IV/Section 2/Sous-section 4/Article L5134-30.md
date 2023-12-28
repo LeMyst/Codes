@@ -1,3 +1,5 @@
+# Article L5134-30
+
 L'aide à l'insertion professionnelle attribuée au titre d'un contrat d'accompagnement dans l'emploi peut être modulée en fonction :
 
 1° De la catégorie et du secteur d'activité de l'employeur ;

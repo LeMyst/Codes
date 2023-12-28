@@ -1,3 +1,5 @@
+# Article L2145-2
+
 La formation des salariés appelés à exercer des responsabilités syndicales, notamment au sein d'organismes de caractère économique et social, et des adhérents à une organisation syndicale amenés à intervenir en faveur des salariés peut être assurée :
 
 1° Soit par des centres spécialisés, directement rattachés aux organisations syndicales représentatives ;

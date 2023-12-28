@@ -1,3 +1,5 @@
+# Article L1233-68
+
 Un accord conclu et agréé dans les conditions prévues à la section 5 du chapitre II du titre II du livre IV de la cinquième partie, à l'exception de l'article L. 5422-20-1 et du second alinéa de l'article L. 5422-22, définit les modalités de mise en œuvre du contrat de sécurisation professionnelle, notamment :
 
 1° Les conditions d'ancienneté pour en bénéficier ;

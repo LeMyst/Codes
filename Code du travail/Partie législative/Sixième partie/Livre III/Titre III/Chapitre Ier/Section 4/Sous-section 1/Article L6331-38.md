@@ -1,3 +1,5 @@
+# Article L6331-38
+
 I.-Le taux de cotisation pour les entreprises est fixé par accord entre les organisations professionnelles d'employeurs et les organisations syndicales de salariés représentatives au niveau national dans le secteur du bâtiment et des travaux publics.
 
 II.-À défaut d'accord au 31 décembre de l'année précédant l'exercice, le taux de contribution au titre des salaires versés sur l'année de l'exercice est le suivant :

@@ -1,3 +1,5 @@
+# Article L4121-1
+
 L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.
 
 Ces mesures comprennent :

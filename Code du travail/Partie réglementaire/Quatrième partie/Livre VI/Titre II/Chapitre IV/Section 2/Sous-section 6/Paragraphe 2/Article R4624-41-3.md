@@ -1,3 +1,5 @@
+# Article R4624-41-3
+
 Chaque visite ou examen effectué à distance est réalisé dans des conditions garantissant :
 
 1° Le consentement du travailleur à la réalisation de l'acte par vidéotransmission ;

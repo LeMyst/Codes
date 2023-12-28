@@ -1,3 +1,5 @@
+# Article R2312-25
+
 Les documents joints à la demande d'autorisation, prévue à l'article L. 512-1 du code de l'environnement, sont portés à la connaissance du comité social et économique préalablement à leur envoi au préfet.
 
 Le dossier établi par l'employeur à l'appui de sa demande est transmis au comité dans un délai de quinze jours à compter du lancement de l'enquête publique prévue à l'article L. 181-9 du même code.

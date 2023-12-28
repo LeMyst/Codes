@@ -1,3 +1,5 @@
+# Article D2363-2
+
 Les membres du comité de la société coopérative européenne sont :
 
 1° Soit désignés selon les modalités définies aux articles D. 2362-6 et suivants ;

@@ -1,3 +1,5 @@
+# Article R5141-1
+
 Les aides destinées aux personnes qui créent ou reprennent une entreprise, ou qui entreprennent l'exercice d'une autre profession non salariée, prévues au présent chapitre, comprennent :
 
 1° L'exonération de cotisations sociales prévue à l'article L. 161-1-1 du code de la sécurité sociale. Cette exonération peut être cumulée avec les allocations mentionnées à l'article 9 de la loi n° 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions ;

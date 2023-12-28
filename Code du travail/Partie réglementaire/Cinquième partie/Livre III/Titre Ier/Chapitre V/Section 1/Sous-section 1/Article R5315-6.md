@@ -1,3 +1,5 @@
+# Article R5315-6
+
 Le conseil d'administration se réunit sur convocation de son président au moins trois fois par an.
 
 Il est en outre réuni de plein droit, à la demande écrite d'un tiers de ses membres ou à celle de l'un des ministres de tutelle, sur les points de l'ordre du jour déterminés par eux, dans le délai d'un mois suivant la demande.

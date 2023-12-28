@@ -1,3 +1,5 @@
+# Article L1254-25
+
 L'entreprise de portage salarial met en place et gère pour chaque salarié porté un compte d'activité.
 
 Le salarié porté est informé une fois par mois des éléments imputés sur ce compte, et notamment :

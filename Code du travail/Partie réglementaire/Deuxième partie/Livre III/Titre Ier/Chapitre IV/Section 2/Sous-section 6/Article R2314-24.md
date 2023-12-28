@@ -1,3 +1,5 @@
+# Article R2314-24
+
 Le tribunal judiciaire est saisi des contestations par voie de requête.
 
 Lorsque la contestation porte sur l'électorat, la requête n'est recevable que si elle est remise ou adressée dans les trois jours suivant la publication de la liste électorale.

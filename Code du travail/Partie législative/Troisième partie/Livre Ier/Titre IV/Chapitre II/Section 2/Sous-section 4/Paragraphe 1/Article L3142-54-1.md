@@ -1,3 +1,5 @@
+# Article L3142-54-1
+
 Un congé est accordé chaque année, à sa demande, sans condition d'âge :
 
 1° A tout salarié désigné pour siéger à titre bénévole dans l'organe d'administration ou de direction d'une association régie par la loi du 1er juillet 1901 relative au contrat d'association ou inscrite au registre des associations en application du code civil local applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, déclarée depuis trois ans au moins et dont l'ensemble des activités est mentionné au b du 1 de l'article 200 du code général des impôts, et à tout salarié exerçant à titre bénévole des fonctions de direction ou d'encadrement au sein d'une telle association ;

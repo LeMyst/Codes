@@ -1,3 +1,5 @@
+# Article R6341-34
+
 Dès le début du stage, le directeur de l'établissement ou du centre de formation :
 
 1° Lorsqu'il s'agit de stages agréés par l'Etat, et en ce qui concerne les stagiaires pour lesquels la gestion de la rémunération est confiée à Pôle emploi, adresse la demande à cet établissement ;

@@ -1,3 +1,5 @@
+# Article D6323-9-2
+
 Pour bénéficier d'un projet de transition professionnelle dans les conditions mentionnées au troisième alinéa de l'article L. 6323-17-1 du code du travail, le salarié doit justifier que :
 
 1° Les conditions d'ancienneté requises aux articles R. 6323-9 et R. 6323-9-1 s'appliquent à des métiers relevant de la cartographie des métiers et des activités mentionnée au III de l'article L. 221-1-5.

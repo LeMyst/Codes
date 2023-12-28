@@ -1,3 +1,5 @@
+# Article R6523-25
+
 Le comité de l'emploi, de la formation et de l'orientation professionnelle est composé, outre le représentant de l'Etat à Saint-Pierre-et-Miquelon et le président du conseil territorial, de membres nommés par arrêté du représentant de l'Etat :
 
 1° Quatre représentants de l'Etat :

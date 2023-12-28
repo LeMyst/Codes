@@ -1,3 +1,5 @@
+# Article R4412-11
+
 L'employeur définit et applique les mesures de prévention visant à supprimer ou à réduire au minimum le risque d'exposition à des agents chimiques dangereux :\
 1° En concevant et en organisant des méthodes de travail adaptées ;\
 2° En prévoyant un matériel adéquat ainsi que des procédures d'entretien régulières qui protègent la santé et la sécurité des travailleurs ;\

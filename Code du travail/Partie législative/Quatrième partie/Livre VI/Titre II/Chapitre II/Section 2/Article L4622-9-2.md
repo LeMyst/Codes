@@ -1,3 +1,5 @@
+# Article L4622-9-2
+
 I.-En cas de dysfonctionnement grave du service de prévention et de santé au travail interentreprises portant atteinte à la réalisation de ses missions relevant de l'ensemble socle mentionné à l'article L. 4622-9-1, l'autorité administrative peut enjoindre son président de remédier à cette situation dans un délai qu'elle fixe. Ce délai doit être raisonnable et adapté à l'objectif recherché. Elle en informe le comité régional de prévention et de santé au travail.
 
 Cette injonction peut inclure des mesures de réorganisation et, le cas échéant, des mesures individuelles conservatoires, en application du présent code ou des accords collectifs en vigueur.

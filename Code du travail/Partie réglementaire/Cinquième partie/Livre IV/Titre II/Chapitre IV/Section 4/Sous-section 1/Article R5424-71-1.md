@@ -1,3 +1,5 @@
+# Article R5424-71-1
+
 Pour l'application de la deuxième phrase du 1° de l'article L. 5424-27, le montant moyen mensuel des revenus issus de l'activité indépendante mentionnée au 1° de l'article R. 5424-70 est déterminé :
 
 1° En divisant par vingt-quatre les revenus correspondant à cette activité mentionnés dans les deux déclarations fiscales présentées pour l'appréciation de la condition de revenu prévue à l'article R. 5424-71 ;

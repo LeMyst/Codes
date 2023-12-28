@@ -1,3 +1,5 @@
+# Article R4461-28
+
 Le certificat d'aptitude à l'hyperbarie indique notamment :
 
 1° La mention correspondant à l'activité professionnelle exercée ;

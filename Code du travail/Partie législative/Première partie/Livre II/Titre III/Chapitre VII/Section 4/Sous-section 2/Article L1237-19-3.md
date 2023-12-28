@@ -1,3 +1,5 @@
+# Article L1237-19-3
+
 L'accord collectif mentionné à l'article L. 1237-19 est transmis à l'autorité administrative pour validation.
 
 L'autorité administrative valide l'accord collectif dès lors qu'elle s'est assurée :

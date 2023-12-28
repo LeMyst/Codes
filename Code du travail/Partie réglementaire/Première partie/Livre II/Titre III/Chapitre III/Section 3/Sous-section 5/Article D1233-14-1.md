@@ -1,3 +1,5 @@
+# Article D1233-14-1
+
 Le délai prévu à l'article L. 1233-57-4 court à compter de la réception par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du dossier complet.
 
 Le dossier est complet lorsqu'il comprend les informations permettant de vérifier le contenu du plan de sauvegarde de l'emploi, les modalités d'information et de consultation du comité social et économique, la pondération et le périmètre d'application des critères d'ordre des licenciements, le calendrier des licenciements, le nombre de suppressions d'emploi et les catégories professionnelles concernées, et les modalités de mise en œuvre des mesures de formation, d'adaptation et de reclassement et, lorsqu'un accord est conclu en application de l'article L. 1233-24-1, les informations relatives à la représentativité des organisations syndicales signataires.

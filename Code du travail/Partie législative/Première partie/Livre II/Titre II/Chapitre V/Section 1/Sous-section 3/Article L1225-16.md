@@ -1,3 +1,5 @@
+# Article L1225-16
+
 La salariée bénéficie d'une autorisation d'absence pour se rendre aux examens médicaux obligatoires prévus par l'article L. 2122-1 du code de la santé publique dans le cadre de la surveillance médicale de la grossesse et des suites de l'accouchement.
 
 La salariée bénéficiant d'une assistance médicale à la procréation dans les conditions prévues au chapitre Ier du titre IV du livre Ier de la deuxième partie du code de la santé publique bénéficie d'une autorisation d'absence pour les actes médicaux nécessaires.

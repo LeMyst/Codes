@@ -1,3 +1,5 @@
+# Article R4313-54
+
 L'organisme notifié effectue, à l'improviste chez le fabricant, des visites dont la nécessité et la fréquence sont déterminées sur la base du système de contrôle géré par l'organisme. Au nombre des critères de choix de l'organisme figurent :
 
 1° Les résultats des visites de surveillance antérieure ;

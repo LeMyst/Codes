@@ -1,3 +1,5 @@
+# Article L6331-48
+
 Les travailleurs indépendants, y compris ceux n'employant aucun salarié, consacrent chaque année au financement des actions définies à l'article L. 6313-1 du présent code :
 
 1° Une contribution qui ne peut être inférieure à 0,25 % du montant annuel du plafond de la sécurité sociale pour les personnes mentionnées au premier alinéa, à l'exception de celles mentionnées au 2° du présent article. Ce taux est porté à 0,34 % lorsque ces personnes bénéficient du concours de leur conjoint collaborateur dans les conditions prévues au premier alinéa du I de l'article L. 121-4 du code de commerce ;

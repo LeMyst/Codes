@@ -1,3 +1,5 @@
+# Article R4451-19
+
 Lorsque les mesures mises en œuvre en application de l'article R. 4451-18 ne permettent pas d'éviter un risque de contamination par des substances radioactives ou de mise en suspension d'aérosols ou de relâchement gazeux significatif, l'employeur met en œuvre notamment les mesures visant à :
 
 1° En limiter les quantités sur le lieu de travail ;

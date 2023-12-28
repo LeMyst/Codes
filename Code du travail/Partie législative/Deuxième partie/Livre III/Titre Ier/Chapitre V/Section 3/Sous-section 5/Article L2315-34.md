@@ -1,3 +1,5 @@
+# Article L2315-34
+
 Les délibérations du comité social et économique sont consignées dans un procès-verbal établi par le secrétaire du comité dans un délai et selon des modalités définis par un accord conclu dans les conditions prévues au premier alinéa de l'article L. 2312-16 ou, à défaut, par un décret.
 
 A l'issue du délai mentionné au premier alinéa, le procès-verbal est transmis à l'employeur, qui fait connaître lors de la réunion du comité suivant cette transmission sa décision motivée sur les propositions qui lui ont été soumises.

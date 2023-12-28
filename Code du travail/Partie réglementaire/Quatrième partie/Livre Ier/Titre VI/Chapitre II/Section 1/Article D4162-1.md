@@ -1,3 +1,5 @@
+# Article D4162-1
+
 I.-La proportion minimale de salariés mentionnée au 1° du I de l'article L. 4162-1 est fixée à 25 % de l'effectif.
 
 II.-Pour l'application du 2° du I de l'article L. 4162-1 du code du travail, l'entreprise ou le groupe est assujetti à l'obligation prévue à ce même article si son indice de sinistralité est supérieur à 0,25.

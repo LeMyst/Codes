@@ -1,3 +1,5 @@
+# Article R4624-45-9
+
 Les informations concernant la santé des travailleurs sont soit conservées au sein des services de prévention et de santé au travail qui les ont recueillies, soit déposées par ces établissements auprès d'un organisme hébergeur dans le respect des dispositions de l'article L. 1111-8 du code de la santé publique.
 
 Le service de prévention et de santé au travail veille à ce que toutes dispositions soient prises pour assurer la confidentialité des informations ainsi conservées ou hébergées.

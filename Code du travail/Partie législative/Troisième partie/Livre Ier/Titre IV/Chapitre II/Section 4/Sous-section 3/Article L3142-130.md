@@ -1,3 +1,5 @@
+# Article L3142-130
+
 A défaut de l'accord mentionné à l'article L. 3142-129, les dispositions suivantes sont applicables :
 
 1° La durée maximale du congé ou de la période de travail à temps partiel est d'un an. Cette durée peut être prolongée sur demande du salarié par accord entre l'entreprise et l'organisme ou l'entreprise d'accueil ;

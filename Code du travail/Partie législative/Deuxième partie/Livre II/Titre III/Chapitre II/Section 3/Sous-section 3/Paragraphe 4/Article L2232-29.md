@@ -1,3 +1,5 @@
+# Article L2232-29
+
 La négociation entre l'employeur et les membres de la délégation du personnel du comité social et économique, mandatés ou non, ou les salariés de l'entreprise mandatés se déroule dans le respect des règles suivantes :
 
 1° Indépendance des négociateurs vis-à-vis de l'employeur ;

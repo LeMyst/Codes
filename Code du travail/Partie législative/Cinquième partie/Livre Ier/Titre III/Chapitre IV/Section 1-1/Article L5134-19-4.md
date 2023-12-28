@@ -1,3 +1,5 @@
+# Article L5134-19-4
+
 Le président du conseil départemental signe, préalablement à l'attribution des aides à l'insertion professionnelle prévues à l'article L. 5134-19-1, une convention annuelle d'objectifs et de moyens avec l'Etat.
 
 Cette convention fixe :

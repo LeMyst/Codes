@@ -1,3 +1,5 @@
+# Article D2315-36
+
 Pour l'appréciation du seuil mentionné à l'article D. 2315-35, les ressources annuelles sont égales au total :
 
 1° Du montant de la subvention de fonctionnement prévue à l'article L. 2315-61 ;

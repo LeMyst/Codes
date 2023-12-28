@@ -1,3 +1,5 @@
+# Article R7123-19
+
 Le contrat de mise à disposition mentionne notamment :\
 1° La nature et les caractéristiques de la prestation, notamment en ce qui concerne les conditions de travail et les horaires prévisibles d'emploi et de sélection ;\
 2° La durée prévisible et le lieu de la mission ;\

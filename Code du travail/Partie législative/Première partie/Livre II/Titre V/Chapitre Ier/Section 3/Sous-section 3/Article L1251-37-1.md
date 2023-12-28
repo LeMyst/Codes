@@ -1,3 +1,5 @@
+# Article L1251-37-1
+
 A défaut de stipulation dans la convention ou l'accord de branche conclu en application de l'article L. 1251-37, le délai de carence n'est pas applicable :
 
 1° Lorsque le contrat de mission est conclu pour assurer le remplacement d'un salarié temporairement absent ou dont le contrat de travail est suspendu, en cas de nouvelle absence du salarié remplacé ;

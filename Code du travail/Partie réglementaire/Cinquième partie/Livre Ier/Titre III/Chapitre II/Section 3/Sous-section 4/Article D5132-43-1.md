@@ -1,3 +1,5 @@
+# Article D5132-43-1
+
 La convention mentionnée à l'article L. 5132-2 peut prévoir la possibilité pour l'organisme conventionné en tant qu'atelier et chantier d'insertion signataire de mettre en place des périodes de mise en situation en milieu professionnel pour ses salariés recrutés dans le cadre de contrats conclus en application de l'article L. 5132-15-1.
 
 Dans ce cas, la convention précise :

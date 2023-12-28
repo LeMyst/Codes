@@ -1,3 +1,5 @@
+# Article R4313-80
+
 Sont soumis à la procédure de contrôle interne de la fabrication dite procédure d'autocertification CE définie par l'article R. 4313-20 les équipements de protection individuelle neufs ou considérés comme neufs qui ont pour but de protéger l'utilisateur contre :
 
 1° Les agressions mécaniques dont les effets sont superficiels ;

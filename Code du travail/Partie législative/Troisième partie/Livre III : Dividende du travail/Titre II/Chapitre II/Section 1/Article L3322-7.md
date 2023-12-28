@@ -1,3 +1,5 @@
+# Article L3322-7
+
 Par dérogation à l'article L. 3322-6, un accord de groupe peut être passé entre les sociétés d'un même groupe ou seulement certaines d'entre elles.
 
 Cet accord est conclu selon l'une des modalités suivantes :

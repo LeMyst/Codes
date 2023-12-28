@@ -1,3 +1,5 @@
+# Article R2122-56
+
 Il est créé un bureau de vote chargé du contrôle de l'ensemble des opérations électorales et du dépouillement du scrutin. Il s'assure notamment :
 
 1° De la mise en œuvre des dispositifs de sécurité prévus pour garantir le secret du vote et son intégrité ;

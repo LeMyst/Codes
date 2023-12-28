@@ -1,3 +1,5 @@
+# Article L1251-49
+
 L'entrepreneur de travail temporaire justifie, à tout moment, d'une garantie financière assurant, en cas de défaillance de sa part, le paiement :
 
 1° Des salaires et de leurs accessoires ;

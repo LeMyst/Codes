@@ -1,3 +1,5 @@
+# Article L7124-1
+
 Un enfant de moins de seize ans ne peut, sans autorisation individuelle préalable, accordée par l'autorité administrative, être, à quelque titre que ce soit, engagé ou produit :
 
 1° Dans une entreprise de spectacles, sédentaire ou itinérante ;

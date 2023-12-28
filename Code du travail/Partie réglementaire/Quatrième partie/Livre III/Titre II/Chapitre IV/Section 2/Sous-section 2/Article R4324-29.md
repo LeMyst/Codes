@@ -1,3 +1,5 @@
+# Article R4324-29
+
 Les équipements de travail servant au levage et au déplacement de travailleurs sont choisis ou équipés pour :\
 1° Eviter les risques de chute de l'habitacle, lorsqu'il existe, au moyen de dispositifs appropriés ;\
 2° Eviter les risques de chute de l'utilisateur hors de l'habitacle, lorsqu'il existe ;\

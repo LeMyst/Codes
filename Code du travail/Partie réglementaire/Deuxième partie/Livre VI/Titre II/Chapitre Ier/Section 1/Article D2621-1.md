@@ -1,3 +1,5 @@
+# Article D2621-1
+
 S'appliquent en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon les dispositions relatives :
 
 1° Aux critères de représentativité syndicale, prévues au chapitre Ier du titre II du livre premier ;

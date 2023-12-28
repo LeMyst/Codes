@@ -1,3 +1,5 @@
+# Article R5134-18
+
 L'Agence de services et de paiement est autorisée à mettre en œuvre un traitement automatisé des données à caractère personnel contenues dans les décisions d'attribution de l'aide à l'insertion professionnelle.
 
 Le traitement automatisé a pour finalité :

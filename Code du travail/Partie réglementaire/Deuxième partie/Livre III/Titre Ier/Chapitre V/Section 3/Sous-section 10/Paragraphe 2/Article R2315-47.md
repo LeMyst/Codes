@@ -1,3 +1,5 @@
+# Article R2315-47
+
 L'expert remet son rapport au plus tard quinze jours avant l'expiration des délais de consultation du comité social et économique mentionnés aux second et troisième alinéas de l'article R. 2312-6.
 
 Lorsque le comité social et économique recourt à un expert-comptable dans le cas prévu au 1° de l'article L. 2315-92, l'expert remet son rapport dans un délai de huit jours à compter de la notification de la décision de l'Autorité de la concurrence ou de la Commission européenne saisie du dossier.

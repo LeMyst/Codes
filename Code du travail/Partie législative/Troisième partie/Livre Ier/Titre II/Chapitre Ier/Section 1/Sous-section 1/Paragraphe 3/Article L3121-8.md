@@ -1,3 +1,5 @@
+# Article L3121-8
+
 A défaut d'accords prévus aux articles L. 3121-6 et L. 3121-7 :
 
 1° Le contrat de travail peut fixer la rémunération des temps de restauration et de pause ;

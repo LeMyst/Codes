@@ -1,3 +1,5 @@
+# Article L3121-41
+
 Lorsqu'est mis en place un dispositif d'aménagement du temps de travail sur une période de référence supérieure à la semaine, les heures supplémentaires sont décomptées à l'issue de cette période de référence.
 
 Cette période de référence ne peut dépasser trois ans en cas d'accord collectif et neuf semaines en cas de décision unilatérale de l'employeur.

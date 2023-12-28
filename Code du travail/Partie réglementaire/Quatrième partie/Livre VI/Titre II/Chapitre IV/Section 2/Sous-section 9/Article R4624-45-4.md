@@ -1,3 +1,5 @@
+# Article R4624-45-4
+
 Le dossier médical en santé au travail comprend les éléments suivants :
 
 1° Les données d'identité, incluant l'identifiant national de santé mentionné à l'article L. 1111-8-1 du code de la santé publique, les données médico-administratives du travailleur nécessaires à la coordination de sa prise en charge en matière de santé et, le cas échéant, les données d'identité et de contact de son médecin traitant ;

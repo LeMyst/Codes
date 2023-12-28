@@ -1,3 +1,5 @@
+# Article R4451-106
+
 Le médecin du travail et le conseiller en radioprotection mettent en œuvre de manière concertée la surveillance dosimétrique individuelle prévue au 4° de l'article R. 4451-102 ou l'évaluation des expositions prévue au 3° de l'article R. 4451-103.
 
 Ils recourent, si nécessaire, à l'appui technique de l'Institut de radioprotection et de sûreté nucléaire.

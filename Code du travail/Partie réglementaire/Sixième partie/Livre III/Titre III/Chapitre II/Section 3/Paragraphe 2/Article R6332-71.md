@@ -1,3 +1,5 @@
+# Article R6332-71
+
 L'agrément d'un fonds d'assurance formation de non-salariés peut être retiré, après mise en demeure motivée, lorsque les dispositions légales applicables aux fonds d'assurance formation ou les conditions particulières prévues par la décision d'agrément ne sont pas respectées, ou lorsque le fonds d'assurance formation présente des dysfonctionnements répétés ou des défaillances n'ayant pas pu être surmontés par la désignation d'un administrateur provisoire sur le fondement de l'article R. 6332-5.
 
 L'agrément peut également être retiré, après information préalable du fonds concerné, lorsque le montant de la collecte annuelle destinée à être reversée au fonds d'assurance formation n'atteint pas, pendant deux années consécutives, le seuil prévu au second alinéa de l'article R. 6332-70.

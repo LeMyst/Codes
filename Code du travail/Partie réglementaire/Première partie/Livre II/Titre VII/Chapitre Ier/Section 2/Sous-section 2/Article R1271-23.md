@@ -1,3 +1,5 @@
+# Article R1271-23
+
 Avant le 30 avril de chaque année, l'émetteur habilité du titre spécial de paiement mentionné au B de l'article L. 1271-1 transmet au ministre chargé des services à la personne ainsi qu'à la Banque de France, par lettre recommandée avec avis de réception :
 
 1° Un rapport d'activité portant sur l'année civile d'émission écoulée. Ce rapport expose par ailleurs les perspectives d'activité de l'émetteur pour l'année en cours ;

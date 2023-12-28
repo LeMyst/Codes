@@ -1,3 +1,5 @@
+# Article L1111-2
+
 Pour la mise en oeuvre des dispositions du présent code, les effectifs de l'entreprise sont calculés conformément aux dispositions suivantes :
 
 1° Les salariés titulaires d'un contrat de travail à durée indéterminée à temps plein et les travailleurs à domicile sont pris intégralement en compte dans l'effectif de l'entreprise ;

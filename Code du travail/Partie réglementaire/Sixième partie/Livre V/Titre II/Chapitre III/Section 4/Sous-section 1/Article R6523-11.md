@@ -1,3 +1,5 @@
+# Article R6523-11
+
 Les stagiaires résidant en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy ou à Saint-Martin qui suivent, dans ce même département ou cette même collectivité, un stage donnant lieu à rémunération à la charge de l'Etat ou de la région ont droit :
 
 1° Au remboursement par l'Etat ou la région de la totalité des frais de transport exposés au début et à la fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir, à condition que la distance à parcourir à partir de leur domicile soit supérieure à 25 km ;

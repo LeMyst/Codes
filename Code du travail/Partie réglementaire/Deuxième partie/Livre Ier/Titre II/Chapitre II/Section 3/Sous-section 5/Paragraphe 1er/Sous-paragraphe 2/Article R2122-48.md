@@ -1,3 +1,5 @@
+# Article R2122-48
+
 La commission régionale des opérations de vote comprend :
 
 1° Deux fonctionnaires désignés par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dont l'un assure la fonction de président et l'autre celle de secrétaire ;

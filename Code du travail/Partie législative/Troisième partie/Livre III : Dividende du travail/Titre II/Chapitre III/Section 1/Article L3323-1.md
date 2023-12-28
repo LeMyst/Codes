@@ -1,3 +1,5 @@
+# Article L3323-1
+
 L'accord de participation détermine :
 
 1° Les conditions dans lesquelles les salariés sont informés de l'application des dispositions du présent titre ;

@@ -1,3 +1,5 @@
+# Article L5212-5-1
+
 L'association mentionnée à l'article L. 5214-1 se prononce de manière explicite sur toute demande d'un employeur ayant pour objet de connaître l'application à sa situation de la législation relative :
 
 1° A l'effectif d'assujettissement à l'obligation d'emploi calculé selon l'article L. 1111-2 ;

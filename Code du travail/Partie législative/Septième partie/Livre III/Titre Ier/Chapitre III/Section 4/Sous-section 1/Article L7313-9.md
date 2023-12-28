@@ -1,3 +1,5 @@
+# Article L7313-9
+
 En cas de rupture du contrat de travail, la durée du préavis ne peut être inférieure à :
 
 1° Un mois durant la première année de présence dans l'entreprise ;

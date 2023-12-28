@@ -1,3 +1,5 @@
+# Article R2314-23
+
 Le tribunal judiciaire statue en dernier ressort sur :
 
 1° La demande de mise en place d'un dispositif de contrôle du scrutin prévue à l'article L. 2314-17 ;

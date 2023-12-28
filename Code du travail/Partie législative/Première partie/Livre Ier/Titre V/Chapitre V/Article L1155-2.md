@@ -1,3 +1,5 @@
+# Article L1155-2
+
 Sont punis d'un an d'emprisonnement et d'une amende de 3 750 € les faits de discriminations commis à la suite d'un harcèlement moral ou sexuel définis aux articles L. 1152-2,
 L. 1153-2 et L. 1153-3 du présent code.
 

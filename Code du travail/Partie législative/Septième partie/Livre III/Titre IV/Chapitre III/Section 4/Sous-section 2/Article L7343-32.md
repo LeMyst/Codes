@@ -1,3 +1,5 @@
+# Article L7343-32
+
 L'accord est, à peine de nullité, un acte écrit.
 
 L'accord est rédigé en français.

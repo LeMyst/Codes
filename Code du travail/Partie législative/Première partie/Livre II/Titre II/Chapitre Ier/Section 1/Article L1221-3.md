@@ -1,3 +1,5 @@
+# Article L1221-3
+
 Le contrat de travail établi par écrit est rédigé en français.
 
 Lorsque l'emploi qui fait l'objet du contrat ne peut être désigné que par un terme étranger sans correspondant en français, le contrat de travail comporte une explication en français du terme étranger.

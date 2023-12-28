@@ -1,3 +1,5 @@
+# Article L6332-1-3
+
 I.-L'opérateur de compétences prend en charge :
 
 1° Les actions concourant au développement des compétences au bénéfice des entreprises de moins de cinquante salariés mentionnées à l'article L. 6313-1 ;

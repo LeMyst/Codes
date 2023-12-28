@@ -1,3 +1,5 @@
+# Article D4153-30
+
 I.-Il est interdit d'affecter les jeunes à des travaux temporaires en hauteur lorsque la prévention du risque de chute de hauteur n'est pas assurée par des mesures de protection collective.
 
 II.-Il peut être dérogé, pour l'utilisation d'échelles, d'escabeaux et de marchepieds, à l'interdiction mentionnée au I, dans les conditions prévues par le deuxième alinéa de l'article R. 4323-63.

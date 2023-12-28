@@ -1,3 +1,5 @@
+# Article R5221-3
+
 I.-L'étranger qui bénéficie de l'autorisation de travail prévue par l'article R. 5221-1 peut, dans le respect des termes de celle-ci, exercer une activité professionnelle salariée en France lorsqu'il est titulaire de l'un des documents et titres de séjour suivants :
 
 1° La carte de séjour temporaire portant la mention “ travailleur temporaire ”, délivrée en application de l'article L. 421-3 du code de l'entrée et du séjour des étrangers et du droit d'asile ou le visa de long séjour valant titre de séjour portant la même mention, mentionné au 8° de l'article R. 431-16 du même code ;

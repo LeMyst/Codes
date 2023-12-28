@@ -1,3 +1,5 @@
+# Article L3133-3
+
 Le chômage des jours fériés ne peut entraîner aucune perte de salaire pour les salariés totalisant au moins trois mois d'ancienneté dans l'entreprise ou l'établissement.
 
 Ces dispositions s'appliquent aux salariés saisonniers si, du fait de divers contrats successifs ou non, ils cumulent une ancienneté totale d'au moins trois mois dans l'entreprise.

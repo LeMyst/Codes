@@ -1,3 +1,5 @@
+# Article R4641-17
+
 Les membres du comité régional mentionnés aux 3° et 5° de l'article R. 4641-16 remplissent et actualisent une déclaration individuelle d'intérêts déposée à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Ils ne participent pas aux travaux susceptibles de comporter un conflit d'intérêts.
 
 En tant que de besoin, tout représentant ministériel ou toute autre personne que le représentant de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi estime utile à la réflexion sur les thèmes inscrits à l'ordre du jour.

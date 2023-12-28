@@ -1,3 +1,5 @@
+# Article R4314-10
+
 I.-L'autorité de surveillance du marché expose à l'opérateur économique concerné les éléments dont elle dispose tendant à établir une non-conformité d'un équipement de travail ou d'un équipement de protection individuelle et lui communique, le cas échéant, les rapports de vérification mentionnés à l'article R. 4314-5.
 
 Elle lui impartit un délai pour présenter ses observations et exposer les mesures correctives qu'il envisage, le cas échéant, de prendre.

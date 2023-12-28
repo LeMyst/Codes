@@ -1,3 +1,5 @@
+# Article R1423-1
+
 I. - Le conseil de prud'hommes est divisé en cinq sections autonomes :\
 1° La section de l'encadrement ;\
 2° La section de l'industrie ;\

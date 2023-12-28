@@ -1,3 +1,5 @@
+# Article R6123-12
+
 I.-Le président du conseil d'administration est nommé, dans les conditions prévues à l'article L. 6123-7, pour trois ans.
 
 II.-Le président du conseil d'administration :

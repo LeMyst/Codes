@@ -1,3 +1,5 @@
+# Article R4543-16
+
 Lors de l'organisation des interventions ou travaux mentionnés à l'article R. 4543-15, le chef de l'entreprise intervenante définit les modes opératoires appropriés à la technologie de l'équipement et à son environnement.
 
 Cette organisation prend en compte :

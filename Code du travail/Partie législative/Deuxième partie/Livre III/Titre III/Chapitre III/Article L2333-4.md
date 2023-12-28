@@ -1,3 +1,5 @@
+# Article L2333-4
+
 Le nombre total des sièges au comité de groupe est réparti entre les élus des différents collèges électoraux proportionnellement à l'importance numérique de chaque collège.
 
 Les sièges affectés à chaque collège sont répartis entre les organisations syndicales proportionnellement au nombre d'élus qu'elles ont obtenus dans ces collèges, selon la règle de la représentation proportionnelle au plus fort reste.

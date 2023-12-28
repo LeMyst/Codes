@@ -1,3 +1,5 @@
+# Article D6323-18-1
+
 I.-Lorsque le projet de transition professionnelle est réalisé sur le temps de travail, le salarié bénéficie de la rémunération prévue à l'article L. 6323-17-5 pendant la durée de son projet, sous réserve de son assiduité à l'action de formation ou au stage en entreprise nécessaire à l'obtention de la certification prévue par le projet de transition professionnelle.
 
 II.-La rémunération du bénéficiaire du projet de transition professionnelle et les cotisations sociales légales et conventionnelles à la charge de l'employeur assises sur cette rémunération sont versées mensuellement par l'employeur.

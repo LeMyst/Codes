@@ -1,3 +1,5 @@
+# Article L4643-4
+
 Des commissions de santé et de sécurité, instituées par conventions et accords collectifs de travail et composées de représentants des employeurs et des salariés, sont chargées de promouvoir la formation à la sécurité et de contribuer à l'amélioration des conditions de santé et de sécurité.
 
 Ces dispositions ne sont pas applicables aux exploitations et aux entreprises agricoles qui ne disposent pas de comité social et économique. Ces exploitations et entreprises relevant de l'article L. 717-7 du code rural et de la pêche maritime, relatif aux commissions paritaires d'hygiène, de sécurité et des conditions de travail en agriculture.

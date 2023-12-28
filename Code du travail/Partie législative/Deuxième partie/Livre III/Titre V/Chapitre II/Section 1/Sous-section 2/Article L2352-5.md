@@ -1,3 +1,5 @@
+# Article L2352-5
+
 Les membres du groupe spécial de négociation sont désignés par les organisations syndicales de salariés parmi leurs élus aux comités sociaux et économiques ou leurs représentants syndicaux, sur la base des résultats des dernières élections.
 
 Il en va de même des représentants des salariés des sociétés participantes, filiales ou établissements concernés situés en France et relevant d'une société européenne située dans un Etat autre que la France.

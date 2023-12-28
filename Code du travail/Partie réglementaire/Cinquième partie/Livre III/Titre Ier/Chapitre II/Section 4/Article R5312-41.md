@@ -1,3 +1,5 @@
+# Article R5312-41
+
 Dans le cadre des finalités mentionnées à l'article R. 5312-38, le système d'information est mis en relation, aux fins de vérification et de mise à jour, avec :
 
 1° Le système national de gestion des identifiants mis en œuvre par la Caisse nationale d'assurance vieillesse des travailleurs salariés, mentionné à l'article L. 114-12-1 du code de la sécurité sociale, pour identifier de manière unique les demandeurs d'emploi et les salariés par la certification de leur numéro d'inscription au répertoire national d'identification des personnes physiques (NIR) ;

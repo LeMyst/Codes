@@ -1,3 +1,5 @@
+# Article R4452-13
+
 La réduction des risques d'exposition aux rayonnements optiques artificiels se fonde notamment sur :
 
 1° La mise en œuvre d'autres procédés de travail n'exposant pas aux rayonnements optiques artificiels ou entraînant une exposition moindre ;

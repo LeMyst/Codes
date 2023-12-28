@@ -1,3 +1,5 @@
+# Article D6323-21-3
+
 I.-Une convention d'objectifs et de moyens triennale est conclue entre la commission paritaire interprofessionnelle régionale et le préfet de région.
 
 Lors de la procédure préalable à cette convention, la commission paritaire interprofessionnelle régionale transmet au préfet de région un état des orientations de son activité et de l'évolution prévisionnelle des charges qui en résultent.

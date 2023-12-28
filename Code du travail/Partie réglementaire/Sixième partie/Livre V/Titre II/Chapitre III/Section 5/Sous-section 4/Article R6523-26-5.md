@@ -1,3 +1,5 @@
+# Article R6523-26-5
+
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelle est composé, outre le préfet ou son représentant et du président du conseil départemental de Mayotte, de membres nommés par arrêté du préfet :
 
 1° Huit représentants de l'Etat ;

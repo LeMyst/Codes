@@ -1,3 +1,5 @@
+# Article R4451-68
+
 I.-Le médecin du travail a accès, sous leur forme nominative, aux résultats de la surveillance dosimétrique individuelle ainsi qu'à la dose efficace de chaque travailleur dont il assure le suivi individuel renforcé prévu à l'article R. 4451-82.
 
 II.-Dans le cadre du suivi individuel renforcé prévu à l'article R. 4451-82, le médecin du travail peut autoriser l'accès aux données mentionnées au I :

@@ -1,3 +1,5 @@
+# Article L5315-2
+
 Dans le respect des compétences des régions chargées du service public régional de la formation professionnelle, l'établissement mentionné à l'article L. 5315-1 a également pour missions :
 
 1° De contribuer à l'émergence et à l'organisation de nouveaux métiers et de nouvelles compétences, notamment par le développement d'une ingénierie de formation adaptée aux besoins ;

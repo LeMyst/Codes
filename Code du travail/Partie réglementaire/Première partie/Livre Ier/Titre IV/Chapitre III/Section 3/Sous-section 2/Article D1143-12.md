@@ -1,3 +1,5 @@
+# Article D1143-12
+
 La participation financière de l'Etat aux dépenses directement imputables à la réalisation du contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes, déduction faite de la taxe sur la valeur ajoutée, est calculée dans la limite maximale d'un pourcentage variable selon la nature et le contenu des actions :
 
 1° 50 % du coût d'investissement en matériel lié à la modification de l'organisation et des conditions de travail ;

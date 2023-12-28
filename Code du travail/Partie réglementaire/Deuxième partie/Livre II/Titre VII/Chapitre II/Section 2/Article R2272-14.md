@@ -1,3 +1,5 @@
+# Article R2272-14
+
 La sous-commission des conventions et accords, réunie en formation spécifique en application du 1° de l'article R. 2272-10, est composée comme suit :
 
 1° Le ministre chargé de l'agriculture ou son représentant, président ;

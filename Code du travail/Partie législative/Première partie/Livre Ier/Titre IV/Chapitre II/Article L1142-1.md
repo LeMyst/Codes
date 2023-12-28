@@ -1,3 +1,5 @@
+# Article L1142-1
+
 Sous réserve des dispositions particulières du présent code, nul ne peut :
 
 1° Mentionner ou faire mentionner dans une offre d'emploi le sexe ou la situation de famille du candidat recherché. Cette interdiction est applicable pour toute forme de publicité relative à une embauche et quels que soient les caractères du contrat de travail envisagé ;

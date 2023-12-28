@@ -1,3 +1,5 @@
+# Article D4163-6
+
 Le référentiel professionnel de branche mentionné au II de l'article L. 4163-2 est homologué par arrêté conjoint des ministres chargés du travail et des affaires sociales après avis du Conseil d'orientation des conditions de travail.
 
 Il ne peut être établi que par une organisation professionnelle représentative dans la branche concernée, dans la limite de son champ d'activité.

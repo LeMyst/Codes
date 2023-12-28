@@ -1,3 +1,5 @@
+# Article L8221-7
+
 Toute personne qui publie, diffuse ou fait diffuser par tout moyen une offre de service ou de vente ou une annonce destinée à faire connaître son activité professionnelle au public est tenue :
 
 1° Lorsqu'elle est soumise au respect des formalités mentionnées aux articles L. 8221-3 et L. 8221-5 :

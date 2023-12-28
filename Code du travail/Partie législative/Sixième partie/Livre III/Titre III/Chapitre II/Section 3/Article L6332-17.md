@@ -1,3 +1,5 @@
+# Article L6332-17
+
 L'opérateur de compétences finance au titre de la section financière mentionnée au 2° de l'article L. 6332-3 relative aux actions concourant au développement des compétences au bénéfice des entreprises de moins de cinquante salariés :
 
 1° Les coûts des actions de formation du plan de développement des compétences, de la rémunération du salarié en formation et des frais annexes ;

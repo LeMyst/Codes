@@ -1,3 +1,5 @@
+# Article R6352-22
+
 Le bilan pédagogique et financier prévu à l'article L. 6352-11 indique :
 
 1° Les activités de formation conduites au cours de l'exercice comptable ;

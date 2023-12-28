@@ -1,3 +1,5 @@
+# Article D1237-2-2
+
 L'employeur propose aux salariés, avant leur départ à la retraite, des actions de sensibilisation à la lutte contre l'arrêt cardiaque et aux gestes qui sauvent prévue à l'article L. 1237-9-1.
 
 Le temps consacré à cette sensibilisation est considéré comme temps de travail.

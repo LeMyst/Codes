@@ -1,3 +1,5 @@
+# Article L5122-1
+
 I.-Les salariés sont placés en position d'activité partielle, après autorisation expresse ou implicite de l'autorité administrative, s'ils subissent une perte de rémunération imputable :
 
 -soit à la fermeture temporaire de leur établissement ou partie d'établissement ;

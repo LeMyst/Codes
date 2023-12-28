@@ -1,3 +1,5 @@
+# Article R7331-5
+
 La coopérative d'activité et d'emploi tient, pour chaque activité économique autonome :
 
 1° Un compte analytique de bilan qui récapitule les éléments de l'actif et du passif ;

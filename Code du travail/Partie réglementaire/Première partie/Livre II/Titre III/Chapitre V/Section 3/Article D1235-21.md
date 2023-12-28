@@ -1,3 +1,5 @@
+# Article D1235-21
+
 Le barème mentionné au premier alinéa de l'article L. 1235-1 est défini comme suit :
 
 -deux mois de salaire si le salarié justifie chez l'employeur d'une ancienneté inférieure à un an ;

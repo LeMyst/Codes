@@ -1,3 +1,5 @@
+# Article L2315-22
+
 Sauf circonstances exceptionnelles, les membres de la délégation du personnel du comité social et économique remettent à l'employeur une note écrite exposant l'objet des demandes présentées, deux jours ouvrables avant la date à laquelle ils doivent être reçus.
 
 L'employeur répond par écrit à ces demandes, au plus tard dans les six jours ouvrables suivant la réunion.

@@ -1,3 +1,5 @@
+# Article L1237-13
+
 La convention de rupture définit les conditions de celle-ci, notamment le montant de l'indemnité spécifique de rupture conventionnelle qui ne peut pas être inférieur à celui de l'indemnité prévue à l'article L. 1234-9.
 
 Elle fixe la date de rupture du contrat de travail, qui ne peut intervenir avant le lendemain du jour de l'homologation.

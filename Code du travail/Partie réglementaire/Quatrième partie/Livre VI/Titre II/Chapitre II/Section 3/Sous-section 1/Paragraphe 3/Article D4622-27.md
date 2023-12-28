@@ -1,3 +1,5 @@
+# Article D4622-27
+
 Chaque secteur comporte au moins un centre médical fixe.
 
 Dans chaque centre médical fixe ou mobile est affichée la liste nominative avec leurs coordonnées :

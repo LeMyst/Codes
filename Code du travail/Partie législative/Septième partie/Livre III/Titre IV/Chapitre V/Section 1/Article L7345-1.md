@@ -1,3 +1,5 @@
+# Article L7345-1
+
 L'Autorité des relations sociales des plateformes d'emploi est un établissement public national à caractère administratif, placé sous la tutelle du ministre chargé du travail et du ministre chargé des transports.
 
 Elle a pour mission la régulation du dialogue social entre les plateformes mentionnées à l'article L. 7342-1 et les travailleurs qui leur sont liés par un contrat commercial, notamment en assurant la diffusion d'informations et en favorisant la concertation.

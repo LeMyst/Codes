@@ -1,3 +1,5 @@
+# Article L2241-1
+
 Les organisations liées par une convention de branche ou, à défaut, par des accords professionnels se réunissent, au moins une fois tous les quatre ans pour les thèmes mentionnés aux 1° à 5° et au moins une fois tous les cinq ans pour les thèmes mentionnés aux 6° et 7°, pour négocier :
 
 1° Sur les salaires ;

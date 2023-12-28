@@ -1,3 +1,5 @@
+# Article D6331-71
+
 En cas de dépassement du plafond mentionné au dernier alinéa de l'article D. 6331-69 ou de dysfonctionnement de l'organisme spécifique mentionné à l'article L. 6331-60, le ministre chargé de la formation professionnelle adresse à l'organisme spécifique et à l'opérateur de compétences, par tout moyen donnant date certaine à sa réception, une mise en demeure motivée afin de présenter, dans un délai d'un mois, ses observations écrites et, le cas échéant, orales justifiant cette situation et précisant les mesures prévues pour y remédier.
 
 Au vu des éléments de réponse de l'opérateur de compétences ou après l'expiration de ce délai, le ministre chargé de la formation professionnelle peut :

@@ -1,3 +1,5 @@
+# Article R5523-14
+
 Pour accorder ou refuser l'autorisation de travail sollicitée, le préfet de Saint-Pierre-et-Miquelon prend notamment en considération :\
 1° La situation de l'emploi présente et à venir dans la profession demandée par le travailleur étranger ;\
 2° Les conditions d'application par l'employeur de la réglementation relative au travail ;\

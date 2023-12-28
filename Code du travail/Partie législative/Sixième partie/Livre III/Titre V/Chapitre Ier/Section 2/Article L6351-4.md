@@ -1,3 +1,5 @@
+# Article L6351-4
+
 L'enregistrement de la déclaration d'activité est annulé par décision de l'autorité administrative lorsqu'il est constaté, au terme d'un contrôle réalisé en application du 1° de l'article L. 6361-2 :
 
 1° Soit que les prestations réalisées ne correspondent pas aux actions mentionnées à l'article L. 6313-1 ;

@@ -1,3 +1,5 @@
+# Article D1233-2-1
+
 I.-Pour l'application de l'article L. 1233-4, l'employeur adresse des offres de reclassement de manière personnalisée ou communique la liste des offres disponibles aux salariés, et le cas échéant l'actualisation de celle-ci, par tout moyen permettant de conférer date certaine.
 
 II.-Ces offres écrites précisent :

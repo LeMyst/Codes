@@ -1,3 +1,5 @@
+# Article R6113-9
+
 Les demandes d'enregistrement dans le répertoire national des certifications professionnelles au titre du II de l'article L. 6113-5 sont examinées selon les critères suivants :
 
 1° L'adéquation des emplois occupés par rapport au métier visé par le projet de certification professionnelle s'appuyant sur l'analyse d'au moins deux promotions de titulaires ;

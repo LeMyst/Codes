@@ -1,3 +1,5 @@
+# Article L6321-1
+
 L'employeur assure l'adaptation des salariés à leur poste de travail.
 
 Il veille au maintien de leur capacité à occuper un emploi, au regard notamment de l'évolution des emplois, des technologies et des organisations.

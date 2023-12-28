@@ -1,3 +1,5 @@
+# Article L1221-25
+
 Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la période d'essai définie aux articles L. 1221-19 à L. 1221-24 ou à l'article L. 1242-10 pour les contrats stipulant une période d'essai d'au moins une semaine, le salarié est prévenu dans un délai qui ne peut être inférieur à :
 
 1° Vingt-quatre heures en deçà de huit jours de présence ;

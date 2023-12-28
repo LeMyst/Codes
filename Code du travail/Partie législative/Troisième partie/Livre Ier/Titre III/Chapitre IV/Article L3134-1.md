@@ -1,3 +1,5 @@
+# Article L3134-1
+
 Les dispositions du présent chapitre s'appliquent dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
 
 Toutefois, elles ne s'appliquent pas aux professions agricoles et de la pêche, aux entreprises de chemin de fer, aux concessions de bacs publics, à l'éducation des enfants et à l'enseignement, aux professions libérales, aux entreprises d'assurance, aux emplois à domicile par une personne physique, aux professions artistiques, aux professions médicales et paramédicales, ainsi qu'à la vente de médicaments.

@@ -1,3 +1,5 @@
+# Article D1237-9
+
 Le délai prévu à l'article L. 1237-19-4 court à compter de la réception du dossier complet par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
 Le dossier est complet lorsqu'il comprend l'accord prévu à l'article L. 1237-19, ainsi que les informations permettant de vérifier la régularité des conditions dans lesquelles il a été conclu et, le cas échéant, la mise en œuvre effective de l'information du comité social et économique prévue au 1° de l'article L. 1237-19-1.

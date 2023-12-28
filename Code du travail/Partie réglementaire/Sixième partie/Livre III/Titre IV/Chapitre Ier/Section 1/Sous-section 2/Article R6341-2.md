@@ -1,3 +1,5 @@
+# Article R6341-2
+
 Dans la limite de leurs compétences respectives, l'agrément des stages de formation professionnelle est accordé par :
 
 1° Le ministre chargé de la formation professionnelle, après avis de la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle, pour les stages organisés et financés au niveau national ;

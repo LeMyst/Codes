@@ -1,3 +1,5 @@
+# Article R6352-1
+
 Le règlement intérieur est établi dans tous les organismes de formation, y compris dans ceux qui accueillent les stagiaires et apprentis dans des locaux mis à leur disposition.
 
 Lorsque l'organisme comporte plusieurs établissements ou qu'il dispense l'activité de formation par apprentissage, le règlement intérieur peut faire l'objet des adaptations nécessaires, notamment en matière de santé et de sécurité au travail.

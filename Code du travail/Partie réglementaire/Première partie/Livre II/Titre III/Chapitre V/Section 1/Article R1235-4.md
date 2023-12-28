@@ -1,3 +1,5 @@
+# Article R1235-4
+
 Le débiteur peut former opposition dans les quinze jours à compter de la notification de la contrainte auprès du greffe de la juridiction dans le ressort de laquelle est domicilié son siège social, s'il s'agit d'une personne morale, ou lui-même, s'il s'agit d'une personne physique :
 
 1° Par déclaration ;

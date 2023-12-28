@@ -1,3 +1,5 @@
+# Article L4624-2-2
+
 I.-Le travailleur est examiné par le médecin du travail au cours d'une visite médicale de mi-carrière organisée à une échéance déterminée par accord de branche ou, à défaut, durant l'année civile du quarante-cinquième anniversaire du travailleur.
 
 Cet examen médical peut être anticipé et organisé conjointement avec une autre visite médicale lorsque le travailleur doit être examiné par le médecin du travail deux ans avant l'échéance prévue au premier alinéa du présent I. Il peut être réalisé dès le retour à l'emploi du travailleur dès lors qu'il satisfait aux conditions déterminées par l'accord de branche prévu au même premier alinéa ou, à défaut, qu'il est âgé d'au moins quarante-cinq ans.

@@ -1,3 +1,5 @@
+# Article R1453-2
+
 Les personnes habilitées à assister ou à représenter les parties sont :
 
 1° Les salariés ou les employeurs appartenant à la même branche d'activité ;

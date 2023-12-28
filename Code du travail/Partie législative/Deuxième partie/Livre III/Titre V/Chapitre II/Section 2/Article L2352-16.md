@@ -1,3 +1,5 @@
+# Article L2352-16
+
 Sous réserve des dispositions du deuxième alinéa de l'article L. 2352-13, les dirigeants de chacune des sociétés participantes et le groupe spécial de négociation négocient en vue de parvenir à un accord qui détermine :
 
 1° Les sociétés participantes, les établissements et filiales concernés par l'accord ;

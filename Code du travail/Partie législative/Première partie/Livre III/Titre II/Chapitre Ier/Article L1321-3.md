@@ -1,3 +1,5 @@
+# Article L1321-3
+
 Le règlement intérieur ne peut contenir :
 
 1° Des dispositions contraires aux lois et règlements ainsi qu'aux stipulations des conventions et accords collectifs de travail applicables dans l'entreprise ou l'établissement ;

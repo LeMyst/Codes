@@ -1,3 +1,5 @@
+# Article R7124-27
+
 L'emploi d'un enfant âgé de moins de six ans révolus exerçant une activité de mannequin et la sélection préalable en vue de cette activité ne peuvent être autorisés que selon les durées suivantes :\
 1 Durée journalière maximum :\
 a) Une heure, dont pas plus d'une demi-heure en continu, jusqu'à l'âge de trois ans révolus ;\

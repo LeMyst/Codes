@@ -1,3 +1,5 @@
+# Article R7343-52
+
 A la clôture du vote électronique, le président et les assesseurs du bureau de vote, après avoir déclaré le scrutin clos, procèdent au scellement de l'urne électronique et de la liste d'émargement.
 
 Une fois le scellement opéré, le président et les assesseurs du bureau de vote vérifient l'intégrité du système de vote électronique.

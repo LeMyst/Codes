@@ -1,3 +1,5 @@
+# Article L1521-4
+
 Pour l'application de la présente partie à Saint-Barthélemy et à Saint-Martin et en l'absence de mention particulière spécifique à l'une ou l'autre de ces collectivités :
 
 1° Les attributions dévolues au préfet, dans la région ou dans le département, sont exercées par le représentant de l'Etat dans chacune de ces collectivités ;

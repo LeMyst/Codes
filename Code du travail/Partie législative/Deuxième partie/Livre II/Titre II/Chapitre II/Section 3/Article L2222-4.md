@@ -1,3 +1,5 @@
+# Article L2222-4
+
 La convention ou l'accord est conclu pour une durée déterminée ou indéterminée.
 
 A défaut de stipulation de la convention ou de l'accord sur sa durée, celle-ci est fixée à cinq ans.

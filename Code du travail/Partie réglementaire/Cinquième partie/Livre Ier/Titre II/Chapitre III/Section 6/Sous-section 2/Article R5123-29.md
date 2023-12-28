@@ -1,3 +1,5 @@
+# Article R5123-29
+
 Pour bénéficier de la prise en charge partielle de l'allocation pour cessation anticipée d'activité par l'Etat, le salarié remplit les conditions suivantes :\
 1° Le salarié a adhéré personnellement au dispositif de cessation d'activité ;\
 2° Son contrat de travail est suspendu pendant la durée du versement effectif de l'allocation ;\

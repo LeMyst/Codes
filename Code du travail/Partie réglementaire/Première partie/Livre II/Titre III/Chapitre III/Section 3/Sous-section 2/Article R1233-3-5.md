@@ -1,3 +1,5 @@
+# Article R1233-3-5
+
 Lorsque le projet de licenciement collectif porte sur des établissements relevant de la compétence de plusieurs directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, l'employeur informe le directeur régional du siège de l'entreprise de son intention d'ouvrir une négociation en application de l'article L. 1233-24-1. L'employeur notifie à ce directeur son projet de licenciement en application de l'article L. 1233-46. En application de l'article L. 1233-57-8, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent est celui dans le ressort duquel se situe le siège de l'entreprise.
 
 En cas d'unité économique et sociale, le directeur compétent est celui dans le ressort duquel se situe le siège de l'entreprise principale.

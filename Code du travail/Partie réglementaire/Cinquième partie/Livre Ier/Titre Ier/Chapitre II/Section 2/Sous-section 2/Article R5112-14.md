@@ -1,3 +1,5 @@
+# Article R5112-14
+
 La commission départementale de l'emploi et de l'insertion est présidée par le préfet. Elle comprend :\
 1° Des représentants de l'Etat, notamment le directeur départemental de l'emploi, du travail et de la formation professionnelle et le directeur départemental des affaires sanitaires et sociales ;\
 2° Des élus, représentants des collectivités territoriales et de leurs groupements, dont un membre du conseil départemental, élu par ce conseil, un membre du conseil régional, élu par ce conseil, et des élus, représentants de communes et des établissements publics de coopération intercommunale du département, sur proposition de l'association départementale des maires. En cas de pluralité d'associations, ces représentants sont désignés par accord des présidents d'associations des maires du département ou, à défaut d'accord, par le préfet ;\

@@ -1,3 +1,5 @@
+# Article L3142-19
+
 Le congé débute ou est renouvelé à l'initiative du salarié.
 
 Il ne peut excéder, renouvellement compris, la durée d'un an pour l'ensemble de la carrière.

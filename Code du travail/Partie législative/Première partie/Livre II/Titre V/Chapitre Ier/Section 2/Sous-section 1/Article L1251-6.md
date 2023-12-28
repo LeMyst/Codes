@@ -1,3 +1,5 @@
+# Article L1251-6
+
 Sous réserve des dispositions de l'article L. 1251-7, il ne peut être fait appel à un salarié temporaire que pour l'exécution d'une tâche précise et temporaire dénommée " mission " et seulement dans les cas suivants :
 
 1° Remplacement d'un salarié, en cas :

@@ -1,3 +1,5 @@
+# Article D6275-2
+
 A réception du contrat, l'unité départementale de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi vérifie qu'il satisfait aux conditions posées par :
 
 1° L'article L. 6211-1 relatif aux formations éligibles à l'apprentissage ;

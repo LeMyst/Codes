@@ -1,3 +1,5 @@
+# Article R1227-5
+
 Est puni des amendes prévues pour les contraventions de la cinquième classe le fait de méconnaître les dispositions :
 
 1° Des articles L. 1225-1 à L. 1225-28 ainsi que celles des articles R. 1225-1,

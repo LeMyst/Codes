@@ -1,3 +1,5 @@
+# Article L2254-2
+
 I. – Afin de répondre aux nécessités liées au fonctionnement de l'entreprise ou en vue de préserver, ou de développer l'emploi, un accord de performance collective peut :
 
 – aménager la durée du travail, ses modalités d'organisation et de répartition ;

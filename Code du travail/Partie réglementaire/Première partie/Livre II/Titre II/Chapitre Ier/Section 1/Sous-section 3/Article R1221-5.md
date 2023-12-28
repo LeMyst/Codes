@@ -1,3 +1,5 @@
+# Article R1221-5
+
 La déclaration préalable à l'embauche est effectuée par voie électronique.
 
 A défaut d'utiliser la voie électronique, la déclaration est effectuée au moyen d'un formulaire fixé par arrêté des ministres chargés du travail et de la sécurité sociale, ainsi que, lorsque la déclaration concerne un salarié relevant du régime de protection sociale agricole, du ministre chargé de l'agriculture.

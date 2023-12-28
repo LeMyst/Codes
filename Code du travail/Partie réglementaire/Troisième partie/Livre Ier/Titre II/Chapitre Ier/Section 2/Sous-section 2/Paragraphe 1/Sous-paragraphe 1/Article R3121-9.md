@@ -1,3 +1,5 @@
+# Article R3121-9
+
 Les dépassements à la durée maximale hebdomadaire du travail peuvent être assortis de mesures compensatoires ayant pour objet, dans les entreprises bénéficiaires :\
 1° Soit de ramener la durée hebdomadaire moyenne de travail à moins de quarante-six heures pendant une période déterminée postérieure à la date d'expiration de la dérogation ;\
 2° Soit de prévoir, en faveur des salariés, des périodes de repos complémentaire ;\

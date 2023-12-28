@@ -1,3 +1,5 @@
+# Article L1235-3
+
 Si le licenciement d'un salarié survient pour une cause qui n'est pas réelle et sérieuse, le juge peut proposer la réintégration du salarié dans l'entreprise, avec maintien de ses avantages acquis.
 
 Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au salarié une indemnité à la charge de l'employeur, dont le montant est compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous.

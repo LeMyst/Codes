@@ -1,3 +1,5 @@
+# Article L1233-23
+
 L'accord prévu à l'article L. 1233-21 ne peut déroger :
 
 1° Aux règles générales d'information et de consultation du comité social et économique prévues aux articles L. 2323-2, L. 2323-4 et L. 2323-5 ;

@@ -1,3 +1,5 @@
+# Article R4412-142
+
 Un arrêté du ministre chargé du travail détermine :
 
 1° Les conditions, procédures et critères d'accréditation des organismes certificateurs sur la base du référentiel technique défini par l'organisme chargé de l'accréditation ;

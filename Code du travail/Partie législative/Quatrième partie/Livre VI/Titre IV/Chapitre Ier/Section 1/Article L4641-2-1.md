@@ -1,3 +1,5 @@
+# Article L4641-2-1
+
 Au sein du conseil d'orientation des conditions de travail, le comité national de prévention et de santé au travail est composé de représentants de l'Etat, de la Caisse nationale de l'assurance maladie, de la caisse centrale de la mutualité sociale agricole, des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel et des organisations syndicales de salariés représentatives au niveau national et interprofessionnel.
 
 Ce comité a notamment pour missions :

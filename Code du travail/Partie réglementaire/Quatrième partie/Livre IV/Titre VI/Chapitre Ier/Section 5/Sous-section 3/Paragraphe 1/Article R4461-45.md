@@ -1,3 +1,5 @@
+# Article R4461-45
+
 I.-Les équipes réalisant des travaux en milieu hyperbare mentionnés au 1° de l'article R. 4461-1 sont constituées d'au moins trois travailleurs, titulaires du certificat d'aptitude à l'hyperbarie mentionné à l'article R. 4461-27, entre lesquels sont réparties les fonctions suivantes :
 
 1° Opérateur intervenant en milieu hyperbare ;

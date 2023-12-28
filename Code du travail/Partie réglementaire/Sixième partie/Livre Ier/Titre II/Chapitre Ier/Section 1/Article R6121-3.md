@@ -1,3 +1,5 @@
+# Article R6121-3
+
 Le dossier d'habilitation comporte notamment les informations suivantes :
 
 1° La définition de la mission, en référence aux besoins de formation ;

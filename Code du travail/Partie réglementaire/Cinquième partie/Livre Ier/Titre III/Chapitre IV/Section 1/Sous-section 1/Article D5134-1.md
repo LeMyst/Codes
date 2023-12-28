@@ -1,3 +1,5 @@
+# Article D5134-1
+
 La condition d'activité prévue au 2° de l'article L. 5134-1 est appréciée à compter de la fin de la scolarité et à l'exclusion des périodes de travail accomplies en exécution des contrats de travail suivants :
 
 1° Le contrat d'apprentissage ;

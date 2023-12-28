@@ -1,3 +1,5 @@
+# Article L2314-22
+
 Dans les entreprises de travail temporaire, sont électeurs ou éligibles tous les salariés temporaires satisfaisant aux conditions définies à l'article L. 2314-20 et liés à l'entreprise de travail temporaire par un contrat de mission au moment de la confection des listes.
 
 Toutefois, cessent de remplir ces conditions d'électorat et d'éligibilité :

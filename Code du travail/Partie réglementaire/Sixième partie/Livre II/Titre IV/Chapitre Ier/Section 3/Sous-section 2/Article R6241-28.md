@@ -1,3 +1,5 @@
+# Article R6241-28
+
 Les contributions mentionnées au 1° du II de l'article L. 6241-2 recouvrées auprès d'employeurs qui n'ont pas procédé à la désignation des établissements destinataires du solde de la taxe d'apprentissage sont affectées par la Caisse des dépôts et consignations à des établissements habilités déterminés en fonction des critères suivants :
 
 1° Une première partie des fonds est répartie selon l'implantation géographique des employeurs et des établissements figurant sur les listes prévues aux articles R. 6241-21 et R. 6241-22 du code du travail. Les établissements d'une même région perçoivent un montant identique du solde de la taxe d'apprentissage ;

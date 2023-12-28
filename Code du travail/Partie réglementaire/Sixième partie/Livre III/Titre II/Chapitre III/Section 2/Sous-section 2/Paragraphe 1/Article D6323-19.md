@@ -1,3 +1,5 @@
+# Article D6323-19
+
 I.-L'autorité administrative mentionnée au premier alinéa de l'article L. 6323-17-6 est le préfet de région.
 
 II.-La commission paritaire interprofessionnelle régionale prévue à l'article L. 6323-17-6 est gérée par une association paritaire administrée par un conseil d'administration.

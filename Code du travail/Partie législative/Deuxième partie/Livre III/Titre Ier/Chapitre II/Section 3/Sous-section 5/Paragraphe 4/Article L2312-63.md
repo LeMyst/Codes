@@ -1,3 +1,5 @@
+# Article L2312-63
+
 Lorsque le comité social et économique a connaissance de faits de nature à affecter de manière préoccupante la situation économique de l'entreprise, il peut demander à l'employeur de lui fournir des explications.
 
 Cette demande est inscrite de droit à l'ordre du jour de la prochaine séance du comité.

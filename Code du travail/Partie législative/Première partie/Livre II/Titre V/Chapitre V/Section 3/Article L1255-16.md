@@ -1,3 +1,5 @@
+# Article L1255-16
+
 Est puni de 3 750 € d'amende le fait pour une entreprise cliente :
 
 1° De recourir à un salarié porté en dehors des cas prévus à l'article L. 1254-3 ;

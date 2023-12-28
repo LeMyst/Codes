@@ -1,3 +1,5 @@
+# Article L3153-2
+
 A défaut de stipulation conventionnelle prévoyant les conditions de transfert des droits d'un employeur à un autre, le salarié peut :
 
 1° Percevoir, en cas de rupture du contrat de travail, une indemnité correspondant à la conversion monétaire de l'ensemble des droits qu'il a acquis ;

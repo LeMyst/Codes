@@ -1,3 +1,5 @@
+# Article D1235-19
+
 La lettre recommandée avec avis de réception adressée au salarié indique la nature et l'objet de l'action envisagée par l'organisation syndicale représentative.\
 Elle mentionne en outre :\
 1° Que l'action est conduite par l'organisation syndicale qui pourra exercer elle-même les voies de recours contre le jugement ;\

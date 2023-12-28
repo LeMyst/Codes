@@ -1,3 +1,5 @@
+# Article R6113-14
+
 Nul ne peut exercer, en droit ou en fait, une fonction de direction ou d'administration dans un organisme certificateur au sens de l'article L. 6113-2 s'il a fait l'objet d'une condamnation pour crime ou délit contraire à la probité et aux bonnes mœurs.
 
 Cette condition d'honorabilité s'apprécie au moment de la demande d'enregistrement d'un projet de certification professionnelle ou de certification ou habilitation dans les répertoires nationaux et à tout moment pendant la période d'enregistrement.

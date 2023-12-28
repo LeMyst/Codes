@@ -1,3 +1,5 @@
+# Article R4412-118
+
 L'employeur détermine en tenant compte des conditions de travail, notamment en termes de contraintes thermiques ou hygrométriques, de postures et d'efforts :
 
 1° La durée de chaque vacation ;

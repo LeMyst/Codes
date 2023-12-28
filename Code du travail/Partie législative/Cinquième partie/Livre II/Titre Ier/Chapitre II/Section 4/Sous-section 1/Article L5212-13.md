@@ -1,3 +1,5 @@
+# Article L5212-13
+
 Bénéficient de l'obligation d'emploi instituée par l'article L. 5212-2 :
 
 1° Les travailleurs reconnus handicapés par la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles ;

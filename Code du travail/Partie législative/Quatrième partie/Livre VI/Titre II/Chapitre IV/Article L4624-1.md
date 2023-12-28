@@ -1,3 +1,5 @@
+# Article L4624-1
+
 I.-Tout travailleur bénéficie, au titre de la surveillance de l'état de santé des travailleurs prévue à l'article L. 4622-2, d'un suivi individuel de son état de santé assuré par le médecin du travail, le médecin praticien correspondant et, sous l'autorité du médecin du travail, par le collaborateur médecin mentionné à l'article L. 4623-1, l'interne en médecine du travail et l'infirmier.
 
 Ce suivi comprend une visite d'information et de prévention effectuée après l'embauche par l'un des professionnels de santé mentionnés au premier alinéa du présent article. Cette visite donne lieu à la délivrance d'une attestation. Un décret en Conseil d'Etat fixe le délai de cette visite. Le modèle de l'attestation est défini par arrêté.

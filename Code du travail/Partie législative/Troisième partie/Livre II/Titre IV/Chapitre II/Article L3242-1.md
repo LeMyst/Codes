@@ -1,3 +1,5 @@
+# Article L3242-1
+
 La rémunération des salariés est mensuelle et indépendante, pour un horaire de travail effectif déterminé, du nombre de jours travaillés dans le mois. Le paiement mensuel neutralise les conséquences de la répartition inégale des jours entre les douze mois de l'année.
 
 Pour un horaire équivalent à la durée légale hebdomadaire, la rémunération mensuelle due au salarié se calcule en multipliant la rémunération horaire par les 52/12 de la durée légale hebdomadaire.

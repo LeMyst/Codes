@@ -1,3 +1,5 @@
+# Article L7321-2
+
 Est gérant de succursale toute personne :
 
 1° Chargée, par le chef d'entreprise ou avec son accord, de se mettre à la disposition des clients durant le séjour de ceux-ci dans les locaux ou dépendances de l'entreprise, en vue de recevoir d'eux des dépôts de vêtements ou d'autres objets ou de leur rendre des services de toute nature ;

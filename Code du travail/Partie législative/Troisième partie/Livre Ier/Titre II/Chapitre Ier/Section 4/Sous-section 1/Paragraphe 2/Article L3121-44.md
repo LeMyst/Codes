@@ -1,3 +1,5 @@
+# Article L3121-44
+
 En application de l'article L. 3121-41, un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche peut définir les modalités d'aménagement du temps de travail et organiser la répartition de la durée du travail sur une période supérieure à la semaine. Il prévoit :
 
 1° La période de référence, qui ne peut excéder un an ou, si un accord de branche l'autorise, trois ans ;

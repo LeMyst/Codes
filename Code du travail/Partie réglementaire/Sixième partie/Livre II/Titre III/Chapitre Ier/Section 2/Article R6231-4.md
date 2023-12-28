@@ -1,3 +1,5 @@
+# Article R6231-4
+
 Le conseil de perfectionnement examine et débat des questions relatives à l'organisation et au fonctionnement du centre de formation d'apprentis, notamment sur :
 
 1° Le projet pédagogique du centre de formation d'apprentis ;

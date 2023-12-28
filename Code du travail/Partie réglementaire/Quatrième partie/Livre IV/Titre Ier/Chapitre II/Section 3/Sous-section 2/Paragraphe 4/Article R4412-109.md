@@ -1,3 +1,5 @@
+# Article R4412-109
+
 Au cours de la phase de préparation de l'opération, l'employeur met en place des moyens de protection collective adaptés à la nature des opérations à réaliser permettant d'éviter la dispersion de fibres d'amiante en dehors de la zone de travail et d'abaisser la concentration en fibres d'amiante au niveau le plus bas techniquement possible.
 
 Ces moyens comprennent :

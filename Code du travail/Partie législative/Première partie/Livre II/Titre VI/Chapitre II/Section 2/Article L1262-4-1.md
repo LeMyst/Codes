@@ -1,3 +1,5 @@
+# Article L1262-4-1
+
 I.-Le donneur d'ordre ou le maître d'ouvrage qui contracte avec un prestataire de services qui détache des salariés, dans les conditions mentionnées aux articles L. 1262-1 et L. 1262-2, vérifie auprès de ce dernier, avant le début du détachement, qu'il s'est acquitté des obligations mentionnées aux I et II de l'article L. 1262-2-1.
 
 A défaut de s'être fait remettre par son cocontractant une copie de la déclaration mentionnée au I de l'article L. 1262-2-1, le maître d'ouvrage ou le donneur d'ordre adresse, dans les quarante-huit heures suivant le début du détachement, une déclaration à l'inspection du travail du lieu où débute la prestation. Un décret détermine les informations que comporte cette déclaration.

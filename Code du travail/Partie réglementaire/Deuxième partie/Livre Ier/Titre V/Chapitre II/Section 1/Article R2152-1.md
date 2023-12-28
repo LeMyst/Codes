@@ -1,3 +1,5 @@
+# Article R2152-1
+
 Pour l'application des articles L. 2152-1 et L. 2152-4, sont considérées comme adhérentes les entreprises, qu'elles emploient ou non du personnel salarié, dès lors qu'elles versent une cotisation, conformément aux règles fixées par une délibération de l'organe compétent de l'organisation professionnelle d'employeurs à laquelle elles adhèrent ou d'une structure territoriale statutaire de cette organisation, et selon des modalités assurant leur information quant à l'organisation destinataire de la cotisation.
 
 Le cas échéant, l'adhésion d'une entreprise peut être effectuée par l'intermédiaire de ses établissements, dès lors que le chef d'établissement dispose d'une délégation de pouvoir du chef d'entreprise permettant notamment l'adhésion à une organisation professionnelle d'employeurs et qu'il verse une cotisation dans les conditions prévues à l'alinéa précédent. Dans ce cas, seuls sont pris en compte les effectifs de l'établissement considéré.

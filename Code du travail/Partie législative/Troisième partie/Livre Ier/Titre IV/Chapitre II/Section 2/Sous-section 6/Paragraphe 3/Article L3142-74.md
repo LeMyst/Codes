@@ -1,3 +1,5 @@
+# Article L3142-74
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-73, les dispositions suivantes sont applicables :
 
 1° La durée maximale du congé est de six mois. Elle est de six semaines en cas d'urgence ;

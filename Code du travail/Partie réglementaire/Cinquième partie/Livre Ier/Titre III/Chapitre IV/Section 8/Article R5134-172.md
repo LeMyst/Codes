@@ -1,3 +1,5 @@
+# Article R5134-172
+
 Sur la base d'un dossier de candidature dont le contenu est fixé par arrêté du ministre chargé de l'éducation nationale, la commission donne un avis sur l'aptitude des candidats à un emploi d'avenir professeur.
 
 L'avis rendu par la commission tient compte, notamment, du projet professionnel de l'étudiant et de ses résultats universitaires.

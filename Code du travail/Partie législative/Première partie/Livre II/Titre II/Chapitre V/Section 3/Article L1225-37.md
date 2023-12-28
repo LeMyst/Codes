@@ -1,3 +1,5 @@
+# Article L1225-37
+
 Le salarié à qui l'autorité administrative ou tout organisme désigné par voie réglementaire confie un enfant en vue de son adoption a le droit de bénéficier d'un congé d'adoption d'une durée de seize semaines au plus, pris dans un délai et fractionné selon des modalités déterminées par décret.
 
 Le congé d'adoption est porté à :

@@ -1,3 +1,5 @@
+# Article L5131-7
+
 Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment :
 
 1° Les modalités du parcours contractualisé d'accompagnement vers l'emploi et l'autonomie mentionné à l'article L. 5131-4 et du contrat d'engagement mentionné à l'article L. 5131-6, ainsi que la nature des engagements de chaque partie au contrat ;

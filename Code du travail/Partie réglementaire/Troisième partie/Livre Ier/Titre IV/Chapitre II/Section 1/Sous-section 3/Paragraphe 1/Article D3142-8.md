@@ -1,3 +1,5 @@
+# Article D3142-8
+
 La demande de congé de proche aidant est accompagnée des pièces suivantes :
 
 1° Une déclaration sur l'honneur du lien familial du demandeur avec la personne aidée ou de l'aide apportée à une personne âgée ou handicapée avec laquelle il réside ou entretient des liens étroits et stables ;

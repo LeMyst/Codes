@@ -1,3 +1,5 @@
+# Article R4641-22
+
 Le comité régional de prévention et de santé au travail est présidé par le préfet de région ou son représentant. Deux vice-présidents sont élus respectivement par les membres des collèges mentionnés aux a et b du 1° du présent article, l'un au titre des représentants des salariés, l'autre au titre des représentants des employeurs.
 
 Le comité régional de prévention et de santé au travail est formé au sein du comité régional d'orientations des conditions de travail. Il comprend :

@@ -1,3 +1,5 @@
+# Article R2212-3
+
 Le suivi d'une formation commune mentionnée à l'article L. 2212-1 s'effectue dans le cadre :
 
 1° Pour les salariés, soit du congé de formation économique, sociale et syndicale prévu à l'article L. 2145-5, soit du plan de formation mentionné à l'article L. 6312-1 pour les actions de formation mentionnées aux 2° et 8° de l'article L. 6313-1 ;

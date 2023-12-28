@@ -1,3 +1,5 @@
+# Article R5132-29
+
 La convention pour la mise en place d'un ou plusieurs chantiers d'insertion peut être conclue pour une durée maximale de trois ans avec des organismes présentant des perspectives de viabilité économique ; elle peut être renouvelée selon la même procédure.
 
 Les stipulations financières des conventions pluriannuelles font l'objet d'avenants annuels.

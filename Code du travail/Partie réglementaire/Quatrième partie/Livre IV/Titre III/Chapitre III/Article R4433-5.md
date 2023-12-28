@@ -1,3 +1,5 @@
+# Article R4433-5
+
 Lorsqu'il procède à l'évaluation des risques, l'employeur prend en considération les éléments suivants :\
 1° Le niveau, le type et la durée d'exposition, y compris toute exposition au bruit impulsif ;\
 2° Les valeurs limites d'exposition et les valeurs d'exposition déclenchant l'action de prévention fixées au chapitre Ier ;\

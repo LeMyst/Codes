@@ -1,3 +1,5 @@
+# Article L6223-8-1
+
 Le maître d'apprentissage doit être salarié de l'entreprise, volontaire, majeur et offrir toutes garanties de moralité. Le cas échéant, l'employeur ou le conjoint collaborateur peut remplir cette fonction.
 
 Les conditions de compétence professionnelle exigées d'un maître d'apprentissage en application de l'article L. 6223-1 sont déterminées par convention ou accord collectif de branche.

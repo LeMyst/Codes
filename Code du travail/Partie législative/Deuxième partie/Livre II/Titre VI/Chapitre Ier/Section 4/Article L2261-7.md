@@ -1,3 +1,5 @@
+# Article L2261-7
+
 I. - Sont habilitées à engager la procédure de révision d'un accord interprofessionnel, d'une convention ou d'un accord de branche :
 
 1° Jusqu'à la fin du cycle électoral au cours duquel la convention ou l'accord est conclu :

@@ -1,3 +1,5 @@
+# Article R8293-4
+
 En complément des informations déjà contenues dans la déclaration de détachement mentionnée à l'article L. 1262-2-1, la déclaration mentionnée à l'article R. 8293-2 est accompagnée de la photographie d'identité de chaque salarié détaché et le cas échéant du numéro de l'autorisation de travail ou de la carte de séjour valant autorisant de travail.
 
 Cette déclaration est effectuée par voie dématérialisée sur un site internet dédié de l'union des caisses mentionnée à l'article R. 8291-2.

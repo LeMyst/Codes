@@ -1,3 +1,5 @@
+# Article D1251-32
+
 L'organisation syndicale qui exerce une action en justice en faveur d'un salarié, en application du deuxième alinéa de l'article L. 1251-59, avertit ce dernier par lettre recommandée avec avis de réception.\
 La lettre indique la nature et l'objet de l'action envisagée par l'organisation syndicale représentative.\
 Elle mentionne en outre :\

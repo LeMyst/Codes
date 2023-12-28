@@ -1,3 +1,5 @@
+# Article D5312-51
+
 Peuvent être enregistrées dans le traitement, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à l'article D. 5312-50, les données de santé suivantes :
 
 1° Le type et l'origine du handicap ;

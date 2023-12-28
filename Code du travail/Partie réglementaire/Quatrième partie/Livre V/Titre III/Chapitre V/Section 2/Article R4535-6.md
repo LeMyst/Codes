@@ -1,3 +1,5 @@
+# Article R4535-6
+
 Lorsqu'ils utilisent des équipements de travail et des équipements de protection individuelle, les travailleurs indépendants ainsi que les employeurs qui exercent directement une activité sur un chantier de bâtiment et de génie civil sont soumis aux dispositions suivantes :\
 1° Règles générales d'utilisation des équipements de travail et des moyens de protection prévues aux articles R. 4321-1 à R. 4321-5 ;\
 2° Obligation de maintien en conformité prévue à l'article R. 4322-1 ;\

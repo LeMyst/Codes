@@ -1,3 +1,5 @@
+# Article L7232-1
+
 Toute personne morale ou entreprise individuelle qui exerce les activités de service à la personne mentionnées ci-dessous est soumise à agrément délivré par l'autorité compétente suivant des critères de qualité :
 
 1° La garde d'enfants au-dessous d'une limite d'âge fixée par arrêté conjoint du ministre de l'emploi et du ministre chargé de la famille ;

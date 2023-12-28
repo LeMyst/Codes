@@ -1,3 +1,5 @@
+# Article R4434-1
+
 La réduction des risques d'exposition au bruit se fonde sur, notamment :\
 1° La mise en œuvre d'autres procédés de travail ne nécessitant pas d'exposition au bruit ou nécessitant une exposition moindre ;\
 2° Le choix d'équipements de travail appropriés émettant, compte tenu du travail à accomplir, le moins de bruit possible ;\

@@ -1,3 +1,5 @@
+# Article R4461-17
+
 Sans préjudice des valeurs limites d'exposition professionnelle fixées aux articles R. 4222-10, R. 4412-149 et R. 4412-150, l'air ou les mélanges respirés au cours des interventions et travaux doivent présenter les caractéristiques suivantes :
 
 1° S'agissant du gaz carbonique, une pression partielle inférieure à 10 hectopascals ;

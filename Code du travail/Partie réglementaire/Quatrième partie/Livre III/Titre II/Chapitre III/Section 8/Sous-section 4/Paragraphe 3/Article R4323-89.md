@@ -1,3 +1,5 @@
+# Article R4323-89
+
 L'utilisation des techniques d'accès et de positionnement au moyen de cordes est conditionnée au respect des conditions suivantes :\
 1° Le système comporte au moins une corde de travail, constituant un moyen d'accès, de descente et de soutien, et une corde de sécurité, équipée d'un système d'arrêt des chutes. Ces deux dispositifs sont ancrés séparément et les deux points d'ancrage font l'objet d'une note de calcul élaborée par l'employeur ou une personne compétente ;\
 2° Les travailleurs sont munis d'un harnais antichute approprié, l'utilisent et sont reliés par ce harnais à la corde de sécurité et à la corde de travail ;\

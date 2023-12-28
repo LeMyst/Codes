@@ -1,3 +1,5 @@
+# Article R4641-14
+
 La commission spécialisée chargée des questions relatives aux activités agricoles est consultée, en application des dispositions de l'article R. 4641-1, sur les textes présentés sur le rapport du ministre chargé de l'agriculture.
 
 Par exception aux dispositions de l'article R. 4641-11, elle peut être également saisie par le ministre chargé de l'agriculture soit d'autres projets de loi, d'ordonnance, de décret ou d'arrêté lorsqu'ils intéressent la santé et la sécurité des travailleurs en agriculture, soit de questions relatives à ces matières. Elle peut proposer à ce ministre toutes mesures susceptibles d'être prises en ce domaine. Le compte rendu de ses travaux est communiqué à la commission générale.

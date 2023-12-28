@@ -1,3 +1,5 @@
+# Article L2524-9
+
 Lorsque la cour supérieure d'arbitrage prononce l'annulation en tout ou partie d'une sentence arbitrale, elle renvoie l'affaire aux parties qui désignent, si elles en sont d'accord, un nouvel arbitre.
 
 Lorsque, à la suite d'un nouveau pourvoi, la nouvelle sentence est annulée par la cour, celle-ci désigne l'un de ses rapporteurs pour procéder à une instruction complémentaire.

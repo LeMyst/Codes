@@ -1,3 +1,5 @@
+# Article R5422-2
+
 I.-Lorsque l'intéressé a exercé une activité salariée alors qu'il n'avait pas encore épuisé les droits à l'allocation d'assurance qui lui avaient été précédemment accordés, il bénéficie, en cas de perte de cette nouvelle activité, de la reprise du versement du reliquat de ses droits jusqu'à leur épuisement.
 
 Si l'intéressé justifie d'une durée d'affiliation d'au moins neuf cent-dix heures ou cent trente jours au titre d'activités exercées antérieurement à la date d'épuisement des droits mentionnés à l'alinéa précédent, il bénéficie, à cette date, de droits à l'allocation d'assurance dont la durée et le montant prennent en compte ces activités.

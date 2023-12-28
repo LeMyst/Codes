@@ -1,3 +1,5 @@
+# Article R6123-34
+
 France compétences établit et actualise des tables de correspondance associant à chaque branche professionnelle et aux établissements de chaque entreprise l'opérateur de compétence dont ils relèvent, au regard :
 
 1° Du champ d'intervention professionnel et interprofessionnel de l'opérateur de compétences défini dans l'arrêté d'agrément mentionné à l'article R. 6332-1 ainsi que, le cas échéant, de son champ d'intervention dans les collectivités d'outre-mer ;

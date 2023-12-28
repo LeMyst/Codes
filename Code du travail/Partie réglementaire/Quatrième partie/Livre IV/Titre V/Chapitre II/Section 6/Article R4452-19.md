@@ -1,3 +1,5 @@
+# Article R4452-19
+
 Les mesures de formation portent notamment sur :
 
 1° Les sources de rayonnements optiques artificiels se trouvant sur le lieu de travail ;

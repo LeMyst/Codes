@@ -1,3 +1,5 @@
+# Article R4543-21
+
 Un travailleur isolé ne peut réaliser des interventions ou travaux qui conduisent à sa présence sur le toit de l'habitacle d'un équipement pendant son déplacement qu'aux conditions cumulatives suivantes :
 
 1° L'équipement est doté d'un dispositif de commande de manœuvre d'inspection conçu et installé de manière à garantir la sécurité des intervenants ;

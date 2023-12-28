@@ -1,3 +1,5 @@
+# Article R2152-9
+
 I.-Pour la mesure de l'audience des organisations professionnelles d'employeurs prévus au 3° de l'article L. 2152-4, sont prises en compte les entreprises qui adhèrent directement à l'organisation professionnelle d'employeurs candidate à l'établissement de sa représentativité ou à l'une de ses structures territoriales statutaires.
 
 II.-Sont également considérées comme adhérentes à une organisation professionnelle d'employeurs candidate à la représentativité les entreprises adhérant à une ou plusieurs organisations professionnelles d'employeurs ou à l'une de leurs structures territoriales statutaires dès lors que cette organisation :

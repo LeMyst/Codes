@@ -1,3 +1,5 @@
+# Article L3332-10
+
 Les versements annuels d'un salarié ou d'une personne mentionnée à l'article L. 3332-2 aux plans d'épargne d'entreprise auxquels il participe ne peuvent excéder un quart de sa rémunération annuelle ou de son revenu professionnel imposé à l'impôt sur le revenu au titre de l'année précédente. Ces versements ne peuvent excéder une fois la rémunération annuelle ou le revenu professionnel imposé à l'impôt sur le revenu au titre de l'année précédente lorsqu'ils sont effectués à destination du fonds commun de placement mentionné à l'article L. 3332-16.
 
 Pour le conjoint du chef d'entreprise mentionné au 3° du même article et pour le salarié dont le contrat de travail est suspendu, qui n'ont perçu aucune rémunération au titre de l'année de versement, les versements ne peuvent excéder le quart du montant annuel du plafond prévu à l'article L. 241-3 du code de la sécurité sociale. Ces versements ne peuvent excéder une fois le montant annuel du plafond prévu au même article L. 241-3 lorsqu'ils sont effectués à destination du fonds commun de placement régi par l'article L. 3332-16 du présent code.

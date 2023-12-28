@@ -1,3 +1,5 @@
+# Article R1423-27
+
 Si l'assemblée générale n'a pas établi le règlement intérieur dans le délai de trois mois prévu à l'article R. 1423-25, le règlement intérieur est préparé par une formation restreinte constituée par le président du conseil.\
 Cette formation est composée :\
 1° Du président ;\

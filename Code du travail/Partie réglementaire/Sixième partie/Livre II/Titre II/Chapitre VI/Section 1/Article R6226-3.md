@@ -1,3 +1,5 @@
+# Article R6226-3
+
 I.-Les mentions figurant sur le contrat de mission en application de l'article L. 1251-16 sont complétées par les mentions du contrat de mise à disposition de l'apprenti prévues à l'article R. 6226-2.
 
 II.-L'entreprise de travail temporaire adresse le contrat de mission de l'apprenti, dès sa conclusion, au directeur du centre de formation d'apprentis. Elle l'informe de tout changement concernant le maître d'apprentissage désigné au sein de l'entreprise utilisatrice.

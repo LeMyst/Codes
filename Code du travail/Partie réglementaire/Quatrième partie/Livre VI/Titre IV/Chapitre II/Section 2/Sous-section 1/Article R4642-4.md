@@ -1,3 +1,5 @@
+# Article R4642-4
+
 Le conseil d'administration fixe par ses délibérations les orientations générales de l'agence. Outre les attributions qu'il tient du titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, il délibère notamment sur :
 
 1° Les objectifs stratégiques pluriannuels, notamment ceux fixés dans le cadre du contrat d'objectifs et de performance conclu entre l'agence et l'Etat ;

@@ -1,3 +1,5 @@
+# Article R5312-39
+
 Dans le cadre des finalités mentionnées à l'article R. 5312-38, est également mis à disposition par Pôle emploi un téléservice permettant d'accomplir, à travers un espace personnel sur le site internet de Pôle emploi ou à travers toute autre technologie de l'information et de la communication, des démarches et formalités visant notamment à :
 
 1° Etre mis en relation avec un employeur ;

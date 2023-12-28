@@ -1,3 +1,5 @@
+# Article R4435-4
+
 Lorsqu'une altération de l'ouïe est susceptible de résulter d'une exposition au bruit sur le lieu de travail, l'employeur :\
 1° Revoit en conséquence l'évaluation des risques, réalisée conformément au chapitre III ;\
 2° Complète ou modifie les mesures prévues pour supprimer ou réduire les risques conformément aux chapitres IV et V ;\

@@ -1,3 +1,5 @@
+# Article R4532-67
+
 Le plan particulier de sécurité comporte de manière détaillée :\
 1° Les dispositions en matière de secours et d'évacuation, notamment :\
 a) Les consignes de premiers secours aux victimes d'accidents et aux malades ;\

@@ -1,3 +1,5 @@
+# Article L5134-72
+
 L'aide à l'insertion professionnelle attribuée au titre d'un contrat initiative-emploi peut être modulée en fonction :
 
 1° De la catégorie et du secteur d'activité de l'employeur ;

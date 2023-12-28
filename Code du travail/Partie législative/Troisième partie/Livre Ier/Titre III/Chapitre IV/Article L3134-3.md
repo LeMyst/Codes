@@ -1,3 +1,5 @@
+# Article L3134-3
+
 Dans les exploitations de mines, salines et carrières, établissements industriels, chantiers du bâtiment et du génie civil, chantiers navals, le repos donné aux salariés est de :
 
 1° Vingt-quatre heures pour chaque dimanche ou jour férié ;

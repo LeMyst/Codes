@@ -1,3 +1,5 @@
+# Article L5141-1
+
 Peuvent bénéficier d'aides à la création ou à la reprise d'entreprise, dans les conditions prévues au présent chapitre, lorsqu'elles créent ou reprennent une activité économique, industrielle, commerciale, artisanale, agricole ou libérale, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle, ou entreprennent l'exercice d'une autre profession non salariée :
 
 1° Les demandeurs d'emploi indemnisés ;

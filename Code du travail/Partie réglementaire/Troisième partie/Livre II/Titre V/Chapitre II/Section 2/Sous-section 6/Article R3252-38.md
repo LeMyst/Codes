@@ -1,3 +1,5 @@
+# Article R3252-38
+
 En cas de notification à l'employeur d'une saisie administrative à tiers détenteur relative à une créance non garantie par le privilège du Trésor public, conformément à l'article L. 262 du livre des procédures fiscales, l'employeur informe le comptable public de la saisie en cours.
 
 Le comptable adresse au greffe du tribunal une copie de la saisie administrative à tiers détenteur relative à une créance non garantie par le privilège du trésor public et lui indique la date de sa notification au redevable. Le greffier en avise les créanciers qui sont déjà parties à la procédure.

@@ -1,3 +1,5 @@
+# Article L1262-4
+
 I.-L'employeur détachant temporairement un salarié sur le territoire national lui garantit l'égalité de traitement avec les salariés employés par les entreprises de la même branche d'activité établies sur le territoire national, en assurant le respect des dispositions légales et des stipulations conventionnelles applicables aux salariés employés par les entreprises de la même branche d'activité établies sur le territoire national, en matière de législation du travail, pour ce qui concerne les matières suivantes :
 
 1° Libertés individuelles et collectives dans la relation de travail ;

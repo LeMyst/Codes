@@ -1,3 +1,5 @@
+# Article L143-11-7
+
 Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
 
 1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le prononcé du jugement d'ouverture de la procédure ;

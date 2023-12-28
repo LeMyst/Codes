@@ -1,3 +1,5 @@
+# Article R6341-44
+
 La fraction de la rémunération à rembourser à l'employeur qui maintient le salaire des salariés qui suivent des stages agréés ainsi que les cotisations de sécurité sociale relatives à cette fraction sont liquidées, en application du 1° de l'article L. 6341-2, sur demande de l'employeur, selon le cas par :
 
 1° Le préfet du département du lieu du stage ;

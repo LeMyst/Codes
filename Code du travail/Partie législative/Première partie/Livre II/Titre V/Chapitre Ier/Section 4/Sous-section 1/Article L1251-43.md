@@ -1,3 +1,5 @@
+# Article L1251-43
+
 Le contrat de mise à disposition établi pour chaque salarié comporte :
 
 1° Le motif pour lequel il est fait appel au salarié temporaire. Cette mention est assortie de justifications précises dont, notamment, dans les cas de remplacement prévus aux 1°, 4° et 5° de l'article L. 1251-6, le nom et la qualification de la personne remplacée ou à remplacer ;

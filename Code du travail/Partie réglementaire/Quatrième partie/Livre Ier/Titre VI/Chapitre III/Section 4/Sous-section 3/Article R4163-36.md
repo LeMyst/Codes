@@ -1,3 +1,5 @@
+# Article R4163-36
+
 Lorsque le salarié saisit l'organisme gestionnaire au niveau local à la suite du rejet de sa réclamation par l'employeur, il produit devant cet organisme une copie de la décision de rejet de l'employeur ou en cas de rejet implicite une copie du justificatif attestant de la réception de sa réclamation.
 
 L'accusé de réception envoyé par l'organisme gestionnaire au salarié indique qu'à défaut de réponse dans le délai de six mois à compter de la réception, sa réclamation est réputée rejetée et est susceptible d'être contestée devant le tribunal judiciaire spécialement désigné dans un délai de deux mois.

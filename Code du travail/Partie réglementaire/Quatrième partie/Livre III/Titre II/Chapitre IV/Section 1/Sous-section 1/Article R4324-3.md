@@ -1,3 +1,5 @@
+# Article R4324-3
+
 Les protecteurs et les dispositifs de protection prévus aux articles R. 4324-1 et R. 4324-2 obéissent aux caractéristiques suivantes :\
 1° Ils sont de construction robuste, adaptée aux conditions d'utilisation ;\
 2° Ils n'occasionnent pas de risques supplémentaires, la défaillance d'un de leurs composants ne compromettant pas leur fonction de protection ;\

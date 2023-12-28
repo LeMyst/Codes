@@ -1,3 +1,5 @@
+# Article R5422-10
+
 Le document de cadrage mentionné à l'article L. 5422-20-1 comprend :
 
 1° Des objectifs en matière de trajectoire financière, exprimés selon les conventions de la comptabilité nationale ;

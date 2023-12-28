@@ -1,3 +1,5 @@
+# Article L6222-5-1
+
 Par dérogation à l'article L. 6221-1 et au second alinéa de l'article L. 6222-4 et pour l'exercice d'activités saisonnières au sens du 3° de l'article L. 1242-2, deux employeurs peuvent conclure conjointement un contrat d'apprentissage avec toute personne éligible à ce contrat en application des articles L. 6222-1 et L. 6222-2. Par dérogation à l'article L. 6211-1, ce contrat peut avoir pour finalité l'obtention de deux qualifications professionnelles sanctionnées par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles.
 
 Une convention tripartite signée par les deux employeurs et l'apprenti est annexée au contrat d'apprentissage. Elle détermine :

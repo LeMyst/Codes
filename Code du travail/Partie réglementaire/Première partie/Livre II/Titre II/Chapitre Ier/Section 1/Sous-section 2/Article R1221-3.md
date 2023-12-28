@@ -1,3 +1,5 @@
+# Article R1221-3
+
 La déclaration préalable à l'embauche est adressée par l'employeur :
 
 1° Soit à l'organisme de recouvrement des cotisations du régime général de sécurité sociale dans le ressort territorial duquel est situé l'établissement devant employer le salarié et au service de santé au travail mentionné au 1° de l'article R. 1221-1 ;

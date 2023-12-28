@@ -1,3 +1,5 @@
+# Article D6332-89
+
 Dans le respect d'un accord de branche ou, à défaut, d'un accord collectif conclu entre les organisations représentatives d'employeurs et de salariés signataires d'un accord constitutif d'un opérateur de compétences, un opérateur de compétences finance les actions selon un niveau de prise en charge déterminé.
 
 Le niveau de prise en charge correspond à un montant forfaitaire versé par l'opérateur de compétences. Ce montant couvre tout ou partie des frais pédagogiques ainsi que des frais de transport et d'hébergement.

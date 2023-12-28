@@ -1,3 +1,5 @@
+# Article R6113-1
+
 I.-La commission de France compétences en charge de la certification professionnelle prévue à l'article L. 6113-6 est dénommée : " Commission de la certification professionnelle ". Elle est composée, outre de son président, des membres suivants, nommés pour une durée de cinq ans par arrêté du ministre chargé de la formation professionnelle :
 
 1° Huit représentants de l'Etat, désignés respectivement par le ministre chargé de la formation professionnelle, le ministre chargé de l'éducation nationale, le ministre chargé de l'enseignement supérieur, le ministre chargé de la santé, le ministre chargé des sports, le ministre chargé de l'agriculture, le ministre chargé des affaires sociales et le ministre chargé de la culture ;

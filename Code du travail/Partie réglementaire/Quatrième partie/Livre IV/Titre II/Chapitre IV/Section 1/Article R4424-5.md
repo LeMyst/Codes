@@ -1,3 +1,5 @@
+# Article R4424-5
+
 Pour les activités qui impliquent des agents biologiques pathogènes, l'employeur :\
 1° Fournit aux travailleurs des moyens de protection individuelle, notamment des vêtements de protection appropriés ;\
 2° Veille à ce que les moyens de protection individuelle soient enlevés lorsque le travailleur quitte le lieu de travail ;\

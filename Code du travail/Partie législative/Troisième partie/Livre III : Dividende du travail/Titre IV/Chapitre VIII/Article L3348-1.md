@@ -1,3 +1,5 @@
+# Article L3348-1
+
 L'accord d'intéressement ou de participation peut prévoir le versement, en cours d'exercice, d'avances sur les sommes dues au titre de l'intéressement ou de la réserve spéciale de participation.
 
 Les avances sont versées au bénéficiaire, après avoir recueilli son accord, selon une périodicité qui ne peut être inférieure au trimestre.

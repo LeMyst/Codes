@@ -1,3 +1,5 @@
+# Article D1225-8
+
 Le congé de paternité et d'accueil de l'enfant prévu à l'article L. 1225-35 est pris dans les six mois suivant la naissance de l'enfant.
 
 Le salarié informe son employeur de la date prévisionnelle de l'accouchement au moins un mois avant celle-ci.

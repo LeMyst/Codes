@@ -1,3 +1,5 @@
+# Article L3253-14
+
 L'assurance prévue à l'article L. 3253-6 est mise en oeuvre par une association créée par les organisations nationales professionnelles d'employeurs représentatives et agréée par l'autorité administrative.
 
 Cette association conclut une convention de gestion avec l'organisme gestionnaire du régime d'assurance chômage et avec l'Agence centrale des organismes de sécurité sociale pour le recouvrement des cotisations mentionnées à l'article L. 3253-18.

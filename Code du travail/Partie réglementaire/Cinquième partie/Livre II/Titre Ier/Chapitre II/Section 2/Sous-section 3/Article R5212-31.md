@@ -1,3 +1,5 @@
+# Article R5212-31
+
 La liste des employeurs qui n'ont pas rempli les obligations définies aux articles L. 5212-2 et L. 5212-6 à L. 5212-11 est transmise par l'association mentionnée à l'article L. 5214-1 au préfet de département compétent pour prononcer la pénalité prévue à l'article L. 5212-12. Les modalités de cette transmission sont précisées par arrêté du ministre chargé de l'emploi.
 
 La pénalité est notifiée à l'employeur défaillant par décision motivée :

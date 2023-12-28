@@ -1,3 +1,5 @@
+# Article R4461-11
+
 Lorsque le chef de l'entreprise utilisatrice fait intervenir une entreprise extérieure ou un travailleur indépendant, il assure la coordination générale des mesures de prévention qu'il prend et de celles prises par le chef de l'entreprise extérieure ou le travailleur indépendant, conformément aux dispositions des articles R. 4511-1 et suivants.
 
 Il transmet les consignes particulières applicables à l'établissement en matière de prévention du risque hyperbare aux chefs des entreprises extérieures ou aux travailleurs indépendants auxquels il fait appel. Il leur remet notamment le manuel de sécurité hyperbare applicable à l'établissement au sein duquel ils sont appelés à intervenir.

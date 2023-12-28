@@ -1,3 +1,5 @@
+# Article D2232-3
+
 Les modalités d'organisation de la consultation prévoient :
 
 1° Les modalités d'information des salariés sur le texte de la convention ou de l'accord ;

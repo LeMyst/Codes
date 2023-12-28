@@ -1,3 +1,5 @@
+# Article L5213-13-1
+
 Les entreprises adaptées contribuent au développement des territoires et promeuvent un environnement économique inclusif favorable aux femmes et aux hommes en situation de handicap.
 
 Elles concluent des contrats de travail avec des travailleurs reconnus handicapés par la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5 du code de l'action sociale et des familles qui se trouvent sans emploi ou qui courent le risque de perdre leur emploi en raison de leur handicap. Elles permettent à leurs salariés d'exercer une activité professionnelle dans un environnement adapté à leurs possibilités, afin qu'ils obtiennent ou conservent un emploi.

@@ -1,3 +1,5 @@
+# Article L2312-46
+
 I. - Préalablement à l'avis motivé rendu par le conseil d'administration ou le conseil de surveillance sur l'intérêt de l'offre et sur les conséquences de celle-ci pour la société visée, ses actionnaires et ses salariés, le comité social et économique de la société faisant l'objet de l'offre est réuni et consulté sur le projet d'offre. Au cours de cette réunion, il examine le rapport établi par l'expert-comptable en application de l'article L. 2312-45 et peut demander la présence de l'auteur de l'offre.
 
 Le comité social et économique émet son avis dans un délai d'un mois à compter du dépôt du projet d'offre publique d'acquisition. En l'absence d'avis dans ces délais, il est réputé avoir été consulté.

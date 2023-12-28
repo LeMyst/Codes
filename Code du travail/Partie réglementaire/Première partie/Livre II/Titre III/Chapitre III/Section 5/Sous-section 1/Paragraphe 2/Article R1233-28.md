@@ -1,3 +1,5 @@
+# Article R1233-28
+
 Au vu du document remis par la cellule d'accompagnement à l'employeur et au salarié, conformément au deuxième alinéa de l'article R. 1233-27, l'employeur précise dans un document :\
 1° Le terme du congé de reclassement ;\
 2° Les prestations de la cellule d'accompagnement dont il peut bénéficier ;\

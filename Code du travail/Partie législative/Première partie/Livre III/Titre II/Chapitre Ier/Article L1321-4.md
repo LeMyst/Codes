@@ -1,3 +1,5 @@
+# Article L1321-4
+
 Le règlement intérieur ne peut être introduit qu'après avoir été soumis à l'avis du comité social et économique.
 
 Le règlement intérieur indique la date de son entrée en vigueur. Cette date doit être postérieure d'un mois à l'accomplissement des formalités de dépôt et de publicité.

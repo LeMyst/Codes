@@ -1,3 +1,5 @@
+# Article L5213-6-1
+
 Dans toute entreprise employant au moins deux cent cinquante salariés, est désigné un référent chargé d'orienter, d'informer et d'accompagner les personnes en situation de handicap.
 
 Pour l'application du présent article, l'effectif salarié et le franchissement du seuil de deux cent cinquante salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.

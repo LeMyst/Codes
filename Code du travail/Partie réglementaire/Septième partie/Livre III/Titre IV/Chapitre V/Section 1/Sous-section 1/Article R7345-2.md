@@ -1,3 +1,5 @@
+# Article R7345-2
+
 I.-Le mandat du président du conseil d'administration est de quatre années au terme desquelles il peut être reconduit une fois.
 
 II.-Le mandat des membres visés au 2° de l'article R. 7345-1 est de quatre années au terme desquelles il peut être reconduit une fois.

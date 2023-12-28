@@ -1,3 +1,5 @@
+# Article D1442-7
+
 La durée totale d'absence d'un conseiller prud'homme salarié pour sa participation à un ou plusieurs stages de formation dans les établissements et organismes mentionnés à l'article D. 1442-1 ne peut dépasser deux semaines au cours d'une même année civile.
 
 Les autorisations d'absence mentionnées au 2° de l'article L. 1442-2 sont accordées aux salariés à leur demande dès leur nomination.

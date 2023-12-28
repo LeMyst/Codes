@@ -1,3 +1,5 @@
+# Article L5331-4
+
 Il est interdit de faire publier dans un journal, revue ou écrit périodique ou de diffuser par tout autre moyen de communication accessible au public une insertion d'offres d'emploi ou d'offres de travaux à domicile comportant un texte rédigé en langue étrangère.
 
 Lorsque l'emploi ou le travail offert ne peut être désigné que par un terme étranger sans correspondant en français, le texte français en comporte une description suffisamment détaillée pour ne pas induire en erreur au sens de l'article L. 5331-3.

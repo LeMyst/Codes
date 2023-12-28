@@ -1,3 +1,5 @@
+# Article R6323-14-3
+
 I.-La commission paritaire interprofessionnelle régionale prend en charge :
 
 1° Les frais pédagogiques et les frais de validation des compétences et des connaissances liés à la réalisation de l'action de formation ;

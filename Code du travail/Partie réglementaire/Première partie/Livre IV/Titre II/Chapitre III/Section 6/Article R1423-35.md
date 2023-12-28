@@ -1,3 +1,5 @@
+# Article R1423-35
+
 Le bureau de jugement comprend selon les cas :
 
 1° Dans sa composition de droit commun visée à l'article L. 1423-12, deux conseillers prud'hommes employeurs et deux conseillers prud'hommes salariés ;

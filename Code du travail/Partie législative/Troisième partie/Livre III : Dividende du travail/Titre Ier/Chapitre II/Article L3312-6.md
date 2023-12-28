@@ -1,3 +1,5 @@
+# Article L3312-6
+
 Dans les entreprises ou les groupes disposant d'un accord d'intéressement et concourant avec d'autres entreprises à une activité caractérisée et coordonnée, un accord peut être conclu pour prévoir que tout ou partie des salariés bénéficie d'un intéressement de projet.
 
 Cet accord d'intéressement de projet est négocié dans les conditions prévues au présent chapitre s'il n'implique que tout ou partie des salariés d'une même entreprise ou d'un même groupe. Il est négocié selon des modalités identiques à celles prévues au premier alinéa de l'article L. 3333-2 s'il concerne tout ou partie des salariés d'entreprises qui ne constituent pas un groupe.

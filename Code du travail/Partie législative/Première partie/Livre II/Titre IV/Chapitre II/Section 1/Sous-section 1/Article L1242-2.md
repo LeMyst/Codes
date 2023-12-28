@@ -1,3 +1,5 @@
+# Article L1242-2
+
 Sous réserve des dispositions de l'article L. 1242-3, un contrat de travail à durée déterminée ne peut être conclu que pour l'exécution d'une tâche précise et temporaire, et seulement dans les cas suivants :
 
 1° Remplacement d'un salarié en cas :

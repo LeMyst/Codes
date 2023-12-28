@@ -1,3 +1,5 @@
+# Article D5212-5
+
 I.-Pour l'établissement de la déclaration relative à l'obligation d'emploi, les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale ou à l'article L. 723-2 du code rural et de la pêche maritime transmettent à l'employeur, au plus tard le 15 mars de l'année suivant celle au titre de laquelle cette déclaration est effectuée, en prenant en compte toutes les déclarations prévues à l'article L. 133-5-3 du code de la sécurité sociale réceptionnées au plus tard le 15 février de cette même année, les informations suivantes :
 
 -l'effectif d'assujettissement, mentionné à l'article D. 5212-1 ;

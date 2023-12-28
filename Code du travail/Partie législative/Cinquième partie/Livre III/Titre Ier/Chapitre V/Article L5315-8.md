@@ -1,3 +1,5 @@
+# Article L5315-8
+
 Les organismes de formation bénéficiant d'une habilitation au titre de l'article L. 6121-2-1 ont accès aux locaux et équipements de l'établissement public dans des conditions objectives, transparentes et non discriminatoires, selon des modalités fixées par une convention signée entre l'Etat, la région et l'établissement public.
 
 Cette convention est conforme à la stratégie coordonnée de la région et de l'Etat prévue à l'article L. 6123-4-1.

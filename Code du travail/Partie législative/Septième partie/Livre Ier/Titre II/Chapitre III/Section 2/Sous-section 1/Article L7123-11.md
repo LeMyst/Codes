@@ -1,3 +1,5 @@
+# Article L7123-11
+
 Le placement des mannequins peut être réalisé à titre onéreux.
 
 Toute personne établie sur le territoire national qui exerce l'activité définie au premier alinéa doit être titulaire d'une licence d'agence de mannequins.

@@ -1,3 +1,5 @@
+# Article R2122-44
+
 La Commission nationale des opérations de vote est chargée :
 
 1° De donner un avis sur la conformité des documents de propagande électorale des organisations syndicales dont la candidature est publiée en application des dispositions de l'article R. 2122-38 sur le site internet du ministère du travail aux conditions de présentation prévues au dernier alinéa de l'article R. 2122-52, lorsque ces documents de propagande sont communs à plus d'une région ;

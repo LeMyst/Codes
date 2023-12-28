@@ -1,3 +1,5 @@
+# Article R4451-71
+
 Ont accès, sous leur forme nominative, aux doses efficaces reçues par les travailleurs ainsi qu'aux résultats de la dosimétrie externe mentionnée au I de l'article R. 4451-65 :
 
 1° Les agents de contrôle de l'inspection du travail et les agents de contrôle assimilés mentionnés à l'article L. 8112-1 ;

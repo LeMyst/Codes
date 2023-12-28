@@ -1,3 +1,5 @@
+# Article L3141-33
+
 Les caisses de congés payés peuvent nommer des contrôleurs chargés de collaborer à la surveillance de l'application de la législation sur les congés payés par les employeurs intéressés. Ceux-ci fournissent à tout moment aux contrôleurs toutes justifications établissant qu'ils se sont acquittés de leurs obligations.
 
 Pour l'accomplissement de leur mission, les contrôleurs disposent des mêmes pouvoirs que ceux attribués aux agents de contrôle de l'inspection du travail. Tout obstacle à l'accomplissement de cette mission est passible des sanctions prévues à l'article L. 8114-1.

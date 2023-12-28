@@ -1,3 +1,5 @@
+# Article L2414-1
+
 Le transfert d'un salarié compris dans un transfert partiel d'entreprise ou d'établissement par application de l'article L. 1224-1 ne peut intervenir qu'après autorisation de l'inspecteur du travail lorsqu'il est investi de l'un des mandats suivants :
 
 1° Délégué syndical et ancien délégué syndical ;

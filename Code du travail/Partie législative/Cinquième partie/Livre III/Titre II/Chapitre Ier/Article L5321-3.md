@@ -1,3 +1,5 @@
+# Article L5321-3
+
 Aucune rétribution, directe ou indirecte, ne peut être exigée des personnes à la recherche d'un emploi en contrepartie de la fourniture de services de placement, sous réserve des dispositions :
 
 1° De l'article L. 7121-9, relatives aux conditions de placement, à titre onéreux, des artistes du spectacle ;

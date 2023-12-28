@@ -1,3 +1,5 @@
+# Article L3142-16
+
 Le salarié a droit à un congé de proche aidant lorsque l'une des personnes suivantes présente un handicap ou une perte d'autonomie :
 
 1° Son conjoint ;

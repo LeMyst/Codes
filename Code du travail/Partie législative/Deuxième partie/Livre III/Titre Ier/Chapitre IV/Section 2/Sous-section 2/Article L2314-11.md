@@ -1,3 +1,5 @@
+# Article L2314-11
+
 Les membres de la délégation du personnel du comité social et économique sont élus sur des listes établies par les organisations syndicales pour chaque catégorie de personnel :
 
 - d'une part, par le collège des ouvriers et employés ;

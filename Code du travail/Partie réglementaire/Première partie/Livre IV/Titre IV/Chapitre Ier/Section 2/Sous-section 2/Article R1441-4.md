@@ -1,3 +1,5 @@
+# Article R1441-4
+
 Pour les sections de l'industrie, du commerce et des services commerciaux, de l'agriculture et des activités diverses, sont pris en compte les suffrages exprimés en fonction du tableau de répartition défini à l'article R. 1423-4, à l'exception des suffrages exprimés pris en compte pour la section de l'encadrement et des suffrages exprimés aux élections des membres représentant les salariés de la production agricole aux chambres d'agriculture prévus à l'article L. 2122-6.
 
 Pour la section de l'agriculture, outre les suffrages exprimés en fonction du tableau de répartition défini à l'article R. 1423-4, sont pris en compte les suffrages exprimés aux élections des membres représentant les salariés de la production agricole aux chambres d'agriculture prévus à l'article L. 2122-6.

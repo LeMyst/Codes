@@ -1,3 +1,5 @@
+# Article R7523-2
+
 Pour l'application à Mayotte de l'article R. 7122-31 :
 
 1° Le b du 1° est remplacé par les dispositions suivantes :

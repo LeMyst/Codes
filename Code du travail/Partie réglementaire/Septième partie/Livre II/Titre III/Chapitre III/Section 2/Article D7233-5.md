@@ -1,3 +1,5 @@
+# Article D7233-5
+
 Les activités de service à la personne à domicile ouvrent droit à l'aide prévue par l'article 199 sexdecies du code général des impôts sous les réserves suivantes :
 
 1° Le montant total des travaux de petit bricolage dits hommes toutes mains est plafonné à 500 euros par an et par foyer fiscal. La durée d'une intervention de petit bricolage ne peut excéder deux heures ;

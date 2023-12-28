@@ -1,3 +1,5 @@
+# Article L2343-5
+
 Le comité d'entreprise européen est composé :
 
 1° Du chef de l'entreprise ou de l'entreprise dominante du groupe de dimension communautaire, assisté de deux personnes de son choix ayant voix consultative ;

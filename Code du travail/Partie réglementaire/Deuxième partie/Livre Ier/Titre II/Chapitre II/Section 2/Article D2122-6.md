@@ -1,3 +1,5 @@
+# Article D2122-6
+
 Le système de centralisation des résultats des élections professionnelles mentionnées aux articles L. 2122-5 à L. 2122-10 afin de mesurer l'audience des organisations syndicales doit :
 
 a) Garantir la confidentialité et l'intégrité des données recueillies et traitées ;

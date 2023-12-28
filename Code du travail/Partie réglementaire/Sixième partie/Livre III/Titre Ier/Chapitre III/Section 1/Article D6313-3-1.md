@@ -1,3 +1,5 @@
+# Article D6313-3-1
+
 La mise en œuvre d'une action de formation en tout ou partie à distance comprend :
 
 1° Une assistance technique et pédagogique appropriée pour accompagner le bénéficiaire dans le déroulement de son parcours ;

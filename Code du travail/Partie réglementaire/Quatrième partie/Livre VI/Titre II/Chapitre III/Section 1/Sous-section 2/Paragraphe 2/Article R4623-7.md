@@ -1,3 +1,5 @@
+# Article R4623-7
+
 Les instances mentionnées à l'article R. 4623-5 ont communication des données suivantes :
 
 1° L'effectif des salariés suivis par le médecin nommé ;

@@ -1,3 +1,5 @@
+# Article D5121-1
+
 Les conventions d'aide au développement de l'emploi et des compétences mentionnées à l'article L. 5121-1 déterminent en particulier :\
 1° Le champ de l'accord : branches professionnelles ou territoires ;\
 2° L'objet de l'accord : étude prospective, diagnostic sectoriel ou territorial, actions de développement des compétences ;\

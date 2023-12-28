@@ -1,3 +1,5 @@
+# Article D1441-24-2
+
 Les destinataires des données à caractère personnel mentionnées aux articles D. 1441-22-2, D. 1441-22-3 et D. 1441-22-4 sont les suivants :
 
 I. – Pour la désignation des conseillers prud'hommes :

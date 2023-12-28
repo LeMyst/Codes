@@ -1,3 +1,5 @@
+# Article Annexe II à l'article R4312-6
+
 DÉFINISSANT LES RÈGLES TECHNIQUES DE CONCEPTION ET DE FABRICATION PRÉVUES PAR L'ARTICLE R. 4312-6
 
 1. Règles générales applicables à tous les équipements de protection individuelle

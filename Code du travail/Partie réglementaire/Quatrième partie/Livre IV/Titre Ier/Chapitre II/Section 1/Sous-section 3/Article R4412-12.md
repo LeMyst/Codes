@@ -1,3 +1,5 @@
+# Article R4412-12
+
 Lorsque les résultats de l'évaluation des risques révèlent un risque pour la santé et la sécurité des travailleurs, l'employeur met en œuvre les dispositions suivantes :
 
 1° Mesures et moyens de prévention prévus aux articles R. 4412-15 à R. 4412-22 ;

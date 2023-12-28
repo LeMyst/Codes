@@ -1,3 +1,5 @@
+# Article L2242-21
+
 La négociation prévue à l'article L. 2242-20 peut également porter :
 
 1° Sur les matières mentionnées aux articles L. 1233-21 et L. 1233-22 selon les modalités prévues à ces mêmes articles ;

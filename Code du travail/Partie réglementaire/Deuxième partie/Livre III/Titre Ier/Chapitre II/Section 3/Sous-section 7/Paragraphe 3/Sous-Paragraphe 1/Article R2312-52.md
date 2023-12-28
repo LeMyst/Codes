@@ -1,3 +1,5 @@
+# Article R2312-52
+
 En cas de cessation définitive de l'activité de l'entreprise, le comité social et économique décide de l'affectation des biens dont il dispose. La liquidation est opérée par ses soins, sous la surveillance du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
 La dévolution du solde des biens est réalisée au crédit :

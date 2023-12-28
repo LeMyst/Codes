@@ -1,3 +1,5 @@
+# Article L2512-1
+
 Les dispositions du présent chapitre s'appliquent :
 
 1° Aux personnels de l'Etat, des régions, des départements et des communes comptant plus de 10 000 habitants ;

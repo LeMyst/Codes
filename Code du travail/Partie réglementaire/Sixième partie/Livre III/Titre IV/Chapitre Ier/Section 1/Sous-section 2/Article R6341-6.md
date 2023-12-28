@@ -1,3 +1,5 @@
+# Article R6341-6
+
 La décision d'agrément précise :\
 1° Lorsqu'il s'agit de stages dont la durée est préalablement définie :\
 a) Le nombre maximal de stagiaires susceptibles d'être rémunérés chaque année ;\

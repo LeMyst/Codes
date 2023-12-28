@@ -1,3 +1,5 @@
+# Article R1423-33
+
 Lorsqu'une des sections d'un conseil de prud'hommes ne peut se constituer ou ne peut fonctionner, le premier président de la cour d'appel, saisi sur requête du procureur général, désigne la section correspondante d'un autre conseil de prud'hommes ou, à défaut, un ou plusieurs juges mentionnés à l'article L. 1454-2, pour connaître des affaires inscrites au rôle de la section ou dont cette dernière aurait dû être ultérieurement saisie.
 
 Il fixe la date à compter de laquelle les affaires sont provisoirement soumises à cette section ou à ces juges.

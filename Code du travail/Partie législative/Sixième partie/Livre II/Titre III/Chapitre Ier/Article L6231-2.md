@@ -1,3 +1,5 @@
+# Article L6231-2
+
 Les centres de formation dispensant les actions mentionnées au 4° de l'article L. 6313-1 ont pour mission :
 
 1° D'accompagner les personnes, y compris celles en situation de handicap, souhaitant s'orienter ou se réorienter par la voie de l'apprentissage, en développant leurs connaissances et leurs compétences et en facilitant leur intégration en emploi, en cohérence avec leur projet professionnel. Pour les personnes en situation de handicap, le centre de formation d'apprentis appuie la recherche d'un employeur et facilite leur intégration tant en centre de formation d'apprentis qu'en entreprise en proposant les adaptations nécessaires au bon déroulement de leur contrat d'apprentissage. Pour accomplir cette mission, le centre de formation d'apprentis désigne un référent chargé de l'intégration des personnes en situation de handicap ;

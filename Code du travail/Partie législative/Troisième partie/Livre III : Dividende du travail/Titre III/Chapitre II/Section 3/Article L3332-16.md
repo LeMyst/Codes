@@ -1,3 +1,5 @@
+# Article L3332-16
+
 Un plan d'épargne d'entreprise établi par accord avec le personnel peut prévoir l'affectation des sommes versées à un fonds dédié au rachat des titres de cette entreprise ou d'actions émises par des sociétés créées dans les conditions prévues à l'article 220 nonies du code général des impôts, ainsi que de titres d'une entreprise du même groupe au sens du deuxième alinéa de l'article L. 3344-1, dans le cadre d'une opération de rachat réservée aux salariés.
 
 Les sommes ou valeurs inscrites aux comptes des participants, sur décision individuelle de ces derniers, doivent être détenues jusqu'au terme de l'opération de rachat mentionnée au 2°, sans que la durée de détention puisse être inférieure à trois ans. Toutefois, un décret précise les cas dans lesquels les sommes ou valeurs mentionnées ci-dessus peuvent être exceptionnellement débloquées avant l'expiration de ce délai.

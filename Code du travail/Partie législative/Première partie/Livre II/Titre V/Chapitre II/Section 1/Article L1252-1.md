@@ -1,3 +1,5 @@
+# Article L1252-1
+
 Le recours au travail à temps partagé a pour objet la mise à disposition d'un salarié par une entreprise de travail à temps partagé au bénéfice d'un client utilisateur pour l'exécution d'une mission.
 
 Chaque mission donne lieu à la conclusion :

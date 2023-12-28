@@ -1,3 +1,5 @@
+# Article R5213-14
+
 L'attribution d'une aide financière fait l'objet d'une convention conclue entre le ministre chargé du travail et l'organisation ou l'établissement intéressé. Il est tenu compte, lors de cette attribution, des autres subventions que ce centre pourrait recevoir.\
 La convention détermine notamment :\
 1° Le nombre de bénéficiaires ;\

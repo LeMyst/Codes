@@ -1,3 +1,5 @@
+# Article L6332-2-1
+
 Lorsqu'une personne exerce une fonction de salarié dans un organisme de formation, elle ne peut exercer une fonction de salarié dans un opérateur de compétences ou un organisme délégué par ce dernier.
 
 Lorsqu'une personne exerce une fonction de salarié dans un établissement de crédit, elle ne peut exercer une fonction de salarié dans un opérateur de compétences ou un organisme délégué par ce dernier.

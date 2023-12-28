@@ -1,3 +1,5 @@
+# Article R4313-82
+
 Outre la procédure d'examen CE de type, les équipements de protection individuelle suivants, neufs ou considérés comme neufs, sont soumis, au choix du fabricant, soit à la procédure de système de garantie de qualité CE définie par les articles R. 4313-57 à R. 4313-61, soit à la procédure de système d'assurance qualité CE de la production avec surveillance définie par les articles R. 4313-62 à R. 4313-74 :
 
 1° Appareils de protection respiratoire filtrants qui protègent contre les aérosols solides ou liquides ou les gaz dangereux ou radiotoxiques ;

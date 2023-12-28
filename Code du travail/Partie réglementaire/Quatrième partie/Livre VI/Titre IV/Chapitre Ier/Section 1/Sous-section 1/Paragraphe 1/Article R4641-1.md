@@ -1,3 +1,5 @@
+# Article R4641-1
+
 Le Conseil d'orientation des conditions de travail est placé auprès du ministre chargé du travail.
 
 I.-Il participe à l'élaboration des orientations des politiques publiques dans les domaines de la santé et de la sécurité au travail et de l'amélioration des conditions de travail, en particulier les stratégies nationales d'action et les projets de stratégies et d'instruments internationaux. Cette participation peut se faire en soumettant des avis et des propositions dans les domaines relevant de sa compétence et en diligentant à cette fin des études ou en établissant des rapports particuliers.

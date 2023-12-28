@@ -1,3 +1,5 @@
+# Article R6325-33
+
 La convention conclue entre le bénéficiaire du contrat de professionnalisation et ses représentants légaux pour les mineurs, l'employeur en France, l'employeur à l'étranger, l'organisme de formation en France et, le cas échéant, l'organisme de formation à l'étranger, en application du II de l'article L. 6325-25, précise, notamment :
 
 1° La date de début et de fin de la période de mobilité ;

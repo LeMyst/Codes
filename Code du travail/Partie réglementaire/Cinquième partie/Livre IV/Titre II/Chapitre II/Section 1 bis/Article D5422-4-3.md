@@ -1,3 +1,5 @@
+# Article D5422-4-3
+
 I. - Pôle emploi fournit aux personnes concernées par le traitement mentionné au I de l'article D. 5422-4 les informations mentionnées à l'article 14 du règlement (UE) 2016/679 du 27 avril 2016, ainsi que les informations relatives aux limitations de leurs droits prévues au III du présent article.
 
 Ces informations figurent sur le site internet du responsable du traitement.

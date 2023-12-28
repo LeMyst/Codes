@@ -1,3 +1,5 @@
+# Article L2152-4
+
 Sont représentatives au niveau national et interprofessionnel les organisations professionnelles d'employeurs :\
 1° Qui satisfont aux critères mentionnés aux 1° à 5° de l'article L. 2151-1 ;\
 2° Dont les organisations adhérentes sont représentatives à la fois dans des branches de l'industrie, de la construction, du commerce et des services ;\

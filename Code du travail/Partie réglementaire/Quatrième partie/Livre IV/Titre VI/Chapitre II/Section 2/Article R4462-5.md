@@ -1,3 +1,5 @@
+# Article R4462-5
+
 I.-Lorsque les travailleurs d'une entreprise extérieure réalisent une activité pyrotechnique mentionnée à l'article R. 4462-1, à l'intérieur du site d'une entreprise utilisatrice au sens de l'article R. 4511-1, l'étude de sécurité de cette activité est communiquée par l'employeur de l'entreprise extérieure à l'entreprise utilisatrice. Les conclusions de l'étude de sécurité effectuée par l'entreprise extérieure sont annexées au plan de prévention défini à l'article R. 4512-6.
 
 Dans le cas où les travailleurs de l'entreprise extérieure et ceux de l'entreprise utilisatrice effectuent ensemble une même activité pyrotechnique, une seule étude de sécurité est rédigée par l'employeur de l'entreprise utilisatrice puis validée par l'employeur de l'entreprise extérieure.

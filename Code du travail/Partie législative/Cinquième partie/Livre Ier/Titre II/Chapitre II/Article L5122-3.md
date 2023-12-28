@@ -1,3 +1,5 @@
+# Article L5122-3
+
 I.-Pour l'application du troisième alinéa du I de l'article L. 5122-1, est prise en compte, en lieu et place de la durée légale du travail :
 
 1° La durée stipulée au contrat pour les conventions individuelles de forfait ou la durée collective du travail conventionnellement prévue, pour les salariés ayant conclu une convention individuelle de forfait en heures, au sens des articles L. 3121-56 et L. 3121-57, incluant des heures supplémentaires, et pour les salariés dont la durée de travail est supérieure à la durée légale en application d'une convention ou d'un accord collectif de travail ;

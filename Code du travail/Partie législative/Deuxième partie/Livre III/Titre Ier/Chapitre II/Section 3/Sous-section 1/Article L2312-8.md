@@ -1,3 +1,5 @@
+# Article L2312-8
+
 I. - Le comité social et économique a pour mission d'assurer une expression collective des salariés permettant la prise en compte permanente de leurs intérêts dans les décisions relatives à la gestion et à l'évolution économique et financière de l'entreprise, à l'organisation du travail, à la formation professionnelle et aux techniques de production, notamment au regard des conséquences environnementales de ces décisions.
 
 II. - Le comité est informé et consulté sur les questions intéressant l'organisation, la gestion et la marche générale de l'entreprise, notamment sur:

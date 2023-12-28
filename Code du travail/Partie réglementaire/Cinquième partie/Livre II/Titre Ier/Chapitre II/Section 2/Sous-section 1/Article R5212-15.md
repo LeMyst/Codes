@@ -1,3 +1,5 @@
+# Article R5212-15
+
 Les autorités administratives compétentes pour délivrer l'agrément sont :
 
 1° Pour l'accord de branche, le ministre chargé de l'emploi ;

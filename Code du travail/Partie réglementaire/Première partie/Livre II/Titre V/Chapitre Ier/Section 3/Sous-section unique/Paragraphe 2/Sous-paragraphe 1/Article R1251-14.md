@@ -1,3 +1,5 @@
+# Article R1251-14
+
 L'entreprise de travail temporaire est en possession, pour chacun de ses établissements, d'une attestation de garantie délivrée par le garant.
 
 L'attestation indique notamment le nom et l'adresse du garant, le montant, la date de prise d'effet et la date d'expiration de la garantie accordée.

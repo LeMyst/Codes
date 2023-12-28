@@ -1,3 +1,5 @@
+# Article L1234-16
+
 Ont droit à un préavis de six semaines :
 
 1° Les professeurs et personnes employées chez des particuliers ;

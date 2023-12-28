@@ -1,3 +1,5 @@
+# Article R4462-36
+
 I.-Sur demande motivée de l'employeur précisant les mesures compensatoires qu'il prévoit, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou l'autorité qui lui est substituée en application des articles R. 8111-8 et R. 4462-29 peut, par décision prise après avis de l'inspecteur de l'armement pour les poudres et explosifs, accorder pour une ou plusieurs installations déterminées, et dans les conditions qu'il fixe, une dérogation aux dispositions figurant dans les articles du présent chapitre mentionnées ci-dessous :
 
 1° Article R. 4462-10-Absence de risque important sur un emplacement de travail en cas d'accident sur un emplacement de travail voisin ;

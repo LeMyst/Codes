@@ -1,3 +1,5 @@
+# Article R4746-3
+
 I.-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait pour un opérateur économique au sens du 13) de l'article 3 du règlement (UE) 2019/1020 de ne pas fournir aux agents mentionnés à l'article L. 4311-6 autres que ceux habilités en application de l'article L. 4314-1 :
 
 1° Les déclarations, certificats et instructions mentionnés au I de l'article R. 4746-1 ;

@@ -1,3 +1,5 @@
+# Article R3132-20
+
 Pour figurer sur la liste des zones touristiques mentionnées à l'article L. 3132-25, les zones doivent accueillir pendant certaines périodes de l'année une population supplémentaire importante en raison de leurs caractéristiques naturelles, artistiques, culturelles ou historiques ou de l'existence d'installations de loisirs ou thermales à forte fréquentation.
 
 Les critères notamment pris en compte pour le classement en zones touristiques sont :

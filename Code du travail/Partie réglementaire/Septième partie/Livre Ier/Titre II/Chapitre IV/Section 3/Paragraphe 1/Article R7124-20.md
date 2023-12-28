@@ -1,3 +1,5 @@
+# Article R7124-20
+
 La commission participe à l'examen des demandes d'autorisation individuelles et des demandes d'agrément en vue d'engager un ou des enfants.
 
 Elle comprend dans chaque département :

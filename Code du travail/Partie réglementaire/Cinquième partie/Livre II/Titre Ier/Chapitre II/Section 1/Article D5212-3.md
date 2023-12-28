@@ -1,3 +1,5 @@
+# Article D5212-3
+
 L'effectif des bénéficiaires de l'obligation d'emploi mentionné à l'article L. 5212-13 prend en compte l'ensemble des travailleurs mentionnés à l'article L. 5212-13, quelles que soient la durée et la nature de leur contrat, y compris les stagiaires, les personnes en période de mise en situation en milieu professionnel et les personnes mises à disposition par les entreprises de travail temporaire ou les groupements d'employeurs.
 
 Pour les entreprises de travail temporaire, les groupements d'employeurs et les entreprises de portage salarial, les salariés portés ou mis à disposition ne sont pas pris en compte dans les effectifs de bénéficiaires de l'obligation d'emploi.

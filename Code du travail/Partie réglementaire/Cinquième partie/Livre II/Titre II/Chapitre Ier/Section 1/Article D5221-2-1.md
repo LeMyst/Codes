@@ -1,3 +1,5 @@
+# Article D5221-2-1
+
 En application de l'article L. 5221-2-1 du code du travail, n'est pas soumis à la condition prévue au 2° de l'article L. 5221-2 du même code l'étranger qui entre en France afin d'y exercer une activité salariée pour une durée inférieure ou égale à trois mois dans les domaines suivants :
 
 1° Les manifestations sportives, culturelles, artistiques et scientifiques ;

@@ -1,3 +1,5 @@
+# Article R6322-75
+
 Le report de congé ne supprime pas le droit à congé pour le salarié qui atteint :
 
 1° Soit l'âge de vingt-six ans après le dépôt de sa demande ;

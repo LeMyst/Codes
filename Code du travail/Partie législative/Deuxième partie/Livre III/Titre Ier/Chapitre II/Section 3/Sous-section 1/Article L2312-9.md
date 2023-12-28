@@ -1,3 +1,5 @@
+# Article L2312-9
+
 Dans le champ de la santé, de la sécurité et des conditions de travail, le comité social et économique :
 
 1° Procède à l'analyse des risques professionnels auxquels peuvent être exposés les travailleurs, notamment les femmes enceintes, ainsi que des effets de l'exposition aux facteurs de risques professionnels mentionnés à l'article L. 4161-1 ;

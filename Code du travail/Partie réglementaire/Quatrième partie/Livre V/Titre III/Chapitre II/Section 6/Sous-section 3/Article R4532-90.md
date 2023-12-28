@@ -1,3 +1,5 @@
+# Article R4532-90
+
 Les règles de fonctionnement du collège interentreprises sont précisées par un règlement.\
 Ce règlement prévoit, notamment :\
 1° La fréquence accrue des réunions du collège en fonction de l'importance et de la nature des travaux ;\

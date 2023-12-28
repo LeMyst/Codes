@@ -1,3 +1,5 @@
+# Article R5213-1-2
+
 Le travailleur handicapé qui quitte un établissement ou un service d'aide par le travail pour rejoindre le milieu ordinaire de travail bénéficie obligatoirement, sans nouvelle décision de la commission des droits et de l'autonomie des personnes handicapées, du parcours renforcé en emploi mentionné à l'article L. 5213-2.
 
 A ce titre, il bénéficie de l'accompagnement de son établissement ou service d'aide par le travail d'origine, organisé dans le cadre de la convention d'appui conclue entre cet établissement ou ce service et l'employeur, et éventuellement un service d'accompagnement à la vie sociale, en application du premier alinéa de l'article L. 344-2-5 du code de l'action sociale et des familles.

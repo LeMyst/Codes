@@ -1,3 +1,5 @@
+# Article R6323-34
+
 I.-Dans la mesure où leur exploitation est nécessaire à la poursuite des finalités définies aux 1° à 9° bis, 11° et 12° de l'article R. 6323-33, les catégories de données à caractère personnel relatives au titulaire du compte personnel de formation ou au titulaire de droits individuels à la formation des élus locaux pouvant être enregistrées dans le traitement automatisé sont les suivantes :
 
 1° Données relatives à l'identité et à l'activité professionnelle du titulaire ;

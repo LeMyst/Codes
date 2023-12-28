@@ -1,3 +1,5 @@
+# Article R2312-41
+
 Le comité social et économique est représenté auprès :
 
 1° Des conseils d'administration des organismes de sécurité sociale, des mutuelles établies dans l'entreprise ainsi qu'auprès des commissions de contrôle de ces institutions ;

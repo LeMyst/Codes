@@ -1,3 +1,5 @@
+# Article L1262-4-4
+
 Lorsqu'un salarié détaché est victime d'un accident du travail, une déclaration est envoyée à l'inspection du travail du lieu où s'est produit l'accident.
 
 Cette déclaration est effectuée, dans un délai et selon des modalités fixés par décret en Conseil d'Etat, par :

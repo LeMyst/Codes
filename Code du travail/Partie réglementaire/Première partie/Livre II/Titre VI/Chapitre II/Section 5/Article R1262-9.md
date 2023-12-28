@@ -1,3 +1,5 @@
+# Article R1262-9
+
 Sont applicables, sous réserve des dispositions des articles R. 1262-10 à R. 1262-15, les dispositions relatives :
 
 1° A la prise en charge des dépenses afférentes aux services de santé au travail, prévue par l'article L. 4622-6 ;

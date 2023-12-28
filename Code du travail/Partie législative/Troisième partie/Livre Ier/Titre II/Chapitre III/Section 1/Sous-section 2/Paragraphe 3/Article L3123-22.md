@@ -1,3 +1,5 @@
+# Article L3123-22
+
 Une convention ou un accord de branche étendu peut prévoir la possibilité, par un avenant au contrat de travail, d'augmenter temporairement la durée de travail prévue par le contrat.
 
 La convention ou l'accord :

@@ -1,3 +1,5 @@
+# Article D5213-84
+
 Une convention de mise à disposition entre l'entreprise adaptée prêteuse et l'entreprise utilisatrice précise notamment :
 
 1° L'identité et la qualification du salarié concerné ;

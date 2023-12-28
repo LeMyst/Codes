@@ -1,3 +1,5 @@
+# Article L3253-16
+
 Les institutions de garantie mentionnées à l'article L. 3253-14 sont subrogées dans les droits des salariés pour lesquels elles ont réalisé des avances :
 
 1° Pour l'ensemble des créances, lors d'une procédure de sauvegarde ;

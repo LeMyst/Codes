@@ -1,3 +1,5 @@
+# Article L1237-5
+
 La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre le contrat de travail d'un salarié ayant atteint l'âge mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale sous réserve des septième à neuvième alinéas :
 
 Un âge inférieur peut être fixé, dans la limite de celui prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale, dès lors que le salarié peut bénéficier d'une pension de vieillesse à taux plein au sens du code de la sécurité sociale :

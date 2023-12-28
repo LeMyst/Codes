@@ -1,3 +1,5 @@
+# Article D5132-43-5
+
 La dérogation à la durée hebdomadaire de travail du titulaire d'un contrat à durée déterminée conclu en application de l'article L. 1242-3 dans les ateliers et chantiers d'insertion peut être accordée par le préfet après examen de la situation de l'intéressé.
 
 La période durant laquelle il peut être dérogé à la durée hebdomadaire minimale de vingt heures ne peut excéder douze mois.

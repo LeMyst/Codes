@@ -1,3 +1,5 @@
+# Article L6222-5
+
 Lorsque l'apprenti mineur est employé par un ascendant, le contrat d'apprentissage est remplacé par une déclaration souscrite par l'employeur. Cette déclaration est assimilée dans tous ses effets à un contrat d'apprentissage.
 
 Elle comporte l'engagement de satisfaire aux conditions prévues par les articles :

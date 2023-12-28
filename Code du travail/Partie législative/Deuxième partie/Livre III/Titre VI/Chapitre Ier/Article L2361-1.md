@@ -1,3 +1,5 @@
+# Article L2361-1
+
 Le présent titre s'applique :
 
 1° Aux sociétés coopératives européennes constituées conformément au règlement (CE) n° 1435 / 2003 du Conseil du 22 juillet 2003 relatif au statut de la société coopérative européenne et ayant leur siège social et leur administration centrale en France ;

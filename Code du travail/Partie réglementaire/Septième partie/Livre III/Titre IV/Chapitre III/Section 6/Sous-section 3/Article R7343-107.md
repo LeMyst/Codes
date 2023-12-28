@@ -1,3 +1,5 @@
+# Article R7343-107
+
 Les organisations professionnelles de plateformes communiquent à l'organisme expert les informations nécessaires à la réalisation de sa mission dans des délais définis, pour chaque expertise, par le directeur général de l'Autorité des relations sociales des plateformes d'emploi.
 
 Les plateformes peuvent également transmettre directement à l'expert des données utiles à la réalisation de sa mission.

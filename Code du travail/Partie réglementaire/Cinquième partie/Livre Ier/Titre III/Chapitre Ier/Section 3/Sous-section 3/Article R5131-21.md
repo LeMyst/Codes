@@ -1,3 +1,5 @@
+# Article R5131-21
+
 Sont considérés comme des ressources intégralement déductibles en application du 1° de l'article R. 5131-20 :
 
 1° Les allocations versées aux travailleurs privés d'emploi en application du titre II du livre IV de la cinquième partie du code du travail ainsi que de l'article L. 1233-68 du même code ;

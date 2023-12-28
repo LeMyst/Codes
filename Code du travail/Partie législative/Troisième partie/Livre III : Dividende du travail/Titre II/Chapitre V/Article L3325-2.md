@@ -1,3 +1,5 @@
+# Article L3325-2
+
 Les sommes affectées dans les conditions prévues à l'article L. 3323-2 sont exonérées d'impôt sur le revenu.
 
 Les revenus provenant des sommes attribuées au titre de la participation et recevant la même affectation qu'elles sont exonérés dans les mêmes conditions. Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont définitivement exonérés à l'expiration de la période d'indisponibilité correspondante.

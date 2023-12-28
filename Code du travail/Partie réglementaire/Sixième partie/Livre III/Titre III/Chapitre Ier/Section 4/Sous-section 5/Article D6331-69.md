@@ -1,3 +1,5 @@
+# Article D6331-69
+
 La part versée par France compétences à l'opérateur de compétences au titre du premier alinéa de l'article L. 6331-60 permet le financement :
 
 I.-1° Des frais des actions mentionnées à l'article L. 6313-1 ;

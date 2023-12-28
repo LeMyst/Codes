@@ -1,3 +1,5 @@
+# Article R6332-19
+
 La répartition des dépenses mentionnées à l'article R. 6332-17 de l'opérateur de compétences s'effectue, au prorata des sommes affectées dans le cadre :
 
 1° Des sections mentionnées à l'article L. 6332-3 ;

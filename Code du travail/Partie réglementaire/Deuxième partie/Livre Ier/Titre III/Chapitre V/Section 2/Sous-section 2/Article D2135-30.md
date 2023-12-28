@@ -1,3 +1,5 @@
+# Article D2135-30
+
 En application du 2° de l'article L. 2135-13, le fonds attribue les crédits versés par l'Etat selon les modalités suivantes :
 
 1° 80 % de ses crédits, à parts égales, entre chacune des organisations syndicales de salariés représentatives au niveau national et interprofessionnel et des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel ;

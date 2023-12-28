@@ -1,3 +1,5 @@
+# Article D2232-2
+
 Les conditions dans lesquelles l'employeur recueille l'approbation des salariés en application des articles L. 2232-12, L. 2232-23-1, L. 2232-24 et L. 2232-26 sont les suivantes :
 
 1° La consultation a lieu pendant le temps de travail, au scrutin secret sous enveloppe ou par voie électronique dans les conditions prévues aux articles R. 2324-5 à R. 2324-17. Son organisation matérielle incombe à l'employeur ;

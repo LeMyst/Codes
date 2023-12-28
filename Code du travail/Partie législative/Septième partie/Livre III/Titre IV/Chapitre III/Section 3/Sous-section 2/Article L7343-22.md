@@ -1,3 +1,5 @@
+# Article L7343-22
+
 La représentativité, au niveau du secteur considéré, des organisations professionnelles de plateformes est déterminée d'après les critères cumulatifs suivants :
 
 1° Le respect des valeurs républicaines ;

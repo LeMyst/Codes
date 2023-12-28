@@ -1,3 +1,5 @@
+# Article L4624-9
+
 I.-Lorsque le médecin du travail constate la présence d'un risque pour la santé des travailleurs, il propose par un écrit motivé et circonstancié des mesures visant à la préserver.
 
 L'employeur prend en considération ces propositions et, en cas de refus, fait connaître par écrit les motifs qui s'opposent à ce qu'il y soit donné suite.

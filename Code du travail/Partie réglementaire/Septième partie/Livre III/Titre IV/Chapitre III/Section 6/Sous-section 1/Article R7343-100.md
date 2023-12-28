@@ -1,3 +1,5 @@
+# Article R7343-100
+
 L'expertise, à laquelle une ou plusieurs organisations de travailleurs reconnues représentatives ou une ou plusieurs organisations professionnelles de plateformes reconnues représentatives peuvent recourir en application de l'article L. 7343-56, a pour objet de les informer sur les sujets mentionnés à cet article qui sont nécessaires à la négociation des accords de secteur, en leur apportant une information claire, précise et impartiale.
 
 La demande d'autorisation de recourir à l'expertise prévue à l'article L. 7343-56 est adressée au directeur général de l'Autorité des relations sociales des plateformes d'emploi. Elle comprend :

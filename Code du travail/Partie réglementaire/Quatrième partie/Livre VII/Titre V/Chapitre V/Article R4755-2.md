@@ -1,3 +1,5 @@
+# Article R4755-2
+
 Lorsque l'autorité de surveillance du marché à l'origine de la mesure envisage de prononcer une amende administrative, elle indique à l'intéressé le montant de l'amende envisagée et l'invite à présenter ses observations dans un délai d'un mois.
 
 A l'expiration du délai fixé et au vu des observations éventuelles de l'intéressé, elle notifie sa décision et émet le titre de perception correspondant.

@@ -1,3 +1,5 @@
+# Article R4462-3
+
 En complément du document unique d'évaluation des risques prévu à l'article R. 4121-1, l'employeur rédige une étude de sécurité, pour chaque activité pyrotechnique mentionnée à l'article R. 4462-1 ainsi que pour les activités de chargement et de déchargement des substances ou objets explosifs afin de :
 
 1° Déceler toutes les possibilités d'événements pyrotechniques et établir, dans chaque cas, leur nature et les risques encourus par les travailleurs ;

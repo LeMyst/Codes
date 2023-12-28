@@ -1,3 +1,5 @@
+# Article L3332-2
+
 Les anciens salariés ayant quitté l'entreprise à la suite d'un départ à la retraite ou en préretraite peuvent continuer à effectuer des versements au plan d'épargne d'entreprise.
 
 Dans les entreprises employant au moins un salarié et moins de deux cent cinquante salariés, peuvent également participer aux plans d'épargne d'entreprise :

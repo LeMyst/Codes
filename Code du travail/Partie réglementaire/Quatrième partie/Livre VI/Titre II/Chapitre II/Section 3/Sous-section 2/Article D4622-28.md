@@ -1,3 +1,5 @@
+# Article D4622-28
+
 La commission médico-technique prévue à l'article L. 4622-13 élabore le projet pluriannuel de service. Elle est informée de la mise en œuvre des priorités du service et des actions à caractère pluridisciplinaire.
 
 Elle est en outre consultée sur les questions relatives :

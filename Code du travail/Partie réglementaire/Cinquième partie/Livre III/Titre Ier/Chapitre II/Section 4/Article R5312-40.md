@@ -1,3 +1,5 @@
+# Article R5312-40
+
 Outre les données directement collectées auprès des personnes concernées, le système d'information est alimenté, dans le cadre des finalités mentionnées à l'article R. 5312-38 et dans la stricte limite des informations nécessaires, par :
 
 1° Le traitement de données à caractère personnel dénommé " Déclaration sociale nominative " mentionné par l'article 3 du décret n° 2013-266 du 28 mars 2013 relatif à la déclaration sociale nominative ;

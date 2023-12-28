@@ -1,3 +1,5 @@
+# Article L2422-1
+
 Lorsque le ministre compétent annule, sur recours hiérarchique, la décision de l'inspecteur du travail autorisant le licenciement d'un salarié investi de l'un des mandats énumérés ci-après, ou lorsque le juge administratif annule la décision d'autorisation de l'inspecteur du travail ou du ministre compétent, le salarié concerné a le droit, s'il le demande dans un délai de deux mois à compter de la notification de la décision, d'être réintégré dans son emploi ou dans un emploi équivalent. Cette disposition s'applique aux salariés investis d'un des mandats suivants :
 
 1° Délégué syndical ou ancien délégué syndical ;

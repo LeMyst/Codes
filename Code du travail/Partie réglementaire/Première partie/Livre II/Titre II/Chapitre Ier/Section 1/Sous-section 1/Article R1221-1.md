@@ -1,3 +1,5 @@
+# Article R1221-1
+
 La déclaration préalable à l'embauche comporte les mentions suivantes :
 
 1° Dénomination sociale ou nom et prénoms de l'employeur, code APE, adresse de l'employeur, numéro du système d'identification du répertoire des entreprises et de leurs établissements ainsi que le service de santé au travail dont l'employeur dépend s'il relève du régime général de sécurité sociale ;

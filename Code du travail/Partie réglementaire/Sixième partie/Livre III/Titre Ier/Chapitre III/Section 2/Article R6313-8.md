@@ -1,3 +1,5 @@
+# Article R6313-8
+
 Lorsque le bilan de compétences est réalisé au titre du plan de développement des compétences mentionné au 1° de l'article L. 6312-1 ou dans le cadre d'un congé de reclassement dans les conditions prévues à l'article L. 1233-71, il fait l'objet d'une convention écrite conclue entre l'employeur, le salarié et l'organisme prestataire du bilan de compétences.
 
 La convention comporte les mentions suivantes :

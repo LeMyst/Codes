@@ -1,3 +1,5 @@
+# Article L2312-53
+
 Le comité social et économique est informé et consulté :
 
 1° Avant le dépôt au greffe d'une demande d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire ;

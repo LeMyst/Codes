@@ -1,3 +1,5 @@
+# Article R2143-2
+
 Dans les entreprises, le nombre des délégués syndicaux est fixé comme suit :\
 1° De 50 à 999 salariés : 1 délégué ;\
 2° De 1 000 à 1 999 salariés : 2 délégués ;\

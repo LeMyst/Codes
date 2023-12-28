@@ -1,3 +1,5 @@
+# Article R4462-1
+
 I.-Les dispositions du présent chapitre déterminent les prescriptions particulières s'appliquant à tous les employeurs mentionnés par l'article L. 4111-1 qui effectuent les activités pyrotechniques suivantes :
 
 La fabrication, l'étude, l'expérimentation, le contrôle, le conditionnement, la conservation, la destruction de substances ou d'objets explosibles destinés à être utilisés pour les effets de leur explosion ou à des fins pyrotechniques, la démolition ou le démantèlement d'équipements ou de bâtiments pyrotechniques.

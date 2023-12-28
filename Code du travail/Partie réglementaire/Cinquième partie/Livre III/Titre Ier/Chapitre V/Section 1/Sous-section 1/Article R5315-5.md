@@ -1,3 +1,5 @@
+# Article R5315-5
+
 Afin d'assister le président du conseil d'administration et le directeur général dans la conduite de l'établissement, sont institués au sein du conseil d'administration :
 
 1° Un comité d'audit ;

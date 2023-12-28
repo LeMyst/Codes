@@ -1,3 +1,5 @@
+# Article R7343-104
+
 L'expert, qui peut être une personne physique ou une personne morale :
 
 1° Justifie d'une assurance destinée à couvrir sa responsabilité ainsi que, lorsqu'il s'agit d'une personne morale, de son statut juridique ;

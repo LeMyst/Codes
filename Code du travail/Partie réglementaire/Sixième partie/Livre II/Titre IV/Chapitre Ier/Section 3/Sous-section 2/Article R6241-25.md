@@ -1,3 +1,5 @@
+# Article R6241-25
+
 Dans le cadre du service dématérialisé mentionné au II de l'article L. 6241-2, la Caisse des dépôts et consignations :
 
 1° Met à la disposition des employeurs une liste des établissements habilités à percevoir le solde de la taxe d'apprentissage en application des articles L. 6241-4 et L. 6241-5 et, le cas échéant, des formations dispensées par ces derniers, établie à partir des listes mentionnées au 13° de l'article L. 6241-5 et aux articles R. 6241-21 et R. 6241-22 ;

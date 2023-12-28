@@ -1,3 +1,5 @@
+# Article L2312-22
+
 En l'absence d'accord prévu à l'article L. 2312-19, le comité social et économique est consulté chaque année sur :
 
 1° Les orientations stratégiques de l'entreprise dans les conditions définies au sous-paragraphe 1er ;

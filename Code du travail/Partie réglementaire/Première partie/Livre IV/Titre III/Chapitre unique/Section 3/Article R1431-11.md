@@ -1,3 +1,5 @@
+# Article R1431-11
+
 La commission permanente comprend :
 
 1° Trois représentants de l'Etat choisis parmi les membres du Conseil supérieur de la prud'homie ;

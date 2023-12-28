@@ -1,3 +1,5 @@
+# Article L4143-1
+
 Le comité social et économique est consulté sur les programmes de formation et veille à leur mise en oeuvre effective.
 
 Il est également consulté :

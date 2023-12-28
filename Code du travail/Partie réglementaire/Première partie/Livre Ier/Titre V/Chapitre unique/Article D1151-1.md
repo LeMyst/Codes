@@ -1,3 +1,5 @@
+# Article D1151-1
+
 L'information prévue au second alinéa de l'article L. 1153-5 précise l'adresse et le numéro d'appel :
 
 1° Du médecin du travail ou du service de santé au travail compétent pour l'établissement ;

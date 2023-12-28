@@ -1,3 +1,5 @@
+# Article L3423-8
+
 La rémunération mensuelle minimale est réduite à due concurrence lorsque :
 
 1° Au cours du mois considéré, le travailleur a accompli un nombre d'heures inférieur à la durée contractuelle du travail pour l'un des motifs suivants :

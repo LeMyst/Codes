@@ -1,3 +1,5 @@
+# Article L3141-22
+
 Si, en application d'une disposition légale, la durée du travail d'un salarié est décomptée à l'année, une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche peut prévoir que les congés ouverts au titre de l'année de référence peuvent faire l'objet de reports.
 
 Dans ce cas, les reports de congés peuvent être effectués jusqu'au 31 décembre de l'année suivant celle pendant laquelle la période de prise de ces congés a débuté.

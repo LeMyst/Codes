@@ -1,3 +1,5 @@
+# Article R1235-3
+
 I.-Si la mise en demeure reste sans effet au terme du délai d'un mois à compter de sa notification, le directeur général de Pôle emploi peut délivrer la contrainte prévue à l'article L. 1235-4.
 
 II.-La contrainte est notifiée au débiteur par tout moyen donnant date certaine à sa réception ou est signifiée au débiteur par acte d'huissier de justice. A peine de nullité, la notification comprend :

@@ -1,3 +1,5 @@
+# Article R5151-10
+
 I.-Les personnes morales de droit public et les personnes morales de droit privé chargées d'une mission de service public qui développent et mettent à disposition les services en ligne mentionnés au 3° du II de l'article L. 5151-6 sont autorisées à créer les traitements de données à caractère personnel nécessaires dans les conditions définies au présent article.
 
 La personne morale qui développe et met à disposition le service en ligne est responsable du traitement de données à caractère personnel correspondant.

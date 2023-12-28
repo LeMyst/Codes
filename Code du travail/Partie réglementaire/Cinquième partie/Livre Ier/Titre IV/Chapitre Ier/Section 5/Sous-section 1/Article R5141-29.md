@@ -1,3 +1,5 @@
+# Article R5141-29
+
 Les actions de conseil et d'accompagnement mentionnées au 4° de l'article R. 5141-1 sont réalisées par un opérateur avec lequel l'Etat passe à cet effet une convention.
 
 Les actions sont réalisées dans le cadre d'un parcours comportant les trois phases suivantes :

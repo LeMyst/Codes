@@ -1,3 +1,5 @@
+# Article R7124-29
+
 Durant les périodes scolaires, l'emploi d'un enfant âgé de six à seize ans exerçant une activité de mannequin et la sélection préalable en vue d'exercer cette activité ne peuvent être autorisés que les jours ou demi-journées de repos hebdomadaire autres que le dimanche, et selon les durées suivantes :\
 1 Durée journalière maximum :\
 a) Trois heures, dont pas plus d'une heure et demie en continu, de six à onze ans ;\

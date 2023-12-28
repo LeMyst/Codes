@@ -1,3 +1,5 @@
+# Article R6323-37
+
 I.-Dans le cadre des finalités définies à l'article R. 6323-33 et dans la limite du besoin d'en connaître, le traitement automatisé mentionné à l'article R. 6323-32 peut être alimenté par les traitements automatisés de données à caractère personnel comportant le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques pour ce qui relève :
 
 1° De la gestion et du contrôle des droits acquis au titre du compte personnel de formation et du droit individuel à la formation des élus locaux ainsi que des abondements en droits complémentaires ;

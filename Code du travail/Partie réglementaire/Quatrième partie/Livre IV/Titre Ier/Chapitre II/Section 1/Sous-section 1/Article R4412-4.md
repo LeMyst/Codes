@@ -1,3 +1,5 @@
+# Article R4412-4
+
 Pour l'application du présent chapitre, on entend par :\
 1° Danger, la propriété intrinsèque d'un agent chimique susceptible d'avoir un effet nuisible ;\
 2° Risque, la probabilité que le potentiel de nuisance soit atteint dans les conditions d'utilisation et/ou d'exposition ;\

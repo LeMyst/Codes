@@ -1,3 +1,5 @@
+# Article R5132-39-1
+
 L'aide financière mentionnée à l'article R. 5132-39 est versée à l'atelier et chantier d'insertion pour chaque poste de travail occupé à temps plein. Le cas échéant, le montant de l'aide est réduit à due proportion de l'occupation des postes.
 
 Son montant est égal à :

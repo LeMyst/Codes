@@ -1,3 +1,5 @@
+# Article R4314-11
+
 En l'absence de mesures appropriées prises par l'opérateur économique concerné après la notification prévue à l'article R. 4314-10, l'autorité de surveillance du marché peut lui enjoindre de prendre, dans un délai qu'elle fixe, les mesures suivantes :
 
 1° Mettre l'équipement concerné en conformité, notamment en corrigeant une non-conformité formelle, de façon à ce que les nouveaux équipements mis sur le marché soient conformes ou en s'assurant que l'équipement ne présente plus de risque ;

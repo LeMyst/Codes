@@ -1,3 +1,5 @@
+# Article R4623-31-1
+
 La formation spécifique en santé au travail prévue à l'article L. 4623-10 est acquise par la justification :
 
 1° D'un parcours de formation d'un minimum de 240 heures d'enseignements théoriques ;

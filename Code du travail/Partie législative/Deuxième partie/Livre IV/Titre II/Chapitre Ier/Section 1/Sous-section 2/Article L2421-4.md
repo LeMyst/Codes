@@ -1,3 +1,5 @@
+# Article L2421-4
+
 La procédure prévue à la présente sous-section s'applique également au salarié investi de l'un des mandats suivants :
 
 1° Membre du groupe spécial de négociation et membre du comité d'entreprise européen ;

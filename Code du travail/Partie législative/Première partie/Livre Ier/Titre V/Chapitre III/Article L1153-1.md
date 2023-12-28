@@ -1,3 +1,5 @@
+# Article L1153-1
+
 Aucun salarié ne doit subir des faits :
 
 1° Soit de harcèlement sexuel, constitué par des propos ou comportements à connotation sexuelle ou sexiste répétés qui soit portent atteinte à sa dignité en raison de leur caractère dégradant ou humiliant, soit créent à son encontre une situation intimidante, hostile ou offensante ;

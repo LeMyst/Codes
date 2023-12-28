@@ -1,3 +1,5 @@
+# Article D5424-7
+
 Les dispositions des articles L. 5424-6 à L. 5424-19 sont applicables :\
 1° Aux travailleurs appartenant aux activités professionnelles mentionnées par le décret n° 59-534 du 9 avril 1959 relatif à la nomenclature des activités économiques sous les numéros ci-après :\
 330.\

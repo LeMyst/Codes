@@ -1,3 +1,5 @@
+# Article R4451-6
+
 L'exposition d'un travailleur aux rayonnements ionisants ne dépasse pas :
 
 1° Pour l'organisme entier, la valeur limite d'exposition de 20 millisieverts sur douze mois consécutifs, évaluée à partir de la dose efficace ;

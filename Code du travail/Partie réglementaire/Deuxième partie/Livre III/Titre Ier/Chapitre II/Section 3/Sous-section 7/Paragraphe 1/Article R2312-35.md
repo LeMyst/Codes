@@ -1,3 +1,5 @@
+# Article R2312-35
+
 Les activités sociales et culturelles établies dans l'entreprise au bénéfice des salariés ou anciens salariés de l'entreprise et de leur famille comprennent :
 
 1° Des institutions sociales de prévoyance et d'entraide, telles que les institutions de retraites et les sociétés de secours mutuels ;

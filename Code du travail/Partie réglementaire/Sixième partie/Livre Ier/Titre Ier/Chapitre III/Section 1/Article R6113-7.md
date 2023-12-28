@@ -1,3 +1,5 @@
+# Article R6113-7
+
 Dans l'exercice de ses missions définies aux articles L. 6113-4 à L. 6113-8, la commission :
 
 1° Contribue à l'harmonisation de la terminologie employée par les ministères et organismes certificateurs pour l'intitulé des certifications professionnelles, les activités qu'elles visent et les compétences qu'elles attestent ;

@@ -1,3 +1,5 @@
+# Article R1262-2
+
 La déclaration mentionnée à l'article L. 1262-4-4 est envoyée dans un délai de deux jours ouvrables suivant la survenance de l'accident du travail, par tout moyen permettant de conférer date certaine à cet envoi.
 
 La déclaration comporte les éléments suivants :

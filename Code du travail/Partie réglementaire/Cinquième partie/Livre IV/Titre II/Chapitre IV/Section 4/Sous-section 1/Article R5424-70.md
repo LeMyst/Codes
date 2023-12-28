@@ -1,3 +1,5 @@
+# Article R5424-70
+
 Pour bénéficier de l'allocation des travailleurs indépendants, les personnes mentionnées à l'article L. 5424-24 :
 
 1° Justifient d'une activité non salariée pendant une période minimale ininterrompue de deux ans au titre d'une seule et même entreprise, dont le terme est la date du fait générateur d'ouverture du droit prévu à l'article L. 5424-25.

@@ -1,3 +1,5 @@
+# Article R5132-1-8
+
 Par dérogation à l'article R. 5132-1-2, la validité de la prescription du parcours peut être prolongée au-delà de vingt-quatre mois :
 
 1° Par la structure d'insertion par l'activité économique :

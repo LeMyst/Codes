@@ -1,3 +1,5 @@
+# Article L6331-5
+
 Pour les entreprises de travail temporaire, le taux mentionné au premier alinéa de l'article L. 6331-3 est fixé à 1,30 %.
 
 Cette contribution fait l'objet de la répartition suivante :

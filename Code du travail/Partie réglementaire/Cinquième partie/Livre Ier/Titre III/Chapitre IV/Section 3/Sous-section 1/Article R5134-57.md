@@ -1,3 +1,5 @@
+# Article R5134-57
+
 La durée maximale de l'aide à l'insertion professionnelle, fixée à vingt-quatre mois par l'article L. 5134-67-1, peut être prolongée, en application du troisième alinéa du même article, pour la durée de la formation suivie par le salarié restant à courir et dans la limite de soixante mois.
 
 La demande de prolongation faite par l'employeur est accompagnée :

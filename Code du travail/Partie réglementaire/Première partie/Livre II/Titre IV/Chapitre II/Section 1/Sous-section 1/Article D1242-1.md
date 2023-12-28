@@ -1,3 +1,5 @@
+# Article D1242-1
+
 En application du 3° de l'article L. 1242-2, les secteurs d'activité dans lesquels des contrats à durée déterminée peuvent être conclus pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois sont les suivants :
 
 1° Les exploitations forestières ;

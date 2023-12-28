@@ -1,3 +1,5 @@
+# Article R4643-5
+
 L'Organisme professionnel de prévention du bâtiment et des travaux publics comprend un comité national qui règle, par ses délibérations, les affaires de l'organisme.\
 A ce titre, le conseil du comité national :\
 1° Détermine les orientations de l'organisme, fixe le programme annuel et adopte le rapport d'activité, conformément à la politique générale de prévention et d'amélioration des conditions de travail définie par le ministre chargé du travail et en concertation avec les organismes chargés de la santé et de la sécurité et de l'amélioration des conditions de travail ;\

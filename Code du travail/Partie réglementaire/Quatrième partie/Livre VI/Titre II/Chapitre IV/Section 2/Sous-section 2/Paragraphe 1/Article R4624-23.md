@@ -1,3 +1,5 @@
+# Article R4624-23
+
 I.-Les postes présentant des risques particuliers mentionnés au premier alinéa de l'article L. 4624-2 sont ceux exposant les travailleurs :
 
 1° A l'amiante ;

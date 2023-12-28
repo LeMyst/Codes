@@ -1,3 +1,5 @@
+# Article R4624-45-6
+
 Le travailleur est informé, lors de la création de son dossier médical en santé au travail et lors des situations prévues à l'article R. 4624-45-7, par tout moyen y compris dématérialisé :
 
 1° De son droit de s'opposer à l'accès au dossier médical en santé au travail, du médecin praticien correspondant ou des professionnels chargés d'assurer, sous l'autorité du médecin du travail, le suivi de son état de santé ;

@@ -1,3 +1,5 @@
+# Article R4543-22
+
 Tout travailleur effectuant les interventions ou travaux mentionnés à l'article R. 4543-1, y compris les travailleurs temporaires ou sous contrat à durée déterminée, reçoit de l'entreprise qui l'emploie une formation particulière. Cette formation est renouvelée aussi souvent que nécessaire, notamment lors de l'introduction de nouvelles technologies.
 
 Cette formation porte notamment :

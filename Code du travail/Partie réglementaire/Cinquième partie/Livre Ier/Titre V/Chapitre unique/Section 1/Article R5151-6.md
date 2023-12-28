@@ -1,3 +1,5 @@
+# Article R5151-6
+
 I.-Sont destinataires de tout ou partie des données à caractère personnel incluses dans le traitement automatisé, dans les limites strictement nécessaires à l'exercice de leurs missions :
 
 1° Les agents de la direction de l'animation de la recherche, des études et des statistiques du ministère chargé de l'emploi, et des organismes qu'elle mandate au moyen de conventions de recherche, pour leur exploitation à des fins statistiques destinées à la recherche ou à l'évaluation du “ Système d'information du compte personnel d'activité ” (SI-CPA) ;

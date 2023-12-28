@@ -1,3 +1,5 @@
+# Article D6123-2
+
 I.-Un réseau des centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation, doté de la personnalité morale et composé des centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation volontaires, exerce des missions d'appui aux ministres chargés de l'orientation et de la formation professionnelle et aux présidents des conseils régionaux dans la mise en œuvre des politiques relatives à l'orientation et à la formation professionnelle mentionnées aux articles L. 6111-1 et L. 6111-3.
 
 L'adhésion au réseau des centres d'animation, de ressources et d'information sur la formation-observatoires régionaux de l'emploi et de la formation est de droit.

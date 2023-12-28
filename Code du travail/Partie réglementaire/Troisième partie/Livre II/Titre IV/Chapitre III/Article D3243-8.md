@@ -1,3 +1,5 @@
+# Article D3243-8
+
 L'employeur arrête les conditions dans lesquelles il garantit la disponibilité pour le salarié du bulletin de paie émis sous forme électronique :
 
 -soit pendant une durée de cinquante ans ;

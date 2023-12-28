@@ -1,3 +1,5 @@
+# Article L2316-8
+
 Dans chaque entreprise, la répartition des sièges entre les différents établissements et les différents collèges fait l'objet d'un accord entre l'employeur et les organisations syndicales intéressées, conclu selon les conditions de l'article L. 2314-6.
 
 En cas de désaccord sur la répartition des sièges, l'autorité administrative dans le ressort de laquelle se trouve le siège de l'entreprise décide de cette répartition.

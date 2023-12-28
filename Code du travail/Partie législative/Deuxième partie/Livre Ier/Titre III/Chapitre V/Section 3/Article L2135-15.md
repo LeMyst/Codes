@@ -1,3 +1,5 @@
+# Article L2135-15
+
 I. ― Le fonds mentionné à l'article L. 2135-9 est géré par une association paritaire, administrée par un conseil d'administration composé de représentants des organisations syndicales de salariés et des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel. Au sein de ce conseil, chaque organisation professionnelle d'employeurs dispose d'un nombre de voix proportionnel à son audience au niveau national et interprofessionnel. Pour l'appréciation de cette audience, sont pris en compte à hauteur, respectivement, de 30 % et de 70 %, le nombre des entreprises adhérentes à des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel et le nombre de salariés employés par ces mêmes entreprises.
 
 La présidence de l'association est assurée alternativement par un représentant des organisations syndicales de salariés et un représentant des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel.

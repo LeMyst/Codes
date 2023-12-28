@@ -1,3 +1,5 @@
+# Article R4412-87
+
 L'employeur organise, en liaison avec le comité social et économique et le médecin du travail, l'information et la formation à la sécurité des travailleurs susceptibles d'être exposés à l'action d'agents cancérogènes, mutagènes ou toxiques pour la reproduction.\
 Cette information et cette formation concernent, notamment :\
 1° Les risques potentiels pour la santé, y compris les risques additionnels dus à la consommation du tabac ;\

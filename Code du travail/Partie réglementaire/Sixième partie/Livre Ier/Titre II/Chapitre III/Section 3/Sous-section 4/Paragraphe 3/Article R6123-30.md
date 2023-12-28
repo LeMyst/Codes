@@ -1,3 +1,5 @@
+# Article R6123-30
+
 I.-Le rapport d'activité annuel mentionné à l'article L. 6123-11 retrace l'ensemble des activités de France compétences au titre de ses missions énumérées à l'article L. 6123-5.
 
 II.-Chaque année, à l'occasion de la remise du rapport au Parlement et au ministre chargé de la formation professionnelle, le président du conseil d'administration de France compétences présente l'activité de l'établissement et ses perspectives de travail, devant une assemblée composée, outre les administrateurs de l'établissement, des membres suivants :

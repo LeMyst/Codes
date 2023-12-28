@@ -1,3 +1,5 @@
+# Article L5213-3-1
+
 I.-La convention de rééducation professionnelle en entreprise est conclue entre l'employeur, le salarié et la caisse primaire d'assurance maladie ou la caisse générale de sécurité sociale mentionnée à l'article L. 323-3-1 du code de la sécurité sociale ou la caisse de mutualité sociale agricole. Cette convention détermine les modalités d'exécution de la rééducation professionnelle ainsi que le montant et les conditions dans lesquelles la caisse primaire d'assurance maladie ou la caisse générale de sécurité sociale ou la caisse de mutualité sociale agricole verse au salarié l'indemnité journalière mentionnée au même article L. 323-3-1 ou à l'article L. 752-5-2 du code rural et de la pêche maritime, selon le cas.
 
 II.-Lorsque la rééducation professionnelle est assurée par l'employeur du salarié, elle fait l'objet d'un avenant au contrat de travail, qui ne peut modifier la rémunération prévue par celui-ci.

@@ -1,3 +1,5 @@
+# Article L7343-21
+
 Pour l'application du présent chapitre, sont considérées comme des organisations professionnelles représentant les plateformes mentionnées à l'article L. 7342-1 :
 
 1° Les syndicats professionnels mentionnés à l'article L. 2131-1 et leurs unions mentionnées à l'article L. 2133-2 lorsque la défense des intérêts de ces plateformes dans leurs relations avec les travailleurs mentionnés à l'article L. 7341-1 entre dans leur objet social ;

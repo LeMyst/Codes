@@ -1,3 +1,5 @@
+# Article L2315-80
+
 Lorsque le comité social et économique décide du recours à l'expertise, les frais d'expertise sont pris en charge :
 
 1° Par l'employeur concernant les consultations prévues par les articles L. 2315-88, L. 2315-91, au 3° de l'article L. 2315-92 et au 1° de l'article L. 2315-94 ainsi qu'au 3° du même article L. 2315-94 en l'absence de tout indicateur relatif à l'égalité professionnelle prévu à l'article L. 2312-18 ;

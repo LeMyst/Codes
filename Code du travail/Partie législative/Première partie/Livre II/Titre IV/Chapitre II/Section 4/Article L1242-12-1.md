@@ -1,3 +1,5 @@
+# Article L1242-12-1
+
 Lorsque le contrat de travail à durée déterminée est conclu en application du 6° de l'article L. 1242-2, il comporte également :
 
 1° La mention " contrat à durée déterminée à objet défini " ;

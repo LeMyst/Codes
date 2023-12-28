@@ -1,3 +1,5 @@
+# Article R4461-32
+
 I. - La demande d'habilitation des organismes de formation, mentionnés au 1° de l'article R. 4461-29, est adressée, par pli recommandé avec demande d'avis de réception :
 
 1° Aux services centraux placés sous l'autorité du ministre de l'intérieur pour ce qui concerne la mention B “secours et sécurité” ;

@@ -1,3 +1,5 @@
+# Article R5122-18
+
 Le salarié placé en activité partielle reçoit une indemnité horaire, versée par son employeur, correspondant à 60 % de sa rémunération brute servant d'assiette de l'indemnité de congés payés telle que prévue au II de l'article L. 3141-24 ramenée à un montant horaire sur la base de la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure, la durée collective du travail ou la durée stipulée au contrat de travail.
 
 La rémunération maximale prise en compte pour le calcul de l'indemnité horaire est égale à 4,5 fois le taux horaire du salaire minimum interprofessionnel de croissance.

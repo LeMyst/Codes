@@ -1,3 +1,5 @@
+# Article R6123-3-9
+
 Le bureau prépare les réunions du comité régional. Il oriente et suit les travaux des commissions prévues mentionnées à l'article R. 6123-3-13.
 
 Il est chargé de la concertation entre l'Etat, la région et les organisations professionnelles et syndicales représentatives au plan national et interprofessionnel sur les sujets mentionnés aux articles L. 6111-6, L. 6121-1, L. 6323-3, et L. 6323-21.

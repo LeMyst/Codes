@@ -1,3 +1,5 @@
+# Article L2343-2
+
 Le comité d'entreprise européen se réunit au moins une fois par an.
 
 Il est notamment informé sur :

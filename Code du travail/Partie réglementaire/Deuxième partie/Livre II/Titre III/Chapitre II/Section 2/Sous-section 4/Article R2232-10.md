@@ -1,3 +1,5 @@
+# Article R2232-10
+
 Les conditions dans lesquelles l'employeur recueille l'approbation des salariés en application des articles L. 2232-21 à L. 2232-23 sont les suivantes :
 
 1° La consultation a lieu par tout moyen pendant le temps de travail. Son organisation matérielle incombe à l'employeur ;

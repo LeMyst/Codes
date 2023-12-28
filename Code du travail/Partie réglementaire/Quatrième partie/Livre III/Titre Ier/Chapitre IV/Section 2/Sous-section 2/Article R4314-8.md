@@ -1,3 +1,5 @@
+# Article R4314-8
+
 Les autorités de surveillance du marché et les agents habilités peuvent demander communication à l'opérateur économique concerné :
 
 1° Du document relatif à la conformité d'un exemplaire d'un équipement établi par le fabricant ;

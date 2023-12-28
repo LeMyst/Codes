@@ -1,3 +1,5 @@
+# Article L6325-4-1
+
 Pour l'exercice d'activités saisonnières au sens du 3° de l'article L. 1242-2, deux employeurs peuvent conclure conjointement un contrat de professionnalisation à durée déterminée avec toute personne mentionnée au 1° de l'article L. 6325-1, en vue de l'acquisition d'une ou, par dérogation au même article L. 6325-1, de deux qualifications mentionnées à l'article L. 6314-1.
 
 Une convention tripartite signée par les deux employeurs et le titulaire du contrat est annexée au contrat de professionnalisation. Elle détermine :

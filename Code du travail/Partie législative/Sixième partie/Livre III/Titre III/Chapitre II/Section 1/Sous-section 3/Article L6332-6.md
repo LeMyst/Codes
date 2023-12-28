@@ -1,3 +1,5 @@
+# Article L6332-6
+
 Un décret en Conseil d'Etat détermine les conditions d'application de la présente section ainsi que :
 
 1° Les règles relatives à la constitution, aux attributions, au fonctionnement des opérateurs de compétences ;

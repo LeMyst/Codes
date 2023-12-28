@@ -1,3 +1,5 @@
+# Article L3253-3
+
 Les rémunérations prévues au premier alinéa de l'article L. 3253-2 comprennent :
 
 1° Les salaires, appointements ou commissions proprement dites ;

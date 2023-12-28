@@ -1,3 +1,5 @@
+# Article R6121-8
+
 La région peut résilier la convention d'habilitation :
 
 1° Pour un motif d'intérêt général, sous réserve des droits à indemnités de l'organisme titulaire ;

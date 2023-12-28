@@ -1,3 +1,5 @@
+# Article R4461-36
+
 Pour obtenir l'accréditation prévue au 2° de l'article R. 4461-29, l'organisme candidat doit remplir les conditions prévues par le référentiel d'accréditation défini par le Comité français d'accréditation (COFRAC) mentionné à l'article R. 4724-1.
 
 Des arrêtés conjoints du ministre chargé du travail et, chacun en ce qui le concerne, des ministres intéressés déterminent les garanties minimales que doivent présenter les organismes de formation mentionnés au 2° de l'article R. 4461-29, notamment en ce qui concerne :

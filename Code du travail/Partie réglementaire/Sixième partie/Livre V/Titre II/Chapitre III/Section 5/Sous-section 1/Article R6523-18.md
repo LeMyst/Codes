@@ -1,3 +1,5 @@
+# Article R6523-18
+
 Au III de l'article R. 6123-3, sont ajoutées après le troisième alinéa les dispositions suivantes :
 
 3° Chaque année, des activités de l'Agence de l'outre-mer pour la mobilité et du service militaire adapté dans la collectivité ;

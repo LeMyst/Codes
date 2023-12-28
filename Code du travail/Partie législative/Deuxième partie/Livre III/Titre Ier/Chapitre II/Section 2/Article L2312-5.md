@@ -1,3 +1,5 @@
+# Article L2312-5
+
 La délégation du personnel au comité social et économique a pour mission de présenter à l'employeur les réclamations individuelles ou collectives relatives aux salaires, à l'application du code du travail et des autres dispositions légales concernant notamment la protection sociale, ainsi que des conventions et accords applicables dans l'entreprise.
 
 Elle contribue à promouvoir la santé, la sécurité et l'amélioration des conditions de travail dans l'entreprise et réalise des enquêtes en matière d'accidents du travail ou de maladies professionnelles ou à caractère professionnel. L'employeur lui présente la liste des actions de prévention et de protection prévue au 2° du III de l'article L. 4121-3-1.

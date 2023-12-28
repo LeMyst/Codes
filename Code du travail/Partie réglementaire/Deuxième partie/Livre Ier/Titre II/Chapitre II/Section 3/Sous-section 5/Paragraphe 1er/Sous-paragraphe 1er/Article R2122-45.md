@@ -1,3 +1,5 @@
+# Article R2122-45
+
 La Commission nationale des opérations de vote comprend :
 
 1° Deux fonctionnaires désignés par le ministre chargé du travail, dont l'un assure la fonction de président et l'autre celle de secrétaire ;

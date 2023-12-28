@@ -1,3 +1,5 @@
+# Article R2122-50
+
 Le document d'identification est établi et envoyé par le prestataire mentionné au 2° de l'article R. 2122-14. Il mentionne :
 
 1° Les nom, prénoms et domicile de l'électeur ;

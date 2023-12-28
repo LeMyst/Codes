@@ -1,3 +1,5 @@
+# Article R1271-19
+
 L'émetteur habilité notifie sans délai au ministre chargé des services à la personne, par lettre recommandée avec avis de réception :
 
 1° Tout rachat, reprise ou prise de contrôle par une ou plusieurs personnes tierces, la cession ou cessation de l'entreprise ou de l'activité au titre de laquelle l'organisme ou l'établissement est habilité ainsi que l'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire prévue au livre VI du code de commerce relatif aux difficultés des entreprises ;

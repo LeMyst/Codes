@@ -1,3 +1,5 @@
+# Article L3142-66
+
 A défaut de convention ou d'accord conclu en application de l'article L. 3142-65, les dispositions suivantes sont applicables :
 
 1° La durée totale maximale du congé est de neuf jours ouvrables par an ;

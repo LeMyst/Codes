@@ -1,3 +1,5 @@
+# Article L1233-22
+
 L'accord prévu à l'article L. 1233-21 fixe les conditions dans lesquelles le comité social et économique :
 
 1° Est réuni et informé de la situation économique et financière de l'entreprise ;

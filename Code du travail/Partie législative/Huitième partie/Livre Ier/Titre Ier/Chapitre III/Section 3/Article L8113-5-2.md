@@ -1,3 +1,5 @@
+# Article L8113-5-2
+
 Pour la recherche et la constatation des infractions constitutives de travail illégal mentionnées à l'article L. 8211-1, les agents de contrôle définis par voie règlementaire disposent d'un droit de communication leur permettant d'obtenir, sans que s'y oppose le secret professionnel, communication de tout document, renseignement ou élément d'information utile à l'accomplissement de leur mission.
 
 Sans préjudice des autres dispositions législatives applicables en matière d'échanges d'informations, le droit de communication défini au présent article est exercé dans les conditions prévues et auprès des personnes mentionnées à la section I du chapitre II du titre II de la première partie du livre des procédures fiscales, à l'exception des personnes mentionnées aux articles L. 82 C, L. 83 A à L. 83 E, L. 84 à L. 84 E, L. 91, L. 95 et L. 96 B à L. 96 F du même livre.

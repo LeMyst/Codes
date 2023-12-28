@@ -1,3 +1,5 @@
+# Article L5424-12
+
 L'indemnité journalière d'intempéries est due pour chaque heure perdue après expiration d'un délai de carence fixé par décret.
 
 Ce décret détermine également :

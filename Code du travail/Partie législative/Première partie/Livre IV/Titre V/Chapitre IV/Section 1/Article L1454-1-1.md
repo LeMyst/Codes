@@ -1,3 +1,5 @@
+# Article L1454-1-1
+
 En cas d'échec de la conciliation, le bureau de conciliation et d'orientation peut, par simple mesure d'administration judiciaire :
 
 1° Si le litige porte sur un licenciement ou une demande de résiliation judiciaire du contrat de travail, renvoyer les parties, avec leur accord, devant le bureau de jugement dans sa composition restreinte mentionnée à l'article L. 1423-13. La formation restreinte doit statuer dans un délai de trois mois ;

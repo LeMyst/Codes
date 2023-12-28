@@ -1,3 +1,5 @@
+# Article L2523-6
+
 A compter de la réception de la proposition de règlement du conflit soumise par le médiateur aux parties, celles-ci peuvent, pendant un délai de huit jours, notifier au médiateur, dans des conditions prévue par voie réglementaire, qu'elles rejettent sa proposition. Elles motivent leur rejet. Le médiateur informe aussitôt la ou les autres organisations parties au conflit de ces rejets et de leurs motivations.
 
 Au terme du délai de huit jours prévu au premier alinéa, le médiateur constate l'accord ou le désaccord.

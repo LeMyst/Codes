@@ -1,3 +1,5 @@
+# Article R6422-9
+
 Les frais de procédure et d'accompagnement relatifs à la validation des acquis de l'expérience comprennent :
 
 1° Les frais de transport, de repas et d'hébergement ;

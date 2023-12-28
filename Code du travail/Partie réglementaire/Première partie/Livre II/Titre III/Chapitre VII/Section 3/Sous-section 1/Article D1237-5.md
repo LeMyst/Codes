@@ -1,3 +1,5 @@
+# Article D1237-5
+
 Pour l'application de l'article L. 1237-18-5, l'employeur transmet à l'autorité administrative un document d'information sur les ruptures prononcées dans le cadre du congé de mobilité fixé par arrêté du ministre chargé de l'emploi tous les six mois à compter du dépôt de l'accord.
 
 Ce document précise notamment :

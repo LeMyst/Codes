@@ -1,3 +1,5 @@
+# Article L1442-13-2
+
 Le pouvoir disciplinaire est exercé par une Commission nationale de discipline qui est présidée par un président de chambre à la Cour de cassation, désigné par le premier président de la Cour de cassation, et qui comprend :
 
 1° Un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;

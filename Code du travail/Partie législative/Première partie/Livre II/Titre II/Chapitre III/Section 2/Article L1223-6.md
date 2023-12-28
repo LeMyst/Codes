@@ -1,3 +1,5 @@
+# Article L1223-6
+
 L'accord collectif de branche ou d'entreprise prévoyant la mise en place du contrat de mission à l'exportation fixe notamment :
 
 1° Les catégories de salariés concernés ;

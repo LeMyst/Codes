@@ -1,3 +1,5 @@
+# Article L6331-50
+
 Les contributions mentionnées à l'article L. 6331-48 sont recouvrées par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et sont reversées à France compétences, dans la limite du plafond prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 s'agissant de la contribution prévue au 2° de l'article L. 6331-48 du présent code et selon les modalités définies à l'article L. 6123-5 du présent code. France compétences procède à la répartition et à l'affectation des fonds, selon les modalités prévues au même article L. 6123-5 :
 
 1° Aux fonds d'assurance formation de non-salariés mentionnés à l'article L. 6332-9 ;

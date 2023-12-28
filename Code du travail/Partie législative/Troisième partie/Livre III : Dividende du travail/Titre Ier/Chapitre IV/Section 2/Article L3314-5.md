@@ -1,3 +1,5 @@
+# Article L3314-5
+
 La répartition de l'intéressement entre les bénéficiaires peut être uniforme, proportionnelle à la durée de présence dans l'entreprise au cours de l'exercice ou proportionnelle aux salaires. L'accord peut également retenir conjointement ces différents critères. Ces critères peuvent varier selon les établissements et les unités de travail. A cet effet, l'accord peut renvoyer à des accords d'établissement.
 
 L'accord peut fixer un salaire plancher, un salaire plafond ou les deux, servant de base de calcul de la part individuelle.

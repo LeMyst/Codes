@@ -1,3 +1,5 @@
+# Article R6332-63
+
 Sont applicables aux fonds d'assurance formation de non-salariés habilités au titre de la présente-section, y compris aux fonds d'assurance-formation de non salariés des employeurs et travailleurs indépendants de la pêche maritime et des cultures marines, les articles suivants :
 
 1° R. 6332-5, relatif à la nomination de l'administrateur provisoire ;

@@ -1,3 +1,5 @@
+# Article D2232-1-1
+
 L'accord ou la convention mettant en place la commission paritaire permanente de négociation et d'interprétation définie au I de l'article L. 2232-9 comporte l'adresse numérique ou postale de cette commission, afin de permettre la transmission prévue au septième alinéa du II du même article.
 
 A défaut de stipulations relatives à l'adresse de la commission, l'organisation la plus diligente parmi les organisations professionnelle d'employeurs et les organisations syndicales de salariés représentatives dans la branche transmet cette adresse au ministère chargé du travail.

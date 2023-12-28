@@ -1,3 +1,5 @@
+# Article D4632-8
+
 Le conseiller du travail agit sur les lieux du travail afin :\
 1° De veiller au bien-être du travailleur dans l'entreprise et de faciliter son adaptation au travail ;\
 2° D'étudier plus particulièrement les problèmes soulevés par l'emploi des femmes, des jeunes et des travailleurs handicapés ;\

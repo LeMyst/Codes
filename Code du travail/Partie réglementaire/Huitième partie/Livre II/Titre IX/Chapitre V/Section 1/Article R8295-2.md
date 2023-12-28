@@ -1,3 +1,5 @@
+# Article R8295-2
+
 Les catégories de données à caractère personnel pouvant être enregistrées dans le traitement automatisé sont les suivantes :
 
 1° Données personnelles relatives au titulaire de la carte d'identification professionnelle : nom et prénoms, sexe, date et lieu de naissance, nationalité, nature du contrat de travail, photographie d'identité numérisée et, pour les salariés étrangers titulaires d'une autorisation ou d'une carte de séjour valant autorisation de travail, le numéro de cette carte ;

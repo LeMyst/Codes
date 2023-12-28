@@ -1,3 +1,5 @@
+# Article D6241-30
+
 Le centre de formation d'apprentis mentionné au 1° de l'article D. 6241-29 est un centre de formation d'apprentis qui remplit l'une des conditions suivantes :
 
 1° Etre interne à l'entreprise ;

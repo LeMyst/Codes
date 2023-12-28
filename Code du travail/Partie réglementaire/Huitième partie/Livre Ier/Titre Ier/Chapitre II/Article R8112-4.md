@@ -1,3 +1,5 @@
+# Article R8112-4
+
 L'agent de contrôle de l'inspection du travail fournit des rapports circonstanciés sur l'application, dans toute l'étendue de sa circonscription, des dispositions dont il est chargé d'assurer le contrôle de l'exécution.
 
 Ces rapports mentionnent les accidents dont les salariés ont été victimes et leurs causes.

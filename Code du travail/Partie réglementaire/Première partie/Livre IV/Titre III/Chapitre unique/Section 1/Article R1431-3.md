@@ -1,3 +1,5 @@
+# Article R1431-3
+
 Le Conseil supérieur de la prud'homie est consulté sur les projets de loi et de règlement relatifs :
 
 1° A l'institution, la compétence, l'organisation et le fonctionnement des conseils de prud'hommes ;

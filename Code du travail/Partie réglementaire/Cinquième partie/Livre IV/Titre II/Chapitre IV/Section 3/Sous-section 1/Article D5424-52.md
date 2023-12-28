@@ -1,3 +1,5 @@
+# Article D5424-52
+
 Le versement de l'allocation de professionnalisation et de solidarité cesse définitivement au titre de la même ouverture de droits dès lors que l'allocataire justifie des conditions d'attribution de l'allocation d'assurance chômage.
 
 Lorsque l'allocataire bénéficie de l'allocation de professionnalisation et de solidarité au titre du II de l'article D. 5424-51, la durée maximale de versement est de douze mois à compter :

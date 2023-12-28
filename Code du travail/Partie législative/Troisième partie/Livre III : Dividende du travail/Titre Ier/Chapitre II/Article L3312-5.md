@@ -1,3 +1,5 @@
+# Article L3312-5
+
 I.-Les accords d'intéressement sont conclus pour une durée comprise entre un an et cinq ans, selon l'une des modalités suivantes :
 
 1° Par convention ou accord collectif de travail ;

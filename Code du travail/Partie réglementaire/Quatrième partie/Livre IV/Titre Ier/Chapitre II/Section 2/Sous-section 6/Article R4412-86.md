@@ -1,3 +1,5 @@
+# Article R4412-86
+
 Si les résultats de l'évaluation des risques révèlent un risque pour la santé ou la sécurité des travailleurs, l'employeur tient à la disposition des travailleurs exposés et du comité social et économique des informations appropriées sur :\
 1° Les activités ou les procédés industriels mis en œuvre, y compris les raisons pour lesquelles des agents cancérogènes, mutagènes ou toxiques pour la reproduction sont utilisés ;\
 2° Les quantités fabriquées ou utilisées de substances ou préparations qui contiennent des agents cancérogènes mutagènes ou toxiques pour la reproduction ;\

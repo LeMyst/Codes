@@ -1,3 +1,5 @@
+# Article R1471-1
+
 Les dispositions du livre V du code de procédure civile sont applicables aux différends qui s'élèvent à l'occasion d'un contrat de travail.
 
 Le bureau de conciliation et d'orientation homologue l'accord issu d'un mode de résolution amiable des différends, dans les conditions prévues par les dispositions précitées.

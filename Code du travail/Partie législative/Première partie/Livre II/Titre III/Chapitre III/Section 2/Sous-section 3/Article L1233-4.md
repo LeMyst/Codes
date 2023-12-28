@@ -1,3 +1,5 @@
+# Article L1233-4
+
 Le licenciement pour motif économique d'un salarié ne peut intervenir que lorsque tous les efforts de formation et d'adaptation ont été réalisés et que le reclassement de l'intéressé ne peut être opéré sur les emplois disponibles, situés sur le territoire national dans l'entreprise ou les autres entreprises du groupe dont l'entreprise fait partie et dont l'organisation, les activités ou le lieu d'exploitation assurent la permutation de tout ou partie du personnel.
 
 Pour l'application du présent article, la notion de groupe désigne le groupe formé par une entreprise appelée entreprise dominante et les entreprises qu'elle contrôle dans les conditions définies à l'article L. 233-1, aux I et II de l'article L. 233-3 et à l'article L. 233-16 du code de commerce.

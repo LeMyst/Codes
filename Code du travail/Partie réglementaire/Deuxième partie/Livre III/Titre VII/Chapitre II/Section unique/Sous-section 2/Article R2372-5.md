@@ -1,3 +1,5 @@
+# Article R2372-5
+
 En application de l'article L. 2372-3 en ce qu'il renvoie à l'article L. 2352-3, le nombre de sièges par Etat membre au sein du groupe spécial de négociation est égal à :
 
 1° Jusqu'à 10 % de l'effectif total : 1 siège ;

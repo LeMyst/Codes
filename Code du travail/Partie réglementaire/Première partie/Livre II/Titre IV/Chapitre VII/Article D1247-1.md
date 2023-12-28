@@ -1,3 +1,5 @@
+# Article D1247-1
+
 L'organisation syndicale qui exerce une action en justice en faveur d'un salarié, en application de l'article L. 1247-1, avertit ce dernier par lettre recommandée avec avis de réception.\
 La lettre indique la nature et l'objet de l'action envisagée par l'organisation syndicale représentative.\
 Elle mentionne en outre :\

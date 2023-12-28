@@ -1,3 +1,5 @@
+# Article L1251-33
+
 L'indemnité de fin de mission n'est pas due :
 
 1° Lorsque le contrat de mission est conclu au titre du 3° de l'article L. 1251-6 si un accord collectif étendu entre les organisations professionnelles d'employeurs et de salariés de la branche du travail temporaire, ou si une convention ou un accord conclu au sein d'entreprises ou d'établissements de cette branche le prévoit ;

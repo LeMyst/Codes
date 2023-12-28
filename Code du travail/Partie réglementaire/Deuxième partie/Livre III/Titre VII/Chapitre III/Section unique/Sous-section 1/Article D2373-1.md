@@ -1,3 +1,5 @@
+# Article D2373-1
+
 Dans les hypothèses prévues à l'article L. 2373-2, est joint à la demande d'immatriculation de la société issue de l'opération transfrontalière :
 
 1° L'accord portant sur la mise en place du comité de la société issue de l'opération transfrontalière et, lorsque la société issue de l'opération transfrontalière n'est pas composée exclusivement de personnes physiques, d'un système de participation des salariés prévu à l'article L. 2373-2 ;

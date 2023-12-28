@@ -1,3 +1,5 @@
+# Article R4523-6
+
 L'identification et la sélection des entreprises extérieures par l'entreprise utilisatrice s'effectuent sur la base des trois critères cumulatifs suivants :
 
 1° La nature des risques particuliers liés à l'intervention et susceptibles de porter atteinte à la sécurité des travailleurs présents au sein ou à proximité de l'installation, qui constitue le critère prépondérant ;

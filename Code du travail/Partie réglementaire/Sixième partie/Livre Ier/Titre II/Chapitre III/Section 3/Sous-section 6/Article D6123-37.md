@@ -1,3 +1,5 @@
+# Article D6123-37
+
 I.-Les informations relatives aux entreprises sont communiquées à France compétences par les organismes chargés du recouvrement de la contribution relative à la formation professionnelle, et aux opérateurs de compétences par France compétences, afin de permettre :
 
 1° L'établissement, l'actualisation et la diffusion des tables de correspondance mentionnées à l'article R. 6123-34 ;

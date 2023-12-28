@@ -1,3 +1,5 @@
+# Article D1423-59
+
 L'employeur est remboursé mensuellement par l'Etat des salaires maintenus au salarié, membre d'un conseil de prud'hommes, qui s'absente pour l'exercice de ses activités prud'homales, ainsi que de l'ensemble des avantages et des charges sociales correspondantes lui incombant.
 
 Lorsque l'horaire de travail est supérieur à la durée légale, la charge des majorations pour heures supplémentaires est répartie entre l'Etat et les employeurs. Cette répartition est réalisée proportionnellement au temps respectivement passé par le conseiller prud'homme auprès de l'entreprise et auprès du conseil.

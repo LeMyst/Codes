@@ -1,3 +1,5 @@
+# Article L2343-14
+
 Les dépenses de fonctionnement du comité d'entreprise européen sont supportées par l'entreprise ou l'entreprise dominante du groupe d'entreprises de dimension communautaire.
 
 Les membres du comité sont dotés des moyens matériels ou financiers nécessaires à l'accomplissement de leurs missions.

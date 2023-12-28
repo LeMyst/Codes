@@ -1,3 +1,5 @@
+# Article L2152-1
+
 Dans les branches professionnelles, sont représentatives les organisations professionnelles d'employeurs :
 
 1° Qui satisfont aux critères mentionnés aux 1° à 5° de l'article L. 2151-1 ;

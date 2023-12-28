@@ -1,3 +1,5 @@
+# Article D5424-53
+
 Bénéficie de l'allocation de fin de droits, le travailleur involontairement privé d'emploi qui :
 
 1° A épuisé ses droits à l'allocation d'assurance mentionnée à l'article L. 5422-1 ou à l'allocation de professionnalisation et de solidarité ;

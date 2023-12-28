@@ -1,3 +1,5 @@
+# Article R4451-103
+
 Chaque travailleur intervenant en situation d'urgence radiologique affecté au second groupe :
 
 1° Reçoit une information adaptée à la situation d'urgence radiologique survenue et aux conditions d'intervention ;

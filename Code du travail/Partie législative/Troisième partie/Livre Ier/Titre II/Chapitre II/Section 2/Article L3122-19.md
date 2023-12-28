@@ -1,3 +1,5 @@
+# Article L3122-19
+
 Dans les zones mentionnées à l'article L. 3132-24, soit un accord collectif d'entreprise ou d'établissement ou, à défaut, un accord collectif de branche, soit un accord conclu à un niveau territorial peut prévoir la faculté d'employer des salariés entre 21 heures et minuit.
 
 Cet accord prévoit notamment, au bénéfice des salariés employés entre 21 heures et le début de la période de travail de nuit :

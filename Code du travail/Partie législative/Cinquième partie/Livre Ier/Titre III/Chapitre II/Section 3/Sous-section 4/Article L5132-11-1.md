@@ -1,3 +1,5 @@
+# Article L5132-11-1
+
 Les associations intermédiaires peuvent conclure avec des personnes sans emploi rencontrant des difficultés sociales et professionnelles particulières des contrats à durée déterminée en application de l'article L. 1242-3.
 
 Pendant l'exécution de ces contrats, une ou plusieurs conventions conclues en vertu de l'article L. 5135-4 peuvent prévoir une période de mise en situation en milieu professionnel auprès d'un autre employeur dans les conditions prévues au chapitre V du présent titre.

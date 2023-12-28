@@ -1,3 +1,5 @@
+# Article L3142-85
+
 Les dispositions de l'article L. 3142-84 ne sont pas applicables lorsque le mandat a été renouvelé, sauf si la durée de la suspension prévue à l'article L. 3142-83 a été, pour quelque cause que ce soit, inférieure à cinq ans.
 
 Ces dispositions ne s'appliquent pas non plus lorsque le salarié membre de l'Assemblée nationale ou du Sénat est élu dans l'autre de ces deux assemblées.

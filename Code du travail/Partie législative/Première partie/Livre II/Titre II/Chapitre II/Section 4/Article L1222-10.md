@@ -1,3 +1,5 @@
+# Article L1222-10
+
 Outre ses obligations de droit commun vis-à-vis de ses salariés, l'employeur est tenu à l'égard du salarié en télétravail :
 
 1° D'informer le salarié de toute restriction à l'usage d'équipements ou outils informatiques ou de services de communication électronique et des sanctions en cas de non-respect de telles restrictions ;

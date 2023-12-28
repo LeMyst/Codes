@@ -1,3 +1,5 @@
+# Article L351-5-1
+
 Les contributions prévues aux articles L. 321-4-2, L. 351-3-1 et L. 351-14 sont recouvrées et contrôlées par les organismes chargés du recouvrement mentionnés à l'article L. 351-21 pour le compte de l'organisme gestionnaire du régime d'assurance chômage mentionné à ce même article, selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de la sécurité sociale assises sur les rémunérations. Les différends relatifs au recouvrement de ces contributions relèvent du contentieux de la sécurité sociale.
 
 Par dérogation à l'alinéa précédent :

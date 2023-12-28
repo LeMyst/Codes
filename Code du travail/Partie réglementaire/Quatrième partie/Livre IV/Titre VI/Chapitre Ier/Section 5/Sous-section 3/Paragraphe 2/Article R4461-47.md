@@ -1,3 +1,5 @@
+# Article R4461-47
+
 L'équipement de travail s'entend comme comprenant l'ensemble des éléments permettant :
 
 1° L'exécution de travaux en situation d'hyperbarie ;

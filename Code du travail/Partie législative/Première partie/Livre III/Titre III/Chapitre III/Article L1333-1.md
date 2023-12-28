@@ -1,3 +1,5 @@
+# Article L1333-1
+
 En cas de litige, le conseil de prud'hommes apprécie la régularité de la procédure suivie et si les faits reprochés au salarié sont de nature à justifier une sanction.
 
 L'employeur fournit au conseil de prud'hommes les éléments retenus pour prendre la sanction.

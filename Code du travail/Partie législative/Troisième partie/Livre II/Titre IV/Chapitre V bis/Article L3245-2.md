@@ -1,3 +1,5 @@
+# Article L3245-2
+
 Le maître d'ouvrage ou le donneur d'ordre, informé par écrit par l'un des agents de contrôle mentionnés à l'article L. 8271-1-2 du non-paiement partiel ou total du salaire minimum légal ou conventionnel dû au salarié de son cocontractant, d'un sous-traitant direct ou indirect ou d'un cocontractant d'un sous-traitant, enjoint aussitôt, par écrit, à ce sous-traitant ou à ce cocontractant de faire cesser sans délai cette situation.
 
 Le sous-traitant ou le cocontractant mentionné au premier alinéa du présent article informe, par écrit, le maître d'ouvrage ou le donneur d'ordre de la régularisation de la situation. Ce dernier en transmet une copie à l'agent de contrôle mentionné au même premier alinéa.

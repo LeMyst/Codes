@@ -1,3 +1,5 @@
+# Article L1233-5
+
 Lorsque l'employeur procède à un licenciement collectif pour motif économique et en l'absence de convention ou accord collectif de travail applicable, il définit les critères retenus pour fixer l'ordre des licenciements, après consultation du comité social et économique.
 
 Ces critères prennent notamment en compte :

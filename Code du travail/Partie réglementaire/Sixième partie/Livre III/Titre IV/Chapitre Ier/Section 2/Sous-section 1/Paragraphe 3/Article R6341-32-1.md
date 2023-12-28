@@ -1,3 +1,5 @@
+# Article R6341-32-1
+
 I.-Le taux de remboursement par l'Etat de la rémunération maintenue aux stagiaires par leurs employeurs ne peut dépasser :
 
 1° 50 % dans le cas de création d'emplois ou de modification du processus de production ;

@@ -1,3 +1,5 @@
+# Article L4622-16-1
+
 Le service de prévention et de santé au travail interentreprises communique à ses adhérents ainsi qu'au comité régional de prévention et de santé au travail et rend publics :
 
 1° Son offre de services relevant de l'ensemble socle mentionné à l'article L. 4622-9-1 ;

@@ -1,3 +1,5 @@
+# Article L2313-9
+
 Lorsque la nature et l'importance de problèmes communs aux entreprises d'un même site ou d'une même zone le justifient, un accord collectif interentreprises conclu entre les employeurs des entreprises du site ou de la zone et les organisations syndicales représentatives au niveau interprofessionnel ou au niveau départemental peut mettre en place un comité social et économique interentreprises.
 
 L'accord définit :

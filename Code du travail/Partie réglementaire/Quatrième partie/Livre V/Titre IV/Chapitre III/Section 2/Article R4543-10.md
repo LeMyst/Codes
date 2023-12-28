@@ -1,3 +1,5 @@
+# Article R4543-10
+
 L'étude de sécurité comporte toutes les données permettant au chef de l'entreprise intervenante de définir et de mettre en œuvre les mesures de prévention qui s'imposent pour assurer la sécurité et préserver la santé des personnes chargées de l'intervention ou des travaux.
 
 A ce titre, elle comporte notamment :

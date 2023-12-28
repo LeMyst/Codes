@@ -1,3 +1,5 @@
+# Article R4543-4
+
 L'étude de sécurité spécifique est mise à jour, dans un délai de six semaines, lorsque survient un événement susceptible d'affecter l'évaluation des risques, notamment :
 
 1° En cas de transformation importante ;

@@ -1,3 +1,5 @@
+# Article R3341-5
+
 Le livret d'épargne salariale prévu à l'article L. 3341-6 est établi sur tout support durable et est remis à chaque salarié lors de la conclusion de son contrat de travail. Il comporte :
 
 1° Un rappel des dispositifs suivants d'épargne salariale, lorsqu'ils sont mis en place dans l'entreprise :

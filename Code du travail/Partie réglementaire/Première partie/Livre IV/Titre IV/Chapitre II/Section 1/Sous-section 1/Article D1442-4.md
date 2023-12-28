@@ -1,3 +1,5 @@
+# Article D1442-4
+
 L'aide financière de l'Etat comprend pour les organismes mentionnés aux 2° et 3° de l'article D. 1442-1 :\
 1° Un fonds destiné à financer les frais de structure de l'organisme. Ces frais comprennent :\
 a) Les frais de formation suivants dans le cadre des sessions :\

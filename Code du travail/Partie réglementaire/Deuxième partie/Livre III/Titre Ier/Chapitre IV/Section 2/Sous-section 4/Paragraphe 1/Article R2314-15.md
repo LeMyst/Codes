@@ -1,3 +1,5 @@
+# Article R2314-15
+
 En présence des représentants des listes de candidats, la cellule d'assistance technique :
 
 1° Procède, avant que le vote ne soit ouvert, à un test du système de vote électronique et vérifie que l'urne électronique est vide, scellée et chiffrée par des clés délivrées à cet effet ;

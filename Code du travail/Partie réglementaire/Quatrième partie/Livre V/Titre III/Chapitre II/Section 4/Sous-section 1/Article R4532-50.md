@@ -1,3 +1,5 @@
+# Article R4532-50
+
 Le plan général de coordination tenu sur le chantier peut être consulté par :\
 1° Les membres des comités sociaux et économiques, appelés à intervenir sur le chantier ;\
 2° Le médecin du travail ;\

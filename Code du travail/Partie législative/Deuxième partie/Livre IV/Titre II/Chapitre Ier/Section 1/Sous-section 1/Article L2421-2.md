@@ -1,3 +1,5 @@
+# Article L2421-2
+
 La procédure prévue à la présente sous-section s'applique également au salarié investi de l'un des mandats suivants :
 
 1° Membre du conseil ou administrateur d'une caisse de sécurité sociale mentionné à l'article L. 231-11 du code de la sécurité sociale ;

@@ -1,3 +1,5 @@
+# Article R4461-27
+
 I. - Seuls peuvent intervenir en milieu hyperbare les travailleurs titulaires d'un certificat d'aptitude à l'hyperbarie délivré à l'issue d'une formation dispensée dans les conditions prévues par la présente section.
 
 II. - Seuls peuvent exercer les fonctions de conseiller à la prévention hyperbare mentionnées à l'article R. 4461-4 les travailleurs titulaires du certificat délivré à cet effet à l'issue d'une formation dispensée dans les conditions prévues par la présente section.

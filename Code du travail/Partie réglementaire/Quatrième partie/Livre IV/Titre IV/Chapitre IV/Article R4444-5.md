@@ -1,3 +1,5 @@
+# Article R4444-5
+
 Lorsqu'il procède à l'évaluation des risques, l'employeur prend en considération :\
 1° Le niveau, le type et la durée d'exposition, y compris l'exposition à des vibrations intermittentes ou à des chocs répétés ;\
 2° Les valeurs limites d'exposition ou les valeurs d'exposition déclenchant l'action de prévention fixées à l'article R. 4443-2 ;\

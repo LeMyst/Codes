@@ -1,3 +1,5 @@
+# Article D6323-21-5
+
 Les frais de gestion de la commission paritaire interprofessionnelle régionale sont constitués par :
 
 1° Les frais de gestion administrative relatifs à l'instruction et au suivi des projets de transition professionnelle, des projets mentionnés au 2° du II de l'article L. 5422-1 et à l'organisation des sessions de validation de la certification relative au socle de connaissances et de compétences professionnelles mentionné au I de l'article D. 6113-30 ;

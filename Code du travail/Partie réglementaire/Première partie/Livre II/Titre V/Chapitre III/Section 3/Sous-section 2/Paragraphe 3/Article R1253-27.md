@@ -1,3 +1,5 @@
+# Article R1253-27
+
 L'autorité administrative peut mettre fin à l'agrément du groupement, par décision motivée :\
 1° Lorsque ne sont pas respectées les dispositions légales relatives aux groupements d'employeurs ;\
 2° Lorsque les stipulations de la convention collective choisie ne sont pas respectées ;\

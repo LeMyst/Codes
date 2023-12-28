@@ -1,3 +1,5 @@
+# Article L6235-2
+
 I.-Les modalités de mise en œuvre de l'apprentissage transfrontalier sont précisées dans le cadre d'une convention conclue entre la France et le pays frontalier dans lequel est réalisée la partie pratique ou la partie théorique de la formation par apprentissage.
 
 II.-La convention mentionnée au I précise notamment :

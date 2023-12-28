@@ -1,3 +1,5 @@
+# Article L3332-19
+
 Lorsque les titres sont admis aux négociations sur un marché réglementé, le prix de cession est fixé d'après les cours de bourse.
 
 La décision fixant la date de souscription est prise par le conseil d'administration, le directoire ou leur délégué.

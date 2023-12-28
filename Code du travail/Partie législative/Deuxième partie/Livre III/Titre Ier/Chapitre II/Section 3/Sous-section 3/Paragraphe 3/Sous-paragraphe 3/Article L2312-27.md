@@ -1,3 +1,5 @@
+# Article L2312-27
+
 Dans le cadre de la consultation sur la politique sociale, l'employeur présente également au comité social et économique :
 
 1° Un rapport annuel écrit faisant le bilan de la situation générale de la santé, de la sécurité et des conditions de travail dans l'entreprise et des actions menées au cours de l'année écoulée dans ces domaines. Les questions du travail de nuit et de prévention des effets de l'exposition aux facteurs de risques professionnels mentionnés à l'article L. 4161-1 sont traitées spécifiquement ;

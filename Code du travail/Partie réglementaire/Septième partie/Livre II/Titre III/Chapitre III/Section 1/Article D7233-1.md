@@ -1,3 +1,5 @@
+# Article D7233-1
+
 Lorsqu'ils assurent la fourniture aux personnes physiques de prestations de services à la personne, les personnes morales et les entrepreneurs individuels produisent une facture faisant apparaître :
 
 1° Le nom et l'adresse de la personne morale ou de l'entrepreneur individuel ;

@@ -1,3 +1,5 @@
+# Article L5134-71
+
 Le contrat initiative-emploi peut être suspendu, à la demande du salarié, afin de lui permettre :
 
 1° En accord avec son employeur, d'effectuer une période de mise en situation en milieu professionnel dans les conditions prévues au chapitre V du présent titre ou une action concourant à son insertion professionnelle ;

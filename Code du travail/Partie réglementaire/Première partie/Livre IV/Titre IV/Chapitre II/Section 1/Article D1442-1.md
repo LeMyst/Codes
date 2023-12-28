@@ -1,3 +1,5 @@
+# Article D1442-1
+
 La formation continue des conseillers prud'hommes peut être assurée :
 
 1° Par des établissements publics ou instituts de formation des personnels de l'Etat ;

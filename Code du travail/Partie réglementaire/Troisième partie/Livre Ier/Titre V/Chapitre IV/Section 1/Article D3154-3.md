@@ -1,3 +1,5 @@
+# Article D3154-3
+
 La garantie financière ne peut résulter que d'un engagement de caution pris par :\
 1° Une société de caution mutuelle ;\
 2° Un organisme de garantie collective ;\

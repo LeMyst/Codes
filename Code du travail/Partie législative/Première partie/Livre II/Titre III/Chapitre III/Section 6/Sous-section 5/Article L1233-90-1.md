@@ -1,3 +1,5 @@
+# Article L1233-90-1
+
 Une convention-cadre nationale de revitalisation est conclue entre le ministre chargé de l'emploi et l'entreprise lorsque les suppressions d'emplois concernent au moins trois départements.
 
 Il est tenu compte, pour la détermination du montant de la contribution mentionnée à l'article L. 1233-86, du nombre total des emplois supprimés.

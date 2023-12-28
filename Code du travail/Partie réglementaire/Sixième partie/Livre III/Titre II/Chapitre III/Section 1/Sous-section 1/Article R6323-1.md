@@ -1,3 +1,5 @@
+# Article R6323-1
+
 I.-Le compte personnel de formation du salarié ayant effectué une durée de travail supérieure ou égale à la moitié de la durée légale ou conventionnelle de travail sur l'ensemble de l'année est alimenté à hauteur de 500 euros au titre de cette année, dans la limite d'un plafond total de 5 000 euros.
 
 II.-Le compte du salarié dont la durée de travail a été inférieure à la moitié de la durée légale ou conventionnelle de travail sur l'ensemble de l'année est alimenté, au titre de cette année, d'une fraction du montant mentionné au I, calculée à due proportion de la durée de travail qu'il a effectuée. Lorsque le calcul de ses droits aboutit à un montant en euros comportant des décimales, ce montant est arrondi à la deuxième décimale, au centime d'euro supérieur.

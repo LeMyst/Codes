@@ -1,3 +1,5 @@
+# Article R4311-6
+
 Est soumis aux règles des articles R. 4313-7 à R. 4313-11 prévues pour la mise sur le marché d'une quasi-machine tout produit répondant à la définition suivante :
 
 Ensemble qui constitue presque une machine, mais qui ne peut assurer à lui seul une application définie.

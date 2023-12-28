@@ -1,3 +1,5 @@
+# Article R5315-3
+
 Le conseil d'administration règle les affaires de l'établissement. Il délibère notamment sur :
 
 1° Les orientations annuelles et pluriannuelles, notamment celles prévues dans le contrat d'objectifs et de performance signé entre l'Etat et l'établissement public, représenté, sur son autorisation, par le président et le directeur général ;

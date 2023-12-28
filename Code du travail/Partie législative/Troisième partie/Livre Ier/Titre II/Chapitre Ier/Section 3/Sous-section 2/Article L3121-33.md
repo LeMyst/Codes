@@ -1,3 +1,5 @@
+# Article L3121-33
+
 I.-Une convention ou un accord collectif d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche :
 
 1° Prévoit le ou les taux de majoration des heures supplémentaires accomplies au-delà de la durée légale ou de la durée considérée comme équivalente. Ce taux ne peut être inférieur à 10 % ;

@@ -1,3 +1,5 @@
+# Article D8223-1
+
 En application de l'article L. 8223-2, le salarié obtient les informations relatives à l'accomplissement par l'employeur de la déclaration préalable à l'embauche le concernant sur demande écrite.\
 La demande du salarié contient :\
 1° Ses nom, prénoms, nationalité, date et lieu de naissance ;\

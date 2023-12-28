@@ -1,3 +1,5 @@
+# Article R7124-9
+
 L'examen médical préalable à l'emploi de l'enfant est réalisé par un pédiatre ou par un médecin généraliste, selon les modalités prévues par l'arrêté mentionné à l'article R. 7124-7.
 
 Il fait apparaître si, compte tenu de l'âge et de l'état de santé de l'enfant, celui-ci est en mesure d'assurer une activité de mannequin sans compromettre sa santé ou son développement.

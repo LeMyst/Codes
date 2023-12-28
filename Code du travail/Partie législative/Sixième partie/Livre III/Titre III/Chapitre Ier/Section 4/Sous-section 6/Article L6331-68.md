@@ -1,3 +1,5 @@
+# Article L6331-68
+
 Les contributions prévues à l'article L. 6331-65 sont reversées à France compétences, qui procède, conformément à l'article L. 6123-5, à la répartition et à l'affectation des fonds :
 
 1° A l'opérateur de compétences agréé, au titre des contributions versées en application de l'article L. 6331-55, au sein d'une section particulière ;

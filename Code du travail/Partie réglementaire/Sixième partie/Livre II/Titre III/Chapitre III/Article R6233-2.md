@@ -1,3 +1,5 @@
+# Article R6233-2
+
 La convention créant une unité de formation par apprentissage détermine notamment :
 
 1° Le recrutement, les effectifs des apprentis à former et les certifications professionnelles préparées ;

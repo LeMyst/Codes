@@ -1,3 +1,5 @@
+# Article R5132-3
+
 La convention peut être conclue pour une durée maximale de trois ans avec des structures présentant des perspectives de viabilité économique ; elle peut être renouvelée selon la même procédure.
 
 Les stipulations financières des conventions pluriannuelles font l'objet d'avenants annuels.

@@ -1,3 +1,5 @@
+# Article L5421-2
+
 Le revenu de remplacement prend, selon le cas, la forme :
 
 1° D'une allocation d'assurance, prévue au chapitre II du présent titre ;

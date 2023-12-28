@@ -1,3 +1,5 @@
+# Article R2352-18
+
 Le tribunal judiciaire compétent pour statuer sur la contestation de la désignation et de l'élection des membres du groupe spécial de négociation est celui dans le ressort duquel est situé le siège, selon le cas, de la société européenne, de la société, de la filiale ou de l'établissement concernés.\
 La contestation est formée, instruite et jugée selon les modalités prévues aux articles R. 2324-24 et R. 2324-25.
 

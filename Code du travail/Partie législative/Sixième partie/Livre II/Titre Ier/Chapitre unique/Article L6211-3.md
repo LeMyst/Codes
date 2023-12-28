@@ -1,3 +1,5 @@
+# Article L6211-3
+
 I.-La région peut contribuer au financement des centres de formation d'apprentis quand des besoins d'aménagement du territoire et de développement économique qu'elle identifie le justifient. Elle peut :
 
 1° En matière de dépenses de fonctionnement, majorer la prise en charge des contrats d'apprentissage assurée par les opérateurs de compétences, dans les conditions prévues à l'article L. 6332-14 ;

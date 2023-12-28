@@ -1,3 +1,5 @@
+# Article L2412-1
+
 Bénéficie de la protection en cas de rupture d'un contrat à durée déterminée prévue par le présent chapitre le salarié investi de l'un des mandats suivants :
 
 1° Délégué syndical ;

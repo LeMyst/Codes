@@ -1,3 +1,5 @@
+# Article L7124-16
+
 Il est interdit :
 
 1° A toute personne de faire exécuter par des enfants de moins de seize ans des tours de force périlleux ou des exercices de dislocation, ou de leur confier des emplois dangereux pour leur vie, leur santé ou leur moralité ;

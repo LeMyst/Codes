@@ -1,3 +1,5 @@
+# Article R4623-20
+
 La demande d'autorisation de licenciement d'un médecin du travail, de rupture du contrat de travail à durée déterminée dans les cas prévus à l'article L. 4623-5-1 ainsi que la demande de constatation de l'arrivée du terme du contrat dans le cas prévu à l'article L. 4623-5-2 sont adressées à l'inspecteur du travail dont dépend le service de prévention et de santé au travail qui l'emploie par tout moyen permettant de conférer date certaine.
 
 En cas de licenciement, de rupture anticipée ou de non-renouvellement du contrat de travail à durée déterminée, la demande en énonce les motifs. Elle est accompagnée du procès-verbal de la réunion des instances mentionnées à l'article R. 4623-18.

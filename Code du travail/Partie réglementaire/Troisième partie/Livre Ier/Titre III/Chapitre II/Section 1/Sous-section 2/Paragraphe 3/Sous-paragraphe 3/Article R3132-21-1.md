@@ -1,3 +1,5 @@
+# Article R3132-21-1
+
 I.-Les zones touristiques internationales prévues à l'article L. 3132-24 sont délimitées par un arrêté des ministres chargés du travail, du tourisme et du commerce.
 
 II.-Pour l'application des dispositions de l'article L. 3132-24, sont pris en compte les critères suivants :

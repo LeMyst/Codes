@@ -1,3 +1,5 @@
+# Article R6222-1-1
+
 En application du troisième alinéa de l'article L. 6222-1, les jeunes qui atteignent l'âge de quinze ans avant le terme de l'année civile peuvent être inscrits, sous statut scolaire, dans un lycée professionnel ou dans un centre de formation d'apprentis pour débuter leur formation, dans les conditions suivantes :
 
 1° L'élève a accompli la scolarité du premier cycle de l'enseignement secondaire ;

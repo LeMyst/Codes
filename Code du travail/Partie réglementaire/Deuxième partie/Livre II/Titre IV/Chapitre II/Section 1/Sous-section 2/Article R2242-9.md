@@ -1,3 +1,5 @@
+# Article R2242-9
+
 La demande de l'employeur mentionnée au premier alinéa de l'article L. 2242-9 est adressée par tout moyen permettant d'apporter la preuve de sa réception par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
 La demande doit comporter :

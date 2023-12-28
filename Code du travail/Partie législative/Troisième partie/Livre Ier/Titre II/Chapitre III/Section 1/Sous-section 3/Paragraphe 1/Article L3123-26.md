@@ -1,3 +1,5 @@
+# Article L3123-26
+
 A défaut de convention ou d'accord collectif, des horaires à temps partiel peuvent être pratiqués à l'initiative de l'employeur, après avis du comité social et économique.
 
 Dans les entreprises dépourvues d'institutions représentatives du personnel, des horaires à temps partiel peuvent être pratiqués à l'initiative de l'employeur ou à la demande des salariés, après information de l'agent de contrôle de l'inspection du travail.

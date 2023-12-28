@@ -1,3 +1,5 @@
+# Article R6121-4
+
 Le mode de publicité préalable relève de la responsabilité de la région. Il comprend les éléments suivants :
 
 1° Les informations à fournir par le candidat, relatives à ses capacités financières, notamment à ses comptes annuels, à ses bilans, comptes de résultat et annexes, aux moyens qui seront mis en œuvre pour l'accomplissement de la mission, au budget prévisionnel de celle-ci et aux autres éléments sollicités en fonction des critères de sélection. Le candidat indique s'il se présente seul ou en groupement ;

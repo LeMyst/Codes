@@ -1,3 +1,5 @@
+# Article R4642-5
+
 Le conseil d'administration est réuni au moins quatre fois par an, sur convocation de son président. Il se réunit également sur demande du ministre chargé du travail, du directeur général de l'agence ou de la moitié de ses membres.
 
 L'ordre du jour de chaque réunion est arrêté par le président sur proposition du directeur général. Toute question dont l'inscription a été demandée par le ministre chargé du travail ou par six membres au moins du conseil d'administration est portée à l'ordre du jour.

@@ -1,3 +1,5 @@
+# Article R4436-1
+
 Lorsque l'évaluation des risques fait apparaître que des travailleurs sont exposés sur leur lieu de travail à un niveau sonore égal ou supérieur aux valeurs d'exposition inférieures, définies au 3° de l'article R. 4431-2, l'employeur veille à ce que ces travailleurs reçoivent des informations et une formation en rapport avec les résultats de l'évaluation des risques et avec le concours du service de santé au travail.
 
 Ces informations et cette formation portent, notamment, sur :

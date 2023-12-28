@@ -1,3 +1,5 @@
+# Article R6332-10
+
 Les opérateurs de compétences peuvent conclure avec une personne morale une convention de délégation de mise en œuvre d'une partie des décisions en matière d'informations et de services mentionnées aux 1°, 2°, 3° et 5° du II de l'article R. 6332-17.
 
 Cette personne morale ne peut être ni un prestataire de formation, ni un gestionnaire d'organisme de formation, ni une organisation d'employeur ou une organisation de salariés.

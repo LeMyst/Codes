@@ -1,3 +1,5 @@
+# Article L3324-1
+
 La réserve spéciale de participation des salariés est constituée comme suit :
 
 1° Les sommes affectées à cette réserve spéciale sont, après clôture des comptes de l'exercice, calculées sur le bénéfice réalisé en France métropolitaine et en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin, tel qu'il est retenu pour être imposé à l'impôt sur le revenu ou aux taux de l'impôt sur les sociétés prévus au deuxième alinéa et au b du I de l'article 219 du code général des impôts et majoré des bénéfices exonérés en application des dispositions des articles 44 sexies, 44 sexies A, 44 octies A, 44 undecies et 208 C du code général des impôts. Ce bénéfice est diminué de l'impôt correspondant qui, pour les entreprises soumises à l'impôt sur le revenu, est déterminé dans les conditions déterminées par décret en Conseil d'Etat ;

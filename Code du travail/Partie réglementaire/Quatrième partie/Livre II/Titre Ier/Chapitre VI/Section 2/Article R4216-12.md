@@ -1,3 +1,5 @@
+# Article R4216-12
+
 Les marches obéissent aux caractéristiques suivantes :\
 1° Elles ne sont pas glissantes ;\
 2° S'il n'y a pas de contremarche, les marches successives se recouvrent de 5 centimètres ;\

@@ -1,3 +1,5 @@
+# Article D7342-6
+
 I.-Les données mentionnées à l'article L. 7342-7 sont les données à caractère personnel au sens de l'article 4 du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE. Ces données, détenues par la plateforme de mise en relation par voie électronique mentionnée à l'article L. 7341-1, se rapportent à l'exercice de l'activité professionnelle du travailleur indépendant mentionné à ce même article et proviennent de l'une des sources suivantes :
 
 1° Elles ont été communiquées par le travailleur, ou ont été engendrées par son activité propre au sein de la plateforme ;

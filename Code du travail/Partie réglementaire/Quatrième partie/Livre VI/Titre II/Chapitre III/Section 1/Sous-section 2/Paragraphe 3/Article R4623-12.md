@@ -1,3 +1,5 @@
+# Article R4623-12
+
 La procédure prévue à l'article R. 4623-5 s'applique également :
 
 1° Dans les services autonomes de prévention et de santé au travail, en cas de changement de secteur ou d'entreprise du groupe suivi par un médecin du travail, lorsque ce changement est contesté par l'intéressé ou par le comité social et économique concerné ;

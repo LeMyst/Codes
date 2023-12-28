@@ -1,3 +1,5 @@
+# Article R5212-2-4
+
 La demande est réputée complète si, dans un délai de quinze jours à compter de sa réception, l'association mentionnée à l'article L. 5214-1 du code du travail n'a pas fait connaître à l'employeur la liste des pièces ou des informations manquantes.
 
 A réception de ces pièces ou informations, l'organisme notifie au demandeur, par tout moyen permettant de rapporter la preuve de sa date de réception, que la demande est complète. En l'absence de réception des pièces et informations manquantes dans un délai d'un mois, la demande est réputée caduque.

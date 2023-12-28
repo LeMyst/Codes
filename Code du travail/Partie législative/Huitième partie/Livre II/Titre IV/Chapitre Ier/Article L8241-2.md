@@ -1,3 +1,5 @@
+# Article L8241-2
+
 Les opérations de prêt de main-d'oeuvre à but non lucratif sont autorisées.
 
 Dans ce cas, les articles L. 1251-21 à L. 1251-24, les 2° et 3° de l'article L. 2312-6, le 9° du II de l'article L. 2312-26 et l'article L. 5221-4 du présent code ainsi que les articles L. 412-3 à L. 412-7 du code de la sécurité sociale sont applicables.

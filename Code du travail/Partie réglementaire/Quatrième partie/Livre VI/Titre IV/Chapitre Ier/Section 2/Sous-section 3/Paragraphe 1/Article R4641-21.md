@@ -1,3 +1,5 @@
+# Article R4641-21
+
 Le comité régional de prévention et de santé au travail exerce une fonction d'orientation dans les domaines de la santé et de la sécurité au travail et de l'amélioration des conditions de travail dans le ressort de la région. En complément des missions prévues à l'article L. 4641-5, il :
 
 1° Rend un avis sur toute question de nature stratégique dans le domaine de la santé au travail, des conditions de travail et des risques professionnels dont il se saisit ;

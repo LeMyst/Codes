@@ -1,3 +1,5 @@
+# Article R1235-13
+
 Si, dans son opposition, l'employeur prétend que le remboursement des indemnités de chômage a été ordonné dans un cas où cette mesure est exclue par la loi, le tribunal judiciaire renvoie l'affaire à la juridiction qui a statué aux fins d'une rétractation éventuelle du jugement sur ce point.
 
 La rétractation ne peut en aucun cas remettre en question la chose jugée entre l'employeur et le travailleur licencié, ni l'appréciation portée par la juridiction sur l'absence de cause réelle et sérieuse du licenciement.

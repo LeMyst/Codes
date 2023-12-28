@@ -1,3 +1,5 @@
+# Article R\*3231-7
+
 Le taux du salaire minimum de croissance déterminé en application de l'article L. 3231-6 est fixé à l'issue de la procédure suivante :
 
 1° La Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle reçoit en temps utile, du Gouvernement, une analyse des comptes économiques de la nation et un rapport sur les conditions économiques générales ;

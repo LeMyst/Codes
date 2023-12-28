@@ -1,3 +1,5 @@
+# Article R2152-6
+
 Le commissaire aux comptes compétent en application, selon le cas, du 3° de l'article L. 2152-1 ou du 3° de l'article L. 2152-4 atteste conformément aux dispositions de la présente section et des sections 2 et 3 du présent chapitre :
 
 1° Le nombre par département d'entreprises adhérentes de l'organisation professionnelle d'employeurs candidate à l'établissement de sa représentativité ;

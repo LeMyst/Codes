@@ -1,3 +1,5 @@
+# Article L5424-1
+
 Ont droit à une allocation d'assurance, lorsque leur privation d'emploi est involontaire ou assimilée à une privation involontaire ou en cas de cessation d'un commun accord de leur relation de travail avec leur employeur, et lorsqu'ils satisfont à des conditions d'âge et d'activité antérieure, dans les conditions prévues aux articles L. 5422-2 et L. 5422-3 :
 
 1° Les agents fonctionnaires et non fonctionnaires de l'Etat et de ses établissements publics administratifs, les agents titulaires des collectivités territoriales ainsi que les agents statutaires des autres établissements publics administratifs ainsi que les militaires ;

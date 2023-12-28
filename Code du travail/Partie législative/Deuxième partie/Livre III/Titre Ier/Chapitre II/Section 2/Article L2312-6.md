@@ -1,3 +1,5 @@
+# Article L2312-6
+
 Les attributions de la délégation du personnel au comité social et économique s'exercent au profit des salariés, ainsi que :
 
 1° Aux travailleurs au sens de l'article L. 4111-5, en matière de santé, sécurité et conditions de travail ;

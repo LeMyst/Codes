@@ -1,3 +1,5 @@
+# Article R7121-1
+
 L'agent artistique représente l'artiste du spectacle. A cette fin, il exerce notamment les missions suivantes :
 
 1° Défense des activités et des intérêts professionnels de l'artiste du spectacle ;

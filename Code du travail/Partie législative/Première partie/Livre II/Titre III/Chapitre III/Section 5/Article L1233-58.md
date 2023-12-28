@@ -1,3 +1,5 @@
+# Article L1233-58
+
 I.-En cas de redressement ou de liquidation judiciaire, l'employeur, l'administrateur ou le liquidateur, selon le cas, qui envisage des licenciements économiques, met en œuvre un plan de licenciement dans les conditions prévues aux articles L. 1233-24-1 à L. 1233-24-4.
 
 L'employeur, l'administrateur ou le liquidateur, selon le cas, réunit et consulte le comité social et économique dans les conditions prévues à l'article L. 2323-31 ainsi qu'aux articles :

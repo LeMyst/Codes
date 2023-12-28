@@ -1,3 +1,5 @@
+# Article R6332-67
+
 L'acte constitutif du fonds d'assurance formation de non-salariés fixe notamment :
 
 1° La composition du conseil d'administration ou de gestion et l'étendue des pouvoirs de celui-ci ;

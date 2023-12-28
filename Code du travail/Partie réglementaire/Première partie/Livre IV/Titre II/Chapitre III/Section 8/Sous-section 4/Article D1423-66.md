@@ -1,3 +1,5 @@
+# Article D1423-66
+
 Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoir consacré à la rédaction des décisions et des procès-verbaux mentionnés au f du 2° de l'article R. 1423-55 ne peut dépasser les durées fixées au tableau ci-après :
 
 |  |  |

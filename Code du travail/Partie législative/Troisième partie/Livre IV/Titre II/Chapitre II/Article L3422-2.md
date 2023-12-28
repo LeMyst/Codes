@@ -1,3 +1,5 @@
+# Article L3422-2
+
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin, les journées de commémoration de l'abolition de l'esclavage ci-après désignées sont des jours fériés :
 
 1° Le 27 avril à Mayotte ;

@@ -1,3 +1,5 @@
+# Article R6251-2
+
 Le contrôle pédagogique des formations par apprentissage conduisant à l'obtention d'un diplôme est diligenté par le ministre certificateur concerné, qui en informe le préfet de région.
 
 Le contrôle peut être sollicité par un centre de formation d'apprentis, un employeur d'apprenti, un apprenti ou son représentant légal s'il est mineur. La demande est formée auprès du préfet de région, qui la transmet au ministère concerné.

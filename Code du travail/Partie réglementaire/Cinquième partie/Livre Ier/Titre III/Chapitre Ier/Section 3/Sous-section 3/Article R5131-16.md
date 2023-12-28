@@ -1,3 +1,5 @@
+# Article R5131-16
+
 I.-Le contrat d'engagement jeune comporte le diagnostic mentionné à l'article L. 5131-6 et définit :
 
 1° Les engagements de chaque partie en vue de la réalisation des objectifs fixés en lien avec le jeune, notamment la désignation d'un conseiller référent, chargé de l'accompagnement du bénéficiaire tout au long de son parcours.

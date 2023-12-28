@@ -1,3 +1,5 @@
+# Article L1521-2-1
+
 Pour l'application de la présente partie en Guyane et en Martinique, et en l'absence de mention particulière spécifique à ces collectivités :
 
 1° Les attributions dévolues au préfet, dans la région ou dans le département, sont exercées par le représentant de l'Etat dans la collectivité territoriale ;

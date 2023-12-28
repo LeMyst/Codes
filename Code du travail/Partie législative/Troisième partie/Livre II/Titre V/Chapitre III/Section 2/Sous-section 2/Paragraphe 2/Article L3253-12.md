@@ -1,3 +1,5 @@
+# Article L3253-12
+
 Les créances mentionnées aux articles L. 3253-10 et L. 3253-11 sont garanties :
 
 1° Lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ;

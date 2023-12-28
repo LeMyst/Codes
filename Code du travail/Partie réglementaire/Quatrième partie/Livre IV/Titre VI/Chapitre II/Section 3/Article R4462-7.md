@@ -1,3 +1,5 @@
+# Article R4462-7
+
 L'employeur établit également, compte tenu des conclusions des études de sécurité, avant la mise en œuvre des activités qu'elles concernent :
 
 1° Les consignes de sécurité relatives à chaque installation pyrotechnique ;

@@ -1,3 +1,5 @@
+# Article D3323-4
+
 Lorsqu'un accord de participation de groupe est conclu, les documents déposés sur la plateforme de téléprocédure mentionnée à l'article D. 2231-4 dans les conditions prévues à cet article et au II de l'article D. 2231-2 comportent :\
 1° Quel que soit le mode de conclusion de l'accord, les mandats habilitant le mandataire des différentes sociétés intéressées à signer l'accord de groupe ;\
 2° Si l'accord a été conclu avec un ou plusieurs salariés appartenant à l'une des entreprises du groupe mandatés à cet effet par une ou plusieurs organisations syndicales, les mandats les habilitant à signer l'accord de groupe ;\

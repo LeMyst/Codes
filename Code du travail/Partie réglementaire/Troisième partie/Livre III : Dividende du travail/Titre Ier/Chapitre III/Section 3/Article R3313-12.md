@@ -1,3 +1,5 @@
+# Article R3313-12
+
 I.-L'accord d'intéressement prévoit les modalités d'information de chaque bénéficiaire.
 
 Cette information porte notamment sur :

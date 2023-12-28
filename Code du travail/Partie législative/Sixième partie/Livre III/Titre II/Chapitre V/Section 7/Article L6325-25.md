@@ -1,3 +1,5 @@
+# Article L6325-25
+
 I.-Le contrat de professionnalisation peut être exécuté en partie à l'étranger pour une durée qui ne peut excéder un an.
 
 La durée du contrat peut être portée à vingt-quatre mois. L'exécution du contrat en France doit être au minimum de six mois.

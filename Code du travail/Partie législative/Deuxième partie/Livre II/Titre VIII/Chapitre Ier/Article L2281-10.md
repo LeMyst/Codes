@@ -1,3 +1,5 @@
+# Article L2281-10
+
 A défaut d'accord prévu à l'article L. 2242-11 ou en cas de non-respect de ses stipulations, l'accord traitant du droit d'expression comporte des stipulations sur :
 
 1° Le niveau, le mode d'organisation, la fréquence et la durée des réunions permettant l'expression des salariés ;

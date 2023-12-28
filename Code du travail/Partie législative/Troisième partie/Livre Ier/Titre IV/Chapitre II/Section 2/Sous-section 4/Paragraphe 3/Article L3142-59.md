@@ -1,3 +1,5 @@
+# Article L3142-59
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-58, les dispositions suivantes sont applicables :
 
 1° Le nombre maximal total de jours pouvant être pris au titre du congé est de six jours ouvrables par an ;

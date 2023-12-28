@@ -1,3 +1,5 @@
+# Article R4216-33
+
 La dispense est accordée, après enquête de l'agent de contrôle de l'inspection du travail.
 
 Elle est accordée après avis :

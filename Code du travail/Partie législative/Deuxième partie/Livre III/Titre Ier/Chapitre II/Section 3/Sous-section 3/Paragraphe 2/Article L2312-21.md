@@ -1,3 +1,5 @@
+# Article L2312-21
+
 Un accord d'entreprise conclu dans les conditions prévues au premier alinéa de l'article L. 2232-12 ou, en l'absence de délégué syndical, un accord entre l'employeur et le comité social et économique, adopté à la majorité des membres titulaires de la délégation du personnel du comité, définit :
 
 1° L'organisation, l'architecture et le contenu de la base de données économiques, sociales et environnementales ;

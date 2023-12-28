@@ -1,3 +1,5 @@
+# Article D1442-3
+
 Des conventions sont conclues, dans la limite des crédits prévus à cet effet, entre les établissements et organismes mentionnés à l'article D. 1442-1 et le ministre chargé du travail. La durée de la convention est de quatre ans.
 
 Chaque convention fixe à titre prévisionnel, notamment :

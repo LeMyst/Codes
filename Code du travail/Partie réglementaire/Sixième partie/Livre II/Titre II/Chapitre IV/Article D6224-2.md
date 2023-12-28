@@ -1,3 +1,5 @@
+# Article D6224-2
+
 A réception du contrat, l'opérateur de compétences se prononce sur la prise en charge financière. Il vérifie à cet effet que le contrat satisfait aux conditions posées par :
 
 1° L'article L. 6211-1 relatif aux formations éligibles à l'apprentissage ;

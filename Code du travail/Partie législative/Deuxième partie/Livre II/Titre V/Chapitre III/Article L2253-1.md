@@ -1,3 +1,5 @@
+# Article L2253-1
+
 La convention de branche définit les conditions d'emploi et de travail des salariés. Elle peut en particulier définir les garanties qui leur sont applicables dans les matières suivantes :
 
 1° Les salaires minima hiérarchiques ;

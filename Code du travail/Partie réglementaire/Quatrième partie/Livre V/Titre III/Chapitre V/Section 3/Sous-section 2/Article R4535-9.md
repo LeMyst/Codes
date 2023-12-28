@@ -1,3 +1,5 @@
+# Article R4535-9
+
 Lorsqu'ils sont exposés ou susceptibles d'être exposés à des agents chimiques dangereux cancérogènes, mutagènes ou toxiques pour la reproduction, les travailleurs indépendants ainsi que les employeurs qui exercent directement une activité sur un chantier de bâtiment et de génie civil sont soumis aux dispositions relatives aux risques d'exposition aux agents cancérogènes, mutagènes et toxiques pour la reproduction suivantes :\
 1° Champ d'application et définitions prévus aux articles R. 4412-59 à R. 4412-60 ;\
 2° Evaluation des risques prévue aux articles R. 4412-61 à R. 4412-65 à l'exception du premier alinéa de l'article R. 4412-64 ;\

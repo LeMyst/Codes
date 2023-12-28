@@ -1,3 +1,5 @@
+# Article L1233-31
+
 L'employeur adresse aux représentants du personnel, avec la convocation à la première réunion, tous renseignements utiles sur le projet de licenciement collectif.
 
 Il indique :

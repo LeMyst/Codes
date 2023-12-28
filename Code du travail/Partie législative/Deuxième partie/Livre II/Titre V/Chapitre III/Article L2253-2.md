@@ -1,3 +1,5 @@
+# Article L2253-2
+
 Dans les matières suivantes, lorsque la convention de branche ou l'accord couvrant un champ territorial ou professionnel plus large le stipule expressément, la convention d'entreprise conclue postérieurement à cette convention ou à cet accord ne peut comporter des stipulations différentes de celles qui lui sont applicables en vertu de cette convention ou de cet accord sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes :
 
 1° La prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'article L. 4161-1 ;

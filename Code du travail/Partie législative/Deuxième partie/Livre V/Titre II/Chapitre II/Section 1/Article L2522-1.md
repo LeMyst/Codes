@@ -1,3 +1,5 @@
+# Article L2522-1
+
 Tous les conflits collectifs de travail peuvent être soumis aux procédures de conciliation.
 
 Les conflits qui, pour quelque raison que ce soit, n'ont pas été soumis à une procédure conventionnelle de conciliation établie soit par la convention ou l'accord collectif de travail, soit par un accord particulier, peuvent être portés devant une commission nationale ou régionale de conciliation.

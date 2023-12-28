@@ -1,3 +1,5 @@
+# Article R5213-77
+
 Sont considérés comme du temps de travail effectif, quand ils sont rémunérés, les trois premiers jours d'absence justifiée par l'incapacité résultant de maladie ou d'accident.
 
 Une aide minorée est versée à l'entreprise, lorsque l'employeur est tenu, en application de dispositions légales ou conventionnelles, de maintenir la rémunération pendant les périodes donnant lieu au versement de l'indemnité journalière prévue à l' article L. 321-1 du code de la sécurité sociale .

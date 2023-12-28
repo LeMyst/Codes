@@ -1,3 +1,5 @@
+# Article R4451-33-1
+
 I.-A des fins de surveillance radiologique préventive et d'alerte en cas d'exposition anormale, l'employeur équipe d'un dosimètre opérationnel :
 
 1° Tout travailleur entrant dans une zone contrôlée définie au 1° du I de l'article R. 4451-23 ;

@@ -1,3 +1,5 @@
+# Article R1225-4
+
 Pour bénéficier de la garantie de rémunération prévue au troisième alinéa de l'article L. 1225-14 et lorsque les conditions de ce même article sont remplies, la salariée doit avoir occupé un poste de travail l'ayant exposée à l'un des risques suivants :
 
 1° Agents toxiques pour la reproduction de catégorie 1 ou 2 ;

@@ -1,3 +1,5 @@
+# Article L1242-12
+
 Le contrat de travail à durée déterminée est établi par écrit et comporte la définition précise de son motif. A défaut, il est réputé conclu pour une durée indéterminée.
 
 Il comporte notamment :

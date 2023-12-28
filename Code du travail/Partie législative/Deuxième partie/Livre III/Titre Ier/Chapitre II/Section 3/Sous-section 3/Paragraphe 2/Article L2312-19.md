@@ -1,3 +1,5 @@
+# Article L2312-19
+
 Un accord d'entreprise, conclu dans les conditions prévues au premier alinéa de l'article L. 2232-12 ou, en l'absence de délégué syndical, un accord entre l'employeur et le comité social et économique, adopté à la majorité des membres titulaires de la délégation du personnel du comité, peut définir :
 
 1° Le contenu, la périodicité et les modalités des consultations récurrentes du comité social et économique mentionnées à l'article L. 2312-17 ainsi que la liste et le contenu des informations nécessaires à ces consultations ;

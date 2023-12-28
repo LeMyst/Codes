@@ -1,3 +1,5 @@
+# Article L3142-119
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-117, les dispositions suivantes sont applicables :
 
 1° La durée maximale du congé ou de la période de travail à temps partiel est d'un an. Elle peut être prolongée au plus d'un an ;

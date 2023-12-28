@@ -1,3 +1,5 @@
+# Article L3325-1
+
 Les sommes portées à la réserve spéciale de participation au cours d'un exercice sont déductibles pour l'assiette de l'impôt sur les sociétés ou de l'impôt sur le revenu exigible au titre de l'exercice au cours duquel elles sont réparties entre les salariés.
 
 Ces sommes n'ont pas le caractère d'élément de salaire pour l'application de la législation du travail et sont exclues de l'assiette des cotisations définies aux articles L. 131-6 et L. 242-1 du code de la sécurité sociale et aux articles L. 731-14, L. 731-15 et L. 741-10 du code rural et de la pêche maritime.

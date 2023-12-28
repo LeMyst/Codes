@@ -1,3 +1,5 @@
+# Article D6323-20
+
 L'acte de constitution de la commission paritaire interprofessionnelle régionale détermine son champ d'intervention géographique, ainsi que les conditions de sa gestion. Il fixe notamment :
 
 1° La composition et l'étendue des pouvoirs du conseil d'administration paritaire ;

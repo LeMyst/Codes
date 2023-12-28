@@ -1,3 +1,5 @@
+# Article L4641-5
+
 Au sein du comité régional d'orientation des conditions de travail, le comité régional de prévention et de santé au travail est composé de représentants de l'Etat, de la caisse régionale d'assurance retraite et de la santé au travail, du réseau régional des caisses de mutualité sociale agricole, des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel et des organisations syndicales de salariés représentatives au niveau national et interprofessionnel.
 
 Ce comité a notamment pour missions :

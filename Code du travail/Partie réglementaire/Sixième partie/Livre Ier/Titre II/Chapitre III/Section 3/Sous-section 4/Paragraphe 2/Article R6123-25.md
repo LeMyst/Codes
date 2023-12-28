@@ -1,3 +1,5 @@
+# Article R6123-25
+
 I.-France compétences affecte, chaque année, le produit des contributions des employeurs qui lui sont reversées au titre des 2°, 3° et 4° du I de l'article L. 6131-1, déduction faite du versement mentionné à l'article R. 6123-24, et détermine le montant des différentes dotations dans les conditions suivantes :
 
 1° Entre entre 5 % et 35 % à la Caisse des dépôts et consignations pour le financement du compte personnel de formation mentionné au a du 3° de l'article L. 6123-5 ;

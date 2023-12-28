@@ -1,3 +1,5 @@
+# Article D5213-63
+
 I.-Sous réserve des dispositions du III, pour la conclusion du contrat pluriannuel d'objectifs et de moyens prévu au premier alinéa de l'article L. 5213-13 valant agrément des entreprises adaptées, les proportions minimale et maximale de travailleurs reconnus handicapés, à l'exclusion des personnes détenues reconnues travailleurs handicapés ayant signé le contrat d'emploi pénitentiaire mentionné à l'article L. 412-3 du code pénitentiaire, dans les effectifs salariés s'établissent respectivement à 55 % et 100 %.
 
 Ces proportions sont déterminées par le rapport, calculé en pourcentage, entre le nombre en équivalents temps plein, de personnes mentionnées au deuxième alinéa de l'article L. 5213-13-1, et l'effectif salarié annuel de l'entreprise adaptée.

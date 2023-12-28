@@ -1,3 +1,5 @@
+# Article L1254-21
+
 I.-Le contrat de travail comporte les clauses et mentions relatives à la relation entre l'entreprise de portage salarial et le salarié porté :
 
 1° Les modalités de calcul et de versement de la rémunération due au salarié porté pour la réalisation de la prestation, de l'indemnité d'apport d'affaire, des prélèvements sociaux et fiscaux, des frais de gestion et, le cas échéant, des frais professionnels ; ces modalités sont appliquées au prix de chaque prestation convenu entre le salarié porté et l'entreprise cliente mentionné au 5° de l'article L. 1254-23 ;

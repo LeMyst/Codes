@@ -1,3 +1,5 @@
+# Article R1263-3
+
 L'employeur qui détache un ou plusieurs salariés, dans les conditions prévues au 1° de l'article L. 1262-1, adresse, une déclaration comportant les éléments suivants :
 
 1° Le nom ou la raison sociale ainsi que les adresses postale et électronique, les coordonnées téléphoniques de l'entreprise ou de l'établissement qui emploie habituellement le ou les salariés, la forme juridique de l'entreprise, son numéro individuel d'identification fiscale au titre de l'assujettissement à la taxe sur la valeur ajoutée ou, à défaut de détenir un tel numéro, les références de son immatriculation à un registre professionnel ou toutes autres références équivalentes, les nom, prénoms, date et lieu de naissance du ou des dirigeants ;

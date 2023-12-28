@@ -1,3 +1,5 @@
+# Article L8281-1
+
 Le maître d'ouvrage ou le donneur d'ordre, informé par écrit par l'un des agents mentionnés à l'article L. 8271-1-2 d'une infraction aux dispositions légales et aux stipulations conventionnelles applicables au salarié d'un sous-traitant direct ou indirect dans les matières suivantes :
 
 1° Libertés individuelles et collectives dans la relation de travail ;

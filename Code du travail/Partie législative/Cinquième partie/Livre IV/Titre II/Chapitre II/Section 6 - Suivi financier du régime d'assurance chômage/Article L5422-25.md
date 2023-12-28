@@ -1,3 +1,5 @@
+# Article L5422-25
+
 Le Gouvernement transmet chaque année au Parlement et aux partenaires sociaux gestionnaires de l'organisme mentionné à l'article L. 5427-1, au plus tard le 15 octobre, un rapport sur la situation financière de l'assurance chômage, précisant notamment les mesures mises en œuvre pour contribuer à l'atteinte de l'équilibre financier à moyen terme et celles susceptibles de l'être.
 
 Si ce rapport fait état d'un écart significatif entre la trajectoire financière du régime d'assurance chômage et la trajectoire financière prévue par l'accord mentionné à l'article L. 5422-20, ou si la trajectoire financière décidée par le législateur dans le cadre de la loi de programmation des finances publiques évolue significativement, le Premier ministre peut demander aux organisations d'employeurs et de salariés représentatives au niveau national et interprofessionnel de prendre les mesures nécessaires pour corriger cet écart en modifiant l'accord mentionné au même article L. 5422-20, dans un délai qu'il détermine. A cette fin, le Premier ministre transmet un document de cadrage aux organisations précitées dans les conditions fixées à l'article L. 5422-20-1.

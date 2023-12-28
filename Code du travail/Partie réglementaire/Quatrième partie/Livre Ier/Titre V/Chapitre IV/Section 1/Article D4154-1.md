@@ -1,3 +1,5 @@
+# Article D4154-1
+
 Il est interdit d'employer des salariés titulaires d'un contrat de travail à durée déterminée et des salariés temporaires pour l'exécution des travaux les exposant aux agents chimiques dangereux ou aux rayonnements ionisants suivants :\
 1° Amiante : opérations d'entretien ou de maintenance sur des flocages ou calorifugeages ; travaux de confinement, de retrait ou et de démolition ;\
 2° Amines aromatiques suivantes : benzidine, ses homologues, ses sels et ses dérivés chlorés, 3,3'diméthoxybenzidine (ou dianisidine), 4-aminobiphényle (ou amino-4 diphényle) ;\

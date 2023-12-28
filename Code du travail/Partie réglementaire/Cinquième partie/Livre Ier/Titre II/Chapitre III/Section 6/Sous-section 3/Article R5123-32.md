@@ -1,3 +1,5 @@
+# Article R5123-32
+
 L'Etat participe au financement de l'allocation versée aux bénéficiaires dans les conditions suivantes :\
 1° La participation de l'Etat n'est due qu'après l'expiration d'un délai courant à compter de la date de suspension du contrat de travail et comprenant un nombre de jours correspondant aux indemnités compensatrices de congés payés versées par l'employeur ;\
 2° L'assiette prise en compte pour la détermination de la participation financière de l'Etat est égale à l'allocation définie par l'accord professionnel national, dans la limite de 65 % du salaire de référence pour la part du salaire n'excédant pas le plafond prévu à l'article L. 241-3 du code de la sécurité sociale auxquels s'ajoutent 50 % du salaire de référence pour la part de ce salaire comprise entre une et deux fois ce même plafond ;\

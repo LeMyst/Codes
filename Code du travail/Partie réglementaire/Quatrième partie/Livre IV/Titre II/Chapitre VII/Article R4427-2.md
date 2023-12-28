@@ -1,3 +1,5 @@
+# Article R4427-2
+
 La déclaration d'une première utilisation d'agents biologiques pathogènes comprend :\
 1° La dénomination et le siège social de l'entreprise et l'adresse de l'établissement ;\
 2° Le nom et l'adresse du médecin du travail ;\

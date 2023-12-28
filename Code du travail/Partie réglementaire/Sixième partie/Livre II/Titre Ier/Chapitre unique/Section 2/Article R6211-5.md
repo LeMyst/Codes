@@ -1,3 +1,5 @@
+# Article R6211-5
+
 La région peut affecter une fraction des ressources qui lui sont allouées en application du I de l'article R. 6211-4 aux dépenses d'investissement mentionnées au 2° du I de l'article L. 6211-3 lorsqu'elle constate sur une même période :
 
 1° Un montant de dépenses de fonctionnement engagées ou prévisionnelles inférieur au montant des ressources allouées à ce titre ;

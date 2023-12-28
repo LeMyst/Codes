@@ -1,3 +1,5 @@
+# Article R2212-2
+
 I. – L'Institut national du travail, de l'emploi et de la formation professionnelle définit un cahier des charges général auquel doivent répondre les formations communes mentionnées à l'article L. 2212-1. Ce cahier des charges détermine :
 
 1° Les thématiques traitées par les formations communes, qui portent notamment sur les questions économiques et sociales, la dynamique de la négociation et son environnement juridique ;

@@ -1,3 +1,5 @@
+# Article L3123-7
+
 Le salarié à temps partiel bénéficie d'une durée minimale de travail hebdomadaire déterminée selon les modalités fixées aux articles L. 3123-19 et L. 3123-27.
 
 Le premier alinéa du présent article n'est pas applicable :

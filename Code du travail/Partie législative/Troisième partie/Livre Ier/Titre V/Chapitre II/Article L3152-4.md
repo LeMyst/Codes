@@ -1,3 +1,5 @@
+# Article L3152-4
+
 La convention ou l'accord collectif prévoit que les droits affectés sur le compte épargne-temps sont utilisés, en tout ou partie :
 
 1° Pour contribuer au financement de prestations de retraite qui revêtent un caractère collectif et obligatoire déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 du code de la sécurité sociale. Dans ce cas, les droits qui correspondent à un abondement de l'employeur en temps ou en argent bénéficient des régimes prévus aux 2° ou 2°-0 bis de l'article 83 du code général des impôts et au sixième alinéa et au 1° de l'article L. 242-1 du code de la sécurité sociale ou à l'article L. 741-10 du code rural et de la pêche maritime ;

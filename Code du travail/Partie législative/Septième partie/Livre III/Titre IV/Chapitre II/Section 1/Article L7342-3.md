@@ -1,3 +1,5 @@
+# Article L7342-3
+
 Le travailleur bénéficie du droit d'accès à la formation professionnelle continue prévu à l'article L. 6312-2. La contribution à la formation professionnelle mentionnée à l'article L. 6331-48 est prise en charge par la plateforme.
 
 Il bénéficie, à sa demande, des actions mentionnées au 3° de l'article L. 6313-1. La plateforme prend alors en charge les frais d'accompagnement et lui verse une indemnité dans des conditions définies par décret.

@@ -1,3 +1,5 @@
+# Article D3332-16-1
+
 Le relevé annuel de situation adressé aux bénéficiaires par le teneur de registre des comptes administratifs, prévu à l'article L. 3332-7-1, comporte :
 
 1° L'identification de l'entreprise et du bénéficiaire ;

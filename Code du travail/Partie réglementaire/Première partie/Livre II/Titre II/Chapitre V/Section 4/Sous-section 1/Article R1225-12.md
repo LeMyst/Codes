@@ -1,3 +1,5 @@
+# Article R1225-12
+
 Pour l'application de l'article L. 1225-49 :
 
 1° La gravité de la maladie ou de l'accident est constatée par un certificat médical qui atteste également que l'état de l'enfant rend nécessaire la présence d'une personne auprès de lui pendant une période déterminée ;

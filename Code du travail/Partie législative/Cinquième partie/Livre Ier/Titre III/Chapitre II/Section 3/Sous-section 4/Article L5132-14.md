@@ -1,3 +1,5 @@
+# Article L5132-14
+
 Lorsque l'activité de l'association intermédiaire est exercée dans les conditions de la présente sous-section, ne sont pas applicables :
 
 1° Les sanctions relatives au travail temporaire, prévues aux articles L. 1255-1 à L. 1255-12 ;

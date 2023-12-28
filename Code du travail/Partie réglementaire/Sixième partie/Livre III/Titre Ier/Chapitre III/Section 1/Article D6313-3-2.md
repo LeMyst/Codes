@@ -1,3 +1,5 @@
+# Article D6313-3-2
+
 La mise en œuvre d'une action de formation en situation de travail comprend :
 
 1° L'analyse de l'activité de travail pour, le cas échéant, l'adapter à des fins pédagogiques ;

@@ -1,3 +1,5 @@
+# Article R6123-3-5
+
 Pour chaque représentant, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
 Les suppléants peuvent assister avec les titulaires aux séances du comité régional de l'emploi, de la formation et de l'orientation professionnelles. Ils ne délibèrent qu'en l'absence des membres titulaires.

@@ -1,3 +1,5 @@
+# Article R6332-23
+
 Les opérateurs de compétences créent un service dématérialisé qui publie au sein d'une rubrique dédiée et identifiable :
 
 1° La liste des priorités, des critères et des conditions de prise en charge des demandes présentées par les employeurs, des coûts de diagnostics visés au 4° du I de l'article L. 6332-1 ainsi que les services proposés correspondant à l'emploi des sommes mentionnées au II de l'article R. 6332-17 ;

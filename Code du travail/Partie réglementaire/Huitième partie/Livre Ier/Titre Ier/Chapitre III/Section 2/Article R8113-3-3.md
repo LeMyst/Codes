@@ -1,3 +1,5 @@
+# Article R8113-3-3
+
 Le droit de communication de documents ou d'informations auprès de tiers défini à l'article L. 8113-5-2 est exercé, dans le cadre d'une enquête visant une ou plusieurs infractions constitutives de travail illégal, par les agents de contrôle de l'inspection du travail en fonction, soit au groupe national de veille, d'appui et de contrôle prévu par l'article R. 8121-15, soit dans l'une des unités régionales d'appui et de contrôle instituées à l'article R. 8122-8.
 
 La demande est notifiée par écrit à la personne physique ou morale destinataire du droit de communication.

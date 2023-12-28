@@ -1,3 +1,5 @@
+# Article L2512-2
+
 Lorsque les personnels mentionnés à l'article L. 2512-1 exercent le droit de grève, la cessation concertée du travail est précédée d'un préavis.
 
 Le préavis émane d'une organisation syndicale représentative au niveau national, dans la catégorie professionnelle ou dans l'entreprise, l'organisme ou le service intéressé.

@@ -1,3 +1,5 @@
+# Article D2362-2
+
 Les dirigeants des personnes morales ou les personnes physiques indiquent à leurs organisations syndicales, à leurs filiales et à leurs établissements disposant de représentants ou d'élus :
 
 1° Le nombre de leurs salariés à la date de la publication du projet de constitution, en France collège par collège et dans les autres Etats membres ;

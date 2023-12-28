@@ -1,3 +1,5 @@
+# Article L4121-2
+
 L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants :
 
 1° Eviter les risques ;

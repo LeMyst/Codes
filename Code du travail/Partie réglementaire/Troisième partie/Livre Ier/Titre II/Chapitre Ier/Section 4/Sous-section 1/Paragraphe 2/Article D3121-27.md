@@ -1,3 +1,5 @@
+# Article D3121-27
+
 A défaut d'accord prévu à l'article L. 3121-44, la durée du travail de l'entreprise ou de l'établissement peut être organisée sous forme de périodes de travail, chacune d'une durée au plus égale aux durées fixées à l'article L. 3121-45.
 
 L'employeur établit le programme indicatif de la variation de la durée du travail. Ce programme est soumis pour avis, avant sa première mise en œuvre, au comité social et économique, s'il existe.

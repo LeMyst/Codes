@@ -1,3 +1,5 @@
+# Article L1254-4
+
 I.-La prestation dans l'entreprise cliente ne peut avoir pour objet :
 
 1° De remplacer un salarié dont le contrat de travail est suspendu à la suite d'un conflit collectif de travail ;

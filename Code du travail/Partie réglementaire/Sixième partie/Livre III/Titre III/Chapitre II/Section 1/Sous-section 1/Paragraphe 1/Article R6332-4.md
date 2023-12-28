@@ -1,3 +1,5 @@
+# Article R6332-4
+
 L'agrément est accordé en application du II de l'article L. 6332-1-1 lorsque les opérateurs de compétences :
 
 1° Sont en capacité de mettre en œuvre une comptabilité analytique ;

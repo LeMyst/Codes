@@ -1,3 +1,5 @@
+# Article R6123-8
+
 I.-Le conseil d'administration délibère sur :
 
 1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ;

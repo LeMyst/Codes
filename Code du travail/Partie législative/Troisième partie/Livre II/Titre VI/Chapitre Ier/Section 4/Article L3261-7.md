@@ -1,3 +1,5 @@
+# Article L3261-7
+
 Les comptes prévus à l'article L. 3261-6 sont des comptes de dépôt de fonds intitulés “ comptes de titre-mobilité ”.
 
 Sous réserve du même article L. 3261-6 et du présent article ainsi que du décret prévu à l'article L. 3261-10, ils ne peuvent être débités qu'en règlement de biens ou de services spécifiques liés aux déplacements des salariés entre leur résidence habituelle et leur lieu de travail, fournis ou commercialisés par des organismes agréés, dans des conditions fixées par ce même décret.

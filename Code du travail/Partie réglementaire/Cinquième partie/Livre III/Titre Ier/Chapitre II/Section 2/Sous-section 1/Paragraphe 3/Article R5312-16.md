@@ -1,3 +1,5 @@
+# Article R5312-16
+
 Le conseil d'administration ne peut valablement délibérer que si au moins dix de ses membres sont présents. Si ce nombre n'est pas atteint, le conseil est convoqué à nouveau dans un délai de quinze jours. Il peut alors délibérer valablement quel que soit le nombre des membres présents.
 
 Le vote par procuration est admis. Un membre du conseil ne peut être porteur que d'une procuration ;

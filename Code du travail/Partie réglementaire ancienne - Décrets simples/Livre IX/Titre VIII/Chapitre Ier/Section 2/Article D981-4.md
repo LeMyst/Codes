@@ -1,3 +1,5 @@
+# Article D981-4
+
 Pour les salariés relevant du régime spécial de sécurité sociale des marins mentionné au 4° de l'article R. 711-1 du code de la sécurité sociale, l'exonération prévue à l'article L. 981-6 est applicable aux contributions et cotisations à la charge de l'employeur et dues :
 
 1. Au titre des assurances maladie, maternité, invalidité, décès, vieillesse, accidents du travail et maladies professionnelles, à l'Etablissement national des invalides de la marine ;

@@ -1,3 +1,5 @@
+# Article R4544-11
+
 I.-Tout travailleur qui effectue des travaux sous tension est titulaire d'une habilitation spécifique délivrée par l'employeur après l'obtention d'un document délivré par un organisme de formation agréé attestant qu'il a acquis les connaissances et les compétences nécessaires. Cette habilitation spécifique est délivrée, maintenue ou renouvelée selon les modalités contenues dans les normes mentionnées à l'article R. 4544-3.
 
 II.-L'employeur s'assure avant toute formation que les travailleurs qui suivent la formation mentionnée au I ont les capacités et les compétences et expérience professionnelles requises dans le domaine des opérations d'ordre électrique.

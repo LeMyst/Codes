@@ -1,3 +1,5 @@
+# Article R6123-3
+
 I.-Le comité régional de l'emploi, de la formation et de l'orientation professionnelles est chargé des fonctions de diagnostic, d'étude, de suivi et d'évaluation des politiques nécessaires pour assurer la coordination entre les acteurs des politiques d'orientation, de formation professionnelle et d'emploi et la cohérence des programmes de formation dans la région.
 
 II.-Pour l'exercice de ces fonctions, le comité régional de l'emploi, de la formation et de l'orientation professionnelles s'appuie en tant que de besoin sur les études et les travaux d'observation réalisés notamment par :

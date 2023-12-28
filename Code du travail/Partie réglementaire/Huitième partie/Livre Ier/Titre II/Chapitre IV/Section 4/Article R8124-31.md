@@ -1,3 +1,5 @@
+# Article R8124-31
+
 Les agents de contrôle prêtent serment de remplir leurs missions conformément au présent code.
 
 La prestation de serment intervient, lors de leur première affectation en unité de contrôle, en audience publique, devant le président du tribunal judiciaire dans le ressort duquel se trouve leur lieu d'affectation.

@@ -1,3 +1,5 @@
+# Article R6123-13
+
 Le directeur général :
 
 1° Prépare, signe conjointement avec le président du conseil administration et exécute la convention triennale d'objectifs et de performance prévue à l'article L. 6123-11 ;

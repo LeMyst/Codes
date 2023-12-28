@@ -1,3 +1,5 @@
+# Article R5312-47
+
 L'exercice, par les agents mentionnés à l'article L. 5312-13-1, du droit de communication portant sur des informations relatives à des personnes non identifiées, mentionné au deuxième alinéa de l'article L. 5312-13-2, obéit aux modalités suivantes :
 
 1° La décision d'exercer le droit de communication est prise par un agent chargé de la prévention des fraudes agréé et assermenté, mentionné à l'article L. 5312-13-1 ;

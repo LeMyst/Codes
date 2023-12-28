@@ -1,3 +1,5 @@
+# Article R4311-4-3
+
 Est un composant de sécurité un composant :
 
 1° Qui sert à assurer une fonction de sécurité ;

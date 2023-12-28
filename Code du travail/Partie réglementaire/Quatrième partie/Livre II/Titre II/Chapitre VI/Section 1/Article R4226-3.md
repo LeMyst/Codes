@@ -1,3 +1,5 @@
+# Article R4226-3
+
 Les installations électriques temporaires soumises aux dispositions du présent chapitre comprennent :
 
 1° Les installations telles que celles des structures, baraques, stands situés dans des champs de foire, des marchés, des parcs de loisirs, des cirques et des lieux d'expositions ou de spectacle ;

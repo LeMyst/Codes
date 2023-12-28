@@ -1,3 +1,5 @@
+# Article L321-4-2
+
 I.-Dans les entreprises non soumises aux dispositions de l'article L. 321-4-3, l'employeur est tenu de proposer à chaque salarié dont il envisage de prononcer le licenciement pour motif économique le bénéfice d'une convention de reclassement personnalisé lui permettant de bénéficier, après la rupture de son contrat de travail, d'actions de soutien psychologique, d'orientation, d'accompagnement, d'évaluation des compétences professionnelles et de formation destinées à favoriser son reclassement.
 
 Par dérogation aux dispositions de l'article L. 933-6, ces actions peuvent notamment être mises en oeuvre et financées par l'utilisation du reliquat des droits que le salarié a acquis à la date de la rupture de son contrat, au titre du droit individuel à la formation prévu à l'article L. 933-1. La durée des droits correspondant à ce reliquat, plafonné à vingt heures par année d'ancienneté et cent vingt heures sur six années, est doublée. Toutefois, seule est due une somme correspondant à l'allocation de formation prévue à l'article L. 933-4.

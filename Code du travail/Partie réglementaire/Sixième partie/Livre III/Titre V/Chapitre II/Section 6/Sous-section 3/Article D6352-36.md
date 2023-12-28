@@ -1,3 +1,5 @@
+# Article D6352-36
+
 Les dépenses ouvrant droit à subvention sont :\
 1° Pour les centres d'entreprise, les salaires des moniteurs et les charges sociales correspondantes ;\
 2° Pour les centres collectifs :\

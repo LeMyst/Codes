@@ -1,3 +1,5 @@
+# Article D5422-4-2
+
 I. - Les données à caractère personnel et les informations enregistrées dans le traitement mentionné au I de l'article D. 5422-4 sont conservées pendant la durée nécessaire :
 
 1° Au traitement des demandes de remboursement des contributions indûment versées, dans la limite des délais de prescription prévus au premier alinéa du I de l'article L. 243-6 du code de la sécurité sociale et au II de l'article L. 725-7 du code rural et de la pêche maritime augmentés de trois années ;

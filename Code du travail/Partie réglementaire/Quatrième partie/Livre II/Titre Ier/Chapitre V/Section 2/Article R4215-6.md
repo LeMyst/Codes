@@ -1,3 +1,5 @@
+# Article R4215-6
+
 Les caractéristiques des matériels sont choisies de telle façon qu'ils puissent supporter sans dommage pour les personnes et, le cas échéant, sans altérer leurs fonctions de sécurité, les effets mécaniques et thermiques produits par toute surintensité, et ce pendant le temps nécessaire au fonctionnement des dispositifs destinés à interrompre cette surintensité.
 
 Les appareillages assurant les fonctions de connexion, de sectionnement, de commande et de protection sont choisis et installés de façon à pouvoir assurer ces fonctions.

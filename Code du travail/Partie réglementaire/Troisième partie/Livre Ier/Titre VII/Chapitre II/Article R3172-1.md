@@ -1,3 +1,5 @@
+# Article R3172-1
+
 Dans les entreprises et établissements dont tous les salariés sans exception ne bénéficient pas du repos hebdomadaire toute la journée du dimanche, l'employeur communique, par tout moyen, aux salariés les jours et heures de repos collectif attribués à tout ou partie d'entre eux :
 
 1° Soit un autre jour que le dimanche ;

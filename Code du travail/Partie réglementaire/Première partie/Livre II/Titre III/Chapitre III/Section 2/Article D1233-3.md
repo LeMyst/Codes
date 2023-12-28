@@ -1,3 +1,5 @@
+# Article D1233-3
+
 En cas de licenciement pour motif économique de moins de dix salariés dans une même période de trente jours, l'employeur informe par écrit le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des licenciements prononcés dans les huit jours de l'envoi des lettres de licenciement aux salariés concernés.
 
 L'employeur précise :

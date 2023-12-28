@@ -1,3 +1,5 @@
+# Article R5122-9
+
 I.-Une autorisation d'activité partielle peut être accordée pour une durée maximum de trois mois. Elle peut être renouvelée dans les conditions fixées au II et dans la limite de six mois, consécutifs ou non, sur une période de référence de douze mois consécutifs.
 
 Par dérogation à l'alinéa précédent, lorsque l'employeur place ses salariés en position d'activité partielle en application du 3° de l'article R. 5122-1, l'autorisation d'activité partielle peut être accordée pour une durée maximum de six mois. Cette autorisation peut être renouvelée dans les conditions fixées au II.

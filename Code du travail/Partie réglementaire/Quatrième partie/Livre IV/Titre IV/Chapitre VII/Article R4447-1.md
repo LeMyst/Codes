@@ -1,3 +1,5 @@
+# Article R4447-1
+
 Lorsque l'évaluation des risques fait apparaître que des travailleurs sont exposés à des risques dus aux vibrations mécaniques, l'employeur veille à ce que ces travailleurs reçoivent des informations et une formation en rapport avec le résultat de l'évaluation des risques et avec le concours du service de santé au travail.
 
 Ces informations et cette formation portent, notamment, sur :

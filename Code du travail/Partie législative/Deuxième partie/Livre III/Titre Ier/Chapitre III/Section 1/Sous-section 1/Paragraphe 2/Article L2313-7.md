@@ -1,3 +1,5 @@
+# Article L2313-7
+
 L'accord d'entreprise défini à l'article L. 2313-2 peut mettre en place des représentants de proximité.
 
 L'accord définit également :

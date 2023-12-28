@@ -1,3 +1,5 @@
+# Article D2231-2
+
 I.-Les conventions et accords de branche et les accords professionnels ou interprofessionnels, ainsi que leurs avenants et annexes, sont déposés par la partie la plus diligente auprès des services du ministre chargé du travail.
 
 Le dépôt est opéré en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique.

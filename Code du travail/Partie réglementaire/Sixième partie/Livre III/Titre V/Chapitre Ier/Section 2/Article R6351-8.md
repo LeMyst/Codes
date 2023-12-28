@@ -1,3 +1,5 @@
+# Article R6351-8
+
 I.-Toute modification de la déclaration d'activité du prestataire de formation fait l'objet, dans un délai de trente jours, d'une déclaration rectificative selon les modalités suivantes :
 
 1° Auprès du préfet de région destinataire de la déclaration d'activité ;

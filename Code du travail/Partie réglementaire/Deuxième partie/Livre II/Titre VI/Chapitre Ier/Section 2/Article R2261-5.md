@@ -1,3 +1,5 @@
+# Article R2261-5
+
 Les avenants salariaux mentionnés au premier alinéa de l'article L. 2261-26 dont l'extension est envisagée sont transmis aux membres de la sous-commission des conventions et accords de la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle.
 
 Ces membres disposent d'un délai de quinze jours à compter de la date d'envoi pour demander l'examen par cette sous-commission.

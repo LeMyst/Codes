@@ -1,3 +1,5 @@
+# Article R5132-17
+
 La convention de coopération prévue à l'article L. 5132-8 comporte, notamment :
 
 1° Les modalités de mise en relation des candidats avec l'association intermédiaire ;

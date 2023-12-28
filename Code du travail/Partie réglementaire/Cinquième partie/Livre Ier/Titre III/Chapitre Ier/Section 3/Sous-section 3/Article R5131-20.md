@@ -1,3 +1,5 @@
+# Article R5131-20
+
 I.-L'allocation mentionnée à l'article L. 5131-6 ouvre droit à un montant mensuel équivalent au montant forfaitaire fixé par décret, déduction faite :
 
 1° Des ressources mentionnées à l'article R. 5131-21 ;

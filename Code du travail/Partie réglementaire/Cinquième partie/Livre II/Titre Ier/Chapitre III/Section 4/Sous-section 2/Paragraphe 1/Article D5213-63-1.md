@@ -1,3 +1,5 @@
+# Article D5213-63-1
+
 I.-Sous réserve des dispositions du II, le montant total annuel d'aide versée à l'entreprise adaptée au titre de l'enveloppe financière mentionnée à l'article R. 5213-76 est calculé sur la base d'une proportion de travailleurs, à l'exclusion des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire, qui ne peut être supérieure à 75 % de l'effectif salarié annuel de l'entreprise.
 
 Ce pourcentage est égal au rapport, du nombre en équivalents temps plein, des personnes mentionnées au deuxième alinéa de l'article L. 5213-13-1, dont l'emploi ouvre droit à une aide financière et de l'effectif salarié annuel de l'entreprise.

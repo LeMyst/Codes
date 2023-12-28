@@ -1,3 +1,5 @@
+# Article R3252-15
+
 Le greffier convoque le débiteur à l'audience.\
 La convocation :\
 1° Mentionne les nom, prénom et adresse du créancier ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ;\

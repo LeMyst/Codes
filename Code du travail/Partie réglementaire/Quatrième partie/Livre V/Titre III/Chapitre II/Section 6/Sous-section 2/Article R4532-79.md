@@ -1,3 +1,5 @@
+# Article R4532-79
+
 Peuvent assister aux réunions du collège interentreprises à titre consultatif :\
 1° Les médecins du travail ;\
 2° Les représentants de l'inspection du travail ;\

@@ -1,3 +1,5 @@
+# Article R1221-2
+
 Au moyen de la déclaration préalable à l'embauche, l'employeur accomplit les déclarations et demandes suivantes :
 
 1° L'immatriculation de l'employeur au régime général de la sécurité sociale, s'il s'agit d'un salarié non agricole, prévue à l'article R. 243-2 du code de la sécurité sociale, ou l'immatriculation de l'employeur à l'établissement national des invalides de la marine, si la déclaration est relative à un marin salarié ;

@@ -1,3 +1,5 @@
+# Article R7345-17
+
 Les recettes de l'établissement comprennent :
 
 1° Le produit de la taxe mentionnée à l'article L. 7345-4 ;

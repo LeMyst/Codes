@@ -1,3 +1,5 @@
+# Article R4462-9
+
 I.-Sans préjudice des dispositions des articles R. 4227-28 à R. 4227-33, les mesures de lutte contre l'incendie suivantes sont prises pour les installations fixes dans l'enceinte pyrotechnique :
 
 1° Les abords immédiats des installations pyrotechniques sont désherbés et débroussaillés. Les produits utilisés pour le désherbage et le débroussaillage sont de nature telle qu'ils ne puissent provoquer des réactions dangereuses avec les matières utilisées dans l'enceinte pyrotechnique ;

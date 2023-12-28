@@ -1,3 +1,5 @@
+# Article L1233-30
+
 I.-Dans les entreprises ou établissements employant habituellement au moins cinquante salariés, l'employeur réunit et consulte le comité social et économique sur :
 
 1° L'opération projetée et ses modalités d'application, conformément à l'article L. 2323-31 ;

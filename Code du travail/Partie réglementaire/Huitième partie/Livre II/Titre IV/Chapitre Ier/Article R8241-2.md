@@ -1,3 +1,5 @@
+# Article R8241-2
+
 I.-Une convention de mise à disposition est conclue entre l'entreprise prêteuse et l'entreprise utilisatrice. Cette convention mentionne l'identité et la qualification du salarié concerné et le mode de détermination des salaires, des charges sociales et des frais professionnels qui seront facturés le cas échéant à l'entreprise utilisatrice par l'entreprise prêteuse. Elle précise la durée et la finalité poursuivie par l'opération de prêt au regard du premier alinéa de l'article L. 8241-3 du présent code et les missions confiées au salarié concerné.
 
 L'employeur met à disposition du comité social et économique les informations relatives au nombre de conventions de mise à disposition conclues et aux types de postes occupés dans l'entreprise utilisatrice par les salariés mis à disposition, dans le cadre de la base de données économiques, sociales et environnementales mentionnée à l'article L. 2312-18.

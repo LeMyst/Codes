@@ -1,3 +1,5 @@
+# Article L1233-10
+
 L'employeur adresse aux représentants du personnel, avec la convocation à la réunion prévue à l'article L. 1233-8, tous renseignements utiles sur le projet de licenciement collectif.
 
 Il indique :

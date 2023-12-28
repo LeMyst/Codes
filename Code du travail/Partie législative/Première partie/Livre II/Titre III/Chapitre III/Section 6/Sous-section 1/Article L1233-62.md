@@ -1,3 +1,5 @@
+# Article L1233-62
+
 Le plan de sauvegarde de l'emploi prévoit des mesures telles que :
 
 1° Des actions en vue du reclassement interne sur le territoire national, des salariés sur des emplois relevant de la même catégorie d'emplois ou équivalents à ceux qu'ils occupent ou, sous réserve de l'accord exprès des salariés concernés, sur des emplois de catégorie inférieure ;

@@ -1,3 +1,5 @@
+# Article R2152-14
+
 Sont joints à la déclaration de candidature d'une organisation professionnelle d'employeurs souhaitant voir établie sa représentativité au niveau de la branche professionnelle en application de l'article L. 2152-1 :
 
 1° Les attestations du ou des commissaires aux comptes définies à l'article R. 2152-6 et au IV de l'article R. 2152-8. Ces attestations sont accompagnées de la fiche de synthèse mentionnée à l'article R. 2152-6 ;

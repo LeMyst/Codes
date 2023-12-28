@@ -1,3 +1,5 @@
+# Article D1251-3-1
+
 Le salarié temporaire formule la demande prévue à l'article L. 1251-25 auprès de l'entreprise utilisatrice par tout moyen donnant date certaine à sa réception.
 
 L'entreprise utilisatrice fournit par écrit la liste des postes en contrat à durée indéterminée à pourvoir qui correspondent à la qualification professionnelle du salarié, dans un délai d'un mois à compter de la réception de la demande.

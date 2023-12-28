@@ -1,3 +1,5 @@
+# Article L1243-10
+
 L'indemnité de fin de contrat n'est pas due :
 
 1° Lorsque le contrat est conclu au titre du 3° de l'article L. 1242-2 ou de l'article L. 1242-3, sauf dispositions conventionnelles plus favorables ;

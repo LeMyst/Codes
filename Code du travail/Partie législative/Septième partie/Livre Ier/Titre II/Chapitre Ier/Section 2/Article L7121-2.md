@@ -1,3 +1,5 @@
+# Article L7121-2
+
 Sont considérés comme artistes du spectacle, notamment :
 
 1° L'artiste lyrique ;

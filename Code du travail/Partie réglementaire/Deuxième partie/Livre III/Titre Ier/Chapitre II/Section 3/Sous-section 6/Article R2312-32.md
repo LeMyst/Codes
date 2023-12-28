@@ -1,3 +1,5 @@
+# Article R2312-32
+
 Les demandes d'inscription à l'ordre du jour des projets de résolution mentionnés au deuxième alinéa de l'article L. 2312-77 sont réalisées comme suit :
 
 1° Lorsque toutes les actions de la société revêtent la forme nominative :

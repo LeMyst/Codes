@@ -1,3 +1,5 @@
+# Article R8124-4
+
 Le présent code de déontologie s'applique à tout agent quelles que soient les fonctions qu'il exerce.
 
 Il concerne notamment :

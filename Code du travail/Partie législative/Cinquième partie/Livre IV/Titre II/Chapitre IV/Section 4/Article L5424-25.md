@@ -1,3 +1,5 @@
+# Article L5424-25
+
 Ont droit à l'allocation des travailleurs indépendants les travailleurs qui étaient indépendants au titre de leur dernière activité, qui satisfont à des conditions de ressources, de durée antérieure d'activité et de revenus antérieurs d'activité et :
 
 1° Dont l'entreprise a fait l'objet d'un jugement d'ouverture de liquidation judiciaire dans les conditions prévues à l'article L. 641-1 du code de commerce, à l'exception des cas prévus à l'article L. 640-3 du même code ;

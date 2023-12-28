@@ -1,3 +1,5 @@
+# Article L1251-16
+
 Le contrat de mission est établi par écrit.
 
 Il comporte notamment :

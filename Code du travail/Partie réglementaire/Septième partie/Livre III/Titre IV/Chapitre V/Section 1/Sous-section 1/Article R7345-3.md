@@ -1,3 +1,5 @@
+# Article R7345-3
+
 I.-Le conseil d'administration délibère notamment sur :
 
 1° Les orientations générales de l'établissement et son programme d'activité développées en application des missions définies à l'article L. 7345-1 ;

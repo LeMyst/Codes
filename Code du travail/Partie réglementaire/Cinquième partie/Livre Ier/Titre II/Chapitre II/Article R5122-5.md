@@ -1,3 +1,5 @@
+# Article R5122-5
+
 En cas de décision d'autorisation expresse ou tacite prévue à l'article R. 5122-4, l'employeur peut adresser à l'Agence de services et de paiement une demande d'indemnisation au titre de l'allocation d'activité partielle prévue à l'article L. 5122-1.
 
 Cette demande comporte :

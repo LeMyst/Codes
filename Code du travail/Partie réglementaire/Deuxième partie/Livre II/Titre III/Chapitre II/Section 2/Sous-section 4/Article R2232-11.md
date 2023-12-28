@@ -1,3 +1,5 @@
+# Article R2232-11
+
 L'employeur définit les modalités d'organisation de la consultation, qui incluent :
 
 1° Les modalités de transmission aux salariés du texte de l'accord ;

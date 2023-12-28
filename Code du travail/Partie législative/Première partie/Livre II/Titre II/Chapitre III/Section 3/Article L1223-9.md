@@ -1,3 +1,5 @@
+# Article L1223-9
+
 La convention ou l'accord collectif prévu à l'article L. 1223-8 fixe :
 
 1° La taille des entreprises concernées ;

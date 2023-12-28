@@ -1,3 +1,5 @@
+# Article R5212-2-3
+
 La demande de l'employeur mentionnée au premier alinéa de l'article L. 5212-5-1 est adressée par tout moyen permettant d'apporter la preuve de sa réception à l'association mentionnée à l'article L. 5214-1 du code du travail à laquelle l'employeur est tenu d'adresser la déclaration prévue au 2° de l'article R. 5212-1.
 
 La demande doit comporter :

@@ -1,3 +1,5 @@
+# Article L23-115-1
+
 Un décret en Conseil d'Etat précise les conditions d'application du présent titre, notamment :
 
 1° Les modalités de la présentation des salariés sur la propagande électorale mentionnées à l'article L. 23-112-2 ;

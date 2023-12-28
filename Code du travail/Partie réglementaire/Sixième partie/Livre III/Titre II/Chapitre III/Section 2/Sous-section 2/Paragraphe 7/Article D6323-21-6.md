@@ -1,3 +1,5 @@
+# Article D6323-21-6
+
 En cas de dépassement des plafonds ou lorsque les objectifs prévus aux articles D. 6323-21-3 et D. 6323-21-4 ne sont pas atteints, le ministre chargé de la formation professionnelle adresse, sur proposition du préfet de région, à la commission paritaire interprofessionnelle régionale par tout moyen donnant date certaine à sa réception une mise en demeure motivée afin de présenter, dans un délai d'un mois, ses observations écrites et, le cas échéant, orales justifiant cette situation.
 
 Au vu des éléments de réponse de la commission paritaire interprofessionnelle régionale ou après l'expiration de ce délai, le ministre chargé de la formation professionnelle peut :

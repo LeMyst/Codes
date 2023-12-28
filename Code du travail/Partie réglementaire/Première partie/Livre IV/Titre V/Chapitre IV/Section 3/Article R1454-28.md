@@ -1,3 +1,5 @@
+# Article R1454-28
+
 A moins que la loi ou le règlement n'en dispose autrement, les décisions du conseil de prud'hommes ne sont pas exécutoires de droit à titre provisoire. Le conseil de prud'hommes peut ordonner l'exécution provisoire de ses décisions.
 
 Sont de droit exécutoires à titre provisoire, notamment :

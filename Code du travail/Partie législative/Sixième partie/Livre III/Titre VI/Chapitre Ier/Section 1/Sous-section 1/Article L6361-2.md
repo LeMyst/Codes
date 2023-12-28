@@ -1,3 +1,5 @@
+# Article L6361-2
+
 L'Etat exerce un contrôle administratif et financier sur :
 
 1° Les activités en matière de formation professionnelle conduites par :

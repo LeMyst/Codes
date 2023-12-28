@@ -1,3 +1,5 @@
+# Article L3253-19
+
 Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
 
 1° Pour les créances mentionnées aux articles L. 3253-2 et L. 3253-4, dans les dix jours suivant le prononcé du jugement d'ouverture de la procédure ;

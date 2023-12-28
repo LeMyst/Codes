@@ -1,3 +1,5 @@
+# Article R5312-22
+
 Les opérations de dépenses et de recettes des deux premières sections du budget de Pôle emploi sont présentées en compte de tiers.
 
 Les conventions relatives aux mandats confiés à Pôle emploi définissent les dispositions assurant la neutralité des opérations pour le budget et la trésorerie de Pôle emploi.

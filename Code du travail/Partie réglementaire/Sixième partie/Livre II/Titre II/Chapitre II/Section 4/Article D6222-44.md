@@ -1,3 +1,5 @@
+# Article D6222-44
+
 La carte d'étudiant des métiers comporte les mentions suivantes :
 
 Au recto :

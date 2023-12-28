@@ -1,3 +1,5 @@
+# Article L6323-8-1
+
 Est interdite toute prospection commerciale des titulaires d'un compte personnel de formation, par voie téléphonique, par message provenant d'un service de communications interpersonnelles, par courrier électronique ou sur un service de réseaux sociaux en ligne visant à :
 
 1° Collecter leurs données à caractère personnel, notamment le montant des droits inscrits sur le compte mentionné au premier alinéa du présent article et leurs données d'identification permettant d'accéder au service dématérialisé mentionné au I de l'article L. 6323-8 ;

@@ -1,3 +1,5 @@
+# Article R3124-5
+
 Est puni de l'amende prévue pour les contraventions de la cinquième classe, le fait d'employer un salarié à temps partiel ou un salarié en contrat de travail intermittent en omettant d'établir un contrat de travail écrit mentionnant les éléments suivants :
 
 1° Pour un salarié à temps partiel autre que celui mentionné au 2°, la durée du travail de référence, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois et les limites dans lesquelles peuvent être accomplies des heures complémentaires ;

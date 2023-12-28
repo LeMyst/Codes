@@ -1,3 +1,5 @@
+# Article D2316-7
+
 La convention entre le comité social et économique d'établissement et le comité central mentionnée au quatrième alinéa de l'article L. 2316-23 comporte notamment :
 
 1° La description de l'activité ou des activités dont la gestion est transférée au comité social et économique central ;

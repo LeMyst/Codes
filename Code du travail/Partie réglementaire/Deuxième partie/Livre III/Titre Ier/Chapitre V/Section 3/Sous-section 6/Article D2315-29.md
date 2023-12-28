@@ -1,3 +1,5 @@
+# Article D2315-29
+
 Une commission des marchés est créée au sein du comité social et économique qui dépasse, pour au moins deux des trois critères, les seuils suivants :
 
 1° Le nombre de cinquante salariés à la clôture d'un exercice ;

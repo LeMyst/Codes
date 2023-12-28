@@ -1,3 +1,5 @@
+# Article D3345-1
+
 Lorsqu'un accord d'intéressement ou de participation, ou un plan d'épargne d'entreprise, interentreprises un plan d'épargne pour la retraite collectif ou un plan d'épargne retraite d'entreprise collectif est conclu autrement que dans le cadre du 1° du I de l'article L. 3312-5, les documents qui sont déposés sur la plateforme de téléprocédure mentionnée à l'article D. 2231-4 dans les conditions prévues à cet article et au II de l'article D. 2231-2 comportent :
 
 1° Si l'accord a été conclu entre l'employeur et les représentants d'organisations syndicales, la mention que ces représentants ont la qualité de délégués syndicaux ou, à défaut, le texte du mandat les habilitant à signer l'accord ;

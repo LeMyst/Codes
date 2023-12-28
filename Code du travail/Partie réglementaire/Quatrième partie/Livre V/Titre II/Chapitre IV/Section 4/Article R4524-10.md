@@ -1,3 +1,5 @@
+# Article R4524-10
+
 Les chefs d'établissement intéressés communiquent au comité interentreprises toutes les informations utiles à l'exercice de ses missions, notamment :\
 1° La politique de prévention des accidents majeurs qu'ils conduisent ;\
 2° Les systèmes de gestion de la sécurité mis en œuvre dans chaque établissement et les résultats des contrôles de ces systèmes, audits et revues de direction, organisés par les chefs d'établissement ;\

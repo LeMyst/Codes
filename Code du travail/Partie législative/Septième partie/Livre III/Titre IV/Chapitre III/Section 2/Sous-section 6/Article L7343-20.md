@@ -1,3 +1,5 @@
+# Article L7343-20
+
 Les représentants désignés en application de l'article L. 7343-12 ont droit à une indemnisation forfaitaire destinée à compenser la perte de rémunération résultant :
 
 1° Le cas échéant, des jours de formation mentionnés à l'article L. 7343-19 ;

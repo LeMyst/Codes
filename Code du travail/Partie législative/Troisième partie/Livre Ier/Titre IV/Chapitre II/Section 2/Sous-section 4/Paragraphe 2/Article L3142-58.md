@@ -1,3 +1,5 @@
+# Article L3142-58
+
 Pour mettre en œuvre le droit à congé du salarié mentionné aux articles L. 3142-54 et L. 3142-54-1, une convention ou un accord collectif d'entreprise ou, à défaut, une convention ou un accord de branche détermine :
 
 1° La durée totale maximale du congé et les conditions de son cumul avec le congé de formation économique, sociale, environnementale et syndicale prévu aux articles L. 2145-5 à L. 2145-13 ;

@@ -1,3 +1,5 @@
+# Article L5213-6
+
 Afin de garantir le respect du principe d'égalité de traitement à l'égard des travailleurs handicapés, l'employeur prend, en fonction des besoins dans une situation concrète, les mesures appropriées pour permettre aux travailleurs mentionnés aux 1° à 4° et 9° à 11° de l'article L. 5212-13 d'accéder à un emploi ou de conserver un emploi correspondant à leur qualification, de l'exercer ou d'y progresser ou pour qu'une formation adaptée à leurs besoins leur soit dispensée.
 
 L'employeur s'assure que les logiciels installés sur le poste de travail des personnes handicapées et nécessaires à leur exercice professionnel sont accessibles. Il s'assure également que le poste de travail des personnes handicapées est accessible en télétravail.

@@ -1,3 +1,5 @@
+# Article L2312-26
+
 I.-La consultation annuelle sur la politique sociale de l'entreprise, les conditions de travail et l'emploi porte sur l'évolution de l'emploi, les qualifications, le programme pluriannuel de formation, les actions de formation envisagées par l'employeur, l'apprentissage, les conditions d'accueil en stage, les actions de prévention en matière de santé et de sécurité, les conditions de travail, les congés et l'aménagement du temps de travail, la durée du travail, l'égalité professionnelle entre les femmes et les hommes et les modalités d'exercice du droit d'expression des salariés dans les entreprises non couvertes par un accord sur l'égalité professionnelle et la qualité de vie et des conditions de travail contenant des dispositions sur ce droit.
 
 Le comité peut se prononcer par un avis unique portant sur l'ensemble des thèmes énoncés au premier alinéa ou par des avis séparés organisés au cours de consultations propres à chacun de ces thèmes.

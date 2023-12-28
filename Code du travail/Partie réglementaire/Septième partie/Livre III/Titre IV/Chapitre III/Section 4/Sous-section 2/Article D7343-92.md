@@ -1,3 +1,5 @@
+# Article D7343-92
+
 A défaut d'autres modalités prévues par un accord collectif de secteur conclu en application de l'article L. 7343-45, la plateforme :
 
 1° Communique, par tout moyen, au travailleur indépendant recourant à ses services, au moment de son inscription, une notice l'informant des accords de secteurs applicables par la plateforme pour la prestation concernée ;

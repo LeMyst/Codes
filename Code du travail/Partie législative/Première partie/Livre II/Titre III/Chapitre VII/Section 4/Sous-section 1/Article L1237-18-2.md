@@ -1,3 +1,5 @@
+# Article L1237-18-2
+
 L'accord collectif détermine :
 
 1° La durée du congé de mobilité ;

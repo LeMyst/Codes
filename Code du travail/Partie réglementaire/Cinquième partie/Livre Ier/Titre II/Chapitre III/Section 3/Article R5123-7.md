@@ -1,3 +1,5 @@
+# Article R5123-7
+
 Les conventions de formation déterminent notamment :\
 1° L'objet, la nature et la durée de la formation dispensée ainsi que le nombre prévu de stagiaires ;\
 2° Les conditions de création et de fonctionnement des stages ;\

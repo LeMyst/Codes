@@ -1,3 +1,5 @@
+# Article L1134-2
+
 Les organisations syndicales représentatives au niveau national, au niveau départemental ou de la collectivité en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin, ou dans l'entreprise peuvent exercer en justice toutes les actions résultant de l'application des dispositions du chapitre II.
 
 Elles peuvent exercer ces actions en faveur d'un candidat à un emploi, à un stage ou une période de formation en entreprise, ou d'un salarié, dans les conditions prévues par l'article L. 1134-1.

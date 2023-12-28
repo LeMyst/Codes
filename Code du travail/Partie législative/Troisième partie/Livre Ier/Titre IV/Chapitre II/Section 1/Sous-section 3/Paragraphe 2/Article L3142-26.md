@@ -1,3 +1,5 @@
+# Article L3142-26
+
 Pour mettre en œuvre le droit à congé du salarié mentionné à l'article L. 3142-16, une convention ou un accord de branche ou, à défaut, une convention ou un accord collectif d'entreprise détermine :
 
 1° La durée maximale du congé ;

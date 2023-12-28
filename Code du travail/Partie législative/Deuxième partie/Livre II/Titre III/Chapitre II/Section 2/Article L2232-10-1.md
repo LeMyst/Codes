@@ -1,3 +1,5 @@
+# Article L2232-10-1
+
 Un accord de branche peut comporter, le cas échéant sous forme d'accord type indiquant les différents choix laissés à l'employeur, des stipulations spécifiques pour les entreprises de moins de cinquante salariés.
 
 Ces stipulations spécifiques peuvent porter sur l'ensemble des négociations prévues par le présent code.

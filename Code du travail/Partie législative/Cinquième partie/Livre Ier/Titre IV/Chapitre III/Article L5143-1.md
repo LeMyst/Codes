@@ -1,3 +1,5 @@
+# Article L5143-1
+
 Tout employeur d'une entreprise de moins de trois cents salariés a le droit d'obtenir une information précise et délivrée dans un délai raisonnable lorsqu'il sollicite l'administration sur une question relative à l'application d'une disposition du droit du travail ou des stipulations des accords et conventions collectives qui lui sont applicables.
 
 Ce droit à l'information peut porter sur les démarches et les procédures légales à suivre face à une situation de fait. Si la demande est suffisamment précise et complète, le document formalisant la prise de position de l'administration peut être produit par l'entreprise en cas de contentieux pour attester de sa bonne foi.

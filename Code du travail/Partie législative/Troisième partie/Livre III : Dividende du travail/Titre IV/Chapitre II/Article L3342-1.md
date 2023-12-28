@@ -1,3 +1,5 @@
+# Article L3342-1
+
 Tous les salariés d'une entreprise compris dans le champ des accords d'intéressement et de participation ou des plans d'épargne salariale bénéficient de leurs dispositions.
 
 Toutefois, une condition d'ancienneté dans l'entreprise ou dans le groupe d'entreprises défini aux articles L. 3344-1 et L. 3344-2 peut être exigée. Elle ne peut excéder trois mois. Pour la détermination de l'ancienneté éventuellement requise, sont pris en compte tous les contrats de travail exécutés au cours de la période de calcul et des douze mois qui la précèdent. Le salarié temporaire est réputé compter trois mois d'ancienneté dans l'entreprise ou dans le groupe qui l'emploie s'il a été mis à la disposition d'entreprises utilisatrices pendant une durée totale d'au moins soixante jours au cours du dernier exercice.

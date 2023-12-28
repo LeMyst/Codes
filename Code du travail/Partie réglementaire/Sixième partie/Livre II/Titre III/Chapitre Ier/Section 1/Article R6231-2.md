@@ -1,3 +1,5 @@
+# Article R6231-2
+
 Les centres de formation d'apprentis peuvent confier par convention aux chambres consulaires une ou plusieurs des missions mentionnées aux 1° à 14° de l'article L. 6231-2.
 
 La convention comporte les mentions suivantes :

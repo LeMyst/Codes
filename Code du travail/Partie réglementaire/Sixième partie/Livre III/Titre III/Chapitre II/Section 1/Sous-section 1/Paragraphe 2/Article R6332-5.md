@@ -1,3 +1,5 @@
+# Article R6332-5
+
 I.-Lorsqu'il constate des dysfonctionnements répétés ou des défaillances, le ministre chargé de la formation professionnelle adresse à l'opérateur de compétences une mise en demeure motivée, par tout moyen donnant date certaine à la réception de cette mise en demeure.
 
 L'opérateur de compétences dispose d'un délai d'un mois pour présenter ses observations écrites et, le cas échéant, orales relatives à cette situation ainsi que les mesures correctives envisagées.

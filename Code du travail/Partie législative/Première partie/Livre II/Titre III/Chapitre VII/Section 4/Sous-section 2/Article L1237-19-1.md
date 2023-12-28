@@ -1,3 +1,5 @@
+# Article L1237-19-1
+
 L'accord portant rupture conventionnelle collective détermine :
 
 1° Les modalités et conditions d'information du comité social et économique, s'il existe ;

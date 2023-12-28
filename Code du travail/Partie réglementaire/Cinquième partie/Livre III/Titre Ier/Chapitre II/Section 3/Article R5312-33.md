@@ -1,3 +1,5 @@
+# Article R5312-33
+
 Les données à caractère personnel collectées sont celles permettant d'identifier le bénéficiaire ainsi que, le cas échéant, son conjoint, concubin ou partenaire lié par un pacte civil de solidarité, soit, pour chacun d'eux :
 
 1° Le nom de famille et, le cas échéant, le nom marital, le prénom, la date de naissance, la commune de résidence ;

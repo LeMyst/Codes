@@ -1,3 +1,5 @@
+# Article R4121-2
+
 La mise à jour du document unique d'évaluation des risques professionnels est réalisée :
 
 1° Au moins chaque année dans les entreprises d'au moins onze salariés ;

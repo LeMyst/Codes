@@ -1,3 +1,5 @@
+# Article L4623-10
+
 L'infirmier de santé au travail recruté dans un service de prévention et de santé au travail est diplômé d'Etat ou dispose de l'autorisation d'exercer sans limitation, dans les conditions prévues par le code de la santé publique.
 
 Il dispose d'une formation spécifique en santé au travail définie par décret en Conseil d'Etat.

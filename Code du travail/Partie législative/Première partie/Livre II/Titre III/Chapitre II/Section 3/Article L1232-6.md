@@ -1,3 +1,5 @@
+# Article L1232-6
+
 Lorsque l'employeur décide de licencier un salarié, il lui notifie sa décision par lettre recommandée avec avis de réception.
 
 Cette lettre comporte l'énoncé du ou des motifs invoqués par l'employeur.

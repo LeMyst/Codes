@@ -1,3 +1,5 @@
+# Article R7345-23
+
 L'Autorité des relations sociales des plateformes d'emploi assiste la plateforme et le représentant désigné en application de l'article L. 7343-12 dans la recherche de toute solution de nature à mettre fin amiablement au différend. Elle s'assure du caractère loyal et équilibré de la procédure de médiation.
 
 Lorsque le bon déroulement de la médiation lui apparaît compromis ou qu'elle estime que la médiation n'est pas susceptible d'aboutir, l'Autorité des relations sociales des plateformes d'emploi y met fin.

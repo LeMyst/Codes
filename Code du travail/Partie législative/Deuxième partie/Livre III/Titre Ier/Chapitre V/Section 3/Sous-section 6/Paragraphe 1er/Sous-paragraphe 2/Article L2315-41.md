@@ -1,3 +1,5 @@
+# Article L2315-41
+
 L'accord d'entreprise défini à l'article L. 2313-2 fixe les modalités de mise en place de la ou des commissions santé, sécurité et conditions de travail en application des articles L. 2315-36 et L. 2315-37, en définissant :
 
 1° Le nombre de membres de la ou des commissions ;

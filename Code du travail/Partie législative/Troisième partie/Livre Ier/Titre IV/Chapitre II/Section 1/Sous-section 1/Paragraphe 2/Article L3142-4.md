@@ -1,3 +1,5 @@
+# Article L3142-4
+
 Pour mettre en œuvre le droit à congé du salarié défini à l'article L. 3142-1, une convention ou un accord collectif d'entreprise ou, à défaut, une convention ou un accord de branche détermine la durée de chacun des congés mentionnés au même article L. 3142-1 qui ne peut être inférieure à :
 
 1° Quatre jours pour son mariage ou pour la conclusion d'un pacte civil de solidarité ;

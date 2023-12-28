@@ -1,3 +1,5 @@
+# Article L3142-90
+
 Pour obtenir l'accord mentionné à l'article L. 3142-89, le réserviste salarié présente sa demande par écrit à son employeur, en indiquant la date et la durée de l'absence envisagée. A défaut de réponse de l'employeur dans le délai de préavis mentionné aux articles L. 3142-94-2 et L. 3142-94-3, son accord est réputé acquis.
 
 Lorsque les ressources militaires disponibles apparaissent insuffisantes pour répondre à des circonstances ou à des nécessités ponctuelles et imprévues, le délai de préavis prévu au premier alinéa du présent article peut, sur arrêté du ministre de la défense ou du ministre de l'intérieur pour les réservistes de la gendarmerie nationale, être réduit à quinze jours pour les réservistes ayant souscrit avec l'accord de l'employeur la clause de réactivité prévue au huitième alinéa de l'article L. 4221-1 du code de la défense.

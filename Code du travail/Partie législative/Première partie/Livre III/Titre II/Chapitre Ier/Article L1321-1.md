@@ -1,3 +1,5 @@
+# Article L1321-1
+
 Le règlement intérieur est un document écrit par lequel l'employeur fixe exclusivement :
 
 1° Les mesures d'application de la réglementation en matière de santé et de sécurité dans l'entreprise ou l'établissement, notamment les instructions prévues à l'article L. 4122-1 ;

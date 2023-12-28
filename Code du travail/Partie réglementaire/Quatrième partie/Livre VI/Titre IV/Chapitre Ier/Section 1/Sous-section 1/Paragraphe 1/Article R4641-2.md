@@ -1,3 +1,5 @@
+# Article R4641-2
+
 Le Conseil d'orientation des conditions de travail est constitué des formations suivantes :
 
 1° Le Conseil national d'orientation des conditions de travail, présidé par le ministre chargé du travail, et le comité national de prévention et de santé au travail, qui exercent les fonctions d'orientation du Conseil d'orientation des conditions de travail ;

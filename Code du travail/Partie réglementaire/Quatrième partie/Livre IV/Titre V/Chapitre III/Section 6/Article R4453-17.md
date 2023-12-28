@@ -1,3 +1,5 @@
+# Article R4453-17
+
 L'employeur veille à ce que chaque travailleur susceptible d'être exposé à un risque lié à des champs électromagnétiques reçoive toute l'information nécessaire et une formation en rapport avec les résultats de l'évaluation des risques réalisée conformément à la section 4.
 
 Cette information et cette formation portent, notamment, sur :

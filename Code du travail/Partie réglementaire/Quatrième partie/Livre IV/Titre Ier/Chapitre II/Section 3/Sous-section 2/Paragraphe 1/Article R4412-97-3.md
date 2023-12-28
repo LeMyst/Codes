@@ -1,3 +1,5 @@
+# Article R4412-97-3
+
 I. – Lorsque, pour l'un des motifs suivants, la personne mentionnée au premier alinéa du I de l'article R. 4412-97 constate que le repérage ne peut être mis en œuvre, la sécurité des travailleurs est assurée dans les conditions prévues au II du présent article :
 
 1° En cas d'urgence liée à un sinistre présentant un risque grave pour la sécurité ou la salubrité publiques ou la protection de l'environnement ;

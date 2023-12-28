@@ -1,3 +1,5 @@
+# Article L1251-60
+
 Les personnes morales de droit public peuvent faire appel aux salariés de ces entreprises pour des tâches non durables, dénommées missions, dans les seuls cas suivants :
 
 1° Remplacement momentané d'un agent en raison d'un congé de maladie, d'un congé de maternité, d'un congé parental ou d'un congé de présence parentale, d'un passage provisoire en temps partiel, de sa participation à des activités dans le cadre d'une réserve opérationnelle, sanitaire, civile ou autre, ou de l'accomplissement du service civil ou national, du rappel ou du maintien sous les drapeaux ;

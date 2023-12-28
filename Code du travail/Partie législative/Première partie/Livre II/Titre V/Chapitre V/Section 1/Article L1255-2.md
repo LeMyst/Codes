@@ -1,3 +1,5 @@
+# Article L1255-2
+
 Est puni d'une amende de 3 750 euros, le fait pour l'entrepreneur de travail temporaire :
 
 1° De recruter un salarié temporaire en ayant conclu un contrat ne comportant pas les mentions prévues aux 1° et 3° de l'article L. 1251-16 ou comportant ces mentions de manière volontairement inexacte ou sans lui avoir transmis dans le délai prévu à l'article L. 1251-17 un contrat de mission écrit ;

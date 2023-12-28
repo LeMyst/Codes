@@ -1,3 +1,5 @@
+# Article L3142-34
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-32, les dispositions suivantes sont applicables :
 
 1° La durée minimale du congé est de six mois et sa durée maximale est de onze mois ;

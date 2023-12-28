@@ -1,3 +1,5 @@
+# Article R742-12
+
 Les membres de la commission nationale de conciliation représentant les armateurs et les personnels navigants sont nommés pour trois ans par arrêté du ministre chargé de la marine marchande, sur proposition des organisations syndicales les plus représentatives sur le plan national.
 
 Les membres des commissions régionales de conciliation sont nommés dans les mêmes conditions, sur proposition des organisations syndicales les plus représentatives sur le plan régional.

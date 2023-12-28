@@ -1,3 +1,5 @@
+# Article D2352-10
+
 Lorsque seules certaines sociétés, filiales et établissements ont un représentant ou un élu, les membres du groupe spécial de négociation sont :\
 1° Soit désignés selon les modalités définies aux articles D. 2352-6 et suivants ;\
 2° Soit élus conformément aux dispositions de l'article D. 2352-11.\

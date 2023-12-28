@@ -1,3 +1,5 @@
+# Article L2311-1
+
 Les dispositions du présent titre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés.
 
 Elles sont également applicables :

@@ -1,3 +1,5 @@
+# Article R5411-10
+
 Est réputée immédiatement disponible pour occuper un emploi, au sens de l'article L. 5411-7, la personne qui, au moment de son inscription à Pôle emploi ou du renouvellement de sa demande d'emploi :
 
 1° Exerce ou a exercé au cours du mois précédent une activité occasionnelle ou réduite n'excédant pas soixante-dix-huit heures par mois ;

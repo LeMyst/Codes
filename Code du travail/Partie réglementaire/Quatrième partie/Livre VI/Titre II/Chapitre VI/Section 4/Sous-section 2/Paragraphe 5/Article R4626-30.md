@@ -1,3 +1,5 @@
+# Article R4626-30
+
 Le médecin du travail peut prescrire les examens complémentaires nécessaires :
 
 1° A la détermination de l'aptitude de l'agent au poste de travail et notamment au dépistage des affections comportant une contre-indication à ce poste de travail ;

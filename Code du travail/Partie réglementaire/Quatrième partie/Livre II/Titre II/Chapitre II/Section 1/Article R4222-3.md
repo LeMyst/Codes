@@ -1,3 +1,5 @@
+# Article R4222-3
+
 Pour l'application du présent chapitre, on entend par :\
 1° Air neuf, l'air pris à l'air libre hors des sources de pollution ;\
 2° Air recyclé, l'air pris et réintroduit dans un local ou un groupe de locaux. L'air pris hors des points de captage de polluants et réintroduit dans le même local après conditionnement thermique n'est pas considéré comme de l'air recyclé ;\

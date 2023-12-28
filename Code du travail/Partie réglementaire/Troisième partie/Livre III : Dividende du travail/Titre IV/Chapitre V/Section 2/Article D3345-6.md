@@ -1,3 +1,5 @@
+# Article D3345-6
+
 La procédure d'agrément s'applique aux accords de branche d'intéressement, de participation, ou instaurant un plan d'épargne entreprise, un plan d'épargne interentreprises, un plan d'épargne retraite d'entreprise collectif ou un plan d'épargne retraite d'entreprise collectif interentreprises.
 
 Seuls les accords ouvrant droit aux adhésions des entreprises et les avenants à des accords qui ouvrent droit aux adhésions des entreprises pourront faire l'objet de la procédure d'agrément.

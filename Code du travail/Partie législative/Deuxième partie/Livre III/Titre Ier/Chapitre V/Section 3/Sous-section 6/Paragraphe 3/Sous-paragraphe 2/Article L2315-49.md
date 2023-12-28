@@ -1,3 +1,5 @@
+# Article L2315-49
+
 En l'absence d'accord prévu à l'article L. 2315-45, dans les entreprises d'au moins trois cents salariés, le comité social et économique constitue une commission de la formation.
 
 Cette commission est chargée :

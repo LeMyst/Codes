@@ -1,3 +1,5 @@
+# Article R4534-136
+
 Lorsque des travailleurs sont exposés à des risques de noyade, l'employeur prend, indépendamment des mesures de sécurité prescrites par le présent chapitre, les mesures particulières de protection suivantes :\
 1° Les travailleurs exposés sont munis de gilets de sauvetage ;\
 2° Un signal d'alarme est prévu ;\

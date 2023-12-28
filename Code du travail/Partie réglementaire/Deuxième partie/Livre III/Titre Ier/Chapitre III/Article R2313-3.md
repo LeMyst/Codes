@@ -1,3 +1,5 @@
+# Article R2313-3
+
 Le tribunal judiciaire est saisi des contestations par voie de requête.
 
 Sur demande du greffe, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi justifie de l'accomplissement de la notification de sa décision auprès de la juridiction saisie ou à défaut, de la réception de la contestation.

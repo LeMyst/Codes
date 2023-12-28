@@ -1,3 +1,5 @@
+# Article R6113-4
+
 Avec l'accord du président, les membres de la commission peuvent participer aux débats au moyen d'une conférence téléphonique ou audiovisuelle.
 
 Lorsqu'il n'est pas suppléé, un membre empêché peut donner son mandat à un autre membre ayant voix délibérative. Un membre ne peut détenir plus d'un mandat. Le mandat n'est valable que pour la séance pour laquelle il a été donné.

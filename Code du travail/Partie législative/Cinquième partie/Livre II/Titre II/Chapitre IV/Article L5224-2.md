@@ -1,3 +1,5 @@
+# Article L5224-2
+
 Le fait de méconnaître les dispositions de l'article L. 5222-1 est puni d'un emprisonnement de trois ans et d'une amende de 45 000 euros.
 
 La juridiction peut également prononcer à titre de peines complémentaires :

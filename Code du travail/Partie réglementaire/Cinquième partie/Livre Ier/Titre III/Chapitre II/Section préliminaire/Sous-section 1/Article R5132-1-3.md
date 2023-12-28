@@ -1,3 +1,5 @@
+# Article R5132-1-3
+
 La prescription d'un parcours est suspendue lorsque le contrat de travail au sein d'une structure mentionnée à l'article L. 5132-4 est suspendu au-delà d'une durée de 15 jours, rompu ou a pris fin.
 
 La suspension est déclarée, par voie dématérialisée, en utilisant le téléservice mentionné à l'article R. 5132-1-19, par un prescripteur ou une structure d'insertion par l'activité économique.

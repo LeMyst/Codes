@@ -1,3 +1,5 @@
+# Article L7343-38
+
 Un accord peut définir la méthode permettant à la négociation de s'accomplir dans des conditions de loyauté et de confiance mutuelle entre les parties.
 
 Cet accord précise les thèmes, le calendrier des négociations et les modalités selon lesquelles sont suivis les engagements souscrits par les parties.

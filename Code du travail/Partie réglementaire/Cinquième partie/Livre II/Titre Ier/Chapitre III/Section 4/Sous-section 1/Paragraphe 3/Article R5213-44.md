@@ -1,3 +1,5 @@
+# Article R5213-44
+
 Lorsque la demande émane d'un bénéficiaire de l'obligation d'emploi exerçant une activité professionnelle non salariée, elle est présentée au moyen d'un formulaire dont le modèle est fixé par arrêté conjoint des ministres chargés de l'emploi et des personnes handicapées.
 
 Ce formulaire, dûment renseigné et signé, est accompagné des pièces suivantes :

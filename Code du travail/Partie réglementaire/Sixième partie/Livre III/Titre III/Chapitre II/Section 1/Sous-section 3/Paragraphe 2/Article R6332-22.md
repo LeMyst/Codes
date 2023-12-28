@@ -1,3 +1,5 @@
+# Article R6332-22
+
 En cas de dépassement des plafonds ou lorsque les objectifs définis à l'article D. 6332-18 ne sont pas atteints, le ministre chargé de la formation professionnelle adresse à l'opérateur de compétences, par tout moyen donnant date certaine à sa réception, une mise en demeure motivée afin de présenter, dans un délai d'un mois, ses observations écrites et, le cas échéant, orales justifiant cette situation.
 
 Au vu des éléments de réponse de l'opérateur de compétences ou après l'expiration de ce délai, le ministre chargé de la formation professionnelle peut :

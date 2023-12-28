@@ -1,3 +1,5 @@
+# Article R1423-55
+
 Les activités prud'homales mentionnées à l'article L. 1442-5 sont :
 
 1° Les activités suivantes, liées à la fonction prud'homale :

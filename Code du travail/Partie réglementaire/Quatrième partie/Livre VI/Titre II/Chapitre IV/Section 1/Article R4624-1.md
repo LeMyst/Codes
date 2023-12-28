@@ -1,3 +1,5 @@
+# Article R4624-1
+
 Les actions sur le milieu de travail s'inscrivent dans la mission des services de prévention et de santé au travail définie à l'article L. 4622-2. Elles comprennent notamment :
 
 1° La visite des lieux de travail ;

@@ -1,3 +1,5 @@
+# Article D6243-4
+
 I.-La gestion de l'aide unique aux employeurs d'apprentis est confiée à l'Agence de services et de paiement, avec laquelle le ministre chargé de la formation professionnelle conclut une convention à cet effet.
 
 II.-L'Agence de services et de paiement assure le paiement de l'aide. A ce titre, elle est chargée :

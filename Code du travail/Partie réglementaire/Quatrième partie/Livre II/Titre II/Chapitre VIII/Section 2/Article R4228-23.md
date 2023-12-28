@@ -1,3 +1,5 @@
+# Article R4228-23
+
 Dans les établissements de moins de cinquante salariés, l'employeur met à leur disposition un emplacement leur permettant de se restaurer dans de bonnes conditions de santé et de sécurité.
 
 L'effectif salarié et le franchissement du seuil de cinquante salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale. Lorsque l'entreprise comporte plusieurs établissements, les effectifs sont décomptés par établissement.

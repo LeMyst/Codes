@@ -1,3 +1,5 @@
+# Article L2315-11
+
 Est également payé comme temps de travail effectif le temps passé par les membres de la délégation du personnel du comité social et économique :
 
 1° A la recherche de mesures préventives dans toute situation d'urgence et de gravité, notamment lors de la mise en œuvre de la procédure de danger grave et imminent prévue à l'article L. 4132-2 ;

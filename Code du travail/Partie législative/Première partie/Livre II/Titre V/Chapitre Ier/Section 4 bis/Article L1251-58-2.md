@@ -1,3 +1,5 @@
+# Article L1251-58-2
+
 Le contrat de travail mentionné à l'article L. 1251-58-1 est régi par les dispositions du code du travail relatives au contrat à durée indéterminée, sous réserve des dispositions de la présente section.
 
 Il peut prévoir des périodes sans exécution de mission. Ces périodes sont assimilées à du temps de travail effectif pour la détermination des droits à congés payés et pour l'ancienneté.

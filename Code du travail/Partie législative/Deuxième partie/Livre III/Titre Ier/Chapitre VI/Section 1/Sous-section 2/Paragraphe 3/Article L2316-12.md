@@ -1,3 +1,5 @@
+# Article L2316-12
+
 En cas de modification dans la situation juridique de l'employeur prévue à l'article L. 1224-1 le comité social et économique central de l'entreprise absorbée demeure en fonctions si l'entreprise conserve son autonomie juridique.
 
 Si cette entreprise devient un établissement distinct de l'entreprise d'accueil, son comité social et économique d'établissement désigne parmi ses membres deux représentants titulaires et suppléants au comité social et économique central de l'entreprise absorbante.

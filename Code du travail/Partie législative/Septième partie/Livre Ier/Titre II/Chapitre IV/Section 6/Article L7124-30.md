@@ -1,3 +1,5 @@
+# Article L7124-30
+
 Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 Euros, le fait, en méconnaissance des dispositions de l'article L. 7124-16 :
 
 1° Pour toute personne, de faire exécuter par un enfant de moins de seize ans des tours de force périlleux ou des exercices de dislocation, ou de lui confier des emplois dangereux pour sa vie, sa santé ou sa moralité ;

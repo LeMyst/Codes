@@ -1,3 +1,5 @@
+# Article R4453-1
+
 Pour l'application du présent chapitre, on entend par :
 
 1° Champs électromagnétiques : des champs électriques statiques, des champs magnétiques statiques et des champs électriques, magnétiques et électromagnétiques variant dans le temps, dont les fréquences vont de 0 hertz à 300 gigahertz ;

@@ -1,3 +1,5 @@
+# Article R6332-26
+
 I.-Les opérateurs de compétences s'assurent de l'exécution des actions de formation mentionnées à l'article L. 6313-1 dans le cadre d'un contrôle de service fait.
 
 II.-Le contrôle mentionné au I s'effectue au regard des pièces justificatives définies par un arrêté du ministre chargé de la formation professionnelle.

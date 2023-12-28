@@ -1,3 +1,5 @@
+# Article L7311-3
+
 Est voyageur, représentant ou placier, toute personne qui :
 
 1° Travaille pour le compte d'un ou plusieurs employeurs ;

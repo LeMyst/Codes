@@ -1,3 +1,5 @@
+# Article D3323-16
+
 La somme attribuée à un salarié en application de l'accord de participation fait l'objet d'une fiche distincte du bulletin de paie.
 
 Cette fiche mentionne :

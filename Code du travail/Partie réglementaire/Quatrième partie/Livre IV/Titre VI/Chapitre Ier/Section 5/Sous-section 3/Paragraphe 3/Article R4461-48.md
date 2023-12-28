@@ -1,3 +1,5 @@
+# Article R4461-48
+
 Un arrêté conjoint des ministres chargés du travail, de la mer, de l'intérieur, de l'agriculture et de la culture détermine :
 
 1° Les modalités et conditions d'accréditation des organismes chargés de la certification ;

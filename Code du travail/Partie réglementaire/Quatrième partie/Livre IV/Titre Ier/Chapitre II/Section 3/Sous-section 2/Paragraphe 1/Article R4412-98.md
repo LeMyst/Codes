@@ -1,3 +1,5 @@
+# Article R4412-98
+
 Pour l'évaluation des risques, l'employeur estime le niveau d'empoussièrement correspondant à chacun des processus de travail et les classe selon les trois niveaux suivants :
 
 a) Premier niveau : empoussièrement dont la valeur est inférieure à 100 fibres par litre ;

@@ -1,3 +1,5 @@
+# Article R1227-2
+
 Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
 
 1° De contrevenir aux dispositions de l'article R. 1221-9 relatives à la remise d'une copie de la déclaration préalable à l'embauche ou de l'accusé de réception au salarié ou, à défaut, de ne pas délivrer au salarié de contrat écrit accompagné de la mention de l'organisme destinataire de la déclaration préalable d'embauche ;

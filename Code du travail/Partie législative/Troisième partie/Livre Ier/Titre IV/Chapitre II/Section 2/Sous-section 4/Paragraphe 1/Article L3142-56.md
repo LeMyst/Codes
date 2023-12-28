@@ -1,3 +1,5 @@
+# Article L3142-56
+
 Un décret en Conseil d'Etat détermine, pour l'application de la présente sous-section :
 
 1° Les conditions dans lesquelles l'employeur peut différer le congé en raison des nécessités propres de l'entreprise ou de son exploitation ;

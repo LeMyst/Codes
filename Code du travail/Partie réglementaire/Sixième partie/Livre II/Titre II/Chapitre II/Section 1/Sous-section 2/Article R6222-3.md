@@ -1,3 +1,5 @@
+# Article R6222-3
+
 Le contrat d'apprentissage précise :
 
 1° Les nom et prénom de l'employeur ou la dénomination de l'entreprise ;

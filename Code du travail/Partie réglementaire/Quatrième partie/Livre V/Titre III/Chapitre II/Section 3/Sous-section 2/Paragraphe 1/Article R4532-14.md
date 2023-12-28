@@ -1,3 +1,5 @@
+# Article R4532-14
+
 Le coordonnateur tient compte des interférences avec les activités d'exploitation sur le site à l'intérieur ou à proximité duquel est implanté le chantier et à cet effet, notamment :
 
 1° Procède avec le chef de l'établissement en activité, préalablement au commencement des travaux, à une inspection commune visant à :

@@ -1,3 +1,5 @@
+# Article R4542-7
+
 Le clavier de l'écran de visualisation obéit aux caractéristiques suivantes :\
 1° Il est inclinable et dissocié de l'écran pour permettre au travailleur d'avoir une position confortable qui ne provoque pas de fatigue des avant-bras ou des mains ;\
 2° L'espace devant le clavier est suffisant pour permettre un appui pour les mains et les avant-bras de l'utilisateur ;\

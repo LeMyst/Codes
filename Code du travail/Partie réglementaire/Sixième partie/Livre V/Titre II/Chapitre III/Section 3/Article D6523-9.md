@@ -1,3 +1,5 @@
+# Article D6523-9
+
 Les revenus de remplacement mentionnés au deuxième alinéa de l'article L. 6523-3 sont :
 
 1° L'allocation d'assurance, mentionnée au 1° de l'article L. 5421-2 ;

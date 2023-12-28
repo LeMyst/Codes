@@ -1,3 +1,5 @@
+# Article L1255-10
+
 Est puni d'une amende de 3 750 euros, le fait pour l'utilisateur de recourir à un salarié temporaire :
 
 1° Soit sans avoir conclu avec un entrepreneur de travail temporaire un contrat écrit de mise à disposition, dans le délai prévu à l'article L. 1251-42 ;

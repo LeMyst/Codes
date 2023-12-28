@@ -1,3 +1,5 @@
+# Article L6121-2
+
 I.-La région organise et finance le service public régional de la formation professionnelle selon les principes ci-après.
 
 Toute personne cherchant à s'insérer sur le marché du travail dispose, quel que soit son lieu de résidence, du droit d'accéder à une formation professionnelle afin d'acquérir un premier niveau de qualification, de faciliter son insertion professionnelle, sa mobilité ou sa reconversion. A cette fin, la région assure, selon des modalités définies par décret, l'accès gratuit à une formation professionnelle conduisant à un diplôme ou à un titre à finalité professionnelle classé au plus au niveau 4 et enregistré au répertoire national des certifications professionnelles prévu à l'article L. 6113-1.

@@ -1,3 +1,5 @@
+# Article R5213-68
+
 I.-Le préfet contrôle l'exécution du contrat pluriannuel d'objectifs et de moyens. L'entreprise adaptée lui fournit, à sa demande, tout élément permettant de vérifier la bonne exécution du contrat, la réalité des actions mises en œuvre, ainsi que leurs résultats.
 
 II.-En cas de non-respect des stipulations du contrat par l'entreprise adaptée, le préfet l'informe par tout moyen conférant date certaine de son intention de résilier le contrat. L'entreprise adaptée dispose d'un délai d'un mois pour faire connaître ses observations. Le préfet demande le reversement des sommes indûment perçues.

@@ -1,3 +1,5 @@
+# Article L2242-13
+
 A défaut d'accord prévu à l'article L. 2242-11 ou en cas de non-respect de ses stipulations, l'employeur engage, dans les entreprises mentionnées à ce même article :
 
 1° Chaque année, une négociation sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l'entreprise, dans les conditions prévues à la sous-section 2 de la présente section ;

@@ -1,3 +1,5 @@
+# Article L6313-6
+
 Les actions de formation par apprentissage mentionnées au 4° de l'article L. 6313-1 ont pour objet :
 
 1° De permettre aux travailleurs titulaires d'un contrat d'apprentissage d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles mentionné à l'article L. 6113-1 ;

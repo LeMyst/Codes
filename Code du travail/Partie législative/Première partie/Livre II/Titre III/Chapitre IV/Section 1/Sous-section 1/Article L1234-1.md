@@ -1,3 +1,5 @@
+# Article L1234-1
+
 Lorsque le licenciement n'est pas motivé par une faute grave, le salarié a droit :
 
 1° S'il justifie chez le même employeur d'une ancienneté de services continus inférieure à six mois, à un préavis dont la durée est déterminée par la loi, la convention ou l'accord collectif de travail ou, à défaut, par les usages pratiqués dans la localité et la profession ;

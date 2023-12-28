@@ -1,3 +1,5 @@
+# Article R6323-9-1
+
 I.-Pour bénéficier d'un projet de transition professionnelle, le salarié intermittent du spectacle qui relève des secteurs d'activité du spectacle vivant ou du spectacle enregistré doit justifier de deux-cent-vingt jours de travail ou cachets répartis sur les deux à cinq dernières années et remplir, selon le cas, l'une des conditions d'ancienneté suivantes :
 
 1° Pour le technicien du spectacle enregistré, justifier de cent-trente jours de travail sur les vingt-quatre derniers mois ou soixante-cinq jours sur les douze derniers mois ;

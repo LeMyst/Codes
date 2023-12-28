@@ -1,3 +1,5 @@
+# Article L1242-7
+
 Le contrat de travail à durée déterminée comporte un terme fixé avec précision dès sa conclusion.
 
 Toutefois, le contrat peut ne pas comporter de terme précis lorsqu'il est conclu dans l'un des cas suivants :

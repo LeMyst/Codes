@@ -1,3 +1,5 @@
+# Article R4445-2
+
 La réduction des risques d'exposition aux vibrations mécaniques se fonde sur, notamment :\
 1° La mise en œuvre d'autres procédés de travail permettant de réduire les valeurs d'exposition journalière aux vibrations mécaniques ;\
 2° Le choix d'équipements de travail appropriés, bien conçus sur le plan ergonomique et produisant, compte tenu du travail à accomplir, le moins de vibrations possible ;\

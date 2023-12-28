@@ -1,3 +1,5 @@
+# Article D8272-1
+
 Pour l'application de l'article L. 8272-1, l'autorité compétente est l'autorité gestionnaire des aides publiques. Cette autorité peut, dans les conditions prévues à la présente section, refuser d'accorder les aides publiques, ou demander leur remboursement, correspondant aux dispositifs suivants :
 
 1° Contrat d'apprentissage ;

@@ -1,1 +1,3 @@
+# Article D4624-60
+
 L'employeur avec lequel le travailleur entretient la relation contractuelle la plus ancienne, y compris lorsque son contrat de travail a donné lieu à transfert légal au sens de l'article L. 1224-1 ou conventionnel au sens de l'article L. 2253-1, est son employeur principal pour l'application des dispositions de la présente section.

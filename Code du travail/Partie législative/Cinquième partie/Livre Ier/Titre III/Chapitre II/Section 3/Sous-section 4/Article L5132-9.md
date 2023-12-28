@@ -1,3 +1,5 @@
+# Article L5132-9
+
 Les associations intermédiaires peuvent effectuer des mises à disposition auprès des employeurs mentionnés à l'article L. 2211-1 dans les conditions suivantes :
 
 1° La mise à disposition n'est autorisée que pour l'exécution d'une tâche précise et temporaire ;

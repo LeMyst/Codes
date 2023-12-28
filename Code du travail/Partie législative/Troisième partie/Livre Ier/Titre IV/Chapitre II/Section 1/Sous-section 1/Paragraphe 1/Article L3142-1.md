@@ -1,3 +1,5 @@
+# Article L3142-1
+
 Le salarié a droit, sur justification, à un congé :
 
 1° Pour son mariage ou pour la conclusion d'un pacte civil de solidarité ;

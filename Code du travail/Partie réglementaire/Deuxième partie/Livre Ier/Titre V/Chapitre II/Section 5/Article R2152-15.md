@@ -1,3 +1,5 @@
+# Article R2152-15
+
 Sont joints à la déclaration de candidature d'une organisation professionnelle d'employeurs souhaitant voir établie sa représentativité au niveau national et multi-professionnel en application de l'article L. 2152-2 :
 
 1° Une copie de ses statuts ainsi que du récépissé de dépôt de ceux-ci ;\

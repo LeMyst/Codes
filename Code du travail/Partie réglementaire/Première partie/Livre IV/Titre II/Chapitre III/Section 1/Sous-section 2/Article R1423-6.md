@@ -1,3 +1,5 @@
+# Article R1423-6
+
 Les affaires sont réparties entre les sections du conseil de prud'hommes en application :
 
 1° Pour la section de l'encadrement, de l'article L. 1423-1-2 ;

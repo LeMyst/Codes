@@ -1,3 +1,5 @@
+# Article R4311-11
+
 Ne sont pas considérés comme des équipements de protection individuelle, au sens de l'article R. 4311-8 :\
 1° Les équipements de protection individuelle conçus et fabriqués spécifiquement pour les forces armées ou du maintien de l'ordre ;\
 2° Les équipements de protection individuelle destinés à la protection ou à la sauvegarde des personnes embarquées à bord des navires ou aéronefs, et qui ne sont pas portés en permanence ;\

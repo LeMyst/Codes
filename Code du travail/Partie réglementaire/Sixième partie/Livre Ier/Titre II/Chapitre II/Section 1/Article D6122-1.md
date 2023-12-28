@@ -1,3 +1,5 @@
+# Article D6122-1
+
 Chaque année, le gouvernement présente au Parlement un document :
 
 1° Regroupant les crédits demandés pour l'année suivante et l'emploi de ceux accordés pour l'année antérieure et pour l'année en cours ;

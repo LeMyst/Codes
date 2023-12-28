@@ -1,3 +1,5 @@
+# Article L4741-11
+
 Lorsqu'un accident du travail survient dans une entreprise où ont été relevés des manquements graves ou répétés aux règles de santé et sécurité au travail, la juridiction saisie, qui relaxe la ou les personnes physiques poursuivies sur le fondement des articles 221-6, 221-19 et 221-20 du code pénal, fait obligation à l'entreprise de prendre toutes mesures pour rétablir des conditions normales de santé et sécurité au travail.
 
 A cet effet, la juridiction enjoint à l'entreprise de présenter, dans un délai qu'elle fixe, un plan de réalisation de ces mesures, accompagné de l'avis motivé du comité social et économique.

@@ -1,3 +1,5 @@
+# Article D5213-53
+
 Pour prétendre à la subvention d'installation, le travailleur handicapé répond aux conditions suivantes :\
 1° Il n'a subi aucune des condamnations prévues par le chapitre VIII du titre II du livre premier du code de commerce ;\
 2° Il présente toutes les garanties de moralité nécessaires ;\

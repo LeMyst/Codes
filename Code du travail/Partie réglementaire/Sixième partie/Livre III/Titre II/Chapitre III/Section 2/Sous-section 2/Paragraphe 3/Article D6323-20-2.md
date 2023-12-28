@@ -1,3 +1,5 @@
+# Article D6323-20-2
+
 I.-Les membres du conseil d'administration doivent être en activité professionnelle ou avoir été en activité professionnelle au cours des cinq années précédant leur désignation. Ils peuvent se faire représenter par un suppléant désigné selon les mêmes modalités que le titulaire.
 
 II.-Les incompatibilités mentionnées aux articles L. 6332-2-1 et R. 6332-12 sont applicables aux membres de la commission paritaire interprofessionnelle régionale.

@@ -1,3 +1,5 @@
+# Article D6323-19-1
+
 I.-Lorsqu'il constate des dysfonctionnements répétés ou des défaillances, le préfet de région adresse à la commission paritaire interprofessionnelle régionale une mise en demeure motivée par tout moyen donnant date certaine à la réception de cette mise en demeure.
 
 La commission paritaire interprofessionnelle dispose d'un délai d'un mois pour présenter ses observations écrites et, le cas échéant, orales relatives à cette situation ainsi que les mesures correctives envisagées.

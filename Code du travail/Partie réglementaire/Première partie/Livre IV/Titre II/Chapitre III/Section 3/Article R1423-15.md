@@ -1,3 +1,5 @@
+# Article R1423-15
+
 Le conseil de prud'hommes se réunit en assemblée générale dans les conditions prévues à l'article R. 1423-23 pour élire un nouveau président ou un nouveau vice-président lorsque la vacance d'une de ces fonctions survient pour l'une des causes suivantes :\
 1° Refus du président ou du vice-président de se faire installer ;\
 2° Démission ;\

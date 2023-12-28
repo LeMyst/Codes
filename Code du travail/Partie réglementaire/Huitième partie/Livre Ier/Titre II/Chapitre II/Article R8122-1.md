@@ -1,3 +1,5 @@
+# Article R8122-1
+
 Dans le cadre des directives du directeur général du travail, le directeur régional de l'économie, de l'emploi, du travail et des solidarités :
 
 1° Met en œuvre au plan régional et pilote la mise en œuvre à l'échelon départemental la politique définie par les pouvoirs publics afin d'améliorer les relations collectives et individuelles et les conditions de travail dans les entreprises ;

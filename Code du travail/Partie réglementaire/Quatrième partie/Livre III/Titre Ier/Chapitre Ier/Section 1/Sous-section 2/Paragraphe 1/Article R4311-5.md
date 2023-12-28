@@ -1,3 +1,5 @@
+# Article R4311-5
+
 Les obligations de conception et de construction pour la mise sur le marché des machines ne s'appliquent pas aux produits suivants :
 
 1° Produits qui, bien que répondant à la définition de machines, sont soumis, de manière exclusive et spécifique, aux dispositions issues de la transposition, hors du code du travail, de directives européennes définissant leurs règles de conception et de construction ;

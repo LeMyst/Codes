@@ -1,3 +1,5 @@
+# Article R1271-15
+
 L'émetteur de titres spéciaux de paiement mentionnés au B de l'article L. 1271-1 du présent code s'engage à :\
 1° Constituer un réseau d'associations et d'entreprises affiliées recevant ces titres spéciaux de paiement en paiement de leurs prestations, couvrant l'ensemble du territoire national ;\
 2° Assurer la sécurité à toutes les étapes du processus prenant en compte les objectifs de sécurité définis par la Banque de France dans le cadre de sa mission de surveillance ;\

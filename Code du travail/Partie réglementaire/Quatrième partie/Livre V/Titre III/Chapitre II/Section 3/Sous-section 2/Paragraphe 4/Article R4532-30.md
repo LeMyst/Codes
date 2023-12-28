@@ -1,3 +1,5 @@
+# Article R4532-30
+
 Peut exercer la fonction de formateur de coordonnateurs la personne physique qui justifie à la fois :
 
 1° D'un niveau de compétence au moins égal à celui exigé pour les coordonnateurs aux articles R. 4532-25 et R. 4532-26, excepté lorsqu'elle fait partie du personnel qualifié de l'un des organismes de prévention mentionnés au 2° ;

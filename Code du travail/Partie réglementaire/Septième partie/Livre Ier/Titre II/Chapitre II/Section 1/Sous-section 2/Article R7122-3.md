@@ -1,3 +1,5 @@
+# Article R7122-3
+
 Aux fins de répondre aux conditions de compétence ou d'expérience professionnelle mentionnées au I de l'article L. 7122-4, lorsque l'entrepreneur est une personne physique, il doit être majeur et remplir l'une des conditions suivantes :
 
 1° Etre titulaire d'un diplôme de l'enseignement supérieur ou d'un titre de même niveau inscrit au répertoire national des certifications professionnelles mentionné à l'article L. 6113-1 ;

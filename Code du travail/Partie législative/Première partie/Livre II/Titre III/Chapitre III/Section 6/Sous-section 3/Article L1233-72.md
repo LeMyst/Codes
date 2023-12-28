@@ -1,3 +1,5 @@
+# Article L1233-72
+
 Le congé de reclassement est pris pendant le préavis, que le salarié est dispensé d'exécuter.
 
 Lorsque la durée du congé de reclassement excède la durée du préavis, le terme de ce dernier est reporté jusqu'à la fin du congé de reclassement.

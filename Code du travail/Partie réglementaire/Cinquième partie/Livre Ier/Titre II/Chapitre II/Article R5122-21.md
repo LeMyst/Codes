@@ -1,3 +1,5 @@
+# Article R5122-21
+
 Les catégories de données à caractère personnel enregistrées sont les suivantes :
 
 1° En cas de paiement de l'allocation de l'activité partielle à l'établissement, au mandataire judiciaire ou à l'association mentionnée à l'article L. 3253-14 :

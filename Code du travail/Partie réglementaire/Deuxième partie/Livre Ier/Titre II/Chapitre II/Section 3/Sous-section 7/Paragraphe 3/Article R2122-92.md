@@ -1,3 +1,5 @@
+# Article R2122-92
+
 Immédiatement après la fin du dépouillement, le procès-verbal de dépouillement est rédigé par le secrétaire de la Commission nationale des opérations de vote.
 
 Il est établi en deux exemplaires, signés de tous les membres de la Commission nationale des opérations de vote.

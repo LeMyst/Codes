@@ -1,3 +1,5 @@
+# Article R4313-45
+
 Le système d'assurance qualité est mis en œuvre pour assurer la conformité des machines aux règles techniques les concernant.A cette fin tous les éléments, exigences et dispositions adoptés par le fabricant figurent dans une documentation tenue de manière systématique et rationnelle sous forme de mesures, procédures et instructions écrites. Cette documentation comprend, en particulier, une description adéquate :
 
 1° Des objectifs de qualité, de l'organigramme et des responsabilités et des pouvoirs des cadres en matière de conception et de qualité des machines ;

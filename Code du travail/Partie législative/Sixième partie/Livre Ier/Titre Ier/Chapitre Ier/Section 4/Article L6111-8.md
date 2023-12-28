@@ -1,3 +1,5 @@
+# Article L6111-8
+
 Chaque année, pour chaque centre de formation d'apprentis et pour chaque lycée professionnel, sont rendus publics quand les effectifs concernés sont suffisants :
 
 1° Le taux d'obtention des diplômes ou titres professionnels ;

@@ -1,3 +1,5 @@
+# Article L2524-4
+
 L'arbitre ne peut pas statuer sur d'autres objets que ceux qui sont déterminés par le procès-verbal de non-conciliation ou par la proposition du médiateur ou ceux qui, résultant d'événements postérieurs à ce procès-verbal, sont la conséquence du conflit en cours.
 
 Il statue en droit sur les conflits relatifs à l'interprétation et à l'exécution des lois, règlements, conventions collectives ou accords en vigueur.

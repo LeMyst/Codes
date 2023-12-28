@@ -1,3 +1,5 @@
+# Article R4324-49
+
 Les interventions de vérification et de maintenance s'effectuent depuis un emplacement sûr permettant un accès aisé et sécurisé aux organes concernés, à partir de l'ouverture d'un protecteur.
 
 Un dispositif d'arrêt permet l'accès en toute sécurité dans le volume parcouru par l'habitacle.

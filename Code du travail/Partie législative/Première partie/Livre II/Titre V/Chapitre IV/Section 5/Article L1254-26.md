@@ -1,3 +1,5 @@
+# Article L1254-26
+
 I.-L'entreprise de portage salarial justifie, à tout moment, d'une garantie financière assurant, en cas de défaillance de sa part, le paiement :
 
 1° Des salaires et de leurs accessoires ;

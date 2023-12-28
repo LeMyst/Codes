@@ -1,3 +1,5 @@
+# Article R2152-16
+
 Sont joints à la déclaration de candidature d'une organisation professionnelle d'employeurs souhaitant voir établie sa représentativité au niveau national et interprofessionnel en application de l'article L. 2152-4 :
 
 1° Les attestations du ou des commissaires aux comptes définies à l'article R. 2152-6 et au IV de l'article R. 2152-9 dès lors que la ou les organisations mentionnées au II de l'article R. 2152-9 ne sont pas candidates à la représentativité. Ces attestations sont accompagnées de la fiche de synthèse mentionnée à l'article R. 2152-6 ;

@@ -1,3 +1,5 @@
+# Article R1423-44
+
 Lorsque l'emploi de directeur de greffe est vacant ou lorsque le directeur de greffe est empêché ou absent, la suppléance ou l'intérim est assuré par son adjoint.
 
 Lorsqu'il existe plusieurs adjoints, le directeur de greffe, ou s'il ne peut le faire le président de la juridiction, désigne l'un des adjoints pour assurer la suppléance ou l'intérim.

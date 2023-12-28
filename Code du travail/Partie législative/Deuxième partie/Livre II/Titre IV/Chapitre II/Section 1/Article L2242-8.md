@@ -1,3 +1,5 @@
+# Article L2242-8
+
 Les entreprises d'au moins cinquante salariés sont soumises à une pénalité à la charge de l'employeur en l'absence d'accord relatif à l'égalité professionnelle entre les femmes et les hommes à l'issue de la négociation mentionnée au 2° de l'article L. 2242-1 ou, à défaut d'accord, par un plan d'action mentionné à l'article L. 2242-3. Les modalités de suivi de la réalisation des objectifs et des mesures de l'accord et du plan d'action sont fixées par décret. Dans les entreprises d'au moins 300 salariés, ce défaut d'accord est attesté par un procès-verbal de désaccord.
 
 La pénalité prévue au premier alinéa du présent article peut également être appliquée, dans des conditions déterminées par décret, en l'absence de publication des informations prévues à l'article L. 1142-8 ou en l'absence de mesures définies dans les conditions prévues à l'article L. 1142-9.

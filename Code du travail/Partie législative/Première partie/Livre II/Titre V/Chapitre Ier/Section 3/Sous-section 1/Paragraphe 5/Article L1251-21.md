@@ -1,3 +1,5 @@
+# Article L1251-21
+
 Pendant la durée de la mission, l'entreprise utilisatrice est responsable des conditions d'exécution du travail, telles qu'elles sont déterminées par les dispositions légales et conventionnelles applicables au lieu de travail.
 
 Pour l'application de ces dispositions, les conditions d'exécution du travail comprennent limitativement ce qui a trait :

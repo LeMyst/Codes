@@ -1,3 +1,5 @@
+# Article D1242-8
+
 I. - Le salarié formule la demande prévue à l'article L. 1242-17 par tout moyen donnant date certaine à sa réception.
 
 L'employeur fournit par écrit la liste des postes en contrat à durée indéterminée à pourvoir qui correspondent à la qualification professionnelle du salarié, dans un délai d'un mois à compter de la réception de la demande.

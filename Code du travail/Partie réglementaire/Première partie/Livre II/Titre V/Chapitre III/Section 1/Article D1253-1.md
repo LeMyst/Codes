@@ -1,3 +1,5 @@
+# Article D1253-1
+
 Pour l'application de l'article L. 1253-6, le groupement d'employeurs adresse à l'inspection du travail dont relève son siège social, dans le mois suivant sa constitution, les informations et documents suivants :\
 1° Le nom, le siège social et la forme juridique du groupement ;\
 2° Les noms, prénoms et domicile des dirigeants du groupement ;\

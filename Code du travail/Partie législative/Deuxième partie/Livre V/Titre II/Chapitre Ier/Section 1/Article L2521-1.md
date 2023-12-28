@@ -1,3 +1,5 @@
+# Article L2521-1
+
 Les dispositions du présent titre s'appliquent aux employeurs de droit privé ainsi qu'à leurs salariés.
 
 Elles sont également applicables :

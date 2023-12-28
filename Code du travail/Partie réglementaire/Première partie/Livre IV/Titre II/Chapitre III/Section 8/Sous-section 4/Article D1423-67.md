@@ -1,3 +1,5 @@
+# Article D1423-67
+
 Le nombre d'heures indemnisables qu'un conseiller prud'hommes peut déclarer avoir consacré à la rédaction de décisions qui présentent entre elles un lien caractérisé, notamment du fait de l'identité d'une partie, de l'objet ou de la cause, et qui n'auraient pas fait l'objet d'une jonction, ne peut dépasser les durées fixées au tableau ci-après :
 
 |  |  |

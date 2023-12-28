@@ -1,3 +1,5 @@
+# Article R6351-14
+
 Le traitement mentionné à l'article R. 6351-13 a pour finalités de permettre :
 
 1° Le dépôt de la déclaration d'activité prévue à l'article L. 6351-2 et de la déclaration rectificative prévue à l'article L. 6351-5, ainsi que la transmission du bilan pédagogique et financier prévu à l'article L. 6352-11 par les prestataires mentionnés à l'article L. 6351-1 ;

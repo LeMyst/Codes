@@ -1,3 +1,5 @@
+# Article R5221-21
+
 Les éléments d'appréciation mentionnés au 1° de l'article R. 5221-20 ne sont pas opposables lorsque la demande d'autorisation de travail est présentée au bénéfice de :
 
 1° L'étranger visé au deuxième alinéa de l'article L. 233-4 du code de l'entrée et du séjour des étrangers et du droit d'asile ou au premier alinéa de l'article L. 421-4 du même code lorsque l'emploi sollicité figure sur l'une des listes visées par ces dispositions ;

@@ -1,3 +1,5 @@
+# Article L4642-2
+
 L'Agence nationale pour l'amélioration des conditions de travail est administrée par un conseil d'administration qui comprend en nombre égal :
 
 1° Des représentants des organisations d'employeurs représentatives au niveau national ;

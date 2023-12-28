@@ -1,3 +1,5 @@
+# Article R4312-8
+
 Les équipements de protection individuelle d'occasion suivants ne peuvent être exposés, mis en vente, vendus, importés, loués, mis à disposition ou cédés à quelque titre que ce soit en vue de leur mise en service ou utilisation :\
 1° Equipements à usage unique ;\
 2° Equipements dont la date de péremption ou la durée d'utilisation est dépassée ;\

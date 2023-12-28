@@ -1,3 +1,5 @@
+# Article L1235-3-1
+
 L'article L. 1235-3 n'est pas applicable lorsque le juge constate que le licenciement est entaché d'une des nullités prévues au deuxième alinéa du présent article. Dans ce cas, lorsque le salarié ne demande pas la poursuite de l'exécution de son contrat de travail ou que sa réintégration est impossible, le juge lui octroie une indemnité, à la charge de l'employeur, qui ne peut être inférieure aux salaires des six derniers mois.
 
 Les nullités mentionnées au premier alinéa sont celles qui sont afférentes à :

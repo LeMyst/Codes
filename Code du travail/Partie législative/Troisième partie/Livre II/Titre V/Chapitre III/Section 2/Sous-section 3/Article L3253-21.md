@@ -1,3 +1,5 @@
+# Article L3253-21
+
 Les institutions de garantie mentionnées à l'article L. 3253-14 versent au mandataire judiciaire les sommes figurant sur les relevés et restées impayées :
 
 1° Dans les cinq jours suivant la réception des relevés mentionnés aux 1° et 3° de l'article L. 3253-19 ;

@@ -1,3 +1,5 @@
+# Article L2314-1
+
 Le comité social et économique comprend l'employeur et une délégation du personnel comportant un nombre de membres déterminé par décret en Conseil d'Etat compte tenu du nombre des salariés.
 
 La délégation du personnel comporte un nombre égal de titulaires et de suppléants. Le suppléant assiste aux réunions en l'absence du titulaire.

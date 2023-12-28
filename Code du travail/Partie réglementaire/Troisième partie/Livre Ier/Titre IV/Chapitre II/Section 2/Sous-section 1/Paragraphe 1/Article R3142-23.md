@@ -1,3 +1,5 @@
+# Article R3142-23
+
 Le bénéfice du congé peut être refusé par l'employeur s'il établit que ce refus est justifié par des nécessités particulières à son entreprise ou à l'exploitation de celle-ci.
 
 Ce refus ne peut intervenir qu'après consultation du comité social et économique.

@@ -1,3 +1,5 @@
+# Article R4227-38
+
 La consigne de sécurité incendie indique :
 
 1° Le matériel d'extinction et de secours qui se trouve dans le local ou à ses abords ;

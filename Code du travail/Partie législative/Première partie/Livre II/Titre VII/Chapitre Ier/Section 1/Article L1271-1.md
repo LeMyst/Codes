@@ -1,3 +1,5 @@
+# Article L1271-1
+
 Le chèque emploi-service universel est un titre emploi ou un titre spécial de paiement.
 
 A.-Le titre emploi permet :

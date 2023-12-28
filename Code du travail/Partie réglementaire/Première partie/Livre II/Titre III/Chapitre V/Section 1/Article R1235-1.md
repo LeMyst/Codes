@@ -1,3 +1,5 @@
+# Article R1235-1
+
 I.-Lorsqu'un conseil de prud'hommes a ordonné d'office le remboursement des allocations de chômage, le greffier du conseil de prud'hommes, à l'expiration du délai d'appel, adresse à Pôle emploi une copie certifiée conforme du jugement en précisant si ce dernier a fait ou non l'objet d'un appel.
 
 Cette copie est transmise à la direction régionale de cet établissement située dans le ressort de la juridiction qui a rendu le jugement.

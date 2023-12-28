@@ -1,3 +1,5 @@
+# Article R4141-15
+
 En cas de création ou de modification d'un poste de travail ou de technique exposant à des risques nouveaux et comprenant l'une des tâches ci-dessous énumérées, le travailleur bénéficie, s'il y a lieu, après analyse par l'employeur des nouvelles conditions de travail, d'une formation à la sécurité sur les conditions d'exécution du travail :\
 1° Utilisation de machines, portatives ou non ;\
 2° Manipulation ou utilisation de produits chimiques ;\

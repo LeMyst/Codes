@@ -1,3 +1,5 @@
+# Article L6332-23
+
 Les opérateurs de compétences et France compétences transmettent à l'Etat, dans des conditions déterminées par décret en Conseil d'Etat :
 
 1° Des données physiques et comptables relatives aux actions qu'ils contribuent à financer ;

@@ -1,3 +1,5 @@
+# Article L5123-2
+
 Dans les cas prévus à l'article L. 5123-1, peuvent être attribuées par voie de conventions conclues entre l'Etat et les organismes professionnels ou interprofessionnels, les organisations syndicales ou avec les entreprises :
 
 1° Des allocations temporaires dégressives en faveur des travailleurs qui ne peuvent bénéficier d'un stage de formation et ne peuvent être temporairement occupés que dans des emplois entraînant un déclassement professionnel ;

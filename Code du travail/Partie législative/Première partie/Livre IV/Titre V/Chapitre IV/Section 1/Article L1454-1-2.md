@@ -1,3 +1,5 @@
+# Article L1454-1-2
+
 Le bureau de conciliation et d'orientation assure la mise en état des affaires.
 
 Lorsque l'affaire n'est pas en état d'être jugée devant le bureau de jugement, celui-ci peut assurer sa mise en état.

@@ -1,3 +1,5 @@
+# Article L148-2
+
 L'interdiction posée à l'article précédent ne s'applique pas aux économats de la Société nationale des chemins de fer français et des réseaux de chemins de fer placés sous le contrôle de l'Etat dès lors que :
 
 1. Le personnel n'est pas obligé de se fournir dans ces économats ;

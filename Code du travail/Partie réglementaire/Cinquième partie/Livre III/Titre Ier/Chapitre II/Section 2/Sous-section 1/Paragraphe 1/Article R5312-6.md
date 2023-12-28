@@ -1,3 +1,5 @@
+# Article R5312-6
+
 Le conseil d'administration règle les affaires relatives à l'objet de Pôle emploi. Il délibère sur :
 
 1° Les orientations annuelles et les plans de développement des activités ;

@@ -1,3 +1,5 @@
+# Article R7122-16
+
 La déclaration unique et simplifiée permet de satisfaire :
 
 1° Aux déclarations prévues par les dispositions suivantes, ou requises pour leur application :

@@ -1,3 +1,5 @@
+# Article R4624-24
+
 Le suivi individuel renforcé comprend un examen médical d'aptitude, qui se substitue à la visite d'information et de prévention prévue à l'article R. 4624-10. Il est effectué par le médecin du travail préalablement à l'affectation sur le poste.
 
 Cet examen a notamment pour objet :

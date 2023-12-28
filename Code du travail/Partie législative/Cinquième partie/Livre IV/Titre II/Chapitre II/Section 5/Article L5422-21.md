@@ -1,3 +1,5 @@
+# Article L5422-21
+
 L'agrément rend obligatoires les dispositions de l'accord pour tous les employeurs et salariés compris dans le champ d'application professionnel et territorial de cet accord.
 
 L'agrément est délivré pour la durée de la validité de l'accord.

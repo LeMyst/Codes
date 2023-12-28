@@ -1,3 +1,5 @@
+# Article L6222-2
+
 La limite d'âge de vingt-neuf ans révolus n'est pas applicable dans les cas suivants :
 
 1° Lorsque le contrat ou la période d'apprentissage proposés fait suite à un contrat ou à une période d'apprentissage précédemment exécutés et conduit à un niveau de diplôme supérieur à celui obtenu à l'issue du contrat ou de la période d'apprentissage précédents ;

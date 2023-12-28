@@ -1,3 +1,5 @@
+# Article L8254-2
+
 La personne qui méconnaît l'article L. 8254-1 est tenue solidairement avec son cocontractant, sans préjudice de l'application des articles L. 8222-1 à L. 8222-6, au paiement :
 
 1° Du salaire et des accessoires de celui-ci dus à l'étranger non autorisé à travailler, conformément au 1° de l'article L. 8252-2 ;

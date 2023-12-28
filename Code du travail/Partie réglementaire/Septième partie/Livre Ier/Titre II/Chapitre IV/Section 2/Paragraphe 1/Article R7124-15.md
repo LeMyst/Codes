@@ -1,3 +1,5 @@
+# Article R7124-15
+
 L'agence de mannequins agréée qui engage un enfant lui remet ainsi qu'à ses représentants légaux, contre récépissé, une notice explicative précisant :\
 1 Le fonctionnement de l'agence ;\
 2 Le contrôle médical de l'enfant ;\

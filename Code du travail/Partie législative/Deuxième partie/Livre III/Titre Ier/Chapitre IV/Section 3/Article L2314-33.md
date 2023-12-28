@@ -1,3 +1,5 @@
+# Article L2314-33
+
 Les membres de la délégation du personnel du comité social et économique sont élus pour quatre ans.
 
 Le nombre de mandats successifs est limité à trois, excepté :

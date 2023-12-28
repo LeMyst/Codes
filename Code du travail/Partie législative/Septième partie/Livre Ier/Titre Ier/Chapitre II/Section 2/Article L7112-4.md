@@ -1,3 +1,5 @@
+# Article L7112-4
+
 Lorsque l'ancienneté excède quinze années, une commission arbitrale est saisie pour déterminer l'indemnité due.
 
 Cette commission est composée paritairement d'arbitres désignés par les organisations professionnelles d'employeurs et de salariés. Elle est présidée par un fonctionnaire ou par un magistrat en activité ou retraité.

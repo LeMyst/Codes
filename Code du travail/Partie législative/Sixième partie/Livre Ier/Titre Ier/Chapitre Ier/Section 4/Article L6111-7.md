@@ -1,3 +1,5 @@
+# Article L6111-7
+
 Les informations relatives à l'offre de formation, définies par un arrêté du ministre chargé de la formation professionnelle, sont collectées au sein d'un système d'information national géré par la Caisse des dépôts et consignations, dont les conditions de mise en œuvre sont précisées par décret.
 
 Ce système est alimenté par :

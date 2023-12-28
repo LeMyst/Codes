@@ -1,3 +1,5 @@
+# Article L5211-2
+
 La région est chargée, dans le cadre du service public régional de la formation professionnelle défini à l'article L. 6121-2, de l'accès à la formation et à la qualification professionnelle des personnes handicapées.
 
 Elle définit et met en œuvre un programme régional d'accès à la formation et à la qualification professionnelle des personnes handicapées en concertation avec :

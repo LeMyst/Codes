@@ -1,3 +1,5 @@
+# Article R3142-44
+
 A défaut de convention ou d'accord mentionné à l'article L. 3142-58, le bénéfice du congé de formation de cadres et d'animateurs pour la jeunesse peut être refusé par l'employeur s'il établit que le nombre de salariés, par établissement, ayant bénéficié du congé durant l'année en cours, atteint la proportion suivante :
 
 1° Moins de 50 salariés : un bénéficiaire ;

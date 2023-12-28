@@ -1,3 +1,5 @@
+# Article R4424-3
+
 Lorsque l'exposition des travailleurs à un agent biologique dangereux ne peut être évitée, elle est réduite en prenant les mesures suivantes :\
 1° Limitation au niveau le plus bas possible du nombre de travailleurs exposés ou susceptibles de l'être ;\
 2° Définition des processus de travail et des mesures de contrôle technique ou de confinement visant à éviter ou à minimiser le risque de dissémination d'agents biologiques sur le lieu de travail ;\

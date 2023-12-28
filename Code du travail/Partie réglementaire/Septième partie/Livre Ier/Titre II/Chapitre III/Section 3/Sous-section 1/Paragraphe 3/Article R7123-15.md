@@ -1,3 +1,5 @@
+# Article R7123-15
+
 Pour l'application de l'article L. 7123-15 et dans le cadre du contrôle de son activité, l'agence de mannequins porte à la connaissance de chaque mannequin, de chaque utilisateur et de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu d'exercice de l'activité :
 
 1° Les modalités de facturation permettant d'identifier la part consacrée à la prestation du mannequin au sens de l'article L. 7123-2 ;

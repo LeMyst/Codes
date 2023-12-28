@@ -1,3 +1,5 @@
+# Article R4212-6
+
 Le maître d'ouvrage prévoit dans les locaux sanitaires l'introduction d'un débit minimal d'air déterminé par le tableau suivant :
 
 | DÉSIGNATION DES LOCAUX | DÉBIT MINIMALd'air introduit(en mètres cubespar heure et par local) |

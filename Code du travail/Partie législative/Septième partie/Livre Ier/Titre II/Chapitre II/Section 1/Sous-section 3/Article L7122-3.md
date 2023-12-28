@@ -1,3 +1,5 @@
+# Article L7122-3
+
 Toute personne établie sur le territoire national et qui relève d'une ou plusieurs des catégories mentionnées à l'article L. 7122-2 peut exercer une activité d'entrepreneur de spectacles vivants sous réserve de :
 
 1° Remplir les conditions énoncées à l'article L. 7122-4 ;

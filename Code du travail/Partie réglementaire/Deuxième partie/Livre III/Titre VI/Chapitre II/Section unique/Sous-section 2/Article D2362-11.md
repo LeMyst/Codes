@@ -1,3 +1,5 @@
+# Article D2362-11
+
 Lorsque aucune des personnes morales ou personnes physiques, filiales et établissements n'a de représentant ou d'élu, les membres du groupe spécial de négociation sont élus directement par les salariés.
 
 L'élection a lieu collège par collège. Elle est commune à l'ensemble des personnes morales ou personnes physiques, filiales et établissements.

@@ -1,3 +1,5 @@
+# Article R5134-162
+
 I.-Le schéma d'orientation régional définit la stratégie territoriale de mise en œuvre des emplois d'avenir, notamment :
 
 1° Les filières et secteurs d'activité prioritaires pour le déploiement des emplois d'avenir, en particulier les secteurs qui présentent un fort potentiel de création d'emplois ou offrent des perspectives de développement d'activités nouvelles, en cohérence avec les stratégies de développement économique et de développement des compétences au niveau régional ;

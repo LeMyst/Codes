@@ -1,3 +1,5 @@
+# Article L1233-71
+
 Dans les entreprises ou les établissements d'au moins mille salariés, ainsi que dans les entreprises mentionnées à l'article L. 2331-1 et celles répondant aux conditions mentionnées aux articles L. 2341-1 et L. 2341-2, dès lors qu'elles emploient au total au moins mille salariés, l'employeur propose à chaque salarié dont il envisage de prononcer le licenciement pour motif économique un congé de reclassement qui a pour objet de permettre au salarié de bénéficier d'actions de formation et des prestations d'une cellule d'accompagnement des démarches de recherche d'emploi.
 
 La durée du congé de reclassement ne peut excéder douze mois, pouvant être portés à vingt-quatre mois en cas de formation de reconversion professionnelle.

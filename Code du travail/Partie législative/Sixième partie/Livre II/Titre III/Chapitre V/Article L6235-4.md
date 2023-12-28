@@ -1,3 +1,5 @@
+# Article L6235-4
+
 I.-Le livre II de la présente partie est applicable à l'apprentissage transfrontalier.
 
 II.-Par dérogation au I, les dispositions suivantes ne sont pas applicables :

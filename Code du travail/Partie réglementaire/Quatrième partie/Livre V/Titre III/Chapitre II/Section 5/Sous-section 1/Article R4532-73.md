@@ -1,3 +1,5 @@
+# Article R4532-73
+
 Le plan particulier de sécurité tenu sur le chantier peut être consulté par :\
 1° Les membres du collège interentreprises de sécurité, de santé et des conditions de travail ;\
 2° Les membres du comité social et économique ;\

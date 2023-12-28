@@ -1,3 +1,5 @@
+# Article L6211-4
+
 Les chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat et les chambres d'agriculture exercent leurs attributions en matière d'apprentissage dans le cadre du présent livre. Elles participent à la formation professionnelle initiale ou continue, notamment grâce aux établissements publics et privés d'enseignement qu'elles créent, gèrent ou financent.
 
 Elles contribuent au développement de l'apprentissage en accomplissant les missions :

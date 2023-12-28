@@ -1,3 +1,5 @@
+# Article R4223-4
+
 Pendant la présence des travailleurs dans les lieux mentionnés à l'article R. 4223-1, les niveaux d'éclairement mesurés au plan de travail ou, à défaut, au sol, sont au moins égaux aux valeurs indiquées dans le tableau suivant :
 
 | LOCAUX AFFECTES AU TRAVAIL et leurs dépendances  | VALEURS MINIMALES d'éclairement  |

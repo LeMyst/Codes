@@ -1,3 +1,5 @@
+# Article L2312-15
+
 Le comité social et économique émet des avis et des vœux dans l'exercice de ses attributions consultatives.
 
 Il dispose à cette fin d'un délai d'examen suffisant et d'informations précises et écrites transmises ou mises à disposition par l'employeur, et de la réponse motivée de l'employeur à ses propres observations.

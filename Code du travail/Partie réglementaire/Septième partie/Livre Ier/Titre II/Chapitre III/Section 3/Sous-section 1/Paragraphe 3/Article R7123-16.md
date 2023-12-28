@@ -1,3 +1,5 @@
+# Article R7123-16
+
 Les activités ou professions dont l'exercice conjoint avec l'activité d'agences de mannequins sont susceptibles d'entraîner des situations de conflits d'intérêts sont :
 
 1° Production ou réalisation d'œuvres cinématographiques ou audiovisuelles ;

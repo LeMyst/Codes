@@ -1,3 +1,5 @@
+# Article R4642-2
+
 L'Agence nationale pour l'amélioration des conditions de travail peut se doter de directions régionales.
 
 Chaque direction régionale s'appuie sur une instance paritaire régionale qui participe, en collaboration avec le directeur régional, à la définition de ses orientations. L'instance paritaire adopte le programme régional d'action annuel en cohérence avec le programme national. Elle établit son règlement intérieur conformément aux dispositions de la charte mentionnée à l'article R. 4642-4.

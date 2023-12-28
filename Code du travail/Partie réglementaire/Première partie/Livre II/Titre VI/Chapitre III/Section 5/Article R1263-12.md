@@ -1,3 +1,5 @@
+# Article R1263-12
+
 Le maître d'ouvrage ou le donneur d'ordre qui contracte avec un employeur établi hors de France demande à son cocontractant, avant le début de chaque détachement d'un ou de plusieurs salariés, les documents suivants :
 
 a) L'accusé de réception de la déclaration de détachement effectuée sur le télé-service " SIPSI " du ministère chargé du travail, conformément aux articles R. 1263-5 et R. 1263-7 ;

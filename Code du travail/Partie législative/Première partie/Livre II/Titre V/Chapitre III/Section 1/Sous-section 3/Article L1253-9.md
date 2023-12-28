@@ -1,3 +1,5 @@
+# Article L1253-9
+
 Les contrats de travail conclus par le groupement sont établis par écrit. Ils comportent notamment :
 
 1° Les conditions d'emploi et de rémunération ;

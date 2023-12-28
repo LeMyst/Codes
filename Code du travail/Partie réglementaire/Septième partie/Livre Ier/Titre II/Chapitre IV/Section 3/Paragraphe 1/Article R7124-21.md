@@ -1,3 +1,5 @@
+# Article R7124-21
+
 La commission se réunit sur convocation de l'autorité administrative définie à l'article R. 7124-1 aussi souvent qu'il est nécessaire. Elle lui remet un avis circonstancié sur chaque demande d'autorisation individuelle ou d'agrément qui lui est soumise.
 
 Elle ne délibère valablement que lorsqu'au moins trois de ses membres, dont la personne chargée d'assurer sa présidence, se sont prononcés.

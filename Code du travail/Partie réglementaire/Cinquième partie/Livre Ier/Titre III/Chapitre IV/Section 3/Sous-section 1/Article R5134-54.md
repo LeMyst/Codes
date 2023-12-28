@@ -1,3 +1,5 @@
+# Article R5134-54
+
 En cas de non-respect par l'employeur des dispositions de la décision d'attribution de l'aide à l'insertion professionnelle, cette aide n'est pas due et les sommes versées font l'objet d'un remboursement.
 
 L'autorité attribuant l'aide informe l'employeur de son intention de procéder à la récupération de l'indu.

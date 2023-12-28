@@ -1,3 +1,5 @@
+# Article R7345-10
+
 Le directeur général dirige l'établissement dans le cadre des orientations définies par le conseil d'administration.
 
 Outre celles qui lui ont été déléguées par le conseil d'administration, le directeur général exerce, notamment, les responsabilités suivantes :

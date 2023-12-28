@@ -1,3 +1,5 @@
+# Article L8224-5
+
 Les personnes morales reconnues pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, des infractions prévues par les articles L. 8224-1 et L. 8224-2 encourent :
 
 1° L'amende, dans les conditions prévues à l'article 131-38 du code pénal ;

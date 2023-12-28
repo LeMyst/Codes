@@ -1,3 +1,5 @@
+# Article R4462-6
+
 L'employeur établit une consigne générale de sécurité qui définit les règles générales d'accès et de sécurité dans les enceintes pyrotechniques et qui comporte :
 
 1° L'interdiction de porter tout article de fumeurs ainsi que l'interdiction, sauf autorisation délivrée par l'employeur, de porter des feux nus, des objets incandescents, des allumettes ou tout autre moyen de mise à feu ;

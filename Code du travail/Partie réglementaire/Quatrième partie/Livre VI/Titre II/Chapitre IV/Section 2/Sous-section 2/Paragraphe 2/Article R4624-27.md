@@ -1,3 +1,5 @@
+# Article R4624-27
+
 Lorsque le travailleur a bénéficié d'une visite médicale d'aptitude dans les deux ans précédant son embauche, l'organisation d'un nouvel examen médical d'aptitude n'est pas requise dès lors que l'ensemble des conditions suivantes sont réunies :
 
 1° Le travailleur est appelé à occuper un emploi identique présentant des risques d'exposition équivalents ;

@@ -1,3 +1,5 @@
+# Article R4624-31
+
 Le travailleur bénéficie d'un examen de reprise du travail par le médecin du travail :
 
 1° Après un congé de maternité ;

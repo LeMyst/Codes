@@ -1,3 +1,5 @@
+# Article L7331-2
+
 Est entrepreneur salarié d'une coopérative d'activité et d'emploi toute personne physique qui :
 
 1° Crée et développe une activité économique en bénéficiant d'un accompagnement individualisé et de services mutualisés mis en œuvre par la coopérative en vue d'en devenir associé ;

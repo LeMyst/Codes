@@ -1,3 +1,5 @@
+# Article R4532-26
+
 Est réputée compétente, pour exercer la fonction de coordonnateur durant la phase de réalisation de l'ouvrage la personne physique qui justifie à la fois :
 
 1° D'une expérience professionnelle en matière de contrôle des travaux, d'ordonnancement, de pilotage et de conduite des travaux ou de maîtrise de chantier ou en tant que coordonnateur ou agent en matière de sécurité, ou, pour les compétences de niveau 2 ou 3, d'un diplôme dans les conditions suivantes :

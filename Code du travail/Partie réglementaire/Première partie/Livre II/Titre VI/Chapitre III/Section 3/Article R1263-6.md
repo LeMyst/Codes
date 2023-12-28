@@ -1,3 +1,5 @@
+# Article R1263-6
+
 Les entreprises de travail temporaire qui détachent un salarié sur le territoire français, dans les conditions prévues à l'article L. 1262-2, adressent une déclaration comportant les mentions suivantes :
 
 1° Le nom ou la raison sociale et les adresses postale et électronique, les coordonnées téléphoniques de l'entreprise de travail temporaire, la forme juridique de l'entreprise, son numéro individuel d'identification fiscale au titre de l'assujettissement à la taxe sur la valeur ajoutée ou, à défaut de détenir un tel numéro, les références de son immatriculation à un registre professionnel ou toutes autres références équivalentes, l'identité du ou des dirigeants ;

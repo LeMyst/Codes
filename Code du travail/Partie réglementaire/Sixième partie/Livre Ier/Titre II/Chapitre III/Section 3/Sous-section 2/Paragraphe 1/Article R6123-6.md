@@ -1,3 +1,5 @@
+# Article R6123-6
+
 Le conseil d'administration comprend quinze membres nommés par arrêté du ministre chargé de la formation professionnelle selon la répartition suivante :
 
 1° Un collège composé de trois représentants de l'Etat disposant de quarante-cinq voix, désignés selon la répartition suivante :

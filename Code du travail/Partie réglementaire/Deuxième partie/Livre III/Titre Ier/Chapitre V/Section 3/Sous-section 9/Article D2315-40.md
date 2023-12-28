@@ -1,3 +1,5 @@
+# Article D2315-40
+
 Pour la consolidation, la certification et l'intervention d'un expert-comptable prévues respectivement aux articles L. 2315-67, L. 2315-73 et L. 2315-76, les seuils sont ainsi fixés :
 
 |  | SEUILS  |

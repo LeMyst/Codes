@@ -1,3 +1,5 @@
+# Article R6331-65
+
 Les ressources reçues au titre de l'article L. 6331-65 peuvent être également destinées :
 
 1° Au financement des frais de fonctionnement liés aux actions de formation mentionnées à l'article L. 6313-1 et des frais de transport et d'hébergement afférents des stagiaires ;

@@ -1,3 +1,5 @@
+# Article L2314-3
+
 I.-Assistent avec voix consultative aux réunions prévues aux premier et deuxième alinéas de l'article L. 2315-27 sur les points de l'ordre du jour relatifs aux questions relatives à la santé, à la sécurité et aux conditions de travail et, le cas échéant, aux réunions de la commission santé, sécurité et conditions de travail :
 
 1° Le médecin du travail, qui peut donner délégation à un membre de l'équipe pluridisciplinaire du service de prévention et de santé au travail ayant compétence en matière de santé au travail ou de conditions de travail ;

@@ -1,3 +1,5 @@
+# Article R2312-2
+
 Les enquêtes du comité social et économique ou, le cas échéant, de la commission santé, sécurité et conditions de travail en cas d'accidents du travail ou de maladies professionnelles ou à caractère professionnel sont réalisées par une délégation comprenant au moins :
 
 1° L'employeur ou un représentant désigné par lui ;

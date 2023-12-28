@@ -1,3 +1,5 @@
+# Article D8223-2
+
 La réponse à la demande du salarié lui est adressée dans les trente jours qui suivent la réception de sa demande.\
 Elle contient les informations relatives à :\
 1° L'existence ou non d'une déclaration préalable à l'embauche le concernant, correspondant à la date d'embauche et à la période d'emploi mentionnées dans sa demande ;\

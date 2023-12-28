@@ -1,3 +1,5 @@
+# Article D5213-90
+
 I.-La personne morale gestionnaire chargée de mettre en œuvre le dispositif d'emploi accompagné respecte un cahier des charges défini, pour chaque personne gestionnaire, par l'agence régionale de santé, conjointement avec la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, après consultation du Fonds de développement pour l'insertion professionnelle des handicapés mentionné à l'article L. 5214-1 et du Fonds d'insertion des personnes handicapées dans la fonction publique.
 
 II.-Le cahier des charges comprend notamment :

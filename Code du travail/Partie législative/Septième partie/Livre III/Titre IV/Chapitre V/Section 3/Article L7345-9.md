@@ -1,3 +1,5 @@
+# Article L7345-9
+
 Un différend ne peut être soumis à l'Autorité des relations sociales des plateformes d'emploi lorsque :
 
 1° Le représentant mentionné à l'article L. 7343-7 ou la plateforme ne justifie de l'existence d'une tentative préalable de résolution du litige directement auprès de la partie adverse par une réclamation écrite ou selon les modalités prévues le cas échéant dans le contrat ;

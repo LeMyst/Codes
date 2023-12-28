@@ -1,3 +1,5 @@
+# Article R2122-14
+
 Les destinataires des données à caractère personnel collectées sont :
 
 1° Pour l'ensemble des informations mentionnées à l'article R. 2122-12 y compris le numéro d'inscription au répertoire national d'identification des personnes physiques aux fins de détection d'inscriptions multiples : les agents des prestataires en charge de l'élaboration de la liste électorale agissant pour le compte du ministre chargé du travail ;

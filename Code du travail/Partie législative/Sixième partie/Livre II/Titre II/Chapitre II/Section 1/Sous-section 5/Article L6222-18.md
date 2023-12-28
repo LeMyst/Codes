@@ -1,3 +1,5 @@
+# Article L6222-18
+
 Le contrat d'apprentissage peut être rompu par l'une ou l'autre des parties jusqu'à l'échéance des quarante-cinq premiers jours, consécutifs ou non, de formation pratique en entreprise effectuée par l'apprenti.
 
 Passé ce délai, le contrat peut être rompu par accord écrit signé des deux parties.

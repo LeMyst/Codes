@@ -1,3 +1,5 @@
+# Article L8271-9
+
 Pour la recherche et la constatation des infractions aux interdictions du travail dissimulé, les agents de contrôle peuvent se faire présenter et obtenir copie immédiate des documents suivants, quels que soient leur forme et leur support :
 
 1° Les documents justifiant que l'immatriculation, les déclarations et les formalités mentionnées aux articles L. 8221-3 et L. 8221-5 ont été effectuées ainsi que ceux relatifs à l'autorisation d'exercice de la profession ou à l'agrément lorsqu'une disposition particulière l'a prévu ;

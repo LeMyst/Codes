@@ -1,3 +1,5 @@
+# Article D7342-11
+
 I.-Toute modification de la charte est transmise par la plateforme de mise en relation par voie électronique à la direction générale du travail dans les conditions fixées à l'article D. 7342-7.
 
 II.-Il appartient à la plateforme de mise en relation par voie électronique de demander l'homologation de la charte modifiée en saisissant le directeur général du travail dans les conditions fixées à l'article D. 7342-8.

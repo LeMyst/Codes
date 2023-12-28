@@ -1,3 +1,5 @@
+# Article R5132-1-7
+
 I.-L'éligibilité d'une personne à un parcours est appréciée en fonction de ses difficultés sociales et professionnelles ainsi que de son besoin d'un accompagnement renforcé.
 
 II.-Une personne peut être déclarée éligible par une structure d'insertion par l'activité économique lorsqu'elle répond à l'un des critères suivants :

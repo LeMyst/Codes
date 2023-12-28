@@ -1,3 +1,5 @@
+# Article R4624-42
+
 Le médecin du travail ne peut constater l'inaptitude médicale du travailleur à son poste de travail que :
 
 1° S'il a réalisé au moins un examen médical de l'intéressé, accompagné, le cas échéant, des examens complémentaires, permettant un échange sur les mesures d'aménagement, d'adaptation ou de mutation de poste ou la nécessité de proposer un changement de poste ;

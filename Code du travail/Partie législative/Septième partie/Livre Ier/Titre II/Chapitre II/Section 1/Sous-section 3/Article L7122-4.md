@@ -1,3 +1,5 @@
+# Article L7122-4
+
 I.-Lorsque l'activité d'entrepreneur de spectacles vivants est exercée par une personne physique, celle-ci est tenue de remplir des conditions de compétence ou d'expérience professionnelle.
 
 Lorsque l'activité d'entrepreneur de spectacles vivants est exercée par une personne morale, le représentant légal ou toute autre personne désignée par la structure est tenu de remplir des conditions de compétence ou d'expérience professionnelle.

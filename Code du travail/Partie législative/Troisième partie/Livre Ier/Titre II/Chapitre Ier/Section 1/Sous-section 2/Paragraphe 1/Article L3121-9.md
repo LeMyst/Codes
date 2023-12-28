@@ -1,3 +1,5 @@
+# Article L3121-9
+
 Une période d'astreinte s'entend comme une période pendant laquelle le salarié, sans être sur son lieu de travail et sans être à la disposition permanente et immédiate de l'employeur, doit être en mesure d'intervenir pour accomplir un travail au service de l'entreprise.
 
 La durée de cette intervention est considérée comme un temps de travail effectif.

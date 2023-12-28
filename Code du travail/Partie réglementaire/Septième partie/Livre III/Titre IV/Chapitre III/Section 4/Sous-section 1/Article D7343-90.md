@@ -1,3 +1,5 @@
+# Article D7343-90
+
 I.-Les accords collectifs de secteur sont déposés par la partie la plus diligente auprès des services de l'Autorité des relations sociales des plateformes d'emploi.
 
 Le dépôt est opéré en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique.

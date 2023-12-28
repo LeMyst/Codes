@@ -1,3 +1,5 @@
+# Article R4626-25
+
 Le médecin du travail veille, sous la responsabilité du chef d'établissement, à l'application des dispositions du code de la santé publique sur les vaccinations obligatoires.
 
 Il procède lui-même ou fait procéder à ces vaccinations ainsi qu'à celles qui seraient imposées par une épidémie. Les agents peuvent les faire pratiquer par le médecin de leur choix. Ils fournissent un certificat détaillé.

@@ -1,3 +1,5 @@
+# Article R4523-9
+
 Dans les quinze jours suivant la consultation du comité social et économique, le chef d'établissement de l'entreprise utilisatrice :
 
 1° Communique aux chefs des entreprises extérieures figurant sur la liste mentionnée à l'article R. 4523-7 l'avis du comité social et économique prévu à l'article R. 4523-8 et les consulte avant d'arrêter la liste des entreprises extérieures appelées à désigner une représentation de leur direction ;

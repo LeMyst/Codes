@@ -1,3 +1,5 @@
+# Article L2312-57
+
 A défaut d'accord, un mois après chaque élection du comité social et économique, l'employeur lui communique une documentation économique et financière précisant :
 
 1° La forme juridique de l'entreprise et son organisation ;

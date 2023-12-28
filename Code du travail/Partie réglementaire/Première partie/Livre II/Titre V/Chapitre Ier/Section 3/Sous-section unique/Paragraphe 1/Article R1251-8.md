@@ -1,3 +1,5 @@
+# Article R1251-8
+
 Le relevé des contrats de mission est conforme à un modèle fixé par arrêté du ministre chargé du travail.\
 Le relevé comporte pour chaque entreprise utilisatrice :\
 1° La raison sociale de l'entreprise, l'adresse et l'activité principale de l'établissement pour lequel travaille le salarié, l'adresse du lieu d'exécution de la mission si celle-ci diffère de l'adresse de l'établissement ainsi que, à titre facultatif, le numéro Siret ou, à défaut, le numéro Siren ;\

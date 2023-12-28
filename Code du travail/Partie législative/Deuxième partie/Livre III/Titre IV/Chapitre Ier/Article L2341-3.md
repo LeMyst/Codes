@@ -1,3 +1,5 @@
+# Article L2341-3
+
 Les dispositions du présent titre s'appliquent :
 
 1° A l'entreprise ou au groupe d'entreprises de dimension communautaire dont le siège social ou celui de l'entreprise dominante est situé en France ;

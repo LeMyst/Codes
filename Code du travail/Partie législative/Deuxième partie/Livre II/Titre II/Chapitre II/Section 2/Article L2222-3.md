@@ -1,3 +1,5 @@
+# Article L2222-3
+
 Dans les conditions prévues au titre IV du livre II de la deuxième partie du présent code, la convention ou l'accord collectif de travail définit :
 
 1° Le calendrier des négociations ;

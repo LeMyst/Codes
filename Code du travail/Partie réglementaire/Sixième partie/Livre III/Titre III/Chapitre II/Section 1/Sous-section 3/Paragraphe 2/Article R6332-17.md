@@ -1,3 +1,5 @@
+# Article R6332-17
+
 I.-Les frais de gestion mentionnés au 9° de l'article L. 6332-6 des opérateurs de compétences sont constitués par :
 
 1° Les frais de gestion administrative relatifs à l'instruction et au suivi des dossiers de formation ;

@@ -1,3 +1,5 @@
+# Article R7123-5
+
 Par dérogation aux dispositions des sous-sections 1 et 2 de la section 2 du chapitre IV du titre II du livre VI de la quatrième partie du présent code, la visite d'information et de prévention ou l'examen médical d'embauche demeure valable un an pour les contrats conclus par le mannequin auprès de la même agence de mannequins ou six mois pour les contrats conclus avec plusieurs agences de mannequins lorsque les conditions suivantes sont réunies :
 
 1° Le mannequin est appelé à occuper un emploi identique ;

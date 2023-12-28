@@ -1,3 +1,5 @@
+# Article R8122-9
+
 Afin d'opérer un contrôle sectoriel ou thématique, de prévenir un risque particulier ou d'assurer le renfort des agents des unités de contrôle, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi peut :
 
 1° Soit désigner au sein des unités de contrôle des agents disposant de compétences particulières pour assurer dans la région un appui aux unités de contrôle infra-départementales, départementales ou interdépartementales ou de mener une action régionale ;

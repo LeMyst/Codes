@@ -1,3 +1,5 @@
+# Article R4523-11
+
 Les représentants des salariés des entreprises extérieures sont désignés parmi ceux qui sont intervenus régulièrement, sur ou à proximité de l'installation de l'entreprise utilisatrice, durant les douze derniers mois ou parmi ceux qui sont appelés à y intervenir régulièrement durant les douze prochains mois.
 
 Ils sont désignés par le comité social et économique constitué dans leur établissement.

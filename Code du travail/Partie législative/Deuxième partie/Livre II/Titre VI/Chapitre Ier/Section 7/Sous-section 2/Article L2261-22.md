@@ -1,3 +1,5 @@
+# Article L2261-22
+
 I.-Pour pouvoir être étendue, la convention de branche conclue au niveau national contient des clauses portant sur la détermination des règles de négociation et de conclusion, prévues aux articles :
 
 1° L. 2222-1 et L. 2222-2, relatifs au champ d'application territorial et professionnel ;

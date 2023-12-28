@@ -1,3 +1,5 @@
+# Article R6316-9
+
 I.-Un prestataire d'actions mentionnées à l'article L. 6313-1 qui dispense pour la première fois une action de formation par apprentissage peut, pendant un délai de six mois à compter de la signature de la première convention de formation par apprentissage ou, pour les centres de formation d'apprentis d'entreprise, du premier contrat d'apprentissage, être financé par l'un des organismes mentionnés à l'article L. 6316-1 pour une action de formation par apprentissage sans détenir la certification pour cette catégorie d'actions, sous réserve qu'il s'engage à transmettre à l'organisme concerné, dans un délai de deux mois, la copie du contrat conclu avec l'organisme ou l'instance mentionné à l'article R. 6316-2 en vue de l'obtention de cette certification.
 
 A défaut de transmission de cette pièce dans le délai de deux mois, le prestataire ne peut obtenir de prise en charge financière de nouvelles actions de formation par apprentissage.

@@ -1,3 +1,5 @@
+# Article D5121-8
+
 L'entreprise précise dans sa demande, adressée à l'autorité administrative compétente, les motifs de sa démarche de gestion prévisionnelle au regard, notamment :\
 1° De son organisation du travail ;\
 2° De l'évolution des compétences des salariés et du maintien de leur emploi ;\

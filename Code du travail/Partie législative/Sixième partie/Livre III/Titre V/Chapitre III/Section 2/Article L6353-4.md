@@ -1,3 +1,5 @@
+# Article L6353-4
+
 Le contrat conclu entre la personne physique qui entreprend une formation et le dispensateur de formation précise, à peine de nullité :
 
 1° La nature, la durée, le programme et l'objet des actions de formation qu'il prévoit ainsi que les effectifs qu'elles concernent ;

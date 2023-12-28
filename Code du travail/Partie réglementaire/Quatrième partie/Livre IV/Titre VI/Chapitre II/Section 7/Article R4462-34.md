@@ -1,3 +1,5 @@
+# Article R4462-34
+
 L'employeur établit un dossier de sécurité qu'il tient constamment à jour en l'enrichissant sur la base des enseignements tirés des événements pyrotechniques et de toute observation ou information pouvant intéresser la sécurité. Ce dossier comprend :
 
 1° Les études de sécurité prescrites à l'article R. 4462-3 auxquelles sont joints les résultats des essais qui ont été nécessaires à leur établissement ;

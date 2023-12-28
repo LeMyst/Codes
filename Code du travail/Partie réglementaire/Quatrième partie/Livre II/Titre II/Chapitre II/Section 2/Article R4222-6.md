@@ -1,3 +1,5 @@
+# Article R4222-6
+
 Lorsque l'aération est assurée par ventilation mécanique, le débit minimal d'air neuf à introduire par occupant est fixé dans le tableau suivant :
 
 | DESIGNATION DES LOCAUX | DEBIT MINIMALd'air neuf par occupant(en mètres cubes par heures) |

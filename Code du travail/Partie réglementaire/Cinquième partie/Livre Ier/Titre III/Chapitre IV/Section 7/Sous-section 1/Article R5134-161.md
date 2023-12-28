@@ -1,3 +1,5 @@
+# Article R5134-161
+
 Peuvent être recrutés en emploi d'avenir les jeunes sans emploi de seize à vingt-cinq ans et les personnes handicapées de moins de trente ans sans emploi, à la date de la signature du contrat, qui :
 
 1° Soit ne détiennent aucun diplôme du système de formation initiale ;

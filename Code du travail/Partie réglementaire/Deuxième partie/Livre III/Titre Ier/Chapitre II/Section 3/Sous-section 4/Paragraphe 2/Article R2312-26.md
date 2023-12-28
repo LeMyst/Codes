@@ -1,3 +1,5 @@
+# Article R2312-26
+
 Le comité social et économique émet un avis :
 
 1° Sur le plan d'opération interne prévu au cinquième alinéa de l'article R. 181-54 du code de l'environnement ;

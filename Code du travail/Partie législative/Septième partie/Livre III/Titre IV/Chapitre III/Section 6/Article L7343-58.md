@@ -1,3 +1,5 @@
+# Article L7343-58
+
 La ou les organisations professionnelles de plateformes concernées, si elles ne sont pas à l'origine de la demande d'expertise, fournissent à l'expert les informations nécessaires à la réalisation de sa mission.
 
 Le secret des affaires n'est, dans cette mesure, pas opposable à l'expert.

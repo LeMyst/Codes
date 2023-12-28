@@ -1,3 +1,5 @@
+# Article L1254-29
+
 Pour calculer les effectifs d'une entreprise de portage salarial, il est tenu compte :
 
 1° Des salariés permanents fonctionnels de cette entreprise déterminés conformément à l'article L. 1111-2 ;

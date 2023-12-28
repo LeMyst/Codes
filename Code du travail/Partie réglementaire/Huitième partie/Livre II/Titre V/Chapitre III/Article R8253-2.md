@@ -1,3 +1,5 @@
+# Article R8253-2
+
 I.-Le montant de la contribution spéciale prévue à l'article L. 8253-1 est égal à 5 000 fois le taux horaire, à la date de la constatation de l'infraction, du minimum garanti prévu à l'article L. 3231-12.
 
 II.-Ce montant est réduit à 2 000 fois le taux horaire du minimum garanti dans l'un ou l'autre des cas suivants :

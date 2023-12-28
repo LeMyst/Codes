@@ -1,3 +1,5 @@
+# Article R4532-44
+
 Le plan général de coordination est joint aux autres documents remis par le maître d'ouvrage aux entrepreneurs qui envisagent de contracter. Il énonce notamment :\
 1° Les renseignements d'ordre administratif intéressant le chantier, et notamment ceux complétant la déclaration préalable ;\
 2° Les mesures d'organisation générale du chantier arrêtées par le maître d'œuvre en concertation avec le coordonnateur ;\

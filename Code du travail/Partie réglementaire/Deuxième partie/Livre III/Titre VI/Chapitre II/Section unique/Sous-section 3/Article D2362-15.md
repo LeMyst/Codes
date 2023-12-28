@@ -1,3 +1,5 @@
+# Article D2362-15
+
 Les membres du groupe spécial de négociation sont tenus informés :
 
 1° Du mode de constitution de la société coopérative européenne et des effets de celui-ci pour les personnes morales et personnes physiques participantes ainsi que pour leurs filiales et établissements ;

@@ -1,3 +1,5 @@
+# Article R2344-1
+
 Le nombre de sièges au groupe spécial de négociation et au comité d'entreprise européen institué en l'absence d'accord pour chacun des Etats mentionnés à l'article L. 2341-1 est fixé selon les règles suivantes :
 
 1° Jusqu'à 10 % de l'effectif total : 1 siège ;

@@ -1,3 +1,5 @@
+# Article R4534-139
+
 L'employeur met à la disposition des travailleurs un local-vestiaire :\
 1° Convenablement aéré et éclairé, et suffisamment chauffé ;\
 2° Nettoyé au moins une fois par jour et tenu en état constant de propreté ;\

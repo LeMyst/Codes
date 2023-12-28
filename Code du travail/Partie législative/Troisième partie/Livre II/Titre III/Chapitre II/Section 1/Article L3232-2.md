@@ -1,3 +1,5 @@
+# Article L3232-2
+
 Le gouvernement présente chaque année, en annexe au projet de loi de finances, un rapport sur l'application du présent chapitre indiquant notamment :
 
 1° Le nombre de salariés bénéficiaires de l'allocation complémentaire établie par l'article L. 3232-5 ;

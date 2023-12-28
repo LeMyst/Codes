@@ -1,3 +1,5 @@
+# Article R5122-1
+
 L'employeur peut placer ses salariés en position d'activité partielle lorsque l'entreprise est contrainte de réduire ou de suspendre temporairement son activité pour l'un des motifs suivants :
 
 1° La conjoncture économique ;\

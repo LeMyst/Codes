@@ -1,3 +1,5 @@
+# Article R6113-17-3
+
 Lorsqu'il constate un manquement à l'obligation de transmission des informations prévue à l'article R. 6113-17-1, le directeur général de la Caisse des dépôts et consignations notifie au ministère ou à l'organisme certificateur, par tout moyen donnant date certaine à sa réception, une mise en demeure indiquant le délai dont il dispose pour se mettre en conformité avec ses obligations, lequel ne peut être inférieur à soixante jours à compter de la date de notification de la mise en demeure. Le directeur général informe le ministère ou l'organisme certificateur qu'il peut présenter des observations écrites et demander à être entendu.
 
 En l'absence de mise en conformité dans le délai imparti, le directeur général de la Caisse des dépôts et consignations en informe le directeur général de France compétences en lui transmettant, le cas échéant, les observations écrites ou le procès-verbal d'audition du ministère ou de l'organisme certificateur. Le directeur général de France compétences peut, selon la nature et la gravité du manquement, notifier au ministère ou à l'organisme certificateur :

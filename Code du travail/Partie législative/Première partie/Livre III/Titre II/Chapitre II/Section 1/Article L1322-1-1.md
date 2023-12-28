@@ -1,3 +1,5 @@
+# Article L1322-1-1
+
 L'inspecteur du travail se prononce de manière explicite sur toute demande d'appréciation de la conformité de tout ou partie d'un règlement intérieur aux dispositions des articles L. 1321-1 à L. 1321-3 et L. 1321-6 formulée par un employeur.
 
 La demande mentionnée au premier alinéa n'est pas recevable dès lors que l'autorité administrative s'est déjà prononcée par une décision expresse en application de l'article L. 1322-2.

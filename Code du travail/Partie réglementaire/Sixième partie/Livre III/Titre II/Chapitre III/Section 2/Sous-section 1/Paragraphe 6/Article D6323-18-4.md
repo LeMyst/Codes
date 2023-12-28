@@ -1,3 +1,5 @@
+# Article D6323-18-4
+
 I.-Lorsque le salaire moyen de référence du salarié est inférieur ou égal à deux fois le salaire minimum de croissance, la rémunération perçue au titre du projet de transition professionnelle est égale à 100 % du salaire moyen de référence.
 
 II.-Lorsque le salaire moyen de référence du salarié est supérieur à deux fois le salaire minimum de croissance, la rémunération est égale à :

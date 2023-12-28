@@ -1,3 +1,5 @@
+# Article R5315-9
+
 L'établissement public est soumis :
 
 1° En matière de gestion financière et comptable, aux règles applicables aux entreprises industrielles et commerciales ;

@@ -1,3 +1,5 @@
+# Article L4111-1
+
 Sous réserve des exceptions prévues à l'article L. 4111-4, les dispositions de la présente partie sont applicables aux employeurs de droit privé ainsi qu'aux travailleurs.
 
 Elles sont également applicables :

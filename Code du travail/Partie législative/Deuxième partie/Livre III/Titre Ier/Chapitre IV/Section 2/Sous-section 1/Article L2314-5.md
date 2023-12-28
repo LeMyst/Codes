@@ -1,3 +1,5 @@
+# Article L2314-5
+
 Sont informées, par tout moyen, de l'organisation des élections et invitées à négocier le protocole d'accord préélectoral et à établir les listes de leurs candidats aux fonctions de membre de la délégation du personnel les organisations syndicales qui satisfont aux critères de respect des valeurs républicaines et d'indépendance, légalement constituées depuis au moins deux ans et dont le champ professionnel et géographique couvre l'entreprise ou l'établissement concernés.
 
 Les organisations syndicales reconnues représentatives dans l'entreprise ou l'établissement, celles ayant constitué une section syndicale dans l'entreprise ou l'établissement, ainsi que les syndicats affiliés à une organisation syndicale représentative au niveau national et interprofessionnel y sont également invités par courrier.

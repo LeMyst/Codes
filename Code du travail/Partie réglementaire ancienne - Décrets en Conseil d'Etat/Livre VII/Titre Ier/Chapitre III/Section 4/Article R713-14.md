@@ -1,3 +1,5 @@
+# Article R713-14
+
 Lorsqu'il existe un comité central d'entreprise, les membres titulaires et suppléants sont élus, pour chacun des collèges, par l'ensemble des membres titulaires des comités d'établissement, sur des listes présentées par les organisations syndicales représentatives au niveau de l'entreprise et composées de membres titulaires ou suppléants des comités d'établissement.
 
 Dans les entreprises disposant de services communs en application de l'article 5 de la loi du 8 avril 1946, un nombre de sièges qui tient compte de l'importance de l'effectif de ces services rapporté à l'effectif total de l'entreprise doit être réservé à des représentants de ces services communs au sein de chacun des comités centraux desdites entreprises. Les membres titulaires des comités d'établissement des services communs sont électeurs pour chaque comité central d'entreprise.

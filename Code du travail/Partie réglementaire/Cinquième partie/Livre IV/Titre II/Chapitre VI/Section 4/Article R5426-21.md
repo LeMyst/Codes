@@ -1,3 +1,5 @@
+# Article R5426-21
+
 La contrainte est notifiée au débiteur par lettre recommandée avec demande d'avis de réception ou lui est signifiée par acte d'huissier de justice. A peine de nullité, l'acte d'huissier ou la lettre recommandée mentionne :
 
 1° La référence de la contrainte ;

@@ -1,3 +1,5 @@
+# Article L3132-25-2
+
 I.-La demande de délimitation ou de modification des zones définies aux articles L. 3132-25 et L. 3132-25-1 est faite par le maire ou, après consultation des maires concernés, par le président de l'établissement public de coopération intercommunale à fiscalité propre, lorsque celui-ci existe et que le périmètre de la zone concernée excède le territoire d'une seule commune.
 
 La demande de délimitation ou de modification de ces zones est transmise au représentant de l'Etat dans la région. Elle est motivée et comporte une étude d'impact justifiant notamment l'opportunité de la création ou de la modification de la zone.

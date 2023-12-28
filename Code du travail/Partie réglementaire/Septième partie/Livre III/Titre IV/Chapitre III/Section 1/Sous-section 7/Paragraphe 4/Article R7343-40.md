@@ -1,3 +1,5 @@
+# Article R7343-40
+
 I.-Le bureau de vote est chargé du contrôle de l'ensemble des opérations électorales, du dépouillement du scrutin et de la proclamation des résultats. Il s'assure notamment, pour chaque scrutin :
 
 1° De la mise en œuvre des dispositifs de sécurité prévus pour garantir le secret du vote et son intégrité ;

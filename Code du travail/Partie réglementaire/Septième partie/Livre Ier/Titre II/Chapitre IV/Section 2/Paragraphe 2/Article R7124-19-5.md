@@ -1,3 +1,5 @@
+# Article R7124-19-5
+
 La durée de la suspension de l'agrément ne peut excéder un mois. Dans ce délai, la commission, saisie par l'autorité administrative définie à l'article R. 7124-1, propose à cette dernière, après que l'employeur concerné a été mis en mesure de présenter ses observations :
 
 1° Soit le retrait de l'agrément ;

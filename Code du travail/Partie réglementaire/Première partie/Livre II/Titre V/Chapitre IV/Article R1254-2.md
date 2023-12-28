@@ -1,3 +1,5 @@
+# Article R1254-2
+
 A l'exception des articles R. 1251-12, R. 1251-18 et R. 1251-25 à R. 1251-29, les modalités de constitution et de mise en œuvre de la garantie financière prévues au paragraphe 2 de la sous-section unique de la section 3 du chapitre Ier du titre V du livre II de la première partie du code du travail (partie réglementaire) sont applicables aux entreprises de portage salarial avec les adaptations suivantes :
 
 1° Les mots : " entrepreneur de travail temporaire " et " entreprise de travail temporaire " sont remplacés par les mots : " entreprise de portage salarial " ;

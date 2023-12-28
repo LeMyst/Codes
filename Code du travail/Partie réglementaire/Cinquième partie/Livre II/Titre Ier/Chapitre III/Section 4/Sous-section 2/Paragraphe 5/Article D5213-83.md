@@ -1,3 +1,5 @@
+# Article D5213-83
+
 Les contrats de mise à disposition auprès d'un même employeur sont conclus pour une durée maximale d'un an, renouvelable une fois.
 
 A titre exceptionnel, cette durée peut être prolongée d'un an avec l'accord du salarié, lorsque des difficultés particulièrement importantes liées à la situation de handicap du salarié ont fait obstacle à la réalisation de la mise à disposition.

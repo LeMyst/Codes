@@ -1,3 +1,5 @@
+# Article L7122-16
+
 I.-Lorsqu'il est constaté qu'une personne, physique ou morale, exerce l'activité d'entrepreneurs de spectacles vivants sans être détentrice du récépissé de déclaration d'activité valide mentionné à l'article L. 7122-3, ou qu'elle n'a pas satisfait aux obligations prévues au troisième alinéa du I de l'article L. 7122-4, ou au 1° ou au 2° de l'article L. 7122-6, ou qu'elle n'est pas titulaire d'un titre d'effet équivalent visé à l'article L. 7122-5, l'autorité administrative compétente informe par écrit la personne mise en cause de la sanction envisagée en portant à sa connaissance le manquement retenu à son encontre et en l'invitant à présenter ses observations, dans un délai fixé par voie réglementaire.
 
 II.-A l'issue de ce délai, l'autorité administrative compétente peut, par décision motivée :

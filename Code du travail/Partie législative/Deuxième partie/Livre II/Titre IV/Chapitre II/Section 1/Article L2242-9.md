@@ -1,3 +1,5 @@
+# Article L2242-9
+
 L'autorité administrative se prononce sur toute demande d'appréciation de la conformité d'un accord ou d'un plan d'action aux dispositions de l'article L. 2242-8 formulée par un employeur.
 
 Le silence gardé par l'autorité administrative, à l'issue d'un délai fixé par décret en Conseil d'Etat, vaut rejet de cette demande.

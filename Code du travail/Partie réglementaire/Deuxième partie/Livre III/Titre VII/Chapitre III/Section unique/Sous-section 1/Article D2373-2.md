@@ -1,3 +1,5 @@
+# Article D2373-2
+
 Les membres du comité de la société issue de l'opération transfrontalière sont :
 
 1° Soit désignés selon les modalités définies aux articles D. 2372-6 à D. 2372-9 ;

@@ -1,3 +1,5 @@
+# Article R5141-7
+
 Peuvent être admis au bénéfice des exonérations de cotisations et des droits à prestation prévus aux articles L. 161-1-1 et L. 161-24 du code de la sécurité sociale :
 
 1° Les personnes privées d'emploi percevant l'allocation d'assurance chômage mentionnée à l'article L. 5422-1 et l'allocation de solidarité spécifique de l'article L. 5423-1 ;

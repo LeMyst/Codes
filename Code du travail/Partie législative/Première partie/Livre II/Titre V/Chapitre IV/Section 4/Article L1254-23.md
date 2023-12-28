@@ -1,3 +1,5 @@
+# Article L1254-23
+
 Le contrat conclu par écrit comporte les clauses et mentions suivantes :
 
 1° L'identité du salarié porté ;

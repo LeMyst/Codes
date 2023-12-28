@@ -1,3 +1,5 @@
+# Article L2312-54
+
 La ou les personnes désignées par le comité social et économique, selon les dispositions de l'article L. 661-10 du code de commerce, sont entendues par la juridiction compétente :
 
 1° Lors d'une procédure de sauvegarde dans les situations prévues aux articles L. 621-1, L. 622-10, L. 626-9 et L. 626-26 du code de commerce ;

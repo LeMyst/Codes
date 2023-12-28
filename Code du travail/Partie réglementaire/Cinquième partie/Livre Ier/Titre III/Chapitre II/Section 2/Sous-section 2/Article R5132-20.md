@@ -1,3 +1,5 @@
+# Article R5132-20
+
 Un contrat est établi par écrit entre l'association intermédiaire et la personne, dite l'utilisateur, à la disposition de laquelle elle met un ou plusieurs salariés.\
 Le contrat comporte notamment :\
 1° Le nom des salariés mis à disposition ;\

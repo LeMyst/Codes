@@ -1,3 +1,5 @@
+# Article L5135-2
+
 Les périodes de mise en situation en milieu professionnel sont ouvertes à toute personne faisant l'objet d'un accompagnement social ou professionnel personnalisé, sous réserve d'être prescrites par l'un des organismes suivants :
 
 1° L'institution mentionnée à l'article L. 5312-1 ;

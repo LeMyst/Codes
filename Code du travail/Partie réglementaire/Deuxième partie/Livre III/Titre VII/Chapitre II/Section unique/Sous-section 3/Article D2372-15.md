@@ -1,3 +1,5 @@
+# Article D2372-15
+
 Les membres du groupe spécial de négociation sont tenus informés :
 
 1° Du mode de constitution de la société issue de l'opération transfrontalière et des effets de celui-ci pour les sociétés participantes ainsi que pour leurs filiales et établissements ;

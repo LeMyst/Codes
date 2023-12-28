@@ -1,3 +1,5 @@
+# Article D4622-14
+
 Les entreprises et établissements qui ne relèvent pas d'un service autonome de prévention et de santé au travail en application de la section 2 organisent ou adhèrent à un service de prévention et de santé au travail interentreprises.
 
 Toutefois, une entreprise ou un établissement, quel que soit son effectif, peut faire suivre ses salariés par un service de prévention et de santé au travail d'entreprise dans les cas suivants :

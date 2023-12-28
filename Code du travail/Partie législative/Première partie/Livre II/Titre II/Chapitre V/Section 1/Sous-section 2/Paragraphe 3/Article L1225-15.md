@@ -1,3 +1,5 @@
+# Article L1225-15
+
 Les dispositions du présent paragraphe ne font pas obstacle à l'application des articles :
 
 1° L. 1225-4, relatif à la protection contre la rupture du contrat de travail d'une salariée en état de grossesse médicalement constaté ;

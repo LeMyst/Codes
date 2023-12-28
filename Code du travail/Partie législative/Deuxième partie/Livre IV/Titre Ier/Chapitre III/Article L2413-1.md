@@ -1,3 +1,5 @@
+# Article L2413-1
+
 L'interruption ou la notification du non-renouvellement de la mission d'un salarié temporaire par l'entrepreneur de travail temporaire ne peut intervenir qu'après autorisation de l'inspecteur du travail lorsque le salarié est investi de l'un des mandats suivants :
 
 1° Délégué syndical et ancien délégué syndical, y compris lorsque l'entrepreneur de travail temporaire lui a notifié sa décision de ne plus faire appel à lui pour de nouveaux contrats, en application de l'article L. 2314-22 ;

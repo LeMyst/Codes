@@ -1,3 +1,5 @@
+# Article R4624-28-3
+
 Le médecin du travail établit un état des lieux des expositions du travailleur aux facteurs de risques professionnels mentionnés à l'article L. 4161-1.
 
 Cet état des lieux est établi, notamment, sur la base des informations contenues dans le dossier médical en santé au travail prévu à l'article L. 4624-8, des déclarations du travailleur et de celles de ses employeurs successifs.

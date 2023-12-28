@@ -1,3 +1,5 @@
+# Article R5123-23
+
 La prise en charge partielle par l'Etat du revenu de remplacement dans le cadre d'une convention d'allocation pour cessation anticipée d'activité ne peut être accordée que si l'accord professionnel national a déterminé :\
 1° Son champ d'application ;\
 2° Les conditions d'ouverture pour les salariés du droit à la cessation d'activité ;\

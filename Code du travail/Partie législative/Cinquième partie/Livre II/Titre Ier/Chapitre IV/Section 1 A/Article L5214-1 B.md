@@ -1,3 +1,5 @@
+# Article L5214-1 B
+
 Une convention pluriannuelle d'objectifs et de moyens est conclue entre l'Etat, l'institution mentionnée à l'article L. 5312-1, l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés, le fonds d'insertion des personnes handicapées dans la fonction publique et la Caisse nationale de solidarité pour l'autonomie.
 
 Cette convention prévoit :

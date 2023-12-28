@@ -1,3 +1,5 @@
+# Article R6123-3-2
+
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelles émet, avant leur adoption ou leur conclusion, un avis sur :
 
 1° Les conventions régionales pluriannuelles de coordination de l'emploi, de l'orientation et de la formation relevant de l'article L. 6123-4 ;

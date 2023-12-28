@@ -1,3 +1,5 @@
+# Article R6325-21
+
 La décision de retrait du bénéfice de l'exonération est notifiée à l'employeur. Ce dernier en informe les représentants du personnel.
 
 Elle est également transmise à l'organisme chargé du recouvrement des cotisations et contributions sociales et à l'opérateur de compétences.

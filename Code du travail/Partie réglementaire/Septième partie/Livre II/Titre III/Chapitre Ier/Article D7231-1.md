@@ -1,3 +1,5 @@
+# Article D7231-1
+
 I.-Les activités de service à la personne soumises à agrément, en application de l'article L. 7232-1, sont les suivantes :
 
 1° Garde d'enfants à domicile, en dessous d'un âge fixé par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la famille ;

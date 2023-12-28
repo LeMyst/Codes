@@ -1,3 +1,5 @@
+# Article R6323-36
+
 Sont destinataires de tout ou partie des données à caractère personnel incluses dans le traitement automatisé mentionné à l'article R. 6323-32, dans les conditions fixées par les responsables de traitement et dans les limites strictement nécessaires à l'exercice de leurs missions, les personnes et les agents habilités des organismes pour ce qui relève de :
 
 1° La gestion et du contrôle des droits acquis au titre du compte personnel de formation et du droit individuel à la formation des élus locaux ainsi que des abondements en droits complémentaires ;

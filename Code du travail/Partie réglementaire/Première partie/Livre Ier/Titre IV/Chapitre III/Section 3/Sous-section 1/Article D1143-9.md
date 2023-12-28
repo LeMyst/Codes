@@ -1,3 +1,5 @@
+# Article D1143-9
+
 Le contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes précise :\
 1° L'objet et la nature des engagements souscrits par l'employeur ;\
 2° Le montant de l'aide de l'Etat et ses modalités de versement ;\

@@ -1,3 +1,5 @@
+# Article R4425-4
+
 Lorsque les résultats de l'évaluation des risques révèlent l'existence d'un risque pour la santé ou la sécurité des travailleurs, l'employeur tient à la disposition des travailleurs intéressés et du comité social et économique les informations suivantes :\
 1° Les activités au cours desquelles les travailleurs sont exposés à des agents biologiques pathogènes, les procédures, les méthodes de travail et les mesures et moyens de protection et de prévention correspondants ;\
 2° Le nombre de travailleurs exposés ;\

@@ -1,3 +1,5 @@
+# Article R4451-100
+
 I.-Chaque travailleur affecté au premier groupe mentionné au 1° du II de l'article R. 4451-99 :
 
 1° Donne son accord à l'affectation ;

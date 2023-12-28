@@ -1,3 +1,5 @@
+# Article R4462-2
+
 Pour l'application du présent chapitre, on entend par :
 
 1° " Substance ou mélange explosible " toute substance ou tout mélange de substances solide ou liquide qui est en soi susceptible, par réaction chimique, de dégager des gaz à une température, une pression et une vitesse telles qu'il en résulte des dégâts dans la zone environnante. Les substances pyrotechniques sont incluses dans cette définition, même si elles ne dégagent pas de gaz ;

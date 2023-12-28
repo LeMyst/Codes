@@ -1,3 +1,5 @@
+# Article R4313-52
+
 Le fabricant autorise l'organisme notifié à accéder aux lieux de conception, de fabrication, d'inspection, d'essais et de stockage et fournit toutes les informations nécessaires, notamment :
 
 1° La documentation sur le système de qualité ;

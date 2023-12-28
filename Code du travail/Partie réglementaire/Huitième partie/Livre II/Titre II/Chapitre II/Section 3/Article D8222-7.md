@@ -1,3 +1,5 @@
+# Article D8222-7
+
 La personne qui contracte, lorsqu'elle n'est pas un particulier répondant aux conditions fixées par l'article D. 8222-6, est considérée comme ayant procédé aux vérifications imposées par l'article L. 8222-4 si elle se fait remettre par son cocontractant établi ou domicilié à l'étranger, lors de la conclusion du contrat et tous les six mois jusqu'à la fin de son exécution :\
 1° Dans tous les cas, les documents suivants :\
 a) Un document mentionnant son numéro individuel d'identification attribué en application de l'article 286 ter du code général des impôts. Si le cocontractant n'est pas tenu d'avoir un tel numéro, un document mentionnant son identité et son adresse ou, le cas échéant, les coordonnées de son représentant fiscal ponctuel en France ;\

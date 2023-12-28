@@ -1,3 +1,5 @@
+# Article R1262-8
+
 Les allocations propres au détachement sont regardées comme faisant partie de la rémunération. Toutefois, les sommes versées à titre de remboursement des dépenses effectivement encourues du fait du détachement mentionnées au 11° de l'article L. 1262-4 en sont exclues et sont prises en charge par l'employeur lorsque les conditions suivantes sont cumulativement remplies :
 
 1° Leur prise en charge est prévue par des dispositions légales ou des stipulations conventionnelles ;

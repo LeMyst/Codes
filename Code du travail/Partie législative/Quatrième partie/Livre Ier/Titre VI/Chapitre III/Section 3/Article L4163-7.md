@@ -1,3 +1,5 @@
+# Article L4163-7
+
 I.-Le titulaire du compte professionnel de prévention peut décider d'affecter en tout ou partie les points inscrits sur son compte à une ou plusieurs des utilisations suivantes :
 
 1° La prise en charge de tout ou partie des frais d'une action de formation professionnelle continue en vue d'accéder à un emploi non exposé ou moins exposé aux facteurs de risques professionnels mentionnés au I de l'article L. 4163-1 ;

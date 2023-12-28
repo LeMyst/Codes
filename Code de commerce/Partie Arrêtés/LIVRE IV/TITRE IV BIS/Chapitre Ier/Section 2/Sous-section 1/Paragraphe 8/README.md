@@ -1,2 +1,1 @@
-Paragraphe 8 : Divers 
-
+Paragraphe 8 : Divers

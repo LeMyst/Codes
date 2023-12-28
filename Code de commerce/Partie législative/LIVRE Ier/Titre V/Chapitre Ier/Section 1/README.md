@@ -1,1 +1,1 @@
-Section 1 : De l'information protégée 
+Section 1 : De l'information protégée

@@ -1,2 +1,1 @@
-Paragraphe 3 : Divers 
-
+Paragraphe 3 : Divers

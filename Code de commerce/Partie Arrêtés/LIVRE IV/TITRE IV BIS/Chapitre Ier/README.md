@@ -1,1 +1,1 @@
-Chapitre Ier : Fixation des tarifs 
+Chapitre Ier : Fixation des tarifs

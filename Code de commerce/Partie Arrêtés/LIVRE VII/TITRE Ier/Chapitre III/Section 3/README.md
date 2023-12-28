@@ -1,1 +1,1 @@
-Section 3  :   De la préparation du scrutin
+Section 3 : De la préparation du scrutin

@@ -1,1 +1,1 @@
-Sous-section 4 : Publicités 
+Sous-section 4 : Publicités

@@ -1,3 +1,1 @@
-Paragraphe 1 : De la constitution de la société 
-
-
+Paragraphe 1 : De la constitution de la société

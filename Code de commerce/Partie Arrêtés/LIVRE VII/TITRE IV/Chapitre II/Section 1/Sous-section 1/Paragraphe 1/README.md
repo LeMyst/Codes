@@ -1,1 +1,1 @@
-Paragraphe 1  :   Des conditions générales
+Paragraphe 1 : Des conditions générales

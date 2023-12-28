@@ -1,1 +1,1 @@
-Sous-section 1  :   Du périmètre de référence
+Sous-section 1 : Du périmètre de référence

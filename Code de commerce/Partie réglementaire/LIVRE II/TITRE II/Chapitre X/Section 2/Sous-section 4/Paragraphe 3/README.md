@@ -1,3 +1,1 @@
-Paragraphe 3 :  De la réduction du capital 
-
-
+Paragraphe 3 : De la réduction du capital

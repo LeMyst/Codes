@@ -1,3 +1,1 @@
-Sous-section 7 :  Remises 
-
-
+Sous-section 7 : Remises

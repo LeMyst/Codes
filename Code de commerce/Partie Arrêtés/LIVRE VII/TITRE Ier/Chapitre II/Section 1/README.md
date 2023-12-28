@@ -1,1 +1,1 @@
-Section 1  :   Des modalités de la tutelle
+Section 1 : Des modalités de la tutelle

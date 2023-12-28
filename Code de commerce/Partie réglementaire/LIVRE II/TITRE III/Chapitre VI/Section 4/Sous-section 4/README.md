@@ -1,1 +1,1 @@
-Sous-section 4 :  De la transformation transfrontalière
+Sous-section 4 : De la transformation transfrontalière

@@ -1,1 +1,1 @@
-Section 1  :   Des commissions départementales d'équipement commercial
+Section 1 : Des commissions départementales d'équipement commercial

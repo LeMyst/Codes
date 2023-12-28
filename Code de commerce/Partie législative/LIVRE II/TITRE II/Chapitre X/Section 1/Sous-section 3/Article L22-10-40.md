@@ -1,3 +1,5 @@
+# Article L22-10-40
+
 Lorsque, dans les cas prévus au premier alinéa de l'article L. 22-10-39, l'actionnaire se fait représenter par une personne autre que son conjoint ou le partenaire avec lequel il a conclu un pacte civil de solidarité, il est informé par son mandataire de tout fait lui permettant de mesurer le risque que ce dernier poursuive un intérêt autre que le sien.
 
 Cette information porte notamment sur le fait que le mandataire ou, le cas échéant, la personne pour le compte de laquelle il agit :

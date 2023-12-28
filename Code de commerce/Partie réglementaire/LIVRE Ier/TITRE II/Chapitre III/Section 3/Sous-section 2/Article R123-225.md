@@ -1,3 +1,5 @@
+# Article R123-225
+
 Les renseignements d'identification mentionnés au répertoire concernant les unités légales inscrites ou leurs établissements sont modifiés :
 
 1° Soit, pour les entreprises, à l'occasion de la procédure de modification de leurs situations prévue à l'article L. 123-33 ;

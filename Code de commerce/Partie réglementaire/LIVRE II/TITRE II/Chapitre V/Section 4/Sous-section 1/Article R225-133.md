@@ -1,3 +1,5 @@
+# Article R225-133
+
 La durée maximale de suspension de la possibilité d'obtenir des titres de capital par l'exercice de droits attachés aux valeurs mobilières donnant accès au capital, prévue pour l'application de l'article L. 225-149-1, est de trois mois.
 
 Les indications contenues dans l'avis par lequel le conseil d'administration, ou le directoire, suspend la possibilité d'obtenir des titres de capital sont portées à la connaissance des titulaires de valeurs mobilières donnant accès au capital par lettre recommandée avec demande d'avis de réception, sept jours au moins avant la date d'entrée en vigueur de la suspension. Si toutes les valeurs mobilières de la société donnant accès au capital ne revêtent pas la forme nominative, l'avis contenant ces indications est inséré, dans le même délai, dans une notice publiée au Bulletin des annonces légales obligatoires.

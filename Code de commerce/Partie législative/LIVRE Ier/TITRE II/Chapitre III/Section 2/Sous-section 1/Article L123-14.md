@@ -1,3 +1,5 @@
+# Article L123-14
+
 Les comptes annuels doivent être réguliers, sincères et donner une image fidèle du patrimoine, de la situation financière et du résultat de l'entreprise.
 
 Lorsque l'application d'une prescription comptable ne suffit pas pour donner l'image fidèle mentionnée au présent article, des informations complémentaires doivent être fournies dans l'annexe.

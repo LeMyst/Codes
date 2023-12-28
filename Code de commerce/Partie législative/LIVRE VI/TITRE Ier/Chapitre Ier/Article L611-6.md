@@ -1,3 +1,5 @@
+# Article L611-6
+
 Le président du tribunal est saisi par une requête du débiteur exposant sa situation économique, financière, sociale et patrimoniale, ses besoins de financement ainsi que, le cas échéant, les moyens d'y faire face. Le débiteur peut proposer le nom d'un conciliateur.
 
 La procédure de conciliation est ouverte par le président du tribunal qui désigne un conciliateur pour une période n'excédant pas quatre mois mais qu'il peut, par une décision motivée, proroger à la demande de ce dernier sans que la durée totale de la procédure de conciliation ne puisse excéder cinq mois. Si une demande de constatation ou d'homologation a été formée en application de l'article L. 611-8 avant l'expiration de cette période, la mission du conciliateur et la procédure sont prolongées jusqu'à la décision, selon le cas, du président du tribunal ou du tribunal. A défaut, elles prennent fin de plein droit et une nouvelle conciliation ne peut être ouverte dans les trois mois qui suivent.

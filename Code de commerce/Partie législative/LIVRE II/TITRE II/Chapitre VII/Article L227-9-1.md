@@ -1,3 +1,5 @@
+# Article L227-9-1
+
 Les associés peuvent nommer un ou plusieurs commissaires aux comptes dans les conditions prévues à l'article L. 227-9.
 
 Sont tenues de désigner au moins un commissaire aux comptes les sociétés par actions simplifiées qui dépassent, à la clôture d'un exercice social, deux des seuils suivants, fixés par décret : le total de leur bilan, le montant de leur chiffre d'affaires hors taxe ou le nombre moyen de leurs salariés au cours de l'exercice.

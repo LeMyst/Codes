@@ -1,3 +1,5 @@
+# Article L229-5
+
 Les sociétés promouvant l'opération de constitution d'une société européenne holding établissent un projet commun de constitution de la société européenne.
 
 Ce projet est déposé au greffe du tribunal dans le ressort duquel lesdites sociétés sont immatriculées et fait l'objet d'une publicité dont les modalités sont fixées par décret en Conseil d'Etat.

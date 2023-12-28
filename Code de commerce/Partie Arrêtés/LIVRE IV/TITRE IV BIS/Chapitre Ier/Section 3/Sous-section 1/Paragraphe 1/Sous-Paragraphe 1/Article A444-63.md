@@ -1,3 +1,5 @@
+# Article A444-63
+
 La déclaration de succession (numéro 8 du tableau 5) donne lieu à la perception d'un émolument proportionnel à l'actif brut total, en ce compris s'il y a communauté, participation ou société d'acquêts, les biens qui en dépendent, selon le barème suivant :
 
 |

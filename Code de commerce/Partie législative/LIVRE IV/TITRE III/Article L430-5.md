@@ -1,3 +1,5 @@
+# Article L430-5
+
 I. - L'Autorité de la concurrence se prononce sur l'opération de concentration dans un délai de vingt-cinq jours ouvrés à compter de la date de réception de la notification complète.
 
 II. - Les parties à l'opération peuvent s'engager à prendre des mesures visant notamment à remédier, le cas échéant, aux effets anticoncurrentiels de l'opération soit à l'occasion de la notification de cette opération, soit à tout moment avant l'expiration du délai de vingt-cinq jours ouvrés à compter de la date de réception de la notification complète, tant que la décision prévue au I n'est pas intervenue.

@@ -1,3 +1,5 @@
+# Article R752-13
+
 I.- Dix jours au moins avant la réunion, chacun des membres de la commission départementale reçoit, par tout moyen, communication du dossier de la demande d'autorisation d'exploitation commerciale, accompagnée :
 
 1° De l'arrêté préfectoral fixant la composition de la commission ;

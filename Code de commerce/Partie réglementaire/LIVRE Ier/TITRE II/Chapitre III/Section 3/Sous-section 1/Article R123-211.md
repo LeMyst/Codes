@@ -1,3 +1,5 @@
+# Article R123-211
+
 L'avis concernant une déclaration afférente à la vente, à la cession, à l'apport en société, à l'attribution par partage ou par licitation d'un fonds de commerce contient :
 
 1° Les indications exigées à l'article L. 141-13 ;

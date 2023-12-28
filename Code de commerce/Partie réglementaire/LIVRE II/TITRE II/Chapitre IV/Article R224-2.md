@@ -1,3 +1,5 @@
+# Article R224-2
+
 Outre les mentions énumérées à l'article L. 210-2, et sans préjudice de toutes autres dispositions utiles, les statuts de la société contiennent les indications suivantes :
 
 1° Pour chaque catégorie d'actions émises, le nombre d'actions et la nature des droits particuliers attachés à celles-ci et, selon le cas, la part de capital social qu'elle représente ou la valeur nominale des actions qui la composent ;

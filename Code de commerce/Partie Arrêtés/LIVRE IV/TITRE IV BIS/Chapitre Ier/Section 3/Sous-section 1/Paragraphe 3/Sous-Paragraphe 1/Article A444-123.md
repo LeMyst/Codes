@@ -1,3 +1,5 @@
+# Article A444-123
+
 La liquidation sans partage (numéro 103 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

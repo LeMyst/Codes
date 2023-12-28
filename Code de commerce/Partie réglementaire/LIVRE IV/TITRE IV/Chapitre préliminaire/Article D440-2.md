@@ -1,3 +1,5 @@
+# Article D440-2
+
 La commission d'examen des pratiques commerciales est composée d'un député et d'un sénateur ainsi que de vingt-quatre membres titulaires et seize membres suppléants répartis de la manière suivante :
 
 1° Un magistrat honoraire de l'ordre administratif, un magistrat honoraire de l'ordre judiciaire et un juge de tribunal de commerce, parmi lesquels est nommé le vice-président de la commission si le président n'est pas membre d'une juridiction. Le vice-président supplée le président dans toutes ses fonctions ;

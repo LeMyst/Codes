@@ -1,3 +1,5 @@
+# Article R631-43
+
 Lorsque le compte rendu de fin de mission de l'administrateur et du mandataire judiciaire ont été approuvés par le juge-commissaire, la procédure fait l'objet d'une ordonnance de clôture rendue par le président du tribunal.
 
 Cette décision est une mesure d'administration judiciaire non susceptible de recours.

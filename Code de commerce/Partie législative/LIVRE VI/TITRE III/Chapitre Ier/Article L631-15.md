@@ -1,3 +1,5 @@
+# Article L631-15
+
 I.-Au plus tard au terme d'un délai de deux mois à compter du jugement d'ouverture, le tribunal ordonne la poursuite de la période d'observation s'il lui apparaît que le débiteur dispose à cette fin de capacités de financement suffisantes. Toutefois, lorsque le débiteur exerce une activité agricole, ce délai peut être modifié en fonction de l'année culturale en cours et des usages spécifiques aux productions de cette exploitation.
 
 Le tribunal se prononce au vu d'un rapport, établi par l'administrateur ou, lorsqu'il n'en a pas été désigné, par le débiteur.

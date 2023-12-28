@@ -1,3 +1,5 @@
+# Article R712-6-1
+
 Les conventions et accords collectifs soumis à agrément conformément au premier alinéa du 6° de l'article L. 711-16 sont transmis au ministre de tutelle des chambres de commerce et d'industrie, dès leur signature, par CCI France.
 
 L'agrément est acquis tacitement à l'expiration d'un délai d'un mois à compter de la date de réception de ces textes par le ministre de tutelle, à défaut de décision expresse notifiée à CCI France dans ce délai.

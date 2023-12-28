@@ -1,3 +1,5 @@
+# Article R743-37
+
 Peuvent faire l'objet d'apports à une société :
 
 1° L'exercice par un greffier de tribunal de commerce démissionnaire, un gérant d'une société civile professionnelle ou un représentant légal d'une société d'exercice libéral en voie de dissolution ou par un liquidateur d'une société dissoute, du droit de présenter la société pour successeur à l'agrément du garde des sceaux, ministre de la justice ;

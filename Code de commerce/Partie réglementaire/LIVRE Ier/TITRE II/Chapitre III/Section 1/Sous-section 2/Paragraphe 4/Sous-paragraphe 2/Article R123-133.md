@@ -1,3 +1,5 @@
+# Article R123-133
+
 Les mentions prévues par le 1° de l'article R. 123-124 sont radiées d'office :
 
 1° Lorsque intervient une décision de réhabilitation, de relevé d'incapacité ou d'amnistie faisant disparaître l'incapacité ou l'interdiction ;

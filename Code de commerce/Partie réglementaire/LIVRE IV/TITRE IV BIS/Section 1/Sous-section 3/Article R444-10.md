@@ -1,3 +1,5 @@
+# Article R444-10
+
 I.-Le taux de la remise que peut consentir un professionnel en application de la première phrase du dernier alinéa de l'article L. 444-2 ne peut excéder 20 % du montant de l'émolument arrêté pour une prestation afférente à un bien ou un droit d'une valeur supérieure à un seuil défini par un arrêté conjoint du ministre de la justice et du ministre chargé de l'économie.
 
 II.-La limite prévue au I est portée à 40 % du montant de l'émolument arrêté pour les prestations suivantes, afférentes à un bien ou un droit d'une valeur supérieure à un seuil défini par un arrêté conjoint du ministre de la justice et du ministre chargé de l'économie :

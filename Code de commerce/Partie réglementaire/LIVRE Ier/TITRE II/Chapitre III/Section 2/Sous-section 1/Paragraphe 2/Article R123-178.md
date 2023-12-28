@@ -1,3 +1,5 @@
+# Article R123-178
+
 Pour l'application de l'article L. 123-18 :
 
 1° Le coût d'acquisition est égal au prix d'achat majoré des frais accessoires nécessaires à la mise en état d'utilisation du bien ;

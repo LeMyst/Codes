@@ -1,3 +1,5 @@
+# Article R711-34
+
 Lorsque l'importance d'un établissement, ouvrage ou service géré par une chambre de commerce et d'industrie territoriale excède ses moyens financiers, la gestion ou l'exploitation peut en être confiée à la chambre de commerce et d'industrie de région à laquelle cet établissement gestionnaire est rattaché ;
 
 Cette décision est prise, suivant le cas :

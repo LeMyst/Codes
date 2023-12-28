@@ -1,3 +1,5 @@
+# Article R123-280
+
 En cas de modifications des informations ou justification réalisées en application de l'article R. 123-279, la personne immatriculée au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat en application du 3° de l'article L. 123-36 indique :
 
 1° Dans le délai d'un mois, le passage au seuil de deux-cent-cinquante salariés mentionné au troisième alinéa de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ;

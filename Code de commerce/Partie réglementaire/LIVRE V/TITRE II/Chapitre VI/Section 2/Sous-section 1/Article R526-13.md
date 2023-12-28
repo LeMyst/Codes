@@ -1,3 +1,5 @@
+# Article R526-13
+
 La cession à titre onéreux à une personne physique ou la transmission à titre gratuit entre vifs du patrimoine affecté, la cession à un entrepreneur individuel ou à une personne morale de ce patrimoine ou son apport en société sont publiés dans le mois de leur date à la diligence du cédant, du donateur ou de l'apporteur, sous forme d'avis au Bulletin officiel des annonces civiles et commerciales.
 
 Cet avis contient les indications suivantes :

@@ -1,3 +1,5 @@
+# Article R641-8
+
 I. - Le greffier joint à la copie du jugement mentionnée à l'article R. 621-7 un document reproduisant les termes du II du présent article, ainsi que :
 
 1° Ceux des articles L. 812-2, L. 814-5, L. 814-10, du dernier alinéa du II de l'article L. 641-1, des articles L. 641-8, R. 814-24 et R. 814-38, si le liquidateur est une personne choisie sur le fondement du premier alinéa du II de l'article L. 812-2 ;

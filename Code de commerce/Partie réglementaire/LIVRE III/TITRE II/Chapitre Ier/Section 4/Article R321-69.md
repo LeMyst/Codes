@@ -1,3 +1,5 @@
+# Article R321-69
+
 Le Conseil des maisons de vente se prononce par décision motivée au plus tard dans un délai de trois mois à compter de la présentation du dossier complet de l'intéressé.
 
 La décision est notifiée par tout moyen conférant date certaine à sa réception. La notification indique le délai et les modalités du recours ouvert à l'encontre de cette décision.

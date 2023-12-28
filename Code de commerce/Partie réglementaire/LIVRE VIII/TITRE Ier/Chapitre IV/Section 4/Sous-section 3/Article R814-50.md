@@ -1,3 +1,5 @@
+# Article R814-50
+
 Le titre d'administrateur judiciaire honoraire ou de mandataire judiciaire honoraire peut être conféré par la Commission nationale d'inscription et de discipline.
 
 L'honorariat ne peut être conféré qu'aux personnes ayant exercé leur activité pendant vingt ans au moins. Sont prises en compte les périodes pendant lesquelles l'intéressé a exercé en qualité de syndic administrateur judiciaire, d'administrateur judiciaire et liquidateur de sociétés, d'administrateur judiciaire séquestre près le tribunal judiciaire de Paris, d'administrateur judiciaire, ou de mandataire judiciaire.

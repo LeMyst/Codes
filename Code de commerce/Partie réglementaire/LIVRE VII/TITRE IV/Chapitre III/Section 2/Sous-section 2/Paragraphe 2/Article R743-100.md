@@ -1,3 +1,5 @@
+# Article R743-100
+
 Dans le cas où la société refuse de consentir à la cession, elle dispose d'un délai de six mois à compter de la notification de son refus par lettre recommandée avec demande d'avis de réception pour notifier, dans la même forme, à l'associé qui persiste dans son intention de céder ses parts sociales un projet de cession ou d'achat de celles-ci, conformément aux dispositions au troisième alinéa de l'article 19 de la loi n° 66-879 du 29 novembre 1966. Ce délai peut être renouvelé par le garde des sceaux, ministre de la justice, à la demande de tous les associés, y compris le cédant. La demande est faite par téléprocédure sur le site internet du ministère de la justice.
 
 Si l'acquéreur est un tiers, les dispositions des articles R. 743-44 et R. 743-99 sont applicables, à l'exception de celles concernant la notification à la société elle-même et de celles du deuxième alinéa de l'article R. 743-99. La requête du cessionnaire doit être remise au garde des sceaux, ministre de la justice, avant l'expiration du délai mentionné au premier alinéa, par téléprocédure sur le site internet du ministère de la justice.

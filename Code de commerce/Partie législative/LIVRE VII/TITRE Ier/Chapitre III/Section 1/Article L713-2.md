@@ -1,3 +1,5 @@
+# Article L713-2
+
 I.-Au titre de leur siège social et de l'ensemble de leurs établissements situés dans la circonscription de la chambre de commerce et d'industrie territoriale, les personnes physiques ou morales mentionnées aux 1° et 2° du II de l'article L. 713-1 disposent d'un représentant supplémentaire lorsqu'elles emploient dans la circonscription de la chambre de commerce et d'industrie territoriale de dix à quarante-neuf salariés, et d'un deuxième lorsqu'elles emploient dans la même circonscription de cinquante à quatre-vingt-dix-neuf salariés.
 
 S'y ajoutent :

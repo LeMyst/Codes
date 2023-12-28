@@ -1,3 +1,5 @@
+# Article L225-90
+
 Sans préjudice de la responsabilité de l'intéressé, les conventions visées à l'article L. 225-86 et conclues sans autorisation préalable du conseil de surveillance peuvent être annulées si elles ont eu des conséquences dommageables pour la société.
 
 L'action en nullité se prescrit par trois ans à compter de la date de la convention. Toutefois, si la convention a été dissimulée, le point de départ du délai de prescription est reporté au jour où elle a été révélée.

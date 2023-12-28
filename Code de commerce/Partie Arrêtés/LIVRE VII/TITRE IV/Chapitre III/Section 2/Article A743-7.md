@@ -1,3 +1,5 @@
+# Article A743-7
+
 Le garde des sceaux, ministre de la justice, dresse la liste des sociétés de participations financières de profession libérale de greffiers des tribunaux de commerce qui mentionne les informations suivantes :
 
 a) La dénomination sociale, la forme juridique et le numéro d'inscription de la société ;

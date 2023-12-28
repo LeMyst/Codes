@@ -1,3 +1,5 @@
+# Article R123-238
+
 Les actes et documents émanant de la société et destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, indiquent la dénomination sociale, précédée ou suivie immédiatement et lisiblement :
 
 1° Pour les sociétés en nom collectif, des mots " société en nom collectif " ou des initiales " SNC " ;

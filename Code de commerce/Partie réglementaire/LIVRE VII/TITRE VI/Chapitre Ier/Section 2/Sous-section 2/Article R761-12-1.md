@@ -1,3 +1,5 @@
+# Article R761-12-1
+
 La demande d'autorisation comprend deux parties.
 
 La première partie mentionne les éléments permettant l'identification du demandeur, les produits dont la vente en gros est envisagée, les surfaces prévues par le projet ainsi que, le cas échéant, les surfaces actuellement exploitées par le demandeur et les contraintes techniques spécifiques de son projet.A cette partie de la demande d'autorisation sont jointes les pièces attestant de l'immatriculation du demandeur au registre du commerce et des sociétés ou d'une inscription équivalente dans un pays étranger.

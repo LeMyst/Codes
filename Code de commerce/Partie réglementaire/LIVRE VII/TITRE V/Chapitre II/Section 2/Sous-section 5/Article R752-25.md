@@ -1,3 +1,5 @@
+# Article R752-25
+
 Dix jours au moins avant la réunion, chacun des membres de la commission reçoit, par tout moyen, communication de la demande d'avis, accompagnée :
 
 1° De l'arrêté préfectoral fixant la composition de la commission ;

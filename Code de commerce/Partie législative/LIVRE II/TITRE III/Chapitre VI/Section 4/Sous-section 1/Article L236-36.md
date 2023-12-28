@@ -1,3 +1,5 @@
+# Article L236-36
+
 L'organe de gestion, d'administration ou de direction de chacune des sociétés participant à la fusion transfrontalière établit un rapport écrit qui est mis à la disposition des associés.
 
 Le rapport mentionné au premier alinéa du présent article est remis aux membres de la délégation du personnel ou, à défaut, des salariés eux-mêmes, dans les conditions prévues par décret en Conseil d'Etat.

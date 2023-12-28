@@ -1,3 +1,5 @@
+# Article L814-10-2
+
 I.-L'action disciplinaire à l'encontre d'une personne désignée dans les conditions prévues au III de l'article L. 812-2 ne peut porter que sur des faits commis dans le cadre ou à l'occasion de la mission qui lui a été confiée. Elle est engagée par le garde des sceaux, ministre de la justice, le procureur général près la cour d'appel dans le ressort de laquelle ont été commis les faits, le magistrat du parquet général chargé des inspections des personnes mentionnées au III de l'article L. 812-2 dont le domicile professionnel est situé dans le ressort de la cour d'appel pour laquelle il est compétent, l'instance professionnelle représentative ou le président du Conseil national des administrateurs judiciaires et des mandataires judiciaires.
 
 II.-La commission nationale mentionnée à l'article L. 814-1 siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les fonctions du ministère public.

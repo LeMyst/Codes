@@ -1,3 +1,5 @@
+# Article R711-32
+
 I.-Les personnels de droit privé et les agents de droit public employés par les chambres de commerce et d'industrie de région constituent, pour l'application des dispositions du présent titre, le personnel de ces établissements.
 
 II.-Les personnels de droit privé sont recrutés par la chambre de commerce et d'industrie de région conformément au code du travail, aux accords collectifs interprofessionnels étendus, à la convention collective, aux accords collectifs conclus par CCI France et, le cas échéant, aux accords collectifs conclus par la chambre elle-même.

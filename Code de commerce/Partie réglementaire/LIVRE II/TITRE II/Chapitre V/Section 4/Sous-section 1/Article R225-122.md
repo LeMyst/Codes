@@ -1,3 +1,5 @@
+# Article R225-122
+
 L'actionnaire qui renonce à titre individuel à son droit préférentiel de souscription en avise la société par lettre recommandée.
 
 La renonciation sans indication de bénéficiaire est accompagnée pour les actions au porteur des coupons correspondants ou d'une attestation du dépositaire des titres ou de l'intermédiaire prévu par l'article R. 211-4 du code monétaire et financier constatant la renonciation de l'actionnaire.

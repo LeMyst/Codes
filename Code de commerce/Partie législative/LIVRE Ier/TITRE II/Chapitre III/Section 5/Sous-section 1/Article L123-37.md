@@ -1,3 +1,5 @@
+# Article L123-37
+
 Font l'objet d'une inscription au registre national des entreprises, ou d'un dépôt pour y être annexés :
 
 1° Pour les personnes mentionnées au 1° de l'article L. 123-36, l'ensemble des informations, actes et pièces figurant au registre du commerce et des sociétés en application du II de l'article L. 123-1 et de toute disposition législative ou réglementaire particulière ;

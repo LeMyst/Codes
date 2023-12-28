@@ -1,3 +1,5 @@
+# Article R711-47
+
 I.-Avant le 20 avril de l'année du renouvellement des chambres, un arrêté du préfet de la région où est situé le siège de la chambre de commerce et d'industrie de région détermine le nombre des membres de cette chambre et le nombre des sièges attribués en son sein aux élus de chacune des chambres de commerce et d'industrie territoriales, locales ou départementales d'Ile-de-France qui lui sont rattachées.
 
 Le nombre des membres de la chambre de commerce et d'industrie de région est déterminé sur proposition de la chambre de commerce et d'industrie de région en tenant compte des éléments économiques issus de l'étude prévue à l'article R. 713-66.

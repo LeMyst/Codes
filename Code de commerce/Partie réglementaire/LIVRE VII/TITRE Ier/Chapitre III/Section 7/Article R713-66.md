@@ -1,3 +1,5 @@
+# Article R713-66
+
 I.-Lors de chaque renouvellement général, la chambre de commerce et d'industrie de région et la chambre de commerce et d'industrie territoriale réalisent, chacune pour ce qui la concerne et suivant les critères fixés par les articles L. 713-11, L. 713-12 et L. 713-13, une étude économique de pondération.
 
 Cette étude détermine, d'une part l'importance économique des catégories et, le cas échéant, des sous-catégories professionnelles au sein de la chambre de commerce et d'industrie de région et de la chambre de commerce et d'industrie territoriale, locale ou départementale d'Ile-de-France, d'autre part l'importance économique des circonscriptions des chambres de commerce et d'industrie territoriales, locales ou départementales d'Ile-de-France au sein de la chambre de commerce et d'industrie de région à laquelle elles sont rattachées.

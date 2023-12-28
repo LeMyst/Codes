@@ -1,3 +1,5 @@
+# Article A811-29
+
 I.-L'examen mentionné à l'article R. 811-28-5 consiste en une épreuve orale qui se déroule en séance publique.
 
 Pour la spécialité commerciale, l'épreuve orale porte sur le droit social et le droit fiscal appliqués aux procédures collectives et sur l'application du droit européen aux procédures collectives nationales.

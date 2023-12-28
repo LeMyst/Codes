@@ -1,3 +1,5 @@
+# Article L420-4
+
 I.-Ne sont pas soumises aux dispositions des articles L. 420-1 et L. 420-2 les pratiques :
 
 1° Qui résultent de l'application d'un texte législatif ou d'un texte réglementaire pris pour son application ;

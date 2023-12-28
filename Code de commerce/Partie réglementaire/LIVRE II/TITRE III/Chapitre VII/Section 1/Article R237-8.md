@@ -1,3 +1,5 @@
+# Article R237-8
+
 L'avis de clôture de la liquidation, signé par le liquidateur, est publié, à la diligence de celui-ci, dans le support habilité à recevoir des annonces légales ayant reçu la publicité prescrite par le premier alinéa de l'article R. 237-2 et, si les actions de la société sont admises aux négociations sur un marché réglementé ou si toutes ses actions ne revêtent pas la forme nominative, au Bulletin des annonces légales obligatoires.
 
 Il contient les indications suivantes :

@@ -1,3 +1,5 @@
+# Article A762-3
+
 La déclaration du programme de manifestations se tenant dans un parc d'exposition enregistré, prévue à l'article R. 762-5, établie à partir des éléments recueillis auprès des organisateurs desdites manifestations, est conforme à l'annexe II de l'annexe 7-10 au présent livre.
 
 Les caractéristiques chiffrées relatives à la dernière session, portant sur la surface nette de la manifestation, le nombre d'exposants, le nombre de visites, la fréquentation ainsi que, s'agissant des salons professionnels tels que définis à l'article L. 762-2, le nombre de visiteurs, sont contrôlées par un organisme dans les conditions fixées à l'article A. 762-9.

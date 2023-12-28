@@ -1,3 +1,5 @@
+# Article L225-28
+
 Les administrateurs élus par les salariés ou désignés en application de l'article L. 225-27-1 doivent être titulaires d'un contrat de travail avec la société ou l'une de ses filiales directes ou indirectes dont le siège social est fixé sur le territoire français antérieur de deux années au moins à leur nomination et correspondant à un emploi effectif. Par dérogation, le second administrateur désigné en application du 4° du III de l'article L. 225-27-1 doit être titulaire d'un contrat de travail avec la société ou l'une de ses filiales directes ou indirectes antérieur de deux années au moins à sa nomination et correspondant à un emploi effectif. Toutefois, la condition d'ancienneté n'est pas requise lorsque au jour de la nomination la société est constituée depuis moins de deux ans.
 
 Tous les salariés de la société et le cas échéant de ses filiales directes ou indirectes, dont le siège social est fixé sur le territoire français dont le contrat de travail est antérieur de trois mois à la date de l'élection sont électeurs. Le vote est secret.

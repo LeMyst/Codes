@@ -1,3 +1,5 @@
+# Article L526-29
+
 Ne sont pas applicables au transfert universel du patrimoine professionnel d'un entrepreneur individuel, toute clause contraire étant réputée non écrite :
 
 1° L'article 815-14 du code civil ;

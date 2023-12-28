@@ -1,3 +1,5 @@
+# Article R811-28-4
+
 La commission nationale d'inscription et de discipline délivre le certificat de fin de stage au stagiaire qui a satisfait aux obligations mentionnées aux articles R. 811-28-2 et R. 811-28-3.
 
 Si la commission estime que le stagiaire n'a pas satisfait à ces obligations, elle peut soit refuser la délivrance du certificat de fin de stage, soit prolonger le stage au sein d'une autre étude pour une période d'une année renouvelable une fois.

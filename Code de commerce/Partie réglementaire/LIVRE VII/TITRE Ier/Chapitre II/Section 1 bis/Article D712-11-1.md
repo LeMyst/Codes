@@ -1,3 +1,5 @@
+# Article D712-11-1
+
 Dans les dispositions qui suivent :
 
 - l'expression “instance” désigne l'instance nationale représentative du personnel prévue au V de l'article 40 de la loi n° 2019-486 du 22 mai 2019, modifié par l'article 16 de la loi n° 2022-172 du 14 février 2022 ;

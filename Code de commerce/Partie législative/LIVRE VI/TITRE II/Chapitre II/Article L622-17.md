@@ -1,3 +1,5 @@
+# Article L622-17
+
 I.-Les créances nées régulièrement après le jugement d'ouverture pour les besoins du déroulement de la procédure ou de la période d'observation, ou en contrepartie d'une prestation fournie au débiteur pendant cette période, sont payées à leur échéance.
 
 II.-Lorsqu'elles ne sont pas payées à l'échéance, ces créances sont payées par privilège avant toutes les autres créances, assorties ou non de privilèges ou sûretés, à l'exception de celles garanties par le privilège établi aux articles L. 3253-2, L. 3253-4 et L. 7313-8 du code du travail, des frais de justice nés régulièrement après le jugement d'ouverture pour les besoins du déroulement de la procédure et de celles garanties par le privilège établi par l'article L. 611-11 du présent code.

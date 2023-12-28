@@ -1,3 +1,5 @@
+# Article A713-29
+
 Pour les personnes physiques et morales inscrites au registre du commerce et des sociétés ou figurant dans le fichier des entreprises de la chambre de commerce et d'industrie concernée, tel que défini à l'article D. 711-67-4, les catégories d'informations nominatives traitées sont :
 
 1° Le nom ou la dénomination sociale ;

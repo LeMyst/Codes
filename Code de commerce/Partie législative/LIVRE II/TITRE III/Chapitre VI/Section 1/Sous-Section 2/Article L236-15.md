@@ -1,3 +1,5 @@
+# Article L236-15
+
 La société absorbante est débitrice des créanciers non obligataires de la société absorbée en lieu et place de celle-ci, sans que cette substitution emporte novation à leur égard.
 
 Les créanciers non obligataires des sociétés participant à la fusion et dont la créance est antérieure à la publicité donnée au projet de fusion peuvent former opposition à celui-ci dans le délai fixé par décret en Conseil d'Etat. Une décision de justice rejette l'opposition ou ordonne, soit le remboursement des créances, soit la constitution de garanties si la société absorbante en offre et si elles sont jugées suffisantes.

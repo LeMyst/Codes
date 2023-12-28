@@ -1,3 +1,5 @@
+# Article A123-11-2
+
 I.-Le paiement de frais légaux au bénéfice d'un organisme destinataire ou d'une autorité compétente est réalisé par le déclarant auprès de l'organisme unique mentionné à l'article R. 123-1 selon les moyens suivants :
 
 a) Par le recours à une carte de paiement émise par un établissement de crédit ou par une institution ou un service mentionné à l'article L. 518-1 du code monétaire et financier ;

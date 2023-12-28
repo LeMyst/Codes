@@ -1,3 +1,5 @@
+# Article R822-118
+
 Chaque société de participations financières de profession libérale de commissaires aux comptes fait l'objet, au moins une fois tous les quatre ans, d'un contrôle portant sur le respect des dispositions législatives et réglementaires qui régissent la composition de son capital et l'étendue de ses activités.
 
 Chaque société de participations financières peut, en outre, être soumise à des contrôles occasionnels prescrits par la Compagnie nationale des commissaires aux comptes.

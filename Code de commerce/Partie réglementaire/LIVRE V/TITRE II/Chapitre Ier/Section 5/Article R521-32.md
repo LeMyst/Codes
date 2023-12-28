@@ -1,3 +1,5 @@
+# Article R521-32
+
 Pour la consultation, le requérant indique les éléments suivants :
 
 1° Concernant le propriétaire du bien visé au 5° de l'article R. 521-6 ou, à défaut de bien, le débiteur :

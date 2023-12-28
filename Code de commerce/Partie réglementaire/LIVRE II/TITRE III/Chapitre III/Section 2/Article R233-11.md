@@ -1,3 +1,5 @@
+# Article R233-11
+
 Le bilan consolidé établi selon un modèle fixé par un règlement de l'Autorité des normes comptables est présenté soit sous forme de tableau, soit sous forme de liste. Il fait au moins apparaître de façon distincte :
 
 1° Au titre de l'actif immobilisé les immobilisations incorporelles, les immobilisations corporelles, les immobilisations financières ;

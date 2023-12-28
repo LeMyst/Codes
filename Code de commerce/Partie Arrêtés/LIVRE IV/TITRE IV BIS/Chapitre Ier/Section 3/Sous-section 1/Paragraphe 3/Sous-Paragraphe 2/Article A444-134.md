@@ -1,3 +1,5 @@
+# Article A444-134
+
 Les délégations de créances (numéros 119 à 121 du tableau 5) donnent lieu à la perception :
 
 1° S'agissant des délégations parfaites, d'un émolument proportionnel au total de la somme déléguée :

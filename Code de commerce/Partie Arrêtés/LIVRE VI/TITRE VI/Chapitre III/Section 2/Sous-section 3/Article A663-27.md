@@ -1,3 +1,5 @@
+# Article A663-27
+
 I. - Les émoluments prévus au I de l'article R. 663-29 sont fixés proportionnellement :
 
 1° Au montant du total toutes taxes comprises du prix des actifs cédés, déduction faite de la rémunération toutes taxes comprises des intervenants, autres que le liquidateur, ayant participé aux opérations de cession, s'agissant des cessions d'actifs mobiliers corporels (numéro 13 du tableau 4-3) ;

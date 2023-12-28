@@ -1,3 +1,5 @@
+# Article R522-18
+
 Les exploitants de magasins généraux sont tenus d'adresser dans le premier mois de chaque année, à l'inspecteur général de l'industrie et du commerce dans la circonscription duquel sont situés leurs établissements, un compte rendu général de leur activité au cours de l'année écoulée.
 
 A ce compte rendu est joint un état indiquant :

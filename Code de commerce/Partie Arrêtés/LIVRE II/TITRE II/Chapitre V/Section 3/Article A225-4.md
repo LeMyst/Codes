@@ -1,3 +1,5 @@
+# Article A225-4
+
 Au titre des diligences qu'il a mises en œuvre pour conduire sa mission, l'organisme tiers indépendant présente :
 
 a) La preuve de son accréditation ;

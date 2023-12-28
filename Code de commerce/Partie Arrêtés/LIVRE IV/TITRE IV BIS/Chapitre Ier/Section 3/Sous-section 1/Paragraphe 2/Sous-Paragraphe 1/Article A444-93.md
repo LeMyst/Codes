@@ -1,3 +1,5 @@
+# Article A444-93
+
 Les premières ventes à terme ou locations-ventes de locaux, appartements ou maisons mentionnés à l'article A. 444-92 (numéros 56 et 57 du tableau 5) donnent lieu à la perception :
 
 1° Lorsque le transfert de propriété s'opère par la constatation de l'achèvement de l'immeuble :

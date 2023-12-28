@@ -1,3 +1,5 @@
+# Article L228-91
+
 Les sociétés par actions peuvent émettre des valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créance.
 
 Le contrat d'émission peut prévoir que ces valeurs mobilières et les titres de capital ou de créances auxquels ces valeurs mobilières donnent droit ne peuvent être cédés et négociés qu'ensemble. Dans ce cas, si le titre émis à l'origine est un titre de capital, celui-ci ne relève pas d'une catégorie déterminée au sens de l'article L. 225-99.

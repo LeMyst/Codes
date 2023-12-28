@@ -1,3 +1,5 @@
+# Article R123-82
+
 Le registre du commerce et des sociétés comprend :
 
 1° Un fichier alphabétique des personnes immatriculées ;

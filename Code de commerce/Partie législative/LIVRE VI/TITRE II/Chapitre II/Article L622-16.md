@@ -1,3 +1,5 @@
+# Article L622-16
+
 En cas de procédure de sauvegarde, le bailleur n'a privilège que pour les deux dernières années de loyers avant le jugement d'ouverture de la procédure.
 
 Si le bail est résilié, le bailleur a, en outre, privilège pour l'année courante, pour tout ce qui concerne l'exécution du bail et pour les dommages et intérêts qui pourront lui être alloués par les tribunaux.

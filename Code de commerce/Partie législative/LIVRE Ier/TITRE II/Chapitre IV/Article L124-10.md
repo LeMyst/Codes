@@ -1,3 +1,5 @@
+# Article L124-10
+
 L'exclusion d'un associé peut être prononcée, selon le cas, par le conseil d'administration ou par le conseil de surveillance si la société coopérative est constituée sous forme de société anonyme, ou par la gérance s'il s'agit d'une société à responsabilité limitée, l'intéressé étant dûment entendu.
 
 Tout associé frappé d'une mesure d'exclusion a la possibilité de faire appel de cette décision devant l'assemblée générale ou l'assemblée des associés qui statue sur son recours lors de la première réunion ordinaire qui suit la notification de l'exclusion. Celle-ci prend effet au jour de la notification de son acceptation par l'assemblée générale ou l'assemblée des associés.

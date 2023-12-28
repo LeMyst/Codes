@@ -1,3 +1,5 @@
+# Article R663-34
+
 Les rémunérations dues au titre de la procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire sont arrêtées avant la clôture de la procédure. Sous réserve des dispositions des articles R. 663-13 et R. 663-31, le président du tribunal ou son délégué statue au vu d'un compte détaillé. Lorsque la procédure est de la compétence du tribunal judiciaire, le président du tribunal délègue un magistrat à cette fin.
 
 A l'exception des rémunérations prévues aux articles R. 663-4 et R. 663-18 à R. 663-20 et des acomptes autorisés, elles ne sont perçues qu'après avoir été arrêtées.

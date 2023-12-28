@@ -1,3 +1,5 @@
+# Article R663-21
+
 Pour l'application de la présente section, constitue une créance :
 
 1° Le total des sommes déclarées par chaque fournisseur créancier ;

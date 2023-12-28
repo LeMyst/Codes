@@ -1,3 +1,5 @@
+# Article A444-193
+
 Les formalités accomplies en matière de saisie immobilière et de licitation par adjudication judiciaire donnent lieu à la perception des émoluments suivants :
 
 | NUMÉRO DE LA PRESTATION (tableau 6 de l'article Annexe 4-7)  | DÉSIGNATION DE LA PRESTATION  | ÉMOLUMENT  |

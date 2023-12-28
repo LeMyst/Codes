@@ -1,3 +1,5 @@
+# Article L430-8
+
 I. - Si une opération de concentration a été réalisée sans être notifiée, l'Autorité de la concurrence enjoint sous astreinte, dans la limite prévue au II de l'article L. 464-2, aux parties de notifier l'opération, à moins de revenir à l'état antérieur à la concentration. La procédure prévue aux articles L. 430-5 à L. 430-7 est alors applicable.
 
 En outre, l'autorité peut infliger aux personnes auxquelles incombait la charge de la notification une sanction pécuniaire dont le montant maximum s'élève, pour les personnes morales, à 5 % de leur chiffre d'affaires hors taxes réalisé en France lors du dernier exercice clos, augmenté, le cas échéant, de celui qu'a réalisé en France durant la même période la partie acquise et, pour les personnes physiques, à 1, 5 million d'euros.

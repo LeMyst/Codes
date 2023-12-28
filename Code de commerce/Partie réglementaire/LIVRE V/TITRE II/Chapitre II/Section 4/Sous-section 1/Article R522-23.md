@@ -1,3 +1,5 @@
+# Article R522-23
+
 Sur la présentation du warrant protesté, l'administration du magasin général donne au courtier désigné pour la vente par le porteur du warrant toutes facilités pour y procéder.
 
 Elle ne délivre la marchandise à l'acheteur que sur présentation du procès-verbal de la vente et moyennant :

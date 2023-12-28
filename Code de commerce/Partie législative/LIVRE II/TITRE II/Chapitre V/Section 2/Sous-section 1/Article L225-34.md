@@ -1,3 +1,5 @@
+# Article L225-34
+
 I.-En cas de vacance, par décès, démission, révocation, rupture du contrat de travail ou pour toute autre cause que ce soit, d'un siège d'administrateur élu par les salariés ou désigné en application de l'article L. 225-27-1, le siège vacant est pourvu de la manière suivante :
 
 1° Lorsque l'élection a eu lieu au scrutin majoritaire à deux tours, par le remplaçant ;

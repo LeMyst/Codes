@@ -1,3 +1,5 @@
+# Article R123-227
+
 Sous réserve de l'article R. 123-228, une unité légale inscrite est indiquée comme cessée au sein du répertoire en cas de dissolution s'il s'agit d'une unité légale mentionnée aux 4° à 6° de l'article R. 123-220, et en cas de décès, de décision définitive de radiation, en application des dispositions de l'article L. 613-4 du code la sécurité sociale, du régime de sécurité sociale auquel elle était affiliée ou lors de la cessation de toute activité mentionnée aux 1° à 3° de l'article R. 123-220 s'il s'agit d'une personne physique.
 
 Lorsqu'elle est soumise à l'immatriculation au registre du commerce et des sociétés, une personne morale en formation est indiquée comme cessée et son numéro d'identification est invalidé lorsqu'elle fait l'objet d'une décision de refus d'inscription à ce registre.

@@ -1,3 +1,5 @@
+# Article L233-9
+
 I.-Sont assimilés aux actions ou aux droits de vote mentionnés au I de l'article L. 233-7 :
 
 1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ;

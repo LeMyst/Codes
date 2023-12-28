@@ -1,3 +1,5 @@
+# Article L622-24
+
 A partir de la publication du jugement, tous les créanciers dont la créance est née antérieurement au jugement d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au mandataire judiciaire dans des délais fixés par décret en Conseil d'Etat. Lorsque le créancier a été relevé de forclusion conformément à l'article L. 622-26, les délais ne courent qu'à compter de la notification de cette décision ; ils sont alors réduits de moitié. Les créanciers titulaires d'une sûreté publiée ou liés au débiteur par un contrat publié sont avertis personnellement ou, s'il y a lieu, à domicile élu. Le délai de déclaration court à l'égard de ceux-ci à compter de la notification de cet avertissement.
 
 La déclaration des créances peut être faite par le créancier ou par tout préposé ou mandataire de son choix. Le créancier peut ratifier la déclaration faite en son nom jusqu'à ce que le juge statue sur l'admission de la créance.

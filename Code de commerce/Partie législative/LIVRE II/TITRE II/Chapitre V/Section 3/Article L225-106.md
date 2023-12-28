@@ -1,3 +1,5 @@
+# Article L225-106
+
 I.-Un actionnaire peut se faire représenter par un autre actionnaire, par son conjoint ou par le partenaire avec lequel il a conclu un pacte civil de solidarité.
 
 II.-Le mandat ainsi que, le cas échéant, sa révocation sont écrits et communiqués à la société. Les conditions d'application du présent alinéa sont précisées par décret en Conseil d'Etat.

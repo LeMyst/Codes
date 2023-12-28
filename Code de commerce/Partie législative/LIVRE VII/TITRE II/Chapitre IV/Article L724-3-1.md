@@ -1,3 +1,5 @@
+# Article L724-3-1
+
 Les sanctions disciplinaires applicables aux juges des tribunaux de commerce sont :
 
 1° Le blâme ;

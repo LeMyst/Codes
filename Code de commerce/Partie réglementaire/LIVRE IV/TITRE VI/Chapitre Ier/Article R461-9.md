@@ -1,3 +1,5 @@
+# Article R461-9
+
 I. - Le conseiller auditeur exerce ses fonctions pour une durée de cinq ans. Son mandat est renouvelable une fois.
 
 II. - Le conseiller auditeur peut intervenir à la demande d'une partie. Il peut également appeler l'attention du rapporteur général sur le bon déroulement de la procédure, s'il estime qu'une affaire soulève une question relative au respect des droits des parties.

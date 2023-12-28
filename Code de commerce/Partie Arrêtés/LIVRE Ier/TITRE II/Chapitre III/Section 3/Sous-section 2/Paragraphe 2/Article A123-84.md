@@ -1,3 +1,5 @@
+# Article A123-84
+
 Les personnes mentionnées à l'article R. 123-220 susceptibles d'être inscrites immédiatement au répertoire national des entreprises et des établissements sont celles visées par au moins une des dispositions prévues ci-après :
 
 1° Les personnes morales passibles de l'impôt sur les sociétés ou qui rentrent dans le champ d'application des articles 238 ter, 239 ter, 239 quater, 239 quater A, 239 quinquies et 239 septies du code général des impôts ;

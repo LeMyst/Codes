@@ -1,3 +1,5 @@
+# Article A711-5
+
 I.-Les membres de la commission mixte de conciliation prévue au D. 711-70-1 ainsi que leurs suppléants sont désignés pour cinq ans dans le mois qui suit l'assemblée générale d'installation de CCI France, prévue à l'article R. 711-58 :
 
 1° Les représentants des présidents de chambre de commerce et d'industrie sont désignés par le bureau de CCI France parmi les présidents en exercice ;

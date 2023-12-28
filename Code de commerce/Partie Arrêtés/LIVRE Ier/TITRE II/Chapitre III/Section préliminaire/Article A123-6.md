@@ -1,3 +1,5 @@
+# Article A123-6
+
 Les déclarations relatives à l'entreprise et ses établissements, mentionnées au 1° du I de l'article R. 123-1 et devant être déposées par le déclarant auprès de l'organisme unique pour être transmises aux administrations, personnes ou organismes destinataires de ces formalités selon leur compétence, sont :
 
 I.-Pour les personnes physiques exerçant, en leur nom propre et de manière indépendante, une ou plusieurs activités économiques :

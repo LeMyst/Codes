@@ -1,3 +1,5 @@
+# Article L22-10-60
+
 Dans une société dont les titres sont admis aux négociations sur un marché réglementé, des actions ne peuvent être attribuées dans le cadre des premier et deuxième alinéas du II de l'article L. 225-197-1 que si la société remplit au moins une des conditions suivantes au titre de l'exercice au cours duquel sont attribuées ces actions :
 
 1° La société procède, dans les conditions prévues aux articles L. 225-197-1 à L. 225-197-5 et L. 22-10-59, à une attribution gratuite d'actions au bénéfice de l'ensemble de ses salariés et d'au moins 90 % de l'ensemble des salariés de ses filiales au sens de l'article L. 233-1 et relevant de l'article L. 210-3 ;

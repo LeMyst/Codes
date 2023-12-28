@@ -1,3 +1,5 @@
+# Article A762-4
+
 La déclaration prévue à l'article R. 762-10 est conforme, selon le cas, à l'annexe IV ou à l'annexe V de l'annexe 7-10 au présent livre.
 
 Le récépissé de déclaration transmis par le préfet, prévu à l'article R. 762-10, est conforme à l'annexe XI de l'annexe 7-10 au présent livre.

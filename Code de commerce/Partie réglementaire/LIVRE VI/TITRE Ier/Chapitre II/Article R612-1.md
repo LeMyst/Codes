@@ -1,3 +1,5 @@
+# Article R612-1
+
 Les personnes morales de droit privé non commerçantes ayant une activité économique, mentionnées à l'article L. 612-1, sont tenues d'établir des comptes annuels et de désigner au moins un commissaire aux comptes et un suppléant lorsqu'elles dépassent, à la fin de l'année civile ou à la clôture de l'exercice, les chiffres ci-dessous fixés pour deux des trois critères suivants :
 
 1° Cinquante pour le nombre de salariés ; les salariés pris en compte sont ceux qui sont liés à la personne morale par un contrat de travail à durée indéterminée ; le nombre de salariés est égal à la moyenne arithmétique des effectifs à la fin de chaque trimestre de l'année civile ou de l'exercice comptable lorsque celui-ci ne coïncide pas avec l'année civile ;

@@ -1,3 +1,5 @@
+# Article L441-9
+
 I.-Tout achat de produits ou toute prestation de service pour une activité professionnelle fait l'objet d'une facturation.
 
 Le vendeur est tenu de délivrer la facture dès la réalisation de la livraison ou de la prestation de services au sens du 3 du I de l'article 289 du code général des impôts. L'acheteur est tenu de la réclamer.

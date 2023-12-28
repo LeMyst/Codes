@@ -1,3 +1,5 @@
+# Article R626-58-1
+
 La qualité de partie affectée et les modalités de répartition en classes et de calcul des voix correspondant aux créances ou droits permettant d'exprimer un vote peuvent être contestées par chaque partie affectée, le débiteur, l'administrateur, le mandataire judiciaire et le ministère public. Le juge-commissaire est saisi de cette contestation par requête dans un délai de dix jours à compter de la notification prévue au premier alinéa de l'article R. 626-58, à peine d'irrecevabilité.
 
 Le débiteur, l'administrateur, le mandataire judiciaire, même dans le cas où ils ne sont pas demandeurs, et la partie affectée, si elle est l'auteur de la contestation ou si ses droits font l'objet de celle-ci, sont convoqués par tout moyen et sans délai par le greffe.

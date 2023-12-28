@@ -1,3 +1,5 @@
+# Article R225-160-4
+
 I.-Le registre des achats et des ventes prévu à l'article L. 225-211 pour relater les opérations effectuées en application du II de l'article L. 228-12 et du I de l'article L. 228-12-1 est tenu dans les conditions et suivant les modalités fixées aux articles R. 225-159 et R. 225-160.
 
 II.-Le registre des achats et des ventes prévu à l'article L. 225-211 pour relater les opérations effectuées en application du III de l'article L. 228-12 et du II de l'article L. 228-12-1 indique séparément les opérations d'achat et les opérations de vente.

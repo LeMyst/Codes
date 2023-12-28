@@ -1,3 +1,5 @@
+# Article D123-236
+
 Les dispositions de l'article D. 123-235 ne font pas obstacle à ce qu'une entreprise puisse être tenue de porter, en complément du numéro unique d'identification et à titre d'identifiant spécifique :
 
 1° Pour les activités soumises à immatriculation au registre du commerce et des sociétés, les mentions prévues par les articles R. 123-237 et suivants ;

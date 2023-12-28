@@ -1,3 +1,5 @@
+# Article R711-15
+
 Les candidats aux fonctions de membre du bureau attestent auprès de l'autorité de tutelle qu'ils remplissent les conditions prévues à l'article L. 713-4 et qu'ils ne sont frappés d'aucune des incapacités mentionnées à l'article L. 713-3.
 
 Les candidats à la fonction de président mentionnent dans leur attestation la durée des mandats qu'ils ont déjà accomplis en tant que président d'un établissement public du réseau des chambres de commerce et d'industrie.

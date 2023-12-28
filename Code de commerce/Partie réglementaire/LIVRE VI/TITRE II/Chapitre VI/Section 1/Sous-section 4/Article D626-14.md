@@ -1,3 +1,5 @@
+# Article D626-14
+
 Les demandes de remise de dettes sont examinées au sein d'une commission réunissant les chefs des services financiers et les représentants des organismes et institutions intéressés.
 
 La composition et les conditions de fonctionnement de cette commission sont fixées par le décret n° 2007-686 du 4 mai 2007 instituant dans chaque département une commission des chefs des services financiers et des représentants des organismes de sécurité sociale et de l'assurance chômage pour l'examen de la situation des débiteurs retardataires.

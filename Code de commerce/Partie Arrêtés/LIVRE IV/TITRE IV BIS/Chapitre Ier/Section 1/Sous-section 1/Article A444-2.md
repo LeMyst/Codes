@@ -1,3 +1,5 @@
+# Article A444-2
+
 La prisée figurant au numéro 1 du tableau mentionné à l'article A. 444-1 donne lieu à la perception d'un émolument proportionnel :
 
 1° En cas de liquidation judiciaire : à la valeur de réalisation de chaque article ;

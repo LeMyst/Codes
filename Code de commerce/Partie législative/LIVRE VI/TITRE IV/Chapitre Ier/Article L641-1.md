@@ -1,3 +1,5 @@
+# Article L641-1
+
 I.-Les dispositions des articles L. 621-1 et L. 621-2 ainsi que celles de l'article L. 622-6 relatives aux obligations incombant au débiteur sont applicables à la procédure de liquidation judiciaire.
 
 Lorsque la situation du débiteur qui a déclaré être en état de cessation des paiements n'apparaît pas manifestement insusceptible de redressement, le tribunal invite celui-ci, en l'absence de demande subsidiaire aux fins d'ouverture d'une procédure de redressement judiciaire, à présenter ses observations sur l'existence des conditions de l'article L. 631-1. Il statue ensuite, dans la même décision, sur la demande de liquidation judiciaire et, le cas échéant, sur l'ouverture d'une procédure de redressement judiciaire.

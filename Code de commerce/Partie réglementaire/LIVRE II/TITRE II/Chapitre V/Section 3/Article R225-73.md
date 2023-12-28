@@ -1,3 +1,5 @@
+# Article R225-73
+
 I.-Lorsque les actions de la société ne revêtent pas toutes la forme nominative, la convocation mentionnée à l'article R. 225-66 est précédée d'un avis publié au Bulletin des annonces légales obligatoires, trente-cinq jours au moins avant la tenue de l'assemblée générale. Ce délai est ramené à quinze jours lorsque l'assemblée générale est convoquée en application des dispositions de l'article L. 233-32.
 
 L'avis mentionné à l'alinéa précédent comporte, outre les mentions requises au premier alinéa de l'article R. 225-66, les informations suivantes :

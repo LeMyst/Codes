@@ -1,3 +1,5 @@
+# Article A123-11-1
+
 I.-Les transmissions électroniques de l'organisme unique mentionné à l'article R. 123-1 vers les organismes destinataires et les autorités compétentes sont réalisées, en application de l'article R. 123-7 et des conditions de forme prévues par les dispositions en vigueur, selon les modalités suivantes :
 
 1° S'agissant des informations, sous la forme de fichiers au format texte conformes à la norme UTF-8 ;

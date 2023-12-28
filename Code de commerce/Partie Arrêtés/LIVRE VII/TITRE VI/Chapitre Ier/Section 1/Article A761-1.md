@@ -1,3 +1,5 @@
+# Article A761-1
+
 Le dossier type de demande de classement en marché d'intérêt national contient, outre la délibération du conseil régional intéressé, les pièces suivantes :
 
 1° La délibération de la collectivité territoriale ou de l'établissement public de coopération intercommunale requérant l'implantation du marché d'intérêt national sur son territoire et décidant du mode d'aménagement et de gestion dudit marché ;

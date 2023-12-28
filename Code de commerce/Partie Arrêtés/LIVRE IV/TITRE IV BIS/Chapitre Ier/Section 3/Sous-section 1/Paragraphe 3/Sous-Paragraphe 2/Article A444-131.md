@@ -1,3 +1,5 @@
+# Article A444-131
+
 La vente à l'utilisateur dans le cadre d'une opération de crédit-bail (numéro 115 du tableau 5) donne lieu à la perception d'un émolument proportionnel à la valeur résiduelle de l'immeuble, selon le barème suivant :
 
 |

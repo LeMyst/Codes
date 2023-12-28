@@ -1,3 +1,5 @@
+# Article R824-4
+
 Les actes d'enquête réalisés dans des locaux professionnels font l'objet d'un procès-verbal auquel est annexé l'inventaire des pièces et documents dont l'enquêteur a pris copie.
 
 Le procès-verbal indique l'objet de l'enquête, l'identité de l'enquêteur, la nature, la date et le lieu des constatations opérées. Il mentionne, le cas échéant, les motifs qui ont empêché ou entravé le bon déroulement de l'enquête.

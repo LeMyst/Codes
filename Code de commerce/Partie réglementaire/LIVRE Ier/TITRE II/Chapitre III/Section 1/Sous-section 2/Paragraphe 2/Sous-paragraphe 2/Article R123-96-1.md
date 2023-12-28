@@ -1,1 +1,3 @@
+# Article R123-96-1
+
 A l'occasion d'une immatriculation ou d'une modification, le greffier inscrit au sein du registre du commerce et des sociétés l'activité, mentionnée à l'article L. 121-1 du code de l'artisanat si elle relève du secteur des métiers et de l'artisanat ou à l'article R. 4421-3 du code des transports si elle relève du transport fluvial, que l'entreprise concernée déclare exercer. A l'issue d'un délai d'un mois suivant cette inscription, il procède à la consultation des informations relatives à cette entreprise au sein du Registre national des entreprises, afin de vérifier que l'activité en question a été inscrite comme validée par le président de la chambre de métiers et de l'artisanat compétent.

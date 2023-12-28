@@ -1,3 +1,5 @@
+# Article R123-285
+
 La caisse départementale ou pluridépartementale de mutualité sociale agricole procède à la validation des inscriptions d'informations et des dépôts de pièces prévus et aux contrôles mentionnés à l'article R. 123-284, dans le délai de quarante-cinq jours ouvrables après réception du dossier par la caisse.
 
 Lorsque le dossier est incomplet, la caisse départementale ou pluridépartementale de mutualité sociale agricole réclame dans ce délai les renseignements ou pièces manquants, qui sont fournis dans un délai de quinze jours à compter de cette réclamation. Le délai mentionné au premier alinéa est suspendu depuis la date de réclamation et jusqu'à la date de réception des renseignements ou pièces manquants.

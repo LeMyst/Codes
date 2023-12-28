@@ -1,3 +1,5 @@
+# Article R662-7
+
 Lorsque les intérêts en présence justifient le renvoi de l'une des procédures prévues par le livre VI de la partie législative du présent code devant une autre juridiction en application de l'article L. 662-2, ce renvoi peut être décidé d'office par le président du tribunal saisi, qui transmet sans délai le dossier par ordonnance motivée au premier président de la cour d'appel ou, s'il estime que l'affaire relève d'une juridiction du ressort d'une autre cour d'appel, au premier président de la Cour de cassation.
 
 Ce renvoi peut également être demandé, par requête motivée du débiteur, du créancier poursuivant et du ministère public près le tribunal saisi ou près du tribunal qu'il estime devoir être compétent, au premier président de la cour d'appel ou de la Cour de cassation.

@@ -1,3 +1,5 @@
+# Article L225-54-1
+
 Une personne physique ne peut exercer simultanément plus d'un mandat de directeur général de sociétés anonymes ayant leur siège sur le territoire français.
 
 Par dérogation aux dispositions du premier alinéa :

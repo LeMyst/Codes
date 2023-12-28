@@ -1,3 +1,5 @@
+# Article R713-17
+
 I. - Les enveloppes d'acheminement des votes sont adressées à la préfecture, qui en dresse un état récapitulatif.
 
 Sous peine de nullité du vote, les enveloppes d'acheminement des votes comportent les mentions suivantes :

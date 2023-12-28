@@ -1,3 +1,5 @@
+# Article R811-3
+
 L'élection des administrateurs judiciaires et de leurs suppléants, membres de la commission nationale, est organisée par le Conseil national des administrateurs judiciaires et des mandataires judiciaires. Elle a lieu au scrutin majoritaire plurinominal à un tour.
 
 Ne peuvent prendre part aux opérations électorales les administrateurs judiciaires qui, depuis la date à laquelle a été arrêtée la liste, ont fait l'objet d'une suspension provisoire, d'une interdiction temporaire, d'une radiation ou d'un retrait de la liste.

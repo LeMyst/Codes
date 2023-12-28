@@ -1,3 +1,5 @@
+# Article L225-115
+
 Tout actionnaire a droit, dans les conditions et délais déterminés par décret en Conseil d'Etat, d'obtenir communication :
 
 1° Des comptes annuels et de la liste des administrateurs ou des membres du directoire et du conseil de surveillance, et, le cas échéant, des comptes consolidés ;

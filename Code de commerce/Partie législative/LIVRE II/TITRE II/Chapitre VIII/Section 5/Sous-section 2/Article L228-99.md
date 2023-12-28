@@ -1,3 +1,5 @@
+# Article L228-99
+
 La société appelée à attribuer les titres de capital ou les valeurs mobilières y donnant accès doit prendre les mesures nécessaires à la protection des intérêts des titulaires des droits ainsi créés si elle décide de procéder à l'émission, sous quelque forme que ce soit, de nouveaux titres de capital avec droit préférentiel de souscription réservé à ses actionnaires, de distribuer des réserves, en espèces ou en nature, et des primes d'émission ou de modifier la répartition de ses bénéfices par la création d'actions de préférence.
 
 A cet effet, elle doit :

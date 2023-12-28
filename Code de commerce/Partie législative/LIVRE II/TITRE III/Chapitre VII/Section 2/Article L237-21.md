@@ -1,3 +1,5 @@
+# Article L237-21
+
 La durée du mandat du liquidateur ne peut excéder trois ans. Toutefois, ce mandat peut être renouvelé par les associés ou le président du tribunal de commerce, selon que le liquidateur a été nommé par les associés ou par décision de justice.
 
 Si l'assemblée des associés n'a pu être valablement réunie, le mandat est renouvelé par décision de justice, à la demande du liquidateur.

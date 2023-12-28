@@ -1,3 +1,5 @@
+# Article L225-197-4
+
 Un rapport spécial informe chaque année l'assemblée générale ordinaire des opérations réalisées en vertu des dispositions prévues aux articles L. 225-197-1 à L. 225-197-3.
 
 Ce rapport rend également compte :

@@ -1,3 +1,5 @@
+# Article R123-266-1
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la société créée de fait, de la société en participation ou de l'indivision, les éléments suivants :
 
 1° Sa dénomination, sa forme juridique, son adresse ;

@@ -1,3 +1,5 @@
+# Article A822-2-1
+
 Les candidats titulaires d'un diplôme obtenu dans un Etat étranger qui souhaitent bénéficier des dispositions du premier alinéa de l'article R. 822-2 adressent au garde des sceaux, ministre de la justice, au plus tard le 30 septembre, un dossier en double exemplaire comprenant :
 
 1° Tous documents officiels justificatifs de leur identité et de leur nationalité ;

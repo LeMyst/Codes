@@ -1,3 +1,5 @@
+# Article A822-2
+
 Le certificat d'aptitude prévu à l'article R. 822-2 est organisé chaque année.
 
 Les candidats au titre de l'article R. 822-2 déposent au siège de la compagnie régionale des commissaires aux comptes de leur domicile, entre le 1er et le 30 juin, leur demande accompagnée de tous documents officiels justificatifs de leur identité et de leur nationalité et la justification de leur stage professionnel.

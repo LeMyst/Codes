@@ -1,3 +1,5 @@
+# Article L321-23-2
+
 I.-Peut donner lieu à sanction disciplinaire tout manquement aux lois, règlements ou obligations professionnelles applicables aux personnes mentionnées aux I et II de l'article L. 321-4 et aux personnes habilitées à diriger les ventes en application du premier alinéa de l'article L. 321-9. La prescription est de trois ans à compter du manquement. Toutefois, si la personne concernée est l'auteur de faits ayant donné lieu à une condamnation pénale, l'action se prescrit par deux ans à compter de la date à laquelle cette condamnation est devenue définitive.
 
 La commission des sanctions statue par décision motivée sur saisine du commissaire du Gouvernement. Aucune sanction ne peut être prononcée sans que les griefs aient été communiqués à la personne mentionnée aux I ou II de l'article L. 321-4, à son représentant légal ou à la personne habilitée à diriger les ventes, sans que celui-ci ait été mis à même de prendre connaissance du dossier ni sans qu'il ait été entendu ou dûment appelé.

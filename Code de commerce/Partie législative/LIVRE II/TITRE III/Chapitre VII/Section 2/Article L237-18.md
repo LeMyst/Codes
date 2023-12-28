@@ -1,3 +1,5 @@
+# Article L237-18
+
 I. - Un ou plusieurs liquidateurs sont désignés par les associés, si la dissolution résulte du terme statutaire ou si elle est décidée par les associés.
 
 II. - Le liquidateur est nommé :

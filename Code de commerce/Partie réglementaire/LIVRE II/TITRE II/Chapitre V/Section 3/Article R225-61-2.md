@@ -1,3 +1,5 @@
+# Article R225-61-2
+
 Lorsque le droit d'opposition s'exerce avant les formalités de convocation, la société avise les actionnaires de la date prévue pour la réunion de l'assemblée trente-cinq jours au moins avant celle-ci, par lettre recommandée avec demande d'avis réception ou par courrier électronique avec avis de réception à l'adresse électronique indiquée par eux.
 
 Cet avis précise la nature de l'assemblée et comporte les points ainsi que le texte des projets de résolution que la société entend inscrire à l'ordre du jour de cette assemblée.

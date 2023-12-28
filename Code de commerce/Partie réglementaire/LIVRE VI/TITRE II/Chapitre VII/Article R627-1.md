@@ -1,3 +1,5 @@
+# Article R627-1
+
 En l'absence d'administrateur, le cocontractant adresse au débiteur la mise en demeure prévue à l'article L. 622-13, par lettre recommandée avec demande d'avis de réception. Il en informe simultanément le mandataire judiciaire en lui adressant copie de cette mise en demeure par lettre recommandée avec demande d'avis de réception.
 
 Le mandataire judiciaire doit, sans délai, faire part de son avis au débiteur et au cocontractant.

@@ -1,3 +1,5 @@
+# Article R814-99
+
 La société prend fin dans les cas prévus à l'article 1844-7 du code civil. La dissolution anticipée prévue au 4° de cet article est décidée dans les conditions de majorité requises pour les modifications des statuts.
 
 En outre, la société est dissoute de plein droit :

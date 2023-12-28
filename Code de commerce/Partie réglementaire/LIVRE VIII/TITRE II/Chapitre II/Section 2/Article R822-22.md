@@ -1,3 +1,5 @@
+# Article R822-22
+
 La formation continue particulière prévue à l'article L. 822-4 est de quarante heures. Elle doit être accomplie, par sessions continues ou discontinues, dans les dix-huit mois qui précèdent l'acceptation d'une mission de certification des comptes et assure l'actualisation des connaissances et des compétences du commissaire aux comptes concerné.
 
 L'obligation de formation continue particulière est satisfaite par :

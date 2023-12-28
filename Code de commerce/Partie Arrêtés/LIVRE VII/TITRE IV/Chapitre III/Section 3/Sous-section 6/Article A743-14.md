@@ -1,3 +1,5 @@
+# Article A743-14
+
 Les prestations figurant aux numéros 138 à 142 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception des émoluments suivants :
 
 | Numéro de

@@ -1,3 +1,5 @@
+# Article A444-89
+
 La résiliation ou résolution de vente (numéro 52 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

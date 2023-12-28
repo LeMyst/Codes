@@ -1,3 +1,5 @@
+# Article R464-20
+
 Les recours prévus à l'article L. 464-7 sont portés devant la cour d'appel par voie d'assignation à une audience préalablement indiquée par le premier président ou son délégué.
 
 A peine de nullité, l'assignation contient, outre les mentions prescrites pour les actes d'huissier de justice, l'objet du recours avec un exposé des moyens.

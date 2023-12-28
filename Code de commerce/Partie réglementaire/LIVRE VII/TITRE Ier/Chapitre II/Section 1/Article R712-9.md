@@ -1,3 +1,5 @@
+# Article R712-9
+
 L'autorité de tutelle peut inscrire d'office au budget d'un établissement public du réseau des chambres de commerce et d'industrie les dépenses obligatoires, et notamment :
 
 1° Les charges de personnel ;

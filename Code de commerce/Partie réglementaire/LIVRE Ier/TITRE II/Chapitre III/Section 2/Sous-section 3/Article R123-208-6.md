@@ -1,3 +1,5 @@
+# Article R123-208-6
+
 Les agents mentionnés au 2° de l'article L. 123-30 sont habilités, sur proposition du maire, par arrêté du préfet du département dans lequel se trouve la commune concernée ou, à Paris, par arrêté du préfet de police.
 
 Ne peuvent être habilités que des fonctionnaires titulaires justifiant d'une expérience professionnelle d'au moins deux ans dans la gestion des marchés ou d'une expérience professionnelle d'au moins trois ans dans des fonctions requérant le niveau de formation et de compétence exigibles pour cette mission de police judiciaire et dont le préfet a vérifié l'honorabilité dans les conditions prévues à l'article 776 du code de procédure pénale.

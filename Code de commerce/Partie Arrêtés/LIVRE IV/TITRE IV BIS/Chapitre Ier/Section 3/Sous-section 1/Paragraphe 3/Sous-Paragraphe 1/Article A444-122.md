@@ -1,3 +1,5 @@
+# Article A444-122
+
 Le partage de biens indivis (numéro 102 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

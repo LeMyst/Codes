@@ -1,3 +1,5 @@
+# Article L228-1
+
 Les sociétés par actions émettent toutes valeurs mobilières dans les conditions du présent livre.
 
 Les valeurs mobilières sont des titres financiers au sens de l'article L. 211-1 du code monétaire et financier, qui confèrent des droits identiques par catégorie.

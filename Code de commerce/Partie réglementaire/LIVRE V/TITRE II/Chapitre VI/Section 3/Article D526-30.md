@@ -1,3 +1,5 @@
+# Article D526-30
+
 I.-Le cédant , le donateur ou l'apporteur publie, à sa diligence, le transfert universel du patrimoine professionnel prévu à l'article L. 526-27, sous forme d'avis au Bulletin officiel des annonces civiles et commerciales ou d'annonce dans un support habilité à recevoir des annonces légales dans le département dans lequel est exercée l'activité professionnelle, au plus tard un mois après sa réalisation.
 
 Cet avis ou l'annonce contient les indications suivantes :

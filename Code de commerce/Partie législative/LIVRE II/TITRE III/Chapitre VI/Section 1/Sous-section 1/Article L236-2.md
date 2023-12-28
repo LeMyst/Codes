@@ -1,3 +1,5 @@
+# Article L236-2
+
 Une fusion peut être réalisée entre des sociétés de forme différente.
 
 Elle est décidée, par chacune des sociétés intéressées, dans les conditions requises pour la modification de ses statuts.

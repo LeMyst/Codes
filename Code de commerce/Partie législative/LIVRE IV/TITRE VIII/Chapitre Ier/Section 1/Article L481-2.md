@@ -1,3 +1,5 @@
+# Article L481-2
+
 Une pratique anticoncurrentielle mentionnée à l'article L. 481-1 est présumée établie de manière irréfragable à l'égard de la personne physique ou morale désignée au même article dès lors que son existence et son imputation à cette personne ont été constatées par une décision qui ne peut plus faire l'objet d'une voie de recours ordinaire pour la partie relative à ce constat, prononcée par l'Autorité de la concurrence ou par la juridiction de recours.
 
 Une décision qui ne peut plus faire l'objet d'une voie de recours ordinaire pour la partie relative au constat de l'existence et de l'imputation d'une pratique anticoncurrentielle, prononcée par une autorité de concurrence ou par une juridiction de recours d'un autre Etat membre de l'Union européenne à l'égard d'une personne physique ou morale, constitue un moyen de preuve de la commission de cette pratique.

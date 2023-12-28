@@ -1,3 +1,5 @@
+# Article R229-12
+
 Aux fins de délivrance du certificat mentionné au septième alinéa de l'article L. 229-2, la société européenne produit au notaire chargé d'effectuer le contrôle de légalité un dossier contenant au moins les éléments suivants :
 
 1° Les statuts de la société ;

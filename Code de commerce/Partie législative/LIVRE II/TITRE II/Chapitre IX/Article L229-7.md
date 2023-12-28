@@ -1,3 +1,5 @@
+# Article L229-7
+
 La direction et l'administration de la société européenne sont régies par les dispositions de la section 2 du chapitre V du présent titre, à l'exception du premier alinéa des articles L. 225-37 et L. 225-82 et du quatrième alinéa de l'article L. 225-64.
 
 Toutefois, par exception à l'article L. 225-62, en cas de vacance au sein du directoire, un membre du conseil de surveillance peut être nommé par ce conseil pour exercer les fonctions de membre du directoire pour une durée maximale fixée par décret en Conseil d'Etat. Pendant cette durée, les fonctions de l'intéressé au sein du conseil de surveillance sont suspendues.

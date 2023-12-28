@@ -1,3 +1,5 @@
+# Article R470-1
+
 L'injonction mentionnée à l'article L. 470-1 peut être contestée par la personne qui en fait l'objet devant le ministre chargé de l'économie. Ce recours est exclusif de tout autre recours hiérarchique.
 
 La publicité prévue au deuxième alinéa du I et au 2 du III de l'article L. 470-1 peut être effectuée par voie de presse, par voie électronique ou par voie d'affichage. La diffusion par voie de presse, par voie électronique et l'affichage peuvent être ordonnés cumulativement.

@@ -1,3 +1,5 @@
+# Article R123-260
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration du groupement d'intérêt économique à l'occasion de son immatriculation, les éléments suivants :
 
 1° En ce qui concerne la personne :

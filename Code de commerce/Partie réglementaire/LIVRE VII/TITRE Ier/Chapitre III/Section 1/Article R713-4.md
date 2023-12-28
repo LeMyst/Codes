@@ -1,3 +1,5 @@
+# Article R713-4
+
 Tout électeur peut présenter, pendant la période de publicité des listes électorales prévue à l'article R. 713-2, une réclamation à la commission d'établissement des listes électorales.
 
 Les réclamations sont déposées au secrétariat de la commission.

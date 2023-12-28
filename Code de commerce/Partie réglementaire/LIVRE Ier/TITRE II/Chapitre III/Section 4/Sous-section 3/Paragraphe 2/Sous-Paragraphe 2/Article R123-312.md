@@ -1,3 +1,5 @@
+# Article R123-312
+
 Toute radiation mentionnée ou rapportée d'office au registre du commerce et des sociétés par le greffier du tribunal de commerce ou du tribunal judiciaire statuant en matière commerciale est portée à la connaissance du teneur du Registre national des entreprises aux fins de radiation au sein de ce registre. Le greffier procède ainsi qu'il est précisé au deuxième alinéa de l'article R. 123-83.
 
 La radiation d'office d'une personne morale au registre du commerce et des sociétés vaut radiation de celle-ci au Registre national des entreprises.

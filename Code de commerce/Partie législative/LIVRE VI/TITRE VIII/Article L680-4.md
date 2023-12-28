@@ -1,3 +1,5 @@
+# Article L680-4
+
 Sauf dispositions contraires, les références faites par les titres Ier à VI du présent livre au débiteur, à l'entreprise, au contrat, au cocontractant s'entendent, respectivement :
 
 ― du débiteur en tant qu'il exerce l'activité en difficulté et est titulaire du patrimoine qui se rattache à celle-ci, à l'exclusion de tout autre ;

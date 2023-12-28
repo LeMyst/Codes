@@ -1,3 +1,5 @@
+# Article R751-9
+
 En cas d'absence ou d'empêchement d'un membre titulaire, le membre suppléant est appelé à le remplacer.
 
 En cas d'absence ou d'empêchement à six réunions successives sans motifs d'un membre, le président peut mettre fin au mandat de ce membre. Dans ce cas, l'autorité de nomination désigne un nouveau membre titulaire et un nouveau membre suppléant pour la durée du mandat restant à courir.

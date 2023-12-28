@@ -1,3 +1,5 @@
+# Article R743-142
+
 I.-Pour la catégorie des actes judiciaires mentionnée au tableau 2 de l'article annexe 4-7, l'émolument afférent à chaque prestation :
 
 1° Comprend le coût d'une copie certifiée conforme, revêtue de la formule exécutoire et d'une copie délivrée à chaque partie ;

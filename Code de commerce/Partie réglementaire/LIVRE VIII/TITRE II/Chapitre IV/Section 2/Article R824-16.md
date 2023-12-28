@@ -1,3 +1,5 @@
+# Article R824-16
+
 La personne poursuivie est convoquée devant la formation restreinte dans un délai qui ne peut être inférieur à un mois avant la date de la séance.
 
 Le président de la compagnie régionale des commissaires aux comptes dont relève la personne poursuivie est avisé de la séance et de sa faculté de demander à être entendu.

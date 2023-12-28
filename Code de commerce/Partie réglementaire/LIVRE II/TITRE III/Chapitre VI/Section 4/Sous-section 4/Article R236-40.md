@@ -1,3 +1,5 @@
+# Article R236-40
+
 Le projet de transformation transfrontalière contient les indications suivantes :
 
 1° La forme, la dénomination et le siège social de la société transformée dans l'Etat membre de l'Union européenne de départ et dans l'Etat membre de destination ;

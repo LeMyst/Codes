@@ -1,3 +1,5 @@
+# Article L225-27-1
+
 I. ― Dans les sociétés qui emploient, à la clôture de deux exercices consécutifs, au moins mille salariés permanents dans la société et ses filiales, directes ou indirectes, dont le siège social est fixé sur le territoire français, ou au moins cinq mille salariés permanents dans la société et ses filiales, directes ou indirectes, dont le siège social est fixé sur le territoire français et à l'étranger, il est stipulé dans les statuts que le conseil d'administration comprend, outre les administrateurs dont le nombre et le mode de désignation sont prévus aux articles L. 225-17 et L. 225-18 du présent code, des administrateurs représentant les salariés.
 
 Une société dont l'activité principale est d'acquérir et de gérer des filiales et des participations peut ne pas mettre en œuvre l'obligation prévue au premier alinéa du présent I si elle remplit chacune des conditions suivantes :

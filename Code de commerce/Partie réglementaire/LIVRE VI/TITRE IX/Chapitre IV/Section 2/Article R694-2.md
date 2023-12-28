@@ -1,3 +1,5 @@
+# Article R694-2
+
 Le tribunal, saisi par requête, statue sur l'ouverture de la procédure de coordination collective en chambre du conseil après avoir entendu ou mis en mesure d'être entendus le débiteur, les praticiens de l'insolvabilité concernés, les contrôleurs et après avoir recueilli l'avis du ministère public.
 
 Le jugement est assorti de l'exécution provisoire de plein droit.

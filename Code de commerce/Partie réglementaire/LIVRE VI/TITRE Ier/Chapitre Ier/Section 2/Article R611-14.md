@@ -1,3 +1,5 @@
+# Article R611-14
+
 Le greffier notifie l'ordonnance au représentant légal de la personne morale. La lettre de notification reproduit les dispositions du second alinéa du II de l'article L. 611-2 ainsi que l'article R. 611-15 et le premier alinéa de l'article R. 611-16.
 
 Si la lettre est retournée avec une mention précisant qu'elle n'a pas été réclamée par son destinataire, le greffier fait signifier l'ordonnance. La signification reproduit les dispositions mentionnées à l'alinéa premier.

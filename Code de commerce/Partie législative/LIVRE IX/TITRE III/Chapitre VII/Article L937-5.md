@@ -1,3 +1,5 @@
+# Article L937-5
+
 L'article L. 723-2 est ainsi rédigé :
 
 " Art. L. 723-2.-I.-Les représentants mentionnés à l'article L. 723-1 applicable en Nouvelle-Calédonie doivent exercer dans l'entreprise soit des fonctions de président-directeur général, de président ou de membre du conseil d'administration, de directeur général, de président ou de membre du directoire, de président du conseil de surveillance, de gérant, de président ou de membre du conseil d'administration ou de directeur d'un établissement public à caractère industriel et commercial, soit, à défaut et pour les représenter à titre de mandataire, des fonctions impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.

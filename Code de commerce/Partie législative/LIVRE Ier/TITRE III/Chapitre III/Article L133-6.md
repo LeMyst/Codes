@@ -1,3 +1,5 @@
+# Article L133-6
+
 Les actions pour avaries, pertes ou retards, auxquelles peut donner lieu contre le voiturier le contrat de transport, sont prescrites dans le délai d'un an, sans préjudice des cas de fraude ou d'infidélité.
 
 Toutes les autres actions auxquelles ce contrat peut donner lieu, tant contre le voiturier ou le commissionnaire que contre l'expéditeur ou le destinataire, aussi bien que celles qui naissent des dispositions de l'article 1269 du code de procédure civile, sont prescrites dans le délai d'un an.

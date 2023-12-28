@@ -1,3 +1,5 @@
+# Article R444-7
+
 I. - La rémunération raisonnable est déterminée globalement pour chaque profession en appliquant au chiffre d'affaires régulé l'objectif de taux de résultat moyen de cette profession. Cet objectif est déterminé à partir d'un taux de référence égal à 20 %.
 
 II. - L'objectif de taux de résultat moyen est égal au taux de référence mentionné au I affecté d'un coefficient correcteur multiplicateur, compris entre 1 et 1,6, afin de prendre en compte :

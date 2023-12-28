@@ -1,3 +1,5 @@
+# Article R821-44
+
 Le Conseil national et le bureau du Conseil national ne délibèrent valablement que si la moitié au moins de leurs membres sont présents.
 
 Les membres peuvent se faire représenter.

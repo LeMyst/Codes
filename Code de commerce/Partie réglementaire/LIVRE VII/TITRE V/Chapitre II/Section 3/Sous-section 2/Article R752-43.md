@@ -1,3 +1,5 @@
+# Article R752-43
+
 Le délai de quatre mois prévu au V de l'article L. 752-17 court à compter de la notification de la décision de saisine au demandeur.
 
 Les articles R. 752-35 à R. 752-39 s'appliquent à la procédure prévue au V de l'article L. 752-17.

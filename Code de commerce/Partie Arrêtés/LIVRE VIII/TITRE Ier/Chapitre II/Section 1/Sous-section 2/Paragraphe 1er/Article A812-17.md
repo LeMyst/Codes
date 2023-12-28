@@ -1,3 +1,5 @@
+# Article A812-17
+
 Les épreuves orales comprennent :
 
 1° Une épreuve d'une durée de trente minutes comportant un exposé de dix minutes sur un sujet de culture économique et financière suivie d'une discussion avec le jury.

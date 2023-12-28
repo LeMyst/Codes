@@ -1,3 +1,5 @@
+# Article R814-10
+
 Les membres du Conseil national élisent en leur sein, de manière paritaire, un président, un vice-président et quatre membres, qui constituent le bureau.
 
 Le bureau est élu au scrutin uninominal majoritaire à un tour pour une période de deux ans.

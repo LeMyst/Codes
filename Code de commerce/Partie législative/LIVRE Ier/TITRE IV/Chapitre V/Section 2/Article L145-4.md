@@ -1,3 +1,5 @@
+# Article L145-4
+
 La durée du contrat de location ne peut être inférieure à neuf ans.
 
 Toutefois, le preneur a la faculté de donner congé à l'expiration d'une période triennale, au moins six mois à l'avance, par lettre recommandée avec demande d'avis de réception ou par acte extrajudiciaire. Les baux conclus pour une durée supérieure à neuf ans, les baux des locaux construits en vue d'une seule utilisation, les baux des locaux à usage exclusif de bureaux et ceux des locaux de stockage mentionnés au 3° du III de l'article 231 ter du code général des impôts peuvent comporter des stipulations contraires.

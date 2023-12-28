@@ -1,3 +1,5 @@
+# Article R711-14
+
 Entre deux renouvellements, il est pourvu, lors de l'assemblée générale la plus proche et au plus tard dans les deux mois suivant la vacance du poste au sein du bureau, au remplacement du membre concerné, même si ce point n'a pas été inscrit à l'ordre du jour de cette assemblée, sous réserve d'une information préalable des membres de l'assemblée générale au plus tard cinq jours avant la tenue de la réunion de cette assemblée. En cas de vacance de la moitié des postes, le bureau est réélu dans sa totalité.
 
 Si au sein du bureau d'une chambre de commerce et d'industrie territoriale les postes de président, vice-président, trésorier et trésorier adjoint sont vacants, l'autorité de tutelle assure l'expédition des affaires courantes jusqu'à l'élection d'un nouveau bureau.

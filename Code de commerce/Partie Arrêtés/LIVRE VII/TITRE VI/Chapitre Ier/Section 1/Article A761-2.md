@@ -1,3 +1,5 @@
+# Article A761-2
+
 Le dossier type de demande de déclassement anticipé du marché d'intérêt national contient, outre la délibération du conseil régional intéressé, les pièces suivantes :
 
 1° La délibération de la commune ou de l'établissement public de coopération intercommunale sur le territoire desquels est implanté le marché d'intérêt national ;

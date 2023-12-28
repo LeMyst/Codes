@@ -1,3 +1,5 @@
+# Article A444-111
+
 Le contrat de promotion immobilière (numéro 88 du tableau 5) donne lieu à la perception d'un émolument proportionnel à la rémunération convenue du promoteur, selon le barème suivant :
 
 | Tranches d'assiette |

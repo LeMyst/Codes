@@ -1,3 +1,5 @@
+# Article R464-5
+
 La démarche mentionnée au IV de l'article L. 464-2 est effectuée par le biais d'une demande adressée soit au directeur général de la concurrence, de la consommation et de la répression des fraudes, soit au rapporteur général de l'Autorité de la concurrence. La demande est adressée par lettre recommandée avec demande d'avis de réception, par l'intermédiaire d'une plateforme d'échanges sécurisés de documents électroniques, oralement ou par tout autre moyen approprié prévu par l'administration ou par l'Autorité de la concurrence.
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes, le rapporteur général de l'Autorité de la concurrence ou un rapporteur désigné par lui à cet effet accuse, par écrit, réception de cette demande. Par dérogation à l'article R. 112-5 du code des relations entre le public et l'administration, cet accusé de réception ne mentionne que la date et l'heure de réception.

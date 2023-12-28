@@ -1,3 +1,5 @@
+# Article R228-91
+
 Pour l'application du 3° de l'article L. 228-99, l'ajustement égalise, au centième d'action près, la valeur des titres qui sont obtenus en cas d'exercice des droits attachés aux valeurs mobilières donnant accès au capital après la réalisation de l'opération et la valeur des titres qui auraient été obtenus en cas d'exercice de ces droits avant la réalisation de l'opération.
 
 A cet effet, les nouvelles bases d'exercice des droits attachés aux valeurs mobilières donnant accès au capital sont calculées en tenant compte :

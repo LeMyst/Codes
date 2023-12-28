@@ -1,3 +1,5 @@
+# Article D22-10-16
+
 I.-L'information donnée par la société sur les engagements de retraite, autres que les régimes de retraite de base et les régimes de retraites complémentaires obligatoires, ou autres avantages viagers pris par la société au bénéfice de ses mandataires sociaux en application du 4° de l'article L. 22-10-9 précise pour chaque mandataire social les éléments constitutifs essentiels de ceux-ci, en particulier :
 
 1° Pour ce qui concerne les engagements de retraites et assimilés, et tout autre avantage versé au titre de la cessation de fonctions en tout ou partie sous forme de rente, lorsque ces engagements sont à la charge de la société :

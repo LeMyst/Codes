@@ -1,3 +1,5 @@
+# Article L441-15
+
 I.-Tout professionnel opérant dans un secteur économique mentionné au III peut demander à l'autorité administrative chargée de la concurrence et de la consommation de prendre formellement position sur la conformité aux deuxième, troisième et quatrième alinéas du I de l'article L. 441-10 des modalités de computation des délais de paiement qu'il envisage de mettre en place.
 
 Cette prise de position formelle a pour objet de prémunir ce professionnel d'un changement d'appréciation de l'autorité administrative qui serait de nature à l'exposer à la sanction administrative prévue à l'article L. 441-16.

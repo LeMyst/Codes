@@ -1,3 +1,5 @@
+# Article L430-7
+
 I. - Lorsqu'une opération de concentration fait l'objet d'un examen approfondi, l'Autorité de la concurrence prend une décision dans un délai de soixante-cinq jours ouvrés à compter de l'ouverture de celui-ci.
 
 II. - Après avoir pris connaissance de l'ouverture d'un examen approfondi en application du dernier alinéa du III de l'article L. 430-5, les parties peuvent proposer des engagements de nature à remédier aux effets anticoncurrentiels de l'opération. Lorsque des engagements ou des modifications apportées à des engagements déjà proposés sont transmis à l'Autorité de la concurrence moins de vingt jours ouvrés avant la fin du délai mentionné au I, celui-ci expire vingt jours ouvrés après leur réception, dans la limite de quatre-vingt-cinq jours ouvrés à compter de l'ouverture de l'examen approfondi.

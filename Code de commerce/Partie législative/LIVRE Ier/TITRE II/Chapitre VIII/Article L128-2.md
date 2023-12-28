@@ -1,3 +1,5 @@
+# Article L128-2
+
 Les greffiers des tribunaux de commerce et les greffiers des tribunaux civils statuant en matière commerciale bénéficient d'un accès permanent au fichier mentionné à l'article L. 128-1.
 
 Peuvent être destinataires, au sens 9) de l'article 4 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, sur simple demande et sans frais, des informations et des données à caractère personnel enregistrées dans le fichier prévu au même article L. 128-1 :

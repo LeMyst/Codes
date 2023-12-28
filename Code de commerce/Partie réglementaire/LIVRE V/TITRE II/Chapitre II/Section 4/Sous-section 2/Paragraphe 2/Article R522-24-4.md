@@ -1,3 +1,5 @@
+# Article R522-24-4
+
 A l'appui de sa demande au gestionnaire de la plateforme d'inscription dans le registre du gage de marchandises représentées par un reçu d'entreposage, le créancier fournit les informations suivantes :
 
 1° La désignation du constituant et du créancier :

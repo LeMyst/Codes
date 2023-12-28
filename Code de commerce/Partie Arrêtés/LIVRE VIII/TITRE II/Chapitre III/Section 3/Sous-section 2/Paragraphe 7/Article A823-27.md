@@ -1,3 +1,5 @@
+# Article A823-27
+
 Les normes d'exercice professionnel relatives à la justification des appréciations dans les rapports du commissaire aux comptes sur les comptes annuels et consolidés, homologuées par le garde des sceaux, ministre de la justice, figurent ci-dessous :
 
 NEP-701.-JUSTIFICATION DES APPRÉCIATIONS DANS LES RAPPORTS DU COMMISSAIRE AUX COMPTES SUR LES COMPTES ANNUELS ET CONSOLIDÉS DES ENTITÉS D'INTÉRÊT PUBLIC

@@ -1,3 +1,5 @@
+# Article R123-298
+
 Le greffier du tribunal de commerce ou du tribunal judiciaire sollicite du teneur du Registre national des entreprises, par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1, l'inscription au dossier de la personne physique qui n'est pas immatriculée au registre du commerce et des sociétés, au registre spécial des agents commerciaux ou au registre spécial des entreprises à responsabilité limitée, des informations suivantes :
 
 1° Les décisions intervenues dans les procédures de sauvegarde ou de redressement ou liquidation judiciaires des entreprises ouvertes à compter du 1er janvier 2006 :

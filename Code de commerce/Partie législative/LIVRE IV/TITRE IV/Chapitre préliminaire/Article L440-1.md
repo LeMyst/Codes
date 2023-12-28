@@ -1,3 +1,5 @@
+# Article L440-1
+
 I.-La commission d'examen des pratiques commerciales est composée d'un député et d'un sénateur désignés par les commissions permanentes de leur assemblée compétentes en matière de relations commerciales entre fournisseurs et revendeurs, de membres, éventuellement honoraires, des juridictions administratives et judiciaires, de représentants des secteurs de la production et de la transformation agricole et halieutique, ainsi qu'industrielle et artisanale, des transformateurs, des grossistes, des distributeurs et de l'administration, ainsi que de personnalités qualifiées.
 
 Le président de la commission est désigné parmi ses membres par décret. Lorsque celui-ci n'est pas membre d'une juridiction, un vice-président appartenant à une juridiction administrative ou judiciaire est également désigné, dans les mêmes conditions. Elle comprend un nombre égal de représentants des producteurs et des revendeurs.

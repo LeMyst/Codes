@@ -1,3 +1,5 @@
+# Article L752-17
+
 I.-Conformément à l'article L. 425-4 du code de l'urbanisme, le demandeur, le représentant de l'Etat dans le département, tout membre de la commission départementale d'aménagement commercial, tout professionnel dont l'activité, exercée dans les limites de la zone de chalandise définie pour chaque projet, est susceptible d'être affectée par le projet ou toute association les représentant peuvent, dans le délai d'un mois, introduire un recours devant la Commission nationale d'aménagement commercial contre l'avis de la commission départementale d'aménagement commercial.
 
 La Commission nationale d'aménagement commercial émet un avis sur la conformité du projet aux critères énoncés à l'article L. 752-6 du présent code, qui se substitue à celui de la commission départementale. En l'absence d'avis exprès de la commission nationale dans le délai de quatre mois à compter de sa saisine, l'avis de la commission départementale d'aménagement commercial est réputé confirmé.

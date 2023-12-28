@@ -1,3 +1,5 @@
+# Article L223-37
+
 Un ou plusieurs associés représentant au moins le dixième du capital social peuvent, soit individuellement, soit en se groupant sous quelque forme que ce soit, demander en justice la désignation d'un ou plusieurs experts chargés de présenter un rapport sur une ou plusieurs opérations de gestion.
 
 Le ministère public et le comité d'entreprise sont habilités à agir aux mêmes fins.

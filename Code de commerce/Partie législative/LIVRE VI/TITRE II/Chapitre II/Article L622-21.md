@@ -1,3 +1,5 @@
+# Article L622-21
+
 I.-Le jugement d'ouverture interrompt ou interdit toute action en justice de la part de tous les créanciers dont la créance n'est pas mentionnée au I de l'article L. 622-17 et tendant :
 
 1° A la condamnation du débiteur au paiement d'une somme d'argent ;

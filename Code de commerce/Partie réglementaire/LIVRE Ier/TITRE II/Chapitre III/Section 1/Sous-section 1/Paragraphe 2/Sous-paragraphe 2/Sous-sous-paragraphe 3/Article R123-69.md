@@ -1,3 +1,5 @@
+# Article R123-69
+
 L'obligation prévue à l'article R. 123-66 inclut :
 
 1° La cessation totale ou partielle d'activité dans le ressort du tribunal de l'immatriculation principale, même en l'absence de dissolution ;

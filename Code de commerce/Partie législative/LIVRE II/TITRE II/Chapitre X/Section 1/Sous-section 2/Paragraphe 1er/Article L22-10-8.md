@@ -1,3 +1,5 @@
+# Article L22-10-8
+
 I.-Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, le conseil d'administration établit une politique de rémunération des mandataires sociaux. Cette politique est conforme à l'intérêt social de la société, contribue à sa pérennité et s'inscrit dans sa stratégie commerciale. Elle décrit toutes les composantes de la rémunération fixe et variable et explique le processus de décision suivi pour sa détermination, sa révision et sa mise en œuvre.
 
 Elle est présentée de manière claire et compréhensible au sein du rapport sur le gouvernement d'entreprise mentionné au dernier alinéa de l'article L. 225-37.

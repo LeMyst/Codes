@@ -1,3 +1,5 @@
+# Article L22-10-34
+
 I.-Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, l'assemblée générale ordinaire statue sur un projet de résolution portant sur les informations mentionnées au I de l'article L. 22-10-9.
 
 Lorsque l'assemblée générale ordinaire n'approuve pas le projet de résolution mentionné à l'alinéa précédent, le conseil d'administration ou le conseil de surveillance soumet une politique de rémunération révisée, tenant compte du vote des actionnaires, à l'approbation de la prochaine assemblée générale. Le versement de la somme allouée pour l'exercice en cours en application du premier alinéa de l'article L. 225-45 ou du premier alinéa de l'article L. 225-83 est suspendu jusqu'à l'approbation de la politique de rémunération révisée. Lorsqu'il est rétabli, il inclut l'arriéré depuis la dernière assemblée générale.

@@ -1,3 +1,5 @@
+# Article L236-32
+
 Les dispositions de la présente section ne sont pas applicables :
 
 1° Aux sociétés en liquidation dans la mesure où la répartition de leurs actifs entre les associés a fait l'objet d'un début d'exécution ;

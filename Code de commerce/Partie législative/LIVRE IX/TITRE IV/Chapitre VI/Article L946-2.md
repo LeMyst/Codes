@@ -1,3 +1,5 @@
+# Article L946-2
+
 L'article L. 611-1 est modifié ainsi qu'il suit :
 
 I.-Au premier alinéa, l'arrêté du représentant de l'Etat dans la région est remplacé par une décision du gouvernement de Polynésie française.

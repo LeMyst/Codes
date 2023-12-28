@@ -1,3 +1,5 @@
+# Article R470-2
+
 I. – L'autorité administrative mentionnée au quatrième alinéa du 1 du III de l'article L. 470-1 et à l'article L. 470-2 est :
 
 1° Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant nommément désigné ;

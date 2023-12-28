@@ -1,3 +1,5 @@
+# Article L145-31
+
 Sauf stipulation contraire au bail ou accord du bailleur, toute sous-location totale ou partielle est interdite.
 
 En cas de sous-location autorisée, le propriétaire est appelé à concourir à l'acte.

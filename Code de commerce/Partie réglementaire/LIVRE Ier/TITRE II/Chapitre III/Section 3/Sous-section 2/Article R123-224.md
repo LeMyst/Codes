@@ -1,3 +1,5 @@
+# Article R123-224
+
 Les numéros d'identification sont attribués, par l'Institut national de la statistique et des études économiques, aux unités légales inscrites et à leurs établissements :
 
 1° Soit, pour les entreprises, à l'occasion de la procédure de création ou de modification de leurs situations prévue à l'article L. 123-33 ;

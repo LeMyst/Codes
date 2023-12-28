@@ -1,3 +1,5 @@
+# Article R823-6-1
+
 L'entité d'intérêt public qui sollicite du bureau du Haut conseil l'autorisation de prolonger le mandat de son commissaire aux comptes, en application du III de l'article L. 823-3-1, lui adresse par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant de s'assurer de la date de sa réception, au plus tard six mois avant l'expiration du mandat, une demande comprenant :
 
 1° Les documents relatifs à la désignation initiale du commissaire aux comptes concerné et aux précédents renouvellements de son mandat ;

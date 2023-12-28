@@ -1,3 +1,5 @@
+# Article R642-29-1
+
 Le cahier des conditions de vente est déposé par le poursuivant au greffe du juge de l'exécution du tribunal judiciaire compétent dans un délai de deux mois à compter de la publication de l'ordonnance du juge-commissaire.
 
 Par exception aux sous-sections 2 et 4 de la section 1 et aux sections 2 et 3 du chapitre II du titre II du livre III du code des procédures civiles d'exécution, au plus tard le cinquième jour ouvrable suivant le dépôt du cahier des conditions de vente, le poursuivant avise, par acte d'huissier de justice, les créanciers inscrits à domicile élu et, si la vente porte sur un bien de la communauté, le conjoint du débiteur, de la date de l'audience d'adjudication. La date est fixée, à sa diligence, dans un délai compris entre deux et quatre mois suivant celle de l'avis.

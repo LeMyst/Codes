@@ -1,3 +1,5 @@
+# Article R761-12-6
+
 La décision du préfet est motivée et mentionne les délais et voies de recours.
 
 Elle est notifiée au demandeur soit par la voie administrative contre décharge, soit par lettre recommandée avec demande d'avis de réception, soit par courrier électronique dans les conditions prévues au quatrième alinéa du présent article. Elle est publiée au recueil des actes administratifs de la préfecture.

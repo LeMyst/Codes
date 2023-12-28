@@ -1,3 +1,5 @@
+# Article L444-2
+
 Les tarifs mentionnés à l'article L. 444-1 prennent en compte les coûts pertinents du service rendu et une rémunération raisonnable, définie sur la base de critères objectifs.
 
 Par dérogation au premier alinéa du présent article, peut être prévue une péréquation des tarifs applicables à l'ensemble des prestations servies. Cette péréquation peut notamment prévoir que les tarifs des prestations relatives à des biens ou des droits d'une valeur supérieure à un seuil fixé par l'arrêté conjoint prévu à l'article L. 444-3 soient fixés proportionnellement à la valeur du bien ou du droit.

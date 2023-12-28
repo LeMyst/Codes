@@ -1,3 +1,5 @@
+# Article R247-2
+
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait, pour le président, l'administrateur, le directeur général ou le gérant d'une société, d'émettre des valeurs mobilières offertes au public :
 
 1° Sans que soit insérée au Bulletin des annonces légales obligatoires, préalablement à toute mesure de publicité, une notice établie conformément à l'article R. 22-10-3 concernant l'émission d'actions lors de la constitution de la société ou, au troisième alinéa de l'article R. 225-120 concernant les augmentations de capital ;

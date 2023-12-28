@@ -1,3 +1,5 @@
+# Article A663-5
+
 L'émolument prévu à l'article R. 663-5 au titre de la mission d'assistance du débiteur (numéro 4 du tableau 4-1), est fixé proportionnellement au chiffre d'affaires de ce débiteur, selon le barème suivant :
 
 |

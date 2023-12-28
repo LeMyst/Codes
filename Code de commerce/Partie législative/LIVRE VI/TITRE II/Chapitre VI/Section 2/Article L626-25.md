@@ -1,3 +1,5 @@
+# Article L626-25
+
 Le tribunal nomme, pour la durée fixée à l'article L. 626-12, l'administrateur ou le mandataire judiciaire en qualité de commissaire chargé de veiller à l'exécution du plan. Le tribunal peut, en cas de nécessité, nommer plusieurs commissaires.
 
 A la demande du débiteur, le tribunal peut confier à l'administrateur ou au mandataire judiciaire qui n'ont pas été nommés en qualité de commissaire à l'exécution du plan une mission subséquente rémunérée, d'une durée maximale de vingt-quatre mois, dans les conditions prévues par décret en Conseil d'Etat.

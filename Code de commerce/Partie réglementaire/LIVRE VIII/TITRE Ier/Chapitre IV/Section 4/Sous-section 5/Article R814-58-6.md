@@ -1,3 +1,5 @@
+# Article R814-58-6
+
 Les données à caractère personnel et informations enregistrées dans le portail électronique prévu au deuxième alinéa de l'article L. 814-2 sont les suivantes :
 
 1° S'agissant des débiteurs soumis à une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire, les informations mentionnées au cinquième alinéa de l'article R. 621-8 ;

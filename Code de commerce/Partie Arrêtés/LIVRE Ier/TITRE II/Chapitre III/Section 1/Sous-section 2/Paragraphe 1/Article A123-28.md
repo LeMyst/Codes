@@ -1,3 +1,5 @@
+# Article A123-28
+
 Le registre national du commerce et des sociétés comprend :
 
 1° L'ensemble des inscriptions des registres du commerce et des sociétés tenus dans chaque greffe ;

@@ -1,3 +1,5 @@
+# Article R761-17
+
 Chaque marché dispose d'un règlement intérieur établi par le gestionnaire et approuvé par le préfet chargé de la police du marché.
 
 Le règlement intérieur prévoit notamment :

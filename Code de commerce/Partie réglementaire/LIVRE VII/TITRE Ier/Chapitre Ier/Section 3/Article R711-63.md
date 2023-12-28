@@ -1,3 +1,5 @@
+# Article R711-63
+
 I.-Les droits de vote à l'assemblée générale se définissent comme suit :
 
 1° Le total des droits de vote des présidents de chambres de commerce et d'industrie territoriales, locales et départementales d'Ile-de-France ainsi que des chambres des collectivités d'outre-mer régies par l'article 74 de la Constitution et de la Nouvelle-Calédonie est égal au total des droits de vote des présidents des chambres de commerce et d'industrie de région ;

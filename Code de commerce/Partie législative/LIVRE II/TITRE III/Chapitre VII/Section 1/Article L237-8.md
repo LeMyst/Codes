@@ -1,3 +1,5 @@
+# Article L237-8
+
 La cession globale de l'actif de la société ou l'apport de l'actif à une autre société, notamment par voie de fusion, est autorisé :
 
 1° Dans les sociétés en nom collectif, à l'unanimité des associés ;

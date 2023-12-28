@@ -1,3 +1,5 @@
+# Article L123-16
+
 Les petites entreprises peuvent, dans des conditions fixées par un règlement de l'Autorité des normes comptables, adopter une présentation simplifiée de leurs comptes annuels.
 
 Les moyennes entreprises peuvent, dans des conditions fixées par un règlement de l'Autorité des normes comptables, adopter une présentation simplifiée de leur compte de résultat.

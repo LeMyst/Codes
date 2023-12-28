@@ -1,3 +1,5 @@
+# Article A210-1
+
 Pour délivrer l'avis mentionné au III de l'article R. 210-21, l'organisme tiers indépendant réalise les diligences suivantes :
 
 1° Il examine l'ensemble des documents détenus par la société utiles à la formation de son avis, notamment les rapports annuels mentionnés au 3° de l'article L. 210-10 ;

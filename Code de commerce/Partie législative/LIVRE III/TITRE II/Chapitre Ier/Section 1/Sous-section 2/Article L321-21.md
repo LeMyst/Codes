@@ -1,3 +1,5 @@
+# Article L321-21
+
 I.-Le collège du Conseil des maisons de vente comprend :
 
 1° Six représentants, élus selon des modalités fixées par décret en Conseil d'Etat, parmi les personnes mentionnées au I ou au 3° du II de l'article L. 321-4, dont :

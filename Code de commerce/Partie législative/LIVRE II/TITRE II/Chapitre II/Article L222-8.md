@@ -1,3 +1,5 @@
+# Article L222-8
+
 I. - Les parts sociales ne peuvent être cédées qu'avec le consentement de tous les associés.
 
 II. - Toutefois, les statuts peuvent stipuler :

@@ -1,3 +1,5 @@
+# Article L430-1
+
 I. - Une opération de concentration est réalisée :
 
 1° Lorsque deux ou plusieurs entreprises antérieurement indépendantes fusionnent ;

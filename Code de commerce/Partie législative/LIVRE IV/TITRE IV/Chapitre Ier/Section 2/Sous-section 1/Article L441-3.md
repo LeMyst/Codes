@@ -1,3 +1,5 @@
+# Article L441-3
+
 I.-Une convention écrite conclue entre le fournisseur, à l'exception des fournisseurs de produits mentionnés à l'article L. 443-2, et le distributeur ou le prestataire de services mentionne les obligations réciproques auxquelles se sont engagées les parties à l'issue de la négociation commerciale, dans le respect des articles L. 442-1 à L. 442-3. Cette convention est établie soit dans un document unique, soit dans un ensemble formé par un contrat-cadre et des contrats d'application.
 
 I bis.-Les obligations réciproques en matière de logistique auxquelles s'engagent le fournisseur et le distributeur ou le prestataire de service, notamment le montant des pénalités mentionnées à l'article L. 441-17 et les modalités de détermination de ce montant, font l'objet d'une convention écrite, distincte de celle mentionnée au I du présent article. Les dispositions du IV du présent article relatives à l'échéance du 1er mars ne s'appliquent pas à cette convention.

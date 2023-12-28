@@ -1,3 +1,5 @@
+# Article A210-2
+
 L'organisme tiers indépendant rend un avis motivé qui comprend les éléments suivants :
 
 1° La preuve de son accréditation ;

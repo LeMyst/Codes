@@ -1,3 +1,5 @@
+# Article A444-72
+
 Les actes de renonciation (numéros 26 et 27 du tableau 5) donnent lieu à la perception des émoluments suivants :
 
 |

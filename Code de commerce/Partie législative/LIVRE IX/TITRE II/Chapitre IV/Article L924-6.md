@@ -1,3 +1,5 @@
+# Article L924-6
+
 Le II de l'article L. 441-11 est ainsi modifié :
 
 1° Le 1° est ainsi rédigé :

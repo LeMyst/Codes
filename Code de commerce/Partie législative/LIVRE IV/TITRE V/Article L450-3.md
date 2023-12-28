@@ -1,3 +1,5 @@
+# Article L450-3
+
 Les agents mentionnés à l'article L. 450-1 peuvent opérer sur la voie publique, pénétrer entre 8 heures et 20 heures dans tous lieux utilisés à des fins professionnelles et dans les lieux d'exécution d'une prestation de services, ainsi qu'accéder à tous moyens de transport à usage professionnel.
 
 Ils peuvent également pénétrer en dehors de ces heures dans ces mêmes lieux lorsque ceux-ci sont ouverts au public ou lorsqu'à l'intérieur de ceux-ci sont en cours des activités de production, de fabrication, de transformation, de conditionnement, de transport ou de commercialisation.

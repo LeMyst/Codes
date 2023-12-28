@@ -1,3 +1,5 @@
+# Article R743-163
+
 Si le dossier concerne une immatriculation à titre principal, le greffier du tribunal désormais compétent modifie la mention prévue au 2° de l'article R. 123-237.
 
 Si le dossier concerne une personne physique ou morale déjà titulaire à un titre quelconque des mentions prévues aux 1° et 2° de l'article R. 123-237 au greffe du tribunal désormais compétent, le greffier de ce tribunal classe sous ces mentions le dossier transféré.

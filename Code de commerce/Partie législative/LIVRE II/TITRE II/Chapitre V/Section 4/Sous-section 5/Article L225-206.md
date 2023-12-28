@@ -1,3 +1,5 @@
+# Article L225-206
+
 I.-Est interdite la souscription par la société de ses propres actions, soit directement, soit par une personne agissant en son propre nom, mais pour le compte de la société.
 
 Les fondateurs, ou, dans le cas d'une augmentation de capital, les membres du conseil d'administration ou du directoire, selon le cas, sont tenus, dans les conditions prévues à l'article L. 225-251 et au premier alinéa de l'article L. 225-256, de libérer les actions souscrites par la société en violation du premier alinéa.

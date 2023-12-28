@@ -1,3 +1,5 @@
+# Article R631-1
+
 La demande d'ouverture de la procédure de redressement judiciaire est déposée par le représentant légal de la personne morale ou par le débiteur personne physique au greffe du tribunal compétent.
 
 A cette demande sont jointes, outre les comptes annuels du dernier exercice, les pièces ci-après :

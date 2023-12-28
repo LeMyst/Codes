@@ -1,3 +1,5 @@
+# Article L227-2-1
+
 I. – Par dérogation aux articles L. 227-1 et L. 227-9, lorsqu'une société par actions simplifiée procède à une offre mentionnée au 2° de l'article L. 411-2 du code monétaire et financier portant sur ses titres de capital :
 
 1° (Abrogé) ;

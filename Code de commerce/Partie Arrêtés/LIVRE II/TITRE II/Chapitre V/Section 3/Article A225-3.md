@@ -1,3 +1,5 @@
+# Article A225-3
+
 I. – Pour délivrer son avis motivé mentionné au a du II de l'article R. 225-105-2, l'organisme tiers indépendant s'assure de la mise en place par la société de processus de collecte visant à l'exhaustivité et à la cohérence des informations devant être mentionnées dans la déclaration. S'il identifie des irrégularités au cours de sa mission, il les décrit.
 
 A cette fin :

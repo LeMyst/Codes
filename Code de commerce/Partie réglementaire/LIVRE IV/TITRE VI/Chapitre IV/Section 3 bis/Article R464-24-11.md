@@ -1,3 +1,5 @@
+# Article R464-24-11
+
 Dans les cinq jours qui suivent le dépôt de la déclaration et à peine de caducité de cette dernière relevée d'office, le demandeur en adresse une copie, par lettre recommandée avec demande d'avis de réception, à l'Autorité de la concurrence et au ministre chargé de l'économie. Dans le même délai et sous la même sanction, il justifie auprès du greffe de la notification de cette déclaration.
 
 Dans le même délai et sous la même sanction, le demandeur dépose au greffe des observations écrites et la liste des pièces et documents justificatifs qu'il entend produire ainsi que les pièces et documents énumérés dans cette liste.

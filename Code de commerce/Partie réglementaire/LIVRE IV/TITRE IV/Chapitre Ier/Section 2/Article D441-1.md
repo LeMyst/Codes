@@ -1,3 +1,5 @@
+# Article D441-1
+
 Les produits de grande consommation mentionnés au I de l'article L. 441-4 et les références auxquelles ils correspondent dans l'annexe II du règlement (CE) n° 1749/1999 de la Commission du 23 juillet 1999 modifiant le règlement (CE) n° 2214/96 relatif aux sous-indices des indices des prix à la consommation harmonisés sont les suivants :
 
 |

@@ -1,3 +1,5 @@
+# Article L752-14
+
 I. - La commission départementale d'aménagement commercial autorise les projets par un vote à la majorité absolue des membres présents. Le procès-verbal indique le sens du vote émis par chacun de ces membres.
 
 Le préfet, qui préside la commission départementale, ne prend pas part au vote.

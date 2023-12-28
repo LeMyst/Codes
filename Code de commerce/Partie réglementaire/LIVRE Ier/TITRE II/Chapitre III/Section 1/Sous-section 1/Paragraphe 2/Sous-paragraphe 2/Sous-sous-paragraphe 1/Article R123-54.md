@@ -1,3 +1,5 @@
+# Article R123-54
+
 La société déclare en outre :
 
 1° Les nom, nom d'usage, pseudonyme, prénoms et domicile personnel des associés tenus indéfiniment ou tenus indéfiniment et solidairement des dettes sociales, leurs date et lieu de naissance, ainsi que leur nationalité ;

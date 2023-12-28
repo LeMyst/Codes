@@ -1,3 +1,5 @@
+# Article L526-28
+
 Les créanciers de l'entrepreneur individuel dont la créance est née avant la publicité du transfert de propriété peuvent former opposition au transfert du patrimoine professionnel, dans un délai fixé par décret.
 
 L'opposition formée par un créancier n'a pas pour effet d'interdire le transfert du patrimoine professionnel.

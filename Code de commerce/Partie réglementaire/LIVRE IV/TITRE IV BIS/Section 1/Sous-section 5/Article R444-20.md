@@ -1,3 +1,5 @@
+# Article R444-20
+
 I.-En application du 1° de l'article L. 444-5, les professionnels en exercice au 1er janvier de l'année civile communiquent aux ministres de la justice et de l'économie, aux fins de vérifications statistiques, leurs noms, prénoms, date de naissance et fonctions au sein de l'office ou de l'étude, ainsi que la raison sociale, le numéro SIREN, l'adresse et la date de création de cet office ou de cette étude.
 
 II.-Aux fins du recueil des données utiles prévu par l'article L. 444-5, il est tenu, selon des modalités fixées par arrêté conjoint du ministre de la justice et du ministre chargé de l'économie, une comptabilité analytique qui :

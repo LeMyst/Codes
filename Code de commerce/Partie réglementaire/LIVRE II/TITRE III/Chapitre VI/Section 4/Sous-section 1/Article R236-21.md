@@ -1,3 +1,5 @@
+# Article R236-21
+
 Un projet de fusion transfrontalière est arrêté par l'organe de gestion, d'administration ou de direction de chacune des sociétés participant à l'opération.
 
 Il contient les indications suivantes :

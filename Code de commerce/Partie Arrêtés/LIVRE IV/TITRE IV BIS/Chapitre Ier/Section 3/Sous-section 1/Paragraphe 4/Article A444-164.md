@@ -1,3 +1,5 @@
+# Article A444-164
+
 Le compte d'administration légale, d'acceptation de la succession à concurrence de l'actif net, de copropriété, d'exécution testamentaire, de gestion de mandat, de séquestre et autres (numéro 171 du tableau 5) donne lieu à la perception d'un émolument proportionnel au chapitre le plus élevé en recette ou en dépense, avec un minimum de perception de 75,46 € par compte, selon le barème suivant :
 
 | Tranches d'assiette |

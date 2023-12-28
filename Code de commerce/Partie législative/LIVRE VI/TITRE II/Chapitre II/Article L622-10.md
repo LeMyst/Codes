@@ -1,3 +1,5 @@
+# Article L622-10
+
 A tout moment de la période d'observation, le tribunal, à la demande du débiteur peut ordonner la cessation partielle de l'activité.
 
 Dans les mêmes conditions, à la demande du débiteur, de l'administrateur, du mandataire judiciaire, du ministère public ou d'office, il convertit la procédure en un redressement judiciaire, si les conditions de l'article L. 631-1 sont réunies, ou prononce la liquidation judiciaire, si les conditions de l'article L. 640-1 sont réunies.

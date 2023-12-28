@@ -1,3 +1,5 @@
+# Article R712-15
+
 Le budget est un document unique comprenant l'ensemble des comptes retraçant les activités exercées directement par l'établissement et celles dont il contrôle l'exercice par l'intermédiaire de personnes dépendant de lui. Ce caractère unique ne fait pas obstacle à ce que le budget comprenne, dans les conditions fixées par arrêté du ministre chargé de la tutelle des chambres de commerce et d'industrie, des regroupements ou des subdivisions, sous forme de sections comptables ou autres, destinées à individualiser certaines activités, notamment économiques.
 
 Le budget primitif peut faire l'objet, en cas de nécessité, de budgets rectificatifs.

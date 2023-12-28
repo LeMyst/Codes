@@ -1,3 +1,5 @@
+# Article A321-37
+
 Les attributions de maître de stage sont remplies par une personne habilitée à diriger des ventes volontaires de meubles aux enchères publiques.
 
 Lorsque la durée du stage excède une année, le conseil des maisons de vente s'assure à l'issue d'une première période de douze mois puis tous les six mois du bon déroulement du stage et de l'acquisition de connaissances par le stagiaire. A cet effet, il recueille les observations du maître de stage et organise un entretien avec le stagiaire destiné à évaluer ses connaissances pratiques.

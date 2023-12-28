@@ -1,3 +1,5 @@
+# Article R141-1
+
 La publication au Bulletin officiel des annonces civiles et commerciales prévue à l'article L. 141-12 contient les indications mentionnées à l'article R. 123-211.
 
 La publication dans un support habilité à recevoir les annonces légales prévue à l'article L. 141-12 est effectuée sous forme d'extrait ou d'avis et contient les indications suivantes :

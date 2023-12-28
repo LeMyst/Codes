@@ -1,3 +1,5 @@
+# Article A743-12
+
 I.-Les prestations figurant aux numéros 116 à 136 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception des émoluments suivants :
 
 | Numéro de

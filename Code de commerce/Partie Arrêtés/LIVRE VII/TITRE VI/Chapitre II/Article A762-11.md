@@ -1,3 +1,5 @@
+# Article A762-11
+
 Le traitement automatisé a pour finalité d'assurer :
 
 1° La télédéclaration des manifestations commerciales mentionnées aux articles R. 762-4 et R. 762-10, ainsi que la télédéclaration des parcs d'enregistrement mentionnées à l'article R. 762-1 ;

@@ -1,3 +1,5 @@
+# Article L631-18
+
 Les dispositions des chapitres III, IV et V du titre II du présent livre sont applicables à la procédure de redressement judiciaire, sous réserve des dispositions qui suivent.
 
 Pour l'application du quatrième alinéa de l'article L. 623-3, la consultation porte sur les mesures que l'administrateur envisage de proposer et le débiteur est également consulté.

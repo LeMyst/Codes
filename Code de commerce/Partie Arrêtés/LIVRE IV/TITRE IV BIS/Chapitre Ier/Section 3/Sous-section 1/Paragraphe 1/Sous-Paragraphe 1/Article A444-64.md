@@ -1,3 +1,5 @@
+# Article A444-64
+
 Les actes de délivrance de legs (numéros 9 et 10 du tableau 5) donnent lieu à la perception d'un émolument proportionnel :
 
 1° Selon le barème suivant, s'agissant de l'acte avec décharge, quittance ou acceptation :

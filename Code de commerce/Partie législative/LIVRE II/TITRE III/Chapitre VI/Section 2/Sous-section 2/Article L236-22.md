@@ -1,3 +1,5 @@
+# Article L236-22
+
 Lorsque la scission doit être réalisée par apports à des sociétés nouvelles, chacune des sociétés nouvelles peut être constituée sans autre apport que celui de la société scindée.
 
 En ce cas, et si les actions de chacune des sociétés nouvelles sont attribuées aux actionnaires de la société scindée proportionnellement à leurs droits dans le capital de cette société, il n'y a pas lieu à l'établissement du rapport mentionné à l'article L. 236-10 ni, le cas échéant, à celui mentionné au I de l'article L. 236-9.

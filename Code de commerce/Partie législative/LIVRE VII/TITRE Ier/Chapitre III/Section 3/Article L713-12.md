@@ -1,3 +1,5 @@
+# Article L713-12
+
 I. - Abrogé.
 
 II. - Le nombre de sièges d'une chambre de commerce et d'industrie territoriale est de vingt-quatre à cent, dans des conditions fixées par décret en Conseil d'Etat.

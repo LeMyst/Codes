@@ -1,3 +1,5 @@
+# Article R822-120
+
 En cas de dissolution de la société, le liquidateur est choisi parmi les associés de la société de participations financières de profession libérale de commissaires aux comptes.
 
 Plusieurs liquidateurs peuvent être désignés.

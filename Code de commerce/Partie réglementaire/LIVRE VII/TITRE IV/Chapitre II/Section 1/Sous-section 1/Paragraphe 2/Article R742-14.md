@@ -1,3 +1,5 @@
+# Article R742-14
+
 Le stagiaire est radié du registre du stage par décision du Conseil national des greffiers des tribunaux de commerce :
 
 1° S'il fait l'objet d'une condamnation pénale pour des faits contraires à l'honneur ou à la probité ;

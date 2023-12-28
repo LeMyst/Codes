@@ -1,3 +1,5 @@
+# Article R22-10-27
+
 I.-Toute personne qui procède à une sollicitation active de mandats au sens de l'article L. 22-10-41 publie sur son site internet un document intitulé " politique de vote ", régulièrement mis à jour. Ce document peut en outre être consulté à l'adresse du domicile ou du siège social qu'il mentionne.
 
 II.-Il contient :

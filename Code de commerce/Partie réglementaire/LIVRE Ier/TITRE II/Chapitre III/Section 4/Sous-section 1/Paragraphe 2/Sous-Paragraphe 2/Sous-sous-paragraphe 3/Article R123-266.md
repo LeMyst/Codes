@@ -1,3 +1,5 @@
+# Article R123-266
+
 Font l'objet d'un dépôt par la personne morale, en annexe du Registre national des entreprises, la copie certifiée conforme des pièces suivantes :
 
 1° Les actes constitutifs des personnes morales mentionnés aux articles R. 123-103 et R. 123-104, dans les délais prévus par ces mêmes articles ;

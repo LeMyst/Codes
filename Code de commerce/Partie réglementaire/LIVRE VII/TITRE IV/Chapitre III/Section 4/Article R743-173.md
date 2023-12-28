@@ -1,3 +1,5 @@
+# Article R743-173
+
 Lorsque la modification prévue à l'article R. 743-158 affecte le ressort d'un tribunal judiciaire statuant en matière commerciale ou le greffe d'un tribunal mixte de commerce, elle donne lieu à indemnisation dans les conditions suivantes :
 
 1° En cas d'augmentation du ressort du tribunal judiciaire, les greffiers des tribunaux de commerce sont indemnisés par l'Etat à raison de la suppression de leur office ou de la diminution de leur compétence territoriale ;

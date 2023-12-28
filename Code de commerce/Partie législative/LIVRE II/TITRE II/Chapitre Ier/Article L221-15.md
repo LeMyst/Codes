@@ -1,3 +1,5 @@
+# Article L221-15
+
 La société prend fin par le décès de l'un des associés, sous réserve des dispositions du présent article.
 
 S'il a été stipulé qu'en cas de mort de l'un des associés, la société continuerait avec son héritier ou seulement avec les associés survivants, ces dispositions sont suivies, sauf à prévoir que pour devenir associé, l'héritier devra être agréé par la société.

@@ -1,3 +1,5 @@
+# Article A663-24
+
 L'émolument prévu à l'article R. 663-27 au titre des obligations résultant de la cessation d'activité d'une ou de plusieurs installations classées au sens du titre Ier du livre V du code de l'environnement (numéro 10 du tableau 4-3) est fixé à :
 
 1° 470,25 € lorsque la ou les installations classées sont soumises à déclaration ;

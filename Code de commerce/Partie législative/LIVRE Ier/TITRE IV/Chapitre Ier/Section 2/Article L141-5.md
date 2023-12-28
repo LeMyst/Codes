@@ -1,3 +1,5 @@
+# Article L141-5
+
 Le privilège du vendeur d'un fonds de commerce n'a lieu que si la vente a été constatée par un acte authentique ou sous seing privé, dûment enregistré.
 
 Il ne porte que sur les éléments du fonds énumérés dans la vente et dans l'inscription, et à défaut de désignation précise, que sur l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage.

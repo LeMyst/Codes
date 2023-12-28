@@ -1,3 +1,5 @@
+# Article A444-76
+
 La constitution de rente perpétuelle ou de rente viagère portant sur un immeuble (numéro 32 du tableau 5), ainsi que le rachat de rente viagère portant sur un immeuble donne lieu à la perception d'un émolument proportionnel au capital formé de vingt fois la rente perpétuelle et de dix fois la rente viagère, selon le barème suivant :
 
 | Tranches d'assiette |

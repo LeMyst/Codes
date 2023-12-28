@@ -1,3 +1,5 @@
+# Article L711-10
+
 I.-Par dérogation au premier alinéa de l'article L. 711-7, une chambre de commerce et d'industrie de région peut, par convention, confier à une chambre de commerce et d'industrie territoriale ou départementale d'Ile-de-France qui lui est rattachée :
 
 1° La maîtrise d'ouvrage de tout projet d'infrastructure ou d'équipement et la gestion de tout service prévu au 4° de l'article L. 711-7 ;

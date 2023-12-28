@@ -1,3 +1,5 @@
+# Article A444-70
+
 L'option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du prédécédé ou pour le prélèvement de biens communs (numéro 24 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |

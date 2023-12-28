@@ -1,3 +1,5 @@
+# Article L228-2
+
 I.-En vue de l'identification des propriétaires de titres au porteur, les statuts peuvent prévoir que la société émettrice ou un tiers désigné par celle-ci est en droit de demander, à tout moment et contre rémunération à sa charge, que les informations concernant les propriétaires de ses actions et des titres conférant immédiatement ou à terme le droit de vote dans ses propres assemblées d'actionnaires soient transmises à la société.
 
 La demande d'informations mentionnée au premier alinéa du présent I peut être faite par un tiers désigné, par la société émettrice, à l'effet de recueillir les informations et de les lui transmettre.

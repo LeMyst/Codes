@@ -1,3 +1,5 @@
+# Article R814-120
+
 Chaque associé dispose d'un nombre de voix égal quel que soit le nombre de parts qu'il possède.
 
 Un associé peut donner mandat écrit à un autre associé de le représenter à l'assemblée. Toutefois, un associé ne peut être porteur de plus de deux mandats.

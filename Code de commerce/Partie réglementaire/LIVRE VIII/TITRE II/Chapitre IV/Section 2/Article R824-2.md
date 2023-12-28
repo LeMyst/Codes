@@ -1,3 +1,5 @@
+# Article R824-2
+
 I.-Peuvent être habilitées en qualité d'enquêteurs les personnes qui justifient d'une expérience professionnelle d'au moins trois années dans les domaines juridique, comptable ou financier ou dans le domaine de la certification des comptes ou de l'information financière et n'ayant pas fait l'objet de l'une des condamnations mentionnées à l'article L. 500-1 du code monétaire et financier.
 
 Le rapporteur général habilite les enquêteurs de manière individuelle pour une durée de trois ans renouvelable.

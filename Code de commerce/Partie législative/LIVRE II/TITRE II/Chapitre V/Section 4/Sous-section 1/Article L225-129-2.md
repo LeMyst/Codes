@@ -1,3 +1,5 @@
+# Article L225-129-2
+
 Lorsque l'assemblée générale extraordinaire délègue au conseil d'administration ou au directoire sa compétence pour décider de l'augmentation de capital, elle fixe la durée, qui ne peut excéder vingt-six mois, durant laquelle cette délégation peut être utilisée et le plafond global de cette augmentation.
 
 Cette délégation prive d'effet toute délégation antérieure ayant le même objet.

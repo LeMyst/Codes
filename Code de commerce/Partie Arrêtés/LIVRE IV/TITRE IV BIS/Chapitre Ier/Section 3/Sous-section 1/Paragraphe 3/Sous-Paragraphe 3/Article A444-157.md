@@ -1,3 +1,5 @@
+# Article A444-157
+
 L'ordre amiable, avec ou sans quittance (numéro 158 du tableau 5), donne lieu à la perception d'un émolument proportionnel à l'actif brut, selon le barème suivant :
 
 |

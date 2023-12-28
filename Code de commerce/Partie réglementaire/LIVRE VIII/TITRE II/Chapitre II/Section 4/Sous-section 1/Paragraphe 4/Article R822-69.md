@@ -1,3 +1,5 @@
+# Article R822-69
+
 Plusieurs liquidateurs peuvent être désignés.
 
 L'acte de nomination du liquidateur, quelle que soit sa forme, est adressé par ce dernier au Haut conseil.

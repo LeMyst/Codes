@@ -1,3 +1,5 @@
+# Article L125-11
+
 Le règlement intérieur détermine les règles propres à assurer une politique commerciale commune. Il fixe les conditions générales d'exploitation, et, notamment :
 
 1° Les jours et heures d'ouverture ainsi que, le cas échéant, les périodes de fermeture saisonnières ou pour congés annuels ;

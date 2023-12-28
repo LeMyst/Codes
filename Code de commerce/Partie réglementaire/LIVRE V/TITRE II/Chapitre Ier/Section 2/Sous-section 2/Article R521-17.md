@@ -1,3 +1,5 @@
+# Article R521-17
+
 A réception des pièces mentionnées aux articles R. 521-13 et R. 521-14, le greffier procède à l'inscription de la formalité en reportant sur le registre les modifications inscrites sur les bordereaux ainsi que la date de la formalité modificative.
 
 Les justificatifs visés à l'article R. 521-14 ainsi que l'un des bordereaux, si deux exemplaires ont été remis, sont annexés à l'inscription.

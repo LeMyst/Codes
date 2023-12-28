@@ -1,3 +1,5 @@
+# Article A321-3
+
 Sont admis en dispense d'un diplôme national de licence en droit requis pour diriger des ventes volontaires de meubles aux enchères publiques :
 
 1° Tout diplôme national sanctionnant un niveau de formation correspondant au moins à trois années d'études après le baccalauréat dans les disciplines juridiques, économiques, commerciales ou de gestion ;

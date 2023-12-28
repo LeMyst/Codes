@@ -1,3 +1,5 @@
+# Article R228-31
+
 Les décisions des assemblées générales d'actionnaires mentionnées à l'article R. 228-28 sont publiées au Bulletin des annonces légales obligatoires.
 
 Cette publication indique la date à laquelle débuteront les opérations de regroupement ; cette date est postérieure de quinze jours au moins à celle de la publication.

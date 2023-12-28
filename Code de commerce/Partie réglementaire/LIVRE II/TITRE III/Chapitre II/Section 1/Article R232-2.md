@@ -1,3 +1,5 @@
+# Article R232-2
+
 Les sociétés commerciales qui, à la clôture d'un exercice social, comptent trois cents salariés ou plus ou dont le montant net du chiffre d'affaires, à la même époque, est égal ou supérieur à 18 000 000 euros, sont tenues d'établir les documents mentionnés à l'article L. 232-2.
 
 Elles cessent d'être assujetties à cette obligation lorsqu'elles ne remplissent aucune de ces conditions pendant deux exercices successifs.

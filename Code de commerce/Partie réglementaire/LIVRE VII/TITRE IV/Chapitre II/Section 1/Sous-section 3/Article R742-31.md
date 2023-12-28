@@ -1,3 +1,5 @@
+# Article R742-31
+
 Dans le mois de leur nomination, les greffiers des tribunaux de commerce prêtent serment devant le tribunal de commerce, en ces termes :
 
 "Je jure de loyalement remplir mes fonctions avec exactitude et probité et d'observer en tout les devoirs qu'elles m'imposent."

@@ -1,3 +1,5 @@
+# Article A444-177
+
 Les actes et formalités relatifs au livre foncier décret n° 2009-1193 du 7 octobre 2009relatif au livre foncier et à son informatisation dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle susvisé donnent à la perception des émoluments suivants :
 
 1° La requête en délivrance d'un certificat de non-dommageabilité prévu par la loi d'Alsace-Lorraine du 19 juin 1906 sur le certificat de non-dommageabilité donne lieu à la perception d'un émolument fixe conformément au tableau ci-après :

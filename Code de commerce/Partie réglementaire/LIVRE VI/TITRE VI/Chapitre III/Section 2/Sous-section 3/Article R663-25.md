@@ -1,3 +1,5 @@
+# Article R663-25
+
 Il est alloué au mandataire judiciaire un émolument déterminé par un arrêté pris en application de l'article L. 444-3 :
 
 1° Pour la contestation des créances autres que salariales, par créance dont l'admission ou le rejet a donné lieu à une décision du juge-commissaire inscrite sur l'état des créances mentionné à l'article R. 624-8 ;

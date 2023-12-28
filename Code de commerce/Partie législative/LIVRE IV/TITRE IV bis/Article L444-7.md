@@ -1,3 +1,5 @@
+# Article L444-7
+
 Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, précise les modalités d'application du présent titre, notamment :
 
 1° Les modalités selon lesquelles les coûts pertinents et la rémunération raisonnable, mentionnés au premier alinéa de l'article L. 444-2, sont évalués globalement pour l'ensemble des prestations tarifées en application de l'article L. 444-1 ;

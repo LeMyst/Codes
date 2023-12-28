@@ -1,3 +1,5 @@
+# Article R743-142-1
+
 Pour la sous-catégorie des prestations relatives au registre du commerce et des sociétés mentionnée au tableau 2 de l'article annexe 4-7, l'émolument de chaque prestation :
 
 1° Est réclamé par le greffier, lors de sa perception, distinctement du montant des droits dus à l'Institut national de la propriété industrielle au titre de la tenue du Registre national des entreprises, à l'occasion des dépôts mentionnés à l'article R. 123-301 ;

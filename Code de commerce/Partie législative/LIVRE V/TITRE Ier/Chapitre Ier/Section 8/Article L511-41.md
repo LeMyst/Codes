@@ -1,3 +1,5 @@
+# Article L511-41
+
 Lorsque le dernier jour du délai accordé pour l'accomplissement de l'acte de notification de la non-exécution du mandat de virement ou du chèque postal est un jour férié légal, ce délai est prorogé jusqu'au premier jour ouvrable qui en suit l'expiration. Les jours fériés intermédiaires sont compris dans la computation du délai. Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun paiement ne peut être exigé ni aucun protêt dressé.
 
 Le tiré de la lettre de change qui reçoit la notification doit, s'il ne paie pas la lettre de change ainsi que les frais de notification et, s'il y a lieu, du protêt du chèque, restituer la lettre de change à l'officier ministériel instrumentaire. Celui-ci dresse immédiatement le protêt faute de paiement de la lettre de change.

@@ -1,3 +1,5 @@
+# Article L229-3
+
 I.-Dans un délai fixé par voie réglementaire, le greffier du tribunal dans le ressort duquel la société participant à l'opération est immatriculée délivre, après avoir procédé à la vérification prévue à l'article L. 236-17, une attestation de conformité des actes et des formalités préalables à la fusion.
 
 Un notaire ou le greffier du tribunal dans le ressort duquel la société issue de la fusion sera immatriculée contrôle, dans un délai fixé par voie réglementaire, la légalité de la réalisation de la fusion et de la constitution de la société nouvelle issue de la fusion.

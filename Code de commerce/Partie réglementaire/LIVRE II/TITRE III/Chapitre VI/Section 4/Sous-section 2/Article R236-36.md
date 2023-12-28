@@ -1,3 +1,5 @@
+# Article R236-36
+
 Outre les informations mentionnées à l'article R. 236-21, le projet de scission transfrontalière contient les indications suivantes :
 
 1° Le calendrier indicatif envisagé pour la scission transfrontalière ;

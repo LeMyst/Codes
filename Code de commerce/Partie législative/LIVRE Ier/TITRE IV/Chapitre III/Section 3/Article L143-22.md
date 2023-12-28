@@ -1,3 +1,5 @@
+# Article L143-22
+
 Lorsque la confiscation d'un fonds de commerce est prononcée par une juridiction répressive en application des articles 225-16, 225-19 et 225-22 du code pénal et 706-39 du code de procédure pénale, l'Etat doit procéder à la mise en vente du fonds confisqué selon les formes prévues par le présent titre dans un délai d'un an, sauf prorogation exceptionnelle de ce délai par ordonnance du président du tribunal judiciaire. Il n'est tenu à l'égard des créanciers qu'à concurrence du prix de vente de ce fonds.
 
 Cette mise en vente doit être réalisée sous forme d'une annonce légale faite quarante-cinq jours au moins avant la vente, que celle-ci ait lieu par adjudication ou sous forme amiable.

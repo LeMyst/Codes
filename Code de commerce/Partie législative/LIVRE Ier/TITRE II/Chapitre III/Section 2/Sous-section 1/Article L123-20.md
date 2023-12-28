@@ -1,3 +1,5 @@
+# Article L123-20
+
 Les comptes annuels doivent respecter le principe de prudence. Pour leur établissement, le commerçant, personne physique ou morale, est présumé poursuivre ses activités.
 
 Même en cas d'absence ou d'insuffisance du bénéfice, il doit être procédé aux amortissements, dépréciations et provisions nécessaires.

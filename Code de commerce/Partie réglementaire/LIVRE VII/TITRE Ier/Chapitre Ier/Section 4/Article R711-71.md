@@ -1,3 +1,5 @@
+# Article R711-71
+
 Les chambres de commerce et d'industrie territoriales, locales et départementales d'Ile-de-France, et de région ne peuvent se réunir en assemblée générale que toutes catégories et sous-catégories professionnelles confondues lorsque ces dernières sont constituées.
 
 Les chambres de commerce et d'industrie de région, les chambres de commerce et d'industrie territoriales, locales et départementales d'Ile-de-France et les groupements interconsulaires ne peuvent valablement délibérer que si le nombre des membres élus présents, ou, s'agissant des chambres de régions, des membres présents et représentés, dépasse la moitié du nombre des membres en exercice.

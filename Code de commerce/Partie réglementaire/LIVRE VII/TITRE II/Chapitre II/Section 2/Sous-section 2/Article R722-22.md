@@ -1,3 +1,5 @@
+# Article R722-22
+
 La déclaration d'intérêts des juges des tribunaux de commerce mentionnée au I de l'article L. 722-21 comporte les éléments suivants :
 
 1° L'identification du déclarant :

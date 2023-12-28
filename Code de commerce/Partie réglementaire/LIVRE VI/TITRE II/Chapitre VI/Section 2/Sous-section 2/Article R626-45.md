@@ -1,3 +1,5 @@
+# Article R626-45
+
 La demande présentée par le débiteur en application de l'article L. 626-26 ou par le commissaire à l'exécution du plan est faite par requête.
 
 Le greffier convoque, par lettre recommandée avec demande d'avis de réception, le débiteur, les contrôleurs, les représentants de la délégation du personnel du comité social et économique qui sont désignés conformément à l'article R. 621-2. Il avise de la date de l'audience le ministère public ainsi que le commissaire à l'exécution du plan.

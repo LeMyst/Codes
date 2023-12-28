@@ -1,3 +1,5 @@
+# Article A444-82
+
 Le contrat de mariage, la contre-lettre, le changement de régime matrimonial (numéro 41 du tableau 5) donnent lieu à la perception :
 
 1° Lorsqu'il n'y a ni apports ni dots ou lorsque la valeur des biens dont la propriété est déclarée est inférieure ou égale à 30 800 €, d'un émolument fixe de 188,68 € ;

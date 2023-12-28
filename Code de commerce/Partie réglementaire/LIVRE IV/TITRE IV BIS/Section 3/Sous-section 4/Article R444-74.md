@@ -1,3 +1,5 @@
+# Article R444-74
+
 Avant tout règlement, les avocats sont tenus de remettre aux parties, même si celles-ci ne le requièrent pas, un document, dénommé “ états de frais ”, présentant le compte détaillé des émoluments, frais et débours dont elles sont redevables.
 
 Les états de frais doivent faire ressortir séparément et distinctement les émoluments, les provisions versées, les frais et les débours, avec mention :

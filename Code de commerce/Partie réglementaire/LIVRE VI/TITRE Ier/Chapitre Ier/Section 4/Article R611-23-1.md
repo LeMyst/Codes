@@ -1,3 +1,5 @@
+# Article R611-23-1
+
 I. - Lorsque les conditions prévues au 4° de l'article L. 721-8 sont réunies, le débiteur adresse ou remet directement au président du tribunal de commerce spécialisé compétent sa requête aux fins d'ouverture d'une procédure de conciliation. II. - Lorsqu'un président de tribunal de commerce saisi estime que l'examen de la requête aux fins d'ouverture d'une procédure de conciliation relève de la compétence d'un tribunal de commerce spécialisé, il peut décider d'office du renvoi de la requête devant ce tribunal. Il statue par ordonnance motivée après avoir entendu ou dûment appelé le débiteur et recueilli l'avis du ministère public. Le greffier du tribunal de commerce saisi transmet aussitôt le dossier au président du tribunal de commerce spécialisé désigné, avec une copie de l'ordonnance de renvoi.
 
 Ces dispositions s'appliquent également en cours de procédure au renvoi au tribunal de commerce spécialisé décidé d'office par le président du tribunal de commerce saisi.

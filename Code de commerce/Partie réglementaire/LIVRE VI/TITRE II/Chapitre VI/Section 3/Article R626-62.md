@@ -1,3 +1,5 @@
+# Article R626-62
+
 I. ‒ Pour l'application du V de l'article L. 626-30 et de l'article L. 626-30-2, les détenteurs de capital sont répartis au sein d'une ou plusieurs classes de parties affectées et convoqués conformément aux dispositions du livre II, sous réserve des dispositions du présent article.
 
 II. ‒ Le délai entre la date soit de l'insertion ou de la dernière des insertions contenant un avis de convocation, soit de l'envoi des lettres, soit de la transmission de la convocation par voie de communication électronique et la date du vote de la classe des détenteurs de capital est au moins de dix jours.

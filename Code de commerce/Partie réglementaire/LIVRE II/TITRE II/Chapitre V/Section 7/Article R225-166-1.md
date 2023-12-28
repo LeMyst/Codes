@@ -1,3 +1,5 @@
+# Article R225-166-1
+
 Le seuil mentionné au quatrième alinéa de l'article L. 225-248 est égal :
 
 a) Lorsque les dispositions législatives et réglementaires applicables n'imposent pas de capital social minimal à la société en raison de sa forme sociale, à 1 % du total du bilan de cette société, constaté lors de la dernière clôture d'exercice ;

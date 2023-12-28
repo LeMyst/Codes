@@ -1,1 +1,3 @@
+# Article L441-18
+
 En cas d'inexécution d'un engagement contractuel du distributeur, le fournisseur peut lui infliger des pénalités. Elles sont proportionnées au préjudice subi au regard de l'inexécution d'engagements contractuels, dans la limite d'un plafond équivalent à 2 % de la valeur, au sein de la commande, de la catégorie de produits commandés concernée par l'inexécution desdits engagements. La preuve du manquement doit être apportée par le fournisseur par tout moyen. Le distributeur dispose d'un délai raisonnable pour vérifier et, le cas échéant, contester la réalité du grief correspondant. Le présent article n'est pas applicable aux relations commerciales avec les grossistes au sens du II de l'article L. 441-4.

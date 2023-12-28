@@ -1,3 +1,5 @@
+# Article L228-12
+
 I.-L'assemblée générale extraordinaire des actionnaires est seule compétente pour décider l'émission et la conversion des actions de préférence au vu d'un rapport spécial des commissaires aux comptes. Elle peut déléguer ce pouvoir dans les conditions fixées par les articles L. 225-129 à L. 225-129-6.
 
 Les modalités de conversion des actions de préférence peuvent également être fixées dans les statuts.

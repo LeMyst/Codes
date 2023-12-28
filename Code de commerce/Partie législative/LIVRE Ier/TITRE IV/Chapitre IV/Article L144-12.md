@@ -1,3 +1,5 @@
+# Article L144-12
+
 La partie qui veut demander la révision doit en faire la notification à l'autre partie par lettre recommandée avec demande d'avis de réception ou par acte extrajudiciaire.
 
 A défaut d'accord amiable, l'instance est introduite et jugée conformément aux dispositions prévues en matière de révision du prix des baux à loyer d'immeubles ou de locaux à usage commercial ou industriel.

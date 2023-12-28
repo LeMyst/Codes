@@ -1,3 +1,5 @@
+# Article R824-20
+
 La décision énonce les considérations de droit et de fait sur lesquelles elle se fonde. Elle indique le délai de recours devant le Conseil d'Etat. Le cas échéant, elle mentionne ceux des frais de la procédure qui sont à la charge de la personne à l'encontre de laquelle la sanction a été prononcée. Elle est signée par le président et mentionne les noms des personnes qui ont statué.
 
 Lorsqu'elle prononce une injonction de mettre un terme à un manquement et de s'abstenir de le réitérer, la décision mentionne le délai au terme duquel la personne sanctionnée est tenue d'avoir fait cesser le ou les manquements constatés.

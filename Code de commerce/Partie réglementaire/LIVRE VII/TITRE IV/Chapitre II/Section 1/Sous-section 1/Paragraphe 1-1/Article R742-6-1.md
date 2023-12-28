@@ -1,3 +1,5 @@
+# Article R742-6-1
+
 Peuvent se porter candidates au concours d'accès à la profession de greffier de tribunal de commerce les personnes remplissant les conditions mentionnées aux 1° à 6° de l'article R. 742-1.
 
 Le concours a lieu une fois par an.

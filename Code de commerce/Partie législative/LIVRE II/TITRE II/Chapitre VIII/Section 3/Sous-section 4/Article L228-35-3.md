@@ -1,3 +1,5 @@
+# Article L228-35-3
+
 Les actions à dividende prioritaire sans droit de vote peuvent être créées par augmentation de capital ou par conversion d'actions ordinaires déjà émises. Elles peuvent être converties en actions ordinaires.
 
 Les actions à dividende prioritaire sans droit de vote ne peuvent représenter plus du quart du montant du capital social. Leur valeur nominale est égale à celle des actions ordinaires ou, le cas échéant, des actions ordinaires de l'une des catégories précédemment émises par la société.

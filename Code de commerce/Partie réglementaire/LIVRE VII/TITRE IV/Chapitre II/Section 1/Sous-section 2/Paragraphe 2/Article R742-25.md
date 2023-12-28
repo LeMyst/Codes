@@ -1,3 +1,5 @@
+# Article R742-25
+
 Le greffier d'un tribunal de commerce supprimé est nommé greffier d'un tribunal de commerce créé sans qu'il y ait lieu de recourir à la procédure prévue aux articles R. 742-19 à R. 742-23, dans les hypothèses suivantes :
 
 1° Lorsque le tribunal de commerce créé a le même ressort que le tribunal supprimé, la modification affectant seulement la commune siège du tribunal ;

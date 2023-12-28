@@ -1,3 +1,5 @@
+# Article R821-54
+
 I.-Les membres du conseil régional sont élus pour une durée de quatre ans, au scrutin secret, de liste à un tour avec dépôt de liste comportant autant de candidats que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation.
 
 Lorsqu'il est procédé à des regroupements de compagnies régionales en application du troisième alinéa de l'article L. 821-6, chaque liste comporte au moins un candidat du ressort de chacune des compagnies régionales regroupées.

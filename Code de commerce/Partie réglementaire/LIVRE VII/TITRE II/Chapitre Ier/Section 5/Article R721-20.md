@@ -1,3 +1,5 @@
+# Article R721-20
+
 Un collège de déontologie, placé auprès du Conseil national des tribunaux de commerce, est chargé de favoriser la bonne application des principes déontologiques inhérents à l'exercice des fonctions des juges des tribunaux de commerce.
 
 Il lui appartient, à ce titre :

@@ -1,3 +1,5 @@
+# Article R225-76
+
 Le formulaire de vote par correspondance permet un vote sur chacune des résolutions, dans l'ordre de leur présentation à l'assemblée ; il offre à l'actionnaire la possibilité d'exprimer sur chaque résolution un vote favorable ou défavorable à son adoption ou sa volonté de s'abstenir de voter.
 
 Il informe l'actionnaire de manière très apparente que toute abstention exprimée dans le formulaire ou résultant de l'absence d'indication de vote ne sera pas considérée comme un vote exprimé.

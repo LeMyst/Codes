@@ -1,3 +1,5 @@
+# Article L143-1
+
 En cas de déplacement du fonds de commerce, les créances inscrites deviennent de plein droit exigibles si le propriétaire du fonds n'a pas fait connaître aux créanciers inscrits, quinze jours au moins d'avance, son intention de déplacer le fonds et le nouveau siège qu'il entend lui donner.
 
 Dans la quinzaine de l'avis à lui notifié ou dans la quinzaine du jour où il a eu connaissance du déplacement, le créancier inscrit le plus diligent fait mentionner le nouveau siège du fonds en marge de l'inscription initiale.

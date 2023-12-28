@@ -1,3 +1,5 @@
+# Article L462-4-2
+
 L'Autorité de la concurrence rend au ministre de la justice, qui en est le garant, un avis sur la liberté d'installation des avocats au Conseil d'Etat et à la Cour de cassation.
 
 Elle fait toutes recommandations en vue d'améliorer l'accès aux offices d'avocat au Conseil d'Etat et à la Cour de cassation dans la perspective d'augmenter de façon progressive le nombre de ces offices. Elle établit, en outre, un bilan en matière d'accès des femmes et des hommes à ces offices. Ces recommandations sont rendues publiques au moins tous les deux ans.

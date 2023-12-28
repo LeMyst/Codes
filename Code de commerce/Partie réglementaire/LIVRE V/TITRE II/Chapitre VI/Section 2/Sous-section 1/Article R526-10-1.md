@@ -1,3 +1,5 @@
+# Article R526-10-1
+
 Les personnes ayant effectué une déclaration d'affectation en application de l'article L. 526-7 et bénéficiant des régimes prévus aux articles 50-0, 64 bis et 102 ter du code général des impôts tiennent :
 
 1° Un livre des recettes et, lorsque la nature de leur activité le requiert, un registre des achats, tels que prévus à l'article L. 123-28 ;

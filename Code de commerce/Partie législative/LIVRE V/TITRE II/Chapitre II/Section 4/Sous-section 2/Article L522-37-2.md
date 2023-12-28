@@ -1,3 +1,5 @@
+# Article L522-37-2
+
 Le reçu d'entreposage prend la forme d'une inscription dans un registre tenu par le gestionnaire de la plateforme mentionnée au premier alinéa de l'article L. 522-37-1 et sous sa responsabilité. Cette inscription précise les nom, profession et domicile du titulaire du reçu ainsi que la nature des marchandises déposées et les indications propres à en établir l'identité et à en déterminer la valeur de remplacement.
 
 Le transfert de propriété des marchandises représentées par un reçu d'entreposage résulte de l'inscription au registre du nom de l'acquéreur en qualité de titulaire de ce reçu.

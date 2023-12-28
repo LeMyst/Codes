@@ -1,3 +1,5 @@
+# Article R152-1
+
 I.-Lorsqu'elle est saisie aux fins de prévenir une atteinte imminente ou faire cesser une atteinte illicite à un secret des affaires, la juridiction peut prescrire, sur requête ou en référé, toute mesure provisoire et conservatoire proportionnée, y compris sous astreinte. Elle peut notamment :
 
 1° Interdire la réalisation ou la poursuite des actes d'utilisation ou de divulgation d'un secret des affaires ;

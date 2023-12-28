@@ -1,3 +1,5 @@
+# Article A123-87
+
 Le traitement informatisé du système national d'identification et du répertoire des entreprises et établissements (SIRENE) régi par les articles R. 123-220 et suivants est mis en œuvre par l'Institut national de la statistique et des études économiques en liaison avec les administrations et organismes mentionnés à l'article R. 123-224.
 
 L'objet de ce traitement est :

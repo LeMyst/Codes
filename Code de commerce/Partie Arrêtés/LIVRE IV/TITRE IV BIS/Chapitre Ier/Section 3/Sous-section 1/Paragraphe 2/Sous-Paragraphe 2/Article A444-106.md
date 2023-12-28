@@ -1,3 +1,5 @@
+# Article A444-106
+
 Les cessions de bail (numéros 80 à 82 du tableau 5) donnent lieu à la perception :
 
 1° S'il s'agit d'une cession de bail à construction, d'un émolument composé :

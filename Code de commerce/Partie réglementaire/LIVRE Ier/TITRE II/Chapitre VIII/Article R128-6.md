@@ -1,3 +1,5 @@
+# Article R128-6
+
 Peuvent être destinataires des informations et des données à caractère personnel enregistrées dans le fichier national des interdits de gérer :
 
 1° En application du 3° de l'article L. 128-2 :

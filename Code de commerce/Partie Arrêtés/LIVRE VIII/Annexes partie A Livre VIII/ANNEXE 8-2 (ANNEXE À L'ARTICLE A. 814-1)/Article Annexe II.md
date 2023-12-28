@@ -1,3 +1,5 @@
+# Article Annexe II
+
 DE L'AGRÉMENT DU CONSEIL NATIONAL
 
 1. Sont agréés, pour la tenue de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises, les logiciels de traitement automatisés permettant aux professionnels utilisateurs de respecter l'ensemble des obligations légales auxquelles ils sont soumis en matière de comptabilité spéciale et conformes aux dispositions de la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés.

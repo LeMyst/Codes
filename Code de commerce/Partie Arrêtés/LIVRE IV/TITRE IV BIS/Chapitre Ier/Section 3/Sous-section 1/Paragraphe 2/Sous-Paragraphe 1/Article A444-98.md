@@ -1,3 +1,5 @@
+# Article A444-98
+
 Les ventes de locaux HLM à usage locatif (numéros 62 à 64 du tableau 5) donnent lieu à la perception d'un émolument proportionnel, dont le taux est fonction du type de vente, selon le barème suivant :
 
 |

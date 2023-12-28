@@ -1,3 +1,5 @@
+# Article R711-79
+
 La convention signée par un établissement d'enseignement supérieur consulaire en application de l'article L. 711-19 précise notamment :
 
 1° Les objectifs académiques poursuivis par l'établissement ;

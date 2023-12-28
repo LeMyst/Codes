@@ -1,3 +1,5 @@
+# Article A444-90-1
+
 I.-Le transfert de propriété à titre gratuit des biens mobiliers et immobiliers mentionnés à l'article L. 719-14 du code de l'éducation donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

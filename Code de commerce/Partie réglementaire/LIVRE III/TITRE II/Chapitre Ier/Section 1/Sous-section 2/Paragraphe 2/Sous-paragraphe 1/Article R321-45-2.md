@@ -1,3 +1,5 @@
+# Article R321-45-2
+
 Le commissaire du Gouvernement peut inviter le professionnel et l'auteur de la réclamation à trouver une solution amiable.
 
 Le professionnel et l'auteur de la réclamation qui acceptent la recherche d'une solution amiable doivent s'engager à en respecter le caractère strictement confidentiel. Ils peuvent se faire assister par un avocat.

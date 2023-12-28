@@ -1,3 +1,5 @@
+# Article A444-65
+
 Les transports de droits successifs (numéros 11 et 12 du tableau 5) donnent lieu à la perception d'un émolument proportionnel :
 
 1° Selon le barème suivant, s'agissant du transport de droits successifs faisant cesser l'indivision :

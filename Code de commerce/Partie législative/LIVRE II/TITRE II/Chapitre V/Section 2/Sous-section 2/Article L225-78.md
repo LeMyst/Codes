@@ -1,3 +1,5 @@
+# Article L225-78
+
 En cas de vacance par décès ou par démission d'un ou plusieurs sièges de membre du conseil de surveillance, ce conseil peut, entre deux assemblées générales, procéder à des nominations à titre provisoire.
 
 Lorsque le nombre des membres du conseil de surveillance est devenu inférieur au minimum légal, le directoire doit convoquer immédiatement l'assemblée générale ordinaire en vue de compléter l'effectif du conseil de surveillance.

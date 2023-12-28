@@ -1,3 +1,5 @@
+# Article L631-14
+
 Les articles L. 622-3 à L. 622-9, à l'exception de l'article L. 622-6-1, et L. 622-13 à L. 622-33 sont applicables à la procédure de redressement judiciaire, sous réserve des dispositions qui suivent.
 
 Il est réalisé une prisée des actifs du débiteur concomitamment à l'inventaire prévu à l'article L. 622-6.

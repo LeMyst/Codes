@@ -1,3 +1,5 @@
+# Article R321-40
+
 Le commissaire du Gouvernement mentionné à l'article L. 321-23-1 est nommé par arrêté du garde des sceaux, ministre de la justice.
 
 Il participe aux séances du conseil avec voix consultative, sous réserve des dispositions particulières prévues en matière disciplinaire au deuxième alinéa de l'article R. 321-48.

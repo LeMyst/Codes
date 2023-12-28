@@ -1,3 +1,5 @@
+# Article R722-16
+
 Chaque année, dans le mois de l'installation des juges nouvellement élus, le président du tribunal de commerce fixe, par ordonnance prise après avis de l'assemblée générale, la répartition dans les chambres et services du tribunal des présidents de chambre et juges composant le tribunal. Cette ordonnance précise le nombre, le jour et la nature des audiences. Elle peut être modifiée dans les mêmes formes en cas de cessation des fonctions d'un ou plusieurs des juges composant la juridiction.
 
 Un juge peut être affecté à plusieurs chambres.

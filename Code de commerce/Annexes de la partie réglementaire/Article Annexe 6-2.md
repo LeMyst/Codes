@@ -1,3 +1,5 @@
+# Article Annexe 6-2
+
 Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,
 
 des procédures applicables aux personnes qui ne sont ni commerçants ni artisans

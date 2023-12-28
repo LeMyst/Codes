@@ -1,3 +1,5 @@
+# Article A444-112
+
 La convention d'indivision (numéro 89 du tableau 5) donne lieu à la perception :
 
 1° Lorsque la valeur de l'assiette définie à l'article A. 444-54 est inférieure ou égale à 29 800 €, d'un émolument fixe de 264,12 € ;

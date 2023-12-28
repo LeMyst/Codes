@@ -1,3 +1,5 @@
+# Article L410-5
+
 I. ― Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités d'outre-mer de Saint-Martin, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna, après avis public de l'observatoire des prix, des marges et des revenus territorialement compétent, le représentant de l'Etat négocie chaque année avec les organisations professionnelles du secteur du commerce de détail et leurs fournisseurs, qu'ils soient producteurs, grossistes ou importateurs, ainsi qu'avec les entreprises de fret maritime et les transitaires un accord de modération du prix global d'une liste limitative de produits de consommation courante.
 
 En cas de réussite des négociations, l'accord est rendu public par arrêté préfectoral.

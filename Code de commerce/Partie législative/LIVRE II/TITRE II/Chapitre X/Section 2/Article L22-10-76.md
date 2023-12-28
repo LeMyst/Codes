@@ -1,3 +1,5 @@
+# Article L22-10-76
+
 I.-Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, la rémunération du ou des gérants et la rémunération des membres du conseil de surveillance sont déterminées conformément à une politique de rémunération. Cette politique est conforme à l'intérêt social de la société, contribue à sa pérennité et s'inscrit dans sa stratégie commerciale. Elle décrit toutes les composantes de la rémunération fixe et variable et explique le processus de décision suivi pour sa détermination, sa révision et sa mise en œuvre.
 
 Les éléments de cette politique s'appliquant aux gérants sont établis par les associés commandités délibérant, sauf clause contraire des statuts, à l'unanimité. Cette décision est prise après avis consultatif du conseil de surveillance et en tenant compte, le cas échéant, des principes et conditions prévus par les statuts. Toutefois, les statuts peuvent prévoir que ces éléments sont établis par le conseil de surveillance.

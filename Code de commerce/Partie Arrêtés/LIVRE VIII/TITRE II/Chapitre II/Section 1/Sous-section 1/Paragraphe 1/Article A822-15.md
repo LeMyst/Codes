@@ -1,3 +1,5 @@
+# Article A822-15
+
 Le conseil régional nomme un commissaire aux comptes chargé d'assurer le contrôle des stages. Il peut désigner un ou plusieurs contrôleurs adjoints.
 
 Le contrôleur de stage ou l'un des contrôleurs adjoints reçoit les stagiaires sur leur demande à son cabinet. Il peut également les visiter dans les bureaux du maître de stage.

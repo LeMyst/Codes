@@ -1,3 +1,5 @@
+# Article R521-29
+
 Afin de garantir la publicité des informations inscrites, le Conseil national des greffiers des tribunaux de commerce met en place et assure la gestion du portail national mentionné à l'article R. 521-1.
 
 Sous réserve des dispositions de la présente section, les dispositions du titre XXI du livre Ier du code de procédure civile s'appliquent à la communication électronique des actes de procédure que permet ce portail électronique.

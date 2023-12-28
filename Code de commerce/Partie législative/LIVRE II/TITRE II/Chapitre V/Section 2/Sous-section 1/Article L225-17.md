@@ -1,3 +1,5 @@
+# Article L225-17
+
 La société anonyme est administrée par un conseil d'administration composé de trois membres au moins. Les statuts fixent le nombre maximum des membres du conseil, qui ne peut dépasser dix-huit.
 
 Le conseil d'administration est composé en recherchant une représentation équilibrée des femmes et des hommes.

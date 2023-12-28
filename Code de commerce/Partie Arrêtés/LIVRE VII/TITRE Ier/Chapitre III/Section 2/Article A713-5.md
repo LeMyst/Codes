@@ -1,3 +1,5 @@
+# Article A713-5
+
 Les bulletins de vote précisent, pour chacun des candidats, titulaire ou suppléant :
 
 a) Son nom et son prénom usuel ;

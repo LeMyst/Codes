@@ -1,3 +1,5 @@
+# Article L143-4
+
 Le tribunal nomme, s'il y a lieu, un administrateur provisoire du fonds, fixe les mises à prix, détermine les conditions principales de la vente, commet pour y procéder l'officier public qui dresse le cahier des charges.
 
 La publicité extraordinaire, lorsqu'elle est utile, est réglée par le jugement ou, à défaut, par ordonnance du président du tribunal de commerce rendue sur requête.

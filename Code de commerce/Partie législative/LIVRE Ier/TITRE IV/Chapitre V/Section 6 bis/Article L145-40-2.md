@@ -1,3 +1,5 @@
+# Article L145-40-2
+
 Tout contrat de location comporte un inventaire précis et limitatif des catégories de charges, impôts, taxes et redevances liés à ce bail, comportant l'indication de leur répartition entre le bailleur et le locataire. Cet inventaire donne lieu à un état récapitulatif annuel adressé par le bailleur au locataire dans un délai fixé par voie réglementaire. En cours de bail, le bailleur informe le locataire des charges, impôts, taxes et redevances nouveaux.
 
 Lors de la conclusion du contrat de location, puis tous les trois ans, le bailleur communique à chaque locataire :

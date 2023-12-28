@@ -1,3 +1,5 @@
+# Article R483-14
+
 Les parties à l'instance, les tiers et leurs représentants légaux peuvent être condamnés par la juridiction saisie au paiement d'une amende civile d'un montant maximum de 10 000 €, sans préjudice des dommages et intérêts qui seraient réclamés, dans l'un quelconque des cas suivants :
 
 1° Le défaut de respect ou le refus de se conformer à une injonction de communication ou de production de pièces ;

@@ -1,3 +1,5 @@
+# Article R621-17
+
 Pour l'application du quatrième alinéa de l'article L. 621-7, le juge-commissaire est saisi par voie de requête déposée ou adressée au greffe. Le greffier convoque par lettre recommandée avec demande d'avis de réception le demandeur ainsi que, selon les cas, l'administrateur, le mandataire judiciaire ou l'expert ; il avise le ministère public de la date de l'audience.
 
 Lorsqu'une demande de remplacement de l'administrateur, de l'expert ou du mandataire judiciaire est portée devant le tribunal par le ministère public ou par le juge-commissaire ou lorsque le tribunal se saisit d'office aux mêmes fins, la convocation de la personne dont le remplacement ou la révocation est en cause est faite dans les formes et selon la procédure prévue à l'article R. 631-3 ou R. 631-4, selon le cas. Il en va de même lorsqu'une demande de révocation de l'un des contrôleurs est portée devant le tribunal par le ministère public.

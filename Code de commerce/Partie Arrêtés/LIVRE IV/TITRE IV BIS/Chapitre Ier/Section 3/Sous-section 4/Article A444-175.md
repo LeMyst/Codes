@@ -1,3 +1,5 @@
+# Article A444-175
+
 Pour l'application de l'article R. 444-9, le notaire procède au calcul de la somme des émoluments fixés par les sous-sections 1 et 2 de la présente section, s'agissant respectivement de l'acte de mutation immobilière et des formalités liées à son accomplissement, desquels il déduit, le cas échéant, les remises qu'il a consenties dans les conditions prévues à l'article A. 444-174.
 
 Si la somme mentionnée à l'alinéa précédent excède 10 % de la valeur du bien ou du droit faisant l'objet de la mutation, le total des émoluments perçus par le notaire au titre de cette mutation est écrêté à ce montant, sans pouvoir être inférieur à 90 €.

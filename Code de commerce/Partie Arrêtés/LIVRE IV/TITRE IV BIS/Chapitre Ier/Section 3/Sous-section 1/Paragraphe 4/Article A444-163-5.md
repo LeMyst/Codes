@@ -1,3 +1,5 @@
+# Article A444-163-5
+
 L'attestation de propriété qui est délivrée à la suite de la dissolution automatique d'une société civile immobilière n'ayant pas été immatriculée et qui entraîne une indivision entre les anciens associés donne lieu à la perception des émoluments suivants :
 
 | Tranches d'assiette |

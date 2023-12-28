@@ -1,3 +1,5 @@
+# Article L242-9
+
 Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros :
 
 1° Le fait d'empêcher un actionnaire de participer à une assemblée d'actionnaires ;

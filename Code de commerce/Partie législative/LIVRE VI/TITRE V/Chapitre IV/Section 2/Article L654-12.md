@@ -1,3 +1,5 @@
+# Article L654-12
+
 I.-Est puni des peines prévues par l'article 314-2 du code pénal le fait, pour tout administrateur, mandataire judiciaire, liquidateur ou commissaire à l'exécution du plan, y compris toute personne désignée en application des dispositions du premier alinéa du II de l'article L. 812-2 ou du III de ce même article :
 
 1° De porter volontairement atteinte aux intérêts des créanciers ou du débiteur soit en utilisant à son profit des sommes perçues dans l'accomplissement de sa mission, soit en se faisant attribuer des avantages qu'il savait n'être pas dus ;

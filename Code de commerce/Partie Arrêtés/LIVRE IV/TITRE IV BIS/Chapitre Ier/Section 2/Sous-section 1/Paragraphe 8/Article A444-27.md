@@ -1,3 +1,5 @@
+# Article A444-27
+
 L'établissement d'un état des lieux à frais partagés entre le bailleur et le locataire figurant au numéro 112 du tableau 3-1 donne lieu à la perception d'un émolument fonction de la superficie du bien locatif, selon le barème suivant :
 
 | Superficie du bien locatif |

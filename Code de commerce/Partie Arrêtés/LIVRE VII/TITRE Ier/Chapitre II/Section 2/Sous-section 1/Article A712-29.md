@@ -1,3 +1,5 @@
+# Article A712-29
+
 Le caractère limitatif des crédits votés s'apprécie au niveau de chaque service, qu'il s'agisse d'un service principal, d'un service secondaire ou d'un sous-service.
 
 Au sein de chacun de ces services peut s'appliquer, le cas échéant, le principe de la fongibilité asymétrique des crédits.

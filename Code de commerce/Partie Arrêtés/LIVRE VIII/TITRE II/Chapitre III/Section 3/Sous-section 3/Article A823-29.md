@@ -1,3 +1,5 @@
+# Article A823-29
+
 La norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 NEP-9510. Diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financieère et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes

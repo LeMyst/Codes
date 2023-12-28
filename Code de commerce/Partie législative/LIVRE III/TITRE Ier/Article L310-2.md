@@ -1,3 +1,5 @@
+# Article L310-2
+
 I. ― Sont considérés comme ventes au déballage les ventes et rachats de marchandises effectués dans des locaux ou sur des emplacements non destinés à la vente au public ou au rachat de ces marchandises ainsi qu'à partir de véhicules spécialement aménagés à cet effet.
 
 Les ventes au déballage ne peuvent excéder deux mois par année civile dans un même local, sur un même emplacement ou dans un même arrondissement. Les ventes au déballage de fruits et légumes frais effectuées en période de crise conjoncturelle ne sont pas prises en compte pour le calcul de cette limite. Les ventes au déballage font l'objet d'une déclaration préalable auprès du maire de la commune dont dépend le lieu de la vente, dont une copie est adressée concomitamment à l'autorité administrative chargée de la concurrence et de la consommation dans le département du lieu de vente.

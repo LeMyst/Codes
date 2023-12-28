@@ -1,3 +1,5 @@
+# Article L751-6
+
 La Commission nationale d'aménagement commercial se compose de :
 
 1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;

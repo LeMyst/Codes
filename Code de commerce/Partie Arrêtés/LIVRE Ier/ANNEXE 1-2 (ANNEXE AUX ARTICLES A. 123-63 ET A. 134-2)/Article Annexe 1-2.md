@@ -1,3 +1,5 @@
+# Article Annexe 1-2
+
 Modèle d'attestation de délivrance de l'information donnée à son conjoint commun en biens sur les conséquences des dettes contractées dans l'exercice de sa profession sur les biens communs.
 
 Je soussigné (nom et prénom de la personne immatriculée) déclare sous ma responsabilité, conformément à l'article R. 123-121-1, avoir informé mon conjoint M. / Mme (rayer la mention inutile), avec lequel / laquelle je me suis marié (e) sans contrat de mariage (1) ou bien avec un contrat de mariage qui prévoit des biens communs aux époux, sur les conséquences des dettes contractées dans l'exercice de ma profession sur ces biens communs.

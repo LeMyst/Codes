@@ -1,3 +1,5 @@
+# Article R225-120
+
 Lorsqu'une émission d'actions nouvelles ou de valeurs mobilières donnant accès au capital est susceptible d'entraîner une augmentation de capital, les actionnaires sont informés de cette émission et de ses modalités par un avis contenant notamment les indications suivantes :
 
 1° La dénomination sociale, suivie le cas échéant de son sigle ;

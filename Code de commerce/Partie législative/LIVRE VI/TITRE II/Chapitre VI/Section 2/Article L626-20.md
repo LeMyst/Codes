@@ -1,3 +1,5 @@
+# Article L626-20
+
 I.-Par dérogation aux dispositions des articles L. 626-18 et L. 626-19, ne peuvent faire l'objet de remises ou de délais qui n'auraient pas été acceptés par les créanciers :
 
 1° Les créances garanties par le privilège établi aux articles L. 3253-2, L. 3253-4 et L. 7313-8 du code du travail ;

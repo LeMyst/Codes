@@ -1,3 +1,5 @@
+# Article L228-61
+
 S'il existe plusieurs masses d'obligataires, elles ne peuvent en aucun cas délibérer au sein d'une assemblée commune.
 
 Tout obligataire a le droit de participer à l'assemblée ou de s'y faire représenter par un mandataire de son choix.

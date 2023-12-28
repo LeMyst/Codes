@@ -1,3 +1,5 @@
+# Article A123-8
+
 Le collège stratégique de pilotage comprend un représentant de chacun des ministres assurant la tutelle de l'organisme unique et celle des organismes destinataires des formalités des entreprises qui sont effectuées auprès de l'organisme unique.
 
 Sont membres de droit avec voix délibérative :

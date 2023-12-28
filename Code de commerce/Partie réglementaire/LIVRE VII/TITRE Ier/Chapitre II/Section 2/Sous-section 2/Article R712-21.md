@@ -1,3 +1,5 @@
+# Article R712-21
+
 Chaque convention d'objectifs et de moyens établie en application du deuxième alinéa de l'article L. 712-2 décrit les actions financées en tout ou partie par la taxe pour frais de chambres au niveau régional, dont la prise en compte contribue à la détermination de la part de cette taxe attribuée à chaque établissement public.
 
 Les indicateurs d'activité et de performance annexés au contrat d'objectifs et de performance sont déclinés dans chaque convention d'objectifs et de moyens. Ils évaluent, pour chaque axe du contrat d'objectifs et de performance, le degré de réalisation des projets et des objectifs opérationnels de la chambre de commerce et d'industrie de région et de chaque chambre de commerce et d'industrie territoriale qui lui est rattachée ainsi que l'impact des activités de celles-ci sur la vie des entreprises.

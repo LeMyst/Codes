@@ -1,3 +1,5 @@
+# Article L441-1-1
+
 I.-Pour les produits alimentaires et les produits destinés à l'alimentation des animaux de compagnie, les conditions générales de vente, sur décision du fournisseur et sans que l'acheteur ne puisse interférer dans ce choix :
 
 1° Soit présentent, pour chacune des matières premières agricoles et pour chacun des produits transformés composés de plus de 50 % de matières premières agricoles qui entrent dans la composition du produit mentionné au premier alinéa du présent I, leur part dans la composition dudit produit, sous la forme d'un pourcentage en volume et d'un pourcentage du tarif du fournisseur ;

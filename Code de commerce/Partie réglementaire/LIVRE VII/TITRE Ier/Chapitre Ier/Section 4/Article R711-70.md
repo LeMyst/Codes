@@ -1,3 +1,5 @@
+# Article R711-70
+
 I-Les services de CCI France, des chambres de commerce et d'industrie de région et des chambres de commerce et d'industrie territoriales sont dirigés par un directeur général, placé sous l'autorité du président de la chambre.
 
 Les services des chambres de commerce et d'industrie départementales d'Ile-de-France ou des chambres de commerce et d'industrie locales sont dirigés par un directeur général délégué, placé sous l'autorité du directeur général de la chambre de commerce et d'industrie de région, en liaison fonctionnelle avec le président de la chambre de commerce et d'industrie départementale ou locale concernée.

@@ -1,3 +1,5 @@
+# Article L642-10
+
 Le tribunal peut prévoir dans le jugement arrêtant le plan de cession que tout ou partie des biens cédés ne pourront être aliénés, pour une durée qu'il fixe, sans son autorisation.
 
 La publicité de l'inaliénabilité temporaire est assurée dans des conditions fixées par un décret en Conseil d'Etat.

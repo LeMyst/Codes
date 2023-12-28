@@ -1,3 +1,5 @@
+# Article L151-8
+
 A l'occasion d'une instance relative à une atteinte au secret des affaires, le secret n'est pas opposable lorsque son obtention, son utilisation ou sa divulgation est intervenue :
 
 1° Pour exercer le droit à la liberté d'expression et de communication, y compris le respect de la liberté de la presse, et à la liberté d'information telle que proclamée dans la Charte des droits fondamentaux de l'Union européenne ;

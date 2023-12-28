@@ -1,3 +1,5 @@
+# Article L611-10-3
+
 Saisi par l'une des parties à l'accord constaté, le président du tribunal, s'il constate l'inexécution des engagements résultant de cet accord, prononce la résolution de celui-ci.
 
 Dans les mêmes conditions, le tribunal prononce la résolution de l'accord homologué.

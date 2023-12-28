@@ -1,3 +1,5 @@
+# Article R22-10-23
+
 Pendant une période ininterrompue commençant au plus tard le vingt et unième jour précédant l'assemblée, les sociétés dont les actions sont admises aux négociations sur un marché réglementé publient sur le site internet prévu à l'article R. 22-10-1 les informations et documents suivants :
 
 1° L'avis mentionné à l'article R. 22-10-22 ;

@@ -1,3 +1,5 @@
+# Article L223-42
+
 Si, du fait de pertes constatées dans les documents comptables, les capitaux propres de la société deviennent inférieurs à la moitié du capital social, les associés décident, dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître cette perte s'il y a lieu à dissolution anticipée de la société.
 
 Si la dissolution n'est pas prononcée à la majorité exigée pour la modification des statuts, la société est tenue, au plus tard à la clôture du deuxième exercice suivant celui au cours duquel la constatation des pertes est intervenue, de reconstituer ses capitaux propres à concurrence d'une valeur au moins égale à la moitié du capital social ou de réduire son capital social du montant nécessaire pour que la valeur des capitaux propres soit au moins égale à la moitié de son montant.

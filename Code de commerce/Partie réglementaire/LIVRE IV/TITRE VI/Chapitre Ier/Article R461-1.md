@@ -1,3 +1,5 @@
+# Article R461-1
+
 Le président de l'Autorité de la concurrence la représente en justice et dans tous les actes de la vie civile. Dans ce cadre, il signe les actes et pièces au nom de l'Autorité.
 
 Le président de l'Autorité de la concurrence a qualité pour agir en demande et en défense et présenter des observations devant toute juridiction au nom de cette Autorité.

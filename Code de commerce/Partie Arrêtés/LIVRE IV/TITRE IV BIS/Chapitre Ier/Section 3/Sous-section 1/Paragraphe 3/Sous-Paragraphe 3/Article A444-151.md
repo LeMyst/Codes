@@ -1,3 +1,5 @@
+# Article A444-151
+
 Le contrat de franchisage (numéro 150 du tableau 5) donne lieu, à la perception d'un émolument proportionnel au total des redevances, selon le barème suivant :
 
 | Tranches d'assiette |

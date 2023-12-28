@@ -1,3 +1,5 @@
+# Article R621-11-1
+
 I.-Le nombre d'établissements secondaires mentionné au 1° de l'article L. 621-4-1 est de trois.
 
 Le seuil mentionné au sixième alinéa de ce même article correspond à un chiffre d'affaires net de 20 millions d'euros. Ce montant est défini conformément aux dispositions du cinquième alinéa de l'article D. 123-200 et est apprécié à la date de clôture du dernier exercice comptable.

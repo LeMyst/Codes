@@ -1,3 +1,5 @@
+# Article R526-3
+
 La déclaration d'affectation mentionnée à l'article L. 526-7 contient les informations suivantes :
 
 1° Les nom, nom d'usage, prénoms, date, lieu de naissance et domicile de l'entrepreneur individuel ;

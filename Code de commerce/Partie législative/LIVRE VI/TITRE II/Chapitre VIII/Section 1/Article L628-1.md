@@ -1,3 +1,5 @@
+# Article L628-1
+
 Il est institué une procédure de sauvegarde accélérée soumise aux règles du présent titre sous réserve des dispositions du présent chapitre. N'y sont pas applicables les dispositions du III et du IV de l'article L. 622-13 et celles des sections 3 et 4 du chapitre IV.
 
 La procédure de sauvegarde accélérée est ouverte à la demande d'un débiteur engagé dans une procédure de conciliation qui justifie avoir élaboré un projet de plan tendant à assurer la pérennité de l'entreprise. Ce projet doit être susceptible de recueillir, de la part des parties affectées à l'égard desquelles l'ouverture de la procédure produira effet, un soutien suffisamment large pour rendre vraisemblable son adoption dans le délai prévu au premier alinéa de l'article L. 628-8.

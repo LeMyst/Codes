@@ -1,3 +1,5 @@
+# Article D711-67-4
+
 En application de l’article L. 711-3 et conformément aux orientations prises par leur chambre de commerce et d’industrie de région de rattachement, les chambres de commerce et d’industrie créent et tiennent à jour un fichier des entreprises de leur circonscription et constituent des bases de données et d’informations économiques nécessaires à leurs missions.
 
 Ces fichiers et bases de données économiques sont alimentés par les informations et données que les chambres de commerce et d’industrie recueillent, produisent, reproduisent, détiennent ou diffusent dans le cadre de leurs missions ou dont elles sont destinataires en application du dernier alinéa de l’article L. 711-3, selon des modalités prévues par l’article R. 711-67-1.

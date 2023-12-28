@@ -1,3 +1,5 @@
+# Article L420-6-1
+
 Les directeurs, gérants et autres membres du personnel de l'entreprise ou association d'entreprises qui ont pris une part personnelle et déterminante dans la conception, l'organisation ou la mise en œuvre de pratiques mentionnées à l'article L. 420-1 sont exempts des peines prévues par l'article L. 420-6 si cette entreprise ou association d'entreprises a bénéficié d'une exonération totale des sanctions pécuniaires en application de la procédure prévue au IV de l'article L. 464-2 au titre de ces pratiques, et s'il est établi qu'ils ont activement coopéré avec l'Autorité de la concurrence et le ministère public.
 
 La coopération active d'une personne est appréciée au regard des critères suivants :

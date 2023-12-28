@@ -1,3 +1,5 @@
+# Article R123-46
+
 Sont soumises à l'obligation prévue à l'article R. 123-45 :
 
 1° Les décisions définitives plaçant un majeur sous tutelle ou sous curatelle au sens de l'article 440 du code civil et celles qui en donnent mainlevée ou qui les rapportent ; lorsqu'il est fait application de cet article, l'obligation de déclaration incombe au tuteur ou au curateur et est réalisée auprès de l'organisme unique mentionné à l'article R. 123-1 ;

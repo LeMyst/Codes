@@ -1,3 +1,5 @@
+# Article L711-8
+
 Les chambres de commerce et d'industrie de région encadrent et soutiennent les activités des chambres territoriales et départementales d'Ile-de-France qui leur sont rattachées. Elles définissent une stratégie régionale pour l'activité du réseau dans leur circonscription, compatible avec le schéma régional de développement économique, d'innovation et d'internationalisation prévu à l'article L. 4251-13 du code général des collectivités territoriales. La compatibilité de cette stratégie avec ce schéma est garantie par la signature des conventions prévues à l'article L. 4251-18 du même code. Dans des conditions définies par décret, les chambres de commerce et d'industrie de région exercent leur activité en valorisant les compétences existant dans les chambres de commerce et d'industrie territoriales ou dans les chambres de commerce et d'industrie départementales d'Ile-de-France de leur circonscription.
 
 A ce titre, elles :

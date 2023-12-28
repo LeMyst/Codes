@@ -1,3 +1,5 @@
+# Article R123-75-1
+
 Lorsque la société a son siège dans l'un des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, les indications relatives :
 
 1° A la nomination, la cessation des fonctions ainsi que l'identité des personnes qui ont le pouvoir d'engager la société à l'égard des tiers et de la représenter en justice ou qui participent à l'administration, à la surveillance ou au contrôle de la société ;

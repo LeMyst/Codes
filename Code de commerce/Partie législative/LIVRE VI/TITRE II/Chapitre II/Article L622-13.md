@@ -1,3 +1,5 @@
+# Article L622-13
+
 I. - Nonobstant toute disposition légale ou toute clause contractuelle, aucune indivisibilité, résiliation ou résolution d'un contrat en cours ne peut résulter du seul fait de l'ouverture d'une procédure de sauvegarde.
 
 Le cocontractant doit remplir ses obligations malgré le défaut d'exécution par le débiteur d'engagements antérieurs au jugement d'ouverture. Le défaut d'exécution de ces engagements n'ouvre droit au profit des créanciers qu'à déclaration au passif.

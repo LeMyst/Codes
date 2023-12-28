@@ -1,3 +1,5 @@
+# Article L236-9
+
 I.-La fusion est décidée par l'assemblée générale extraordinaire de chacune des sociétés qui participent à l'opération.
 
 La fusion est soumise, le cas échéant, dans chacune des sociétés qui participent à l'opération, à la ratification des assemblées spéciales d'actionnaires mentionnées aux articles L. 225-99 et L. 228-15.

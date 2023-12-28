@@ -1,3 +1,5 @@
+# Article R232-23
+
 I. - Le rapport mentionné aux articles L. 232-6, L. 232-6-1, L. 233-28-1 et L. 233-28-2, le cas échéant traduit en langue française et certifié conforme, est déposé au greffe du tribunal de commerce, par l'intermédiaire de l'organisme mentionné au deuxième alinéa de l'article L. 123-33, pour être annexé au registre du commerce et des sociétés, dans un délai de douze mois à compter de la clôture de l'exercice.
 
 II. - Dès sa date de dépôt, le rapport est mis gratuitement à disposition du public, pendant au moins cinq années consécutives, sur :

@@ -1,3 +1,5 @@
+# Article R123-75
+
 La radiation de l'immatriculation principale des personnes morales qui font l'objet d'une dissolution est requise par le liquidateur dans le délai d'un mois à compter de la publication de la clôture de la liquidation, auprès de l'organisme unique mentionné à l'article R. 123-1.
 
 La radiation de l'immatriculation principale des autres personnes morales est demandée dans le mois de la cessation d'activité dans le ressort du tribunal.

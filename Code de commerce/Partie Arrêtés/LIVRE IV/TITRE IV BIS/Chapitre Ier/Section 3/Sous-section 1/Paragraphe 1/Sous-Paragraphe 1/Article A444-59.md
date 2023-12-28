@@ -1,3 +1,5 @@
+# Article A444-59
+
 L'attestation notariée (numéro 1 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

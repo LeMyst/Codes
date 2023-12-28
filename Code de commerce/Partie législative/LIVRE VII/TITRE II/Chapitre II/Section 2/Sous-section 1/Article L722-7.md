@@ -1,3 +1,5 @@
+# Article L722-7
+
 Avant d'entrer en fonctions, les juges des tribunaux de commerce prêtent serment.
 
 Le serment est le suivant : Je jure de bien et fidèlement remplir mes fonctions, de garder le secret des délibérations et de me conduire en tout comme un juge digne et loyal.

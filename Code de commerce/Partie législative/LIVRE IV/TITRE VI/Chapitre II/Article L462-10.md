@@ -1,3 +1,5 @@
+# Article L462-10
+
 I.-Doit être communiqué à l'Autorité de la concurrence, à titre d'information, au moins quatre mois avant sa mise en œuvre, tout accord entre des entreprises ou des groupes de personnes physiques ou morales exploitant, directement ou indirectement, un ou plusieurs magasins de commerce de détail de produits de grande consommation, ou intervenant dans le secteur de la distribution comme centrale de référencement ou d'achat d'entreprises de commerce de détail, visant à négocier de manière groupée l'achat ou le référencement de produits ou la vente de services aux fournisseurs.
 
 Le premier alinéa du présent I s'applique lorsque le chiffre d'affaires total mondial hors taxes de l'ensemble des entreprises ou des groupes de personnes physiques ou morales parties à l'accord et le chiffre d'affaires total hors taxes réalisé à l'achat en France dans le cadre de l'accord par l'ensemble des parties à l'accord excèdent des seuils fixés par décret en Conseil d'Etat.

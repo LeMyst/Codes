@@ -1,3 +1,5 @@
+# Article A811-31
+
 I.-Les demandes des personnes mentionnées à l'article R. 811-27 sont adressées au secrétariat de la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires, par lettre recommandée, avec demande d'avis de réception ou tout autre moyen permettant d'en assurer la réception ou d'en déterminer la date au plus tard trois mois avant la date de la première épreuve de la session.
 
 II.-Le dossier comprend :

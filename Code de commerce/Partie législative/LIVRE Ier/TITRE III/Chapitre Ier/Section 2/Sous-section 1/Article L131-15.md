@@ -1,3 +1,5 @@
+# Article L131-15
+
 Le courtier de marchandises assermenté doit justifier :
 
 1° De l'existence dans un établissement de crédit d'un compte destiné exclusivement à recevoir les fonds détenus pour le compte d'autrui ;

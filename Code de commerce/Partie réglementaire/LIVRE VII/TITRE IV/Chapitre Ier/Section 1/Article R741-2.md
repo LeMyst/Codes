@@ -1,3 +1,5 @@
+# Article R741-2
+
 Le greffier dirige, sous l'autorité du président du tribunal et sous la surveillance du ministère public, l'ensemble des services du greffe.
 
 Il assure la tenue des différents registres prévus par les textes en vigueur et tient à jour les dossiers du tribunal. Il met en forme les décisions prises et motivées par les juges.

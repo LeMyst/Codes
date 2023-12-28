@@ -1,3 +1,5 @@
+# Article A814-7
+
 Le secrétaire de la commission nationale d'inscription et de discipline compétente dresse la liste des sociétés de participations financières de professions libérales d'administrateurs judiciaires ou de mandataires judiciaires qui mentionne les informations suivantes :
 
 a) La dénomination sociale, la forme juridique et le numéro d'inscription de la société ;

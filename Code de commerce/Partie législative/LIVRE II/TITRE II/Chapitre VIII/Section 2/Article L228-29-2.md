@@ -1,3 +1,5 @@
+# Article L228-29-2
+
 Les regroupements d'actions prévus à l'article L. 228-29-1 comportent l'obligation, pour les actionnaires, de procéder aux achats ou aux cessions d'actions nécessaires pour réaliser le regroupement.
 
 La valeur nominale des actions regroupées ne peut être supérieure à un montant fixé par décret en Conseil d'Etat.

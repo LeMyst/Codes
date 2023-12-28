@@ -1,3 +1,5 @@
+# Article R526-16
+
 Lors de l'immatriculation de l'entrepreneur individuel à responsabilité limitée au registre spécial mentionné à l'article R. 526-15, le greffier indique au registre les informations prévues aux 1° à 5° et 7° de l'article R. 526-3.
 
 Sont également mentionnés dans ce registre les événements et décisions prévus aux articles L. 526-15 et L. 526-17.

@@ -1,3 +1,5 @@
+# Article R811-10
+
 Le jury de l'examen d'accès au stage est composé ainsi qu'il suit :
 
 1° Un magistrat de l'ordre judiciaire ou un conseiller à la Cour de cassation ou un avocat général près cette cour, en service extraordinaire, président ;

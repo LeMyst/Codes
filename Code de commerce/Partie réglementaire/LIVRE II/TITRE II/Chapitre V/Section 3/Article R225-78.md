@@ -1,3 +1,5 @@
+# Article R225-78
+
 Si la société utilise le document unique prévu au troisième alinéa de l'article R. 225-76, ce document comporte, outre les mentions prévues aux articles R. 225-76 et R. 225-77 et aux 5° et 6° de l'article R. 225-81, les indications suivantes :
 
 1° Qu'il peut être utilisé pour chaque résolution soit pour un vote par correspondance, soit pour un vote par procuration ;

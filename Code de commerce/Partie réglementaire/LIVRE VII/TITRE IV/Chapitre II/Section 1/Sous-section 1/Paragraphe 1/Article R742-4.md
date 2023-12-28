@@ -1,3 +1,5 @@
+# Article R742-4
+
 Peuvent être nommées greffiers de tribunal de commerce sans remplir les conditions de diplômesou de stage prévues respectivement aux 6° et 8° de l'article R. 742-1 les personnes qui ont suivi avec succès un cycle d'études postsecondaires d'une durée minimale de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études postsecondaires et qui justifient :
 
 1° De diplômes, certificats ou autres titres permettant l'exercice de la profession dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen délivrés :

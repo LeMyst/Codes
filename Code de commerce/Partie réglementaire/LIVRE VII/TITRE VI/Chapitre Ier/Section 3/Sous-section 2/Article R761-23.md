@@ -1,3 +1,5 @@
+# Article R761-23
+
 L'attribution d'une autorisation d'occupation exclusive peut être subordonnée à l'acquittement, par le demandeur, d'un droit de première accession fixé dans les conditions prévues à l'article L. 761-3.
 
 Sans préjudice de l'application de l'article R. 761-24, le titulaire de cette autorisation ne peut disposer de tout ou partie de son emplacement au profit d'un tiers.

@@ -1,3 +1,5 @@
+# Article R123-276
+
 La validation des inscriptions d'informations et des dépôts de pièces prévus à l'article L. 123-43 et les contrôles prévus aux articles L. 123-44 à L. 123-47 sont réalisés par le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental compétente en application des articles 23 et 23-2 du code de l'artisanat et dans le ressort de laquelle est situé :
 
 1° Pour une personne physique :

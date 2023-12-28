@@ -1,3 +1,5 @@
+# Article R444-71
+
 Les dispositions de la présente sous-section sont applicables aux tarifs relatifs aux prestations de postulation des avocats dans les matières suivantes :
 
 1° La saisie immobilière régie par les articles L. 311-1 à L. 341-1 et R. 311-1 à R. 334-3 du code des procédures civiles d'exécution ;

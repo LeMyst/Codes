@@ -1,3 +1,5 @@
+# Article A444-156
+
 La liquidation de reprise par acte séparé (numéro 157 du tableau 5) donne lieu à la perception des émoluments suivants :
 
 1° Un émolument proportionnel aux sommes payées ou garanties, selon le barème suivant :

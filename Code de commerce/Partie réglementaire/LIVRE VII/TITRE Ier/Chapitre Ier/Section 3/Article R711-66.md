@@ -1,3 +1,5 @@
+# Article R711-66
+
 Le comité directeur ne peut délibérer valablement que si le nombre des membres présents ou représentés est au moins égal à la moitié des membres en exercice.
 
 Les décisions sont prises à la majorité des membres présents ou représentés.

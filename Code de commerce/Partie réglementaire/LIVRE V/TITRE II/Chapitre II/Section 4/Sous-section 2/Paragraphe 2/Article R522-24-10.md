@@ -1,3 +1,5 @@
+# Article R522-24-10
+
 I.-Le recours contre la décision de refus d'inscription, de modification ou de radiation est porté devant le président du tribunal de commerce dans le ressort duquel est établi le gestionnaire de la plateforme qui a opposé le refus.
 
 Ce recours est formé par lettre recommandée avec demande d'avis de réception adressée au greffe de ce tribunal dans un délai de quinze jours à compter de sa notification.

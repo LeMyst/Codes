@@ -1,3 +1,5 @@
+# Article L526-27
+
 L'entrepreneur individuel peut céder à titre onéreux, transmettre à titre gratuit entre vifs ou apporter en société l'intégralité de son patrimoine professionnel, sans procéder à la liquidation de celui-ci. Le transfert non intégral d'éléments de ce patrimoine demeure soumis aux conditions légales applicables à la nature dudit transfert et, le cas échéant, à celle du ou des éléments transférés.
 
 Le transfert universel du patrimoine professionnel emporte cession des droits, biens, obligations et sûretés dont celui-ci est constitué. Il peut être consenti à titre onéreux ou gratuit. Lorsque le bénéficiaire est une société, le transfert des droits, biens et obligations peut revêtir la forme d'un apport.

@@ -1,3 +1,5 @@
+# Article L321-23
+
 Le Conseil des maisons de vente comprend une commission des sanctions composée de trois membres, nommés pour une durée de quatre ans par le ministre de la justice :
 
 1° Un membre du Conseil d'Etat, en activité ou honoraire, nommé sur proposition du vice-président du Conseil d'Etat ;

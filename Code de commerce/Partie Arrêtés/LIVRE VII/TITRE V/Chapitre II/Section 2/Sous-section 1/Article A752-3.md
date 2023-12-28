@@ -1,3 +1,5 @@
+# Article A752-3
+
 I.-Le formulaire intitulé “ certificat de conformité ” mentionné à l'article R. 752-44-8, dont un modèle figure à l'annexe 7-8 au présent livre, est daté et signé par l'organisme habilité mentionné à l'article L. 752-23.
 
 Le formulaire est transmis, par le bénéficiaire de l'autorisation d'exploitation commerciale, à la préfecture du département d'implantation, par voie électronique.

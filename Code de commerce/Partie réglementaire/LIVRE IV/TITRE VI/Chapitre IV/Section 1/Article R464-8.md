@@ -1,3 +1,5 @@
+# Article R464-8
+
 I. – Les décisions de l'Autorité de la concurrence sont notifiées soit par lettre recommandée avec demande d'avis de réception, soit par l'intermédiaire d'une plateforme d'échanges sécurisés de documents électroniques :
 
 1° Pour les décisions mentionnées à l'article L. 464-1, à l'auteur de la demande de mesures conservatoires, aux personnes contre lesquelles la demande est dirigée et au commissaire du Gouvernement ;

@@ -1,3 +1,5 @@
+# Article R228-66
+
 Outre les mentions prévues à l'article R. 225-66, l'avis de convocation de l'assemblée générale des obligataires contient les indications suivantes :
 
 1° L'indication de l'emprunt souscrit par les obligataires dont la masse est convoquée en assemblée ;

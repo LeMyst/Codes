@@ -1,3 +1,5 @@
+# Article D526-28
+
 I.-A peine de nullité, l'acte de renonciation prévu par l'article L. 526-25 du code de commerce contient les informations suivantes concernant l'entrepreneur individuel renonçant à la protection de son patrimoine personnel et le bénéficiaire de la renonciation :
 
 1° En ce qui concerne l'entrepreneur individuel renonçant à la protection de son patrimoine personnel :

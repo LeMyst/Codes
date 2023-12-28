@@ -1,3 +1,5 @@
+# Article R463-16
+
 Lorsqu'en application de l'article L. 463-8 le rapporteur général décide de faire appel à un ou des experts, sa décision définit l'objet de l'expertise, fixe le délai de sa réalisation et évalue les honoraires prévisibles correspondants.
 
 Lorsque l'expertise est demandée par une partie et acceptée par le rapporteur général, ce dernier lui demande de consigner le montant d'une provision égale aux honoraires prévus de l'expert. Si plusieurs parties doivent procéder à une telle consignation, le rapporteur général indique dans quelle proportion chacune doit consigner.

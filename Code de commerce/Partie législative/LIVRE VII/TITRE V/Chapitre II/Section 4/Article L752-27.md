@@ -1,3 +1,5 @@
+# Article L752-27
+
 I.-Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin, de Wallis-et-Futuna et de Saint-Pierre-et-Miquelon, en cas d'existence d'une position dominante, détenue par une entreprise ou un groupe d'entreprises exerçant une activité de commerce de gros ou de détail, l'Autorité de la concurrence peut, eu égard aux contraintes particulières de ces territoires découlant notamment de leurs caractéristiques géographiques et économiques, adresser un rapport motivé à l'entreprise ou au groupe d'entreprises en cause si elle constate que cette position dominante soulève des préoccupations de concurrence du fait de prix ou de marges élevés pratiqués par l'entreprise ou le groupe d'entreprises en comparaison des moyennes habituellement constatées dans le secteur concerné.
 
 L'entreprise ou le groupe d'entreprises peut, dans un délai de deux mois, lui proposer des engagements, dans les conditions prévues à l'article L. 464-2.

@@ -1,3 +1,5 @@
+# Article Annexe VIII
+
 DEMANDE D'INSCRIPTION MODIFICATIVE DES GROUPEMENTS D'INTÉRÊT ÉCONOMIQUE ET DES GROUPEMENTS EUROPÉENS D'INTÉRÊT ÉCONOMIQUE
 
 Lors de la demande d'inscription modificative, les pièces devant être présentées sont celles demandées dans l'annexe précédente et établissant les changements ou adjonctions intervenus.

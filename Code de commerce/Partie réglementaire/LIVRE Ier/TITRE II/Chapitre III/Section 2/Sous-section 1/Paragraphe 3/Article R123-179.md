@@ -1,3 +1,5 @@
+# Article R123-179
+
 Les éléments de l'actif immobilisé dont la durée d'utilisation est limitée sont amortis sur cette durée selon un plan d'amortissement. Un règlement de l'Autorité des normes comptables peut toutefois prévoir des modalités d'amortissement différentes pour ceux des commerçants qui ne dépassent pas, à la clôture de l'exercice, deux des trois critères fixés par le 2° de l'article D. 123-200.
 
 Toute modification significative des conditions d'utilisation du bien justifie la révision du plan en cours d'exécution.

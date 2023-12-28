@@ -1,3 +1,5 @@
+# Article L442-1
+
 I.-Engage la responsabilité de son auteur et l'oblige à réparer le préjudice causé le fait, dans le cadre de la négociation commerciale, de la conclusion ou de l'exécution d'un contrat, par toute personne exerçant des activités de production, de distribution ou de services :
 
 1° D'obtenir ou de tenter d'obtenir de l'autre partie un avantage ne correspondant à aucune contrepartie ou manifestement disproportionné au regard de la valeur de la contrepartie consentie ;

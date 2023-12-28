@@ -1,3 +1,5 @@
+# Article R712-18
+
 Si, avant le 1er janvier, l'établissement n'a pas adopté un budget primitif à la majorité requise, ou si le budget primitif n'a pas été approuvé par l'autorité de tutelle, le président peut, en prenant pour référence le budget primitif ou le dernier budget rectificatif approuvé par l'autorité de tutelle de l'année précédente, déduction faite d'un pourcentage du montant de recettes et de dépenses s'élevant à 5 %, mettre en recouvrement les recettes et mandater les dépenses dans les conditions suivantes :
 
 1° Jusqu'à l'approbation du budget de l'établissement, mettre en recouvrement les recettes et engager, liquider et mandater les dépenses de fonctionnement dans la limite de celles inscrites au budget primitif ou, le cas échéant, dans les budgets rectificatifs de l'année précédente ;

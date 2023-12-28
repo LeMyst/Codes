@@ -1,3 +1,5 @@
+# Article A444-149
+
 La cession de biens par un débiteur à ses créanciers (numéro 148 du tableau 5) donne lieu à la perception d'un émolument proportionnel valeur des biens, selon le barème suivant :
 
 | Tranches d'assiette |

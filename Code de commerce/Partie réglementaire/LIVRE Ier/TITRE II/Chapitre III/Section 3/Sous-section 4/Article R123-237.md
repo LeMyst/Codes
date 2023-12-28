@@ -1,3 +1,5 @@
+# Article R123-237
+
 Toute personne immatriculée indique sur ses factures, notes de commande, tarifs et documents publicitaires ainsi que sur toutes correspondances et tous récépissés concernant son activité et signés par elle ou en son nom :
 
 1° Le numéro unique d'identification de l'entreprise délivré conformément à l'article D. 123-235 ;

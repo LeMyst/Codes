@@ -1,3 +1,5 @@
+# Article R236-19
+
 I.-Lorsqu'il est fait application du premier alinéa de l'article L. 236-27, le projet d'apport partiel d'actifs contient les indications mentionnées à l'article R. 236-1, à l'exception de celles prévues aux 4°, 7° et 9°.
 
 II.-Lorsqu'il est fait application du second alinéa de l'article L. 236-27, le projet contient, outre celles mentionnées à l'article R. 236-1, les indications suivantes :

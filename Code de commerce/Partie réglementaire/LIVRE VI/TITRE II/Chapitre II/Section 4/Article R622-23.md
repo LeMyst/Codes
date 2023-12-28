@@ -1,3 +1,5 @@
+# Article R622-23
+
 Outre les indications prévues à l'article L. 622-25, la déclaration de créance contient :
 
 1° Les éléments de nature à prouver l'existence et le montant de la créance si elle ne résulte pas d'un titre ; à défaut, une évaluation de la créance si son montant n'a pas encore été fixé ;

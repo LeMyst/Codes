@@ -1,3 +1,5 @@
+# Article A663-15-1
+
 Conformément aux dispositions de l'article R. 663-15-1, l'émolument dû au commissaire à l'exécution du plan, au titre des diligences qu'il a effectuées dans le cadre de nouveaux apports de trésorerie prévus au troisième alinéa de l'article L. 626-26 (numéro 3-1 du tableau 4-2), qui ne peut excéder 20 000 euros, est fixé proportionnellement au montant cumulé de ces apports mentionnés dans le jugement modifiant le plan, selon le barème suivant :
 
 |

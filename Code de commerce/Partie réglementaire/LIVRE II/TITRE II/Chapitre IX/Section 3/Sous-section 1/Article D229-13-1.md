@@ -1,3 +1,5 @@
+# Article D229-13-1
+
 Aux fins d'immatriculation de la société européenne constituée par voie de fusion, chaque société qui participe à l'opération remet au notaire ou au greffier du tribunal dans le ressort duquel la société issue de la fusion sera immatriculée, qui a été chargé du contrôle de la légalité, outre le certificat mentionné au troisième alinéa de l'article L. 229-3 datant de moins de six mois, un dossier contenant au moins les documents suivants :
 
 1° Les statuts de la société européenne ;

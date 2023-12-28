@@ -1,3 +1,5 @@
+# Article R123-152-2
+
 Les extraits ou certificats mentionnés au dernier alinéa de l'article R. 123-152 sont délivrés par les greffiers sur support électronique dans les conditions suivantes :
 
 1° Ils sont établis au moyen d'un système de traitement, de conservation et de transmission de l'information garantissant l'intégrité de leur contenu et agréé par le Conseil national des greffiers des tribunaux de commerce ;

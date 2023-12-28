@@ -1,3 +1,5 @@
+# Article A743-15
+
 I.-L'ensemble des prestations réalisées par le greffier de tribunal de commerce dans le cadre d'une procédure de liquidation judiciaire figurant au numéro 143 du tableau mentionné à l'article A. 743-8 donne lieu à la perception d'un émolument principal, qui varie en fonction du nombre de salariés et du chiffre d'affaires de l'entreprise concernée déterminés conformément aux dispositions de l'article R. 621-11, selon le barème suivant :
 
 |

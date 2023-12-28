@@ -1,3 +1,5 @@
+# Article L225-24
+
 En cas de vacance par décès ou par démission d'un ou plusieurs sièges d'administrateur, le conseil d'administration peut, entre deux assemblées générales, procéder à des nominations à titre provisoire.
 
 Lorsque le nombre des administrateurs est devenu inférieur au minimum légal, les administrateurs restants doivent convoquer immédiatement l'assemblée générale ordinaire en vue de compléter l'effectif du conseil.

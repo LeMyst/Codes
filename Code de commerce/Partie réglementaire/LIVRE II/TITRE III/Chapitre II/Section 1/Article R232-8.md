@@ -1,3 +1,5 @@
+# Article R232-8
+
 Une société consolidante au sens du premier alinéa de l'article L. 232-5 effectue, lorsqu'elle exerce l'option prévue à cet article, les retraitements conformes aux règles de la consolidation sur les éléments des comptes des sociétés qu'elle contrôle directement ou indirectement.
 
 Ces retraitements peuvent être effectués, pour l'application du troisième alinéa de l'article L. 232-5, sous la responsabilité de la société consolidante par les sociétés contrôlées.

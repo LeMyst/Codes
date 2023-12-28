@@ -1,3 +1,5 @@
+# Article L511-50
+
 Quand la présentation de la lettre de change ou la confection du protêt dans les délais prescrits est empêchée par un obstacle insurmontable tel que la prescription légale d'un Etat quelconque ou tout autre cas de force majeure, ces délais sont prolongés.
 
 Le porteur est tenu de donner, sans retard, avis du cas de force majeure à son endosseur et de mentionner cet avis, daté et signé de lui, sur la lettre de change ou sur une allonge. Pour le surplus, les dispositions de l'article L. 511-42 sont applicables.

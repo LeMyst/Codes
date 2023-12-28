@@ -1,3 +1,5 @@
+# Article L225-21
+
 Une personne physique ne peut exercer simultanément plus de cinq mandats d'administrateur de sociétés anonymes ayant leur siège sur le territoire français.
 
 Par dérogation aux dispositions du premier alinéa, ne sont pas pris en compte les mandats d'administrateur ou de membre du conseil de surveillance exercés par cette personne dans les sociétés contrôlées au sens de l'article L. 233-16 par la société dont elle est administrateur.

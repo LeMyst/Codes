@@ -1,3 +1,5 @@
+# Article R723-6
+
 Les candidatures aux fonctions de juge d'un tribunal de commerce sont déclarées au préfet. Nul ne peut se porter simultanément candidat dans plusieurs tribunaux de commerce.
 
 Les déclarations de candidature sont recevables jusqu'à 18 heures le vingtième jour précédant celui du dépouillement du premier tour de scrutin. Les déclarations doivent être faites par écrit et signées par les candidats. Elles peuvent être individuelles ou collectives.

@@ -1,3 +1,5 @@
+# Article L229-2
+
 Toute société européenne régulièrement immatriculée au registre du commerce et des sociétés peut transférer son siège dans un autre Etat membre de la Communauté européenne. Elle établit un projet de transfert. Ce projet est déposé au greffe du tribunal dans le ressort duquel la société est immatriculée et fait l'objet d'une publicité dont les modalités sont fixées par décret en Conseil d'Etat.
 
 Le transfert de siège est décidé par l'assemblée générale extraordinaire dans les conditions prévues à l'article L. 225-96 et est soumis à la ratification des assemblées spéciales d'actionnaires mentionnées aux articles L. 225-99 et L. 228-35-6.

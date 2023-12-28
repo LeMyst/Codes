@@ -1,3 +1,5 @@
+# Article R233-8
+
 La consolidation impose :
 
 1° Le classement des éléments d'actif et de passif ainsi que des éléments de charge et de produit des entreprises consolidées par intégration selon le plan de classement retenu pour la consolidation ;

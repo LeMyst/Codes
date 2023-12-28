@@ -1,3 +1,5 @@
+# Article L123-54
+
 I.-L'inscription d'informations ou le dépôt de pièces au registre national des entreprises fait l'objet de l'acquittement de droits.
 
 II.-Les personnes mentionnées au 1° de l'article L. 123-36 s'acquittent d'un droit dont le barème est déterminé par décret, dans la limite de 10 €, pour les inscriptions complémentaires et modificatives, le dépôt des comptes annuels, le dépôt des actes modificatifs.

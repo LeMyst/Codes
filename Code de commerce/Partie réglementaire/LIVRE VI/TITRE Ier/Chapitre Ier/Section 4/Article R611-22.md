@@ -1,3 +1,5 @@
+# Article R611-22
+
 La requête aux fins d'ouverture d'une procédure de conciliation adressée ou remise au président du tribunal en application de l'article L. 611-6 est accompagnée, sous réserve des dispositions particulières applicables au débiteur, des pièces suivantes :
 
 1° Le numéro unique d'identification ;

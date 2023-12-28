@@ -1,3 +1,5 @@
+# Article L141-25
+
 L'information des salariés peut être effectuée par tout moyen, précisé par voie réglementaire, de nature à rendre certaine la date de sa réception par ces derniers.
 
 Lorsque l'information est faite par lettre recommandée avec demande d'avis de réception, la date de réception de l'information est la date de la première présentation de la lettre.

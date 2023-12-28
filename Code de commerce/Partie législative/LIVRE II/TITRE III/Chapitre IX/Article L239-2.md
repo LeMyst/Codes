@@ -1,3 +1,5 @@
+# Article L239-2
+
 Le contrat de bail est constaté par acte authentique ou sous seing privé soumis à la procédure de l'enregistrement. Il comporte, à peine de nullité, des mentions dont la liste est fixée par décret en Conseil d'Etat.
 
 Il est rendu opposable à la société dans les formes prévues à l'article 1690 du code civil.

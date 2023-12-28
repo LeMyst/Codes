@@ -1,3 +1,5 @@
+# Article R940-1
+
 Sous réserve des adaptations prévues dans les chapitres ci-après, les dispositions suivantes du code sont applicables en Polynésie française :
 
 1° Les articles R. 123-220 à R. 123-234-2, en ce qu'ils concernent les institutions et services de l'Etat et les personnes morales de droit public administratif dont le siège est situé en Polynésie française, ainsi que leurs établissements. Les articles R. 123-220, R. 123-220-1, R. 123-221, R. 123-222, R. 123-222-1, R. 123-222-2, R. 123-223, R. 123-231, R. 123-232, R. 123-232-1, R. 123-233, R. 123-234, R. 123-234-1 et R. 123-234-2 sont applicables dans leur version résultant du n° 2022-1014 du 19 juillet 2022 ;

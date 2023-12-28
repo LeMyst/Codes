@@ -1,3 +1,5 @@
+# Article A444-12
+
 Si, à compter de la demande du client, les prestations suivantes sont réalisées dans un délai inférieur au délai de référence précisé dans le tableau ci-dessous, elles donnent lieu à la perception de l'émolument majoré prévu à l'article R. 444-11, qui remplace celui prévu à l'article A. 444-11. Le tarif majoré applicable est alors le suivant :
 
 | Numéro de

@@ -1,3 +1,5 @@
+# Article R711-55
+
 I.-La stratégie nationale adoptée par l'assemblée générale de CCI France en application du 1° de l'article L. 711-16 est le cadre de référence de la stratégie des chambres de commerce et d'industrie de région prévue au 1° de l'article L. 711-8.
 
 CCI France coordonne l'action des établissements du réseau en tant qu'autorités compétentes dans le cadre des procédures de coopération administrative mentionnées à l'article D. 711-10-1. Les ministères concernés sont, le cas échéant, associés à cette coordination.

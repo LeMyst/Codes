@@ -1,3 +1,5 @@
+# Article R464-9-2
+
 Après examen des observations reçues, le ministre chargé de l'économie informe, par lettre recommandée avec demande d'avis de réception, chaque entreprise concernée de sa décision. Il peut classer l'affaire ou enjoindre aux entreprises de prendre les mesures de nature à mettre fin aux pratiques anticoncurrentielles constatées et leur indiquer la somme proposée à titre de transaction, ou l'une de ces deux dernières mesures seulement.
 
 Pour chaque entreprise concernée, la décision indique les délais dans lesquels l'entreprise doit exécuter l'injonction et payer la somme proposée à titre de transaction au Trésor public.

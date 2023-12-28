@@ -1,3 +1,5 @@
+# Article R622-19
+
 Conformément au II de l'article L. 622-21, les procédures de distribution du prix de vente d'un immeuble et les procédures de distribution du prix de vente d'un meuble ne faisant pas suite à une procédure d'exécution ayant produit un effet attributif avant le jugement d'ouverture, en cours au jour de ce jugement, sont caduques. Les fonds sont remis au mandataire judiciaire, le cas échéant par le séquestre qui par cette remise est libéré à l'égard des parties.
 
 Si le tribunal arrête un plan, le mandataire judiciaire remet ces fonds au commissaire à l'exécution du plan aux fins de répartition.

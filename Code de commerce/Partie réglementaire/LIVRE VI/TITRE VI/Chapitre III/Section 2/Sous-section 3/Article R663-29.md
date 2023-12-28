@@ -1,3 +1,5 @@
+# Article R663-29
+
 I.-Il est alloué au liquidateur des émoluments déterminés par un arrêté pris en application de l'article L. 444-3 :
 
 1° Au titre des cessions d'actifs mobiliers corporels, en fonction du montant total toutes taxes comprises du prix des actifs cédés, déduction faite de la rémunération toutes taxes comprises des intervenants, autres que le liquidateur, ayant participé aux opérations de cession ;

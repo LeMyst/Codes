@@ -1,3 +1,5 @@
+# Article R612-6
+
 Le rapport mentionné au premier alinéa de l'article L. 612-5 contient :
 
 1° L'énumération des conventions soumises à l'approbation de l'organe délibérant ou jointes aux documents communiqués aux adhérents en l'absence d'organe délibérant ;

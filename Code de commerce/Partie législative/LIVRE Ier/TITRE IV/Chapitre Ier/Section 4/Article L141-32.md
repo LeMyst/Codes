@@ -1,3 +1,5 @@
+# Article L141-32
+
 La présente section n'est pas applicable :
 
 1° En cas de vente du fonds à un conjoint, à un ascendant ou à un descendant ;

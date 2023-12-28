@@ -1,3 +1,5 @@
+# Article L225-72
+
 Les statuts peuvent imposer que chaque membre du conseil de surveillance soit propriétaire d'un nombre d'actions de la société, qu'ils déterminent.
 
 Si, au jour de sa nomination, un membre du conseil de surveillance n'est pas propriétaire du nombre d'actions requis ou si, en cours de mandat, il cesse d'en être propriétaire, il est réputé démissionnaire d'office, s'il n'a pas régularisé sa situation dans le délai de six mois.

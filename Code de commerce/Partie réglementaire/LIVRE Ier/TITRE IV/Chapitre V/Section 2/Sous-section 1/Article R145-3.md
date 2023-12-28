@@ -1,3 +1,5 @@
+# Article R145-3
+
 Les caractéristiques propres au local s'apprécient en considération :
 
 1° De sa situation dans l'immeuble où il se trouve, de sa surface et de son volume, de la commodité de son accès pour le public ;

@@ -1,3 +1,5 @@
+# Article D123-200
+
 Pour l'application des articles L. 123-16 et L. 123-16-1 :
 
 1° En ce qui concerne les micro-entreprises, le total du bilan est fixé à 350 000 euros, le montant net du chiffre d'affaires à 700 000 euros et le nombre moyen de salariés employés au cours de l'exercice à 10 ;

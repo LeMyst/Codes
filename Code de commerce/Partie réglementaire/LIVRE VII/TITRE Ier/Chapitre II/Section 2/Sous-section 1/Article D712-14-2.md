@@ -1,3 +1,5 @@
+# Article D712-14-2
+
 Sont considérées comme des circonstances particulières au sens du 7° de l'article L. 711-8 :
 
 1° L'intervention de la chambre au soutien de l'activité économique de sa circonscription en cas de mutation économique affectant gravement cette activité ;

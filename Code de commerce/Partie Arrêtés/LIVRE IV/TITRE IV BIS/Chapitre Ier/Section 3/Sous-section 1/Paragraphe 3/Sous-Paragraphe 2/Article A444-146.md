@@ -1,3 +1,5 @@
+# Article A444-146
+
 Les prestations liées à l'endossement (numéros 142 à 144 du tableau 5) donnent lieu à la perception :
 
 1° S'agissant de l'endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976 relative à certaines formes de transmission des créances, sans négociation, d'un émolument fixe de 52,82 € ;

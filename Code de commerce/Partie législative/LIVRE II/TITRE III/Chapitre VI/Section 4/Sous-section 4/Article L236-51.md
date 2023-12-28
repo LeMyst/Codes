@@ -1,3 +1,5 @@
+# Article L236-51
+
 A compter de la réalisation de la transformation transfrontalière :
 
 1° L'ensemble des éléments d'actif et de passif de la société résultant de la transformation sont ceux de la société à l'origine de la transformation ;

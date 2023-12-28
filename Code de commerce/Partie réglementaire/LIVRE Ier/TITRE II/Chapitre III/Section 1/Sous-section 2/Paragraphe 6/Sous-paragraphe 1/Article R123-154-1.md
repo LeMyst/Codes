@@ -1,3 +1,5 @@
+# Article R123-154-1
+
 Les comptes annuels qui sont accompagnés d'une déclaration de confidentialité des comptes annuels en application de l'article R. 123-111-1 ne peuvent être délivrés qu'aux sociétés les ayant déposés et aux autorités, personnes morales et institutions visées au troisième alinéa de l'article L. 232-25.
 
 Les comptes annuels qui sont accompagnés d'une déclaration de publication simplifiée en application de l'article R. 123-111-1 ne peuvent être délivrés dans leur intégralité qu'aux sociétés les ayant déposés et aux autorités, personnes morales et institutions visées au troisième alinéa de l'article L. 232-25.

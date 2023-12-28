@@ -1,3 +1,5 @@
+# Article R450-2
+
 L'ordonnance mentionnée à l'article L. 450-4 indique les voies et délais de recours dont dispose l'occupant des lieux ou son représentant.
 
 Les procès-verbaux prévus à l'article L. 450-4 relatent le déroulement de la visite et consignent les constatations effectuées. Ils sont dressés sur-le-champ. Ils comportent l'inventaire des pièces et documents saisis.

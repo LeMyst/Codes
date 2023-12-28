@@ -1,3 +1,5 @@
+# Article R712-10
+
 L'autorité de tutelle peut mettre en place une tutelle renforcée ou suspendre les instances d'une chambre de commerce et d'industrie, après avoir demandé préalablement à l'établissement de prendre, dans un délai qu'elle fixe, les mesures correctrices nécessaires :
 
 1° Lorsqu'il est constaté au cours de deux exercices budgétaires consécutifs que le fonds de roulement est négatif, ou que la capacité d'autofinancement est insuffisante pour couvrir les annuités d'emprunts ;

@@ -1,3 +1,5 @@
+# Article A444-128
+
 La compensation (numéro 112 du tableau 5) donne lieu à la perception d'un émolument proportionnel aux sommes compensées, selon le barème suivant :
 
 |

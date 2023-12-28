@@ -1,3 +1,5 @@
+# Article R711-55-3
+
 Les audits diligentés par CCI France en application du 7° de l'article L. 711-16 s'effectuent sur place ou sur pièces demandées à l'établissement audité et, le cas échéant, à la chambre de commerce et d'industrie de région. Ils sont menés par CCI France ou par le cabinet d'audit mandaté à cet effet.
 
 Dans le cas où CCI France diligente et mène un audit concernant une chambre de commerce et d'industrie territoriale, la chambre de commerce et d'industrie de région de rattachement est informée du déclenchement et de l'objet de cet audit.

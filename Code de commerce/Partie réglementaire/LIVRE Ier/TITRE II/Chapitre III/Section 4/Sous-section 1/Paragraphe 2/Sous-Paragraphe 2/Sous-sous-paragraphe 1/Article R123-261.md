@@ -1,3 +1,5 @@
+# Article R123-261
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de l'établissement public français à caractère industriel et commercial, les éléments suivants :
 
 1° En ce qui concerne la personne morale :

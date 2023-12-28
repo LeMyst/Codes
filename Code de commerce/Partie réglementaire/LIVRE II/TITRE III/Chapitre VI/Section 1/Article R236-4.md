@@ -1,3 +1,5 @@
+# Article R236-4
+
 Toute société par actions participant à une opération de fusion met à la disposition de ses actionnaires, au siège social, trente jours au moins avant la date à laquelle l'assemblée générale ou l'organe compétent est appelé à se prononcer sur le projet, les documents suivants :
 
 1° Le projet de fusion ;

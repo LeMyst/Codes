@@ -1,3 +1,5 @@
+# Article L444-1
+
 Sont régis par le présent titre les tarifs réglementés applicables aux prestations des commissaires de justice, des greffiers de tribunal de commerce, des administrateurs judiciaires, des mandataires judiciaires et des notaires. Sont également régis par le présent titre les droits et émoluments de l'avocat en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires mentionnés à l' article 10 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques.
 
 Sauf disposition contraire, lorsqu'un professionnel mentionné au premier alinéa du présent article est autorisé à exercer une activité dont la rémunération est soumise à un tarif propre à une autre catégorie d'auxiliaire de justice ou d'officier public ou ministériel, sa rémunération est arrêtée conformément aux règles dudit tarif. Les prestations accomplies par les personnes mentionnées au deuxième alinéa de l'article L. 811-2 et au premier alinéa du II de l'article L. 812-2 sont rémunérées conformément aux tarifs réglementés applicables aux administrateurs et mandataires judiciaires.

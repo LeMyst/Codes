@@ -1,3 +1,5 @@
+# Article L441-10
+
 I.-Sauf dispositions contraires figurant aux conditions de vente ou convenues entre les parties, le délai de règlement des sommes dues ne peut dépasser trente jours après la date de réception des marchandises ou d'exécution de la prestation demandée.
 
 Le délai convenu entre les parties pour régler les sommes dues ne peut dépasser soixante jours après la date d'émission de la facture.

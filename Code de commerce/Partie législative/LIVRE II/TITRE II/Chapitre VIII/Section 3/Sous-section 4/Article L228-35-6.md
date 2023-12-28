@@ -1,3 +1,5 @@
+# Article L228-35-6
+
 Les titulaires d'actions à dividende prioritaire sans droit de vote sont réunis en assemblée spéciale dans des conditions fixées par décret en Conseil d'Etat.
 
 Tout actionnaire possédant des actions à dividende prioritaire sans droit de vote peut participer à l'assemblée spéciale. Toute clause contraire est réputée non écrite.

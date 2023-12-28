@@ -1,3 +1,5 @@
+# Article R742-39
+
 La formation continue prévue par l'article L. 743-15 assure la mise à jour et le perfectionnement des connaissances nécessaires à l'exercice de sa profession par le greffier de tribunal de commerce.
 
 La durée de la formation continue est de vingt heures au cours d'une année civile ou de quarante heures au cours de deux années consécutives.

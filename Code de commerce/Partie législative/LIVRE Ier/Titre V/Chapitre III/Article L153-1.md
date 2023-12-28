@@ -1,3 +1,5 @@
+# Article L153-1
+
 Lorsque, à l'occasion d'une instance civile ou commerciale ayant pour objet une mesure d'instruction sollicitée avant tout procès au fond ou à l'occasion d'une instance au fond, il est fait état ou est demandée la communication ou la production d'une pièce dont il est allégué par une partie ou un tiers ou dont il a été jugé qu'elle est de nature à porter atteinte à un secret des affaires, le juge peut, d'office ou à la demande d'une partie ou d'un tiers, si la protection de ce secret ne peut être assurée autrement et sans préjudice de l'exercice des droits de la défense :
 
 1° Prendre connaissance seul de cette pièce et, s'il l'estime nécessaire, ordonner une expertise et solliciter l'avis, pour chacune des parties, d'une personne habilitée à l'assister ou la représenter, afin de décider s'il y a lieu d'appliquer des mesures de protection prévues au présent article ;

@@ -1,3 +1,5 @@
+# Article L723-1
+
 Les juges d'un tribunal de commerce sont élus dans le ressort de la juridiction par un collège composé :
 
 1° Des membres élus des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat dans le ressort de la juridiction, dans des conditions fixées par décret en Conseil d'Etat ;

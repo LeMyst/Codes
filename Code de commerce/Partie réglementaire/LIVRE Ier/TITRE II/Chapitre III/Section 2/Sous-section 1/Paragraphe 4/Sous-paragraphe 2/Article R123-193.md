@@ -1,3 +1,5 @@
+# Article R123-193
+
 Le compte de résultat dont le modèle est établi par un règlement de l'Autorité des normes comptables fait apparaître successivement, outre les variations de stocks :
 
 1° Au titre des charges : les charges d'exploitation, les charges financières, les charges exceptionnelles ainsi que la participation des salariés aux fruits de l'expansion et l'impôt sur le bénéfice ;

@@ -1,3 +1,5 @@
+# Article R321-1
+
 Les opérateurs, personnes morales ou physiques, organisant et réalisant des ventes volontaires de meubles aux enchères publiques, y compris par voie électronique, déclarent leurs activités auprès du Conseil des maisons de vente par lettre recommandée avec demande d'avis de réception ou par tout moyen dématérialisé, sous réserve que puisse être dûment identifiée la personne qui effectue la déclaration.
 
 La déclaration est accompagnée des pièces justificatives suivantes :

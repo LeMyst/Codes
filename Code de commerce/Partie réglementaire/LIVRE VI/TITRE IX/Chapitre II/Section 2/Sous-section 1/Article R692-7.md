@@ -1,3 +1,5 @@
+# Article R692-7
+
 I.-Le praticien de l'insolvabilité de la procédure d'insolvabilité principale notifie l'engagement qu'il se propose de prendre en application de l'article 36 du règlement (UE) n° 2015/848 du 20 mai 2015 aux créanciers locaux connus du débiteur qui a un établissement sur le territoire national, par lettre recommandée avec demande d'avis de réception.
 
 Sont joints à cet envoi :

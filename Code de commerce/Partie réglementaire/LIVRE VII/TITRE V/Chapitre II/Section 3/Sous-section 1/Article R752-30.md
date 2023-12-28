@@ -1,3 +1,5 @@
+# Article R752-30
+
 Le délai de recours contre une décision ou un avis de la commission départementale est d'un mois. Il court :
 
 1° Pour le demandeur, à compter de la notification de la décision ou de l'avis ;

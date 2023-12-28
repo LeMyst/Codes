@@ -1,3 +1,5 @@
+# Article R752-44-17
+
 Dans le délai de deux mois mentionné aux articles R. 752-44-15 et R. 752-44-16, le préfet :
 
 1° Peut demander au porteur du projet toute explication relative à la conformité de l'équipement commercial réalisé avec l'autorisation d'exploitation commerciale délivrée ou à l'application, à l'équipement commercial réalisé, des dispositions de l'article L. 752-1-1.

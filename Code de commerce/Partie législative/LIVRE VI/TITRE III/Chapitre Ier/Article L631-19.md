@@ -1,3 +1,5 @@
+# Article L631-19
+
 I.-Les dispositions du chapitre VI du titre II, à l'exception des troisième et quatrième alinéas de l'article L. 626-1, sont applicables au plan de redressement, sous réserve des dispositions qui suivent.
 
 Il incombe à l'administrateur, avec le concours du débiteur, d'élaborer le projet de plan et, le cas échéant, de présenter aux classes de parties affectées les propositions prévues au premier alinéa de l'article L. 626-30-2. Pour l'application de l'article L. 626-2-1, la consultation est faite par l'administrateur, lorsqu'il en a été désigné un. Les classes se prononcent sur chacune des propositions faites. Pour l'application du premier alinéa de l'article L. 626-8, l'information et la consultation portent sur les mesures qui sont soumises au vote des classes de parties affectées.

@@ -1,3 +1,5 @@
+# Article R450-8
+
 L'autorité administrative mentionnée au deuxième alinéa de l'article L. 450-3-3 est :
 
 1° Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant nommément désigné ;

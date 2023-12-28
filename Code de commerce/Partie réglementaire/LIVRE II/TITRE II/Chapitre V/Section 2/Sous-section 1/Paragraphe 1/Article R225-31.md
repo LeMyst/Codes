@@ -1,3 +1,5 @@
+# Article R225-31
+
 Le rapport des commissaires aux comptes prévu au troisième alinéa de l'article L. 225-40 contient :
 
 1° L'énumération des conventions et engagements soumis à l'approbation de l'assemblée générale ;

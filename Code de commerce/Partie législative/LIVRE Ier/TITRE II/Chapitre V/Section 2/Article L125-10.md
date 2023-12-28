@@ -1,3 +1,5 @@
+# Article L125-10
+
 Un règlement intérieur est annexé au contrat constitutif ou aux statuts, selon le cas.
 
 Le contrat constitutif ou les statuts, ainsi que le règlement intérieur, ne peuvent être modifiés que par l'assemblée, ou l'assemblée générale, selon le cas, statuant à la majorité absolue en nombre des membres du groupement ou de la société, ou, si le contrat constitutif ou les statuts le prévoient, à une majorité plus importante. Il en est de même des décisions portant agrément ou exclusion.

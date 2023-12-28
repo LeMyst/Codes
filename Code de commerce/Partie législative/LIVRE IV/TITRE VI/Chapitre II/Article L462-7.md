@@ -1,3 +1,5 @@
+# Article L462-7
+
 I. - L'Autorité ne peut être saisie de faits remontant à plus de cinq ans s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction.
 
 Les actes interruptifs de la prescription de l'action publique exercée en application du premier alinéa de l'article L. 420-6 sont également interruptifs de la prescription devant l'Autorité de la concurrence.

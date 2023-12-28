@@ -1,3 +1,5 @@
+# Article R22-10-40
+
 I.-La politique de rémunération mentionnée au I de l'article L. 22-10-76 comprend les informations suivantes, relatives au gérant ou aux gérants dans leur ensemble :
 
 1° La manière dont elle respecte l'intérêt social et contribue à la stratégie commerciale ainsi qu'à la pérennité de la société ;

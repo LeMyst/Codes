@@ -1,3 +1,5 @@
+# Article R950-1
+
 Sous réserve des adaptations prévues dans les chapitres ci-après, les dispositions suivantes du code sont applicables dans les îles Wallis et Futuna :
 
 1° Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.

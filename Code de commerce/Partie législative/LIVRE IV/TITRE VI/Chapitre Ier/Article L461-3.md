@@ -1,3 +1,5 @@
+# Article L461-3
+
 L'Autorité de la concurrence peut siéger soit en formation plénière, soit en sections, soit en commission permanente. La commission permanente est composée du président et des quatre vice-présidents.
 
 Les formations de l'autorité délibèrent à la majorité des membres présents. Le règlement intérieur de l'autorité détermine les critères de quorum applicables à chacune de ces formations.

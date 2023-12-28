@@ -1,3 +1,5 @@
+# Article A444-136
+
 L'acte d'affectation hypothécaire (numéro 123 du tableau 5) donne lieu, à la perception :
 
 1° Lorsque l'affectation hypothécaire est consentie par un tiers dans l'acte principal : au quart des émoluments de l'acte principal ;

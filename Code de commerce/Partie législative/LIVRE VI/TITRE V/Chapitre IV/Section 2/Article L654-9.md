@@ -1,3 +1,5 @@
+# Article L654-9
+
 Est puni des peines prévues par les articles L. 654-3 à L. 654-5 le fait :
 
 1° Dans l'intérêt des personnes mentionnées à l'article L. 654-1, de soustraire, receler ou dissimuler tout ou partie des biens, meubles ou immeubles de celles-ci, ces biens étant, si la personne est un entrepreneur individuel à responsabilité limitée ou un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V, ceux du patrimoine visé par la procédure, le tout sans préjudice de l'application de l'article 121-7 du code pénal ;

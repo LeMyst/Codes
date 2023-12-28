@@ -1,3 +1,5 @@
+# Article R761-5
+
 Le gestionnaire du marché établit un rapport annuel dans les conditions prévues à l'article L. 1411-3 du code général des collectivités territoriales et le transmet aux communes et aux établissements publics de coopération intercommunale sur le territoire desquels est implanté le marché, au conseil régional et au préfet.
 
 Le compte de résultat prévisionnel, prévu à l'article L. 761-3, est produit selon les mêmes modalités.

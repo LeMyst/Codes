@@ -1,3 +1,5 @@
+# Article R821-47
+
 Sur délégation du Conseil national auquel il rend compte semestriellement, le bureau assure l'administration courante de la Compagnie nationale.
 
 Dans les mêmes conditions :

@@ -1,3 +1,5 @@
+# Article R521-2
+
 Le registre régi par le présent chapitre assure la publicité :
 
 1° Des gages sans dépossession à l'exception des gages mentionnés au second alinéa de l'article 2338 du code civil ;

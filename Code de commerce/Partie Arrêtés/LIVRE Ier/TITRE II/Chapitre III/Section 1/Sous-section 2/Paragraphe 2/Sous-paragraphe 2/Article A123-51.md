@@ -1,3 +1,5 @@
+# Article A123-51
+
 Le juge commis à la surveillance du registre du commerce et des sociétés demande le bulletin n° 2 du casier judiciaire :
 
 1° Des personnes physiques soumises à immatriculation et des personnes physiques ayant le pouvoir d'engager à titre habituel la personne tenue à l'immatriculation ;

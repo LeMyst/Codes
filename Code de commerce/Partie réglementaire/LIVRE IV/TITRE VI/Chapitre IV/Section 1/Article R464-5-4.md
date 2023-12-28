@@ -1,3 +1,5 @@
+# Article R464-5-4
+
 Afin de se voir accorder une exonération totale ou partielle de sanctions pécuniaires, le demandeur est tenu de remplir l'ensemble des conditions suivantes :
 
 1° Il doit mettre fin à sa participation à la pratique prohibée sans délai et au plus tard immédiatement après avoir déposé sa demande, sauf pour ce qui serait, de l'avis du rapporteur général de l'Autorité de la concurrence, raisonnablement nécessaire à la préservation de l'intégrité de l'enquête ;

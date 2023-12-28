@@ -1,3 +1,5 @@
+# Article Annexe III
+
 Modèle type d'accord du coïndivisaire à l'affectation par l'entrepreneur individuel à responsabilité limitée d'un bien indivis à son activité professionnelle
 
 Modèle d'accord du coïndivisaire en cas d'affectation de bien indivis par un entrepreneur individuel à responsabilité limitée

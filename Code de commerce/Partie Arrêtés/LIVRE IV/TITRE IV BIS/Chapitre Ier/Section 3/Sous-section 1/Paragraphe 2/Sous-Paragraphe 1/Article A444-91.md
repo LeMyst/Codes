@@ -1,3 +1,5 @@
+# Article A444-91
+
 La vente ou cession de gré à gré (numéro 54 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

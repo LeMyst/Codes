@@ -1,3 +1,5 @@
+# Article R123-56
+
 Sont en outre déclarés dans la demande d'immatriculation :
 
 1° Pour les sociétés résultant d'une fusion ou d'une scission, les raison sociale ou dénomination, forme juridique et siège social de toutes les sociétés y ayant participé, ainsi que, en ce qui concerne chacune d'entre elles, les renseignements prévus aux 1° et 2° de l'article R. 123-237 ;

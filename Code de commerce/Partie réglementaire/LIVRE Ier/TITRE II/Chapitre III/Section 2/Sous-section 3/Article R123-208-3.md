@@ -1,3 +1,5 @@
+# Article R123-208-3
+
 La déclaration prévue à l'article L. 123-29 est adressée par lettre recommandée avec demande d'avis de réception ou remise contre récépissé.
 
 Si le dossier est incomplet, la chambre de commerce et d'industrie ou la chambre de métiers et de l'artisanat de région notifie à l'intéressé la liste des pièces manquantes dans un délai de quinze jours à compter de sa réception.

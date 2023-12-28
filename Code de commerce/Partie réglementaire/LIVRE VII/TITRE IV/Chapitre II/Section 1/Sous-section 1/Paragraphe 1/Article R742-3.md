@@ -1,3 +1,5 @@
+# Article R742-3
+
 Sont dispensés de la condition de diplôme prévue au 6° de l'article R. 742-1 :
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;

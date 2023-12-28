@@ -1,3 +1,5 @@
+# Article L511-65
+
 Le tireur, un endosseur ou un avaliseur peut indiquer une personne pour accepter ou payer au besoin.
 
 La lettre de change peut être, sous les conditions déterminées ci-après, acceptée ou payée par une personne intervenant pour un débiteur quelconque exposé au recours.

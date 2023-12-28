@@ -1,3 +1,5 @@
+# Article R762-5
+
 L'exploitant d'un parc d'exposition enregistré adresse, pour chaque année civile, la déclaration du programme annuel des manifestations commerciales telles que définies à l'article R. 762-4 se tenant dans son parc, au préfet du département d'implantation de ce parc, avant le 1er octobre de l'année précédant la tenue des manifestations commerciales inscrites dans ce programme.
 
 L'exploitant du parc déclare les principales caractéristiques de chaque manifestation commerciale, qu'il recueille auprès de son organisateur. La liste de ces caractéristiques est définie par un arrêté du ministre chargé du commerce. Lorsque la manifestation s'est tenue précédemment, ses caractéristiques chiffrées sont certifiées dans des conditions fixées par arrêté du ministre chargé du commerce.

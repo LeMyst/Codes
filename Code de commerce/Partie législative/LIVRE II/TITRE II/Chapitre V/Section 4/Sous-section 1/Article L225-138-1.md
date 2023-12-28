@@ -1,3 +1,5 @@
+# Article L225-138-1
+
 Pour l'application de l'article L. 3332-18 du code du travail relatif aux augmentations de capital réservées aux adhérents d'un plan d'épargne d'entreprise, lorsque l'assemblée générale a supprimé le droit préférentiel de souscription en faveur des salariés de la société ou des sociétés qui lui sont liées au sens de l'article L. 225-180, les dispositions des I et II de l'article L. 225-138 s'appliquent et :
 
 1° Le prix de souscription demeure déterminé dans les conditions définies à l'article L. 443-5 du code du travail ;

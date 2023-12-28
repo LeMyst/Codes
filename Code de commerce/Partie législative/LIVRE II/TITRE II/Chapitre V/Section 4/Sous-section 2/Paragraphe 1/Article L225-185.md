@@ -1,3 +1,5 @@
+# Article L225-185
+
 Des options donnant droit à la souscription d'actions peuvent être consenties pendant une durée de deux ans à compter de l'immatriculation de la société, aux mandataires sociaux personnes physiques qui participent avec des salariés à la constitution d'une société.
 
 De telles options peuvent également être consenties, pendant une durée de deux ans à compter du rachat, aux mandataires sociaux personnes physiques d'une société qui acquièrent avec des salariés la majorité des droits de vote en vue d'assurer la continuation de la société.

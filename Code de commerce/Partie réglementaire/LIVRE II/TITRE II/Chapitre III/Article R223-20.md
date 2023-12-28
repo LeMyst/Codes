@@ -1,3 +1,5 @@
+# Article R223-20
+
 Les associés sont convoqués, quinze jours au moins avant la réunion de l'assemblée, par lettre recommandée. Celle-ci indique l'ordre du jour. Toutefois, lorsque l'assemblée est convoquée, en raison du décès du gérant unique, par le commissaire aux comptes ou un associé, conformément aux dispositions du huitième alinéa de l'article L. 223-27, le délai est réduit à huit jours.
 
 La société qui entend recourir à la communication électronique en lieu et place d'un envoi postal pour satisfaire aux formalités prévues aux articles R. 223-18 à R. 223-20, R. 223-20-2 et R. 223-20-3 en soumet la proposition aux associés soit par voie postale, soit par voie électronique. Chaque associé peut donner son accord écrit par lettre recommandée ou par voie électronique, au plus tard vingt jours avant la date de la prochaine assemblée des associés. En cas d'accord, la convocation et les documents et renseignements mentionnés aux dits articles sont transmis à l'adresse indiquée par l'associé.

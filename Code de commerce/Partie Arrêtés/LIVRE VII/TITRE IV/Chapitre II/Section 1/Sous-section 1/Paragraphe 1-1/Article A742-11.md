@@ -1,3 +1,5 @@
+# Article A742-11
+
 Les épreuves orales sont notées de 0 à 20. Toute note inférieure à 5 sur 20 est éliminatoire.
 
 A l'issue des épreuves orales d'admission, le jury établit par ordre de mérite la liste des candidats admis en fonction du total des points obtenus à l'ensemble des épreuves, après application des coefficients correspondants, dans la limite des places offertes au concours.

@@ -1,3 +1,5 @@
+# Article R521-20
+
 Le créancier inscrit qui requiert la radiation justifie de sa qualité.
 
 Dans les autres cas, le requérant à la radiation en justifie :

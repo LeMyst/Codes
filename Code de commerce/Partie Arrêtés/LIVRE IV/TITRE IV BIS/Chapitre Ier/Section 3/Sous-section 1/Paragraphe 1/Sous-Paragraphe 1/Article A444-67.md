@@ -1,3 +1,5 @@
+# Article A444-67
+
 Les actes relatifs à une donation entre vifs (numéros 16 à 19 du tableau 5) donnent lieu à la perception d'un émolument proportionnel à la valeur en pleine propriété (y compris en cas de réserve d'usufruit) des biens donnés par chaque donateur :
 
 1° Selon le barème suivant, s'agissant de la donation entre vifs acceptée sans distinction de ligne :

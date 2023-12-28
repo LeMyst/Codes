@@ -1,3 +1,5 @@
+# Article R663-45
+
 La Caisse des dépôts et consignations précise la nomenclature des comptes bancaires rémunérés à vue et à terme ouverts dans ses livres, destinés à recevoir les fonds déposés en application des articles L. 622-18, L. 626-25 et L. 641-8, ainsi que les fonds déposés en application de l'article L. 663-1-1.
 
 Les intérêts des comptes bancaires, à l'exception de ceux dus au titre de sommes déposées en application de l'article L. 663-1-1, sont imputés au crédit du compte ouvert au nom du fonds dans les livres de la Caisse des dépôts et consignations.

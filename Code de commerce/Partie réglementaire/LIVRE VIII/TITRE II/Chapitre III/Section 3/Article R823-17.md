@@ -1,3 +1,5 @@
+# Article R823-17
+
 Les dispositions des articles R. 823-12 et R. 823-13 ne sont pas applicables aux :
 
 1° Personnes et entités dont le montant du bilan augmenté du montant des produits d'exploitation et des produits financiers, hors taxes, excède 122 000 000 euros ;

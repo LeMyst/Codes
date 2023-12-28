@@ -1,3 +1,5 @@
+# Article L321-6
+
 Les opérateurs mentionnés à l'article L. 321-4 doivent justifier :
 
 1° De l'existence dans un établissement de crédit d'un compte destiné exclusivement à recevoir les fonds détenus pour le compte d'autrui ;

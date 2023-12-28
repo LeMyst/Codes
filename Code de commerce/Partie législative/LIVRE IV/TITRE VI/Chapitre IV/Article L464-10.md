@@ -1,3 +1,5 @@
+# Article L464-10
+
 I.-L'accès aux déclarations effectuées en vue d'obtenir le bénéfice de la procédure d'exonération de sanction pécuniaire prévue au IV de l'article L. 464-2 ou par des dispositions équivalentes du droit national d'un autre Etat membre n'est accordé qu'aux parties à la procédure concernée.
 
 Les informations tirées de ces déclarations et qui ne peuvent être obtenues que par l'accès au dossier de la procédure peuvent être utilisées par une partie ayant eu accès à ce dossier uniquement pour l'exercice des droits de la défense dans le cadre d'une procédure relative à un recours formé contre une décision de l'Autorité de la concurrence mentionné à l'article L. 464-8 du code de commerce.

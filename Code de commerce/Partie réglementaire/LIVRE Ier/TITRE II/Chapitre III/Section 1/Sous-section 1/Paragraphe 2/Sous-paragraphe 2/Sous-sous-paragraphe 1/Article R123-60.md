@@ -1,3 +1,5 @@
+# Article R123-60
+
 Dans sa demande d'immatriculation, le groupement d'intérêt économique déclare :
 
 1° En ce qui concerne la personne :

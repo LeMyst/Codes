@@ -1,3 +1,5 @@
+# Article R751-2
+
 Pour chaque demande d'autorisation, un arrêté préfectoral fixe la composition de la commission départementale.
 
 Les élus mentionnés aux a à e du 1° du II, aux a et b du 1° du III et aux a à c du 1° du IV de l'article L. 751-2 ne peuvent être représentés que par un membre de l'organe délibérant qu'ils président.

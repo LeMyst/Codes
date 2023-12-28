@@ -1,3 +1,5 @@
+# Article R663-3
+
 I.-Les émoluments de l'administrateur judiciaire sont, pour l'accomplissement des diligences résultant de l'application des titres II à IV du livre VI de la partie législative du présent code, soumises aux règles prévues par les articles suivants.
 
 II.-Pour l'application de la présente section :

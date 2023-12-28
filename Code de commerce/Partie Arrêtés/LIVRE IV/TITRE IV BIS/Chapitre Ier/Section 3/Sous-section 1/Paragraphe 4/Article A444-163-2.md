@@ -1,3 +1,5 @@
+# Article A444-163-2
+
 L'établissement par acte authentique de la promesse de vente d'une durée de plus de dix-huit mois prévue à l'article L. 290-1 du code de la construction et de l'habitat donne lieu à la perception des émoluments suivants :
 
 |

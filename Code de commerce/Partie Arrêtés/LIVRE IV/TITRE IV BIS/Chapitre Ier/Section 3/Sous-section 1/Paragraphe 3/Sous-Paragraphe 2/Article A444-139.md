@@ -1,3 +1,5 @@
+# Article A444-139
+
 Les prêts hypothécaires destinés à financer une activité professionnelle (numéro 128 du tableau 5) donnent lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

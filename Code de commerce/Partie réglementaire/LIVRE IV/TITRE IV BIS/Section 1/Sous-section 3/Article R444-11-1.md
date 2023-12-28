@@ -1,3 +1,5 @@
+# Article R444-11-1
+
 L'arrêté pris en application de l'article L. 444-3 peut prévoir une minoration de l'émolument proportionnel applicable aux donations ou legs au profit :
 
 1° De l'une des personnes publiques mentionnées aux articles L. 1121-1 à L. 1121-6 du code général de la propriété des personnes publiques lorsque la donation ou le legs est destiné au domaine public mobilier ou immobilier ou est destiné à financer l'acquisition de biens relevant de l'un ou de l'autre ;

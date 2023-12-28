@@ -1,3 +1,5 @@
+# Article L145-9
+
 Par dérogation aux articles 1736 et 1737 du code civil, les baux de locaux soumis au présent chapitre ne cessent que par l'effet d'un congé donné six mois à l'avance ou d'une demande de renouvellement.
 
 A défaut de congé ou de demande de renouvellement, le bail fait par écrit se prolonge tacitement au-delà du terme fixé par le contrat. Au cours de la tacite prolongation, le congé doit être donné au moins six mois à l'avance et pour le dernier jour du trimestre civil.

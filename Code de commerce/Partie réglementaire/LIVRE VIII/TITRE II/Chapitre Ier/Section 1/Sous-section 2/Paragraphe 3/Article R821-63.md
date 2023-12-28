@@ -1,3 +1,5 @@
+# Article R821-63
+
 Le conseil régional a pour mission :
 
 1° De mettre en œuvre, dans son ressort, les décisions et de diffuser les messages adoptés par le Conseil national et de poursuivre les consultations professionnelles au niveau régional ;

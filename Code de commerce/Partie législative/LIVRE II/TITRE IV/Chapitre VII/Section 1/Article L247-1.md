@@ -1,3 +1,5 @@
+# Article L247-1
+
 I.-Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait, pour les présidents, les administrateurs, les directeurs généraux ou les gérants de toute société :
 
 1° De ne pas faire mention dans le rapport annuel présenté aux associés sur les opérations de l'exercice, d'une prise de participation dans une société ayant son siège sur le territoire de la République française représentant plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote aux assemblées générales de cette société ou de la prise de contrôle d'une telle société ;

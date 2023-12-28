@@ -1,3 +1,5 @@
+# Article A444-10
+
 Les prestations figurant aux tableaux 3-1 à 3-3 de l'article Annexe 4-7 donnent lieu à la perception d'émoluments fixés conformément aux dispositions respectives des sous-sections 1 à 4 de la présente section.
 
 Ces émoluments sont majorés de 30 % dans les îles Wallis et Futuna, à Saint-Pierre-et-Miquelon et à Mayotte, de 29 % dans les départements de la Guadeloupe et de la Martinique, de 27 % dans le département de la Guyane et de 37 % dans le département de La Réunion.

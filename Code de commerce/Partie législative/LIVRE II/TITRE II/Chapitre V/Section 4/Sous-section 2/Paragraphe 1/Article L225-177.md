@@ -1,3 +1,5 @@
+# Article L225-177
+
 L'assemblée générale extraordinaire, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur le rapport spécial des commissaires aux comptes, s'il en existe, peut autoriser le conseil d'administration ou le directoire à consentir, au bénéfice des membres du personnel salarié de la société ou de certains d'entre eux, des options donnant droit à la souscription d'actions. L'assemblée générale extraordinaire fixe le délai pendant lequel cette autorisation peut être utilisée par le conseil d'administration ou par le directoire, ce délai ne pouvant être supérieur à trente-huit mois. Toutefois, les autorisations antérieures à la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles régulations économiques sont valables jusqu'à leur terme.
 
 Le conseil d'administration ou le directoire fixe les conditions dans lesquelles seront consenties les options. Ces conditions pourront comporter des clauses d'interdiction de revente immédiate de tout ou partie des actions sans que le délai imposé pour la conservation des titres puisse excéder trois ans à compter de la levée de l'option.

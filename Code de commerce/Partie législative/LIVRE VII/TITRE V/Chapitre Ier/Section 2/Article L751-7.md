@@ -1,3 +1,5 @@
+# Article L751-7
+
 I.-Les membres de la Commission nationale d'aménagement commercial se conforment aux obligations de dépôt des déclarations prévues au 6° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique. Leurs déclarations d'intérêts sont tenues à la disposition de l'ensemble des autres membres de la Commission nationale d'aménagement commercial par le président.
 
 II.-Aucun membre de la Commission nationale d'aménagement commercial ne peut participer à des débats ou à une délibération dans une affaire dans laquelle lui-même ou une personne morale, au sein de laquelle il a au cours des trois années précédant la délibération exercé des fonctions ou détenu un mandat, a eu un intérêt ou représenté une partie intéressée au cours de la même période.

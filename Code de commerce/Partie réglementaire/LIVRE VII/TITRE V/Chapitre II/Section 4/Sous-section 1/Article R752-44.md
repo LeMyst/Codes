@@ -1,3 +1,5 @@
+# Article R752-44
+
 Pour tout projet réalisé en exécution d'une autorisation d'exploitation commerciale, la conformité à cette autorisation s'apprécie au regard des éléments caractéristiques du projet suivants :
 
 1° Pour les magasins et ensembles commerciaux :

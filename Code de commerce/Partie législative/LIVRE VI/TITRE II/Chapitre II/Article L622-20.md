@@ -1,3 +1,5 @@
+# Article L622-20
+
 Le mandataire judiciaire désigné par le tribunal a seul qualité pour agir au nom et dans l'intérêt collectif des créanciers. Toutefois, en cas de carence du mandataire judiciaire, tout créancier nommé contrôleur peut agir dans cet intérêt dans des conditions fixées par décret en Conseil d'Etat.
 
 Le mandataire judiciaire a qualité pour mettre en demeure un associé ou un actionnaire de verser les sommes restant dues sur le montant des parts et actions souscrites par lui.

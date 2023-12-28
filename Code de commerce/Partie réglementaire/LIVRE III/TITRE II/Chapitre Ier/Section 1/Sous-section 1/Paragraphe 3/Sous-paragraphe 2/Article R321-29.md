@@ -1,3 +1,5 @@
+# Article R321-29
+
 A l'issue de la première année de stage, le Conseil des maisons de vente s'assure, au vu d'un dossier communiqué par le maître de stage, de l'aptitude du stagiaire à poursuivre la formation professionnelle.
 
 A cet effet, le conseil organise un entretien destiné à évaluer les connaissances pratiques du stagiaire.

@@ -1,3 +1,5 @@
+# Article R225-58
+
 Le rapport des commissaires aux comptes, prévu au troisième alinéa de l'article L. 225-88, contient :
 
 1° L'énumération des conventions et engagements soumis à l'approbation de l'assemblée générale ;

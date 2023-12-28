@@ -1,3 +1,5 @@
+# Article D146-1
+
 Les informations prévues à l'article L. 146-2 sont communiquées par écrit dans un document dit " document précontractuel ", devant comporter :
 
 1° L'identité du mandant s'il s'agit d'une personne physique ou des dirigeants s'il s'agit d'une personne morale, son adresse ou son siège social et son numéro unique d'identification ;

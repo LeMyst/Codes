@@ -1,3 +1,5 @@
+# Article R621-26
+
 Pour l'application de l'article L. 621-12, le tribunal est saisi par voie de requête ou, le cas échéant, dans les formes et selon la procédure prévue à l'article R. 631-4.
 
 Il statue après avoir entendu ou dûment appelé le mandataire judiciaire, l'administrateur lorsqu'il en a été désigné, les contrôleurs et les représentants de la délégation du personnel du comité social et économique, et après avoir recueilli l'avis du ministère public.

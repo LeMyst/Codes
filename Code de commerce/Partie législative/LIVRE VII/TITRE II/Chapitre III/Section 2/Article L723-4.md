@@ -1,3 +1,5 @@
+# Article L723-4
+
 I.- Sont éligibles aux fonctions de juge d'un tribunal de commerce les personnes âgées de trente ans au moins :
 
 1° Inscrites sur les listes électorales des chambres de commerce et d'industrie ou des chambres de métiers et de l'artisanat dressées dans le ressort du tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes ;

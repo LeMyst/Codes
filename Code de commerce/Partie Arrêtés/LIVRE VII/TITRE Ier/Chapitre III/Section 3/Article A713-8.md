@@ -1,3 +1,5 @@
+# Article A713-8
+
 I.-Lorsqu'il est procédé au vote par voie électronique, l'envoi des instruments de vote aux électeurs est effectué par mail ou par voie postale. Dans ce dernier cas, ils sont adressés dans une enveloppe dont le format et les mentions qui y sont portées sont fixées à l'annexe 7-2.
 
 Les envois postaux contiennent :

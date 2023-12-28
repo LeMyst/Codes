@@ -1,3 +1,5 @@
+# Article L228-35-9
+
 Il est interdit à la société qui a émis des actions à dividende prioritaire sans droit de vote d'amortir son capital.
 
 Peuvent être annulés les remboursements effectués avant le rachat intégral ou l'annulation des actions à dividende prioritaire sans droit de vote.

@@ -1,3 +1,5 @@
+# Article D611-3
+
 Les demandes d'agrément sont déposées auprès du préfet de la région dans laquelle le groupement a son siège ; il en accuse réception après s'être assuré que le dossier est complet.
 
 Les demandes indiquent :

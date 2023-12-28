@@ -1,3 +1,5 @@
+# Article R420-1
+
 Les accords présentés au ministre chargé de l'économie, en application du II de l'article L. 420-4, sont accompagnés des informations suivantes :
 
 1° L'identification détaillée des entreprises parties à l'accord ;

@@ -1,3 +1,5 @@
+# Article R821-40
+
 Le Conseil national élit parmi ses membres au scrutin secret, selon les modalités fixées aux deux derniers alinéas de l'article R. 821-58 et pour quatre ans, un président, un vice-président et six membres, qui constituent le bureau. Le bureau est composé pour moitié de personnes exerçant des missions de certification auprès d'entités d'intérêt public et pour l'autre moitié de personnes n'exerçant pas de missions de certification auprès d'entités d'intérêt public. Deux membres au moins sont présidents de compagnies régionales.
 
 Si le président exerce des missions de certification auprès d'entités d'intérêt public, le vice-président ne peut exercer de telles missions. Si le président n'exerce pas de missions de certification auprès d'entités d'intérêt public, le vice-président exerce au moins une de ces missions.

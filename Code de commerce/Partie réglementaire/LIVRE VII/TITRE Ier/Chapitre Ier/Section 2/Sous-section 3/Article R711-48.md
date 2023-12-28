@@ -1,3 +1,5 @@
+# Article R711-48
+
 La chambre de commerce et d'industrie de région élit, après chaque renouvellement, un bureau composé d'un président, d'un trésorier, d'un trésorier adjoint et d'un ou deux secrétaires.
 
 Pour tenir compte de particularités locales, l'autorité de tutelle peut autoriser l'augmentation du nombre de membres élus du bureau dans la limite de trois membres au plus.

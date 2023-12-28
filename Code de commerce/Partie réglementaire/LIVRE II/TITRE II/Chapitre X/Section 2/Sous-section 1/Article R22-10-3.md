@@ -1,3 +1,5 @@
+# Article R22-10-3
+
 La notice prévue par l'alinéa deuxième de l'article L. 225-2 est publiée au Bulletin des annonces légales obligatoires, avant le début des opérations de souscription et préalablement à toute mesure de publicité.
 
 Elle contient les indications suivantes :

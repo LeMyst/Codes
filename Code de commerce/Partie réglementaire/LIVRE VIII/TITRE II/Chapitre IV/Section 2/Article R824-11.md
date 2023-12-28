@@ -1,3 +1,5 @@
+# Article R824-11
+
 Lorsque le collège, dans la formation mentionnée à l'article précédent, considère que les faits sont susceptibles de justifier l'engagement d'une procédure de sanction, la lettre de notification des griefs mentionnée à l'article L. 824-8 informe la personne poursuivie qu'elle peut prendre connaissance du dossier et obtenir copie des pièces, le cas échéant par voie électronique, et qu'elle peut se faire assister par le conseil de son choix.
 
 La lettre de notification des griefs mentionne que la personne poursuivie dispose d'un délai de deux mois à compter de la réception de cette lettre, pour transmettre au rapporteur général ses observations écrites sur ces griefs.

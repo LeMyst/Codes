@@ -1,3 +1,5 @@
+# Article D450-3
+
 I.-Le ministre chargé de l'économie informe le rapporteur général de l'Autorité de la concurrence des investigations qu'il souhaite entreprendre sur des faits susceptibles de relever des articles L. 420-1, L. 420-2 et L. 420-5. Il lui transmet les documents en sa possession justifiant le déclenchement d'une enquête.
 
 Le rapporteur général peut prendre la direction de ces investigations dans le délai d'un mois à compter de la réception des documents susmentionnés, auquel cas il en informe le ministre. Dans l'hypothèse où le rapporteur général écarte cette possibilité ou n'a pas informé, dans un délai de trente-cinq jours suivant la réception des documents, le ministre des suites données, le ministre chargé de l'économie peut faire réaliser les investigations par ses services.

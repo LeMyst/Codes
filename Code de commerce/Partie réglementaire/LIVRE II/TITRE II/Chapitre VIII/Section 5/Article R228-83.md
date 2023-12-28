@@ -1,3 +1,5 @@
+# Article R228-83
+
 La mainlevée des inscriptions émane des représentants de la masse intéressée.
 
 Hors les cas prévus au contrat d'émission, les représentants de la masse peuvent donner mainlevée des inscriptions, même sans constatation du remboursement de l'emprunt, s'ils ont été habilités à cet effet par une décision de l'assemblée générale des obligataires.

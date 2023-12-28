@@ -1,3 +1,5 @@
+# Article R752-31
+
 Le recours est présenté au président de la Commission nationale d'aménagement commercial par tout moyen sécurisé ou, lorsqu'il est présenté par le préfet, par la voie administrative ordinaire.
 
 A peine d'irrecevabilité, le recours est motivé et accompagné de la justification de la qualité et de l'intérêt donnant pour agir de chaque requérant.

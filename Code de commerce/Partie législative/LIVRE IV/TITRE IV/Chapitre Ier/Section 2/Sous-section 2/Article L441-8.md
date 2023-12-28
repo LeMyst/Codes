@@ -1,3 +1,5 @@
+# Article L441-8
+
 I. - Sans préjudice de l'article 172 bis du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, les contrats d'une durée d'exécution supérieure à trois mois portant sur la vente des produits agricoles et alimentaires dont les prix de production sont significativement affectés par des fluctuations des prix des matières premières agricoles et alimentaires et des produits agricoles et alimentaires, de l'énergie, du transport et des matériaux entrant dans la composition des emballages comportent une clause relative aux modalités de renégociation du prix permettant de prendre en compte ces fluctuations à la hausse comme à la baisse..
 
 Cette clause, définie par les parties, précise les conditions et les seuils de déclenchement de la renégociation.

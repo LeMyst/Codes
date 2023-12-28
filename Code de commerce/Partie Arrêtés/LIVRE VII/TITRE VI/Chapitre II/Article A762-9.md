@@ -1,3 +1,5 @@
+# Article A762-9
+
 Le contrôle par inspection des caractéristiques chiffrées soumises à déclaration d'une manifestation commerciale est effectué par un organisme tierce partie indépendant des parties engagées, accrédité à cet effet par le Comité français d'accréditation (COFRAC) ou par tout autre organisme membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux.
 
 L'organisme accrédité effectue les opérations définies à l'annexe XIII de l'annexe 7-10 " Principales opérations en vue du contrôle des caractéristiques chiffrées des manifestations commerciales " du présent livre.

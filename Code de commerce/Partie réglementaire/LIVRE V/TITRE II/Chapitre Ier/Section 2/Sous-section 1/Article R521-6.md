@@ -1,3 +1,5 @@
+# Article R521-6
+
 La demande d'inscription est effectuée par le requérant par remise ou transmission par voie postale ou électronique d'un bordereau au greffier compétent. Lorsque le bordereau est établi sous format papier il est dressé en deux exemplaires.
 
 Il comprend les informations suivantes :

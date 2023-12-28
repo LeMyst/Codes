@@ -1,3 +1,5 @@
+# Article L223-18
+
 La société à responsabilité limitée est gérée par une ou plusieurs personnes physiques.
 
 Les gérants peuvent être choisis en dehors des associés. Ils sont nommés par les associés, dans les statuts ou par un acte postérieur, dans les conditions prévues à l'article L. 223-29. Dans les mêmes conditions, la mention du nom d'un gérant dans les statuts peut, en cas de cessation des fonctions de ce gérant pour quelque cause que ce soit, être supprimée par décision des associés.

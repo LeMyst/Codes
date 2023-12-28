@@ -1,3 +1,5 @@
+# Article R711-45
+
 I.-Le projet de schéma régional d'organisation des missions, accompagné du rapport justifiant les choix effectués, établi par le bureau de la chambre de commerce et d'industrie de région, est transmis aux présidents des chambres de commerce et d'industrie qui lui sont rattachées un mois au moins avant l'assemblée générale de la chambre de commerce et d'industrie de région au cours de laquelle il est soumis au vote de ses membres.
 
 Les observations des chambres de commerce et d'industrie rattachées sont jointes au dossier transmis avec l'ordre du jour de l'assemblée générale de la chambre de commerce et d'industrie de région.

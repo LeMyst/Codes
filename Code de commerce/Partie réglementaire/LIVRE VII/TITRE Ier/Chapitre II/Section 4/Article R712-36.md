@@ -1,3 +1,5 @@
+# Article R712-36
+
 1° Les établissements du réseau ne peuvent pas utiliser le produit des impositions de toute nature qui leur sont affectées ou des ressources provenant de leurs autres activités pour assurer l'équilibre d'une convention de délégation de service public leur confiant la gestion d'un service ou d'un équipement public.
 
 Toutefois, cette interdiction ne s'applique pas : - aux flux de trésorerie intervenant à l'intérieur d'un même exercice budgétaire dès lors que le solde de ces flux en fin d'année est nul ;

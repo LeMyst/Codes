@@ -1,3 +1,5 @@
+# Article L621-2
+
 Le tribunal compétent est le tribunal de commerce si le débiteur exerce une activité commerciale ou artisanale. Le tribunal judiciaire est compétent dans les autres cas.
 
 A la demande de l'administrateur, du mandataire judiciaire, du débiteur ou du ministère public, la procédure ouverte peut être étendue à une ou plusieurs autres personnes en cas de confusion de leur patrimoine avec celui du débiteur ou de fictivité de la personne morale.

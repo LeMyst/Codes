@@ -1,3 +1,5 @@
+# Article L225-77
+
 Une personne physique ne peut exercer simultanément plus de cinq mandats de membre de conseil de surveillance de sociétés anonymes ayant leur siège social sur le territoire français.
 
 Par dérogation aux dispositions du premier alinéa, ne sont pas pris en compte les mandats de membre du conseil de surveillance ou d'administrateur exercés par cette personne dans les sociétés contrôlées au sens de l'article L. 233-16 par la société dont elle est déjà membre du conseil de surveillance.

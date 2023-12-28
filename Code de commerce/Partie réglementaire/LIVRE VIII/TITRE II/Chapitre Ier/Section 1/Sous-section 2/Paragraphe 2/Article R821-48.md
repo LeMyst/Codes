@@ -1,3 +1,5 @@
+# Article R821-48
+
 Le bureau prépare les délibérations du Conseil national dont le président fixe l'ordre du jour.
 
 Il prépare l'avis du Conseil national sur les projets de normes qui lui sont soumis par le Haut conseil en application de l'article L. 821-14.

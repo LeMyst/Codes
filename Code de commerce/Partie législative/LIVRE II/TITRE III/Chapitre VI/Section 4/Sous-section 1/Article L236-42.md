@@ -1,3 +1,5 @@
+# Article L236-42
+
 I.-A peine de nullité de la fusion transfrontalière, le greffier du tribunal dans le ressort duquel la société participant à la fusion transfrontalière est immatriculée contrôle, dans un délai fixé par décret en Conseil d'Etat, la légalité de l'opération ainsi que la conformité des actes et des formalités préalables à la fusion transfrontalière.
 
 II.-A cette fin, le greffier, sous sa responsabilité, est chargé :

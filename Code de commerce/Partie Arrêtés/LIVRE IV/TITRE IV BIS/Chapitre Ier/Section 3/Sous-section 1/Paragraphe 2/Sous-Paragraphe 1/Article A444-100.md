@@ -1,3 +1,5 @@
+# Article A444-100
+
 Les actes relatifs à la location-accession à la propriété immobilière (numéros 66 et 67 du tableau 5) donnent lieu à la perception d'un émolument proportionnel :
 
 1° Au prix de vente, lors de la conclusion du contrat initial ;

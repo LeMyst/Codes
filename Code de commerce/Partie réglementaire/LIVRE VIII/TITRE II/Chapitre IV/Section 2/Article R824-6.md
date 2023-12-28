@@ -1,3 +1,5 @@
+# Article R824-6
+
 Lorsque le rapporteur général ou un enquêteur confie à un commissaire aux comptes inscrit sur la liste mentionnée au 5° de l'article L. 824-5 la réalisation de vérifications ou d'actes d'enquête, il établit un ordre de mission indiquant l'identité de son titulaire et les vérifications et actes autorisés.
 
 Le commissaire aux comptes mentionné au premier alinéa peut recevoir une rémunération du Haut conseil à ce titre, sur la base d'un tarif horaire et d'un nombre d'heures fixés par le Haut conseil, sur proposition s'agissant du nombre d'heures, du rapporteur général.

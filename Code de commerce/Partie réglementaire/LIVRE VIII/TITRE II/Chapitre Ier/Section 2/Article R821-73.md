@@ -1,3 +1,5 @@
+# Article R821-73
+
 Le contrôleur communique au commissaire aux comptes un pré-rapport exposant les opérations de contrôle réalisées et leurs résultats afin que celui-ci présente ses observations dans un délai d'un mois.
 
 Il établit ensuite un rapport définitif qui expose les principales conclusions du contrôle et les observations du commissaire aux comptes.

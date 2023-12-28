@@ -1,3 +1,5 @@
+# Article R621-11
+
 Les seuils fixés en application du quatrième alinéa de l'article L. 621-4 sont pour le chiffre d'affaires hors taxes de 3 000 000 euros et pour le nombre de salariés de vingt.
 
 Le montant du chiffre d'affaires est défini conformément aux dispositions du sixième alinéa de l'article D. 123-200. Il est apprécié à la date de clôture du dernier exercice comptable.

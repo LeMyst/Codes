@@ -1,3 +1,5 @@
+# Article R624-4
+
 Lorsque la compétence du juge-commissaire est contestée ou que ce juge soulève d'office son incompétence ou encore en présence d'une contestation sérieuse, le greffier convoque par lettre recommandée avec demande d'avis de réception le débiteur, le créancier, le mandataire judiciaire et l'administrateur, lorsqu'il en a été désigné. La convocation du créancier reproduit les dispositions du deuxième alinéa de l'article L. 624-1 et du troisième alinéa de l'article R. 624-3.
 
 Ces dispositions sont applicables lorsque le juge-commissaire est appelé à statuer sur une contestation de créance. Toutefois, il n'y a pas lieu à convocation du créancier lorsque celui-ci n'a pas contesté la proposition du mandataire judiciaire dans le délai prévu à l'article L. 622-27.

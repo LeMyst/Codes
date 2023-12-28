@@ -1,3 +1,5 @@
+# Article A444-137
+
 La division d'hypothèque, dans le cas de partage de société de construction ou de vente de logements dépendant d'un même ensemble immobilier (numéro 124 du tableau 5) donne lieu à la perception d'un émolument proportionnel au total des créances garanties, selon le barème suivant :
 
 | Tranches d'assiette |

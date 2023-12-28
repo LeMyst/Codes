@@ -1,3 +1,5 @@
+# Article L481-5
+
 L'acheteur direct ou indirect, qu'il s'agisse de biens ou de services, qui prétend avoir subi l'application ou la répercussion d'un surcoût doit en prouver l'existence et l'ampleur.
 
 Toutefois, l'acheteur indirect, qu'il s'agisse de biens ou de services, est réputé avoir apporté la preuve de cette répercussion lorsqu'il justifie que :

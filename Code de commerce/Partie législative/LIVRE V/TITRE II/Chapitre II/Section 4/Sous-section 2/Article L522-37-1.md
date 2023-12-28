@@ -1,3 +1,5 @@
+# Article L522-37-1
+
 Un reçu d'entreposage ne peut être délivré qu'en représentation de matières premières inscrites sur une liste établie par arrêté du ministre chargé de l'économie et qui peuvent faire l'objet d'un contrat négocié sur une plateforme de négociation d'instruments financiers.
 
 Ce reçu d'entreposage ne peut être admis aux négociations sur un système multilatéral défini aux articles L. 421-1, L. 424-1 ou L. 425-1 du code monétaire et financier.

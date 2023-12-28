@@ -1,3 +1,5 @@
+# Article R712-34
+
 L'octroi par un établissement du réseau des garanties mentionnées au 3° de l'article R. 712-7 est soumis aux règles suivantes :
 
 1° L'octroi de garantie s'entend de l'octroi de garanties d'emprunts ou de cautionnements accordés à des personnes physiques ou morales de droit privé ou public ;

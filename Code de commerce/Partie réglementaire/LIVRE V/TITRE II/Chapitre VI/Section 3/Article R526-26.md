@@ -1,3 +1,5 @@
+# Article R526-26
+
 I.-Pour l'application du deuxième alinéa de l'article L. 526-22, les biens, droits, obligations et sûretés dont l'entrepreneur individuel est titulaire, utiles à l'activité professionnelle, s'entendent de ceux qui, par nature, par destination ou en fonction de leur objet, servent à cette activité, tels que :
 
 1° Le fonds de commerce, le fonds artisanal, le fonds agricole, tous les biens corporels ou incorporels qui les constituent et les droits y afférents et le droit de présentation de la clientèle d'un professionnel libéral ;

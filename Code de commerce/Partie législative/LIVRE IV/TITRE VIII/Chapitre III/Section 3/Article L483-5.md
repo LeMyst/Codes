@@ -1,3 +1,5 @@
+# Article L483-5
+
 Le juge ne peut pas enjoindre la communication ou la production d'une pièce comportant :
 
 1° Un exposé écrit ou la transcription de déclarations orales présenté volontairement à une autorité de concurrence par une personne mentionnée à l'article L. 481-1 ou en son nom, et contribuant à établir la réalité d'une pratique anticoncurrentielle prévue aux articles L. 420-1 et 101 du traité sur le fonctionnement de l'Union européenne et à en identifier ses auteurs, en vue de bénéficier d'une exonération totale ou partielle de sanctions en application d'une procédure de clémence ;

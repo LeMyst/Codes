@@ -1,3 +1,5 @@
+# Article L511-29
+
 Lorsqu'une lettre de change est stipulée payable en une monnaie n'ayant pas cours au lieu du paiement, le montant peut en être payé dans la monnaie du pays, d'après sa valeur au jour de l'échéance. Si le débiteur est en retard, le porteur peut, à son choix, demander que le montant de la lettre de change soit payé dans la monnaie du pays d'après le cours, soit du jour de l'échéance, soit du jour du paiement.
 
 Les usages du lieu de paiement servent à déterminer la valeur de la monnaie étrangère. Toutefois, le tireur peut stipuler que la somme à payer sera calculée d'après un cours déterminé dans la lettre.

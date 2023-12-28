@@ -1,3 +1,5 @@
+# Article A444-194
+
 I. – Les actes réalisés dans le cadre d'une demande contestée en partage de biens meubles ou immeubles, y compris en cas de licitation par adjudication volontaire (numéro 37 du tableau 6), donnent lieu à la perception :
 
 1° En cas d'instance contradictoire, d'un émolument proportionnel selon le barème suivant :

@@ -1,3 +1,5 @@
+# Article R823-6-2
+
 Le commissaire aux comptes d'une entité d'intérêt public peut interroger le bureau du Haut conseil sur la détermination de la date de départ de son mandat initial, en application du V de l'article L. 823-3-1. Il joint à sa demande :
 
 1° Les documents relatifs à sa désignation initiale et, le cas échéant, aux précédents renouvellements de son mandat ;

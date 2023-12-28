@@ -1,3 +1,5 @@
+# Article D441-6
+
 I.-Pour l'application de l'article L. 441-14, les sociétés présentent dans le rapport de gestion :
 
 1° Pour les fournisseurs, le nombre et le montant total des factures reçues non réglées à la date de clôture de l'exercice dont le terme est échu ; ce montant est ventilé par tranches de retard et rapporté en pourcentage au montant total des achats de l'exercice ;

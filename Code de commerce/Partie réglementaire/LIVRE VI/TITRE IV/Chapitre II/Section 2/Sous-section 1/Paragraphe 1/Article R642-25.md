@@ -1,3 +1,5 @@
+# Article R642-25
+
 Le poursuivant ou le notaire commis établit un cahier des conditions de vente.
 
 Par exception à l'article R. 322-10 du code des procédures civiles d'exécution, le cahier des conditions de vente contient :

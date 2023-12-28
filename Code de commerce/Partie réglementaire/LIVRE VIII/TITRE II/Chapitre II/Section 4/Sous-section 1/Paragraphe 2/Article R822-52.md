@@ -1,3 +1,5 @@
+# Article R822-52
+
 En cas de retrait ou d'entrée d'associés, d'actionnaires, de membres des organes de gestion, de direction, d'administration ou de surveillance, la société demande au Haut conseil la modification des mentions figurant sur la liste du I de l'article L. 822-1.
 
 Si le Haut conseil constate que la société, à la suite de l'opération, demeure constituée en conformité avec les dispositions législatives ou réglementaires qui la régissent, notamment l'article L. 822-1-3, l'inscription de la société sur la liste est modifiée.

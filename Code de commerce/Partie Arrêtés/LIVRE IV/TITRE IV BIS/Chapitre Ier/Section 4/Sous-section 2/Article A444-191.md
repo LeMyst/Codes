@@ -1,3 +1,5 @@
+# Article A444-191
+
 I. – A l'exception des cas mentionnés au II et au III, les actes réalisés en matière de saisie immobilière et de licitation par adjudication judiciaire (numéros 1,2 et 3 du tableau 6) donnent lieu à la perception de l'émolument perçu par les notaires en application du 1° de l'article A. 444-102, ainsi réparti entre les avocats en cause :
 
 1° L'avocat poursuivant en perçoit les trois quarts ;

@@ -1,3 +1,5 @@
+# Article R761-12-4
+
 Dès réception de la demande, le préfet transmet une copie de la première partie de celle-ci, telle que définie à l'article R. 761-12-1, au gestionnaire du marché d'intérêt national, en vue de savoir s'il dispose des surfaces nécessaires à la réalisation du projet. Le gestionnaire du marché d'intérêt national dispose d'un délai de six semaines pour répondre.A défaut de réponse dans ce délai, il est réputé ne pas disposer des surfaces nécessaires.
 
 Si le gestionnaire du marché d'intérêt national a indiqué ne pas disposer des surfaces nécessaires pour permettre l'implantation ou l'extension envisagée ou n'a pas répondu dans le délai de six semaines, le préfet informe le demandeur qu'il bénéficie d'une autorisation de droit pour réaliser son projet.

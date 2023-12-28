@@ -1,3 +1,5 @@
+# Article L692-5
+
 I.- Le praticien de l'insolvabilité de la procédure d'insolvabilité principale peut proposer dans la procédure d'insolvabilité secondaire un projet de plan de sauvegarde ou de redressement élaboré selon les dispositions de l'article L. 626-2.
 
 II.- Le contenu et les modalités de présentation du projet de plan proposé par le praticien de l'insolvabilité de la procédure d'insolvabilité principale sont ceux relatifs au projet de plan présenté conformément aux dispositions de l'article L. 626-30-2 si le débiteur entre dans le champ d'application de l'article L. 626-29 et, le cas échéant, dans les conditions prévues à l'article L. 631-19 en présence d'un projet de plan de redressement.

@@ -1,3 +1,5 @@
+# Article A444-142
+
 Le prêt viticole ou agricole, ainsi que le prêt maritime (numéros 135 et 136 du tableau 5) donnent lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

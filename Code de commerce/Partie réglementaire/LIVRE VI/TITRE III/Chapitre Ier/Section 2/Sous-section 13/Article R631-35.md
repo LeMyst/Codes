@@ -1,3 +1,5 @@
+# Article R631-35
+
 Les articles R. 626-17 à R. 626-51, à l'exclusion de l'article R. 626-18, des deuxième et troisième alinéas de l'article R. 626-20, et de l'article R. 626-22, sont applicables à la procédure de redressement judiciaire.
 
 Le greffier procède aux convocations et avis mentionnés à l'article R. 626-17 dès le dépôt au greffe du projet de plan par l'administrateur.

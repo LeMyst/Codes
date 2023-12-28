@@ -1,3 +1,5 @@
+# Article L511-76
+
 La copie doit désigner le détenteur du titre original. Celui-ci est tenu de remettre ledit titre au porteur légitime de la copie.
 
 S'il s'y refuse, le porteur ne peut exercer le recours contre les personnes qui ont endossé ou avalisé la copie qu'après avoir fait constater par un protêt que l'original ne lui a pas été remis sur sa demande.

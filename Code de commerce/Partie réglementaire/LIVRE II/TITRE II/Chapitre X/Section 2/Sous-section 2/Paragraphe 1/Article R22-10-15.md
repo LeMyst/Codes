@@ -1,3 +1,5 @@
+# Article R22-10-15
+
 I.-Les informations mentionnées aux I et II de l'article L. 22-10-9 sont mises gratuitement à la disposition du public sur le site internet de la société pour une durée de dix ans. Sans préjudice du troisième alinéa du II du présent article, ce délai peut être prolongé.
 
 II.-Le traitement des données à caractère personnel des mandataires sociaux contenues dans ce rapport vise à renforcer la transparence de la société par rapport aux rémunérations des mandataires sociaux, le droit de regard des actionnaires sur cette rémunération et la responsabilité des mandataires sociaux.

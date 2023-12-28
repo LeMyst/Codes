@@ -1,3 +1,5 @@
+# Article L621-1
+
 Le tribunal statue sur l'ouverture de la procédure, après avoir entendu ou dûment appelé en chambre du conseil le débiteur et la ou les personnes désignées par le comité social et économique.
 
 En outre, lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, le tribunal statue après avoir entendu ou dûment appelé, dans les mêmes conditions, l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève.

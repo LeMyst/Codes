@@ -1,3 +1,5 @@
+# Article L23-10-6
+
 La présente section n'est pas applicable :
 
 1° En cas de vente de la participation à un conjoint, à un ascendant ou à un descendant ;

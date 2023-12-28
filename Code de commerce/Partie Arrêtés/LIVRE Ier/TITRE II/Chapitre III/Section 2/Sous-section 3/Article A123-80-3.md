@@ -1,3 +1,5 @@
+# Article A123-80-3
+
 La carte permettant l'exercice d'une activité commerciale ou artisanale ambulante, prévue par l'article L. 123-29, est signée par le président de la chambre consulaire ou son représentant.
 
 Elle comporte les mentions suivantes :

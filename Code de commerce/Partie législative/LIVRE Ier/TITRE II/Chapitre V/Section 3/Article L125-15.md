@@ -1,3 +1,5 @@
+# Article L125-15
+
 L'organe d'administration du magasin collectif peut adresser un avertissement à tout membre qui, par son fait ou celui des personnes à qui il a confié l'exploitation de son fonds ou de son entreprise, commet une infraction au règlement intérieur.
 
 En cas de location-gérance, cet avertissement est également notifié au locataire-gérant.

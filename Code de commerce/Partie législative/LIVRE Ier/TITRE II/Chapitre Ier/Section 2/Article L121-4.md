@@ -1,3 +1,5 @@
+# Article L121-4
+
 I. - Le conjoint du chef d'une entreprise artisanale, commerciale ou libérale qui y exerce de manière régulière une activité professionnelle opte pour l'un des statuts suivants :
 
 1° Conjoint collaborateur ;

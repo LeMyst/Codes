@@ -1,3 +1,5 @@
+# Article L724-3-3
+
 Tout justiciable qui estime qu'à l'occasion d'une procédure judiciaire le concernant le comportement adopté par un juge d'un tribunal de commerce dans l'exercice de ses fonctions est susceptible de recevoir une qualification disciplinaire peut saisir la commission nationale de discipline des juges des tribunaux de commerce. Cette saisine ne constitue pas une cause de récusation du magistrat.
 
 La plainte est examinée par une commission d'admission des requêtes composée de deux membres de la commission nationale de discipline, l'un magistrat et l'autre juge d'un tribunal de commerce, désignés chaque année par le président de la commission nationale de discipline, dans les conditions déterminées au présent article.

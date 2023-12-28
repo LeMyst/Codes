@@ -1,3 +1,5 @@
+# Article R712-5
+
 I.-La décision de suspension ou de dissolution du seul bureau ou de l'assemblée générale et du bureau d'un établissement public du réseau prévue par l'article L. 712-9 est prise par arrêté de l'autorité de tutelle précisant les motifs de la décision.
 
 En cas de suspension ou de dissolution du bureau, l'arrêté détermine les modalités d'expédition des affaires courantes et fixe, le cas échéant, la date et les modalités de convocation d'une assemblée générale extraordinaire chargée d'élire un nouveau bureau.

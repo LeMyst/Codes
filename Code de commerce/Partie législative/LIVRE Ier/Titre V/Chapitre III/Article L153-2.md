@@ -1,3 +1,5 @@
+# Article L153-2
+
 Toute personne ayant accès à une pièce ou au contenu d'une pièce considérée par le juge comme étant couverte ou susceptible d'être couverte par le secret des affaires est tenue à une obligation de confidentialité lui interdisant toute utilisation ou divulgation des informations qu'elle contient.
 
 Dans le cas d'une personne morale, l'obligation prévue au premier alinéa du présent article s'applique à ses représentants légaux ou statutaires et aux personnes qui la représentent devant la juridiction.

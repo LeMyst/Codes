@@ -1,3 +1,5 @@
+# Article R742-6-2
+
 Le concours d'accès à la profession de greffier de tribunal de commerce se déroule devant un jury national qui choisit le sujet des épreuves.
 
 Le jury est composé de deux magistrats de l'ordre judiciaire et d'un greffier de tribunal de commerce, en activité ou honoraires. La présidence est assurée par le magistrat le plus ancien dans le grade le plus élevé.

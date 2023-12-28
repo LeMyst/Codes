@@ -1,3 +1,5 @@
+# Article A822-28-3
+
 L'obligation de formation professionnelle continue est satisfaite :
 
 1° Par la participation à des séminaires de formation, à des programmes d'autoformation encadrée ou à des formations ou enseignements à distance ;

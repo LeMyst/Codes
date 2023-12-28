@@ -1,3 +1,5 @@
+# Article L236-18
+
 Une société peut, par voie de scission, transmettre son patrimoine à plusieurs sociétés existantes ou à plusieurs sociétés nouvelles.
 
 Cette faculté est ouverte aux sociétés en liquidation à condition que la répartition de leurs actifs entre les associés n'ait pas fait l'objet d'un début d'exécution.

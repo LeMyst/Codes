@@ -1,3 +1,5 @@
+# Article R321-58
+
 La déclaration prévue à l'article L. 321-24 est accompagnée des pièces suivantes :
 
 1° Les documents justifiant l'identité et la nationalité de l'auteur de la déclaration ou, s'il s'agit d'une personne morale relevant de la législation d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, une copie de ses statuts et la justification de son immatriculation dans un registre public ;

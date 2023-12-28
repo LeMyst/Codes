@@ -1,3 +1,5 @@
+# Article L511-71
+
 Le payeur par intervention acquiert les droits résultant de la lettre de change contre celui pour lequel il a payé et contre ceux qui sont tenus vis-à-vis de ce dernier en vertu de la lettre de change. Toutefois, il ne peut endosser la lettre de change à nouveau.
 
 Les endosseurs postérieurs au signataire pour qui le paiement a eu lieu sont libérés.

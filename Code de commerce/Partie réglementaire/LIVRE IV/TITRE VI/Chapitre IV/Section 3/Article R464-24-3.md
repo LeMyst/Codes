@@ -1,3 +1,5 @@
+# Article R464-24-3
+
 Le recours prévu à l'article L. 464-8-1 est formé dans un délai de dix jours à compter de la notification de la décision du rapporteur général de l'Autorité de la concurrence. Il est porté devant le premier président de la cour d'appel ou son délégué par voie d'assignation à une audience préalablement indiquée par ce dernier.
 
 A peine de nullité, l'assignation contient, outre les mentions prescrites pour les actes d'huissier de justice, l'objet du recours avec un exposé des moyens.

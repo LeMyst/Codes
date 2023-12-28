@@ -1,3 +1,5 @@
+# Article R713-27-1
+
 A l'issue du dépouillement, la commission d'organisation des élections dresse, pour chaque élection, un procès-verbal, établi selon un modèle fixé par arrêté du ministre de tutelle signé par son président et ses membres et proclame les résultats des élections en public.
 
 Ces proclamations interviennent au plus tard soixante-douze heures après le début du dépouillement.

@@ -1,3 +1,5 @@
+# Article L526-12
+
 I.-La composition du patrimoine affecté est opposable de plein droit aux créanciers dont les droits sont nés postérieurement à la déclaration mentionnée à l'article L. 526-7.
 
 Par dérogation aux articles 2284 et 2285 du code civil :

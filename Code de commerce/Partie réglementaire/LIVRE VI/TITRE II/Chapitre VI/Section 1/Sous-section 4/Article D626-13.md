@@ -1,3 +1,5 @@
+# Article D626-13
+
 En cas d'ouverture d'une procédure de sauvegarde ou de redressement judiciaire, l'administrateur judiciaire ou le mandataire judiciaire saisit, y compris par voie dématérialisée, la commission mentionnée à l'article D. 626-14 de la demande de remise de dettes. Cette saisine a lieu, sous peine de forclusion, dans un délai de six mois à compter de la date d'ouverture de la procédure. Elle ne peut être effectuée après la fin de la procédure.
 
 A.-Cette demande est accompagnée ou complétée par l'envoi dans le délai prévu au premier alinéa :

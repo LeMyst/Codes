@@ -1,3 +1,5 @@
+# Article L462-9
+
 I. - L'Autorité de la concurrence peut, pour ce qui relève de ses compétences et après information préalable du ministre chargé de l'économie, communiquer les informations ou les documents qu'elle détient ou qu'elle recueille, à leur demande, à la Commission européenne ou aux autorités des autres Etats exerçant des compétences analogues, à leur demande, sous réserve de réciprocité, et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les mêmes garanties qu'en France.
 
 L'Autorité de la concurrence peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues pour l'exécution de sa mission, conduire ou demander au ministre chargé de l'économie de conduire des enquêtes, à la demande d'autorités étrangères exerçant des compétences analogues, sous réserve de réciprocité.

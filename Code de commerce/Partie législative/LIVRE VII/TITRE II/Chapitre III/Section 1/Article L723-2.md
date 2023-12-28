@@ -1,3 +1,5 @@
+# Article L723-2
+
 Les personnes mentionnées à l'article L. 723-1 ne peuvent faire partie du collège électoral qu'à la condition :
 
 1° S'agissant des anciens membres du tribunal, de ne pas être frappées d'inéligibilité et de ne pas avoir été réputées démissionnaires ;

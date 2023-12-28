@@ -1,3 +1,5 @@
+# Article L236-44
+
 La fusion transfrontalière prend effet :
 
 1° En cas de création d'une société nouvelle, conformément à l'article L. 236-4 ;

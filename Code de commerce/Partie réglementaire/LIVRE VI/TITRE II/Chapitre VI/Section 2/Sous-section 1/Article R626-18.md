@@ -1,3 +1,5 @@
+# Article R626-18
+
 Le tribunal statue avant l'expiration des délais prévus à l'article L. 621-3.
 
 Lorsqu'il n'est pas présenté de projet de plan en temps utile, le tribunal peut être saisi aux fins de clôture de la procédure par le ministère public, par tout créancier ou par les mandataires de justice. Il statue, le débiteur ayant été entendu ou appelé.

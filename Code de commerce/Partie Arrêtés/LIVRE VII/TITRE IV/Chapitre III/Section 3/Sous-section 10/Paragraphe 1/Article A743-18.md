@@ -1,3 +1,5 @@
+# Article A743-18
+
 I.-Les frais de déplacement mentionnés au a du 5° du I de l'article annexe 4-8 font l'objet d'un remboursement forfaitaire pour la distance parcourue tant à l'aller qu'au retour, égal au prix :
 
 1° Du transport en 1re classe dans le mode de transport concerné, si le déplacement peut avoir lieu par chemin de fer ou par un autre service de transport en commun ;

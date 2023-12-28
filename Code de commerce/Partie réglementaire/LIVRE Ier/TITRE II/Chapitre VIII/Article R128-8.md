@@ -1,3 +1,5 @@
+# Article R128-8
+
 Le Conseil national des greffiers des tribunaux de commerce conclut des conventions avec :
 
 1° Le ministre de la justice en ce qui concerne, d'une part, la communication des informations et données à caractère personnel enregistrées dans le fichier aux magistrats et personnels visés aux 1° et 2° de l'article L. 128-2 et, d'autre part, l'accès en consultation de ce fichier par les greffiers des tribunaux civils statuant en matière commerciale ;

@@ -1,3 +1,5 @@
+# Article R321-68
+
 La demande, aux fins d'accès partiel aux activités de vente volontaire de meubles aux enchères publiques prévu à l'article L. 321-28-1, est adressée au Conseil des maisons de vente par téléprocédure sur son site internet.
 
 Cette demande est accompagnée des pièces suivantes :

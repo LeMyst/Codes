@@ -1,3 +1,5 @@
+# Article A444-66
+
 La notoriété (numéros 13 à 15 du tableau 5) donne lieu à la perception :
 
 1° D'un émolument fixe de 56,60 €, s'agissant d'une notoriété après décès, constatant la dévolution successorale ;

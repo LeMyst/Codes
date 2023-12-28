@@ -1,3 +1,5 @@
+# Article R444-39
+
 Le Comité consultatif des aides à l'accès au droit et à la justice comprend huit membres :
 
 1° Deux professeurs des universités, respectivement agrégé de droit et agrégé de sciences économiques, co-présidents du comité ;

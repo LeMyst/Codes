@@ -1,3 +1,5 @@
+# Article R123-182
+
 L'actif du bilan dont le modèle est établi par un règlement de l'Autorité des normes comptables fait apparaître successivement les rubriques suivantes :
 
 1° Au titre de l'actif immobilisé : les immobilisations incorporelles, les immobilisations corporelles et les immobilisations financières ;

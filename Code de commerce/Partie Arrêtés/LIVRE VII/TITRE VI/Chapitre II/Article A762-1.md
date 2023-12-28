@@ -1,3 +1,5 @@
+# Article A762-1
+
 Pour l'application du présent chapitre, les données déclarées sont conformes aux définitions suivantes :
 
 1° Est considérée comme session précédente de la même manifestation celle qui n'a pas fait l'objet de modifications substantielles affectant la liste des produits ou services présentés, le nombre de visiteurs attendus et ayant la même localisation.

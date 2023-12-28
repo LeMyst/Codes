@@ -1,3 +1,5 @@
+# Article R822-6
+
 Peuvent être inscrites sur la liste des commissaires aux comptes mentionnée au I de l'article L. 822-1, en application des dispositions du deuxième alinéa de l'article L. 822-1-2, les personnes déjà agréées par les autorités compétentes d'un autre Etat membre de l'Union européenne pour l'exercice du contrôle légal des comptes, sous réserve d'avoir subi avec succès une épreuve d'aptitude démontrant une connaissance adéquate des lois, règlements, normes et règles professionnelles nécessaires pour l'exercice du contrôle légal des comptes en France.
 
 Les modalités de cette épreuve sont fixées par arrêté du garde des sceaux, ministre de la justice.

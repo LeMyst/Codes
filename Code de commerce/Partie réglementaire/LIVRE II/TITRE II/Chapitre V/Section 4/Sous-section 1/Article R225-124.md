@@ -1,3 +1,5 @@
+# Article R225-124
+
 La notice prévue au dernier alinéa de l'article R. 225-120 contient les indications suivantes :
 
 1° L'objet social, indiqué sommairement ;

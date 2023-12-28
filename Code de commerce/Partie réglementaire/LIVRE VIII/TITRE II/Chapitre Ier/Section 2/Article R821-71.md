@@ -1,3 +1,5 @@
+# Article R821-71
+
 Les contrôles mentionnés à l'article L. 821-9 sont réalisés en fonction d'une analyse des risques. Ils portent notamment :
 
 1° Sur les missions de certification sélectionnées par le contrôleur. Celui-ci vérifie notamment le respect des règles d'indépendance, la conformité aux normes mentionnées au I de l'article L. 821-13, l'adéquation des ressources affectées à la réalisation des missions ainsi que les honoraires perçus par le commissaire aux comptes ;

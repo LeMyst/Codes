@@ -1,3 +1,5 @@
+# Article A811-2
+
 Les titres et diplômes sanctionnant un deuxième cycle d'enseignement supérieur ou d'un niveau équivalent, prévus au 4° de l'article R. 811-7, qui permettent l'accomplissement du stage professionnel d'administrateur judiciaire, sont les suivants :
 
 1° Maîtrise de sciences et techniques comptables et financières ;

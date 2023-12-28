@@ -1,3 +1,5 @@
+# Article L511-42
+
 Le porteur doit donner avis du défaut d'acceptation ou de paiement à son endosseur dans les quatre jours ouvrables qui suivent le jour du protêt ou celui de la présentation en cas de clause de retour sans frais.
 
 Les notaires et les huissiers sont tenus, à peine de dommages intérêts, lorsque l'effet indique les nom et domicile du tireur de la lettre de change, de prévenir celui-ci dans les quarante-huit heures qui suivent l'enregistrement, par la poste et par lettre recommandée, des motifs du refus de payer. Cette lettre donne lieu, au profit du notaire ou de l'huissier, à un honoraire dont le montant est fixé par voie réglementaire en sus des frais d'affranchissement et de recommandation.

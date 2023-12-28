@@ -1,3 +1,5 @@
+# Article R123-126-1
+
 Lorsque, à l'occasion de la consultation prévue à l'article R. 123-96-1, le greffier constate que l'activité du secteur des métiers et de l'artisanat mentionnée à l'article L. 121-1 du code de l'artisanat ou l'activité de transport fluvial mentionnée à l'article R. 4421-3 du code des transports n'a pas été validée, dans le Registre national des entreprises, par le président de la chambre de métiers et de l'artisanat compétent, il procède d'office à la suppression de la mention de cette activité dans le registre du commerce et des sociétés et en avise la personne immatriculée. Dans le cas où cette activité supprimée est la seule à être exercée par une personne morale, celle-ci demeure inscrite au registre du commerce et des sociétés sans activité.
 
 Le greffier procède de la même manière lorsqu'il est informé, conformément à l'article R. 123-282, de la suppression de l'activité au sein du Registre national des entreprises, réalisée en application de l'article R. 123-305.

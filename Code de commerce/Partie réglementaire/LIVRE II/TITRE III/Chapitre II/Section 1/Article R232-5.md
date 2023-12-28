@@ -1,3 +1,5 @@
+# Article R232-5
+
 Les règles de présentation et les méthodes utilisées pour l'élaboration des documents mentionnés à l'article R. 232-3 ne peuvent être modifiées d'une période à l'autre sans qu'il en soit justifié dans les rapports mentionnés à l'article R. 232-4. Ces derniers décrivent l'incidence de ces modifications.
 
 Les postes du tableau de financement, du plan de financement prévisionnel et du compte de résultat prévisionnel comportent l'indication du chiffre relatif au poste correspondant de l'exercice précédent.

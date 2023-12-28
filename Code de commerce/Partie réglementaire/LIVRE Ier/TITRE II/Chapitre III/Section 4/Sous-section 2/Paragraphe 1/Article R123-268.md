@@ -1,3 +1,5 @@
+# Article R123-268
+
 Lorsque plusieurs autorités sont compétentes pour valider une inscription d'information ou un dépôt de pièces d'une personne, une seule d'entre elles est saisie par l'organisme unique mentionné à l'article R. 123-1, selon les modalités suivantes :
 
 1° Le greffier du tribunal de commerce ou du tribunal judiciaire statuant en matière commerciale lorsque celui-ci figure parmi les autorités compétentes, sauf dérogation prévue au 2° et au 3° ;

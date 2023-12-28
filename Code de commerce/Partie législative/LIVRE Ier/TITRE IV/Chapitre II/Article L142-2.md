@@ -1,3 +1,5 @@
+# Article L142-2
+
 Sont seuls susceptibles d'être compris dans le nantissement soumis aux dispositions du présent chapitre comme faisant partie d'un fonds de commerce : l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage, le mobilier commercial, le matériel ou l'outillage servant à l'exploitation du fonds, les brevets d'invention, les licences, les marques, les dessins et modèles industriels, et généralement les droits de propriété intellectuelle qui y sont attachés.
 
 Le certificat d'addition postérieur au nantissement qui comprend le brevet auquel il s'applique suit le sort de ce brevet et fait partie, comme lui, du nantissement constitué.

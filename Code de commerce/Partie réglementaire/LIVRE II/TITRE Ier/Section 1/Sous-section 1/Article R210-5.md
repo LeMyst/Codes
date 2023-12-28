@@ -1,3 +1,5 @@
+# Article R210-5
+
 Lors de la constitution d'une société à responsabilité limitée, l'état des actes accomplis pour le compte de la société en formation, avec l'indication, pour chacun d'eux, de l'engagement qui en résulterait pour la société, est présenté aux associés avant la signature des statuts.
 
 Cet état est annexé aux statuts, dont la signature emporte reprise des engagements par la société, lorsque celle-ci a été immatriculée au registre du commerce et des sociétés.

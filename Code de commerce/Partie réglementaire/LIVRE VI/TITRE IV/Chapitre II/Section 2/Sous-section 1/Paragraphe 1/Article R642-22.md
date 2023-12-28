@@ -1,3 +1,5 @@
+# Article R642-22
+
 Le juge-commissaire qui ordonne, en application de l'article L. 642-18, la vente des immeubles par voie d'adjudication judiciaire ou amiable détermine :
 
 1° La mise à prix de chacun des biens à vendre et les conditions essentielles de la vente ;

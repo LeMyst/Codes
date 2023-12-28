@@ -1,3 +1,5 @@
+# Article R522-24-1
+
 Le gestionnaire de la plateforme qui tient le registre mentionné à l'article L. 522-37-1 établit les règles de fonctionnement de ce registre et les conditions de délivrance des reçus d'entreposage par les exploitants des magasins généraux. Dans le respect des dispositions des premier, deuxième et troisième alinéas de l'article L. 522-37-2, ces règles précisent notamment :
 
 1° Les personnes qui peuvent être autorisées par le gestionnaire de la plateforme à consulter le registre et les conditions de cette consultation ;

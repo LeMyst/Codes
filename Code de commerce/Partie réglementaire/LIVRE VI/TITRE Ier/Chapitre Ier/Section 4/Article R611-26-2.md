@@ -1,3 +1,5 @@
+# Article R611-26-2
+
 La demande mentionnée à la troisième phrase du premier alinéa de l'article L. 611-7 est accompagnée des éléments suivants :
 
 1° La demande d'avis adressée aux créanciers participants, qui reproduit les dispositions du premier alinéa de l'article L. 611-7 et du I de l'article L. 642-2 et sur laquelle chaque créancier a mentionné son avis ou, à défaut, un document justificatif de la demande d'avis ;

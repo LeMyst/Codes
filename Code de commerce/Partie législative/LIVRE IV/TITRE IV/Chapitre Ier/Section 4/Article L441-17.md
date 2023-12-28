@@ -1,3 +1,5 @@
+# Article L441-17
+
 I.-Le contrat peut prévoir la fixation de pénalités infligées au fournisseur en cas d'inexécution d'engagements contractuels. Il prévoit une marge d'erreur suffisante au regard du volume de livraisons prévues par le contrat. Un délai suffisant doit être respecté pour informer l'autre partie en cas d'aléa.
 
 Les pénalités infligées au fournisseur par le distributeur sont proportionnées au préjudice subi au regard de l'inexécution d'engagements contractuels, dans la limite d'un plafond équivalent à 2 % de la valeur des produits commandés relevant de la catégorie de produits au sein de laquelle l'inexécution d'engagements contractuels a été constatée.

@@ -1,3 +1,5 @@
+# Article R321-36-4
+
 Les électeurs de chaque circonscription élisent trois binômes constitués chacun d'un représentant titulaire et de son suppléant.
 
 L'élection a lieu au scrutin plurinominal majoritaire à candidatures isolées, secret et à un tour.

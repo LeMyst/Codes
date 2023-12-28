@@ -1,3 +1,5 @@
+# Article L470-2
+
 I. – L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer les amendes administratives sanctionnant les manquements mentionnés au titre IV du présent livre ainsi que l'inexécution des mesures d'injonction prévues à l'article L. 470-1.
 
 II. – L'action de l'administration pour la sanction des manquements mentionnés au I se prescrit par trois années révolues à compter du jour où le manquement a été commis si, dans ce délai, il n'a été fait aucun acte tendant à la recherche, à la constatation ou à la sanction de ce manquement.

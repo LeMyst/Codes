@@ -1,3 +1,5 @@
+# Article A321-28
+
 La décision du conseil des maisons de vente prévue à l'article R. 321-66 comporte en particulier les informations suivantes :
 
 1° Le niveau de qualification professionnelle requis en France et le niveau de la qualification professionnelle que possède le requérant conformément à la classification figurant à l'article 11 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 modifiée relative à la reconnaissance des qualifications professionnelles ;

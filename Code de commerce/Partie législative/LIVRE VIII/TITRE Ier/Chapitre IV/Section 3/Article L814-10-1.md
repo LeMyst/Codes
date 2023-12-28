@@ -1,3 +1,5 @@
+# Article L814-10-1
+
 I.-Les personnes désignées dans les conditions prévues au III de l'article L. 812-2 sont placées sous la surveillance du ministère public et sont soumises, pour cette activité professionnelle, à des inspections de l'autorité publique à l'occasion desquelles elles sont tenues de fournir tous renseignements ou documents utiles sans pouvoir opposer le secret professionnel.
 
 L'organisation et les modalités de ces inspections sont déterminées par décret en Conseil d'Etat.

@@ -1,3 +1,5 @@
+# Article L225-67
+
 Une personne physique ne peut exercer plus d'un mandat de membre du directoire ou de directeur général unique de sociétés anonymes ayant leur siège social sur le territoire français.
 
 Par dérogation aux dispositions du premier alinéa :

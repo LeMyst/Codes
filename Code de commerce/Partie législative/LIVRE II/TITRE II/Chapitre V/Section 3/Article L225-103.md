@@ -1,3 +1,5 @@
+# Article L225-103
+
 I.-L'assemblée générale est convoquée par le conseil d'administration ou le directoire, selon le cas.
 
 II.-A défaut, l'assemblée générale peut être également convoquée :

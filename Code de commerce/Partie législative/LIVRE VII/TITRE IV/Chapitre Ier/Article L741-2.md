@@ -1,3 +1,5 @@
+# Article L741-2
+
 La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts collectifs.
 
 Le conseil national peut, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif de la profession.

@@ -1,3 +1,5 @@
+# Article R225-71
+
 La demande d'inscription de points ou de projets de résolution à l'ordre du jour de l'assemblée, par des actionnaires représentant au moins 5 % du capital social, est adressée au siège social par lettre recommandée avec demande d'avis de réception ou par télécommunication électronique.
 
 Toutefois, lorsque le capital de la société est supérieur à 750 000 euros, le montant du capital à représenter en application de l'alinéa précédent est, selon l'importance de ce capital, réduit ainsi qu'il suit :

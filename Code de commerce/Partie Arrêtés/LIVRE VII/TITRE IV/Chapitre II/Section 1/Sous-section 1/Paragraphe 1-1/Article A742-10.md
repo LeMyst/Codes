@@ -1,3 +1,5 @@
+# Article A742-10
+
 Nul ne peut se présenter aux épreuves orales d'admission s'il n'a été déclaré admissible par le jury.
 
 Les épreuves orales d'admission se déroulent en séance publique. Elles comprennent :

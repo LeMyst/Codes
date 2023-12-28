@@ -1,3 +1,5 @@
+# Article L225-2
+
 Le projet de statuts est établi et signé par un ou plusieurs fondateurs, qui déposent un exemplaire au greffe du tribunal de commerce du lieu du siège social.
 
 Les fondateurs publient une notice dans les conditions déterminées par décret en Conseil d'Etat.

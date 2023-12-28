@@ -1,3 +1,5 @@
+# Article L654-2
+
 En cas d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire, sont coupables de banqueroute les personnes mentionnées à l'article L. 654-1 contre lesquelles a été relevé l'un des faits ci-après :
 
 1° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire ou de liquidation judiciaire, soit fait des achats en vue d'une revente au-dessous du cours, soit employé des moyens ruineux pour se procurer des fonds ;

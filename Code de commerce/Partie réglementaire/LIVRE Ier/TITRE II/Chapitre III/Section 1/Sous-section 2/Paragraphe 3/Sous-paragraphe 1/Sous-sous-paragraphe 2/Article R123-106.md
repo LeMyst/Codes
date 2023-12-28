@@ -1,3 +1,5 @@
+# Article R123-106
+
 Le dépôt prévu au premier alinéa de l'article R. 123-105 inclut pour les sociétés à responsabilité limitée :
 
 1° En cas d'augmentation ou de réduction du capital social, la copie du procès-verbal de la délibération des associés ;

@@ -1,3 +1,5 @@
+# Article L681-2
+
 I. - Le tribunal ouvre une procédure prévue aux titres II à IV du présent livre si les conditions en sont réunies. Les dispositions propres à la procédure ouverte s'appliquent, sous réserve du présent titre.
 
 II. - Dans le cadre de la procédure ouverte, si les conditions prévues au 2° de l'article L. 681-1 ne sont pas réunies à la date du jugement d'ouverture, les dispositions des titres II à IV du présent livre qui intéressent les biens, droits ou obligations du débiteur sont comprises, sauf dispositions contraires, comme visant les éléments du seul patrimoine professionnel. Celles qui intéressent les droits ou obligations des créanciers du débiteur s'appliquent, sauf dispositions contraires, dans les limites du seul patrimoine professionnel.

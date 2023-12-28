@@ -1,3 +1,5 @@
+# Article L441-16
+
 Est passible d'une amende administrative dont le montant ne peut excéder 75 000 € pour une personne physique et deux millions d'euros pour une personne morale, le fait de :
 
 a) Ne pas respecter les délais de paiement prévus au I de l'article L. 441-10, au II de l'article L. 441-11, à l'article L. 441-12 et à l'article L. 441-13 ;

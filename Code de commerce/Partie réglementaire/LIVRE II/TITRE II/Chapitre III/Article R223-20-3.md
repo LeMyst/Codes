@@ -1,3 +1,5 @@
+# Article R223-20-3
+
 La demande d'inscription à l'ordre du jour de l'assemblée de points ou de projets de résolution par un ou plusieurs associés détenant au jour de l'envoi de cette demande au moins un vingtième des parts sociales est adressée à la société par lettre recommandée avec demande d'avis de réception ou courrier électronique avec accusé de réception, vingt-cinq jours au moins avant la date de l'assemblée.
 
 La demande d'inscription d'un point à l'ordre du jour est motivée.

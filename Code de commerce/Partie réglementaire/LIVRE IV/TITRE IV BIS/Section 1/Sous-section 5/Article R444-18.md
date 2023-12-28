@@ -1,3 +1,5 @@
+# Article R444-18
+
 Les informations statistiques pouvant être recueillies en application du 2° de l'article L. 444-5 sont, pour chaque année civile, notamment une estimation :
 
 1° Du total des sommes investies nécessaires pour l'acquisition d'offices, études ou cabinets, de leur répartition par déciles, et de la valeur moyenne de la somme investie pour l'acquisition d'un office ou d'une étude ;

@@ -1,3 +1,5 @@
+# Article R743-57
+
 Le greffier de tribunal de commerce associé provisoirement suspendu de ses fonctions ne peut exercer aucune activité professionnelle ; il conserve, pendant la durée de sa suspension, sa qualité d'associé, avec tous droits et obligations qui en découlent.
 
 La décision qui prononce la suspension provisoire d'un ou de plusieurs associés exerçant leurs fonctions au sein de la société, mais non de la totalité d'entre eux, ne commet pas d'administrateur.

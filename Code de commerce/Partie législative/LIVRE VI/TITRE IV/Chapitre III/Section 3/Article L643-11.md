@@ -1,3 +1,5 @@
+# Article L643-11
+
 I.-Le jugement de clôture de liquidation judiciaire pour insuffisance d'actif ne fait pas recouvrer aux créanciers l'exercice individuel de leurs actions contre le débiteur. Il est fait exception à cette règle :
 
 1° Pour les actions portant sur des biens acquis au titre d'une succession ouverte pendant la procédure de liquidation judiciaire ;

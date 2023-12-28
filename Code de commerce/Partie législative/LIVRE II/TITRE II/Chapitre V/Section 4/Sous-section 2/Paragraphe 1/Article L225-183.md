@@ -1,3 +1,5 @@
+# Article L225-183
+
 L'assemblée générale extraordinaire fixe le délai pendant lequel les options doivent être exercées.
 
 Les droits résultant des options consenties sont incessibles jusqu'à ce que l'option ait été exercée.

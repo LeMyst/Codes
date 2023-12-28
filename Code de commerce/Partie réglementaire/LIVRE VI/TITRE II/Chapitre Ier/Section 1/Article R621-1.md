@@ -1,3 +1,5 @@
+# Article R621-1
+
 La demande d'ouverture de la procédure de sauvegarde est déposée par le représentant légal de la personne morale ou par le débiteur personne physique au greffe du tribunal compétent. Elle expose la nature des difficultés qu'il rencontre et les raisons pour lesquelles il n'est pas en mesure de les surmonter. Elle précise s'il s'engage à établir l'inventaire dans les conditions prévues à l'article L. 622-6-1 ainsi que le délai nécessaire à l'établissement de celui-ci ou s'il demande la désignation par le tribunal d'une personne chargée de réaliser l'inventaire en application du sixième alinéa de l'article L. 621-4.
 
 A cette demande sont jointes, outre les comptes annuels du dernier exercice, les pièces ci-après :

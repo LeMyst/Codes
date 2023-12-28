@@ -1,3 +1,5 @@
+# Article L210-10
+
 Une société peut faire publiquement état de la qualité de société à mission lorsque les conditions suivantes sont respectées :
 
 1° Ses statuts précisent une raison d'être, au sens de l'article 1835 du code civil ;

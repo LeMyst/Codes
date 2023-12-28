@@ -1,3 +1,5 @@
+# Article R822-2
+
 Sont admises à se présenter au certificat d'aptitude aux fonctions de commissaire aux comptes, sous réserve de la délivrance de l'attestation de fin de stage mentionnée au sixième alinéa de l'article R. 822-3, les personnes titulaires d'un diplôme national de master ou d'un titre ou d'un diplôme conférant le grade de master délivré en France ou d'un diplôme obtenu dans un Etat étranger et jugé de niveau comparable au diplôme national de master par le garde des sceaux, ministre de la justice, et qui, selon le cas :
 
 1° Ont subi avec succès les épreuves du certificat préparatoire aux fonctions de commissaire aux comptes ;

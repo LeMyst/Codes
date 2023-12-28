@@ -1,3 +1,5 @@
+# Article L522-11
+
 I. - Les entreprises ne répondant pas aux conditions fixées aux articles L. 522-5 et L. 522-6 peuvent cependant solliciter l'agrément comme magasins généraux des entrepôts qu'elles exploitent ou projettent d'exploiter et obtenir, cet agrément s'il est reconnu que les intérêts du commerce l'exigent.
 
 II. - Dans ce cas :

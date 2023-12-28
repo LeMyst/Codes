@@ -1,3 +1,5 @@
+# Article L752-1
+
 Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet :
 
 1° La création d'un magasin de commerce de détail d'une surface de vente supérieure à 1 000 mètres carrés, résultant soit d'une construction nouvelle, soit de la transformation d'un immeuble existant ;

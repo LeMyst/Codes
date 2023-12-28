@@ -1,3 +1,5 @@
+# Article A444-18
+
 Lorsque la réalisation des prestations suivantes requiert un délai d'exécution supérieur à la durée de référence précisée dans le tableau ci-dessous, elles donnent lieu à la perception d'un émolument complémentaire de vacation égal à 74,40 € par demi-heure, chaque demi-heure supplémentaire étant due en entier :
 
 |

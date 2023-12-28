@@ -1,3 +1,5 @@
+# Article L145-46-1
+
 Lorsque le propriétaire d'un local à usage commercial ou artisanal envisage de vendre celui-ci, il en informe le locataire par lettre recommandée avec demande d'avis de réception, ou remise en main propre contre récépissé ou émargement. Cette notification doit, à peine de nullité, indiquer le prix et les conditions de la vente envisagée. Elle vaut offre de vente au profit du locataire. Ce dernier dispose d'un délai d'un mois à compter de la réception de cette offre pour se prononcer. En cas d'acceptation, le locataire dispose, à compter de la date d'envoi de sa réponse au bailleur, d'un délai de deux mois pour la réalisation de la vente. Si, dans sa réponse, il notifie son intention de recourir à un prêt, l'acceptation par le locataire de l'offre de vente est subordonnée à l'obtention du prêt et le délai de réalisation de la vente est porté à quatre mois.
 
 Si, à l'expiration de ce délai, la vente n'a pas été réalisée, l'acceptation de l'offre de vente est sans effet.

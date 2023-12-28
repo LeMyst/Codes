@@ -1,3 +1,5 @@
+# Article R752-46
+
 A l'expiration du délai de trois ans prévu à l'article L. 752-1, le ou les propriétaires des immeubles notifient au préfet du département de la commune d'implantation les mesures prévues pour procéder au démantèlement et à la remise en état du site ainsi que le calendrier des opérations.
 
 Les opérations de démantèlement et de remise en état du site comprennent :

@@ -1,3 +1,5 @@
+# Article L134-13
+
 La réparation prévue à l'article L. 134-12 n'est pas due dans les cas suivants :
 
 1° La cessation du contrat est provoquée par la faute grave de l'agent commercial ;

@@ -1,3 +1,5 @@
+# Article R123-164
+
 Lorsque les décisions et les notifications prévues dans les procédures définies aux articles L. 123-3 et R. 123-139 à R. 123-142 donnent lieu à des frais, ceux-ci sont avancés par le greffier.
 
 Le montant en est remboursé par la personne tenue à l'immatriculation lors des opérations de régularisation de sa situation.

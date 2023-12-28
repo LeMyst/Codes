@@ -1,3 +1,5 @@
+# Article L152-6
+
 Pour fixer les dommages et intérêts dus en réparation du préjudice effectivement subi, la juridiction prend en considération distinctement :
 
 1° Les conséquences économiques négatives de l'atteinte au secret des affaires, dont le manque à gagner et la perte subie par la partie lésée, y compris la perte de chance ;

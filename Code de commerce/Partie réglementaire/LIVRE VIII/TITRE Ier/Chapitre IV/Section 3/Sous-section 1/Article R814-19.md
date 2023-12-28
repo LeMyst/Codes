@@ -1,3 +1,5 @@
+# Article R814-19
+
 Le conseil d'administration élit parmi ses membres un président, un vice-président, un secrétaire et un trésorier.
 
 Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.

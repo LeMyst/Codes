@@ -1,3 +1,5 @@
+# Article D611-7
+
 L'agrément est accordé pour une durée maximale de trois ans renouvelable par arrêté du préfet de la région où est situé le siège du groupement.
 
 La décision tient compte notamment :

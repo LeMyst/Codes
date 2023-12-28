@@ -1,3 +1,5 @@
+# Article L670-1-1
+
 Le présent titre est également applicable aux personnes physiques domiciliées dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ayant constitué un patrimoine affecté conformément à l'article L. 526-7 et dont l'activité agricole, commerciale, artisanale ou indépendante est exclusivement exercée avec affectation de patrimoine.
 
 Sauf dispositions contraires, les références faites à la personne, au débiteur, au contrat et au cocontractant s'entendent, respectivement :

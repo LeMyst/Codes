@@ -1,3 +1,5 @@
+# Article R661-3
+
 Sauf dispositions contraires, le délai d'appel des parties est de dix jours à compter de la notification qui leur est faite des décisions rendues en matière de mandat ad hoc, de conciliation, de sauvegarde, de redressement judiciaire, de rétablissement professionnel et de liquidation judiciaire, de responsabilité pour insuffisance d'actif, de faillite personnelle ou d'interdiction prévue à l'article L. 653-8.
 
 Toutefois, le délai dans lequel le débiteur peut interjeter appel du jugement arrêtant ou rejetant le plan de cession de l'entreprise est de dix jours à compter du prononcé du jugement.

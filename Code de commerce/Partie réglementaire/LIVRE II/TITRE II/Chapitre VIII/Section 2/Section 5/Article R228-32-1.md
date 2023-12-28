@@ -1,3 +1,5 @@
+# Article R228-32-1
+
 I.-Le contenu des informations mentionnées à l'article L. 228-29-7-1, aux II et III de l'article L. 228-29-7-2 et à l'article L. 22-10-43-1, ainsi que les modalités de transmission de ces informations sont précisés par le règlement d'exécution (UE) 2018/1212 de la Commission du 3 septembre 2018 :
 
 1° A l'article 2 de ce règlement, en ce qui concerne les formats normalisés, l'interopérabilité et les langues de transmission de ces informations ;

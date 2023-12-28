@@ -1,3 +1,5 @@
+# Article A444-109
+
 Les résiliations ou résolutions de bail (numéros 85 et 86 du tableau 5) donnent lieu à la perception :
 
 1° D'un émolument proportionnel au loyer des années restant à courir, selon le barème suivant, s'agissant de la résiliation ou résolution pure et simple :

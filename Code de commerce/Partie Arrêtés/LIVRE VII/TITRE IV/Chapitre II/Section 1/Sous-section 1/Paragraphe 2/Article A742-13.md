@@ -1,3 +1,5 @@
+# Article A742-13
+
 L'entretien de fin de stage prévu à l'article R. 742-15-1 a lieu au plus tard trois mois après la date de fin de stage.
 
 La date et le lieu de l'entretien sont fixés par le président du Conseil national des greffiers des tribunaux de commerce.

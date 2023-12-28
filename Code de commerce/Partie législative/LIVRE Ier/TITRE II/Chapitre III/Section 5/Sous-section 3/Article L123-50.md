@@ -1,3 +1,5 @@
+# Article L123-50
+
 Le registre national des entreprises est tenu par l'Institut national de la propriété industrielle.
 
 Les inscriptions d'informations ou les dépôts de pièces annexées au registre national des entreprises mentionnés à l'article L. 123-37 sont réalisés par l'intermédiaire de l'organisme unique mentionné à l'article L. 123-33 et dans les conditions prévues à ce même article, à l'occasion :

@@ -1,3 +1,5 @@
+# Article Annexe
+
 MODÈLE D'ACTE DE RENONCIATION À LA PROTECTION DU PATRIMOINE PERSONNEL DE L'ENTREPRENEUR INDIVIDUEL
 
 I.-Identités de l'entrepreneur individuel renonçant à la protection de son patrimoine personnel et du bénéficiaire de la renonciation

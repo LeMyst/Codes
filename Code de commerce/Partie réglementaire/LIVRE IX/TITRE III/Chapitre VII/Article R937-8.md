@@ -1,3 +1,5 @@
+# Article R937-8
+
 Pour l'application de la section 3 du chapitre III du titre II du livre VII, les dispositions suivantes sont ajoutées :
 
 " I. - L'élection des juges d'un tribunal mixte de commerce a lieu dans la commune où le tribunal a son siège.

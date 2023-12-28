@@ -1,3 +1,5 @@
+# Article R123-124
+
 Sont mentionnés d'office au registre :
 
 1° Les mesures d'incapacité ou d'interdiction d'exercer une activité commerciale ou professionnelle, de gérer, d'administrer ou de diriger une personne morale résultant d'une décision juridictionnelle passée en force de chose jugée ou d'une décision administrative définitive ;

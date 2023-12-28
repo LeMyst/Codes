@@ -1,3 +1,5 @@
+# Article L713-11
+
 Les électeurs des membres des chambres de commerce et d'industrie territoriales et de région sont répartis dans chaque circonscription administrative en trois catégories professionnelles correspondant, respectivement, aux activités commerciales, industrielles ou de services.
 
 Au sein de ces catégories, les électeurs peuvent éventuellement être répartis en sous-catégories professionnelles définies en fonction de la taille des entreprises.

@@ -1,3 +1,5 @@
+# Article R321-43-1
+
 Il est institué un comité d'audit au sein du Conseil des maisons de vente aux fins de veiller à la bonne exécution du budget.
 
 Le comité d'audit est composé de trois membres du Conseil élus par celui-ci. Sur proposition du président, le Conseil désigne le président du comité d'audit à la majorité de ses membres.

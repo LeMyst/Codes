@@ -1,3 +1,5 @@
+# Article R713-27-2
+
 A l'issue du dépouillement des élections des membres des chambres de commerce et d'industrie de région, se réunit au niveau régional une commission composée du préfet de région ou de son représentant, du président de la chambre de commerce et d'industrie de région ou de son représentant et d'un représentant élu de chaque chambre de commerce et d'industrie territoriale.
 
 La commission est régulièrement réunie si elle comporte au moins la moitié de ses membres.

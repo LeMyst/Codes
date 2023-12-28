@@ -1,3 +1,5 @@
+# Article L812-5-1
+
 Le mandataire judiciaire peut exercer sa profession en qualité de salarié d'une personne physique ou morale inscrite sur la liste prévue à l'article L. 812-2.
 
 Une personne physique inscrite sur cette liste ne peut pas employer plus de deux mandataires judiciaires salariés. Une personne morale inscrite sur ladite liste ne peut pas employer un nombre de mandataires judiciaires salariés supérieur au double de celui des mandataires judiciaires associés qui y exercent la profession.

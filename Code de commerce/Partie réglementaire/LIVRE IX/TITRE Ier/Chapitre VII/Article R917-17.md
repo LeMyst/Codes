@@ -1,3 +1,5 @@
+# Article R917-17
+
 Le premier alinéa de l'article R. 713-8 est remplacé par les dispositions suivantes :
 
 " I.-A.-Tout électeur qui remplit les conditions fixées à l'article L. 713-4 peut se porter candidat dans le collège représentant les activités du secteur de l'industrie, du commerce et des services.

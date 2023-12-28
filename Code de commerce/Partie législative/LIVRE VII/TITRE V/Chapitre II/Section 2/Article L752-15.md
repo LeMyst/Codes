@@ -1,3 +1,5 @@
+# Article L752-15
+
 L'autorisation d'exploitation commerciale est délivrée préalablement à la réalisation du projet si le permis de construire n'est pas exigé.
 
 L'autorisation est accordée par mètre carré de surface de vente.

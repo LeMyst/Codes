@@ -1,3 +1,5 @@
+# Article R752-29-2
+
 Dans le délai de quinze jours franc à compter de l'enregistrement d'une demande d'autorisation d'exploitation commerciale au secrétariat de la commission départementale pour un projet mentionné au premier ou au deuxième alinéa de l'article L. 752-1-2, le préfet du département d'implantation du projet peut solliciter, dans l'éventualité de la suspension de la procédure d'autorisation :
 
 a) Pour les projets mentionnés au premier alinéa de l'article L. 752-1-2, l'avis du président de l'établissement public de coopération intercommunale à fiscalité propre dont est membre la commune d'implantation du projet et l'avis de chacun des maires des communes signataires de la convention d'opération de revitalisation de territoire ;

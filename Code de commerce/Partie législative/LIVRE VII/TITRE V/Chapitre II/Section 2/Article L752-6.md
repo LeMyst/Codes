@@ -1,3 +1,5 @@
+# Article L752-6
+
 I.-L'autorisation d'exploitation commerciale mentionnée à l'article L. 752-1 est compatible avec le document d'orientation et d'objectifs des schémas de cohérence territoriale ou, le cas échéant, avec les orientations d'aménagement et de programmation des plans locaux d'urbanisme intercommunaux comportant les dispositions prévues au deuxième alinéa de l'article L. 151-6 du code de l'urbanisme.
 
 La commission départementale d'aménagement commercial prend en considération :

@@ -1,3 +1,5 @@
+# Article L450-3-3
+
 I.-Par dérogation aux deux derniers alinéas de l'article L. 450-3, pour la recherche et la constatation des infractions et manquements prévus au titre II du présent livre, l'accès aux données conservées et traitées par les opérateurs de télécommunication, dans les conditions et sous les limites prévues à l'article L. 34-1 du code des postes et des communications électroniques, et par les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique est réalisé dans les conditions définies au présent article.
 
 II.-L'accès aux données mentionnées au I du présent article par les agents mentionnés à l'article L. 450-1 fait l'objet d'une demande d'autorisation préalable du rapporteur général de l'Autorité de la concurrence ou de l'autorité administrative chargée de la concurrence et de la consommation auprès d'un contrôleur des demandes de données de connexion.

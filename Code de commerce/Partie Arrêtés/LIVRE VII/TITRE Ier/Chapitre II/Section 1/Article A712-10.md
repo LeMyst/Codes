@@ -1,3 +1,5 @@
+# Article A712-10
+
 L'approbation préalable de l'autorité de tutelle est requise en matière d'opération de crédit-bail immobilier, en application du 2° de l'article R. 712-7, si une des deux conditions suivantes est remplie :
 
 1° Lorsque le montant du loyer annuel est supérieur ou égal aux seuils définis à l'article A. 712-7 ;

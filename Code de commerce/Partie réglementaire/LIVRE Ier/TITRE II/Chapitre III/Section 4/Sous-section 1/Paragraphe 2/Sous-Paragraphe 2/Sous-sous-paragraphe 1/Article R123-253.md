@@ -1,3 +1,5 @@
+# Article R123-253
+
 Sont également inscrits au Registre national des entreprises, sur déclaration de la société à l'occasion de son immatriculation, les éléments suivants relatifs à sa gouvernance :
 
 1° Les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, nationalité, domicile personnel et coordonnées téléphoniques et électroniques des associés tenus indéfiniment ou tenus indéfiniment et solidairement des dettes sociales ;

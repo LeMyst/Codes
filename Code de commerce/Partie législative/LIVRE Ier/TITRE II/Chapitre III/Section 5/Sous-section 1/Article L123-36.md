@@ -1,3 +1,5 @@
+# Article L123-36
+
 Il est tenu un registre national des entreprises, auquel s'immatriculent les entreprises exerçant sur le territoire français une activité de nature commerciale, artisanale, agricole ou indépendante.
 
 Sont ainsi immatriculées, sur leurs déclarations :

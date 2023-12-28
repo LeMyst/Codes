@@ -1,3 +1,5 @@
+# Article R811-15
+
 La durée du stage est de trois ans au moins et de six ans au plus.
 
 Le stage consiste dans la pratique d'activités permettant d'acquérir une expérience suffisante dans le domaine professionnel des administrateurs judiciaires, en qualité de collaborateur d'un administrateur judiciaire et sous son contrôle direct.

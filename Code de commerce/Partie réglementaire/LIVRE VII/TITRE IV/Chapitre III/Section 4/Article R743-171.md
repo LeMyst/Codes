@@ -1,3 +1,5 @@
+# Article R743-171
+
 Pour déterminer le montant de l'indemnité, le garde des sceaux, ministre de la justice, apprécie la valeur de l'office en tenant compte de la recette nette moyenne au cours des cinq derniers exercices connus précédant le dépôt de la demande d'indemnisation et du solde moyen d'exploitation de l'office au cours de la même période.
 
 La recette nette est égale à la recette encaissée par l'office, telle que retenue pour le calcul de l'imposition des bénéfices, diminuée des débours payés pour le compte des clients et des honoraires rétrocédés.

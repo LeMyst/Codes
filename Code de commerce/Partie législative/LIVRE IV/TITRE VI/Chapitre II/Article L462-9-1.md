@@ -1,3 +1,5 @@
+# Article L462-9-1
+
 I.-Pour les procédures ayant fait l'objet d'une information par l'Autorité de la concurrence en application de l'article 11, paragraphe 3 du règlement (CE) n° 1/2003, l'Autorité de la concurrence informe la Commission européenne et les autorités nationales de concurrence des autres Etats membres de l'Union européenne lorsqu'elle décide qu'il n'y a pas lieu de poursuivre la procédure mise en œuvre et qu'elle met fin à celle-ci.
 
 L'Autorité de la concurrence informe la Commission européenne et les autorités nationales de concurrence des autres Etats membre du prononcé d'une décision imposant des mesures conservatoires dans le cas de pratiques susceptibles d'être contraires aux articles 101 et 102 du traité sur le fonctionnement de l'Union européenne.

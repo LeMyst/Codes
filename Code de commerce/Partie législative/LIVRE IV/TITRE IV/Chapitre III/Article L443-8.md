@@ -1,3 +1,5 @@
+# Article L443-8
+
 I.-Pour les produits alimentaires et les produits destinés à l'alimentation des animaux de compagnie pour lesquels les conditions générales de vente sont soumises au I de l'article L. 441-1-1, une convention écrite conclue entre le fournisseur et son acheteur mentionne les obligations réciproques auxquelles se sont engagées les parties à l'issue de la négociation commerciale, dans le respect des articles L. 442-1 et L. 442-3. Cette convention est établie soit dans un document unique, soit dans un ensemble formé par un contrat-cadre et des contrats d'application.
 
 La convention mentionne chacune des obligations réciproques auxquelles se sont engagées les parties à l'issue de la négociation commerciale ainsi que leur prix unitaire.

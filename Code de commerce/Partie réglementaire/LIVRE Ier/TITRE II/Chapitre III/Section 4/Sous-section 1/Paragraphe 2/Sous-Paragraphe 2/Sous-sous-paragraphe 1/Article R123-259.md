@@ -1,3 +1,5 @@
+# Article R123-259
+
 Sont également inscrits, au sein du Registre national des entreprises, sur déclaration de la société à l'occasion de son immatriculation, les éléments suivants :
 
 1° Pour les sociétés commerciales :

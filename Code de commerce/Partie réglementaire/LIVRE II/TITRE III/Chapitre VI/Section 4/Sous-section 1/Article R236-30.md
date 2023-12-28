@@ -1,3 +1,5 @@
+# Article R236-30
+
 I.-Le contrôle prévu à l'article L. 236-42 est réalisé dans un délai de trois mois à compter de la réception de la copie du procès-verbal de l'assemblée mentionnée à l'article L. 236-9 ou, en l'absence d'assemblée, à compter de la date à laquelle l'organe compétent a décidé de la fusion.
 
 Lorsque le greffier estime nécessaire de mener des enquêtes supplémentaires ou d'obtenir des informations complémentaires pour accomplir sa mission de contrôle, il peut proroger le délai prévu au premier alinéa pour une durée n'excédant pas trois mois. Dans ce cas, le greffier informe la société, avant l'expiration du délai mentionné au premier alinéa, de la durée et des motifs de cette prorogation.

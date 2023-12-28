@@ -1,3 +1,5 @@
+# Article L236-3
+
 I. - La fusion entraîne la dissolution sans liquidation des sociétés qui disparaissent et la transmission universelle de leur patrimoine aux sociétés bénéficiaires, dans l'état où il se trouve à la date de réalisation définitive de l'opération. Elle entraîne simultanément l'acquisition, par les associés des sociétés qui disparaissent, de la qualité d'associés des sociétés bénéficiaires, dans les conditions déterminées par le contrat de fusion.
 
 II. - Toutefois, il n'est pas procédé à l'échange de parts ou d'actions de la société bénéficiaire contre des parts ou actions des sociétés qui disparaissent lorsque ces parts ou actions sont détenues :

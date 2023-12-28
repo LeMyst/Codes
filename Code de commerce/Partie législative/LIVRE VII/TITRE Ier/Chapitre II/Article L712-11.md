@@ -1,3 +1,5 @@
+# Article L712-11
+
 Le livre Ier de la deuxième partie du code du travail est applicable à l'ensemble des personnels de droit public et de droit privé des chambres de commerce et d'industrie, à l'exception du chapitre IV du titre IV du même livre Ier et des dispositions non applicables au personnel de droit public.
 
 Les dispositions relatives aux relations collectives de travail prévues par la deuxième partie du code du travail ainsi que celles relatives à la santé et la sécurité au travail prévues par la quatrième partie du même code s'appliquent à l'ensemble des personnels de droit public et de droit privé employés directement par les chambres de commerce et d'industrie. Les adaptations et les exceptions rendues nécessaires, pour les agents de droit public, du fait des règles d'ordre public et des principes généraux qui leur sont applicables sont prévues par un décret en Conseil d'Etat, pris après avis de l'instance nationale représentative du personnel.

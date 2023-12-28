@@ -1,3 +1,5 @@
+# Article R621-7
+
 Le greffier adresse sans délai une copie du jugement ouvrant la procédure :
 
 1° Aux mandataires de justice désignés ;

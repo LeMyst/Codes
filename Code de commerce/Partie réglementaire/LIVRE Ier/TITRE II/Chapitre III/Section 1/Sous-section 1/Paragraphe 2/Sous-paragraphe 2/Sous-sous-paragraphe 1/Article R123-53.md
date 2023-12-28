@@ -1,3 +1,5 @@
+# Article R123-53
+
 Dans sa demande d'immatriculation, la société déclare, en ce qui concerne la personne morale :
 
 1° Sa raison sociale ou sa dénomination suivie, le cas échéant, de son sigle ;

@@ -1,3 +1,5 @@
+# Article R761-16
+
 Les usagers du marché sont notamment tenus aux obligations suivantes :
 
 1° Se conformer aux dispositions du règlement intérieur du marché ainsi qu'aux textes législatifs et réglementaires applicables à leurs activités ;

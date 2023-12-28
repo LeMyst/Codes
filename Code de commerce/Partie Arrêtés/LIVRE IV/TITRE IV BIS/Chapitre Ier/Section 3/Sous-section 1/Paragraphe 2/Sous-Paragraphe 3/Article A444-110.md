@@ -1,3 +1,5 @@
+# Article A444-110
+
 Le contrat de construction (numéro 87 du tableau 5) donne lieu à la perception d'un émolument proportionnel au prix convenu, selon le barème suivant :
 
 | Tranches d'assiette |

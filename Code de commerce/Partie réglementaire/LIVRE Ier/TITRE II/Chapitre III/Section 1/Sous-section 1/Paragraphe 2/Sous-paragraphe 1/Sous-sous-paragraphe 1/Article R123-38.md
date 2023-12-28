@@ -1,3 +1,5 @@
+# Article R123-38
+
 La personne physique déclare, en outre, en ce qui concerne son activité et son établissement :
 
 1° La ou les activités exercées correspondant à la nomenclature d'activités définie par décret, éventuellement précisée par le déclarant ;

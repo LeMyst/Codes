@@ -1,3 +1,5 @@
+# Article L131-32
+
 Tout manquement aux lois et règlements relatifs à sa profession ou à ses fonctions de courtier assermenté et tout manquement à la probité ou à l'honneur, même se rapportant à des faits étrangers aux missions qui lui ont été confiées, expose le courtier de marchandises assermenté qui en serait l'auteur à des poursuites disciplinaires.
 
 La caducité de l'inscription ou la radiation du courtier de marchandises assermenté ne fait pas obstacle aux poursuites si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.

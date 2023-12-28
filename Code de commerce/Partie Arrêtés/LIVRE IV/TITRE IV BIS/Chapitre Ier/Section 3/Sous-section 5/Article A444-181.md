@@ -1,3 +1,5 @@
+# Article A444-181
+
 Les actes et formalités relatifs aux ventes réalisées dans le cadre d'une procédure collective donnent lieu à la perception :
 
 1° Des émoluments prévus à l'article A. 444-180 ;

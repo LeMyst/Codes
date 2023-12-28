@@ -1,3 +1,5 @@
+# Article L712-11-1
+
 Sans préjudice des dispositions législatives particulières, lorsqu'une personne de droit privé ou de droit public reprend tout ou partie de l'activité d'une chambre de commerce et d'industrie, quelle que soit la qualification juridique de la transformation de ladite activité, elle propose aux agents de droit public employés par cette chambre pour l'exercice de cette activité un contrat de droit privé ou un engagement de droit public.
 
 Le contrat de travail ou l'engagement proposé reprend les éléments essentiels du contrat ou de l'engagement dont l'agent de droit public est titulaire, en particulier ceux qui concernent la rémunération. Les services accomplis au sein de la chambre de commerce et d'industrie sont assimilés à des services accomplis au sein de la personne privée ou publique d'accueil.

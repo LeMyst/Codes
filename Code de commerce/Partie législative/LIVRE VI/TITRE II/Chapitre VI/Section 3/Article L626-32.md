@@ -1,3 +1,5 @@
+# Article L626-32
+
 I.-Lorsque le plan n'est pas approuvé conformément aux dispositions de l'article L. 626-30-2, il peut être arrêté par le tribunal sur demande du débiteur ou de l'administrateur judiciaire avec l'accord du débiteur et être imposé aux classes qui ont voté contre le projet de plan, lorsque ce plan remplit les conditions suivantes :
 
 1° Le plan respecte les conditions posées par les deuxième à septième alinéas de l'article L. 626-31 ;

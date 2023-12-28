@@ -1,3 +1,5 @@
+# Article L713-16
+
 Les membres des chambres de commerce et d'industrie de région et territoriales sont élus au scrutin majoritaire plurinominal à un tour. Si plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est proclamé élu.
 
 Les membres des chambres de commerce et d'industrie de région, départementales d'Ile-de-France et territoriales sont élus le même jour, dans des conditions fixées par décret en Conseil d'Etat.

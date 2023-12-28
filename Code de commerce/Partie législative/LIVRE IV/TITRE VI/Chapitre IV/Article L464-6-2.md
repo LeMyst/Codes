@@ -1,3 +1,5 @@
+# Article L464-6-2
+
 Toutefois, les dispositions de l'article L. 464-6-1 ne s'appliquent pas aux accords et pratiques qui contiennent l'une quelconque des restrictions caractérisées de concurrence suivantes :
 
 a) Les restrictions qui, directement ou indirectement, isolément ou cumulées avec d'autres facteurs sur lesquels les parties peuvent influer ont pour objet la fixation de prix de vente, la limitation de la production ou des ventes, la répartition de marchés ou des clients ;

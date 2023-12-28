@@ -1,3 +1,5 @@
+# Article A123-79
+
 La décision constatant la clôture de la liquidation d'un groupement européen d'intérêt économique donne lieu à la publication au Bulletin officiel des annonces civiles et commerciales d'un avis établi et adressé par le greffier au bulletin dans les huit jours du dépôt.
 
 L'avis contient :

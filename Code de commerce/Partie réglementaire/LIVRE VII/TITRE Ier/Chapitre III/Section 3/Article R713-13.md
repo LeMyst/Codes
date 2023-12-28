@@ -1,3 +1,5 @@
+# Article R713-13
+
 La commission prévue à l'article L. 713-17, dénommée " commission d'organisation des élections ", compétente pour organiser, dans la circonscription de la chambre de commerce et d'industrie territoriale, les élections des membres de la chambre de commerce et d'industrie de région, de la chambre de commerce et d'industrie territoriale et, s'il y a lieu, des délégations de cette dernière chambre, est présidée par l'autorité administrative mentionnée au II de l'article R. 713-1 ou son représentant et comprend :
 
 1° Le président de la juridiction de première instance compétente en matière commerciale dans le ressort de laquelle est situé le siège de la chambre de commerce et d'industrie territoriale ou son représentant ;

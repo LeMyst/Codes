@@ -1,3 +1,5 @@
+# Article L22-10-59
+
 I.-L'aménagement statutaire concernant le cas d'attributions gratuites d'actions à certaines catégories des membres du personnel salarié d'une société prévu à la troisième phrase du deuxième alinéa de l'article L. 225-197-1 n'est pas applicable aux sociétés dont les actions sont admises aux négociations sur un marché réglementé.
 
 II.-Dans une société dont les actions sont admises aux négociations sur un marché réglementé, à l'issue de la période d'obligation de conservation, les actions attribuées en application de l'article L. 225-197-1 ne peuvent pas être cédées :

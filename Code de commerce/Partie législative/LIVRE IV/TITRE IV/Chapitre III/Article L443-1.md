@@ -1,3 +1,5 @@
+# Article L443-1
+
 I.-Toute publicité à destination du consommateur, diffusée sur tout support ou visible de l'extérieur du lieu de vente, mentionnant une réduction de prix ou un prix promotionnel sur les produits alimentaires périssables précise la nature et l'origine des produits offerts et la période pendant laquelle est maintenue l'offre proposée par l'annonceur. La mention relative à l'origine est inscrite en caractères d'une taille égale à celle de la mention du prix.
 
 Dans la promotion par les opérateurs de vente d'un produit alimentaire, le terme “ gratuit ” ne peut être utilisé comme outil marketing et promotionnel dans le cadre d'une relation commerciale.

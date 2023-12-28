@@ -1,3 +1,5 @@
+# Article A444-159
+
 Sans préjudice des honoraires éventuellement perçus au titre de la prestation mentionnée au d du 4° du I de l'article annexe 4-9, en matière d'association (numéro 160 du tableau 5), les actes relatifs à des biens faisant l'objet d'une publicité foncière donnent lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

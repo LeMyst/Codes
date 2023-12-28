@@ -1,3 +1,5 @@
+# Article A444-9
+
 Les remises prévues au cinquième alinéa de l'article L. 444-2 sur les émoluments proportionnels mentionnés aux premiers alinéas des articles A. 444-2 à A. 444-4 sont consenties dans la limite d'un taux qui ne peut excéder 20 %. Ces remises s'appliquent à la part d'émolument calculée sur les tranches d'assiette supérieures ou égales à un seuil ainsi fixé :
 
 1° 1 000 000 € pour les émoluments prévus à l'article A. 444-2 ;

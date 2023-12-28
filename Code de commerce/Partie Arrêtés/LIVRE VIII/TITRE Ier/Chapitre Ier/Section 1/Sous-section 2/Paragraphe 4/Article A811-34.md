@@ -1,3 +1,5 @@
+# Article A811-34
+
 L'examen de contrôle des connaissances se compose des épreuves suivantes :
 
 1° Une épreuve écrite, d'une durée de cinq heures, ayant pour objet le traitement d'un dossier portant sur une ou plusieurs des missions susceptibles d'être confiées à un administrateur judiciaire.

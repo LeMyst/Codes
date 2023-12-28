@@ -1,3 +1,5 @@
+# Article R742-18
+
 Peuvent être nommées greffier de tribunal de commerce par arrêté du garde des sceaux, ministre de la justice :
 
 1° Les personnes inscrites sur la liste d'aptitude prévue à l'article R. 742-16 ;

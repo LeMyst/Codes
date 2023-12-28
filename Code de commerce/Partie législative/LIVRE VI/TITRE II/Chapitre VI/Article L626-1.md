@@ -1,3 +1,5 @@
+# Article L626-1
+
 Lorsqu'il existe une possibilité sérieuse pour l'entreprise d'être sauvegardée, le tribunal arrête dans ce but un plan qui met fin à la période d'observation.
 
 Le plan de sauvegarde comporte, s'il y a lieu, l'arrêt, l'adjonction ou la cession d'une ou de plusieurs activités.

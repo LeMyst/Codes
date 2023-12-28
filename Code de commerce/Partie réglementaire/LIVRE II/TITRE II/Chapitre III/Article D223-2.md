@@ -1,3 +1,5 @@
+# Article D223-2
+
 Un modèle de statuts types de la société à responsabilité limitée dont l'associé unique, personne physique, assume personnellement la gérance figure en annexe 2-1 au présent livre.
 
 L'organisme unique mentionné à l'article R. 123-1 met, gratuitement et par voie électronique, ce modèle de statuts types à disposition du fondateur de la société.

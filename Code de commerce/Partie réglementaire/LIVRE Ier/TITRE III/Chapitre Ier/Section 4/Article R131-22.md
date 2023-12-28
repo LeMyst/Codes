@@ -1,3 +1,5 @@
+# Article R131-22
+
 Lorsque l'urgence le justifie, le président du tribunal judiciaire peut, à la demande du procureur de la République, suspendre provisoirement un courtier de marchandises assermenté lorsque ce dernier fait l'objet de poursuites pénales ou disciplinaires, après avoir mis l'intéressé en mesure de fournir ses explications.
 
 Le président du tribunal judiciaire peut, à la demande du procureur de la République, ou à la requête de l'intéressé, mettre fin à cette suspension.

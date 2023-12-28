@@ -1,3 +1,5 @@
+# Article R752-47
+
 Ne sont pas soumis à l'obligation de démantèlement et de remise en état mentionnée à l'article L. 752-1, les équipements commerciaux :
 
 1° Situés dans des immeubles qui ne sont pas destinés exclusivement au commerce ;

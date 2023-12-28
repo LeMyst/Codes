@@ -1,3 +1,5 @@
+# Article R811-31
+
 La demande d'inscription sur la liste des administrateurs judiciaires est adressée par lettre recommandée avec demande d'avis de réception au secrétaire de la commission. Elle est accompagnée des pièces justificatives suivantes :
 
 1° Les documents établissant l'état civil et la nationalité du candidat ;

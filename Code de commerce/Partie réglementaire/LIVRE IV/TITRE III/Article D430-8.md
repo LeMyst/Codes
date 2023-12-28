@@ -1,3 +1,5 @@
+# Article D430-8
+
 Les décisions de l'Autorité de la concurrence et du ministre chargé de l'économie relatives aux opérations de concentration sont rendues publiques.
 
 L'Autorité de la concurrence assure la publicité de ses décisions par une diffusion sur son site internet. La liste des opérations réputées avoir fait l'objet d'une décision d'autorisation est également diffusée sur ce site internet .

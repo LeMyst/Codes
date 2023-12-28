@@ -1,3 +1,5 @@
+# Article L651-3
+
 Dans les cas prévus à l'article L. 651-2, le tribunal est saisi par le liquidateur ou le ministère public.
 
 Dans l'intérêt collectif des créanciers, le tribunal peut également être saisi par la majorité des créanciers nommés contrôleurs lorsque le liquidateur n'a pas engagé l'action prévue au même article, après une mise en demeure restée sans suite dans un délai et des conditions fixés par décret en Conseil d'Etat.

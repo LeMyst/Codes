@@ -1,3 +1,5 @@
+# Article R123-4
+
 I.-Les déclarations mentionnées au 1° du I de l'article R. 123-1 comportent les informations indispensables à l'exercice de leurs prérogatives par les organismes destinataires ou à l'immatriculation au sein des registres ou du répertoire d'entreprises. Parmi celles-ci figurent les informations suivantes :
 
 1° Pour les créations d'entreprises :

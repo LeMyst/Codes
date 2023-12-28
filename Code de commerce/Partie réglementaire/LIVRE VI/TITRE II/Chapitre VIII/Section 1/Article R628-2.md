@@ -1,3 +1,5 @@
+# Article R628-2
+
 I. ‒ En complément des pièces et informations mentionnées à l'article R. 621-1, la demande d'ouverture de la procédure expose les éléments démontrant que le projet de plan remplit les conditions prévues par le deuxième alinéa de l'article L. 628-1. La preuve du soutien prévu par ce texte, recueillie auprès des parties affectées, est apportée par tout moyen au plus tard au moment où le juge statue.
 
 Lorsque le débiteur n'est pas en cessation des paiements et demande à être dispensé de procéder à l'inventaire, cette demande remplace les éléments prévus par la dernière phrase du premier alinéa de l'article R. 621-1.

@@ -1,3 +1,5 @@
+# Article L321-5
+
 I.-Lorsqu'ils organisent ou réalisent des ventes volontaires de meubles aux enchères publiques, les opérateurs mentionnés à l'article L. 321-4 agissent comme mandataires du propriétaire du bien ou de son représentant. Le mandat est établi par écrit.
 
 Les opérateurs de ventes volontaires de meubles aux enchères publiques mentionnés au même article L. 321-4 prennent toutes dispositions propres à assurer pour leurs clients la sécurité des ventes volontaires aux enchères publiques qui leur sont confiées, notamment lorsqu'ils recourent à d'autres prestataires de services pour organiser et réaliser ces ventes. Ces prestataires ne peuvent ni acheter pour leur propre compte les biens proposés lors de ces ventes, ni vendre des biens leur appartenant par l'intermédiaire des opérateurs auxquels ils prêtent leurs services.

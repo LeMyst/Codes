@@ -1,3 +1,5 @@
+# Article R814-29
+
 Les administrateurs judiciaires et les mandataires judiciaires ouvrent, pour chaque mandat reçu, dans le cadre d'une comptabilité spéciale, un compte qui enregistre l'ensemble des mouvements concernant ce mandat ainsi que les opérations liées à ces mouvements.
 
 La comptabilité spéciale de chaque administrateur judiciaire et de chaque mandataire judiciaire, arrêtée au 30 juin et au 31 décembre, fait l'objet d'un contrôle effectué par un commissaire aux comptes. Le mandataire de justice avise par lettre recommandée avec demande d'avis de réception le commissaire aux comptes choisi qui donne sa réponse dans les mêmes formes.

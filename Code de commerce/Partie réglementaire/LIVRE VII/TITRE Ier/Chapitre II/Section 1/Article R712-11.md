@@ -1,3 +1,5 @@
+# Article R712-11
+
 Dans le cadre de la tutelle renforcée et sans préjudice des dispositions des articles R. 712-6, R. 712-7 et R. 712-8, les décisions suivantes ne sont exécutoires que lorsqu'elles sont approuvées par l'autorité de tutelle :
 
 1° Les délibérations portant acquisition, construction, aliénation ou échange d'immeubles ou décidant d'un bail de plus de dix-huit ans ;

@@ -1,3 +1,5 @@
+# Article R711-76
+
 Sont électeurs au conseil d'administration ou de surveillance d'un établissement d'enseignement supérieur consulaire :
 
 1° Les personnels enseignants et les autres salariés de l'établissement d'enseignement supérieur consulaire ;

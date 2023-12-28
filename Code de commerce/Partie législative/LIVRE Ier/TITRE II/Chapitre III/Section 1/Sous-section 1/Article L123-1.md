@@ -1,3 +1,5 @@
+# Article L123-1
+
 I.-Il est tenu un registre du commerce et des sociétés auquel sont immatriculés, sur leur déclaration :
 
 1° Les personnes physiques ayant la qualité de commerçant, même si elles sont tenues à immatriculation au registre national des entreprises ;

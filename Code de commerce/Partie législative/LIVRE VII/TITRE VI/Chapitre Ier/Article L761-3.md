@@ -1,3 +1,5 @@
+# Article L761-3
+
 Le tarif des redevances perçues auprès des titulaires d'autorisation d'occupation ou des autres formes de contribution des usagers du marché à son fonctionnement est établi par le gestionnaire et approuvé par le préfet.
 
 Le gestionnaire du marché présente un compte de résultat prévisionnel permettant de faire face à l'ensemble de ses obligations sociales, financières et sanitaires établies ou prévisibles.

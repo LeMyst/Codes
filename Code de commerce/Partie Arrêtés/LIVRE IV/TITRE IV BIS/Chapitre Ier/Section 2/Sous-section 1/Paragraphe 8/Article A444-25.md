@@ -1,3 +1,5 @@
+# Article A444-25
+
 Si, à compter de la demande du client, les prestations suivantes sont réalisées dans un délai inférieur au délai de référence précisé dans le tableau ci-dessous, elles donnent lieu à la perception d'un émolument majoré dans les conditions prévues à l'article A. 444-12 :
 
 | Numéro de

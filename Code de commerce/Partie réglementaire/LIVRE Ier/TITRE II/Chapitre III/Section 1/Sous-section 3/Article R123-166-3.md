@@ -1,3 +1,5 @@
+# Article R123-166-3
+
 Le préfet saisi d'une demande d'agrément dispose de deux mois pour l'instruire, à compter de sa réception.
 
 Le défaut de réponse du préfet dans le délai mentionné à l'alinéa précédent vaut rejet de la demande.

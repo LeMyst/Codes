@@ -1,3 +1,5 @@
+# Article L511-39
+
 Le refus d'acceptation ou de paiement doit être constaté par un acte authentique dénommé protêt faute d'acceptation ou faute de paiement.
 
 Le protêt faute d'acceptation doit être fait dans les délais fixés pour la présentation à l'acceptation. Si, dans le cas prévu au premier alinéa de l'article L. 511-16, la première présentation a eu lieu le dernier jour du délai, le protêt peut encore être dressé le lendemain.

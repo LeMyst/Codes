@@ -1,3 +1,5 @@
+# Article L225-79-2
+
 I. ― Dans les sociétés qui emploient, à la clôture de deux exercices consécutifs, au moins mille salariés permanents dans la société et ses filiales, directes ou indirectes, dont le siège social est fixé sur le territoire français, ou au moins cinq mille salariés permanents dans la société et ses filiales, directes ou indirectes, dont le siège social est fixé sur le territoire français et à l'étranger, il est stipulé dans les statuts que le conseil de surveillance comprend, outre les membres dont le nombre et le mode de désignation sont prévus aux articles L. 225-69 et L. 225-75 du présent code, des membres représentant les salariés.
 
 Une société dont l'activité principale est d'acquérir et de gérer des filiales et des participations peut ne pas mettre en œuvre l'obligation prévue au premier alinéa du présent I si elle remplit chacune des conditions suivantes :

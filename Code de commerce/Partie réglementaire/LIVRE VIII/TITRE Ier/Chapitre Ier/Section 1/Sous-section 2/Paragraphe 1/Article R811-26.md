@@ -1,3 +1,5 @@
+# Article R811-26
+
 I.-Les mandataires judiciaires qui ont été inscrits pendant cinq ans au moins sur la liste mentionnée à l'article L. 812-2 et qui ont, le cas échéant, effectué le stage dans les conditions prévues au II de l'article R. 811-25 sont dispensés de toutes les épreuves de l'examen d'aptitude. Ils sont inscrits sur la liste des administrateurs judiciaires avec la mention de la spécialité commerciale, sous condition suspensive d'avoir été retirés de la liste des mandataires judiciaires dans les conditions prévues aux articles R. 811-36 et R. 812-20.
 
 II.-Sont dispensés de l'épreuve de procédure civile et de droit pénal des affaires de l'examen d'aptitude :

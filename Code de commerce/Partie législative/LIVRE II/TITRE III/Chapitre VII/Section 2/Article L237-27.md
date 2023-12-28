@@ -1,3 +1,5 @@
+# Article L237-27
+
 I.-Les décisions prévues au deuxième alinéa de l'article L. 237-25 sont prises :
 
 1° A la majorité des associés en capital, dans les sociétés en nom collectif, en commandite simple et à responsabilité limitée ;

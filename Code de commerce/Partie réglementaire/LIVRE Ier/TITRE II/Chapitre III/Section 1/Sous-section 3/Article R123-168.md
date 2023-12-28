@@ -1,3 +1,5 @@
+# Article R123-168
+
 Le contrat de domiciliation est rédigé par écrit. Il est conclu pour une durée d'au moins trois mois renouvelable par tacite reconduction, sauf préavis de résiliation. Les parties s'engagent à respecter les conditions suivantes :
 
 1° Le domiciliataire doit, durant l'occupation des locaux, être immatriculé au registre du commerce et des sociétés ; toutefois, cette condition n'est pas requise si le domiciliataire est une personne morale française de droit public ou une association regroupant des personnes morales françaises de droit public. Le domiciliataire met à la disposition de la personne domiciliée des locaux dotés d'une pièce propre à assurer la confidentialité nécessaire et à permettre une réunion régulière des organes chargés de la direction, de l'administration ou de la surveillance de l'entreprise ainsi que la tenue, la conservation et la consultation des livres, registres et documents prescrits par les lois et règlements.

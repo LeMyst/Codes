@@ -1,3 +1,5 @@
+# Article A232
+
 I.-Les informations prévues au II de l'article L. 232-6 sont présentées selon les modalités prévues ci-après ou celles relatives aux déclarations visées aux parties B et C de la section III de l'annexe III de la directive 2011/16/ UE du Parlement européen et du Conseil du 15 février 2011. Le rapport précise laquelle de ces deux méthodes a été utilisée.
 
 II.-Le chiffre d'affaires comprend les transactions passées avec des parties liées et correspond :

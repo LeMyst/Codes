@@ -1,3 +1,5 @@
+# Article R225-136
+
 En cas d'apports en nature ou de stipulation d'avantages particuliers, les commissaires aux apports sont désignés et accomplissent leur mission dans les conditions prévues à l'article R. 22-10-7. Les dispositions de l'article R. 22-10-8 sont applicables en cas d'apports en nature.
 
 En cas d'émission d'actions de préférence au profit d'actionnaires désignés, les commissaires aux apports mentionnés à l'article L. 228-15 sont désignés et accomplissent leur mission dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 22-10-7.

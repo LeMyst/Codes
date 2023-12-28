@@ -1,3 +1,5 @@
+# Article R812-21-1
+
 Les dispositions relatives à la surveillance et à l'inspection des mandataires judiciaires, sont applicables aux personnes mentionnées au III de l'article L. 812-2 sous réserve des dispositions suivantes :
 
 1° Les dispositions relatives à la communication de la situation financière au Conseil national des administrateurs judiciaires et des mandataires judiciaires ne sont pas applicables ;

@@ -1,3 +1,5 @@
+# Article R444-33
+
 Préalablement à l'octroi de toute aide :
 
 1° La société mentionnée à l'article R. 444-36 informe le demandeur que l'aide est soumise aux dispositions du règlement (UE) n° 360/2012 du 25 avril 2012 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis accordées à des entreprises fournissant des services d'intérêt économique général ;

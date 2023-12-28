@@ -1,3 +1,5 @@
+# Article L811-13
+
 Tout administrateur judiciaire qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu provisoirement de l'exercice de ses fonctions par le tribunal judiciaire du lieu où il est établi.
 
 En cas d'urgence, la suspension provisoire peut être prononcée même avant l'exercice des poursuites pénales ou disciplinaires si des inspections ou vérifications ont laissé apparaître des risques pour les sommes perçues par l'administrateur judiciaire, à raison de ses fonctions.

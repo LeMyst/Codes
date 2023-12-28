@@ -1,3 +1,5 @@
+# Article R814-116
+
 Les parts sociales correspondant à des apports en numéraire doivent être libérées, lors de la souscription, de la moitié au moins de leur valeur nominale.
 
 La libération du surplus intervient, en une ou plusieurs fois, soit aux dates prévues par les statuts, soit par décision de l'assemblée des associés et au plus tard dans le délai de deux ans à compter de l'inscription de la société sur la liste.

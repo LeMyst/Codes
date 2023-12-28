@@ -1,3 +1,5 @@
+# Article A526-7
+
 L'état descriptif du patrimoine professionnel prévu au II de l'article D. 526-30 et destiné à être publié au Bulletin officiel des annonces civiles et commerciales contient les informations suivantes, fournies par le cédant, le donateur ou l'apporteur :
 
 1° La valeur globale de l'actif ;

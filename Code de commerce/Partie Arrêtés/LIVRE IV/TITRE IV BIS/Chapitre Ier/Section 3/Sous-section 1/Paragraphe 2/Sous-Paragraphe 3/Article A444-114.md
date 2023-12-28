@@ -1,3 +1,5 @@
+# Article A444-114
+
 Le lotissement de biens indivis (numéro 91 du tableau 5) donne lieu à la perception :
 
 1° D'un émolument proportionnel, selon le barème suivant, en cas de tirage au sort ou d'attribution amiable :

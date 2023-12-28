@@ -1,3 +1,5 @@
+# Article R743-44
+
 Toute convention par laquelle l'un des associés cède la totalité ou une fraction de ses titres de capital ou parts sociales à un tiers, en vue de l'exercice par celui-ci de la profession de greffier de tribunal de commerce, est passée sous la condition suspensive de l'acceptation du cessionnaire par les associés, et, s'il y a lieu, de l'approbation du retrait du cédant.
 
 Lorsqu'il sélectionne un lauréat du concours prévu à l'article R. 742-6-1, le cédant désigne, parmi les candidats issus d'une même promotion, le candidat le mieux classé, sous réserve que celui-ci s'engage à s'acquitter du prix demandé, et qu'il recueille le consentement de la société. En cas de refus de la société de consentir à la cession au profit du candidat désigné, le cédant peut désigner, sous les mêmes réserves, le candidat de la même promotion classé immédiatement après, ou le candidat le mieux classé d'une autre promotion, ou un candidat précédemment nommé greffier.

@@ -1,3 +1,5 @@
+# Article R663-27
+
 Il est alloué au liquidateur un émolument déterminé par un arrêté pris en application de l'article L. 444-3 au titre de l'ensemble des obligations résultant de la cessation d'activité d'une ou de plusieurs installations classées au sens du titre Ier du livre V du code de l'environnement. Cet émolument varie selon que :
 
 1° La ou les installations sont soumises à déclaration ;

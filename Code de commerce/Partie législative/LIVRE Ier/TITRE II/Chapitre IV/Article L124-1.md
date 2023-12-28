@@ -1,3 +1,5 @@
+# Article L124-1
+
 Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer par l'effort commun de leurs associés les conditions dans lesquelles ceux-ci exercent leur activité commerciale. A cet effet, elles peuvent notamment exercer directement ou indirectement pour le compte de leurs associés les activités suivantes :
 
 1° Fournir en totalité ou en partie à leurs associés les marchandises, denrées ou services, l'équipement et le matériel nécessaires à l'exercice de leur commerce, notamment par la constitution et l'entretien de tout stock de marchandises, la construction, l'acquisition ou la location ainsi que la gestion de magasins et entrepôts particuliers, l'accomplissement dans leurs établissements ou dans ceux de leurs associés de toutes opérations, transformations et modernisation utiles ;

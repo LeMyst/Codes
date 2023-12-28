@@ -1,3 +1,5 @@
+# Article L225-35
+
 Le conseil d'administration détermine les orientations de l'activité de la société et veille à leur mise en oeuvre, conformément à son intérêt social, en considérant les enjeux sociaux, environnementaux, culturels et sportifs de son activité. Il prend également en considération, s'il y a lieu, la raison d'être de la société définie en application de l'article 1835 du code civil. Sous réserve des pouvoirs expressément attribués aux assemblées d'actionnaires et dans la limite de l'objet social, il se saisit de toute question intéressant la bonne marche de la société et règle par ses délibérations les affaires qui la concernent.
 
 Dans les rapports avec les tiers, la société est engagée même par les actes du conseil d'administration qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.

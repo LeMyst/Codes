@@ -1,3 +1,5 @@
+# Article R692-1
+
 Outre les pièces mentionnées aux articles R. 621-1, R. 631-1 ou R. 641-1, et à l'article R. 690-1, sont jointes à la demande d'ouverture d'une procédure d'insolvabilité secondaire formée par le débiteur ou le praticien de l'insolvabilité de la procédure d'insolvabilité principale les pièces suivantes, présentées en français ou accompagnées d'une traduction en langue française :
 
 1° La copie de la décision d'ouverture de la procédure d'insolvabilité principale par la juridiction d'un autre Etat membre ;

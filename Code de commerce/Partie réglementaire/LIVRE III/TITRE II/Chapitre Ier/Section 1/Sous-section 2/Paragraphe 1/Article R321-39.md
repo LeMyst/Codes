@@ -1,3 +1,5 @@
+# Article R321-39
+
 En cas d'empêchement ou de démission d'un membre du Conseil des maisons de vente, personnalité qualifiée nommée ou représentant de la profession élu, celui-ci est remplacé par son suppléant à compter de la date de constatation de l'empêchement ou de notification de la démission.
 
 En cas de vacance du siège d'un titulaire nommé et de son suppléant, il est pourvu à leur remplacement dans un délai de trois mois selon les modalités prévues à l'article L. 321-21.

@@ -1,3 +1,5 @@
+# Article R225-105
+
 I.-La déclaration de performance extra-financière mentionnée au I de l'article L. 225-102-1 et la déclaration consolidée de performance extra-financière mentionnée au II du même article présentent le modèle d'affaires de la société ou, le cas échéant, de l'ensemble de sociétés pour lesquelles la société établit des comptes consolidés.
 
 Elles présentent en outre, pour chaque catégorie d'information mentionnée au III du même article ou au deuxième alinéa de l'article L. 22-10-36 :

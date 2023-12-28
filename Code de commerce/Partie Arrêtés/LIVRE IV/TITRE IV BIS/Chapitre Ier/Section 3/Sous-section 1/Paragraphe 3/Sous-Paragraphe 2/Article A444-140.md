@@ -1,3 +1,5 @@
+# Article A444-140
+
 Les translations d'hypothèque (numéros 129 et 130 du tableau 5) donnent lieu à la perception :
 
 1° Lorsque la translation porte sur la totalité du gage, aux mêmes émoluments que ceux prévus à l'article A. 444-136 en matière d'affectation hypothécaire ;

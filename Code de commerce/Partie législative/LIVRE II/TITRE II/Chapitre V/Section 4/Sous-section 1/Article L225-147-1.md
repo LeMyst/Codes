@@ -1,3 +1,5 @@
+# Article L225-147-1
+
 I. ― Les articles L. 225-147 et L. 22-10-53 ne sont pas applicables, sur décision du conseil d'administration ou du directoire, lorsque l'apport en nature est constitué :
 
 1° De valeurs mobilières donnant accès au capital mentionnées à l'article L. 228-1 ou d'instruments du marché monétaire, au sens de l'article 4 de la directive 2004/39/ CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/ CEE et 93/6/ CEE du Conseil et la directive 2000/12/ CE du Parlement européen et du Conseil et abrogeant la directive 93/22/ CE du Conseil, s'ils ont été évalués au prix moyen pondéré auquel ils ont été négociés sur un ou plusieurs marchés réglementés durant les trois mois précédant la date de la réalisation effective de l'apport ;

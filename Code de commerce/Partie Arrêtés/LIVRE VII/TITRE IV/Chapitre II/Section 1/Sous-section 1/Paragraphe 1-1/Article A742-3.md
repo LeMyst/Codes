@@ -1,3 +1,5 @@
+# Article A742-3
+
 Les candidatures sont adressées par téléprocédure sur le site internet du ministère de la justice, au plus tard trois mois avant la date de la première épreuve.
 
 Le dossier de candidature comprend :

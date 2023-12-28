@@ -1,3 +1,5 @@
+# Article L814-3
+
 Une caisse dotée de la personnalité civile et gérée par les cotisants a pour objet de garantir le remboursement des fonds, effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes, à l'occasion des opérations dont ils sont chargés à raison de leurs fonctions. Deux magistrats du parquet sont désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les fonctions de commissaire du Gouvernement auprès de la caisse.
 
 L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire inscrits sur les listes, à l'exception des administrateurs judiciaires et des mandataires judiciaires exerçant leur profession en qualité de salarié.

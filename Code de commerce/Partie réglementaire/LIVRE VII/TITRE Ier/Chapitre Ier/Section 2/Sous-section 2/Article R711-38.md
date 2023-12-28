@@ -1,3 +1,5 @@
+# Article R711-38
+
 Le projet de schéma directeur est adopté par l'assemblée générale de la chambre de commerce et d'industrie de région, à la majorité des deux tiers de ses membres en exercice, présents ou représentés.
 
 Il est transmis, accompagné du rapport mentionné à l'article R. 711-35, à l'autorité de tutelle et à CCI France, dans un délai d'un mois après son adoption.

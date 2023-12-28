@@ -1,3 +1,5 @@
+# Article A444-121
+
 Le partage volontaire ou judiciaire (numéro 101 du tableau 5) donne lieu à la perception :
 
 1° D'un émolument proportionnel à l'actif brut, déduction faite seulement des legs particuliers, selon le barème suivant :

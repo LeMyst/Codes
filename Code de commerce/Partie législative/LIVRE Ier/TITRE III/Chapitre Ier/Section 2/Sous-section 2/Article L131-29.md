@@ -1,3 +1,5 @@
+# Article L131-29
+
 Les courtiers de marchandises assermentés peuvent être désignés pour procéder aux ventes publiques suivantes :
 
 1° Ventes aux enchères de marchandises en gros ayant fait l'objet d'une saisie administrative ou judiciaire ;

@@ -1,3 +1,5 @@
+# Article L228-23
+
 Dans une société dont les actions ne sont pas admises aux négociations sur un marché réglementé, la cession d'actions ou de valeurs mobilières donnant accès au capital, à quelque titre que ce soit, peut être soumise à l'agrément de la société par une clause des statuts.
 
 Une clause d'agrément ne peut être stipulée que si les titres sont nominatifs en vertu de la loi ou des statuts.

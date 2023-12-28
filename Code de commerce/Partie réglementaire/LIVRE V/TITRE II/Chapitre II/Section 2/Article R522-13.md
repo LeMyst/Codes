@@ -1,3 +1,5 @@
+# Article R522-13
+
 Le ou les règlements-types prévus à l'article L. 522-13 sont élaborés et modifiés par la Fédération nationale des prestataires logistiques et des magasins généraux agrées par l'Etat et soumis à l'homologation du ministre chargé de l'industrie.
 
 Ces règlements comportent pour l'exploitant l'obligation de mettre par priorité et sans préférence ni faveur les emplacements de l'entrepôt disponibles à la présentation de la marchandise à la disposition des personnes voulant opérer le magasinage dans les conditions fixées par les articles L. 522-14 à L. 522-19.

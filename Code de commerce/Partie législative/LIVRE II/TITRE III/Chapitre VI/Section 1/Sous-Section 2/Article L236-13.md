@@ -1,3 +1,5 @@
+# Article L236-13
+
 Lorsque la fusion est réalisée par voie de création d'une société nouvelle, celle-ci peut être constituée sans autres apports que ceux des sociétés qui fusionnent.
 
 Lorsque la société nouvelle est une société à responsabilité limitée, les associés des sociétés qui disparaissent peuvent agir de plein droit en qualité de fondateurs de cette société et il est procédé conformément aux dispositions régissant les sociétés à responsabilité limitée.

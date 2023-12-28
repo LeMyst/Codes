@@ -1,3 +1,5 @@
+# Article R225-128
+
 Le bulletin de souscription est daté et signé par le souscripteur ou son mandataire qui écrit en toutes lettres le nombre de titres souscrits. Une copie de ce bulletin établie sur papier libre lui est remise.
 
 Le bulletin de souscription comporte :

@@ -1,3 +1,5 @@
+# Article R233-13
+
 Sont enregistrées au bilan et au compte de résultat consolidés les impositions différées résultant :
 
 1° Du décalage temporaire entre la constatation comptable d'un produit ou d'une charge et son inclusion dans le résultat fiscal d'un exercice ultérieur ;

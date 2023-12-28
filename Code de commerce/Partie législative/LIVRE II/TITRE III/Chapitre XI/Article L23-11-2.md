@@ -1,3 +1,5 @@
+# Article L23-11-2
+
 L'engagement de partage défini à l'article L. 23-11-1 est constaté dans un contrat conclu entre tout détenteur de titres et la société concernée qui s'engage à transférer aux salariés concernés le montant résultant de l'engagement de partage, dont elle déduira les charges fiscales et sociales que ce transfert engendre.
 
 La signature du contrat de partage des plus-values est soumise à la condition de l'existence préalable, dans chaque entreprise mentionnée à l'article L. 23-11-1, d'un plan d'épargne entreprise défini aux articles L. 3332-1 et suivants du code du travail.

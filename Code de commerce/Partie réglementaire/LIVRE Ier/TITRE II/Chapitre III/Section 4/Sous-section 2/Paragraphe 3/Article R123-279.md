@@ -1,3 +1,5 @@
+# Article R123-279
+
 Aux fins de satisfaire aux contrôles prévus par l'article L. 123-45, toute personne physique ou morale soumise à l'obligation d'immatriculation au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat en application du 3° de l'article L. 123-36 indique dans sa déclaration aux fins d'immatriculation :
 
 1° Le nombre de ses salariés ;

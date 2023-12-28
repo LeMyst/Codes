@@ -1,3 +1,5 @@
+# Article R229-19
+
 Lorsque les conditions de constitution de la société européenne holding sont réunies, chaque société immatriculée en France qui participe à l'opération fait insérer un avis le constatant dans un support habilité à recevoir des annonces légales au niveau national ainsi qu'au Bulletin officiel des annonces civiles et commerciales.
 
 Cet avis comporte, pour la société promotrice, les indications suivantes :

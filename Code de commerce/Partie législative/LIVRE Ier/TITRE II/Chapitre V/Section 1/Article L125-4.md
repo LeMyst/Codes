@@ -1,3 +1,5 @@
+# Article L125-4
+
 Chaque membre du groupement d'intérêt économique ou de la société est titulaire de parts ou d'actions non dissociables de l'utilisation d'un emplacement déterminé par le contrat constitutif ou les statuts, et bénéficie de services communs.
 
 Le contrat constitutif ou les statuts peuvent attribuer à tout titulaire un autre emplacement en fonction d'activités saisonnières.

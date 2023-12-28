@@ -1,3 +1,5 @@
+# Article R228-90
+
 Lorsqu'il existe des valeurs mobilières donnant accès au capital, la société qui procède à l'achat de ses actions admises aux négociations sur un marché réglementé procède, lorsque le prix d'acquisition est supérieur au cours de bourse, à un ajustement du nombre d'actions que ces titres permettent d'obtenir.
 
 Cet ajustement garantit, au centième d'action près, que la valeur des actions qui sont obtenues en cas d'exercice des droits attachés aux valeurs mobilières donnant accès au capital après la réalisation de l'opération est identique à la valeur de celles qui auraient été obtenues en cas d'exercice des droits avant cette opération.

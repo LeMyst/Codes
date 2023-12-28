@@ -1,3 +1,5 @@
+# Article A444-8
+
 I.-En cas de vente forcée, après transmission du dossier par l'huissier de justice au commissaire-priseur judiciaire, ce dernier peut accepter de reporter la vente en cas de versement d'acompte, sur demande écrite du débiteur, sans que le nombre de ces reports puisse être supérieur à cinq.
 
 II.-Dans le cas prévu au I, la prestation figurant au numéro 13 du tableau mentionné à l'article A. 444-1 donne lieu à la perception d'un émolument fixe de 6,85 € à l'occasion de chaque report.

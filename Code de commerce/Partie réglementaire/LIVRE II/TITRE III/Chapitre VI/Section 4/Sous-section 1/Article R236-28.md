@@ -1,3 +1,5 @@
+# Article R236-28
+
 I.-Toute contestation sur le prix formulé dans l'offre de rachat mentionnée à l'article L. 236-40 est portée devant le tribunal dans le ressort duquel est situé le siège de la société, dans le délai mentionné au troisième alinéa du II de l'article R. 236-26.
 
 Tous les associés mentionnés à l'article L. 236-40 intéressés par la cession de leurs parts ou actions sont mis en cause par la société dans les conditions prévues à l'article 331 du code de procédure civile ; ils procèdent alors conformément à l'article 333 de ce code.

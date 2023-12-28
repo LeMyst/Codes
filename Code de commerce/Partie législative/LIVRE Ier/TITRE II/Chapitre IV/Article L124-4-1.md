@@ -1,3 +1,5 @@
+# Article L124-4-1
+
 Les statuts d'une société coopérative de commerçants peuvent prévoir que l'associé qui souhaite céder son fonds de commerce, ou plus de 50 % des parts sociales ou actions composant le capital de la société exploitant ce fonds, ou encore le bien immobilier dans lequel est exploité ce fonds, doit en informer la coopérative. La coopérative dispose, à compter de la réception de cette information, d'un délai de trois mois pour présenter une offre d'acquisition.
 
 La cession intervenue en méconnaissance du premier alinéa peut être annulée par le tribunal compétent.

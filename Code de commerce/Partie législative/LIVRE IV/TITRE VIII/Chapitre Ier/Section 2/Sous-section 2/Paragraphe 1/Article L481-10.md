@@ -1,3 +1,5 @@
+# Article L481-10
+
 Par dérogation à l'article L. 481-9, une petite ou moyenne entreprise n'est pas tenue solidairement de réparer le préjudice subi par les victimes autres que ses contractants directs ou indirects lorsque :
 
 1° Sa part de marché sur le marché pertinent est inférieure à 5 % pendant toute la durée de la commission de la pratique anticoncurrentielle ;

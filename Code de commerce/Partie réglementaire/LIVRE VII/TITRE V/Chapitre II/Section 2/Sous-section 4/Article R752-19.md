@@ -1,3 +1,5 @@
+# Article R752-19
+
 Dans les dix jours suivant la réunion de la commission ou la date de l'autorisation tacite, la décision ou l'avis de la commission est :
 
 1° Notifié par le préfet au demandeur et, si le projet nécessite un permis de construire, à l'autorité compétente pour délivrer le permis de construire, soit par la voie administrative contre décharge, soit par lettre recommandée avec demande d'avis de réception, soit, dans le cas prévu à l'article R. 752-8, par courrier électronique ;

@@ -1,3 +1,5 @@
+# Article R225-162
+
 Le commissaire aux comptes ne peut convoquer l'assemblée des actionnaires qu'après avoir vainement requis sa convocation du conseil d'administration ou du directoire, selon le cas, par lettre recommandée avec demande d'avis de réception.
 
 Lorsqu'il procède à cette convocation, il fixe l'ordre du jour et peut, pour des motifs déterminants, choisir un lieu de réunion autre que celui éventuellement prévu par les statuts, mais situé dans le même département. Il expose les motifs de la convocation dans un rapport lu à l'assemblée.

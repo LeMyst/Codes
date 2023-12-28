@@ -1,3 +1,5 @@
+# Article R811-66
+
 Le président du Conseil national, après avoir entendu les intéressés et recueilli toutes informations utiles, propose, si les parties n'ont pu se rapprocher, une solution au litige.
 
 En cas d'accord, total ou partiel, celui-ci est constaté par écrit, signé par les intéressés et le président. L'original est conservé par le président ; une copie est remise à chacune des parties.

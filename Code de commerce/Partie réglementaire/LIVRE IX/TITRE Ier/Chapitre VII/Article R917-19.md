@@ -1,3 +1,5 @@
+# Article R917-19
+
 A l'article R. 713-10 :
 
 a) Après les mots : " de candidature ", sont insérés les mots : " au collège représentant les activités du secteur de l'industrie, du commerce et des services " ;

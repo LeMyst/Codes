@@ -1,3 +1,5 @@
+# Article L146-1
+
 Les personnes physiques ou morales qui gèrent un fonds de commerce ou un fonds artisanal, moyennant le versement d'une commission proportionnelle au chiffre d'affaires, sont qualifiées de " gérants-mandataires " lorsque le contrat conclu avec le mandant, pour le compte duquel, le cas échéant dans le cadre d'un réseau, elles gèrent ce fonds, qui en reste propriétaire et supporte les risques liés à son exploitation, leur fixe une mission, en leur laissant toute latitude, dans le cadre ainsi tracé, de déterminer leurs conditions de travail, d'embaucher du personnel et de se substituer des remplaçants dans leur activité à leurs frais et sous leur entière responsabilité.
 
 La mission précise, le cas échéant, les normes de gestion et d'exploitation du fonds à respecter et les modalités du contrôle susceptible d'être effectué par le mandant. Ces clauses commerciales ne sont pas de nature à modifier la nature du contrat.

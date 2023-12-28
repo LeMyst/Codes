@@ -1,3 +1,5 @@
+# Article L624-16
+
 Peuvent être revendiqués, à condition qu'ils se retrouvent en nature, les biens meubles remis à titre précaire au débiteur ou ceux transférés dans un patrimoine fiduciaire dont le débiteur conserve l'usage ou la jouissance en qualité de constituant.
 
 Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de l'ouverture de la procédure, les biens vendus avec une clause de réserve de propriété. Cette clause doit avoir été convenue entre les parties dans un écrit au plus tard au moment de la livraison. Elle peut l'être dans un écrit régissant un ensemble d'opérations commerciales convenues entre les parties.

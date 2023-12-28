@@ -1,3 +1,5 @@
+# Article D822-7-1
+
 Les candidats au certificat préparatoire aux fonctions de commissaire aux comptes, au certificat d'aptitude aux fonctions de commissaire aux comptes, ainsi qu'à l'épreuve d'aptitude mentionnée à l'article R. 822-6, qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles bénéficient des aménagements rendus nécessaires par leur situation.
 
 Ces aménagements peuvent porter sur :

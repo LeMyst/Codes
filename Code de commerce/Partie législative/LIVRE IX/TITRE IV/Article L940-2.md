@@ -1,3 +1,5 @@
+# Article L940-2
+
 Pour l'application du présent code en Polynésie française, les termes énumérés ci-après sont remplacés comme suit :
 
 1° " Tribunal judiciaire " par " tribunal de première instance " ;

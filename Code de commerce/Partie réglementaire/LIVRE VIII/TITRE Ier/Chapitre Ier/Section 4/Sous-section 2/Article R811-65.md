@@ -1,3 +1,5 @@
+# Article R811-65
+
 Le président du Conseil national convoque les parties par lettre recommandée avec demande d'avis de réception dans les quinze jours de sa saisine et huit jours au moins avant la date de la séance de médiation.
 
 Une copie de l'acte de saisine est jointe à la convocation de la partie qui n'a pas pris l'initiative de la médiation.

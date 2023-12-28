@@ -1,3 +1,5 @@
+# Article L621-4
+
 Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire dont les fonctions sont définies à l'article L. 621-9. Il peut, en cas de nécessité, en désigner plusieurs. Le président du tribunal, s'il a connu du débiteur en application du titre Ier du présent livre, ne peut être désigné juge-commissaire.
 
 Il invite le comité social et économique à désigner un représentant parmi les salariés de l'entreprise. En l'absence de comité social et économique, les salariés élisent leur représentant, qui exerce les fonctions dévolues à ces institutions par les dispositions du présent titre. Les modalités de désignation ou d'élection du représentant des salariés sont précisées par décret en Conseil d'Etat. Lorsque aucun représentant des salariés ne peut être désigné ou élu, un procès-verbal de carence est établi par le débiteur.

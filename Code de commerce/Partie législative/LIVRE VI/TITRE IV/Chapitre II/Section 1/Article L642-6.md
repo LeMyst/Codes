@@ -1,3 +1,5 @@
+# Article L642-6
+
 Une modification substantielle dans les objectifs et les moyens du plan ne peut être décidée que par le tribunal, à la demande du cessionnaire.
 
 Le tribunal statue après avoir entendu ou dûment appelé le liquidateur, l'administrateur judiciaire lorsqu'il en a été désigné, les contrôleurs, la ou les personnes désignées par le comité social et économique et toute personne intéressée et après avoir recueilli l'avis du ministère public.

@@ -1,3 +1,5 @@
+# Article L23-11-3
+
 Le contrat de partage mentionné à l'article L. 23-11-2 rend bénéficiaires l'ensemble des salariés présents dans la ou les sociétés mentionnées à l'article L. 23-11-1 pendant tout ou partie de la période comprise entre la date de sa signature et la date de la cession des titres de la société concernée et qui sont adhérents au plan d'épargne d'entreprise au jour de cette cession.
 
 Sont assimilées à des périodes de présence :

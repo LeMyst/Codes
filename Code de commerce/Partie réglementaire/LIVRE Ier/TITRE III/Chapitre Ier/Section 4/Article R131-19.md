@@ -1,3 +1,5 @@
+# Article R131-19
+
 Le courtier de marchandises assermenté poursuivi est appelé à comparaître par le procureur de la République près le tribunal judiciaire.
 
 La convocation est adressée par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la date fixée pour la comparution. Elle énonce les faits reprochés au courtier de marchandises assermenté.

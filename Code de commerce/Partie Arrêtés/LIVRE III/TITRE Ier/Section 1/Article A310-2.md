@@ -1,3 +1,5 @@
+# Article A310-2
+
 La déclaration est accompagnée des documents suivants :
 
 1° Toute pièce justifiant, selon le motif de la demande, de la perspective d'une cessation de commerce, d'une suspension saisonnière, d'un changement d'activité ou d'une modification substantielle des conditions d'exploitation et, notamment, en cas de prévision de travaux, le ou les devis correspondants ;

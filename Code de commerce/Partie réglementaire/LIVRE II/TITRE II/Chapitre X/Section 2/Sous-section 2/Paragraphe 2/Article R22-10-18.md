@@ -1,3 +1,5 @@
+# Article R22-10-18
+
 I.-La politique de rémunération mentionnée au I de l'article L. 22-10-26 comprend les informations suivantes, relatives à l'ensemble des mandataires sociaux :
 
 1° La manière dont elle respecte l'intérêt social et contribue à la stratégie commerciale ainsi qu'à la pérennité de la société ;

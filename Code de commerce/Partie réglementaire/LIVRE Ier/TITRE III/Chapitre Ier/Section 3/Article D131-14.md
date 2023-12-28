@@ -1,3 +1,5 @@
+# Article D131-14
+
 L'examen d'aptitude aux fonctions de courtier de marchandises assermenté comprend :
 
 1° Une épreuve écrite et pratique d'une durée de trois heures, au cours de laquelle le candidat rédige un certificat, procès-verbal, rapport ou tout autre document écrit relevant de l'exercice des fonctions de courtier de marchandises assermenté ;

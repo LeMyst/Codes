@@ -1,3 +1,5 @@
+# Article R930-1
+
 Sous réserve des adaptations prévues dans les chapitres ci-après, les dispositions suivantes du code sont applicables en Nouvelle-Calédonie :
 
 1° Le livre Ier, à l'exception des articles R. 121-3, R. 121-4, R. 122-1 à R. 122-17, R. 123-171-1, R. 123-209 à R. 123-219, D. 123-235, D. 123-236, R. 127-1 à R. 134-17, R. 143-23, R. 145-9 à D. 145-19, R. 145-22 à D. 146-2. Les articles R. 123-220 à R. 123-234-2 ne sont applicables qu'en ce qu'ils concernent les institutions et services de l'Etat et les personnes morales de droit public administratif dont le siège est situé en Nouvelle-Calédonie, ainsi que leurs établissements. Les articles R. 123-220, R. 123-220-1, R. 123-221, R. 123-222, R. 123-222-1, R. 123-222-2, R. 123-223, R. 123-231, R. 123-232, R. 123-232-1, R. 123-233, R. 123-234, R. 123-234-1 et R. 123-234-2 sont applicables dans leur version résultant du décret n° 2022-1014 du 19 juillet 2022 ;

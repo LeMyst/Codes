@@ -1,3 +1,5 @@
+# Article L954-5
+
 Le dernier alinéa du III de l'article L. 442-5 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de l'annonce publicitaire peut être ordonnée par le juge d'instruction ou par le tribunal saisi des poursuites, soit sur réquisition du ministère public, soit d'office. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours.

@@ -1,3 +1,5 @@
+# Article R444-59
+
 Lorsqu'un acte contient plusieurs conventions dérivant ou dépendant les unes des autres, seul est perçu l'émolument de la convention principale.
 
 Si les conventions sont indépendantes et donnent lieu à des droits distincts pour l'enregistrement, la taxe de publicité foncière ou la taxe à la valeur ajoutée, les émoluments sont dus pour chacune d'elles même si elles sont comprises dans un seul acte.

@@ -1,3 +1,5 @@
+# Article R123-103
+
 Les actes constitutifs des personnes morales dont le siège social est situé sur le territoire français sont déposés au plus tard en même temps que la demande d'immatriculation. Ces actes sont :
 
 1° Pour les sociétés ou groupements d'intérêt économique :

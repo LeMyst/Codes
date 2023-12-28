@@ -1,3 +1,5 @@
+# Article R692-2
+
 I.-Le tribunal saisi d'une demande d'ouverture d'une procédure d'insolvabilité secondaire en informe sans délai le praticien de l'insolvabilité de la procédure d'insolvabilité principale ouverte sur le territoire d'un autre Etat membre et le débiteur non dessaisi par lettre recommandée avec demande d'avis de réception qui mentionne le délai et les modalités pour s'opposer à la demande d'ouverture de la procédure d'insolvabilité secondaire et pour solliciter la suspension de l'ouverture de la procédure d'insolvabilité secondaire conformément au paragraphe 3 de l'article 38 du règlement (UE) n° 2015/848 précité.
 
 Le délai prévu au premier alinéa est de 20 jours à compter de la réception de la lettre recommandée avec demande d'avis de réception.

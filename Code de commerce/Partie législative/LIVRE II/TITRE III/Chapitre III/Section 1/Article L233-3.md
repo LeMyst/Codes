@@ -1,3 +1,5 @@
+# Article L233-3
+
 I.- Toute personne, physique ou morale, est considérée, pour l'application des sections 2 et 4 du présent chapitre, comme en contrôlant une autre :
 
 1° Lorsqu'elle détient directement ou indirectement une fraction du capital lui conférant la majorité des droits de vote dans les assemblées générales de cette société ;

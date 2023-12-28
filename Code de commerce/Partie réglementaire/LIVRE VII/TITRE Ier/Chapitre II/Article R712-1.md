@@ -1,3 +1,5 @@
+# Article R712-1
+
 Les fonctions des membres des établissements du réseau des chambres de commerce et d'industrie sont gratuites.
 
 Toutefois, cette gratuité ne fait pas obstacle à l'attribution d'indemnités ou de remboursements de frais dont la liste, les modalités et les montants sont fixés par le règlement intérieur de la chambre de commerce et d'industrie, conformément aux dispositions relatives aux frais professionnels déductibles pour le calcul des cotisations de sécurité sociale et des contributions sociales prévues par le code de sécurité sociale.

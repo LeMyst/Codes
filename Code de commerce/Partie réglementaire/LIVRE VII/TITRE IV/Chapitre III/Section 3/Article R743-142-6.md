@@ -1,3 +1,5 @@
+# Article R743-142-6
+
 I.-Pour la catégorie des actes des procédures de liquidation hors sauvegarde ou redressement judiciaires mentionnée au tableau 2 de l'article annexe 4-7, l'émolument se décompose en :
 
 1° Un émolument principal et un forfait de transmission, fixés selon un barème tarifaire fixe, dont la grille est progressive en fonction, d'une part, du nombre des salariés et, d'autre part, du chiffre d'affaires de l'entreprise concernée, ces deux caractéristiques étant déterminées conformément aux dispositions de l'article R. 621-11 ou, à défaut, au vu des données disponibles dans le dossier de la procédure ;

@@ -1,3 +1,5 @@
+# Article L526-30
+
 A peine de nullité du transfert prévu à l'article L. 526-27 :
 
 1° Le transfert doit porter sur l'intégralité du patrimoine professionnel de l'entrepreneur individuel, qui ne peut être scindé ;

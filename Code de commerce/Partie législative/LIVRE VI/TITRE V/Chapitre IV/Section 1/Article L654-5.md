@@ -1,3 +1,5 @@
+# Article L654-5
+
 Les personnes physiques coupables des infractions prévues par les articles L. 654-3 et L. 654-4 encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités de l'article 131-26 du code pénal ;

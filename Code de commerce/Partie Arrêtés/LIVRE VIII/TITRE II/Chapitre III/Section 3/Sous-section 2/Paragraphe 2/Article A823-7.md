@@ -1,3 +1,5 @@
+# Article A823-7
+
 La norme d'exercice professionnel relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 CONNAISSANCE DE L'ENTITÉ ET DE SON ENVIRONNEMENT ET ÉVALUATION DU RISQUE D'ANOMALIES SIGNIFICATIVES DANS LES COMPTES

@@ -1,3 +1,5 @@
+# Article L711-20
+
 Les représentants du personnel aux comités d'entreprise des établissements d'enseignement supérieur consulaire sont élus sur des listes établies par les organisations syndicales pour chaque collège. Les comités comprennent les trois collèges suivants :
 
 1° Le collège des ouvriers et employés ;

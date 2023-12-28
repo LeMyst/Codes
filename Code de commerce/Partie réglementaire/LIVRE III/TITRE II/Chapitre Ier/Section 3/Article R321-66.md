@@ -1,3 +1,5 @@
+# Article R321-66
+
 Les personnes satisfaisant aux conditions prévues aux articles R. 321-56 et R. 321-65 et souhaitant s'établir en France adressent au conseil des maisons de vente leur demande de reconnaissance de qualification professionnelle par lettre recommandée avec demande d'avis de réception ou par tout autre moyen équivalent. La demande est accompagnée d'un dossier dont la composition est fixée par arrêté du garde des sceaux, ministre de la justice.
 
 Le conseil accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant. Il se prononce par décision motivée au plus tard dans un délai de trois mois à compter de la présentation du dossier complet de l'intéressé.

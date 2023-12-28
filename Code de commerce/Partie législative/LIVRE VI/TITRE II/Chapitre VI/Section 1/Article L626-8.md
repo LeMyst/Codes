@@ -1,3 +1,5 @@
+# Article L626-8
+
 Le comité social et économique et le mandataire judiciaire sont informés et consultés sur les mesures que le débiteur envisage de proposer dans le projet de plan au vu des informations et offres reçues.
 
 Ils le sont également, ainsi que le ou les contrôleurs, sur le bilan économique et social et sur le projet de plan, qui leur sont communiqués par l'administrateur et complétés, le cas échéant, de ses observations.

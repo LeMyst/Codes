@@ -1,3 +1,5 @@
+# Article L430-2
+
 I.-Est soumise aux dispositions des articles L. 430-3 et suivants du présent titre toute opération de concentration, au sens de l'article L. 430-1, lorsque sont réunies les trois conditions suivantes :
 
 -le chiffre d'affaires total mondial hors taxes de l'ensemble des entreprises ou groupes de personnes physiques ou morales parties à la concentration est supérieur à 150 millions d'euros ;

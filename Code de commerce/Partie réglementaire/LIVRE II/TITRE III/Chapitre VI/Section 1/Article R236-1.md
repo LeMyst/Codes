@@ -1,3 +1,5 @@
+# Article R236-1
+
 Le projet de fusion est arrêté par le conseil d'administration, le directoire, le ou les gérants de chacune des sociétés participant à l'opération projetée.
 
 Il contient les indications suivantes :

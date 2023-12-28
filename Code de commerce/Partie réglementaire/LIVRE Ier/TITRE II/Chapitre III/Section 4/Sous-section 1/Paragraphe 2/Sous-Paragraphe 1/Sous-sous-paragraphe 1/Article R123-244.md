@@ -1,3 +1,5 @@
+# Article R123-244
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la personne physique à l'occasion de son immatriculation, les éléments suivants relatifs à son établissement principal sur le territoire national et aux activités qui y sont exercées :
 
 1° L'indication de la nature principale de l'établissement et, le cas échéant, sa dénomination ;

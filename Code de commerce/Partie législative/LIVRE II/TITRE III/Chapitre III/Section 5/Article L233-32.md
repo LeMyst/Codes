@@ -1,3 +1,5 @@
+# Article L233-32
+
 I. ― Pendant la période d'offre publique visant une société dont des actions sont admises aux négociations sur un marché réglementé, le conseil d'administration ou le directoire, après autorisation du conseil de surveillance de la société visée, peut prendre toute décision dont la mise en œuvre est susceptible de faire échouer l'offre, sous réserve des pouvoirs expressément attribués aux assemblées générales dans la limite de l'intérêt social de la société.
 
 II. ― Sans préjudice des autres mesures permises par la loi, l'assemblée générale extraordinaire de la société visée, statuant dans les conditions de quorum et de majorité prévues à l'article L. 225-98, peut décider l'émission de bons permettant de souscrire, à des conditions préférentielles, à des actions de ladite société, et leur attribution gratuite à tous les actionnaires de cette société ayant cette qualité avant l'expiration de la période d'offre publique.

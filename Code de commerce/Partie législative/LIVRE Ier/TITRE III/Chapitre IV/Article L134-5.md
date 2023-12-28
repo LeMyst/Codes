@@ -1,3 +1,5 @@
+# Article L134-5
+
 Tout élément de la rémunération variant avec le nombre ou la valeur des affaires constitue une commission au sens du présent chapitre.
 
 Les articles L. 134-6 à L. 134-9 s'appliquent lorsque l'agent est rémunéré en tout ou partie à la commission ainsi définie.

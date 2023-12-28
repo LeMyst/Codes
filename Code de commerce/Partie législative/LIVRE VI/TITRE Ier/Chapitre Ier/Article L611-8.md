@@ -1,3 +1,5 @@
+# Article L611-8
+
 I. - Le président du tribunal, sur la requête conjointe des parties, constate leur accord et donne à celui-ci force exécutoire. Il statue au vu d'une déclaration certifiée du débiteur attestant qu'il ne se trouvait pas en cessation des paiements lors de la conclusion de l'accord, ou que ce dernier y met fin. La décision constatant l'accord n'est pas soumise à publication et n'est pas susceptible de recours. Elle met fin à la procédure de conciliation.
 
 II. - Toutefois, à la demande du débiteur, le tribunal homologue l'accord obtenu si les conditions suivantes sont réunies :

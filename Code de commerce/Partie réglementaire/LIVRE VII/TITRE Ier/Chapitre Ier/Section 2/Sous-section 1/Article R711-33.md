@@ -1,3 +1,5 @@
+# Article R711-33
+
 I.-Les chambres de commerce et d'industrie de région fournissent l'avis demandé par le conseil régional sur tout dispositif d'assistance aux créateurs et repreneurs d'entreprises et aux entreprises dont la région envisage la création.
 
 Elles peuvent être consultées par l'Etat, la région et leurs établissements publics sur toute question relative à l'activité et au développement économique, à la formation professionnelle, à l'aménagement du territoire et à l'environnement de la circonscription régionale.

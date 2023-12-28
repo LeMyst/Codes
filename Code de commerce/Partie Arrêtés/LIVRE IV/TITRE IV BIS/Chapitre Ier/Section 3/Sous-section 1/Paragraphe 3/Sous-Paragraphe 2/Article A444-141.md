@@ -1,3 +1,5 @@
+# Article A444-141
+
 Les mainlevées (numéros 131 à 134 du tableau 5) donnent lieu à la perception :
 
 1° S'agissant de la mainlevée de saisie, d'un émolument fixe de 26,41 € ;

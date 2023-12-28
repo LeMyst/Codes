@@ -1,3 +1,5 @@
+# Article R123-223
+
 Sont également portés au répertoire les renseignements suivants :
 
 1° Pour chaque unité légale et chacun de ses établissements, le code caractérisant l'activité principale exercée en référence à la nomenclature d'activités française en vigueur, attribué par l'Institut national de la statistique et des études économiques ;

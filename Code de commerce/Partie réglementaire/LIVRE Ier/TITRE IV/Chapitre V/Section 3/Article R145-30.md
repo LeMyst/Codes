@@ -1,3 +1,5 @@
+# Article R145-30
+
 Lorsque le juge s'estime insuffisamment éclairé sur des points qui peuvent être élucidés par une visite des lieux ou s'il lui apparaît que les prétentions des parties divergent sur de tels points, il se rend sur les lieux aux jour et heure décidés par lui le cas échéant en présence d'un consultant.
 
 Toutefois, s'il estime que des constatations purement matérielles sont suffisantes, il peut commettre toute personne de son choix pour y procéder.

@@ -1,3 +1,5 @@
+# Article R822-27
+
 Tout commissaire aux comptes inscrit peut demander à être omis provisoirement de la liste mentionnée au I de l'article L. 822-1.
 
 La demande, adressée au conseil régional par lettre recommandée avec demande d'avis de réception, doit être motivée et indiquer notamment la nouvelle activité que l'intéressé se propose d'exercer ainsi que la date à laquelle il souhaite se retirer provisoirement de la compagnie.

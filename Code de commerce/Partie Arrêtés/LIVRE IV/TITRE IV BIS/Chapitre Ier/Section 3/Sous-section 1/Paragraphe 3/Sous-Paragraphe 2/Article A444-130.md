@@ -1,3 +1,5 @@
+# Article A444-130
+
 Le crédit-bail (numéro 114 du tableau 5) donne lieu à la perception d'un émolument proportionnel au montant de l'investissement, selon le barème suivant :
 
 |

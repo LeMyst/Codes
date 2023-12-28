@@ -1,3 +1,5 @@
+# Article A444-163-1
+
 Le contrat de fiducie et ses actes subséquents, lorsqu'ils requièrent un acte notarié en application du deuxième alinéa de l'article 2012 du code civil ou du deuxième alinéa de l'article 2019 du même code, donnent lieu, ensemble, à la perception des émoluments suivants :
 
 |

@@ -1,3 +1,5 @@
+# Article R723-2
+
 Pour établir la liste des membres du collège électoral, la commission se fait remettre par le président du tribunal de commerce, une expédition de l'ordonnance fixant le tableau des juges composant la juridiction et la liste des anciens membres de la juridiction, ainsi que, par le président de la chambre de commerce et d'industrie et le président de la chambre des métiers et de l'artisanat, la liste de leurs membres élus relevant du ressort du tribunal de commerce.
 
 La commission procède en outre à l'inscription des anciens membres des tribunaux de commerce ainsi qu'à celle des juges dont l'élection est intervenue postérieurement à celle des membres des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat. La commission inscrit également les membres des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat élus postérieurement à l'établissement de la liste électorale.

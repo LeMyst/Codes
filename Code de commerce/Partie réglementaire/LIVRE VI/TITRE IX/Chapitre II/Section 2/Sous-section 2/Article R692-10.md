@@ -1,3 +1,5 @@
+# Article R692-10
+
 En application de l'article L. 692-10, dans le cadre d'une procédure analogue au redressement judiciaire ou à une liquidation judiciaire avec maintien d'activité, la demande d'autorisation des licenciements est déposée par le praticien de l'insolvabilité de la procédure d'insolvabilité principale au greffe du tribunal compétent.
 
 A cette demande sont jointes les pièces suivantes :

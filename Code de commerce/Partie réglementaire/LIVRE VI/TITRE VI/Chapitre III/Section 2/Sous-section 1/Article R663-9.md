@@ -1,3 +1,5 @@
+# Article R663-9
+
 Il est alloué à l'administrateur judiciaire, pour l'élaboration du bilan économique, social et environnemental et l'assistance apportée au débiteur pour la préparation d'un plan de sauvegarde ou de redressement, un émolument déterminé par un arrêté pris en application de l'article L. 444-3 en fonction du nombre de salariés employés par le débiteur ou de son chiffre d'affaires.
 
 Toutefois, lorsque le total du bilan mentionné au b du II de l'article R. 663-3 est supérieur ou égal à un seuil précisé par l'arrêté mentionné au premier alinéa, l'émolument est déterminé uniquement en fonction de ce total de bilan.

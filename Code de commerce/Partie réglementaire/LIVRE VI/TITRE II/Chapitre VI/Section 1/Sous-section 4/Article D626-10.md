@@ -1,3 +1,5 @@
+# Article D626-10
+
 Les dettes susceptibles d'être remises correspondent :
 
 1° Aux pénalités, intérêts de retard, intérêts moratoires, amendes fiscales ou douanières, majorations, frais de poursuite, quel que soit l'impôt ou le produit divers du budget de l'Etat auquel ces pénalités ou frais s'appliquent ;

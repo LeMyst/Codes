@@ -1,3 +1,5 @@
+# Article R814-60
+
 La demande d'inscription d'une société est présentée collectivement par les associés ou par ceux des associés exerçant en son sein ou par le représentant légal de la société. Elle est adressée à la Commission nationale d'inscription et de discipline par lettre recommandée avec demande d'avis de réception ou remise contre récépissé.
 
 Elle est accompagnée d'un dossier qui comprend à peine d'irrecevabilité de la demande :

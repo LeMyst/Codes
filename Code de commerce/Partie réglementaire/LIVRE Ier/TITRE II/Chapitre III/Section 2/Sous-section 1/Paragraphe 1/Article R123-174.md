@@ -1,3 +1,5 @@
+# Article R123-174
+
 Les mouvements affectant le patrimoine de l'entreprise sont enregistrés opération par opération et jour par jour pour le livre-journal.
 
 Tout enregistrement comptable précise l'origine, le contenu et l'imputation de chaque donnée ainsi que les références de la pièce justificative qui l'appuie.

@@ -1,3 +1,5 @@
+# Article L124-5
+
 Les sociétés régies par le présent chapitre peuvent constituer entre elles des unions ayant les mêmes objets que ceux définis à l'article L. 124-1.
 
 Ces unions doivent se conformer, pour leur constitution et leur fonctionnement, aux mêmes règles que lesdites sociétés. Le premier alinéa de l'article 9 de la loi du 10 septembre 1947 portant statut de la coopération leur est applicable.

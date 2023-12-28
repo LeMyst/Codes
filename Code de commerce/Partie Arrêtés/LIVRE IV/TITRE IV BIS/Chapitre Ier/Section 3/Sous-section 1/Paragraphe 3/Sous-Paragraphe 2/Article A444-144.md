@@ -1,3 +1,5 @@
+# Article A444-144
+
 Les prêts conventionnés, prêts d'épargne logement et prêts complémentaires ou d'anticipation de ceux-ci, ainsi que les autres prêts du secteur aidé (numéro 138 du tableau 5) donnent lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

@@ -1,3 +1,5 @@
+# Article R236-29
+
 Chaque société participant à la fusion transfrontalière remet au greffier chargé du contrôle mentionné à l'article L. 236-42 un dossier contenant les documents et informations suivants :
 
 1° Le projet de fusion transfrontalière, mentionnant notamment les informations relatives aux procédures permettant de déterminer la participation des salariés ;

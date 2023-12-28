@@ -1,3 +1,5 @@
+# Article A663-22
+
 Est fixé à 94,05 € l'émolument prévu à l'article R. 663-25 au titre de :
 
 1° La contestation des créances autres que salariales dont l'admission ou le rejet a donné lieu à une décision du juge-commissaire inscrite sur l'état des créances mentionné à l'article R. 624-8 (numéro 6 du tableau 4-3) ;

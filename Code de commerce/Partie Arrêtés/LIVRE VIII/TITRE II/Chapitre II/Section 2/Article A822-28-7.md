@@ -1,3 +1,5 @@
+# Article A822-28-7
+
 Les publications éligibles au titre du 4° de l'article A. 822-28-3 sont prises en compte l'année de leur dépôt légal.
 
 Pour les essais, les ouvrages et publications d'articles, les deux critères cumulatifs suivants sont retenus :

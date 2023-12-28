@@ -1,3 +1,5 @@
+# Article R713-14
+
 I.-La commission d'organisation des élections est chargée :
 
 1° De mettre à disposition des électeurs, au plus tard treize jours avant le dernier jour du scrutin, les instruments nécessaires au vote, dans des conditions précisées par arrêté du ministre de tutelle ;

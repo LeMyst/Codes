@@ -1,3 +1,5 @@
+# Article R464-5-5
+
 I.-Un demandeur ayant sollicité une exonération totale ou partielle de sanctions pécuniaires auprès de la Commission européenne, soit pour l'attribution d'une place dans l'ordre d'arrivée en vue de bénéficier d'une telle exonération, soit par le dépôt d'une demande complète, peut, si cette demande se réfère à une pratique prohibée couvrant les territoires de plus de trois Etats membres, soumettre à l'Autorité de la concurrence une demande sommaire concernant la même pratique.
 
 II.-La demande sommaire mentionnée au I, qui est soumise aux conditions prévues aux trois premiers alinéas de l'article R. 464-5, comporte les éléments mentionnés aux 1° et 3° à 6° du III de l'article R. 464-5-3, ainsi que la mention des Etat membres où les preuves de la pratique en cause sont susceptibles de se trouver.

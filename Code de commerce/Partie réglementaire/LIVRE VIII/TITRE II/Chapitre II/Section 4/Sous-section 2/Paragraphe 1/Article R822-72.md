@@ -1,3 +1,5 @@
+# Article R822-72
+
 Les statuts satisfont aux prescriptions des articles 8, 11, 14, 15, 19, 20 et 24 de la loi n° 66-879 du 29 novembre 1966. Ils indiquent en outre :
 
 1° Les nom, prénoms et domicile de chaque associé ;

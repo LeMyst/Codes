@@ -1,3 +1,5 @@
+# Article L223-30
+
 Les associés ne peuvent, si ce n'est à l'unanimité, changer la nationalité de la société. Sous réserve du huitième alinéa de l'article L. 223-18, le déplacement du siège social est décidé par un ou plusieurs associés représentant plus de la moitié des parts sociales.
 
 Toutes autres modifications des statuts sont décidées par les associés représentant au moins les trois quarts des parts sociales. Toute clause exigeant une majorité plus élevée est réputée non écrite.

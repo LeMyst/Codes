@@ -1,3 +1,5 @@
+# Article R123-169-1
+
 Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de ne pas respecter les obligations mentionnées au 1° de l'article R. 123-168.
 
 Est puni de la même peine le fait pour une entreprise exerçant l'activité de domiciliataire de ne pas s'être assurée que la personne domiciliée respecte les obligations mentionnées au 2° de l'article R. 123-168.

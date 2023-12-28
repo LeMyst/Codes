@@ -1,3 +1,5 @@
+# Article R822-3
+
 Le stage professionnel prévu au 5° de l'article L. 822-1-1 est d'une durée de trois ans.
 
 Il est ouvert aux personnes qui remplissent les conditions pour se présenter au certificat d'aptitude aux fonctions de commissaire aux comptes en application de l'article R. 822-2. (1)

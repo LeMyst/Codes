@@ -1,3 +1,5 @@
+# Article R233-5
+
 L'écart de première consolidation d'une société est réparti dans les postes appropriés du bilan consolidé ; la partie non affectée de cet écart est inscrite au poste "écart d'acquisition" à l'actif ou au passif du bilan consolidé.
 
 L'écart d'acquisition comptabilisé à l'actif est rapporté au résultat sur sa durée d'utilisation. Dans des cas exceptionnels, lorsque sa durée d'utilisation ne peut être déterminée de façon fiable, il est amorti sur une période de dix ans.

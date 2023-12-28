@@ -1,3 +1,5 @@
+# Article R752-29-5
+
 L'arrêté de suspension prévu aux articles R. 752-29-2 et R. 752-29-3 expose :
 
 1° Les objectifs poursuivis par la convention d'opération de revitalisation de territoire que le projet est susceptible de compromettre, pour l'application du premier alinéa de l'article L. 752-1-2 du présent code, ou de compromettre gravement, au sens du deuxième alinéa de ce même article ;

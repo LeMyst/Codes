@@ -1,3 +1,5 @@
+# Article R611-35
+
 Pour l'application de l'avant-dernier alinéa de l'article L. 611-7 ou du dernier alinéa de l'article L. 611-10-1, le débiteur assigne le créancier mentionné par ces dispositions devant le président du tribunal qui a ouvert la procédure de conciliation. Celui-ci statue sur les délais selon la procédure accélérée au fond après avoir recueilli les observations du conciliateur ou, le cas échéant, du mandataire à l'exécution de l'accord.
 
 La demande est, le cas échéant, portée à la connaissance de la juridiction saisie de la poursuite, qui surseoit à statuer jusqu'à la décision se prononçant sur les délais.

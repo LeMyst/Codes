@@ -1,3 +1,5 @@
+# Article R812-13
+
 I. - En application des dispositions du huitième alinéa de l'article L. 812-3, sont dispensés de stage professionnel :
 
 - les administrateurs judiciaires, les avocats, les notaires, les commissaires-priseurs judiciaires, les huissiers de justice, les greffiers des tribunaux de commerce, les anciens avoués, les experts-comptables, les commissaires aux comptes ayant exercé leur profession pendant dix ans au moins ;

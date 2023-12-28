@@ -1,3 +1,5 @@
+# Article R722-15
+
 Chaque année, dans la quinzaine de l'installation des juges nouvellement élus, le président du tribunal fixe, par ordonnance prise après avis de l'assemblée générale, le tableau des juges du tribunal de commerce. Ceux-ci sont inscrits sur le tableau dans l'ordre suivant :
 
 1° Le président du tribunal ;

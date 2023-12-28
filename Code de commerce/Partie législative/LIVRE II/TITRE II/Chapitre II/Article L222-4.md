@@ -1,3 +1,5 @@
+# Article L222-4
+
 Les statuts de la société doivent contenir les indications suivantes :
 
 1° Le montant ou la valeur des apports de tous les associés ;

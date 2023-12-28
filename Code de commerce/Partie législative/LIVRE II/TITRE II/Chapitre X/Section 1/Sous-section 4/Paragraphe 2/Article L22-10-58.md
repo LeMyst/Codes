@@ -1,3 +1,5 @@
+# Article L22-10-58
+
 Dans une société dont les titres sont admis aux négociations sur un marché réglementé, des options ouvrant droit à la souscription ou à l'achat d'actions ne peuvent être attribuées aux personnes mentionnées au quatrième alinéa de l'article L. 225-185 que si la société remplit au moins une des conditions suivantes au titre de l'exercice au cours duquel sont attribuées ces options :
 
 1° La société procède, dans les conditions prévues aux articles L. 225-177 à L. 225-186 et aux articles L. 22-10-56 et L. 22-10-57, à une attribution d'options au bénéfice de l'ensemble de ses salariés et d'au moins 90 % de l'ensemble des salariés de ses filiales au sens de l'article L. 233-1 et relevant de l'article L. 210-3 ;

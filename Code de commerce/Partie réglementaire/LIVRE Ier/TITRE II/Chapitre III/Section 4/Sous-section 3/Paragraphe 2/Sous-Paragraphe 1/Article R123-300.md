@@ -1,3 +1,5 @@
+# Article R123-300
+
 Pour les procédures ouvertes à compter du 1er janvier 2006, les informations suivantes ne font pas l'objet d'une mise à disposition du public :
 
 1° Les jugements rendus en matière de sauvegarde en cas de clôture de la procédure en application de l'article L. 622-12 et en cas d'exécution du plan constaté en application de l'article L. 626-28 ;

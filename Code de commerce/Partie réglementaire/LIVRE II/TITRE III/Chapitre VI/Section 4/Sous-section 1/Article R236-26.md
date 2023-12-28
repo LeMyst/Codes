@@ -1,3 +1,5 @@
+# Article R236-26
+
 I.-La demande des associés d'exercer leur droit de retrait prévu à l'article L. 236-40 est formée dans un délai de dix jours à compter de la date de la décision mentionnée à l'article L. 236-2.
 
 Cette demande est adressée à la société par voie électronique à l'adresse indiquée par la société ou par lettre recommandée avec accusé de réception adressée au siège social de la société.

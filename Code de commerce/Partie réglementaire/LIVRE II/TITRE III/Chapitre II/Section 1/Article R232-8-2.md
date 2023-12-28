@@ -1,3 +1,5 @@
+# Article R232-8-2
+
 I. - Le rapport relatif à l'impôt sur les bénéfices prévu par l'article L. 232-6 est présenté à l'aide d'un modèle et de formats de déclaration électroniques lisibles par machine publiés par arrêté du ministre chargé de l'économie.
 
 II. - Les informations du rapport sont présentées séparément pour :

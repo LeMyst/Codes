@@ -1,3 +1,5 @@
+# Article R823-7
+
 Dans leur rapport à l'assemblée générale ordinaire, les commissaires aux comptes précisent, outre les mentions prévues à l'article R. 822-56 :
 
 1° L'identité de la personne ou de l'entité dont ils certifient les comptes en précisant l'organe à qui le rapport est destiné ;

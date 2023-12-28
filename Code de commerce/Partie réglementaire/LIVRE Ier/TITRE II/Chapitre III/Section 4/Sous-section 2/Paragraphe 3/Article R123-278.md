@@ -1,3 +1,5 @@
+# Article R123-278
+
 Le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental procède à la validation des informations et pièces suivantes :
 
 1° Pour les personnes physiques, celles mentionnées aux articles R. 123-243 à R. 123-245, aux 2° et 3° de l'article R. 123-246 et aux articles R. 123-247 à R. 123-251 ;

@@ -1,3 +1,5 @@
+# Article R741-14
+
 L'élection des membres du Conseil national a lieu au scrutin uninominal majoritaire à un tour.
 
 Le vote a lieu par correspondance. Les bulletins doivent parvenir au président du Conseil national dans les dix jours à compter de la date d'ouverture du scrutin ; à l'issue de cette période, le scrutin est clos.

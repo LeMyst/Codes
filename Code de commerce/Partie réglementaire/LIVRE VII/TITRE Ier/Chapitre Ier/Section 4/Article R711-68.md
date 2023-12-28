@@ -1,3 +1,5 @@
+# Article R711-68
+
 Les établissements publics du réseau des chambres de commerce et d'industrie adoptent un règlement intérieur relatif à leur organisation et à leur fonctionnement, qui fixe, entre autres dispositions :
 
 1° Les conditions de fonctionnement de leurs différentes instances, en particulier l'assemblée générale, le comité directeur, le bureau, les délégations et les commissions, la périodicité de leurs réunions, les rapports avec les membres associés et les conseillers techniques ainsi que l'organisation administrative des services ;

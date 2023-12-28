@@ -1,3 +1,5 @@
+# Article L228-65
+
 I.-L'assemblée générale délibère sur toutes mesures ayant pour objet d'assurer la défense des intérêts communs des obligataires ainsi que sur toute proposition tendant à la modification du contrat et notamment :
 
 1° Sur toute proposition relative à la modification de l'objet ou de la forme de la société ;

@@ -1,3 +1,5 @@
+# Article L225-263
+
 Les participants à la société coopérative de main-d'oeuvre sont représentés aux assemblées générales de la société anonyme par des mandataires élus par ces participants, réunis en assemblée générale de la coopérative.
 
 Les mandataires élus doivent être choisis parmi les participants. Leur nombre est fixé par les statuts de la société anonyme.

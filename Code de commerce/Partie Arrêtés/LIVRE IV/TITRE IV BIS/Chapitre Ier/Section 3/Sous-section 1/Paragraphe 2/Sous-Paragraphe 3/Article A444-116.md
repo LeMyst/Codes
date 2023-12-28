@@ -1,3 +1,5 @@
+# Article A444-116
+
 Les prestations en matière de règlement de copropriété ou de descriptif (numéros 94 et 95 du tableau 5) donnent lieu à la perception d'un émolument :
 
 1° De 377,31 €, pour l'établissement de l'acte de règlement de copropriété ou du descriptif ;

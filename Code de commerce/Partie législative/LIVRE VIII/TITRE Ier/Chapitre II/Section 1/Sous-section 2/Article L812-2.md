@@ -1,3 +1,5 @@
+# Article L812-2
+
 I.-Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire s'il n'est inscrit sur la liste établie à cet effet par une commission nationale.
 
 II.-Toutefois, le tribunal peut, après avis du procureur de la République, désigner comme mandataire judiciaire une personne physique justifiant d'une expérience ou d'une qualification particulière au regard de la nature de l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L. 812-3. Il motive spécialement sa décision au regard de cette expérience ou de cette qualification particulière.

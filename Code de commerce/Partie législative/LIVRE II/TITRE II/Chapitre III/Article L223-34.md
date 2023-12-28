@@ -1,3 +1,5 @@
+# Article L223-34
+
 La réduction du capital est autorisée par l'assemblée des associés statuant dans les conditions exigées pour la modification des statuts. En aucun cas, elle ne peut porter atteinte à l'égalité des associés.
 
 S'il existe des commissaires aux comptes, le projet de réduction du capital leur est communiqué dans le délai fixé par décret en Conseil d'Etat. Ils font connaître à l'assemblée leur appréciation sur les causes et conditions de la réduction.

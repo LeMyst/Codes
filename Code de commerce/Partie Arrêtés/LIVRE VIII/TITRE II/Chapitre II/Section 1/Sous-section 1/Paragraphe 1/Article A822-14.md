@@ -1,3 +1,5 @@
+# Article A822-14
+
 Le stage est complété par des actions de formation dont le contenu, l'organisation et les modalités de mise en œuvre sont arrêtés par le conseil régional conformément au règlement de stage arrêté par le conseil national de la Compagnie nationale des commissaires aux comptes. Des dispenses peuvent, à titre exceptionnel et sur décision motivée, être octroyées par ce dernier.
 
 La durée de cette formation est d'au moins vingt-quatre jours sur les trois années de stage.

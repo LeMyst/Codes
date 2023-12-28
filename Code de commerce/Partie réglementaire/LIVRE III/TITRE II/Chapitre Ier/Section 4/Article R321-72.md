@@ -1,3 +1,5 @@
+# Article R321-72
+
 Lorsque l'urgence le justifie, le Conseil des maisons de vente peut suspendre provisoirement, par décision motivée, l'autorisation d'accès partiel aux activités de vente volontaire de meubles aux enchères publiques pour les motifs mentionnés à l'article R. 321-71.
 
 La décision de suspension est notifiée à l'intéressé par tout moyen conférant date certaine à sa réception.

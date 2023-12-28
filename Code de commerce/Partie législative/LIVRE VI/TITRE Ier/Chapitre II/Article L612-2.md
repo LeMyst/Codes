@@ -1,3 +1,5 @@
+# Article L612-2
+
 Les personnes morales de droit privé non commerçantes ayant une activité économique dont, soit le nombre de salariés, soit le montant hors taxes du chiffre d'affaires ou les ressources dépassent un seuil défini par décret en Conseil d'Etat, sont tenues d'établir une situation de l'actif réalisable et disponible, valeurs d'exploitation exclues, et du passif exigible, un compte de résultat prévisionnel, un tableau de financement et un plan de financement.
 
 La périodicité, les délais et les modalités d'établissement de ces documents sont précisés par décret.

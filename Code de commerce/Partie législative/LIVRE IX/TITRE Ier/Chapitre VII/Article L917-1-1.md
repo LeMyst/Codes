@@ -1,3 +1,5 @@
+# Article L917-1-1
+
 I.-Les dispositions relatives aux catégories et sous-catégories professionnelles prévues à la section 3 du chapitre III du titre Ier du livre VII ne sont pas applicables.
 
 II.-Les électeurs de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat sont répartis en trois collèges représentant :

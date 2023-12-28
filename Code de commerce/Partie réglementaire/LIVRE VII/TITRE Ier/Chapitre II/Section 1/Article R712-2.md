@@ -1,3 +1,5 @@
+# Article R712-2
+
 1° La tutelle administrative et financière de l'Etat sur CCI France est exercée par le ministre chargé de la tutelle des chambres de commerce et d'industrie ;
 
 2° La tutelle des chambres de commerce et d'industrie de région et des chambres de commerce et d'industrie territoriales est assurée par le préfet de région, assisté par le directeur régional des finances publiques.

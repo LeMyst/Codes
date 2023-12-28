@@ -1,3 +1,5 @@
+# Article L441-4
+
 I.-Le présent article est applicable à la convention mentionnée au I de l'article L. 441-3 lorsqu'elle est relative aux produits de grande consommation définis comme des produits non durables à forte fréquence et récurrence de consommation. La liste de ces produits de grande consommation est fixée par décret.
 
 II.-Le présent article n'est pas applicable au grossiste défini au I de l'article L. 441-1-2.

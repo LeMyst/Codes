@@ -1,3 +1,5 @@
+# Article A823-18
+
 La norme d'exercice professionnel relative à la continuité d'exploitation, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 NEP-570. CONTINUITÉ D'EXPLOITATION

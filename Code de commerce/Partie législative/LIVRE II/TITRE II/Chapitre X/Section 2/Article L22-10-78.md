@@ -1,3 +1,5 @@
+# Article L22-10-78
+
 Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, le rapport sur le gouvernement d'entreprise mentionné à l'article L. 226-10-1 comporte les informations, le cas échéant adaptées aux sociétés en commandite par actions, mentionnées à l'article L. 225-37-4 et aux articles L. 22-10-10 et L. 22-10-11.
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, le rapport sur le gouvernement d'entreprise comporte également les informations mentionnées à l'article L. 22-10-9.

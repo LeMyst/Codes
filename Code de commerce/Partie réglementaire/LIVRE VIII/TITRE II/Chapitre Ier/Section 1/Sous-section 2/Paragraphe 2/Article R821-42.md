@@ -1,3 +1,5 @@
+# Article R821-42
+
 Le Conseil national se réunit au moins une fois par semestre.
 
 Il peut être convoqué aussi souvent qu'il est nécessaire, par le président, après avis du bureau.

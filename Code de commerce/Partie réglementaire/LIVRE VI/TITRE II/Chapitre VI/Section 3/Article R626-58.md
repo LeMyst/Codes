@@ -1,3 +1,5 @@
+# Article R626-58
+
 I. ‒ Pour l'application du V de l'article L. 626-30, l'administrateur arrête le montant, calculé toutes taxes comprises, des créances détenues par les membres des classes appelées à se prononcer.
 
 Au moins vingt et un jours avant la date du vote, il notifie à chaque partie affectée, sur le fondement du V de l'article L. 620-30, les modalités de répartition en classes et de calcul des voix retenues, au sein de la ou des classes auxquelles elle est affectée. Par le même acte, l'administrateur précise les critères retenus pour la composition des classes de parties affectées et dresse la liste de celles-ci. L'administrateur soumet également ces modalités de répartition et de calcul au débiteur et au mandataire judiciaire. Il en informe le ministère public.

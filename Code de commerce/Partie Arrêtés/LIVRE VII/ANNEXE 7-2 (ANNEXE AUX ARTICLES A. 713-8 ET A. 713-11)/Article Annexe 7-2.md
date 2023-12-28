@@ -1,3 +1,5 @@
+# Article Annexe 7-2
+
 ÉLECTION DES MEMBRES DES CHAMBRES DE COMMERCE ET D'INDUSTRIE TERRITORIALES
 
 Vous pouvez consulter le JORF n° 0234 du 7 octobre 2021, texte n° 36, à l'adresse suivante :

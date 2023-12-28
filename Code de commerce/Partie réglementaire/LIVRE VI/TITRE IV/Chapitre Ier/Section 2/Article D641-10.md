@@ -1,3 +1,5 @@
+# Article D641-10
+
 Les seuils prévus par l'article L. 641-2, pour l'application obligatoire de la procédure de liquidation judiciaire simplifiée, sont fixés pour le chiffre d'affaires hors taxes à 750 000 € et pour le nombre de salariés à 5.
 
 Les seuils prévus par l'article L. 644-5 sont fixés pour le chiffre d'affaires hors taxes à 300 000 € et pour le nombre de salariés à 1.

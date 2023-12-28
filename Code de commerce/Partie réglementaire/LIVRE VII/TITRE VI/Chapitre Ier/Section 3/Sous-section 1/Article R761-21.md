@@ -1,3 +1,5 @@
+# Article R761-21
+
 En l'absence de périmètre de référence, l'extension ou la réduction de l'enceinte du marché ainsi que son transfert à l'intérieur d'un même département sont décidés par le gestionnaire.
 
 Si un tel périmètre a été créé :

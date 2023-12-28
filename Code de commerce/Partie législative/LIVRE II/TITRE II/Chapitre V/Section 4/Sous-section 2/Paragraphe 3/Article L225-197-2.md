@@ -1,3 +1,5 @@
+# Article L225-197-2
+
 I.-Des actions peuvent être attribuées, dans les mêmes conditions que celles mentionnées à l'article L. 225-197-1 :
 
 1° Soit au bénéfice des membres du personnel salarié des sociétés ou des groupements d'intérêt économique dont 10 % au moins du capital ou des droits de vote sont détenus, directement ou indirectement, par la société qui attribue les actions ;

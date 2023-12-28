@@ -1,3 +1,5 @@
+# Article R131-10
+
 Le montant de la garantie accordée à un courtier de marchandises assermenté ne peut être inférieur à la plus élevée des deux sommes suivantes :
 
 1° Le chiffre moyen mensuel des ventes, taxes comprises et net d'honoraires, réalisé par le courtier de marchandises assermenté au cours de l'exercice précédent ;

@@ -1,3 +1,5 @@
+# Article L511-44
+
 Tous ceux qui ont tiré, accepté, endossé ou avalisé une lettre de change sont tenus solidairement envers le porteur.
 
 Le porteur a le droit d'agir contre toutes ces personnes, individuellement ou collectivement, sans être astreint à observer l'ordre dans lequel elles se sont obligées.

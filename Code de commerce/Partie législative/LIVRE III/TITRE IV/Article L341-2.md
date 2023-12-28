@@ -1,3 +1,5 @@
+# Article L341-2
+
 I.-Toute clause ayant pour effet, après l'échéance ou la résiliation d'un des contrats mentionnés à l'article L. 341-1, de restreindre la liberté d'exercice de l'activité commerciale de l'exploitant qui a précédemment souscrit ce contrat est réputée non écrite.
 
 II.-Ne sont pas soumises au I du présent article les clauses dont la personne qui s'en prévaut démontre qu'elles remplissent les conditions cumulatives suivantes :

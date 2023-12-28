@@ -1,3 +1,5 @@
+# Article L223-14
+
 Les parts sociales ne peuvent être cédées à des tiers étrangers à la société qu'avec le consentement de la majorité des associés représentant au moins la moitié des parts sociales, à moins que les statuts prévoient une majorité plus forte.
 
 Lorsque la société comporte plus d'un associé, le projet de cession est notifié à la société et à chacun des associés. Si la société n'a pas fait connaître sa décision dans le délai de trois mois à compter de la dernière des notifications prévues au présent alinéa, le consentement à la cession est réputé acquis.

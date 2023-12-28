@@ -1,3 +1,5 @@
+# Article A712-3
+
 Pour l'application du barème fixé à l'article A. 712-2 :
 
 1° CCI France relève de la catégorie 5 ;

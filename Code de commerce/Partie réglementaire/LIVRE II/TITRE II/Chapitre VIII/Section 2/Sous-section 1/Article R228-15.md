@@ -1,3 +1,5 @@
+# Article R228-15
+
 En cas de conversion d'actions de préférence en actions aboutissant à une réduction de capital non motivée par des pertes, les dispositions de l'article R. 225-152 s'appliquent.
 
 Une décision de justice rejette l'opposition ou ordonne soit le remboursement des créances, soit la constitution de garanties si la société en offre et si elles sont jugées suffisantes.

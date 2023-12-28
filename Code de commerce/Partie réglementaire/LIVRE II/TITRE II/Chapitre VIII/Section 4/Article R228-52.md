@@ -1,3 +1,5 @@
+# Article R228-52
+
 Les titres participatifs remis aux souscripteurs contiennent les indications suivantes :
 
 1° La dénomination sociale, suivie, le cas échéant, de son sigle ;

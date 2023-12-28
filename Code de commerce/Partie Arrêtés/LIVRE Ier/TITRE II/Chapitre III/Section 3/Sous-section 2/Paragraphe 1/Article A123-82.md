@@ -1,3 +1,5 @@
+# Article A123-82
+
 Sont de plus habilités à demander l'inscription au répertoire national mentionné à l'article R. 123-220 ou la modification des renseignements figurant dans ce même répertoire :
 
 1° Les ministères, pour les services et établissements qui les concernent : les services d'administration centrale, services déconcentrés de l'Etat et établissements publics nationaux non soumis à immatriculation au registre du commerce et des sociétés ;

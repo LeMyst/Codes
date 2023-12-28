@@ -1,3 +1,5 @@
+# Article R236-38
+
 I.-Lorsqu'il est fait application du premier alinéa de l'article L. 236-48, le projet d'apport partiel d'actifs contient les indications mentionnées aux articles R. 236-21, à l'exception de celles prévues aux 3°, 4°, 6° et 13°, et R. 236-36, à l'exception de celles prévues au 4°, ainsi que les indications suivantes :
 
 1° Toute modification des statuts de la société qui apporte une partie de son actif ;

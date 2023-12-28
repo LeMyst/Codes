@@ -1,3 +1,5 @@
+# Article R225-83
+
 La société adresse aux actionnaires ou met à leur disposition, dans les conditions prévues aux articles R. 225-88 et R. 225-89, les renseignements suivants contenus dans un ou plusieurs documents :
 
 1° Les nom et prénom usuel, soit des administrateurs et directeurs généraux, soit des membres du conseil de surveillance et du directoire, ainsi que, le cas échéant, l'indication des autres sociétés dans lesquelles ces personnes exercent des fonctions de gestion, de direction, d'administration ou de surveillance ;

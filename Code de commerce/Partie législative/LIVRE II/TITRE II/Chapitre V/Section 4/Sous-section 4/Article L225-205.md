@@ -1,3 +1,5 @@
+# Article L225-205
+
 Lorsque l'assemblée approuve un projet de réduction du capital non motivée par des pertes, le représentant de la masse des obligataires et les créanciers dont la créance est antérieure à la date de dépôt au greffe du procès-verbal de délibération peuvent former opposition à la réduction, dans le délai fixé par décret en Conseil d'Etat.
 
 Une décision de justice rejette l'opposition ou ordonne, soit le remboursement des créances, soit la constitution de garanties si la société en offre et si elles sont jugées suffisantes.

@@ -1,3 +1,5 @@
+# Article R643-11
+
 Les contestations sont formées dans le délai de trente jours à compter de l'insertion au Bulletin officiel des annonces civiles et commerciales avisant du dépôt de l'état de collocation. Elles sont faites par requête remise ou adressée au greffe du juge de l'exécution du tribunal judiciaire devant lequel s'est déroulée la procédure de liquidation judiciaire ou dans le ressort duquel la procédure s'est déroulée.
 
 La contestation est, à peine d'irrecevabilité, dénoncée, dans les dix jours de son dépôt au greffe, aux créanciers en cause et au liquidateur par acte d'huissier de justice. Cet acte indique que les créanciers et le liquidateur doivent constituer avocat dans le délai de quinze jours à compter de la dénonciation.

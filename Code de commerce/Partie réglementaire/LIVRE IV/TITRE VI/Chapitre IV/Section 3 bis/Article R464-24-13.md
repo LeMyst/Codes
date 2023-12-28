@@ -1,3 +1,5 @@
+# Article R464-24-13
+
 Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties à l'instance se communiquent leurs observations écrites, les adressent au ministre chargé de l'économie et en déposent copie au greffe de la cour.
 
 Il fixe les délais dans lesquels le ministre chargé de l'économie peut produire des observations écrites.

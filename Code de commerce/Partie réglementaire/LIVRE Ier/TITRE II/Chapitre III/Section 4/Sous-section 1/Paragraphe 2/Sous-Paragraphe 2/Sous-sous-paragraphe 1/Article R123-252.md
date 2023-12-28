@@ -1,3 +1,5 @@
+# Article R123-252
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la société à l'occasion de son immatriculation, les éléments suivants relatifs à la personne morale :
 
 1° Sa raison ou sa dénomination sociale suivie, le cas échéant, de son sigle ;

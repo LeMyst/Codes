@@ -1,3 +1,5 @@
+# Article A444-105
+
 Le bail par adjudication, y compris le cahier des charges (numéro 79 du tableau 5) donne lieu, à la perception d'un émolument proportionnel selon le barème suivant :
 
 | Tranches d'assiette |

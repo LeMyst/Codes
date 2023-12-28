@@ -1,3 +1,5 @@
+# Article L724-3-2
+
 La cessation des fonctions pour quelque cause que ce soit ne fait pas obstacle à l'engagement de poursuites et au prononcé de sanctions disciplinaires.
 
 Dans ce cas, les sanctions disciplinaires applicables sont :

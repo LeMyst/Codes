@@ -1,3 +1,5 @@
+# Article R824-5
+
 L'enquêteur peut convoquer et entendre toute personne susceptible de lui fournir tout renseignement utile à l'accomplissement de sa mission.
 
 La convocation est adressée à l'intéressé huit jours au moins avant la date de l'audition, sauf renonciation à ce délai par la personne concernée. Elle fait référence à l'ordre de mission et rappelle à la personne convoquée qu'elle peut se faire assister du conseil de son choix.

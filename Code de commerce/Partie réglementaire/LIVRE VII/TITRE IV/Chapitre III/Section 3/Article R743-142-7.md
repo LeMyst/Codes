@@ -1,3 +1,5 @@
+# Article R743-142-7
+
 I.-Pour la catégorie des actes de la procédure de rétablissement professionnel mentionnée au tableau 2 de l'article annexe 4-7, l'émolument se décompose en :
 
 1° Un émolument principal et un forfait de transmission, fixes par débiteur ;

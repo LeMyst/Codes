@@ -1,3 +1,5 @@
+# Article L937-13
+
 Pour l'application de la section 3 du chapitre III du titre II du livre VII, les dispositions suivantes sont ajoutées :
 
 "I. - A la liste des candidats déclarés élus, la commission prévue par l'article L. 723-13 annexe une liste complémentaire comprenant les nom, qualité et domicile des candidats non élus. Ces candidats sont classés dans l'ordre décroissant du nombre de voix qu'ils ont obtenues. A égalité de voix, ils sont classés dans l'ordre décroissant de leur âge.

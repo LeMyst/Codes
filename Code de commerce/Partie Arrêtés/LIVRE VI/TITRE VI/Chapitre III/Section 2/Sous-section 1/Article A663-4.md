@@ -1,3 +1,5 @@
+# Article A663-4
+
 L'émolument prévu au premier alinéa de l'article R. 663-4 au titre du diagnostic de la procédure de sauvegarde ou de redressement judiciaire (numéro 1 du tableau 4-1), est ainsi fixé :
 
 1° Lorsque le total du bilan du débiteur est inférieur à 3 650 000 €, cet émolument varie en fonction du nombre de salariés employés par le débiteur ou du montant de son chiffre d'affaires, selon le barème suivant :

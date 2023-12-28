@@ -1,3 +1,5 @@
+# Article R321-31-1
+
 La formation professionnelle continue prévue par l'article L. 321-4-1 assure la mise à jour et le perfectionnement des connaissances nécessaires à l'exercice de sa profession par la personne qui dirige des ventes volontaires de meubles aux enchères publiques.
 
 La durée de la formation continue est de vingt heures au cours d'une année civile ou de quarante heures au cours de deux années consécutives.

@@ -1,3 +1,5 @@
+# Article A444-103
+
 Les baux de gré à gré et les sous-baux (numéros 70 à 77 du tableau 5) donnent lieu, à la perception :
 
 1° S'il s'agit d'un bail d'habitation ou professionnel et d'habitation, sans préjudice des honoraires éventuellement perçus au titre de la prestation mentionnée au b du 4° du I de l'article annexe 4-9, d'un émolument égal à un demi-mois de loyer ;

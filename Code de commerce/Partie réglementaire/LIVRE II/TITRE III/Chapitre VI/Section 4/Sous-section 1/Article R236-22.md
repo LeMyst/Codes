@@ -1,3 +1,5 @@
+# Article R236-22
+
 Les sociétés participant à l'opération de fusion qui sont immatriculées en France déposent au greffe du tribunal de commerce de leur siège un avis relatif au projet de fusion transfrontalière.
 
 Cet avis contient les indications suivantes :

@@ -1,3 +1,5 @@
+# Article R210-7
+
 Lors de la constitution d'une société par actions avec offre au public, les actes accomplis pour le compte de la société en formation conformément au deuxième alinéa de l'article L. 210-6 sont soumis à l'assemblée générale constitutive, après qu'ont été désignés les premiers membres du conseil d'administration ou du conseil de surveillance et les premiers commissaires aux comptes. Ces dispositions ne sont pas applicables lors de la constitution d'une société par actions avec offre au public mentionnée au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code.
 
 Le rapport des fondateurs énumère chacun de ces actes et indique l'engagement qui en résulterait pour la société.

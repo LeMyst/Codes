@@ -1,3 +1,5 @@
+# Article L522-37-3
+
 Les marchandises fongibles représentées par un reçu d'entreposage peuvent être remplacées par des marchandises de même nature, de même espèce et de même qualité.
 
 Il peut être délivré un reçu d'entreposage représentant un lot de marchandises fongibles à prendre dans un lot plus important.

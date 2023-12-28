@@ -1,3 +1,5 @@
+# Article R814-87
+
 Le nom de chacun des associés sur la liste nationale des administrateurs judiciaires ou sur la liste nationale des mandataires judiciaires est suivi de la mention de la raison ou dénomination sociale de la société au sein de laquelle il exerce.
 
 En annexe de la liste nationale est dressée la liste des sociétés avec les indications suivantes :

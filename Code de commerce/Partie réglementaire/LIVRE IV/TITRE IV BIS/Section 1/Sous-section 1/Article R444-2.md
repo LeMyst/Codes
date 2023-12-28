@@ -1,3 +1,5 @@
+# Article R444-2
+
 Pour l'application du présent titre, sont retenues les définitions suivantes :
 
 1° “ Tarif ” : ensemble des éléments permettant la détermination du montant des émoluments et des remboursements forfaitaires dus aux professionnels mentionnés au premier alinéa de l'article L. 444-1 au titre de leurs prestations soumises à une régulation ;

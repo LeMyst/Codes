@@ -1,3 +1,5 @@
+# Article L522-16
+
 Les marchandises susceptibles d'être warrantées ou représentées par un reçu d'entreposage sont obligatoirement assurées contre l'incendie par les polices générales du magasin.
 
 Toutefois, pour les exploitants de magasins généraux établis dans les ports maritimes, cette obligation est suspendue à l'égard des marchandises entreposées couvertes par une assurance maritime tant que cette assurance garantit ces risques.

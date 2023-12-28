@@ -1,3 +1,5 @@
+# Article R812-8
+
 La durée du stage est de trois ans au moins et de six ans au plus.
 
 Le stage consiste dans la pratique d'activités permettant d'acquérir une expérience suffisante dans le domaine des procédures collectives, en qualité de collaborateur d'un mandataire judiciaire et sous son contrôle direct.

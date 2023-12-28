@@ -1,3 +1,5 @@
+# Article R521-9
+
 I. Lorsque les ventes ou cessions de fonds de commerce comprennent des marques de produits ou de services, des dessins ou modèles industriels et des droits d'exploitation de logiciels nantis et que les nantissements de ces fonds comprennent des brevets d'invention ou licences, des marques ou des dessins et modèles et des droits d'exploitation de logiciels, le greffier délivre un certificat d'inscription qui comprend les mentions suivantes :
 
 1° La nature, la date et le numéro d'ordre de l'inscription effectuée au greffe ;

@@ -1,3 +1,5 @@
+# Article A444-99
+
 Les ventes, cessions à titre gratuit ou apports de terrains à bâtir, équipés ou avec obligation, pour le vendeur, de les équiper, consentis par les départements, communes, établissements publics et sociétés d'équipement, à des organismes d'HLM (numéro 65 du tableau 5) donnent lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

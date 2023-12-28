@@ -1,3 +1,5 @@
+# Article R917-26
+
 A l'article R. 713-19 :
 
 a) Au premier alinéa, les mots : " catégorie ou sous-catégorie " sont remplacés par le mot : " collège " ;

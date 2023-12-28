@@ -1,3 +1,5 @@
+# Article L643-8
+
 I.-Sans préjudice du droit de propriété ou de rétention opposable à la procédure collective et des dispositions des articles L. 622-17 et L. 641-13, le montant de l'actif distribuable est réparti dans l'ordre suivant :
 
 1° Les subsides prévus à l'article L. 631-11 restés impayés ;

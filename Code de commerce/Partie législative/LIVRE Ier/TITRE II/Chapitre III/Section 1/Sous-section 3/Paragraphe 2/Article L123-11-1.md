@@ -1,3 +1,5 @@
+# Article L123-11-1
+
 Toute personne morale est autorisée à installer son siège au domicile de son représentant légal et y exercer une activité, sauf dispositions législatives ou stipulations contractuelles contraires.
 
 Lorsque la personne morale est soumise à des dispositions législatives ou stipulations contractuelles mentionnées à l'alinéa précédent, son représentant légal peut en installer le siège à son domicile, pour une durée ne pouvant ni excéder cinq ans à compter de la création de celle-ci, ni dépasser le terme légal, contractuel ou judiciaire de l'occupation des locaux.

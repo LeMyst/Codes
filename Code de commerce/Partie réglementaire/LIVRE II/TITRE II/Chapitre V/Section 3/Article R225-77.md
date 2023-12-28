@@ -1,3 +1,5 @@
+# Article R225-77
+
 La date après laquelle il ne sera plus tenu compte des formulaires de vote reçus par la société ne peut être antérieure de plus de trois jours à la date de la réunion de l'assemblée, sauf délai plus court prévu par les statuts. Toutefois, les formulaires électroniques de vote à distance peuvent être reçus par la société jusqu'à la veille de la réunion de l'assemblée générale, au plus tard à 15 heures, heure de Paris.
 
 Les formulaires de vote par correspondance reçus par la société comportent :

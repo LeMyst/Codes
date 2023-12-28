@@ -1,3 +1,5 @@
+# Article R814-7
+
 Il est attribué à chaque liste autant d'élus que le nombre de suffrages lui revenant contient de fois le quotient électoral. Le quotient électoral est égal au nombre total des suffrages obtenus par les différentes listes divisé par le nombre de délégués à élire.
 
 Au cas où aucun siège ne peut être pourvu ou s'il reste des sièges à pourvoir, les sièges restants sont attribués sur la base de la plus forte moyenne.

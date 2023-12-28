@@ -1,3 +1,5 @@
+# Article L229-9
+
 Si la société européenne n'a plus son administration centrale en France, tout intéressé peut demander au tribunal la régularisation de la situation par le transfert du siège social ou le rétablissement de l'administration centrale au lieu du siège social en France, le cas échéant sous astreinte.
 
 Le tribunal fixe une durée maximale pour cette régularisation.

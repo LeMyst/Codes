@@ -1,3 +1,5 @@
+# Article R611-27
+
 En application de l'article L. 611-6, le débiteur peut demander la récusation du conciliateur si ce dernier se trouve dans l'une des situations suivantes :
 
 1° Il a directement ou indirectement un intérêt personnel à la procédure ;

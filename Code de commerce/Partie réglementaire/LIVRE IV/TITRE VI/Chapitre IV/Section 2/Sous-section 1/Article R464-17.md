@@ -1,3 +1,5 @@
+# Article R464-17
+
 Lorsque le recours risque d'affecter les droits ou les charges d'autres personnes qui étaient parties en cause devant l'Autorité de la concurrence, ces personnes peuvent intervenir à l'instance devant la cour d'appel.
 
 L'intervention volontaire est formée, à peine d'irrecevabilité relevée d'office, par déclaration écrite et motivée déposée au greffe dans les conditions prévues à l'article R. 464-12 dans le délai d'un mois à compter de la réception de la notification prévue au troisième alinéa de l'article R. 464-15.

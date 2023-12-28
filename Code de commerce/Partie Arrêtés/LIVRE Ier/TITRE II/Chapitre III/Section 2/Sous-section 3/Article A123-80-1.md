@@ -1,3 +1,5 @@
+# Article A123-80-1
+
 La déclaration prévue à l'article L. 123-29 comporte, pièces justificatives à l'appui, les éléments suivants :
 
 1° Pour une personne morale, la raison sociale ou la dénomination suivie, le cas échéant, du sigle, l'activité et l'adresse du siège social ainsi que les nom de naissance et, le cas échéant, nom d'usage, prénoms, date, lieu de naissance, nationalité de leur représentant légal ;

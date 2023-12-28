@@ -1,3 +1,5 @@
+# Article L622-6
+
 Dès l'ouverture de la procédure, il est dressé un inventaire du patrimoine du débiteur qui constitue le gage de ses créanciers professionnels ainsi que des garanties qui le grèvent. Cet inventaire, remis à l'administrateur et au mandataire judiciaire, est complété par le débiteur par la mention des biens qu'il détient susceptibles d'être revendiqués par un tiers. Le débiteur entrepreneur y fait en outre figurer les biens détenus dans le cadre de l'activité à raison de laquelle la procédure a été ouverte qui sont compris dans un autre de ses patrimoines et dont il est susceptible de demander la reprise dans les conditions prévues par l'article L. 624-19.
 
 Le débiteur remet à l'administrateur et au mandataire judiciaire, pour les besoins de l'exercice de leur mandat, la liste de ses créanciers, du montant de ses dettes et des principaux contrats en cours. Il les informe des instances en cours auxquelles il est partie.

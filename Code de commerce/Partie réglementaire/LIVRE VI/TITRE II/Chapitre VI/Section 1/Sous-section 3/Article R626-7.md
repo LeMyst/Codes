@@ -1,3 +1,5 @@
+# Article R626-7
+
 I.-Pour l'application des deuxième et troisième alinéas de l'article L. 626-5, les propositions pour le règlement des dettes sont communiquées par lettre recommandée avec demande d'avis de réception, par le mandataire judiciaire, à chaque créancier consulté ayant déclaré sa créance.
 
 II.-La lettre adressée aux créanciers auxquels sont proposés des délais et remises précise la forme choisie pour la consultation. En cas de consultation individuelle, elle contient la reproduction des dispositions des deux premières phrases du deuxième alinéa de l'article L. 626-5. En cas de consultation collective, elle comporte la convocation prévue à l'article R. 626-8.

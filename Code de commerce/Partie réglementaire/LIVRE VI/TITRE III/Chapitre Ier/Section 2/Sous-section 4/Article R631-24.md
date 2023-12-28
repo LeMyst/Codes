@@ -1,3 +1,5 @@
+# Article R631-24
+
 Aux fins de prononcé de la liquidation judiciaire, le tribunal est saisi par voie de requête ou, le cas échéant, dans les formes et selon la procédure prévues aux articles R. 631-3 ou R. 631-4.
 
 Le jugement qui prononce la liquidation judiciaire est notifié au débiteur dans les huit jours de son prononcé. Lorsque le débiteur n'est pas demandeur, le jugement lui est signifié dans le même délai.

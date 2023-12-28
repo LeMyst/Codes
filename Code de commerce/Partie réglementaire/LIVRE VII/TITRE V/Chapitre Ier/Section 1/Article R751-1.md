@@ -1,3 +1,5 @@
+# Article R751-1
+
 Dans chaque département, un arrêté préfectoral, publié au recueil des actes administratifs, désigne :
 
 1° Sur proposition de l'association des maires du département, parmi les membres des organes délibérants des communes et établissements publics de coopération intercommunale du département, dans la limite de trois personnes par catégorie, les personnes mentionnées aux f et g du 1° du II de l'article L. 751-2 et aux f et g du 1° du IV du même article. En cas de pluralité d'associations, ces personnes sont désignées par accord entre les présidents d'associations des maires du département ou, à défaut d'accord, par le préfet. Leur mandat de trois ans est renouvelable une fois. Il prend fin dès que cesse leur mandat d'élu ;

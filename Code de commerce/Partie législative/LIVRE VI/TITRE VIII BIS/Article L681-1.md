@@ -1,3 +1,5 @@
+# Article L681-1
+
 Toute demande d'ouverture d'une procédure prévue aux titres II à IV du présent livre ou d'une procédure de surendettement prévue au livre VII du code de la consommation à l'égard d'un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V du présent code est portée devant le tribunal compétent pour connaître des procédures prévues aux titres II à IV du présent livre.
 
 Sous réserve des règles propres au rétablissement professionnel, le tribunal, saisi d'une telle demande, apprécie à la fois :

@@ -1,3 +1,5 @@
+# Article L225-218
+
 L'assemblée générale ordinaire peut désigner un ou plusieurs commissaires aux comptes dans les conditions prévues aux articles L. 225-228 et L. 22-10-66.
 
 Sont tenues de désigner au moins un commissaire aux comptes les sociétés qui dépassent, à la clôture d'un exercice social, les seuils fixés par décret pour deux des trois critères suivants : le total de leur bilan, le montant de leur chiffre d'affaires hors taxes ou le nombre moyen de leurs salariés au cours de l'exercice.

@@ -1,3 +1,5 @@
+# Article R22-10-11
+
 L'assemblée générale constitutive est convoquée au lieu indiqué par la notice prévue à l'article R. 22-10-3.
 
 L'avis de convocation indique la dénomination sociale et la forme de la société, l'adresse prévue du siège social, le montant du capital social, les jour, heure, lieu et ordre du jour de l'assemblée.

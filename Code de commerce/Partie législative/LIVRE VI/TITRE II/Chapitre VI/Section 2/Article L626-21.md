@@ -1,3 +1,5 @@
+# Article L626-21
+
 L'inscription d'une créance au plan et l'acceptation par le créancier de délais, remises ou conversions en titres donnant ou pouvant donner accès au capital ne préjugent pas l'admission définitive de la créance au passif.
 
 Lorsque le mandataire judiciaire a proposé l'admission d'une créance et que le juge-commissaire n'a été saisi d'aucune contestation sur tout ou partie de cette créance, les versements y afférents sont effectués à titre provisionnel dès que la décision arrêtant le plan est devenue définitive, à condition que cette décision le prévoie.

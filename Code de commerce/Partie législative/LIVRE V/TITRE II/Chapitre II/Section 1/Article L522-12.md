@@ -1,3 +1,5 @@
+# Article L522-12
+
 L'arrêté préfectoral autorisant l'ouverture du magasin général soumet son exploitant à l'obligation d'un cautionnement.
 
 Sont soumis à la même obligation les établissements visés à l'article L. 522-8.

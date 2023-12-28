@@ -1,3 +1,5 @@
+# Article R814-52
+
 Dans le mois de leur inscription, les administrateurs judiciaires et les mandataires judiciaires prêtent serment devant la cour d'appel dans le ressort de laquelle est situé leur domicile professionnel, en ces termes : " Je jure d'exercer mes fonctions avec honneur, dignité, indépendance et probité, et de me conformer en toute occasion aux lois et règlements de ma profession ".
 
 Ils ne peuvent exercer leurs fonctions qu'à compter du jour de leur prestation de serment.

@@ -1,3 +1,5 @@
+# Article L442-4
+
 I.-Pour l'application des articles L. 442-1, L. 442-2, L. 442-3, L. 442-7 et L. 442-8, l'action est introduite devant la juridiction civile ou commerciale compétente par toute personne justifiant d'un intérêt, par le ministère public, par le ministre chargé de l'économie ou par le président de l'Autorité de la concurrence lorsque ce dernier constate, à l'occasion des affaires qui relèvent de sa compétence, une pratique mentionnée aux articles précités.
 
 Toute personne justifiant d'un intérêt peut demander à la juridiction saisie d'ordonner la cessation des pratiques mentionnées aux articles L. 442-1, L. 442-2, L. 442-3, L. 442-7 et L. 442-8 ainsi que la réparation du préjudice subi. Seule la partie victime des pratiques prévues aux articles L. 442-1, L. 442-2, L. 442-3, L. 442-7 et L. 442-8 peut faire constater la nullité des clauses ou contrats illicites et demander la restitution des avantages indus.

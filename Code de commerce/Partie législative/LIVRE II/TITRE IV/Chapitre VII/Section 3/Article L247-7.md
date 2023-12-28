@@ -1,3 +1,5 @@
+# Article L247-7
+
 Est puni de 150 000 € d'amende le fait, pour un liquidateur en cas de liquidation judiciaire d'une société, de :
 
 1° Ne pas déposer sur un compte ouvert dans un établissement de crédit au nom de la société en liquidation, dans le délai de quinze jours à compter de la décision de répartition, les sommes réparties entre les associés et les créanciers ;

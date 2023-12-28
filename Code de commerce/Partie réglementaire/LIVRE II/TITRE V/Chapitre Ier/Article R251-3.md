@@ -1,3 +1,5 @@
+# Article R251-3
+
 L'information prévue à l'article L. 251-15 que le commissaire aux comptes adresse aux administrateurs porte sur tout fait qu'il relève lors de l'examen des documents qui lui sont communiqués ou sur tout fait dont il a connaissance à l'occasion de l'exercice de sa mission.
 
 Les administrateurs répondent par lettre recommandée avec demande d'avis de réception dans les quinze jours qui suivent la réception de l'information mentionnée ci-dessus et adressent copie de la demande et de sa réponse, dans les mêmes formes et les mêmes délais, au comité d'entreprise. Dans leur réponse, ils donnent une analyse de la situation et précisent, le cas échéant, les mesures envisagées. Le commissaire aux comptes informe immédiatement le président du tribunal compétent de l'existence de cette procédure par lettre remise en mains propres contre récépissé au président ou à son délégataire, ou par lettre recommandée avec demande d'avis de réception.

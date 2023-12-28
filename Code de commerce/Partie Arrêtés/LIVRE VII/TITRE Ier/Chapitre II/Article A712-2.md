@@ -1,3 +1,5 @@
+# Article A712-2
+
 L'indemnité mensuelle globale de frais de mandat que l'assemblée générale de CCI France et de chaque chambre de commerce et d'industrie territoriale et de région peut attribuer aux membres de son bureau est fixée dans les limites du barème suivant :
 
 |

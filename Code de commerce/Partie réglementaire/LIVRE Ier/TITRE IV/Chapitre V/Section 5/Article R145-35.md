@@ -1,3 +1,5 @@
+# Article R145-35
+
 Ne peuvent être imputés au locataire :
 
 1° Les dépenses relatives aux grosses réparations mentionnées à l'article 606 du code civil ainsi que, le cas échéant, les honoraires liés à la réalisation de ces travaux ;

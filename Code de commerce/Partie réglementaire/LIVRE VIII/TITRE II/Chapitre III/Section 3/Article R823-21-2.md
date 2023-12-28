@@ -1,3 +1,5 @@
+# Article R823-21-2
+
 Le commissaire aux comptes qui, en application du III de l'article L. 823-18, demande à être autorisé à dépasser le plafond d'honoraires prévu au II du même article adresse au bureau du Haut conseil une demande comprenant :
 
 1° Les documents relatifs aux honoraires facturés, au cours des trois derniers exercices, pour sa mission de certification des comptes annuels et consolidés de l'entité d'intérêt public dont il est chargé de certifier les comptes et, le cas échéant, de la personne qui la contrôle et des personnes qui sont contrôlées par elle, au sens des I et II de l'article L. 233-3 ;

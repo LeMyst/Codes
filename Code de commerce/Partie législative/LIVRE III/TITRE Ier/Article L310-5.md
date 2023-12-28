@@ -1,3 +1,5 @@
+# Article L310-5
+
 Est puni d'une amende de 15 000 euros :
 
 1° Le fait de procéder à une liquidation sans la déclaration préalable mentionnée à l'article L. 310-1 ou en méconnaissance des conditions prévues à cet article ;

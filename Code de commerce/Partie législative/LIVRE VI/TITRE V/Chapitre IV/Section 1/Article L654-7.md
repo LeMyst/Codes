@@ -1,3 +1,5 @@
+# Article L654-7
+
 Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes :
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;

@@ -1,3 +1,5 @@
+# Article A822-4
+
 Les épreuves d'admissibilité comportent :
 
 1° Une épreuve écrite, sous forme de cas pratique, portant sur la comptabilité et l'audit, d'une durée de cinq heures (coefficient 4) ;

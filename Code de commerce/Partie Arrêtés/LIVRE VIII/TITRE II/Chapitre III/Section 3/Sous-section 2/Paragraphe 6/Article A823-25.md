@@ -1,3 +1,5 @@
+# Article A823-25
+
 La norme d'exercice professionnel relative à l'utilisation des travaux d'un expert-comptable intervenant dans l'entité, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 NORME D'EXERCICE PROFESSIONNEL RELATIVE À L'UTILISATION DES TRAVAUX D'UN EXPERT-COMPTABLE INTERVENANT DANS L'ENTITÉ

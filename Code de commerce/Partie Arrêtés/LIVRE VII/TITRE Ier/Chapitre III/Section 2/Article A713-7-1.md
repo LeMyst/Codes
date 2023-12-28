@@ -1,3 +1,5 @@
+# Article A713-7-1
+
 Le montant maximum de remboursement des dépenses engagées par les candidats est fixé, dans chaque circonscription de chambre de commerce et d'industrie de région, par le préfet de région en prenant comme cadre de référence les dispositions de l'arrêté en vigueur fixant les tarifs maxima de remboursement des frais d'impression et d'affichage des documents électoraux pour les élections municipales, communautaires et métropolitaines.
 
 La demande de remboursement est adressée à la chambre de commerce et d'industrie territoriale, ou pour les chambres de commerce et d'industrie locales et départementales d'Ile-de-France, à la chambre de commerce et d'industrie de région, sous pli recommandé avec avis de réception, dans le délai de quinze jours suivant la date de la proclamation des résultats des élections.

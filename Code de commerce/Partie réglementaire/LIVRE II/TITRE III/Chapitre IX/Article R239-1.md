@@ -1,3 +1,5 @@
+# Article R239-1
+
 En application de l'article L. 239-2, le contrat de bail d'actions ou de parts sociales comporte, à peine de nullité, les mentions suivantes :
 
 1° La nature, le nombre et l'identification des actions ou des parts sociales louées ;

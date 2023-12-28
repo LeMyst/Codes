@@ -1,3 +1,5 @@
+# Article L645-4
+
 Le tribunal qui ouvre une procédure de rétablissement professionnel désigne un juge commis chargé de recueillir tous renseignements sur la situation patrimoniale du débiteur, notamment le montant de son passif et la valeur de ses actifs.
 
 Il nomme, pour assister le juge commis, un mandataire judiciaire ou une personne choisie sur le fondement du premier alinéa du II de l'article L. 812-2 ou sur le fondement du III de ce même article.

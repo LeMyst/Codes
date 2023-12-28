@@ -1,3 +1,5 @@
+# Article A123-75
+
 L'avis d'immatriculation au Bulletin officiel des annonces civiles et commerciales, prévu à l'article R. 123-155, contient pour les groupements européens d'intérêt économique :
 
 1° Les références de l'immatriculation ;

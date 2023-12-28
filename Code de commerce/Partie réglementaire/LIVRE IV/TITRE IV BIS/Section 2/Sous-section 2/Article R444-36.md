@@ -1,3 +1,5 @@
+# Article R444-36
+
 La personne morale mentionnée au quatrième alinéa de l'article L. 444-2 chargée de la gestion du fonds interprofessionnel de l'accès au droit et à la justice est une société anonyme dont le capital est détenu par l'Etat. Sa dénomination sociale est : “ Société de gestion du fonds interprofessionnel de l'accès au droit et à la justice ” (SGFIADJ).
 
 Cette société assure la gestion administrative, comptable et financière du fonds interprofessionnel de l'accès au droit et à la justice. A ce titre, elle est notamment chargée :

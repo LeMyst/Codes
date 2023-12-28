@@ -1,3 +1,5 @@
+# Article R822-35
+
 Les travaux du commissaire aux comptes relatifs à la certification des comptes d'une entité d'intérêt public font l'objet d'une revue indépendante avant la signature des rapports prévus au dernier alinéa de l'article L. 823-9 et au III de l'article L. 823-16. La revue indépendante a pour objet de vérifier que le signataire pouvait raisonnablement parvenir aux conclusions qui figurent dans les projets de rapport.
 
 La revue indépendante est réalisée par un commissaire aux comptes inscrit sur la liste mentionnée au I de l'article L. 822-1 qui ne participe pas à la mission de certification sur laquelle elle porte.

@@ -1,3 +1,5 @@
+# Article R621-9
+
 La période d'observation ouverte par le jugement peut être renouvelée, en application de l'article L. 621-3, pour une durée maximale de six mois.
 
 Le président fixe l'affaire au rôle du tribunal au plus tard dix jours avant l'expiration de chaque période d'observation. Le greffier convoque à cette audience le débiteur, les mandataires de justice, les contrôleurs et en avise le ministère public.

@@ -1,3 +1,5 @@
+# Article R121-5
+
 L’organisme unique mentionné à l’article R. 123-1 reçoit, dans les conditions prévues par le présent livre :
 
 1° Dans le dossier unique de déclaration de création de l'entreprise, le cas échéant, la déclaration de l'activité professionnelle régulière dans l'entreprise du conjoint du chef d'entreprise et du statut choisi par ce conjoint, en application du I de l'article L. 121-4, accompagnée d’une attestation sur l’honneur signée du conjoint confirmant le choix de ce statut ;

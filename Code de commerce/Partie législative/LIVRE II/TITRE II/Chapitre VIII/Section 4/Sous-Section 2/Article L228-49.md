@@ -1,3 +1,5 @@
+# Article L228-49
+
 Ne peuvent être choisis comme représentants de la masse :
 
 1° La société débitrice ;

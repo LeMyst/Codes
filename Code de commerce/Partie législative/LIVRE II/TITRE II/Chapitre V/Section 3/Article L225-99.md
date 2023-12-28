@@ -1,3 +1,5 @@
+# Article L225-99
+
 Les assemblées spéciales réunissent les titulaires d'actions d'une catégorie déterminée.
 
 La décision d'une assemblée générale de modifier les droits relatifs à une catégorie d'actions n'est définitive qu'après approbation par l'assemblée spéciale des actionnaires de cette catégorie.

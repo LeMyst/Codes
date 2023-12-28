@@ -1,3 +1,5 @@
+# Article A752-4
+
 I. - Le tableau récapitulatif des caractéristiques du projet, mentionné aux articles R. 752-16, R. 752-38 et R. 752-44, dont un modèle figure à l'annexe 7-9 au présent livre, est renseigné par la commission d'aménagement commercial auteur de l'avis favorable ou de la décision d'autorisation d'exploitation commerciale auquel ou à laquelle il est joint.
 
 Il contient tous les éléments caractéristiques du projet d'équipement commercial autorisé pour permettre d'apprécier la conformité du projet réalisé avec l'autorisation délivrée.

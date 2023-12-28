@@ -1,3 +1,5 @@
+# Article A823-6
+
 La norme d'exercice professionnel relative à l'application de la notion de caractère significatif lors de la planification et de la réalisation d'un audit, homologuée par la garde des sceaux, ministre de la justice, figure ci-dessous :
 
 APPLICATION DE LA NOTION DE CARACTÈRE SIGNIFICATIF LORS DE LA PLANIFICATION ET DE LA RÉALISATION D'UN AUDIT

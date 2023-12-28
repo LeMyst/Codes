@@ -1,3 +1,5 @@
+# Article A444-182
+
 Les actes et formalités relatifs à la procédure de purge donnent lieu à la perception :
 
 1° S'agissant de l'offre de purge, de la moitié des émoluments prévus pour la distribution amiable par l'article A. 444-180 ;

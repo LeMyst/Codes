@@ -1,3 +1,5 @@
+# Article R642-18
+
 Le liquidateur signale, dans un rapport adressé au juge-commissaire et au procureur de la République et déposé au greffe, l'inexécution du plan par le cessionnaire.
 
 Pour l'application du deuxième alinéa de l'article L. 642-11, le cessionnaire est convoqué par le greffier par lettre recommandée avec demande d'avis de réception pour être entendu par le tribunal.

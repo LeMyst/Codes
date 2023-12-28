@@ -1,3 +1,5 @@
+# Article D711-67-1
+
 Les chambres de commerce et d'industrie bénéficient, pour l'exercice de la mission mentionnée à l'article D. 711-10, d'un accès aux informations collectées par l’organisme unique mentionné à l’article R. 123-1 auprès des entreprises ayant une activité commerciale.
 
 Cet accès se réalise par le biais d'une interface mise en œuvre par CCI France, laquelle peut en déléguer la réalisation, et qui comprend les données suivantes :

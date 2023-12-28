@@ -1,3 +1,5 @@
+# Article R123-247
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la personne physique, toute modification rendant nécessaire une rectification ou une adjonction aux énonciations prévues aux articles R. 123-243 à R. 123-246, ainsi que les éléments complémentaires suivants :
 
 1° S'agissant de la personne physique, la déclaration d'insaisissabilité de ses droits sur tout bien foncier non affecté à son usage professionnel prévue à l'article L. 526-1, la renonciation à la déclaration d'insaisissabilité ou à l'insaisissabilité de ses droits sur la résidence principale ou la révocation de la renonciation à l'insaisissabilité de ses droits sur la résidence principale prévues à l'article L. 526-3 ;

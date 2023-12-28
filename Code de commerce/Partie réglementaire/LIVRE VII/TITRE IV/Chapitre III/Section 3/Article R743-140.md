@@ -1,3 +1,5 @@
+# Article R743-140
+
 Les émoluments dus aux greffiers des tribunaux de commerce pour l'établissement et le contrôle de conformité des actes de leur ministère sont soumis aux dispositions qui suivent.
 
 Ils comprennent la rémunération de tous travaux, soins, diligences et formalités afférents à l'acte ou à la procédure considérée.

@@ -1,3 +1,5 @@
+# Article L225-180
+
 I.-Des options peuvent être consenties, dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 ci-dessus :
 
 1° Soit au bénéfice des membres du personnel salarié des sociétés ou des groupements d'intérêt économique dont 10 % au moins du capital ou des droits de vote sont détenus, directement ou indirectement, par la société consentant les options ;

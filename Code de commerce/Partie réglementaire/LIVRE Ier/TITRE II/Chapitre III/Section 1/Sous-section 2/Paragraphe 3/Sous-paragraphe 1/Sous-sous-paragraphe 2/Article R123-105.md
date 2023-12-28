@@ -1,3 +1,5 @@
+# Article R123-105
+
 Les actes, délibérations ou décisions modifiant les pièces déposées lors de la constitution sont déposées dans le délai d'un mois à compter de leur date après, le cas échéant, publication de l'avis prévu à l'article R. 210-9 ou à l'article 24 du décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du code civil.
 
 Y est joint un exemplaire mis à jour des statuts ou du contrat de groupement établi sur papier libre et certifié conforme par le représentant légal ou par toute personne habilitée par les textes régissant la forme de la société en cause à effectuer cette certification.

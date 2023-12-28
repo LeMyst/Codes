@@ -1,3 +1,5 @@
+# Article A444-125
+
 Les prestations en matière d'affectation d'un bien immobilier dans le patrimoine de l'entrepreneur individuel à responsabilité limitée (numéros 105 à 108 du tableau 5) donnent lieu à la perception des émoluments suivants :
 
 | Numéro de

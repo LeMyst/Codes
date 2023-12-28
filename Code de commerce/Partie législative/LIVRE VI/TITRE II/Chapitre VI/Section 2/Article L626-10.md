@@ -1,3 +1,5 @@
+# Article L626-10
+
 Le plan désigne les personnes tenues de l'exécuter et mentionne l'ensemble des engagements qui ont été souscrits par elles et qui sont nécessaires à la sauvegarde de l'entreprise. Il mentionne de manière distincte les apports de trésorerie des personnes qui se sont engagées à les effectuer pour l'exécution du plan de sauvegarde arrêté par le tribunal. Ces engagements portent sur l'avenir de l'activité, les modalités du maintien et du financement de l'entreprise, le règlement du passif soumis à déclaration ainsi que, s'il y a lieu, les garanties fournies pour en assurer l'exécution.
 
 Lorsque les engagements pour le règlement du passif peuvent être établis sur la base d'une attestation de l'expert-comptable ou du commissaire aux comptes, ils portent sur les créances déclarées admises ou non contestées, ainsi que sur les créances identifiables, notamment celles dont le délai de déclaration n'est pas expiré.

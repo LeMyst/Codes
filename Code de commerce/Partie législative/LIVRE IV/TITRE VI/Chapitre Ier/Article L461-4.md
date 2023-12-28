@@ -1,3 +1,5 @@
+# Article L461-4
+
 L'Autorité de la concurrence dispose de services d'instruction dirigés par un rapporteur général nommé par arrêté du ministre chargé de l'économie après avis du collège.
 
 Ces services procèdent aux investigations nécessaires à l'application des titres II, III et VI du présent livre.

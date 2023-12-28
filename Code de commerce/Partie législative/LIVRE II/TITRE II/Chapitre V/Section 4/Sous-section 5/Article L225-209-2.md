@@ -1,3 +1,5 @@
+# Article L225-209-2
+
 L'assemblée générale ordinaire peut autoriser le conseil d'administration ou le directoire, selon le cas, à acheter les actions de la société, pour les offrir ou les attribuer :
 
 ― dans l'année de leur rachat, aux bénéficiaires d'une opération mentionnée à l'article L. 225-208 du présent code ou intervenant dans le cadre des articles L. 3332-1 et suivants du code du travail ;

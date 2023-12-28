@@ -1,3 +1,5 @@
+# Article L228-3-2
+
 L'intermédiaire qui a satisfait aux obligations prévues aux septième et huitième alinéas de l'article L. 228-1 peut, en vertu d'un mandat général de gestion des titres, transmettre pour une assemblée le vote ou le pouvoir d'un propriétaire d'actions ou d'obligations.
 
 Avant de transmettre des pouvoirs ou des votes en assemblée générale, l'intermédiaire inscrit conformément à l'article L. 228-1 est tenu, à la demande de la société émettrice ou de son mandataire, de fournir la liste des propriétaires non résidents des actions ou des obligations auxquelles ces droits de vote sont attachés ainsi que la quantité d'actions ou d'obligations détenues par chacun d'eux. Cette liste est fournie dans les conditions prévues, selon le cas, aux articles L. 228-2 ou L. 228-3.

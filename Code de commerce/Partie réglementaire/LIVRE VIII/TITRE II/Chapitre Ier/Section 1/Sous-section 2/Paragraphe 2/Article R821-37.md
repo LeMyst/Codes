@@ -1,3 +1,5 @@
+# Article R821-37
+
 I.-Le Conseil national est composé de soixante membres désignés pour une durée de quatre ans, qui comprennent l'ensemble des présidents de compagnies régionales et des commissaires aux comptes élus.
 
 Il comprend pour moitié des commissaires aux comptes exerçant une ou plusieurs missions de certification auprès d'entités d'intérêt public et pour moitié des commissaires aux comptes n'exerçant pas de mission de certification auprès d'entités d'intérêt public.

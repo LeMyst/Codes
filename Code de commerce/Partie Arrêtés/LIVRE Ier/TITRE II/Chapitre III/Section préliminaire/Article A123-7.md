@@ -1,3 +1,5 @@
+# Article A123-7
+
 Il est institué auprès du ministre chargé de l'économie un collège stratégique chargé du pilotage du suivi du traitement des formalités des entreprises, des autorisations d'accès à leurs activités ou d'exercice de ces activités et des reconnaissances de qualifications professionnelles, par l'organisme unique, les organismes destinataires et les autorités habilitées.
 
 Outre le pilotage de l'organisme unique et le suivi de ses échanges avec les organismes destinataires et les autorités habilitées, le collège stratégique de pilotage :

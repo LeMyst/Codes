@@ -1,3 +1,5 @@
+# Article L22-10-11
+
 Pour les sociétés dont des titres sont admis aux négociations sur un marché réglementé, le rapport mentionné au dernier alinéa de l'article L. 225-37 expose et, le cas échéant, explique les éléments suivants lorsqu'ils sont susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange :
 
 1° La structure du capital de la société ;

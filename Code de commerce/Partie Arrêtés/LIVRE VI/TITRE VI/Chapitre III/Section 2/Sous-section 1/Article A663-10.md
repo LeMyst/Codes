@@ -1,3 +1,5 @@
+# Article A663-10
+
 L'émolument prévu à l'article R. 663-10 au titre de la constitution des classes de parties affectées et de la préparation des opérations de vote (numéro 3 du tableau 4-1) est fixé, en fonction du montant des créances prises en compte en application de l'article R. 626-58 de la manière suivante :
 
 1° Lorsque le montant des créances est inférieur ou égal à 500 000 €, cet émolument est d'un montant de 940 € ;

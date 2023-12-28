@@ -1,3 +1,5 @@
+# Article R229-8
+
 Toute contestation sur le prix offert est portée devant le tribunal dans le ressort duquel est situé le siège de la société, dans le délai mentionné au troisième alinéa de l' article R. 229- 7.
 
 Tous les actionnaires intéressés par le rachat des actions sont mis en cause par la société dans les conditions prévues à l' article 331 du code de procédure civile ; ils procèdent alors conformément à l' article 333 de ce code.

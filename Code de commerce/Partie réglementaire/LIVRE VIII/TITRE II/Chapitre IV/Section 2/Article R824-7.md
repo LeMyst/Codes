@@ -1,3 +1,5 @@
+# Article R824-7
+
 I.-Lorsqu'en application du 6° de l'article L. 824-5, le rapporteur général ou un enquêteur fait appel à un ou plusieurs experts, sa décision définit l'objet de l'expertise, fixe le délai de sa réalisation et évalue les honoraires prévisibles correspondants.
 
 Préalablement aux opérations d'expertise, les experts désignés attestent auprès du rapporteur général qu'ils répondent aux conditions mentionnées au II de l'article R. 824-2.

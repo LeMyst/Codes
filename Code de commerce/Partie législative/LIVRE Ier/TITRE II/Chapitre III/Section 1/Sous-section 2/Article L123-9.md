@@ -1,3 +1,5 @@
+# Article L123-9
+
 La personne assujettie à immatriculation ne peut, dans l'exercice de son activité, opposer ni aux tiers ni aux administrations publiques, qui peuvent toutefois s'en prévaloir, les faits et actes sujets à mention que si ces derniers ont été publiés au registre.
 
 En outre, la personne assujettie à un dépôt d'actes ou de pièces en annexe au registre ne peut les opposer aux tiers ou aux administrations, que si la formalité correspondante a été effectuée. Toutefois, les tiers ou les administrations peuvent se prévaloir de ces actes ou pièces.

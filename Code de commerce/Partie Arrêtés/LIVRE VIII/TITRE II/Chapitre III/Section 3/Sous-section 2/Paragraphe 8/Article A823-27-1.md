@@ -1,3 +1,5 @@
+# Article A823-27-1
+
 Les normes d'exercice professionnel relatives à la mission du commissaire aux comptes nommé pour trois exercices prévue à l'article L. 823-12-1 du code de commerce et à la mission du commissaire aux comptes nommé pour six exercices dans des petites entreprises, homologuées par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 NEP-911. MISSION DU COMMISSAIRE AUX COMPTES NOMMÉ POUR TROIS EXERCICES PRÉVUE À L'ARTICLE L. 823-12-1 DU CODE DE COMMERCE

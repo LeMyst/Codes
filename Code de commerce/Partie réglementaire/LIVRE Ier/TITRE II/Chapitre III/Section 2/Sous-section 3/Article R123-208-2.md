@@ -1,3 +1,5 @@
+# Article R123-208-2
+
 Toute personne assujettie à immatriculation au registre du commerce et des sociétés effectue la déclaration prévue à l'article L. 123-29 auprès de la chambre de commerce et d'industrie territoriale compétente.
 
 Toute personne assujettie à immatriculation au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat effectue cette déclaration auprès de la chambre de métiers et de l'artisanat de région compétente alors même qu'elle serait immatriculée au registre du commerce et des sociétés.

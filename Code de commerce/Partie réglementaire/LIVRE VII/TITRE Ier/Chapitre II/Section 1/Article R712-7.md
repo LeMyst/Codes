@@ -1,3 +1,5 @@
+# Article R712-7
+
 Les délibérations relatives aux actes mentionnés ci-après sont exécutoires dès qu'elles ont été approuvées par l'autorité de tutelle :
 
 1° Le budget primitif, les budgets rectificatifs et le budget exécuté, dans les conditions prévues à l'article R. 712-16 ;

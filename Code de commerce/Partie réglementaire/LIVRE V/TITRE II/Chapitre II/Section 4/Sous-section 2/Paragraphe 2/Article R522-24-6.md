@@ -1,3 +1,5 @@
+# Article R522-24-6
+
 La demande d'inscription modificative ou de radiation d'un gage inscrit est adressée au gestionnaire de la plateforme par le créancier ou le constituant conformément aux règles de fonctionnement du registre. L'original de l'acte modificatif du gage est adressé au gestionnaire de la plateforme.
 
 L'inscription modificative est accompagnée du numéro de l'inscription initiale au registre et de la mention de la date à laquelle elle est effectuée. L'inscription modificative prend effet à compter de cette dernière.

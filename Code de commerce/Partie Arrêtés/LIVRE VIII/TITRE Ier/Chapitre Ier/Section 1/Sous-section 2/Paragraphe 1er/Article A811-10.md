@@ -1,3 +1,5 @@
+# Article A811-10
+
 Nul ne peut se présenter à l'épreuve orale d'admission s'il n'a été déclaré admissible par le jury.
 
 Une convocation individuelle mentionnant le jour, l'heure et le lieu de l'épreuve orale est adressée à chaque candidat admissible au moins quinze jours à l'avance.

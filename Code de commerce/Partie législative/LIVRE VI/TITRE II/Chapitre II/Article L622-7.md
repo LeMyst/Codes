@@ -1,3 +1,5 @@
+# Article L622-7
+
 I. - Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement d'ouverture, à l'exception du paiement par compensation de créances connexes. Il emporte également, de plein droit, interdiction de payer toute créance née après le jugement d'ouverture, non mentionnée au I de l'article L. 622-17. Ces interdictions ne sont pas applicables au paiement des créances alimentaires.
 
 De même, il emporte, de plein droit, inopposabilité du droit de rétention conféré par le 4° de l'article 2286 du code civil pendant la période d'observation et l'exécution du plan, sauf si le bien objet du gage est compris dans une cession d'activité décidée en application de l'article L. 626-1.

@@ -1,3 +1,5 @@
+# Article L123-53
+
 Ont accès sans restriction à l'intégralité des informations et pièces annexées contenues dans le registre, ainsi qu'aux pièces justificatives conservées :
 
 1° Les personnes immatriculées pour les données les concernant ;

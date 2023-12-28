@@ -1,3 +1,5 @@
+# Article A444-161
+
 Les quittances (numéros 164 à 166 du tableau 5) donnent lieu à la perception d'un émolument proportionnel :
 
 1° S'agissant de la quittance pure et simple ou dans les cas prévus par les articles 1346 et 1346-2 du code civil, selon le barème suivant :

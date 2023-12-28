@@ -1,3 +1,5 @@
+# Article L631-8
+
 Le tribunal fixe la date de cessation des paiements après avoir sollicité les observations du débiteur. A défaut de détermination de cette date, la cessation des paiements est réputée être intervenue à la date du jugement d'ouverture de la procédure.
 
 Elle peut être reportée une ou plusieurs fois, sans pouvoir être antérieure de plus de dix-huit mois à la date du jugement d'ouverture de la procédure. Sauf cas de fraude, elle ne peut être reportée à une date antérieure à la décision définitive ayant homologué un accord amiable en application du II de l'article L. 611-8. L'ouverture d'une procédure mentionnée à l'article L. 628-1 ne fait pas obstacle à l'application de ces dispositions.

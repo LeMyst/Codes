@@ -1,3 +1,5 @@
+# Article R626-40
+
 Le compte rendu de fin de mission comporte :
 
 1° La reddition des comptes telle qu'elle ressort de l'édition analytique du mandat dans la comptabilité spéciale de l'administrateur ou du mandataire judiciaire. Le classement analytique distingue, par nature, les opérations de recettes et dépenses ;

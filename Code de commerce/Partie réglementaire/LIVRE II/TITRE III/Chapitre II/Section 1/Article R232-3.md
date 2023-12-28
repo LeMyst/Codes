@@ -1,3 +1,5 @@
+# Article R232-3
+
 Le conseil d'administration, le directoire ou les gérants des sociétés mentionnées à l'article R. 232-2, selon le cas, établissent :
 
 1° Semestriellement, dans les quatre mois qui suivent la clôture de chacun des semestres de l'exercice, la situation de l'actif réalisable et disponible, valeurs d'exploitation exclues, et du passif exigible ;

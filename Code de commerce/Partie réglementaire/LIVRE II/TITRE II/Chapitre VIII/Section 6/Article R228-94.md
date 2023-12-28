@@ -1,3 +1,5 @@
+# Article R228-94
+
 Lorsque, conformément à l'article L. 225-149, l'exercice des droits attachés aux valeurs mobilières donnant accès au capital fait apparaître un rompu, celui-ci est versé en espèces. Ce versement est égal au produit de la fraction d'action formant rompu par la valeur de l'action.
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, cette valeur est celle du cours coté lors de la séance de bourse du jour qui précède celui du dépôt de la demande d'exercice des droits.

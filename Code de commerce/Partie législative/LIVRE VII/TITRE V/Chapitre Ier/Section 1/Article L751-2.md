@@ -1,3 +1,5 @@
+# Article L751-2
+
 I.-La commission départementale d'aménagement commercial est présidée par le préfet. Elle auditionne pour tout projet nouveau la personne chargée d'animer le commerce de centre-ville au nom de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre, l'agence du commerce et les associations de commerçants de la commune d'implantation et des communes limitrophes lorsqu'elles existent. Elle informe les maires des communes limitrophes à la commune d'implantation, dès leur enregistrement, des demandes d'autorisation d'exploitation commerciale. Elle en informe également, le cas échéant, l'organe exécutif des collectivités territoriales frontalières ou de leurs groupements compétents en matière d'aménagement commercial.
 
 II.-Dans les départements autres que Paris, elle est composée :

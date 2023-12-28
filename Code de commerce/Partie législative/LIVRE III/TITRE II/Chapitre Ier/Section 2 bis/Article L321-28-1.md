@@ -1,3 +1,5 @@
+# Article L321-28-1
+
 I.-Le Conseil des maisons de vente accorde un accès partiel aux activités de vente volontaire de meubles aux enchères publiques lorsque toutes les conditions suivantes sont remplies :
 
 1° Le professionnel est pleinement qualifié pour exercer dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen l'activité professionnelle pour laquelle un accès partiel est sollicité ;

@@ -1,3 +1,5 @@
+# Article L920-1
+
 Ne sont pas applicables au Département de Mayotte les dispositions suivantes :
 
 1° Au livre II, l'article L. 225-245-1, le chapitre IX du titre II, le chapitre IV bis du titre IV et le chapitre II du titre V ;

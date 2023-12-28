@@ -1,3 +1,5 @@
+# Article R711-44
+
 Le schéma régional d'organisation des missions mentionné au 1er de l'article L. 711-8 décrit les fonctions et les missions qui sont exercées par la chambre de commerce et d'industrie de région et celles qui sont exercées par les chambres de commerce et d'industrie qui lui sont rattachées.
 
 Il s'inscrit dans le cadre de la stratégie régionale mentionnée au 1° de l'article L. 711-8 et tient compte des normes d'intervention adoptées en application du 2° de l'article L. 711-16.

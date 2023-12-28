@@ -1,3 +1,5 @@
+# Article D712-11-2
+
 Le repreneur de tout ou partie de l'activité d'une chambre de commerce et d'industrie informe simultanément chaque agent de droit public concerné et la chambre de commerce et d'industrie qui l'emploie de sa proposition de contrat de droit privé ou d'engagement de droit public prévue à l'article L. 712-11-1 par lettre recommandée avec avis de réception.
 
 Dans un délai maximum d'un mois à compter de la notification de ce courrier, l'agent concerné notifie simultanément sa réponse par courrier recommandé avec avis de réception à la chambre de commerce et d'industrie qui l'emploie et au repreneur.

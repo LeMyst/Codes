@@ -1,3 +1,5 @@
+# Article R713-8
+
 I.-Tout électeur qui remplit les conditions fixées à l'article L. 713-4 peut se porter candidat dans sa sous-catégorie ou, à défaut, dans sa catégorie professionnelle. Nul ne peut être candidat dans plus d'une sous-catégorie ou catégorie.
 
 II.-Les candidatures sont présentées soit pour un mandat de membre de chambre de commerce et d'industrie de région qui va de pair avec celui de membre de chambre de commerce et d'industrie territoriale, soit pour un mandat de membre de chambre de commerce et d'industrie territoriale seulement.

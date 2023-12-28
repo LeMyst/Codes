@@ -1,3 +1,5 @@
+# Article A444-167
+
 Les procès-verbaux de dire, de protestation, de difficulté, de bornage, de carence et les procurations (numéros 174 à 176 du tableau 5) donnent lieu à la perception des émoluments suivants :
 
 |

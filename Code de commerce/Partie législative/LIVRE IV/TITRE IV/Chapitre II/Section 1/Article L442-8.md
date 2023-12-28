@@ -1,3 +1,5 @@
+# Article L442-8
+
 I.-Est nul le contrat par lequel un fournisseur s'engage envers toute personne exerçant des activités de production, de distribution ou de services sur une offre de prix à l'issue d'enchères inversées à distance, organisées notamment par voie électronique, lorsque l'une au moins des règles suivantes n'a pas été respectée :
 
 1° Préalablement aux enchères, l'acheteur ou la personne qui les organise pour son compte communique de façon transparente et non discriminatoire à l'ensemble des candidats admis à présenter une offre les éléments déterminants des produits ou des prestations de services qu'il entend acquérir, ses conditions et modalités d'achat, ses critères de sélection détaillés ainsi que les règles selon lesquelles les enchères vont se dérouler ;

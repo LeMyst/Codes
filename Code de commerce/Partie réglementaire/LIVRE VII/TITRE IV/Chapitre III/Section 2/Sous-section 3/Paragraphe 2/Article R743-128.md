@@ -1,3 +1,5 @@
+# Article R743-128
+
 L'associé destitué exerçant au sein de la société dispose d'un délai de six mois à compter du jour où la décision de destitution est passée en force de chose jugée pour céder ses titres de capital ou parts sociales à un tiers à la société dans les conditions prévues aux articles R. 743-44 et R. 743-125.
 
 Si, à l'expiration de ce délai, aucune cession n'est intervenue, il est procédé conformément aux dispositions de l'article R. 743-126.

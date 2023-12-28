@@ -1,3 +1,5 @@
+# Article L151-1
+
 Est protégée au titre du secret des affaires toute information répondant aux critères suivants :
 
 1° Elle n'est pas, en elle-même ou dans la configuration et l'assemblage exacts de ses éléments, généralement connue ou aisément accessible pour les personnes familières de ce type d'informations en raison de leur secteur d'activité ;

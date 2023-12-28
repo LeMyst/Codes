@@ -1,3 +1,5 @@
+# Article L463-7
+
 Les séances de l'Autorité de la concurrence ne sont pas publiques. Seules les parties et le commissaire du Gouvernement peuvent y assister. Les parties peuvent demander à être entendues par l'Autorité et se faire représenter ou assister.
 
 L'Autorité de la concurrence peut entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information.

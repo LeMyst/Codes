@@ -1,3 +1,5 @@
+# Article R713-9
+
 I.-Les candidatures sont déclarées par écrit à la préfecture du département où est situé le siège de la chambre de commerce et d'industrie territoriale.
 
 Le préfet de département transmet au préfet de la région où est situé le siège de la chambre de commerce et d'industrie de région une copie des candidatures à cette chambre.

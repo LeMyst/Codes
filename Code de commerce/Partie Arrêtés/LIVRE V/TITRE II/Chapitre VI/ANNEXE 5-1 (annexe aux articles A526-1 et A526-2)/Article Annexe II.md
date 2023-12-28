@@ -1,3 +1,5 @@
+# Article Annexe II
+
 Modèle type d'accord du conjoint à l'affectation par l'entrepreneur individuel à responsabilité limitée d'un bien commun à son activité professionnelle
 
 Modèle d'accord du conjoint en cas d'affectation de biens communs par un entrepreneur individuel à responsabilité limitée

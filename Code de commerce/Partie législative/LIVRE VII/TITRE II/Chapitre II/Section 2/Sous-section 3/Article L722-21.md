@@ -1,3 +1,5 @@
+# Article L722-21
+
 I. - Dans un délai de deux mois à compter de leur prise de fonctions, les juges des tribunaux de commerce remettent une déclaration exhaustive, exacte et sincère de leurs intérêts :
 
 1° Au président du tribunal, pour les juges des tribunaux de commerce ;

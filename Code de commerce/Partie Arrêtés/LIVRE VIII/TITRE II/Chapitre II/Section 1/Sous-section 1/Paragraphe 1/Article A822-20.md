@@ -1,3 +1,5 @@
+# Article A822-20
+
 Les personnes de nationalité française et les ressortissants d'un autre Etat membre de l'Union européenne adressent au garde des sceaux, ministre de la justice, au plus tard le 30 avril, un dossier en double exemplaire comprenant :
 
 1° Tous documents officiels justificatifs de leur identité et de leur nationalité ;

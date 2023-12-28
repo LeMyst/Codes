@@ -1,3 +1,5 @@
+# Article L626-27
+
 I. ― En cas de défaut de paiement des dividendes par le débiteur, le commissaire à l'exécution du plan procède à leur recouvrement conformément aux dispositions arrêtées. Il y est seul habilité. Lorsque le commissaire à l'exécution du plan a cessé ses fonctions, tout intéressé peut demander au tribunal la désignation d'un mandataire ad hoc chargé de procéder à ce recouvrement.
 
 Le tribunal qui a arrêté le plan peut, après avis du ministère public, en décider la résolution si le débiteur n'exécute pas ses engagements dans les délais fixés par le plan.

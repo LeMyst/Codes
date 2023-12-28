@@ -1,3 +1,5 @@
+# Article L123-11-3
+
 I. ― Nul ne peut exercer l'activité de domiciliation s'il n'est préalablement agréé par l'autorité administrative, avant son immatriculation au registre du commerce et des sociétés.
 
 II. ― L'agrément n'est délivré qu'aux personnes qui satisfont aux conditions suivantes :

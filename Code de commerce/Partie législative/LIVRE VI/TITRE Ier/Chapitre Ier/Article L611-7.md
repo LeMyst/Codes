@@ -1,3 +1,5 @@
+# Article L611-7
+
 Le conciliateur a pour mission de favoriser la conclusion entre le débiteur et ses principaux créanciers ainsi que, le cas échéant, ses cocontractants habituels, d'un accord amiable destiné à mettre fin aux difficultés de l'entreprise. Il peut également présenter toute proposition se rapportant à la sauvegarde de l'entreprise, à la poursuite de l'activité économique et au maintien de l'emploi. Il peut être chargé, à la demande du débiteur et après avis des créanciers participants, d'une mission ayant pour objet l'organisation d'une cession partielle ou totale de l'entreprise qui pourrait être mise en œuvre, le cas échéant, dans le cadre d'une procédure ultérieure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire.
 
 Le conciliateur peut, pour exercer sa mission, obtenir du débiteur tout renseignement utile. Le président du tribunal communique au conciliateur les renseignements dont il dispose et, le cas échéant, les résultats de l'expertise mentionnée au cinquième alinéa de l'article L. 611-6.

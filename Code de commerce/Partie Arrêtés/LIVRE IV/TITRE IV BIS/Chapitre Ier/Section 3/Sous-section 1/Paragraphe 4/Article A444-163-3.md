@@ -1,3 +1,5 @@
+# Article A444-163-3
+
 Les actes relatifs aux autorisations d'occupation temporaire du domaine public mentionnées aux articles L. 1311-5 et suivants du code général des collectivités territoriales et qui sont constitutives de droits réels donnent lieu à la perception des émoluments suivants :
 
 |

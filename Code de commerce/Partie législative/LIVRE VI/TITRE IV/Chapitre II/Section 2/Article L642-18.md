@@ -1,3 +1,5 @@
+# Article L642-18
+
 Les ventes d'immeubles ont lieu conformément aux articles L. 322-5 à L. 322-12 du code des procédures civiles d'exécution, à l'exception des articles L. 322-6 et L. 322-9, sous réserve que ces dispositions ne soient pas contraires à celles du présent code. Le juge-commissaire fixe la mise à prix et les conditions essentielles de la vente.
 
 Lorsqu'une procédure de saisie immobilière engagée avant l'ouverture de la procédure de sauvegarde, de redressement ou de liquidation judiciaires a été suspendue par l'effet de cette dernière, le liquidateur peut être subrogé dans les droits du créancier saisissant pour les actes que celui-ci a effectués, lesquels sont réputés accomplis pour le compte du liquidateur qui procède à la vente des immeubles. La saisie immobilière peut alors reprendre son cours au stade où le jugement d'ouverture l'avait suspendue.

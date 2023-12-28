@@ -1,3 +1,5 @@
+# Article A444-46
+
 Lorsque les actes, formalités ou requêtes sont relatifs à une obligation pécuniaire déterminée, les émoluments fixes indiqués aux sous-sections 1 à 3 de la présente section sont multipliés par les coefficients suivants :
 
 1° Si le montant de l'obligation est compris entre 0 et 128 euros : coefficient 0,5 ;

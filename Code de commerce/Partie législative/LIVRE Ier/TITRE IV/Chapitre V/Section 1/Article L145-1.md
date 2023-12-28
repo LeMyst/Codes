@@ -1,3 +1,5 @@
+# Article L145-1
+
 I. - Les dispositions du présent chapitre s'appliquent aux baux des immeubles ou locaux dans lesquels un fonds est exploité, que ce fonds appartienne, soit à un commerçant ou à un industriel immatriculé au registre du commerce et des sociétés, soit à un chef d'une entreprise du secteur des métiers et de l'artisanat immatriculée au registre national des entreprises, accomplissant ou non des actes de commerce, et en outre :
 
 1° Aux baux de locaux ou d'immeubles accessoires à l'exploitation d'un fonds de commerce quand leur privation est de nature à compromettre l'exploitation du fonds et qu'ils appartiennent au propriétaire du local ou de l'immeuble où est situé l'établissement principal. En cas de pluralité de propriétaires, les locaux accessoires doivent avoir été loués au vu et au su du bailleur en vue de l'utilisation jointe ;

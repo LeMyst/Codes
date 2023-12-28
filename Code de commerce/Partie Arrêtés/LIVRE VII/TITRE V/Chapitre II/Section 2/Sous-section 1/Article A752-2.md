@@ -1,3 +1,5 @@
+# Article A752-2
+
 I.-Le formulaire de demande d'habilitation mentionné à l'article R. 752-44-3, dont un modèle est annexé à l'arrêté du 28 juin 2019 fixant le contenu du formulaire de demande d'habilitation pour établir le certificat de conformité mentionné au premier alinéa de l'article L. 752-23 du code de commerce , porte l'en-tête de la préfecture dans le ressort de laquelle l'habilitation est demandée.
 
 II.-Le formulaire comporte trois rubriques, à renseigner par le demandeur de l'habilitation :

@@ -1,3 +1,5 @@
+# Article R711-59
+
 Le bureau de CCI France se compose de dix à quinze membres, chacun de ses membres disposant d'une voix, à savoir :
 
 Un président et trois vice-présidents ;

@@ -1,3 +1,5 @@
+# Article R123-10
+
 Dans le cas d'une demande d'autorisation mentionnée au 2° du I de l'article R. 123-1 :
 
 1° Lorsque le dossier contient toutes les pièces nécessaires à la délivrance de la ou des autorisations requises, conformément à l'article R. 123-3, l'accusé de réception électronique mentionné à l'article R. 123-7 indique le ou les délais prévus par les textes législatifs ou réglementaires en vigueur pour la délivrance de la ou des autorisations requises pour exercer l'activité qui fait l'objet de la demande ainsi que les délais et voies de recours applicables aux décisions prises sur les demandes d'autorisation ;

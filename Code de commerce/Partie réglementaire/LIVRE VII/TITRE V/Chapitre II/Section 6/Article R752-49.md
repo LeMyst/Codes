@@ -1,3 +1,5 @@
+# Article R752-49
+
 Si, à l'expiration du délai imparti mentionné à l'article précédent, le propriétaire des immeubles n'a pas réalisé les mesures nécessaires au démantèlement et à la remise en état prévues à l'article R. 754-2, le préfet peut arrêter, à son encontre, les mesures suivantes :
 
 1° Obliger à consigner entre les mains d'un comptable public, dans un délai qu'il détermine, une somme correspondant au montant prévisionnel des travaux ou opérations à réaliser.

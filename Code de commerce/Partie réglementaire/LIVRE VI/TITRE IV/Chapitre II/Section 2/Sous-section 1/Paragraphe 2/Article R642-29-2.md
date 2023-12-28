@@ -1,3 +1,5 @@
+# Article R642-29-2
+
 Seules sont applicables à la cession des actifs du débiteur par voie d'adjudication judiciaire celles des dispositions de la section 4 du chapitre II du titre II du livre III du code des procédures civiles d'exécution qui sont mentionnées ci-après.
 
 A l'audience d'adjudication, il est procédé comme il est dit à la sous-section 3 de la section 4 susmentionnée.

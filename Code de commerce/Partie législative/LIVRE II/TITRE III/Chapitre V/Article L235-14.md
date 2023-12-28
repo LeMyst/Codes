@@ -1,3 +1,5 @@
+# Article L235-14
+
 Le fait pour le président des organes de direction et d'administration ou le président de séance de ces organes de ne pas constater les délibérations de ces organes par des procès-verbaux est sanctionné par la nullité des délibérations desdits organes.
 
 L'action est ouverte à tout administrateur, membre du directoire ou membre du conseil de surveillance.

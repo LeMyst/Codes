@@ -1,3 +1,5 @@
+# Article R236-24
+
 I.-Le rapport de l'organe de gestion, de direction ou d'administration établi en application du premier alinéa de l'article L. 236-36 par chaque société participante à la fusion explique et justifie le projet de fusion transfrontalière de manière détaillée, en ses aspects juridiques et économiques, ainsi que les conséquences du projet de fusion pour les associés, pour les salariés et sur les activités futures de la société.
 
 Il comprend une section à l'intention des associés et une section à l'intention des salariés. La société peut décider de rédiger un seul rapport contenant ces deux sections ou deux rapports distincts, respectivement à l'intention des associés et des salariés.

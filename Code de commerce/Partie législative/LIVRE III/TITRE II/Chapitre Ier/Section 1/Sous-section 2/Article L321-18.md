@@ -1,3 +1,5 @@
+# Article L321-18
+
 Il est institué une autorité de régulation dénommée “ Conseil des maisons de vente ”.
 
 Le Conseil des maisons de vente, établissement d'utilité publique doté de la personnalité morale, est chargé :

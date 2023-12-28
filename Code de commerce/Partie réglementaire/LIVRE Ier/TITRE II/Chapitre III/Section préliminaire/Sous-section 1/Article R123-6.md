@@ -1,3 +1,5 @@
+# Article R123-6
+
 Les articles R. 112-11-1 à R. 112-11-4 du code des relations entre le public et l'administration sont, sauf dispositions contraires prévues par le présent article, applicables aux modalités de saisine de l'organisme unique et aux échanges entre le déclarant et cet organisme unique.
 
 Par dérogation aux trois derniers alinéas de l'article R. 112-11-1 du même code, l'accusé de réception électronique délivré par l'organisme unique mentionne les organismes destinataires et autorités compétentes auxquels le dossier unique a été adressé par son intermédiaire.

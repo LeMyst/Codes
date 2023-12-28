@@ -1,3 +1,5 @@
+# Article A131-2
+
 Les courtiers de marchandises assermentés inscrits sur les listes de cours d'appel en nombre inférieur à neuf sont regroupés par cours d'appel, pour les élections au Conseil national des courtiers de marchandises assermentés, dans les conditions suivantes :
 
 -cours d'appel d'Agen, de Bordeaux, de Pau et de Toulouse ;

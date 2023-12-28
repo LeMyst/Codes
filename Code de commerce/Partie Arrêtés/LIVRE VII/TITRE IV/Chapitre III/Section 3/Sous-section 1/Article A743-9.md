@@ -1,3 +1,5 @@
+# Article A743-9
+
 I.-Les prestations figurant aux numéros 1 à 38 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception des émoluments suivants :
 
 | NUMÉRO DE LA PRESTATION

@@ -1,3 +1,5 @@
+# Article R812-16
+
 Sauf si les connaissances qu'elles ont acquises au cours de leur expérience professionnelle sont de nature à rendre cette vérification inutile, les personnes mentionnées à l'article R. 812-15 subissent devant le jury chargé de l'examen d'accès au stage un examen de contrôle des connaissances, organisé par le Conseil national des administrateurs judiciaires et des mandataires judiciaires, dont le programme et les modalités sont fixés par arrêté du garde des sceaux, ministre de la justice :
 
 1° Lorsque leur formation porte sur des matières substantiellement différentes de celles qui figurent au programme des titres et diplômes mentionnés à l'article R. 811-7 et de l'examen de stage professionnel mentionné à l'article R. 811-9 ;

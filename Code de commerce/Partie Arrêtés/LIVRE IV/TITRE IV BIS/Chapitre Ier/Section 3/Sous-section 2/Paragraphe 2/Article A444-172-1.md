@@ -1,3 +1,5 @@
+# Article A444-172-1
+
 Les démarches concernant l'obtention et la vérification d'un certificat de mesurage ou d'un document composant le dossier de diagnostic technique donnent lieu à la perception d'un émolument fixe conformément au tableau ci-après :
 
 |

@@ -1,3 +1,5 @@
+# Article R321-21
+
 Sont dispensés de la possession du diplôme national en droit prévue au 3° de l'article R. 321-18 :
 
 1° Les membres et anciens membres du Conseil d'Etat et les membres et anciens membres des tribunaux administratifs et des cours administratives d'appel ;

@@ -1,3 +1,5 @@
+# Article R223-28
+
 Les comptes annuels, le rapport de gestion et, le cas échéant, les comptes consolidés et le rapport sur la gestion du groupe sont tenus, au siège social, à la disposition des commissaires aux comptes un mois au moins avant, selon le cas :
 
 1° La convocation de l'assemblée prévue à l'article L. 223-26 ;

@@ -1,3 +1,5 @@
+# Article R622-15
+
 L'administrateur, lorsqu'il en a été désigné, tient le mandataire judiciaire informé des créances mentionnées au I de l'article L. 622-17 dont il a eu connaissance dans les conditions prévues au IV du même article.
 
 La liste de ces créances est transmise par l'administrateur ou, à défaut, le mandataire judiciaire, dès la cessation de leurs fonctions, au commissaire à l'exécution du plan, ou au liquidateur, selon le cas, qui la complète.

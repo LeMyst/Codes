@@ -1,3 +1,5 @@
+# Article L236-37
+
 Outre les mentions figurant à l'article L. 236-10, le rapport du ou des commissaires à la fusion indique également :
 
 1° La ou les méthodes utilisées pour déterminer le montant de l'offre de rachat envisagée au titre de l'article L. 236-40 ;

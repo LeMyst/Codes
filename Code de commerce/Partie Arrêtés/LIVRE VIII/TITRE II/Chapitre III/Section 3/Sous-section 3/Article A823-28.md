@@ -1,3 +1,5 @@
+# Article A823-28
+
 La norme d'exercice professionnel relative à l'examen limité de comptes intermédiaires en application de dispositions légales ou réglementaires, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
 NEP-2410. Examen limité de comptes intermédiaires en application de dispositions légales ou réglementaires

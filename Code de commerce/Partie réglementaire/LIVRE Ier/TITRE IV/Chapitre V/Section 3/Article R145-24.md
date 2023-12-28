@@ -1,3 +1,5 @@
+# Article R145-24
+
 Les mémoires indiquent l'adresse de l'immeuble donné à bail ainsi que :
 
 1° Pour les personnes physiques, leurs nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ;

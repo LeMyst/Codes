@@ -1,3 +1,5 @@
+# Article L641-1-1
+
 Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à la demande du ministère public, procéder au remplacement du liquidateur, de l'expert ou de l'administrateur s'il en a été désigné en application de l'article L. 641-10 ou encore adjoindre un ou plusieurs liquidateurs ou administrateurs à ceux déjà nommés.
 
 Le liquidateur, l'administrateur ou un créancier nommé contrôleur peut demander au juge-commissaire de saisir à cette fin le tribunal.

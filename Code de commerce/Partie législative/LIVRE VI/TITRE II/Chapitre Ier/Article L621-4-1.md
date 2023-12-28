@@ -1,3 +1,5 @@
+# Article L621-4-1
+
 Le tribunal désigne au moins un deuxième administrateur judiciaire et un deuxième mandataire judiciaire dans le jugement d'ouverture de la procédure à l'encontre d'un débiteur lorsque ce dernier :
 
 1° Possède un nombre d'établissements secondaires situés dans le ressort d'un tribunal où il n'est pas immatriculé au moins égal à un seuil fixé par voie réglementaire ;

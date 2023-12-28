@@ -1,3 +1,5 @@
+# Article L441-1-2
+
 I.-Le grossiste s'entend de toute personne physique ou morale qui, à des fins professionnelles, achète des produits à un ou à plusieurs fournisseurs et les revend, à titre principal, à d'autres commerçants, grossistes ou détaillants, à des transformateurs ou à tout autre professionnel qui s'approvisionne pour les besoins de son activité. Sont assimilées à des grossistes les centrales d'achat ou de référencement de grossistes.
 
 Sont exclus de la notion de grossiste les entreprises ou les groupes de personnes physiques ou morales exploitant, directement ou indirectement, un ou plusieurs magasins de commerce de détail ou intervenant dans le secteur de la distribution comme centrale d'achat ou de référencement pour des entreprises de commerce de détail.

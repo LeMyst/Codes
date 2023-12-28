@@ -1,3 +1,5 @@
+# Article R641-21
+
 Le greffier avise le cocontractant de la décision du juge-commissaire accordant au liquidateur, ou à l'administrateur lorsqu'il en a été désigné, la prolongation prévue au 1° du III de l'article L. 641-11-1.
 
 Le juge-commissaire constate, sur la demande de tout intéressé, la résiliation de plein droit des contrats dans les cas prévus au III de l'article L. 641-11-1 et à l'article L. 641-12 ainsi que la date de cette résiliation.

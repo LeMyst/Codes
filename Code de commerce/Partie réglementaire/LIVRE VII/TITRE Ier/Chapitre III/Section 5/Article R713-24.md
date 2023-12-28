@@ -1,3 +1,5 @@
+# Article R713-24
+
 A la date fixée au 2° du I de l'article R. 713-14, la commission d'organisation des élections procède aux opérations de dépouillement des votes en séance publique et en présence de scrutateurs désignés par le président de la commission et par les candidats ou leurs mandataires.
 
 Le président de la commission et l'un au moins des assesseurs reçoivent chacun une clef de dépouillement distincte, selon des modalités en garantissant la confidentialité, permettant d'accéder aux données du fichier dénommé " contenu de l'urne électronique ". Le président reçoit également les éléments permettant la vérification de l'intégrité du système de vote électronique.

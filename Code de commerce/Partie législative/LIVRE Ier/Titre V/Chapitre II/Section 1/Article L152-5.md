@@ -1,3 +1,5 @@
+# Article L152-5
+
 Sans préjudice de l'article L. 152-6, la juridiction peut ordonner, à la demande de l'auteur de l'atteinte, le versement d'une indemnité à la partie lésée au lieu des mesures mentionnées aux I à III de l'article L. 152-3 lorsque sont réunies les conditions suivantes :
 
 1° Au moment de l'utilisation ou de la divulgation du secret des affaires, l'auteur de l'atteinte ne savait pas, ni ne pouvait savoir au regard des circonstances, que le secret des affaires avait été obtenu d'une autre personne qui l'utilisait ou le divulguait de façon illicite ;

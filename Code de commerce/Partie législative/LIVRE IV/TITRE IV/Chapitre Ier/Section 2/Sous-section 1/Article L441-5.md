@@ -1,3 +1,5 @@
+# Article L441-5
+
 Une convention écrite est établie, dans le respect des articles L. 441-1 et L. 442-1 à L. 442-3, pour tout achat de produits manufacturés, fabriqués à la demande de l'acheteur en vue d'être intégrés dans sa propre production, dont le montant est supérieur à un seuil fixé par décret. Elle mentionne les conditions convenues entre les parties, notamment :
 
 1° L'objet de la convention et les obligations respectives des parties ;

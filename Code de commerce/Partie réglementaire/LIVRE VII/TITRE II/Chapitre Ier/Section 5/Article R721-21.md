@@ -1,3 +1,5 @@
+# Article R721-21
+
 Le collège de déontologie est composé d'un magistrat de l'ordre judiciaire et de deux juges des tribunaux de commerce.
 
 Le magistrat est nommé par un arrêté du garde des sceaux, ministre de la justice.

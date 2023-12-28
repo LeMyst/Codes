@@ -1,3 +1,5 @@
+# Article R232-11
+
 Les sociétés dont les actions sont admises, en tout ou partie, aux négociations sur un marché réglementé publient au Bulletin des annonces légales obligatoires dans les quarante-cinq jours qui suivent l'approbation des comptes par l'assemblée générale ordinaire des actionnaires les documents suivants :
 
 1° Les comptes annuels approuvés, revêtus de l'attestation des commissaires aux comptes ;

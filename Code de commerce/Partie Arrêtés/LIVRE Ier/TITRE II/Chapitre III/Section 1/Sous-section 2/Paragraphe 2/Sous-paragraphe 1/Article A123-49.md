@@ -1,3 +1,5 @@
+# Article A123-49
+
 Les demandes d'immatriculation des caisses d'épargne et de prévoyance ou, le cas échéant, d'inscription modificative sont accompagnées des pièces justificatives suivantes :
 
 1° Le récépissé du dépôt des actes et pièces si la formalité n'est pas concomitante au dépôt ;

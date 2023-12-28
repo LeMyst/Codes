@@ -1,3 +1,5 @@
+# Article R645-19
+
 Un avis du jugement de clôture est adressé pour insertion au Bulletin officiel des annonces civiles et commerciales. Cette insertion contient l'indication du nom du débiteur, de son adresse professionnelle, de son numéro unique d'identification ainsi que, s'il y a lieu, du nom du greffe ou de la chambre des métiers et de l'artisanat de région dont il relève, de l'activité exercée et de la date du jugement ainsi que du tribunal qui l'a rendu.
 
 Le même avis est publié dans un support d'annonces légales du lieu où le débiteur a son adresse professionnelle.

@@ -1,3 +1,5 @@
+# Article L641-15
+
 Pendant la procédure de liquidation judiciaire, le juge-commissaire peut ordonner que le liquidateur ou l'administrateur, lorsqu'il en a été désigné, soit le destinataire du courrier adressé au débiteur.
 
 Le débiteur, préalablement informé, peut assister à l'ouverture du courrier. Toutefois, une convocation devant une juridiction, une notification de décisions ou tout autre courrier ayant un caractère personnel doit être immédiatement remis ou restitué au débiteur. Il y a également lieu à remise ou à restitution immédiate du courrier intéressant un patrimoine du débiteur autre que celui visé par la procédure.

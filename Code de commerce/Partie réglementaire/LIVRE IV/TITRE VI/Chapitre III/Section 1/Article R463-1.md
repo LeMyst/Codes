@@ -1,3 +1,5 @@
+# Article R463-1
+
 La saisine de l'Autorité de la concurrence est adressée soit par lettre recommandée avec demande d'avis de réception, soit par dépôt au siège de l'Autorité de la concurrence, en quatre exemplaires, soit encore par l'intermédiaire d'une plateforme d'échanges sécurisés de documents électroniques. Elle peut être accompagnée de pièces annexes.
 
 La saisine précise :

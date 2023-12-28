@@ -1,3 +1,5 @@
+# Article R927-3
+
 Pour l'application à Mayotte de l'article R. 713-66, les deuxième à sixième alinéas sont remplacés par les dispositions suivantes :
 
 " L'étude décrit la répartition des membres entre catégories professionnelles et, le cas échéant, entre sous-catégories professionnelles. Elle est élaborée à partir des données suivantes :

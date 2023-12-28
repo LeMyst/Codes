@@ -1,3 +1,5 @@
+# Article R228-8
+
 Les registres de titres nominatifs émis par une société sont établis par cette société ou par une personne qu'elle habilite à cet effet.
 
 Ces registres peuvent être tenus de manière chronologique sur support papier ou sur tout autre support durable, notamment au moyen d'un dispositif d'enregistrement électronique partagé.

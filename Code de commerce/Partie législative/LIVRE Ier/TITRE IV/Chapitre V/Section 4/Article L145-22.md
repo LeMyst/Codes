@@ -1,3 +1,5 @@
+# Article L145-22
+
 Le bailleur peut refuser le renouvellement du bail exclusivement sur la partie concernant les locaux d'habitation accessoires des locaux commerciaux pour habiter lui-même ceux-ci ou les faire habiter par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint, à condition que le bénéficiaire de la reprise ne dispose pas d'une habitation correspondant à ses besoins normaux et à ceux des membres de sa famille vivant habituellement ou domiciliés avec lui.
 
 Toutefois, la reprise dans les conditions ci-dessus indiquées ne peut être exercée sur des locaux affectés à usage d'hôtel ou de location en meublé, ni sur des locaux à usage hospitalier ou d'enseignement.

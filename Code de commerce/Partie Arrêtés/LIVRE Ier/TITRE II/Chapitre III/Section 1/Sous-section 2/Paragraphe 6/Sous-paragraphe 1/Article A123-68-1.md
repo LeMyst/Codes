@@ -1,3 +1,5 @@
+# Article A123-68-1
+
 I.-Pour l'application du deuxième alinéa de l'article L. 232-25, les catégories de personnes morales qui financent ou investissent, directement ou indirectement, dans les entreprises, ou fournissent des prestations au bénéfice de ces personnes morales sont les suivantes :
 
 1° Pour les personnes morales qui financent ou investissent :

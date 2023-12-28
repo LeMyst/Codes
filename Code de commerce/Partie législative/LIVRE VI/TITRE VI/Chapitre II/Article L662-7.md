@@ -1,3 +1,5 @@
+# Article L662-7
+
 A peine de nullité du jugement, ne peut siéger dans les formations de jugement ni participer au délibéré de la procédure :
 
 1° Le président du tribunal, s'il a connu du débiteur en application des dispositions du titre Ier du présent livre ;

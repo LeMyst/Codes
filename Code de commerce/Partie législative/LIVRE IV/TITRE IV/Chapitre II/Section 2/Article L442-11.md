@@ -1,3 +1,5 @@
+# Article L442-11
+
 Il est interdit à toute personne d'offrir à la vente des produits ou de proposer des services en utilisant, dans des conditions irrégulières, le domaine public de l'Etat, des collectivités locales et de leurs établissements publics.
 
 Les infractions à l'interdiction mentionnée au premier alinéa sont recherchées et constatées dans les conditions définies par les articles L. 450-1 à L. 450-3-2 et L. 450-7.

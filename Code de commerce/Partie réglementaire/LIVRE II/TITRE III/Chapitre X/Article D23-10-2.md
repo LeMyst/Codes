@@ -1,3 +1,5 @@
+# Article D23-10-2
+
 L'information des salariés mentionnée aux articles L. 23-10-3 et L. 23-10-9 peut être effectuée selon les modalités suivantes :
 
 1° Au cours d'une réunion d'information des salariés à l'issue de laquelle ces derniers signent le registre de présence à cette réunion ;

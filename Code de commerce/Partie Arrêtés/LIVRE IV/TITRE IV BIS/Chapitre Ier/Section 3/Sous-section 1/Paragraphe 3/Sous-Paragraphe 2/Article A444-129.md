@@ -1,3 +1,5 @@
+# Article A444-129
+
 La vente à la société de crédit-bail dans le cadre d'un crédit-bail ou d'une cession-bail (numéro 113 du tableau 5) donne lieu à la perception d'un émolument proportionnel, qui varie selon que la vente à la société de crédit-bail est réalisée par l'utilisateur ou par un tiers, selon le barème suivant :
 
 |

@@ -1,3 +1,5 @@
+# Article L526-22
+
 L'entrepreneur individuel est une personne physique qui exerce en son nom propre une ou plusieurs activités professionnelles indépendantes.
 
 Les biens, droits, obligations et sûretés dont il est titulaire et qui sont utiles à son activité ou à ses activités professionnelles indépendantes constituent le patrimoine professionnel de l'entrepreneur individuel. Sous réserve du livre VI du présent code, ce patrimoine ne peut être scindé. Les éléments du patrimoine de l'entrepreneur individuel non compris dans le patrimoine professionnel constituent son patrimoine personnel.

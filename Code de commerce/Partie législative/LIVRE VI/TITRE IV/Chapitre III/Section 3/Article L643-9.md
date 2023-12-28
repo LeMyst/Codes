@@ -1,3 +1,5 @@
+# Article L643-9
+
 Dans le jugement qui ouvre ou prononce la liquidation judiciaire, le tribunal fixe le délai au terme duquel la clôture de la procédure devra être examinée. Si la clôture ne peut être prononcée au terme de ce délai, le tribunal peut proroger le terme par une décision motivée.
 
 Lorsqu'il n'existe plus de passif exigible ou que le liquidateur dispose de sommes suffisantes pour désintéresser les créanciers, ou lorsque la poursuite des opérations de liquidation judiciaire est rendue impossible en raison de l'insuffisance de l'actif, ou encore lorsque l'intérêt de cette poursuite est disproportionné par rapport aux difficultés de réalisation des actifs résiduels la clôture de la liquidation judiciaire est prononcée par le tribunal, le débiteur entendu ou dûment appelé.

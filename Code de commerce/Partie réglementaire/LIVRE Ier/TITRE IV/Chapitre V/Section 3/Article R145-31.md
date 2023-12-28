@@ -1,3 +1,5 @@
+# Article R145-31
+
 Dès le dépôt du constat ou du rapport, le greffe avise les parties par lettre recommandée avec demande d'avis de réception de la date à laquelle l'affaire sera reprise et de celle à laquelle les mémoires faits après l'exécution de la mesure d'instruction devront être échangés.
 
 Le juge, en présence des parties ou celles-ci dûment convoquées, peut entendre l'expert ou l'auteur du constat pour lui demander les éclaircissements qu'il estime nécessaires.

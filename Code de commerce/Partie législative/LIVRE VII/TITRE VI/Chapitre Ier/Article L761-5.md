@@ -1,3 +1,5 @@
+# Article L761-5
+
 Dans le périmètre mentionné à l'article L. 761-4, les projets d'implantation ou d'extension de locaux ou d'ensembles de locaux destinés à recevoir, aux fins de vente autre que de détail, des produits dont la liste est définie par arrêté des ministres de tutelle, sur une surface de vente consacrée à ces produits de plus de 1 000 mètres carrés, sont soumis à l'autorisation de l'autorité administrative dans les conditions définies à l'article L. 761-7.
 
 L'autorisation prévue au premier alinéa est de droit lorsque le marché ne dispose pas des surfaces nécessaires pour permettre l'implantation ou l'extension envisagée.

@@ -1,3 +1,5 @@
+# Article D814-1-2
+
 Le président de la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires ou son suppléant perçoit, dans la limite d'un plafond annuel, une indemnité forfaitaire pour chaque séance de la commission qu'il préside.
 
 Les membres de la commission titulaires ou suppléants autres que le président perçoivent, dans la limite d'un plafond annuel, soit une indemnité forfaitaire pour chaque séance de la commission à laquelle ils participent, soit une indemnité forfaitaire pour les rapports dont ils sont chargés par le président.

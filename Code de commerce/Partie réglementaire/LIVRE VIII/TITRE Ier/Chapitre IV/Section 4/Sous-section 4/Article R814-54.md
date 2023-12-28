@@ -1,3 +1,5 @@
+# Article R814-54
+
 La déclaration est adressée quatre mois au moins avant la date prévue pour l'ouverture du bureau, par lettre recommandée avec demande d'avis de réception. Elle indique :
 
 1° Le lieu du domicile professionnel ou du siège social de l'intéressé et le lieu où il envisage d'ouvrir un bureau annexe ;

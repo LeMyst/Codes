@@ -1,3 +1,5 @@
+# Article A444-120
+
 Le partage de sociétés de construction (numéro 100 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 |

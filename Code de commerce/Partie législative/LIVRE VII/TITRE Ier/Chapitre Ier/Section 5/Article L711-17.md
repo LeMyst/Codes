@@ -1,3 +1,5 @@
+# Article L711-17
+
 Les établissements d'enseignement supérieur consulaire sont des personnes morales de droit privé régies par les dispositions législatives applicables aux sociétés anonymes, dans la mesure où elles ne sont pas contraires aux dispositions spécifiques qui les régissent.
 
 Les chambres de commerce et d'industrie territoriales et les chambres de commerce et d'industrie de région détiennent, directement ou indirectement, seules ou conjointement, le cas échéant avec un ou plusieurs groupements interconsulaires, la majorité du capital et des droits de vote à l'assemblée générale de ces établissements. Aucun autre actionnaire ou groupe d'actionnaires, agissant seul ou de concert, ne peut détenir, directement ou indirectement, plus de 33 % des droits de vote à l'assemblée générale de ces établissements.

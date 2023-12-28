@@ -1,3 +1,5 @@
+# Article R228-12
+
 La vente prévue à l'article L. 228-6-1 des titres de capital qui n'ont pu être attribués individuellement et correspondant aux droits formant rompus ainsi que la répartition des sommes provenant de cette vente aux titulaires des droits interviennent dans un délai de trente jours à compter de la plus tardive des dates d'inscription, au compte des titulaires des droits, du nombre entier de titres de capital attribués.
 
 Lorsque les titres sont admis à la négociation sur un marché réglementé, cette vente est réalisée par l'émetteur des titres ou par les intermédiaires mentionnés aux 2° à 7° de l'article L. 542-1 du code monétaire et financier sur le marché règlementé à la négociation duquel les titres sont admis.

@@ -1,3 +1,5 @@
+# Article A134-3
+
 Le greffier informe le juge commis à la surveillance du registre du commerce et des sociétés du dépôt de la déclaration afin que celui-ci demande le bulletin n° 2 du casier judiciaire dans les conditions prévues à l'article A. 123-51.
 
 Dès réception de ce bulletin, un numéro d'immatriculation est attribué, s'il y a lieu, au déclarant et le greffier remet à celui-ci un exemplaire de la déclaration prévue à l'article A. 134-1 qui tient lieu de récépissé.

@@ -1,3 +1,5 @@
+# Article R752-6-3
+
 I.-L'habilitation est accordée pour une durée de cinq ans, sans renouvellement tacite possible. Elle est valable sur l'ensemble du territoire du département.
 
 L'arrêté préfectoral portant habilitation d'un organisme en application du III de l'article L. 752-6 est publié au recueil des actes administratifs de la préfecture.

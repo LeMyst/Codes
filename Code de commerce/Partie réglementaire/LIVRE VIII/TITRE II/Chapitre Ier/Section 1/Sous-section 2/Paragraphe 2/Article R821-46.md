@@ -1,3 +1,5 @@
+# Article R821-46
+
 Le Conseil national est chargé de l'administration de la Compagnie nationale et de la gestion de ses biens.
 
 Il donne son avis, lorsqu'il y est invité par le garde des sceaux, ministre de la justice, sur les projets de loi et de décret qui lui sont soumis, ainsi que sur les questions entrant dans ses attributions.

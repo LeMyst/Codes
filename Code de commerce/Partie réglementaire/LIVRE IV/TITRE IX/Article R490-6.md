@@ -1,3 +1,5 @@
+# Article R490-6
+
 Lorsque le juge envisage de solliciter l'avis de la Commission européenne en application des dispositions du 1 de l'article 15 du règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité instituant la Communauté européenne, il en avise les parties. A moins qu'elles n'aient déjà conclu sur ce point, il les invite à produire des observations dans un délai qu'il fixe.
 
 Dès réception des observations ou à l'expiration du délai, le juge peut solliciter l'avis de la Commission européenne par une décision non susceptible de recours. Il surseoit à statuer jusqu'à la réception de l'avis ou jusqu'à l'expiration d'un délai qu'il fixe.

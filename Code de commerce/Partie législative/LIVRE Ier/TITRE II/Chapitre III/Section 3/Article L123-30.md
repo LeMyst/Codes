@@ -1,3 +1,5 @@
+# Article L123-30
+
 Outre les officiers et agents de police judiciaire, ont compétence pour constater par procès-verbal les contraventions prévues par le décret mentionné à l'article L. 123-31 :
 
 1° Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du code de procédure pénale ;

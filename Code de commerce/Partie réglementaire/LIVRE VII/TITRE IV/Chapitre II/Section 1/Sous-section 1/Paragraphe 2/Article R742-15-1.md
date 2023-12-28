@@ -1,3 +1,5 @@
+# Article R742-15-1
+
 A l'issue du stage, le stagiaire se présente devant une commission chargée de valider l'expérience acquise. A l'exception des personnes mentionnées à l'article R. 742-3, le stagiaire peut être autorisé par le Conseil national des greffiers des tribunaux de commerce à se présenter devant cette commission au cours des trois derniers mois de stage.
 
 Le bilan de stage mentionné à l'article R. 742-15 est remis à la commission, par le Conseil national des greffiers des tribunaux de commerce, au moins dix jours avant la date de l'entretien.

@@ -1,3 +1,5 @@
+# Article A444-95
+
 La première vente en l'état futur d'achèvement ou achevé de locaux d'habitation compris dans un immeuble ou dans un ensemble immobilier autre que HLM ayant fait l'objet d'un même permis de construire (numéro 59 du tableau 5) donne lieu à la perception d'un émolument proportionnel, dont le taux est fonction du nombre d'unités principales d'habitation concernées par le permis de construire, selon le barème suivant :
 
 |

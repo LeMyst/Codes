@@ -1,3 +1,5 @@
+# Article L22-10-56
+
 Dans une société dont les actions sont admises aux négociations sur un marché réglementé, les options mentionnées à l'article L. 225-177 ne peuvent être consenties :
 
 1° Dans le délai de dix séances de bourse précédant la date à laquelle les comptes consolidés annuels et intermédiaires ou, à défaut, les comptes annuels et semestriels sont rendus publics, ainsi que le jour de la publication ;

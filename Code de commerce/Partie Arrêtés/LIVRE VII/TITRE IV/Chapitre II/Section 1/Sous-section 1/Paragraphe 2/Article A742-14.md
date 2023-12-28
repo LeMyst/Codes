@@ -1,3 +1,5 @@
+# Article A742-14
+
 L'entretien de fin de stage, comporte :
 
 1° Une présentation de son stage par le candidat, n'excédant pas dix minutes, portant notamment sur les conditions dans lesquelles le stage a été réalisé et sur les tâches exercées par l'intéressé dans chacun des services du greffe. Pour cette présentation le candidat peut utiliser son bilan de stage ou une fiche de présentation préparée au préalable.

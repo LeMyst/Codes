@@ -1,3 +1,5 @@
+# Article L653-5
+
 Le tribunal peut prononcer la faillite personnelle de toute personne mentionnée à l'article L. 653-1 contre laquelle a été relevé l'un des faits ci-après :
 
 1° Avoir exercé une activité commerciale, artisanale ou agricole ou une fonction de direction ou d'administration d'une personne morale contrairement à une interdiction prévue par la loi ;

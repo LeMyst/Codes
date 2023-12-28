@@ -1,3 +1,5 @@
+# Article L226-4
+
 L'assemblée générale ordinaire nomme, dans les conditions fixées par les statuts, un conseil de surveillance, composé de trois actionnaires au moins.
 
 Le conseil de surveillance est composé en recherchant une représentation équilibrée des femmes et des hommes.

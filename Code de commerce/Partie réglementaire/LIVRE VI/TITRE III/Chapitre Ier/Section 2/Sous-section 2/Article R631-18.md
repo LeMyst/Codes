@@ -1,3 +1,5 @@
+# Article R631-18
+
 Les articles R. 622-2 à R. 622-5-1, à l'exclusion de l'article R. 622-4-1, sont applicables à la procédure de redressement judiciaire.
 
 Le greffier informe la personne chargée de réaliser l'inventaire de sa désignation par tout moyen.

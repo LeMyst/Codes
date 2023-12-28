@@ -1,3 +1,5 @@
+# Article A444-135
+
 La distribution de deniers par contribution (numéro 122 du tableau 5) donne lieu à la perception d'un émolument proportionnel à l'actif brut, selon le barème suivant :
 
 | Tranches d'assiette |

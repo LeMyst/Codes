@@ -1,3 +1,5 @@
+# Article R131-24
+
 Le Conseil national des courtiers de marchandises assermentés est composé de membres élus par les courtiers de marchandises assermentés.
 
 Dans chaque cour d'appel, les courtiers de marchandises assermentés élisent un membre du Conseil national des courtiers de marchandises assermentés lorsque le nombre de courtiers de marchandises assermentés exerçant dans le ressort de cette cour est compris entre neuf et quinze. Ils en élisent deux lorsque le nombre de courtiers de marchandises assermentés est compris entre seize et vingt-cinq. Au-delà de vingt-cinq, les courtiers de marchandises assermentés élisent trois membres du Conseil national des courtiers de marchandises assermentés.

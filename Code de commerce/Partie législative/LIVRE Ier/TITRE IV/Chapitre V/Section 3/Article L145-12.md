@@ -1,3 +1,5 @@
+# Article L145-12
+
 La durée du bail renouvelé est de neuf ans sauf accord des parties pour une durée plus longue.
 
 Les dispositions des deuxième et troisième alinéas de l'article L. 145-4 sont applicables au cours du bail renouvelé.

@@ -1,3 +1,5 @@
+# Article L231-6
+
 Chaque associé peut se retirer de la société lorsqu'il le juge convenable à moins de conventions contraires et sauf application du premier alinéa de l'article L. 231-5.
 
 Il peut être stipulé que l'assemblée générale a le droit de décider, à la majorité fixée pour la modification des statuts, que l'un ou plusieurs des associés cessent de faire partie de la société.

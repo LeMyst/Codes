@@ -1,3 +1,5 @@
+# Article R631-36
+
 Lorsqu'en application du III de l'article L. 631-19 l'administrateur ou le débiteur prévoit dans son projet de plan des licenciements pour motif économique, il joint au rapport déposé au greffe ou il produit à l'audience les documents suivants :
 
 1° Le procès-verbal des délibérations du comité social et économique consulté en application de l'article L. 1233-58 du code du travail ;

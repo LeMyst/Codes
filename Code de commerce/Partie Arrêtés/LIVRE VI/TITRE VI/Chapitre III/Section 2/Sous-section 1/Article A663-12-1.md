@@ -1,3 +1,5 @@
+# Article A663-12-1
+
 Conformément aux dispositions de l'article R. 663-12-1, l'émolument dû à l'administrateur judiciaire au titre des diligences qu'il a effectuées dans le cadre de nouveaux apports de trésorerie en application des dispositions de l'article L. 626-10 (numéro 10-1 du tableau 4-1) qui ne peut excéder 20 000 euros, est fixé proportionnellement au montant cumulé de ces apports autorisés par le juge-commissaire ou mentionnés dans le jugement arrêtant le plan, selon le barème suivant :
 
 |

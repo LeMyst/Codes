@@ -1,3 +1,5 @@
+# Article R713-1
+
 I.-Les membres des chambres de commerce et d'industrie locales et des chambres de commerce et d'industrie départementales d'Ile-de-France sont élus dans les mêmes conditions que les membres des chambres de commerce et d'industrie territoriales, sous réserve des dispositions spécifiques prévues au présent chapitre.
 
 II.-L'autorité administrative mentionnée à l'article L. 713-17 est, pour l'élection des membres des chambres de commerce et d'industrie territoriales, le préfet du département où est situé le siège de la chambre et, pour l'élection des membres des autres chambres de commerce et d'industrie, le préfet de région.

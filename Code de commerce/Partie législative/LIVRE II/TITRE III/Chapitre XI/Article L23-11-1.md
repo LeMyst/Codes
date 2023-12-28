@@ -1,3 +1,5 @@
+# Article L23-11-1
+
 Tout détenteur de titres d'une société peut prendre, vis-à-vis de l'ensemble des salariés de celle-ci, l'engagement de partager avec eux une partie de la plus-value de cession ou de rachat de ses titres au jour où il en cédera ou rachètera tout ou partie.
 
 L'engagement de partage des plus-values peut également être pris par une pluralité de détenteurs de titres, ceux-ci étant soit parties à un même contrat de partage des plus-values, soit parties à des contrats de partage des plus-values distincts.

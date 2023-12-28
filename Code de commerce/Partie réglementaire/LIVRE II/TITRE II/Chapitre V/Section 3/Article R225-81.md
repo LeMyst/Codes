@@ -1,3 +1,5 @@
+# Article R225-81
+
 Sont joints à toute formule de procuration adressée aux actionnaires par la société ou par le mandataire qu'elle a désigné à cet effet, le cas échéant par voie électronique dans les conditions définies à l'article R. 225-61 :
 
 1° L'ordre du jour de l'assemblée ;

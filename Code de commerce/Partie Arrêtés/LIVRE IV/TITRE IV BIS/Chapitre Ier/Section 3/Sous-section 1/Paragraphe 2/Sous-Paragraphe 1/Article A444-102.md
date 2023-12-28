@@ -1,3 +1,5 @@
+# Article A444-102
+
 Les ventes par adjudication judiciaire de tous biens et droits autres que meubles et objets mobiliers, arbres en détail, et bateaux (numéro 69 du tableau 5) donnent lieu, à la perception :
 
 1° Si le cahier des charges rédigé par le notaire, d'un émolument proportionnel, selon le barème suivant :

@@ -1,3 +1,5 @@
+# Article A663-11
+
 L'émolument prévu à l'article R. 663-11 au titre de l'arrêté d'un plan de cession au cours d'une procédure de redressement ou de liquidation judiciaire (numéro 9 du tableau 4-1) est fixé proportionnellement au montant total hors taxes du prix de cession de l'ensemble des actifs compris dans le plan, selon le barème suivant :
 
 |

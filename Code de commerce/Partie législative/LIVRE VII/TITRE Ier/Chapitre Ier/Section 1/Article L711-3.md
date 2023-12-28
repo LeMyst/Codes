@@ -1,3 +1,5 @@
+# Article L711-3
+
 Dans le cadre des orientations données par la chambre de commerce et d'industrie de région compétente, les chambres de commerce et d'industrie territoriales et départementales d'Ile-de-France exercent toute mission de service auprès des entreprises industrielles, commerciales et de services de leur circonscription.
 
 A ce titre :

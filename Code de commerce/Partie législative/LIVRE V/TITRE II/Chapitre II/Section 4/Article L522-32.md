@@ -1,3 +1,5 @@
+# Article L522-32
+
 I. - Le créancier est payé de sa créance sur le prix, directement et sans formalité de justice, par privilège et préférence à tous créanciers, sans autre déduction que celles :
 
 1° Des contributions indirectes, et droits de douane dus par la marchandise ;

@@ -1,3 +1,5 @@
+# Article L626-31
+
 Lorsque le projet de plan a été adopté par chacune des classes conformément aux dispositions de l'article L. 626-30-2, le tribunal statue sur celui-ci selon les modalités prévues à la section 2 du présent chapitre et vérifie que les conditions suivantes sont réunies :
 
 1° Le plan a été adopté conformément à l'article L. 626-30 ;

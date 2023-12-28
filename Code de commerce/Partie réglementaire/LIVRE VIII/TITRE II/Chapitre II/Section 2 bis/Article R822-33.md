@@ -1,3 +1,5 @@
+# Article R822-33
+
 Chaque structure d'exercice du commissariat aux comptes doit satisfaire aux exigences suivantes : 1° Disposer des moyens permettant au commissaire aux comptes :
 
 a) D'adapter, en fonction de l'ampleur de la mission, le temps et les ressources humaines qui y sont consacrés ainsi que les techniques mises en œuvre ;

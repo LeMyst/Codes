@@ -1,3 +1,5 @@
+# Article R462-5
+
 I.-L'Autorité de la concurrence est informée de façon préalable des accords d'achats groupés mentionnés au premier alinéa de l'article L. 462-10 lorsque les deux conditions suivantes sont réunies :
 
 a) Le chiffre d'affaires total mondial hors taxes de l'ensemble des entreprises ou des groupes de personnes physiques ou morales parties à de tels accords est supérieur à 10 milliards d'euros ;

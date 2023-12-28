@@ -1,3 +1,5 @@
+# Article L626-26
+
 Une modification substantielle dans les objectifs ou les moyens du plan ne peut être décidée que par le tribunal, à la demande du débiteur et sur le rapport du commissaire à l'exécution du plan. Lorsque la situation du débiteur permet une modification substantielle du plan au profit des créanciers, la saisine du tribunal peut émaner du commissaire à l'exécution du plan.
 
 Lorsque la demande de modification substantielle du plan porte sur les modalités d'apurement du passif, les créanciers intéressés sont consultés. Le défaut de réponse vaut acceptation des modifications proposées, sauf s'il s'agit de remises de dettes ou de conversions en titres donnant ou pouvant donner accès au capital. Un décret en Conseil d'Etat détermine les modalités de cette consultation.

@@ -1,3 +1,5 @@
+# Article R822-89
+
 L'associé qui est personnellement radié de la liste dispose d'un délai de six mois à compter de la notification de la décision de radiation pour céder ses parts sociales, soit à un tiers dans les conditions prévues aux articles R. 822-50 et R. 822-86, soit aux associés ou à l'un ou plusieurs d'entre eux, soit à la société.
 
 Si à l'expiration de ce délai aucune cession n'est intervenue, il est procédé conformément aux dispositions de l'article R. 822-87.

@@ -1,3 +1,5 @@
+# Article L761-1
+
 Les marchés d'intérêt national sont des services publics de gestion de marchés offrant à des grossistes et à des producteurs des services de gestion collective adaptés aux caractéristiques de certains produits agricoles et alimentaires.
 
 Ils répondent à des objectifs d'aménagement du territoire, d'amélioration de la qualité environnementale et de sécurité alimentaire.

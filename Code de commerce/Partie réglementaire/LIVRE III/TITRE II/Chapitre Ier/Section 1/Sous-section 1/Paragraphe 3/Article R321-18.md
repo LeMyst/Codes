@@ -1,3 +1,5 @@
+# Article R321-18
+
 Sous réserve des dispositions de l'article R. 321-65, nul ne peut diriger des ventes volontaires de meubles aux enchères publiques s'il ne remplit les conditions suivantes :
 
 1° Etre Français ou ressortissant d'un Etat autre que la France membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;

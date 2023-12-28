@@ -1,3 +1,5 @@
+# Article L662-4
+
 Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés mentionné aux articles L. 621-4 et L. 641-1 est obligatoirement soumis au comité d'entreprise, qui donne un avis sur le projet de licenciement.
 
 Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Lorsqu'il n'existe pas de comité social et économique dans l'établissement, l'inspecteur du travail est saisi directement.

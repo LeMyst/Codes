@@ -1,3 +1,5 @@
+# Article R661-1
+
 Les jugements et ordonnances rendus en matière de mandat ad hoc, de conciliation, de sauvegarde, de redressement judiciaire, de rétablissement professionnel et de liquidation judiciaire sont exécutoires de plein droit à titre provisoire.
 
 Toutefois, ne sont pas exécutoires de plein droit à titre provisoire les jugements et ordonnances rendus en application des articles L. 622-8, L. 626-22, du premier alinéa de l'article L. 642-20-1, de l'article L. 651-2, des articles L. 663-1 à L. 663-4 ainsi que les décisions prises sur le fondement de l'article L. 663-1-1 et les jugements qui prononcent la faillite personnelle ou l'interdiction prévue à l'article L. 653-8.

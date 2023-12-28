@@ -1,3 +1,5 @@
+# Article L526-8
+
 I.-Lors de la constitution du patrimoine affecté, l'entrepreneur individuel mentionne la nature, la qualité, la quantité et la valeur des biens, droits, obligations ou sûretés qu'il affecte à son activité professionnelle sur un état descriptif déposé au registre où est effectuée la déclaration prévue à l'article L. 526-7 pour y être annexé.
 
 En l'absence de bien, droit, obligation ou sûreté affectés en application du deuxième alinéa de l'article L. 526-6, aucun état descriptif n'est établi.

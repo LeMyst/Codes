@@ -1,3 +1,5 @@
+# Article A743-17
+
 I.-Les transmissions mentionnées au troisième alinéa de l'article R. 743-140 donnent lieu à la perception des émoluments suivants :
 
 1° S'agissant des diligences de chaque transmission d'acte, décision ou document, par remise en main propre contre récépissé ou par voie électronique sécurisée : 1,68 € ;

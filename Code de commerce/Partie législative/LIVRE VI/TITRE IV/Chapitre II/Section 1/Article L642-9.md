@@ -1,3 +1,5 @@
+# Article L642-9
+
 Tant que le prix de cession n'est pas intégralement payé, le cessionnaire ne peut, à l'exception des stocks, aliéner ou donner en location-gérance les biens corporels ou incorporels qu'il a acquis.
 
 Toutefois, leur aliénation totale ou partielle, leur affectation à titre de sûreté, leur location ou leur location-gérance peut être autorisée par le tribunal après rapport du liquidateur qui doit préalablement consulter le comité social et économique. Le tribunal doit tenir compte des garanties offertes par le cessionnaire.

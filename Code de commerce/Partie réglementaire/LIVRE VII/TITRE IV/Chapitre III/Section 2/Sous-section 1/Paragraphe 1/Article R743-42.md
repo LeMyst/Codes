@@ -1,3 +1,5 @@
+# Article R743-42
+
 Les dispositions législatives ou réglementaires relatives à la prestation de serment et au dépôt de la signature et du paraphe des personnes physiques nommées dans les fonctions de greffier de tribunal de commerce sont applicables aux membres d'une société titulaire d'un office de greffier de tribunal de commerce exerçant au sein de la société et aux greffiers de tribunal de commerce associés.
 
 La société ne peut entrer en fonction qu'après la prestation de serment de tous ses membres exerçant en son sein. Ceux-ci n'ont le droit d'accomplir les actes de la profession qu'à compter du jour où ils ont prêté serment.

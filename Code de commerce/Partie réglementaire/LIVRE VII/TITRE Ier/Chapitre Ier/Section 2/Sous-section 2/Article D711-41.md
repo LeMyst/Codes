@@ -1,3 +1,5 @@
+# Article D711-41
+
 Les schémas sectoriels mentionnés au 3° de l'article L. 711-8 s'inscrivent dans le cadre de la stratégie régionale. Ils indiquent l'implantation de tous les établissements, infrastructures, équipements et services gérés par les chambres de commerce et d'industrie de la région concernée.
 
 Ils fixent les principaux objectifs poursuivis ainsi que leurs modalités de mise en œuvre pour la réalisation des missions prévues à l'article L. 710-1, dans les domaines suivants :

@@ -1,3 +1,5 @@
+# Article R752-20
+
 Pour les projets nécessitant un permis de construire, l'autorisation d'exploitation commerciale est périmée dans un délai de trois ans à compter de la date à laquelle le permis de construire est devenu définitif :
 
 1° Pour les surfaces de vente qui n'ont pas été ouvertes au public ;

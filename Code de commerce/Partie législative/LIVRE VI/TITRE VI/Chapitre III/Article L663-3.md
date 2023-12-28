@@ -1,3 +1,5 @@
+# Article L663-3
+
 Lorsque le produit de la réalisation des actifs de l'entreprise ne permet pas au liquidateur ou au mandataire judiciaire d'obtenir, au titre de la rémunération qui lui est due en application des dispositions de l'article L. 444-2, une somme au moins égale à un seuil fixé par décret en Conseil d'Etat, le dossier est déclaré impécunieux par décision du tribunal, sur proposition du juge-commissaire et au vu des justificatifs présentés par le liquidateur ou le mandataire judiciaire.
 
 La même décision fixe la somme correspondant à la différence entre la rémunération effectivement perçue par le liquidateur ou le mandataire judiciaire et le seuil visé au premier alinéa.

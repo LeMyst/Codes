@@ -1,3 +1,5 @@
+# Article L251-8
+
 I. - Le contrat de groupement d'intérêt économique détermine l'organisation du groupement, sous réserve des dispositions du présent chapitre. Il est établi par écrit et publié selon les modalités fixées par décret en Conseil d'Etat.
 
 II. - Le contrat contient notamment les indications suivantes :

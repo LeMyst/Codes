@@ -1,3 +1,5 @@
+# Article L632-1
+
 I. ― Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des paiements, les actes suivants :
 
 1° Tous les actes à titre gratuit translatifs de propriété mobilière ou immobilière ;

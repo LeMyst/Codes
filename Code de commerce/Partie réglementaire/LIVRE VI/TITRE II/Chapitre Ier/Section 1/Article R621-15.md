@@ -1,3 +1,5 @@
+# Article R621-15
+
 Le tribunal judiciaire est saisi des contestations relatives à la désignation du représentant des salariés par requête.
 
 Cette requête n'est recevable que si elle est faite dans les deux jours suivant la désignation du représentant des salariés.

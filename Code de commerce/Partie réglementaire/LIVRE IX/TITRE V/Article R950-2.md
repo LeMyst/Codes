@@ -1,3 +1,5 @@
+# Article R950-2
+
 Pour l'application du présent code dans les îles Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
 1° " Tribunal judiciaire " par " tribunal de première instance " ;

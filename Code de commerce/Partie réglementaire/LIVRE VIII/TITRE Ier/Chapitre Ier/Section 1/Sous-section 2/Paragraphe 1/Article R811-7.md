@@ -1,3 +1,5 @@
+# Article R811-7
+
 Ne peuvent être admises à se présenter à l'examen d'accès au stage professionnel prévu à l'article L. 811-5 que les personnes titulaires de l'un des titres ou diplômes ci-après :
 
 1° Maîtrise en droit ;

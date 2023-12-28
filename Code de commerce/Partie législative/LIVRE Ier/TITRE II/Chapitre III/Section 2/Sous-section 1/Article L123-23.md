@@ -1,3 +1,5 @@
+# Article L123-23
+
 La comptabilité régulièrement tenue peut être admise en justice pour faire preuve entre commerçants pour faits de commerce.
 
 Si elle a été irrégulièrement tenue, elle ne peut être invoquée par son auteur à son profit.

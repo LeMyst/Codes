@@ -1,3 +1,5 @@
+# Article R123-220
+
 L'Institut national de la statistique et des études économiques est chargé de tenir un répertoire national incluant, lorsqu'ils relèvent du Registre national des entreprises, ou qu'ils emploient du personnel salarié, sont soumis aux obligations fiscales des entreprises ou sollicitent des transferts financiers publics :
 
 1° Les personnes physiques exerçant de manière indépendante une profession non salariée ou une activité accessoire dont les revenus sont soumis à l'imposition au titre des bénéfices industriels et commerciaux, ou aux bénéfices non commerciaux, ou à la taxe sur la valeur ajoutée ;

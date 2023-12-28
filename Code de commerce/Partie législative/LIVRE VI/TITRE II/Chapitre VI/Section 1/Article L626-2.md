@@ -1,3 +1,5 @@
+# Article L626-2
+
 Au vu du bilan économique, social et, le cas échéant, environnemental, le débiteur, avec le concours de l'administrateur, propose un plan, sans préjudice de l'application des dispositions de l'article L. 622-10.
 
 Le projet de plan mentionne les engagements d'effectuer des apports de trésorerie pris pour l'exécution du plan.

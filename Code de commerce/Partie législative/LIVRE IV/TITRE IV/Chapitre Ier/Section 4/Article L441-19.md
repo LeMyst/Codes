@@ -1,3 +1,5 @@
+# Article L441-19
+
 Pour l'application des articles L. 441-17 et L. 441-18, un guide des bonnes pratiques est publié et actualisé régulièrement.
 
 Chaque distributeur communique au directeur général de la concurrence, de la consommation et de la répression des fraudes ou à son représentant nommément désigné, au plus tard le 31 décembre de chaque année, les montants des pénalités logistiques qu'il a infligées à ses fournisseurs au cours des douze derniers mois ainsi que les montants effectivement perçus. Il détaille ces montants pour chacun des mois.

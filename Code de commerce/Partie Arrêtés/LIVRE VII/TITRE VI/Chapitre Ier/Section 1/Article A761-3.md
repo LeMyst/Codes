@@ -1,3 +1,5 @@
+# Article A761-3
+
 Le gestionnaire d'un marché d'intérêt national transmet aux communes et aux établissements publics de coopération intercommunale sur le territoire desquels est implanté le marché, au conseil régional et au préfet les comptes rendus d'activité et financiers suivants :
 
 1° Le bilan de l'année écoulée et un bilan comptable prévisionnel de l'année à venir ;

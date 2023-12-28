@@ -1,3 +1,5 @@
+# Article A123-18
+
 Dans sa demande d'immatriculation, le groupement européen d'intérêt économique déclare, en application de l'article R. 123-62 :
 
 1° En ce qui concerne le groupement :

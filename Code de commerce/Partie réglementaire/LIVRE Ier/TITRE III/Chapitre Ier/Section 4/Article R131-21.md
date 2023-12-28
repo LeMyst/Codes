@@ -1,3 +1,5 @@
+# Article R131-21
+
 La décision est notifiée au courtier de marchandises assermenté poursuivi, par lettre recommandée avec demande d'avis de réception, et au ministère public. La notification indique le délai et les modalités du recours ouvert à l'encontre de la décision.
 
 Ce recours est porté devant la cour d'appel.

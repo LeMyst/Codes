@@ -1,3 +1,5 @@
+# Article L228-37
+
 L'émission et le remboursement de titres participatifs doivent être autorisés dans les conditions prévues par le cinquième alinéa de l'article L. 225-100 et les articles L. 228-40 à L. 228-44.
 
 Les porteurs de titres participatifs d'une même émission sont groupés de plein droit pour la défense de leurs intérêts communs en une masse qui jouit de la personnalité civile. Ils sont soumis aux dispositions des articles L. 228-47 à L. 228-71, L. 228-73 et L. 228-76 à L. 228-90.

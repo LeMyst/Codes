@@ -1,3 +1,5 @@
+# Article L522-15
+
 Les exploitants de magasins généraux sont responsables, dans les limites de la valeur déclarée, de la garde et la conservation des dépôts qui leur sont confiés.
 
 Ils ne sont pas responsables des avaries et déchets naturels provenant de la nature et du conditionnement des marchandises ou des cas de force majeure.

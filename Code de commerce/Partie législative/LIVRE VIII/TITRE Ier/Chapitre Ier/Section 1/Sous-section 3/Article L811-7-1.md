@@ -1,3 +1,5 @@
+# Article L811-7-1
+
 L'administrateur judiciaire peut exercer sa profession en qualité de salarié d'une personne physique ou morale inscrite sur la liste prévue à l'article L. 811-2.
 
 Une personne physique inscrite sur cette liste ne peut pas employer plus de deux administrateurs judiciaires salariés. Une personne morale inscrite sur ladite liste ne peut pas employer un nombre d'administrateurs judiciaires salariés supérieur au double de celui des administrateurs judiciaires associés qui y exercent la profession.

@@ -1,3 +1,5 @@
+# Article A444-187
+
 Les prestations figurant au tableau 6 de l'article Annexe 4-7 donnent lieu à la perception d'émoluments fixés conformément aux dispositions respectives des sous-sections 1 à 5 de la présente section.
 
 Les remboursements forfaitaires de frais et débours sont régis par la sous-section 6 de cette même section.

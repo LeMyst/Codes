@@ -1,3 +1,5 @@
+# Article R927-2
+
 Après l'article R. 713-6, est inséré l'article suivant :
 
 " Le vote à l'urne prévu à l'article 16 de l'ordonnance n° 2005-43 du 20 janvier 2005 est organisé pour l'élection des membres de la chambre de commerce et d'industrie de Mayotte dans les conditions suivantes :

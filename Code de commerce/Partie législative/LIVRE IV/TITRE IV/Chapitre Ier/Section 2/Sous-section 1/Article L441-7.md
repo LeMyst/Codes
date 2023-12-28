@@ -1,3 +1,5 @@
+# Article L441-7
+
 I.-Le contrat conclu entre un fournisseur et un distributeur portant sur la conception et la production de produits alimentaires selon des modalités répondant aux besoins particuliers de l'acheteur et vendus sous marque de distributeur mentionne le prix ou les critères et modalités de détermination du prix d'achat des produits agricoles entrant dans la composition de ces produits alimentaires.
 
 La détermination du prix tient compte des efforts d'innovation réalisés par le fabricant à la demande du distributeur. La négociation du prix ne porte pas sur la part, dans le prix proposé par le fabricant, du prix des matières premières agricoles et des produits transformés mentionnés au I de l'article L. 441-1-1.

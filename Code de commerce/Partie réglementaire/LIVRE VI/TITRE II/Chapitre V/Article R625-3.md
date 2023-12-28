@@ -1,3 +1,5 @@
+# Article R625-3
+
 Le mandataire judiciaire informe par tout moyen chaque salarié de la nature et du montant des créances admises ou rejetées et lui indique la date du dépôt au greffe du relevé des créances. Il rappelle que le délai de forclusion prévu à l'article L. 625-1 court à compter de la publication prévue au troisième alinéa ci-après. Les salariés dont les créances sont admises sont informés au moment du paiement.
 
 Le salarié dont la créance a été omise peut être relevé de la forclusion par le conseil de prud'hommes dans le délai prévu au troisième alinéa de l'article L. 622-26. Le relevé de forclusion bénéficie aux institutions mentionnées à l'article L. 143-11-4 du code du travail.

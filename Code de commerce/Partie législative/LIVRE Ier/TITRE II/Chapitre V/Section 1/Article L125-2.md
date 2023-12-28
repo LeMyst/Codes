@@ -1,3 +1,5 @@
+# Article L125-2
+
 Les personnes visées à l'article L. 125-1 constituent, sous forme de groupement d'intérêt économique ou de société anonyme à capital variable ou de société coopérative de commerçants détaillants, une personne morale qui a la propriété et la jouissance ou seulement la jouissance des bâtiments et aires annexes du magasin collectif, définit et met en œuvre la politique commune, organise et gère les services communs.
 
 Le groupement d'intérêt économique ou la société, propriétaire de tout ou partie des sols, bâtiments et aires annexes du magasin collectif, ne peut rétrocéder tout ou partie de ces biens immobiliers à ses membres pendant l'existence dudit magasin.

@@ -1,3 +1,5 @@
+# Article R723-19
+
 Le jour du dépouillement des votes, le président de la commission prévue à l'article L. 723-13 imprime la liste d'émargement à partir du traitement " fichier des électeurs ".
 
 Le président et l'un des membres de la commission reçoivent du préfet chacun une clé de dépouillement distincte, selon des modalités en garantissant la confidentialité, permettant d'accéder aux données du fichier dénommé " contenu de l'urne électronique ". Le président reçoit également les éléments permettant la vérification de l'intégrité du système de vote électronique.

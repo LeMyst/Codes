@@ -1,3 +1,5 @@
+# Article L631-7
+
 Les articles L. 621-1, L. 621-2 et L. 621-3 sont applicables à la procédure de redressement judiciaire.
 
 La durée maximale de la période d'observation mentionnée au premier alinéa de l'article L. 621-3 peut être exceptionnellement prolongée à la demande du procureur de la République par décision spécialement motivée du tribunal pour une durée maximale de six mois.

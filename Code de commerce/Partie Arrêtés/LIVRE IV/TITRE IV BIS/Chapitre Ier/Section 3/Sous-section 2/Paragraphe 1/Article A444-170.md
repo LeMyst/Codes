@@ -1,3 +1,5 @@
+# Article A444-170
+
 La vérification de la situation pénale de l'acquéreur auprès du casier judiciaire (numéro 181 du tableau 5) donne lieu à la perception des émoluments suivants :
 
 1° En cas d'acquisition par une ou plusieurs personnes physiques ou par une personne morale jusqu'à 5 associés inclus : 37,73 € par dossier ;

@@ -1,3 +1,5 @@
+# Article A444-104
+
 Les baux à construction ou à réhabilitation (numéro 78 du tableau 5) donnent lieu à la perception d'un émolument composé :
 
 1° D'une composante proportionnelle aux versements effectués à quelque titre que ce soit pendant les cinq premières années du bail (à l'exclusion des charges d'entretien et de réparations), augmentés de la valeur des constructions et droits sociaux remis pendant la même période, selon le barème suivant :

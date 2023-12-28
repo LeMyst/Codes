@@ -1,3 +1,5 @@
+# Article R123-128
+
 Est radié d'office tout commerçant :
 
 1° Frappé d'une interdiction d'exercer une activité commerciale en vertu d'une décision judiciaire passée en force de chose jugée ou d'une décision administrative exécutoire ;

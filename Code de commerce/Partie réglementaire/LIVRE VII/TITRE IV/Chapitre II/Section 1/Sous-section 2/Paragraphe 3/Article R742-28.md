@@ -1,3 +1,5 @@
+# Article R742-28
+
 Le candidat sélectionné pour succéder à un greffier de tribunal de commerce sollicite l'agrément du garde des sceaux, ministre de la justice, dans les formes prévues au présent article.
 
 La demande de nomination est présentée au garde des sceaux, ministre de la justice, par téléprocédure sur le site internet du ministère de la justice. Elle est accompagnée de toute pièce justificative, et notamment des conventions intervenues entre le titulaire de l'office ou ses ayants droit et le candidat.

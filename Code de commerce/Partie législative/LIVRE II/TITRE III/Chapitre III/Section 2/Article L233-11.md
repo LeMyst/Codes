@@ -1,3 +1,5 @@
+# Article L233-11
+
 Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de la société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la convention ou de l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers. A défaut de transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période d'offre publique.
 
 La société et l'Autorité des marchés financiers doivent également être informées de la date à laquelle la clause prend fin.

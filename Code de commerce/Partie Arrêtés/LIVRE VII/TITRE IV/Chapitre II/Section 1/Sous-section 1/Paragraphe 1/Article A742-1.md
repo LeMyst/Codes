@@ -1,3 +1,5 @@
+# Article A742-1
+
 Sont admis en dispense du diplôme de master en droit pour l'exercice de la profession de greffier de tribunal de commerce tous diplômes sanctionnant un niveau de formation correspondant au moins à cinq années d'études après le baccalauréat dans les disciplines juridiques, délivrés par :
 
 1° Un établissement public à caractère scientifique, culturel et professionnel habilité à le délivrer ;

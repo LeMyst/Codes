@@ -1,3 +1,5 @@
+# Article R310-8
+
 I.-Une déclaration préalable de vente au déballage est adressée par l'organisateur par lettre recommandée avec demande d'avis de réception ou remise contre récépissé au maire de la commune dans laquelle l'opération de vente est prévue, dans les délais suivants :
 
 1° Dans les mêmes délais que la demande d'autorisation d'occupation temporaire du domaine public et concomitamment à celle-ci lorsque la vente est prévue sur le domaine public et que le maire est l'autorité compétente pour délivrer l'autorisation ;

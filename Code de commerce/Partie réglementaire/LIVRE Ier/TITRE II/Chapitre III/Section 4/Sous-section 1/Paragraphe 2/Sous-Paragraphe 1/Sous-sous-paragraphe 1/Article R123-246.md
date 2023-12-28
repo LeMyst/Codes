@@ -1,3 +1,5 @@
+# Article R123-246
+
 Le cas échéant, sont également inscrits au sein du Registre national des entreprises, sur déclaration de la personne physique à l'occasion de son immatriculation, les éléments suivants :
 
 1° Pour les commerçants :

@@ -1,3 +1,5 @@
+# Article R824-18
+
 I.-La demande de récusation d'un membre de la formation restreinte est formée par le rapporteur général, par la personne poursuivie ou par son conseil dans un délai de huit jours francs à compter de la réception de la convocation mentionnée à l'article R. 824-16. Elle indique, à peine d'irrecevabilité, les motifs de la récusation et est, le cas échéant, accompagnée des pièces de nature à la justifier.
 
 II.-La demande de récusation est communiquée immédiatement au président de la formation restreinte et au membre qui en fait l'objet.

@@ -1,3 +1,5 @@
+# Article R131-1
+
 La demande d'inscription sur la liste des courtiers de marchandises assermentés est présentée au procureur général près la cour d'appel dans le ressort de laquelle le requérant a sa résidence ou, s'il s'agit d'une personne morale, son siège social, une succursale ou un établissement en rapport avec sa spécialité.
 
 La demande est assortie de toutes précisions utiles, notamment la ou les spécialités professionnelles pour lesquelles l'inscription est sollicitée, ainsi que des pièces suivantes :

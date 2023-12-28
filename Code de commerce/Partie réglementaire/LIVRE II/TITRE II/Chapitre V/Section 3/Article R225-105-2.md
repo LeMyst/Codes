@@ -1,3 +1,5 @@
+# Article R225-105-2
+
 I.-L'organisme tiers indépendant mentionné au V de l'article L. 225-102-1 est désigné, selon le cas, par le directeur général ou le président du directoire, pour une durée qui ne peut excéder six exercices, parmi les organismes accrédités à cet effet par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes d'accréditation.
 
 L'organisme tiers indépendant est soumis aux incompatibilités prévues à l'article L. 822-11-3.

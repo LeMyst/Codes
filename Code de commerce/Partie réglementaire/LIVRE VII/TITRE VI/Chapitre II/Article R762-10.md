@@ -1,3 +1,5 @@
+# Article R762-10
+
 L'organisateur d'un salon professionnel tel que défini à l'article L. 762-2 qui ne se tient pas dans un parc d'exposition enregistré adresse une déclaration préalable par voie électronique au préfet du département où se tient la manifestation deux mois au moins avant le début de celle-ci.
 
 Le déclarant fournit les principales caractéristiques de la manifestation. La liste de ces caractéristiques est définie par un arrêté du ministre chargé du commerce. Lorsque la manifestation s'est tenue précédemment, ses caractéristiques chiffrées sont certifiées dans des conditions fixées par arrêté du ministre chargé du commerce.

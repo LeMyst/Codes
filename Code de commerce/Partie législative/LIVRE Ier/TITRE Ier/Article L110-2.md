@@ -1,3 +1,5 @@
+# Article L110-2
+
 La loi répute pareillement actes de commerce :
 
 1° Toute entreprise de construction, et tous achats, ventes et reventes de bâtiments pour la navigation intérieure et extérieure ;

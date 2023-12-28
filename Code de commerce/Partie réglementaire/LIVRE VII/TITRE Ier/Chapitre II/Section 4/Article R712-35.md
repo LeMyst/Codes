@@ -1,3 +1,5 @@
+# Article R712-35
+
 La transmission à l'autorité de tutelle des délibérations relatives aux conventions de délégation est accompagnée :
 
 1° Des perspectives pluriannuelles d'exploitation faisant notamment apparaître les conditions de l'équilibre de cette exploitation ;

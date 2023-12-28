@@ -1,3 +1,5 @@
+# Article L526-7
+
 La constitution du patrimoine affecté résulte d'une déclaration effectuée :
 
 1° Pour une activité commerciale, au registre du commerce et des sociétés auprès duquel le commerçant est tenu de s'immatriculer ;

@@ -1,3 +1,5 @@
+# Article A444-133
+
 La dation en paiement (numéro 118 du tableau 5) donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette |

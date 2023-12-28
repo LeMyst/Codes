@@ -1,3 +1,5 @@
+# Article A444-68
+
 Les donations partages (numéros 20 et 21 du tableau 5) donnent lieu à la perception d'un émolument proportionnel :
 
 1° A la valeur en pleine propriété (y compris en cas de réserve d'usufruit) des biens donnés par chaque donateur, y compris les rapports, selon le barème suivant, s'agissant de la donation-partage conjonctive ;

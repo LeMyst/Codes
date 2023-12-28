@@ -1,3 +1,5 @@
+# Article L940-1
+
 Sous réserve des adaptations prévues dans les chapitres ci-après, les dispositions suivantes du présent code sont applicables dans le territoire de la Polynésie française :
 
 1° Le livre I, à l'exception des articles L. 124-1 à L. 126-1, L. 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;

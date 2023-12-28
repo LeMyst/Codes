@@ -1,3 +1,5 @@
+# Article L145-2
+
 I.-Les dispositions du présent chapitre s'appliquent également :
 
 1° Aux baux des locaux ou immeubles abritant des établissements d'enseignement ;

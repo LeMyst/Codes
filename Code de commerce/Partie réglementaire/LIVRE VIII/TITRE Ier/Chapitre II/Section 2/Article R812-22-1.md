@@ -1,3 +1,5 @@
+# Article R812-22-1
+
 Les dispositions relatives à la procédure disciplinaire devant la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires et celles relatives à la procédure de suspension provisoire devant le tribunal judiciaire, des mandataires judiciaires, sont applicables aux personnes mentionnées au III de l'article L. 812-2 sous réserve des dispositions suivantes :
 
 1° La commission ne peut statuer en matière disciplinaire qu'en présence du président et de dix au moins de ses membres ;

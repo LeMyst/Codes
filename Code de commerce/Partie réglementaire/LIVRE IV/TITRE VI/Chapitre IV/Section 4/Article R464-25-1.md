@@ -1,3 +1,5 @@
+# Article R464-25-1
+
 Les parties comparantes qui présentent leurs prétentions par écrit et sont assistées ou représentées par un avocat sont tenues de formuler expressément leurs prétentions et les moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur numérotation.
 
 Un bordereau énumérant les pièces justifiant ces prétentions est annexé à leurs observations écrites.

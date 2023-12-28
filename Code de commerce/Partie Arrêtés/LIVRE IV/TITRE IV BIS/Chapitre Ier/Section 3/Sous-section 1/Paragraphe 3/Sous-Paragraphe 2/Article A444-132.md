@@ -1,3 +1,5 @@
+# Article A444-132
+
 Les cessions de crédit-bail (numéros 116 et 117 du tableau 5) donnent lieu à la perception :
 
 1° S'agissant de la cession pure et simple, d'un émolument proportionnel au montant de l'investissement résiduel à la date de la cession, selon le barème suivant :

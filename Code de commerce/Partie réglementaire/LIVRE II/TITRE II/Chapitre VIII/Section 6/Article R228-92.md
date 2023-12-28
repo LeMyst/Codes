@@ -1,3 +1,5 @@
+# Article R228-92
+
 Si une société procède à une opération nécessitant l'application de l'article L. 228-99, elle en informe les titulaires des droits attachés aux valeurs mobilières donnant accès au capital intéressées par un avis.
 
 Cet avis mentionne :

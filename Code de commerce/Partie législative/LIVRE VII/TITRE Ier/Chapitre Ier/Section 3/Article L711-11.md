@@ -1,3 +1,5 @@
+# Article L711-11
+
 Il est créé une chambre de commerce et d'industrie dénommée " chambre de commerce et d'industrie de région Paris-Ile-de-France " dont la circonscription correspond à l'ensemble de la région d'Ile-de-France.
 
 Les chambres de commerce et d'industrie ainsi que les délégations existant dans la région d'Ile-de-France sont rattachées à la chambre de commerce et d'industrie de région Paris-Ile-de-France en tant que chambres de commerce et d'industrie départementales d'Ile-de-France ne disposant pas du statut juridique d'établissement public.

@@ -1,3 +1,5 @@
+# Article L522-38
+
 Il est interdit d'ouvrir et d'exploiter sans l'autorisation prescrite à l'article L. 522-1 un établissement recevant en dépôt des marchandises pour lesquelles sont délivrés aux déposants, sous le nom de warrants, ou tout autre nom, des bulletins de gages négociables ou des reçus d'entreposage.
 
 Toute infraction à cette prohibition est punie d'une amende de 6000 euros et d'un emprisonnement d'un an.

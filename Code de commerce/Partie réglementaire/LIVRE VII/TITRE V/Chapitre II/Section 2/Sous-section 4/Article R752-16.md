@@ -1,3 +1,5 @@
+# Article R752-16
+
 La commission se prononce par un vote à bulletins nominatifs. L'autorisation est adoptée à la majorité absolue des membres présents, les personnalités qualifiées mentionnées au 3° du II, au 3° du III et au 3° du IV de l'article L. 751-2 du code de commerce n'étant pas prises en compte.
 
 L'avis ou la décision est motivé, signé par le président et indique le sens du vote émis par chacun des membres présents.

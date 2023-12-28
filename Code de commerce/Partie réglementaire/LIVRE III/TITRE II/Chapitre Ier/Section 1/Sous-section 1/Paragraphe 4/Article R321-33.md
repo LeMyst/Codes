@@ -1,3 +1,5 @@
+# Article R321-33
+
 I.-La publicité prévue au premier alinéa de l'article L. 321-11 précise au moins la date et le lieu de la vente projetée, la dénomination de l'opérateur de vente volontaires ainsi que la date de sa déclaration auprès du Conseil des maisons de vente, le nom de la personne habilitée qui dirige la vente et, le cas échéant, le numéro de la déclaration faite en application de l'article L. 321-24.
 
 Elle doit également mentionner :

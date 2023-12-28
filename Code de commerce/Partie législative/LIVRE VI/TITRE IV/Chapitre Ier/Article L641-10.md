@@ -1,3 +1,5 @@
+# Article L641-10
+
 Si la cession totale ou partielle de l'entreprise est envisageable ou si l'intérêt public ou celui des créanciers l'exige, le maintien de l'activité peut être autorisé par le tribunal pour une durée maximale fixée par décret en Conseil d'Etat. Elle peut être prolongée à la demande du ministère public pour une durée fixée par la même voie. Lorsqu'il s'agit d'une exploitation agricole, ce délai est fixé par le tribunal en fonction de l'année culturale en cours et des usages spécifiques aux productions concernées.
 
 Le liquidateur administre l'entreprise.

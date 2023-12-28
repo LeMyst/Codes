@@ -1,3 +1,5 @@
+# Article L626-29
+
 Les dispositions de la présente section sont applicables aux entreprises qui atteignent des seuils fixés par décret en Conseil d'Etat.
 
 Elles s'appliquent également aux sociétés qui détiennent ou contrôlent une autre société, au sens des articles L. 233-1 et L. 233-3, dès lors que l'ensemble des sociétés concernées atteignent des seuils fixés par décret en Conseil d'Etat.

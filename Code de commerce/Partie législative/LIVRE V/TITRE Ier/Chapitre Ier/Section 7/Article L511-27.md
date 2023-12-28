@@ -1,3 +1,5 @@
+# Article L511-27
+
 Le tiré peut exiger, en payant la lettre de change, qu'elle lui soit remise acquittée par le porteur.
 
 Le porteur ne peut refuser un paiement partiel.

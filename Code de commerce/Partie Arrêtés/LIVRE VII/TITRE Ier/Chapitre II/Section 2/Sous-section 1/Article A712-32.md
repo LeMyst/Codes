@@ -1,1 +1,3 @@
+# Article A712-32
+
 Au plus tard lors de la séance suivant son installation, l'assemblée générale de chaque établissement public élit, en son sein, une commission des finances, dont la composition et les attributions sont précisées dans une norme d'intervention prévue au titre du 2° de l'article L. 711-16.

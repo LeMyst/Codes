@@ -1,3 +1,5 @@
+# Article R821-25
+
 La Compagnie nationale concourt à la réalisation des objectifs fixés par l'article L. 821-6 pour le bon exercice de la profession par ses membres.
 
 La Compagnie nationale représente la profession et défend ses intérêts moraux et matériels. Elle peut présenter aux ministres intéressés toute proposition relative aux intérêts de ses membres. Elle accompagne les professionnels en s'appuyant sur les compagnies régionales.

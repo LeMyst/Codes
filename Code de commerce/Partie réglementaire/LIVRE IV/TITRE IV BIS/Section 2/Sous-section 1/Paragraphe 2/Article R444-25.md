@@ -1,3 +1,5 @@
+# Article R444-25
+
 Sont éligibles aux aides au maintien les professionnels répondant aux conditions cumulatives suivantes :
 
 1° Le chiffre d'affaires annuel hors taxes moyen hors aides et hors honoraires réalisé au cours des trois derniers exercices comptables clos est inférieur au premier décile de chiffre d'affaires de la profession concernée, constaté à partir des dernières données disponibles sur une période d'au moins deux ans ;

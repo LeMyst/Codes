@@ -1,3 +1,5 @@
+# Article R752-14
+
 La commission entend le demandeur. Elle peut également entendre, à son initiative ou sur demande écrite au secrétariat de la commission, toute personne dont l'avis présente un intérêt pour l'examen de la demande dont elle est saisie.
 
 Lorsqu'elle examine la première demande d'autorisation d'exploitation commerciale sollicitée pour un projet, sauf procédure fixée à l'article L. 752-4, la commission départementale entend également les personnes mentionnées au I de l'article L. 751-2, dans la limite de deux associations par commune.

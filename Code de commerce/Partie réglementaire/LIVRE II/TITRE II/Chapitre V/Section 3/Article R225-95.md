@@ -1,3 +1,5 @@
+# Article R225-95
+
 La feuille de présence aux assemblées d'actionnaires contient les mentions suivantes :
 
 1° Les nom, prénom usuel et domicile de chaque actionnaire présent ou réputé présent à raison de sa participation à l'assemblée selon les modalités prévues au II de l'article L. 225-107 ou à l'article L. 225-103-1, le nombre d'actions dont il est titulaire, ainsi que le nombre de voix attaché à ces actions ;

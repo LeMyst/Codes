@@ -1,3 +1,5 @@
+# Article A444-17
+
 Les prestations mentionnées à l'article A. 444-16 donnent également lieu à la perception du droit d'engagement de poursuite mentionné à l'article A. 444-15, à l'exception de celles figurant aux numéros suivants du tableau 3-1 :
 
 1° Numéro 51 (acte de saisie-attribution, en cas de compte clôturé ou de solde négatif) ;

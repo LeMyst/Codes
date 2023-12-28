@@ -1,3 +1,5 @@
+# Article R225-114
+
 Le rapport du conseil d'administration ou du directoire prévu à l'article L. 225-135 indique le montant maximal et les motifs de l'augmentation de capital proposée, ainsi que les motifs de la proposition de suppression du droit préférentiel de souscription.
 
 Il indique en outre :

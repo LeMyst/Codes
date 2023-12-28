@@ -1,3 +1,5 @@
+# Article L134-11
+
 Un contrat à durée déterminée qui continue à être exécuté par les deux parties après son terme est réputé transformé en un contrat à durée indéterminée.
 
 Lorsque le contrat d'agence est à durée indéterminée, chacune des parties peut y mettre fin moyennant un préavis. Les dispositions du présent article sont applicables au contrat à durée déterminée transformé en contrat à durée indéterminée. Dans ce cas, le calcul de la durée du préavis tient compte de la période à durée déterminée qui précède.

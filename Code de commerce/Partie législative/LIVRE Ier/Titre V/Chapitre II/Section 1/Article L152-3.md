@@ -1,3 +1,5 @@
+# Article L152-3
+
 I.-Dans le cadre d'une action relative à la prévention ou la cessation d'une atteinte à un secret des affaires, la juridiction peut, sans préjudice de l'octroi de dommages et intérêts, prescrire, y compris sous astreinte, toute mesure proportionnée de nature à empêcher ou à faire cesser une telle atteinte. Elle peut notamment :
 
 1° Interdire la réalisation ou la poursuite des actes d'utilisation ou de divulgation d'un secret des affaires ;

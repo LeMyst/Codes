@@ -1,3 +1,5 @@
+# Article R233-15
+
 Sous réserve d'en justifier dans l'annexe prévue à l'article L. 123-12, les sociétés mentionnées au 1° de l'article L. 233-17 sont exemptées de l'obligation d'établir des comptes consolidés et un rapport sur la gestion du groupe lorsque sont réunies les conditions suivantes :
 
 1° Les comptes consolidés de l'ensemble plus grand d'entreprises, dans lequel ces sociétés sont incluses, sont établis en conformité avec les articles L. 233-16 à L. 233-28 ou, pour les entreprises relevant de la législation nationale d'un autre Etat, avec les dispositions prises par cet Etat pour l'application de la directive n° 2013/34/ UE du 26 juin 2013 ou, lorsque cet Etat n'est pas tenu de se conformer à cette directive, avec des principes et des règles offrant un niveau d'exigence équivalant aux dispositions des articles L. 233-16 à L. 233-28 ou à celles de ladite directive ;

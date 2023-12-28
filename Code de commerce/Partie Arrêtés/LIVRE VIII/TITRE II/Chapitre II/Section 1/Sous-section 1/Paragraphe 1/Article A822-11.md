@@ -1,3 +1,5 @@
+# Article A822-11
+
 Le stagiaire qui souhaite effectuer une partie de son stage en France chez une personne autre qu'un commissaire aux comptes inscrit sur la liste prévue à l'article L. 822-1, ou tout ou partie de son stage à l'étranger, obtient l'autorisation du conseil régional.
 
 Elle est délivrée au vu de la ou des pièces suivantes :

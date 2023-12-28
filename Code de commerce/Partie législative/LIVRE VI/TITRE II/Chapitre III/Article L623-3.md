@@ -1,3 +1,5 @@
+# Article L623-3
+
 L'administrateur reçoit du juge-commissaire tous renseignements et documents utiles à l'accomplissement de sa mission et de celle des experts.
 
 Lorsque la procédure est ouverte à l'égard d'une entreprise qui bénéficie de l'accord amiable homologué prévu à l'article L. 611-8 du présent code ou à l'article L. 351-6 du code rural et de la pêche maritime, l'administrateur reçoit communication du rapport d'expertise mentionné à l'article L. 611-6 ou, le cas échéant, du rapport d'expertise et du compte rendu mentionnés aux articles L. 351-3 et L. 351-6 du code rural et de la pêche maritime.

@@ -1,3 +1,5 @@
+# Article R123-263
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la personne morale aux fins d'inscription modificative, toute rectification ou adjonction aux énonciations prévues aux articles R. 123-252 à R. 123-261, ainsi que les éléments complémentaires suivants :
 
 1° L'indication de la nature secondaire de chaque établissement répondant à cette description et, le cas échéant, sa dénomination et les énonciations prévues à l'article R. 123-244 et, le cas échéant, à l'article R. 123-246 ;

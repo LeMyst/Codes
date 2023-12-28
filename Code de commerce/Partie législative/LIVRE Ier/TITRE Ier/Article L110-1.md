@@ -1,3 +1,5 @@
+# Article L110-1
+
 La loi répute actes de commerce :
 
 1° Tout achat de biens meubles pour les revendre, soit en nature, soit après les avoir travaillés et mis en oeuvre ;

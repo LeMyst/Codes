@@ -1,3 +1,5 @@
+# Article R823-12
+
 Les diligences estimées nécessaires à l'exécution du programme de travail doivent comporter pour un exercice, en fonction du montant du bilan de la personne ou de l'entité, augmenté du montant des produits d'exploitation et des produits financiers, hors TVA, un nombre d'heures de travail normalement compris entre les chiffres suivants :
 
 Montant total du bilan et des produits d'exploitation et des produits financiers, hors taxes, et nombre normal d'heures de travail :

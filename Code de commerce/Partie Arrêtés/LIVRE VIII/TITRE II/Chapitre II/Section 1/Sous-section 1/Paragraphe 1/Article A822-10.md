@@ -1,3 +1,5 @@
+# Article A822-10
+
 Le stagiaire est tenu de faire connaître au président du conseil régional, par lettre recommandée avec demande d'avis de réception, quinze jours au moins avant le début de son stage :
 
 1° Son nom et son adresse ;

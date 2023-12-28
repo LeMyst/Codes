@@ -1,3 +1,5 @@
+# Article A123-31
+
 I.-Les fichiers de rediffusion prévus au II de l'article D. 123-80-1 sont transmis au format texte pour les résultats des retraitements des informations contenues dans les inscriptions ainsi que, s'ils existent dans ce format, pour les résultats des retraitements des actes et pièces, dont les comptes annuels. Ces fichiers sont conformes à la norme ISO/ CEI-8859-1. Ils sont accompagnés de leurs empreintes MD5 ainsi que de la documentation technique associée complète et à jour.
 
 Ces fichiers intègrent l'ensemble des informations saisies, notamment la dénomination sociale, le numéro SIREN, l'adresse, la date d'inscription ou du dépôt au greffe, le type d'acte, la date de clôture et l'année de clôture des comptes annuels, le type d'évènement, le type de document, la nature du document, le code du greffe, le numéro de gestion, le numéro du dépôt, les nom, type, taille et nombre de pages des fichiers et, pour les comptes annuels faisant l'objet d'une déclaration de confidentialité en application des premier et deuxième alinéas de l'article R. 123-111-1, l'indicateur de confidentialité correspondant à la déclaration de la société.

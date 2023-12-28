@@ -1,3 +1,5 @@
+# Article L711-9
+
 Les chambres de commerce et d'industrie de région élaborent, en cohérence avec le contrat de plan régional de développement des formations et de l'orientation professionnelles, un schéma régional en matière de formation professionnelle qui a vocation à être décliné au sein des chambres de commerce et d'industrie territoriales et départementales d'Ile-de-France afin de tenir compte des spécificités locales.
 
 Dans l'exercice des compétences mentionnées au premier alinéa, les chambres de commerce et d'industrie de région peuvent créer et gérer des écoles dénommées établissements d'enseignement supérieur consulaire, dans les conditions prévues à la section 5 du présent chapitre.

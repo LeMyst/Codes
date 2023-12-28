@@ -1,3 +1,5 @@
+# Article R123-2
+
 I.-L'organisme unique met en œuvre un service informatique, dénommé guichet unique électronique des formalités d'entreprises, accessible par l'internet, sécurisé et gratuit, qui permet au déclarant, selon son choix :
 
 1° D'établir un dossier unique dans les conditions définies à l'article R. 123-3 ;

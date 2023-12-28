@@ -1,3 +1,5 @@
+# Article L622-1
+
 I.-L'administration de l'entreprise est assurée par son dirigeant.
 
 II.-Lorsque le tribunal, en application des dispositions de l'article L. 621-4, désigne un ou plusieurs administrateurs, il les charge ensemble ou séparément de surveiller le débiteur dans sa gestion ou de l'assister pour tous les actes de gestion ou pour certains d'entre eux.

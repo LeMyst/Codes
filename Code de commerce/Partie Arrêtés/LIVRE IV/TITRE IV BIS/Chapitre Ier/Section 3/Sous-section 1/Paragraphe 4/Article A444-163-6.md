@@ -1,3 +1,5 @@
+# Article A444-163-6
+
 L'attestation de propriété qui est délivrée à la suite du constat de la survenance d'une condition résolutoire entraînant la révocation d'une donation en application de l'article 960 du code civil donne lieu à la perception des émoluments suivants :
 
 |

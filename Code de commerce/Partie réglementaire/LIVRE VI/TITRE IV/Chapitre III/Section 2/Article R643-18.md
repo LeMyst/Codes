@@ -1,3 +1,5 @@
+# Article R643-18
+
 Le tribunal statue sur la clôture de la procédure sur le rapport du liquidateur.
 
 Le cas échéant, le liquidateur est désigné pour exercer la mission prévue au troisième alinéa de l'article L. 643-9 à moins que n'existe un conflit d'intérêts. Par décision motivée, le tribunal peut, à la demande du débiteur ou du ministère public, désigner une autre personne dans les conditions prévues à l'article L. 812-2. Le mandataire désigné est soumis aux mêmes obligations que celles qui auraient été applicables au liquidateur s'il avait poursuivi les instances en cours et réparti les sommes issues de celles-ci.

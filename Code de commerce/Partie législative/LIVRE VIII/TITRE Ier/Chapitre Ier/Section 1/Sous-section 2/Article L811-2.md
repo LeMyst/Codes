@@ -1,3 +1,5 @@
+# Article L811-2
+
 Nul ne peut être désigné en justice pour exercer ces fonctions, sous réserve des dispositions particulières à certaines matières, notamment celles relatives aux mineurs et aux majeurs protégés, ou sous réserve des missions occasionnelles qui peuvent être confiées aux membres des professions judiciaires et juridiques en matière civile, s'il n'est inscrit sur la liste établie par une commission nationale instituée à cet effet.
 
 Toutefois, le tribunal peut, après avis du procureur de la République, désigner comme administrateur judiciaire une personne physique justifiant d'une expérience ou d'une qualification particulière au regard de la nature de l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L. 811-5. Il motive spécialement sa décision au regard de cette expérience ou de cette qualification particulière.

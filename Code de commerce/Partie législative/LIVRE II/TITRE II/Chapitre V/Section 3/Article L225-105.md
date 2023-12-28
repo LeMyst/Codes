@@ -1,3 +1,5 @@
+# Article L225-105
+
 L'ordre du jour des assemblées est arrêté par l'auteur de la convocation.
 
 Toutefois, un ou plusieurs actionnaires représentant au moins 5 % du capital ou une association d'actionnaires répondant aux conditions fixées à l'article L. 225-120 ont la faculté de requérir l'inscription à l'ordre du jour de points ou de projets de résolution. Ces points ou ces projets de résolution sont inscrits à l'ordre du jour de l'assemblée et portés à la connaissance des actionnaires dans les conditions déterminées par décret en Conseil d'Etat. Celui-ci peut réduire le pourcentage exigé par le présent alinéa, lorsque le capital social excède un montant fixé par ledit décret.

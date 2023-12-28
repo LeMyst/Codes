@@ -1,3 +1,5 @@
+# Article L441-3-1
+
 I.-La convention écrite conclue soit entre le fournisseur et le grossiste, défini au I de l'article L. 441-1-2, soit entre le grossiste et le distributeur ou le prestataire de services mentionne les obligations réciproques auxquelles se sont engagées les parties à l'issue de la négociation commerciale, dans le respect des articles L. 442-1 à L. 442-3. Cette convention est établie soit dans un document unique, soit dans un ensemble formé par un contrat-cadre et des contrats d'application.
 
 II.-Sans préjudice des articles L. 442-1 à L. 442-3, tout avenant à la convention mentionnée au I du présent article fait l'objet d'un écrit qui mentionne l'élément nouveau le justifiant.

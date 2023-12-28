@@ -1,3 +1,5 @@
+# Article R521-27
+
 I.-Le recours contre la décision de refus d'inscription, de modification ou de radiation est porté devant le président du tribunal dont dépend le greffier qui a opposé le refus.
 
 Ce recours est formé par lettre recommandée avec demande d'avis de réception adressée au greffe dans un délai de quinze jours à compter de la notification de la décision.

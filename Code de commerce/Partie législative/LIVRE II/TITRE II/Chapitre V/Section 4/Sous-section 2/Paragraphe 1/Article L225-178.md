@@ -1,3 +1,5 @@
+# Article L225-178
+
 L'autorisation donnée par l'assemblée générale extraordinaire comporte, au profit des bénéficiaires des options, renonciation expresse des actionnaires à leur droit préférentiel de souscription aux actions qui seront émises au fur et à mesure des levées d'options.
 
 L'augmentation de capital résultant de ces levées d'options ne donne pas lieu aux formalités prévues à l'article L. 225-142, au deuxième alinéa de l'article L. 225-144 et à l'article L. 225-146. Elle est définitivement réalisée du seul fait de la déclaration de levée d'option, accompagnée du bulletin de souscription et du paiement en numéraire ou par compensation avec des créances, de la somme correspondante.

@@ -1,3 +1,5 @@
+# Article A444-96
+
 La première vente à terme d'un local d'habitation mentionné à l'article A. 444-95 (numéro 60 du tableau 5) donne lieu à la perception :
 
 1° Sur le premier acte contenant le contrat de vente à terme proprement dit, d'un émolument proportionnel non dégressif égal à celui correspondant à la tranche supérieure de l'émolument de vente, en tenant compte des distinctions établies à l'article A. 444-95 en fonction du nombre d'unités principales d'habitation concernées par le permis de construire ;

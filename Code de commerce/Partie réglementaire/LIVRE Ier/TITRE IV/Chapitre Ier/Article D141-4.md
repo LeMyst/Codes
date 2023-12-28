@@ -1,3 +1,5 @@
+# Article D141-4
+
 L'information des salariés mentionnée aux articles L. 141-25 et L. 141-30 peut être effectuée selon les modalités suivantes :
 
 1° Au cours d'une réunion d'information des salariés à l'issue de laquelle ces derniers signent le registre de présence à cette réunion ;

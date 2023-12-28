@@ -1,3 +1,5 @@
+# Article L641-13
+
 I.-Sont payées à leur échéance les créances nées régulièrement après le jugement qui ouvre ou prononce la liquidation judiciaire :
 
 -si elles sont nées pour les besoins du déroulement de la procédure ou du maintien provisoire de l'activité autorisé en application de l'article L. 641-10 ;

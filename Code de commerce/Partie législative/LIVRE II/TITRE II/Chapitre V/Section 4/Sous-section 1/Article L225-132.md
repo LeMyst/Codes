@@ -1,3 +1,5 @@
+# Article L225-132
+
 Les actions comportent un droit préférentiel de souscription aux augmentations de capital.
 
 Les actionnaires ont, proportionnellement au montant de leurs actions, un droit de préférence à la souscription des actions de numéraire émises pour réaliser une augmentation de capital.

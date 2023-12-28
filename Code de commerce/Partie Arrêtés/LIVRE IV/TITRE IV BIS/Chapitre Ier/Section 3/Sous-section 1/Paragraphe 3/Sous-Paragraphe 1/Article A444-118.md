@@ -1,3 +1,5 @@
+# Article A444-118
+
 L'abandon de biens ou droits (numéro 98 du tableau 5) donne lieu à la perception :
 
 1° S'agissant de l'abandon unilatéral par acte séparé, d'un émolument fixe de 26,41 € ;

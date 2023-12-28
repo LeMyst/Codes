@@ -1,3 +1,5 @@
+# Article A134-2
+
 A l'appui de sa déclaration, le requérant présente :
 
 I. Dans tous les cas, un exemplaire de l'écrit signé avec un mandant, mentionnant le contenu du contrat d'agence, ou, à défaut, tout document établissant l'existence d'un tel contrat, traduit, le cas échéant, en langue française ; et, en outre,

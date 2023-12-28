@@ -1,3 +1,5 @@
+# Article R822-80
+
 Les statuts fixent le nombre des voix dont dispose chaque associé.
 
 Un associé peut donner mandat écrit à un autre associé de le représenter à l'assemblée.

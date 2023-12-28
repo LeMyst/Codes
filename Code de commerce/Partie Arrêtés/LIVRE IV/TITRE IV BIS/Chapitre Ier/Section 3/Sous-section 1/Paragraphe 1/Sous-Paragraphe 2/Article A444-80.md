@@ -1,3 +1,5 @@
+# Article A444-80
+
 L'examen des comptes du mandataire désigné au titre d'un mandat de protection future (numéro 39 du tableau 5) donne lieu à la perception d'un émolument fonction du chapitre le plus élevé, en recettes ou en dépenses, au titre de l'année à laquelle se rapportent les comptes, selon le barème suivant :
 
 | Chapitre le plus élevé, en recettes ou en dépenses,

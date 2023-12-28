@@ -1,3 +1,5 @@
+# Article L931-10
+
 L'article L. 144-12 est ainsi rédigé :
 
 " Art. L. 144-12.-A défaut d'accord amiable entre les parties sur la révision du loyer, l'instance est introduite et jugée conformément aux dispositions prévues en matière de révision du prix des baux à loyer d'immeubles ou de locaux à usage commercial ou industriel.

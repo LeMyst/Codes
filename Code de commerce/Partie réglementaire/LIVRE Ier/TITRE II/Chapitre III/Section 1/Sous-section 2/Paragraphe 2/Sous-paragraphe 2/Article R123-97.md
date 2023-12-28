@@ -1,3 +1,5 @@
+# Article R123-97
+
 Le greffier procède à l'inscription dans le délai d'un jour franc ouvrable après réception de la demande. Il en informe le demandeur par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1 et dans les conditions prévues par l'article R. 123-7.
 
 Toutefois, lorsque le dossier est incomplet, il réclame dans ce délai, par l'intermédiaire de l'organisme unique et dans les mêmes conditions, les renseignements ou pièces manquants qui sont fournis dans un délai de quinze jours à compter de cette réclamation. A la réception de ces renseignements ou pièces, le greffier procède à l'immatriculation dans le délai mentionné au premier alinéa.

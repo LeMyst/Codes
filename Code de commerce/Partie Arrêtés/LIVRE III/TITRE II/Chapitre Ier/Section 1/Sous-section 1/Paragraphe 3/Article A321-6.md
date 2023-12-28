@@ -1,3 +1,5 @@
+# Article A321-6
+
 Les candidatures sont adressées au conseil des maisons de vente par lettre recommandée avec demande d'avis de réception ou par tout autre moyen équivalent, au plus tard un mois avant la date de la première épreuve de la session.
 
 Le dossier de candidature comprend, avec, s'il y a lieu, leur traduction en français, les pièces suivantes :

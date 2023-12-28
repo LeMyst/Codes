@@ -1,3 +1,5 @@
+# Article L145-18
+
 Le bailleur a le droit de refuser le renouvellement du bail pour construire ou reconstruire l'immeuble existant, à charge de payer au locataire évincé l'indemnité d'éviction prévue à l'article L. 145-14.
 
 Il en est de même pour effectuer des travaux nécessitant l'évacuation des lieux compris dans un secteur ou périmètre prévu aux articles L. 313-4 et L. 313-4-2 du code de l'urbanisme et autorisés ou prescrits dans les conditions prévues audits articles.

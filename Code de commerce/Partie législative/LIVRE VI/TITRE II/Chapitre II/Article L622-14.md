@@ -1,3 +1,5 @@
+# Article L622-14
+
 Sans préjudice de l'application du I et du II de l'article L. 622-13, la résiliation du bail des immeubles donnés à bail au débiteur et utilisés pour l'activité de l'entreprise intervient dans les conditions suivantes :
 
 1° Au jour où le bailleur est informé de la décision de l'administrateur de ne pas continuer le bail. Dans ce cas, l'inexécution peut donner lieu à des dommages et intérêts au profit du cocontractant, dont le montant doit être déclaré au passif. Le cocontractant peut néanmoins différer la restitution des sommes versées en excédent par le débiteur en exécution du contrat jusqu'à ce qu'il ait été statué sur les dommages et intérêts ;

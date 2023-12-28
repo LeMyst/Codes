@@ -1,3 +1,5 @@
+# Article R626-55
+
 L'administrateur avise par tout moyen chaque partie affectée qu'elle est membre d'une classe et lui fait connaître les modalités lui permettant de communiquer par voie électronique.
 
 Sous réserve des dispositions de la présente section, les dispositions de la sous-section 5 de la section 4 du chapitre IV du titre Ier du livre VIII sont applicables.

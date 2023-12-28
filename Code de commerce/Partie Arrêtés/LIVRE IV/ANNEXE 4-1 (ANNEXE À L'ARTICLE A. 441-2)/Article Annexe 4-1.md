@@ -1,3 +1,5 @@
+# Article Annexe 4-1
+
 MODÈLE TYPE DE TABLEAUX UTILISÉS POUR PRÉSENTER LES INFORMATIONS RELATIVES AUX DÉLAIS DE PAIEMENT DES FOURNISSEURS ET DES CLIENTS MENTIONNÉS À L'ARTICLE D. 441-4
 
 Factures reçues et émises non réglées à la date de clôture de l'exercice dont le terme est échu (tableau prévu au I de l'article D. 441-4)

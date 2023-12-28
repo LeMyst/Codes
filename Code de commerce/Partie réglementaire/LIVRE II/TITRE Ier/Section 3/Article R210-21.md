@@ -1,3 +1,5 @@
+# Article R210-21
+
 I.-L'organisme tiers indépendant mentionné au 4° de l'article L. 210-10 est désigné parmi les organismes accrédités à cet effet par le Comité français d'accréditation défini par le décret n° 2008-1401 du 19 décembre 2008 relatif à l'accréditation et à l'évaluation de conformité pris en application de l'article 137 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie ou par tout autre organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes d'accréditation.
 
 Il est soumis aux incompatibilités prévues à l'article L. 822-11-3.

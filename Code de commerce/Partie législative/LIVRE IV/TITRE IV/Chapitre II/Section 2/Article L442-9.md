@@ -1,3 +1,5 @@
+# Article L442-9
+
 I. - Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait d'opérer la hausse ou la baisse artificielle soit du prix de biens ou de services, soit d'effets publics ou privés, notamment à l'occasion d'enchères à distance :
 
 1° En diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses ;

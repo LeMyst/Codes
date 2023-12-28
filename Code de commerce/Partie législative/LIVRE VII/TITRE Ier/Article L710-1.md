@@ -1,3 +1,5 @@
+# Article L710-1
+
 Les établissements du réseau des chambres de commerce et d'industrie ont chacun, en leur qualité de corps intermédiaire de l'Etat, une fonction de représentation des intérêts de l'industrie, du commerce et des services auprès des pouvoirs publics ou des autorités étrangères. Assurant l'interface entre les différents acteurs concernés, ils exercent leur activité sans préjudice des missions de représentation conférées aux organisations professionnelles ou interprofessionnelles par les dispositions législatives ou réglementaires en vigueur et des missions menées par les collectivités territoriales dans le cadre de leur libre administration.
 
 Le réseau et, en son sein, chaque établissement contribuent au développement économique, à l'attractivité et à l'aménagement des territoires ainsi qu'au soutien des entreprises et de leurs associations en remplissant, dans des conditions fixées par décret, toute mission de service public et toute mission d'intérêt général directement utiles à l'accomplissement de ses missions. Dans le cadre de ses missions, il veille à l'égalité entre les femmes et les hommes et encourage l'entrepreneuriat féminin.

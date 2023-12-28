@@ -1,3 +1,5 @@
+# Article L110-4
+
 I.-Les obligations nées à l'occasion de leur commerce entre commerçants ou entre commerçants et non-commerçants se prescrivent par cinq ans si elles ne sont pas soumises à des prescriptions spéciales plus courtes.
 
 II.-Sont prescrites toutes actions en paiement :

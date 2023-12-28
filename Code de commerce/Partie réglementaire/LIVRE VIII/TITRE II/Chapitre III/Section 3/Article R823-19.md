@@ -1,3 +1,5 @@
+# Article R823-19
+
 Le secrétariat de la formation restreinte cite les parties à comparaître devant celle-ci quinze jours au moins avant l'audience, par lettre recommandée avec demande d'avis de réception. Le cas échéant, les avocats des parties sont avisés de la date d'audience par le secrétariat de la formation restreinte par lettre simple.
 
 Dès réception de la citation à comparaître, les parties peuvent prendre connaissance du dossier. Elles peuvent se faire assister ou représenter par un avocat. Les parties et leur avocat peuvent se faire délivrer copie de tout ou partie des pièces du dossier pour l'usage exclusif de la procédure.

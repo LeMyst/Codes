@@ -1,3 +1,5 @@
+# Article A526-4
+
 L'état descriptif du patrimoine affecté prévu au 2° de l'article R. 526-13 et destiné à être publié au Bulletin officiel des annonces civiles et commerciales contient les informations suivantes, fournies par le cédant ou l'apporteur :
 
 1° La valeur globale de l'actif ;

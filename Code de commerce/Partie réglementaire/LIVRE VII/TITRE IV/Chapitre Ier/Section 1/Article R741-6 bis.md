@@ -1,3 +1,5 @@
+# Article R741-6 bis
+
 Le greffier de tribunal de commerce investi d'un mandat de délégation conformément au deuxième alinéa de l'article 27 de l'ordonnance n° 2022-544 du 13 avril 2022 relative à la déontologie et à la discipline des officiers ministériels :
 
 1° Ne doit pas avoir été l'auteur de faits contraires à l'honneur et à la probité ;

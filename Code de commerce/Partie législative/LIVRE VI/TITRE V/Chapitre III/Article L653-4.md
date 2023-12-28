@@ -1,3 +1,5 @@
+# Article L653-4
+
 Le tribunal peut prononcer la faillite personnelle de tout dirigeant, de droit ou de fait, d'une personne morale, contre lequel a été relevé l'un des faits ci-après :
 
 1° Avoir disposé des biens de la personne morale comme des siens propres ;

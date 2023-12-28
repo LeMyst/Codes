@@ -1,3 +1,5 @@
+# Article R743-126
+
 Si la société n'agrée pas le cessionnaire proposé, il est procédé conformément aux dispositions desarticles L. 223-14 et L. 228-24.
 
 Si l'acquéreur est un tiers à la société, les dispositions desarticles R. 743-44 et R. 743-125sont applicables.

@@ -1,3 +1,5 @@
+# Article A743-10-1
+
 Les prestations relatives au registre des bénéficiaires effectifs donnent lieu à la perception d'un émolument fixe conformément au tableau ci-après :
 
 |

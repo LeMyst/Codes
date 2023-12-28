@@ -1,3 +1,5 @@
+# Article R123-314
+
 Le greffier du tribunal de commerce ou du tribunal judiciaire sollicite du teneur du Registre national des entreprises, par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1, la radiation des mentions relatives aux décisions mentionnées à l'article R. 123-298 lorsque :
 
 1° Il a été mis fin à une procédure de sauvegarde en application de l'article L. 622-12 ;

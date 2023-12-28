@@ -1,3 +1,5 @@
+# Article R123-243
+
 Sont inscrits au sein du Registre national des entreprises, sur déclaration de la personne physique à l'occasion de son immatriculation, les éléments suivants :
 
 1° S'agissant de la personne :

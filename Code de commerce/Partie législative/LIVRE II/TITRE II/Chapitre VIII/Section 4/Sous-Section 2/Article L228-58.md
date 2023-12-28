@@ -1,3 +1,5 @@
+# Article L228-58
+
 L'assemblée générale des obligataires est convoquée par le conseil d'administration, le directoire ou le représentant légal de la société, par les représentants de la masse ou par les liquidateurs pendant la période de liquidation.
 
 Un ou plusieurs obligataires, réunissant au moins le trentième des titres d'une masse, peuvent adresser à la société et au représentant de la masse une demande tendant à la convocation de l'assemblée.

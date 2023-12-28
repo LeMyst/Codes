@@ -1,3 +1,5 @@
+# Article A663-8
+
 L'émolument prévu au premier alinéa de l'article R. 663-9 au titre de l'élaboration du bilan économique, social et environnemental et de l'assistance apportée au débiteur pour la préparation d'un plan de sauvegarde ou de redressement (numéro 2 du tableau 4-1), est ainsi fixé :
 
 1° Lorsque le total du bilan du débiteur est inférieur à 3 650 000 €, cet émolument varie en fonction du nombre de salariés employés par le débiteur ou du montant de son chiffre d'affaires, selon le barème suivant :

@@ -1,3 +1,5 @@
+# Article A761-10
+
 Le dossier de réduction d'un périmètre de référence comprend :
 
 1° Un plan de localisation du périmètre de référence comprenant les communes restant sur le territoire desquelles s'appliquent les dispositions des articles L. 761-5 à L. 761-7 et laissant apparaître les communes qui en sont exclues ;

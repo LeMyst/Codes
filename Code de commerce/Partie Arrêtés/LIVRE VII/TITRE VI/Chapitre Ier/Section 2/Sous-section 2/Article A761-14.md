@@ -1,3 +1,5 @@
+# Article A761-14
+
 La seconde partie de la demande au préfet mentionnée au premier alinéa de l'article R. 761-12-1 comporte la totalité des éléments utiles à l'instruction de la demande, soit :
 
 1° Un plan indicatif des surfaces de vente, le cas échéant avant et après l'extension sollicitée ;

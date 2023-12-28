@@ -1,3 +1,5 @@
+# Article R621-24
+
 Le créancier demandant à être nommé contrôleur en application du premier alinéa de l'article L. 621-10 doit en faire la déclaration au greffe. Il indique le montant de sa ou de ses créances, ainsi que, le cas échéant, la nature des sûretés dont il est titulaire.
 
 Les créanciers et institutions mentionnés au deuxième alinéa de l'article L. 621-10, qui demandent à être désignés contrôleurs, en font la déclaration au greffe, transmettent leur demande par lettre recommandée avec demande d'avis de réception ; ils indiquent, selon les mêmes modalités, le nom de la personne qui les représente dans ces fonctions. Le délai prévu par l'alinéa suivant n'est pas applicable.

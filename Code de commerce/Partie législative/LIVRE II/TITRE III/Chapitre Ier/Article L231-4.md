@@ -1,3 +1,5 @@
+# Article L231-4
+
 Les actions ou coupons d'actions sont nominatifs, même après leur entière libération.
 
 Ils ne sont négociables qu'après la constitution définitive de la société.

@@ -1,3 +1,5 @@
+# Article R321-67
+
 Lorsque la formation reçue par le demandeur porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes mentionnés au 3° de l'article R. 321-18 et de l'examen professionnel mentionné à l'article R. 321-22, l'intéressé subit, à son choix, une épreuve d'aptitude devant le jury prévu à l'article R. 321-23 ou un stage d'adaptation dont la durée ne peut excéder trois ans.
 
 Le programme et les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation sont fixés par arrêté du garde des sceaux, ministre de la justice.

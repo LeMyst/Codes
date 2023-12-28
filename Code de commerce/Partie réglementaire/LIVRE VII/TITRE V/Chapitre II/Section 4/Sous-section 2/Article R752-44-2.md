@@ -1,3 +1,5 @@
+# Article R752-44-2
+
 L'habilitation prévue au premier alinéa de l'article L. 752-23 est accordée à toute personne morale remplissant les conditions suivantes :
 
 1° Ne pas avoir fait l'objet, ni elle-même ni aucun de ses représentants légaux, membres ou salariés, d'une condamnation correctionnelle ou criminelle, prononcée par une juridiction française ou étrangère, pour une infraction relative à la corruption ou au trafic d'influence, à des détournements, escroqueries ou extorsions au sens du code pénal ;

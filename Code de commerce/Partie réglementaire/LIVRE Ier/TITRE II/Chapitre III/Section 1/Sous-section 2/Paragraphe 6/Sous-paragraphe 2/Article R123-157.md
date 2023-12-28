@@ -1,3 +1,5 @@
+# Article R123-157
+
 L'avis au Bulletin officiel des annonces civiles et commerciales contient pour les sociétés et les groupements d'intérêt économique :
 
 1° Les références de l'immatriculation ;

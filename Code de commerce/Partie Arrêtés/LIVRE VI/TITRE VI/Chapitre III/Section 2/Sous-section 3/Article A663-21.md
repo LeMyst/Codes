@@ -1,3 +1,5 @@
+# Article A663-21
+
 L'émolument prévu à l'article R. 663-23 au titre de la vérification des créances non salariales (numéro 4 du tableau 4-3) varie en fonction du montant de la créance selon le barème suivant :
 
 |

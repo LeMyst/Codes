@@ -1,3 +1,5 @@
+# Article R622-4-1
+
 Lorsque l'inventaire est établi par le débiteur en application de l'article L. 622-6-1, celui-ci tient informés l'administrateur, lorsqu'il en a été désigné, et le mandataire judiciaire du déroulement des opérations. Ces mandataires de justice ainsi que le juge-commissaire et le ministère public peuvent requérir communication de tous actes ou documents relatifs à l'inventaire.
 
 Le débiteur annexe à l'inventaire la liste mentionnée au deuxième alinéa de l'article R. 622-4 et procède à l'information prévue au troisième alinéa du même article.

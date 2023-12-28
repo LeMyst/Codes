@@ -1,3 +1,5 @@
+# Article L623-1
+
 L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser dans un rapport le bilan économique et social de l'entreprise.
 
 Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.

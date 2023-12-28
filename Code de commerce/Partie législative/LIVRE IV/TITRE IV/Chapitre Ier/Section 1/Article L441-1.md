@@ -1,3 +1,5 @@
+# Article L441-1
+
 I. - Les conditions générales de vente comprennent notamment les conditions de règlement, ainsi que les éléments de détermination du prix tels que le barème des prix unitaires et les éventuelles réductions de prix.
 
 II. - Toute personne exerçant des activités de production, de distribution ou de services qui établit des conditions générales de vente est tenue de les communiquer à tout acheteur qui en fait la demande pour une activité professionnelle. Cette communication s'effectue par tout moyen constituant un support durable.

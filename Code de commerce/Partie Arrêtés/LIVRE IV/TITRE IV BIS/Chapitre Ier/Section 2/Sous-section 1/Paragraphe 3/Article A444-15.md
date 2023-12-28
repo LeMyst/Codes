@@ -1,3 +1,5 @@
+# Article A444-15
+
 A l'exception de celles figurant aux numéros 46,47 et 49 du tableau 3-1, les prestations mentionnées à l'article A. 444-14 donnent également lieu à la perception d'un émolument dénommé : " droit d'engagement de poursuites ", ainsi fixé :
 
 1° Si le montant de la créance est inférieur ou égal à 76 €, le droit d'engagement de poursuites est fixé à 4,29 € ;

@@ -1,3 +1,5 @@
+# Article A444-179
+
 Les actes et formalités relatifs au partage judiciaire et aux ventes volontaires judiciaires donnent lieu à la perception d'émoluments conformément au tableau ci-après :
 
 |

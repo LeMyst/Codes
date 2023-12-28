@@ -1,3 +1,5 @@
+# Article R711-77
+
 Sont éligibles au conseil d'administration ou de surveillance d'un établissement d'enseignement supérieur consulaire les personnels mentionnés à l'article R. 711-76 qui remplissent les conditions suivantes :
 
 1° Etre âgés d'au moins dix-huit ans ;

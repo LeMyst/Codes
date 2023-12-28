@@ -1,3 +1,5 @@
+# Article A321-8
+
 Les épreuves de l'examen sont orales et se déroulent en séance publique.
 
 Le conseil des maisons de vente assure le secrétariat du jury.

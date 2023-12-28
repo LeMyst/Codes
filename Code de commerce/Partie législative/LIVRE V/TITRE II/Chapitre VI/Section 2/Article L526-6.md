@@ -1,3 +1,5 @@
+# Article L526-6
+
 Pour l'exercice de son activité en tant qu'entrepreneur individuel à responsabilité limitée, l'entrepreneur individuel affecte à son activité professionnelle un patrimoine séparé de son patrimoine personnel, sans création d'une personne morale, dans les conditions prévues à l'article L. 526-7.
 
 Ce patrimoine est composé de l'ensemble des biens, droits, obligations ou sûretés dont l'entrepreneur individuel est titulaire, nécessaires à l'exercice de son activité professionnelle. Il peut comprendre également les biens, droits, obligations ou sûretés dont l'entrepreneur individuel est titulaire, utilisés pour l'exercice de son activité professionnelle, qu'il décide d'y affecter et qu'il peut ensuite décider de retirer du patrimoine affecté. Un même bien, droit, obligation ou sûreté ne peut entrer dans la composition que d'un seul patrimoine affecté.

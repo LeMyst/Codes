@@ -1,3 +1,5 @@
+# Article A123-5
+
 Les destinataires des formalités des entreprises, mentionnés à l'article L. 123-32 sont :
 
 1° L'Institut national de la propriété industrielle (INPI), au titre de la tenue du registre national des entreprises ;

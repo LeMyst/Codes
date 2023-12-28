@@ -1,3 +1,5 @@
+# Article R814-42
+
 Chaque professionnel est soumis tous les trois ans à un contrôle qui porte sur l'ensemble de son activité.
 
 Par dérogation à l'alinéa précédent, la personne mentionnée au III de l'article L. 812-2 est soumise à un contrôle, qui porte sur l'activité pour laquelle elle a été désignée, lorsque le nombre des mandats ainsi exercés dépasse un seuil fixé par décret, sans que le délai entre deux contrôles puisse être inférieur à trois ans.

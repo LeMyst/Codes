@@ -1,3 +1,5 @@
+# Article R127-1
+
 Le contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique défini à l'article L. 127-1 :
 
 1° Fixe le programme de préparation à la création ou à la reprise et à la gestion d'une activité économique ainsi que les engagements respectifs des parties contractantes, en distinguant d'une part les stipulations prévues jusqu'au début d'une activité économique au sens de l'article L. 127-4 et, d'autre part, les stipulations applicables après le début de cette activité ;

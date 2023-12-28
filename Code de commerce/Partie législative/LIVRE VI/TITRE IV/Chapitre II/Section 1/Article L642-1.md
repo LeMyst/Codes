@@ -1,3 +1,5 @@
+# Article L642-1
+
 La cession de l'entreprise a pour but d'assurer le maintien d'activités susceptibles d'exploitation autonome, de tout ou partie des emplois qui y sont attachés et d'apurer le passif.
 
 Elle peut être totale ou partielle. Dans ce dernier cas, elle porte sur un ensemble d'éléments d'exploitation qui forment une ou plusieurs branches complètes et autonomes d'activités.

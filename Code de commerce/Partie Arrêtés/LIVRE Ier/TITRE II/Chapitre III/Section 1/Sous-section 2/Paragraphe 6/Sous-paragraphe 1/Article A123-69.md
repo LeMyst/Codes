@@ -1,3 +1,5 @@
+# Article A123-69
+
 Pour l'application de l'article R. 123-151 ne peuvent être utilisés comme critères de recherche :
 
 1° La capacité des personnes ;

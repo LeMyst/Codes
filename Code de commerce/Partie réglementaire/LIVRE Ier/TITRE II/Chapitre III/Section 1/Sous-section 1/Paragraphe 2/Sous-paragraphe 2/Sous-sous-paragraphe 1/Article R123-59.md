@@ -1,3 +1,5 @@
+# Article R123-59
+
 Sont déclarés dans la demande d'immatriculation d'une société, en ce qui concerne son activité et son établissement, ou son siège si elle n'a pas d'établissement :
 
 1° S'il s'agit d'une société commerciale, les renseignements prévus à l'article R. 123-38 ;

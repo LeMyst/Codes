@@ -1,3 +1,5 @@
+# Article A663-26
+
 L'émolument prévu à l'article R. 663-28 au titre de la mission d'administration de l'entreprise, lorsque le maintien de l'activité a été autorisé en application de l'article L. 641-10 (numéro 12 du tableau 4-3), est fixé proportionnellement au montant du chiffre d'affaires, selon le barème suivant :
 
 |

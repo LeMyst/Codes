@@ -1,3 +1,5 @@
+# Article L225-38
+
 Toute convention intervenant directement ou par personne interposée entre la société et son directeur général, l'un de ses directeurs généraux délégués, l'un de ses administrateurs, l'un de ses actionnaires disposant d'une fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3, doit être soumise à l'autorisation préalable du conseil d'administration.
 
 Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.

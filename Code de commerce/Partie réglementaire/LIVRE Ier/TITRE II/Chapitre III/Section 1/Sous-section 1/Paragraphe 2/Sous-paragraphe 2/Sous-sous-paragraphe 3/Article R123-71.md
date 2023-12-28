@@ -1,3 +1,5 @@
+# Article R123-71
+
 Les dispositions de l'article R. 123-66 ne sont pas applicables :
 
 1° A la mise à jour des références faites, dans l'immatriculation principale, aux immatriculations secondaires : la mention rectificative est dans ce cas effectuée d'office par le greffier de l'immatriculation principale sur notification du greffier de l'immatriculation secondaire ayant procédé à cette dernière ou à sa radiation ;

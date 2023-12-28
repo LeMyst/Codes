@@ -1,3 +1,5 @@
+# Article L511-78
+
 Toutes actions résultant de la lettre de change contre l'accepteur se prescrivent par trois ans à compter de la date de l'échéance.
 
 Les actions du porteur contre les endosseurs et contre le tireur se prescrivent par un an à partir de la date du protêt dressé en temps utile ou de celle de l'échéance, en cas de clause de retour sans frais.

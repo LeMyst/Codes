@@ -1,3 +1,5 @@
+# Article L151-9
+
 A l'occasion d'une instance relative à une atteinte au secret des affaires, le secret n'est pas opposable lorsque :
 
 1° L'obtention du secret des affaires est intervenue dans le cadre de l'exercice du droit à l'information et à la consultation des salariés ou de leurs représentants ;

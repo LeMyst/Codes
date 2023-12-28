@@ -1,3 +1,5 @@
+# Article L145-38
+
 La demande en révision ne peut être formée que trois ans au moins après la date d'entrée en jouissance du locataire ou après le point de départ du bail renouvelé. La révision du loyer prend effet à compter de la date de la demande en révision.
 
 De nouvelles demandes peuvent être formées tous les trois ans à compter du jour où le nouveau prix sera applicable.

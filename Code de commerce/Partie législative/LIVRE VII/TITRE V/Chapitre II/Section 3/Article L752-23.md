@@ -1,3 +1,5 @@
+# Article L752-23
+
 Un mois avant la date d'ouverture au public du projet, le bénéficiaire communique au représentant de l'Etat dans le département, au maire et au président de l'établissement public de coopération intercommunale à fiscalité propre dont la commune d'implantation est membre un certificat établi à ses frais par un organisme habilité par le représentant de l'Etat dans le département attestant du respect de l'autorisation d'exploitation commerciale qui lui a été délivrée ou des articles L. 752-1-1 et L. 752-2.
 
 En l'absence de délivrance du certificat dans le délai prescrit, l'exploitation des surfaces concernées est réputée illicite.

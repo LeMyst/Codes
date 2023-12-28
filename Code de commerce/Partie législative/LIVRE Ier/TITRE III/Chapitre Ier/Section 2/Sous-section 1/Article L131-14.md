@@ -1,3 +1,5 @@
+# Article L131-14
+
 En vue de l'inscription d'une personne morale sur la liste des courtiers de marchandises assermentés d'une cour d'appel, il doit être justifié :
 
 1° Que ses dirigeants n'ont pas fait l'objet d'une condamnation pénale définitive pour des faits contraires à l'honneur, à la probité ou aux bonnes mœurs ou de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation dans la profession qu'ils exerçaient antérieurement ;

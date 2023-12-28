@@ -1,3 +1,5 @@
+# Article R626-36
+
 Après le versement à la Caisse des dépôts et consignations fait en application de l'article L. 626-22, des paiements provisionnels peuvent être effectués dans les conditions définies au deuxième alinéa de l'article L. 622-8. Le commissaire à l'exécution du plan répartit le prix entre les créanciers, effectue le paiement et procède à la radiation des inscriptions.
 
 En cas de vente d'un immeuble, le prix est versé après l'accomplissement par l'acquéreur des formalités de purge des hypothèques prescrites par les articles 2464 et suivants du code civil et suivant la procédure d'ordre définie aux articles R. 643-3 à R. 643-14.

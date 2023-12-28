@@ -1,3 +1,5 @@
+# Article A123-57
+
 Les associations mentionnées à l'article A. 123-16 déposent en annexe au registre du commerce et des sociétés, au plus tard en même temps que leur demande d'immatriculation, en application du dernier alinéa de l'article R. 123-103 :
 
 1° Une copie de leurs statuts ;

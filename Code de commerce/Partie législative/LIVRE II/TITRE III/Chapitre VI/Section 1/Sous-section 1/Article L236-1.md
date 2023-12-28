@@ -1,3 +1,5 @@
+# Article L236-1
+
 Une ou plusieurs sociétés peuvent, par voie de fusion, transmettre leur patrimoine à une société existante ou à une nouvelle société qu'elles constituent.
 
 Cette faculté est ouverte aux sociétés en liquidation à condition que la répartition de leurs actifs entre les associés n'ait pas fait l'objet d'un début d'exécution.

@@ -1,3 +1,5 @@
+# Article L123-11-6
+
 I. – Sont qualifiés pour procéder, dans le cadre de leurs compétences respectives, à la recherche et à la constatation des infractions aux dispositions des articles de la présente sous-section et des règlements pris pour leur application :
 
 1° Les agents mentionnés à l'article L. 243-7 du code de la sécurité sociale ;

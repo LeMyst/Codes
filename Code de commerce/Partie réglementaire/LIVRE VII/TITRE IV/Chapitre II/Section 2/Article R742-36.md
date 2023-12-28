@@ -1,3 +1,5 @@
+# Article R742-36
+
 Il est institué une commission compétente pour émettre les propositions de dispense de stage prévues à l'article R. 742-35 ; elle est composée ainsi qu'il suit :
 
 1° Trois greffiers des tribunaux de commerce nommés sur proposition du Conseil national des greffiers des tribunaux de commerce ; ils ne peuvent siéger lorsqu'ils sont personnellement intéressés ;

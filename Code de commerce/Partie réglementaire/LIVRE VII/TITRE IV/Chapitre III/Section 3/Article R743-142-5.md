@@ -1,3 +1,5 @@
+# Article R743-142-5
+
 Les dispositions suivantes s'appliquent à la catégorie des publicités diverses mentionnée au tableau 2 de l'article annexe 4-7 :
 
 1° L'émolument afférent au report d'inscription par le greffier inclut, le cas échéant, toute radiation consécutive ;

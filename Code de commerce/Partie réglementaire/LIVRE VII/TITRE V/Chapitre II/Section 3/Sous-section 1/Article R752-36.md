@@ -1,3 +1,5 @@
+# Article R752-36
+
 La commission nationale peut recevoir des contributions écrites.
 
 La commission nationale entend toute personne qui en fait la demande écrite au secrétariat, en justifiant les motifs de son audition, au moins cinq jours avant la réunion.

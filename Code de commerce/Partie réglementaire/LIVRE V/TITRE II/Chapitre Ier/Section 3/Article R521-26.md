@@ -1,3 +1,5 @@
+# Article R521-26
+
 Dans le délai d'un jour franc ouvrable après réception de la demande, le greffier procède aux inscriptions initiales, modificatives et aux radiations requises.
 
 Toutefois, lorsque cette demande est incomplète, il réclame dans ce délai les informations ou pièces manquantes qui sont fournies dans un délai de quinze jours à compter de cette réclamation. A la réception de ces informations ou pièces, le greffier procède à l'inscription dans le délai mentionné au premier alinéa.

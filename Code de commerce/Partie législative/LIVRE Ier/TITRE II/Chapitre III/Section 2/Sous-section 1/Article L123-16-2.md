@@ -1,3 +1,5 @@
+# Article L123-16-2
+
 Les dispositions des articles L. 123-16 et L. 123-16-1 ne sont pas applicables :
 
 1° Aux établissements de crédit et sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier et aux établissements de paiement et établissements de monnaie électronique mentionnés à l'article L. 521-1 du même code ;

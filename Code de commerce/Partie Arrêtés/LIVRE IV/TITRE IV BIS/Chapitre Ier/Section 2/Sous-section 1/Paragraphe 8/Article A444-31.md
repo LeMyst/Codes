@@ -1,3 +1,5 @@
+# Article A444-31
+
 La prestation de recouvrement ou d'encaissement figurant au numéro 128 du tableau 3-1 donne lieu à la perception, d'un émolument ainsi fixé :
 
 1° Si le montant de la créance est inférieur ou égal à 44 €, un émolument fixe de 4,25 € ;

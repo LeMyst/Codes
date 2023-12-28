@@ -1,3 +1,5 @@
+# Article L251-19
+
 Le groupement d'intérêt économique est dissous :
 
 1° Par l'arrivée du terme ;

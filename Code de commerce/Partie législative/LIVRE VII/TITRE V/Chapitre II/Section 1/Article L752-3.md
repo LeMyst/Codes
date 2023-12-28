@@ -1,3 +1,5 @@
+# Article L752-3
+
 I. - Sont regardés comme faisant partie d'un même ensemble commercial, qu'ils soient ou non situés dans des bâtiments distincts et qu'une même personne en soit ou non le propriétaire ou l'exploitant, les magasins qui sont réunis sur un même site et qui :
 
 1° Soit ont été conçus dans le cadre d'une même opération d'aménagement foncier, que celle-ci soit réalisée en une ou en plusieurs tranches ;

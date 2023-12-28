@@ -1,3 +1,5 @@
+# Article A713-1
+
 I. - Les listes électorales prévues aux articles R. 713-1-1 et R. 713-2 sont destinées :
 
 1° A être mises à disposition du public dans les conditions fixées à l'article R. 713-2 ;

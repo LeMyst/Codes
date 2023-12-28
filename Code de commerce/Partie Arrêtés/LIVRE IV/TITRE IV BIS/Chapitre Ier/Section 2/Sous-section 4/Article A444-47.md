@@ -1,3 +1,5 @@
+# Article A444-47
+
 Les coefficients prévus à l'article A. 444-46 ne sont applicables ni aux émoluments complémentaires de vacation, ni aux émoluments des prestations figurant aux numéros suivants du tableau 3-1 :
 
 1° Numéro 113 (délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution) ;

@@ -1,3 +1,5 @@
+# Article R821-72
+
 Les contrôles prévus à l'article L. 821-9 sont effectués sur pièces ou sur place.
 
 Sans préjudice des dispositions de l'article L. 821-12, les contrôleurs peuvent se faire communiquer par le commissaire aux comptes et vérifier sur pièces ou sur place, quel qu'en soit le support, tous documents ou pièces. Ils peuvent également exiger toutes explications sur les dossiers et documents établis en application de l'article R. 823-10, sur les conditions d'exécution par le commissaire aux comptes de sa mission au sein des personnes et entités contrôlées, et sur l'organisation et l'activité globale de la structure d'exercice professionnel, du réseau auquel elle appartient et des personnes ou groupements qui lui sont liés.

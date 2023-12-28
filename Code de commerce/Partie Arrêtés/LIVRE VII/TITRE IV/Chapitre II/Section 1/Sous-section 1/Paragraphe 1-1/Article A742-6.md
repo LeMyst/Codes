@@ -1,3 +1,5 @@
+# Article A742-6
+
 Les épreuves écrites d'admissibilité comprennent :
 
 1° Une dissertation d'une durée de trois heures portant sur un sujet de droit civil ou de droit commercial. L'épreuve est affectée d'un coefficient de 3.

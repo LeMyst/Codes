@@ -1,3 +1,5 @@
+# Article L511-28
+
 Le porteur d'une lettre de change ne peut être contraint d'en recevoir le paiement avant l'échéance.
 
 Le tiré qui paie avant l'échéance le fait à ses risques et périls.

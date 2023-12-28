@@ -1,3 +1,5 @@
+# Article L151-3
+
 Constituent des modes d'obtention licite d'un secret des affaires :
 
 1° Une découverte ou une création indépendante ;

@@ -1,3 +1,5 @@
+# Article A822-1
+
 I. - Le certificat préparatoire aux fonctions de commissaire aux comptes prévu à l'article R. 822-2 est organisé chaque année. Les candidats au certificat préparatoire aux fonctions de commissaire aux comptes déposent au siège de la compagnie régionale des commissaires aux comptes de leur domicile, entre le 1er et le 30 janvier, un dossier comprenant :
 
 1° Tous documents officiels justificatifs de leur identité et de leur nationalité ;

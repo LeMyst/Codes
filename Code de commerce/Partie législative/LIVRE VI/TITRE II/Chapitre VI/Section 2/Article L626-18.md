@@ -1,3 +1,5 @@
+# Article L626-18
+
 Le tribunal donne acte des délais et remises acceptés par les créanciers dans les conditions prévues au deuxième alinéa de l'article L. 626-5 et à l'article L. 626-6. Ces délais et remises peuvent, le cas échéant, être réduits par le tribunal.
 
 Le tribunal homologue les accords de conversion en titres acceptés par les créanciers dans les conditions prévues au troisième alinéa de l'article L. 626-5, sauf s'ils portent atteinte aux intérêts des autres créanciers. Il s'assure également, s'il y a lieu, de l'approbation des assemblées mentionnées à l'article L. 626-3.

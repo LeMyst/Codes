@@ -1,3 +1,5 @@
+# Article A123-3
+
 I.-Le certificat de signature électronique qualifié mentionné à l'article R. 123-5 entre au moins, en application du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE, dans l'une des catégories suivantes :
 
 1° Un certificat qualifié délivré par un prestataire de service de confiance qualifié répondant aux exigences dudit règlement ;

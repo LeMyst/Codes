@@ -1,3 +1,5 @@
+# Article R624-10
+
 Les réclamations des tiers mentionnées au dernier alinéa de l'article R. 624-8 sont formées par requête remise ou adressée au greffe. Elles sont mentionnées sur l'état des créances par le greffier.
 
 Le greffier convoque les parties intéressées ou leur mandataire par lettre recommandée avec demande d'avis de réception et avise le mandataire judiciaire et l'administrateur, lorsqu'il en a été désigné.

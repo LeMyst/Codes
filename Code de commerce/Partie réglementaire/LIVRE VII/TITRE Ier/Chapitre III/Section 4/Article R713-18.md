@@ -1,3 +1,5 @@
+# Article R713-18
+
 A la date fixée au 2° de l'article R. 713-14, la commission d'organisation des élections, composée le cas échéant en sections, procède aux opérations de dépouillement des votes par correspondance en séance publique et en présence de scrutateurs désignés par le président de la commission et par les candidats ou leurs mandataires.
 
 Le jour du dépouillement, autant d'urnes qu'il y a de catégories ou sous-catégories sont mises en place.

@@ -1,3 +1,5 @@
+# Article R743-92
+
 Chaque associé dispose d'une seule voix.
 
 Un associé peut se faire représenter à une assemblée par un autre associé porteur d'un mandat écrit.

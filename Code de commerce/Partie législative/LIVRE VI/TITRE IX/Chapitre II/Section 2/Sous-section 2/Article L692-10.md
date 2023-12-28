@@ -1,3 +1,5 @@
+# Article L692-10
+
 I.-La compétence du tribunal mentionné au paragraphe 2 de l'article 13 du règlement (UE) n° 2015/848 précité est déterminée en application du 2° de l'article L. 721-8 si le débiteur exerce une activité commerciale ou artisanale. Le tribunal judiciaire sur le ressort duquel est situé l'établissement est compétent dans les autres cas.
 
 II.-Si le débiteur est en état de cessation des paiements et si la procédure d'insolvabilité principale le concernant est une procédure analogue au redressement judiciaire, les règles applicables à l'approbation des licenciements sont celles prévues à l'article L. 631-17. Si le débiteur est en état de cessation des paiements et si la procédure d'insolvabilité principale le concernant est une procédure analogue à la liquidation judiciaire avec maintien de l'activité, l'article L. 641-10 est applicable.

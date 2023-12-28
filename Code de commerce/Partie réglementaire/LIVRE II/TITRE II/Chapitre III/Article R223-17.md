@@ -1,3 +1,5 @@
+# Article R223-17
+
 Le rapport prévu au premier alinéa de l'article L. 223-19 contient :
 
 1° L'énumération des conventions soumises à l'approbation de l'assemblée des associés ;

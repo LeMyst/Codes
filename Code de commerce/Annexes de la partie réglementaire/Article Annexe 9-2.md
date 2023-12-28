@@ -1,3 +1,5 @@
+# Article Annexe 9-2
+
 Juridictions compétentes dans les collectivités d'outre-mer et en Nouvelle-Calédonie pour connaître en application de l'article L. 610-1 ou de l'article L. 621-5 dans sa version applicable à la Polynésie française des procédures applicables aux commerçants et artisans
 
 | COLLECTIVITÉ  | JURIDICTION  | RESSORT  |

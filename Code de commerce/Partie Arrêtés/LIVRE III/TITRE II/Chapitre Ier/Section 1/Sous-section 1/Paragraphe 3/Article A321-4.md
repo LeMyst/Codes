@@ -1,3 +1,5 @@
+# Article A321-4
+
 Sont admis en dispense d'un diplôme national de licence en histoire de l'art, ou en arts appliqués, ou en archéologie ou en arts plastiques requis pour diriger des ventes volontaires de meubles aux enchères publiques :
 
 1° Tout diplôme national sanctionnant un niveau de formation correspondant au moins à trois années d'études après le baccalauréat en histoire de l'art, en arts appliqués, en archéologie ou en arts plastiques ;

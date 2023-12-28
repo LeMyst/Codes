@@ -1,3 +1,5 @@
+# Article R123-248
+
 Font l'objet d'inscriptions modificatives au sein du Registre national des entreprises :
 
 1° Sur déclaration du tuteur ou du curateur, les décisions définitives plaçant un majeur sous tutelle ou sous curatelle au sens de l'article 440 du code civil et celles qui en donnent mainlevée ou qui les rapportent ;

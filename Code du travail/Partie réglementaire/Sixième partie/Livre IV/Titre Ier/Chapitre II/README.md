@@ -1,1 +1,1 @@
-Chapitre II : Régime juridique
+Chapitre II : Procédure de validation des acquis de l'expérience

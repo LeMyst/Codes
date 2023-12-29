@@ -2,7 +2,7 @@
 
 I.-Afin de permettre à l'apprenti de compléter sa formation, en application de l'article L. 6221-1, une partie de sa formation pratique peut être dispensée dans d'autres entreprises que celle qui l'emploie notamment pour recourir à des équipements ou des techniques qui ne sont pas utilisés dans celle-ci.
 
-L'accueil de l'apprenti dans d'autres entreprises que celle qui l'emploie ne peut excéder la moitié du temps de formation en entreprise prévu par le contrat d'apprentissage. Le nombre d'entreprises d'accueil autres que celle qui l'emploie ne peut être supérieur à deux au cours de l'exécution d'un même contrat d'apprentissage.
+L'accueil de l'apprenti dans d'autres entreprises que celle qui l'emploie ne peut excéder la moitié du temps de formation en entreprise prévu par le contrat d'apprentissage. Le nombre d'entreprises d'accueil autres que celle qui l'emploie ne peut être supérieur à deux au cours de l'exécution d'un même contrat d'apprentissage, ou, lorsque l'employeur de l'apprenti est un groupement d'employeurs mentionné à l'article L. 1253-1, à trois entreprises membres de ce groupement.
 
 II.-En application des dispositions de l'article L. 6223-5, un maître d'apprentissage est nommé au sein de chaque entreprise d'accueil.
 

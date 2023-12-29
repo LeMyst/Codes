@@ -1,0 +1,5 @@
+# Article R6411-1
+
+La mise en œuvre des missions du service public mentionné à l'article L. 6411-1 permet, notamment, à toute personne de bénéficier gratuitement d'une information sur les principes et les modalités de mise en œuvre de la validation des acquis de l'expérience mentionnée au troisième alinéa de l'article L. 6111-1, sur les modalités de financement des actions permettant d'y accéder et sur l'identification, le cas échéant en s'appuyant sur un bilan de compétences, des certifications professionnelles qui sont en rapport direct avec son expérience.
+
+Cette information est délivrée par l'intermédiaire du portail numérique mentionné à l'article R. 6411-2 et est également rendue disponible auprès des opérateurs de conseil en évolution professionnelle mentionnés à l'article L. 6111-6 et des centres de conseil sur la validation des acquis de l'expérience mentionnés au cinquième alinéa du I de l'article L. 6111-3 agissant dans le cadre du service public régional de l'orientation mentionné à ce même I.

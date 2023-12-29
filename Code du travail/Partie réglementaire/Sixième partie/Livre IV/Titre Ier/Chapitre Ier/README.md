@@ -1,1 +1,1 @@
-Chapitre Ier : Objet de la validation des acquis de l'expérience
+Chapitre Ier : Service public de la validation des acquis de l'expérience

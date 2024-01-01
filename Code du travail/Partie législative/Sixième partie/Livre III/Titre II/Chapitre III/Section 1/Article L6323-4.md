@@ -20,7 +20,7 @@ II.-Lorsque le coût de cette formation est supérieur au montant des droits ins
 
 7° Les régions ;
 
-8° Pôle emploi ;
+8° L'opérateur France Travail ;
 
 9° L'institution mentionnée à l'article L. 5214-1 du présent code ;
 

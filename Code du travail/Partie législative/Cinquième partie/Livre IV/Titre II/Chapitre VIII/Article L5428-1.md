@@ -1,6 +1,6 @@
 # Article L5428-1
 
-Sous réserve des dispositions prévoyant leur incessibilité ou leur insaisissabilité, les allocations, aides ainsi que toute autre prestation versées par Pôle emploi sont cessibles et saisissables dans les mêmes conditions et limites que les salaires.
+Sous réserve des dispositions prévoyant leur incessibilité ou leur insaisissabilité, les allocations, aides ainsi que toute autre prestation versées par l'opérateur France Travail sont cessibles et saisissables dans les mêmes conditions et limites que les salaires.
 
 Ces prestations ainsi que l'indemnité d'activité partielle et l'allocation de solidarité spécifique sont exonérées de la taxe sur les salaires et des cotisations de sécurité sociale, sous réserve de l'application des dispositions des articles L. 131-2,
 L. 241-2,

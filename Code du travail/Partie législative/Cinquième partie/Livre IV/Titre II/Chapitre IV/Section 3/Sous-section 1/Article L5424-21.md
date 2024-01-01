@@ -6,7 +6,7 @@ Les travailleurs privés d'emploi et qui ont épuisé leurs droits à l'assuranc
 
 2° Satisfaire à des conditions d'activité professionnelle antérieure et de prise en charge au titre d'un revenu de remplacement.
 
-Ces allocations sont à la charge de l'Etat. Leur gestion est assuré par Pôle emploi dans les conditions prévues par une convention conclue avec l'Etat.
+Ces allocations sont à la charge de l'Etat. Leur gestion est assuré par l'opérateur France Travail dans les conditions prévues par une convention conclue avec l'Etat.
 
 Ces allocations sont cessibles et saisissables dans les mêmes conditions et limites que les salaires.
 

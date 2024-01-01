@@ -1,6 +1,6 @@
 # Article L5424-2
 
-Les employeurs mentionnés à l'article L. 5424-1 assurent la charge et la gestion de l'allocation d'assurance. Ceux-ci peuvent, par convention conclue avec Pôle emploi, pour le compte de l'organisme mentionné à l'article L. 5427-1, lui confier cette gestion.
+Les employeurs mentionnés à l'article L. 5424-1 assurent la charge et la gestion de l'allocation d'assurance. Ceux-ci peuvent, par convention conclue avec l'opérateur France Travail, pour le compte de l'organisme mentionné à l'article L. 5427-1, lui confier cette gestion.
 
 Toutefois, peuvent adhérer au régime d'assurance :
 

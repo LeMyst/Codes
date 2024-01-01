@@ -22,7 +22,7 @@ La Commission nationale de la négociation collective, de l'emploi et de la form
 
 10° D'émettre un avis sur :
 
-a) Le projet de convention pluriannuelle définie à l'article L. 5312-3 ;
+a) (Abrogé)
 
 b) L'agrément des accords d'assurance chômage mentionnés à l'article L. 5422-20 ;
 

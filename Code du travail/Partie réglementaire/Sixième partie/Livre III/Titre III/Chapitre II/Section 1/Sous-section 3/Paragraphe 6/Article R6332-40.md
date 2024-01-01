@@ -1,6 +1,6 @@
 # Article R6332-40
 
-Les dépenses liées aux formations prévues à l'article L. 2315-18 que les opérateurs de compétences peuvent prendre en charge au titre de la section financière mentionnée au 2° de l'article L. 6332-3 sont les suivantes :
+Les dépenses liées aux formations prévues aux articles L. 2315-18, L. 4644-1 et L. 4823-1 que les opérateurs de compétences peuvent prendre en charge au titre de la section financière mentionnée au 2° de l'article L. 6332-3 sont les suivantes :
 
 1° Les coûts pédagogiques ;
 

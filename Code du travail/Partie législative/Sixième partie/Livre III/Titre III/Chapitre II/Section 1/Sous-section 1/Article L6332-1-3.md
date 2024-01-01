@@ -13,3 +13,5 @@ I.-L'opérateur de compétences prend en charge :
 II.-L'opérateur de compétences n'assure aucun financement, direct ou indirect, des organisations syndicales de salariés et des organisations professionnelles d'employeurs.
 
 Il peut toutefois rembourser, sur présentation de justificatifs, les frais de déplacement, de séjour et de restauration engagés par les personnes qui siègent au sein de leurs organes de direction.
+
+Il reverse le cas échéant les contributions mentionnées au II de l'article L. 6332-1-2 aux associations de gestion mises en place par les organisations syndicales de salariés et les organisations professionnelles d'employeurs des branches concernées.

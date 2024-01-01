@@ -1,13 +1,11 @@
 # Article R4451-85
 
-I.-Le médecin du travail assurant le suivi individuel de l'état de santé de travailleurs classés au sens de l'article R. 4451-57 exécutant ou participant à l'exécution d'une opération dans un établissement comprenant une installation nucléaire de base bénéficie au préalable d'une formation spécifique et adaptée aux risques liés aux rayonnements ionisants.
+I.-Pour assurer le suivi individuel renforcé prévu à l'article R. 4451-82, le médecin du travail et les professionnels de santé au travail placés sous son autorité mentionnés au premier alinéa du I de l'article L. 4624-1 suivent une formation spécifique préalable sur les risques liés aux rayonnements ionisants et sur le dispositif de surveillance dosimétrique individuelle.
 
 II.-Un arrêté conjoint des ministres chargés du travail et de l'agriculture détermine :
 
-1° Le contenu et la durée de la formation des médecins du travail concernés ;
+1° Le contenu de la formation mentionnée au I en fonction des professionnels de santé au travail concernés et du type d'exposition, ainsi que les modalités de son renouvellement ;
 
-2° La qualification des personnes chargées de la formation ;
+2° Les modalités de reconnaissance des connaissances, des compétences et de l'expérience du professionnel de santé au travail comme valant satisfaction de l'obligation de formation prévue au I ;
 
-3° Les modalités de formation et de vérification des acquis et les conditions de son renouvellement ;
-
-4° Les conditions de délivrance de l'attestation.
+3° Les conditions pour qu'un organisme de formation puisse dispenser cette formation.

@@ -1,9 +1,9 @@
 # Article R4451-87
 
-I.-Dans le cas où le service de santé au travail de l'entreprise extérieure ou le service de santé au travail auquel adhère cette entreprise n'est pas agréé pour assurer le suivi individuel de l'état de santé des travailleurs exposés aux rayonnements ionisants, celui-ci est exercé par le service de santé au travail de l'établissement pour le compte duquel cette entreprise intervient.
+I.-Lorsqu'une entreprise dispose de son propre service de prévention et de santé au travail et détient l'agrément complémentaire mentionné au I de l'article R. 4451-86, ce service assure, dans les conditions prévues au second alinéa de l'article L. 4622-5-1, conjointement avec le service de prévention et de santé au travail des entreprises extérieures mentionnées au I de l'article R. 4451-35 ou avec celui des entreprises exécutant les opérations mentionnées à l'article R. 4451-36, le suivi individuel renforcé prévu à l'article R. 4451-82 des travailleurs de ces dernières.
 
-II.-Les modalités du suivi individuel mentionné au I sont précisées par un accord écrit conclu entre le chef de l'entreprise extérieure et le chef de l'entreprise utilisatrice. Le projet d'accord est communiqué pour avis aux médecins du travail de l'établissement et de l'entreprise extérieure. L'accord et les avis sont transmis pour information au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+II.-La convention prévue au second alinéa de l'article L. 4622-5-1 est annexée au plan de prévention prévu au 2° de l'article R. 4512-7.
 
-Lorsque l'entreprise extérieure est appelée à intervenir dans plusieurs établissements où sont implantées des installations nucléaires de base, l'accord prévoit les conditions dans lesquelles les informations médicales relatives aux travailleurs concernés sont échangées entre les services de santé au travail de ces établissements.
+Elle est transmise dès sa signature au directeur régional de l'économie, de l'emploi, du travail et des solidarités ainsi qu'à l'agent de contrôle de l'inspection du travail et aux agents de contrôle assimilés mentionnés à l'article L. 8112-1.
 
-Les membres du comité social et économique de l'entreprise extérieure et de l'entreprise utilisatrice, ainsi que l'agent de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1, sont informés de cet accord qui est annexé au plan de prévention prévu à l'article R. 4513-9.
+Les membres de chaque comité social et économique intéressé en sont également informés.

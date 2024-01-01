@@ -1,6 +1,6 @@
 # Article L5312-3
 
-Après concertation au sein du Conseil national de l'emploi, de la formation et de l'orientation professionnelles, une convention pluriannuelle conclue entre l'Etat, l'organisme gestionnaire du régime d'assurance chômage mentionné à l'article L. 5427-1 et l'institution publique mentionnée à l'article L. 5312-1 définit les objectifs assignés à celle-ci au regard de la situation de l'emploi et au vu des moyens prévisionnels qui lui sont alloués par l'organisme gestionnaire du régime d'assurance chômage et l'Etat.
+Après consultation du Comité national pour l'emploi mentionné à l'article L. 5311-9, une convention pluriannuelle conclue entre l'Etat, l'organisme gestionnaire du régime d'assurance chômage mentionné à l'article L. 5427-1 et l'institution publique mentionnée à l'article L. 5312-1 définit les objectifs assignés à celle-ci au regard de la situation de l'emploi et au vu des moyens prévisionnels qui lui sont alloués par l'organisme gestionnaire du régime d'assurance chômage et l'Etat.
 
 Elle précise notamment :
 
@@ -16,4 +16,4 @@ Elle précise notamment :
 
 5° Les conditions dans lesquelles les actions de l'institution sont évaluées à partir d'indicateurs de performance qu'elle définit.
 
-Un comité de suivi veille à l'application de la convention et en évalue la mise en œuvre.
+Un comité de suivi veille à l'application de la convention et en évalue la mise en œuvre. Il s'assure que les conditions de mise en œuvre de la convention sont cohérentes avec les orientations du Comité national pour l'emploi mentionné à l'article L. 5311-9.

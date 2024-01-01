@@ -1,6 +1,6 @@
 # Article L5312-7
 
-Le budget de l'institution comporte quatre sections non fongibles qui doivent chacune être présentées à l'équilibre :
+Le budget de l'institution comporte quatre sections non fongibles :
 
 1° La section " Assurance chômage " retrace en dépenses les allocations d'assurance prévues à la section 1 du chapitre II du titre II du livre IV de la présente partie, qui sont versées pour le compte de l'organisme gestionnaire du régime d'assurance chômage, ainsi que les cotisations sociales afférentes à ces allocations dans les conditions prévues par les lois et règlements en vigueur, et en recettes une contribution de l'organisme gestionnaire du régime d'assurance chômage prévue à l'article L. 5422-20 permettant d'assurer l'équilibre ;
 

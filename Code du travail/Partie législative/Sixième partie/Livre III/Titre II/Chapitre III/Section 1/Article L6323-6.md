@@ -8,7 +8,7 @@ II.-Sont également éligibles au compte personnel de formation, dans des condit
 
 2° Les bilans de compétences mentionnés au 2° du même article L. 6313-1 ;
 
-3° La préparation de l'épreuve théorique du code de la route et de l'épreuve pratique du permis de conduire des véhicules du groupe léger et du groupe lourd ;
+3° La préparation aux épreuves théoriques et pratiques de toutes les catégories de permis de conduire d'un véhicule terrestre à moteur ;
 
 4° Les actions de formation d'accompagnement et de conseil dispensées aux créateurs ou repreneurs d'entreprises ayant pour objet de réaliser leur projet de création ou de reprise d'entreprise et de pérenniser l'activité de celle-ci ;
 

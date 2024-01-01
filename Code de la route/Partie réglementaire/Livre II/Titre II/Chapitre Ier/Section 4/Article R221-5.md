@@ -6,7 +6,9 @@ Les conditions minimales requises pour l'obtention du permis de conduire sont le
 
 - de seize ans révolus pour les catégories A1 et B1 ;
 
-- de dix-huit ans révolus pour les catégories A2, B, C1, BE et C1E ;
+- de dix-sept ans révolus pour la catégorie B ;
+
+- de dix-huit ans révolus pour les catégories A2, C1, BE et C1E ;
 
 - de vingt et un ans révolus pour le conducteur d'un tricycle à moteur d'une puissance supérieure à 15 kilowatts ;
 

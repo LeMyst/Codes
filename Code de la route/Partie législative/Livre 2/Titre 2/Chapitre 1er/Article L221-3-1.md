@@ -1,6 +1,6 @@
 # Article L221-3-1
 
-L'Etat, les collectivités territoriales et leurs groupements rendent publics, sur une plateforme numérique nationale gérée par Pôle emploi, les dispositifs de financement de la formation à la conduite qu'ils proposent aux particuliers.
+L'Etat, les collectivités territoriales et leurs groupements rendent publics, sur une plateforme numérique nationale gérée par l'opérateur France Travail, les dispositifs de financement de la formation à la conduite qu'ils proposent aux particuliers.
 
 Cette plateforme oriente les particuliers vers les dispositifs numériques permettant de choisir un établissement d'enseignement de la conduite et de s'inscrire à l'examen du permis de conduire.
 

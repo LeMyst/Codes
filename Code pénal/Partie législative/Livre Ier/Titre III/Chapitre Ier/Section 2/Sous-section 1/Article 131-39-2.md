@@ -12,7 +12,7 @@ II. – La peine prévue au I comporte l'obligation de mettre en œuvre les mesu
 
 4° Des procédures d'évaluation de la situation des clients, fournisseurs de premier rang et intermédiaires au regard de la cartographie des risques ;
 
-5° Des procédures de contrôles comptables, internes ou externes, destinées à s'assurer que les livres, registres et comptes ne sont pas utilisés pour masquer des faits de corruption ou de trafic d'influence. Ces contrôles peuvent être réalisés soit par les services de contrôle comptable et financier propres à la personne morale, soit en ayant recours à un auditeur externe à l'occasion de l'accomplissement des audits de certification de comptes prévus à l'article L. 823-9 du code de commerce ;
+5° Des procédures de contrôles comptables, internes ou externes, destinées à s'assurer que les livres, registres et comptes ne sont pas utilisés pour masquer des faits de corruption ou de trafic d'influence. Ces contrôles peuvent être réalisés soit par les services de contrôle comptable et financier propres à la personne morale, soit en ayant recours à un auditeur externe à l'occasion de l'accomplissement des audits de certification de comptes prévus à l'article L. 821-53 du code de commerce ;
 
 6° Un dispositif de formation destiné aux cadres et aux personnels les plus exposés aux risques de corruption et de trafic d'influence ;
 

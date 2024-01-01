@@ -20,7 +20,7 @@ A la demande d'autorisation sont joints les renseignements suivants :
 
 a) Soit d'un diplôme délivré par la France ou d'un diplôme ou titre équivalent délivré par un autre Etat membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace économique européen, sanctionnant une compétence professionnelle dans les métiers de l'armurerie ou de l'armement ;
 
-b) Soit du certificat de qualification professionnelle élaboré par la branche professionnelle de l'armurerie et agréé par arrêté du ministre de l'intérieur ;
+b) Soit d'un certificat de qualification professionnelle élaboré par la branche professionnelle de l'armurerie, agréé par arrêté du ministre de l'intérieur et correspondant aux activités auxquelles le demandeur entend se livrer ;
 
 c) Soit, pour le dirigeant de l'entreprise, d'un diplôme de niveau IV délivré par la France, par un autre Etat membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace économique européen, ou de tout document justifiant d'une expérience professionnelle d'au moins six ans dans les métiers de l'armurerie.
 

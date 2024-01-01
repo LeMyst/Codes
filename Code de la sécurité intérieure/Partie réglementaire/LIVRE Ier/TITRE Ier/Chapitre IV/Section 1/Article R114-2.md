@@ -32,7 +32,9 @@ m) Des prestataires de service de confiance mentionnés au chapitre III du décr
 
 n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information ;
 
-o) Des personnes physiques exerçant les fonctions de dirigeant ou de gérant d'un prestataire de formation aux activités privées de sécurité.
+o) Des personnes physiques exerçant les fonctions de dirigeant ou de gérant d'un prestataire de formation aux activités privées de sécurité ;
+
+p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense.
 
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de proximité ;
 

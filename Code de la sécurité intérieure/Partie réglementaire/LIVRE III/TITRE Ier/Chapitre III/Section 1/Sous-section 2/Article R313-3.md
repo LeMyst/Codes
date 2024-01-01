@@ -4,11 +4,11 @@ Les documents suivants sont joints à la demande d'agrément :
 
 1° Un document établissant l'identité de l'intéressé ainsi qu'un extrait d'acte de naissance avec mentions marginales datant de moins de trois mois ;
 
-2° Un document établissant les compétences professionnelles de l'intéressé consistant en la copie :
+2° Le cas échéant, un document établissant les compétences professionnelles de l'intéressé consistant en la copie :
 
 a) Soit d'un diplôme délivré par la France ou d'un diplôme ou titre équivalent délivré par un autre Etat membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace économique européen, sanctionnant une compétence professionnelle dans les métiers de l'armurerie ou de l'armement ;
 
-b) Soit du certificat de qualification professionnelle élaboré par la branche professionnelle de l'armurerie et agréé par arrêté du ministre de l'intérieur ;
+b) Soit d'un certificat de qualification professionnelle élaboré par la branche professionnelle de l'armurerie, agréé par arrêté du ministre de l'intérieur et correspondant aux activités auxquelles le demandeur entend se livrer ;
 
 c) Soit, pour le dirigeant de l'entreprise, d'un diplôme de niveau IV délivré par la France, par un autre Etat membre de l'Union européenne ou par un autre Etat partie à l'accord sur l'Espace économique européen, ou tout document justifiant d'une expérience professionnelle d'au moins six ans dans les métiers de l'armurerie. Dans ce cas, chacun des établissements de l'entreprise doit comporter dans son personnel au moins un salarié titulaire de l'un des diplômes, titres ou certificats de qualification mentionnés aux alinéas précédents.
 

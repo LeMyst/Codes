@@ -8,10 +8,4 @@ Le détenteur d'une arme peut acquérir, pendant la durée de l'autorisation men
 
 2° 1 000 cartouches par arme au titre de l'article R. 312-30 ;
 
-3° 2 000 cartouches par arme au titre du 2° de l'article R. 312-40 et de l'article R. 312-41 ;
-
-4° 3 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de 1 à 30 armes ;
-
-5° 6 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de 31 à 50 armes ;
-
-6° 10 000 cartouches par arme au titre du 1° de l'article R. 312-40 pour les associations sportives autorisées à détenir de 51 à 90 armes..
+3° 3 000 cartouches par arme au titre du 2° de l'article R. 312-40 .

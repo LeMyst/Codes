@@ -11,11 +11,11 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 |
 | R. 114-1  | Résultant du décret n° 2018-141 du 27 février 2018
 |
-| R. 114-2, sauf le k du 1° et le o du 4°  | Résultant du décret n° 2023-1234 du 22 décembre 2023
+| R. 114-2, sauf le k du 1° et le o du 4°  | Résultant du décret n° 2023-1171 du 13 décembre 2023
 |
 |
 R. 114-3  | Résultant du décret n° 2020-1773 du 21 décembre 2020  |
-| R. 114-4  | Résultant du décret n° 2023-1234 du 22 décembre 2023  |
+| R. 114-4  | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)  |
 | R. 114-5  | Résultant du décret n° 2023-557 du 3 juillet 2023  |
 | R. 114-6 et R. 114-6-1  | Résultant du décret n° 2018-141 du 27 février 2018  |
 | R. 114-6-2 et R. 114-6-3  | Résultant du décret n° 2018-887 du 12 octobre 2018

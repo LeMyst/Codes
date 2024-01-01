@@ -2,4 +2,14 @@
 
 Nul ne peut détenir plus de 1 000 munitions par arme.
 
-Par dérogation, les entreprises de spectacle mentionnées à l'article R. 312-26 ne sont soumises à aucun quota de détention de munitions inertes ou à blanc et les associations sportives mentionnées au 1° de l'article R. 312-40 qui détiennent de 51 à 90 armes ne peuvent à aucun moment détenir plus de 3 000 munitions par arme.
+Par dérogation au premier alinéa :
+
+1° Les associations mentionnées au 1° de l'article R. 312-40 peuvent détenir :
+
+a) 75 000 munitions lorsqu'elles comptent entre 15 et 199 adhérents ;
+
+b) 150 000 munitions lorsqu'elles comptent entre 200 et 499 adhérents ;
+
+c) 300 000 munitions lorsqu'elles comptent 500 adhérents ou plus ;
+
+2° Les entreprises de spectacle mentionnées à l'article R. 312-26 ne sont soumises à aucun quota de détention de munitions inertes ou à blanc.

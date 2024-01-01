@@ -1,12 +1,12 @@
 # Article L232-6-1
 
-I.-Toute société ne disposant pas d'un siège social dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et qui dispose en France d'une succursale dont le chiffre d'affaires excède, à la clôture de deux exercices consécutifs, un seuil fixé par décret, établit, publie et met à disposition, à la diligence de son représentant légal en France ou de la personne ayant le pouvoir de l'y engager, le rapport relatif à l'impôt sur les bénéfices prévu par l'article L. 232-6.
+I.-Toute société ne disposant pas d'un siège social dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et qui dispose en France d'une succursale dont le chiffre d'affaires net excède, à la clôture de deux exercices consécutifs, un seuil fixé par décret, établit, publie et met à disposition, à la diligence de son représentant légal en France ou de la personne ayant le pouvoir de l'y engager, le rapport relatif à l'impôt sur les bénéfices prévu par l'article L. 232-6.
 
 II.-Les sociétés mentionnées au I sont celles qui remplissent les conditions cumulatives suivantes :
 
 1° Elles revêtent une forme juridique comparable aux sociétés par actions et aux sociétés à responsabilité limitée ;
 
-2° Elles comptabilisent un chiffre d'affaires qui excède, à la clôture de deux exercices consécutifs, le seuil mentionné au I de l'article L. 232-6 ;
+2° Elles comptabilisent un chiffre d'affaires net qui excède, à la clôture de deux exercices consécutifs, le seuil mentionné au I de l'article L. 232-6 ;
 
 3° Elles ne contrôlent ni ne sont contrôlées par une autre société, au sens du II ou du III de l'article L. 233-16.
 

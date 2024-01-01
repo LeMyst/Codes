@@ -10,4 +10,4 @@ c) Les noms et adresses professionnelles des associés ou actionnaires, des memb
 
 d) Les noms et numéros d'inscription des commissaires aux comptes associés de la société qui figurent sur la liste mentionnée au I de l'article L. 822-1.
 
-La Compagnie nationale assure la mise à jour et la publication de ces informations par voie électronique. La liste est transmise avant le 31 décembre de chaque année au Haut Conseil du commissariat aux comptes.
+La Compagnie nationale assure la mise à jour et la publication de ces informations par voie électronique. La liste est transmise avant le 31 décembre de chaque année à la Haute autorité de l'audit.

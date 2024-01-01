@@ -1,1 +1,1 @@
-Section 1 : De l'inscription
+Section 1 : Dispositions générales

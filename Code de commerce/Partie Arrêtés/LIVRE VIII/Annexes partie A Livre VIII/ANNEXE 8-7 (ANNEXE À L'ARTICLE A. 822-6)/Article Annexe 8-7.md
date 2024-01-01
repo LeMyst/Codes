@@ -64,7 +64,7 @@ Les limites inhérentes au contrôle légal de comptes.
 
 B.-Cadre légal et institutionnel :
 
-Le Haut Conseil du commissariat aux comptes.
+La Haute autorité de l'audit.
 
 L'organisation de la profession de commissaire aux comptes : la compagnie nationale des commissaires aux comptes, les compagnies régionales des commissaires aux comptes.
 
@@ -100,7 +100,7 @@ Les normes d'exercice professionnel.
 
 Les normes internationales d'audit (ISA).
 
-Les bonnes pratiques professionnelles identifiées par le Haut Conseil du commissariat aux comptes.
+Les bonnes pratiques professionnelles identifiées par la Haute autorité de l'audit.
 
 Pratiques professionnelles adoptées par la CNCC.
 

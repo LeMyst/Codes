@@ -1,5 +1,9 @@
 # Article L822-1
 
-I.-Les fonctions de commissaire aux comptes sont exercées par des personnes physiques ou par des sociétés inscrites sur une liste établie par le Haut conseil du commissariat aux comptes, dans les conditions prévues aux articles L. 822-1-1 à L. 822-1-4.
+I.-La mission de certification des informations en matière de durabilité prévue aux articles L. 22-10-36, L. 232-6-3 et L. 233-28-4 peut être réalisée par des auditeurs des informations en matière de durabilité exerçant au sein d'organismes tiers indépendants dans le respect des dispositions du présent chapitre.
 
-II.-Une liste établie par le Haut conseil énumère les contrôleurs de pays tiers mentionnés au I de l'article L. 822-1-5.
+II.-Pour l'application du présent chapitre :
+
+1° “ Organisme tiers indépendant ” désigne une personne morale accréditée dans les conditions prévues à l'article L. 822-3 et inscrite sur la liste prévue à cet article ;
+
+2° “ Auditeur des informations en matière de durabilité ” désigne une personne physique associée, actionnaire, dirigeante, y compris comme membre d'un organe de gestion, d'administration ou de surveillance, ou salariée d'un organisme tiers indépendant, qui remplit les conditions énumérées au II de l'article L. 822-4 et inscrite sur la liste mentionnée au I de l'article L. 822-4.

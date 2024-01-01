@@ -1,6 +1,6 @@
 # Article L236-10
 
-I.-Sauf si les actionnaires des sociétés participant à la fusion en décident autrement dans les conditions prévues au II du présent article, un ou plusieurs commissaires à la fusion, désignés par décision de justice et soumis à l'égard des sociétés participantes aux incompatibilités prévues à l'article L. 822-11-3, établissent sous leur responsabilité un rapport écrit sur les modalités de la fusion.
+I.-Sauf si les actionnaires des sociétés participant à la fusion en décident autrement dans les conditions prévues au II du présent article, un ou plusieurs commissaires à la fusion, désignés par décision de justice et soumis à l'égard des sociétés participantes aux incompatibilités prévues à l'article L. 821-31, établissent sous leur responsabilité un rapport écrit sur les modalités de la fusion.
 
 Les commissaires à la fusion vérifient que les valeurs relatives attribuées aux actions des sociétés participant à l'opération sont pertinentes et que le rapport d'échange est équitable. Ils peuvent obtenir à cette fin, auprès de chaque société, communication de tous documents utiles et procéder à toutes vérifications nécessaires.
 

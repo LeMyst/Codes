@@ -420,7 +420,7 @@ Confidentialité et secret professionnel
 
 Il est interdit, sous peine des sanctions prévues à l'article L. 574-1 du code monétaire et financier, de porter à la connaissance du client ou de tiers l'existence et le contenu de la déclaration et de donner des informations sur les suites qui ont été réservées à cette déclaration.
 
-Cette interdiction ne s'applique pas à la relation entre le commissaire aux comptes et le Haut Conseil du commissariat aux comptes.
+Cette interdiction ne s'applique pas à la relation entre le commissaire aux comptes et la Haute autorité de l'audit.
 
 Le commissaire aux comptes ne peut, ni ne doit révéler à l'autorité judiciaire ou aux officiers de police judiciaire agissant sur délégation l'existence et le contenu d'une déclaration à TRACFIN.
 

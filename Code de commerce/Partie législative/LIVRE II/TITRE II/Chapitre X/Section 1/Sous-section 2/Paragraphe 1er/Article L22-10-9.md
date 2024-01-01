@@ -24,6 +24,6 @@ I.-Les sociétés dont les actions sont admises aux négociations sur un marché
 
 11° L'application des dispositions du second alinéa de l'article L. 225-45.
 
-II.-Les dispositions des deux derniers alinéas de l'article L. 225-102 sont applicables aux informations prévues au présent article.
+II.- (Supprimé.)
 
 III.-Les modalités de la publicité des informations prévues au I du présent article ainsi que le traitement des données à caractère personnel sont fixés par décret en Conseil d'Etat.

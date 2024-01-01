@@ -9,5 +9,3 @@ Le rapport prévu au dernier alinéa de l'article L. 225-37 contient les informa
 3° Un tableau récapitulatif des délégations en cours de validité accordées par l'assemblée générale des actionnaires dans le domaine des augmentations de capital, par application des articles L. 225-129-1 et L. 225-129-2, et faisant apparaître l'utilisation faite de ces délégations au cours de l'exercice ;
 
 4° A l'occasion du premier rapport ou en cas de modification, le choix fait de l'une des deux modalités d'exercice de la direction générale prévues à l'article L. 225-51-1.
-
-Les dispositions des deux derniers alinéas de l'article L. 225-102 sont applicables aux informations prévues au présent article.

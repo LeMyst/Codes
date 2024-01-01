@@ -1,5 +1,9 @@
 # Article L821-3
 
-I.-Au cours des trois années précédant leur nomination, les membres du Haut conseil ne doivent pas avoir réalisé de mission de certification des comptes, avoir détenu de droits de vote, avoir fait partie de l'organe d'administration ou de surveillance ou avoir été salarié d'une société de commissaire aux comptes.
+La profession de commissaire aux comptes consiste en :
 
-II.-Les décisions du Haut conseil sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président du Haut conseil est prépondérante. En cas de partage égal des voix au sein de la formation restreinte, la voix de son président est prépondérante.
+1° L'exercice de missions au sens du III de l'article L. 821-2 ; et
+
+2° La fourniture de prestations au sens du IV du même article.
+
+Nul ne peut se prévaloir du titre de commissaire aux comptes s'il ne remplit pas les conditions mentionnées aux dispositions de la sous-section 1 de la section 2 du présent chapitre.

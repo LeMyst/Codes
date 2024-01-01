@@ -32,7 +32,7 @@ Elle fait ressortir, pour les entités d'intérêt public dont les comptes sont 
 
 L'information donnée en application des 2° et 3° distingue les honoraires facturés à l'entité d'intérêt public dont le commissaire aux comptes certifie les comptes, et ceux facturés à l'entité qui la contrôle et à celles qu'elle contrôle au sens des I et II de l'article L. 233-3, ainsi que le pays tiers ou l'Etat membre d'origine des honoraires.
 
-V. - Le commissaire aux comptes établit chaque année une déclaration d'activité comportant les informations mentionnées aux 1° et 4° du IV ainsi que les informations suivantes :
+V.-Le commissaire aux comptes établit chaque année une déclaration d'activité comportant les informations mentionnées aux 1° et 4° du IV ainsi que les informations suivantes :
 
 1° Les personnes et entités auprès desquelles il exerce des missions de certification des comptes ;
 
@@ -42,4 +42,4 @@ V. - Le commissaire aux comptes établit chaque année une déclaration d'activi
 
 4° Pour les autres missions ou prestations, la liste des personnes ou entités, la nature des missions ou prestations effectuées et le montant total des honoraires facturés.
 
-Le commissaire aux comptes adresse cette déclaration d'activité, le cas échéant par voie électronique, à la compagnie régionale, laquelle en transmet un exemplaire à la Compagnie nationale. La Compagnie nationale transmet une copie de ces informations au Haut conseil du commissariat aux comptes.
+Le commissaire aux comptes adresse cette déclaration d'activité, le cas échéant par voie électronique, à la compagnie régionale, laquelle en transmet un exemplaire à la Compagnie nationale. La Compagnie nationale transmet une copie de ces informations à la Haute autorité de l'audit.

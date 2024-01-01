@@ -13,5 +13,3 @@ Dans les sociétés dont les titres sont admis aux négociations sur un marché 
 5° Les modalités particulières de la participation des actionnaires à l'assemblée générale ou les dispositions des statuts qui prévoient ces modalités ;
 
 6° La description de la procédure mise en place par la société en application de l'article L. 22-10-12 et de sa mise en œuvre.
-
-Les dispositions des deux derniers alinéas de l'article L. 225-102 sont applicables aux informations prévues au présent article.

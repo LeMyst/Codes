@@ -6,6 +6,10 @@ Les filiales ou sociétés contrôlées qui dépassent les seuils mentionnés au
 
 Le plan comporte les mesures de vigilance raisonnable propres à identifier les risques et à prévenir les atteintes graves envers les droits humains et les libertés fondamentales, la santé et la sécurité des personnes ainsi que l'environnement, résultant des activités de la société et de celles des sociétés qu'elle contrôle au sens du II de l'article L. 233-16, directement ou indirectement, ainsi que des activités des sous-traitants ou fournisseurs avec lesquels est entretenue une relation commerciale établie, lorsque ces activités sont rattachées à cette relation.
 
+Pour les sociétés produisant ou commercialisant des produits issus de l'exploitation agricole ou forestière, ce plan comporte en particulier des mesures de vigilance raisonnable propres à identifier les risques et à prévenir la déforestation associée à la production et au transport vers la France de biens et de services importés.
+
+Un arrêté définit les catégories d'entreprises mentionnées au quatrième alinéa du présent I.
+
 Le plan a vocation à être élaboré en association avec les parties prenantes de la société, le cas échéant dans le cadre d'initiatives pluripartites au sein de filières ou à l'échelle territoriale. Il comprend les mesures suivantes :
 
 1° Une cartographie des risques destinée à leur identification, leur analyse et leur hiérarchisation ;

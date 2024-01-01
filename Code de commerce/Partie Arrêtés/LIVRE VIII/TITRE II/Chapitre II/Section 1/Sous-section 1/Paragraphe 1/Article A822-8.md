@@ -10,7 +10,7 @@ Le jury est composé comme suit :
 
 3° Un magistrat de la Cour des comptes ou un inspecteur des finances ;
 
-4° Un représentant du Haut Conseil du commissariat aux comptes ;
+4° Un représentant de la Haute autorité de l'audit ;
 
 5° Un représentant de l'Autorité des marchés financiers ;
 

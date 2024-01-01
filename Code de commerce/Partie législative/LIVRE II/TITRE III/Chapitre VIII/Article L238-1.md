@@ -5,4 +5,6 @@ L. 228-69, L. 237-3 et L. 237-26, elles peuvent demander au président du tribun
 
 La même action est ouverte à toute personne intéressée ne pouvant obtenir du liquidateur, des administrateurs, gérants ou dirigeants communication d'une formule de procuration conforme aux prescriptions fixées par décret en Conseil d'Etat ou des renseignements exigés par ce décret en vue de la tenue des assemblées.
 
-Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs, des gérants, des dirigeants ou du liquidateur mis en cause.
+Toute personne n'ayant pu obtenir la production, la communication ou la transmission des documents ou informations prévus aux articles L. 225-37-4, L. 225-102, L. 22-10-9, L. 22-10-10, L. 22-10-36, L. 232-1, L. 232-1-1, L. 232-6, L. 232-6-1, L. 232-6-2, L. 232-6-3, L. 232-6-4, L. 233-26, L. 233-28-1, L. 233-28-2, L. 233-28-3, L. 233-28-4 et L. 233-28-5 peut demander au président du tribunal statuant en référé soit d'enjoindre sous astreinte à la personne ou à l'organe compétent pour la production, la communication ou la transmission des documents ou informations de les communiquer, soit de désigner un mandataire chargé de procéder à cette communication.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge de la personne ou de l'organe mis en cause mis en cause.

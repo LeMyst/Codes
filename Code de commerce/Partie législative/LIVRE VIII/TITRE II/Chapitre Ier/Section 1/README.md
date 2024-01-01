@@ -1,1 +1,1 @@
-Section 1 : De l'organisation de la profession
+Section 1 : Dispositions générales

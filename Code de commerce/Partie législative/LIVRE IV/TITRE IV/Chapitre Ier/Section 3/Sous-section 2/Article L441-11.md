@@ -10,13 +10,13 @@ a) Trente jours après la date de livraison ;
 
 b) Ou, en cas de facture périodique au sens du 3 du I de l'article 289 du code général des impôts, trente jours après la fin de la décade de livraison ;
 
-Le délai mentionné à l'alinéa précédent s'applique sauf disposition dérogatoire figurant dans les contrats types pluriannuels liant les fournisseurs de raisins ou de moût destinés à l'élaboration de vins passibles des droits de circulation prévus à l'article 438 du code général des impôts et leurs acheteurs directs, sous réserve que ces contrats aient été rendus obligatoires conformément à l'article 164 du règlement (UE) n° 1308/2013 du 17 décembre 2013 avant le 1er janvier 2019 et que leur extension soit renouvelée à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins et de moût.
+Le délai mentionné à l'alinéa précédent s'applique sauf disposition dérogatoire figurant dans les contrats types pluriannuels liant les fournisseurs de raisins ou de moût destinés à l'élaboration deproduits relevant des catégories fiscales des vins tranquilles et mousseux en application des articles L. 313-15 et L. 313-16 du code des impositions sur les biens et services et leurs acheteurs directs, sous réserve que ces contrats aient été rendus obligatoires conformément à l'article 164 du règlement (UE) n° 1308/2013 du 17 décembre 2013 avant le 1er janvier 2019 et que leur extension soit renouvelée à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins et de moût.
 
 c) En cas de facture périodique pour des achats de produits saisonniers effectués dans le cadre de contrats d'intégration conclus dans le secteur des fruits et légumes mentionnés aux articles L. 326-1 à L. 326-3 du code rural et de la pêche maritime, trente jours à compter de la fin du mois au cours duquel la livraison est effectuée ;
 
 2° Vingt jours après la date de livraison pour les achats de bétail sur pied destiné à la consommation et de viandes fraîches dérivées ;
 
-3° Trente jours après la fin du mois de livraison pour les achats de boissons alcooliques passibles des droits de consommation prévus à l'article 403 du code général des impôts ;
+3° Trente jours après la fin du mois de livraison pour les achats de boissons relevant de la catégorie fiscale des alcools au sens de l'article L. 313-15 du code des impositions sur les biens et services ;
 
 4° Soixante jours après la date d'émission de la facture pour les achats de produits agricoles et alimentaires non périssables. Lorsque la facture est établie par l'acheteur, ce délai commence à courir à compter de la date de livraison ;
 

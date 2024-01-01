@@ -1,39 +1,39 @@
 # Article L821-2
 
-I.-Le collège du Haut conseil du commissariat aux comptes comprend :
+I.-Pour l'application du présent titre, le terme : “ entité ” désigne notamment les fonds mentionnés aux articles L. 214-8, L. 214-24-34 et L. 214-169 du code monétaire et financier.
 
-1° Quatre magistrats, dont :
+II.-Pour l'application du présent titre, les termes : “ entité d'intérêt public ” désignent :
 
-a) Un membre de la Cour de cassation, président du Haut conseil ;
+1° Les établissements de crédit mentionnés au I de l'article L. 511-1 du code monétaire et financier ayant leur siège social en France ;
 
-b) Deux magistrats de l'ordre judiciaire dont l'un est président de la formation restreinte prévue au II ;
+2° Les entreprises d'assurance et de réassurance mentionnées aux articles L. 310-1 et L. 310-1-1 du code des assurances, à l'exception des sociétés d'assurance mutuelles dispensées d'agrément administratif en application de l'article R. 322-117-1 du code des assurances ;
 
-c) Un magistrat de la Cour des comptes ;
+3° Les institutions de prévoyance et leurs unions régies par le titre III du livre IX du code de la sécurité sociale, à l'exception de celles mentionnées au 3° de l'article L. 931-6-1 du code de la sécurité sociale ;
 
-2° Le président de l'Autorité des marchés financiers ou son représentant, le président de l'Autorité de contrôle prudentiel et de résolution ou son représentant, le directeur général du Trésor ou son représentant ;
+4° Les mutuelles et unions de mutuelles régies par le livre II du code de la mutualité, à l'exception de celles mentionnées au 3° de l'article L. 211-11 du code de la mutualité ;
 
-3° Un professeur des universités spécialisé en matière juridique, économique ou financière ;
+5° Les personnes et entités dont les titres financiers sont admis aux négociations sur un marché réglementé ;
 
-4° Quatre personnes qualifiées en matière économique et financière ; la première est choisie pour ses compétences dans les domaines des offres au public et des sociétés dont les titres sont admis aux négociations sur un marché réglementé, la deuxième pour ses compétences dans le domaine de la banque ou de l'assurance, la troisième pour ses compétences dans le domaine des petites et moyennes entreprises, des personnes morales de droit privé ayant une activité économique ou des associations, la quatrième pour ses compétences en matière de comptabilité nationale et internationale ;
+6° Lorsque le total de leur bilan consolidé ou combiné excède un seuil fixé par décret :
 
-5° Deux personnes ayant exercé la profession de commissaire aux comptes.
+a) Les compagnies financières holdings au sens de l'article L. 517-1 du code monétaire et financier dont l'une des filiales est un établissement de crédit ;
 
-Les membres mentionnés au 1° comprennent un nombre égal de femmes et d'hommes. Parmi les autres membres, à l'exception des membres de droit mentionnés au 2°, l'écart entre le nombre de femmes et d'hommes ne peut être supérieur à un.
+b) Les compagnies financières holdings mixtes au sens de l'article L. 517-4 du code monétaire et financier dont l'une des filiales est une entité d'intérêt public au sens du présent article ;
 
-Le bureau est composé du président du Haut conseil et de deux membres titulaires et de leurs suppléants, élus par le collège en son sein. Il est chargé d'exercer les attributions mentionnées au 4° du I de l'article L. 821-1.
+c) Les sociétés de groupe d'assurance au sens de l'article L. 322-1-2 du code des assurances ;
 
-Le président du Haut conseil est nommé par décret du Président de la République pour une durée de six ans. Il exerce ses fonctions à plein temps. En cas d'empêchement, il est suppléé par le magistrat de l'ordre judiciaire qui ne préside pas la formation restreinte.
+d) Les sociétés de groupe d'assurance mutuelle au sens de l'article L. 322-1-3 du code des assurances ;
 
-Les membres du Haut conseil, autres que les membres de droit, sont nommés par décret pour six ans renouvelables une fois, à l'exception des membres mentionnés au 5° dont le mandat n'est pas renouvelable. Le mandat n'est pas interrompu par les règles de limite d'âge éventuellement applicables aux intéressés.
+e) Les unions mutualistes de groupe au sens de l'article L. 111-4-2 du code de la mutualité ;
 
-Lors de la désignation d'un nouveau membre appelé à remplacer un membre dont le mandat a pris fin avant le terme normal, le nouveau membre est de même sexe que celui qu'il remplace.
+f) Les sociétés de groupe assurantiel de protection sociale au sens de l'article L. 931-2-2 du code de la sécurité sociale ;
 
-II.-En matière de sanctions, et pour connaitre du contentieux des honoraires, le Haut conseil du commissariat aux comptes statue en formation restreinte.
+7° Les fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du code des assurances ;
 
-La formation restreinte est composée du magistrat de l'ordre judiciaire qui en est le président et de quatre autres membres élus par le collège en son sein, à l'exception des membres du bureau et du directeur général du Trésor ou de son représentant.
+8° Les mutuelles ou unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du code de la mutualité ;
 
-En cas d'empêchement du président, il est suppléé par le membre de la formation restreinte le plus âgé.
+9° Les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du code de la sécurité sociale.
 
-Les membres de la formation restreinte ne participent pas aux délibérations du collège portant sur des cas individuels.
+III.-Pour l'application du présent titre, le terme : “ mission ” désigne la mission de certification des comptes, la mission de certification des informations en matière de durabilité ou toute autre mission confiée au commissaire aux comptes par la loi ou le règlement.
 
-III.-Une commission composée à parité de membres du collège et de commissaires aux comptes est placée auprès du Haut conseil afin d'élaborer le projet des normes prévues au 2° du I de l'article L. 821-1. Le nombre et les modalités de désignation de ses membres ainsi que les règles relatives à son organisation et à son fonctionnement sont fixés par le règlement intérieur du Haut conseil.
+IV.-Pour l'application du présent titre, le terme : “ prestation ” désigne la fourniture de services et d'attestations qui ne relèvent pas d'une mission.

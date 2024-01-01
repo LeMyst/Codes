@@ -6,7 +6,7 @@ Article 1er
 
 Le présent code définit la déontologie à laquelle est soumis le commissaire aux comptes dans l'exercice de son activité professionnelle, quelle que soit la nature des missions ou des prestations qu'il fournit. Ses dispositions s'imposent à tout commissaire aux comptes, quel que soit son mode d'exercice.
 
-Pour l'application du présent code, le terme “missions” désigne les missions de contrôle légal et les autres missions confiées par la loi ou le règlement au commissaire aux comptes et le terme “ prestations” désigne les services et attestations fournis par un commissaire aux comptes, en dehors ou dans le cadre d'une mission légale.
+Pour l'application du présent code, le terme “ missions ” désigne les missions de contrôle légal et les autres missions confiées par la loi ou le règlement au commissaire aux comptes et le terme “ prestations ” désigne les services et attestations fournis par un commissaire aux comptes, en dehors ou dans le cadre d'une mission légale.
 
 Le respect des dispositions du présent code fait l'objet de vérifications lors des contrôles et des enquêtes auxquels sont soumis les commissaires aux comptes.
 
@@ -40,13 +40,13 @@ Article 5
 
 Indépendance et prévention des conflits d'intérêts.
 
-I. - Le commissaire aux comptes doit être indépendant de la personne ou de l'entité à laquelle il fournit une mission ou une prestation. Il doit également éviter de se placer dans une situation qui pourrait être perçue comme de nature à compromettre l'exercice impartial de sa mission ou de sa prestation. Ces exigences s'appliquent pendant toute la durée de la mission ou de la prestation, tant à l'occasion qu'en dehors de leur exercice.
+I.-Le commissaire aux comptes doit être indépendant de la personne ou de l'entité à laquelle il fournit une mission ou une prestation. Il doit également éviter de se placer dans une situation qui pourrait être perçue comme de nature à compromettre l'exercice impartial de sa mission ou de sa prestation. Ces exigences s'appliquent pendant toute la durée de la mission ou de la prestation, tant à l'occasion qu'en dehors de leur exercice.
 
 Toute personne qui serait en mesure d'influer directement ou indirectement sur le résultat de la mission ou de la prestation est soumise aux exigences d'indépendance mentionnées au présent article.
 
-II. - L'indépendance du commissaire aux comptes s'apprécie en réalité et en apparence. Elle se caractérise par l'exercice en toute objectivité des pouvoirs et des compétences qui sont conférés par la loi. Elle garantit qu'il émet des conclusions exemptes de tout parti pris, conflit d'intérêt, influence liée à des liens personnels, financiers ou professionnels directs ou indirects, y compris entre ses associés, salariés, les membres de son réseau et la personne ou l'entité à laquelle il fournit la mission ou la prestation. Elle garantit également l'absence de risque d'autorévision conduisant le commissaire aux comptes à se prononcer ou à porter une appréciation sur des éléments résultant de missions ou de prestations fournies par lui-même, la société à laquelle il appartient, un membre de son réseau ou toute autre personne qui serait en mesure d'influer sur le résultat de la mission ou de la prestation.
+II.-L'indépendance du commissaire aux comptes s'apprécie en réalité et en apparence. Elle se caractérise par l'exercice en toute objectivité des pouvoirs et des compétences qui sont conférés par la loi. Elle garantit qu'il émet des conclusions exemptes de tout parti pris, conflit d'intérêt, influence liée à des liens personnels, financiers ou professionnels directs ou indirects, y compris entre ses associés, salariés, les membres de son réseau et la personne ou l'entité à laquelle il fournit la mission ou la prestation. Elle garantit également l'absence de risque d'autorévision conduisant le commissaire aux comptes à se prononcer ou à porter une appréciation sur des éléments résultant de missions ou de prestations fournies par lui-même, la société à laquelle il appartient, un membre de son réseau ou toute autre personne qui serait en mesure d'influer sur le résultat de la mission ou de la prestation.
 
-III. - Lorsqu'il se trouve exposé à des situations à risque, le commissaire aux comptes prend immédiatement les mesures de sauvegarde appropriées en vue, soit d'en éliminer la cause, soit d'en réduire les effets à un niveau suffisamment faible pour que son indépendance ne risque pas d'être affectée et pour permettre l'acceptation ou la poursuite de la mission ou de la prestation en conformité avec les exigences légales, réglementaires et celles du présent code.
+III.-Lorsqu'il se trouve exposé à des situations à risque, le commissaire aux comptes prend immédiatement les mesures de sauvegarde appropriées en vue, soit d'en éliminer la cause, soit d'en réduire les effets à un niveau suffisamment faible pour que son indépendance ne risque pas d'être affectée et pour permettre l'acceptation ou la poursuite de la mission ou de la prestation en conformité avec les exigences légales, réglementaires et celles du présent code.
 
 Lorsque les mesures de sauvegarde sont insuffisantes à garantir son indépendance, il met fin à la mission ou à la prestation.
 
@@ -144,15 +144,15 @@ Article 16
 
 Sollicitation personnalisée et proposition de services en ligne.
 
-I. - Toute sollicitation personnalisée et toute proposition de services en ligne procurent une information sincère sur la nature des missions et prestations proposées par les commissaires aux comptes. Leur mise en œuvre respecte les règles déontologiques applicables à la profession, notamment les principes de dignité, de confraternité, de loyauté envers les clients et les autres membres de la profession.
+I.-Toute sollicitation personnalisée et toute proposition de services en ligne procurent une information sincère sur la nature des missions et prestations proposées par les commissaires aux comptes. Leur mise en œuvre respecte les règles déontologiques applicables à la profession, notamment les principes de dignité, de confraternité, de loyauté envers les clients et les autres membres de la profession.
 
 Elles excluent tout élément comparatif ou dénigrant.
 
-II. - La sollicitation personnalisée ne peut être effectuée que sous la forme d'un envoi postal ou d'un courrier électronique adressé à une personne physique ou morale déterminée destinataire de l'offre de service. Le démarchage physique ou téléphonique, ainsi que tout message textuel envoyé sur un terminal téléphonique mobile sont par ailleurs exclus.
+II.-La sollicitation personnalisée ne peut être effectuée que sous la forme d'un envoi postal ou d'un courrier électronique adressé à une personne physique ou morale déterminée destinataire de l'offre de service. Le démarchage physique ou téléphonique, ainsi que tout message textuel envoyé sur un terminal téléphonique mobile sont par ailleurs exclus.
 
 La sollicitation personnalisée précise les modalités de détermination des honoraires du professionnel.
 
-III. - L'utilisation de noms de domaine composés uniquement du titre de la profession ou d'un titre pouvant prêter à confusion ou de l'appellation d'une activité exercée par la profession, est interdite.
+III.-L'utilisation de noms de domaine composés uniquement du titre de la profession ou d'un titre pouvant prêter à confusion ou de l'appellation d'une activité exercée par la profession, est interdite.
 
 Les sites internet des commissaires aux comptes ne peuvent comporter aucun encart ou bannière publicitaire, autres que ceux de la profession ou des professions avec lesquelles ils sont autorisés à s'associer.
 
@@ -160,13 +160,13 @@ Section 5 : Limitations et interdictions
 
 Article 17
 
-Monopoles des autres professions - Consultations juridiques et rédaction d'actes.
+Monopoles des autres professions-Consultations juridiques et rédaction d'actes.
 
-I. - Le commissaire aux comptes respecte les monopoles des autres professions.
+I.-Le commissaire aux comptes respecte les monopoles des autres professions.
 
-II. - Il ne peut notamment donner de consultations juridiques et rédiger des actes sous seing privé que dans les conditions prévues par l'article 59 de la loi n° 71-1130 du 31 décembre 1971.
+II.-Il ne peut notamment donner de consultations juridiques et rédiger des actes sous seing privé que dans les conditions prévues par l'article 59 de la loi n° 71-1130 du 31 décembre 1971.
 
-III. - Lorsqu'il fournit une prestation le conduisant à recevoir, conserver ou délivrer des fonds ou valeurs, ou à donner quittance, le commissaire aux comptes signe avec la personne ou entité qui le sollicite, un mandat spécial précisant que cette opération est réalisée par virement électronique grâce à la fourniture de codes d'accès spécifiques aux comptes bancaires en ligne de cette personne ou entité.
+III.-Lorsqu'il fournit une prestation le conduisant à recevoir, conserver ou délivrer des fonds ou valeurs, ou à donner quittance, le commissaire aux comptes signe avec la personne ou entité qui le sollicite, un mandat spécial précisant que cette opération est réalisée par virement électronique grâce à la fourniture de codes d'accès spécifiques aux comptes bancaires en ligne de cette personne ou entité.
 
 TITRE II : DISPOSITIONS COMPLEMENTAIRES APPLICABLES AUX COMMISSAIRES AUX COMPTES DANS L'EXERCICE DE LEUR ACTIVITE PROFESSIONNELLE POUR LE COMPTE DE LA PERSONNE OU DE L'ENTITE DONT ILS CERTIFIENT LES COMPTES
 
@@ -174,7 +174,7 @@ Article liminaire
 
 Le commissaire aux comptes exerce une mission d'intérêt général dans les conditions fixées par la loi.
 
-Section 1 : Interdictions - situations à risque et mesures de sauvegarde
+Section 1 : Interdictions-situations à risque et mesures de sauvegarde
 
 Article 18
 
@@ -186,7 +186,7 @@ Article 19
 
 Identification et traitement des risques.
 
-I. - Le commissaire aux comptes identifie les risques de nature à affecter d'une quelconque façon la formation, l'expression de son opinion ou l'exercice de sa mission de contrôle légal, qu'il certifie les comptes d'une entité d'intérêt public ou ceux d'une autre entité.
+I.-Le commissaire aux comptes identifie les risques de nature à affecter d'une quelconque façon la formation, l'expression de son opinion ou l'exercice de sa mission de contrôle légal, qu'il certifie les comptes d'une entité d'intérêt public ou ceux d'une autre entité.
 
 Son appréciation porte notamment sur les risques d'atteinte à l'intégrité, à l'impartialité, à l'indépendance. Elle porte également sur les risques de conflits d'intérêts ou d'auto-révision, ainsi que sur ceux qui résultent de liens personnels, professionnels ou financiers.
 
@@ -200,7 +200,7 @@ Le commissaire aux comptes doit pouvoir justifier qu'il a procédé à l'analyse
 
 Il ne peut accepter une mission de contrôle légal ou la poursuivre que s'il est en mesure de justifier que son jugement professionnel, l'expression de son opinion ou l'exercice de sa mission de contrôle légal ne sont pas affectés.
 
-III. – En cas de doute sérieux ou de difficulté d'interprétation, le commissaire aux comptes saisit, pour avis, le Haut Conseil du commissariat aux comptes.
+III. – En cas de doute sérieux ou de difficulté d'interprétation, le commissaire aux comptes saisit, pour avis, la Haute autorité de l'audit.
 
 Article 20
 
@@ -240,11 +240,11 @@ Article 23
 
 Conduite de la mission.
 
-I. - Le commissaire aux comptes accomplit sa mission de contrôle légal en respectant les normes d'audit mentionnées aux articles L. 821-13 et L. 821-14 du code de commerce.
+I.-Le commissaire aux comptes accomplit sa mission de contrôle légal en respectant les normes d'audit mentionnées aux articles L. 821-13 et L. 821-14 du code de commerce.
 
 Il est attentif aux éléments qui pourraient révéler l'existence d'éventuelles anomalies significatives dues à une erreur ou à une fraude et procède à une évaluation critique des éléments probants pour la certification des comptes.
 
-II. - Lorsqu'il a recours à des experts en application de l'article 10 du présent code, pour l'exercice d'une mission de certification des comptes, le commissaire aux comptes consigne par écrit la demande qu'il a formulée et les conclusions qu'il a reçues.
+II.-Lorsqu'il a recours à des experts en application de l'article 10 du présent code, pour l'exercice d'une mission de certification des comptes, le commissaire aux comptes consigne par écrit la demande qu'il a formulée et les conclusions qu'il a reçues.
 
 Article 24
 
@@ -304,7 +304,7 @@ II. – Le commissaire aux comptes ne peut démissionner pour se soustraire à s
 
 Il ne peut non plus démissionner dans des conditions génératrices de préjudice pour la personne ou l'entité concernée. Il doit pouvoir justifier qu'il a procédé à l'analyse de la situation.
 
-III. – Le commissaire aux comptes qui démissionne en informe le Haut Conseil du commissariat aux comptes et indique les motifs de sa décision.
+III. – Le commissaire aux comptes qui démissionne en informe la Haute autorité de l'audit et indique les motifs de sa décision.
 
 Il en informe également l'Autorité des marchés financiers et l'Autorité de contrôle prudentiel et de résolution lorsque la personne ou l'entité concernée relève de ces autorités.
 
@@ -334,7 +334,7 @@ g) L'élaboration ou le développement d'outils techniques communs.
 
 Toutefois, ne constituent pas de tels indices l'élaboration ou le développement d'outils techniques communs lorsqu'ils s'inscrivent dans le cadre d'une association technique ayant pour unique objet l'élaboration ou le développement de ces outils, le partage de connaissances ou l'échange d'expériences.
 
-En cas de doute sur son appartenance à un réseau, le commissaire aux comptes saisit pour avis le Haut Conseil du commissariat aux comptes.
+En cas de doute sur son appartenance à un réseau, le commissaire aux comptes saisit pour avis la Haute autorité de l'audit.
 
 Article 30
 
@@ -382,7 +382,7 @@ Article 33
 
 Incompatibilités résultant de liens financiers.
 
-I. – Sont incompatibles avec l'exercice de la mission de contrôle légal , les liens financiers qui sont établis entre, d'une part, la personne ou l'entité dont les comptes sont certifiés ou une personne ou entité qui la contrôle ou qui est contrôlée par elle au sens des I et II de l'article L. 233-3 du code de commerce et, d'autre part, le commissaire aux comptes, la société de commissaires aux comptes à laquelle il appartient, les associés et les salariés du commissaire aux comptes qui participent à la mission de certification, ou toute autre personne participant à la mission de certification ainsi que les personnes qui leur sont liées au sens du 3° du I de l'article 25 du présent code et au sens du paragraphe 26 de l'article 3 du règlement (UE) n° 596/2014 du 16 avril 2014 et portant sur les opérations suivantes :
+I. – Sont incompatibles avec l'exercice de la mission de contrôle légal, les liens financiers qui sont établis entre, d'une part, la personne ou l'entité dont les comptes sont certifiés ou une personne ou entité qui la contrôle ou qui est contrôlée par elle au sens des I et II de l'article L. 233-3 du code de commerce et, d'autre part, le commissaire aux comptes, la société de commissaires aux comptes à laquelle il appartient, les associés et les salariés du commissaire aux comptes qui participent à la mission de certification, ou toute autre personne participant à la mission de certification ainsi que les personnes qui leur sont liées au sens du 3° du I de l'article 25 du présent code et au sens du paragraphe 26 de l'article 3 du règlement (UE) n° 596/2014 du 16 avril 2014 et portant sur les opérations suivantes :
 
 1° L'acquisition ou la détention, directe ou indirecte, d'actions ou de tous autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de vote de la personne ou entité dont les comptes sont certifiés.
 
@@ -416,7 +416,7 @@ III. – Est incompatible avec l'exercice de la mission de contrôle légal tout
 
 Article 35
 
-La survenance en cours de mission de l'une des situations mentionnées aux articles 32, 33 et 34 conduit le commissaire aux comptes à en tirer sans délai les conséquences.
+La survenance en cours de mission de l'une des situations mentionnées aux articles 32,33 et 34 conduit le commissaire aux comptes à en tirer sans délai les conséquences.
 
 Section 5 : Honoraires
 
@@ -430,7 +430,7 @@ Il existe un risque de dépendance financière lorsque le total des honoraires r
 
 Lorsqu'il existe un risque de dépendance financière, le commissaire aux comptes met en place les mesures de sauvegarde appropriées.
 
-En cas de difficulté sérieuse, le commissaire aux comptes saisit pour avis le Haut conseil.
+En cas de difficulté sérieuse, le commissaire aux comptes saisit pour avis la Haute autorité de l'audit.
 
 II. – Lorsque le commissaire aux comptes exerce une mission de contrôle légal auprès d'une entité d'intérêt public, il respecte en outre les dispositions du paragraphe 3 de l'article 4 du règlement (UE) n° 537/2014.
 

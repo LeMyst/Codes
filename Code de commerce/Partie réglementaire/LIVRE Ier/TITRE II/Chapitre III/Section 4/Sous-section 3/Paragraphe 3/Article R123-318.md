@@ -10,7 +10,7 @@ En application du troisième alinéa de l'article L. 123-52, ont accès à l'int
 
 4° La direction générale des finances publiques ;
 
-5° Le président du Haut Conseil du commissariat aux comptes et son rapporteur général, toute personne participant directement à l'activité du Haut Conseil qu'ils désignent spécialement à cette fin, ainsi que les contrôleurs désignés en application de l'article R. 821-69 et les enquêteurs habilités en application de l'article R. 824-2 ;
+5° Le président de la Haute autorité de l'audit et son rapporteur général, toute personne participant directement à l'activité du Haut Conseil qu'ils désignent spécialement à cette fin, ainsi que les contrôleurs désignés en application de l'article R. 821-69 et les enquêteurs habilités en application de l'article R. 824-2 ;
 
 6° Les commissaires de justice, huissiers de justice et commissaires-priseurs judiciaires ;
 

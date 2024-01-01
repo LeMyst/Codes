@@ -38,25 +38,23 @@ Les articles L. 232-25 et L. 232-26 sont applicables dans leur rédaction résul
 
 L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1107 du 22 juin 2017 ;
 
-Les articles L. 221-7 et L. 225-37-4 sont applicables dans leur rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
+L' article L. 225-37-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
 
-L'article L. 232-1 est applicable dans sa rédaction résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance ;
-
-Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-35, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-64, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-11, L. 228-12, L. 228-19, L. 228-98, L. 232-1, L. 232-3, L. 232-19, L. 232-25, L. 232-26, L. 235-1, L. 236-6, L. 236-9, L. 236-10 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-35, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-64, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-11, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26, L. 235-1, L. 236-6, L. 236-9 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
 Les articles L. 225-42-1 et L. 225-90-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-697 du 3 juillet 2019 ;
 
-Les articles L. 223-11, L. 225-11-2, L. 225-12, L. 225-131, L. 225-134, L. 225-145, L. 228-39, L. 228-51, L. 232-23, L. 242-1, L. 242-17 et L. 253-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-1067 du 21 octobre 2019.
+Les articles L. 223-11, L. 225-11-2, L. 225-12, L. 225-131, L. 225-134, L. 225-145, L. 228-51, L. 242-1, L. 242-17 et L. 253-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-1067 du 21 octobre 2019.
 
 L'article L. 225-32 est applicable dans sa rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019.
 
 Les articles L. 225-197-1 et L. 225-197-2 sont applicables dans leur rédaction résultant de la loi n° 2023-1107 du 29 novembre 2023 portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise.
 
-Les articles L. 221-7, L. 225-1, L. 225-18-1, L. 225-23, L. 225-27, L. 225-37-4, L. 225-39, L. 225-45, L. 225-46, L. 225-47, L. 225-53, L. 225-58, L. 225-63, L. 225-68, L. 225-69-1, L. 225-71, L. 225-81, L. 225-83, L. 225-84, L. 225-85, L. 225-87, L. 225-96, L. 225-98, L. 225-99, L. 225-100, L. 225-100-1, L. 225-102-3, L. 225-103-1, L. 225-106, L. 225-122, L. 225-123, L. 225-124, L. 225-125, L. 225-130, L. 225-135, L. 225-136, L. 225-138, L. 225-146, L. 225-147, L. 225-147-1, L. 225-149-3, L. 225-177, L. 225-179, L. 225-185, L. 225-186, L. 225-206, L. 225-208, L. 225-209-2, L. 225-211, L. 225-213, L. 225-214, L. 225-217, L. 225-218, L. 225-228, L. 225-231, L. 225-232, L. 225-252, L. 225-256, L. 226-4-1, L. 226-8, L. 226-10, L. 226-10-1, L. 228-15 et L. 228-35-9 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
+Les articles L. 225-1, L. 225-18-1, L. 225-27, L. 225-37-4, L. 225-39, L. 225-45, L. 225-46, L. 225-47, L. 225-53, L. 225-58, L. 225-63, L. 225-68, L. 225-69-1, L. 225-71, L. 225-81, L. 225-83, L. 225-84, L. 225-85, L. 225-87, L. 225-96, L. 225-98, L. 225-99, L. 225-100, L. 225-103-1, L. 225-106, L. 225-122, L. 225-123, L. 225-124, L. 225-125, L. 225-130, L. 225-135, L. 225-136, L. 225-138, L. 225-146, L. 225-147-1, L. 225-149-3, L. 225-177, L. 225-179, L. 225-185, L. 225-186, L. 225-206, L. 225-208, L. 225-209-2, L. 225-211, L. 225-213, L. 225-214, L. 225-217, L. 225-218, L. 225-228, L. 225-231, L. 225-232, L. 225-252, L. 225-256, L. 226-4-1, L. 226-8, L. 226-10, L. 226-10-1, L. 228-15 et L. 228-35-9 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
 
-Les articles L. 226-1 et L. 227-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+L'article L. 226-1 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
-Les articles L. 22-10-1 à L. 22-10-6, L. 22-10-8 à L. 22-10-23, L. 22-10-25 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
+Les articles L. 22-10-1 à L. 22-10-6, L. 22-10-8, L. 22-10-9 et L. 22-10-11 à L. 22-10-23, L. 22-10-25 L. 22-10-34 et L. 22-10-38 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
 
 Les articles L. 228-2, L. 228-3-1, L. 228-3-7, L. 228-29-7-1 à L. 228-29-7-4 et L. 22-10-43-1 sont applicables dans leur rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances ;
 
@@ -64,15 +62,15 @@ Les articles L. 223-42 et L. 225-248 sont applicables dans leur rédaction résu
 
 Les articles L. 229-3 et L. 229-5 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
-Les articles L. 235-8 et L. 236-1 à L. 236-53 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scission, apports partiels d'actifs et opérations transfrontalières de sociétés commerciales ;
-
-Les articles L. 232-6, L. 232-6-1, L. 233-28-1, L. 233-28-2 et L. 238-7 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-483 du 21 juin 2023 relative à la communication, par certaines entreprises et succursales, d'informations relatives à l'impôt sur les bénéfices ;
+Les articles L. 221-7, L. 221-7-1, L. 223-26, L. 224-3, L. 225-8, L. 225-23, L. 225-100, L. 225-101, L. 225-102, L. 225-102-1, L. 225-102-2, L. 225-147, L. 227-1, L. 228-39, L. 229-10, L. 22-10-10, L. 22-10-35, L. 22-10-36, L. 22-10-37, L. 22-10-44, L. 22-10-67, L. 22-10-70, L. 232-1, L. 232-1-1, L. 232-6, L. 232-6-1, L. 232-6-2, L. 232-6-3, L. 232-6-4, L. 232-21, L. 232-22, L. 232-23, L. 233-5-2, L. 233-5-3, L. 233-17, L. 233-26, L. 233-28, L. 233-28-1, L. 233-28-2, L. 233-28-3, L. 233-28-4, L. 233-28-5, L. 236-10, L. 238-1, L. 244-1 et L. 251-12 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
 
 L'article L. 225-102-1 est applicable dans sa rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense ;
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 
 L'article L. 310-5 est applicable dans sa rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur ;
+
+L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023 ;
 
 4° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
@@ -344,7 +342,7 @@ Les articles L. 611-2, L. 611-2-2, L. 611-7, L. 611-10-2, L. 611-10-4 et L. 611-
 
 Les articles L. 611-13 et L. 611-17 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
 
-L'article L. 612-1 est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+Les articles L. 612-1 et L. 612-4 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
 
 b) Au titre II : le chapitre Ier à l'exclusion de la dernière phrase du premier alinéa de l'article L. 621-4, dans sa rédaction résultant de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle ; les chapitres II à VIII, à l'exception des articles L. 622-19 et L. 625-9 ;
 
@@ -394,7 +392,7 @@ h) Le titre VIII bis dans sa rédaction résultant de la loi n° 2022-172 du 14 
 
 7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 711-9 ; les articles L. 721-3 à L. 721-6 ; l'article L. 752-27 ;
 
-L'article L. 712-6 est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+L'article L. 712-6 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
 
 II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et Futuna dans les conditions suivantes :
 
@@ -478,66 +476,4 @@ L. 814-12la | la loi n° 2011-331 du 28 mars 2011 |
 | L. 814-15  | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
-2° Les dispositions du titre II du livre VIII mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna, dans leur rédaction indiquée dans la colonne de droite du même tableau.
-
-| DISPOSITIONS APPLICABLES |
-DANS LEUR RÉDACTION RÉSULTANT DE |
-| --- | --- |
-|
-Titre II |
-|
-Chapitre préliminaire |
-| L. 820-1 et L. 820-1-1 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 820-2 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 820-3 | la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 820-3-1 à L. 820-7 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-|
-Chapitre Ier |
-| L. 821-1 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 821-2 | la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 821-3 à L. 821-4 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 821-6 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 821-9 à L. 821-12-1 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 821-12-2 et L. 821-12-3 | la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 821-12-4 à L. 821-13 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 821-14 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 821-15 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-|
-Chapitre II |
-| L. 822-1 à L. 822-1-4 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 822-1-5 et L. 822-1-6 | la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 822-1-7 à L. 822-9 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 822-10 et L. 822-11 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 822-11-1La | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 822-11-2 à L. 822-13 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 822-14 | la loi n° 2021-875 du 1er juillet 2021 visant à améliorer la trésorerie des associations |
-| L. 822-15 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 822-16 à L. 822-19 | l'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-|
-Chapitre III |
-| L. 823-1 | La loi n° 2016-1691 du 9 décembre 2016 |
-| L. 823-2 et L. 823-3 | L'ordonnance n° 2016-315 du 17 mars 2016 |
-| L. 823-3-1 | La loi n° 2016-1691 du 9 décembre 2016 |
-| L. 823-4 à L. 823-9 | L'ordonnance n° 2016-315 du 17 mars 2016 |
-| L. 823-10 | L'ordonnance n° 2023-483 du 21 juin 2023 |
-|
-L. 823-11 à L. 823-14 | L'ordonnance n° 2016-315 du 17 mars 2016 |
-| L. 823-15 et L. 823-16 | La loi n° 2016-1691 du 9 décembre 2016 |
-| L. 823-16-1 à L. 823-19 | L'ordonnance n° 2016-315 du 17 mars 2016 |
-| L. 823-20 | La loi n° 2016-1691 du 9 décembre 2016 |
-| L. 823-21 | L'ordonnance n° 2016-315 du 17 mars 2016 |
-|
-Chapitre IV |
-| L. 824-1 et L. 824-2 | L'ordonnance n° 2016-1635 du 1er décembre 2016 |
-| L. 824-3 | La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 824-4 | La loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 824-5 | La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 824-6 | L'ordonnance n° 2016-315 du 17 mars 2016 relative au commissariat aux comptes |
-| L. 824-7 | La loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 824-8 | La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 824-10 et L. 824-11 | La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 824-12 | L'ordonnance n° 2016-1635 du 1er décembre 2016 |
-| L. 824-13 | La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| L. 824-14 | La loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté |
-| L. 824-15 | La loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique |
-| L. 824-16 | La loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté |
+2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.

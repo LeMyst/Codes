@@ -1,0 +1,1 @@
+Sous-section 5 : Dispositions relatives à la procédure de certification des activités de présentation, d'information ou de promotion en faveur des produits de santé et prestations éventuellement associées prévue aux articles L. 161-37 et L. 162-17-10.

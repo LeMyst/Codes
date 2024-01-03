@@ -1,0 +1,1 @@
+Partie réglementaire - Décrets simples

@@ -1,0 +1,3 @@
+# Article L162-22-5-2
+
+Certaines activités mentionnées au 1° de l'article L. 162-22 qui sont exercées par les établissements de santé mentionnés aux a, b, c et d du même article L. 162-22, lorsqu'elles font l'objet de sujétions spécifiques qui ne peuvent être prises en compte par les tarifs mentionnés au 1° du I de l'article L. 162-22-3-1 ou et qui, par leur nature, nécessitent la mobilisation de moyens importants, quel que soit le volume d'activité réalisé, peuvent bénéficier d'un forfait annuel ou d'un financement conjoint sous la forme de tarifs de prestations d'hospitalisation et d'un forfait annuel versé, dans les conditions prévues à l'article L. 162-22-15. La liste de ces activités est fixée par décret.

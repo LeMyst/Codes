@@ -1,0 +1,3 @@
+# Article R147-1-1
+
+Les directeurs des organismes d'assurance maladie informent les caisses primaires d'assurance maladie de toute pénalité prononcée à l'encontre des professionnels de santé ou des autres personnes mentionnées au 3° du I de l'article L. 114-17-1 exerçant dans leur ressort géographique commun, ainsi que de toute condamnation pénale ou ordinale prononcée à l'encontre de ces mêmes personnes et dont ils ont eu connaissance, dès lors que ces pénalités ou condamnations sont prononcées à raison de faits mentionnés au troisième alinéa de l'article L. 162-15-1. Ils signalent également les recours dont ils ont connaissance contre ces mêmes pénalités ou condamnations.

@@ -1,0 +1,9 @@
+# Article L162-19-1
+
+La prise en charge par l'assurance maladie d'un produit de santé et de ses prestations éventuellement associées peut être subordonnée au renseignement sur l'ordonnance ou sur un formulaire prévu à cet effet par le professionnel de santé d'éléments relatifs aux circonstances et aux indications de la prescription, lorsque ce produit et, le cas échéant, ses prestations associées présentent un intérêt particulier pour la santé publique, un impact financier pour les dépenses d'assurance maladie ou un risque de mésusage.
+
+Lors de la prescription, le recours au formulaire mentionné au premier alinéa, accessible le cas échéant par un téléservice, peut être exigé afin d'attester le respect du même premier alinéa. Ce document est à présenter au pharmacien ou, le cas échéant, à un autre professionnel de santé en vue de la prise en charge ou du remboursement par l'assurance maladie du produit de santé et de ses prestations éventuellement associées. Il peut être dérogé en tant que de besoin, pour la mise en œuvre du présent alinéa, aux dispositions relatives à l'obligation d'homologation de certains formulaires administratifs prévues aux articles 38 et 39 de l'ordonnance n° 2004-637 du 1er juillet 2004 relative à la simplification de la composition et du fonctionnement des commissions administratives et à la réduction de leur nombre.
+
+Ces éléments ainsi que tout autre élément requis sur l'ordonnance sont transmis au service du contrôle médical par le prescripteur, le pharmacien ou, le cas échéant, par un autre professionnel de santé dans des conditions fixées par voie réglementaire.
+
+Le non-respect de ces obligations peut donner lieu au constat d'un indu correspondant aux sommes prises en charge par l'assurance maladie, qui est recouvré selon la procédure prévue à l'article L. 133-4.

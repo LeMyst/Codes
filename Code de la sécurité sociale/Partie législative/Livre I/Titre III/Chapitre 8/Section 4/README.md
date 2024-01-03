@@ -1,0 +1,1 @@
+Section 4 : Contribution à la charge des exploitants d'un ou plusieurs produits ou prestations, inscrits sur la liste mentionnée à l'article L. 165-1 et pris en charge au titre de l'article L. 162-22-7

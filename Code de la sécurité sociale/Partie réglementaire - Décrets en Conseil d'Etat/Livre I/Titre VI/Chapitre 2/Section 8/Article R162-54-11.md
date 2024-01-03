@@ -1,0 +1,13 @@
+# Article R162-54-11
+
+Lorsqu'un professionnel de santé, un centre de santé, une entreprise de transport, un distributeur ou un prestataire mentionné au premier alinéa de l'article R. 162-54-10 fait l'objet, pour des agissements à caractère frauduleux ayant occasionné au détriment de l'assurance maladie un préjudice financier au moins égal à huit fois la valeur mensuelle du plafond de la sécurité sociale, d'une pénalité prononcée en application de l'article L. 114-17-1 ou d'une condamnation pénale ou ordinale, alors qu'il a déjà fait l'objet d'une telle pénalité ou condamnation pour des faits de cette même nature dans les cinq années précédentes, le directeur de la caisse primaire d'assurance maladie dans le ressort de laquelle exerce l'intéressé engage, si ces deux pénalités ou condamnations sont devenues définitives, une procédure conduisant à placer ce professionnel de santé, ce centre de santé, cette entreprise de transport, ce distributeur ou ce prestataire hors du régime conventionnel.
+
+Le directeur de la caisse primaire d'assurance maladie dispose d'un délai de deux mois à compter de la date à laquelle les deux pénalités ou condamnations sont devenues définitives pour notifier au professionnel un courrier rappelant les faits sanctionnés et l'informant de la durée du placement hors du régime conventionnel qui est envisagé à son encontre, laquelle est déterminée au regard de la gravité des faits sanctionnés et ne peut dépasser cinq ans. Il transmet également ces éléments au directeur général de l'Union nationale des caisses d'assurance maladie.
+
+Le professionnel de santé ou le représentant de la personne morale concernée dispose d'un délai d'un mois à compter de la notification du courrier mentionné à l'alinéa précédent pour présenter des observations écrites ou demander à être entendu, assisté le cas échéant de la personne de son choix. L'audition demandée est fixée par le directeur de la caisse primaire d'assurance maladie au plus tard quarante-cinq jours après la notification du même courrier.
+
+A l'expiration du délai d'un mois mentionné à l'alinéa précédent, ou après l'audition demandée par la personne en cause si elle intervient postérieurement, le directeur de la caisse primaire d'assurance maladie prononce, après avoir recueilli l'avis du directeur général de l'Union nationale des caisses d'assurance maladie, le placement hors du régime conventionnel de la personne concernée pour une durée ne pouvant dépasser celle qu'il lui avait notifiée.
+
+Cette décision est notifiée au professionnel et précise les voies et délais de recours.
+
+Les dispositions du IV de l'article R. 147-2 sont applicables aux notifications prévues aux deuxième et cinquième alinéas.

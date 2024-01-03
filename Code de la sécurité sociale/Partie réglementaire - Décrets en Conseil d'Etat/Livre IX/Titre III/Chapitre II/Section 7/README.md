@@ -1,0 +1,1 @@
+Section 7 : Dispositions transitoires relatives aux institutions de prévoyance issues de la transformation d'une institution de retraite supplémentaire en institution de prévoyance ou ayant fusionné avec une telle institution.

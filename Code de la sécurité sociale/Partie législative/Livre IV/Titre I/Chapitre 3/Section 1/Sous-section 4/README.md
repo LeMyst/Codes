@@ -1,0 +1,1 @@
+Sous-section 4 : Accidents survenus ou maladies constatées dans un pays autre que l'Algérie, alors placé sous la souveraineté, le protectorat ou la tutelle de la France, avant la date d'accession de ce pays à l'indépendance

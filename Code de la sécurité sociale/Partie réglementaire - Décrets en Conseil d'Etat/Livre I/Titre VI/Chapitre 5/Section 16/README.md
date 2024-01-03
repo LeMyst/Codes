@@ -1,0 +1,1 @@
+Section 16 : Dispositions relatives à la fixation des tarifs de responsabilité et des prix des produits et prestations inscrits sur la liste prévue à l'article L. 165-1 par description générique ou description générique renforcée

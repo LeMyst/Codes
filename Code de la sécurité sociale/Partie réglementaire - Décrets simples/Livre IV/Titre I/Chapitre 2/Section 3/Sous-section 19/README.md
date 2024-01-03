@@ -1,0 +1,1 @@
+Sous-section 19 : Bénéficiaires des mises en situation en milieu professionnel dans les établissements et services définis au a du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles

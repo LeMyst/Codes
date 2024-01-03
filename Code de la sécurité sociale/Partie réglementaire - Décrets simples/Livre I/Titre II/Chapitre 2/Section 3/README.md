@@ -1,0 +1,1 @@
+Section 3 : Dispositions diverses relatives à la conservation des pièces comptables et à la réalisation de missions ou d'activités communes relatives à la gestion des organismes par les directeurs comptables et financiers

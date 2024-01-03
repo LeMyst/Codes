@@ -1,0 +1,1 @@
+Section 10 : Contribution salariale sur les distributions et gains nets afférents à des parts de fonds communs de placement à risques, des actions de sociétés de capital-risque ou des droits représentatifs d'un placement financier dans une entité mentionnée au dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts

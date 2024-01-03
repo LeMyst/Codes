@@ -1,0 +1,1 @@
+Sous-section 2 : Dispositions applicables aux opérations de capitalisation et à la couverture de risques liés à la personne et à la durée de la vie humaine à l'exception de celles visées par la sous-section 1

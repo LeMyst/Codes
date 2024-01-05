@@ -1,3 +1,3 @@
 # Article L245-10
 
-La cotisation est assise, contrôlée et recouvrée par l'agence centrale des organismes de sécurité sociale, assistée, en tant que de besoin, par les services de l'Etat désignés par arrêté, selon les mêmes règles, conditions, garanties et sanctions qu'en matière de contributions indirectes. Les frais relatifs au recouvrement et à la gestion de la cotisation sont fixés par arrêté et s'imputent sur celle-ci.
+Les règles relatives au contrôle, au recouvrement et au contentieux de la taxe sont celles applicables à l'accise sur les alcools mentionnées à la section 8 du chapitre III du titre Ier du livre III du code des impositions sur les biens et services.

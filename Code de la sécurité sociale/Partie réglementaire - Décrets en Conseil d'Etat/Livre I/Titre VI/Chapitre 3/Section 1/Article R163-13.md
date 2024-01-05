@@ -7,3 +7,5 @@ Le directeur général de l'Union nationale des caisses d'assurance maladie info
 Dans les deux cas, l'entreprise qui exploite le médicament, qui assure l'importation ou la distribution parallèles du médicament peut présenter des observations écrites à la commission prévue à l'article R. 163-15, dans les vingt jours suivant la réception de cette information.
 
 II.-Lorsqu'un nouveau taux de participation de l'assuré aux frais d'acquisition d'un médicament a été fixé en application de l'article R. 160-5, les décisions du directeur général de l'Union nationale des caisses d'assurance maladie appliquant effectivement ce taux aux médicaments concernés ne peuvent prendre effet avant l'expiration d'un délai d'un mois suivant la date d'entrée en vigueur de ce taux.
+
+III.-Par dérogation au dernier alinéa du I, lorsque la radiation envisagée se fonde sur les dispositions du II de l'article R. 163-7, l'entreprise concernée peut adresser des observations écrites aux ministres chargés de la santé et de la sécurité sociale, dans le délai de vingt jours suivant la réception de l'information relative à ce projet de radiation.

@@ -1,6 +1,6 @@
 # Article R844-1
 
-Ont le caractère de revenus professionnels ou en tiennent lieu en application du 1° de l'article L. 842-4 :
+I.- Ont le caractère de revenus professionnels ou en tiennent lieu en application du 1° de l'article L. 842-4 :
 
 1° L'ensemble des revenus tirés d'une activité salariée ou non salariée ;
 
@@ -21,3 +21,9 @@ Ont le caractère de revenus professionnels ou en tiennent lieu en application d
 9° (Abrogé)
 
 10° Les sommes perçues au titre de leur participation à un travail destiné à leur insertion sociale par les personnes accueillies dans les organismes d'accueil communautaire et d'activités solidaires mentionnés à l' article L. 265-1 du code de l'action sociale et des familles .
+
+II.-Les revenus professionnels mentionnés au I, à l'exception des revenus tirés d'une activité non salariée mentionnés au 1° du I et définis aux articles R. 845-1 et R. 845-2, sont pris en compte pour un montant égal à la différence entre :
+
+1° D'une part, les montants, pour leur valeur brute, correspondant aux sommes, ainsi qu'aux avantages et accessoires, le cas échéant en nature, qui y sont associés, dus en contrepartie ou à l'occasion d'un travail, d'une activité ou de l'exercice d'un mandat ou d'une fonction élective, ainsi qu'aux sommes destinées à compenser la perte de revenu d'activité, quelle qu'en soit la dénomination et les modalités de versement, à l'exception du financement par l'employeur des garanties collectives mentionnées à l'article L. 911-1 et du versement mentionné au I de l'article L. 911-7-1, ainsi que la contribution des employeurs aux chèques-vacances prévue à l'article L. 411-1 du code du tourisme et au financement des activités et prestations prévues à l'article L. 7233-4 du code du travail ;
+
+2° D'autre part, le montant des cotisations et contributions sociales à la charge du bénéficiaire des revenus mentionnés au I instituées ou rendues obligatoires par des dispositions législatives ou réglementaires, ainsi que les montants correspondant au financement par le salarié des garanties collectives mentionnées à l'article L. 911-1.

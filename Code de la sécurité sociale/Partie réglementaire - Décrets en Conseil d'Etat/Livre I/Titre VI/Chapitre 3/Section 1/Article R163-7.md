@@ -20,7 +20,7 @@ I. ― Après avis de la commission mentionnée à l'article R. 163-15, peuvent 
 
 Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé signale au ministre chargé de la sécurité sociale et au ministre chargé de la santé les médicaments dont la publicité ne serait pas conforme aux règles fixées ci-dessus.
 
-II.-Peuvent être radiés des listes ou de l'une des listes prévues aux premier et deuxième alinéas de l'article L. 162-17 du présent code et à l'article L. 5123-2 du code de la santé publique par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de la santé, le cas échéant pour certaines de leurs indications seulement :
+II.-Peuvent être radiés des listes ou de l'une des listes prévues aux premier et deuxième alinéas de l'article L. 162-17 du présent code et à l'article L. 5123-2 du code de la santé publique, sans consultation de la commission mentionnée à l'article R. 163-15, par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de la santé, le cas échéant pour certaines de leurs indications seulement :
 
 1° Les spécialités génériques définies au a du 5° de l'article L. 5121-1 du code de la santé publique, dont la dénomination est constituée d'un nom de fantaisie, lorsque cette dénomination n'est pas complétée par le suffixe prévu par l'article L. 162-17-1 du présent code dans l'étiquetage et la notice définis à l'article R. 5121-1 du code de la santé publique, dans le résumé des caractéristiques du produit prévu à l'article R. 5121-21 du même code, ainsi que dans toute publicité au sens de l'article L. 5122-1 du même code ;
 
@@ -28,4 +28,6 @@ II.-Peuvent être radiés des listes ou de l'une des listes prévues aux premier
 
 3° Les spécialités pour lesquelles aucun remboursement n'a eu lieu depuis au moins un an, ainsi que les spécialités faisant l'objet d'un arrêt définitif de commercialisation ou d'une abrogation, totale ou partielle, de leur autorisation de mise sur le marché ;
 
-4° Les spécialités bénéficiant d'une autorisation d'importation parallèle en application de l'article L. 5124-13 du code de la santé publique, ou faisant l'objet d'une distribution parallèle, lorsque la spécialité correspondante disposant d'une autorisation de mise sur le marché en France est elle-même radiée des listes ou de l'une des listes précitées en raison d'un service médical rendu insuffisant.
+4° Les spécialités bénéficiant d'une autorisation d'importation parallèle en application de l'article L. 5124-13 du code de la santé publique, ou faisant l'objet d'une distribution parallèle, lorsque la spécialité correspondante disposant d'une autorisation de mise sur le marché en France est elle-même radiée des listes ou de l'une des listes précitées en raison d'un service médical rendu insuffisant ;
+
+5° Les médicaments qui deviennent insusceptibles d'être inscrits sur la liste prévue au premier alinéa de l'article L. 162-17 en application de l'article R. 163-6.

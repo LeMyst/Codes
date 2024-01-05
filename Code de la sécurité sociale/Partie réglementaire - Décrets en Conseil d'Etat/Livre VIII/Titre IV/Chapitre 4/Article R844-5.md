@@ -1,6 +1,6 @@
 # Article R844-5
 
-Sont exclues des ressources prises en compte pour le calcul de la prime d'activité les prestations et aides sociales suivantes :
+Sont exclues des ressources prises en compte pour le calcul de la prime d'activité les prestations, indemnités et aides sociales suivantes :
 
 1° La prime à la naissance ou à l'adoption mentionnée à l'article L. 531-2 ;
 
@@ -36,7 +36,7 @@ Sont exclues des ressources prises en compte pour le calcul de la prime d'activi
 
 17° Les frais funéraires mentionnés à l'article L. 435-1 ;
 
-18° Le capital décès servi par un régime de sécurité sociale ;
+18° Le capital décès servi par un régime de sécurité sociale et l'allocation versée au conjoint en cas de décès du bénéficiaire de l'allocation d'aide au retour à l'emploi en application de l'article 36 de l'annexe A du décret n° 2019-797 du 26 juillet 2019 modifié relatif au régime d'assurance chômage ;
 
 19° L'allocation du fonds de solidarité en faveur des anciens combattants d'Afrique du Nord prévue à l' article 125 de la loi n° 91-1322 du 30 décembre 1991 de finances pour 1992 ;
 
@@ -60,4 +60,24 @@ Sont exclues des ressources prises en compte pour le calcul de la prime d'activi
 
 28° L'allocation prévue à l'article L. 168-8 du présent code ;
 
-29° L'allocation forfaitaire versée en cas de décès d'un enfant, mentionnée à l'article L. 545-1 du présent code.
+29° L'allocation forfaitaire versée en cas de décès d'un enfant, mentionnée à l'article L. 545-1 du présent code ;
+
+30° Les indemnités destinées à l'entretien de l'enfant mentionnées à l'article L. 423-4 du code de l'action sociale et des familles ;
+
+31° L'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1 du même code ;
+
+32° La majoration pour aide constante d'une tierce personne accordée en application de l'article L. 355-1 du présent code ;
+
+33° La prestation complémentaire pour recours à tierce personne mentionnée au troisième alinéa de l'article L. 434-2 ;
+
+34° La majoration spéciale pour assistance d'une tierce personne mentionnée à l'article L. 30 bis du code des pensions civiles et militaires de retraites et à l'article 34 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales ;
+
+35° La majoration attribuée aux bénéficiaires des dispositions du 3° de l'article D. 712-15 du présent code ou du 3° du V de l'article 6 du décret n° 60-58 du 11 janvier 1960 relatif au régime de sécurité sociale des agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial ;
+
+36° La majoration de la pension d'invalidité attribuée en application de l'article L. 133-1 du code des pensions militaires d'invalidité et des victimes de guerre ;
+
+37° La majoration de la pension d'invalidité attribuée en application du règlement du Conseil de la protection sociale des travailleurs indépendants approuvé par l'arrêté prévu à l'article L. 632-3 du présent code ;
+
+38° L'allocation journalière d'accompagnement d'une personne en fin de vie mentionnée à l'article L. 168-1 ;
+
+39° L'aide financière d'urgence versée à une personne victime de violences conjugales en application de l'article L. 214-9 du code de l'action sociale et des familles.

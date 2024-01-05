@@ -4,7 +4,7 @@ Il est créé auprès de chaque agence régionale de santé, un comité consulta
 
 Le comité est composé de trois sections :
 
-1° Une section chargée d'émettre un avis pour les activités de médecine d'urgence autorisées selon les modalités prévues aux 2° et 3° de l'article R. 6123-1 du code de la santé publique ;
+1° Une section chargée d'émettre un avis pour les activités de médecine d'urgence autorisées selon les modalités prévues à l'article R. 6123-1 du code de la santé publique ;
 
 2° Une section chargée d'émettre un avis pour les activités de psychiatrie ;
 

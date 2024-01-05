@@ -6,6 +6,4 @@ Le fabricant ou le distributeur est tenu de déclarer, dans le même délai, au 
 
 II.-Le directeur de l'organisme d'assurance maladie compétent notifie au fabricant ou au distributeur, par tout moyen donnant date certaine à sa réception, les motifs qui justifient le principe et le montant de la pénalité, le délai de règlement ainsi que les voies et délais de recours. Le directeur communique sa décision à l'organisme de recouvrement compétent.
 
-Dans un délai d'un mois à compter de la notification, le fabricant ou le distributeur s'acquitte de la pénalité auprès de l'agent comptable de l'organisme de recouvrement compétent.
-
-III.-L'organisme de recouvrement compétent informe le directeur de l'organisme d'assurance maladie des montants perçus.
+Dans un délai d'un mois à compter de la notification, le fabricant ou le distributeur s'acquitte de la pénalité auprès du directeur comptable et financier de l'organisme d'assurance maladie compétent.

@@ -1,6 +1,6 @@
 # Article R147-3
 
-I.-La commission mentionnée à l'article L. 114-17-1 constituée au sein de l'organisme local d'assurance maladie compétent pour prononcer la pénalité est composée de cinq membres issus du conseil de cet organisme et désignés par lui en tenant compte de la répartition des sièges entre les différentes catégories représentées en son sein.
+I.-La commission mentionnée à l'article L. 114-17-2 constituée au sein de l'organisme local d'assurance maladie compétent pour prononcer la pénalité est composée de cinq membres issus du conseil de cet organisme et désignés par lui en tenant compte de la répartition des sièges entre les différentes catégories représentées en son sein.
 
 Le conseil de l'organisme local nomme cinq représentants de chaque profession de santé, des fournisseurs et autres prestataires de service, des centres de santé, des laboratoires de biologie médicale, sur proposition de l'instance paritaire prévue par la convention nationale mentionnée aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9,
 L. 162-14, L. 322-5, L. 322-5-2, L. 162-16-1, L. 162-32-1 et L. 165-6 au niveau départemental, ou à défaut au niveau régional :
@@ -31,6 +31,6 @@ La commission ne peut donner son avis que si sont au moins présents :
 
 Les membres de la commission sont soumis au secret des délibérations.
 
-II.-La commission mentionnée à l'article L. 114-17-1 constituée au sein de la caisse chargée de la prévention et de la tarification des accidents du travail et des maladies professionnelles compétente pour prononcer la pénalité est composée de deux représentants des assurés sociaux et de deux représentants des employeurs issus du conseil de cette caisse et désignés par les membres mentionnés aux deuxième et troisième alinéas de l'article L. 215-2 du présent code ou aux 2° et 3° de l'article L. 723-15 du code rural et de la pêche maritime.
+II.-La commission mentionnée à l'article L. 114-17-2 constituée au sein de la caisse chargée de la prévention et de la tarification des accidents du travail et des maladies professionnelles compétente pour prononcer la pénalité est composée de deux représentants des assurés sociaux et de deux représentants des employeurs issus du conseil de cette caisse et désignés par les membres mentionnés aux deuxième et troisième alinéas de l'article L. 215-2 du présent code ou aux 2° et 3° de l'article L. 723-15 du code rural et de la pêche maritime.
 
 Les dispositions de l'article R. 114-12, à l'exception de son premier alinéa, sont applicables à cette commission.

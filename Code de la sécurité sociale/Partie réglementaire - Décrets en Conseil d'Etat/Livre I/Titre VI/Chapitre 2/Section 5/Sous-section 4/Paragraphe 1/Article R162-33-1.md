@@ -20,11 +20,15 @@ Ces forfaits sont facturés pour chaque passage non programmé dans une structur
 
 La prise en charge des frais occasionnés par ces prestations est assurée par des forfaits facturés pour chaque prélèvement d'un ou plusieurs organes ou tissus ;
 
-4° Les soins non programmés non suivis d'une hospitalisation dans les établissements qui ne sont pas autorisés à exercer l'activité d'accueil et de traitement des urgences, représentatifs de la mise à disposition de matériel de petite chirurgie ou d'immobilisation.
+4° Les soins non programmés non suivis d'une hospitalisation, dispensés en dehors d'une structure des urgences autorisée, représentatifs soit :
+
+a) De la mise à disposition de matériel de petite chirurgie ou d'immobilisation. Ces forfaits sont facturés dès lors que certains actes nécessitant l'utilisation de matériel de petite chirurgie ou d'immobilisation sont effectués lors des soins non programmés ;
+
+b) De l'utilisation d'un plateau technique spécialisé d'accès direct en application du 2° de l'article R. 6123-32-2 ;
+
+c) De la mise à disposition de l'ensemble des moyens nécessaires à l'accueil et au traitement des urgences gynécologiques, hors urgences obstétricales, dans les services de gynécologie-obstétrique ;
 
 La prise en charge des frais occasionnés par ces prestations est assurée par des forfaits ;
-
-Ces forfaits sont facturés dès lors que certains actes nécessitant l'utilisation de matériel de petite chirurgie ou d'immobilisation sont effectués lors des soins non programmés ;
 
 5° Les soins non suivis d'une hospitalisation dispensés dans les établissements de santé, représentatifs de la mise à disposition des moyens nécessaires à l'utilisation d'un secteur opératoire ou l'observation du patient dans un environnement hospitalier. La prise en charge des frais résultant de l'utilisation de ces moyens est assurée par des forfaits facturés pour chaque passage à l'exception des cas où le passage est réalisé dans les conditions du 2° ou du 4° du présent article ;
 

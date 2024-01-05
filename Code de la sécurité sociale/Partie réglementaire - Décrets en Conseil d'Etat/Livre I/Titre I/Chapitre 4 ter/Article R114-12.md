@@ -1,6 +1,6 @@
 # Article R114-12
 
-La commission mentionnée au deuxième alinéa de l'article R. 114-11 est composée de quatre membres issus du conseil d'administration de l'organisme compétent pour prononcer la pénalité et désignés par lui en tenant compte de la répartition des sièges entre les différentes catégories représentées en son sein.
+La commission mentionnée au 3° de l'article R. 114-11 est composée de quatre membres issus du conseil d'administration de l'organisme compétent pour prononcer la sanction et désignés par lui en tenant compte de la répartition des sièges entre les différentes catégories représentées en son sein.
 
 Les membres de la commission sont nommés pour la durée du mandat du conseil d'administration.
 

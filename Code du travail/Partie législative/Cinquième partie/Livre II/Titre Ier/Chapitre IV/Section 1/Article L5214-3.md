@@ -1,6 +1,6 @@
 # Article L5214-3
 
-Les ressources du fonds de développement pour l'insertion professionnelle des handicapés sont destinées à favoriser toutes les formes d'insertion professionnelle des handicapés en milieu ordinaire de travail.
+Les ressources affectées à l'association gestionnaire du fonds de développement pour l'insertion professionnelle des handicapés sont destinées à favoriser toutes les formes d'insertion professionnelle des handicapés en milieu ordinaire de travail.
 
 Elles sont affectées notamment :
 

@@ -6,7 +6,7 @@ II. ― L'emploi d'avenir professeur est destiné à des étudiants titulaires d
 
 III. ― Les étudiants mentionnés au II bénéficient d'une priorité d'accès aux emplois d'avenir professeur lorsqu'ils effectuent leurs études dans une académie ou dans une discipline connaissant des besoins particuliers de recrutement et qu'ils justifient :
 
-1° Soit d'avoir résidé pendant une durée minimale dans un quartier prioritaire de la politique de la ville, dans une zone de revitalisation rurale au sens de l'article 1465 A du code général des impôts, en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon ;
+1° Soit d'avoir résidé pendant une durée minimale dans un quartier prioritaire de la politique de la ville, dans une zone France ruralités revitalisation mentionnée aux II et III de l'article 44 quindecies A du code général des impôts, en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon ;
 
 2° Soit d'avoir effectué pendant une durée minimale leurs études secondaires dans un établissement situé dans l'une de ces zones ou relevant de l'éducation prioritaire.
 

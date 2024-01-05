@@ -2,7 +2,7 @@
 
 L'organisme prestataire de bilans de compétences procède à la destruction des documents élaborés pour la réalisation du bilan de compétences, dès le terme de l'action.
 
-Toutefois, les dispositions du premier alinéa ne s'appliquent pas pendant un an :
+Toutefois, les dispositions du premier alinéa ne s'appliquent pas pendant un délai de trois ans :
 
 -au document de synthèse dans le cas mentionné au troisième alinéa de l'article L. 6313-4 ;
 

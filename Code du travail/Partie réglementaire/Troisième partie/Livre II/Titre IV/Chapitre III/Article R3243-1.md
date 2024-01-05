@@ -26,6 +26,8 @@ b) La nature et le montant des versements et retenues autres que celles mentionn
 
 9° L'assiette, le taux et le montant de la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des impôts ainsi que la somme qui aurait été versée au salarié en l'absence de retenue à la source ;
 
+9° bis Le montant des revenus professionnels versés par l'employeur, tel qu'il est défini au II de l'article R. 844-1 du code de la sécurité sociale ;
+
 10° Le montant de la somme effectivement reçue par le salarié ;
 
 11° La date de paiement de cette somme ;

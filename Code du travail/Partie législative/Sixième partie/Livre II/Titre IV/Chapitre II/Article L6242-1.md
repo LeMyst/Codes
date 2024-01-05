@@ -28,6 +28,8 @@ Toutefois, par dérogation au même I, la période à retenir pour apprécier le
 
 Pour les entreprises de travail temporaire mentionnées à l'article L. 1251-2 du présent code, le seuil mentionné au premier alinéa du I est apprécié sans tenir compte des salariés titulaires d'un contrat de travail, dit “ contrat de mission ”, mentionné au 2° de l'article L. 1251-1. La contribution n'est pas due sur les rémunérations versées à ces salariés.
 
+Les salariés en contrat de professionnalisation ou d'apprentissage mis à disposition par un groupement d'employeurs pour l'insertion et la qualification mentionné au troisième alinéa de l'article L. 1253-1 sont pris en compte par l'entreprise utilisatrice pour le calcul du seuil mentionné au I du présent article.
+
 VI.-Par dérogation, pour les établissements mentionnés au deuxième alinéa du II de l'article 6241-1-1, les taux prévus au IV du présent article sont réduits à 52 % de leur montant.
 
 VII.-Pour le calcul de cette contribution, le montant de la contribution et l'assiette déclarée sont arrondis conformément aux dispositions de l'article L. 133-10 du code de la sécurité sociale.

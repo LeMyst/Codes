@@ -4,4 +4,4 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 1° (Abrogé) ;
 
-2° Les modalités du contrôle de la répartition et de l'utilisation des contributions versées au fonds de développement pour l'insertion professionnelle des handicapés.
+2° Les modalités du contrôle de la répartition et de l'utilisation des ressources versées au fonds de développement pour l'insertion professionnelle des handicapés.

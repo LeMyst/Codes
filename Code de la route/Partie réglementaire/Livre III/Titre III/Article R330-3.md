@@ -6,7 +6,7 @@ I.-Parmi les autorités et personnes énumérées à l'article L. 330-2, reçoiv
 
 a) Les agents de police judiciaire adjoints et les gardes champêtres autres que ceux mentionnés au 4° du I de l'article R. 330-2, aux seules fins d'identifier les auteurs des infractions au présent code et des infractions relatives à l'abandon ou au dépôt illégal de déchets qu'ils sont habilités à constater ;
 
-b) Aux seules fins d'identifier les auteurs des infractions au présent code, les fonctionnaires habilités à constater ces infractions en application des 1°, 3°, 4°, 5° et 9° de l'article L. 130-4 ;
+b) Aux seules fins d'identifier les auteurs des infractions au présent code, les fonctionnaires habilités à constater ces infractions en application des 1°, 3°, 4°, 5° et 9° de l'article L. 130-4 .
 
 2° Par l'intermédiaire du ministre de l'intérieur, par voie électronique :
 
@@ -28,7 +28,9 @@ g) Les personnels habilités de l'organisme chargé par l'Etat de participer au 
 
 a) Les agents habilités des services mentionnés au 7° du I de l'article L. 330-2, autres que ceux bénéficiant d'un accès direct en application du 8° du I de l'article R. 330-2 ;
 
-b) Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4, sous réserve qu'ils produisent, à l'appui de leur demande de communication, la date et l'heure de la contravention de non-paiement du péage, le numéro d'immatriculation du véhicule ainsi que le numéro identifiant de la demande de l'agent assermenté.
+b) Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4, sous réserve qu'ils produisent, à l'appui de leur demande de communication, la date et l'heure de la contravention de non-paiement du péage, le numéro d'immatriculation du véhicule ainsi que le numéro identifiant de la demande de l'agent assermenté ;
+
+c) Aux seules fins de faciliter et de sécuriser leurs interventions, lorsque celles-ci impliquent des véhicules à moteur, les sapeurs-pompiers et marins-pompiers des services d'incendie et de secours mentionnés à l'article L. 722-1 du code de la sécurité intérieure qui sont chargés de la réception, du traitement et de la réorientation des demandes de secours et de la coordination de l'activité opérationnelle, individuellement désignés et habilités à cet effet par leur chef de service, ainsi que ceux chargés de la conduite et de l'exécution de ces interventions.
 
 II.-La communication aux constructeurs de véhicules ou à leurs mandataires mentionnés au 13° du I de l'article L. 330-2 des informations mentionnées à cet article est effectuée à titre gratuit par le ministre de l'intérieur, selon des modalités fixées par voie conventionnelle.
 

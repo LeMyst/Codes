@@ -14,7 +14,7 @@ R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 
 | R. 211-26-1 | Résultant du décret n° 2019-208 du 20 mars 2019  |
 | R. 211-27 à R. 211-31 |
 Résultant du décret n° 2014-1253 du 27 octobre 2014  |
-| R. 211-32 | Résultant du décret n° 2023-776 du 14 août 2023 |
+| R. 211-32 | Résultant du décret n° 2023-1388 du 29 décembre 2023. |
 | R. 211-33 et R. 211-34 | Résultant du décret n° 2023-776 du 14 août 2023 |
 | R. 213-2 à R. 213-5 | Résultant du décret n° 2023-204 du 27 mars 2023 |
 | R. 214-1 à R. 214-3 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |

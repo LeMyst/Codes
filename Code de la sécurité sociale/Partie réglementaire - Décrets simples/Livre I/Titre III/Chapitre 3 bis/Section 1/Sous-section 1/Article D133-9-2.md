@@ -1,0 +1,5 @@
+# Article D133-9-2
+
+Le responsable de la mission mentionné à l'article D. 133-6 préside le comité mentionné à l'article D. 133-8 et nomme son vice-président parmi ses membres. Il définit les modalités d'organisation et de fonctionnement du comité, ainsi que son règlement intérieur et son programme de travail. Il peut être sollicité par les administrations concernées pour organiser, dans des conditions de nature à préserver la confidentialité des travaux mentionnés au 8° de l'article D. 133-7, l'instruction des modalités d'utilisation des déclarations mentionnées à l'article L. 133-5-3.
+
+La mission mentionnée à l'article D. 133-5 assure le secrétariat du comité avec le concours du groupement mentionné à l'article D. 133-9-3. Celui-ci met à disposition les moyens humains et matériels nécessaires au fonctionnement et à la réalisation du programme de travail du comité. Les moyens mis en œuvre par ce groupement pour contribuer au fonctionnement du comité sont présentés au conseil d'administration de celui-ci dans le cadre de son budget annuel.

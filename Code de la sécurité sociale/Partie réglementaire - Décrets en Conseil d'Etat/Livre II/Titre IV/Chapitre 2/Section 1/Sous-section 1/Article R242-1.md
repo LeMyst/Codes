@@ -1,6 +1,6 @@
 # Article R242-1
 
-I.-Les cotisations de sécurité sociale sont calculées, pour chaque période de travail, sur l'ensemble des revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, dans les conditions prévues au II.
+I.-Les cotisations et contributions de sécurité sociale sont calculées, pour chaque période de travail, sur l'ensemble des revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, dans les conditions prévues au II.
 
 Sont incluses dans la base des cotisations les allocations complémentaires aux indemnités journalières de sécurité sociale, versées au titre de périodes d'incapacité temporaire de travail consécutive à une maladie, un accident, une maternité, en application du contrat de travail ou d'une convention collective de travail, lorsqu'elles sont destinées à maintenir en tout ou en partie, pendant ces périodes, le salaire d'activité, que ces allocations soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers.
 
@@ -18,12 +18,22 @@ La contribution salariale n'est pas due par le travailleur salarié ou assimilé
 
 Dans ce cas, les cotisations patronales dues au titre des législations de sécurité sociale et d'allocations familiales sont fixées forfaitairement par arrêté du ministre chargé de la sécurité sociale.
 
-II.-Les taux et plafonds applicables pour le calcul des cotisations sociales sont ceux en vigueur au cours de la période de travail au titre de laquelle les rémunérations sont dues.
+II.-Les règles applicables au calcul des cotisations et contributions sociales dues sur les revenus mentionnés au I ou versés en application d'une décision de justice, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période d'activité au titre de laquelle ces revenus sont dus.
 
-Les taux et plafonds appliqués aux rémunérations mentionnées à l'alinéa précédent sont également appliqués aux rémunérations rattachées à la même paie dues au titre d'autres périodes.
+Par dérogation au premier alinéa :
 
-Par dérogation à l'alinéa précédent :
+1° Lorsqu'une partie des revenus dus au titre d'une période précédente est habituellement et régulièrement versée en même temps que les revenus dus au titre d'une période postérieure, les règles applicables sont celles en vigueur au terme de cette dernière période ;
 
-1° Pour les rappels de rémunérations ordonnés par décision de justice, il est fait application des taux et plafonds en vigueur lors des périodes de travail donnant lieu à ces rappels ;
+2° Lorsque des éléments de rémunération sont habituellement et régulièrement versés selon une périodicité différente du mois, conformément aux dispositions légales ou conventionnelles, les règles applicables sont celles en vigueur pour la période d'activité correspondant à la rémunération avec laquelle ces éléments de rémunération sont versés ;
 
-2° Pour les sommes versées après le départ du salarié, il est fait application des taux et plafonds applicables lors de la dernière période de travail de celui-ci.
+3° Lorsque les éléments de rémunération mentionnés au 2° sont versés postérieurement à la fin de la relation de travail ou que les revenus sont dus au titre de la fin de la relation de travail, les règles applicables sont celles en vigueur au terme de la dernière période d'activité ayant donné lieu à rémunération.
+
+III.-Les cotisations et contributions de sécurité sociale dues sur les sommes déclarées dans les conditions prévues au II bis de l'article L. 133-5-3, à l'exclusion de celles mentionnées au I, sont calculées pour chaque période au titre desquelles celles-ci sont attribuées.
+
+IV.-Les règles applicables pour le calcul des cotisations et contributions sociales dues sur les sommes mentionnés au IV, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période au titre de laquelle les sommes sont attribuées.
+
+Pour les sommes qui sont versées selon une périodicité supérieure au mois, les règles applicables sont celles en vigueur :
+
+1° Au terme du premier mois de la période, pour les prestations ou revenus versés à terme à échoir ;
+
+2° Au terme du dernier mois de la période, pour les prestations ou revenus versés à terme échu.

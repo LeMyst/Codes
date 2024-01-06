@@ -8,7 +8,7 @@ Sont notamment compris parmi les personnes auxquelles s'impose l'obligation pré
 
 3° les employés d'hôtels, cafés et restaurants ;
 
-4° sans préjudice des dispositions du 5°) du présent article réglant la situation des sous-agents d'assurances, les mandataires non assujettis à la cotisation foncière des entreprises mentionnés au 4° de l'article R. 511-2 du code des assurances rémunérés à la commission, qui effectuent d'une façon habituelle et suivie des opérations de présentation d'assurances pour une ou plusieurs entreprises d'assurances telles que définies par l'article L. 310-1 du code des assurances et qui ont tiré de ces opérations plus de la moitié de leurs ressources de l'année précédente ;
+4° sans préjudice des dispositions du 5°) du présent article réglant la situation des sous-agents d'assurances, les mandataires non assujettis à la contribution économique territoriale mentionnés au 4° de l'article R. 511-2 du code des assurances rémunérés à la commission, qui effectuent d'une façon habituelle et suivie des opérations de présentation d'assurances pour une ou plusieurs entreprises d'assurances telles que définies par l'article L. 310-1 du code des assurances et qui ont tiré de ces opérations plus de la moitié de leurs ressources de l'année précédente ;
 
 5° les sous-agents d'assurances travaillant d'une façon habituelle et suivie pour un ou plusieurs agents généraux et à qui il est imposé, en plus de la prospection de la clientèle, des tâches sédentaires au siège de l'agence ;
 

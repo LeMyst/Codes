@@ -1,6 +1,6 @@
 # Article R133-14
 
-I. – La déclaration sociale nominative est adressée chaque mois au plus tard aux dates mentionnées à l'article R. 243-6.
+I. – La déclaration sociale nominative mentionnée au I de l'article L. 133-5-3 est adressée chaque mois au plus tard aux dates mentionnées à l'article R. 243-6.
 
 Toutefois, lorsque l'un des événements mentionnés au deuxième alinéa du II du présent article survient pendant la période comprise entre le premier jour du mois civil et le jour précédant la date d'échéance prévue au 2° du II de l'article R. 243-6 et que le délai fixé pour la transmission de l'événement expire avant la date d'échéance prévue à ce même 2°, la déclaration sociale nominative relative aux rémunérations du mois civil précédant celui au cours duquel l'événement est intervenu doit être transmise dans le même délai que celui fixé pour la transmission de l'événement.
 

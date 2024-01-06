@@ -1,1 +1,1 @@
-Sous-section 2 : Dispositifs simplifiés de déclaration et recouvrement de cotisations et contributions sociales
+Sous-section 2 : Obligation de paiement par virement bancaire

@@ -2,7 +2,8 @@
 
 La commission donne, sur les affaires qui lui sont soumises, son avis au conseil, au conseil d'administration ou à l'instance régionale, qui statue et notifie sa décision à l'intéressé. Cette décision est motivée.
 
-Dans le cas d'un redressement effectué en application des articles L. 243-7 et R. 243-43-3 du présent code ou des articles L. 724-7 et R. 725-4-1 du code rural et de la pêche maritime, cette décision détaille, par motif de redressement, les montants qui, le cas échéant, sont annulés et ceux dont le cotisant reste redevable au titre de la mise en demeure prévue à l'article L. 244-2 du présent code ou à l'article L. 725-3 du code rural et de la pêche maritime. Elle précise les délais et voies de recours.
+Dans le cas d'un redressement effectué en application des articles L. 243-7
+, R. 133-14-2, R. 133-14-3, R. 133-14-4 et R. 613-19 du présent code ou des articles L. 724-7 et R. 725-4-1 du code rural et de la pêche maritime, cette décision détaille, par motif de redressement, les montants qui, le cas échéant, sont annulés et ceux dont le cotisant reste redevable au titre de la mise en demeure prévue à l'article L. 244-2 du présent code ou à l'article L. 725-3 du code rural et de la pêche maritime. Elle précise les délais et voies de recours.
 
 Le conseil, le conseil d'administration ou l'instance régionale peut déléguer tout ou partie de ses pouvoirs à la commission dans les conditions qu'il détermine. En cas de partage égal des voix au sein de la commission, il est statué par le conseil, le conseil d'administration ou l'instance régionale.
 

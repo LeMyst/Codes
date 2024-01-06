@@ -5,41 +5,21 @@ I. – Pour les salariés affiliés simultanément au régime spécial de sécur
 II. – A. – Pour les employeurs mentionnés au 1° de l'article L. 813-5 du code de la construction et de l'habitation, le montant de la réduction est calculé dans chaque régime sur la base du coefficient T précisé dans le tableau ci-dessous :
 
 | COTISATIONS ET CONTRIBUTIONS
-
-dues dans le champ du régime spécial |
-COTISATIONS ET CONTRIBUTIONS
-
-dues dans le champ du régime général, du régime de retraite complémentaire des salariés et du régime d'assurance chômage |
+dues dans le champ du régime spécial | COTISATIONS ET CONTRIBUTIONS
+dues dans le champ du régime général, du régime de retraite
+complémentaire des salariés et du régime d'assurance chômage |
 | --- | --- |
-|
-Cotisations d'assurance vieillesse et invalidité : 0,0935 |
-Cotisations d'assurance maladie et maternité, cotisations d'allocations familiales, contribution de solidarité autonomie, accidents du travail et maladies professionnelles, cotisation invalidité et décès, contributions au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2066 |
-|
-Cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,0625 |
-Cotisations d'assurance vieillesse et invalidité, cotisations d'allocations familiales, accidents du travail et maladies professionnelles, contribution au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2541 |
-|
-Cotisations d'assurance vieillesse et invalidité, cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,1560 |
-Fonds national d'aide au logement, accidents du travail et maladies et professionnelles, allocations familiales, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,1416 |
+| Cotisations d'assurance vieillesse et invalidité : 0,0935 | Cotisations d'assurance maladie et maternité, cotisations d'allocations familiales, contribution de solidarité autonomie, accidents du travail et maladies professionnelles, cotisation invalidité et décès, contributions au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2057 |
+| Cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,0625 | Cotisations d'assurance vieillesse et invalidité, cotisations d'allocations familiales, accidents du travail et maladies professionnelles, contribution au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2544 |
+| Cotisations d'assurance vieillesse et invalidité, cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,1560 | Fonds national d'aide au logement, accidents du travail et maladies et professionnelles, allocations familiales, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,1407 |
 
 B. – Pour les employeurs mentionnés au 2° de l'article L. 813-5 du code de la construction et de l'habitation, le montant de la réduction est calculé dans chaque régime sur la base du coefficient T précisé dans le tableau ci-dessous :
 
 | COTISATIONS ET CONTRIBUTIONS
-
-dues dans le champ du régime spécial |
-COTISATIONS ET CONTRIBUTIONS
-
-dues dans le champ du régime général, du régime de retraite complémentaire des salariés et du régime d'assurance chômage |
+dues dans le champ du régime spécial | COTISATIONS ET CONTRIBUTIONS
+dues dans le champ du régime général, du régime de retraite
+complémentaire des salariés et du régime d'assurance chômage |
 | --- | --- |
-|
-Cotisations d'assurance vieillesse et invalidité : 0,0935 |
-Cotisations d'assurance maladie et maternité, cotisations d'allocations familiales, contribution de solidarité autonomie, accidents du travail et maladies professionnelles, cotisation invalidité et décès, contributions au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2106 |
-|
-Cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,0625 |
-Cotisations d'assurance vieillesse et invalidité, cotisations d'allocations familiales, accidents du travail et maladies professionnelles, contribution au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2581 |
-|
-Cotisations d'assurance vieillesse et invalidité, cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,1560 |
-Fonds national d'aide au logement, accidents du travail et maladies et professionnelles, allocations familiales, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,1456 |
-
-|  |
-| --- |
-|  |
+| Cotisations d'assurance vieillesse et invalidité : 0,0935 | Cotisations d'assurance maladie et maternité, cotisations d'allocations familiales, contribution de solidarité autonomie, accidents du travail et maladies professionnelles, cotisation invalidité et décès, contributions au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2097 |
+| Cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,0625 | Cotisations d'assurance vieillesse et invalidité, cotisations d'allocations familiales, accidents du travail et maladies professionnelles, contribution au fonds national d'aide au logement, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,2584 |
+| Cotisations d'assurance vieillesse et invalidité, cotisations d'assurance maladie et maternité et contribution de solidarité autonomie : 0,1560 | Fonds national d'aide au logement, accidents du travail et maladies et professionnelles, allocations familiales, cotisations de retraite complémentaire, contributions d'assurance chômage : 0,1447 |

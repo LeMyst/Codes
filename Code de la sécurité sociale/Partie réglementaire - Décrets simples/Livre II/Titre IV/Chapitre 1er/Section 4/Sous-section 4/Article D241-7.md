@@ -4,7 +4,7 @@ I.-Le coefficient mentionné au III de l'article L. 241-13 est déterminé par a
 
 Coefficient = (T/0,6) × (1,6 × SMIC calculé pour un an/ rémunération annuelle brute-1).
 
-T est la valeur maximale du coefficient mentionnée au troisième alinéa du III de l'article L. 241-13. Elle est fixée à 0,3191 pour les revenus d'activité dus par les employeurs soumis au 1° de l'article L. 813-5 du code de la construction et de l'habitation et à 0,3231 pour les gains et rémunérations versés par les employeurs soumis au 2° de l'article L. 813-5 du code de la construction et de l'habitation.
+T est la valeur maximale du coefficient mentionnée au troisième alinéa du III de l'article L. 241-13. Elle est fixée à 0,3194 pour les revenus d'activité dus par les employeurs soumis au 1° de l'article L. 813-5 du code de la construction et de l'habitation et à 0,3234 pour les gains et rémunérations versés par les employeurs soumis au 2° de l'article L. 813-5 du code de la construction et de l'habitation.
 
 Le résultat obtenu par application de cette formule est arrondi à quatre décimales, au dix millième le plus proche. Il est pris en compte pour les valeurs mentionnées au précédent alinéa s'il est supérieur à celles-ci.
 

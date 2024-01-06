@@ -1,22 +1,5 @@
 # Article D711-9
 
-I. – Pour les salariés affiliés au régime spécial de sécurité sociale des clercs et employés de notaires, la réduction prévue à l'article L. 241-13 s'applique séparément aux cotisations et aux contributions à la charge de l'employeur qui sont dues :
+I.-Pour les salariés visés au paragraphe 2 de l'article 1er de la loi du 12 juillet 1937 instituant une caisse de retraite et d'assistance des clercs de notaires, la réduction prévue à l'article L. 241-13 s'applique aux cotisations et aux contributions à la charge de l'employeur qui sont dues au titre des assurances maladie, maternité, invalidité, décès, vieillesse et réversion, des régimes de retraite complémentaire légalement obligatoires mentionnés à l'article L. 921-4 pour ceux qui en relèvent, de la contribution de solidarité pour l'autonomie, des allocations familiales, de la contribution au Fonds national d'aide au logement, de la cotisation d'assurance chômage et de la cotisation au titre des accidents du travail et des maladies professionnelles, aux organismes de recouvrement du régime général.
 
-1° Au titre des assurances maladie, maternité, invalidité, décès, vieillesse et réversion et de la contribution de solidarité pour l'autonomie, à la caisse de retraite et de prévoyance des clercs et employés de notaires ;
-
-2° Au titre des allocations familiales, de la contribution au Fonds national d'aide au logement, de la cotisation d'assurance chômage et de la cotisation au titre des accidents du travail et des maladies professionnelles, aux organismes de recouvrement du régime général.
-
-II. – Pour déterminer le montant de la réduction prévue à l'article L. 241-13, le coefficient T figurant dans la formule de calcul prévue à l'article D. 241-7 est remplacé par les coefficients précisés dans le tableau ci-après selon les risques couverts :
-
-|  |
-Assurances maladie, maternité, invalidité, décès, vieillesse et réversion et CSA |
-Allocations familiales, FNAL, cotisation au titre des AT-MP et contribution d'assurance-chômage |
-| --- | --- | --- |
-|
-Employeurs soumis au 1° de l'article L. 813-4 du code de la construction et de l'habitation |
-0,2380 |
-0,0812 |
-|
-Employeurs soumis au 2° de l'article L. 813-4 du code de la construction et de l'habitation |
-0,2380 |
-0,0852 |
+II.-Le montant de la réduction mentionnée au I est déterminé par application de la valeur maximale du coefficient T prévu à l'article D. 241-7. Pour les personnels recrutés avant le 1er septembre 2023, la valeur T tient compte du taux de la cotisation à la charge de l'employeur due au titre de l'assurance vieillesse du régime spécial.

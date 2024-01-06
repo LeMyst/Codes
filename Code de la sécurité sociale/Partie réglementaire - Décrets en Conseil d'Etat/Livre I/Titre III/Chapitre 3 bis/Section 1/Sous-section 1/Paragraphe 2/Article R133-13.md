@@ -16,13 +16,13 @@ II.-Les déclarations mentionnées au I sont accomplies :
 
 2° S'il s'agit d'un employeur dont le personnel relève du régime de la protection sociale agricole, auprès de la caisse de mutualité sociale agricole dont il relève.
 
-III.-Ces déclarations sont effectuées par échange de données informatisées selon une norme d'échanges proposée par le comité prévu par l'article R. 133-10 et approuvée par arrêté du ministre chargé de la sécurité sociale. La norme prévoit également les modalités de transmission des données permettant un paiement des cotisations ou contributions sociales sous forme dématérialisée.
+III.-Ces déclarations sont effectuées par l'intermédiaire d'un téléservice et par échange de données informatisées selon une norme d'échanges approuvée par arrêté du ministre chargé de la sécurité sociale. La norme prévoit également les modalités de transmission des données permettant un paiement des cotisations ou contributions sociales sous forme dématérialisée.
 
 IV.-Après réception de la transmission dématérialisée des déclarations, les organismes mentionnés au II délivrent à l'employeur un certificat de conformité pour chaque déclaration transmise précisant que celle-ci est conforme à la norme d'échanges. A défaut, l'employeur est informé des anomalies ou données manquantes dans la déclaration transmise.
 
 La délivrance du certificat de conformité ne fait pas obstacle aux demandes effectuées auprès de l'employeur par les organismes, les administrations ou les salariés, de rectifier ou mettre à jour les données inexactes ou incomplètes dans la déclaration sociale nominative du ou des mois suivants.
 
-V.-Un compte rendu relatif à l'exploitation des données reçues par les administrations et organismes destinataires de la déclaration sociale nominative est mis chaque mois à la disposition de l'employeur. Il comporte notamment :
+V.-Chaque mois, un compte rendu relatif à l'exploitation des données reçues par les administrations et organismes destinataires de la déclaration sociale nominative est mis à la disposition de l'employeur. Il comporte notamment :
 
 1° Un identifiant propre à ce compte rendu ;
 
@@ -32,6 +32,14 @@ a) Les identifiants mentionnés aux e et g du 3° du V de l'article R. 133-14 ;
 
 b) Le taux mentionné au b du 2° de l'article 46 F de l'annexe III au code général des impôts ;
 
-3° Les anomalies figurant dans la précédente déclaration sociale nominative et détectées par les administrations et organismes destinataires.
+3° Les taux des cotisations et contributions mentionnées à l'article L. 242-5 du présent code et aux articles L. 2333-64 et L. 2531-2 du code général des collectivités territoriales ;
+
+4° Le décompte des effectifs prévu au 7° du IV de l'article R. 133-14 du présent code ;
+
+5° Les anomalies constatées par les administrations et organismes destinataires dans la précédente déclaration sociale nominative ou, le cas échéant, dans les déclarations antérieures qui n'ont pas été corrigées.
+
+A l'exception du taux mentionné au b du 2°, ce compte rendu est transmis au déclarant selon une norme d'échanges approuvée par arrêté du ministre chargé de la sécurité sociale.
+
+Un compte rendu peut être mis à la disposition de l'employeur, comportant notamment tout ou partie des éléments mentionnés du 1° au 5°, selon une autre périodicité que celle prévue au premier alinéa.
 
 VI.-Les manquements aux obligations prévues par le présent article sont sanctionnés dans les conditions prévues aux articles R. 243-12 à R. 243-14.

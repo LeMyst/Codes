@@ -1,5 +1,5 @@
 # Article R821-61
 
-Le conseil régional est convoqué par le président lorsque cela est nécessaire et au moins une fois par semestre.
+Les listes mentionnées aux I et II de l'article L. 821-13 sont publiées sur le site internet de la Haute autorité. Elles sont mises à jour mensuellement compte tenu des nouvelles inscriptions, des suppressions des noms résultant des décès ou des retraits, des omissions, des suspensions, des interdictions temporaires ou définitives, des radiations ou de toute autre modification des mentions figurant sur les listes.
 
-Il est obligatoirement convoqué par le président à la demande de la moitié au moins des membres du conseil. La réunion intervient dans les quinze jours de la réception de la demande par le président.
+Les compagnies régionales et la Compagnie nationale informent la Haute autorité de toute circonstance justifiant une révision de la liste.

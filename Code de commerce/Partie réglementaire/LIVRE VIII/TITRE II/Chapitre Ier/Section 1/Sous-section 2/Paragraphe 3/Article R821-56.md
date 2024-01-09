@@ -1,5 +1,3 @@
 # Article R821-56
 
-Tout candidat à une élection de membre d'un conseil régional adresse sa candidature au siège du conseil, par lettre recommandée avec demande d'avis de réception, un mois au moins avant la date fixée pour cette élection.
-
-Les membres sortants d'un conseil ne sont immédiatement rééligibles qu'une seule fois.
+L'inscription ainsi que l'établissement et la tenue des listes mentionnées aux I et II de l'article L. 821-13 sont réalisés par la Haute autorité de l'audit ou son délégataire.

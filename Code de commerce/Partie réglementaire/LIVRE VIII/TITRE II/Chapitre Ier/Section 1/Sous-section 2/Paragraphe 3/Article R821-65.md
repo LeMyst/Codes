@@ -1,11 +1,9 @@
 # Article R821-65
 
-Le président élu par le conseil régional porte le titre de président de la compagnie régionale des commissaires aux comptes.
+Les sociétés de contrôle légal mentionnées à l'article L. 821-17 déposent ou adressent, par lettre recommandée avec demande d'avis de réception, une demande d'inscription auprès de la Haute autorité de l'audit. La demande comprend les pièces justificatives, datant de moins de trois mois, de leur agrément par une autorité compétente d'un autre Etat membre de l'Union européenne. Lorsqu'elles sont agréées dans plusieurs autres Etats membres de l'Union, elles communiquent les pièces justificatives relatives à leur premier agrément.
 
-Il représente la compagnie régionale dans tous les actes de la vie civile et pour ester en justice. Il assure l'exécution des décisions du conseil régional ainsi que le respect des décisions du Conseil national dans le ressort de la compagnie régionale et veille au fonctionnement régulier de la compagnie régionale.
+La demande d'inscription peut également être présentée par voie électronique, au moyen d'un service informatique accessible par internet, sécurisé et gratuit, permettant au demandeur d'accompagner la demande des pièces justificatives sous forme numérisée. La Haute autorité en accuse réception par la même voie.
 
-Il réunit périodiquement le bureau du conseil régional et le tient informé des décisions et mesures prises dans l'accomplissement de ses fonctions.
+La Haute autorité communique sa décision au demandeur et à l'autorité compétente de l'Etat membre dans lequel la société est agréée.
 
-Il prévient et concilie, si possible, tout conflit ou toute contestation d'ordre professionnel entre commissaires aux comptes membres de la compagnie régionale.
-
-Il saisit le Haut conseil de toute question entrant dans les compétences de celui-ci et en avise immédiatement le président de la Compagnie nationale des commissaires aux comptes.
+La société de contrôle légal est rattachée à la compagnie régionale de Paris lorsqu'elle n'a pas d'établissement sur le territoire français.

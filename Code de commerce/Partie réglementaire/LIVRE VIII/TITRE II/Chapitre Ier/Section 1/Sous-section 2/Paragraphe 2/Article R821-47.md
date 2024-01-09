@@ -1,11 +1,5 @@
 # Article R821-47
 
-Sur délégation du Conseil national auquel il rend compte semestriellement, le bureau assure l'administration courante de la Compagnie nationale.
+Lorsque le candidat à l'inscription est titulaire du diplôme d'expertise comptable, les deux tiers au moins du stage prévu par l'article 67 du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable doivent avoir été accomplis soit chez une personne inscrite sur la liste des commissaires aux comptes et habilitée à recevoir des stagiaires dans les conditions fixées au huitième alinéa de l'article R. 821-46, soit, sous réserve d'une autorisation donnée au stagiaire, dans des conditions fixées par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé du budget, chez une personne agréée dans un Etat membre de l'Union européenne pour exercer le contrôle légal des comptes.
 
-Dans les mêmes conditions :
-
-1° Il coordonne l'action des conseils régionaux, notamment en ce qui concerne la défense des intérêts moraux et matériels de la profession et la discipline générale des commissaires aux comptes ;
-
-2° Il examine les suggestions des conseils régionaux, en leur donnant la suite qu'elles comportent ;
-
-3° Il prévient et concilie les différends d'ordre professionnel entre les conseils régionaux ou entre les commissaires aux comptes n'appartenant pas à une même compagnie régionale.
+Le candidat à l'inscription, titulaire du diplôme d'expertise comptable, qui ne répond pas aux conditions prévues au premier alinéa peut être autorisé à effectuer deux années de stage supplémentaires pour se conformer à ces conditions. Les dispositions du sixième alinéa de l'article R. 821-46 sont applicables.

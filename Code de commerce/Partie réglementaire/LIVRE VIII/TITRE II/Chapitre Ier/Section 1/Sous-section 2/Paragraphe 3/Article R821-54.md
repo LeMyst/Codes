@@ -1,21 +1,11 @@
 # Article R821-54
 
-I.-Les membres du conseil régional sont élus pour une durée de quatre ans, au scrutin secret, de liste à un tour avec dépôt de liste comportant autant de candidats que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation.
+En application des dispositions du II de l'article L. 821-18, peuvent être inscrites sur la liste mentionnée au II de l'article L. 821-13 les personnes déjà agréées par les autorités compétentes d'un autre Etat membre de l'Union européenne pour procéder à la certification des informations en matière de durabilité, sous réserve d'avoir réussi une épreuve d'aptitude démontrant une connaissance adéquate de la législation et des réglementations pour la certification des informations en matière de durabilité.
 
-Lorsqu'il est procédé à des regroupements de compagnies régionales en application du troisième alinéa de l'article L. 821-6, chaque liste comporte au moins un candidat du ressort de chacune des compagnies régionales regroupées.
+Les modalités de cette épreuve sont fixées par arrêté du garde des sceaux, ministre de la justice.
 
-Les listes qui n'ont pas obtenu au moins 15 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
+Les candidats sont admis à se présenter à l'épreuve d'aptitude par décision du garde des sceaux, ministre de la justice.
 
-Il est attribué à la liste qui a recueilli le plus grand nombre de suffrages exprimés un nombre de sièges égal à un quart du nombre des sièges à pourvoir arrondi, le cas échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée.
+A cette fin, l'intéressé adresse son dossier au garde des sceaux, ministre de la justice. A la réception du dossier complet, un récépissé lui est délivré.
 
-Les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle selon la règle de la plus forte moyenne.
-
-Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
-
-Si plusieurs listes ont la même moyenne, pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats, susceptible d'être proclamé élu.
-
-Si après cette répartition des sièges, le conseil régional ne compte parmi ses membres aucun élu issu d'une cour d'appel du ressort de la compagnie régionale, le dernier siège attribué à la liste arrivée en tête au niveau régional est réattribué à un candidat du ressort de cette cour d'appel appartenant à cette liste.
-
-II.-Sont électeurs les personnes physiques membres de la compagnie régionale, à jour de leurs cotisations professionnelles.
-
-Sont éligibles les personnes physiques, à jour de leurs cotisations professionnelles, exerçant l'activité professionnelle de commissaire aux comptes au 30 juin de l'année d'expiration des mandats. Ne peut être désigné président du conseil régional qu'un commissaire aux comptes qui exerce au moins une mission de certification à cette date.
+La décision du garde des sceaux, ministre de la justice, précise les matières sur lesquelles le candidat doit être interrogé compte tenu de sa formation initiale. Elle doit être motivée et intervenir dans un délai de quatre mois à compter de la délivrance du récépissé. Le défaut de réponse dans ce délai vaut acceptation de la demande d'inscription à l'épreuve d'aptitude.

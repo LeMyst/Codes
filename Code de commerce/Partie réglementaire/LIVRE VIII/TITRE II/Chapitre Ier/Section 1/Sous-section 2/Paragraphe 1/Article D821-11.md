@@ -1,4 +1,4 @@
-# Article R821-33
+# Article D821-11
 
 L'assemblée ne peut débattre que des questions inscrites à son ordre du jour par le conseil régional.
 

@@ -1,13 +1,7 @@
 # Article R821-52
 
-Le conseil régional est composé de :
+La période de stage mentionnée au 2° du I de l'article L. 821-18 régulièrement accomplie donne lieu à la délivrance d'une attestation spécifique portant les appréciations du président du conseil régional établies au vu du rapport du maître de stage qui détaille les missions et prestations effectuées par le stagiaire dans le domaine de la certification des informations en matière de durabilité.
 
-1° Dix membres si la compagnie régionale comprend moins de trois cent membres personnes physiques ;
+Les modalités de l'habilitation à recevoir des stagiaires sont définies par arrêté du garde des sceaux, ministre de la justice.
 
-2° Douze membres si la compagnie régionale comprend de trois cent à quatre cent quatre-vingt-dix-neuf membres personnes physiques ;
-
-3° Seize membres si la compagnie régionale comprend de cinq cent à huit cent quatre-vingt-dix-neuf membres personnes physiques ;
-
-4° Vingt-deux membres si la compagnie régionale comprend au moins neuf cent membres personnes physiques ;
-
-Cette composition est définie sur la base de l'effectif de la liste arrêté au 1er janvier de l'année des élections.
+Les candidats à l'inscription sur la liste mentionnée au II de l'article L. 821-13 qui ne remplissent pas la condition mentionnée au 2° du I de l'article L. 821-18 peuvent être autorisés à effectuer huit mois de stage supplémentaires pour se conformer à cette condition.

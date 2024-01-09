@@ -1,17 +1,9 @@
 # Article R821-63
 
-Le conseil régional a pour mission :
+La liste mentionnée au II de l'article L. 821-13 est établie par ordre alphabétique et comprend :
 
-1° De mettre en œuvre, dans son ressort, les décisions et de diffuser les messages adoptés par le Conseil national et de poursuivre les consultations professionnelles au niveau régional ;
+1° Les nom, prénoms et numéro d'inscription du commissaire aux comptes sur la liste mentionnée au I de l'article L. 821-13 ;
 
-2° De saisir le Conseil national de toutes requêtes ou suggestions concernant la profession ;
+2° Son adresse professionnelle, son adresse électronique et ses coordonnées téléphoniques ainsi que, le cas échéant, l'adresse de son site internet ;
 
-3° D'administrer la compagnie régionale et de gérer son patrimoine en adoptant son règlement intérieur, en fixant et en recouvrant le montant des cotisations dues par les membres de la compagnie régionale pour en couvrir les frais y compris les sommes dues à la Compagnie nationale conformément à l'article R. 821-46 ;
-
-4° De surveiller l'exercice de la profession de commissaire aux comptes dans son ressort ;
-
-5° De mettre à la disposition de ses membres les services d'intérêt commun nécessaires au bon exercice de la profession ;
-
-6° D'assister, le cas échéant, les professionnels qui le souhaitent dans leurs démarches d'inscription ;
-
-7° D'examiner les réclamations des tiers contre les commissaires aux comptes membres de la compagnie régionale, à l'occasion de l'exercice de la profession ou de donner son avis, s'il y est invité par l'une des parties ou par le ministère public, sur l'action en responsabilité intentée contre un commissaire aux comptes en raison d'actes professionnels.
+3° Lorsque l'intéressé est associé ou salarié d'une personne morale ou exerce ses fonctions pour le compte d'une personne morale, la dénomination sociale, la forme juridique, l'adresse du siège social, le numéro d'inscription et, le cas échéant, l'adresse du site internet de celle-ci.

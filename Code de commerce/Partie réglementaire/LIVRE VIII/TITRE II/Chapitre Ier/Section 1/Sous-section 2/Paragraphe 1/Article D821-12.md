@@ -1,4 +1,4 @@
-# Article R821-35
+# Article D821-12
 
 Le règlement intérieur de la Compagnie nationale fixe les modalités des élections nationale et régionales.
 

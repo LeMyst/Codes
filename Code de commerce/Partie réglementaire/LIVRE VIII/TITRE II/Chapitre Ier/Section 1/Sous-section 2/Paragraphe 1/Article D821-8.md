@@ -1,4 +1,4 @@
-# Article R821-30
+# Article D821-8
 
 L'assemblée de la compagnie régionale est présidée par le président de la compagnie, assisté des autres membres du bureau du conseil régional.
 

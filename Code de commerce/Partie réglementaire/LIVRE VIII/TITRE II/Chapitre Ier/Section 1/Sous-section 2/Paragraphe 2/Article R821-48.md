@@ -1,7 +1,7 @@
 # Article R821-48
 
-Le bureau prépare les délibérations du Conseil national dont le président fixe l'ordre du jour.
+Peuvent être admises à se présenter aux épreuves du certificat d'aptitude aux fonctions de commissaire aux comptes et sont dispensées de tout ou partie du stage professionnel, en application du premier alinéa de l'article L. 821-15, les personnes physiques ayant exercé pendant une durée de quinze ans au moins une activité publique ou privée qui leur a permis d'acquérir dans les domaines financier, comptable et juridique intéressant les sociétés commerciales une expérience jugée suffisante par le garde des sceaux, ministre de la justice.
 
-Il prépare l'avis du Conseil national sur les projets de normes qui lui sont soumis par le Haut conseil en application de l'article L. 821-14.
+Les conditions de délivrance de la dispense mentionnée au premier alinéa sont fixées par un arrêté du garde des sceaux, ministre de la justice.
 
-Il transmet au Haut conseil les informations figurant dans les déclarations d'activité mentionnées au V de l'article R. 823-10.
+Peuvent également être admis à subir l'examen d'aptitude aux fonctions de commissaire aux comptes les anciens syndics et administrateurs judiciaires et les anciens administrateurs judiciaires et mandataires judiciaires ayant exercé leurs fonctions pendant sept ans au moins. Le stage effectué auprès de ces professions est pris en compte pour une durée n'excédant pas un an en ce qui concerne l'accomplissement du stage prévu à l'article R. 821-46.

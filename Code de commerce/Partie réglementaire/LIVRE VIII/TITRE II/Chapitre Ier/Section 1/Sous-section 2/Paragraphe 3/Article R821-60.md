@@ -1,3 +1,5 @@
 # Article R821-60
 
-Le conseil régional tient un registre de ses délibérations. Le procès-verbal de chaque séance est signé par le président et le secrétaire.
+La formulation de la prestation de serment prévue à l'article L. 821-23 est la suivante : “ Je jure d'exercer ma profession avec honneur, probité et indépendance, de respecter et faire respecter les lois. ”
+
+Le serment est prêté, par oral ou par écrit, devant le premier président de la cour d'appel dans le ressort de laquelle se situe la compagnie régionale à laquelle le commissaire aux comptes est rattaché.

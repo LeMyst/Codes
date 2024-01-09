@@ -1,4 +1,4 @@
-# Article R821-39
+# Article D821-16
 
 En cas d'absence ou d'empêchement, les membres du Conseil national élus au sein des deux collèges sont remplacés par le premier candidat disponible de la même liste le mieux placé à l'issue du scrutin.
 

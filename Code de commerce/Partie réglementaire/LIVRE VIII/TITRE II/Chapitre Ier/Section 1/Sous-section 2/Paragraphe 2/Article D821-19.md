@@ -1,4 +1,4 @@
-# Article R821-42
+# Article D821-19
 
 Le Conseil national se réunit au moins une fois par semestre.
 

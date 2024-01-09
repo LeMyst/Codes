@@ -2,7 +2,7 @@
 
 La commission paritaire interprofessionnelle régionale procède à l'examen du dossier du salarié.
 
-Elle contrôle le respect des conditions d'ancienneté et d'accès prévues au paragraphe 1 de la présente section et à l'article R. 6323-10 ainsi que la capacité, requise par l'article L. 6316-1, du prestataire de formation à dispenser une formation de qualité.
+Elle contrôle le respect des conditions d'ancienneté et d'accès prévues au paragraphe 1 de la présente section et à l'article R. 6323-10 ainsi que la capacité, requise par l'article L. 6316-1, du prestataire de formation à dispenser une formation de qualité, en tenant compte des résultats des contrôles opérés le cas échéant sur ce prestataire au titre du paiement des frais de formation.
 
 La commission apprécie la pertinence du projet professionnel au regard des critères cumulatifs suivants :
 

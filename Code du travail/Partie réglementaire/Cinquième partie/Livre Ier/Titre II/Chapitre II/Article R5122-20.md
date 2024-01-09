@@ -8,4 +8,6 @@ Le traitement automatisé a pour finalité :
 
 2° Le calcul et le paiement de l'allocation d'activité partielle versée à l'établissement ou au salarié en cas de paiement direct selon les modalités prévues à l'article R. 5122-16 ;
 
-3° L'élaboration de données statistiques et financières anonymisées.
+3° L'élaboration de données statistiques et financières anonymisées ;
+
+4° Le contrôle du respect des dispositions du présent code relatives à l'aide aux salariés placés en activité partielle et la lutte contre la fraude dont sont chargés l'inspection du travail et les services déconcentrés du ministre chargé de l'emploi.

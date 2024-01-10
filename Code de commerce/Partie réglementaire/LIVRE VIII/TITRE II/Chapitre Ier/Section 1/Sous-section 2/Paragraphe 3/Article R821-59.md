@@ -1,7 +1,7 @@
 # Article R821-59
 
-La Haute autorité vérifie si le candidat remplit les conditions requises pour être inscrit. La Haute autorité ou son délégataire recueille sur le candidat tous renseignements utiles et demande le bulletin n° 2 du casier judiciaire.
+Le conseil régional ne délibère valablement que si la moitié au moins de ses membres sont présents.
 
-Elle peut convoquer le candidat afin de procéder à son audition.
+En cas d'absence ou d'empêchement d'un ou plusieurs membres et dans la mesure nécessaire pour atteindre le quorum, le conseil régional peut appeler à siéger les membres de la compagnie les plus anciens dans l'ordre d'inscription sur la liste et, à égalité de date d'inscription, les plus âgés.
 
-Lorsque, à la date de sa demande d'inscription, le candidat se trouve dans l'un des cas d'incompatibilité prévus à l'article L. 821-27, son inscription peut être décidée sous condition suspensive de régularisation de sa situation dans un délai de six mois. L'intéressé justifie auprès de la Haute autorité de la fin de cette incompatibilité.
+Les décisions sont prises à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.

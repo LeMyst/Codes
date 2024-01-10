@@ -1,19 +1,7 @@
 # Article R821-51
 
-Les candidats au certificat préparatoire aux fonctions de commissaire aux comptes, au certificat d'aptitude aux fonctions de commissaire aux comptes, ainsi qu'à l'épreuve d'aptitude mentionnée à l'article R. 821-49, qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles bénéficient des aménagements rendus nécessaires par leur situation.
+Le conseil régional des commissaires aux comptes siège au chef-lieu de la cour d'appel et il est désigné par le nom de ce chef-lieu.
 
-Ces aménagements peuvent porter sur :
+Lorsqu'il est procédé à des regroupements de compagnies régionales en application du troisième alinéa de l'article L. 821-6, le conseil régional de la compagnie qui en résulte siège à l'un des chefs-lieux des cours d'appel de son ressort. Ce siège ainsi que le nom de la compagnie régionale sont fixés par arrêté du garde des sceaux, ministre de la justice, après avis de la Compagnie nationale et après consultation, par cette dernière, des compagnies régionales intéressées.
 
-a) Les conditions de déroulement des épreuves, de nature à permettre aux candidats de bénéficier des conditions matérielles, des aides techniques ou des aides humaines appropriées à leur situation ;
-
-b) Une majoration du temps imparti pour une ou plusieurs épreuves, qui ne peut excéder le tiers du temps normalement prévu pour chacune d'elles, sauf demande du médecin motivée par la situation exceptionnelle du candidat et formulée dans l'avis mentionné au huitième alinéa du présent article ;
-
-c) La conservation, au choix du candidat, durant cinq ans, des notes non éliminatoires obtenues ;
-
-d) L'étalement sur plusieurs sessions du passage des épreuves.
-
-Les candidats sollicitant le bénéfice de ces dispositions adressent leur demande à l'un des médecins désignés par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles pour les épreuves se déroulant en métropole, dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Saint-Martin ou à Saint-Barthélemy, ou désignés par le représentant de l'Etat, pour les épreuves se déroulant à Mayotte, en Nouvelle-Calédonie ou à Wallis-et-Futuna.
-
-Le médecin rend un avis, qui est adressé au candidat et au président du jury, dans lequel il propose des aménagements. Le président du jury décide des aménagements accordés et notifie sa décision au candidat.
-
-Le président du jury s'assure de l'accessibilité aux personnes handicapées des locaux prévus pour le déroulement des épreuves ainsi que de la mise en place, le cas échéant, des aménagements autorisés pour le candidat.
+Le conseil régional peut, à titre exceptionnel, siéger dans un autre lieu du ressort de la cour d'appel ou de l'une des cours d'appel dont il dépend, avec l'accord des chefs de cour.

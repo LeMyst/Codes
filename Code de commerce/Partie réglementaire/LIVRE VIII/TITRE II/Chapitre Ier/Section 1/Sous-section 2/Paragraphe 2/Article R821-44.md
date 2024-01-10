@@ -1,9 +1,11 @@
 # Article R821-44
 
-Les commissaires aux comptes inscrits sur la liste mentionnée au I de l'article L. 821-13 sont rattachés à la compagnie régionale dans le ressort de laquelle se trouve :
+Le Conseil national et le bureau du Conseil national ne délibèrent valablement que si la moitié au moins de leurs membres sont présents.
 
-1° Pour les personnes physiques, leur domicile ou l'établissement dans lequel elles exercent leur activité ;
+Les membres peuvent se faire représenter.
 
-2° Pour les sociétés, leur siège social ou, lorsque celui-ci est situé à l'étranger, le premier établissement ouvert sur le territoire national.
+Un membre ne peut disposer de plus de deux mandats.
 
-Les commissaires aux comptes inscrits sur la liste mentionnée au I de l'article L. 821-13 peuvent exercer leur profession sur l'ensemble du territoire national.
+Les décisions sont prises à la majorité des membres présents ou représentés.
+
+En cas de partage égal des voix, la voix du président est prépondérante.

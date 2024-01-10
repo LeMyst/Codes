@@ -1,1 +1,1 @@
-Sous-section 2 : Dispositions applicables aux sociétés civiles professionnelles
+Sous-section 2 : De la procédure

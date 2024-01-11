@@ -4,4 +4,4 @@ Les commissaires aux comptes certifient que les comptes annuels sont réguliers 
 
 Ils ont pour mission permanente, à l'exclusion de toute immixtion dans la gestion, de vérifier les valeurs et les documents comptables de l'institution ou de l'union et de contrôler la conformité de sa comptabilité aux règles en vigueur. Ils vérifient également la sincérité et la concordance avec les comptes annuels des informations données dans le rapport de gestion du conseil d'administration et dans les documents adressés aux membres de la commission paritaire ou aux membres de l'assemblée générale sur la situation financière et les comptes annuels.
 
-Les premier, deuxième et dernier alinéas de l'article L. 823-13 du code de commerce s'appliquent aux institutions de prévoyance et aux unions d'institutions de prévoyance.
+Les dispositions de l'article L. 821-60 s'appliquent aux institutions de prévoyance et aux unions d'institutions de prévoyance.

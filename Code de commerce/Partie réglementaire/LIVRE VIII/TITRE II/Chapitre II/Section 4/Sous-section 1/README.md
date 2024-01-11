@@ -1,1 +1,1 @@
-Sous-section 1 : De la nature des manquements et des sanctions
+Sous-section 1 : Dispositions communes aux diverses sociétés

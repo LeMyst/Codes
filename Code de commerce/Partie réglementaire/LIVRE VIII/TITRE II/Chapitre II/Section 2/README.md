@@ -1,1 +1,1 @@
-Section 2 : Du statut des organismes tiers indépendants et des auditeurs des informations en matière de durabilité
+Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.

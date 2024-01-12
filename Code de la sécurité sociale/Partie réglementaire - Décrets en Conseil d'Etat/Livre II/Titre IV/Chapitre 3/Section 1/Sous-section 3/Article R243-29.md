@@ -6,4 +6,6 @@ Le débiteur d'un revenu de remplacement informe le bénéficiaire au moins une 
 
 2° Les montants des cotisations et contributions sociales précomptées ;
 
-3° Les montants de la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des impôts.
+3° Les montants de la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des impôts ;
+
+4° Les montants avant la retenue à la source mentionnée au 3°.

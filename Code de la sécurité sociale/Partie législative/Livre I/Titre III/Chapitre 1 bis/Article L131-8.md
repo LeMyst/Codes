@@ -40,7 +40,7 @@ b) Aux régimes obligatoires d'assurance maladie, en proportion des contribution
 
 -0,18 % pour les revenus mentionnés au III bis dudit article L. 136-8 ;
 
-c) A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la part correspondant au taux de 0,60 %, à l'exception de la contribution mentionnée au 3° du I de l'article L. 136-8 du présent code, pour laquelle le taux est fixé à 0,22 % ;
+c) A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la part correspondant au taux de 0,45 %, à l'exception de la contribution mentionnée au 3° du I de l'article L. 136-8 du présent code, pour laquelle le taux est fixé à 0,22 % ;
 
 d) A l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail pour la contribution sur les revenus d'activité mentionnée au 1° du I de l'article L. 136-8 du présent code, pour la part correspondant à un taux de 1,47 % ;
 

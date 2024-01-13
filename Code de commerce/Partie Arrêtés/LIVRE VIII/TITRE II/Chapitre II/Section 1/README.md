@@ -1,1 +1,1 @@
-Section 1 : De l'inscription et de la discipline
+Section 1 : Dispositions générales

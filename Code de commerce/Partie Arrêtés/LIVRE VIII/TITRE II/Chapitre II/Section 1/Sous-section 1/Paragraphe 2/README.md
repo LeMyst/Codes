@@ -1,1 +1,0 @@
-Paragraphe 2 : De la commission régionale d'inscription et de la tenue de la liste

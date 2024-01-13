@@ -1,1 +1,1 @@
-Section 2 : Des contrôles et inspections des commissaires aux comptes
+Section 2 : Du statut des commissaires aux comptes

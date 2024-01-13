@@ -1,1 +1,1 @@
-Section 3 : De l'organisation professionnelle
+Section 3 : De l'exercice du contrôle légal

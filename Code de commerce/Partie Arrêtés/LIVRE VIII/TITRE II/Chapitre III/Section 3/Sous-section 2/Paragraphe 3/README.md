@@ -1,1 +1,0 @@
-Paragraphe 3 : Des techniques de contrôle

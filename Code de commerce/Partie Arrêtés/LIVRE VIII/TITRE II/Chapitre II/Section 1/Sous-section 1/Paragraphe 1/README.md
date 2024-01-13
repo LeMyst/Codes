@@ -1,1 +1,0 @@
-Paragraphe 1 : Des conditions d'inscription sur la liste

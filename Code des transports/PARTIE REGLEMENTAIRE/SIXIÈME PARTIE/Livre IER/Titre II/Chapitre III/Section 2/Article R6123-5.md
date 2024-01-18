@@ -1,0 +1,4 @@
+# Article R6123-5
+
+Le procès-verbal de saisie est transcrit au bureau d'immatriculation, à peine de caducité, dans le délai de cinq jours francs augmenté des délais de distance.\
+Dans un délai de huit jours, le fonctionnaire chargé de la tenue du registre d'immatriculation délivre sur demande écrite du requérant une copie conforme des inscriptions et, à peine de caducité, dans les trois jours qui suivent, la saisie est dénoncée par exploit d'huissier de justice ou par lettre recommandée avec accusé de réception aux créanciers inscrits aux domiciles élus dans leurs inscriptions, avec indication du jour de la comparution devant le tribunal juge de l'exécution. Le délai de comparution est de huit jours, si le propriétaire est domicilié en France. Dans le cas contraire, les délais supplémentaires de distance s'ajoutent conformément aux dispositions des articles 643 à 644 du code de procédure civile.

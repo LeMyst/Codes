@@ -1,0 +1,4 @@
+# Article R6351-33
+
+L'établissement des servitudes prévues par l'article L. 6351-6 ne fait pas obstacle au droit du propriétaire des immeubles et terrains sur lesquels sont réalisés les balisages de se clore, de démolir, réparer ou surélever, réserve faite des servitudes de dégagement auxquelles il pourrait par ailleurs être assujetti, à condition de ne pas entraver l'exercice des servitudes de balisage, et notamment du droit de passage.\
+Le propriétaire informe le département inter-régional du service national d'ingénierie aéroportuaire territorialement compétent des travaux qu'il envisage, par lettre recommandée avec avis de réception, lorsqu'il adresse sa demande de permis de construire, d'aménager ou de démolir ou sa déclaration préalable ou, à défaut, au moins deux mois avant d'entreprendre ces travaux

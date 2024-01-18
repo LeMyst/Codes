@@ -1,0 +1,6 @@
+# Article R6526-8
+
+Si l'incapacité résultant des causes prévues par l'article L. 6526-5 a entraîné l'inaptitude permanente à exercer la profession de navigant d'un membre du personnel navigant professionnel ou d'un stagiaire de l'aéronautique civile, à raison d'un fait survenu en cours d'exécution du contrat ou de la convention, l'indemnité en capital prévue par l'article L. 6526-6 est calculée en appliquant à l'indemnité qui serait due en cas d'incapacité permanente totale au sens de la législation relative à la réparation des accidents du travail un pourcentage égal au taux de son incapacité. Dans tous les cas, le montant de l'indemnité ne pourra être inférieur à 50 % de celle prévue par l'article R. 6526-7.\
+L'indemnité ainsi calculée est réduite de 1 % par mois d'âge au-delà de cinquante ans sans qu'elle puisse être inférieure à 20 % du montant prévu en cas d'incapacité permanente totale.\
+Les conditions d'ouverture du droit à cette indemnité sont appréciées et les modalités de calcul fixées à la date de la décision à laquelle le conseil médical de l'aéronautique civile prononce l'inaptitude permanente.\
+En cas de reconnaissance d'une incapacité permanente par la sécurité sociale postérieure à la décision d'inaptitude permanente par la commission prévue par l'article L. 6511-4, le taux retenu est celui fixé à la date de la première consolidation.

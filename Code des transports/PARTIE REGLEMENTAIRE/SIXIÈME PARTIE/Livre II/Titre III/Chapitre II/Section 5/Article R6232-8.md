@@ -1,0 +1,3 @@
+# Article R6232-8
+
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler, dans le cadre de l'activité d'une association d'aéromodélisme entrant dans le champ de l'article 16 du règlement d'exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l'exploitation d'aéronefs sans équipage à bord, un aéronef sans équipage à bord dont la masse au décollage est supérieure à celle prévue par l'article L. 6214-2, sans avoir obtenu l'attestation de suivi de formation prévue par l'article D. 6214-11, ou le certificat ou l'attestation de suivi d'une formation reconnue comme équivalente prévus par les articles D. 6214-12 et D. 6214-13.

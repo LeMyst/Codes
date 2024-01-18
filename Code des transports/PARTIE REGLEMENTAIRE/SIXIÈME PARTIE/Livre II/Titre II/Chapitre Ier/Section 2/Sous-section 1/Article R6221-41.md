@@ -1,0 +1,3 @@
+# Article R6221-41
+
+L'obligation de détention d'une licence de contrôleur de la circulation aérienne ou d'une licence de contrôleur de la circulation aérienne stagiaire, qui s'impose aux fonctionnaires civils qui assurent les services du contrôle de la circulation aérienne pour des mouvements d'aéronefs en circulation aérienne générale en application du règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 et des règlements pris pour son application, s'applique également au personnel relevant du ministre de la défense dans la mesure où il assure les services du contrôle de la circulation aérienne pour des mouvements d'aéronefs en circulation aérienne générale.

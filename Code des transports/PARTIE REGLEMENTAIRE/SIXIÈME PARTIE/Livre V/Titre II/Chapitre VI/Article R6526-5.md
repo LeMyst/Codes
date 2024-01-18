@@ -1,0 +1,5 @@
+# Article R6526-5
+
+En cas de décès d'un membre du personnel navigant professionnel ou d'un stagiaire de l'aéronautique civile, l'indemnité en capital prévue par l'article L. 6526-5, dont le montant est déterminé en fonction de l'article R. 6526-3, est versée à l'ensemble des ayants droit, à raison d'un tiers au conjoint non séparé de corps ni divorcé ou au concubin ou partenaire lié au défunt par un pacte civil de solidarité, et à raison de deux tiers aux enfants à charge au sens de l'article R. 6527-63.\
+La quote-part revenant aux enfants est répartie entre eux par parts égales. Lorsque le défunt ne laisse pas d'enfants à charge, l'indemnité est versée en totalité au conjoint non séparé de corps ni divorcé ou au concubin ou partenaire lié au défunt par un pacte civil de solidarité.\
+S'il n'y a pas de conjoint non séparé de corps ni divorcé ou de concubin ou de partenaire lié au défunt par un pacte civil de solidarité, l'indemnité est versée en totalité aux enfants attributaires et répartie entre eux par parts égales.

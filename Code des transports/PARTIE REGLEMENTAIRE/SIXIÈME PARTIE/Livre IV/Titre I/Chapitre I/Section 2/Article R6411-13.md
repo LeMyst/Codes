@@ -1,0 +1,4 @@
+# Article R6411-13
+
+La vente des titres est effectuée sur le marché où les actions sont admises aux négociations si, pendant cinq jours de bourse consécutifs au cours des cinquante derniers jours de bourse qui précèdent la désignation de l'organisme, le volume moyen quotidien, exprimé en nombre de titres, constaté sur le marché des titres de la société, est supérieur au quart du volume quotidien, exprimé en nombre de titres, constaté au cours des douze mois précédant sa désignation.\
+L'organisme doit vendre les titres dans la limite d'un nombre de titres par séance de bourse représentant 25 % du volume moyen quotidien, exprimé en nombre de titres, des trois jours de bourse précédents, cette limitation ne s'appliquant pas aux transactions réalisées sur le marché conformément à la réglementation applicable, mais qui ne sont pas conclues dans le cadre du mécanisme de confrontation directe ou indirecte des ordres.

@@ -1,0 +1,11 @@
+# Article R6326-46
+
+Si, pour des raisons qui lui sont imputables, le titulaire de l'agrément prévu par l'article R. 6326-39 ne satisfait plus aux critères et aux engagements énoncés aux articles R. 6326-41 et R. 6326-42, le ministre chargé de l'aviation civile adresse à l'intéressé une mise en demeure d'apporter, dans un délai de trois mois, les mesures correctives nécessaires aux manquements constatés.\
+En cas de carence persistante à l'expiration du délai prévu par l'alinéa précédent, le ministre chargé de l'aviation civile peut, compte tenu de la gravité des manquements constatés :\
+1° Imposer, après consultation du ou des exploitants d'aérodrome concernés, des mesures de restriction d'exploitation pour une durée qu'il fixe, qui ne peut excéder trois mois.\
+Le ministre peut décider, dans les mêmes conditions, de la prorogation de ces mesures pour une nouvelle période n'excédant pas trois mois. La période d'effet des mesures de restriction d'exploitation ne dépasse pas le terme de la période d'agrément ;\
+2° Suspendre l'agrément pour une durée maximale de six mois, pour un ou plusieurs aérodromes ;\
+3° Prononcer le retrait de l'agrément, pour un ou plusieurs aérodromes.\
+Les mesures de restriction d'exploitation peuvent porter sur la nature des services rendus sur un ou plusieurs aérodromes sur lesquels le titulaire de l'agrément exerce ou sur les aérodromes sur lesquels le titulaire de l'agrément peut exercer.\
+Le titulaire de l'agrément est préalablement avisé de la mesure de restriction d'exploitation, de la suspension ou du retrait total ou partiel de l'agrément et dispose d'un délai de quinze jours pour présenter ses observations écrites ou orales.\
+En cas de risque grave pour la sécurité ou la sûreté des aéronefs, des personnes et des biens ou lorsque le ministre chargé de l'aviation civile a connaissance d'un procès-verbal relevant un manquement à des dispositions énumérées aux articles R. 6332-47, R. 6332-48 et R. 6341-36 à R. 6341-40 ou constatant l'une des infractions prévues par les 1° et 3° de l'article L. 8211-1 du code du travail, il peut, eu égard à la gravité des faits constatés, décider la suspension immédiate de l'agrément pour un ou plusieurs aérodromes et pour une durée maximale de six mois.

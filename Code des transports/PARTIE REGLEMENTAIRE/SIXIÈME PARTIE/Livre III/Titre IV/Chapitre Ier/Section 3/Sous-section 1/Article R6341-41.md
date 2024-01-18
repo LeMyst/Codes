@@ -1,0 +1,3 @@
+# Article R6341-41
+
+Les manquements aux dispositions énumérées par les articles R. 6341-36 et R. 6341-38 font l'objet de constats écrits dressés par les militaires de la gendarmerie, les fonctionnaires de la police nationale, les agents des douanes ainsi que par les fonctionnaires et agents spécialement habilités et assermentés en application de l'article L. 6372-1. Ils indiquent les sanctions encourues et, le cas échéant, la possibilité de recourir à la procédure prévue par l'article R. 6341-43. Ils sont notifiés à la personne mise en cause et communiqués au préfet par le chef du service auquel appartient le rédacteur du constat.

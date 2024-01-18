@@ -1,0 +1,4 @@
+# Article R6511-3
+
+Sous réserve des dispositions du règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 et des règlements pris pour son application, les titres aéronautiques et les qualifications prévus par les articles L. 6511-1 à L. 6511-3, les agréments prévus par les articles L. 6511-5 à L. 6511-7 et les habilitations prévues par l'article L. 6511-8 sont délivrés, prorogés ou renouvelés par le ministre chargé de l'aviation civile et, dans le domaine des essais et réceptions, par le ministre de la défense.\
+Le ministre de la défense peut, par arrêté, déléguer sa signature pour délivrer, proroger ou renouveler les titres aéronautiques et les qualifications relevant de sa compétence au directeur du centre d'essais en vol de la direction générale de l'armement et aux fonctionnaires placés sous son autorité.

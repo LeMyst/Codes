@@ -1,0 +1,5 @@
+# Article L5542-37-2
+
+Sont prises en compte par le régime de protection sociale des marins, au titre de l'assurance vieillesse, sous réserve d'une demande et du versement de la cotisation personnelle due au titre du régime d'assurance vieillesse mentionnée au 2° de l'article L. 5553-1, dans des conditions fixées par décret, les périodes au cours desquelles les femmes marins enceintes ont été déclarées inaptes temporairement à la navigation par le médecin des gens de mer en raison de leur état de grossesse et dont le contrat d'engagement maritime a été suspendu, sans possibilité de reclassement à terre par leur employeur.
+
+Sont concernées les femmes marins enceintes qui ont été déclarées inaptes avant le 1er janvier 2016, dont les périodes d'inaptitude n'ont pas fait l'objet de cotisations d'assurance vieillesse, qu'elles aient ou non bénéficié des prestations destinées aux femmes enceintes servies par le régime de protection sociale des marins au titre de l'action sociale, et dont la pension n'a pas été liquidée.

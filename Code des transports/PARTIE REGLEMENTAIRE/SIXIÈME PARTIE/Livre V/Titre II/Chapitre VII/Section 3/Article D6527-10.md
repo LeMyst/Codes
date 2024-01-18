@@ -1,0 +1,4 @@
+# Article D6527-10
+
+Pour le calcul des cotisations des navigants mentionnés à l'article R. 6527-2 il est tenu compte d'un salaire brut exprimé en euros.\
+Par décision du conseil d'administration de la Caisse, ce salaire peut être majoré de 0,6 fois le montant du plafond annuel de calcul des cotisations prévu par l'article L. 241-3 du code de la sécurité sociale en vigueur. L'intéressé peut demander cette majoration lorsqu'il n'est pas obligatoirement assujetti à un régime de sécurité sociale relevant du règlement (CE) n° 883/2004 du parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ou à un régime de protection sociale similaire en vigueur dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.

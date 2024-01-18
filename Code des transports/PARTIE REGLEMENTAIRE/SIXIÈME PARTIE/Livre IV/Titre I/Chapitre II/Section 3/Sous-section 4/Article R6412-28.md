@@ -1,0 +1,3 @@
+# Article R6412-28
+
+L'exploitation de services aériens par des transporteurs titulaires d'une licence d'exploitation délivrée par la France au départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le transporteur contractuel n'est pas le transporteur de fait au sens de la convention de Montréal du 28 mai 1999 ou de la convention de Guadalajara du 18 septembre 1961 complétant la convention de Varsovie du 12 octobre 1929, est soumise à une autorisation du ministre chargé de l'aviation civile. Un arrêté du ministre chargé de l'aviation civile fixe les conditions d'ordre économique et social de cette autorisation, ainsi que celles relevant du domaine de la sécurité des vols.

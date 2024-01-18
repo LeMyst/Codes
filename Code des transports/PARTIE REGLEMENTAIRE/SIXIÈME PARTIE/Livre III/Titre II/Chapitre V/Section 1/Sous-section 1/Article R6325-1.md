@@ -1,0 +1,4 @@
+# Article R6325-1
+
+Sur les aérodromes ouverts à la circulation aérienne publique, les aérodromes sur lesquels une activité aérienne civile et commerciale a été autorisée par l'article R. 6325-93 ainsi que sur les aérodromes agréés à usage restreint mentionnés à l'article R. 6325-94, les services publics aéroportuaires donnant lieu à la perception de redevances en application de l'article L. 6325-1 sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion de l'usage de terrains, d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par l'exploitant d'aérodrome, dans la mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des aéronefs ou à celle d'un service de transport aérien.\
+Ces services ne peuvent donner lieu à la perception d'autres rémunérations, sous quelque forme que ce soit.

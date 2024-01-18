@@ -1,0 +1,5 @@
+# Article D6221-34
+
+Lorsque les stations assurent des communications intéressant la circulation des aéronefs autres que celles indiquées au premier alinéa de l'article D. 6221-26 :\
+1° L'établissement du réseau et la fourniture du service de télécommunications correspondant sont effectués conformément au code des postes et des communications électroniques. Toutefois, l'utilisation de fréquences radioélectriques aéronautiques du service mobile aéronautique le long des routes peut être soumise à l'autorisation du ministre chargé de l'aviation civile ou de l'autorité de régulation des communications électroniques et des postes dans les conditions définies par arrêté du ministre chargé de l'aviation civile, en application des articles L. 41-1 et R. 20-44-5 du code des postes et des communications électroniques ;\
+2° Les équipements radioélectriques qui les composent satisfont aux conditions des articles R. 20-1 et suivants du code des postes et des communications électroniques, et aux caractéristiques techniques d'installation fixées par le ministre chargé de l'aviation civile ou par l'Agence de l'Union européenne pour la sécurité aérienne.

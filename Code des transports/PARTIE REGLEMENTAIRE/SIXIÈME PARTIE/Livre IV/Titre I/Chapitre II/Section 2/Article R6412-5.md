@@ -1,0 +1,3 @@
+# Article R6412-5
+
+En dehors des cas prévus par l'article R. 6221-13, la délivrance et la validité de la licence d'exploitation prévue par l'article L. 6412-2 est subordonnée, en ce qui concerne les garanties techniques, à la détention par l'entreprise de transport concernée d'un certificat de transporteur aérien en cours de validité ou au respect des conditions définies pour les activités de transport aérien commercial par le règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence de l'Union européenne pour la sécurité aérienne.

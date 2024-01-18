@@ -1,0 +1,5 @@
+# Article R6341-14
+
+Lorsque le validateur de sûreté aérienne de l'Union européenne ne se conforme pas aux obligations auxquelles il est soumis ou lorsque ses méthodes de travail, son comportement ou les matériels qu'il utilise présentent un risque pour la sûreté, le ministre chargé de l'aviation civile peut :\
+1° Soit suspendre ou retirer la certification. Sauf en cas d'urgence, le titulaire de la certification de sûreté est préalablement avisé de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;\
+2° Soit imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, le validateur de sûreté aérienne de l'Union européenne est préalablement avisé de la mesure envisagée et dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.

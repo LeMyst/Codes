@@ -1,0 +1,3 @@
+# Article R6527-27
+
+Par dérogation au second alinéa de l'article R. 6527-22, le droit à pension est ouvert sans décote à l'expiration des durées de versement des allocations d'assurance prévues par les articles L. 5422-1 à L. 5422-3 du code du travail à tout affilié licencié en application de l'article L. 1233-3 du code du travail à l'exclusion des cas de rupture de contrat résultant des articles L. 6521-4 et L. 6521-5 alors que son contrat de travail était un contrat de navigant. Ces dispositions s'appliquent lorsque l'intéressé a atteint l'âge prévu par le 1° de l'article R. 6527-21 et justifie du nombre d'annuités prévu par le 2° du même article, acquises au titre des services valables pour la retraite tels que définis par l'article R. 6527-28.

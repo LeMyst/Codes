@@ -1,0 +1,3 @@
+# Article R6221-24
+
+Le ministre chargé de l'aviation civile fixe, pour les aéronefs qui ne relèvent pas des compétences de l'Agence de l'Union européenne pour la sécurité aérienne en vertu du règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 et des règlements pris pour son application, la composition minimale des stations requises à leur bord en vue d'assurer la sécurité, en fonction des exigences de communication, de navigation, de surveillance et de sauvetage liées au type de vol qu'ils sont autorisés à entreprendre et des exigences applicables à l'espace aérien.

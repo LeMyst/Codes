@@ -1,0 +1,7 @@
+# Article R6525-23
+
+A défaut de convention ou d'accord d'entreprise ou d'établissement mentionné à l'article R. 6525-21, le temps d'arrêt supplémentaire mentionné à l'article R. 6525-22 est réparti de la façon suivante :\
+1° Un minimum de 48 heures est attribué par mois complet d'activité, porté à soixante heures deux mois par semestre, par fractions d'au moins douze heures consécutives accolées au temps d'arrêt périodique mentionné à l'article R. 6525-12 ou à toute période de congé légal ou conventionnel. Ce temps d'arrêt supplémentaire ou l'une de ses fractions peut commencer le mois précédant ou s'achever le mois suivant la période au titre de laquelle il est octroyé ;\
+2° Le solde est octroyé dans le cadre du semestre. Il peut être attribué :\
+a) Soit par fractions d'au moins 12 heures consécutives lorsqu'il est accolé à un temps d'arrêt périodique ou à une période de congé légal ou conventionnel ;\
+b) Soit par périodes de 12,18 ou 24 heures, lorsqu'il est accolé aux temps d'arrêt après périodes de vol tels que définis par les articles R. 6525-15 et R. 6525-16 ou à toute autre période de repos prévu par convention ou accord, d'entreprise ou d'établissement ou, à défaut, par convention ou accord de branche, dès lors que l'ensemble couvre au moins un jour au sens du 3° de l'article R. 6525-1. Le solde, ou une de ses fractions ou périodes d'au moins douze heures, peut être attribué au cours du premier mois du semestre suivant.

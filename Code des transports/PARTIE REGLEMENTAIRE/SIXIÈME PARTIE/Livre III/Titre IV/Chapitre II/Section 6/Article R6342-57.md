@@ -1,0 +1,5 @@
+# Article R6342-57
+
+Les exploitants d'aérodromes, les entreprises de transport aérien, ainsi que les entités définies par un arrêté du ministre chargé de l'aviation civile, établissent et tiennent à jour la liste des données et systèmes de technologies de l'information et de la communication critiques mentionnés au point 1.7.1 de l'annexe au règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015, qu'ils doivent, en application du point 1.7 de l'annexe à ce règlement, protéger contre les cyberattaques pouvant affecter la sûreté de l'aviation civile.\
+Un arrêté du ministre chargé de l'aviation civile énumère les données et systèmes de technologies de l'information et de la communication critiques que cette liste doit, au minimum, comprendre.\
+Les exploitants d'aérodromes, les entreprises de transport aérien et les entités mentionnées au premier alinéa communiquent leur liste de données et systèmes de technologies de l'information et de la communication critiques, et les mises à jour de celle-ci, au ministre chargé de l'aviation civile.

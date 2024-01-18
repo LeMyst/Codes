@@ -1,0 +1,3 @@
+# Article R6421-7
+
+L'action en responsabilité contre le transporteur aérien de personnes et de bagages prévue par les articles L. 6421-3 et L. 6421-4 est portée au choix du demandeur devant l'un des tribunaux compétents dans les conditions prévues par les stipulations de la convention pour l'unification de certaines règles relatives au transport aérien international, signée à Montréal le 28 mai 1999, auxquelles renvoie le règlement (CE) n° 889/2002 du Parlement européen et du Conseil du 13 mai 2002 modifiant le règlement (CE) n° 2027/97 du Conseil relatif à la responsabilité des transporteurs aériens en cas d'accident.

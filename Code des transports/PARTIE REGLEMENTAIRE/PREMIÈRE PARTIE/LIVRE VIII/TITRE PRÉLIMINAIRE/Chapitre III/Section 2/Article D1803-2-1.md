@@ -1,0 +1,7 @@
+# Article D1803-2-1
+
+Le père, la mère, le frère, la sœur, les grands-parents ou le tuteur légal d'une personne de moins de seize ans évacuée sanitaire peut prétendre à l'aide à la continuité territoriale de l'article L. 1803-4 pour l'accompagnement dudit évacué sanitaire, sans condition de délai depuis la dernière aide. A réception de la première demande déposée en application du présent alinéa, l'opérateur désigné à l'article D. 1803-15 soumet cette dernière à une procédure d'instruction accélérée. L'aide délivrée au titre du présent article peut être renouvelée tous les trois mois au profit de la même personne pendant le séjour de l'évacué sanitaire.
+
+En Guadeloupe, en Martinique, en Guyane, à La Réunion, à Saint-Barthélemy et à Saint-Martin, l'aide est accordée si un premier accompagnant familial bénéficie d'une prise en charge du déplacement, et à défaut de prise en charge d'un deuxième accompagnant, dans les conditions prévues par les articles R. 322-10 à R. 322-10-9 du code de la sécurité sociale.
+
+A Mayotte, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie, l'aide est accordée dès lors qu'un premier accompagnant est pris en charge par la caisse de sécurité sociale de Mayotte, la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon, l'agence de santé des îles Wallis et Futuna, la caisse de prévoyance sociale de Polynésie française ou la caisse de compensation des prestations familiales, des accidents du travail et de prévoyance des travailleurs de Nouvelle-Calédonie.

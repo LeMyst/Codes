@@ -1,0 +1,1 @@
+Sous-section 2 : Répartition des périodes de vol et temps d'arrêt dans les entreprises utilisant au moins un aéronef soit d'une masse maximale au décollage supérieure ou égale à dix tonnes soit d'une capacité supérieure ou égale à vingt sièges

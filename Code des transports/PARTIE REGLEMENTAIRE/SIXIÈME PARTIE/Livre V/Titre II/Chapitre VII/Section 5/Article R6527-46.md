@@ -1,0 +1,11 @@
+# Article R6527-46
+
+Pour la période de jouissance comprise entre l'âge auquel l'affilié aura atteint le nombre d'annuités nécessaires pour l'ouverture du droit à pension, et ce au plus tôt à l'âge de cinquante-cinq ans, et l'âge prévu par l'article L. 161-17-2 du code de la sécurité sociale, la pension mensuelle est assortie d'une majoration si l'affilié remplit les conditions fixées pour la liquidation d'une pension sans décote prévue par les articles R. 6527-22 et R. 6527-24 à R. 6527-27.
+
+Cette majoration est d'un montant de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur à la date de liquidation de la pension, par annuité validée à titre onéreux dans la limite de vingt-cinq.
+
+La majoration mentionnée aux alinéas précédents n'est pas versée aux affiliés dont la pension prend effet à compter de l'âge prévu par l'article R. 6527-23 et qui ne respectent pas la condition d'annuité prévue par le 2° de l'article R. 6527-21.
+
+Pour la période de jouissance allant de soixante-deux ans à l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale, et sous réserve que l'affilié justifie de la durée d'assurance mentionnée au deuxième alinéa de l'article L. 351-1 du même code et ne soit pas éligible au bénéfice d'un départ à la retraite au titre de l'article L. 351-1-1 de ce code, la majoration prévue au premier alinéa est doublée, sans pouvoir excéder 40 % du plafond mensuel prévu par l'article L. 241-3 de ce même code, dans son montant en vigueur à la date de liquidation de cette majoration.
+
+Pour la période de jouissance mentionnée à l'alinéa précédent, les affiliés ayant cessé leur activité de navigants entre cinquante-cinq ans et l'âge mentionné au premier alinéa de l'article L. 6521-4 en raison d'une décision d'inaptitude définitive du conseil médical de l'aéronautique civile, la majoration est doublée, sous la condition de plafond prévue au même alinéa, sous réserve, d'une part, qu'ils bénéficient d'une pension sans décote dans les conditions prévues au 1° de l'article R. 6527-24 et, d'autre part, qu'ils ne justifient pas de la durée limite d'assurance mentionnée au deuxième alinéa de l'article L. 351-1 du code de la sécurité sociale.

@@ -1,0 +1,3 @@
+# Article R6527-25
+
+En cas de décès ou d'incapacité permanente totale au sens de la législation sur les accidents du travail résultant d'une des causes prévues par l'article L. 6526-5 d'un assuré n'ayant ni atteint l'âge prévu par l'article R. 6527-23, ni vingt-cinq annuités, le nombre d'annuités pris en compte pour le calcul de la pension directe ou des pensions de réversion et d'orphelin est porté au nombre d'annuités que l'intéressé aurait totalisé s'il avait cotisé jusqu'à cet âge, dans la limite de vingt-cinq annuités. Par dérogation au second alinéa de l'article R. 6527-22, la pension est liquidée sans décote.

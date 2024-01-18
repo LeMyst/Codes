@@ -1,0 +1,4 @@
+# Article R6143-4
+
+Les décisions de restriction, de suspension ou de retrait de la notification d'un organisme prévues à l'article 28 du règlement (UE) 2019/945 de la Commission du 12 mars 2019 sont prises par le ministre chargé de l'aviation civile. Cette décision ne peut intervenir qu'à l'expiration d'un délai de deux mois après que l'organisme a été informé des griefs qui lui sont reprochés et invité à présenter ses observations. Toutefois, en cas d'urgence, le ministre chargé de l'aviation civile peut prononcer la restriction ou la suspension de la notification avec effet immédiat.\
+En cas de restriction, de suspension ou de retrait d'une notification, ou en cas de cessation de ses activités, l'organisme n'est plus autorisé à délivrer des certificats et transfère les dossiers des titulaires des certificats concernés à un autre organisme notifié selon des modalités prévues par arrêté du ministre charge de l'aviation civile. »

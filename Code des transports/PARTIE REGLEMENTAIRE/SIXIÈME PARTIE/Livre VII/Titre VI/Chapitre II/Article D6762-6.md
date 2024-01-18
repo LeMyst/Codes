@@ -1,0 +1,8 @@
+# Article D6762-6
+
+Pour l'application des dispositions du livre II en Nouvelle-Calédonie :\
+1° L'article D. 6213-22 est ainsi rédigé :\
+« Art. D. 6213-22.-La direction de la sécurité de l'aviation civile et la direction du transport aérien sont, chacune dans le cadre de leurs compétences respectives, l'autorité nationale de surveillance qui est chargée de la surveillance de la mise en œuvre des exigences applicables à la fourniture des services de navigation aérienne à la circulation aérienne générale.\
+« Le représentant de l'Etat a compétence pour délivrer, suspendre ou retirer aux prestataires de service d'information de vol d'aérodrome les certificats ainsi que les autorisations et les approbations qui y sont associées conformément aux règles en vigueur en métropole en vertu du règlement (UE) 2017/373 de la Commission du 1er mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision. Cette autorité peut, par arrêté, déléguer sa signature pour prendre ces décisions au directeur de la direction de l'aviation civile en Nouvelle-Calédonie et aux fonctionnaires placés sous son autorité. » ;\
+2° L'article D. 6221-34 est ainsi rédigé :\
+« Art. D. 6221-34.-Lorsque les stations assurent des communications intéressant la circulation des aéronefs autres que celles indiquées au premier alinéa de l'article D. 6221-26, les équipements radioélectriques qui les composent satisfont aux caractéristiques techniques d'installation fixées par le ministre chargé de l'aviation civile. »

@@ -1,0 +1,8 @@
+# Article R6231-1
+
+Le ministre chargé de l'aviation civile peut prononcer une sanction administrative à l'encontre d'un transporteur aérien ou de tout autre exploitant d'aéronef qui :\
+1° Soit, ne respecte pas de manière répétée et intentionnelle les dispositions du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993 fixant des règles communes en ce qui concerne l'attribution des créneaux horaires dans les aéroports de la Communauté, ou les dispositions de l'article R. 6321-21 ;\
+2° Soit exploite un aéronef en contradiction avec la réglementation relative au retrait d'exploitation des aéronefs bruyants ;\
+3° Soit ne respecte pas les obligations en matière de couverture minimale d'assurance fixées par les dispositions du règlement (CE) n° 785/2004 du Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en matière d'assurance applicables aux transporteurs aériens et aux exploitants d'aéronefs ;\
+4° Soit dépose un plan de vol mentionnant une exemption de créneau de départ de gestion des courants de trafic aérien (créneau de départ ATFM) pour un motif abusif ou, en méconnaissance de l'article 7, paragraphe 1, du règlement (UE) n° 255/2010 de la Commission du 25 mars 2010 établissant des règles communes relatives à la gestion des courants de trafic aérien, dépose plusieurs plans de vol pour un même vol ou dépose un plan de vol qui ne rend pas compte du profil de vol prévu ;\
+5° Soit ne dispose pas d'un plan d'aide aux victimes d'accidents de l'aviation civile et à leurs proches tel que mentionné par l'article 21 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile.

@@ -1,0 +1,4 @@
+# Article R6525-25
+
+A défaut de convention ou d'accord d'entreprise ou d'établissement mentionné à l'article R. 6525-21, le temps d'arrêt supplémentaire mentionné à l'article R. 6525-24 est réparti et attribué à raison de deux fractions de 24 heures consécutives, garantissant chacune un arrêt nocturne normal, par mois complet d'activité, accolées à un temps d'arrêt périodique mentionné à l'article R. 6525-12 ou aux temps d'arrêt après périodes de vol mentionnés aux articles R. 6525-15 et R. 6525-16 ou à une période de congé légal ou conventionnel, ou à une période de repos prévu par convention ou accord, d'entreprise ou d'établissement ou, à défaut, par convention ou accord de branche. Une portion de l'ensemble ainsi constitué peut commencer le mois précédent ou s'achever le mois suivant.\
+L'attribution de l'une des deux fractions mentionnées à l'alinéa précédent peut être reportée sur les autres mois de l'année, dans la limite de six mois par an.

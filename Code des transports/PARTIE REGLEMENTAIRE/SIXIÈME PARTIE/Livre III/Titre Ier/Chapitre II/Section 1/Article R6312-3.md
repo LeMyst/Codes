@@ -1,0 +1,7 @@
+# Article R6312-3
+
+Les personnes morales souhaitant créer un aérodrome ouvert à la circulation aérienne publique ou ouvrir à la circulation aérienne publique un aérodrome existant sont :\
+1° Soit des associations françaises constituées conformément à la loi du 1er juillet 1901 relative au contrat d'association ;\
+2° Soit des sociétés civiles ou commerciales dans lesquelles :\
+a) Sont ressortissants d'un pays membre de l'Union européenne et jouissent de leurs droits civiques, dans les sociétés en nom collectif et en commandite, les gérants et tous les associés en nom, dans les sociétés à responsabilité limitée, les gérants ainsi que la majorité des associés, dans les sociétés anonymes, selon le cas, le président du conseil d'administration, le directeur général et la majorité des administrateurs, ou les membres du directoire et la majorité des membres du conseil de surveillance, dans les sociétés par actions simplifiées, le président et, le cas échéant, le ou les dirigeants désignés comme tels par les statuts ;\
+b) Plus de la moitié du capital social et des droits de vote est détenue, dans les sociétés à responsabilité limitée, par des associés ressortissants d'un pays membre de l'Union européenne, dans les sociétés anonymes et dans les sociétés par actions simplifiées, par des actionnaires ressortissants d'un pays membre de l'Union européenne dont les actions sont inscrites au nominatif.

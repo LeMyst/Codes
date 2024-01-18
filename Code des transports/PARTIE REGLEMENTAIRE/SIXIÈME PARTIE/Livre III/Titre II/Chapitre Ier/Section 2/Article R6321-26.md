@@ -1,0 +1,4 @@
+# Article R6321-26
+
+Par dérogation aux articles R. 6321-222 à R. 6321-25, pour les aéroports à facilitation d'horaires ou les aéroports coordonnés dans les situations exceptionnelles prévues par le paragraphe 6 de l'article 3 du règlement (CEE) n° 95/93 du Conseil du 18 janvier 1993, le facilitateur d'horaires ou le coordonnateur de l'aérodrome propose le montant global de la redevance pour service rendu prévue par l'article R. 6321-22, en tenant compte, pour la situation en cause, des prévisions d'évolution de ses charges de fonctionnement et en capital et de ses produits ainsi que des investissements liés à la réalisation des missions qui lui sont confiées.\
+Ce montant est homologué par le ministre chargé de l'aviation civile, qui s'assure du respect des règles applicables aux redevances pour service rendu.

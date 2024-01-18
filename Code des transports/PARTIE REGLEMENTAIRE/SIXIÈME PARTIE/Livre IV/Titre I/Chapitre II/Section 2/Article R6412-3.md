@@ -1,0 +1,3 @@
+# Article R6412-3
+
+Les dispositions des paragraphes 1 et 2 de l'article 5 et des paragraphes 4 à 6 de l'article 8 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté s'appliquent aux transporteurs aériens effectuant des transports aériens publics au moyen exclusivement d'aéronefs de moins de vingt sièges ou dont la masse maximale au décollage est inférieure à 10 tonnes dès lors que leur chiffre d'affaires annuel est supérieur à trois millions d'euros ou qu'ils exploitent des services réguliers.

@@ -1,0 +1,5 @@
+# Article R6342-58
+
+En application du point 1.7.5 de l'annexe au règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015, sont réputés satisfaire aux exigences mentionnées au point 1.7 de cette annexe :\
+1° Les opérateurs d'importance vitale mentionnés à l'article L. 1332-1 du code de la défense, pour les données et systèmes critiques mentionnés à l'article R. 6342-57 qui sont des systèmes d'information d'importance vitale tels que définis au deuxième alinéa de l'article R. 1332-41-2 du même code ;\
+2° Les opérateurs de services essentiels mentionnés à l'article 5 de la loi du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, pour les données et systèmes critiques mentionnés à l'article R. 6342-57 qui sont des réseaux et systèmes d'information tels que définis à l'article 7 du décret du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique.

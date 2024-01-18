@@ -1,0 +1,5 @@
+# Article R4316-8
+
+En cas d'installation sans titre des ouvrages mentionnés par l'article R. 4316-1, l'occupant ou le bénéficiaire de ces ouvrages est immédiatement redevable de la redevance prévue par la présente section, après l'établissement d'un procès-verbal constatant cette occupation sans titre conformément à la procédure prévue aux articles L. 2132-20 et L. 2132-21 du code général de la propriété des personnes publiques. La redevance est assortie de la majoration prévue par le premier alinéa de l'article L. 4316-12.
+
+En cas de modification des ouvrages induisant une augmentation du volume prélevable ou rejetable sans modification préalable du titre d'occupation ou d'utilisation du domaine public fluvial confié à Voies navigables de France en méconnaissance du deuxième alinéa de l'article R. 4313-14-1 ou en cas de rejets sédimentaires non autorisés, le titulaire du titre d'occupation ou d'utilisation domaniale est immédiatement redevable de la redevance prévue par la présente section. La redevance est assortie de la majoration prévue par le second alinéa de l'article L. 4316-12.

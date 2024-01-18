@@ -1,0 +1,3 @@
+# Article R6432-5
+
+Le ministre chargé de l'aviation civile peut, après avis de la commission administrative de l'aviation civile prévue par l'article R. 6231-7, prononcer une amende administrative à l'encontre de la personne physique ou morale qui, s'agissant d'un exploitant d'aéronef mentionné à l'article L. 229-5 du code de l'environnement, transporteur aérien commercial au sens du p) de l'article 3 de la directive n° 2003/87/ CE du 13 octobre 2003, ne respecte pas les obligations relatives aux quotas d'émission de gaz à effet de serre résultant des dispositions de l'article R. 229-37-7 du code de l'environnement.

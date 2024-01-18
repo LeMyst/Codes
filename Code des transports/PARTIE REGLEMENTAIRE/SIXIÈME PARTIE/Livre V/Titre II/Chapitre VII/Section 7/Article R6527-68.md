@@ -1,0 +1,3 @@
+# Article R6527-68
+
+Par dérogation aux articles R. 6527-66 et R. 6527-67, lorsque le montant mensuel de la pension est inférieur à 2 % du plafond mensuel de calcul des cotisations de sécurité sociale mentionné à l'article L. 241-3 du code de la sécurité sociale à la date de l'ouverture possible du droit à pension, il est versé, en lieu et place de des droits liquidés sous la forme d'une pension mensuelle, un capital unique égal au produit du montant des droits théoriques annuels et d'un coefficient fixé par le conseil d'administration en fonction de l'âge du bénéficiaire à la date d'effet de la liquidation des droits.

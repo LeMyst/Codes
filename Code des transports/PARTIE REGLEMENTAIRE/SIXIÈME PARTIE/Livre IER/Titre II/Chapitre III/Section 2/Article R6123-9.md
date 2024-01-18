@@ -1,0 +1,3 @@
+# Article R6123-9
+
+Les annonces et affiches indiquent les nom, prénom, profession et domicile du poursuivant, les titres en vertu desquels il agit, la somme qui lui est due, l'élection de domicile par lui faite dans le lieu où siège le juge de l'exécution et dans le lieu où l'aéronef saisi doit rester, les nom, prénoms, profession et domicile du propriétaire de l'aéronef saisi, les marques d'immatriculation de l'aéronef ainsi que les caractéristiques portées au certificat d'immatriculation, le lieu où se trouve l'aéronef, la mise à prix et les conditions de la vente, les jour, heure et lieu de l'adjudication.

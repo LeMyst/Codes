@@ -1,0 +1,5 @@
+# Article R6326-37
+
+Aux termes d'une vérification spécifique, le ou les commissaires aux comptes s'assurent chaque année du respect de la séparation comptable prévue par l'article R. 6326-36 et de la régularité des comptes. Lorsque le prestataire qui fournit des services d'assistance en escale est un établissement public doté d'un agent comptable, ce dernier peut effectuer lui-même cette vérification. La vérification donne lieu à l'établissement d'un rapport.\
+Dans le cas où l'exploitant d'aérodrome fournit des services d'assistance en escale, le ou les commissaires aux comptes ou l'agent comptable vérifient également que le produit des redevances perçues auprès des transporteurs aériens pour l'usage des installations aéronautiques ne contribue pas au financement de son activité d'assistance en escale.\
+Si le prestataire d'assistance en escale est un transporteur aérien, le ou les commissaires aux comptes précisent si cette comptabilité englobe ou non la part d'activité de ce transporteur aérien consacrée à l'auto-assistance.

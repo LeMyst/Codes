@@ -1,0 +1,3 @@
+# Article R6325-38
+
+Pour les aérodromes qui n'appartiennent pas à l'Etat et qui ne relèvent pas de l'article L. 6323-2, à l'exception des aérodromes relevant du champ de compétence de l'Autorité de régulation des transports défini à l'article L. 6327-1, les tarifs des redevances prévues par l'article R. 6325-4 et, le cas échéant, leurs modulations, sont notifiés par la personne chargée de leur fixation au représentant de l'Etat dans le département au moins deux mois avant leur entrée en vigueur. Cette notification, par lettre recommandée avec avis de réception, est accompagnée de l'avis de la commission consultative économique ou, à défaut, du compte rendu de la consultation des usagers, ainsi que des informations prévues par l'article R. 6325-23.

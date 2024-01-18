@@ -1,0 +1,3 @@
+# Article R6412-27
+
+Les dispositions des articles R. 6412-25 et R. 6412-26 ne s'appliquent pas à l'exploitation de services aériens non réguliers de transport public réalisés par des transporteurs titulaires d'une licence d'exploitation délivrée par la France, un autre Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même portée en matière de transport aérien, sur des liaisons comportant au moins un point d'escale en France, lorsqu'ils sont effectués au moyen d'aéronefs dont la capacité ne dépasse pas vingt sièges ou dont la masse maximale au décollage n'excède pas dix tonnes.

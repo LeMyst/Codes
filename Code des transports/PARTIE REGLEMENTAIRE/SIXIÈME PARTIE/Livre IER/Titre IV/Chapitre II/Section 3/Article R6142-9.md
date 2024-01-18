@@ -1,0 +1,3 @@
+# Article R6142-9
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour le propriétaire ou le copropriétaire ayant réalisé l'enregistrement ou son représentant légal, de fournir, lors de l'enregistrement de l'aéronef par voie électronique régi par les articles R. 6111-38 à R. 6111-46, des informations erronées sur son identité ou sur son adresse ou sur l'identifiant du dispositif de signalement électronique ou numérique lorsqu'un tel dispositif est obligatoire ou sur les caractéristiques principales de l'aéronef, ou de ne pas mettre à jour ces informations dans les conditions prévues à l'article R. 6111-45.

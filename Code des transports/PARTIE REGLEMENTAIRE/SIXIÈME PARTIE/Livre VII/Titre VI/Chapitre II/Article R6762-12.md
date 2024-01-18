@@ -1,0 +1,4 @@
+# Article R6762-12
+
+Les conditions de paiement des redevances prévues par les articles R. 6762-7 et R. 6762-8 sont fixées par arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget. Cet arrêté peut prévoir l'application d'une majoration de 10 % de la somme à payer, ou des intérêts de retard, ou les deux, en cas de retard dans le paiement des sommes dues.\
+Le comptable du budget annexe « Contrôle et exploitation aériens » est chargé du recouvrement des redevances prévues par les articles R. 6762-7 et R. 6762-8. En cas d'absence de paiement total ou de paiement partiel, il exerce toutes les actions en recouvrement applicables en matière de créances étrangères à l'impôt, dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

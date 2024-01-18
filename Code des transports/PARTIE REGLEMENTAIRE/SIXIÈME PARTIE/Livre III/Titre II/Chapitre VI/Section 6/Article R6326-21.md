@@ -1,0 +1,5 @@
+# Article R6326-21
+
+Par dérogation aux articles R. 133-10 et R. 133-11 du code des relations entre le public et l'administration, le quorum du comité des usagers prévu par l'article R. 6326-19 est atteint lorsque les membres présents ou représentés détiennent ensemble la majorité des voix des membres du comité. Le nombre de voix de chaque membre est égal au nombre d'unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la dernière année civile pour laquelle le trafic de l'aérodrome est connu. Les organisations professionnelles auxquelles des transporteurs ont confié le soin de les représenter détiennent un nombre de voix égal à la somme des unités de trafic de chacun de leurs mandants.\
+Le nombre des unités de trafic attribué à un transporteur aérien est égal au nombre entier de milliers de passagers embarqués ou débarqués par le transporteur aérien sur l'aérodrome, additionné au nombre entier de centaines de tonnes de fret embarqué à bord d'aéronefs ou débarqué d'aéronefs par ce même transporteur.\
+Les membres qui ne détiennent pas au moins une unité de trafic en application des alinéas précédents disposent chacun d'une voix.

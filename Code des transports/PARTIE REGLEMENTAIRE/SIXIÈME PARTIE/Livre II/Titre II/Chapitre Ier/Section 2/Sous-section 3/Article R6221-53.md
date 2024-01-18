@@ -1,0 +1,4 @@
+# Article R6221-53
+
+Les personnels techniques des prestataires de services de navigation aérienne et de leurs sous-traitants exerçant des tâches opérationnelles liées à la sécurité possèdent et entretiennent les connaissances leur conférant un niveau de compréhension adéquat des services de gestion du trafic aérien.\
+Ceux d'entre eux qui sont chargés d'assurer des tâches opérationnelles liées à la sécurité répondent aux exigences techniques concernant la maintenance prévues au règlement d'exécution (UE) 2017/373 de la Commission du 1er mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision et aux exigences concernant l'alimentation électrique et la climatisation, fixées par arrêté du ministre chargé de l'aviation civile.

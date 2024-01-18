@@ -1,0 +1,1 @@
+Sous-section 3 : Répartition des périodes de vol et des temps d'arrêt dans les entreprises utilisant exclusivement des aéronefs soit d'une masse maximale au décollage inférieure à 10 tonnes soit d'une capacité inférieure à vingt sièges

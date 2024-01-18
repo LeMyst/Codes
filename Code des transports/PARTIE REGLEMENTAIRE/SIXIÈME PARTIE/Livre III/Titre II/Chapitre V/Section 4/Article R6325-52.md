@@ -1,0 +1,4 @@
+# Article R6325-52
+
+Pour les aérodromes appartenant à l'Etat et concédés, l'exploitant consulte les usagers sur tout projet d'investissement devant faire l'objet d'une approbation du ministre chargé de l'aviation civile en vertu du cahier des charges applicable à l'aérodrome prévu par l'article R. 6321-41. A cette fin, l'exploitant d'aérodrome soumet aux usagers un dossier précisant la nature et la consistance du projet, sa localisation, les objectifs poursuivis, son impact sur l'exploitation de l'aérodrome et une estimation de son coût. L'exploitant transmet un procès-verbal de cette consultation au ministre chargé de l'aviation civile lors de la notification du projet.\
+La consultation des usagers s'effectue dans le cadre de la commission consultative économique de l'aérodrome lorsque celui-ci en est doté.

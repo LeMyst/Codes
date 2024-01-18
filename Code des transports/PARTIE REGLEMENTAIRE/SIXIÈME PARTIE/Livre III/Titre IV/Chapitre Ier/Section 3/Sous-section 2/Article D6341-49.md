@@ -1,0 +1,3 @@
+# Article D6341-49
+
+Dans tous les cas prévus aux articles D. 6341-47 et D. 6341-48, la commission de sûreté comprend au moins un représentant de l'exploitant d'aérodrome et, sur les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse deux cent mille passagers, un représentant des transporteurs aériens et un représentant des personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En outre, sur les aérodromes où le ministère de la défense est affectataire principal, cette commission comprend le représentant de l'autorité militaire assurant la direction de l'aérodrome.

@@ -1,0 +1,3 @@
+# Article R6231-2
+
+Lorsque la sanction prévue par l'article R. 6231-1 prend la forme d'une amende, le ministre chargé de l'aviation civile fixe son montant en tenant compte du type et de la gravité des manquements constatés et, éventuellement, des avantages qui en sont retirés. Ce montant ne peut excéder, par manquement constaté, 1 500 euros pour une personne physique et 7 500 euros pour une personne morale. Ces plafonds sont doublés en cas de nouveau manquement commis dans un délai d'un an à compter du jour où la sanction administrative infligée au titre d'un précédent manquement de même nature est devenue définitive. Pour l'application du présent article, le manquement constaté s'entend par vol.

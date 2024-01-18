@@ -1,0 +1,5 @@
+# Article R6525-19
+
+Les temps d'arrêt entre les périodes de vol successives sont répartis de la façon suivante :\
+1° A la fin de la période de vol, telle qu'elle résulte de l'application de l'article R. 6525-18, le personnel navigant bénéficie d'un temps d'arrêt programmé d'une durée au moins égale à deux fois le nombre d'heures de vol effectuées depuis le temps d'arrêt précédent, sans que cette durée puisse être inférieure à huit heures ;\
+2° Lorsque, par suite des exigences de l'exploitation, le personnel navigant effectue une nouvelle période de vol sans avoir bénéficié d'un temps d'arrêt au moins égal à deux fois le nombre d'heures de vol effectuées depuis le temps d'arrêt précédent, la durée du temps d'arrêt qui suit la deuxième période est majorée d'un temps égal à l'insuffisance de la durée du temps d'arrêt qui a suivi la première période. Toutefois, la faculté d'effectuer une deuxième période n'est possible que si la durée du temps d'arrêt qui suit la première période n'est pas inférieure à la durée des vols accomplis au cours de cette première période et sans être inférieure à huit heures.

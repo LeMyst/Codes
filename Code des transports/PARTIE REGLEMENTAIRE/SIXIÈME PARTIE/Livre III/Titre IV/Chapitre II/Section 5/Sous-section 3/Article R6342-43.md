@@ -1,0 +1,6 @@
+# Article R6342-43
+
+En cas de non-conformité relevée aux obligations auxquelles les personnes mentionnées à l'article R. 6342-42 sont soumises en vertu des dispositions du droit de l'Union européenne ainsi que des lois et des règlements relatifs à la sûreté de l'aviation civile, ou lorsque les méthodes de travail ou le comportement professionnels de ces personnes sont susceptibles de créer un risque pour la sûreté, le ministre chargé de l'aviation civile peut :\
+1° Suspendre ou retirer la certification prévue par l'article R. 6342-42. Sauf en cas d'urgence, la personne concernée est alors préalablement avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate peut être prononcée pour une durée maximale d'un mois reconductible une fois au cas où les circonstances l'exigent ;\
+2° Imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, la personne concernée est alors préalablement avisée de la mesure envisagée et dispose d'un délai de dix jours pour présenter ses observations écrites ou orales.\
+L'employeur de la personne concernée est tenu informé, dans les meilleurs délais, des mesures prises en vertu des deux précédents alinéas.

@@ -1,0 +1,3 @@
+# Article R6411-6
+
+Les informations prévues par l'article L. 6411-6 sont également faites dans les mêmes conditions que celles prévues par les articles R. 6411-4 et R. 6411-5, lorsque la part du capital ou des droits de vote détenus directement ou indirectement par des actionnaires autres que des ressortissants d'Etats membres de l'Union européenne ou d'Etats parties à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même portée en matière de transport aérien devient inférieure au seuil prévu par l'article R. 6411-3, ou lorsque la société, au vu des informations dont elle dispose, modifie son intention de mettre en œuvre la procédure de mise en demeure prévue par le second alinéa de l'article L. 6411-6.

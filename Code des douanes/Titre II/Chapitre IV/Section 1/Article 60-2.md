@@ -1,0 +1,3 @@
+# Article 60-2
+
+En cas de raisons plausibles de soupçonner la commission ou la tentative de commission d'une infraction mentionnée à la section 1 du chapitre VI du titre XII et au chapitre IV du titre XIV du présent code ainsi qu'au chapitre II du titre V du livre Ier du code monétaire et financier, les agents des douanes peuvent également procéder, à toute heure, à la visite des marchandises, des moyens de transport et des personnes se trouvant ou circulant sur la voie publique, dans les lieux attenants directement accessibles au public ainsi que dans les ports, les aéroports, les gares ferroviaires ou routières et les trains autres que ceux mentionnés à l'article 60-1 du présent code.

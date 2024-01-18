@@ -1,0 +1,7 @@
+# Article 67-0 quater
+
+En cas de constatation de la commission d'une infraction flagrante passible d'une peine d'emprisonnement autre que celles prévues au présent code, les agents des douanes peuvent procéder à l'interpellation de son auteur présumé en vue de sa remise à un officier de police judiciaire ou, s'agissant des infractions pour lesquelles il est compétent, à un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale, sur instruction du procureur de la République dans le ressort duquel est constatée l'infraction, après que ce dernier en a été informé par tout moyen.
+
+Les agents des douanes peuvent appréhender matériellement les indices recueillis lors du contrôle, à la condition de procéder à leur inventaire immédiat, de s'abstenir de tout acte d'investigation les concernant, de les transmettre à l'officier de police judiciaire ou à l'agent des douanes mentionné au premier alinéa du présent article pour qu'il procède à leur saisie et à leur placement sous scellés et de s'assurer, dans l'intervalle, que leur intégrité ne puisse faire l'objet d'aucune atteinte.
+
+Les agents des douanes peuvent immobiliser le moyen de transport et les marchandises, maintenir contre son gré la personne interpellée le temps strictement nécessaire à la consignation des opérations de contrôle par procès-verbal et à leur remise à l'officier de police judiciaire ou à l'agent des douanes mentionné au même premier alinéa, sous le contrôle du procureur de la République.

@@ -1,0 +1,5 @@
+# Article 67 bis-5
+
+Si les nécessités de l'enquête douanière relative à la recherche et à la constatation des délits douaniers prévus au dernier alinéa de l'article 414, au troisième alinéa de l'article 414-2 et à l'article 415 l'exigent, les agents des douanes spécialement formés et habilités par le ministre chargé des douanes, dans des conditions fixées par décret, peuvent recourir à la mise en place d'un dispositif technique ayant pour objet, sans le consentement des intéressés, la captation, la fixation, la transmission et l'enregistrement de paroles prononcées par une ou plusieurs personnes à titre privé ou confidentiel, dans des lieux ou des véhicules privés ou publics, ou de l'image d'une ou de plusieurs personnes se trouvant dans un lieu privé.
+
+Cette procédure est mise en œuvre dans les mêmes conditions et selon les mêmes modalités que celles prévues, pour l'enquête judiciaire, aux paragraphes 1er et 3 de la section 6 du chapitre II du titre XXV du livre IV du code de procédure pénale.

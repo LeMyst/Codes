@@ -1,0 +1,3 @@
+# Article 60-4
+
+Aux fins de procéder à la visite des marchandises placées sous surveillance douanière en application de l'article 134 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union, les agents des douanes ont accès aux locaux et aux lieux où elles sont susceptibles d'être détenues entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé ou lorsque sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou de commercialisation. Cet accès ne s'applique pas à la partie des locaux affectée à un usage privé ou d'habitation.

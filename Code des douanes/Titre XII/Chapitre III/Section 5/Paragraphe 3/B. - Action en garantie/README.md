@@ -1,0 +1,1 @@
+B. - Action en garantie.

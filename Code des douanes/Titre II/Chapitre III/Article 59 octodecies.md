@@ -1,0 +1,3 @@
+# Article 59 octodecies
+
+Les agents des douanes et les agents placés sous l'autorité du ministre chargé de l'industrie ou du ministre de la défense et ayant pour mission la mise en œuvre de la convention de Paris du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction ainsi que les personnels des entités agissant pour leur compte ou les assistant peuvent se communiquer, spontanément ou sur demande, tous les renseignements ou tous les documents détenus ou recueillis dans l'exercice de leurs missions respectives.

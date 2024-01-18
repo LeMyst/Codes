@@ -1,0 +1,3 @@
+# Article L811-2-3
+
+Les dispositions du règlement (UE) n° 1257/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet et du règlement (UE) n° 1260/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet, en ce qui concerne les modalités applicables en matière de traduction, sont applicables à Saint-Barthélemy, Saint-Pierre-et-Miquelon, dans les Terres australes et antarctiques françaises et les îles Wallis et Futuna.

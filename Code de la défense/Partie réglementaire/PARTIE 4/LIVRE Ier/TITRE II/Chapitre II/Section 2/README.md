@@ -1,0 +1,1 @@
+Section 2 : Exercice d'activités privées, d'activités accessoires ou d'activités au bénéfice d'un Etat étranger, d'une collectivité territoriale étrangère ou d'une entreprise ou d'une organisation ayant son siège en dehors du territoire national ou sous contrôle étranger

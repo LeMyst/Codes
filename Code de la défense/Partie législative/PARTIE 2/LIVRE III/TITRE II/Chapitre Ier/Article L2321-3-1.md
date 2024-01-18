@@ -1,0 +1,9 @@
+# Article L2321-3-1
+
+Aux seules fins de détecter et de caractériser des menaces et des attaques informatiques susceptibles de porter atteinte à la défense, à la sécurité nationale et à la sécurité des systèmes d'information, les fournisseurs de système de résolution de noms de domaine transmettent aux agents de l'autorité nationale de sécurité des systèmes d'information individuellement désignés et spécialement habilités les données techniques ni directement ni indirectement identifiantes enregistrées de manière temporaire par leurs serveurs gérant le système d'adressage par domaines.
+
+A cette fin, les fournisseurs de système de résolution de noms de domaine transmettent à l'autorité nationale de sécurité des systèmes d'information les données mentionnées au premier alinéa, qu'ils rendent préalablement anonymes. Ils ne transmettent aucune donnée technique permettant d'identifier la source de la connexion ou relative aux équipements terminaux utilisés. Les données transmises ne peuvent être exploitées qu'aux seules fins mentionnées au même premier alinéa et ne peuvent être conservées plus de cinq ans.
+
+Pour l'application dudit premier alinéa, on entend par fournisseur de système de résolution de noms de domaine la personne mettant à disposition un service permettant la traduction d'un nom de domaine en un numéro unique identifiant un appareil connecté à internet.
+
+Un décret en Conseil d'Etat, pris après avis de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse et de la Commission nationale de l'informatique et des libertés, détermine les modalités d'application du présent article. Il détermine notamment les données techniques collectées par les agents de l'autorité nationale de sécurité des systèmes d'information ainsi que la fréquence et les conditions de leur transmission par les fournisseurs de système de résolution de noms de domaine.

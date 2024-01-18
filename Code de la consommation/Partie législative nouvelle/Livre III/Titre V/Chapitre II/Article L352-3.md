@@ -1,0 +1,10 @@
+# Article L352-3
+
+Sont applicables en Polynésie française et en Nouvelle-Calédonie, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+| ARTICLES APPLICABLES  | DANS LEUR RÉDACTION  |
+| --- | --- |
+|
+L. 322-1 et L. 322-4
+| Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+|

@@ -1,0 +1,3 @@
+# Article D412-58
+
+Les services conformes aux exigences concernant la fourniture d'informations accessibles et la fourniture d'informations relatives à l'accessibilité prévues par les règlements (CE) n° 261/2004, (CE) n° 1107/2006, (UE) n° 1177/2010, (UE) n° 181/2011, (UE) n° 2021/782 et les actes pertinents adoptés sur la base de la directive (UE) 2016/797, abrogeant la directive 2008/57/CE, sont réputés conformes aux exigences en matière d'accessibilité mentionnées à l'article L. 412-13. Lorsque la présente section prévoit des exigences supplémentaires à celles prévues dans ces règlements et ces actes, celles-ci s'appliquent dans leur intégralité.

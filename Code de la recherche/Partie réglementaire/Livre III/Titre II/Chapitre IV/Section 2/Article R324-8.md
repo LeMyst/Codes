@@ -1,0 +1,5 @@
+# Article R324-8
+
+Le conseil d'administration de l'Institut national de la santé et de la recherche médicale se réunit au moins trois fois par an sur convocation du président de l'institut. Il est réuni dans les mêmes conditions à la demande de la majorité de ses membres. Le président de l'institut fixe l'ordre du jour.\
+Le conseil ne délibère valablement que si la moitié de ses membres est présente, représentée ou participe à la séance dans les conditions prévues par le décret n° 2014-1627 du 26 décembre 2014 relatif aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué, avec le même ordre du jour, dans un délai maximum de vingt jours. Il délibère alors sans condition de quorum.\
+Les délibérations du conseil d'administration sont prises à la majorité des membres participant à la délibération dans les conditions prévues au deuxième alinéa. En cas de partage égal des voix, celle du président est prépondérante.

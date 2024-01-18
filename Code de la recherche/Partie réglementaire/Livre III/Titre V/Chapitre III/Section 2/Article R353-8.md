@@ -1,0 +1,5 @@
+# Article R353-8
+
+Le conseil d'administration se réunit au moins trois fois par an, sur convocation du président du Muséum.\
+Dans le respect des dispositions des décrets n° 2010-1035 du 1er septembre 2010 relatif à la durée des mandats des dirigeants et au fonctionnement des organes de direction de certains des établissements publics de l'Etat et n° 2014-1627 du 26 décembre 2014 relatif aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial, le règlement intérieur du Muséum précise notamment les règles de quorum, les modalités de délibérations du conseil et de représentation de ses membres, les modalités de convocation, d'établissement et d'envoi de l'ordre du jour. Il définit la liste des personnes qui peuvent assister aux séances avec voix consultative et les règles de publicité des délibérations.\
+Lorsque le président du Muséum ne peut présider une séance du conseil d'administration, celui-ci élit en son sein un président de séance à la majorité des membres participant à la réunion.

@@ -1,0 +1,4 @@
+# Article R431-23
+
+A compter du douzième mois, lorsque le projet ou l'opération de recherche pour lequel le contrat a été conclu ne peut pas se réaliser ou se termine de manière anticipée, l'employeur justifie de l'impossibilité de poursuivre la relation de travail sur la base d'éléments factuels précis. La rupture anticipée du contrat de projet ou d'opération de recherche est alors soumise aux dispositions des articles L. 1232-2 à L. 1232-6 ainsi qu'à celles du chapitre IV, de la section 1 du chapitre V et du chapitre VIII du titre III du livre II de la première partie du code du travail.\
+L'indemnité versée en application des dispositions mentionnées au premier alinéa est majorée d'un montant égal à 10 % de la rémunération brute totale perçue à la date de rupture anticipée du contrat, dans la limite de 100 % de la rémunération brute totale annuelle prévue par le contrat.

@@ -1,0 +1,6 @@
+# Article R431-36
+
+Le contrat peut être également rompu lorsque le projet ou l'opération pour lequel il a été conclu ne peut pas se réaliser. Cette impossibilité est établie de façon certaine à partir d'éléments factuels précis. Sauf au cours de la période d'essai ou en cas d'insuffisance professionnelle, d'inaptitude physique ou de faute disciplinaire de l'agent, l'employeur ne peut rompre le contrat pendant la première année pour quelque autre motif que ce soit.\
+Dans les conditions prévues au second alinéa de l'article R. 431-35, l'agent est informé de la rupture anticipée de son contrat au plus tard trois mois avant la date de cette rupture.\
+Lorsque le contrat prend fin du fait de l'achèvement anticipé du projet ou de l'opération au regard de sa durée prévisible mentionnée au 1° de l'article R. 431-33 ou est rompu dans les cas prévus au premier alinéa, l'agent perçoit une indemnité de rupture anticipée.\
+Le montant de cette indemnité est égal à 10 % de la rémunération brute totale perçue à la date d'interruption du contrat, dans la limite de 100 % de la rémunération brute annuelle prévue par le contrat au moment de la rupture ou au montant prévu par l'article 54 du décret du 17 janvier 1986 mentionné ci-dessus, si ce mode de calcul est plus favorable à l'agent.

@@ -1,0 +1,6 @@
+# Article R251-3
+
+Le représentant de l'Etat en mer accuse réception de la demande mentionnée à l'article R. 251-2.\
+Il dispose d'un délai de quinze jours ouvrés à compter de la réception de la demande pour notifier au demandeur l'octroi de l'autorisation demandée, assortie, le cas échéant, de restrictions ou de prescriptions, ou le rejet, par décision motivée, de sa demande ou, s'il y a lieu, pour l'inviter à compléter celle-ci.\
+Lorsque la demande concerne une activité se situant, en tout ou partie, dans une zone relevant de la protection des intérêts de la défense nationale, le représentant de l'Etat en mer recueille l'accord de l'autorité militaire qui détermine également, le cas échéant, les conditions dans lesquelles le bénéficiaire peut publier les données recueillies dans cette zone. Le délai mentionné au deuxième alinéa est porté à vingt et un jours ouvrés.\
+L'autorisation délivrée précise, le cas échéant, les données à communiquer aux organismes mentionnés à l'article L. 251-3 et les modalités de cette communication, ainsi que les conditions dans lesquelles peuvent être publiées les données recueillies lors des campagnes de recherche se déroulant, en tout ou partie, dans une zone relevant de la protection des intérêts de la défense nationale.

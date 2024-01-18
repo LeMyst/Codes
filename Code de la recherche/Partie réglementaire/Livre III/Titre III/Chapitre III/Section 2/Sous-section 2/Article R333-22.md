@@ -1,0 +1,7 @@
+# Article R333-22
+
+Un commissaire du Gouvernement est désigné par arrêté des ministres exerçant la tutelle du BRGM. Il reçoit lorsqu'il y a lieu, sous couvert des ministres exerçant la tutelle du BRGM, les observations des ministres mentionnés à l'article R. 333-24.\
+Il assiste aux délibérations du conseil d'administration ou s'y fait représenter par un fonctionnaire placé sous son autorité et nommément désigné. Il peut assister ou se faire représenter aux délibérations de tout comité constitué au sein du BRGM. Il reçoit, dans les mêmes conditions que les membres de ces différents organismes, les convocations, ordres du jour, procès-verbaux et tous autres documents qui leur sont adressés.\
+Il peut se faire communiquer tous les documents, pièces et archives et effectuer ou faire effectuer toutes vérifications.\
+Le commissaire du Gouvernement dispose d'un droit de veto à l'égard des décisions du conseil d'administration affectant l'organisation générale du BRGM, la gestion financière et les programmes. Il exerce ce droit dans les trois jours qui suivent la réunion, s'il y a assisté, ou la réception de la délibération, dans le cas contraire.\
+Le veto du commissaire du Gouvernement a un caractère suspensif jusqu'à ce que les ministres exerçant la tutelle du BRGM, après accord, le cas échéant, des autres ministres mentionnés à l'article R. 333-24, se soient prononcés. A défaut de décision expresse des ministres de tutelle dans un délai d'un mois, la décision du conseil devient exécutoire.

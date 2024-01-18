@@ -1,0 +1,6 @@
+# Article R412-26
+
+A sa prise de fonction, le titulaire du contrat postdoctoral bénéficie d'un entretien au cours duquel sont déterminés les moyens matériels mis à sa disposition, ses besoins en formation et, le cas échéant, les aménagements nécessaires de son poste de travail.\
+Durant la dernière année du contrat et au plus tard dans les trois mois suivant la fin de celui-ci, le titulaire du contrat postdoctoral se voit proposer un accompagnement spécifique par l'établissement en vue de valoriser son parcours scientifique et son expérience professionnelle et de l'aider dans sa recherche d'un emploi pérenne dans le secteur public comme dans le secteur privé.\
+Il bénéficie, à sa demande, d'un entretien avec un conseiller mobilité-carrière.\
+Durant la période mentionnée au deuxième alinéa, il bénéficie de façon prioritaire des actions de formation prévues aux articles 6 et 8 du décret n° 2007-1942 du 26 décembre 2007 relatif à la formation professionnelle des agents non titulaires de l'Etat et de ses établissements publics et de vingt jours de décharge de service dédiés à ces actions. Les plans de formation des établissements employeurs prévoient des formations destinées à la préparation aux concours de chercheurs et d'enseignants-chercheurs.

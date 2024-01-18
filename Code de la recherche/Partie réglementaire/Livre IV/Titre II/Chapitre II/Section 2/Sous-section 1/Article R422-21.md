@@ -1,0 +1,4 @@
+# Article R422-21
+
+Les personnels scientifiques contractuels des établissements publics de recherche et des établissements publics d'enseignement supérieur, ainsi que ceux qui appartiennent à un organisme de recherche étranger ou à un organisme d'enseignement supérieur étranger, nommés dans le corps des chargés de recherche sont classés à un échelon déterminé en tenant compte du temps qu'ils ont passé dans des fonctions correspondant, au moins, à celles qui sont exercées par les membres de ce corps. Ce temps est pris en compte pour l'intégralité de sa durée effective.\
+Un arrêté des ministres de tutelle de l'établissement, du ministre chargé de la recherche, du ministre chargé du budget et du ministre chargé de la fonction publique fixe pour les personnels contractuels des établissements publics de recherche et les personnels appartenant à l'enseignement supérieur public les équivalences de fonctions prévues au premier alinéa.

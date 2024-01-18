@@ -1,0 +1,6 @@
+# Article D412-1
+
+En application de l'article L. 412-2, les établissements publics à caractère scientifique, culturel et professionnel, les établissements publics à caractère scientifique et technologique et les autres établissements publics administratifs dont les statuts prévoient une mission d'enseignement supérieur ou de recherche peuvent recruter des étudiants inscrits en vue de la préparation d'un doctorat par un contrat dénommé " contrat doctoral de droit public ".\
+Le contrat doctoral de droit public est régi, sous réserve des dispositions de la présente section, par les dispositions du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents contractuels de l'Etat, à l'exception des dispositions de ses articles 1er, 1-3 et 1-4, de son titre Ier bis, de ses articles 4,5,7,9,22,28,28-1 et 45 ainsi que de ses titres VIII bis et IX.\
+La rémunération brute minimale mensuelle des services mentionnés à l'article D. 412-3 est fixée par arrêté des ministres chargés de l'enseignement supérieur, de la recherche et du budget.\
+La durée annuelle de travail effectif est fixée conformément aux dispositions du décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat et dans la magistrature.

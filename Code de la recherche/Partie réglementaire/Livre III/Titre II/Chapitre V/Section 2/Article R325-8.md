@@ -1,0 +1,6 @@
+# Article R325-8
+
+Les délibérations du conseil d'administration autres que celles mentionnées aux deuxième, troisième et quatrième alinéas sont exécutoires quinze jours après leur réception par les ministres chargés de la recherche et du développement international, à moins que ceux-ci n'y fassent opposition. En cas d'urgence, les ministres chargés de la recherche et du développement international peuvent conjointement autoriser l'exécution immédiate de la délibération.\
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.\
+Les délibérations portant sur les emprunts, les acquisitions, échanges ou aliénations d'immeubles ainsi que sur la participation aux organismes dotés de la personnalité morale sont exécutoires, sauf opposition des ministres de tutelle ou du ministre chargé du budget, dans un délai d'un mois à compter de leur réception par chacun de ces ministres.\
+Les délibérations portant sur les matières mentionnées au 12° de l'article R. 325-6 sont exécutoires, sauf opposition des ministres chargés de la recherche, du développement international, de l'économie ou du budget, dans un délai d'un mois à compter de leur réception par chacun de ces ministres.

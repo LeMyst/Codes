@@ -1,0 +1,3 @@
+# Article R513-2
+
+Les conditions dans lesquelles les jeunes entreprises innovantes réalisant des projets de recherche et de développement, définies à l'article 44 sexies-0 A du code général des impôts, peuvent être exonérées des cotisations à la charge de l'employeur, au titre des assurances sociales et des allocations familiales, sont fixées par les dispositions du décret n° 2004-581 du 21 juin 2004 pris en application de l'article 131 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) instituant une exonération des cotisations patronales de sécurité sociale en faveur de la jeune entreprise innovante.

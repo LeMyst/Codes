@@ -1,0 +1,4 @@
+# Article R324-16
+
+Le président de l'Institut national de la santé et de la recherche médicale définit les droits et obligations des responsables des unités de recherche et des autres formations de recherche ou d'appui à la recherche à l'égard de l'institut. Lorsque l'activité d'une unité de recherche ou d'une formation de recherche ou d'appui à la recherche lui paraît compromise de manière immédiate, le président de l'institut peut prendre toute mesure conservatoire qu'il juge utile au bon fonctionnement de celle-ci. Lorsque la mesure concerne une unité de recherche, il en informe le conseil scientifique lors de sa plus prochaine séance.\
+Le président de l'institut définit les conditions de représentation et de consultation des personnels des formations de recherche ou des regroupements de formations.

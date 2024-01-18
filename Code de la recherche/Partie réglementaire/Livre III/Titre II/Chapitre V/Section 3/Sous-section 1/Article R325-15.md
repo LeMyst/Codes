@@ -1,0 +1,3 @@
+# Article R325-15
+
+L'Institut de recherche pour le développement peut comporter des départements scientifiques regroupant des unités de recherche et des unités de service. Les départements ont notamment pour objet de favoriser l'accomplissement des missions et le développement des actions de partenariat de l'institut avec les établissements d'enseignement supérieur et les autres établissements de recherche, par grands secteurs d'activité. Leur nombre, leur nature et leurs modalités de fonctionnement sont arrêtés par le conseil d'administration, sur proposition du président de l'institut, après avis du conseil scientifique.

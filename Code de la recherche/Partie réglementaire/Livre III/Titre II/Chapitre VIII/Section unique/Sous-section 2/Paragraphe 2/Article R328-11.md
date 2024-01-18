@@ -1,0 +1,5 @@
+# Article R328-11
+
+Le conseil académique siégeant en qualité de conseil d'administration délibère valablement si la majorité de ses membres est présente, représentée ou participe à la séance dans les conditions fixées par le décret n° 2014-1627 du 26 décembre 2014 relatif aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Si le quorum n'est pas atteint, le conseil d'administration est de nouveau convoqué, avec le même ordre du jour, dans un délai maximal de trois semaines. Il délibère alors valablement sans condition de quorum.\
+Les délibérations du conseil d'administration sont adoptées à la majorité absolue des votants. En cas de partage égal des voix, celle du président est prépondérante.\
+Le lieu, la date, l'heure et l'ordre du jour des séances sont portés à la connaissance des membres du conseil d'administration, ainsi que du contrôleur budgétaire et du commissaire du Gouvernement, quinze jours au moins avant la réunion du conseil.

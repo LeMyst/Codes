@@ -1,0 +1,6 @@
+# Article R332-13
+
+Le Commissariat à l'énergie atomique et aux énergies alternatives est soumis au contrôle de l'Etat selon les mêmes modalités que celles prévues aux articles 1er à 6 du décret du 9 août 1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre économique ou social. Le contrôle financier spécifique sur l'établissement, prévu à l'article L. 332-6 du présent code, est exercé par une mission de contrôle relevant du service du contrôle général économique et financier, conformément aux objectifs énoncés au I de l'article 5 du décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat et selon les mêmes modalités que celles énoncées aux articles 6 à 12 de ce décret.\
+Cette mission de contrôle est composée d'un chef de mission et de trois membres nommés par arrêté du ministre chargé de l'économie parmi les agents exerçant des missions d'inspection, de contrôle ou d'évaluation au sein des services d'inspection générale ou de contrôle.\
+Ses rapports sont communiqués à l'administrateur général et adressés aux ministres mentionnés à l'article R. 332-1 et au ministre chargé du budget.\
+Les comptes annuels et, le cas échéant, consolidés et le bilan annuel du commissariat sont présentés à la mission de contrôle.

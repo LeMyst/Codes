@@ -1,0 +1,4 @@
+# Article R114-23
+
+Préalablement à l'évaluation, l'instance d'évaluation échange avec l'entité évaluée afin de préciser les modalités de restitution de l'évaluation auprès de celle-ci et de ses autorités de tutelle et d'identifier les éléments ne pouvant faire l'objet d'une publication.\
+Les rapports d'évaluation sont rendus publics dans une version occultant ou disjoignant les passages dont la publication porterait atteinte au respect des secrets légalement protégés ou des clauses de confidentialité figurant, le cas échéant, dans les contrats de recherche liant l'établissement évalué à un ou des tiers ou liant, dans le cas d'une unité de recherche, un ou des établissements auxquels elle est rattachée à un ou des tiers pour des travaux réalisés au sein de l'unité. La version publiée prend en compte les dispositions du 2° de l'article L. 311-5 du code des relations entre le public et l'administration.

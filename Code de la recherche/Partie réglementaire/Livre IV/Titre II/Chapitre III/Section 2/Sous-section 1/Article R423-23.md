@@ -1,0 +1,7 @@
+# Article R423-23
+
+Les concours internes sont ouverts aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article L. 5 du code général de la fonction publique, aux militaires et magistrats ainsi qu'aux candidats en fonctions dans une organisation internationale intergouvernementale, appartenant, à la date de clôture des inscriptions, à un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent.\
+Les candidats mentionnés au premier alinéa doivent justifier, au 1er janvier de l'année au titre de laquelle est organisé le concours, de sept années au moins de services publics dans un corps, cadre d'emplois ou emploi de catégorie A ou de niveau équivalent.\
+Les concours internes sont également ouverts aux candidats justifiant, au 1er janvier de l'année au titre de laquelle le concours est organisé, de sept ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés à l'article L. 325-5 du même code, dans les conditions fixées par cet article.\
+Le nombre total des emplois réservés aux candidats des concours internes ne peut être supérieur à 50 % du nombre total des postes à pourvoir par voie de concours.\
+Dans chaque branche d'activité professionnelle, les emplois ouverts au titre du concours externe ou du concours interne qui ne sont pas pourvus par la nomination des candidats à l'un de ces concours peuvent être attribués aux candidats de l'autre concours.

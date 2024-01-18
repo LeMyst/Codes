@@ -1,0 +1,3 @@
+# Article R353-9
+
+Par dérogation aux dispositions de l'article R. 711-12 du code de l'éducation, les délibérations portant sur le budget du Muséum national d'histoire naturelle et ses modifications, le compte financier, les emprunts, les acquisitions, échanges et aliénations d'immeubles et les participations à des organismes dotés de la personnalité morale autres que les groupements d'intérêt public, ainsi que sur les créations de filiales et les prises de participations financières, sont exécutoires, à défaut d'approbation expresse notifiée dans ce délai, un mois après leur réception par les ministres chargés de la tutelle et par le ministre chargé du budget, si aucun d'eux n'y a fait opposition dans ce délai.

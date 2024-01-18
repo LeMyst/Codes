@@ -1,0 +1,3 @@
+# Article R144-2
+
+A Saint-Pierre-et-Miquelon, sous l'autorité du préfet, représentant de l'Etat en mer, et sous réserve des compétences attribuées à d'autres services ou établissements publics de l'Etat, la direction des territoires, de l'alimentation et de la mer contribue, dans ses domaines de compétence, à l'élaboration de la politique scientifique et technique en matière de recherche et développement, en application des dispositions de l'article 17 du décret n° 2010-1582 du 17 décembre 2010 relatif à l'organisation et aux missions des services de l'Etat dans les départements et les régions d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon.

@@ -1,0 +1,7 @@
+# Article R322-32
+
+Des commissions interdisciplinaires compétentes pour des domaines d'activité tels que le transfert des connaissances, les applications de la recherche, l'information scientifique et sa diffusion ou l'administration de la recherche peuvent être créées par arrêté du ministre chargé de la recherche, sur proposition du président du Centre national de la recherche scientifique après avis du conseil scientifique et accord du conseil d'administration.\
+Les commissions interdisciplinaires sont composées, pour deux tiers, par des membres élus au sein du comité national de la recherche scientifique par l'ensemble des sections et, pour un tiers, par des membres nommés par le ministre chargé de la recherche, après avis du président du centre.\
+Chaque commission élit son président en son sein.\
+Les chercheurs sont rattachés aux commissions interdisciplinaires sur leur demande tout en continuant à relever, pendant une durée de cinq ans, d'une section ou d'une commission interdisciplinaire mentionnées aux articles R. 322-29 et R. 322-31. Les commissions exercent, à l'égard des chercheurs qui leur sont rattachés, les compétences dévolues aux sections par les statuts de ces personnels. Toutefois, elles ne sont pas habilitées à se prononcer sur les recrutements.\
+Les attributions prévues au premier alinéa de l'article R. 322-30 pour les sections peuvent être transférées en tout ou en partie aux commissions interdisciplinaires pour les domaines d'action entrant dans leur champ de compétences.

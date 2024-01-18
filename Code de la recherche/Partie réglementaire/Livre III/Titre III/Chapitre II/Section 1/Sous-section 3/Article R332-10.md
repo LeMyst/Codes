@@ -1,0 +1,6 @@
+# Article R332-10
+
+Par délégation du Comité de l'énergie atomique, un comité mixte, composé de trois membres représentant le ministre de la défense, dont l'un préside le comité, et de trois membres représentant le commissariat, examine, notamment sous leur aspect financier, les questions relatives à l'exécution des programmes d'armement nucléaire dont la responsabilité incombe au Commissariat à l'énergie atomique et aux énergies alternatives.\
+Le comité mixte émet, en conclusion de cet examen, un avis sous forme de recommandations adressées par son président à l'administrateur général et communiquées au Premier ministre et au ministre de la défense. Il ne peut être passé outre à un avis du comité mixte que par décision du Premier ministre.\
+L'administrateur général rend compte au Comité de l'énergie atomique des recommandations que lui adresse le comité mixte. A la demande du Comité de l'énergie atomique, il en tient informé le conseil d'administration. Les modalités de la réalisation des armements nucléaires par le ministre de la défense et le Commissariat font l'objet d'une directive du Premier ministre.\
+Un membre de la mission de contrôle mentionnée à l'article R. 332-13 assiste aux réunions du comité mixte, avec voix consultative.

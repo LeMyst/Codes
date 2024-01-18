@@ -1,0 +1,14 @@
+# Article R333-8
+
+Le président du conseil d'administration exerce la direction générale de l'établissement. Il prépare les délibérations du conseil d'administration et s'assure de leur exécution. Il représente l'institut dans tous les actes de la vie civile, dans ses rapports avec les tiers et dans ses relations internationales.\
+Il a autorité sur l'ensemble des services. Il recrute l'ensemble des personnels.\
+Il est ordonnateur principal des dépenses et des recettes. Il peut désigner des ordonnateurs secondaires.\
+Sous réserve des approbations nécessaires, le président a notamment qualité pour :\
+1° Passer au nom de l'institut tous actes, contrats ou marchés\
+2° Procéder à toutes acquisitions, tous dépôts ou cessions de brevet ou de licence ;\
+3° Représenter l'institut en justice, transiger dans tous litiges et compromettre en matière nationale et internationale avant ou après la naissance d'un différend ;\
+4° Déterminer l'emploi des fonds disponibles et le placement des réserves, procéder à toutes acquisitions, aliénations et transferts de valeurs ;\
+5° Procéder à tous achats, ventes ou locations d'immeubles, contracter tous emprunts, constituer nantissement ou hypothèque.\
+Il est assisté d'un ou plusieurs directeurs généraux délégués qu'il nomme.\
+Il peut déléguer une partie de ses pouvoirs à des agents désignés pour exercer des fonctions de responsabilité administrative ou scientifique dans l'établissement. Il peut déléguer sa signature.\
+La rémunération du président est fixée par décision conjointe du ministre chargé du budget et des ministres exerçant la tutelle de l'institut.

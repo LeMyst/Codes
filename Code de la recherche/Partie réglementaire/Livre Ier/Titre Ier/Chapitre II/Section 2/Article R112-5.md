@@ -1,0 +1,5 @@
+# Article R112-5
+
+Toute vacance des fonctions de délégué régional académique à la recherche et à l'innovation ou de délégué régional académique adjoint à la recherche et à l'innovation fait l'objet d'un avis de vacance publié au bulletin officiel des ministères chargés de l'enseignement supérieur, de la recherche et de l'innovation, ainsi que sur l'espace numérique commun aux trois fonctions publiques dans les conditions prévues par le décret n° 2018-1351 du 28 décembre 2018 relatif à l'obligation de publicité des emplois vacants sur un espace numérique commun aux trois fonctions publiques.\
+Les candidatures sont adressées au recteur de région académique dans un délai de trente jours à compter de la publication de l'avis de vacance. En cas d'urgence, la durée de publication de l'avis de vacance peut être ramenée à quinze jours.\
+Le recteur de région académique dresse la liste des candidats, qu'il communique au préfet de région. Cette liste, accompagnée des avis du recteur de région académique et du préfet de région, est transmise par le recteur de région académique aux ministres chargés de l'enseignement supérieur, de la recherche et de l'innovation.

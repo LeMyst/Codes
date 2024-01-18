@@ -1,0 +1,7 @@
+# Article R329-8
+
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente, représentée ou participe à la séance dans les conditions prévues par le décret n° 2014-1627 du 26 décembre 2014 relatif aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai de dix jours. Il délibère alors sans condition de quorum.\
+Les délibérations sont adoptées à la majorité des voix des membres participant à la délibération dans les conditions prévues au premier alinéa, sauf pour ce qui concerne le règlement intérieur de l'établissement, qui est adopté à la majorité absolue des membres du conseil. En cas de partage égal des voix, celle du président est prépondérante.\
+Un membre du conseil d'administration qui n'a pas de suppléant ou dont le suppléant est indisponible peut donner mandat, par écrit, à un autre membre pour le représenter à une séance. Nul ne peut détenir plus d'un mandat.\
+Le ou les directeurs généraux délégués de l'établissement, le contrôleur budgétaire et l'agent comptable, ainsi que le président du conseil d'administration de Bpifrance ou son représentant et le secrétaire général pour l'investissement ou son représentant, assistent au conseil d'administration avec voix consultative.\
+Le président du conseil d'administration peut inviter à assister à une séance toute autre personne dont il juge la présence utile.

@@ -1,0 +1,4 @@
+# Article R411-4
+
+L'autorité compétente peut faire part à l'agent de recommandations visant à assurer le respect de ses obligations déontologiques et le fonctionnement normal du service.\
+Elle peut s'opposer à l'exercice de l'activité accessoire ou à sa poursuite, si l'intérêt du service le justifie, si l'activité déclarée n'entre pas dans le champ de la dérogation prévue par l'article L. 411-3-1 du présent code et par l'article L. 951-5 du code de l'éducation, si les informations communiquées dans la déclaration sont incomplètes ou inexactes ou si ce cumul est incompatible avec les fonctions exercées par l'agent ou l'emploi qu'il occupe au regard des obligations déontologiques mentionnées au titre II du livre Ier du code général de la fonction publique ou des dispositions de l'article 432-12 du code pénal.

@@ -1,0 +1,7 @@
+# Article R327-9
+
+La commission d'examen des candidatures à la fonction de directeur de l'Institut national d'études démographiques, mentionnée à l'article R. 327-8, est composée de quatre ou six personnalités choisies en raison de leur compétence dans les domaines d'activités de l'établissement, parmi lesquelles un président, nommées par arrêté du ministre chargé des affaires sociales et du ministre chargé de la recherche. Elle comprend un nombre égal de femmes et d'hommes.\
+Après examen des dossiers de candidature transmis à chacun de ses membres par le ministre chargé des affaires sociales et le ministre chargé de la recherche, la commission sélectionne les candidats qu'elle auditionnera, dans la limite de six. En cas de partage égal des voix sur le choix de ces candidats, celle du président de la commission est prépondérante. La commission transmet au ministre chargé des affaires sociales et au ministre chargé de la recherche un rapport écrit motivant l'avis porté sur chacun des candidats auditionnés.\
+La liste des candidats, les dossiers de candidature et les débats de la commission sont confidentiels.\
+Le mandat des membres de la commission cesse de plein droit à compter de la date de nomination du directeur de l'institut.\
+Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, les frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.

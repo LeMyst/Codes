@@ -1,0 +1,7 @@
+# Article R331-5
+
+Les délibérations du Centre national d'études spatiales autres que celles mentionnées aux troisième, quatrième et cinquième alinéas sont exécutoires si le commissaire du Gouvernement n'y a pas fait opposition dans les dix jours qui suivent la réunion du conseil d'administration, s'il y a assisté, ou, dans le cas contraire, dans les dix jours qui suivent la réception de la délibération.\
+Dans le cas où le commissaire du Gouvernement forme opposition à une délibération, il en réfère immédiatement aux ministres concernés qui se prononcent dans le délai d'un mois. A défaut de décision expresse dans ce délai, la délibération du conseil d'administration est exécutoire.\
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.\
+Les délibérations portant sur les objets mentionnés aux 6° et 11° de l'article R. 331-4 sont exécutoires, sauf opposition de l'un des ministres exerçant la tutelle du centre ou du ministre chargé du budget, dans le mois suivant leur réception.\
+Les délibérations portant sur les objets mentionnés au 9° du même article sont exécutoires, sauf opposition de l'un des ministres exerçant la tutelle du centre, du ministre chargé de l'économie ou du ministre chargé du budget, dans le mois suivant leur réception.

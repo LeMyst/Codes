@@ -1,0 +1,12 @@
+# Article D321-4
+
+La destination des dépenses est détaillée dans trois agrégats.\
+Le premier agrégat se rapporte à l'activité conduite par les unités de recherche. Au sein de cet agrégat, les dépenses sont présentées selon une double ventilation :\
+1° Entre les unités ou groupes d'unités de recherche ;\
+2° Entre les différentes finalités des thèmes et programmes de recherche, de manière à faire ressortir leur impact socio-économique ou leur contribution à une stratégie de recherche, en fonction des spécificités de chaque établissement.\
+Les crédits sont consommés selon l'une ou l'autre des répartitions.\
+Le deuxième agrégat se rapporte aux actions communes de l'établissement. Ces actions comprennent notamment les grands équipements scientifiques, les actions de valorisation des résultats de la recherche, les échanges internationaux, l'information scientifique et technique, la formation permanente.\
+Le troisième agrégat se rapporte aux fonctions support. Ces fonctions comprennent notamment l'action sociale, les moyens informatiques communs, l'entretien immobilier, les acquisitions, constructions et gros travaux immobiliers, les moyens généraux des unités de recherche et des services territoriaux de l'établissement, les services centraux et les opérations financières.\
+Hors agrégats, une réserve pour hausse des rémunérations ou des charges sociales peut être constituée et mobilisée si des dispositions législatives ou réglementaires nouvelles entrent en vigueur en cours de gestion.\
+Au sein de chaque agrégat ou hors agrégats, des dotations d'emplois et de crédits à répartir peuvent être prévues lorsque leur destination ne peut être précisée au moment de l'approbation du budget.\
+Le montant total des dotations à répartir prévues hors agrégats au titre des dépenses de personnel financées en totalité ou en partie sur les subventions pour charges de service public ne peut excéder 3 % des crédits ouverts au budget pour ces dépenses. Le montant total des dotations à répartir prévues hors agrégats au titre des autres natures de dépenses ne peut excéder 5 % des crédits ouverts au budget pour ces autres natures de dépenses.

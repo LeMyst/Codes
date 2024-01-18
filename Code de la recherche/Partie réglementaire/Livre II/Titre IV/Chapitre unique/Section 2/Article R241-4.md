@@ -1,0 +1,3 @@
+# Article R241-4
+
+Lorsque les utilisations confinées d'organismes génétiquement modifiés à des fins de recherche sont soumises, en tout ou partie, à des règles de protection du secret de la défense nationale ou nécessitent l'emploi d'informations couvertes par ce même secret, les dispositions qui y sont applicables sont fixées par la section 5 du chapitre II du titre III du livre V du code de l'environnement, que ces utilisations soient mises en œuvre dans un établissement dépendant du ministère de la défense ou, à la demande de ce ministère, par des établissements publics ou des organismes privés.

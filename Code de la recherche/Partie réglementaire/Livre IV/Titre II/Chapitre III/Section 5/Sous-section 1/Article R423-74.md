@@ -1,0 +1,4 @@
+# Article R423-74
+
+Les techniciens de la recherche recrutés en application de l'article R. 423-70 sont classés dans le grade de technicien de la recherche de classe normale, conformément aux dispositions des articles 13, 14, 17 à 20 et 23 du décret du 11 novembre 2009 mentionné ci-dessus et aux dispositions de l'article R. 423-75.\
+Les techniciens de la recherche recrutés en application de l'article R. 423-71 sont classés dans le grade de technicien de la recherche de classe supérieure en appliquant le tableau de correspondance du II de l'article 21 du même décret à la situation qui aurait été la leur s'ils avaient été nommés et classés dans le grade de technicien de la recherche de classe normale en application des articles 13, 14, 17 à 19 de ce décret et de l'article R. 423-75. Les intéressés bénéficient des dispositions des articles 22 et 23 du même décret.

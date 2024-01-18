@@ -1,0 +1,11 @@
+# Article R423-71
+
+Les techniciens de la recherche de classe supérieure sont recrutés dans les conditions suivantes :\
+1° Par voie de concours externe ouvert aux candidats titulaires d'un titre ou d'un diplôme classé au moins au niveau 5 au sens du répertoire national des certifications professionnelles ou, par dérogation aux dispositions du 1° du I de l'article 6 du décret du 11 novembre 2009 mentionné ci-dessus, d'une qualification professionnelle dont la correspondance avec l'un des emplois-types figurant sur la liste fixée par l'arrêté prévu à l'article R. 423-2 est appréciée par la commission mentionnée au 1° de l'article R. 423-70 ;\
+2° Par voie de concours interne ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article L. 5 du code général de la fonction publique, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale.\
+Les candidats doivent être en fonctions à la date de clôture des inscriptions et justifier, au 1er janvier de l'année au titre de laquelle le concours est organisé, d'au moins quatre ans de services publics.\
+Le concours interne est également ouvert aux candidats justifiant, au 1er janvier de l'année au titre de laquelle le concours est organisé, de quatre ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés à l'article L. 325-5 du même code, dans les conditions fixées par cet article ;\
+3° Par la voie d'un examen professionnel ouvert aux fonctionnaires appartenant aux corps des adjoints techniques de la recherche justifiant, au 1er janvier de l'année au titre de laquelle les nominations interviennent, d'au moins onze années de services publics.\
+Le nombre total de nominations susceptibles d'être prononcées au titre de l'alinéa précédent ne peut excéder deux cinquièmes du nombre de nominations prononcées en application des 1° et 2°, des détachements de longue durée et des intégrations directes.\
+Les dispositions des articles 7 et 8 du décret du 11 novembre 2009 mentionné ci-dessus sont applicables aux concours mentionnés aux 1° et 2°.\
+Les dispositions des articles 8 et 9 du même décret sont applicables aux recrutements opérés selon les modalités prévues au 3°.

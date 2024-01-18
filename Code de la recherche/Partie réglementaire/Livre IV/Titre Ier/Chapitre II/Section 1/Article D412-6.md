@@ -1,0 +1,6 @@
+# Article D412-6
+
+Les activités de recherche peuvent être effectuées dans un établissement différent de celui qui emploie le doctorant contractuel lorsque les deux établissements participent à un même regroupement, au sens du 2° de l'article L. 718-3 du code de l'éducation, ou participent à une même école doctorale.\
+Les activités autres que les travaux de recherche accomplis en vue de la préparation du doctorat peuvent être effectuées dans un établissement différent de celui qui emploie le doctorant contractuel.\
+Lorsque la thèse est réalisée en cotutelle avec un ou plusieurs établissements d'enseignement supérieur étrangers, dans les conditions fixées par un arrêté des ministres chargés de l'enseignement supérieur et de la recherche, les activités de recherche et les activités complémentaires peuvent être effectuées dans ces établissements sur le fondement d'une convention conclue entre les établissements concernés.\
+Lorsque le doctorant contractuel accomplit tout ou partie de ses activités dans un établissement différent de celui qui l'emploie, une convention prévoit la définition des activités qui lui sont confiées, les modalités de leur exécution et de leur évaluation ainsi que la contribution éventuellement versée par l'établissement d'accueil à l'établissement employeur.

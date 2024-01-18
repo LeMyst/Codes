@@ -1,0 +1,5 @@
+# Article R423-62
+
+Pour le classement des lauréats des concours de recrutement d'assistants ingénieurs, l'ancienneté acquise dans des services privés, dans des fonctions au moins équivalentes à celles d'assistant ingénieur, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire est prise en compte à raison de la moitié jusqu'à douze ans et des deux tiers au-delà de douze ans.\
+Les dispositions de l'alinéa précédent sont cumulables avec celles de l'article 7 du décret n° 2006-1827 du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat.\
+Les services accomplis en qualité de contractuel dans une administration, un organisme de recherche ou un organisme d'enseignement supérieur étrangers situés dans un Etat non membre de l'Union européenne ou non partie à l'accord sur l'Espace économique européen, dans des fonctions au moins équivalentes à celles d'assistant ingénieur, sont pris en compte à raison de la moitié de leur durée jusqu'à douze ans et des trois quarts de cette durée au-delà de douze ans.

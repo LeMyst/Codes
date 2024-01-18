@@ -1,0 +1,5 @@
+# Article R327-6
+
+Les délibérations du conseil d'administration autres que celles mentionnées aux deuxième et troisième alinéas sont exécutoires quinze jours après leur réception par le ministre chargé de la recherche et par le ministre chargé des affaires sociales, à moins que l'un d'eux n'y fasse opposition dans ce délai. En cas d'urgence, le ministre chargé de la recherche et le ministre chargé des affaires sociales peuvent conjointement autoriser l'exécution immédiate d'une délibération.\
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.\
+Les délibérations portant sur les matières énumérées aux 7° et 9° de l'article R. 327-5 ainsi que sur les conventions d'une durée de cinq ans au moins sont exécutoires après approbation par arrêté du ministre chargé de la recherche, du ministre chargé des affaires sociales et du ministre chargé du budget ainsi que, pour le 9°, du ministre chargé des finances.

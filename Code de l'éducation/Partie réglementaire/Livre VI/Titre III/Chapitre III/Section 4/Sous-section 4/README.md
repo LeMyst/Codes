@@ -1,0 +1,1 @@
+Sous-section 4 : Accès aux formations du troisième cycle spécialisé pour les pharmaciens autres que les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique européen, de la Confédération helvétique ou de la Principauté d'Andorre

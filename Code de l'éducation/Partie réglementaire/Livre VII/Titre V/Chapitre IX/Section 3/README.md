@@ -1,0 +1,1 @@
+Section 3 : Agrément des établissements assurant une préparation à l'entrée dans les établissements d'enseignement supérieur de la création artistique dans les domaines du spectacle vivant et des arts plastiques

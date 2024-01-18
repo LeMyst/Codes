@@ -1,0 +1,1 @@
+Paragraphe unique : Dispositions générales.

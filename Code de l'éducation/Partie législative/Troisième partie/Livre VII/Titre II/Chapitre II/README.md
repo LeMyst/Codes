@@ -1,0 +1,1 @@
+Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres, les écoles supérieures du professorat et de l'éducation et les instituts nationaux supérieurs du professorat et de l'éducation

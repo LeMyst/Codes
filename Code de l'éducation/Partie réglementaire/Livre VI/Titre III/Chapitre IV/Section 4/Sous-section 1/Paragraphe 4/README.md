@@ -1,0 +1,1 @@
+Paragraphe 4 : Accès au troisième cycle long pour les praticiens français ou ressortissants des autres Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique européen, de la Confédération helvétique ou de la Principauté d'Andorre

@@ -1,0 +1,1 @@
+Sous-section 1 : Conditions d'exercice du droit de suffrage, composition des collèges électoraux et modalités d'assimilation et d'équivalence de niveau pour la représentation des personnels et des étudiants aux conseils

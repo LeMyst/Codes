@@ -1,0 +1,1 @@
+Paragraphe 3 : Dispositions applicables aux étudiants étrangers non ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération helvétique

@@ -1,6 +1,6 @@
 # Article R5332-48
 
-I. – A l'exception de l'agrément mentionné au 1° de l'article R. 5332-41, qui est délivré par le préfet du département dans lequel est situé le siège social de l'organisme de sûreté habilité, les agréments et l'habilitation énumérés à cet article sont délivrés par le préfet du département dans lequel est situé le port et, pour l'agrément mentionné au 5°, conjointement avec le procureur de la République territorialement compétent.
+I. – A l'exception de l'agrément mentionné au 1° de l'article R. 5332-47, qui est délivré par le préfet du département dans lequel est situé le siège social de l'organisme de sûreté habilité, les agréments et l'habilitation énumérés à cet article sont délivrés par le préfet du département dans lequel est situé le port et, pour l'agrément mentionné au 5°, conjointement avec le procureur de la République territorialement compétent.
 
 Ces agréments et cette habilitation sont valables sur l'ensemble du territoire national, pour une durée de cinq ans.
 
@@ -8,13 +8,13 @@ II. – Ces agréments et cette habilitation sont demandés :
 
 1° Par la personne morale demandeuse ou détentrice de l'habilitation prévue à l'article L. 5332-20 pour l'agrément prévu à l'article R. 5332-64 ;
 
-2° Par l'autorité portuaire pour l'agrément prévu à l'article R. 5332-19 ;
+2° Par l'autorité portuaire pour l'agrément prévu à l'article R. 5332-22 ;
 
-3° Par l'exploitant de l'installation portuaire pour l'agrément prévu à l'article R. 5332-23 ;
+3° Par l'exploitant de l'installation portuaire pour l'agrément prévu à l'article R. 5332-28 ;
 
-4° Par l'employeur pour l'habilitation prévue à l'article R. 5332-31 ; dans ce cas, la demande est transmise par l'exploitant de l'installation portuaire auprès duquel l'employeur a demandé un titre d'accès ;
+4° Par l'employeur pour l'habilitation prévue à l'article R. 5332-35 ; dans ce cas, la demande est transmise par l'exploitant de l'installation portuaire auprès duquel l'employeur a demandé un titre d'accès ;
 
-5° Selon le cas, par l'exploitant de l'installation portuaire ou par l'armateur du navire pour l'agrément prévu à l'article R. 5332-38.
+5° Selon le cas, par l'exploitant de l'installation portuaire ou par l'armateur du navire pour l'agrément prévu à l'article R. 5332-42.
 
 Le demandeur constitue, pour chaque demande, un dossier dont la composition et les modalités de transmission sont fixés par un arrêté conjoint des ministres de la justice, de l'intérieur, de la défense et des ministres chargés des transports et des douanes. Cet arrêté précise également la procédure d'agrément ou d'habilitation.
 
@@ -42,7 +42,7 @@ Le retrait intervient, le cas échéant, après une nouvelle enquête administra
 
 En cas d'urgence, les agréments ou l'habilitation peuvent être suspendus sans préavis par le préfet pour une durée maximale de deux mois.
 
-En cas d'urgence impérieuse, l'habilitation prévue à l'article R. 5332-41 peut être suspendue à titre conservatoire pour une durée maximale de quarante-huit heures par le représentant de l'autorité investie du pouvoir de police portuaire qui en informe immédiatement le préfet.
+En cas d'urgence impérieuse, l'habilitation prévue à l'article R. 5332-47 peut être suspendue à titre conservatoire pour une durée maximale de quarante-huit heures par le représentant de l'autorité investie du pouvoir de police portuaire qui en informe immédiatement le préfet.
 
 V.-Les décisions d'agrément et d'habilitation, ainsi que les décisions de retrait et de suspension, sont notifiées à l'intéressé et, selon le cas à :
 

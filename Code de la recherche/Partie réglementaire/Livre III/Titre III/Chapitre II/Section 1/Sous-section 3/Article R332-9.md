@@ -9,12 +9,12 @@ Il comprend en outre les membres suivants :\
 2° Le haut-commissaire à l'énergie atomique ;\
 3° Le chef d'état-major des armées ou son représentant ;\
 4° Le délégué général pour l'armement ou son représentant ;\
-5° Le ministre chargé de l'énergie ou son représentant;\
+5° Le ministre chargé de l'énergie ou son représentant ;\
 6° Le ministre chargé de la recherche ou son représentant ;\
-7° Le ministre chargé des entreprises ou son représentant;\
-8° Le ministre chargé du budget ou son représentant;\
+7° Le ministre chargé des entreprises ou son représentant ;\
+8° Le ministre chargé du budget ou son représentant ;\
 9° Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ;\
-10° Le ministre de la défense ou son représentant;\
+10° Le ministre de la défense ou son représentant ;\
 11° Le ministre des affaires étrangères ou son représentant.\
 Le président peut appeler à participer aux séances toute personne dont il juge la présence utile aux débats.\
 Le chef de la mission de contrôle mentionnée à l'article R. 332-13 participe aux réunions du comité avec voix consultative.\

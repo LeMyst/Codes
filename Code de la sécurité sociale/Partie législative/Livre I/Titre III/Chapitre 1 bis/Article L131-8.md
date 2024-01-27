@@ -52,7 +52,7 @@ f) A la Caisse nationale de solidarité pour l'autonomie pour les contributions 
 
 a) Au fonds mentionné à l'article L. 135-1, pour la part correspondant à un taux de 6,67 % ;
 
-b) A la Caisse d'amortissement de la dette sociale, pour la part correspondant à un taux de 0,60 % ;
+b) A la Caisse d'amortissement de la dette sociale, pour la part correspondant à un taux de 0,45 % ;
 
 c) A la Caisse nationale de solidarité pour l'autonomie, pour la part correspondant à un taux de 2,08 % ;
 

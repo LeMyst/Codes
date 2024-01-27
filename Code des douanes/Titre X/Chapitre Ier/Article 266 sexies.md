@@ -1,6 +1,6 @@
 # Article 266 sexies
 
-I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
+I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
@@ -10,9 +10,9 @@ c) Toute personne réceptionnant des déchets radioactifs métalliques et exploi
 
 Pour l'application du présent article et des articles 266 septies à 266 undecies du présent code :
 
-- les déchets s'entendent des déchets définis au deuxième alinéa de l'article L. 541-1-1 du code de l'environnement, à l'exception des déchets radioactifs métalliques ;
+-les déchets s'entendent des déchets définis au deuxième alinéa de l'article L. 541-1-1 du code de l'environnement, à l'exception des déchets radioactifs métalliques ;
 
-- les déchets radioactifs métalliques s'entendent des déchets définis au cinquième alinéa de l'article L. 542-1-1 du même code qui sont de nature métallique et qui sont susceptibles de contenir des substances radioactives autres que celles d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaînes de l'uranium et du thorium est supérieure à 20 becquerels par gramme ;
+-les déchets radioactifs métalliques s'entendent des déchets définis au cinquième alinéa de l'article L. 542-1-1 du même code qui sont de nature métallique et qui sont susceptibles de contenir des substances radioactives autres que celles d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaînes de l'uranium et du thorium est supérieure à 20 becquerels par gramme ;
 
 2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
@@ -34,7 +34,7 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise su
 
 1. (Abrogé)
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -56,7 +56,7 @@ a) Ces résidus constituent des déchets dangereux et les déchets dont ils sont
 
 b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise les éléments caractérisant cette impossibilité technique ;
 
-1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits énergétiques prévue respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits énergétiques prévue respectivement aux articles 265, 266 quater, 266 quinquies et 266 quinquies B ;
 
 1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
 
@@ -116,8 +116,8 @@ c) L'installation de traitement des déchets répond aux caractéristiques suiva
 
 1. (Abrogé).
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets ou déchets radioactifs métalliques et aux traitements associés, à l'origine géographique des déchets ou déchets radioactifs métalliques, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
+IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets ou déchets radioactifs métalliques et aux traitements associés, à l'origine géographique des déchets ou déchets radioactifs métalliques, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
 
 Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation d'effet équivalent à cette autorisation.

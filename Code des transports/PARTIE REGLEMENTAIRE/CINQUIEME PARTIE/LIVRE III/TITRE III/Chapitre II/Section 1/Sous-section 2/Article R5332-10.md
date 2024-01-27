@@ -22,7 +22,7 @@ III.-Lorsqu'il est consulté par le représentant de l'Etat dans le département
 
 1° Sur les problématiques de sûreté propres à une installation portuaire, en particulier sur l'opportunité d'y créer une zone à accès restreint ;
 
-2° Sur toutes les questions relatives à la sûreté dans les limites portuaires de sûreté définies à l'article R. 5332-1 ;
+2° Sur toutes les questions relatives à la sûreté dans les limites portuaires de sûreté définies à l'article R. 5332-18 ;
 
 3° Sur toute mesure propre à renforcer la vigilance, telle que des actions d'information, de sensibilisation ou de formation, ainsi que les exercices et entraînements ;
 

@@ -1,6 +1,6 @@
 # Article R5332-57
 
-L'habilitation en qualité d'organisme de sûreté est délivrée par arrêté du ministre chargé des transports pris après avis de la commission d'habilitation instituée à l'article R. 5332-41, en fonction de critères définis par un arrêté de ce ministre.
+L'habilitation en qualité d'organisme de sûreté est délivrée par arrêté du ministre chargé des transports pris après avis de la commission d'habilitation instituée à l'article R. 5332-55, en fonction de critères définis par un arrêté de ce ministre.
 
 L'habilitation est délivrée pour une durée maximale de cinq ans.
 

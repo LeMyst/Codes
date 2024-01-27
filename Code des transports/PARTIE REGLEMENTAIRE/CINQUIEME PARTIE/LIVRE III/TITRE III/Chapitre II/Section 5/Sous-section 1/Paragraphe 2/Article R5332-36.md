@@ -1,6 +1,6 @@
 # Article R5332-36
 
-Le titre de circulation permanent exigé dans les cas prévus par l'arrêté ministériel pris en application de l'article R. 5332-32 est délivré par l'exploitant de l'installation portuaire aux personnes habilitées pour la durée nécessaire à l'exercice de l'activité en zone à accès restreint de chacune d'elles, dans la limite de durée de validité de l'habilitation et sans pouvoir dépasser cinq ans.
+Le titre de circulation permanent exigé dans les cas prévus par l'arrêté ministériel pris en application de l'article R. 5332-39 est délivré par l'exploitant de l'installation portuaire aux personnes habilitées pour la durée nécessaire à l'exercice de l'activité en zone à accès restreint de chacune d'elles, dans la limite de durée de validité de l'habilitation et sans pouvoir dépasser cinq ans.
 
 Il précise, le cas échéant, les secteurs de la zone à accès restreint auxquels son titulaire est autorisé à accéder.
 

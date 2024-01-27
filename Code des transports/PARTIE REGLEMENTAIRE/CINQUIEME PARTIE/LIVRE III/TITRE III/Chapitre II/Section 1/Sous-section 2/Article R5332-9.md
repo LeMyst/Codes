@@ -10,7 +10,7 @@ Dans chacun des ports mentionnés au I de l'article R. 5332-1, ou pour un groupe
 
 4° Du commandant de zone maritime pour les ports métropolitains ou du commandant supérieur des forces armées pour les ports d'outre-mer ;
 
-5° De l'autorité portuaire, dont l'agent de sûreté portuaire mentionné à l'article R. 5332-19 ;
+5° De l'autorité portuaire, dont l'agent de sûreté portuaire mentionné à l'article R. 5332-22 ;
 
 6° De l'autorité investie du pouvoir de police portuaire ;
 

@@ -1,6 +1,6 @@
 # Article R5332-45
 
-Lorsque l'évaluation de sûreté de l'installation portuaire ne conclut pas à la nécessité de créer une zone à accès restreint mais que la nature du trafic justifie qu'il soit procédé à des contrôles spécifiques, l'exploitant met en place un dispositif destiné à interdire l'accès de toute personne non autorisée et à empêcher l'introduction des articles mentionnés à l'article R. 5332-62.
+Lorsque l'évaluation de sûreté de l'installation portuaire ne conclut pas à la nécessité de créer une zone à accès restreint mais que la nature du trafic justifie qu'il soit procédé à des contrôles spécifiques, l'exploitant met en place un dispositif destiné à interdire l'accès de toute personne non autorisée et à empêcher l'introduction des articles mentionnés à l'article R. 5332-15.
 
 Le plan de sûreté de l'installation portuaire détaille le dispositif retenu et les mesures prises par l'exploitant, qui comprennent au moins, dès le niveau de sûreté 1 :
 

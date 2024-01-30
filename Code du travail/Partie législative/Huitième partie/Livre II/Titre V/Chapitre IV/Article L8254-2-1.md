@@ -4,4 +4,4 @@ Toute personne mentionnée à l'article L. 8254-1, informée par écrit par un a
 
 L'employeur mis ainsi en demeure informe la personne mentionnée au premier alinéa des suites données à l'injonction. Si celle-ci n'est pas suivie d'effet, la personne mentionnée au premier alinéa peut résilier le contrat aux frais et risques du cocontractant.
 
-La personne qui méconnaît le premier alinéa ainsi que son cocontractant sont tenus, solidairement avec le sous-traitant employant l'étranger non autorisé à travailler, au paiement des rémunérations et charges, contributions et frais mentionnés à l'article L. 8254-2.
+La personne qui méconnaît le premier alinéa ainsi que son cocontractant sont tenus, solidairement avec le sous-traitant employant l'étranger non autorisé à travailler, au paiement des rémunérations et charges, amendes et frais mentionnés à l'article L. 8254-2.

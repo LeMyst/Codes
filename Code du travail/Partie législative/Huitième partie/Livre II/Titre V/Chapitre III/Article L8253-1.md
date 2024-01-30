@@ -1,9 +1,17 @@
 # Article L8253-1
 
-Sans préjudice des poursuites judiciaires pouvant être intentées à son encontre, l'employeur qui a employé un travailleur étranger en méconnaissance des dispositions du premier alinéa de l'article L. 8251-1 acquitte, pour chaque travailleur étranger non autorisé à travailler, une contribution spéciale. Le montant de cette contribution spéciale est déterminé dans des conditions fixées par décret en Conseil d'Etat. Il est, au plus, égal à 5 000 fois le taux horaire du minimum garanti prévu à l'article L. 3231-12. Ce montant peut être minoré en cas de non-cumul d'infractions ou en cas de paiement spontané par l'employeur des salaires et indemnités dus au salarié étranger non autorisé à travailler mentionné à l'article R. 8252-6. Il est alors, au plus, égal à 2 000 fois ce même taux. Il peut être majoré en cas de réitération et est alors, au plus, égal à 15 000 fois ce même taux.
+Le ministre chargé de l'immigration prononce, au vu des procès-verbaux et des rapports qui lui sont transmis en application de l'article L. 8271-17, une amende administrative contre l'auteur d'un manquement aux articles L. 8251-1 et L. 8251-2, sans préjudice des poursuites judiciaires pouvant être intentées à son encontre.
 
-L'Office français de l'immigration et de l'intégration est chargé de constater et fixer le montant de cette contribution pour le compte de l'Etat selon des modalités définies par convention.
+Lorsqu'il prononce l'amende, le ministre chargé de l'immigration prend en compte, pour déterminer le montant de cette dernière, les capacités financières de l'auteur d'un manquement, le degré d'intentionnalité, le degré de gravité de la négligence commise et les frais d'éloignement du territoire français du ressortissant étranger en situation irrégulière.
 
-L'Etat est ordonnateur de la contribution spéciale. A ce titre, il liquide et émet le titre de perception.
+Le montant de l'amende est, au plus, égal à 5 000 fois le taux horaire du minimum garanti prévu à l'article L. 3231-12. Il peut être majoré en cas de réitération et est alors, au plus, égal à 15 000 fois ce même taux.
 
-Le comptable public compétent assure le recouvrement de cette contribution comme en matière de créances étrangères à l'impôt et aux domaines.
+L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
+
+Lorsque sont prononcées, à l'encontre de la même personne, une amende administrative en application du présent article et une sanction pénale en application des articles L. 8256-2, L. 8256-7 et L. 8256-8 à raison des mêmes faits, le montant global des amendes prononcées ne dépasse pas le maximum légal le plus élevé des sanctions encourues.
+
+L'Etat est ordonnateur de l'amende. A ce titre, il liquide et émet le titre de perception.
+
+Le comptable public compétent assure le recouvrement de cette amende comme en matière de créances étrangères à l'impôt et aux domaines.
+
+Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.

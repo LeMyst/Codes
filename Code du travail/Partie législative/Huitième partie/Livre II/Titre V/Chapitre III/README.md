@@ -1,1 +1,1 @@
-Chapitre III : Contribution spéciale.
+Chapitre III : Amende administrative.

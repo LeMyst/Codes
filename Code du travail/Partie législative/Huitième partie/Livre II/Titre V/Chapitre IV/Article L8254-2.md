@@ -8,4 +8,4 @@ La personne qui méconnaît l'article L. 8254-1 est tenue solidairement avec son
 
 3° De tous les frais d'envoi des rémunérations impayées vers le pays dans lequel l'étranger est parti volontairement ou a été reconduit, mentionnés au 3° de l'article L. 8252-2 ;
 
-4° De la contribution spéciale prévue à l'article L. 8253-1 du présent code et de la contribution forfaitaire prévue à l'article L. 822-2 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+4° De l'amende administrative prévue à l'article L. 8253-1 du présent code.

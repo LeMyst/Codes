@@ -4,4 +4,6 @@ Un étranger autorisé à séjourner en France ne peut exercer une activité pro
 
 L'autorisation de travail est accordée de droit à l'étranger autorisé à séjourner en France pour la conclusion d'un contrat d'apprentissage ou de professionnalisation à durée déterminée. Cette autorisation est accordée de droit aux mineurs isolés étrangers pris en charge par l'aide sociale à l'enfance, sous réserve de la présentation d'un contrat d'apprentissage ou de professionnalisation.
 
+Lorsqu'un titre de séjour “ salarié ” ou “ travailleur temporaire ” est délivré à l'étranger sur le fondement de l'article L. 435-4 du code de l'entrée et du séjour des étrangers et du droit d'asile, l'autorité administrative vérifie par tout moyen la réalité de l'activité alléguée.
+
 L'autorisation de travail peut être retirée si l'étranger ne s'est pas fait délivrer un certificat médical dans les trois mois suivant la délivrance de cette autorisation.

@@ -6,13 +6,7 @@ Les infractions mentionnées au premier alinéa du présent I sont les actes de 
 
 Sont exclues de ce traitement automatisé de données les données à caractère personnel susceptibles de révéler l'origine raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance à un syndicat, ou les données qui concernent la santé ou la vie sexuelle de l'intéressé.
 
-II.-Pour la mise en œuvre du traitement mentionné au I du présent article, les exploitants de navire recueillent et transmettent les données d'enregistrement relatives aux passagers à destination et en provenance du territoire national voyageant à bord d'un navire à passagers faisant l'objet d'une certification :
-
-1° Soit au sens du code international pour la sûreté des navires et des installations portuaires adopté à Londres le 12 décembre 2002 en application de la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974, modifiée ;
-
-2° Soit en application du 2 de l'article 3 du règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif à l'amélioration de la sûreté des navires et des installations portuaires ;
-
-3° Soit en application du 3 de l'article 3 du règlement (CE) n° 725/2004 du 31 mars 2004 précité après décision du ministre chargé de la mer.
+II.-Pour la mise en œuvre du traitement mentionné au I du présent article, les exploitants de navire recueillent et transmettent les données d'enregistrement relatives aux passagers et aux gens de mer qui voyagent, à destination et en provenance du territoire national, à bord d'un navire effectuant des voyages internationaux, au sens du code international pour la sûreté des navires et des installations portuaires.
 
 Les données concernées sont celles mentionnées au quatrième alinéa de l'article L. 232-4 du présent code.
 

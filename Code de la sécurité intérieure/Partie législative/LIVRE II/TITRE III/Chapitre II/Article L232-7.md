@@ -6,7 +6,7 @@ Les infractions mentionnées au premier alinéa du présent I sont les actes de 
 
 Sont exclues de ce traitement automatisé de données les données à caractère personnel susceptibles de révéler l'origine raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance à un syndicat, ou les données qui concernent la santé ou la vie sexuelle de l'intéressé.
 
-II. - Pour la mise en œuvre du traitement mentionné au I, les transporteurs aériens recueillent et transmettent les données d'enregistrement relatives aux passagers des déplacements à destination et en provenance du territoire national, à l'exception des déplacements reliant deux points de la France métropolitaine. Les données concernées sont celles mentionnées au premier alinéa de l'article L. 232-4 du présent code.
+II. - Pour la mise en œuvre du traitement mentionné au I, les transporteurs aériens recueillent et transmettent les données d'enregistrement relatives aux passagers et aux membres d'équipage des déplacements à destination et en provenance du territoire national, à l'exception des déplacements reliant deux points de la France métropolitaine. Les données concernées sont celles mentionnées au premier alinéa de l'article L. 232-4 du présent code.
 
 Les transporteurs aériens sont également tenus de communiquer les données relatives aux passagers enregistrées dans leurs systèmes de réservation.
 

@@ -2,6 +2,8 @@
 
 L'entrepreneur individuel est une personne physique qui exerce en son nom propre une ou plusieurs activités professionnelles indépendantes.
 
+Le statut d'entrepreneur individuel n'est pas accessible aux étrangers ressortissants de pays non membres de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse ne disposant pas d'un titre de séjour les autorisant à exercer sous ce statut.
+
 Les biens, droits, obligations et sûretés dont il est titulaire et qui sont utiles à son activité ou à ses activités professionnelles indépendantes constituent le patrimoine professionnel de l'entrepreneur individuel. Sous réserve du livre VI du présent code, ce patrimoine ne peut être scindé. Les éléments du patrimoine de l'entrepreneur individuel non compris dans le patrimoine professionnel constituent son patrimoine personnel.
 
 La distinction des patrimoines personnel et professionnel de l'entrepreneur individuel ne l'autorise pas à se porter caution en garantie d'une dette dont il est débiteur principal.

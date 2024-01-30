@@ -9,5 +9,3 @@ Les personnes physiques coupables de l'une des infractions prévues au présent 
 3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
 
 4° La confiscation, suivant les modalités prévues par l'article 131-21, de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-
-L'interdiction du territoire français peut en outre être prononcée dans les conditions prévues par les articles 131-30 à 131-30-2 soit à titre définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger qui s'est rendu coupable de l'une des infractions prévues au présent chapitre.

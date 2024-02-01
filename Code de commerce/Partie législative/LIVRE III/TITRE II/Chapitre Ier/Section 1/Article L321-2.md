@@ -6,4 +6,4 @@ Lorsqu'ils satisfont à des conditions de formation fixées par la voie régleme
 
 Hormis les cas prévus à l'article L. 321-36, la dénomination " ventes aux enchères publiques " est réservée aux ventes organisées et réalisées par les personnes mentionnées au présent article.
 
-Tout autre usage de cette dénomination est passible des sanctions prévues à l'article L. 121-6 du code de la consommation.
+Tout autre usage de cette dénomination est passible des sanctions prévues à l'article L. 132-2 du code de la consommation.

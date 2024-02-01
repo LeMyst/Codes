@@ -22,7 +22,7 @@ Le plan a vocation à être élaboré en association avec les parties prenantes 
 
 5° Un dispositif de suivi des mesures mises en œuvre et d'évaluation de leur efficacité.
 
-Le plan de vigilance et le compte rendu de sa mise en œuvre effective sont rendus publics et inclus dans le rapport de gestion mentionné au deuxième alinéa de l'article L. 225-100 (1).
+Le plan de vigilance et le compte rendu de sa mise en œuvre effective sont rendus publics et inclus dans le rapport de gestion mentionné au deuxième alinéa de l'article L. 225-100.
 
 Un décret en Conseil d'Etat peut compléter les mesures de vigilance prévues aux 1° à 5° du présent article. Il peut préciser les modalités d'élaboration et de mise en œuvre du plan de vigilance, le cas échéant dans le cadre d'initiatives pluripartites au sein de filières ou à l'échelle territoriale.
 

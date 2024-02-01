@@ -84,10 +84,10 @@ b) Du financement du fonds mentionné à l'article L. 815-26, à hauteur de ses 
 
 c) A hauteur du solde du produit résultant des affectations mentionnées aux a et b du présent 8°, du financement des charges de la branche mentionnée au 1° de l'article L. 200-2 ;
 
-9° Une fraction de 28,50 %, minorée d'un montant de 2 milliards d'euros en 2023, de la taxe sur la valeur ajoutée brute budgétaire, déduction faite des remboursements et restitutions effectués pour l'année en cours par les comptables assignataires, est affectée :
+9° Une fraction de 28,57 %, minorée d'un montant de 2,6 milliards d'euros en 2024, de la taxe sur la valeur ajoutée brute budgétaire, déduction faite des remboursements et restitutions effectués pour l'année en cours par les comptables assignataires, est affectée :
 
-a) A la branche mentionnée au 1° de l'article L. 200-2, à concurrence de 23,32 points ;
+a) A la branche mentionnée au 1° de l'article L. 200-2, à concurrence de 23,39 points ;
 
-b) A l'Agence centrale des organismes de sécurité sociale au titre de ses missions prévues aux 7° et 7° bis de l'article L. 225-1-1, à concurrence de 5,18 points, le montant correspondant étant minoré de 2 milliards d'euros en 2023.
+b) A l'Agence centrale des organismes de sécurité sociale au titre de ses missions prévues aux 7° et 7° bis de l'article L. 225-1-1, à concurrence de 5,18 points, le montant correspondant étant minoré de 2,6 milliards d'euros en 2024.
 
 L'Agence centrale des organismes de sécurité sociale est chargée de centraliser et de répartir entre leurs affectataires le produit des taxes et des impôts mentionnés au présent article. La répartition entre les affectataires est effectuée en appliquant les fractions définies au présent article pour leur valeur en vigueur à la date du fait générateur de ces taxes et impôts.

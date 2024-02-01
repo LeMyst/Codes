@@ -7,7 +7,7 @@ Sous réserve des adaptations prévues par le présent chapitre, et des compéte
 | Titre I |  |
 | D. 6200-1 à D. 6200-3 |  |
 | D. 6212-1 et D. 6212-2 |  |
-| D. 6212-12 |  |
+| D. 6212-12 | Décret n° 2023-1109 du 29 novembre 2023 |
 | D. 6213-2 et D. 6213-3 |  |
 | D. 6213-5 et D. 6213-6 |  |
 | D. 6213-8 |  |

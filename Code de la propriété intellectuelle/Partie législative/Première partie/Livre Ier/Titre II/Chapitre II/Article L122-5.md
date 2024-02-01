@@ -34,7 +34,7 @@ Ces personnes empêchées peuvent également, en vue d'une consultation strictem
 
 Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-mêmes à rendre compte de l'information ;
 
-Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés.
+Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés ;
 
 10° Les copies ou reproductions numériques d'une œuvre en vue de la fouille de textes et de données réalisée dans les conditions prévues à l'article L. 122-5-3 ;
 
@@ -45,8 +45,6 @@ Les reproductions ou représentations qui, notamment par leur nombre ou leur for
 12° La représentation ou la reproduction d'extraits d'œuvres à des fins exclusives d'illustration dans le cadre de l'enseignement et de la formation professionnelle, dans les conditions prévues à l'article L. 122-5-4 ;
 
 13° La représentation et la reproduction d'une œuvre indisponible au sens de l'article L. 138-1, dans les conditions prévues à l'article L. 122-5-5.
-
-Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés.
 
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'oeuvre ni causer un préjudice injustifié aux intérêts légitimes de l'auteur.
 

@@ -1,6 +1,8 @@
 # Article L721-8
 
-I. ― Sans préjudice des articles L. 115-16 du code de la consommation et L. 722-1 du présent code, les dénominations enregistrées sont protégées contre : 1° Toute utilisation commerciale directe ou indirecte d'une dénomination enregistrée à l'égard des produits non couverts par l'enregistrement, lorsque ces produits sont comparables à ceux enregistrés sous cette dénomination ou lorsque cette utilisation permet de profiter de la réputation de la dénomination protégée ;
+I. ― Sans préjudice des articles L. 431-2 du code de la consommation et L. 722-1 du présent code, les dénominations enregistrées sont protégées contre :
+
+1° Toute utilisation commerciale directe ou indirecte d'une dénomination enregistrée à l'égard des produits non couverts par l'enregistrement, lorsque ces produits sont comparables à ceux enregistrés sous cette dénomination ou lorsque cette utilisation permet de profiter de la réputation de la dénomination protégée ;
 
 2° Toute usurpation, imitation ou évocation, même si l'origine véritable des produits ou des services est indiquée ou si la dénomination protégée est traduite ou accompagnée d'une expression telle que " genre ", " type ", " méthode ", " façon ", " imitation " ou d'une expression similaire ;
 

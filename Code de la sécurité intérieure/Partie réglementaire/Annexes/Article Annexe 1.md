@@ -12,7 +12,7 @@ En aucun cas il ne peut être confié à la police municipale de mission de main
 
 La présente convention, établie conformément aux dispositions de l'article L. 512-4 du code de la sécurité intérieure, précise la nature et les lieux des interventions des agents de police municipale. Elle détermine les modalités selon lesquelles ces interventions sont coordonnées avec celles des forces de sécurité de l'Etat.
 
-Pour l'application de la présente convention, les forces de sécurité de l'Etat sont la police nationale dans les communes placées sous le régime de la police d'Etat et la gendarmerie nationale dans les autres communes (à préciser). Les responsables des forces de sécurité de l'Etat sont, selon le cas, le chef de la circonscription de sécurité publique ou le commandant de la communauté de brigades ou de la brigade territoriale autonome de gendarmerie territorialement compétents.
+Pour l'application de la présente convention, les forces de sécurité de l'Etat sont la police nationale dans les communes placées sous le régime de la police d'Etat et la gendarmerie nationale dans les autres communes (à préciser). Les responsables des forces de sécurité de l'Etat sont, selon le cas, le chef de la circonscription de police nationale ou le commandant de la communauté de brigades ou de la brigade territoriale autonome de gendarmerie territorialement compétents.
 
 Article 1er
 
@@ -101,10 +101,7 @@ Dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative 
 
 Article 13
 
-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L. 221-2,
-L. 223-5,
-L. 224-16, L. 224-17, L. 224-18,
-L. 231-2, L. 233-1, L. 233-2, L. 234-1 à L. 234-9 et L. 235-2 du code de la route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent. A cette fin, le responsable des forces de sécurité de l'Etat et le responsable de la police municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances.
+Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L. 221-2, L. 223-5, L. 224-16, L. 224-17, L. 224-18, L. 231-2, L. 233-1, L. 233-2, L. 234-1 à L. 234-9 et L. 235-2 du code de la route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent. A cette fin, le responsable des forces de sécurité de l'Etat et le responsable de la police municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances.
 
 Article 14
 

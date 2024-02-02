@@ -1,1 +1,1 @@
-Section 2 : Du contrôle de la profession
+Section 2 : Du statut des commissaires aux comptes

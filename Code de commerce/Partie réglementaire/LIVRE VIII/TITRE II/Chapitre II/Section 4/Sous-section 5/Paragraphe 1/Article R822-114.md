@@ -1,3 +1,0 @@
-# Article R822-114
-
-Un arrêté du garde des sceaux, ministre de la justice, fixe les conditions dans lesquelles la liste des sociétés de participations financières de profession libérale de commissaires aux comptes est tenue, mise à jour, publiée et transmise annuellement à la Haute autorité de l'audit par la Compagnie nationale des commissaires aux comptes.

@@ -1,0 +1,3 @@
+# Article R820-21
+
+L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de la Haute autorité. Les recettes sont recouvrées soit spontanément, soit en exécution des instructions du président. A l'exception des contributions mentionnées à l'article L. 820-10 et des cotisations mentionnées aux articles L. 820-11 et L. 820-12, dont le recouvrement relève de la procédure de l'état exécutoire, l'agent comptable adresse aux débiteurs les factures correspondantes et reçoit leurs règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.

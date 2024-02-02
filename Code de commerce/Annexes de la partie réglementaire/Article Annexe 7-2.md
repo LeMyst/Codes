@@ -363,7 +363,7 @@ Rodez |\
 |\
 Hérault |\
 Béziers |\
-22 |\
+24 |\
 4 |
 |   |\
 Montpellier |\

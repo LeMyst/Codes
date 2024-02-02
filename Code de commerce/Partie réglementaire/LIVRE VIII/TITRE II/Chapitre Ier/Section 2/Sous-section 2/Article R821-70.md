@@ -1,0 +1,3 @@
+# Article R821-70
+
+La nature et la durée des activités susceptibles d'être validées au titre de l'obligation de formation continue prévue à l'article L. 821-24 sont déterminées par arrêté du garde des sceaux, ministre de la justice, sur proposition de la Compagnie nationale et après avis de la Haute autorité. Les commissaires aux comptes déclarent annuellement, au plus tard le 31 mars, auprès de la Haute autorité de l'audit ou de son délégataire, les conditions dans lesquelles ils ont satisfait à leur obligation de formation professionnelle continue au cours de l'année civile écoulée. Les modalités de cette déclaration sont définies par la Haute autorité.

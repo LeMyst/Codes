@@ -1,1 +1,1 @@
-Sous-section 1 : De la Haute autorité de l'audit
+Sous-section 1 : Dispositions générales

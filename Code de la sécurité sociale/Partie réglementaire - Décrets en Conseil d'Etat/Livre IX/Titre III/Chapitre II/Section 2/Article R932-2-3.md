@@ -10,4 +10,4 @@ Ces informations, dont le caractère commercial doit apparaître sans équivoque
 
 Sous réserve de l'accord formel du membre participant, seules les informations visées aux 2°, 3° et 5° du III de l'article L. 932-15-1 peuvent lui être communiquées. Le membre participant est toutefois informé que les informations visées aux 1°, 4°, 6° et 7° peuvent lui être fournies sur demande.
 
-En outre, l'institution de prévoyance ou l'union est tenue de fournir l'ensemble des informations mentionnées au III de l'article L. 932-15-1 lorsqu'elle remplit ses obligations en vertu de l'article L. 121-28 du code de la consommation.
+En outre, l'institution de prévoyance ou l'union est tenue de fournir l'ensemble des informations mentionnées au III de l'article L. 932-15-1 lorsqu'elle remplit ses obligations en vertu de l'article L. 222-6 du code de la consommation.

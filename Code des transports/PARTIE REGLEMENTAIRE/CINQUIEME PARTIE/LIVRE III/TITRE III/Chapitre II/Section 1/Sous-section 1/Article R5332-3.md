@@ -6,4 +6,4 @@ Le groupe interministériel de sûreté du transport maritime et des opérations
 
 2° Formule un avis sur toutes questions de sa compétence qui lui sont soumises par les ministres concernés ;
 
-3° Oriente l'action des comités locaux de sûreté portuaire institués à l'article R. 5332-56.
+3° Oriente l'action des comités locaux de sûreté portuaire institués à l'article R. 5332-9.

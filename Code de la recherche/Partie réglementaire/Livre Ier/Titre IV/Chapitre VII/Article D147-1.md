@@ -4,21 +4,9 @@ Sous réserve des adaptations prévues par le présent chapitre, sont applicable
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-D. 112-1
-|  |
-|
-D. 112-8 à D. 112-11
-|  |
-|
-D. 114-2
-|  |
-|
-D. 114-16
-|  |
-|
-D. 120-1 à D. 120-4
-|  |
-|
-D. 123-1
-|  |
+|  D. 112-1  |  |
+|  D. 112-8 à D. 112-11  |  |
+|  D. 114-2  |  |
+|  D. 114-16  |  |
+|  D. 120-1 à D. 120-4  |  |
+|  D. 123-1  |  |

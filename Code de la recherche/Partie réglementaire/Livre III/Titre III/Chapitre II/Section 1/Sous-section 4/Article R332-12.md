@@ -13,3 +13,6 @@ Les modalités de nomination des membres ainsi que la composition et les règles
 Le mandat des membres du conseil scientifique est d'une durée de quatre ans, renouvelable une fois.
 
 Le conseil scientifique se réunit à la demande du haut-commissaire et au moins une fois par an.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-1383 du 30 décembre 2023, ces dispositions entrent en vigueur le 2 janvier 2024.

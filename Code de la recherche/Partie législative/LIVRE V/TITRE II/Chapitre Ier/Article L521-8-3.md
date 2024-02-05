@@ -7,3 +7,6 @@ Ces organismes sont également compétents, dans les mêmes limites, pour pronon
 Toutefois, pour les biens des industries de l'ameublement et du bois mentionnés respectivement aux articles L. 471-7 et L. 471-8 du code des impositions sur les biens et services, seul l'organisme mentionné au 4° de l'article 5-1 de la loi n° 78-654 du 22 juin 1978 est compétent.
 
 Le présent article n'est pas applicable aux taxes exigibles lors de l'importation.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

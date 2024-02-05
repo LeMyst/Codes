@@ -21,3 +21,10 @@ Le conseil d'administration comprend :
 Les membres du conseil d'administration mentionnés aux 1°, 2°, 3° et 7° représentent au moins les deux tiers de l'effectif du conseil.
 
 Le président de l'établissement, choisi parmi les membres du conseil d'administration sur proposition de celui-ci, est nommé par décret pris sur le rapport des ministres chargés de l'enseignement supérieur et de la recherche. Il préside le conseil d'administration et dirige l'établissement. Il est assisté par un bureau qu'il préside et qui est composé des représentants des établissements et des organismes membres de l'établissement siégeant au conseil d'administration.
+
+NOTA:
+Conformément au III de l'article 17 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.
+
+Les mandats en cours des membres du conseil d'administration et du conseil scientifique courent jusqu'à l'entrée en vigueur des dispositions de ladite loi.
+
+Le président en fonction à la date de publication de la loi susmentionnée reste en fonction jusqu'à la nomination du prochain président dans les conditions prévues par cette loi.

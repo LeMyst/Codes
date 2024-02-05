@@ -15,3 +15,6 @@ Dans les cas prévus aux articles L. 531-6, L. 531-8, L. 531-12 et L. 531-13 le 
 L'autorité peut, préalablement à sa décision, demander l'avis de la Haute Autorité pour la transparence de la vie publique mentionnée à l'article 25 octies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
 
 La mise à disposition prévue aux articles L. 531-4 et L. 531-8 du présent code donne lieu à remboursement par l'entreprise dans les conditions prévues par voie réglementaire.
+
+NOTA:
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er février 2020.

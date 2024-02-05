@@ -15,3 +15,6 @@ L'établissement public Campus Condorcet a également pour missions de :
 6° Coordonner, avec tout ou partie des établissements et organismes membres, l'élaboration et la mise en œuvre de programmes de recherche et d'innovation, notamment de programmes favorisant l'interdisciplinarité entre les sciences humaines et sociales et les autres domaines scientifiques ;
 
 7° Assurer la mise en œuvre d'activités et de projets qui lui sont confiés par tout ou partie de ses membres, notamment en matière scientifique.
+
+NOTA:
+Conformément au III de l'article 17 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.

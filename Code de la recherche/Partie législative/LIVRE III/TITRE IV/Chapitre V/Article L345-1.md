@@ -7,3 +7,6 @@ L'établissement public Campus Condorcet, placé sous la tutelle conjointe des m
 A cette fin, il coordonne la programmation et la réalisation du campus. Il réalise des acquisitions et opérations foncières et immobilières. Il assure pour le compte de l'Etat, dans le respect des règles de la commande publique, la conception et la réalisation de constructions et d'équipements nécessaires à l'exercice de ses missions. Il assure l'exploitation, la gestion, la promotion et la valorisation du Campus Condorcet.
 
 Les articles L. 719-14 et L. 762-2 du code de l'éducation sont applicables à l'établissement public Campus Condorcet.
+
+NOTA:
+Conformément au III de l'article 17 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.

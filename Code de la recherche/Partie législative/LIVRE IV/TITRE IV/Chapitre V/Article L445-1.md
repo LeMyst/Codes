@@ -7,3 +7,6 @@ Les dispositions des articles L. 411-3, L. 412-4, L. 421-3 à L. 421-5, L. 422-1
 L'article L. 412-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2021-1574 du 24 novembre 2021 portant partie législative du code général de la fonction publique ;
 
 L'article L. 411-3-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 portant suppression de la carte des formations supérieures, mettant en cohérence et abrogeant diverses dispositions relatives à la recherche et à l'enseignement supérieur et étendant certaines dispositions relatives aux mêmes domaines à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

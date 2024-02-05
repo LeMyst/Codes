@@ -7,3 +7,6 @@ Le contrat pluriannuel inclut un volet territorial associant la région d'Île-d
 L'établissement rend compte de l'exécution de ses engagements et de l'atteinte des objectifs prévus dans le contrat au moins une fois tous les deux ans.
 
 L'exécution du contrat fait l'objet d'une évaluation par le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur ou réalisée selon des procédures qu'il a validées. L'Etat tient compte des résultats de l'évaluation pour déterminer les engagements financiers qu'il prend envers l'établissement dans le cadre du contrat pluriannuel.
+
+NOTA:
+Conformément au III de l'article 17 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2022.

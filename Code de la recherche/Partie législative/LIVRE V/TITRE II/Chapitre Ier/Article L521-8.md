@@ -11,3 +11,6 @@ c) Les rémunérations pour services rendus ;
 d) Les revenus des biens et valeurs leur appartenant ;
 
 e) Les dons et legs.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

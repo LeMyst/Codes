@@ -7,3 +7,6 @@ Leur participation dans le capital social de l'entreprise ne peut excéder 32 % 
 Le fonctionnaire intéressé ne peut participer ni à l'élaboration ni à la passation des contrats et conventions conclus entre l'entreprise et le service public de la recherche.
 
 L'autorité dont relève le fonctionnaire est tenue informée des revenus qu'il perçoit à raison de sa participation au capital de l'entreprise et en sa qualité de membre du conseil d'administration ou du conseil de surveillance ainsi que des cessions de titres auxquelles il procède.
+
+NOTA:
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

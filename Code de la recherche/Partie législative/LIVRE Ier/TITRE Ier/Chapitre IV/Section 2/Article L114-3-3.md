@@ -23,3 +23,6 @@ Outre son président, le collège comprend :
 Parmi les membres ayant la qualité de chercheur, d'ingénieur ou d'enseignant-chercheur nommés au titre des 1° ou 2° du présent II figure au moins un membre ayant bénéficié de l'une des autorisations prévues au chapitre Ier du titre III du livre V du présent code
 
 La durée du mandat des membres autres que ceux mentionnés au 5° est de quatre ans. Ce mandat est renouvelable une fois.
+
+NOTA:
+Conformément au III A de l'article 16 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions sont applicables au premier renouvellement du collège du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur ou de sa présidence suivant la date de publication de ladite loi.

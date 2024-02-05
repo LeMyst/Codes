@@ -37,3 +37,6 @@ c) A hauteur de la fraction perçue sur les biens des industries mécaniques au 
 d) A hauteur de la fraction perçue sur les biens des industries de la fonderie, au sens de l'article L. 471-14 du même code ;
 
 10° A l'Institut des corps gras, à hauteur de la fraction perçue sur les biens des industries des corps gras au sens de l'article L. 471-19 du même code.
+
+NOTA:
+Conformément au V de l’article 116 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

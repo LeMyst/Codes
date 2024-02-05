@@ -11,3 +11,6 @@ L'article L. 531-12 est applicable dans sa rédaction résultant de l'ordonnance
 Les autres articles du chapitre Ier du titre III du présent livre et l'article L. 533-3 y sont applicables dans leur rédaction résultant de la loi n° 2020-1674 du 24 décembre 2020 de programmation de la recherche pour les années 2021 à 2030 et portant diverses dispositions relatives à la recherche et à l'enseignement supérieur.
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences dévolues au recteur de région académique.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

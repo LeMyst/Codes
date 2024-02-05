@@ -5,3 +5,6 @@ I.-Au terme de l'autorisation mentionnée aux articles L. 531-1, L. 531-6 et L. 
 Lorsque l'autorité dont relève le fonctionnaire estime ne pas pouvoir apprécier si le fonctionnaire se trouve en situation de conflit d'intérêts, elle saisit la Haute Autorité pour la transparence de la vie publique, dans les conditions prévues à l'article L. 531-14.
 
 II.-Au terme d'une autorisation accordée sur le fondement des dispositions régissant un des dispositifs prévus aux articles L. 531-1, L. 531-6, L. 531-8 et L. 531-12, le fonctionnaire peut également bénéficier d'une autorisation accordée sur le fondement d'un autre de ces dispositifs, s'il remplit les conditions fixées à l'article L. 531-14.
+
+NOTA:
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er février 2020.

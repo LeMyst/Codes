@@ -4,15 +4,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles m
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-D. 311-1
-|  |
-|
-D. 321-2 à D. 321-14
-|  |
-|
-D. 329-21 à D. 329-24
-|  |
-|
-D. 345-1 à D. 345-17
-|  |
+|  D. 311-1  |  |
+|  D. 321-2 à D. 321-14  |  |
+|  D. 329-21 à D. 329-24  |  |
+|  D. 345-1 à D. 345-17  |  |

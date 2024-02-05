@@ -7,3 +7,6 @@ Les dispositions des articles L. 311-2, L. 313-1, L. 314-1, L. 321-3 et L. 344-1
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences dévolues au recteur de région académique.
 
 Pour l'application à Wallis et Futuna du premier alinéa de l'article L. 344-11, les mots : " des collectivités territoriales " sont remplacés par les mots : " du territoire et des autres circonscriptions territoriales ".
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

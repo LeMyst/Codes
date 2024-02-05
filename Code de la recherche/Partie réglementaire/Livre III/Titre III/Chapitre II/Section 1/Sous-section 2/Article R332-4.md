@@ -19,3 +19,6 @@ b) Toute personne dont le président du conseil d'administration juge la présen
 La durée du mandat des membres du conseil d'administration est de cinq ans à compter de l'installation de celui-ci.
 
 Les représentants des salariés disposent chacun, pour l'exercice de leur mandat, d'un crédit d'heures mensuel égal au quart de la durée légale du temps de travail.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-1383 du 30 décembre 2023, ces dispositions entrent en vigueur le 2 janvier 2024.

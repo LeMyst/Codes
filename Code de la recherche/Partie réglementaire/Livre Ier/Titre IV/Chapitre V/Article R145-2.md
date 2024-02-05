@@ -4,12 +4,6 @@ Sous réserve des adaptations prévues par le présent chapitre, sont applicable
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-R. 114-1
-|  |
-|
-R. 114-3 à R. 114-15
-|  |
-|
-R. 114-17 à R. 114-23
-|  |
+|  R. 114-1  |  |
+|  R. 114-3 à R. 114-15  |  |
+|  R. 114-17 à R. 114-23  |  |

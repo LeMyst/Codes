@@ -4,22 +4,10 @@ Sous réserve des adaptations prévues par le présent chapitre, sont applicable
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-R. 222-3,1°  |  |
-|
-R. 222-4,1° et 2°  |  |
-|
-R. 224-1
-|  |
-|
-R. 225-1
-|  |
-|
-R. 251-1 à R. 251-16
-|  |
-|
-R. 253-3
-|  |
-|
-R. 254-1 et R. 254-2
-|  |
+|  R. 222-3,1°  |  |
+|  R. 222-4,1° et 2°  |  |
+|  R. 224-1  |  |
+|  R. 225-1  |  |
+|  R. 251-1 à R. 251-16  |  |
+|  R. 253-3  |  |
+|  R. 254-1 et R. 254-2  |  |

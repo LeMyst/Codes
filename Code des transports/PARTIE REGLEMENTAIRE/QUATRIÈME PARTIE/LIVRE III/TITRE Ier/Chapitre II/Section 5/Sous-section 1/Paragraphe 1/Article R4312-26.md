@@ -7,3 +7,6 @@ I.-Le mandat d'un représentant du personnel prend fin pour les motifs et dans l
 2° Au sixième alinéa de l'article L. 2314-33 du code du travail pour les représentants élus par le collège prévu au 2° du B du I de l'article L. 4312-3-2 du présent code.
 
 II.-Le représentant du personnel dont le mandat a pris fin en application du I est remplacé pour la durée du mandat restant à courir dans les conditions prévues aux deuxième à sixième alinéas de l'article 22 du décret du 20 novembre 2020 mentionné ci-dessus.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

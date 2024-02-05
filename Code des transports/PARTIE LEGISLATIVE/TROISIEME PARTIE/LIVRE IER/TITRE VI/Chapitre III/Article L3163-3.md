@@ -7,3 +7,6 @@ I.-L'autorité administrative, après constatation des faits par l'un des foncti
 2° Une amende d'un montant ne pouvant excéder 15 000 euros, à l'encontre de toute personne physique, et 75 000 euros, à l'encontre de toute personne morale, coupable d'un manquement aux dispositions de l'article L. 3162-9.
 
 II.-Pour fixer le montant de l'amende, l'autorité administrative prend en compte les circonstances et la gravité du manquement ainsi que la situation économique de son auteur.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1er janvier 2022, en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 3° du I dudit article.

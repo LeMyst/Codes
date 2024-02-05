@@ -9,3 +9,6 @@ Les parties postulent en personne ou par l'intermédiaire d'un mandataire quelco
 En cas de contredit et à défaut d'entente amiable sur la distribution du prix, le juge, séance tenante, dresse procès-verbal des prétentions opposées des parties et fixe audience pour les débats sur les points litigieux. Sa décision sur les contredits est susceptible de recours immédiat dans les conditions prévues par l'article 23 de l'annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
 L'état définitif des collocations est dressé par le juge dans la huitaine qui suit le jour où la décision sur les contredits aura acquis force de chose jugée.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

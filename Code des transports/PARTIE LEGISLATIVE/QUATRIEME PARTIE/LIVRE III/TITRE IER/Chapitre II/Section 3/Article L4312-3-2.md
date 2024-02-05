@@ -49,3 +49,8 @@ VI. ― Chaque syndicat qui constitue, en application de l'article L. 2142-1 du 
 VII. ― Les membres des comités mentionnés au présent article, les délégués syndicaux et les représentants des sections syndicales bénéficient des garanties prévues par leur statut respectif et, pour ce qui concerne les salariés régis par le code du travail, de la protection prévue au livre IV de la deuxième partie du même code.
 
 VIII. ― Les agents mentionnés aux 1° à 3° de l'article L. 4312-3-1 du présent code demeurent électeurs au comité technique ministériel du ministère chargé du développement durable.
+
+NOTA:
+Conformément au A du II de l'article 94 de la loi n° 2019-828 du 6 août 2019, les présentes dispositions entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.
+
+Conformément au II de l'article 8 de la loi n° 2019-828 du 6 août 2019, la commission des droits des salariés instituée en application du E du I de l'article L. 4312-3-2 du code des transports, dans sa rédaction résultant de la présente loi, se sustitue à la formation représentant les salariés de droit privé du comité technique unique de Voies navigables de France à compter de l'entrée en vigueur du présent article.

@@ -29,3 +29,6 @@ Les mêmes fonctionnaires et agents ont accès, entre 8 heures et 20 heures, aux
 6° Des opérateurs de plateformes d'intermédiation numérique de transport public routier collectif de personnes.
 
 7° Des opérateurs de plateforme d'intermédiation numérique de transport public routier de marchandises.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er janvier 2022.

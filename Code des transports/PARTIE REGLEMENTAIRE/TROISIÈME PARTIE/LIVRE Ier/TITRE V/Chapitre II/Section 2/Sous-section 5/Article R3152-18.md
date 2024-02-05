@@ -13,3 +13,6 @@ III.-Le concepteur du système technique informe l'exploitant et l'organisateur 
 IV.-L'exploitant informe l'organisateur du service de l'existence ou la nécessité d'une modification substantielle du système de transport routier automatisé, le cas échéant sur la base des éléments transmis par le concepteur du système technique.
 
 V.-Lorsque le système est substantiellement modifié, l'organisateur du service suspend l'exploitation puis décide de la mise en service du système modifié selon les conditions décrites aux articles R. 3152-10 à R. 3152-12.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-873 du 29 juin 2021, ces dispositions entrent en vigueur le lendemain de la publication au Journal officiel du décret portant publication des amendements à la convention sur la circulation routière du 8 novembre 1968 tendant à la modification de son article 1er et à l'insertion d'un nouvel article 34 bis, communiqués aux Etats parties à la convention le 15 janvier 2021, conformément au paragraphe 1 de son article 49, et au plus tard le 1er septembre 2022.

@@ -5,3 +5,6 @@ Pour les aérodromes des groupes 1 à 3, la modification de la circulation aéri
 Les modifications à prendre en compte sont celles revêtant un caractère permanent et ayant pour effet de modifier, de manière significative, les conditions de survol.
 
 Le bilan de l'enquête publique est porté à la connaissance de la commission consultative de l'environnement et de l'Autorité de contrôle des nuisances aéroportuaires, qui émettent un avis sur la modification de la circulation aérienne envisagée.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

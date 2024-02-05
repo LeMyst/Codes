@@ -21,3 +21,8 @@ Ces agents de sûreté ne procèdent :
 -à la fouille des véhicules et des marchandises qu'avec le consentement de leur propriétaire ou de la personne qui en a la responsabilité ;
 
 -à des palpations de sûreté, que par une personne du même sexe que la personne qui en fait l'objet et avec le consentement de celle-ci.
+
+NOTA:
+Conformément au II de l’article 7 de l’ordonnance n° 2019-78 du 6 février 2019, ces dispositions entrent en vigueur à la date du retrait du Royaume-Uni de l'Union européenne sans accord fondé sur l'article 50 du traité sur l'Union européenne.
+
+Conformément au III de l’article 116 de la loi n° 2019-1428 du 24 décembre 2019 : Le titre VII du livre II de la deuxième partie du code des transports dans sa rédaction résultant de l'article 6 de l'ordonnance n° 2019-78 du 6 février 2019 précitée entre en vigueur le lendemain de la publication de la présente loi.

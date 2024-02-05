@@ -17,3 +17,6 @@ Sauf lorsque des dispositions particulières justifient leur mise en œuvre par 
 7° Les organismes de formation en sûreté portuaire agréés au titre de l'article L. 5332-19 ;
 
 8° Les organismes de sûreté habilités au terme de l'article L. 5332-20.
+
+NOTA:
+Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.

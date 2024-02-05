@@ -11,3 +11,6 @@ Sont désignés par arrêté du ministre chargé de l'aviation civile les servic
 A cette fin, les références des dispositions du livre des procédures fiscales à l'administration, à l'administration fiscale ou à la direction générale des finances publiques s'entendent de références à ces services.
 
 Les modalités d'application du présent article sont déterminées par décret.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

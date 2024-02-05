@@ -25,3 +25,6 @@ La société SNCF Réseau est soumise aux dispositions législatives applicables
 SNCF Réseau est le gestionnaire du réseau ferré national. Sa gestion vise à une utilisation optimale du réseau ferré national, dans des objectifs de sécurité, de qualité de service et de maîtrise des coûts et dans les conditions fixées à l'article L. 2122-4-3.
 
 Dans les conditions fixées à l'article L. 2122-4-3-2 et uniquement pour des lignes d'intérêt local ou régional, SNCF Réseau peut déléguer par convention certaines de ses missions mentionnées aux 1° à 4° du présent article à toute personne, selon les objectifs et principes de gestion qu'elle définit.
+
+NOTA:
+Conformément au II de l’article 172 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

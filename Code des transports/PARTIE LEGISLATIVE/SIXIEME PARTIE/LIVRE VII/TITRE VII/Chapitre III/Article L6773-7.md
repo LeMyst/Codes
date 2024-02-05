@@ -9,3 +9,6 @@ a) Au 3°, après le mot : “ exigences ”, sont insérés les mots : “ requ
 b) Au 4°, les mots : “ un accès non surveillé et illimité aux données et aux systèmes de technologies de l'information et de la communication critiques utilisés aux fins de la sûreté de l'aviation civile et qui sont mentionnées au ” sont remplacés par les mots : “ des accès équivalents à ceux des personnes en métropole auxquelles s'applique le ”.
 
 III.-Pour l'application en Polynésie française des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à un Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : " en Polynésie française ".
+
+NOTA:
+Conformément au II de l'article 9 de la loi n° 2021-1308 du 8 octobre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.

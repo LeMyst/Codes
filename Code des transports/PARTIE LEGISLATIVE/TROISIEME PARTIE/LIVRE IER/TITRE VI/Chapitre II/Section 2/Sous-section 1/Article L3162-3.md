@@ -5,3 +5,6 @@ I.-L'opérateur qui cesse de satisfaire aux conditions énoncées à l'article L
 II.-Saisie de procès-verbaux constatant, de la part d'un opérateur défini au 5° de l'article L. 3161-1, un manquement aux obligations qui lui incombent en vertu du présent titre, l'autorité administrative peut prononcer soit la suspension de son inscription pour une durée n'excédant pas un an, soit sa radiation du registre national. Pour prendre l'une ou l'autre de ces mesures, l'autorité administrative tient compte de la gravité ou du caractère répété de ces manquements.
 
 Ces mesures sont mentionnées sur le registre national prévu à l'article L. 3162-2.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1er juin 2023.

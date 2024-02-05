@@ -19,3 +19,6 @@ La mise en place, l'entretien et le renouvellement de ces stations sont assurés
 II. ― Dans le domaine de la pollution atmosphérique générée par l'aviation, l'autorité est chargée de contribuer au débat en matière d'environnement aéroportuaire. A ce titre, l'autorité peut formuler des propositions d'études pour améliorer les connaissances dans ce domaine et diffuser ces études auprès du public ou de toute personne physique ou morale qui en fait la demande.
 
 III.-L'Autorité de contrôle des nuisances aéroportuaires est consultée sur les projets de textes réglementaires susceptibles de donner lieu à des amendes administratives au sens des articles L. 6361-12 et L. 6361-13.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

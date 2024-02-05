@@ -47,3 +47,6 @@ c) L'évaluation des réponses du système technique aux risques et aléas affec
 d) Les démonstrations de sécurité, simulations, tests et essais, lorsque ces éléments n'ont pas été présentés dans le cadre de la réception du ou des véhicules.
 
 II.-Le dossier de conception du système technique comporte la déclaration de fonctionnalités et de sécurité, qui décrit de façon synthétique les caractéristiques et les conditions d'utilisation des véhicules, leurs capacités de conduite en délégation de conduite, les types de parcours ou zones visés, les exigences préalables à la mise en service, notamment en termes d'essais et d'installations situées hors du véhicule. Cette déclaration certifie que le système technique satisfait aux exigences des articles R. 3152-2 à R. 3152-5 et est conforme aux règles de l'art.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-873 du 29 juin 2021, ces dispositions entrent en vigueur le lendemain de la publication au Journal officiel du décret portant publication des amendements à la convention sur la circulation routière du 8 novembre 1968 tendant à la modification de son article 1er et à l'insertion d'un nouvel article 34 bis, communiqués aux Etats parties à la convention le 15 janvier 2021, conformément au paragraphe 1 de son article 49, et au plus tard le 1er septembre 2022.

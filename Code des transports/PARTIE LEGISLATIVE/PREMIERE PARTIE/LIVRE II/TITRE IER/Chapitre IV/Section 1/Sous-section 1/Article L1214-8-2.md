@@ -13,3 +13,6 @@ II.-Dans le périmètre d'un plan de mobilité mentionné à l'article L. 1214-1
 II bis.-A défaut d'accord sur les mesures visant à améliorer la mobilité des salariés entre leur résidence habituelle et leur lieu de travail, tel que prévu au 8° de l'article L. 2242-17 du code du travail, les entreprises soumises à l'obligation prévue au 2° de l'article L. 2242-1 du même code, mentionnées à l'article L. 2143-3 dudit code et dont cinquante salariés au moins sont employés sur un même site, élaborent un plan de mobilité employeur sur leurs différents sites pour améliorer la mobilité de leur personnel. Ce plan de mobilité employeur inclut des dispositions concernant le soutien aux déplacements domicile-travail de leur personnel, notamment le cas échéant concernant la prise en charge des frais mentionnés aux articles L. 3261-3 et L. 3261-3-1 du même code.
 
 III.-Les entreprises situées sur un même site peuvent établir un plan de mobilité employeur commun, qui vise les mêmes objectifs que le plan de mobilité employeur défini au I et qui est soumis à la même obligation de transmission à l'autorité organisatrice de la mobilité territorialement compétente.
+
+NOTA:
+Conformément au VI de l’article 82 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

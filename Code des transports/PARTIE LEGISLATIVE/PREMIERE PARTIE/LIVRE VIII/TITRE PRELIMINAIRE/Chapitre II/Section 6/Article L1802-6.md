@@ -15,3 +15,6 @@ Les dispositions du présent code applicables en Nouvelle-Calédonie sont ainsi 
 6° Les références au code des postes et des communications électroniques et au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière ;
 
 7° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie locale.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

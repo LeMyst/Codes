@@ -11,3 +11,6 @@ I.-L'entreprise veille à ce que le conducteur ait à sa disposition, sur suppor
 II.-L'entreprise veille à ce que le conducteur se trouvant dans l'un des cas mentionnés au I de l'article L. 1332-3 ait à sa disposition, sur support papier ou en format électronique, les documents mentionnés aux 2° et 3° du I.
 
 III.-Le conducteur conserve les documents mentionnés au I ou au II à bord du véhicule avec lequel est assuré le transport et les présente à la demande des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-104 du 1er février 2022, ces dispositions entrent en vigueur le 2 février 2022.

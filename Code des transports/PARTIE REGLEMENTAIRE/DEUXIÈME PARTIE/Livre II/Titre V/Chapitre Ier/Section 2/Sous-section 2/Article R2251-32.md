@@ -11,3 +11,6 @@ A la demande des services informés ou pour tout motif, le chef du service natio
 Toutefois, en cas d'urgence, le responsable du service interne de sécurité de l'entreprise peut délivrer un ordre de mission, sans avoir procédé à l'information préalable dans les conditions prévues au deuxième alinéa. Il en informe alors immédiatement les services mentionnés au deuxième alinéa. Dans ce cas, le responsable du service interne de sécurité transmet à ces services un compte-rendu de la mission dans lequel il rend compte de l'urgence ayant conduit à ne pas procéder à l'information préalable.
 
 Les ordres de mission sont conservés par l'entreprise pendant une durée de deux ans.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.

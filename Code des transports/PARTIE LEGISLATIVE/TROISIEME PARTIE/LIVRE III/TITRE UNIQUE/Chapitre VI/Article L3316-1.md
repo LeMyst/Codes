@@ -29,3 +29,6 @@ Un arrêté du ministre chargé des transports fixe, après avis de l'autorité 
 1° La liste des communes présentant des contraintes spécifiques d'exploitation situées dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
 
 2° La liste des communes présentant des contraintes spécifiques d'exploitation situées dans les autres départements d'Ile-de-France.
+
+NOTA:
+Conformément au VI de l’article 158 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions sont applicables à chaque service régulier de transport public par autobus mentionné à l'article L. 1241-1 du code des transports et créé avant le 3 décembre 2009 lorsque se termine l'exécution dudit service.

@@ -47,3 +47,6 @@ Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisi
 19° La fixation du siège du syndicat.
 
 Le conseil peut déléguer aux commissions prévues par l'article R. 1241-8 certaines décisions relatives à l'attribution de subventions à des projets d'investissement dont le montant ne dépasse pas un seuil qu'il fixe. Les commissions ne peuvent prendre de décisions qu'à l'unanimité de leurs membres présents.
+
+NOTA:
+Conformément au XI de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2021.

@@ -7,3 +7,6 @@ Si un constituant muni d'une déclaration " CE " de conformité ou d'aptitude à
 Le directeur général de l'Etablissement public de sécurité ferroviaire peut également, après avoir entendu le fabricant, ou, à défaut, le responsable de la mise sur le marché, suspendre pendant une durée n'excédant pas un an ou interdire la mise sur le marché, même à titre gratuit, du produit concerné ou ordonner son retrait en tous lieux.
 
 En cas de danger imminent, la suspension prévue à l'alinéa précédent peut être prononcée sans formalité.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

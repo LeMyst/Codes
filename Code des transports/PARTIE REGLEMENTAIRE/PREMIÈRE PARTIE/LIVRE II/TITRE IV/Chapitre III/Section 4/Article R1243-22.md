@@ -15,3 +15,6 @@ En cas d'adhésion d'un nouveau membre, sa participation éventuelle au budget d
 Sans préjudice de la réévaluation annuelle prévue par le présent article, la participation de chaque membre peut être révisée à la hausse par délibérations concordantes de ce membre et de l'autorité organisatrice des mobilités des territoires lyonnais. Les règles de réévaluation annuelle continuent à s'appliquer à cette participation, sauf si ces délibérations en disposent autrement.
 
 Les participations des membres sont versées à l'autorité organisatrice des mobilités des territoires lyonnais sous la forme de quatre acomptes de même montant, qui sont versés le dernier jour ouvré de chaque trimestre.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

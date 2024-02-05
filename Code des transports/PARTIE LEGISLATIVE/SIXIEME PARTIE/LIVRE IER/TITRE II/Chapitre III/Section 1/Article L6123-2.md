@@ -15,3 +15,6 @@ L'ordonnance du juge de l'exécution est transmise aux autorités responsables d
 Les frais entraînés par la saisie conservatoire sont à la charge du redevable.
 
 Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

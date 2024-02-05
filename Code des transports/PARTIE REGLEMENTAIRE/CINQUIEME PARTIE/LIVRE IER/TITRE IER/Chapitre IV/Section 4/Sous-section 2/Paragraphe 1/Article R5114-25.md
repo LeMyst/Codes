@@ -7,3 +7,6 @@ Si le navire est sous pavillon français, l'acte est aussi inscrit sur le fichie
 Cette inscription est requise dans le délai de sept jours suivant la date de l'acte de saisie. Ce délai est augmenté de vingt jours si le lieu de la saisie et le lieu où le registre est tenu ne se trouvent pas, l'un et l'autre, en France métropolitaine ou dans une même collectivité ultra-marine.
 
 Cette transcription rend le bien indisponible.
+
+NOTA:
+Conformément au deuxième alinéa du I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

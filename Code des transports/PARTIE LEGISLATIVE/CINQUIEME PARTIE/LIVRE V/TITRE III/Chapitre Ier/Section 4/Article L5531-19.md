@@ -7,3 +7,8 @@ Avant l'expiration d'un délai de quarante-huit heures à compter de l'ordre de 
 La consignation peut être renouvelée, selon les mêmes modalités, jusqu'à la remise de la personne faisant l'objet de la consignation à l'autorité administrative ou judiciaire compétente, à moins que le capitaine n'ordonne la levée de la mesure.
 
 Sauf impossibilité technique, le procureur de la République et le juge des libertés et de la détention communiquent, s'ils l'estiment utile, avec la personne faisant l'objet de la consignation.
+
+NOTA:
+Conformément à l'article 37 de la loi n° 2013-431 du 28 mai 2013, à compter de l'entrée en vigueur de l'article 2 de l'ordonnance n° 2012-1218 du 2 novembre 2012 portant réforme pénale en matière maritime, au premier alinéa de l'article L. 5531-19 du code des transports, la référence : au second alinéa de l'article 37 de la loi du 17 décembre 1926 portant code disciplinaire et pénal de la marine marchande est remplacée par la référence : au II de l'article 3 de la loi du 17 décembre 1926 relative à la répression en matière maritime.
+
+L'article 21 de l'ordonnance n° 2012-1218 a fixé au plus tard au 1er janvier 2015 l'entrée en vigueur des dispositions de son article 2.

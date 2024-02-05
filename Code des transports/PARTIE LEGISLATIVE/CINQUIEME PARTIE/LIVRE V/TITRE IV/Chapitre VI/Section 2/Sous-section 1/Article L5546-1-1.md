@@ -15,3 +15,6 @@ Ce registre est destiné à informer les gens de mer et les armateurs intéress�
 Tout service privé de recrutement et de placement de gens de mer inscrit en France tient à disposition des autorités de contrôle compétentes un registre à jour des gens de mer mis à disposition ou placés par son intermédiaire.
 
 III.-Tout armateur ayant recours à un service privé de recrutement et de placement de gens de mer établi hors de France en fait la déclaration à l'autorité compétente. Un arrêté du ministre chargé de la mer établit les mentions de la déclaration précitée et sa périodicité.
+
+NOTA:
+Conformément au III de l'article 7 de l'ordonnance n° 2021-77 du 27 janvier 2021, le III de l'article L. 5546-1-1 dans sa rédaction résultant de l'article 4 entre en vigueur le 1er janvier 2022.

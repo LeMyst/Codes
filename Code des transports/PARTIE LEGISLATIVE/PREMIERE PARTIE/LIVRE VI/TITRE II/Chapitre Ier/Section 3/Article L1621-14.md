@@ -9,3 +9,6 @@ Il est établi une copie des documents placés sous scellés par l'autorité jud
 Les conditions d'application du I du présent article sont fixées par décret en Conseil d'Etat.
 
 II.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le troisième alinéa de l'article L. 1621-2.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

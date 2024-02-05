@@ -1,7 +1,6 @@
 # Article R3111-48
 
-Le dossier de saisine comprend, outre le projet de décision d'interdiction ou de limitation comportant l'ensemble des éléments énumérés à l'article R. 3111-52 :
-
+Le dossier de saisine comprend, outre le projet de décision d'interdiction ou de limitation comportant l'ensemble des éléments énumérés à l'article R. 3111-52 :\
 1° Le trafic connu des prestations de service public susceptibles d'être concurrencées, qui comprennent au moins celles assurant sans correspondance la liaison concernée, et les ressources générées ; ces données sont détaillées par groupe tarifaire, si cette information est disponible ; si le trafic n'est pas connu, il en est transmis une estimation justifiée ;
 
 2° Si elles sont disponibles, les données de comptage et la répartition horaire du trafic de la liaison concernée ; ces données sont détaillées pour chaque horaire de chaque journée de la semaine ;

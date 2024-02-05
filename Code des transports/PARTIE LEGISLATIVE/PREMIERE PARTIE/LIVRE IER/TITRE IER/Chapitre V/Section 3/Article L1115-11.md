@@ -21,3 +21,6 @@ Pour les services dont les conditions d'utilisation, de tarification ou de rése
 Dans le cadre du contrat mentionné au III du même article L. 1115-10, les gestionnaires des services peuvent demander au fournisseur du service numérique multimodal une compensation financière, raisonnable et proportionnée, des dépenses encourues pour la fourniture de cette interface.
 
 III.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les conditions d'application du présent article. Le présent article s'applique aux services mentionnés au I, lorsque le chiffre d'affaires et la durée d'existence de la société gestionnaire ou, le cas échéant, de la société qui en assure le contrôle au sens de l'article L. 233-3 du code de commerce sont supérieurs à des seuils fixés par ce même décret.
+
+NOTA:
+Conformément au IV de l'article 28 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er juillet 2021.

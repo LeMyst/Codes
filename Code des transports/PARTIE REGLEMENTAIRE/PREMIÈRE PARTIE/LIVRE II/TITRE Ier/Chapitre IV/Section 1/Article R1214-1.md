@@ -8,3 +8,8 @@ Il comporte une étude qui évalue les émissions de gaz à effet de serre et de
 Les émissions sont évaluées selon les méthodes prévues pour la réalisation des plans climat-air-énergie territoriaux mentionnés à l'article L. 229-26 du code de l'environnement.
 
 La liste des gaz à effet de serre concernés est établie dans les conditions prévues à l'article R. 229-45 du code de l'environnement. Un arrêté des ministres chargés de l'environnement et des transports fixe la liste des polluants atmosphériques concernés.
+
+NOTA:
+Conformément au XI de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+
+Conformément à l'article 5 du décret n° 2020-801 du 29 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

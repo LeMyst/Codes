@@ -9,3 +9,6 @@ L'autorité chargée du contrôle économique et financier est désignée par le
 Le commissaire du Gouvernement et l'autorité chargée du contrôle économique et financier participent avec voix consultative aux séances du conseil de surveillance du grand port maritime et assistent aux réunions du conseil de développement et de ses commissions permanentes.
 
 Dans un grand port fluvio-maritime, le commissaire du Gouvernement et l'autorité chargée du contrôle économique et financier participent avec voix consultative aux séances du conseil de surveillance et assistent aux réunions du conseil d'orientation, des conseils de développement territoriaux et de leurs commissions permanentes.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

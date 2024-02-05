@@ -5,3 +5,6 @@ Lors de la construction d'une nouvelle infrastructure de transport ferroviaire, 
 L'indemnité est réglée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique.
 
 Les constructions existantes lors de la construction d'une nouvelle infrastructure de transport ferroviaire qui ne respectent pas les dispositions de l'article L. 2231-4 et dont l'état a été constaté dans des conditions déterminées par décret en Conseil d'Etat, peuvent uniquement être entretenues dans cet état.
+
+NOTA:
+Conformément à l'article 4 de l'ordonnance n° 2021-444 du 14 avril 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

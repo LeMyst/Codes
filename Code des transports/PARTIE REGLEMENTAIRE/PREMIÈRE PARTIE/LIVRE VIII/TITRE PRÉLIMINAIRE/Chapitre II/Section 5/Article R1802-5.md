@@ -19,3 +19,6 @@ Pour leur application à Saint-Pierre-et-Miquelon, les dispositions du présent 
 8° Les références au code de l'urbanisme et au code général des impôts sont respectivement remplacées par des références à la réglementation applicable localement en matière d'urbanisme et de fiscalité ;
 
 9° Les références au préfet maritime sont remplacées par celles du délégué du Gouvernement pour l'action de l'Etat en mer.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

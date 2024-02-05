@@ -6,3 +6,6 @@ Les brevets exigés et, le cas échéant, des conditions particulières de navig
 A titre exceptionnel, et après avis de la commission locale, le règlement local peut prévoir des dérogations aux conditions d'âge et de navigation justifiées par les conditions locales du service et par les nécessités du recrutement des pilotes.\
 Ces conditions doivent être réunies au plus tard à la date d'ouverture du concours.\
 Les concours de pilotage ont lieu, sous le contrôle du directeur interrégional de la mer, devant une commission dont la composition est fixée par arrêté du ministre chargé de la marine marchande. Cet arrêté définit également les conditions de déroulement des concours et les programmes des connaissances communes à toutes les stations, exigées des candidats. Le programme des connaissances particulières à chaque station est annexé au règlement local.
+
+NOTA:
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la commission locale (pilotage dans les eaux maritimes) est renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).

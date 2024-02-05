@@ -9,3 +9,6 @@ Cette inscription est renouvelable tous les cinq ans. Elle donne lieu à une mis
 L'inscription est subordonnée au paiement préalable, auprès du gestionnaire du registre mentionné au premier alinéa, de frais dont le montant est fixé par décret. Ces frais sont recouvrés par le gestionnaire du registre. Leur paiement intervient au moment du dépôt de la demande ou de la demande de renouvellement. Le produit résultant du paiement des frais est exclusivement affecté au financement de la gestion des registres.
 
 Les modalités d'application du présent article, notamment le contenu du dossier d'inscription, sont définies par voie réglementaire.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2021-177 du 17 février 2021, ces dispositions s'appliquent à compter du 1er mars 2021.

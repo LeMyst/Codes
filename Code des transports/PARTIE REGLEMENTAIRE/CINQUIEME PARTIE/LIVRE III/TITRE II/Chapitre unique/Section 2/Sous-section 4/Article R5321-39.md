@@ -11,3 +11,6 @@ III.-Le tarif prévoit une réduction du montant de la redevance :
 2° Lorsque la conception, l'équipement et l'exploitation d'un navire sont tels qu'il est établi que le navire produit des quantités réduites de déchets.
 
 Les conditions exigées pour l'octroi de cette réduction sont précisées par arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé des finances.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2021-1166 du 8 septembre 2021, ces dispositions sont applicables à compter du 1er janvier 2022.

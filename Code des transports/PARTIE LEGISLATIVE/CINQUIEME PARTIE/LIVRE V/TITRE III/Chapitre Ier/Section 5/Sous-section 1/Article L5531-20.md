@@ -15,3 +15,6 @@ II.-La présente section est applicable aux personnes suivantes embarquées à b
 3° Aux agents exerçant l'activité privée de protection des navires mentionnée à l'article L. 5441-1 ;
 
 4° Aux agents de sûreté affectés à la sûreté des navires au sens du titre V du livre II de la cinquième partie.
+
+NOTA:
+Conformément aux dispositions de l'article 12 de l'ordonnance n° 2016-1686 du 8 décembre 2016, au 1° les mots "permis d'armement" sont remplacés par les mots "rôle d'équipage" jusqu'à la date d'entrée en vigueur du décret mentionné à l'article 18 de la loi n° 2016-816 du 20 juin 2016.

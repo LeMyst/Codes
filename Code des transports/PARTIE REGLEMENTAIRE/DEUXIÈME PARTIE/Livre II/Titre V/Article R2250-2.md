@@ -13,3 +13,6 @@ a) Le préfet de police des Bouches-du-Rhône pour la direction de zone de sûre
 b) Le préfet de police pour les directions de zones de sûreté dont le siège se trouve à Paris et pour les agents qui ne sont pas rattachés à une direction de zone de sûreté et exercent, à titre principal, leur activité en Ile-de-France ;
 
 c) Le préfet du département dans lequel se trouve le siège de la direction de zone de sûreté, dans les autres cas.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1173 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant sa publication.

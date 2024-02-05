@@ -7,3 +7,6 @@ Est puni des mêmes peines, le fait d'effectuer une intervention à distance sur
 II.-Toute personne coupable des infractions prévues au présent article encourt également les peines complémentaires prévues aux 2° à 5° du II de l'article L. 221-2 du code de la route.
 
 III.-Toute personne coupable de l'infraction prévue au deuxième alinéa du I encourt également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à la conduite en dehors de l'activité professionnelle.
+
+NOTA:
+Conformément à l’article 7 de l’ordonnance n° 2021-443 du 14 avril 2021, ces dispositions entrent en vigueur le lendemain de la publication au Journal officiel du décret portant publication des amendements à la convention sur la circulation routière du 8 novembre 1968 et au plus tard le 1er septembre 2022.

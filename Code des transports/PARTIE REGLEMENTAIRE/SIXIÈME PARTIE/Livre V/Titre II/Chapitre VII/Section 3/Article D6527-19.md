@@ -9,3 +9,8 @@ Les charges afférentes aux opérations suivies par le Fonds de majoration prév
 Les taux de cotisations applicables aux employeurs et aux affiliés, obtenus, conformément aux clés de répartition fixées aux 1° et 2° ci-dessus, à partir des taux globaux fixés en application des mêmes alinéas, sont arrondis à deux décimales, au centième supérieur.
 
 Tous les trois ans, le conseil d'administration transmet au ministre chargé de la sécurité sociale un rapport évaluant les besoins de couverture des prestations mentionnées au 2° ci-dessus, en fonction des résultats des trois exercices précédents et du niveau prévisionnel des versements de l'exercice en cours et des deux exercices suivants. Il précise, s'il y a lieu, le besoin d'ajustement des taux de cotisation pour couvrir les dépenses et formule toute proposition de nature à garantir les engagements futurs.
+
+NOTA:
+Conformément au premier alinéa de l'article 3 du décret n° 2023-1064 du 20 novembre 2023, les dispositions du 2° entrent en vigueur le 1er janvier 2024. Par dérogation, le taux global qu'elles prévoient est fixé à 0,4 % pour l'exercice 2024.
+
+Conformément au second alinéa de l'article 3 du décret n° 2023-1064 du 20 novembre 2023, les dispositions du cinquième alinéa du présent article entrent en vigueur à compter de l'évaluation des besoins de couverture de l'exercice 2027 et des deux exercices suivants.

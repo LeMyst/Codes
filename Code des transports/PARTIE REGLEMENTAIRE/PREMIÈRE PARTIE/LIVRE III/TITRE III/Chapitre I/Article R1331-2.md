@@ -19,3 +19,6 @@ IV.-Cette attestation est établie en langue française avant le début de la pr
 5° Les références de l'immatriculation de l'entreprise au registre électronique national des entreprises de transport par route prévu par l'article 16 du règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant les règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/ CE du Conseil ;
 
 V.-L'attestation de détachement est transmise par voie dématérialisée en utilisant le téléservice “ SIPSI ” du ministère chargé du travail.
+
+NOTA:
+Conformément à l’article 1 du décret n° 2023-217 ainsi qu’à l’article 1 de l’arrêté du 28 mars 2023 (NOR : MTRT2308349A), ces dispositions entrent en vigueur le 30 mars 2023.

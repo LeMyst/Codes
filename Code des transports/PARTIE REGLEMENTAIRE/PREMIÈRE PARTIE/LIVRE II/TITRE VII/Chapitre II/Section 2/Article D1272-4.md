@@ -13,3 +13,7 @@ Cette obligation ne s'applique pas :
 2° Aux services ferroviaires, aux services mixtes guidé-ferroviaires et aux autres services guidés, y compris transfrontaliers, dès lors que leur objet principal est de répondre aux besoins de transport d'une même unité urbaine telle que définie par l'Institut national de la statistique et des études économiques ;
 
 3° Aux services internationaux au sens de la directive 2012/34/ UE du 21 novembre 2012 du Parlement européen et du Conseil du 21 novembre 2012 établissant un espace ferroviaire unique européen.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2021-41 du 19 janvier 2021, ces dispositions s'appliquent aux matériels neufs pour lesquels l'avis de marché a été publié à compter du 15 mars 2021
+. Il s'applique également aux matériels dont la rénovation est engagée ou fait l'objet d'un avis de marché à compter de cette même date.

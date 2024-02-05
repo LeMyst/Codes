@@ -553,3 +553,6 @@ d) Quatre (4) mois quand la durée de la relation est supérieure à trois (3) a
 24.3. Pendant la période de préavis, les parties maintiennent l'économie du contrat.
 
 24.4. En cas de manquement grave ou de manquements répétés de l'une des parties à ses obligations contractuelles, et à l'issue d'un délai de quinze (15) jours suivants une mise en demeure, mentionnant la présente clause résolutoire, restée sans effet, adressée par lettre recommandée avec avis de réception, l'autre partie peut mettre fin au contrat de transport, qu'il soit à durée déterminée ou indéterminée, sans préavis ni indemnités, par l'envoi d'une lettre recommandée avec avis de réception de résiliation de celui-ci.
+
+NOTA:
+Conformément à l'article 3 du décret n°2022-1586 du 16 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -5,3 +5,6 @@ L'autorisation de mise sur le marché d'un véhicule de transport ferroviaire d�
 On entend par “ mise sur le marché d'un véhicule de transport ferroviaire ” la première mise à disposition, sur le marché de l'Union européenne, d'un véhicule prêt à fonctionner dans son état de fonctionnement nominal.
 
 L'autorisation de mise en service d'un véhicule de transport guidé, y compris celui destiné au transport de personnels, délivrée par l'autorité compétente d'un autre Etat membre de l'Union européenne ou celle d'un Etat appliquant, en vertu d'accords auxquels la France ou l'Union européenne sont parties, des règles techniques et de sécurité équivalentes à celles de l'Union européenne, emporte autorisation de sa mise en service sur le territoire national dès lors qu'elle a été délivrée en application de règles communautaires ou de règles reconnues par l'autorité compétente comme étant de nature à garantir la sécurité.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

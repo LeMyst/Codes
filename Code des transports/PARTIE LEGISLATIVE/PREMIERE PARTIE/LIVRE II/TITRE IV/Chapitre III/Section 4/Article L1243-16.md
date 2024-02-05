@@ -5,3 +5,6 @@ I.-La région Auvergne-Rhône-Alpes verse chaque année au budget de l'autorité
 Cette contribution, non actualisable et exclusive de toute autre participation ou contribution financière directe ou indirecte, sous réserve du II ci-après, est fixée à 32 798 528 euros.
 
 II.-Des contributions complémentaires peuvent être dues par la région Auvergne-Rhône-Alpes à l'autorité organisatrice des mobilités des territoires lyonnais au titre d'autres délégations ou transferts de compétences de la région, notamment dans le cas où celle-ci décide de confier à l'établissement public tout ou partie de ses attributions en matière de services ferroviaires en application de l'article L. 1243-8. Ces contributions complémentaires font l'objet d'une convention entre la région et l'autorité organisatrice des mobilités des territoires lyonnais.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

@@ -7,3 +7,6 @@ Les enquêteurs techniques ne peuvent soumettre les débris, fluides, pièces, o
 A défaut d'accord, ils sont informés des opérations d'expertise diligentées par l'autorité judiciaire compétente. Ils ont droit d'y assister et d'exploiter les constatations faites dans le cadre de ces opérations pour les besoins de l'enquête technique.
 
 II.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le troisième alinéa de l'article L. 1621-2.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

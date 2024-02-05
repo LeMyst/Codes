@@ -17,3 +17,6 @@ b) Pour le BEA mer dans le domaine des activités et de la sécurité maritimes.
 4° Le directeur de chaque bureau d'enquêtes est nommé pour une durée de cinq ans.
 
 La nomination du directeur d'un bureau d'enquête vaut commissionnement de ce dernier en qualité d'enquêteur technique ou d'enquêteur de sécurité.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-1025 du 20 juillet 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

@@ -9,3 +9,6 @@ Le moins-perçu ou le trop-perçu est égal à l'insuffisance ou à l'excédent 
 Le montant mis à la charge de chaque usager est obtenu en multipliant le supplément au prix du mètre cube d'eau par le volume d'eau consommé. Il est individualisé dans la facture adressée à l'usager.
 
 Lorsque le titulaire de titre d'occupation ou d'utilisation du domaine public répercute la redevance sur une personne publique ou privée qui gère un service public de distribution d'eau ou d'assainissement, cette dernière peut répercuter à son tour le montant qu'elle acquitte au titulaire d'ouvrages sur l'usager final du service, selon les mêmes modalités.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2019-1356 du 13 décembre 2019, les présentes dispositions entrent en vigueur le 31 décembre 2019, y compris pour les titres d'occupation ou d'utilisation du domaine public en cours régissant les ouvrages mentionnés à l'article R. 4316-3 du code des transports dans sa rédaction résultant du présent décret.

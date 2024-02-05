@@ -15,3 +15,8 @@ II.-Toute personne coupable de ce délit encourt également les peines compléme
 S'il s'agit d'un pilote, le tribunal saisi peut également prononcer, à titre complémentaire ou principal, l'interdiction d'exercer le métier de pilote maritime pour une durée de trois ans au plus.
 
 III.-Lorsque le tribunal prononce, conformément au a de l'article 28 de la loi du 17 décembre 1926 précitée, le retrait total ou partiel des droits ou prérogatives afférents aux titres ou du visa de reconnaissance, dont le marin est titulaire, ou lorsqu'il prononce l'interdiction d'exercer le métier de pilote maritime, ce retrait ou cette interdiction ne peut être assorti du sursis, même partiellement.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

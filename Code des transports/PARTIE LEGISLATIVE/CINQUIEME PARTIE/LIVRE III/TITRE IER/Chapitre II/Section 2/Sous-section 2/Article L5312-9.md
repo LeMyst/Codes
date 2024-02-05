@@ -9,3 +9,6 @@ Le président du directoire porte le titre de directeur général.
 Les autres membres du directoire sont nommés par le conseil de surveillance sur proposition du président du directoire.
 
 La durée du mandat des membres du directoire est fixée par voie réglementaire.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

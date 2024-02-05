@@ -5,3 +5,6 @@ Les agréments et habilitations prévus aux articles L. 5332-16 et L. 5332-17 so
 Elle peut donner lieu à la consultation du bulletin n° 2 du casier judiciaire.
 
 Les enquêtes administratives sont réalisées dans les conditions prévues aux articles L. 114-1 et L. 114-2 du code de la sécurité intérieure.
+
+NOTA:
+Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.

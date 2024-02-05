@@ -9,3 +9,6 @@ II.-Par dérogation à l'article L. 2121-15, l'autorité organisatrice peut, apr
 III.-L'autorité organisatrice de transport saisit l'Autorité de régulation des transports de son projet de décision motivée d'attribuer directement un contrat de service public dans les conditions prévues au 3 bis ou au 4 bis précités. L'Autorité de régulation des transports émet un avis sur ce projet dans un délai de deux mois à compter de la réception de la saisine.
 
 IV.-Les conditions d'application du présent article sont précisées par décret en Conseil d'État, pris après avis de l'Autorité de régulation des transports.
+
+NOTA:
+Conformément au II de l'article 14 de la loi n° 2018-515 du 27 juin 2018, sous réserve des dispositions relatives aux modalités d'exécution des services ferroviaires mentionnés à l'article L. 1241-1 du code des transports attribués à SNCF Mobilités, l'article L. 2121-17 entre en vigueur le 25 décembre 2023.

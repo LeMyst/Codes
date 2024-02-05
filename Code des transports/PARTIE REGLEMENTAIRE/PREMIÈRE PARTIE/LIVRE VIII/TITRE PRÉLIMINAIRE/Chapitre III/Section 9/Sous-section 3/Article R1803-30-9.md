@@ -7,3 +7,6 @@ II.-Toutefois, si un ou plusieurs candidats inscrits sur une liste sont reconnus
 Lorsque la recevabilité d'une des listes candidates à l'élection n'est pas reconnue par le directeur général, le délai de trois jours prévu à la première phrase de l'alinéa précédent ne court à l'égard de cette liste qu'à compter de la notification du jugement du tribunal administratif.
 
 Si le fait motivant l'inéligibilité est intervenu après la date limite de dépôt des listes, le candidat inéligible peut être remplacé sans qu'il y ait lieu de modifier la date des élections.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2022-862 du 7 juin 2022, ces dispositions entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.

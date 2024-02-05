@@ -41,3 +41,6 @@ k) Activités relatives au bien-être ou au sport ;
 8° Personnes formant à la conduite des navires et bateaux de plaisance à moteur en mer et en eaux intérieures mentionnées à l'article L. 5272-3 ;
 
 9° Personnes effectuant une période de mise en situation en milieu professionnel mentionnées à l'article L. 5545-8-4.
+
+NOTA:
+Conformément à l’article 30 du décret n° 2021-933 du 12 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.

@@ -15,3 +15,6 @@ L'autorité organisatrice peut ouvrir les services de transport scolaire à d'au
 Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire, au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de transport des élèves et étudiants gravement handicapés, des élèves des écoles maternelles en zone rurale et des élèves des zones de montagne, s'effectue dans les conditions prévues par le code général des collectivités territoriales.
 
 Les modalités des conventions passées avec les entreprises, et notamment leurs conditions de dénonciation, sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

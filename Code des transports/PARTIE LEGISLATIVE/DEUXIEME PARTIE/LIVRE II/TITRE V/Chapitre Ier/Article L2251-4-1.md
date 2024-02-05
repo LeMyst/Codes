@@ -17,3 +17,10 @@ Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cad
 Ces enregistrements sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, notamment en ce qui concerne le contrôle de la Commission nationale de l'informatique et des libertés et le droit d'accès aux enregistrements.
 
 Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+NOTA:
+Conformément à l'article 2 de la loi n° 2016-339 du 22 mars 2016, ces dispositions sont applicables à compter du 1er janvier 2017, pour une durée de trois ans.
+
+L'expérimentation fait l'objet d'un bilan de sa mise en œuvre dans les deux ans suivant son entrée en vigueur, afin d'évaluer l'opportunité du maintien de cette mesure.
+
+Aux termes du IV de l'article 113 de la loi n° 2019-1428 du 24 décembre 2019, la durée mentionnée au II de l'article 2 de la loi n° 2016-339 du 22 mars 2016 est fixée à cinq ans, et le bilan de l'expérimentation mentionnée au III dudit article 2 est porté à quatre ans.

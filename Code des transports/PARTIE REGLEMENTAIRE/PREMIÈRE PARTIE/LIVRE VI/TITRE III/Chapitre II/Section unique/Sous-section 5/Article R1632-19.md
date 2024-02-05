@@ -7,3 +7,6 @@ La procédure relative à l'intervention pour le traitement des objets délaiss�
 La procédure relative à l'intervention dans le cadre de la sécurisation d'une zone prévoit que l'intervention ne peut se tenir en présence du public.
 
 Dans tous les cas, ces procédures s'appliquent de manière à ce que l'équipe cynotechnique n'intervienne jamais seule.
+
+NOTA:
+Se reporter aux dispositions mentionnées au III de l'article 4 du décret n° 2021-967 du 20 juillet 2021.

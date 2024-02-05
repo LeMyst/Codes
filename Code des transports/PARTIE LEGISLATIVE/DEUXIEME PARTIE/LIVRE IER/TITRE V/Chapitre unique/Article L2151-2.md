@@ -11,3 +11,8 @@ IV. - Les services exploités exclusivement à des fins historiques ou touristiq
 V. - Les services de transport ferroviaire de voyageurs ne relevant pas des catégories mentionnées aux I à IV du présent article sont soumis à l'application de toutes les dispositions du règlement (UE) 2021/782 du Parlement européen et du Conseil du 29 avril 2021 précité.
 
 VI. - Le présent article ne fait pas obstacle à ce que l'autorité compétente pour l'organisation d'un service public ferroviaire de transport de voyageurs décide d'appliquer tout ou partie des dispositions non obligatoires de ce règlement.
+
+NOTA:
+Conformément au IV de l'article 35 de la loi n° 2023-171 du 9 mars 2023, ces dispositions entrent en vigueur le 7 juin 2023.
+
+Se reporter au V dudit article.

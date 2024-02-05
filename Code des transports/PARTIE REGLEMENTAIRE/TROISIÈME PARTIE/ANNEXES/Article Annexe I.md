@@ -34,8 +34,7 @@ Aux fins du présent contrat, on entend par :
 
 6° Service : le service occasionnel collectif, qui comporte la mise d'un autocar à la disposition exclusive d'un groupe ou de plusieurs groupes. Ces groupes sont constitués préalablement à leur prise en charge ;
 
-7° Transport en commun d'enfants : le transport organisé à titre principal pour des personnes de moins de dix-huit ans ;
-
+7° Transport en commun d'enfants : le transport organisé à titre principal pour des personnes de moins de dix-huit ans ;\
 8° Prise en charge initiale : le moment où le premier passager commence à monter dans l'autocar ;
 
 9° Dépose finale : le moment où le dernier passager achève de descendre de l'autocar ;
@@ -70,8 +69,7 @@ c) la date, l'heure et le lieu des points d'arrêt intermédiaires ;
 
 d) le cas échéant, l'itinéraire imposé.
 
-Le respect d'un horaire d'arrivée en vue d'une correspondance doit faire l'objet d'une exigence affirmée du donneur d'ordre.
-
+Le respect d'un horaire d'arrivée en vue d'une correspondance doit faire l'objet d'une exigence affirmée du donneur d'ordre.\
 2° Composition du groupe à transporter :
 
 a) le nombre maximum de personnes qui compose le groupe ;
@@ -118,8 +116,7 @@ Le conducteur prend les mesures nécessaires à la sécurité et donne en cas de
 
 Des arrêts sont laissés à l'initiative du transporteur ou du conducteur pour répondre aux obligations de sécurité et de respect de la réglementation sociale relative aux temps de conduite et de repos des conducteurs, ou à d'autres nécessités.
 
-Pour les autocars dont les sièges sont équipés de ceinture de sécurité, le transporteur informe les passagers de l'obligation du port de cet équipement. Sauf exceptions prévues au code de la route, le port de la ceinture s'applique à chaque passager, adulte et enfant.
-
+Pour les autocars dont les sièges sont équipés de ceinture de sécurité, le transporteur informe les passagers de l'obligation du port de cet équipement. Sauf exceptions prévues au code de la route, le port de la ceinture s'applique à chaque passager, adulte et enfant.\
 S'il s'agit d'un groupe accompagné, le transporteur comme le conducteur doivent connaître le nom des personnes ayant une responsabilité d'organisation ou de surveillance, dont la nature doit être précisée. Ces personnes désignées comme responsables doivent connaître les conditions d'organisation du transport convenues avec le transporteur et détenir la liste des personnes composant le groupe. Le donneur d'ordre doit prendre les dispositions pour que ces informations leur soient communiquées avant le début du transport.
 
 A la demande du donneur d'ordre, le conducteur donne avant le départ une information sur les mesures et les dispositifs de sécurité, adaptée à la nature du service et aux passagers.
@@ -154,8 +151,7 @@ Bagages
 
 La perte ou la détérioration de bagage liée à un accident résultant de l'utilisation de l'autocar donne lieu à une indemnisation du passager par le transporteur pout tout dommage justifié dont il sera tenu pour responsable. Le montant maximal de l'indemnisation est fixé à 1 200 € par bagage. Ce montant peut être majoré dans le cadre d'une clause particulière conclue entre les parties.
 
-Le transporteur est responsable des bagages placés en soute. Ces bagages doivent faire l'objet d'un étiquetage par leur propriétaire.
-
+Le transporteur est responsable des bagages placés en soute. Ces bagages doivent faire l'objet d'un étiquetage par leur propriétaire.\
 En cas de perte ou d'avarie de bagages placés en soute sans lien avec un accident lié à l'utilisation de l'autocar, dont les conditions d'indemnisation sont précisées au premier alinéa, l'indemnité que devra verser le transporteur pour tout dommage justifié dont il sera tenu pour responsable est limitée à la somme de 800 € par unité de bagage. Cette limite d'indemnisation ne s'applique toutefois pas en cas de faute intentionnelle ou inexcusable du transporteur.
 
 Le cas échéant, les pertes et avaries de bagages placés en soute doivent immédiatement faire l'objet de réserves émises par le donneur d'ordre ou par le passager auprès du transporteur. Sauf lorsque ces réserves sont explicitement acceptées par le transporteur ou en cas de perte totale de bagages, une protestation motivée les confirmant doit lui être adressée par lettre recommandée ou par acte extrajudiciaire, au plus tard trois jours, non compris les jours fériés, après la récupération des bagages, objets du litige.
@@ -258,8 +254,7 @@ Article 14
 
 Modification du contrat de transport en cours de réalisation
 
-Toute nouvelle instruction du donneur d'ordre ayant pour objet la modification des conditions initiales d'exécution du transport en cours de réalisation doit être confirmée immédiatement au transporteur par écrit ou par tout autre procédé en permettant la mémorisation.
-
+Toute nouvelle instruction du donneur d'ordre ayant pour objet la modification des conditions initiales d'exécution du transport en cours de réalisation doit être confirmée immédiatement au transporteur par écrit ou par tout autre procédé en permettant la mémorisation.\
 Le transporteur n'est pas tenu d'accepter ces nouvelles instructions, notamment si elles sont de nature à l'empêcher d'honorer les engagements de transport pris initialement. Il doit en aviser immédiatement le donneur d'ordre par écrit ou par tout autre procédé en permettant la mémorisation.
 
 Toute modification au contrat peut entraîner un réajustement du prix convenu.

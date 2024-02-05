@@ -6,3 +6,6 @@ L'obligation posée par l'article L. 1612-1 s'applique :\
 3° Aux travaux de construction, de renouvellement ou de réaménagement, tels que définis à l'article L. 2201-1, nécessitant une nouvelle autorisation prévue à l'article L. 1613-1, dans des conditions fixées par décret en Conseil d'Etat, d'un système de transport public ferroviaire, à l'exclusion de ceux relatifs aux véhicules de ces systèmes de transport ;
 
 4° Aux travaux de construction ou de modification substantielle d'un système de transport public guidé, y compris celui destiné au transport de personnels, à l'exclusion de ceux relatifs aux véhicules de ces systèmes de transport.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

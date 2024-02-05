@@ -9,3 +9,8 @@ L'accueil en gare des personnes handicapées et à mobilité réduite est effect
 Les dispositions des trois premiers alinéas du présent article s'appliquent également aux services de transport guidé mentionnés au 3° du II de l'article L. 1241-6 qui font partie du réseau express régional empruntant pour une partie de leur parcours le réseau ferré national.
 
 Les conditions d'application du présent article sont définies par décret.
+
+NOTA:
+Conformément au IV de l'article 35 de la loi n° 2023-171 du 9 mars 2023, ces dispositions entrent en vigueur le 7 juin 2023.
+
+Se reporter au VI dudit article.

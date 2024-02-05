@@ -9,3 +9,6 @@ Est puni de l'amende prévue pour les contraventions de la 4e classe le fait :
 3° De méconnaître les obligations d'enregistrement ou de déclaration prévues par le deuxième alinéa du 1° de l'article R. 3224-1 ;
 
 4° De méconnaître les obligations de publication et d'affichage prévues à l'article R. 3242-9.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2020-1088 du 24 août 2020, ces dispositions entrent en vigueur le 1er novembre 2020.

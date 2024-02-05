@@ -9,3 +9,6 @@ En cas de partage égal des voix, la voix du président de séance est prépond�
 Le conseil peut entendre toute personne dont l'audition est jugée utile par le président.
 
 Les séances du conseil sont publiques, sauf décision contraire motivée du président prise en début de séance.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

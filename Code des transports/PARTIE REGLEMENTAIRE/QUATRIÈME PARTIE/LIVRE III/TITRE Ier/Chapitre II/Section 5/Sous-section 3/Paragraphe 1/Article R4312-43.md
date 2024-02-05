@@ -5,3 +5,6 @@ Les représentants titulaires et suppléants du comité social d'administration 
 Les autres représentants titulaires et les représentants suppléants de cette commission sont désignés librement parmi les salariés mentionnés au 4° de l'article L. 4312-3-1 du présent code satisfaisant aux conditions d'éligibilité fixées par l'article L. 2314-19 du code du travail par les organisations syndicales ayant obtenu des sièges au comité social d'administration central au titre de ce même collège. Ces sièges sont répartis entre ces organisations syndicales conformément aux dispositions du septième alinéa de l'article 25 du décret du 20 novembre 2020 mentionné ci-dessus par le directeur général de Voies navigables de France dans un délai de quinze jours à compter de la proclamation des résultats de l'élection des représentants du personnel au sein du comité social d'administration central.
 
 Les organisations syndicales concernées procèdent aux désignations dans un délai de quinze jours à compter de la notification de cette décision.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

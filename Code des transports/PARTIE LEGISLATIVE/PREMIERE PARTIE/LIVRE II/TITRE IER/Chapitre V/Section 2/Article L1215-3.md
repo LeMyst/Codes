@@ -7,3 +7,6 @@ A cet effet, la région et le ou les départements concernés pilotent l'élabor
 Sont associés les organismes publics et privés intervenant dans l'accompagnement des personnes en situation de vulnérabilité économique ou sociale ainsi que des personnes en situation de handicap ou dont la mobilité est réduite.
 
 Le plan d'action définit les conditions dans lesquelles ces personnes bénéficient d'un conseil et d'un accompagnement individualisé à la mobilité. Il prévoit, notamment, les mesures permettant au service public de l'emploi de fournir ces prestations à tout demandeur d'emploi, à toute personne éloignée de l'emploi ou au jeune en contrat d'apprentissage.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

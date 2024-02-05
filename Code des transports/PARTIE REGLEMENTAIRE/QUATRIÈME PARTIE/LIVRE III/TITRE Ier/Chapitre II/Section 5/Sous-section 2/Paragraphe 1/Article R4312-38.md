@@ -9,3 +9,6 @@ Les représentants suppléants sont désignés librement par les organisations s
 2° Par l' article L. 2314-19 du code du travail pour les salariés mentionnés au 4° de l'article L. 4312-3-1 du présent code.
 
 Ces désignations interviennent dans un délai de quinze jours à compter de la proclamation des résultats.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

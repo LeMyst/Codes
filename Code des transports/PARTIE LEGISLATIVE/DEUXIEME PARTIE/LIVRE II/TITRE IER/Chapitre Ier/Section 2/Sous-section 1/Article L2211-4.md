@@ -7,3 +7,6 @@ Le délai de consignation peut être prorogé par ordonnance motivée du présid
 Le magistrat est saisi sans formalité par les agents habilités. Il statue dans les vingt-quatre heures par ordonnance exécutoire à titre provisoire, au vu de tous les éléments d'information de nature à justifier cette mesure.\
 L'ordonnance de prorogation de la mesure de consignation est notifiée, par tous moyens, au détenteur des produits consignés.\
 La mainlevée de la mesure de consignation peut être ordonnée à tout moment soit par les agents ayant procédé à cette consignation ou par le procureur de la République, soit par le président du tribunal judiciaire ou le magistrat qu'il délègue à cet effet.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

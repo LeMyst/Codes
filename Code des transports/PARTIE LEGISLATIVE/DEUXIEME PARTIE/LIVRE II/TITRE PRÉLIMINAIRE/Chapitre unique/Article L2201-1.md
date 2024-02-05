@@ -21,3 +21,6 @@ Toutefois, les dispositions applicables au système ferroviaire ne s'appliquent 
 8° “ Réaménagement ” : les travaux importants de modification d'un sous-système ou d'une de ses parties résultant en une modification du dossier technique accompagnant la déclaration “ CE ” de vérification, si ce dossier technique existe, et améliorant les performances globales du sous-système ;
 
 9° “ Renouvellement ” : les travaux importants de substitution d'un sous-système ou d'une de ses parties ne modifiant pas les performances globales du sous-système.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

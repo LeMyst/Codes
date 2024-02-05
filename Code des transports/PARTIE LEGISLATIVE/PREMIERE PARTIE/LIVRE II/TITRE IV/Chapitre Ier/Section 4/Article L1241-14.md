@@ -29,3 +29,6 @@ Les ressources d'Ile-de-France Mobilités comprennent :
 12° Le produit de la contribution locale temporaire mentionnée à l'article L. 2124-1 du présent code ;
 
 13° Les produits de l'occupation des espaces à usage de commerces et les recettes publicitaires de toute nature dans les gares constituant le réseau mentionné aux articles 20 et 20-2 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

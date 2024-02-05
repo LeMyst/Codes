@@ -5,3 +5,6 @@ Sans préjudice de la suspension ou du retrait, aux fins de préservation de la 
 L'Etablissement public de sécurité ferroviaire peut prononcer à l'encontre d'une personne mentionnée au premier alinéa du présent article, par une décision motivée, une sanction pécuniaire, dont le montant est proportionné à la gravité du manquement, à sa réitération éventuelle, à la situation de l'intéressée et aux avantages qui en sont tirés par celle-ci, sans pouvoir excéder 20 000 € par manquement. L'Etablissement public de sécurité ferroviaire peut rendre publique cette sanction.
 
 Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. Les sommes correspondantes sont versées à l'Etablissement public de sécurité ferroviaire.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

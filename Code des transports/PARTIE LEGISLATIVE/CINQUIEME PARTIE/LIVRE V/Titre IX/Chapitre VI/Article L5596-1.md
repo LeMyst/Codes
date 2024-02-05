@@ -5,3 +5,6 @@ L'autorité administrative peut, sur le rapport des agents de contrôle de l'ins
 1° Au versement du salaire minimum horaire prévu à l'article L. 5592-1 ;
 
 2° A l'organisation du travail prévue à l'article L. 5592-2.
+
+NOTA:
+Conformément au II de l’article 1er de la loi n° 2023-659 du 26 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

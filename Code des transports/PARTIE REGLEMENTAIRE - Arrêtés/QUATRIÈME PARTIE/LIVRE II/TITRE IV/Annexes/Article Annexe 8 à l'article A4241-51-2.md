@@ -23,8 +23,7 @@ Il faut se tenir à une distance suffisante des balises pour ne pas courir le ri
 | Voyant : | partie supérieure du signal de forme spécifique dont le but est de permettre la reconnaissance de la marque de balisage sans ambiguïté. Cette forme peut être conique, triangulaire, sphérique, en forme de croix de Saint André ou être un panneau. |
 | Feu : | feu caractéristique servant au balisage |
 | Feu fixe : | feu donnant une lumière ininterrompue dont l'intensité et la couleur restent constantes. |
-| Feu rythmé : | feu présentant une succession caractéristique et périodiquement répétée de temps de lumière et d'obscurité, et dont l'intensité et la couleur restent constantes.
-La période est l’intervalle de temps pendant lequel un feu qui n’est pas fixe reprend les mêmes aspects dans le même ordre. |
+| Feu rythmé : | feu présentant une succession caractéristique et périodiquement répétée de temps de lumière et d'obscurité, et dont l'intensité et la couleur restent constantes.La période est l’intervalle de temps pendant lequel un feu qui n’est pas fixe reprend les mêmes aspects dans le même ordre. |
 | Feu à occultations : | feu dont la durée de lumière est nettement plus longue que la durée d’obscurité. |
 | Feu à éclat : | feu dont la durée de lumière est nettement plus courte que la durée d’obscurité. |
 | Feu isophase : | feu dont la durée de lumière est égale à la durée d’obscurité. |

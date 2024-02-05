@@ -7,3 +7,6 @@ Les autorités administratives compétentes pour délivrer les autorisations de 
 Durant l'exécution du service, l'exploitant mentionné au même article L. 3121-1 transmet au gestionnaire du registre les informations relatives à la localisation en temps réel du taxi disponible sur sa zone de prise en charge. Cette obligation peut être satisfaite par l'intermédiaire d'une centrale de réservation telle que définie à l'article L. 3142-1 dès lors que l'exploitant est affilié à une telle centrale.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article et les conditions dans lesquelles l'exploitant peut refuser d'effectuer une prestation de transport.
+
+NOTA:
+Conformément au IV de l’article 25 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur un an après la promulgation de la présente loi.

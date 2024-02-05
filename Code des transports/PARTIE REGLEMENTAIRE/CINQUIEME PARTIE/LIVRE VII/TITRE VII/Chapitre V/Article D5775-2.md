@@ -4,6 +4,4 @@ Sont applicables en Polynésie française, en tant qu'elles concernent les comp�
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-D. 5532-1 et D. 5532-2
-| Résultant du décret n° 2018-747 du 24 août 2018 relatif au régime disciplinaire des marins et des pilotes, à la discipline à bord des navires et au régime disciplinaire applicable aux militaires embarqués |
+|  D. 5532-1 et D. 5532-2  | Résultant du décret n° 2018-747 du 24 août 2018 relatif au régime disciplinaire des marins et des pilotes, à la discipline à bord des navires et au régime disciplinaire applicable aux militaires embarqués |

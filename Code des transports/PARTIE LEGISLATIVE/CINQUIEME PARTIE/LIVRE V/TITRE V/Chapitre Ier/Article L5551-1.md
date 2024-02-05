@@ -31,3 +31,12 @@ c) Les services portuaires au sens du titre IV du livre III de la cinquième par
 d) Les activités de construction, ravitaillement ou d'entretien des installations en mer.
 
 Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 4 de l'ordonnance 2020-933 du 29 juillet 2020 :
+
+I. - Sous réserve du II, les gens de mer mentionnés au II de l'article L. 5551-1 du code des transports, exerçant à la date de l'entrée en vigueur de la loi du 24 décembre 2019 susvisée, sont affiliés au régime d'assurances sociales relevant de leur activité principale à compter du premier jour du mois suivant la publication de la présente ordonnance.
+
+II. - Les gens de mer mentionnés au 2° du II de l'article L. 5551-1 du code des transports, affiliés au régime d'assurance vieillesse mentionné au I de cet article à la date de l'entrée en vigueur de la loi du 24 décembre 2019 précitée, demeurent affiliés à ce régime.
+
+III. - Les articles L. 5542-21 à L. 5542-28 du même code demeurent applicables aux gens de mer mentionnés au présent article maintenus au régime d'assurance vieillesse des marins en application des dispositions précitées du II ou, le cas échéant, du I.

@@ -10,3 +10,6 @@ Les conditions dans lesquelles les déplacements réalisés peuvent donner lieu 
 Par dérogation au cinquième alinéa du présent article, le montant de l'allocation versée au conducteur dans le cadre d'un déplacement réalisé en covoiturage peut excéder, pour les déplacements dont la distance est inférieure à un seuil défini par décret et dans la limite de deux déplacements par jour et par conducteur, les frais pris en considération dans le cadre du partage des frais mentionné à l'article L. 3132-1.
 
 Pour l'application du présent article, l'effectif salarié et le franchissement de seuil de deux cent cinquante salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

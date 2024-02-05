@@ -29,3 +29,6 @@ Le préfet de la région dans laquelle le conseil de développement territorial 
 Le conseil de développement élit son président et son vice-président parmi ses membres. En cas d'absence ou pour tout autre empêchement du président, le président du conseil de développement est provisoirement remplacé dans la plénitude de ses fonctions par le vice-président.
 
 III.-La durée du mandat des membres du conseil de développement est de cinq ans.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

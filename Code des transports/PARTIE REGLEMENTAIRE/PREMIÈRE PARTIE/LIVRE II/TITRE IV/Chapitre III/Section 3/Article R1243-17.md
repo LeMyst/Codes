@@ -13,3 +13,6 @@ A ce titre :
 4° Il peut déléguer ses attributions aux vice-présidents et aux autres membres du conseil d'administration, y compris pour les attributions qui lui ont été confiées par le conseil d'administration, sauf si celui-ci en décide autrement ;
 
 5° Il est le chef des services de l'établissement public. Il peut donner délégation de signature en toute matière au directeur général ou à tout autre cadre de l'établissement.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

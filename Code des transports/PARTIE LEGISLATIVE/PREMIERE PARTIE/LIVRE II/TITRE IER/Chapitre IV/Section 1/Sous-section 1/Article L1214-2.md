@@ -29,3 +29,6 @@ Le plan de mobilité vise à assurer :
 10° L'organisation d'une tarification et d'une billetique intégrées pour l'ensemble des déplacements, incluant sur option le stationnement en périphérie et favorisant l'utilisation des transports collectifs par les familles et les groupes ;
 
 11° La réalisation, la configuration et la localisation d'infrastructures de charge destinées à favoriser l'usage de véhicules électriques ou hybrides rechargeables ainsi que la localisation du réseau d'avitaillement à carburant alternatif tel que précisé à l'article 39 decies A du code général des impôts. Le plan de mobilité peut tenir lieu de schéma directeur de développement des infrastructures de recharges ouvertes au public pour les véhicules électriques et les véhicules hybrides rechargeables mentionné à l'article L. 353-5 du code de l'énergie.
+
+NOTA:
+Conformément au I de l'article 108 de la loi n° 20121-1104 du 22 août 2021, ces dispositions s'appliquent aux plans de mobilité et aux plans locaux d'urbanisme tenant lieu de plan de mobilité mentionnés au deuxième alinéa de l'article L. 151-44 du code de l'urbanisme dont l'élaboration ou la révision est décidée par l'organe délibérant de l'autorité organisatrice de la mobilité après la publication de ladite loi.

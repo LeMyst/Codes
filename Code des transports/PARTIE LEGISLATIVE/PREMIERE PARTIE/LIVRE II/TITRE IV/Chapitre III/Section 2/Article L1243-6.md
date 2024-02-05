@@ -19,3 +19,6 @@ Elle contribue aux objectifs de lutte contre le changement climatique, la pollut
 IV.-L'autorité organisatrice des mobilités des territoires lyonnais coordonne les services de mobilité organisés sur son ressort territorial et met en place un système d'information à l'intention des usagers portant sur l'ensemble des modes de déplacement et de tarification coordonnée permettant la délivrance de titres de transport uniques ou unifiés.
 
 Elle veille à ce que ce service d'information réponde à des exigences d'accessibilité aux personnes handicapées, dans les conditions prévues à l'article 47 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

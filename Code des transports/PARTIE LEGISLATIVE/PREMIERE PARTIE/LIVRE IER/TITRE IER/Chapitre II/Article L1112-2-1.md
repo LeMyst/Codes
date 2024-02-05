@@ -25,3 +25,6 @@ Le schéma directeur d'accessibilité-agenda d'accessibilité programmée relati
 Le schéma directeur d'accessibilité-agenda d'accessibilité programmée doit être déposé dans les douze mois suivant la publication de l'ordonnance n° 2014-1090 du 26 septembre 2014.
 
 L'autorité administrative compétente peut autoriser, par décision motivée, la prorogation de ce délai pour une durée maximale de trois ans dans le cas où les difficultés financières liées à l'évaluation ou à la programmation du schéma le justifient, de douze mois dans le cas où les difficultés techniques liées à l'évaluation ou à la programmation du schéma le justifient ou de six mois en cas de rejet d'un premier agenda.
+
+NOTA:
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.

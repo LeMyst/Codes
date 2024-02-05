@@ -11,3 +11,6 @@ Lorsque l'aérodrome est exploité par une société concessionnaire, le transfe
 Le transfert des biens de l'aérodrome s'opère à titre gratuit et ne donne lieu ni au versement de la contribution prévue à l'article 879 du code général des impôts, ni à perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
 La collectivité ou le groupement bénéficiaire du transfert succède à l'Etat dans l'ensemble des droits et obligations à l'égard des tiers.
+
+NOTA:
+Aux termes du II de l'article 21 de la loi n° 2015-991 du 7 août 2015, les transferts de compétences prévus au I dudit article sont applicables sous réserve de l'entrée en vigueur des dispositions relevant de la loi de finances prévues aux I et II de l'article 133 de la même loi.

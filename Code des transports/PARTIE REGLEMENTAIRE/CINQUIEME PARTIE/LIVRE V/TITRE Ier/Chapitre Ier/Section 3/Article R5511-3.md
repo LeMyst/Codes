@@ -7,3 +7,6 @@ a) Installations et constructions d'unités de productions sous-marines ;
 b) Forage de puits, champs pétroliers ou gaziers ;
 
 c) Construction et entretien de plates-formes, d'îles artificielles, d'ouvrages ou d'installations en mer.
+
+NOTA:
+Conformément à l’article 30 du décret n° 2021-933 du 12 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.

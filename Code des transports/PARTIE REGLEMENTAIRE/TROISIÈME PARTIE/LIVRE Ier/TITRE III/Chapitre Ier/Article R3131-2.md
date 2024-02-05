@@ -13,3 +13,6 @@ Sont également considérés comme des services privés lorsqu'ils répondent à
 5° Les transports organisés par des associations pour leurs membres, sous réserve que ces déplacements soient en relation directe avec l'objet statutaire de l'association et qu'il ne s'agisse pas d'une association dont l'objet principal est le transport de ses membres ou l'organisation de voyages touristiques.
 
 Ces services sont exécutés à titre gratuit pour les passagers.
+
+NOTA:
+Par décision n°413040 du 5 juillet 2019 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHR:2019:413040.201907, le décret n° 2017-483 du 6 avril 2017 relatif aux activités de transport public particulier de personnes et actualisant diverses dispositions du code des transports (NOR: DEVT1629017D) est annulé en tant qu’il n’édicte pas les dispositions nécessaires pour garantir que l’évaluation des conditions d’aptitude professionnelle des conducteurs de taxi et de voiture de transport avec chauffeur par les chambres de métiers et de l’artisanat de région respecte la liberté d’établissement.

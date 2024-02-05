@@ -11,3 +11,6 @@ Le greffe qui a procédé à l'inscription délivre les états des inscriptions 
 Elle doit être faite trois jours avant l'audience.
 
 L'accomplissement des formalités de dénonciation est transcrit au registre mentionné au premier alinéa.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

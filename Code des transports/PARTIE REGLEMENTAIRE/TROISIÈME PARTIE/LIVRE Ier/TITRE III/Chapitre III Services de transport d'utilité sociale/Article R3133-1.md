@@ -25,3 +25,6 @@ h) Allocation de solidarité aux personnes âgées prévue à l'article L. 815-1
 i) Allocation supplémentaire d'invalidité prévue à l'article L. 815-24 du code de la sécurité sociale ;
 
 j) Allocation aux adultes handicapés prévue à l'article L. 821-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

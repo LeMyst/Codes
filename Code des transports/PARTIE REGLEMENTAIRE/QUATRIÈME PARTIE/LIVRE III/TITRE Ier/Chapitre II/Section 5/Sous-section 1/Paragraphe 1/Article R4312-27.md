@@ -7,3 +7,6 @@ La durée du mandat des représentants du personnel est réduite ou prorogée en
 Au moins six mois avant la date de l'élection, les modalités d'organisation et de déroulement des opérations électorales donnent lieu à concertation avec les organisations syndicales mentionnées à l'article L. 211-1 du code général de la fonction publique et celles mentionnées à l' article L. 2314-5 du code du travail .
 
 En cas de renouvellement anticipé, la date de l'élection est fixée par décision du directeur général de l'établissement public au moins trois mois avant la date de l'élection.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

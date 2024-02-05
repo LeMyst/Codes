@@ -16,8 +16,7 @@ L'excédent net de chaque exercice, après prélèvement de la part de l'Etat, e
 2° La section des opérations en capital comprend en particulier :\
 En recettes :\
 a) Le produit des amortissements ;\
-b) Les versements de l'Etat, en capital ou en annuités, au titre des opérations visées aux articles R. 5313-70, R. 5313-71,
-R. 5313-73 et R. 5313-74 ;\
+b) Les versements de l'Etat, en capital ou en annuités, au titre des opérations visées aux articles R. 5313-70, R. 5313-71, R. 5313-73 et R. 5313-74 ;\
 c) Le produit des aliénations de biens mobiliers ou immobiliers ou d'outillages déclassés ;\
 d) Les produits des emprunts autorisés ;\
 e) Les participations des départements, des communes, des chambres de commerce et d'industrie territoriales, ou des chambres de commerce et d'industrie de région, de tout autre établissement public ainsi que des personnes privées à certaines dépenses en capital effectuées par le port ;\

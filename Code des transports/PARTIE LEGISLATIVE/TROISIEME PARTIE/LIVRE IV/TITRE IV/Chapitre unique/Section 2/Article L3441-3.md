@@ -11,3 +11,6 @@ Pour l'application aux sociétés coopératives d'entreprises de transport des d
 4° Le ministre chargé des transports exerce les pouvoirs dévolus au ministre chargé de l'artisanat.
 
 Les modalités d'application du présent article sont définies par voie réglementaire.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

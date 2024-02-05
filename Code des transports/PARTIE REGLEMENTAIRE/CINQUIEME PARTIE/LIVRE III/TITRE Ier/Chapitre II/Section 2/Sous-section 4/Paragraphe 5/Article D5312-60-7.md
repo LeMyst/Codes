@@ -61,3 +61,6 @@ Ce conseil comprend vingt-cinq membres répartis comme suit :
 -le délégué interministériel au développement de l'axe portuaire et logistique Méditerranée-Rhône-Saône ;
 
 -une personnalité désignée par l'organe délibérant du du grand port fluvio-maritime de l'axe Seine.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

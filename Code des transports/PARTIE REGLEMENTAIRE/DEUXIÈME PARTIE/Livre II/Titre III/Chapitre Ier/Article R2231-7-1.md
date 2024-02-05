@@ -9,3 +9,6 @@ I.-Pour l'application de l'article L. 2231-7, le représentant de l'Etat dans le
 3° Prescrire au maître d'ouvrage, pour les projets envisagés à une distance des passages à niveau inférieure à celle mentionnée au I de l'article R. 2231-7, la réalisation d'une étude des flux de circulation routière générés par le projet, la modification des accès au projet, ou la modification des équipements du passage à niveau.
 
 II.-Le représentant de l'Etat dans le département dispose d'un délai de deux mois à compter de la réception de la proposition du gestionnaire d'infrastructure pour imposer des prescriptions à respecter pour préserver la sécurité de l'infrastructure ferroviaire et, le cas échéant, routière, ainsi que celle des propriétés riveraines.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1772 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

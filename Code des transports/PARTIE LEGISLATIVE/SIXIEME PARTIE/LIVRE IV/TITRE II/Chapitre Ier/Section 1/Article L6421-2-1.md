@@ -5,3 +5,6 @@ Toute personne physique ou morale commercialisant un titre de transport sur les 
 Il lui est indiqué par écrit, avant la conclusion de la vente, qu'il voyagera sur une compagnie figurant sur la liste européenne des transporteurs aériens faisant l'objet dans l'Union européenne d'une interdiction d'exploitation.
 
 Le fait de se livrer ou d'apporter son concours à la commercialisation d'un titre de transport sans respecter les mesures ordonnées en application du présent article est passible d'une amende administrative de 7 500 € par titre de transport, doublée en cas de récidive, sans préjudice des poursuites pouvant être engagées au titre de l'article 121-3 du code pénal.
+
+NOTA:
+Conformément au II de l'article unique de la loi n° 2013-343 du 24 avril 2013, la présente loi entre en vigueur à une date fixée par décret et au plus tard un an après sa promulgation. Conformément à l'article 1 du décret n° 2013-698 du 30 juillet 2013, la loi n° 2013-343 du 24 avril 2013 entre en vigueur le 1er octobre 2013.

@@ -21,3 +21,6 @@ Le directeur général statue sans délai sur ces réclamations.
 Aucune modification n'est alors admise sauf si un événement postérieur et prenant effet au plus tard la veille du scrutin entraîne, pour un agent, l'acquisition ou la perte de la qualité d'électeur.
 
 Dans ce cas, l'inscription ou la radiation est prononcée au plus tard la veille du scrutin, soit à l'initiative de l'administration, soit à la demande de l'intéressé, et immédiatement portée à la connaissance des personnels par voie d'affichage.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2022-862 du 7 juin 2022, ces dispositions entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.

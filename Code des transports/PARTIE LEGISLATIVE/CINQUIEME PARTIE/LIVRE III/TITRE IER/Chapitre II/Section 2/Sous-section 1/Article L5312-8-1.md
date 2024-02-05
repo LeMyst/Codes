@@ -9,3 +9,6 @@ Le commissaire du Gouvernement auprès du grand port maritime et l'autorité cha
 Le comité d'audit assiste le conseil de surveillance dans sa fonction de garant de la qualité du contrôle interne et de la fiabilité des informations fournies à l'Etat.
 
 Le conseil de surveillance définit les affaires qui relèvent de la compétence du comité d'audit. Celles-ci comprennent notamment le contrôle de l'efficacité des systèmes de contrôle interne, la supervision du contrôle légal des comptes annuels et des comptes consolidés, l'évaluation des risques d'engagement hors bilan significatifs ainsi que l'examen et le suivi de l'indépendance des commissaires aux comptes.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

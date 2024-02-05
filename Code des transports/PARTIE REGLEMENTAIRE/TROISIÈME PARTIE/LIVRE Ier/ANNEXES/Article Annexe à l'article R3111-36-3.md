@@ -10,35 +10,12 @@ Le taux d'affectation mentionné dans le tableau ci-dessous est calculé selon l
 
 | CRITÈRES DE CLASSEMENT  | BARÈMES  |
 | --- | --- |
-| Taux d'affectation  | Taux d'affectation de 95 % à 100 % : 100 points ;
-Taux d'affectation de 90 % à moins de 95 % : 95 points ;
-Taux d'affectation de 85 % à moins de 90 % : 90 points ;
-Taux d'affectation de 80 % à moins de 85 % : 85 points ;
-Taux d'affectation de 75 % à moins de 80 % : 80 points ;
-Taux d'affectation de 70 % à moins de 75 % : 75 points ;
-Taux d'affectation de 65 % à moins de 70 % : 70 points ;
-Taux d'affectation de 60 % à moins de 65 % : 65 points ;
-Taux d'affectation de 55 % à moins de 60 % : 60 points ;
-Taux d'affectation de 50 % à moins de 55 % : 55 points ;
-Taux d'affectation de 45 % à moins de 50 % : 50 points ;
-Taux d'affectation de 40 % à moins de 45 % : 45 points ;
-Taux d'affectation de 35 % à moins de 40 % : 40 points ;
-Taux d'affectation de 30 % à moins de 35 % : 35 points ;
-Taux d'affectation de 25 % à moins de 30 % : 30 points ;
-Taux d'affectation de 20 % à moins de 25 % : 25 points ;
-Taux d'affectation de 15 % à moins de 20 % : 20 points ;
-Taux d'affectation de 10 % à moins de 15 % : 15 points ;
-Taux d'affectation de 5 % à moins de 10 % : 10 points ;
-Taux d'affectation de 0 % à moins de 5 % : 5 points.  |
-| Ancienneté dans le poste  | 0,15 point en moins par année d'ancienneté sur le poste
-Plafond : 4 points en moins au maximum  |
+| Taux d'affectation  | Taux d'affectation de 95 % à 100 % : 100 points ; Taux d'affectation de 90 % à moins de 95 % : 95 points ; Taux d'affectation de 85 % à moins de 90 % : 90 points ; Taux d'affectation de 80 % à moins de 85 % : 85 points ; Taux d'affectation de 75 % à moins de 80 % : 80 points ; Taux d'affectation de 70 % à moins de 75 % : 75 points ; Taux d'affectation de 65 % à moins de 70 % : 70 points ; Taux d'affectation de 60 % à moins de 65 % : 65 points ; Taux d'affectation de 55 % à moins de 60 % : 60 points ; Taux d'affectation de 50 % à moins de 55 % : 55 points ; Taux d'affectation de 45 % à moins de 50 % : 50 points ; Taux d'affectation de 40 % à moins de 45 % : 45 points ; Taux d'affectation de 35 % à moins de 40 % : 40 points ; Taux d'affectation de 30 % à moins de 35 % : 35 points ; Taux d'affectation de 25 % à moins de 30 % : 30 points ; Taux d'affectation de 20 % à moins de 25 % : 25 points ; Taux d'affectation de 15 % à moins de 20 % : 20 points ; Taux d'affectation de 10 % à moins de 15 % : 15 points ; Taux d'affectation de 5 % à moins de 10 % : 10 points ; Taux d'affectation de 0 % à moins de 5 % : 5 points.  |
+| Ancienneté dans le poste  | 0,15 point en moins par année d'ancienneté sur le poste Plafond : 4 points en moins au maximum  |
 | Ancienneté dans l'entreprise  | 0,15 point en moins par année d'ancienneté dans l'entreprise  |
-| Eloignement du domicile par rapport au lieu d'affectation  | 0,1 point en moins par minute de temps de trajet entre le domicile et celui des lieux principaux d'affectation qui s'en trouve le plus proche
-Plafond : 4 points en moins au maximum  |
-| Charges de famille  | 1 point en moins si le salarié est marié, lié par un pacte civil de solidarité ou vit en concubinage
-0,5 point en moins par personne à charge au sens de la législation fiscale Plafond : 4 points en moins au maximum  |
-| Handicap  | 2 points en moins si le salarié concerné est reconnu comme ayant la qualité de travailleur handicapé
-1 point en moins par personne à charge en situation de handicap (reconnaissance de la qualité de travailleur handicapé ou autre forme de reconnaissance) Sans plafond.  |
+| Eloignement du domicile par rapport au lieu d'affectation  | 0,1 point en moins par minute de temps de trajet entre le domicile et celui des lieux principaux d'affectation qui s'en trouve le plus proche Plafond : 4 points en moins au maximum  |
+| Charges de famille  | 1 point en moins si le salarié est marié, lié par un pacte civil de solidarité ou vit en concubinage 0,5 point en moins par personne à charge au sens de la législation fiscale Plafond : 4 points en moins au maximum  |
+| Handicap  | 2 points en moins si le salarié concerné est reconnu comme ayant la qualité de travailleur handicapé 1 point en moins par personne à charge en situation de handicap (reconnaissance de la qualité de travailleur handicapé ou autre forme de reconnaissance) Sans plafond.  |
 | Volontariat  | 25 points si le salarié est volontaire  |
 
 Deuxième étape : désignation des salariés transférés

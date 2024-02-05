@@ -15,3 +15,6 @@ Les candidatures sont présentées par les organisations syndicales qui rempliss
 La composition de la représentation du personnel au sein du comité social unique est fixée de façon à permettre la représentation de chaque collège, en tenant compte des effectifs, d'une part, des personnels mentionnés aux 1° à 3° de l'article L. 1241-13-1 du présent code et, d'autre part, des personnels mentionnés au 4° du même article L. 1241-13-1.
 
 III.-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l'article 2 de la loi n° 2023-1270 du 27 décembre 2023, ces dispositions entrent en vigueur à l'expiration des mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés aux 1° à 3° de l'article L. 1241-13-1 du code des transports en cours à la publication de la présente loi. Les mandats des représentants des personnels d'Ile-de-France Mobilités mentionnés au 4° de l'article L. 1241-13-1 du code des transports en cours à la date d'entrée en vigueur de l'article L. 1241-13-2 du même code prennent fin à cette même date.

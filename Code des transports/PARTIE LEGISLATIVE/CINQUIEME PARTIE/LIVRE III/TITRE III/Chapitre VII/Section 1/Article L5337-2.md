@@ -8,3 +8,6 @@ Ont compétence pour constater les contraventions de grande voirie prévues par 
 5° Les agents des grands ports maritimes et des ports autonomes assermentés à cet effet devant le tribunal judiciaire ;\
 6° Les agents des collectivités territoriales et de leurs groupements assermentés à cet effet devant le tribunal judiciaire ;\
 7° Les officiers et agents de police judiciaire.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

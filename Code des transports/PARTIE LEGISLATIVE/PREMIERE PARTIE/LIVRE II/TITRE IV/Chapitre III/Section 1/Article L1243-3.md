@@ -11,3 +11,6 @@ Le transfert est réalisé à titre gratuit et ne donne lieu au versement d'aucu
 L'autorité organisatrice des mobilités des territoires lyonnais est substituée de plein droit, à la date de transfert des compétences, à l'établissement public de coopération intercommunale à fiscalité propre qui adhère, dans tous ses droits et obligations relatifs aux compétences transférées.
 
 Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La substitution de personne morale aux contrats conclus par l'établissement public de coopération intercommunale à fiscalité propre n'entraîne aucun droit à résiliation ou à indemnisation pour le cocontractant. L'établissement public de coopération intercommunale qui adhère à l'autorité organisatrice des mobilités des territoires lyonnais informe les cocontractants de cette substitution.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

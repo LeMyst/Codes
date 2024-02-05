@@ -7,3 +7,6 @@ Pour l'exercice de leurs missions, elles ont accès à bord des navires.
 Elles peuvent visiter le navire et recueillir tous renseignements et justifications nécessaires ou exiger la communication de tous documents, titres, certificats ou pièces utiles, quel qu'en soit le support, et en prendre copie.
 
 Toutefois, elles ne peuvent accéder aux parties du navire à usage exclusif d'habitation que dans les conditions prévues au troisième alinéa de l'article L. 5243-4.
+
+NOTA:
+Conformément à l'article 18 de la loi n° 2016-816 du 20 juin 2016, les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat et, au plus tard, six mois après la promulgation de ladite loi.

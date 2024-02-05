@@ -23,3 +23,6 @@ IV.-Les salariés de droit privé de l'Agence de l'outre-mer pour la mobilité s
 V.-Seuls les représentants du personnel ayant la qualité d'agent de droit public peuvent connaître des questions mentionnées au 4° du II de l'article 15 de la loi n° 84-16 du 11 janvier 1984 précitée.
 
 VI.-L'exercice des compétences prévues à l'article L. 2312-5 du code du travail, à l'exception de celles mentionnées aux deuxième, troisième et avant-dernier alinéas, et aux articles L. 2312-6 et L. 2312-7 du même code est réservé aux seuls représentants du personnel ayant la qualité de salarié de droit privé, réunis sous la forme d'une délégation du personnel de droit privé.
+
+NOTA:
+Conformément au II de l'article 9 de la loi n° 2019-828 du 6 août 2019, les présentes dispositions entrent en vigueur lors du prochain renouvellement général des instances dans la fonction publique.

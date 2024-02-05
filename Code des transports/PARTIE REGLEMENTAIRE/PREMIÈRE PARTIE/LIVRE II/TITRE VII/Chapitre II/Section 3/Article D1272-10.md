@@ -29,3 +29,6 @@ III.-Les entreprises concernées mettent à disposition du public les informatio
 Ces informations sont portées à la connaissance du public, dans le respect des dispositions relatives à l'information des usagers, notamment sur le lieu de vente de l'entreprise, sur son site internet ou par l'intermédiaire de tout autre service d'information et de vente à distance lorsqu'ils existent.
 
 IV.-Les dispositions du présent article ne sont pas applicables aux services routiers librement organisés en cabotage définis à l'article R. 3421-1.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-190 du 20 février 2021, les présentes dispositions entrent en vigueur le 1er juillet 2021.

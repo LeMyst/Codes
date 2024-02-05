@@ -5,3 +5,6 @@ Les entreprises ferroviaires sont titulaires d'un certificat de sécurité uniqu
 L'obligation d'être titulaire d'un certificat de sécurité unique ne s'applique pas aux entreprises réalisant, conformément à des mesures d'exploitation prescrites par le gestionnaire d'infrastructure, des circulations limitées et à vitesse réduite sur les voies ferrées portuaires mentionnées au précédent alinéa, au départ ou à destination des voies ferrées à l'intérieur du port qui leur sont raccordées.
 
 Les conditions dans lesquelles les entreprises, titulaires ou non titulaires du certificat de sécurité unique, circulent sur les voies ferrées portuaires autres que celles mentionnées au premier alinéa sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

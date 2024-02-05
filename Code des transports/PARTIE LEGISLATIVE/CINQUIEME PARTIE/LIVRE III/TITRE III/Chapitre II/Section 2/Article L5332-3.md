@@ -9,3 +9,6 @@ Ces mesures de sûreté peuvent, notamment, avoir pour objet :
 2° D'empêcher l'introduction d'objets ou de produits prohibés tels que des armes ou des substances et engins dangereux non autorisés ou, en cas d'autorisation de transport, d'encadrer leur introduction par des mesures de sûreté particulières.
 
 Ces mesures sont définies de manière proportionnée selon les trois niveaux de sûreté prévus par le règlement mentionné à l'article L. 5332-1 au regard notamment des caractéristiques des points vulnérables à protéger.
+
+NOTA:
+Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.

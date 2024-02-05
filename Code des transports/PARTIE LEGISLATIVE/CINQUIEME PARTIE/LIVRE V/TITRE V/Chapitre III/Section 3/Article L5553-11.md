@@ -9,3 +9,6 @@ Le bénéfice des exonérations prévues au premier alinéa est conditionné au 
 Le bénéfice de l'exonération prévue au premier alinéa est subordonné à une autorisation préalable délivrée, après vérification du respect des conditions prévues au présent article, par décision de l'autorité compétente de l'Etat. L'autorité compétente de l'Etat s'assure du respect des conditions mentionnées aux premier et troisième alinéas.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément au II de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2023.

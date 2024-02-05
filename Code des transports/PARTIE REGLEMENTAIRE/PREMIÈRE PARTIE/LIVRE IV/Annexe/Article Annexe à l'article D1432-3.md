@@ -347,3 +347,6 @@ Article 16
 Clause attributive de juridiction
 
 En cas de litige ou de contestation relatif à un contrat de commission de transport incluant un transport international, seul le tribunal de commerce de Paris est compétent, même en cas de pluralité de défendeurs ou d'appels en garantie.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2021-985 du 26 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021. Elles s'appliquent aux contrats conclus ou renouvelés à compter de cette date.

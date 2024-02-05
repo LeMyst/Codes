@@ -5,3 +5,6 @@ Tout agent nommément désigné peut être autorisé par le préfet compétent e
 L'autorisation de port d'arme est délivrée pour une durée de cinq ans.
 
 Si l'agent cesse définitivement d'exercer ses fonctions au sein du service interne de sécurité, l'autorisation de port d'arme devient caduque.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.

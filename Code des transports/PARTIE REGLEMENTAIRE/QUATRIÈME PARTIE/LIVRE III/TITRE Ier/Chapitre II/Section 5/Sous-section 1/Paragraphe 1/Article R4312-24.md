@@ -5,3 +5,6 @@ Le nombre de représentants du personnel élus par chacun des collèges élector
 Ce nombre est fixé en fonction des effectifs respectifs de chaque collège, rapportés au total des effectifs, multiplié par le nombre total de sièges de représentants titulaires du personnel. Lorsque le nombre obtenu n'est pas un entier, il est procédé à un arrondi à l'entier supérieur en cas de décimale supérieure ou égale à cinq ou à un arrondi à l'entier inférieur en cas de décimale inférieure à cinq. Les nombres entiers qui en résultent correspondent aux nombres de représentants titulaires élus par collège.
 
 Toutefois, sauf lorsque le nombre d'électeurs dans un des collèges est inférieur à quatre, le comité social d'administration central comprend au moins deux représentants titulaires et deux représentants suppléants élus par collège, sans que le nombre total de représentants titulaires et suppléants du personnel résultant de l'application du présent alinéa puisse être supérieur à vingt-quatre.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

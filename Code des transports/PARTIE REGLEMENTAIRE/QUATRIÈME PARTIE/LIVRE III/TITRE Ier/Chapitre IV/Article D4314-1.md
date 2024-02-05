@@ -19,3 +19,6 @@ Les chenaux de navigation restent confiés à l'établissement en cas de transfe
 L'étendue de ce domaine peut être modifiée par le déclassement ou la remise à une autre personne publique d'un élément de celui-ci.
 
 Un arrêté conjoint des ministres chargés des transports et du domaine énumère les éléments du domaine public confié à Voies navigables de France.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

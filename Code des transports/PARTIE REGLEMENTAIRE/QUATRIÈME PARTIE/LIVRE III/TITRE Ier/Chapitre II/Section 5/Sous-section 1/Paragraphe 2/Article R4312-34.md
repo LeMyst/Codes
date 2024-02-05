@@ -19,3 +19,6 @@ IV.-Le décret n° 2020-1493 du 30 novembre 2020 relatif à la base de données 
 Les éléments et données concernant les agents mentionnés aux 1° à 3° de l'article L. 4312-3-1 sont complétés par des éléments et données équivalents pour les salariés mentionnés au 4° du même article.
 
 V.-Le comité social d'administration central mandate soit le directeur général ou son représentant, soit un représentant du personnel pour le représenter et ester en justice sur les questions relevant de sa compétence, à l'exception des compétences exercées par la commission des droits des salariés.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -15,3 +15,6 @@ III.-Sont également détenus à bord du moyen de transport avec lequel est assu
 IV.-Pour l'application du 6° de l'article L. 1262-4 du code du travail, un document faisant mention explicite de l'heure de début, de l'heure de fin et de la durée des différents travaux du salarié roulant est conservé à bord du moyen de transport avec lequel est assuré soit un transport routier de marchandises par un véhicule dont la masse maximale autorisée ne dépasse pas 3,5 tonnes, soit un transport routier de voyageurs par un véhicule construit ou aménagé de façon permanente pour pouvoir assurer au maximum le transport de huit passagers en plus du conducteur. Ce document est présenté, sur leur demande, aux autorités compétentes en application de l'article L. 8271-1-2 du même code.
 
 V.-Les documents détenus à bord du moyen de transport avec lequel est assuré le service mentionnés au présent article sont présentés sur support papier ou sur support électronique.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-1346 du 21 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

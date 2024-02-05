@@ -15,3 +15,6 @@ Dans le cadre de ces consultations, les exploitants d'aérodromes transmettent a
 Les modalités d'application des dispositions du présent I sont fixées par décret en Conseil d'Etat.
 
 II.-Les usagers ou représentants d'usagers et les exploitants d'aérodrome veillent à la confidentialité des informations qui leur sont transmises dans le cadre des consultations mentionnées au I.
+
+NOTA:
+Conformément à l'article 3 de l'ordonnance n° 2011-1300 du 14 octobre 2011, les dispositions de l'article L. 6325-7 du code des transports sont applicables aux redevances mentionnées à l'article L. 6325-1 pour lesquelles la fixation des tarifs fait l'objet d'une consultation engagée après la publication de la présente ordonnance.

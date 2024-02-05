@@ -5,3 +5,6 @@ I.-Les services occasionnels, lorsqu'ils sont exécutés avec des véhicules mot
 II.-Lorsque le point de départ et le point d'arrivée d'un transport occasionnel sont dans le ressort territorial d'une même autorité organisatrice soumise à l'obligation d'établissement d'un plan de mobilité en application des articles L. 1214-3 et L. 1214-9, le service occasionnel est exécuté exclusivement avec un véhicule motorisé comportant, outre le siège du conducteur, plus de huit places assises.
 
 III.-Les personnes intervenant dans le secteur des services occasionnels de transport public collectif de personnes, dont les centrales de réservation mentionnées à l'article L. 3142-1, sont soumises à l'article L. 3120-6.
+
+NOTA:
+Conformément au XI de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2021.

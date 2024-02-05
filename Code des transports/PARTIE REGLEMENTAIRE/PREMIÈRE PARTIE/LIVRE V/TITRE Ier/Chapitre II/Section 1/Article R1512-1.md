@@ -25,3 +25,6 @@ i) Le délégué interministériel à l'aménagement du territoire et à l'attra
 2° Deux représentants des collectivités territoriales, nommés par arrêté du ministre chargé des transports sur proposition, pour l'un, de l'Association des régions de France et, pour l'autre, de l'Association des départements de France ;
 
 3° Trois personnalités qualifiées nommées, pour deux d'entre elles par arrêté du ministre chargé des transports, pour la troisième par arrêté du ministre chargé de l'économie et des finances.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-1025 du 20 juillet 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

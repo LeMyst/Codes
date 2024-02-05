@@ -9,3 +9,6 @@ II.-La décision de l'organisateur du service est subordonnée à la réception 
 2° De la sécurité du système déployé sur le parcours ou la zone de circulation défini pour ce transport.
 
 La démonstration de la sécurité d'éléments du système qui ne sont pas dépendants des parcours ou zones de circulation utilisés pour leur exploitation, peut donner lieu à une attestation nationale.
+
+NOTA:
+Conformément à l’article 7 de l’ordonnance n° 2021-443 du 14 avril 2021, ces dispositions entrent en vigueur le lendemain de la publication au Journal officiel du décret portant publication des amendements à la convention sur la circulation routière du 8 novembre 1968 et au plus tard le 1er septembre 2022.

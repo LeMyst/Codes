@@ -7,3 +7,6 @@ II.-Pour l'application à Saint-Barthélemy de l'article L. 6342-3 :
 1° Au 3°, après le mot : “ exigences ”, sont insérés les mots : “ requises en métropole en application ” ;
 
 2° Au 4°, les mots : “ un accès non surveillé et illimité aux données et aux systèmes de technologies de l'information et de la communication critiques utilisés aux fins de la sûreté de l'aviation civile et qui sont mentionnées au ” sont remplacés par les mots : “ des accès équivalents à ceux des personnes en métropole auxquelles s'applique le ”.
+
+NOTA:
+Conformément au II de l'article 9 de la loi n° 2021-1308 du 8 octobre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.

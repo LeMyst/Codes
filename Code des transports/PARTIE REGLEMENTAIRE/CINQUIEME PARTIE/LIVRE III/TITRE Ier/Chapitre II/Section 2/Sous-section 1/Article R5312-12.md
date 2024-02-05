@@ -5,3 +5,6 @@ Les personnalités qualifiées mentionnées au 4° du I de l'article L. 5312-7 s
 Le ministre chargé des ports maritimes invite la chambre de commerce et d'industrie de région à proposer son représentant. Ces dispositions ne sont pas applicables à un grand port fluvio-maritime.
 
 Le préfet de région ou, lorsqu'il s'agit d'un grand port fluvio-maritime, le préfet de la région où cet établissement a son siège publie au recueil des actes administratifs de la préfecture la liste nominative des membres du conseil de surveillance.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

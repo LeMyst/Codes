@@ -11,3 +11,6 @@ Les renseignements devant figurer dans le certificat sont fixés par voie régle
 Le présent article ne s'applique pas aux navires appartenant à un Etat ou exploités par lui et utilisés pour un service non commercial d'Etat.
 
 L'obligation visée au premier alinéa s'applique également au propriétaire inscrit ou à toute autre personne, telle que l'affréteur coque nue, qui est responsable de l'exploitation d'un drone maritime immatriculé au registre prévu à l'article L. 5112-1-9 ou entrant dans un port français.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

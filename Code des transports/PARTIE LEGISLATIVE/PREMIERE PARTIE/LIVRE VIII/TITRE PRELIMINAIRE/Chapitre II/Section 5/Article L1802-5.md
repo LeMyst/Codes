@@ -19,3 +19,6 @@ Pour leur application à Saint-Pierre-et-Miquelon, les dispositions du présent 
 8° Les références à la chambre de commerce et d'industrie sont remplacées par des références à la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat ;
 
 9° Les références au code général des impôts, au code des douanes et au code de l'urbanisme sont remplacées par des références aux textes applicables localement en matière fiscale, douanière et d'urbanisme.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

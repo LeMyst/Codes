@@ -7,3 +7,6 @@ La circonscription comprend les accès maritimes et peut englober des ports dess
 Lorsqu'un grand port maritime est substitué à un port autonome, il conserve la même circonscription. Celle-ci peut être modifiée dans les conditions prévues au premier alinéa.
 
 La circonscription d'un grand port fluvio-maritime est composée d'un secteur maritime, qui correspond à la circonscription d'un ou plusieurs grands ports maritimes et d'un secteur fluvial, qui correspond à celle d'un ou plusieurs ports fluviaux, selon des modalités définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

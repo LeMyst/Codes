@@ -7,3 +7,6 @@ La planification régionale de l'intermodalité et de développement des transpo
 -les mesures de nature à assurer une information des usagers sur l'ensemble de l'offre de transports, à permettre la mise en place de tarifs donnant accès à plusieurs modes de transport et la distribution des billets correspondants ;
 
 -les modalités de coordination de l'action des collectivités territoriales et de leurs groupements, relatives aux pôles d'échanges stratégiques entrant dans le champ de l'article L. 3114-1, ainsi que l'identification des aménagements nécessaires à la mise en œuvre des connexions entre les différents réseaux de transport et modes de déplacements, en particulier les modes non polluants.
+
+NOTA:
+Conformément au XI de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2021.

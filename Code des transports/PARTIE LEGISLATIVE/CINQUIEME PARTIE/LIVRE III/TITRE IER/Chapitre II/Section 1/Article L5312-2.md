@@ -17,3 +17,6 @@ Dans les limites de sa circonscription, le grand port maritime veille à l'inté
 7° L'aménagement et la gestion des zones industrielles ou logistiques liées à l'activité portuaire ;
 
 8° Les actions concourant à la promotion générale du port ou de l'ensemble portuaire du grand port fluvio-maritime.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

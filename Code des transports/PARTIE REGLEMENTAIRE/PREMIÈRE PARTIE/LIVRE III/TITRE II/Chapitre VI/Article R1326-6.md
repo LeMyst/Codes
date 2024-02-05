@@ -9,3 +9,6 @@ Les indicateurs mentionnés à l'article R. 1326-5 distinguent également entre 
 3° La période couvrant les jours du lundi au vendredi ;
 
 4° Les samedis et les dimanches.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-501 du 22 avril 2021, ces dispositions entrent en vigueur le 1er mars 2022.

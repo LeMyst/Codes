@@ -15,3 +15,6 @@ Ile-de-France Mobilités est administré par un conseil de trente et un membres,
 6° Un représentant des associations des usagers des transports, désigné par le président du conseil d'administration. Ce représentant ne peut être également membre du comité des partenaires.
 
 Le comité des partenaires mentionné au 2° du III de l'article L. 1241-1 désigne un de ses membres pour participer à titre consultatif au conseil d'Ile-de-France Mobilités.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2020-1007 du 6 août 2020, les dispositions de l'article R. 1241-2, dans sa rédaction résultant du d du 1° de l'article 2 du présent décret, entrent en vigueur à compter du lendemain de la publication de la loi n° 2019-1428 du 24 décembre 2019.

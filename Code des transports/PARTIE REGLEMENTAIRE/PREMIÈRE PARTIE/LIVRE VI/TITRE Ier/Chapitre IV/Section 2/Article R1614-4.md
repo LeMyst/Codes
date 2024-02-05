@@ -17,3 +17,6 @@ Pour réaliser le diagnostic, le gestionnaire de voirie et le gestionnaire d'inf
 Le gestionnaire de voirie et le gestionnaire d'infrastructure sont responsables, chacun pour ce qui le concerne, de l'exactitude des informations renseignées dans le document de diagnostic et mentionnent, s'il y a lieu, leurs points éventuels de désaccord.
 
 Un arrêté du ministre chargé des transports précise le format et le contenu du document de diagnostic.
+
+NOTA:
+Se reporter aux conditions prévues à l’article 2 du décret n° 2021-396 du 6 avril 2021.

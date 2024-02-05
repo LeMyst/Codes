@@ -13,3 +13,6 @@ Au sens du présent titre :
 a) Ceux affectant les navires civils battant pavillon français où qu'ils se trouvent ainsi que les navires civils battant un autre pavillon lorsque l'événement de mer s'est produit dans les eaux intérieures ou dans la mer territoriale française ;
 
 b) Ceux, où qu'ils se soient produit, qui ont coûté la vie ou infligé des blessures graves à des ressortissants français ou causé ou menacé de causer un grave préjudice au territoire français, à l'environnement, aux installations ou ouvrages sur lesquels la France exerce sa juridiction.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

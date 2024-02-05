@@ -6,6 +6,5 @@ Elle exerce, pour les ouvriers dockers professionnels intermittents assurant une
 
 La commission paritaire spéciale est également compétente pour se prononcer sur les critères retenus pour déterminer l'ordre de radiation des ouvriers dockers professionnels intermittents dans les conditions prévues à l'article L. 5343-16 du présent code et pour délivrer les avis mentionnés aux articles L. 5343-3 et L. 5343-16.
 
-La commission paritaire spéciale est rattachée, pour les besoins de son fonctionnement, à la caisse de compensation des congés payés mentionnée à l'article L. 5343-22-1.
-
+La commission paritaire spéciale est rattachée, pour les besoins de son fonctionnement, à la caisse de compensation des congés payés mentionnée à l'article L. 5343-22-1.\
 La composition de cette commission ainsi que les règles applicables à sa constitution et à son fonctionnement sont déterminées par décret en Conseil d'Etat.

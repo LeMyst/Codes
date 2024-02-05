@@ -245,3 +245,6 @@ Article 19
 Prescription
 
 Les actions nées du contrat sont prescrites dans le délai d'un an. Ce délai court, en cas de perte totale, à compter du jour où la marchandise aurait dû être livrée ou offerte et, dans tous les autres cas, à compter du jour où la marchandise a été remise ou offerte au destinataire ou à compter du jour où le dommage a été constaté.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2021-985 du 26 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021. Elles s'appliquent aux contrats conclus ou renouvelés à compter de cette date.

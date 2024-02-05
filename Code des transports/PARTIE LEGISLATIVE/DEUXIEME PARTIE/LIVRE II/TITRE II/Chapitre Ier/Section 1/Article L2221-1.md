@@ -9,3 +9,6 @@ Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8
 L'établissement public promeut et diffuse les bonnes pratiques en matière de sécurité et d'interopérabilité ferroviaire sur la base de toutes les informations pertinentes disponibles.
 
 L'Etablissement public de sécurité ferroviaire ne remplit ses missions pour la partie de la concession du tunnel sous la Manche située en territoire français qu'à compter de la fin de la période de transition prévue à l'article 126 de l'accord sur le retrait du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de l'Union européenne et de la Communauté européenne de l'énergie atomique et uniquement dans le cas où aucune instance internationale ne peut être qualifiée d'autorité nationale de sécurité au sens du droit communautaire.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

@@ -5,3 +5,6 @@ Les personnels exerçant, sur le système ferroviaire sur lequel s'exerce la mis
 Le recours à l'encontre des décisions d'inaptitude s'effectue dans les conditions prévues au deuxième alinéa de l'article L. 2221-8.
 
 Un décret définit les conditions dans lesquelles une aptitude délivrée à l'étranger fait l'objet d'une reconnaissance.
+
+NOTA:
+Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

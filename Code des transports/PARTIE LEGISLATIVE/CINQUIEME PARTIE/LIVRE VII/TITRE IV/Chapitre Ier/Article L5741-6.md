@@ -13,3 +13,6 @@ c) Il est ajouté un alinéa ainsi rédigé :
 “ Une convention entre l'Etat et la collectivité de Saint-Martin peut fixer les conditions dans lesquelles il peut être délivré un certificat d'enregistrement attestant de la francisation et de l'immatriculation des navires. Ce certificat peut également comprendre, pour les navires armés à la plaisance, le titre de navigation mentionné à l'article L. 5234-1. ” ;
 
 2° A l'article L. 5112-1-12, les mots : “ l'enregistrement ” sont remplacés par les mots : “ la francisation ”.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

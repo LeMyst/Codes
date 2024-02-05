@@ -7,3 +7,6 @@ L' Autorité de régulation des transports émet un avis sur le projet d'interdi
 Lorsqu'elle estime qu'il est nécessaire de limiter un service, l' Autorité de régulation des transports propose à l'autorité organisatrice de transport la mise en place à cet effet de règles objectives, transparentes et non discriminatoires.
 
 II.-Le cas échéant, l'autorité organisatrice de transport publie sa décision d'interdiction ou de limitation dans un délai d'une semaine à compter de la publication de l'avis de l' Autorité de régulation des transports, en se conformant à cet avis.
+
+NOTA:
+Aux termes du 3° du I de l'article 18 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur à une date fixée par décret, au plus tard le premier jour du troisième mois suivant la publication de ladite loi. Le décret n° 2015-1266 du 13 octobre 2015 a fixé cette date au 15 octobre 2015.

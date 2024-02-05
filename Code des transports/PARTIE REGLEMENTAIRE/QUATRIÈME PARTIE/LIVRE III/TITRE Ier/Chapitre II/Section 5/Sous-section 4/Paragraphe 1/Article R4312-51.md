@@ -13,3 +13,6 @@ Sont applicables à l'élection :
 3° Pour les agents mentionnés aux 1° à 3° de l'article L. 4312-3-1, les articles 29 et 31 du même décret, en tant qu'ils se rapportent à des agents de droit public ;
 
 4° Pour les salariés mentionnés au 4° de l'article L. 4312-3-1, les deuxième et troisième alinéas de l'article R. 4312-30.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur en vue du renouvellement général des instances de la fonction publique.

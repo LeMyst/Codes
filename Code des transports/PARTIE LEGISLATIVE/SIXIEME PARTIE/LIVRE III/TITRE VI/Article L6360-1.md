@@ -11,3 +11,6 @@ Pour l'application du présent titre, les aérodromes sont, chaque année civile
 a) Vingt mille pour les aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes ;
 
 b) Cinquante mille pour les aéronefs de masse maximale au décollage supérieure ou égale à 2 tonnes, lorsque les plans d'exposition au bruit ou de gêne sonore de l'aérodrome possèdent un domaine d'intersection avec les plans d'exposition au bruit ou de gêne sonore d'un aérodrome pour lequel le seuil mentionné au a du présent 3° est atteint.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

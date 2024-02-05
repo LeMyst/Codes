@@ -7,3 +7,6 @@ Est puni de l'amende prévue pour les contraventions de la quatrième classe le 
 2° De méconnaître l'obligation de communication des coordonnées complètes prévue à l'article R. 3113-34-3 ;
 
 3° De méconnaître les obligations de publication et d'affichage prévues à l'article R. 3116-20.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2020-1088 du 24 août 2020, ces dispositions entrent en vigueur le 1er novembre 2020.

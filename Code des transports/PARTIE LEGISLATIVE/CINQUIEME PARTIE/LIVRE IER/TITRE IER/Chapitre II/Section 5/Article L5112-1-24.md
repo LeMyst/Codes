@@ -9,3 +9,6 @@ Les personnes mentionnées à l'article L. 5112-1-22 et les agents de la directi
 3° A l'application des droits de douane, ou de tout autre imposition exigible au titre de l'importation, aux marchandises acheminées par voie maritime et aux moyens de transport maritime.
 
 Le présent article est également applicable aux agents des services mentionnés à l'article L. 5112-1-21.
+
+NOTA:
+Conformément à 43 de l’ordonnance n° 2023-120, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.

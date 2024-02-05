@@ -13,3 +13,6 @@ a) Entre le moment où le travailleur se connecte à la plateforme et le moment 
 b) Entre deux propositions de prestations faites par la plateforme au travailleur, déduction faite, si la prestation est acceptée par le travailleur, de la durée comprise entre l'acceptation de la prestation par le travailleur et la fin de celle-ci ;
 
 c) Entre le moment où le travailleur se déconnecte de la plateforme et la dernière proposition de prestation faite par la plateforme, déduction faite, si la prestation est acceptée par le travailleur, de la durée comprise entre l'acceptation de la prestation par le travailleur et la fin de celle-ci.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-501 du 22 avril 2021, ces dispositions entrent en vigueur le 1er mars 2022.

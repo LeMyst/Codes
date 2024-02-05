@@ -11,3 +11,6 @@ Le mandat du membre du conseil de surveillance représentant la chambre de comme
 Il est pourvu au remplacement d'un membre dont le siège devient vacant par décès, démission, pour l'un des motifs mentionnés aux deux alinéas précédents ou pour toute autre cause, pour la durée restant à courir de son mandat.
 
 Les dates de début et de fin de mandat des membres du conseil sont fixées par l'arrêté mentionné à l'article R. 5312-12.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

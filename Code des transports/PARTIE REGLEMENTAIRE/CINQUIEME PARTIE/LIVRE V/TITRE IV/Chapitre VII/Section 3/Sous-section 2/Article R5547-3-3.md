@@ -33,3 +33,8 @@ i) Avoir une compréhension totale du programme de formation et des objectifs sp
 ii) Posséder les qualifications ou l'expérience requises pour la tâche faisant l'objet de la formation dispensée.
 
 II.-Les normes mentionnées au I peuvent être mises à jour par arrêté du ministre chargé de la mer, pour tenir compte de l'actualisation des normes des conventions internationales mentionnées à l'article R. 5547-3, entrées en vigueur à l'égard de la France.
+
+NOTA:
+Conformément au II de l'article 2 du décret 2022-1727 du 28 décembre 2022, le d du 3° de l'article R. 5547-3-3 dans sa rédaction issue du présent décret entre en vigueur au 1er avril 2023.
+
+Les organismes de formation professionnelle maritime agréés antérieurement à l'entrée en vigueur du présent décret se mettent en conformité, à compter de la date mentionnée au II, avec les dispositions du d) du 3° de l'article R. 5547-3-3 précité.

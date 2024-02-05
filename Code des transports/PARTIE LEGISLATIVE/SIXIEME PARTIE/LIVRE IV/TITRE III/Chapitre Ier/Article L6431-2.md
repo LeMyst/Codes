@@ -5,3 +5,6 @@ Les agents et fonctionnaires énumérés à l'article L. 6431-1 sont chargés de
 Pour l'exercice de leurs missions, les agents mentionnés au premier alinéa du présent article ont accès, lorsqu'ils sont à usage professionnel, aux locaux, terrains, aéronefs, à l'exclusion des domiciles et de la partie des locaux servant de domicile. Ils ne peuvent y accéder qu'entre huit heures et vingt heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé ou lorsqu'une activité est en cours.
 
 En cas d'opposition du responsable des lieux, la visite ne peut se dérouler qu'avec l'autorisation du juge des libertés et de la détention du tribunal judiciaire dans le ressort duquel sont situés les locaux à visiter dans les conditions prévues à l'article L. 6431-3.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

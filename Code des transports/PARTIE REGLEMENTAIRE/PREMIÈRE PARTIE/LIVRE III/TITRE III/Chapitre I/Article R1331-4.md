@@ -19,3 +19,6 @@ Les documents mentionnés ci-dessus sont traduits en langue française.
 Pour les entreprises qui ne sont pas établies dans un Etat membre de l'Union européenne dont la monnaie est l'euro, les sommes sont converties en euros.
 
 II.-Dans le cas où l'entreprise détachant un salarié roulant ou navigant sur le territoire français est établie en dehors de l'Union européenne, le document atteste de la régularité de sa situation sociale au regard d'une convention internationale de sécurité sociale ou, à défaut, joint l'attestation de fourniture de déclaration sociale émanant de l'organisme français de protection sociale chargé du recouvrement des cotisations sociales lui incombant et datant de moins de six mois.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-555 du 4 juin 2019, ces dispositions entrent en vigueur à compter du 1er juillet 2019.

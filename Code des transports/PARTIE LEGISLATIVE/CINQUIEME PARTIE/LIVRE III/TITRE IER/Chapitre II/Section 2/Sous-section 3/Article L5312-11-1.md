@@ -21,3 +21,6 @@ Au sein du conseil de développement territorial est constituée une commission 
 4° Les projets qui lui sont soumis pour avis sont limités à ce qui concerne le ressort territorial ;
 
 5° Les orientations prévues au dernier alinéa de l'article L. 5312-11 sont présentées à la commission des investissements par le directeur général délégué chargé de la direction territoriale et sont celles prises dans le ressort territorial du conseil.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

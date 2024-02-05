@@ -11,3 +11,6 @@ Outre le procureur de la République, le juge d'instruction et les officiers de 
 Les mêmes autorités peuvent saisir les appareils photographiques et les clichés qui se trouveraient à bord d'aéronefs autorisés à transporter ces objets dans le cas où ces aéronefs seraient passés au-dessus de zones interdites.
 
 La confiscation des objets et appareils régulièrement saisis est prononcée par le tribunal.
+
+NOTA:
+Conformément au II de l'article 18 de la loi n° 2022-52 du 24 janvier 2022, ces dispositions entrent en vigueur à compter de la publication des dispositions réglementaires prises pour leur application, et au plus tard le 1er janvier 2023.

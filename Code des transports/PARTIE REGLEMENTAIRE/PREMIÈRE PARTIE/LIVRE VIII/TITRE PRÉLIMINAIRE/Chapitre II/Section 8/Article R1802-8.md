@@ -15,3 +15,6 @@ Les dispositions du présent code applicables à Wallis-et-Futuna sont ainsi ada
 6° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés des activités maritimes, par des références au directeur ou chef de service compétent ;
 
 7° Les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 instituant un code du travail dans les territoires et territoires associés relevant du ministère chargé de l'outre-mer.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

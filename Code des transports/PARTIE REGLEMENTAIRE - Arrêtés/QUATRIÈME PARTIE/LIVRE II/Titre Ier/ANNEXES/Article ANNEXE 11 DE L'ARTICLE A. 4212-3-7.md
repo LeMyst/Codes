@@ -20,24 +20,10 @@ Par :
 
 Bateaux sur lesquels le conducteur peut conduire seul à bord :
 
-|
-NUMÉRO EUROPÉEN D'IDENTIFICATION |
-DEVISE
-
-DU BATEAU |
-LONGUEUR |
-ÉQUIPEMENT
-
-SUPPLÉMENTAIRE |
-DATE
-
-DE VISITE |
+|  NUMÉRO EUROPÉEN D'IDENTIFICATION |  DEVISE DU BATEAU |  LONGUEUR |  ÉQUIPEMENT SUPPLÉMENTAIRE |  DATE DE VISITE |
 | --- | --- | --- | --- | --- |
-|
-. |  |  |  |  |
-|
-. |  |  |  |  |  |
-|
-. |  |  |  |  |  |
+|  . |  |  |  |  |
+|  . |  |  |  |  |  |
+|  . |  |  |  |  |  |
 
 A, le.

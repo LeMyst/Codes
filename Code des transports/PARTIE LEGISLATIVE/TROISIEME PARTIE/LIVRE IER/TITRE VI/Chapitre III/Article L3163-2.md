@@ -9,3 +9,6 @@ II.-Cette amende est fixée selon le barème suivant :
 2° Est punie d'une amende de 675 euros toute opération de transport sollicitée ou réalisée, par les professionnels mentionnés aux 2° et 3° de l'article L. 3161-1, en méconnaissance des dispositions du II de l'article L. 3162-1 ou de l'article L. 3162-4 ;
 
 3° Est punie d'une amende de 3 000 euros le non-respect, dans un délai de deux mois suivant la demande de communication, des dispositions des articles L. 3161-6 et L. 3161-7.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1er janvier 2022, en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 3° du I dudit article.

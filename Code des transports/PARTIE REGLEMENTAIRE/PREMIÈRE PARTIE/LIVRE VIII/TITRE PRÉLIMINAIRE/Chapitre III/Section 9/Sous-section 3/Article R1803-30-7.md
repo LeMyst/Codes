@@ -21,3 +21,6 @@ a) Les salariés atteints d'une affection de longue durée mentionnée à l'arti
 b) Les salariés qui ont été frappés d'une rétrogradation ou d'une mise à pied de seize jours à deux ans, à moins qu'ils n'aient été amnistiés ou qu'ils n'aient bénéficié d'une décision acceptant leur demande tendant à ce qu'aucune trace de la sanction prononcée ne subsiste à leur dossier ;
 
 c) Les salariés frappés d'une des incapacités énoncées à l'article L. 6 du code électoral.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2022-862 du 7 juin 2022, ces dispositions entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.

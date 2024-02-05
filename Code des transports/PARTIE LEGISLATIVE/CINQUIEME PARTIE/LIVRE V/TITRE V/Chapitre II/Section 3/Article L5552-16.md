@@ -28,3 +28,8 @@ b) Un marin, ayant accompli au moins dix ans de navigation professionnelle, cess
 16° Le temps d'enseignement des marins ayant accompli préalablement une durée de navigation professionnelle fixée par décret en Conseil d'Etat dans l'Ecole nationale supérieure maritime ou un établissement d'enseignement professionnel maritime, dans la limite de leur durée de navigation antérieure effective ;\
 17° Le temps de concours à des travaux de recherche géophysique, dans une limite de trois ans.\
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément au VIII de l'article 8 de la loi n° 2020-1576 du 15 décembre 2020, les présentes dispositions sont applicables aux périodes de perception de l'indemnité horaire mentionnée au II de l'article L. 5122-1 du code du travail et des indemnités d'activité partielle mentionnées aux articles 7 et 10 bis de l'ordonnance n° 2020-346 du 27 mars 2020 portant mesures d'urgence en matière d'activité partielle à compter du 1er mars 2020 pour les pensions de retraite prenant effet à compter du 12 mars 2020.
+
+Par dérogation au premier alinéa du VIII, le 1° du II est applicable à compter du 1er janvier 2021 aux autres périodes mentionnées au 8° de l'article L. 5552-16 du code des transports que celles de perception de l'indemnité horaire mentionnée au II de l'article L. 5122-1 du code du travail et de l'indemnité d'activité partielle mentionnée à l'article 10 bis de l'ordonnance n° 2020-346 du 27 mars 2020 précitée.

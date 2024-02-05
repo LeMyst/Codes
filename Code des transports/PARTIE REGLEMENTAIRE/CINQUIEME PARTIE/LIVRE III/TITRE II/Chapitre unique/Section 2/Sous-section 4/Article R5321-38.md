@@ -15,3 +15,6 @@ II.-Pour le dépôt des déchets solides relevant de l'annexe V de la convention
 III.-Les tarifs sont arrêtés par l'autorité portuaire de chaque port et peuvent être différenciés en fonction de la catégorie, du type et de la taille du navire, de la fourniture de service aux navires en dehors des heures habituelles de fonctionnement du port ou du caractère dangereux des déchets.
 
 IV.-Les dispositions du présent article ne sont pas applicables au dépôt des résidus des systèmes d'épuration des gaz d'échappement, pour lesquels les coûts sont couverts sur la base des types et des quantités de déchets déposés.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2021-1166 du 8 septembre 2021, ces dispositions sont applicables à compter du 1er janvier 2022.

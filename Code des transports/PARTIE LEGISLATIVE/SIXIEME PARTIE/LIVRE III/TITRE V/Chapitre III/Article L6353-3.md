@@ -11,3 +11,6 @@ Pour l'application de l'article L. 322-2 du code de l'expropriation pour cause d
 Pour l'application du présent article, la mise en demeure est déposée au plus tard cinq ans après la date de publication du décret mentionné au premier alinéa.
 
 Lors de l'acquisition par l'Etat ou par tout organisme agissant pour son compte, sous quelque forme que ce soit, d'un bien immobilier situé à l'intérieur du périmètre mentionné au même premier alinéa, l'indemnité ou le prix sont fixés sans qu'il soit tenu compte de la dévalorisation éventuelle due à l'annonce, par l'Etat, du maintien et du réaménagement de l'aérodrome existant.
+
+NOTA:
+Conformément au II de l’article 205 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions en vigueur à une date fixée par décret, et au plus tard le 30 juin 2020.

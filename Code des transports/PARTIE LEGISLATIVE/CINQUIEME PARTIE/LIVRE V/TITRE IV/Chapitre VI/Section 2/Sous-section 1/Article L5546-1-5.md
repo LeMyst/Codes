@@ -11,3 +11,6 @@ II.-L'assurance mentionnée au I peut prévoir de couvrir les préjudices mentio
 III.-Toute demande d'indemnisation peut être formée directement auprès de l'assureur ou de toute personne dont émane la garantie financière, sans préjudice d'une action en réparation s'il y a lieu.
 
 IV.-Lorsque l'armateur d'un navire autre que de pêche recourt à un service privé de recrutement et de placement de gens de mer établi hors de France, il vérifie que ce service a souscrit une assurance ou détient une garantie financière équivalente à celle prévue au I du présent article.
+
+NOTA:
+Conformément au IV de l'article 7 de l'ordonnance n° 2021-77 du 27 janvier 2021, l'article L. 5546-1-5 dans sa rédaction résultant de l'article 4 entre en vigueur le 1er juillet 2021.

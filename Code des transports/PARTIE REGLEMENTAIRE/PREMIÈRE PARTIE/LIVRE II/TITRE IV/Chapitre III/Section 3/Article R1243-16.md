@@ -5,3 +5,6 @@ I.-Le conseil d'administration peut déléguer à son président une partie de s
 II.-Le conseil d'administration peut déléguer au bureau une partie de ses attributions, autres que celles mentionnées aux quatrième à onzième alinéa de l'article L. 1243-12 et celles qui ont été auparavant déléguées au président du conseil d'administration. Elles ne peuvent concerner le choix du mode de gestion des services de transport.
 
 III.-Le président rend compte au conseil d'administration des décisions prises par délégation de ce dernier. Il informe le conseil d'administration de son choix avant de nommer le directeur général.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

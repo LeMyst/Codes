@@ -21,3 +21,6 @@ II.-La déclaration de détachement comporte les informations suivantes :
 7° La précision de la nature du transport dont il s'agit : transport de marchandises, transport de personnes, transport international ou transports de cabotage.
 
 III.-Aux fins du contrôle, l'entreprise tient à jour les déclarations de détachement dans l'interface publique connectée au système d'information du marché intérieur “ IMI ”.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-1346 du 21 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

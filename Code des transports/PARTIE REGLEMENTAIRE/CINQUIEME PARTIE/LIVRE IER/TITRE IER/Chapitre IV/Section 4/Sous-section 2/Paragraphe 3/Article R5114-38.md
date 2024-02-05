@@ -11,3 +11,6 @@ Dans le même délai, elle informe le saisi du montant versé au créancier et, 
 Elle ne peut refuser le paiement que si les documents produits démontrent l'existence d'un autre créancier pouvant concourir à la distribution du prix.
 
 En cas de contestation, le juge de l'exécution est saisi par le créancier poursuivant ou le débiteur.
+
+NOTA:
+Conformément au deuxième alinéa du I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

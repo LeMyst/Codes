@@ -9,3 +9,6 @@ Sans préjudice de l'avant-dernier alinéa de l'article L. 2122-6 du même code,
 II.-Toutefois, lorsque le contrat a pour objet de répondre aux besoins spécifiques exprimés par le grand port maritime, celui-ci conclut des contrats de concession auxquels est applicable la troisième partie du code de la commande publique, à l'exception de l'article L. 3114-6 et de la section 1 du chapitre Ier du titre III du livre Ier de la même troisième partie. Le contrat peut prévoir des clauses de report modal.
 
 III.-Le titulaire de la convention de terminal ou de la concession a, sauf prescription contraire de son titre, un droit réel sur les ouvrages, constructions et installations de caractère immobilier qu'il a financés par un droit d'entrée en contrepartie de l'indemnisation mentionnée au dernier alinéa du I du présent article ou de l'indemnisation versée au précédent concessionnaire.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

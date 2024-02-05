@@ -15,3 +15,6 @@ Chaque liste doit comporter le nom d'un délégué, qui peut être ou non candid
 Les candidatures doivent être déposées au moins six semaines avant la date du scrutin. Le dépôt de candidatures fait l'objet d'un récépissé remis au délégué de liste ou à son suppléant.
 
 Lorsque le directeur général constate que la candidature ne satisfait pas aux conditions fixées par les articles L. 211-1 à L. 211-3 du code général de la fonction publique pour les agents de droit public ou aux conditions fixées par l'article L. 2314-5 du code du travail pour présenter la candidature des salariés de droit privé, il informe le délégué de liste par décision motivée, de l'irrecevabilité de la candidature.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2022-862 du 7 juin 2022, ces dispositions entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.

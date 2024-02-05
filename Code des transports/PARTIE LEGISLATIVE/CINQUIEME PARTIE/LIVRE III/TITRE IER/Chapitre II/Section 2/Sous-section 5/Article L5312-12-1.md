@@ -7,3 +7,6 @@ A ce titre, il est consulté sur le projet stratégique et son rapport annuel d'
 Il est composé de représentants de l'Etat, y compris de ses services techniques, de collectivités territoriales et de leurs groupements, ainsi que de personnalités qualifiées, de représentants des gestionnaires d'infrastructures de transport fluvial et terrestre, de représentants des milieux associatifs, et de représentants des personnels.
 
 La composition du conseil d'orientation, les modalités de désignation de ses membres, ses règles de fonctionnement sont déterminées par décret.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

@@ -1,7 +1,6 @@
 # Article R5113-7
 
-Au sens et pour l'application de la présente section, on entend par :
-
+Au sens et pour l'application de la présente section, on entend par :\
 1° " Navire " : tout navire de plaisance ou véhicule nautique à moteur ;
 
 2° " Navire de plaisance " : tout navire de tout type, à l'exclusion des véhicules nautiques à moteur, destiné à être utilisé à des fins sportives et de loisir, dont la coque a une longueur allant de 2,5 à 24 mètres, indépendamment du moyen de propulsion ;

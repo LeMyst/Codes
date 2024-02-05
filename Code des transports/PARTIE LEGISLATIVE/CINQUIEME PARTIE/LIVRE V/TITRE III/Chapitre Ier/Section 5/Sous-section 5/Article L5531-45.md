@@ -21,3 +21,8 @@ VI.-Le tribunal peut également prononcer, à titre complémentaire ou principal
 3° Une obligation d'accomplir, à ses frais, un stage de sensibilisation aux addictions.
 
 Toute condamnation d'un marin ou d'un pilote pour l'une des infractions prévues au présent article, commise en état de récidive au sens de l'article 132-10 du code pénal, donne lieu de plein droit, pour les marins, au retrait total des droits ou prérogatives afférents aux titres ou du visa de reconnaissance de l'intéressé, avec interdiction de solliciter la délivrance d'un nouveau titre ou visa de reconnaissance pendant trois ans au plus et, pour les pilotes, à l'interdiction du droit d'exercer le métier de pilote.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

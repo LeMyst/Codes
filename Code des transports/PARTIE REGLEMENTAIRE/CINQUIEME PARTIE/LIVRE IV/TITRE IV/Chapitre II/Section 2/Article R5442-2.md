@@ -27,3 +27,8 @@ Le silence gardé pendant deux mois par le préfet sur la demande d'autorisation
 5° L'autorisation peut être retirée par l'autorité qui l'a délivrée pour des raisons d'ordre public ou de sécurité des personnes ;
 
 6° L'autorisation est caduque si l'entreprise cesse de remplir les conditions mentionnées à l'article L. 612-9 du code de la sécurité intérieure.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

@@ -17,3 +17,6 @@ a) Aux personnes qui exploitent des services de transport, lorsque la mise en re
 b) Aux personnes qui organisent des services privés de transport dans les conditions prévues à l'article L. 3131-1, lorsque la mise en relation a pour objet ces services privés de transport ;
 
 c) Aux activités de mise en relation par voie électronique régies par le titre V.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er juin 2023.

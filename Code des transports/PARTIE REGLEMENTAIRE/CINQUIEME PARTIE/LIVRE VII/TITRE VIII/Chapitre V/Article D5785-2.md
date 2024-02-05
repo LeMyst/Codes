@@ -4,7 +4,4 @@ Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptatio
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-D. 5532-1 et D. 5532-2
-| Résultant du décret n° 2018-747 du 24 août 2018
-|
+|  D. 5532-1 et D. 5532-2  | Résultant du décret n° 2018-747 du 24 août 2018  |

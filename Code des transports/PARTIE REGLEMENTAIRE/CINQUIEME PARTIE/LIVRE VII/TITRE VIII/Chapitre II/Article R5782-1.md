@@ -2,43 +2,19 @@
 
 Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent article, les dispositions du titre III du livre II de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR RÉDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
 | --- | --- |
-|
-R. 5232-1 |
-Résultant du décret n° 2023-921 du 5 octobre 2023  |
-|
-R. 5232-1-1 |
-Résultant du décret n° 2020-1004 du 6 août 2020  |
-|
-R. 5232-2 |
-Résultant du décret n° 2017-942 du 10 mai 2017  |
-|
-R. 5232-4 |
-Résultant du décret n° 2020-1004 du 6 août 2020  |
-|
-R. 5232-5 |
-Résultant du décret n° 2017-942 du 10 mai 2017  |
-|
-R. 5232-6 |
-Résultant du décret n° 2020-1004 du 6 août 2020  |
-|
-R. 5232-7 |
-Résultant du décret n° 2023-921 du 5 octobre 2023  |
-|
-R. 5232-8 |
-Résultant du décret n° 2020-1004 du 6 août 2020  |
-|
-R. 5232-9 et R. 5232-10 |
-Résultant du décret n° 2017-942 du 10 mai 2017  |
-|
-R. 5232-11 et R. 5232-12 |
-Résultant du décret n° 2020-1004 du 6 août 2020  |
-|
-R. 5232-13 à R. 5232-25 |
-Résultant du décret n° 2017-942 du 10 mai 2017  |
+|  R. 5232-1 |  Résultant du décret n° 2023-921 du 5 octobre 2023  |
+|  R. 5232-1-1 |  Résultant du décret n° 2020-1004 du 6 août 2020  |
+|  R. 5232-2 |  Résultant du décret n° 2017-942 du 10 mai 2017  |
+|  R. 5232-4 |  Résultant du décret n° 2020-1004 du 6 août 2020  |
+|  R. 5232-5 |  Résultant du décret n° 2017-942 du 10 mai 2017  |
+|  R. 5232-6 |  Résultant du décret n° 2020-1004 du 6 août 2020  |
+|  R. 5232-7 |  Résultant du décret n° 2023-921 du 5 octobre 2023  |
+|  R. 5232-8 |  Résultant du décret n° 2020-1004 du 6 août 2020  |
+|  R. 5232-9 et R. 5232-10 |  Résultant du décret n° 2017-942 du 10 mai 2017  |
+|  R. 5232-11 et R. 5232-12 |  Résultant du décret n° 2020-1004 du 6 août 2020  |
+|  R. 5232-13 à R. 5232-25 |  Résultant du décret n° 2017-942 du 10 mai 2017  |
 
 1° Pour les navires soumis à certification sociale en application de l'article L. 5514-1, la référence au directeur départemental des territoires et de la mer est remplacée par la référence au directeur départemental des territoires et de la mer des Bouches-du-Rhône ;
 

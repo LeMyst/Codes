@@ -43,3 +43,6 @@ III.-Ile-de-France Mobilités assure la planification, le suivi et l'évaluation
 3° Assure les missions et développe les services mentionnés à l'article L. 1231-8.
 
 IV.-Ile-de-France Mobilités contribue aux objectifs de lutte contre le changement climatique, la pollution sonore, la pollution de l'air et l'étalement urbain.
+
+NOTA:
+Conformément au II de l'article 15 de la loi n° 2019-1428 du 24 décembre 2019, le 2° du III de l'article L. 1241-1 du code des transports, dans sa rédaction résultant du 5° du I du présent article, s'applique à compter du premier renouvellement du comité des partenaires du transport public en Ile-de-France intervenant à compter du lendemain de la publication de la présente loi.

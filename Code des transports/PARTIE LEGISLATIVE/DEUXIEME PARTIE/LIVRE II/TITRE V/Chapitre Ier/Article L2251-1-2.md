@@ -21,3 +21,6 @@ Cette mission est comptablement séparée des activités d'exploitant de service
 Cette mission s'exerce sans préjudice de l'exercice des compétences dévolues à la SNCF au titre des articles L. 2251-1 et L. 2251-1-1.
 
 Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l’article 120 de la loi n° 2019-1428 du 24 décembre 2019, les huitième et neuvième alinéas de l'article L. 2251-1-2 dans leur rédaction résultant du I dudit article, entrent en vigueur le 1er janvier 2021.

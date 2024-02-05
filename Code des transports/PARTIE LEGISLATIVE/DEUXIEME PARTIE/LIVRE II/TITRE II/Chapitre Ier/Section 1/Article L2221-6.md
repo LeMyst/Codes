@@ -13,3 +13,6 @@ Les ressources de l'Etablissement public de sécurité ferroviaire sont constitu
 5° Les sanctions pécuniaires recouvrées en application de l'article L. 2221-11 ;
 
 6° Les produits des ventes et des autres services que l'établissement public effectue dans le domaine de la sécurité ferroviaire.
+
+NOTA:
+Conformément au E du XI de l’article 21 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2021.

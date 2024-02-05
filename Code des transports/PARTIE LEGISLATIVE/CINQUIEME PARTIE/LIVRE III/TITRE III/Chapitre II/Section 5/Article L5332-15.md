@@ -17,3 +17,6 @@ Ils doivent disposer de l'agrément prévu au deuxième alinéa de l'article L. 
 1° Les palpations de sûreté sur les personnes ne peuvent être effectuées que par une personne du même sexe que celle qui en fait l'objet et avec le consentement de celle-ci ;
 
 2° Les fouilles de sûreté des véhicules, unités de transport intermodal, marchandises, bagages, colis et autres biens ne peuvent être réalisées qu'avec le consentement de leur propriétaire ou de la personne qui en a la responsabilité.
+
+NOTA:
+Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.

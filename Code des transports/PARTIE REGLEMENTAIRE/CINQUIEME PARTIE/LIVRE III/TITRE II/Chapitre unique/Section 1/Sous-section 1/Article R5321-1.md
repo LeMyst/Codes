@@ -21,3 +21,6 @@ e) Une redevance sur les déchets des navires, hors résidus de cargaison ;
 La redevance sur les déchets n'est pas applicable au secteur fluvial d'un grand port fluvio-maritime.
 
 Pour l'application du dernier alinéa de l'article L. 5321-1, les bateaux, convois et autres engins flottants sont assimilés aux navires. Le grand port fluvio-maritime peut s'assurer des concours extérieurs pour le recouvrement des droits de port sur les bateaux, convois et autres engins flottants, dans des conditions qui sont approuvées par arrêté conjoint du ministre chargé des transports et du ministre chargé du budget. L'arrêté précise notamment les conditions financières de ce concours. L'article R. 5312-74 n'est pas applicable pour le recouvrement des droits de port sur les bateaux, convois et autres engins flottants.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2021-1166 du 8 septembre 2021, ces dispositions sont applicables à compter du 1er janvier 2022.

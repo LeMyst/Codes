@@ -19,3 +19,8 @@ Dans chacun des ports mentionnés au I de l'article R. 5332-1, ou pour un groupe
 Sur décision du président, un représentant du ministre chargé des transports ou toute personne qualifiée peut participer aux réunions du comité.
 
 Les délibérations du comité local de sûreté portuaire et les informations dont ses membres ont connaissance à l'occasion de leurs travaux sont secrètes.
+
+NOTA:
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Comité local de sûreté portuaire est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+Conformément à l'annexe 1 du décret n° 2020-806 du 29 juin 2020, le Comité local de sûreté portuaire est renouvelé jusqu'au 8 juin 2025.

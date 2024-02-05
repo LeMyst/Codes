@@ -25,3 +25,6 @@ II.-Les contraventions aux dispositions des arrêtés de l'autorité administrat
 3° Les agents chargés de la surveillance de la voie publique mentionnés au 3° de l'article L. 130-4 du code de la route ;
 
 4° Les agents assermentés mentionnés au 13° de l'article L. 130-4 du code de la route.
+
+NOTA:
+Conformément au V de l’article 14 de la loi n° 2023-22 du 24 janvier 2023, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la promulgation de la présente loi.

@@ -1,7 +1,6 @@
 # Article R5113-16
 
-Peuvent être librement mis à disposition sur le marché ou mis en service les moteurs de propulsion :
-
+Peuvent être librement mis à disposition sur le marché ou mis en service les moteurs de propulsion :\
 1° Installés ou non dans des navires, lorsqu'ils sont conformes aux dispositions de la présente section ;
 
 2° Installés dans des navires et réceptionnés par type selon les articles R. 224-7 et suivants du code de l'environnement, s'ils satisfont aux exigences énoncées dans la présente section, à l'exclusion de celles relatives aux émissions gazeuses prévues à la partie B de l'annexe I du présent livre ;

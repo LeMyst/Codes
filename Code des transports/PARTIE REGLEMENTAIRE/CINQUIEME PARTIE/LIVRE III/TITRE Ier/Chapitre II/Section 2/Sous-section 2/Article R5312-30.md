@@ -16,3 +16,6 @@ Dans un grand port fluvio-maritime, le directoire peut, dans les conditions qu'i
 Ces délégations peuvent donner lieu à subdélégation de pouvoir et délégation de signature, dans les conditions définies par le directoire.
 
 Le directoire en rend compte dans son rapport au conseil de surveillance prévu à l'article L. 5312-8.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

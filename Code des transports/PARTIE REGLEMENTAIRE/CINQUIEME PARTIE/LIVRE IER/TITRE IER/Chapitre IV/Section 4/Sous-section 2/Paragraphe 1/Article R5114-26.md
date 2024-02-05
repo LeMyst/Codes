@@ -5,3 +5,6 @@ Lorsque le navire est sous pavillon français, le greffier qui a procédé à l'
 Dans les sept jours qui suivent, la saisie est dénoncée aux créanciers inscrits aux domiciles élus dans leurs inscriptions avec indication des date, heure et lieu de l'audience du juge de l'exécution. Cette dénonciation vaut assignation. Ce délai est augmenté de vingt jours si le lieu de la saisie et le lieu du tribunal qui doit connaître de la saisie et de ses suites ne se trouvent pas, l'un et l'autre, en France métropolitaine ou dans une même collectivité ultramarine.
 
 Elle est faite trois jours avant l'audience. Le délai de comparution est augmenté de vingt jours si le domicile élu et le siège du tribunal ne se trouvent pas, l'un et l'autre, en France métropolitaine ou dans une même collectivité ultramarine.
+
+NOTA:
+Conformément au deuxième alinéa du I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

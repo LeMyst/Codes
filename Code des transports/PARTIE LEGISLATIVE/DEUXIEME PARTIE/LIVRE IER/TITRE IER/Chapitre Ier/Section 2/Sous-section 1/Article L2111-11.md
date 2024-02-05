@@ -7,3 +7,6 @@ Le contrat de concession ou le marché de partenariat peut porter sur tout ou pa
 Les modalités d'application du présent article sont fixées par voie réglementaire, afin notamment de préciser les conditions qui garantissent la cohérence des missions confiées au cocontractant avec celles qui incombent à SNCF Réseau, ainsi que les modalités de rémunération du cocontractant ou de perception par ce dernier des redevances d'utilisation de l'infrastructure nouvelle.
 
 Par dérogation au second alinéa de l'article L. 2171-2 du code de la commande publique, SNCF Réseau peut confier par contrat, à un groupement de personnes de droit privé ou à une personne de droit privé, une mission portant à la fois sur l'établissement des études et l'exécution des travaux.
+
+NOTA:
+Conformément au II de l’article 172 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

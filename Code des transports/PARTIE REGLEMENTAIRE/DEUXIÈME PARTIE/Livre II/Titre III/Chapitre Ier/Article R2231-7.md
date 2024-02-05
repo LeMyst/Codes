@@ -7,3 +7,6 @@ II.-Les catégories de projets de construction, d'opération d'aménagement ou d
 III.-Le gestionnaire d'infrastructure est informé par le maître d'ouvrage d'un projet de construction, d'opération d'aménagement, ou d'installation pérenne ou temporaire, y compris les installations de travaux routiers visé au II du présent article, dès lors que le projet est arrêté dans sa nature et ses caractéristiques essentielles et avant que les autorisations et les actes conduisant à sa réalisation effective ne soient pris.
 
 IV.-Le gestionnaire d'infrastructure dispose d'un délai de deux mois à compter de la réception de l'information mentionnée au III pour proposer au représentant de l'Etat dans le département d'imposer des prescriptions à respecter pour préserver la sécurité de l'infrastructure ferroviaire et, le cas échéant, routière ainsi que celle des propriétés riveraines.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1772 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

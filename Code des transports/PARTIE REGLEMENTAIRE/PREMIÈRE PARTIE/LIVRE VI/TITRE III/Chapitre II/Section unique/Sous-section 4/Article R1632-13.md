@@ -11,3 +11,6 @@ Le document attestant de la certification technique mentionne :
 4° La date de l'évaluation de l'équipe sous l'autorité du ministre de l'intérieur ;
 
 5° La date de fin de validité de la certification technique.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

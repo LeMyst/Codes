@@ -7,3 +7,8 @@ L'Autorité de régulation des transports est saisie dans un délai d'un mois à
 L'Autorité de régulation des transports précise les conditions dans lesquelles l'autorité organisatrice qui a attribué le ou les contrats de service public, l'entreprise ferroviaire qui exécute ce ou ces contrats de service public, l'État, le gestionnaire d'infrastructure ou l'entreprise ferroviaire ayant déclaré son intention d'assurer le service faisant l'objet de la décision peuvent demander le réexamen de ladite décision dans un délai d'un mois après sa notification.
 
 La décision de l'Autorité de régulation des transports est susceptible de recours devant le Conseil d'État.
+
+NOTA:
+Conformément à l'article 8 II de la loi n° 2018-515 du 27 juin 2018, ces dispositions s'appliquent à compter du 1er janvier 2019 en tant qu'elles concernent les demandes d'accès au réseau ferroviaire pour les services librement organisés de transport ferroviaire de voyageurs en vue de leur exploitation à compter du 12 décembre 2020.
+
+L'article L. 2133-1, dans sa rédaction antérieure à ladite loi, continue à s'appliquer aux services de transport ferroviaire de personnes mentionnés à l'article L. 2121-12 dans sa rédaction antérieure à la même loi et effectués jusqu'au 11 décembre 2020.

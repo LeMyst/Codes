@@ -17,3 +17,6 @@ Le budget de l'autorité organisatrice des mobilités des territoires lyonnais c
 7° L'annuité de la dette en capital et intérêts ;
 
 8° Les dotations aux amortissements et provisions.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

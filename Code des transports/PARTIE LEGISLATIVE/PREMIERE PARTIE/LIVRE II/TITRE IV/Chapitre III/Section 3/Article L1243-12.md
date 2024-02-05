@@ -37,3 +37,6 @@ II.-Une majorité des trois quarts des suffrages exprimés est requise pour :
 6° Toute autre décision devant être adoptée par majorité qualifiée en application d'une disposition législative ou réglementaire ;
 
 7° Toute modification du nombre de membres siégeant au conseil d'administration.
+
+NOTA:
+Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.

@@ -6,9 +6,7 @@ Soit d'une condamnation par une juridiction française et inscrite au bulletin n
 
 Soit de plus d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour l'un ou l'autre des délits suivants :
 
-1° Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2,
-L. 234-1,
-L. 234-8, L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
+1° Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8, L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
 
 2° Infractions mentionnées aux articles L. 8221-1 à L. 8221-5, L. 8231-1, L. 8241-1 et L. 8241-2, L. 8251-1, L. 5221-8 et L. 8114-1 du code du travail ;
 

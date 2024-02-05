@@ -7,3 +7,6 @@ Sont exclus du champ d'application de la présente section :
 1° Les passages à niveau situés sur les lignes ou sections de lignes fermées à la circulation ferroviaire ou affectées exclusivement à la circulation des tramways ;
 
 2° Les traversées routières, à l'intersection entre une route et une voie ferrée portuaire sur laquelle la priorité de passage n'appartient pas aux matériels circulant normalement sur cette voie ferrée.
+
+NOTA:
+Se reporter aux conditions prévues à l’article 2 du décret n° 2021-396 du 6 avril 2021.

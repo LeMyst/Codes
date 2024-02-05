@@ -17,3 +17,6 @@ b) Le gestionnaire du navire est l'une des personnes mentionnées à l'article L
 -il est détenteur d'un document de conformité en application du code international de gestion pour la sécurité de l'exploitation des navires et la prévention de la pollution, adopté à Londres par l'Organisation maritime internationale le 4 novembre 1993, dans sa rédaction en vigueur ;
 
 -lorsque le navire n'est pas régi par le code mentionné au précédent alinéa et que son gestionnaire ne détient pas le document de conformité qui y est mentionné, il prouve qu'il assure depuis la France les mesures équivalentes de gestion nécessaires à l'exploitation du navire.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

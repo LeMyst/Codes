@@ -5,3 +5,6 @@ Lorsque le navire est dans les eaux intérieures ou dans une installation portua
 La récidive est punie de six mois d'emprisonnement et de 15 000 euros d'amende.
 
 Les infractions donnent lieu à autant d'amendes qu'il y a de salariés concernés.
+
+NOTA:
+Conformément au II de l’article 1er de la loi n° 2023-659 du 26 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

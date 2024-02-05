@@ -4,19 +4,7 @@ Sont applicables en Polynésie française, sous réserve des compétences dévol
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-R. 5122-2
-| Résultant du décret n° 2016-1893 du 28 décembre 2016
-|
-|
-R. 5112-2-1-1, R. 5112-2-3-1 et R. 5112-2-8 à R. 5112-2-11
-| Résultant du décret n° 2023-921 du 5 octobre 2023
-|
-|
-R. 5131-1
-| Résultant du décret n° 2016-1893 du 28 décembre 2016
-|
-|
-R. 5141-1 à R. 5142-25
-| Résultant du décret n° 2016-1893 du 28 décembre 2016
-|
+|  R. 5122-2  | Résultant du décret n° 2016-1893 du 28 décembre 2016  |
+|  R. 5112-2-1-1, R. 5112-2-3-1 et R. 5112-2-8 à R. 5112-2-11  | Résultant du décret n° 2023-921 du 5 octobre 2023  |
+|  R. 5131-1  | Résultant du décret n° 2016-1893 du 28 décembre 2016  |
+|  R. 5141-1 à R. 5142-25  | Résultant du décret n° 2016-1893 du 28 décembre 2016  |

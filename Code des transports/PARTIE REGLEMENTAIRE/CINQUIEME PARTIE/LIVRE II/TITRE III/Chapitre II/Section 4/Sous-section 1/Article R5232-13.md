@@ -11,3 +11,6 @@ Le préfet prononce, par une décision motivée, la suspension du permis d'armem
 4° Des manquements graves ou répétés aux règles relatives aux conditions d'emploi portant sur le contrat d'engagement maritime, la durée du travail, le repos, les congés, le salaire, la santé et la sécurité au travail mentionnées au titre IV ou adaptées aux gens de mer non salariés par le décret n° 2019-930 du 4 septembre 2019 portant application et adaptation aux gens de mer non salariés de certaines dispositions du code des transports et modifiant les conditions d'accès à certaines fonctions à bord et à l'obligation d'affiliation mentionnée au titre V du livre V.
 
 La décision de suspension est assortie, le cas échéant, des prescriptions nécessaires à la mise en conformité de l'exploitation du navire. Elle est notifiée à l'armateur qui en informe sans délai le capitaine du navire.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2019-930 du 4 septembre 2019, ces dispositions ne s'appliquent pas aux pilotes maritimes.

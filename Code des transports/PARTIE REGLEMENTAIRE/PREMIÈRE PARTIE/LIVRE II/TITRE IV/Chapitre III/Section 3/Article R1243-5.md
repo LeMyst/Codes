@@ -9,3 +9,6 @@ I.-Les sièges et voix au sein du conseil d'administration de l'autorité organi
 3° La région dispose d'un siège auquel sont attribuées deux voix.
 
 II.-Le transfert par la région de sa compétence en matière de services ferroviaires à l'autorité organisatrice des mobilités des territoires lyonnais, en application de l'article L. 1243-8, peut donner lieu à l'attribution à la région de sièges et de voix supplémentaires au conseil d'administration de l'autorité organisatrice des mobilités des territoires lyonnais, ainsi qu'à une réévaluation de sa contribution au budget de l'établissement. Cette faculté est subordonnée à des délibérations concordantes du conseil régional et du conseil d'administration de l'autorité organisatrice des mobilités des territoires lyonnais, cette dernière délibération étant adoptée à la majorité des trois quarts des suffrages exprimés.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

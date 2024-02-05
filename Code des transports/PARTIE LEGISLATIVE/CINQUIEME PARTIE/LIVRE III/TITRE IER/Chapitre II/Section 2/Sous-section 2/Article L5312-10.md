@@ -9,3 +9,6 @@ Dans les conditions fixées par décret, le président du directoire du grand po
 Sans préjudice des dispositions des articles L. 1212-5 et L. 2222-2 du code général de la propriété des personnes publiques, le président du directoire du grand port fluvio-maritime est habilité à recevoir et à authentifier, en vue de leur publication au fichier immobilier, les actes concernant les droits réels immobiliers passés en la forme administrative par l'établissement public.
 
 Dans les conditions fixées par décret, le directoire du grand port fluvio-maritime peut déléguer une partie de ses pouvoirs et en autoriser la subdélégation.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

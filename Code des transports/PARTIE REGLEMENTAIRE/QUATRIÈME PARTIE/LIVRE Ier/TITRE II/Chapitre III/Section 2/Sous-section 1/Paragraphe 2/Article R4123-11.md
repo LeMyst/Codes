@@ -9,3 +9,6 @@ Les annonces et affiches doivent indiquer :\
 6° Le lieu où se trouve le bateau ;\
 7° La mise à prix et les conditions de la vente, les jour, lieu et heure de la vente ;\
 8° L'indication que les enchères ne peuvent être portées que par un avocat inscrit au barreau du tribunal judiciaire du lieu de la vente.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

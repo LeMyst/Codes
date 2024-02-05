@@ -7,3 +7,6 @@ S'il s'agit de modifications des caractéristiques du bateau, mention en est fai
 S'il s'agit de perte, de déchirage ou d'inaptitude définitive à la navigation, mention en est faite, avec indication de la date, sur le registre d'immatriculation. L'autorité compétente conserve le certificat d'immatriculation en en donnant au propriétaire récépissé pour annulation et, à moins qu'il n'existe des inscriptions hypothécaires, elle procède à la radiation du bateau sur le registre d'immatriculation.
 
 S'il y a des inscriptions hypothécaires, avis des mentions nouvelles portées au registre d'immatriculation est transmis d'urgence au greffier du tribunal de commerce, qui est également informé du retrait du certificat.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

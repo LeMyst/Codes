@@ -29,3 +29,6 @@ II.-Une copie des contrats d'engagement type des marins et des gens de mer autre
 Un exemple des différents types de bulletins de paye remis aux salariés employés à bord est traduit en français. Les agents de contrôle peuvent également solliciter la traduction en langue française de tout bulletin de paye d'un salarié employé à bord du navire.
 
 Les parties de toute convention ou accord collectif applicables aux gens de mer permettant de justifier du respect des dispositions du titre VI du livre V de la cinquième partie du code des transports et des mesures prises pour son application sont traduites en français.
+
+NOTA:
+Décret n° 2014-881 du 1er août 2014 art. 3 II : Le II de l'article D. 5565-2 du code des transports s'applique à compter du 1er janvier 2015.

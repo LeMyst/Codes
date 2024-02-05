@@ -11,3 +11,8 @@ Les ressources de la société SNCF Réseau sont notamment constituées par :
 4° Tous autres concours publics.
 
 Les dotations versées indirectement par la société nationale SNCF sont engagées dans l'intérêt de cette société et ont la nature d'aide à caractère commercial au sens du 13 de l'article 39 du code général des impôts.
+
+NOTA:
+Conformément à l'article 26 de l'ordonnance n° 2019-552 du 3 juin 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément à l'article 58 II de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.

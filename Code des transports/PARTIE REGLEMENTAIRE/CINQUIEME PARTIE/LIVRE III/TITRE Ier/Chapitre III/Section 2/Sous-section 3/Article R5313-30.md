@@ -5,3 +5,6 @@ Un agent exerçant des fonctions d'inspection générale au sein de l'inspection
 L'autorité chargée du contrôle économique et financier, désignée par le ministre de l'économie et des finances, exerce le contrôle budgétaire du port autonome.
 
 Tous deux sont convoqués aux séances du conseil d'administration et ont voix consultative.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-1025 du 20 juillet 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

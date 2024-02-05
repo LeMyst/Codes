@@ -11,3 +11,6 @@ Le grand port maritime ne peut exploiter les outillages utilisés pour les opér
 4° En détenant des participations minoritaires dans une personne morale de droit privé.
 
 Les dispositions du présent article ne sont pas applicables au secteur fluvial du grand port fluvio-maritime.
+
+NOTA:
+Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

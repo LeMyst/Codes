@@ -5,3 +5,6 @@ Par dérogation aux dispositions de l'article L. 4622-2 du code du travail, les 
 Par dérogation aux dispositions de l'article L. 1251-22 du code du travail, le suivi médical des marins mis à disposition par une entreprise de travail temporaire établie en France est assuré par le service de santé des gens de mer.
 
 Les deuxième, troisième et avant-dernier alinéas de l'article L. 4623-10 du même code ne sont pas applicables à l'infirmier de santé au travail exerçant ses missions au sein du service de santé des gens de mer.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

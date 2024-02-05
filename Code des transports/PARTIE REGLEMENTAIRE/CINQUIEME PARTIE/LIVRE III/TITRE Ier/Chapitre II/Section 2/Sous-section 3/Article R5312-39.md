@@ -19,3 +19,6 @@ Le conseil de développement élabore son règlement intérieur. Il peut constit
 Les fonctions de membre du conseil de développement ne donnent pas lieu à rémunération. Toutefois, les frais de déplacement et de séjour des membres du conseil peuvent être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
 Le grand port maritime assure le secrétariat du conseil de développement. Dans un grand port fluvio-maritime, la direction territoriale assure le secrétariat du conseil de développement territorial.
+
+NOTA:
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.

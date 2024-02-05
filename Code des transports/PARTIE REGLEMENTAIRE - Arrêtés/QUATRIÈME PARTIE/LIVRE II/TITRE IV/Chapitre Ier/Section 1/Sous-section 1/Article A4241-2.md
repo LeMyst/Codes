@@ -1,8 +1,6 @@
 # Article A4241-2
 
-Champ d'application
-
-Les dispositions de la présente section fixent :
+Champ d'application Les dispositions de la présente section fixent :
 
 ― les principes généraux applicables ;
 

@@ -17,3 +17,6 @@ b) De ne pas achever ce transport de cabotage dans un délai maximal de trois jo
 5° De méconnaître le délai de carence de quatre jours pendant lequel les transporteurs ne sont pas autorisés à effectuer de nouveaux transports de cabotage avec le même véhicule ou, s'il s'agit d'un ensemble de véhicules couplés, avec le même véhicule à moteur à compter de la fin de la dernière opération de cabotage effectuée, dans des conditions régulières, sur le territoire français ;
 
 6° De ne pas disposer, dans le véhicule effectuant une opération de cabotage routier de marchandises sur le territoire français, en vue de leur présentation ou de leur transmission en cas de contrôle sur route, les éléments de preuve, mentionnés au 3 de l'article 8 du règlement n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 précité, visant à attester du respect des règles applicables au cabotage routier de marchandises.
+
+NOTA:
+Conformément au II de l’article 24 de la loi n° 2021-1308 du 8 octobre 2021, ces dispositions entrent en vigueur le 21 février 2022.

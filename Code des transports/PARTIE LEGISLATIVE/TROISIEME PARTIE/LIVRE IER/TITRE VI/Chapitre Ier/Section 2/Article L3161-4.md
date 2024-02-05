@@ -11,3 +11,6 @@ II.-Les mêmes opérateurs s'assurent, selon une périodicité et dans des condi
 1° Qu'elles ne pratiquent pas de travail dissimulé, au sens des articles L. 8221-3 et L. 8221-5 du code du travail ;
 
 2° Qu'elles n'emploient pas de salariés non autorisés à exercer une activité professionnelle sur le territoire français.
+
+NOTA:
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1er juin 2023.

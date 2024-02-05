@@ -9,3 +9,6 @@ Les indicateurs mentionnés aux 4° et 6° du I de l'article R. 1326-5 sont calc
 Les indicateurs mentionnés aux 5° et 7° du I de l'article R. 1326-5 sont calculés en effectuant la moyenne des revenus moyens d'activité hebdomadaires d'une part, et mensuels d'autre part, cumulés par travailleurs.
 
 Les moyennes hebdomadaires et mensuelles susmentionnées sont calculées pour chaque catégorie de travailleurs mentionnés aux II et III l'article R. 1326-5 pour les travailleurs ayant effectué des prestations au cours de la semaine ou du mois considéré.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-501 du 22 avril 2021, ces dispositions entrent en vigueur le 1er mars 2022.

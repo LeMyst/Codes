@@ -1,7 +1,6 @@
 # Article R5113-41
 
-Est puni de l'amende prévue pour les contraventions de la cinquième classe, le fait :
-
+Est puni de l'amende prévue pour les contraventions de la cinquième classe, le fait :\
 1° D'importer ou mettre sur le marché à titre gratuit ou onéreux un produit qui n'a pas fait l'objet de la procédure d'évaluation de la conformité prévue au 2° de l'article R. 5113-18 ;
 
 2° D'importer, mettre sur le marché à titre gratuit ou onéreux, détenir en vue de la vente ou de la distribution à titre gratuit, mettre en vente ou distribuer à titre gratuit un produit qui n'est pas accompagné des instructions et des informations de sécurité mentionnées au 8° de l'article R. 5113-18 ;

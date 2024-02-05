@@ -3,3 +3,6 @@
 Les entreprises de transport public routier de marchandises établies à Mayotte qui déclarent limiter leur activité à la seule collectivité où elles sont établies sont réputées satisfaire à l'exigence de capacité professionnelle dès lors que leur gestionnaire de transport mentionné aux articles R. 3211-43 à R. 3211-46 est titulaire d'une attestation de capacité professionnelle en transport routier de marchandises adaptée.
 
 Lorsque l'obtention de la capacité professionnelle adaptée est soumise à la réussite à un examen écrit obligatoire, l'organisation et la gestion de cet examen donnent lieu à la perception de la redevance prévue à l'article R. 3211-37.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-472 du 1er avril 2022, ces dispositions s'appliquent aux examens de capacité professionnelle organisés à compter du 1er janvier 2022.

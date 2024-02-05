@@ -17,3 +17,6 @@ c) Du suivi de l'activité des ouvriers dockers occasionnels.
 III.-Un arrêté du ministre chargé des ports maritimes définit les informations nominatives relatives aux ouvriers dockers intermittents et aux ouvriers dockers mensualisés titulaires de la carte professionnelle que les entreprises de manutention portuaire transmettent, pour la tenue du registre mentionné au cinquième alinéa de l'article L. 5343-2, à la caisse de compensation de congés payés dont elles relèvent et que celle-ci transmet à l'organisme national mentionné par les mêmes dispositions. Cet arrêté détermine également les modalités et la périodicité de cette transmission par les entreprises et par chaque caisse.
 
 Le nombre des dockers figurant dans ce registre est communiqué tous les ans à la commission paritaire nationale de l'emploi de la branche.
+
+NOTA:
+Conformément au II de l'article 4 du décret n° 2020-788 du 26 juin 2020, les dispositions de l'article R. 5343-41 relatives à la transmission d'informations par les entreprises de manutentions portuaires entrent en vigueur le 1er juillet 2020.

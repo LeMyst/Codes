@@ -9,3 +9,6 @@ Est puni de 15 000 € d'amende :
 3° Le fait, pour l'entreprise ayant commandé des prestations de transport routier, de faire réaliser ces prestations en violation des stipulations fixées par les accords bilatéraux ou par tout autre accord international, lorsqu'elle savait ou aurait dû raisonnablement savoir que l'exécution des services de transport commandés enfreignait ces stipulations.
 
 Le tribunal peut, en outre, prononcer la peine complémentaire d'interdiction d'effectuer ou de faire effectuer des opérations de transport sur le territoire national pendant une durée maximale d'un an.
+
+NOTA:
+Conformément au II de l’article 24 de la loi n° 2021-1308 du 8 octobre 2021, ces dispositions entrent en vigueur le 21 février 2022.

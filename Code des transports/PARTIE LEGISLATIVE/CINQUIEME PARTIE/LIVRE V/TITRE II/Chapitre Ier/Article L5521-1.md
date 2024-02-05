@@ -19,3 +19,12 @@ IV.-Un décret en Conseil d'Etat, pris après avis des organisations les plus re
 4° Les cas de dispense, la durée de validité du certificat d'aptitude médicale délivré à l'issue du contrôle d'aptitude médicale, sa forme ainsi que les voies et délais de recours en cas de refus de délivrance du certificat.
 
 V.-Les normes d'aptitude médicale à la navigation des gens de mer sont définies par arrêté du ministre chargé de la mer, pris après consultation du Conseil supérieur des gens de mer. Elles tiennent compte des recommandations internationales relatives à la santé et au travail en mer, des particularités des conditions de travail et de vie à bord des navires et des impératifs de la sécurité maritime. Le cas échéant, ces normes sont déterminées selon les fonctions à bord ou les types de navigation.
+
+NOTA:
+Conformément à l'article 4 de l'ordonnance 2020-933 du 29 juillet 2020 :
+
+I. - Sous réserve du II, les gens de mer mentionnés au II de l'article L. 5551-1 du code des transports, exerçant à la date de l'entrée en vigueur de la loi du 24 décembre 2019 susvisée, sont affiliés au régime d'assurances sociales relevant de leur activité principale à compter du premier jour du mois suivant la publication de la présente ordonnance.
+
+II. - Les gens de mer mentionnés au 2° du II de l'article L. 5551-1 du code des transports, affiliés au régime d'assurance vieillesse mentionné au I de cet article à la date de l'entrée en vigueur de la loi du 24 décembre 2019 précitée, demeurent affiliés à ce régime.
+
+III. - Les articles L. 5542-21 à L. 5542-28 du même code demeurent applicables aux gens de mer mentionnés au présent article maintenus au régime d'assurance vieillesse des marins en application des dispositions précitées du II ou, le cas échéant, du I.

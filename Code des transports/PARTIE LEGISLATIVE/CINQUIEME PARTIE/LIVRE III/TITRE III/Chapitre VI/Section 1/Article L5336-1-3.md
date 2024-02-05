@@ -25,3 +25,6 @@ L'opposition à l'état exécutoire pris en application d'une mesure de consigna
 4° Suspendre l'exploitation d'une installation portuaire ou d'un port pendant un délai que l'autorité administrative détermine.
 
 Les mesures mentionnées aux 1° à 4° sont prises après que les éléments susceptibles de fonder ces mesures ont été communiqués à la personne morale concernée et que celle-ci a été informée de la possibilité de présenter ses observations dans un délai déterminé.
+
+NOTA:
+Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.

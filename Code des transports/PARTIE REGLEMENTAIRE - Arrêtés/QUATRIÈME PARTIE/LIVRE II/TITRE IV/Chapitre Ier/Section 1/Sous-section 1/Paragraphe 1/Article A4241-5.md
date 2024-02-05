@@ -1,8 +1,6 @@
 # Article A4241-5
 
-Règles de désignation du conducteur d'un convoi ou d'une formation à couple
-
-1. Le conducteur du convoi est désigné de la façon suivante :
+Règles de désignation du conducteur d'un convoi ou d'une formation à couple 1. Le conducteur du convoi est désigné de la façon suivante :
 
 a) Dans le cas d'un convoi ne comprenant qu'un bateau motorisé, le conducteur du convoi est celui du bateau motorisé ;
 

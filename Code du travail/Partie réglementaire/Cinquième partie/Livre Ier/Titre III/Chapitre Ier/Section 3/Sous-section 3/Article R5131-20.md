@@ -7,3 +7,6 @@ I.-L'allocation mentionnée à l'article L. 5131-6 ouvre droit à un montant men
 2° De la fraction excédant le montant fixé au 1° de l'article D. 5131-23 du total des ressources mentionnées à l'article R. 5131-22, pondérée par le coefficient de dégressivité mentionné au 2° de l'article D. 5131-23.
 
 II.-Les ressources autres que celles mentionnées au I et à l'article R. 5131-24 sont intégralement cumulables avec l'allocation.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

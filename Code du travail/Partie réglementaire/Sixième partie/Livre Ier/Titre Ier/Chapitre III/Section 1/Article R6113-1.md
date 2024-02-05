@@ -19,3 +19,6 @@ II.-Participent aux débats, sans voix délibérative :
 3° Toute personne dont l'audition est de nature à éclairer les débats, sur invitation du président ;
 
 4° Un membre nommé pour une durée de cinq ans par arrêté du ministre chargé de la formation professionnelle, sur proposition du Conseil national consultatif des personnes handicapées.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2021-389 du 2 avril 2021, ces dispositions sont applicables à compter du 1er septembre 2021.

@@ -7,3 +7,6 @@ La ou les personnes désignées par le comité social et économique, selon les 
 2° Lors d'une procédure de redressement judiciaire dans les situations et conditions prévues à l'article L. 631-7, au II de l'article L. 631-15, au I de l'article L. 631-19 et à l'article L. 631-22 du code de commerce ;
 
 3° Lors d'une procédure de liquidation judiciaire dans les situations prévues au premier alinéa de l'article L. 642-5 et aux articles L. 642-6, L. 642-13 et L. 642-17 du code de commerce.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

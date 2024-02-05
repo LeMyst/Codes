@@ -17,3 +17,6 @@ Elle définit et met en œuvre un programme régional d'accès à la formation e
 6° Les organismes de protection sociale ;
 
 7° Les organisations syndicales et associations représentatives des personnes handicapées.
+
+NOTA:
+Ces dispositions entrent en vigueur à compter du 1er janvier 2015 sous réserve de l'entrée en vigueur des dispositions relevant de la loi de finances prévues au I de l'article 27 de la loi n° 2014-288 du 5 mars 2014 conformément au paragraphe II dudit article.

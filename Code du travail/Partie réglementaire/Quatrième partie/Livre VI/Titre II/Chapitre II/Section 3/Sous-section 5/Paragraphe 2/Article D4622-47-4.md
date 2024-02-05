@@ -17,3 +17,6 @@ Les principes et référentiels mentionnés au dernier alinéa de l'article L. 4
 7° Les modalités de transfert et de traitement des dossiers de certification, en cas de suspension ou de retrait de l'accréditation, ou en cas de cessation d'activité ;
 
 8° Les modalités de publicité de la certification.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1031 du 20 juillet 2022, ces dispositions entrent en vigueur à la date de publication de l'arrêté mentionné à l'article 1er dudit décret et au plus tard le 1er mai 2023.

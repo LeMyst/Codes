@@ -47,3 +47,6 @@ Ce plan est établi pour le compte de l'employeur sur la plateforme DEMAT @ MIAN
 Le ou les organismes certificateurs de l'entreprise concernée sont destinataires, au moyen de la plateforme DEMAT @ MIANTE, des informations mentionnées aux 19° et 20°.
 
 La modification du marché de travaux ou des processus entraîne une modification du plan de démolition, de retrait ou d'encapsulage par le biais d'un avenant également établi et transmis au moyen de la plateforme DEMAT @ MIANTE. Toutes les autres évolutions du contenu de ce plan donnent lieu à une information établie et transmise au moyen de cette plateforme, dans les conditions de l'article R. 4412-138.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1er février 2023. Se reporter aux conditions d’application prévues audit article.

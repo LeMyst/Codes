@@ -13,3 +13,6 @@ Le médecin praticien correspondant conclut avec le service de prévention et de
 La conclusion d'un protocole de collaboration sur le fondement du deuxième alinéa du présent IV n'est autorisée que dans les zones caractérisées par un nombre insuffisant ou une disponibilité insuffisante de médecins du travail pour répondre aux besoins du suivi médical des travailleurs, arrêtées par le directeur général de l'agence régionale de santé territorialement compétente, après concertation avec les représentants des médecins du travail.
 
 Les modalités d'application du présent IV sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l’article 31 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à compter d'une date fixée par décret, et au plus tard le 1er janvier 2023.

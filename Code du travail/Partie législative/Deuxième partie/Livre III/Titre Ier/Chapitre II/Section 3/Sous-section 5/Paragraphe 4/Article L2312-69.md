@@ -9,3 +9,6 @@ Chaque trimestre, dans les entreprises d'au moins trois cents salariés, l'emplo
 3° L'évolution des effectifs et de la qualification des salariés par sexe.
 
 Un décret en Conseil d'Etat précise le contenu des informations prévues au 3° du présent article.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

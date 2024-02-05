@@ -13,3 +13,6 @@ Sauf dans le cas prévu à l'article L. 1233-35-1, l'employeur saisit le juge ju
 Le juge statue, dans les cas 1° à 3°, suivant la procédure accélérée au fond dans les dix jours suivant sa saisine. Cette saisine suspend l'exécution de la décision du comité, ainsi que les délais dans lesquels il est consulté en application de l'article L. 2312-15, jusqu'à la notification du jugement. Cette décision n'est pas susceptible d'appel.
 
 En cas d'annulation définitive par le juge de la délibération du comité social et économique, les sommes perçues par l'expert sont remboursées par ce dernier à l'employeur. Le comité social et économique peut, à tout moment, décider de les prendre en charge.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

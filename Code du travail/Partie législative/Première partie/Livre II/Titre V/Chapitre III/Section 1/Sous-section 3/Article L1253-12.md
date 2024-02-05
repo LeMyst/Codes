@@ -15,3 +15,6 @@ Pour l'application de ces dispositions, les conditions d'exécution du travail c
 5° Le travail des femmes, des enfants et des jeunes travailleurs ;
 
 6° L'exercice de la fonction de maître d'apprentissage définie à la section 3 du chapitre III du titre II du livre II de la sixième partie.
+
+NOTA:
+Aux termes de la loi n° 2011-893 du 28 juillet 2011, article 30, les articles 31 à 39 de la présente loi entrent en vigueur au 1er novembre 2011. Un accord collectif national conclu avant cette date peut déroger à ces articles.

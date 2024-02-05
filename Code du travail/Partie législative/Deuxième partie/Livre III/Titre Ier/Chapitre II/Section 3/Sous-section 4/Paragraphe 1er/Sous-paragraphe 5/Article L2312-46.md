@@ -9,3 +9,6 @@ L'avis du comité social et économique ainsi que le rapport de l'expert-comptab
 II. - Les membres de la délégation du personnel du comité social et économique peuvent, s'ils estiment ne pas disposer d'éléments suffisants, saisir le président du tribunal judiciaire statuant selon la procédure accélérée au fond en dernier ressort pour qu'il ordonne la communication, par la société faisant l'objet de l'offre et par l'auteur de l'offre, des éléments manquants.
 
 Cette saisine n'a pas pour effet de prolonger le délai dont dispose le comité social et économique pour rendre son avis. Toutefois, en cas de difficultés particulières d'accès aux informations nécessaires à la formulation de l'avis du comité social et économique, le juge peut décider la prolongation du délai prévu au deuxième alinéa du I, sauf lorsque ces difficultés résultent d'une volonté manifeste de retenir ces informations de la part de la société faisant l'objet de l'offre.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

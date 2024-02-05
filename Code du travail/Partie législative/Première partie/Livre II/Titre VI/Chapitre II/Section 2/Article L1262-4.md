@@ -29,3 +29,8 @@ II.-L'employeur détachant temporairement un salarié sur le territoire national
 En cas de remplacement d'un salarié détaché par un autre salarié détaché sur le même poste de travail, la durée de détachement de douze mois mentionnée à l'alinéa précédent est atteinte lorsque la durée cumulée du détachement des salariés se succédant sur le même poste est égale à douze mois.
 
 Lorsque l'exécution de la prestation le justifie, l'employeur mentionné au premier alinéa du II bénéficie, sur déclaration motivée adressée à l'autorité administrative préalablement à l'expiration du délai de douze mois, dans les conditions fixées par décret en Conseil d'Etat, de la prorogation de l'application des règles relevant des matières énumérées au I pour une durée d'au plus six mois supplémentaires.
+
+NOTA:
+Conformément aux dispositions des I et II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019, ces dispositions entrent en vigueur le 30 juillet 2020. Conformément à ce même article, pour l'application du II de l'article L. 1262-4 aux détachements en cours au 30 juillet 2020, la durée de douze mois s'apprécie en tenant compte des périodes de détachement déjà accomplies à cette date.
+
+Se reporter aux modalités d'application prévues au II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019 ainsi qu'au III de l'article 25 de la loi n° 2021-1308 du 8 octobre 2021.

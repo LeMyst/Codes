@@ -5,3 +5,6 @@ Le tribunal statue dans un délai d'un mois à compter de sa saisine, après avo
 Le tribunal judiciaire statue sans frais ni forme de procédure. La décision est notifiée aux parties au plus tard dans les trois jours par le greffe, qui en adresse une copie dans le même délai au ministre chargé du travail qui en transmet lui-même une copie au Haut Conseil du dialogue social.
 
 La décision du tribunal judiciaire n'est pas susceptible d'opposition.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

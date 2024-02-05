@@ -11,3 +11,6 @@ Ces décisions sont motivées, elles précisent les voies et délais de recours 
 Ces décisions prennent effet le premier jour du mois suivant leur notification.
 
 IV.-La qualité de bénéficiaire du contrat d'engagement jeune fait obstacle à l'application, par Pôle emploi, des dispositions prévues par l'article L. 5412-1.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

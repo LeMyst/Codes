@@ -5,3 +5,6 @@ Sans préjudice du droit de recourir, si les conditions en sont remplies, au dis
 L'alerte est consignée par écrit dans des conditions déterminées par voie réglementaire.
 
 L'employeur examine la situation conjointement avec le représentant du personnel au comité social et économique qui lui a transmis l'alerte et l'informe de la suite qu'il réserve à celle-ci.
+
+NOTA:
+Conformément à l’article 18 de la loi n° 2022-401 du 21 mars 2022, ces dispositions entrent en vigueur le premier jour du sixième mois suivant sa promulgation.

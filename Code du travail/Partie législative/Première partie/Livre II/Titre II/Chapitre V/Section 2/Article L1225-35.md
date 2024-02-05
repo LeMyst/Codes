@@ -9,3 +9,8 @@ Ce congé est composé d'une période de quatre jours calendaires consécutifs, 
 Le délai de prévenance de l'employeur quant à la date prévisionnelle de l'accouchement et aux dates de prise du congé et à la durée de la ou des périodes de congés, le délai dans lequel les jours de congé doivent être pris ainsi que les modalités de fractionnement de la période de congé de vingt et un jours et de vingt-huit jours sont fixés par décret. Le délai de prévenance relatif à la date prévisionnelle de l'accouchement et celui relatif aux dates de prise du ou des congés de la seconde période de vingt et un jours ou de vingt-huit jours ainsi qu'à la durée de ces congés doivent être compris entre quinze jours et deux mois.
 
 Par dérogation aux quatre premiers alinéas, lorsque l'état de santé de l'enfant nécessite son hospitalisation immédiate après la naissance dans une unité de soins spécialisée définie par arrêté des ministres chargés de la santé et de la sécurité sociale, la période de congé de quatre jours consécutifs mentionnée au troisième alinéa est prolongée de droit, à la demande du salarié, pendant la période d'hospitalisation, dans la limite d'une durée maximale déterminée par décret.
+
+NOTA:
+Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1er juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
+
+Par dérogation au premier alinéa du présent IV, les dispositions du présent article relatives à l'information de l'employeur sur la date prévisionnelle de la naissance s'appliquent aux naissances prévues à compter du 1er juillet 2021.

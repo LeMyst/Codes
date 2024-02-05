@@ -11,3 +11,6 @@ a) Lorsqu'un même salarié subit de tels propos ou comportements venant de plus
 b) Lorsqu'un même salarié subit de tels propos ou comportements, successivement, venant de plusieurs personnes qui, même en l'absence de concertation, savent que ces propos ou comportements caractérisent une répétition ;
 
 2° Soit assimilés au harcèlement sexuel, consistant en toute forme de pression grave, même non répétée, exercée dans le but réel ou apparent d'obtenir un acte de nature sexuelle, que celui-ci soit recherché au profit de l'auteur des faits ou au profit d'un tiers.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

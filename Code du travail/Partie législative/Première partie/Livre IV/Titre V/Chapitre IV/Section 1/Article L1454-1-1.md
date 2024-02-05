@@ -9,3 +9,6 @@ En cas d'échec de la conciliation, le bureau de conciliation et d'orientation p
 A défaut, l'affaire est renvoyée devant le bureau de jugement mentionné à l'article L. 1423-12.
 
 La formation saisie connaît de l'ensemble des demandes des parties, y compris des demandes additionnelles ou reconventionnelles.
+
+NOTA:
+Ces dispositions sont applicables aux instances introduites devant les conseils de prud'hommes à compter de la publication de la loi n° 2015-990 du 6 août 2015.

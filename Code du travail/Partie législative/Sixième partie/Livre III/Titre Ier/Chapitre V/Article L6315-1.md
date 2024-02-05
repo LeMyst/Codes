@@ -19,3 +19,6 @@ Dans les entreprises d'au moins cinquante salariés, lorsque, au cours de ces si
 Pour l'application du présent article, l'effectif salarié et le franchissement du seuil de cinquante salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
 
 III. ― Un accord collectif d'entreprise ou, à défaut, de branche peut définir un cadre, des objectifs et des critères collectifs d'abondement par l'employeur du compte personnel de formation des salariés. Il peut également prévoir d'autres modalités d'appréciation du parcours professionnel du salarié que celles mentionnés aux 1° à 3° du II du présent article ainsi qu'une périodicité des entretiens professionnels différente de celle définie au I.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

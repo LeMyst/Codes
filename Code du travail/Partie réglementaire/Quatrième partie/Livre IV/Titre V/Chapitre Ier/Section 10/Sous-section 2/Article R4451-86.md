@@ -11,3 +11,8 @@ Il est délivré lorsque le service remplit les conditions fixées par un cahier
 III.-L'abrogation de l'agrément prévu à l'article L. 4622-6-1 du présent code entraîne celle de l'agrément complémentaire.
 
 Lorsque l'autorité administrative constate des manquements aux conditions mentionnées au II, elle peut diminuer la durée de l'agrément complémentaire ou y mettre fin.
+
+NOTA:
+Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1er janvier 2024.
+
+Se reporter aux conditions d’application prévues au III du même article.

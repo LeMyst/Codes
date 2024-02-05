@@ -41,3 +41,6 @@ Pour être inscrit sur la liste des demandeurs d'emploi, le travailleur étrange
 19° L'attestation de décision favorable portant la mention “ autorise son titulaire à travailler ” ;
 
 20° L'attestation de prolongation portant la mention “ autorise son titulaire à travailler ”.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2021-360 du 31 mars 2021, ces dispositions entrent en vigueur le 1er mai 2021.

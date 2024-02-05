@@ -27,3 +27,6 @@ III.-Les membres des collèges mentionnés au 3° et au 5° du I et au 1° du II
 Leur nomination intervient, à la suite de chaque mesure quadriennale de l'audience des organisations syndicales et des organisations professionnelles d'employeurs organisée en application des articles L. 2122-9 et L. 2152-4, dans un délai de quatre mois suivant la publication du dernier des deux arrêtés, prévus aux articles L. 2122-11 et L. 2152-6, établissant la liste des organisations reconnues représentatives au niveau national et interprofessionnel.
 
 Pour chacun des membres du collège mentionné au 3° du I et au 1° du II du présent article, deux suppléants sont nommés dans les mêmes conditions.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

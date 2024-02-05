@@ -3,3 +3,6 @@
 Pour l'exercice de leurs fonctions, les membres élus de la délégation du personnel du comité social et économique et les représentants syndicaux au comité peuvent, durant les heures de délégation, se déplacer hors de l'entreprise.
 
 Ils peuvent également, tant durant les heures de délégation qu'en dehors de leurs heures habituelles de travail, circuler librement dans l'entreprise et y prendre tous contacts nécessaires à l'accomplissement de leur mission, notamment auprès d'un salarié à son poste de travail, sous réserve de ne pas apporter de gêne importante à l'accomplissement du travail des salariés.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

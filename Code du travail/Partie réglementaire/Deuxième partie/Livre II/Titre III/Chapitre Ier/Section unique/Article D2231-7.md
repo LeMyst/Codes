@@ -23,3 +23,6 @@ c) De la liste mentionnée à l'article D. 2231-6, s'il y a lieu.
 Un récépissé est délivré au déposant.
 
 Le format de ces documents est précisé par arrêté.
+
+NOTA:
+Conformément aux dispositions de l'article 2 du décret n° 2018-362 du 15 mai 2018, ces dispositions sont applicables aux conventions et accords conclus à compter du 1er septembre 2017.

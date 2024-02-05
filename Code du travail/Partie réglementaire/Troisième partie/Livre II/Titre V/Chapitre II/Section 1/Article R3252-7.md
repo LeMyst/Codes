@@ -5,3 +5,6 @@ Le juge de l'exécution compétent pour connaître de la saisie des sommes dues 
 Si celui-ci réside à l'étranger ou n'a pas de domicile connu, la procédure est portée devant le juge de l'exécution du lieu où demeure le tiers saisi.
 
 Ces règles de compétence sont d'ordre public.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

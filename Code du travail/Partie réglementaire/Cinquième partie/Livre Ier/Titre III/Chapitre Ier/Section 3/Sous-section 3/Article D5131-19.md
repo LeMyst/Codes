@@ -17,3 +17,6 @@ III.-A Mayotte, les montants mentionnés aux a et b du 1° et au 2° du I sont f
 IV.-Les montants mentionnés au I et au III sont revalorisés le 1er avril de chaque année par application du coefficient mentionné à l'article L. 161-25 du code de la sécurité sociale.
 
 V. – Le montant forfaitaire de l’allocation est défini à la signature du contrat d’engagement. Il est révisé sur demande du jeune ou à l’initiative du conseiller référent, en cas de changement de situation.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022, à l’exception des dispositions du IV de l’article D. 5131-19 qui entrent en vigueur le 1er janvier 2023.

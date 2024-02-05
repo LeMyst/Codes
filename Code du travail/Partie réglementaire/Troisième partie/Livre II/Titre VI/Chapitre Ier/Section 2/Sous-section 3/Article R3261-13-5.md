@@ -39,3 +39,6 @@ La liste des entreprises bénéficiant de l'agrément est mise à la disposition
 III.-L'agrément est retiré en cas de manquement aux obligations mentionnées au deuxième alinéa de l'article R. 3261-13-6 ou lorsqu'une entreprise cesse de fournir les services au titre desquels elle a été agréée.
 
 IV.-L'utilisation des titres d'un émetteur est subordonnée à la conclusion, entre celui-ci et les entreprises agréées souhaitant accepter ces titres, d'un contrat d'affiliation prévoyant, notamment, l'acquittement de tout ou partie des commissions identifiées à l'article L. 3261-5.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2021-1663 du 16 décembre 2021, les agréments délivrés en application de l'article R. 3261-13-5 du code du travail antérieurement au 1er janvier 2022 entrent en vigueur à cette dernière date.

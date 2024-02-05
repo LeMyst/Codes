@@ -5,3 +5,6 @@ La direction départementale de l'emploi, du travail et des solidarités transme
 Lorsque les éléments demandés ne sont pas fournis dans le délai mentionné à l'alinéa précédent ou que les justificatifs transmis ne sont pas de nature à établir le respect des exigences rappelées aux 1° et 2° de l'article R. 5132-1-12, l'autorité administrative notifie à la structure les manquements constatés et les mesures envisagées par tout moyen conférant date certaine à la réception de ces éléments.
 
 A réception de cette notification, la structure dispose d'un délai de six semaines pour transmettre les justificatifs demandés ou pour présenter ses observations selon les modalités prévues à l'article L. 122-1 du code des relations entre le public et l'administration.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

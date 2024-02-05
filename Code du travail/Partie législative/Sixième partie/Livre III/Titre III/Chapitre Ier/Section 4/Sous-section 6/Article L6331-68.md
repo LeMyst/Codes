@@ -11,3 +11,6 @@ Les contributions prévues à l'article L. 6331-65 sont reversées à France com
 Les montants des deux fractions de la collecte affectées au financement du compte personnel de formation des travailleurs indépendants et au conseil en évolution professionnelle sont déterminés par un arrêté conjoint des ministres chargés de la sécurité sociale, de la culture et de la formation professionnelle.
 
 Un décret en Conseil d'Etat détermine les modalités d'organisation et de fonctionnement de la section particulière mentionnée au 1° du présent article.
+
+NOTA:
+Conformément au IV de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

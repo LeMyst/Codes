@@ -5,3 +5,6 @@ Lorsque la Caisse des dépôts et consignations constate un manquement de l'un d
 La décision précise la ou les sanctions prononcées, et, en cas de déréférencement temporaire du prestataire mentionné à l'article L. 6351-1, sa date d'effet et sa durée qui ne peut excéder douze mois.
 
 La Caisse des dépôts et consignations effectue tout signalement utile et étayé des manquements qu'elle constate auprès des autorités compétentes de l'Etat.
+
+NOTA:
+Conformément à l'article 27 du décret n° 2021-1708 du 17 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.

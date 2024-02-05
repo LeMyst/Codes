@@ -7,3 +7,6 @@ La demande précise la durée de travail souhaitée ainsi que la date d'effet en
 Elle est adressée deux mois au moins avant cette date.
 
 L'employeur répond à la demande du salarié par lettre recommandée avec avis de réception dans un délai de deux mois à compter de la réception de celle-ci.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

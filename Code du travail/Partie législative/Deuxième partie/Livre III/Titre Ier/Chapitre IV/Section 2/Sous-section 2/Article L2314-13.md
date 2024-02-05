@@ -9,3 +9,6 @@ Lorsque au moins une organisation syndicale a répondu à l'invitation à négoc
 La saisine de l'autorité administrative suspend le processus électoral jusqu'à la décision administrative et entraîne la prorogation des mandats des élus en cours jusqu'à la proclamation des résultats du scrutin.
 
 La décision de l'autorité administrative peut faire l'objet d'un recours devant le juge judiciaire, à l'exclusion de tout autre recours administratif ou contentieux.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

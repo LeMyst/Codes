@@ -5,3 +5,6 @@ Le directeur général du travail et le directeur régional de l'économie, de l
 1° Solliciter de l'organisme certificateur un bilan d'activité ou tout document ou information complémentaires relatifs à la certification ;
 
 2° Lui demander d'organiser un audit supplémentaire.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1031 du 20 juillet 2022, ces dispositions entrent en vigueur à la date de publication de l'arrêté mentionné à l'article 1er dudit décret et au plus tard le 1er mai 2023.

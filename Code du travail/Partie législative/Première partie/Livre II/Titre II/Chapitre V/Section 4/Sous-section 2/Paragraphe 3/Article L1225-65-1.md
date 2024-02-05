@@ -5,3 +5,6 @@ Un salarié peut, sur sa demande et en accord avec l'employeur, renoncer anonyme
 Un salarié peut, dans les mêmes conditions, renoncer à tout ou partie de ses jours de repos non pris au bénéfice d'un autre salarié de l'entreprise dont l'enfant âgé de moins de vingt-cinq ans est décédé. Cette possibilité est également ouverte au bénéfice du salarié au titre du décès de la personne de moins de vingt-cinq ans à sa charge effective et permanente. Cette renonciation peut intervenir au cours de l'année suivant la date du décès.
 
 Le salarié bénéficiaire d'un ou plusieurs jours cédés en application des deux premiers alinéas bénéficie du maintien de sa rémunération pendant sa période d'absence. Cette période d'absence est assimilée à une période de travail effectif pour la détermination des droits que le salarié tient de son ancienneté. Le salarié conserve le bénéfice de tous les avantages qu'il avait acquis avant le début de sa période d'absence.
+
+NOTA:
+Conformément au II de l'article 3 de la loi n° 2020-692 du 8 juin 2020, un décret en Conseil d'Etat détermine les conditions d'application du présent article aux agents publics civils et militaires. Le chef de service est informé du don de jours de repos. Il ne peut pas s'y opposer.

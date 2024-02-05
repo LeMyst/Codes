@@ -9,3 +9,6 @@ Le montant de cette rémunération ne peut être inférieur à un salaire mensue
 Il ne peut non plus être inférieur à 85 % du montant de la garantie de rémunération versée par l'employeur en application des dispositions de l'article 32 de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de travail.
 
 Chaque mois, l'employeur remet au salarié un bulletin précisant le montant et les modalités de calcul de cette rémunération.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-626 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juillet 2021.

@@ -7,3 +7,6 @@ Le travailleur est informé, lors de la création de son dossier médical en san
 2° De son droit de s'opposer à l'accès des professionnels chargés du suivi de son état de santé aux dossiers médicaux en santé au travail dont il est titulaire et qui sont détenus par d'autres services de prévention et de santé au travail.
 
 La délivrance de ces informations et l'exercice de l'un de ces droits sont retracés dans le dossier médical en santé au travail conformément à l'article R. 4624-45-4.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

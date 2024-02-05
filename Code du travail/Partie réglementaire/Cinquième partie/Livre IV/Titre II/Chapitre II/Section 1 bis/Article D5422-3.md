@@ -5,3 +5,6 @@ Les organismes chargés du recouvrement des contributions d'assurance chômage, 
 A cet effet, les organismes précités mettent à disposition un téléservice permettant le dépôt et le traitement des demandes de communication adressées par l'employeur, ou par son tiers déclarant, des données mentionnées à l'alinéa précédent. L'employeur ou son tiers déclarant adresse, par voie dématérialisée, sa demande au moyen de ce téléservice.
 
 Lorsque l'employeur ou son tiers déclarant indique aux organismes mentionnés au premier alinéa ne pas être en mesure d'utiliser le téléservice, il peut adresser sa demande auprès de ces organismes par tout autre moyen.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 2 du décret n° 2023-635 du 20 juillet 2023.

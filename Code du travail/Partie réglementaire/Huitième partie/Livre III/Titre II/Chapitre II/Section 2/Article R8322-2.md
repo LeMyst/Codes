@@ -1,7 +1,6 @@
 # Article R8322-2
 
-Pour l'application des articles R. 8115-1 à R. 8115-4, R. 8115-6
-, R. 8122-1 et R. 8122-2 en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin :
+Pour l'application des articles R. 8115-1 à R. 8115-4, R. 8115-6 , R. 8122-1 et R. 8122-2 en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin :
 
 1° Les attributions dévolues aux directeurs régionaux de l'économie, de l'emploi, du travail et des solidarités sont exercées :
 
@@ -12,3 +11,6 @@ b) Par le directeur général des populations en Guyane ;
 c) Par le directeur de la cohésion sociale, du travail, de l'emploi et de la population à Saint-Pierre-et-Miquelon ;
 
 2° Les dispositions relatives aux responsables d'unités départementales ne s'appliquent pas.
+
+NOTA:
+Conformément à l'article 30 du décret n° 2020-1545 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er avril 2021.

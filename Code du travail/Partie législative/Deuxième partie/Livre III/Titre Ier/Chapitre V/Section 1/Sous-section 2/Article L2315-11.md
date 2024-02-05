@@ -9,3 +9,6 @@ Est également payé comme temps de travail effectif le temps passé par les mem
 3° Aux enquêtes menées après un accident du travail grave ou des incidents répétés ayant révélé un risque grave ou une maladie professionnelle ou à caractère professionnel grave ;
 
 Ce temps n'est pas déduit des heures de délégation prévues pour les membres titulaires de la délégation du personnel du comité social et économique.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

@@ -7,3 +7,6 @@ Toutefois, cessent de remplir ces conditions d'électorat et d'éligibilité :
 1° Les salariés ayant fait connaître à l'entrepreneur de travail temporaire qu'ils ne souhaitaient plus bénéficier d'un nouveau contrat de mission ;
 
 2° Les salariés à qui l'entrepreneur de travail temporaire a notifié sa décision de ne plus faire appel à eux pour de nouveaux contrats de mission.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

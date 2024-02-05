@@ -7,3 +7,6 @@ L'autorisation de travail est accordée de droit à l'étranger autorisé à sé
 Lorsqu'un titre de séjour “ salarié ” ou “ travailleur temporaire ” est délivré à l'étranger sur le fondement de l'article L. 435-4 du code de l'entrée et du séjour des étrangers et du droit d'asile, l'autorité administrative vérifie par tout moyen la réalité de l'activité alléguée.
 
 L'autorisation de travail peut être retirée si l'étranger ne s'est pas fait délivrer un certificat médical dans les trois mois suivant la délivrance de cette autorisation.
+
+NOTA:
+Conformément au III de l’article 27 de la loi n° 2024-42 du 26 janvier 2024, ces dispositions sont applicables jusqu'au 31 décembre 2026.

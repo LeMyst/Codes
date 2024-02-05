@@ -9,3 +9,6 @@ Le produit des cessions des biens immobiliers transférés à l'établissement p
 Il en est de même des produits des cessions des biens immobiliers financés en remploi du produit des ventes des biens visés au troisième alinéa.
 
 Toutefois les produits issus de la réalisation des sûretés réelles portant sur des biens mentionnés au troisième alinéa sont destinés aux créanciers.
+
+NOTA:
+Conformément à l'article 9 de l'ordonnance n° 2016-1519 du 10 novembre 2016, ces dispositions entrent en vigueur à la date d'effet de la décision portant dissolution de l'Association nationale pour la formation professionnelle des adultes et au plus tard le 1er janvier 2017.

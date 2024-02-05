@@ -9,3 +9,8 @@ Les travailleurs reconnus handicapés ayant conclu un contrat à durée détermi
 II.-Lorsque l'entreprise adaptée accomplit la mission prévue à l'article L. 412-3 du code pénitentiaire auprès des personnes détenues reconnues travailleurs handicapées ayant signé un contrat d'emploi pénitentiaire, le montant total annuel d'aide versé au titre de l'enveloppe financière mentionnée à l'article R. 5213-76 est calculé sur la base d'une proportion de détenus reconnus travailleurs handicapés qui ne peut être supérieure à 75 % de l'effectif annuel de personnes détenues ayant signé un contrat d'emploi pénitentiaire et travaillant dans le cadre du contrat d'implantation de l'entreprise adaptée.
 
 Ce pourcentage est égal au rapport entre le nombre d'heures de travail effectuées annuellement par les personnes détenues reconnues travailleurs handicapés dont l'emploi ouvre droit à une aide financière et le nombre total d'heures de travail effectuées annuellement par l'ensemble des personnes détenues ayant signé un contrat d'emploi pénitentiaire et travaillant dans le cadre du contrat d'implantation de l'entreprise adaptée.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2019-39 du 23 janvier 2019, ces dispositions entrent en vigueur le 1er janvier 2019.
+
+Par dérogation au premier alinéa de l'article D. 5213-63-1 du code du travail pour les entreprises adaptées agréées avant le 1er janvier 2019, la proportion de travailleurs handicapés mentionnée à l'article D. 5213-63-1 ne peut être supérieure respectivement à 90 % pour l'année 2019, 85 % pour l'année 2020, 80 % pour l'année 2021, et 75 % pour l'année 2022.

@@ -5,3 +5,6 @@ I.-Est puni d'une amende maximale de 50 000 € le fait pour un opérateur écon
 II.-Le plafond de l'amende prévue au I est porté au double en cas de nouveau manquement constaté dans un délai de deux ans à compter du jour de la notification de l'amende concernant un précédent manquement.
 
 III.-Le présent article n'est pas applicable à l'opérateur économique fabriquant pour sa propre utilisation ou mettant en service un des équipements mentionnés au présent article pour son propre usage.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

@@ -5,3 +5,6 @@ Conformément aux dispositions de l'article L. 6323-8, est autorisée la créati
 Ce traitement permet également la gestion et l'utilisation du droit individuel à la formation des élus locaux mentionné à l' article L. 1621-3 du code général des collectivités territoriales.
 
 Le ministre chargé de la formation professionnelle et la Caisse des dépôts et consignations sont responsables conjoints du traitement automatisé, qui est mis en œuvre et géré par la Caisse des dépôts et consignations.
+
+NOTA:
+Conformément à l'article 27 du décret n° 2021-1708 du 17 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.

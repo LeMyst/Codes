@@ -17,3 +17,8 @@ IV. – Outre les périodes mentionnées dans les annexes mentionnées au I sont
 2° Les heures prises en compte pour l'ouverture de la clause de rattrapage prévue aux annexes mentionnées au I ;
 
 3° Dans la limite de 120 heures, les heures d'enseignement dispensées dans des établissements d'enseignement ou de formation dans lesquels les intéressés interviennent au titre de leur profession pour transmettre leurs compétences. La liste de ces établissements est fixée par arrêté du ministre chargé de l'emploi. Ces heures d'enseignement réduisent à due proportion le nombre d'heures de formation assimilables conformément aux annexes précitées.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2017-1023 du 10 mai 2017, les dispositions du présent article sont applicables aux allocataires en fin de droit à l'allocation d'assurance au 1er décembre 2017 et à toute demande d'allocation d'assurance déposée à compter de cette date.
+
+Conformément aux dispositions du I de l'article 7 du décret n° 2017-1023 du 10 mai 2017, par dérogation au 2° du II de l'article D. 5424-51, bénéficie également de l'allocation de professionnalisation et de solidarité le travailleur involontairement privé d'emploi qui justifie de 507 heures de travail au cours des douze mois précédents la fin de contrat de travail immédiatement antérieure à la date d'épuisement du droit ouvert sur le fondement des annexes alors en vigueur, lorsque cette fin de contrat est antérieure au 1er août 2016.

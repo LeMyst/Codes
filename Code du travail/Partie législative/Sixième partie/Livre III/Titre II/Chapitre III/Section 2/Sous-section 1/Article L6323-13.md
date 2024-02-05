@@ -11,3 +11,6 @@ Ce versement est établi et recouvré selon les modalités ainsi que sous les s�
 Le contrôle et le contentieux de ce versement sont opérés selon les règles applicables en matière de taxe sur le chiffre d'affaires.
 
 Pour l'application du premier alinéa du présent article, l'effectif salarié et le franchissement du seuil de cinquante salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

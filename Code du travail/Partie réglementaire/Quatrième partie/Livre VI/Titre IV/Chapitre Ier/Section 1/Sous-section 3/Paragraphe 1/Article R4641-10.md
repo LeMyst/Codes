@@ -35,3 +35,6 @@ d) Le directeur de la santé et de la sécurité au travail de la Caisse central
 e) Le directeur de l'Organisme professionnel de prévention du bâtiment et des travaux publics ou son représentant ;
 
 4° Au titre du collège des personnalités qualifiées : neuf personnalités désignées à raison de leurs compétences personnelles en santé au travail, dont les présidents des commissions spécialisées. Ce collège comprend une personne ayant compétence en matière agricole.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

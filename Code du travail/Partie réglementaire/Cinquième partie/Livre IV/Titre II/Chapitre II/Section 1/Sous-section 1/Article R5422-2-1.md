@@ -25,3 +25,6 @@ II.-La commission paritaire interprofessionnelle régionale procède à l'examen
 -les besoins de financement et les ressources financières de l'entreprise à créer ou à reprendre ;
 
 -les moyens techniques et humains de l'entreprise à créer ou à reprendre.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

@@ -5,3 +5,6 @@ Le montant de la déduction mentionnée à l'article L. 5212-10-1 résultant de 
 Lorsqu'il emploie moins de 50 % du taux mentionné à l'article L. 5212-2 de travailleurs handicapés bénéficiaires de l'obligation d'emploi dans ses effectifs, l'employeur peut soustraire du montant de sa contribution la déduction mentionnée à l'alinéa précédent dans la limite de 50 % du montant de la contribution calculé conformément aux dispositions de l'article D. 5212-20. Cette limite est portée à 75 % lorsqu'il emploie au moins 50 % du taux mentionné à l'article L. 5212-2 de bénéficiaires de l'obligation d'emploi dans ses effectifs.
 
 En cas de contrats conclus par un groupement d'achats, le montant de la déduction est réparti entre les différents employeurs membres du groupement d'achat à due proportion de leurs dépenses respectives.
+
+NOTA:
+Conformément au 1° de l'article 3 du décret n° 2020-1350 du 5 novembre 2020, ces dispositions s'appliquent aux déclarations relatives à l'obligation d'emploi des travailleurs handicapés exigibles à compter du 1er janvier 2021.

@@ -21,3 +21,6 @@ Pour l'évaluation des risques, l'employeur prend en compte, notamment :
 9° Les conclusions fournies par le médecin du travail concernant le suivi de l'état de santé des travailleurs ;
 
 10° Les travaux conduits et propositions émises par les intervenants en prévention des risques professionnels mentionnés à l'article R. 4623-26.
+
+NOTA:
+Conformément au I de l'article 2 du décret n°2022-395 du 18 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux modalités d'application prévues au II du même article.

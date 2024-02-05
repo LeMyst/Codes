@@ -17,3 +17,6 @@ II. - Lorsqu'il relève du champ d'application de la directive 96/71/CE du Parle
 2° Le cas échéant, des allocations propres au détachement et des modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
 
 3° De l'adresse du site internet national mis en place par l'Etat d'accueil conformément aux dispositions de l'article 5, paragraphe 2 de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE.
+
+NOTA:
+Conformément au II de l'article 7 du décret n° 2023-1004 du 30 octobre 2023, ces dispositions entrent en vigueur le 1er novembre 2023.

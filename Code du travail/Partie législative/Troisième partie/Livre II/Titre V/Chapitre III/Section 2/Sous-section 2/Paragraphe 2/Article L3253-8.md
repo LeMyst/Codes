@@ -29,3 +29,6 @@ c) Au cours du mois suivant le jugement de liquidation pour les représentants d
 d) Pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation et au cours des quinze jours, ou vingt et un jours lorsqu'un plan de sauvegarde de l'emploi est élaboré, suivant la fin de ce maintien de l'activité.
 
 La garantie des sommes et créances mentionnées aux 1°, 2° et 5° inclut les cotisations et contributions sociales et salariales d'origine légale, ou d'origine conventionnelle imposée par la loi, ainsi que la retenue à la source prévue à l'article 204 A du code général des impôts.
+
+NOTA:
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.

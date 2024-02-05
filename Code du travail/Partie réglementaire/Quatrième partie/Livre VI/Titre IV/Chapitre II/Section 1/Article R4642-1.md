@@ -35,3 +35,6 @@ Les actions de l'agence mentionnées aux 1° à 5° du présent II, conduites au
 Les interventions de l'agence au sein des structures publiques donnent lieu à la conclusion d'un contrat en fixant les conditions financières.
 
 L'agence conduit ses activités dans le respect des principes de neutralité et d'impartialité vis-à-vis des acteurs de l'entreprise, de l'association ou de la structure publique au sein de laquelle elle est amenée à intervenir.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-624 du 22 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

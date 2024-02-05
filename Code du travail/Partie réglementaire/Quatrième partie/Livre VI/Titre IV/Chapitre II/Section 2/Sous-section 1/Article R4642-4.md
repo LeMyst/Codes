@@ -25,3 +25,6 @@ En outre, le conseil d'administration adopte la charte qui fixe les relations en
 Il autorise le directeur général à ester en justice.
 
 Il donne un avis sur toute question qui lui est soumise par le président du conseil d'administration ou par le ministre chargé du travail et, le cas échéant, par d'autres ministres.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-624 du 22 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

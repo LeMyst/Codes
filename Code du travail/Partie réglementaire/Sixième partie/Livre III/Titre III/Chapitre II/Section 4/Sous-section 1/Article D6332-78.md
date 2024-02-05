@@ -13,3 +13,8 @@ II.-Ce niveau de prise en charge comprend les charges de gestion administrative 
 Les charges d'amortissement annuelles comptabilisées pour des équipements qui participent à la mise en œuvre des enseignements dispensés par apprentissage ainsi qu'à l'ingénierie pédagogique sont prises en compte pour la détermination du niveau de prise en charge du contrat d'apprentissage dès lors que leur durée d'amortissement n'excède pas trois ans.
 
 Lorsque la commission paritaire nationale de l'emploi, ou à défaut la commission paritaire de la branche professionnelle, le sollicite, l'opérateur de compétences apporte son appui technique et son expertise conformément aux dispositions prévues au 2° du I de l'article L. 6332-1.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2019-956 du 13 septembre 2019, ces dispositions sont applicables le lendemain de la publication dudit décret.
+
+Toutefois, les niveaux de prise en charge fixés dans les annexes 1 et 2 dudit décret sont applicables aux contrats d'apprentissage conclus à compter du 1er janvier 2020, à l'exception des contrats d'apprentissage conclus mentionnés au II de l'article 2 du décret n° 2018-1331 relatif à l'organisation et au fonctionnement de France compétences pour lesquels ils s'appliquent le lendemain de la publication du même décret.

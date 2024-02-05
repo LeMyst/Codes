@@ -19,3 +19,6 @@ II.-Une convention ou un accord collectif d'entreprise ou d'établissement ou, �
 2° Prévoir le remplacement de tout ou partie du paiement des heures supplémentaires, ainsi que des majorations, par un repos compensateur équivalent.
 
 III.-Une convention ou un accord d'entreprise peut adapter les conditions et les modalités d'attribution et de prise du repos compensateur de remplacement.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

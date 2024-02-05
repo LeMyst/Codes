@@ -11,3 +11,6 @@ Quand l'avis motivé favorable de la Commission nationale de la négociation col
 En cas d'opposition dans les conditions prévues au premier alinéa, le ministre chargé du travail peut consulter à nouveau la commission sur la base d'un rapport précisant la portée des dispositions en cause ainsi que les conséquences d'une éventuelle extension.
 
 Le ministre chargé du travail peut décider l'extension, au vu du nouvel avis émis par la commission. Cette décision est motivée.
+
+NOTA:
+Conformément au II de l’article 148 de la loi n° 2020-1525 du 7 décembre 2020, les présentes dispositions entrent en vigueur le premier jour du sixième mois qui suit celui de la publication de la présente loi.

@@ -7,3 +7,6 @@ Cette association conclut une convention de gestion avec l'organisme gestionnair
 En cas de dissolution de cette association, l'autorité administrative confie à l'organisme prévu à l'article L. 5427-1 la gestion du régime d'assurance institué à l'article L. 3253-6, à l'exception du recouvrement des cotisations mentionnées à l'article L. 3253-18 confié aux organismes mentionnés à l'article L. 5422-16.
 
 Cette association et l'organisme précité constituent les institutions de garantie contre le risque de non-paiement.
+
+NOTA:
+Décret n° 2009-1708 du 30 décembre 2009 article 1 : Le I de l'article 5 de la loi n° 2008-126 du 13 février 2008 entre en vigueur le 1er janvier 2011.

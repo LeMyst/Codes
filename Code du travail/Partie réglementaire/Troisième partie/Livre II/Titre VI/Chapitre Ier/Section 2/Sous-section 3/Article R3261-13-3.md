@@ -7,3 +7,6 @@ Sont affichées directement sur les équipements terminaux, au sens du 10° de l
 2° Le nom du salarié.
 
 L'émetteur assure à chaque salarié, directement sur l'équipement terminal appartenant à celui-ci, par voie téléphonique ou, à sa demande, par message textuel, l'accès permanent et gratuit au solde de son compte personnel de titre-mobilité. Le dispositif indique, le cas échéant, le montant qui n'est plus susceptible d'être utilisé que dans un délai de moins d'un mois.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2021-1663 du 16 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.

@@ -11,3 +11,6 @@ L'Etat peut conclure des conventions prévoyant, le cas échéant, des aides fin
 4° Les régies de quartiers.
 
 Lorsque le département participe au financement de ces aides financières, le président du conseil départemental conclut une convention avec la structure concernée, selon des modalités fixées par décret.
+
+NOTA:
+Conformément à l’article 1er, III de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard six mois après la publication de la présente loi.

@@ -13,3 +13,6 @@ En cas de demande d'extension conformément à l'article L. 2261-24 concomitante
 En fonction des besoins de l'instruction, des informations complémentaires peuvent être demandées au déposant.
 
 L'agrément ne peut être délivré que pour un accord ou pour un avenant conforme aux dispositions légales notamment au respect du caractère aléatoire de l'intéressement prévu à l'article L. 3314-2 et du caractère collectif de l'épargne salariale tel que prévu à l'article L. 3342-1.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1651 du 26 décembre 2022, ces dispositions sont applicables aux accords et règlements déposés à compter du 1er janvier 2023.

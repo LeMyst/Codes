@@ -9,3 +9,6 @@ Le contrat unique d'insertion est un contrat de travail conclu entre un employeu
 3° Soit, pour le compte de l'Etat, l'autorité académique pour les contrats mentionnés au I de l'article L. 5134-125.
 
 Le montant de cette aide résulte d'un taux, fixé par l'autorité administrative, appliqué au salaire minimum de croissance.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

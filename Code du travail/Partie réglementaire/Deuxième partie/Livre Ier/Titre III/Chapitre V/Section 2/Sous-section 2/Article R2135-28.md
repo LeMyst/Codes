@@ -33,3 +33,6 @@ Les crédits attribués aux organisations syndicales de salariés sont répartis
 II. - Le conseil d'administration de l'association gestionnaire du fonds détermine la répartition des crédits entre les dotations prévues au 1° et au 2° du I, sans que la dotation prévue au 2° puisse être inférieure à 36 millions d'euros.
 
 En l'absence de délibération du conseil d'administration sur la répartition des crédits entre les dotations prévues au 1° et au 2° du I, la dotation prévue au 2° est fixée à un montant de 36 millions d'euros.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2016-305 du 16 mars 2016, les présentes dispositions sont applicables aux crédits attribués et aux contributions acquittées à compter de l'année 2015.

@@ -7,3 +7,6 @@ L'alimentation et la consultation des informations du dossier médical en santé
 Les référentiels d'interopérabilité mentionnés à l'article L. 1470-5 du code de la santé publique peuvent être adaptés aux spécificités de l'activité des services de prévention et de santé au travail.
 
 Toutes les actions réalisées sur le dossier médical en santé au travail, quel qu'en soit l'auteur, sont tracées et conservées dans le dossier médical en santé au travail, notamment la date, l'heure, et l'identification du professionnel du service de prévention et de santé au travail.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

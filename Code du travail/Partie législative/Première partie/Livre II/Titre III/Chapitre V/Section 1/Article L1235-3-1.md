@@ -17,3 +17,6 @@ Les nullités mentionnées au premier alinéa sont celles qui sont afférentes �
 6° Un licenciement d'un salarié en méconnaissance des protections mentionnées aux articles L. 1225-71 et L. 1226-13.
 
 L'indemnité est due sans préjudice du paiement du salaire, lorsqu'il est dû en application des dispositions de l'article L. 1225-71 et du statut protecteur dont bénéficient certains salariés en application du chapitre Ier du Titre Ier du livre IV de la deuxième partie du code du travail, qui aurait été perçu pendant la période couverte par la nullité et, le cas échéant, sans préjudice de l'indemnité de licenciement légale, conventionnelle ou contractuelle.
+
+NOTA:
+Conformément à l'article 40-I de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux licenciements prononcés postérieurement à la publication de ladite ordonnance.

@@ -27,3 +27,6 @@ Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux s
 L'organisme susmentionné doit avancer les sommes comprises dans le relevé, même en cas de contestation par un tiers.
 
 Il doit également avancer les sommes correspondant à des créances établies par décision de justice exécutoire, même si les délais de garantie sont expirés. Les décisions de justice seront de plein droit opposables à l'association visée à l'article L. 143-11-4. Dans le cas où le mandataire judiciaire a cessé ses fonctions, le greffier du tribunal ou le commissaire à l'exécution du plan, selon le cas, adresse un relevé complémentaire à l'organisme mentionné ci-dessus, à charge pour lui de reverser les sommes aux salariés et organismes créanciers.
+
+NOTA:
+Loi n° 2008-126 du 13 février 2008 articles 5 III et 14 II 3° c): les dispositions introduites par l'article 14 II 3° c) de la présente loi entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2012. (vigueur différée)

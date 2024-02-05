@@ -25,3 +25,6 @@ a) Des conventions dont l'objet est notamment de définir la part de leurs resso
 b) Une convention-cadre de coopération définissant les conditions de leur participation à l'amélioration et à la promotion des formations technologiques et professionnelles initiales, notamment l'apprentissage, ainsi que la promotion des métiers. Cette convention peut, le cas échéant, être conclue conjointement avec les organisations couvrant une branche ou un secteur d'activité ;
 
 2° Avec les régions, des conventions dans les conditions déterminées à l'article L. 6211-3.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

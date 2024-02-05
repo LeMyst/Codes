@@ -19,3 +19,6 @@ II.-La contrainte est notifiée au débiteur par tout moyen donnant date certain
 7° Le fait qu'à défaut d'opposition dans le délai indiqué à l'article R. 1235-4, le débiteur ne peut plus contester la créance et peut être contraint de la payer par toutes voies de droit.
 
 L'huissier avise dans les huit jours l'organisme créancier de la date de signification.
+
+NOTA:
+Conformément à l’article 3 du décret n°2019-252 du 27 mars 2019 : Les dispositions des articles R. 1235-1 à R. 1235-17 du code du travail dans leur rédaction applicable avant l'entrée en vigueur du présent décret restent applicables aux jugements des conseils de prud'hommes rendus avant le 1er avril 2019.

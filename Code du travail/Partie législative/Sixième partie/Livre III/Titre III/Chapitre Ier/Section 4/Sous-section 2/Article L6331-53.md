@@ -13,3 +13,6 @@ Le montant annuel de la collecte des contributions mentionnées au premier alin�
 3° Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle.
 
 Les montants des deux fractions de la collecte affectées au financement du compte personnel de formation des travailleurs indépendants et au conseil en évolution professionnelle sont déterminés par un arrêté des ministres chargés de la formation professionnelle, de l'agriculture, des gens de mer et de la pêche maritime.
+
+NOTA:
+Conformément au IV de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

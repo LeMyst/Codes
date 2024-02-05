@@ -21,3 +21,6 @@ e) Le plan d'épargne pour la retraite collectif ou le plan d'épargne retraite 
 4° L'état récapitulatif mentionné à l'article L. 3341-7 lorsque le salarié quitte l'entreprise.
 
 Les dispositions du présent article s'appliquent aux bénéficiaires d'un accord d'intéressement, de participation ou d'un plan d'épargne salariale mentionnés à l'article L. 3312-3, au deuxième alinéa de l'article L. 3323-6, au troisième alinéa de l'article L. 3324-2 et au dernier alinéa de l'article L. 3332-2.
+
+NOTA:
+Conformément aux dispositions du IV de l'article 9 du décret n° 2019-807 du 30 juillet 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

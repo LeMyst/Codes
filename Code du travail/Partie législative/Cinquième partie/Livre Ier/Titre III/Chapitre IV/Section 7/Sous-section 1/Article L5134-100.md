@@ -9,3 +9,6 @@ Il donne lieu :
 2° A la conclusion d'un contrat de travail entre l'employeur et le bénéficiaire de la convention dans les conditions prévues à la sous-section 3 ;
 
 3° A l'attribution d'une aide financière dans les conditions prévues à la sous-section 4.
+
+NOTA:
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.

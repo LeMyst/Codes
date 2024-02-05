@@ -3,3 +3,6 @@
 Lorsque les contrôles ont porté sur des actions mentionnées à l'article L. 6313-1 ou des activités de conseil en évolution professionnelle financées par l'Etat, les collectivités territoriales, la Caisse des dépôts et consignations, France compétences, l'opérateur France Travail, les commissions mentionnées à l'article L. 6323-17-6, les employeurs, les opérateurs de compétences ou les organismes habilités à percevoir la contribution de financement mentionnée à l'article L. 6331-48, l'autorité administrative les informe, chacun pour ce qui le concerne, des constats opérés.
 
 Le cas échéant, les constats opérés sont adressés au service chargé du contrôle de l'application de la législation du travail.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

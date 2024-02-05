@@ -19,3 +19,6 @@ Le document unique d'évaluation des risques professionnels et ses versions ant�
 Jusqu'à l'entrée en vigueur de l'obligation de dépôt du document unique d'évaluation des risques professionnels sur un portail numérique selon les modalités prévues au B du V de l'article L. 4121-3-1 du code du travail, l'employeur conserve les versions successives du document unique au sein de l'entreprise sous la forme d'un document papier ou dématérialisé.
 
 Un avis indiquant les modalités d'accès des travailleurs au document unique est affiché à une place convenable et aisément accessible dans les lieux de travail. Dans les entreprises ou établissements dotés d'un règlement intérieur, cet avis est affiché au même emplacement que celui réservé au règlement intérieur.
+
+NOTA:
+Conformément au I de l'article 2 du décret n°2022-395 du 18 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux modalités d'application prévues au II du même article.

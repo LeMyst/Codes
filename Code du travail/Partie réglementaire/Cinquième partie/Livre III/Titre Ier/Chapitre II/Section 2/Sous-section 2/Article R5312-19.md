@@ -7,3 +7,6 @@ Il représente Pôle emploi en justice et dans les actes de la vie civile, sous 
 Il a autorité sur l'ensemble du personnel de Pôle emploi. Il nomme les directeurs régionaux ainsi que les directeurs des établissements créés sur le fondement du 7° de l'article R. 5312-6.
 
 Il peut déléguer sa signature aux personnels placés sous son autorité. Il peut déléguer ses pouvoirs dans le cadre fixé par une délibération du conseil d'administration.
+
+NOTA:
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier 2009.

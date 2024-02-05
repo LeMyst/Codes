@@ -19,3 +19,6 @@ Cette convention prévoit :
 Avant sa signature, la convention est transmise pour avis au Conseil national de l'emploi, de la formation et de l'orientation professionnelles.
 
 Pour son application, la convention fait l'objet de déclinaisons régionales associant les maisons départementales des personnes handicapées et l'ensemble des acteurs concourant à l'insertion des personnes les plus éloignées de l'emploi. Les organismes de placement spécialisés sont consultés pour avis. Ces conventions régionales s'appuient sur les plans régionaux d'insertion professionnelle des travailleurs handicapés.
+
+NOTA:
+Ces dispositions entrent en vigueur à compter du 1er janvier 2015 sous réserve de l'entrée en vigueur des dispositions relevant de la loi de finances prévues au I de l'article 27 de la loi n° 2014-288 du 5 mars 2014 conformément au paragraphe II dudit article.

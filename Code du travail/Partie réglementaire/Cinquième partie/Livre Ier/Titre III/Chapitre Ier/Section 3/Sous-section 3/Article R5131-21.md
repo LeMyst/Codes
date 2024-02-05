@@ -7,3 +7,6 @@ Sont considérés comme des ressources intégralement déductibles en applicatio
 2° Les revenus tirés de stages de formation professionnelle ;
 
 3° La rémunération perçue dans le cadre d'un parcours de formation dispensé par les écoles de la deuxième chance mentionnées à l'article L. 214-14 du code de l'éducation.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

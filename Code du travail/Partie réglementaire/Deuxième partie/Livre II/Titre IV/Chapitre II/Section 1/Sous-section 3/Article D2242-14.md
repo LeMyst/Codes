@@ -9,3 +9,6 @@ Au titre des motifs de défaillance, sont notamment pris en compte :
 2° Les restructurations ou fusions en cours ;
 
 3° L'existence d'une procédure collective en cours.
+
+NOTA:
+Se reporter aux conditions d'applications prévues à l'article 4 du décret n° 2017-1703 du 15 décembre 2017.

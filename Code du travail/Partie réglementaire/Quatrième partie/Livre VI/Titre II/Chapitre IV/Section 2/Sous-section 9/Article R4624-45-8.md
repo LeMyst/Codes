@@ -5,3 +5,6 @@ Le travailleur, ou en cas de décès de celui-ci toute personne autorisée par l
 Le travailleur peut également exercer ses droits de rectification, d'effacement et de limitation, prévus aux articles 16 à 18 du règlement (UE) 2016/679, auprès du service de prévention et de santé au travail.
 
 Sous réserve des dispositions prévues à l'article R. 4624-45-6, le droit d'opposition ne s'applique pas à la constitution et à l'alimentation du dossier médical en santé au travail.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

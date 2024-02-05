@@ -15,3 +15,8 @@ La demande de licence comporte :
 6° Une note sur les conditions dans lesquelles l'agence exercera son activité, notamment au plan géographique, et comportant l'identification des succursales et les secteurs professionnels concernés ;
 
 7° Au titre des activités ou professions susceptibles d'entraîner une situation de conflit d'intérêts mentionnées à l'article R. 7123-16, une déclaration indiquant, le cas échéant, les autres activités ou professions exercées et les mandats sociaux détenus par chaque dirigeant, mandataire social, associé, délégataire et salarié. La déclaration précise, en outre, l'adresse d'exercice de l'activité en cause ou le siège de la société dont ils sont mandataires. Cette déclaration est également exigée en l'absence d'autres activités ou de mandats sociaux.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

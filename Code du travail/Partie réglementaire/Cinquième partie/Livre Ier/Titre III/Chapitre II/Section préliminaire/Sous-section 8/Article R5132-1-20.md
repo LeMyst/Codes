@@ -17,3 +17,6 @@ I.-Peuvent être enregistrées dans le traitement, dans la stricte mesure où el
 II.-Un arrêté du ministre chargé de l'emploi précise le contenu des catégories de données à caractère personnel mentionnées au I.
 
 Cet arrêté dresse la liste des autres traitements de données à caractère personnel susceptibles d'être mis en relation, selon des modalités qu'il précise, y compris le cas échéant de manière automatisée, avec le traitement mentionné à l'article R. 5132-1-19 aux fins, notamment, de vérification de l'éligibilité des personnes ainsi que de suivi des parcours et de gestion des aides financières afférentes.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

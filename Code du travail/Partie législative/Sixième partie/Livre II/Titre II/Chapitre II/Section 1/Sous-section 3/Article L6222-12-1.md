@@ -5,3 +5,6 @@ Par dérogation à l'article L. 6222-12, toute personne âgée de seize à vingt
 Elle bénéficie pendant cette période du statut de stagiaire de la formation professionnelle et le centre de formation d'apprentis dans lequel elle est inscrite l'assiste dans la recherche d'un employeur. Les coûts de formation correspondants peuvent faire l'objet d'une prise en charge par les opérateurs de compétences selon des modalités déterminées par décret.
 
 A tout moment, le bénéficiaire du présent article peut signer un contrat d'apprentissage. Dans ce cas, la durée du contrat ou de la période d'apprentissage est réduite du nombre de mois écoulés depuis le début du cycle de formation.
+
+NOTA:
+Conformément à l’article 46 II de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions ne sont pas applicables aux contrats conclus avant le 1er janvier 2019.

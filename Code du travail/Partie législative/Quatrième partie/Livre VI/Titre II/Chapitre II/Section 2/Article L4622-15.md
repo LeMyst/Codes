@@ -9,3 +9,6 @@ Sont également soumises à autorisation préalable les conventions intervenant 
 Lorsque les trois premiers alinéas sont applicables au président du service de prévention et de santé au travail ou à l'un de ses administrateurs, il ne peut prendre part au vote sur l'autorisation sollicitée.
 
 Lorsque les conventions portent sur des opérations courantes ou conclues à des conditions usuelles, elles font uniquement l'objet d'une communication au président et aux membres du conseil d'administration.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

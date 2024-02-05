@@ -23,3 +23,6 @@ c) La période, éventuellement fractionnée, mais sans pouvoir excéder dix-hui
 2° Sur demande des agents, les informations sont communiquées sur un support informatique, par un dispositif sécurisé ;
 
 3° Les informations communiquées sont conservées pendant un délai de trois ans à compter de leur réception et jusqu'à l'épuisement des voies et délais de recours contre les sanctions administratives ou condamnations pénales consécutives aux contrôles réalisés sur la base de ces informations.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-555 du 4 juin 2019, ces dispositions entrent en vigueur à compter du 1er juillet 2019.

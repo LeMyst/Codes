@@ -13,3 +13,6 @@ La formation spécifique en santé au travail prévue à l'article L. 4623-10 pe
 5° La prévention de la désinsertion professionnelle ;
 
 6° L'exercice infirmier dans le cadre des équipes pluridisciplinaires des services de prévention et de santé au travail et la collaboration avec les personnes et organismes mentionnés aux troisième et quatrième alinéas du I de l'article L. 4644-1.
+
+NOTA:
+Conformément au I de l’article 3 du décret n° 2022-1664 du 27 décembre 2022, ces dispositions entrent en vigueur le 31 mars 2023.

@@ -7,3 +7,6 @@ Les services candidats à la certification sont soumis à des audits sur site da
 L'organisme certificateur qui refuse la certification motive sa décision.
 
 L'organisme certificateur qui délivre la certification peut formuler des observations, des réserves ou des demandes d'actions correctives immédiates, assorties d'une demande de réexamen dans un délai déterminé.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1031 du 20 juillet 2022, ces dispositions entrent en vigueur à la date de publication de l'arrêté mentionné à l'article 1er dudit décret et au plus tard le 1er mai 2023.

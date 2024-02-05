@@ -7,3 +7,6 @@ Les travailleurs non-salariés et les personnes à la recherche d'un emploi qui 
 2° 500 euros lorsqu'elles sont âgées de dix-huit à vingt-cinq ans à la date de leur entrée en stage ;
 
 3° 685 euros lorsqu'elles sont âgées de vingt-six ans ou plus à la date de leur entrée en stage.
+
+NOTA:
+Se reporter aux dispositions prévues à l’article 4 du décret n° 2021-522 du 29 avril 2021.

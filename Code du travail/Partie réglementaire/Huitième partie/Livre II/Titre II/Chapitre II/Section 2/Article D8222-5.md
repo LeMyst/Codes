@@ -12,3 +12,6 @@ b) Un extrait d'immatriculation au Registre national des entreprises en tant qu'
 c) Un devis, un document publicitaire ou une correspondance professionnelle, à condition qu'y soient mentionnés le nom ou la dénomination sociale, l'adresse complète et le numéro d'immatriculation au registre du commerce et des sociétés ou au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ou à une liste ou un tableau d'un ordre professionnel, ou la référence de l'agrément délivré par l'autorité compétente ;
 
 d) L'accusé de réception électronique mentionné à l'article R. 123-6 du code de commerce, émanant du greffier du tribunal de commerce compétent ou de la chambre des métiers et de l'artisanat compétente.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2022-1015 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

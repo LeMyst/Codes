@@ -11,3 +11,6 @@ III.-Lorsque le salarié présente sa démission mentionnée à l'article L. 123
 Lorsque l'entreprise mentionnée au premier alinéa du présent III a assuré la rééducation professionnelle et que l'embauche est effectuée dans un emploi similaire à celui occupé par le salarié pendant la période de rééducation, la durée de la mise à disposition est intégralement déduite de la période d'essai.
 
 IV.-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+NOTA:
+Conformément au III de l’article 98 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.

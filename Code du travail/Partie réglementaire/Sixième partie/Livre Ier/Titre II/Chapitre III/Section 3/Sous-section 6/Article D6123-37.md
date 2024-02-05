@@ -129,3 +129,6 @@ b) Données de l'établissement :
 -Masse salariale assujettie à la taxe d'apprentissage ;
 
 -Masse salariale des intermittents.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2021-1917 du 30 décembre 2021, la publication des premières tables de correspondances établies en application du présent article intervient au plus tard le 30 avril 2022.

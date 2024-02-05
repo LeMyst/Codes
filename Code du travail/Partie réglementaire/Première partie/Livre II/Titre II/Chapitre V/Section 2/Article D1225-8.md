@@ -15,3 +15,6 @@ Le congé peut être reporté au-delà des six mois dans l'un des cas suivants :
 1° L'hospitalisation de l'enfant. Le congé est pris dans les six mois qui suivent la fin de l'hospitalisation ;
 
 2° Le décès de la mère. Le congé est pris dans les six mois qui suivent la fin du congé dont bénéficie le père en application de l'article L. 1225-28.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-574, ces dispositions entrent en vigueur conformément aux dispositions du IV de l'article 73 de la loi du 14 décembre 2020 de financement de la sécurité sociale pour 2021 susvisée.

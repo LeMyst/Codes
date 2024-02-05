@@ -11,3 +11,6 @@ Les personnes mentionnées à l' article L. 382-1 du code de la sécurité socia
 3° Justifient, au titre de l'activité non salariée mentionnée à l'article L. 5424-25, de revenus antérieurs d'activité égaux ou supérieurs à 10 000 euros calculés sur une période de référence définie au II de l'article R. 5424-71 ;
 
 4° Justifient d'autres ressources prévues à l'article R. 5424-72 inférieures au montant forfaitaire mensuel mentionné à l' article L. 262-2 du code de l'action sociale et des familles , applicable à un foyer composé d'une personne seule.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-450 du 30 mars 2022, ces dispositions entrent en vigueur à compter du 1er avril 2022, pour les demandes déposées à partir de cette date et remplissant les conditions d'ouverture du droit prévu à l'article L. 5424-25 du code du travail à compter de cette même date.

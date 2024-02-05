@@ -15,3 +15,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 4° Les modalités d'appréciation de l'éligibilité d'une personne à un parcours d'insertion par l'activité économique et de contrôle par l'administration ;
 
 5° Les conditions dans lesquelles peut être limitée, suspendue ou retirée à une structure d'insertion par l'activité économique la capacité de prescrire un parcours d'insertion en cas de non-respect des règles prévues au présent article.
+
+NOTA:
+Conformément à l’article 1er, III de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard six mois après la publication de la présente loi.

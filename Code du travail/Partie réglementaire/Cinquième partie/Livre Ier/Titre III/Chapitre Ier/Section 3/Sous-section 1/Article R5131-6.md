@@ -17,3 +17,6 @@ Au vu des orientations stratégiques mentionnées à l'article R. 5131-4, ces co
 6° Leurs modalités de suivi et d'évaluation.
 
 Les conseils départementaux signataires des conventions pluriannuelles d'objectifs peuvent confier l'accompagnement des bénéficiaires du revenu de solidarité active et de leur conjoint, concubin ou partenaire lié par un pacte civil de moins de vingt-cinq ans révolus aux missions locales, qui l'assureront dans le cadre du parcours contractualisé d'accompagnement vers l'emploi et l'autonomie ou du contrat d'engagement jeune.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

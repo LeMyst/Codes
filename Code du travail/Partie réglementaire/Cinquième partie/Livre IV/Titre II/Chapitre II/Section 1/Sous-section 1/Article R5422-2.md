@@ -11,3 +11,6 @@ II.-Lorsque l'intéressé n'a pas épuisé les droits à l'allocation d'assuranc
 2° Ou le montant global du droit qui lui aurait été servi en l'absence de reliquat est supérieur au montant de l'allocation journalière du reliquat d'au moins une fraction fixée dans l'accord relatif à l'assurance chômage prévu à l'article L. 5422-20.
 
 III.-Lorsque l'intéressé n'a pas épuisé les droits à l'allocation d'assurance qui lui ont été précédemment accordés au titre des contrats prévus aux articles L. 6221-1 et L. 6325-1, et qu'il remplit les conditions qui permettraient une ouverture de nouveaux droits, il peut, par dérogation aux dispositions du I du présent article, opter pour une durée et un montant d'indemnisation prenant exclusivement en compte ces nouveaux droits.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

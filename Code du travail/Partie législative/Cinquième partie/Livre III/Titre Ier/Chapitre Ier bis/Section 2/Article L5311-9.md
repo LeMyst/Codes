@@ -29,3 +29,8 @@ Lorsque le comité est appelé à délibérer pour l'exercice des attributions p
 Les actes mentionnés aux 2°, 4° et 8° du I du présent article sont approuvés par le ministre chargé de l'emploi avant leur publication.
 
 Les actes mentionnés aux 5° et 6° du même I sont approuvés par les ministres chargés de l'emploi et des solidarités avant leur publication. En l'absence de définition des critères d'orientation mentionnés au 5° dudit I ou de la liste des informations devant être transmises au Comité national mentionnée au 6° du même I, les critères ou la liste des informations ainsi que la périodicité de sa transmission sont définis par arrêté conjoint des ministres chargés de l'emploi et des solidarités.
+
+NOTA:
+Conformément au IV de l’article 4 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Au plus tard le 31 décembre 2024, le comité mentionné au présent article prend en compte, dans l'exercice de ses missions et de ses attributions, les évaluations des expérimentations relatives à la préfiguration du réseau pour l'emploi et aux modalités d'accompagnement des bénéficiaires du revenu de solidarité active.

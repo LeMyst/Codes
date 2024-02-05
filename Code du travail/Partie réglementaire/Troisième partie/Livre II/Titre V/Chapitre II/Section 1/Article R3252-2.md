@@ -15,3 +15,6 @@ La proportion dans laquelle les sommes dues à titre de rémunération sont sais
 6° Les deux tiers, sur la tranche supérieure à 20 970 € et inférieure ou égale à 25 200 € ;
 
 7° La totalité, sur la tranche supérieure à 25 200 € .
+
+NOTA:
+Conformément à l’article 3 du décret n° 2023-1228 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

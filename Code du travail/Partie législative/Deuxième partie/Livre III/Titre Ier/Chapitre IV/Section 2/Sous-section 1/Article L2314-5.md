@@ -11,3 +11,6 @@ L'invitation à négocier mentionnée au présent article doit parvenir au plus 
 Par dérogation aux premier et deuxième alinéas, dans les entreprises dont l'effectif est compris entre onze et vingt salariés, l'employeur invite les organisations syndicales mentionnées aux mêmes alinéas à cette négociation à la condition qu'au moins un salarié se soit porté candidat aux élections dans un délai de trente jours à compter de l'information prévue à l'article L. 2314-4.
 
 Le salarié bénéficie de la protection prévue aux articles L. 2411-7, L. 2412-3 et L. 2413-1 à compter de la date à laquelle l'employeur a eu connaissance de l'imminence de sa candidature.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

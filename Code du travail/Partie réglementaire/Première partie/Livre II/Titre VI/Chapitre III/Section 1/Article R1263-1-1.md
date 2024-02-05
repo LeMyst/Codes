@@ -3,3 +3,6 @@
 I.-Par dérogation aux dispositions du I de l'article R. 1263-1, l'employeur établi hors de France et qui détache un ou plusieurs salariés dans les conditions et pour les activités prévues à l'article L. 1262-6 dispose d'un délai, qui ne peut être supérieur à quinze jours, pour présenter les documents énumérés à l'article R. 1263-1.
 
 II.-L'employeur établi hors de France et qui détache un ou plusieurs salariés dans les conditions prévues au 3° de l'article L. 1262-1 conserve sur le lieu de travail du salarié détaché sur le territoire national et présente sans délai les documents énumérés à l'article R. 1263-1, à l'exception de ceux mentionnés au 3° du II et au III, pour lesquels il dispose d'un délai, qui ne peut être supérieur à quinze jours.
+
+NOTA:
+Conformément à l’article 1 du décret n° 2023-217 ainsi qu’à l’article 1 de l’arrêté du 28 mars 2023 (NOR : MTRT2308349A), ces dispositions entrent en vigueur le 30 mars 2023.

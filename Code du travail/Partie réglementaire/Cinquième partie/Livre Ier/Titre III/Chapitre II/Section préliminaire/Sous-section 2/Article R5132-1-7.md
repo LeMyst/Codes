@@ -29,3 +29,6 @@ III.-Une personne peut également être déclarée éligible par une structure d
 Un arrêté du ministre chargé de l'emploi précise les critères mentionnés au présent III, le nombre de critères exigé par catégorie de structure d'insertion par l'activité économique, la liste des pièces justificatives permettant d'attester du respect des critères mentionnés aux II et III ainsi que leurs conditions de validité.
 
 Les pièces justificatives sont conservées par la structure d'insertion par l'activité économique pour une durée de vingt-quatre mois à compter de la date de déclaration de l'éligibilité de la personne.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

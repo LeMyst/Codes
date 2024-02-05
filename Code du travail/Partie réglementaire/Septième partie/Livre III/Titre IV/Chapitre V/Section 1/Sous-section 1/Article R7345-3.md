@@ -29,3 +29,6 @@ II.-Le conseil d'administration est consulté sur :
 III.-Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président ou les ministres de tutelle de l'établissement.
 
 IV.-Le conseil d'administration peut déléguer au directeur général de l'établissement certaines de ses attributions à l'exception de celles mentionnées aux 1°, 2°, 5° et 6° du I. Le directeur général rend compte des décisions prises dans le cadre des délégations qui lui sont ainsi consenties, selon les modalités fixées par le conseil d'administration.
+
+NOTA:
+Conformément au III de l'article 3 du décret n° 2021-1461 du 8 novembre 2021, par dérogation à l'article R. 7345-3 du code du travail, le budget initial de l'exercice 2021 de l'établissement est arrêté par décision conjointe du ministre chargé du travail, du ministre chargé des transports et du ministre chargé du budget.

@@ -9,3 +9,6 @@ Il remet chaque année au conseil d'administration de l'institution mentionnée 
 En dehors de celles qui mettent en cause l'institution mentionnée à l'article L. 5312-1, les réclamations qui relèvent de la compétence du Défenseur des droits en application de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits sont transmises à ce dernier.
 
 La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -11,3 +11,6 @@ II.-Dans le cas des conventions prévoyant le financement d'une action d'adaptat
 1° 50 % pour les actions d'adaptation ;
 
 2° 70 % pour les actions de formation.
+
+NOTA:
+Se reporter aux dispositions prévues à l’article 4 du décret n° 2021-522 du 29 avril 2021.

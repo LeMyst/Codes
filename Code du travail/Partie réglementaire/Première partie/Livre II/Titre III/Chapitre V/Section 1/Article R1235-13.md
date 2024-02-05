@@ -12,3 +12,6 @@ La juridiction qui a statué se prononce sur l'ensemble du litige résultant de 
 La décision prononcée sur la demande de rétractation est mentionnée sur la minute et sur les expéditions du jugement.
 
 L'auteur d'une demande dilatoire ou abusive de rétractation peut être condamné à une amende civile de 15 euros à 1 500 euros.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

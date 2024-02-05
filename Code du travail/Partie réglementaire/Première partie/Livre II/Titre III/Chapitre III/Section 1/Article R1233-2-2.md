@@ -5,3 +5,6 @@ Dans les quinze jours suivant la notification du licenciement, le salarié peut,
 L'employeur dispose d'un délai de quinze jours après la réception de la demande du salarié pour apporter des précisions s'il le souhaite. Il communique ces précisions au salarié par lettre recommandée avec avis de réception ou remise contre récépissé.
 
 Dans un délai de quinze jours suivant la notification du licenciement et selon les mêmes formes l'employeur peut, à son initiative, préciser les motifs du licenciement.
+
+NOTA:
+Conformément au décret n° 2017-1702 du 15 décembre 2017, art. 2 : Le présent décret est applicable aux licenciements prononcés postérieurement à sa publication.

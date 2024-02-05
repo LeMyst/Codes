@@ -7,3 +7,6 @@ Ce contrôle vise à s'assurer de :
 1° La réalisation du diagnostic mentionné à l'article R. 5132-1-5 ;
 
 2° La collecte des pièces justificatives de nature à attester de l'éligibilité des personnes concernées, et répondant aux conditions de validité précisées par l'arrêté mentionné à l'article R. 5132-1-7.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

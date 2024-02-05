@@ -4,9 +4,7 @@ Le nombre d'heures indemnisables qu'un conseiller prud'hommes peut déclarer avo
 
 |  |  |
 | --- | --- |
-|  NOMBRE DE DÉCISIONS
-à rédiger  |  NOMBRE MAXIMUM
-d'heures indemnisables  |
+|  NOMBRE DE DÉCISIONS à rédiger  |  NOMBRE MAXIMUM d'heures indemnisables  |
 | 2 à 25  | 3 heures  |
 | 26 à 50  | 5 heures  |
 | 51 à 100  | 7 heures  |

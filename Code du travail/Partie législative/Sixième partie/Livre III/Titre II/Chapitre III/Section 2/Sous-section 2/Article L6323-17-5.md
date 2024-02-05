@@ -7,3 +7,6 @@ Dans les entreprises de cinquante salariés et plus, la rémunération due au b�
 Un décret précise les modalités selon lesquelles cette rémunération est versée, notamment dans les entreprises de moins de cinquante salariés.
 
 Pour l'application du présent article, l'effectif salarié est déterminé selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

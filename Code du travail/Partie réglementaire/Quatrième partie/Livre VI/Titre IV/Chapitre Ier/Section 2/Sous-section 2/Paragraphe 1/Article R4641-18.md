@@ -17,3 +17,6 @@ Placé auprès du préfet de région, le comité régional d'orientation des con
 7° Contribue à la coordination avec le comité régional d'orientation et de suivi (CROS) chargé de la mise en œuvre territoriale du plan Ecophyto conformément à l'article L. 253-6 du code rural et de la pêche maritime, dans ses actions relatives à la santé et sécurité au travail lors de l'utilisation des produits phytopharmaceutiques ;
 
 8° Adopte les avis du comité régional de prévention et de santé au travail.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

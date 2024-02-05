@@ -5,3 +5,6 @@ Une convention de coopération peut être conclue entre l'association intermédi
 Cette convention de coopération peut également porter sur l'organisation des fonctions d'accueil, de suivi et d'accompagnement des salariés.
 
 Cette convention peut mettre en oeuvre des actions expérimentales d'insertion ou de réinsertion.
+
+NOTA:
+Conformément à l’article 1er, III de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard six mois après la publication de la présente loi.

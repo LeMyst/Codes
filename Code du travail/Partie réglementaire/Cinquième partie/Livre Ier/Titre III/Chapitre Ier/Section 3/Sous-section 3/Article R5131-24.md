@@ -17,3 +17,6 @@ III.-Les rémunérations, allocations et indemnités suivantes ne sont pas cumul
 5° L'allocation prévue par le décret n° 2005-888 du 2 août 2005 relatif à l'allocation versée aux volontaires pour l'insertion et à la prime versée aux volontaires pour l'insertion et aux volontaires pour un contrat de service en établissement public d'insertion de la défense ;
 
 6° La rémunération perçue dans le cadre d'un contrat à durée déterminée conclu en application des dispositions des articles L. 5132-5, L. 5132-11-1 et L. 5132-15-1 du présent code, d'un contrat de mission mentionné à l'article L. 5132-6 ou d'un contrat unique d'insertion mentionné à l'article L. 5134-19-3.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

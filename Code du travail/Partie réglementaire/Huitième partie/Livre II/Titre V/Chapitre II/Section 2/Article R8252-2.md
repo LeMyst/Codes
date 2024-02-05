@@ -19,3 +19,6 @@ f) La possibilité de porter plainte contre une personne qu'il accuse d'avoir co
 2° En outre, l'indication de l'indemnité forfaitaire mentionnée au 2° de l'article L. 8252-2 ou celle prévue par l'article L. 8223-1, en cas d'emploi dans les conditions définies aux articles L. 8221-3 et L. 8221-5.
 
 Le document est traduit dans les langues les plus couramment utilisées désignées par le ministre chargé de l'immigration.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

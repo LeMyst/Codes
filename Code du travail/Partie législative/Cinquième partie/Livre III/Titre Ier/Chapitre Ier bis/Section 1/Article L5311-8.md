@@ -15,3 +15,6 @@ Les personnes morales constituant le réseau pour l'emploi coordonnent l'exercic
 6° Organisent la participation des bénéficiaires de leurs services à la définition et à l'évaluation des actions du réseau pour l'emploi ;
 
 \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.\]
+
+NOTA:
+Conformément au IV de l’article 4 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

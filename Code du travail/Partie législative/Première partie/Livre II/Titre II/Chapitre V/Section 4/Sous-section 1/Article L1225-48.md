@@ -9,3 +9,7 @@ En cas de naissances multiples, le congé parental d'éducation peut être prolo
 En cas d'adoption d'un enfant de moins de trois ans, le congé parental et la période d'activité à temps partiel prennent fin à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant.
 
 Lorsque l'enfant adopté ou confié en vue de son adoption est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé parental et la période d'activité à temps partiel ne peuvent excéder une année à compter de l'arrivée au foyer.
+
+NOTA:
+Conformément au VI de l'article 8 de la loi n° 2014-873 du 4 août 2014, le présent article, tel que modifié par ledit article, est applicable aux enfants nés ou adoptés à partir du 1er octobre 2014.\
+Pour les enfants nés ou adoptés avant le 1er octobre 2014, les dispositions du présent code demeurent applicables dans leur rédaction antérieure à la date d'entrée en vigueur de l'article précité.

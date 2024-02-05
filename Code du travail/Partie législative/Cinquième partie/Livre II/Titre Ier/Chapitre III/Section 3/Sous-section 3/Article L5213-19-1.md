@@ -7,3 +7,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 2° Les modalités des accompagnements mentionnés aux articles L. 5213-13-1 à L. 5213-13-3 ;
 
 3° Les modalités de détermination, d'attribution et de versement des aides financières de l'Etat mentionnées à l'article L. 5213-19 et les règles de non-cumul.
+
+NOTA:
+Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1er janvier 2024.

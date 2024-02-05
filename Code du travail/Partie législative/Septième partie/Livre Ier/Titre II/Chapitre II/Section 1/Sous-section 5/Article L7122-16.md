@@ -21,3 +21,6 @@ VI.-La décision est prise sur rapport constatant le manquement transmis à l'au
 VII.-Le délai de prescription de l'action de l'autorité administrative compétente pour la sanction du manquement par une amende administrative ou la fermeture d'un établissement est de deux années révolues à compter du jour où le manquement a été commis.
 
 VIII.-Les amendes et les astreintes mentionnées aux 1° et 2° du II sont recouvrées au profit du Trésor public.
+
+NOTA:
+Conformément à l'article 6 de l'ordonnance n° 2019-700 du 3 juillet 2019, les demandes de licence et de renouvellement de licence, déposées avant la date d'entrée en vigueur de la présente ordonnance, demeurent régies par les dispositions du code du travail relatives à la licence d'entrepreneur de spectacles vivants dans leur rédaction antérieure au présent texte.

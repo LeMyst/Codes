@@ -27,3 +27,6 @@ Les demandes d'enregistrement dans le répertoire national des certifications pr
 9° Le cas échéant, les modalités d'association des commissions paritaires nationales de l'emploi de branches professionnelles dans l'élaboration ou la validation des référentiels.
 
 Les critères d'examen prévus aux 1° et 2° ne sont pas applicables aux premières demandes d'enregistrement relatives aux projets de certifications professionnelles pour lesquelles un enregistrement dans le répertoire national des certifications professionnelles est requis pour permettre l'exercice d'une activité professionnelle sur le territoire national en application d'une norme internationale ou d'une disposition législative ou réglementaire.
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2021-389 du 2 avril 2021, l'article R. 6113-9, dans sa rédaction issue du c du 3° de l'article 1er, s'applique aux demandes d'enregistrement dans les répertoires nationaux dont la date de transmission au directeur général de France compétences est postérieure au 31 août 2021.

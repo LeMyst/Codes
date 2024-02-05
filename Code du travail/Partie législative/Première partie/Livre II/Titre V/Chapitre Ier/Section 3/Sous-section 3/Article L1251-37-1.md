@@ -13,3 +13,6 @@ A défaut de stipulation dans la convention ou l'accord de branche conclu en app
 5° Lorsque le salarié est à l'initiative d'une rupture anticipée du contrat ;
 
 6° Lorsque le salarié refuse le renouvellement de son contrat de mission, pour la durée du contrat non renouvelé.
+
+NOTA:
+Conformément à l'article 40-VIII de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux contrats de travail conclus postérieurement à la publication de ladite ordonnance.

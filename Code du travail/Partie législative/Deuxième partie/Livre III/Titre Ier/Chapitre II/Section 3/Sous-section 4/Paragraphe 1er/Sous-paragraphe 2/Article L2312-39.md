@@ -7,3 +7,6 @@ Il émet un avis sur l'opération projetée et ses modalités d'application dans
 Cet avis est transmis à l'autorité administrative.
 
 Le présent article n'est pas applicable en cas d'accords collectifs visés aux articles L. 1237-17 et suivants.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

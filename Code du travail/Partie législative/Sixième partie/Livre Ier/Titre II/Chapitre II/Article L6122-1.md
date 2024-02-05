@@ -11,3 +11,6 @@ En l'absence de conventionnement, l'Etat peut organiser et financer ces actions 
 III.-Lorsque l'Etat contribue au financement des actions de formation professionnelle, à travers les dépenses de rémunération des stagiaires, de financement des stages ou d'investissement des centres, il conclut avec les organismes des conventions qui prennent en compte les types d'actions de formation définis à l'article L. 6313-1, les publics accueillis, les objectifs poursuivis et les résultats obtenus, notamment en matière d'insertion professionnelle. Les modalités particulières de ces conventions sont définies par décret.
 
 Lorsque ces conventions concernent des centres de formation gérés par une ou plusieurs entreprises, elles font l'objet d'une consultation du ou des comités sociaux et économiques intéressés, conformément à l'article L. 2323-15.
+
+NOTA:
+Conformément au V de l’article 6 et au II de l'article 8 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

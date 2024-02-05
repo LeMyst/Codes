@@ -23,3 +23,6 @@ En cas d'empêchement, les membres mentionnés aux 1° et 2° du présent articl
 Chacune des organisations syndicales de salariés et chacune des organisations professionnelles d'employeurs pourvoit les sièges qui lui sont attribués en respectant la parité entre les femmes et les hommes. Si les sièges à pourvoir sont en nombre impair, l'écart entre le nombre de femmes et le nombre d'hommes ne peut être supérieur à un.
 
 Un total maximal de cinq membres observateurs sans voix délibérative peut également assister aux réunions de l'instance paritaire régionale. Ces membres sont désignés par arrêté du préfet de région sur proposition du directeur régional pour une durée de trois ans renouvelable.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-624 du 22 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

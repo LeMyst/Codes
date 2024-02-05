@@ -11,3 +11,6 @@ Sauf accord des parties, le salarié est alors tenu de respecter un préavis don
 2° De la durée accomplie lorsque le contrat ne comporte pas un terme précis.
 
 Dans les deux cas, la durée totale du préavis ne peut être inférieure à un jour ni supérieure à deux semaines.
+
+NOTA:
+Ces dispositions sont applicables aux contrats en cours.

@@ -5,3 +5,6 @@ Les objectifs de progression prévus à l'article L. 1142-9-1 sont fixés pour c
 Ils sont publiés sur le site internet de l'entreprise lorsqu'il en existe un, sur la même page que le niveau de résultat et les résultats mentionnés à l'article D. 1142-4 du code du travail, dès lors que l'accord ou la décision unilatérale est déposé dans les conditions prévues à l'article D. 2231-4 du même code.
 
 Ils sont consultables sur le site internet de l'entreprise jusqu'à ce que celle-ci obtienne un niveau de résultat au moins égal à quatre-vingt-cinq points. A défaut de site internet, ils sont portés à la connaissance des salariés par tout moyen.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 4 du décret n° 2022-243 du 25 février 2022.

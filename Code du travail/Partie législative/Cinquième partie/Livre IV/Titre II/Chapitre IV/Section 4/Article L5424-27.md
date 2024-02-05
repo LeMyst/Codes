@@ -5,3 +5,6 @@ Les mesures d'application de la présente section, notamment les conditions de r
 1° Le montant forfaitaire de l'allocation et sa durée d'attribution sont fixés par décret. Si ce montant forfaitaire est supérieur au montant moyen mensuel des revenus d'activité antérieurs perçus sur la durée antérieure d'activité à laquelle est subordonné le droit à l'allocation des travailleurs indépendants, l'allocation versée mensuellement est réduite d'autant, sans pouvoir être inférieure à un montant fixé par décret ;
 
 2° Les mesures d'application relatives à la coordination de l'allocation des travailleurs indépendants avec l'allocation d'assurance sont fixées par les accords mentionnés à l'article L. 5422-20.
+
+NOTA:
+Conformément au A du III de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la présente loi pour les demandes d'allocation introduites à compter de cette date.

@@ -7,3 +7,6 @@ Ces absences sont rémunérées par l'employeur et n'entraînent aucune diminuti
 Les employeurs sont remboursés par l'Etat des salaires maintenus pendant les absences du défenseur syndical pour l'exercice de sa mission ainsi que des avantages et des charges sociales correspondants.
 
 Un décret détermine les modalités d'indemnisation du défenseur syndical qui exerce son activité professionnelle en dehors de tout établissement ou qui dépend de plusieurs employeurs.
+
+NOTA:
+Aux termes du V de l'article 259 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur au plus tard le premier jour du douzième mois suivant la publication de la présente loi.

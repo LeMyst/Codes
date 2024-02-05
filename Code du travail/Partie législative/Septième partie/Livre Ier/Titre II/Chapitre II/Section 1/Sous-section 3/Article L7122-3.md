@@ -9,3 +9,6 @@ Toute personne établie sur le territoire national et qui relève d'une ou plusi
 Cette déclaration donne lieu à la délivrance d'un récépissé de déclaration d'entrepreneur de spectacles vivants, valant licence. Toutefois, l'autorité administrative compétente peut s'opposer à cette délivrance lorsque les conditions pour exercer l'activité d'entrepreneur de spectacles vivants ne sont pas remplies.
 
 Le décret en Conseil d'Etat mentionné à l'article L. 7122-17 détermine le délai de validité de la déclaration ainsi que les modalités d'instruction et d'opposition à cette déclaration par l'autorité administrative compétente.
+
+NOTA:
+Conformément à l'article 6 de l'ordonnance n° 2019-700 du 3 juillet 2019, les demandes de licence et de renouvellement de licence, déposées avant la date d'entrée en vigueur de la présente ordonnance, demeurent régies par les dispositions du code du travail relatives à la licence d'entrepreneur de spectacles vivants dans leur rédaction antérieure au présent texte.

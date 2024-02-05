@@ -15,3 +15,6 @@ La convention précise notamment :
 6° Le cas échéant, la mise à disposition de locaux destinés à l'hébergement ;
 
 7° Les modalités de financement.
+
+NOTA:
+Aux termes du II de l'article 10 du décret n° 2019-1143 du 7 novembre 2019, les dispositions de l'article R. 6232-2 du code du travail, dans sa rédaction antérieure au présent décret, sont applicables aux centres de formations d'apprentis et aux sections d'apprentissage créés avant le 1er janvier 2020.

@@ -5,3 +5,6 @@ Les directions départementales de l'emploi, du travail et des solidarités, les
 Les unités de contrôle infra-départementales, départementales ou interdépartementales et les unités de contrôle interrégionales, rattachées à une direction régionale de l'économie, de l'emploi, du travail et des solidarités, sont composées de sections, dans lesquelles un inspecteur ou un contrôleur du travail exerce ses compétences.
 
 Le responsable de l'unité de contrôle est chargé, notamment dans la mise en œuvre de l'action collective, de l'animation, de l'accompagnement et du pilotage de l'activité des agents de contrôle. Il peut apporter un appui à une opération de contrôle menée sur le territoire de l'unité dont il est responsable. Il peut en outre, sur décision du directeur régional de l'économie, de l'emploi, du travail et des solidarités, être chargé d'exercer les fonctions d'inspecteur du travail dans une section relevant de son unité.
+
+NOTA:
+Conformément à l'article 30 du décret n° 2020-1545 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er avril 2021.

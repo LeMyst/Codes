@@ -9,3 +9,6 @@ Cette commission est chargée :
 2° D'étudier les moyens permettant de favoriser l'expression des salariés en matière de formation et de participer à leur information dans ce domaine ;
 
 3° D'étudier les problèmes spécifiques concernant l'emploi et le travail des jeunes et des travailleurs handicapés.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

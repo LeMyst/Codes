@@ -7,3 +7,6 @@ II.-La réalité des démarches accomplies en vue de la mise en œuvre du projet
 La personne qui ne peut justifier, sans motif légitime, de la réalité de ces démarches est radiée de la liste des demandeurs d'emploi, dans les conditions mentionnées au f du 3° de l'article L. 5412-1. L'allocation d'assurance cesse alors d'être due.
 
 Les accords relatifs à l'assurance chômage mentionnés à l'article L. 5422-20 définissent les conditions dans lesquelles l'allocataire peut bénéficier de la reprise du versement du reliquat de ses droits à l'allocation d'assurance.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

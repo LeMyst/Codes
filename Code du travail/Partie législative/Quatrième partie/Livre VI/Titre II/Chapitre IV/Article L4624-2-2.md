@@ -15,3 +15,6 @@ L'examen médical vise à :
 Le médecin du travail peut proposer, par écrit et après échange avec le travailleur et l'employeur, les mesures prévues à l'article L. 4624-3.
 
 II.-La visite médicale de mi-carrière peut être réalisée par un infirmier de santé au travail exerçant en pratique avancée. Celui-ci ne peut proposer les mesures mentionnées au dernier alinéa du I. A l'issue de la visite, l'infirmier peut, s'il l'estime nécessaire, orienter sans délai le travailleur vers le médecin du travail.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

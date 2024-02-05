@@ -19,3 +19,6 @@ Sont applicables aux demandes de projet de reconversion professionnelle les disp
 8° Articles R. 6323-15 et R. 6323-16 relatifs aux refus de prise en charge ;
 
 9° Articles D. 6323-18-1 à D. 6323-18-4 relatifs aux modalités de rémunérations.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -5,3 +5,6 @@ Les particuliers employeurs adhèrent, moyennant une contribution dont le montan
 L'association paritaire mentionnée au second alinéa de l'article L. 133-7 du code de la sécurité sociale est chargée, au nom et pour le compte des particuliers employeurs d'organiser, la mise en œuvre de la prévention des risques professionnels et de la surveillance médicale des salariés et de désigner le ou les services de prévention et de santé au travail chargés, dans le cadre de conventions conclues avec l'association paritaire, du suivi des salariés sur les territoires.
 
 Elle délègue par voie de convention aux organismes de recouvrement mentionnés au même second alinéa la collecte de la contribution mentionnée au premier alinéa du présent article et le recueil des données, auprès des employeurs et de leurs salariés, nécessaires à la mise en œuvre du deuxième alinéa.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

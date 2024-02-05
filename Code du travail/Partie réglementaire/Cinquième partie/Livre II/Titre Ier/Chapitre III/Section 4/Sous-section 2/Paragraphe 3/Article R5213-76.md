@@ -5,3 +5,6 @@ L'emploi des personnes mentionnées à l'article L. 5213-13-1 ou l'accomplisseme
 Le montant de l'aide financière contribuant à compenser les conséquences du handicap et des actions engagées liées à l'emploi des travailleurs reconnus handicapés peut varier pour tenir compte de l'impact du vieillissement de ces travailleurs ou de l'implantation en milieu pénitentiaire de l'entreprise adaptée. L'aide est versée mensuellement à l'entreprise pour chaque poste de travail occupé en proportion du temps de travail effectif ou assimilé. Le cas échéant, le montant de l'aide est réduit à due proportion du temps de travail effectif ou assimilé d'occupation des postes.
 
 Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du budget fixe le montant de l'aide prévue au présent article. Chaque année, cette aide est revalorisée en fonction de l'évolution du salaire minimum de croissance. Cet arrêté peut fixer à Mayotte un montant spécifique des aides financières en fonction de l'évolution du salaire minimum de croissance en vigueur à Mayotte.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2018-1334 du 28 décembre 2018, les dispositions du troisième alinéa de l'article R. 5213-76 du code du travail entrent en vigueur le 1er janvier 2020.

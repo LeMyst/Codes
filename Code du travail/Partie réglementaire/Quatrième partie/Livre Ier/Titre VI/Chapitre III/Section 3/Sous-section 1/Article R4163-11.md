@@ -7,3 +7,6 @@ Les points inscrits sur le compte professionnel de prévention sont utilisés de
 2° Dix points ouvrent droit à un complément de rémunération dont le montant correspond à la compensation pendant quatre mois d'une réduction du temps de travail égale à un mi-temps ;
 
 3° Dix points ouvrent droit à un trimestre de majoration de durée d'assurance vieillesse dans les conditions prévues par l'article L. 351-6-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément au I de l'article 4 du décret n° 2023-759 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

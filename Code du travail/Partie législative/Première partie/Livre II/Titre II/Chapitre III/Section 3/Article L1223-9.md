@@ -13,3 +13,6 @@ La convention ou l'accord collectif prévu à l'article L. 1223-8 fixe :
 5° Les garanties en termes de formation pour les salariés concernés ;
 
 6° Les modalités adaptées de rupture de ce contrat dans l'hypothèse où le chantier ou l'opération pour lequel ce contrat a été conclu ne peut pas se réaliser ou se termine de manière anticipée.
+
+NOTA:
+Conformément à l'article 40-VIII de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux contrats de travail conclus postérieurement à la publication de ladite ordonnance.

@@ -11,3 +11,8 @@ Les droits utilisés selon les modalités prévues aux 1° et 2° du présent ar
 a) De l'exonération prévue à l'article L. 242-4-3 du code de la sécurité sociale ou aux articles L. 741-4 et L. 741-15 du code rural et de la pêche maritime en tant qu'ils visent l'article L. 242-4-3 du code de la sécurité sociale ;
 
 b) Et, selon le cas, des régimes prévus aux 2° ou 2°-0 bis de l'article 83 du code général des impôts, pour ceux utilisés selon les modalités prévues au 1° du présent article, ou de l'exonération prévue au b du 18° de l'article 81 du même code, pour ceux utilisés selon les modalités prévues au 2° du présent article.
+
+NOTA:
+Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions s'appliquent à compter d'une date fixée par décret et au plus tard le 1er janvier 2020.
+
+Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.

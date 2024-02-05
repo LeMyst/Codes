@@ -17,3 +17,8 @@ La consigne de sécurité incendie indique :
 7° L'adresse et le numéro d'appel téléphonique du service de secours de premier appel, en caractères apparents ;
 
 8° Le devoir, pour toute personne apercevant un début d'incendie, de donner l'alarme et de mettre en œuvre les moyens de premier secours, sans attendre l'arrivée des travailleurs spécialement désignés.
+
+NOTA:
+Décret n° 2011-1461 du 7 novembre 2011, article 9 : Les dispositions du présent décret sont applicables :\
+1° Aux opérations de construction d'un bâtiment neuf ou de construction d'une partie neuve d'un bâtiment existant pour lesquelles une demande de permis de construire ou une déclaration préalable est déposée plus de six mois après la date de publication du présent décret ;\
+2° Aux opérations de construction d'un bâtiment neuf ou de construction d'une partie neuve d'un bâtiment existant ne nécessitant ni permis de construire ni déclaration préalable, dont le début des travaux est postérieur de plus de six mois à la date indiquée ci-dessus.

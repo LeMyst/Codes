@@ -7,3 +7,6 @@ II.-Les contributions prélevées au titre du solde de la taxe d'apprentissage m
 La Caisse des dépôts et des consignations est chargée d'affecter les fonds, pour le compte de l'employeur, aux établissements destinataires, dans les conditions définies au II de l'article L. 6241-2 du présent code. A cette fin, elle mutualise les ressources dès leur réception, au sein du fonds dédié dont elle assure la gestion administrative, financière et comptable dans un compte spécifique ouvert dans ses livres.
 
 La Caisse des dépôts et des consignations peut percevoir des frais de gestion, prélevés sur le solde de la taxe avant répartition, au titre de la mission mentionnée au présent II, selon des modalités de calcul et pour un montant déterminés par arrêté conjoint des ministres chargés de l'enseignement supérieur et de l'éducation nationale.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

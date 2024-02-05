@@ -15,3 +15,6 @@ La commission paritaire interprofessionnelle régionale a pour mission :
 6° L'analyse des besoins en emploi, en compétences et en qualifications sur le territoire et l'élaboration de partenariats régionaux avec notamment l'Etat, le conseil régional et les acteurs du service public de l'emploi permettant l'élaboration et la mise en œuvre des parcours professionnels. La commission paritaire interprofessionnelle régionale organise des actions d'information sur la certification relative au socle de connaissances et de compétences professionnelles mentionné au I de l'article D. 6113-30 et des sessions de validation de cette certification dans la région.
 
 7° Le paiement des frais résultant des actions de formation mentionnées au 1° de l'article L. 6313-1 qui s'effectue dans les conditions prévues par le I et II de l'article R. 6332-25 et par l'article R. 6332-26.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -33,3 +33,6 @@ c) Assurer une permanence d'une durée au moins équivalente à trois jours par 
 6° La nature et le montant des autres aides publiques directes ou privées dont la structure a bénéficié les années antérieures ;
 
 7° Les modalités de suivi, de contrôle et d'évaluation de la convention.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

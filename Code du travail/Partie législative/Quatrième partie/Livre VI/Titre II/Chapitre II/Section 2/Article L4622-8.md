@@ -5,3 +5,6 @@ Les missions des services de prévention et de santé au travail sont assurées 
 Un décret en Conseil d'Etat précise les conditions dans lesquelles le médecin du travail peut déléguer, sous sa responsabilité et dans le respect du projet de service pluriannuel, certaines missions prévues au présent titre aux membres de l'équipe pluridisciplinaire disposant de la qualification nécessaire. Pour les professions dont les conditions d'exercice relèvent du code de la santé publique, lesdites missions sont exercées dans la limite des compétences des professionnels de santé prévues par ce même code.
 
 Pour assurer l'ensemble de leurs missions, les services de prévention et de santé au travail interentreprises peuvent, par convention, recourir aux compétences des services de prévention et de santé au travail mentionnés à l'article L. 4622-4 du présent code.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

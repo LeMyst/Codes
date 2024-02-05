@@ -63,3 +63,8 @@ III.-Sont assimilés aux entreprises solidaires d'utilité sociale agréées en 
 IV.-Les entreprises solidaires d'utilité sociale sont agréées par l'autorité compétente.
 
 V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+NOTA:
+Conformément au III de l’article 105 de la loi n° 2019-486 du 22 mai 2019, les entreprises bénéficiant, à la date de publication de la présente loi, de l'agrément prévu à l'article L. 3332-17-1 du code du travail, dans sa rédaction antérieure à la présente loi, continuent d'en bénéficier jusqu'à son terme.
+
+Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter du 1er janvier 2020.

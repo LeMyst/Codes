@@ -7,3 +7,6 @@ Ce projet précise, en tenant compte de la formation du demandeur d'emploi, de s
 Le projet personnalisé d'accès à l'emploi retrace les actions que Pôle emploi s'engage à mettre en œuvre dans le cadre du service public de l'emploi, notamment en matière d'accompagnement personnalisé et, le cas échéant, de formation et d'aide à la mobilité.
 
 La notification du projet personnalisé d'accès à l'emploi adressée au demandeur d'emploi précise ses droits concernant l'acceptation ou le refus des offres raisonnables d'emploi qui lui sont soumises et, notamment, les voies et délais de recours en cas de sanction par Pôle emploi.
+
+NOTA:
+Conformément au II de l'article 208 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022. Toutefois, les jeunes bénéficiant à cette date de l'allocation mentionnée à l'article L. 5131-6 du code du travail dans sa rédaction antérieure à la présente loi continuent de bénéficier de cette allocation dans les conditions en vigueur à la date à laquelle est contractualisé leur parcours d'engagement.

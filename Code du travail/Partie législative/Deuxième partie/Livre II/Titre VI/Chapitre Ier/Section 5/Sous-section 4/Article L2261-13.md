@@ -5,3 +5,6 @@ Lorsque la convention ou l'accord qui a été dénoncé n'a pas été remplacé 
 Cette garantie de rémunération peut être assurée par le versement d'une indemnité différentielle entre le montant de la rémunération qui était dû au salarié en vertu de la convention ou de l'accord dénoncé et de son contrat de travail et le montant de la rémunération du salarié résultant de la nouvelle convention ou du nouvel accord, s'il existe, et de son contrat de travail.
 
 Lorsqu'une stipulation prévoit que la convention ou l'accord dénoncé continue à produire ses effets pendant un délai supérieur à un an, le premier alinéa du présent article s'applique à compter de l'expiration de ce délai si une nouvelle convention ou un nouvel accord n'a pas été conclu.
+
+NOTA:
+Conformément à l'article 21 II de la loi n° 2018-217 du 29 mars 2018, les présentes dispositions s'appliquent à tous les accords ou conventions dénoncés ou mis en cause ayant cessé de produire leurs effets à compter du 9 août 2016, y compris si la date de leur dénonciation ou de leur mise en cause est antérieure à cette date.

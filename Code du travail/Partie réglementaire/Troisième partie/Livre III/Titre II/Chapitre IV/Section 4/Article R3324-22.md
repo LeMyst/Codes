@@ -25,3 +25,6 @@ b) Soit lorsque les faits relèvent de l'article 132-80 du code pénal et donnen
 8° L'affectation des sommes épargnées à l'acquisition ou agrandissement de la résidence principale emportant création de surface habitable nouvelle telle que définie à l'article R. 156-1 du code de la construction et de l'habitation, sous réserve de l'existence d'un permis de construire ou d'une déclaration préalable de travaux, ou à la remise en état de la résidence principale endommagée à la suite d'une catastrophe naturelle reconnue par arrêté ministériel ;
 
 9° La situation de surendettement de l'intéressé définie à l'article L. 711-1 du code de la consommation, sur demande adressée à l'organisme gestionnaire des fonds ou à l'employeur, soit par le président de la commission de surendettement des particuliers, soit par le juge lorsque le déblocage des droits paraît nécessaire à l'apurement du passif de l'intéressé.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2020-683 du 4 juin 2020, les dispositions du 3° bis de l'article R. 3324-22 résultant du présent décret sont applicables aux demandes présentées postérieurement à son entrée en vigueur.

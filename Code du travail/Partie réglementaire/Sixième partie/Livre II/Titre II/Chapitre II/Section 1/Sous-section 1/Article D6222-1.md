@@ -15,3 +15,6 @@ b) La faute de l'employeur ou les manquements répétés à ses obligations ;
 c) La mise en œuvre de la procédure de suspension de l'exécution du contrat d'apprentissage, prévue aux articles L. 6225-4 et suivants ;
 
 4° Pour l'inaptitude physique et temporaire de l'apprenti constatée dans les conditions prévues à l'article L. 6222-18.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2020-373 du 30 mars 2020, ces dispositions s'appliquent aux contrats conclus à compter du lendemain de la publication dudit décret.

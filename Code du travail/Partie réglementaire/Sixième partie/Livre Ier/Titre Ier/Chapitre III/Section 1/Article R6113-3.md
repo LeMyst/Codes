@@ -5,3 +5,6 @@ Lorsqu'un membre décède, démissionne ou perd la qualité au titre de laquelle
 Les dispositions de l'alinéa précédent ne sont pas applicables au remplaçant d'un membre nommé au titre du 4° du II de l'article R. 6113-1.
 
 En cas d'empêchement temporaire du président, la commission est présidée par un membre élu à la majorité simple des voix exprimées par les membres présents.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2021-389 du 2 avril 2021, ces dispositions sont applicables à compter du 1er septembre 2021.

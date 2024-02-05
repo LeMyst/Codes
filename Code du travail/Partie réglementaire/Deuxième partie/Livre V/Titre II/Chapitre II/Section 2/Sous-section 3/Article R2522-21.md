@@ -5,3 +5,6 @@ Lorsqu'un accord est intervenu devant une commission de conciliation, le présid
 Lorsque les parties ne parviennent pas à un accord, un procès-verbal de non-conciliation est établi et leur est aussitôt notifié par lettre recommandée avec avis de réception. Ce procès verbal précise les points sur lesquels elles sont parvenues à un accord et ceux sur lesquels le désaccord persiste. Il est communiqué au ministre chargé du travail et au préfet de la région ou du département dans les quarante-huit heures.
 
 Le procès-verbal est, dans tous les cas, signé par le président, les membres de la commission ainsi que par les parties présentes ou leurs représentants.
+
+NOTA:
+Conformément à l'article 19 du décret n° 2019-1379 du 18 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

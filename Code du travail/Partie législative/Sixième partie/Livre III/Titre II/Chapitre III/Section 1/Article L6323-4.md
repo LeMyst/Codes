@@ -35,3 +35,6 @@ II.-Lorsque le coût de cette formation est supérieur au montant des droits ins
 14° L'organisme gestionnaire de l'assurance chômage mentionné à l'article L. 5427-1 du présent code.
 
 III.-A l'exception du titulaire du compte personnel de formation, les financeurs mentionnés au II peuvent alimenter le compte du titulaire. Les sommes correspondant à cette alimentation supplémentaire sont versées à l'organisme mentionné à l'article L. 6333-1 dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

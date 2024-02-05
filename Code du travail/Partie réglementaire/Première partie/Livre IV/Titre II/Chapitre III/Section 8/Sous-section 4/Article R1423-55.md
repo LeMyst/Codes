@@ -47,3 +47,6 @@ g) La relecture et la signature par le président de la formation de référé o
 5° Les activités administratives des présidents et vice-présidents de chambre.
 
 Les modalités d'indemnisation des activités mentionnées au présent article sont fixées par le décret prévu au 2° de l'article R. 1423-51.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2018-625 du 17 juillet 2018, les formations initiales mentionnées au j de l'article R. 1423-55 du code du travail, engagées depuis le 1er février 2018, entrent dans le champ des activités indemnisables.

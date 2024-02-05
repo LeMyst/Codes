@@ -17,3 +17,6 @@ Avant la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L
 En cas de réponse négative du salarié dans un délai fixé par décret ou à défaut d'avoir respecté l'obligation mentionnée à l'alinéa précédent, l'employeur ne peut faire usage de la possibilité mentionnée au premier alinéa pendant l'année qui suit la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L. 351-8 du code de la sécurité sociale.
 
 La même procédure est applicable chaque année jusqu'au soixante-neuvième anniversaire du salarié.
+
+NOTA:
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 27 sont applicables aux pensions prenant effet à compter du 1er juillet 2011.

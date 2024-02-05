@@ -5,3 +5,6 @@ Lorsque la durée de l'absence au travail du salarié justifiée par l'incapacit
 Ce rendez-vous a pour objet d'informer le salarié qu'il peut bénéficier d'actions de prévention de la désinsertion professionnelle, dont celles prévues à l'article L. 323-3-1 du code de la sécurité sociale, de l'examen de préreprise prévu à l'article L. 4624-2-4 du présent code et des mesures prévues à l'article L. 4624-3.
 
 Il est organisé à l'initiative de l'employeur ou du salarié. L'employeur informe celui-ci qu'il peut solliciter l'organisation de ce rendez-vous. Aucune conséquence ne peut être tirée du refus par le salarié de se rendre à ce rendez-vous.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

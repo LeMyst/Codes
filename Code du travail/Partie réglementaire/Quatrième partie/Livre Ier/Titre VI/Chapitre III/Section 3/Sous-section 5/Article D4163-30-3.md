@@ -11,3 +11,6 @@ II.-La commission paritaire interprofessionnelle régionale mobilise prioritaire
 1° En tout ou partie par les fonds versés pour le financement de projets de transition professionnelle mentionnés au 3° de l'article R. 6123-25, dans les conditions de mise en œuvre prévues dans le cadre du projet de transition professionnelle mentionné à l'article L. 6323-17-1, à l'exception du référentiel de priorités mentionné à l'article R. 6323-14-2, ainsi que dans des conditions fixées par France compétences ;
 
 2° Par un ou des financeurs mentionnés au II de l'article L 6323-4.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

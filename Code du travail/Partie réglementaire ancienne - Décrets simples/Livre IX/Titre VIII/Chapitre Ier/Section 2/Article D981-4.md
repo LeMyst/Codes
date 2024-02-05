@@ -19,3 +19,6 @@ II.-Le nombre d'heures rémunérées pris en compte pour le calcul de l'exonéra
 Pour les marins titulaires d'un contrat de travail à temps partiel, le nombre de jours de service accomplis au cours du mois est réduit dans la même proportion que celle appliquée au salaire forfaitaire d'assiette des contributions de l'employeur au régime spécial de sécurité sociale des marins défini à l'article L. 42 du code des pensions de retraite des marins français du commerce, de la pêche et de la plaisance.
 
 En cas de suspension du contrat de travail avec maintien total ou partiel de la rémunération mensuelle brute du salarié, le nombre de jours de service accomplis au titre de ces périodes de suspension est égal au produit du nombre de jours de service que le marin aurait accomplis s'il avait continué à travailler par le pourcentage de la rémunération demeuré à la charge de l'employeur et soumis à cotisations.
+
+NOTA:
+Décret n° 2008-244 du 7 mars 2008 article 10 : Nonobstant les dispositions de l'article 1er du présent décret, demeure en vigueur, dans sa rédaction à la date de publication du présent décret, l'article D. 981-4 du code du travail.

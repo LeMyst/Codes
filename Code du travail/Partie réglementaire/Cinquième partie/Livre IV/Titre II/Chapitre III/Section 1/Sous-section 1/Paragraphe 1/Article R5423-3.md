@@ -19,3 +19,6 @@ Ne sont pas prises en compte pour la détermination du droit à l'allocation de 
 8° L'allocation des travailleurs indépendants mentionnée à l'article L. 5424-25 précédemment perçue par l'intéressé ;
 
 9° Les indemnités versées aux personnes tirées au sort mentionnées à l'article 4-3 et au 2° de l'article 12 de l'ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique, social et environnemental.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

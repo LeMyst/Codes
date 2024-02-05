@@ -9,3 +9,6 @@ Un décret en Conseil d'État détermine les conditions d'application du présen
 a) Qui ne renouvellent pas leur demande d'emploi ;
 
 b) Pour lesquelles l'employeur ou l'organisme compétent informe l'opérateur France Travail d'une reprise d'emploi ou d'activité, d'une entrée en formation ou de tout changement affectant leur situation au regard des conditions d'inscription.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -9,3 +9,6 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 3° La composition et les modalités d'organisation et de fonctionnement des comités territoriaux pour l'emploi ;
 
 4° Les conditions de réalisation des audits prévus aux articles L. 5311-9 et L. 5311-10.
+
+NOTA:
+Conformément au IV de l’article 4 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

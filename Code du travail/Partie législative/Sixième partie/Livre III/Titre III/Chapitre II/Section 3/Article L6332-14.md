@@ -29,3 +29,6 @@ c) Les personnes qui n'ont exercé aucune activité professionnelle à plein tem
 4° Les actions portées par une convention-cadre de coopération mentionnée au b du 1° du II de l'article L. 6332-1, dans la limite d'un plafond fixé par voie règlementaire ;
 
 5° La rémunération des salariés bénéficiaires d'une action de reconversion ou de promotion par alternance.
+
+NOTA:
+Conformément à l’article 39 IX de la loi n° 2018-771 du 5 septembre 2018, à compter du 1er janvier 2020, l'opérateur de compétences assure le financement des contrats d'apprentissage selon le niveau de prise en charge fixé par les branches selon les modalités mentionnées à l'article L. 6332-14 du code du travail.

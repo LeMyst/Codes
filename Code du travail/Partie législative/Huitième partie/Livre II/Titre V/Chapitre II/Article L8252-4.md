@@ -5,3 +5,6 @@ Les sommes dues à l'étranger non autorisé à travailler, dans les cas prévus
 Lorsque l'employeur ne s'acquitte pas des obligations mentionnées au premier alinéa, l'organisme recouvre les sommes dues pour le compte de l'étranger.
 
 Les modalités d'application des dispositions relatives à la consignation, au recouvrement et au reversement des sommes dues à l'étranger non autorisé à travailler ainsi que les modalités d'information de celui-ci sur ses droits sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

@@ -15,3 +15,6 @@ Dans le cadre des directives du directeur général du travail, le directeur ré
 6° Exerce les pouvoirs propres qui lui sont conférés par les dispositions en vigueur ou sur le fondement de telles dispositions ;
 
 7° Organise le système d'inspection du travail dans la région, répartit les effectifs aux échelons régional et départemental et s'assure de l'adaptation des moyens humains et matériels dévolus au système d'inspection du travail.
+
+NOTA:
+Conformément à l'article 30 du décret n° 2020-1545 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er avril 2021.

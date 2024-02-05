@@ -4,3 +4,6 @@ En cas de difficulté de répartition d'une affaire ou de contestation sur la co
 Cette ordonnance constitue une mesure d'administration judiciaire non susceptible de recours.
 
 Les contestations sont formées devant le bureau de conciliation et d'orientation ou, dans les cas où l'affaire est directement portée devant le bureau de jugement, avant toute défense au fond.
+
+NOTA:
+Décret n° 2016-660 du 20 mai 2016, article 44: Ces dispositions s'appliquent aux instances introduites à compter de la publication dudit décret.

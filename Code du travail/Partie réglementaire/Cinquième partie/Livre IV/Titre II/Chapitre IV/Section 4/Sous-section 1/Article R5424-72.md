@@ -5,3 +5,6 @@ Les ressources prises en considération pour l'application du plafond prévu au 
 Le montant pris en compte est le douzième du total des ressources perçues pendant les douze mois précédant celui au cours duquel la demande a été présentée.
 
 Les ressources perçues hors du territoire national sont prises en compte comme si elles avaient été perçues sur ce territoire.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions sont applicables aux travailleurs indépendants dont l'entreprise fait l'objet d'un jugement d'ouverture de liquidation judiciaire ou d'une procédure de redressement judiciaire, prononcé ou engagée conformément à l'article L. 5424-25 à compter du 1er novembre 2019.

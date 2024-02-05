@@ -9,3 +9,6 @@ La commission mixte nationale mentionnée à l'article D. 1253-47 se réunit sur
 Elle est présidée par une personnalité qualifiée désignée par la Fédération française des groupements d'employeurs pour l'insertion et la qualification, après avis favorable du ministre chargé de l'emploi.
 
 Le président et les membres de la commission mixte nationale sont nommés pour une durée de quatre ans renouvelable.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2015-998 du 17 août 2015, les modalités de mise en œuvre des dispositions prévues par le présent article sont précisées par arrêté du ministre chargé du travail.

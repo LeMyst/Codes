@@ -7,3 +7,6 @@ Dans le champ de la santé, de la sécurité et des conditions de travail, le co
 2° Contribue notamment à faciliter l'accès des femmes à tous les emplois, à la résolution des problèmes liés à la maternité, l'adaptation et à l'aménagement des postes de travail afin de faciliter l'accès et le maintien des personnes handicapées à tous les emplois au cours de leur vie professionnelle ;
 
 3° Peut susciter toute initiative qu'il estime utile et proposer notamment des actions de prévention du harcèlement moral, du harcèlement sexuel et des agissements sexistes définis à l'article L. 1142-2-1. Le refus de l'employeur est motivé.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

@@ -13,3 +13,6 @@ Toutefois, dans le cas où elle concerne un salarié détaché temporairement pa
 La demande peut également être présentée par une personne habilitée à cet effet par un mandat écrit de l'employeur ou de l'entreprise.
 
 Tout nouveau contrat de travail fait l'objet d'une demande d'autorisation de travail.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2021-360 du 31 mars 2021, ces dispositions entrent en vigueur le 1er mai 2021.

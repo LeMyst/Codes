@@ -7,3 +7,6 @@ Elle peut aussi être adressée par le titulaire du compte à l'organisme gestio
 La demande d'utilisation des points ne peut intervenir qu'à compter de l'inscription des points sur le compte professionnel de prévention.
 
 Il est donné au demandeur récépissé de cette demande.
+
+NOTA:
+Conformément au I de l'article 4 du décret n° 2023-759 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

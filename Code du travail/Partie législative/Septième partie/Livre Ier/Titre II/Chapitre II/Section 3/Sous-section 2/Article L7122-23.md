@@ -5,3 +5,6 @@ Les groupements et les personnes mentionnés à l'article L. 7122-22 procèdent 
 1° Des artistes du spectacle mentionnés à l'article L. 7121-2 ;
 
 2° Des ouvriers et des techniciens concourant au spectacle, engagés pour pourvoir l'un des emplois figurant sur une liste déterminée par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.

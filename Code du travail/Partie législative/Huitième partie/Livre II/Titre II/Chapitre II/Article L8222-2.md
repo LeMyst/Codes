@@ -7,3 +7,6 @@ Toute personne qui méconnaît les dispositions de l'article L. 8222-1, ainsi qu
 2° Le cas échéant, au remboursement des sommes correspondant au montant des aides publiques dont il a bénéficié ;
 
 3° Au paiement des rémunérations, indemnités et charges dues par lui à raison de l'emploi de salariés n'ayant pas fait l'objet de l'une des formalités prévues aux articles L. 1221-10, relatif à la déclaration préalable à l'embauche et L. 3243-2, relatif à la délivrance du bulletin de paie.
+
+NOTA:
+Dans sa décision n° 2015-479 QPC du 31 juillet 2015 (NOR : CSCX1518919S), le Conseil constitutionnel a déclaré le deuxième alinéa de l'article L. 8222-2 du code du travail conforme à la Constitution, sous la réserve énoncée au considérant 14.

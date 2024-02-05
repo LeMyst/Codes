@@ -7,3 +7,6 @@ Une sanction identique s'applique à l'auteur de l'offre, personne physique, qui
 La sanction est levée le lendemain du jour où l'auteur de l'offre a été entendu par le comité social et économique de la société faisant l'objet de l'offre.
 
 La sanction est également levée si l'auteur de l'offre n'est pas convoqué à une nouvelle réunion du comité social et économique dans les quinze jours qui suivent la réunion à laquelle il avait été préalablement convoqué.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

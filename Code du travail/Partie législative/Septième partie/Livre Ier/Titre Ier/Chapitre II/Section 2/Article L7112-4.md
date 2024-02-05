@@ -11,3 +11,6 @@ Si les arbitres désignés par les parties ne s'entendent pas pour choisir le pr
 En cas de faute grave ou de fautes répétées, l'indemnité peut être réduite dans une proportion qui est arbitrée par la commission ou même supprimée.
 
 La décision de la commission arbitrale est obligatoire et ne peut être frappée d'appel.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

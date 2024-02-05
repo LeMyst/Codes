@@ -25,3 +25,6 @@ Ces employeurs bénéficient d'une allocation d'activité partielle selon les mo
 VI.-Les salariés mentionnés à l'article L. 243-1-2 du code de la sécurité sociale qui sont employés par une entreprise ne comportant pas d'établissement en France peuvent être placés en position d'activité partielle lorsque l'employeur est soumis, pour ces salariés, aux contributions et cotisations sociales d'origine légale ou conventionnelle et aux obligations d'assurance contre le risque de privation d'emploi au titre de la législation française.
 
 Ces employeurs bénéficient d'une allocation d'activité partielle selon les modalités prévues au présent chapitre.
+
+NOTA:
+Conformément au II de l’article 211 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent aux demandes d'autorisation adressées à l'autorité administrative par les employeurs mentionnés au même I à compter du 1er janvier 2023 et au titre des heures chômées à compter de la même date.

@@ -15,3 +15,6 @@ Le salarié d'un groupement d'employeurs peut bénéficier du plan d'épargne sa
 Les travailleurs non salariés visés à l'article L. 134-1 du code de commerce ou au titre IV du livre V du code des assurances ayant un contrat individuel avec une entreprise dont ils commercialisent des produits peuvent bénéficier du plan d'épargne salariale mis en place dans l'entreprise, si le règlement le prévoit, dans des conditions fixées par décret.
 
 Par dérogation au second alinéa de l'article L. 3331-1 du présent code, le II de l'article L. 130-1 du code de la sécurité sociale ne s'applique pas au franchissement du seuil d'un salarié.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

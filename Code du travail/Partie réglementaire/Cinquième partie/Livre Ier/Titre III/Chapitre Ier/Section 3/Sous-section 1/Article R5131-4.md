@@ -7,3 +7,6 @@ Ces orientations s'inscrivent dans le cadre du schéma prévisionnel de dévelop
 Ces orientations font l'objet d'une concertation préalable au sein du comité régional de l'emploi, de la formation et de l'orientation professionnelles, qui en assure également le suivi.
 
 Ces orientations précisent notamment les conditions de mobilisation par les missions locales et Pôle emploi des acteurs de l'éducation, de l'information, de l'orientation, de l'insertion, de la formation et de l'emploi au bénéfice de l'accompagnement des jeunes.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

@@ -13,3 +13,6 @@ II.-En vue de cette consultation, l'employeur met à la disposition du comité, 
 4° Pour les entreprises ne revêtant pas la forme de société commerciale, les documents comptables qu'elles établissent ;
 
 5° Les informations relatives à la politique de recherche et de développement technologique de l'entreprise.
+
+NOTA:
+Conformément à l'article 86 V B de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les présentes dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 2019.

@@ -11,3 +11,8 @@ I.-Le maître d'ouvrage, le donneur d'ordre ou l'entreprise utilisatrice est pas
 4° En cas de manquement à l'obligation d'information prévue au V de l'article L. 1262-2-1 et en cas de manquement de l'employeur tel que prévu au 4° de l'article L. 8115-1.
 
 II.-La méconnaissance par le maître d'ouvrage de l'obligation mentionnée au II de l'article L. 1262-4-1 est passible d'une amende administrative, dans les conditions prévues à l'article L. 1264-3, lorsque l'un des sous-traitants directs ou indirects de ses cocontractants ou l'une des entreprises exerçant une activité de travail temporaire ne s'est pas acquitté de l'obligation mentionnée au I de l'article L. 1262-2-1. La méconnaissance par l'entreprise utilisatrice de l'obligation mentionnée au IV de l'article L. 1262-2-1 est passible d'une amende administrative dans les conditions prévues à l'article L. 1264-3.
+
+NOTA:
+Conformément aux dispositions des I et II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019, ces dispositions entrent en vigueur le 30 juillet 2020.
+
+Se reporter aux modalités d'application prévues au II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019 ainsi qu'au III de l'article 25 de la loi n° 2021-1308 du 8 octobre 2021.

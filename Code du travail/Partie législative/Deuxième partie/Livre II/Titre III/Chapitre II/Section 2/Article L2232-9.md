@@ -17,3 +17,6 @@ Elle peut également exercer les missions de l'observatoire paritaire mentionné
 Un décret définit les conditions dans lesquelles les conventions et accords d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du présent code sont transmis aux commissions mentionnées au I du présent article.
 
 III.-La commission paritaire est réunie au moins trois fois par an en vue des négociations mentionnées au chapitre Ier du titre IV du présent livre. Elle définit son calendrier de négociations dans les conditions prévues à l'article L. 2222-3.
+
+NOTA:
+Conformément à l’article 104 X de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.

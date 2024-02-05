@@ -5,3 +5,6 @@ L'exercice d'une activité professionnelle ou le fait de suivre une formation r�
 S'agissant de l'allocation de solidarité spécifique, ce versement ne peut être réalisé qu'à l'expiration des droits éventuels aux allocations d'assurance chômage et à la condition qu'il n'intervienne pas plus de quatre ans après la date d'admission à l'allocation considérée ou la date de son dernier renouvellement.
 
 S'agissant de l'allocation des travailleurs indépendants, ce versement ne peut être réalisé qu'à la condition qu'il intervienne dans un délai de trois ans à compter de la date d'admission à l'allocation, augmenté de la durée d'indemnisation initialement notifiée.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

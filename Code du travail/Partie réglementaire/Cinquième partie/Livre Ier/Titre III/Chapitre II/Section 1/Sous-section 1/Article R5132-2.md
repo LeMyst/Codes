@@ -37,3 +37,6 @@ g) Le cas échéant, le champ territorial d'intervention de l'entreprise d'inser
 9° Les modalités de suivi, de contrôle et d'évaluation de la convention ;
 
 10° Lorsque l'entreprise d'insertion exerce son activité dans un établissement pénitentiaire, le contrat d'implantation conclu à ce titre.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

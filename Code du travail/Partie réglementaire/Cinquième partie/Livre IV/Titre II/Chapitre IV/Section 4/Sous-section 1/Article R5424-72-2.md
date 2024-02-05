@@ -29,3 +29,6 @@ III.-Le tiers de confiance mentionné à l'article R. 5424-72-1 remet au travail
 -le cas échéant, le résultat fiscal de la société pour les deux derniers exercices retenus pour l'appréciation du caractère de non-viabilité de l'activité.
 
 Une copie de la déclaration de cessation d'activité est jointe à cette attestation lors du dépôt de la demande en paiement de l'allocation.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-450 du 30 mars 2022, ces dispositions entrent en vigueur à compter du 1er avril 2022, pour les demandes déposées à partir de cette date et remplissant les conditions d'ouverture du droit prévu à l'article L. 5424-25 du code du travail à compter de cette même date.

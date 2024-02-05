@@ -17,3 +17,6 @@ Il indique :
 6° Les mesures de nature économique envisagées ;
 
 7° Le cas échéant, les conséquences de la réorganisation en matière de santé, de sécurité ou de conditions de travail.
+
+NOTA:
+Conformément à l'article 40-VI de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux procédures de licenciement économique engagées dans les entreprises ayant mis en place un comité social et économique.

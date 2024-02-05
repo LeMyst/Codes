@@ -5,3 +5,6 @@ Les sommes attribuées aux bénéficiaires en application de l'accord d'intéres
 Toutefois, en cas de suppression totale ou partielle d'un élément de rémunération, cette règle de non-substitution ne peut avoir pour effet de remettre en cause les exonérations prévues tant au présent article qu'aux articles L. 3315-1 à L. 3315-3, dès lors qu'un délai de douze mois s'est écoulé entre le dernier versement de cet élément de rémunération et la date d'effet de cet accord.
 
 Les sommes mentionnées au premier alinéa n'ont pas le caractère d'élément de salaire pour l'application de la législation du travail.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les présentes dispositions s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

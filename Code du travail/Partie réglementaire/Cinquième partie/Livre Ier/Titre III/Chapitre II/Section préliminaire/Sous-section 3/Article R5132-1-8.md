@@ -19,3 +19,6 @@ c) A titre exceptionnel, pour les ateliers et chantiers d'insertion et les assoc
 Le refus de prolongation d'un prescripteur est motivé par écrit et notifié, par tout moyen donnant date certaine à la réception de cette notification, à la structure et à l'intéressé.
 
 La prolongation est déclarée au moyen du téléservice mentionné à l'article R. 5132-1-19, par la structure dans les cas mentionnés au 1°, et par le prescripteur dans les cas mentionnés au 2°.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

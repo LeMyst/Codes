@@ -11,3 +11,6 @@ Dans les entreprises d'au moins cinq cent un salariés, les ingénieurs, les che
 En outre, dans les entreprises, quel que soit leur effectif, dont le nombre des ingénieurs, chefs de service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification est au moins égal à vingt-cinq au moment de la constitution ou du renouvellement de l'instance, ces catégories constituent un troisième collège.
 
 Par dérogation aux alinéas précédents, dans les établissements ou les entreprises n'élisant qu'un membre de la délégation du personnel titulaire et un membre de la délégation du personnel suppléant, il est mis en place pour chacune de ces élections, un collège électoral unique regroupant l'ensemble des catégories professionnelles.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

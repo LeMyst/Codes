@@ -9,3 +9,6 @@ En l'absence d'accord collectif ou en cas d'accord ne portant pas sur l'ensemble
 3° Les efforts de formation et d'adaptation tels que mentionnés aux articles L. 1233-4 et L. 6321-1.
 
 Elle s'assure que l'employeur a prévu le recours au contrat de sécurisation professionnelle mentionné à l'article L. 1233-65 ou la mise en place du congé de reclassement mentionné à l'article L. 1233-71.
+
+NOTA:
+Conformément à l'article 86 V B de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les présentes dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 2019.

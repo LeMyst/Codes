@@ -13,3 +13,6 @@ I.-Le directeur mentionné à l'article R. 5312-26 supprime le revenu de remplac
 L'appréciation du caractère répété des manquements tient compte des nouveaux manquements constatés dans un délai de deux ans à compter du jour de la notification de la décision de radiation ou de suppression du revenu de remplacement concernant le premier manquement.
 
 II.-Par dérogation aux 1°, 2° et 2° bis du I, lorsque le demandeur d'emploi est bénéficiaire du contrat d'engagement jeune mentionné à l'article L. 5131-6, le revenu de remplacement mentionné à l'article L. 5421-1 est supprimé dans les conditions prévues à l'article R. 5131-18.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

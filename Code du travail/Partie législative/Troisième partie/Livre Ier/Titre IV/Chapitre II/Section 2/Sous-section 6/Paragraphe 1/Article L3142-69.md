@@ -7,3 +7,6 @@ Le refus de l'employeur intervient après avis du comité social et économique.
 En cas de différend, le refus de l'employeur peut être directement contesté par le salarié devant le conseil de prud'hommes, statuant selon la procédure accélérée au fond, dans des conditions fixées par décret en Conseil d'Etat.
 
 A défaut de réponse de l'employeur dans un délai fixé par décret, son accord est réputé acquis.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

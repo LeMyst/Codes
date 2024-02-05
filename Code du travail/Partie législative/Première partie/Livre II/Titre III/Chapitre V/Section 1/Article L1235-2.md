@@ -9,3 +9,6 @@ A défaut pour le salarié d'avoir formé auprès de l'employeur une demande en 
 En l'absence de cause réelle et sérieuse du licenciement, le préjudice résultant du vice de motivation de la lettre de rupture est réparé par l'indemnité allouée conformément aux dispositions de l'article L. 1235-3.
 
 Lorsqu'une irrégularité a été commise au cours de la procédure, notamment si le licenciement d'un salarié intervient sans que la procédure requise aux articles L. 1232-2, L. 1232-3, L. 1232-4, L. 1233-11, L. 1233-12 et L. 1233-13 ait été observée ou sans que la procédure conventionnelle ou statutaire de consultation préalable au licenciement ait été respectée, mais pour une cause réelle et sérieuse, le juge accorde au salarié, à la charge de l'employeur, une indemnité qui ne peut être supérieure à un mois de salaire.
+
+NOTA:
+Conformément à l'article 40-X de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions entrent en vigueur à la date de publication du décret d'application et au plus tard le 1er janvier 2018.

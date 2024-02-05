@@ -9,3 +9,6 @@ Les éléments d'appréciation mentionnés au 1° de l'article R. 5221-20 ne son
 3° L'étudiant visé au second alinéa de l'article L. 421-4 du code de l'entrée et du séjour des étrangers et du droit d'asile qui, titulaire d'un diplôme obtenu dans l'année, justifie d'un contrat de travail en relation avec sa formation et assorti d'une rémunération supérieure à un montant fixé par décret ;
 
 4° Le mineur étranger, pris en charge par l'aide sociale à l'enfance, lorsqu'il remplit les conditions de l'article R. 5221-22 du code du travail.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

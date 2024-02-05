@@ -15,3 +15,6 @@ Le dossier médical en santé au travail comprend les éléments suivants :
 6° La mention de l'information du travailleur sur ses droits en matière d'accès aux données le concernant et sur les conditions d'accès à son dossier médical de santé au travail ;
 
 7° Le cas échéant, le consentement ou l'opposition du travailleur pour les situations prévues respectivement aux articles L. 4624-1 et L. 4624-8.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

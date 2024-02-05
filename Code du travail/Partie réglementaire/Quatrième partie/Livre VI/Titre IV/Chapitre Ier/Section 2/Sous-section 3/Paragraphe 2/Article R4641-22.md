@@ -17,3 +17,6 @@ a) Le directeur de la direction régionale de l'économie, de l'emploi, du trava
 b) Un représentant de la caisse régionale d'assurance retraite et de la santé au travail de la circonscription régionale ;
 
 c) Un représentant du réseau régional des caisses de mutualité sociale agricole.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

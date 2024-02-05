@@ -7,3 +7,6 @@ Le nombre de jours pris en charge au titre du complément de rémunération ment
 Nombre de points utilisés/10 X 60/ coefficient de réduction de la durée du travail.
 
 Le nombre de jours est arrondi au jour entier le plus proche.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

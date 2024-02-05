@@ -9,3 +9,6 @@ Le présent titre s'applique :
 3° Aux filiales et établissements situés en France d'une société issue d'une fusion, scission ou transformation transfrontalières située dans un autre Etat membre de la l'Union européenne.
 
 Les opérations de fusion, scission ou transformation transfrontalières s'entendent au sens de la section 4 du chapitre VI du titre III du livre II de la partie législative du code de commerce.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

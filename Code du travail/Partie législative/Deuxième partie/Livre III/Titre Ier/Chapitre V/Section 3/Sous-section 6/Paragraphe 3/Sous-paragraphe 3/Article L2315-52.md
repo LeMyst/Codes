@@ -7,3 +7,6 @@ A cet effet, la commission propose, dans chaque entreprise, des critères de cla
 Priorité est accordée aux bénéficiaires des dispositions du code des pensions militaires d'invalidité et des victimes de la guerre ayant la qualité de grands mutilés de guerre, conjoints survivants, pupilles de la nation, aux titulaires de pensions d'invalidité servies par un régime obligatoire de sécurité sociale, aux bénéficiaires d'une rente d'accident du travail correspondant à un taux d'incapacité au moins égal à 66 %, aux jeunes de moins de trente ans, aux salariés en mobilité professionnelle, ainsi qu'aux salariés répondant aux critères prévus au deuxième alinéa du II de l'article L. 441-2-3 du code de la construction et de l'habitation.
 
 Le comité social et économique examine pour avis les propositions de la commission.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

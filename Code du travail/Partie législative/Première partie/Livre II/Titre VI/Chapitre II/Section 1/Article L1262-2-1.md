@@ -11,3 +11,6 @@ IV.-L'entreprise utilisatrice établie hors du territoire national mentionnée a
 En cas de contrôle, l'entreprise utilisatrice justifie par tout moyen aux services de l'inspection du travail du respect des dispositions prévues au premier alinéa.
 
 V.-L'entreprise utilisatrice établie sur le territoire national mentionnée au 1° de l'article L. 1262-2 qui a recours à des salariés détachés mis à disposition par une entreprise exerçant une activité de travail temporaire dans les conditions prévues à l'article L. 1262-2 informe l'employeur de ces salariés des règles applicables à ces salariés en matière de rémunération pendant leur mise à disposition sur le territoire national.
+
+NOTA:
+Conformément aux dispositions des I et II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019, ces dispositions entrent en vigueur le 30 juillet 2020. Toutefois, les salariés roulants des entreprises de transport routier mentionnées à l'article L. 1321-1 du code des transports restent régis par les dispositions du code du travail dans leur rédaction antérieure à la présente ordonnance.

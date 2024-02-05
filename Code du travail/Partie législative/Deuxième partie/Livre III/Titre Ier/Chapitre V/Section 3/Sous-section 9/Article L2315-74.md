@@ -9,3 +9,6 @@ En l'absence de réunion du comité social et économique dans le délai prévu 
 Dans un délai de six mois à compter du déclenchement de la procédure d'alerte, le commissaire aux comptes peut reprendre le cours de la procédure au point où il avait estimé pouvoir y mettre un terme lorsque, en dépit des éléments ayant motivé son appréciation, la continuité de l'exploitation du comité social et économique demeure compromise et que l'urgence commande l'adoption de mesures immédiates.
 
 Le présent article n'est pas applicable lorsqu'une procédure de conciliation ou de sauvegarde a été engagée par le débiteur en application des articles L. 611-6 ou L. 620-1 du code de commerce.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

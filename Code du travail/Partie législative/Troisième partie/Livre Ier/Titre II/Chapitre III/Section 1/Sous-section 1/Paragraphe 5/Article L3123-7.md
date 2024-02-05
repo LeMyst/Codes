@@ -17,3 +17,8 @@ Une durée de travail inférieure à celle prévue au premier alinéa du présen
 Une durée de travail inférieure à celle prévue audit premier alinéa peut être fixée, à sa demande, au bénéfice du salarié ayant atteint l'âge prévu au premier alinéa de l'article L. 161-22-1-5 du code de la sécurité sociale.
 
 Une durée de travail inférieure à celle prévue au premier alinéa, compatible avec ses études, est fixée de droit, à sa demande, au bénéfice du salarié âgé de moins de vingt-six ans poursuivant ses études.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Se reporter au 5° du XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023.

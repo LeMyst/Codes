@@ -11,3 +11,6 @@ En cas de travaux justifiés par une situation d'urgence liée à un sinistre, l
 La transmission effectuée par l'employeur au titre du premier ou quatrième alinéa donne lieu à un horodatage du plan de démolition, de retrait ou d'encapsulage, qui fait courir les délais de trente jours ou de huit jours mentionnés respectivement au premier et au cinquième alinéa.
 
 II.-Le plan de démolition, de retrait ou d'encapsulage est transmis à ou aux organismes certificateurs concernés par la plateforme DEMAT @ MIANTE.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1er février 2023. Se reporter aux conditions d’application prévues audit article.

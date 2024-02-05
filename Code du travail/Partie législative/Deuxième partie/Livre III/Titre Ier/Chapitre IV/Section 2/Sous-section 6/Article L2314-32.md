@@ -9,3 +9,6 @@ La constatation par le juge, après l'élection, du non-respect par une liste de
 La constatation par le juge, après l'élection, du non-respect par une liste de candidats des prescriptions prévues à la seconde phrase du premier alinéa du même article L. 2314-30 entraîne l'annulation de l'élection du ou des élus dont le positionnement sur la liste de candidats ne respecte pas ces prescriptions.
 
 Le cas échéant, il est fait application des dispositions de l'article L. 2314-10 du code du travail.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

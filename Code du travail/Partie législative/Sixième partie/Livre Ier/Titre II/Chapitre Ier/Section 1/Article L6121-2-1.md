@@ -5,3 +5,6 @@ Dans le cadre du service public régional de la formation professionnelle défin
 A cette fin, elle peut, par voie de convention, habiliter des organismes chargés de mettre en œuvre ces actions, en contrepartie d'une juste compensation financière. L'habilitation, dont la durée ne peut pas excéder cinq ans, précise notamment les obligations de service public qui pèsent sur l'organisme.
 
 Cette habilitation est délivrée, dans des conditions de transparence et de non-discrimination et sur la base de critères objectifs de sélection, selon une procédure définie par décret en Conseil d'Etat.
+
+NOTA:
+Ces dispositions entrent en vigueur à compter du 1er janvier 2015 sous réserve de l'entrée en vigueur des dispositions relevant de la loi de finances prévues au I de l'article 27 de la loi n° 2014-288 du 5 mars 2014 conformément au paragraphe II dudit article.

@@ -9,3 +9,6 @@ Le contrat jeune en entreprise donne lieu :
 1° A la conclusion d'un contrat de travail, dans les conditions prévues à la sous-section 2 ;
 
 2° A l'attribution d'une aide de l'Etat dans les conditions prévues à la sous-section 3.
+
+NOTA:
+Aux termes du IV de l'article 46 de la loi n° 2016-1088 du 8 août 2016, les contrats d'insertion dans la vie sociale conclus avant le 1er janvier 2017 continuent à produire leurs effets dans les conditions applicables avant cette date, jusqu'à leur terme.

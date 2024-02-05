@@ -5,3 +5,6 @@ Lorsque survient une modification dans la situation juridique de l'employeur tel
 Si cette entreprise devient un établissement au sens du présent titre ou si la modification mentionnée au premier alinéa porte sur un ou plusieurs établissements distincts qui conservent ce caractère, le mandat des représentants syndicaux subsiste et le mandat des membres élus de la délégation du personnel du comité social et économique se poursuit jusqu'à son terme.
 
 Toutefois, pour tenir compte de la date habituelle des élections dans l'entreprise d'accueil, la durée du mandat des membres élus peut être réduite ou prorogée par accord entre le nouvel employeur et les organisations syndicales représentatives existant dans le ou les établissements absorbés ou, à défaut, les membres de la délégation du personnel du comité social et économique intéressé.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

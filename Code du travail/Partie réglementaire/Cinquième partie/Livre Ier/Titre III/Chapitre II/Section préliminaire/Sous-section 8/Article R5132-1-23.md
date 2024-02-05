@@ -5,3 +5,6 @@ Les données à caractère personnel enregistrées dans le traitement sont conse
 Les données relatives à la traçabilité des actions réalisées sur la plateforme sont conservées trois ans à compter de chaque action. Toutefois, elles ne peuvent être conservées plus de treize mois à compter de l'inactivité constatée d'un utilisateur pendant une période de six mois consécutifs.
 
 En cas de contentieux, les délais mentionnés au présent article peuvent être prorogés, le cas échéant, jusqu'à l'intervention d'une décision juridictionnelle définitive.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

@@ -4,5 +4,4 @@ La contribution unique à la formation professionnelle et à l'alternance mentio
 
 1° De la taxe d'apprentissage mentionnée à l'article L. 6241-1 ;
 
-2° De la contribution à la formation professionnelle mentionnée aux articles L. 6331-1et
-L. 6331-3.
+2° De la contribution à la formation professionnelle mentionnée aux articles L. 6331-1et L. 6331-3.

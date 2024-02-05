@@ -13,3 +13,6 @@ L'employeur qui détache un ou plusieurs salariés, dans les conditions prévues
 5° L'Etat auquel est attachée la législation de sécurité sociale dont relève chacun des salariés détachés au titre de l'activité qu'il réalise en France et, s'il s'agit d'un Etat autre que la France, la mention de la demande d'un formulaire concernant la législation de sécurité sociale applicable à l'institution compétente ;
 
 6° La désignation de son représentant pendant la durée de la prestation en France, les coordonnées électroniques et téléphoniques de ce représentant, le lieu de conservation des documents mentionnés à l'article R. 1263-1 sur le territoire national ou les modalités permettant d'y avoir accès et de les consulter depuis le territoire national, ainsi que le numéro de SIRET lorsque le représentant désigné n'est ni le dirigeant présent pendant la prestation, ni l'un des salariés détachés, ni le client de la prestation.
+
+NOTA:
+Conformément à l’article 1 du décret n° 2023-217 ainsi qu’à l’article 1 de l’arrêté du 28 mars 2023 (NOR : MTRT2308349A), ces dispositions entrent en vigueur le 30 mars 2023.

@@ -11,3 +11,6 @@ Lors de l'avis rendu sur le rapport et sur le programme annuels de prévention, 
 Lorsque certaines des mesures prévues par l'employeur ou demandées par le comité n'ont pas été prises au cours de l'année concernée par le programme, l'employeur énonce les motifs de cette inexécution, en annexe au rapport annuel.
 
 Le procès-verbal de la réunion du comité consacrée à l'examen du rapport et du programme est joint à toute demande présentée par l'employeur en vue d'obtenir des marchés publics, des participations publiques, des subventions, des primes de toute nature ou des avantages sociaux ou fiscaux.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

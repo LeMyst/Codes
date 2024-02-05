@@ -5,3 +5,6 @@ Le projet de rapport de contrôle est adressé au centre de formation d'apprenti
 Au terme de ce délai, le rapport de contrôle, accompagné, le cas échéant, de recommandations pédagogiques, est adressé au centre de formation d'apprentis et aux employeurs d'apprentis.
 
 Le centre de formation d'apprentis, sur demande de l'organisme ou de l'instance mentionné à l'article L. 6316-2 lui ayant délivré la certification prévue à l'article L. 6316-1, lui adresse le rapport de contrôle.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2018-1210 du 21 décembre 2018, les dispositions du dernier alinéa entrent en vigueur le 1er janvier 2021.

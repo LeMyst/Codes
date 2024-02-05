@@ -5,3 +5,6 @@ Les employeurs s'acquittent d'une contribution dédiée au financement du compte
 Cette contribution est recouvrée dans les conditions prévues au I de l'article L. 6131-3, selon la périodicité applicable en matière de cotisations et de contributions de sécurité sociale. Elle est versée à France compétences selon les modalités prévues au I de l'article L. 6131-4.
 
 Les contrats à durée déterminée ayant pour objet principal l'accès ou le maintien dans l'emploi des salariés par la formation professionnelle ou en alternance, dont la liste est fixée par décret et ceux visant les salariés occupant un emploi à caractère saisonnier défini au 3° de l'article L. 1242-2 ne donnent pas lieu au versement de cette contribution.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

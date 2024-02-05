@@ -15,3 +15,8 @@ L'accord est valide s'il est approuvé par les salariés à la majorité des suf
 Faute d'approbation, l'accord est réputé non écrit.
 
 Un décret définit les conditions de la consultation des salariés organisée en application du présent article.
+
+NOTA:
+Conformément à l'article l'article 21 IX de la loi n° 2016-1088 modifié par l'article 11 de l'ordonnance n° 2017-1385 du 22 septembre 2017, les présentes dispositions s'appliquent aux accords collectifs qui portent sur la durée du travail, les repos et les congés et, dès la publication de la présente loi, aux accords mentionnés à l'article L. 2254-2 du code du travail.
+
+Ces dispositions s'appliquent à compter du 1er mai 2018 aux autres accords collectifs à l'exception de ceux mentionnés à l'article L. 5125-1 du code du travail.

@@ -5,3 +5,6 @@ Le tribunal judiciaire statue sur l'opposition quel que soit le montant des allo
 Le tribunal statue à charge d'appel lorsque le montant de la demande excède le taux de sa compétence en dernier ressort.
 
 Lorsqu'elle est susceptible d'appel, la décision de la juridiction, statuant sur l'opposition, est exécutoire de droit à titre provisoire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -5,3 +5,6 @@ I.-La convention mentionnée au I de l'article L. 5213-3-1 définit le montant t
 La durée maximale de la convention ne peut être supérieure à dix-huit mois. Elle est déterminée en tenant compte, le cas échéant, de la durée de l'arrêt de travail qui a précédé sa mise en place dans les conditions prévues par le I de l'article R. 323-3-1 du code de la sécurité sociale.
 
 II.-La caisse primaire d'assurance maladie transmet pour information la convention à la direction régionale de l'économie, de l'emploi, du travail et des solidarités dans le ressort de laquelle l'entreprise est installée.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-372 du 16 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022 et s'appliquent aux arrêts de travail en cours à cette date.

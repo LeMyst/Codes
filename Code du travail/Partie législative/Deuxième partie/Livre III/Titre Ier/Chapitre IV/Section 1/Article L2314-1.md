@@ -7,3 +7,6 @@ La délégation du personnel comporte un nombre égal de titulaires et de suppl�
 Le nombre de membres et le nombre d'heures de délégation peuvent être modifiés par accord dans les conditions prévues par l'article L. 2314-7.
 
 Un référent en matière de lutte contre le harcèlement sexuel et les agissements sexistes est désigné par le comité social et économique parmi ses membres, sous la forme d'une résolution adoptée selon les modalités définies à l'article L. 2315-32, pour une durée qui prend fin avec celle du mandat des membres élus du comité.
+
+NOTA:
+Conformément à l’article 105 IV de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions entrent en vigueur au plus tard le 1er janvier 2019.

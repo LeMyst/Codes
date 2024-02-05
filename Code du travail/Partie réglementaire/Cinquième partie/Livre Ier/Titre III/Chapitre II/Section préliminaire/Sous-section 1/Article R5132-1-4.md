@@ -5,3 +5,6 @@ Une personne ayant bénéficié d'un parcours d'insertion par l'activité écono
 Par dérogation, après examen de la situation de la personne concernée, l'un des prescripteurs mentionnés au deuxième alinéa de l'article L. 5132-3 peut prescrire un nouveau parcours dans les deux ans suivant la fin du dernier parcours, à son initiative ou à la demande de la structure d'insertion par l'activité économique qui emploie l'intéressé ou souhaite l'employer.
 
 La demande de la structure d'insertion mentionnée à l'alinéa précédent intervient après examen de la situation de la personne au regard de l'emploi, des actions d'accompagnement et de formation conduites pendant la durée initiale du parcours et des nouvelles actions envisagées. Le refus d'un prescripteur est motivé par écrit et notifié par tout moyen donnant date certaine à la réception de cette notification à la structure ainsi qu'à l'intéressé.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

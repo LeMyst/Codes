@@ -5,3 +5,6 @@ La répartition du personnel dans les collèges électoraux et la répartition d
 Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi prend sa décision dans un délai deux mois à compter de la réception de la contestation. Cette décision est notifiée par lettre recommandée avec demande d'avis de réception portant mention des voies et délais de recours. Elle peut faire l'objet d'un recours devant le tribunal judiciaire dans un délai de quinze jours suivant sa notification.
 
 A défaut de décision du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi à l'expiration du délai de deux mois dont il dispose pour se prononcer, l'employeur ou les organisations syndicales intéressées peuvent saisir, dans le délai de quinze jours, le tribunal judiciaire afin qu'il soit statué sur la répartition.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

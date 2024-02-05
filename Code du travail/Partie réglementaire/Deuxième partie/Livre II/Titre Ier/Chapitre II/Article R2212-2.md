@@ -13,3 +13,6 @@ Des cahiers des charges particuliers applicables à certaines formations commune
 II. – L'Institut national du travail de l'emploi et de la formation professionnelle conçoit et dispense des formations communes, directement ou par l'intermédiaire d'un réseau de partenaires qu'il anime.
 
 III. – Le rapport annuel d'activité de l'Institut mentionné à l'article 8 du décret n° 2005-1555 du 13 décembre 2005 modifié relatif à l'Institut national du travail, de l'emploi et de la formation professionnelle dresse le bilan des formations communes dispensées et propose des évolutions.
+
+NOTA:
+Décret n° 2017-714 du 2 mai 2017, Art. 2 : Les dispositions du 5° de l'article R. 2212-2 du code du travail créé par le présent décret entrent en vigueur selon les modalités prévues à l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016 portant dispositions statutaires concernant les magistrats des tribunaux administratifs et cours administratives d'appel et à l'article 10 du décret n° 2017-451 du 30 mars 2017 portant dispositions statutaires concernant les magistrats des tribunaux administratifs et des cours administratives d'appel.

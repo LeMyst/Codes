@@ -9,3 +9,6 @@ Dans le délai d'un mois à compter de la publication du projet de constitution 
 3° Leur statut juridique ;
 
 4° La nature de leurs activités.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

@@ -29,3 +29,6 @@ Les documents mentionnés à l'article L. 1221-5-1 comportent au moins les infor
 13° Les conventions et accords collectifs applicables au salarié dans l'entreprise ou l'établissement ;
 
 14° Les régimes obligatoires auxquels est affilié le salarié, la mention des contrats de protection sociale complémentaire dont les salariés bénéficient collectivement en application d'un accord collectif ou d'une décision unilatérale de l'employeur ainsi que, le cas échéant, les conditions d'ancienneté qui y sont attachées.
+
+NOTA:
+Conformément au II de l'article 7 du décret n° 2023-1004 du 30 octobre 2023, ces dispositions entrent en vigueur le 1er novembre 2023.

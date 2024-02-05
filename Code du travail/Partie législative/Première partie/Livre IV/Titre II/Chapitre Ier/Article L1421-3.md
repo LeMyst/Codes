@@ -23,3 +23,6 @@ II.-Le fait, pour une personne tenue de remettre une déclaration d'intérêts e
 Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à l'article 131-27 du même code.
 
 Le fait de publier ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations ou des informations mentionnées au présent article est puni des peines prévues à l'article 226-1 dudit code.
+
+NOTA:
+Conformément au VIII de l’article 60 de la loi n° 2023-1059 du 20 novembre 2023, ces dispositions entrent en vigueur à compter du premier renouvellement des conseillers prud'hommes suivant la promulgation de ladite loi.

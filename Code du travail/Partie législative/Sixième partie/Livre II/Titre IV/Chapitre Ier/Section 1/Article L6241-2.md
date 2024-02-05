@@ -19,3 +19,6 @@ Les entreprises redevables de la contribution supplémentaire à l'apprentissage
 Les subventions mentionnées au 2° et la créance mentionnée à l'alinéa précédent ne peuvent donner lieu ni à report ni à restitution.
 
 III.-Les dispositions de l'article L. 133-10 du code de la sécurité sociale sont applicables au calcul des parts mentionnées au I et au II.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

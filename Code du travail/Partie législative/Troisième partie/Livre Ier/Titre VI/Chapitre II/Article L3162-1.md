@@ -17,3 +17,6 @@ b) Les heures supplémentaires éventuelles, ainsi que leurs majorations, donnen
 Pour les autres activités et à titre exceptionnel, des dérogations aux durées maximales hebdomadaire et quotidienne de travail effectif fixées au premier alinéa peuvent être accordées dans la limite de cinq heures par semaine par l'inspecteur du travail après avis conforme du médecin du travail ou du médecin chargé du suivi médical de l'élève.
 
 La durée du travail des intéressés ne peut en aucun cas être supérieure à la durée quotidienne ou hebdomadaire normale du travail des adultes employés dans l'établissement.
+
+NOTA:
+Conformément à l’article 46 II de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions ne sont pas applicables aux contrats conclus avant le 1er janvier 2019.

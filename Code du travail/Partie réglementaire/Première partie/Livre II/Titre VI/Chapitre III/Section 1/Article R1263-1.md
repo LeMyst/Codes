@@ -29,3 +29,6 @@ e) S'il y a lieu, l'intitulé de la convention collective de branche applicable 
 7° Un relevé d'heures indiquant le début, la fin et la durée du temps de travail journalier de chaque salarié.
 
 III.-Dans le cas où l'entreprise est établie en dehors de l'Union européenne, l'employeur tient à la disposition de l'inspection du travail le document attestant de la régularité de sa situation sociale au regard d'une convention internationale de sécurité sociale ou, à défaut, l'attestation de fourniture de déclaration sociale émanant de l'organisme français de protection sociale chargé du recouvrement des cotisations sociales lui incombant et datant de moins de six mois.
+
+NOTA:
+Conformément à l’article 1 du décret n° 2023-217 ainsi qu’à l’article 1 de l’arrêté du 28 mars 2023 (NOR : MTRT2308349A), ces dispositions entrent en vigueur le 30 mars 2023.

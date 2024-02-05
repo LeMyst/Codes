@@ -15,3 +15,6 @@ c) Les droits de ces membres ;
 3° La date d'entrée en vigueur de l'accord et sa durée ;
 
 4° Les cas dans lesquels l'accord est renégocié et la procédure suivie pour sa renégociation.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

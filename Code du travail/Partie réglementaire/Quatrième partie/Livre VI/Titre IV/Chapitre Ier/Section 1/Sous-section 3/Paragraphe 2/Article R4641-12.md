@@ -15,3 +15,6 @@ b) Cinq représentants des employeurs, soit : trois sur proposition du Mouvement
 4° Au titre du collège des personnalités qualifiées : six personnalités désignées à raison de leurs compétences personnelles au regard des attributions de la commission. Ce collège comprend une personne ayant compétence en matière agricole.
 
 Pour chaque commission spécialisée, à l'exception de la commission spécialisée chargée des questions relatives aux activités agricoles mentionnée à l'article R. 4641-14, un président est nommé au sein du collège des personnalités qualifiées, parmi ses membres visés au 4° de l'article R 4641-6. En son absence, la commission est présidée par un suppléant désigné au sein du collège mentionné au 4° du présent article ou un représentant du directeur général du travail.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

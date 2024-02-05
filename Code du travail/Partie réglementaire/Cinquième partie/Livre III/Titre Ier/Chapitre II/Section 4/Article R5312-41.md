@@ -11,3 +11,6 @@ Dans le cadre des finalités mentionnées à l'article R. 5312-38, le système d
 4° Les fichiers des organismes mentionnés aux 7° et 8° de l'article R. 5312-38 ;
 
 5° Un fichier d'annonces légales, afin de vérifier si l'usager exerce un mandat social, et ainsi fiabiliser les données issues de la demande d'inscription sur la liste des demandeurs d'emploi, de la demande d'allocation de chômage ou de toute demande d'aide à l'emploi pouvant être accordée au demandeur d'emploi ou à l'employeur.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

@@ -13,3 +13,6 @@ En cas de nombre impair de sièges à pourvoir et de stricte égalité entre les
 Lorsque l'application de ces règles conduit à exclure totalement la représentation de l'un ou l'autre sexe, les listes de candidats pourront comporter un candidat du sexe qui, à défaut ne serait pas représenté. Ce candidat ne peut être en première position sur la liste.
 
 Le présent article s'applique à la liste des membres titulaires du comité social et économique et à la liste de ses membres suppléants.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

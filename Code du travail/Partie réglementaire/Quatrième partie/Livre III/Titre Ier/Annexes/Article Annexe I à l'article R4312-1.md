@@ -1524,3 +1524,6 @@ Sur l'habitacle sont portées les indications nécessaires pour assurer la sécu
 -le nombre de personnes pouvant se trouver dans l'habitacle ;
 
 -la charge maximale d'utilisation.
+
+NOTA:
+Décret n° 2011-1480 du 9 novembre 2011 article 5 : A l'exception de ses articles 2, 3 et 4 ainsi que des 1°, 3°, 4°, 7° et 8° de son article 1er, le présent décret est applicable à compter du 15 décembre 2011. Il en résulte que le 5°, qu'au 2 du 6° les mots " les machines à bois et matériaux ayant des caractéristiques physiques similaires et les machines destinées à l'application des pesticides " ainsi que le paragraphe 2.4 du 6° modifiés par ledit décret entrent en vigueur à compter de cette date.

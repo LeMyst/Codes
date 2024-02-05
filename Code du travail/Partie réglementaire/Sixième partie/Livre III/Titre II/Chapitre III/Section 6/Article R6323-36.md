@@ -11,3 +11,6 @@ Sont destinataires de tout ou partie des données à caractère personnel inclus
 4° La mise en œuvre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10.
 
 La liste de ces organismes est fixée par arrêté du ministre chargé de la formation professionnelle et du ministre chargé des collectivités territoriales.
+
+NOTA:
+Conformément à l'article 27 du décret n° 2021-1708 du 17 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.

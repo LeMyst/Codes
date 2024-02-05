@@ -9,3 +9,6 @@ Les dépenses déductibles mentionnées à l'article L. 5212-11 sont relatives :
 3° Aux prestations d'accompagnement des bénéficiaires de l'obligation d'emploi, aux actions de sensibilisation et de formation des salariés réalisées par d'autres organismes pour le compte de l'entreprise afin de favoriser la prise de poste et le maintien en emploi des bénéficiaires de l'obligation d'emploi.
 
 L'employeur peut déduire du montant de sa contribution annuelle ces dépenses, au prix hors taxes, dans la limite de 10 % du montant de la contribution annuelle calculée en application de l'article D. 5212-20.
+
+NOTA:
+Conformément au 1° de l'article 3 du décret n° 2020-1350 du 5 novembre 2020, ces dispositions s'appliquent aux déclarations relatives à l'obligation d'emploi des travailleurs handicapés exigibles à compter du 1er janvier 2021. Se reporter aux conditions d'application prévues au 3° de l'article 3 précité.

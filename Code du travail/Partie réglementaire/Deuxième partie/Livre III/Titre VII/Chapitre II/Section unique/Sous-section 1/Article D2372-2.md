@@ -7,3 +7,6 @@ Les dirigeants des sociétés participantes indiquent à leurs organisations syn
 2° Les formes de participation existant au sens de l'article L. 2371-3 en ce qu'il renvoie à l'article L. 2351-6 ;
 
 3° Le nombre de sièges au groupe spécial de négociation revenant à chaque Etat membre, calculé conformément aux dispositions de l'article L. 2372-3 en ce qu'il renvoie à l'article L. 2352-3.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

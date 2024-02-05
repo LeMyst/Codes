@@ -7,3 +7,6 @@ La décision ne s'applique qu'à la personne objet de cette demande et est oppos
 Pour toute la période couverte par une décision explicite de l'opérateur France Travail concluant au non-assujettissement à l'obligation d'assurance, il ne peut être procédé à la mise en œuvre d'une action, d'une poursuite ou d'un recouvrement prévu à l'article L. 5422-16.
 
 Lorsque l'opérateur France Travail entend modifier pour l'avenir sa réponse, il en informe le demandeur selon des conditions et des modalités fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

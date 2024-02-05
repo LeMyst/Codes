@@ -3,3 +3,6 @@
 Le comité social et économique central détermine, dans un règlement intérieur, les modalités de son fonctionnement et de ses rapports avec les salariés de l'entreprise pour l'exercice des missions qui lui sont conférées par le présent titre.
 
 Les décisions du comité social et économique central portant sur ses modalités de fonctionnement et l'organisation de ses travaux ainsi que ses résolutions sont prises à la majorité des membres présents.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

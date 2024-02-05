@@ -11,3 +11,6 @@ Ces conventions prévoient :
 3° Les modalités de coopération entre le prescripteur et l'employeur en vue de favoriser l'accès des personnes suivies au marché du travail ;
 
 4° Les actions susceptibles d'être réalisées par le prescripteur pour faciliter l'insertion des personnes en parcours d'insertion par l'activité économique.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux I et II de l'article 2 du décret n° 2021-1128 du 30 août 2021.

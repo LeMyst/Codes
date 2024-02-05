@@ -5,3 +5,6 @@ Pour les mises à disposition entrant dans le champ de l'article L. 5132-9, la r
 Le salarié d'une association intermédiaire peut être rémunéré soit sur la base du nombre d'heures effectivement travaillées chez l'utilisateur, soit sur la base d'un nombre d'heures forfaitaire déterminé dans le contrat pour les activités autres que celles mentionnées à l'article L. 5132-9.
 
 Le paiement des jours fériés est dû au salarié d'une association intermédiaire mis à disposition des employeurs mentionnés à l'article L. 2212-1 (1) dès lors que les salariés de cette personne morale en bénéficient.
+
+NOTA:
+(1) Transféré à l'article L. 2211-1 par loi n° 2008-67 du 21 janvier 2008, article 3-2°.

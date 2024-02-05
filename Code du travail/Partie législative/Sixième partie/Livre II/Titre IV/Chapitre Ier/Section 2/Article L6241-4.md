@@ -11,3 +11,8 @@ a) Elles conduisent à des diplômes ou titres enregistrés au répertoire natio
 b) Elles sont dispensées à temps complet et de manière continue, ou selon un rythme approprié au sens des dispositions de l'article L. 813-9 du code rural et de la pêche maritime ;
 
 2° Les subventions versées à un centre de formation d'apprentis sous forme d'équipements et de matériels conformes aux besoins des formations dispensées.
+
+NOTA:
+Conformément au VII de l'article 159 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur à la date d’entrée en vigueur de l’ordonnance relative à la collecte des contributions des employeurs au titre du financement de la formation professionnelle et de l’apprentissage prévue au I de l’article 41 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, et au plus tard le 1er janvier 2022.
+
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

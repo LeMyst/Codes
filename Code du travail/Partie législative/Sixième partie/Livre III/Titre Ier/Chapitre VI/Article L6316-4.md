@@ -5,3 +5,6 @@ I.-Les établissements d'enseignement secondaire publics et privés associés à
 II.-Les établissements d'enseignement supérieur publics accrédités conformément à l'article L. 613-1 du code de l'éducation après évaluation par le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur ou après une évaluation dont les procédures ont été validées par celui-ci ainsi que les établissements d'enseignement supérieur privés évalués par le comité consultatif pour l'enseignement supérieur privé mentionné à l'article L. 732-1 du même code et ceux évalués par la commission mentionnée à l'article L. 642-3 dudit code sont réputés avoir satisfait à l'obligation de certification mentionnée à l'article L. 6316-1 du présent code.
 
 III.-Les accréditations et évaluations mentionnées au II sont mises en œuvre selon des critères et des indicateurs qui font l'objet d'une conférence annuelle entre France compétences, le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur et la commission mentionnée à l'article L. 642-3 du code de l'éducation. Cette conférence concourt à la réalisation de l'objectif de mise en cohérence des critères d'évaluation de la qualité des formations.
+
+NOTA:
+Conformément au II de l'article 9 de l'ordonnance n° 2019-861 du 21 août 2019, ces dispositions entrent en vigueur le 1er janvier 2022.

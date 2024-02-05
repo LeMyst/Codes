@@ -7,3 +7,6 @@ En cas de manquement du bénéficiaire du contrat d'engagement jeune à ses obli
 2° En cas de deuxième manquement, l'allocation et, le cas échéant, le revenu de remplacement mentionné à l'article L. 5421-1, versés au titre du mois considéré sont supprimés pour une durée d'un mois ;
 
 3° Au troisième manquement, l'allocation est supprimée définitivement et, le cas échéant, le revenu de remplacement mentionné à l'article L. 5421-1 est supprimé pour une durée de quatre mois et le contrat d'engagement prend fin.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

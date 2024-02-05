@@ -9,3 +9,6 @@ Le parcours contractualisé d'accompagnement vers l'emploi et l'autonomie mentio
 3° Des actions spécifiques dans le cadre de l'accompagnement social et professionnel ;
 
 4° Des actions portées par d'autres organismes susceptibles de contribuer à l'accompagnement.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

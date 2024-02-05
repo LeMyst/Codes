@@ -13,3 +13,6 @@ L'accord d'entreprise défini à l'article L. 2313-2 fixe les modalités de mise
 5° Le cas échéant, les moyens qui leur sont alloués ;
 
 6° Le cas échéant, les conditions et modalités dans lesquelles une formation spécifique correspondant aux risques ou facteurs de risques particuliers, en rapport avec l'activité de l'entreprise peut être dispensée aux membres de la commission.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

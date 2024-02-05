@@ -5,3 +5,6 @@ Lorsqu'elles suivent des stages agréés dans les conditions prévues à l'artic
 Cette rémunération peut se cumuler avec une rémunération perçue au titre d'une activité salariée ou non salariée, sous réserve du respect des obligations de la formation, dans des conditions déterminées par l'autorité agréant ces formations sur le fondement du même article L. 6341-4.
 
 Un décret précise les conditions d'application du présent article, notamment la durée minimum de formation ouvrant droit à la rémunération et les conditions dans lesquelles il est tenu compte de la rémunération antérieurement perçue par les personnes qui se sont vu reconnaître la qualité de travailleurs handicapés.
+
+NOTA:
+Conformément au II de l'article 240 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

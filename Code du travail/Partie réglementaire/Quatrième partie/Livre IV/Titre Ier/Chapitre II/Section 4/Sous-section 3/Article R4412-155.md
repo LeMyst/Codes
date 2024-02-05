@@ -11,3 +11,6 @@ Dans la formule énoncée à l'article R. 4412-154, on entend par :
 4° Cc, la concentration en cristobalite en mg / m ³ ;
 
 5° Ct, la concentration en tridymite en mg / m ³.
+
+NOTA:
+Conformément au II de l’article 4 du décret n° 2021-1763 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

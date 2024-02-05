@@ -31,3 +31,8 @@ c) Recouvrée selon les règles et sous les garanties et sanctions applicables e
 d) Recouvrée à compter du début de l'année civile suivant une période d'au moins six mois à compter de la signature de la convention, sans que ce recouvrement puisse intervenir avant le 1er janvier 2026.
 
 Le modèle de la convention prévue au premier alinéa du présent II est fixé par arrêté conjoint des ministres chargés de la sécurité sociale et du travail.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, le II entre en vigueur le 1er janvier 2024 pour les contributions dues à compter de cette date.
+
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -23,3 +23,6 @@ Des règles et modalités de surveillance adaptées ne peuvent avoir pour effet 
 Des règles adaptées relatives à l'organisation du service de prévention et de santé au travail ne peuvent avoir pour effet de modifier les modalités de composition et de fonctionnement du conseil d'administration prévues à l'article L. 4622-11.
 
 Pour tenir compte de spécificités locales en matière de recours à des travailleurs saisonniers, l'autorité administrative peut approuver des accords adaptant les modalités définies par décret sous réserve que ces adaptations garantissent un niveau au moins équivalent de protection de la santé aux travailleurs concernés.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

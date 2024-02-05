@@ -9,3 +9,6 @@ Pendant le délai mentionné au même premier alinéa, l'autorité administrativ
 L'absence de décision dans le délai mentionné au même premier alinéa vaut décision d'agrément.
 
 Dès lors que l'accord de branche a été agréé, aucune contestation ultérieure de la conformité des termes de l'accord de branche aux dispositions légales en vigueur au moment de sa conclusion ne peut avoir pour effet de remettre en cause les exonérations fiscales et sociales attachées aux avantages accordés aux salariés des entreprises qui adhèrent à l'accord de branche par accord d'entreprise ou, le cas échéant, pour les entreprises de moins de cinquante salariés et dans les conditions de l'article L. 2232-10-1, par document unilatéral de l'employeur.
+
+NOTA:
+Conformément au IX de l’article 5 de la loi n° 2022-1158 du 16 août 2022, ces dispositions sont applicables aux accords et règlements déposés à compter du 1er janvier 2023.

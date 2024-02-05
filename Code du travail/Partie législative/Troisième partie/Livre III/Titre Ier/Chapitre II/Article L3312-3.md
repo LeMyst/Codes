@@ -11,3 +11,6 @@ Dans les entreprises employant au moins un salarié et moins de deux cent cinqua
 Toutefois, un accord d'intéressement ne peut être conclu dans une entreprise dont l'effectif est limité à un salarié si celui-ci a également la qualité de président, directeur général, gérant ou membre du directoire.
 
 Par dérogation à l'avant-dernier alinéa de l'article L. 3311-1 du présent code, le II de l'article L. 130-1 du code la sécurité sociale ne s'applique pas au franchissement du seuil d'un salarié.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

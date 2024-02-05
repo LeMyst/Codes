@@ -19,3 +19,6 @@ Ces montants sont doublés en cas de récidive de refus ou de silence gardé du 
 Sans préjudice des autres dispositions législatives applicables en matière d'échanges d'informations, le droit de communication défini au présent article est exercé dans les conditions prévues et auprès des personnes mentionnées à la section I du chapitre II du titre II du livre des procédures fiscales, à l'exception des personnes mentionnées aux articles L. 82 C, L. 83 A à L. 83 E, L. 84 à L. 84 E, L. 89 à L. 91, L. 95, L. 96, L. 96 B à L. 96 CA, L. 96 F à L. 96 H et L. 96 J du même livre.
 
 Lorsqu'une procédure de recouvrement ou de suppression totale ou partielle d'une allocation, d'une aide ou de toute autre prestation est engagée à l'encontre d'une personne physique ou morale, suite à l'usage du droit mentionné au premier alinéa du présent article, l'opérateur France Travail est tenu d'informer cette personne de la teneur et de l'origine des informations et documents obtenus auprès de tiers sur lesquels est fondée cette décision. Il communique une copie des documents mentionnés au présent alinéa à la personne qui en fait la demande.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

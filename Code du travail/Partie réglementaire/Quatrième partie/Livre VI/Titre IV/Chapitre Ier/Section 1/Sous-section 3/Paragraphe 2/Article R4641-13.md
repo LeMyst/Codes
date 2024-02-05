@@ -9,3 +9,6 @@ Les quatre premières commissions spécialisées formées au sein du Conseil d'o
 3° Une commission spécialisée relative à la prévention des risques liés à la conception et à l'utilisation des équipements de travail, des équipements de protection individuelle et des locaux et lieux de travail temporaires ;
 
 4° Une commission spécialisée relative aux pathologies professionnelles. Elle est notamment compétente sur les questions relatives à la connaissance de l'origine professionnelle des pathologies, aux maladies professionnelles et à l'articulation entre la réparation et la prévention des pathologies professionnelles.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

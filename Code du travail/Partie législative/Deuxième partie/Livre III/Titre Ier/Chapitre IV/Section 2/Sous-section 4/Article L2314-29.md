@@ -9,3 +9,6 @@ Lorsque le nom d'un candidat a été raturé, les ratures ne sont pas prises en 
 Dans ce cas, les candidats sont proclamés élus dans l'ordre de présentation.
 
 Après la proclamation des résultats, l'employeur transmet, dans les meilleurs délais, par tout moyen, une copie des procès-verbaux aux organisations syndicales de salariés qui ont présenté des listes de candidats aux scrutins concernés ainsi qu'à celles ayant participé à la négociation du protocole d'accord préélectoral.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

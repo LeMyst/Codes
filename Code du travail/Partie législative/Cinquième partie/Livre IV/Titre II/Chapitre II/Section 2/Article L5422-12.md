@@ -15,3 +15,6 @@ Le taux de contribution de chaque employeur peut être minoré ou majoré en fon
 5° Du secteur d'activité de l'entreprise.
 
 Les données nécessaires à la détermination du nombre mentionné au 1° du présent article, y compris celles relatives aux personnes concernées par les fins de contrat prises en compte qui sont inscrites sur la liste des demandeurs d'emploi, peuvent être communiquées à l'employeur par les organismes chargés du recouvrement des contributions d'assurance chômage, dans des conditions prévues par décret.
+
+NOTA:
+Conformément au II de l’article 5 de la loi n°2022-1598 du 21 décembre 2022, ces dispositions sont applicables aux taux notifiés aux employeurs pour les périodes courant à compter du 1er septembre 2022.

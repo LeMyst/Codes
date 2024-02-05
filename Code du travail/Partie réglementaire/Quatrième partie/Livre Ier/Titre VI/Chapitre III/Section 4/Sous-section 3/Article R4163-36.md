@@ -7,3 +7,6 @@ L'accusé de réception envoyé par l'organisme gestionnaire au salarié indique
 Le délai de six mois est porté à neuf mois lorsque l'organisme gestionnaire estime nécessaire de procéder à un contrôle sur place de l'effectivité ou de l'ampleur de l'exposition. Il en informe alors l'assuré par tout moyen permettant d'en attester la date de réception.
 
 Le salarié peut saisir le tribunal judiciaire spécialement désigné dans le délai de deux mois suivant la notification de la décision de rejet explicite de l'organisme gestionnaire ou la date de la décision implicite de rejet.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

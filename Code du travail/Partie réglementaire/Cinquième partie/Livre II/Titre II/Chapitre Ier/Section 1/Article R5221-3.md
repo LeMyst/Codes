@@ -17,3 +17,6 @@ II.-L'étranger titulaire de l'un des documents de séjour suivants doit obtenir
 1° La carte de séjour temporaire ou pluriannuelle portant la mention “ étudiant ” ou “ étudiant-programme de mobilité ”, délivrée en application des articles L. 422-1, L. 422-2, L. 422-5, L. 422-6 et L. 433-4 du même code ainsi que le visa de long séjour valant titre de séjour portant la mention “ étudiant ” ou “ étudiant-programme de mobilité ” mentionné au 13° de l'article R. 431-16 du même code, pour une activité salariée d'une durée supérieure à 60 % de la durée annuelle de travail (964 heures) en lien avec son cursus ;
 
 2° L'attestation délivrée au demandeur d'asile, lorsque les conditions d'accès au marché du travail prévues par les articles L. 554-1 à L. 554-4 du même code sont remplies.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2021-360 du 31 mars 2021, ces dispositions entrent en vigueur le 1er mai 2021.

@@ -27,3 +27,7 @@ Les modalités de gestion et de répartition de ce versement unique font l'objet
 Nonobstant les dispositions de l'article L. 242-5 du code de la sécurité sociale, le taux de cotisation due au titre des accidents du travail et des maladies professionnelles est fixé chaque année par décret uniformément, quelle que soit la catégorie de risques dont relève l'établissement.
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 :\
+Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeure en vigueur, dans sa rédaction en vigueur à la date de publication de la présente ordonnance, le douzième alinéa de l'article L812-1.

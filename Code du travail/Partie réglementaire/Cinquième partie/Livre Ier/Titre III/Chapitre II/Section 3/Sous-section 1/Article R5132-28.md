@@ -29,3 +29,6 @@ g) Lorsque l'activité est réalisée dans un établissement pénitentiaire, le 
 6° La nature et le montant des aides publiques et privées dont l'organisme conventionné est susceptible de bénéficier pour réaliser des ateliers et chantiers d'insertion et, pour ceux qui ont une activité de commercialisation, le montant des ressources tirées de la commercialisation des biens et services produits ;
 
 7° Les modalités de suivi, de contrôle et d'évaluation de la convention.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021

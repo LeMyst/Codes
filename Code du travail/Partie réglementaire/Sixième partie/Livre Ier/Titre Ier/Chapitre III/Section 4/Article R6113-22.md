@@ -25,3 +25,6 @@ d) Trois représentants désignés, pour chaque commission professionnelle consu
 Pour chaque membre titulaire de la commission, un suppléant est désigné et nommé dans les mêmes conditions.
 
 Les commissions professionnelles consultatives sont présidées alternativement, pour la moitié de la durée pour laquelle les membres de la commission ont été nommés, par un membre élu par et parmi les membres mentionnés au 1° et par un membre élu par et parmi les membres mentionnés aux 2° et 3°.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2021-389 du 2 avril 2021, ces dispositions sont applicables à compter du 1er septembre 2021.

@@ -5,3 +5,6 @@ Lorsque le comité social et économique dépasse, pour au moins deux des trois 
 Le comité social et économique tenu d'établir des comptes consolidés nomme deux commissaires aux comptes en application de l'article L. 821-41 du code de commerce.
 
 Le coût de la certification des comptes est pris en charge par le comité social et économique sur sa subvention de fonctionnement.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

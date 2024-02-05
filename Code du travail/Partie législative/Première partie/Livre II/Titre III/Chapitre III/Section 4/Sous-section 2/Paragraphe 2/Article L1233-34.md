@@ -9,3 +9,6 @@ L'expert peut être assisté dans les conditions prévues à l'article L. 2315-8
 Le comité social et économique peut également mandater un expert afin qu'il apporte toute analyse utile aux organisations syndicales pour mener la négociation prévue à l'article L. 1233-24-1.
 
 Le rapport de l'expert est remis au comité social et économique et, le cas échéant, aux organisations syndicales, au plus tard quinze jours avant l'expiration du délai mentionné à l'article L. 1233-30.
+
+NOTA:
+Conformément à l'article 40-VI de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux procédures de licenciement économique engagées dans les entreprises ayant mis en place un comité social et économique.

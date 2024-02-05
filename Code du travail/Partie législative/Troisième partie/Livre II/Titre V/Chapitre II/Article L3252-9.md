@@ -7,3 +7,6 @@ Le tiers saisi fait connaître :
 2° Les cessions, saisies, saisies administratives à tiers détenteur ou paiement direct de créances d'aliments en cours d'exécution.
 
 Le tiers employeur saisi qui s'abstient sans motif légitime de faire cette déclaration ou fait une déclaration mensongère peut être condamné par le juge au paiement d'une amende civile sans préjudice d'une condamnation à des dommages et intérêts et de l'application des dispositions du deuxième alinéa de l'article L. 3252-10.
+
+NOTA:
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.

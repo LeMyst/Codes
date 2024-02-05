@@ -7,3 +7,6 @@ Du fait de l'aménagement de leurs conditions d'indemnisation prévu au présent
 La contribution spécifique mentionnée au deuxième alinéa est applicable à compter du 1er septembre 2002.
 
 La contribution spécifique est recouvrée et contrôlée selon les règles applicables aux contributions mentionnées à l'article L. 351-3-1. Les différends relatifs au recouvrement de cette contribution suivent les règles de compétence prévues à l'article L. 351-5-1.
+
+NOTA:
+Loi n° 2008-126 du 13 février 2008 articles 5 III et 14 IV 2 : les dispositions introduites par l'article 14 IV 2 de la présente loi entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2012. (vigueur différée)

@@ -17,3 +17,6 @@ L'accord n'ouvre droit au régime social et fiscal prévu au chapitre V que si l
 L'accord précise le plafond retenu.
 
 Par dérogation au dernier alinéa de l'article L. 3321-1, le II de l'article L. 130-1 du code de la sécurité sociale ne s'applique pas au franchissement du seuil d'un salarié.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

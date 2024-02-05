@@ -19,3 +19,6 @@ d) Par la caisse de prévoyance sociale prévue par l'ordonnance n° 77-1102 du 
 e) Par l'opérateur France Travail, lorsqu'elles sont dues au titre des salariés engagés à titre temporaire qui relèvent des professions de la production cinématographique, de l'audiovisuel ou du spectacle et lorsque l'activité exercée bénéficie de l'aménagement des conditions d'indemnisation mentionné à l'article L. 5424-20 ;
 
 f) Par la caisse de sécurité sociale prévue par l'ordonnance n° 96-1122 du 20 décembre 1996, relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la Caisse de sécurité sociale de Mayotte, lorsqu'elles sont dues au titre de l'emploi de salariés à Mayotte.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

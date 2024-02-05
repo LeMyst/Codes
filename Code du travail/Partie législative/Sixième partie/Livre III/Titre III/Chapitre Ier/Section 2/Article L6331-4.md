@@ -11,3 +11,6 @@ La contribution mentionnée à l'article L. 6331-3 est dédiée au financement :
 4° De la formation des demandeurs d'emploi ;
 
 5° Du compte personnel de formation.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

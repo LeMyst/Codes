@@ -9,3 +9,6 @@ Un demandeur d'emploi peut ouvrir un passeport de prévention et y inscrire les 
 Lorsque le travailleur ou le demandeur d'emploi dispose d'un passeport d'orientation, de formation et de compétences prévu au second alinéa du II de l'article L. 6323-8 du présent code, son passeport de prévention y est intégré. Il est mis en œuvre et géré selon les mêmes modalités.
 
 Les modalités de mise en œuvre du passeport de prévention et de sa mise à la disposition de l'employeur sont déterminées par le comité national de prévention et de santé au travail et approuvées par voie réglementaire. En l'absence de décision du comité à l'issue d'un délai de six mois à compter de la publication du décret en Conseil d'Etat prévu au dernier alinéa de l'article L. 4641-2-1, ces modalités sont déterminées par décret en Conseil d'Etat. Le comité national de prévention et de santé au travail assure également le suivi du déploiement du passeport de prévention.
+
+NOTA:
+Conformément au II de l’article 6 de la loi n° 2021-1018 du 2 août 2021, les quatre premiers alinéas entrent en vigueur à une date fixée par décret, et au plus tard le 1er octobre 2022.

@@ -15,3 +15,6 @@ Les entreprises de travail temporaire qui détachent un salarié sur le territoi
 6° Le cas échéant, l'adresse du ou des lieux d'hébergement collectif successifs des salariés ;
 
 7° L'Etat auquel est attachée la législation de sécurité sociale dont relève chacun des salariés mis à disposition au titre de l'activité qu'il réalise en France et, s'il s'agit d'un Etat autre que la France, la mention de la demande d'un formulaire concernant la législation de sécurité sociale applicable à l'institution compétente.
+
+NOTA:
+Conformément à l’article 1 du décret n° 2023-217 ainsi qu’à l’article 1 de l’arrêté du 28 mars 2023 (NOR : MTRT2308349A), ces dispositions entrent en vigueur le 30 mars 2023.

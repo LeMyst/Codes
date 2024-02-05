@@ -13,3 +13,6 @@ Les éléments nécessaires au développement de la prévention ainsi qu'à la c
 Lorsque le travailleur relève de plusieurs services de prévention et de santé au travail ou cesse de relever d'un de ces services, son dossier médical en santé au travail est accessible au service compétent pour assurer la continuité du suivi, sauf refus du travailleur.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités de mise en œuvre du présent article.
+
+NOTA:
+Conformément au III de l’article 16 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2024.

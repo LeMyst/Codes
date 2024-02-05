@@ -5,3 +5,6 @@ Le médecin du travail est informé dans les meilleurs délais par le chef d'ét
 Il établit, s'il l'estime nécessaire, un rapport sur les mesures à prendre pour éviter la répétition de tels faits. Ce rapport est adressé au comité social et économique ainsi qu'au chef d'établissement qui en adresse copie à l'autorité de tutelle, et il est tenu à la disposition de l'agent de contrôle de l'inspection du travail et du médecin agent de contrôle de l'inspection du travail.
 
 Le médecin du travail est également informé de la saisine du conseil médical. Il rédige un rapport dans les conditions précisées à l'article 9 du décret n° 88-386 du 19 avril 1988 modifié relatif aux conditions d'aptitude physique et aux congés de maladie des agents de la fonction publique hospitalière.
+
+NOTA:
+Conformément à l’article 23 du décret n° 2022-630 du 22 avril 2022, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication. Elles s'appliquent aux procédures de reclassement et aux périodes de préparation au reclassement engagées à la date de son entrée en vigueur.

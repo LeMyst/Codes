@@ -9,3 +9,6 @@ Cette aide comprend un montant socle et un montant modulé. Le montant modulé e
 -des actions et des moyens d'insertion mis en œuvre ;
 
 -des résultats constatés à la sortie de la structure.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

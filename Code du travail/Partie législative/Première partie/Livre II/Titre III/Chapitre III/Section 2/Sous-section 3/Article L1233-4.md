@@ -9,3 +9,10 @@ Le reclassement du salarié s'effectue sur un emploi relevant de la même catég
 L'employeur adresse de manière personnalisée les offres de reclassement à chaque salarié ou diffuse par tout moyen une liste des postes disponibles à l'ensemble des salariés, dans des conditions précisées par décret.
 
 Les offres de reclassement proposées au salarié sont écrites et précises.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2017-1387 du 22 septembre 2017 :
+
+V.- Ces dispositions sont applicables aux procédures de licenciement économique engagées après la publication de ladite ordonnance.
+
+X. - Les dispositions nécessitant des mesures d'application entrent en vigueur à la date de publication des décrets d'application, et au plus tard le 1er janvier 2018.

@@ -15,3 +15,6 @@ L'indemnité nette versée par l'employeur ne peut excéder la rémunération ne
 Pour les salariés des entreprises de travail temporaire régis par le chapitre premier du titre V du livre II de la première partie du présent code, à l'exception de ceux mentionnés à l'article L. 1251-58-1, et pour les salariés mentionnés à l'article L. 3123-1, le taux horaire de l'indemnité d'activité partielle ne peut être inférieur au taux horaire du salaire minimum interprofessionnel de croissance, sous réserve des dispositions du dernier alinéa.
 
 Lorsque le taux horaire de rémunération d'un salarié mentionné au précédent alinéa est inférieur au taux horaire du salaire minimum interprofessionnel de croissance, le taux horaire de l'indemnité d'activité partielle qui lui est versée est égal à son taux horaire de rémunération.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2022-1665 du 27 décembre 2022, ces dispositions s'appliquent au titre des heures chômées à compter du 1er janvier 2023.

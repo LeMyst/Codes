@@ -9,3 +9,6 @@ L'opérateur de compétence prend en charge, dès lors qu'ils sont financés par
 3° Les frais de premier équipement pédagogique nécessaire à l'exécution de la formation sont pris en charge selon un forfait déterminé par l'opérateur de compétences identique pour l'ensemble des centres de formation d'apprentis concernés, établi en fonction de la nature des activités des apprentis, et dans la limite d'un plafond maximal de 500 euros ;
 
 4° Les frais liés à la mobilité internationale des apprentis prévus au 10° de l'article L. 6231-2 sont pris en charge selon un forfait déterminé par l'opérateur de compétences identique pour l'ensemble des centres de formation d'apprentis concernés.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2020-373 du 30 mars 2020, ces dispositions s'appliquent aux contrats conclus à compter du lendemain de la publication dudit décret.

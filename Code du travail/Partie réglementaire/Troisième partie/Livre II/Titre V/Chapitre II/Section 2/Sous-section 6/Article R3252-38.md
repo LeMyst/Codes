@@ -7,3 +7,6 @@ Le comptable adresse au greffe du tribunal une copie de la saisie administrative
 La répartition est effectuée par le greffe conformément aux articles R. 3252-34 à R. 3252-36. A cet effet, la saisie administrative à tiers détenteur relative à une créance non garantie par le privilège du trésor public est assimilée à une intervention.
 
 Le cas échéant, le greffe avise l'employeur que les versements sont désormais effectués à l'ordre du régisseur installé auprès du greffe du tribunal judiciaire ou le cas échéant, de l'une de ses chambres de proximité. Le comptable public informe le greffe de toute extinction, de toute suspension et de toute reprise des effets de la saisie administrative à tiers détenteur relative à une créance non garantie par le privilège du trésor public.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

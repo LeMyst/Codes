@@ -17,3 +17,6 @@ Elle précise notamment :
 5° Les conditions dans lesquelles les actions de l'institution sont évaluées à partir d'indicateurs de performance qu'elle définit.
 
 Un comité de suivi veille à l'application de la convention et en évalue la mise en œuvre. Il s'assure que les conditions de mise en œuvre de la convention sont cohérentes avec les orientations du Comité national pour l'emploi mentionné à l'article L. 5311-9.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -91,3 +91,6 @@ Elle peut être mineure ou majeure. La non-conformité mineure est la prise en c
 4. Modalités de certification d'un organisme disposant d'une certification ou d'une labellisation de qualité des actions concourant au développement des compétences
 
 Les modalités de l'audit initial de certification d'un organisme disposant d'une certification ou d'une labellisation de qualité des actions concourant au développement des compétences obtenue en application de l'article R. 6316-3 du code du travail dans sa rédaction antérieure à l'entrée en vigueur du décret n° 2018-1262 du 26 décembre 2018 relatif à la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle, et en cours de validité au moment de sa demande de certification, sont précisées par arrêté du ministre chargé de la formation professionnelle.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-565 du 6 juin 2019, ces dispositions s'appliquent à la certification mentionnée au 2° du I de l'article 6 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, obligatoire à compter du 1er janvier 2021.

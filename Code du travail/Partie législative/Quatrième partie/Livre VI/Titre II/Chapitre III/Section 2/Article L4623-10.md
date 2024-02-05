@@ -9,3 +9,6 @@ Si l'infirmier n'a pas suivi une formation en santé au travail, l'employeur l'y
 L'employeur favorise la formation continue des infirmiers en santé au travail qu'il recrute.
 
 Les tâches qui sont déléguées à l'infirmier de santé au travail prennent en compte ses qualifications complémentaires.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le IV de l’article 34 de la loi susmentionnée.

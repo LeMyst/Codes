@@ -11,3 +11,6 @@ Le comité social et économique est informé et consulté :
 4° Lors d'une procédure de liquidation judiciaire, dans les situations et conditions prévues au I de l'article L. 641-1, à l'article L. 641-4, au troisième alinéa de l'article L. 641-10, aux premier et avant-dernier alinéas de l'article L. 642-5 et au deuxième alinéa de l'article L. 642-9 du code de commerce.
 
 En cas de licenciements économiques prononcés dans les cas prévus aux 3° et 4°, le comité est réuni et consulté dans les conditions prévues à l'article L. 1233-58 du présent code.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

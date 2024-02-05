@@ -5,3 +5,6 @@ En cas de contestation portant sur les avis, propositions, conclusions écrites 
 Le conseil de prud'hommes statue selon la procédure accélérée au fond dans les conditions prévues à l'article R. 1455-12.
 
 Le médecin du travail informé de la contestation peut être entendu par le médecin-inspecteur du travail
+
+NOTA:
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité s'appliquent aux demandes introduites à compter du 1er janvier 2020.

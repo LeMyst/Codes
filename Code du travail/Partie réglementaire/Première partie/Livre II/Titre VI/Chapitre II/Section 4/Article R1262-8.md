@@ -7,3 +7,6 @@ Les allocations propres au détachement sont regardées comme faisant partie de 
 2° Lorsque le salarié détaché doit se déplacer vers ou depuis son lieu de travail habituel sur le territoire national ou lorsqu'il est temporairement envoyé par son employeur de ce lieu de travail habituel vers un autre lieu de travail.
 
 Lorsque l'employeur ne justifie pas du versement de tout ou partie de l'allocation propre au détachement au titre de la rémunération ou des dépenses effectivement encourues du fait du détachement en application du contrat de travail ou de la loi qui régit celui-ci, l'intégralité de l'allocation est alors regardée comme payée à titre de remboursement des dépenses et est exclue de la rémunération.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2020-916 du 28 juillet 2020, ces dispositions ne s'appliquent pas aux salariés roulants des entreprises de transport routier mentionnées à l'article L. 1321-1 du code des transports qui restent régis par les dispositions du code du travail dans leur rédaction antérieure au présent décret.

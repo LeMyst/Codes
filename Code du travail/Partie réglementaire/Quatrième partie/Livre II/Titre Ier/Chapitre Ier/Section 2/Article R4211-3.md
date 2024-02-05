@@ -24,3 +24,8 @@ b) Les accès aux machineries d'ascenseurs ;
 c) Les accès aux canalisations en galerie technique, ou en vide sanitaire ;
 
 5° Pour la localisation des espaces d'attente sécurisés au sens des articles R. 4216-2-1, R. 4216-2-2 et R. 4216-2-3, il précise les caractéristiques de ces espaces.
+
+NOTA:
+Décret n° 2011-1461 du 7 novembre 2011, article 9 : Les dispositions du présent décret sont applicables :\
+1° Aux opérations de construction d'un bâtiment neuf ou de construction d'une partie neuve d'un bâtiment existant pour lesquelles une demande de permis de construire ou une déclaration préalable est déposée plus de six mois après la date de publication du présent décret ;\
+2° Aux opérations de construction d'un bâtiment neuf ou de construction d'une partie neuve d'un bâtiment existant ne nécessitant ni permis de construire ni déclaration préalable, dont le début des travaux est postérieur de plus de six mois à la date indiquée ci-dessus.

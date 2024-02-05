@@ -11,3 +11,6 @@ La limite d'âge de vingt-neuf ans révolus n'est pas applicable dans les cas su
 4° Lorsque le contrat d'apprentissage est souscrit par une personne qui a un projet de création ou de reprise d'entreprise dont la réalisation est subordonnée à l'obtention du diplôme ou titre sanctionnant la formation poursuivie ;
 
 5° Lorsque le contrat d'apprentissage est souscrit par une personne inscrite en tant que sportif de haut niveau sur la liste mentionnée au premier alinéa de l'article L. 221-2 du code du sport.
+
+NOTA:
+Conformément à l’article 46 II de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions ne sont pas applicables aux contrats conclus avant le 1er janvier 2019.

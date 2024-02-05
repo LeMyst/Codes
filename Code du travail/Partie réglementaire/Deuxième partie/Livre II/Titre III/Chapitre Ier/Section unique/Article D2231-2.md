@@ -7,3 +7,6 @@ Le dépôt est opéré en deux exemplaires, dont une version sur support papier 
 II.-Les accords de groupe, d'entreprise, d'établissement et interentreprises ainsi que les pièces accompagnant le dépôt prévues aux articles D. 2231-6 et D. 2231-7 sont déposés par le représentant légal du groupe, de l'entreprise ou de l'établissement ou, pour un accord interentreprises, par les représentants légaux de celles-ci.
 
 III.-Le déposant remet également un exemplaire de chaque convention ou accord au greffe du conseil de prud'hommes du lieu de conclusion.
+
+NOTA:
+Conformément aux dispositions de l'article 2 du décret n° 2018-362 du 15 mai 2018, ces dispositions sont applicables aux conventions et accords conclus à compter du 1er septembre 2017.

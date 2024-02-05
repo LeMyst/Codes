@@ -17,3 +17,6 @@ La cellule est animée et coordonnée par un médecin du travail ou par un membr
 La cellule remplit ses missions en collaboration avec les professionnels de santé chargés des soins, le service du contrôle médical mentionné à l'article L. 315-1 du code de la sécurité sociale, les organismes locaux et régionaux d'assurance maladie et le service social mentionné au 4° de l'article L. 215-1 du même code, dans le cadre des missions qui leur sont confiées en application du 3° de l'article L. 221-1 et de l'article L. 262-1 dudit code, les acteurs chargés du dispositif d'emploi accompagné défini à l'article L. 5213-2-1 du présent code, les acteurs de la compensation du handicap et les acteurs de la préorientation et de la réadaptation professionnelles mentionnés aux 3° et 4° de l'article L. 5211-2, à l'article L. 5214-3-1 du présent code et au b du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles et les organismes intervenant en matière d'insertion professionnelle.
 
 Elle peut être mutualisée, sur autorisation de l'autorité administrative, entre plusieurs services de prévention et de santé au travail agréés dans la même région.
+
+NOTA:
+Conformément au IV de l’article 19 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 1er janvier 2024.

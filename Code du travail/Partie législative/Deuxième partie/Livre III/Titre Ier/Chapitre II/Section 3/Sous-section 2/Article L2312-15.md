@@ -11,3 +11,6 @@ Le comité peut, s'il estime ne pas disposer d'éléments suffisants, saisir le 
 Cette saisine n'a pas pour effet de prolonger le délai dont dispose le comité pour rendre son avis. Toutefois, en cas de difficultés particulières d'accès aux informations nécessaires à la formulation de l'avis motivé du comité, le juge peut décider la prolongation du délai prévu au deuxième alinéa.
 
 L'employeur rend compte, en la motivant, de la suite donnée aux avis et vœux du comité.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

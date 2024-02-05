@@ -7,3 +7,6 @@ Le Conseil national d'orientation des conditions de travail :
 2° Examine le bilan annuel des conditions de travail établi par les services du ministère chargé du travail, qui comprend le bilan annuel des comités régionaux d'orientation des conditions de travail. Dans ce cadre, il organise un suivi des statistiques sur les conditions de travail et peut réaliser toute étude se rapportant aux conditions de travail ;
 
 3° Participe à la coordination des acteurs intervenant dans ces domaines.
+
+NOTA:
+Se référer au II de l'article 2 du décret n° 2021-1792 du 23 décembre 2021 concernant les modalités d'application.

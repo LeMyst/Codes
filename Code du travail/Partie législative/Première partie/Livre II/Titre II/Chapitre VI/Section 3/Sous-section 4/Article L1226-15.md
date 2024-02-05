@@ -5,3 +5,6 @@ Il en va de même en cas de licenciement prononcé en méconnaissance des dispos
 En cas de refus de réintégration par l'une ou l'autre des parties, le juge octroie une indemnité au salarié dont le montant est fixé conformément aux dispositions de l'article L. 1235-3-1. Elle se cumule avec l'indemnité compensatrice et, le cas échéant, l'indemnité spéciale de licenciement, prévues à l'article L. 1226-14.
 
 Lorsqu'un licenciement est prononcé en méconnaissance des dispositions du dernier alinéa de l'article L. 1226-12, il est fait application des dispositions prévues par l'article L. 1235-2 en cas d'inobservation de la procédure de licenciement.
+
+NOTA:
+Conformément à l'article 40-I de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux licenciements prononcés postérieurement à la publication de ladite ordonnance.

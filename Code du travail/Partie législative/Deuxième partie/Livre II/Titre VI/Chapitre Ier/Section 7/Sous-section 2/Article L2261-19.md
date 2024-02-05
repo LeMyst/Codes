@@ -5,3 +5,6 @@ Pour pouvoir être étendus, la convention de branche ou l'accord professionnel 
 Cette commission est composée de représentants des organisations syndicales d'employeurs et de salariés représentatives dans le champ d'application considéré.
 
 Pour pouvoir être étendus, la convention de branche ou l'accord professionnel ou interprofessionnel, leurs avenants ou annexes, ne doivent pas avoir fait l'objet dans un délai d'un mois à compter de la publication par l'autorité administrative d'un avis d'extension au Journal officiel de la République française, de l'opposition écrite et motivée d'une ou de plusieurs organisations professionnelles d'employeurs reconnues représentatives au niveau considéré dont les entreprises adhérentes emploient plus de 50 % de l'ensemble des salariés des entreprises adhérant aux organisations professionnelles d'employeurs reconnues représentatives à ce niveau. Cette opposition est notifiée et déposée dans les conditions prévues par les articles L. 2231-5 et L. 2231-6.
+
+NOTA:
+Ordonnance n° 2017-1388 du 22 septembre 2017, article 5 : Les conventions et accords conclus antérieurement au 1er janvier 2018 demeurent régis, pour leur extension, par les dispositions des articles L. 2261-19 et L. 2261-25 du code du travail dans leur rédaction antérieure à la présente ordonnance.

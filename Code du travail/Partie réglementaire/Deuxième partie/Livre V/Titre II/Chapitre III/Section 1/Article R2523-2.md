@@ -5,3 +5,6 @@ La liste des médiateurs appelés à être désignés par le ministre chargé du
 Les organisations d'employeurs et de salariés représentatives au niveau national disposent d'un délai d'un mois pour présenter leurs observations sur cette liste.
 
 Elle est publiée au Journal officiel de la République française après la consultation.
+
+NOTA:
+Conformément à l'article 19 du décret n° 2019-1379 du 18 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

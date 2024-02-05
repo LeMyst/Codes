@@ -17,3 +17,6 @@ Ce comité a notamment pour missions :
 Pour l'exercice des missions prévues aux 3° à 5° du présent article, les délibérations sont adoptées par les seuls représentants des organisations professionnelles d'employeurs et des organisations syndicales de salariés mentionnés au premier alinéa, dans des conditions définies par voie réglementaire.
 
 Un décret en Conseil d'Etat détermine les missions, la composition, l'organisation et le fonctionnement du comité national de prévention et de santé au travail.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

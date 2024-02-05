@@ -33,3 +33,6 @@ a) Huit personnes physiques désignées par arrêté préfectoral ;
 b) Deux représentants de personnes morales désignés par arrêté préfectoral.
 
 Ce collège comporte au moins une personne spécialiste en médecine du travail.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

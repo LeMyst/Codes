@@ -19,3 +19,6 @@ Après consultation du conseil départemental de l'insertion par l'activité éc
 8° Un établissement d'enseignement professionnel et d'enseignement agricole de l'Etat ;
 
 9° L'Office national des forêts.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021

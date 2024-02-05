@@ -13,3 +13,6 @@ Il peut également porter sur :
 4° Le nombre de suppressions d'emploi et les catégories professionnelles concernées ;
 
 5° Les modalités de mise en œuvre des mesures de formation, d'adaptation et de reclassement prévues à l'article L. 1233-4.
+
+NOTA:
+Conformément à l'article 40-VI de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux procédures de licenciement économique engagées dans les entreprises ayant mis en place un comité social et économique.

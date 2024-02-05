@@ -15,3 +15,6 @@ Pour l'application de la présente partie à Saint-Pierre-et-Miquelon et en l'ab
 6° Les références au département ou à la région sont remplacées par celles de Saint-Pierre-et-Miquelon ;
 
 7° Les références à la caisse régionale d'assurance maladie sont remplacées par celles de la caisse de prévoyance sociale.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

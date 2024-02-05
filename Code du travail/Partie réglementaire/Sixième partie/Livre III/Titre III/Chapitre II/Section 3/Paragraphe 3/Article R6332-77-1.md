@@ -11,3 +11,6 @@ Les disponibilités excédant les montants dont le fonds d'assurance formation d
 Le fonds d'assurance formation de non-salariés transmet à France compétences le bilan comptable de l'exercice pour lequel un excédent financier est déterminé, accompagné du rapport du commissaire aux comptes et des pièces justifiant la situation de trésorerie de la structure, avec le versement correspondant. Ces documents sont également transmis au ministre chargé de la formation professionnelle.
 
 A défaut, il est fait application de la procédure prévue par les articles L. 6362-8 à L. 6362-12.
+
+NOTA:
+Conformément au II de l’article 5 du décret n° 2022-956 du 29 juin 2022, ces dispositions s'appliquent au calcul des disponibilités constatées à compter du 1er janvier 2023.

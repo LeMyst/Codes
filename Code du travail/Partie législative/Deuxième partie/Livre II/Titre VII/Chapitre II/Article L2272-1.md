@@ -5,3 +5,6 @@ La Commission nationale de la négociation collective, de l'emploi et de la form
 Lorsqu'elle est consultée dans le domaine de la politique de l'emploi, de l'orientation et de la formation professionnelle initiale et continue et sur les documents mentionnés au 10° de l'article L. 2271-1, elle comprend également des représentants des régions, des départements et des collectivités ultra-marines.
 
 Lorsqu'elle est consultée sur les dispositifs d'intéressement, de participation et d'épargne salariale, elle comprend également des personnalités choisies en raison de leur compétence et de leur expérience.
+
+NOTA:
+Conformément au II de l’article 148 de la loi n° 2020-1525 du 7 décembre 2020, les présentes dispositions entrent en vigueur le premier jour du sixième mois qui suit celui de la publication de la présente loi.

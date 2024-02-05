@@ -17,3 +17,6 @@ S'il le juge nécessaire, le président des formations consultatives peut procé
 Le président de chaque formation du Conseil d'orientation des conditions de travail peut, dans le cadre des attributions de celle-ci, constituer et mandater des groupes de travail et faire appel à des experts afin d'apporter un avis technique sur une question particulière, formuler des recommandations ou diligenter des études. Dotés d'un mandat et d'un calendrier prévisionnel, ces groupes rapportent le résultat de leurs travaux devant la formation qui les a mandatés.
 
 La participation aux réunions du Conseil d'orientation des conditions de travail ouvre droit aux indemnités pour frais de déplacement et de séjour dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1792 du 23 décembre 2021, ces dispositions entrent en vigueur le 31 mars 2022.

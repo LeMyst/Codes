@@ -21,3 +21,6 @@ Il assure le pilotage des directions régionales mentionnées à l'article R. 46
 Il représente l'établissement en justice et dans tous les actes de la vie civile et dans ses rapports avec les tiers. Il passe, au nom de l'établissement, les contrats, les marchés et conventions ainsi que les actes d'acquisition et de vente et les transactions, sous réserve des attributions conférées au conseil d'administration par l'article R. 4642-4.
 
 Il est assisté d'un secrétaire général qui le supplée en cas d'absence ou d'empêchement. Il peut déléguer sa signature aux agents placés sous son autorité.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-624 du 22 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -11,3 +11,6 @@ Ces allocations sont à la charge de l'Etat. Leur gestion est assuré par l'opé
 Ces allocations sont cessibles et saisissables dans les mêmes conditions et limites que les salaires.
 
 Un décret détermine les modalités d'application du présent article.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

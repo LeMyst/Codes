@@ -7,3 +7,6 @@ Sont revalorisés le 1er avril de chaque année par application du coefficient m
 2° Les montants minimum et maximum des rémunérations de l'ensemble des stages mentionnés aux 2° et 3° de l'article L. 6341-2 et à l'article L. 6341-3, ainsi que ceux mentionnés à l'article R. 6341-32-2 ;
 
 3° Le montant des acomptes mensuels versés en application de l'article R. 6341-40.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-477 du 4 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -9,3 +9,6 @@ Les dispositions du présent titre sont également applicables aux sociétés, g
 Un décret en Conseil d'Etat peut déterminer les sociétés, groupements ou personnes morales, quel que soit leur statut juridique, dont plus de la moitié du capital est détenue, ensemble ou séparément, indirectement par l'Etat et directement ou indirectement par ses établissements publics, bénéficiant de subventions d'exploitation, étant en situation de monopole ou soumis à des prix réglementés, qui sont soumis aux dispositions du présent titre. Ce décret fixe les conditions dans lesquelles ces dispositions leur sont applicables.
 
 Lorsque, dans le présent titre, il est fait référence à l'effectif salarié, cet effectif et le franchissement du seuil sont déterminés au niveau de l'entreprise ou de l'unité économique et sociale selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
+
+NOTA:
+Conformément aux dispositions du VII de l'article 155 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le 1er janvier 2019.

@@ -27,3 +27,6 @@ a) (Abrogé)
 b) L'agrément des accords d'assurance chômage mentionnés à l'article L. 5422-20 ;
 
 c) Les plans de formations organisés par l'Etat en application des I et II de l'article L. 6122-1.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

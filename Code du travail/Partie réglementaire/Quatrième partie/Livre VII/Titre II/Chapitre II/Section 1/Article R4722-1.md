@@ -3,3 +3,10 @@
 L'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 peut demander à l'employeur de faire procéder par un organisme accrédité ou, à défaut d'organisme accrédité, par un organisme désigné par arrêté des ministres chargé du travail et de l'agriculture, aux contrôles et aux mesures permettant de vérifier la conformité de l'aération et de l'assainissement des locaux de travail avec les dispositions des articles R. 4222-6 à R. 4222-17, R. 4222-20 et R. 4222-21.
 
 Il fixe le délai dans lequel cet organisme doit être saisi.
+
+NOTA:
+Conformément au I de l'article 5 du décret n° 2020-88 du 5 février 2020, les dispositions résultant du 9° de l'article 1er entrent en vigueur à la date de publication de l'arrêté prévu à l'article R. 4724-2 et au plus tard le 30 juin 2021.
+
+Jusqu'à cette date, les agréments demandés au titre de l'article R. 4722-1 sont accordés par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France dans les conditions définies par un arrêté des ministres chargés du travail et de l'agriculture. Ces agréments prennent fin au plus tard le 31 décembre 2021.
+
+Les organismes agréés à la date de publication du présent décret continuent d'exercer leurs missions jusqu'au 31 décembre 2021.

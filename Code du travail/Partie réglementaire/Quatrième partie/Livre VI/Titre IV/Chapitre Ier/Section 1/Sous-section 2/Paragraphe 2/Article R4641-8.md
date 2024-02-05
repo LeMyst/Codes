@@ -31,3 +31,6 @@ Les délibérations prises en application des 3° à 5° de l'article L. 4641-2-
 -elles recueillent le vote favorable d'une ou plusieurs organisations syndicales de salariés représentatives ayant obtenu, aux élections prises en compte pour la mesure de l'audience prévue au 3° de l'article L. 2122-9, au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et ne font pas l'objet d'une opposition de la part de membres représentant une ou plusieurs organisations syndicales de salariés représentatives ayant obtenu la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants ;
 
 -elles recueillent le vote favorable d'au moins une organisation professionnelle d'employeurs et ne font pas l'objet d'une opposition de la part d'une ou de plusieurs organisations professionnelles d'employeurs dont les entreprises adhérentes emploient plus de 50 % de l'ensemble des salariés des entreprises adhérant aux organisations professionnelles d'employeurs reconnues représentatives au niveau national et interprofessionnel.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022. Se référer au II dudit article concernant les modalités d'application.

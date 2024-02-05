@@ -21,3 +21,6 @@ c) La majoration spéciale pour assistance d'une tierce personne mentionnée à 
 d) La majoration attribuée aux bénéficiaires du 3° de l'article D. 712-15 du code de la sécurité sociale et du 3° du V de l'article 6 du décret n° 60-58 du 11 janvier 1960 relatif au régime de sécurité sociale des agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial ;
 
 e) La majoration mentionnée à l'article L. 133-1 du code des pensions militaires d'invalidité et des victimes de guerre.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-1037 du 22 juillet 2022, ces dispositions s'appliquent aux droits ouverts et aux prestations dues à compter du 1er juillet 2022.

@@ -11,3 +11,6 @@ En cas d'absence ou de carence des organisations de salariés ou d'employeurs se
 Dans les cas prévus aux 1° et 2°, le secteur professionnel ou territorial faisant l'objet de l'arrêté d'élargissement doit présenter des conditions analogues à celles du secteur dans lequel l'extension est déjà intervenue, quant aux emplois exercés.
 
 Lorsque l'élargissement d'une convention ou d'un accord a été édicté conformément aux alinéas précédents, rendre obligatoires leurs avenants ou annexes ultérieurs eux-mêmes étendus dans le ou les secteurs visés par cet élargissement.
+
+NOTA:
+Conformément au II de l’article 148 de la loi n° 2020-1525 du 7 décembre 2020, les présentes dispositions entrent en vigueur le premier jour du sixième mois qui suit celui de la publication de la présente loi.

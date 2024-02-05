@@ -9,3 +9,6 @@ Il favorise l'utilisation efficiente des différents dispositifs en facilitant l
 Il est soumis pour avis au comité régional de l'emploi, de la formation et de l'orientation professionnelles.
 
 Les établissements et services sociaux et médico-sociaux de réadaptation, de préorientation et de rééducation professionnelle mentionnés au b du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles participent au service public régional de la formation professionnelle dans le cadre du programme régional.
+
+NOTA:
+Ces dispositions entrent en vigueur à compter du 1er janvier 2015 sous réserve de l'entrée en vigueur des dispositions relevant de la loi de finances prévues au I de l'article 27 de la loi n° 2014-288 du 5 mars 2014 conformément au paragraphe II dudit article.

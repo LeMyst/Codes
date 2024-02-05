@@ -11,3 +11,6 @@ I.-Un expert-comptable peut être désigné par le comité social et économique
 4° Dans les conditions prévues aux articles L. 2312-42 à L. 2312-52, relatifs aux offres publiques d'acquisition.
 
 II.-Le comité peut également mandater un expert-comptable afin qu'il apporte toute analyse utile aux organisations syndicales pour préparer les négociations prévues aux articles, L. 2254-2 et L. 1233-24-1. Dans ce dernier cas, l'expert est le même que celui désigné en application du 3° du I.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

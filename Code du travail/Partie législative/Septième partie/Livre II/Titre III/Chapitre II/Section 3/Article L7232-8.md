@@ -7,3 +7,6 @@ Elle ne peut bénéficier de nouveau de ces avantages à l'occasion d'une nouvel
 Le contribuable de bonne foi conserve le bénéfice du crédit d'impôt prévu à l'article 199 sexdecies du code général des impôts.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des deux premiers alinéas du présent article.
+
+NOTA:
+Conformément au III de l'article 82 de la loi n° 2016-1917 du 29 décembre 2016, les dispositions du présent article s'appliquent à compter de l'imposition des revenus de l'année 2017.

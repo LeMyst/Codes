@@ -11,3 +11,6 @@ Par dérogation au premier alinéa de l'article 4 de la loi n° 71-1130 du 31 d�
 L'employeur peut également se faire assister ou représenter par un membre de l'entreprise ou de l'établissement fondé de pouvoir ou habilité à cet effet.
 
 Le représentant, s'il n'est pas avocat, doit justifier d'un pouvoir spécial. Devant le bureau de conciliation et d'orientation, cet écrit doit l'autoriser à concilier au nom et pour le compte du mandant, et à prendre part aux mesures d'orientation.
+
+NOTA:
+Conformément à l'article 109 II de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux instances introduites à compter du lendemain de la publication de la présente loi.

@@ -9,3 +9,6 @@ L'employeur qui applique le référentiel de branche pour déterminer l'expositi
 III.-Un décret définit les conditions dans lesquelles l'employeur peut établir la déclaration mentionnée à l'article L. 4163-1 à partir de ces postes, de ces métiers ou de ces situations de travail.
 
 IV.-L'employeur qui applique les stipulations d'un accord de branche étendu ou d'un référentiel professionnel de branche homologué mentionnés au I et au II pour déclarer l'exposition de ses travailleurs ne peut se voir appliquer la pénalité mentionnée au II de l'article L. 4163-16.
+
+NOTA:
+Conformément au III de l'article 5 de l'ordonnance n° 2017-1389 du 22 septembre 2017, jusqu'au 31 décembre 2018, le chapitre III du titre VI du livre Ier de la quatrième partie du code du travail continue à s'appliquer dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance.

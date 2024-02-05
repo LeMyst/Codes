@@ -9,3 +9,6 @@ En cas de cessation de fonctions, pendant le délai de validité de la déclarat
 II.-La personne déclarante ne doit pas avoir fait l'objet d'une décision judiciaire interdisant l'exercice d'une activité commerciale et doit être immatriculée au registre du commerce et des sociétés ou au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat lorsqu'elle est soumise à cette obligation.
 
 III.-La déclaration d'activité d'entreprise de spectacles vivants établit que les obligations en matière de sécurité des lieux de spectacles sont respectées.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

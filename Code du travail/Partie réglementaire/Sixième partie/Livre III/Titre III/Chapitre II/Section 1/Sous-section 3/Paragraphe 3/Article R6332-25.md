@@ -33,3 +33,6 @@ Dans le cas prévu aux articles L. 6222-12-1 et R. 6222-1-1, et après conclusio
 Dans le cas prévu à l'article L. 6222-18-2, l'opérateur de compétences maintient les versements du niveau de prise en charge déterminé à l'article L. 6332-14, et ce jusqu'à la signature d'un nouveau contrat d'apprentissage ou jusqu'à expiration du délai de six mois.
 
 VII.-Les modalités de versement mentionnées au III du présent article peuvent être modifiées par arrêté du ministre chargé de la formation professionnelle.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2020-1739 du 29 décembre 2020 relatif au recouvrement et à la répartition des contributions dédiées au financement de l'apprentissage et de la formation professionnelle, ces dispositions s'appliquent aux contrats d'apprentissage conclus à compter du 1er janvier 2021.

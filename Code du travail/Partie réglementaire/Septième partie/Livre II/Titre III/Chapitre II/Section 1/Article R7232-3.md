@@ -11,3 +11,6 @@ A la demande d'agrément est joint un dossier comprenant :
 4° La liste des sous-traitants ;
 
 Les personnes morales ou entrepreneurs individuels qui sont légalement établis dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen joignent à leur dossier toute information et tout document relatifs à leur situation au regard de la mise en œuvre des obligations prévues, le cas échéant, par la législation applicable dans l'Etat où ils sont établis, en vue de l'examen de leur demande d'agrément.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

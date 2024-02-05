@@ -13,3 +13,6 @@ Les demandes d'enregistrement des projets de certifications et habilitations au 
 5° Le cas échéant, la cohérence des correspondances mises en place par le demandeur avec des blocs de compétences de certifications professionnelles enregistrées dans le répertoire national des certifications professionnelles ;
 
 6° Le cas échéant, les modalités d'association des commissions paritaires nationales de l'emploi de branches professionnelles dans l'élaboration ou la validation des référentiels.
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2021-389 du 2 avril 2021, l'article R. 6113-11, dans sa rédaction issue du a du 5° de l'article 1er, s'applique aux demandes d'enregistrement dans les répertoires nationaux dont la date de transmission au directeur général de France compétences est postérieure au 31 août 2021.

@@ -9,3 +9,6 @@ Cette période peut être prolongée après un bilan établi par l'employeur de 
 La prolongation doit permettre d'achever les actions d'accompagnement et de formation prescrite lors de la demande initiale. Sa durée ne peut excéder la durée de l'action ou de l'atelier et chantier conventionné.
 
 La demande de dérogation intervient soit à l'initiative de l'employeur avant l'embauche, soit à l'initiative du salarié en accord avec son employeur.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

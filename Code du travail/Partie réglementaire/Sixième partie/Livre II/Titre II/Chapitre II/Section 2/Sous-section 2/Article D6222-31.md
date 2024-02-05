@@ -5,3 +5,6 @@ Les montants des rémunérations prévues à la présente sous-section sont majo
 Sous réserve de dispositions contractuelles ou conventionnelles plus favorables, les majorations prévues à la présente sous-section ne peuvent conduire l'apprenti à percevoir un salaire supérieur à 100 % du salaire minimum de croissance.
 
 Les années du contrat exécutées avant que l'apprenti ait atteint l'âge de dix-huit ans ou vingt et un ans ou vingt-six ans sont prises en compte pour le calcul de ces montants de rémunération.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2020-373 du 30 mars 2020, ces dispositions s'appliquent aux contrats conclus à compter du lendemain de la publication dudit décret.

@@ -5,3 +5,6 @@ L'émetteur du titre-mobilité ouvre un compte bancaire ou postal sur lequel son
 Le montant des versements est égal à la valeur libératoire des titres mis en circulation.
 
 Les fonds provenant d'autres sources, notamment des commissions éventuellement perçues par les émetteurs, ne peuvent être versés aux comptes ouverts en application du présent article.
+
+NOTA:
+Conformément au VI de l’article 82 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

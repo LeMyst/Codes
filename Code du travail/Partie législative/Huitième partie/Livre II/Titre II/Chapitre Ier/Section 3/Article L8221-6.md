@@ -13,3 +13,6 @@ II.-L'existence d'un contrat de travail peut toutefois être établie lorsque le
 Dans ce cas, la dissimulation d'emploi salarié est établie si le donneur d'ordre s'est soustrait intentionnellement par ce moyen à l'accomplissement des obligations incombant à l'employeur mentionnées à l'article L. 8221-5.
 
 Le donneur d'ordre qui a fait l'objet d'une condamnation pénale pour travail dissimulé en application du présent II est tenu au paiement des cotisations et contributions sociales à la charge des employeurs, calculées sur les sommes versées aux personnes mentionnées au I au titre de la période pour laquelle la dissimulation d'emploi salarié a été établie.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023

@@ -13,3 +13,6 @@ Le bureau de jugement comprend selon les cas :
 a) La formation du bureau de jugement mentionnée au 1° ou au 2° qui s'est mise en partage de voix, présidée par le juge départiteur ;
 
 b) La formation du bureau de conciliation et d'orientation qui s'est mise en partage de voix, complétée par un conseiller prud'homme employeur et un conseiller prud'homme salarié et présidée par le juge départiteur.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2017-1698 du 15 décembre 2017, les présentes dispositions s'appliquent aux instances en cours dans lesquelles la décision de partage de voix intervient à compter du 1er janvier 2018.

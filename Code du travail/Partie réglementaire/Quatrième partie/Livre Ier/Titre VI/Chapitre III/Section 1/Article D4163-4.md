@@ -7,3 +7,6 @@ L'employeur remet cette fiche au travailleur au terme de chaque année civile. I
 L'employeur conserve par tout moyen les fiches de suivi des expositions de ses salariés pendant cinq ans après l'année à laquelle elles se rapportent.
 
 Dans le cadre du suivi individuel de l'état de santé du travailleur, le professionnel de santé mentionné au premier alinéa de l'article L. 4624-1 peut demander à l'employeur la communication de la fiche individuelle de suivi. Le cas échéant, la fiche individuelle de suivi complète le dossier médical en santé au travail du travailleur.
+
+NOTA:
+Conformément au II de l'article 5 du décret n° 2017-1769 du 27 décembre 2017, jusqu'au 31 décembre 2018, le chapitre III du titre VI du livre Ier de la quatrième partie du code du travail continue à s'appliquer dans sa rédaction antérieure à l'entrée en vigueur du présent décret.

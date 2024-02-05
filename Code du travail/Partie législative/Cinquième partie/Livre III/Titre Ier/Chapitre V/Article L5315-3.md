@@ -7,3 +7,6 @@ Il est administré par un conseil d'administration composé de représentants de
 A l'exception de son président, nommé par décret parmi les personnalités qualifiées, les membres du conseil d'administration sont nommés par arrêté des ministres de tutelle.
 
 Les représentants de l'Etat et des régions disposent chacun d'au plus deux voix.
+
+NOTA:
+Conformément à l'article 9 de l'ordonnance n° 2016-1519 du 10 novembre 2016, ces dispositions entrent en vigueur à la date d'effet de la décision portant dissolution de l'Association nationale pour la formation professionnelle des adultes et au plus tard le 1er janvier 2017.

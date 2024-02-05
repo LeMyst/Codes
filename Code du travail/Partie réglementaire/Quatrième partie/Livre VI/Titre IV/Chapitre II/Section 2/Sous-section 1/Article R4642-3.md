@@ -55,3 +55,6 @@ Les membres du conseil d'administration mentionnés aux 1° et 2° du même I pe
 Les fonctions de membre du conseil d'administration sont incompatibles avec la qualité de membre du conseil scientifique.
 
 En cas de vacance d'un siège du fait de l'empêchement définitif de son titulaire ou de la perte par un membre de la qualité au titre de laquelle il a été désigné, il est procédé à la désignation d'un nouveau membre ou d'un nouveau président dans les conditions prévues au présent article. Le mandat de ce membre ou du président expire dans les mêmes délais que le mandat du membre ou du président qui est remplacé.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-624 du 22 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

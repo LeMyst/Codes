@@ -9,3 +9,6 @@ Les titres de perception sont émis par le ministre chargé du travail.
 L'action en recouvrement du comptable public se prescrit conformément aux dispositions de l'article L. 274 du livre des procédures fiscales.
 
 Le produit de ces sanctions ou amendes est versé au budget général de l'Etat.
+
+NOTA:
+Conformément au A du XI de l'article 160 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2022 et s'appliquent à l'action en recouvrement dont le délai de prescription commence à courir ou dont une cause interruptive de prescription intervient à compter du 1er janvier 2022.

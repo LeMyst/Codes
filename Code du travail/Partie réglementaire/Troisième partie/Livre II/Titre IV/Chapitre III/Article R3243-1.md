@@ -47,3 +47,6 @@ a) Le nombre d'heures indemnisées ;
 b) Le taux appliqué pour le calcul de l'indemnité mentionnée à l'article R. 5122-18 ;
 
 c) Les sommes versées au salarié au titre de la période considérée.
+
+NOTA:
+Conformément au I de l’article 4 du décret n° 2023-1378 du 28 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

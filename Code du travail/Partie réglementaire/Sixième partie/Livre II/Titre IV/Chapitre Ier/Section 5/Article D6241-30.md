@@ -11,3 +11,6 @@ Le centre de formation d'apprentis mentionné au 1° de l'article D. 6241-29 est
 4° Est constitué par plusieurs entreprises partageant des perspectives communes d'évolution des métiers ou qui interviennent dans des secteurs d'activité complémentaires.
 
 Le centre de formation d'apprentis d'entreprise mentionné aux 2°, 3° et 4° adresse la déclaration d'activité dans les conditions prévues aux articles R. 6351-1 à R. 6351-7, accompagnée d'une attestation de l'entreprise précisant la situation du centre de formation en fonction des modalités prévues aux 1° à 4° du présent article.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2020-373 du 30 mars 2020, ces dispositions s'appliquent aux contrats conclus à compter du lendemain de la publication dudit décret.

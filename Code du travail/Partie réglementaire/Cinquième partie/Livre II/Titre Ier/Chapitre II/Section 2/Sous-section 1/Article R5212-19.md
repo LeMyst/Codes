@@ -9,3 +9,6 @@ A défaut de renouvellement de l'agrément, cette autorité adresse à l'employe
 III.-Une copie de cette notification est adressée à l'organisme de recouvrement des cotisations de sécurité sociale dont dépend l'employeur.
 
 Le montant dû est déclaré et versé par l'employeur à l'organisme chargé du recouvrement des cotisations de sécurité sociale. Ce versement est effectué à la première date d'échéance des cotisations et contributions sociales dont il est redevable auprès de cet organisme intervenant à l'issue d'un délai de deux mois suivant la réception de la notification.
+
+NOTA:
+Conformément aux dispositions du I de l'article 3 du décret n° 2019-521 du 27 mai 2019, les dispositions du présent décret entrent en vigueur dans les conditions prévues à l'article 67 de la loi n° 2018-771 du 5 septembre 2018.

@@ -47,3 +47,8 @@ Le modèle de la convention prévue au premier alinéa du présent III est fixé
 La liste des informations relatives aux entreprises redevables communiquées à l'association gestionnaire du fonds paritaire par les organismes chargés du recouvrement est fixée par décret.
 
 Une convention entre l'association gestionnaire du fonds paritaire mentionnée à l'article L. 2135-9 et l'institution mentionnée à l'article L. 6123-5 prévoit les modalités de communication des données relatives aux entreprises redevables de la contribution mentionnée au 4° du I du présent article.
+
+NOTA:
+Conformément au II de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2024 pour les contributions dues à compter de cette date.
+
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

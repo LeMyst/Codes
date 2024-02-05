@@ -7,3 +7,6 @@ Le pourcentage de la contribution ne peut être inférieur à 2 % des rémunéra
 Pour permettre la gestion des droits inscrits ou mentionnés dans le compte personnel de formation de ces salariés, le décret prévu à l'article L. 6323-8 peut prévoir des aménagements spécifiques.
 
 Cette contribution est recouvrée dans les conditions prévues au I de l'article L. 6131-3.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

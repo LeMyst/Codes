@@ -11,3 +11,6 @@ Lorsque l'agent est délégué dans les services d'un conseil ayant son siège d
 Un bilan annuel écrit des délégations prononcées au sein du ressort de la cour d'appel est présenté au comité technique de service déconcentré placé auprès du premier président de cette cour.
 
 Les agents délégués dans une autre juridiction perçoivent des indemnités dans les conditions prévues pour les fonctionnaires de l'Etat.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

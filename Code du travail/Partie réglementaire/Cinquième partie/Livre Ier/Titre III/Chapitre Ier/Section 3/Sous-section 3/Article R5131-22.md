@@ -15,3 +15,6 @@ Sont considérés comme des ressources partiellement déductibles en application
 6° La rémunération perçue dans le cadre d'une action ayant pour objet l'adaptation à la vie active, prévue à l'article R. 345-3 du code de l'action sociale et des familles ;
 
 7° Les sommes perçues au titre de leur participation à un travail destiné à leur insertion sociale par les personnes accueillies dans les organismes d'accueil communautaire et d'activités solidaires mentionnés à l'article L. 265-1 du code de l'action sociale et des familles.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

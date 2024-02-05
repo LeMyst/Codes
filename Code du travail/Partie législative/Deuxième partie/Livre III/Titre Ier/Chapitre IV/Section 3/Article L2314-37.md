@@ -9,3 +9,6 @@ Dans ce cas, le candidat retenu est celui qui vient sur la liste immédiatement 
 A défaut, le remplacement est assuré par le suppléant élu n'appartenant pas à l'organisation du titulaire à remplacer, mais appartenant à la même catégorie et ayant obtenu le plus grand nombre de voix.
 
 Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu'au renouvellement de l'institution.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

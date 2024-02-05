@@ -11,3 +11,6 @@ Lorsque l'accord confie tout ou partie des attributions du comité social et éc
 L'employeur peut se faire assister par des collaborateurs appartenant à l'entreprise et choisis en dehors du comité. Ensemble, ils ne peuvent pas être en nombre supérieur à celui des représentants du personnel titulaires.
 
 Les dispositions de l'article L. 2315-3 relatives au secret professionnel et à l'obligation de discrétion leur sont applicables.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

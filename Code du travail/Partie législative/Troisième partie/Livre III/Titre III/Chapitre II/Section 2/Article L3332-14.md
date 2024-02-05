@@ -5,3 +5,6 @@ Les actions gratuites attribuées aux salariés dans les conditions prévues aux
 La répartition des actions entre les salariés fait l'objet d'un accord d'entreprise. A défaut d'accord, elle fait l'objet d'une décision du conseil d'administration, du directoire ou du chef d'entreprise.
 
 La répartition peut être uniforme, proportionnelle à la durée de présence dans l'entreprise au cours de l'exercice ou proportionnelle aux salaires ou retenir conjointement ces différents critères.
+
+NOTA:
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

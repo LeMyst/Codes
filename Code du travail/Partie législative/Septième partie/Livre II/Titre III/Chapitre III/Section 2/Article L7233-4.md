@@ -9,3 +9,6 @@ L'aide financière du comité social et économique et celle de l'entreprise ver
 3° Des prestations directement liées à la gestion et au fonctionnement du chèque emploi-service et proposées aux salariés par les établissements spécialisés mentionnés à l'article L. 1271-10.
 
 Les dispositions du présent article ne donnent pas lieu à application de l'article L. 131-7 du code de la sécurité sociale.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les présentes dispositions s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

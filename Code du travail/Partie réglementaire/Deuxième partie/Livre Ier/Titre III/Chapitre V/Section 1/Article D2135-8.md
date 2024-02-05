@@ -7,3 +7,6 @@ Ces comptes annuels sont librement consultables.
 Toutefois, les comptes annuels des syndicats professionnels de salariés ou d'employeurs et de leurs unions, et des associations de salariés ou d'employeurs mentionnés à l'article L. 2135-1 dont les ressources, au sens de l'article D. 2135-9, sont inférieures à 23 000 euros à la clôture d'un exercice, ne le sont qu'à la condition que cette consultation ne soit pas susceptible de porter atteinte à la vie privée de leurs membres.
 
 Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi rend anonymes les mentions permettant l'identification des membres avant communication des documents mentionnés au premier alinéa.
+
+NOTA:
+Ces dispositions s'appliquent pour les exercices ouverts à compter du 1er janvier 2015 .

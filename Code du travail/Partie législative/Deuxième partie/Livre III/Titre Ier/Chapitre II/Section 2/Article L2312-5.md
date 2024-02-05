@@ -9,3 +9,6 @@ Elle exerce le droit d'alerte dans les conditions prévues aux articles L. 2312-
 Dans une entreprise en société anonyme, lorsque les membres de la délégation du personnel du comité social et économique présentent des réclamations auxquelles il ne pourrait être donné suite qu'après délibération du conseil d'administration, ils sont reçus par celui-ci, sur leur demande, en présence du directeur ou de son représentant ayant connaissance des réclamations présentées.
 
 Les membres de la délégation du personnel du comité peuvent saisir l'inspection du travail de toutes les plaintes et observations relatives à l'application des dispositions légales dont elle est chargée d'assurer le contrôle.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

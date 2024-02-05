@@ -13,3 +13,7 @@ Les salariés et les entreprises intervenant dans les collectivités de la Répu
 5° Les salariés des entreprises soumises aux dispositions des articles L. 441-1, L. 442-1 et L. 443-1 exerçant leur activité à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques française bénéficient de l'intéressement, de la participation et du plan d'épargne salariale dans les mêmes conditions que les salariés de celles-ci travaillant dans les départements de métropole, d'outre-mer ou à Saint-Pierre-et-Miquelon ;
 
 6° Les dispositions du quatrième alinéa du I de l'article L. 513-3 s'appliquent également aux salariés travaillant dans un département de métropole ou d'outre-mer ou à Saint-Pierre-et-Miquelon et domiciliés à Mayotte, en Nouvelle-Calédonie, en Polynésie française ou à Wallis et Futuna.
+
+NOTA:
+Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 :\
+Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de publication de la présente ordonnance, les dispositions de l'article L800-5, en tant qu'il concerne la Nouvelle-Calédonie et la Polynésie française.

@@ -7,3 +7,6 @@ Le conseiller prud'homme salarié qui exerce l'une des activités énumérées �
 2° Lorsqu'il a cessé son activité professionnelle ;
 
 3° Lorsqu'il est demandeur d'emploi.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2023-1206 du 18 décembre 2023, ces dispositions entrent en vigueur à compter du 1er janvier 2024.

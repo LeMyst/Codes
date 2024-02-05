@@ -9,3 +9,6 @@ Pour bénéficier d'un projet de transition professionnelle dans les conditions 
 3° Le projet de transition professionnelle fait l'objet d'un cofinancement assuré par son employeur. Le montant de ce cofinancement doit correspondre au minimum à un taux fixé par arrêté du ministre chargé de la formation professionnelle.
 
 Pour présenter sa demande, le salarié peut bénéficier d'un accompagnement préalable par l'un des opérateurs financés par l'organisme mentionné à l'article L. 6123-5 au titre du conseil en évolution professionnelle mentionné à l'article L. 6111-6.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -7,3 +7,6 @@ Lorsque l'organisation collective du travail le justifie, en application de l'ar
 2° Les activités réalisées sur les chantiers de travaux publics ;
 
 3° Les activités de création, d'aménagement et d'entretien sur les chantiers d'espaces paysagers.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2018-1139 du 13 décembre 2018, ces dispositions sont applicables aux contrats conclus à partir du 1er janvier 2019.

@@ -7,3 +7,6 @@ Lorsqu'il existe plusieurs adjoints, le directeur de greffe, ou s'il ne peut le 
 A défaut d'adjoint, un chef de service ou un autre agent du greffe est désigné dans les mêmes conditions.
 
 Dans les conseils de prud'hommes mentionnés au deuxième alinéa de l'article L. 123-1 du code de l'organisation judiciaire , la suppléance est assurée conformément aux dispositions de l'article R. 123-8 de ce même code.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

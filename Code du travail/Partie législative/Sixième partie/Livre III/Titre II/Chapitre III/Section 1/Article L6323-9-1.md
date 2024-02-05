@@ -21,3 +21,6 @@ Lorsque les conditions de référencement mentionnées au présent article cesse
 Pour l'application du 3° du présent article, des traitements automatisés de données peuvent être organisés entre la Caisse des dépôts et consignations, les organismes de sécurité sociale chargés du recouvrement des cotisations et contributions de sécurité sociale et l'administration fiscale.
 
 Un décret en Conseil d'Etat précise les modalités de mise en œuvre du présent article.
+
+NOTA:
+Conformément au II de l'article 4 de la loi n° 2022-1587 du 19 décembre 2022, les dispositions du neuvième alinéa sont applicables aux prestataires déjà référencés sur le service dématérialisé mentionné au I de l'article L. 6323-8 du code du travail à la date de publication de ladite loi.

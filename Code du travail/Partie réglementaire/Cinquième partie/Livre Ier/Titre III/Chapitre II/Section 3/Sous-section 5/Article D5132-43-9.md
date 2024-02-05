@@ -5,3 +5,6 @@ Lorsqu'un employeur envisage de conclure des contrats de travail dérogeant, pou
 1° Un document visant à établir que l'atelier et chantier d'insertion porte un projet d'accompagnement renforcé des salariés présentant des difficultés communes particulièrement importantes justifiant le recours à cette dérogation ;
 
 2° Tout document visant à établir les critères de sélection des salariés dans le programme d'accompagnement spécifique qu'il envisage de mettre en œuvre pendant la période dérogatoire.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

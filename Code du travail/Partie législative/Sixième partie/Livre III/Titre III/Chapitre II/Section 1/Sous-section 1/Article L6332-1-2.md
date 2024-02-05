@@ -11,3 +11,8 @@ Elles font l'objet d'un suivi comptable distinct.
 II. - Les opérateurs de compétences peuvent collecter les contributions aux fonds de financement du paritarisme mentionnés au 4° du I de l'article L. 2135-10. Une convention conclue entre l'opérateur de compétences et l'association désignée dans l'accord de la branche professionnelle concernée relatif au financement du paritarisme prévoit les modalités de collecte de cette contribution.
 
 Ces contributions font l'objet d'un suivi comptable distinct et les frais liés à leur recouvrement sont établis séparément.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2024 pour les contributions dues à compter de cette date.
+
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

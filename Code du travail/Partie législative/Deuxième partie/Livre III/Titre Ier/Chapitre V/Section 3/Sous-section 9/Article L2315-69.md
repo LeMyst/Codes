@@ -7,3 +7,6 @@ Lorsque le comité social et économique établit des comptes consolidés, le ra
 Le contenu du rapport, déterminé par décret, varie selon que le comité social et économique relève des I ou II de l'article L. 2315-64 ou de l'article L. 2315-65.
 
 Ce rapport est présenté aux membres élus du comité social et économique lors de la réunion en séance plénière mentionnée à l'article L. 2315-68.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

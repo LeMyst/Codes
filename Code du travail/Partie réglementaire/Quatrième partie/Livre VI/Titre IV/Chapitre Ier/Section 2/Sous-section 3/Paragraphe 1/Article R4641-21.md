@@ -17,3 +17,6 @@ a) Sur le contenu des contrats pluriannuels d'objectifs et de moyens des service
 b) Sur la politique régionale d'agrément prévue à l'article D. 4622-53.
 
 Dans le cadre de son domaine de compétence, le comité régional de prévention et de santé au travail peut, de sa propre initiative, soumettre des propositions et des avis et diligenter des analyses ou des études.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1792, ces dispositions entrent en vigueur le 31 mars 2022.

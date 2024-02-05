@@ -17,3 +17,6 @@ Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8
 7° Les manquements aux articles L. 124-7, L. 124-8, L. 124-10, L. 124-13 et L. 124-14 et à la première phrase du premier alinéa de l'article L. 124-9 du code de l'éducation ;
 
 8° Lorsqu'elles concernent des bâtiments à usage professionnel, les infractions aux dispositions des articles L. 112-2, L. 134-13 et L. 155-2 du code de la construction et de l'habitation ainsi qu'à celles des dispositions réglementaires prises pour leur application.
+
+NOTA:
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.

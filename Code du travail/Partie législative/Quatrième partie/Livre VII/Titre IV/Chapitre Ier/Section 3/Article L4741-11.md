@@ -11,3 +11,6 @@ Dans ce dernier cas, les dépenses mises à la charge de l'entreprise ne peuvent
 Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du travail. S'il y a lieu, celui-ci saisit le juge des référés, qui peut ordonner la fermeture totale ou partielle de l'établissement pendant le temps nécessaire pour assurer cette exécution.
 
 L'employeur qui, dans les délais prévus, n'a pas présenté le plan mentionné au deuxième alinéa ou n'a pas pris les mesures nécessaires à la réalisation du plan arrêté par la juridiction en vertu du troisième alinéa, est puni d'une amende de 18 000 euros ainsi que des peines prévues à l'article L. 4741-14.
+
+NOTA:
+Au premier alinéa, au lieu de 221-19 et 221-20, lire 222-19 et 222-20.

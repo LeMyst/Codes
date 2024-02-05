@@ -5,3 +5,6 @@ Lorsqu'une entreprise est partie à une opération de concentration, telle que d
 Au cours de cette réunion, le comité social et économique ou, le cas échéant, la commission économique peut proposer le recours à un expert-comptable dans les conditions prévues aux articles L. 2315-92 et L. 2315-93. Dans ce cas, le comité ou la commission économique tient une deuxième réunion afin d'entendre les résultats des travaux de l'expert.
 
 Les dispositions du premier alinéa sont réputées satisfaites lorsque le comité social et économique se réunit suite au dépôt d'une offre publique d'acquisition en application des dispositions du sous-paragraphe 5.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

@@ -11,3 +11,6 @@ La décision de l'inspecteur du travail est motivée. Elle est notifiée à l'em
 La décision de l'inspecteur du travail peut faire l'objet d'un recours hiérarchique, dans des conditions définies par voie réglementaire.
 
 La décision prise sur ce recours est notifiée à l'employeur et communiquée, pour information, aux membres du comité social et économique.
+
+NOTA:
+Conformément au VIII de l'article 21 de la loi n° 2018-727 du 10 août 2018, un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment le contenu, les modalités de dépôt et d'avis de réception des demandes ainsi que les conditions et délais dans lesquels il y est répondu.

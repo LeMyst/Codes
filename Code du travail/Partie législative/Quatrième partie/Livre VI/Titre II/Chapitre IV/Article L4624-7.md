@@ -9,3 +9,6 @@ III.-La décision du conseil de prud'hommes se substitue aux avis, propositions,
 IV.-Le conseil de prud'hommes peut décider, par décision motivée, de ne pas mettre tout ou partie des honoraires et frais d'expertise à la charge de la partie perdante, dès lors que l'action en justice n'est pas dilatoire ou abusive. Ces honoraires et frais sont réglés d'après le tarif fixé par un arrêté conjoint des ministres chargés du travail et du budget.
 
 V.-Les conditions et les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

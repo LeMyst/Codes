@@ -15,3 +15,6 @@ Les représentants des employeurs au Conseil supérieur de la prud'homie sont :
 6° Un membre, représentant les employeurs de l'économie sociale, sur proposition de l'Union des employeurs de l'économie sociale et solidaire (UDES) ;
 
 7° (Supprimé).
+
+NOTA:
+Conformément aux dispositions de l'article 2 du décret n° 2017-1267 du 9 août 2017, ces dispositions sont applicables à compter du premier renouvellement des membres du Conseil supérieur de la prud'homie suivant la publication dudit décret.

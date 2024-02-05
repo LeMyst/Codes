@@ -9,3 +9,6 @@ L'agent de contrôle de l'inspection du travail, mentionné à l'article L. 8112
 3° Soit qu'elle n'a pas défini de mesures de correction dans les conditions prévues à l'article L. 1142-9.
 
 Cette mise en demeure est transmise à l'employeur par tout moyen permettant de donner date certaine à sa réception.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-382 du 29 avril 2019, ces dispositions ne s'appliquent qu'aux pénalités notifiées à l'employeur par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi à la suite d'une mise en demeure prévue à l'article R. 2242-3 et intervenue postérieurement à l'entrée en vigueur du présent décret.

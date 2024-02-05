@@ -5,3 +5,6 @@ L'opérateur France Travail est composé d'une direction générale, de directio
 Au sein de chaque direction régionale, une instance paritaire, composée de représentants des employeurs et des salariés désignés par les organisations syndicales d'employeurs et de salariés représentatives au niveau national et interprofessionnel, veille à l'application des accords d'assurance chômage prévus à l'article L. 5422-20, statue dans les cas prévus par ces accords selon les modalités d'examen qu'ils définissent et est consultée sur la programmation des interventions au niveau territorial.
 
 Il peut, en outre, être créé au sein de l'opérateur France Travail, par délibération de son conseil d'administration, des instances paritaires territoriales ou spécifiques exerçant tout ou partie des missions prévues au deuxième alinéa du présent article.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -7,3 +7,6 @@ La durée du congé de reclassement ne peut excéder douze mois, pouvant être p
 Ce congé débute, si nécessaire, par un bilan de compétences qui a vocation à permettre au salarié de définir un projet professionnel et, le cas échéant, de déterminer les actions de formation nécessaires à son reclassement. Celles-ci sont mises en oeuvre pendant la période prévue au premier alinéa.
 
 L'employeur finance l'ensemble de ces actions.
+
+NOTA:
+Conformément au VII de l'article 8 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions s'appliquent aux avantages dus à compter du 1er janvier 2021.

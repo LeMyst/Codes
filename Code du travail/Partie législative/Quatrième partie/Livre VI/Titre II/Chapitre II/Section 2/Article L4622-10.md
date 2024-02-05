@@ -5,3 +5,6 @@ Dans le respect des missions générales prévues à l'article L. 4622-2, de l'o
 Les conventions prévues à l'article L. 422-6 du code de la sécurité sociale sont annexées à ce contrat.
 
 La durée, les conditions de mise en œuvre et les modalités de révision des contrats d'objectifs et de moyens prévus au premier alinéa sont déterminées par décret.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

@@ -34,31 +34,9 @@ Les indicateurs définis à l'article D. 1142-2 sont calculés et évalués selo
 
 4.1. Indicateur relatif à l'écart de rémunération entre les femmes et les hommes
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE
-DE POINTS  |
+| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
 | --- | --- | --- | --- |
-| Ecart de rémunération entre les femmes et les hommes (1° de l'article D. 1142-2)  | a) Les salariés sont répartis en groupe, selon quatre tranches d'âge et par catégorie de postes équivalents.
-Les tranches d'âge sont les suivantes :
--moins de 30 ans ;
--de 30 à 39 ans ;
--de 40 à 49 ans ;
--et 50 ans et plus.
-S'agissant des catégories de postes équivalents, l'employeur peut répartir les salariés, après consultation du comité social et économique, par niveau ou coefficient hiérarchique, en application de la classification de branche ou d'une autre méthode de cotation des postes. La méthode de cotation des postes est adoptée après avis du comité social et économique.
-Si l'employeur ne souhaite pas répartir les salariés par niveau ou coefficient hiérarchique ou selon une autre méthode de cotation des postes, ou si ces méthodes de répartition ne permettent pas de calculer l'indicateur, il répartit les salariés entre les quatre catégories socioprofessionnelles suivantes :
--ouvriers ;
--employés ;
--techniciens et agents de maîtrise ;
--ingénieurs et cadres.
-b) Seuls les groupes comprenant au moins trois hommes et au moins trois femmes sont pris en compte.
-Si, en application de cette règle, le calcul de l'indicateur par niveau ou coefficient hiérarchique, dans les conditions prévues au a), est rendu impossible, au regard du critère défini au paragraphe 5.1, le classement par niveau ou coefficient hiérarchique n'est pas retenu et les salariés sont regroupés selon les quatre catégories socioprofessionnelles définies au même a).
-c) La rémunération moyenne des femmes et des hommes est calculée pour chacun des groupes ainsi constitué en calculant le salaire en équivalent temps plein pour chaque salariés puis en en faisant la moyenne.
-d) L'écart de rémunération est calculé, en pourcentage, pour chacun des groupes, en soustrayant la rémunération moyenne des femmes à la rémunération moyenne des hommes et en rapportant ce résultat à la rémunération moyenne des hommes.
-e) Dans les groupes constitués par catégorie socioprofessionnelle, le seuil de pertinence des écarts est de 5 %.
-Dans les groupes constitués par niveau ou coefficient hiérarchique, le seuil de pertinence des écarts est de 2 %.
-Lorsque l'écart de rémunération est positif, le seuil de pertinence est déduit de l'écart, sans toutefois pouvoir l'amener à devenir négatif (plancher à zéro).
-Lorsque l'écart de rémunération est négatif, le seuil de pertinence est ajouté à l'écart, sans toutefois pouvoir l'amener à devenir positif (plafond à zéro).
-f) Les écarts ainsi ajustés en fonction des seuils pour chacun des groupes sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de rémunération entre les femmes et les hommes.
-g) Le résultat final est la valeur absolue de l'écart global de rémunération, arrondie à la première décimale.  | Egal à 0 %  | 40 points  |
+| Ecart de rémunération entre les femmes et les hommes (1° de l'article D. 1142-2)  | a) Les salariés sont répartis en groupe, selon quatre tranches d'âge et par catégorie de postes équivalents. Les tranches d'âge sont les suivantes :-moins de 30 ans ;-de 30 à 39 ans ;-de 40 à 49 ans ;-et 50 ans et plus. S'agissant des catégories de postes équivalents, l'employeur peut répartir les salariés, après consultation du comité social et économique, par niveau ou coefficient hiérarchique, en application de la classification de branche ou d'une autre méthode de cotation des postes. La méthode de cotation des postes est adoptée après avis du comité social et économique. Si l'employeur ne souhaite pas répartir les salariés par niveau ou coefficient hiérarchique ou selon une autre méthode de cotation des postes, ou si ces méthodes de répartition ne permettent pas de calculer l'indicateur, il répartit les salariés entre les quatre catégories socioprofessionnelles suivantes :-ouvriers ;-employés ;-techniciens et agents de maîtrise ;-ingénieurs et cadres. b) Seuls les groupes comprenant au moins trois hommes et au moins trois femmes sont pris en compte. Si, en application de cette règle, le calcul de l'indicateur par niveau ou coefficient hiérarchique, dans les conditions prévues au a), est rendu impossible, au regard du critère défini au paragraphe 5.1, le classement par niveau ou coefficient hiérarchique n'est pas retenu et les salariés sont regroupés selon les quatre catégories socioprofessionnelles définies au même a). c) La rémunération moyenne des femmes et des hommes est calculée pour chacun des groupes ainsi constitué en calculant le salaire en équivalent temps plein pour chaque salariés puis en en faisant la moyenne. d) L'écart de rémunération est calculé, en pourcentage, pour chacun des groupes, en soustrayant la rémunération moyenne des femmes à la rémunération moyenne des hommes et en rapportant ce résultat à la rémunération moyenne des hommes. e) Dans les groupes constitués par catégorie socioprofessionnelle, le seuil de pertinence des écarts est de 5 %. Dans les groupes constitués par niveau ou coefficient hiérarchique, le seuil de pertinence des écarts est de 2 %. Lorsque l'écart de rémunération est positif, le seuil de pertinence est déduit de l'écart, sans toutefois pouvoir l'amener à devenir négatif (plancher à zéro). Lorsque l'écart de rémunération est négatif, le seuil de pertinence est ajouté à l'écart, sans toutefois pouvoir l'amener à devenir positif (plafond à zéro). f) Les écarts ainsi ajustés en fonction des seuils pour chacun des groupes sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de rémunération entre les femmes et les hommes. g) Le résultat final est la valeur absolue de l'écart global de rémunération, arrondie à la première décimale.  | Egal à 0 %  | 40 points  |
 | Supérieur à 0 % et inférieur ou égal à 1 %  | 39 points  |
 | Supérieur à 1 % et inférieur ou égal à 2 %  | 38 points  |
 | Supérieur à 2 % et inférieur ou égal à 3 %  | 37 points  |
@@ -83,31 +61,17 @@ g) Le résultat final est la valeur absolue de l'écart global de rémunération
 
 4.2. Indicateurs relatifs aux écarts de taux d'augmentations individuelles et de promotions entre les femmes et les hommes
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE
-DE POINTS  |
+| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
 | --- | --- | --- | --- |
-| Ecart de taux d'augmentations individuelles (hors promotion) entre les femmes et les hommes
-(2° de l'article D. 1142-2)  | a) Les salariés sont répartis en 4 groupes selon les quatre catégories socioprofessionnelles définies au paragraphe 4.1.
-b) Seuls les groupes comprenant au moins dix femmes et dix hommes sont pris en compte.
-c) Dans chacun des groupes, les taux d'augmentations des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés augmentés au cours de la période de référence. Sont uniquement prises en compte les augmentations individuelles (1) ne correspondant pas à des promotions (2).
-d) L'écart de taux d'augmentations est calculé, en points de pourcentage, pour chacun des groupes, en soustrayant le taux d'augmentations des femmes au taux d'augmentations des hommes.
-e) Les écarts ainsi obtenus sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de taux d'augmentations entre les femmes et les hommes.
-f) Le résultat final est la valeur absolue de l'écart global de taux d'augmentations, arrondie à la première décimale.  | Inférieur ou égal à 2 points de %  | 20 points  |
+| Ecart de taux d'augmentations individuelles (hors promotion) entre les femmes et les hommes (2° de l'article D. 1142-2)  | a) Les salariés sont répartis en 4 groupes selon les quatre catégories socioprofessionnelles définies au paragraphe 4.1. b) Seuls les groupes comprenant au moins dix femmes et dix hommes sont pris en compte. c) Dans chacun des groupes, les taux d'augmentations des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés augmentés au cours de la période de référence. Sont uniquement prises en compte les augmentations individuelles (1) ne correspondant pas à des promotions (2). d) L'écart de taux d'augmentations est calculé, en points de pourcentage, pour chacun des groupes, en soustrayant le taux d'augmentations des femmes au taux d'augmentations des hommes. e) Les écarts ainsi obtenus sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de taux d'augmentations entre les femmes et les hommes. f) Le résultat final est la valeur absolue de l'écart global de taux d'augmentations, arrondie à la première décimale.  | Inférieur ou égal à 2 points de %  | 20 points  |
 | Supérieur à 2 et inférieur ou égal à 5 points de %  | 10 points  |
 | Supérieur à 5 et inférieur ou égal à 10 points de %  | 5 points  |
 | Supérieur à 10 points de %  | 0 point  |
-| Ecart de taux de promotions entre les femmes et les hommes (3° de l'article D. 1142-2)  | a) Les salariés sont répartis en 4 groupes selon les quatre catégories socioprofessionnelles définies au paragraphe 4.1.
-b) Seuls les groupes comprenant au moins dix hommes et dix femmes sont pris en compte.
-c) Dans chacun des groupes, les taux de promotions des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés ayant bénéficié d'une promotion (2) au cours de la période de référence.
-Les augmentations exclues du calcul de l'indicateur défini au (1) au motif qu'elles correspondent à des promotions doivent être prises en compte.
-d) L'écart de taux de promotions est calculé, en points de pourcentage, pour chacun des groupes, en soustrayant le taux de promotions des femmes au taux de promotions des hommes.
-e) Les écarts ainsi obtenus sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de taux de promotions entre les femmes et les hommes.
-f) Le résultat final est la valeur absolue de l'écart global de taux de promotions, arrondie à la première décimale.  | Inférieur ou égal à 2 points de %  | 15 points  |
+| Ecart de taux de promotions entre les femmes et les hommes (3° de l'article D. 1142-2)  | a) Les salariés sont répartis en 4 groupes selon les quatre catégories socioprofessionnelles définies au paragraphe 4.1. b) Seuls les groupes comprenant au moins dix hommes et dix femmes sont pris en compte. c) Dans chacun des groupes, les taux de promotions des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés ayant bénéficié d'une promotion (2) au cours de la période de référence. Les augmentations exclues du calcul de l'indicateur défini au (1) au motif qu'elles correspondent à des promotions doivent être prises en compte. d) L'écart de taux de promotions est calculé, en points de pourcentage, pour chacun des groupes, en soustrayant le taux de promotions des femmes au taux de promotions des hommes. e) Les écarts ainsi obtenus sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de taux de promotions entre les femmes et les hommes. f) Le résultat final est la valeur absolue de l'écart global de taux de promotions, arrondie à la première décimale.  | Inférieur ou égal à 2 points de %  | 15 points  |
 | Supérieur à 2 et inférieur ou égal à 5 points de %  | 10 points  |
 | Supérieur à 5 et inférieur ou égal à 10 points de %  | 5 points  |
 | Supérieur à 10 points de %  | 0 point  |
-| (1) La notion d'augmentation individuelle correspond à une augmentation individuelle du salaire de base du salarié concerné.
-(2) La notion de promotion retenue correspond au passage à niveau ou un coefficient hiérarchique supérieur.  |
+| (1) La notion d'augmentation individuelle correspond à une augmentation individuelle du salaire de base du salarié concerné. (2) La notion de promotion retenue correspond au passage à niveau ou un coefficient hiérarchique supérieur.  |
 
 4.3. Indicateur relatif au pourcentage de salariées ayant bénéficié d'une augmentation dans l'année suivant leur retour de congé de maternité
 
@@ -118,8 +82,7 @@ f) Le résultat final est la valeur absolue de l'écart global de taux de promot
 
 4.4. Indicateur relatif au nombre de salariés du sexe sous-représenté parmi les dix salariés ayant perçu les plus hautes rémunérations
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE
-DE POINTS  |
+| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
 | --- | --- | --- | --- |
 | Nombre de salariés du sexe sous-représenté parmi les dix salariés ayant perçu les plus hautes rémunérations (5° de l'article D. 1142-2)  | L'indicateur est le plus petit des deux nombres suivants : le nombre de femmes et le nombre d'hommes parmi les salariés ayant perçu les 10 plus hautes rémunérations (nombres compris entre 0 et 10).  | 4 ou 5 salariés  | 10 points  |
 | 2 ou 3 salariés  | 5 points  |

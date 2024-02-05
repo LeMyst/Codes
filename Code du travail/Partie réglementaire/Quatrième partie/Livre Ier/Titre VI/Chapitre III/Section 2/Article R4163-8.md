@@ -11,3 +11,6 @@ IV.-L'employeur peut rectifier sa déclaration des facteurs de risques professio
 1° Jusqu'au 5 ou au 15 avril de l'année qui suit celle au titre de laquelle elle a été effectuée, selon l'échéance de transmission de la déclaration mentionnée à l'article R. 133-14 du code de la sécurité sociale qui lui est applicable ;
 
 2° Par dérogation au 1°, dans les cas où la rectification est faite en faveur du salarié, pendant la période de trois ans mentionnée au premier alinéa de l'article L. 244-3 du code de la sécurité sociale.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2017-1768 du 27 décembre 2017, jusqu'au 31 décembre 2018, le chapitre III du titre VI du livre Ier de la quatrième partie du code du travail continue à s'appliquer dans sa rédaction antérieure à l'entrée en vigueur du présent décret.

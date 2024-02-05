@@ -15,3 +15,6 @@ Les services de prévention et de santé au travail ont pour mission principale 
 4° Participent au suivi et contribuent à la traçabilité des expositions professionnelles et à la veille sanitaire ;
 
 5° Participent à des actions de promotion de la santé sur le lieu de travail, dont des campagnes de vaccination et de dépistage, des actions de sensibilisation aux bénéfices de la pratique sportive et des actions d'information et de sensibilisation aux situations de handicap au travail, dans le cadre de la stratégie nationale de santé prévue à l'article L. 1411-1-1 du code de la santé publique.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

@@ -17,3 +17,6 @@ II. — Les mesures prévues dans le cadre d'une démarche volontaire de l'entre
 4° Les modalités de suivi et d'évaluation des mesures.
 
 L'entreprise transmet le bilan de la mise en œuvre des mesures au représentant de l'Etat dans le département, au plus tard dans un délai d'un mois à compter de la notification de la décision prévue à l'article D. 1233-38.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2016-1473 du 28 octobre 2016, ces dispositions s'appliquent aux entreprises ayant fait l'objet d'une notification de l'obligation de revitalisation des bassins d'emploi mentionnée à l'article D. 1233-38 du code du travail postérieurement à sa publication.

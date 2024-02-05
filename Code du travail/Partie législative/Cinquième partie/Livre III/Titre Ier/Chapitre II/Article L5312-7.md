@@ -17,3 +17,6 @@ L'institution peut en outre créer toute autre section pour compte de tiers.
 La contribution de l'Etat et la contribution de l'organisme gestionnaire du régime d'assurance chômage sont fixées à un niveau compatible avec la poursuite des activités de l'institution, compte tenu de l'évolution du marché du travail.
 
 L'institution est autorisée à placer ses fonds disponibles dans des conditions fixées par les ministres chargés de l'emploi et du budget.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

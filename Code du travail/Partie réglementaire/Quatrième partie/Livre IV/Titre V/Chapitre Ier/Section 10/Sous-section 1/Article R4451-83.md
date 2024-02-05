@@ -11,3 +11,6 @@ I.-Le dossier médical en santé au travail mentionné à l'article L. 4624-8 de
 4° Les résultats des examens complémentaires prescrits par le médecin du travail dans les conditions prévues aux articles R. 4624-35 à R. 4624-38.
 
 II.-Le dossier médical en santé au travail de chaque travailleur est conservé jusqu'au moment où il a ou aurait atteint l'âge de soixante-quinze ans et, en tout état de cause, pendant une période d'au moins cinquante ans à compter de la fin de l'activité professionnelle impliquant une exposition aux rayonnements ionisants.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

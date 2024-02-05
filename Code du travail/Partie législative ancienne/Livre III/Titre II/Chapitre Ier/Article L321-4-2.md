@@ -17,3 +17,6 @@ A défaut d'accord ou d'agrément de cet accord, les mesures d'application du pr
 Dans le cadre d'un accord passé avec l'organisme mentionné à l'article L. 351-21, l'Etat contribue au financement, notamment au titre du droit individuel à la formation, des dépenses relatives aux actions engagées dans le cadre de la convention de reclassement personnalisé.
 
 II.-Tout employeur non soumis aux dispositions de l'article L. 321-4-3 qui procède au licenciement pour motif économique d'un salarié sans lui proposer le bénéfice d'une convention de reclassement personnalisé doit verser aux organismes chargés du recouvrement mentionnés à l'article L. 351-21 une contribution égale à deux mois de salaire brut moyen des douze derniers mois travaillés.
+
+NOTA:
+Loi n° 2008-126 du 13 février 2008 articles 5 III et 14 II 6° d): les dispositions introduites par l'article 14 II 6° d) de la présente loi entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2012. (vigueur différée)

@@ -19,3 +19,6 @@ En l'absence de stipulation conventionnelle, le bénéficiaire formule sa demand
 Si le bénéficiaire ne demande pas le versement de ces sommes dans le délai de quinze jours mentionné ci-dessus, elles ne sont négociables ou exigibles qu'à l'expiration d'un délai de cinq ans à compter du premier jour du sixième mois suivant l'exercice au titre duquel les droits sont nés, conformément aux dispositions de l'article L. 3324-10, ou d'un délai de huit ans, dans les mêmes conditions, conformément aux dispositions de l'article L. 3323-5.
 
 Toutefois, lorsque ces sommes sont inscrites sur un plan d'épargne pour la retraite collectif, leur délivrance ne peut intervenir qu'à l'échéance ou dans les conditions prévues à l'article L. 3334-14.
+
+NOTA:
+Conformément aux dispositions du IV de l'article 9 du décret n° 2019-807 du 30 juillet 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

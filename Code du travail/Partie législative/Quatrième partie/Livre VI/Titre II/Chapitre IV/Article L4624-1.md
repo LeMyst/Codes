@@ -19,3 +19,6 @@ II.-Les professionnels de santé mentionnés au premier alinéa du I peuvent rec
 S'il considère que l'état de santé du travailleur ou les risques professionnels auxquels celui-ci est exposé le justifient, le professionnel de santé recourant aux technologies de l'information et de la communication pour le suivi individuel du travailleur peut proposer à ce dernier que son médecin traitant ou un professionnel de santé choisi par le travailleur participe à la consultation ou à l'entretien à distance. En cas de consentement du travailleur, le médecin traitant ou le professionnel de santé choisi par le travailleur peut participer, à distance ou auprès de celui-ci, à la consultation ou à l'entretien.
 
 Les modalités d'application du présent II sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l’article 31 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à compter d'une date fixée par décret, et au plus tard le 1er janvier 2023.

@@ -11,3 +11,8 @@ Lorsqu'un fonds commun de placement d'entreprise mentionné au 2° de l'article 
 2° Lorsque, pour l'application du présent livre, l'entreprise, la société qui la contrôle ou toute société contrôlée par elle au sens de l'article L. 233-16 du code de commerce s'est engagée à racheter, dans la limite de 10 % de son capital social, les titres non admis aux négociations sur un marché réglementé détenus par le fonds commun de placement d'entreprise.
 
 Dans ce dernier cas, la valeur liquidative du fonds commun de placement d'entreprise est publiée au moins une fois par an. Après communication de la valeur d'expertise de l'entreprise, les salariés disposent d'un délai de deux mois avant la publication de la valeur liquidative du fonds pour présenter leur demande de souscription, de rachat ou d'arbitrage de leurs avoirs.
+
+NOTA:
+Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions s'appliquent à compter d'une date fixée par décret et au plus tard le 1er janvier 2020.
+
+Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.

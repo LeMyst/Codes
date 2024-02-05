@@ -13,3 +13,6 @@ V.-Un décret détermine :
 1° Les seuils mentionnés au I du présent article ;
 
 2° Les modalités d'adaptation de la déclaration mentionnée au même I pour les travailleurs qui ne sont pas susceptibles d'acquérir des droits au titre du compte professionnel de prévention dans les conditions fixées au présent chapitre et exposés à certains facteurs de risques professionnels dans les conditions prévues au I.
+
+NOTA:
+Conformément au III de l'article 5 de l'ordonnance n° 2017-1389 du 22 septembre 2017, jusqu'au 31 décembre 2018, le chapitre III du titre VI du livre Ier de la quatrième partie du code du travail continue à s'appliquer dans sa rédaction antérieure à l'entrée en vigueur de la présente ordonnance.

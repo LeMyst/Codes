@@ -7,3 +7,6 @@ L'employeur peut prendre en charge, dans les conditions prévues à l'article L.
 2° Ou pour lesquels l'utilisation d'un véhicule personnel est rendue indispensable par des conditions d'horaires de travail particuliers ne permettant pas d'emprunter un mode collectif de transport.
 
 Le bénéfice de cette prise en charge ne peut être cumulé avec celle prévue à l'article L. 3261-2.
+
+NOTA:
+Conformément au VI de l’article 82 de la loi n° 2019-1428 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

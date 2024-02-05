@@ -5,3 +5,6 @@ En cas de recours portant sur un licenciement pour motif économique, et dans un
 Dans le même délai, il adresse ces éléments au demandeur par lettre recommandée avec demande d'avis de réception.
 
 La convocation destinée à l'employeur rappelle cette obligation.
+
+NOTA:
+Décret n° 2016-660 du 20 mai 2016, article 45: Ces dispositions sont applicables aux instances introduites devant les conseils de prud'hommes à compter du 1er août 2016.

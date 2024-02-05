@@ -7,3 +7,6 @@ L'accès aux locaux, terrains et moyens de transport à usage professionnel pré
 Sans préjudice des autres sanctions encourues, lorsque la non-conformité à la réglementation d'un produit a été établie par des contrôles réalisés en application du présent article, les autorités chargées de la surveillance du marché peuvent décider de faire supporter à l'opérateur économique en cause la totalité des frais directement exposés par ces autorités et occasionnés par des essais, l'interdiction de la mise sur le marché d'un produit ou le stockage et les activités relatives aux produits qui se révèlent non conformes et qui font l'objet d'une mesure corrective avant leur mise en libre pratique ou leur mise sur le marché.
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

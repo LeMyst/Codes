@@ -7,3 +7,6 @@ Sous réserve des dispositions du deuxième alinéa du II de l'article L. 6113-3
 Ces avis tiennent compte de l'évolution des qualifications, en tenant compte, le cas échéant, des compétences liées à la prise en compte des situations de handicap, de l'accessibilité et de la conception universelle telle que définie par l'article 2 de la convention relative aux droits des personnes handicapées du 30 mars 2007, de leur usage dans le ou les champs professionnels concernés et de l'objectif de mise en cohérence des certifications professionnelles existantes.
 
 Les commissions professionnelles consultatives peuvent également être saisies par le ministre ou les ministres auprès desquels elles sont instituées de toute question générale ou particulière relative aux diplômes et titres à finalité professionnelle.
+
+NOTA:
+Conformément au III de l'article 3 du décret n° 2021-389 du 2 avril 2021, ces dispositions sont applicables aux projets de diplômes et titres à finalité professionnelle dont la date de transmission aux commissions professionnelles consultatives est postérieure au 31 août 2021.

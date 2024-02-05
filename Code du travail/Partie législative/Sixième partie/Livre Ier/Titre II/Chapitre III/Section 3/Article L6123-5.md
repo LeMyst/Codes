@@ -63,3 +63,8 @@ f) Les modalités et règles de prise en charge des financements alloués au tit
 15° De reverser aux opérateurs de compétences des branches concernées les montants perçus au titre des contributions supplémentaires ayant pour objet le développement de la formation professionnelle continue, créées par un accord professionnel national conclu en application de l'article L. 6332-1-2, lorsqu'elles sont recouvrées dans les conditions prévues au II de l'article L. 6131-3 ;
 
 16° D'établir, diffuser et actualiser selon une périodicité fixée par décret des tables de correspondance des branches et entreprises adhérentes des opérateurs de compétences, en vue de faciliter les déclarations des employeurs, et de guider l'affectation aux opérateurs de compétences des fonds collectés par les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime.
+
+NOTA:
+Conformément au V de l’article 6 et au II de l'article 8 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

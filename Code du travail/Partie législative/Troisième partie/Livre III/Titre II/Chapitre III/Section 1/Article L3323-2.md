@@ -9,3 +9,6 @@ L'accord de participation peut prévoir l'affectation des sommes constituant la 
 Ces dispositions sont applicables aux accords conclus après le 1er janvier 2007.
 
 Tout accord de participation existant à la date de promulgation de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites doit être mis en conformité avec le présent article et l'article L. 3323-3 au plus tard le 1er janvier 2013.
+
+NOTA:
+Conformément au VI de l’article 155 de la loi n° 2019-486 du 22 mai 2019, le 2° de l'article L. 3323-2 du code du travail continue à s'appliquer aux entreprises qui bénéficient de ces dispositions au jour de la publication de la présente loi.

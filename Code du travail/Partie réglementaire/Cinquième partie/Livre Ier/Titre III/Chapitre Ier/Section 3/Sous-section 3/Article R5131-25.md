@@ -7,3 +7,6 @@ II.-Le bénéficiaire dispose d'un délai de trois mois pour transmettre les pi�
 Par dérogation à l'alinéa précédent, le représentant légal de la mission locale ou de Pôle emploi peut prendre une décision de versement de l'allocation mentionnée à l'article L. 5131-6 à titre conservatoire, pour une durée maximale de trois mois, pour les jeunes démontrant qu'ils satisfont aux conditions d'éligibilité mentionnées au même article sans disposer de l'ensemble des pièces justificatives permettant d'en attester. Les montants versés dans ce cadre sont définitivement acquis au bénéficiaire.
 
 III.-Pôle emploi et l'Agence des services et de paiement transmettent au ministre chargé de l'emploi et au ministre chargé des comptes publics les éléments d'information nécessaires au suivi statistique des bénéficiaires de l'allocation, à la connaissance des crédits engagés ainsi qu'à l'évaluation de la mesure.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

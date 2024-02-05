@@ -9,3 +9,6 @@ Lorsque la durée prévisible de l'intervention est supérieure à cinq jours, l
 3° Les dossiers techniques prévus aux articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et à l'article R. 111-45 du code de la construction et de l'habitation ou, le cas échéant, le rapport de repérage de l'amiante prévu à l'article R. 4412-97-5 du présent code ;
 
 4° La liste des travailleurs impliqués. Cette liste mentionne les dates de délivrance des attestations de compétence des travailleurs, les dates de visite médicale et précise, le cas échéant, le nom des travailleurs sauveteurs secouristes du travail affectés au chantier ainsi que les dates de validité de leur formation.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2017-899 du 9 mai 2017, les présentes dispositions entrent en vigueur pour chacun des domaines mentionnés à l'article R. 4412-97 aux dates fixées par les arrêtés mentionnés à cet article et au plus tard le 1er octobre 2018.

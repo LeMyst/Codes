@@ -15,3 +15,6 @@ III.-L'Agence de services et de paiement traite les réclamations et recours rel
 IV.-L'Agence de services et de paiement peut demander à l'employeur et à l'opérateur de compétences toute information complémentaire nécessaire au paiement de l'aide.
 
 V.-L'Agence de services et de paiement est responsable des traitements de données, y compris personnelles, nécessaires au versement de l'aide et à la gestion des réclamations et des recours.
+
+NOTA:
+Conformément aux dispositions du I de l’article 3 du décret n° 2018-1348 du 28 décembre 2018, ces dispositions entrent en vigueur le 1er janvier 2019 pour les contrats conclus à compter de cette date. Se reporter aux dispositions transitoires précisées au I du même article.

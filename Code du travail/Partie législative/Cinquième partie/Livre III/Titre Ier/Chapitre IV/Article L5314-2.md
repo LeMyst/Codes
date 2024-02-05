@@ -13,3 +13,6 @@ A ce titre, les missions locales sont reconnues comme participant au repérage d
 Les résultats obtenus par les missions locales en termes d'insertion professionnelle et sociale, ainsi que la qualité de l'accueil, de l'information, de l'orientation et de l'accompagnement qu'elles procurent aux jeunes sont évalués dans des conditions qui sont fixées par convention avec l'Etat, la région et les autres collectivités territoriales qui les financent. Les financements accordés tiennent compte de ces résultats.
 
 Par dérogation à l'article L. 5131-3 et au premier alinéa du présent article, les missions locales peuvent accompagner les jeunes auxquels la qualité de travailleur handicapé est reconnue jusqu'à l'âge de vingt-neuf ans révolus dans le cadre du contrat d'engagement jeune prévu à l'article L. 5131-6.
+
+NOTA:
+Conformément au II de l'article 208 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022. Toutefois, les jeunes bénéficiant à cette date de l'allocation mentionnée à l'article L. 5131-6 du code du travail dans sa rédaction antérieure à la présente loi continuent de bénéficier de cette allocation dans les conditions en vigueur à la date à laquelle est contractualisé leur parcours d'engagement.

@@ -19,3 +19,6 @@ Peuvent bénéficier d'aides à la création ou à la reprise d'entreprise, dans
 8° Les personnes physiques créant ou reprenant une entreprise implantée au sein d'un quartier prioritaire de la politique de la ville ;
 
 9° Les bénéficiaires du complément de libre choix d'activité mentionné à l'article L. 531-4 du code de la sécurité sociale.
+
+NOTA:
+Conformément au IV de l'article 13 de la loi n° 2017-1836 du 31 décembre 2017, ces dispositions s'appliquent aux cotisations et contributions sociales dues au titre des périodes courant à compter du 1er janvier 2019 pour les créations et reprises d'entreprise intervenues à compter de cette même date.

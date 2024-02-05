@@ -23,3 +23,6 @@ b) De la date de refus exprès du salarié, ou en cas d'absence de réponse, de 
 3° Si l'opérateur France Travail constate que les informations fournies sont incomplètes, il adresse une demande d'éléments complémentaires à l'employeur, qui dispose d'un délai de quinze jours à compter de cette demande pour y répondre.
 
 A réception des informations complètes, l'opérateur France Travail informe le salarié de cette réception et des conséquences du refus de contrat à durée indéterminée sur l'ouverture de droit à l'allocation d'assurance mentionnée à l'article L. 5422-1 du code du travail.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-1307 du 28 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

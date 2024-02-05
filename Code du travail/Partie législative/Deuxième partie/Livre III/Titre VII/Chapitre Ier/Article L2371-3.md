@@ -5,3 +5,6 @@ Les modalités de la participation des salariés, au sens de l'article L. 2351-6
 Par dérogation au premier alinéa, les dirigeants des sociétés participant à une fusion transfrontalière peuvent choisir de mettre en place, sans négociation préalable lorsqu'au moins une des sociétés participant à l'opération dispose d'un système de participation des salariés, les modalités de participation des salariés conformément au chapitre III du présent titre.
 
 Les dirigeants des sociétés participant à l'opération transfrontalière communiquent aux représentants du personnel ou, en leur absence, aux salariés eux-mêmes leur choix d'engager des négociations ou d'appliquer les dispositions du deuxième alinéa du présent article ainsi que, dans le premier cas, le résultat des négociations.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

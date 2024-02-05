@@ -15,3 +15,6 @@ Les critères mentionnés à l'article L. 6316-1 auxquels doivent satisfaire les
 6° L'inscription et l'investissement du prestataire dans son environnement professionnel ;
 
 7° Le recueil et la prise en compte des appréciations et des réclamations formulées par les parties prenantes aux prestations délivrées.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-564 du 6 juin 2019, ces dispositions s'appliquent à la certification mentionnée au 2° du I de l'article 6 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, obligatoire à compter du 1er janvier 2021. Les organismes qui obtiennent la certification mentionnée au premier alinéa avant le 1er janvier 2021 sont réputés satisfaire aux critères prévus à l'article R. 6316-1 dans sa rédaction en vigueur jusqu'au 31 décembre 2020.

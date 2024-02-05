@@ -7,3 +7,8 @@ Après la conclusion de la convention ou de l'accord de groupe, interentreprises
 Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
 
 Les accords d'intéressement, de participation, les plans d'épargne d'entreprise, interentreprises, les plans d'épargne pour la retraite collectif ou les plans d'épargne retraite d'entreprise collectifs ainsi que les accords mentionnés aux articles L. 1233-24-1 et L. 2254-2 ne font pas l'objet de la publication prévue au présent article.
+
+NOTA:
+Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions s'appliquent à compter d'une date fixée par décret et au plus tard le 1er janvier 2020.
+
+Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.

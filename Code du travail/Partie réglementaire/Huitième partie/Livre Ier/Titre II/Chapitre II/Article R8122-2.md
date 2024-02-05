@@ -7,3 +7,6 @@ Les directeurs départementaux de l'emploi, du travail et des solidarités, les 
 II. - Pour l'exercice des compétences en matière d'actions d'inspection de la législation du travail, le directeur régional de l'économie, de l'emploi, du travail et des solidarités peut déléguer sa signature au chef du pôle en charge des questions de travail aux directeurs départementaux de l'emploi, du travail et des solidarités, aux directeurs départementaux de l'emploi, du travail, des solidarités et de la protection des populations et, en Ile-de-France, aux directeurs d'unités départementales.
 
 En accord avec le délégant, ceux-ci peuvent subdéléguer la signature des actes pour lesquels ils ont eux-mêmes reçu délégation aux agents du corps de l'inspection du travail placés sous leur autorité. Le directeur régional peut mettre fin à tout ou partie de cette délégation. Il peut également fixer la liste des compétences qu'il souhaite exclure de la délégation que peuvent consentir ces chefs de service aux agents du corps de l'inspection du travail placés sous leur autorité.
+
+NOTA:
+Conformément à l'article 30 du décret n° 2020-1545 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er avril 2021.

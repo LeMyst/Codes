@@ -11,3 +11,8 @@ Le délai de prescription de l'action de l'administration pour la sanction du ma
 L'employeur, le maître d'ouvrage ou le donneur d'ordre peut contester la décision de l'administration devant le tribunal administratif, à l'exclusion de tout recours hiérarchique.
 
 L'amende est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine. L'opposition à l'exécution ou l'opposition aux poursuites n'a pas pour effet de suspendre l'action en recouvrement de la créance.
+
+NOTA:
+Conformément aux dispositions des I et II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019, ces dispositions entrent en vigueur le 30 juillet 2020.
+
+Se reporter aux modalités d'application prévues au II de l'article 7 de l'ordonnance n° 2019-116 du 20 février 2019 ainsi qu'au III de l'article 25 de la loi n° 2021-1308 du 8 octobre 2021.

@@ -13,3 +13,6 @@ Chaque service de prévention et de santé au travail interentreprises fait l'ob
 5° La conformité des systèmes d'information et des services ou outils numériques destinés à être utilisés par les professionnels de santé exerçant pour le compte du service de prévention et de santé au travail interentreprises aux référentiels d'interopérabilité et de sécurité mentionnés à l'article L. 4624-8-2 du présent code.
 
 Les référentiels et les principes guidant l'élaboration du cahier des charges de certification sont fixés par voie réglementaire, sur proposition du comité national de prévention et de santé au travail mentionné à l'article L. 4641-2-1. En l'absence de proposition du comité à l'issue d'un délai déterminé par décret, ces référentiels et ces principes sont déterminés par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

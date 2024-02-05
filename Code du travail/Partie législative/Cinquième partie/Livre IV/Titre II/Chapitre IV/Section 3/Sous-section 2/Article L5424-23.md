@@ -7,3 +7,6 @@ II.-Le comité évalue toutes les propositions qui lui sont transmises en cours 
 III.-Lorsque les organisations d'employeurs et de salariés représentatives de l'ensemble des professions mentionnées à l'article L. 5424-20 ont conclu un accord, le comité évalue le respect par celui-ci de la trajectoire financière figurant dans les documents de cadrage mentionnés au II de l'article L. 5424-22 et à l'article L. 5422-20-1, dans un délai fixé par le décret mentionné au I du présent article.
 
 IV.-L'opérateur France Travail et l'organisme chargé de la gestion de l'assurance chômage mentionné à l'article L. 5427-1 fournissent au comité d'expertise les informations nécessaires à l'exercice de ses missions.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

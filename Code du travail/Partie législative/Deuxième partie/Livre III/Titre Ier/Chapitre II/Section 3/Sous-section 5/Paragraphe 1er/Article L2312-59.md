@@ -7,3 +7,6 @@ L'employeur procède sans délai à une enquête avec le membre de la délégati
 En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte, et à défaut de solution trouvée avec l'employeur, le salarié, ou le membre de la délégation du personnel au comité social et économique si le salarié intéressé averti par écrit ne s'y oppose pas, saisit le bureau de jugement du conseil de prud'hommes qui statue selon la procédure accélérée au fond.
 
 Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera liquidée au profit du Trésor.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

@@ -13,3 +13,6 @@ Lorsque la mise en cause concerne une convention ou un accord à durée détermi
 2° Ne s'applique pas si ce terme est antérieur à la date à laquelle cette convention ou cet accord cesse de produire ses effets en application du premier alinéa.
 
 Une nouvelle négociation doit s'engager dans l'entreprise concernée, à la demande d'une des parties intéressées, dans les trois mois suivant la mise en cause, soit pour l'adaptation aux dispositions conventionnelles nouvellement applicables, soit pour l'élaboration de nouvelles stipulations.
+
+NOTA:
+Conformément à l'article 21 II de la loi n° 2018-217 du 29 mars 2018, les présentes dispositions s'appliquent à tous les accords ou conventions dénoncés ou mis en cause ayant cessé de produire leurs effets à compter du 9 août 2016, y compris si la date de leur dénonciation ou de leur mise en cause est antérieure à cette date.

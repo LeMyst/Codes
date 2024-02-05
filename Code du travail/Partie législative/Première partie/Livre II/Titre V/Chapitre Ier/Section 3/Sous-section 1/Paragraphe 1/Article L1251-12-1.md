@@ -13,3 +13,6 @@ Elle est également de vingt-quatre mois :
 3° Lorsque survient dans l'entreprise, qu'il s'agisse de celle de l'entrepreneur principal ou de celle d'un sous-traitant, une commande exceptionnelle à l'exportation dont l'importance nécessite la mise en œuvre de moyens quantitativement ou qualitativement exorbitants de ceux que l'entreprise utilise ordinairement. Dans ce cas, la durée initiale du contrat ne peut être inférieure à six mois.
 
 Elle est portée à trente-six mois afin d'être égale à celle du cycle de formation effectué en apprentissage conformément à l'article L. 6222-7-1.
+
+NOTA:
+Conformément à l'article 40-VIII de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux contrats de travail conclus postérieurement à la publication de ladite ordonnance.

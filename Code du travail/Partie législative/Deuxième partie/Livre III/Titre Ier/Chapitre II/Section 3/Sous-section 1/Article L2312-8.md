@@ -17,3 +17,6 @@ II. - Le comité est informé et consulté sur les questions intéressant l'orga
 III. - Le comité est informé et consulté sur les conséquences environnementales des mesures mentionnées au II du présent article.
 
 IV. - Le comité social et économique mis en place dans les entreprises d'au moins cinquante salariés exerce également les attributions prévues à la section 2.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

@@ -9,3 +9,6 @@ III.-Cette pénalité est prononcée par l'autorité administrative compétente 
 IV.-Le produit de cette pénalité est affecté aux organismes nationaux de la branche accidents du travail et maladies professionnelles.
 
 V.-Les articles L. 137-3 et L. 137-4 du code de la sécurité sociale sont applicables à cette pénalité.
+
+NOTA:
+Conformément au IV de l'article 5 de l'ordonnance n° 2017-1389 du 22 septembre 2017, pour les expositions aux facteurs de risques professionnels au titre des années 2015, 2016 et des trois premiers trimestres de 2017, l'article L4162-4 du code du travail demeure applicable dans sa rédaction antérieure aux dispositions issues de la présente ordonnance.

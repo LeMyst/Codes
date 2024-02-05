@@ -7,3 +7,6 @@ I.-Le schéma d'orientation régional définit la stratégie territoriale de mis
 2° Les principaux parcours d'insertion et de qualification qui peuvent être proposés dans ces différents filières et secteurs.
 
 II.-Le schéma d'orientation régional tient compte des modalités d'accès des jeunes à la formation définies au contrat de plan régional de développement des formations professionnelles adopté au titre de l'article L. 214-13 du code de l'éducation.
+
+NOTA:
+Décret n° 2012-1207 du 31 octobre 2012 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française le décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir.

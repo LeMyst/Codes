@@ -5,3 +5,6 @@ Tout litige concernant la conformité de la charte aux dispositions du présent 
 La juridiction saisie se prononce dans un délai de quatre mois. Si, à l'issue de ce délai, elle ne s'est pas prononcée ou en cas d'appel, le litige est porté devant la cour d'appel.
 
 Lorsque dans un litige relevant de la compétence du conseil des prud'hommes, est soulevée une difficulté sérieuse relative à l'homologation de la charte dont dépend la solution du litige, le conseil des prud'hommes initialement saisi sursoit à statuer et transmet la question à la juridiction judiciaire désignée par le décret mentionné au premier alinéa.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

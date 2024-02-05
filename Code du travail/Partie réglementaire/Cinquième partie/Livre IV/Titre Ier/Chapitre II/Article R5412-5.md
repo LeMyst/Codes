@@ -11,3 +11,6 @@ La radiation de la liste des demandeurs d'emploi entraîne l'impossibilité d'ob
 3° Pendant une période dont la durée est comprise entre six et douze mois consécutifs lorsque sont constatées les fausses déclarations mentionnées à l'article L. 5412-2.
 
 L'appréciation du caractère répété des manquements tient compte des nouveaux manquements constatés dans un délai de deux ans à compter du jour de la notification de la radiation concernant le premier manquement.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

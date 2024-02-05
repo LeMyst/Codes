@@ -21,3 +21,6 @@ II.-Ne peut être prise en compte au titre du calcul des quatre mois en contrat 
 5° D'un contrat de travail à durée déterminée qui se poursuit par un contrat à durée indéterminée.
 
 III.-Cette ancienneté est appréciée à la date de départ en formation du salarié.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-373 du 16 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022.

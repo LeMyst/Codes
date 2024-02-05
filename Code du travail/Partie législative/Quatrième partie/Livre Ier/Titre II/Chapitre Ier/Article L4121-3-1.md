@@ -37,3 +37,6 @@ a) A compter du 1er juillet 2023, aux entreprises dont l'effectif est supérieur
 b) A compter de dates fixées par décret, en fonction des effectifs des entreprises, et au plus tard à compter du 1er juillet 2024 aux entreprises dont l'effectif est inférieur à cent cinquante salariés.
 
 VI.-Le document unique d'évaluation des risques professionnels est transmis par l'employeur à chaque mise à jour au service de prévention et de santé au travail auquel il adhère.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

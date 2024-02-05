@@ -5,3 +5,6 @@ Le compte personnel de formation peut être abondé en application de l'accord c
 Le compte personnel de formation des travailleurs indépendants de la pêche maritime, des employeurs de pêche maritime de moins de onze salariés, ainsi que des travailleurs indépendants et des employeurs de cultures marines de moins de onze salariés peut être abondé en application d'une décision du conseil d'administration de l'opérateur de compétences mentionné au 1° de l'article L. 6331-53 du présent code.
 
 Le compte personnel de formation des artistes auteurs peut être abondé en application d'une décision du conseil d'administration de l'opérateur de compétences mentionné au premier alinéa de l'article L. 6331-68.
+
+NOTA:
+Conformément au IV de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

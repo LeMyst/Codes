@@ -9,3 +9,6 @@ Son montant est égal à :
 2° 70 % du montant socle de l'aide précitée à compter de la deuxième année d'exécution du contrat de travail à durée indéterminée.
 
 Les conditions de son versement sont fixées par arrêté conjoint des ministres chargés de l'emploi et du budget.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021

@@ -19,3 +19,8 @@ Le périmètre d'application des critères d'ordre des licenciements peut être 
 En l'absence d'un tel accord, ce périmètre ne peut être inférieur à celui de chaque zone d'emplois dans laquelle sont situés un ou plusieurs établissements de l'entreprise concernés par les suppressions d'emplois.
 
 Les conditions d'application de l'avant-dernier alinéa du présent article sont définies par décret.
+
+NOTA:
+Conformément à l'article 40-V de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux procédures de licenciement économique engagées après la publication de ladite ordonnance.
+
+Conformément à l'article 40-X, ces dispositions entrent en vigueur à la date de publication du décret d'application, et au plus tard le 1er janvier 2018.

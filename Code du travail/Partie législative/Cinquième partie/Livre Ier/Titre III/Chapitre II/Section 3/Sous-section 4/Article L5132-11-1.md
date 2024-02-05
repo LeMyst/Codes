@@ -29,3 +29,6 @@ En cas d'embauche à l'issue de cette période de mise en situation en milieu pr
 Par dérogation aux dispositions relatives à la rupture avant terme du contrat de travail à durée déterminée prévues à l'article L. 1243-2, le contrat peut être rompu avant son terme, à l'initiative du salarié, lorsque la rupture a pour objet de lui permettre de suivre une formation conduisant à une qualification prévue à l'article L. 6314-1.
 
 Un décret définit les conditions dans lesquelles la dérogation à la durée hebdomadaire de travail minimale prévue au neuvième alinéa du présent article peut être accordée.
+
+NOTA:
+Conformément à l’article 1er, III de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard six mois après la publication de la présente loi.

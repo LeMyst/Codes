@@ -15,3 +15,6 @@ Les frais de gestion de la commission paritaire interprofessionnelle régionale 
 Les frais relatifs à l'instruction, à la gestion et au suivi des projets de reconversion professionnelle prévus au 4° du I de l'article L. 4163-7 et des actions financées par la dotation du fonds d'investissement dans la prévention de l'usure professionnelle mentionné à l'article L. 221-1-5 du code de la sécurité sociale font l'objet d'une prise en charge spécifique par les dotations mentionnées à l'article D. 6123-26-1 et assise sur les montants consommés par les commissions.
 
 Les modalités et le montant de ces prises en charge sont définis par arrêté des ministres chargés de la sécurité sociale et de la formation professionnelle.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -5,3 +5,6 @@ Une dérogation à la durée hebdomadaire de travail du titulaire d'un contrat �
 La demande de dérogation intervient à l'initiative de l'employeur.
 
 La période durant laquelle il peut être dérogé à la durée hebdomadaire minimale de vingt heures ne peut excéder douze mois.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

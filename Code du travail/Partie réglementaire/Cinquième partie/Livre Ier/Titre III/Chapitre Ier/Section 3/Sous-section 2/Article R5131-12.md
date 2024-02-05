@@ -13,3 +13,6 @@ Il mentionne :
 La première phase du parcours débute au plus tard un mois après la signature du contrat.
 
 Le contrat peut être modifié en fonction des évaluations mentionnées à l'article R. 5131-11 ou de l'évolution de la situation du jeune.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

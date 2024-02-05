@@ -9,3 +9,6 @@ Le montant du financement par l'employeur du programme pluriannuel est au moins 
 Lorsque le programme comporte des actions de sensibilisation des salariés de l'entreprise ou des actions de pilotage et de suivi, les sommes consacrées au financement de ces actions ne peuvent excéder 25 % du total des sommes consacrées au financement des actions prévues par l'accord.
 
 Le programme pluriannuel est établi par année civile.
+
+NOTA:
+Conformément aux dispositions du I de l'article 3 du décret n° 2019-521 du 27 mai 2019, les dispositions du présent décret entrent en vigueur dans les conditions prévues à l'article 67 de la loi n° 2018-771 du 5 septembre 2018.

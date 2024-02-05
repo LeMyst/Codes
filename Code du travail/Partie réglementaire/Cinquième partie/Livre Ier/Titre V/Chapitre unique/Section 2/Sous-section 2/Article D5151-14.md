@@ -39,3 +39,6 @@ Pour les activités mentionnées au 3° du I, la durée est appréciée au terme
 Pour les activités mentionnées au 10° et au 11° du I, la durée est appréciée au terme d'une durée continue de trois ans d'engagement ayant donné lieu respectivement à soixante-quinze vacations par an et à la réalisation de trois cent cinquante heures par an. La déclaration à la Caisse des dépôts et consignations intervient au début de l'année civile suivante.
 
 III.- Le montant des droits acquis au titre du compte d'engagement citoyen ne peut excéder le plafond de 720 euros.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1842 du 27 décembre 2021, ces dispositions sont applicables aux activités de réserviste civique réalisées à compter du 1er janvier 2021.

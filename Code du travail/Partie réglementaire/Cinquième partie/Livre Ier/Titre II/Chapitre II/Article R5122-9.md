@@ -21,3 +21,6 @@ L'autorité administrative fixe ces engagements en tenant compte de la situation
 III.-Les engagements sont notifiés dans la décision d'autorisation.
 
 IV.-L'autorité administrative s'assure du respect des engagements souscrits par l'employeur.
+
+NOTA:
+Conformément au 1° de l’article 1er du décret n° 2021-221 du 26 février 2021, ces dispositions s'appliquent aux demandes d'autorisation préalables adressées à l'autorité administrative à compter du 1er juillet 2021. Lorsque l'employeur a bénéficié d'une autorisation d'activité partielle avant cette date, il n'est pas tenu compte de cette période pour l'application des dispositions du premier alinéa de l'article R. 5122-9 du code du travail, dans sa rédaction résultant du présent décret.

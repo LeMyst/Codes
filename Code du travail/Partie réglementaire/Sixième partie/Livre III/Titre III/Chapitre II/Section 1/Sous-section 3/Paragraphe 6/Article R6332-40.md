@@ -9,3 +9,6 @@ Les dépenses liées aux formations prévues aux articles L. 2315-18, L. 4644-1 
 3° Les frais annexes de transport, de restauration et d'hébergement afférents à la formation suivie et, lorsque les formations se déroulent pour tout ou partie en dehors du temps de travail, les frais de garde d'enfants ou de parents à charge.
 
 Le conseil d'administration de l'opérateur de compétences détermine les priorités et les critères de prise en charge des demandes présentées par les employeurs.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-333 du 3 mai 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

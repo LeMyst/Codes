@@ -7,3 +7,8 @@ Un accord d'entreprise, conclu dans les conditions prévues au premier alinéa d
 2° Les modalités de ces consultations ponctuelles, notamment le nombre de réunions ;
 
 3° Les délais mentionnés à l'article L. 2312-15 dans lesquels les avis du comité sont rendus.
+
+NOTA:
+Aux termes de l'article 8 de l'ordonnance n° 2017-1386 du 22 septembre 2017, les accords mentionnées à l' article L. 2312-55, dans sa rédaction issue de la présente ordonnance, peuvent être négociés à compter de sa publication. Ils s'appliquent aux instances représentatives du personnel existantes à la date de leur conclusion.
+
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

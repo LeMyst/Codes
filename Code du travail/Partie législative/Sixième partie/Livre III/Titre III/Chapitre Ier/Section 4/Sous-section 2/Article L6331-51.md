@@ -5,3 +5,6 @@ Les contributions prévues à l'article L. 6331-48, à l'exception de celle ment
 Les versements de la contribution mentionnée à l'avant-dernier alinéa de l'article L. 6331-48 du présent code sont effectués suivant la périodicité, selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations et contributions de sécurité sociale mentionnées à l'article L. 613-7 du code de la sécurité sociale.
 
 Les règles applicables en cas de contentieux sont celles du contentieux de la sécurité sociale.
+
+NOTA:
+Conformément au IV de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

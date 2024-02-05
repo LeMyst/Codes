@@ -5,3 +5,6 @@ Les indicateurs définis aux articles D. 1142-2 et D. 1142-2-1, ainsi que le niv
 Les dispositions prévues au premier alinéa s'appliquent également dans les cas, prévus aux annexes I et II, où certains indicateurs ne peuvent pas être calculés. Dans ce cas, l'information du comité social et économique est accompagnée de toutes les précisions expliquant les raisons pour lesquelles les indicateurs n'ont pas pu être calculés.
 
 L'ensemble de ces informations est également transmis aux services du ministre chargé du travail selon une procédure de télédéclaration définie par arrêté du ministre chargé du travail.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 4 du décret n° 2022-243 du 25 février 2022.

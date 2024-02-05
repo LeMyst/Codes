@@ -7,3 +7,6 @@ Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but
 2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur. Cette situation peut notamment résulter de la non-déclaration d'une partie de son chiffre d'affaires ou de ses revenus ou de la continuation d'activité après avoir été radié par les organismes de protection sociale en application de l'article L. 613-4 du code de la sécurité sociale ;
 
 3° Soit s'est prévalue des dispositions applicables au détachement de salariés lorsque l'employeur de ces derniers exerce dans l'Etat sur le territoire duquel il est établi des activités relevant uniquement de la gestion interne ou administrative, ou lorsque son activité est réalisée sur le territoire national de façon habituelle, stable et continue.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

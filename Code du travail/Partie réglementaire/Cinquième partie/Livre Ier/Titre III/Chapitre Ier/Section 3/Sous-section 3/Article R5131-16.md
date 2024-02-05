@@ -31,3 +31,6 @@ Par dérogation au précédent alinéa, lorsque le bénéficiaire du contrat est
 Lorsque le jeune accède à l'emploi à l'issue du contrat d'engagement jeune, l'accompagnement par le conseiller référent peut se poursuivre à l'issue de ce contrat en tant que de besoin afin de sécuriser l'insertion professionnelle du jeune dans l'entreprise.
 
 Un nouveau contrat d'engagement jeune ne peut être conclu qu'au terme d'un délai de six mois après l'expiration du précédent contrat, sauf circonstances particulières appréciées par le représentant de la mission locale ou de Pôle emploi, lorsque le jeune ayant respecté ses engagements dans le cadre de son premier contrat d'engagement est ou a été confronté à des difficultés spécifiques.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

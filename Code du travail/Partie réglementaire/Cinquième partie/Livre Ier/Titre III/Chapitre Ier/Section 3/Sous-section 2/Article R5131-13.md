@@ -13,3 +13,6 @@ Le contrat d'engagements prend fin :
 3° A la demande expresse de son bénéficiaire ;
 
 4° En cas de manquement du bénéficiaire à ses engagements contractuels.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-199 du 18 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

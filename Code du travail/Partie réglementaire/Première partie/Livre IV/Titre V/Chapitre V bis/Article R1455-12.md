@@ -11,3 +11,6 @@ Elle est formée, instruite et jugée dans les conditions suivantes :
 Lorsque le conseil de prud'hommes statuant selon la procédure accélérée au fond est saisi à tort, l'affaire peut être renvoyée devant le bureau de jugement dans les conditions prévues à l'article R. 1455-8.
 
 La formation du conseil de prud'hommes amenée à statuer selon la procédure accélérée au fond est, sauf disposition contraire, composée et organisée dans les conditions définies aux articles R. 1455-1 à R. 1455-4.
+
+NOTA:
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité s'appliquent aux demandes introduites à compter du 1er janvier 2020.

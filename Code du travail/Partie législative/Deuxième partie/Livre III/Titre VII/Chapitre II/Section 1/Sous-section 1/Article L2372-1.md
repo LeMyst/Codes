@@ -9,3 +9,6 @@ Par dérogation au premier alinéa, un groupe spécial de négociation, doté de
 2° La société issue de la fusion transfrontalière ne garantit pas au moins le même niveau de participation des salariés, apprécié en fonction de la proportion de représentants parmi les membres du conseil d'administration, du conseil de surveillance ou du comité mentionné à l'article L. 2373-1 du présent code, que le niveau de participation des salariés qui s'applique aux sociétés participant à la fusion transfrontalière préalablement à la prise d'effet de cette dernière ;
 
 3° La société issue de l'opération transfrontalière ne garantit pas que les salariés de ses établissements situés dans un Etat membre de l'Union européenne autre que celui de destination bénéficient des mêmes droits que les salariés de ses établissements situés dans l'Etat membre de destination.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

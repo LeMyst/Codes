@@ -9,3 +9,6 @@ La saisine de l'autorité administrative suspend le processus électoral jusqu'�
 Même si elles interviennent alors que le mandat de certains membres n'est pas expiré, la détermination du nombre d'établissements distincts et la répartition des sièges entre les établissements et les différentes catégories sont appliquées sans qu'il y ait lieu d'attendre la date normale de renouvellement de toutes les délégations des comités sociaux et économiques d'établissement ou de certaines d'entre elles.
 
 La décision de l'autorité administrative peut faire l'objet d'un recours devant le juge judiciaire, à l'exclusion de tout autre recours administratif ou contentieux.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

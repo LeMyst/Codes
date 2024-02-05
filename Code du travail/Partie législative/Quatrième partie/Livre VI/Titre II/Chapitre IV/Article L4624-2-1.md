@@ -5,3 +5,6 @@ Les travailleurs bénéficiant du dispositif de suivi individuel renforcé prév
 Cet examen médical vise à établir une traçabilité et un état des lieux, à date, des expositions à un ou plusieurs facteurs de risques professionnels mentionnés à l'article L. 4161-1 auxquelles a été soumis le travailleur. S'il constate une exposition du travailleur à certains risques dangereux, notamment chimiques, mentionnés au a du 2° du I du même article L. 4161-1, le médecin du travail met en place une surveillance post-exposition ou post-professionnelle, en lien avec le médecin traitant et le médecin conseil des organismes de sécurité sociale. Cette surveillance tient compte de la nature du risque, de l'état de santé et de l'âge de la personne concernée.
 
 Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

@@ -25,3 +25,6 @@ f) Le directeur général de la concurrence, de la consommation et de la répres
 Les membres mentionnés aux 2° à 4° du présent article sont nommés par arrêté conjoint du ministre chargé du travail et du ministre chargé des transports.
 
 Peuvent assister avec voix consultative aux réunions du conseil d'administration le directeur général de l'établissement, le contrôleur budgétaire et l'agent comptable, ainsi que toute personne dont le président du conseil d'administration juge la présence utile.
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2021-1461 du 8 novembre 2021, la composition du conseil d'administration prévue à l'article R. 7345-1 du code du travail est applicable jusqu'à la désignation des représentants des organisations reconnues représentatives figurant sur la liste mentionnée à l'article L. 7343-4 du code du travail.

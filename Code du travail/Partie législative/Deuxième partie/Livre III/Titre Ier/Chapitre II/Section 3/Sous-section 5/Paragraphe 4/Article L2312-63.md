@@ -7,3 +7,6 @@ Cette demande est inscrite de droit à l'ordre du jour de la prochaine séance d
 Si le comité n'a pu obtenir de réponse suffisante de l'employeur ou si celle-ci confirme le caractère préoccupant de la situation, il établit un rapport. Dans les entreprises employant au moins mille salariés et en l'absence d'accord prévu à l'article L. 2315-45, ce rapport est établi par la commission économique prévue par l'article L. 2315-46.
 
 Ce rapport, au titre du droit d'alerte économique, est transmis à l'employeur et au commissaire aux comptes.
+
+NOTA:
+Conformément à l'article 9 I de l'ordonnance n° 2017-1386 du 22 septembre 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur des décrets pris pour leur application, et au plus tard le 1er janvier 2018.

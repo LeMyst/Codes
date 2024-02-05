@@ -13,3 +13,6 @@ II.-L'agent de contrôle de l'inspection du travail mentionné à l'article L. 8
 2° A l'initiative de l'employeur ou à la demande de la majorité de la délégation du personnel du comité social et économique, aux réunions de ce comité mentionnées aux premier et deuxième alinéas de l'article L. 2315-27 ;
 
 3° Aux réunions du comité consécutives à un accident de travail ayant entrainé un arrêt de travail d'au moins huit jours ou à une maladie professionnelle ou à caractère professionnel.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

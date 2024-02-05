@@ -21,3 +21,6 @@ II.-Le comité social et économique rend ses deux avis dans un délai qui ne pe
 Une convention ou un accord collectif de travail peut prévoir des délais différents.
 
 En l'absence d'avis du comité social et économique dans ces délais, celui-ci est réputé avoir été consulté.
+
+NOTA:
+Conformément à l'article 40-VI de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux procédures de licenciement économique engagées dans les entreprises ayant mis en place un comité social et économique.

@@ -9,3 +9,6 @@ Dans les entreprises de moins de trois cents salariés, l'employeur peut refuser
 L'employeur précise le motif de son refus et le porte à la connaissance du salarié.
 
 Ce refus peut être contesté par le salarié directement devant le conseil de prud'hommes, statuant selon la procédure accélérée au fond, dans des conditions déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

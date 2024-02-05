@@ -13,3 +13,6 @@ Elle est également de vingt-quatre mois :
 3° Lorsque survient dans l'entreprise, qu'il s'agisse de celle de l'entrepreneur principal ou de celle d'un sous-traitant, une commande exceptionnelle à l'exportation dont l'importance nécessite la mise en œuvre de moyens quantitativement ou qualitativement exorbitants de ceux que l'entreprise utilise ordinairement. Dans ce cas, la durée initiale du contrat ne peut être inférieure à six mois et l'employeur doit procéder, préalablement aux recrutements envisagés, à la consultation du comité social et économique, s'il existe.
 
 Les dispositions du présent article ne sont pas applicables au contrat de travail à durée déterminée conclu en application du 6° de l'article L. 1242-2 et de l'article L. 1242-3.
+
+NOTA:
+Conformément à l'article 40-VIII de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux contrats de travail conclus postérieurement à la publication de ladite ordonnance.

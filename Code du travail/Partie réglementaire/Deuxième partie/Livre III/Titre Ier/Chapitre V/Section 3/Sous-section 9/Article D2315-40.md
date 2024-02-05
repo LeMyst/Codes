@@ -5,9 +5,7 @@ Pour la consolidation, la certification et l'intervention d'un expert-comptable 
 |  | SEUILS  |
 | --- | --- |
 | Effectif de salariés  | Ressources annuelles définies à l'article D. 2315-33  | Total du bilan  |
-| Consolidation des comptes  | 50  | Montant prévu au 2° de l'article R. 612-1 du code de commerce
-| Montant prévu au 3° de l'article R. 612-1 du code de commerce
-|
+| Consolidation des comptes  | 50  | Montant prévu au 2° de l'article R. 612-1 du code de commerce  | Montant prévu au 3° de l'article R. 612-1 du code de commerce  |
 | Certification des comptes  |
 | Intervention de l'expert-comptable  |
 

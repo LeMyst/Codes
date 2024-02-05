@@ -15,3 +15,6 @@ Pour l'évaluation des risques professionnels, l'employeur peut également solli
 A la suite de cette évaluation, l'employeur met en oeuvre les actions de prévention ainsi que les méthodes de travail et de production garantissant un meilleur niveau de protection de la santé et de la sécurité des travailleurs. Il intègre ces actions et ces méthodes dans l'ensemble des activités de l'établissement et à tous les niveaux de l'encadrement.
 
 Lorsque les documents prévus pour l'application du présent article doivent faire l'objet d'une mise à jour, celle-ci peut être moins fréquente dans les entreprises de moins de onze salariés, sous réserve que soit garanti un niveau équivalent de protection de la santé et de la sécurité des travailleurs, dans des conditions fixées par décret en Conseil d'Etat après avis des organisations professionnelles concernées.
+
+NOTA:
+Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.

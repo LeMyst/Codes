@@ -15,3 +15,6 @@ II. – A défaut d'un tel acte, les conventions et accords sont publiés dans u
 Les autres signataires peuvent, dans un délai d'un mois suivant le dépôt de l'accord, formuler la même demande.
 
 Cette demande comporte l'indication par le représentant légal du groupe, de l'entreprise ou de l'établissement ou par les représentants légaux dans le cas d'un accord interentreprises ou par l'organisation syndicale signataire du nom, prénom et qualité de son représentant dûment mandaté à cet effet, l'intitulé de la convention ou de l'accord et la date et le lieu de sa signature.
+
+NOTA:
+Décret n° 2017-752 du 3 mai 2017, Art. 2 : Les conventions et accords de branche, de groupe, interentreprises, d'entreprise et d'établissement conclus à compter du 1er septembre 2017 sont publiés, à titre transitoire et jusqu'au 1er octobre 2018, dans une version ne comportant pas les noms et prénoms des négociateurs et des signataires. La version ainsi rendue anonyme de l'accord est déposée par la partie la plus diligente, en même temps que l'accord et les pièces mentionnées aux articles D. 2231-2 et suivants du code du travail.

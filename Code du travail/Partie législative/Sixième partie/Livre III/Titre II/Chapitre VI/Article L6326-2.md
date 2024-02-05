@@ -5,3 +5,6 @@ Dans le cadre de la préparation opérationnelle à l'emploi, la formation est f
 L'employeur, en concertation avec l'opérateur France Travail et avec l'opérateur de compétences dont relève l'entreprise concernée, définit les compétences que le demandeur d'emploi acquiert au cours de la formation pour occuper l'emploi proposé.
 
 Les opérateurs de compétences ainsi que tout organisme relevant du réseau pour l'emploi au titre des II ou III de l'article L. 5311-7 désigné à cette fin par l'opérateur France Travail peuvent être associés à l'instruction de la préparation opérationnelle à l'emploi dans les conditions prévues à l'article L. 6326-1 et au présent article.
+
+NOTA:
+Conformément au V de l’article 6 et au II de l'article 8 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

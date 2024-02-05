@@ -5,3 +5,6 @@ L'émetteur de titres-restaurant ouvre un compte bancaire ou postal sur lequel s
 Toutefois, cette règle n'est pas applicable à l'employeur émettant ses titres au profit des salariés.
 
 Le montant des versements est égal à la valeur libératoire des titres mis en circulation. Les fonds provenant d'autres sources, et notamment des commissions éventuellement perçues par les émetteurs ne peuvent être versés aux comptes ouverts en application du présent article.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

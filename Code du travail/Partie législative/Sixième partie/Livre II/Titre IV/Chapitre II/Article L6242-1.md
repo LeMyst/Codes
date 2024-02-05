@@ -35,3 +35,6 @@ VI.-Par dérogation, pour les établissements mentionnés au deuxième alinéa d
 VII.-Pour le calcul de cette contribution, le montant de la contribution et l'assiette déclarée sont arrondis conformément aux dispositions de l'article L. 133-10 du code de la sécurité sociale.
 
 VIII.-Cette contribution est recouvrée dans les conditions prévues au I de l'article L. 6131-3 du présent code. Elle fait l'objet d'un versement unique complémentaire aux cotisations et contributions de sécurité sociale versées au titre de la période d'activité du mois de mars de l'année suivant celle au titre de laquelle elle est due.
+
+NOTA:
+Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2022 pour les contributions dues à compter de cette date.

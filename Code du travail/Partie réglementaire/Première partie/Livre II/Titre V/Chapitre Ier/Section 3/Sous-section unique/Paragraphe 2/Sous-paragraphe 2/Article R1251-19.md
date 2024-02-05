@@ -5,3 +5,6 @@ L'engagement de caution fait l'objet d'un contrat écrit précisant les conditio
 Ce contrat prévoit la renonciation du garant, en cas de défaillance de l'entreprise de travail temporaire, au bénéfice de discussion prévu aux articles 2305 et 2305-1 du code civil.
 
 Le contrat est tenu, au siège de l'entreprise de travail temporaire, à la disposition de l'agent de contrôle de l'inspection du travail et des agents de contrôle des organismes de sécurité sociale et des institutions sociales.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

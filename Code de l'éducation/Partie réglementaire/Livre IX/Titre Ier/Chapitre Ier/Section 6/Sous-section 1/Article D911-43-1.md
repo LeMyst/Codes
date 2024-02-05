@@ -17,3 +17,6 @@ I.-Les emplois d'encadrement mentionnés au 1° du I de l'article D. 911-43 sont
 II.-Les fonctionnaires recrutés sur l'un des emplois mentionnés au présent article sont recrutés par le directeur général de l'Agence pour l'enseignement français à l'étranger après avis de la commission consultative paritaire centrale.
 
 Ils perçoivent les émoluments prévus au A de l'article 4 du décret n° 2002-22 du 4 janvier 2002 relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 22 du décret n° 2022-896 du 16 juin 2022.

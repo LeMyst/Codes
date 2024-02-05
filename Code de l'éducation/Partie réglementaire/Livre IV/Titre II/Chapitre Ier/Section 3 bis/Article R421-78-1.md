@@ -9,3 +9,6 @@ III.-La transmission obligatoire à la collectivité territoriale de rattachemen
 IV.-En cas d'impossibilité technique constatée par l'établissement et confirmée par l'autorité académique ou si l'utilisation de l'application informatique mentionnée au I ne présente plus les garanties de sécurité et de confidentialité requises, l'établissement recourt à un autre mode d'édiction, de signature et de transmission des actes. Il en informe préalablement, le cas échéant, la collectivité territoriale de rattachement.
 
 V.-Les dispositions des alinéas précédents ne s'appliquent ni aux actes de l'Ecole européenne de Strasbourg, ni à la procédure de décision conjointe prévue aux e et f de l'article L. 421-11 et au deuxième alinéa du II de l'article L. 421-13 du code de l'éducation, ni aux décisions du chef d'établissement relatives aux mesures disciplinaires prises à l'encontre des personnels liés par contrat à l'établissement mentionnées au 2° de l'article R. 421-54 du code de l'éducation.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2015-750 du 24 juin 2015, les dispositions du présent décret entreront en vigueur à une date fixée par arrêté du ministre chargé de l'éducation et au plus tard le 1er septembre 2017. Date fixée au jour de sa publication par l'arrêté du 27 novembre 2015 (Nor MENG1526481A)

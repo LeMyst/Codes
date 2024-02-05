@@ -9,3 +9,6 @@ Le président ou le directeur de l'établissement vérifie l'éligibilité des c
 La commission de contrôle des opérations électorales mentionnée à l'article D. 719-38 examine les contestations portant sur les opérations décrites à l'alinéa précédent.
 
 Les listes enregistrées sont immédiatement affichées à l'expiration du délai de rectification.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2017-610 du 24 avril 2017, ces dispositions s'appliquent aux élections des conseils des établissements publics à caractère scientifique, culturel et professionnel dont la décision fixant les modalités d'organisation est postérieure au 1er juillet 2017.

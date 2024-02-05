@@ -9,3 +9,6 @@ Si le terrain d'assiette n'est pas fourni à l'Etat, il prend les mesures néces
 Il délivre le permis de construire dans les conditions prévues par les articles L. 422-2-2 et R. 422-2 du code de l'urbanisme.
 
 Il passe les marchés et souscrit l'assurance de dommages prévue par les articles L. 242-1 et suivants du code des assurances pour le compte de la collectivité territoriale, future propriétaire.
+
+NOTA:
+L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18 du 5 janvier 2007.

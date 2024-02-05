@@ -13,3 +13,6 @@ III.-Un arrêté du ministre de la défense et des ministres chargés de l'ensei
 2° La ou les universités dans lesquelles sont déposées les candidatures.
 
 IV.-Un arrêté du ministre de la défense détermine annuellement le calendrier de dépôt et d'examen des candidatures.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

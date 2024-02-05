@@ -7,3 +7,6 @@ En cas de substitution de personne ou de troubles affectant le déroulement des 
 Dans tous les cas, le surveillant responsable de la salle dresse un procès-verbal contresigné par le ou les autres surveillants et par le ou les auteurs des faits. En cas de refus de contresigner, mention est portée au procès-verbal.
 
 Le recteur d'académie est saisi sans délai des procès-verbaux correspondants par le chef de centre.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2022-143 du 8 février 2022, ces dispositions sont applicables à compter de la session 2022 du baccalauréat général et du baccalauréat technologique.

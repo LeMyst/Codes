@@ -13,3 +13,6 @@ Un arrêté des ministres chargés de l'enseignement supérieur et de la santé 
 III.-Les candidats titulaires d'un diplôme de docteur d'une université française mention “ médecine ” ou mention “ chirurgie dentaire ”, ou ayant accompli des études en vue de ce diplôme ou d'un diplôme de chirurgien-dentiste d'une université française, sont autorisés à postuler le diplôme d'Etat de docteur en médecine ou le diplôme d'Etat de docteur en chirurgie-dentaire dans des conditions prévues par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé.
 
 Les candidats titulaires d'un diplôme d'université de pharmacien obtenu sous le régime du décret du 4 mai 1937 relatif au régime des études afférentes au diplôme de pharmacien et les candidats titulaires d'un diplôme d'université de pharmacien obtenu sous le régime du décret du 26 novembre 1962 modifiant le régime des études et des examens en vue du diplôme de pharmacien peuvent bénéficier de dispenses d'études et d'examen dans des conditions prévues par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

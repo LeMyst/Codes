@@ -5,3 +5,6 @@ Quand les membres titulaires et suppléants du conseil académique appartenant a
 Lorsque, après application des dispositions de l'alinéa précédent, l'effectif du collège des usagers de la section disciplinaire est incomplet pour un sexe, les représentants titulaires et suppléants des usagers au conseil académique élisent au scrutin majoritaire à deux tours les membres appelés à compléter la section disciplinaire parmi les usagers de ce sexe inscrits dans l'établissement.
 
 Lorsque, après application des dispositions prévues aux alinéas précédents, l'effectif du collège des usagers de la section disciplinaire est incomplet pour un sexe, les représentants titulaires et suppléants des usagers au conseil académique élisent au scrutin majoritaire à deux tours les membres appelés à compléter la section disciplinaire parmi les représentants titulaires et suppléants des usagers de ce sexe au conseil académique d'autres établissements publics d'enseignement supérieur.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

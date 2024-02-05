@@ -25,3 +25,6 @@ A défaut de réponse dans ce délai, le chef d'établissement est réputé avoi
 La décision par laquelle le chef d'établissement fait connaître à l'autorité académique son refus de la ou des candidatures qui lui ont été soumises est motivée. Si le chef d'établissement refuse sans motif légitime la ou les candidatures qui lui ont été soumises, il ne peut être procédé à la nomination de maîtres délégués dans la discipline concernée au sein de l'établissement.
 
 Les maîtres mentionnés aux 3°, 4° et 5° qui, sans motif légitime, ne se portent candidats à aucun service ou qui refusent le service qui leur est proposé perdent le bénéfice de leur admission définitive à l'échelle de rémunération à laquelle ils ont été admis.
+
+NOTA:
+Conformément à l'article 8 du du décret n° 2022-671 du 26 avril 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

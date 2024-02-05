@@ -7,3 +7,6 @@ La formation en milieu professionnel ou les activités exercées en milieu profe
 L'obtention d'une note supérieure ou égale à 10 sur 20 à une épreuve de l'examen donne lieu à la délivrance d'une ou de plusieurs unités. Les notes et unités correspondantes sont valables cinq ans à compter de leur date d'obtention.
 
 Les candidats qui, au terme du calcul de la moyenne conditionnant la délivrance du diplôme, échouent à l'examen et les candidats ayant choisi la forme progressive de l'examen dans les conditions prévues à l'article D. 337-115 qui n'obtiennent pas cette moyenne, reçoivent une attestation reconnaissant l'acquisition de blocs de compétences correspondant aux unités auxquelles ils ont obtenu une note égale ou supérieure à 10 sur 20. Cette attestation est délivrée par le recteur d'académie.
+
+NOTA:
+Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.

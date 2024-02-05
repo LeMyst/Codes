@@ -17,3 +17,6 @@ Nul ne peut poursuivre le troisième cycle spécialisé des études pharmaceutiq
 Le délai mentionné à l'alinéa précédent est allongé de la durée des congés prévus aux 2° et 3° de l'article D. 633-16 du présent code, de la durée de l'année de recherche prévue à l'article D. 633-13 du présent code et de la durée d'une thèse de doctorat mentionnée au 2° de l'article R. 6153-26 du code de la santé publique , les cas échéants.
 
 Pour les assistants des hôpitaux des armées, le délai prévu au sixième alinéa est allongé de la durée des congés prévus aux 2° et 3° du II de l'article D. 633-30.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1236 du 16 septembre 2022, ces dispositions s'appliquent à compter de la rentrée universitaire 2022-2023 aux étudiants inscrits au diplôme d'études spécialisées de pharmacie hospitalière.

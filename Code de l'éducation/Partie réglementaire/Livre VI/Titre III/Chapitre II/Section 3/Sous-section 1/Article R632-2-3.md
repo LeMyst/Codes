@@ -13,3 +13,6 @@ IV.-Les étudiants mentionnés au II de l'article R. 632-2 qui n'obtiennent pas 
 Les étudiants qui n'ont pas pu se présenter aux examens cliniques objectifs structurés pour des raisons de force majeure ou pour une raison médicale dûment justifiées, sont autorisés à renouveler leur participation à la session de ces examens organisée l'année universitaire suivante.
 
 La succession de mises en situations, leur nature et leur durée identique, le déroulement du parcours et le nombre d'étapes composant les examens cliniques objectifs structurés, la liste des situations liées à la pratique médicale de base validée par le conseil scientifique de médecine mentionné à l'article R. 632-2-4, la valeur et les modalités de détermination de la note minimale ainsi que les conditions dans lesquelles un étudiant est autorisé à renouveler sa participation aux examens cliniques objectifs structurés sont fixés par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

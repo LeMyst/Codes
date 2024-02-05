@@ -19,3 +19,6 @@ Les modalités d'évaluation et de contrôle des connaissances sont précisées 
 Pour les établissements d'enseignement artistique supérieur, les enseignements comportent des acquisitions en relation étroite avec l'intitulé des diplômes délivrés.
 
 Les diplômes délivrés par les établissements reconnus au sens de l'article L. 361-2 sont des diplômes d'établissement.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2023-292 du 18 avril 2023, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication, à savoir le 1er mai 2023.

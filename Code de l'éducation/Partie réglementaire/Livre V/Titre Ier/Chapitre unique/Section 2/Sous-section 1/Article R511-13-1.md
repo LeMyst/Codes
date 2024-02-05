@@ -17,3 +17,6 @@ Seul le conseil de discipline peut prononcer la révocation du sursis s'appliqua
 III.-La révocation du sursis entraîne la mise en œuvre de la sanction à laquelle il s'applique.
 
 Dans le cas mentionné au 2° du II, les deux sanctions sont exécutées cumulativement si la nouvelle sanction n'est pas assortie du sursis. L'exécution cumulative de ces deux sanctions ne peut avoir pour effet d'exclure l'élève plus de huit jours de sa classe ou de son établissement.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2019-906 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

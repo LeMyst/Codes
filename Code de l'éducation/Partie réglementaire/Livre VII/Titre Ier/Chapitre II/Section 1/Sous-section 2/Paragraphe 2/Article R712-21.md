@@ -5,3 +5,6 @@ Les membres élus au conseil académique sont élus membres de la section discip
 Les personnels enseignants membres de la section disciplinaire qui perdent la qualité au titre de laquelle ils ont été élus ou qui cessent de faire partie de la section disciplinaire pour quelque cause que ce soit sont remplacés, par une personne du même sexe, pour la durée du mandat restant à courir, dans les conditions prévues pour leur désignation.
 
 Il en va de même des personnes désignées en application de l'article R. 712-20 qui sont remplacées, par une personne du même sexe, pour la durée du mandat restant à courir, dans les conditions fixées pour leur désignation.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

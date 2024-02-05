@@ -19,3 +19,6 @@ Sous réserve des attributions des préfets et dans la limite des attributions q
 Le service régional, ou les services régionaux, agissant dans les domaines mentionnés au 1° est notamment chargé du contrôle budgétaire des établissements publics à caractère scientifique, culturel et professionnel ainsi que du contrôle administratif et financier des délibérations des conseils d'administration et des décisions des présidents et directeurs de ces mêmes établissements et des établissements publics administratifs relevant du ministre chargé de l'enseignement supérieur, de la recherche et de l'innovation.
 
 Le recteur de région académique peut, par arrêté, créer des services régionaux pour toute question relevant de ses attributions autres que celles relevant des domaines mentionnés aux 1° à 7°.
+
+NOTA:
+Conformément au deuxième alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les dispositions des 4° à 7° sont mises en œuvre au plus tard dans un délai de deux ans à compter du 1er janvier 2020.

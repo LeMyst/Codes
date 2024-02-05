@@ -15,3 +15,6 @@ L'accès aux données utilisées pour ces évaluations à des fins de statistiqu
 Il formule toute recommandation utile au regard des résultats des évaluations mentionnées au présent article.
 
 Il établit un programme de travail annuel, qu'il transmet au ministre chargé de l'éducation nationale. Ce programme est rendu public. En accord avec le ministre chargé de l'agriculture, ses travaux peuvent prendre en compte l'enseignement agricole.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

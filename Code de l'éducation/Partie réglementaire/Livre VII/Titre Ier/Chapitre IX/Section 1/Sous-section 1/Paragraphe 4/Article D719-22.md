@@ -11,3 +11,6 @@ Pour l'élection des représentants des enseignants-chercheurs et des personnels
 Pour l'élection des représentants des usagers, les candidats fournissent une photocopie de leur carte d'étudiant ou à défaut un certificat de scolarité. La liste comprend un nombre de candidats au maximum égal au double du nombre des sièges de membres titulaires à pourvoir. Les listes peuvent être incomplètes dès lors qu'elles comportent un nombre de candidats au moins égal à la moitié du nombre des sièges de membres titulaires et suppléants à pourvoir et qu'elles sont composées alternativement d'un candidat de chaque sexe.
 
 Chaque liste doit comporter le nom d'un délégué, qui est également candidat, afin de représenter la liste au sein du comité électoral consultatif mentionné à l'article D. 719-3.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2017-610 du 24 avril 2017, ces dispositions s'appliquent aux élections des conseils des établissements publics à caractère scientifique, culturel et professionnel dont la décision fixant les modalités d'organisation est postérieure au 1er juillet 2017.

@@ -21,3 +21,6 @@ Ces délégations locales des organisations professionnelles et ces sections loc
 V.-A défaut de proposition de représentants des chefs d'établissement, il est procédé par voie de tirage au sort parmi les chefs d'établissement du premier ou du second degré sous contrat en fonctions dans le ressort territorial de la commission consultative mixte considérée.
 
 Les sièges des représentants des chefs d'établissement demeurent vacants si leur désignation est refusée par les intéressés.
+
+NOTA:
+Décret n° 2013-1231 du 21 décembre 2013, article 6 : Au lieu de "ressort territorial celle-ci", il convient de lire "ressort territorial de celle-ci" ; au lieu de "parmi les établissement", il convient de lire "parmi les chefs d'établissement".

@@ -7,3 +7,6 @@ Les étudiants de troisième cycle des études de médecine, signataires au mome
 Les changements de subdivision ne sont pas autorisés, sauf en cas de motif impérieux dûment justifié par l'étudiant.
 
 Les modalités d'application du présent article sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

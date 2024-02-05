@@ -10,10 +10,8 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 4° Il donne son accord sur :
 
-a) Le programme des associations fonctionnant au sein de l'établissement ;
-
-b) La passation des contrats, conventions et marchés dont l'établissement est signataire ou l'adhésion à tout groupement d'établissements ;
-
+a) Le programme des associations fonctionnant au sein de l'établissement ;\
+b) La passation des contrats, conventions et marchés dont l'établissement est signataire ou l'adhésion à tout groupement d'établissements ;\
 c) Les modalités de participation de l'établissement aux actions de formation continue ;
 
 5° Il délibère sur les questions qui relèvent de sa compétence ainsi que sur celles ayant trait aux domaines sanitaire et social et à la sécurité, à l'information des membres de la communauté scolaire, à la constitution au sein de l'établissement de groupes de travail ;
@@ -23,3 +21,6 @@ c) Les modalités de participation de l'établissement aux actions de formation 
 7° Il autorise l'acceptation des dons et legs, l'acquisition et l'aliénation des biens, ainsi que les actions à intenter ou à défendre en justice ;
 
 8° Il peut donner délégation au chef d'établissement pour passer des conventions et contrats sous réserve que leur incidence financière ne dépasse pas les limites fixées à l'article 28 du code des marchés publics.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2019-906 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

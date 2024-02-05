@@ -49,3 +49,6 @@ VI.-Dans le cadre du contrat de plan régional de développement des formations 
 Les départements, les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur demande, à l'élaboration du programme régional.
 
 Pour la mise en oeuvre de ce programme, des conventions sont passées avec les établissements d'enseignement publics et les autres organismes de formation concernés.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

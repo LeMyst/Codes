@@ -7,3 +7,6 @@ Lorsque, après application des dispositions de l'alinéa précédent, l'effecti
 Lorsque, pour un collège, il n'existe au sein du conseil académique aucun membre élu, les représentants élus du conseil académique appartenant aux collèges de rang supérieur le plus proche élisent au scrutin majoritaire à deux tours les membres appelés à compléter la section disciplinaire parmi les personnels exerçant dans l'établissement et relevant du collège incomplet ou, à défaut, de leur propre collège.
 
 Lorsque, pour un sexe et un collège, un établissement ne peut pas compléter sa section disciplinaire en application des dispositions précédentes, les membres élus du conseil académique appartenant au collège incomplet ou, à défaut, ceux du collège de rang supérieur le plus proche élisent au scrutin majoritaire à deux tours les membres appelés à compléter la section disciplinaire parmi les personnes de ce sexe élues au conseil académique d'autres établissements publics d'enseignement supérieur et appartenant au collège incomplet.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

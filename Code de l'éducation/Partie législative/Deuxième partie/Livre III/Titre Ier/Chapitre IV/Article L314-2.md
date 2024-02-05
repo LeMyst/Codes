@@ -5,3 +5,6 @@ Sous réserve de l'autorisation préalable des autorités académiques et après
 Dans le cadre de ces expérimentations, et sous réserve de l'accord des enseignants concernés, la périodicité des obligations réglementaires de service peut être modifiée.
 
 Les modalités d'évaluation de ces expérimentations et de leur éventuelle reconduction sont fixées par décret.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

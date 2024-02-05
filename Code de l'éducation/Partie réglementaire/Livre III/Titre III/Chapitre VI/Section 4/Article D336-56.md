@@ -21,3 +21,6 @@ Le titre de technicien breveté est décerné :
 Les sujets des épreuves sont choisis par le ministre chargé de l'éducation nationale ou, par délégation, par les recteurs d'académie.
 
 L'anonymat des épreuves doit être assuré.
+
+NOTA:
+Conformément à l’article 34 du décret n° 2018-614 du 16 juillet 2018, les présentes dispositions sont applicables à compter des épreuves du baccalauréat organisées en classe de première au cours ou à la fin de l'année scolaire 2019-2020 et des épreuves du baccalauréat organisées en classe de terminale au cours ou à la fin de l'année scolaire 2020-2021.

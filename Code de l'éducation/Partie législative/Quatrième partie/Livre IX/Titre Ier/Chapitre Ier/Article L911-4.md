@@ -11,3 +11,6 @@ Dans l'action principale, les membres de l'enseignement public contre lesquels l
 L'action en responsabilité exercée par la victime, ses parents ou ses ayants droit, intentée contre l'Etat, ainsi responsable du dommage, est portée devant le tribunal de l'ordre judiciaire du lieu où le dommage a été causé et dirigée contre l'autorité académique compétente.
 
 La prescription en ce qui concerne la réparation des dommages prévus par le présent article est acquise par trois années à partir du jour où le fait dommageable a été commis.
+
+NOTA:
+Aux termes du 2 du VIII de l'article 15 de la loi n° 2015-177 du 16 février 2015, ces dispositions sont applicables aux actions en responsabilité introduites, sur le fondement de l'article L. 911-4 du code de l'éducation, devant les juridictions judiciaires à compter du premier jour du troisième mois suivant la publication du décret pris en application de ces dispositions.

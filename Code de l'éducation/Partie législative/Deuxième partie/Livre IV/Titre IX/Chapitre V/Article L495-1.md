@@ -2,79 +2,35 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR REDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR REDACTION |
 | --- | --- |
-|
-L. 401-1 et L. 401-2 |
-Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|
-L. 401-3 |
-Résultant de la loi n° 2010-1127 du 28 septembre 2010 |
-|
-L. 411-1 |
-Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-|
-L. 411-3 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 421-7 |
-Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 401-1 et L. 401-2 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 401-3 |  Résultant de la loi n° 2010-1127 du 28 septembre 2010 |
+|  L. 411-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 411-3 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 421-7 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 421-8 | Résultant de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets |
 | L. 421-9 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-|
-L. 421-10, 1er alinéa |
-Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|
-L. 423-1 |
-Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-|
-L. 423-3 |
-Résultant de la loi n° 2011-525 du 17 mai 2011 |
-|
-L. 441-1 |
-Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|
-L. 441-2 et L. 441-3 |
-Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 421-10, 1er alinéa |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 423-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 423-3 |  Résultant de la loi n° 2011-525 du 17 mai 2011 |
+|  L. 441-1 |  Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+|  L. 441-2 et L. 441-3 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 441-3-1 et L. 441-4 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 442-2 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 442-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|
-L. 444-1 et L. 444-2 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 444-3 |
-Résultant de l'ordonnance n° 2014-691 du 26 juin 2014 |
-|
-L. 444-5, 1er alinéa |
-Résultant de la loi n° 2007-293 du 5 mars 2007 |
-|
-L. 444-6 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|
-L. 444-7 et L. 444-8 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 444-10 |
-Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
-|
-L. 445-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|
-L. 471-1 et L. 471-2 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 471-3 |
-Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|
-L. 471-4 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 471-5 |
-Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
-|
-L. 472-1 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 444-1 et L. 444-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 444-3 |  Résultant de l'ordonnance n° 2014-691 du 26 juin 2014 |
+|  L. 444-5, 1er alinéa |  Résultant de la loi n° 2007-293 du 5 mars 2007 |
+|  L. 444-6 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+|  L. 444-7 et L. 444-8 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 444-10 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+|  L. 445-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+|  L. 471-1 et L. 471-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 471-3 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 471-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 471-5 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+|  L. 472-1 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 
@@ -103,3 +59,6 @@ b) Au deuxième alinéa, les mots : “ ; ils peuvent, en outre, les traduire, a
 6° Au premier et deuxième alinéas de l'article L. 471-3, les mots : “ recteur d'académie ” sont remplacés par les mots : “ vice-recteur ” ;
 
 7° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contrevaleur en monnaie locale.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

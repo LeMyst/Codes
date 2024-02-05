@@ -11,3 +11,6 @@ III.-Conformément à l'article D. 612-1-11 du code de l'éducation, plusieurs �
 La commission d'examen des vœux formée au sein de chaque établissement ou au sein du regroupement examine les dossiers selon les modalités définies aux articles D. 612-1-13 et D. 612-1-14 du code de l'éducation. Après examen des dossiers de candidature, la commission d'examen des vœux ordonne les candidatures retenues et établit une liste de candidats admis. Ces candidats admis sont autorisés à intégrer la première année de formation en vue du diplôme d'Etat d'audioprothésiste.
 
 Toutefois, la commission d'examen des vœux peut prévoir, après l'examen des dossiers de candidature, l'organisation d'un entretien des candidats figurant sur une liste qu'elle aura préalablement établie. Dans ce cas, à l'issue de cet entretien, la commission ordonne les candidatures retenues et établit la liste des candidats admis qui sont autorisés à intégrer la première année de formation en vue du diplôme d'Etat d'audioprothésiste.
+
+NOTA:
+Conformément au II de l’article 5 du décret n° 2020-579 du 14 mai 2020, les dispositions du dernier alinéa, relatives à l'entretien optionnel, ne s'appliquent pas au titre de l'année universitaire 2020-2021.

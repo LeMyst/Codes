@@ -21,3 +21,6 @@ Si cette proportion n'est pas atteinte en raison de l'absence d'un ou plusieurs 
 Dans les sections comportant des enseignements artistiques spécialisés où interviennent des professionnels de façon continue, ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat.
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-402 du 22 mars 2022, ces dispositions sont applicables à compter de la session 2023 du baccalauréat technologique.

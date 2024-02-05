@@ -9,3 +9,6 @@ Dans le respect des stratégies nationales de l'enseignement supérieur et de la
 Les collectivités territoriales et les établissements publics de coopération intercommunale qui accueillent des sites universitaires ou des établissements de recherche sont associés à l'élaboration du schéma régional. Les orientations des schémas d'enseignement supérieur et de recherche et des schémas de développement universitaire définis par les communes, les établissements publics de coopération intercommunale à fiscalité propre, les pôles métropolitains et les départements prennent en compte les orientations du schéma régional de l'enseignement supérieur, de la recherche et de l'innovation.
 
 La région fixe les objectifs des programmes pluriannuels d'intérêt régional en matière de recherche et détermine les investissements qui y concourent. Les orientations du schéma régional de l'enseignement supérieur, de la recherche et de l'innovation sont prises en compte par les autres schémas établis par la région en matière de formation, d'innovation et de développement économique.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -19,3 +19,6 @@ Pour chaque membre de la commission, un suppléant est désigné dans les mêmes
 En l'absence de son président et du suppléant de ce dernier, la commission est présidée par son vice-président.
 
 La commission de discipline du diplôme national des métiers d'art et du design est assistée d'un secrétaire mis à sa disposition par le recteur de région académique.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

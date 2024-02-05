@@ -7,3 +7,6 @@ L'établissement dans lequel le candidat est inscrit ou les établissements aupr
 Les décisions mentionnées au premier alinéa n'interviennent qu'après que le candidat a été mis à même, par l'autorité compétente mentionnée au précédent alinéa, de présenter des observations. A cette fin, il est informé des faits qui lui sont reprochés, de la possibilité de prendre connaissance de son dossier et de formuler, dans un délai de cinq jours ouvrables, des observations écrites et, le cas échéant, sur sa demande, des observations orales. Il peut se faire assister par un conseil ou représenter par un mandataire de son choix. Au regard des observations éventuellement produites et des éléments recueillis, l'autorité compétente mentionnée au précédent alinéa peut décider de ne pas donner suite aux poursuites. Elle en informe l'intéressé.
 
 Ces décisions sont notifiées à l'intéressé. Elles mentionnent les voies et les délais de recours. Elles sont transmises au ministre chargé de l'enseignement supérieur. Une copie est adressée aux établissements concernés.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

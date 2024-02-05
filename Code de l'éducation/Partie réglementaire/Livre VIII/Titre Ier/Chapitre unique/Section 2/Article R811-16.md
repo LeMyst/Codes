@@ -5,3 +5,6 @@ Quand les membres élus du conseil académique appartenant aux collèges défini
 Lorsque, après application des dispositions de l'alinéa précédent, l'effectif de la section disciplinaire est incomplet pour un sexe et un collège, les membres élus du conseil académique appartenant au collège correspondant complètent l'effectif de la section disciplinaire en élisant au scrutin majoritaire à deux tours les membres appelés à compléter la section parmi les personnels de ce sexe du même collège exerçant dans l'établissement.
 
 Lorsque, pour un sexe et un collège, l'établissement ne peut pas compléter la section disciplinaire en application des dispositions précédentes, les membres élus du conseil académique appartenant au collège incomplet élisent au scrutin majoritaire à deux tours les membres appelés à compléter la section disciplinaire parmi les personnes de ce sexe élues au conseil académique d'autres établissements publics d'enseignement supérieur appartenant au collège incomplet.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

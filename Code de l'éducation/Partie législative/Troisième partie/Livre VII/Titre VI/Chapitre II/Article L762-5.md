@@ -7,3 +7,6 @@ Les montants affectés à la masse salariale au sein de la dotation annuelle de 
 L'établissement assure l'information régulière du ministre chargé de l'enseignement supérieur et se dote d'instruments d'audit interne et de pilotage financier et patrimonial selon des modalités précisées par décret.
 
 Les comptes de l'établissement font l'objet d'une certification annuelle par un commissaire aux comptes.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

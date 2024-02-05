@@ -5,3 +5,6 @@ Lorsqu'une sanction prévue aux articles R. 811-36 ou R. 811-37 est prononcée e
 L'inscription prise dans le cadre des examens annulés s'impute sur le nombre des inscriptions pédagogiques autorisées dans la réglementation du diplôme.
 
 Aucun des titres acquis pendant la durée des exclusions ou des interdictions prévues aux articles R. 811-36 et R. 811-37 ne peut être pris en considération en vue de dispense partielle ou totale des enseignements ou épreuves nécessaires à l'obtention des diplômes délivrés par un établissement public d'enseignement supérieur.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

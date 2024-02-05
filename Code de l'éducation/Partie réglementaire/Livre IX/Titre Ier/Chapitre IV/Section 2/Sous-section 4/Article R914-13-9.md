@@ -11,3 +11,6 @@ I.-Sont électeurs pour la désignation des représentants du personnel au sein 
 La qualité d'électeur s'apprécie au jour du scrutin.
 
 II.-Pour le calcul des effectifs mentionnés à l'article R. 914-13-4, sont pris en compte l'ensemble des électeurs désignés au I. L'effectif à retenir, comprenant les parts respectives de femmes et d'hommes, est apprécié au 1er janvier de l'année de l'élection des représentants du personnel. Il est déterminé au plus tard huit mois avant la date du scrutin.
+
+NOTA:
+Conformément au second alinéa de l’article 6 du décret n° 2022-429 du 25 mars 2022, ces dispositions sont applicables en vue du prochain renouvellement des instances mentionnées par les articles R. 914-4, R. 914-6, R. 914-7 et R. 914-13-1 du code de l'éducation.

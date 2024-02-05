@@ -7,3 +7,6 @@ Il ne peut être procédé à ces élections que si la moitié au moins des memb
 L'élection est acquise à la majorité absolue des suffrages exprimés au premier tour, à la majorité relative au second tour. En cas d'égalité des voix, le membre le plus âgé est désigné.
 
 En cas d'empêchement provisoire du président de la section disciplinaire, celui-ci est remplacé par le vice-président le plus âgé.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

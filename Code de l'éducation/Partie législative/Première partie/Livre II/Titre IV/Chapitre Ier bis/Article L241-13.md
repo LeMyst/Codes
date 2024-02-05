@@ -15,3 +15,6 @@ c) Deux personnalités désignées par le chancelier de l'Institut de France ;
 3° Trois représentants du ministre chargé de l'éducation nationale.
 
 La durée du mandat du président et des membres mentionnés au 1° est de six ans. Les modalités de renouvellement du mandat des membres mentionnés au même 1° sont fixées par décret. Les membres mentionnés au 2° sont désignés pour la durée de leur mandat parlementaire.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

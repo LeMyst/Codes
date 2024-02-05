@@ -17,3 +17,6 @@ Lorsque l'instruction dans la famille est autorisée, le directeur académique d
 7° Que, lorsqu'elle est accordée en application des 1° à 3° de l'article L. 131-5, l'autorisation vaut avis favorable du directeur académique des services de l'éducation nationale pour l'application de l'article R. 426-2-1.
 
 Lorsque les personnes responsables de l'enfant demandent que leur enfant participe aux évaluations organisées au niveau national par le ministre chargé de l'éducation nationale, le directeur académique des services de l'éducation nationale les informe de leurs dates et de leurs modalités d'organisation.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

@@ -13,3 +13,8 @@ Pour l'application de l'article R. 822-10 au centre régional des œuvres univer
 5° Le conseil d'administration comprend un membre titulaire et un membre suppléant représentant la région de La Réunion et un membre titulaire et un membre suppléant représentant le département de Mayotte ;
 
 6° Le recteur de la région académique de La Réunion exerce les compétences attribuées au recteur d'académie ou de région académique mentionnées aux a, c, f et g de l'article R. 822-10.
+
+NOTA:
+Conformément au I de l’article 5 du décret n° 2022-1494 du 28 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux conditions d'application du II.

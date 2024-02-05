@@ -2,20 +2,12 @@
 
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR REDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR REDACTION |
 | --- | --- |
 | D. 426-12 à D. 426-13-2 | Résultant du décret n° 2023-267 du 12 avril 2023 |
-| D. 441-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019
-|
-|
-D. 441-5 |
-Résultant du décret n° 2018-407 du 29 mai 2018
-|
-|
-D. 441-6, 1er, 3e, 4e et 5e alinéas |
-Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+| D. 441-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 441-5 |  Résultant du décret n° 2018-407 du 29 mai 2018  |
+|  D. 441-6, 1er, 3e, 4e et 5e alinéas |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
 
 II.-Pour l'application du I :
 

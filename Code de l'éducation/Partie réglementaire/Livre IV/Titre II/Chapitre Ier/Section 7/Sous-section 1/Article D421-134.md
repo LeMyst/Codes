@@ -11,3 +11,6 @@ Dans les lycées, ces aménagements portent sur les programmes d'une ou deux dis
 Dans les collèges et les lycées, la ou les disciplines ou enseignements complémentaires concernés et les modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont fixés par arrêté du ministre chargé de l'éducation, après concertation avec le pays partenaire.
 
 En outre, le chef d'établissement ou le directeur d'école peut organiser des enseignements particuliers destinés à réaliser la mise à niveau en français des élèves étrangers et en langues étrangères des élèves français.
+
+NOTA:
+Conformément à l’article 22 du décret n° 2021-1054 du 6 août 2021, ces dispositions sont applicables à compter de la rentrée scolaire 2022-2023 pour les classes de première et de la rentrée scolaire 2023-2024 pour les classes de terminale.

@@ -21,3 +21,6 @@ Chaque siège est occupé par un membre titulaire et deux membres suppléants. L
 Le ministre chargé de l'éducation ou son représentant préside la section permanente du Conseil supérieur de l'éducation.
 
 En dehors des sessions plénières, la section permanente exerce l'ensemble des attributions dévolues au Conseil supérieur de l'éducation.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-595 du 13 juillet 2023, ces dispositions entrent en vigueur en vue du prochain renouvellement du Conseil supérieur de l'éducation.

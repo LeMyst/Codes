@@ -13,3 +13,6 @@ Toute demande d'autorisation comporte les pièces suivantes :
 5° Un document justifiant de l'identité de la ou des personnes chargées d'instruire l'enfant lorsqu'il ne s'agit pas des personnes responsables de l'enfant.
 
 Lorsque la demande est présentée en application du second alinéa de l'article R. 131-11, elle est accompagnée de tout élément justifiant que les motifs de la demande sont apparus postérieurement à la période mentionnée au premier alinéa du même article.
+
+NOTA:
+Se reporter aux conditions d’application prévues par les articles 9 et 10 du décret n° 2022-182 du 15 février 2022.

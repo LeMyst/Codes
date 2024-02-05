@@ -9,3 +9,6 @@ La procédure dématérialisée de recrutement comporte une phase de dépôt des
 Le calendrier de ces différentes phases est défini annuellement par arrêté du ministre chargé de l'enseignement supérieur.
 
 Les dérogations à la procédure dématérialisée mentionnée aux alinéas précédents, tenant aux spécificités de certaines formations, à leur calendrier particulier ou au statut de certains étudiants, sont fixées par arrêté des ministres chargés de l'enseignement supérieur et de l'outre-mer.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

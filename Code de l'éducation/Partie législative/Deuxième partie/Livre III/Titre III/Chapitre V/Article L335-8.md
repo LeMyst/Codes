@@ -5,3 +5,6 @@ Les structures de l'enseignement, les programmes et la sanction des études rele
 A cette fin, une concertation permanente est organisée entre l'Etat, les compagnies consulaires, les chambres de métiers, les chambres d'agriculture, les organisations professionnelles d'employeurs et de salariés, les organisations familiales et les représentants de l'enseignement.
 
 Au niveau régional, cette concertation est réalisée au sein des comités régionaux de coordination de l'emploi et de la formation professionnelle, ainsi que, pour les formations assurées par les établissements d'enseignement supérieur, dans le cadre des conseils académiques de l'éducation nationale.
+
+NOTA:
+La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.

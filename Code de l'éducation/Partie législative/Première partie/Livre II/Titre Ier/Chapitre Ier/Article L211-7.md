@@ -7,3 +7,6 @@ A cette fin, l'Etat conclut une convention avec la collectivité territoriale ou
 Ces engagements ne peuvent porter que sur les dépenses d'investissements et tiennent compte, le cas échéant, des apports immobiliers des collectivités territoriales.
 
 Les collectivités territoriales ou leurs groupements bénéficient du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses exposées en application du premier alinéa du présent article.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

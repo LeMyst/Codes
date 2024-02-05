@@ -17,3 +17,6 @@ Le greffe dresse le procès-verbal des auditions.
 Le président peut ordonner un supplément d'instruction. Les parties sont invitées à présenter un mémoire ou des pièces complémentaires pour les seuls besoins de ce supplément d'instruction. La formation de jugement délibère, à l'expiration du délai imparti aux parties pour produire ces éléments ou, le cas échéant, y répliquer. Ce délai ne peut excéder une durée d'un mois à compter de la date de l'audience.
 
 Les parties ne sont convoquées à une nouvelle audience que si le président estime nécessaire de les entendre présenter des observations orales sur les seuls éléments nouveaux qui auraient été produits.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

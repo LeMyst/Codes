@@ -39,3 +39,18 @@ La compétence et les missions des services dépendant des ministres chargés de
 18° Région académique Provence-Alpes-Côte d'Azur, constituée des académies d'Aix-Marseille (départements des Alpes-de-Haute-Provence, des Hautes-Alpes, des Bouches-du-Rhône et de Vaucluse) et Nice (départements des Alpes-Maritimes et du Var).
 
 La compétence et les missions des services relevant des ministres chargés de la jeunesse, de la vie associative, de l'engagement civique et des sports s'exercent également à l'intérieur des régions académiques et des académies mentionnées ci-dessus, à l'exception de la Guyane.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2019-1056 :
+
+Jusqu'au prochain renouvellement général des organismes consultatifs au sein desquels s'exerce la participation des fonctionnaires et agents de l'Etat, le recrutement et la gestion des personnels titulaires, stagiaires et non titulaires de l'Etat placés sous l'autorité du recteur de l'académie de Normandie ont pour cadre les ressorts respectifs de l'académie de Caen et de l'académie de Rouen définis au 15° de l'article R. 222-2 du code de l'éducation, dans sa version antérieure à celle résultant de l'article 1er du présent décret.
+
+Jusqu'à cette même date, les instances de représentation des personnels existantes à la date de l'entrée en vigueur du présent décret sont placées auprès du recteur de l'académie de Normandie.
+
+Conformément à l’article 5 du décret n° 2019-1056 :
+
+Les commissions consultatives mixtes académiques, compétentes à l'égard des maîtres enseignant dans les établissements d'enseignement privés sous contrat et placées respectivement auprès des recteurs des académies de Caen et de Rouen, demeurent compétentes, jusqu'au prochain renouvellement général des organismes consultatifs au sein desquels s'exerce la participation des fonctionnaires et agents de l'Etat, dans les ressorts respectifs de l'académie de Caen et de l'académie de Rouen tels qu'ils sont définis au 15° de l'article R. 222-2 du code de l'éducation, dans sa version antérieure à celle résultant de l'article 1er du présent décret.
+
+Jusqu'à cette même date, ces commissions consultatives mixtes académiques sont placées auprès du recteur de l'académie de Normandie.
+
+Conformément à l’article 20 du décret 2020-1542 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

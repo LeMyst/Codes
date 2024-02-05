@@ -39,3 +39,6 @@ c) Les questions relatives à l'hygiène, à la santé et à la sécurité ; à 
 11° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation professionnelle continue des adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait appel à parité à des représentants des organisations représentatives des employeurs et des salariés ;
 
 12° Il adopte son règlement intérieur.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2019-908 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

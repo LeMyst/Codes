@@ -2,94 +2,28 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR RÉDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
 | --- | --- |
-|
-R. 114-1
-
-R. 114-2, 1er, 2e, 4e et 5e alinéas
-
-R. 114-3 |
-Résultant du décret n° 2020-978 du 5 août 2020
-|
-|
-R. 123-8 |
-Résultant du décret n° 2004-703 du 13 juillet 2004
-|
-|
-R. 131-1 |
-Résultant du décret n° 2004-703 du 13 juillet 2004
-|
-|
-R. 131-1-1 |
-Résultant du décret n° 2019-826 du 2 août 2019
-|
-|
-R. 131-2 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-R. 131-3 et R. 131-4 |
-Résultant du décret n° 2021-1650 du 14 décembre 2021
-|
-|
-R. 131-5 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-R. 131-6 |
-Résultant du décret n° 2004-703 du 13 juillet 2004
-|
-|
-R. 131-7 |
-Résultant du décret n° 2014-1376 du 18 novembre 2014
-|
-|
-R. 131-8 et R. 131-9 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-R. 131-10 |
-Résultant du décret n° 2004-703 du 13 juillet 2004
-|
-|
-R. 131-12 |
-Résultant du décret n° 2019-823 du 2 août 2019
-|
-|
-R. 131-13 |
-Résultant du décret n° 2016-1452 du 28 octobre 2016
-|
-|
-R. 131-14 à R. 131-17 |
-Résultant du décret n° 2019-823 du 2 août 2019
-|
-|
-R. 131-18 |
-Résultant du décret n° 2004-703 du 13 juillet 2004
-|
-|
-R. 131-19 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-R. 141-2 et R. 141-3 |
-Résultant du décret n° 2006-1149 du 14 septembre 2006
-|
-|
-R. 141-4 |
-Résultant du décret n° 2019-1554 du 30 décembre 2019
-|
-|
-R. 141-5 |
-Résultant du décret n° 2006-1149 du 14 septembre 2006
-|
-|
-R. 141-6 |
-Résultant du décret n° 2019-1554 du 30 décembre 2019
-|
+|  R. 114-1 R. 114-2, 1er, 2e, 4e et 5e alinéas R. 114-3 |  Résultant du décret n° 2020-978 du 5 août 2020  |
+|  R. 123-8 |  Résultant du décret n° 2004-703 du 13 juillet 2004  |
+|  R. 131-1 |  Résultant du décret n° 2004-703 du 13 juillet 2004  |
+|  R. 131-1-1 |  Résultant du décret n° 2019-826 du 2 août 2019  |
+|  R. 131-2 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  R. 131-3 et R. 131-4 |  Résultant du décret n° 2021-1650 du 14 décembre 2021  |
+|  R. 131-5 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  R. 131-6 |  Résultant du décret n° 2004-703 du 13 juillet 2004  |
+|  R. 131-7 |  Résultant du décret n° 2014-1376 du 18 novembre 2014  |
+|  R. 131-8 et R. 131-9 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  R. 131-10 |  Résultant du décret n° 2004-703 du 13 juillet 2004  |
+|  R. 131-12 |  Résultant du décret n° 2019-823 du 2 août 2019  |
+|  R. 131-13 |  Résultant du décret n° 2016-1452 du 28 octobre 2016  |
+|  R. 131-14 à R. 131-17 |  Résultant du décret n° 2019-823 du 2 août 2019  |
+|  R. 131-18 |  Résultant du décret n° 2004-703 du 13 juillet 2004  |
+|  R. 131-19 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  R. 141-2 et R. 141-3 |  Résultant du décret n° 2006-1149 du 14 septembre 2006  |
+|  R. 141-4 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
+|  R. 141-5 |  Résultant du décret n° 2006-1149 du 14 septembre 2006  |
+|  R. 141-6 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
 
 II.-Pour l'application du I :
 

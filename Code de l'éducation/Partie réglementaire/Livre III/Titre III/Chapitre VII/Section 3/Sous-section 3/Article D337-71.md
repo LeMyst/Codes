@@ -9,3 +9,6 @@ Les candidats titulaires, au titre de la validation des acquis de l'expérience,
 Les candidats titulaires de l'attestation mentionnée aux deux précédents alinéas, lorsqu'elle porte sur des unités communes à plusieurs spécialités du diplôme, peuvent être dispensés de ces unités, à leur demande, s'ils se présentent à une autre spécialité du diplôme. Un arrêté du ministre de l'éducation précise les unités communes concernées. Le cas échéant, un arrêté du ministre chargé de l'agriculture précise les unités communes concernées, pour les spécialités mentionnées au deuxième alinéa de l'article D. 337-53 et un arrêté du ministre chargé de la mer précise quelles sont ces unités pour les spécialités mentionnées au troisième alinéa du même article.
 
 Dans des conditions fixées par arrêté du même ministre, des dispenses d'unités peuvent également être accordées à des candidats titulaires de diplômes étrangers.
+
+NOTA:
+Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.

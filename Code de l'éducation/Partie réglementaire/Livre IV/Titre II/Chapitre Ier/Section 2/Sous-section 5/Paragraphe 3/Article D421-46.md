@@ -23,3 +23,6 @@ Les membres du comité mentionnés au 6° sont désignés deux semaines au plus 
 En cas de vacance du siège de l'un des membres du comité mentionnés aux 6°, 7° et 8°, un nouveau membre est désigné dans les mêmes conditions que le membre dont le siège est devenu vacant et pour la durée restante du mandat de celui-ci.
 
 En fonction des sujets traités, le chef d'établissement peut associer aux travaux du comité toute personne dont il estime l'avis utile.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-540 du 12 avril 2022, ces dispositions entrent en vigueur lors du prochain renouvellement des conseils d'administration des établissements régis par les dispositions du chapitre Ier du titre II du livre IV du code de l'éducation.

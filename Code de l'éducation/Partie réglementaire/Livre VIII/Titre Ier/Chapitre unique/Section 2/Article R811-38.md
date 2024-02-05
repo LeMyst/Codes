@@ -7,3 +7,6 @@ Toutes les décisions sont prises au scrutin secret à la majorité des présent
 Si aucune sanction ne recueille la majorité des voix, la poursuite est considérée comme rejetée.
 
 Lorsque la sanction décidée est susceptible de rendre applicable une précédente sanction assortie du sursis, la commission de discipline se prononce sur la révocation ou non du sursis et, le cas échéant, sur le caractère partiel ou total de cette révocation. En cas de révocation, elle se prononce sur la confusion ou non des sanctions.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

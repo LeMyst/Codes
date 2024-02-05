@@ -13,3 +13,8 @@ La commission paritaire d'établissement prépare les travaux des commissions ad
 Un décret en Conseil d'Etat détermine les conditions de création, la composition, l'organisation et le fonctionnement de la commission paritaire d'établissement.
 
 Les compétences des commissions paritaires d'établissement prévues au présent article peuvent être étendues aux autres corps administratifs, techniques, ouvriers et de services sociaux, de santé, et de bibliothèques exerçant dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur. Un décret en Conseil d'Etat fixe les conditions de cette extension, avec les adaptations nécessaires, notamment pour permettre une représentation des personnels appartenant aux trois groupes suivants : corps d'administration générale, corps des personnels de bibliothèques, autres corps de fonctionnaires.
+
+NOTA:
+Conformément aux C et D du II de l'article 94 de la loi n° 2019-828 du 6 août 2019, les présentes dispositions telles qu'issues du b du 2° du I de l'article 11 entrent en vigueur au titre des affectations prenant effet à compter du 1er janvier 2020.
+
+Celles des dispositions telles qu'issues du a du 2° et du 4° du I du même article 11 entrent en vigueur en vue de l'élaboration des décisions individuelles prises au titre de l'année 2021.

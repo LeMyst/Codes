@@ -13,3 +13,8 @@ Il est institué au niveau local un coordonnateur local de la spécialité dont 
 Il est institué un collège national d'enseignants de la spécialité de pharmacie hospitalière dont la composition et les missions sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
 
 Il élit son président.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

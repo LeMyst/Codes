@@ -11,3 +11,6 @@ Les candidats aux examens ou concours de l'enseignement supérieur organisés pa
 4° L'étalement sur plusieurs sessions du passage des épreuves ;
 
 5° Des adaptations ou des dispenses d'épreuves, rendues nécessaires par certaines situations de handicap, dans les conditions prévues par arrêté du ministre chargé de l'enseignement supérieur, du ministre chargé de la culture ou du président ou directeur de l'établissement.
+
+NOTA:
+Conformémement à l'article 3 du décret n° 2021-1480 du 12 novembre 2021, ces dispositions entrent en vigueur à compter du 1er janvier 2022.

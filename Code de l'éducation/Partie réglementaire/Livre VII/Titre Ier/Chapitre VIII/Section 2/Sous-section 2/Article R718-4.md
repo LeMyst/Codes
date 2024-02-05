@@ -5,3 +5,6 @@ Le pouvoir disciplinaire prévu aux articles L. 712-6-2 et L. 811-5 est exercé 
 Par dérogation à l'article R. 811-14, la section disciplinaire compétente à l'égard des usagers peut comprendre deux membres appartenant à chacun des collèges définis aux 1° et 2° de cet article et quatre membres appartenant au collège défini à son 3°. Dans ce cas, par dérogation aux articles R. 811-20 et R. 811-32, la commission de discipline comprend quatre membres, dont un membre appartenant à chacun des collèges définis aux 1° et 2° de l'article R. 811-14 et deux membres appartenant au collège défini au 3° du même article, et ne peut valablement délibérer que si les représentants des collèges définis aux 1° et 2° de cet article sont présents.
 
 Pour l'application des articles R. 712-10 à R. 712-46 et R. 811-10 à R. 811-42, les mots : " le président de l'université " sont remplacés par les mots : " le directeur de l'école ". Pour l'application de l'article R. 712-10, les mots : " l'université " sont remplacés par les mots : " l'établissement ".
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

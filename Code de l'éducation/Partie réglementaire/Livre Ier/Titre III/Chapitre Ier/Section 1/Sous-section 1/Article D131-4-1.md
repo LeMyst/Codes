@@ -17,3 +17,6 @@ Présidée par le préfet ou son représentant et par le directeur académique d
 L'un des présidents peut associer aux séances, en tant que de besoin, des représentants d'autres services de l'Etat.
 
 L'instance départementale chargée de la prévention de l'évitement scolaire se réunit à l'initiative de l'un de ses présidents au moins deux fois par an.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-184 du 15 février 2022, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2022.

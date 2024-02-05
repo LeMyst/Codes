@@ -9,3 +9,6 @@ Peuvent également être entendues à leur demande les personnes qui ont engagé
 La personne poursuivie a la parole en dernier.
 
 Après la levée de la séance, la décision de sanction est prise par les membres de la commission de discipline ayant assisté à la totalité de la séance, en présence du secrétaire.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

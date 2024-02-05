@@ -5,3 +5,6 @@ Pour les candidats préparant le baccalauréat professionnel par la voie scolair
 Les candidats préparant le diplôme par la voie de la formation professionnelle continue dans un établissement public habilité à pratiquer intégralement le contrôle en cours de formation peuvent être évalués, pour l'ensemble des épreuves ou unités prévues au 1° de l'article D. 337-69, par contrôle en cours de formation.
 
 Les conditions d'habilitation des centres de formation d'apprentis prévus au premier alinéa du présent article et celles d'habilitation des établissements publics mentionnés au deuxième alinéa sont fixées par arrêté du ministre chargé de l'éducation.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2020-1277 du 20 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2022.

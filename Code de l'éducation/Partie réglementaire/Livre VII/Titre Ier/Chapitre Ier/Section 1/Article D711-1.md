@@ -157,3 +157,8 @@ I. - Universités :
 II. - Instituts nationaux polytechniques :
 
 1° Toulouse.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2022-1474 du 24 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Conformément à l’article 14 du décret n° 2022-1536 du 8 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

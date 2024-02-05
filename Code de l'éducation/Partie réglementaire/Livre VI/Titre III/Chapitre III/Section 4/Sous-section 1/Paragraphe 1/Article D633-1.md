@@ -5,3 +5,8 @@ Peuvent accéder au troisième cycle spécialisé des études pharmaceutiques, e
 1° Les étudiants ayant validé le deuxième cycle des études pharmaceutiques en France ;
 
 2° Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, de la Confédération helvétique ou de la Principauté d'Andorre, ayant validé une formation de pharmacien telle que définie au 2 et au 3 de l'article 44 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

@@ -7,3 +7,8 @@ Ces établissements peuvent également accueillir des élèves préparant les di
 Ces établissements sont créés par arrêté du représentant de l'Etat dans le département sur proposition conjointe de la collectivité territoriale ou des collectivités territoriales compétentes en matière de gestion des collèges et des lycées, de la commune ou des communes et de l'établissement public de coopération intercommunale ou des établissements publics de coopération intercommunale compétents en matière de fonctionnement des écoles, après conclusion d'une convention entre ces collectivités et établissements publics de coopération intercommunale et avis de l'autorité de l'Etat compétente en matière d'éducation.
 
 Sous réserve des dispositions prévues à la présente section, ces établissements sont régis par les dispositions du titre préliminaire du présent livre et les autres dispositions du présent titre.
+
+NOTA:
+Conformément aux dispositions du IV de l'article 32 de la loi n° 2019-791 du 26 juillet 2019, dans leur rédaction en vigueur à la date de la publication de ladite loi, l'arrêté du préfet du département du Bas-Rhin pris en application de l'article L. 421-19-1 du code de l'éducation dans sa rédaction en vigueur avant la publication de la même loi et la convention conclue sur le fondement des mêmes dispositions sont réputés pris sur le fondement des dispositions de la section 3 bis du chapitre Ier du titre II du livre IV du code de l'éducation dans leur rédaction résultant de ladite loi.
+
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

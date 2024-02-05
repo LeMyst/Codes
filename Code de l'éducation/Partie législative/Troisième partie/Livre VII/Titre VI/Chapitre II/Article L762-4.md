@@ -5,3 +5,6 @@ I. - Les établissements publics à caractère scientifique, culturel et profess
 Les dispositions des articles mentionnés au premier alinéa s'appliquent sous réserve que la délibération du conseil d'administration soit approuvée par arrêté conjoint du ministre chargé du budget et des ministres de tutelle.
 
 II. - Un décret en Conseil d'Etat précise les conditions dans lesquelles les établissements publics administratifs dont les missions comportent l'enseignement supérieur et la recherche peuvent, dans les conditions fixées au I, demander à bénéficier des responsabilités et des compétences élargies. Ce décret précise également les conditions dans lesquelles ces établissements sont habilités à créer une fondation partenariale, dans les conditions fixées à l'article L. 719-13, et à bénéficier du transfert des biens mobiliers et immobiliers appartenant à l'Etat qui leur sont affectés ou sont mis à leur disposition, dans les conditions fixées à l'article L. 719-14.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

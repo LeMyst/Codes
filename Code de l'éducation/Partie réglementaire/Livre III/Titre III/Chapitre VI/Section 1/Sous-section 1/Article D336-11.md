@@ -13,3 +13,6 @@ Les diplômes délivrés aux candidats admis à l'issue des épreuves du baccala
 En application de modalités fixées par arrêté du ministre chargé de l'éducation nationale, dans toutes les séries du baccalauréat, les diplômes délivrés aux candidats peuvent comporter l'indication :
 
 " section européenne " ou " section de langue orientale " ou " discipline non linguistique ayant fait l'objet d'un enseignement en langue vivante " ou “ mobilité européenne et internationale ”.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-1129 du 4 août 2022, ces dispositions sont applicables à compter de la session 2023 du baccalauréat général et technologique.

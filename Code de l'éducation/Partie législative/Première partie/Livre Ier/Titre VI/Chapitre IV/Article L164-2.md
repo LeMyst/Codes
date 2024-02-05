@@ -25,3 +25,6 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 9° L'article L. 151-4 est ainsi rédigé :
 
 “ Art. L. 151-4.-Les établissements d'enseignement général du second degré privés peuvent obtenir des communes, de la collectivité territoriale de Saint-Pierre-et-Miquelon ou de l'Etat des locaux et une subvention, sans que cette subvention puisse excéder le dixième des dépenses annuelles de l'établissement. ”
+
+NOTA:
+Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

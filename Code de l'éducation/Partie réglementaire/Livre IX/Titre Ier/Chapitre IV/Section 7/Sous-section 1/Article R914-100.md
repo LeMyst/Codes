@@ -41,3 +41,6 @@ L'exclusion temporaire de fonctions, qui est privative de toute rémunération, 
 La radiation du tableau d'avancement peut également être prononcée à titre de sanction complémentaire d'une des sanctions des deuxième et troisième groupes.
 
 La décision prononçant la résiliation du contrat ou le retrait de l'agrément produit ses effets dans l'ensemble des établissements d'enseignement privés sous contrat.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2023-733 du 8 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

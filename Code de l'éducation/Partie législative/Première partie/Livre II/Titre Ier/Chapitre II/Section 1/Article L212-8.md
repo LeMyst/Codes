@@ -23,3 +23,6 @@ Ce décret précise, en outre, les conditions dans lesquelles, en l'absence d'ac
 Lorsque les compétences relatives au fonctionnement des écoles publiques ont été transférées à un établissement public de coopération intercommunale, le président de cet établissement est substitué au maire de la commune de résidence pour apprécier la capacité d'accueil et donner l'accord à la participation financière.
 
 La scolarisation d'un enfant dans une école d'une commune autre que celle de sa résidence ne peut être remise en cause par l'une ou l'autre d'entre elles avant le terme soit de la formation préélémentaire, soit de la scolarité primaire de cet enfant commencées ou poursuivies durant l'année scolaire précédente dans un établissement du même cycle de la commune d'accueil.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

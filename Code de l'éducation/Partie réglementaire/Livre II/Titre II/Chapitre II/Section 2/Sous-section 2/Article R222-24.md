@@ -9,3 +9,6 @@ Dans le cadre de l'organisation fonctionnelle et territoriale arrêtée par le r
 Ils sont assistés par les directeurs académiques adjoints des services de l'éducation nationale.
 
 Sauf dans les académies d'outre-mer, un service départemental à la jeunesse, à l'engagement et aux sports est placé auprès de chaque directeur académique des services de l'éducation nationale et, à Paris, auprès du directeur de l'académie de Paris. Les attributions de ce service sont fixées par décret.
+
+NOTA:
+Conformément à l’article 20 du décret 2020-1542 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

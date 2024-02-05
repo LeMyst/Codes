@@ -11,3 +11,6 @@ Le rapport est remis aux membres de la juridiction dans un délai préalablement
 Le rapport ainsi que, le cas échéant, le rapport complémentaire sont transmis par tout moyen permettant de conférer date certaine aux parties au moins quinze jours francs avant l'audience.
 
 Le président peut fixer la date à partir de laquelle l'instruction sera close. En l'absence d'une décision de clôture, l'instruction est close trois jours francs avant la date de l'audience indiquée dans la convocation.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023 et s'appliquent aux procédures engagées après cette date.

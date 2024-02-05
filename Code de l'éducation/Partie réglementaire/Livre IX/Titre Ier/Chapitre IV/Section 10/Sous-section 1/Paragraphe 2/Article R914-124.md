@@ -13,3 +13,6 @@ a) Des services mentionnés à l'article R. 914-122 ;
 b) Des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et L. 351-5 du code de la sécurité sociale ;
 
 c) Des majorations pour enfants prévues par les régimes de retraite complémentaire mentionnés au livre IX du code de la sécurité sociale.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

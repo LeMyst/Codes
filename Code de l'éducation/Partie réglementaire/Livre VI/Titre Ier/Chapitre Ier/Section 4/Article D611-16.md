@@ -11,3 +11,6 @@ La césure peut prendre notamment l'une des formes suivantes :
 4° Un projet de création d'activité en qualité d'étudiant-entrepreneur.
 
 Le chapitre IV du titre II du livre Ier du présent code est applicable à la césure sous forme de stage à l'exception des articles D. 124-1 et D. 124-2 et du 1° de l'article D. 124-4.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2021-1154 du 3 septembre 2021, ces dispositions s'appliquent à compter de l'année universitaire 2021-2022.

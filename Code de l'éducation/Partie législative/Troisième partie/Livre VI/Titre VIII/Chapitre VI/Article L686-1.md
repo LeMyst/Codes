@@ -32,8 +32,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | L. 621-1 et L. 621-2 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
 | L. 621-3 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
 | L. 622-1 à L. 624-1 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
-| L. 624-2 ;
-L. 625-1 et L. 625-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 624-2 ; L. 625-1 et L. 625-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 631-1 à L. 632-3 | Résultant de la loi n° 2019-774 du 24 juillet 2019 |
 | L. 632-4 | Résultant de la loi n° 2016-1888 du 28 décembre 2016 |
 | L. 632-5 | Résultant de l'ordonnance n° 2010-177 du 23 février 2010 |
@@ -131,3 +130,6 @@ j) Les deuxième et troisième alinéas du XIII sont supprimés ;
 17° Au cinquième alinéa de l'article L. 634-1, les mots : “ dans les structures définies au chapitre VI du titre IV du livre Ier de la partie VI du code de la santé publique ” sont remplacés par les mots : “ dans des établissements publics de santé ” ;
 
 18° Au premier alinéa de l'article L. 641-2, les mots : “ et celles de l'article L. 6113-1 du code du travail ” sont supprimés.
+
+NOTA:
+Conformément au II de l'article 7 de la loi n° 2021-1774 du 24 décembre 2021, ces dispositions entrent en vigueur deux ans après la publication de ladite loi.

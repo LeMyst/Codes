@@ -17,3 +17,6 @@ Les candidats ajournés à l'examen sont tenus, lorsqu'ils tentent à nouveau d'
 Les candidats ajournés à l'examen d'une des spécialités relevant du deuxième alinéa de l'article D. 337-53, qui tentent à nouveau d'obtenir le diplôme considéré au titre de la voie scolaire ou de l'apprentissage, peuvent, à leur demande, présenter les épreuves correspondantes aux unités constitutives du diplôme non acquises sur un maximum de cinq sessions consécutives.
 
 Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau présentées.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2021-1524 du 25 novembre 2021, ces dispositions entrent en vigueur à compter du 1er janvier 2022.

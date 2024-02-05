@@ -23,3 +23,6 @@ II.-Les titulaires des grades, titres ou diplômes, dont la liste est établie p
 La liste des grades, titres ou diplômes permettant à leurs titulaires de déposer leur candidature à l'accès à ces formations est fixée en fonction de la date d'obtention de ces grades, titres ou diplômes et du pays dans lequel ils ont été obtenus, et mentionne, le cas échéant, l'exigence d'une expérience professionnelle.
 
 Les étudiants ayant validé le diplôme de formation générale en sciences médicales, pharmaceutiques, odontologiques ou maïeutiques à l'issue de leur parcours de formation antérieur et souhaitant se réorienter vers une formation différente de celle d'origine peuvent également être admis dans une des formations de médecine, de pharmacie, d'odontologie ou de maïeutique dans les conditions prévues à l'article R. 631-1-3.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

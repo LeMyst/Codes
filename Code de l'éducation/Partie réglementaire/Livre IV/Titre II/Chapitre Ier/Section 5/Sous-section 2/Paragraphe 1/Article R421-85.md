@@ -21,3 +21,6 @@ b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel o
 Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14 ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
 
 Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence physique.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2019-906 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

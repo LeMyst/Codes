@@ -2,136 +2,36 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR REDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR REDACTION |
 | --- | --- |
-|
-D. 511-5 |
-Résultant de l'ordonnance n° 2010-462 du 6 mai 2010
-|
-|
-D. 511-25
-
-D. 511-30 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-D. 511-31 |
-Résultant du décret n° 2019-908 du 30 août 2019
-|
-|
-D. 511-32 à D. 511-34 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-35 |
-Résultant du décret n° 2019-908 du 30 août 2019
-|
-|
-D. 511-36 à D. 511-38 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-39 |
-Résultant du décret n° 2019-908 du 30 août 2019
-|
-|
-D. 511-40 et D. 511-41 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-42 et D. 511-43 |
-Résultant du décret n° 2019-1558 du 30 décembre 2019
-|
-|
-D. 511-47 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-48 |
-Résultant du décret n° 2012-16 du 5 janvier 2012
-|
-|
-D. 511-50 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-51 et D. 511-52 |
-Résultant du décret n° 2019-1558 du 30 décembre 2019
-|
-|
-D. 511-59 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 511-60, 1er, 2e, 3e et 4e alinéas |
-Résultant du décret n° 2019-1553 du 30 décembre 2019
-|
-|
-D. 511-62
-
-D. 521-1
-
-D. 521-2, 1er et 2e alinéas |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 521-5 |
-Résultant du décret n° 2019-908 du 30 août 2019
-|
-|
-D. 521-10 et D. 521-11 |
-Résultant du décret n° 2013-77 du 24 janvier 2013
-|
-|
-D. 521-12, 1er alinéa |
-Résultant du décret n° 2017-1108 du 27 juin 2017
-|
-|
-D. 521-13 |
-Résultant du décret n° 2013-77 du 24 janvier 2013
-|
-|
-D. 521-17 et D. 521-18 |
-Résultant du décret n° 2021-1910 du 30 décembre 2021
-|
-|
-D. 541-1 et D. 541-2
-
-D. 541-5
-
-D. 541-10 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 542-1 |
-Résultant du décret n° 2009-765 du 23 juin 2009
-|
-|
-D. 551-1 à D. 551-3
-
-D. 551-4, 1er alinéa
-
-D. 551-5 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 551-6 |
-Résultant du décret n° 2019-1558 du 30 décembre 2019
-|
-|
-D. 551-7 à D. 551-9 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
-|
-D. 551-9-1 |
-Résultant du décret n° 2019-918 du 30 août 2019
-|
-|
-D. 551-12 |
-Résultant du décret n° 2009-553 du 15 mai 2009
-|
+|  D. 511-5 |  Résultant de l'ordonnance n° 2010-462 du 6 mai 2010  |
+|  D. 511-25 D. 511-30 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  D. 511-31 |  Résultant du décret n° 2019-908 du 30 août 2019  |
+|  D. 511-32 à D. 511-34 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-35 |  Résultant du décret n° 2019-908 du 30 août 2019  |
+|  D. 511-36 à D. 511-38 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-39 |  Résultant du décret n° 2019-908 du 30 août 2019  |
+|  D. 511-40 et D. 511-41 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-42 et D. 511-43 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 511-47 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-48 |  Résultant du décret n° 2012-16 du 5 janvier 2012  |
+|  D. 511-50 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-51 et D. 511-52 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 511-59 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 511-60, 1er, 2e, 3e et 4e alinéas |  Résultant du décret n° 2019-1553 du 30 décembre 2019  |
+|  D. 511-62 D. 521-1 D. 521-2, 1er et 2e alinéas |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 521-5 |  Résultant du décret n° 2019-908 du 30 août 2019  |
+|  D. 521-10 et D. 521-11 |  Résultant du décret n° 2013-77 du 24 janvier 2013  |
+|  D. 521-12, 1er alinéa |  Résultant du décret n° 2017-1108 du 27 juin 2017  |
+|  D. 521-13 |  Résultant du décret n° 2013-77 du 24 janvier 2013  |
+|  D. 521-17 et D. 521-18 |  Résultant du décret n° 2021-1910 du 30 décembre 2021  |
+|  D. 541-1 et D. 541-2 D. 541-5 D. 541-10 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 542-1 |  Résultant du décret n° 2009-765 du 23 juin 2009  |
+|  D. 551-1 à D. 551-3 D. 551-4, 1er alinéa D. 551-5 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 551-6 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 551-7 à D. 551-9 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
+|  D. 551-9-1 |  Résultant du décret n° 2019-918 du 30 août 2019  |
+|  D. 551-12 |  Résultant du décret n° 2009-553 du 15 mai 2009  |
 
 II.-Pour l'application du I :
 

@@ -17,3 +17,6 @@ L'école garantit à tous les élèves l'apprentissage et la maîtrise de la lan
 L'acquisition d'une culture générale et d'une qualification reconnue est assurée à tous les jeunes, quelle que soit leur origine sociale, culturelle ou géographique.
 
 L'autorité de l'Etat compétente en matière d'éducation veille, en lien avec les établissements scolaires publics et privés sous contrat et en concertation avec les collectivités territoriales, à l'amélioration de la mixité sociale au sein de ces établissements.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

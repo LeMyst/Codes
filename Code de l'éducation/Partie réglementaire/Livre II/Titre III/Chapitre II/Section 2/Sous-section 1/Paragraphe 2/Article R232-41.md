@@ -15,3 +15,6 @@ La décision fait apparaître la date de l'audience et la date à laquelle elle 
 Elle est motivée. Elle est datée et signée par le président, le vice-président, et un membre du greffe. En cas d'empêchement du vice-président, elle est signée par le secrétaire de séance.
 
 La décision est notifiée par le greffe par tout moyen permettant de conférer date certaine au ministre chargé de l'enseignement supérieur et aux parties. Copie de la décision est adressée au recteur de région académique, chancelier des universités.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

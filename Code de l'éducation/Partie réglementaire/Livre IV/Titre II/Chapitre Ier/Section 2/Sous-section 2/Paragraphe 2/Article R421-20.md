@@ -16,8 +16,7 @@ b) Les tarifs des ventes des produits et de prestations de services réalisés p
 
 5° Il adopte le règlement intérieur de l'établissement ;
 
-6° Il donne son accord sur :
-
+6° Il donne son accord sur :\
 a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
 
 b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
@@ -38,8 +37,7 @@ f) La programmation et les modalités de financement des voyages scolaires ;
 
 g) Le programme d'actions établi chaque année par le conseil école-collège.
 
-7° Il délibère sur :
-
+7° Il délibère sur :\
 a) Toute question dont il a à connaître en vertu des lois et règlements en vigueur ainsi que celles ayant trait à l'information des membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ;
 
 b) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation à la vie scolaire et le bilan annuel des actions menées dans ces domaines ;
@@ -57,3 +55,6 @@ c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le co
 12° Il adopte un plan de prévention de la violence, qui inclut notamment un programme d'action contre toutes les formes de harcèlement ;
 
 13° Il est informé des propositions, avis et comptes rendus de séance du comité d'éducation à la santé, à la citoyenneté et à l'environnement.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-540 du 12 avril 2022, ces dispositions entrent en vigueur lors du prochain renouvellement des conseils d'administration des établissements régis par les dispositions du chapitre Ier du titre II du livre IV du code de l'éducation.

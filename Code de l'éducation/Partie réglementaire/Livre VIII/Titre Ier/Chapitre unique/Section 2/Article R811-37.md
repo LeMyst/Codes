@@ -11,3 +11,6 @@ Les sanctions disciplinaires applicables aux usagers dans les cas mentionnés au
 4° L'interdiction définitive de prendre toute inscription dans un établissement public dispensant des formations post-baccalauréat et de passer tout examen conduisant à un titre ou diplôme délivré par un établissement public dispensant des formations post-baccalauréat ou tout examen conduisant à un diplôme national.
 
 Les dispositions des neuvième et dixième alinéas du I de l'article R. 811-36 sont applicables aux sanctions prévues par le présent article.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

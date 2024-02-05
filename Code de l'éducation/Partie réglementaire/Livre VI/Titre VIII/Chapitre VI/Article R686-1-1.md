@@ -4,9 +4,5 @@ Sont applicables en Polynésie française les dispositions des articles mentionn
 
 |  |  |
 | --- | --- |
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR RÉDACTION |
-| R. * 612-36-2-11 |
-Résultant du décret n° 2023-179 du 15 mars 2023
-|
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
+| R. * 612-36-2-11 |  Résultant du décret n° 2023-179 du 15 mars 2023  |

@@ -7,3 +7,6 @@ Lorsque la demande d'autorisation est motivée par la situation de handicap de l
 Dans les cas prévus aux deux alinéas précédents, le directeur académique des services de l'éducation nationale transmet le certificat médical sous pli fermé au médecin de l'éducation nationale. Celui-ci rend un avis sur cette demande.
 
 Une autorisation justifiée par l'état de santé de l'enfant ou son handicap peut être accordée pour une durée maximale de trois années scolaires.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

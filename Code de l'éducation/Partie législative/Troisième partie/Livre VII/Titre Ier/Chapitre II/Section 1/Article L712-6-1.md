@@ -25,3 +25,6 @@ III.-Le conseil académique en formation plénière est consulté ou peut émett
 IV.-En formation restreinte aux enseignants-chercheurs, il est l'organe compétent, mentionné à l'article L. 952-6 du présent code, pour l'examen des questions individuelles relatives au recrutement, à l'affectation et à la carrière des enseignants-chercheurs. Il délibère sur l'intégration des fonctionnaires des autres corps dans le corps des enseignants-chercheurs et sur le recrutement ou le renouvellement des attachés temporaires d'enseignement et de recherche. Lorsqu'il examine en formation restreinte des questions individuelles relatives aux enseignants-chercheurs, autres que les professeurs des universités, il est composé à parité d'hommes et de femmes et à parité de représentants des professeurs des universités et des autres enseignants-chercheurs, dans des conditions précisées par décret.
 
 V.-Les décisions du conseil académique comportant une incidence financière sont soumises à approbation du conseil d'administration.
+
+NOTA:
+Conformément au VIII de l'article 90 de la loi n° 2019-828 du 6 août 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -9,3 +9,6 @@ Parmi ces enseignements sont notamment prévus :
 2° Une formation permettant l'acquisition des compétences socles au numérique en santé dont le contenu et les modalités sont définis par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé ;
 
 3° Une formation aux gestes et soins d'urgence.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n°2022-1419 du 10 novembre 2022.

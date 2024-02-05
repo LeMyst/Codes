@@ -7,3 +7,6 @@ La formation spécialisée transversale ouvre droit à un exercice complémentai
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé fixe les modalités d'accès à une formation spécialisée transversale dans le cadre de la spécialité suivie.
 
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé fixe chaque année, par centre hospitalier universitaire, le nombre d'étudiants de troisième cycle des études de médecine, autorisés à suivre une formation spécialisée transversale.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

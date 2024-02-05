@@ -11,3 +11,6 @@ Lors de son premier recrutement, le maître délégué est rémunéré conformé
 L'autorité académique peut déroger à l'alinéa précédent pour tenir compte de l'expérience professionnelle détenue, de la rareté des candidats dans la discipline ou de la spécificité du besoin à couvrir.
 
 L'autorité académique définit les modalités de mise en œuvre de ces critères après consultation de la commission consultative mixte des maîtres du privé compétente.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2023-733 du 8 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

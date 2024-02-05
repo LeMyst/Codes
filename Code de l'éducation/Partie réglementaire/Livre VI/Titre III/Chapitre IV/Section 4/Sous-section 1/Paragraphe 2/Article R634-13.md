@@ -9,3 +9,6 @@ Pendant le contrat d'année de recherche cité à l'article R. 6153-11 du code d
 Les stages ou les gardes accomplis au cours de l'année de recherche ne sont pas pris en compte dans les obligations de formation prévues pour l'obtention du diplôme postulé dans le cadre du troisième cycle long des études odontologiques.
 
 II.-L'année de recherche prévue au présent article ainsi que la disponibilité prévue au 2° de l'article R. 6153-26 du code de la santé publique sont prises en compte dans le calcul de l'ancienneté dans la limite de deux années.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2020-1057 du 14 août 2020, ces dispositions entrent en vigueur à compter du 1er novembre 2020.

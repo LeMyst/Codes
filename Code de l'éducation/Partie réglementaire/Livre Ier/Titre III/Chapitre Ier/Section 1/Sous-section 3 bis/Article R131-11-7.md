@@ -5,3 +5,6 @@ Lorsqu'un enfant scolarisé se trouve dans la situation envisagée au quatorziè
 La demande d'autorisation comporte, outre les documents mentionnés à l'article R. 131-11-1 et ceux requis au titre du motif de la demande, l'avis du directeur de l'établissement d'enseignement mentionné à l'alinéa précédent ainsi que tout document utile de nature à établir que l'intégrité physique ou morale de l'enfant est menacée.
 
 Le directeur académique des services de l'éducation nationale accuse réception sans délai de la demande et l'instruit. L'article R. 131-11-6 est applicable en cas de demande incomplète.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

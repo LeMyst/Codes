@@ -17,3 +17,6 @@ Les recteurs des régions académiques métropolitaines mentionnées à l'articl
 7° Montpellier (région académique Occitanie) ;
 
 8° Aix-Marseille (région académique Provence-Alpes-Côte d'Azur).
+
+NOTA:
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

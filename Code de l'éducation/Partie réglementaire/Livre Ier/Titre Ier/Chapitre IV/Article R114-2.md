@@ -9,3 +9,6 @@ Satisfont à l'obligation de formation au titre des dispositifs d'accompagnement
 3° Ayant conclu un contrat de volontariat pour l'insertion défini à l'article L. 130-1 du code du service national ;
 
 4° Bénéficiant d'un accompagnement par un établissement ou service mentionné aux 2°, 5° et 12° du I de l'article L. 312-1 du code de l'action sociale et des familles.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-978 du 5 août 2020, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

@@ -9,3 +9,6 @@ Le chef d'établissement peut déléguer sa signature à son adjoint.
 En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint, notamment pour la présidence du conseil d'administration et, lorsqu'elle a été créée en application de l'article D. 422-16-1, de la commission permanente de l'établissement.
 
 L'autorité académique nomme alors un ordonnateur suppléant, qui peut être soit l'adjoint, soit le chef d'un autre établissement.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2020-1633 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des conseils d'administration et des conseils d'établissement.

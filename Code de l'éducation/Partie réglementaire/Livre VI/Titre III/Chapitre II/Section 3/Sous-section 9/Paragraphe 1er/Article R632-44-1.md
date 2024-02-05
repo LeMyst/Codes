@@ -21,3 +21,6 @@ IV.-Un arrêté conjoint des ministres chargés de l'enseignement supérieur et 
 2° Les coefficients de pondération des résultats obtenus aux épreuves dématérialisées et aux examens cliniques objectifs structurés ;
 
 3° Les conditions d'attribution des points de valorisation attribués au parcours de formation et au projet professionnel des élèves médecins des écoles du service de santé des armées.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

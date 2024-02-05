@@ -25,3 +25,6 @@ Des passerelles permettant une adaptation des parcours sont organisées entre le
 Des dispositifs d'accompagnement personnalisé sont mis en place pour tous les élèves selon leurs besoins dans les classes de seconde, première et terminale préparant aux baccalauréats général, technologique et professionnel. Ils comprennent des activités de soutien, d'approfondissement, d'aide méthodologique et d'aide à l'orientation, pour favoriser la maîtrise progressive par l'élève de son parcours de formation et d'orientation. Ils prennent notamment la forme de travaux interdisciplinaires.
 
 Un dispositif de tutorat est proposé à tous les élèves, pour les aider à construire leur parcours de formation et d'orientation.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2020-1277 du 20 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

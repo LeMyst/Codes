@@ -73,3 +73,6 @@ e) De l'Université Paris-Saclay, l'Institut Polytechnique de Paris et HEC Paris
 25° Du diplôme de premier cycle de l'Ecole du Louvre, à compter de l'année universitaire 2023-2024.
 
 Ces diplômes font l'objet d'une évaluation nationale périodique.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2023-937 du 10 octobre 2023, ces dispositions sont applicables aux étudiants entrant en formation à compter de l'année universitaire 2023-2024 et obtenant le diplôme du cycle pluridisciplinaire d'études supérieures délivré conjointement par l'Université Paris-Saclay, l'Institut polytechnique de Paris et HEC Paris à l'issue de l'année universitaire 2025-2026.

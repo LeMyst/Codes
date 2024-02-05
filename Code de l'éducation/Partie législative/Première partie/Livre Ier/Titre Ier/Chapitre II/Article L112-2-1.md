@@ -7,3 +7,6 @@ Ces équipes comprennent l'ensemble des personnes qui concourent à la mise en o
 Elles peuvent, avec l'accord de ses parents ou de son représentant légal, proposer à la commission mentionnée à l'article L. 241-5 du code de l'action sociale et des familles toute révision de l'orientation d'un enfant ou d'un adolescent qu'elles jugeraient utile.
 
 L'enseignant référent qui coordonne les équipes de suivi de la scolarisation est l'interlocuteur des familles pour la mise en place du projet personnalisé de scolarisation.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

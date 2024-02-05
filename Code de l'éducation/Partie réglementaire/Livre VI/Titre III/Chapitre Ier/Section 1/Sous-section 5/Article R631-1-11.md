@@ -7,3 +7,6 @@ Ces nombres d'élèves apparaissent dans les objectifs pluriannuels d'admission 
 Quel que soit leur mode d'admission, les élèves des écoles du service de santé des armées sont pris en compte dans les nombres mentionnés au premier alinéa.
 
 II.-Les propositions des objectifs nationaux pluriannuels mentionnés à l'article R. 631-1-6, en ce qu'ils concernent les universités mentionnées au I, prennent en compte, pour l'évaluation de leurs capacités de formation, les besoins de formation des élèves des écoles du service de santé des armées devant être accueillis par ces universités.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

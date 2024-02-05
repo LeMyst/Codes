@@ -11,3 +11,6 @@ Elle est notifiée à l'intéressé et, le cas échéant, à son représentant l
 La commission de discipline du diplôme national des métiers d'art et du design statue dans un délai de deux mois suivant la proclamation des résultats de la session à laquelle se rattachent les faits ayant donné lieu aux poursuites.
 
 Le recteur de région académique informe le ministre chargé de l'enseignement supérieur de la décision de la commission de discipline.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

@@ -7,3 +7,6 @@ Cette délégation s'exerce sous l'autorité du recteur d'académie, qui peut y 
 Sous réserve des dispositions de l'alinéa précédent, le changement de recteur d'académie ne met pas fin à cette délégation.
 
 Les agents désignés par le recteur d'académie pour assurer la suppléance ou l'intérim des directeurs académiques des services de l'éducation nationale disposent de la même délégation dans les mêmes conditions.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2020-1543 du 9 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

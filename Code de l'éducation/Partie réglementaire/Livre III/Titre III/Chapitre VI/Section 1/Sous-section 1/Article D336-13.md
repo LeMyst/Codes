@@ -9,3 +9,6 @@ Le renoncement à un bénéfice de notes lors d'une session est définitif et se
 Pour ces candidats à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et des notes obtenues aux épreuves nouvellement subies.
 
 Aucune mention ne peut être attribuée aux candidats qui ont demandé à conserver le bénéfice de notes en application des dispositions du premier alinéa.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2022-143 du 8 février 2022, ces dispositions sont applicables à compter de la session 2022 du baccalauréat général et du baccalauréat technologique.

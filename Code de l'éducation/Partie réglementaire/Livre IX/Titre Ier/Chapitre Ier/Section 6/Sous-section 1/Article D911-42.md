@@ -9,3 +9,6 @@ Les articles D. 911-43 à D. 911-52 fixent les modalités relatives à la situat
 3° Etablissements dont le fonctionnement en matière administrative, financière et pédagogique a fait l'objet d'un traité ou accord international.
 
 La liste de ces établissements est arrêtée conjointement par le ministre des affaires étrangères et le ministre chargé du budget.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 22 du décret n° 2022-896 du 16 juin 2022.

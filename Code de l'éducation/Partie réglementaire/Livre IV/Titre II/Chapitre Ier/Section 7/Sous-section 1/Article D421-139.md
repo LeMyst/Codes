@@ -19,3 +19,6 @@ a) Un représentant de la collectivité territoriale de rattachement ;
 b) Un représentant de la commune ou du groupement de communes siège de l'établissement ;
 
 c) Deux personnalités choisies par le recteur d'académie en fonction de l'intérêt qu'elles portent au fonctionnement de la section internationale ou des classes menant au baccalauréat français international.
+
+NOTA:
+Conformément à l’article 22 du décret n° 2021-1054 du 6 août 2021, ces dispositions sont applicables à compter de la rentrée scolaire 2022-2023 pour les classes de première et de la rentrée scolaire 2023-2024 pour les classes de terminale.

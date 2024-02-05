@@ -13,3 +13,6 @@ Le conseil donne son avis sur l'attribution ou le retrait de la qualité d'écol
 Son avis est également recueilli sur les actions de formation initiale et continue organisées dans l'académie.
 
 Les conditions de mise en oeuvre de l'enseignement bilingue dans les établissements de l'éducation nationale sont précisées par arrêté du ministre chargé de l'éducation après avis du Conseil supérieur de l'éducation.
+
+NOTA:
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil académique des langues régionales).

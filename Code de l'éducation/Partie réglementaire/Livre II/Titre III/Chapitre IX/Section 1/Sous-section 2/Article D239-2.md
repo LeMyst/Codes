@@ -67,3 +67,6 @@ c) Trois représentants au titre des employeurs et trois représentants au titre
 Les membres mentionnés aux 4° et 5° du I et aux 1° et 2° du II sont nommés par arrêté du ministre chargé de la culture, à l'exception des représentants des branches professionnelles, désignés par leur branche respective.
 
 Pour chaque membre titulaire, à l'exception des membres mentionnés au 2° du II, un suppléant est désigné dans les mêmes conditions.
+
+NOTA:
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).

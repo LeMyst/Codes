@@ -2,45 +2,16 @@
 
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR REDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR REDACTION |
 | --- | --- |
-|
-D. 811-1 |
-Résultant du décret n° 2017-963 du 10 mai 2017
-|
-|
-D. 811-2 et D. 811-3 |
-Résultant du décret n° 2015-652 du 10 juin 2015
-|
-|
-D. 811-4 |
-Résultant du décret n° 2017-963 du 10 mai 2017
-|
-|
-D. 811-5 à D. 811-7 |
-Résultant du décret n° 2015-652 du 10 juin 2015
-|
-|
-D. 811-8 et D. 811-8-1 |
-Résultant du décret n° 2017-963 du 10 mai 2017
-|
-|
-D. 811-9
-
-D. 821-1
-
-D. 821-3 |
-Résultant du décret n° 2015-652 du 10 juin 2015
-|
-|
-D. 821-11 |
-Résultant du décret n° 2017-718 du 2 mai 2017
-|
-|
-D. 821-12 D. 821-13, 1er et 2e alinéas |
-Résultant du décret n° 2015-652 du 10 juin 2015 |
+|  D. 811-1 |  Résultant du décret n° 2017-963 du 10 mai 2017  |
+|  D. 811-2 et D. 811-3 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  D. 811-4 |  Résultant du décret n° 2017-963 du 10 mai 2017  |
+|  D. 811-5 à D. 811-7 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  D. 811-8 et D. 811-8-1 |  Résultant du décret n° 2017-963 du 10 mai 2017  |
+|  D. 811-9 D. 821-1 D. 821-3 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  D. 821-11 |  Résultant du décret n° 2017-718 du 2 mai 2017  |
+|  D. 821-12 D. 821-13, 1er et 2e alinéas |  Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 821-14 | Résultant du décret n° 2022-1656 du 23 décembre 2022 |
 | D. 821-15, 1er alinéa D. 831-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 
@@ -57,3 +28,6 @@ II.-Pour l'application du I :
 5° Au premier alinéa de l'article D. 811-8, les mots : " l'une des trois fonctions publiques " sont remplacés par les mots : " la fonction publique " ;
 
 6° Au premier alinéa de l'article D. 821-14, les mots : “des directeurs des centres régionaux des œuvres universitaires et scolaires” sont remplacés par les mots : “du vice-recteur”.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-1656 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

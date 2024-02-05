@@ -5,3 +5,6 @@ Lorsque le président constate que la minute d'une décision est entachée d'une
 La notification de l'ordonnance rectificative rouvre, le cas échéant, le recours en cassation contre la décision ainsi corrigée.
 
 Lorsqu'une partie signale au président l'existence d'une erreur ou d'une omission matérielle entachant une décision, et lui demande d'user des pouvoirs définis au premier alinéa, cette demande est, sauf dans le cas mentionné au deuxième alinéa, sans influence sur le cours du délai de recours en cassation ouvert contre cette décision.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

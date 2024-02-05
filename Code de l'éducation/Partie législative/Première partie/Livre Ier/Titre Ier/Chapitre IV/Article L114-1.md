@@ -7,3 +7,6 @@ A l'issue de l'instruction obligatoire définie à l'article L. 131-1, cette obl
 Le contrôle du respect de leur obligation de formation par les jeunes âgés de seize à dix-huit ans est assuré par les missions locales pour l'insertion professionnelle et sociale des jeunes mentionnées à l'article L. 5314-1 du code du travail, qui bénéficient à cet effet d'un dispositif de collecte et de transmission des données placé sous la responsabilité de l'Etat.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre ainsi que les motifs d'exemption.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

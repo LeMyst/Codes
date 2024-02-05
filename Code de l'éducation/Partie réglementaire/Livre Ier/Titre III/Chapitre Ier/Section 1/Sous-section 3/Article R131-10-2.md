@@ -13,3 +13,6 @@ Les catégories de données enregistrées sont les suivantes :
 5° Mention et date de la saisine du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, par le directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de l'élève en application de l'article L. 131-8 ;
 
 6° Mention, date et éventuellement durée de la sanction d'exclusion temporaire ou définitive de l'élève prononcée par le chef d'établissement ou le conseil de discipline de l'établissement d'enseignement.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

@@ -9,3 +9,6 @@ Les pourcentages applicables selon les échelons sont les suivants :
 2° 70,91 % (deuxième échelon) ;
 
 3° 110,75 % (troisième échelon).
+
+NOTA:
+Conformément à l'article 2 du décret n° 2017-792 du 5 mai 2017, les présentes dispositions entrent en vigueur à compter de la rentrée scolaire 2017.

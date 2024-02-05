@@ -9,3 +9,6 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 3° Les compétences attribuées au directeur départemental des finances publiques sont exercées par le directeur chargé de la direction des finances publiques de Saint-Pierre-et-Miquelon ;
 
 4° La référence aux établissements publics locaux d'enseignement est remplacée par la référence aux établissements publics d'enseignement secondaire.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2023-291 du 18 avril 2023, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication.

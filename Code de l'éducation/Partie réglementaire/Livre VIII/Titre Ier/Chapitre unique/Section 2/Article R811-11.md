@@ -7,3 +7,6 @@ Relève du régime disciplinaire prévu aux articles R. 811-10 à R. 811-42 tout
 2° De tout fait de nature à porter atteinte à l'ordre, au bon fonctionnement ou à la réputation de l'université.
 
 Peuvent être également sanctionnées les fraudes ou les tentatives de fraude commises à l'occasion d'une inscription dans un établissement d'enseignement supérieur privé lorsque cette inscription ouvre l'accès à un examen de l'enseignement supérieur public ou les fraudes ou tentatives de fraude commises dans cette catégorie d'établissement à l'occasion d'un examen conduisant à l'obtention d'un diplôme national.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

@@ -33,3 +33,6 @@ Le conseil pédagogique :
 6° Assiste le chef d'établissement pour l'élaboration du rapport sur le fonctionnement pédagogique de l'établissement mentionné au 3° de l'article R. 421-20 ;
 
 7° Peut être saisi, pour avis, de toute question d'ordre pédagogique par le chef d'établissement, le conseil d'administration ou la commission permanente.
+
+NOTA:
+Conformément à l'article 1er du décret n° 2015-1394 du 2 novembre 2015, les dispositions du quatrième alinéa de l'article R. 421-41-3, dans leur rédaction résultant du décret n° 2014-1231 du 22 octobre 2014, entrent en vigueur à compter de la rentrée scolaire 2016.

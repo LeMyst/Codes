@@ -15,3 +15,6 @@ Le rapport ainsi que, le cas échéant, le rapport complémentaire sont transmis
 Ce délai est réduit à cinq jours francs lorsque l'affaire est soumise à la formation mentionnée à l'article R. 232-34.
 
 Le président peut fixer la date à partir de laquelle l'instruction sera close. En l'absence d'une décision de clôture, l'instruction est close trois jours francs avant la date de l'audience indiquée dans la convocation.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

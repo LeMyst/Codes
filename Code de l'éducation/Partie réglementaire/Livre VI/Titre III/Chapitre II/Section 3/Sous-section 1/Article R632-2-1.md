@@ -39,3 +39,6 @@ V.-Les étudiants mentionnés au II de l'article R. 632-2 qui ont obtenu la note
 VI.-Les étudiants mentionnés au II de l'article R. 632-2 qui n'obtiennent à aucune des deux sessions d'épreuves dématérialisées au cours d'un même année universitaire la note minimale requise pour la validation des connaissances de rang A ne peuvent pas participer aux examens cliniques objectifs structurés.
 
 Toutefois, les conditions dans lesquelles un étudiant est autorisé à renouveler sa participation aux épreuves dématérialisées l'année universitaire suivante sont fixées par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

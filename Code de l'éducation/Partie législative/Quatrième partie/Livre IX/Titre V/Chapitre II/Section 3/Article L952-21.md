@@ -7,3 +7,6 @@ Ils sont nommés par les ministres chargés de l'enseignement supérieur et de l
 Ils consacrent à leurs fonctions hospitalières, à l'enseignement et à la recherche la totalité de leur activité professionnelle, sous réserve des dérogations qui peuvent être prévues par leur statut.
 
 Les effectifs du personnel faisant l'objet du présent article sont fixés, pour chaque centre et pour chaque catégorie, par décision commune des ministres chargés de l'enseignement supérieur et de la santé.
+
+NOTA:
+Conformément à l'article 11 de l'ordonnance n° 2021-1574 du 24 novembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

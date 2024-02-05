@@ -9,3 +9,6 @@ Il fixe également le régime financier et comptable, le régime des marchés et
 Il définit les modalités selon lesquelles l'Etat peut organiser les mutualisations de la gestion et de la liquidation des rémunérations des personnels recrutés et payés par les établissements publics locaux d'enseignement.
 
 Ce décret peut prévoir des règles particulières dérogatoires aux dispositions du 3° de l'article L. 421-2 relatives à la représentation des élèves et des parents d'élèves pour tenir compte du recrutement ou de la vocation spécifique de certains établissements.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

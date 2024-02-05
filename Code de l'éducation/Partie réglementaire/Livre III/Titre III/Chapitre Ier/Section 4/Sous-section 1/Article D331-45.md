@@ -33,3 +33,6 @@ Pour leur application à Saint-Pierre-et-Miquelon, les articles suivants sont ai
 4° Le deuxième alinéa de l'article D. 331-43 est modifié ainsi qu'il suit :
 
 " Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation, ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au chef du service de l'éducation nationale. "
+
+NOTA:
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission préparatoire à l'affectation : Saint-Pierre-et-Miquelon).

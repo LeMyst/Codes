@@ -64,8 +64,7 @@ b) Limoges ;
 
 c) Poitiers.
 
-12° Région académique Normandie :
-
+12° Région académique Normandie :\
 Normandie.
 
 13° Région académique Occitanie :
@@ -85,3 +84,8 @@ a) Aix-Marseille ;
 b) Nice.
 
 II.-Le siège de chaque centre régional des œuvres universitaires et scolaires est fixé par le ministre chargé de l'enseignement supérieur.
+
+NOTA:
+Conformément au I de l’article 5 du décret n° 2022-1494 du 28 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux conditions d'application prévues au II dudit article 5.

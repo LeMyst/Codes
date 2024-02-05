@@ -21,3 +21,6 @@ b) Une offre diversifiée et adaptée pour les parents et les accompagnants des 
 c) Des outils adaptés et innovants de suivi, de communication, d'échange et de retour d'expérience avec les familles assurant l'instruction obligatoire.
 
 Dans le cadre de ce service public, la détermination du choix des ressources utilisées tient compte de l'offre de logiciels libres et de documents au format ouvert, si elle existe.
+
+NOTA:
+Conformément au IV de l'article 49 de la loi n° 2021-1109 du 24 août 2021, ces dispositions entrent en vigueur à la rentrée scolaire 2022.

@@ -9,3 +9,6 @@ L'élection est acquise à la majorité absolue des suffrages exprimés au premi
 Lorsqu'une section disciplinaire ne comprend qu'un seul professeur des universités, celui-ci la préside sans qu'il y ait lieu à élection.
 
 En cas d'empêchement provisoire du président de la section disciplinaire, celui-ci est remplacé par un suppléant élu en même temps que lui et dans les mêmes conditions.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

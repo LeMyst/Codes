@@ -31,3 +31,6 @@ IV.-Sous réserve des dispositions du III, les sanctions, même assorties du sur
 Toutefois, un élève peut demander l'effacement des sanctions inscrites dans son dossier administratif lorsqu'il change d'établissement.
 
 Les sanctions sont effacées du dossier administratif de l'élève au terme de sa scolarité dans le second degré.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2019-906 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

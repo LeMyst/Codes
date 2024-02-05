@@ -9,3 +9,6 @@ L'évaluation sert à mesurer et à valoriser la progression de l'acquisition de
 Les personnes responsables d'un enfant instruit dans la famille sont informées par l'autorité de l'Etat compétente en matière d'éducation, à la suite de l'autorisation prévue à l'article L. 131-5, des modalités selon lesquelles elles peuvent demander que leur enfant participe aux évaluations qui peuvent être organisées au niveau national par le ministre chargé de l'éducation nationale. Les résultats de ces évaluations leur sont transmis.
 
 Pour assurer l'égalité et la réussite des élèves, l'enseignement est adapté à leur diversité par une continuité éducative au cours de chaque cycle et tout au long de la scolarité.
+
+NOTA:
+Conformément au IV de l'article 49 de la loi n° 2021-1109 du 24 août 2021, ces dispositions entrent en vigueur à la rentrée scolaire 2022.

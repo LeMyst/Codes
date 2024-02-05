@@ -9,3 +9,8 @@ Les chargés d'enseignement apportent aux étudiants la contribution de leur exp
 La rémunération des chargés d'enseignement et des agents temporaires vacataires est versée mensuellement.
 
 Le recrutement de chercheurs pour des tâches d'enseignement est organisé dans des conditions fixées par décret.
+
+NOTA:
+Conformément à l'article 11 de la loi n° 2020-1674 du 24 décembre 2020, les présentes dispositions entrent en vigueur au plus tard le 1er septembre 2022.
+
+Conformément au 2° de l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er septembre 2022.

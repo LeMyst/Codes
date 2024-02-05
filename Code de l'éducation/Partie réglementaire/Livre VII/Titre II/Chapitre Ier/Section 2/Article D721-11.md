@@ -15,3 +15,6 @@ Les présidents du comité d'audition arrêtent le calendrier et les modalités 
 Après examen des dossiers de candidature transmis à chacun de ses membres par l'établissement de rattachement de l'institut, le comité auditionne les candidats. Le comité communique aux ministres chargés de l'éducation nationale et de l'enseignement supérieur un rapport écrit motivant l'avis porté sur chacun des candidats.
 
 Les membres du comité exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
+
+NOTA:
+Conformément aux dispositions de l'article 4 du décret n° 2019-920 du 30 août 2019, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2019.

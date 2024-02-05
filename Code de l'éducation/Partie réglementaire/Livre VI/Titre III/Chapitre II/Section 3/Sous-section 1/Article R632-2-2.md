@@ -7,3 +7,6 @@ II.-Les examens cliniques objectifs structurés ont pour objet de vérifier que 
 Les résultats obtenus à ces examens cliniques objectifs structurés constituent un des éléments du dossier de l'étudiant mentionné à l'article R. 632-2-7 déposé lors de sa participation à la procédure nationale d'appariement prévue au même article.
 
 III.-La procédure d'inscription et le calendrier des examens cliniques objectifs structurés sont fixés par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

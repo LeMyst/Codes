@@ -5,3 +5,6 @@ Sur demande de l'étudiant, les établissements d'enseignement supérieur prévo
 Les aménagements portent, en fonction des besoins, sur l'emploi du temps, les modalités de contrôle des connaissances, la durée du cursus d'études ou peuvent prendre toute autre forme définie par les établissements qui peuvent s'appuyer sur le développement de l'enseignement à distance et le recours aux technologies numériques. Ils sont formalisés dans un document écrit signé par l'étudiant et le chef d'établissement.
 
 Les droits spécifiques peuvent comprendre des actions d'information et de formation, des moyens matériels, des aides financières et, pour les étudiants élus dans les conseils des établissements et des centres régionaux des œuvres universitaires et scolaires, des dispositions destinées à faciliter l'exercice de leur mandat.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2017-962 du 10 mai 2017, les présentes dispositions entrent en vigueur à compter de la rentrée universitaire 2017-2018.

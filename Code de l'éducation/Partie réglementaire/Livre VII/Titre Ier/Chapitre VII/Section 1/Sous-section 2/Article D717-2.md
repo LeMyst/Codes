@@ -11,3 +11,6 @@ Les dispositions relatives aux grands établissements placés sous la tutelle co
 4° (Abrogé) ;
 
 5° CentraleSupélec, sous la tutelle conjointe des ministres chargés de l'enseignement supérieur et de l'industrie : décret n° 2014-1679 du 30 décembre 2014 portant création de CentraleSupélec.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2023-1321 du 27 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

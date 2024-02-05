@@ -9,3 +9,6 @@ Sont électeurs pour la désignation des représentants des maîtres au sein de 
 3° Les maîtres de l'enseignement public exerçant leurs fonctions dans les établissements d'enseignement privés sous contrat et remplissant les conditions pour être électeur fixées au 3° de l'article R. 914-13-9.
 
 La qualité d'électeur s'apprécie au jour du scrutin.
+
+NOTA:
+Conformément au second alinéa de l’article 6 du décret n° 2022-429 du 25 mars 2022, ces dispositions sont applicables en vue du prochain renouvellement des instances mentionnées par les articles R. 914-4, R. 914-6, R. 914-7 et R. 914-13-1 du code de l'éducation.

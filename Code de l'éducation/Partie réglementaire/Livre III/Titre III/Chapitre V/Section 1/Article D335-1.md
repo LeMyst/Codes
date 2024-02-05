@@ -23,3 +23,6 @@ Il est défini par un cahier des charges national composé des critères suivant
 La demande de délivrance du label est présentée par l'établissement d'enseignement. Elle doit comporter l'accord de son conseil d'administration.
 
 La demande peut être formulée conjointement par plusieurs établissements, dans l'objectif de procéder à une labellisation en réseau.
+
+NOTA:
+Conformément à la première phrase de l’article 4 du décret n° 2023-763 du 10 août 2023, ces dispositions entrent en vigueur au 1er novembre 2023. Se reporter aux conditions d’application prévues à la seconde phrase de l’article 4 dudit décret.

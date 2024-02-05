@@ -25,3 +25,6 @@ L'ensemble des missions associées à l'emploi de direction d'une école fait pa
 VIII. - Un décret en Conseil d'Etat définit les responsabilités des directeurs d'école maternelle, élémentaire ou primaire ainsi que les modalités d'évaluation de la fonction.
 
 IX. - Le directeur d'école dispose des moyens numériques nécessaires à l'exercice de sa fonction.
+
+NOTA:
+Conformément au II de l'article 2 de la loi n° 2021-1716 du 21 décembre 2021, le III de l'article L. 411-2 entre en vigueur le 1er octobre 2022.

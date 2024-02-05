@@ -17,3 +17,6 @@ A défaut d'accord, le représentant de l'Etat dans le département réunit le m
 Lorsque la contribution n'est pas obligatoire, la commune de résidence peut participer aux frais de fonctionnement de l'établissement sans que cette participation puisse excéder par élève le montant de la contribution tel que fixé au dernier alinéa.
 
 Pour le calcul de la contribution de la commune de résidence, il est tenu compte des ressources de cette commune, du nombre d'élèves de cette commune scolarisés dans la commune d'accueil et du coût moyen par élève calculé sur la base des dépenses de fonctionnement de l'ensemble des écoles publiques de la commune d'accueil, sans que le montant de la contribution par élève puisse être supérieur au coût qu'aurait représenté pour la commune de résidence l'élève s'il avait été scolarisé dans une de ses écoles publiques. En l'absence d'école publique, la contribution par élève mise à la charge de chaque commune est égale au coût moyen des classes correspondantes de l'enseignement public du département.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

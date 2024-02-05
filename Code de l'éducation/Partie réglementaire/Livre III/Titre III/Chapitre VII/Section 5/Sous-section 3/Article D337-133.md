@@ -13,3 +13,6 @@ Les candidats mentionnés au 3° de l'article D. 337-127 et au 2° de l'article 
 Lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui être délivré.
 
 L'absence justifiée à une ou plusieurs épreuves donne lieu à l'attribution de la note zéro à l'unité ou aux épreuves concernées et le diplôme peut être délivré si les conditions prévues au premier alinéa du présent article sont remplies. Dans le cas où le diplôme ne peut être délivré au candidat, celui-ci se présente à des épreuves de remplacement, dans les conditions fixées à l'article D. 337-137.
+
+NOTA:
+Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.

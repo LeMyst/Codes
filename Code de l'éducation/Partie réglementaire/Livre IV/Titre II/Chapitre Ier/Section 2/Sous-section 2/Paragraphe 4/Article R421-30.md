@@ -14,6 +14,5 @@ Le matériel de vote est envoyé aux électeurs six jours au moins avant la date
 
 Les conditions du vote par correspondance et par voie électronique sont définies par arrêté du ministre chargé de l'éducation dans le respect de la protection des données personnelles et des principes fondamentaux qui commandent les opérations électorales, notamment le secret du scrutin, le caractère personnel, libre et anonyme du vote, la sincérité des opérations électorales et la surveillance effective du vote.
 
-Le chef d'établissement fixe la date du scrutin et les heures d'ouverture du bureau de vote sans que celles-ci puissent être inférieures à quatre heures consécutives pour les parents d'élèves et à huit heures consécutives pour les personnels. Il reçoit pour le vote par correspondance les bulletins sous double enveloppe, organise le dépouillement public et en publie les résultats.
-
+Le chef d'établissement fixe la date du scrutin et les heures d'ouverture du bureau de vote sans que celles-ci puissent être inférieures à quatre heures consécutives pour les parents d'élèves et à huit heures consécutives pour les personnels. Il reçoit pour le vote par correspondance les bulletins sous double enveloppe, organise le dépouillement public et en publie les résultats.\
 Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de la proclamation des résultats devant le recteur d'académie. Celui-ci statue dans un délai de huit jours à l'issue duquel, à défaut de décision, la demande est réputée rejetée.

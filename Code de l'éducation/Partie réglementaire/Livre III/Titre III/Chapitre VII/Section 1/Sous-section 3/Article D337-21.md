@@ -7,3 +7,6 @@ A chaque session, les candidats ne peuvent s'inscrire qu'en vue de l'obtention d
 Par dérogation à l'alinéa précédent, les candidats titulaires d'un contrat d'apprentissage conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code, peuvent s'inscrire en vue de l'obtention de deux certificats d'aptitude professionnelle à la même session.
 
 Sur autorisation du recteur d'académie, les épreuves de remplacement, à l'exception de l'épreuve d'éducation physique et sportive et de l'épreuve facultative, sont organisées pour les candidats mentionnés au sixième alinéa de l'article D. 337-16, au sein d'une académie ou d'un groupement d'académies.
+
+NOTA:
+Les dispositions du décret n° 2012-197 du 8 février 2012 entrent en vigueur à compter de la session d'examen 2012.

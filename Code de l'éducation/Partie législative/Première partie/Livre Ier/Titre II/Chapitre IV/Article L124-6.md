@@ -7,3 +7,6 @@ Le premier alinéa s'applique sans préjudice des dispositions de l'article L. 4
 La gratification mentionnée au premier alinéa est due au stagiaire à compter du premier jour du premier mois de la période de stage ou de formation en milieu professionnel. Son montant minimal forfaitaire n'est pas fonction du nombre de jours ouvrés dans le mois.
 
 Un décret fixe les conditions dans lesquelles il peut être dérogé à la durée prévue au premier alinéa du présent article pour les périodes de formation en milieu professionnel réalisées dans le cadre des formations mentionnées à l'article L. 813-9 du code rural et de la pêche maritime.
+
+NOTA:
+Conformément au II de l'article 1 de la loi n° 2014-788 du 10 juillet 2014, les trois premiers alinéas de l'article L. 124-6 du code de l'éducation, dans leur rédaction résultant de la présente loi, sont applicables aux conventions de stage signées à compter du 1er septembre 2015.

@@ -15,3 +15,6 @@ b) Un représentant des directeurs d'établissements publics d'enseignement sup�
 c) Deux personnalités choisies en raison de leurs compétences.
 
 Ces cinq membres sont nommés par le préfet de région, sur proposition respectivement du recteur pour les personnalités choisies en raison de leurs compétences et du délégué régional académique à la recherche et à l'innovation pour les représentants des organismes nationaux de recherche.
+
+NOTA:
+Conformément aux articles 12 et 13 du décret n° 2020-1555 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021 et peuvent être modifiées par des actes pris dans les mêmes formes que les actes dont elles étaient issues antérieurement à l'entrée en vigueur du présent décret. Se reporter aux conditions d'application prévues à l'article 10 du décret susvisé.

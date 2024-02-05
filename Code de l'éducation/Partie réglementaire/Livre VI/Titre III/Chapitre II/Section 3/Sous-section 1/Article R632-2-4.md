@@ -9,3 +9,6 @@ Il définit et élabore une grille standardisée permettant l'évaluation de cha
 Il est composé de personnels enseignants et hospitaliers titulaires appartenant aux collèges électoraux des sections et sous-sections médicales du Conseil national des universités.
 
 Un arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense précise la composition du conseil scientifique de médecine, ses missions et ses modalités d'organisation et de fonctionnement.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

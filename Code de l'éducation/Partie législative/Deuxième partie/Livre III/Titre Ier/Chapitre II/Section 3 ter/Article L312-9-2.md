@@ -7,3 +7,6 @@ Dans chaque académie peut être favorisé l'apprentissage des langues étrangè
 Une continuité des apprentissages de langues vivantes étrangères doit être assurée entre le primaire et le collège.
 
 Outre les enseignements de langues qui leur sont dispensés, les élèves peuvent bénéficier d'une initiation à la diversité linguistique. Les langues parlées au sein des familles peuvent être utilisées à cette fin.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

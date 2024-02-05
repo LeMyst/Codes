@@ -9,3 +9,6 @@ Si le candidat est mineur, cette communication est également faite à son repr�
 Le recteur d'académie, ou toute personne désignée par lui à cet effet, reçoit le candidat poursuivi ainsi que, le cas échéant, la personne chargée de l'assister et, si le candidat est mineur, son représentant légal. Il expose les faits et donne lecture, le cas échéant, des observations écrites produites par l'intéressé, la personne chargée de l'assister ou son représentant légal. Le candidat est entendu dans ses explications. L'audition se tient valablement même en l'absence du candidat.
 
 La décision du recteur d'académie est notifiée à l'intéressé et, le cas échéant, à son représentant légal.
+
+NOTA:
+Conformément à l’article 22 du décret n° 2021-983 du 27 juillet 2021, ces dispositions sont applicables à compter de la session 2022 du baccalauréat général et du baccalauréat technologique.

@@ -11,3 +11,8 @@ Le recteur de région académique peut évoquer, par arrêté publié au recueil
 Sous réserve des compétences du recteur de région académique, la circonscription académique continue d'être administrée par un recteur d'académie.
 
 Par dérogation à l'alinéa précédent, un recteur de région académique peut être chargé, par décret pris en conseil des ministres, d'administrer les autres académies de la même région académique. Les dispositions relatives au comité régional académique prévu à l'article R. 222-16 ne sont alors pas applicables.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2021-350 du 29 mars 2021, ces dispositions sont applicables aux requêtes d'appel enregistrées devant les juridictions administratives, aux demandes indemnitaires et aux décisions de justice intervenues après la date de publication dudit décret ainsi qu'aux demandes de protection fonctionnelle présentées à compter de cette date.
+
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

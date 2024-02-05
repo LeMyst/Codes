@@ -65,3 +65,6 @@ r) Aménagement du territoire, développement, urbanisme ;
 s) Développement et protection du patrimoine culturel ;
 
 t) Assainissement, protection de l'environnement.
+
+NOTA:
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er janvier 2009.

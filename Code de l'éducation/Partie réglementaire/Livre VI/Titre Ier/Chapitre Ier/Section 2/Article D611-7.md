@@ -7,3 +7,6 @@ Cette validation prend la forme notamment de l'attribution d'éléments constitu
 Les modalités de demande et de validation prévues au deuxième alinéa sont définies au plus tard dans les deux mois qui suivent le début de l'année universitaire par la commission de la formation et de la vie universitaire du conseil académique de l'université ou, à défaut, par l'instance en tenant lieu.
 
 Les mêmes activités ne peuvent donner lieu qu'à une seule validation des compétences, connaissances et aptitudes acquises.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2017-962 du 10 mai 2017, les présentes dispositions entrent en vigueur à compter de la rentrée universitaire 2017-2018.

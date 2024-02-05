@@ -5,3 +5,6 @@ Les dispositions de la loi n° 84-16 du 11 janvier 1984 portant dispositions sta
 Le régime des contrats à durée déterminée est fixé par les articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 précitée.
 
 Lorsque les ressources nécessaires à la rémunération de personnels permanents sont suffisamment garanties, les emplois correspondants, dont la rémunération est couverte par voie de fonds de concours, peuvent être attribués aux établissements dans la limite du total des emplois inscrits à la loi de finances de l'année dans des conditions fixées par décret.
+
+NOTA:
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 19 de la présente loi s'applique à compter de l'installation du nouveau conseil d'administration.

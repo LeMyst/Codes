@@ -23,3 +23,6 @@ Dans les sections comportant des enseignements artistiques spécialisés où int
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
 Au sein des jurys conduisant à la délivrance de l'option internationale du baccalauréat, intitulée “ baccalauréat français international ”, ou à la délivrance de baccalauréats binationaux, le recteur d'académie peut désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent constituer plus de la moitié des membres du jury, ni exercer la fonction de président ou président adjoint.
+
+NOTA:
+Conformément à l’article 22 du décret n° 2021-1054 du 6 août 2021, ces dispositions sont applicables à compter de la rentrée scolaire 2022-2023 pour les classes de première et de la rentrée scolaire 2023-2024 pour les classes de terminale.

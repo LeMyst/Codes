@@ -11,3 +11,8 @@ L'accréditation est renouvelée pour la même durée, après une évaluation na
 L'accréditation de l'institut emporte l'habilitation de l'établissement public à caractère scientifique, culturel et professionnel ou des établissements publics d'enseignement supérieur partenaires, mentionnés à l'article L. 721-2, à délivrer le diplôme national de master dans les domaines des métiers de l'enseignement, de l'éducation et de la formation.
 
 Les modalités d'accréditation sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et de l'éducation nationale
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.
+
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019 : Les directeurs d'école supérieure du professorat et de l'éducation dont le mandat est en cours à la date d'entrée en vigueur du présent article exercent, pour la durée de leur mandat restant à courir, la fonction de directeur d'institut national supérieur du professorat et de l'éducation.

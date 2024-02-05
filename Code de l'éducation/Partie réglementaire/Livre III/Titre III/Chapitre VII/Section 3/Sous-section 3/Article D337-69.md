@@ -11,3 +11,6 @@ Tout candidat peut présenter, à titre facultatif, une ou deux unités choisies
 Les unités constitutives du diplôme peuvent être acquises au titre de la validation des acquis de l'expérience, dans les conditions prévues par l'article R. 335-9. Les candidats qui n'obtiennent qu'une validation partielle reçoivent une attestation reconnaissant l'acquisition des blocs de compétences correspondant aux unités qu'ils ont validées. Cette attestation est délivrée par le recteur d'académie.
 
 2° Une épreuve de contrôle organisée pour certains candidats dans les conditions prévues aux articles D. 337-78 et D. 337-79. Cette épreuve orale qui porte sur des connaissances et compétences générales et professionnelles est définie par arrêté du ministre chargé de l'éducation, par arrêté du ministre chargé de l'agriculture pour les baccalauréats mentionnés au deuxième alinéa de l'article D. 337-53 ou par arrêté du ministre chargé de la mer pour les baccalauréats mentionnés au troisième alinéa du même article.
+
+NOTA:
+Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.

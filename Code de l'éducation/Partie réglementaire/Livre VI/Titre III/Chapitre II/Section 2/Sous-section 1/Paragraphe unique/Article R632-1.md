@@ -9,3 +9,6 @@ Afin d'être agréé pour l'accueil d'un étudiant de deuxième cycle des étude
 2° Proposer des activités de soins en adéquation avec les objectifs de la formation poursuivie dispensée ;
 
 3° Justifier d'un niveau d'encadrement et des moyens pédagogiques mis en œuvre pour assurer la qualité de la formation.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-951 du 30 juillet 2020, ces dispositions s'appliquent à compter de la rentrée universitaire 2020.

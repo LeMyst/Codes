@@ -9,3 +9,6 @@ Pendant la durée du contrat d'année de recherche mentionné à l' article R. 6
 Les stages ou les gardes accomplis au cours de l'année de recherche ne sont pas pris en compte dans les obligations de formation universitaire prévues pour l'obtention du ou des diplômes postulés dans le cadre du troisième cycle spécialisé des études pharmaceutiques.
 
 II.-L'année de recherche prévue au I ainsi que la disponibilité prévue au 2° de l'article R. 6153-26 du code de la santé publique sont prises en compte dans le calcul de l'ancienneté mentionnée à l'article D. 633-15 dans la limite de deux années.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2020-1308 du 29 octobre 2020, ces dispositions s'appliquent à compter du 1er novembre 2020.

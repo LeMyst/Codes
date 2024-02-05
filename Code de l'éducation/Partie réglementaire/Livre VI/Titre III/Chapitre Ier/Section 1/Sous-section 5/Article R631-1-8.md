@@ -9,3 +9,6 @@ I.-Lorsqu'ils ne sont pas déjà orientés en formation de médecine, de pharmac
 Un arrêté du ministre de la défense et des ministres chargés de l'enseignement supérieur et de la santé précise en tant que de besoin les modalités d'application du présent article.
 
 II.-La réussite à un concours d'admission en tant qu'élève médecin, pharmacien ou chirurgien-dentiste dans les conditions prévues à l'article R. 631-1-9 entraîne l'inscription dans la formation concernée dans l'une des universités mentionnées à l'article R. 631-1-11.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

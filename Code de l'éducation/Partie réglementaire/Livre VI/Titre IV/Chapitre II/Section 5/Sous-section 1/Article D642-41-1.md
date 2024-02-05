@@ -7,3 +7,6 @@ Cette validation prend la forme notamment de l'attribution d'éléments constitu
 Les modalités de demande et de validation sont définies au plus tard dans les deux mois qui suivent le début de l'année scolaire par la commission pédagogique mentionnée à l'article D. 642-48.
 
 Les mêmes activités ne peuvent donner lieu qu'à une seule validation des compétences, connaissances et aptitudes acquises.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

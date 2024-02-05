@@ -15,3 +15,6 @@ Lorsqu'elle a été créée en application de l'article R. 421-22, la commission
 6° Trois représentants élus des parents d'élèves dans les collèges et deux dans les lycées ;
 
 7° Un représentant élu des élèves dans les collèges et deux dans les lycées.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-1632 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des conseils d'administration des établissements régis par le chapitre Ier du titre II du livre IV du code de l'éducation.

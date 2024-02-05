@@ -15,3 +15,6 @@ Les étudiants recrutés en application de l'article L. 811-2 sont électeurs da
 Chaque usager ne peut être électeur que dans une unité de formation et de recherche, un institut ou une école interne à l'établissement.
 
 Les étudiants mentionnés au 2° sont électeurs au conseil d'unité de formation et de recherche, d'école ou d'institut dans les conditions prévues par les statuts de la composante à laquelle ils sont rattachés au vu de la convention mentionnée au 2°.
+
+NOTA:
+Conformément à l'article 2 du décret n°2020-1467, cet article s'applique aux élections des conseils des établissements publics à caractère scientifique, culturel et professionnel dont la décision fixant les modalités d'organisation est postérieure à la publication dudit décret.

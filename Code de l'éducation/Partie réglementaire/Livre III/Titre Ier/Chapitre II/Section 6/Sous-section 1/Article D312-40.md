@@ -7,3 +7,6 @@ Dans les écoles, un enseignement des règles générales de sécurité et de pr
 Dans les collèges et les lycées, cet enseignement et cette formation sont mis en oeuvre en application des programmes et dans les différentes activités organisées par l'établissement dans le cadre du projet d'établissement ; le projet d'établissement prend en compte les propositions du comité d'éducation à la santé, à la citoyenneté et à l'environnement mentionné à l'article D. 421-46.
 
 Les personnels d'enseignement et d'éducation contribuent, en liaison étroite avec les familles, à cette action éducative à laquelle participent également les autres membres du personnel exerçant dans l'établissement, en particulier les personnels de santé.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-540 du 12 avril 2022, ces dispositions entrent en vigueur lors du prochain renouvellement des conseils d'administration des établissements régis par les dispositions du chapitre Ier du titre II du livre IV du code de l'éducation.

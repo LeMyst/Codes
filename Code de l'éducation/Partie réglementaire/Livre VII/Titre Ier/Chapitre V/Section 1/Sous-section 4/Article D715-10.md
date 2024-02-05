@@ -21,3 +21,6 @@ Les dispositions relatives aux autres écoles ou instituts extérieurs au sens d
 9° Ecole nationale supérieure de mécanique et des microtechniques : décret n° 2018-285 du 18 avril 2018 relatif à l'Ecole nationale supérieure de mécanique et des microtechniques ;
 
 10° Etablissement public à caractère scientifique, culturel et professionnel dénommé “ Université de Mayotte ”.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2023-1356 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

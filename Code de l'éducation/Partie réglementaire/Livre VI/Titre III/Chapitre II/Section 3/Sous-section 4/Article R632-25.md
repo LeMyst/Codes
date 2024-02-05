@@ -7,3 +7,6 @@ Elle conduit à la délivrance, par les universités accréditées à cet effet,
 Le diplôme d'études spécialisées est délivré aux étudiants ayant validé l'ensemble de la formation de la spécialité suivie conformément à la maquette de formation prévue au dernier alinéa.
 
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense fixe les modalités d'organisation et de validation des acquisitions des connaissances et des compétences en vue de l'obtention du diplôme d'études spécialisées et précise les maquettes de formation pour chaque spécialité.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

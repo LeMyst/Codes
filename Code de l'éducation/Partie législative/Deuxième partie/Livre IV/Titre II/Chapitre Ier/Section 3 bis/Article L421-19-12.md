@@ -7,3 +7,6 @@ Par dérogation à l'article L. 122-1-1 et aux titres Ier, II et III du livre II
 Le nombre des cycles et leur durée sont fixés par décret.
 
 Les établissements mentionnés au même premier alinéa participent à l'organisation de l'examen du baccalauréat européen en accord avec le Conseil supérieur des écoles européennes conformément aux stipulations de l'accord relatif à la modification de l'annexe au statut de l'École européenne et portant règlement du baccalauréat européen, signé à Luxembourg le 11 avril 1984.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

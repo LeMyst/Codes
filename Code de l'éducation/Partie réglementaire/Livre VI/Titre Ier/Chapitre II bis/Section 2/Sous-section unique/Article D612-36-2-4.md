@@ -23,3 +23,6 @@ Pour chaque nouveau placement en recherche de contrat qu'il accepte, le candidat
 A défaut de réponse dans ce délai, il perd le bénéfice des placements en recherche de contrat qu'il a précédemment acceptés.
 
 Le candidat peut accepter tout nouveau placement en recherche de contrat après acceptation définitive ou provisoire d'une proposition d'admission dans une formation qui ne relève pas de l'alternance, dans le délai fixé par le calendrier prévu à l'article D. 612-36-2. L'acceptation définitive par le candidat d'une proposition d'admission dans une formation ne relevant pas de l'alternance ne clôt donc pas la phase d'admission dans les formations en alternance auxquelles il a candidaté.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

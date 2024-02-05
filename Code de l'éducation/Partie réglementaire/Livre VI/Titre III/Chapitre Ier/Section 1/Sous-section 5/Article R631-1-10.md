@@ -9,3 +9,6 @@ Le jury prévu à ce même article examine les candidatures et établit une list
 L'inscription sur cette liste ne permet l'admission en deuxième ou troisième année de premier cycle des formations de médecine, de pharmacie ou d'odontologie qu'en cas d'admission en tant qu'élève médecin, pharmacien ou chirurgien-dentiste, conformément au nombre de postes ouverts par le ministre de la défense.
 
 II.-Lorsqu'ils sont exclus des écoles du service de santé des armées après l'établissement de la liste mentionnée au I et avant leur admission en formation de médecine, de pharmacie ou d'odontologie, les élèves figurant sur cette liste peuvent demander le réexamen de leur dossier selon les procédures prévues à l'article R. 631-1-2, en fonction de leur situation personnelle, en vue de leur admission en deuxième ou troisième année de premier cycle des formations de médecine, de pharmacie, d'odontologie ou de maïeutique. Ce réexamen et l'éventuelle admission de ces anciens élèves ne sont pas pris en compte dans les nombres et pourcentages prévus à l'article R. 631-1-1.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

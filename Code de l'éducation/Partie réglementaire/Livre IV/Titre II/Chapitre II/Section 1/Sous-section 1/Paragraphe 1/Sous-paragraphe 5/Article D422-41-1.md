@@ -9,3 +9,6 @@ Le professeur référent de groupe d'élèves assure un suivi individualisé ren
 Pour ces missions, les personnels enseignants désignés perçoivent une indemnité, dont les modalités sont fixées par l'arrêté prévu par l'article 4 du décret n° 93-55 du 15 janvier 1993 instituant une indemnité de suivi et d'orientation des élèves.
 
 En l'absence de professeur principal dans les classes de première ou de terminale de la voie générale et technologique, un professeur référent de groupe d'élèves assure les missions de professeur principal.
+
+NOTA:
+Conformément à l’article 11 du décret n° 2021-954 du 19 juillet 2021, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2021.

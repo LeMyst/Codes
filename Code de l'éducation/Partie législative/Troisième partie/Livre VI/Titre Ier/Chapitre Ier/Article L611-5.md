@@ -23,3 +23,6 @@ L'observatoire présente un rapport annuel à la commission de la formation et d
 Les statistiques comportant les taux d'insertion professionnelle des étudiants, constatés un an et deux ans après l'obtention de leur diplôme, incluant une distinction par sexe, sont publiées sur le site internet de l'établissement et, pour les formations qui y sont inscrites, dans le cadre de la procédure nationale prévue au deuxième alinéa du I de l'article L. 612-3. Elles sont prises en compte dans le cadre de l'examen de la demande par l'établissement d'accréditation de son offre conférant un grade ou un titre universitaire, conformément à l'article L. 613-1. Chaque élève en est obligatoirement informé en amont de son orientation dans un nouveau cycle ou une formation supérieure.
 
 Un observatoire national de l'insertion professionnelle des diplômés de l'enseignement supérieur agrège les statistiques produites par les observatoires d'établissements et coordonne leurs actions communes. Un arrêté du ministre chargé de l'enseignement supérieur précise l'organisation de cette instance et les modalités de représentation au sein de l'observatoire des acteurs des établissements portant des formations supérieures.
+
+NOTA:
+Conformément au II de l'article 7 de la loi n° 2021-1774 du 24 décembre 2021, ces dispositions entrent en vigueur deux ans après la publication de ladite loi.

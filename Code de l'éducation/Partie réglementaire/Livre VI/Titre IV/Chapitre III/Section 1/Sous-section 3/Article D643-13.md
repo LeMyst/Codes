@@ -9,3 +9,6 @@ L'examen sanctionne l'acquisition par les candidats des capacités, compétences
 2° Par la validation des acquis de l'expérience, en application de l'article L. 335-5 du code de l'éducation et dans les conditions fixées par les articles R. 335-5 à R. 335-11.
 
 Outre l'unité mentionnée à l'article D. 643-15-1, tout candidat peut présenter à titre facultatif une ou deux unités choisies parmi celles proposées, le cas échéant, par le référentiel.
+
+NOTA:
+Conformément au premier alinéa de l’article 3 du décret n° 2022-850 du 3 juin 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

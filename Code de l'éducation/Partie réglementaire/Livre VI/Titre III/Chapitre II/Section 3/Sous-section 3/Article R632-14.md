@@ -13,3 +13,6 @@ Elle est présidée par un coordonnateur local et comprend, notamment, des repr�
 2° Un coordonnateur local dont la désignation et les missions sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
 
 Les missions des commissions et des coordonnateurs mentionnés aux 1° et 2° sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

@@ -13,3 +13,6 @@ Le recteur de région académique, ou toute personne désignée par lui à cet e
 Le candidat est invité à présenter ses ultimes observations avant que la commission ne commence à délibérer.
 
 Si elle se juge insuffisamment éclairée, la commission de discipline du diplôme national des métiers d'art et du design peut décider de reporter l'affaire à une séance ultérieure. Il en est de même si le candidat, pour des motifs impérieux, n'est ni présent ni représenté et n'a pas fait parvenir d'observation.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

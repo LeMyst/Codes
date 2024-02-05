@@ -5,3 +5,6 @@ Pour l'application de l'article R. 822-10 au centre régional des œuvres univer
 1° Le conseil d'administration est présidé, pour la durée d'une année civile, successivement par le recteur de la région académique de Guadeloupe, le recteur de la région académique de Guyane et le recteur de la région académique de Martinique ;
 
 2° Le membre titulaire et le membre suppléant appelés à siéger en application du e) sont désignés, pour un mandat d'une année, successivement par la région de Guadeloupe, la collectivité territoriale de Guyane et la collectivité territoriale de Martinique.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 13 du décret n° 2021-1907 du 30 décembre 2021.

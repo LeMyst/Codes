@@ -5,3 +5,6 @@ Sous l'autorité de la région, le service public de l'orientation tout au long 
 Pour l'application de cette obligation, le jeune est reçu conjointement avec son représentant légal par l'un ou l'autre des organismes visés au premier alinéa, dans les trois mois qui suivent le signalement par son établissement d'origine dans les conditions mentionnées à l'article L. 313-7, pour bénéficier d'un entretien de réorientation.
 
 Cet entretien, assuré dans le cadre de la coordination mentionnée à l'article L. 313-7, vise à proposer au jeune et à son représentant légal des solutions de reprise d'études, d'entrée en formation, d'exercice d'une activité d'intérêt général ou d'accompagnement personnalisé vers l'emploi ou la création d'entreprise.Cet entretien permet également de rappeler au jeune et à son représentant légal l'obligation de formation définie à l'article L. 114-1.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

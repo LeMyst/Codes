@@ -59,3 +59,6 @@ Les dispositions relatives aux formations dispensées dans les grands établisse
 27° Le décret n° 2019-1130 du 5 novembre 2019 portant création de l'Université Paris sciences et lettres (Université PSL) et approbation de ses statuts ;
 
 28° Le décret n° 2019-1123 du 31 octobre 2019 portant création de l'Université Grenoble Alpes et approbation de ses statuts.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2023-1321 du 27 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -27,3 +27,6 @@ Les statuts de l'établissement précisent le nombre de personnalités extérieu
 La désignation des personnalités mentionnées au 3° tient compte de la répartition par sexe des personnalités désignées en application des 1° et 2°, afin de garantir la parité entre les femmes et les hommes parmi les personnalités extérieures membres du conseil d'administration de l'université.
 
 Par dérogation à l'article L. 719-3, les désignations des personnalités extérieures au titre de chacune des deux régions dans lesquelles est implantée l'université s'opèrent de telle sorte que l'écart entre le nombre des femmes désignées, d'une part, et le nombre des hommes désignés, d'autre part, ne soit pas supérieur à un. Le respect de l'obligation d'assurer la parité entre les femmes et les hommes s'apprécie au regard de l'ensemble des personnalités extérieures membres du conseil d'administration de l'université.
+
+NOTA:
+Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

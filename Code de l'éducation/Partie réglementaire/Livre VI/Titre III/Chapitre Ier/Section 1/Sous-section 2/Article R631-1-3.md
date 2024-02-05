@@ -9,3 +9,6 @@ Les candidatures déposées dans le cadre de cette procédure ne s'imputent pas 
 Les dossiers recevables au regard des conditions mentionnées au II de l'article R. 631-1 sont examinés par un jury d'admission désigné par le président de l'université. Les règles de sa composition sont fixées par arrêté des ministres chargés de l'enseignement supérieur et de la santé. Les candidats dont le dossier est retenu par le jury sont auditionnés par celui-ci. Une liste de candidats admis est établie par le jury à la suite de l'audition.
 
 La répartition entre la deuxième ou la troisième année du premier cycle des formations de médecine, de pharmacie, d'odontologie ou de maïeutique des candidats admis en fonction de leurs compétences acquises et de la nature de leurs grades, titres ou diplômes est établie par le jury.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

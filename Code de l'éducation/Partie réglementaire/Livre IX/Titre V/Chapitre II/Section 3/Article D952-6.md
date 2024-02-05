@@ -5,3 +5,6 @@ Les dispositions relatives aux personnels enseignants et hospitaliers apportant 
 2° Décret n° 93-128 du 27 janvier 1993 relatif aux personnels invités dans les disciplines médicales et odontologiques ;\
 3° Décret n° 86-655 du 14 mars 1986 relatif aux chargés d'enseignement et attachés d'enseignement dans les disciplines médicales et odontologiques ;\
 4° Décret n° 92-1229 du 19 novembre 1992 relatif au recrutement de moniteurs en pharmacie.
+
+NOTA:
+Au lieu de "décret n° 86-655" lire "décret n° 86-555"

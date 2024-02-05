@@ -9,3 +9,6 @@ Elle est notifiée par le président de la section disciplinaire à la personne 
 La notification doit mentionner les voies de recours et les délais selon lesquels la décision peut être contestée.
 
 La notification à l'intéressé a lieu par lettre recommandée avec demande d'avis de réception.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023 et s'appliquent aux procédures engagées après cette date.

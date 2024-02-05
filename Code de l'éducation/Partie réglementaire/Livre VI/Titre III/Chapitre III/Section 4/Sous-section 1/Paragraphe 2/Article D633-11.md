@@ -11,3 +11,8 @@ La phase 3 dite phase de consolidation, correspond à la consolidation de l'ense
 L'ensemble des connaissances et des compétences acquises nécessaires à l'exercice de l'option précoce suivie est mentionné dans le contrat de formation défini à l'article D. 633-11-1.
 
 Pour chaque diplôme d'études spécialisées, la maquette de formation, annexée à un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense comprend, notamment, la durée de la formation et des phases, le programme des enseignements, la durée et la nature des stages à accomplir, ainsi que les compétences et les connaissances à acquérir et les règles de validation applicables.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

@@ -9,3 +9,6 @@ Pour être agréé à l'accueil d'un étudiant de troisième cycle des études d
 2° Proposer des activités médicales adaptées à chaque phase de formation mentionnée à l'article R. 632-20, le cas échéant à chaque option mentionnée à l'article R. 632-21 ou formation spécialisée transversale mentionnée à l'article R. 632-22 ;
 
 3° Justifier d'un niveau d'encadrement et des moyens pédagogiques mis en œuvre pour assurer la qualité de la formation dispensée.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-951 du 30 juillet 2020, ces dispositions s'appliquent à compter de la rentrée universitaire 2020.

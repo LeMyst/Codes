@@ -5,3 +5,6 @@ Le ministre chargé de l'enseignement supérieur et le ministre chargé de la sa
 La liste des services formateurs et la répartition des postes d'interne entre ces structures sont arrêtées par le directeur général de l'agence régionale de santé.
 
 En ce qui concerne les formations accessibles à la fois aux internes en médecine et aux internes en pharmacie, les postes offerts sont affectés dans des structures dirigées par des médecins ou des pharmaciens.
+
+NOTA:
+La date de vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.

@@ -13,3 +13,6 @@ II.-Le contrat est conclu entre l'Agence pour l'enseignement français à l'étr
 Les modèles de contrats sont arrêtés par le directeur général de l'agence. Le contrat est accompagné d'une lettre qui précise les missions de l'agent.
 
 Les dispositions du décret n° 2002-22 du 4 janvier 2002 relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger sont applicables aux personnels mentionnés au I du présent article.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 22 du décret n° 2022-896 du 16 juin 2022.

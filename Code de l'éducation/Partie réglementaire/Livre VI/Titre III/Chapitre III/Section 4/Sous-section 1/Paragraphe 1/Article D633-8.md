@@ -13,3 +13,8 @@ Cette inscription lui confère le statut d'étudiant de troisième cycle des ét
 L'étudiant relève pour sa formation de l'unité de formation et de recherche où il prend son inscription annuelle.
 
 L'étudiant ayant obtenu une première affectation et désirant bénéficier d'un deuxième choix d'affectation doit avoir exercé ses fonctions dans la discipline acquise à l'issue du premier choix. Pour être inscrit une deuxième fois au concours, l'étudiant fait connaître, par écrit, avant la fin du premier semestre de fonctions, à son unité de formation et de recherche, à son centre hospitalier universitaire de rattachement et à l'agence régionale de santé dont il relève son intention de renoncer au bénéfice du premier concours. Les résultats obtenus au cours de la deuxième tentative se substituent alors à ceux obtenus au cours de la première et en aucun cas l'étudiant ne peut poursuivre ses fonctions dans le cadre de sa première affectation. Les fonctions d'interne validées à la suite d'un précédent concours sont prises en compte, en cas de réussite à un nouveau concours, selon des modalités fixées par les conseils des UFR.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

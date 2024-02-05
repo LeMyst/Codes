@@ -23,3 +23,8 @@ Le conseil élit le vice-président parmi les membres titulaires mentionnés au 
 Deux des personnalités mentionnées au g ci-dessus sont choisies dans les quinze jours qui suivent la proclamation des résultats des élections prévues à l'article R. 822-11 sur une liste présentée par les étudiants siégeant au conseil d'administration du centre régional. Chaque représentant étudiant titulaire propose deux noms, l'un d'un homme, l'autre d'une femme. A défaut de présentation de cette liste dans le délai mentionné, le recteur de région académique peut désigner en dehors de cette liste des personnalités de son choix.
 
 Le directeur général et l'agent comptable du centre régional et, le cas échéant, les directeurs des centres locaux assistent aux réunions du conseil d'administration avec voix consultative.
+
+NOTA:
+Conformément au I de l’article 5 du décret n° 2022-1494 du 28 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux conditions d'application prévues au II dudit article 5.

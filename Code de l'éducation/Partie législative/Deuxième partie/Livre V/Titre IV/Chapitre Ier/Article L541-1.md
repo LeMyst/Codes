@@ -19,3 +19,6 @@ Les ministres chargés de l'éducation nationale et de la santé déterminent co
 Des examens médicaux périodiques sont également effectués pendant tout le cours de la scolarité et le suivi sanitaire des élèves est exercé avec le concours de l'infirmier et, dans les établissements du second degré, d'un assistant de service social.
 
 Avec l'accord du représentant légal de l'élève mineur ou de l'élève majeur, les données de santé collectées dans le cadre des examens, des visites médicales et du suivi médical de l'élève sont reportées dans son dossier médical partagé dans les conditions prévues à l'article L. 1111-15 du code de la santé publique. Un décret, pris après avis de la Haute Autorité de santé et de la Commission nationale de l'informatique et des libertés, détermine les informations concernées et les échéances des versements.
+
+NOTA:
+Conformément au VII de l’article 98 de la loi n° 2020-1525 du 7 décembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2022.

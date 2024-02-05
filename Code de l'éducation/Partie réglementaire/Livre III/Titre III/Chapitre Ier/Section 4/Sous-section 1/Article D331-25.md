@@ -7,3 +7,6 @@ Le bilan des acquis est régulièrement communiqué à l'élève et à ses repr�
 Au collège, ces éléments sont consignés dans le livret scolaire, conformément à l'article D. 311-7.
 
 Au lycée, les synthèses du suivi et les bilans des évaluations sont conservés dans le dossier scolaire de l'élève.
+
+NOTA:
+Conformément à l’article 11 du décret n° 2021-954 du 19 juillet 2021, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2021.

@@ -23,3 +23,6 @@ Les crédits mentionnés à l'alinéa précédent sont diminués en 2005,2006 et
 Les crédits prévus aux 1° et 2° du présent article ne sont pas inclus dans la dotation générale de décentralisation visée à l'article L. 1614-4.
 
 Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1. "
+
+NOTA:
+(1) : Les articles L. 920-9 et L. 951-9 de l'ancien code du travail ont été renumérotés L. 6354-1, L. 6354-2, L. 6331-13, L. 6331-28, L. 6331-31 et L. 6331-33 du nouveau code du travail.

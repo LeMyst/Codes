@@ -5,3 +5,6 @@ La commission permanente exerce les compétences que le conseil d'administration
 La commission permanente peut inviter d'autres membres de la communauté éducative à participer à ses travaux.
 
 Le vote secret est de droit si un membre de la commission permanente le demande. En cas de partage des voix, celle du président est prépondérante. Les règles fixées à l'article R. 421-25 en matière d'ordre du jour, de convocation et de quorum pour le conseil d'administration sont applicables à la commission permanente ; les règles fixées au premier alinéa de l'article R. 421-35, en ce qui concerne le remplacement des membres du conseil d'administration, sont applicables aux membres de la commission permanente.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-1632 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des conseils d'administration des établissements régis par le chapitre Ier du titre II du livre IV du code de l'éducation.

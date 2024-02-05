@@ -23,3 +23,6 @@ b) Entre dans un délai maximal de dix-huit mois après son départ du lycée de
 c) Cesse le service mentionné au b avant trois ans pour inaptitude physique ou pour une autre cause qui ne lui est pas imputable. Pour toute autre cause, les sommes dues sont proportionnelles à la durée du service restant à accomplir pour achever les trois années ;
 
 5° Est, en cours de scolarité, déclaré définitivement inapte.
+
+NOTA:
+Se reporter aux dispositions de l'article 4 du décret n° 2021-926 du 12 juillet 2021.

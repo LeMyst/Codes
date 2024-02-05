@@ -27,3 +27,6 @@ A ce titre, il exerce les compétences suivantes :
 11° Politiques en matière de jeunesse, d'éducation populaire, de vie associative, d'engagement civique et de sports.
 
 II.-Après avis du comité régional académique, le recteur de région académique exerce les attributions dévolues aux autorités académiques par le II de l'article L. 214-13 et par l'article L. 214-13-1.
+
+NOTA:
+Conformément à l’article 20 du décret 2020-1542 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

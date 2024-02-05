@@ -7,3 +7,6 @@ Pour l'application des articles R. 124-10 et R. 124-11, l'effectif est égal :
 2° A la moyenne sur les douze mois précédents du nombre des personnes mentionnées au 1°, si elle est supérieure au nombre mentionné au 1°.
 
 Pour les administrations et établissements publics administratifs, l'effectif s'entend de l'ensemble des personnels exerçant leurs fonctions dans l'organisme d'accueil, apprécié selon les modalités définies au présent article.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2015-1359 du 26 octobre 2015, les présentes dispositions sont applicables aux conventions conclues postérieurement à la publication du présent décret au Journal officiel.

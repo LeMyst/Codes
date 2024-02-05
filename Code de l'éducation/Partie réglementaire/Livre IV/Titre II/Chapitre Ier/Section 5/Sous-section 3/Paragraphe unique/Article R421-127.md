@@ -23,3 +23,6 @@ Le compte financier accompagné éventuellement des observations du conseil d'ad
 L'agent comptable produit, selon des modalités fixées par arrêté du ministre chargé du budget, le compte financier et les pièces annexes avant l'expiration du sixième mois suivant la clôture de l'exercice.
 
 Faute de présentation dans le délai prescrit, le représentant de l'Etat peut, sur proposition du directeur interrégional de la mer, désigner d'office un agent chargé de la production des comptes.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

@@ -1,3 +1,6 @@
 # Article R712-30
 
 La section disciplinaire est saisie par une lettre adressée à son président par tout moyen permettant de conférer date certaine. Ce document mentionne le nom, l'adresse et la qualité des personnes faisant l'objet des poursuites ainsi que les faits qui leur sont reprochés. Il est accompagné de toutes pièces justificatives recensées dans un bordereau récapitulatif.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023 et s'appliquent aux procédures engagées après cette date.

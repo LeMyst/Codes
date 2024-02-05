@@ -29,3 +29,6 @@ III.-Un décret en Conseil d'Etat détermine :
 7° Les modalités d'établissement de la liste des postes mentionnés au 4° du présent III permettant une adéquation optimale entre le nombre de ces postes et le nombre de postes effectivement pourvus ;
 
 8° Les modalités de mise en œuvre de l'autonomie supervisée en pratique ambulatoire et les conditions de la supervision.
+
+NOTA:
+Conformément au II de l'article 37 de la loi n° 2022-1616 du 23 décembre 2022, la durée du troisième cycle des études de médecine pour la spécialité de médecine générale mentionnée au 3° du III s'applique aux étudiants qui commencent ce troisième cycle à la rentrée de l'année universitaire 2023.

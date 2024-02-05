@@ -5,3 +5,6 @@ I.-L'inspection des établissements d'enseignement technique privés porte sur l
 Toutefois, dans les établissements d'enseignement technique privés reconnus par l'Etat conformément aux dispositions de l'article L. 443-2, l'inspection de l'enseignement s'exerce dans les mêmes conditions que pour les établissements d'enseignement technique publics.
 
 II.-Le fait, pour un directeur d'établissement d'enseignement technique privé, de refuser de se soumettre à la surveillance et à l'inspection, dans les conditions établies par le I, est puni de 15 000 euros d'amende.
+
+NOTA:
+Se reporter aux conditions d'application prévues au II de l'article 53 de la loi n° 2021-1109 du 24 août 2021.

@@ -7,3 +7,6 @@ Ces commissions sont compétentes à l'égard des maîtres délégués et de ceu
 1° Elles sont obligatoirement consultées sur les décisions individuelles relatives aux licenciements intervenant postérieurement à la période d'essai et aux sanctions disciplinaires autres que l'avertissement et le blâme ;
 
 2° Elles peuvent être consultées sur toute question d'ordre individuel relative à leur situation professionnelle.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2022-429 du 25 mars 2022, ces dispositions entrent en vigueur le 1er avril 2022.

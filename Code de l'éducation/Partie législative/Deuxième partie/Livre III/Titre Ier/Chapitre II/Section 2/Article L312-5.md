@@ -1,3 +1,6 @@
 # Article L312-5
 
 Une éducation artistique est dispensée dans les écoles maternelles.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

@@ -5,3 +5,6 @@ L'examen conduisant à la délivrance du diplôme du baccalauréat professionnel
 1° Une forme globale dans laquelle le candidat présente l'ensemble des unités constitutives du diplôme au cours d'une même session, sous réserve des dispositions du sixième alinéa de l'article D. 337-78;
 
 2° Une forme progressive dans laquelle le candidat choisit de ne présenter que certaines unités constitutives du diplôme au cours d'une même session. Dans ce cas, le règlement particulier du diplôme peut prévoir un ordre de présentation ou d'obtention des unités.
+
+NOTA:
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen 2009.

@@ -3,3 +3,6 @@
 Dans chaque école et établissement d'enseignement scolaire public, le règlement intérieur précise les conditions dans lesquelles est assuré le respect des droits et des devoirs de chacun des membres de la communauté éducative.
 
 Il rappelle le principe de l'école inclusive, en précisant les principaux droits et devoirs qui y sont attachés.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

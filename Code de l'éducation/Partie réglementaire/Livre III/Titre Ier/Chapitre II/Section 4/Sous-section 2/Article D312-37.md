@@ -33,3 +33,6 @@ b) D'autre part, des représentants de personnels enseignants des écoles et des
 a) D'une part, des représentants des mouvements associatifs et éducatifs ayant pour objet la promotion de la langue et de la culture régionales, sur proposition de leurs instances dirigeantes ;
 
 b) D'autre part, des représentants des maires des communes sièges d'un enseignement de langue et culture régionales, sur proposition de l'association départementale des maires ou, à défaut, par le collège des maires du département, des représentants des conseillers généraux, sur proposition des présidents de conseils généraux, des représentants des conseillers régionaux, sur proposition du président du conseil régional.
+
+NOTA:
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil académique des langues régionales).

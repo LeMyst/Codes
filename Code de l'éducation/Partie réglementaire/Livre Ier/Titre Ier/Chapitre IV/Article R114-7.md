@@ -9,3 +9,6 @@ La mission locale convoque le jeune et son représentant légal :
 3° Lorsqu'il ne répond plus aux sollicitations de la mission locale.
 
 Dans un délai de deux mois suivant la convocation et en l'absence de respect de l'obligation de formation, la mission locale transmet au président du conseil départemental les informations relatives à la situation du jeune au regard de l'obligation de formation, en vue de lui permettre de mettre en œuvre les actions mentionnées au 2° de l'article L. 221-1 du code de l'action sociale et des familles ou toute autre mesure adaptée à la situation du jeune en lien notamment avec le programme départemental mentionné à l'article L. 263-1 du même code.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-978 du 5 août 2020, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

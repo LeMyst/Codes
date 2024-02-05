@@ -11,3 +11,6 @@ Elle a notamment pour mission, avec l'assistance d'un département de formation 
 2° Un coordonnateur régional élu parmi les coordonnateurs locaux de la spécialité et par l'ensemble des membres de la commission régionale de coordination de la spécialité.
 
 Les missions des commissions et des coordonnateurs mentionnés aux 1° et 2° sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

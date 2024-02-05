@@ -9,3 +9,6 @@ Pour les spécialités du baccalauréat professionnel relevant du deuxième alin
 Le modèle de l'attestation et les conditions de délivrance de cette attestation sont fixés par un arrêté du ministre chargé de l'agriculture.
 
 Le cas échéant, pour les spécialités de baccalauréat professionnel relevant du troisième alinéa de l'article D. 337-53, une attestation intermédiaire, remise en fin de première, est délivrée par le directeur interrégional de la mer aux candidats scolarisés dans les établissements relevant du ministre chargé de la mer. Celui-ci en fixe, le cas échéant, les conditions de délivrance et le modèle par arrêté.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2020-1277 du 20 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

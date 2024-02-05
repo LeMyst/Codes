@@ -9,3 +9,8 @@ Le diplôme d'études spécialisées est délivré par les universités accrédi
 3° Validé les trois phases de formation.
 
 Les modalités d'évaluation et de délivrance du diplôme d'études spécialisées sont précisées par arrêté des ministres en charge de l'enseignement supérieur et de la santé et du ministre de la défense.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

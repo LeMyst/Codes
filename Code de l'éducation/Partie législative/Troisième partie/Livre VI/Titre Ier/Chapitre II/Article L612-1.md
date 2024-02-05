@@ -9,3 +9,6 @@ Les établissements dispensant des formations sanctionnées par un diplôme d'é
 Pour chacune des formations sanctionnées par un diplôme d'études supérieures, les établissements mentionnés au troisième alinéa du présent article publient chaque année l'ensemble des indicateurs relatifs à l'égalité des chances entre les femmes et les hommes et aux actions mises en œuvre pour réduire les inégalités, selon des modalités et une méthodologie définies par décret.
 
 Les conseils d'administration des établissements mentionnés au même troisième alinéa délibèrent annuellement sur la politique d'égalité de l'établissement, sur la base des indicateurs relatifs à l'égalité des chances entre les femmes et les hommes mentionnés au présent article.
+
+NOTA:
+Conformément au II de l'article 7 de la loi n° 2021-1774 du 24 décembre 2021, ces dispositions entrent en vigueur deux ans après la publication de ladite loi.

@@ -21,3 +21,8 @@ II. - Sont admis à s'inscrire en vue de la préparation du diplôme d'études s
 3° Les internes en médecine et en pharmacie classés en rang utile aux concours organisés pour les étudiants étrangers autres que les ressortissants des Etats membres de l'Union européenne, de la Principauté d'Andorre, des Etats parties à l'accord sur l'Espace économique européen ou de la Confédération helvétique, en application des articles L. 632-12 et L. 633-4 ;
 
 4° Les assistants des hôpitaux des armées reçus aux concours particuliers prévus respectivement à l'article R. 632-48 et aux articles D. 633-23 et R. 633-25. Pour l'application des dispositions de la présente section, les intéressés sont regardés comme des internes.
+
+NOTA:
+Aux termes de l'article 4 du décret n° 2019-1126 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.
+
+Toutefois les dispositions telles qu'issues du 1° du III de l'article 1er sont applicables aux étudiants inscrits pour la première fois en biologie médicale au plus tard avant le début de l'année universitaire 2017-2018.

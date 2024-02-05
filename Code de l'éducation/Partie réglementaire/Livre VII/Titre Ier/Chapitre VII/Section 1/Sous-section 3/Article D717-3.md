@@ -11,3 +11,6 @@ Les dispositions relatives aux grands établissements relevant du ministre charg
 4° Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup) : décret n° 2009-1641 du 24 décembre 2009 portant création de l'Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup) ;
 
 5° Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS) : décret n° 2009-1642 du 24 décembre 2009 portant création de l'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS).
+
+NOTA:
+Conformément à l’article 20 du décret n° 2021-1723 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

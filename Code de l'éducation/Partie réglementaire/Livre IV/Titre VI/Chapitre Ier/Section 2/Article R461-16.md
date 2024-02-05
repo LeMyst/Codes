@@ -5,3 +5,6 @@ Les agents désignés par le préfet de région pour contrôler le respect des c
 Lorsque des manquements sérieux à ces conditions sont constatés, le préfet de région peut mettre en demeure l'établissement de prendre toutes les mesures de mise en conformité dans un délai qu'il fixe en fonction de la nature de ces mesures.
 
 En l'absence de mise en conformité de l'établissement au terme de ce délai, il peut prononcer le retrait de la reconnaissance.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2023-291 du 18 avril 2023, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication.

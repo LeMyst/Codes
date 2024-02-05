@@ -11,3 +11,6 @@ Sont admis à s'inscrire en vue de la préparation de la spécialité commune à
 4° Les assistants des hôpitaux des armées reçus aux concours prévus respectivement à l'article R. 632-56 et aux articles D. 633-23 et R. 633-25.
 
 Les étudiants en pharmacie prennent annuellement une inscription administrative auprès d'une des universités de l'interrégion dans laquelle ils sont affectés.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

@@ -7,3 +7,6 @@ L'évaluation de la phase 1 dite socle correspond à la validation de la maîtri
 L'évaluation de la phase 2 dite d'approfondissement correspond à la validation de la maîtrise des connaissances approfondies et des connaissances nécessaires à l'exercice de la spécialité suivie pour accéder à la phase 3.
 
 L'évaluation de la phase 3 dite de consolidation correspond à la validation de la maîtrise de l'ensemble des connaissances et des compétences professionnelles nécessaires à l'exercice de la spécialité suivie.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

@@ -15,3 +15,8 @@ Si les résultats du second contrôle sont jugés insuffisants, l'autorité de l
 Lorsque les personnes responsables de l'enfant ont refusé, sans motif légitime, de soumettre leur enfant au contrôle annuel prévu au troisième alinéa du présent article, elles sont informées qu'en cas de second refus, sans motif légitime, l'autorité de l'Etat compétente en matière d'éducation est en droit de les mettre en demeure d'inscrire leur enfant dans un établissement d'enseignement scolaire public ou privé dans les conditions et selon les modalités prévues au sixième alinéa. Elles sont également avisées des sanctions dont elles peuvent faire l'objet, au terme de la procédure, en application du premier alinéa de l'article 227-17-1 du code pénal.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément au IV de l'article 49 de la loi n° 2021-1109 du 24 août 2021, ces dispositions entrent en vigueur à la rentrée scolaire 2022.
+
+Par dérogation, l'autorisation prévue à l'article L. 131-5 du code de l'éducation est accordée de plein droit, pour les années scolaires 2022-2023 et 2023-2024, aux enfants régulièrement instruits dans la famille au cours de l'année scolaire 2021-2022 et pour lesquels les résultats du contrôle organisé en application du troisième alinéa de l'article L. 131-10 du même code ont été jugés suffisants.

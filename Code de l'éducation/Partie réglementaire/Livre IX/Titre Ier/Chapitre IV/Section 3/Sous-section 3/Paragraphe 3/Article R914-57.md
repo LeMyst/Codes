@@ -23,3 +23,6 @@ V. - (Abrogé)
 VI. - (Abrogé)
 
 VII. - Les maîtres délégués perçoivent, dans les mêmes conditions, les primes et indemnités dont bénéficient les maîtres contractuels ou agréés exerçant les mêmes fonctions, sauf disposition législative ou réglementaire en réservant le bénéfice aux seuls maîtres contractuels et agréés en application de l'article R. 914-83 du code de l'éducation.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2023-733 du 8 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

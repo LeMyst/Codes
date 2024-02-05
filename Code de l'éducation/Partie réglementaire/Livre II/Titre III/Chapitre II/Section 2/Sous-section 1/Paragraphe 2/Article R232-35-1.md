@@ -11,3 +11,6 @@ Les parties sont averties qu'elles ont la faculté de se faire représenter ou a
 Les mémoires de chaque partie et les pièces qui y sont jointes sont communiqués par lettre recommandée avec accusé de réception ou par voie électronique au moyen d'une application informatique sécurisée à l'autre partie. Lorsque le volume, le nombre ou les caractéristiques des pièces produites y font obstacle, les parties en sont informées et peuvent les consulter au greffe de la juridiction.
 
 Les répliques, autres mémoires et pièces sont communiqués s'ils contiennent des éléments nouveaux.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

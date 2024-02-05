@@ -15,3 +15,6 @@ Les actes accomplis par le membre récusé avant qu'il ait eu connaissance de la
 Si le membre récusé acquiesce à la demande de récusation, il est aussitôt remplacé dans les conditions prévues au deuxième alinéa. Dans le cas contraire, la juridiction se prononce, par une décision non motivée, sur la demande de récusation. La juridiction statue sans la participation de celui de ses membres dont la récusation est demandée. La décision rendue ne peut être contestée devant le juge de cassation qu'avec l'arrêt rendu ultérieurement par le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire.
 
 Les dispositions du présent article s'appliquent au rapporteur extérieur mentionné à l'article R. 232-36. Il est, le cas échéant, remplacé par un autre rapporteur désigné par le président.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

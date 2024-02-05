@@ -5,3 +5,6 @@ Après accord de l'autorité militaire, les internes des hôpitaux des armées p
 Les changements de subdivision ne sont autorisés que sur demande de l'autorité militaire.
 
 Les modalités d'application du présent article sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

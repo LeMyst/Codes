@@ -31,3 +31,6 @@ d) Au dernier alinéa, après le mot : “ saisonnier ”, sont insérés les mo
 8° L'article L. 151-4 est ainsi rédigé :
 
 “ Art. L. 151-4.-Les établissements d'enseignement général du second degré privés peuvent obtenir de la collectivité de Saint-Martin ou de l'Etat des locaux et une subvention, sans que cette subvention puisse excéder le dixième des dépenses annuelles de l'établissement. ”
+
+NOTA:
+Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

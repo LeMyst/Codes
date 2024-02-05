@@ -23,3 +23,6 @@ Il détermine également les modalités :
 Le règlement intérieur comporte un chapitre consacré à la discipline des élèves. Il reproduit l'échelle des sanctions prévues à l'article R. 511-13 et prévoit les modalités de mise en œuvre des mesures de prévention, de responsabilisation et d'accompagnement, notamment lorsqu'elles font suite à la réintégration d'un élève exclu temporairement pour des faits de violence.
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2019-906 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

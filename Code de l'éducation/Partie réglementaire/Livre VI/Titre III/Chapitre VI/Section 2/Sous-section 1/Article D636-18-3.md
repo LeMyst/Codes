@@ -13,3 +13,10 @@ La commission d'examen des vœux formée au sein de chaque établissement ou au 
 Les étudiants admis produisent, au plus tard le premier jour de la rentrée, un certificat établi par un médecin agréé attestant que l'étudiant ne présente pas de contre-indication physique et psychologique à l'exercice de la profession d'orthophoniste.
 
 Ces candidats admis sont autorisés à intégrer la première année de formation en vue du certificat de capacité d'orthophoniste.
+
+NOTA:
+Conformément au III de l’article 5 du décret n° 2020-579 du 14 mai 2020, les dispositions du sixième alinéa, relatives à l'entretien, ne s'appliquent pas au titre de l'année universitaire 2020-2021.
+
+Au titre de l'année universitaire 2020-2021, les dispositions du sixième alinéa sont les suivantes :
+
+"La commission d'examen des vœux formée au sein de chaque établissement ou au sein du regroupement examine les dossiers selon les modalités définies aux articles D. 612-1-13 et D. 612-1-14 du code de l'éducation. Après examen des dossiers de candidature, la commission d'examen des vœux ordonne les candidatures retenues et établit une liste de candidats admis."

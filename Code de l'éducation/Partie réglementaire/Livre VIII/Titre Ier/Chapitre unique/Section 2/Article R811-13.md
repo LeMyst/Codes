@@ -7,3 +7,6 @@ Dans les cas où les faits donnant lieu à des poursuites ont été commis dans 
 Dans les cas où les faits donnant lieu à des poursuites n'ont pas été commis dans un établissement public d'enseignement supérieur, la section disciplinaire compétente est celle de l'établissement dans lequel l'usager est inscrit au moment de l'ouverture de la procédure.
 
 Les auteurs ou complices des faits mentionnés au dernier alinéa de l'article R. 811-11 relèvent de la section disciplinaire de l'un des établissements publics d'enseignement supérieur placés sous la tutelle du ministère chargé de l'enseignement supérieur dont le siège est situé dans le ressort de l'académie où la fraude ou la tentative de fraude a été commise. Cet établissement est désigné chaque année par le recteur de région académique.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

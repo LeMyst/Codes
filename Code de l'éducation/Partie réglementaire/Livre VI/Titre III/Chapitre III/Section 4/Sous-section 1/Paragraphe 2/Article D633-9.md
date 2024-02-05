@@ -11,3 +11,8 @@ Les étudiants de troisième cycle des études de pharmacie peuvent être autori
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense fixe les modalités d'accès à une formation spécialisée transversale dans le cadre de la spécialité suivie.
 
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense fixe chaque année, par centre hospitalier universitaire, le nombre d'étudiants de troisième cycle des études de pharmacie, autorisés à suivre une formation spécialisée transversale.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

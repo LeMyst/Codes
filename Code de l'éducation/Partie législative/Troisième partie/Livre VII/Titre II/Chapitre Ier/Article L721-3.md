@@ -10,8 +10,7 @@ Le président du conseil est élu parmi les personnalités extérieures désign�
 
 Le directeur de l'institut est nommé par arrêté conjoint des ministres chargés de l'éducation nationale et de l'enseignement supérieur.
 
-Les candidats à l'emploi de directeur d'institut sont auditionnés par un comité coprésidé par le recteur compétent et le président ou le directeur de l'établissement de rattachement.
-
+Les candidats à l'emploi de directeur d'institut sont auditionnés par un comité coprésidé par le recteur compétent et le président ou le directeur de l'établissement de rattachement.\
 Un décret précise la durée des fonctions de directeur d'institut, les conditions à remplir pour pouvoir être candidat à cet emploi ainsi que les modalités de désignation des membres et de fonctionnement du comité d'audition.
 
 II.-Le conseil de l'institut adopte les règles relatives aux examens et les modalités de contrôle des connaissances. Il adopte le budget de l'institut et approuve les contrats pour les affaires intéressant l'institut. Il soumet au conseil d'administration de l'établissement public à caractère scientifique, culturel et professionnel la répartition des emplois. Il est consulté sur les recrutements de l'institut.

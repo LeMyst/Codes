@@ -5,3 +5,8 @@ Les candidats peuvent concourir au titre de deux années parmi les trois années
 Toutefois, en cas d'empêchement de participer aux épreuves résultant d'un congé de maternité, de paternité, d'adoption ou d'un cas de force majeure à caractère individuel ou collectif, ou s'expliquant par une raison médicale dûment justifiée, la période durant laquelle peut être exercé le droit à concourir est prolongée de la durée nécessaire pour préserver le droit des candidats.
 
 Un candidat reçu au concours d'internat en pharmacie ne peut être nommé interne que s'il a validé intégralement l'année hospitalo-universitaire prévue par l'article L. 633-2.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2019-1022, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020-2021.
+
+Se reporter aux conditions d’application précisées aux II et III de l’article 2 du décret n° 2019-1022 du 4 octobre 2019.

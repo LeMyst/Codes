@@ -7,3 +7,6 @@ Le rapport d'instruction comporte l'exposé des faits ainsi que les observations
 Le rapport d'instruction et les pièces du dossier sont tenus à la disposition de la personne poursuivie et du président de l'université, de leur conseil et des membres de la commission de discipline pendant la période d'au moins dix jours prévue au premier alinéa de l'article R. 811-31.
 
 Lorsque la poursuite concerne un étudiant en médecine, en odontologie ou en pharmacie dans le cadre de sa participation à l'activité hospitalière dans les conditions déterminées par les articles R. 6153-1 à R. 6153-91-1 du code de la santé publique, les rapporteurs invitent le chef du pôle ou, à défaut, le responsable du service, de l'unité fonctionnelle ou de toute autre structure interne à faire connaître ses observations. Sont également invités à faire connaître leurs observations le directeur de l'établissement public de santé dans lequel l'intéressé est affecté et, le cas échéant, le directeur de l'établissement public de santé où les faits se sont produits ou, à défaut, le responsable de l'entité de stage.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

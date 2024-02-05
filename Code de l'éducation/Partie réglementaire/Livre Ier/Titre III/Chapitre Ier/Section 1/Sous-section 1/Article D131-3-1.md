@@ -11,3 +11,6 @@ Ne peuvent être exigées à l'appui de la demande d'inscription sur la liste me
 Les documents qui peuvent être produits au titre des 1° et 2° figurent en colonne A de l'article R. 113-5 du code des relations entre le public et l'administration. Lorsque les personnes responsables de l'enfant ne sont pas en mesure de produire l'un de ces documents, il peut être attesté sur l'honneur des nom, prénoms, date et lieu de naissance de l'enfant et de l'identité des personnes qui en sont responsables.
 
 Il peut être justifié du domicile par tous moyens, y compris une attestation sur l'honneur. Le maire peut faire procéder à la vérification de la domiciliation sur le territoire de la commune. Cette vérification ne peut faire obstacle à l'inscription de l'enfant sur la liste scolaire.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-811 du 29 juin 2020, les présentes dispositions entrent en vigueur à compter de la rentrée scolaire 2020.

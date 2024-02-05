@@ -7,3 +7,6 @@ Les candidats admis aux concours externes qui ne peuvent justifier des condition
 Au cours de leur stage, ils bénéficient d'une formation organisée, dans le cadre des orientations définies par l'Etat, par un établissement d'enseignement supérieur, visant l'acquisition des compétences nécessaires à l'exercice du métier. Cette formation alterne des périodes de mise en situation professionnelle dans un établissement d'enseignement privé sous contrat du second degré et des périodes de formation au sein de l'établissement d'enseignement supérieur. Elle est accompagnée d'un tutorat. Elle peut être adaptée pour tenir compte du parcours antérieur des candidats admis.
 
 Les modalités du stage et les conditions de son évaluation par un jury sont arrêtées par le ministre chargé de l'éducation.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2021-1335 du 14 octobre 2021, ces dispositions sont applicables à compter de la session 2022 des concours.

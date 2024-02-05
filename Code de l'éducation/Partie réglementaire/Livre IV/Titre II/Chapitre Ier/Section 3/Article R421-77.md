@@ -21,3 +21,6 @@ Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le cons
 Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable est transmis à la collectivité territoriale de rattachement et au recteur d'académie dans les trente jours suivant son adoption.
 
 L'agent comptable produit, selon des modalités fixées par arrêté du ministre chargé du budget, le compte financier et les pièces annexes avant l'expiration du sixième mois suivant la clôture de l'exercice.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

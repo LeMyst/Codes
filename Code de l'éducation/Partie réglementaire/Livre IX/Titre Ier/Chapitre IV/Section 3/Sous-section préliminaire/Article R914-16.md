@@ -7,3 +7,6 @@ Les maîtres exerçant dans des échelles de rémunération différentes en appl
 Les années d'enseignement accomplies dans une échelle de rémunération différente sont prises en compte pour l'avancement.
 
 Les modalités de changement d'échelle de rémunération et de formation ainsi que les conditions de retour dans l'échelle de rémunération précédente sont fixées par arrêté du ministre chargé de l'éducation.
+
+NOTA:
+Conformément à l'article 8 du du décret n° 2022-671 du 26 avril 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

@@ -11,3 +11,6 @@ Le traitement des données collectées répond aux finalités suivantes :
 3° Le contrôle par les missions locales du respect de l'obligation de formation ;
 
 4° L'analyse et l'évaluation de la mise en œuvre de l'obligation de formation, notamment par les moyens de la statistique.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-978 du 5 août 2020, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

@@ -25,3 +25,6 @@ Elle est liquidée et recouvrée par l'agent comptable du centre régional des �
 V.-Le produit de la contribution est réparti entre les établissements mentionnés au premier alinéa du I.
 
 Un décret fixe, pour chaque catégorie d'établissements d'enseignement mentionnée au même premier alinéa, le montant versé au titre de chaque étudiant inscrit ainsi que la fraction du produit de la contribution attribuée aux centres régionaux des œuvres universitaires et scolaires et les modalités de sa répartition.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

@@ -11,3 +11,6 @@ II.-Peuvent participer à ces épreuves, sous réserve de la condition mentionn�
 1° Les étudiants ayant validé la deuxième année du deuxième cycle des études de médecine en France ;
 
 2° Les étudiants ayant validé l'avant-dernière année d'une formation médicale de base au sens de l'article 24 de la directive n° 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles dans un Etat membre de l'Union européenne, un Etat partie à l'accord sur l'Espace économique européen, la Confédération suisse ou la Principauté d'Andorre.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

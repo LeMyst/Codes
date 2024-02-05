@@ -7,3 +7,6 @@ II.-Lorsqu'il concerne un praticien des armées, l'agrément mentionné à l'art
 Les praticiens des armées agréés pour la formation des étudiants de troisième cycle des études de médecine le sont pour l'ensemble des agences régionales de santé.
 
 III.-Le ministre de la défense désigne les organismes habilités auprès desquels les praticiens des armées suivent la formation mentionnée à l'article R. 632-28-2.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-951 du 30 juillet 2020, ces dispositions s'appliquent à compter de la rentrée universitaire 2020.

@@ -17,3 +17,6 @@ En ce qui concerne l'épreuve d'éducation physique et sportive, la note résult
 Le ministre chargé de l'éducation nationale arrête la liste des langues que les candidats peuvent choisir à l'examen.
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des épreuves obligatoires sous réserve des dispositions prévues aux articles D. 334-6, D. 334-7, D. 334-7-1, D. 334-13 et D. 334-14 et sous réserve de dispositions particulières prévues par arrêté du ministre chargé de l'éducation nationale.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2022-143 du 8 février 2022, ces dispositions sont applicables à compter de la session 2022 du baccalauréat général et du baccalauréat technologique.

@@ -25,3 +25,6 @@ Le conseil culturel peut également comprendre des représentants d'institutions
 Lorsqu'il est institué deux services au sens des articles D. 714-93 et D. 714-95, leurs statuts précisent si la composition de leur conseil culturel est commune ou distincte.
 
 Le directeur du service assiste avec voix consultative aux séances du conseil.
+
+NOTA:
+Conformément aux articles 12 et 13 du décret n° 2020-1555 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021 et peuvent être modifiées par des actes pris dans les mêmes formes que les actes dont elles étaient issues antérieurement à l'entrée en vigueur du présent décret. Se reporter aux conditions d'application prévues à l'article 10 du décret susvisé.

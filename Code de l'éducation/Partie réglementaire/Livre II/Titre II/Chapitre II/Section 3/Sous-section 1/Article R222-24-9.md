@@ -13,3 +13,6 @@ II.-Le recteur de région académique engage au nom de l'Etat :
 2° Les actions subrogatoires consécutivement aux faits dommageables survenus à des personnels, exercées sur le fondement de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques, de l'article 21 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et du chapitre II de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation.
 
 La compétence des recteurs de région académique pour exercer l'action subrogatoire est déterminée par le lieu de la dernière affectation administrative des agents concernés au jour de l'appel en la cause de l'Etat ou de son intervention.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2021-350 du 29 mars 2021, ces dispositions sont applicables aux requêtes d'appel enregistrées devant les juridictions administratives, aux demandes indemnitaires et aux décisions de justice intervenues après la date de publication dudit décret ainsi qu'aux demandes de protection fonctionnelle présentées à compter de cette date.

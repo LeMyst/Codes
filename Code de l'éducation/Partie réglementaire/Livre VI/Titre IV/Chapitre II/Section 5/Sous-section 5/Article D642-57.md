@@ -7,3 +7,6 @@ En cas de substitution de personne ou de troubles affectant le déroulement des 
 Dans tous les cas, le surveillant responsable de la salle dresse un procès-verbal contresigné par le ou les autres surveillants, le chef de centre ou son représentant et par le ou les auteurs des faits. En cas de refus de contresigner, mention est portée au procès-verbal.
 
 Le recteur est saisi sans délai des procès-verbaux correspondants.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

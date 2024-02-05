@@ -27,3 +27,6 @@ La commission nationale est présidée par le directeur de l'agence. Elle compre
 Les représentants mentionnés aux 8° à 11° sont nommés par le ministre des affaires étrangères pour une durée d'un an renouvelable dans la limite de six ans.
 
 Le service de l'aide à la scolarité de l'Agence pour l'enseignement français à l'étranger assure l'organisation et le secrétariat de la commission nationale.
+
+NOTA:
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission nationale instituée auprès du directeur de l'Agence pour l'enseignement français à l'étranger).

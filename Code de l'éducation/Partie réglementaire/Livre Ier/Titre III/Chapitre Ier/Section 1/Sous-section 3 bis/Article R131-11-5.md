@@ -17,3 +17,6 @@ d) Le cas échéant, l'identité de tout organisme d'enseignement à distance pa
 3° Une copie du diplôme du baccalauréat ou de son équivalent de la personne chargée d'instruire l'enfant. Le directeur académique des services de l'éducation nationale peut autoriser une personne pourvue d'un titre ou diplôme étranger à assurer l'instruction dans la famille, si ce titre ou diplôme étranger est comparable à un diplôme de niveau 4 du cadre national des certifications professionnelles ;
 
 4° Une déclaration sur l'honneur de la ou des personnes chargées d'instruire l'enfant d'assurer cette instruction majoritairement en langue française.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

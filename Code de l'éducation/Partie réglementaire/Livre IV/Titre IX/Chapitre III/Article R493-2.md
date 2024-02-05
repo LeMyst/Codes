@@ -9,3 +9,6 @@ Pour l'application du présent livre à Saint-Martin :
 3° Les références au préfet de département et au préfet de région sont remplacées par la référence au représentant de l'Etat à Saint-Martin ;
 
 4° A moins qu'il en soit disposé autrement par le présent chapitre, les références à la commune, au département et à la région sont remplacées par la référence à la collectivité.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2023-291 du 18 avril 2023, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication.

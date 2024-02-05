@@ -13,3 +13,6 @@ Des examinateurs sont désignés par le recteur de région académique pour part
 Une session de rattrapage intervient dans un délai qui ne peut être inférieur à deux semaines après la publication des résultats semestriels.
 
 La commission pédagogique mentionnée à l'article D. 642-48 se réunit en jury afin de valider les unités d'enseignement, les stages et les résultats de chaque semestre des étudiants. Dans ce cas, elle se réunit hors de la présence des membres mentionnés au 4° de l'article D. 642-48. A l'exception du président, les membres du jury qui prennent part aux délibérations peuvent participer aux réunions et délibérations par tous moyens de communication audiovisuelle permettant leur identification et garantissant leur participation effective ainsi que la confidentialité des débats. Les participations par des moyens de communication audiovisuelle s'effectuent dans les conditions prévues par le référentiel d'évaluation mentionné à l'article D. 642-42.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

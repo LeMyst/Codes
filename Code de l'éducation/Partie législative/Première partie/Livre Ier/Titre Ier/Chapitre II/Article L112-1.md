@@ -15,3 +15,6 @@ Cette formation est entreprise avant l'âge de la scolarité obligatoire, si la 
 Elle est complétée, en tant que de besoin, par des actions pédagogiques, psychologiques, éducatives, sociales, médicales et paramédicales coordonnées dans le cadre d'un projet personnalisé prévu à l'article L. 112-2.
 
 Lorsqu'une scolarisation en milieu ordinaire a été décidée par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles mais que les conditions d'accès à l'établissement de référence la rendent impossible, les surcoûts imputables au transport de l'enfant ou de l'adolescent en situation de handicap vers un établissement plus éloigné sont à la charge de la collectivité territoriale compétente pour la mise en accessibilité des locaux. Cette disposition ne fait pas obstacle à l'application de l'article L. 242-11 du même code lorsque l'inaccessibilité de l'établissement de référence n'est pas la cause des frais de transport.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

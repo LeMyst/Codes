@@ -3,3 +3,6 @@
 Lorsque la demande d'autorisation est motivée par l'itinérance en France des personnes responsables de l'enfant, elle comprend toutes pièces utiles justifiant de l'impossibilité pour l'enfant de fréquenter assidûment, pour ces raisons, un établissement d'enseignement public ou privé.
 
 Lorsque la demande d'autorisation est motivée par l'éloignement géographique de tout établissement scolaire public, elle comprend toutes pièces utiles établissant cet éloignement.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

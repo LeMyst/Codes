@@ -15,3 +15,6 @@ En cas de persistance du défaut d'assiduité, le directeur de l'établissement 
 Le directeur de l'établissement d'enseignement informe les collectivités territoriales et les autorités concernées par la protection de l'enfance des mesures prises dans l'établissement scolaire contre l'absentéisme et le décrochage scolaire. Il est l'interlocuteur de ces collectivités et de ces autorités et doit être informé, en retour, du soutien dont il peut bénéficier afin de mener à bien les missions d'accompagnement des personnes responsables de l'enfant et de prévention de l'absentéisme.
 
 L'autorité de l'Etat compétente en matière d'éducation peut, sur demande des responsables légaux de l'enfant et après avis du directeur de l'école arrêté dans le cadre d'un dialogue avec l'équipe éducative, autoriser un aménagement du temps de présence à l'école maternelle des enfants scolarisés en petite section, dans les conditions définies par décret.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

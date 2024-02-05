@@ -9,3 +9,6 @@ Les sanctions disciplinaires qui peuvent être prononcées par la commission de 
 3° L'interdiction de prendre toute inscription dans un établissement public dispensant des formations post-baccalauréat pour une durée maximum de cinq ans.
 
 Dans le cas du blâme, cette inscription est effacée au terme d'une période d'un an après son prononcé. Dans le cas des autres sanctions, l'effacement intervient au terme de la période d'interdiction qui est prononcée.
+
+NOTA:
+Conformément aux dispositions de l’article 3 du décret n°2022-1376 du 28 octobre 2022, les dispositions suivantes entrent en vigueur à compter de la rentrée scolaire 2022.

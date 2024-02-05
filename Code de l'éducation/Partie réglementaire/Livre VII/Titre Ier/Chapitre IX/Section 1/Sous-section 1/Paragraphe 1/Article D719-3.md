@@ -9,3 +9,6 @@ Les décisions du président ou du directeur de l'établissement relatives au d�
 Un procès-verbal est établi à l'issue de chaque réunion du comité.
 
 Les recours contre les élections sont formés devant la commission de contrôle des opérations électorales mentionnée à l'article D. 719-38.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2017-610 du 24 avril 2017, ces dispositions s'appliquent aux élections des conseils des établissements publics à caractère scientifique, culturel et professionnel dont la décision fixant les modalités d'organisation est postérieure au 1er juillet 2017.

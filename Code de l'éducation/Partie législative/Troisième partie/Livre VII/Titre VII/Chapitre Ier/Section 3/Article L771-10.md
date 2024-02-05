@@ -7,3 +7,6 @@ L'élection du président de l'université et celle des vice-présidents des pô
 Dans le cas où le président cesse ses fonctions, pour quelque cause que ce soit, il est procédé à une nouvelle élection du président et des vice-présidents des pôles universitaires pour la durée du mandat de leurs prédécesseurs restant à courir.
 
 Dans le cas où un vice-président de pôle universitaire régional cesse ses fonctions, pour quelque cause que ce soit, le président de l'université propose au conseil d'administration la désignation d'une nouvelle personnalité au titre de la même région. Il est procédé à l'élection du vice-président pour la durée du mandat de son prédécesseur restant à courir.
+
+NOTA:
+Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

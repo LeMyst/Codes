@@ -10,8 +10,7 @@ L'ouverture des droits aux avantages temporaires de retraite est subordonnée au
 
 3° Les bénéficiaires doivent satisfaire à l'une des conditions auxquelles est subordonnée la possibilité pour les maîtres titulaires de l'enseignement public de demander la liquidation de leur pension.
 
-Les avantages temporaires de retraite sont liquidés en ne prenant en compte que les services mentionnés au 2° du présent article, augmentés des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et
-L. 351-5 du code de la sécurité sociale et des majorations pour enfants prévues par les régimes de retraite complémentaire mentionnés au livre IX du même code.
+Les avantages temporaires de retraite sont liquidés en ne prenant en compte que les services mentionnés au 2° du présent article, augmentés des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et L. 351-5 du code de la sécurité sociale et des majorations pour enfants prévues par les régimes de retraite complémentaire mentionnés au livre IX du même code.
 
 Un coefficient de minoration ou de majoration est applicable aux avantages temporaires de retraite dans les mêmes conditions que pour les maîtres titulaires de l'enseignement public.
 

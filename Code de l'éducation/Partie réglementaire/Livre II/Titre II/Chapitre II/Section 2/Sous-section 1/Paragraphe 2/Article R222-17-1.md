@@ -21,3 +21,6 @@ a) Au secrétaire général d'académie, qui peut donner délégation pour signe
 b) A chacun des responsables des services régionaux prévus aux articles R. 222-24-4 et R. 222-24-6, dans la limite des attributions desdits services ;
 
 c) Au directeur académique des services de l'éducation nationale.
+
+NOTA:
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

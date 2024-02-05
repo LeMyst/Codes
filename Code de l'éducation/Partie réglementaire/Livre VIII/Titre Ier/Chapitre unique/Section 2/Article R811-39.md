@@ -7,3 +7,6 @@ La décision est affichée à l'intérieur de l'établissement. La commission de
 Elle est notifiée par le président de la section disciplinaire, par tout moyen permettant de conférer date certaine, à la personne poursuivie. S'il s'agit d'un mineur, elle est en outre adressée, dans la même forme, aux personnes qui exercent à son égard l'autorité parentale ou la tutelle. La décision de sanction est également adressée au président de l'université et au recteur de région académique.
 
 La notification mentionne les voies et délais de recours contentieux.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

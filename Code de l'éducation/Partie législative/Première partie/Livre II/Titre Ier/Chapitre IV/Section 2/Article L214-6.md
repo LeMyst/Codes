@@ -9,3 +9,6 @@ Pour la construction, la reconstruction, l'extension, les grosses réparations a
 Dans ce cas, la région bénéficie du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement correspondantes.
 
 La région bénéficie également du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement qu'elle verse aux établissements publics locaux d'enseignement et aux établissements publics locaux d'enseignement et de formation professionnelle agricole qui lui sont rattachés, en vue de la construction, la reconstruction, l'extension et les grosses réparations de ces établissements.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

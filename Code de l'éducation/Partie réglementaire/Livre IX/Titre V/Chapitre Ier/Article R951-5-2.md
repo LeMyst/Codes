@@ -25,3 +25,6 @@ III.-Outre les attributions prévues au chapitre II du titre III du décret du 2
 Le conseil d'administration de l'établissement reçoit communication du programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail mentionné à l'article 71 du même décret.
 
 Dès lors qu'ils sont susceptibles d'avoir des conséquences directes sur les usagers, les projets élaborés et les avis émis par les instances mentionnées au I et les suites qui leur sont données sont portés à la connaissance des usagers dans un délai d'un mois par l'administration et par tout moyen approprié.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 3 du décret n° 2023-106 du 16 février 2023.

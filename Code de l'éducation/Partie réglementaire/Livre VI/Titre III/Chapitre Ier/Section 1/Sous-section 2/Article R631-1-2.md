@@ -23,3 +23,6 @@ Le jury établit pour l'admission dans les formations de médecine, de pharmacie
 Les étudiants sont admis conformément aux capacités d'accueil fixées par l'université en fonction de leur parcours ou groupe de parcours de formation antérieur.
 
 S'il le juge nécessaire, le président de l'université peut nommer des examinateurs adjoints pour participer, avec les membres du jury, à l'évaluation des épreuves du second groupe. Les examinateurs adjoints peuvent participer aux délibérations du jury avec voix consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées.
+
+NOTA:
+Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.

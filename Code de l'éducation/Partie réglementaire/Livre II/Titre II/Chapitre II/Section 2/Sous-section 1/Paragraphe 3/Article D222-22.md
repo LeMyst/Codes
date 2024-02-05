@@ -11,3 +11,6 @@ Pour les questions relatives aux écoles, aux collèges, aux lycées et aux éta
 4° Aux chefs de division du rectorat, en cas d'absence simultanée du directeur de l'académie de Paris et du secrétaire général de l'enseignement scolaire.
 
 Pour les questions relatives à la jeunesse, à la vie associative, à l'engagement civique et aux sports, le directeur de l'académie de Paris peut donner délégation au chef du service départemental à la jeunesse, à l'engagement et aux sports pour signer tous actes relatifs aux affaires pour lesquelles il a lui-même reçu délégation. Le chef du service départemental peut également donner délégation aux agents placés sous son autorité à effet de signer tous actes relatifs aux affaires pour lesquelles il a lui-même reçu délégation.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2020-1543 du 9 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

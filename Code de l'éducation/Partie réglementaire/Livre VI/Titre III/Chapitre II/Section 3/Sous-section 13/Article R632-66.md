@@ -9,3 +9,6 @@ Le directeur général du Centre national de gestion des praticiens hospitaliers
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé fixe, chaque année, le nombre de postes ouverts au concours et leur répartition par spécialité et par subdivision.
 
 Toutefois, dans la limite des postes ouverts, ne peuvent être déclarés reçus au concours que les candidats dont la note est au moins égale à la note minimale fixée par le jury.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

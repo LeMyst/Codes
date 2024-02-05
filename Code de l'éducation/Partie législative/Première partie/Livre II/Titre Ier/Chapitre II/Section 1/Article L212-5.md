@@ -15,3 +15,6 @@ Sont également des dépenses obligatoires, dans toute école régulièrement cr
 5° Le chauffage et l'éclairage des classes et la rémunération des personnels de service, s'il y a lieu.
 
 De même, constitue une dépense obligatoire à la charge de la commune le logement des instituteurs qui y ont leur résidence administrative et qui sont appelés à exercer leurs fonctions dans plusieurs communes en fonction des nécessités du service de l'enseignement.
+
+NOTA:
+Conformément aux dispositions de l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

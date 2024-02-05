@@ -19,3 +19,6 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 8° Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil d'administration dans sa séance la plus proche des marchés conclus sans autorisation préalable dans les cas prévus à l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents.
 
 Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur de l'établissement, dit établissement support auquel a été confiée la gestion du groupement. Il soumet ces conventions à l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles d'entraîner des conséquences sur la formation initiale et la vie scolaire.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2020-1633 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des conseils d'administration et des conseils d'établissement.

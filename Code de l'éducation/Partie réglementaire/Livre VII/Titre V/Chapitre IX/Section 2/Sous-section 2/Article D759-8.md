@@ -21,3 +21,6 @@ Les dispositions relatives aux établissements d'enseignement supérieur d'arts 
 9° Ecole nationale supérieure d'art de Dijon : décret n° 2002-1519 du 23 décembre 2002 transformant l'Ecole nationale supérieure d'art de Dijon en établissement public national et portant statut de cet établissement ;
 
 10° Ecole nationale de la photographie d'Arles : décret n° 2003-852 du 3 septembre 2003 érigeant l'Ecole nationale de la photographie en établissement public national et portant statut de cet établissement.
+
+NOTA:
+Conformément au II de l'article 18 du décret n° 2023-1066 du 20 novembre 2023, ces dispositions peuvent être modifiées dans les formes requises pour leur modification antérieurement à l'entrée en vigueur dudit décret.

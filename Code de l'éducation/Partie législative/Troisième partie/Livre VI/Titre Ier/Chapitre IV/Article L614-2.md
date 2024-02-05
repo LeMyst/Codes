@@ -15,3 +15,6 @@ Il organise, au niveau régional ou interrégional, sur des thèmes évalués in
 Il valorise la formation continue et favorise la diffusion de l'information et de la culture scientifique et technique.
 
 II. - La conférence régionale de l'aménagement et du développement du territoire organise la concertation sur l'enseignement supérieur et la recherche afin d'assurer la répartition équilibrée des activités d'enseignement supérieur et de recherche, de promouvoir une meilleure articulation entre recherche publique et recherche privée et de favoriser les synergies avec le monde économique grâce à la formation en alternance, à la formation continue et au soutien de projets porteurs de développement économique.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

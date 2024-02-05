@@ -13,3 +13,6 @@ Il convoque par tout moyen, y compris par télécopie ou par courrier électroni
 1° La personne ayant demandé au chef d'établissement la comparution de l'élève ;
 
 2° Les témoins ou les personnes et, s'ils sont mineurs, leur représentant légal susceptibles d'éclairer le conseil de discipline sur les faits motivant la comparution de l'élève.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2019-908 du 30 août 2019, ces dispositions s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la rentrée scolaire 2019.

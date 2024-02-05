@@ -9,3 +9,6 @@ A la réception de la demande de renvoi, le recteur de région académique en in
 Le recteur de région académique peut également, sans être saisi d'une demande, prendre une décision de renvoi dans un délai de quinze jours suivant la réception du document mentionné au premier alinéa de l'article R. 811-27. Sa décision est notifiée dans les conditions fixées au précédent alinéa.
 
 En cas de renvoi des poursuites devant la section disciplinaire d'un autre établissement, l'établissement d'origine prend en charge, s'il y a lieu, les frais de transport et d'hébergement des témoins convoqués par le président de la section disciplinaire, dans les conditions prévues pour les déplacements temporaires des personnels civils de de l'Etat.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

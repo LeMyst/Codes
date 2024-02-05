@@ -9,3 +9,6 @@ Peuvent être collectées, dans la mesure où leur exploitation est nécessaire 
 3° Données relatives aux solutions et à l'accompagnement proposés au jeune.
 
 Un arrêté des ministres chargés de l'éducation et du travail précise les catégories de données à caractère personnel mentionnées ci-dessus.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-978 du 5 août 2020, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

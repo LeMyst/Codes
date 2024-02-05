@@ -5,3 +5,6 @@ Pour toute question autre que celles relevant de ses attributions, le recteur de
 L'arrêté ministériel créant le service régional fixe ses attributions.
 
 Un arrêté du recteur de région académique publié au recueil des actes administratifs de la préfecture de région désigne le responsable du service régional. Cet arrêté met fin de plein droit aux délégations consenties par le recteur d'académie sur le fondement des articles R. 222-19-3 et D. 222-20 pour les questions intéressant le service régional.
+
+NOTA:
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

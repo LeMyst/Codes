@@ -5,3 +5,6 @@ En fonction de la situation de la démographie médicale dans les différentes s
 1° Le nombre d'étudiants de troisième cycle des études de médecine susceptibles d'être affectés par spécialité et par subdivision territoriale au titre de l'année universitaire suivante ;
 
 2° La liste mentionnée au quatrième alinéa de l'article L. 632-6 établie par spécialité et par subdivision territoriale.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1156 du 7 septembre 2021.

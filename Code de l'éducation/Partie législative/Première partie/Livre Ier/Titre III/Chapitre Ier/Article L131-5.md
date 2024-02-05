@@ -43,3 +43,10 @@ La domiciliation des parents à l'étranger ne peut être une cause de refus d'i
 Le statut ou le mode d'habitat des familles installées sur le territoire de la commune ne peut être une cause de refus d'inscription d'un enfant soumis à l'obligation scolaire. Lorsque la famille n'a pas de domicile stable, l'inscription dans un établissement public ou privé peut être cumulée avec l'inscription auprès du service public du numérique éducatif et de l'enseignement à distance prévu à l'article L. 131-2.
 
 La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de faire inscrire ses enfants dans une école de la commune de son lieu de résidence temporaire ou de travail.
+
+NOTA:
+Conformément au IV de l'article 49 de la loi n° 2021-1109 du 24 août 2021, ces dispositions entrent en vigueur à la rentrée scolaire 2022.
+
+Par dérogation, l'autorisation prévue à l'article L. 131-5 du code de l'éducation est accordée de plein droit, pour les années scolaires 2022-2023 et 2023-2024, aux enfants régulièrement instruits dans la famille au cours de l'année scolaire 2021-2022 et pour lesquels les résultats du contrôle organisé en application du troisième alinéa de l'article L. 131-10 du même code ont été jugés suffisants.
+
+Par décision du Conseil constitutionnel n° 2021-823 DC du 13 août 2021, les mots à condition d'y avoir été autorisées par l'autorité de l'État compétente en matière d'éducation figurant au premier alinéa et le huitième alinéa de l'article L. 131-5 du code de l'éducation, dans sa rédaction résultant de l’article 49 de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, ont été déclarés conformes à la Constitution sous la réserve énoncée au paragraphe 76 aux termes de laquelle : " il appartiendra, sous le contrôle du juge, au pouvoir réglementaire de déterminer les modalités de délivrance de l'autorisation d'instruction en famille conformément à ces critères et aux autorités administratives compétentes de fonder leur décision sur ces seuls critères excluant toute discrimination de quelque nature que ce soit. "

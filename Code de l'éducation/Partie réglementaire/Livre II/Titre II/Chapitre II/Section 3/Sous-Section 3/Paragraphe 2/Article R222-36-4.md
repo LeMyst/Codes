@@ -15,3 +15,6 @@ Ce responsable est placé sous l'autorité hiérarchique du recteur de l'académ
 Le responsable du service interacadémique a autorité fonctionnelle sur les services académiques qui concourent à la définition des politiques concernées, dans la limite des attributions confiées au service interacadémique.
 
 Les arrêtés du recteur de région académique créant un service interacadémique sont publiés au recueil des actes administratifs de la préfecture de région.
+
+NOTA:
+Conformément aux dispositions de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Les dispositions des 1° et 2° du I, sont mises en œuvre au plus tard dans un délai de deux ans à compter du 1er janvier 2020.

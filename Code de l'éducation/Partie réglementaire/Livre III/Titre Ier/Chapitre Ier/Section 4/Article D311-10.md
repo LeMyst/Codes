@@ -13,3 +13,10 @@ La scolarité de l'école maternelle à la fin du collège est organisée en qua
 Le ministre chargé de l'éducation nationale définit par arrêté, pour chaque cycle, les objectifs d'apprentissage, les horaires et les programmes d'enseignement incluant des repères réguliers de progression ainsi que les niveaux de fin de cycle requis pour l'acquisition du socle commun prévu à l'article L. 122-1-1.
 
 Dans les établissements d'enseignement privés sous contrat, la scolarité, de l'école maternelle à la fin du collège, est organisée, conformément aux dispositions du présent article.
+
+NOTA:
+Conformément au décret n° 2013-682 du 24 juillet 2013, article 5, modifié par l'article 1er du décret n° 2015-1023 du 19 août 2015 : ces dispositions entrent en vigueur :
+
+- à compter du 1er septembre 2014 dans toutes les sections de maternelle ;
+
+- à compter du 1er septembre 2016 dans toutes les classes de l'école élémentaire et du collège.

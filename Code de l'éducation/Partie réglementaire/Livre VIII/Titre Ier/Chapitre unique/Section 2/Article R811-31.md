@@ -5,3 +5,6 @@ Le président de la commission de discipline convoque la personne poursuivie dev
 En l'absence de la personne poursuivie dûment convoquée, la commission de discipline peut décider soit de siéger si l'intéressé n'a pas fourni de motifs justifiant son absence, soit de renvoyer l'examen de l'affaire à une date ultérieure.
 
 Pour tenir compte de l'éloignement géographique ou de contraintes professionnelles ou médicales, le président de la commission de discipline peut décider, avec l'accord de la personne poursuivie, d'avoir recours à un moyen de conférence audiovisuelle. Le moyen retenu doit respecter un niveau suffisant de sécurité et de confidentialité.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

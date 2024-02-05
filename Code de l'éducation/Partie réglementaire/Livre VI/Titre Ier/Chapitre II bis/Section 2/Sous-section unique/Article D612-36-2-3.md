@@ -15,3 +15,6 @@ Lorsqu'un candidat a accepté provisoirement une proposition d'admission et en r
 Si un candidat fait valoir, via la plateforme dématérialisée, des circonstances exceptionnelles de nature à justifier la modification des décisions qu'il a prises en application du présent article, il peut se voir attribuer un placement sur liste d'attente dans les formations auxquelles il avait candidaté, en fonction de sa position initiale dans le classement.
 
 Au terme de la phase d'admission, la proposition d'admission acceptée provisoirement par le candidat est considérée comme acceptée définitivement.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

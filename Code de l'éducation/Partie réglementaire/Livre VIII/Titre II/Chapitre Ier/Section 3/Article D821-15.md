@@ -9,3 +9,6 @@ III.-Les dispositions du II s'appliquent également :
 1° Aux demandes de maintien des bourses et des aides fondées sur l'article 3 de l'accord européen n° 69 du 12 décembre 1969 sur le maintien du paiement des bourses aux étudiants poursuivant leurs études à l'étranger.
 
 2° A toute autre aide d'urgence aux étudiants applicables aux établissements d'enseignement supérieur placés sous la tutelle ou le contrôle pédagogique du ministère chargé de la culture.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-1657 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -13,3 +13,6 @@ Si l'usager accepte la proposition, le président de l'université saisit le pr�
 Si la commission de discipline adopte la proposition, la sanction prévue est notifiée dans les conditions prévues à l'article R. 811-39.
 
 Si l'usager n'a pas répondu, au terme du délai prévu au quatrième alinéa, à la proposition de sanction qui lui est faite par le président de l'université, s'il la refuse ou si la commission de discipline rejette cette proposition de sanction, le président d'université engage les poursuites devant la section disciplinaire dans les conditions prévues aux articles R. 811-25 et suivants.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

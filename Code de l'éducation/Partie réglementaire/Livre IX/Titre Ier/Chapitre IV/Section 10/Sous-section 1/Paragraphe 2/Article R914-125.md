@@ -17,3 +17,6 @@ La durée d'assurance ayant donné lieu à cotisations à la charge de l'assuré
 donne lieu à une majoration des avantages temporaires de retraite liquidés en application de l'article R. 914-124.
 
 Sauf dispositions contraires contenues au sixième alinéa (3°) du présent article, cette majoration est calculée conformément aux dispositions de l'article D. 351-1-4 du code de la sécurité sociale.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

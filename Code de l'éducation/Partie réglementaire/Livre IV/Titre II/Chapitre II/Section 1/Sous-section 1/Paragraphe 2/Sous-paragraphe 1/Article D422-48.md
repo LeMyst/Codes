@@ -13,3 +13,6 @@ Par dérogation aux dispositions du premier alinéa, le chef d'établissement pe
 Le chef d'établissement rend compte au conseil d'administration, lors de sa plus prochaine séance, des modifications qu'il a apportées au budget de l'établissement.
 
 Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2020-1633 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des conseils d'administration et des conseils d'établissement.

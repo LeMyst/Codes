@@ -5,3 +5,6 @@ Les enseignements particuliers dispensés dans les sections internationales sont
 En fonction des accords conclus avec les pays partenaires, les enseignements spécifiques dispensés dans les classes menant au baccalauréat français international sont pris en compte pour le baccalauréat général sous la forme d'une option internationale, intitulée “ baccalauréat français international ”.
 
 Pour le baccalauréat français international, ces enseignements spécifiques peuvent être pris en compte dans le cadre de modalités dérogatoires prévues aux derniers alinéas des articles D. 334-6 et D. 334-8 et aux articles D. 334-10, D. 334-14 et D. 334-19, précisées par arrêté du ministre chargé de l'éducation. Les épreuves du baccalauréat français international sont fixées par arrêté du ministre chargé de l'éducation.
+
+NOTA:
+Conformément à l’article 22 du décret n° 2021-1054 du 6 août 2021, ces dispositions sont applicables à compter de la rentrée scolaire 2022-2023 pour les classes de première et de la rentrée scolaire 2023-2024 pour les classes de terminale.

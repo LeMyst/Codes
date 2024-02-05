@@ -7,3 +7,6 @@ Tout jeune sortant du système éducatif sans diplôme bénéficie d'une durée 
 Tout mineur dispose du droit de poursuivre sa scolarité au-delà de l'âge de seize ans.
 
 Lorsque les personnes responsables d'un mineur s'opposent à la poursuite de sa scolarité au-delà de l'âge de seize ans, une mesure d'assistance éducative peut être ordonnée dans les conditions prévues aux articles 375 et suivants du code civil afin de garantir le droit de l'enfant à l'éducation.
+
+NOTA:
+Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2020.

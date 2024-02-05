@@ -7,3 +7,6 @@ Pour exercer dans les classes de l'enseignement du second degré, les maîtres c
 2° Soit posséder le diplôme exigé pour l'accès définitif à l'échelle de rémunération des instituteurs ou le certificat d'aptitude au professorat des écoles et avoir obtenu un changement d'échelle de rémunération dans les conditions prévues à l'article R. 914-16 ;
 
 3° Soit être classés dans la deuxième ou la quatrième catégorie des personnels enseignants contractuels de l'Etat des établissements d'enseignement agricole privés régis par le décret n° 89-406 du 20 juin 1989 relatif aux contrats liant l'Etat et les personnels enseignants et de documentation des établissements mentionnés à l'article L. 813-8 du code rural et bénéficier d'un contrat à titre définitif.
+
+NOTA:
+Conformément à l'article 8 du du décret n° 2022-671 du 26 avril 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

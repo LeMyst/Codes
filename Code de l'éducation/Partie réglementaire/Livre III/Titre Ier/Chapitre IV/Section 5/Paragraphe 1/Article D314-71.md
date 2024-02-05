@@ -9,3 +9,6 @@ Il contribue, dans le domaine de l'usage des ressources éducatives, à la forma
 Il contribue à la mise en œuvre de la politique d'éducation artistique et culturelle ainsi qu'à l'éducation à la citoyenneté en s'appuyant sur le centre de liaison de l'enseignement et des médias d'information.
 
 Il participe à l'animation des espaces documentaires et à l'accompagnement des politiques documentaires des écoles et des établissements d'enseignement.
+
+NOTA:
+Conformément aux dispositions de l'article 4 du décret n° 2019-920 du 30 août 2019, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2019.

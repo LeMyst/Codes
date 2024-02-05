@@ -11,3 +11,6 @@ Les admissions dans les lycées de la défense sont prononcées chaque année su
 L'admission est également subordonnée à une visite médicale d'aptitude dont les modalités sont fixées par arrêté du ministre de la défense.
 
 L'admission dans les lycées mentionnés à l'article L. 421-1 des élèves qui suivent l'enseignement prévu au b du 2° de l'article R. 425-2 est prononcée conformément aux dispositions de l'article D. 612-31.
+
+NOTA:
+Se reporter aux dispositions de l'article 4 du décret n° 2021-926 du 12 juillet 2021.

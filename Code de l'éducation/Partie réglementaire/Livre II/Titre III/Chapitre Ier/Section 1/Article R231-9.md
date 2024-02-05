@@ -7,3 +7,6 @@ Pour la section permanente, chaque nom de candidat titulaire est accompagné de 
 Pour chaque catégorie, il peut également être procédé, à la demande de la majorité des membres présents de la catégorie, à un affichage des noms des candidats dans la limite des sièges à pourvoir. Les candidats figurant sur les listes affichées sont considérés comme élus à la fin de la séance. Toutefois, lorsqu'un membre manifeste son opposition à tout ou partie d'une liste ainsi constituée et affichée, ou lorsque des candidatures nouvelles sont présentées après l'affichage de ladite liste, il y a lieu de recourir aux procédures prévues à chacun des deux premiers alinéas du présent article.
 
 Les représentants du Conseil supérieur de l'éducation dans d'autres organismes sont élus au scrutin majoritaire uninominal à deux tours.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2020-1632 du 21 décembre 2020, les présentes dispositions entrent en vigueur à compter du prochain renouvellement des membres du Conseil supérieur de l'éducation mentionnés au 2° de l'article R. 231-2 du code de l'éducation.

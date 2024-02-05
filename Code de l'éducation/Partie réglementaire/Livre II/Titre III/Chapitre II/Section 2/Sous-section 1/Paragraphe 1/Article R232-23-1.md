@@ -9,3 +9,6 @@ Le greffe veille au bon fonctionnement de la procédure juridictionnelle et assi
 Un membre du greffe assiste aux séances d'instruction mentionnées aux articles R. 232-34 et R. 232-37 et à l'audience des formations de jugement mentionnées aux articles R. 232-34 et R. 232-39.
 
 Les membres du greffe respectent le secret des opérations d'instruction et de jugement.
+
+NOTA:
+Conformément à l’article 44 du décret n° 2023-856 du 5 septembre 2023, ces dispositions s'appliquent à compter de l'installation du Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire issu des élections de 2023, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à cette installation.

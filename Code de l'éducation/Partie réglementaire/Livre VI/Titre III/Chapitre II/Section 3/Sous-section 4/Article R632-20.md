@@ -13,3 +13,6 @@ La phase 3 dite phase de consolidation correspond à la consolidation de l'ensem
 Les durées des phases de formation sont définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre de la défense.
 
 L'ensemble des connaissances et des compétences acquises, nécessaires à l'exercice de la spécialité suivie est mentionné dans le cadre du contrat de formation défini à l'article R. 632-26.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

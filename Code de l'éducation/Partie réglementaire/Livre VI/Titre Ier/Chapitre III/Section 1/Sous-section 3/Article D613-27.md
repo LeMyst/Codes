@@ -5,3 +5,6 @@ Les candidats sollicitant un aménagement des conditions d'examen ou de concours
 La demande doit être formulée au plus tard à la date limite d'inscription à l'examen ou au concours concerné, sauf dans le cas où la situation de handicap s'est révélée ou s'est modifiée après cette échéance.
 
 Le médecin rend un avis, qui est adressé au candidat et à l'autorité administrative compétente pour organiser l'examen ou le concours, dans lequel il propose des aménagements. L'autorité administrative décide des aménagements accordés et notifie sa décision au candidat.
+
+NOTA:
+Conformémement à l'article 3 du décret n° 2021-1480 du 12 novembre 2021, ces dispositions entrent en vigueur à compter du 1er janvier 2022.

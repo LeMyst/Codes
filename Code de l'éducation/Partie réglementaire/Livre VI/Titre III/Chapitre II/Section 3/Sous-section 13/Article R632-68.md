@@ -5,3 +5,6 @@ Après proclamation des résultats, les candidats classés font connaître, par 
 Une procédure nationale permet d'affecter dans les subdivisions les candidats reçus au concours, en fonction de leur rang de classement dans la spécialité pour laquelle ils se sont inscrits, et conformément à la répartition des postes fixée par l'arrêté prévu à l'article R. 632-66.
 
 Une fois effectuées les opérations prévues aux alinéas précédents, les directeurs généraux des agences régionales de santé répartissent et affectent les étudiants dans les subdivisions mentionnées à l'article R. 632-12, en fonction du souhait exprimé par les intéressés, de leur rang de classement dans la spécialité et des postes disponibles.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

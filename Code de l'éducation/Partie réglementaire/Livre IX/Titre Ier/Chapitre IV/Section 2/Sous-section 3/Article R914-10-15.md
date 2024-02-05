@@ -9,3 +9,6 @@ Il est procédé au dépouillement du scrutin dans un délai qui ne peut être s
 Le bureau de vote central et, le cas échéant, les bureaux de vote spéciaux comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur d'académie ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur ainsi qu'un délégué de chaque liste en présence.
 
 Les sections de vote comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur ainsi que, le cas échéant, un délégué de chaque liste en présence.
+
+NOTA:
+Décret n° 2013-1231 du 21 décembre 2013, article 6 : Au lieu de "ou le académique", il convient de lire "ou le directeur académique".

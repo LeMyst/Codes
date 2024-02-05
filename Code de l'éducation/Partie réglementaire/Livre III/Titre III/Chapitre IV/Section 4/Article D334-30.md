@@ -13,3 +13,6 @@ Le recteur d'académie, ou toute personne désignée par lui à cet effet, peut 
 Le candidat est invité à présenter ses ultimes observations avant que la commission ne commence à délibérer.
 
 Si elle se juge insuffisamment éclairée, la commission de discipline du baccalauréat peut décider de reporter l'affaire à une séance ultérieure. Il en est de même si le candidat, pour des motifs impérieux, n'est ni présent ni représenté et n'a pas fait parvenir d'observation.
+
+NOTA:
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992 susvisé dans sa rédaction antérieure au présent décret

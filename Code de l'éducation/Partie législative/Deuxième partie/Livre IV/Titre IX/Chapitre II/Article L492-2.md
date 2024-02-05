@@ -13,3 +13,6 @@ Pour l'application du présent livre à Saint-Barthélemy :
 5° A l'article L. 421-24, les mots : “ du maire de la commune d'implantation et ” ne sont pas applicables ;
 
 6° A l'article L. 442-10, les mots : “ l'une des collectivités mentionnées à l'article L. 442-8 ” sont remplacés par les mots : “ la collectivité de Saint-Barthélemy ”.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

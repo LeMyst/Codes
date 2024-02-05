@@ -7,3 +7,6 @@ Toutefois, l'absence justifiée donne lieu à l'attribution de la note zéro à 
 Dans le cas où le diplôme ne peut être délivré au candidat, celui-ci peut se présenter, sur autorisation du recteur d'académie, à l'épreuve ou aux épreuves de remplacement, organisées par le recteur au sein d'une académie ou d'un groupement d'académies.
 
 Les épreuves facultatives du brevet professionnel ne donnent pas lieu à l'organisation d'épreuves de remplacement.
+
+NOTA:
+Conformément à l'article 10 du décret n° 2019-391 du 29 avril 2019, les présentes dispositions entrent en vigueur à compter de la session d'examen 2020.

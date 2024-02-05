@@ -29,3 +29,6 @@ En cas d'impossibilité de constituer une commission consultative paritaire loca
 Ils perçoivent les émoluments prévus au B de l'article 4 du décret n° 2002-22 du 4 janvier 2002 relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger.
 
 III.-La lettre de mission accompagnant le contrat de recrutement des personnels d'enseignement peut intégrer des missions spécifiques de soutien aux enseignants recrutés localement.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 22 du décret n° 2022-896 du 16 juin 2022.

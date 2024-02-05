@@ -2,55 +2,21 @@
 
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|
-DISPOSITIONS APPLICABLES |
-DANS LEUR RÉDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
 | --- | --- |
-|
-L. 312-4, 3e alinéa |
-Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|
-L. 312-9-1 |
-Résultant de la loi n° 2005-102 du 11 février 2005 |
-|
-L. 312-12 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 313-6 |
-Résultant de la loi n° 2018-771 du 5 septembre 2018 |
-|
-L. 331-1 |
-Résultant de la loi n° 2005-380 du 23 avril 2005 |
-|
-L. 331-2 |
-Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
-|
-L. 331-3 et L. 331-4 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 332-6, 1er, 2e et 4e alinéas,
-
-L. 333-4 ; L. 334-1 |
-Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-|
-L. 335-5 |
-Résultant de la loi n° 2016-1088 du 8 août 2016 |
-|
-L. 335-9 à L. 335-11 ;
-
-L. 335-14 |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|
-L. 335-16 |
-Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
-|
-L. 335-17 |
-Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
-|
-L. 336-2 ;
-
-L. 337-1, 3e et 4e alinéas |
-Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 312-4, 3e alinéa |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 312-9-1 |  Résultant de la loi n° 2005-102 du 11 février 2005 |
+|  L. 312-12 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 313-6 |  Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+|  L. 331-1 |  Résultant de la loi n° 2005-380 du 23 avril 2005 |
+|  L. 331-2 |  Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
+|  L. 331-3 et L. 331-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 332-6, 1er, 2e et 4e alinéas, L. 333-4 ; L. 334-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 335-5 |  Résultant de la loi n° 2016-1088 du 8 août 2016 |
+|  L. 335-9 à L. 335-11 ; L. 335-14 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 335-16 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+|  L. 335-17 |  Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
+|  L. 336-2 ; L. 337-1, 3e et 4e alinéas |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 
@@ -97,3 +63,6 @@ c) Au deuxième alinéa du même II, les mots : “ mentionnée à l'article L. 
 “ Sur proposition des autorités compétentes de Polynésie française et lorsqu'ils satisfont à des conditions fixées par décret en Conseil d'Etat, les diplômes ou titres à finalité professionnelle préparés et délivrés en Polynésie française sont reconnus par l'Etat par un arrêté au même titre que ceux qu'il délivre pour son compte. ” ;
 
 14° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contrevaleur en monnaie locale.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

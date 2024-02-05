@@ -15,3 +15,6 @@ Les composantes de l'université déterminent leurs statuts, qui sont approuvés
 Le président, selon des modalités fixées par les statuts, conduit un dialogue de gestion avec les composantes, afin que soient arrêtés leurs objectifs et leurs moyens. Ce dialogue de gestion peut prendre la forme d'un contrat d'objectifs et de moyens entre l'université et ses composantes.
 
 En outre, les universités peuvent comporter un institut national supérieur du professorat et de l'éducation.
+
+NOTA:
+Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

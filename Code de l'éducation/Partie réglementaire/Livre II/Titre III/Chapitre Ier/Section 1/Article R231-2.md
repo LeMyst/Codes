@@ -73,3 +73,6 @@ Des membres suppléants dont le nombre est égal au double de celui des titulair
 Pour les membres visés au 2° (e), les déclarations de candidature comportent le nom de deux candidats à l'élection de membre titulaire et, pour chacun d'entre eux, de deux suppléants. Les deux candidats titulaires sont de sexe différent. Chaque candidat titulaire et ses suppléants sont du même sexe. Chacun des candidats et ses deux suppléants doivent comprendre parmi eux au moins un élève inscrit en classe de seconde ou de niveau équivalent.
 
 Les membres titulaires et les membres suppléants autres que ceux qui sont mentionnés au 1° (c) sont nommés par arrêté du ministre chargé de l'éducation.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-595 du 13 juillet 2023, ces dispositions entrent en vigueur en vue du prochain renouvellement du Conseil supérieur de l'éducation.

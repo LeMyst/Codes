@@ -5,3 +5,6 @@ Pour les questions relatives aux écoles, aux collèges, aux lycées et aux éta
 Le directeur de l'académie de Paris est lui-même assisté de directeurs académiques des services de l'éducation nationale.
 
 Sous l'autorité du recteur d'académie, un secrétaire général d'académie, qui prend le titre de secrétaire général de l'enseignement scolaire, est chargé de l'administration de l'académie pour les questions mentionnées au premier alinéa du présent article.
+
+NOTA:
+Conformément à l’article 20 du décret 2020-1542 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

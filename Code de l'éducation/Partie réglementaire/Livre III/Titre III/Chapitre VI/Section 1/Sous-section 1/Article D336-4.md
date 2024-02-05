@@ -17,3 +17,6 @@ En ce qui concerne l'épreuve d'éducation physique et sportive, la note résult
 La liste des langues que les candidats peuvent choisir à l'examen est fixée par arrêté du ministre chargé de l'éducation nationale ou, pour la série STAV, par arrêté du ministre chargé de l'éducation nationale et du ministre chargé de l'agriculture.
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des épreuves obligatoires sous réserve des dispositions prévues aux articles D. 336-6, D. 336-7, D. 336-7-1, D. 336-13 et D. 336-14 et sous réserve de dispositions particulières prévues par arrêté du ministre chargé de l'éducation nationale.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-402 du 22 mars 2022, ces dispositions sont applicables à compter de la session 2023 du baccalauréat technologique.

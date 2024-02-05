@@ -5,3 +5,6 @@ La décision d'inscription des élèves mentionnés au quatrième alinéa de l'a
 Le recours administratif contre la décision de refus d'inscription s'exerce auprès du ministre chargé de l'éducation nationale.
 
 Sauf en ce qui concerne les élèves relevant de l'instruction obligatoire, l'inscription peut donner lieu au paiement de droits. Ceux-ci ne peuvent excéder le coût résultant des charges spécifiques à l'enseignement à distance.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 9 du décret n° 2022-182 du 15 février 2022.

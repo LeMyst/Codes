@@ -5,3 +5,6 @@ Tout interne en pharmacie inscrit à un diplôme d'études spécialisées peut, 
 L'intéressé dépose sa demande de changement d'orientation auprès du directeur général de l'agence régionale de santé dont il relève, au moins deux mois avant la date du choix des postes.
 
 Cette possibilité de changement ne peut s'exercer qu'une seule fois.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-1331 du 9 décembre 2019, les dispositions de l'article R. 633-17 du code de l'éducation résultant de ce décret sont applicables à compter de l'année universitaire 2020-2021.

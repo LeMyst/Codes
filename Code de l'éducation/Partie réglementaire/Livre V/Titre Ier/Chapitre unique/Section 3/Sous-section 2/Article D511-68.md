@@ -13,3 +13,6 @@ Les déclarations de candidature comportent le nom de deux candidats à l'élect
 Les suppléants sont désignés selon l'ordre de présentation sur la déclaration de candidature. Lorsque le titulaire est en dernière année de cycle d'études, les suppléants sont inscrits dans une classe de niveau inférieur.
 
 Les modalités d'organisation du scrutin sont fixées par arrêté ministériel.
+
+NOTA:
+Aux termes de l'article 6 du décret n° 2017-642 du 26 avril 2017, les présentes dispositions entrent en vigueur à compter du prochain renouvellement du Conseil national de la vie lycéenne et des conseils académiques de la vie lycéenne.

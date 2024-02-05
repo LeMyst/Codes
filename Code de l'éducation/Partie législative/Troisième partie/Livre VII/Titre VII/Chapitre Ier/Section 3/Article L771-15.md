@@ -7,3 +7,6 @@ Les statuts de l'université prévoient les modalités de désignation par le co
 Les attributions mentionnées au I de l'article L. 712-6-1 sont exercées par la commission de la formation et de la vie universitaire de chaque pôle. Toutefois, lorsqu'une formation offerte par les deux pôles universitaires régionaux conduit à la délivrance d'un même diplôme, les règles relatives aux examens, prévues au 2° du I du même article, sont adoptées par le conseil académique de l'université.
 
 Les attributions mentionnées au II de ce même article sont exercées par la commission de la recherche de chaque pôle. Toutefois, lorsqu'une décision de la commission de la recherche d'un pôle universitaire régional concerne une structure de recherche exerçant des activités dans les deux pôles, elle n'entre en vigueur qu'après avoir été approuvée par le conseil académique de l'université.
+
+NOTA:
+Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

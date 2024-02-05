@@ -7,3 +7,6 @@ L'année de recherche est attribuée en tenant compte de la qualité du projet d
 Pendant le contrat d'année de recherche mentionnée à l'article R. 6153-11 du code de la santé publique, l'étudiant en année de recherche est un étudiant de troisième cycle des études de médecine.
 
 Les stages ou les gardes accomplis au cours de l'année de recherche ne sont pas pris en compte dans les obligations de formation universitaire prévues pour l'obtention du diplôme postulé dans le cadre du troisième cycle des études de médecine.
+
+NOTA:
+Se reporter aux conditions d'application précisées à l'article 2 du décret n° 2016-1597 du 25 novembre 2016.

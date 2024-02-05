@@ -33,3 +33,6 @@ La mise en place d'une mesure de responsabilisation est subordonnée à la signa
 La commission de discipline détermine la sanction applicable en cas de refus de signer l'engagement prévu ci-dessus ou en cas d'inexécution de la mesure de responsabilisation.
 
 III.-La commission de discipline peut, lorsqu'elle envisage de prononcer une sanction d'exclusion, proposer à l'usager une mesure alternative consistant à participer bénévolement, en dehors des heures d'enseignement, à des activités de solidarité, culturelles ou de formation à des fins éducatives, d'une durée maximale de quarante heures, dans les mêmes conditions que celles prévues au II. Si l'usager accepte et respecte l'engagement écrit mentionné à l'avant-dernier alinéa du II, seule cette mesure alternative est inscrite dans son dossier et elle est effacée au bout de trois ans.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

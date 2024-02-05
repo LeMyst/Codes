@@ -7,3 +7,6 @@ L'arrêté ministériel mentionné au premier alinéa fixe l'étendue de la comp
 Ce responsable est placé sous l'autorité fonctionnelle de chacun des recteurs pour lesquels il exerce ses missions. A cet effet, chaque recteur peut déléguer sa signature au responsable du service, ainsi qu'à ses subordonnés dans les matières relevant de leurs attributions. Ces délégations sont publiées au recueil des actes administratifs des préfectures de région intéressées.
 
 L'arrêté ministériel met fin de plein droit aux délégations consenties par le recteur d'académie sur le fondement des articles R. 222-19-3 et D. 222-20 pour les questions intéressant le service interrégional.
+
+NOTA:
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

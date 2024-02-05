@@ -4,3 +4,6 @@ Les membres du conseil national et des conseils académiques des associations é
 Le conseil national et les conseils académiques des associations éducatives complémentaires de l'enseignement public se réunissent au moins une fois par an. Ils peuvent, en outre, être réunis sur convocation de leur président ou à la demande du tiers au moins de leurs membres.\
 Ils fixent leurs règles internes de fonctionnement.\
 Des représentants suppléants sont désignés en nombre égal à celui des membres titulaires du conseil national et des conseils académiques des associations éducatives complémentaires de l'enseignement public représentant les associations, les personnels de direction, d'éducation et d'enseignement et les parents d'élèves. Un représentant suppléant siège au conseil national ou au conseil académique des associations éducatives complémentaires de l'enseignement public en cas d'empêchement d'un membre titulaire.
+
+NOTA:
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils académiques des associations éducatives complémentaires de l'enseignement public).

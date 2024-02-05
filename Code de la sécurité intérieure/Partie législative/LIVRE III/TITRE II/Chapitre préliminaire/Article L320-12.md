@@ -15,3 +15,6 @@ Toute communication commerciale en faveur d'un opérateur de jeux d'argent et de
 Les modalités d'application des 1°, 2°, 4° et 5° sont précisées par décret.
 
 Les opérateurs de jeux d'argent et de hasard ne peuvent financer l'organisation ou parrainer la tenue d'événements à destination spécifique des mineurs.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

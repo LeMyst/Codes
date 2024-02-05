@@ -21,3 +21,6 @@ II.-Toute personne peut engager des démarches auprès de l'autorité administra
 L'interdiction volontaire de jeux s'applique à l'égard des jeux d'argent et de hasard visés aux 1° à 4° du I.
 
 Elle est prononcée pour une durée de trois ans renouvelable tacitement.
+
+NOTA:
+Par décision n° 436434 du 14 avril 2023 du Conseil d’Etat statuant au contentieux, ECLI :FR :CECHR :2023 :436434.20230414, l’ordonnance n° 2019-1015 du 2 octobre 2019 (NOR : CPAB1915539R) est annulée en tant qu’elle ne prévoit pas que le deuxième alinéa du II de l’article L. 320-9-1 du code de la sécurité intérieure s’applique au 5° du I du même article.

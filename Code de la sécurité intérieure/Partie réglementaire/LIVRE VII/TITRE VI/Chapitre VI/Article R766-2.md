@@ -14,5 +14,4 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 733-12 à R. 733-16 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) |
 | Au titre IV |  |
 | R. 741-40 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| R. 742-2, R. 742-3 et
-R. 742-5 à R. 742-15 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
+| R. 742-2, R. 742-3 et R. 742-5 à R. 742-15 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |

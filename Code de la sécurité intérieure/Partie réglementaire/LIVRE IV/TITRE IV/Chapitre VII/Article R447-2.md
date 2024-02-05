@@ -13,3 +13,6 @@ Pour l'application du présent livre dans les îles Wallis et Futuna :
 5° A l'article R. 411-4, les mots : " en application des articles L. 411-5 et L. 411-6 " sont remplacés par les mots : " en application des articles L. 411-5, L. 411-6 et du 1° de l'article L. 447-1 " ;
 
 6° Les contrats mentionnés à l'article R. 411-9 sont conclus au nom de l'Etat par le représentant de l'Etat dans les îles Wallis et Futuna.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

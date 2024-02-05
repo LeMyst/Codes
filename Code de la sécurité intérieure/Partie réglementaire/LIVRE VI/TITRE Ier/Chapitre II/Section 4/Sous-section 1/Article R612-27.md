@@ -7,3 +7,6 @@ Sans préjudice des connaissances, aptitudes et savoir-faire mentionnés aux art
 2° Aux dispositions du code civil relatives aux principes de la responsabilité civile ;
 
 3° A la réglementation des formalités d'identification et d'usage du chien dans l'exercice de l'activité de surveillance et de gardiennage.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

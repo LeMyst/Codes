@@ -9,3 +9,6 @@ Peuvent également être destinataires des données à caractère personnel et i
 3° L'Agence de l'Union européenne pour la coopération des services répressifs (Europol) et les agents affectés à l'unité nationale Europol du département de la coopération internationale opérationnelle de la direction nationale de la police judiciaire, individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, à l'exception des infractions mentionnées aux points 23,24 et 26 de l'annexe II de la directive précitée et dans les conditions prévues à l'article R. 232-18 ;
 
 4° Les autorités compétentes d'Etats non membres de l'Union européenne, dans les conditions prévues à l'article R. 232-19.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

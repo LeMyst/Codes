@@ -42,8 +42,7 @@ Pour l'application des dispositions des titres Ier et III du présent livre dans
 
 10° Aux articles R. 614-1 et R. 614-6 :
 
-a) Les mots : "des armes classées au 8° de la catégorie B et au b de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;
-
+a) Les mots : "des armes classées au 8° de la catégorie B et au b de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;\
 b) Les mots : "classés au a du 2° de la catégorie D" sont supprimés ;
 
 c) Les mots : "mentionnés à l'article L. 271-1" sont remplacés par les mots : "mentionnés au 9° de l'article L. 647-1" ;
@@ -65,3 +64,6 @@ c) Le 2° du II est remplacé par les dispositions suivantes :
 13° A l'article R. 625-11, les mots : "et des articles R. 622-22 et suivants" sont supprimés ;
 
 13° bis Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en monnaie locale.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

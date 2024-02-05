@@ -15,3 +15,6 @@ Toutefois, à titre exceptionnel, lorsque l'urgence le justifie, il peut être d
 L'autorisation, délivrée pour une période qui ne peut excéder un an, est renouvelable. Elle peut être retirée à tout moment.
 
 Le préfet du département du domicile du titulaire de cette autorisation de port d'arme lui délivre, sur présentation des pièces mentionnées à l'article R. 312-4, l'autorisation d'acquérir et de détenir, pour la même durée, l'arme de poing et, dans les limites prévues au 1° de l'article R. 312-47, les munitions correspondantes. En cas de retrait ou de non-renouvellement de l'autorisation de port d'arme, l'autorisation d'acquisition et de détention d'arme devient aussitôt caduque. Son titulaire se dessaisit alors de l'arme et des munitions selon les modalités prévues aux articles R. 312-74 et R. 312-75.
+
+NOTA:
+Conformément au I de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 315-5, dans sa rédaction résultant du présent décret, entrent en vigueur le premier jour du troisième mois à compter de l'entrée en vigueur du présent décret.

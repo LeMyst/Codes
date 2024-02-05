@@ -19,3 +19,6 @@ Les données non détectées par les traitements comme susceptibles de révéler
 V.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué pour les autorisations délivrées sur le fondement des I et II du présent article.
 
 VI.-Un service du Premier ministre est seul habilité à exécuter les traitements et opérations mis en œuvre sur le fondement des I et IV, sous le contrôle de la Commission nationale de contrôle des techniques de renseignement.
+
+NOTA:
+Conformément au II de l'article 15 de la loi n° 2021-998 du 30 juillet 2021, le Gouvernement adresse au Parlement, au plus tard le 31 juillet 2024, un rapport sur l'application de l'article L. 851-3 du code de la sécurité intérieure.

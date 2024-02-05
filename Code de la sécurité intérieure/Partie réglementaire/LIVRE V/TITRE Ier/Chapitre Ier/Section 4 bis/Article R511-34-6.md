@@ -9,3 +9,6 @@ Le dressage et l'entraînement des chiens de patrouille de police municipale peu
 Ces formations sont organisées par le Centre national de la fonction publique territoriale et assurées dans les conditions prévues à l'article L. 511-6.
 
 Ces formations peuvent être assurées par des agents de police municipale, maître-chien entraîneur de police municipale, qui sont formés à cette fonction par le Centre national de la fonction publique territoriale avec le concours des administrations et établissements publics de l'Etat. Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

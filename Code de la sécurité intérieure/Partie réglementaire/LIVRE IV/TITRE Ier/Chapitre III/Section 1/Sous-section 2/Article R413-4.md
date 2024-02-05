@@ -45,3 +45,6 @@ Les représentants élus ont chacun un suppléant élu dans les mêmes condition
 En cas d'empêchement, les membres mentionnés aux 3°, 4°, 5° et 6° peuvent donner un pouvoir au membre du conseil d'administration de leur choix.
 
 Le mandat des membres mentionnés au 4°, au 5° et au c du 7° prend fin lorsque cessent les fonctions qui le justifient. Ces membres ont chacun un suppléant nommé dans les mêmes conditions.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

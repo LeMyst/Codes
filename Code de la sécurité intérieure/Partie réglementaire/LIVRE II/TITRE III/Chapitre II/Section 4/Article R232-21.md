@@ -23,3 +23,6 @@ Ces informations sont utilisées uniquement à des fins de vérification, d'auto
 Ces informations sont mises à la disposition de la Commission nationale de l'informatique et des libertés, à sa demande.
 
 Ces informations sont conservées pendant cinq ans.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

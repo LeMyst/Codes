@@ -30,3 +30,6 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 132-10-1 et R. 132-12-1  | Résultant du décret n° 2019-1259 du 28 novembre 2019  |
 | Au titre IV  |  |
 | R. 141-1  | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
+
+NOTA:
+Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -15,3 +15,6 @@ II.-Dans le cadre de ses missions d'information et de sensibilisation des habita
 -concourir à la définition et à la gestion de la défense extérieure contre l'incendie de la commune.
 
 Il informe périodiquement le conseil municipal des actions qu'il mène dans son domaine de compétence.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 2 du décret n° 2022-1091 du 29 juillet 2022.

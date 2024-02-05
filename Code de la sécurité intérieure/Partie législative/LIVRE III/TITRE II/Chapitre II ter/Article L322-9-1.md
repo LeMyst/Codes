@@ -7,3 +7,6 @@ Sont autorisés les jeux de tirage, pour lesquels l'intervention du hasard, orga
 2° Les jeux à tirages successifs, pour lesquels l'intervention du hasard prend la forme de tirages organisés plusieurs fois dans une même journée ;
 
 3° Les jeux de tirage additionnels, qui ne sont proposés qu'en complément d'un autre ou de plusieurs autres jeux, de manière facultative ou non.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

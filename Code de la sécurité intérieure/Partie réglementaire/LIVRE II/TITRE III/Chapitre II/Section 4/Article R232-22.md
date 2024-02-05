@@ -7,3 +7,6 @@ En application du I de l'article 70-21 de la même loi, le directeur de l'agence
 II. – Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
 
 III. – Lorsqu'une violation de données à caractère personnel est susceptible d'entraîner un risque élevé pour la protection des données à caractère personnel ou d'affecter négativement la vie privée de la personne concernée, l'agence nationale des données de voyage notifie cette violation à la personne concernée et à la Commission nationale de l'informatique et des libertés dans les conditions et sous réserve des restrictions prévues à l' article 70-16 de la loi du 6 janvier 1978 précitée .
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

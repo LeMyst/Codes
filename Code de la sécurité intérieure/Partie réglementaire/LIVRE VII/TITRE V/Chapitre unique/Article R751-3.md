@@ -11,3 +11,6 @@ Un arrêté du ministre chargé de la sécurité civile fixe :
 -au sein de cette liste, ceux des documents qui, en cas de contrôle inopiné, doivent être présentés aux agents chargés du contrôle.
 
 Les agents chargés du contrôle peuvent prendre copie des documents qui leur sont présentés.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-101 du 15 février 2023, ces dispositions entrent en vigueur le 1er juin 2023.

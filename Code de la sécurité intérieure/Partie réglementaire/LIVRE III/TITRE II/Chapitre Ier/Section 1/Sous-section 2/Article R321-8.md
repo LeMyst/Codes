@@ -29,3 +29,6 @@ En cas d'absence ou d'empêchement du président, celui-ci est remplacé dans ce
 Les membres mentionnés au 10° sont désignés pour la durée de leur mandat électif.
 
 Les membres issus du Conseil d'Etat et de la Cour des comptes sont désignés pour une durée de cinq ans renouvelable une fois.
+
+NOTA:
+Aux termes de l'article 3 du décret n° 2016-1488 du 3 novembre 2016, les membres de la commission consultative des jeux de cercles et de casinos désignés, en vertu de l'article R. 321-8 du code de la sécurité intérieure, avant l'entrée en vigueur de l'article 2 dudit décret demeurent valablement désignés.

@@ -13,3 +13,6 @@ Sans préjudice de la loi n° 75-1334 du 31 décembre 1975 précitée, l'entrepr
 Préalablement à l'acceptation du sous-traitant dans les conditions prévues à l'article 3 de la loi n° 75-1334 du 31 décembre 1975 précitée, le donneur d'ordre s'assure que les motifs de recours à la sous-traitance ont été validés par l'entrepreneur principal ayant contracté avec lui, conformément au 2° du présent article.
 
 Chaque sous-traité comporte la mention de l'identité de l'ensemble des entreprises s'étant vues confier ou sous-traiter la prestation de sécurité sur lequel il porte.
+
+NOTA:
+Conformément au II de l'article 19 de la loi n° 2021-646 du 25 mai 2021, ces dispositions entrent en vigueur douze mois après la publication de la présente loi. Les contrats conclus avant cette entrée en vigueur ne sont pas soumis à ces dispositions.

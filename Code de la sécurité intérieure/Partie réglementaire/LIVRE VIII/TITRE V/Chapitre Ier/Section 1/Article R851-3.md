@@ -95,3 +95,6 @@ Les agents de la cellule d'assistance technique de l'état-major de la direction
 Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés.
 
 5° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

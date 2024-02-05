@@ -6,7 +6,6 @@ Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la l
 
 2° Le titre II, à l'exception de l'article L. 122-3 ;
 
-3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10,
-L. 132-14 et L. 132-16. L'article L. 132-3 est applicable dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique ;
+3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10, L. 132-14 et L. 132-16. L'article L. 132-3 est applicable dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique ;
 
 4° Le titre IV.

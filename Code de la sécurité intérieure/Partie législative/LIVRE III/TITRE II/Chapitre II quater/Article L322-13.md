@@ -11,3 +11,6 @@ II.-Seules sont autorisées l'organisation et la prise de paris hippiques en la 
 Ces paris ne peuvent porter que sur les courses figurant sur le calendrier prévu à l'article 5-1 de la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux.
 
 III.-Ne peuvent être proposés au public les paris sportifs à la cote dans lesquels le montant maximal de la perte potentielle est, hors application des prélèvements et déductions prévus ou autorisés par la loi, supérieur au montant de la mise.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

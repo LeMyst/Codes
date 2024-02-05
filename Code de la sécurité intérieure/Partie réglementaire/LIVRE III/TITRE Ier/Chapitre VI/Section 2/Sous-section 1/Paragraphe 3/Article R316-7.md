@@ -7,3 +7,6 @@ Elle est délivrée à chaque demande du détenteur, pour une période de cinq a
 La carte est nulle de plein droit aussitôt qu'une nouvelle carte est délivrée.
 
 En cas de vente, de perte, de destruction ou de vol d'une arme qui y est inscrite ou en cas de transformation de cette arme, le détenteur doit demander une nouvelle carte.
+
+NOTA:
+Conformément au III de l’article 14 du décret n° 2022-144 du 8 février 2022, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et, au plus tard, le 31 décembre 2022.

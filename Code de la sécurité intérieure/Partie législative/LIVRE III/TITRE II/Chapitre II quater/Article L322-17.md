@@ -5,3 +5,6 @@ Un décret précise les caractéristiques de l'offre de jeux de paris sportifs d
 1° Le nombre de disciplines sportives support de paris en réseau physique de distribution ;
 
 2° Les types de résultats et leur nombre sur ces disciplines sportives en réseau physique de distribution
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

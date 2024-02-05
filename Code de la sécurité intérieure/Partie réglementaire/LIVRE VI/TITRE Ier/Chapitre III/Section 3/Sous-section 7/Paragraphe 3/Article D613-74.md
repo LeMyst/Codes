@@ -14,3 +14,6 @@ Si la réalisation du dispositif mentionné au 1° du présent article nécessit
 En cas de difficulté caractérisée tenant à la nature ou à l'agencement des lieux, les personnes mentionnées à l'article D. 613-61 peuvent soumettre à l'avis de la commission un dispositif alternatif assurant des conditions de sécurité appropriées. Le local technique peut notamment être équipé d'un rideau métallique placé derrière la porte d'accès, déclenché en cas d'intrusion ou sur commande du convoyeur de fonds ou de tout autre dispositif.\
 Les manipulations du convoyeur de fonds sur les automates bancaires s'effectuent hors de la connaissance du public.\
 Les dispositions du présent article relatives à la surface minimum du local technique et à la paroi en façade du bâtiment renfermant l'automate bancaire ne sont applicables qu'en cas de nouvelle construction et en cas d'aménagements nécessitant une autorisation d'urbanisme dont la date de dépôt de la demande est postérieure au 1er janvier 2013.
+
+NOTA:
+Conformément à l'article 19 II du décret n° 2014-1253 du 27 octobre 2014, les dispositions de l'article D613-74, dans sa rédaction résultant du présent décret, relatives à la mise en place d'un sas sécurisé avec système d'authentification entrent en vigueur le 1er juillet 2015.

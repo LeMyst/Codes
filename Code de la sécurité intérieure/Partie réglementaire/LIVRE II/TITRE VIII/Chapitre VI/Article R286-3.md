@@ -35,3 +35,6 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 11° A l'article R. 252-16, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : " Journal officiel de la Nouvelle-Calédonie " ;
 
 2° A l'article R. 253-3, le c, les références aux articles L. 2212-2et L. 2122-18du code général des collectivités territoriales et les références aux agents mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 du présent code sont supprimées.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

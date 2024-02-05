@@ -20,3 +20,6 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 741-40  | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)  |
 | R. 742-2, R. 742-3 et R. 742-5 à R. 742-15  | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)  |
 | R. 751-1 à R. 751-3  | Résultant du décret n° 2023-101 du 15 février 2023. |
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-101 du 15 février 2023, ces dispositions entrent en vigueur le 1er juin 2023.

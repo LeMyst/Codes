@@ -91,3 +91,6 @@ d) Les résultats mentionnés au c révélant, à la suite d'un réexamen indivi
 e) La catégorie et le numéro des fiches contenues dans les traitements cités au b du présent II qui, après vérification, ont permis la prévention ou la constatation d'une des infractions mentionnées au I de l'article L. 232-7 ;
 
 f) Les réponses aux requêtes formulées par les autorités mentionnées aux articles R. 232-15 et R. 232-16.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

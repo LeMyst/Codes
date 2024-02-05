@@ -17,3 +17,6 @@ Les dispositions du 1° de l'article R. 312-40, de l'article R. 312-42 et de l'a
 Cette décision précise le nombre d'armes, de munitions et de leurs éléments pouvant être autorisés à l'acquisition et à la détention, le lieu de l'installation dans laquelle ces armes, munitions et éléments sont détenus, utilisés et conservés, les mentions du registre d'inventaire de ces matériels et de l'état journalier de leur utilisation, ainsi que sa durée. Elle précise les prescriptions imposées en matière de sûreté, de conservation et de stockage des armes, des munitions et de leurs éléments. Le maire de la commune où est située l'installation sportive en est informé.
 
 L'autorisation peut être retirée à tout moment.
+
+NOTA:
+Conformément au II de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus tard le 1er janvier 2024.

@@ -15,3 +15,6 @@ Ce traitement a pour finalités de permettre :
 5° La gestion et le suivi des avis du ministre de l'intérieur au ministre chargé des douanes sur les demandes d'autorisation de flux transfrontaliers d'armes, de munitions et de leurs éléments des catégories A, B, C et D, mentionnés au chapitre VI ;
 
 6° A l'usager de procéder par voie électronique, au moyen d'un compte individualisé, aux formalités mentionnées aux présents 2°, 3° et 5°.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2020-487 du 28 avril 2020 : Les données contenues dans l'application de gestion du répertoire informatisé des propriétaires et possesseurs d'armes sont transférées dans le système d'information sur les armes prévu à l'article R. 312-84 du code de la sécurité intérieure.

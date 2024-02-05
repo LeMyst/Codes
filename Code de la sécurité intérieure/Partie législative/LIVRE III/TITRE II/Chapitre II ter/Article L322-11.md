@@ -7,3 +7,6 @@ Un décret précise les caractéristiques des jeux, ainsi que des catégories de
 2° Le nombre de jeux de loterie simultanément exploités en ligne ;
 
 3° Le plafonnement des gains, y compris lorsqu'ils sont pris en charge par un tiers.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

@@ -19,3 +19,6 @@ Les personnes âgées de douze ans au moins, ne participant pas à des compétit
 Sauf dans le cadre des compétitions internationales, ces armes ne peuvent être utilisées que dans les stands de tir des associations mentionnées au 1° du présent article.
 
 La fédération sportive ayant reçu du ministre chargé des sports au titre de l'article L. 131-14 du code du sport, délégation pour la pratique du tir atteste que les armes et éléments d'armes du 3° bis et du 7° de la rubrique 1 du I de l'article R. 311-2 répondent aux spécifications requises pour la pratique d'une discipline de tir officiellement reconnue.
+
+NOTA:
+Conformément aux II et III de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus tard le 1er janvier 2024.

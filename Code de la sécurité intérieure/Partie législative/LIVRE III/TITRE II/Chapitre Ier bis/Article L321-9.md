@@ -5,3 +5,6 @@ N'entrent pas dans le champ d'application de l'article L. 320-1 les compétition
 Lorsque le montant total des gains ou lots excède un montant fixé par décret en Conseil d'Etat, les organisateurs de ces compétitions justifient de l'existence d'un instrument ou mécanisme, pris au sein d'une liste fixée par ce même décret, garantissant le reversement de la totalité des gains ou lots mis en jeu.
 
 Les organisateurs déclarent à l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat, la tenue de telles compétitions. Cette déclaration comporte les éléments permettant à l'autorité administrative d'apprécier le respect des conditions prévues aux deux premiers alinéas.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

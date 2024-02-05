@@ -21,3 +21,6 @@ Le procès-verbal mentionne le délai et les voies de recours.
 Si, à l'occasion de la visite, les agents qui y procèdent découvrent des éléments révélant l'existence d'autres lieux répondant aux conditions fixées au premier alinéa de l'article L. 229-1, ils peuvent, sur autorisation du juge qui a pris l'ordonnance, délivrée en cas d'urgence par tout moyen, procéder sans délai à la visite de ces lieux. Mention de cette autorisation est portée au procès-verbal mentionné au septième alinéa du présent article.
 
 Le juge qui a autorisé la visite et les juridictions de jugement saisies à cet effet ont accès aux nom et prénom de toute personne identifiée par un numéro d'immatriculation administrative dans le procès-verbal mentionné au même septième alinéa.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

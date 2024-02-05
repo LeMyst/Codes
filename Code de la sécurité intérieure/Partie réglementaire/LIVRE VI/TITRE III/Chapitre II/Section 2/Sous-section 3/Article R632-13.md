@@ -29,3 +29,6 @@ Le directeur présente chaque année au conseil d'administration un compte rendu
 Le directeur est assisté d'un secrétaire général.
 
 Le secrétaire général assure les missions dévolues au directeur en cas d'absence ou d'empêchement de celui-ci.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions sont applicables à compter du 1er septembre 2022.

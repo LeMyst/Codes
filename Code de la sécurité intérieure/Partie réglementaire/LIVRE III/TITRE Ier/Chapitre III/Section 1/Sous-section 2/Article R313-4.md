@@ -33,3 +33,6 @@ II. - Les certificats de qualification professionnelle sont agréés dans les co
 4° L'organisme en charge de la délivrance d'un certificat de qualification professionnelle présente, sur toute demande de l'autorité administrative, un rapport sur son activité et les formations dispensées ;
 
 5° L'agrément peut être retiré si la formation dispensée ne respecte pas le cahier des charges.
+
+NOTA:
+Conformément au VI de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -8,3 +8,8 @@ Afin de permettre cette consultation, les données collectées sont conservées 
 Ces traitements comportent également une consultation du traitement automatisé de données du système d'immatriculation des véhicules, du traitement automatisé du système de contrôle automatisé ainsi que des traitements de données relatives à l'assurance des véhicules.
 
 Aux fins de prévenir et de réprimer les actes de terrorisme et de faciliter la constatation des infractions s'y rattachant, les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales spécialement chargés de ces missions peuvent avoir accès à ces traitements.
+
+NOTA:
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
+
+Aux termes de l'article 11 I du décret n° 2017-1523 du 3 novembre 2017, les dispositions de l'article L233-2 entrent en vigueur le jour de l'entrée en vigueur du présent décret.

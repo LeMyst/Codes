@@ -11,3 +11,6 @@ Cette enquête porte sur la compatibilité du comportement ou de la moralité du
 Au vu de cette enquête, le directeur du Conseil national des activités privées de sécurité autorise le stage.
 
 Les dispositions du présent article ne sont pas applicables lorsque le stagiaire est titulaire d'une autorisation préalable d'accès à la formation professionnelle ou d'une autorisation provisoire d'exercice mentionnées aux articles L. 622-21 et L. 622-22.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

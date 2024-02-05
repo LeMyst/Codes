@@ -9,3 +9,6 @@ Lors de cette pose, le personnel de l'administration pénitentiaire procède aux
 Les services de police ou de gendarmerie rappellent à la personne placée sous surveillance électronique mobile qu'elle est tenue de respecter ces consignes, et notamment de procéder à la mise en charge régulière de la batterie selon les modalités indispensables au bon fonctionnement du dispositif, et qu'y manquer peut être sanctionné dans les conditions prévues à l'article L. 228-7.
 
 Lorsque, pour assurer le bon fonctionnement du contrôle à distance, un dispositif technique est, avec l'accord de l'intéressé, installé dans son lieu d'habitation, ce dispositif ne fait pas obstacle à l'exercice par l'intéressé de sa liberté de changer de lieu d'habitation dans les conditions prévues au 3° de l'article L. 228-2.
+
+NOTA:
+Conformément à l’article 20 du décret n° 2022-479 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

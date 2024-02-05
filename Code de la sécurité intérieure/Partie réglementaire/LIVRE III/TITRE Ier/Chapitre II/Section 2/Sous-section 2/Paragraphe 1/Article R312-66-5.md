@@ -13,3 +13,6 @@ La demande de carte de collectionneur ou de renouvellement de cette carte est ac
 5° Certificat médical datant de moins d'un mois, délivré dans les conditions prévues à l'article R. 312-6, lorsque le demandeur suit ou a suivi un traitement dans le service ou le secteur de psychiatrie d'un établissement de santé ;
 
 6° Attestation délivrée par une association dans les conditions fixées par l'article R. 312-66-6, établissant que l'activité du demandeur correspond à celle mentionnée à l'article R. 312-66-1 et qu'il a été sensibilisé aux règles de sécurité dans le domaine des armes. Cette attestation, conforme au modèle fixé par l'arrêté prévu à l'article R. 311-6, vaut justification de la finalité de la collection et de la sensibilisation aux règles de sécurité dans le domaine des armes.
+
+NOTA:
+Conformément à l’article 33 VII du décret n° 2018-542 du 29 juin 2018, les dispositions de la section 2 du chapitre II du titre Ier du livre III du code de la sécurité intérieure s'appliquent le premier jour du sixième mois à compter de l'entrée en vigueur dudit décret (1er février 2019).

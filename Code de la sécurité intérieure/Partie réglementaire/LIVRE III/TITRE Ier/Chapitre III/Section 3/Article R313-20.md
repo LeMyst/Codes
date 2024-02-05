@@ -21,3 +21,6 @@ Les organisateurs de ces manifestations commerciales où sont présentés ou ven
 Les ventes entre particuliers dans le cadre de ces manifestations commerciales sont réalisées dans les conditions prévues à l'article R. 313-23 ;
 
 3° Lors des rencontres organisées sur les sites accueillant des participants aux activités de paintball, la vente de lanceurs de paintball classés au 4° de la catégorie C et au h de la catégorie D peut être réalisée par des commerçants autorisés.
+
+NOTA:
+Conformément au I de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint du ministre de l'intérieur et du ministre chargé des douanes et au plus tard le 1er septembre 2023. Le II de l'article 3 de l'arrêté du 29 août 2023 (NOR : IOMA2318619A) a fixé la date d'entrée en vigueur au 1er septembre 2023.

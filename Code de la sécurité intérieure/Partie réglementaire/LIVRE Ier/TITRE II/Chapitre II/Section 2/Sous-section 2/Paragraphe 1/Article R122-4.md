@@ -1,7 +1,6 @@
 # Article R\*122-4
 
-Sous l'autorité du Premier ministre et de chacun des ministres et dans le respect des compétences des préfets de département, le préfet de zone de défense et de sécurité est responsable de la préparation et de l'exécution des mesures de sécurité nationale au sein de la zone de défense et de sécurité.
-
+Sous l'autorité du Premier ministre et de chacun des ministres et dans le respect des compétences des préfets de département, le préfet de zone de défense et de sécurité est responsable de la préparation et de l'exécution des mesures de sécurité nationale au sein de la zone de défense et de sécurité.\
 A cet effet :
 
 1° Il définit les orientations et les priorités d'action, sur la base de l'analyse préalable des risques et des effets potentiels des menaces susceptibles de concerner la zone de défense et de sécurité. Pour cette analyse, il peut bénéficier du concours de l'officier général de la zone de défense et de sécurité ;

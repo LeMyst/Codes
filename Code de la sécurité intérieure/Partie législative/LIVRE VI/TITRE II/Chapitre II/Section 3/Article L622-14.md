@@ -15,3 +15,6 @@ L'autorisation prévue à l'article L. 622-9 peut être retirée :
 6° A la personne physique ou morale qui ne se conforme pas aux dispositions du présent titre, à celles du code de l'entrée et du séjour des étrangers et du droit d'asile ou à celles du code du travail.
 
 Sauf dans les cas prévus aux 4° et 5°, le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
+
+NOTA:
+Conformément au II de l'article 25 de la loi n° 2021-646 du 25 mai 2021, ces dispositions entrent en vigueur dix-huit mois après la publication de la présente loi.

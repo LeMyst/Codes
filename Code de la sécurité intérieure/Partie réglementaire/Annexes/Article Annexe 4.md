@@ -245,3 +245,6 @@ Pour l'exécution de la présente convention, les parties font élection de domi
 -l'armateur du navire,
 
 -l'exploitant, au siège social de la société sise au
+
+NOTA:
+Au lieu de " l’article 5411-1 ", il convient de lire " l’article L. 5411-1 ", au lieu de " l’article 5112-1-1 ", il convient de lire " l’article L. 5112-1-1 ".

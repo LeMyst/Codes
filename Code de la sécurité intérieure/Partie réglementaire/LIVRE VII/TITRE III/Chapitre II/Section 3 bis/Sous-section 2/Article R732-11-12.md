@@ -37,3 +37,6 @@ II.-Il délibère également sur :
 5° Les modalités financières et comptables de prise en compte des subventions d'investissements des services d'incendie et de secours au bénéfice de l'agence.
 
 III.-Le conseil d'administration approuve le règlement intérieur de l'agence.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2018-856 du 8 octobre 2018, par dérogation au 4° de l'article R. 732-11-12, le budget initial de l'exercice 2018 est arrêté par décision conjointe des ministres en charge de la sécurité civile et du budget. Il s'exécute pour la période restant à courir de l'année civile en cours.

@@ -19,3 +19,6 @@ II.-Peuvent seuls être destinataires de tout ou partie des informations mention
 1° Les autorités judiciaires ;
 
 2° Les autorités et services homologués des autres Etats parties à la convention du 19 juin 1990 d'application de l'accord de Schengen du 14 juin 1985.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

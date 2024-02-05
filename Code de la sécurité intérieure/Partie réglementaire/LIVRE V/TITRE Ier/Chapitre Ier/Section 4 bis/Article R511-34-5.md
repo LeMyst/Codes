@@ -13,3 +13,6 @@ Les conditions d'hébergement des chiens doivent être conforme aux prescription
 Par dérogation, le chien de patrouille peut être hébergé par un maître-chien de police municipale, dans les conditions prévues par une convention conclue entre le maître-chien de police municipale et la commune ou l'établissement public de coopération intercommunale à fiscalité propre. Cette convention précise notamment les modalités d'indemnisation de l'agent et de prise en charge des frais d'entretien, de soins, de nourriture et d'assurance de l'animal.
 
 Sauf lorsqu'il est en service auprès d'un maître-chien de police municipale, le chien de patrouille de police municipale est gardé soit au chenil du poste de police municipale, soit dans les lieux d'hébergement fixés dans la convention prévue au présent article.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

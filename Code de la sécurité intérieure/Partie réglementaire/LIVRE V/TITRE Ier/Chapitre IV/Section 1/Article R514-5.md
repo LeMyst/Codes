@@ -1,3 +1,6 @@
 # Article R514-5
 
 La commission consultative des polices municipales est présidée par un maire ou un adjoint au maire élu en son sein, au scrutin secret, à la majorité absolue des suffrages exprimés au premier tour et, s'il y a lieu, à la majorité relative au tour suivant. En cas d'égalité de suffrages obtenus par deux candidats, le plus âgé est déclaré élu.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

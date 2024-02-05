@@ -11,3 +11,6 @@ Peuvent être admis dans la réserve citoyenne de la police nationale les candid
 4° Remplir les conditions d'aptitude correspondant aux missions de la réserve citoyenne.
 
 Nul ne peut être admis dans la réserve citoyenne de la police nationale s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation des traitements de données à caractère personnel mentionnés aux articles 230-6 et 230-19 du code de procédure pénale, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

@@ -15,3 +15,6 @@ La certification technique mentionnée à l'article R. 613-16-4 est délivrée �
 Les modalités et le contenu de l'évaluation, notamment la nature des matières explosives mentionnées au 1°, sont définis par arrêté du ministre de l'intérieur.
 
 L'évaluation est réalisée par un service placé sous l'autorité du ministre de l'intérieur. Elle donne lieu à la perception d'un droit d'inscription dont le tarif est fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

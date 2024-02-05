@@ -7,3 +7,6 @@ Lorsque cette infraction est accompagnée de voies de fait ou de menaces, de que
 Les personnes coupables des infractions prévues aux deux premiers alinéas encourent également, à titre de peine complémentaire, une peine de travail d'intérêt général.
 
 Pour le délit prévu au premier alinéa du présent article, y compris en cas de récidive, l'action publique peut être éteinte, dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende forfaitaire d'un montant de 200 €. Le montant de l'amende forfaitaire minorée est de 150 € et le montant de l'amende forfaitaire majorée est de 450 €.
+
+NOTA:
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.

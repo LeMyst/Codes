@@ -15,3 +15,6 @@ Pour l'application des dispositions énumérées à l'article L. 345-1 :
 3° quater Au second alinéa de l'article L. 313-7, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont remplacés par les mots : " dispositions applicables localement ” ;
 
 4° Le 2° de l'article L. 324-14 est supprimé.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

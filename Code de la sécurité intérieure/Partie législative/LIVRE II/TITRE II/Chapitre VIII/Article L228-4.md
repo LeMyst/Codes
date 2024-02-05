@@ -15,3 +15,6 @@ Toute décision de renouvellement est notifiée à la personne concernée au plu
 En cas de saisine d'un tribunal territorialement incompétent, le délai de jugement \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021.\] court à compter de l'enregistrement de la requête par le tribunal auquel celle-ci a été renvoyée. La mesure en cours demeure en vigueur jusqu'à l'expiration de ce délai, pour une durée maximale de sept jours à compter de son terme initial. La décision de renouvellement ne peut entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal administratif l'annulation de cette décision. Le tribunal administratif statue dans un délai de quatre mois à compter de sa saisine. Ces recours s'exercent sans préjudice des procédures ouvertes aux articles L. 521-1 et L. 521-2 du code de justice administrative.
+
+NOTA:
+Se reporter aux dispositions du II de l'article 4 de la loi n° 2021-998 du 30 juillet 2021.

@@ -13,3 +13,6 @@ L'agence nationale des données de voyage nationale peut adresser des demandes a
 II. – L'agence nationale des données de voyage peut être saisie directement par les seules autorités compétentes d'un autre Etat membre de l'Union européenne, dont la liste est publiée au Journal officiel de l'Union européenne, par tout moyen adapté et sécurisé, d'une demande motivée de transmission de données à caractère personnel et informations enregistrées dans le “ système API-PNR France ”, uniquement lorsque cela est nécessaire au regard de l'urgence de la situation et dans les conditions fixées au 2° du I.
 
 Dans les mêmes conditions, celles des autorités mentionnées à l'article R. 232-15 qui figurent sur la liste publiée au Journal officiel de l'Union européenne peuvent adresser des demandes aux Unités Information Passagers des autres Etats membres de l'Union européenne. Une copie de la demande est adressée à l'l'agence nationale des données de voyage.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

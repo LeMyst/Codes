@@ -15,3 +15,6 @@ Sans préjudice des autres dispositions du présent chapitre, la demande d'agré
 5° Une déclaration sur l'honneur de n'exercer aucune des activités mentionnées à l'article R. 611-1.
 
 Tout document rédigé dans une langue étrangère est accompagné d'une traduction en français.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

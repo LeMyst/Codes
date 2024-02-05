@@ -9,3 +9,6 @@ II.-Par exception au I, les droits d'accès et de rectification s'exercent direc
 2° Lorsqu'ils concernent des données relatives aux objets volés, perdus, invalidés ou détournés.
 
 III.-Le demandeur est informé de la suite donnée à sa demande d'accès ou de rectification dans les meilleurs délais et au plus tard deux mois après la date de sa demande.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

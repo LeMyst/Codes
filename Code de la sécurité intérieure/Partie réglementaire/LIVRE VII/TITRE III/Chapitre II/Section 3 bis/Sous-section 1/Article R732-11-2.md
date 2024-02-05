@@ -17,3 +17,8 @@ L'agence agit en qualité de prestataire de services de l'Etat, des services d'i
 7° L'organisation et la gestion technique, administrative et financière des systèmes d'information et de commandement des services d'incendie et de secours et de la sécurité civile qui lui sont confiées en qualité de prestataire.
 
 L'agence accomplit ses missions dans le respect des orientations générales fixées par l'Etat, qui peut lui confier le déploiement et la maintenance d'applications informatiques de sécurité civile ainsi que les dispositifs de traitement d'appels d'urgence destinés à renforcer l'interopérabilité des services mentionnés au quatrième alinéa de l'article L. 1424-44 et au cinquième alinéa de l'article R. 2513-13 du code général des collectivités territoriales et au II de l'article R. 3222-16 du code de la défense .
+
+NOTA:
+Conformément à l'article 2 du décret n° 2018-856 du 8 octobre 2018, l'agence du numérique de la sécurité civile, telle qu'elle est créée à l'article R. 732-11-1 du code de la sécurité intérieure, est substituée à l'Etat dans ses droits et obligations pour ce qui relève de l'accomplissement des missions prévues au 1°, 2° et 5° de l'article R. 732-11-2 engagés par le ministère en charge de la sécurité civile, notamment au titre des biens affectés, de la propriété intellectuelle des productions et des contrats en cours.
+
+La liste de ces biens, contrats et productions est fixée par arrêté conjoint du ministre en charge de la sécurité civile et du ministre en charge du budget.

@@ -15,3 +15,6 @@ III. – Le ministre de l'intérieur communique aux autres Etats membres et à l
 2° Les listes d'armes, munitions et leurs éléments pour lesquels l'autorisation de transfert d'un territoire à l'autre peut être donnée sans accord préalable ainsi que celles des armes, munitions et leurs éléments dont l'acquisition est interdite, soumise à autorisation ou à déclaration.
 
 Il est destinataire des mêmes informations communiquées par les Etats membres.
+
+NOTA:
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.

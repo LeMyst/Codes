@@ -16,6 +16,5 @@ Est puni de l'amende prévue pour les contraventions de la cinquième classe le 
 
 7° De ne pas tenir de registre d'inventaire des armes, éléments d'armes, munitions et, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 permettant leur identification ou de ne pas tenir un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire en violation de l'article R. 613-3-5 ;
 
-8° De ne pas réserver l'accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 ainsi qu'aux systèmes d'alimentation mentionnés à l'article R. 613-3-1 à une personne responsable spécialement désignée, en violation de l'article R. 613-3-5.
-
+8° De ne pas réserver l'accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 ainsi qu'aux systèmes d'alimentation mentionnés à l'article R. 613-3-1 à une personne responsable spécialement désignée, en violation de l'article R. 613-3-5.\
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code pénal.

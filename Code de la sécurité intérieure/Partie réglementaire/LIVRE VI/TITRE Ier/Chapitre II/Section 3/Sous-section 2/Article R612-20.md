@@ -9,3 +9,6 @@ La personne titulaire d'une carte professionnelle est réputée détenir une aut
 2° Soit implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R. 613-3 et à l'article R. 613-41 du présent code et à l'article R. 5442-1 du code des transports ;
 
 3° Soit permet l'exercice de la mission mentionnée à l'article L. 613-7-1 A.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

@@ -7,3 +7,8 @@ Le placement sous surveillance électronique mobile est décidé pour la durée 
 La personne concernée est astreinte, pendant toute la durée du placement, au port d'un dispositif technique permettant à tout moment à l'autorité administrative de s'assurer à distance qu'elle n'a pas quitté le périmètre défini en application du 1° du même article L. 228-2. Le dispositif technique ne peut être utilisé par l'autorité administrative pour localiser la personne, sauf lorsque celle-ci a quitté ce périmètre ou en cas de fonctionnement altéré dudit dispositif technique.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il peut déterminer les conditions dans lesquelles la mise en œuvre du dispositif technique permettant le contrôle à distance prévu au troisième alinéa, pour lequel peut être mis en œuvre un traitement automatisé de données à caractère personnel, peut être confiée à une personne de droit privé habilitée à cet effet.
+
+NOTA:
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-362 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.

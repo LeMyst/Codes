@@ -33,3 +33,6 @@ k) Le directeur du budget au ministère chargé du budget ou son représentant ;
 4° Le président de la commission de discipline prévue à l'article L. 634-11 ou, en cas d'absence, un de ses suppléants prévus au onzième alinéa de l'article R. 634-9 ou le membre mentionné au 2° du même article ;
 
 5° Deux représentants des agents de l'établissement, élus pour trois ans, dans les conditions fixées par arrêté du ministre de l'intérieur, ou leurs suppléants, élus dans les mêmes conditions.
+
+NOTA:
+Conformément au 2° du I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur à compter du lendemain de sa publication au Journal officiel de la République française. Se reporter aux conditions d’application prévues aux II à V dudit article.

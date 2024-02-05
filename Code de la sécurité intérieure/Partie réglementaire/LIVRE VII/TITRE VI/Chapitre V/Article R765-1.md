@@ -5,6 +5,4 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
 | Au titre IV  |  |
-|
-R. * 742-1 et R. * 742-4
-| Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) |
+|  R. * 742-1 et R. * 742-4  | Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) |

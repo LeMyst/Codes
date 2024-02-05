@@ -7,3 +7,6 @@ Sont autorisés les jeux instantanés pour lesquels l'intervention du hasard est
 2° Les jeux à aléa immédiat, pour lesquels l'intervention du hasard, générée à la demande individuelle du joueur, résulte d'une action de celui-ci ;
 
 3° Les jeux instantanés additionnels, qui sont des jeux proposés qu'en complément d'un autre ou de plusieurs autres jeux, de manière facultative ou non.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

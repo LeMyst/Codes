@@ -166,3 +166,6 @@ La présente convention est conclue pour une durée de trois ans, renouvelable p
 Article 22
 
 Afin de veiller à la pleine application de la présente convention, le maire de... et le préfet de... ainsi que le président de l'établissement public de coopération intercommunale (le cas échéant) conviennent que sa mise en œuvre sera examinée par une mission d'évaluation associant l'inspection générale de l'administration du ministère de l'intérieur, selon des modalités précisées en liaison avec l'Association des maires de France.
+
+NOTA:
+Conformément au premier alinéa du VI de l’article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur à compter du 1er février 2024.

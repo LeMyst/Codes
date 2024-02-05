@@ -103,3 +103,6 @@ n) Des personnels de la sûreté portuaire énumérés à l'article R. 5332-47 d
 o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires ;
 
 p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6.
+
+NOTA:
+Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.

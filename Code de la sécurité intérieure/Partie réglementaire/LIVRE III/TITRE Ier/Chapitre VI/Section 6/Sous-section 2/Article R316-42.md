@@ -13,3 +13,6 @@ Cette autorisation, dénommée licence d'exportation, revêt l'une des formes su
 La licence d'exportation est délivrée par écrit ou, le cas échéant, par voie électronique.
 
 La licence d'exportation n'est pas cessible.
+
+NOTA:
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.

@@ -19,3 +19,6 @@ Pour l'application du présent livre à Mayotte :
 6° A l'article R. 252-7, les mots : “ Dans chaque département ” sont remplacés par les mots : “ A Mayotte ” ;
 
 7° A l'article R. 252-11, les mots : " du département " sont supprimés.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

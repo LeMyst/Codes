@@ -25,3 +25,6 @@ Lorsque la personne mise en cause est issue de l'activité mentionnée à l'arti
 Les personnes mentionnées aux 1° à 3° disposent chacune de trois suppléants.
 
 A l'exception de celles qui y siègent au titre de l'activité mentionnée à l'article L. 625-1, les personnes désignées au 4° du présent article doivent être titulaires de l'un des agréments prévus aux articles L. 612-6 et L. 622-7 ou de l'une des cartes professionnelles prévues aux articles L. 612-20 et L. 622-19.
+
+NOTA:
+Conformément au 2° du I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur à compter du lendemain de sa publication au Journal officiel de la République française. Se reporter aux conditions d’application prévues aux II à V dudit article.

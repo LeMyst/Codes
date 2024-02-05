@@ -19,3 +19,8 @@ La déclaration est conforme aux modèles fixés par l'arrêté prévu à l'arti
 Cette déclaration est remise au commissariat de police ou à la brigade de gendarmerie dans le ressort duquel se trouve le lieu d'exercice de la profession. Le numéro unique d'identification est indiqué dans la déclaration. L'autorité qui la reçoit en délivre un récépissé, l'enregistre et la transmet au préfet.
 
 La cessation totale ou partielle d'activité ou le transfert de l'établissement sont déclarés selon les mêmes modalités.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

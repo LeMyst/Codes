@@ -9,3 +9,6 @@ Le carnet mentionne également le résultat des tests réalisés, le cas échéa
 Les entraînements réguliers mentionnés au premier alinéa portent notamment sur la conduite du chien dans le cadre d'une activité de la mise en évidence d'un risque lié à la présence de matières explosives.
 
 Les conditions d'application du présent article, notamment la périodicité des entraînements et les caractéristiques des matières utilisées, sont définies par arrêté du ministre de l'intérieur.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

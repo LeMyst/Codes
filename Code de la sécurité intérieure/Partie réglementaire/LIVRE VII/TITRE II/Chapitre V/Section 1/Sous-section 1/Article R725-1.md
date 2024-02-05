@@ -13,3 +13,6 @@ I. ― Des agréments de sécurité civile peuvent être délivrés aux associat
 II. ― Afin de bénéficier de l'un de ces agréments, les associations doivent disposer des moyens et des compétences permettant aux pouvoirs publics de les intégrer dans les missions mentionnées aux articles L. 725-3 à L. 725-6.
 
 Les conditions d'application de cet article sont fixées, pour chacun des agréments mentionnés au I, par quatre arrêtés du ministre chargé de la sécurité civile. Ces arrêtés définissent les moyens, notamment le matériel, et les compétences, notamment les qualifications des personnes appelées à participer aux missions, nécessaires pour obtenir l'agrément.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-101 du 15 février 2023, ces dispositions entrent en vigueur le 1er juin 2023.

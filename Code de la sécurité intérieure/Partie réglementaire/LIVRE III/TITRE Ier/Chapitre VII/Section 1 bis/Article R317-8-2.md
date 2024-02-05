@@ -9,3 +9,6 @@ Est puni de la peine d'amende prévue pour les contraventions de la 4ème classe
 3° Tout tireur sportif, dans les cas prévus à l'article R. 316-11, soit de détenir une arme ou un élément d'arme de la catégorie C mentionné à cet article sans que cette arme ou cet élément d'arme soit inscrit sur sa carte européenne d'arme à feu, soit de ne pas être en possession de l'invitation écrite ou de la preuve de son inscription prévue au même alinéa du même article. Il en est de même de la détention des munitions sans l'autorisation prévue à cet article ;
 
 4° Tout chasseur résident d'un autre Etat membre de détenir une arme de la catégorie C mentionnée à l'article R. 316-11 sans que cette arme soit inscrite sur sa carte européenne d'arme à feu.
+
+NOTA:
+Conformément au III de l’article 14 du décret n° 2022-144 du 8 février 2022, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et, au plus tard, le 31 décembre 2022.

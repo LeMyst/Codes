@@ -19,3 +19,6 @@ e) Du directeur zonal de la police nationale ou de son représentant ;
 f) Du chef de l'état-major interministériel de zone de défense et de sécurité ;
 
 En fonction de l'ordre du jour, le directeur régional des finances publiques du département siège du secrétariat général pour l'administration du ministère de l'intérieur, les délégués de zone de défense et de sécurité des services déconcentrés de l'Etat et le directeur général de l'agence régionale de santé du chef-lieu de la zone de défense et de sécurité peuvent être invités par le président à participer aux travaux de la conférence avec voix consultative, ainsi que toute autre personne dont l'audition paraît utile.
+
+NOTA:
+Conformément au I de l'article 4 du décret n° 2023-1012 du 31 octobre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

@@ -21,3 +21,6 @@ b) Les dépenses de fonctionnement ;
 c) Les dépenses d'équipement ;
 
 d) Toutes les dépenses nécessaires à l'activité du conseil.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions sont applicables à compter du 1er septembre 2022.

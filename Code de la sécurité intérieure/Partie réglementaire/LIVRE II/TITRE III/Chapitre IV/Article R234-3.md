@@ -85,3 +85,6 @@ f) Les services suivants placés sous l'autorité du préfet de police :
 – la sous-direction de la sécurité intérieure de la direction du renseignement ;
 
 – la sous-direction du renseignement territorial de la direction du renseignement.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

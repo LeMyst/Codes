@@ -7,3 +7,6 @@ Ce système peut être organisé localement ou de façon mutualisée. Certaines 
 La combinaison aléatoire est gagnante quand elle correspond à une combinaison préétablie par les règles du jeu.
 
 L'exploitation des machines à sous est autorisée exclusivement dans les salles de jeux des casinos mentionnés aux articles L. 321-1 et L. 321-3.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

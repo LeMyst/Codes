@@ -9,3 +9,6 @@ La personne mise en cause, ou son représentant, est informée de la date de la 
 Le directeur du Conseil national des activités privées de sécurité ou son représentant assiste aux séances de la commission de discipline.
 
 Le président de la commission de discipline peut appeler à participer aux séances de la commission de discipline toute personne dont il juge la présence utile. Ces personnes ne peuvent assister qu'à la partie des débats, à l'exclusion du vote, relative aux questions pour lesquelles leur présence a été sollicitée.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

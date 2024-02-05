@@ -9,3 +9,6 @@ L'organisateur adresse au directeur du Conseil national des activités privées 
 3° Le mode d'évaluation des compétences acquises à l'issue de la formation.
 
 S'il estime que ce dispositif est de nature à garantir le bon accomplissement des missions mentionnées à l'article R. 613-10, le directeur du Conseil national des activités privées de sécurité approuve le contenu et les modalités de la formation décrits dans le dossier de l'organisateur.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

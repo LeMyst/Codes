@@ -11,3 +11,6 @@ Si cela s'avère nécessaire, une délibération peut être organisée à l'init
 Les délibérations sont adoptées à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
 Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président de séance et par le secrétaire de séance. Le procès-verbal est adressé sans délai au ministre exerçant la tutelle de l'établissement.
+
+NOTA:
+Conformément aux dispositions de l'article 4 du décret n° 2018-856 du 8 octobre 2018, par dérogation aux dispositions de l'article R. 732-11-11, pendant les six mois qui suivent la date d'entrée en vigueur dudit décret, le conseil d'administration de l'agence du numérique de la sécurité civile peut délibérer valablement, à condition que les deux tiers de ses membres au moins aient été désignés ou élus.

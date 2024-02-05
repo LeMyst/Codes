@@ -57,3 +57,8 @@ a) Au premier alinéa, les mots : “et au 7° de l'article L. 112-2 du code de 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement " ;
 
 11° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de prévention de la délinquance, " sont supprimés.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

@@ -21,3 +21,6 @@ b) Au second alinéa, les mots : " à une union d'associations visée à l'artic
 Il est délivré par le haut-commissaire de la République lorsque son champ n'excède pas les limites de la Polynésie française. Il demeure toutefois délivré par le ministre chargé de la sécurité civile lorsqu'il s'agit d'un agrément au titre des réseaux annexes et supplétifs de communication.
 
 5° A l'article R. 725-8, les mots : " recueil des actes administratifs de la préfecture " et " préfet " sont respectivement remplacés par les mots : " Journal officiel de la Polynésie française " et " haut-commissaire ".
+
+NOTA:
+Conformément aux dispositions du IV de l'article 11 du décret n° 2017-250 du 27 février 2017, ces dispositions entrent en vigueur le 1er juillet 2017.

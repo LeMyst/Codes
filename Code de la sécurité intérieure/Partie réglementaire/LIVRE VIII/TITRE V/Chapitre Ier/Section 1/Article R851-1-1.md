@@ -49,3 +49,6 @@ b) A la direction régionale de la police judiciaire de Paris :
 4° Services placés sous l'autorité d'emploi du ministre de la défense :
 
 -les groupes d'appui et de renseignement des sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

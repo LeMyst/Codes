@@ -7,3 +7,6 @@ La commission de discipline peut valablement délibérer dès lors que les deux 
 2° Parmi les présents, les membres mentionnés aux 1°, 2° et 3° de l'article R. 634-9 comptent au moins pour la moitié.
 
 Si le quorum n'est pas atteint, la commission est à nouveau convoquée sur le même ordre du jour dans un délai de huit jours. Elle délibère alors sans condition de quorum.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

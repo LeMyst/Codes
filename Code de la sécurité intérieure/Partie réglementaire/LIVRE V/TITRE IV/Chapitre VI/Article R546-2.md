@@ -57,3 +57,6 @@ b) Au troisième alinéa, les mots : " ou intercommunale " sont supprimés ;
 a) A l'article 6, les mots : " en application de l' article L. 325-2 du code de la route , sous l'autorité de l'officier de police judiciaire compétent, ou, en application du deuxième alinéa de ce dernier article, par l'agent de police judiciaire adjoint, chef de la police municipale " sont remplacés par les mots : " en application des dispositions du code de la route de la Nouvelle-Calédonie " ;
 
 b) A l'article 13, les mots : " et par les articles L. 221-2 , L. 223-5 , L. 224-16 , L. 224-17 , L. 224-18 , L. 231-2 , L. 233-1 , L. 233-2 , L. 234-1 à L. 234-9 et L. 235-2 du code de la route, " sont remplacés par les mots : " et par les dispositions du code de la route de la Nouvelle-Calédonie relatives au permis de conduire et au comportement du conducteur, " .
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

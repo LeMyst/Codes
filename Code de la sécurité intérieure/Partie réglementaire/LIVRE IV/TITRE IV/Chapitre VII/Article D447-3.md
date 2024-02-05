@@ -4,19 +4,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 
 |  |  |
 | --- | --- |
-|
-D. 411-17 à D. 411-19 |
-Résultant du décret n° 2022-1202 du 31 août 2022
-|
-|
-D. 411-20 |
-Résultant du décret n° 2013-1113 du 4 décembre 2013
-|
-|
-D. 411-21 |
-Résultant du décret n° 2022-1202 du 31 août 2022
-|
-|
-D. 411-25 |
-Résultant du décret n° 2013-1113 du 4 décembre 2013
-|
+|  D. 411-17 à D. 411-19 |  Résultant du décret n° 2022-1202 du 31 août 2022  |
+|  D. 411-20 |  Résultant du décret n° 2013-1113 du 4 décembre 2013  |
+|  D. 411-21 |  Résultant du décret n° 2022-1202 du 31 août 2022  |
+|  D. 411-25 |  Résultant du décret n° 2013-1113 du 4 décembre 2013  |

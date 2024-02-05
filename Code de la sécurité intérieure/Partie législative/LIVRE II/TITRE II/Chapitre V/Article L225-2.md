@@ -7,3 +7,8 @@ Le ministre de l'intérieur peut, après en avoir informé le procureur de la R�
 2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite de trois présentations par semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés.
 
 Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois, renouvelable deux fois par décision motivée.
+
+NOTA:
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.

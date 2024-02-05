@@ -7,3 +7,6 @@ Sont réputés jeux d'argent et de hasard et interdits comme tels toutes opérat
 Cette interdiction recouvre les jeux dont le fonctionnement repose sur le savoir-faire des joueurs.
 
 Le sacrifice financier est établi dans les cas où une avance financière est exigée de la part des participants, même si un remboursement ultérieur est rendu possible par le règlement du jeu.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

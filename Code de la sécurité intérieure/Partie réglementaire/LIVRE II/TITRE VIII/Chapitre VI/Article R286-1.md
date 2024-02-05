@@ -9,14 +9,9 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 211-11 et R. 211-12 | Résultant du décret n° 2021-556 du 5 mai 2021 |
 | R. 211-13 à R. 211-16, R. 211-18 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 211-21 | Résultant du décret n° 2021-556 du 5 mai 2021 |
-|
-R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-|
-R. 211-26-1 |
-Résultant du décret n° 2019-208 du 20 mars 2019 |
-|
-R. 211-27 à R. 211-31 |
-Résultant du décret n° 2014-1253 du 27 octobre 2014 |
+|  R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
+|  R. 211-26-1 |  Résultant du décret n° 2019-208 du 20 mars 2019 |
+|  R. 211-27 à R. 211-31 |  Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 211-32 | Résultant du décret n° 2023-1388 du 29 décembre 2023. |
 | R. 211-33 et R. 211-34 | Résultant du décret n° 2023-776 du 14 août 2023 |
 | R. 213-2 à R. 213-5 | Résultant du décret n° 2023-204 du 27 mars 2023 |
@@ -74,3 +69,6 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

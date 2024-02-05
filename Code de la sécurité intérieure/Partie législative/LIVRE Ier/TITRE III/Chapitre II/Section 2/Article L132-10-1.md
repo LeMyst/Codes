@@ -17,3 +17,6 @@ II. – Les informations confidentielles échangées en application du I du pré
 L'échange d'informations est réalisé selon les modalités prévues par un règlement intérieur établi par le conseil départemental de prévention de la délinquance sur la proposition des membres des groupes de travail mentionnés au premier alinéa du I du présent article.
 
 III. – Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Dans sa décision n° 2016-569 QPC du 23 septembre 2016 (NOR: CSCX1626867S), le Conseil constitutionnel a déclaré contraires à la Constitution les mots : " et peuvent se voir transmettre par ces mêmes juridictions et ce même service toute information que ceux-ci jugent utile au bon déroulement du suivi et du contrôle de ces personnes " figurant au 4° du paragraphe I de l'article L. 132-10-1 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2014-896 du 15 août 2014 relative à l'individualisation des peines et renforçant l'efficacité des sanctions pénales. La déclaration d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à son paragraphe 30.

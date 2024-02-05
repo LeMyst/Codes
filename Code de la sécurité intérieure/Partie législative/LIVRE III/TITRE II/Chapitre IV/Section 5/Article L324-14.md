@@ -7,3 +7,6 @@ I.-Les personnes morales déclarées pénalement responsables, dans les conditio
 2° L'interdiction, pour une durée de cinq ans au plus, de solliciter l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ainsi que l'autorisation prévue à l'article L. 321-1 et, le cas échéant, le retrait d'un tel agrément ou autorisation si la personne morale en est titulaire au moment du jugement ;
 
 3° La fermeture définitive ou pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs des établissements de l'entreprise ayant servi à commettre les faits incriminés.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

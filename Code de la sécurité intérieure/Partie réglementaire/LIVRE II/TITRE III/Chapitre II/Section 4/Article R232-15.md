@@ -237,3 +237,6 @@ Sont destinataires, selon les modalités prévues au VI et dans le cadre de leur
 - des brigades réalisant des opérations de ciblage aérien ;
 
 - des cellules de ciblage aérien.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

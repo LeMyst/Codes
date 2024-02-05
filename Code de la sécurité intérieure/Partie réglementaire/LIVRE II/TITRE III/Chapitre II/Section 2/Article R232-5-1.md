@@ -11,3 +11,6 @@ III. – Le directeur de l'agence nationale des données de voyage notifie à l'
 IV. – Le directeur de l'agence nationale des données de voyage arrête la décision mentionnée à l'article L. 232-5, après l'expiration du délai fixé, au vu des observations qui ont pu être produites. La décision écrite et motivée est notifiée à l'entreprise par lettre recommandée avec demande d'avis de réception.
 
 V. – En cas de sanction, l'amende est recouvrée dans les conditions prévues pour les créances de l'Etat.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2022-751 du 29 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Les dispositions applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises entrent en vigueur à la même date.

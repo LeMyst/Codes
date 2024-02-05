@@ -9,3 +9,6 @@ La saisine du juge des libertés et de la détention du tribunal judiciaire de P
 L'ordonnance mentionne l'adresse des lieux dans lesquels les opérations de visite et de saisie peuvent être effectuées, le service et la qualité des agents habilités à y procéder, le numéro d'immatriculation administrative du chef de service qui nomme l'officier de police judiciaire territorialement compétent présent sur les lieux, chargé d'assister à ces opérations et de tenir informé le juge des libertés et de la détention de leur déroulement, ainsi que la faculté pour l'occupant des lieux ou son représentant de faire appel à un conseil de son choix, sans que l'exercice de cette faculté n'entraîne la suspension des opérations autorisées sur le fondement du premier alinéa.
 
 L'ordonnance est exécutoire au seul vu de la minute.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

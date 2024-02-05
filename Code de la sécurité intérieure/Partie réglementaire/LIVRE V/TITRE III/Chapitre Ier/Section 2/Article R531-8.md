@@ -4,3 +4,6 @@ L'agrément mentionné à l'article L. 531-1 peut être retiré ou suspendu par 
 Le retrait ou la suspension de l'agrément peut également être prononcé à la demande du préfet de police.\
 L'intéressé doit, préalablement à la décision de retrait ou de suspension de l'agrément, avoir été mis à même de présenter, devant le procureur de la République ou le magistrat que celui-ci délègue à cet effet, ses observations écrites ou, sur sa demande, des observations orales. Il peut se faire assister par un conseil ou représenter par un mandataire de son choix.\
 En cas de faute grave, il peut être procédé, en urgence et à titre conservatoire, à la suspension de l'agrément par décision motivée du procureur de la République.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

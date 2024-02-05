@@ -5,3 +5,6 @@ Les fonctions d'agent de police municipale ne peuvent être exercées que par de
 Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le représentant de l'Etat dans le département et le procureur de la République, puis assermentés. Cet agrément et cette assermentation restent valables tant qu'ils continuent d'exercer des fonctions d'agents de police municipale. En cas de recrutement par une commune ou un établissement de coopération intercommunale situé sur le ressort d'un autre tribunal judiciaire, les procureurs de la République compétents au titre de l'ancien et du nouveau lieu d'exercice des fonctions sont avisés sans délai.
 
 L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du maire ou du président de l'établissement public de coopération intercommunale. Toutefois, en cas d'urgence, l'agrément peut être suspendu par le procureur de la République sans qu'il soit procédé à cette consultation.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

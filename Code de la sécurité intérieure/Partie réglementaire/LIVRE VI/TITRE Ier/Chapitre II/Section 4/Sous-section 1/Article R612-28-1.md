@@ -25,3 +25,6 @@ II.-La certification professionnelle et le certificat de qualification professio
 3° La conduite du chien en action de mise en évidence d'un risque lié à la présence de matières explosives sur ou dans un objet délaissé dans la limite des lieux dont ils ont la garde, y compris dans les périmètres de protection institués en application de l'article L. 226-1 ;
 
 4° La conduite du chien en action de mise en évidence d'un risque lié à la présence de matières explosives dans le cadre de la sécurisation d'une zone relevant des lieux mentionnés au 3°.
+
+NOTA:
+Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

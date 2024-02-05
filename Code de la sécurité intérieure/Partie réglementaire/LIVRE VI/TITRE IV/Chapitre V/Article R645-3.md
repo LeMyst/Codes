@@ -161,3 +161,6 @@ c) Le 2° du II est remplacé par les dispositions suivantes :
 28° A l'article R. 625-11, les mots : " et des articles R. 622-22 et suivants " sont supprimés ;
 
 28° bis Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie locale.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

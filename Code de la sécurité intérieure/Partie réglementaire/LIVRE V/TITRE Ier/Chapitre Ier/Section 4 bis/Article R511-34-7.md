@@ -5,3 +5,6 @@ La réforme des chiens de patrouille de police municipale devenus inaptes à l'e
 Les chiens réformés acquis par la commune ou l'établissement public de coopération intercommunale à fiscalité propre peuvent être cédés à un maître-chien de police municipale, à un particulier ou à une association ou une fondation de protection des animaux. La commune ou l'établissement public de coopération intercommunale à fiscalité propre sont seuls habilités à déterminer le montant de la cession amiable ou, le cas échéant, sa gratuité.
 
 Le maître-chien de police municipale souhaitant acquérir l'animal réformé dispose d'un droit de préemption qu'il exerce par demande écrite auprès de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre propriétaire.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

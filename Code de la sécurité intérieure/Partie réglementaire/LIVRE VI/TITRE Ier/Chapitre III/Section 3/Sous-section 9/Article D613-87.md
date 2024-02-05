@@ -23,3 +23,6 @@ La représentation d'un membre peut être assurée par une personne qualifiée e
 La commission se réunit au moins une fois par an. Elle peut entendre toute personne dont l'audition lui paraît utile.
 
 Les procureurs de la République près les tribunaux judiciaires ayant leur siège dans le département sont informés des réunions de la commission, ainsi que des avis émis par celle-ci. Ils participent, sur leur demande, à ses réunions.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

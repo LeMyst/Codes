@@ -75,3 +75,6 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 5° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
 
 II. − Les appareils ou dispositifs techniques mentionnés au I de l'article L. 852-3 font l'objet d'une inscription dans un registre spécial tenu à la disposition de la Commission nationale de contrôle des techniques de renseignement.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

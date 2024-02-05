@@ -9,14 +9,9 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | R. 211-11 et R. 211-12 | Résultant du décret n° 2021-556 du 5 mai 2021 |
 | R. 211-13 à R. 211-16, R. 211-18 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 211-21 | Résultant du décret n° 2021-556 du 5 mai 2021 |
-|
-R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-|
-R. 211-26-1 |
-Résultant du décret n° 2019-208 du 20 mars 2019 |
-|
-R. 211-27 à R. 211-31 |
-Résultant du décret n° 2014-1253 du 27 octobre 2014 |
+|  R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
+|  R. 211-26-1 |  Résultant du décret n° 2019-208 du 20 mars 2019 |
+|  R. 211-27 à R. 211-31 |  Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 213-2 à R. 213-5 | Résultant du décret n° 2023-204 du 27 mars 2023 |
 | R. 214-1 à R. 214-3 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | Au titre II |  |
@@ -53,10 +48,8 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 236-11 | Résultant du décret n° 2017-1216 du 2 août 2017  |
 | R. 236-12 à R. 236-15 | Résultant du décret n° 2013-1113  |
 | R. 236-16 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
-| R. 236-17 |
-Résultant du décret n° 2013-1113 |
-| R. 236-18 |
-Résultant du décret n° 2017-1216 du 2 août 2017  |
+| R. 236-17 |  Résultant du décret n° 2013-1113 |
+| R. 236-18 |  Résultant du décret n° 2017-1216 du 2 août 2017  |
 | R. 236-19 et R. 236-20 | Résultant du décret n° 2020-1511 du 2 décembre 2020 |
 | R. 236-21 à R. 236-27 | Résultant du décret n° 2020-1512 du 2 décembre 2020 |
 | R. 236-28 | Résultant du décret n° 2017-1216 du 2 août 2017 |
@@ -69,10 +62,12 @@ Résultant du décret n° 2017-1216 du 2 août 2017  |
 | R. 236-50 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 236-51 à R. 236-53 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
 | Au titre IV |  |
-| R. 241-1 à R. 241-7 | Résultant du décret n° 2022-605 du 21 avril 2022
-|
+| R. 241-1 à R. 241-7 | Résultant du décret n° 2022-605 du 21 avril 2022  |
 | R. 242-1 à R. 242-7 | Résultant du décret n° 2022-712 du 27 avril 2022 |
 | R. 242-8 à R. 242-14 | Résultant du décret n° 2023-283 du 19 avril 2023 |
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

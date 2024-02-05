@@ -11,3 +11,6 @@ La décision imposant un stage d'adaptation, dont elle fixe les modalités et la
 2° Les différences substantielles visées au premier aliéna, et les raisons pour lesquelles ces différences ne peuvent être comblées par les connaissances, aptitudes et compétences acquises au cours de l'expérience professionnelle ou de l'apprentissage tout au long de la vie ayant fait l'objet, à cette fin, d'une validation en bonne et due forme par un organisme compétent.
 
 Le directeur du Conseil national des activités privées de sécurité se prononce sur le respect par l'intéressé des obligations prescrites.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

@@ -4,6 +4,4 @@ En application de l'article R. 211-18, outre les armes à feu prévues à l'arti
 
 | APPELLATION  | CLASSIFICATION  |
 | --- | --- |
-| Fusil à répétition de précision de calibre 7,62 × 51 mm et ses munitions  |
-Article R. 311-2
-b du 2° de la catégorie B ou b du 1° de la catégorie C et les munitions classées au 7° de la catégorie C |
+| Fusil à répétition de précision de calibre 7,62 × 51 mm et ses munitions  |  Article R. 311-2 b du 2° de la catégorie B ou b du 1° de la catégorie C et les munitions classées au 7° de la catégorie C |

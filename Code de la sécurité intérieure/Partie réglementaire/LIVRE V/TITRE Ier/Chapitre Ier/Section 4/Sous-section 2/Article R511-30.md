@@ -19,3 +19,6 @@ L'autorisation de détention est renouvelée dans les mêmes conditions que l'au
 Dans le cas où l'autorisation de détention est rapportée ou non renouvelée, la commune est tenue de céder, dans un délai de trois mois, à une personne régulièrement autorisée à acquérir et détenir des armes de cette catégorie, les armes et les munitions dont la détention n'est plus autorisée. Le maire informe le préfet de département des dispositions prises pour se dessaisir de ces armes. La même procédure est applicable après mise en demeure du préfet de département, et sans préjudice de l'application des sanctions pénales prévues au chapitre VII du titre Ier du livre III, lorsque l'arme a été acquise sans autorisation.
 
 A défaut de cession dans le délai prévu, la garde de ces armes et munitions est confiée aux services de la police nationale ou aux unités de la gendarmerie nationale territorialement compétents.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-590 du 12 juillet 2023, ces dispositions entrent en vigueur immédiatement.

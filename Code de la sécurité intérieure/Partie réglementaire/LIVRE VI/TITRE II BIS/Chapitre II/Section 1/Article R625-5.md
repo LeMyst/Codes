@@ -5,3 +5,6 @@ L'autorisation d'exercice provisoire prévue à l'article L. 625-3 est délivré
 Elle permet, jusqu'à l'intervention d'une décision du directeur du Conseil national des activités privées de sécurité, la poursuite de l'activité professionnelle.
 
 La demande d'autorisation d'exercice provisoire comprend les informations mentionnées à l'article R. 625-2.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

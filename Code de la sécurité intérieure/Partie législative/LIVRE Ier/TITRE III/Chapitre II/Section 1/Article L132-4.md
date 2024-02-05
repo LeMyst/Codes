@@ -5,3 +5,6 @@ Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des comp
 Dans les communes de plus de 5 000 habitants et dans les communes comprenant un quartier prioritaire de la politique de la ville, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des collectivités territoriales préside un conseil local de sécurité et de prévention de la délinquance. Lorsque, en application de l'article L. 132-13, il est créé un conseil intercommunal de sécurité et de prévention de la délinquance, la mise en place par les communes membres de l'établissement public de coopération intercommunale d'un conseil local de sécurité et de prévention de la délinquance est facultative.
 
 Dans les communes de plus de 15 000 habitants, le maire charge un membre du conseil municipal ou un agent public territorial du suivi, de l'animation et de la coordination des travaux du conseil local de sécurité et de prévention de la délinquance.
+
+NOTA:
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.

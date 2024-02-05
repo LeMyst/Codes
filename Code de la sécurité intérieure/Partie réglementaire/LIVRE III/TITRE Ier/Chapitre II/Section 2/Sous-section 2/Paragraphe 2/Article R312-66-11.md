@@ -5,3 +5,6 @@ La délivrance de la carte de collectionneur peut être refusée lorsque le dema
 1° A un comportement incompatible avec la détention d'une arme, révélé par l'enquête diligentée par le préfet. Cette enquête peut donner lieu à la consultation des traitements automatisés de données personnelles mentionnés à l' article 26 de la loi n° 78-17 du 6 janvier 1978 ;
 
 2° A été ou est admis en soins psychiatriques sans consentement en application de l' article 706-135 du code de procédure pénale et des articles L. 3212-1 à L. 3213-11 du code de la santé publique ou est dans un état physique ou psychique manifestement incompatible avec la détention de ces matériels, armes et munitions.
+
+NOTA:
+Conformément à l’article 33 VII du décret n° 2018-542 du 29 juin 2018, les dispositions de la section 2 du chapitre II du titre Ier du livre III du code de la sécurité intérieure s'appliquent le premier jour du sixième mois à compter de l'entrée en vigueur dudit décret (1er février 2019).

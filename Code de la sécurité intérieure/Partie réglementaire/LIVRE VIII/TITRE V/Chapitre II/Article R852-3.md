@@ -47,3 +47,6 @@ b) A la direction régionale de la police judiciaire de Paris :
 Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance, du service central de renseignement criminel et de la division des opérations du commandement de la gendarmerie dans le cyberespace, individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée à l'article L. 852-2. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés ;
 
 5° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

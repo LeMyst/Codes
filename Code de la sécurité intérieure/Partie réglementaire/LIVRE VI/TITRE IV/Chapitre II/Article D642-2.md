@@ -16,3 +16,6 @@ Pour l'application du présent livre à Mayotte :\
 " 6° Deux représentants des entreprises de transport de fonds désignés par le représentant de l'Etat ;\
 " 7° Deux convoyeurs de fonds désignés par le représentant de l'Etat.\
 " Le procureur de la République près le tribunal judiciaire est informé des réunions de la commission ainsi que des avis émis par celle-ci. Il participe, sur sa demande, à ses réunions. "
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

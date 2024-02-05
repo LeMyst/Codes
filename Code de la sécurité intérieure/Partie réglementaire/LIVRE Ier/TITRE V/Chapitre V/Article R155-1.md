@@ -4,18 +4,8 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 | DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-| Au titre Ier  |
-
-|
-|
-R. * 121-1
-| Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)  |
-| Au titre II  |
-
-|
-|
-R. * 122-1 à R. * 122-4, sauf son 11°  | Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)
-|
-|
-R. * 122-7 à R. * 122-9
-| Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) |
+| Au titre Ier  |  |
+|  R. * 121-1  | Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)  |
+| Au titre II  |  |
+|  R. * 122-1 à R. * 122-4, sauf son 11°  | Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)  |
+|  R. * 122-7 à R. * 122-9  | Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) |

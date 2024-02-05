@@ -27,3 +27,6 @@ d) Un représentant du ministre chargé de l'outre-mer ;
 Chaque membre titulaire de la commission a un suppléant désigné dans les mêmes conditions.
 
 La liste des membres titulaires et suppléants est publiée au Journal officiel de la République française.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

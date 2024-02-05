@@ -11,3 +11,6 @@ L'employeur remet à l'employé une carte professionnelle propre à l'entreprise
 3° Le numéro de carte professionnelle délivrée par le directeur du Conseil national des activités privées de sécurité.
 
 La carte professionnelle remise à l'employé par son employeur doit être présentée à toute réquisition d'un agent de l'autorité publique et restituée à l'employeur à l'expiration du contrat de travail.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

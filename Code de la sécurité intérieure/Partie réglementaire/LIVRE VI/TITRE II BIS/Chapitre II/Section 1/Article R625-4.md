@@ -5,3 +5,6 @@ L'autorisation a une durée de validité de cinq ans à compter de sa date de d�
 La demande de renouvellement de l'autorisation est présentée, trois mois au moins avant sa date d'expiration, dans les mêmes conditions que celles prévues par la présente section. Lorsque la demande est complète, le Conseil national des activités privées de sécurité en délivre récépissé.
 
 Ce récépissé permet la poursuite de l'activité, jusqu'à l'intervention d'une décision du directeur du Conseil national des activités privées de sécurité.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

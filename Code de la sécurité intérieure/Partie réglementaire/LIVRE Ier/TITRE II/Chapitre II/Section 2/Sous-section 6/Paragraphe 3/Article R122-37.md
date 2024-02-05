@@ -11,3 +11,6 @@ Le recteur de l'académie chef-lieu de la zone de défense et de sécurité est 
 Les responsables régionaux des services déconcentrés des ministères chargés de l'environnement, des transports, de l'énergie et de l'industrie sont, chacun pour ce qui le concerne, les conseillers du préfet de zone de défense et de sécurité s'agissant des risques naturels et technologiques, de transports, de production et d'approvisionnement énergétiques ainsi que d'infrastructures, notamment de télécommunications.
 
 Le directeur général de l'agence régionale de santé de zone assiste le préfet de zone de défense et de sécurité dans les conditions fixées à l'article L. 1435-2 du code de la santé publique.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

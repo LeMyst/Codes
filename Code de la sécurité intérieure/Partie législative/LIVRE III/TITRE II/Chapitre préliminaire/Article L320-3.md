@@ -9,3 +9,6 @@ La politique de l'Etat en matière de jeux d'argent et de hasard a pour objectif
 3° Prévenir les activités frauduleuses ou criminelles ainsi que le blanchiment de capitaux et le financement du terrorisme ;
 
 4° Veiller à l'exploitation équilibrée des différents types de jeu afin d'éviter toute déstabilisation économique des filières concernées.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

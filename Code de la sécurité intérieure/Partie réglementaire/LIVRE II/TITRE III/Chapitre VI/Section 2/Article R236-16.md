@@ -25,3 +25,6 @@ III. - Dans la limite du besoin d'en connaître, peuvent être destinataires des
 3° Les agents d'un service de la police nationale ou d'une unité de la gendarmerie nationale chargés d'une mission de renseignement et les agents des services mentionnés aux articles R. 811-1 et R. 811-2 du présent code, sur autorisation expresse du responsable de service concerné, mentionné aux 1°, 2° ou 3° du I ;
 
 4° Les personnels de la police nationale ou les militaires de la gendarmerie nationale qui ne sont pas chargés d'une mission de renseignement sur demande expresse, précisant l'identité du demandeur, l'objet et les motifs de la communication. Les demandes sont agréées par le responsable de service concerné, mentionné aux 1°, 2° ou 3° du I.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

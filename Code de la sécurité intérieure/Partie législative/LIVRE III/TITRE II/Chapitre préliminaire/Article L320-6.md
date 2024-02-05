@@ -15,3 +15,6 @@ Par dérogation aux articles L. 320-1 et L. 324-3, peuvent être autorisés :
 6° L'exploitation des paris hippiques en ligne, des paris sportifs en ligne et des jeux de cercle en ligne dans le cadre des agréments délivrés en vertu respectivement des dispositions des articles 11,12 et 14 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ;
 
 7° Les opérations publicitaires mentionnées à l'article L. 121-20 du code de la consommation.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

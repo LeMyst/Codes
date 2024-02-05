@@ -1,7 +1,6 @@
 # Article R725-7
 
-I.-Peuvent obtenir un agrément national les associations comportant des établissements autres que le principal, les unions d'associations et fédérations d'associations précitées justifiant :
-
+I.-Peuvent obtenir un agrément national les associations comportant des établissements autres que le principal, les unions d'associations et fédérations d'associations précitées justifiant :\
 1° D'une activité régulière dans au moins vingt départements ; pour l'agrément relatif aux dispositifs prévisionnels de secours mentionné à l'article R. 725-1, cette activité est celle relative aux dispositifs prévisionnels de secours au moins de petite envergure.
 
 Cette condition ne s'applique pas aux agréments relatifs aux opérations de secours autres que celles portant sur la protection des personnes, définis par arrêté du ministre chargé de la sécurité civile, pour les associations en capacité d'intervenir sur l'ensemble du territoire national ;
@@ -19,3 +18,8 @@ II.-Peuvent obtenir un agrément interdépartemental les associations comportant
 III.-Les agréments mentionnés au I et au II établissent la liste des établissements principal et autres que le principal et, pour les unions d'associations et fédérations d'associations précitées, des associations membres aptes à participer aux missions ayant fait l'objet des agréments.
 
 Les établissements et les associations membres précités peuvent mettre à disposition l'un de l'autre, dans le cadre du champ géographique mentionné dans l'agrément, les personnes et le matériel.
+
+NOTA:
+Conformément aux dispositions du I de l'article 11 du décret n° 2017-250 du 27 février 2017, les agréments délivrés en application des dispositions des articles R. 725-1 à R. 725-13 du code de la sécurité intérieure dans leur rédaction antérieure audit décret restent valables jusqu'à la date de leur échéance.
+
+Conformément aux dispositions du IV du même article 11, ces dispositions entren en vigueur le 1er juillet 2017.

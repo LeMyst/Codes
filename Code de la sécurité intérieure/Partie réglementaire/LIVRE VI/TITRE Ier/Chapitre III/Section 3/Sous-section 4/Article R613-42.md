@@ -15,3 +15,6 @@ Le dossier de demande comporte :
 4° Un certificat médical datant de moins d'un mois, placé sous pli fermé et attestant que l'état de santé physique et psychique du convoyeur n'est pas incompatible avec le port d'une arme.
 
 L'autorisation de port d'arme devient caduque en cas de retrait de la carte professionnelle ou si son titulaire cesse d'être employé comme convoyeur par l'entreprise qui a présenté la demande d'autorisation, sauf en cas de reprise d'activités et de personnels de cette entreprise par une autre entreprise de transport de fonds. Le nouvel employeur informe immédiatement le préfet de cette nouvelle situation.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

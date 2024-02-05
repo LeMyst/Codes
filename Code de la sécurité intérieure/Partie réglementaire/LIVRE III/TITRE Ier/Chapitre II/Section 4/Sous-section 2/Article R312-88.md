@@ -11,3 +11,6 @@ Les données à caractère personnel et informations mentionnées aux e à g du 
 La photographie mentionnée au b du 1° du I de l'article R. 312-85 est conservée jusqu'à la date de fin de validité de la carte européenne d'armes à feu mentionnée à l'article R. 316-7.
 
 Les autres données à caractère personnel et informations sont conservées jusqu'à la clôture du compte individualisé mentionné au 6° de l'article R. 312-84 ou, à défaut, pendant une durée maximale d'un an à compter de la date de décès du détenteur.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2020-487 du 28 avril 2020 : Les dispositions de l'article R. 312-88 s'appliquent à ces données à la date de leur transfert, déduction faite de la durée écoulée depuis leur enregistrement dans l'application précitée.

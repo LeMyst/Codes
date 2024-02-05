@@ -37,3 +37,6 @@ f) Du représentant légal de la société exploitant un casino installé à bor
 g) Des personnes physiques et morales chargées de la gestion technique des machines à sous reliées entre elles et mentionnées au deuxième alinéa de l'article L. 321-5-1 ;
 
 h) Des personnes physiques et morales qui conçoivent, importent, vendent ou assurent la maintenance ou la gestion des systèmes monétiques utilisés pour les mises et les gains dans les casinos.
+
+NOTA:
+Décret n° 2017-913 du 9 mai 2017, article 23 : Pour une une durée d'un an à compter de cette même date, les cercles de jeux bénéficiant d'une autorisation d'exploiter en vigueur au 31 décembre 2017 demeurent régis par les dispositions des articles R. 114-3, R. 321-10 et R. 321-12 du code de la sécurité intérieure et D. 561-10-2 du code monétaire et financier, du décret n° 47-798 du 5 mai 1947 portant réglementation de la police des jeux dans les cercles, du décret du 23 octobre 2014 susvisé et du décret du 5 novembre 2015 susvisé, dans leur rédaction antérieure au présent décret.

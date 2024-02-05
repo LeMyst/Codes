@@ -25,3 +25,6 @@ f) Une au titre des activités des agences de recherches privées ;
 Les personnes désignées au 1° du présent article doivent être titulaires de l'un des agréments prévus aux articles L. 612-6 et L. 622-7 ou de l'une des cartes professionnelles prévues aux articles L. 612-20 et L. 622-19.
 
 Les membres de la commission sont nommés pour une durée de trois ans, renouvelable une fois.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions sont applicables à compter du 1er septembre 2022.

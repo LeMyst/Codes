@@ -19,3 +19,6 @@ I.-Pour les besoins de la prévention et de la répression des atteintes aux int
 II.-Pour les seuls besoins de la prévention des atteintes et des actes mentionnés au premier alinéa du I, les agents individuellement désignés et dûment habilités des services spécialisés de renseignement mentionnés à l'article L. 811-2 du présent code sont également autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, à accéder aux traitements automatisés mentionnés ci-dessus.
 
 Un décret en Conseil d'Etat détermine les services spécialisés de renseignement mentionnés au premier alinéa du présent II et les modalités de leur accès aux traitements automatisés mentionnés au présent article.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

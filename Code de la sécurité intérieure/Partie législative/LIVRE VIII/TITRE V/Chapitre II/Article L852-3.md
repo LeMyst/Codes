@@ -9,3 +9,6 @@ III.-Un service du Premier ministre organise la centralisation des correspondanc
 Les opérations de transcription et d'extraction des communications interceptées, auxquelles la Commission nationale de contrôle des techniques de renseignement dispose d'un accès permanent, complet, direct et immédiat, sont effectuées au sein du service du Premier ministre mentionné au premier alinéa du présent III.
 
 IV.-Le nombre maximal des autorisations d'interception en vigueur simultanément est arrêté par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de renseignement. La décision fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 ainsi que le nombre d'autorisations d'interception délivrées sont portés à la connaissance de la commission.
+
+NOTA:
+Conformément au II de l'article 13 de la loi n° 2021-998 du 30 juillet 2021, ces dispositions sont applicables jusqu'au 31 juillet 2025. Le Gouvernement adresse au Parlement un rapport d'évaluation sur l'application de ces dispositions au plus tard six mois avant cette échéance.

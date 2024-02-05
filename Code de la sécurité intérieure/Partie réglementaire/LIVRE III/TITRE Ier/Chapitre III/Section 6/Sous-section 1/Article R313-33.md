@@ -31,3 +31,6 @@ d) Soit, pour le commerce autre que de détail, de l'un des documents visés au 
 9° Pour les ressortissants d'un Etat membre de l'Union européenne autre que la France ou d'un autre Etat partie à l'accord sur l'Espace économique européen, à défaut de produire un document mentionné au 8°, un document établissant la capacité professionnelle de l'intéressé consistant en la copie de l'agrément ou du titre équivalent délivré par l'autorité administrative de cet Etat et justifiant la capacité à exercer la profession d'armurier ou de courtier.
 
 La pièce justificative d'identité fait foi de la nationalité du requérant.
+
+NOTA:
+Conformément au VI de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -9,9 +9,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 | R. 211-11 et R. 211-12 | Résultant du décret n° 2021-556 du 5 mai 2021 |
 | R. 211-13 à R. 211-16, R. 211-18 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 211-21 | Résultant du décret n° 2021-556 du 5 mai 2021 |
-|
-R. 211-26-1 |
-Résultant du décret n° 2019-208 du 20 mars 2019 |
+|  R. 211-26-1 |  Résultant du décret n° 2019-208 du 20 mars 2019 |
 | R. 211-27 à R. 211-30 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 213-2 à R. 213-5 | Résultant du décret n° 2023-204 du 27 mars 2023 |
 | R. 214-1 à R. 214-3 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
@@ -20,8 +18,7 @@ Résultant du décret n° 2019-208 du 20 mars 2019 |
 | R. 223-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 224-1 et R. 224-2 | Résultant du décret n° 2017-1522 du 2 novembre 2017 |
 | R. 224-3 à R. 224-6 | Résultant du décret n° 2015-26 du 14 janvier 2015 |
-| R. 225-1 à R. 225-5 | Résultant du décret n° 2016-1269 du 28 septembre 2016
-|
+| R. 225-1 à R. 225-5 | Résultant du décret n° 2016-1269 du 28 septembre 2016  |
 | R. 228-1 à R. 228-6 | Résultant du décret n° 2018-167 du 7 mars 2018 |
 | Au titre III |  |
 | R. 232-1 | Résultant du décret n° 2014-1095 du 26 septembre 2014 |
@@ -60,3 +57,6 @@ Résultant du décret n° 2019-208 du 20 mars 2019 |
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

@@ -5,3 +5,6 @@ Le préfet de département est compétent pour contrôler, en application de l'a
 Il peut solliciter le concours de l'inspection générale de la sécurité civile mentionnée à l'article L. 751-2 pour contrôler les associations agréées au titre de l'article L. 725-3.
 
 Le contrôle réalisé en application du présent article a pour objet de vérifier que l'organisme ou l'association se conforme à ses obligations dans l'exercice de ses missions et continue à remplir les conditions qui ont permis son habilitation ou son agrément.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-101 du 15 février 2023, ces dispositions entrent en vigueur le 1er juin 2023.

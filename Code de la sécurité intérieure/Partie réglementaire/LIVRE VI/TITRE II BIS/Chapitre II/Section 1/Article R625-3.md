@@ -11,3 +11,6 @@ Lorsqu'une personne physique ou morale exerçant une activité mentionnée à l'
 4° Si l'activité en cause n'est pas spécifiquement réglementée dans l'Etat membre d'établissement, toute pièce établissant que la personne y a exercé cette activité à temps complet pendant une année au moins, à temps plein ou à temps partiel pendant une durée totale équivalente, au cours des dix dernières années.
 
 Dans le délai d'un mois à compter de la réception de la déclaration, le directeur du Conseil national des activités privées de sécurité fait savoir à l'intéressé si, sur ou sans vérification de la régularité de son activité dans l'Etat d'établissement, il permet la prestation de services.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

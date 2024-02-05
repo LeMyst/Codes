@@ -5,3 +5,6 @@ L'importation ou la fabrication de tout appareil dont le fonctionnement repose s
 Sont punies des mêmes peines la détention, la mise à disposition de tiers, l'installation et l'exploitation de ces appareils sur la voie publique et ses dépendances, dans des lieux publics ou ouverts au public et dans les dépendances, mêmes privées, de ces lieux publics ainsi que l'exploitation de ces appareils ou leur mise à disposition de tiers par une personne privée, physique ou morale, dans des lieux privés.
 
 Les dispositions des deux alinéas précédents sont applicables aux appareils de jeux dont le fonctionnement repose sur l'adresse et dont les caractéristiques techniques font apparaître qu'il est possible de gagner plus de cinq parties gratuites par enjeu ou un gain en espèces ou en nature.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

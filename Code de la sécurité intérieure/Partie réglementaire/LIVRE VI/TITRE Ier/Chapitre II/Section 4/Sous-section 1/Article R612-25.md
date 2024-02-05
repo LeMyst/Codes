@@ -23,3 +23,6 @@ Lorsque le directeur du Conseil national des activités privées de sécurité a
 Dans le silence du directeur du Conseil national des activités privées de sécurité, à l'issue des délais mentionnés ci-dessus, ou si les résultats de la vérification sont favorables, l'intéressé est réputé remplir les conditions d'exercice imposées par la présente section.
 
 Perd les droits qu'elle tire de l'alinéa précédent toute personne qui, dans l'Etat de l'Union européenne ou dans l'Etat partie à l'accord sur l'Espace économique européen dans lequel elle est établie pour exercer l'une des activités mentionnées à l'article L. 611-1, se voit interdire cet exercice, retirer l'autorisation de cet exercice ou infliger une condamnation incompatible avec lui.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.

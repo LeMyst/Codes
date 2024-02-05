@@ -29,3 +29,6 @@ IX.-Ce recours doit être formé par déclaration remise ou adressée, par pli r
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours.
 
 Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

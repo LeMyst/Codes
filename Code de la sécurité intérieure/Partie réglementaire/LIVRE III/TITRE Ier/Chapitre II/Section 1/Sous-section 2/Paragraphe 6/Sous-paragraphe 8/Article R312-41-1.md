@@ -5,3 +5,6 @@ Par dérogation au premier alinéa du 2° de l'article R. 312-40, les personnes 
 Les dispositions du premier alinéa du présent article sont également applicables aux personnes qui atteignent leur majorité, lorsqu'elles étaient précédemment autorisées à détenir des armes conformément aux dispositions du deuxième alinéa du 2° de l'article R. 312-40.
 
 Les dispositions du présent article ne sont applicables ni aux personnes majeures qui participent à des compétitions nationales ou internationales, ni aux personnes de moins de dix-huit ans qui participent à des compétitions internationales.
+
+NOTA:
+Conformément au III de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus tard le 1er janvier 2024.

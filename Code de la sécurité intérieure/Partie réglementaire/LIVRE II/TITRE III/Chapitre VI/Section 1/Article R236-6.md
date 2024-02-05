@@ -15,3 +15,6 @@ II. – Dans la limite du besoin d'en connaître, en vue de la réalisation d'en
 2° Les agents du service à compétence nationale dénommé “ Commandement spécialisé pour la sécurité nucléaire ”, individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale ;
 
 3° Tout autre agent d'une unité de la gendarmerie nationale ou d'un service de la police nationale, sur demande expresse précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont agréées par les responsables des services mentionnés aux 1°, 2° ou 3° du I.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

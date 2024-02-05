@@ -87,3 +87,6 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 -les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 5° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

@@ -21,3 +21,6 @@ a) Une déclaration sur l'honneur du demandeur selon laquelle il ne fait l'objet
 b) Pour les ressortissants étrangers, un document équivalent au bulletin n° 2 du casier judiciaire.
 
 Tout document rédigé dans une langue étrangère est accompagné de sa traduction en français.
+
+NOTA:
+Conformément au VI de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -7,3 +7,6 @@ Une équipe cynophile de police municipale est constituée au minimum d'un agent
 Une brigade cynophile de police municipale dotée d'au moins cinq chiens doit comprendre un maître-chien entraîneur de police municipale.
 
 Les chiens de la brigade cynophile sont acquis par la commune ou par l'établissement public de coopération intercommunale à fiscalité propre qui en détient la propriété.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

@@ -13,3 +13,6 @@ Les membres désignés aux 2° et 3° de l'article R. 632-2 peuvent donner, par 
 Le directeur du Conseil national des activités privées de sécurité, le contrôleur budgétaire du ministère de l'intérieur et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration, avec voix consultative.
 
 Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président du conseil d'administration et adressé, sans délai, au ministre de l'intérieur.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions sont applicables à compter du 1er septembre 2022.

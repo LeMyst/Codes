@@ -7,3 +7,6 @@ Cet agrément ne dispense pas de l'obtention de l'accord préalable de l'Etat de
 Lorsque la déclaration de transfert concerne des armes à feu ou leurs éléments, elle est transmise au service des douanes avant le jour du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
 
 Un exemplaire des déclarations de transfert de munitions et de leurs éléments est transmis par l'armurier agréé à l'administration avant la réalisation du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
+
+NOTA:
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.

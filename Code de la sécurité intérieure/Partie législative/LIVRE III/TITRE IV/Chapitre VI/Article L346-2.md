@@ -29,3 +29,6 @@ Pour l'application des dispositions énumérées à l'article L. 346-1 :
 "Dans l'enceinte du casino, le capitaine et l'officier chargé de sa suppléance sont garants du bon ordre, de la sûreté et de la sécurité publiques." ;
 
 5° Le 2° de l'article L. 324-14 est supprimé.
+
+NOTA:
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

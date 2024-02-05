@@ -39,3 +39,6 @@ e) Au sein des directions départementales et interdépartementales de la police
 -la direction du renseignement.
 
 II.-Le service placé sous l'autorité du ministère de la justice autorisé à recevoir ou à solliciter communication des informations mentionnées au II de l'article 706-105-1 du code de procédure pénale, au titre de la seule finalité de prévention de la criminalité et de la délinquance organisées mentionnée au 6° de l'article L. 811-3, est le service national du renseignement pénitentiaire.
+
+NOTA:
+Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

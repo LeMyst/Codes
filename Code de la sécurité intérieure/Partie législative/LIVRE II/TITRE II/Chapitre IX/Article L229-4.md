@@ -29,3 +29,14 @@ Ce procès-verbal est présenté à la signature de l'intéressé. Si ce dernier
 Le procès-verbal est transmis au juge des libertés et de la détention, copie en ayant été remise à l'intéressé.
 
 La durée de la retenue s'impute, s'il y a lieu, sur celle de la garde à vue.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.
+
+Conformément à la décision du Conseil constitutionnel n° 2017-695 QPC du 29 mars 2018 :
+
+Article 2 : Sont contraires à la Constitution, les mots " objets, documents et " figurant au premier alinéa du paragraphe I de l’article L. 229-4, dans sa rédaction issue de la loi n° 2017‑1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Article 5 : La déclaration d’inconstitutionnalité de l’article 2 prend effet dans les conditions fixées au paragraphe 73 de cette décision.
+
+En vertu du paragraphe 73, l’abrogation des mots " objets, documents et " figurant au premier alinéa du paragraphe I de l’article L. 229-4 intervient à compter de la date de publication de la décision du Conseil constitutionnel, soit à compter du 29 mars 2018.

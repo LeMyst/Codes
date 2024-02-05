@@ -19,3 +19,6 @@ Préalablement à l'acceptation du sous-traitant dans les conditions prévues à
 Chaque sous-traité comporte la mention de l'identité de l'ensemble des entreprises s'étant vues confier ou sous-traiter la prestation de sécurité sur lequel il porte.
 
 Pour les activités de surveillance humaine ou de gardiennage de biens meubles ou immeubles mentionnées aux 1° et 1° bis de l'article L. 611-1, l'entrepreneur principal ayant contracté avec le donneur d'ordre ne peut, sous sa responsabilité, sous-traiter l'exécution que d'une partie des prestations de son contrat ou marché. L'exécution de ces prestations ne peut être confiée qu'à des sous-traitants de premier et de deuxième rangs.
+
+NOTA:
+Conformément à l'article 14 du décret n° 2022-209 du 18 février 2022, ces dispositions entrent en vigueur le 26 mai 2022.

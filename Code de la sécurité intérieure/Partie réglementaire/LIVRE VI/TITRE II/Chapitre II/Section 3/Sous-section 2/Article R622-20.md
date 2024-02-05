@@ -21,3 +21,6 @@ Le niveau de connaissance de la langue française peut également être justifi�
 5° Si la demande porte sur une autorisation provisoire, une promesse d'embauche de l'employeur conclue dans les conditions définies à l'article L. 622-22;
 
 6° Un justificatif de domicile de moins de trois mois.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-198 du 17 février 2022, ces dispositions entrent en vigueur le 1er mai 2022.

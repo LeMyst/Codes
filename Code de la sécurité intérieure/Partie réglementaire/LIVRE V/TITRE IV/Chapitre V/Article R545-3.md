@@ -55,3 +55,6 @@ b) Au d du 2°, les mots : " de l'article 97 de la loi n° 84-53 du 26 janvier 1
 13° A l'article R. 515-17, les mots : " l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont remplacés par les mots : " l'article 18 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs. " ;
 
 14° Le deuxième alinéa de l'article R. 522-1 est supprimé.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

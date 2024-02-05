@@ -21,3 +21,6 @@ Le salarié peut contester, devant le juge administratif, l'avis de l'autorité 
 Le présent article est applicable aux salariés des employeurs de droit privé, ainsi qu'au personnel des personnes publiques employé dans les conditions du droit privé ou régi par un statut particulier, recrutés ou affectés sur les emplois mentionnés au premier alinéa.
 
 Un décret en Conseil d'Etat fixe la liste des fonctions concernées et détermine les modalités d'application du présent article.
+
+NOTA:
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.

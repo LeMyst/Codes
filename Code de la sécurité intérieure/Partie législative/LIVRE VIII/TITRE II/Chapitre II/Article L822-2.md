@@ -23,3 +23,6 @@ Les paramètres techniques applicables à chaque programme de recherche afin de 
 Les renseignements mentionnés au premier alinéa du présent III sont détruits dès que leur conservation n'est plus indispensable à la validation de capacités techniques de recueil et d'exploitation mentionnées au même premier alinéa, et au plus tard cinq ans après leur recueil.
 
 La Commission nationale de contrôle des techniques de renseignement veille à ce que la mise en œuvre des programmes de recherche respecte les conditions prévues au présent III. Elle peut adresser au Premier ministre, à tout moment, une recommandation tendant à la suspension ou à l'interruption d'un programme de recherche dont elle estime qu'il ne respecte plus ces conditions.
+
+NOTA:
+Conformément au II de l'article 13 de la loi n° 2021-998 du 30 juillet 2021, les dispositions issues du I sont applicables jusqu'au 31 juillet 2025. Le Gouvernement adresse au Parlement un rapport d'évaluation sur l'application de ces dispositions au plus tard six mois avant cette échéance.

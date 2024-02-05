@@ -19,3 +19,6 @@ En cas de saisine d'un tribunal territorialement incompétent, le délai de juge
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public. Lorsque la présence du requérant à l'audience est susceptible de méconnaître les obligations résultant de la mesure de surveillance, le requérant peut solliciter un sauf-conduit pour s'y rendre. Le sauf-conduit n'est pas délivré si le déplacement du requérant constitue une menace pour la sécurité et l'ordre publics.
 
 La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la notification de la décision, ou à compter de la notification de chaque renouvellement lorsqu'il n'a pas été fait préalablement usage de la faculté prévue au huitième alinéa, demander au tribunal administratif l'annulation de cette décision. Le tribunal administratif statue dans un délai de quinze jours à compter de sa saisine. Ces recours, dont les modalités sont fixées au chapitre III ter du titre VII du livre VII du code de justice administrative, s'exercent sans préjudice des procédures prévues au huitième alinéa du présent article ainsi qu'aux articles L. 521-1 et L. 521-2 du même code.
+
+NOTA:
+Se reporter aux dispositions du II de l'article 4 de la loi n° 2021-998 du 30 juillet 2021.

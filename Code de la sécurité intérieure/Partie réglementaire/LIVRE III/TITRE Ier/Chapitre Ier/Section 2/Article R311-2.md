@@ -233,3 +233,6 @@ j bis) Munitions à étui ou culot métallique à percussion centrale chargées 
 k) Matériels de guerre dont le modèle est antérieur au 1er janvier 1946, à l'exception des armes mentionnées au 9° du III, et dont la neutralisation est effectivement garantie par l'application de procédés techniques définis par arrêté du ministre de la défense ;
 
 l) Matériels de guerre dont le modèle est postérieur au 1er janvier 1946 dont la neutralisation est effectivement garantie dans les conditions prévues au k et qui sont énumérés par arrêté du ministre de la défense.
+
+NOTA:
+Conformément au I de l'article 19 du décret n° 2023-557 du 3 juillet 2023, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint du ministre de l'intérieur et du ministre chargé des douanes et au plus tard le 1er septembre 2023. Le II de l'article 3 de l'arrêté du 29 août 2023 (NOR : IOMA2318619A) a fixé la date d'entrée en vigueur au 1er septembre 2023.

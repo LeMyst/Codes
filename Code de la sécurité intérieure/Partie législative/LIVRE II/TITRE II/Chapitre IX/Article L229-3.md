@@ -13,3 +13,6 @@ II.-Le premier président de la cour d'appel de Paris connaît des recours contr
 Le recours est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal de visite. Ce recours n'est pas suspensif.
 
 L'ordonnance du premier président de la cour d'appel de Paris est susceptible d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale. Le délai de pourvoi en cassation est de quinze jours.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

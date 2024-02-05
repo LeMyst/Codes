@@ -5,3 +5,6 @@ Le fait d'utiliser un document d'identité ou de voyage, un titre de séjour ou 
 Le fait pour le titulaire du document d'identité ou de voyage, du titre de séjour ou du document provisoire mentionné au même article L. 431-3 d'avoir sciemment facilité la commission de l'infraction mentionnée au premier alinéa est puni de la même peine.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende lorsque ces infractions sont commises de manière habituelle.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

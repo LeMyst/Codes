@@ -29,3 +29,8 @@ Elle est saisie pour avis des projets d'arrêtés pris en application des articl
 Elle est également consultée sur les demandes d'autorisation présentées en application des articles R. 226-3 et R. 226-7.
 
 Le secrétariat de la commission est assuré par l'Agence nationale de la sécurité des systèmes d'information.
+
+NOTA:
+Décret n° 2009-619 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission consultative chargée d'émettre un avis sur les matériels susceptibles de porter atteinte à l'intimité de la vie privée et au secret des correspondances).
+
+Décret n° 2014-555 du 28 mai 2014 : La Commission consultative chargée d'émettre un avis sur les matériels susceptibles de porter atteinte à l'intimité de la vie privée et au secret des correspondances est prorogée jusqu'au 1er juin 2019.

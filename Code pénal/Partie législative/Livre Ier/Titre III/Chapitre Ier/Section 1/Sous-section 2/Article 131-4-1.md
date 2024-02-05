@@ -11,3 +11,6 @@ La juridiction peut décider que le condamné bénéficiera de mesures d'aide ay
 En cas de non-respect par le condamné de ses obligations, le juge de l'application des peines peut, selon des modalités précisées par le code de procédure pénale, soit limiter ses autorisations d'absence, soit ordonner son emprisonnement pour la durée de la peine restant à exécuter.
 
 La juridiction peut également soumettre le condamné à une ou plusieurs des obligations ou interdictions prévues aux articles 132-44 et 132-45.
+
+NOTA:
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s'exécutent jusqu'à leur terme conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en application de l'article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui sont exercées par le juge de l'application des peines.

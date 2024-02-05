@@ -13,3 +13,6 @@ Il détermine en outre les conditions dans lesquelles :
 3° Sont habilitées les personnes morales de droit privé chargées d'une mission de service public et les associations mentionnées au premier alinéa de l'article 131-8 ;
 
 4° Sont désignées les personnes physiques ou morales chargées de participer à la mise en oeuvre des stages mentionnés à l'article 131-5-1.
+
+NOTA:
+Conformément à l’article 8 de la loi n° 2021-401 du 8 avril 2021, ces dispositions entrent en vigueur à la date fixée par le décret prévu au premier alinéa de l'article 131-36 du code pénal dans sa rédaction résultant de la présente loi, et au plus tard six mois après la publication de la présente loi.

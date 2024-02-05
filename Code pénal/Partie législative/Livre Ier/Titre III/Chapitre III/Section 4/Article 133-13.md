@@ -11,3 +11,6 @@ La réhabilitation est acquise de plein droit à la personne physique condamnée
 Les délais prévus au présent article sont doublés lorsque la personne a été condamnée pour des faits commis en état de récidive légale.
 
 Lorsqu'il s'agit de condamnations assorties en tout ou partie du sursis, du sursis probatoire ou du sursis avec obligation d'accomplir un travail d'intérêt général, les délais de réhabilitation courent, pour chacune de ces condamnations et y compris en cas de condamnations multiples, à compter de la date à laquelle la condamnation est non avenue.
+
+NOTA:
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s’exécutent jusqu’à leur terme conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en application de l’article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui sont exercées par le juge de l’application des peines.

@@ -7,3 +7,6 @@ Les personnes coupables de la contravention prévue au présent article encouren
 1° La peine de stage prévue aux 1°, 4°, 5° ou 7° de l'article 131-5-1 ;
 
 2° Un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2023-277 du 30 mars 2023, ces dispositions entrent en vigueur le 1er avril 2023.

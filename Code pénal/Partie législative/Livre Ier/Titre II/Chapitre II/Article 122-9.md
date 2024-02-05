@@ -5,3 +5,6 @@ N'est pas pénalement responsable la personne qui porte atteinte à un secret pr
 N'est pas non plus pénalement responsable le lanceur d'alerte qui soustrait, détourne ou recèle les documents ou tout autre support contenant les informations dont il a eu connaissance de manière licite et qu'il signale ou divulgue dans les conditions mentionnées au premier alinéa du présent article.
 
 Le présent article est également applicable au complice de ces infractions.
+
+NOTA:
+Conformément à l’article 18 de la loi n° 2022-401 du 21 mars 2022, ces dispositions entrent en vigueur le premier jour du sixième mois suivant sa promulgation.

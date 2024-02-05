@@ -7,3 +7,6 @@ Les mêmes peines sont applicables lorsque la recherche interventionnelle est pr
 Les mêmes peines sont applicables lorsqu'une recherche non interventionnelle est pratiquée alors que la personne s'y est opposée.
 
 Les dispositions du présent article ne sont pas applicables à l'examen des caractéristiques génétiques d'une personne ou à son identification par ses empreintes génétiques effectués à des fins de recherche scientifique.
+
+NOTA:
+Conformément au I de l'article 8 de l'ordonnance n° 2016-800 du 16 juin 2016, ces dispositions entrent en vigueur à compter de la publication des décrets prévus par le code de la santé publique pour son application et au plus tard le 31 décembre 2016.

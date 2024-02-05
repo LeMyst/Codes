@@ -17,3 +17,8 @@ Les personnes physiques coupables de l'un des délits prévus aux articles 313-1
 7° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
 
 Les personnes physiques ou morales coupables du délit prévu à la présente section encourent également la peine complémentaire suivante : interdiction de l'activité de prestataire de formation professionnelle continue au sens de l'article L. 6313-1 du code du travail pour une durée de cinq ans.
+
+NOTA:
+Conformément au IX de l’article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.
+
+Par une décision n°2021-932 QPC du 23 septembre 2021, le Conseil constitutionnel a déclaré contraires à la Constitution le 4° de l'article 313-7 du code pénal, dans sa rédaction résultant de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie. L’abrogation de ces dispositions est toutefois reportée au 31 mars 2022. Les mesures prises avant cette date en application des dispositions déclarées contraires à la Constitution ne peuvent être contestées sur le fondement de cette inconstitutionnalité.

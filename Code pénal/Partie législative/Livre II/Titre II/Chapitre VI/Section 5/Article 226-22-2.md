@@ -7,3 +7,6 @@ Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'entraver l
 2° Soit en refusant de communiquer à ses membres ou aux agents habilités en application du dernier alinéa de l'article 10 de la même loi, ou aux agents d'une autorité de contrôle d'un Etat membre de l'Union européenne en application de l'article 62 du règlement (UE) 2016/679 du 27 avril 2016 précité, les renseignements et documents utiles à leur mission, ou en dissimulant lesdits documents ou renseignements, ou en les faisant disparaître ;
 
 3° Soit en communiquant des informations qui ne sont pas conformes au contenu des enregistrements tel qu'il était au moment où la demande a été formulée ou qui ne présentent pas ce contenu sous une forme directement accessible.
+
+NOTA:
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.

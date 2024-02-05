@@ -15,3 +15,6 @@ I. – Les personnes physiques coupables de l'une des infractions prévues au pr
 II. – En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé de la peine complémentaire d'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation est obligatoire.
 
 Toutefois, la juridiction peut, par une décision spécialement motivée lorsque la condamnation est prononcée par une juridiction correctionnelle, décider de ne pas prononcer cette peine, en considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+NOTA:
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s'exécutent jusqu'à leur terme conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en application de l'article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui sont exercées par le juge de l'application des peines.

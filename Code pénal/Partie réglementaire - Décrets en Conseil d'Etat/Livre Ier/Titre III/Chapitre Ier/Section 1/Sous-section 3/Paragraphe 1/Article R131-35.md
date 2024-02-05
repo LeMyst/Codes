@@ -15,3 +15,6 @@ Le contenu des stages prévus par l'article 131-5-1 est précisé par les dispos
 6° Le contenu du stage de sensibilisation à la lutte contre l'achat d'actes sexuels doit permettre de rappeler au condamné ce que sont les réalités de la prostitution et les conséquences de la marchandisation du corps. Il vise également à lui faire prendre conscience de sa responsabilité pénale et civile pour les faits commis ;
 
 7° Le contenu du stage de lutte contre le sexisme et de sensibilisation à l'égalité entre les femmes et les hommes doit permettre au condamné de prendre conscience de la gravité des conséquences de toute forme de violence sexuelle ou sexiste dans l'espace public comme dans l'espace privé, notamment dans le monde du travail. Le stage a pour objet de favoriser la compréhension des interdits en soulignant le caractère discriminatoire et dégradant pour les victimes des comportements sexistes. Il comporte notamment des éléments sur l'histoire du mouvement d'émancipation des femmes et du principe républicain d'égalité.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2020-128 du 19 février 2020, ces dispositions entrent en vigueur le 24 mars 2020.

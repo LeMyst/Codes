@@ -4,8 +4,7 @@ Les personnes physiques coupables des infractions prévues au présent chapitre 
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 
-2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 321-2 et 321-4 et pour une durée de cinq ans au plus dans les cas prévus aux articles 321-1,321-6,
-321-7 et 321-8, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, cette interdiction étant définitive ou provisoire dans les cas prévus aux articles 321-2 et 321-4 et pour une durée de cinq ans au plus dans les cas prévus aux articles 321-1,321-6, 321-7 et 321-8, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ;
 
 3° La fermeture des établissements ou de l'un ou de plusieurs des établissements de l'entreprise ayant servi à commettre les faits incriminés, cette fermeture étant définitive ou temporaire dans les cas prévus aux articles 321-2 et 321-4 et pour une durée de cinq ans au plus dans les cas prévus aux articles 321-1,321-6,321-7 et 321-8 ;
 
@@ -20,3 +19,6 @@ Les personnes physiques coupables des infractions prévues au présent chapitre 
 8° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus aux articles 321-1 à 321-4 ;
 
 9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+
+NOTA:
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s'exécutent jusqu'à leur terme conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en application de l'article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui sont exercées par le juge de l'application des peines.

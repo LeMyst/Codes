@@ -55,3 +55,6 @@ La juridiction de condamnation ou le juge de l'application des peines peut impos
 24° L'obligation de justifier du paiement régulier des impôts ;
 
 25° L'obligation de justifier de la tenue d'une comptabilité régulière certifiée par un commissaire aux comptes.
+
+NOTA:
+Conformément à l’article 8 de la loi n° 2021-401 du 8 avril 2021, ces dispositions entrent en vigueur à la date fixée par le décret prévu au premier alinéa de l'article 131-36 du code pénal dans sa rédaction résultant de la présente loi, et au plus tard six mois après la publication de la présente loi.

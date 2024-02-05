@@ -9,3 +9,6 @@ Le directeur du service pénitentiaire d'insertion et de probation ou son repré
 Lorsque la personne a été condamnée pour un délit prévu par le code de la route ou sur le fondement des articles 221-6-1,222-19-1,222-20-1 et 434-10, elle accomplit de préférence la peine de travail d'intérêt général dans un des établissements spécialisés dans l'accueil des blessés de la route.
 
 Au cours du délai prévu par le présent article, le condamné doit satisfaire aux mesures de contrôle déterminées à l'article 132-44.
+
+NOTA:
+Conformément à l’article 8 de la loi n° 2021-401 du 8 avril 2021, ces dispositions entrent en vigueur à la date fixée par le décret prévu au premier alinéa de l'article 131-36 du code pénal dans sa rédaction résultant de la présente loi, et au plus tard six mois après la publication de la présente loi.

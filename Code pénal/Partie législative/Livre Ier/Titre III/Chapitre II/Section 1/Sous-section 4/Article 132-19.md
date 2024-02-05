@@ -7,3 +7,6 @@ Toute peine d'emprisonnement sans sursis ne peut être prononcée qu'en dernier 
 Dans ce cas, si la peine est inférieure ou égale à six mois, elle doit, sauf impossibilité résultant de la personnalité ou de la situation du condamné, faire l'objet d'une des mesures d'aménagement prévues à l'article 132-25. Dans les autres cas prévus au même article 132-25, elle doit également être aménagée si la personnalité et la situation du condamné le permettent, et sauf impossibilité matérielle.
 
 Le tribunal doit spécialement motiver sa décision, au regard des faits de l'espèce et de la personnalité de leur auteur ainsi que de sa situation matérielle, familiale et sociale conformément aux dispositions de l'article 464-2 du code de procédure pénale.
+
+NOTA:
+Conformément à l’article 109, XIX de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s'exécutent jusqu'à leur terme conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en application de l'article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui sont exercées par le juge de l'application des peines.

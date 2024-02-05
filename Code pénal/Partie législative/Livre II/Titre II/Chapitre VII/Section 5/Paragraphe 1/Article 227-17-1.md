@@ -5,3 +5,6 @@ Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l
 Le fait, pour un directeur d'établissement privé accueillant des classes hors contrat ou son représentant légal, de n'avoir pas pris, malgré la mise en demeure des autorités compétentes de l'Etat, les dispositions nécessaires pour remédier aux manquements relevés est puni d'un an d'emprisonnement et de 15 000 euros d'amende. En outre, le tribunal peut prononcer à l'encontre de ce directeur ou de son représentant légal la peine complémentaire d'interdiction de diriger ou d'enseigner.
 
 Le fait de ne pas procéder à la fermeture des classes ou de l'établissement faisant l'objet d'une mesure de fermeture prononcée en application des IV ou V de l'article L. 442-2 ou de l'article L. 441-3-1 du code de l'éducation ou de faire obstacle à l'exécution d'une telle mesure est puni d'un an d'emprisonnement et de 75 000 euros d'amende.
+
+NOTA:
+Se reporter aux conditions d'application prévues au II de l'article 55 de la loi n° 2021-1109 du 24 août 2021.

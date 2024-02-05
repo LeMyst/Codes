@@ -11,3 +11,6 @@ L'article 511-3 est ainsi rédigé :
 " En cas d'urgence, le consentement est recueilli par tout moyen par le procureur de la République.
 
 " Le comité médical s'assure que le mineur a été informé du prélèvement envisagé en vue d'exprimer sa volonté, si celui-ci y est apte. Le refus du mineur fait obstacle au prélèvement. "
+
+NOTA:
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

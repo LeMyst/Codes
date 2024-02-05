@@ -25,3 +25,8 @@ Les personnes physiques coupables des infractions définies aux articles 324-1 e
 11° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
 
 12° La confiscation de tout ou partie des biens du condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.
+
+NOTA:
+Conformément au IX de l’article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.
+
+Par une décision n°2021-932 QPC du 23 septembre 2021, le Conseil constitutionnel a déclaré contraires à la Constitution le 8° de l'article 324-7 de ce même code, dans sa rédaction résultant de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique. L’abrogation de ces dispositions est toutefois reportée au 31 mars 2022. Les mesures prises avant cette date en application des dispositions déclarées contraires à la Constitution ne peuvent être contestées sur le fondement de cette inconstitutionnalité.

@@ -13,3 +13,6 @@ Le montant de l'amende est le suivant :
 4° 750 euros au plus pour les contraventions de la 4e classe ;
 
 5° 1 500 euros au plus pour les contraventions de la 5e classe, montant qui peut être porté à 3 000 euros en cas de récidive lorsque le règlement le prévoit, hors les cas où la loi prévoit que la récidive de la contravention constitue un délit.
+
+NOTA:
+Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à cette date demeurent de la compétence de ces juridictions.

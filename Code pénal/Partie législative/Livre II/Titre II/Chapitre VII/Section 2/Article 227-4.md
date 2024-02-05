@@ -5,3 +5,6 @@ Est puni de six mois d'emprisonnement et de 7 500 euros d'amende le fait, par un
 1° De ne pas notifier son changement de domicile au créancier ou, lorsque le versement de la pension fait l'objet d'une intermédiation financière dans les conditions prévues aux II et III de l'article 373-2-2 du code civil et à l'article L. 582-1 du code de la sécurité sociale, à l'organisme débiteur des prestations familiales, dans un délai d'un mois à compter de ce changement ;
 
 2° Lorsque le versement de la pension fait l'objet d'une intermédiation financière dans les conditions prévues aux II et III de l'article 373-2-2 du code civil et à l'article L. 582-1 du code de la sécurité sociale, de s'abstenir de transmettre à l'organisme débiteur des prestations familiales les informations nécessaires à l'instruction et à la mise en œuvre de l'intermédiation financière et de s'abstenir d'informer cet organisme de tout changement de situation ayant des conséquences sur cette mise en œuvre.
+
+NOTA:
+Conformément au B du X de l'article 100 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

@@ -21,3 +21,6 @@ II. – La peine prévue au I comporte l'obligation de mettre en œuvre les mesu
 III. – Lorsque le tribunal prononce la peine prévue au I du présent article, les frais occasionnés par le recours par l'Agence française anticorruption à des experts ou à des personnes ou autorités qualifiées pour l'assister dans la réalisation d'analyses juridiques, financières, fiscales et comptables sont supportés par la personne morale condamnée, sans que le montant de ces frais ne puisse excéder le montant de l'amende encourue pour le délit au titre duquel cette peine est prononcée.
 
 Un décret en Conseil d'Etat précise les règles déontologiques applicables à ces experts et à ces personnes ou autorités qualifiées.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

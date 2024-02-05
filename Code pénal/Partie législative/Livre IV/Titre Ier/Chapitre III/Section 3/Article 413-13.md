@@ -9,3 +9,6 @@ Lorsque cette révélation a causé la mort de ces personnes ou de leur conjoint
 La révélation, commise par imprudence ou par négligence, par une personne dépositaire soit par état ou profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, de l'information mentionnée au premier alinéa est punie de trois ans d'emprisonnement et de 45 000 € d'amende.
 
 Le présent article est applicable à la révélation de toute information qui pourrait conduire, directement ou indirectement, à l'identification réelle ou supposée d'une personne comme source ou collaborateur d'un service mentionné au premier alinéa du présent article.
+
+NOTA:
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.

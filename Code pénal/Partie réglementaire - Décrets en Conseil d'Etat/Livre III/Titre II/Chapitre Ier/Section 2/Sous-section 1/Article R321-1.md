@@ -7,3 +7,8 @@ En l'absence d'établissement fixe ouvert au public, le lieu du domicile ou, à 
 La déclaration comporte les indications suivantes : nom et prénoms du déclarant ; date et lieu de naissance ; nationalité ; lieu d'exercice habituel de la profession ; statut de l'entreprise ainsi que le numéro unique d'identification.
 
 Il est remis un récépissé de déclaration qui doit être présenté à toute réquisition des services de police et de gendarmerie, des services fiscaux, des douanes ainsi que des services de la concurrence, de la consommation et de la répression des fraudes.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

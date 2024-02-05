@@ -1,0 +1,1 @@
+Sous-section 6 : Autorisations d'absence et crédit de temps syndical accordés aux organisations syndicales représentatives des personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural et de la pêche maritime

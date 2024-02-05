@@ -1,0 +1,1 @@
+Sous-section 3 : Ressortissants français ou ressortissants d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, titulaires d'un diplôme, certificat ou titre de vétérinaire émanant d'un pays tiers.

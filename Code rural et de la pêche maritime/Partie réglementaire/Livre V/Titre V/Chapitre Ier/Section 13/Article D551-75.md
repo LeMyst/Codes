@@ -1,0 +1,3 @@
+# Article D551-75
+
+Lorsque l'organisation de producteurs exerce une mission de planification de la production, d'optimisation des coûts de production, de mise en marché ou de négociation des contrats concernant l'offre de produits agricoles, au nom de ses membres, les producteurs membres apportent la totalité de la production couverte par des contrats de multiplication de semences pour les espèces végétales concernées par leurs adhésions à l'organisation de producteurs, à l'exception des volumes engagés auprès d'une société coopérative agricole non reconnue en qualité d'organisation de producteurs dans le secteur des semences végétales ou entrant dans le champ de l'article 1-1 du décret n° 81-605.

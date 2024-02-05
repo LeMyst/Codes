@@ -1,0 +1,1 @@
+Section 3 : Dispositions applicables aux organisations de producteurs et aux associations d'organisations de producteurs reconnues dans les secteurs de l'élevage en vue de la production de viande et dans le secteur de la reproduction animale

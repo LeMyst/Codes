@@ -1,0 +1,1 @@
+Section 7 : Représentation des organisations professionnelles d'exploitants agricoles au sein de certains organismes ou commissions en fonction de leurs résultats aux élections aux chambres d'agriculture

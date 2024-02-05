@@ -1,0 +1,5 @@
+# Article D343-25-2
+
+Les aides mentionnées aux 1°, 2° et 3° de l'article D. 343-25-1 sont octroyées aux jeunes agriculteurs au sens de l'article D. 614-2 qui présentent un plan d'entreprise d'une durée de cinq ans comprenant notamment une description du projet, des données technico-économiques prévisionnelles, de la forme juridique de l'exploitation, et, dans le cas d'une installation sous forme sociétaire, la précision du capital social détenu par le porteur de projet. Le plan d'entreprise expose par ailleurs l'ensemble des démarches concourant à la viabilité et la durabilité du projet d'installation. Les critères permettant de définir la viabilité et la durabilité du projet d'installation du jeune agriculteur sont définis par arrêté préfectoral, lequel prend en compte, notamment, le type d'installation, leur localisation et les particularités des filières agricoles.
+
+Le préfet peut prévoir que le niveau de diplôme requis peut être acquis progressivement au cours de l'installation, dans le cadre de la mise en œuvre du plan d'entreprise.

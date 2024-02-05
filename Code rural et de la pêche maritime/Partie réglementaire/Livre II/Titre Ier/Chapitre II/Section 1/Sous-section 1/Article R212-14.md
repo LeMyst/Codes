@@ -1,0 +1,3 @@
+# Article R212-14
+
+L'agrément mentionné à l'article L. 212-2 est délivré, après avis du Conseil national d'orientation de la politique sanitaire animale et végétale, siégeant dans sa section spécialisée dans la santé animale prévue par l'article D. 200-3, à des personnes répondant aux conditions d'aptitude, d'expérience et de compétences techniques nécessaires à la tenue d'un fichier nominatif, à l'issue d'un appel à candidatures. Cet appel à candidatures est publié au Bulletin officiel du ministère chargé de l'agriculture, accompagné d'un cahier des charges détaillant les missions confiées et les modalités de leur mise en œuvre, arrêté par le ministre chargé de l'agriculture

@@ -1,0 +1,3 @@
+# Article D732-163
+
+Les comptes annuels relatifs aux opérations du régime établis par les caisses de mutualité sociale agricole sont communiqués au ministre chargé de l'agriculture dans le délai prescrit à l'article R. 114-6-1 du code de la sécurité sociale. Les comptes annuels relatifs aux opérations du régime établis par la caisse centrale de la Mutualité sociale agricole, y compris ceux afférents au fonds de réserve, sont communiqués respectivement au ministre chargé de l'agriculture et aux autres services de l'Etat dans les conditions définies à l'article D. 114-4-2 du code de la sécurité sociale.

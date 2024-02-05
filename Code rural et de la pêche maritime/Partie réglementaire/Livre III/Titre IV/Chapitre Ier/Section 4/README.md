@@ -1,0 +1,1 @@
+Section 4 : Les paiements agroenvironnementaux et climatiques, les aides en faveur de l'agriculture biologique et les paiements au titre de Natura 2000 et de la directive cadre sur l'eau au titre de la programmation de la politique agricole commune ayant débuté en 2014

@@ -1,0 +1,1 @@
+Sous-section 3 : Règles d'éligibilité des aides du Fonds européen agricole pour le développement rural ne relevant pas du système intégré du système intégré de gestion et de contrôle pour la mise en œuvre du plan stratégique national de la politique agricole commune débutant en 2023 en l'absence d'autorité de gestion régionale

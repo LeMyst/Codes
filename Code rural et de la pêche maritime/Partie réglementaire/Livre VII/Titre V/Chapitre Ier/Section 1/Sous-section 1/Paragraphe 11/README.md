@@ -1,0 +1,1 @@
+Paragraphe 11 : Personnes bénéficiaires d'indemnités journalières en application des articles L. 732-4, L. 742-3, L. 751-8 et L. 752-5 et menant les actions mentionnées au 13° du II de l'article L. 751-1

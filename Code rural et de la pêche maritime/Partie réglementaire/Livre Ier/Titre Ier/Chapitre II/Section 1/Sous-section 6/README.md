@@ -1,0 +1,1 @@
+Sous-section 6 : Réduction substantielle des surfaces affectées à des productions bénéficiant d'une appellation d'origine protégée et atteinte substantielle aux conditions de production de l'appellation

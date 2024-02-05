@@ -11,3 +11,6 @@ L'acte d'opposition est signé, sur l'original et sur la copie, par l'opposant e
 L'officier de l'état civil fait sans délai une mention sommaire de l'opposition sur le registre de l'état civil. Il mentionne également en marge de l'inscription de ladite opposition les éventuelles décisions de mainlevée dont expédition lui a été remise. L'auteur de la reconnaissance en est informé sans délai.
 
 En cas d'opposition, l'officier de l'état civil ne peut, sous peine de l'amende prévue à l'article 68, enregistrer la reconnaissance ou la mentionner sur l'acte de naissance de l'enfant, sauf si une expédition de la mainlevée de l'opposition lui a été remise.
+
+NOTA:
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui sont postérieures à cette date.

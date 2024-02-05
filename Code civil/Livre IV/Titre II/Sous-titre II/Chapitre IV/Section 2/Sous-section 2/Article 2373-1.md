@@ -3,3 +3,6 @@
 Les créances garanties et les créances cédées sont désignées dans l'acte.
 
 Si elles sont futures, l'acte doit permettre leur individualisation ou contenir des éléments permettant celle-ci tels que l'indication du débiteur, le lieu de paiement, le montant des créances ou leur évaluation et, s'il y a lieu, leur échéance.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

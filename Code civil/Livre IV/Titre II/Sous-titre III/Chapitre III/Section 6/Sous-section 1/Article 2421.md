@@ -5,3 +5,6 @@ Sont inscrites au service chargé de la publicité foncière de la situation des
 L'inscription qui n'est jamais faite d'office par ce service, ne peut avoir lieu que pour une somme et sur des immeubles déterminés, dans les conditions fixées par l'article 2423.
 
 En toute hypothèse, les immeubles sur lesquels l'inscription est requise doivent être individuellement désignés, avec indication de la commune où ils sont situés, à l'exclusion de toute désignation générale, même limitée à une circonscription territoriale donnée.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

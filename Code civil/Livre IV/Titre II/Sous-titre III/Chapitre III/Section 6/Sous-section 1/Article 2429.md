@@ -9,3 +9,6 @@ Si l'échéance ou la dernière échéance est indéterminée, notamment dans le
 Si l'échéance ou la dernière échéance est antérieure ou concomitante à l'inscription, la durée de l'inscription est au plus de dix années au jour de la formalité.
 
 Lorsque la sûreté garantit plusieurs créances et que celles-ci sont telles que plusieurs des trois alinéas précédents sont applicables, le créancier peut requérir soit, pour chacune d'elles, des inscriptions distinctes, soit une inscription unique pour l'ensemble jusqu'à la date la plus éloignée. Il en est de même lorsque le premier de ces trois alinéas étant seul applicable, les différentes créances ne comportent pas les mêmes échéances ou dernières échéances.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -19,3 +19,8 @@ L'administrateur légal ne peut, sans l'autorisation préalable du juge des tute
 8° Procéder à la réalisation d'un acte portant sur des valeurs mobilières ou instruments financiers au sens de l'article L. 211-1 du code monétaire et financier, si celui-ci engage le patrimoine du mineur pour le présent ou l'avenir par une modification importante de son contenu, une dépréciation significative de sa valeur en capital ou une altération durable des prérogatives du mineur.
 
 L'autorisation détermine les conditions de l'acte et, s'il y a lieu, le prix ou la mise à prix pour lequel l'acte est passé.
+
+NOTA:
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.

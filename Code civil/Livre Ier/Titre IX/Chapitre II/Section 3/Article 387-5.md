@@ -13,3 +13,6 @@ Si l'importance et la composition du patrimoine du mineur le justifient, le juge
 Une copie des comptes de gestion est remise au mineur âgé de seize ans révolus.
 
 L'action en reddition de comptes, en revendication ou en paiement se prescrit par cinq ans à compter de la majorité de l'intéressé.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

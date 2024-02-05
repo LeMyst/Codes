@@ -9,3 +9,6 @@ En cas d'adoption par deux époux, partenaires liés par un pacte civil de solid
 Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. En cas d'adoption par deux personnes, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui de l'un d'eux, soit leurs deux noms accolés dans l'ordre choisi par eux et dans la limite d'un seul nom pour chacun d'eux. Cette demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement personnel est requis.
 
 Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant. Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+
+NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1292 du 5 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

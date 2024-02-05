@@ -7,3 +7,6 @@ A l'égard des enfants mineurs, cette faculté est mise en œuvre par les deux p
 En outre, le parent qui n'a pas transmis son nom de famille peut adjoindre celui-ci, à titre d'usage, au nom de l'enfant mineur. Cette adjonction se fait dans la limite du premier nom de famille de chacun des parents. Il en informe préalablement et en temps utile l'autre parent exerçant l'autorité parentale. Ce dernier peut, en cas de désaccord, saisir le juge aux affaires familiales, qui statue selon ce qu'exige l'intérêt de l'enfant.
 
 Dans tous les cas, si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+
+NOTA:
+Conformément à l'article 5 de la loi n° 2022-301 du 2 mars 2022, ces dispositions entrent en vigueur le 1er juillet 2022.

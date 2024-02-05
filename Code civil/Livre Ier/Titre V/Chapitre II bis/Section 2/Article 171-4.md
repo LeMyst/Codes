@@ -5,3 +5,6 @@ Lorsque des indices sérieux laissent présumer que le mariage envisagé encourt
 Le procureur de la République peut, dans le délai de deux mois à compter de la saisine, faire connaître par une décision motivée, à l'autorité diplomatique ou consulaire du lieu où la célébration du mariage est envisagée et aux intéressés, qu'il s'oppose à cette célébration.
 
 La mainlevée de l'opposition peut être demandée, à tout moment, devant le tribunal judiciaire conformément aux dispositions des articles 177 et 178 par les futurs époux, même mineurs.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

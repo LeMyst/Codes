@@ -25,3 +25,6 @@ Outre celles prévues par des lois spéciales, les créances privilégiées sur 
 -les indemnités dues, le cas échéant, aux salariés, en application des articles L. 1226-15, L. 1226-20, L. 1226-21, L. 1235-2 à L. 1235-4, L. 1235-11, L. 1235-12, L. 1235-14 et L. 1243-4 du code du travail ;
 
 4° Pendant la dernière année, les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat-type homologué.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

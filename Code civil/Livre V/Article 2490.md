@@ -21,3 +21,10 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 9° " Inscription au service chargé de la publicité foncière " par : " inscription au livre foncier " ;
 
 10° " Fichier immobilier " par : " livre foncier ".
+
+NOTA:
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+
+Conformément aux dispositions de l'article 35 de l'ordonnance n° 2019-964 du 18 septembre 2019, dans toutes les dispositions législatives en vigueur, les mots : "tribunal de grande instance" sont remplacés par les mots : "tribunal judiciaire", les mots : "tribunal d'instance" sont remplacés par les mots : "tribunal judiciaire", les mots : "juge d'instance" sont remplacés par les mots : "juge du tribunal judiciaire".
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

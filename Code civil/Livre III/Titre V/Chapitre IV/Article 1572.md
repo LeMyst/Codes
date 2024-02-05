@@ -7,3 +7,6 @@ La consistance du patrimoine final est prouvée par un état descriptif, même s
 La preuve que le patrimoine final aurait compris d'autres biens peut être rapportée par tous les moyens, même par témoignages et présomptions.
 
 Chacun des époux peut, quant aux biens de l'autre, requérir l'apposition des scellés et l'inventaire suivant les règles prévues au code de procédure civile.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

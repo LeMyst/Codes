@@ -9,3 +9,6 @@ L'adoption plénière de l'enfant du conjoint, du partenaire lié par un pacte c
 3° Lorsque l'autre parent que le conjoint, partenaire lié par un pacte civil de solidarité ou concubin s'est vu retirer totalement l'autorité parentale ;
 
 4° Lorsque l'autre parent que le conjoint, partenaire lié par un pacte civil de solidarité ou concubin est décédé et n'a pas laissé d'ascendants au premier degré ou lorsque ceux-ci se sont manifestement désintéressés de l'enfant.
+
+NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1292 du 5 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

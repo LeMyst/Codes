@@ -7,3 +7,8 @@ Lorsqu'un contrat est conclu avec un tiers en violation d'un pacte de préféren
 Le tiers peut demander par écrit au bénéficiaire de confirmer dans un délai qu'il fixe et qui doit être raisonnable, l'existence d'un pacte de préférence et s'il entend s'en prévaloir.
 
 L'écrit mentionne qu'à défaut de réponse dans ce délai, le bénéficiaire du pacte ne pourra plus solliciter sa substitution au contrat conclu avec le tiers ou la nullité du contrat.
+
+NOTA:
+Conformément à l'article 9 de l'ordonnance n° 2016-131 du 10 février 2016, modifié par l'article 16 de la loi n° 2018-287 du 20 avril 2018, les présentes dispositions entreront en vigueur le 1er octobre 2016. Les contrats conclus avant cette date demeurent soumis à la loi ancienne, y compris pour leurs effets légaux et pour les dispositions d'ordre public.
+
+Toutefois, les dispositions des troisième et quatrième alinéas du présent article sont applicables dès l'entrée en vigueur de ladite ordonnance.

@@ -7,3 +7,6 @@ Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom de famille
 Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté conservera son nom d'origine.
 
 Sur la demande de l'adoptant, le tribunal peut modifier les prénoms de l'enfant. Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+
+NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1292 du 5 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

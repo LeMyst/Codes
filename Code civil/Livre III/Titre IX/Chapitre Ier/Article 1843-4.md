@@ -7,3 +7,6 @@ L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règle
 II. – Dans les cas où les statuts prévoient la cession des droits sociaux d'un associé ou le rachat de ces droits par la société sans que leur valeur soit ni déterminée ni déterminable, celle-ci est déterminée, en cas de contestation, par un expert désigné dans les conditions du premier alinéa.
 
 L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur prévues par toute convention liant les parties.
+
+NOTA:
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes introduites à compter du 1er janvier 2020.

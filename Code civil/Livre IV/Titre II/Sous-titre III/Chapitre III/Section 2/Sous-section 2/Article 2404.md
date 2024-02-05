@@ -9,3 +9,6 @@ Le titulaire de la créance visée au 7° de l'article 2402 conserve son hypoth�
 Pour les créances nées de l'application du chapitre Ier du titre Ier du livre V ou de l'article L. 521-3-2 du code de la construction et de l'habitation lorsque la démolition du bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, l'hypothèque prend rang à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur, à compter de la première inscription et à compter de la deuxième inscription pour la fraction du montant du titre de recouvrement qui serait supérieure au montant résultant de la première inscription.
 
 Pour les autres créances, l'hypothèque est conservée à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

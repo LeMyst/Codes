@@ -5,3 +5,6 @@ Les conditions de l'adoption sont soumises à la loi nationale de l'adoptant ou,
 L'adoption d'un mineur étranger ne peut être prononcée si sa loi nationale prohibe cette institution, sauf si ce mineur est né et réside habituellement en France.
 
 Quelle que soit la loi applicable, l'adoption requiert le consentement du représentant légal de l'enfant dans les conditions définies au premier alinéa de l'article 348-3.
+
+NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1292 du 5 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

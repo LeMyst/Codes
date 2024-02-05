@@ -17,3 +17,6 @@ Outre celles prévues par des lois spéciales, les créances auxquelles une hypo
 7° Celles du Trésor public, dans les conditions fixées par le livre des procédures fiscales ;
 
 8° Celles des caisses de sécurité sociale, dans les conditions fixées par le code de la sécurité sociale.
+
+NOTA:
+Conformément au I de l’article 29 de l’ordonnance n° 2022-408 du 23 mars 2022, ces dispositions sont applicables à compter du 1er janvier 2023. Se reporter aux modalités d’application prévues au II dudit article.

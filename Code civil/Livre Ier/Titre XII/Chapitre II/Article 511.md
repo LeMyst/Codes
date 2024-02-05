@@ -9,3 +9,6 @@ Le directeur des services de greffe judiciaires peut être assisté dans sa miss
 Le juge peut décider que la mission de vérification et d'approbation des comptes dévolue au directeur des services de greffe judiciaires sera exercée par le subrogé tuteur.
 
 Si les ressources du mineur le permettent et si l'importance et la composition de son patrimoine le justifient, le juge peut décider que la mission de vérification et d'approbation sera exercée, aux frais du mineur et selon les modalités qu'il fixe, par un professionnel qualifié.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

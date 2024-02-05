@@ -7,3 +7,6 @@ Si l'enfant est âgé de plus de treize ans, son consentement personnel est requ
 La décision de changement de prénom est inscrite sur le registre de l'état civil.
 
 S'il estime que la demande ne revêt pas un intérêt légitime, en particulier lorsqu'elle est contraire à l'intérêt de l'enfant ou aux droits des tiers à voir protéger leur nom de famille, l'officier de l'état civil saisit sans délai le procureur de la République. Il en informe le demandeur. Si le procureur de la République s'oppose à ce changement, le demandeur, ou son représentant légal, peut alors saisir le juge aux affaires familiales.
+
+NOTA:
+Conformément à l'article 5 de la loi n° 2022-301 du 2 mars 2022, ces dispositions entrent en vigueur le 1er juillet 2022.

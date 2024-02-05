@@ -5,3 +5,6 @@ Les père et mère qui ont fait l'objet d'un retrait total de l'autorité parent
 La demande en restitution ne pourra être formée qu'un an au plus tôt après que le jugement prononçant le retrait total ou partiel de l'autorité parentale est devenu irrévocable ; en cas de rejet, elle ne pourra être renouvelée qu'après une nouvelle période d'un an. Aucune demande ne sera recevable lorsque, avant le dépôt de la requête, l'enfant aura été placé en vue de l'adoption.
 
 Si la restitution est accordée, le ministère public requerra, le cas échéant, des mesures d'assistance éducative.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

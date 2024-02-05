@@ -5,3 +5,6 @@ Le créancier professionnel est tenu, avant le 31 mars de chaque année et à se
 Le créancier professionnel est tenu, à ses frais et sous la même sanction, de rappeler à la caution personne physique le terme de son engagement ou, si le cautionnement est à durée indéterminée, sa faculté de résiliation à tout moment et les conditions dans lesquelles celle-ci peut être exercée.
 
 Le présent article est également applicable au cautionnement souscrit par une personne morale envers un établissement de crédit ou une société de financement en garantie d'un concours financier accordée à une entreprise.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022, y compris aux cautionnements et aux sûretés réelles pour autrui constitués antérieurement.

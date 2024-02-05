@@ -7,3 +7,6 @@ L'inscription pourra être prise avant la dissolution du régime matrimonial, ma
 En cas de liquidation anticipée, l'inscription antérieure à la demande a effet du jour de celle-ci, l'inscription postérieure n'ayant effet que de sa date ainsi qu'il est dit à l'article 2418.
 
 L'inscription pourra également être prise dans l'année qui suivra la dissolution du régime matrimonial ; elle aura alors effet de sa date.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

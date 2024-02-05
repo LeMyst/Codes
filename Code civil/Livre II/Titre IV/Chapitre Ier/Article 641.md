@@ -13,3 +13,6 @@ Les maisons, cours, jardins, parcs et enclos attenant aux habitations ne peuvent
 Les contestations auxquelles peuvent donner lieu l'établissement et l'exercice des servitudes prévues par ces paragraphes et le règlement, s'il y a lieu, des indemnités dues aux propriétaires des fonds inférieurs sont portées, en premier ressort, devant le juge du tribunal judiciaire du canton qui, en prononçant, doit concilier les intérêts de l'agriculture et de l'industrie avec le respect dû à la propriété.
 
 S'il y a lieu à expertise, il peut n'être nommé qu'un seul expert.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

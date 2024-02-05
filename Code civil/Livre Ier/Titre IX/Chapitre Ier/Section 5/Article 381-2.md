@@ -11,3 +11,6 @@ Le délaissement parental peut être déclaré à l'endroit des deux parents ou 
 Lorsqu'il déclare l'enfant délaissé, le tribunal délègue par la même décision l'autorité parentale sur l'enfant à la personne, à l'établissement ou au service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant ou à qui ce dernier a été confié.
 
 La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

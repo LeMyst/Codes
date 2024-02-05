@@ -9,3 +9,6 @@ Chaque année, une reproduction des registres clôturés pendant l'année préc�
 Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
 
 Un décret déterminera les modalités d'application du présent article et, notamment, les procédés techniques susceptibles d'être employés pour l'établissement de la reproduction à déposer au greffe.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

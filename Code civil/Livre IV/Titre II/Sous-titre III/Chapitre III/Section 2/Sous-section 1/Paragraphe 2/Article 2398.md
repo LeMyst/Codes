@@ -7,3 +7,6 @@ Au cours de la tutelle, le conseil de famille ou, à défaut, le juge peut toujo
 Au cas d'administration légale des biens du mineur, le juge des tutelles, statuant soit d'office, soit à la requête d'un parent ou allié ou du ministère public, peut pareillement décider qu'une inscription sera prise sur les immeubles de l'administrateur légal, ou que celui-ci devra constituer un gage ou un nantissement.
 
 Les inscriptions prévues par le présent article sont prises à la requête du greffier du juge des tutelles, et les frais en sont imputés au compte de la tutelle.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -7,3 +7,6 @@ Le consentement donné au projet de nantissement emporte agrément du cessionnai
 Chaque associé peut se substituer à l'acquéreur dans un délai de cinq jours francs à compter de la vente. Si plusieurs associés exercent cette faculté, ils sont, sauf clause ou convention contraire, réputés acquéreurs à proportion du nombre de parts qu'ils détenaient antérieurement. Si aucun associé n'exerce cette faculté, la société peut racheter les parts elle-même, en vue de leur annulation.
 
 La notification prévue au deuxième alinéa ainsi que le troisième alinéa ne sont pas applicables au nantissement réalisé en application de l'article 2348.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

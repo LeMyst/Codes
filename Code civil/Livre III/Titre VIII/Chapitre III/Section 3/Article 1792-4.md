@@ -7,3 +7,6 @@ Sont assimilés à des fabricants pour l'application du présent article :
 Celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ;
 
 Celui qui l'a présenté comme son oeuvre en faisant figurer sur lui son nom, sa marque ou tout autre signe distinctif.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

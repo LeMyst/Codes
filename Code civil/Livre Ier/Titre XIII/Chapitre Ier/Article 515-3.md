@@ -13,3 +13,8 @@ Lorsque la convention de pacte civil de solidarité est passée par acte notari�
 La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée à l'officier de l'état civil ou au notaire qui a reçu l'acte initial afin d'y être enregistrée.
 
 A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de nationalité française et les formalités prévues aux troisième et cinquième alinéas sont assurés par les agents diplomatiques et consulaires français ainsi que celles requises en cas de modification du pacte.
+
+NOTA:
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à compter de cette date.
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à l'enregistrement du pacte civil de solidarité.

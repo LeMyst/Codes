@@ -7,3 +7,6 @@ Toutefois, lorsque l'altération des facultés personnelles de l'intéressé dé
 Le juge peut, à tout moment, mettre fin à la mesure, la modifier ou lui substituer une autre mesure prévue au présent titre, après avoir recueilli l'avis de la personne chargée de la mesure de protection.
 
 Il statue d'office ou à la requête d'une des personnes mentionnées à l'article 430, au vu d'un certificat médical et dans les conditions prévues à l'article 432. Il ne peut toutefois renforcer le régime de protection de l'intéressé que s'il est saisi d'une requête en ce sens satisfaisant aux articles 430 et 431.
+
+NOTA:
+Se reporter aux dispositions de l'article 26 de la loi n° 2015-177 du 16 février 2015 en ce qui concerne les conditions d'application des dispositions de l'article 442 dans sa version issue du 6° du II de l'article 1er de ladite loi, aux mesures de tutelle et de curatelle.

@@ -9,3 +9,6 @@ Si des formalités concurrentes, obligatoires en vertu des 1°, à l'exclusion d
 Lorsqu'une formalité de nature à produire des effets opposables aux tiers en vertu de l'article 2528 et la publicité d'un commandement valant saisie sont requises le même jour relativement au même immeuble, le rang des formalités est réglé, quel que soit l'ordre des dépôts enregistrés, d'après les dates, d'une part, du titre exécutoire mentionné dans le commandement, d'autre part, du titre de la formalité concurrente ; lorsque les titres sont de la même date, la publicité du commandement valant saisie est réputée d'un rang préférable.
 
 En toute hypothèse, les inscriptions des hypothèques légales prévues par les articles 2393 (1°, 2° et 3°) et 2402 (5°) sont réputées d'un rang antérieur à celui de toute autre formalité requise le même jour.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.

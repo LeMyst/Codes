@@ -7,3 +7,6 @@ Sa décision motivée est notifiée au déclarant qui peut la contester devant l
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration.
 
 Le délai est porté à un an pour les déclarations souscrites en vertu des articles 21-2,21-13-1 et 21-13-2. Dans le cas où une procédure d'opposition est engagée par le Gouvernement en application des articles 21-4,21-13-1 ou 21-13-2, ce délai est porté à deux ans.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

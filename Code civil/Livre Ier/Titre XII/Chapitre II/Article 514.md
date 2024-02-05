@@ -7,3 +7,6 @@ En outre, dans les trois mois qui suivent la fin de sa mission, le tuteur ou ses
 Les alinéas précédents ne sont pas applicables dans le cas prévu à l'article 513.
 
 Dans tous les cas, le tuteur remet aux personnes mentionnées au deuxième alinéa du présent article les pièces nécessaires pour continuer la gestion ou assurer la liquidation de la succession, ainsi que l'inventaire initial et les actualisations auxquelles il a donné lieu.
+
+NOTA:
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de la publication de la présente loi aux mesures de protection ouvertes antérieurement.

@@ -13,3 +13,6 @@ Dans ce cas, le tribunal judiciaire peut autoriser l'aliénation du bien indivis
 Cette aliénation s'effectue par licitation. Les sommes qui en sont retirées ne peuvent faire l'objet d'un remploi sauf pour payer les dettes et charges de l'indivision.
 
 L'aliénation effectuée dans les conditions fixées par l'autorisation du tribunal judiciaire est opposable à l'indivisaire dont le consentement a fait défaut, sauf si l'intention d'aliéner le bien du ou des indivisaires titulaires d'au moins deux tiers des droits indivis ne lui avait pas été signifiée selon les modalités prévues au troisième alinéa.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

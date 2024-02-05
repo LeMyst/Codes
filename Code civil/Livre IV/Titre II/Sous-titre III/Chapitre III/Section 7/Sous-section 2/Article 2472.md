@@ -9,3 +9,6 @@ Si un créancier gagiste forme surenchère en application de l'article 2465, cel
 Si un créancier gagiste et un créancier hypothécaire forment surenchère, seule celle de ce dernier produit effet.
 
 Par l'effet du paiement ou de la consignation intervenu en application des deuxièmes alinéas des articles 2463 ou 2467, l'immeuble est libéré de tout gage.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

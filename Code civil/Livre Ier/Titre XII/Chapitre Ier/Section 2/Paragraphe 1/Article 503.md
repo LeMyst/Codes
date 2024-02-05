@@ -9,3 +9,6 @@ Lorsque le juge l'estime nécessaire, il peut désigner dès l'ouverture de la m
 Si l'inventaire n'a pas été établi ou se révèle incomplet ou inexact, la personne protégée et, après son décès, ses héritiers peuvent faire la preuve de la valeur et de la consistance de ses biens par tous moyens.
 
 En cas de retard dans la transmission de l'inventaire, le juge peut désigner un commissaire-priseur judiciaire, un huissier de justice, un notaire ou un mandataire judiciaire à la protection des majeurs pour y procéder aux frais du tuteur.
+
+NOTA:
+Conformément au X de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions s'appliquent dès le lendemain de la publication de la présente loi aux mesures de protection ouvertes antérieurement.

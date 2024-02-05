@@ -21,3 +21,6 @@ Si le service chargé de la publicité foncière, après avoir accepté le dép�
 La formalité est également rejetée lorsque les bordereaux comportent un montant de créance garantie supérieur à celui figurant dans le titre pour l'hypothèque légale attachée aux jugements de condamnation et pour l'hypothèque judiciaire ainsi que, dans l'hypothèse visée au premier alinéa du présent article, si le requérant ne substitue pas un nouveau bordereau sur formule réglementaire au bordereau irrégulier en la forme.
 
 Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du rejet de la formalité.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

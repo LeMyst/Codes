@@ -13,3 +13,6 @@ Le décès de l'adoptant survenu postérieurement au dépôt de la requête ne d
 Si l'enfant décède après avoir été régulièrement recueilli en vue de son adoption, la requête peut toutefois être présentée. Le jugement produit effet le jour précédant le décès et emporte uniquement modification de l'état civil de l'enfant.
 
 Le jugement prononçant l'adoption n'est pas motivé.
+
+NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1292 du 5 octobre 2022, ces dispositions entrent en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

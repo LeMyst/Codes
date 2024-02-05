@@ -9,3 +9,6 @@ L'administrateur légal peut, dans les mêmes cas, lorsqu'une inscription a ét�
 Le tuteur et l'administrateur légal peuvent en outre, s'il y a lieu, sous l'observation des mêmes conditions, demander la mainlevée totale de l'hypothèque.
 
 La radiation partielle ou totale de l'hypothèque sera faite au vu d'un acte de mainlevée signé par un membre du conseil de famille ayant reçu délégation à cet effet ou à défaut au vu d'une décision du juge des tutelles, en ce qui concerne les immeubles du tuteur, et au vu d'une décision du juge des tutelles, en ce qui concerne les immeubles de l'administrateur légal.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

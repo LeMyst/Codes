@@ -7,3 +7,6 @@ Le constituant peut alors l'offrir en garantie, dans la limite de la somme prév
 La convention de rechargement qu'il passe soit avec le créancier originaire, soit avec le nouveau créancier revêt la forme notariée.
 
 Elle est publiée, sous la forme prévue à l'article 2425, à peine d'inopposabilité aux tiers.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

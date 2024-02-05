@@ -5,3 +5,6 @@ A peine de nullité de son engagement, la caution personne physique appose elle-
 Si la caution est privée des bénéfices de discussion ou de division, elle reconnaît dans cette mention ne pouvoir exiger du créancier qu'il poursuive d'abord le débiteur ou qu'il divise ses poursuites entre les cautions. A défaut, elle conserve le droit de se prévaloir de ces bénéfices.
 
 La personne physique qui donne mandat à autrui de se porter caution doit respecter les dispositions du présent article.
+
+NOTA:
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

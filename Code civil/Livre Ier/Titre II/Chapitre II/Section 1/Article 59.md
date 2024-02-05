@@ -7,3 +7,6 @@ Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans 
 Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par le commissaire des armées du bâtiment ou, à son défaut, par le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou par celui qui en remplit les fonctions.
 
 Il y sera fait mention de celle des circonstances ci-dessus prévues, dans laquelle l'acte a été dressé. L'acte sera inscrit à la suite du livre de bord.
+
+NOTA:
+Conformément à l'article 18 de la loi n° 2016-816 du 20 juin 2016, les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat et, au plus tard, six mois après la promulgation de ladite loi.

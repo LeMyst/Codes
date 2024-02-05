@@ -5,3 +5,6 @@ Tout testament olographe ou mystique sera, avant d'être mis à exécution, dép
 Dans le mois qui suivra la date du procès-verbal, le notaire adressera une expédition de celui-ci et une copie figurée du testament au greffier du tribunal judiciaire du lieu d'ouverture de la succession, qui lui accusera réception de ces documents et les conservera au rang de ses minutes.
 
 Dans le mois suivant cette réception, tout intéressé pourra s'opposer à l'exercice de ses droits par le légataire universel saisi de plein droit en vertu du même article 1006. En cas d'opposition, ce légataire se fera envoyer en possession. Les modalités d'application du présent alinéa sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

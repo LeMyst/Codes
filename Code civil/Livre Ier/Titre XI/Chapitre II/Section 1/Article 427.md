@@ -13,3 +13,6 @@ Les opérations bancaires d'encaissement, de paiement et de gestion patrimoniale
 Les fruits, produits et plus-values générés par les fonds et les valeurs appartenant à la personne protégée lui reviennent exclusivement.
 
 Si la personne protégée a fait l'objet d'une interdiction d'émettre des chèques, la personne chargée de la mesure de protection peut néanmoins, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, faire fonctionner sous sa signature les comptes dont la personne protégée est titulaire et disposer de tous les moyens de paiement habituels.
+
+NOTA:
+Conformément aux dispositions du III de l'article 109 de la loi n° 2019-222 du 23 mars 2019, les dispositions de l'article 427 telles qu'elles résultent du b du 3° du I de l'article 9 entrent en vigueur le 1er janvier 2020.

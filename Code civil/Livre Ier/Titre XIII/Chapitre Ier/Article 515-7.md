@@ -21,3 +21,8 @@ A l'étranger, les fonctions confiées par le présent article à l'officier de 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de solidarité. A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la réparation du dommage éventuellement subi.
 
 Sauf convention contraire, les créances dont les partenaires sont titulaires l'un envers l'autre sont évaluées selon les règles prévues à l'article 1469. Ces créances peuvent être compensées avec les avantages que leur titulaire a pu retirer de la vie commune, notamment en ne contribuant pas à hauteur de ses facultés aux dettes contractées pour les besoins de la vie courante.
+
+NOTA:
+Conformément au IV de l'article 48 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le premier jour du douzième mois suivant la publication de ladite loi. Elles sont applicables aux pactes civils de solidarité conclus à compter de cette date.
+
+Elles sont en outre applicables aux déclarations de modification et de dissolution des pactes civils de solidarité enregistrés avant la date prévue au premier alinéa dudit IV par les greffes des tribunaux d'instance. Ces déclarations sont remises ou adressées à l'officier de l'état civil de la commune du lieu du greffe du tribunal d'instance qui a procédé à l'enregistrement du pacte civil de solidarité.

@@ -1,3 +1,6 @@
 # Article 2488-2
 
 En cas de fiducie conclue à titre de garantie, le contrat mentionne à peine de nullité, outre les dispositions prévues à l'article 2018, la dette garantie.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

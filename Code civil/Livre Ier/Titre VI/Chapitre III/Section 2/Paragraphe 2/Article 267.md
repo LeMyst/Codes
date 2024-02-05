@@ -9,3 +9,8 @@ Il statue sur les demandes de liquidation et de partage des intérêts patrimoni
 -le projet établi par le notaire désigné sur le fondement du 10° de l'article 255.
 
 Il peut, même d'office, statuer sur la détermination du régime matrimonial applicable aux époux.
+
+NOTA:
+Conformément à l'article 17 II de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er janvier 2016.
+
+Toutefois il est applicable aux requêtes en divorce introduites avant son entrée en vigueur qui, au jour de celle-ci, n'ont pas donné lieu à une demande introductive d'instance.

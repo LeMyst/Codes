@@ -11,3 +11,6 @@ En cas de difficultés, l'officier de l'état civil saisit le procureur de la R�
 Saisi dans les mêmes conditions, le procureur de la République du lieu de naissance peut ordonner lui-même le changement de nom.
 
 Le changement de nom acquis dans les conditions fixées au présent article s'étend de plein droit aux enfants du bénéficiaire lorsqu'ils ont moins de treize ans. Au delà de cet âge, leur consentement est requis.
+
+NOTA:
+Conformément à l'article 5 de la loi n° 2022-301 du 2 mars 2022, ces dispositions entrent en vigueur le 1er juillet 2022.

@@ -13,3 +13,8 @@ Sont pris en compte pour l'attribution de la médaille d'honneur régionale, dé
 - les services accomplis dans les services déconcentrés de l'Etat antérieurement à la date à laquelle ils ont fait l'objet d'un partage en application de la loi n° 83-8 du 7 janvier 1983.
 
 Pour le calcul de l'ancienneté prévue à l'article précédent, n'est comptabilisée qu'une seule fois la durée des services rendus concomitamment à plusieurs des titres définis au présent article.
+
+NOTA:
+Loi 92-125 1992-02-06 art. 3 : Dans tous les textes législatifs et réglementaires, la référence à :\
+" services extérieurs " est remplaçée par celle à :\
+" services déconcentrés ".

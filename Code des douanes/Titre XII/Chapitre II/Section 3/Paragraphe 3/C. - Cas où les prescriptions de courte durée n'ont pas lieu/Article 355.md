@@ -5,3 +5,6 @@
 1. Abrogé.
 
 1. L'action en recouvrement des créances authentifiées par voie d'avis de mise en recouvrement prévu à l'article 345 se prescrit en application des dispositions de l'article L. 274 du livre des procédures fiscales.
+
+NOTA:
+Conformément au A du XI de l'article 160 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2022 et s'appliquent à l'action en recouvrement dont le délai de prescription commence à courir ou dont une cause interruptive de prescription intervient à compter du 1er janvier 2022.

@@ -21,3 +21,6 @@ Ces informations et les attestations mentionnées au II du même article 266 non
 IV.-Les I à III s'appliquent également à toute personne acquérant les produits en suspension de la taxe dans les conditions prévues au II de l'article 266 nonies A pour les quantités concernées.
 
 V.-Lorsque le redevable n'est pas établi dans un Etat membre de l'Union européenne ou dansl'un des Etats mentionnés au 1° du I de l'article 289 A du code général des impôts, il fait accréditer auprès du service des impôts compétent, dans les conditions prévues au IV du même article, un représentant assujetti à la taxe sur la valeur ajoutée établi en France qui s'engage à remplir les formalités au nom et pour le compte du représenté et, le cas échéant, à acquitter la taxe à sa place.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

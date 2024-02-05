@@ -11,3 +11,6 @@ Toutefois, il peut être donné mainlevée des mesures conservatoires si l'inté
 La condamnation ou l'acceptation d'une transaction par l'intéressé vaut validation des saisies conservatoires et inscription définitive des sûretés.
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

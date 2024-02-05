@@ -9,3 +9,6 @@ Le magistrat saisi peut autoriser les agents des douanes à faire procéder aux 
 Les résultats de l'examen communiqués par le médecin, les observations de la personne concernée et le déroulement de la procédure doivent être consignés dans un procès-verbal transmis au magistrat.
 
 Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits par le magistrat sera punie d'une peine d'emprisonnement d'un an et d'une amende de 3750 euros.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

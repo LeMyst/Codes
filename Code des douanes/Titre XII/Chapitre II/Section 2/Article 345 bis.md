@@ -17,3 +17,6 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent I
 III.-La garantie prévue au I est applicable lorsque, dans le cadre d'un contrôle ou d'une enquête et dès lors qu'elle a pu se prononcer en toute connaissance de cause, l'administration a pris position sur les points examinés lors du contrôle ou de l'enquête, lesquels sont communiqués au contribuable, selon les modalités fixées aux articles 67 B à 67 D-4, y compris s'ils ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul de l'impôt.
 
 IV.-Les I à III du présent article ne sont pas applicables lorsque les instructions ou circulaires ou la demande d'un redevable portent sur l'application du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union et de ses règlements d'application.
+
+NOTA:
+Aux termes de l'article 26 V de la loi n° 2018-727 du 10 août 2018, les présentes dispositions s'appliquent aux demandes de rescrit présentées à l'administration à compter de la publication de ladite loi.

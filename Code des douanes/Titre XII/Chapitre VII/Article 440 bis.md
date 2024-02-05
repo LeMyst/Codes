@@ -15,3 +15,14 @@ Les réductions mentionnées au présent II ne peuvent être appliquées que si 
 1° Ne concerne pas une infraction exclusive de bonne foi ;
 
 2° Est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, soit immédiatement, soit dans le cadre d'un plan de règlement accordé par le comptable des douanes. (1)
+
+NOTA:
+Conformément à l'article 55 de a loi n° 2017-1775 du 28 décembre 2017, III, les I et II dudit article s'appliquent aux intérêts courant du 1er janvier 2018 au 31 décembre 2020.
+
+(1) Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de 440 bis telles qu'elles résultent du 4° du I dudit article entrent en vigueur le 1er janvier 2020.
+
+Elles s'appliquent aux opérations pour lesquelles le fait générateur de la taxe générale sur les activités polluantes ou l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même date.
+
+Toutefois, l'article 440 bis dans sa rédaction en vigueur le 31 décembre 2019, reste applicable aux opérations mentionnées aux 1 et 1 bis de l'article 266 septies du code des douanes pour lesquelles le fait générateur de la taxe générale sur les activités polluantes intervient avant le 1er janvier 2021.

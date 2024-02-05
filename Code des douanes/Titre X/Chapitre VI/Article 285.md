@@ -13,3 +13,6 @@ Les conditions d'application de ladite taxe, et notamment ses taux et son assiet
 1. Les taxes et redevances composant le droit de port sont perçues comme en matière de douane ; les infractions sont constatées et punies, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane.
 
 Les frais de perception et de procédure incombant à l'administration sont prélevés sur le produit des taxes et redevances dans les conditions fixées par arrêté du ministre du budget.
+
+NOTA:
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 285 telles qu'elles résultent du h du 2° du I dudit article entrent en vigueur le 1er janvier 2020.

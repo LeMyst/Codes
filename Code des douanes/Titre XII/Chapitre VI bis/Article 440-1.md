@@ -7,3 +7,6 @@ I.-Le redevable d'un droit ou d'une taxe recouvrés en application du présent c
 2° Ne concerne pas une infraction exclusive de bonne foi.
 
 II.-Le présent article est applicable dans les îles Wallis et Futuna.
+
+NOTA:
+Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.

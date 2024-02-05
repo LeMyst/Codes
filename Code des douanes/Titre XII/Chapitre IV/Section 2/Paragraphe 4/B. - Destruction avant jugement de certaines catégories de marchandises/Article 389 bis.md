@@ -9,3 +9,8 @@
 2. Les décisions prises en application du présent article font l'objet d'une ordonnance motivée.
 
 1. L'ordonnance portant autorisation de destruction est notifiée au propriétaire des biens s'il est connu, qui peut la déférer à la chambre de l'instruction par déclaration au greffe du tribunal dans les dix jours qui suivent la notification de la décision. Cet appel est suspensif. Le propriétaire peut être entendu par la chambre de l'instruction.
+
+NOTA:
+Loi n° 2012-1510 du 29 décembre 2012, article 57 II A, l'article 389 bis est applicable sur tout le territoire de la République. Conformément au B du II du même article, pour l'application à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie de l'article 389 bis les mots : "du tribunal de grande instance" sont remplacés par les mots : "du tribunal de première instance".
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

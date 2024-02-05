@@ -27,3 +27,6 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 1. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors que le débiteur s'est acquitté de sa dette.
 
 1. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixés par un décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

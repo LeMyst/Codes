@@ -67,3 +67,6 @@ Avec l'accord des autorités judiciaires étrangères, les agents des douanes é
 IX.-Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites par des agents des douanes ayant procédé à une infiltration.
 
 Les dispositions du présent IX ne sont cependant pas applicables lorsque les agents des douanes déposent sous leur véritable identité.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

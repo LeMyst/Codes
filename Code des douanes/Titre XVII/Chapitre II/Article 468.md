@@ -5,3 +5,6 @@ Lorsqu'une présentation en douane est prévue pour les marchandises visées au 
 Lorsque le détenteur refuse d'assister au contrôle, le service notifie, par lettre recommandée, au destinataire ou à l'exportateur des produits selon le cas, son intention de commencer les opérations de contrôle ; si, à l'expiration d'un délai de quarante-huit heures après cette notification, celle-ci est restée sans effet, le président du tribunal judiciaire dans le ressort duquel est situé le bureau de douane désigne d'office, à la requête du receveur des douanes, une personne pour représenter le destinataire ou l'exportateur des marchandises, défaillant.
 
 Lorsque la marchandise fait l'objet, par ailleurs, d'une mesure de consignation, dans les conditions prévues à l'article 322 bis, celle-ci ne peut être prononcée qu'une fois que les opérations de contrôle ont été effectivement entreprises.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

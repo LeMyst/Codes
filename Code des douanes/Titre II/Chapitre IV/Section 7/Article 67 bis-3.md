@@ -5,3 +5,6 @@ Lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner des personne
 Dans le cadre d'une opération de surveillance de l'acheminement ou du transport des objets, biens ou produits tirés de la commission d'un délit douanier ou servant à le commettre, lorsque la peine d'emprisonnement encourue est égale ou supérieure à deux ans, et lorsque les nécessités de l'enquête l'exigent, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent, sur l'ensemble du territoire national, avec l'autorisation du procureur de la République près le tribunal judiciaire dans le ressort duquel les opérations de surveillance sont susceptibles de débuter, demander à tout fonctionnaire ou agent public de ne pas procéder au contrôle et à la saisie de ces objets, biens ou produits afin de ne pas compromettre la poursuite des investigations.
 
 L'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la procédure. Le procureur de la République informe sans délai le procureur de la République près le tribunal judiciaire de Paris de la délivrance de cette autorisation.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

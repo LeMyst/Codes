@@ -1,3 +1,6 @@
 # Article 344
 
 Lorsque l'auteur d'une infraction douanière vient à décéder avant intervention d'un jugement définitif ou d'une transaction, l'Administration est fondée à exercer contre la succession une action tendant à faire prononcer par le président du tribunal judiciaire la confiscation des objets passibles de cette sanction ou, si ceux-ci n'ont pu être saisis, la condamnation au paiement d'une somme égale à la valeur desdits objets et calculée d'après le cours du marché intérieur à l'époque où la fraude a été commise.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

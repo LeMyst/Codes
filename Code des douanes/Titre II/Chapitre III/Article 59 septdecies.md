@@ -9,3 +9,6 @@ Les agents de l'administration des douanes et droits indirects et les autres per
 3° A l'application des droits de douane, ou de tout autre imposition exigible au titre de l'importation, aux marchandises acheminées par voie maritime et aux moyens de transport maritime.
 
 Le présent article est également applicable aux agents des services mentionnés à l'article L. 5112-1-21 du code des transports.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

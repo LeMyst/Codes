@@ -9,3 +9,6 @@ Lorsque la personne retenue est placée en garde à vue au terme de la retenue p
 Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière dans les conditions prévues aux articles 323-1 à 323-10 du présent code, la durée de la retenue provisoire s'impute sur celle de la retenue douanière.
 
 Les agents des douanes mentionnent, par procès-verbal de constat, dont un double est remis à l'officier de police judiciaire, le jour et l'heure du début et de la fin de la retenue provisoire ; ces mentions figurent également sur le registre mentionné à l'article 323-8.
+
+NOTA:
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.

@@ -7,3 +7,6 @@ Le présent chapitre est également applicable aux véhicules nautiques à moteu
 Le présent chapitre, à l'exclusion de l'article 218, est également applicable aux drones maritimes tels que définis à l'article L. 5000-2-2 du code des transports.
 
 Pour l'application du présent chapitre, les drones maritimes sont assimilés à des navires.
+
+NOTA:
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

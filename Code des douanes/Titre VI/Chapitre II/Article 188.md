@@ -11,3 +11,6 @@ b) au recouvrement des droits et taxes dont sont passibles les marchandises en r
 Le reliquat éventuel est versé à la caisse des dépôts et consignations où il reste pendant deux ans à la disposition du propriétaire des marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 3 euros, le reliquat est pris sans délai en recette au budget.
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances énumérées au 2 ci-dessus, les sommes obtenues sont versées à la caisse des dépôts et consignations et réparties, s'il y a lieu, selon la procédure de distribution par contribution, à la diligence de l'administration. Le juge compétent est le président du tribunal judiciaire du lieu de dépôt.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020

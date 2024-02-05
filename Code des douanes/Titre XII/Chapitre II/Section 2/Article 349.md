@@ -5,3 +5,6 @@ Toute contestation des décisions du comptable des douanes relatives aux garanti
 Lorsque des garanties suffisantes n'ont pas été constituées et que le comptable des douanes a mis en place des mesures conservatoires, le redevable peut, par simple demande écrite, demander au président du tribunal judiciaire, statuant en référé, de prononcer dans un délai d'un mois la limitation ou l'abandon de ces mesures. Les délais de saisine du président du tribunal judiciaire et de la cour d'appel sont les mêmes que ceux définis à l'alinéa précédent.
 
 Les recours dirigés contre la régularité des mesures conservatoires relèvent du juge de l'exécution, dans les conditions de droit commun.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

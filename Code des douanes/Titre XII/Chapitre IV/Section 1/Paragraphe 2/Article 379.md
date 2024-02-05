@@ -5,3 +5,6 @@
 1. L'administration a pareillement une hypothèque légale sur les immeubles des redevables, dans les conditions prévues au I de l'article L. 269 du livre des procédures fiscales.
 
 1. L'avis de mise en recouvrement emporte hypothèque de la même manière et aux mêmes conditions que les condamnations émanées de l'autorité judiciaire.
+
+NOTA:
+Se reporter aux conditions d'application prévues au V de l'article 130 de la loi n° 2021-1900 du 30 décembre 2021.

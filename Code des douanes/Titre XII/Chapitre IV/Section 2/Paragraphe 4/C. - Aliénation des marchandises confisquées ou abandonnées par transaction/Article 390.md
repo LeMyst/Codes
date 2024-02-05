@@ -7,3 +7,6 @@
 1. Lorsque les marchandises ne satisfaisant pas aux obligations prévues par le règlement (CE) n° 206/2009 de la commission du 5 mars 2009 concernant l'introduction dans la Communauté de colis personnels de produits d'origine animale et modifiant le règlement (CE) n° 136/2004 sont détruites soit en application de l'article 389 bis du présent code, soit après leur abandon ou leur confiscation, les frais de destruction peuvent être mis à la charge de leur propriétaire, de l'importateur, de l'exportateur, du déclarant ou de toute personne ayant participé au transport de ces marchandises.
 
 Ces frais sont déterminés selon un barème établi par arrêté du ministre chargé des douanes.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

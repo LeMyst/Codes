@@ -35,3 +35,6 @@ Leurs missions sont définies par l'autorité de l'Etat membre compétente pour 
 Ils peuvent recevoir les déclarations et constater les infractions dans les formes prévues par le présent code, sous réserve de l'accord de l'Etat membre où ils interviennent.
 
 III. ― Les I et II sont applicables aux demandes de coopération entre les autorités douanières françaises et celles d'autres Etats parties à toute convention comportant des stipulations similaires à celles de la convention du 18 décembre 1997 relative à l'assistance mutuelle et à la coopération entre les administrations douanières.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

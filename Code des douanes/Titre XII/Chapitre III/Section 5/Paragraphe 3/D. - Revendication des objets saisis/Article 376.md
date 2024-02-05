@@ -7,3 +7,6 @@
 1 ter. Par dérogation au 1 bis, aucune mainlevée n'est proposée lorsque la marchandise de fraude ou ayant servi à masquer la fraude a été détériorée en raison de son utilisation à cette fin.
 
 2. Les délais d'appel, de tierce opposition et de vente expirés, toutes répétitions et actions sont non recevables.
+
+NOTA:
+Loi n° 2012-1510 du 29 décembre 2012 article 57 II A, l'article 376 est applicable sur tout le territoire de la République. Conformément au B du II du même article, pour l'application à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie de l'article 376 les mots : "du tribunal de grande instance" sont remplacés par les mots : "du tribunal de première instance".

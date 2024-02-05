@@ -15,3 +15,6 @@ Les redevables de la taxe intérieure de consommation prévue à l'article 265 q
 1. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des sommes dont le versement a été effectué selon un autre moyen de paiement.
 
 Cette majoration est recouvrée selon les règles, garanties et sanctions prévues en matière de droits de douane.
+
+NOTA:
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.

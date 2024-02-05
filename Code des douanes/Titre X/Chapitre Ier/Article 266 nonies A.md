@@ -11,3 +11,8 @@ En cas de recours au régime de suspension, si les produits ne sont pas expédi�
 III.-Pour l'application des I et II, une expédition ou un transport hors de France s'entend de l'expédition ou du transport des produits en dehors du territoire national ou à destination des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises ou de l'île de Clipperton.
 
 IV.-(Abrogé)
+
+NOTA:
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 nonies A telles qu'elles résultent du d du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+
+Conformément au XVI , A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.

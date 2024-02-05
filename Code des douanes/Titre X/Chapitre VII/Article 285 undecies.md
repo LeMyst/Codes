@@ -7,3 +7,6 @@ Pour l'exercice par l'administration des douanes et des droits indirects de ses 
 2° Les références au directeur général des finances publiques s'entendent de références au directeur général des douanes et des droits indirects ;
 
 3° Les références aux agents de la direction générale des finances publiques, aux agents de l'administration des impôts ou aux agents des impôts s'entendent de références aux agents de la direction générale des douanes et des droits indirects, le cas échéant, de catégorie et ou de grades équivalents.
+
+NOTA:
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 285 undecies telles qu'elles résultent du j du 2° du I dudit article entrent en vigueur le 1er janvier 2020.

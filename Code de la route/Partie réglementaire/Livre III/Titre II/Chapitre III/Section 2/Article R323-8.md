@@ -9,3 +9,6 @@ Un réseau ne peut être agréé pour le contrôle technique des véhicules lour
 Pour être agréé pour le contrôle technique des véhicules motorisés à deux ou trois roues et quadricycles à moteur, un réseau doit comporter des centres de contrôle de véhicules motorisés à deux ou trois roues et quadricycles à moteur répartis dans au moins quatre-vingt-dix départements.
 
 Un réseau de contrôle ne peut exercer aucune autre activité que celle de contrôle technique.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

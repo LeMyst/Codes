@@ -15,3 +15,6 @@ La sécurité des informations échangées, notamment leur confidentialité et l
 III.-Les informations communiquées au moyen du système d'information mentionné au premier alinéa du II sont détruites par ces exploitants dès la fin de la durée de l'interdiction de rediffusion.
 
 IV.-Les modalités techniques d'échanges avec les exploitants de service électronique d'aide à la conduite ou à la navigation et de traçabilité des informations adressées ainsi que les moyens à mettre en place pour en assurer la protection et la destruction après utilisation sont définis par arrêté du ministre de l'intérieur pris après avis de l'Agence nationale de la sécurité des systèmes d'information.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.

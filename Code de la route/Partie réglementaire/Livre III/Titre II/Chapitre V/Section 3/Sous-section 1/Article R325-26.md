@@ -11,3 +11,6 @@ Une copie de ce document est transmise sans délai à l'autorité ayant compéte
 En cas d'absence du propriétaire ou du conducteur au moment de l'enlèvement du véhicule en fourrière, un double de la fiche descriptive remplie par l'agent de constatation est adressé sans délai au responsable de la notification de mise en fourrière.
 
 Un autre double de cette fiche descriptive est remis par tout moyen au gardien de fourrière.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

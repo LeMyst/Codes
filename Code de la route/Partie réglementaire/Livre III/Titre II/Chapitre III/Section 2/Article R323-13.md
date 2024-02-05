@@ -5,3 +5,6 @@ I. - Les installations de contrôle doivent comporter les moyens matériels néc
 II. - L'activité d'un centre de contrôle doit s'exercer dans des locaux n'abritant aucune activité de réparation ou de commerce automobile ou de motocycles et ne communiquant avec aucun local abritant une telle activité.
 
 III. - Sur la demande du ministre chargé des transports, le titulaire de l'agrément des installations d'un centre de contrôle met l'une ou plusieurs de ces installations à la disposition des fonctionnaires ou agents de l'Etat chargés des réceptions des véhicules ou éléments de véhicules, placés sous l'autorité des ministres chargés de l'industrie et des transports. Une convention à titre onéreux est passée entre l'exploitant et l'administration.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -11,3 +11,6 @@ Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent
 Tout conducteur coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
 
 Toute contravention au présent article donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+NOTA:
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.

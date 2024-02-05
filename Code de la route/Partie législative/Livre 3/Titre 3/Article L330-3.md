@@ -15,3 +15,6 @@ I. - Les informations relatives, d'une part, aux gages constitués sur les véhi
 6° Aux greffiers des tribunaux de commerce, pour l'exercice de leurs compétences en matière de tenue de registres et au conseil national des greffiers des tribunaux de commerce pour l'exercice de ses compétences en matière de diffusion des données d'un registre.
 
 II. - L'absence de déclaration de gage ou d'opposition faite au transfert du certificat d'immatriculation d'un véhicule défini par son seul numéro d'immatriculation peut, à l'exclusion de toute autre information, être portée à la connaissance de toute personne qui en fait la demande.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

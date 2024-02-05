@@ -16,10 +16,14 @@ II.-Toute personne coupable de ce délit encourt également les peines compléme
 
 6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-7° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
-
+7° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;\
 8° L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine.
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
 IV.-La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

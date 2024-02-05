@@ -5,3 +5,6 @@ Les informations que le représentant légal d'une personne morale propriétaire
 1° Soit l'identité et l'adresse de la personne physique qui conduisait ce véhicule ;
 
 2° Soit les éléments permettant d'établir l'existence d'un vol, d'une usurpation de plaque d'immatriculation ou de tout autre évènement de force majeure.
+
+NOTA:
+Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

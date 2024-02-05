@@ -13,3 +13,6 @@ Les mobilités partagées à promouvoir sont celles pour lesquelles le déplacem
 Les transports en commun à promouvoir s'entendent du transport public collectif au sens du titre Ier du livre Ier de la troisième partie du code des transports, ainsi que du transport ferroviaire ou guidé tel qu'il est défini à l'article L. 2000-1 du même code.
 
 L'arrêté prévu au premier alinéa détermine les modalités de l'insertion des messages promotionnels dans les publicités en fonction du support et de leur diffusion.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1841 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

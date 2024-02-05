@@ -7,3 +7,6 @@ Nul ne peut être agréé comme gardien de fourrière s'il exerce également une
 La fourrière doit être clôturée. Ses installations doivent notamment satisfaire aux dispositions législatives et réglementaires relatives à la protection de l'environnement.
 
 Les dispositions qui précèdent ne sont applicables ni à la personne occasionnellement requise comme gardien de fourrière ni au propriétaire qui garde son véhicule dans les conditions prévues à l'article R. 325-22.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

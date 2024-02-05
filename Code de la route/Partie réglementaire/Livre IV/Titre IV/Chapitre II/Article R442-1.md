@@ -19,3 +19,6 @@ Pour l'application des dispositions du présent livre à Mayotte, les termes én
 8° "directeur départemental de l'équipement" par "directeur de l'équipement" ;
 
 9° "départemental" par "territorial".
+
+NOTA:
+Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée par la référence à la collectivité départementale.

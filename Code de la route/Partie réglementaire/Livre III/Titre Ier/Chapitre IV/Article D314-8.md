@@ -19,3 +19,6 @@ IV. - La période hivernale débute le 1er novembre et se termine le 31 mars de 
 V. - Pour l'application du présent article, les pneumatiques “hiver” sont identifiés par l'un des marquages “M+S”, “M.S” ou “M&S” ou par la présence conjointe du marquage du “symbole alpin” et de l'un des marquages “M+S”, “M.S” ou “M&S”.
 
 VI. - Le présent article s'applique sans préjudice des interdictions, restrictions et conditions de circulation prises par le préfet de département ou par l'autorité détentrice du pouvoir de police de la circulation au titre des articles R. 411-17 à R. 411-21-1.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2020-1264 du 16 octobre 2020, ces dispositions entrent en vigueur le 1er novembre 2021.

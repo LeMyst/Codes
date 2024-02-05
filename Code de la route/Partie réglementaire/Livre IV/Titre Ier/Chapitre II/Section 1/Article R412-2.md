@@ -15,3 +15,6 @@ III.-Toutefois, l'utilisation d'un système homologué de retenue pour enfant n'
 3° Pour tout enfant transporté dans un taxi ou dans un véhicule de transport en commun.
 
 IV.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+NOTA:
+Décret 2006-1496 art. 6 : Ces dispositions sont applicables à Mayotte.

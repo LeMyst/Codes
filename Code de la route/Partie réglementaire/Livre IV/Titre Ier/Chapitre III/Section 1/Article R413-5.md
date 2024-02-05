@@ -11,3 +11,6 @@ I.-Tout élève conducteur et, pendant le délai probatoire défini à l'article
 II.-Tout conducteur mentionné au présent article doit, en circulation, apposer de façon visible, à l'arrière de son véhicule, un signe distinctif dont les conditions d'utilisation et le modèle sont fixés par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports.
 
 III.-Le fait, pour tout conducteur, de ne pas respecter l'obligation de signalisation imposée par le présent article et les dispositions prises pour son application est puni de l'amende prévue pour les contraventions de la deuxième classe.
+
+NOTA:
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.

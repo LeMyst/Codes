@@ -13,3 +13,8 @@ Les personnes physiques coupables du délit prévu à l'article 434-10 du code p
 5° L'obligation d'accomplir, à leurs frais, un stage de sensibilisation à la sécurité routière ;
 
 6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

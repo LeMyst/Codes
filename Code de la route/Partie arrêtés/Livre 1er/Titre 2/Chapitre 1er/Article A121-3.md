@@ -17,3 +17,6 @@ III.-Les dispositions des I et II ci-dessus sont applicables aux cas prévus aux
 Dans le cas prévu au 3° de l'article A. 121-1-1, la personne physique ayant immatriculé le véhicule en tant que personne morale transmet de façon numérisée, selon les formats indiqués sur le site “ www. antai. fr ” la copie du certificat d'immatriculation du véhicule établi à son nom.
 
 IV.- Dans tous les cas, un accusé d'enregistrement de la transmission est présenté automatiquement à la personne lorsque celle-ci a validé et envoyé les informations demandées. Ce document peut être téléchargé ou imprimé par la personne.
+
+NOTA:
+Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

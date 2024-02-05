@@ -11,3 +11,6 @@ II. - L'officier de police judiciaire ou l'agent de police judiciaire adjoint, c
 3° Remet, le cas échéant, à ce propriétaire ou ce conducteur, s'il est présent, la fiche de circulation provisoire prévue à l'article R. 325-6. La fiche mentionnée au 2° relative à l'état du véhicule est transmise au conducteur ou au propriétaire, à sa demande, par tout moyen ;
 
 4° Relate sur le procès-verbal de constatation ou le rapport les motifs de la mise en fourrière ; il y fait mention du retrait provisoire du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

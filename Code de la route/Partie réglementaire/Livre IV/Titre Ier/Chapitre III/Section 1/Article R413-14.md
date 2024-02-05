@@ -21,3 +21,6 @@ III. - Toute contravention prévue au présent article donne lieu, de plein droi
 3° En cas de dépassement de la vitesse maximale autorisée compris entre 20 km/h et moins de 30 km/h, réduction de deux points ;
 
 4° En cas de dépassement de la vitesse maximale autorisée compris entre 5 km/h et moins de 20 km/h, réduction d'un point.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2023-1150 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

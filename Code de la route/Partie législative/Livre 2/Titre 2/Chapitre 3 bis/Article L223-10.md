@@ -19,3 +19,6 @@ Il peut obtenir une récupération de points s'il suit un stage de sensibilisati
 V.-Les informations relatives au nombre de points dont dispose le conducteur mentionné au I du présent article ne peuvent être collectées que dans les conditions prévues à l'article L. 223-7.
 
 VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.

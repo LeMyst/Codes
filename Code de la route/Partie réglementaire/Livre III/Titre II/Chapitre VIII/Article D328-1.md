@@ -5,3 +5,6 @@ L'obligation prévue par l'article L. 328-1 d'accompagner d'un message promotion
 1° Véhicules de tourisme, tels qu'ils sont définis par le 5° de l'article 1007 du code général des impôts, à l'exception des véhicules à usage spécial accessibles en fauteuil roulant ;
 
 2° Véhicules à moteur à deux ou trois roues et quadricycles à moteur appartenant à la catégorie L tels qu'ils sont définis par l'article R. 311-1.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1841 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

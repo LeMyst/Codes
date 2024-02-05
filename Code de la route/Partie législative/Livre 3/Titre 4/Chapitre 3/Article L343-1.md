@@ -47,3 +47,6 @@ Le présent article est applicable au créancier gagiste en cas de confiscation 
 " Art. L. 325-11-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-2, L. 325-6 à L. 325-9.
 
 Une délibération de l'assemblée de la Polynésie française détermine les clauses devant obligatoirement figurer dans le contrat type susceptible d'être passé entre les collectivités publiques intéressées et les entreprises aptes à effectuer la démolition des véhicules à moteur. "
+
+NOTA:
+Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en Polynésie française.

@@ -9,3 +9,6 @@ Tout conducteur coupable de cette infraction encourt également la peine complé
 Cette contravention donne lieu de plein droit à une réduction de deux points du permis de conduire.
 
 Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des agents, de faire cesser le stationnement irrégulier, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+NOTA:
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.

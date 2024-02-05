@@ -39,3 +39,6 @@ Les données relatives à l'enlèvement, à la garde, à la vente ou à la destr
 -la date et l'heure de sortie du parc ;
 
 -le nom et les coordonnées de l'entreprise chargée de la destruction du véhicule.
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 4 novembre 2020, ces dispositions entrent en vigueur, dans chaque département, à la date d'entrée en vigueur prévue par les dispositions de l'article 2 de l'ordonnance du 24 juin 2020 susvisée. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

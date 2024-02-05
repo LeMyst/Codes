@@ -45,3 +45,6 @@ II.-Sont également autorisés à accéder directement aux informations mentionn
 2° Les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure, pour les seuls besoins de la prévention des atteintes aux intérêts fondamentaux de la Nation et des actes de terrorisme.
 
 III.-Les modalités d'application du présent article sont fixées par arrêté du ministre de l'intérieur.
+
+NOTA:
+(1) Conformément à l'article 4 du décret n° 2018-387 du 24 mai 2018, les dispositions du 11° du I de l'article R. 330-2 entrent en vigueur à la même date que les dispositions issues du 2° du I de l'article 35 de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du xxie siècle et au plus tard le 31 décembre 2018.

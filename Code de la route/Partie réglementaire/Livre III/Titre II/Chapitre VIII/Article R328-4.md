@@ -11,3 +11,6 @@ Les sanctions prononcées en application du présent article sont recouvrées co
 Sans préjudice de l'interruption de la prescription par un acte tendant à leur recherche, à leur constatation ou à leur sanction, les faits sanctionnés en application du présent article sont prescrits par trois ans.
 
 Les sanctions prononcées en application du présent article sont motivées, notifiées à l'annonceur et peuvent être rendues publiques en fonction de la gravité du manquement. Elles peuvent faire l'objet d'un recours de pleine juridiction.
+
+NOTA:
+Conformément au second alinéa de l'article 4 du décret n° 2021-1840 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er juin 2022.

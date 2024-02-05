@@ -31,3 +31,6 @@ c) De sept jours à compter de la date de notification pour un véhicule ayant s
 9° Enoncé des voies de recours.
 
 III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière ou, pour son compte, par le ministre chargé de la sécurité routière lorsque les données sont enregistrées dans le système d'information prévu à l'article R. 325-12-1 au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7) fixant les conditions de remise à l'administration chargée des domaines des véhicules non retirés de fourrière par leurs propriétaires.
+
+NOTA:
+En application de l’article 3 du décret n° 2022-1040 (IOMS2132047D), ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa publication.

@@ -11,3 +11,9 @@ IV.-Des mentions relatives à des usages ou à des caractéristiques techniques 
 V.-Dans le cas de véhicules appartenant à des personnes de statut diplomatique ou assimilé, le numéro d'immatriculation est complété par un numéro d'immatriculation spécifique lié à ce statut.
 
 VI.-Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application du présent article.
+
+NOTA:
+Arrêté du 23 mars 2009 art. 1 (modifié par arrêté du 8 juin 2009) :
+
+I. - Les dispositions du décret du 9 février 2009 susvisé (portant diverses dispositions relatives aux plaques et inscriptions, à la réception et à l'homologation et à l'immatriculation des véhicules), et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.\
+II. - Toutefois, pour les véhicules déjà immatriculés dont le certificat d'immatriculation ne comporte pas le numéro définitif prévu à l'article R. 322-2 du code de la route, les dispositions de la section 1 du chapitre II du titre II du livre III du code de la route dans leur rédaction antérieure à leur modification par le décret susvisé et les dispositions de l'arrêté du 5 novembre 1984 modifié relatif à l'immatriculation des véhicules continuent à s'appliquer jusqu'au 14 octobre 2009.

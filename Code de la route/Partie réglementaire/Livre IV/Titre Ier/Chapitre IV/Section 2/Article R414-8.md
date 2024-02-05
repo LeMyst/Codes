@@ -7,3 +7,6 @@ Le fait, pour tout conducteur, de contrevenir aux dispositions du présent artic
 Tout conducteur coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
 
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+NOTA:
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.

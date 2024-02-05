@@ -7,3 +7,6 @@ Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terr
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier et à leurs conditions d'exercice prévues au livre IV de la première partie et à la troisième partie du code des transports ainsi qu'aux dispositions réglementaires prises pour leur application ;
 
 3° Les contraventions prévues à l'article R. 211-14 du code des assurances.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2020-1396 du 17 novembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

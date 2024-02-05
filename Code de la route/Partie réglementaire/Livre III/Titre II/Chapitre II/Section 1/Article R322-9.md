@@ -15,3 +15,6 @@ V. – Le fait, pour tout propriétaire, de ne pas effectuer les déclarations o
 VI. – Le fait, pour tout centre VHU, de ne pas délivrer un certificat de destruction au moment du transfert du véhicule hors d'usage ou de ne pas effectuer les déclarations prévues aux II et III est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 VII. – Un arrêté conjoint des ministres chargés des transports, de l'intérieur, de l'industrie et de l'écologie fixe les conditions d'application du présent article.
+
+NOTA:
+Au lieu de " R. 353 ", il faut lire " R. 350-3 ".

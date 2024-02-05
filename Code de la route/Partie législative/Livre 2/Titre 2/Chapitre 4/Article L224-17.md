@@ -17,3 +17,8 @@ IV.-Toute personne coupable de l'un des délits prévus au présent article, dan
 2° L'annulation du permis, avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au plus.
 
 V.-Les délits prévus au présent article, dans les cas où ils ont été commis à la suite d'une décision de suspension ou de rétention du permis de conduire, donnent lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

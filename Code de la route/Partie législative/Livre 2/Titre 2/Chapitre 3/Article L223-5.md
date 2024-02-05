@@ -21,3 +21,8 @@ IV.-Toute personne coupable de ce délit encourt également les peines compléme
 6° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire.
 
 V.-Le fait pour toute personne de conduire un véhicule à moteur pour la conduite duquel le permis est nécessaire, malgré l'injonction qui lui a été faite de remettre son permis de conduire conformément au I, est puni des peines prévues aux III et IV.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

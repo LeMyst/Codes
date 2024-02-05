@@ -10,8 +10,7 @@ IV. - La nuit, ou le jour lorsque la visibilité est insuffisante, chaque colonn
 
 1° A l'avant par au moins un feu blanc ou jaune allumé ;
 
-2° A l'arrière par au moins un feu rouge allumé,
-
+2° A l'arrière par au moins un feu rouge allumé,\
 visibles à au moins 150 mètres par temps clair et placés du côté opposé au bord de la chaussée qu'il longe.
 
 V. - Cette signalisation peut être complétée par un ou plusieurs feux latéraux émettant une lumière orangée.

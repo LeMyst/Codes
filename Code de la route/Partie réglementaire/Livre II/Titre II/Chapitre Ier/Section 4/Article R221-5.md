@@ -35,3 +35,6 @@ b) En outre :
 - pour l'obtention de la catégorie D1E, de la catégorie D1 du permis de conduire ;
 
 - pour l'obtention de la catégorie DE, de la catégorie D du permis de conduire.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2023-1214 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

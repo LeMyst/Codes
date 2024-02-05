@@ -45,3 +45,8 @@ II.-Toute personne coupable de ce délit encourt également les peines compléme
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 à L. 234-6 et dans les conditions prévues par ces mêmes articles.
 
 En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 à L. 234-6. "
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

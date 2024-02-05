@@ -11,3 +11,6 @@ Les épreuves écrites d'admissibilité portent l'une sur la réglementation de 
 L'épreuve orale d'admission consiste en un entretien destiné à évaluer l'aptitude du candidat à animer un groupe de stagiaires.
 
 Un arrêté du ministre chargé de la sécurité routière précise le contenu détaillé des épreuves et les modalités de l'examen.
+
+NOTA:
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.

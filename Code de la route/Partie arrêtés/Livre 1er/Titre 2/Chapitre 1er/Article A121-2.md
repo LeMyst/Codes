@@ -11,3 +11,6 @@ Dans le cas prévu au 2° de l'article A. 121-1, il doit joindre à l'envoi, sel
 III.- Les dispositions des I et II ci-dessus sont applicables aux cas prévus aux 1° et 2° de l'article A. 121-1-1.
 
 Dans le cas prévu au 3° de l'article A. 121-1-1, la personne physique ayant immatriculé le véhicule en tant que personne morale doit joindre à l'envoi la copie du certificat d'immatriculation du véhicule établi à son nom.
+
+NOTA:
+Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

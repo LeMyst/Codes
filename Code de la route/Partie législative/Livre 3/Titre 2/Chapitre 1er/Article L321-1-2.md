@@ -9,3 +9,6 @@ Chacun de ces véhicules doit être muni d'une plaque fixée en évidence et por
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 Les informations fournies lors de la déclaration peuvent faire l'objet d'un traitement automatisé dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+NOTA:
+Conformément au II de l'article 32 de la loi n° 2022-52 du 24 janvier 2022, les présentes dispositions entrent en vigueur le premier jour du troisième mois suivant la promulgation de ladite loi : le 1er avril 2022.

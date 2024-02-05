@@ -43,3 +43,6 @@ V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée
 VI.-Lorsque le conducteur ne peut présenter l'arrêté d'autorisation préfectorale ou n'en respecte pas les dispositions, l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 Il en est de même lorsque le conducteur ne peut présenter le récépissé attestant du dépôt d'une déclaration préalable ou ne respecte pas les dispositions de l'arrêté prévu à l'article R. 433-5 mentionnées au 8° de cet article.
+
+NOTA:
+Décret n° 2017-16 du 6 janvier 2017, article 14 : Les autorisations délivrées sur le fondement du I de l'article R. 433-1 du code de la route dans sa rédaction applicable avant l'entrée en vigueur du décret n° 2017-16 du 6 janvier 2017 demeurent valables jusqu'à leur terme.

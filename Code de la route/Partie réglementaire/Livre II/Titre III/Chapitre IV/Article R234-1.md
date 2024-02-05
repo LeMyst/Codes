@@ -17,3 +17,6 @@ III. – Toute personne coupable de l'une des infractions mentionnées au I enco
 IV. – Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
 
 V. – Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-871 du 21 août 2019 ces dispositions s'appliquent à tous les conducteurs faisant l'objet d'une décision limitant le droit de conduire aux seuls véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest électronique prononcée à compter du 1er octobre 2019.

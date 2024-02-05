@@ -9,3 +9,6 @@ De même, la personne âgée d'au moins dix-huit ans qui accompagne au moins un 
 III. - Le fait de contrevenir aux dispositions du II est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 IV. - Un arrêté du ministre chargé de la sécurité routière fixe les caractéristiques du casque mentionné au I.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2016-1800 du 21 décembre 2016, les présentes dispositions entrent en vigueur trois mois après la publication de l'arrêté prévu au IV de l'article R. 431-1-3.

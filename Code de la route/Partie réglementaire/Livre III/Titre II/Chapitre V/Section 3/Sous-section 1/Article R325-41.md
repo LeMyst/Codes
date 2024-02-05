@@ -5,3 +5,6 @@ Le gardien de la fourrière restitue le véhicule à son propriétaire ou à son
 Dans le cas prévu au deuxième alinéa du II bis de l'article R. 325-38, le véhicule n'est restitué qu'après présentation d'un document justifiant l'intervention du professionnel qualifié figurant sur l'autorisation définitive de sortie du véhicule.
 
 Si un propriétaire souhaite récupérer son véhicule alors que celui-ci fait l'objet d'une procédure de mise en vente, il doit, au préalable, s'acquitter des frais de mise en vente mentionnés à l'article R. 325-29 auprès de l'administration chargée des domaines et demander une mainlevée en application de l'article R. 325-38.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

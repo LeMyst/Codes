@@ -15,3 +15,6 @@ IV.-Lorsque l'expert justifiant de la qualification prévue à l'article R. 326-
 Ce rapport d'expertise mentionné au troisième alinéa de l'article L. 327-4 atteste également que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de transformation susceptible de modifier les caractéristiques indiquées sur le certificat d'immatriculation.
 
 Le certificat d'immatriculation est restitué à son titulaire et l'interdiction de circuler et l'opposition au transfert du certificat d'immatriculation sont levées.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

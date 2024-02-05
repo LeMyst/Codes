@@ -10,6 +10,5 @@ Sur autoroute et route express, les dispositions relatives :
 
 4° Au franchissement des lignes longitudinales délimitant les bandes d'arrêt d'urgence ;
 
-5° A l'arrêt et au stationnement sur les chaussées,
-
+5° A l'arrêt et au stationnement sur les chaussées,\
 ne sont pas applicables aux conducteurs des véhicules bénéficiant de facilités de passage lorsqu'ils font usage de leurs avertisseurs spéciaux dans les cas nécessités par l'exercice de leur mission et sous réserve de ne pas mettre en danger les autres usagers.

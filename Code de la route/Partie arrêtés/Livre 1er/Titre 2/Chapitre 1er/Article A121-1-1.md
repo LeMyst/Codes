@@ -7,3 +7,6 @@ Les informations que la personne physique ayant immatriculé le véhicule en tan
 2° Soit les éléments permettant d'établir l'existence d'un vol, d'une usurpation de plaque d'immatriculation ou de tout autre évènement de force majeure ;
 
 3° Soit les éléments permettant d'établir que le véhicule est immatriculé à son nom.
+
+NOTA:
+Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

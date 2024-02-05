@@ -17,3 +17,6 @@ c) Les véhicules de catégorie M1 dont le poids total autorisé en charge est s
 d) Les navettes urbaines mentionnées au 6.13. de l'article R. 311-1 et les remorques de catégorie O2 affectées au transport de personnes ;
 
 3° Véhicules motorisés à deux ou trois roues et quadricycles à moteur, les véhicules de catégorie L1e, L2e, L3e, L4e, L5e, L6e et L7e.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

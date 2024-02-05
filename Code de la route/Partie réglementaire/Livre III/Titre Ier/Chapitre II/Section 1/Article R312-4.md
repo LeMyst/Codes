@@ -57,3 +57,6 @@ VIII.-Toute infraction aux dispositions du V ou à celles prises pour leur appli
 IX.-Toutefois, lorsque les dépassements excèdent de plus de 20 % les limites réglementaires prévues au V, l'amende encourue est celle prévue pour les contraventions de la cinquième classe.
 
 X.-En cas de dépassement excédant 5 % des poids autorisés au présent article, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2021-1006 du 29 juillet 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

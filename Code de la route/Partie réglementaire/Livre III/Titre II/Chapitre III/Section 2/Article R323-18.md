@@ -19,3 +19,6 @@ La décision de suspension ou de retrait n'intervient qu'après que la personne 
 En cas d'urgence, l'agrément d'un contrôleur peut être suspendu immédiatement pour une durée maximale de deux mois.
 
 Un contrôleur ayant fait l'objet d'un retrait d'agrément ne peut demander un nouvel agrément pendant une durée de cinq ans à compter du retrait.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

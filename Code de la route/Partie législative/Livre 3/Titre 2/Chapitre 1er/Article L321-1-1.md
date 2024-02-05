@@ -15,3 +15,6 @@ Est puni d' une contravention de la cinquième classe le fait d' utiliser ou de 
 La confiscation, l' immobilisation ou la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-9.
 
 La récidive des contraventions prévues aux alinéas précédents est punie conformément aux articles 132-11 et 132-15 du code pénal. La confiscation du véhicule utilisé pour commettre l' infraction est de plein droit, sauf décision spécialement motivée de la juridiction.
+
+NOTA:
+Conformément au II de l'article 32 de la loi n° 2022-52 du 24 janvier 2022, les présentes dispositions entrent en vigueur le premier jour du troisième mois suivant la promulgation de ladite loi : le 1er avril 2022. La seconde phrase du deuxième alinéa s'applique aux contrats de location conclus à compter de cette date d'entrée en vigueur.

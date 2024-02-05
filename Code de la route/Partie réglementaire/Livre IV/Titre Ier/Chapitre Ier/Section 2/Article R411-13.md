@@ -9,3 +9,6 @@ La présidence de la commission est assurée :
 -par le préfet de département pour l'exercice des compétences consultatives mentionnées à l'article R. 411-10 relatives aux autorisations d'organisation de manifestations sportives, à l'agrément des gardiens et des installations de fourrière et aux sujets relatifs à la sécurité routière concernant les déclarations d'épreuves, courses ou manifestations sportives ;
 
 -par le préfet de police des Bouches-du-Rhône pour l'exercice des autres compétences.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.

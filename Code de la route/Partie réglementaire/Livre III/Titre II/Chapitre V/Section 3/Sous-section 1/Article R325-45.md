@@ -37,3 +37,6 @@ a) De réclamer aux propriétaires des véhicules mis, sur la demande de l'autor
 b) En cas de démolition du véhicule, de récupérer tout accessoire et toute pièce détachée en vue de sa revente après, en cas de besoin, remise en état ;
 
 c) Après démolition et si l'entreprise effectue elle-même la destruction complète du véhicule, de disposer librement des matières ayant une valeur marchande (fer, cuivre, etc.).
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

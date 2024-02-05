@@ -13,3 +13,6 @@ III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en c
 IV. - Sous réserve des dispositions du II bis, l'autorité qualifiée pour prononcer la mainlevée est tenue d'y procéder, de restituer le certificat d'immatriculation du véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière sur demande du propriétaire ou du conducteur.
 
 V.-Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules dont le propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la mainlevée ne peut être prononcée qu'après accord préalable exprès des services de police ou de gendarmerie compétents.
+
+NOTA:
+Conformément à l'article 28 du décret n° 2020-775 du 24 juin 2020, ces dispositions entrent en vigueur à une date fixée, pour chaque département, par arrêté du ministre chargé de la sécurité routière, et au plus tard le 1er avril 2021. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

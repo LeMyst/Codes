@@ -8,9 +8,7 @@ Le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destina
 
 3° relatives aux vitesses maximales autorisées par le présent code ;
 
-4° des articles
-
-R. 312-2 à R. 312-6, relatives aux limites de poids des véhicules ;
+4° des articles R. 312-2 à R. 312-6, relatives aux limites de poids des véhicules ;
 
 5° des articles R. 433-1 à R. 433-3 relatives aux transports exceptionnels de marchandises, d'engins ou de véhicules concernant le poids du véhicule et les dimensions du chargement,
 

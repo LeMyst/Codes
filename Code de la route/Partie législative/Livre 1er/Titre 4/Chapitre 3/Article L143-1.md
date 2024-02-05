@@ -4,10 +4,8 @@ I.-Sous réserve des adaptations prévues au II du présent article, les article
 
 | Dispositions applicables  | Dans leur rédaction résultant de  |
 | --- | --- |
-| Article L. 121-6
-| la loi n° 2021-401 du 8 avril 2021 améliorant l'efficacité de la justice de proximité et de la réponse pénale  |
-| Article L. 130-9
-| la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale  |
+| Article L. 121-6  | la loi n° 2021-401 du 8 avril 2021 améliorant l'efficacité de la justice de proximité et de la réponse pénale  |
+| Article L. 130-9  | la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale  |
 
 II.-Au deuxième alinéa de l'article L. 130-9, les mots : “ lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire ou ” sont supprimés.
 
@@ -28,3 +26,6 @@ V.-Pour l'application à Wallis-et-Futuna, à l'avant-dernier alinéa de l'artic
 1° Les mots : “ Les collectivités territoriales et leurs groupements gestionnaires de voirie peuvent ” sont remplacés par les mots : “ Le territoire des îles Wallis et Futuna peut ” ;
 
 2° Les mots : “ du représentant de l'Etat dans le département et après consultation de la commission départementale de la sécurité routière ” sont remplacés par les mots : “ de l'administrateur supérieur et après consultation de l'instance compétente localement en matière de sécurité routière ”.
+
+NOTA:
+Conformément à l’article 35 de l’ordonnance n°2022-1521 du 7 décembre 2022, ces dispositions entrent en vigueur le dixième jour suivant la publication de ladite ordonnance en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie.

@@ -5,3 +5,6 @@ A l'exception des véhicules agricoles et forestiers, d'une part, et des engins 
 Le modèle de la signalisation et ses modalités d'apposition sont fixés par arrêté conjoint du ministre chargé des transports et du ministre chargé de la sécurité routière.
 
 Le fait, pour tout conducteur, de contrevenir à l'obligation de signalisation imposée par le présent article et aux dispositions prises pour son application est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2020-1396 du 17 novembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

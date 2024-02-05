@@ -23,3 +23,8 @@ II.-Toute personne coupable de l'infraction prévue au présent article encourt 
 III.-L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 IV.-Dans les conditions prévues aux articles 495-17 et suivants du code de procédure pénale, l'action publique peut être éteinte par le versement d'une amende forfaitaire d'un montant de 800 €. Le montant de l'amende forfaitaire minorée est de 640 € et le montant de l'amende forfaitaire majorée de 1 600 €.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

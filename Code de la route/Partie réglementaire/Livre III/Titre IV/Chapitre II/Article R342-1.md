@@ -13,3 +13,6 @@ Pour l'application des dispositions réglementaires du présent livre à Mayotte
 5° (Abrogé) ;
 
 6° "départementale" par "territoriale".
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

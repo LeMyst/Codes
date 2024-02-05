@@ -42,8 +42,7 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ;
 
-15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1,
-L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation.
+15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation.
 
 16° Au maire dans le cadre des attributions prévues aux articles L. 541-21-3 et L. 541-21-4 du code de l'environnement, aux seules fins d'identifier le titulaire du certificat d'immatriculation ;
 
@@ -60,3 +59,6 @@ II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous
 III.-Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage doivent produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité de la contravention pour non-paiement du péage.
 
 IV.-Les personnes mentionnées au 12° du I du présent article doivent produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité des manquements au regard de la taxe sur l'utilisation par les poids lourds de certaines voies du domaine public routier mentionné à l'article L. 421-186 du code des impositions sur les biens et services prévus par l'ordonnance n° 2021-659 du 26 mai 2021 relative aux modalités d'instauration d'une taxe sur le transport routier de marchandises recourant à certaines voies du domaine public routier de la Collectivité européenne d'Alsace.
+
+NOTA:
+Conformément à l'article 7 de l'ordonnance n° 2023-661 du 26 juillet 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

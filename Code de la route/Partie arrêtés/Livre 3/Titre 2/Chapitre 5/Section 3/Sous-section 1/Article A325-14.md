@@ -21,3 +21,6 @@ Le délai prévu au quatrième alinéa de l'article L. 325-7 est réduit à dix 
 9° Tout véhicule de genre SRSP et RESP âgé de plus de 15 ans ;
 
 10° Tout véhicule à moteur, à l'exception des genres TRA, REA, SREA, MIAR, MAGA, n'entrant pas dans les 1° à 9° et âgé de plus 10 ans, ainsi que tout engin motorisé mentionné à l'article L. 321-1-1 du code de la route.
+
+NOTA:
+Conformément à l'article 2 de l'arrêté du 10 juin 2022 (NOR : INTS2216276A), ces dispositions entrent en vigueur le 1er juillet 2022. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.

@@ -6,8 +6,7 @@ I. - Toute remorque, dont le poids total autorisé en charge excède :
 
 2° Soit 750 kilogrammes pour toute autre remorque ;
 
-3° Soit la moitié du poids à vide du véhicule tracteur,
-
+3° Soit la moitié du poids à vide du véhicule tracteur,\
 doit être équipée d'un dispositif de freinage permettant son arrêt automatique en cas de rupture de l'attelage pendant la marche.
 
 II. - A l'exception des remorques sans timon utilisées pour le transport des bois en grume ou des pièces de grande longueur et des semi-remorques, le dispositif de freinage prévu au I ci-dessus n'est pas obligatoire sur les remorques à un essieu dont le poids total autorisé en charge ne dépasse pas 1,5 tonne, si elles sont munies, en plus du dispositif d'attelage, d'une attache secondaire qui, en cas de rupture du dispositif d'attelage, empêche le timon de toucher le sol et assure un guidage résiduel de la remorque.

@@ -13,3 +13,6 @@ Le fait, pour tout conducteur, de contrevenir aux dispositions du présent artic
 Toutefois, lorsque les dépassements excèdent les limites réglementaires de plus de 20 %, l'amende encourue est celle prévue pour les contraventions de la cinquième classe.
 
 Dans ce cas, la récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
+
+NOTA:
+Décret 2003-468 art. 4 : Dispositions applicables à Mayotte.

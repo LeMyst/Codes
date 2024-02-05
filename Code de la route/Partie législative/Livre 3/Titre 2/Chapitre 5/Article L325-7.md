@@ -13,3 +13,6 @@ Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai d
 Le délai prévu au premier alinéa du présent article est réduit à sept jours pour les véhicules ayant servi à commettre l'infraction prévue à l'article L. 236-1. Ces véhicules sont, à l'expiration de ce délai de sept jours, livrés à la destruction.
 
 Les véhicules ayant servi à commettre ladite infraction pour lesquels les obligations relatives à l'immatriculation ou à l'identification n'ont pas été satisfaites au moment de leur mise en fourrière sont, en l'absence de réclamation du propriétaire dont le titre est connu ou de revendication de cette qualité au cours de la procédure, considérés comme abandonnés dès leur entrée en fourrière et livrés à la destruction.
+
+NOTA:
+Conformément au II de l'article 32 de la loi n° 2022-52 du 24 janvier 2022, les présentes dispositions entrent en vigueur le premier jour du troisième mois suivant la promulgation de ladite loi : le 1er avril 2022.

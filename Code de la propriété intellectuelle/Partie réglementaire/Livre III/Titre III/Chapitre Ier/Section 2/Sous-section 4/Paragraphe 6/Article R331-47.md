@@ -5,3 +5,6 @@ Dans les cinq jours qui suivent le dépôt de sa déclaration, l'auteur du recou
 Dès l'enregistrement du recours, le greffe de la cour d'appel notifie une copie de la déclaration mentionnée à l'article R. 331-46 et des pièces qui y sont jointes au président de l'autorité, ainsi qu'au ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle.
 
 Le président de l'autorité transmet au greffe de la cour le dossier de l'affaire qui comporte le rapport, les mémoires et pièces transmis par les parties et tous les documents versés au dossier durant l'instruction.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

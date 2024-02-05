@@ -19,3 +19,6 @@ VI. – Les parties se défendent elles-mêmes. Elles ont la faculté de se fair
 VII. – La cour d'appel peut soit confirmer la décision du collège des sanctions, soit l'annuler ou la réformer en tout ou en partie.
 
 VIII. – Les décisions de la cour d'appel ou de son premier président sont notifiées aux parties par le greffe, par lettre recommandée avec demande d'avis de réception.
+
+NOTA:
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.

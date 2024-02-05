@@ -1,10 +1,6 @@
 # Article L721-9
 
-Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui peuvent être soit des organismes d'inspection, soit des organismes de certification, qui bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant le champ de ce contrôle.
-
-Les organismes d'inspection effectuent les opérations de contrôle et transmettent leur rapport à l'organisme de défense et de gestion, qui décide des mesures sanctionnant les manquements.
-
-Les organismes de certification décident de l'octroi, du maintien ou de l'extension de la certification, ainsi que des mesures sanctionnant les manquements.
+Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui peuvent être soit des organismes d'inspection, soit des organismes de certification, qui bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant le champ de ce contrôle. Les organismes d'inspection effectuent les opérations de contrôle et transmettent leur rapport à l'organisme de défense et de gestion, qui décide des mesures sanctionnant les manquements. Les organismes de certification décident de l'octroi, du maintien ou de l'extension de la certification, ainsi que des mesures sanctionnant les manquements.
 
 L'organisme de défense et de gestion peut demander à un opérateur d'avoir recours, à ses frais, à un organisme de contrôle accrédité conformément au premier alinéa du présent article afin qu'il effectue un contrôle supplémentaire visant à vérifier que cet opérateur a appliqué les mesures correctives mentionnées au 3° de l'article L. 721-6 du présent code.
 

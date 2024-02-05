@@ -11,3 +11,6 @@ Cet établissement a pour mission :
 2-1° D'appliquer les dispositions du code de commerce relatives à la tenue du registre national des entreprises prévu à l'article L. 123-36 de ce code, aux prérogatives qui y sont associées et à la diffusion gratuite des informations au public ;
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il estime utile en ces matières ; il participe à l'élaboration des accords internationaux ainsi qu'à la représentation de la France dans les organisations internationales compétentes.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

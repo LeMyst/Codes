@@ -9,3 +9,6 @@ Il en est de même si les études ou fabrications sont exécutées dans un étab
 Le président du tribunal judiciaire peut, s'il en est requis par l'ayant droit, ordonner une expertise qui ne peut être effectuée que par des personnes agréées par le ministre chargé de la défense et devant ses représentants.
 
 Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de brevet exploité dans les conditions définies au présent article aussi longtemps que ces demandes sont soumises aux interdictions prévues par les articles L. 612-9 et L. 612-10. Une telle exploitation fait encourir de plein droit à ses auteurs la responsabilité définie au présent article.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

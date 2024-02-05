@@ -5,3 +5,6 @@ L'enregistrement produit ses effets, à compter de la date de dépôt de la dema
 Les dessins ou modèles déposés avant le 1er octobre 2001 restent protégés, sans prorogation possible, pour une période de vingt-cinq ans à compter de leur date de dépôt. Les dessins ou modèles dont la protection a été prorogée, avant le 1er octobre 2001, pour une nouvelle période de vingt-cinq ans restent protégés jusqu'à l'expiration de cette période.
 
 La durée maximale de vingt-cinq ans prévue au premier alinéa est ramenée à dix ans pour les pièces mentionnées au 4° de l'article L. 513-6 pour lesquelles le même 4° ne prévoit pas d'exception à l'exercice des droits conférés par l'enregistrement d'un dessin ou modèle.
+
+NOTA:
+Conformément au IV de l'article 32 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

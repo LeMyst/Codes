@@ -7,3 +7,6 @@ Lorsque la procédure en nullité est suspendue en application des dispositions 
 La reprise de la procédure est notifiée sans délai aux parties par l'Institut, avec indication d'une date de reprise.
 
 Lorsque la procédure en nullité est fondée sur plusieurs droits antérieurs et que l'un d'entre eux relève du cas mentionné aux 6° de l'article R. 716-11, la procédure reprend sur le fondement des seuls droits restants.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

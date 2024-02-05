@@ -67,3 +67,6 @@ a) Lorsque le titulaire de la marque communautaire a été déchu de ses droits 
 b) Lorsqu'il est établi, par application d'une décision de l'Office de l'harmonisation dans le marché intérieur ou de la juridiction nationale, que la demande ou la marque communautaire est affectée en France d'un motif de refus d'enregistrement, de nullité ou de révocation.
 
 III. - La demande de marque nationale issue de la transformation d'une demande ou d'une marque communautaire bénéficie de la date de dépôt ou de la date de priorité de cette demande ou de cette marque et, le cas échéant, de l'ancienneté d'une marque nationale antérieurement enregistrée et valablement revendiquée."
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

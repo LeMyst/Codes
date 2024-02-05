@@ -17,3 +17,6 @@ Elle comprend :
 Les pièces et informations susmentionnées doivent être fournies dans le délai prévu à l'article L. 712-4.
 
 Toutefois, l'exposé des moyens mentionné au 3° et les pièces apportées au soutien des informations mentionnées aux 1°, 2° et 5° peuvent être fournis dans un délai supplémentaire d'un mois suivant l'expiration du délai susvisé, dans les conditions précisées par décision du directeur général de l'Institut national de la propriété industrielle, sous réserve que l'opposant n'étende pas la portée de l'opposition ni n'invoque d'autres droits antérieurs ou d'autres produits ou services que ceux invoqués à l'appui de l'opposition.
+
+NOTA:
+Conformément au V de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, l'article R. 712-14, dans sa rédaction résultant du présent décret, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur de ce décret.

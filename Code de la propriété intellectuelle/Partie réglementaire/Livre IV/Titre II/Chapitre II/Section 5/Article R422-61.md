@@ -7,3 +7,6 @@ La chambre entend le rapporteur qui donne lecture de son rapport.
 L'auteur de la plainte ou de la saisine peut être entendu. La personne poursuivie a la parole en dernier. L'auteur de la plainte ou de la saisine ainsi que la personne poursuivie peuvent se faire assister de la personne de leur choix devant la chambre.
 
 Les séances de la chambre sont publiques. Toutefois, le président de la chambre peut, d'office ou à la demande d'une des parties, interdire au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou du secret des affaires le justifie.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

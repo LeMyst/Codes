@@ -19,3 +19,6 @@ Elles comportent :
 La demande et le dossier sont rédigés en langue française.
 
 II. – Si la requête ne satisfait pas aux prescriptions du I, le collège de contrôle ou le médiateur selon le cas adresse une demande de régularisation sous un délai maximal d'un mois à l'auteur de la requête. En l'absence de régularisation la requête est déclarée irrecevable.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

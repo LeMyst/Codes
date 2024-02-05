@@ -5,3 +5,6 @@ Le dépôt peut être fait par le demandeur personnellement ou par un mandataire
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 612-38, R. 613-44, R. 613-44-1 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-44 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

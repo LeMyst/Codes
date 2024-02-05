@@ -9,3 +9,6 @@ La convocation, accompagnée du rapport et de l'annexe, est notifiée à l'autor
 Un délai d'un mois à compter de cette notification est imparti à l'auteur de la plainte ou de la saisine et à la personne poursuivie, pour produire d'éventuelles observations écrites.
 
 Le dossier est également remis aux membres de la chambre.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

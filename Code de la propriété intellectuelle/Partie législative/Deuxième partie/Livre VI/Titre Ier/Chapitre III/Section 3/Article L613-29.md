@@ -17,3 +17,6 @@ A défaut d'accord dans le délai prévu à l'alinéa précédent, le prix est f
 d) Une licence d'exploitation exclusive ne peut être accordée qu'avec l'accord de tous les copropriétaires ou par autorisation de justice.
 
 e) Chaque copropriétaire peut, à tout moment, céder sa quote-part. Les copropriétaires disposent d'un droit de préemption pendant un délai de trois mois à compter de la notification du projet de cession. A défaut d'accord sur le prix, celui-ci est fixé par le tribunal judiciaire. Les parties disposent d'un délai d'un mois à compter de la notification du jugement ou, en cas d'appel, de l'arrêt, pour renoncer à la vente ou à l'achat de la part de copropriété sans préjudice des dommages-intérêts qui peuvent être dus ; les dépens sont à la charge de la partie qui renonce.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

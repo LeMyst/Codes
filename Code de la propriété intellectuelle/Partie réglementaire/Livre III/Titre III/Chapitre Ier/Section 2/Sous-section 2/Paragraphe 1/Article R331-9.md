@@ -17,3 +17,6 @@ IV. – Lorsque les demandes d'identification traitées au cours d'une année ci
 Lorsque les demandes d'identification traitées au cours d'une année civile par un opérateur sont inférieures à ce seuil, les surcoûts mentionnés aux b et c sont compensés, pour chaque demande d'identification, selon des tarifs établis en fonction de la nature de la demande.
 
 V. – Un arrêté conjoint des ministres chargés du budget et de la culture fixe le seuil, le versement forfaitaire et les tarifs mentionnés au IV.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

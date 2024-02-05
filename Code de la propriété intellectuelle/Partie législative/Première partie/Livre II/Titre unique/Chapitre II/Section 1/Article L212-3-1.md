@@ -13,3 +13,6 @@ III. - Tout accord mentionné au I et au II peut être étendu à l'ensemble des
 A défaut d'accord dans un délai de douze mois à compter de la publication de l'ordonnance n° 2021-580 du 12 mai 2021, les conditions dans lesquelles l'artiste-interprète peut obtenir communication des informations détenues par le sous-cessionnaire sont fixées par décret en Conseil d'Etat.
 
 Lorsqu'un accord est conclu après la publication de ce décret, les dispositions de celui-ci cessent de produire leurs effets à la date de l'entrée en vigueur de l'arrêté rendant obligatoire l'accord à l'ensemble du secteur.
+
+NOTA:
+Conformément au II de l'article 13 de l'ordonnance n° 2021-580 du 12 mai 2021, ces dispositions entrent en vigueur le 7 juin 2022 et sont applicables aux contrats en cours à cette date.

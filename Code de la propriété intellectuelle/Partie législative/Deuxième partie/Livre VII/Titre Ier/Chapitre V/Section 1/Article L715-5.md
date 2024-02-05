@@ -9,3 +9,6 @@ Outre les motifs de déchéance prévus aux articles L. 714-5 et L. 714-6, le ti
 3° La marque est devenue, du fait de l'usage par les personnes habilitées, susceptible d'induire le public en erreur au sens du second alinéa de l'article L. 715-4 ;
 
 4° Une modification du règlement d'usage l'a rendu non conforme aux conditions prévues aux articles L. 715-1 et L. 715-2 ou contraire à l'ordre public.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

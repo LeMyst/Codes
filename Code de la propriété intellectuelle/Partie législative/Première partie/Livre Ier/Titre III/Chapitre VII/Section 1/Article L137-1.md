@@ -7,3 +7,6 @@ Cette définition ne comprend pas les encyclopédies en ligne à but non lucrati
 Les dispositions prévues au III de l'article L. 137-2 ne s'appliquent pas aux services de communication au public en ligne dont l'objet est de porter atteinte aux droits d'auteurs et aux droits voisins.
 
 L'évaluation de la quantité importante d'œuvres et objets protégés mentionnée au premier alinéa tient compte notamment du nombre de fichiers de contenus protégés téléversés par les utilisateurs du service, du type d'œuvres téléversées et de l'audience du service. Les modalités d'application du présent alinéa sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l'article 13 de l'ordonnance n° 2021-580 du 12 mai 2021, ces dispositions sont applicables à compter du 7 juin 2021 aux œuvres et objets faisant l'objet d'une protection au titre du droit d'auteur ou des droits voisins à la date de publication de la présente ordonnance, y compris ceux téléversés antérieurement à cette date.

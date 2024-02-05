@@ -11,3 +11,6 @@ La phase d'instruction ou le délai fixé au premier alinéa de l'article R. 712
 4° Sur demande conjointe des parties, pendant une durée de quatre mois renouvelable deux fois ;
 
 5° A l'initiative de l'Institut, dans l'attente d'informations et d'éléments susceptibles d'avoir une incidence sur l'issue du litige ou la situation des parties.
+
+NOTA:
+Conformément au V de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, l'article R. 712-17, dans sa rédaction résultant du présent décret, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur de ce décret.

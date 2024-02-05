@@ -17,3 +17,6 @@ En cas de non-respect des dispositions prévues aux paragraphes précédents, la
 Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai visé aux deuxième et quatrième alinéas, il n'indique une date rectifiée qui se situe dans le délai de priorité ou qu'il ne présente un recours en restauration conformément à l'article L. 612-16-1.
 
 Les indications contenues dans la déclaration de priorité sont mentionnées dans la demande de brevet publiée et portées sur le fascicule du brevet.
+
+NOTA:
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le 1er juillet 2020.

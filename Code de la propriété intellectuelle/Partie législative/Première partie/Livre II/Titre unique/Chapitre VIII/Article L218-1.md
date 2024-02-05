@@ -9,3 +9,6 @@ II.-On entend par agence de presse au sens du présent chapitre toute entreprise
 III.-On entend par éditeur de presse au sens du présent chapitre la personne physique ou morale qui édite une publication de presse ou un service de presse en ligne au sens de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.
 
 IV.-Le présent chapitre s'applique aux éditeurs de presse et agences de presse établis sur le territoire d'un Etat membre de l'Union européenne.
+
+NOTA:
+Conformément à l'article 14 de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse, cette disposition ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.

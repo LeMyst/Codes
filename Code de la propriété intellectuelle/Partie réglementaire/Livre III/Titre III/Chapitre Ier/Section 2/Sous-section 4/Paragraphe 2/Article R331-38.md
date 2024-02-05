@@ -5,3 +5,6 @@ En cas de non-respect des engagements acceptés par l'Autorité de régulation d
 Cette sanction pécuniaire peut également être prononcée, à la demande du titulaire des droits sur la mesure technique, à l'encontre du demandeur si celui-ci ne respecte pas soit les engagements qu'il a pris et qui ont été acceptés par l'autorité suivant la procédure fixée à l'article R. 331-34, soit les engagements qui lui ont été imposés par l'autorité en application des dispositions du I de l'article R. 331-36.
 
 L'autorité statue au terme de la procédure prévue aux articles R. 331-24 à R. 331-31 et R. 331-35.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

@@ -9,3 +9,6 @@ Lorsque l'auteur de la plainte demeure hors du territoire métropolitain, le dé
 L'organe d'appel infirme ou confirme la décision de classement. Il notifie sa décision aux parties et au secrétariat de la chambre de discipline.
 
 Si l'organe d'appel infirme la décision de classement, le secrétariat en informe le rapporteur pour qu'il procède à l'instruction de l'affaire. Une copie pour information en est communiquée au président de la chambre de discipline et aux parties par le secrétariat de la chambre.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

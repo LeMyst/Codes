@@ -17,3 +17,6 @@ Dans le délai de deux mois suivant la publication de la demande d'enregistremen
 7° Le nom d'une entité publique, s'il existe un risque de confusion dans l'esprit du public.
 
 Une opposition peut également être formée en cas d'atteinte à une marque protégée dans un Etat partie à la convention de Paris pour la protection de la propriété industrielle dans les conditions prévues au III de l'article L. 711-3.
+
+NOTA:
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-4, dans sa rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au plus tard le 15 décembre 2019.

@@ -17,3 +17,6 @@ La demande est rédigée en langue française.
 Si la demande n'est pas accompagnée de ces éléments, une demande de régularisation est adressée au demandeur ou à son représentant mandaté, qui doivent y répondre et apporter les compléments dans un délai d'un mois.
 
 II.-L'autorité délibère dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande complète.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

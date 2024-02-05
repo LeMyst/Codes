@@ -17,3 +17,6 @@ Le président du collège de contrôle préside la commission.
 Pour l'accomplissement des missions qui sont confiées au collège de contrôle, le président du collège a qualité pour agir en justice.
 
 Il informe le procureur de la République de tout fait qu'il constate dans l'exercice de ses missions susceptible de constituer une infraction pénale.
+
+NOTA:
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à compter du prochain renouvellement de chaque commission.

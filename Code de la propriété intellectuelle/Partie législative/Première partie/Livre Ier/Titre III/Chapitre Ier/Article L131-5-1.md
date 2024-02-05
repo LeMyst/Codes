@@ -15,3 +15,6 @@ A défaut d'accord dans un délai de douze mois à compter de la publication de 
 Lorsqu'un accord est conclu après la publication de ce décret, les dispositions de celui-ci cessent de produire leurs effets à la date de l'entrée en vigueur de l'arrêté rendant obligatoire l'accord à l'ensemble du secteur.
 
 IV.-Les dispositions du présent article ne sont pas applicables aux auteurs de logiciels.
+
+NOTA:
+Conformément au II de l'article 13 de l'ordonnance n° 2021-580 du 12 mai 2021, ces dispositions entrent en vigueur le 7 juin 2022 et sont applicables aux contrats en cours à cette date.

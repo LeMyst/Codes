@@ -21,3 +21,6 @@ Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation
 Lorsque la limitation est demandée, si les revendications modifiées ne constituent pas une limitation par rapport aux revendications antérieures du brevet ou si elles ne sont pas conformes aux dispositions de l'article L. 612-6, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa requête ou présenter des observations. A défaut de régularisation ou d'observations permettant de lever l'objection, la requête est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
 
 Les renonciations et limitations sont inscrites au Registre national des brevets. Un avis d'inscription est adressé au demandeur de la renonciation ou de la limitation.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

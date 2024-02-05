@@ -7,3 +7,6 @@ En cas de retour au greffe de la lettre de notification ou lorsque le défendeur
 A peine de caducité de l'acte de recours relevée d'office, la signification doit être effectuée dans le mois de l'avis adressé par le greffe ; cependant, si, entre-temps, le défendeur a constitué avocat avant la signification de l'acte de recours, il est procédé par voie de notification à son avocat.
 
 A peine de nullité, l'acte de signification indique au défendeur que, faute pour lui de constituer avocat dans un délai de quinze jours à compter de cette signification, il s'expose à ce qu'un arrêt soit rendu contre lui au vu des seuls éléments fournis par son adversaire et que, faute de conclure dans le délai mentionné à l'article R. 411-30, il s'expose à ce que ses écritures soient déclarées d'office irrecevables.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

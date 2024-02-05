@@ -9,3 +9,6 @@ Elle peut également accorder au demandeur une provision lorsque l'existence de 
 Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond, le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019. Le décret n° 2019-1316 du 9 décembre 2019 pris pour l'application de l'ordonnance n° 2019-1169 a été publié le 10 décembre 2019.

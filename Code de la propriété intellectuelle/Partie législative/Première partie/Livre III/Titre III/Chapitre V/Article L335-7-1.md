@@ -7,3 +7,6 @@ La négligence caractérisée s'apprécie sur la base des faits commis au plus t
 Dans ce cas, la durée maximale de la suspension est d'un mois.
 
 Le fait pour la personne condamnée à la peine complémentaire prévue par le présent article de ne pas respecter l'interdiction de souscrire un autre contrat d'abonnement à un service de communication au public en ligne pendant la durée de la suspension est puni d'une amende d'un montant maximal de 3 750 €.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

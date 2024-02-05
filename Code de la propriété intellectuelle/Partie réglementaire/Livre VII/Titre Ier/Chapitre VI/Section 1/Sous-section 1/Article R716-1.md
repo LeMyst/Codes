@@ -17,3 +17,6 @@ Elle comprend :
 6° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le pouvoir du mandataire, ce pouvoir pouvant être adressé à l'Institut dans le délai d'un mois.
 
 Après qu'elle a été formée, la demande en nullité ou en déchéance ne peut être étendue à d'autres motifs ou d'autres produits ou services que ceux invoqués ou visés dans la demande initiale.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

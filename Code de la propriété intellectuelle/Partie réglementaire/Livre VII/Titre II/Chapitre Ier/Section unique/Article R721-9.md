@@ -7,3 +7,6 @@ Le contrôle du respect d'un cahier des charges homologué ne peut être réalis
 L'organisme d'accréditation met à disposition sur son site internet une liste actualisée des organismes d'inspection ou de certification accrédités. Ces organismes doivent informer sans délai les organismes de défense et de gestion de toute modification de l'état de leur accréditation.
 
 Ce rapport contient la marque d'accréditation ou une référence textuelle à l'accréditation.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2016-280 du 8 mars 2016, les présentes dispositions sont applicables aux demandes d'homologation d'indications géographiques déposées avant son entrée en vigueur.

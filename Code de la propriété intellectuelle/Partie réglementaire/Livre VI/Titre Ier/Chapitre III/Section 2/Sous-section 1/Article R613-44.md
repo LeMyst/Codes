@@ -9,3 +9,6 @@ Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans
 Lorsque l'opposition est formée conjointement par plusieurs personnes, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
 Lorsque dans le cadre de la procédure d'opposition le titulaire du brevet présente des observations ou des propositions de modification de ce brevet, les conditions de représentation mentionnées à l'article R. 612-2 s'appliquent.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

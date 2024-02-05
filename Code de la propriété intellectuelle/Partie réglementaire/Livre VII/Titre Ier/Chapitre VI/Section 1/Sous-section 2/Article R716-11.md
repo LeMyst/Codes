@@ -15,3 +15,6 @@ La procédure en nullité ou en déchéance est clôturée :
 6° Lorsque, après suspension de la procédure en nullité dans les cas prévus aux 2° et 3° de l'article R. 716-9, le demandeur n'a pas répondu, dans le délai imparti par l'Institut, à la demande de ce dernier l'invitant à lui faire connaître l'issue des procédures engagées. Toutefois lorsque l'opposition est fondée sur plusieurs droits antérieurs, la clôture ne porte que sur les droits antérieurs réputés non fondés en application de la disposition qui précède, le directeur général de l'Institut national de la propriété industrielle statuant sur les droits antérieurs restants.
 
 La décision de clôture de la procédure est notifiée sans délai aux parties.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

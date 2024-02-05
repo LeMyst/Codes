@@ -7,3 +7,6 @@ Lorsque cela ne peut être le cas, pour une cause étrangère à celui qui les a
 Lorsque l'acte de recours est adressé par voie postale, le greffe l'enregistre à la date figurant sur le cachet du bureau d'émission et adresse à l'expéditeur un récépissé par tout moyen.
 
 Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité pour cause étrangère à l'expéditeur. Les modalités des échanges par voie électronique sont fixées par l'arrêté du garde des sceaux mentionné à l'article 930-1 du code de procédure civile.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

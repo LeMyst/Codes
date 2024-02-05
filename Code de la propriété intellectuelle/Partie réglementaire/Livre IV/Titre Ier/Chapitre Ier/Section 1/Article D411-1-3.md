@@ -7,3 +7,6 @@ La réutilisation de tout ou partie de ces informations publiques est soumise à
 Les modalités de diffusion et de mise à la disposition du public des informations du registre national des entreprises respectent les dispositions relatives à la communication des décisions de justice et des documents comptables prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la déclaration des informations relatives au bénéficiaire effectif prévues aux 1° à 3° de l'article L. 561-46 et aux articles R. 561-57 et R. 561-58 du code monétaire et financier.
 
 La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le site internet de l'Institut national de la propriété industrielle.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2022-1015 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

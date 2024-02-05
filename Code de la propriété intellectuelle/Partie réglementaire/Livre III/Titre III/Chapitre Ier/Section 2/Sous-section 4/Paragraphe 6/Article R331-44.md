@@ -9,3 +9,6 @@ Ces décisions ainsi que les procès-verbaux mentionnés aux articles R. 331-34 
 L'autorité peut mettre tout ou partie des frais de procédure à la charge du demandeur dont la demande est rejetée ou à celle de la personne mise en cause lorsqu'une injonction ou une sanction pécuniaire est prononcée à son encontre. Ces frais incluent, le cas échéant, le coût de l'expertise mentionnée à l'article R. 331-31 et celui de la publication de la décision.
 
 Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

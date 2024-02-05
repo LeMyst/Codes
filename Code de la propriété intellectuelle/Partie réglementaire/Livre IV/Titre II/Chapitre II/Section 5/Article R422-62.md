@@ -9,3 +9,6 @@ La décision est notifiée par le secrétariat au conseil en propriété industr
 La décision est exécutoire à compter de sa notification à la personne qui en a fait l'objet.
 
 La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation dans les délais de droit commun prévus par l'article R. 821-1 du code de justice administrative.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

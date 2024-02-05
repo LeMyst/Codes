@@ -21,3 +21,6 @@ Lorsque cette mise en demeure n'est pas suivie d'effet dans un délai de trois m
 III.-Lorsque l'éditeur n'a satisfait, durant deux exercices successifs, à son obligation de reddition des comptes que sur mise en demeure de l'auteur, le contrat est résilié de plein droit trois mois après la seconde mise en demeure.
 
 IV.-L'éditeur reste tenu, même en l'absence de mise en demeure par l'auteur, de respecter ses obligations légales et contractuelles de reddition des comptes.
+
+NOTA:
+Conformément au III de l'article 3 de la loi n° 2021-1901 du 30 décembre 2021, le 1° du I est applicable à compter de l'exercice débutant après l'application du second alinéa de l'article L. 132-17-4-1 du code de la propriété intellectuelle.

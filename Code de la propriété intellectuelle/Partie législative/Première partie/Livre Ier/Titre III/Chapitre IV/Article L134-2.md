@@ -5,3 +5,6 @@ Il est créé une base de données publique, mise à disposition en accès libre
 Toute personne peut demander à la Bibliothèque nationale de France l'inscription d'un livre indisponible dans la base de données.
 
 L'inscription d'un livre dans la base de données ne préjuge pas de l'application des articles L. 132-12 et L. 132-17.
+
+NOTA:
+Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.

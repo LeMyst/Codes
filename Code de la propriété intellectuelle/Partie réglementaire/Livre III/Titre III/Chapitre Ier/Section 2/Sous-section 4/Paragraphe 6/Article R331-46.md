@@ -11,3 +11,6 @@ Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le deman
 La déclaration de recours mentionne la liste des pièces et documents justificatifs produits. Les pièces et documents mentionnés dans la déclaration sont remis au greffe de la cour d'appel en même temps que la déclaration. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
 
 Lorsque le demandeur au recours n'est pas représenté, il doit informer sans délai le greffe de la cour de tout changement de domicile.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

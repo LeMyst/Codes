@@ -31,3 +31,6 @@ A tout moment, le service de communication au public en ligne peut demander à l
 V.-La liste mentionnée au I peut être utilisée par les signataires des accords volontaires prévus à l'article L. 331-12. Pendant toute la durée de l'inscription sur cette liste, les annonceurs, leurs mandataires, les services mentionnés au 2° du II de l'article 299 du code général des impôts et toute autre personne en relation commerciale avec les services mentionnés au I du présent article, notamment pour pratiquer des insertions publicitaires ou procurer des moyens de paiement, rendent publique, au moins une fois par an, dans des conditions précisées par l'autorité, l'existence de ces relations et les mentionnent, le cas échéant, dans le rapport de gestion prévu au II de l'article L. 232-1 du code de commerce.
 
 VI.-L'inscription, par l'autorité, sur la liste prévue au I du présent article ne constitue pas une étape préalable nécessaire à toute sanction ou voie de droit que les titulaires de droits peuvent directement solliciter auprès du juge.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

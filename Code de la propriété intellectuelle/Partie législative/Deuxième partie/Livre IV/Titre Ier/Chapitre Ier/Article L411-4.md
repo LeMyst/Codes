@@ -9,3 +9,6 @@ Dans l'exercice de ces compétences, il n'est pas soumis à l'autorité de tutel
 Le pourvoi en cassation contre les décisions des cours d'appel statuant sur ces recours est ouvert aux parties et au directeur général de l'Institut national de la propriété industrielle.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+NOTA:
+Conformément aux dispositions prévues à l'article 5 de l'ordonnance n°2020-116 du 12 février 2020, prévoit, à l'exception de son article 4, que les dispositions de la présente ordonnance entrent en vigueur le 1er avril 2020. Elles sont applicables aux brevets d'invention dont la mention de délivrance a été publiée au Bulletin officiel de la propriété industrielle à compter de cette date.

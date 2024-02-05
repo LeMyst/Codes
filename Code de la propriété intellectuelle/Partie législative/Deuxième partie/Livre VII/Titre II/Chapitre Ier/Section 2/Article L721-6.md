@@ -1,7 +1,6 @@
 # Article L721-6
 
-L'organisme de défense et de gestion contribue à la mission d'intérêt général de préservation et de mise en valeur des territoires, des traditions locales et des savoir-faire ainsi que des produits qui en sont issus.
-
+L'organisme de défense et de gestion contribue à la mission d'intérêt général de préservation et de mise en valeur des territoires, des traditions locales et des savoir-faire ainsi que des produits qui en sont issus.\
 Pour chaque produit bénéficiant d'une indication géographique dont il assure la défense et la gestion, l'organisme :
 
 1° Elabore le projet de cahier des charges, le soumet à l'homologation de l'Institut national de la propriété industrielle et contribue à son application par les opérateurs ;

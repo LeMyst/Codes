@@ -15,3 +15,6 @@ III.-On entend par service en ligne accessoire, au sens du présent article, un 
 IV.-On entend par programme de télévision propre, au sens du présent article, un programme entièrement financé par un organisme de radiodiffusion, à l'exclusion des productions indépendantes au sens des articles 71 et 71-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et des coproductions.
 
 V.-La rémunération due à l'auteur au titre des actes de représentation et de reproduction mentionnés au I tient compte de l'étendue de l'exploitation de l'œuvre.
+
+NOTA:
+Se reporter aux dispositions du I de l'article 5 de l'ordonnance n° 2021-798 du 23 juin 2021.

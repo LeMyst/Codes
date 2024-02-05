@@ -11,3 +11,6 @@ II.-Les dispositions de l'article L. 217-2 sont applicables à la délivrance et
 III.-Par dérogation au I, le titulaire du droit peut céder celui-ci à un organisme de radiodiffusion.
 
 Les dispositions du I ne s'appliquent pas aux droits dont est cessionnaire un organisme de radiodiffusion.
+
+NOTA:
+Conformément au III de l'article 5 de l'ordonnance n° 2021-798 du 23 juin 2021, ces dispositions entrent en vigueur le 1er septembre 2021.

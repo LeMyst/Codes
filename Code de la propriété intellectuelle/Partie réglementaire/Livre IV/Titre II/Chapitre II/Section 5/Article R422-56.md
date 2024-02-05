@@ -17,3 +17,6 @@ Lorsqu'un conseil en propriété industrielle saisit la chambre de discipline d'
 Les membres de la chambre de discipline ont des suppléants nommés dans les mêmes conditions.
 
 La chambre de discipline connaît également des manquements à leurs obligations des autres personnes admises à exercer en France des activités relevant de la profession de conseil en propriété industrielle.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

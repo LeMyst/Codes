@@ -17,3 +17,6 @@ La retenue mentionnée au premier alinéa ne porte pas :
 -sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de l'Union européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ;
 
 -sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre Etat membre de l'Union européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées, après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un Etat non membre de l'Union européenne.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

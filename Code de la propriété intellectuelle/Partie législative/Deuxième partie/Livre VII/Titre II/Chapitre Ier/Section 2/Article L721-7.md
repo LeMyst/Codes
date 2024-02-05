@@ -1,7 +1,6 @@
 # Article L721-7
 
-Le cahier des charges d'une indication géographique précise :
-
+Le cahier des charges d'une indication géographique précise :\
 1° Le nom de celle-ci ;
 
 2° Le produit concerné ;

@@ -15,3 +15,6 @@ II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de
 III.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, sciemment, d'importer, de distribuer, de mettre à disposition du public sous quelque forme que ce soit ou de communiquer au public, directement ou indirectement, une interprétation, un phonogramme, un vidéogramme, un programme ou une publication de presse, dont un élément d'information mentionné à l'article L. 331-11 a été supprimé ou modifié dans le but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter une telle atteinte.
 
 IV.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des droits prévus par le présent code.
+
+NOTA:
+Conformément à l'article 14 de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse, cette disposition ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.

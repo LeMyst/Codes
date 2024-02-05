@@ -17,3 +17,6 @@ L'organisme de certification informe l'organisme de défense et de gestion en ca
 III. - Le rapport de contrôle mentionné aux I et II du présent article et, le cas échéant, le certificat émis par l'organisme de certification contiennent la marque d'accréditation ou une référence textuelle à l'accréditation.
 
 IV. - Les informations sur les résultats des contrôles effectués par les organismes d'inspection ou de certification, sur les mesures correctives prises par les opérateurs, sur les décisions de certification, sur les modifications de certificat et sur les réductions, résiliations, suspensions ou retraits de certification sont transmises à l'Institut national de la propriété industrielle par l'organisme de défense et de gestion par voie électronique dans les délais et les conditions fixées par décision du directeur général de l'institut. L'institut vérifie la cohérence entre les rapports de contrôle et les mesures correctives demandées et appliquées.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2016-280 du 8 mars 2016, les présentes dispositions sont applicables aux demandes d'homologation d'indications géographiques déposées avant son entrée en vigueur.

@@ -3,3 +3,6 @@
 A la réception du dépôt, sont mentionnés sur la déclaration : la date, le lieu et le numéro d'ordre de dépôt ou le numéro national prévu à l'article suivant. Un récépissé de dépôt est remis au déposant.
 
 Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal judiciaire en tenant lieu, les pièces du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le greffier.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

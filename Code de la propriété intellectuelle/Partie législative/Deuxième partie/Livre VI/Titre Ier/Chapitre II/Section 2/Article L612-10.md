@@ -7,3 +7,6 @@ La prorogation des interdictions édictées en vertu du présent article ouvre d
 Une demande de révision de l'indemnité prévue à l'alinéa précédent peut être introduite par le titulaire du brevet à l'expiration du délai d'un an qui suit la date du jugement définitif fixant le montant de l'indemnité.
 
 Le titulaire du brevet doit apporter la preuve que le préjudice qu'il subit est supérieur à l'estimation du tribunal.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

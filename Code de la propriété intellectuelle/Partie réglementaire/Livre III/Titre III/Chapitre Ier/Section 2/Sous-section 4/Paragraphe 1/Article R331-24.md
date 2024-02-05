@@ -29,3 +29,6 @@ Si la saisine n'est pas accompagnée de ces éléments, une demande de régulari
 Le délai d'un mois mentionné aux articles L. 137-4 et L. 219-4 court à compter de la réception du dossier complet par l'autorité.
 
 La production de mémoires, observations ou pièces justificatives effectuées par une partie devant l'autorité sous la signature et sous le timbre d'un avocat emporte élection de domicile.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

@@ -19,3 +19,6 @@ Peuvent former opposition sur le fondement d'un ou de plusieurs des droits menti
 8° Toute personne morale de droit public agissant au titre du 7° de l'article L. 712-4 sur le fondement du nom sous lequel cette personne, ou ses services, exerce son activité ;
 
 9° Le titulaire de la marque déposée sans son autorisation au nom de son agent ou de son représentant, en application du III de l'article L. 711-3.
+
+NOTA:
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-4-1, dans sa rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au plus tard le 15 décembre 2019.

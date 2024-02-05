@@ -11,3 +11,6 @@ La demande de modification est rejetée dans les deux cas suivants :
 1° Si le titulaire du brevet ne défère pas à la notification mentionnée ci-dessus dans le délai imparti ou ne présente pas d'observations pour contester son bien-fondé dans le même délai ;
 
 2° Si les observations présentées ne sont pas retenues et que le titulaire ne défère pas à la notification mentionnée au troisième alinéa dans le nouveau délai qui lui est imparti par l'Institut.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

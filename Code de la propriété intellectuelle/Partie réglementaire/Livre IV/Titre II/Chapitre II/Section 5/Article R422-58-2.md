@@ -7,3 +7,6 @@ La décision d'engagement de poursuites fixe au conseil en propriété industrie
 Lorsque le président de la Compagnie nationale des conseils en propriété industrielle est intervenu comme auteur de la saisine ou comme conciliateur, il désigne l'un de ses vice-présidents pour exercer la fonction d'autorité de poursuite dans l'affaire considérée.
 
 Lorsque le président de la Compagnie nationale des conseils en propriété industrielle est mis en cause par une saisine ou par une plainte, la fonction d'autorité de poursuite est exercée par l'ancien président de la Compagnie nationale des conseils en propriété industrielle le plus âgé, inscrit sur la liste des conseils en propriété industrielle mentionnée à l'article L. 422-1.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

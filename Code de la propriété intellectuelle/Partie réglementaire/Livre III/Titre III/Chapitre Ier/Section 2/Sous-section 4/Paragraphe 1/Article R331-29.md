@@ -9,3 +9,6 @@ II.-Les rapporteurs, à l'exception de ceux qui sont désignés parmi le personn
 Le montant et les modalités d'attribution de ces indemnités ainsi que le montant unitaire des vacations sont fixés par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
 
 III.-Les rapporteurs peuvent prétendre au remboursement des frais de déplacement et de séjour que nécessite l'accomplissement de leurs missions, dans les conditions applicables aux personnels civils de l'Etat.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

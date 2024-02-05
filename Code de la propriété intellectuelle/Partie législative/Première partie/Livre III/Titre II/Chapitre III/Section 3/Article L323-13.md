@@ -13,3 +13,6 @@ Les procédures mentionnées à l'article L. 323-12 prévoient notamment l'étab
 Cette déclaration est tenue à la disposition des membres de l'assemblée générale pendant un délai de deux mois avant la réunion annuelle de cette assemblée au siège de l'organisme de gestion collective. Les conditions de sa consultation doivent assurer le respect de la vie privée, de la protection des données à caractère personnel et du secret des affaires.
 
 Les statuts ou le règlement général déterminent les sanctions applicables à la personne qui omet de transmettre sa déclaration complète à l'organisme dans les délais qu'ils fixent ou qui mentionne des informations erronées dans ce document. Ces sanctions doivent être graduelles et proportionnées.
+
+NOTA:
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.

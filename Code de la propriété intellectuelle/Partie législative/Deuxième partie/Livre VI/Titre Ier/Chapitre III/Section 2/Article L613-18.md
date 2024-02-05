@@ -11,3 +11,6 @@ Du jour de la publication du décret qui soumet le brevet au régime de la licen
 Cette licence est accordée par arrêté dudit ministre à des conditions déterminées quant à sa durée et son champ d'application, mais à l'exclusion des redevances auxquelles elle donne lieu. Elle prend effet à la date de notification de l'arrêté aux parties.
 
 A défaut d'accord amiable, le montant des redevances est fixé par le tribunal judiciaire.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

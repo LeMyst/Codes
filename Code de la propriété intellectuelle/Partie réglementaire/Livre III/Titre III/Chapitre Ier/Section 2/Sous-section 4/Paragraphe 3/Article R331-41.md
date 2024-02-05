@@ -7,3 +7,6 @@ Lorsqu'elle prononce une injonction visant à garantir le bénéfice effectif d'
 L'autorité peut également préciser les engagements que le demandeur doit respecter pour assurer le maintien des conditions d'utilisation du contenu protégé et les modalités d'accès à celui-ci et, le cas échéant, l'efficacité et l'intégrité de la mesure technique mise en œuvre.
 
 L'autorité peut assortir ses injonctions d'une astreinte selon les modalités prévues au II de l'article R. 331-36.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

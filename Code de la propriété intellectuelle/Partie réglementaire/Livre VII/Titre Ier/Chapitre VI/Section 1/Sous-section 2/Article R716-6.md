@@ -15,3 +15,6 @@ Pour les demandes en déchéances fondées sur l'article L. 714-5, les pièces p
 5° En cas de réplique par le demandeur, le titulaire de la marque contestée dispose d'un dernier délai d'un mois pour présenter ses dernières observations écrites ou produire de nouvelles pièces, sans pouvoir invoquer de nouveaux moyens ou produire de nouvelles preuves d'usage.
 
 Dans le cadre de la présentation de ses observations écrites, chaque partie peut demander à présenter des observations orales. Le directeur général de l'Institut peut également inviter sans demande préalable les parties à présenter des observations orales s'il l'estime nécessaire pour les besoins de l'instruction. Les parties sont alors réunies à l'issue de la phase écrite de l'instruction afin de présenter leurs observations orales, selon des modalités fixées par décision du directeur général de l'Institut national de la propriété industrielle.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

@@ -13,3 +13,6 @@ II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de
 4° En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux 1° à 3°.
 
 III.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des droits prévus par le présent code.
+
+NOTA:
+Conformément à l'article 14 de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse, cette disposition ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.

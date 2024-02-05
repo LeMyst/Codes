@@ -17,3 +17,6 @@ A l'expiration du délai mentionné au 2°, dans le cas où au moins l'une des p
 4° Une phase orale.
 
 Dans le cadre de la présentation de ses observations écrites, chaque partie peut demander à présenter des observations orales. Le directeur général de l'Institut peut également inviter sans demande préalable les parties à présenter des observations orales s'il l'estime nécessaire pour les besoins de l'instruction. Les parties sont alors réunies à l'issue de la phase écrite de l'instruction afin de présenter leurs observations orales, selon des modalités fixées par décision du directeur général de l'Institut.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

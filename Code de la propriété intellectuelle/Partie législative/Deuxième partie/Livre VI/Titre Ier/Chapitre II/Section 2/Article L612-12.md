@@ -23,3 +23,6 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont rejetées.
 
 En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17, L. 611-18, L. 611-19 (4° du I) ou L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+
+NOTA:
+Conformément au II de l’article 122 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur un an après la promulgation de la présente loi. Il est applicable aux demandes de brevet déposées à compter de cette date.

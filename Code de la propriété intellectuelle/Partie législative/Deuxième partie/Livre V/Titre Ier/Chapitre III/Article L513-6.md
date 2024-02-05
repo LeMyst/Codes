@@ -13,3 +13,6 @@ Les droits conférés par l'enregistrement d'un dessin ou modèle ne s'exercent 
 a) Portent sur des pièces relatives au vitrage ;
 
 b) Ou sont réalisés par l'équipementier ayant fabriqué la pièce d'origine.
+
+NOTA:
+Conformément au IV de l'article 32 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -21,3 +21,10 @@ II.-Sont introduites devant l'Institut national de la propriété industrielle e
 8° Toute personne morale de droit public agissant au titre du 10° du I de l'article L. 711-3 sur le fondement du nom sous lequel cette personne, ou ses services, exerce son activité ;
 
 9° Le titulaire d'une marque protégée dans un Etat partie à la convention de Paris pour la protection de la propriété industrielle agissant sur le fondement du III de l'article L. 711-3.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.
+
+Les juridictions qui au 1er avril 2020 sont saisies d'un litige en application des articles L. 716-2 et L. 716-3 du code de la propriété intellectuelle, dans leur rédaction résultant de la présente ordonnance, restent compétentes pour en connaître.
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

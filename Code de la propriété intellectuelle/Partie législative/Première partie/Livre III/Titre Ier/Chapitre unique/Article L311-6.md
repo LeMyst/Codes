@@ -13,3 +13,6 @@ L'agrément est délivré pour cinq années en considération :
 II.-La rémunération prévue à l'article L. 311-1 est répartie entre les ayants droit par les organismes mentionnés au I du présent article, à raison des reproductions privées dont chaque œuvre fait l'objet.
 
 III.-Une part ne pouvant excéder 1 % des sommes provenant de la rémunération pour copie privée est affectée par ces organismes au financement des enquêtes d'usage réalisées, en application du quatrième alinéa de l'article L. 311-4, par la commission mentionnée à l'article L. 311-5, qui en rédige les cahiers des charges préalables.
+
+NOTA:
+Conformément à l'article 18 II de la loi n° 2016-925 du 7 juillet 2016, le I du présent article entre en vigueur le 1er janvier 2017.

@@ -5,3 +5,6 @@ Les actions civiles et les demandes relatives aux obtentions végétales, y comp
 La cour d'appel de Paris connaît directement des recours formés contre les décisions de l'organisme mentionné à l'article L. 412-1 prises en application du présent chapitre.
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil .
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

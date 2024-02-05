@@ -13,3 +13,6 @@ Toutefois, lorsque le brevet français a été délivré à une date postérieur
 L'extinction, l'annulation ultérieure du brevet européen ou l'inscription au registre du retrait de dérogation effectué en application du paragraphe 4 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet n'affecte pas la cessation des effets du brevet français.
 
 II.-Lorsque le brevet européen n'a pas fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet, le brevet français continue à produire ses effets.
+
+NOTA:
+Ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet, article 23 I : l’ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification (entrée en vigueur : 1er juin 2023).

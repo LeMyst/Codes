@@ -9,3 +9,6 @@ Toute demande pour laquelle a été requis le bénéfice de la date de dépôt d
 Toutefois, n'est pas rendue publique toute demande rejetée, retirée ou réputée retirée avant le début des préparatifs techniques entrepris en vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division.
 
 Toute demande dont le bénéfice de la date de dépôt a été requis dans une demande ultérieure est rendue publique même si elle est rejetée, retirée ou réputée retirée avant le début des préparatifs techniques à moins qu'il n'ait été renoncé, dans le même délai, à ce bénéfice.
+
+NOTA:
+Conformément aux dispositions de l'article 7 du décret n° 2020-15 du 8 janvier 2020, ces dispositions entrent en vigueur le 1er juillet 2020.

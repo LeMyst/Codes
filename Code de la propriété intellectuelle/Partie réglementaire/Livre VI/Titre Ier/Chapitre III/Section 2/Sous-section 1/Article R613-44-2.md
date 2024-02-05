@@ -9,3 +9,6 @@ Lorsqu'une opposition est fondée sur plusieurs motifs, elle n'est recevable que
 En cas d'irrecevabilité relevée d'office, le directeur général de l'Institut national de la propriété industrielle notifie les irrégularités à l'opposant. Un délai est alors imparti à ce dernier pour contester cette irrecevabilité ou, dans le cas du pouvoir du mandataire prévu au 5° de l'article R. 613-44-1, pour régulariser sa demande. A défaut d'observations fondées ou de régularisation, l'opposition est déclarée irrecevable.
 
 La décision d'irrecevabilité est inscrite au Registre national des brevets.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2020-225 du 6 mars 2020, ces dispositions entrent en vigueur dans les conditions définies à l'article 5 de l'ordonnance du 12 février 2020.

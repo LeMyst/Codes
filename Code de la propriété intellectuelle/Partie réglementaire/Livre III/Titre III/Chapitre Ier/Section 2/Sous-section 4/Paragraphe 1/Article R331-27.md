@@ -9,3 +9,6 @@ I.-L'Autorité de régulation de la communication audiovisuelle et numérique pe
 3° L'auteur de la saisine ne justifie pas d'une qualité ou d'un intérêt à agir.
 
 II.-L'autorité peut statuer sans instruction sur les saisines manifestement infondées ou entachées d'une irrecevabilité manifeste.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

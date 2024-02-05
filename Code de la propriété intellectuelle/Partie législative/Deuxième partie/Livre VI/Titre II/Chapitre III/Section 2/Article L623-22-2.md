@@ -9,3 +9,6 @@ Les droits attachés à cette licence ne peuvent être transmis qu'avec l'entrep
 Lorsqu'une telle licence est accordée, le titulaire du droit d'obtention obtient à des conditions équitables, sur demande présentée au tribunal, la concession d'une licence réciproque pour utiliser l'invention protégée.
 
 Si le titulaire d'une licence ne satisfait pas aux conditions auxquelles cette licence a été accordée, le titulaire du certificat d'obtention végétale et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette licence.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

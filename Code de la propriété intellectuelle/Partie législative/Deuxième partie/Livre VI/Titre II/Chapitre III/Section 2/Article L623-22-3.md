@@ -17,3 +17,6 @@ Le titulaire du certificat protégeant la variété initiale peut obtenir, dans 
 Ces conditions peuvent être modifiées par le tribunal à la requête du titulaire ou du licencié.
 
 Si le titulaire d'une licence obligatoire ne satisfait pas aux conditions auxquelles cette licence a été accordée, le titulaire du certificat d'obtention et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette licence.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

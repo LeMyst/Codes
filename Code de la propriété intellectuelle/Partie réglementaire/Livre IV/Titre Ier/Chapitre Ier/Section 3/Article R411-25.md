@@ -13,3 +13,6 @@ Les recours sont portés devant la cour d'appel par acte contenant, outre les me
 Sauf en cas de décision implicite de rejet, une copie de la décision attaquée est jointe à cet acte à peine de nullité.
 
 L'acte est daté et signé par l'avocat constitué. Il est remis au greffe et vaut demande d'inscription au rôle.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

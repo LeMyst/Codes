@@ -11,3 +11,6 @@ Est assimilé à un usage au sens du premier alinéa :
 3° L'usage de la marque, par le titulaire ou avec son consentement, sous une forme modifiée n'en altérant pas le caractère distinctif, que la marque soit ou non enregistrée au nom du titulaire sous la forme utilisée ;
 
 4° L'apposition de la marque sur des produits ou leur conditionnement, par le titulaire ou avec son consentement, exclusivement en vue de l'exportation.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

@@ -5,3 +5,6 @@ I.- Les personnes morales et les établissements ouverts au public visés au 7°
 II.-Au titre de sa participation à la mission de facilitation de l'accès des personnes en situation de handicap aux œuvres protégées par un droit d'auteur ou un droit voisin, l'autorité peut recueillir auprès des éditeurs, de la Bibliothèque nationale de France et des personnes morales et établissements mentionnés au 7° de l'article L. 122-5 tous documents et informations utiles. Elle peut, à ce titre, mettre en demeure les éditeurs de respecter les obligations prévues au 2° de l'article L. 122-5-1.
 
 L'autorité peut rendre publiques ces mises en demeure.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

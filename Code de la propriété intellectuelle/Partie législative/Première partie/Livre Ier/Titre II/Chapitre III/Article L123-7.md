@@ -23,3 +23,6 @@ III.-L'agrément des organismes prévu au II est délivré en considération :
 4° Des moyens humains et matériels qu'ils proposent de mettre en œuvre pour permettre la prise en charge du droit de suite prévue au deuxième alinéa du II du présent article.
 
 IV.-Les modalités d'application du présent article, notamment de la délivrance et du retrait de l'agrément prévu au II, sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

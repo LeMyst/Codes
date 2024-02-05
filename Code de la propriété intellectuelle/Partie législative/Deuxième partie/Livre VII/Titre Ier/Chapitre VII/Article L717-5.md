@@ -5,3 +5,6 @@ Une demande de marque de l'Union européenne ou une marque de l'Union européenn
 Dans ces cas, la demande de marque nationale doit, sous peine de rejet, satisfaire aux dispositions des articles L. 711-2, L. 712-2 et L. 712-4 ainsi que, le cas échéant, des articles L. 715-1 à L. 715-4 ou des articles L. 715-6 à L. 715-9. Les conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'ancienneté d'une marque enregistrée antérieurement en France a été revendiquée au bénéfice de la marque de l'Union européenne.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

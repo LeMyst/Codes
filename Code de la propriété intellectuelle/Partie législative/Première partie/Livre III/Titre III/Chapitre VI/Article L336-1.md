@@ -5,3 +5,6 @@ Lorsqu'un logiciel est principalement utilisé pour la mise à disposition illic
 Les mesures ainsi ordonnées ne peuvent avoir pour effet de dénaturer les caractéristiques essentielles ou la destination initiale du logiciel.
 
 L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

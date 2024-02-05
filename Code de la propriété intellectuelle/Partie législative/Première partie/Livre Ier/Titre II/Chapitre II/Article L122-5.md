@@ -49,3 +49,6 @@ Les reproductions ou représentations qui, notamment par leur nombre ou leur for
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'oeuvre ni causer un préjudice injustifié aux intérêts légitimes de l'auteur.
 
 Les modalités d'application du présent article, notamment les caractéristiques et les conditions de distribution des documents mentionnés au d du 3°, sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au IV de l'article 32 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

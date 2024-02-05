@@ -11,3 +11,6 @@ Soit dans le cours de l'exécution de ses fonctions ;
 Soit dans le domaine des activités de l'organisme public concerné ;
 
 Soit par la connaissance ou l'utilisation de techniques, de moyens spécifiques à cet organisme ou de données procurées par lui.
+
+NOTA:
+La liste des fonctionnaires et agents auteurs d'une invention est annexée à l'article R. 611-14-1 de ce code.

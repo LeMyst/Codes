@@ -13,3 +13,6 @@ L'intervention de la décision de la commission ne fait pas obstacle à ce que s
 IV.-Les journalistes professionnels ou assimilés et les autres auteurs mentionnés au I du présent article reçoivent au moins une fois par an, le cas échéant par un procédé de communication électronique, des informations actualisées, pertinentes et complètes sur les modalités de calcul de la part appropriée et équitable de rémunération qui leur est due en application du même I.
 
 V.-Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment la composition et les modalités de saisine et de fonctionnement de la commission, les voies de recours juridictionnel contre ses décisions et leurs modalités de publicité.
+
+NOTA:
+Conformément à l'article 14 de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse, cette disposition ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.

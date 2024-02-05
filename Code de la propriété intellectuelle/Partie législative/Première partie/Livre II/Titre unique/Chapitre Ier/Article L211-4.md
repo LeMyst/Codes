@@ -19,3 +19,6 @@ Toutefois, si, durant cette période, un vidéogramme fait l'objet d'une mise à
 IV.-La durée des droits patrimoniaux des entreprises de communication audiovisuelle est de cinquante années à compter du 1er janvier de l'année civile suivant celle de la première communication au public des programmes mentionnés à l'article L. 216-1.
 
 V.-La durée des droits patrimoniaux des éditeurs de presse et des agences de presse est de deux ans à compter du 1er janvier de l'année civile suivant celle de la première publication d'une publication de presse.
+
+NOTA:
+Conformément à l'article 14 de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse, cette disposition ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.

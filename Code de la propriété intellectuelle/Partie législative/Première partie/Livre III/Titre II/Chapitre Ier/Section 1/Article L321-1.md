@@ -1,7 +1,6 @@
 # Article L321-1
 
-I.-Les organismes de gestion collective sont des personnes morales constituées sous toute forme juridique dont l'objet principal consiste à gérer le droit d'auteur ou les droits voisins de celui-ci pour le compte de plusieurs titulaires de ces droits, tels que définis aux livres Ier et II du présent code, à leur profit collectif, soit en vertu de dispositions légales, soit en exécution d'un contrat.
-
+I.-Les organismes de gestion collective sont des personnes morales constituées sous toute forme juridique dont l'objet principal consiste à gérer le droit d'auteur ou les droits voisins de celui-ci pour le compte de plusieurs titulaires de ces droits, tels que définis aux livres Ier et II du présent code, à leur profit collectif, soit en vertu de dispositions légales, soit en exécution d'un contrat.\
 Ces organismes doivent :
 
 1° Soit être contrôlés par leurs membres titulaires de droits mentionnés au premier alinéa ;

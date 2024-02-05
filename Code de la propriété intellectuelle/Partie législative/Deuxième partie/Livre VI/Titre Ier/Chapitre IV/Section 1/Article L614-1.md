@@ -9,3 +9,6 @@ La présente section est relative à l'application :
 3° Du règlement (UE) n° 1257/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet, ci-après dénommé : “ règlement (UE) n° 1257/2012 du 17 décembre 2012 ” ;
 
 4° Du règlement n° 1260/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet, en ce qui concerne les modalités applicables en matière de traduction, ci-après dénommé : “ règlement (UE) n° 1260/2012 du 17 décembre 2012 ”.
+
+NOTA:
+Ordonnance n° 2018-341 du 9 mai 2018 relative au brevet européen à effet unitaire et à la juridiction unifiée du brevet, article 23 I : l’ordonnance entre en vigueur à la même date que celle de l'entrée en vigueur de l'accord relatif à une juridiction unifiée du brevet signé à Bruxelles le 19 février 2013, et dont la loi n° 2014-199 du 24 février 2014 a autorisé la ratification (entrée en vigueur : 1er juin 2023).

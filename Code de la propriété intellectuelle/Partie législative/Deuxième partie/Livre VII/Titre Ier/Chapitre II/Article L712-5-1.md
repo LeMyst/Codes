@@ -7,3 +7,6 @@ L'opposition fondée sur une marque antérieure enregistrée depuis plus de cinq
 2° Ou qu'il existait de justes motifs pour son non-usage.
 
 Aux fins de l'examen de l'opposition, la marque antérieure n'est réputée enregistrée que pour ceux des produits ou services pour lesquels un usage sérieux a été prouvé ou de justes motifs de non-usage établis.
+
+NOTA:
+Aux termes des I et VI de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, l'article L. 712-5-1, dans sa rédaction résultant de la présente ordonnance, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur du décret pris pour l'application de la présente ordonnance et au plus tard le 15 décembre 2019.

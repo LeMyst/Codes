@@ -11,3 +11,6 @@ b) Soit devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la 
 2° De deux mois si le demandeur demeure à l'étranger.
 
 Les délais prescrits aux défendeurs et intervenants forcés par les articles R. 411-30 et R. 411-32 sont augmentés dans les mêmes conditions et selon les mêmes modalités.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

@@ -11,3 +11,6 @@ Le collège des sanctions est composé de trois membres nommés par décret :
 Des membres suppléants sont désignés dans les mêmes conditions. Le membre titulaire et son suppléant sont de sexe différent.
 
 Les fonctions de membre du collège des sanctions sont incompatibles avec celles de membre du collège de contrôle.
+
+NOTA:
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à compter du prochain renouvellement de chaque commission.

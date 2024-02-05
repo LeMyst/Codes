@@ -15,3 +15,6 @@ Le rapport est établi à charge et à décharge. Il qualifie et analyse les fai
 Avant que soit établie la version définitive du rapport, le secrétariat en adresse le projet aux parties en leur accordant un délai, à compter de la réception du projet, pour communiquer leurs remarques. Ce délai ne peut être inférieur à deux semaines.
 
 Le rapport doit être déposé au siège de la chambre de discipline dans les six mois suivant la notification de la décision de poursuite, faute de quoi le président de la chambre peut désigner un autre rapporteur parmi les membres de la compagnie qui ne sont pas membres de la chambre de discipline.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

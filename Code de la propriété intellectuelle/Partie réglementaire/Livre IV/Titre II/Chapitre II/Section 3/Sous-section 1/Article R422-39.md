@@ -5,3 +5,6 @@ En cas de modification des statuts, une copie du procès-verbal complet de l'ass
 Si les nouvelles dispositions des statuts ne sont pas conformes aux dispositions législatives ou réglementaires, et si la régularisation n'en est pas faite dans le délai imparti par le directeur général de l'Institut national de la propriété industrielle, celui-ci, après avoir appelé la société à présenter ses observations orales ou écrites, la radie de la liste nationale des conseils en propriété industrielle dans les conditions prévues aux articles R. 422-58-2 à R. 422-62.
 
 La publication des modifications est faite ainsi qu'il est prévu aux articles 22 et suivants du décret n° 84-406 du 30 mai 1984.
+
+NOTA:
+Se reporter aux conditions d'application et de vigueur prévues à l'article 16 du décret n° 2022-710 du 27 avril 2022.

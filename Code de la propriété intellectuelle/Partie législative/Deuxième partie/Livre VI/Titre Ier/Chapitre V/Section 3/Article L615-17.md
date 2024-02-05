@@ -5,3 +5,6 @@ Les actions civiles et les demandes relatives aux brevets d'invention, y compris
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 Les tribunaux judiciaires mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13 du présent code.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

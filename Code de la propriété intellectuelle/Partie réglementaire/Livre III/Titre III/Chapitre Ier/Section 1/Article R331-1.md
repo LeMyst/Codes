@@ -25,3 +25,6 @@ V.-Le Centre national du cinéma et de l'image animée, les organismes de défen
 VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin à l'agrément dès lors que son titulaire n'exerce plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article.
 
 La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée maximale de six mois.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

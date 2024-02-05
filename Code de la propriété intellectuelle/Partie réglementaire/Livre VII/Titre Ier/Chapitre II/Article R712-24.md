@@ -17,3 +17,6 @@ Toutefois, la déclaration peut encore être présentée et la redevance acquitt
 Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R. 712-11.
 
 L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
+
+NOTA:
+Conformément au IV de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les déclarations de renouvellement d'enregistrement de marques, dont le délai de dépôt d'un an mentionné à l'article R. 712-24, dans sa rédaction résultant du présent décret, a commencé à courir au plus tôt à compter de l'entrée en vigueur de ce dernier, sont régies par les dispositions du code de la propriété intellectuelle dans leur rédaction résultant du présent décret.

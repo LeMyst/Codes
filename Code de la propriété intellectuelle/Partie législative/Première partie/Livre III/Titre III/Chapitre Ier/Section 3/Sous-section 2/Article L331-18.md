@@ -9,3 +9,6 @@ L'Autorité de régulation de la communication audiovisuelle et numérique peut 
 II.- L'Autorité de régulation de la communication audiovisuelle et numérique encourage la coopération entre titulaires de droits et fournisseurs de services de partage de contenus en ligne en vue d'assurer la disponibilité sur le service des contenus téléversés par les utilisateurs qui ne portent pas atteinte au droit d'auteur et aux droits voisins. Elle peut, après consultation des parties prenantes, formuler des recommandations à l'attention des titulaires de droits et des fournisseurs de services, en particulier s'agissant des notifications ou des informations nécessaires et pertinentes fournies par les titulaires de droits.
 
 III.- L'Autorité de régulation de la communication audiovisuelle et numérique rend compte de la mission prévue au présent article dans le rapport mentionné à l'article 18 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

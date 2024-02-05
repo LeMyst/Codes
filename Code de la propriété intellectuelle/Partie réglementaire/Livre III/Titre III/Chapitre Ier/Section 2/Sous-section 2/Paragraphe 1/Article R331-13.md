@@ -5,3 +5,6 @@ Il est dressé procès-verbal de l'audition de l'intéressé par le membre de l'
 Le procès-verbal est signé par l'intéressé et par son conseil, par la personne procédant à l'audition ainsi que par celle qui l'a rédigé. Si la personne entendue ou son conseil ne veut pas signer le procès-verbal, mention en est portée sur celui-ci.
 
 Une copie du procès-verbal est remise à l'intéressé.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

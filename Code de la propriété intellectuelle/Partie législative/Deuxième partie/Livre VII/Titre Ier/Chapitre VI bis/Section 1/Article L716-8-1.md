@@ -11,3 +11,6 @@ La mesure de retenue est levée de plein droit si l'administration des douanes n
 Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au quatrième alinéa de l'article L. 716-8 commence à courir à compter de l'acceptation de cette demande par l'administration des douanes.
 
 Le présent article n'est pas applicable aux marchandises périssables.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

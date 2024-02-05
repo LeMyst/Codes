@@ -19,3 +19,6 @@ Si l'invention résulte d'une collaboration entre agents relevant de plusieurs p
 V.-Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de la prime d'intéressement et de la prime au brevet d'invention lui est versée, en complément de sa rémunération d'activité, sans autre limitation que celle prévue par le présent article.
 
 Le cas échéant, la prime d'intéressement continue d'être versée à l'agent pendant le temps d'exploitation de l'invention, s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite. En cas de décès de l'agent, la prime d'intéressement et la prime au brevet d'invention sont versées jusqu'au terme de l'année civile du décès.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2023-1321 du 27 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

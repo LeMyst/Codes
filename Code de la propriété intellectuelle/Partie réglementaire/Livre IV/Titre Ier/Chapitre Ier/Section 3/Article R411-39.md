@@ -7,3 +7,6 @@ Les conclusions comprennent distinctement un exposé des faits et de la procédu
 La cour ne statue que sur les prétentions énoncées au dispositif et n'examine les moyens au soutien de ces prétentions que s'ils sont invoqués dans la discussion.
 
 Les parties doivent reprendre, dans leurs dernières écritures, les prétentions et moyens précédemment présentés ou invoqués dans leurs conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur les dernières conclusions déposées.
+
+NOTA:
+Conformément au 1° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, les présentes dispositions entrent en vigueur le 1er avril 2020.

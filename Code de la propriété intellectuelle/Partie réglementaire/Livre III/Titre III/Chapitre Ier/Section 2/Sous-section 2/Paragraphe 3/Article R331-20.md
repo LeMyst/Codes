@@ -13,3 +13,6 @@ II.-Dès réception du dossier complet, l'autorité en accuse réception par voi
 Elle peut préalablement demander au titulaire de droits d'apporter, dans un délai qu'elle fixe, les éléments nécessaires.
 
 L'autorité ne donne pas suite à une saisine non complétée conformément aux dispositions du I.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

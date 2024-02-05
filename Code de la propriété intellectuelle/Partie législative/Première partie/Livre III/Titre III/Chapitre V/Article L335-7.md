@@ -13,3 +13,6 @@ Lorsque la décision est exécutoire, la peine complémentaire prévue au prése
 Le fait, pour la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne, de ne pas mettre en œuvre la peine de suspension qui lui a été notifiée est puni d'une amende maximale de 5 000 €.
 
 Le 3° de l'article 777 du code de procédure pénale n'est pas applicable à la peine complémentaire prévue par le présent article.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

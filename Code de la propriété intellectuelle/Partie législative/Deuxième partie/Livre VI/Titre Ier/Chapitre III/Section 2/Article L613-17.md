@@ -5,3 +5,6 @@ Du jour de la publication de l'arrêté qui soumet le brevet au régime de la li
 Elle prend effet à la date de la notification de l'arrêté aux parties.
 
 A défaut d'accord amiable approuvé par le ministre chargé de la propriété industrielle et le ministre chargé de la santé publique, le montant des redevances est fixé par le tribunal judiciaire.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

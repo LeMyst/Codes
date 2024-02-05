@@ -7,3 +7,6 @@ Le titulaire d'une licence d'office visée aux articles L. 623-17 et L. 623-20, 
 Le titulaire du certificat est recevable à intervenir à l'instance engagée par le licencié conformément à l'alinéa précédent.
 
 Tout titulaire d'une licence est recevable à intervenir à l'instance engagée par le titulaire du certificat afin d'obtenir la réparation du préjudice qui lui est propre.
+
+NOTA:
+Loi n° 2011-1843 du 8 décembre 2011 article 19 I : Les dispositions modifiées ou nouvelles du présent article sont applicables aux certificats d'obtention délivrés avant le 11 décembre 2011. Ces dispositions s'appliquent également aux certificats d'obtention délivrés pour les demandes de certificat enregistrées avant cette date.

@@ -15,3 +15,6 @@ Le rapporteur qui a instruit une affaire peut présenter des observations orales
 Lorsqu'elle estime que l'instruction est incomplète, l'autorité peut décider de renvoyer l'affaire en tout ou partie à l'instruction. Cette décision n'est pas susceptible de recours.
 
 II.-L'autorité peut, si elle le juge utile, demander à son président de saisir pour avis l'Autorité de la concurrence selon les modalités fixées au dernier alinéa de l'article L. 331-29 et décider de surseoir à statuer, dans l'attente de cet avis, sur la demande dont elle a été saisie.
+
+NOTA:
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter au second alinéa dudit article concernant les modalités d'application.

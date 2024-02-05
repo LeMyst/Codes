@@ -13,3 +13,6 @@ d) De sciemment livrer un produit ou fournir un service autre que celui qui lui 
 L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 5125-23 du code de la santé publique.
 
 Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

@@ -109,3 +109,6 @@ II. - L'Institut national de la propriété industrielle perçoit des redevances
 1° La communication des pièces et actes dont il assure la conservation ;
 
 2° L'enregistrement et, le cas échéant, la conservation et la restitution d'enveloppes destinées à faciliter la preuve du contenu et la datation certaine des demandes annexes à la propriété industrielle.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2023-166 du 7 mars 2023, ces dispositions entrent en vigueur le 1er avril 2023. Se reporter aux modalités d’application prévues au deuxième alinéa dudit article.

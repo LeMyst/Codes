@@ -13,3 +13,6 @@ L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en 
 Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
 Le président de l'autorité saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également la saisir, pour avis, de toute autre question relevant de sa compétence. L'Autorité de la concurrence communique à l'Autorité de régulation de la communication audiovisuelle et numérique toute saisine entrant dans le champ de compétence de cette dernière autorité. Elle recueille son avis sur les pratiques dont elle est saisie dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
+
+NOTA:
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

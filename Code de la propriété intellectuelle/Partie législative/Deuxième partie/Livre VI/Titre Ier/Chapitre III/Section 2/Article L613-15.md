@@ -9,3 +9,6 @@ La licence accordée au titulaire du brevet postérieur ne peut être transmise 
 Le titulaire du brevet antérieur obtient, sur demande présentée au tribunal, la concession d'une licence réciproque sur le brevet postérieur.
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

@@ -7,3 +7,6 @@ Lorsque la procédure d'opposition est suspendue en application des dispositions
 La reprise de la procédure est notifiée sans délai aux parties par l'Institut, avec indication d'une date de reprise.
 
 Lorsque l'opposition est fondée sur plusieurs droits antérieurs et que l'un d'entre eux relève du cas cité au 4° de l'article R. 712-18 ou que les effets de l'un d'entre eux ont cessé, la procédure d'opposition est réputée non fondée sur ce droit et reprend sur le fondement des seuls droits restants.
+
+NOTA:
+Conformément au V de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, l'article R. 712-19, dans sa rédaction résultant du présent décret, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur de ce décret.

@@ -9,3 +9,6 @@ La juridiction peut ordonner, aux mêmes fins probatoires, la description détai
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie annulée.
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019. Le décret n° 2019-1316 du 9 décembre 2019 pris pour l'application de l'ordonnance n° 2019-1169 a été publié le 10 décembre 2019.

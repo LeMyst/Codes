@@ -37,3 +37,6 @@ II.-Une marque antérieure au sens du 1° du I s'entend :
 L'antériorité d'une marque enregistrée s'apprécie au regard de la date de la demande d'enregistrement, compte tenu, le cas échéant, du droit de priorité invoqué ou de l'ancienneté valablement revendiquée par une marque de l'Union européenne au sens de l'article L. 717-6.
 
 III.-Ne peut être valablement enregistrée et, si elle est enregistrée, est susceptible d'être déclarée nulle une marque dont l'enregistrement a été demandé par l'agent ou le représentant du titulaire d'une marque protégée dans un Etat partie à la convention de Paris pour la protection de la propriété industrielle, en son propre nom et sans l'autorisation du titulaire à moins que cet agent ou ce représentant ne justifie sa démarche.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

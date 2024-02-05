@@ -13,3 +13,6 @@ Les organisations amenées à désigner les représentants membres de la commiss
 La commission se détermine à la majorité des membres présents. En cas de partage des voix, le président a voix prépondérante.
 
 Les décisions de la commission sont publiées au Journal officiel.
+
+NOTA:
+Conformément à l'article 30 II de la loi n° 2016-925 du 7 juillet 2016, les présentes dispositions s'appliquent à compter de la publication du décret en Conseil d'Etat mentionné au dernier alinéa de l'article L. 136-3 du code la propriété intellectuelle et, au plus tard, six mois après la promulgation de la présente loi.

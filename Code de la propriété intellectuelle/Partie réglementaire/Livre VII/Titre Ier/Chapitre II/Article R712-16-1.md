@@ -23,3 +23,6 @@ Dans ces cas, les parties sont réunies à l'issue de la phase écrite de l'inst
 Le directeur général de l'Institut statue sur l'opposition au vu de l'ensemble des observations écrites et orales présentées, le cas échéant, par les parties.
 
 L'opposant peut, à tout moment de la procédure, renoncer à un ou plusieurs des droits antérieurs ou circonscrire la portée de sa demande à certains des produits ou services invoqués ou visés, par requête expresse.
+
+NOTA:
+Conformément au V de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, l'article R. 712-16-1, dans sa rédaction résultant du présent décret, est applicable aux oppositions formées à l'encontre d'une demande d'enregistrement déposée à compter de l'entrée en vigueur de ce décret.

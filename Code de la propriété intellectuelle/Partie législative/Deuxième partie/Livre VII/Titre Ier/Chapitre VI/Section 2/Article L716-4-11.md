@@ -5,3 +5,6 @@ En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, �
 La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
 
 Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019. Le décret n° 2019-1316 du 9 décembre 2019 pris pour l'application de l'ordonnance n° 2019-1169 a été publié le 10 décembre 2019.

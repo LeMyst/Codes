@@ -15,3 +15,6 @@ Les droits attachés à la marque peuvent faire l'objet de mesures d'exécution 
 La cession et la constitution de droits réels, dont le nantissement, sur les droits attachés à la marque sont constatés par écrit, à peine de nullité.
 
 Les dispositions du présent article s'appliquent aux demandes d'enregistrement de marques.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

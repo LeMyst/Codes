@@ -13,3 +13,6 @@ II. - L'ambassadeur et le chef de poste consulaire peuvent déléguer leur signa
 III. - Pour les militaires et les autres personnes auxquelles s'applique l'article L. 121-2 du code de justice militaire, stationnés hors de France, l'ambassadeur ou le chef de poste consulaire peut déléguer les compétences qui lui sont conférées au I du présent article aux officiers de police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions d'officier de police judiciaire conformément à l'article L. 211-5 du même code.
 
 IV. - Lorsqu'il recourt à la télé-procédure hors de France, le mandant présente en personne aux autorités mentionnées aux 1° et 2° du I, ou aux agents ayant reçu délégation mentionnés au II, la référence d'enregistrement de sa demande de procuration.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

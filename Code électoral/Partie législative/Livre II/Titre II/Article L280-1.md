@@ -15,3 +15,6 @@ Lorsque les opérations prévues aux troisième à cinquième alinéas du prése
 Celui qui devient membre du conseil régional entre deux renouvellements, en remplacement d'un membre mentionné au même premier alinéa, est réputé être désigné pour faire partie du collège électoral sénatorial du même département que le conseiller qu'il remplace.
 
 Le représentant de l'Etat dans la région notifie au représentant de l'Etat dans chacun des deux départements du Bas-Rhin et du Haut-Rhin les noms des conseillers désignés pour son département en vue de l'établissement du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
+
+NOTA:
+Conformément au II de l'article 14 de la loi n° 2019-816 du 1er août 2019, ces dispositions entrent en vigueur le 1er janvier 2021.

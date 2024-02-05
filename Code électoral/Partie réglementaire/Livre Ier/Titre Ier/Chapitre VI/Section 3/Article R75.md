@@ -41,3 +41,6 @@ III.-Dans le cadre de la gestion des procurations, sont transmises au répertoir
 Dans le cadre de la gestion de la résiliation des procurations, sont enregistrés dans le répertoire électoral unique le numéro national d'électeur du mandant ainsi que les nom, prénom et qualité de l'autorité ayant établi la procuration, le lieu et la date d'établissement de la procuration.
 
 Lorsque la procuration ou la résiliation sont établies au moyen du formulaire administratif mentionné au premier alinéa de l'article R. 72, le maire saisit ces données et informations dans le répertoire électoral unique. Lorsque la procuration ou la résiliation sont établies au moyen de la télé-procédure mentionnée au premier alinéa de l'article R. 72, ces données et informations sont automatiquement transmises au répertoire électoral unique.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

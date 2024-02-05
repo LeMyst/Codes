@@ -13,3 +13,6 @@ Il indique également, le cas échéant :
 1° L'emblème choisi par la liste pour ses bulletins de vote ;
 
 2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application de l'article R. 209.
+
+NOTA:
+Décret n° 2009-430 du 20 avril 2009 article 9 : L'article R. 233 dans sa rédaction issue du présent décret entre en vigueur le 1er juillet 2009

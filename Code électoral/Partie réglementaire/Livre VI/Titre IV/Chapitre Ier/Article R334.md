@@ -11,3 +11,6 @@ Pour l'application de ces dispositions à Saint-Pierre-et-Miquelon, il y a lieu 
 4° " tribunal de première instance ", au lieu de : " tribunal judiciaire " ;
 
 5° " circonscription électorale ", au lieu de : " canton ".
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

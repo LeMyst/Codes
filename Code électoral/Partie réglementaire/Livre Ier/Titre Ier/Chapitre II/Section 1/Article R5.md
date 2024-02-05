@@ -7,3 +7,6 @@ La demande d'inscription formée au titre de l'article L. 12-1 et déposée dans
 La liste des pièces à fournir est fixée par arrêté du ministre de l'intérieur.
 
 Pour l'application de l'article L. 17 du code électoral aux élections générales, les demandes d'inscription sur les listes électorales en vue de participer à un scrutin effectuées au moyen de la téléprocédure mentionnée au premier alinéa sont déposées au plus tard le sixième mercredi précédant ce scrutin à minuit, heure légale.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

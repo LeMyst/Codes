@@ -13,3 +13,8 @@ Par dérogation à l'article L. 17, peuvent demander à être inscrits sur la li
 4° Les Français et Françaises qui ont acquis la nationalité française par déclaration ou manifestation expresse de volonté et été naturalisés aprés la clôture des délais d'inscription ;
 
 5° Les Français et les Françaises ayant recouvré l'exercice du droit de vote dont ils avaient été privés par l'effet d'une décision de justice.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même article.

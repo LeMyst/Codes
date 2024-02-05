@@ -5,3 +5,6 @@ En dehors des cas spécialement prévus par les dispositions des lois et décret
 Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent ou préposé du Gouvernement ou d'une administration publique, ou chargé d'un ministère de service public ou président d'un bureau de vote, la peine sera portée au double.
 
 Le fait de procéder ou de faire procéder indûment, de manière frauduleuse, à des inscriptions, à des radiations ou au maintien d'électeurs sur la liste électorale est puni des mêmes peines.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

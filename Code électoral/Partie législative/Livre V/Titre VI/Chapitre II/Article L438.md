@@ -51,3 +51,6 @@ a) Le premier alinéa est remplacé par trois alinéas ainsi rédigés :
 " La constatation, par la juridiction administrative, de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La juridiction saisie proclame en conséquence l'élection du ou des suivants de liste. " ;
 
 b) La dernière phrase du deuxième alinéa est complétée par les mots : ", le cas échéant par section ".
+
+NOTA:
+Conformément à l'article 13 de la loi n° 2016-1658 du 5 décembre 2016, ces dispositions s'appliquent en Polynésie française à compter du prochain renouvellement général des conseillers municipaux.

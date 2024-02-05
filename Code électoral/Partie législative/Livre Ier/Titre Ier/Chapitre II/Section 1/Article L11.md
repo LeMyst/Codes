@@ -15,3 +15,6 @@ II.-Sous réserve qu'elles répondent aux autres conditions exigées par la loi,
 1° Sans préjudice du 3° de l'article L. 30, les personnes qui ont atteint l'âge prévu par la loi pour être électeur à la date de ce scrutin ou, lorsque le mode de scrutin permet un second tour, à la date à laquelle ce second tour a vocation à être organisé ;
 
 2° Sans préjudice du 4° du même article L. 30, les personnes qui viennent d'acquérir la nationalité française.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

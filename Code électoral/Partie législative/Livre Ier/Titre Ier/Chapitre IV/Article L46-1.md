@@ -7,3 +7,6 @@ Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et
 Par dérogation aux dispositions de l'alinéa précédent, quiconque se trouve placé en situation d'incompatibilité du fait de son élection comme membre d'un conseil municipal d'une commune à laquelle s'appliquent les dispositions du chapitre II du titre IV du livre Ier du présent code doit faire cesser cette incompatibilité en démissionnant du mandat de son choix. Il dispose à cet effet d'un délai de trente jours à compter de la proclamation de l'élection qui l'a placé en situation d'incompatibilité ou, en cas de contestation, de la date à laquelle la décision juridictionnelle confirmant cette élection est devenue définitive. A défaut d'option dans le délai imparti, il est réputé avoir renoncé au mandat acquis ou renouvelé à la date la plus ancienne.
 
 Tant qu'il n'est pas mis fin, dans les conditions prévues aux deuxième et troisième alinéas, à l'incompatibilité mentionnée au premier alinéa, l'élu concerné ne perçoit aucune indemnité attachée au dernier mandat acquis ou renouvelé.
+
+NOTA:
+Aux termes du V de l'article unique de la loi n° 2015-816 du 6 juillet 2015, ces dispositions entrent en vigueur à l'occasion du prochain renouvellement général des conseillers municipaux.

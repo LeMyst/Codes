@@ -17,3 +17,6 @@ Les candidats, leurs remplaçants ou leurs mandataires peuvent participer, avec 
 Le président fixe, en accord avec le préfet, le lieu où la commission doit siéger.
 
 Les membres de la commission prévue aux alinéas précédents peuvent demander à participer aux travaux de la commission par voie de visioconférence ou de télécommunication dans les conditions permettant l'identification et la participation effective de ses membres. Dans ce cas le secrétariat de la commission en informe ses membres ainsi que le candidat, candidat tête de liste ou binôme de candidats, leurs remplaçants, leurs mandataires ou les mandataires de liste et leur fournit l'ensemble des informations nécessaires pour y participer.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

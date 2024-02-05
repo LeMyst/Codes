@@ -3,3 +3,6 @@
 Par dérogation au premier alinéa de l'article R. 117-4, les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom et prénoms de chacun des candidats composant la liste, répartis par section électorale et dans l'ordre de présentation tel qu'il résulte de la publication prévue par l'article L. 264. Pour chaque section, le cas échéant, ils mentionnent, à la suite et séparément, le nom de chaque candidat supplémentaire. Les bulletins de vote comportent, en outre, l'indication de la nationalité de tout candidat ressortissant d'un Etat membre de l'Union européenne.
 
 Le nombre de candidats pris en compte pour l'application de l'article R. 30 ne comprend pas les candidats supplémentaires.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1569 du 30 décembre 2019 relatif aux élections municipales en Nouvelle-Calédonie et en Polynésie française, ces dispositions sont applicables à compter du prochain renouvellement général des conseillers municipaux.

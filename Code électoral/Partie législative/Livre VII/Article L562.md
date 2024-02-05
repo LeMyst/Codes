@@ -9,3 +9,6 @@ Les dispositions suivantes sont applicables aux consultations régies par le pr�
 3° Livre VI : L. 451, L. 477, L. 504 et L. 531.
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

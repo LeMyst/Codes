@@ -11,3 +11,6 @@ Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'u
 Le libellé et, le cas échéant, la dimension des caractères des bulletins doivent être conformes aux prescriptions légales ou réglementaires édictées pour chaque catégorie d'élections.
 
 Les bulletins de vote sont soustraits à la formalité du dépôt légal.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

@@ -11,3 +11,8 @@ III.-En cas de contestation de la décision rendue à l'issue du recours adminis
 2° De la copie de l'accusé de réception postale ou électronique du recours administratif préalable obligatoire ;
 
 3° Le cas échéant, de la copie de la décision rendue à l'issue du recours administratif préalable obligatoire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.

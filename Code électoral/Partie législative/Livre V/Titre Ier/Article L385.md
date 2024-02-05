@@ -31,3 +31,6 @@ Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il 
 14° "budget de l'établissement chargé de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
 
 15° "archives de la Nouvelle-Calédonie" ou "archives de la province" au lieu de : "archives départementales".
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

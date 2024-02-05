@@ -7,3 +7,6 @@ A défaut d'une telle mention, le maire inscrit sur la liste d'émargement, à c
 Lorsqu'une procuration est établie au moyen du formulaire administratif mentionné au premier alinéa de l'article R. 72, le formulaire est conservé en mairie pendant une durée d'un an à compter de la date de fin de validité de celle-ci.
 
 Les données à caractère personnel et informations recueillies via la télé-procédure mentionnée au premier alinéa de l'article R. 72 aux seules fins d'établir une procuration sont conservées pendant une durée fixée par arrêté du ministre de l'intérieur. Cette durée ne peut être inférieure à la durée de conservation des procurations établies par formulaire et ne peut dépasser deux années.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

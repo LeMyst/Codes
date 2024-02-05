@@ -29,3 +29,6 @@ Pour l'application des dispositions du présent code en Polynésie française, i
 12° "budget de l'établissement chargé de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
 
 13° "archives de la Polynésie française" au lieu de : "archives départementales".
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

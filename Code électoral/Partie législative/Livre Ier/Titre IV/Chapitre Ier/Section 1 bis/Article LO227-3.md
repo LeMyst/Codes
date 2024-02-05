@@ -9,3 +9,6 @@ Outre les indications mentionnées aux deuxième et troisième alinéas du I de 
 Dans chaque bureau de vote, la liste des électeurs inscrits sur la liste électorale complémentaire est établie à partir de celle-ci et comporte les mentions prévues au troisième alinéa du présent article. Elle comprend un numéro d'ordre attribué à chaque électeur. Elle reste déposée sur la table à laquelle siège le bureau pendant toute la durée des opérations électorales. Elle constitue la liste d'émargement. Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
 
 Les recours prévus à la première phrase du premier alinéa du I de l'article L. 20 peuvent être exercés par les électeurs français et par les personnes inscrites sur la liste électorale complémentaire tant en ce qui concerne la liste électorale que la liste électorale complémentaire.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1046 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

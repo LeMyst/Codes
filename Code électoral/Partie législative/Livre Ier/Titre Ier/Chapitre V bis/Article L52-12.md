@@ -27,3 +27,6 @@ V.-Pour l'application de l'article L. 52-11, les frais de transport aérien, mar
 Par dérogation au II et à la seconde phrase du 2° du III du présent article, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de campagne et, le cas échéant, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6 peuvent également être déposés à la préfecture ou la sous-préfecture.
 
 VI.-Pour l'application du présent article, en cas de scrutin binominal, le candidat s'entend du binôme de candidats.
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

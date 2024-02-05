@@ -11,3 +11,6 @@ Les attributions de la commission prévue à l'article L. 166 sont exercées par
 Les ambassades et les postes consulaires participent à l'envoi aux électeurs des circulaires et des bulletins de vote des candidats dans des conditions fixées par décret en Conseil d'Etat. Ils les tiennent à disposition des électeurs dans leurs locaux.
 
 La référence à l'article L. 51 figurant à l'article L. 165 s'entend de la référence au présent article.
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

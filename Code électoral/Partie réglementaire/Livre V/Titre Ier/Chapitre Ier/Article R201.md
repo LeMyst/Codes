@@ -39,3 +39,6 @@ Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il 
 18° " Archives de la Nouvelle-Calédonie " ou " archives de la province " , au lieu de : " archives départementales " ;
 
 19° " Institut d'émission d'outre-mer " au lieu de : " Banque de France " .
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

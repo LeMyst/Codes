@@ -21,3 +21,8 @@ L'inscription sur une nouvelle liste électorale entraîne leur radiation de la 
 V.-La procédure prévue au IV est également applicable lorsqu'une personne détenue atteint l'âge de la majorité légale en détention. L'inscription prévue au présent article prévaut sur l'inscription d'office prévue au 1° du II de l'article L. 11.
 
 VI.-Lorsque leur détention prend fin après le sixième vendredi précédant le scrutin, les personnes mentionnées aux I, II, III ou V du présent article restent inscrites, pour ce scrutin, sur la liste électorale de la commune où elles ont été inscrites en application des mêmes I, II, III ou V. ;
+
+NOTA:
+Conformément à l'article 112 de la loi n°2019-1461 III, le I, à l'exception du 4°, et les IV et V de cet article entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2021.
+
+Conformément à l'article 5 du décret n° 2020-1460 du 27 novembre 2020, en application du III de l'article 112 de la loi du 27 décembre 2019, le I, à l'exception des 3° et 4°, le IV et le V de ce même article, entrent en vigueur le lendemain de la publication du présent décret.

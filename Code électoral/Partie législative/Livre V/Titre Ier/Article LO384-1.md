@@ -27,3 +27,6 @@ a) "Wallis-et-Futuna" au lieu de : "département" ;
 b) "administrateur supérieur" et "services de l'administrateur supérieur" au lieu de : "préfet" et "préfecture" ;
 
 c) "chef de circonscription territoriale" au lieu de : "sous-préfet".
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1046 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

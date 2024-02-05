@@ -15,3 +15,6 @@ Sous réserve du II, la présentation de la liste des candidats au conseil munic
 5° Tous les candidats aux sièges de conseiller communautaire doivent figurer au sein des trois premiers cinquièmes de la liste des candidats au conseil municipal.
 
 II. ― Lorsque le nombre de sièges de conseiller communautaire à pourvoir, augmenté en application du 1° du I, excède les trois cinquièmes du nombre de sièges de conseiller municipal à pourvoir, la liste des candidats aux sièges de conseiller communautaire reprend l'ordre de présentation de la liste des candidats au conseil municipal.
+
+NOTA:
+Conformément à l’article 51 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, cet article est applicable aux élections aux conseils municipaux et communautaires prévues les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.

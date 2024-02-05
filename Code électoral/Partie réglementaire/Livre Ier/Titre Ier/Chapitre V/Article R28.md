@@ -11,3 +11,6 @@ Pour les élections où la candidature est subordonnée au dépôt obligatoire d
 Dans les autres cas, les demandes sont déposées en mairie au plus tard le mercredi précédant chaque tour de scrutin à midi et les emplacements sont attribués dans l'ordre d'arrivée des demandes à la mairie.
 
 Tout candidat qui laissera sans emploi l'emplacement d'affichage qu'il aura demandé sera tenu, sauf en cas de force majeure reconnue par le tribunal, de rembourser à la commune les frais d'établissement.
+
+NOTA:
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18 octobre 2013 s’applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin

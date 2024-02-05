@@ -9,3 +9,6 @@ Les bulletins de vote ne peuvent pas comporter :
 3° La photographie ou la représentation d'un animal.
 
 Les bulletins de vote peuvent comporter un emblème.
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

@@ -13,3 +13,6 @@ Par arrêté pris avant le 31 août de chaque année, le préfet rattache ce bur
 4° Pour les élections législatives, la circonscription législative.
 
 Le préfet notifie cet arrêté au maire avant le 31 août de chaque année.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 4 du décret n° 2021-1501 du 18 novembre 2021.

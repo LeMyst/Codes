@@ -23,3 +23,6 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 10° " village " au lieu de : " bureau de vote " ;
 
 11° " archives du territoire " au lieu de : " archives départementales ".
+
+NOTA:
+Conformément à l'article 1er du décret n° 2022-609 du 22 avril 2022, ces dispositions entrent en vigueur le 1er mai 2022.

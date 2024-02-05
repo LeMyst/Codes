@@ -5,3 +5,6 @@ L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'
 L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le mercredi qui suit le premier tour.
 
 Pour chaque tour, l'état indique le titre de la liste, l'ordre des sections électorales ainsi que les noms et prénoms du candidat désigné tête de liste, puis les noms et prénoms de tous les candidats composant la liste, répartis par section électorale et énumérés dans l'ordre de présentation, puis, le cas échéant, les candidatures supplémentaires mentionnées au premier alinéa de l'article L. 260.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1569 du 30 décembre 2019 relatif aux élections municipales en Nouvelle-Calédonie et en Polynésie française, ces dispositions sont applicables à compter du prochain renouvellement général des conseillers municipaux.

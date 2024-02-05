@@ -7,3 +7,6 @@ Dans chaque bureau de vote, il y a un isoloir par trois cents électeurs inscrit
 Les isoloirs ne doivent pas être placés de façon à dissimuler au public les opérations électorales.
 
 Dans les bureaux de vote dotés d'une machine à voter, l'électeur fait constater son identité ou fait la preuve de son droit de voter dans les conditions prévues à l'alinéa 1 et fait enregistrer son suffrage par la machine à voter.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

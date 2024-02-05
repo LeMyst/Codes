@@ -9,3 +9,6 @@ Tout électeur peut prendre communication et copie de la liste électorale consu
 Les personnes et les partis ou groupements politiques exerçant la faculté prévue au présent article s'engagent à ne pas faire un usage commercial des listes électorales consulaires et à ne pas les utiliser à des fins de politique intérieure de l'Etat de résidence de l'électeur.
 
 La faculté prévue au présent article peut être restreinte ou refusée si, en raison de circonstances locales, la divulgation des informations relatives à l'adresse ou à la nationalité française des personnes inscrites est de nature à porter atteinte à la sécurité ou à leur sûreté.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

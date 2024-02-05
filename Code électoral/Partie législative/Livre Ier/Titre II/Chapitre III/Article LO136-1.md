@@ -13,3 +13,6 @@ L'inéligibilité déclarée sur le fondement du présent article est prononcée
 Lorsque le Conseil constitutionnel a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
 
 Sans préjudice de l'article L. 52-15, lorsqu'il constate que la commission instituée par l'article L. 52-14 n'a pas statué à bon droit, le Conseil constitutionnel fixe dans sa décision le montant du remboursement forfaitaire prévu à l'article L. 52-11-1.
+
+NOTA:
+Conformément à l'article 5 de la loi organique n° 2019-1268 du 2 décembre 2019, ces dispositions s'appliquent à tout député ou sénateur à compter du prochain renouvellement de l'assemblée à laquelle il appartient ainsi qu'aux candidats aux élections afférentes.

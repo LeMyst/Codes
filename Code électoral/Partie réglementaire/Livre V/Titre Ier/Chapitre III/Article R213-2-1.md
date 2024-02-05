@@ -9,3 +9,6 @@ La commission de contrôle, qui est convoquée par le chef de la circonscription
 Si elle ne s'est pas réunie depuis le 1er janvier de l'année en cours, la commission se réunit entre le sixième vendredi précédant le 31 décembre et le dernier jour ouvré de l'année.
 
 Le secrétariat de la commission est assuré par un agent de la circonscription territoriale.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

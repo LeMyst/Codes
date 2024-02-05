@@ -9,3 +9,6 @@ Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
 Un représentant de chacune des listes peut assister aux opérations de la commission.
 
 Pour l'application du présent article à Paris il y a lieu de lire : “membre du Conseil de Paris” au lieu de : “conseiller départemental”.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2020-1616 du 17 décembre 2020, ces dispositions entrent en vigueur le lendemain de la publication du présent décret. Elles prennent effet pour chaque commission à l'expiration des mandats en cours à cette date.

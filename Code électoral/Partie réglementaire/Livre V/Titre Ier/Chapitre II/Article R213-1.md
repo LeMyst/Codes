@@ -27,3 +27,6 @@ b) La référence au I de l'article R. 72 est remplacée par la référence au p
 “ Les données à caractère personnel et informations recueillies via la télé-procédure mentionnée au premier alinéa de l'article R. 72 aux seules fins d'établir une procuration sont conservées pendant une durée fixée par arrêté du ministre de l'intérieur. Cette durée ne peut être inférieure à la durée de conservation des procurations établies par formulaire et ne peut dépasser deux années. ” ;
 
 4° A l'article R. 78, la référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

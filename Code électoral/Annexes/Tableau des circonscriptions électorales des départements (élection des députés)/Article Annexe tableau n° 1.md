@@ -2,9 +2,7 @@
 
 |  |  |
 | --- | --- |
-|\
-DEPARTEMENTS |\
-COMPOSITION |
+| DEPARTEMENTS | COMPOSITION |
 | Ain |
 | 1re circonscription | Cantons de : Bourg-en-Bresse Est, Bourg-en-Bresse Nord-Centre, Ceyzériat, Coligny, Montrevel-en-Bresse, Pont-d'Ain, Pont-de-Vaux, Saint-Trivier-de-Courtes, Treffort-Cuisiat, Viriat  |
 | 2e circonscription | Cantons de : Lagnieu, Méximieux, Miribel, Montluel, Reyrieux, Trévoux  |
@@ -70,8 +68,7 @@ COMPOSITION |
 | 7e circonscription | Partie du 14e arrondissement municipal non comprise dans la 3e circonscription ; 15e arrondissement municipal ; 16e arrondissement municipal  |
 | 8e circonscription | Cantons de : Berre-l'Etang, Pélissanne, Salon-de-Provence  |
 | 9e circonscription | Cantons de : Aubagne Est, Aubagne Ouest, La Ciotat  |
-| 10e circonscription | Cantons de : Allauch, Gardanne, Roquevaire
-Commune de Meyreuil  |
+| 10e circonscription | Cantons de : Allauch, Gardanne, Roquevaire Commune de Meyreuil  |
 | 11e circonscription | Cantons de : Aix-en-Provence Nord-Est (partie comprenant la portion de territoire de la commune d'Aix-en-Provence délimitée, au nord, par la voie ferrée entre le passage à niveau de la Calade et la limite de la commune de Venelles, à l'est, par la limite de la commune de Venelles, l'autoroute A 51, la route de Sisteron, l'ancienne route des Alpes jusqu'à la limite du canton d'Aix-en-Provence Centre, au sud, par la limite du canton d'Aix-en-Provence Centre, à l'ouest, par la limite du canton d'Aix-en-Provence Sud-Ouest), Aix-en-Provence Sud-Ouest (moins la commune de Meyreuil), Les Pennes-Mirabeau  |
 | 12e circonscription | Cantons de : Châteauneuf-Côte-Bleue, Marignane, Vitrolles  |
 | 13e circonscription | Cantons de : Istres Sud, Martigues Est, Martigues Ouest, Port-Saint-Louis-du-Rhône  |
@@ -139,8 +136,7 @@ Commune de Meyreuil  |
 | Drôme |
 | 1re circonscription | Cantons de : Bourg-lès-Valence, Tain-l'Hermitage, Valence I, Valence II, Valence III, Valence IV |
 | 2e circonscription | Cantons de : Loriol-sur-Drôme (moins la commune d'Ambonil), Marsanne, Montélimar I, Montélimar II, Pierrelatte, Portes-lès-Valence |
-| 3e circonscription | Cantons de : Bourdeaux, Buis-les-Baronnies, Chabeuil, La Chapelle-en-Vercors, Châtillon-en-Diois, Crest Nord, Crest Sud, Die, Dieulefit, Grignan, Luc-en-Diois, La Motte-Chalancon, Nyons, Rémuzat, Saillans, Saint-Jean-en-Royans, Saint-Paul-Trois-Châteaux, Séderon
-Commune d'Ambonil |
+| 3e circonscription | Cantons de : Bourdeaux, Buis-les-Baronnies, Chabeuil, La Chapelle-en-Vercors, Châtillon-en-Diois, Crest Nord, Crest Sud, Die, Dieulefit, Grignan, Luc-en-Diois, La Motte-Chalancon, Nyons, Rémuzat, Saillans, Saint-Jean-en-Royans, Saint-Paul-Trois-Châteaux, SéderonCommune d'Ambonil |
 | 4e circonscription | Cantons de : Bourg-de-Péage, Le Grand-Serre, Romans-Isère I, Romans-sur-Isère II, Saint-Donat-sur-l'Herbasse, Saint-Vallier |
 | Eure |
 | 1re circonscription | Cantons de : Breteuil, Damville, Evreux Est, Evreux Sud, Nonancourt, Pacy-sur-Eure, Saint-André-de-l'Eure, Verneuil-sur-Avre |
@@ -170,16 +166,12 @@ Commune d'Ambonil |
 | 5e circonscription | Cantons de : Alès Ouest, Alzon, Anduze, Bessèges, Génolhac, La Grand-Combe, Lasalle, Lédignan, Quissac, Saint-André-de-Valborgne, Saint-Hippolyte-du-Fort, Saint-Jean-du-Gard, Saint-Mamert-du-Gard, Sauve, Sumène, Trèves, Valleraugue, Le Vigan  |
 | 6e circonscription | Cantons de : Marguerittes, Nîmes II, Nîmes IV, Nîmes V, Uzès  |
 | Haute-Garonne |
-| 1re circonscription | Cantons de : Blagnac, Toulouse IV, Toulouse V, Toulouse XIII (moins la commune de Colomiers)
-Commune de Toulouse (partie comprise dans le canton de Toulouse XIV)  |
-| 2e circonscription | Cantons de : Montastruc-la-Conseillère, Toulouse VI, Toulouse VII, Toulouse XV
-Commune de Montrabé  |
+| 1re circonscription | Cantons de : Blagnac, Toulouse IV, Toulouse V, Toulouse XIII (moins la commune de Colomiers) Commune de Toulouse (partie comprise dans le canton de Toulouse XIV)  |
+| 2e circonscription | Cantons de : Montastruc-la-Conseillère, Toulouse VI, Toulouse VII, Toulouse XV Commune de Montrabé  |
 | 3e circonscription | Cantons de : Toulouse II, Toulouse VIII (moins la commune de Montrabé), Toulouse IX (moins la commune de Ramonville-Saint-Agne et la partie de la commune de Toulouse située à l'ouest du canal du Midi), Verfeil  |
-| 4e circonscription |\
-Cantons de : Toulouse I, Toulouse III, Toulouse XII  |
+| 4e circonscription | Cantons de : Toulouse I, Toulouse III, Toulouse XII  |
 | 5e circonscription | Cantons de : Fronton, Grenade, Toulouse XIV (partie non comprise dans la 1re circonscription), Villemur-sur-Tarn  |
-| 6e circonscription | Cantons de : Cadours, Léguevin, Saint-Lys
-Communes de : Colomiers, Tournefeuille  |
+| 6e circonscription | Cantons de : Cadours, Léguevin, Saint-Lys Communes de : Colomiers, Tournefeuille  |
 | 7e circonscription | Cantons de : Auterive, Carbonne, Cintegabelle, Muret, Montesquieu-Volvestre, Rieux, Tournefeuille (moins la commune de Tournefeuille)  |
 | 8e circonscription | Communes de : Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Rieumes, Saint-Béat, Saint-Gaudens, Saint-Martory, Salies-du-Salat |
 | 9e circonscription | Cantons de : Portet-sur-Garonne, Toulouse IX (partie non comprise dans la 3e circonscription), Toulouse X, Toulouse XI  |
@@ -201,11 +193,9 @@ Communes de : Colomiers, Tournefeuille  |
 | 11e circonscription | Cantons de : Blaye, Bourg, Coutras, Guitres, Saint-André-de-Cubzac, Saint-Ciers-sur-Gironde, Saint-Savin |
 | 12e circonscription | Cantons de : Auros, Cadillac, Créon, Monségur, Pellegrue, La Réole, Saint-Macaire, Sauveterre-de-Guyenne, Targon |
 | Hérault |
-| 1re circonscription | Cantons de : Lattes, Montpellier V, Montpellier VI, Montpellier VIII
-Commune de Villeneuve-lès-Maguelone  |
+| 1re circonscription | Cantons de : Lattes, Montpellier V, Montpellier VI, Montpellier VIII Commune de Villeneuve-lès-Maguelone  |
 | 2e circonscription | Cantons de : Montpellier I, Montpellier III, Montpellier VII, Montpellier IX  |
-| 3e circonscription | Cantons de : Castelnau-le-Lez, Castries, Montpellier II
-Communes de : Boisseron, Saturargues, Saussines, Saint-Christol, Saint-Sériès, Vérargues, Villetelle (issues du canton de Lunel), Campagne et Guarrigues (issues du canton de Claret)  |
+| 3e circonscription | Cantons de : Castelnau-le-Lez, Castries, Montpellier II Communes de : Boisseron, Saturargues, Saussines, Saint-Christol, Saint-Sériès, Vérargues, Villetelle (issues du canton de Lunel), Campagne et Guarrigues (issues du canton de Claret)  |
 | 4e circonscription | Cantons de : Aniane, Le Caylar, Claret (moins les communes de Campagne et Garrigues), Ganges, Gignac, Lodève, Les Matelles, Mèze, Saint-Martin-de-Londres  |
 | 5e circonscription | Cantons de : Bédarieux, Capestang, Clermont-l'Hérault, Lunas, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières, La Salvetat-sur-Agout  |
 | 6e circonscription | Cantons de : Béziers I, Béziers II, Béziers III, Béziers IV  |
@@ -235,12 +225,10 @@ Communes de : Boisseron, Saturargues, Saussines, Saint-Christol, Saint-Sériès,
 | 2e circonscription | Cantons de : Echirolles Est, Echirolles Ouest, Eybens, Saint-Martin-d'Hères Nord, Saint-Martin-d'Hères Sud, Vizille (moins la partie de la commune de Chamrousse)  |
 | 3e circonscription | Cantons de : Fontaine-Sassenage, Grenoble III, Grenoble V, Grenoble VI |
 | 4e circonscription | Cantons de : Le Bourg-d'Oisans, Clelles, Corps, Fontaine-Seyssinet, Mens, Monestier-de-Clermont, La Mure, Valbonnais, Vif, Villard-de-Lans |
-| 5e circonscription | Cantons de : Allevard, Domène, Goncelin, Saint-Egrève, Saint-Geoirs-en-Valdaine, Saint-Laurent-du-Pont, Le Touvet
-Commune de Chamrousse (partie comprise dans le canton de Vizille)  |
+| 5e circonscription | Cantons de : Allevard, Domène, Goncelin, Saint-Egrève, Saint-Geoirs-en-Valdaine, Saint-Laurent-du-Pont, Le Touvet Commune de Chamrousse (partie comprise dans le canton de Vizille)  |
 | 6e circonscription | Cantons de : Bourgoin-Jallieu Nord, Crémieu, Morestel, Pont-de-Chéruy  |
 | 7e circonscription | Cantons de : Beaurepaire, La Côte-Saint-André, Le Grand-Lemps, Roussillon (moins les communes de Assieu, Auberives-sur-Varèze, Cheyssieu, Clonas-sur-Varèze, Saint-Alban-du-Rhône, Saint-Clair-du-Rhône, Saint-Maurice-l'Exil, Saint-Prim, Vernioz), Roybon, Saint-Etienne-de-Saint-Geoirs, Saint-Jean-de-Bournay, Virieu  |
-| 8e circonscription | Cantons de : Heyrieux, Vienne Nord, Vienne Sud
-Communes de : Assieu, Auberives-sur-Varèze, Cheyssieu, Clonas-sur-Varèze, Saint-Alban-du-Rhône, Saint-Clair-du-Rhône, Saint-Maurice-l'Exil, Saint-Prim, Vernioz  |
+| 8e circonscription | Cantons de : Heyrieux, Vienne Nord, Vienne Sud Communes de : Assieu, Auberives-sur-Varèze, Cheyssieu, Clonas-sur-Varèze, Saint-Alban-du-Rhône, Saint-Clair-du-Rhône, Saint-Maurice-l'Exil, Saint-Prim, Vernioz  |
 | 9e circonscription | Cantons de : Pont-en-Royans, Rives, Saint-Marcellin, Tullins, Vinay, Voiron |
 | 10e circonscription | Cantons de : Bourgoin-Jallieu Sud, L'Isle-d'Abeau, Le Pont-de-Beauvoisin, La Tour-du-Pin, La Verpillière  |
 | Jura |
@@ -308,8 +296,7 @@ Communes de : Assieu, Auberives-sur-Varèze, Cheyssieu, Clonas-sur-Varèze, Sain
 | Marne |
 | 1re circonscription | Cantons de : Bourgogne, Reims II, Reims IV, Reims VI, Reims X  |
 | 2e circonscription | Cantons de : Châtillon-sur-Marne (moins les communes de Courtagnon, Nanteuil-la-Forêt et Pourcy), Fismes, Reims I, Reims III, Reims V, Reims VIII, Ville-en-Tardenois  |
-| 3e circonscription | Cantons de : Ay, Dormans, Epernay I, Epernay II, Esternay, Montmirail, Montmort-Lucy, Reims IX, Verzy
-Communes de : Courtagnon, Nanteuil-la-Forêt et Pourcy  |
+| 3e circonscription | Cantons de : Ay, Dormans, Epernay I, Epernay II, Esternay, Montmirail, Montmort-Lucy, Reims IX, Verzy Communes de : Courtagnon, Nanteuil-la-Forêt et Pourcy  |
 | 4e circonscription | Cantons de : Beine-Nauroy, Châlons-en-Champagne I, Châlons-en-Champagne II, Châlons-en-Champagne III, Châlons-en-Champagne IV, Givry-en-Argonne, Reims VII, Sainte-Menehould, Suippes, Ville-sur-Tourbe  |
 | 5e circonscription | Cantons de : Anglure, Avize, Ecury-sur-Coole, Fère-Champenoise, Heiltz-le-Maurupt, Marson, Sézanne, Saint-Rémy-en-Bouzemont-Saint-Genest-et-Isson, Sompuis, Thiéblemont-Farémont, Vertus, Vitry-le-François Est, Vitry-le-François Ouest  |
 | Haute-Marne |
@@ -325,8 +312,7 @@ Communes de : Courtagnon, Nanteuil-la-Forêt et Pourcy  |
 | 3e circonscription | Cantons de : Audun-le-Roman, Briey, Herserange, Longuyon, Longwy, Mont-Saint-Martin, Villerupt  |
 | 4e circonscription | Cantons de : Arracourt, Baccarat, Badonviller, Bayon, Blâmont, Cirey-sur-Vezouze, Gerbéviller, Lunéville Nord, Lunéville Sud, Saint-Nicolas-de-Port, Tomblaine  |
 | 5e circonscription | Cantons de : Colombey-les-Belles, Domèvre-en-Haye, Haroué, Neuves-Maisons, Thiaucourt-Regniéville (moins les communes d'Arnaville, Bayon vil le-sur-Mad et Vandelainville), Toul Nord, Toul Sud, Vézelize |
-| 6e circonscription | Cantons de : Chambley-Bussières, Conflans-en-Jarnisy, Dieulouard, Homécourt, Nomeny, Pompey, Pont-à-Mousson
-Communes de : Arnaville, Bayonville-sur-Mad, Vandelainville (issues du canton de Thiaucourt-Regniéville)  |
+| 6e circonscription | Cantons de : Chambley-Bussières, Conflans-en-Jarnisy, Dieulouard, Homécourt, Nomeny, Pompey, Pont-à-Mousson Communes de : Arnaville, Bayonville-sur-Mad, Vandelainville (issues du canton de Thiaucourt-Regniéville)  |
 | Meuse |
 | 1re circonscription | Cantons de : Ancerville, Bar-le-Duc Nord, Bar-le-Duc Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil-d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt, Vigneulles-lès-Hattonchâtel, Void-Vacon |
 | 2e circonscription | Cantons de : Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Etain, Fresnes-en-Woëvre, Montfaucon-d'Argonne, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun Centre, Verdun Est, Verdun Ouest  |
@@ -340,28 +326,23 @@ Communes de : Arnaville, Bayonville-sur-Mad, Vandelainville (issues du canton de
 | Moselle |
 | 1re circonscription | Cantons de : Maizières-lès-Metz, Marange-Silvange, Metz III (partie non comprise dans la 3e circonscription), Rombas, Woippy  |
 | 2e circonscription | Cantons de : Ars-sur-Moselle, Metz IV, Montigny-lès-Metz (moins les communes de Chieulles, Mey, Saint-Julien-lès-Metz, Vantoux, Vany), Verny |
-| 3e circonscription | Cantons de : Metz I, Metz II, Metz III (moins la partie située à l'ouest de la voie ferrée de Nancy à Thionville), Pange, Vigy
-Communes de : Chieulles, Mey, Saint-Julien-lès-Metz, Vantoux, Vany  |
+| 3e circonscription | Cantons de : Metz I, Metz II, Metz III (moins la partie située à l'ouest de la voie ferrée de Nancy à Thionville), Pange, Vigy Communes de : Chieulles, Mey, Saint-Julien-lès-Metz, Vantoux, Vany  |
 | 4e circonscription | Cantons de : Albestroff, Château-Salins, Delme, Dieuze, Fénétrange, Grostenquin, Lorquin, Phalsbourg, Réchicourt-le-Château, Sarrebourg, Vic-sur-Seille  |
 | 5e circonscription | Cantons de : Bitche, Rohrbach-lès-Bitche, Sarralbe, Sarreguemines, Sarreguemines-Campagne, Volmunster |
 | 6e circonscription | Cantons de : Behren-lès-Forbach, Forbach, Freyming-Merlebach, Stiring-Wendel |
 | 7e circonscription | Cantons de : Boulay-Moselle, Bouzonville, Faulquemont, Saint-Avold I, Saint-Avold II  |
-| 8e circonscription | Cantons de : Algrange, Fameck, Florange, Fontoy, Hayange, Moyeuvre-Grande
-Commune de Terville  |
+| 8e circonscription | Cantons de : Algrange, Fameck, Florange, Fontoy, Hayange, Moyeuvre-Grande Commune de Terville  |
 | 9e circonscription | Cantons de : Cattenom, Metzervisse, Sierck-les-Bains, Thionville Est, Thionville Ouest, Yutz (moins la commune de Terville)  |
 | Nièvre |
 | 1re circonscription | Cantons de : La Charité-sur-Loire, Cosne-Cours-sur-Loire Nord, Cosne-Cours-sur-Loire Sud, Imphy, Nevers Centre, Nevers Est, Nevers Nord, Nevers Sud, Pouilly-sur-Loire, Pougues-les-Eaux, Saint-Benin-d'Azy  |
 | 2e circonscription | Cantons de : Brinon-sur-Beuvron, Château-Chinon (Ville), Châtillon-en-Bazois, Clamecy, Corbigny, Decize, Donzy, Dornes, Fours, Guérigny, Lormes, Luzy, La Machine, Montsauche-les-Settons, Moulins-Engilbert, Prémery, Saint-Amand-en-Puisaye, Saint-Pierre-le-Moûtier, Saint-Saulge, Tannay, Varzy  |
 | Nord |
-| 1re circonscription | Cantons de : Lille Centre, Lille Sud, Lille Sud-Est (moins les communes de Lezennes et Ronchin)
-Commune de Loos  |
-| 2e circonscription | Cantons de : Lille Est, Villeneuve-d'Ascq Nord, Villeneuve-d'Ascq Sud
-Communes de Lezennes, Mons-en-Barœul et Ronchin  |
+| 1re circonscription | Cantons de : Lille Centre, Lille Sud, Lille Sud-Est (moins les communes de Lezennes et Ronchin)Commune de Loos  |
+| 2e circonscription | Cantons de : Lille Est, Villeneuve-d'Ascq Nord, Villeneuve-d'Ascq Sud Communes de Lezennes, Mons-en-Barœul et Ronchin  |
 | 3e circonscription | Cantons de : Avesnes-sur-Helpe Nord, Bavay, Maubeuge Nord, Maubeuge Sud, Solre-le-Château, Trélon  |
 | 4e circonscription | Cantons de : Lille Nord, Lille Ouest, Quesnoy-sur-Deûle  |
 | 5e circonscription | Cantons de : La Bassée, Haubourdin (moins la commune de Loos), Seclin Nord, Seclin Sud  |
-| 6e circonscription | Cantons de : Cysoing, Orchies, Pont-à-Marcq
-Communes de : Anstaing, Baisieux, Chéreng, Forest-sur-Marque, Gruson, Sailly-lez-Lannoy, Tressin, Willems  |
+| 6e circonscription | Cantons de : Cysoing, Orchies, Pont-à-Marcq Communes de : Anstaing, Baisieux, Chéreng, Forest-sur-Marque, Gruson, Sailly-lez-Lannoy, Tressin, Willems  |
 | 7e circonscription | Cantons de : Lannoy (moins les communes de Anstaing, Baisieux, Chéreng, Forest-sur-Marque, Gruson, Sailly-lez-Lannoy, Tressin et Willems), Roubaix Ouest  |
 | 8e circonscription | Cantons de : Roubaix Centre, Roubaix Est, Roubaix Nord  |
 | 9e circonscription | Cantons de : Lille Nord-Est (moins la commune de Mons-en-Barœul), Marcq-en-Barœul, Tourcoing Sud  |
@@ -371,17 +352,12 @@ Communes de : Anstaing, Baisieux, Chéreng, Forest-sur-Marque, Gruson, Sailly-le
 | 13e circonscription | Cantons de : Coudekerque-Branche, Dunkerque Ouest, Grande-Synthe  |
 | 14e circonscription | Cantons de : Bergues, Bourbourg, Dunkerque Est, Gravelines, Hondschoote, Wormhout  |
 | 15e circonscription | Cantons de : Bailleul Nord-Est, Bailleul Sud-Ouest, Cassel, Hazebrouck Nord, Hazebrouck Sud, Merville, Steenvoorde  |
-| 16e circonscription | Canton de Marchiennes
-Communes de : Anhiers, Aniche, Auberchicourt, Dechy, Ecaillon, Flines-lez-Râches, Guesnain, Lallaing, Lewarde, Loffre, Masny, Montigny-en-Ostrevent, Sin-le-Noble, Waziers  |
+| 16e circonscription | Canton de Marchiennes Communes de : Anhiers, Aniche, Auberchicourt, Dechy, Ecaillon, Flines-lez-Râches, Guesnain, Lallaing, Lewarde, Loffre, Masny, Montigny-en-Ostrevent, Sin-le-Noble, Waziers  |
 | 17e circonscription | Cantons de : Arleux, Douai Nord (moins les communes de Anhiers, Flines-lez-Raches, Lallaing, Sin-le-Noble, Waziers), Douai Nord-Est, Douai Sud (moins les communes de Aniche, Auberchicourt, Dechy, Ecaillon, Guesnain, Lewarde, Loffre, Masny, Montigny-en-Ostreven), Douai Sud-Ouest  |
 | 18e circonscription | Cantons de : Cambrai Est, Cambrai Ouest, Le Cateau-Cambrésis, Clary, Marcoing  |
 | 19e circonscription | Cantons de : Bouchain, Denain, Valenciennes Sud (moins la commune de Valenciennes) |
-| 20e circonscription | Cantons de : Anzin (moins la commune de Saint-Saulve), Saint-Amand-les-Eaux-Rive droite, Saint-Amand-les-Eaux-Rive gauche
-
-Communes de : Escautpont, Fresnes-sur-Escaut, Hergnies, Odomez, Vicq, Vieux-Condé  |
-| 21e circonscription | Cantons de : Condé-sur-l'Escaut (moins les communes de Escautpont, Fresnes-sur-Escaut, Hergnies, Odomez, Vicq, Vieux-Condé), Valenciennes Est, Valenciennes Nord
-Commune de Valenciennes (partie comprise dans le canton de Valenciennes Sud)
-Commune de Saint-Saulve  |
+| 20e circonscription | Cantons de : Anzin (moins la commune de Saint-Saulve), Saint-Amand-les-Eaux-Rive droite, Saint-Amand-les-Eaux-Rive gauche Communes de : Escautpont, Fresnes-sur-Escaut, Hergnies, Odomez, Vicq, Vieux-Condé  |
+| 21e circonscription | Cantons de : Condé-sur-l'Escaut (moins les communes de Escautpont, Fresnes-sur-Escaut, Hergnies, Odomez, Vicq, Vieux-Condé), Valenciennes Est, Valenciennes Nord Commune de Valenciennes (partie comprise dans le canton de Valenciennes Sud) Commune de Saint-Saulve  |
 | Oise |
 | 1re circonscription | Cantons de : Beauvais Nord-Est, Beauvais Nord-Ouest, Breteuil, Crèvecoeur-le-Grand, Froissy, Maignelay-Montigny, Marseille-en-Beauvaisis, Nivillers, Saint-Just-en-Chaussée |
 | 2e circonscription | Cantons de : Auneuil, Beauvais Sud-Ouest, Chaumont-en-Vexin, Le Coudray-Saint-Germer, Formerie, Grandvilliers, Noailles, Songeons |
@@ -411,8 +387,7 @@ Commune de Saint-Saulve  |
 | 1re circonscription | Cantons de : Clermont-Ferrand Centre, Clermont-Ferrand Est, Clermont-Ferrand Nord, Clermont-Ferrand Nord-Ouest, Clermont-Ferrand Sud, Cournon-d'Auvergne, Gerzat, Montferrand  |
 | 2e circonscription | Cantons de : Aigueperse, Bourg-Lastic, Combronde, Herment, Manzat, Menat, Montaigut, Pionsat, Pontaumur, Pontgibaud, Randan, Riom Est, Riom Ouest, Saint-Gervais-d'Auvergne  |
 | 3e circonscription | Cantons de : Ardes, Beaumont, Besse-et-Saint-Anastaise, Chamalières, Champeix, Clermont-Ferrand Ouest, Clermont-Ferrand Sud-Ouest, Rochefort-Montagne, Royat, Saint-Amant-Tallande, Tauves, La Tour-d'Auvergne  |
-| 4e circonscription | Cantons de : Aubière, Clermont-Ferrand Sud-Est, Issoire, Jumeaux, Saint-Germain-Lembron, Sauxillanges, Vertaizon, Veyre-Monton, Vic-le-Comte
-Commune de Pérignat-sur-Allier  |
+| 4e circonscription | Cantons de : Aubière, Clermont-Ferrand Sud-Est, Issoire, Jumeaux, Saint-Germain-Lembron, Sauxillanges, Vertaizon, Veyre-Monton, Vic-le-Comte Commune de Pérignat-sur-Allier  |
 | 5e circonscription | Cantons de : Ambert, Arlanc, Billom (moins la commune de Pérignat-sur-Allier), Châteldon, Courpière, Cunlhat, Ennezat, Lezoux, Maringues, Olliergues, Pont-du-Château, Saint-Amant-Roche-Savine, Saint-Anthème, Saint-Germain-l'Herm, Saint-Dier-d'Auvergne, Saint-Rémy-sur-Durolle, Thiers, Viverols  |
 | Pyrénées-Atlantiques |
 | 1re circonscription | Cantons : Billère, Lescar, Pau Centre, Pau Nord, Pau Ouest |
@@ -431,18 +406,14 @@ Commune de Pérignat-sur-Allier  |
 | 4e circonscription | Cantons de : Argelès-sur-Mer, Arles-sur-Tech, Céret, Côte-Vermeille, Elne, Prats-de-Mollo-la-Preste, Thuir |
 | Bas-Rhin |
 | 1re circonscription | Cantons de : Strasbourg I, Strasbourg II, Strasbourg IV, Strasbourg VI (partie située au sud d'une ligne définie par l'axe de la route d'Oberhausbergen et à l'ouest d'une ligne définie par l'axe de la voie de chemin de fer de Hausbergen à Graffenstaden), Strasbourg IX  |
-| 2e circonscription | Cantons de : Strasbourg III, Strasbourg VII, Strasbourg VIII, Strasbourg X
-Commune de Illkirch-Graffenstaden  |
-| 3e circonscription | Cantons de : Bischheim, Schiltigheim, Strasbourg V, Strasbourg VI (partie non comprise dans la 1re circonscription)
-Communes de : Reichstett et Souffelweyersheim  |
-| 4e circonscription | Cantons de : Geispolsheim, Mundolsheim (moins les communes de Reichstett et de Souffelweyersheim), Truchtersheim
-Communes de : Lingolsheim et Ostwald  |
+| 2e circonscription | Cantons de : Strasbourg III, Strasbourg VII, Strasbourg VIII, Strasbourg X Commune de Illkirch-Graffenstaden  |
+| 3e circonscription | Cantons de : Bischheim, Schiltigheim, Strasbourg V, Strasbourg VI (partie non comprise dans la 1re circonscription) Communes de : Reichstett et Souffelweyersheim  |
+| 4e circonscription | Cantons de : Geispolsheim, Mundolsheim (moins les communes de Reichstett et de Souffelweyersheim), Truchtersheim Communes de : Lingolsheim et Ostwald  |
 | 5e circonscription | Cantons de : Barr, Benfeld, Erstein, Marckolsheim, Sélestat, Villé  |
 | 6e circonscription | Cantons de : Molsheim, Obernai, Rosheim, Saales, Schirmeck, Wasselonne  |
 | 7e circonscription | Cantons : Bouxwiller, Drulingen, Hochfelden, Marmoutier, La Petite-Pierre, Sarre-Union, Saverne  |
 | 8e circonscription | Cantons de : Bischwiller (moins les communes de Bischwiller, Oberhoffen-sur-Moder, Rohrwiller, Schirrheim, Schirrhoffen), Lauterbourg, Niederbronn-les-Bains, Seltz, Soultz-sous-Forêts, Wissembourg, Woerth  |
-| 9e circonscription | Cantons de : Brumath, Haguenau
-Communes de : Bischwiller, Oberhoffen-sur-Moder, Rohrwiller, Schirrheim, Schirrhoffen (issues du canton de Bischwiller)  |
+| 9e circonscription | Cantons de : Brumath, Haguenau Communes de : Bischwiller, Oberhoffen-sur-Moder, Rohrwiller, Schirrheim, Schirrhoffen (issues du canton de Bischwiller)  |
 | Haut-Rhin |
 | 1re circonscription | Cantons de : Andolsheim, Colmar Nord, Colmar Sud, Neuf-Brisach |
 | 2e circonscription | Cantons de : Guebwiller, Kaysersberg, Lapoutroie, Munster, Ribeauvillé, Rouffach, Sainte-Marie-aux-Mines, Wintzenheim  |
@@ -463,8 +434,7 @@ Communes de : Bischwiller, Oberhoffen-sur-Moder, Rohrwiller, Schirrheim, Schirrh
 | 10e circonscription | Cantons de : Saint-Genis-Laval, Saint-Laurent-de-Chamousset, Saint-Symphorien-sur-Coise, Vaugneray  |
 | 11e circonscription | Cantons de : Condrieu, Givors, Mornant, Saint-Symphorien-d'Ozon |
 | 12e circonscription | Cantons de : Irigny, Oullins, Sainte-Foy-lès-Lyon, Tassin-la-Demi-Lune |
-| 13e circonscription | Cantons de : Décines-Charpieu, Meyzieu
-Commune de Saint-Priest (partie située à l'est d'une ligne définie par les voies ci-après : autoroute A43, rue de l'Aviation, avenue Hélène-Boucher, avenue Salvador-Allende, rue Alfred-de-Vigny, avenue Jean-Jaurès, boulevard Frédéric-Reymond, montée de la Carnière, rue du Grisard, rue Jules-Verne, autoroute A46 vers Heyrieux)  |
+| 13e circonscription | Cantons de : Décines-Charpieu, Meyzieu Commune de Saint-Priest (partie située à l'est d'une ligne définie par les voies ci-après : autoroute A43, rue de l'Aviation, avenue Hélène-Boucher, avenue Salvador-Allende, rue Alfred-de-Vigny, avenue Jean-Jaurès, boulevard Frédéric-Reymond, montée de la Carnière, rue du Grisard, rue Jules-Verne, autoroute A46 vers Heyrieux)  |
 | 14e circonscription | Cantons de : Saint-Fons, Vénissieux Nord, Vénissieux Sud, Saint-Priest (partie non comprise dans la 13e circonscription)  |
 | Haute-Saône |
 | 1re circonscription | Cantons de : Amance, Autrey-lès-Gray, Champlitte, Combeaufontaine, Dampierre-sur-Salon, Fresne-Saint-Marnès, Gray, Gy, Jussey, Marnay, Pesmes, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin, Vesoul Est, Vesoul Ouest, Vitrey-sur-Mance  |

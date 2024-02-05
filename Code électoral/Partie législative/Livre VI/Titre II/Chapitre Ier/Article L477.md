@@ -11,3 +11,6 @@ Pour l'application des dispositions du présent code à Saint-Barthélemy, il y 
 4° " circonscription électorale " au lieu de : " canton " ;
 
 5° " conseiller territorial " et " président du conseil territorial " au lieu, respectivement, de : " conseiller général " et " président du conseil général " .
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

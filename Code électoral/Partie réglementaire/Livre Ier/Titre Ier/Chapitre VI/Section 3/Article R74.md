@@ -5,3 +5,6 @@ La validité de la procuration est limitée à un seul scrutin. Toutefois, à la
 Mention expresse de la validité choisie est portée sur la procuration.
 
 Lorsque plusieurs élections ont lieu le même jour, il n'est établi qu'une procuration valable pour toutes ces élections.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

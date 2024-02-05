@@ -9,3 +9,6 @@ Pour l'application du dernier alinéa du même article L. 308-1, la référence 
 2° En Polynésie française, par la référence à l'indice des prix à la consommation des ménages de l'Institut de la statistique de la Polynésie française ;
 
 3° Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation.
+
+NOTA:
+LOI n° 2011-412 du 14 avril 2011 art 30 II : L'article L. 439-1 A du code électoral, dans sa rédaction issue de la présente loi, est applicable à compter du premier renouvellement du Sénat suivant le prochain renouvellement de cette assemblée, prévu en septembre 2011.

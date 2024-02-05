@@ -11,3 +11,6 @@ Elle peut demander à l'administration fiscale d'exercer le droit de communicati
 Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en œuvre les procédures d'assistance administrative internationale.
 
 Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité, au titre des vérifications et contrôles qu'ils mettent en œuvre pour l'application du présent chapitre.
+
+NOTA:
+Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié le 20 décembre 2013.

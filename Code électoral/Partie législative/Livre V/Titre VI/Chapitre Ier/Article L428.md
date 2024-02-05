@@ -5,3 +5,6 @@ Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les disposit
 Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :
 
 " 8° Le directeur du cabinet du président et des membres du gouvernement, du président du congrès et des présidents des assemblées de province, le secrétaire général et les secrétaires généraux adjoints de la Nouvelle-Calédonie et les secrétaires généraux des provinces, les directeurs généraux, inspecteurs généraux, inspecteurs, directeurs, directeurs adjoints de la Nouvelle-Calédonie ou des provinces ou de l'un des établissements publics de la Nouvelle-Calédonie ou des provinces. "
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

@@ -13,3 +13,6 @@ Toutefois, lorsque deux scrutins se tiennent concomitamment, une même personne 
 Dans les communes équipées de machines à voter, l'ensemble des membres du bureau peut être commun aux deux scrutins concomitants.
 
 En outre, lorsqu'à l'issue de la période d'inscription sur les listes électorales prévues à l'article L. 17, le bureau de vote prévu à l'article R. 40-1 compte moins de deux cents électeurs inscrits, une même personne peut exercer les fonctions de président de ce bureau de vote et d'un autre bureau de vote de la commune chef-lieu du département, lorsque les deux bureaux de vote sont installés dans une même salle. Il en va de même des fonctions de secrétaire.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

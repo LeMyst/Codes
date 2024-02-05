@@ -21,3 +21,6 @@ IV.-Le recours contentieux est formé dans un délai de sept jours à compter de
 2° La décision implicite de rejet mentionnée au dernier alinéa du III du présent article.
 
 Le recours contentieux est examiné dans les conditions prévues aux deux derniers alinéas du I de l'article L. 20.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

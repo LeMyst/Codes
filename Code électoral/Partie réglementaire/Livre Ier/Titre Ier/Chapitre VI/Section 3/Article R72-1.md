@@ -19,3 +19,6 @@ IV.-Les officiers et agents de police judiciaire mentionnés aux 2° et 3° du I
 V.-Un officier de police judiciaire peut désigner des délégués, avec l'agrément du magistrat qui l'a désigné.
 
 Le délégué d'un officier de police judiciaire recueille la demande de procuration présentée par l'électeur dans les conditions prévues aux 2° du I, II, III et IV, au moyen d'un formulaire administratif ou de la télé-procédure, vérifie l'identité de l'électeur et transmet la demande à l'officier de police judiciaire qui l'a désigné afin que celui-ci établisse la procuration après avoir procédé aux vérifications qui lui incombent.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

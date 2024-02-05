@@ -25,3 +25,6 @@ Ne peuvent être élus conseillers municipaux dans les communes situées dans le
 Les agents salariés communaux ne peuvent être élus au conseil municipal de la commune qui les emploie. Ne sont pas compris dans cette catégorie ceux qui, étant fonctionnaires publics ou exerçant une profession indépendante, ne reçoivent une indemnité de la commune qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession, ainsi que, dans les communes comptant moins de 1 000 habitants, ceux qui ne sont agents salariés de la commune qu'au titre d'une activité saisonnière ou occasionnelle.
 
 Les délais mentionnés aux deuxième à onzième alinéas du présent article ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
+
+NOTA:
+Conformément au IV de l'article 33 de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur le 1er janvier 2020 ou lors du prochain renouvellement général des conseils municipaux s'il intervient avant cette date.

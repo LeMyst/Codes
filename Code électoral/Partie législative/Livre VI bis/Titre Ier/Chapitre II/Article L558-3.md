@@ -4,8 +4,7 @@ La Guyane forme une circonscription électorale unique, composée de huit sectio
 
 |  |  |
 | --- | --- |
-| SECTION | COMPOSITION
-de la section |
+| SECTION | COMPOSITIONde la section |
 | Section de Cayenne | Commune de Cayenne |
 | Section de la petite Couronne | Communes de Rémire-Montjoly et Matoury |
 | Section de la grande Couronne | Communes de Macouria, Roura et Montsinéry |

@@ -5,3 +5,6 @@ Dans chaque circonscription, les résultats du recensement général des votes e
 La commission rend publics les résultats du scrutin.
 
 Le procès-verbal établi par la commission est remis au préfet.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2015-1169 du 22 septembre 2015, le II de l'article 1er du présent décret entre en vigueur à l'occasion du prochain renouvellement général des conseillers métropolitains de Lyon.

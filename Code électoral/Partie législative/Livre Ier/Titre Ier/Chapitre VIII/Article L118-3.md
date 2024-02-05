@@ -13,3 +13,6 @@ L'inéligibilité mentionnée au présent article est prononcée pour une durée
 En cas de scrutin binominal, l'inéligibilité s'applique aux deux candidats du binôme.
 
 Si le juge de l'élection a prononcé l'inéligibilité d'un candidat ou des membres d'un binôme proclamé élu, il annule son élection ou, si l'élection n'a pas été contestée, déclare le candidat ou les membres du binôme démissionnaires d'office.
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

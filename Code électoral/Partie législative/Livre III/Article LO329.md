@@ -11,3 +11,6 @@ En outre, ne peuvent être élus dans toute circonscription incluant le ressort 
 3° Les fonctionnaires consulaires honoraires, au sens de la convention de Vienne sur les relations consulaires du 24 avril 1963 ;
 
 4° Les officiers exerçant un commandement dans la circonscription.
+
+NOTA:
+Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement général de l'Assemblée nationale suivant sa promulgation.

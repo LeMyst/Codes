@@ -25,3 +25,6 @@ L'Institut national de la statistique et des études économiques transmet les i
 IV.-Les informations nécessaires à la tenue et à la mise à jour du répertoire électoral unique sont transmises par voie électronique.
 
 Les règles relatives au traitement de ces informations sont fixées dans les conditions définies par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les conditions d'application du présent article.
+
+NOTA:
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.

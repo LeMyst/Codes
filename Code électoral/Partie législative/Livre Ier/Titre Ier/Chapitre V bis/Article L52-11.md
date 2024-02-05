@@ -6,8 +6,7 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 
 |  |  |
 | --- | --- |
-| Fraction de la population de la circonscription :  | Plafond par habitant des dépenses électorales (en euros) :
-|
+| Fraction de la population de la circonscription :  | Plafond par habitant des dépenses électorales (en euros) :  |
 | Election des conseillers municipaux :  | Election des conseillers départementaux  | Election des conseillers régionaux  |
 | Listes présentes au premier tour  | Listes présentes au second tour  |
 | N'excédant pas 15 000 habitants :  | 1,22  | 1,68  | 0,64  | 0,53  |

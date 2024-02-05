@@ -2,10 +2,7 @@
 
 |  |  |  |
 | --- | --- | --- |
-|
-DESIGNATION DES SECTEURS |
-ARRONDISSEMENT  constituant les secteurs |
-NOMBRE DE SIEGES |
+| DESIGNATION DES SECTEURS | ARRONDISSEMENT  constituant les secteurs | NOMBRE DE SIEGES |
 | 1er secteur | 1er, 7e | 11 |
 | 2e secteur | 2e, 3e | 8 |
 | 3e secteur | 4e, 5e | 11 |
@@ -14,5 +11,4 @@ NOMBRE DE SIEGES |
 | 6e secteur | 11e, 12e | 13 |
 | 7e secteur | 13e, 14e | 16 |
 | 8e secteur | 15e, 16e | 12 |
-| Total |\
-| 101 |
+| Total |  | 101 |

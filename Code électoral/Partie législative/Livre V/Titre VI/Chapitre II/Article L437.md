@@ -5,3 +5,6 @@ Pour l'élection des conseillers municipaux en Polynésie française, les dispos
 Pour son application en Polynésie française, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :
 
 " 8° Directeurs du cabinet du président et des membres du gouvernement et du président de l'assemblée de la Polynésie française, secrétaire général et secrétaire général adjoint du gouvernement, directeurs généraux, inspecteurs généraux, directeurs, inspecteurs et chefs de service de la Polynésie française. "
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

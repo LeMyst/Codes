@@ -49,3 +49,6 @@ VII.-La commission est composée conformément au IV dans les communes de 1 000 
 1° Dans lesquelles une seule liste a obtenu des sièges au conseil municipal lors de son dernier renouvellement ;
 
 2° Ou dans lesquelles il est impossible de constituer une commission complète selon les règles prévues aux V et VI.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

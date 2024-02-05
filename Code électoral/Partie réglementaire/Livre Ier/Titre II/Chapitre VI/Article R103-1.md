@@ -15,3 +15,6 @@ Le rattachement vaut pour les deux tours de scrutin.
 III.-Après vérification et dénombrement des déclarations de rattachement indiquées par les candidats, la liste des partis ou groupements politiques pouvant bénéficier des émissions est arrêtée par le ministre de l'intérieur qui la transmet sans délai à l'Assemblée nationale et à l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 La liste des partis ou groupements politiques habilités à participer à la campagne audiovisuelle est publiée au Journal officiel de la République française au plus tard le troisième mardi qui précède le premier tour de scrutin.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

@@ -9,3 +9,6 @@ Le maire tient à disposition de tout électeur un registre des procurations ext
 -la durée de validité de la procuration.
 
 Le défaut de réception par le maire d'une procuration fait obstacle à ce que le mandataire participe au scrutin.
+
+NOTA:
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

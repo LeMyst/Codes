@@ -21,3 +21,6 @@ Pour l'application du deuxième alinéa :
 - en Guyane et en Martinique, il y a lieu de lire respectivement : “membre de l'assemblée de Guyane” et “membre de l'assemblée de Martinique” au lieu de : “conseiller départemental” ;
 
 - dans la Collectivité européenne d'Alsace, il y a lieu de lire : “ un conseiller d'Alsace élu dans un canton dont le bureau centralisateur est situé dans le département de l'élection des députés ” au lieu de “ un conseiller départemental ”.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2020-1616 du 17 décembre 2020, ces dispositions entrent en vigueur le lendemain de la publication du présent décret. Elles prennent effet pour chaque commission à l'expiration des mandats en cours à cette date.

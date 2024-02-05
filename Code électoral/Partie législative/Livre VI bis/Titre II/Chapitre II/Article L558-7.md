@@ -4,19 +4,8 @@ La Martinique forme une circonscription électorale unique, composée de quatre 
 
 |  |  |  |
 | --- | --- | --- |
-|  SECTION  |  COMPOSITION
-de la section  |  NOMBRE
-de candidats
-de la section  |
-|
-Section du Centre
-| 1re circonscription  | 17  |
-|
-Section du Nord
-| 2e circonscription  | 16  |
-|
-Section de Fort-de-France
-| 3e circonscription  | 15  |
-|
-Section du Sud
-| 4e circonscription  | 16  |
+|  SECTION  |  COMPOSITION de la section  |  NOMBRE de candidats de la section  |
+| Section du Centre  | 1re circonscription  | 17  |
+| Section du Nord  | 2e circonscription  | 16  |
+| Section de Fort-de-France  | 3e circonscription  | 15  |
+| Section du Sud  | 4e circonscription  | 16  |

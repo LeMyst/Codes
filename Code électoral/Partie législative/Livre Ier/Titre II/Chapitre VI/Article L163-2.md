@@ -7,3 +7,6 @@ II.-Le juge des référés se prononce dans un délai de quarante-huit heures à
 En cas d'appel, la cour se prononce dans un délai de quarante-huit heures à compter de la saisine.
 
 III.-Les actions fondées sur le présent article sont exclusivement portées devant un tribunal judiciaire et une cour d'appel déterminés par décret.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

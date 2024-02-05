@@ -11,3 +11,6 @@ Si, après la répartition des sièges prévue au premier alinéa, un départeme
 Le ou les sièges ainsi réattribués correspondent au dernier siège ou aux derniers sièges attribués à la liste arrivée en tête au niveau régional et répartis entre les sections départementales en application du premier alinéa, sous réserve du cas où les départements prélevés seraient attributaires d'un seul ou de deux sièges si le département compte une population de moins de 100 000 habitants, ou de moins de cinq sièges si le département compte au moins 100 000 habitants.
 
 Lorsque la région est composée d'un seul département, les sièges sont attribués dans le ressort de la circonscription régionale selon les règles prévues aux deux premiers alinéas.
+
+NOTA:
+Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu dans le cadre des régions définies à l'article 1er.

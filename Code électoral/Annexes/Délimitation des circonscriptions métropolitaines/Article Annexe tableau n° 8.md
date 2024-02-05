@@ -1,17 +1,13 @@
 # Article Annexe tableau n° 8
 
-| DÉNOMINATION des circonscriptions
-métropolitaines
-| DÉLIMITATION DES CIRCONSCRIPTIONS MÉTROPOLITAINES  | NOMBRE DE SIÈGES à pourvoir
-|
+| DÉNOMINATION des circonscriptions métropolitaines  | DÉLIMITATION DES CIRCONSCRIPTIONS MÉTROPOLITAINES  | NOMBRE DE SIÈGES à pourvoir  |
 | --- | --- | --- |
 | Lones et Coteaux  | Charly, Givors, Grigny, Irigny, La Mulatière, Oullins, Pierre-Bénite, Saint-Genis-Laval, Vernaison  | 12  |
 | Lyon-Ouest  | 5e et 9e arrondissements de Lyon  | 11  |
 | Lyon-Sud  | 7e arrondissement de Lyon  | 8  |
 | Lyon-Centre  | 1er, 2e et 4e arrondissements de Lyon  | 11  |
 | Lyon-Est  | 3e arrondissement de Lyon : partie à l'est de la ligne de chemin de fer Paris-Lyon  | 7  |
-| Lyon-Nord  | 6e arrondissement de Lyon 3e arrondissement de Lyon : partie à l'ouest de la ligne de chemin de fer Paris-Lyon
-| 9  |
+| Lyon-Nord  | 6e arrondissement de Lyon 3e arrondissement de Lyon : partie à l'ouest de la ligne de chemin de fer Paris-Lyon  | 9  |
 | Lyon-Sud-Est  | 8e arrondissement de Lyon  | 9  |
 | Ouest  | Charbonnières-les-Bains, Craponne, Francheville, Marcy-l'Etoile, Saint-Genis-les-Ollières, Sainte-Foy-lès-Lyon, Tassin-la-Demi-Lune  | 9  |
 | Plateau Nord-Caluire  | Caluire-et-Cuire, Rillieux-la-Pape, Sathonay-Camp  | 8  |

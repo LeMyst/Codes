@@ -15,3 +15,6 @@ Pour l'application du premier alinéa :
 - dans la Collectivité européenne d'Alsace, il y a lieu de lire : “ un conseiller d'Alsace élu dans un canton dont le bureau centralisateur est situé dans le département de l'élection des sénateurs ” au lieu de “ un conseiller départemental ”.
 
 Pour l'application du premier alinéa dans le département du Rhône, il y a lieu de lire : “ du conseiller départemental et du conseiller métropolitain de Lyon ” au lieu de : “ des deux conseillers départementaux ”.
+
+NOTA:
+Conformément à l'article 11 du décret n° 2020-1616 du 17 décembre 2020, ces dispositions entrent en vigueur le lendemain de la publication du présent décret. Elles prennent effet pour chaque commission à l'expiration des mandats en cours à cette date.

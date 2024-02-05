@@ -9,3 +9,6 @@ A partir de la veille du scrutin à zéro heure, il est interdit de :
 3° Procéder, par un système automatisé ou non, à l'appel téléphonique en série des électeurs afin de les inciter à voter pour un candidat ;
 
 4° Tenir une réunion électorale.
+
+NOTA:
+Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.

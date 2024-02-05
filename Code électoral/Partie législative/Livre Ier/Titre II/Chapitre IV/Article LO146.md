@@ -19,3 +19,6 @@ Sont incompatibles avec le mandat parlementaire les fonctions de chef d'entrepri
 8° Les sociétés, entreprises ou organismes dont l'activité consiste principalement à fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7°.
 
 Les dispositions du présent article sont applicables à toute personne qui, directement ou par personne interposée, exerce en fait la direction de l'un des établissements, sociétés ou entreprises ci-dessus visés.
+
+NOTA:
+Conformément au II de l'article 20 de la loi organique n° 2017-1338 du 15 septembre 2017, l'interdiction mentionnée au 8° du présent article s'applique à tout député ou sénateur à compter du 2 octobre 2017.

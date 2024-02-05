@@ -13,3 +13,6 @@ Le consommateur a droit à une réduction du prix du bien ou à la résolution d
 Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable.
 
 Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur, ce qu'il incombe au vendeur de démontrer. Le présent alinéa n'est pas applicable aux contrats dans lesquels le consommateur ne procède pas au paiement d'un prix.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

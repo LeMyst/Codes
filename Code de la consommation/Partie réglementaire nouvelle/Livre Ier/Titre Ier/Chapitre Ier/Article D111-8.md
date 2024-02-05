@@ -33,3 +33,6 @@ b) pour chaque offre :
 -les dispositions du code civil relatives au droit des obligations et de la responsabilité civile applicables à la relation contractuelle, par l'affichage d'un lien hypertexte.
 
 S'agissant des obligations des parties en matière fiscale, il est fait application de l'article 171 AX du code général des impôts.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

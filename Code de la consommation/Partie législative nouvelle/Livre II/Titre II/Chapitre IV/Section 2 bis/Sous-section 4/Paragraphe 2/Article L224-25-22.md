@@ -23,3 +23,6 @@ Ces deux dernières obligations ne sont pas applicables lorsque ce contenu n'est
 Le professionnel peut empêcher toute utilisation ultérieure du contenu numérique ou du service numérique en rendant ce contenu ou service inaccessible au consommateur ou en désactivant le compte utilisateur du consommateur, sans préjudice, néanmoins, des droits du consommateur à la récupération du contenu conformément au présent article, ou à la consultation de ses factures.
 
 S'agissant des données à caractère personnel, le professionnel respecte les obligations lui incombant en vertu du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ainsi que de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

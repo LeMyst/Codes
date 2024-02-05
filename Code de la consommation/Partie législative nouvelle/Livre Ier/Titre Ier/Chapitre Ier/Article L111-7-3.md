@@ -7,3 +7,6 @@ L'audit mentionné au premier alinéa est effectué par des prestataires d'audit
 Un arrêté conjoint des ministres chargés du numérique et de la consommation, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les critères qui sont pris en compte par l'audit prévu au même premier alinéa et ses conditions en matière de durée de validité ainsi que les modalités de sa présentation.
 
 Le résultat de l'audit est présenté au consommateur de façon lisible, claire et compréhensible et est accompagné d'une présentation ou d'une expression complémentaire, au moyen d'un système d'information coloriel.
+
+NOTA:
+Conformément à l'article 2 de la loi n° 2022-309 du 3 mars 2022, ces dispositions entrent en vigueur le 1er octobre 2023.

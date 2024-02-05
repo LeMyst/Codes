@@ -9,3 +9,6 @@ Lorsque le contrat de vente d'un bien comportant des éléments numériques pré
 1° Durant un délai de deux ans à compter de la délivrance du bien, lorsque le contrat prévoit cette fourniture pendant une durée inférieure ou égale à deux ans ou lorsque le contrat ne détermine pas la durée de fourniture ;
 
 2° Durant la période durant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat, lorsque celui-ci prévoit cette fourniture pendant une durée supérieure à deux ans.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

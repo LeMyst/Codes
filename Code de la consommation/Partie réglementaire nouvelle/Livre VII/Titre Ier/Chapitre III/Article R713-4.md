@@ -9,3 +9,6 @@ Une copie du recours ou de la contestation formé est jointe aux convocations ou
 L' article 762 du code de procédure civile est applicable.
 
 Lorsque les parties sont convoquées, la procédure est orale. En cours d'instance, toute partie peut aussi exposer ses moyens par lettre adressée au juge à condition de justifier que l'adversaire en a eu connaissance avant l'audience par lettre recommandée avec demande d'avis de réception. La partie qui use de cette faculté peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1 du code de procédure civile.
+
+NOTA:
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.

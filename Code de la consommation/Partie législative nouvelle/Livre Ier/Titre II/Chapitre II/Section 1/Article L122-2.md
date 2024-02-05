@@ -9,3 +9,6 @@ La publicité comparative ne peut :
 3° Engendrer de confusion entre l'annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes distinctifs, biens ou services de l'annonceur et ceux d'un concurrent ;
 
 4° Présenter des biens ou des services comme une imitation ou une reproduction d'un bien ou d'un service bénéficiant d'une marque ou d'un nom commercial protégé.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

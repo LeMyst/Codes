@@ -5,3 +5,6 @@ Si l'examen de la demande de traitement de la situation de surendettement fait a
 L'absence de réponse du débiteur aux convocations vaut refus de cette saisine.
 
 En cas de refus du débiteur, la commission reprend sa mission dans les termes des dispositions des articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

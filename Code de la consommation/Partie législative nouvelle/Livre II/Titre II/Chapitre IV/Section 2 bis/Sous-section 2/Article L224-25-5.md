@@ -35,3 +35,6 @@ d) Les frais éventuels en cas de résiliation anticipée du contrat ;
 Ces informations sont communiquées d'une manière claire et compréhensible, sur un support durable ou, lorsqu'il n'est pas possible de communiquer ces informations sur un support durable, dans un document facilement téléchargeable mis à disposition par le professionnel. Le professionnel attire expressément l'attention du consommateur sur la disponibilité de ce document et sur le fait qu'il est important de le télécharger à des fins de documentation, de référence future et de reproduction à l'identique.
 
 Ces informations sont fournies, sur demande, dans un format accessible aux personnes handicapées.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

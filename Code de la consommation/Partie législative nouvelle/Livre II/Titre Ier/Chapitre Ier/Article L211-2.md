@@ -9,3 +9,6 @@ I.-Les conditions générales applicables aux contrats de consommation mentionne
 3° Le cas échéant, l'existence d'une garantie commerciale et d'un service après-vente.
 
 II.-Pour certaines catégories de biens fixées par décret, le document de facturation remis au consommateur mentionne l'existence et la durée de la garantie légale de conformité.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

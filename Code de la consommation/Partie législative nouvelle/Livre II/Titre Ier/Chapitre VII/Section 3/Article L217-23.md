@@ -5,3 +5,6 @@ Le producteur peut consentir au consommateur une garantie commerciale l'engagean
 Le producteur peut offrir au consommateur des conditions plus favorables que celles décrites au premier alinéa.
 
 Les exigences prévues à l'article L. 217-22 sont applicables à la garantie commerciale de durabilité.
+
+NOTA:
+Conformément au II de l'article 2 de la loi n° 2021-1755 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

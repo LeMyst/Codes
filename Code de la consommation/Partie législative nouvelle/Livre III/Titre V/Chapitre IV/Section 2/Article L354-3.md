@@ -4,7 +4,7 @@ Sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les î
 
 | ARTICLES APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-L. 341-48 à L. 341-51 et L. 341-52
-| Résultant de l'ordonnance n° 2016-351 du 25 mars 2016
-|
+|  L. 341-48 à L. 341-51 et L. 341-52  | Résultant de l'ordonnance n° 2016-351 du 25 mars 2016  |
+
+NOTA:
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.

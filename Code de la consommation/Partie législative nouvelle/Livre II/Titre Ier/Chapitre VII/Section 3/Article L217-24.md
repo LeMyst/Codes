@@ -17,3 +17,6 @@ II.-La validité de la prise de position mentionnée au I prend fin à compter d
 3° L'autorité administrative notifie au professionnel, après l'avoir préalablement informé, la modification de son appréciation.
 
 III.-Un décret en Conseil d'Etat précise les secteurs économiques mentionnés au I, dans lesquels se posent des difficultés particulières en matière de garantie commerciale appréciées en fonction de l'importance des manquements et des plaintes qui y sont constatés, de l'importance du surcoût supporté par les consommateurs lié à la garantie commerciale ou de la nature et de la récurrence des difficultés d'interprétation qu'y font naître les règles relatives aux garanties commerciales.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

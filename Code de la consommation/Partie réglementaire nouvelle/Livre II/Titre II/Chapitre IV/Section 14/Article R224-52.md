@@ -153,3 +153,6 @@ f) Ceintures de maintien ;
 g) Harnais ;
 
 h) Dispositifs anti-basculement.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1683 du 16 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

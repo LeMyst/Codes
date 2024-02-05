@@ -13,3 +13,6 @@ Lorsque les mesures du plan conventionnel ou celles imposées ou recommandées p
 Lorsque, pour une même personne, sont prescrits successivement un plan conventionnel et des mesures imposées ou recommandées par ces commissions, l'inscription est maintenue pendant la durée globale d'exécution du plan et des mesures sans pouvoir excéder cinq ans.
 
 Pour les personnes ayant bénéficié de la procédure de rétablissement personnel prévues par la législation en vigueur localement, les informations relatives aux mentions correspondantes sont radiées à l'expiration d'une période de cinq ans à compter de la date d'homologation ou de clôture de la procédure, telle que prévue par la loi de pays en vigueur en Polynésie française ou par les dispositions spécifiques applicables en Nouvelle-Calédonie et réglementant le surendettement des particuliers.
+
+NOTA:
+Conformément à l'article 9 de l'ordonnance n° 2021-1200 du 15 septembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard au 1er mars 2022. Cette date a été fixée au 26 février 2022 conformément au 1° de l'article 1 du décret n° 2022-231 du 24 février 2022.

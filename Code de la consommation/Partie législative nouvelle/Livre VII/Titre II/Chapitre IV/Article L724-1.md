@@ -7,3 +7,6 @@ Lorsque le débiteur se trouve dans une situation irrémédiablement compromise 
 1° Soit imposer un rétablissement personnel sans liquidation judiciaire si elle constate que le débiteur ne possède que des biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité professionnelle, ou que l'actif n'est constitué que de biens dépourvus de valeur marchande ou dont les frais de vente seraient manifestement disproportionnés au regard de leur valeur vénale ;
 
 2° Soit saisir, si elle constate que le débiteur n'est pas dans la situation mentionnée au 1°, avec l'accord du débiteur, le juge des contentieux de la protection aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

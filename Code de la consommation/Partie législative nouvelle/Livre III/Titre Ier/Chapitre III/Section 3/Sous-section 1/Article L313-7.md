@@ -7,3 +7,6 @@ Un décret en Conseil d'Etat fixe la liste et le contenu des informations devant
 Toutes les informations complémentaires que le prêteur souhaite donner à l'emprunteur sont fournies dans un document distinct de la fiche mentionnée au présent article.
 
 L'ensemble des informations fourni en application du présent article l'est gratuitement.
+
+NOTA:
+(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article 13 III : L'article L. 313-7, dans sa rédaction issue de la présente ordonnance, entre en vigueur le 1er octobre 2016, à l'exception de la mention, au sein de la fiche d'information standardisée européenne mentionnée à l'article L. 313-7, de la rémunération de l'intermédiaire de crédit, applicable à compter du 1er janvier 2017 au plus tard, selon les modalités précisées par décret en Conseil d'Etat.

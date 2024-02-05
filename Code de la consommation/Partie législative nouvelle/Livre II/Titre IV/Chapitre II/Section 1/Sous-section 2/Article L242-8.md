@@ -4,3 +4,6 @@ Les personnes physiques déclarées coupables des délits punis aux articles L. 
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.\
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, des délits punis aux articles L. 242-5 à L. 242-7-1 encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même code.\
 L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues aux 2° à 7° de cet article ne peuvent être prononcées que pour une durée de cinq ans au plus.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

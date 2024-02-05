@@ -15,3 +15,6 @@ II.-Le consommateur peut toutefois immédiatement résoudre le contrat :
 2° Lorsque le professionnel n'exécute pas son obligation de délivrance du bien ou de fourniture du service à la date ou à l'expiration du délai prévu à l'article L. 216-1 et que cette date ou ce délai constitue pour le consommateur une condition essentielle du contrat. Cette condition essentielle résulte des circonstances qui entourent la conclusion du contrat ou d'une demande expresse du consommateur avant la conclusion du contrat.
 
 Les dispositions du présent article sont sans préjudice de l'allocation de dommages et intérêts.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

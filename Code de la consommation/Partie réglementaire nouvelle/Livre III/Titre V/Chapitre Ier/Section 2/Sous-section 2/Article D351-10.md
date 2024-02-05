@@ -4,7 +4,4 @@ Sont applicables dans les îles Wallis et Futuna, les dispositions des articles 
 
 | ARTICLES APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-D. 314-15 à D. 314-17
-| Résultant du décret n° 2016-884 du 29 juin 2016
-|
+|  D. 314-15 à D. 314-17  | Résultant du décret n° 2016-884 du 29 juin 2016  |

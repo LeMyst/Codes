@@ -17,3 +17,6 @@ c) En tout état de cause, au moins tous les cinq ans.
 IV. - Lorsque les opérateurs économiques invoquent le 1° ou le 2° du II de l'article L. 412-13, ils en informent les autorités de contrôle et de surveillance du marché de l'Etat membre dans lequel le produit spécifique est mis sur le marché ou dans lequel le service spécifique est fourni.
 
 Les entreprises employant moins de dix personnes et dont le chiffre d'affaires annuel n'excède pas deux millions d'euros ou dont le total du bilan n'excède pas deux millions d'euros sont exonérées de cette obligation.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-931 du 9 octobre 2023, ces dispositions sont applicables aux produits mis sur le marché et aux services fournis après le 28 juin 2025, selon les modalités prévues aux B à E du VIII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture.

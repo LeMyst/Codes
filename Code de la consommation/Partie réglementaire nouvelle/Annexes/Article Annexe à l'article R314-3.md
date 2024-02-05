@@ -169,3 +169,6 @@ ii) en cas de contrat de crédit renouvelable, à la fin de la période initiale
 i) les paiements effectués par les consommateurs sont réputés intervenir à la (ou aux) dernière (s) date (s) autorisée (s) en vertu du contrat de crédit ;
 
 ii) le pourcentage d'accroissement de la valeur du bien immobilier qui garantit le contrat de crédit en fonds partagés, ainsi que le taux de tout indice d'inflation visé dans le contrat, sont supposés égaux à la valeur la plus élevée entre le taux d'inflation cible de la banque centrale en vigueur et le niveau d'inflation dans l'Etat membre où le bien immobilier est situé au moment de la conclusion du contrat de crédit ou à 0 % si ces pourcentages sont négatifs.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2021-1700 du 17 décembre 2021, ces dispositions s’appliquent aux prêts avance mutation et aux prêts viager hypothécaire pour lesquels l'offre de prêt est émise à compter de la date d'entrée en vigueur dudit décret.

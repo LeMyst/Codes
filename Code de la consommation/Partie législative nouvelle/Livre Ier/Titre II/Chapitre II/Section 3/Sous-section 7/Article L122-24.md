@@ -7,3 +7,6 @@ L'avis de l'organisation interprofessionnelle est réputé favorable en l'absenc
 La publicité est réputée autorisée en l'absence de réponse de l'administration dans un délai fixé par le même décret.
 
 Une opération de dégagement est une opération promotionnelle visant à écouler une surproduction de produits alimentaires.
+
+NOTA:
+Conformément au VI de l’article 16 de la loi n° 2021-1357 du 18 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

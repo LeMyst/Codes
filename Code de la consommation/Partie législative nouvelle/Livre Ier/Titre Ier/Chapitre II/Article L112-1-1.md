@@ -9,3 +9,6 @@ Par exception au deuxième alinéa, en cas de réductions de prix successives pe
 Le présent I ne s'applique pas aux annonces de réduction de prix portant sur des produits périssables menacés d'une altération rapide.
 
 II.-Les présentes dispositions ne s'appliquent pas aux opérations par lesquelles un professionnel compare les prix qu'il affiche avec ceux d'autres professionnels.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

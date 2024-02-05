@@ -15,3 +15,6 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 6° La section 1 du chapitre Ier du titre II du présent livre.
 
 Ils disposent à cet effet des pouvoirs définis à la section 1 et aux sous-sections 1 à 5 de la section 2 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II.
+
+NOTA:
+Conformément au IV de l'article 30 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

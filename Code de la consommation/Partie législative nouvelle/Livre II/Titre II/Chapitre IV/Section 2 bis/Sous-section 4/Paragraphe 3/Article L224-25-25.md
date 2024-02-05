@@ -11,3 +11,6 @@ II.-Lorsque le consommateur n'installe pas, dans un délai raisonnable, les mise
 1° Le professionnel ait informé le consommateur de la disponibilité des mises à jour et des conséquences de leur non-installation par le consommateur ; et
 
 2° La non-installation ou l'installation incorrecte par le consommateur des mises à jour ne soit pas due à des lacunes dans les instructions d'installation fournies au consommateur.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

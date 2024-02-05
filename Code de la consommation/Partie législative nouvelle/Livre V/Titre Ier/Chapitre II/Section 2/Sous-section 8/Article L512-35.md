@@ -4,3 +4,6 @@ La consignation est effectuée sur autorisation du juge des libertés et de la d
 Ce magistrat est saisi sur requête par les agents habilités. Il statue dans les vingt-quatre heures.\
 Le juge des libertés et de la détention vérifie que la demande de consignation qui lui est soumise est fondée. Cette demande comporte tous les éléments d'information de nature à justifier la mesure.\
 La mesure de consignation ne peut excéder quinze jours. En cas de difficultés particulières liées à l'examen des marchandises, le juge des libertés et de la détention peut renouveler la mesure pour une même durée par une ordonnance motivée.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

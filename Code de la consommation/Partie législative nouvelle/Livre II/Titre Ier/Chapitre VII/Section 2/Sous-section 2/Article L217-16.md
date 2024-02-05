@@ -7,3 +7,6 @@ Si le défaut de conformité ne porte que sur certains biens délivrés en vertu
 Pour les contrats mentionnés au II de l'article L. 217-1, prévoyant la vente de biens et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, le consommateur a droit à la résolution de l'ensemble du contrat. En outre, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, le consommateur a le droit à la résolution de l'ensemble des contrats y afférents.
 
 Les obligations respectives des parties au contrat, mentionnées à l'article L. 224-25-22 et relatives aux conséquences de la résolution pour les contenus numériques et les services numériques, sont applicables à la résolution du contrat de vente d'un bien comportant des éléments numériques.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

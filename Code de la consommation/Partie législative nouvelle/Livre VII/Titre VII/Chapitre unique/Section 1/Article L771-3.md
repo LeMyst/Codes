@@ -19,3 +19,6 @@ d) Le dernier alinéa de l'article L. 742-25 ;
 4° Les références aux organismes de sécurité sociale ne sont pas applicables ;
 
 5° Les références au code de l'action sociale et des familles, au code du travail sont remplacées par les références aux dispositions applicables localement ayant le même objet.
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

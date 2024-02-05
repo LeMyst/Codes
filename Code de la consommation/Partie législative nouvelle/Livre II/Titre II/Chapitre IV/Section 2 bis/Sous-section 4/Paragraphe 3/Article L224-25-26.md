@@ -15,3 +15,6 @@ Dans ce cas, la résolution du contrat est de droit et sans frais pour le consom
 Lorsque le consommateur exerce son droit à la résolution du contrat, les articles L. 224-25-22 et L. 224-25-23 s'appliquent.
 
 Le présent article n'est pas applicable en cas d'offre groupée au sens de l'article L. 224-42-2.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

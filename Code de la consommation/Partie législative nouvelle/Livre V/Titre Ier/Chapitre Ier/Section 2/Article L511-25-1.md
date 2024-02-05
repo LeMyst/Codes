@@ -13,3 +13,6 @@ a) Les agents de l'Autorité de contrôle prudentiel et de résolution et de l'A
 b) Les agents de la Banque de France, qui s'assurent que les méthodes d'identification, les signatures électroniques et les services de sécurité et de paiement sont perceptibles, utilisables, compréhensibles et robustes.
 
 Les agents prévus aux 1° à 3° du présent article disposent à cet effet des pouvoirs définis à la section 1 et aux sous-sections 1 à 5 de la section 2 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à l'article L. 521-1 ainsi qu'à la sous-section 2 de la section 2 du chapitre Ier du titre II du présent livre.
+
+NOTA:
+Conformément au A du VIII de l’article 16 de la loi n° 2023-171 du 9 mars 2023, ces dispositions sont applicables aux produits mis sur le marché et aux services fournis après le 28 juin 2025. Se reporter aux B à E du même VIII.

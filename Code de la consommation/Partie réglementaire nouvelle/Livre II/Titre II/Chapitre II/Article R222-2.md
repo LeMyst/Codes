@@ -8,3 +8,6 @@ Sous réserve de l'accord formel du consommateur, seules les informations ci-apr
 4° L'indication de l'existence éventuelle d'autres taxes ou frais qui ne sont pas acquittés par l'intermédiaire du fournisseur ou facturés par lui ;\
 5° L'existence ou l'absence du droit de rétractation mentionné à l'article L. 222-7 et, si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer en application de l'article L. 222-13.\
 Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres informations peuvent être fournies sur demande et, d'autre part, la nature de ces informations.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions du 2° de l'article R. 222-2 du code de la consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.

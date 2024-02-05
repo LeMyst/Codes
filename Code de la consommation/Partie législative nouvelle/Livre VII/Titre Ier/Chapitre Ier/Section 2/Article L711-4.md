@@ -13,3 +13,6 @@ Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonneme
 L'origine frauduleuse de la dette est établie soit par une décision de justice, soit par une sanction prononcée par un organisme de sécurité sociale dans les conditions prévues aux articles L. 114-17, L. 114-17-1 et L. 114-17-2 du code de la sécurité sociale.
 
 Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de toute remise et de tout rééchelonnement ou effacement.
+
+NOTA:
+Se reporter aux conditions d'application prévues au D du V de l'article 130 de la loi n° 2021-1900 du 30 décembre 2021.

@@ -13,3 +13,6 @@ Les dispositions du présent chapitre s'appliquent également aux biens comporta
 II.-Lorsqu'un contrat rassemble la vente de biens relevant du présent chapitre et d'autres biens non couverts par le présent chapitre, ce dernier ne s'applique qu'aux biens couverts par le présent chapitre. En outre, lorsqu'un contrat a pour objet principal la vente de biens couverts par le présent chapitre et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, ce dernier ne s'applique qu'aux biens. Par ailleurs, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, les dispositions du présent chapitre ne s'appliquent qu'aux biens.
 
 Les conditions de résolution de ces contrats sont toutefois régies par l'article L. 217-16.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

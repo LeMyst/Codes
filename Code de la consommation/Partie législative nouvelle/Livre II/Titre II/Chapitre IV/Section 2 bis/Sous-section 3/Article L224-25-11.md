@@ -17,3 +17,6 @@ Le consommateur peut immédiatement résoudre le contrat :
 Lorsque le consommateur exerce son droit à la résolution du contrat, les articles L. 224-25-22 et L. 224-25-23 s'appliquent.
 
 Les dispositions du présent article sont sans préjudice de l'allocation de dommages et intérêts.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

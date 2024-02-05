@@ -19,3 +19,6 @@ II.-Les dispositions de la présente section ne sont pas applicables aux contrat
 7° Les services financiers, compris comme tout service ayant trait à la banque, au crédit, à l'assurance, aux retraites individuelles, aux investissements et aux paiements, ainsi que les services sur actifs numériques mentionnés aux articles L. 54-10-1 et suivants du code monétaire et financier ;
 
 8° Les logiciels sous licence libre et ouverte, lorsque le consommateur ne s'acquitte pas d'un prix et que les données à caractère personnel fournies par celui-ci sont exclusivement traitées par le professionnel pour améliorer la sécurité, la compatibilité ou l'interopérabilité de ces logiciels spécifiques.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

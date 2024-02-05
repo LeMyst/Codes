@@ -23,3 +23,6 @@ II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques ment
 3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.
 
 III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

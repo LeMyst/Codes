@@ -15,3 +15,6 @@ b) Le site internet mis en place pour informer les consommateurs d'énergie sur 
 c) Le site internet mentionné au 17° de l'article L. 224-3 du présent code.
 
 Lors de la souscription du contrat de fourniture puis une fois par an au moins, le fournisseur informe le consommateur, sur un support durable, qu'il peut accéder à ses données de consommation dans l'espace sécurisé mentionné à l'article D. 224-26 et sur un espace sécurisé mis à sa disposition par le gestionnaire de réseau de distribution.
+
+NOTA:
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur le 1er juillet 2018 pour les fournisseurs ayant moins de 150 000 clients le 1er juillet 2018.

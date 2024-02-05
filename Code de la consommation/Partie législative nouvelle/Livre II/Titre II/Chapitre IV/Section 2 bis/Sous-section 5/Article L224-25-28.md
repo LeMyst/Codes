@@ -5,3 +5,6 @@ Lorsque le consommateur demande au professionnel, pendant le cours de la garanti
 Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition du contenu numérique ou du service numérique en cause, si ce point de départ s'avère plus favorable au consommateur.
 
 Le délai de garantie est également suspendu lorsque le consommateur et le professionnel entrent en négociation en vue d'un règlement à l'amiable.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

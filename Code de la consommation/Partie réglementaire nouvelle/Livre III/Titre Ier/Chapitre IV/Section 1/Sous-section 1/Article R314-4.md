@@ -6,3 +6,6 @@ Sont compris dans le taux annuel effectif global du prêt, lorsqu'ils sont néce
 3° Les coûts d'assurance et de garanties obligatoires ;\
 4° Les frais d'ouverture et de tenue d'un compte donné, d'utilisation d'un moyen de paiement permettant d'effectuer à la fois des opérations et des prélèvements à partir de ce compte ainsi que les autres frais liés aux opérations de paiement ;\
 5° Le coût de l'évaluation du bien immobilier, hors frais d'enregistrement liés au transfert de propriété du bien immobilier.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.

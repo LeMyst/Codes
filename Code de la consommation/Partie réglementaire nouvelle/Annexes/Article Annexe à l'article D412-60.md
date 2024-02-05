@@ -33,3 +33,6 @@ b) Coûts supportés dans le cadre des procédés de fabrication ;
 c) Coûts liés aux essais d'accessibilité concernant le produit ou le service ;
 
 d) Coûts liés à l'établissement de la documentation.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-931 du 9 octobre 2023, ces dispositions sont applicables aux produits mis sur le marché et aux services fournis après le 28 juin 2025, selon les modalités prévues aux B à E du VIII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture.

@@ -9,3 +9,6 @@ L'autorité administrative chargée de la concurrence et de la consommation, agi
 Ce montant peut être porté, de manière proportionnée aux avantages tirés des pratiques en cause, à 4 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date de la décision. A défaut d'information disponible pour calculer l'amende sur le fondement du chiffre d'affaires, son montant peut être porté à deux millions d'euros.
 
 La juridiction peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de celle-ci selon les modalités qu'elle précise. Elle peut ordonner l'insertion de la décision ou de l'extrait de celle-ci dans le rapport établi sur les opérations de l'exercice par les gérants, le conseil d'administration ou le directoire de l'entreprise. Les frais sont supportés par la personne condamnée.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

@@ -23,3 +23,6 @@ Le prêteur fournit à, par tout moyen, mensuellement et dans un délai raisonna
 10° L'estimation du nombre de mensualités restant dues pour parvenir au remboursement intégral du montant effectivement emprunté, établie en fonction des conditions de remboursement convenues.
 
 Ces informations figurent obligatoirement, en caractères lisibles, sur la première page du document adressé à l'emprunteur.
+
+NOTA:
+Au lieu de " Le prêteur fournit à ", lire " Le prêteur fournit à l’emprunteur ".

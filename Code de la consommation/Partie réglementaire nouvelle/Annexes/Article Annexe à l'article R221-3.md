@@ -61,3 +61,6 @@ Si, dans le cas d'un contrat hors établissement, le bien, en raison de sa natur
 c) Insérez : " Votre responsabilité n'est engagée qu'à l'égard de la dépréciation du bien résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien. "
 
 (6) Dans le cas d'un contrat de prestation de services ou de fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant : " Si vous avez demandé de commencer la prestation de services ou la fourniture d'eau/de gaz/d'électricité/de chauffage urbain \[supprimer les mentions inutiles\] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. "
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.

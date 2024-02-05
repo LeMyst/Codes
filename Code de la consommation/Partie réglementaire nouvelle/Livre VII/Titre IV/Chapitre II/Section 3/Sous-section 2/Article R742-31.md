@@ -5,3 +5,6 @@ Le juge qui fixe ou modifie la mise à prix précise qu'à défaut d'enchères l
 Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.\
 A la requête du liquidateur, le jugement est mentionné en marge de la copie du commandement publié au service chargé de la publicité foncière ou de l'ordonnance d'exécution forcée inscrite au Livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.\
 Le créancier qui avait engagé la procédure de saisie immobilière remet contre récépissé au liquidateur, sur sa demande, les pièces de la poursuite. Ses frais de procédure lui sont restitués dans la distribution.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

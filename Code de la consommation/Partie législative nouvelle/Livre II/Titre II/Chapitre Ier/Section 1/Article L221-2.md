@@ -27,3 +27,6 @@ Sont exclus du champ d'application du présent chapitre :
 12° Les contrats portant sur la création, l'acquisition ou le transfert de biens immobiliers ou de droits sur des biens immobiliers, la construction d'immeubles neufs, la transformation importante d'immeubles existants ou la location d'un logement à des fins résidentielles ;
 
 13° Les contrats portant sur des biens vendus sur saisie ou de quelque autre manière par autorité de justice.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

@@ -9,3 +9,6 @@ Les informations complémentaires mentionnées à l'article L. 313-4 sont les su
 6° Le montant et le nombre des échéances ;\
 7° Le cas échéant, un avertissement relatif aux éventuelles fluctuations du taux de change susceptibles de modifier le montant dû par l'emprunteur ;\
 8° Le cas échéant, le fait que le contrat sera garanti par une hypothèque ou une autre sûreté comparable ou par un droit lié à un bien immobilier à usage d'habitation.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.

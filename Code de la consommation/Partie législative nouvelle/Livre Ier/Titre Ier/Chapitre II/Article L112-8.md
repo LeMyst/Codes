@@ -5,3 +5,6 @@ Les entreprises dont le chiffre d'affaires est supérieur à un seuil défini pa
 Les services d'accueil téléphonique concernés sont accessibles directement ou, à défaut, par l'intermédiaire d'une plateforme en ligne dédiée délivrant le service de traduction simultanée écrite et visuelle. L'accessibilité est soit assurée directement par l'entreprise, soit confiée par elle, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise en œuvre et l'exécution, soit assurée par l'intermédiaire de la solution d'accessibilité téléphonique universelle mentionnée au IV de l'article 105 de la loi n° 2016-1321 du 7 octobre 2016.
 
 L'autorité administrative chargée de la concurrence et de la consommation peut recourir à l'expertise des services du ministère chargé des personnes handicapées dans le cadre des investigations nécessaires au contrôle des dispositions du présent article.
+
+NOTA:
+Loi n° 2016-1321 du 7 octobre 2016, article 105-V : Au plus tard dix ans après la promulgation de la présente loi, et selon des modalités définies par le décret, le service de traduction fonctionne aux horaires d'ouverture des services clients.

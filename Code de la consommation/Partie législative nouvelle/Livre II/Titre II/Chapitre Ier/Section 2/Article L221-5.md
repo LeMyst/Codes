@@ -29,3 +29,6 @@ La liste et le contenu de ces informations sont précisés par décret en Consei
 Dans le cas d'une vente aux enchères publiques telle que définie par le premier alinéa de l'article L. 321-3 du code de commerce, les informations relatives à l'identité et aux coordonnées postales, téléphoniques et électroniques du professionnel prévues au 4° du I du présent article peuvent être remplacées par celles du mandataire.
 
 II.-Outre les informations prévues au I, tout professionnel, avant la conclusion d'un contrat de fourniture de services et, lorsqu'il n'y a pas de contrat, avant l'exécution de la prestation de services, fournit les informations complémentaires prévues par l'article L. 111-2.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

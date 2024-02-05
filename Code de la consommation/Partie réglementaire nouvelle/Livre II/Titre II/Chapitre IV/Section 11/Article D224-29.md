@@ -17,3 +17,6 @@ La transmission a lieu au moins une fois par trimestre à la demande du consomma
 Toutefois, l'évaluation n'est pas transmise en cas d'envoi d'une facture dans les conditions prévues au 1° ou si le consommateur disposant de l'évaluation sur l'espace sécurisé mentionné à l'article D. 224-26 y a renoncé expressément.
 
 La transmission de l'évaluation ne s'applique pas aux consommateurs de gaz naturel dont la consommation annuelle de référence est inférieure à 1 000 kilowattheures par an.
+
+NOTA:
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur le 1er juillet 2018 pour les fournisseurs ayant moins de 150 000 clients le 1er juillet 2018.

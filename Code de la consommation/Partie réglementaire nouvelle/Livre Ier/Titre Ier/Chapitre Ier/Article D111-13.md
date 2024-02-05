@@ -9,3 +9,6 @@ Sans préjudice des obligations d'information prévues aux articles L. 221-5 et 
 3° Lorsqu'elles existent, les garanties commerciales, régies par les articles L. 217-21 à L. 217-23, comprises dans le prix.
 
 Le prix inclut, le cas échéant, tous les frais, notamment, de dossier, de gestion, de réservation, d'annulation, les frais de livraison, les frais d'intermédiation, les intérêts ainsi que les commissions et les taxes. Il mentionne les éventuelles conditions particulières d'application du prix annoncé et sa base de calcul lorsqu'un prix exact ne peut être indiqué.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

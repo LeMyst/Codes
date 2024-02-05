@@ -4,7 +4,7 @@ Sont applicables dans les îles Wallis et Futuna, les dispositions des articles 
 
 | ARTICLES APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-L. 431-2, L. 453-1 et L. 453-9
-| Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
-|
+|  L. 431-2, L. 453-1 et L. 453-9  | Résultant de l'ordonnance n° 2016-301 du 14 mars 2016  |
+
+NOTA:
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.

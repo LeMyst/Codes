@@ -7,3 +7,6 @@ Le professionnel s'est acquitté de l'obligation de fourniture lorsque le conten
 La charge de la preuve de la fourniture du contenu numérique ou du service numérique au sens du présent article incombe au professionnel.
 
 La fourniture d'un contenu numérique sur un support matériel servant exclusivement à son transport est régie par les articles L. 216-1 et suivants.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

@@ -7,3 +7,6 @@ Ces services sont accessibles depuis le territoire métropolitain, les collectiv
 Aucun coût complémentaire autre que celui de la communication téléphonique ne peut être facturé pour ces services au titre de cette communication téléphonique.
 
 Lorsque le consommateur appelle ces services depuis les territoires énumérés au deuxième alinéa en ayant recours à un service de communications vocales du professionnel auprès duquel il a souscrit ce contrat, aucune somme ne peut, à quelque titre que ce soit, lui être facturée tant qu'il n'a pas été mis en relation avec un interlocuteur prenant en charge le traitement effectif de sa demande.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

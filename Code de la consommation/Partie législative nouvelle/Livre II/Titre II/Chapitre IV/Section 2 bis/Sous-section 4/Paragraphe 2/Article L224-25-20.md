@@ -11,3 +11,6 @@ Le consommateur a droit à une réduction du prix ou à la résolution du contra
 Le consommateur a également droit à une réduction de prix ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la mise en conformité du contenu numérique ou du service numérique au préalable.
 
 La résolution du contrat ne peut toutefois pas être prononcée si le défaut de conformité est mineur, ce qu'il incombe au professionnel de démontrer. Le présent alinéa n'est pas applicable aux contrats dans lesquels le consommateur ne procède pas au paiement d'un prix.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

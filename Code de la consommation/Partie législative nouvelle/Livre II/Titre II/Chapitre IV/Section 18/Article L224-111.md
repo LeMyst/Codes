@@ -7,3 +7,6 @@ Un décret en Conseil d'Etat établit la liste des catégories d'équipements m�
 Les modalités d'information du consommateur sont fixées par décret.
 
 En cas de litige, il appartient au professionnel de prouver qu'il a exécuté ses obligations.
+
+NOTA:
+Conformément aux dispositions de l'article 130 de la loi n° 2020-105 du 10 février 2020, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -17,3 +17,6 @@ Le droit de rétractation ne peut être exercé pour les contrats :\
 a) Il a donné préalablement son consentement exprès pour que l'exécution du contrat commence avant l'expiration du délai de rétractation ; et\
 b) Il a reconnu qu'il perdra son droit de rétractation ; et\
 c) Le professionnel a fourni une confirmation de l'accord du consommateur conformément aux dispositions du deuxième l'alinéa de l'article L. 221-13.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

@@ -19,3 +19,6 @@ Un décret précise les conditions d'application du présent article en tenant c
 Ce décret précise, par ailleurs, pour tout opérateur de plateforme en ligne dont l'activité consiste en la fourniture d'informations permettant la comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels, les informations communiquées aux consommateurs portant sur les éléments de cette comparaison et ce qui relève de la publicité au sens de l'article 20 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
 
 Ce décret fixe également les modalités selon lesquelles, lorsque des professionnels, vendeurs ou prestataires de services sont mis en relation avec des consommateurs, l'opérateur de plateforme en ligne met à leur disposition un espace leur permettant de communiquer aux consommateurs les informations prévues aux articles L. 221-5 et L. 221-6.
+
+NOTA:
+Conformément à l'article 44 II de la loi n° 2016-1321 du 7 octobre 2016, à compter de l'entrée en vigueur des mesures réglementaires nécessaires à l'application de l'article L. 111-7 du code de la consommation, dans sa rédaction résultant du 1° du I du présent article, les articles L. 111-6 et L. 131-3 du même code sont abrogés.

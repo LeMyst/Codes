@@ -4,3 +4,6 @@ Chaque visite est autorisée par une ordonnance du juge des libertés et de la d
 Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique peut être délivrée par l'un des juges des libertés et de la détention compétents.\
 Le juge vérifie que la demande d'autorisation qui lui est soumise est fondée. Cette demande comporte les éléments d'information en possession de l'administration de nature à justifier la visite.\
 Le juge désigne le chef du service qui doit nommer les officiers de police judiciaire chargés d'assister à ces opérations et d'apporter leur concours en procédant, le cas échéant, aux réquisitions nécessaires. Ces officiers de police judiciaire tiendront le juge informé du déroulement des opérations.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

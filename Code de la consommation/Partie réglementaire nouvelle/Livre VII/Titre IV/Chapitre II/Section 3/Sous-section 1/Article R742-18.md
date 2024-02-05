@@ -4,3 +4,6 @@ Le jugement qui prononce la liquidation désigne un liquidateur parmi les person
 Si le liquidateur refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par ordonnance du juge des contentieux de la protection. Le juge peut également, à la demande des parties ou d'office, remplacer par ordonnance le liquidateur qui manquerait à ses devoirs, après avoir provoqué ses explications.\
 Le liquidateur ne peut, ni en son nom personnel ni par personne interposée, se porter acquéreur des biens du débiteur. Il accomplit sa mission avec diligence et dans le respect des intérêts des parties.\
 Lorsqu'un liquidateur a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

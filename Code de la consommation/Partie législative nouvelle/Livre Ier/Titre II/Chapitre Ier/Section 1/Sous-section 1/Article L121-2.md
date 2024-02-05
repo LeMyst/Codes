@@ -23,3 +23,6 @@ g) Le traitement des réclamations et les droits du consommateur ;
 3° Lorsque la personne pour le compte de laquelle elle est mise en œuvre n'est pas clairement identifiable ;
 
 4° Lorsqu'un bien est présenté comme étant identique à un bien commercialisé dans un ou plusieurs autres Etats membres alors qu'il a une composition ou des caractéristiques différentes.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

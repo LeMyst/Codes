@@ -15,3 +15,6 @@ iii) La modification du taux d'intérêt ;
 iv) Le réaménagement de l'échéancier, notamment la réduction du montant des versements du remboursement ;
 
 v) Une remise de dette partielle et la consolidation de la dette.
+
+NOTA:
+Conformément au I de l'article 8 de l'ordonnance n° 2023-1139 du 6 décembre 2023, ces dispositions entrent en vigueur le 30 décembre 2023.

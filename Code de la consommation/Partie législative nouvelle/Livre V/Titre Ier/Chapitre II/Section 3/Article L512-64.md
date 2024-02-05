@@ -6,3 +6,6 @@ Ce recours est formé par déclaration au greffe du tribunal judiciaire dans un 
 Le recours n'est pas suspensif.\
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par le code de procédure pénale.\
 Les pièces saisies sont conservées jusqu'à ce qu'une décision soit devenue définitive.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

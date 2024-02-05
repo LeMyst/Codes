@@ -19,3 +19,6 @@ Le contrat prévu à l'article L. 224-97 comporte les mentions suivantes :
 Le contrat comprend un formulaire détachable destiné à faciliter l'exercice du droit de rétractation dans les conditions prévues à l'article L. 224-99.
 
 Les conditions de présentation de ce formulaire et les mentions devant figurer sur ce dernier sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

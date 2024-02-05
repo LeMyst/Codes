@@ -4,14 +4,9 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 | ARTICLES APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-|
-R. 623-1 à R. 623-3  | Résultant du décret n° 2016-884 du 29 juin 2016
-|
-|
-R. 623-4
-|
-Décret n° 2019-1333 du 11 décembre 2019
-|
-|
-R. 623-5 à R. 623-33  | Résultant du décret n° 2016-884 du 29 juin 2016
-|
+|  R. 623-1 à R. 623-3  | Résultant du décret n° 2016-884 du 29 juin 2016  |
+|  R. 623-4  |  Décret n° 2019-1333 du 11 décembre 2019  |
+|  R. 623-5 à R. 623-33  | Résultant du décret n° 2016-884 du 29 juin 2016  |
+
+NOTA:
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.

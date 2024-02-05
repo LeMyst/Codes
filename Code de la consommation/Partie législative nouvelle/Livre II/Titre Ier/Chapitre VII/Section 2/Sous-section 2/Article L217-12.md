@@ -13,3 +13,6 @@ Le vendeur peut refuser la mise en conformité du bien si celle-ci est impossibl
 Lorsque ces conditions ne sont pas respectées, le consommateur peut, après mise en demeure, poursuivre l'exécution forcée en nature de la solution initialement sollicitée, conformément aux articles 1221 et suivants du code civil.
 
 Tout refus par le vendeur de procéder selon le choix du consommateur ou de mettre le bien en conformité, est motivé par écrit ou sur support durable.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

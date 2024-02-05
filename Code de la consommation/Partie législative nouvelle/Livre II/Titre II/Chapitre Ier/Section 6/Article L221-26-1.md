@@ -17,3 +17,6 @@ III.-Le consommateur a le droit de récupérer ce contenu numérique sans frais,
 IV.-En cas de rétractation du contrat, le professionnel peut empêcher toute utilisation ultérieure du contenu numérique ou du service numérique par le consommateur, notamment en faisant en sorte que le contenu numérique ou le service numérique soit inaccessible au consommateur ou en désactivant le compte d'utilisateur du consommateur, sans préjudice du II.
 
 V.-Lorsque le consommateur a exercé son droit de rétractation, il s'abstient d'utiliser le contenu numérique et de le rendre accessible à des tiers.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

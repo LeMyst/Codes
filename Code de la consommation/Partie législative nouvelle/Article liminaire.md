@@ -33,3 +33,6 @@ Pour l'application du présent code, on entend par :
 15° Opérateur de place de marché en ligne : tout professionnel qui fournit une place de marché en ligne aux consommateurs, au sens du 2° du I de l'article L. 111-7 ;
 
 16° Pratique commerciale : toute action, omission, conduite, démarche ou communication commerciale, y compris la publicité et le marketing, de la part d'un professionnel, en relation directe avec la promotion, la vente ou la fourniture d'un bien, d'un service, ou portant sur des droits et obligations.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

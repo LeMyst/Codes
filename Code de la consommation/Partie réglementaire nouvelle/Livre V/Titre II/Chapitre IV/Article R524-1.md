@@ -5,3 +5,6 @@ L'autorité administrative mentionnée aux articles L. 524-1 à L. 524-4 est le 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes et le chef du service national des enquêtes peuvent désigner des fonctionnaires de catégorie A ou des agents contractuels chargés de fonctions d'un niveau équivalent afin de les représenter devant les juridictions civiles et administratives de première instance et d'appel.
 
 Les directeurs des services déconcentrés peuvent désigner des fonctionnaires de catégorie A afin de les représenter devant les mêmes juridictions.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

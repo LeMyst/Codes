@@ -5,3 +5,6 @@ Le producteur de biens comportant des éléments numériques informe le vendeur 
 Le producteur informe le consommateur, de façon lisible et compréhensible, des caractéristiques essentielles de chaque mise à jour des éléments numériques du bien, notamment de l'espace de stockage qu'elle requiert, de son impact sur les performances du bien et de l'évolution des fonctionnalités qu'elle comporte.
 
 Les modalités d'application du présent article sont précisées par décret.
+
+NOTA:
+Conformément au II de l'article 2 de la loi n° 2021-1755 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -5,3 +5,6 @@ En cas de défaut de conformité, le consommateur a droit à la mise en conformi
 Le consommateur a, par ailleurs, le droit de suspendre le paiement de tout ou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ce que le professionnel ait satisfait aux obligations qui lui incombent au titre de la présente sous-section, dans les conditions des articles 1219 et 1220 du code civil.
 
 Les dispositions de la présente sous-section sont sans préjudice de l'allocation de dommages et intérêts.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

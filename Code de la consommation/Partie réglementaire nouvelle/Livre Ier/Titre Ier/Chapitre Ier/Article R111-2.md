@@ -19,3 +19,6 @@ Pour l'application des dispositions de l'article L. 111-2, outre les information
 8° Le cas échéant, les clauses contractuelles relatives à la législation applicable et la juridiction compétente ;
 
 9° L'éventuelle garantie financière ou assurance de responsabilité professionnelle souscrite par lui, les coordonnées de l'assureur ou du garant ainsi que la couverture géographique du contrat ou de l'engagement.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

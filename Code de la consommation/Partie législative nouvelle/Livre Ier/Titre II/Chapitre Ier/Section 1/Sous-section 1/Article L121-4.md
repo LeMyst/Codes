@@ -65,3 +65,6 @@ Par dérogation au 24° du présent article, sont exclus du dispositif les ingr�
 27° D'affirmer que des avis sur un produit sont diffusés par des consommateurs qui ont effectivement utilisé ou acheté le produit sans avoir pris les mesures nécessaires pour le vérifier ;
 
 28° De diffuser ou faire diffuser par une autre personne morale ou physique des faux avis ou de fausses recommandations de consommateurs ou modifier des avis de consommateurs ou des recommandations afin de promouvoir des produits.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

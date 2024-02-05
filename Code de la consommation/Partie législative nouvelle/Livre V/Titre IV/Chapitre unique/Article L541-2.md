@@ -15,3 +15,6 @@ Les dispositions mentionnées à l'article L. 541-1 sont applicables à la Nouve
 6° A l'article L. 512-17, au 3e alinéa, les mots : “ ou de police administrative ” sont supprimés ;
 
 7° A l'article L. 512-29, au 3°, les mots : “ dans les cas prévus aux articles L. 413-1 et L. 413-2 ” sont supprimés et le 5° est abrogé.
+
+NOTA:
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017, les présentes dispositions entrent en vigueur à la date d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.

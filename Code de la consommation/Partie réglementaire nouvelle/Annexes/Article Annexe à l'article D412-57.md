@@ -13,3 +13,6 @@ c) Une description de la manière dont les exigences en matière d'accessibilit�
 II. - Pour satisfaire aux exigences du I, le prestataire de services peut appliquer entièrement ou en partie les normes harmonisées et les spécifications techniques dont les références ont été publiées au Journal officiel de l'Union européenne.
 
 III. - Le prestataire de services fournit des informations démontrant que le procédé de prestation du service et le suivi de celui-ci assurent sa conformité avec le I et avec les exigences applicables de l'article D. 412-57.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-931 du 9 octobre 2023, ces dispositions sont applicables aux produits mis sur le marché et aux services fournis après le 28 juin 2025, selon les modalités prévues aux B à E du VIII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture.

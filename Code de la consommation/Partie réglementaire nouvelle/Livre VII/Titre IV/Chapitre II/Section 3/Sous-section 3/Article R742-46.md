@@ -5,3 +5,6 @@ Si les créanciers et le débiteur parviennent à un accord sur la distribution 
 Le liquidateur transmet ce procès-verbal d'accord au juge des contentieux de la protection aux fins d'homologation. En cas de vente d'un immeuble, il y joint les documents mentionnés au deuxième alinéa de l'article R. 742-45.\
 Le juge des contentieux de la protection confère force exécutoire au procès-verbal, par ordonnance, après en avoir vérifié la régularité.\
 Une copie de l'ordonnance est adressée au liquidateur par le greffe par lettre simple.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

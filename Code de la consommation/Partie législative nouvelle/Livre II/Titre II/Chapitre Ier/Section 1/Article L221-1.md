@@ -15,3 +15,6 @@ c) Ou pendant une excursion organisée par le professionnel ayant pour but ou po
 II. - Les dispositions du présent titre s'appliquent aux contrats portant sur la vente d'un ou plusieurs biens, au sens de l'article 528 du code civil, et au contrat en vertu duquel le professionnel fournit ou s'engage à fournir un service au consommateur en contrepartie duquel le consommateur en paie ou s'engage à en payer le prix. Le contrat ayant pour objet à la fois le transfert de propriété d'un bien et la fourniture d'une prestation de services, y compris la prestation de livraison de biens, est assimilée à un contrat de vente.
 
 III. - Les dispositions du présent titre s'appliquent également aux contrats par lesquels le professionnel fournit ou s'engage à fournir au consommateur un contenu numérique sans support matériel ou un service numérique et pour lesquels le consommateur lui fournit ou s'engage à lui fournir des données à caractère personnel, sauf lorsque ces données sont exclusivement traitées par lui pour fournir le contenu numérique sans support matériel ou le service numérique, ou lui permettre de remplir les obligations légales qui lui incombent.
+
+NOTA:
+Conformément à l’article 10 de l’ordonnance n° 2021-1734 du 22 décembre 2021, ces dispositions entrent en vigueur le 28 mai 2022.

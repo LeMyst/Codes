@@ -13,3 +13,6 @@ Les données essentielles mentionnées à l'article L. 223-4 sont :
 5° Le nombre de numéros de téléphone de consommateurs inscrits sur la liste d'opposition retirés des fichiers de prospection commerciale des professionnels adhérents ;
 
 6° Le nombre de réclamations déposées par les consommateurs.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2021-1528 du 26 novembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -9,3 +9,6 @@ A l'exception des articles L. 224-25-10 et L. 224-25-11, elles s'appliquent éga
 II.-Sans préjudice du I de l'article L. 224-25-3, lorsqu'un contrat réunit la fourniture d'un contenu numérique ou d'un service numérique relevant de la présente section et la fourniture d'autres biens ou services non couverts par la présente section, la présente section ne s'applique qu'aux contenus et services numériques qu'elle couvre. En outre, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, les dispositions de la présente section ne s'appliquent qu'aux contenus numériques et aux services numériques.
 
 Les conditions de résolution du contrat sont toutefois régies par le deuxième alinéa du I de l'article L. 224-25-22.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

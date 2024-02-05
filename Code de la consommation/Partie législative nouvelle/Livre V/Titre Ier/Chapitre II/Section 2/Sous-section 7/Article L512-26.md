@@ -9,3 +9,6 @@ Dans l'attente des résultats des contrôles nécessaires, les agents habilités
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois et règlements en vigueur et de présenter un danger pour la santé ou la sécurité des consommateurs ;
 
 4° Les produits susceptibles d'être présentés sous une marque, une marque collective ou une marque de garantie contrefaisantes.
+
+NOTA:
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.

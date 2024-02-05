@@ -19,3 +19,6 @@ Signature du (des) consommateur(s) (uniquement en cas de notification du présen
 Date :
 
 (\*) Rayez la mention inutile.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.

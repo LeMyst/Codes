@@ -13,3 +13,8 @@ a) D'une durée d'un an dans des fonctions liées à la réalisation d'activité
 b) D'une durée de trois ans dans des fonctions liées à la réalisation d'activités d'élaboration, de proposition ou d'octroi des contrats de crédit mentionnés au présent titre au cours des dix dernières années.\
 Cette expérience professionnelle est cumulée au suivi d'une formation professionnelle adaptée à la réalisation d'opérations de crédit suivie dans les conditions du 2° ci-dessus et dont la durée minimale est fixée par arrêté du ministre chargé de l'économie.\
 Toutefois, les personnels des intermédiaires qui justifient d'une compétence professionnelle au titre des articles R. 519-8 et R. 519-9 du code monétaire et financier sont réputés remplir les conditions de compétence professionnelle mentionnées au présent article.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 III : Les dispositions de l'article D. 314-23, hormis le quatrième alinéa de son 3°, dans sa rédaction issue dudit décret, entrent en vigueur le 1er janvier 2017.
+
+Décret n° 2016-884 du 29 juin 2016, article 11 V : Les dispositions du quatrième alinéa du 3° de l'article D. 314-23 du code de la consommation, dans leur rédaction résultant dudit décret, entrent en vigueur le 21 mars 2019.

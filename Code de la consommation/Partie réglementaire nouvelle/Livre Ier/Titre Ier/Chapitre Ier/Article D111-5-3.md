@@ -13,3 +13,6 @@ Ces caractéristiques portent sur :
 4° Les conséquences possibles de la mise à jour sur les performances du bien, notamment sur l'espace de stockage disponible, la disponibilité de la mémoire vive ou la durée de vie de la batterie.
 
 Le producteur communique ces informations au consommateur avant que celui-ci n'installe la mise à jour concernée. Il peut, en outre, lui indiquer le site internet ou l'application mobile où les informations mentionnées aux 1° à 4° restent disponibles après l'installation de la mise à jour.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

@@ -17,3 +17,6 @@ Avant que le consommateur ne soit lié par un contrat à titre onéreux, le prof
 La liste et le contenu précis de ces informations sont fixés par décret en Conseil d'Etat.
 
 Les dispositions du présent article s'appliquent également aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité, y compris lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain. Ces contrats font également référence à la nécessité d'une consommation sobre et respectueuse de la préservation de l'environnement.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

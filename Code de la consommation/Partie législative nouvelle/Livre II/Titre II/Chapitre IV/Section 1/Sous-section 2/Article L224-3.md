@@ -37,3 +37,6 @@ L'offre de fourniture d'électricité ou de gaz naturel précise, dans des terme
 16° Les conditions prévues à l'article L. 124-1 du code de l'énergie pour bénéficier du chèque énergie, ainsi que les modalités d'utilisation de ce chèque pour le paiement de la fourniture d'électricité ou de gaz naturel ;
 
 17° Les coordonnées du site internet qui fournit gratuitement aux consommateurs soit directement, soit par l'intermédiaire de liens avec des sites internet d'organismes publics ou privés, les informations contenues dans l'aide-mémoire du consommateur d'énergie établi par la Commission européenne ou, à défaut, dans un document équivalent établi par les ministres chargés de la consommation et de l'énergie.
+
+NOTA:
+Conformément au II de l'article 28 de la loi n° 2022-1158 du 16 août 2022, ces dispositions entrent en vigueur le 1er juillet 2023 et s'appliquent aux nouvelles offres de fourniture mises à la disposition du consommateur par le fournisseur ou aux projets de modification des relations contractuelles communiquées par le fournisseur au consommateur à compter de cette date.

@@ -3,3 +3,6 @@
 Tout manquement aux obligations d'information mentionnées aux articles L. 111-7, L. 111-7-2 et L. 111-7-3 du présent code ainsi qu'au II de l'article 15 de la loi n° 47-585 du 2 avril 1947 relative au statut des entreprises de groupage et de distribution des journaux et publications périodiques est passible d'une amende administrative dont le montant ne peut excéder 75 000 euros pour une personne physique et 375 000 euros pour une personne morale.
 
 Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
+
+NOTA:
+Conformément à l'article 2 de la loi n° 2022-309 du 3 mars 2022, ces dispositions entrent en vigueur le 1er octobre 2023.

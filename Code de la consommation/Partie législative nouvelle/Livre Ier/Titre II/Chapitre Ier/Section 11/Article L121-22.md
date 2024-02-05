@@ -9,3 +9,6 @@ Est interdite toute publicité portant :
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 3132-29 du code du travail ;
 
 4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article L. 762-2 du code de commerce et qui n'a pas fait l'objet de cette déclaration.
+
+NOTA:
+Conformément au VI de l’article 16 de la loi n° 2021-1357 du 18 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

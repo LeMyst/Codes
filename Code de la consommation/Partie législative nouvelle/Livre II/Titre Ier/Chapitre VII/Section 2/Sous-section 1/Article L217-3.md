@@ -15,3 +15,6 @@ Pour de tels biens, le délai applicable ne prive pas le consommateur de son dro
 Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur.
 
 Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

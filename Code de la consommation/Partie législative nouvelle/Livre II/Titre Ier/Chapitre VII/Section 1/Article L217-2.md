@@ -11,3 +11,6 @@ Les dispositions du présent chapitre ne sont pas applicables :
 4° Aux contenus numériques et aux services numériques ne relevant pas d'un contrat de vente de bien comportant des éléments numériques, ni aux contenus numériques fournis sur un support matériel servant exclusivement à leur transport. De tels contenus sont régis par les dispositions des articles L. 224-25-1 et suivants ;
 
 5° Aux contenus numériques et services numériques énumérés au II de l'article L. 224-25-3, y compris lorsque ceux-ci sont intégrés ou interconnectés à un bien couvert par le présent chapitre.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

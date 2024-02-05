@@ -5,3 +5,6 @@ La sollicitation d'un consommateur par voie téléphonique à des fins de prospe
 Toutefois, le professionnel ou une personne agissant pour son compte peut solliciter par voie téléphonique un consommateur en dehors de ces jours et de ces plages horaires s'il a obtenu le consentement exprès et préalable du consommateur et qu'il peut l'établir.
 
 Il est interdit à un même professionnel, directement ou par l'intermédiaire d'un tiers agissant pour son compte, de démarcher ou de tenter de démarcher téléphoniquement un même consommateur plus de quatre fois au cours d'une période de trente jours calendaires. Cependant, lorsque le consommateur refuse ce démarchage lors de la conversation, le professionnel s'abstient de le contacter ou de tenter de le contacter par voie téléphonique avant l'expiration d'une période de soixante jours calendaires révolus à compter de ce refus.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1313 du 13 octobre 2022, ces dispositions entrent en vigueur le 1er mars 2023.

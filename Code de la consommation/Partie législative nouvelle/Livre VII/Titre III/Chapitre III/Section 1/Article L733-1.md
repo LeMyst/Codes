@@ -9,3 +9,6 @@ En l'absence de mission de conciliation ou en cas d'échec de celle-ci, la commi
 3° Prescrire que les sommes correspondant aux échéances reportées ou rééchelonnées porteront intérêt à un taux réduit qui peut être inférieur au taux de l'intérêt légal sur décision spéciale et motivée et si la situation du débiteur l'exige. Quelle que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal.
 
 4° Suspendre l'exigibilité des créances autres qu'alimentaires pour une durée qui ne peut excéder deux ans. Sauf décision contraire de la commission, la suspension de la créance entraîne la suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les sommes dues au titre du capital peuvent être productives d'intérêts dont le taux n'excède pas le taux de l'intérêt légal.
+
+NOTA:
+Conformément au II de l'article 66 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions entrent en vigueur le 1er janvier 2018. Elles s'appliquent aux dossiers de surendettement déposés à compter de cette date.

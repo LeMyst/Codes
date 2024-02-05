@@ -11,3 +11,6 @@ Le délai applicable ne prive pas le consommateur de son droit aux mises à jour
 Le professionnel répond également, dans les mêmes délais, des défauts de conformité résultant de l'intégration incorrecte du contenu numérique ou du service numérique dans l'environnement numérique du consommateur lorsque celle-ci a été réalisée par le professionnel ou sous sa responsabilité, ou encore lorsque l'intégration incorrecte réalisée par le consommateur résulte de lacunes dans les instructions que le professionnel a fournies.
 
 Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.

@@ -5,3 +5,6 @@ Le juge des contentieux de la protection ou, le cas échéant, le juge chargé d
 L'appel contre le jugement établissant l'état de répartition a un effet suspensif.
 
 Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

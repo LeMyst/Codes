@@ -17,3 +17,6 @@ II.-Les exigences d'accessibilité des produits et des services mentionnées au 
 Les opérateurs économiques effectuent une évaluation, dans des conditions définies par décret, afin de déterminer si la conformité aux exigences d'accessibilité mentionnées au même I introduit une modification fondamentale ou impose une charge disproportionnée.
 
 Lorsqu'ils perçoivent un financement public ou privé provenant d'autres sources que leurs ressources propres dans l'objectif d'améliorer l'accessibilité d'un produit ou d'un service mentionné audit I, les opérateurs économiques ne peuvent pas se prévaloir du 2° du présent II pour ce produit ou ce service.
+
+NOTA:
+Conformément au A du VIII de l’article 16 de la loi n° 2023-171 du 9 mars 2023, ces dispositions sont applicables aux produits mis sur le marché et aux services fournis après le 28 juin 2025. Se reporter aux B à E du même VIII.

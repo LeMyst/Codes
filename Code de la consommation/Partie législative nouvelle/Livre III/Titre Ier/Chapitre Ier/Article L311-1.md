@@ -35,3 +35,6 @@ L'ensemble de ces coûts est défini à l'article L. 314-1 relatif au taux annue
 15° Service accessoire, un service proposé à l'emprunteur en rapport avec un contrat de crédit entrant dans le champ du présent titre ;
 
 16° Crédit relais, un crédit d'une durée limitée destiné à faire l'avance partielle ou totale, et temporaire du produit de la vente d'un bien immobilier pour en acquérir un autre avant la vente du premier bien.
+
+NOTA:
+Conformément à l'article 9 de la loi n° 2017-203 du 21 février 2017, les prêteurs disposent d'un délai de trois mois à compter de la promulgation de ladite loi pour se mettre en conformité avec le 7° du présent article dont le même 7°, dans sa rédaction antérieure à la même loi, leur demeure applicable jusqu'à cette mise en conformité.

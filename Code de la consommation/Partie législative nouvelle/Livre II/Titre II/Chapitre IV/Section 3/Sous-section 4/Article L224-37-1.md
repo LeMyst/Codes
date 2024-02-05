@@ -5,3 +5,6 @@ Un contrat donnant accès à internet ou à un service de communications vocales
 En application du premier alinéa du présent article, ne peuvent être imputées au consommateur aucune indemnité correspondant aux montants dus au titre de la fraction non échue de la période courant jusqu'à la fin de l'engagement contractuel, ni les sommes dues au titre de la résiliation anticipée. Les dettes éventuellement contractées auprès des fournisseurs d'accès à internet ou à un service de communications vocales font partie de plein droit du passif dressé par la commission de surendettement des particuliers dans les conditions fixées aux articles L. 723-1 à L. 723-4.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+NOTA:
+Conformément au II de l’article 15 de la loi n° 2022-1158 du 16 août 2022, ces dispositions sont applicables aux contrats conclus à compter du 1er janvier 2023.

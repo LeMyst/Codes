@@ -9,3 +9,8 @@ En cas d'acceptation, le prêteur modifie par voie d'avenant, dans un délai de 
 Lorsque l'avenant comporte un ou plusieurs éléments chiffrés sur le coût de l'assurance, ce coût est exprimé selon les modalités définies à l'article L. 313-8.
 
 Le prêteur ne peut exiger de frais supplémentaires de l'emprunteur pour l'émission de cet avenant.
+
+NOTA:
+Conformément au I de l’article 8 de la loi n° 2022-270, ces dispositions sont applicables aux nouvelles offres de prêts émises à compter du 1er juin 2022.
+
+Conformément au II du même article, ces dispositions sont également applicables à compter du 1er septembre 2022, aux contrats d'assurance en cours d'exécution à cette date.

@@ -5,3 +5,6 @@ La garantie commerciale est fournie au consommateur de manière lisible et compr
 En cas de non-respect de ces dispositions, la garantie commerciale demeure contraignante pour le garant.
 
 En outre, la garantie commerciale indique, de façon claire et précise, qu'elle s'applique sans préjudice du droit pour le consommateur de bénéficier de la garantie légale de conformité, dans les conditions prévues au présent chapitre, et de celle relative aux vices cachés, dans les conditions prévues aux articles 1641 à 1649 du code civil. Un décret fixe les modalités de cette information.
+
+NOTA:
+Conformément au II de l'article 2 de la loi n° 2021-1755 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -31,3 +31,6 @@ En application des 4°, 5° et 6° de l'article L. 221-5, le professionnel commu
 14° S'il y a lieu, la durée minimale des obligations contractuelles du consommateur ;
 
 15° S'il y a lieu, l'existence d'une caution ou d'autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel ainsi que les conditions y afférentes.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.

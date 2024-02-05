@@ -14,3 +14,6 @@ Les informations générales mentionnées à l'article L. 313-6 sont les suivant
 11° L'indication des services accessoires que l'emprunteur est obligé de souscrire pour obtenir le crédit ou pour l'obtenir aux conditions annoncées et, le cas échéant, la précision que les services peuvent être acquis auprès d'un fournisseur autre que le prêteur ;\
 12° Un avertissement général relatif aux éventuelles conséquences du non-respect par l'emprunteur des obligations liées au contrat de crédit.\
 L'intermédiaire de crédit agissant en vertu d'un mandat délivré par le client, conformément au second alinéa de l'article L. 519-2 du code monétaire et financier, n'est pas tenu de délivrer l'information mentionnée au 6°.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.

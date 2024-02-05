@@ -25,3 +25,6 @@ Les dispositions du II de l'article L. 211-2 s'appliquent aux catégories de bie
 -les lunettes de protection solaire ;
 
 -les éléments d'ameublement.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

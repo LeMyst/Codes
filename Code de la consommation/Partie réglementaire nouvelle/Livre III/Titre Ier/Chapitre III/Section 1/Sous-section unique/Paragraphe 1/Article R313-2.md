@@ -6,3 +6,6 @@ Les informations figurant aux 1° à 6° de l'article R. 313-1 sont fournies à 
 Le montant total du crédit et la durée de remboursement choisis par le prêteur correspondent au mieux aux caractéristiques du contrat de crédit dont il fait la publicité.\
 Lorsque la publicité mentionne un taux promotionnel ou des modalités spéciales d'utilisation qui dérogent au fonctionnement normal du crédit concerné, applicables à titre temporaire, l'exemple représentatif illustre les conditions normales d'exécution du contrat de crédit. En cas de taux variable, l'exemple représentatif indique, en plus des indications prévues au 1° de l'article R. 313-1, si le taux débiteur est ou non plafonné.\
 La publicité indique que l'exemple représentatif a une valeur d'exemple. Cet exemple est présenté dans une taille de caractère au moins aussi importante que celle utilisée pour les informations mentionnées à l'article R. 313-1.
+
+NOTA:
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.

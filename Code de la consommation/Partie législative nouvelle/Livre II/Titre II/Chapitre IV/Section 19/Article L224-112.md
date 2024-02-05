@@ -7,3 +7,6 @@ Un décret en Conseil d'Etat établit la liste des catégories d'outils de brico
 Les modalités d'information du consommateur sont fixées par décret.
 
 En cas de litige, il appartient au professionnel de prouver qu'il a exécuté ses obligations.
+
+NOTA:
+Conformément au IV de l'article 30 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

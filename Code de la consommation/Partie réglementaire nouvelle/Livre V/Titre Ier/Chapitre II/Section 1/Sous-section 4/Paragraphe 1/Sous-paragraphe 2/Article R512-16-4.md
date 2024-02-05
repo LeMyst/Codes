@@ -15,3 +15,6 @@ La commande et la livraison de la marchandise sont relatées dans un procès-ver
 6° Le numéro d'ordre du prélèvement ;
 
 7° La signature de l'agent habilité.
+
+NOTA:
+Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

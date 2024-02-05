@@ -21,3 +21,6 @@ Lorsque le consommateur est équipé d'un dispositif de comptage qui peut être 
 Les dispositions du 1° au 4° sont applicables aux données se rapportant aux consommations d'énergie concernant au moins les trois dernières années ou la durée écoulée depuis le début du contrat de fourniture lorsque celle-ci est inférieure.
 
 Le fournisseur adresse annuellement au consommateur, à sa demande, les données mentionnées aux 1°, 2° et 3° pour les douze derniers mois par lettre postale, sans préjudice des dispositions de l'article D. 224-29.
+
+NOTA:
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur, pour les fournisseurs ayant moins de 150 000 clients, le 1er juillet 2018 ; les 1°, 5°, 6°, 7° et 8° entrent en vigueur pour les fournisseurs ayant 150 000 clients ou plus le 1er juillet 2018.

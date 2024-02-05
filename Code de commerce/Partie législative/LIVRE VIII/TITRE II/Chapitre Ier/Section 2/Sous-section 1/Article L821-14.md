@@ -13,3 +13,6 @@ Pour être inscrite sur la liste des commissaires aux comptes mentionnée au I d
 5° Avoir accompli un stage professionnel, jugé satisfaisant, d'une durée fixée par voie réglementaire, chez un commissaire aux comptes ou une personne agréée par un Etat membre de l'Union européenne pour exercer le contrôle légal des comptes ;
 
 6° Avoir réussi les épreuves du certificat d'aptitude aux fonctions de commissaire aux comptes ou être titulaire du diplôme d'expertise comptable.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -19,3 +19,6 @@ Si après cette répartition des sièges, le conseil régional ne compte parmi s
 II.-Sont électrices les personnes physiques membres de la compagnie régionale, à jour de leurs cotisations professionnelles.
 
 Sont éligibles les personnes physiques, à jour de leurs cotisations professionnelles, exerçant la profession de commissaire aux comptes au 30 juin de l'année d'expiration des mandats. Ne peut être désigné président du conseil régional qu'un commissaire aux comptes qui exerce au moins une mission de certification à cette date.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

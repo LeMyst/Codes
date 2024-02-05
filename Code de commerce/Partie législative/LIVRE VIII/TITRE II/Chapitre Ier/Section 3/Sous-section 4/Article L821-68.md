@@ -15,3 +15,6 @@ Ne sont pas tenus de se doter du comité spécialisé mentionné à l'article L.
 Dans les entités d'intérêt public autres que celles mentionnées au 4° et au 5° et les sociétés de financement, qui ne sont pas tenues de désigner un comité spécialisé en application du présent article, les missions de ce comité sont exercées, le cas échéant, par l'organe d'administration ou de surveillance ou par l'organe remplissant des fonctions équivalentes.
 
 Lorsque les missions confiées au comité spécialisé sont exercées par l'organe chargé de l'administration ou par l'organe remplissant des fonctions équivalentes, il ne peut, pour l'exercice de ces missions, être présidé par le président de cet organe si ce dernier exerce les fonctions de direction générale.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

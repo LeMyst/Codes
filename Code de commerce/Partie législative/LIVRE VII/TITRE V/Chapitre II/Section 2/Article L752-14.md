@@ -11,3 +11,6 @@ Passé ce délai, la décision est réputée favorable.
 Les membres de la commission ont connaissance des demandes déposées au moins dix jours avant d'avoir à statuer.
 
 Cette décision est notifiée dans les dix jours au maire et au pétitionnaire.
+
+NOTA:
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 18 décembre 2014.

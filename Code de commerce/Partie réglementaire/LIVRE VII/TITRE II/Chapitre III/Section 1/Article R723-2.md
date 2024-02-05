@@ -13,3 +13,6 @@ Les électeurs mentionnés au 1° de l'article L. 723-1 appartiennent au collèg
 A la qualité d'ancien membre du tribunal de commerce le juge ayant exercé ses fonctions pendant au moins six années et n'ayant pas été réputé démissionnaire
 
 Les électeurs mentionnés au 2° de l'article L. 723-1 ne peuvent être inscrits sur la liste des membres du collège électoral de plusieurs tribunaux de commerce. Lorsque ces électeurs sont susceptibles de se trouver dans cette situation, ils sont tenus de solliciter leur retrait de la liste électorale auprès des présidents des juridictions dans lesquelles ils ne souhaitent pas être électeurs.
+
+NOTA:
+Se reporter aux conditions d'entrée en vigueur prévues à l'article 19 du décret n° 2021-144 du 11 février 2021 ainsi qu'au premier alinéa de l'article 4 de la loi n° 2021-1317 du 11 octobre 2021.

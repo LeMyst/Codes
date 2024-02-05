@@ -7,3 +7,6 @@ Le prix de réserve est le prix minimal arrêté avec le vendeur au-dessous duqu
 L'article L. 442-5 est applicable à tout vendeur se livrant à titre habituel à la revente de biens neufs en l'état à un prix inférieur à leur prix d'achat effectif, par le procédé des enchères publiques, dans les conditions prévues à cet article.
 
 Dans le cas des biens d'occasion proposés à la vente et dès lors que les acheteurs ont la faculté d'y assister en personne, les opérateurs de ventes volontaires de meubles aux enchères publiques mentionnés à l'article L. 321-4 informent les acheteurs, de manière claire et compréhensible avant la conclusion de la vente, que ceux-ci ne bénéficient pas de la garantie légale de conformité conformément à l'article L. 217-2 du code de la consommation.
+
+NOTA:
+Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

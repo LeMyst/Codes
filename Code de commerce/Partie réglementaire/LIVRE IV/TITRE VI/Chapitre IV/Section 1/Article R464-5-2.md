@@ -9,3 +9,6 @@ I.-L'exonération partielle de sanctions pécuniaires prévue au IV de l'article
 3° Il fournit des éléments d'information qui comportent une valeur ajoutée significative afin d'établir l'existence de la pratique en cause, par rapport à ceux qui se trouvent déjà en la possession de la direction générale de la concurrence, de la consommation et de la répression des fraudes ou de l'Autorité de la concurrence au moment de la demande.
 
 II.-Lorsqu'un demandeur est le premier à fournir des éléments d'information décisifs permettant à l'Autorité d'établir des éléments de fait supplémentaires conduisant à une augmentation des sanctions pécuniaires infligées aux participants à la pratique en cause par rapport à celles qui auraient été infligées en l'absence de ces éléments, l'Autorité de la concurrence ne le prend pas en compte pour déterminer le montant de la sanction infligée au demandeur ayant fourni ces éléments d'information.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

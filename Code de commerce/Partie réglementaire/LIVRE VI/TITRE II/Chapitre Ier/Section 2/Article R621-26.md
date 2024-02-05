@@ -7,3 +7,6 @@ Il statue après avoir entendu ou dûment appelé le mandataire judiciaire, l'ad
 Le jugement par lequel le tribunal convertit la procédure de sauvegarde en une procédure de redressement judiciaire est signifié à la diligence du greffier dans les huit jours de son prononcé aux personnes qui ont qualité pour interjeter appel, à l'exception du ministère public.
 
 Il est communiqué aux personnes citées à l'article R. 621-7 et fait l'objet des publicités prévues à l'article R. 621-8.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

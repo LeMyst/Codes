@@ -7,3 +7,6 @@ En ce cas, et si les actions de chacune des sociétés nouvelles sont attribuée
 Lorsque les sociétés nouvelles sont des sociétés à responsabilité limitée, les associés des sociétés qui disparaissent peuvent agir de plein droit en qualité de fondateurs des sociétés nouvelles et il est procédé conformément aux dispositions régissant les sociétés à responsabilité limitée.
 
 Dans tous les cas, lorsque les sociétés nouvelles sont des sociétés par actions, les projets de statuts des sociétés nouvelles sont approuvés par l'assemblée générale extraordinaire de la société scindée. Il n'y a pas lieu à approbation de l'opération par l'assemblée générale de chacune des sociétés nouvelles.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

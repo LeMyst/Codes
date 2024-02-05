@@ -27,3 +27,6 @@ d) Le plan ne prévoit pas la cession de tout ou partie des droits de la ou des 
 La décision du tribunal vaut approbation des modifications de la participation au capital ou des droits des détenteurs de capital ou des statuts prévues par le plan. Le tribunal peut désigner un mandataire de justice chargé de passer les actes nécessaires à la réalisation de ces modifications.
 
 II.-Sur demande du débiteur ou de l'administrateur judiciaire avec l'accord du débiteur, le tribunal peut décider de déroger au 3° du I, lorsque ces dérogations sont nécessaires afin d'atteindre les objectifs du plan et si le plan ne porte pas une atteinte excessive aux droits ou intérêts de parties affectées. Les créances des fournisseurs de biens ou de services du débiteur, les détenteurs de capital et les créances nées de la responsabilité délictuelle du débiteur, notamment, peuvent bénéficier d'un traitement particulier.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

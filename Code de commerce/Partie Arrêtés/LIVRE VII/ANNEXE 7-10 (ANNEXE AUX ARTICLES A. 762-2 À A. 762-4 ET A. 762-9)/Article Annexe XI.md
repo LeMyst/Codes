@@ -4,8 +4,7 @@
 
 Préfecture du département de
 
-RÉCÉPISSÉ DE DÉCLARATION D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ
-(art. L. 762-2 et R. 762-10 du code de commerce)
+RÉCÉPISSÉ DE DÉCLARATION D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ (art. L. 762-2 et R. 762-10 du code de commerce)
 
 Date de réception du dossier complet :
 

@@ -7,3 +7,6 @@ Le président du tribunal fait convoquer, à la diligence du greffier, le ou les
 Le tribunal statue après avoir entendu ou dûment appelé, le cas échéant, le débiteur, l'administrateur s'il en a été désigné, le mandataire judiciaire ainsi que les représentants de la délégation du personnel du comité social et économique.
 
 Le jugement est signifié à la diligence du greffier à chaque dirigeant en cause et au représentant légal de la personne morale. Les personnes citées à l'article R. 621-7 ainsi que les représentants de la délégation du personnel du comité social et économique sont avisés de ce jugement.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -13,3 +13,6 @@ Peuvent être destinataires, au sens 9) de l'article 4 du règlement (UE) 2016/6
 4° Les personnels des chambres de métiers et de l'artisanat départementales et de région et les personnels des chambres de métiers d'Alsace et de Moselle, dans le cadre de leurs missions de validation et de contrôle relatives au registre national des entreprises, désignés selon des modalités définies par décret en Conseil d'Etat.
 
 Les personnes mentionnées au 2° informent le secrétaire général du comité interministériel de restructuration industrielle, à sa demande, si une personne pressentie pour exercer des fonctions de direction, gestion, administration ou contrôle dans un dossier dont ce comité a été saisi est inscrite dans ce fichier.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

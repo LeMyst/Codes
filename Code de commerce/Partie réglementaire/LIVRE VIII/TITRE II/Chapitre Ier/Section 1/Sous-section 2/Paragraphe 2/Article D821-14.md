@@ -27,3 +27,6 @@ Les autres sièges sont répartis entre toutes les listes à la représentation 
 Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
 
 Si plusieurs listes ont la même moyenne, pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats, susceptible d'être proclamé élu.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

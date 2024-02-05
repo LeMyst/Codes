@@ -5,3 +5,6 @@ Les droits particuliers mentionnés à l'article L. 228-11 peuvent être exercé
 L'émission doit alors être autorisée par l'assemblée générale extraordinaire de la société appelée à émettre des actions de préférence et par celle de la société au sein de laquelle les droits sont exercés.
 
 Les commissaires aux comptes des sociétés intéressées doivent établir un rapport spécial.
+
+NOTA:
+Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.

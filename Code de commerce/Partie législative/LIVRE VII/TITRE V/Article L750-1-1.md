@@ -5,3 +5,6 @@ Dans le respect des orientations définies à l'article L. 750-1, le Gouvernemen
 Les opérations éligibles aux aides du fonds d'intervention pour les services, l'artisanat et le commerce sont destinées à favoriser la création, le maintien, la modernisation, l'adaptation, en particulier pour les travaux de mise aux normes des établissements recevant du public et la sûreté des entreprises, ou la transmission des entreprises de proximité, pour conforter le commerce sédentaire et non sédentaire, notamment en milieu rural, dans les zones de montagne, dans les halles et marchés ainsi que dans les quartiers prioritaires de la politique de la ville.
 
 Les opérations, les bénéficiaires et les dépenses éligibles sont définis par décret. Ce décret fixe également les modalités de sélection des opérations et la nature, le taux et le montant des aides attribuées.
+
+NOTA:
+Loi n° 2014-626 du 18 juin 2014 art. 61 II : Les demandes d'aides au titre du fonds d'intervention pour les services, l'artisanat et le commerce enregistrées antérieurement à la date d'entrée en vigueur de la présente loi demeurent régies par le I de l'article L. 750-1-1 du code de commerce, dans sa rédaction en vigueur avant cette date.

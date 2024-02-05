@@ -5,3 +5,6 @@ Les numéros d'identification sont attribués, par l'Institut national de la sta
 1° Soit, pour les entreprises, à l'occasion de la procédure de création ou de modification de leurs situations prévue à l'article L. 123-33 ;
 
 2° Soit, pour les autres unités légales, à la demande de la personne concernée ou des administrations et organismes dont la liste est établie par arrêté du ministre chargé de l'économie et selon des modalités déterminées par ce même arrêté.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

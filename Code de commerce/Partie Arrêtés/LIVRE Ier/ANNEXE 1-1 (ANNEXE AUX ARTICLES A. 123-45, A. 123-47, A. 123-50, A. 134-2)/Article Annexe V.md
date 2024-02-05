@@ -1,8 +1,6 @@
 # Article Annexe V
 
-DEMANDE D'IMMATRICULATION DANS LE RESSORT D'UN NOUVEAU GREFFE D'UNE PERSONNE PHYSIQUE OU MORALE DÉJÀ IMMATRICULÉE AU RCS
-
-**1. Immatriculation principale suite au transfert**
+DEMANDE D'IMMATRICULATION DANS LE RESSORT D'UN NOUVEAU GREFFE D'UNE PERSONNE PHYSIQUE OU MORALE DÉJÀ IMMATRICULÉE AU RCS **1. Immatriculation principale suite au transfert**
 
 1.1. Transfert du siège d'une personne morale :
 

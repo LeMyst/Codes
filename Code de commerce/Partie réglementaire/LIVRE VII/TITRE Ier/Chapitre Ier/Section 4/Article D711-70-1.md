@@ -103,3 +103,8 @@ Si une proposition de reclassement est proposée, le directeur général peut la
 VII.-Une commission mixte de conciliation, composée de deux membres titulaires et de deux membres suppléants désignés parmi les présidents de chambre par le bureau de CCI France, ainsi que de deux membres titulaires et de deux membres suppléants désignés parmi les directeurs généraux par l'association des directeurs généraux des chambres de commerce et d'industrie, peut être saisie pour avis, avant la décision de l'employeur, dans le cas d'une procédure de licenciement ou de révocation prévus aux 5° et 6° du IV et au VI du présent article, par l'employeur ou le directeur général.
 
 Ses modalités de fonctionnement sont fixées par arrêté du ministre chargé de la tutelle des chambres de commerce et d'industrie.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1227 du 26 novembre 2019, le III de l'article D. 711-70-1 du code de commerce entre en vigueur le 1er janvier 2020.
+
+Le présent décret n'est applicable qu'aux procédures de nomination et de cessation de fonctions engagées après son entrée en vigueur.

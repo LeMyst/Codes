@@ -11,3 +11,6 @@ Les formulaires de vote par correspondance reçus par la société comportent :
 3° La signature, le cas échéant électronique, de l'actionnaire ou de son représentant légal ou judiciaire. Lorsque la société décide, conformément aux statuts, de permettre la participation des actionnaires aux assemblées générales par des moyens de communication électronique, cette signature électronique peut résulter d'un procédé fiable d'identification de l'actionnaire, garantissant son lien avec le formulaire de vote à distance auquel elle s'attache.
 
 Le formulaire de vote par correspondance adressé à la société par une assemblée vaut pour les assemblées successives convoquées avec le même ordre du jour.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

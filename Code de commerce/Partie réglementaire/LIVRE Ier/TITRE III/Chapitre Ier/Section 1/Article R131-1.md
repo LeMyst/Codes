@@ -43,3 +43,6 @@ II. ― Pour les personnes morales :
 8° Un document justifiant de la souscription d'une assurance de couverture de responsabilité professionnelle ;
 
 9° Un document justifiant d'une assurance ou d'un cautionnement garantissant la représentation des fonds détenus pour le compte d'autrui.
+
+NOTA:
+Décret n° 2012-120 du 30 janvier 2012 article 22 : Les dispositions du 4° du I et du 5° du II du présent article R. 131-1 concernant l'habilitation à diriger des ventes volontaires de meubles aux enchères publiques, entrent en vigueur le 1er janvier 2015.

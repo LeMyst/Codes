@@ -29,3 +29,6 @@ II. ‒ Lorsque le débiteur demande l'ouverture d'une procédure dont les effet
 2° Les sociétés de financement, les établissements de crédit et ceux assimilés sont ceux mentionnés à l'article L. 511-1 du code monétaire et financier, les institutions mentionnées à l'article L. 518-1 du même code, les établissements intervenant en libre établissement ou en libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen mentionnés au livre V du même code et toute autre entité auprès de laquelle le débiteur a conclu une opération de crédit ;
 
 3° Pour l'application du 5° de l'article R. 621-1, l'état chiffré des dettes distingue les dettes qui ne seront pas soumises aux effets de la procédure en cas d'ouverture et, parmi les autres, celles ayant fait l'objet d'une négociation dans le cadre de la procédure de conciliation en cours.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

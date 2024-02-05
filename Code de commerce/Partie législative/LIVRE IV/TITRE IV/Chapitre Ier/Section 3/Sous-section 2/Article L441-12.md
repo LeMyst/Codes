@@ -5,3 +5,6 @@ Par dérogation au I de l'article L. 441-10, le délai convenu entre les parties
 A défaut de stipulation expresse ou si les biens ne reçoivent pas la destination prévue au premier alinéa, les pénalités de retard mentionnées au II de l'article L. 441-10 sont exigibles.
 
 Le présent article n'est pas applicable aux achats effectués par les grandes entreprises.
+
+NOTA:
+Conformément à l’article 4 de l’ordonnance n° 2021-859 du 30 juin 2021, ces dispositions sont applicables à compter du 1er novembre 2021 aux contrats conclus après la publication de cette ordonnance. Les contrats en cours d'exécution à la date de publication de cette ordonnance sont mis en conformité avec les dispositions mentionnées ci-dessus dans un délai de douze mois à compter de cette date.

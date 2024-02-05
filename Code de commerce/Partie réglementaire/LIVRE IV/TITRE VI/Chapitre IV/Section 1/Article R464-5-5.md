@@ -13,3 +13,6 @@ IV.-Lorsque la Commission européenne a informé l'Autorité de la concurrence d
 V.-Le rapporteur général de l'Autorité de la concurrence peut fixer au demandeur un délai maximal pour le dépôt de sa demande complète ainsi que des éléments d'information correspondants.
 
 Lorsque le demandeur dépose sa demande complète dans le délai imparti, celle-ci est réputée avoir été déposée au moment du dépôt de la demande sommaire, pour autant que cette dernière porte sur les mêmes produits et les mêmes territoires et sur la même durée de la pratique en cause que la demande introduite auprès de la Commission européenne, qui peut avoir été mise à jour.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

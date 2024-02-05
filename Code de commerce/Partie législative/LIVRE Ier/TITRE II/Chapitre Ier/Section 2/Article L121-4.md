@@ -25,3 +25,6 @@ IV bis.-Une personne ne peut conserver le statut de conjoint collaborateur penda
 Au delà de cette durée, le conjoint continuant à exercer une activité professionnelle de manière régulière dans l'entreprise opte pour le statut de conjoint salarié ou de conjoint associé. A défaut, il est réputé avoir opté pour le statut de conjoint salarié.
 
 V.-La définition du conjoint collaborateur, les modalités des déclarations prévues au présent article et les autres conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

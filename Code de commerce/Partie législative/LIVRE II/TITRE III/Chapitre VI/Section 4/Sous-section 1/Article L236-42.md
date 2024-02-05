@@ -21,3 +21,6 @@ Lorsque cela est possible, le greffier autorise toutefois la société à régul
 IV.-Le certificat de conformité est partagé au moyen du système d'interconnexion des registres avec les autorités désignées par les Etats membres pour procéder au contrôle de légalité mentionné à l'article 128 de la directive (UE) du Parlement européen et du Conseil 2017/1132 du 14 juin 2017 relative à certains aspects du droit des sociétés.
 
 Le certificat de conformité est disponible au moyen du système d'interconnexion des registres et son accès est gratuit pour les autorités mentionnées au premier alinéa et pour les registres des Etats membres de l'Union européenne y participant.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

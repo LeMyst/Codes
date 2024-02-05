@@ -9,3 +9,6 @@ I. - Pour être inscrite sur la liste mentionnée au II de l'article L. 821-13, 
 3° Avoir réussi une épreuve portant sur la mission de certification d'informations en matière de durabilité.
 
 II. - Toutefois, les personnes physiques qui justifient être agréées, dans un Etat membre de l'Union européenne, pour effectuer une mission de certification d'informations en matière de durabilité peuvent être inscrites sur la liste mentionnée au II de l'article L. 821-13, sous réserve de réussir un examen d'aptitude.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

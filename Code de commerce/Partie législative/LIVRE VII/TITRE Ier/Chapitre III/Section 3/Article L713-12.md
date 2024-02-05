@@ -7,3 +7,6 @@ II. - Le nombre de sièges d'une chambre de commerce et d'industrie territoriale
 III. - Le nombre de sièges d'une chambre de commerce et d'industrie de région est fixé entre trente et cent vingt, dans des conditions fixées par décret en Conseil d'Etat.
 
 Chaque chambre de commerce et d'industrie territoriale, locale ou départementale d'Ile-de-France est représentée au sein de la chambre de commerce et d'industrie de région à laquelle elle est rattachée à due proportion de son poids économique. Lorsque le nombre de chambres de commerce et d'industrie territoriales, locales ou départementales d'Ile-de-France rattachées à une même chambre de commerce et d'industrie de région est égal à deux, il peut être dérogé à cette règle dans des conditions fixées par décret. Les élus d'une chambre de commerce et d'industrie territoriale assise sur deux régions, destinés à la représenter à l'échelon régional, peuvent être présents dans chacune des deux assemblées régionales au prorata des représentations des différentes composantes géographiques de cette chambre de commerce et d'industrie territoriale.
+
+NOTA:
+Conformément au VIII de l’article 40 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à compter de la fin du mandat des délégués consulaires élus au cours de l'année 2016.

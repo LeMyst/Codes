@@ -6,8 +6,7 @@ I. - Après l'expiration des délais fixés :
 
 2° Pour la confection du protêt faute d'acceptation ou faute de paiement ;
 
-3° Pour la présentation au paiement en cas de clause de retour sans frais,
-
+3° Pour la présentation au paiement en cas de clause de retour sans frais,\
 le porteur est déchu de ses droits contre les endosseurs, contre le tireur et contre les autres obligés, à l'exception de l'accepteur.
 
 II. - Toutefois, la déchéance n'a lieu à l'égard du tireur que s'il justifie qu'il a fait provision à l'échéance. Le porteur, en ce cas, ne conserve d'action que contre celui sur qui la lettre de change était tirée.

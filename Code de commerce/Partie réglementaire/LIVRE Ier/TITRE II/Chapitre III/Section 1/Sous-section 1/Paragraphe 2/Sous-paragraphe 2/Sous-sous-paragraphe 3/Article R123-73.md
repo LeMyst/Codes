@@ -7,3 +7,6 @@ Ce dernier procède d'office, dans le dossier en sa possession, soit à la radia
 Il notifie l'accomplissement de la formalité à la personne concernée par l'intermédiaire de l'organisme unique et au greffier du nouveau siège ou du nouvel établissement.
 
 En cas de transfert d'un établissement secondaire, le greffier du nouvel établissement procède à la notification prévue au 1° de l'article R. 123-71.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

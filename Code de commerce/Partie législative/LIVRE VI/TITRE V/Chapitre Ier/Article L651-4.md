@@ -5,3 +5,6 @@ Pour l'application des dispositions de l'article L. 651-2, d'office ou à la dem
 Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure conservatoire utile à l'égard des biens des dirigeants ou de leurs représentants visés à l'alinéa qui précède ou encore des biens de l'entrepreneur individuel à responsabilité limitée compris dans son patrimoine non affecté ou des biens, droits ou sûretés du patrimoine personnel de l'entrepreneur individuel relevant du statut défini à la même section 3. Il peut maintenir la mesure conservatoire ordonnée à l'égard des biens du dirigeant de droit ou de fait en application de l'article L. 631-10-1.
 
 Les dispositions du présent article sont également applicables aux personnes membres ou associées de la personne morale en procédure de sauvegarde, de redressement ou de liquidation judiciaire, lorsqu'elles sont responsables indéfiniment et solidairement de ses dettes.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

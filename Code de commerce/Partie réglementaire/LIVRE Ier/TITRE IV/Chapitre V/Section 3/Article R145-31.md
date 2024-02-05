@@ -5,3 +5,6 @@ Dès le dépôt du constat ou du rapport, le greffe avise les parties par lettre
 Le juge, en présence des parties ou celles-ci dûment convoquées, peut entendre l'expert ou l'auteur du constat pour lui demander les éclaircissements qu'il estime nécessaires.
 
 En cas de conciliation intervenue au cours d'une mesure d'instruction, le technicien commis constate que sa mission est devenue sans objet et en fait rapport au juge. Mention en est faite au dossier de l'affaire et celle-ci est retirée du rôle. Les parties peuvent demander au juge de donner force exécutoire à l'acte exprimant leur accord.
+
+NOTA:
+Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables aux instances introduites à compter du 1er janvier 2020.

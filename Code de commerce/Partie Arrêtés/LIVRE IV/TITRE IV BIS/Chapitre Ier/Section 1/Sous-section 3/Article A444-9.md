@@ -7,3 +7,6 @@ Les remises prévues au cinquième alinéa de l'article L. 444-2 sur les émolum
 2° 6 000 € pour les émoluments prévus à l'article A. 444-3.
 
 En application du IV de l'article R. 444-10, les prisées et aux ventes judiciaires réalisées dans le cadre d'un mandat de justice ne donnent pas lieu à la remise prévue au premier alinéa.
+
+NOTA:
+Conformément au 1° de l'article 10 de l’arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.

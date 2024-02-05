@@ -9,3 +9,6 @@ En cas de refus d'immatriculation ou d'inscription au Registre national des entr
 Un établissement est indiqué comme fermé lors de la cessation définitive de l'activité de cet établissement.
 
 Lors de l'indication de la cessation d'une unité légale inscrite, ses établissements sont indiqués comme fermés.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -7,3 +7,6 @@ Les remboursements forfaitaires de frais et débours sont régis par la sous-sec
 En application du II de l'article R. 743-142, les émoluments mentionnés au premier alinéa s'appliquent aux redevances perçues par les secrétariats greffes des tribunaux judiciaires intervenant en matière commerciale ou par ceux des tribunaux mixtes de commerce.
 
 Les émoluments applicables jusqu'au 29 février 2024 sont ceux qui sont prévus par la présente section.
+
+NOTA:
+Conformément à l'article 4 de l’arrêté du 23 février 2022 (NOR : ECOC2205580A), ces dispositions entrent en vigueur le 1er mars 2022.

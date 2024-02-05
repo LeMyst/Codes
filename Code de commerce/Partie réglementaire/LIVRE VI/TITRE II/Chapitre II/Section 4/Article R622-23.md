@@ -11,3 +11,6 @@ Outre les indications prévues à l'article L. 622-25, la déclaration de créan
 4° La date de la sûreté et les éléments de nature à prouver son existence, sa nature et son assiette, si cette sûreté n'a pas fait l'objet d'une publicité.
 
 A cette déclaration sont joints sous bordereau les documents justificatifs ; ceux-ci peuvent être produits en copie. A tout moment, le mandataire judiciaire peut demander la production de documents qui n'auraient pas été joints.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

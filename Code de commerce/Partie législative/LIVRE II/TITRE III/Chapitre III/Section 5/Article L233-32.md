@@ -9,3 +9,6 @@ L'assemblée générale peut déléguer cette compétence au conseil d'administr
 La délégation peut également prévoir la fixation de conditions relatives à l'obligation ou à l'interdiction, pour le conseil d'administration ou le directoire, de procéder à l'émission et à l'attribution gratuite de ces bons, d'y surseoir ou d'y renoncer. La société visée porte à la connaissance du public, avant la clôture de l'offre, son intention d'émettre ces bons.
 
 Les conditions d'exercice de ces bons, qui doivent être relatives aux termes de l'offre ou de toute offre concurrente éventuelle, ainsi que les autres caractéristiques de ces bons, dont le prix d'exercice ou les modalités de détermination de ce prix, sont fixées par l'assemblée générale ou, sur délégation de celle-ci, par le conseil d'administration ou le directoire. Ces bons deviennent caducs de plein droit dès que l'offre et toute offre concurrente éventuelle échouent, deviennent caduques ou sont retirées.
+
+NOTA:
+Le présent article est applicable aux offres publiques d'acquisition dont le dépôt intervient à compter du premier jour du quatrième mois suivant la promulgation de la présente loi.

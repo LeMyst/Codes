@@ -5,3 +5,6 @@ Le président de la chambre de métiers et de l'artisanat de région ou, par dé
 Lorsque le dossier est incomplet, le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental réclame dans ce délai les renseignements ou pièces manquants qui sont fournis dans un délai de quinze jours à compter de cette réclamation. A la réception de ces renseignements ou pièces, il procède à la validation dans le délai mentionné au premier alinéa.
 
 A défaut de régularisation du dossier dans les conditions indiquées à l'alinéa précédent, le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental prend une décision de refus de validation.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

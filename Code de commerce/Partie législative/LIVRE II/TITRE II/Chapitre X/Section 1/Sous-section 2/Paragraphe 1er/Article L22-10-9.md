@@ -27,3 +27,6 @@ I.-Les sociétés dont les actions sont admises aux négociations sur un marché
 II.- (Supprimé.)
 
 III.-Les modalités de la publicité des informations prévues au I du présent article ainsi que le traitement des données à caractère personnel sont fixés par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

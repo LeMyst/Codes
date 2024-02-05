@@ -11,3 +11,6 @@ Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux com
 Dans un délai de six mois à compter du déclenchement de la procédure, le commissaire aux comptes peut en reprendre le cours au point où il avait estimé pouvoir y mettre un terme lorsque, en dépit des éléments ayant motivé son appréciation, la continuité de l'exploitation demeure compromise et que l'urgence commande l'adoption de mesures immédiates.
 
 Les dispositions du présent article ne sont pas applicables lorsqu'une procédure de conciliation ou de sauvegarde a été engagée par le débiteur en application des articles L. 611-6 et L. 620-1.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

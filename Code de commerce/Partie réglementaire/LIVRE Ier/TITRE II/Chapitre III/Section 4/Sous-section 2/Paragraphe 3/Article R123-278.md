@@ -7,3 +7,6 @@ Le président de la chambre de métiers et de l'artisanat de région ou, par dé
 2° Pour les personnes morales, celles mentionnées au 2° de l'article R. 123-259, celles relatives à la description d'une activité principale ou secondaire lorsqu'elle relève du secteur des métiers et de l'artisanat et celles relatives à la revendication de la qualité de société coopérative artisanale régie par le titre Ier de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale.
 
 Le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental ne peut pas valider les informations déclarées et les pièces déposées ou procéder aux contrôles prévus lorsqu'il exerce la même activité que la personne concernée. Dans ce cas, le secrétaire général de la chambre le supplée.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

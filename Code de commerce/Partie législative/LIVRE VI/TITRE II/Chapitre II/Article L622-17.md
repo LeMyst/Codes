@@ -17,3 +17,6 @@ III.-Leur paiement se fait dans l'ordre suivant :
 Les apports de trésorerie mentionnés au 2° et les délais de paiement mentionnés au 3° sont autorisés par le juge-commissaire dans la limite nécessaire à la poursuite de l'activité pendant la période d'observation et font l'objet d'une publicité. En cas de résiliation d'un contrat régulièrement poursuivi, les indemnités et pénalités sont exclues du bénéfice du présent article.
 
 IV.-Les créances impayées perdent le privilège que leur confère le II du présent article si elles n'ont pas été portées à la connaissance de l'administrateur et, à défaut, du mandataire judiciaire ou, lorsque ces organes ont cessé leurs fonctions, du commissaire à l'exécution du plan ou du liquidateur, dans le délai d'un an à compter de la fin de la période d'observation. Lorsque cette information porte sur une créance déclarée pour le compte du créancier en application de l'article L. 622-24, elle rend caduque cette déclaration si le juge n'a pas statué sur l'admission de la créance.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

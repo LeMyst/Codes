@@ -17,3 +17,6 @@ f) Les personnes visées par la requête ont déjà été sanctionnées pour les
 g) Le respect de la règlementation applicable en matière de protection des données personnelles n'est pas assuré.
 
 Le président de la Haute autorité ou le rapporteur général peut également refuser de donner suite à une demande d'information, de documents ou d'assistance lorsqu'une procédure civile ou une procédure de sanction a déjà été engagée en France sur la base des mêmes faits et contre les mêmes personnes.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

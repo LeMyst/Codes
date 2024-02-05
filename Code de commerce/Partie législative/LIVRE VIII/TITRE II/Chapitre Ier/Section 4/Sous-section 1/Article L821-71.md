@@ -39,3 +39,6 @@ III.-Les sanctions prévues au 3° du I et au 3° du II peuvent être assorties 
 IV.-Les sanctions prévues aux 1°, 2° et 3° du I et aux 2° et 3° du II peuvent être assorties de la sanction complémentaire de l'inéligibilité aux organismes professionnels pendant dix ans au plus.
 
 V.-En cas de manquement aux dispositions des sections 3 à 6 du chapitre Ier du titre VI du livre V du code monétaire et financier, les commissaires aux comptes peuvent faire l'objet d'une injonction de cesser le comportement constitutif du manquement.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

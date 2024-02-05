@@ -13,3 +13,6 @@ Le montant de l'impôt sur les bénéfices dû correspond à la charge d'impôt 
 Le montant de l'impôt sur les bénéfices acquitté sur la base des règlements effectifs correspond au montant de l'impôt sur les bénéfices payé au cours de l'exercice concerné par les sociétés et succursales dans la juridiction fiscale concernée. Ce montant inclut les retenues à la source payées par d'autres sociétés concernant des paiements reçus par les sociétés et succursales du groupe.
 
 Le montant des bénéfices non distribués correspond à la somme, à la fin de l'exercice concerné, des bénéfices des exercices passés et de l'exercice concerné dont la distribution n'a pas encore été décidée. En ce qui concerne les succursales, les bénéfices non distribués sont ceux de la société dont elles émanent.
+
+NOTA:
+Conformément à l’article 3 de l’arrêté du 24 juillet 2023 (NOR : ECOT2319571A), ces dispositions s'appliquent aux exercices ouverts à compter du 22 juin 2024.

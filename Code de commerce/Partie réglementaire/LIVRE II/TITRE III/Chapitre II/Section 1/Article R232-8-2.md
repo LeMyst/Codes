@@ -27,3 +27,6 @@ Les informations relatives aux juridictions mentionnées aux 2° et 3° du II ne
 Les informations omises sont publiées dans un rapport ultérieur, au plus tard cinq ans après leur omission.
 
 VI. - Le rapport peut contenir un exposé général donnant des explications sur les éventuelles discordances importantes entre les montants publiés conformément aux 6° et 7° du II de l'article L. 232-6 en tenant compte, s'il y a lieu, des montants correspondants concernant les exercices précédents.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-493 du 22 juin 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 22 juin 2024.

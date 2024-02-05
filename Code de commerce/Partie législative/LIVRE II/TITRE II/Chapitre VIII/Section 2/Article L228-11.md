@@ -9,3 +9,6 @@ Les actions de préférence sans droit de vote ne peuvent représenter plus de l
 Toute émission ayant pour effet de porter la proportion au-delà de cette limite peut être annulée.
 
 Par dérogation aux articles L. 225-132 et L. 228-91, les actions de préférence auxquelles est attaché un droit limité de participation aux dividendes, aux réserves ou au partage du patrimoine en cas de liquidation sont privées de droit préférentiel de souscription pour toute augmentation de capital en numéraire, sous réserve de stipulations contraires des statuts.
+
+NOTA:
+Conformément au II de l’article 100 de la loi n° 2019-486 du 22 mai 2019, ces dispositions sont applicables aux actions de préférence émises à compter de la publication de la présente loi.

@@ -11,3 +11,6 @@ III.-A l'issue des mandats mentionnés aux I et II, la Haute autorité de l'audi
 IV.-L'organisme tiers indépendant ou, le cas échéant, un membre de son réseau au sein de l'Union européenne ne peut accepter de mandat auprès de l'entité d'intérêt public pour laquelle il a procédé à la certification des informations en matière de durabilité avant l'expiration d'une période de quatre ans suivant la fin de son mandat.
 
 V.-Pour l'application du présent article la durée de la mission est calculée conformément aux prescriptions du même article 17. La Haute autorité peut être saisie par tout organisme tiers indépendant d'une question relative à la détermination de la date de départ du mandat initial.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

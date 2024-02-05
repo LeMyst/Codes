@@ -15,3 +15,8 @@ Les statuts satisfont aux prescriptions des articles 8, 11, 14, 15, 19, 20 et 24
 6° Le nombre des parts d'intérêts attribuées à chaque apporteur en industrie ;
 
 7° L'affirmation de la libération totale ou partielle, selon le cas, des apports concourant à la formation du capital social.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.
+
+Conformément à l'article 25 du décret n° 2023-1394 du 30 décembre 2023, cette rédaction s'applique jusqu'au 1er septembre 2024.

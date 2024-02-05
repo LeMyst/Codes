@@ -13,3 +13,6 @@ Le contrôleur de stage ou les contrôleurs adjoints réunissent les stagiaires 
 La convocation aux réunions est adressée au stagiaire trois semaines au moins à l'avance. Le maître de stage est également avisé de cette convocation. La présence des stagiaires à ces réunions est obligatoire, sauf empêchement dûment justifié.
 
 Les contrôleurs de stage font un compte rendu annuel de leur activité au conseil régional et au contrôleur national de stage.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

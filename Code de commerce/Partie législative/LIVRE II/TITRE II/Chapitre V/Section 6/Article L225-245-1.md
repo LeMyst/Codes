@@ -7,3 +7,6 @@ La société établit un projet de transformation de la société en société e
 Un ou plusieurs commissaires à la transformation désignés par décision de justice établissent sous leur responsabilité un rapport destiné aux actionnaires de la société se transformant attestant que la société dispose d'actifs nets au moins équivalents au capital augmenté des réserves que la loi ou les statuts ne permettent pas de distribuer. Ils sont soumis aux incompatibilités prévues à l'article L. 821-31.
 
 La transformation en société européenne est décidée selon les dispositions prévues aux articles L. 225-96 et L. 225-99.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

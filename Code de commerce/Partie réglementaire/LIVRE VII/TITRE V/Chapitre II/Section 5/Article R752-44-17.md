@@ -13,3 +13,6 @@ Cette mise en demeure interrompt le délai mentionné au premier alinéa et vaut
 L'ouverture au public malgré cette interdiction, constitue une exploitation illicite au sens du II de l'article L. 752-23, passible des mesures et sanctions prévues à ce titre.
 
 En cas d'exploitation illicite révélée postérieurement au délai de deux mois prévu par cet article ou lorsque ce délai n'a pas couru, les dispositions du présent article ne font pas obstacle à la mise en œuvre des mesures et sanctions applicables.
+
+NOTA:
+Conformément au II de l'article 7 du décret n° 2019-563 du 7 juin 2019, ces dispositions s'appliquent aux équipements commerciaux dont l'autorisation d'exploitation commerciale intervient à compter du 1er janvier 2020 ou, pour les projets relevant de l'article L. 752-1-1, dont l'ouverture au public est prévue à compter de cette même date.

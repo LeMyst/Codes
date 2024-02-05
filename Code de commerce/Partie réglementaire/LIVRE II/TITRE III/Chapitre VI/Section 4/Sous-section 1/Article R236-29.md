@@ -21,3 +21,6 @@ Chaque société participant à la fusion transfrontalière remet au greffier ch
 9° Les informations relatives au respect des engagements de la société envers les organismes publics ;
 
 10° Un document attestant que les sociétés qui fusionnent ont approuvé le projet de fusion dans les mêmes termes et que les modalités relatives à la participation des salariés ont été fixées conformément au titre VII du livre III de la deuxième partie du code du travail.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

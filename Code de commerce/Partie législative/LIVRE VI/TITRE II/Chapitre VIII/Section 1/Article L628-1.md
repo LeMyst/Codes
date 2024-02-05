@@ -9,3 +9,6 @@ Sans préjudice de l'article L. 628-6, lorsque les comptes du débiteur font app
 La procédure ne peut être ouverte qu'à l'égard d'un débiteur dont les comptes ont été certifiés par un commissaire aux comptes ou établis par un expert-comptable.
 
 La circonstance que le débiteur soit en cessation des paiements ne fait pas obstacle à l'ouverture de la procédure de sauvegarde accélérée si cette situation ne précède pas depuis plus de quarante-cinq jours la date de la demande d'ouverture de la procédure de conciliation préalable.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

@@ -11,3 +11,6 @@ II.-Lorsqu'il est fait application du dernier alinéa de l'article L. 236-48, le
 1° La répartition envisagée, au bénéfice des associés de la société qui apporte une partie de son actif, des actions ou des parts soit des sociétés bénéficiaires, soit de la société qui apporte une partie de son actif, soit à la fois des sociétés bénéficiaires et de la société qui apporte une partie de son actif, attribuées en contrepartie de l'apport, ainsi que les critères sur lesquels cette répartition est fondée ;
 
 2° Si l'attribution mentionnée au 1° est réalisée soit par réduction de capital soit par imputation sur les capitaux propres de la société qui apporte une partie de son actif. Dans ce dernier cas, le projet précise les modalités comptables de l'opération.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

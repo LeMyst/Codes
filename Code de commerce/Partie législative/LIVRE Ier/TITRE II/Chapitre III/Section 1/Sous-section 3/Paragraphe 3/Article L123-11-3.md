@@ -51,3 +51,6 @@ b) A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
 4° N'avoir pas été l'auteur de faits ayant donné lieu, depuis moins de cinq ans, à une sanction disciplinaire ou administrative de retrait de l'agrément de l'activité de domiciliation ;
 
 5° N'avoir pas été frappé de faillite personnelle ou de l'une des mesures d'interdiction ou de déchéance prévues au livre VI du présent code.
+
+NOTA:
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du 1er janvier 2020.

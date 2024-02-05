@@ -11,3 +11,6 @@ II. - Lorsque le débiteur est une personne morale, un mandataire peut être dé
 III.-Lorsque le débiteur est une personne physique, il ne peut exercer, au cours de la liquidation judiciaire, aucune des activités mentionnées au premier alinéa de l'article L. 640-2. Toutefois, le débiteur entrepreneur individuel à responsabilité limitée peut poursuivre l'exercice d'une ou de plusieurs de ces activités, si celles-ci engagent un patrimoine autre que celui visé par la procédure.
 
 IV. - Lorsque le débiteur relève du statut défini à la section 3 du chapitre VI du titre II du livre V, les conditions d'exercice d'une nouvelle activité mentionnée au premier alinéa de l'article L. 640-2 sont définies au titre VIII bis du présent livre.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

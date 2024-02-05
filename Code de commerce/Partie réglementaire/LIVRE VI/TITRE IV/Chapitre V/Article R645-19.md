@@ -9,3 +9,6 @@ Le greffier procède d'office à ces publicités dans les quinze jours de la dat
 Toutefois, en cas d'appel du ministère public en application du dernier alinéa de l'article R. 661-1 ou en cas d'arrêt de l'exécution provisoire ordonnée en vertu du quatrième alinéa de l'article R. 661-1, ces publicités ne sont effectuées par le greffier du tribunal qu'au vu de l'arrêt de la cour d'appel qui lui est transmis par le greffier de cette cour dans les huit jours de son prononcé.
 
 Un avis est également adressé pour insertion dans les registres prévus aux quatre premiers alinéas de l'article R. 621-8 .
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

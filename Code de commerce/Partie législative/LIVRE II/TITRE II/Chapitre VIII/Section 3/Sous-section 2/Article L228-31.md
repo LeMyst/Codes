@@ -11,3 +11,6 @@ Le montant de l'indemnisation revenant aux détenteurs non identifiés est consi
 La reconstitution s'opère par la cession aux porteurs de certificats d'investissement, à titre gratuit, des certificats de droits de vote correspondants.
 
 A cet effet, la société peut demander l'identification des porteurs de certificats, même en l'absence de disposition statutaire expresse, selon les modalités prévues par l'article L. 228-2.
+
+NOTA:
+(1) : L'article 283-1-1 de la loi n° 66-537 du 24 juillet 1966 n'a pas été repris par l'ordonnance n° 2000-912 du 18 septembre 2000.

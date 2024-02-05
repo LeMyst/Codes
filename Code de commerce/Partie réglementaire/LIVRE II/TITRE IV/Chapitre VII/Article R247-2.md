@@ -15,3 +15,6 @@ Le fait de servir d'intermédiaire à l'occasion de la cession de valeurs mobili
 En cas de récidive, l'amende applicable est celle prévue par le 5° de l'article 131-13 du code pénal pour la récidive des contraventions de la cinquième classe.
 
 Les dispositions du présent article ne sont pas applicables aux offres au public mentionnées au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

@@ -9,3 +9,6 @@ Les parties à l'instance, les tiers et leurs représentants légaux peuvent êt
 3° Le non-respect des obligations imposées par une injonction du juge protégeant des informations confidentielles ou le refus de s'y conformer.
 
 Le juge peut également tirer toute conséquence de fait ou de droit au préjudice de la partie ayant été à l'origine de l'un quelconque des comportements mentionnés au présent article.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2017-305 du 9 mars 2017, ces dispositions sont applicables aux instances introduites à compter du 26 décembre 2014.

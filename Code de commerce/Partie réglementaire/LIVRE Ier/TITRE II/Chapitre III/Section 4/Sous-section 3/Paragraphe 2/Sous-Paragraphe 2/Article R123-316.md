@@ -7,3 +7,6 @@ Le teneur du Registre national des entreprises procède à la radiation de toute
 2° Au terme du délai d'un an après la mention au registre de la cessation totale de son activité, sauf en ce qui concerne les personnes morales pouvant faire l'objet d'une dissolution ;
 
 3° Au terme du délai d'un mois après la mention de demande de régularisation en application de l'article R. 123-308, lorsque la personne physique n'a pas régularisé sa situation.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

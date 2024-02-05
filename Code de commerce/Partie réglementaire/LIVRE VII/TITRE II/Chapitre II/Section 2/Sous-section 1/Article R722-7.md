@@ -7,3 +7,6 @@ Lorsque le siège du tribunal de commerce n'est pas établi au siège de la cour
 Il est dressé procès-verbal de la réception du serment.
 
 Le mandat des juges consulaires commence le 1er janvier de l'année civile suivant leur élection et s'achève le 31 décembre de l'année civile suivant l'élection de leur successeur.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

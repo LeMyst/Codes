@@ -201,3 +201,6 @@ Documentation
 44. Lorsque le commissaire aux comptes identifie un changement dans les faits et circonstances qui ont prévalu à l'analyse menée en vue de l'acceptation de la réalisation de la mission ou de la prestation, il le consigne dans son dossier et, lorsque ce changement remet en cause son analyse initiale, il actualise les éléments mentionnés au paragraphe 43.
 
 01. La forme et le niveau de détail de la documentation sont proportionnés et dépendent de chaque situation.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -5,3 +5,6 @@ Les investigations prévues à l'article L. 822-26 peuvent être menées auprès
 L'organisme tiers indépendant peut également recueillir toutes informations utiles à l'exercice de sa mission auprès des tiers qui ont accompli des opérations pour le compte de la personne ou de l'entité. Toutefois, ce droit d'information ne peut s'étendre à la communication des pièces, contrats et documents quelconques détenus par des tiers, à moins que cette communication ne soit autorisée par une décision de justice.
 
 Le secret professionnel ne peut être opposé à l'organisme tiers indépendant dans le cadre de sa mission, sauf par les auxiliaires de justice.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

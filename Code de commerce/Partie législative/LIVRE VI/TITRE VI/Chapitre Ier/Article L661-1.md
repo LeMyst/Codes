@@ -23,3 +23,6 @@ I.-Sont susceptibles d'appel ou de pourvoi en cassation :
 II.-L'appel du ministère public est suspensif, à l'exception de celui portant sur les décisions statuant sur l'ouverture de la procédure de sauvegarde ou de redressement judiciaire.
 
 III.-En l'absence de comité social et économique, le représentant des salariés exerce les voies de recours ouvertes à ces institutions par le présent article.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

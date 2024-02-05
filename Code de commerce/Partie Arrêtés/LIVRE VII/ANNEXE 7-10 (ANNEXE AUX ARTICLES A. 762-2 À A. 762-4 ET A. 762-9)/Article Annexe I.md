@@ -2,12 +2,9 @@
 
 (ANNEXE À L'ARTICLE A. 762-2)
 
-FORMULAIRE DE DEMANDE D'ENREGISTREMENT D'UN PARC D'EXPOSITION
-(Articles L. 762-1 et R. 762-1 du code de commerce)
+FORMULAIRE DE DEMANDE D'ENREGISTREMENT D'UN PARC D'EXPOSITION (Articles L. 762-1 et R. 762-1 du code de commerce)
 
-**Identification du parc d'exposition**
-
-Dénomination (2) :
+**Identification du parc d'exposition** Dénomination (2) :
 
 Sigle (1) (2) :
 

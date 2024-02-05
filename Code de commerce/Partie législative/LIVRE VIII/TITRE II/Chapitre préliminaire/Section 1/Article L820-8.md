@@ -5,3 +5,6 @@ I. - Sous réserve des dispositions prévues à l'article L. 820-22 du présent 
 Ce secret n'est pas opposable à l'autorité judiciaire.
 
 II. - Le secret professionnel n'est pas opposable à la Haute autorité et à ses services dans l'exercice de leurs missions, sauf par les auxiliaires de justice.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

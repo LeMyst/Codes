@@ -13,3 +13,6 @@ La commission d'examen des pratiques commerciales est composée d'un député et
 5° Deux représentants de l'administration : le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur général de la performance économique et environnementale des entreprises, ou leurs représentants ;
 
 Les membres mentionnés aux 1° à 4° sont nommés pour trois ans par arrêté conjoint du ministre chargé de l'économie et du ministre chargé du commerce.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-483 du 4 avril 2022, le mandat du membre mentionné au 4° de l'article D. 440-2 du code de commerce nommé à compter de l'entrée en vigueur du présent décret prend fin en même temps que le mandat des autres membres.

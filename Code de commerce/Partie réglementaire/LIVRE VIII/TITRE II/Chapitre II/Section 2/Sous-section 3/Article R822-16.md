@@ -45,3 +45,6 @@ k) Des procédures appropriées pour garantir que ses salariés ou toute autre p
 5° Conserver pendant une durée d'au moins six ans une mention de tous les manquements à la réglementation applicable à la mission, à l'exception des manquements mineurs, et de leurs conséquences ainsi que des mesures prises pour y remédier. Ces mesures font l'objet d'un rapport annuel communiqué aux personnes appropriées au sein de la structure. Lorsque l'organisme tiers indépendant demande conseil à des tiers, il conserve une copie de cette demande et de la réponse obtenue ;
 
 6° Conserver toute réclamation écrite portant sur la réalisation d'une mission de certification des informations en matière de durabilité pendant un délai de six ans.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

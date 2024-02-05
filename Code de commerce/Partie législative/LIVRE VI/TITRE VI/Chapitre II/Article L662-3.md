@@ -5,3 +5,6 @@ Les débats devant le tribunal de commerce et le tribunal judiciaire ont lieu en
 Par dérogation aux dispositions du premier alinéa, les débats relatifs aux mesures prises en application des chapitres Ier et III du titre V ont lieu en audience publique. Le président du tribunal peut décider qu'ils ont lieu en chambre du conseil si l'une des personnes mises en cause le demande avant leur ouverture.
 
 Le tribunal peut entendre toute personne dont l'audition lui paraît utile, et notamment, il peut entendre le représentant de l'Etat à sa demande.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

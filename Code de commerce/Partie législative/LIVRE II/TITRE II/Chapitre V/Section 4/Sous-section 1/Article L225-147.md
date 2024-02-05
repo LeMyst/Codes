@@ -9,3 +9,6 @@ Si l'assemblée approuve l'évaluation des apports et l'octroi d'avantages parti
 Si l'assemblée réduit l'évaluation des apports ainsi que la rémunération d'avantages particuliers, l'approbation expresse des modifications par les apporteurs, les bénéficiaires ou leurs mandataires dûment autorisés à cet effet, est requise. A défaut, l'augmentation du capital n'est pas réalisée.
 
 Les titres de capital émis en rémunération d'un apport en nature sont intégralement libérés dès leur émission.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

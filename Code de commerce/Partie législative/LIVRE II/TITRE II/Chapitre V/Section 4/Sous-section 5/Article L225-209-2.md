@@ -31,3 +31,6 @@ Les commissaires aux comptes, s'il en existe, présentent à l'assemblée géné
 Les actions rachetées peuvent être annulées dans la limite de 10 % du capital de la société par périodes de vingt-quatre mois. En cas d'annulation des actions achetées, la réduction de capital est autorisée ou décidée par l'assemblée générale extraordinaire qui peut déléguer au conseil d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser.
 
 Par dérogation aux dispositions du dixième alinéa, les actions rachetées mais non utilisées peuvent, sur décision de l'assemblée générale ordinaire, être utilisées pour une autre des finalités prévues au présent article.
+
+NOTA:
+Conformément au II de l’article 20 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent à compter du premier exercice clos postérieurement à la publication du décret mentionné aux articles L. 225-218, L. 226-6 et L. 823-2-2 du code de commerce dans leur rédaction résultant du présent article, et au plus tard le 1er septembre 2019.

@@ -11,3 +11,6 @@ En cas de demande additionnelle formée par un organisme destinataire ou une aut
 Lorsqu'il doit transmettre des actes authentiques ou actes sous seing privé en original, le déclarant joint au dossier défini à l'article R. 123-3 du présent code une copie numérisée des pièces concernées, et dépose les originaux, accompagnés d'une édition de l'accusé de réception électronique, aux organismes ou aux autorités concernés.
 
 L'organisme unique informe le déclarant des décisions prises par les organismes ou autorités, telles qu'elles lui sont communiquées.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

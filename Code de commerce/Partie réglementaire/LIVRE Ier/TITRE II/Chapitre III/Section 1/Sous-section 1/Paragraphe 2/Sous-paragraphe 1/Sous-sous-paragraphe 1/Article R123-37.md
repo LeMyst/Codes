@@ -21,3 +21,6 @@ Dans sa demande d'immatriculation, la personne physique déclare :
 9° Le cas échéant, qu'elle est autorisée à être commerçant en application de l'article L. 121-2 ;
 
 10° Les références des immatriculations secondaires éventuellement souscrites et, le cas échéant, des établissements principaux ou secondaires situés et immatriculés dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen. En outre, la personne peut déclarer les mentions relatives à l'adresse et à l'activité principale de ces établissements sur présentation des justificatifs définis par l'arrêté prévu à l'article R. 123-166.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

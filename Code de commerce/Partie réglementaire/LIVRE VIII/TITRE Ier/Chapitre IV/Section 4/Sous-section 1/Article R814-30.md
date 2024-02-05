@@ -7,3 +7,6 @@ Le commissaire aux comptes fait parvenir, avant le 15 mars et le 15 septembre de
 Cette attestation indique le montant des fonds, effets, titres et autres valeurs détenus par catégorie de mission et par établissement de crédit et mentionne toute anomalie ou irrégularité constatée.
 
 Tout professionnel faisant l'objet d'une décision de retrait de la liste professionnelle, pour quelque motif que ce soit, en avise sans délai le commissaire aux comptes qu'il a désigné conformément à l'article R. 814-29. Celui-ci, dans le délai d'un mois à compter de la réception de cet avis, remet aux autorités mentionnées au deuxième alinéa une attestation de vérification de la comptabilité spéciale, établie au jour de la cessation des fonctions.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

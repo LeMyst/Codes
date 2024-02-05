@@ -29,3 +29,6 @@ g) Pour les administrateurs et les personnes chargées du contrôle de la gestio
 h) Les références des immatriculations secondaires éventuellement souscrites et, le cas échéant, des établissements principaux ou secondaires situés et immatriculés dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. En outre, la personne morale peut déclarer les mentions relatives à l'adresse et à l'activité principale de ces établissements sur présentation des justificatifs définis par l'arrêté prévu à l'article R. 123-166 ;
 
 2° En ce qui concerne l'activité et l'établissement, les renseignements prévus à l'article R. 123-38, exception faite de son 8°, s'il s'agit d'un groupement à objet non commercial.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

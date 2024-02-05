@@ -7,3 +7,6 @@ Elles cessent d'être assujetties à cette obligation lorsqu'elles ne remplissen
 Les salariés pris en compte sont les salariés permanents liés à la société et aux sociétés dont cette dernière détient directement ou indirectement plus de la moitié du capital. L'effectif est déterminé conformément aux dispositions de l'article D. 210-21.
 
 Le montant net du chiffre d'affaires est égal au montant des ventes de produits et services liés à l'activité courante diminué des réductions sur ventes, de la taxe sur la valeur ajoutée et des taxes assimilées.
+
+NOTA:
+Conformément à l’article 15 du décret n° 2020-100 du 7 février 2020, les dispositions s'appliquent à compter du premier exercice ouvert à compter de son entrée en vigueur.

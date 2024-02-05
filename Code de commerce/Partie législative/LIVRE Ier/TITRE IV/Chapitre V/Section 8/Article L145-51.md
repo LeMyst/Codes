@@ -5,3 +5,6 @@ Lorsque le locataire ayant demandé à bénéficier de ses droits à la retraite
 La nature des activités dont l'exercice est envisagé doit être compatible avec la destination, les caractères et la situation de l'immeuble.
 
 Les dispositions du présent article sont applicables à l'associé unique d'une entreprise unipersonnelle à responsabilité limitée, ou au gérant majoritaire depuis au moins deux ans d'une société à responsabilité limitée, lorsque celle-ci est titulaire du bail.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

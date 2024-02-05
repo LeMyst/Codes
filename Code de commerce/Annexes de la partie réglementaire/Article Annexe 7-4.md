@@ -6,15 +6,9 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 |  |  |  |
 | --- | --- | --- |
-| DÉPARTEMENTS | SIÈGE DE LA CHAMBRE COMMERCIALE
-du tribunal judiciaire | NOMBRE D'ASSESSEURS
-de la chambre commerciale
-du tribunal judiciaire |
-|\
-Cour d'appel de Colmar |
-|\
-Bas-Rhin |\
-Saverne | 8 |
+| DÉPARTEMENTS | SIÈGE DE LA CHAMBRE COMMERCIALE du tribunal judiciaire | NOMBRE D'ASSESSEURS de la chambre commerciale du tribunal judiciaire |
+| Cour d'appel de Colmar |
+| Bas-Rhin | Saverne | 8 |
 | Strasbourg | 32 |
 | Haut-Rhin | Colmar | 12 |
 | Mulhouse | 22 |
@@ -27,14 +21,12 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 
 |  |  |  |
 | --- | --- | --- |
-| DÉPARTEMENTS | SIÈGE DU TRIBUNAL MIXTE
-de commerce | NOMBRE DE JUGES ÉLUS
-du tribunal mixte de commerce |
+| DÉPARTEMENTS | SIÈGE DU TRIBUNAL MIXTE de commerce | NOMBRE DE JUGES ÉLUS du tribunal mixte de commerce |
 | Cour d'appel de Basse-Terre |
 | Guadeloupe | Basse-Terre | 5 |
 | Pointe-à-Pitre | 12 |
 | Cour d'appel de Cayenne |
-| GuyaneCayenne |   | 8 |
+| GuyaneCayenne |  | 8 |
 | Cour d'appel de Fort-de-France |
 | Martinique | Fort-de-France | 15 |
 | Cour d'appel de Saint-Denis de La Réunion |

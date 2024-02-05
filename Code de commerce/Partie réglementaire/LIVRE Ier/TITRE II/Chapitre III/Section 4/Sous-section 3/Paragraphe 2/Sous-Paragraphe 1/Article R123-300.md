@@ -11,3 +11,6 @@ Pour les procédures ouvertes à compter du 1er janvier 2006, les informations s
 4° Les jugements ayant décidé que les dettes de la personne morale seront supportées en tout ou partie par les dirigeants de celle-ci ou certains d'entre eux en application de l'article L. 651-2, en cas de paiement par ceux-ci du passif mis à leur charge ;
 
 5° Les jugements prononçant la faillite personnelle ou l'interdiction prévue à l'article L. 653-8 en cas de clôture pour extinction du passif, relèvement total des déchéances ou amnistie.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

@@ -20,11 +20,13 @@ b) Les emplois ou fonctions occupés dans la société par les candidats et le n
 
 a) Les comptes annuels, les comptes consolidés, le rapport sur la gestion du groupe, un tableau des affectations de résultat précisant notamment l'origine des sommes dont la distribution est proposée ;
 
-b) Les rapports des commissaires aux comptes prévus au troisième alinéa des articles L. 225-40 et L. 225-88 et aux articles L. 232-3,
-L. 234-1 et R. 823-7 ;
+b) Les rapports des commissaires aux comptes prévus au troisième alinéa des articles L. 225-40 et L. 225-88 et aux articles L. 232-3, L. 234-1 et R. 823-7 ;
 
 c) Les observations du conseil de surveillance, s'il y a lieu ;
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article L. 225-101, le rapport des commissaires mentionnés audit article ;
 
 8° S'il s'agit d'une assemblée générale extraordinaire ou d'une assemblée spéciale prévue à l'article L. 225-99, le rapport des commissaires aux comptes, qui sera, le cas échéant, présenté à l'assemblée.
+
+NOTA:
+Décret n° 2010-1619 du 23 décembre 2010 art 13 : Les présentes dispositions s'appliquent aux assemblées tenues à compter du 1er janvier 2011.

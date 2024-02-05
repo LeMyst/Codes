@@ -11,3 +11,6 @@ Ces ordonnances peuvent faire l'objet d'un recours devant le tribunal dans les d
 Le ministère public peut également saisir le tribunal par requête motivée, dans les dix jours de la communication qui lui est faite de l'ordonnance.
 
 L'examen du recours est fixé à la première audience utile du tribunal, les intéressés et les mandataires de justice étant avisés.
+
+NOTA:
+Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur le 1er janvier 2020 et sont applicable aux instances en cours.

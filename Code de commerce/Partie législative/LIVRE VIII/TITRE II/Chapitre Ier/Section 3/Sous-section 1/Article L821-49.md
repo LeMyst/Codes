@@ -7,3 +7,6 @@ Les dispositions de l'alinéa précédent sont applicables, en ce qui concerne l
 Une divergence d'appréciation sur un traitement comptable, sur un élément d'information en matière de durabilité ou sur une procédure de contrôle ne peut constituer un motif fondé de récusation.
 
 S'il est fait droit à la demande, un nouveau commissaire aux comptes est désigné en justice. Sa mission prend fin à l'occasion de la désignation du nouveau commissaire aux comptes par l'assemblée ou l'organe compétent.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

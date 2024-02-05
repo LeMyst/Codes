@@ -19,3 +19,6 @@ Pour être inscrite sur cette liste, une personne physique doit remplir les cond
 7° Avoir subi avec succès l'épreuve portant sur la mission de certification d'informations en matière de durabilité mentionnée au 3° du I de l'article L. 821-18 ;
 
 Par dérogation aux 1°, 5°, 6° et 7° du présent article, les personnes physiques qui justifient être agréées, dans un Etat membre de l'Union européenne, à effectuer une mission de certification des informations en matière de durabilité, peuvent être inscrites sur la liste mentionnée au premier alinéa, sous réserve de réussir un examen d'aptitude.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

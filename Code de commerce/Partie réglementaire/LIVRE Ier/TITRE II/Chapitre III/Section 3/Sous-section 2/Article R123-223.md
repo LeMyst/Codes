@@ -17,3 +17,6 @@ Sont également portés au répertoire les renseignements suivants :
 7° L'indication, pour chaque établissement, des références du précédent exploitant en cas de reprise et celles du repreneur éventuel en cas de fermeture, ainsi que de son éventuelle qualification économique, y compris pour les établissements d'unités légales distinctes, tels qu'établis par l'Institut national de la statistique et des études économiques ;
 
 8° Pour chaque établissement, ses identifiants géographiques et ses coordonnées topographiques, selon les modalités prévues à l'article R. 123-234-2.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

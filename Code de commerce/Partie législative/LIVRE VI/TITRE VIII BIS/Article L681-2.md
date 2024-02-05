@@ -27,3 +27,6 @@ Le débiteur ne peut constituer plus de deux patrimoines distincts de son patrim
 La faculté d'exercer une nouvelle activité professionnelle dans les conditions prévues au premier alinéa du présent VII ne s'applique pas au débiteur qui, au titre de l'un quelconque de ses patrimoines, a fait l'objet, depuis moins de cinq ans, d'une procédure de liquidation judiciaire clôturée pour insuffisance d'actif ou d'une décision de clôture d'une procédure de rétablissement professionnel.
 
 En cas de scission du patrimoine professionnel prévue au présent VII, le jugement de liquidation judiciaire emporte interdiction de toute opération entraînant une diminution de l'actif du patrimoine faisant l'objet de la procédure au profit de toute autre activité exercée par le débiteur.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

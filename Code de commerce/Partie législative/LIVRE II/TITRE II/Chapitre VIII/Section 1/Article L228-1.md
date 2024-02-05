@@ -17,3 +17,6 @@ Toutefois, lorsque des titres de capital ou des obligations de la société ont 
 L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprès soit de la société émettrice, soit de l'intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier qui tient le compte-titres, de déclarer, dans les conditions fixées par décret, sa qualité d'intermédiaire détenant des titres pour le compte d'autrui.
 
 En cas de cession de valeurs mobilières admises aux opérations d'un dépositaire central ou livrées dans un système de règlement et de livraison mentionné à l'article L. 330-1 du code monétaire et financier, le transfert de propriété s'effectue dans les conditions prévues à l'article L. 211-17 de ce code. Dans les autres cas, le transfert de propriété résulte de l'inscription des valeurs mobilières au compte de l'acheteur ou dans un dispositif d'enregistrement électronique partagé, dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au V de l'article 198 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 10 juin 2019.

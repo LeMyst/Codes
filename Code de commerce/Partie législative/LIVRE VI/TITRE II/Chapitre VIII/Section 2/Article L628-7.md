@@ -9,3 +9,6 @@ Le dépôt de la liste au greffe du tribunal vaut déclaration au nom des partie
 L'actualisation des créances mentionnées sur la liste déposée est faite dans le délai prévu par le premier alinéa de l'article L. 622-24.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

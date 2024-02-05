@@ -9,3 +9,6 @@ Tant que la procédure concernée n'est pas close par une décision adoptée par
 3° Un exposé écrit ou une transcription ou citation littérale d'un exposé écrit ou oral, mentionné au 2° de l'article L. 483-5, lorsque la personne mentionnée à l'article L. 481-1 auteur de l'exposé s'est retirée unilatéralement de la procédure.
 
 Le juge écarte des débats les pièces mentionnées aux 1° à 3° qui seraient produites ou communiquées par les parties alors que la procédure concernée n'est pas close lorsque ces pièces ont été obtenues uniquement grâce à l'accès au dossier d'une autorité de concurrence.
+
+NOTA:
+Conformément au I de l'article 12 de l'ordonnance n° 2017-303 du 9 mars 2017 les dispositions des quatre premiers alinéas du présent article sont applicables aux instances introduites devant les juridictions administratives et judiciaires à compter du 26 décembre 2014.

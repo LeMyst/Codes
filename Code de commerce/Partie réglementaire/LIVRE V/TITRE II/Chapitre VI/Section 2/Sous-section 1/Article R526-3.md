@@ -21,3 +21,6 @@ La déclaration d'affectation mentionnée à l'article L. 526-7 contient les inf
 La déclaration mentionnée au premier alinéa est accompagnée des pièces justifiant de l'identité de l'entrepreneur individuel et de l'obtention des autorisations prévues à l'article 388-1-2 du code civil.
 
 Lorsque l'entrepreneur individuel affecte à son activité professionnelle des biens, droits, obligations ou sûretés, il dépose au registre, pour y être annexé, l'état descriptif prévu à l'article L. 526-8 ainsi, le cas échéant, que les documents attestant de l'accomplissement des formalités mentionnées aux articles L. 526-9 et L. 526-11.
+
+NOTA:
+Conformément au I de l'article 64 du décret n° 2019-987 du 25 septembre 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

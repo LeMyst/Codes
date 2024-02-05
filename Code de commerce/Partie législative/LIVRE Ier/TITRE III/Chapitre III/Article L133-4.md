@@ -7,3 +7,6 @@ Le requérant est tenu, sous sa responsabilité, d'appeler à cette expertise, m
 Le dépôt ou séquestre des objets en litige, et ensuite leur transport dans un dépôt public, peut être ordonné.
 
 La vente peut en être ordonnée jusqu'à concurrence des frais de voiture ou autres déjà faits. Le juge attribue le produit de la vente à celle des parties qui a fait l'avance desdits frais.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

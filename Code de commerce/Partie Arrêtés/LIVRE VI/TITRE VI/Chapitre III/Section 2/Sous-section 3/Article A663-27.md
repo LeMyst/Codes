@@ -10,26 +10,17 @@ I. - Les émoluments prévus au I de l'article R. 663-29 sont fixés proportionn
 
 Selon le barème suivant :
 
-|
-TRANCHES D'ASSIETTE EN € |
-TAUX DE L'ÉMOLUMENT EN % |
+|  TRANCHES D'ASSIETTE EN € |  TAUX DE L'ÉMOLUMENT EN % |
 | --- | --- |
-|
-De 0 à 15 000 |
-4,703 % |
-|
-De 15 001 à 50 000 |
-3,762 % |
-|
-De 50 001 à 150 000 |
-2,822 % |
-|
-De 150 001 à 300 000 |
-1,411 % |
-|
-Au-delà de 300 000 |
-0,941 % |
+|  De 0 à 15 000 |  4,703 % |
+|  De 15 001 à 50 000 |  3,762 % |
+|  De 50 001 à 150 000 |  2,822 % |
+|  De 150 001 à 300 000 |  1,411 % |
+|  Au-delà de 300 000 |  0,941 % |
 
 Pour l'application de ce barème, l'assiette des montants pris en compte est nette des intérêts servis par la Caisse des dépôts et consignations.
 
 II. - Conformément aux dispositions du II de l'article R. 663-29, l'émolument perçu par le liquidateur au titre de la cession des actifs compris dans un plan de cession est fixé conformément à l'article A. 663-11, à condition qu'aucun administrateur judiciaire n'a été désigné.
+
+NOTA:
+Conformément à l'article 21 de l'arrêté du 28 février 2020, les présentes dispositions entrent en vigueur le 1er mars 2020.

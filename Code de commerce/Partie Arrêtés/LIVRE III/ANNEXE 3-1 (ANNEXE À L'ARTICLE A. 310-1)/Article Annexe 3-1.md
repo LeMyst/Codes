@@ -1,11 +1,7 @@
 # Article Annexe 3-1
 
 MODÈLE DE DÉCLARATION PRÉALABLE\
-À UNE VENTE EN LIQUIDATION
-
-**1. Déclarant**
-
-Nom, prénoms :\
+À UNE VENTE EN LIQUIDATION **1. Déclarant** Nom, prénoms :\
 Nom d'usage (le cas échéant) :\
 Pour les personnes morales, nom et prénom du représentant légal ou statutaire :\
 Adresse :\

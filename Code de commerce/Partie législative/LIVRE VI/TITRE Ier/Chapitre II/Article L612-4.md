@@ -7,3 +7,6 @@ Ces mêmes associations sont tenues de nommer au moins un commissaire aux compte
 Les peines prévues à l'article L. 242-8 sont applicables aux dirigeants des associations mentionnées au premier alinéa du présent article qui n'ont pas, chaque année, établi un bilan, un compte de résultat et une annexe ou assuré la publicité de leurs comptes annuels et du rapport du commissaire aux comptes.
 
 A la demande de tout intéressé ou du représentant de l'Etat dans le département du siège de l'association, le président du tribunal, statuant en référé, peut enjoindre sous astreinte aux dirigeants de toute association mentionnée au premier alinéa d'assurer la publicité des comptes annuels et du rapport du commissaire aux comptes. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

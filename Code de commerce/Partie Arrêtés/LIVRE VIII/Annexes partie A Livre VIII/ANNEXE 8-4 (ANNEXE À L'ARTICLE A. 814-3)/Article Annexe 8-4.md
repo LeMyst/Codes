@@ -5,9 +5,7 @@ RÈGLEMENT FIXANT LES MODALITÉS APPLICABLES AUX ÉLECTIONS DES ADMINISTRATEURS 
 ÉLECTIONS DES MEMBRES DU CONSEIL\
 D'ADMINISTRATION DE LA CAISSE DE GARANTIE
 
-**Rappel des textes**
-
-*Article 72 du décret n° 85-1389 du 27 décembre 1985 (modifié par décret n° 2004-518 du 10 juin 2004) :*
+**Rappel des textes** *Article 72 du décret n° 85-1389 du 27 décembre 1985 (modifié par décret n° 2004-518 du 10 juin 2004) :*
 
 La caisse de garantie est gérée par un conseil d'administration composé de douze membres, dont six administrateurs judiciaires et six mandataires judiciaires, inscrits sur les listes nationales.
 

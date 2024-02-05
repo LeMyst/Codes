@@ -7,3 +7,6 @@ Après l'accomplissement des formalités de purge et le versement du prix de ven
 Le greffier de cette juridiction avise les créanciers qui n'ont pas donné mainlevée de leurs inscriptions, à domicile élu, par lettre recommandée avec demande d'avis de réception qu'ils disposent d'un délai de trente jours à compter de l'envoi de la lettre recommandée pour faire opposition au paiement du prix par déclaration au greffe ou par lettre recommandée avec demande d'avis de réception.
 
 Le juge de l'exécution statue sur les oppositions et ordonne la radiation des inscriptions.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

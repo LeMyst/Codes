@@ -5,3 +5,6 @@ En cas de délais de paiement accordés à un débiteur, poursuivi en vertu d'un
 Cet émolument, qui est à la charge du débiteur, n'est dû qu'à l'issue d'un délai de six mois à compter du premier versement effectué par le débiteur après la délivrance du titre.
 
 Pour la gestion d'un même dossier, le montant total des émoluments perçus en application du présent article ne peut excéder 32,74 €.
+
+NOTA:
+Conformément au 1° de l'article 29 de l'arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.

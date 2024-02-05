@@ -9,3 +9,6 @@ Les informations transmises sont couvertes par le secret professionnel dans les 
 Ces renseignements ne peuvent être utilisés par l'autorité destinataire que pour l'accomplissement de ses missions. Lorsque l'autorité destinataire communique, dans le cadre de ses missions, les renseignements ainsi obtenus à des tiers, elle tient compte de l'intérêt légitime des entreprises à la protection de leurs secrets d'affaires, sans préjudice de l'article L. 463-4 du code de commerce.
 
 Une convention établie entre la Haute autorité et le comité français d'accréditation détermine les conditions et les modalités selon lesquelles ils peuvent se communiquer des informations, le cas échéant confidentielles, nécessaires à l'accomplissement de leurs missions. Ces informations sont couvertes par le secret professionnel mentionné à l'article L. 820-8.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

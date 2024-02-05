@@ -21,3 +21,6 @@ Sans préjudice des compétences des organes chargés de l'administration, de la
 7° Il rend compte régulièrement à l'organe collégial chargé de l'administration ou à l'organe de surveillance de l'exercice de ses missions. Il rend également compte des résultats de la mission de certification des comptes, de la mission de certification des informations en matière de durabilité ainsi que de la manière dont ces missions ont contribué à l'intégrité de l'information financière et de l'information en matière de durabilité. Il rend compte du rôle qu'il a joué dans ce processus. Il l'informe sans délai de toute difficulté rencontrée.
 
 III.-Les missions mentionnées aux 1° à 7° du II en ce qui concerne le suivi des questions relatives à l'élaboration et au contrôle des informations en matière de durabilité peuvent être exercées par un comité spécialisé distinct de celui assurant le suivi des questions relatives à l'élaboration et au contrôle des informations comptables et financières. Dans ce cas, ce comité est composé conformément aux dispositions de l'alinéa premier du II.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

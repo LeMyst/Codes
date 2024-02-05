@@ -9,3 +9,6 @@ Les informations et pièces mentionnées à l'article R. 123-3 sont conformes au
 -PDF/ A (portable document format ISO 19005-1).
 
 La compression et la résolution graphique des images permettent une qualité de restitution des caractères garantissant la lisibilité des pièces numérisées.
+
+NOTA:
+Conformément à l’article 3 de l’arrêté du 1er décembre 2022 (NOR : ECOI2232181A), ces dispositions entrent en vigueur le 1er janvier 2023.

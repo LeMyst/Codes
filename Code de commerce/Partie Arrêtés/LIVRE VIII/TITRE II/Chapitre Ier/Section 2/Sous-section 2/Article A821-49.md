@@ -9,3 +9,6 @@ Le temps de conception retenu pour les actions mentionnées au présent article 
 Lorsque le concepteur d'une action de formation en est également l'animateur, est seul éligible à l'obligation de formation professionnelle continue le temps consacré à la conception.
 
 L'animation ou la conception de formations, enseignements, colloques et conférences fait l'objet d'une attestation délivrée au commissaire aux comptes ou d'un justificatif de son intervention par l'organisme qui l'a fait intervenir.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

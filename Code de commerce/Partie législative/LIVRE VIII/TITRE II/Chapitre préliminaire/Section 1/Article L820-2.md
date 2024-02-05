@@ -65,3 +65,6 @@ Les membres de la commission des sanctions sont nommés par décret pour une dur
 L'écart entre le nombre de femmes et d'hommes ne peut être supérieur à un. En cas de vacance d'un siège d'un membre de la commission des sanctions pour quelque cause que ce soit, il est procédé à son remplacement dans le respect des règles de parité mentionnées au présent alinéa pour la durée du mandat restant à courir.
 
 La commission des sanctions adopte, à la majorité de ses membres, un règlement intérieur qui fixe les règles relatives à son organisation et à son fonctionnement.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

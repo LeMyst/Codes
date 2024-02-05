@@ -17,3 +17,6 @@ III.-Ces dispositions sont applicables aux procédures d'appel ou de cassation d
 IV.-Pour le remboursement de ses avances, le Trésor public est garanti par le privilège des frais de justice.
 
 V.-Sur ordonnance du président du tribunal, lorsque la procédure de rétablissement professionnel prévue par le chapitre V du titre IV fait l'objet d'un jugement de clôture entraînant effacement des dettes, le Trésor public fait l'avance des droits, taxes, redevances ou émoluments perçus par les greffes des juridictions ainsi que des frais de signification et de publicité.
+
+NOTA:
+Ordonnance n° 2014-1088 du 26 septembre 2014, article 13 : Les présentes dispositions ne sont pas applicables aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours.

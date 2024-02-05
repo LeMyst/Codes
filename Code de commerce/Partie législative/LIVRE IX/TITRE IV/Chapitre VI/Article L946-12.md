@@ -9,3 +9,6 @@ Tenir compte, en cas d'agrandissement ou de réunion d'exploitations, des possib
 Prendre en considération la situation personnelle du ou des demandeurs : âge, situation familiale et professionnelle et, le cas échéant, celle du preneur en place, ainsi que le nombre et la nature des emplois salariés en cause ;
 
 Tenir compte de la structure parcellaire des exploitations concernées, soit par rapport au siège de l'exploitation, soit pour éviter que des mutations en jouissance ne remettent en cause des aménagements obtenus à l'aide de fonds publics. "
+
+NOTA:
+Loi 2005-845 2005-07-26 : L'article L. 621-84 du code de commerce a été abrogé.

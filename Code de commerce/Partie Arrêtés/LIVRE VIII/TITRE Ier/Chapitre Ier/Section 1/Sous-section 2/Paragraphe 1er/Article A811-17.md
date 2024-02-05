@@ -16,12 +16,10 @@ La note est affectée d'un coefficient 3.
 
 La note est affectée d'un coefficient 3.
 
-4° Une interrogation d'une durée de vingt minutes portant sur le statut et la déontologie de la profession d'administrateur judiciaire.
-
+4° Une interrogation d'une durée de vingt minutes portant sur le statut et la déontologie de la profession d'administrateur judiciaire.\
 La note est affectée d'un coefficient 3.
 
-5° Une interrogation d'une durée de quinze minutes portant sur le droit social et le droit fiscal liés aux procédures collectives.
-
+5° Une interrogation d'une durée de quinze minutes portant sur le droit social et le droit fiscal liés aux procédures collectives.\
 La note est affectée d'un coefficient 3.
 
 6° Une interrogation d'une durée de vingt minutes portant sur la gestion d'un cabinet d'administrateur judiciaire.

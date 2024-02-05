@@ -29,3 +29,6 @@ II.-Les demandes d'inscription de points ou de projets de résolution à l'ordre
 Lorsque l'assemblée est convoquée en application des dispositions de l'article L. 233-32, ces demandes doivent parvenir à la société au plus tard le dixième jour avant l'assemblée.
 
 L'avis mentionne le délai imparti pour l'envoi des demandes.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

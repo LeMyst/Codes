@@ -11,3 +11,6 @@ Lors de la conclusion du contrat de location, puis tous les trois ans, le baille
 Dans un ensemble immobilier comportant plusieurs locataires, le contrat de location précise la répartition des charges ou du coût des travaux entre les différents locataires occupant cet ensemble. Cette répartition est fonction de la surface exploitée. Le montant des impôts, taxes et redevances pouvant être imputés au locataire correspond strictement au local occupé par chaque locataire et à la quote-part des parties communes nécessaires à l'exploitation de la chose louée. En cours de bail, le bailleur est tenu d'informer les locataires de tout élément susceptible de modifier la répartition des charges entre locataires.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les charges, les impôts, taxes et redevances qui, en raison de leur nature, ne peuvent être imputés au locataire et les modalités d'information des preneurs.
+
+NOTA:
+Conformément au 21 II de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions sont applicables aux contrats conclus ou renouvelés à compter du 1er septembre 2014.

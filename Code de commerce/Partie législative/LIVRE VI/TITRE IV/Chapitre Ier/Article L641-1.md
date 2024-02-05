@@ -27,3 +27,6 @@ III.-Lorsque la liquidation judiciaire est prononcée au cours de la période d'
 Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, la demande peut aussi être faite au tribunal par l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève.
 
 IV.-La date de cessation des paiements est fixée dans les conditions prévues à l'article L. 631-8.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

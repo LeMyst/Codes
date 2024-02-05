@@ -7,3 +7,6 @@ Le conseil de surveillance est composé en recherchant une représentation équi
 A peine de nullité de sa nomination, un associé commandité ne peut être membre du conseil de surveillance. Les actionnaires ayant la qualité de commandité ne peuvent participer à la désignation des membres de ce conseil.
 
 A défaut de disposition statutaire, les règles concernant la désignation, la rémunération et la durée du mandat des administrateurs de sociétés anonymes sont applicables.
+
+NOTA:
+Conformément à l’article 4 de l’ordonnance n° 2019-1234 du 27 novembre 2019, ces dispositions sont applicables à compter des assemblées générales statuant sur le premier exercice clos après sa date de publication.

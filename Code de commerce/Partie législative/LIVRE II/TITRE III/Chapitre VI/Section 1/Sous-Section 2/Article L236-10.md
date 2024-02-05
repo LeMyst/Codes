@@ -17,3 +17,6 @@ II.-La décision de ne pas faire désigner un commissaire à la fusion est prise
 III.-Lorsque la fusion comporte des apports en nature ou des avantages particuliers, le commissaire à la fusion ou, s'il n'en a pas été désigné en application du II, un commissaire aux apports désigné dans les conditions prévues à l'article L. 225-8 établit le rapport prévu à l'article L. 225-147.
 
 IV.-Lorsque l'approbation de la fusion par l'assemblée générale extraordinaire de la société absorbante n'est pas requise conformément au II de l'article L. 236-9, le rapport mentionné au I du présent article est fourni un mois au moins avant la date de l'assemblée générale de l'autre société ou des autres sociétés qui fusionnent.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

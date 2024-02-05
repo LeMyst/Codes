@@ -33,3 +33,6 @@ Elles sont notifiées, le cas échéant, à l'ordre professionnel ou à l'autori
 V.-L'offre ne peut être ni modifiée, sauf dans un sens plus favorable aux objectifs mentionnés au premier alinéa de l'article L. 642-1, ni retirée. Elle lie son auteur jusqu'à la décision du tribunal arrêtant le plan.
 
 En cas d'appel de la décision arrêtant le plan, seul le cessionnaire reste lié par son offre.
+
+NOTA:
+Conformément au XVI de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions ne sont pas applicables aux procédures en cours au jour de la publication de ladite loi.

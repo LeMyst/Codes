@@ -15,3 +15,6 @@ IV.-Ne sont susceptibles que d'un appel de la part du ministère public ou du ce
 V.-Ne sont susceptibles que d'un appel de la part du débiteur, de l'administrateur, du liquidateur, du cessionnaire et du ministère public les jugements statuant sur la résolution du plan de cession.
 
 VI.-L'appel du ministère public est suspensif, sauf s'il porte sur une décision statuant sur l'ouverture de la procédure de sauvegarde ou de redressement judiciaire et n'est pas limité à la nomination de l'administrateur, du mandataire judiciaire ou des experts.
+
+NOTA:
+Conformément au XVI de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions ne sont pas applicables aux procédures en cours au jour de la publication de ladite loi.

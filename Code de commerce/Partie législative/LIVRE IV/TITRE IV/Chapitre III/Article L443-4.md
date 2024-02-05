@@ -5,3 +5,6 @@ I.-Pour les produits agricoles ou les produits alimentaires comportant un ou plu
 II.-Tout manquement aux dispositions du I est passible d'une amende administrative dont le montant ne peut excéder 75 000 € pour une personne physique et 375 000 € pour une personne morale.
 
 Le maximum de l'amende encourue est porté à 150 000 € pour une personne physique et 750 000 € pour une personne morale en cas de réitération du manquement dans un délai de deux ans à compter de la date à laquelle la première décision de sanction est devenue définitive.
+
+NOTA:
+Se reporter aux conditions d'application mentionnées au I de l'article 16 de la loi n° 2021-1357 du 18 octobre 2021.

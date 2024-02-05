@@ -7,3 +7,6 @@ Si le président exerce des missions de certification auprès d'entités d'inté
 Sont seules éligibles en qualité de président les personnes qui ont exercé les fonctions de membre du Conseil national pendant une durée d'au moins deux ans ou qui ont été membres du bureau national pendant une durée d'au moins un an.
 
 Si un siège du bureau du Conseil national devient vacant, il est pourvu par le conseil dans le délai de trois mois. Les fonctions du nouveau membre expirent à la même date que celles de son prédécesseur.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

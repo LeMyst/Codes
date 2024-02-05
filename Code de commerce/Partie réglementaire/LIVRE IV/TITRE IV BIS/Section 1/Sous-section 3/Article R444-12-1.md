@@ -5,3 +5,6 @@ I.-L'arrêté mentionné à l'article L. 444-3 peut prévoir une majoration des 
 II.-L'effet cumulé des variations résultant respectivement du taux de majoration mentionné au I et de l'application de la méthode de fixation des tarifs définie à la sous-section 2 de la présente section ne peut conduire, pour une profession donnée, à ce que le chiffre d'affaires régulé de la profession puisse varier de plus de 5 % par rapport à la période de référence précédente dans le département ou la collectivité concernée.
 
 III.-Les dispositions du II ne font pas obstacle à ce que, dans le département ou la collectivité concernée, l'émolument perçu en contrepartie d'une prestation donnée évolue de plus de 5 % par rapport à la période de référence précédente.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2020-179 du 28 février 2020, ces dispositions entrent en vigueur, pour chacune des professions concernées, à la date d'application du prochain arrêté portant fixation de ses tarifs en application de l'article L. 444-3 du code de commerce.

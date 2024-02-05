@@ -7,3 +7,6 @@ Tout intéressé peut en prendre connaissance et, à l'exclusion du liquidateur,
 Le juge-commissaire statue sur les contestations par une décision qui peut faire l'objet d'un recours dans un délai fixé par décret en Conseil d'Etat.
 
 Le liquidateur procède à la répartition conformément à ses propositions ou à la décision rendue.
+
+NOTA:
+Conformément au III de l'article 14 de la loi n° 2023-973 du 23 octobre 2023, ces dispositions s'appliquent aux liquidations judiciaires ouvertes ou prononcées après la promulgation de la présente loi.

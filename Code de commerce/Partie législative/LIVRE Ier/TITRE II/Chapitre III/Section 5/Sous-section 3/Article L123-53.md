@@ -17,3 +17,6 @@ d) Les agents habilités de l'administration des finances publiques chargés du 
 e) Les officiers habilités de police judiciaire de la police nationale et de la gendarmerie nationale, ainsi que les agents des douanes et des services fiscaux habilités à effectuer des enquêtes judiciaires en application des articles 28-1 et 28-2 du code de procédure pénale ;
 
 f) Les autorités mentionnées au sein de la sous-section 2 de la présente section, pour les entreprises relevant de leur champ de compétence et à l'exception des pièces annexées couvertes par une déclaration de confidentialité.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

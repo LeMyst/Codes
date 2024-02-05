@@ -175,3 +175,6 @@ Les mesures de compensation sont mises en œuvre, en plus de ce qui peut être f
 Une carte du projet ou un plan est fourni à l'appui de cette justification.
 
 L'analyse d'impact précise, pour chaque information, ses sources, sauf carence justifiée, et, pour chaque calcul, sa méthode.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2022-1312 du 13 octobre 2022, ces dispositions s'appliquent pour les demandes déposées à compter du 15 octobre 2022.

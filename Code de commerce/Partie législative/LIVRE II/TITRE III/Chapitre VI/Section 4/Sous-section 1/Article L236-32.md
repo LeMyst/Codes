@@ -7,3 +7,6 @@ Les dispositions de la présente section ne sont pas applicables :
 2° Aux sociétés soumises aux procédures mentionnées aux articles L. 613-49 à L. 613-58-1 du code monétaire et financier ;
 
 3° Aux organismes de placement collectifs agréés conformément à la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 ainsi qu'aux fonds d'investissement alternatives tels que définis par la directive 2011/61/ UE du Parlement européen et du Conseil du 8 juin 2011.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

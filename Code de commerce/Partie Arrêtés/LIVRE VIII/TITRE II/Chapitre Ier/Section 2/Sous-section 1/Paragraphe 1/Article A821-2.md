@@ -21,3 +21,6 @@ Les dossiers sont adressés par chaque compagnie régionale des commissaires aux
 La liste des candidats autorisés à se présenter au certificat d'aptitude aux fonctions de commissaire aux comptes est publiée au Journal officiel de la République française par le garde des sceaux, ministre de la justice.
 
 La date et le lieu des épreuves sont notifiés par la Compagnie nationale des commissaires aux comptes, par voie de convocation individuelle.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

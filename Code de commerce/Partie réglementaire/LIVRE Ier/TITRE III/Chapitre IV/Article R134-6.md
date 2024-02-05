@@ -15,3 +15,6 @@ La demande d'inscription modificative relative à un patrimoine affecté à une 
 Les documents attestant de l'accomplissement des formalités prévues aux articles L. 526-9 et L. 526-11 en cas d'affectation de biens nouveaux ou de retrait de biens affectés postérieurement à la constitution du patrimoine affecté sont déposés dans le mois suivant l'affectation ou le retrait. Le greffier adresse au service des impôts dont relève l'agent commercial une copie de ces documents dans les quinze jours suivant leur dépôt.
 
 L'obligation de déclaration prévue au premier alinéa n'est pas applicable aux agents commerciaux qui, étant domiciliés à l'étranger et ne disposant en France d'aucun établissement, n'exercent que de façon temporaire et occasionnelle leur activité sur le territoire national.
+
+NOTA:
+Conformément au I de l’article 4 du décret n° 2022-709 du 26 avril 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

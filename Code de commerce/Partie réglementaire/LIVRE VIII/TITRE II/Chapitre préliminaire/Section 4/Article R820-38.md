@@ -15,3 +15,6 @@ c) Le respect des dispositions relatives à la protection des données personnel
 d) L'utilisation des informations et documents communiqués aux seules fins de la supervision publique des personnes en charge de fonctions de contrôle légal des comptes et de certification des informations en matière de durabilité ;
 
 e) La protection des intérêts commerciaux des personnes ou entités contrôlées, y compris leurs droits de propriété industrielle et intellectuelle.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

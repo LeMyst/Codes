@@ -22,68 +22,30 @@ II.-Actualisation du patrimoine affecté à l'exercice de l'activité profession
 
 A.-Eléments d'actif (2)
 
-|
-FICHE
-
-signalétique (3) |
-DESCRIPTION (4) |
-DATE
-
-d'acquisition |
-VALEUR DÉCLARÉE
-
-ou prix d'acquisition (5) |
-SÛRETÉS GREVANT LE BIEN (6)
-
-(le cas échéant) |
+|  FICHE signalétique (3) |  DESCRIPTION (4) |  DATE d'acquisition |  VALEUR DÉCLARÉE ou prix d'acquisition (5) |  SÛRETÉS GREVANT LE BIEN (6) (le cas échéant) |
 | --- | --- | --- | --- | --- |
-|
-A1 |  |  |  |  |
-|
-A2 |  |  |  |  |
-|
-A3 |  |  |  |  |
+|  A1 |  |  |  |  |
+|  A2 |  |  |  |  |
+|  A3 |  |  |  |  |
 |  |  |  |  |  |
-|
-Total |
-X |
-X |  |
-X |
+|  Total |  X |  X |  |  X |
 
 B.-Eléments de passif
 
-|
-Elément |
-DESCRIPTION (7) |
-ENCOURS |
+|  Elément |  DESCRIPTION (7) |  ENCOURS |
 | --- | --- | --- |
-|
-B1 |  |  |
-|
-B2 |  |  |
-|
-B3 |  |  |
+|  B1 |  |  |
+|  B2 |  |  |
+|  B3 |  |  |
 |  |  |  |
-|
-Total |
-X |  |
+|  Total |  X |  |
 
 C.-Evolution
 
-|  |
-EXERCICE N-1 |
-EXERCICE N
-
-(au 31 décembre....,
-
-date d'établissement
-
-du présent relevé d'actualisation) |
+|  |  EXERCICE N-1 |  EXERCICE N (au 31 décembre...., date d'établissement du présent relevé d'actualisation) |
 | --- | --- | --- |
-|
-Total de l'actif |  |  |
-|
-Total du passif |  |  |
+|  Total de l'actif |  |  |
+|  Total du passif |  |  |
 
 Fait le
 
@@ -122,3 +84,6 @@ Pour les sûretés dont l'EIRL bénéficie, indiquer le montant de l'engagement 
 (6) Préciser la nature des sûretés grevant le bien et le montant de la créance garantie.
 
 (7) Il s'agit de l'ensemble des emprunts et dettes affectés à l'activité professionnelle de l'EIRL ou nés au cours de l'exercice ou des exercices antérieurs à l'occasion de cette activité ; préciser s'il s'agit d'emprunts, de dettes fournisseurs, avec le solde restant dû, ou d'un passif de nature fiscale ou sociale.
+
+NOTA:
+Conformément à l'article 9 de l'arrêté du 25 septembre 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

@@ -13,3 +13,6 @@ I.-Pour l'application du deuxième alinéa de l'article L. 526-22, les biens, dr
 5° Les fonds de caisse, toute somme en numéraire conservée sur le lieu d'exercice de l'activité professionnelle, les sommes inscrites aux comptes bancaires dédiés à cette activité, notamment au titre des articles L. 613-10 du code de la sécurité sociale et L. 123-24 du présent code, ainsi que les sommes destinées à pourvoir aux dépenses courantes relatives à cette même activité.
 
 II.-Lorsque l'entrepreneur individuel est tenu à des obligations comptables légales ou réglementaires, son patrimoine professionnel est présumé comprendre au moins l'ensemble des éléments enregistrés au titre des documents comptables, sous réserve qu'ils soient réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière et du résultat de l'entreprise. Sous la même réserve, les documents comptables sont présumés identifier la rémunération tirée de l'activité professionnelle indépendante, qui est comprise dans le patrimoine personnel de l'entrepreneur individuel.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-725 du 28 avril 2022, ces dispositions entrent en vigueur le 15 mai 2022.

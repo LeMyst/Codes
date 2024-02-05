@@ -7,3 +7,6 @@ Lorsque l'organisme tiers indépendant ainsi désigné ne comporte qu'un seul au
 La mission de l'organisme tiers indépendant ou du commissaire aux comptes suppléant appelé à remplacer le titulaire prend fin à la date d'expiration du mandat confié à ce dernier, sauf si l'empêchement n'a qu'un caractère temporaire. Dans ce dernier cas, lorsque l'empêchement a cessé, le titulaire reprend ses fonctions après l'approbation des comptes par l'assemblée générale ou l'organe compétent.
 
 Toute clause contractuelle qui limite le choix de l'assemblée générale ou de l'organe mentionné au premier alinéa à certaines catégories ou listes d'organisme tiers indépendant est réputée non écrite.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

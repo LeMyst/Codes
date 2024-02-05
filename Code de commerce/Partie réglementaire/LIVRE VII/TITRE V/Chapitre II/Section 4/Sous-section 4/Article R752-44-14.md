@@ -7,3 +7,6 @@ L'équipement commercial y est décrit, avec mention de son adresse exacte d'imp
 Le porteur de projet communique au préfet une copie de ces deux publications préalablement à l'ouverture au public.
 
 Si l'équipement comporte plusieurs commerces, les délais de publication et de communication du ou des avis d'ouverture au public s'apprécient commerce par commerce.
+
+NOTA:
+Conformément au II de l'article 7 du décret n° 2019-563 du 7 juin 2019, ces dispositions s'appliquent aux équipements commerciaux dont l'autorisation d'exploitation commerciale intervient à compter du 1er janvier 2020 ou, pour les projets relevant de l'article L. 752-1-1, dont l'ouverture au public est prévue à compter de cette même date.

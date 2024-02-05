@@ -11,3 +11,6 @@ II.-Avant d'accepter la mission de certification des informations en matière de
 1° Les éléments relatifs au respect des conditions d'indépendance prévues par l'article L. 822-8 et par le code de déontologie mentionné à l'article L. 822-7, et, le cas échéant, les mesures de sauvegarde nécessaires pour atténuer les risques pesant sur elles ;
 
 2° Les éléments établissant qu'il dispose des ressources humaines et matérielles nécessaires à la bonne exécution de la mission.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

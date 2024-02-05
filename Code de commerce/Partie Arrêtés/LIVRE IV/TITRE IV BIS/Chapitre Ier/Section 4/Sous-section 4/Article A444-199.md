@@ -17,3 +17,6 @@ Les formalités accomplies en matière de sûretés judiciaires donnent lieu à 
 | De 6 500 € à 17 000 €  | 1,085 %  |
 | De 17 000 € à 60 000 €  | 0,723 %  |
 | Plus de 60 000 €  | 0,542 % |
+
+NOTA:
+Conformément aux dispositions de l'article 1er de l'arrêté du 6 juillet 2017 adopté dans les conditions prévues à l'article 5 du décret n° 2017-862 du 9 mai 2017, les tarifs des avocats sont fixés pour une période transitoire de deux ans comprise entre le 1er septembre 2017 et le 1er septembre 2019.

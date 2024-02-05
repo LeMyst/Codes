@@ -17,3 +17,6 @@ En cas d'égalité des voix, les candidats dont le contrat de travail est le plu
 Les autres modalités du scrutin sont fixées par les statuts.
 
 Les contestations relatives à l'électorat, à l'éligibilité et à la régularité des opérations électorales sont portées devant le juge du tribunal judiciaire qui statue en dernier ressort dans les conditions prévues par le premier alinéa de l'article L. 433-11 du code du travail.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

@@ -52,8 +52,7 @@ Liste limitative de produits ou services présentés déterminée par l'organisa
 
 Caractéristiques chiffrées de la manifestation
 
-(Estimations pour les nouvelles manifestations,
-
+(Estimations pour les nouvelles manifestations,\
 chiffres certifiés pour la dernière session)
 
 Surface nette (en mètres carrés) (3) (4) :
@@ -84,8 +83,7 @@ Code postal : Ville :
 
 Organisateur de la manifestation
 
-(Si différent de l'exploitant du parc d'exposition
-
+(Si différent de l'exploitant du parc d'exposition\
 accueillant la manifestation)
 
 Dénomination sociale ou nom, prénom (s) (si personne physique) (4) :

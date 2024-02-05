@@ -7,3 +7,6 @@ Elles sont accompagnées des actes et pièces mentionnés aux articles R. 123-10
 La liste des pièces justificatives est fixée par l'arrêté prévu à l'article R. 123-166.
 
 Toutefois, dispense d'une pièce peut être accordée par le juge, soit définitivement, soit provisoirement. Dans ce dernier cas, il est procédé à la radiation d'office si la pièce n'est pas produite dans le délai imparti.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

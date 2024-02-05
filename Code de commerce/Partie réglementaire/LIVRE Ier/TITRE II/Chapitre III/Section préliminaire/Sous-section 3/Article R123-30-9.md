@@ -11,3 +11,6 @@ Un service informatique accessible par l'internet, sécurisé et gratuit, permet
 4° D'être informés de la transmission de leur dossier à l'autorité compétente ainsi que de la décision prise par celle-ci.
 
 La gestion de ce service informatique constitue une mission de service public assurée par l'Etat ou l'un de ses établissements publics.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

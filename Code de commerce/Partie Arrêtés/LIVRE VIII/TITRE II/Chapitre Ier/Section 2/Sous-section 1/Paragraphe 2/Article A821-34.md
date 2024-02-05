@@ -45,3 +45,6 @@ Le jury est valablement constitué si trois au moins de ses membres sont présen
 III.-L'épreuve portant sur la mission de certification d'informations en matière de durabilité est composée d'un écrit portant, au choix du jury, sur l'étude d'une ou de plusieurs situations pratiques, d'un ou de plusieurs exercices, d'une ou de plusieurs questions, le cas échéant combinés, portant sur la mission de certification d'informations en matière de durabilité, d'une durée de quatre heures.
 
 La liste des candidats admis à l'épreuve de durabilité est publiée au Journal officiel de la République française.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -7,3 +7,6 @@ Le rapporteur général ou la formation plénière du collège de la Haute autor
 La formation plénière du collège de la Haute autorité peut à tout moment mettre fin à la suspension provisoire de sa propre initiative ou à la demande de l'intéressé.
 
 La suspension provisoire cesse de plein droit dès que les actions pénale et disciplinaire sont éteintes.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

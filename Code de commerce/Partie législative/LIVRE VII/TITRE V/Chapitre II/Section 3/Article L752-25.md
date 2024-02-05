@@ -7,3 +7,6 @@ Elle concerne les contrats de tout type, y compris ceux prévoyant des cessions 
 Cette communication intervient dans les deux mois suivant la conclusion des contrats ou, s'il s'agit de contrats antérieurs à l'autorisation ou, à défaut, au permis de construire, dans un délai de deux mois à compter de l'autorisation.
 
 Toute infraction au présent article est punie d'une amende de 75 000 euros.
+
+NOTA:
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès la publication du présent décret au Journal officiel de la République française.

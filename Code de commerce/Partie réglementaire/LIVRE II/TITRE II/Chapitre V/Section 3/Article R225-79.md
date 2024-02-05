@@ -9,3 +9,6 @@ Le mandat est donné pour une seule assemblée. Il peut cependant être donné p
 Le mandat donné pour une assemblée vaut pour les assemblées successives convoquées avec le même ordre du jour.
 
 Il est révocable dans les mêmes formes que celles requises pour la désignation du mandataire.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

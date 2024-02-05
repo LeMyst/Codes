@@ -9,3 +9,6 @@ La déclaration du demandeur est recueillie par un enquêteur de la direction g�
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes et le rapporteur général s'informent réciproquement de toute démarche faite auprès d'eux en application du premier alinéa du présent article ainsi que de l'existence d'une éventuelle enquête ou instruction se rapportant aux pratiques en cause et déjà en cours avant cette démarche.
 
 Lorsque le bénéfice des dispositions du IV de l'article L. 464-2 a été demandé, le rapport d'enquête ou la notification de griefs et le rapport du rapporteur peuvent comporter une appréciation du respect par le demandeur des conditions qui s'imposent à lui.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

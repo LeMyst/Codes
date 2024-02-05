@@ -5,3 +5,6 @@ Lorsqu'une signature est requise, le recours à une signature électronique avan
 L'identification du déclarant par un moyen d'identification électronique correspondant à un niveau de garantie substantiel ou élevé figurant au sein du schéma d'identification électronique notifié en vertu de l'article 9 règlement (UE) n° 910/2014 du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur, associée à une signature électronique simple, vaut signature électronique avancée reposant sur un certificat qualifié. Les procédés techniques utilisés doivent garantir la conservation des transmissions opérées, l'établissement de manière certaine de leur date d'envoi et de la date de leur mise à la disposition de leur destinataire ou de leur réception par ce dernier, ainsi que la sécurité et la confidentialité des échanges.
 
 Un arrêté du ministre chargé de l'économie détermine les formats de signature et les procédures de vérification applicables.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2022-1620 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

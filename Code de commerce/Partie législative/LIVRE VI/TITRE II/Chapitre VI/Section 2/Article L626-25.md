@@ -15,3 +15,6 @@ Il rend compte au président du tribunal et au ministère public du défaut d'ex
 Toute somme perçue par le commissaire à l'exécution du plan est immédiatement versée en compte de dépôt à la Caisse des dépôts et consignations. En cas de retard, le commissaire à l'exécution du plan doit, pour les sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
 
 Le commissaire à l'exécution du plan peut être remplacé par le tribunal, soit d'office, soit à la demande du ministère public. Lorsque le remplacement est demandé par le commissaire à l'exécution du plan, le président du tribunal statue par ordonnance.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

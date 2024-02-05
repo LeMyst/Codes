@@ -1,7 +1,6 @@
 # Article L481-3
 
-Le préjudice subi par le demandeur du fait de la pratique anticoncurrentielle mentionnée à l'article L. 481-1 comprend notamment :
-
+Le préjudice subi par le demandeur du fait de la pratique anticoncurrentielle mentionnée à l'article L. 481-1 comprend notamment :\
 1° La perte faite, résultant :
 
 a) Du surcoût correspondant à la différence entre le prix du bien ou du service qu'il a effectivement payé et celui qui l'aurait été en l'absence de commission de l'infraction, sous réserve de la répercussion totale ou partielle de ce surcoût qu'il a éventuellement opérée sur son contractant direct ultérieur ;

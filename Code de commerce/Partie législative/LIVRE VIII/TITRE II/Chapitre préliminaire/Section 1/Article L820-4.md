@@ -21,3 +21,6 @@ L'auditeur des informations en matière de durabilité est désigné après l'or
 En cas de vacance d'un siège d'un membre des commissions, il est procédé à son remplacement pour la durée du mandat restant à courir.
 
 Les modalités de fonctionnement des commissions, les pouvoirs de leur président, les modalités de désignation et les obligations de leurs membres sont définis par le collège de la Haute autorité.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

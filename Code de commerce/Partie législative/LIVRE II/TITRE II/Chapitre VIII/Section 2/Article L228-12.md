@@ -21,3 +21,6 @@ III.-Lorsque les statuts qui créent une catégorie d'actions de préférence on
 4° Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, le rachat est à l'initiative exclusive de la société ou à l'initiative conjointe de la société et du détenteur de l'action de préférence. Dans les sociétés dont les actions ne sont pas admises aux négociations sur un marché réglementé, les statuts déterminent, préalablement à la souscription, si le rachat peut avoir lieu à l'initiative exclusive de la société, à l'initiative conjointe de la société et du détenteur ou à l'initiative exclusive du détenteur, suivant les conditions et délais qu'ils précisent ;
 
 5° En aucun cas, ces opérations ne peuvent porter atteinte à l'égalité d'actionnaires se trouvant dans la même situation.
+
+NOTA:
+Conformément au II de l’article 100 de la loi n° 2019-486 du 22 mai 2019, ces dispositions sont applicables aux actions de préférence émises à compter de la publication de la présente loi.

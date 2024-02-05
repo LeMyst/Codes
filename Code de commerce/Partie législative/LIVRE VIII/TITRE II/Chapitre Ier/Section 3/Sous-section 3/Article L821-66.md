@@ -11,3 +11,6 @@ Les services autres que la certification des comptes qui sont requis par la lég
 Le commissaire aux comptes respecte en outre les dispositions du paragraphe 3 de l'article 4 du règlement (UE) n° 537/2014 du 16 avril 2014. (1)
 
 III.-La Haute autorité peut, à la demande du commissaire aux comptes, autoriser ce dernier, à titre exceptionnel, à dépasser le plafond prévu au II pendant une période n'excédant pas deux exercices.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

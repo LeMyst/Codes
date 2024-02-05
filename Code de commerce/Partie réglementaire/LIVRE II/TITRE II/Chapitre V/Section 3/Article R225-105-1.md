@@ -5,3 +5,6 @@ I.-Les déclarations mentionnées au I et II de l'article L. 225-102-1 présente
 II.-Lorsqu'une société se conforme volontairement à un référentiel national ou international pour s'acquitter de ses obligations au titre du présent article, elle le mentionne en indiquant les préconisations de ce référentiel qui ont été retenues et les modalités de consultation de ce dernier.
 
 III.-Sans préjudice des obligations de publicité applicables au rapport prévu à l'article L. 225-100, ces déclarations sont mises à la libre disposition du public et rendues aisément accessibles sur le site internet de la société dans un délai de huit mois à compter de la clôture de l'exercice et pendant une durée de cinq années.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2017-1265 du 9 août 2017, les dispositions du présent article sont applicables aux rapports afférents aux exercices ouverts à compter du 1er septembre 2017.

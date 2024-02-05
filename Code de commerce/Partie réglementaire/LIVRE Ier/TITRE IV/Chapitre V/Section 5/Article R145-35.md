@@ -15,3 +15,6 @@ Ne peuvent être imputés au locataire :
 La répartition entre les locataires des charges, des impôts, taxes et redevances et du coût des travaux relatifs à l'ensemble immobilier peut être conventionnellement pondérée. Ces pondérations sont portées à la connaissance des locataires.
 
 Ne sont pas comprises dans les dépenses mentionnées aux 1° et 2° celles se rapportant à des travaux d'embellissement dont le montant excède le coût du remplacement à l'identique.
+
+NOTA:
+Ces dispositions sont applicables aux contrats conclus ou renouvelés à compter de la publication du décret n° 2014-1317 du 3 novembre 2014.

@@ -7,3 +7,6 @@ Les titres acquis par les salariés dans le cadre d'une opération de rachat d'u
 Lorsque le rapport annuel ne comprend pas les mentions prévues au premier alinéa, toute personne intéressée peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au conseil d'administration ou au directoire, selon le cas, de communiquer ces informations.
 
 Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs ou des membres du directoire, selon le cas.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.

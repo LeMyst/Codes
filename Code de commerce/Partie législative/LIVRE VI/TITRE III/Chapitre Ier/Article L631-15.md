@@ -9,3 +9,6 @@ II.-A tout moment de la période d'observation, le tribunal, à la demande du d�
 Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur, le mandataire judiciaire, les contrôleurs et la ou les personnes désignées par le comité social et économique, et avoir recueilli l'avis du ministère public.
 
 Lorsque le tribunal prononce la liquidation, il met fin à la période d'observation et, sous réserve des dispositions de l'article L. 641-10, à la mission de l'administrateur.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

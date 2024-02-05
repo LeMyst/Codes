@@ -15,3 +15,6 @@ II.-L'inscription à l'Institut national de la propriété industrielle du privi
 1° Au registre national des brevets, au registre national spécial des logiciels ou au registre national des marques, dans les conditions prévues par les textes qui leur sont applicables ;
 
 2° Au registre national des dessins et modèles, à la demande de l'une des parties à l'acte.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023. Toutefois, lesdites dispositions entrent en vigueur le 1er janvier 2022 en ce qu'elles s'appliquent aux hypothèques maritimes et saisies de navires.

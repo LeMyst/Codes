@@ -5,3 +5,6 @@ Lorsque, pour quelque cause que ce soit, un administrateur judiciaire se trouve 
 L'administrateur provisoire est habilité à exercer les mandats de justice confiés à l'administrateur judiciaire empêché.
 
 Aucun mandat de justice ne peut être confié à l'administrateur judiciaire qui se trouve dans l'impossibilité d'exercer ses fonctions par l'effet d'une peine d'interdiction temporaire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

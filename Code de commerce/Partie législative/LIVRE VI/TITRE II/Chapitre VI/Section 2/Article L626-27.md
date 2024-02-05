@@ -11,3 +11,6 @@ Le jugement qui prononce la résolution du plan met fin aux opérations et à la
 II. ― Dans les cas mentionnés aux deuxième et troisième alinéas du I, le tribunal est saisi par un créancier, le commissaire à l'exécution du plan ou le ministère public.
 
 III. ― Après résolution du plan et ouverture d'une nouvelle procédure par le même jugement ou par une décision ultérieure constatant que cette résolution a provoqué l'état de cessation des paiements, les créanciers soumis à ce plan ou admis au passif de la première procédure sont dispensés de déclarer leurs créances et sûretés. Les créances inscrites à ce plan sont admises de plein droit, déduction faite des sommes déjà perçues. Bénéficient également de la dispense de déclaration, les créances portées à la connaissance de l'une des personnes mentionnées au IV de l'article L. 622-17 dans les conditions prévues par ce texte.
+
+NOTA:
+Conformément au II de l’article 57 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions ne sont pas applicables aux procédures en cours au jour de la publication de la présente loi.

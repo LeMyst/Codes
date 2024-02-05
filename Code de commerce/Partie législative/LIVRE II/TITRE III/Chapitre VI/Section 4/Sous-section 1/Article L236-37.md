@@ -9,3 +9,6 @@ Outre les mentions figurant à l'article L. 236-10, le rapport du ou des commiss
 3° Les difficultés particulières d'évaluation s'il en existe.
 
 Pour l'évaluation du montant de l'offre de rachat, le ou les commissaires à la fusion prennent en considération le prix de marché des actions dans le ou les sociétés participant aux opérations avant l'annonce du projet de fusion ou la valeur du ou des sociétés sans tenir compte de l'effet de la fusion envisagée, déterminée selon les méthodes d'évaluation généralement acceptées.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

@@ -11,3 +11,6 @@ Le tribunal peut, avant de statuer, commettre un juge pour recueillir tous rense
 L'ouverture d'une procédure de sauvegarde à l'égard d'un débiteur qui bénéficie ou a bénéficié d'un mandat ad hoc ou d'une procédure de conciliation dans les dix-huit mois qui précèdent doit être examinée en présence du ministère public, à moins qu'il ne s'agisse de patrimoines distincts d'un entrepreneur individuel à responsabilité limitée.
 
 Dans ce cas, le tribunal peut, d'office ou à la demande du ministère public, obtenir communication des pièces et actes relatifs au mandat ad hoc ou à la conciliation, nonobstant les dispositions de l'article L. 611-15.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

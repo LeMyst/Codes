@@ -23,3 +23,6 @@ Toute personne immatriculée indique sur ses factures, notes de commande, tarifs
 Toute personne immatriculée indique en outre sur son site internet la mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée, ainsi que des renseignements mentionnés aux 1°, 3°, 5°, 8° et 9°.
 
 Toute contravention aux dispositions des alinéas précédents est punie de l'amende prévue pour les contraventions de la 4e classe.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-725 du 28 avril 2022, ces dispositions entrent en vigueur le 15 mai 2022.

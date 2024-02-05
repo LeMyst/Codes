@@ -17,3 +17,6 @@ III.-Le demandeur fournit les éléments d'information dont il dispose en lien a
 5° La durée et la nature de la pratique en cause ;
 
 6° Des renseignements sur toute autre demande d'exonération totale ou partielle de sanctions pécuniaires présentée par le passé ou susceptible d'être présentée à l'avenir à toute autre autorité de concurrence concernant la pratique en cause.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

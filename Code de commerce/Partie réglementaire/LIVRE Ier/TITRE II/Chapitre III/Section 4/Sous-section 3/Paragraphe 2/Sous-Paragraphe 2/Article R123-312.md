@@ -7,3 +7,6 @@ La radiation d'office d'une personne morale au registre du commerce et des soci�
 La radiation d'office d'une personne physique au registre du commerce et des sociétés vaut radiation de celle-ci au Registre national des entreprises, sauf si la personne physique exerce une activité ne relevant pas de ce registre et dont l'exercice n'est pas empêché par une mesure mentionnée au troisième alinéa de l'article L. 128-1.
 
 Les dispositions du présent article sont applicables aux radiations mentionnées d'office par le greffier du tribunal de commerce ou du tribunal judiciaire statuant en matière commerciale au registre spécial des agents commerciaux ou au registre spécial des entreprises individuelles à responsabilité limitée.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

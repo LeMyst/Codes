@@ -25,3 +25,6 @@ d) Le cas échéant, la superficie et la localisation des panneaux photovoltaïq
 e) Tous les autres éléments, intrinsèques ou connexes au projet, éventuellement mentionnés expressément par la commission d'aménagement commercial pour motiver son avis favorable ou son autorisation.
 
 Tous ces éléments sont récapitulés dans le tableau joint à l'avis ou à la décision de la commission d'aménagement commercial, mentionné aux articles R. 752-16 et R. 752-38.
+
+NOTA:
+Conformément au II de l'article 7 du décret n° 2019-563 du 7 juin 2019, ces dispositions s'appliquent aux équipements commerciaux dont l'autorisation d'exploitation commerciale intervient à compter du 1er janvier 2020 ou, pour les projets relevant de l'article L. 752-1-1, dont l'ouverture au public est prévue à compter de cette même date.

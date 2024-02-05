@@ -6,8 +6,7 @@ FORMULAIRE DE DÉCLARATION MODIFICATIVE D'UN SALON PROFESSIONNEL SE TENANT HORS 
 
 (Articles L. 762-2 et R. 762-11 du code de commerce)
 
-Identification du salon
-Dénomination initiale (4) :
+Identification du salon Dénomination initiale (4) :
 
 Date du récépissé de déclaration initiale :
 
@@ -39,8 +38,7 @@ Liste limitative de produits ou services présentés déterminée par l'organisa
 
 Caractéristiques chiffrées
 
-(Estimations)
-Surface nette (en mètres carrés) (3) (4) :
+(Estimations) Surface nette (en mètres carrés) (3) (4) :
 
 Fréquentation attendue (3) :
 
@@ -68,8 +66,7 @@ Adresse de site internet (1) (4) :
 
 Responsable
 
-(Si différent de l'organisateur)
-Nom, prénom (s) :
+(Si différent de l'organisateur) Nom, prénom (s) :
 
 Fonction :
 

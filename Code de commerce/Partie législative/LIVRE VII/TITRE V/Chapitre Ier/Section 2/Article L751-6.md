@@ -17,3 +17,6 @@ La Commission nationale d'aménagement commercial se compose de :
 La commission élit en son sein un président et deux vice-présidents.
 
 II.- (Abrogé).
+
+NOTA:
+Conformément à l'article 8 du décret n° 2022-1025 du 20 juillet 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

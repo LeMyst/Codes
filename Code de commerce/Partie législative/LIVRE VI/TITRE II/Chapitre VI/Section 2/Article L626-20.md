@@ -11,3 +11,6 @@ I.-Par dérogation aux dispositions des articles L. 626-18 et L. 626-19, ne peuv
 4° Les créances garanties par le privilège établi au 2° du III de l'article L. 622-17 et à l'article L. 626-10.
 
 II.-Dans la limite de 5 % du passif estimé, les créances les plus faibles prises dans l'ordre croissant de leur montant et sans que chacune puisse excéder un montant fixé par décret, sont remboursées sans remise ni délai. Cette disposition ne s'applique pas lorsque le montant des créances détenues par une même personne excède un dixième du pourcentage ci-dessus fixé ou lorsqu'une subrogation a été consentie ou un paiement effectué pour autrui.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

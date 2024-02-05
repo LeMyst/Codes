@@ -5,3 +5,6 @@ Le greffier du tribunal dans le ressort duquel la société issue de la fusion s
 Il contrôle en particulier que les sociétés qui fusionnent ont approuvé un projet de fusion dans les mêmes termes et que les modalités relatives à la participation des salariés ont été fixées conformément au titre VII du livre III de la deuxième partie du code du travail.
 
 Au terme de son contrôle, le greffier communique à la société issue de la fusion la décision par laquelle, lorsqu'il constate que la fusion transfrontalière respecte les conditions et procédures vérifiées en application du présent article, il approuve l'opération ou, lorsqu'il constate que ces conditions et procédures ne sont pas respectées, la décision par laquelle il la désapprouve.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

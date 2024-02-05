@@ -5,3 +5,6 @@ La mise à disposition au siège social des documents prévue à l'article R. 23
 Lorsque le site internet n'est plus accessible pendant une durée ininterrompue d'au moins vingt-quatre heures, les dispositions de l'article R. 236-4 sont applicables. Dans ce cas, le délai mentionné au premier alinéa de l'article L. 236-3 est suspendu jusqu'à cette mise à disposition.
 
 Aucune copie des documents mentionnés à l'article R. 236-4 ne peut être obtenue lorsque le site internet des sociétés participant à l'opération permet sans frais aux actionnaires de les télécharger et de les imprimer.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

@@ -53,3 +53,6 @@ k) Les intermédiaires en financement participatif mentionnés à l'article L. 5
 l) Les sociétés spécialisées en information de solvabilité et de prévention de défaillance.
 
 II.-Les personnes mentionnées au I du présent article accompagnent leur demande d'accès aux comptes annuels d'une société en vertu du premier alinéa de l'article R. 123-154-1 d'une attestation établie conformément au modèle type figurant à l'annexe 1-6 du présent livre.
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 23 juin 2016, le présent arrêté s'applique aux comptes afférents aux exercices clos à compter du 31 décembre 2015 et déposés à compter du 7 août 2016.

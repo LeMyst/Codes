@@ -19,3 +19,6 @@ Les extraits ou certificats mentionnés au dernier alinéa de l'article R. 123-1
 8° L'image du sceau du greffier doit figurer sur les extraits ou certificats délivrés.
 
 Un arrêté du garde des sceaux, ministre de la justice, précise, en tant que de besoin, les modalités d'application du présent article.
+
+NOTA:
+Conformément au II de l'article 2 du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique, les références au décret n° 2001-272 du 30 mars 2001, contenues dans des dispositions de nature réglementaire, sont remplacées par les références à ce même décret n° 2017-1416 du 28 septembre 2017.

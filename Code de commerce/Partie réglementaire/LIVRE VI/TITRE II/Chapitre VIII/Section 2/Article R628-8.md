@@ -5,3 +5,6 @@ Dans les dix jours du jugement d'ouverture, le débiteur dépose au greffe deux 
 La liste comporte les éléments mentionnés aux deux premiers alinéas de l'article L. 622-25 et à la première phrase de l'article R. 622-5 ainsi qu'au 2° de l'article R. 622-23. Lorsque les détenteurs de capital sont affectés par le projet de plan, la liste est complétée par des informations relatives aux modalités de participation au capital du débiteur, aux statuts et aux droits des détenteurs de capital. Ces informations sont accompagnées de tout document ou pièce justificative utiles.
 
 Si les informations portées sur cette liste et celles portées sur la liste prévue à l'article L. 622-6 diffèrent, seules les premières sont prises en considération.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -15,3 +15,6 @@ IV.-Le même jugement interdit également de plein droit, tout accroissement de 
 Toute disposition contraire, portant notamment sur un transfert de biens ou droits du débiteur non encore nés à la date du jugement d'ouverture, est inapplicable à compter du jour du prononcé du jugement d'ouverture.
 
 Toutefois, l'accroissement de l'assiette peut valablement résulter d'une cession de créance prévue à l'article L. 313-23 du code monétaire et financier lorsqu'elle est intervenue en exécution d'un contrat-cadre conclu antérieurement à l'ouverture de la procédure. Cet accroissement peut également résulter d'une disposition contraire du présent livre ou d'une dérogation expresse à son application prévue par le code monétaire et financier ou le code des assurances.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

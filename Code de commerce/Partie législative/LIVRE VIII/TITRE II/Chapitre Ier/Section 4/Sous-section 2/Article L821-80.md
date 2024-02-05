@@ -17,3 +17,6 @@ Le rapporteur général ou la personne qu'il désigne pour le représenter assis
 Le président de la Haute autorité assiste à l'audience et représente le collège devant la commission des sanctions. Il présente des observations au soutien des griefs notifiés et propose une sanction. Il peut être assisté ou représenté par un membre du collège, le rapporteur général ou un des membres de son service.
 
 La commission des sanctions délibère hors la présence des parties et du rapporteur général. Elle peut enjoindre à la personne intéressée de mettre un terme au manquement et de s'abstenir de le réitérer. Elle rend une décision motivée.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

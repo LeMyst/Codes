@@ -9,3 +9,6 @@ En cas de modification ou de rétractation, le greffier notifie la décision au 
 Dans le cas contraire, le greffier du tribunal transmet sans délai au greffe de la cour le dossier de l'affaire avec la déclaration d'appel et une copie de la décision. Il avise le débiteur de cette transmission.
 
 L'appel est instruit et jugé selon les règles applicables en matière gracieuse devant le tribunal judiciaire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

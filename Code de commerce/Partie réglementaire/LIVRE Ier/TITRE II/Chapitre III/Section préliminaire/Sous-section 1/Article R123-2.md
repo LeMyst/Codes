@@ -57,3 +57,6 @@ b) Les règles relatives à l'immatriculation de succursales, ainsi que les obli
 c) Une description succincte des règles relatives à la nomination aux organes d'administration, de direction ou de surveillance d'une société, ainsi que des règles relatives à la révocation des administrateurs et aux autorités ou organes compétents pour conserver les informations sur les administrateurs révoqués ;
 
 d) Une description succincte des compétences et des responsabilités des organes d'administration, de direction et de surveillance d'une société, y compris l'autorité ayant le pouvoir d'engager la société à l'égard des tiers.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

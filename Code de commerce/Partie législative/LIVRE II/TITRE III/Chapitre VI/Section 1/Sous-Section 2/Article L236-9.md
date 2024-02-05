@@ -21,3 +21,6 @@ Lorsqu'il sollicite l'une ou l'autre de ces délégations, le conseil d'administ
 Lorsque l'assemblée générale extraordinaire fait usage d'une des facultés prévues au premier alinéa du présent II et que la fusion nécessite une augmentation de capital, elle délègue également, par une résolution particulière et dans les conditions prévues aux articles L. 225-129 à L. 225-129-5, son pouvoir ou sa compétence de décider de l'augmentation de capital permettant d'attribuer des titres de capital aux associés de la ou des sociétés absorbées.
 
 Lorsque l'assemblée générale extraordinaire fait usage d'une des facultés prévues au premier alinéa du présent II, un ou plusieurs actionnaires de la société absorbante réunissant au moins 5 % du capital social peuvent demander en justice, dans un délai fixé par décret en Conseil d'Etat, la désignation d'un mandataire aux fins de convoquer l'assemblée générale extraordinaire de la société absorbante pour qu'elle se prononce sur l'approbation de la fusion ou du projet de fusion.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

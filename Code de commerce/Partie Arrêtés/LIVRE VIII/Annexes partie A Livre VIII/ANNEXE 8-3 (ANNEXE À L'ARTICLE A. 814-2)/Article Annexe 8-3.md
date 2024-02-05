@@ -4,9 +4,7 @@ RÈGLEMENT FIXANT LES MODALITÉS APPLICABLES AUX ÉLECTIONS DES ADMINISTRATEURS 
 
 ***Rappel des textes applicables***
 
-**Article R. 814-5 du code de commerce**
-
-Le Conseil national des administrateurs judiciaires et des mandataires judiciaires est composé de seize membres, huit membres représentant les administrateurs judiciaires et huit membres représentant les mandataires judiciaires.
+**Article R. 814-5 du code de commerce** Le Conseil national des administrateurs judiciaires et des mandataires judiciaires est composé de seize membres, huit membres représentant les administrateurs judiciaires et huit membres représentant les mandataires judiciaires.
 
 Les membres sont élus au scrutin de liste à la représentation proportionnelle par deux collèges, l'un composé des personnes physiques inscrites sur la liste nationale des administrateurs judiciaires, l'autre composé des personnes physiques inscrites sur la liste nationale des mandataires judiciaires. Chaque collège élit huit membres. Le vote a lieu sans panachage ni vote préférentiel.
 

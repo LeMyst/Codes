@@ -19,3 +19,6 @@ IV. - Lorsque le tribunal nomme une personne morale, il désigne en son sein une
 V.-Les personnes désignées pour exercer les missions définies au premier alinéa de l'article L. 812-1 sans être inscrites sur la liste mentionnée au I du présent article sont soumises, en ce qui concerne l'exercice de ces fonctions, à la surveillance du ministère public et aux inspections prévues au premier alinéa de l'article L. 811-11.
 
 Un décret en Conseil d'Etat précise l'organisation et les modalités des contrôles concernant les personnes mentionnées au premier alinéa du présent V.
+
+NOTA:
+Loi n° 2016-1547 du 18 novembre 2016, Art. 114 XIII : Ces dispositions entrent en vigueur selon des modalités fixées par décret, et au plus tard le premier jour du sixième mois suivant la promulgation de la présente loi.

@@ -7,3 +7,6 @@ L'avis ou la décision est motivé, signé par le président et indique le sens 
 Lorsque cet avis ou décision est favorable, y est joint le tableau récapitulatif des caractéristiques du projet mentionnées à l'article R. 752-44. Le modèle de ce tableau est fixé par arrêté du ministre chargé de l'économie.
 
 Pour l'application du deuxième alinéa de l'article L. 752-19, pour le cas où un recours serait exercé contre son avis ou sa décision, la commission désigne, à la majorité absolue de ses membres présents titulaires du droit de vote, celui d'entre eux qui exposera sa position devant la Commission nationale.
+
+NOTA:
+Conformément au I de l'article 7 du décret n° 2019-563 du 7 juin 2019, ces dispositions s'appliquent aux avis et décisions rendus par les commissions d'aménagement commercial à compter du 1er janvier 2020.

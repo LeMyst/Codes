@@ -9,3 +9,6 @@ Nul ne peut être désigné liquidateur s'il a atteint la limite d'âge prévue 
 Il peut être remplacé pour cause d'empêchement ou pour tout autre motif grave par le président du tribunal judiciaire statuant en référé à la demande soit du liquidateur lui-même, soit des associés ou de leurs ayants droit, soit du ministère public.
 
 Plusieurs liquidateurs peuvent être désignés.
+
+NOTA:
+Conformément au I de l’article 96 du décret n° 2022-900 du 17 juin 2022, ces dispositions entrent en vigueur le 1er juillet 2022 et s'appliquent aux procédures disciplinaires engagées et aux réclamations reçues à compter de cette date.

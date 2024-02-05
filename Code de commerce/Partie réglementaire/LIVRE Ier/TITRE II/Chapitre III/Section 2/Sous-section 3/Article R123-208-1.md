@@ -11,3 +11,6 @@ I. ― Les professions ci-après énoncées demeurent soumises à la réglementa
 4° Personnes effectuant des opérations de démarchage réglementées par des textes particuliers, notamment par les articles L. 7311-1 et suivants du code du travail relatifs aux voyageurs, représentants et placiers, par les articles L. 341-1 et suivants du code monétaire et financier relatifs au démarchage bancaire ou financier et par les articles L. 135-1 et suivants du code de commerce relatifs aux vendeurs à domicile indépendants ;
 
 II. ― Les dispositions de l'article L. 123-29 ne sont pas applicables aux autres professionnels effectuant à titre accessoire dans une ou plusieurs communes limitrophes des tournées de vente de leurs produits ou de prestations de services à partir d'établissements fixes.
+
+NOTA:
+Décret n° 2009-194 du 18 février 2009 art. 3 : Le présent décret entre en vigueur à la date de publication de l'arrêté prévu à l'article R 123-208-2 (11 mars 2010).

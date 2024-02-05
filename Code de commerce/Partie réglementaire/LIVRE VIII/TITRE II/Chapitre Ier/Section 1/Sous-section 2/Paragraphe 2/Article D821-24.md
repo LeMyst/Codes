@@ -9,3 +9,6 @@ Dans les mêmes conditions :
 2° Il examine les suggestions des conseils régionaux, en leur donnant la suite qu'elles comportent ;
 
 3° Il prévient et concilie les différends d'ordre professionnel entre les conseils régionaux ou entre les commissaires aux comptes n'appartenant pas à une même compagnie régionale.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

@@ -29,3 +29,6 @@ VI.-L'obligation prévue au II ne s'applique pas :
 -si une société remplissant les conditions prévues au III contrôle, dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, une société qui n'est ni une micro-entreprise ni une petite entreprise, au sens de l'article L. 230-1.
 
 VII.-Les informations dont la divulgation porterait gravement préjudice à la position commerciale des sociétés auxquelles elles se rapportent peuvent être omises du rapport mentionné au I, à titre temporaire, dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

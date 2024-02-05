@@ -7,3 +7,6 @@ Le tribunal est saisi par le liquidateur précédemment désigné, par le minist
 La reprise de la procédure produit ses effets rétroactivement pour tous les actifs du débiteur que le liquidateur aurait dû réaliser avant la clôture de la procédure de liquidation judiciaire.
 
 Si les actifs du débiteur consistent en une somme d'argent, la procédure prévue au chapitre IV du présent titre est de droit applicable.
+
+NOTA:
+Ordonnance n° 2014-1088 du 26 septembre 2014 article 13 : Les présentes dispositions sont applicables aux procédures de sauvegarde, de redressement judiciaire ou de liquidation judiciaire en cours au 28 septembre 2014.

@@ -33,3 +33,16 @@ IV.-Le programme figure à l'annexe 8-9 au présent livre.
 V.-Le jury est celui prévu à l'article A. 821-9.
 
 VI.-Les résultats sont affichés par les soins du jury et notifiés aux candidats.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément aux I et II de l'article 8 de l'arrêté précité :
+
+I. - Par dérogation aux dispositions de l'article A. 821-1, pour la session du certificat préparatoire aux fonctions de commissaire aux comptes ouverte au titre de l'année 2024 :
+
+Au premier alinéa du II de l'article A. 821-1, les mots : " entre le 1er octobre et le 30 novembre " sont remplacés par les mots : " entre le 1er janvier et le 1er mars " ;
+
+Au septième alinéa du II de l'article A. 821-1, les mots : " 31 décembre " sont remplacés par les mots : " 1er avril ".
+
+II. - Les candidats déclarés admissibles et qui n'ont pas été admis à la session ouverte au titre de l'année 2023 du certificat préparatoire aux fonctions de commissaire aux comptes sont admis à se présenter à l'épreuve orale sur dossier mentionnée au II de l'article A. 821-1 de la session ouverte au titre de l'année 2024.

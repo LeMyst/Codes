@@ -29,3 +29,6 @@ I. ― Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des pai
 13° La déclaration d'insaisissabilité faite par le débiteur en application de l'article L. 526-1.
 
 II. ― Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du I et la déclaration visée au 13° faits dans les six mois précédant la date de cessation des paiements.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

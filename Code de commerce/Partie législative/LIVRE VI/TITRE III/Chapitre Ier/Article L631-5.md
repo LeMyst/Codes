@@ -11,3 +11,6 @@ Sous cette même réserve, la procédure peut aussi être ouverte sur l'assignat
 3° La publication de l'achèvement de la liquidation, s'il s'agit d'une personne morale non soumise à l'immatriculation.
 
 En outre, la procédure ne peut être ouverte à l'égard d'un débiteur exerçant une activité agricole qui n'est pas constitué sous la forme d'une société commerciale que si le président du tribunal judiciaire a été saisi, préalablement à l'assignation, d'une demande tendant à la désignation d'un conciliateur présentée en application de l'article L. 351-2 du code rural et de la pêche maritime.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

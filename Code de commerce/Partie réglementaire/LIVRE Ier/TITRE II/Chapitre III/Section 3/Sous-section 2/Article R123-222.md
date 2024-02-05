@@ -21,3 +21,6 @@ c) Pour les personnes morales de droit public et les institutions et services me
 4° Les dates d'effet des modifications des indications mentionnées aux 1° à 3°.
 
 Un arrêté du ministre chargé de l'économie précise les cas où plusieurs établissements d'une unité légale peuvent être identifiés à la même adresse.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -15,3 +15,6 @@ La garantie de la caisse joue sans que puisse être opposé aux créanciers le b
 La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code.
 
 Les recours contre les décisions de la caisse sont portés devant le tribunal judiciaire de Paris.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.

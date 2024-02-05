@@ -9,3 +9,6 @@ Lorsque les titres sont uniquement admis à la négociation sur un système mult
 Lorsque les titres ne sont pas admis à la négociation sur un marché réglementé ni sur un système multilatéral de négociation, la vente de ces titres est réalisée par la société émettrice ou peut être faite aux enchères publiques par un prestataire de services d'investissement autre qu'une société de gestion de portefeuille ou par un notaire, conformément aux dispositions de l'article L. 211-21 du code monétaire et financier.
 
 Les sommes provenant de la vente sont réparties proportionnellement aux droits formant rompus de chaque titulaire de droits.
+
+NOTA:
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3 janvier 2018.

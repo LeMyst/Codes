@@ -197,3 +197,10 @@ i) Le directeur de l'agence de Guadeloupe de l'Institut d'émission des départe
 j) Un représentant de chaque association de défense des consommateurs agréée dans les conditions fixées aux articles R. 811-1 et suivants du code de la consommation.
 
 Un vice-président est désigné parmi les membres de l'observatoire par un vote à la majorité absolue, pour une durée identique à celle du mandat du président.
+
+NOTA:
+Décret n° 2013-608 du 9 juillet 2013, art. 2 : Pour l'application du l du I, du k du II et du k du III de l'article D. 910-1 C, le président de l'observatoire pourra accepter la représentation d'associations représentatives des intérêts des consommateurs locaux non agréées selon les dispositions des articles R. 411-1 et suivants susvisés, durant un an à compter de la publication du présent décret. A l'expiration de ce délai, ces associations devront justifier de l'agrément ou d'une demande en cours d'instruction pour continuer à siéger au sein de l'observatoire.
+
+Pour l'application du l du IV de l'article D. 910-1 C, le président de l'observatoire pourra accepter la représentation d'associations représentatives des intérêts des consommateurs locaux non agréées au sens de la réglementation applicable localement ayant le même objet.
+
+Les dispositions du IV de l'article D. 910-1 C introduites par l'article 1er du décret n° 2013-608 du 9 juillet 2013 sont applicables aux îles Wallis et Futuna. Elles entrent en vigueur le dixième jour qui suit la publication du présent décret.

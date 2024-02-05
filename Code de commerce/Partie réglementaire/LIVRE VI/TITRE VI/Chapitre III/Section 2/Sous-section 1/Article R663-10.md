@@ -5,3 +5,6 @@ Il est alloué à l'administrateur judiciaire, au titre de la constitution des c
 Lorsque le montant des créances mentionné au premier alinéa est supérieur à 25 000 000 d'euros, la rémunération due à l'administrateur judiciaire est arrêtée par le magistrat de la cour d'appel délégué à cette fin par le premier président dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 663-13.
 
 La rémunération prévue au présent article n'est pas due à l'administrateur judiciaire lorsque le tribunal convertit la procédure de sauvegarde en procédure de redressement judiciaire et que les classes de parties affectées ont été constituées antérieurement à cette conversion.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2023-434 du 3 juin 2023, ces dispositions s'appliquent aux procédures ouvertes à compter du 1er octobre 2021 et qui ne sont pas encore clôturées à la date de publication dudit décret. Les émoluments déjà arrêtés demeurent acquis. Les administrateurs judiciaires et mandataires judiciaires peuvent demander à bénéficier d'un complément de rémunération au titre de l'application des nouveaux tarifs prévus par ces mêmes articles.

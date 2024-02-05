@@ -35,3 +35,6 @@ V.-Les conditions d'application du présent article sont fixées par décret en 
 VI.-Le fait de ne pas satisfaire aux obligations de publicité prévues au IV ou de publier des informations partielles ou erronées est puni d'une amende de 3 750 €.
 
 Les personnes morales encourent, outre cette amende, la peine complémentaire prévue au 9° de l'article 131-39 du code pénal.
+
+NOTA:
+Conformément à l'article 26 de la loi n° 2014-1662 du 30 décembre 2014, les présentes dispositions sont applicables aux exercices ouverts à compter du 1er janvier 2015 dans les sociétés dont le nombre moyen de salariés permanents, y compris ceux des filiales directes ou indirectes, est supérieur à 5 000 au cours de l'exercice, et à compter du 1er janvier 2016 dans les autres sociétés.

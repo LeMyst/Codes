@@ -7,3 +7,6 @@ Le même avis est publié dans un support d'annonces légales du lieu où le dé
 Il mentionne que le jugement est déposé au greffe où tout intéressé peut en prendre connaissance.
 
 Ces publicités sont faites d'office par le greffier dans les huit jours de la date du jugement.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

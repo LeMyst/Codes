@@ -11,3 +11,6 @@ Le privilège du vendeur qui garantit chacun de ces prix, ou ce qui en reste dû
 Nonobstant toute convention contraire, les paiements partiels autres que les paiements comptants s'imputent d'abord sur le prix des marchandises, ensuite sur le prix du matériel.
 
 Il y a lieu à ventilation du prix de revente mis en distribution, s'il s'applique à un ou plusieurs éléments non compris dans la première vente.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

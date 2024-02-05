@@ -7,3 +7,6 @@ Les commissaires apprécient, sous leur responsabilité, la valeur des apports e
 L'assemblée générale constitutive statue sur l'évaluation des apports en nature et l'octroi d'avantages particuliers. Elle ne peut les réduire qu'à l'unanimité de tous les souscripteurs.
 
 A défaut d'approbation expresse des apporteurs et des bénéficiaires d'avantages particuliers, mentionnée au procès-verbal, la société n'est pas constituée.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

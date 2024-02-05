@@ -15,3 +15,6 @@ II.-Peuvent en outre, sous la même réserve, être retenus à l'encontre d'un e
 2° Sous le couvert de l'activité ou du patrimoine visés par la procédure masquant ses agissements, avoir fait des actes de commerce dans un intérêt autre que celui de cette activité ou de ce patrimoine ;
 
 3° Avoir fait des biens ou du crédit de l'entreprise ou du patrimoine visés par la procédure un usage contraire à l'intérêt de cette entreprise ou de ce patrimoine à des fins personnelles ou pour favoriser une personne morale ou une entreprise dans laquelle il était intéressé, directement ou indirectement, ou un patrimoine distinct lui appartenant.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -81,3 +81,6 @@ Lors de cette réunion, un secrétaire et un secrétaire-adjoint sont élus à l
 VII. - Les conditions dans lesquelles la délégation du personnel peut recourir à une mission de conseil ainsi que les modalités de sa prise en charge financière par CCI France, sont négociées dans un accord collectif prévu par le 6° de l'article 711-16.
 
 VIII. - Les dispositions du présent article peuvent être précisées par un accord collectif prévu par le 6° de l'article L. 711-16.
+
+NOTA:
+Se reporter aux conditions prévues à l'article 2 du décret n° 2023-521 du 28 juin 2023.

@@ -9,3 +9,6 @@ Le greffier fait publier au Bulletin officiel des annonces civiles et commercial
 Tout intéressé peut présenter une réclamation devant le juge-commissaire dans le délai d'un mois à compter de la publication. Les personnes mentionnées au second alinéa de l'article L. 624-3-1 ne peuvent se voir opposer l'état des créances en l'absence de signification de la décision d'admission prévue à l'article L. 624-2. A leur égard, le délai d'un mois prévu pour présenter une réclamation court à compter cette signification.
 
 En cas d'appel, les personnes coobligées ou ayant consenti une sûreté personnelle ou ayant affecté ou cédé un bien en garantie qui n'ont pas été appelées dans la cause peuvent former tierce-opposition.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

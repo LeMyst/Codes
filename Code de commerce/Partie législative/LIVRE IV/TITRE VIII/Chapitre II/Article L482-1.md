@@ -1,7 +1,6 @@
 # Article L482-1
 
-L'action en dommages et intérêts fondée sur l'article L. 481-1 se prescrit à l'expiration d'un délai de cinq ans. Ce délai commence à courir du jour où le demandeur a connu ou aurait dû connaître de façon cumulative :
-
+L'action en dommages et intérêts fondée sur l'article L. 481-1 se prescrit à l'expiration d'un délai de cinq ans. Ce délai commence à courir du jour où le demandeur a connu ou aurait dû connaître de façon cumulative :\
 1° Les actes ou faits imputés à l'une des personnes physiques ou morales mentionnées à l'article L. 481-1 et le fait qu'ils constituent une pratique anticoncurrentielle ;
 
 2° Le fait que cette pratique lui cause un dommage ;

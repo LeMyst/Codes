@@ -7,3 +7,6 @@ II.-Dans le cas prévu au I, la prestation figurant au numéro 13 du tableau men
 III.-Si la vente n'a pas lieu par suite du paiement de sa dette par le débiteur, la prestation figurant au numéro 14 du tableau mentionné à l'article A. 444-1 donne lieu à la perception d'un émolument fixe de 68,45 €.
 
 IV.-Si la vente a lieu, les émoluments perçus en application du II s'imputent sur ceux perçus en application de l'article A. 444-3.
+
+NOTA:
+Conformément au 1° de l'article 10 de l’arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.

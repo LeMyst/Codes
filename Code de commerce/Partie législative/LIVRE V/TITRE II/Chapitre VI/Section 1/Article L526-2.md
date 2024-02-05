@@ -7,3 +7,6 @@ Lorsque la personne est immatriculée au registre du commerce et des sociétés,
 A défaut d'une telle immatriculation, la déclaration est mentionnée au registre national des entreprises.
 
 L'établissement de l'acte prévu au premier alinéa et l'accomplissement des formalités donnent lieu au versement aux notaires d'émoluments fixes dans le cadre d'un plafond déterminé par décret.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

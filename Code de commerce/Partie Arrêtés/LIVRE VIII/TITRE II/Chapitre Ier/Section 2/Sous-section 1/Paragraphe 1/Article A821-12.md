@@ -11,3 +11,6 @@ Le stagiaire est tenu de faire connaître au président du conseil régional, pa
 Il accompagne cette lettre d'une attestation du maître de stage indiquant qu'il accepte de recevoir le stagiaire et la date du début du stage.
 
 Le stagiaire est tenu aux mêmes obligations en cas de changement de maître de stage.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -15,3 +15,6 @@ Les sanctions sont déterminées en tenant compte :
 6° Des manquements commis précédemment par la personne intéressée ;
 
 7° Lorsque la sanction est prononcée en raison de manquement aux dispositions des sections 3 à 6 du chapitre Ier du titre VI du livre V du code monétaire et financier, elle est en outre déterminée en tenant compte, le cas échéant, de l'importance du préjudice subi par les tiers.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

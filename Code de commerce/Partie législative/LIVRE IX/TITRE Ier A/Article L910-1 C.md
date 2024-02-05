@@ -7,3 +7,6 @@ A Wallis-et-Futuna, l'observatoire comprend, outre son président, les parlement
 II. ― Les membres de chaque observatoire sont tenus à une obligation de discrétion à l'égard des informations présentant un caractère confidentiel dont ils ont connaissance dans le cadre de l'exercice de leurs missions.
 
 III. ― Les membres de chaque observatoire exercent leurs fonctions à titre gratuit.
+
+NOTA:
+Conformément à l'article 9 de l'ordonnance n° 2021-1200 du 15 septembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard au 1er mars 2022. Cette date a été fixée au 26 février 2022 conformément au 1° de l'article 1 du décret n° 2022-231 du 24 février 2022.

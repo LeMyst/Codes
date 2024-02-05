@@ -9,3 +9,6 @@ Jusqu'au paiement complet du prix qui emporte purge des inscriptions grevant les
 Toutefois, la charge des sûretés réelles spéciales, garantissant le remboursement d'un crédit consenti à l'entreprise pour lui permettre le financement d'un bien sur lequel portent ces sûretés est transmise au cessionnaire. Celui-ci est alors tenu d'acquitter entre les mains du créancier, qui a régulièrement déclaré sa créance dans les délais prévus à l'article L. 622-24, les échéances convenues avec lui et qui restent dues à compter du transfert de la propriété ou, en cas de location-gérance, de la jouissance du bien sur lequel porte la garantie. Le débiteur est libéré de ces échéances. Il peut être dérogé aux dispositions du présent alinéa par accord entre le cessionnaire et les créanciers titulaires des sûretés.
 
 Les dispositions du présent article n'affectent pas le droit de rétention acquis par un créancier sur des biens compris dans la cession.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

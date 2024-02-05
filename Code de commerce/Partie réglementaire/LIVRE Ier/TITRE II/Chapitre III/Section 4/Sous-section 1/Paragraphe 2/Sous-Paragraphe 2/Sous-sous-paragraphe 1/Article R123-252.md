@@ -28,5 +28,7 @@ Sont inscrits au sein du Registre national des entreprises, sur déclaration de 
 
 13° Pour les sociétés européennes issues d'une fusion, les dénomination sociale, forme juridique et siège social de toutes les sociétés y ayant participé, ainsi que, en ce qui concerne chacune d'entre elles, les renseignements prévus aux 1° et 2° de l'article R. 123-237, ou, en ce qui concerne celles ayant leur siège dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, les lieu et numéro de leur immatriculation sur un registre public ;
 
-14° Pour les groupements agricoles d'exploitation en commun, les éléments mentionnés à l'article R. 323-15 du code rural et de la pêche maritime
-.
+14° Pour les groupements agricoles d'exploitation en commun, les éléments mentionnés à l'article R. 323-15 du code rural et de la pêche maritime .
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

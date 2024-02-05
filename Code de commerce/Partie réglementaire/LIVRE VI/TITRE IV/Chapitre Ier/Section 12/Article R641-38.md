@@ -15,3 +15,6 @@ Outre les informations trimestrielles mentionnées à l'article L. 641-7, le liq
 6° Le montant des frais de justice engagés de l'année écoulée.
 
 Le débiteur et tout créancier peuvent prendre connaissance de ce rapport au greffe.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2023-434 du 3 juin 2023, ces dispositions s'appliquent aux procédures ouvertes à compter du lendemain de la publication dudit décret, à savoir à compter du 5 juin 2023.

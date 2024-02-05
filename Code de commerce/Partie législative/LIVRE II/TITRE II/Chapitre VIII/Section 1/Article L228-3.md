@@ -7,3 +7,6 @@ Les délais de communication et la liste des informations sont fixés par décre
 Lorsque les délais ne sont pas respectés ou lorsque les informations fournies sont incomplètes ou erronées, la société émettrice ou son mandataire peut demander l'exécution de l'obligation de communication, sous astreinte, au président du tribunal statuant en référé.
 
 Les droits spéciaux attachés aux actions nominatives, notamment ceux prévus aux articles L. 225-123 et L. 232-14, ne peuvent être exercés par un intermédiaire inscrit dans les conditions prévues à l'article L. 228-1 que si les informations qu'il fournit permettent le contrôle des conditions requises pour l'exercice de ces droits.
+
+NOTA:
+Conformément au V de l'article 198 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 10 juin 2019.

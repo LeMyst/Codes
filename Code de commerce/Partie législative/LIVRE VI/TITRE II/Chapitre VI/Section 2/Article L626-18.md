@@ -13,3 +13,6 @@ Lorsque le principal d'une créance reste à échoir en totalité au jour du pre
 Les délais de paiement imposés en application des quatrième et cinquième alinéas ne peuvent excéder la durée du plan.
 
 Le crédit preneur peut, à l'échéance, lever l'option d'achat avant l'expiration des délais prévus au présent article. Il doit alors payer l'intégralité des sommes dues dans la limite de la réduction dont elles font l'objet dans le plan sous forme de remises.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

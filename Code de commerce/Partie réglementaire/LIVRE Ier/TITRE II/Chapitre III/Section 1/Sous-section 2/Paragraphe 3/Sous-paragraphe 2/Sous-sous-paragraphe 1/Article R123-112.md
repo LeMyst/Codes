@@ -9,3 +9,6 @@ Tous actes ultérieurs modifiant les statuts sont déposés dans les conditions 
 Les pièces déposées sont le cas échéant traduites en langue française et les copies sont certifiées conformes par le représentant légal de la société ou par la personne ayant le pouvoir d'engager la société en France.
 
 Lorsqu'il est réalisé par voie électronique, le dépôt mentionné au premier alinéa est réalisé par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1 et dans les conditions prévues par l'article R. 123-7.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

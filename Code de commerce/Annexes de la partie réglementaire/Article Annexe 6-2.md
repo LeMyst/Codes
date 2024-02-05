@@ -1,7 +1,6 @@
 # Article Annexe 6-2
 
-Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,
-
+Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,\
 des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
 
 |  |  |  |
@@ -35,8 +34,7 @@ des procédures applicables aux personnes qui ne sont ni commerçants ni artisan
 | Charente-Maritime | Tribunal judiciaire de la Rochelle | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Saintes | Ressort du tribunal judiciaire |
 | Cher | Tribunal judiciaire de Bourges | Le département |
-| Corrèze | Tribunal judiciaire de Brive-la-Gaillarde | Ressort du tribunal judiciaire
-|
+| Corrèze | Tribunal judiciaire de Brive-la-Gaillarde | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Tulle | Ressort du tribunal judiciaire |
 | Corse-du-Sud | Tribunal judiciaire d'Ajaccio | Le département |
 | Corse (Haute-) | Tribunal judiciaire de Bastia | Le département |
@@ -158,10 +156,13 @@ des procédures applicables aux personnes qui ne sont ni commerçants ni artisan
 | Vaucluse | Tribunal judiciaire d'Avignon | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Carpentras | Ressort du tribunal judiciaire |
 | Vendée | Tribunal judiciaire de La Roche-sur-Yon | Ressort du tribunal judiciaire |
-|   | Tribunal judiciaire des Sables-d'Olonne | Ressort du tribunal judiciaire |
+|  | Tribunal judiciaire des Sables-d'Olonne | Ressort du tribunal judiciaire |
 | Vienne | Tribunal judiciaire de Poitiers | Le département |
 | Vienne (Haute-) | Tribunal judiciaire de Limoges | Le département |
 | Vosges | Tribunal judiciaire d'Epinal | Le département |
 | Yonne f | Tribunal judiciaire d'Auxerre | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Sens | Ressort du tribunal judiciaire |
 | Yvelines | Tribunal judiciaire de Versailles | Le département |
+
+NOTA:
+Conformément à l’article 2 du décret n° 2021-1821 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se référer audit article en ce qui concerne les modalités d'application.

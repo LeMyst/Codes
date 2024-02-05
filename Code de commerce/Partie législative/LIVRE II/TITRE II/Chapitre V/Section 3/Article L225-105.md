@@ -9,3 +9,6 @@ L'assemblée ne peut délibérer sur une question qui n'est pas inscrite à l'or
 L'ordre du jour de l'assemblée ne peut être modifié sur deuxième convocation.
 
 Lorsque l'assemblée est appelée à délibérer sur des modifications de l'organisation économique ou juridique de l'entreprise sur lesquelles le comité d'entreprise a été consulté en application de l'article L. 432-1 du code du travail, l'avis de celui-ci lui est communiqué.
+
+NOTA:
+Ordonnance n° 2010-1511 du 9 décembre 2010 article 7 : Les présentes dispositions s'appliquent aux assemblées tenues à compter du 1er janvier 2011.

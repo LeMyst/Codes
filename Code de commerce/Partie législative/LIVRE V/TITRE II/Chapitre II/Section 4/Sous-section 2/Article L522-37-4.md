@@ -7,3 +7,6 @@ Il ne peut être consenti aucune sûreté autre que le gage constitué en applic
 Les informations relatives au gage sont consultables gratuitement sur un site d'information accessible en ligne.
 
 Un décret en Conseil d'Etat définit les conditions d'inscription du gage et les modalités de fonctionnement du registre.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.

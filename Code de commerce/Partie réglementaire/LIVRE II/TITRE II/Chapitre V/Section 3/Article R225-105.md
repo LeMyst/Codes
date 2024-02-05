@@ -139,3 +139,6 @@ a) Promotion et respect des stipulations des conventions fondamentales de l'Orga
 -à l'abolition effective du travail des enfants ;
 
 b) Autres actions engagées en faveur des droits de l'homme.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

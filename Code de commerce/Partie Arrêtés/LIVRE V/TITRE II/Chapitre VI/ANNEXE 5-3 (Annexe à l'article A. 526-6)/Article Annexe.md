@@ -102,6 +102,7 @@ Fait à le I _ I _ I _ I _ I _ I _ I _ I _ I
 
 |  |  |
 | --- | --- |
-|
-Signature de l'entrepreneur individuel |
-Signature du bénéficiaire de la renonciation |
+|  Signature de l'entrepreneur individuel |  Signature du bénéficiaire de la renonciation |
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 12 mai 2022 (NOR : ECOI2213035A), en application du premier alinéa du I de l'article 19 de la loi du 14 février 2022, ces dispositions entrent en vigueur le 15 mai 2022.

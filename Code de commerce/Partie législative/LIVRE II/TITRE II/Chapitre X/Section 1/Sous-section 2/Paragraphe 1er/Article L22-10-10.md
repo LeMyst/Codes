@@ -13,3 +13,6 @@ Dans les sociétés dont les titres sont admis aux négociations sur un marché 
 5° Les modalités particulières de la participation des actionnaires à l'assemblée générale ou les dispositions des statuts qui prévoient ces modalités ;
 
 6° La description de la procédure mise en place par la société en application de l'article L. 22-10-12 et de sa mise en œuvre.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

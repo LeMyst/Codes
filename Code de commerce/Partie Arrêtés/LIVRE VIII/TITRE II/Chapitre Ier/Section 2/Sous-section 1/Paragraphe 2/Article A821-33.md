@@ -5,3 +5,6 @@ Le rapport de stage mentionné à l'article A. 821-20 détaille, le cas échéan
 Le président du conseil régional, au vu du rapport du maître de stage et des observations écrites du contrôleur de stage, établit une attestation spécifique précisant si le stage satisfait aux exigences prévues au 2° du I de l'article L. 821-18.
 
 Une copie de cette attestation est remise au stagiaire.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

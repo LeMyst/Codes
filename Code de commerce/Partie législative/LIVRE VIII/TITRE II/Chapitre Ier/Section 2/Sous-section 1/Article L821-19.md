@@ -27,3 +27,6 @@ III.-La Haute autorité de l'audit apprécie le respect des conditions mentionn�
 Lorsque la Commission européenne a adopté une décision d'équivalence ou a fixé des critères d'équivalence généraux pour l'appréciation des exigences mentionnées aux 2°, 3° et 4° du II, la Haute autorité s'y conforme.
 
 IV.-Les contrôleurs de pays tiers inscrits sur la liste prévue au III de l'article L. 821-13 ou dispensés d'inscription en application de l'article L. 821-21 sont soumis aux contrôles définis à l'article L. 820-14 et au régime de sanctions défini à la section IV du présente chapitre.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

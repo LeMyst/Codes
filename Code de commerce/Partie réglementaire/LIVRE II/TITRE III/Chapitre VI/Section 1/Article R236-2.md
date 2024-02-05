@@ -19,3 +19,6 @@ Cet avis contient les indications suivantes :
 Le dépôt au greffe prévu à l'article L. 236-6 et la publicité prévue au présent article ont lieu trente jours au moins avant la date de la première assemblée générale appelée à statuer sur l'opération ou, le cas échéant, pour les opérations mentionnées à l'article L. 236-11, trente jours au moins avant que l'opération ne prenne effet.
 
 Lorsque l'approbation de la fusion par l'assemblée générale extraordinaire de la société absorbante n'est pas requise conformément au II de l'article L. 236-9, le dépôt au greffe et la publicité prévue au présent article ont lieu un mois au moins avant la date de l'assemblée générale de l'autre société ou des autres sociétés qui fusionnent.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

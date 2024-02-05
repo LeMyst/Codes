@@ -23,3 +23,8 @@ II. - Sont également éligibles, s'ils sont âgés de trente ans au moins et sa
 1° Les membres en exercice des tribunaux de commerce ainsi que les anciens membres de ces tribunaux ayant exercé les fonctions de juge de tribunal de commerce pendant au moins six années et n'ayant pas été réputés démissionnaires. Lorsque ces personnes se portent candidates dans un tribunal non limitrophe de celui dans lequel elles ont été élues, elles doivent être domiciliées ou disposer d'une résidence dans le ressort du tribunal où elles candidatent ou dans le ressort des tribunaux limitrophes ;
 
 2° Les cadres qui exercent des fonctions impliquant des responsabilités de direction commerciale, technique ou administrative au sein des entreprises ou des établissements inscrits au registre national des entreprises en tant qu'entreprise ou établissement du secteur des métiers et de l'artisanat ou mentionnés au II de l'article L. 713-1 situés dans le ressort du tribunal de commerce ou dans le ressort des tribunaux limitrophes. Les candidats doivent être employés dans l'un de ces ressorts.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Conformément au III de l’article unique de la loi n° 2022-1348 du 24 octobre 2022, les dispositions issues du II sont applicables à compter du 1er janvier 2023.

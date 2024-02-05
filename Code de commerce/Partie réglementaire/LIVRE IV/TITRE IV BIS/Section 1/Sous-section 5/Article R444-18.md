@@ -23,3 +23,8 @@ Les informations statistiques pouvant être recueillies en application du 2° de
 10° Du nombre total d'offices, études ou cabinets, du nombre total de professionnels en exercice au sein de ces offices ou études au 1er janvier de l'année civile concernée, et du nombre de personnes y exerçant la profession concernée en qualité de salarié à cette même date.
 
 S'agissant des avocats, ne sont recueillies en application du présent article que les informations relatives aux structures d'exercice et professionnels ayant réalisé au cours de l'année civile au moins un des actes de procédure listés au tableau 6 annexé à l'article R. 444-3.
+
+NOTA:
+Conformément aux dispositions de l'article 7 du décret n° 2017-862 du 9 mai 2017, ces dispositions entrent en vigueur à la date d'entrée en vigueur du premier arrêté portant fixation des tarifs réglementés de postulation en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires en application de l'article L. 444-3 du code de commerce.
+
+L'arrêté du 6 juillet 2017 fixant les tarifs réglementés de postulation des avocats en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires a été publié au JORF du 14 juillet 2017 et entre en vigueur, sous réserve des dérogations prévues par les dispositions de son article 3, le 1er septembre 2017.

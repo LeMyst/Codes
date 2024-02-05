@@ -11,3 +11,6 @@ Lorsque la participation est détenue par le chef d'entreprise, celui-ci notifie
 La vente peut intervenir avant l'expiration du délai de deux mois dès lors que chaque salarié a fait connaître sa décision de ne pas présenter d'offre.
 
 Lorsqu'une action en responsabilité est engagée, la juridiction saisie peut, à la demande du ministère public, prononcer une amende civile dont le montant ne peut excéder 2 % du montant de la vente.
+
+NOTA:
+Aux termes du III de l'article 204 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard six mois après la promulgation de ladite loi.

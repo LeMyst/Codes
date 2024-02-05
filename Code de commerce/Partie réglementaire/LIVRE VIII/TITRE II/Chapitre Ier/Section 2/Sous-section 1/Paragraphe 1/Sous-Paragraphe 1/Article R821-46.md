@@ -19,3 +19,6 @@ Les modalités de l'habilitation à recevoir des stagiaires sont définies par a
 Les stagiaires disposent d'un délai de six ans après la date de délivrance de l'attestation de fin de stage pour obtenir le certificat d'aptitude aux fonctions de commissaire aux comptes. Au-delà de ce délai, l'attestation de fin de stage est caduque.
 
 Les personnes ayant effectué la totalité de leur stage professionnel prévu au 5° de l'article L. 821-14, mais dont l'attestation de fin de stage est devenue caduque dans les conditions prévues à l'alinéa précédent accomplissent un nouveau stage dont la durée est d'un an.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

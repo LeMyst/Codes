@@ -21,3 +21,6 @@ II.-La liste mentionnée à l'article L. 822-4 est établie par ordre alphabéti
 2° Son adresse professionnelle correspondant à celle du siège social ou d'un établissement secondaire de l'organisme tiers indépendant, son adresse électronique et ses coordonnées téléphoniques ainsi que, le cas échéant, l'adresse du site internet de l'organisme tiers indépendant ;
 
 3° La dénomination sociale, la forme juridique, le numéro d'accréditation de la personne morale dans laquelle l'intéressé est associé, dirigeant ou salarié ou pour le compte de laquelle il exerce ses fonctions.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

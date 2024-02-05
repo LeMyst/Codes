@@ -9,3 +9,8 @@ Dans les cinq jours de sa saisine, le tribunal judiciaire statue en dernier ress
 La décision du tribunal judiciaire est notifiée par le greffier dans les deux jours.
 
 Le délai du pourvoi en cassation est de cinq jours. Le pourvoi est formé, instruit et jugé dans les conditions fixées par les articles 999 à 1008 du code de procédure civile.
+
+NOTA:
+Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur le 1er janvier 2020 et sont applicable aux instances en cours.
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

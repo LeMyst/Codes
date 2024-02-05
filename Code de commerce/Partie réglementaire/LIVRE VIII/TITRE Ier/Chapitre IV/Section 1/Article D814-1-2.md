@@ -7,3 +7,6 @@ Les membres de la commission titulaires ou suppléants autres que le président 
 Les deux magistrats du parquet titulaires et leur suppléant, désignés pour exercer les fonctions de commissaire du Gouvernement auprès de la commission, perçoivent, dans la limite d'un plafond annuel, une indemnité forfaitaire pour chaque séance à laquelle ils participent.
 
 Le montant de ces indemnités et leurs plafonds annuels sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la fonction publique et du ministre chargé du budget.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-1421 du 19 novembre 2020, les présentes dispositions entrent en vigueur le premier jour du mois suivant sa publication.

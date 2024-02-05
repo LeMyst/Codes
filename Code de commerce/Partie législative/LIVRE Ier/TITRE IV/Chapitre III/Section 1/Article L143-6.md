@@ -9,3 +9,6 @@ Ces affiches sont obligatoirement apposées, à la diligence de l'officier publi
 L'affiche est insérée dix jours avant la vente sur un support habilité à recevoir des annonces légales dans le département dans lequel le fonds est situé.
 
 La publicité est constatée par une mention faite dans le procès-verbal de vente.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

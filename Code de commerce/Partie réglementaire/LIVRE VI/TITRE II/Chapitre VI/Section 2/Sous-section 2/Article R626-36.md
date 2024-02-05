@@ -11,3 +11,6 @@ La production de la créance mentionne la sûreté inscrite sur le bien. Un déc
 A défaut de production dans le délai mentionné au troisième alinéa, le créancier est déchu des droits de participer à la distribution.
 
 En cas de réduction des dividendes, en application du deuxième alinéa de l'article L. 626-22, l'état de collocation dressé par le commissaire à l'exécution du plan mentionne les modalités de calcul de cette réduction.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

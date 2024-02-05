@@ -15,3 +15,6 @@ Sont ainsi immatriculées, sur leurs déclarations :
 5° Les personnes physiques, autres que celles mentionnées aux 1° à 4° ci-dessus, établies en France et exerçant une activité économique régulière et professionnelle, y compris une activité libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ;
 
 6° Les entreprises étrangères sans établissement stable en France.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

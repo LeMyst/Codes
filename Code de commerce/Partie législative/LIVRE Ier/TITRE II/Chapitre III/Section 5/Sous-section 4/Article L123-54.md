@@ -23,3 +23,6 @@ V.-Sont dispensées du paiement des droits prévus au II et III du présent arti
 VI.-Les dispositions du III, IV et V sont applicables aux formalités de dépôt et de transfert des déclarations et d'inscription des mentions indiqués à l'article L. 526-19 du code de commerce qui sont accomplies auprès du registre national des entreprises.
 
 VII.-Sous réserve des modalités définies par le présent article, les droits recouvrés par l'organisme unique mentionné à l'article L. 123-33 le sont selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits d'enregistrement. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes droits.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

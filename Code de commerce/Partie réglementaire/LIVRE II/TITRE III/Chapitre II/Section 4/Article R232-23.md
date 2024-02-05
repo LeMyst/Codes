@@ -11,3 +11,6 @@ II. - Dès sa date de dépôt, le rapport est mis gratuitement à disposition du
 3° Le site internet de la société mentionnée au III de l'article L. 233-28-2, de l'une des sociétés qu'elle contrôle, au sens de l'article L. 233-16, ou de la succursale en France émanant de la société mentionnée au II de l'article L. 233-28-2.
 
 III. - Lorsqu'en application du 2° ou du 3° du II le rapport est publié sur le site internet d'une société ayant son siège dans un Etat tiers, il indique, suivant le cas, le nom et l'adresse de la succursale en France émanant de la société mentionnée au I de l'article L. 232-6-1, le nom et le siège de la société mentionnée au I de l'article L. 233-28-2 ou le nom et l'adresse de la succursale émanant de la société mentionnée au II de ce même article.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-493 du 22 juin 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 22 juin 2024.

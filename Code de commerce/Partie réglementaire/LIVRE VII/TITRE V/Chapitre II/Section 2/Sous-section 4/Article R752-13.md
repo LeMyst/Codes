@@ -21,3 +21,6 @@ II. - L'étude spécifique mentionnée au V de l'article L. 751-2 décrit l'acti
 Le préfet qui a demandé une telle étude en rapporte le contenu lors de la réunion de la commission.
 
 Ces dispositions ne sont pas applicables à la procédure prévue à l'article L. 752-4.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2022-1312 du 13 octobre 2022, ces dispositions s'appliquent pour les demandes déposées à compter du 15 octobre 2022.

@@ -7,3 +7,6 @@ Les remboursements forfaitaires de frais et débours sont régis par la sous-sec
 Les remises sur les émoluments proportionnels sont régies par la sous-section 7 de cette même section.
 
 Les émoluments applicables jusqu'au 31 août 2025 sont ceux qui sont prévus par la présente section.
+
+NOTA:
+Se reporter aux dispositions de l'article 2 de l'arrêté du 23 août 2023 (NOR : ECOC2319334A) en ce qui concerne les dérogations à l'article A. 444-187 en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires.

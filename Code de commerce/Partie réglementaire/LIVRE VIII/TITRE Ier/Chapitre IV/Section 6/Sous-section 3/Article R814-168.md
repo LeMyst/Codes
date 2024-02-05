@@ -5,3 +5,6 @@ En cas de dissolution de la société de participations financières, le liquida
 Le liquidateur peut être remplacé pour cause d'empêchement, ou pour tout autre motif grave, sur décision du président du tribunal judiciaire du lieu du siège social de la société statuant sur requête, à la demande du liquidateur, des associés ou de leurs ayants droit, ou du procureur de la République.
 
 En aucun cas les fonctions de liquidateur ne peuvent être confiées à un associé ayant fait l'objet d'une peine disciplinaire. Elles ne peuvent être confiées, pour une société de participations financières de professions libérales d'administrateurs judiciaires à un mandataire judiciaire et, pour une société de participations financières de professions libérales de mandataires judiciaires, à un administrateur judiciaire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

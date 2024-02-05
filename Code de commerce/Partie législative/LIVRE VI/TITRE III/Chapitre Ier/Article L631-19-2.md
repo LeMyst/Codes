@@ -33,3 +33,6 @@ Le tribunal peut modifier le plan en application de l'article L. 626-26.
 En cas de défaillance d'un associé ou actionnaire souscripteur ou cessionnaire, le tribunal, saisi par le commissaire à l'exécution du plan ou par le ministère public, par le comité social et économique ou, dans les entreprises de moins de cinquante salariés, des membres de sa délégation du personnel, peut prononcer la résolution du plan de redressement, sans préjudice de la réparation du préjudice subi. Il statue en présence du ministère public. Le prix payé par le souscripteur ou le cessionnaire reste acquis.
 
 Le présent article n'est pas applicable lorsque le débiteur exerce une activité professionnelle libérale soumise à un statut législatif ou réglementaire.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

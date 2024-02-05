@@ -17,3 +17,6 @@ Le réviseur échange avec la personne mentionnée au premier alinéa de l'artic
 La société de commissaires aux comptes met en place une procédure de règlement des désaccords entre le réviseur indépendant et la personne mentionnée au premier alinéa de l'article L. 821-25.
 
 Le commissaire aux comptes ou la société de commissaires aux comptes et le réviseur indépendant consignent les résultats de la revue indépendante ainsi que les considérations qui sous-tendent ces résultats.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

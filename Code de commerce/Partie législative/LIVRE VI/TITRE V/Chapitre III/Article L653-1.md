@@ -11,3 +11,6 @@ I.-Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire
 Ces mêmes dispositions ne sont pas applicables aux personnes physiques ou dirigeants de personne morale, exerçant une activité professionnelle indépendante et, à ce titre, soumises à des règles disciplinaires.
 
 II.-Les actions prévues par le présent chapitre se prescrivent par trois ans à compter du jugement qui prononce l'ouverture de la procédure mentionnée au I. Toutefois, la prescription de l'action prévue à l'article L. 653-6 ne court qu'à compter de la date à laquelle la décision rendue en application de l'article L. 651-2 a acquis force de chose jugée.
+
+NOTA:
+Conformément au XVI de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions ne sont pas applicables aux procédures en cours au jour de la publication de ladite loi.

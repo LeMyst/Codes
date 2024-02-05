@@ -7,3 +7,6 @@ Lorsque la modification prévue à l'article R. 743-158 affecte le ressort d'un 
 2° En cas de réduction du ressort du tribunal judiciaire, de suppression de sa compétence commerciale ou lorsque le greffe est confié à un greffier de tribunal de commerce, les greffiers des tribunaux de commerce qui sont créés ou dont le ressort est agrandi ou les greffiers dont l'office est créé versent une indemnité à l'Etat.
 
 Dans tous les cas, le montant des indemnités est fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

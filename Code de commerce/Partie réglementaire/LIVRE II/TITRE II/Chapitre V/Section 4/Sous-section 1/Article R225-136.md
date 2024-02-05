@@ -9,3 +9,6 @@ En cas de stipulation d'avantages particuliers ou d'émission d'actions de préf
 Le rapport des commissaires aux apports est tenu, au siège social, à la disposition des actionnaires, huit jours au moins avant la date de l'assemblée générale extraordinaire ou avant la date de la réunion du conseil d'administration ou du directoire, en cas de délégation conformément à l'article L. 22-10-53. Dans ce cas, le rapport est porté à la connaissance des actionnaires à la prochaine assemblée générale.
 
 En cas d'émission d'actions de préférence donnant lieu à l'application de l'article L. 228-15, ce délai peut être réduit si tous les actionnaires y consentent, par écrit, préalablement à la désignation du commissaire aux apports.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

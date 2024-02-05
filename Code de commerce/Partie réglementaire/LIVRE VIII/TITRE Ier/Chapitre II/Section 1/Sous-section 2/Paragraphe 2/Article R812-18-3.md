@@ -5,3 +5,6 @@ Le stagiaire rédige un rapport de stage dans lequel il décrit les procédures 
 Le stage qui a été régulièrement accompli donne lieu à la délivrance d'une attestation établie par le maître de stage. Ce document atteste de la durée du stage et de l'exécution par le stagiaire de l'ensemble des actes juridiques et de gestion mentionnés au premier alinéa de l'article R. 812-18-2 ; il comporte également les appréciations portées sur la qualité de son travail par le maître de stage et les observations de celui-ci sur le mémoire de stage. Il est communiqué au stagiaire qui certifie en avoir pris connaissance et peut apporter ses observations écrites. Il transmet ce document, accompagné du mémoire et du rapport de stage, à la commission nationale d'inscription et de discipline.
 
 Le maître de stage adresse une copie de l'attestation et du rapport de stage au magistrat désigné par le garde des sceaux, ministre de la justice, en application du premier alinéa de l'article R. 811-40.
+
+NOTA:
+Conformément à l'article 22 III du décret n° 2016-400 du 1er avril 2016, les présentes dispositions entrent en vigueur à compter de la publication de l'arrêté prévu aux articles R. 811-28-2 et R. 812-18-2.

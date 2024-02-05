@@ -31,3 +31,8 @@ A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 Ces documents sont datés, signés et certifiés sincères et véritables par le demandeur. Ceux qui sont mentionnés aux l°, 5°, 6°, 7° et 8° sont établis à la date de la demande ou dans les sept jours qui précèdent.
 
 Dans le cas où l'un ou l'autre de ces documents ne peut être fourni ou ne peut l'être qu'incomplètement, la demande indique les motifs qui empêchent cette production.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

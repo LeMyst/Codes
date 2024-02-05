@@ -7,3 +7,6 @@ Sous réserve des règles propres au rétablissement professionnel, le tribunal,
 1° Si les conditions d'ouverture d'une procédure prévue aux titres II à IV du présent livre sont réunies, en fonction de la situation du patrimoine professionnel de l'entrepreneur individuel ;
 
 2° Si les conditions prévues à l'article L. 711-1 du code de la consommation sont réunies, en fonction de l'actif du patrimoine personnel et de l'ensemble des dettes exigibles ou à échoir dont le recouvrement peut être poursuivi sur cet actif.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

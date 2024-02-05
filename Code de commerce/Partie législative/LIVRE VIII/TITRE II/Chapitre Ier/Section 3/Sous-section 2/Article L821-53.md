@@ -7,3 +7,6 @@ Lorsqu'une personne ou une entité établit des comptes consolidés, les commiss
 Sans préjudice des dispositions de l'article L. 821-61, la certification des comptes consolidés est délivrée notamment après examen des travaux des commissaires aux comptes des personnes et entités comprises dans la consolidation ou, s'il n'en est point, des professionnels chargés du contrôle des comptes desdites personnes et entités.
 
 Le contenu du rapport du commissaire destiné à l'organe appelé à statuer sur les comptes est fixé par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

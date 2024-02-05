@@ -13,3 +13,6 @@ Les travaux publiés devront traiter de sujets relatifs à des matières techniq
 L'ensemble des publications considérées doit contenir au minimum 10 000 signes espaces compris, hors titre, chapeaux, abstracts et intertitres. L'équivalence est fixée à trois heures de formation pour 10 000 signes ainsi définis. Une mise à jour correspond au tiers de cette équivalence.
 
 Le commissaire aux comptes conserve au moins un exemplaire original de l'ouvrage ou de la revue ayant accueilli sa publication, et le produit, en cas de demande, lors des contrôles du respect de l'obligation de formation.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -55,3 +55,6 @@ L'organisme unique ne transmet pas les demandes d'autorisation qui ne respectent
 L'organisme unique interroge le répertoire national d'identification des personnes physiques, afin d'avoir confirmation, pour les personnes physiques inscrites, du caractère identique des éléments déclarés à ceux figurant dans ce répertoire.
 
 Le résultat de cette consultation est porté à la connaissance des organismes destinataires mentionnés à l'arrêté prévu à l'article R. 123-16.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

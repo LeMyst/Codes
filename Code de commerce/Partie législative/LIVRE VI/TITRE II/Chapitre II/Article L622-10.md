@@ -11,3 +11,6 @@ Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur
 Lorsqu'il convertit la procédure de sauvegarde en procédure de redressement judiciaire, le tribunal peut, si nécessaire, modifier la durée de la période d'observation restant à courir ou la prolonger pour une durée maximale de six mois. Les classes déjà constituées avant cette conversion, conformément à la section 3 du chapitre VI du présent titre, sont conservées avec les mêmes modalités de répartition et de calcul des voix, sans préjudice des recours pendants. Les opérations de constitution des classes se poursuivent nonobstant la conversion.
 
 Aux fins de réaliser la prisée des actifs du débiteur au vu de l'inventaire établi pendant la procédure de sauvegarde, il désigne, en considération de leurs attributions respectives telles qu'elles résultent des dispositions qui leur sont applicables, un commissaire-priseur judiciaire, un huissier de justice, un notaire ou un courtier en marchandises assermenté.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

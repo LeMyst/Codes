@@ -5,3 +5,6 @@ Sous réserve de réciprocité, les contrôleurs de pays tiers mentionnés au I 
 Cette dispense est accordée si le contrôleur de pays tiers est agréé par une autorité compétente d'un Etat dont le système de supervision publique, d'assurance qualité, d'enquête et de sanctions, a fait l'objet d'une décision d'équivalence de la Commission européenne sur le fondement de l'article 46 de la directive 2006/43/ CE du 17 mai 2006.
 
 En l'absence de décision de la Commission européenne, la Haute autorité apprécie cette équivalence au regard des exigences prévues aux dispositions du présent chapitre. Lorsque la Commission a défini des critères généraux d'appréciation, la Haute autorité les applique.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

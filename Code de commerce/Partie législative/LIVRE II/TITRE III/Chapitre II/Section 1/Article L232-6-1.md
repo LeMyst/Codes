@@ -17,3 +17,6 @@ Si la société ne communique pas l'ensemble de ces informations, son représent
 Les deux premiers alinéas du présent III s'appliquent également à toute succursale dont dispose une société ne disposant pas d'un siège social dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, et qui n'a pas d'autres fins que d'éluder l'application du présent article.
 
 IV.-Les informations dont la divulgation porterait gravement préjudice à la position commerciale des sociétés auxquelles elles se rapportent peuvent être omises du rapport mentionné au I, à titre temporaire, dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

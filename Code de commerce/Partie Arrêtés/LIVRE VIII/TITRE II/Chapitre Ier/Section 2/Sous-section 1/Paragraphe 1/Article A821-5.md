@@ -15,3 +15,6 @@ Pour les épreuves écrites, les candidats peuvent utiliser les codes et recueil
 Le jury peut également autoriser de la documentation professionnelle, notamment pour l'épreuve mentionnée au 1° du présent article.
 
 Chacune des quatre épreuves écrites est notée de 0 à 20 et fait l'objet d'une double correction. L'anonymat de la correction est assuré. Toute note inférieure à 6/20 à l'une des quatre épreuves écrites est éliminatoire.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

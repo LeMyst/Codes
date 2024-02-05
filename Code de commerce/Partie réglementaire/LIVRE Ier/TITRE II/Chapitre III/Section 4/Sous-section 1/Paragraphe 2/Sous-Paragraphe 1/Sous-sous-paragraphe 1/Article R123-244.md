@@ -19,3 +19,6 @@ Sont inscrits au sein du Registre national des entreprises, sur déclaration de 
 8° Pour chacune des activités concernées, le cas échéant, l'indication de l'affectation, en application de l'article L. 526-6, d'un patrimoine séparé de son patrimoine personnel, ainsi que la mention des informations déclarées, telles que prévues aux 2°, 3°, 4° et 5° de l'article R. 526-3.
 
 En l'absence d'établissement, seules les informations mentionnées aux 4° à 8° sont indiquées par la personne physique.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

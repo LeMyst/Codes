@@ -9,3 +9,6 @@ Lorsque la liquidation judiciaire a été ouverte ou prononcée à l'égard d'un
 L'action se prescrit par trois ans à compter du jugement qui prononce la liquidation judiciaire.
 
 Les sommes versées par les dirigeants ou l'entrepreneur individuel à responsabilité limitée entrent dans le patrimoine du débiteur. Elles sont réparties au marc le franc entre tous les créanciers. Les dirigeants ou l'entrepreneur individuel à responsabilité limitée ne peuvent pas participer aux répartitions à concurrence des sommes au versement desquelles ils ont été condamnés.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

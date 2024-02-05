@@ -11,3 +11,6 @@ Le prix proposé par la société aux associés détenant des parts ou actions d
 Cette offre comporte le prix offert par part ou action et le mode de paiement proposé ainsi que le délai pendant lequel l'offre est maintenue et le lieu où elle peut être acceptée. Ce délai ne peut être inférieur à dix jours à compter de la date de réception de l'offre.
 
 Lorsque les titres de la société qui fusionne sont admis aux négociations sur un marché réglementé, leur évaluation est faite conformément au II de l'article L. 433-4 du code monétaire et financier.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

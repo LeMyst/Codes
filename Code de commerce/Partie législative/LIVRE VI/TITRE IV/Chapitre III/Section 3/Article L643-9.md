@@ -9,3 +9,6 @@ Le tribunal peut également prononcer la clôture de la procédure en désignant
 Le tribunal est saisi à tout moment par le liquidateur, le débiteur ou le ministère public. Il peut se saisir d'office. A l'expiration d'un délai de deux ans à compter du jugement de liquidation judiciaire, tout créancier peut également saisir le tribunal aux fins de clôture de la procédure.
 
 En cas de plan de cession, le tribunal ne prononce la clôture de la procédure qu'après avoir constaté le respect de ses obligations par le cessionnaire.
+
+NOTA:
+Ordonnance n° 2014-326 du 12 mars 2014 article 116 : Les présentes dispositions sont applicables aux procédures en cours au 1er juillet 2014.

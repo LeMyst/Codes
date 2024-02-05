@@ -29,3 +29,6 @@ En application du troisième alinéa de l'article L. 123-52, ont accès à l'int
 12° L'organisme unique prévu à l'article L. 123-33 ;
 
 13° L'Institut national de la propriété industrielle, dans les conditions prévues au dernier alinéa de l'article R. 411-1 du code de la propriété intellectuelle.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

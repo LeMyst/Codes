@@ -25,3 +25,6 @@ III.-Les candidats au titre des dispositions du premier alinéa de l'article R. 
 IV.-Les pièces produites sont accompagnées, le cas échéant, de leur traduction en langue française par un traducteur agréé auprès des tribunaux français ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen.
 
 A réception du dossier complet, un récépissé leur est délivré. Les candidats sont admis à se présenter, selon le cas, au certificat préparatoire aux fonctions de commissaire aux comptes ou au certificat d'aptitude aux fonctions de commissaire aux comptes par décision motivée du garde des sceaux. Cette décision doit intervenir dans un délai de quatre mois à compter de la délivrance du récépissé. Le défaut de réponse dans ce délai vaut acceptation de la demande.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

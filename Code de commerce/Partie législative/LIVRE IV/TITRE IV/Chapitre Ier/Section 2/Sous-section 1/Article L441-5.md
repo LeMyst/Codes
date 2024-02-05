@@ -15,3 +15,6 @@ Une convention écrite est établie, dans le respect des articles L. 441-1 et L.
 6° La durée de la convention ainsi que les modalités de sa résiliation ;
 
 7° Les modalités de règlement des différends quant à l'exécution de la convention et, si les parties décident d'y recourir, les modalités de mise en place d'une médiation.
+
+NOTA:
+Aux termes de l'article 5 II de l'ordonnance n° 2019-359 du 24 avril 2019, pour les conventions en cours à la date d'entrée en vigueur de la présente ordonnance dont la durée est supérieure à un an, l'article L. 441-5 du code de commerce dans sa rédaction résultant de cette ordonnance s'appliquent à compter du 1er mars 2020.

@@ -7,3 +7,6 @@ Toutefois, lorsque le total du bilan mentionné au b du II de l'article R. 663-3
 Cette rémunération est acquise lorsque le tribunal a statué sur le plan de sauvegarde ou de redressement ou a prononcé la liquidation judiciaire du débiteur au cours d'une procédure de sauvegarde ou de redressement judiciaire. Elle est majorée de 50 % en cas d'arrêté du plan.
 
 Lorsque le plan est arrêté conformément aux dispositions du premier alinéa de l'article L. 628-8, la rémunération prévue à l'alinéa précédent est majorée de 50 %.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2023-434 du 3 juin 2023, ces dispositions s'appliquent aux procédures ouvertes à compter du lendemain de la publication dudit décret, à savoir à compter du 5 juin 2023.

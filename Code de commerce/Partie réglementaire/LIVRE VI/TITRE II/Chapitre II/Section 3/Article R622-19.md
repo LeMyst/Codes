@@ -11,3 +11,6 @@ L'acquéreur joint à sa demande un justificatif du paiement du prix, un état d
 Le greffier convoque les créanciers qui n'ont pas donné mainlevée de leurs inscriptions, à domicile élu, par lettre recommandée avec demande d'avis de réception. La convocation comporte l'indication qu'ils disposent d'un délai de trente jours à compter de la réception de la lettre recommandée pour faire opposition au paiement du prix par déclaration au greffe ou par lettre recommandée avec demande d'avis de réception.
 
 Le juge statue sur les oppositions et ordonne la radiation des inscriptions.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -5,3 +5,6 @@ Les seuils mentionnés au deuxième alinéa de l'article L. 225-218 relatif à l
 La société n'est plus tenue de désigner un commissaire aux comptes dès lors qu'elle n'a pas dépassé les chiffres fixés pour deux de ces trois critères pendant les deux exercices précédant l'expiration du mandat du commissaire aux comptes.
 
 Dans le cas prévu au troisième alinéa de l'article L. 225-218, le commissaire aux comptes est désigné par jugement du président du tribunal de commerce statuant selon la procédure accélérée au fond.
+
+NOTA:
+Conformément à l’article 15 du décret n° 2020-101, ces dispositions s'appliquent à compter du premier exercice ouvert à compter de son entrée en vigueur.

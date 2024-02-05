@@ -27,3 +27,6 @@ b) S'agissant du mode d'exploitation, s'il s'agit d'une gérance-mandat, sont d�
 5° Le caractère ambulant ou saisonnier des activités exercées et, s'il y a lieu, la superficie du ou des magasins ;
 
 6° La qualité d'employeur de l'entreprise et, s'il y a lieu, de chacun de ses établissements.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

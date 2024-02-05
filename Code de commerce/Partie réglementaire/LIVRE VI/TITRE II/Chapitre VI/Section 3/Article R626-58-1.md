@@ -11,3 +11,6 @@ La décision du juge-commissaire ou du tribunal est notifiée par le greffe aux 
 Un appel peut être formé par les parties mentionnées à l'alinéa précédent à l'encontre de cette décision, dans un délai de cinq jours à compter de sa notification. Le ministère public peut également interjeter appel dans le même délai à compter de la communication de cette même décision. La cour d'appel statue dans un délai de quinze jours à compter de sa saisine L'appel est formé, instruit et jugé suivant les modalités prévues par les premier au sixième alinéas de l'article R. 661-6, à l'exclusion du 2° de cet article.
 
 Dès qu'il a été statué par décision devenue définitive sur la contestation, et au moins trois jours avant la date du vote, l'administrateur actualise, s'il y a lieu, les modalités de constitution des classes et de répartition des droits de vote. Il en informe les parties affectées, le mandataire judiciaire et le ministère public.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

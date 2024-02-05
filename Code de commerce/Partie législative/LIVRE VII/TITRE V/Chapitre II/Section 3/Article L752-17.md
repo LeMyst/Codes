@@ -19,3 +19,6 @@ IV.-La commission départementale d'aménagement commercial doit, dès le dépô
 V.-La Commission nationale d'aménagement commercial peut se saisir de tout projet mentionné à l'article L. 752-1 dont la surface de vente atteint au moins 20 000 mètres carrés dans le délai d'un mois suivant l'avis émis par la commission départementale d'aménagement commercial conformément au I du présent article ou suivant la décision rendue conformément au II.
 
 Elle émet un avis ou rend une décision sur la conformité du projet aux critères énoncés à l'article L. 752-6. Cet avis ou cette décision se substitue à celui de la commission départementale. En l'absence d'avis ou de décision exprès de la commission nationale dans le délai de quatre mois à compter de sa saisine, l'avis de la commission départementale d'aménagement commercial est réputé confirmé.
+
+NOTA:
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 18 décembre 2014.

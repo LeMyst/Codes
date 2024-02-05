@@ -9,3 +9,6 @@ L'Institut national de la statistique et des études économiques sollicite du t
 3° Du code issu de la nomenclature d'activités française en vigueur caractérisant l'activité principale de l'entreprise et de chacun de ses établissements ;
 
 4° De toute modification d'adresse de l'entreprise et de ses établissements, dès lors que survient une actualisation au sein de la base adresse nationale mentionnée au 6° de l'article R. 321-5 du code des relations entre le public et l'administration ou des autres bases de données géographiques mentionnées à l'article R. 123-234-2.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

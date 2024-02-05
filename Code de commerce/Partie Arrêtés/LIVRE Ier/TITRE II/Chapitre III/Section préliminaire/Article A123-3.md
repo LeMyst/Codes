@@ -27,3 +27,6 @@ Ces vérifications peuvent être effectuées de manière automatisée, à l'exce
 Le système utilisé pour valider la signature électronique fournit le résultat du processus de validation et permet de détecter tout problème relatif à la sécurité.
 
 Le mode d'emploi permettant de procéder à la vérification de la validité de la signature électronique est mis gratuitement à disposition lors du dépôt de document signé.
+
+NOTA:
+Conformément à l’article 3 de l’arrêté du 1er décembre 2022 (NOR : ECOI2232181A), ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -5,3 +5,6 @@ Lorsqu'une société de quelque forme que ce soit qui n'a pas de commissaire aux
 Les associés statuent sur l'évaluation des biens et l'octroi des avantages particuliers. Ils ne peuvent les réduire qu'à l'unanimité.
 
 A défaut d'approbation expresse des associés, mentionnée au procès-verbal, la transformation est nulle.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

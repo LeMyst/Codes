@@ -5,3 +5,6 @@ Les commissaires aux comptes et, au sein des sociétés de commissaires aux comp
 Pendant ce même délai, ils ne peuvent exercer les mêmes fonctions dans une personne ou entité contrôlée ou qui contrôle au sens des I et II de l'article L. 233-3 la personne ou entité pour laquelle ils ont exercé une mission.
 
 Cette interdiction s'applique également à toutes personnes autres que celles mentionnées au premier alinéa du présent article, inscrites sur les listes mentionnées aux I et II de l'article L. 821-13 pendant une durée d'un an suivant leur participation à la mission.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

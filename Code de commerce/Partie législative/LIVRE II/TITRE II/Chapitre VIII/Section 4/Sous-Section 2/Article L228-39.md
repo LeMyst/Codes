@@ -7,3 +7,6 @@ Cette vérification est assurée par un ou plusieurs commissaires désignés par
 Les dispositions du premier alinéa ne sont pas applicables à l'émission d'obligations qui bénéficient de la garantie de sociétés ayant établi deux bilans régulièrement approuvés par les actionnaires. Elles ne sont pas non plus applicables à l'émission d'obligations qui sont gagées par des titres de créance sur l'Etat, sur les autres collectivités publiques ou sur des entreprises concessionnaires de l'Etat ou de toute autre collectivité publique ou subventionnées par ces mêmes collectivités et ayant établi le bilan de leur premier exercice.
 
 L'émission d'obligations est interdite aux sociétés dont le capital n'est pas intégralement libéré sauf si les actions non libérées ont été réservées aux salariés en application des articles L. 3332-18 à L. 3332-24 du code du travail, et sauf si elle est faite en vue de l'attribution aux salariés des obligations émises au titre de la participation de ceux-ci aux fruits de l'expansion de l'entreprise.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

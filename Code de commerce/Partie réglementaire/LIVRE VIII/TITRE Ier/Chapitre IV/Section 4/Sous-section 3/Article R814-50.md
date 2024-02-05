@@ -13,3 +13,6 @@ La décision est notifiée à l'intéressé par lettre recommandée avec demande
 La décision de la commission qui rejette la demande tendant à l'attribution de l'honorariat est susceptible de recours dans les conditions prévues à l'article R. 814-2.
 
 Le retrait de l'honorariat peut être prononcé par la commission sur la demande du commissaire du Gouvernement, selon les modalités prévues aux quatrième et sixième alinéas.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

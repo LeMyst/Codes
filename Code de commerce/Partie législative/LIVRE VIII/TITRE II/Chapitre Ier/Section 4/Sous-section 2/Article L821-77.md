@@ -5,3 +5,6 @@ A l'issue de l'enquête, le rapporteur général établit un rapport d'enquête.
 La personne intéressée peut consulter le dossier et présenter ses observations. Elle peut se faire assister par un conseil de son choix à toutes les étapes de la procédure.
 
 Le président de la Haute autorité adresse à la commission des sanctions le rapport d'enquête, les éventuelles observations de la personne intéressée ainsi que la notification des griefs dont une copie est adressée au rapporteur général.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

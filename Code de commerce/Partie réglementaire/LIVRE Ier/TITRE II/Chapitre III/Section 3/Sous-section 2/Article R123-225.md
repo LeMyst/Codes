@@ -7,3 +7,6 @@ Les renseignements d'identification mentionnés au répertoire concernant les un
 2° Soit, pour les entités autres que celles visées au 1°, à la demande de la personne concernée ou des personnes mentionnées au 2° de l'article R. 123-224, selon les modalités prévues au même article ;
 
 3° Soit d'office par l'Institut national de la statistique et des études économiques, à l'occasion de la publication d'une décision de justice, d'un signalement émanant d'un tiers ou à l'issue d'une enquête du service statistique public.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

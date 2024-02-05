@@ -17,3 +17,6 @@ Sont soumises à l'obligation prévue à l'article R. 123-45 :
 7° Le décès de la personne immatriculée avec possibilité de déclarer le maintien provisoire, pendant un délai maximum d'un an, de l'immatriculation, et, si l'exploitation se poursuit, les conditions d'exploitation, nom, nom d'usage, pseudonyme, prénoms, domicile personnel et qualité des héritiers et ayants cause à titre universel, date et lieu de naissance, nationalité et qualité des personnes assurant l'exploitation ; dans ce dernier cas, la déclaration est faite par la ou les personnes poursuivant l'exploitation et est réalisée auprès de l'organisme unique mentionné à l'article R. 123-1 ;
 
 8° Le renouvellement, limité à une période supplémentaire d'un an, du maintien provisoire de l'immatriculation dans les cas prévus aux 6° et 7°.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

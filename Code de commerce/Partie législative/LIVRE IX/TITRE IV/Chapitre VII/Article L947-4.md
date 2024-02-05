@@ -41,3 +41,6 @@ II.-Au titre de leur siège social et de l'ensemble de leurs établissements sit
 III.-Toutefois, les personnes physiques énumérées aux a et b du 1° du I dont le conjoint bénéficie des dispositions du c du 1° du même paragraphe ne désignent aucun représentant supplémentaire si elles emploient moins de cinquante salariés dans la collectivité.
 
 IV.-Les sociétés en nom collectif et les sociétés en commandite désignent par délibération expresse conformément aux dispositions statutaires un représentant unique au titre des associés et de la société, sans préjudice de la possibilité de désigner des représentants supplémentaires en application du II ci-dessus. "
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

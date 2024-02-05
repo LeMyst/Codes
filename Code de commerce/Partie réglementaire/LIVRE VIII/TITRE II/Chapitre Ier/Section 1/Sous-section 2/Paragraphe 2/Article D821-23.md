@@ -9,3 +9,6 @@ Il soumet aux pouvoirs publics toutes propositions utiles relatives à l'organis
 Il prend les décisions qui sont de la compétence de la Compagnie nationale en vertu du présent titre, et notamment de ses articles D. 821-4 et D. 821-5.
 
 Sur proposition du bureau, il adopte le budget de la Compagnie nationale, en répartit la charge entre les compagnies régionales et adopte son règlement intérieur.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

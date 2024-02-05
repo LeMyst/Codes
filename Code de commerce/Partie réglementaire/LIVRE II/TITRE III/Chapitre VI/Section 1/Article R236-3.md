@@ -5,3 +5,6 @@ L'insertion prévue à l'article R. 236-2 n'est pas requise lorsque, pendant une
 Lorsque le site internet n'est plus accessible pendant une période ininterrompue d'au moins vingt-quatre heures, le projet de fusion fait l'objet d'un avis publié, sans délai, selon les modalités de l'article R. 236-2. Dans ce cas, le délai mentionné au dernier alinéa de l'article R. 236-2 est suspendu jusqu'à cette publication.
 
 Cet avis contient les mêmes mentions que celui prévu à l'article R. 236-2 et peut être consulté sans frais.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

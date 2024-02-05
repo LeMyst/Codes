@@ -15,3 +15,6 @@ III.-Un arrêté conjoint du garde des sceaux, ministre de la justice, et des mi
 IV.-Lorsqu'une société se conforme volontairement au règlement (CE) n° 1221/2009 du Parlement européen et du Conseil du 25 novembre 2009 concernant la participation volontaire des organisations à un système communautaire de management environnemental et d'audit (EMAS), la déclaration signée par le vérificateur environnemental conformément aux dispositions des 8 et 9 de l'article 25 de ce règlement, annexée au rapport de gestion, vaut avis de l'organisme tiers indépendant sur les informations environnementales.
 
 Les informations qui ne sont pas vérifiées par le vérificateur environnemental mentionné à l'alinéa précédent demeurent soumises à la vérification de l'organisme tiers indépendant selon les modalités définies aux I, II, III et IV.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2017-1265 du 9 août 2017, les dispositions du présent article sont applicables aux rapports afférents aux exercices ouverts à compter du 1er septembre 2017.

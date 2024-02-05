@@ -11,3 +11,6 @@ La décision est notifiée au requérant dans le délai mentionné au premier al
 Lorsque la complexité du dossier exige un examen particulier de celui-ci, le greffier avise le requérant, dans le délai prévu au premier alinéa et par les mêmes moyens que pour la notification de la décision de refus, que l'inscription sera faite ou que la décision de refus d'inscription sera remise ou notifiée au demandeur dans le délai de cinq jours francs ouvrables après réception de la demande.
 
 Faute par le greffier de respecter les obligations qui lui incombent en application du présent article en ce qui concerne les demandes d'inscriptions principales, modificatives et de radiation, le demandeur peut former un recours dans les conditions prévues par l'article R. 521-27.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023. Toutefois, lesdites dispositions entrent en vigueur le 1er janvier 2022 en ce qu'elles s'appliquent aux hypothèques maritimes et saisies de navires.

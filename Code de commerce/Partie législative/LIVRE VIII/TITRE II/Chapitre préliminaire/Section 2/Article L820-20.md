@@ -5,3 +5,6 @@ Pour l'application du 8° du I de l'article L. 820-1, la Haute autorité peut co
 Elle peut, sous les mêmes réserves et conditions, faire diligenter par les contrôleurs mentionnés aux articles L. 820-14 et L. 820-15 les opérations de contrôle qu'elle détermine afin de répondre aux demandes d'assistance des autorités mentionnées au premier alinéa.
 
 La Haute autorité peut, à titre exceptionnel, autoriser les agents des autorités des Etats non membres de l'Union européenne à assister aux contrôles mentionnés aux articles L. 820-14 et L. 820-15. Lors de ces contrôles, effectués sous la direction de la Haute autorité, les agents de ces autorités ne peuvent solliciter directement des personnes contrôlées la communication d'informations ou de documents.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

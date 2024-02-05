@@ -13,3 +13,6 @@ L'obligation de formation professionnelle continue est satisfaite :
 5° Par la participation à des travaux à caractère technique dans la limite de vingt heures par an ;
 
 6° Par la participation au programme de formation continue particulière prévue au II de l'article L. 821-24.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

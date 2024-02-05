@@ -11,3 +11,6 @@ Pour l'application du présent code en Polynésie française, les termes énumé
 4° " Département " ou " arrondissement " par " Polynésie française " ;
 
 6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en Polynésie française ".
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

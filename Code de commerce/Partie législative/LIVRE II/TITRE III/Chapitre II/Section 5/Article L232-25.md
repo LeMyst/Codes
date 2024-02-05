@@ -11,3 +11,6 @@ Lorsqu'il est fait usage de la faculté prévue au troisième alinéa du présen
 Les autorités judiciaires, les autorités administratives au sens de l'article 1er de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ainsi que la Banque de France et les personnes morales, relevant de catégories définies par arrêté des ministres chargés de l'économie et des finances, qui financent ou investissent, directement ou indirectement, dans les entreprises ou fournissent des prestations au bénéfice de ces personnes morales ont toutefois accès à l'intégralité des comptes.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément au IV de l’article 47 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent aux comptes afférents aux exercices clos à compter de la publication de la présente loi.

@@ -7,3 +7,6 @@ Peuvent solliciter leur inscription sur la liste mentionnée à l'article L. 812
 2° Les personnes titulaires de ce diplôme de master qui justifient de huit ans au moins de pratique professionnelle comptable, juridique ou financière dans le domaine de l'administration, du financement, de la restructuration, dont les fusions-acquisitions, ou de la reprise d'entreprises, notamment en difficulté.
 
 La commission procède à l'audition du candidat au cours d'un entretien portant sur son expérience professionnelle dans le domaine de l'administration ou de la liquidation des entreprises en difficulté et statue dans les conditions prévues aux articles R. 811-33 à R. 811-35.
+
+NOTA:
+Conformément à l'article 22 III du décret n° 2016-400 du 1er avril 2016, les présentes dispositions entrent en vigueur à compter de la publication de l'arrêté prévu aux articles R. 811-28-2 et R. 812-18-2.

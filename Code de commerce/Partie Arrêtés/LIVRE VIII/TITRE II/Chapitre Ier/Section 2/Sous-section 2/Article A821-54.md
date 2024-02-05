@@ -233,3 +233,6 @@ Conformément aux dispositions de l'article L. 821-7 du code de commerce, le non
 Cela peut être le cas, par exemple, d'informations communiquées par les commissaires aux comptes d'entités mises en équivalence au commissaire aux comptes de l'entité consolidante pour les besoins de la certification des comptes de ladite entité.
 
 Dans ces situations, le devoir de prudence et de discrétion dans l'utilisation de ces informations auquel il est soumis, implique que le commissaire aux comptes s'abstient de les faire connaître sauf à ce que cela soit nécessaire pour répondre à ses obligations, notamment celles relatives à la communication envers la direction de l'entité, les organes mentionnés à l'article L. 821-63 du code de commerce ou envers les autorités compétentes.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

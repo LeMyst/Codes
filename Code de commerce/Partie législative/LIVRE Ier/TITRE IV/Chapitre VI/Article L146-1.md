@@ -7,3 +7,6 @@ La mission précise, le cas échéant, les normes de gestion et d'exploitation d
 Le gérant-mandataire est immatriculé au registre du commerce et des sociétés et, le cas échéant, au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat. Le contrat est mentionné à ces registres et fait l'objet d'une publication sur un support habilité à recevoir des annonces légales.
 
 Les dispositions du présent chapitre ne sont pas applicables aux professions régies par le chapitre II du titre VIII du livre VII du code du travail.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

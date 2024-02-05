@@ -27,3 +27,6 @@ Le projet de plan prévu à l'article L. 626-30-2 doit comporter au minimum les 
 -les éventuels nouveaux financements anticipés dans le cadre du plan de restructuration et les raisons pour lesquelles le nouveau financement est nécessaire pour mettre en œuvre ce plan ;
 
 8° Un exposé des motifs expliquant pourquoi le plan de restructuration offre une perspective raisonnable d'éviter la cessation des paiements du débiteur ou de garantir sa viabilité, et comprenant les conditions préalables nécessaires au succès du plan.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -7,3 +7,6 @@ II.-Si le débiteur est en état de cessation des paiements et si la procédure 
 Le tribunal ou, le cas échéant, le juge désigné par celui-ci exerce les missions confiées par les articles précités au juge-commissaire.
 
 Le jugement de la juridiction compétente en application du I du présent article, qui statue sur la résiliation des contrats de travail découlant de la procédure d'insolvabilité principale est susceptible d'appel de la part du débiteur non dessaisi, du praticien de l'insolvabilité de la procédure d'insolvabilité principale, de l'une des institutions représentatives du personnel ou, à défaut, du représentant des salariés ainsi que du ministère public. Le II de l'article L. 661-1 est applicable.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

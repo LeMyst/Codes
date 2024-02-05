@@ -7,3 +7,6 @@ Ils le sont également, ainsi que le ou les contrôleurs, sur le bilan économiq
 Les documents mentionnés au deuxième alinéa sont simultanément adressés à l'autorité administrative compétente en matière de droit du travail. Le procès-verbal de la réunion à l'ordre du jour de laquelle a été inscrite la consultation du comité social et économique est transmis au tribunal ainsi qu'à l'autorité administrative mentionnée ci-dessus.
 
 Le ministère public en reçoit communication.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

@@ -53,3 +53,6 @@ w) Ordonnant l'extension de procédure ou la réunion de patrimoine en applicati
 2° Les décisions intervenues dans les procédures de coordination collective en application de la section 2 du chapitre V du règlement (UE) 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité ;
 
 3° La décision prononçant la clôture de la procédure de rétablissement professionnel et l'effacement des dettes.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

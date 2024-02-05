@@ -11,3 +11,6 @@ Une fois par trimestre au moins le directoire présente un rapport au conseil de
 Après la clôture de chaque exercice et dans le délai fixé par décret en Conseil d'Etat, le directoire lui présente, aux fins de vérification et de contrôle, les documents visés au deuxième alinéa de l'article L. 225-100.
 
 Le conseil de surveillance présente à l'assemblée générale prévue à l'article L. 225-100 un rapport sur le gouvernement d'entreprise joint au rapport de gestion mentionné au même article. Ce rapport inclut les informations, le cas échéant adaptées aux sociétés à conseil de surveillance, mentionnées à l'article L. 225-37-4, ainsi que les observations du conseil de surveillance sur le rapport du directoire et sur les comptes de l'exercice.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.

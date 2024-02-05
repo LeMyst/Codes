@@ -87,3 +87,6 @@ Communication avec les organes mentionnés à l'article L. 821-63 du code de com
 – la pertinence des informations données dans l'annexe ;
 
 – le cas échéant, les incidences sur le rapport du commissaire aux comptes.
+
+NOTA:
+Conformément aux dispositions de l'article 3 de l'arrêté du 26 mai 2017, ces dispositions dans leur rédaction antérieure à celle dudit arrêté demeurent applicables à la certification des comptes des entités d'intérêt public pour les exercices ouverts avant le 17 juin 2016, ainsi qu'à celle des personnes et entités qui ne sont pas des entités d'intérêt public pour les exercices ouverts avant le 30 juillet 2016.

@@ -8,5 +8,4 @@ Fait à, le
 
 (Signature de la personne immatriculée)
 
-(1) La mention relative à l'absence de contrat de mariage ne signifie pas que le régime légal français est applicable
-.
+(1) La mention relative à l'absence de contrat de mariage ne signifie pas que le régime légal français est applicable.

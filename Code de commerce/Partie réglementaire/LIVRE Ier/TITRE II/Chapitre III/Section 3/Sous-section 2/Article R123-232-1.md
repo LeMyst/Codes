@@ -5,3 +5,6 @@ Si un représentant légal d'une unité légale s'oppose à la mise à dispositi
 Si une personne physique s'oppose à la mise à disposition de ses données au public pour des raisons tenant à sa situation particulière en application du paragraphe 1 de l'article 21 du même règlement, son opposition est portée à la connaissance des administrations et du public et la mise à disposition des informations relatives à son identité est limitée à l'identifiant au sein du répertoire et à la commune.
 
 Si un représentant légal d'une unité légale s'oppose à la mise à disposition au public des données relatives à son siège ou à un établissement pour des raisons tenant à sa situation particulière en application du paragraphe 1 de l'article 21 du même règlement, son opposition est portée à la connaissance des administrations et du public et la mise à disposition des informations relatives à l'identité et à la localisation du siège ou de l'établissement de l'unité légale est limitée à l'identifiant au répertoire et à sa dénomination, s'il y a lieu au nom commercial et à l'enseigne, ainsi qu'à la commune.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

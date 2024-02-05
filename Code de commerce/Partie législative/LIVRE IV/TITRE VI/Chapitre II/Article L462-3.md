@@ -5,3 +5,6 @@ L'Autorité peut être consultée par les juridictions sur les pratiques anticon
 Le cours de la prescription est suspendu, le cas échéant, par la consultation de l'Autorité.
 
 L'avis de l'Autorité peut être publié après le non-lieu ou le jugement.
+
+NOTA:
+Conformément au I de l'article 12 de l'ordonnance n° 2017-303 du 9 mars 2017 les dispositions du présent article sont applicables aux instances introduites devant les juridictions administratives et judiciaires à compter du 26 décembre 2014.

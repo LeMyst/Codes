@@ -9,3 +9,6 @@ Pour les coopératives agricoles et les sociétés d'intérêt collectif agricol
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
 
 Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes morales de droit privé non commerçantes ayant une activité économique peuvent nommer un commissaire aux comptes et un suppléant dans les mêmes conditions que celles prévues au deuxième alinéa. Dans ce cas, le commissaire aux comptes et son suppléant sont soumis aux mêmes obligations, encourent les mêmes responsabilités civile et pénale et exercent les mêmes pouvoirs que s'ils avaient été désignés en application du premier alinéa.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

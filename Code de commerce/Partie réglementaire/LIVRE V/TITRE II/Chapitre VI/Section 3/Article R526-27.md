@@ -7,3 +7,6 @@ La dénomination figure sur les documents et correspondances à usage profession
 Chaque compte bancaire dédié à son activité professionnelle ouvert par l'entrepreneur individuel doit contenir la dénomination dans son intitulé.
 
 Au sens et pour l'application de l'article L. 526-23, à défaut d'immatriculation, la première utilisation de la dénomination vaut date déclarée de début d'activité pour identifier le premier acte exercé en qualité d'entrepreneur individuel.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-725 du 28 avril 2022, ces dispositions entrent en vigueur le 15 mai 2022.

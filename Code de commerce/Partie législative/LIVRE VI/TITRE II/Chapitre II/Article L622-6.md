@@ -11,3 +11,6 @@ Lorsque le débiteur exerce une profession libérale soumise à un statut légis
 L'absence d'inventaire ne fait pas obstacle à l'exercice des actions en revendication ou en restitution.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -17,3 +17,6 @@ Aux fins du 3°, l'avis vaut notification du cahier des conditions de vente.
 En cas de contestation formée en application du 3°, les parties sont convoquées à une audience par le greffe du juge de l'exécution, conformément au troisième alinéa de l'article R. 311-6 du code des procédures civiles d'exécution.
 
 Lorsque les délais mentionnés au premier et au deuxième alinéas ont été dépassés, le juge de l'exécution déclare l'ordonnance du juge-commissaire non avenue, à moins qu'il ne soit justifié d'un motif légitime.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

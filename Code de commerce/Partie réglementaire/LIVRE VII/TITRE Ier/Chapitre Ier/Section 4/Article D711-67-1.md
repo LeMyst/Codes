@@ -21,3 +21,6 @@ g) La nature de la gérance, lorsque l'entreprise est une société à responsab
 h) Lorsque l'entreprise est déjà immatriculée, le numéro unique d'identification de l'entreprise et, le cas échéant, le nom de la ville où siège le greffe du tribunal de commerce auprès duquel elle est inscrite ;
 
 i) L'exercice par le conjoint du chef d'entreprise d'une activité professionnelle régulière dans l'entreprise et le statut choisi à ce titre.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

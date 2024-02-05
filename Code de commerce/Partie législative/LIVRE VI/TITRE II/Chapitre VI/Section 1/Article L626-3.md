@@ -7,3 +7,6 @@ Si, du fait des pertes constatées dans les documents comptables, les capitaux p
 Les engagements pris par les actionnaires ou associés ou par de nouveaux souscripteurs sont subordonnés dans leur exécution à l'acceptation du plan par le tribunal.
 
 En cas d'augmentation du capital social prévu par le projet de plan, les associés ou actionnaires peuvent bénéficier de la compensation à concurrence du montant de leurs créances admises et dans la limite de la réduction dont elles sont l'objet dans le projet de plan.
+
+NOTA:
+Conformément au XVI de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions ne sont pas applicables aux procédures en cours au jour de la publication de ladite loi.

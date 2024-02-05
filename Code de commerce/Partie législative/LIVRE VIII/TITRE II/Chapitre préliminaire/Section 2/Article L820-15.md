@@ -7,3 +7,6 @@ La Haute autorité peut déterminer si les évaluations effectuées par le comit
 Les contrôles prévus au présent article peuvent être effectués avec le concours de l'Autorité des marchés financiers ou de l'Autorité de contrôle prudentiel et de résolution ou du comité français d'accréditation.
 
 Les contrôles effectués par la Haute autorité et les évaluations effectuées par le comité français d'accréditation en application du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l'accréditation sont diligentés de manière coordonnée selon des modalités qu'ils déterminent.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

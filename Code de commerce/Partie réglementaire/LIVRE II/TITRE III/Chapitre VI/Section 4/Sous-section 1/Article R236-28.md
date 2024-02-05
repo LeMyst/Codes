@@ -13,3 +13,6 @@ II.-Toute réclamation formulée conformément à l'article L. 236-41 est porté
 2° Soit de la décision mentionnée à l'article L. 236-2 pour les associés qui n'ont pas eu de droit de retrait.
 
 Dans tous les cas, tous les associés sont mis en cause par la société dans les conditions prévues à l'article 331 du code de procédure civile ; ils procèdent alors conformément à l'article 333 de ce code.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

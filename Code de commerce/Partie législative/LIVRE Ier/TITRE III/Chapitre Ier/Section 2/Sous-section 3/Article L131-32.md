@@ -13,3 +13,6 @@ Les peines disciplinaires sont :
 3° La radiation avec privation définitive du droit d'être inscrit sur une des listes prévues à l'article L. 131-12 ou le retrait de l'honorariat.
 
 Les poursuites sont exercées par le procureur de la République devant le tribunal judiciaire dans le ressort duquel le courtier assermenté exerce son activité. L'action disciplinaire se prescrit par dix ans. Les décisions en matière disciplinaire sont motivées. Elles sont susceptibles d'un recours devant la cour d'appel.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

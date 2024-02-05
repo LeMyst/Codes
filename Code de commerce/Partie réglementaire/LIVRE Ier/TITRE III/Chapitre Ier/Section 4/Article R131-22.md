@@ -11,3 +11,6 @@ La mesure de suspension provisoire est notifiée au courtier de marchandises ass
 Ce recours est porté devant la cour d'appel dans un délai de quinze jours par déclaration au greffe ou par lettre recommandée avec demande d'avis de réception. Le délai court, à l'égard du procureur de la République, du jour du prononcé de la décision et, à l'égard du courtier de marchandises assermenté, du jour de la notification de la décision.
 
 Le recours est formé, instruit et jugé selon les règles applicables à la procédure sans représentation obligatoire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

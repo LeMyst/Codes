@@ -9,3 +9,6 @@ L'appel est formé et jugé selon les règles applicables à la procédure prév
 Lorsque l'organisme tiers indépendant est relevé de ses fonctions, il est remplacé par l'organisme tiers indépendant ou le commissaire aux comptes suppléant.
 
 II.-Si un organisme tiers indépendant est récusé ou relevé de sa mission en application de l'article L. 822-22, le greffier de la juridiction qui a rendu la décision en informe la Haute autorité dans le délai de huit jours par lettre recommandée avec demande d'avis de réception et lui adresse une copie du jugement.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

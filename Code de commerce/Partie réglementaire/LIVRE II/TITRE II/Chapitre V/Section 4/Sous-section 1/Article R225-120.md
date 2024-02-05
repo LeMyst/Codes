@@ -35,3 +35,6 @@ Les indications prévues au présent article sont portées à la connaissance de
 Si toutes les actions de la société ne revêtent pas la forme nominative, l'avis contenant ces indications est inséré, dans le même délai, dans une notice publiée au Bulletin des annonces légales obligatoires.
 
 Toutefois, si cette société procède à l'émission mentionnée au premier alinéa par une offre au public, elle rend publiques ces indications au moins quatorze jours avant la clôture de la souscription selon les modalités prévues par le règlement (UE) n° 2017/1129 du 14 juin 2017 et est dispensée des formalités prévues aux alinéas précédents. Cette disposition n'est pas applicable si la société procède à l'émission mentionnée au premier alinéa par une offre au public mentionnée au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

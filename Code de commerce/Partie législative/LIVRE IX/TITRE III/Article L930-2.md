@@ -15,3 +15,6 @@ Pour l'application du présent code dans le territoire, les termes énumérés c
 6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en Nouvelle-Calédonie " ;
 
 7° " Bureau des hypothèques " par " service de la conservation des hypothèques ".
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

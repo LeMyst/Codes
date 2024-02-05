@@ -11,3 +11,6 @@ III.-Le I ne s'applique pas lorsque les sociétés consolidantes sont soumises �
 Ce même I ne s'applique pas lorsque ni les sociétés consolidantes, ni les sociétés qu'elles contrôlent comprises dans la consolidation en vertu de l'article L. 233-16 ne disposent, à l'étranger, d'un établissement stable.
 
 IV.-Les informations dont la divulgation porterait gravement préjudice à la position commerciale des sociétés auxquelles elles se rapportent peuvent être omises du rapport mentionné au I, à titre temporaire, dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

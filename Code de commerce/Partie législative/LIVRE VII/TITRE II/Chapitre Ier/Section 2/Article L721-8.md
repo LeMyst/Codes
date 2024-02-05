@@ -25,3 +25,6 @@ Pour l'application du 2° du présent article, le tribunal de commerce spéciali
 Un décret, pris après avis du Conseil national des tribunaux de commerce, fixe la liste des tribunaux de commerce spécialisés. Ce décret détermine le ressort de ces juridictions, en tenant compte des bassins d'emplois et des bassins d'activité économique.
 
 Le président du tribunal de commerce dans le ressort duquel l'entreprise a des intérêts ou un juge délégué par lui siège de droit au sein du tribunal de commerce spécialisé compétent.
+
+NOTA:
+Ces dispositions sont applicables aux procédures ouvertes à compter du 1er mars 2016.

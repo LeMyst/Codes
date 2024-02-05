@@ -11,3 +11,6 @@ III. ‒ Par dérogation à l'article R. 225-72, la demande d'inscription d'un p
 IV. ‒ Pour les sociétés anonymes et les sociétés en commandite par actions, l'avis de convocation doit comporter les indications mentionnées aux articles R. 225-66 et R. 225-73 et le rappel du délai prévu au III.
 
 V. ‒ Le délai prévu au deuxième alinéa de l'article R. 225-89 et au premier alinéa de l'article R. 225-90 est réduit à dix jours. La liste des actionnaires mentionnée au second alinéa de l'article R. 225-90 est arrêtée le onzième jour qui précède la réunion de l'assemblée.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

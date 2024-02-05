@@ -11,3 +11,6 @@ Elles s'inscrivent dans un plan de formation individuel élaboré par le contrô
 Le stagiaire établit des rapports d'activité selon une périodicité fixée par le conseil régional et transmet ces rapports, visés par le maître de stage et accompagnés le cas échéant de ses observations, au contrôleur du stage.
 
 Le conseil régional peut autoriser le stagiaire à suspendre son stage pour une durée totale n'excédant pas trois ans.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

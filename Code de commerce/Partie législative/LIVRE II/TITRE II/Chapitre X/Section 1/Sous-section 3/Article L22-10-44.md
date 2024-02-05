@@ -11,3 +11,6 @@ II.-Toutefois, lorsque le capital de la société est supérieur à 750 000 euro
 3° 2 % entre 7 500 000 € et 15 000 000 € ;
 
 4° 1 % au-delà de 15 000 000 €.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

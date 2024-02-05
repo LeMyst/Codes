@@ -17,3 +17,6 @@ II.-Sont passibles des sanctions prévues à l'article L. 822-32 à raison des m
 3° Les personnes ou entités soumises à l'obligation de certification des informations en matière de durabilité, leurs gérants, administrateurs ou membres du directoire ou du conseil de surveillance, ainsi que les personnes mentionnées au 1°, lorsqu'elles s'opposent de quelque façon que ce soit à l'exercice des fonctions confiées aux agents de la Haute autorité de l'audit en matière de contrôles et d'enquêtes ;
 
 4° Tout dirigeant, administrateur, membre du conseil de surveillance ou personne occupant un poste de direction au sein d'une personne ou entité, ainsi que cette personne ou entité, du fait d'un manquement aux dispositions de l'article L. 822-9.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

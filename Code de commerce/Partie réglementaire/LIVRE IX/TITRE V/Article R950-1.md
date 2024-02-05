@@ -643,8 +643,7 @@ d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V
 | R. 641-32-1  | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives  |
 | R. 641-33 et R. 641-34  | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce  |
 | R. 641-35  | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives  |
-| R. 641-36 et R. 641-37  |
-Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce  |
+| R. 641-36 et R. 641-37  |  Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce  |
 | R. 641-38  | Décret n° 2023-434 du 3 juin 2023  |
 | R. 641-39  | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives  |
 | R. 641-40  | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté et modifiant les procédures de saisie immobilière et de distribution du prix d'un immeuble  |
@@ -755,12 +754,8 @@ f) Les dispositions des chapitres I à III du titre VI mentionnées dans la colo
 | R. 663-9 et R. 663-10  | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-11 et R. 663-12  | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-12-1 et R. 663-13  | Décret n° 2023-434 du 3 juin 2023  |
-| R. 663-13-1 et R. 663-14  |
-Décret n° 2016-230 du 26 février 2016
-|
-| R. 663-15 et R. 663-15-1  |
-Décret n° 2023-434 du 3 juin 2023
-|
+| R. 663-13-1 et R. 663-14  |  Décret n° 2016-230 du 26 février 2016  |
+| R. 663-15 et R. 663-15-1  |  Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-16 à R. 663-24  | Décret n° 2016-230 du 26 février 2016  |
 | R. 663-25  | Décret n° 2023-434 du 3 juin 2023  |
 | R. 663-26 à R. 663-30  | Décret n° 2016-230 du 26 février 2016  |
@@ -897,3 +892,6 @@ Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résult
 Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019 ;
 
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-493 du 22 juin 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 22 juin 2024.

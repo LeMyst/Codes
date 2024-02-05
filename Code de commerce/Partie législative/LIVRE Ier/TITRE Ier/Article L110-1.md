@@ -23,3 +23,6 @@ La loi répute actes de commerce :
 10° Entre toutes personnes, les lettres de change ;
 
 11° Entre toutes personnes, les cautionnements de dettes commerciales.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

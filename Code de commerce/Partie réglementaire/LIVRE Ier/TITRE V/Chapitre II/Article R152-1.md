@@ -17,3 +17,7 @@ III.-La juridiction peut subordonner l'exécution des mesures provisoires et con
 IV.-La garantie mentionnée aux II et III est constituée dans les conditions prévues aux articles 514-5, 517 et 518 à 522 du code de procédure civile.
 
 V.-Les mesures prises en application du présent article deviennent caduques si le demandeur ne saisit pas le juge du fond dans un délai courant à compter de la date de l'ordonnance de vingt jours ouvrables ou de trente et un jours civils si ce dernier délai est plus long.
+
+NOTA:
+Conformément aux dispositions de l’article 55 du décret n° 2019-1333 du 11 décembre 2019 modifié
+par l'article 22 du décret n° 2019-1419 du 20 décembre 2019, ces dispositions s'appliquent aux instances introduites à compter du 1er janvier 2020.

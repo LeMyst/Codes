@@ -37,3 +37,6 @@ f) Les sociétés de groupe assurantiel de protection sociale au sens de l'artic
 III.-Pour l'application du présent titre, le terme : “ mission ” désigne la mission de certification des comptes, la mission de certification des informations en matière de durabilité ou toute autre mission confiée au commissaire aux comptes par la loi ou le règlement.
 
 IV.-Pour l'application du présent titre, le terme : “ prestation ” désigne la fourniture de services et d'attestations qui ne relèvent pas d'une mission.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

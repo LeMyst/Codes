@@ -17,3 +17,6 @@ Elle est susceptible d'appel dans un délai de quinze jours.
 III.-L'appel de l'ordonnance est formé, instruit et jugé comme en matière gracieuse. Toutefois, les parties sont dispensées du ministère d'avocat.
 
 Le greffier de la cour d'appel adresse une copie de l'arrêt au greffier chargé de la tenue du registre qui exécute la décision.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023. Toutefois, lesdites dispositions entrent en vigueur le 1er janvier 2022 en ce qu'elles s'appliquent aux hypothèques maritimes et saisies de navires.

@@ -11,3 +11,6 @@ Les commissaires aux comptes des personnes et entités mentionnées au premier a
 Les commissaires aux comptes procédant à une revue indépendante ou contribuant au dispositif de contrôle de qualité interne sont astreints au secret professionnel.
 
 Les commissaires aux comptes sont déliés du secret professionnel à l'égard de la Commission nationale des comptes de campagne et des financements politiques et du juge de l'élection.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

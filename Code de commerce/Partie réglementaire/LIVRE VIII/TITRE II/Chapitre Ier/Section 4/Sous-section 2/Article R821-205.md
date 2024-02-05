@@ -11,3 +11,6 @@ Lorsque l'enquêteur souhaite entendre l'intéressé par un système de visiocon
 Lorsque l'enquêteur a entendu l'intéressé par un système de visioconférence ou d'audioconférence, l'enregistrement audiovisuel ou sonore auquel ces opérations donnent lieu fait l'objet d'un procès-verbal de transcription soumis pour signature à l'intéressé. A cet effet, ce procès-verbal, accompagné de l'enregistrement, lui est adressé dans un délai de dix jours à compter de la date de la visioconférence ou de l'audioconférence. La personne peut consigner ses observations sur le procès-verbal. En l'absence de retour du procès-verbal signé dans un délai de dix jours à compter de sa réception par la personne entendue, mention du refus de signer est faite au procès-verbal.
 
 Copie du procès-verbal est remise à la personne entendue.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

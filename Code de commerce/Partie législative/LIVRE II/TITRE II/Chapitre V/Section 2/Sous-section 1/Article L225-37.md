@@ -11,3 +11,6 @@ Sauf disposition contraire des statuts, la voix du président de séance est pr�
 Les administrateurs, ainsi que toute personne appelée à assister aux réunions du conseil d'administration, sont tenus à la discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du conseil d'administration.
 
 Le conseil d'administration présente à l'assemblée générale mentionnée à l'article L. 225-100 un rapport sur le gouvernement d'entreprise joint au rapport de gestion mentionné au même article. Toutefois, les informations correspondantes peuvent être présentées au sein d'une section spécifique du rapport de gestion.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.

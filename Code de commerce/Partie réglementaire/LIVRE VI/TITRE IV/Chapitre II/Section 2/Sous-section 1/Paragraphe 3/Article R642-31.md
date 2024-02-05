@@ -5,3 +5,6 @@ Le notaire informe par lettre recommandée avec demande d'avis de réception les
 Si un créancier formule un dire, il saisit le juge de l'exécution du tribunal judiciaire dans les huit jours à peine de déchéance, par assignation du liquidateur à comparaître à la première audience éventuelle utile. Il en informe immédiatement le notaire qui invite les autres personnes sommées à contester le dire. Le jugement est communiqué par le liquidateur au notaire qui modifie s'il y a lieu le cahier des conditions de vente.
 
 Le liquidateur, le débiteur et les créanciers inscrits sont convoqués à la vente par le notaire au moins un mois à l'avance.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

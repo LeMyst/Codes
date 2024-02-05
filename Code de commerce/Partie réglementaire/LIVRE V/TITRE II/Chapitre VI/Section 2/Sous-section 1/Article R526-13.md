@@ -11,3 +11,6 @@ Cet avis contient les indications suivantes :
 3° La date et le lieu du dépôt des déclarations mentionnées au II de l'article L. 526-17.
 
 L'avis prévu au présent article est établi et adressé soit par le greffier en cas d'immatriculation du cédant, du donateur ou de l'apporteur au registre du commerce et des sociétés, au registre spécial des agents commerciaux ou au registre spécial des entreprises individuelles à responsabilité limitée, soit par le président de la chambre des métiers et de l'artisanat en cas d'immatriculation du cédant, du donateur ou de l'apporteur au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

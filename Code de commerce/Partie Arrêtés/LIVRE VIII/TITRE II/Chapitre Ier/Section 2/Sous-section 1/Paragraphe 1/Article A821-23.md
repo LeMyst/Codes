@@ -11,3 +11,6 @@ Les personnes de nationalité française et les ressortissants d'un autre Etat m
 Les pièces produites sont accompagnées, le cas échéant, de leur traduction en langue française par un traducteur agréé auprès des tribunaux français ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen.
 
 Les candidats qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles et qui sollicitent le bénéfice d'aménagements pour le déroulement des épreuves en application des dispositions de l'article R. 821-51 communiquent, en outre, une copie de la demande adressée en ce sens au président du jury ainsi qu'une copie de l'avis du médecin désigné par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles ou par le représentant de l'Etat pour les épreuves se déroulant à Mayotte, en Nouvelle Calédonie ou à Wallis-et-Futuna.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

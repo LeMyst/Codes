@@ -77,3 +77,6 @@ Toutes modifications ou ajout aux informations, actes et pièces figurant dans l
 -Ajout ou retrait de la mention du conjoint collaborateur au sein des registres susmentionnés ;
 
 3. Cessation définitive d'activité, dissolution et liquidation, le cas échéant, de la personne morale et radiation de celle-ci.
+
+NOTA:
+Conformément à l’article 2 de l’arrêté du 14 décembre 2022 (NOR : ECOI2232187A), ces dispositions entrent en vigueur le 1er janvier 2023.

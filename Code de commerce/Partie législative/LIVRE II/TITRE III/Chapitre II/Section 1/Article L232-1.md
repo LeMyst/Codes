@@ -11,3 +11,6 @@ II. – Le rapport de gestion expose la situation de la société durant l'exerc
 III. – Les documents mentionnés au présent article sont, le cas échéant, mis à la disposition des commissaires aux comptes dans des conditions déterminées par décret en Conseil d'Etat.
 
 IV. – Sont dispensées de l'obligation d'établir un rapport de gestion les sociétés commerciales qui sont des petites entreprises au sens de l'article L. 123-16. Cette dispense n'est pas applicable aux sociétés appartenant à l'une des catégories définies à l'article L. 123-16-2 ou dont l'activité consiste à gérer des titres de participations ou des valeurs mobilières.
+
+NOTA:
+Conformément à l'article 55, V de la loi n° 2018-727 du 10 août 2018, ces dispositions s'appliquent aux rapports afférents aux exercices clos à compter de la publication de ladite loi.

@@ -17,3 +17,6 @@ III. - Les tarifs réglementés et l'objectif de taux de résultat moyen sont fi
 Les dispositions du précédent alinéa ne font pas obstacle à ce que l'émolument perçu en contrepartie d'une prestation donnée évolue, en valeur absolue, de plus de 5 % par rapport à la période de référence précédente.
 
 IV. - L'objectif de taux de résultat moyen de chaque profession est fixé par l'arrêté prévu à l'article L. 444-3.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2020-179 du 28 février 2020, ces dispositions entrent en vigueur, pour chacune des professions concernées, à la date d'application du prochain arrêté portant fixation de ses tarifs en application de l'article L. 444-3 du code de commerce.

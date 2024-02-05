@@ -7,3 +7,6 @@ La périodicité, les délais et les modalités d'établissement de ces document
 Ces documents sont analysés dans des rapports écrits sur l'évolution de la personne morale, établis par l'organe chargé de l'administration. Ces documents et rapports sont communiqués simultanément au commissaire aux comptes, au comité social et économique et à l'organe chargé de la surveillance, lorsqu'il en existe.
 
 En cas de non-observation des dispositions prévues aux alinéas précédents ou si les informations données dans les rapports visés à l'alinéa précédent appellent des observations de sa part, le commissaire aux comptes le signale dans un rapport écrit qu'il communique à l'organe chargé de l'administration ou de la direction. Ce rapport est communiqué au comité social et économique. Il est donné connaissance de ce rapport à la prochaine réunion de l'organe délibérant.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

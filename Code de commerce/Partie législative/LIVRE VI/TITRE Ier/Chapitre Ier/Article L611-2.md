@@ -9,3 +9,6 @@ II.-Lorsque les dirigeants d'une société commerciale ne procèdent pas au dép
 Si cette injonction n'est pas suivie d'effet dans un délai fixé par décret en Conseil d'Etat, le président du tribunal peut également faire application à leur égard des dispositions du deuxième alinéa du I.
 
 Le II est applicable, dans les mêmes conditions, à tout entrepreneur individuel à responsabilité limitée qui ne procède pas au dépôt des comptes annuels ou documents mentionnés au premier alinéa de l'article L. 526-14, lorsque l'activité professionnelle à laquelle le patrimoine est affecté est commerciale ou artisanale.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

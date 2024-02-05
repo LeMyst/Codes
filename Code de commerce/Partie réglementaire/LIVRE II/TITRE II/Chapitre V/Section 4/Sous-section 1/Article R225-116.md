@@ -5,3 +5,6 @@ Lorsque l'assemblée générale a délégué ses pouvoirs ou sa compétence dans
 Le commissaire aux comptes vérifie notamment la conformité des modalités de l'opération au regard de l'autorisation donnée par l'assemblée et des indications fournies à celle-ci. Il donne également son avis sur le choix des éléments de calcul du prix d'émission et sur son montant définitif, ainsi que sur l'incidence de l'émission sur la situation des titulaires de titres de capital ou de valeurs mobilières donnant accès au capital telle que définie au deuxième alinéa de l'article R. 225-115.
 
 Ces rapports complémentaires sont immédiatement mis à la disposition des actionnaires au siège social, au plus tard dans les quinze jours suivant la réunion du conseil d'administration ou du directoire, et portés à leur connaissance à la plus prochaine assemblée générale.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

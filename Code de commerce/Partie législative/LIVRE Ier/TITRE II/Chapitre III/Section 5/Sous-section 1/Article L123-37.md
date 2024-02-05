@@ -15,3 +15,6 @@ Font l'objet d'une inscription au registre national des entreprises, ou d'un dé
 6° Pour les personnes physiques mentionnées aux 1° à 5° de l'article L. 123-36 ayant choisi d'exercer sous le régime de l'entrepreneur individuel à responsabilité limitée défini à l'article L. 526-6, les informations et pièces relatives à ce régime mentionnées aux articles L. 526-7 à L. 526-11 et L. 526-14 à L. 526-17.
 
 Un décret en Conseil d'Etat précise les informations et pièces qui doivent faire l'objet d'une inscription ou d'un dépôt, selon les catégories d'entreprises mentionnées aux 1° à 6° de l'article L. 123-36.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

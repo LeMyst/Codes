@@ -1,7 +1,6 @@
 # Article R645-5
 
-I.-Le greffier joint à la copie du jugement mentionnée à l'article R. 645-4 un document reproduisant les termes du II du présent article, ainsi que :
-
+I.-Le greffier joint à la copie du jugement mentionnée à l'article R. 645-4 un document reproduisant les termes du II du présent article, ainsi que :\
 1° Ceux des articles L. 645-4, L. 812-2, L. 814-5, L. 814-10, R. 814-24 et R. 814-38, si le mandataire judiciaire est une personne choisie sur le fondement du premier alinéa du II de l'article L. 812-2 ;
 
 2° Ceux des articles L. 645-4, L. 812-2, L. 812-8-1, L. 814-5, L. 814-10-1, L. 814-10-2, R. 814-24 et R. 814-41-1, si le mandataire judiciaire est une personne choisie sur le fondement du III de l'article L. 812-2.

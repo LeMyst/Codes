@@ -11,3 +11,6 @@ Pour la réalisation des contrôles, les contrôleurs et toutes personnes partic
 4° Avoir recours à des experts, afin notamment de procéder à des vérifications.
 
 Les personnes contrôlées sont tenues de fournir tous les renseignements et documents qui leur sont demandés à l'occasion des contrôles, sans pouvoir opposer le secret professionnel.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

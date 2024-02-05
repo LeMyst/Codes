@@ -11,3 +11,6 @@ b) La forme juridique de l'entreprise et la collectivité par laquelle ou pour l
 c) Le cas échéant, la date de publication au Journal officiel de l'acte qui a autorisé sa création, des actes qui ont modifié son organisation et des règlements ou des statuts qui déterminent les conditions de son fonctionnement ;
 
 2° En ce qui concerne l'activité et l'établissement, les renseignements prévus à l'article R. 123-244.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

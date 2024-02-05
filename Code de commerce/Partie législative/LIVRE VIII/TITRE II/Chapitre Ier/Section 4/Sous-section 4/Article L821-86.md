@@ -11,3 +11,6 @@ II.-Le rapporteur général peut diligenter une enquête afin de répondre aux d
 Il peut, sous les mêmes réserve et condition, diligenter des actes d'enquête qu'il détermine afin de répondre aux demandes d'assistance des autorités mentionnées au premier alinéa du présent II.
 
 Le rapporteur peut, à titre exceptionnel, autoriser les agents des autorités des Etats non membres de l'Union européenne à assister aux enquêtes. Ces agents ne peuvent solliciter directement du commissaire aux comptes la communication d'informations ou de documents.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

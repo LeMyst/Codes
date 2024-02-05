@@ -13,3 +13,8 @@ Sous réserve des dispositions de l'article R. 321-65, nul ne peut diriger des v
 5° Avoir accompli le stage mentionné au 4° dans les conditions prévues aux articles R. 321-26 à R. 321-31.
 
 Les personnes mentionnées à l'article 54 de la loi n° 2000-642 du 10 juillet 2000 portant réglementation des ventes volontaires de meubles aux enchères publiques sont dispensées des conditions prévues aux 1°, 3°, 4° et 5°.
+
+NOTA:
+Conformément à l'article 16 I du décret n° 2013-884 du 1er octobre 2013, le 3° s'applique, à compter du 1er janvier 2014, aux candidatures à l'examen d'accès au stage prévu aux articles R. 321-20 à R. 321-25 du code de commerce.
+
+Les personnes remplissant l'ensemble des conditions prévues à l'article R. 321-18 du code de commerce au jour de la publication du présent décret ainsi que celles remplissant, au même jour, les conditions prévues aux 1°, 2° et 3° du même article, qui rempliront la condition prévue au 4° au plus tard le 31 décembre 2013 et celle prévue au 5° au plus tard le 31 décembre 2017 restent régies par les dispositions applicables dans leur rédaction antérieure à l'entrée en vigueur du présent décret.

@@ -13,3 +13,6 @@ Les organismes destinataires apportent, le cas échéant et selon des modalités
 II.-En complément de cette assistance, les chambres consulaires peuvent proposer au déclarant un accompagnement sous la forme d'une information personnalisée, sous réserve des dispositions prévues aux articles 54 à 66-3 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, ainsi que des outils de compréhension des enjeux et des conséquences de la création ou de la reprise d'entreprise, et du déroulement de la vie de l'entreprise.
 
 Chaque chambre consulaire mettant en œuvre cet accompagnement informe en amont le déclarant du caractère éventuellement payant de cette prestation pour la réalisation des formalités mentionnées à l'article R. 123-1 et de son absence de caractère obligatoire.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

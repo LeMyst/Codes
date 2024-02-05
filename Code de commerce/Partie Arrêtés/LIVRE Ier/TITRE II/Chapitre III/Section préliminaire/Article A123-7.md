@@ -35,3 +35,6 @@ b) de mettre techniquement en œuvre certaines orientations qu'il a décidées ;
 11° Veille à harmoniser le traitement des déclarations et demandes d'autorisation sur l'ensemble du territoire ;
 
 12° Décide de la mise en œuvre de la procédure prévue à l'article R. 123-15, selon les modalités fixées par l'arrêté mentionné au même article.
+
+NOTA:
+Conformément à l’article 2 de l’arrêté du 14 décembre 2022 (NOR : ECOI2232187A), ces dispositions entrent en vigueur le 1er janvier 2023.

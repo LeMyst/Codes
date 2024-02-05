@@ -5,3 +5,6 @@ I. - Le liquidateur ne peut, sauf accord du débiteur, réaliser les biens ou dr
 II. - Sur la demande du débiteur et avec l'autorisation du juge-commissaire ou du tribunal, le liquidateur peut réaliser des biens ou droits composant un autre patrimoine de l'entrepreneur ou insaisissables par les créanciers dont les droits naissent à l'occasion de l'activité professionnelle de celui-ci, lorsque cette cession facilite la réalisation des actifs du patrimoine saisi par l'effet de l'ouverture de la liquidation judiciaire.
 
 III. - La contrepartie de la valeur de ces biens ou droits s'y substitue dans le patrimoine dont ils sont issus.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

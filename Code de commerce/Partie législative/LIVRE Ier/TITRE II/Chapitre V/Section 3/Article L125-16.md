@@ -5,3 +5,6 @@ Sous réserve de la procédure d'évaluation des parts prévue au second alinéa
 Le tribunal peut annuler ou réformer la décision qui lui est déférée ou y substituer sa propre décision.
 
 Nonobstant toute clause contraire, le recours en justice est suspensif de l'exécution de la décision déférée, sauf dans le cas d'une décision d'exclusion motivée par la non-utilisation des emplacements ou par le non-paiement des charges.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

@@ -13,3 +13,6 @@ L'organisme tiers indépendant émet un avis portant sur le respect des exigence
 Cet avis fait l'objet d'un rapport de certification à l'organe qui statue sur les comptes.
 
 L'émission de cet avis est effectuée selon la norme d'assurance mentionnée à l'article L. 821-59 du présent code.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

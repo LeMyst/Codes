@@ -7,3 +7,6 @@ La validation des inscriptions d'informations et des dépôts de pièces prévus
 2° En matière de registre spécial des agents commerciaux, en application de l'article R. 134-6 ;
 
 3° En matière de registre spécial des entreprises individuelles à responsabilité limitée, en application de l'article R. 526-15.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

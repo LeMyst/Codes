@@ -9,3 +9,6 @@ Le plan expose et justifie le niveau et les perspectives d'emploi ainsi que les 
 Les personnes qui exécuteront le plan, même à titre d'associés, ne peuvent pas se voir imposer des charges autres que les engagements qu'elles ont souscrits au cours de sa préparation, sous réserve des dispositions prévues à l'article L. 626-3.
 
 Les créances résultant des apports de trésorerie mentionnés au premier alinéa bénéficient du privilège prévu au 2° du III de l'article L. 622-17. Cette disposition ne s'applique pas aux apports consentis par les actionnaires et associés du débiteur dans le cadre d'une augmentation de capital. Elle ne peut bénéficier, directement ou indirectement, aux créanciers au titre de leurs concours antérieurs à l'ouverture de la procédure.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

@@ -5,3 +5,6 @@ En cas d'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou
 Cette disposition ne s'applique pas aux apports consentis par les actionnaires et associés du débiteur dans le cadre d'une augmentation de capital.
 
 Les créanciers signataires de l'accord ne peuvent bénéficier directement ou indirectement de cette disposition au titre de leurs concours antérieurs à l'ouverture de la conciliation.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

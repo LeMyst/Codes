@@ -5,3 +5,6 @@ Sauf si les actionnaires de chacune des sociétés participant à la fusion en d
 Cette information est en outre transmise, sans délai, aux conseils d'administration ou aux directoires des autres sociétés participant à l'opération, par tous moyens contre accusé de réception. Ceux-ci en informent leurs actionnaires selon les formes prévues à l'alinéa premier.
 
 Cette modification fait également l'objet d'une information lors des assemblées générales de chacune des sociétés participant à l'opération.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

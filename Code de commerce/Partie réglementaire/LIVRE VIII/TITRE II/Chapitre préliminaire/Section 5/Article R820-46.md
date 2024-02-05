@@ -7,3 +7,6 @@ Le commissaire aux comptes, l'organisme tiers indépendant et l'auditeur des inf
 Les contrôleurs peuvent obtenir copie des pièces et documents mentionnés à l'article L. 820-17, quel qu'en soit le support. Un bordereau des pièces et documents remis en original est établi.
 
 A l'issue des opérations de contrôle, les originaux communiqués aux contrôleurs sont restitués.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

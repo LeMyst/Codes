@@ -5,3 +5,6 @@ Lorsque la société, dans les deux ans suivant son immatriculation, acquiert un
 Le rapport du commissaire est mis à la disposition des actionnaires. L'assemblée générale ordinaire statue sur l'évaluation du bien, à peine de nullité de l'acquisition. Le vendeur n'a voix délibérative ni pour lui-même ni comme mandataire.
 
 Les dispositions du présent article ne sont pas applicables lorsque l'acquisition est faite en bourse, sous le contrôle d'une autorité judiciaire ou dans le cadre des opérations courantes de la société et conclues à des conditions normales.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

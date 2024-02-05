@@ -7,3 +7,6 @@ En cas de renouvellement postérieur à la date initialement prévue d'expiratio
 Les dispositions de l'alinéa ci-dessus ne sont plus applicables lorsque, par l'effet d'une tacite prolongation, la durée du bail excède douze ans.
 
 En cas de modification notable des éléments mentionnés aux 1° à 4° de l'article L. 145-33 ou s'il est fait exception aux règles de plafonnement par suite d'une clause du contrat relative à la durée du bail, la variation de loyer qui en découle ne peut conduire à des augmentations supérieures, pour une année, à 10 % du loyer acquitté au cours de l'année précédente.
+
+NOTA:
+Conformément au 21 II de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions sont applicables aux contrats conclus ou renouvelés à compter du 1er septembre 2014.

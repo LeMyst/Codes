@@ -23,3 +23,6 @@ e) Une vue aérienne ou satellite dûment légendée inscrivant le projet dans s
 f) Une photographie axonométrique du site actuel et une présentation visuelle du projet permettant d'apprécier sa future insertion par rapport aux constructions avoisinantes et aux paysages, son impact visuel ainsi que le traitement des accès et du terrain ;
 
 g) Un document graphique représentant l'ensemble des façades du projet.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2022-1312 du 13 octobre 2022, ces dispositions s'appliquent pour les demandes déposées à compter du 15 octobre 2022.

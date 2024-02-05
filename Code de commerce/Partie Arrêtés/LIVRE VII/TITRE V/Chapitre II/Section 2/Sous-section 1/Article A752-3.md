@@ -23,3 +23,6 @@ III.-Le formulaire rappelle :
 3° Les dispositions du premier alinéa de l'article R. 752-44-9 et celles de l'article R. 752-44-13 relatives aux modalités de transmission du certificat de conformité au préfet du département d'implantation, puis au maire de la commune d'implantation et au président de l'établissement public de coopération intercommunale dont la commune d'implantation est membre ;
 
 4° Le délai, fixé à l'article L. 752-23, d'un mois avant la date d'ouverture au public de l'équipement commercial autorisé, imparti au bénéficiaire pour communiquer le certificat de conformité au préfet du département d'implantation, à peine d'illicéité de l'exploitation commerciale.
+
+NOTA:
+Par décision nos 436437, 436962 du 2 août 2021 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHS:2021:436437.20210802, au 1° du III de l’article A. 752-3 du code de commerce créé par l’article 1er de l’arrêté du ministre de l’économie et des finances du 1er octobre 2019 fixant le contenu du formulaire intitulé " certificat de conformité " en application de l’article R. 752-44-8 du code de commerce et à son article 2 (NOR : ECOI1927871A), les mots : " la déclaration attestant l’achèvement et la conformité des travaux prévue à l’article L. 462-1 du code de l’urbanisme (CERFA n° 13408-04) " sont annulés.

@@ -5,3 +5,6 @@ I.-Les données à caractère personnel collectées par les personnes mentionné
 II.-Les données à caractère personnel collectées par les personnes mentionnées aux articles L. 228-2 à L. 228-3-1 selon les modalités prévues aux mêmes articles L. 228-2 à L. 228-3-1 et par la société émettrice en application du I du présent article ne peuvent être conservées que douze mois après que les responsables de traitement ont eu connaissance du fait que la personne dont les données à caractère personnel ont été enregistrées n'était plus propriétaire des titres.
 
 Durant la même période, lorsque le propriétaire des titres est une personne morale, celle-ci a le droit d'obtenir, dans les meilleurs délais, de toute personne traitant les informations recueillies selon les modalités prévues aux articles L. 228-2 à L. 228-3-1 que les informations inexactes la concernant soient rectifiées et que les informations incomplètes soient complétées, y compris en fournissant une déclaration complémentaire.
+
+NOTA:
+Conformément au V de l'article 198 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 10 juin 2019.

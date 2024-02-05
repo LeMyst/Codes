@@ -13,3 +13,6 @@ Le montant net du chiffre d'affaires est égal au montant des ventes de produits
 Le nombre moyen de salariés est apprécié selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale. Par dérogation à ces modalités, il est apprécié sur le dernier exercice comptable lorsque celui-ci ne correspond pas à l'année civile précédente.
 
 Sauf disposition contraire, ces seuils sont réputés franchis à la date de clôture de deux exercices consécutifs sur la base des derniers comptes annuels arrêtés.
+
+NOTA:
+Conformément à l'article 21 du décret n° 2023-1394 du 30 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

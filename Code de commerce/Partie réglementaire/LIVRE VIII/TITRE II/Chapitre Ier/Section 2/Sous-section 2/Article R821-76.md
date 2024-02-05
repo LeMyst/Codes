@@ -7,3 +7,6 @@ La demande, adressée au conseil régional par lettre recommandée avec demande 
 Le conseil régional transmet la demande à la Haute autorité, qui statue sur cette demande selon la procédure prévue à la sous-section 1 de la présente section.
 
 L'intéressé a la faculté d'entreprendre sa nouvelle activité, même si la décision de la Haute autorité n'est pas encore intervenue, à la condition d'en informer le conseil régional dans les conditions prévues au deuxième alinéa, au moins huit jours à l'avance, d'être à jour de ses cotisations professionnelles et de cesser préalablement son activité de commissaire aux comptes.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

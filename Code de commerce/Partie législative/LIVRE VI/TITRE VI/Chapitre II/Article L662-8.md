@@ -5,3 +5,6 @@ Le tribunal est compétent pour connaître de toute procédure concernant une so
 Il peut désigner un administrateur judiciaire et un mandataire judiciaire communs à l'ensemble des procédures.
 
 Par dérogation à la première phrase du premier alinéa, toute procédure en cours concernant une société détenue ou contrôlée, au sens des articles L. 233-1 et L. 233-3, par une société pour laquelle une procédure est ouverte devant un tribunal de commerce spécialisé est renvoyée devant ce dernier.
+
+NOTA:
+Ces dispositions sont applicables aux procédures ouvertes à compter du 1er mars 2016.

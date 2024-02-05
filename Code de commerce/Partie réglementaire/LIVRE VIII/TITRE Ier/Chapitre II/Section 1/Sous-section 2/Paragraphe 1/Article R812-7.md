@@ -9,3 +9,6 @@ En application des dispositions de l'article L. 812-3, bénéficient de la dispe
 3° Les personnes ayant exercé les fonctions de collaborateur d'un mandataire judiciaire pendant une durée de cinq ans au moins ;
 
 4° Les personnes titulaires de l'un des titres ou diplômes mentionnés à l'article R. 811-7, justifiant de cinq ans au moins de pratique professionnelle comptable, juridique ou financière dans le domaine de l'administration, du financement, de la restructuration, dont les fusions-acquisitions, ou de la reprise d'entreprises, notamment en difficulté.
+
+NOTA:
+Conformément à l'article 22 II du décret n° 2016-400 du 1er avril 2016, les dispositions de l'article R812-7 sont applicables aux demandes de dispense et aux demandes d'inscription reçues par la commission nationale d'inscription et de discipline à compter de la publication du présent décret.

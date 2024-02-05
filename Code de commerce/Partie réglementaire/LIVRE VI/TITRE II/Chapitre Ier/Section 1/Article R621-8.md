@@ -13,3 +13,6 @@ Un avis du jugement est adressé pour insertion au Bulletin officiel des annonce
 Le même avis est publié dans un support d'annonces légales du lieu où le débiteur a son siège ou son adresse professionnelle et, le cas échéant, ses établissements secondaires.
 
 Le greffier procède d'office à ces publicités dans les quinze jours de la date du jugement.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

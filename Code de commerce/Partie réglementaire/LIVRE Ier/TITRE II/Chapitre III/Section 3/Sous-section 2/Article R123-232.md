@@ -11,3 +11,6 @@ Par dérogation, les données complètes d'état civil et l'indication que l'adr
 1° Qu'aux autorités administratives habilitées, en vertu d'un texte législatif ou réglementaire, à traiter les démarches et formalités des usagers ou à vérifier leur situation déclarative ou le respect de leurs obligations, notamment afin de lutter contre la fraude ;
 
 2° Qu'aux personnes morales de droit privé qui proposent des services en ligne dont l'usage nécessite, conformément à des dispositions législatives ou réglementaires, la vérification de l'identité des utilisateurs ou la vérification de certains de leurs attributs, et uniquement pour les services qui nécessitent ces vérifications.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2024.

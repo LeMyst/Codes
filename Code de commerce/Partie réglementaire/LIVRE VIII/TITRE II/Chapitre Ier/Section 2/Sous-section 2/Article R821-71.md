@@ -11,3 +11,6 @@ L'obligation de formation continue particulière est satisfaite par :
 Le programme de formation continue particulière mentionné au 1° et ses modalités de mise en œuvre sont fixés par la Compagnie nationale des commissaires aux comptes.
 
 Les heures de formation continue particulière suivies au titre du présent article sont éligibles à l'obligation de formation continue prévue par l'article R. 821-70.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

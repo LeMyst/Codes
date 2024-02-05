@@ -11,3 +11,6 @@ L'état descriptif du patrimoine professionnel prévu au II de l'article D. 526-
 4° La liste des biens du patrimoine professionnel grevés d'une sûreté et, pour chacun des biens concernés, la nature de la sûreté et le montant de la créance garantie.
 
 Les valeurs mentionnées aux 1° et 3° sont celles figurant dans les comptes de l'entrepreneur individuel du dernier exercice clos précédant la date de la cession, de la donation ou de l'apport en société actualisé à la date du transfert, ou, lorsque l'entrepreneur individuel n'est pas soumis à des obligations comptables, à la date qui résulte de l'accord des parties.
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 12 mai 2022 (NOR : ECOI2213035A), en application du premier alinéa du I de l'article 19 de la loi du 14 février 2022, ces dispositions entrent en vigueur le 15 mai 2022.

@@ -49,3 +49,6 @@ VI.-Lorsqu'une sanction pécuniaire est infligée à une association d'entrepris
 Dans le cas où ces contributions ne sont pas versées intégralement à l'association d'entreprises dans un délai fixé par l'Autorité de la concurrence, celle-ci peut exiger directement le paiement de la sanction pécuniaire par toute entreprise dont les représentants étaient membres des organes décisionnels de cette association.
 
 Lorsque cela est nécessaire pour assurer le paiement intégral de la sanction pécuniaire, après avoir exigé le paiement par ces entreprises, l'Autorité de la concurrence peut également exiger le paiement du montant impayé de la sanction pécuniaire par tout membre de l'association qui était actif sur le marché sur lequel l'infraction a été commise. Ce paiement n'est toutefois pas exigé des entreprises qui démontrent qu'elles n'ont pas appliqué la décision litigieuse de l'association et qui en ignoraient l'existence ou qui s'en sont activement désolidarisées avant l'ouverture de la procédure.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 6 de l'ordonnance n° 2021-649 du 26 mai 2021.

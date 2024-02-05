@@ -11,3 +11,6 @@ L'avis mentionné au premier alinéa et la convocation mentionnée au deuxième 
 L'invitation mentionnée au troisième alinéa de l'article R. 626-55 est insérée dans l'avis prévu par le troisième alinéa du présent article ou à la convocation prévue par le deuxième alinéa.
 
 Chaque obligataire a le droit, pendant le délai de dix jours qui précède le vote, de prendre par lui-même ou par mandataire connaissance du projet de plan.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

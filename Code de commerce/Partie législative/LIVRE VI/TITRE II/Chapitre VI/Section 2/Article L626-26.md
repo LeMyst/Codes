@@ -7,3 +7,8 @@ Lorsque la demande de modification substantielle du plan porte sur les modalité
 L'article L. 626-6 est applicable. Le privilège prévu au 2° du III de l'article L. 622-17 bénéficie aux apports de trésorerie des personnes qui se sont engagées à les effectuer pour l'exécution du plan modifié par le tribunal dans les mêmes conditions que celles prévues au dernier alinéa de l'article L. 626-10.
 
 Le tribunal statue après avoir recueilli l'avis du ministère public et avoir entendu ou dûment appelé le débiteur, le commissaire à l'exécution du plan, les contrôleurs, les représentants du comité social et économique et toute personne intéressée.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.
+
+Se reporter aux conditions d'application prévues au III de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021.

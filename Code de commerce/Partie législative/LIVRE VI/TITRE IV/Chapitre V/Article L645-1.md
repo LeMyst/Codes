@@ -5,3 +5,6 @@ Il est institué une procédure de rétablissement professionnel sans liquidatio
 La procédure de rétablissement professionnel a pour objet le traitement simplifié du passif grevant le ou les patrimoines du débiteur personne physique. Lorsque le débiteur est titulaire de plusieurs patrimoines, le seuil mentionné au premier alinéa du présent article est déterminé en prenant en compte l'ensemble de ses patrimoines.
 
 La procédure ne peut être ouverte en cas d'instance prud'homale en cours impliquant le débiteur au titre de l'un quelconque de ses patrimoines.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

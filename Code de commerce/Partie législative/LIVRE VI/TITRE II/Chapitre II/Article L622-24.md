@@ -15,3 +15,6 @@ Les créances nées régulièrement après le jugement d'ouverture, autres que c
 Le délai de déclaration, par une partie civile, des créances nées d'une infraction pénale court dans les conditions prévues au premier alinéa ou à compter de la date de la décision définitive qui en fixe le montant, lorsque cette décision intervient après la publication du jugement d'ouverture.
 
 Les créances alimentaires ne sont pas soumises aux dispositions du présent article.
+
+NOTA:
+Conformément au III de l’article 63 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent aux procédures collectives ouvertes à compter du 1er janvier de l'année suivant la publication de la présente loi.

@@ -5,3 +5,6 @@ En cas de suspension provisoire, d'interdiction ou de radiation, un ou plusieurs
 Lorsque l'administrateur provisoire constate que l'administrateur judiciaire interdit, radié ou suspendu est en état de cessation des paiements, il doit, après en avoir informé le juge qui l'a désigné et le Conseil national des administrateurs judiciaires et des mandataires judiciaires, saisir le tribunal compétent d'une demande d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire.
 
 Dans un délai de trois mois à compter de l'expiration de sa mission, l'administrateur provisoire demande à la juridiction compétente de désigner un autre administrateur judiciaire pour exécuter les mandats en cours.
+
+NOTA:
+Loi n° 2016-1547 du 18 novembre 2016, Art. 114 XIII : Ces dispositions entrent en vigueur selon des modalités fixées par décret, et au plus tard le premier jour du sixième mois suivant la promulgation de la présente loi.

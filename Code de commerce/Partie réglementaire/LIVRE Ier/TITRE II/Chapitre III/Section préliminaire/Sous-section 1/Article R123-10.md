@@ -11,3 +11,6 @@ Dans le cas d'une demande d'autorisation mentionnée au 2° du I de l'article R.
 L'organisme unique adresse, dans les conditions du 1°, un second accusé de réception électronique au déclarant lorsqu'il reçoit directement de l'autorité compétente le document attestant de l'accomplissement de la formalité prévue au 1° du I de l'article R. 123-1.
 
 Si le demandeur doit accomplir des démarches personnelles pour compléter son dossier de demande d'autorisation, l'organisme unique l'informe qu'il dispose d'un délai de quinze jours ouvrables, le cas échéant renouvelable une fois, à compter de la réception de l'accusé de réception attestant de l'accomplissement de la formalité prévue au 1° du I de l'article R. 123-1 pour remettre à l'organisme unique les pièces résultant de ses démarches. Lorsque ces pièces ont été remises, le déclarant reçoit un accusé de réception de la transmission des demandes aux autorités administratives dans les conditions prévues au 1°.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

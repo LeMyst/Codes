@@ -25,3 +25,6 @@ c) Adresser une procuration à la société sans indication de mandat ;
 8° L'indication qu'en aucun cas l'actionnaire ne peut retourner à la société à la fois la formule de procuration et le formulaire de vote par correspondance.
 
 En cas de retour de la formule de procuration et du formulaire de vote par correspondance en violation des dispositions du 8° du présent article, la formule de procuration est prise en considération, sous réserve des votes exprimés dans le formulaire de vote par correspondance.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

@@ -13,3 +13,6 @@ Les majorations prévues aux troisième et quatrième alinéas ne peuvent être 
 Les agents désignés à cet effet par le président de la Haute autorité de l'audit contrôlent les cotisations. A cette fin, ils peuvent demander aux redevables tous renseignements, justifications ou éclaircissements relatifs aux déclarations souscrites.
 
 Le droit de reprise des cotisations de la Haute autorité s'exerce jusqu'à la fin de la sixième année qui suit celle au titre de laquelle les cotisations sont dues.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

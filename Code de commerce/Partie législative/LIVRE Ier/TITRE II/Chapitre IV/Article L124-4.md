@@ -5,3 +5,6 @@ Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n
 Les sociétés coopératives de commerçants de détail qui exercent les activités visées au 2° de l'article L. 124-1 peuvent, en outre, admettre en qualité d'associé toute personne visée à l'article L. 125-1.
 
 Les commerçants de détail dont la coopérative est affiliée à une autre coopérative de commerçants de détail peuvent bénéficier directement des services de cette dernière.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -7,3 +7,6 @@ Font l'objet d'un dépôt par la personne physique, en annexe du Registre nation
 2° Lors de sa demande d'immatriculation, une attestation de délivrance de l'information donnée à son conjoint commun en biens sur les conséquences des dettes contractées dans l'exercice de sa profession sur les biens communs, établie conformément à un modèle défini par arrêté du garde des sceaux, ministre de la justice ;
 
 3° En présence d'un patrimoine affecté au sens de l'article L. 526-6, l'état descriptif prévu à l'article L. 526-8 ainsi que, s'il y a lieu, les documents attestant de l'accomplissement des formalités prévues aux articles L. 526-9 et L. 526-11 et, dans le délai de six mois suivant la clôture de l'exercice, les documents comptables mentionnés à l'article L. 526-14.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

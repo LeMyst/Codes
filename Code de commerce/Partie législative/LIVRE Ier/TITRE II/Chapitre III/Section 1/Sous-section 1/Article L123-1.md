@@ -15,3 +15,6 @@ I.-Il est tenu un registre du commerce et des sociétés auquel sont immatricul�
 6° Les représentations commerciales ou agences commerciales des Etats, collectivités ou établissements publics étrangers établis dans un département français.
 
 II.-Figurent au registre, pour être portés à la connaissance du public, les inscriptions et actes ou pièces déposés prévus par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

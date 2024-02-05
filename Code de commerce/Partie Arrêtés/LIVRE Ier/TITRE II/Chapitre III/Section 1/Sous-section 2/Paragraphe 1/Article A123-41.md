@@ -17,3 +17,6 @@ L'avis mentionné au troisième alinéa de l'article R. 123-83 est constitué d'
 6° Le numéro unique d'identification de l'entreprise délivré conformément à l'article D. 123-235 ;
 
 7° La date, le lieu et le registre de la déclaration d'affectation.
+
+NOTA:
+Conformément à l'article 9 de l'arrêté du 25 septembre 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

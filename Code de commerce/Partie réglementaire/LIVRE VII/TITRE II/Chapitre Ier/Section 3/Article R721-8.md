@@ -35,3 +35,6 @@ Les membres mentionnés au 2° accomplissent un mandat de quatre ans renouvelabl
 Un membre suppléant est désigné dans les mêmes conditions pour chaque membre titulaire.
 
 Toute vacance ou perte de la qualité au titre de laquelle ils ont été désignés donne lieu à remplacement pour la durée du mandat restant à courir, si elle survient plus de trois mois avant le terme normal de celui-ci.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2016-747 du 6 juin 2016 relatif à des commissions administratives à caractère consultatif relevant du ministère de la justice, le Conseil national des tribunaux de commerce prévu à l'article L. 721-8 du code de commerce est renouvelé au-delà du 8 juin 2016.

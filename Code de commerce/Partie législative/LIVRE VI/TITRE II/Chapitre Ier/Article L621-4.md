@@ -13,3 +13,6 @@ Le ministère public peut soumettre à la désignation du tribunal le nom d'un o
 Si le débiteur en fait la demande, le tribunal désigne, en considération de leurs attributions respectives telles qu'elles résultent des dispositions qui leur sont applicables, un commissaire-priseur judiciaire, un huissier de justice, un notaire ou un courtier en marchandises assermenté aux fins de réaliser l'inventaire prévu à l'article L. 622-6. Dans le cas contraire, l'article L. 622-6-1 est applicable.
 
 Les mandataires de justice et les personnes mentionnées à l'alinéa précédent font connaître sans délai au tribunal tout élément qui pourrait justifier leur remplacement.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

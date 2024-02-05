@@ -13,3 +13,6 @@ Outre les informations mentionnées à l'article R. 236-21, le projet de scissio
 5° Les informations concernant l'évaluation des éléments d'actif et de passif alloués à chaque société ;
 
 6° La date d'arrêté des comptes de la société scindée.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

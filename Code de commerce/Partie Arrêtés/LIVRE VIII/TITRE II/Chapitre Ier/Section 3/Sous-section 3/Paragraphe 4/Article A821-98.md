@@ -489,3 +489,6 @@ Liens éventuels entre la déclaration à TRACFIN et la révélation des faits d
 Les soupçons ne constituent pas des faits délictueux ou des irrégularités.
 
 78. Lorsqu'il a déclaré des soupçons, le commissaire aux comptes réapprécie tout au long de l'exécution de la mission ou de la prestation fournie les éléments déclarés dès lors qu'il a connaissance d'informations venant renforcer ou infirmer ses soupçons et en tire les conséquences éventuelles au regard de ses obligations de révélation.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

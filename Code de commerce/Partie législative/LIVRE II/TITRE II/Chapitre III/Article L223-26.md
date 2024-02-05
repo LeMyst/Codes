@@ -11,3 +11,6 @@ L'associé peut, en outre, et à toute époque, obtenir communication, dans les 
 Toute clause contraire aux dispositions du présent article et du décret pris pour son application, est réputée non écrite.
 
 Le I de l'article L. 225-100-1 s'applique au rapport de gestion. Le cas échéant, le II de l'article L. 225-100-1 s'applique au rapport consolidé de gestion.
+
+NOTA:
+Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.

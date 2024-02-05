@@ -11,3 +11,6 @@ Durant la période d'un mois mentionnée au troisième alinéa et jusqu'à la r�
 Le montant de la redevance mentionnée au troisième alinéa ne peut excéder le coût moyen de réalisation et de transmission de la carte.
 
 Les mentions portées sur cette carte et le montant de la redevance sont fixés par arrêté du ministre chargé du commerce.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

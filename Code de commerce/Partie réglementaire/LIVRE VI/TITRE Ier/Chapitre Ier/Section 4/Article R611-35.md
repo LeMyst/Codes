@@ -9,3 +9,6 @@ La décision rendue par le président du tribunal est communiquée à cette juri
 Le créancier mentionné au cinquième alinéa de l'article L. 611-7 est informé par le greffier, par lettre recommandée avec demande d'avis de réception, de la conclusion de l'accord dès sa constatation ou son homologation ainsi que de toute décision mettant fin à la procédure de conciliation.
 
 La décision prononçant la résolution de l'accord est portée à la connaissance du créancier selon les mêmes modalités.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

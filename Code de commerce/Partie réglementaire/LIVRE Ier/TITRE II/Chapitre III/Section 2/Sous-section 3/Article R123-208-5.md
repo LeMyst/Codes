@@ -7,3 +7,6 @@ II. ― Tout préposé, salarié ou personne mentionnés aux articles L. 121-4 o
 III. ― Préalablement à l'occupation temporaire d'un emplacement situé sur un marché ou sous une halle créé en application de l'article L. 2224-18 du code général des collectivités territoriales, les personnes exerçant une activité commerciale ou artisanale ainsi que leurs préposés présentent, à toute réquisition, les documents visés au I ou au II aux agents mentionnés à l'article L. 123-30, ainsi qu'aux agents du gestionnaire délégué du marché, responsables du placement, missionnés à cet effet par le maire de la commune.
 
 Toute copie de la carte est établie et certifiée par son titulaire, sous sa responsabilité.
+
+NOTA:
+Décret n° 2009-194 du 18 février 2009 art. 3 : Le présent décret entre en vigueur à la date de publication de l'arrêté prévu à l'article R 123-208-2 (11 mars 2010).

@@ -15,3 +15,6 @@ Lorsqu'elle statue sur la délivrance du certificat de fin de stage, la commissi
 Les décisions de refus de délivrance ou de prolongation de stage doivent être motivées. Elles sont notifiées à l'intéressé et au président du Conseil national des administrateurs judiciaires et des mandataires judiciaires. La lettre de notification, adressée par lettre recommandée avec demande d'avis de réception, fait mention, à peine de nullité, du délai de recours et des modalités suivant lesquelles ce recours peut être exercé.
 
 Le silence gardé par la commission au terme d'un délai de quatre mois à compter de la réception du dossier complet de la demande de délivrance de certificat de fin de stage vaut décision d'acceptation.
+
+NOTA:
+Conformément à l'article 22 III du décret n° 2016-400 du 1er avril 2016, les présentes dispositions entrent en vigueur à compter de la publication de l'arrêté prévu aux articles R. 811-28-2 et R. 812-18-2.

@@ -11,3 +11,6 @@ Lorsque la complexité du dossier exige un examen particulier de celui-ci, le gr
 Les notifications adressées par le greffier mentionnent la possibilité pour le demandeur de former les recours prévus, selon les cas, par les articles R. 123-139 à R. 123-142 et R. 123-143 à R. 123-149 et en précisent les modalités.
 
 Faute par le greffier de respecter les délais qui lui sont impartis par le présent article, le demandeur peut saisir le juge commis à la surveillance du registre.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

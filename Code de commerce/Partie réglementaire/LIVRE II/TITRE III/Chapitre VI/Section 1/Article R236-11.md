@@ -5,3 +5,6 @@ L'opposition d'un créancier à la fusion, dans les conditions prévues par les 
 L'opposition des représentants de la masse des obligataires à la fusion, prévue à l'article L. 236-16, est formée dans le même délai.
 
 Dans tous les cas, l'opposition est portée devant le tribunal de commerce.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

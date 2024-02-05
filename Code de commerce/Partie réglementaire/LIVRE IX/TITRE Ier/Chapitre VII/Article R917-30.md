@@ -9,3 +9,6 @@ b) Il est ajouté les deux alinéas suivants :
 " Les activités relevant du collège représentant les activités du secteur de l'agriculture sont fixées par l'arrêté du préfet de la collectivité territoriale de Saint-Pierre-et-Miquelon relatif au registre des agriculteurs prévu à l'article R. 917-17 ;
 
 " Les activités relevant du collège représentant les activités du secteur de l'artisanat et des métiers sont celles fixées par l'annexe du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au secteur des métiers et de l'artisanat. "
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

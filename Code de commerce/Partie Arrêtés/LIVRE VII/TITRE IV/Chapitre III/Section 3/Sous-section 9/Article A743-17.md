@@ -8,40 +8,19 @@ I.-Les transmissions mentionnées au troisième alinéa de l'article R. 743-140 
 
 II.-Les transmissions figurant au numéro 144 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception d'un émolument, qui varie en fonction du nombre de salariés et du chiffre d'affaires de l'entreprise concernée déterminés conformément aux dispositions de l'article R. 621-11, selon le barème suivant :
 
-|
-NOMBRE DE SALARIÉS |
-CHIFFRE D'AFFAIRES |
-FRAIS DE TRANSMISSION |
+|  NOMBRE DE SALARIÉS |  CHIFFRE D'AFFAIRES |  FRAIS DE TRANSMISSION |
 | --- | --- | --- |
-|
-Aucun salarié |  |
-66,88 € |
-|
-De 1 à 5 salariés |  |
-72,46 € |
-|
-De 6 à 19 salariés |
-Inférieur à 750 000 € |
-133,75 € |
-|
-Supérieur ou égal à 750 000 € |
-256,36 € |
-|
-De 20 à 150 salariés |
-Inférieur à 3 000 000 € |
-334,39 € |
-|
-Supérieur ou égal à 3 000 000 € |
-423,55 € |
-|
-Plus de 150 salariés |
-Inférieur à 20 000 000 € |
-664,30 € |
-|
-Supérieur ou égal à 20 000 000 € et inférieur à 50 000 000 € |
-760,16 € |
-|
-Supérieur ou égal à 50 000 000 € |
-847,09 € |
+|  Aucun salarié |  |  66,88 € |
+|  De 1 à 5 salariés |  |  72,46 € |
+|  De 6 à 19 salariés |  Inférieur à 750 000 € |  133,75 € |
+|  Supérieur ou égal à 750 000 € |  256,36 € |
+|  De 20 à 150 salariés |  Inférieur à 3 000 000 € |  334,39 € |
+|  Supérieur ou égal à 3 000 000 € |  423,55 € |
+|  Plus de 150 salariés |  Inférieur à 20 000 000 € |  664,30 € |
+|  Supérieur ou égal à 20 000 000 € et inférieur à 50 000 000 € |  760,16 € |
+|  Supérieur ou égal à 50 000 000 € |  847,09 € |
 
 III.-Les transmissions figurant au numéro 146 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception d'un émolument de 55,73 €.
+
+NOTA:
+Conformément à l'article 13 de l’arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

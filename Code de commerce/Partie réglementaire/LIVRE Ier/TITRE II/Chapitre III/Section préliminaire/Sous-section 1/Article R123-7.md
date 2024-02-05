@@ -21,3 +21,6 @@ Les transmissions mentionnées aux alinéas précédents sont assurées :
 2° S'agissant des informations transmises, conformément au titre II du livre III du code des relations entre le public et l'administration et à l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ;
 
 3° Selon un format et, s'agissant des seules pièces, une indexation qui sont fixés par arrêté des ministres chargés de l'économie, de la justice, des affaires sociales et de l'agriculture.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

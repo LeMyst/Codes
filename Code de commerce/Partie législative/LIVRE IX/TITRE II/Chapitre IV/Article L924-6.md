@@ -15,3 +15,6 @@ Le II de l'article L. 441-11 est ainsi modifié :
 “ c) En cas de facture périodique au sens des dispositions du code des impôts applicable dans la collectivité pour des achats de produits saisonniers effectués dans le cadre de contrats d'intégration conclus dans le secteur des fruits et légumes mentionnés aux articles L. 326-1 à L. 326-3 du code rural et de la pêche maritime, trente jours à compter de la fin du mois au cours duquel la livraison est effectuée. ” ;
 
 2° Au 3°, les mots : “ à l'article 403 du code général des impôts ” sont remplacés par les mots : “ par les dispositions du code des impôts applicable dans la collectivité ”
+
+NOTA:
+Conformément à l’article 4 de l’ordonnance n° 2021-859 du 30 juin 2021, ces dispositions sont applicables à compter du 1er novembre 2021 aux contrats conclus après la publication de cette ordonnance. Les contrats en cours d'exécution à la date de publication de cette ordonnance sont mis en conformité avec les dispositions mentionnées ci-dessus dans un délai de douze mois à compter de cette date.

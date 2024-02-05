@@ -7,3 +7,6 @@ Est puni des peines prévues par les articles L. 654-3 à L. 654-5 le fait :
 2° Pour toute personne, de déclarer frauduleusement dans la procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire, soit en son nom, soit par interposition de personne, des créances supposées ;
 
 3° Pour toute personne exerçant une activité commerciale, artisanale, agricole ou toute autre activité indépendante, sous le nom d'autrui ou sous un nom supposé, de se rendre coupable d'un des faits prévus à l'article L. 654-14.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -9,3 +9,6 @@ Sous réserve de la présente section, les dispositions légales relatives à la
 Dans le cas où le cédant s'est obligé contractuellement à ne pas céder un élément de son patrimoine professionnel ou à ne pas transférer celui-ci à titre universel, l'inexécution de cette obligation engage sa responsabilité sur l'ensemble de ses biens, sans emporter la nullité du transfert.
 
 Le transfert de propriété ainsi opéré n'est opposable aux tiers qu'à compter de sa publicité, dans des conditions prévues par décret.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Les articles L. 526-22 à L. 526-31 du code de commerce s'appliquent aux créances nées après l'entrée en vigueur de ladite loi.

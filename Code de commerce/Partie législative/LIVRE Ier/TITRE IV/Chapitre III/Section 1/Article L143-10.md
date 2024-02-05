@@ -7,3 +7,6 @@ Le tribunal ordonne la vente du fonds de commerce si la vente séparée d'un ou 
 Le matériel et les marchandises sont vendus en même temps que le fonds sur des mises à prix distinctes, ou moyennant des prix distincts si le cahier des charges oblige l'adjudicataire à les prendre à dire d'experts.
 
 Il y a lieu à ventilation du prix pour les éléments du fonds non grevés des privilèges inscrits.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

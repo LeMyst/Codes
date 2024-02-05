@@ -5,3 +5,6 @@ Les parts sociales représentant un apport en numéraire doivent être libérée
 La libération du surplus doit intervenir, en une ou plusieurs fois, soit aux dates prévues par les statuts, soit sur décision de l'assemblée des associés et au plus tard dans le délai de deux ans à compter de l'inscription de la société sur la liste.
 
 Dans les huit jours de leur réception, les fonds provenant de la libération des apports en numéraire sont déposés, pour le compte de la société, à la Caisse des dépôts et consignations, chez un notaire ou dans un établissement de crédit. Le retrait de ces fonds est effectué par le mandataire de la société sur justification de l'inscription de celle-ci sur la liste.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

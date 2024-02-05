@@ -577,3 +577,6 @@ Comprendre et commenter, en anglais, des documents de la vie des affaires tels q
 Présenter une note de synthèse, en français ou en anglais, à partir de documents en anglais concernant la vie des affaires.
 
 Commenter en anglais un document commercial de base : lettre, devis, bon de commande, etc.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -15,3 +15,6 @@ Lorsqu'une disposition particulière le prévoit, les demandes d'inscription son
 II.-L'organisme unique transmet les renseignements ou pièces du dossier à chacun des organismes destinataires et, le cas échéant et selon leur compétence, à chacune des autorités habilitées à délivrer les autorisations.
 
 Sous réserve des dispositions du dernier alinéa de l'article L. 711-3, il est interdit à l'organisme unique et aux organismes destinataires de communiquer à des tiers les renseignements contenus dans les déclarations.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

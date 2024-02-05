@@ -7,3 +7,6 @@ Un décret en Conseil d'Etat adapte à la taille de ces sociétés les informati
 II. - L'obligation prévue au premier alinéa du I de l'article L. 233-28-5 est également applicable aux sociétés mentionnées au I.
 
 III. - Toute société qui est une grande entreprise, au sens de l'article L. 230-1, ou la société consolidante d'un grand groupe, au sens de l'article L. 230-2, dont les titres sont admis aux négociations sur un marché réglementé, ne peut bénéficier des dispenses prévues au second alinéa du V de l'article L. 232-6-3 et au V de l'article L. 233-28-4.
+
+NOTA:
+Se reporter aux conditions d'application prévues au II de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.

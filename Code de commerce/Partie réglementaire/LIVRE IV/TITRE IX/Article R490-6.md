@@ -7,3 +7,6 @@ Dès réception des observations ou à l'expiration du délai, le juge peut soll
 La décision sollicitant l'avis, ainsi que les observations éventuelles, est adressée à la Commission européenne par le greffe de la juridiction. Cette décision, ainsi que la date de transmission du dossier, est notifiée aux parties par lettre recommandée avec demande d'avis de réception.
 
 Dès la réception de l'avis par la juridiction, celui-ci est notifié par le greffe aux parties qui peuvent présenter des observations.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2017-305 du 9 mars 2017, ces dispositions sont applicables aux instances introduites à compter du 26 décembre 2014.

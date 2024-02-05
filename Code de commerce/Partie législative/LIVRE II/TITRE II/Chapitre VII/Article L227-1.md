@@ -15,3 +15,6 @@ Lorsque la société est constituée par une seule personne, le commissaire aux 
 Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société.
 
 La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

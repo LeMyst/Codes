@@ -9,3 +9,6 @@ Les sûretés inscrites après la date de la mention de l'engagement des poursui
 L'autorité administrative peut, à tout moment, demander la fixation du loyer à un taux correspondant à la valeur locative des locaux.
 
 Lorsque le propriétaire du fonds confisqué est en même temps propriétaire des locaux dans lesquels le fonds est exploité, il doit être établi un bail dont les conditions sont fixées, à défaut d'accord amiable, par le président du tribunal judiciaire, qui statue dans les formes prévues pour les baux d'immeubles ou de locaux à usage commercial, industriel ou artisanal.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

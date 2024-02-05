@@ -9,3 +9,6 @@ L'action en responsabilité est introduite devant la juridiction compétente par
 La juridiction peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de celle-ci, selon les modalités qu'elle précise. Les frais sont supportés par la personne condamnée.
 
 La juridiction peut ordonner l'exécution de sa décision sous astreinte.
+
+NOTA:
+Conformément à l'article 4 de la loi n° 2017-399 du 27 mars 2017, les dispositions de l'article L. 225-102-5 s'appliquent à compter du rapport mentionné à l'article L. 225-102 portant sur le premier exercice ouvert après la publication de ladite loi.

@@ -13,3 +13,6 @@ c) Il est ajouté à la fin du quatrième alinéa les deux phrases suivantes :
 " La chambre procède de même à l'égard des entreprises inscrites au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat en vue de l'identification ou de la désignation des électeurs relevant des activités définies à l'annexe du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au secteur des métiers et de l'artisanat. Elle adresse également un questionnaire aux agriculteurs et aux entreprises agricoles inscrites au registre des agriculteurs prévu au I de l'article R. 917-17. " ;
 
 d) Au septième alinéa, les mots : " par catégorie et, le cas échéant, sous-catégorie professionnelle " sont remplacés par les mots : " par collège ".
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -13,3 +13,6 @@ La commission des sanctions délibère en la seule présence de ses membres et d
 La décision est prise à la majorité des membres. En cas de partage égal des voix, celle du président est prépondérante.
 
 Le secrétaire de séance établit un compte rendu de la séance. Le compte rendu est signé par le président de la commission des sanctions et le secrétaire de séance. Il est transmis aux personnes qui ont pris part à la délibération.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

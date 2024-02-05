@@ -13,3 +13,6 @@ Sous réserve des dispositions du dernier alinéa de l'article L. 711-3, il leur
 Les organismes et les autorités compétents pour statuer sur les déclarations ou les demandes d'autorisation ou pour recevoir les déclarations préalables à l'exercice de l'activité dont ils sont saisis par l'organisme unique informent ce dernier de leurs décisions, dans les conditions déterminées à l'article R. 123-7
 
 Les dispositions du 5° et 6° de l'article R. 123-2 sont applicables à la libre prestation de services.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

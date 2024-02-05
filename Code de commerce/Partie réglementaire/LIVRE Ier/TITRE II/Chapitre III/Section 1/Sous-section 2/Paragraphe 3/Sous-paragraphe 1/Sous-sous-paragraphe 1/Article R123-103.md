@@ -17,3 +17,6 @@ b) S'il s'agit d'une société par actions, un exemplaire du certificat du dépo
 c) S'il s'agit d'une société constituée par offre au public, à l'exception des offres mentionnées au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, une copie du procès-verbal des délibérations de l'assemblée générale constitutive.
 
 Pour les personnes morales mentionnées au 5° de l'article L. 123-1 qui, en vertu des textes qui les régissent, sont tenues au dépôt de certains actes, une adaptation des règles fixées au présent article est faite par arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé du contrôle de la personne morale.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

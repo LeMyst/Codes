@@ -47,3 +47,6 @@ III.-Le bénéficiaire de la renonciation informe l'entrepreneur individuel des 
 IV.-Lorsque l'entrepreneur individuel et le bénéficiaire de la renonciation entendent réduire le délai de réflexion au terme duquel la renonciation intervient, dans les conditions prévues au second alinéa de l'article L. 526-25, l'acte de renonciation porte, de la main de l'entrepreneur individuel, la mention manuscrite suivante : “ Je déclare par la présente renoncer au bénéfice du délai de réflexion de sept jours francs, fixé conformément aux dispositions de l'article L. 526-25 du code de commerce. En conséquence, ledit délai est réduit à trois jours francs. ”
 
 V.-A peine de nullité, l'entrepreneur individuel et le bénéficiaire de la renonciation apposent leur signature sur l'acte, ainsi que la date et le lieu. Il peut être fait usage d'une signature électronique qualifiée répondant aux exigences du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-799 du 12 mai 2022, ces dispositions entrent en vigueur le 15 mai 2022 en application du premier alinéa du I de l'article 19 de la loi n° 2022-172 du 14 février 2022.

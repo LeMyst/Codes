@@ -29,3 +29,6 @@ En cas de faute réitérée dans les cinq années à compter de la date à laque
 Les sommes sont versées au Trésor public.
 
 II.-Les sanctions prévues au 3° et au 7° du I peuvent être assorties du sursis total ou partiel. Si, dans le délai de cinq ans à compter du prononcé de la sanction, la personne sanctionnée commet une faute entraînant le prononcé d'une nouvelle sanction, celle-ci entraînera, sauf décision motivée, l'exécution de la première sanction sans confusion possible avec la seconde.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -11,3 +11,6 @@ Le dossier mentionné au 2° de l'article R. 123-30-9 comprend :
 Lorsqu'une signature est requise, le recours à une signature électronique simple répondant aux exigences du règlement UE n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur est autorisé.
 
 Un arrêté du ministre chargé de l'économie fixe les caractéristiques électroniques des documents énumérés au présent article.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

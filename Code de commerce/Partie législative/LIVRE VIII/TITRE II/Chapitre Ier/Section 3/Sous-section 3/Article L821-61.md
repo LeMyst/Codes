@@ -5,3 +5,6 @@ Les investigations prévues à l'article L. 851-60 peuvent être faites tant aup
 Les commissaires aux comptes peuvent également recueillir toutes informations utiles à l'exercice de leur mission auprès des tiers qui ont accompli des opérations pour le compte de la personne ou de l'entité. Toutefois, ce droit d'information ne peut s'étendre à la communication des pièces, contrats et documents quelconques détenus par des tiers, à moins qu'ils n'y soient autorisés par une décision de justice.
 
 Le secret professionnel ne peut être opposé aux commissaires aux comptes dans le cadre de leur mission, sauf par les auxiliaires de justice.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

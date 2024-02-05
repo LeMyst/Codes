@@ -9,3 +9,6 @@ En l'absence d'accord de l'associé, la société a recours à un envoi postal p
 Sous réserve des questions diverses, qui ne doivent présenter qu'une minime importance, les questions inscrites à l'ordre du jour sont libellées de telle sorte que leur contenu et leur portée apparaissent clairement, sans qu'il y ait lieu de se reporter à d'autres documents.
 
 Le mandataire chargé de convoquer l'assemblée dans le cas prévu par le septième alinéa de l'article L. 223-27 est désigné par ordonnance du président du tribunal de commerce statuant en référé.
+
+NOTA:
+Conformément aux dispositions de l'article 12 du décret n° 2018-146 du 28 février 2018, ces dispositions sont applicables aux assemblées convoquées à compter du 1er avril 2018.

@@ -5,3 +5,8 @@ En ce qui concerne les opérations des sociétés à responsabilité limitée et
 Le délai prévu au premier alinéa court à compter de la date de l'inscription des actes et indications au registre du commerce et des sociétés pour les sociétés à responsabilité limitée et les sociétés par actions simplifiées dont l'associé unique, personne physique, assume personnellement la gérance ou la présidence de la société. (1)
 
 Si, dans la publicité des actes et indications concernant les sociétés à responsabilité limitée et les sociétés par actions, il y a discordance entre le texte déposé au registre du commerce et des sociétés et le texte publié au Bulletin officiel des annonces civiles et commerciales, ce dernier ne peut être opposé aux tiers ; ceux-ci peuvent toutefois s'en prévaloir, à moins que la société ne prouve qu'ils ont eu connaissance du texte déposé au registre du commerce et des sociétés.
+
+NOTA:
+(1) : Loi n° 2008-776 du 4 août 2008 JORF du 5 août 2008 art. 56 II : Le deuxième alinéa de l'article L210-5 du code de commerce entre en vigueur à la date de publication du décret prévu à l'avant dernière phrase du deuxième alinéa de l'article L. 223-1 du code de commerce, et au plus tard le 31 mars 2009.
+
+Le décret n° 2008-1488 du 30 décembre 2008 portant diverses mesures destinées à favoriser le développement des petites entreprises, précise la date d'entrée en vigueur des articles 8, 14, 16, 56 et 59 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie.

@@ -9,3 +9,8 @@ Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure s
 Lorsque l'assemblée générale extraordinaire est convoquée en application du premier alinéa, elle se prononce également sur un projet de résolution prévoyant l'élection d'un ou plusieurs membres du conseil de surveillance par le personnel de la société et des filiales directes ou indirectes dont le siège social est fixé en France. Le cas échéant, ces représentants sont désignés dans les conditions prévues à l'article L. 225-79.
 
 Les membres du conseil de surveillance mentionnés au premier alinéa du présent article bénéficient à leur demande d'une formation adaptée à l'exercice de leur mandat, mise à la charge de la société, dans des conditions définies par décret en Conseil d'Etat. La durée de ce temps de formation ne peut être inférieure à quarante heures par an.
+
+NOTA:
+Conformément au B du I de l’article 184 de la loi n° 2019-486 du 22 mai 2019, les dispositions de la quatrième phrase du premier alinéa de l'article L. 225-71 dans sa rédaction issue du 2° du A du I dudit article, entrent en vigueur à l'issue du mandat du représentant des salariés actionnaires en cours à la date de la publication de la présente loi.
+
+Conformément au II l’article 186 de la loi n° 2019-486 du 22 mai 2019, pour les sociétés auxquelles s'appliquent les dispositions du quatrième alinéa de l'article L. 225-71 dans sa rédaction antérieure à la présente loi, l'entrée en fonction des administrateurs et des membres du conseil de surveillance représentant les salariés actionnaires intervient au plus tard à l'issue de l'assemblée générale annuelle suivant celle procédant aux modifications statutaires nécessaires à leur élection, cette dernière ayant lieu au plus tard en 2020.

@@ -7,3 +7,6 @@ Les commissaires aux comptes des administrateurs ou mandataires judiciaires non 
 Le procureur de la République peut, dans le cas où ces mandataires de justice se verraient reprocher d'avoir commis un acte constitutif de la contravention, de l'infraction ou du manquement visés à l'article L. 811-12 A, demander au tribunal judiciaire de leur interdire d'exercer les fonctions d'administrateur ou de mandataire judiciaires.
 
 Les mesures d'interdiction prononcées en application de l'alinéa précédent sont communiquées au garde des sceaux, ministre de la justice, pour être diffusées auprès des procureurs généraux.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

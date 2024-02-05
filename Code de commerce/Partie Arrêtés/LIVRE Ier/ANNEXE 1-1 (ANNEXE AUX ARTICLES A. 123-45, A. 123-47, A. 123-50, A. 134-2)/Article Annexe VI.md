@@ -1,8 +1,6 @@
 # Article Annexe VI
 
-DEMANDE D'IMMATRICULATION ET D'INSCRIPTION MODIFICATIVE DES SOCIÉTÉS COMMERCIALES DONT LE SIÈGE EST SITUÉ À L'ÉTRANGER
-
-**1. Renseignements relatifs à la personne**
+DEMANDE D'IMMATRICULATION ET D'INSCRIPTION MODIFICATIVE DES SOCIÉTÉS COMMERCIALES DONT LE SIÈGE EST SITUÉ À L'ÉTRANGER **1. Renseignements relatifs à la personne**
 
 1.1. Identification de la société.
 

@@ -17,3 +17,6 @@ III.-L'organisme tiers indépendant constitue pour chaque mission de certificati
 2° Les documents reçus de la personne ou l'entité pour laquelle la certification des informations en matière de durabilité est effectuée, ceux qui sont établis par lui et notamment le plan de mission, le programme de travail, la date, la durée, le lieu, l'objet de son intervention, ainsi que toutes autres indications permettant d'étayer son rapport.
 
 Ce dossier est clôturé au plus tard 60 jours après la signature du rapport contenant son avis.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

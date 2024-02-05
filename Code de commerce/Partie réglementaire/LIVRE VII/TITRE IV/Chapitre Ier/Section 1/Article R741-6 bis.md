@@ -15,3 +15,6 @@ Le greffier de tribunal de commerce investi d'un mandat de délégation conform�
 Sans préjudice des dispositions qui précèdent, le délégataire qui estime devoir se déporter en raison des liens d'intérêts avec la situation individuelle en cause s'abstient d'exercer les attributions déléguées.
 
 La délégation peut être retirée à tout moment, notamment lorsqu'il existe des raisons susceptibles de mettre en cause l'impartialité ou l'indépendance du délégataire.
+
+NOTA:
+Conformément au I de l’article 96 du décret n° 2022-900 du 17 juin 2022, ces dispositions entrent en vigueur le 1er juillet 2022 et s'appliquent aux procédures disciplinaires engagées et aux réclamations reçues à compter de cette date.

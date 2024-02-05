@@ -23,3 +23,6 @@ II. - Le fait, pour une personne tenue de remettre une déclaration d'intérêts
 Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique, selon les modalités prévues à l'article 131-27 du même code.
 
 Le fait de publier ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations ou des informations mentionnées au présent article est puni des peines mentionnées à l'article 226-1 du code pénal.
+
+NOTA:
+Conformément au XI de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, dans un délai de dix-huit mois à compter de la publication du décret en Conseil d'Etat mentionné à l'article L. 722-21 du code de commerce, les juges des tribunaux de commerce établissent une déclaration d'intérêts et participent à un entretien déontologique dans les conditions prévues au même article L. 722-21.

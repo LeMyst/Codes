@@ -27,3 +27,6 @@ d) De manquements aux dispositions relatives aux honoraires prévues à l'articl
 4° Tout dirigeant, administrateur, membre du conseil de surveillance ou personne occupant un poste de direction au sein d'une personne ou entité, ainsi que cette personne ou entité, du fait d'un manquement aux dispositions de l'article L. 821-32 ;
 
 5° Les membres des organes de direction des sociétés de commissaires aux comptes et les autres personnes physiques au sein de ces sociétés, du fait de leur implication personnelle dans les manquements aux dispositions des sections 3 à 6 du chapitre Ier du titre VI du livre V du code monétaire et financier.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

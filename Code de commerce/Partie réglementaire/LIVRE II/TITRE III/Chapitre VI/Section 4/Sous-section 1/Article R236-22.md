@@ -27,3 +27,6 @@ Cet avis contient les indications suivantes :
 L'avis mentionné au premier alinéa est transmis par le greffe du tribunal de commerce compétent pour publication dans un support habilité à recevoir des annonces légales du département du siège social des sociétés ainsi qu'au Bulletin officiel des annonces civiles et commerciales.
 
 Le dépôt au greffe du projet de fusion transfrontalière prévu à l'article L. 236-6, de l'avis prévu à l'article L. 236-35, ainsi que la publicité prévue au présent article sont réalisés au moins un mois avant la date de l'assemblée générale appelée à statuer sur l'opération ou, le cas échéant, pour les opérations mentionnées à l'article L. 236-11, trente jours au moins avant que l'opération ne prenne effet.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

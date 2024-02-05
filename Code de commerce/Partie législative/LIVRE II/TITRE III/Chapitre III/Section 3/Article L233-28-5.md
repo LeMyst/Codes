@@ -29,3 +29,6 @@ VI. - L'obligation prévue au second alinéa du I ne s'applique pas :
 - si la société dispose d'un siège social dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, revêt une forme juridique qui n'est pas comparable aux sociétés par actions et aux sociétés à responsabilité limitée, ou n'est pas contrôlée, au sens du II ou du III de l'article L. 233-16, par une société remplissant les conditions prévues au II ;
 
 - si la société remplissant les conditions prévues au II contrôle, dans un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, une société qui est une grande entreprise, au sens de l'article L. 230-1, ou une société qui est une petite ou une moyenne entreprise, au sens de ce même article, dont les titres sont admis aux négociations sur un marché réglementé.
+
+NOTA:
+Se reporter aux modalités d'application prévues à l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.

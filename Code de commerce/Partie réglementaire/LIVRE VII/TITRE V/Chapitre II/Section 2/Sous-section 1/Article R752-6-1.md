@@ -17,3 +17,8 @@ II.-Un organisme habilité ne peut pas établir l'analyse d'impact d'un projet :
 2° S'il a des liens de dépendance juridique avec le pétitionnaire.
 
 Une déclaration sur l'honneur de ce chef est annexée à l'analyse d'impact par son auteur.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

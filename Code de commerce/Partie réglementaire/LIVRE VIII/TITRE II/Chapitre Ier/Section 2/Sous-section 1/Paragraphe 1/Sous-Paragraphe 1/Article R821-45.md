@@ -11,3 +11,6 @@ Sont admises à se présenter au certificat d'aptitude aux fonctions de commissa
 Le programme et les modalités du certificat d'aptitude aux fonctions de commissaire aux comptes et du certificat préparatoire aux fonctions de commissaire aux comptes sont fixés par un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de l'enseignement supérieur.
 
 Les épreuves du certificat d'aptitude et du certificat préparatoire aux fonctions de commissaire aux comptes ont lieu au moins une fois par an, à une date fixée par arrêté du garde des sceaux, ministre de la justice, publié au Journal officiel de la République française.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

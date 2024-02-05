@@ -1,8 +1,7 @@
 # Article Annexe 3-3
 
 **Epreuves juridiques, réglementation\
-professionnelle, économie et comptabilité**
-
+professionnelle, économie et comptabilité**\
 Matières juridiques :
 
 Saisies mobilières.

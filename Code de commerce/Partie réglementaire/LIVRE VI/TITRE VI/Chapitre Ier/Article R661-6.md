@@ -15,3 +15,6 @@ Dans tous les cas, le procureur général est avisé de la date de l'audience ;
 5° Aucune intervention n'est recevable dans les dix jours qui précèdent la date de l'audience ;
 
 6° La cour d'appel statue au fond dans les quatre mois suivant le prononcé des jugements mentionnés à l'article L. 661-6.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

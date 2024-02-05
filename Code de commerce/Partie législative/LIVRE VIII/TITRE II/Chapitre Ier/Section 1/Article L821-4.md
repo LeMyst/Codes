@@ -13,3 +13,6 @@ II. - Avant d'accepter une mission, une prestation ou leur renouvellement, le co
 2° Les éléments établissant qu'il dispose des ressources humaines et matérielles nécessaires à la bonne exécution de la mission ou de la prestation.
 
 III. - Lorsque le commissaire aux comptes certifie les comptes d'une entité d'intérêt public, il se conforme aux dispositions de l'article 6 du règlement (UE) n° 537/2014 du 16 avril 2014.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

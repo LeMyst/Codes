@@ -25,3 +25,6 @@ La formation plénière du collège de la Haute autorité délibère sur :
 11° Le règlement intérieur de la Haute autorité et les règles relatives aux commissions de normalisation mentionnées à l'article L. 820-4.
 
 Le comité d'audit mentionné au IV de l'article L. 820-2 émet un avis préalable aux délibérations mentionnées aux 1° à 3° du présent article.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

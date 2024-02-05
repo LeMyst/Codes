@@ -15,3 +15,6 @@ Lorsqu'il estime qu'un débat contradictoire est utile, il renvoie la procédure
 V.-La décision du président de la commission des sanctions est notifiée à la personne poursuivie et au président de la Haute autorité. Ils sont informés qu'ils disposent d'un délai de trente jours à compter de cette notification pour former opposition. En l'absence d'opposition dans ce délai, la décision devient définitive.
 
 VI.-Les sommes sont versées au Trésor public.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

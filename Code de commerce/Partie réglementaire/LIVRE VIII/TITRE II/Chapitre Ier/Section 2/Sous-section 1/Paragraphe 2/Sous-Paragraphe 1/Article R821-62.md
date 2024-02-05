@@ -31,3 +31,6 @@ Sont mentionnés dans la seconde section :
 7° La compagnie régionale de rattachement ;
 
 8° Lorsque la société est agréée dans un autre Etat membre de l'Union européenne, la liste fait état de cette inscription en mentionnant, le cas échéant, le nom de l'autorité étrangère d'inscription et le numéro d'enregistrement attribué par cette dernière, et une mention indiquant si l'enregistrement concerne le contrôle légal des comptes, la certification des informations en matière de durabilité, ou les deux.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

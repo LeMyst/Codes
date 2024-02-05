@@ -15,3 +15,6 @@ Il y est joint :
 Toutefois, en cas de demande d'inscription d'une société concomitante avec la demande d'inscription d'un commissaire aux comptes mentionné par le présent alinéa, celui-ci joint la justification de sa demande d'inscription. La Haute autorité vérifie, au moment où il statue sur la demande d'inscription de la société, que tous les commissaires aux comptes visés par le présent alinéa ont été inscrits ;
 
 5° Une attestation du greffier du tribunal de commerce du lieu du siège social constatant le dépôt au greffe de la demande et des pièces nécessaires à l'immatriculation ultérieure de la société au registre du commerce et des sociétés.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

@@ -11,3 +11,6 @@ Ce rapport rend également compte :
 Ce rapport indique également le nombre et la valeur des actions qui, durant l'année, ont été attribuées gratuitement par la société et par les sociétés ou groupements qui lui sont liés dans les conditions prévues à l'article L. 225-197-2, à chacun des dix salariés de la société non mandataires sociaux dont le nombre d'actions attribuées gratuitement est le plus élevé.
 
 Ce rapport indique également le nombre et la valeur des actions qui, durant l'année, ont été attribuées gratuitement par les sociétés visées à l'alinéa précédent à l'ensemble des salariés bénéficiaires ainsi que le nombre de ceux-ci et la répartition des actions attribuées entre les catégories de ces bénéficiaires.
+
+NOTA:
+Loi 2008-1258 du 3 décembre 2008 art. 22 VII : Ces dispositions s'appliquent aux attributions d'options ou aux attributions gratuites d'actions autorisées par les assemblées générales extraordinaires réunies à compter de la date de publication de la présente loi.

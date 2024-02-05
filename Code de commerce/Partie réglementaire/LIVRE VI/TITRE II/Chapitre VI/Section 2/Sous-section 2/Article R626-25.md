@@ -5,3 +5,6 @@ La mesure d'inaliénabilité prévue à l'article L. 626-14 est, à la diligence
 A défaut, elle est mentionnée au registre prévu à l'article R. 521-1 si le débiteur est immatriculé au registre du commerce et des sociétés, ou, selon le cas, aux registres mentionnés aux deuxième et troisième alinéas de l'article R. 621-8.
 
 La publicité mentionne la durée de l'inaliénabilité.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

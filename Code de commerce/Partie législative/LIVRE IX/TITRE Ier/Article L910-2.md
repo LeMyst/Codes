@@ -9,3 +9,6 @@ Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énu
 3° " Département " ou " arrondissement " par " collectivité territoriale " ;
 
 4° " Bulletin officiel des annonces civiles et commerciales " par " Recueil des actes administratifs de la collectivité territoriale ".
+
+NOTA:
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

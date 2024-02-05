@@ -36,3 +36,6 @@ Les formalités accomplies en matière de saisie immobilière et de licitation p
 | 34  | Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4 et R. 332-5du code des procédures civiles d'exécution  | 15,38 €  |
 | 35  | Notification du projet de distribution du prix au syndic de copropriété, au débiteur saisi et au Trésor public  | 15,38 €  |
 | 36  | Réquisition auprès du service de la publicité foncière aux fins de radiation des inscriptions et publications  | 3,85 €, par réquisition |
+
+NOTA:
+Conformément aux dispositions de l'article 1er de l'arrêté du 6 juillet 2017 adopté dans les conditions prévues à l'article 5 du décret n° 2017-862 du 9 mai 2017, les tarifs des avocats sont fixés pour une période transitoire de deux ans comprise entre le 1er septembre 2017 et le 1er septembre 2019.

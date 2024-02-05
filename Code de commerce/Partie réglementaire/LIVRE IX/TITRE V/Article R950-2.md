@@ -17,3 +17,6 @@ Pour l'application du présent code dans les îles Wallis et Futuna, les termes 
 7° " maire " ou " maire de la commune " par " chef de circonscription " ;
 
 8° " chambre régionale des comptes " par " chambre territoriale des comptes de Nouvelle-Calédonie ".
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

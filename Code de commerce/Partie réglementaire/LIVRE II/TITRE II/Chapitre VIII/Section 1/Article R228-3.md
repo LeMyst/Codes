@@ -21,3 +21,6 @@ d) Le code indiquant l'activité principale exercée faisant référence à la n
 e) Le caractère professionnel ou non, au sens de l'article L. 533-16 du code monétaire et financier des propriétaires de titres ;
 
 f) Lorsque le titre est une part ou une action d'un organisme de placement collectif, la dénomination et le numéro d'immatriculation du distributeur ayant effectué leur cession auprès du propriétaire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-1235 du 27 novembre 2019, les personnes soumises à l'obligation de publication des frais associés à chaque type de service sur leur site internet publient cette information au plus tard trois mois après la publication du présent décret.

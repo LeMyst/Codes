@@ -13,3 +13,6 @@ La décision est prise par chaque classe à la majorité des deux tiers des voix
 Sous réserve des dispositions des deux alinéas précédents, la ou les classes de détenteurs de capital statuent conformément, selon le cas, aux dispositions applicables aux assemblées générales extraordinaires, aux assemblées des associés ainsi qu'aux assemblées spéciales mentionnées aux articles L. 225-99 et L. 228-35-6 ou aux assemblées générales des masses visées à l'article L. 228-103. Les dispositions des premier et deuxième alinéas de l'article L. 626-3 et du deuxième alinéa de l'article L. 626-18 sont inapplicables.
 
 Au sein d'une classe, le vote sur l'adoption du plan peut être remplacé par un accord ayant recueilli, après consultation de ses membres, l'approbation des deux tiers des voix détenues par ceux-ci.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

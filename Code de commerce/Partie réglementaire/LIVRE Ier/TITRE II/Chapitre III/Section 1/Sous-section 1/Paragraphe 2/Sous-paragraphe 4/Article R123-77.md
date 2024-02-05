@@ -7,3 +7,6 @@ L'obligation de recourir au dépôt par l'intermédiaire de l'organisme unique n
 Pour toutes les transmissions par voie électronique mentionnées au premier alinéa, il est fait usage d'une signature électronique dans les conditions prévues par l'article R. 123-5.
 
 Le greffier accuse réception selon les modalités fixées par les articles R. 123-6 et R. 123-7, de toute transmission qui lui est faite.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

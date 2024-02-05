@@ -13,3 +13,6 @@ Sont inscrits au sein du Registre national des entreprises, sur déclaration de 
 5° La dissolution ou la décision prononçant la nullité de la personne morale pour quelque cause que ce soit avec indication des nom, nom d'usage, pseudonyme, prénoms et domicile des liquidateurs, de l'étendue des pouvoirs de ceux-ci s'il s'agit d'une des sociétés mentionnées aux articles R. 123-252 à R. 123-259, et de la référence du support d'annonces légales dans lequel leur nomination a été publiée ainsi que de l'adresse de la liquidation.
 
 Constitue un établissement secondaire au sens de la présente section tout établissement permanent, distinct du siège social ou de l'établissement principal et dirigé par la personne tenue à l'immatriculation, un préposé ou une personne ayant le pouvoir de lier des rapports juridiques avec les tiers.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

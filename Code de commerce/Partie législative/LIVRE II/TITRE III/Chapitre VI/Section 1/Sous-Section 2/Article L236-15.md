@@ -9,3 +9,6 @@ A défaut de remboursement des créances ou de constitution des garanties ordonn
 L'opposition formée par un créancier n'a pas pour effet d'interdire la poursuite des opérations de fusion.
 
 Les dispositions du présent article ne mettent pas obstacle à l'application des conventions autorisant le créancier à exiger le remboursement immédiat de sa créance en cas de fusion de la société débitrice avec une autre société.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

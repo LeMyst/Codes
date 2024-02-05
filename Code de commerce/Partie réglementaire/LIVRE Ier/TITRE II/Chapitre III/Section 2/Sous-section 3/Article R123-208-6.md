@@ -9,3 +9,6 @@ L'habilitation porte sur le territoire de la commune qui a présenté la demande
 Avant d'entrer en fonction, les fonctionnaires ainsi habilités prêtent devant le tribunal judiciaire de leur commune d'exercice le serment suivant : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ”.
 
 Mention de la prestation de serment est portée sur l'acte d'habilitation par le greffier du tribunal judiciaire.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

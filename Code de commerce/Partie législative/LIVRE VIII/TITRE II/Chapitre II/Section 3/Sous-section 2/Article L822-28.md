@@ -15,3 +15,6 @@ II.-Lorsqu'il intervient auprès de personnes ou d'entités soumises aux disposi
 1° Une déclaration d'indépendance ;
 
 2° Une actualisation des informations mentionnées à l'article L. 822-16.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

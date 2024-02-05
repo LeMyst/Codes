@@ -31,3 +31,6 @@ II.-La Haute autorité peut déléguer à la Compagnie nationale des commissaire
 3° Les contrôles effectués dans les conditions prévues à l'article L. 820-14.
 
 La délégation s'opère par une convention homologuée par arrêté du garde des sceaux, ministre de la justice.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -43,3 +43,6 @@ Les actes accomplis au mépris de cette prohibition peuvent être déclarés nul
 Toute infraction aux dispositions qui précèdent est punie des peines encourues pour le délit d'usurpation de titre prévu par l'article 433-17 du code pénal.
 
 VII.-Lorsqu'elle prononce une peine disciplinaire relative à un manquement aux dispositions des sections 3 à 6 du chapitre Ier du titre VI du livre V du code monétaire et financier, il est également fait application des dispositions de l'article L. 561-36-3 de ce même code.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

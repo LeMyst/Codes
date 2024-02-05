@@ -11,3 +11,6 @@ Le greffier d'un tribunal de commerce supprimé est nommé greffier d'un tribuna
 4° Lorsque le ressort d'un tribunal de commerce créé couvre l'intégralité du ressort d'un tribunal de commerce supprimé ainsi qu'une partie du ressort d'un ou plusieurs tribunaux de commerce maintenus.
 
 Cette dérogation ne bénéficie au greffier intéressé que pour sa nomination dans un seul office.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

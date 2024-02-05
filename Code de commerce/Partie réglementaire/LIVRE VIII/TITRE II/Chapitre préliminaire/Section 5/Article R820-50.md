@@ -9,3 +9,6 @@ Ils conservent à cet effet une copie de ces documents ou conviennent avec le co
 En cas d'empêchement, les commissaires aux comptes joignent à leur dossier tous les éléments de nature à établir les démarches et procédures engagées pour y accéder, ainsi que la réalité des difficultés rencontrées.
 
 II.-Les dispositions du I du présent article sont applicables aux contrôles prévus aux articles L. 820-14 et L. 820-15 lorsqu'ils portent sur la certification des informations consolidées en matière de durabilité.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

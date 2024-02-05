@@ -8,20 +8,13 @@ La prestation de recouvrement ou d'encaissement figurant au numéro 129 du table
 
 | Tranches d'assiette | Taux applicable |
 | --- | --- |
-|
-De 0 à 125 € |
-11,61 % |
-|
-De 125 € à 610 € |
-10,64 % |
-|
-De 610 € à 1525 € |
-10,16 % |
-|
-De 1525 € à 52 400 € |
-3,87 % |
-|
-Plus de 52 400 € |
-2,98 % |
+|  De 0 à 125 € |  11,61 % |
+|  De 125 € à 610 € |  10,64 % |
+|  De 610 € à 1525 € |  10,16 % |
+|  De 1525 € à 52 400 € |  3,87 % |
+|  Plus de 52 400 € |  2,98 % |
 
 En cas de paiement par acomptes successifs, cet émolument proportionnel est calculé sur la totalité des sommes encaissées ou recouvrées et non sur chaque acompte.
+
+NOTA:
+Conformément au 1° de l'article 29 de l'arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.

@@ -15,3 +15,6 @@ Le conseil régional a pour mission :
 6° D'assister, le cas échéant, les professionnels qui le souhaitent dans leurs démarches d'inscription ;
 
 7° D'examiner les réclamations des tiers contre les commissaires aux comptes membres de la compagnie régionale, à l'occasion de l'exercice de la profession ou de donner son avis, s'il y est invité par l'une des parties ou par le ministère public, sur l'action en responsabilité intentée contre un commissaire aux comptes en raison d'actes professionnels.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

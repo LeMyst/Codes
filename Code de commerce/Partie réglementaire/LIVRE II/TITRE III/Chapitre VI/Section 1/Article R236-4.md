@@ -15,3 +15,6 @@ Pour l'application du 3°, si l'opération est décidée avant que les comptes a
 Tout actionnaire peut obtenir sur simple demande et sans frais copie totale ou partielle des documents susmentionnés.
 
 En outre, toute société à responsabilité limitée à laquelle l'article L. 236-10 est applicable met à la disposition de ses associés, dans les conditions prévues ci-dessus, le rapport prévu à cet article. En cas de consultation par écrit, ce rapport est adressé aux associés avec le projet de résolution qui leur est soumis.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

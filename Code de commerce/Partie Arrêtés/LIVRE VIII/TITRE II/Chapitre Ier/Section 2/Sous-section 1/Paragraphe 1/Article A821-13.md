@@ -15,3 +15,6 @@ Le conseil régional compétent est celui dont relevait précédemment le stagia
 Le conseil régional qui a autorisé le stage en assure le contrôle.
 
 Le stagiaire qui effectue son stage à l'étranger est soumis aux mêmes obligations de travaux, de formation et de rapports que le stagiaire effectuant son stage en France.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

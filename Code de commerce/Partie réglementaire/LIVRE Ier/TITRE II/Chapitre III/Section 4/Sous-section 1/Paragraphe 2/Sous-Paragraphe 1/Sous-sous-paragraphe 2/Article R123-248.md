@@ -9,3 +9,6 @@ Font l'objet d'inscriptions modificatives au sein du Registre national des entre
 3° Sur déclaration des héritiers ou ayants cause à titre universel, le décès de la personne immatriculée avec possibilité de déclarer le maintien provisoire, pendant un délai maximum d'un an, de l'immatriculation, et, si l'exploitation se poursuit, les conditions d'exploitation, nom, nom d'usage, pseudonyme, prénoms, domicile personnel et qualité des héritiers et ayants cause à titre universel, date et lieu de naissance, nationalité et qualité des personnes assurant l'exploitation ; dans ce dernier cas, la déclaration est faite par la ou les personnes poursuivant l'exploitation ;
 
 4° Le renouvellement, limité à une période supplémentaire d'un an, du maintien provisoire de l'immatriculation dans les cas prévus au 3°.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

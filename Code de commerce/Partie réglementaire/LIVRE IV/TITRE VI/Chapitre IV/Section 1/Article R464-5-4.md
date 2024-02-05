@@ -19,3 +19,6 @@ e) S'abstenir de divulguer l'existence ou la teneur de sa demande avant que l'Au
 f) Ne remettre en cause à aucun moment devant l'Autorité de la concurrence, et ce jusqu'au terme de la procédure, les éléments d'information qu'il lui a révélés dans le cadre de la procédure, notamment en ce qui concerne la matérialité des faits qu'il a dénoncés ou l'existence même de la pratique ;
 
 3° Lorsqu'il envisage d'adresser une demande à l'Autorité de la concurrence, le demandeur ne doit pas avoir détruit ou falsifié de preuves de la pratique en cause, ni avoir divulgué son intention de présenter une demande ou la teneur de celle-ci, sauf à d'autres autorités de concurrence.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

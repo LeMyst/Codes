@@ -5,3 +5,6 @@ Les commissaires aux comptes sont responsables, tant à l'égard de la personne 
 Leur responsabilité ne peut toutefois être engagée à raison des informations ou divulgations de faits auxquelles ils procèdent en exécution de leur mission ou prestation.
 
 Ils ne sont pas civilement responsables des infractions commises par les dirigeants et mandataires sociaux, sauf si, en ayant eu connaissance, ils ne les ont pas signalées dans leur rapport à l'assemblée générale ou à l'organe compétent mentionnés à l'article L. 821-40.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

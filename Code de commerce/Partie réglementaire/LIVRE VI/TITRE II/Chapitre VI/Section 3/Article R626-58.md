@@ -17,3 +17,6 @@ Les modalités de cette communication électronique sont définies par arrêté 
 En présence d'obligataires ou de détenteurs de capital affectés par le projet de plan, ceux-ci sont avisés des modalités de répartition en classes et de calcul des voix conformément aux dispositions des articles R. 626-61 et R. 626-62.
 
 III. ‒ En présence d'une clause d'indexation du taux d'intérêt, le montant des intérêts restant à échoir au jour du jugement d'ouverture de la procédure est calculé au taux applicable à la date de ce jugement. Les créances en monnaie étrangère sont converties en euros selon le cours du change à la date du même jugement.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

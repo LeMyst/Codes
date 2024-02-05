@@ -7,3 +7,6 @@ Le président du conseil de surveillance donne avis aux commissaires aux comptes
 Les commissaires aux comptes ou, s'il n'en a pas été désigné, le président du conseil d'administration, présentent, sur ces conventions, un rapport spécial à l'assemblée, qui statue sur ce rapport.
 
 La personne directement ou indirectement intéressée à la convention ne peut pas prendre part au vote. Ses actions ne sont pas prises en compte pour le calcul de la majorité.
+
+NOTA:
+Conformément au II de l’article 20 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent à compter du premier exercice clos postérieurement à la publication du décret mentionné aux articles L. 225-218, L. 226-6 et L. 823-2-2 du code de commerce dans leur rédaction résultant du présent article, et au plus tard le 1er septembre 2019.

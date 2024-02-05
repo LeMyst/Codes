@@ -9,3 +9,6 @@ La fusion transfrontalière prend effet :
 Toutefois, la date d'effet ne peut être ni postérieure à la date de clôture de l'exercice en cours de la société bénéficiaire pendant lequel a été réalisé le contrôle de légalité, ni antérieure à ce contrôle ou à la réception par l'autorité compétente du siège de chaque société ayant participé à l'opération du certificat mentionné à l'article L. 236-42.
 
 La nullité d'une fusion transfrontalière ne peut pas être prononcée après la prise d'effet de l'opération.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

@@ -19,3 +19,8 @@ Le cas échéant, la requête précise la date de cessation des paiements.
 Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, elle précise l'ordre professionnel ou l'autorité dont il relève.
 
 Lorsque le débiteur propose un conciliateur à la désignation du président du tribunal, il précise son identité et son adresse.
+
+NOTA:
+Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
+
+Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

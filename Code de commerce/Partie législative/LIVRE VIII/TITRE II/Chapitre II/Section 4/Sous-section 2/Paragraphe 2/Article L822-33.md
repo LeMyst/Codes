@@ -17,3 +17,6 @@ Le rapporteur général est saisi de tout fait susceptible de justifier l'engage
 Le rapporteur général peut également se saisir des signalements dont il est destinataire.
 
 Les faits remontant à plus de six ans ne peuvent faire l'objet d'une sanction s'il n'a été fait pendant ce délai aucun acte tendant à leur recherche, à leur constatation ou à leur sanction.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

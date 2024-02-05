@@ -17,3 +17,6 @@ c) Fait l'objet d'une minoration fixée par l'arrêté prévu à l'article L. 44
 4° S'agissant de la publicité des sociétés, l'émolument mentionné au premier alinéa n'est perçu qu'une fois, quel que soit le nombre des actes et des pièces déposés simultanément par un même intéressé ;
 
 5° S'agissant de l'extrait du registre du commerce et des sociétés, l'émolument mentionné au premier alinéa est perçu au titre de la délivrance aux tiers des extraits K bis et L bis, ou à la personne assujettie en plus des extraits compris dans les forfaits prévus au b du 2° et au 3° du présent article, sur leur demande écrite. L'ensemble de ces demandes écrites est répertorié au greffe.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

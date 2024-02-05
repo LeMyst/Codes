@@ -13,3 +13,6 @@ La constitution du patrimoine affecté résulte d'une déclaration effectuée :
 Lorsque l'activité exercée par l'entrepreneur individuel est inscrite à la fois au registre du commerce et des sociétés et au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat, la déclaration est effectuée auprès du registre du commerce et des sociétés.
 
 Lorsque l'entrepreneur individuel est transféré dans le ressort d'un autre registre ou rattaché à un autre registre en cours d'activité, les mentions inscrites et l'ensemble des documents publics déposés sont transférés par le précédent organisme teneur de registre à celui nouvellement compétent. Dans ce cas mention du transfert est portée au premier registre. Le transfert s'effectue par voie dématérialisée et ne donne pas lieu à émolument ou redevance.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

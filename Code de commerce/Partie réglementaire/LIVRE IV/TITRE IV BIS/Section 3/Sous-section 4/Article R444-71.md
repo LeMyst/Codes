@@ -9,3 +9,6 @@ Les dispositions de la présente sous-section sont applicables aux tarifs relati
 3° La licitation régie par les articles 1686 à 1688 du code civil et les articles 1377 et 1378 du code de procédure civile ;
 
 4° Les sûretés judiciaires régies par les articles L. 531-1 à L. 533-1 et R. 531-1 à R. 534-1 du code des procédures civiles d'exécution et l'hypothèque légale régie par l'article 2401 du code civil.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

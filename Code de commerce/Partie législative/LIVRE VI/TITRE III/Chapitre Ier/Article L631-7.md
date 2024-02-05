@@ -7,3 +7,6 @@ La durée maximale de la période d'observation mentionnée au premier alinéa d
 Lorsque la situation du débiteur qui a déclaré être en état de cessation des paiements apparaît manifestement insusceptible de redressement, le tribunal invite celui-ci, en l'absence de demande subsidiaire aux fins d'ouverture d'une procédure de liquidation judiciaire, à présenter ses observations sur l'existence des conditions de l'article L. 640-1. Il statue ensuite, dans la même décision, sur la demande de redressement judiciaire et, le cas échéant, sur l'ouverture d'une procédure de liquidation judiciaire.
 
 Avant de statuer, le tribunal examine si la situation du débiteur répond aux conditions posées aux articles L. 645-1 et L. 645-2 et ouvre, le cas échéant, avec son accord, une procédure de rétablissement professionnel.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

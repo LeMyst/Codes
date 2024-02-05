@@ -7,3 +7,6 @@ L'émolument prévu à l'article R. 663-27 au titre des obligations résultant d
 2° 1 410,75 € lorsque l'une au moins des installations classées est soumise à autorisation ou à enregistrement ;
 
 3° 4 232,25 € lorsque l'une au moins des installations classées figure sur une liste prévue au IV de l'article L. 515-8 du code de l'environnement.
+
+NOTA:
+Conformément à l'article 21 de l'arrêté du 28 février 2020, les présentes dispositions entrent en vigueur le 1er mars 2020.

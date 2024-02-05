@@ -25,3 +25,6 @@ d) Lorsque la désignation d'un représentant permanent est prévue par un texte
 5° Pour les sociétés civiles professionnelles d'experts fonciers et agricoles, les sociétés civiles professionnelles d'experts forestiers ou les sociétés civiles professionnelles d'experts fonciers et agricoles et d'experts forestiers, les seules informations mentionnées au deuxième alinéa de l'article R. 173-9 du code rural et de la pêche maritime ;
 
 6° Lorsque les personnes physiques mentionnées au 1° et 2° ont la qualité d'actif agricole au sens de l'article L. 311-2 du code rural et de la pêche maritime, est également inscrit leur numéro d'inscription au répertoire national d'identification des personnes physiques si elles y sont inscrites.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

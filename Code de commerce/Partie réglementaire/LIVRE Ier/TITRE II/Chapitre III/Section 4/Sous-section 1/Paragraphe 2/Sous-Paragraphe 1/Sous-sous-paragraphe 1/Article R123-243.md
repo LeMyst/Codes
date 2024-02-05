@@ -21,3 +21,6 @@ c) Son adresse, correspondant à l'adresse de l'établissement principal ou, à 
 d) Le cas échéant, le bénéfice d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique conclu dans les conditions prévues au chapitre VII du titre II du présent livre, en précisant la dénomination sociale de la personne morale responsable de l'appui, l'adresse de son siège social ainsi que, si elle est immatriculée dans un registre public, le lieu d'immatriculation et le numéro unique d'identification ;
 
 e) Le cas échéant, les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, adresse du domicile personnel et nationalité des personnes ayant le pouvoir d'engager à titre habituel par leur signature la responsabilité de la personne physique immatriculée.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

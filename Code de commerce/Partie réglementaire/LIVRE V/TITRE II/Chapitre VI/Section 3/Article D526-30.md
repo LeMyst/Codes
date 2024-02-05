@@ -11,3 +11,6 @@ Cet avis ou l'annonce contient les indications suivantes :
 II.-L'avis ou l'annonce mentionné au I est accompagné d'un état descriptif des biens, droits, obligations ou sûretés composant le patrimoine professionnel, tel qu'il résulte du dernier exercice comptable clos actualisé à la date du transfert, ou, pour les entrepreneurs individuels qui ne sont pas soumis à des obligations comptables, à la date qui résulte de l'accord des parties.
 
 L'état descriptif est établi dans des formes prévues par arrêté du ministre chargé de l'économie.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-799 du 12 mai 2022, ces dispositions entrent en vigueur le 15 mai 2022 en application du premier alinéa du I de l'article 19 de la loi n° 2022-172 du 14 février 2022.

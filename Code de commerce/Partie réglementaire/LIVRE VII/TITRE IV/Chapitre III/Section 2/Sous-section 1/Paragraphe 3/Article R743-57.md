@@ -11,3 +11,6 @@ En outre, peuvent être désignées en qualité d'administrateurs provisoires le
 L'administrateur provisoire, qui n'est pas greffier de tribunal de commerce en exercice, prête avant son entrée en fonctions le serment exigé d'un greffier de tribunal de commerce ; de plus, il est tenu d'avoir un cachet portant son nom et sa qualité d'administrateur provisoire.
 
 L'administrateur provisoire procède, au siège de la société, aux actes professionnels qu'il a mission d'accomplir.
+
+NOTA:
+Conformément au I de l’article 96 du décret n° 2022-900 du 17 juin 2022, ces dispositions entrent en vigueur le 1er juillet 2022 et s'appliquent aux procédures disciplinaires engagées et aux réclamations reçues à compter de cette date.

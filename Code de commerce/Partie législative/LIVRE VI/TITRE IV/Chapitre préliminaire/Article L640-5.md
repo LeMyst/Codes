@@ -11,3 +11,6 @@ Sous cette même réserve, la procédure peut aussi être ouverte sur l'assignat
 3° La publication de l'achèvement de la liquidation, s'il s'agit d'une personne morale non soumise à l'immatriculation.
 
 Lorsque sont applicables les dispositions relatives à la procédure prévue à l'article L. 351-1 du code rural et de la pêche maritime, le président du tribunal judiciaire doit être saisi, préalablement à l'assignation, d'une demande tendant à la désignation d'un conciliateur présentée en application de l'article L. 351-2 de ce code sauf si la procédure de rétablissement professionnel prévue au chapitre V du présent titre est en cours.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

@@ -9,3 +9,6 @@ En application des dispositions de l'article L. 811-5, sont dispensés de l'exam
 3° Les personnes titulaires de l'un des titres ou diplômes mentionnés à l'article R. 811-7, justifiant de cinq ans au moins de pratique professionnelle comptable, juridique ou financière dans le domaine de l'administration, du financement, de la restructuration, dont les fusions-acquisitions, ou de la reprise d'entreprises, notamment en difficulté ;
 
 4° Les personnes ayant exercé les fonctions de collaborateur d'un administrateur judiciaire pendant une durée de cinq ans.
+
+NOTA:
+Conformément à l'article 22 II du décret n° 2016-400 du 1er avril 2016, les dispositions de l'article R811-13 sont applicables aux demandes de dispense et aux demandes d'inscription reçues par la commission nationale d'inscription et de discipline à compter de la publication du présent décret.

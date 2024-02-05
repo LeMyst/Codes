@@ -13,3 +13,6 @@ Le total du bilan est égal à la somme des montants nets des éléments d'actif
 Le montant net du chiffre d'affaires est égal au montant des ventes de produits et services liés à l'activité courante, diminué des réductions sur ventes, de la taxe sur la valeur ajoutée et des taxes assimilées.
 
 Sauf disposition contraire, le nombre moyen de salariés est apprécié selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale. Par dérogation, il est apprécié sur le dernier exercice comptable lorsque celui-ci ne correspond pas à l'année civile précédente.
+
+NOTA:
+Conformément à l’article 15 du décret n° 2020-101, ces dispositions s'appliquent à compter du premier exercice ouvert à compter de son entrée en vigueur.

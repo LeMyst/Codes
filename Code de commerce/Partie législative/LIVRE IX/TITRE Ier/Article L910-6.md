@@ -7,3 +7,6 @@ Le ministre chargé de l'économie ou le garde des sceaux, ministre de la justic
 2° Les actes d'exécution sur l'équivalence des normes d'information en matière de durabilité adoptés par la Commission européenne en application de l'article 23 de la directive 2004/109/ CE du Parlement européen et du Conseil ;
 
 3° Les normes d'assurance pour l'information en matière de durabilité adoptées par la Commission européenne en application du troisième paragraphe de l'article 26 bis de la directive 2006/43/ CE du Parlement européen et du Conseil.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -29,3 +29,6 @@ III. – L'organisme tiers indépendant clôt son avis motivé sur la sincérit�
 – soit que la sincérité des informations présentées appelle de sa part des réserves, décrites dans son rapport.
 
 S'il l'estime utile, l'organisme tiers indépendant peut par ailleurs attirer, par des observations, l'attention sur des éléments relatifs aux procédures utilisées ou au contenu de certaines informations, aux fins d'en améliorer la fiabilité.
+
+NOTA:
+Le paragraphe III doit être compris comme devant être supprimé

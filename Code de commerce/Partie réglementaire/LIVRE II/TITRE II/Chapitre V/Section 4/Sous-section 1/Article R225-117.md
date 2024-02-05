@@ -5,3 +5,6 @@ Qu'il soit demandé ou non aux actionnaires et aux porteurs de certificats d'inv
 Sont en outre indiquées les caractéristiques des valeurs mobilières donnant droit à l'attribution de titres de créances ou donnant accès au capital, les modalités d'attribution des titres de créances ou de capital auxquels ces valeurs mobilières donnent droit, ainsi que les dates auxquelles peuvent être exercés les droits d'attribution.
 
 Lorsque l'augmentation de capital a lieu avec maintien du droit préférentiel de souscription, le commissaire aux comptes donne son avis sur l'émission proposée et sur le choix des éléments de calcul du prix d'émission et son montant.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

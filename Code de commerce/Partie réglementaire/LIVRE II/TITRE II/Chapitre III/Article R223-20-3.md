@@ -7,3 +7,6 @@ La demande d'inscription d'un point à l'ordre du jour est motivée.
 La demande d'inscription de projets de résolution est accompagnée du texte de ces projets, lesquels peuvent être assortis d'un bref exposé des motifs.
 
 Dès lors qu'il a été satisfait aux obligations prévues aux alinéas précédents, les points et les projets de résolution sont inscrits à l'ordre du jour et sont soumis, pour ce qui concerne les projets, au vote de l'assemblée.
+
+NOTA:
+Conformément aux dispositions de l'article 12 du décret n° 2018-146 du 28 février 2018, ces dispositions sont applicables aux assemblées convoquées à compter du 1er avril 2018.

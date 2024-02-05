@@ -5,3 +5,6 @@ Engage la responsabilité de son auteur et l'oblige à réparer le préjudice ca
 Pour caractériser un prix de cession abusivement bas, il est tenu compte notamment des indicateurs de coûts de production mentionnés aux articles L. 631-24, L. 631-24-1, L. 631-24-3 et L. 632-2-1 du code rural et de la pêche maritime ou, le cas échéant, de tous autres indicateurs disponibles dont ceux établis par l'Observatoire de la formation des prix et des marges des produits alimentaires mentionné à l'article L. 682-1 du même code. Dans le cas d'une première cession, il est également tenu compte des indicateurs figurant dans la proposition de contrat du producteur agricole.
 
 L'article L. 442-4 est applicable à l'action prévue par le présent article.
+
+NOTA:
+Aux termes de l'article 2 de l'ordonnance n° 2019-358 du 24 avril 2019, les présentes dispositions sont applicables à compter du premier jour du cinquième mois suivant cette date pour les contrats en cours d'exécution à la date de publication de la présente ordonnance.

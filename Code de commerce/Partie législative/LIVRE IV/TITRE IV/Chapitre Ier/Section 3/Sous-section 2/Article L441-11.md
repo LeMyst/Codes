@@ -41,3 +41,6 @@ a) Quatre-vingt-quinze jours nets après la date d'émission de la facture pour 
 b) Soixante-quinze jours nets après la date d'émission de la facture pour la période de fin d'année, s'étendant du mois d'octobre au mois de décembre inclus.
 
 III.-Le délai maximum mentionné aux 6° à 10° du II est expressément stipulé par contrat et ne doit pas constituer un abus manifeste à l'égard du créancier. A défaut de stipulation expresse, le délai prévu au deuxième alinéa du I de l'article L. 441-10 est applicable.
+
+NOTA:
+Conformément à 43 de l’ordonnance n° 2023-120, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.

@@ -21,3 +21,6 @@ Les destinataires des formalités des entreprises, mentionnés à l'article L. 1
 9° Les organismes chargés des régimes d'assurance vieillesse et invalidité-décès des professions libérales et des avocats ;
 
 10° Les établissements départementaux d'élevage.
+
+NOTA:
+Conformément à l’article 2 de l’arrêté du 14 décembre 2022 (NOR : ECOI2232187A), ces dispositions entrent en vigueur le 1er janvier 2023.

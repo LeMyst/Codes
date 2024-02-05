@@ -21,3 +21,6 @@ Le conseil national prépare un code de déontologie édicté par décret en Con
 Le conseil national exerce l'action disciplinaire dans les conditions prévues par l'ordonnance n° 2022-544 du 13 avril 2022 relative à la déontologie et à la discipline des officiers ministériels.
 
 Le Conseil national des greffiers des tribunaux de commerce est également chargé d'assurer la tenue du fichier prévu à l'article L. 128-1.
+
+NOTA:
+Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Se reporter aux conditions d’application dudit article.

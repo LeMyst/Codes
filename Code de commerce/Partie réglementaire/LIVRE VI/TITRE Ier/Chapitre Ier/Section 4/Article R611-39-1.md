@@ -13,3 +13,6 @@ Un état de l'intégralité des frais mis à sa charge est préparé par le déb
 Cet état est signé et déposé au greffe par le débiteur. Avant de constater ou d'homologuer l'accord, le président du tribunal ou le tribunal s'assure de ce dépôt.
 
 Le conciliateur, le président du tribunal, le tribunal et le ministère public peuvent, seuls, en prendre connaissance. Le tribunal qui ouvre une procédure de sauvegarde, de redressement judiciaire, de rétablissement professionnel ou de liquidation judiciaire du débiteur peut d'office ou à la demande du ministère public en obtenir communication. Lorsque les conditions de l'article L. 721-8 sont réunies et que le débiteur est une entreprise ou une des sociétés mentionnées aux a à d du 1° de cet article, le président du tribunal de commerce spécialisé, ce tribunal et le ministère public peuvent également en obtenir communication
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

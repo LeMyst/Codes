@@ -27,3 +27,6 @@ Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 Des examinateurs spécialisés peuvent être adjoints au jury par arrêté du garde des sceaux, ministre de la justice, au plus tard la veille de l'épreuve pour laquelle ils sont désignés. Ils participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant à l'épreuve qu'ils ont évaluée ou corrigée.
 
 Le jury est valablement constitué si sept au moins de ses membres sont présents.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -5,3 +5,6 @@ Les dispositions des 2° et 3° du III de l'article L. 622-17, celles des chapit
 Toutefois, pour l'application de l'article L. 625-1, le liquidateur cité devant le conseil de prud'hommes ou, à défaut, le demandeur appelle devant la juridiction prud'homale les institutions visées à l'article L. 3253-14 du code du travail.
 
 Pour l'application de l'article L. 625-3 du présent code, les institutions mentionnées à l'article L. 3253-14 du code du travail sont mises en cause par le liquidateur ou, à défaut, par les salariés requérants, dans les dix jours du jugement d'ouverture de la procédure de liquidation judiciaire ou du jugement la prononçant.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

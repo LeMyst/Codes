@@ -11,3 +11,6 @@ Ces décisions sont adressées par le greffe du tribunal au procureur de la Rép
 En cas de constat de déplacement de l'administration centrale en France d'une société européenne immatriculée dans un autre Etat membre de la Communauté européenne, contrevenant à l'article 7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001, précité, le procureur de la République du tribunal judiciaire dans le ressort duquel l'administration centrale est installée doit informer sans délai l'Etat membre du siège statutaire.
 
 En cas de constat de déplacement de l'administration centrale dans un autre Etat membre de la Communauté européenne d'une société européenne immatriculée en France, contrevenant à l'article 7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001, précité, les autorités de cet Etat membre doivent informer sans délai le procureur de la République du tribunal judiciaire dans le ressort duquel la société est immatriculée.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

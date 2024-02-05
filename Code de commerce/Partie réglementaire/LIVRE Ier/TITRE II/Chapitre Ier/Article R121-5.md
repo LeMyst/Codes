@@ -13,3 +13,6 @@ b) La déclaration modificative portant mention que le conjoint du chef d'entrep
 c) La déclaration modificative portant mention que le conjoint du chef d'entreprise cesse de remplir les conditions prévues au I de l'article L. 121-4.
 
 Le format de l’attestation sur l’honneur mentionnée au présent article et les mentions qu’elle contient sont déterminés par arrêté des ministres chargés de l’économie, de la justice et des affaires sociales.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

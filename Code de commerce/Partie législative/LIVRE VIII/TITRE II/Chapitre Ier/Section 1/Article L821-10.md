@@ -5,3 +5,6 @@ Le commissaire aux comptes signale à la plus prochaine assemblée générale ou
 Il révèle au procureur de la République les faits délictueux dont il a eu connaissance à l'occasion de sa mission ou prestation, sans que sa responsabilité puisse être engagée par cette révélation.
 
 Sans préjudice de l'obligation de révélation des faits délictueux mentionnée à l'alinéa précédent, le commissaire aux comptes chargé de la mission de certification des comptes met en œuvre les obligations relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme définies au chapitre Ier du titre VI du livre V du code monétaire et financier.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

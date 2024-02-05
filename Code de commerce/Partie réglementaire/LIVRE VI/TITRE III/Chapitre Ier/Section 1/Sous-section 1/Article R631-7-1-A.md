@@ -5,3 +5,6 @@ Pour l'application du deuxième alinéa de l'article L. 631-7, le président fai
 Le tribunal statue sur la demande de prolongation de la période d'observation après avoir entendu les observations du débiteur, de l'administrateur, du mandataire judiciaire et des contrôleurs.
 
 La décision prolongeant la période d'observation est communiquée aux personnes mentionnées à l'article R. 621-7 et aux contrôleurs. Elle est mentionnée aux registres prévus aux quatre premiers alinéas de l'article R. 621-8.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

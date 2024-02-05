@@ -7,3 +7,6 @@ Le certificat d'addition postérieur au nantissement qui comprend le brevet auqu
 A défaut de désignation expresse et précise dans l'acte qui le constitue, le nantissement ne comprend que l'enseigne et le nom commercial, le droit au bail, la clientèle et l'achalandage.
 
 Si le nantissement porte sur un fonds de commerce et ses succursales, celles-ci doivent être désignées par l'indication précise de leur siège.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

@@ -9,3 +9,6 @@ Lorsqu'en raison de la complexité de l'opération, le contrôle ne peut être a
 Le greffier peut renouveler, pour la même durée et selon les mêmes modalités, la prorogation prévue au troisième alinéa dans la mesure où cette nouvelle prorogation est nécessaire à l'accomplissement de sa mission.
 
 II.-Afin d'effectuer la régularisation prévue au dernier alinéa du III de l'article L. 236-42, le greffier fixe à la société un délai raisonnable en fonction de la situation, sans que son échéance puisse être postérieure à la date de clôture de l'exercice au cours duquel il a été saisi.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

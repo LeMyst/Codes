@@ -5,3 +5,6 @@ Le président du conseil d'administration ou le directoire accuse réception des
 Les points et les projets de résolution sont inscrits à l'ordre du jour.
 
 Les projets de résolution sont soumis au vote de l'assemblée.
+
+NOTA:
+Décret n° 2010-1619 du 23 décembre 2010 art 13 : Les présentes dispositions s'appliquent aux assemblées tenues à compter du 1er janvier 2011.

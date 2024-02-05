@@ -6,53 +6,23 @@ MODÈLE D'ÉTAT DESCRIPTIF DES BIENS, DROITS, OBLIGATIONS, SURETÉS AFFECTÉS A 
 
 A. - ÉLÉMENTS D'ACTIF
 
-|
-Fiche
-
-Signalétique (2) |
-Description (3) |
-Valeur
-
-Déclarée |
-Sûretés (4) grevant le bien
-
-(le cas échéant) |
-Documents à
-
-annexer (5) |
+|  Fiche Signalétique (2) |  Description (3) |  Valeur Déclarée |  Sûretés (4) grevant le bien (le cas échéant) |  Documents à annexer (5) |
 | --- | --- | --- | --- | --- |
-|
-A1 |  |  |  |  |
-|
-A2 |  |  |  |  |
-|
-A3 |  |  |  |  |
+|  A1 |  |  |  |  |
+|  A2 |  |  |  |  |
+|  A3 |  |  |  |  |
 |  |  |  |  |  |
-|
-Total |
-\_\_\_\_\_\_\_\_\_\_ |
-\_\_\_\_\_\_\_\_\_\_\_ |
-\_\_\_\_\_\_\_\_\_ |
-\_\_\_\_\_\_\_\_\_\_ |
+|  Total |  \_\_\_\_\_\_\_\_\_\_ |  \_\_\_\_\_\_\_\_\_\_\_ |  \_\_\_\_\_\_\_\_\_ |  \_\_\_\_\_\_\_\_\_\_ |
 
 B. - ÉLÉMENTS DE PASSIF
 
-|
-Elément |
-Description (6) |
-Encours |
+|  Elément |  Description (6) |  Encours |
 | --- | --- | --- |
-|
-B1 |  |  |
-|
-B2 |  |  |
-|
-B3 |  |  |
+|  B1 |  |  |
+|  B2 |  |  |
+|  B3 |  |  |
 |  |  |  |
-|
-Total |
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+|  Total |  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 
 Fait le
 
@@ -107,3 +77,6 @@ Attention : ne peuvent pas figurer dans le patrimoine affecté les éléments qu
 Pour les créances : indiquer le montant restant dû.
 
 Pour les sûretés : indiquer le montant de l'engagement garanti.
+
+NOTA:
+Conformément à l'article 9 de l'arrêté du 25 septembre 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

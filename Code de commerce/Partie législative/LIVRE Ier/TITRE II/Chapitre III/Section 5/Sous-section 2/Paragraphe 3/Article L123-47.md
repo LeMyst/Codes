@@ -5,3 +5,6 @@ Les personnes physiques et les personnes morales dont l'activité consiste en la
 Les personnes physiques et les personnes morales mentionnées au troisième alinéa du I de l'article 19 de la loi n° 96-603 du 5 juillet 1996 susmentionnée peuvent demander à ne plus être immatriculées en tant qu'entreprise du secteur des métiers et de l'artisanat. Dans ce cas, elles cessent d'être soumises aux validations et aux contrôles prévus aux articles L. 123-43 à L. 123-45.
 
 Les personnes physiques et les personnes morales mentionnées au quatrième alinéa du I de l'article 19 de la loi n° 96-603 du 5 juillet 1996 susmentionnée peuvent demander à être immatriculées en tant qu'entreprise du secteur des métiers et de l'artisanat. Dans ce cas, elles sont soumises aux validations et aux contrôles prévus aux articles L. 123-43 à L. 123-45.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

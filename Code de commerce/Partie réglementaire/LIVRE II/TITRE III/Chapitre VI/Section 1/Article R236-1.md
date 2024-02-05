@@ -23,3 +23,6 @@ Il contient les indications suivantes :
 9° Les droits accordés aux associés ayant des droits spéciaux et aux porteurs de titres autres que des actions ainsi que, le cas échéant, tous avantages particuliers.
 
 Pour les opérations mentionnées à l'article L. 236-11, le projet de fusion ne mentionne ni les modalités de remise des parts ou actions, ni la date à partir de laquelle ces parts ou actions donnent droit aux bénéfices, ni aucune modalité particulière relative à ce droit, ni aucune des indications prévues 6° et 7° du présent article.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

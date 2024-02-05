@@ -11,3 +11,6 @@ a) Dans les conditions prévues à l'article 1843-4 du code civil, si les action
 b) Dans le cadre d'une offre publique initiée dans les conditions et selon les modalités fixées par le règlement général de l'Autorité des marchés financiers, si les actions de la société absorbée sont admises aux négociations sur un marché réglementé ;
 
 c) Dans le cadre d'une offre répondant aux conditions des a ou b, si les actions de la société absorbée sont admises aux négociations sur un système multilatéral de négociation soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

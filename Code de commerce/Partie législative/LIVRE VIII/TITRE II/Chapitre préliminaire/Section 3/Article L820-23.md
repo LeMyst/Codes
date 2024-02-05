@@ -21,3 +21,6 @@ A défaut d'adoption du projet de norme dans les termes arrêtés par la commiss
 A défaut d'adoption par la formation plénière d'un projet de norme dans un délai fixé par décret, courant à compter de l'adoption du programme de travail mentionné au I du présent article, le garde des sceaux, ministre de la justice, peut demander à cette formation de procéder elle-même à son élaboration.
 
 V.-Le président de la Haute autorité transmet, pour homologation, le projet de norme adopté au garde des sceaux, ministre de la justice.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

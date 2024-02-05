@@ -15,3 +15,6 @@ La commission des sanctions délibère hors la présence des parties. Elle rend 
 II.-La décision de la commission des sanctions peut faire l'objet d'un recours dans les conditions prévues à l'article L. 821-85.
 
 Elle est publiée sur le site internet de la Haute autorité selon les modalités prévues à l'article L. 821-84.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

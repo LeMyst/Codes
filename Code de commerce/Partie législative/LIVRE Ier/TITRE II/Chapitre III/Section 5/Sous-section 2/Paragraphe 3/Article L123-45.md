@@ -7,3 +7,6 @@ Le président de la chambre de métiers et de l'artisanat de région ou, par dé
 2° Le cas échéant, de l'obligation de qualification professionnelle des personnes exerçant certaines activités listées à l'article 16 de la loi n° 96-603 du 5 juillet 1996 susmentionnée.
 
 Lorsque la qualification requise pour l'exercice des activités mentionnées au 2° est détenue par un salarié de l'entreprise, cette dernière transmet à compter de son immatriculation ou de son changement de situation les pièces exigées attestant de cette qualification, dans un délai dont la durée est déterminée par décret en Conseil d'Etat. L'absence de remise de ces pièces dans le délai requis entraîne la radiation de l'entreprise du registre, sauf pour celle-ci à modifier son activité.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

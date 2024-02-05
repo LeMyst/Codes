@@ -7,3 +7,6 @@ Le rapport mentionné au premier alinéa du présent article est remis aux membr
 Sans préjudice du dernier alinéa de l'article L. 225-105 du présent code, l'avis du comité social et économique consulté en application de l'article L. 2312-8 du code du travail est, s'il est transmis dans un délai fixé par décret en Conseil d'Etat, annexé au rapport mentionné au premier alinéa du présent article.
 
 Le rapport mentionné au premier alinéa du présent article est publié postérieurement à l'avis rendu par les instances représentatives du personnel consultées en application des articles L. 2312-8 et, le cas échéant, L. 2341-4 du code du travail.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

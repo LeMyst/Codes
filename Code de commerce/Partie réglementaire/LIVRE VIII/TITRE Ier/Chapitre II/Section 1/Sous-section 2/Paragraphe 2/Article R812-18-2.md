@@ -5,3 +5,6 @@ Peuvent solliciter leur inscription sur la liste mentionnée à l'article L. 812
 Le stagiaire qui n'a pas, après trente-six mois de stage, exécuté l'ensemble de ces actes peut demander à être admis à se présenter à l'examen d'aptitude aux fonctions de mandataire judiciaire dans les conditions prévues aux articles R. 811-19 à R. 811-24. La réussite à cet examen le dispense de justifier de l'exécution de ces actes lorsqu'il présente sa demande d'inscription devant la commission nationale d'inscription et de discipline.
 
 Les dispositions des articles R. 811-14, R. 811-16 et R. 811-17 sont applicables au stage mentionné au premier alinéa.
+
+NOTA:
+Conformément à l'article 22 III du décret n° 2016-400 du 1er avril 2016, les présentes dispositions entrent en vigueur à compter de la publication de l'arrêté prévu aux articles R. 811-28-2 et R. 812-18-2.

@@ -7,3 +7,6 @@ La renonciation sans indication de bénéficiaire est accompagnée pour les acti
 La renonciation faite au profit de bénéficiaires dénommés est accompagnée de l'acceptation de ces derniers.
 
 Pour l'application des dispositions des articles L. 225-133 et L. 225-134, il est tenu compte pour le calcul du nombre d'actions non souscrites de celles qui correspondent aux droits préférentiels auxquels les actionnaires ont renoncé à titre individuel sans indication du nom des bénéficiaires. Toutefois, lorsque cette renonciation a été notifiée à la société au plus tard à la date de la décision de réalisation de l'augmentation de capital, les actions correspondantes sont mises à la disposition des autres actionnaires pour l'exercice de leur droit préférentiel de souscription.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

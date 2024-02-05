@@ -11,3 +11,6 @@ Les remises sur les émoluments proportionnels sont régies par la sous-section 
 Les dispositions de la présente section sont applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Celles de sa sous-section 2 s'appliquent exclusivement aux huissiers de justice de ces trois départements.
 
 Les émoluments applicables jusqu'au 29 février 2024 sont ceux qui sont prévus par la présente section.
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 26 février 2022, ces dispositions entrent en vigueur le 1er mars 2022.

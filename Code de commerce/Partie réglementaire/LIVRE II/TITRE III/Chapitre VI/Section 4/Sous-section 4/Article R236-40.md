@@ -21,3 +21,6 @@ Le projet de transformation transfrontalière contient les indications suivantes
 9° Les garanties offertes aux créanciers, telles que les cautionnements et les gages ;
 
 10° Si une mesure d'incitation ou une subvention a été reçue par la société dans l'Etat membre de départ au cours des cinq dernières années.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

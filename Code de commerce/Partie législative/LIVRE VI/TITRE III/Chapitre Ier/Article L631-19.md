@@ -23,3 +23,6 @@ Le plan précise notamment les licenciements qui doivent intervenir dans le dél
 Lorsqu'un plan de sauvegarde de l'emploi doit être élaboré, l'administrateur met en œuvre la procédure prévue au II de l'article L. 1233-58 du code du travail dans le délai d'un mois après le jugement. Le délai de huit jours mentionné au II du même article court à compter de la date de la réception de la demande qui est postérieure au jugement arrêtant le plan.
 
 Lorsque le licenciement concerne un salarié bénéficiant d'une protection particulière en matière de licenciement, l'intention de rompre doit être manifestée dans le délai d'un mois prévu à l'alinéa précédent.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

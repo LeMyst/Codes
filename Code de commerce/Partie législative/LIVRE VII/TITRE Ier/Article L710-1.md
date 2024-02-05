@@ -41,3 +41,6 @@ Chacun des établissements du réseau des chambres de commerce et d'industrie ti
 Dans des conditions définies par décret, les établissements publics du réseau peuvent transiger et compromettre. Ils sont soumis, pour leurs dettes, à la loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'Etat, les départements, les communes et les établissements publics.
 
 Ils peuvent, avec l'accord de l'autorité de tutelle, participer à la création et au capital de sociétés civiles et de sociétés par actions dont l'objet social entre dans le champ de leurs missions. Ils peuvent participer dans les mêmes conditions à la création de groupements d'intérêt public ou privé ainsi qu'à toute personne morale de droit public.
+
+NOTA:
+Se reporter aux dispositions dérogatoires du paragraphe II de l'article 40 de la loi n° 2019-486 du 22 mai 2019 et à celles des paragraphes III à VI dudit article concernant les dispositions transitoires.

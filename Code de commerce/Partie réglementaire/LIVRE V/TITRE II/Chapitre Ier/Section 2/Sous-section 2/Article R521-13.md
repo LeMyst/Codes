@@ -5,3 +5,6 @@ La demande d'inscription modificative est formée auprès du greffier qui a proc
 La demande d'inscription modificative est effectuée par le requérant par remise ou transmission par voie postale ou électronique d'un bordereau au greffier compétent. Lorsque le bordereau est établi sous format papier, il est dressé en deux exemplaires. Y figurent l'information sur laquelle porte la demande d'inscription modificative ainsi que la date de l'inscription initiale et son numéro d'ordre.
 
 Les modalités d'établissement du bordereau sont fixées par arrêté.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023. Toutefois, lesdites dispositions entrent en vigueur le 1er janvier 2022 en ce qu'elles s'appliquent aux hypothèques maritimes et saisies de navires.

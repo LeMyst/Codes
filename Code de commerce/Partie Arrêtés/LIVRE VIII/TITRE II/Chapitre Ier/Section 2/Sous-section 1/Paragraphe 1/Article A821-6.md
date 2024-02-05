@@ -9,3 +9,10 @@ Les épreuves orales, qui sont notées de 0 à 20, comportent :
 L'épreuve d'entretien est ouverte au public.
 
 L'admission est prononcée au vu de la moyenne de toutes les notes obtenues par le candidat aux épreuves écrites et orales, laquelle ne peut être inférieure à 10/20.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au III de l'article 8 de l'arrêté précité :
+
+III. - Les candidats déclarés admissibles et qui n'ont pas été admis à la session ouverte au titre de l'année 2023 du certificat d'aptitude aux fonctions de commissaire aux comptes sont admis à se présenter aux épreuves orales mentionnées à l'article A. 821-6 de la session ouverte au titre de l'année 2024.

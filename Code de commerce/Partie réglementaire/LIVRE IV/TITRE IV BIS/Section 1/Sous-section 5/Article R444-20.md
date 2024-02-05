@@ -11,3 +11,8 @@ II.-Aux fins du recueil des données utiles prévu par l'article L. 444-5, il es
 3° Retrace, le cas échéant, la répartition des charges de l'office ou de l'étude avec une structure juridique qui lui est liée.
 
 III.-S'agissant des avocats, le I du présent article ne s'applique qu'aux professionnels mentionnés au douzième alinéa de l'article R. 444-18.
+
+NOTA:
+Conformément aux dispositions de l'article 7 du décret n° 2017-862 du 9 mai 2017, ces dispositions entrent en vigueur à la date d'entrée en vigueur du premier arrêté portant fixation des tarifs réglementés de postulation en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires en application de l'article L. 444-3 du code de commerce.
+
+L'arrêté du 6 juillet 2017 fixant les tarifs réglementés de postulation des avocats en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires a été publié au JORF du 14 juillet 2017 et entre en vigueur, sous réserve des dérogations prévues par les dispositions de son article 3, le 1er septembre 2017.

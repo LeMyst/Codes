@@ -5,3 +5,6 @@ Par dérogation aux articles 2284 et 2285 du code civil, les droits d'une person
 Par dérogation aux articles 2284 et 2285 du code civil, une personne physique immatriculée au registre national des entreprises peut déclarer insaisissables ses droits sur tout bien foncier, bâti ou non bâti, qu'elle n'a pas affecté à son usage professionnel. Cette déclaration, publiée au fichier immobilier ou, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier, n'a d'effet qu'à l'égard des créanciers dont les droits naissent, après sa publication, à l'occasion de l'activité professionnelle du déclarant. Lorsque le bien foncier n'est pas utilisé en totalité pour un usage professionnel, la partie non affectée à un usage professionnel ne peut faire l'objet de la déclaration qu'à la condition d'être désignée dans un état descriptif de division.
 
 L'insaisissabilité mentionnée aux deux premiers alinéas du présent article n'est pas opposable à l'administration fiscale lorsque celle-ci relève, à l'encontre de la personne, soit des manœuvres frauduleuses, soit l'inobservation grave et répétée de ses obligations fiscales.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -13,3 +13,6 @@ Tout actionnaire a droit, dans les conditions et délais déterminés par décre
 5° Du montant global, certifié par les commissaires aux comptes, s'il en existe, des versements effectués en application des 1 et 5 de l'article 238 bis du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
 6° (Abrogé)
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

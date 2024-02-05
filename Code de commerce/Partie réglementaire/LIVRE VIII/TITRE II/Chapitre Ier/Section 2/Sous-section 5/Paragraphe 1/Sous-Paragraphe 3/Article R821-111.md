@@ -7,3 +7,6 @@ L'actionnaire ou associé interdit temporairement ou suspendu provisoirement con
 Les dispositions du deuxième alinéa du présent article sont applicables jusqu'à ce que la cession soit définitive.
 
 Toutefois, lorsqu'il est membre de l'organe de gestion, de direction, d'administration ou de surveillance d'une société de commissaire aux comptes, il ne peut pas exercer ses fonctions au sein de l'un de ces organes pendant la durée de la mesure de suspension ou d'interdiction dont il est l'objet.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

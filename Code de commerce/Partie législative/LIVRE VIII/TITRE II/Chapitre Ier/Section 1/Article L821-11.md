@@ -9,3 +9,6 @@ II. - Lorsqu'une norme d'audit internationale a été adoptée par la Commission
 Ces procédures et exigences supplémentaires sont communiquées à la Commission européenne au moins trois mois avant leur entrée en vigueur. Si elles sont déjà en vigueur à la date de l'adoption de la norme internationale qu'elles complètent, la Commission européenne en est informée dans les trois mois suivant cette date.
 
 III. - Pour la certification des comptes des petites entreprises, au sens du 2 de l'article 3 de la directive 2013/34/ UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/ CE du Parlement européen et du Conseil et abrogeant les directives 78/660/ CEE et 83/349/ CEE du Conseil, le commissaire aux comptes applique les normes de manière proportionnée à la taille de la personne ou de l'entité et à la complexité de ses activités dans des conditions fixées par la Haute autorité.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

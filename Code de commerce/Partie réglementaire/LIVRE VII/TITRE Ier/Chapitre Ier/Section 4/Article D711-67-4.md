@@ -9,3 +9,6 @@ Les chambres de commerce et d’industrie de région assurent la coordination de
 CCI France assure la coordination des fichiers d’entreprises, des bases de données et des informations économiques collectées par les établissements du réseau, en vue de synthèses nationales qu’elle tient à la disposition du ministre chargé de la tutelle du réseau des chambres de commerce et d’industrie. Elle peut déléguer la réalisation de cette coordination à un organisme émanant du réseau.
 
 Les données nécessaires aux usages définis à l’article L. 711-3 sont conservées par les chambres de commerce et d’industrie pendant la durée d’existence de l’entreprise et tant que son siège social reste fixé dans leur circonscription.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -5,3 +5,6 @@ La déclaration porte le montant de la créance due au jour du jugement d'ouvert
 Lorsqu'il s'agit de créances en monnaie étrangère, la conversion en euros a lieu selon le cours du change à la date du jugement d'ouverture.
 
 Sauf si elle résulte d'un titre exécutoire, la créance déclarée est certifiée sincère par le créancier. Le visa du commissaire aux comptes ou, à défaut, de l'expert-comptable sur la déclaration de créance peut être demandé par le juge-commissaire. Le refus de visa est motivé.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

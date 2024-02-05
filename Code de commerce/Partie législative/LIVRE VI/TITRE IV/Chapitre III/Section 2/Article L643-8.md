@@ -37,3 +37,6 @@ I.-Sans préjudice du droit de propriété ou de rétention opposable à la proc
 Le tout sans préjudice des autres droits de préférence.
 
 II.-La part correspondant aux créances sur l'admission desquelles il n'aurait pas été statué définitivement et, notamment, les rémunérations des dirigeants sociaux tant qu'il n'aura pas été statué sur leur cas, ainsi que celle correspondant aux frais de justice prévisibles, est mise en réserve.
+
+NOTA:
+Conformément au III de l'article 14 de la loi n° 2023-973 du 23 octobre 2023, ces dispositions s'appliquent aux liquidations judiciaires ouvertes ou prononcées après la promulgation de la présente loi.

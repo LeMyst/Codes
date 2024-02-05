@@ -9,3 +9,6 @@ Dans les mêmes conditions, un ou plusieurs autres patrimoines du débiteur peuv
 Pour l'application des deuxième et troisième alinéas du présent article, le président du tribunal peut ordonner toute mesure conservatoire utile à l'égard des biens du défendeur à l'action mentionnée à ces mêmes alinéas, à la demande de l'administrateur, du mandataire judiciaire, du ministère public ou d'office.
 
 Le tribunal ayant ouvert la procédure initiale reste compétent pour ces demandes. Lorsque le débiteur soumis à la procédure initiale ou le débiteur visé par l'extension exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, le tribunal statue en chambre du conseil après avoir entendu ou dûment appelé l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi. Toutefois, ces dispositions ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

@@ -5,3 +5,6 @@ Les actes constitutifs des personnes morales non immatriculées ou relevant de l
 Est déposée pour satisfaire à la formalité prévue au premier alinéa une copie des statuts en vigueur au jour du dépôt, traduite le cas échéant en langue française et certifiée conforme par le représentant légal de la société ou par la personne ayant le pouvoir d'engager la société en France.
 
 Lorsqu’il est réalisé par voie électronique, le dépôt mentionné au premier alinéa est réalisé par l’intermédiaire de l’organisme unique mentionné à l’article R. 123-1 et dans les conditions prévues par l’article R. 123-7.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

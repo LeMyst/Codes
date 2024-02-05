@@ -47,3 +47,6 @@ c) Résultat courant avant impôts en cas de déclaration d'impôt sur les soci�
 19° “Résultat régulé de la profession” : différence entre le chiffre d'affaires régulé de la profession mentionné au 18° et les coûts pertinents évalués dans les conditions prévues à l'article R. 444-6 ;
 
 20° “Taux de résultat régulé de la profession” : rapport entre le résultat régulé et le chiffre d'affaires régulé de la profession respectivement mentionnés aux 19° et 18°.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2020-179 du 28 février 2020, ces dispositions entrent en vigueur, pour chacune des professions concernées, à la date d'application du prochain arrêté portant fixation de ses tarifs en application de l'article L. 444-3 du code de commerce.

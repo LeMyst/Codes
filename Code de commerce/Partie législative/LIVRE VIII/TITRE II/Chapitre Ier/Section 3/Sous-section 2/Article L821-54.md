@@ -21,3 +21,6 @@ Cet avis fait l'objet d'un rapport de certification destiné à l'organe destin�
 III.-Les commissaires aux comptes indiquent dans leur rapport destiné à l'organe appelé à statuer sur les comptes si la personne morale ou l'entité est soumise aux obligations prévues aux articles L. 232-6, L. 233-28-1 ou L. 233-28-2.
 
 Si tel est le cas, ils attestent que le rapport relatif à l'impôt sur les bénéfices, pour l'exercice précédant celui pour lequel les comptes sont certifiés, a été publié et mis à disposition conformément aux dispositions des articles L. 232-6, L. 233-28-1 ou L. 233-28-2.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

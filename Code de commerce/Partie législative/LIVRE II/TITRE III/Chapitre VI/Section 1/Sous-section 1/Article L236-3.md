@@ -11,3 +11,6 @@ II. - Toutefois, il n'est pas procédé à l'échange de parts ou d'actions de l
 3° Soit par une société qui détient la totalité des parts ou actions de la société bénéficiaire et de la société qui disparaît ou par une personne agissant en son propre nom mais pour le compte de cette société ;
 
 4° Soit par les associés des sociétés qui fusionnent dans les mêmes proportions dans toutes les sociétés qui fusionnent, lorsque ces proportions sont conservées à l'issue de l'opération.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

@@ -19,3 +19,6 @@ II.-Les contrôles mentionnés à l'article L. 820-15 sont réalisés en fonctio
 Les contrôles sont proportionnés à l'ampleur et à la complexité de l'activité de l'organisme tiers indépendant.
 
 III.-Les exigences mentionnées au deuxième alinéa de l'article L. 820-15 sont celles fixées au II du présent article.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

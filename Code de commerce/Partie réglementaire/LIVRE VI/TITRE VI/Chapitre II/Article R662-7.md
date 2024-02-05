@@ -15,3 +15,6 @@ Les décisions du président du tribunal et du premier président de la cour d'a
 Les décisions prises en application du présent article sont des mesures d'administration judiciaire non susceptibles de recours. Ces décisions s'imposent aux parties et à la juridiction de renvoi désignée. En cas de renvoi de l'affaire, il en est fait mention aux registres mentionnés à l'article R. 621-8 par le greffier du tribunal qui a ouvert, le cas échéant, cette procédure.
 
 Dans l'attente de la décision du premier président, le tribunal peut désigner un administrateur judiciaire, sous l'autorité d'un juge commis temporairement à cet effet, pour accomplir, notamment, les diligences prévues à l'article L. 622-4. Le tribunal peut également ordonner, à titre de mesures provisoires, l'inventaire des biens et, en cas de procédure de liquidation judiciaire, l'apposition des scellés.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

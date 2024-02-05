@@ -5,3 +5,6 @@ Lorsqu'ils concernent des commissaires aux comptes exerçant des missions auprè
 Lorsqu'ils concernent des commissaires aux comptes n'exerçant pas de missions auprès d'entités d'intérêt public, les contrôles de leur activité professionnelle peuvent être effectués par des contrôleurs de la Haute autorité. Ils peuvent également être délégués par la Haute autorité à la Compagnie nationale des commissaires aux comptes, par une convention homologuée par arrêté du garde des sceaux, ministre de la justice. La convention détermine le cadre, les orientations et les modalités des contrôles.
 
 Les contrôles prévus au présent article peuvent être effectués avec le concours de l'Autorité des marchés financiers ou de l'Autorité de contrôle prudentiel et de résolution.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

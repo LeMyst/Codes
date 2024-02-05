@@ -25,3 +25,6 @@ Toute fausse déclaration relative à la demande de confidentialité du compte d
 Fait à, le.
 
 Signature
+
+NOTA:
+Conformément à l'article 5 de l'arrêté du 30 mai 2016, les présentes dispositions s'appliquent aux comptes afférents aux exercices clos à compter du 31 décembre 2015 et déposés à compter du 7 août 2016.

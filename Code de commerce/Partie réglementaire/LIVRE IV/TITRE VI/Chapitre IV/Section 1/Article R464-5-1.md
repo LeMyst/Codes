@@ -13,3 +13,6 @@ a) Soit permettent, au moment où la direction générale de la concurrence, de 
 b) Soit sont suffisants pour permettre à l'Autorité de la concurrence d'établir l'existence de la pratique en cause, à condition que la direction générale de la concurrence, de la consommation et de la répression des fraudes ou l'Autorité de la concurrence n'aient pas déjà en leur possession des éléments d'information que cette dernière estime suffisants pour lui permettre d'établir l'existence de cette pratique et qu'aucun autre demandeur n'ait déjà rempli les conditions pour bénéficier de l'exonération totale de sanctions pécuniaires en application du a du présent 3°.
 
 II.-Un demandeur ayant pris des mesures pour contraindre d'autres entreprises ou associations d'entreprises à participer à la pratique en cause ou à continuer à y participer est exclu du bénéfice de l'exonération totale de sanctions pécuniaires.
+
+NOTA:
+Conformément à l'aticle 2 du décret n° 2021-568 du 10 mai 2021, ces dispositions entrent en vigueur trente jours après la publication du présent décret.

@@ -9,3 +9,6 @@ Lorsque l'ordre du jour de la commission ou du groupe de travail prévoit l'inte
 Une attestation de présence est délivrée au commissaire aux comptes par la présidence de la Compagnie nationale des commissaires aux comptes ou par les organes concernés.
 
 II.-Est assimilée à la participation à une commission spécialisée et prise en compte au titre de l'obligation de formation la présidence, la vice-présidence ou le fait d'être membre du bureau national de la Compagnie nationale des commissaires aux comptes ou la présidence, ou la vice-présidence d'une compagnie régionale des commissaires aux comptes.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

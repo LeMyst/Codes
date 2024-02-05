@@ -9,3 +9,6 @@ Le liquidateur remet à tout moment, sur demande du juge-commissaire ou du procu
 3° La rémunération prévisible des experts désignés par le tribunal et des techniciens désignés par le juge-commissaire, y compris les officiers publics ou ministériels ;
 
 4° Le cas échéant, le montant des acomptes à valoir sur la rémunération du mandataire judiciaire et du liquidateur, qui ont été fixés par le président du tribunal sur proposition du juge-commissaire en application de l'article R. 663-36.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2023-434 du 3 juin 2023, ces dispositions s'appliquent aux procédures ouvertes à compter du lendemain de la publication dudit décret, à savoir à compter du 5 juin 2023.

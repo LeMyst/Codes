@@ -17,3 +17,6 @@ L'information relative à la liste des éléments complémentaires est satisfait
 2° De la pièce justificative dont la transmission par le déclarant n'est pas conforme aux exigences attendues ;
 
 3° En cas d'impossibilité de recours aux cas prévus aux 1° et 2°, d'un descriptif littéral des compléments attendus.
+
+NOTA:
+Conformément à l'article 3 de l'arrêté du 7 mai 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

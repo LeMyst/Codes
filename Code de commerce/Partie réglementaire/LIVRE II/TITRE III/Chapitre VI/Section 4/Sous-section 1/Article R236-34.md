@@ -5,3 +5,6 @@ L'opposition d'un créancier à la fusion transfrontalière, dans les conditions
 L'opposition des représentants de la masse des obligataires à la fusion transfrontalière, prévue à l'article L. 236-16, est formée dans le même délai.
 
 Dans tous les cas, les créanciers mentionnés à l'article L. 236-15 et les représentants de la masse mentionnés à l'article L. 236-16 peuvent engager une action contre la société devant la juridiction dans le ressort duquel celle-ci avait son siège social avant la fusion transfrontalière, dans un délai de deux ans à compter de la date de prise d'effet de l'opération conformément à l'article L. 236-44.
+
+NOTA:
+Conformément à l’article 10 du décret n° 2023-430 du 2 juin 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

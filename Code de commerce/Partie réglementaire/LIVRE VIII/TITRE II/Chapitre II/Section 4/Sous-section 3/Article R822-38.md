@@ -9,3 +9,6 @@ La décision est notifiée aux personnes intéressées et au président de la Ha
 Copie de la décision est adressée au rapporteur général, au comité français d'accréditation lorsqu'elle concerne un organisme tiers indépendant et à la personne qui a saisi le rapporteur général des faits ayant justifié l'engagement de la procédure de sanction en application de l'article L. 822-3.
 
 Ces diligences sont accomplies dans le délai d'un mois à compter du prononcé de la décision.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

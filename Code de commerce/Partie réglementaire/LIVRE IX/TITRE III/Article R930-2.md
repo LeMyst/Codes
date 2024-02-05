@@ -13,3 +13,6 @@ Pour l'application du présent code dans le territoire, les termes énumérés c
 5° " Département " ou " arrondissement " par " Nouvelle-Calédonie " ou par " province " ;
 
 6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en Nouvelle-Calédonie ".
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

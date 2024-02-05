@@ -6,10 +6,8 @@ FORMULAIRE DE DÉCLARATION D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'E
 
 (Articles L. 762-2 et R. 762-10 du code de commerce)
 
-Première session du salon
-
-Identification
-Dénomination (4) :
+Première session du salon\
+Identification Dénomination (4) :
 
 Sigle (1) (4) :
 
@@ -37,8 +35,7 @@ Liste limitative de produits ou services présentés déterminée par l'organisa
 
 Caractéristiques chiffrées
 
-(estimations)
-Surface nette (en mètres carrés) (3) (4) :
+(estimations) Surface nette (en mètres carrés) (3) (4) :
 
 Fréquentation attendue (3) :
 
@@ -66,8 +63,7 @@ Adresse de site internet (1) (4) :
 
 Responsable
 
-(Si différent de l'organisateur)
-Nom, prénom (s) :
+(Si différent de l'organisateur) Nom, prénom (s) :
 
 Fonction :
 

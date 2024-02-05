@@ -27,3 +27,6 @@ Des experts peuvent le cas échéant être désignés et associés aux travaux d
 Le collège stratégique de pilotage se réunit au moins quatre fois par an sur convocation de son président. Les décisions sont prises à la majorité des présents, sous réserve qu'au moins deux membres issus de deux ministères différents se soient exprimés. En cas d'égalité des voix, la voix du directeur général des entreprises ou de son représentant est prépondérante.
 
 Les membres peuvent demander au président la convocation du collège stratégique de pilotage sur un sujet déterminé.
+
+NOTA:
+Conformément à l’article 2 de l’arrêté du 14 décembre 2022 (NOR : ECOI2232187A), ces dispositions entrent en vigueur le 1er janvier 2023.

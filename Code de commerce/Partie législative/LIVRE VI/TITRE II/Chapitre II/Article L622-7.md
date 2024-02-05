@@ -11,3 +11,6 @@ II. - Le juge-commissaire peut autoriser le débiteur à faire un acte de dispos
 Après avoir recueilli les observations du ministère public, le juge-commissaire peut autoriser le débiteur à exercer le droit prévu à l'article 1699 du code civil. Il peut aussi l'autoriser à payer des créances antérieures au jugement, pour retirer le gage ou une chose légitimement retenue ou encore pour obtenir le retour de biens et droits transférés à titre de garantie dans un patrimoine fiduciaire, lorsque ce retrait ou ce retour est justifié par la poursuite de l'activité. Ce paiement peut en outre être autorisé pour lever l'option d'achat d'un contrat de crédit-bail, lorsque cette levée d'option est justifiée par la poursuite de l'activité.
 
 III. - Tout acte ou tout paiement passé en violation des dispositions du présent article est annulé à la demande de tout intéressé ou du ministère public, présentée dans un délai de trois ans à compter de la conclusion de l'acte ou du paiement de la créance. Lorsque l'acte est soumis à publicité, le délai court à compter de celle-ci.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

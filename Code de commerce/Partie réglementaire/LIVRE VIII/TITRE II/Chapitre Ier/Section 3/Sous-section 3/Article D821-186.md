@@ -55,3 +55,6 @@ VI.-Le commissaire aux comptes établit chaque année une déclaration d'activit
 4° Pour les autres missions ou prestations, la liste des personnes ou entités, la nature des missions ou prestations effectuées et le montant total des honoraires facturés.
 
 Le commissaire aux comptes adresse cette déclaration d'activité, par voie électronique, à la compagnie régionale, laquelle en transmet un exemplaire à la Compagnie nationale. La Compagnie nationale transmet une copie de ces informations à la Haute autorité de l'audit.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

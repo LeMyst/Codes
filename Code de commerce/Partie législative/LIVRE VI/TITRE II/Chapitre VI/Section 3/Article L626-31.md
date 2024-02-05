@@ -15,3 +15,6 @@ Lorsque le projet de plan a été adopté par chacune des classes conformément 
 Le tribunal peut refuser d'arrêter le plan si celui-ci n'offre pas une perspective raisonnable d'éviter la cessation des paiements du débiteur ou de garantir la viabilité de l'entreprise.
 
 Le tribunal s'assure que les intérêts de toutes les parties affectées sont suffisamment protégés. Le jugement qui arrête le plan en rend les dispositions opposables à tous.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

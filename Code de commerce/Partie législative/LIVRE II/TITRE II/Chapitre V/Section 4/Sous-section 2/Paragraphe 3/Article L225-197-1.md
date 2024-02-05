@@ -31,3 +31,8 @@ Par dérogation aux dispositions précédentes, pour les actions ainsi attribué
 III.-En cas d'échange sans soulte d'actions résultant d'une opération de fusion ou de scission réalisée conformément à la réglementation en vigueur pendant les périodes d'acquisition ou de conservation prévues au I, les dispositions du présent article et, notamment, les périodes précitées, pour leur durée restant à courir à la date de l'échange, restent applicables aux droits à attribution et aux actions reçus en échange. Il en est de même de l'échange résultant d'une opération d'offre publique, de division ou de regroupement réalisée conformément à la réglementation en vigueur qui intervient pendant la période de conservation.
 
 En cas d'apport à une société ou à un fonds commun de placement dont l'actif est exclusivement composé de titres de capital ou donnant accès au capital émis par la société ou par une société qui lui est liée au sens de l'article L. 225-197-2, l'obligation de conservation prévue au I reste applicable, pour la durée restant à courir à la date de l'apport, aux actions ou parts reçues en contrepartie de l'apport.
+
+NOTA:
+Conformément au II de l’article 20 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent à compter du premier exercice clos postérieurement à la publication du décret mentionné aux articles L. 225-218, L. 226-6 et L. 823-2-2 du code de commerce dans leur rédaction résultant du présent article, et au plus tard le 1er septembre 2019.
+
+Conformément à l’article 4 de l’ordonnance n° 2019-1234 du 27 novembre 2019, ces dispositions sont applicables à compter des assemblées générales statuant sur le premier exercice clos après sa date de publication.

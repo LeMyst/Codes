@@ -55,3 +55,6 @@ Le règlement général de l'Autorité des marchés financiers précise le conte
 Cette déclaration est adressée à la société dont les actions ont été acquises et doit parvenir à l'Autorité des marchés financiers dans des délais fixés par décret en Conseil d'Etat. Cette information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
 En cas de changement d'intention dans le délai de six mois à compter du dépôt de cette déclaration, une nouvelle déclaration motivée doit être adressée à la société et à l'Autorité des marchés financiers sans délai et portée à la connaissance du public dans les mêmes conditions. Cette nouvelle déclaration fait courir à nouveau le délai de six mois mentionné au premier alinéa.
+
+NOTA:
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

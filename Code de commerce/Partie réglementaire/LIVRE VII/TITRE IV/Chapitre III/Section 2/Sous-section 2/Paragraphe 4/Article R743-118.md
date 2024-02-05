@@ -3,3 +3,6 @@
 L'assemblée de clôture statue dans les conditions de quorum et de majorité prévues pour l'approbation des comptes annuels de la société.
 
 Si elle ne peut délibérer ou refuse d'approuver les comptes du liquidateur, le tribunal judiciaire dans le ressort duquel la société a son siège statue à la demande du liquidateur ou de tout intéressé.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

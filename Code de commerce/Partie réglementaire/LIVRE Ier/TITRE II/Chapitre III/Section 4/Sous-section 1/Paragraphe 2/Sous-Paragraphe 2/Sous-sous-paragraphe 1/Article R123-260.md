@@ -29,3 +29,6 @@ iv) Pour le représentant permanent d'une personne morale administrateur ou cont
 h) Les références, le cas échéant, des établissements principaux ou secondaires situés et immatriculés dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen. En outre, la personne morale peut déclarer les mentions relatives à l'adresse et à l'activité principale de ces établissements sur présentation des justificatifs définis par l'arrêté prévu à l'article R. 123-292 ;
 
 2° En ce qui concerne l'activité et l'établissement, les renseignements prévus aux articles R. 123-243 à R. 123-245. Les informations relatives aux sociétés commerciales ou relevant du secteur des métiers et de l'artisanat sont déclarées par le groupement d'intérêt économique, lorsque son objet relève de ces natures d'activités.
+
+NOTA:
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.

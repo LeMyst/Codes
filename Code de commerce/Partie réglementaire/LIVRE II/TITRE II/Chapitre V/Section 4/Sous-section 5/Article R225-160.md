@@ -19,3 +19,6 @@ Pour chacune de ces opérations, le registre indique, dans l'ordre des négociat
 7° Le cas échéant, le nom de la personne ayant agi en son nom mais pour le compte de la société.
 
 Le nombre et le coût total de l'achat des actions vendues sont déduits, au moins chaque semestre, du nombre des actions achetées et de leur coût global.
+
+NOTA:
+Conformément à l’article 16 du décret n° 2020-1742 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

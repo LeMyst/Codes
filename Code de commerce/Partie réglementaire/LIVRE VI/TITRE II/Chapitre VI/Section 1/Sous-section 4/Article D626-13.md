@@ -19,3 +19,6 @@ B.-Elle peut être utilement complétée, dans le délai prévu au premier alin�
 3° Le montant des remises sollicitées ou obtenues auprès des créanciers privés.
 
 La commission peut également être saisie d'une demande de remise de dettes présentée dans le cadre d'une saisine du tribunal aux fins d'une modification substantielle du plan.
+
+NOTA:
+Conformément au I de l'article 51 du décret n° 2021-1218 du 23 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de son entrée en vigueur.

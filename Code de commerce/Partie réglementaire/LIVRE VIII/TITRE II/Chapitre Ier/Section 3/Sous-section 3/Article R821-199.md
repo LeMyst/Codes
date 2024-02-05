@@ -17,3 +17,6 @@ Le bureau peut solliciter du commissaire aux comptes ou de l'entité d'intérêt
 Le bureau se prononce par décision motivée dans un délai d'un mois à compter de la réception du dossier complet. Le silence gardé pendant ce délai vaut acceptation de la demande.
 
 La décision du bureau est notifiée au demandeur par lettre recommandée avec demande d'avis de réception.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

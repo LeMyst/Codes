@@ -9,3 +9,6 @@ III.- Si tel n'est pas le cas, le praticien de l'insolvabilité de la procédure
 Les dispositions des articles L. 626-2-1, L. 626-6 et L. 626-7 sont applicables. L'état mentionné à l'article L. 626-7 est également adressé au praticien de l'insolvabilité de la procédure d'insolvabilité principale.
 
 Le tribunal statue, au vu du rapport du juge-commissaire, sur le projet de plan proposé par le praticien de l'insolvabilité de la procédure d'insolvabilité principale, dans les conditions prévues par l'article L. 626-9, ce praticien entendu ou dûment convoqué.
+
+NOTA:
+Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.

@@ -11,3 +11,6 @@ III.-(Abrogé)
 IV.-(Abrogé).
 
 V.-L'article L. 651-2 est applicable dans sa rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 précitée.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

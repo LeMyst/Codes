@@ -15,3 +15,6 @@ I.-L'assemblée générale délibère sur toutes mesures ayant pour objet d'assu
 6° Sur tout projet de transfert du siège social d'une société européenne dans un autre Etat membre.
 
 II.-L'assemblée générale délibère dans les conditions de quorum prévues au deuxième alinéa de l'article L. 225-98. Elle statue à la majorité des deux tiers des voix dont disposent les porteurs présents ou représentés.
+
+NOTA:
+Conformément à l’article 13 de l’ordonnance n° 2023-393 du 24 mai 2023, ces dispositions s'appliquent aux opérations dont le projet est déposé au greffe du tribunal de commerce à compter du 1er juillet 2023.

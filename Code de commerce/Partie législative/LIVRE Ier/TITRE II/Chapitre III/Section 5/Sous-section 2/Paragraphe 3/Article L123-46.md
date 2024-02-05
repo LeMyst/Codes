@@ -9,3 +9,6 @@ Fait l'objet d'une inscription spécifique au registre national des entreprises 
 2° Les dirigeants sociaux des personnes morales mentionnées au 3° de l'article L. 123-36, leurs conjoints collaborateurs et leurs conjoints associés le cas échéant ;
 
 3° Les associés prenant part personnellement et habituellement à l'activité des personnes morales mentionnées au 3° de l'article L. 123-36.
+
+NOTA:
+Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

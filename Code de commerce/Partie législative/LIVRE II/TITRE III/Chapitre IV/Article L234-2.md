@@ -7,3 +7,6 @@ A défaut de réponse du dirigeant ou s'il constate qu'en dépit des décisions 
 Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal de commerce et lui en communique les résultats. Il peut demander à être entendu par le président du tribunal, auquel cas le second alinéa du I de l'article L. 611-2 est applicable.
 
 Le dernier alinéa de l'article L. 234-1 est applicable.
+
+NOTA:
+Loi n° 2011-525 du 17 mai 2011, article 62 II : Le I de l'article 62 est applicable aux procédures en cours à la date de la publication de la présente loi.

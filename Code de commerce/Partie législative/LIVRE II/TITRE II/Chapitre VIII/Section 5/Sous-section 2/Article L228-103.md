@@ -9,3 +9,6 @@ Chaque valeur mobilière donnant accès au capital donne droit à une voix. Les 
 Les frais d'assemblée ainsi que, d'une façon générale, tous les frais afférents au fonctionnement des différentes masses sont à la charge de la société appelée à émettre ou attribuer de nouvelles valeurs mobilières représentatives de son capital social.
 
 Lorsque les valeurs mobilières émises en application de la présente section sont des obligations destinées à être converties ou remboursées en titres de capital ou échangées contre des titres de capital, les dispositions des deuxième, troisième et quatrième alinéas du présent article sont applicables à la masse créée en application de l'article L. 228-46.
+
+NOTA:
+Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.

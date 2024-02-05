@@ -5,3 +5,6 @@ Le conseil régional habilite les commissaires aux comptes à recevoir des stagi
 Il dresse une liste des personnes ainsi habilitées. Cette liste peut être consultée par tout intéressé.
 
 Le conseil régional communique une copie des articles A. 821-12 à A. 821-21 et A. 821-33 au maître de stage lors de son habilitation.
+
+NOTA:
+Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.

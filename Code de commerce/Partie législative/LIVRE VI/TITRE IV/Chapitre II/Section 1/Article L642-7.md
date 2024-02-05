@@ -13,3 +13,6 @@ En cas de cession d'un contrat de crédit-bail, le crédit-preneur ne peut lever
 La convention en exécution de laquelle le débiteur constituant conserve l'usage ou la jouissance de biens ou droits transférés à titre de garantie dans un patrimoine fiduciaire ne peut être cédée au cessionnaire, sauf accord des bénéficiaires du contrat de fiducie.
 
 Le cocontractant dont le contrat n'a pas fait l'objet de la cession prévue par le deuxième alinéa peut demander au juge-commissaire qu'il en prononce la résiliation si la poursuite de son exécution n'en est pas demandée par le liquidateur.
+
+NOTA:
+Conformément au II de l’article 64 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions ne sont pas applicables aux procédures en cours au jour de la publication de la présente loi.

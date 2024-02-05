@@ -15,3 +15,6 @@ Toute clause contractuelle qui limite le choix de l'assemblée générale ou de 
 II.-Dans les entités d'intérêt public pour la mission de certification des comptes, les commissaires aux comptes sont en outre désignés conformément aux dispositions de l'article 16 du règlement (UE) n° 537/2014 du 16 avril 2014.
 
 Les paragraphes 2 à 5 de l'article 16 du règlement précité ne s'appliquent pas aux désignations statutaires exigées en vue de l'immatriculation des sociétés ni aux désignations réalisées en application des articles L. 821-47 du code de commerce et L. 214-7-2, L. 214-24-31, L. 214-133, L. 214-162-5 et L. 612-43 du code monétaire et financier. Dans ces cas, l'entité d'intérêt public informe la Haute autorité de l'audit des modalités de cette désignation.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

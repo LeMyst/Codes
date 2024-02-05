@@ -1,7 +1,6 @@
 # Article Annexe 8-1
 
-RÈGLEMENT FIXANT LES MODALITÉS APPLICABLES AUX ÉLECTIONS DES ADMINISTRATEURS JUDICIAIRES À LA COMMISSION NATIONALE D'INSCRIPTION ET DE DISCIPLINE DES ADMINISTRATEURS JUDICIAIRES ET DES MANDATAIRES JUDICIAIRES À LA COMMISSION NATIONALE D'INSCRIPTION ET DE DISCIPLINE DES MANDATAIRES JUDICIAIRES
-L'organisation des élections est confiée au Conseil national des administrateurs judiciaires et des mandataires judiciaires par les articles R. 811-3 et R. 812-3 du code de commerce.
+RÈGLEMENT FIXANT LES MODALITÉS APPLICABLES AUX ÉLECTIONS DES ADMINISTRATEURS JUDICIAIRES À LA COMMISSION NATIONALE D'INSCRIPTION ET DE DISCIPLINE DES ADMINISTRATEURS JUDICIAIRES ET DES MANDATAIRES JUDICIAIRES À LA COMMISSION NATIONALE D'INSCRIPTION ET DE DISCIPLINE DES MANDATAIRES JUDICIAIRES L'organisation des élections est confiée au Conseil national des administrateurs judiciaires et des mandataires judiciaires par les articles R. 811-3 et R. 812-3 du code de commerce.
 
 La date du scrutin est fixée par le Conseil national des administrateurs judiciaires et des mandataires judiciaires. La liste des électeurs, arrêtée deux mois avant la date du scrutin, est établie, selon le corps électoral concerné, par la Commission nationale d'inscription et de discipline des administrateurs judiciaires ou par la Commission nationale d'inscription et de discipline des mandataires judiciaires. Elle est transmise au Conseil national par le ministère de la justice.
 

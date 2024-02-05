@@ -37,3 +37,6 @@ Ils formulent leur conclusion sur le respect, dans la présentation des comptes 
 Ils respectent, lorsque la certification concerne les comptes d'une entité d'intérêt public, les exigences prévues à l'article 10 du règlement (UE) n° 537/2014 du Parlement européen et du Conseil du 16 avril 2014.
 
 Le rapport est signé par le commissaire aux comptes, personne physique, ou, lorsque le mandat est confié à une société de commissaires aux comptes, par la personne mentionnée au premier alinéa de l'article L. 821-25.
+
+NOTA:
+Conformément au 1° du I de l’article 22 du décret n° 2023-1394 du 30 décembre 2023 dans sa rédaction issue de l'article 1 du décret n° 2024-60 du 31 janvier 2024, ces dispositions entrent en vigueur le 1er février 2024.

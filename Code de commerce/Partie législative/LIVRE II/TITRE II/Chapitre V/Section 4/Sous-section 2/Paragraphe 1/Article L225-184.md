@@ -17,3 +17,6 @@ Ce rapport indique également :
 -le nombre et le prix des actions qui, durant l'année, ont été souscrites ou achetées, en levant une ou plusieurs options détenues sur les sociétés visées à l'alinéa précédent, par chacun des dix salariés de la société non mandataires sociaux dont le nombre d'actions ainsi achetées ou souscrites est le plus élevé.
 
 Ce rapport indique également le nombre, le prix et les dates d'échéance des options de souscription ou d'achat d'actions consenties, durant l'année, par les sociétés visées à l'alinéa précédent, à l'ensemble des salariés bénéficiaires ainsi que le nombre de ceux-ci et la répartition des options consenties entre les catégories de ces bénéficiaires.
+
+NOTA:
+Loi 2008-1258 du 3 décembre 2008 art. 22 VII : Ces dispositions s'appliquent aux attributions d'options ou aux attributions gratuites d'actions autorisées par les assemblées générales extraordinaires réunies à compter de la date de publication de la présente loi.

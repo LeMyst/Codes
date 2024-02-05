@@ -13,3 +13,6 @@ La publicité d'une sanction prononcée en application des dispositions des sect
 Lorsqu'une décision de sanction fait l'objet d'un recours, la Haute autorité, informée sans délai, publie immédiatement cette information sur son site internet.
 
 La Haute autorité informe sans délai l'organe mentionné au 2° de l'article 30 du règlement (UE) n° 537/2014 du 16 avril 2014 des interdictions temporaires prononcées en application du 3° du I et du 2° du II de l'article L. 821-71 ainsi que du 1° du I de l'article L. 821-72.
+
+NOTA:
+Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

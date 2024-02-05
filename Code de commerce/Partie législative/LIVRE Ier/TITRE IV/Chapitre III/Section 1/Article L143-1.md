@@ -9,3 +9,6 @@ Le déplacement du fonds de commerce, sans le consentement du vendeur ou des cr�
 L'inscription d'un nantissement peut également rendre exigibles les créances antérieures ayant pour cause l'exploitation du fonds.
 
 Les demandes en déchéance du terme formées en vertu des deux alinéas précédents devant le tribunal de commerce sont soumises aux règles de procédure édictées par le quatrième alinéa de l'article L. 143-4.
+
+NOTA:
+Conformément au I de l'article 37 de l'ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

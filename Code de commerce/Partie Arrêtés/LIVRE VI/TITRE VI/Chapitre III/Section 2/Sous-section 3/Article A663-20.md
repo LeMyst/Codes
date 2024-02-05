@@ -5,3 +5,6 @@ L'émolument prévu à l'article R. 663-22 au titre de l'enregistrement des cré
 1° 4,70 € par créance lorsque le montant de la créance est inférieur à 150 € ;
 
 2° 9,41 € par créance lorsque le montant de la créance est égal ou supérieur à 150 €.
+
+NOTA:
+Conformément à l'article 21 de l'arrêté du 28 février 2020, les présentes dispositions entrent en vigueur le 1er mars 2020.

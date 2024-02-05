@@ -7,3 +7,6 @@ Les soldes ont lieu, pour l'année civile, durant deux périodes d'une durée mi
 Les produits annoncés comme soldés doivent avoir été proposés à la vente et payés depuis au moins un mois à la date de début de la période de soldes considérée.
 
 II.-Dans toute publicité, enseigne, dénomination sociale ou nom commercial, l'emploi du mot : solde (s) ou de ses dérivés est interdit pour désigner toute activité, dénomination sociale ou nom commercial, enseigne ou qualité qui ne se rapporte pas à une opération de soldes telle que définie au I ci-dessus.
+
+NOTA:
+Conformément au II de l'article 16 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur à compter du premier jour du sixième mois suivant la publication de ladite loi.

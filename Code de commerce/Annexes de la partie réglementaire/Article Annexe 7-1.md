@@ -4,8 +4,7 @@ Siège et ressort des tribunaux de commerce
 
 |  |  |  |
 | --- | --- | --- |
-| DÉPARTEMENT | TRIBUNAL
-judiciaire | SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE |
+| DÉPARTEMENT | TRIBUNALjudiciaire | SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE |
 | Siège | Ressort |
 | Cour d'appel d'Agen |
 | Gers | Auch | Auch | Ressort du tribunal judiciaire d'Auch |
@@ -25,16 +24,13 @@ judiciaire | SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE |
 | Fréjus | Ressort de la chambre de proximité de Fréjus |
 | Toulon | Toulon | Ressort du tribunal judiciaire de Toulon |
 | Cour d'appel d'Amiens |
-| Aisne | Saint-Quentin
-Laon | Saint-Quentin | Ressort des tribunaux judiciaires de Saint-Quentin et de Laon |
+| Aisne | Saint-QuentinLaon | Saint-Quentin | Ressort des tribunaux judiciaires de Saint-Quentin et de Laon |
 | Soissons | Soissons | Ressort du tribunal judiciaire de Soissons |
 | Oise | Beauvais | Beauvais | Ressort du tribunal judiciaire de Beauvais |
-| Compiègne
-Senlis | Compiègne | Ressort des tribunaux judiciaires de Compiègne et de Senlis |
+| CompiègneSenlis | Compiègne | Ressort des tribunaux judiciaires de Compiègne et de Senlis |
 | Somme | Amiens | Amiens | Ressort du tribunal judiciaire d'Amiens |
 | Cour d'appel d'Angers |
-| Maine-et-Loire | Angers
-Saumur | Angers | Ressort des tribunaux judiciaires de d'Angers et de Saumur |
+| Maine-et-Loire | AngersSaumur | Angers | Ressort des tribunaux judiciaires de d'Angers et de Saumur |
 | Mayenne | Laval | Laval | Ressort du tribunal judiciaire de Laval |
 | Sarthe | Le Mans | Le Mans | Ressort du tribunal judiciaire du Mans |
 | Cour d'appel de Bastia |
@@ -44,8 +40,7 @@ Saumur | Angers | Ressort des tribunaux judiciaires de d'Angers et de Saumur |
 | Doubs | Besançon | Besançon | Ressort du tribunal judiciaire de Besançon |
 | Jura | Lons-le-Saunier | Lons-le-Saunier | Ressort du tribunal judiciaire de Lons-le-Saunier |
 | Haute-Saône | Vesoul | Vesoul | Ressort du tribunal judiciaire de Vesoul |
-| Territoire de Belfort et Doubs | Belfort
-Montbéliard | Belfort | Ressort des tribunaux judiciaires de Belfort et de Montbéliard |
+| Territoire de Belfort et Doubs | BelfortMontbéliard | Belfort | Ressort des tribunaux judiciaires de Belfort et de Montbéliard |
 | Cour d'appel de Bordeaux |
 | Charente | Angoulême | Angoulême | Ressort du tribunal judiciaire d'Angoulême |
 | Dordogne | Bergerac | Bergerac | Ressort du tribunal judiciaire de Bergerac |
@@ -61,13 +56,10 @@ Montbéliard | Belfort | Ressort des tribunaux judiciaires de Belfort et de Mont
 | Lisieux | Lisieux | Ressort du tribunal judiciaire de Lisieux |
 | Manche | Coutances | Coutances | Ressort du tribunal judiciaire de Coutances |
 | Cherbourg-en-Cotentin | Cherbourg-en-Cotentin | Ressort du tribunal judiciaire de Cherbourg-en-Cotentin |
-| Orne | Alençon
-Argentan | Alençon | Ressort des tribunaux judiciaires d'Alençon et d'Argentan |
+| Orne | AlençonArgentan | Alençon | Ressort des tribunaux judiciaires d'Alençon et d'Argentan |
 | Cour d'appel de Chambéry |
-| Savoie | Chambéry
-Albertville | Chambéry | Ressort des tribunaux judiciaires de Chambéry et d'Albertville |
-| Haute-Savoie | Annecy
-Bonneville | Annecy | Ressort des tribunaux judiciaires d'Annecy et de Bonneville |
+| Savoie | ChambéryAlbertville | Chambéry | Ressort des tribunaux judiciaires de Chambéry et d'Albertville |
+| Haute-Savoie | AnnecyBonneville | Annecy | Ressort des tribunaux judiciaires d'Annecy et de Bonneville |
 | Thonon-les-Bains | Thonon-les-Bains | Ressort du tribunal judiciaire de Thonon-les-Bains |
 | Cour d'appel de Colmar |
 | Bas-Rhin | Saverne |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
@@ -80,24 +72,19 @@ Bonneville | Annecy | Ressort des tribunaux judiciaires d'Annecy et de Bonnevill
 | Saône-et-Loire | Chalon-sur-Saône | Chalon-sur-Saône | Ressort du tribunal judiciaire de Chalon-sur-Saône |
 | Mâcon | Mâcon | Ressort du tribunal judiciaire de Mâcon |
 | Cour d'appel de Douai |
-| Nord | Douai
-Cambrai | Douai | Ressort des tribunaux judiciaires de Douai et de Cambrai |
+| Nord | DouaiCambrai | Douai | Ressort des tribunaux judiciaires de Douai et de Cambrai |
 | Dunkerque | Dunkerque | Ressort du tribunal judiciaire de Dunkerque |
 | Lille | Tourcoing | Ressort du tribunal judiciaire de Lille |
-| Valenciennes
-Avesnes-sur-Helpe | Valenciennes | Ressort des tribunaux judiciaires de Valenciennes et d'Avesnes-sur-Helpe |
-| Pas-de-Calais | Arras
-Béthune | Arras | Ressort des tribunaux judiciaires d'Arras et de Béthune |
+| ValenciennesAvesnes-sur-Helpe | Valenciennes | Ressort des tribunaux judiciaires de Valenciennes et d'Avesnes-sur-Helpe |
+| Pas-de-Calais | ArrasBéthune | Arras | Ressort des tribunaux judiciaires d'Arras et de Béthune |
 | Saint-Omer | Boulogne-sur-Mer | Boulogne-sur-Mer | Ressort des tribunaux judiciaires de Boulogne-sur-Mer et de Saint-Omer |
 | Cour d'appel de Grenoble |
 | Hautes-Alpes | Gap | Gap | Ressort du tribunal judiciaire de Gap |
 | Drôme | Valence | Romans-sur-Isère | Ressort du tribunal judiciaire de Valence |
 | Isère | Grenoble | Grenoble | Ressort du tribunal judiciaire de Grenoble |
-| Bourgoin-Jallieu
-Vienne | Vienne | Ressort des tribunaux judiciaires de Bourgoin-Jallieu et de Vienne |
+| Bourgoin-JallieuVienne | Vienne | Ressort des tribunaux judiciaires de Bourgoin-Jallieu et de Vienne |
 | Cour d'appel de Limoges |
-| Corrèze | Brive-la-Gaillarde
-Tulle | Brive-la-Gaillarde | Ressort des tribunaux judiciaires de Brive-la-Gaillarde et de Tulle |
+| Corrèze | Brive-la-GaillardeTulle | Brive-la-Gaillarde | Ressort des tribunaux judiciaires de Brive-la-Gaillarde et de Tulle |
 | Creuse | Guéret | Guéret | Ressort du tribunal judiciaire de Guéret |
 | Haute-Vienne | Limoges | Limoges | Ressort du tribunal judiciaire de Limoges |
 | Cour d'appel de Lyon |
@@ -120,26 +107,21 @@ Tulle | Brive-la-Gaillarde | Ressort des tribunaux judiciaires de Brive-la-Gaill
 | Cour d'appel de Nancy |
 | Meurthe-et-Moselle | Val de Briey | Val de Briey | Ressort du tribunal judiciaire de Val de Briey |
 | Nancy | Nancy | Ressort du tribunal judiciaire de Nancy |
-| Meuse | Bar-le-Duc
-Verdun | Bar-le-Duc | Ressort des tribunaux judiciaires de Bar-le-Duc et de Verdun |
+| Meuse | Bar-le-DucVerdun | Bar-le-Duc | Ressort des tribunaux judiciaires de Bar-le-Duc et de Verdun |
 | Vosges | Epinal | Epinal | Ressort du tribunal judiciaire d'Epinal |
 | Cour d'appel de Nîmes |
 | Ardèche | Privas | Aubenas | Ressort du tribunal judiciaire de Privas |
-| Gard | Nîmes
-Alès | Nîmes | Ressort des tribunaux judiciaires de Nîmes et d'Alès |
+| Gard | NîmesAlès | Nîmes | Ressort des tribunaux judiciaires de Nîmes et d'Alès |
 | Lozère | Mende | Mende | Ressort du tribunal judiciaire de Mende |
-| Vaucluse | Avignon
-Carpentras | Avignon | Ressort des tribunaux judiciaires d'Avignon et de Carpentras |
+| Vaucluse | AvignonCarpentras | Avignon | Ressort des tribunaux judiciaires d'Avignon et de Carpentras |
 | Cour d'appel d'Orléans |
 | Indre-et-Loire | Tours | Tours | Ressort du tribunal judiciaire de Tours |
 | Loir-et-Cher | Blois | Blois | Ressort du tribunal judiciaire de Blois |
-| Loiret | Orléans
-Montargis | Orléans | Ressort des tribunaux judiciaires d'Orléans et de Montargis |
+| Loiret | OrléansMontargis | Orléans | Ressort des tribunaux judiciaires d'Orléans et de Montargis |
 | Cour d'appel de Paris |
 | Paris | Paris | Paris | Ressort du tribunal judiciaire de Paris |
 | Essonne | Evry | Evry | Ressort du tribunal judiciaire d'Evry |
-| Seine-et-Marne | Melun
-Fontainebleau | Melun | Ressort des tribunaux judiciaires de Melun et de Fontainebleau |
+| Seine-et-Marne | MelunFontainebleau | Melun | Ressort des tribunaux judiciaires de Melun et de Fontainebleau |
 | Meaux | Meaux | Ressort du tribunal judiciaire de Meaux |
 | Seine-Saint-Denis | Bobigny | Bobigny | Ressort du tribunal judiciaire de Bobigny |
 | Val-de-Marne | Créteil | Créteil | Ressort du tribunal judiciaire de Créteil |
@@ -155,8 +137,7 @@ Fontainebleau | Melun | Ressort des tribunaux judiciaires de Melun et de Fontain
 | Charente-Maritime | La Rochelle | La Rochelle | Ressort du tribunal judiciaire de La Rochelle |
 | Saintes | Saintes | Ressort du tribunal judiciaire de Saintes |
 | Deux-Sèvres | Niort | Niort | Ressort du tribunal judiciaire de Niort |
-| Vendée | La Roche-sur-Yon
-Les Sables-d'Olonne | La Roche-sur-Yon | Ressort des tribunaux judiciaires de La Roche-sur-Yon et des Sables-d'Olonne |
+| Vendée | La Roche-sur-YonLes Sables-d'Olonne | La Roche-sur-Yon | Ressort des tribunaux judiciaires de La Roche-sur-Yon et des Sables-d'Olonne |
 | Vienne | Poitiers | Poitiers | Ressort du tribunal judiciaire de Poitiers |
 | Cour d'appel de Reims |
 | Ardennes | Charleville-Mézières | Sedan | Ressort du tribunal judiciaire de Charleville-Mézières |
@@ -174,8 +155,7 @@ Les Sables-d'Olonne | La Roche-sur-Yon | Ressort des tribunaux judiciaires de La
 | Morbihan | Lorient | Lorient | Ressort du tribunal judiciaire de Lorient |
 | Vannes | Vannes | Ressort du tribunal judiciaire de Vannes |
 | Cour d'appel de Riom |
-| Allier | Cusset
-Moulins | Cusset | Ressort des tribunaux judiciaires de Cusset et de Moulins |
+| Allier | CussetMoulins | Cusset | Ressort des tribunaux judiciaires de Cusset et de Moulins |
 | Montluçon | Montluçon | Ressort du tribunal judiciaire de Montluçon |
 | Cantal | Aurillac | Aurillac | Ressort du tribunal judiciaire d'Aurillac |
 | Haute-Loire | Le Puy-en-Velay | Le Puy-en-Velay | Ressort du tribunal judiciaire du Puy-en-Velay |
@@ -188,8 +168,7 @@ Moulins | Cusset | Ressort des tribunaux judiciaires de Cusset et de Moulins |
 | Rouen | Rouen | Ressort du tribunal judiciaire de Rouen |
 | Cour d'appel de Toulouse |
 | Ariège | Foix | Foix | Ressort du tribunal judiciaire de Foix |
-| Haute-Garonne | Toulouse
-Saint-Gaudens | Toulouse | Ressort des tribunaux judiciaires de Toulouse et de Saint-Gaudens |
+| Haute-Garonne | ToulouseSaint-Gaudens | Toulouse | Ressort des tribunaux judiciaires de Toulouse et de Saint-Gaudens |
 | Tarn | Albi | Albi | Ressort du tribunal judiciaire d'Albi |
 |  | Castres | Castres | Ressort du tribunal judiciaire de Castres |
 | Tarn-et-Garonne | Montauban | Montauban | Ressort du tribunal judiciaire de Montauban |
@@ -198,3 +177,8 @@ Saint-Gaudens | Toulouse | Ressort des tribunaux judiciaires de Toulouse et de S
 | Hauts-de-Seine | Nanterre | Nanterre | Ressort du tribunal judiciaire de Nanterre |
 | Val-d'Oise | Pontoise | Pontoise | Ressort du tribunal judiciaire de Pontoise |
 | Yvelines | Versailles | Versailles | Ressort du tribunal judiciaire de Versailles |
+
+NOTA:
+Conformément à l’article 5 du décret n° 2019-1408 du 19 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

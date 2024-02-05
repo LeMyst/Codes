@@ -23,3 +23,6 @@ V. - Lorsque le rapport ou les informations requis en application du I ne sont p
 Si la société ne communique pas l'ensemble de ces informations, son représentant légal en France ou la personne ayant le pouvoir de l'y engager établit le rapport et intègre dans ce dernier toutes les informations en sa possession, assortie d'une déclaration mentionnant que la société concernée n'a pas mis à sa disposition les informations requises.
 
 Lorsque la société ne fournit pas le rapport contenant l'avis sur la conformité mentionné au IV, son représentant légal en France ou la personne ayant le pouvoir de l'y engager produit une déclaration qui l'indique.
+
+NOTA:
+Se reporter aux modalités d'application prévues à l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.

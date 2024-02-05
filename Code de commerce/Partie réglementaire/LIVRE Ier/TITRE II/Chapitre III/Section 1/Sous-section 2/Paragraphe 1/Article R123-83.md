@@ -5,3 +5,6 @@ Toute inscription au registre du commerce et des sociétés concernant le début
 Toute inscription d'office par le greffier s'accompagne d'une déclaration effectuée concomitamment par ses soins auprès du guichet unique électronique mis en œuvre par l'organisme unique mentionné à l'article R. 123-1, conformément aux dispositions du même article. Cette déclaration est réalisée préalablement à toute diffusion ou mise à disposition de ces informations à des tiers, sans préjudice de la communication prévue aux articles R. 123-150 à R. 123-154-1.
 
 Les modalités de saisine et les échanges entre le greffier et l'organisme unique mentionné à l'article R. 123-1 sont régis par les conditions prévues aux articles R. 123-6 et R. 123-7.
+
+NOTA:
+Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

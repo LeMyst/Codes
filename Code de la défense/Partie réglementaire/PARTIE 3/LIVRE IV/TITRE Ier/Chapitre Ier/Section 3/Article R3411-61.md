@@ -5,3 +5,6 @@ Le ministre de la défense exerce les attributions dévolues au ministre chargé
 Il exerce en outre les attributions du ministre chargé de l'enseignement supérieur ou du recteur de région académique, chancelier des universités, prévues par les textes règlementaires pris pour l'application des articles mentionnés à ̀ l'alinéa précédent ainsi que ceux pris pour l'application de l'article L. 719-5 du même code, à l'exception des dispositions relatives à la nomenclature budgétaire et à l'approbation du plan comptable des établissements publics à caractère scientifique, culturel et professionnel.
 
 L'inspecteur général des armées chargé de l'armement exerce les attributions dévolues à l'inspection générale de l'éducation, du sport et de la recherche par l'article L. 719-9 du code de l'éducation.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

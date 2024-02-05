@@ -7,3 +7,6 @@ Le militaire peut demander le bénéfice du congé de solidarité familiale :
 2° Par périodes fractionnées d'au moins sept jours consécutifs dont la durée cumulée ne peut excéder six mois.
 
 Le militaire qui souhaite bénéficier d'un fractionnement de ce congé communique par écrit au commandant de la formation administrative ou à l'autorité équivalente dont il relève le calendrier mensuel de ses journées de congé de solidarité familiale au plus tard quinze jours avant le début de chaque mois.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

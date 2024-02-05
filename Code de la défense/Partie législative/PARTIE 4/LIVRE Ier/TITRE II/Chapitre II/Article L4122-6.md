@@ -13,3 +13,6 @@ IV.-La déclaration d'intérêts ne comporte aucune mention des opinions ou des 
 Au cours de l'exercice des fonctions, toute modification substantielle des intérêts du militaire donne lieu, dans un délai de deux mois, à une déclaration dans les mêmes formes.
 
 Le modèle, le contenu et les modalités de transmission, de mise à jour, de conservation et de consultation de la déclaration d'intérêts ainsi que les modalités de destruction des déclarations transmises par les personnes n'ayant pas été nommées à l'emploi concerné sont fixés par décret en Conseil d'Etat.
+
+NOTA:
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er février 2020.

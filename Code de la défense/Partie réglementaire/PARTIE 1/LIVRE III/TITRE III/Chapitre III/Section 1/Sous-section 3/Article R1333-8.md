@@ -21,3 +21,6 @@ Lorsque l'un de ces seuils est atteint, l'autorisation prend en compte l'ensembl
 Le ministre peut dispenser de l'autorisation des activités concernant des matières qui ne présentent pas de risque vis-à-vis de la prolifération et pour lesquels, en cas d'acte de malveillance, les conséquences potentielles pour les enjeux mentionnés à l'article R. 1333-1 sont réduites. Cette dispense est délivrée par arrêté.
 
 Un arrêté conjoint des ministres compétents précise les modalités d'application du présent article.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023. Se reporter aux conditions prévues à l'article 15.

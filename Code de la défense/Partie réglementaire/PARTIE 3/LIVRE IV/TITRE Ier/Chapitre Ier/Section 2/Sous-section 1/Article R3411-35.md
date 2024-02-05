@@ -45,3 +45,6 @@ d) Deux élèves, dont le cas échéant un ingénieur de l'armement, et un étud
 II.-Le directeur général de l'école, le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil avec voix consultative.
 
 En outre, le président du conseil d'administration peut, de lui-même ou sur demande du directeur général ou d'un cinquième des membres, inviter toute personne dont la contribution serait utile à assister à tout ou partie d'une séance du conseil, avec voix consultative.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

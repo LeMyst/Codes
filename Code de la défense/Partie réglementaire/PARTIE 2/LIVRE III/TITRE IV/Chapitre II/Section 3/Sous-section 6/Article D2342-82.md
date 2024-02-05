@@ -9,3 +9,6 @@ L'inspection ne peut débuter avant que le chef de l'équipe d'accompagnement n'
 Lorsque le plan d'inspection ne peut être notifié à des personnes concernées qui ne sont pas des personnes publiques, une copie de ce plan d'inspection est communiquée à l'officier de police judiciaire désigné par le président du tribunal judiciaire ou par le juge désigné par lui qui inscrit dans son procès-verbal que lesdites personnes n'ont pu être avisées ; cette copie est annexée au procès-verbal.
 
 Lorsque le plan d'inspection ne peut être notifié à des personnes concernées qui sont des personnes publiques, une copie de ce plan d'inspection est adressée, par tout moyen, au représentant de l'Etat territorialement compétent.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

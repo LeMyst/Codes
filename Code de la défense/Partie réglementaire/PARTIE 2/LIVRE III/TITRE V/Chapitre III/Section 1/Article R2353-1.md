@@ -5,3 +5,6 @@ Avant d'entrer en fonctions, les officiers et fonctionnaires mentionnés à l'ar
 En cas de mutation de l'intéressé, il n'y a pas lieu à nouvelle prestation de serment.
 
 Sont dispensés de la présente formalité les officiers et fonctionnaires qui auraient déjà prêté le même serment en vertu d'autres dispositions législatives ou réglementaires.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

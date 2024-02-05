@@ -31,3 +31,6 @@ Il exerce les compétences qui ne sont pas attribuées à une autre autorité pa
 13° Il organise la mutualisation des moyens avec d'autres organismes chargés de la diffusion des savoirs en matière de défense et de sécurité.
 
 Le directeur de l'institut peut déléguer sa signature.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2020-1591 du 16 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

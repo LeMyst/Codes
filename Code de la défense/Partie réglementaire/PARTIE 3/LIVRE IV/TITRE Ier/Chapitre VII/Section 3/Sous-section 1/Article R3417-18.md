@@ -7,3 +7,6 @@ II.-Par délégation du conseil d'administration et dans le respect des orientat
 1° Aux investissements financiers dans les conditions prévues par la convention ;
 
 2° Aux investissements immobiliers.
+
+NOTA:
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-18 entrent en vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.

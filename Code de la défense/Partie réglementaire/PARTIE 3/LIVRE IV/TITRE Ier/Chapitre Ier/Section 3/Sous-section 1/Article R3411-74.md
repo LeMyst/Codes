@@ -9,3 +9,6 @@ L'ordre du jour des séances de chacun des deux conseils est établi par le pré
 Un conseil ne peut valablement délibérer que lorsque la majorité des membres en exercice sont présents. Si cette condition n'est pas réalisée, le conseil est convoqué à nouveau dans un délai de quinze jours ; ses délibérations sont alors valables quel que soit le nombre des membres présents.
 
 Les modalités de mise en œuvre des dispositions du présent article sont précisées par le règlement intérieur.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

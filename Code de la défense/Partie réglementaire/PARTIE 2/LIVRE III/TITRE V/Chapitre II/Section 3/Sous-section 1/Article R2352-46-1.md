@@ -19,3 +19,6 @@ II.-A la demande de l'un des ministres mentionnés à l'article R. 2352-6, les d
 1° A trois mois, pour les autorisations de transfert simple à destination ou au départ de la France ;
 
 2° De moitié, pour les autres autorisations.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

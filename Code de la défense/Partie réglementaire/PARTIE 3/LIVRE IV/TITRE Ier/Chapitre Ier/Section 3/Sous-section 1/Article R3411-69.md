@@ -7,3 +7,6 @@ Le directeur général est également assisté par un directeur général des se
 Le directeur général des services est nommé par arrêté du ministre de la défense sur proposition du directeur général. Le directeur de la formation et le directeur de la recherche sont nommés par le directeur général, après avis du conseil d'administration.
 
 Le directeur général peut déléguer sa signature aux personnels placés sous son autorité, dans la limite de leurs attributions.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

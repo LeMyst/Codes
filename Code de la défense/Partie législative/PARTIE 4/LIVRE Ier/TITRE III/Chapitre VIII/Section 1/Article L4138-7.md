@@ -9,3 +9,6 @@ Pendant les jours de congés de présence parentale, le militaire n'acquiert pas
 Si, à l'issue de la période de congé de présence parentale ou en cas de décès de l'enfant, le militaire ne peut être maintenu dans son emploi, il est affecté dans un emploi le plus proche possible de son ancienne affectation ou de sa résidence, sous réserve des nécessités du service. Cette disposition s'applique également dans le cas où le militaire demande à mettre fin, avant son terme, au congé de présence parentale dont il bénéficiait.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-733 du 28 avril 2022, ces dispositions entrent en vigueur le lendemain du jour de la publication dudit décret.

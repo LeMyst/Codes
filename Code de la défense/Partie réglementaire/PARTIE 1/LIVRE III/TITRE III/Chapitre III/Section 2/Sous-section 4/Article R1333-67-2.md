@@ -7,3 +7,6 @@ Les installations, ouvrages, travaux et activités, implantés ou effectués dan
 2° Les résultats de l'enquête publique ainsi que les avis recueillis sont transmis par le préfet au délégué.
 
 3° L'autorisation délivrée par le délégué est communiquée au préfet.L'information des tiers est assurée par ce dernier dans le respect des exigences liées à la défense nationale.
+
+NOTA:
+Se reporter aux dispositions de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.

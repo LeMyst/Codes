@@ -7,3 +7,6 @@ Le versement est effectué avec prise d'effet au premier jour de l'arrêt de tra
 En cas de prolongation de l'arrêt de travail initial, le versement de l'allocation est maintenu conformément à la durée figurant sur le document délivré par un professionnel de santé.
 
 Le versement de l'allocation cesse à la date de la fin de l'arrêt de travail initial ou prolongé ou à la date de la consolidation ou de la guérison prévue à l'article L. 433-1 du code de la sécurité sociale, ainsi qu'en cas de reprise d'activité intervenant avant l'écoulement du délai de l'arrêt de travail.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-1031 du 11 août 2020, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux demandes se rapportant aux arrêts de travail consécutifs à une rechute en cours à la date de la publication de ce décret ou survenue après la publication de celui-ci.

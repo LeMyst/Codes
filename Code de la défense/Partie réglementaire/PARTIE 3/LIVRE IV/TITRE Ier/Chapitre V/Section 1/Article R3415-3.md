@@ -11,3 +11,6 @@ Pour l'exercice de ses missions, l'Etablissement de communication et de producti
 4° Conclure des accords ou des contrats de coopération avec toutes personnes publiques ou privées, en accord avec les missions de l'établissement ;
 
 5° Acquérir et exploiter tous droits de propriété littéraire ou artistique, et valoriser selon toute modalité appropriée tout apport intellectuel lié à ses activités.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

@@ -35,3 +35,6 @@ Les jours de permissions dont le report est autorisé par le deuxième alinéa d
 Le militaire ne peut donner que des jours de permissions entiers et dûment acquis.
 
 Le militaire qui donne un ou plusieurs jours de permissions signifie par écrit, auprès du commandant de la formation administrative ou de l'autorité équivalente dont il relève, le don et le nombre de jours de permissions afférents. Le don est définitif après accord du commandant de la formation administrative ou de l'autorité équivalente qui vérifie que les conditions fixées au présent article sont remplies.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

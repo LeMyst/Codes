@@ -13,3 +13,6 @@ Le ministre de la défense définit la politique immobilière de la défense en 
 5° L'article R. 1321-63 du code de la santé publique et les dispositions qui en découlent, en matière d'organisation, au sein des installations, services et organismes relevant du ministère de la défense, de la police des eaux destinées à la consommation humaine.
 
 Pour l'exercice des compétences prévues aux 2° à 4° et par délégation du ministre de la défense, les autorités militaires territorialement compétentes ont recours à l'établissement du service d'infrastructure de la défense territorialement compétent pour l'instruction de ces dossiers et peuvent le solliciter pour assurer sa représentation auprès des services déconcentrés de l'Etat et des collectivités territoriales.
+
+NOTA:
+Se reporter aux dispositions de l'article 6 du décret n° 2017-82 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.

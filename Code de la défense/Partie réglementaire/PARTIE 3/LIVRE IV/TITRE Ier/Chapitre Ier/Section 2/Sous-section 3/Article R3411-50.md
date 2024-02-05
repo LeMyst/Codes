@@ -13,3 +13,6 @@ Les recettes de l'Ecole nationale supérieure de techniques avancées comprennen
 5° Les recettes provenant des dons et legs et de la participation des employeurs au financement des premières formations technologiques et professionnelles ou des formations professionnelles continues, notamment au titre de la taxe d'apprentissage ;
 
 6° Les revenus des biens meubles et immeubles, notamment les produits des locations et, de manière générale, toutes les recettes autorisées par les lois et règlements.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

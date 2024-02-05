@@ -11,3 +11,6 @@ Le mandat des représentants des élèves et des étudiants prend fin au terme d
 Toute vacance par décès, démission ou perte de la qualité au titre de laquelle les intéressés ont été désignés donne lieu à remplacement pour la durée du mandat restant à courir, sauf si cette vacance intervient moins de six mois avant l'expiration du mandat.
 
 Les fonctions de président et de membre du conseil d'administration sont gratuites. Toutefois, leurs frais de séjours et de déplacements sont indemnisés dans les conditions prévues par la réglementation relative aux déplacements temporaires du personnel civil et militaire de l'Etat.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

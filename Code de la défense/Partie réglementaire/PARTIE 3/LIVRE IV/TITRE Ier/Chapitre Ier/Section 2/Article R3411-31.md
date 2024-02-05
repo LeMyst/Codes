@@ -19,3 +19,6 @@ IV.-Sont admises en qualité d'auditeurs les personnes bénéficiant d'une forma
 Les conditions générales d'admission des élèves, des étudiants et des auditeurs sont fixées, pour chaque formation et pour chaque voie d'accès, par arrêté du ministre de la défense.
 
 Les modalités générales de la scolarité et du contrôle des connaissances et les conditions de délivrance des diplômes de l'école sont fixées par arrêté du ministre de la défense.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -17,3 +17,6 @@ Les domaines d'emploi mentionnés au IV de l'article L. 4122-11 sont les suivant
 7° Nucléaire, radiologie, biologie et chimie.
 
 L'arrêté mentionné au IV de l'article L. 4122-11 recense les fonctions relevant du I de ce même article exercées au sein des états-majors, directions et services et des organismes qui leur sont rattachés ainsi qu'au sein des établissements publics placés sous la tutelle du ministre de la défense. Il est actualisé régulièrement.
+
+NOTA:
+Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.

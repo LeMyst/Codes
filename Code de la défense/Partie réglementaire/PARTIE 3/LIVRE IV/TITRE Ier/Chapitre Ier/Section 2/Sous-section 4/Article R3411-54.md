@@ -13,3 +13,6 @@ Le conseil de discipline comprend :
 Le conseil de discipline se réunit sur convocation de son président. Il ne peut délibérer que lorsque quatre de ses membres au moins sont présents, dont au moins la moitié de représentants du personnel enseignant.
 
 Le conseil de discipline se prononce à la majorité absolue des membres présents.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -13,3 +13,6 @@ Un membre empêché d'assister à une séance du conseil d'administration peut d
 Aucun membre ne peut être porteur de plus d'un pouvoir.
 
 Les décisions sont prises à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, la voix du président est prépondérante. Les délibérations du conseil d'administration sont notifiées par son président à l'autorité de tutelle. Elles deviennent exécutoires trente jours après l'avis de réception du procès-verbal par le ministre de la défense à moins que celui-ci n'y fasse opposition.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

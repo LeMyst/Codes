@@ -9,3 +9,6 @@ Le dossier de demande d'agrément technique prévu à l'article R. 2352-97 compr
 3° Un document justifiant la conformité de l'installation fixe ou mobile projetée avec les prescriptions législatives et réglementaires relatives à la sécurité des travailleurs vis-à-vis du risque pyrotechnique.
 
 Un arrêté conjoint du ministre de l'intérieur, du ministre des armées, du ministre chargé de l'environnement et du ministre chargé du travail précise la composition des différents éléments du dossier de demande d'agrément technique et leurs contenus.
+
+NOTA:
+Conformément à l’article 8 du décret n°2019-540 du 28 mai 2019, ces dispositions s'appliquent aux demandes d'agrément technique déposées à compter du premier jour du sixième mois suivant le jour de sa publication.

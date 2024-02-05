@@ -15,3 +15,6 @@ Pour l'application de la partie 1 du code dans les Terres australes et antarctiq
 6° Au dernier alinéa de l'article R. 1333-4, les mots : “et du ministre chargé de l'énergie.” sont remplacés par les mots “du ministre chargé de l'énergie et du ministre de l'outre-mer.” ;
 
 7° Les dispositions des articles R. 1337-18 à R. 1337-22 relatifs à la répartition des ressources industrielles sont adaptées comme il est prévu aux articles R. 6312-6 et R. 6312-7.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.

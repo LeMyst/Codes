@@ -27,3 +27,6 @@ II.-Outre la fourniture de l'étude d'impact, la demande d'autorisation précise
 L'autorité compétente apprécie la demande compte tenu de l'ensemble des éléments précités, au regard des besoins de la défense nationale.
 
 III.-Un arrêté du Premier ministre précise les modalités d'application du présent article et notamment les conditions dans lesquelles il sera rendu compte de l'utilisation du matériel à l'autorité compétente.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-204 du 27 mars 2023, ces dispositions entrent en vigueur le 1er juillet 2023.

@@ -7,3 +7,6 @@ L'autorisation d'exportation de produits explosifs peut être délivrée sous l'
 2° Une autorisation globale, lorsqu'elle est accordée pour l'exportation ou le transfert de plusieurs produits explosifs identifiés vers une personne désignée ou pour l'exportation d'un produit explosif identifié vers plusieurs personnes désignées.
 
 Les modalités de présentation des demandes d'autorisations, les informations à fournir par les demandeurs ainsi que les règles d'utilisation de ces autorisations sont définies par l'arrêté prévu à l'article R. 2352-6. Cet arrêté précise également pour les autorisations globales, les procédures d'organisation et de contrôle interne mises en place pour l'exécution des opérations d'exportation.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

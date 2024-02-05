@@ -13,3 +13,6 @@ Le militaire adresse sa demande par écrit au commandant de la formation adminis
 Cette demande doit être adressée avec la ou les pièces justificatives dont la liste est fixée par arrêté du ministre de la défense.
 
 Elle comprend également la demande de bénéfice de la permission prévue en cas de naissance d'un enfant par l'article R. 4138-26.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

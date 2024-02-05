@@ -19,3 +19,6 @@ b) Toute prestation de service, autre que de formation, faisant intervenir des m
 Pour les moyens de cryptologie mentionnés au 13° de la catégorie A2, les autorisations sont accordées après consultation des ministres intéressés et de l'agence nationale de la sécurité des systèmes d'information.
 
 Ne sont pas soumises à autorisation au titre du présent article les personnes autorisées à acquérir et à détenir des matériels de guerre de la catégorie A2 pour l'exercice des activités mentionnées à l'article R. 312-26, aux 5° et 6° de l'article R. 312-27 et à l'article R. 312-30 du code de la sécurité intérieure.
+
+NOTA:
+Conformément au I de l'article 28 du décret n° 2022-901 du 17 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.

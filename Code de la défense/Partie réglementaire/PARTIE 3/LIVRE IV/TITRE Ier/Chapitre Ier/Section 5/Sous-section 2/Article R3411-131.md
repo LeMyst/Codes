@@ -57,3 +57,8 @@ Le bilan de la politique sociale de l'établissement lui est présenté chaque a
 Le conseil d'administration peut déléguer au directeur général de l'école, dans les conditions et les limites qu'il détermine, le pouvoir d'adopter les décisions modificatives du budget, de conclure des emprunts, de procéder à des acquisitions, aliénations ou échanges d'immeubles, d'ester en justice, de conclure des transactions, d'accepter ou de refuser des dons et legs et de déterminer les tarifications des prestations et services rendus par l'école.
 
 Le directeur général de l'école rend compte, au cours de la réunion suivante du conseil d'administration, des décisions qu'il a prises en vertu de ces délégations.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2018-1158 du 14 décembre 2018, par dérogation aux dispositions du 5° de l'article R. 3411-131, dans sa rédaction issue dudit décret, le ministre de la défense et le ministre chargé du budget établissent le budget initial de l'Ecole de l'air pour son premier exercice.
+
+Par dérogation aux dispositions du vingt-troisième alinéa du même article, les règlements intérieurs en vigueur à la date d'entrée en vigueur dudit décret restent applicables jusqu'au 31 juillet 2019.

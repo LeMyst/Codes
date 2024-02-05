@@ -9,3 +9,6 @@ Les délais prévus aux articles R. 4138-33-5 et R. 4138-33-6 ne sont pas applic
 3° La cessation brutale de l'hébergement en établissement dont bénéficiait la personne aidée.
 
 Dans ces cas, le militaire transmet, sous huit jours, au commandant de la formation administrative ou à l'autorité équivalente dont il relève, le certificat médical qui atteste de la dégradation soudaine de l'état de santé de la personne aidée ou de la situation de crise nécessitant une action urgente du proche aidant ou l'attestation qui certifie de la cessation brutale de l'hébergement en établissement.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

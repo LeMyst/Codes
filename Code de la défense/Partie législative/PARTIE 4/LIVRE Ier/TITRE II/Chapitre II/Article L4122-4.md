@@ -15,3 +15,6 @@ Les mesures de changement de lieu de travail et de modification des horaires de 
 Dans les cas prévus aux 1° et 2° du présent III, les militaires bénéficient des protections prévues aux I et III de l'article 10-1 et aux articles 12 à 13-1 de la loi n° 2016-1691 du 9 décembre 2016 précitée.
 
 IV.-Le militaire qui témoigne de faits relatifs à une situation de conflit d'intérêts de mauvaise foi ou de tout fait susceptible d'entraîner des sanctions disciplinaires ou signale ou relate de tels faits avec l'intention de nuire ou avec la connaissance au moins partielle de l'inexactitude des faits rendus publics ou diffusés est puni des peines prévues au premier alinéa de l'article 226-10 du code pénal.
+
+NOTA:
+Conformément à l’article 18 de la loi n° 2022-401 du 21 mars 2022, ces dispositions entrent en vigueur le premier jour du sixième mois suivant sa promulgation.

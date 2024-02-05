@@ -1,9 +1,6 @@
 # Article L2121-3
 
-Dans les territoires décrétés en état de siège en cas de péril imminent résultant d'une guerre étrangère, les juridictions militaires peuvent être saisies quelle que soit la qualité des auteurs principaux ou des complices de la connaissance des infractions prévues et réprimées par les articles 224-1 à 224-5,
-322-6 à 322-11, 410-1 à 413-12, 432-1 à 432-5,
-432-11, 433-1 à 433-3, 433-8, alinéa 2, 442-1 à 442-3,
-443-1, 444-1, 444-2 et 450-1 du code pénal.
+Dans les territoires décrétés en état de siège en cas de péril imminent résultant d'une guerre étrangère, les juridictions militaires peuvent être saisies quelle que soit la qualité des auteurs principaux ou des complices de la connaissance des infractions prévues et réprimées par les articles 224-1 à 224-5, 322-6 à 322-11, 410-1 à 413-12, 432-1 à 432-5, 432-11, 433-1 à 433-3, 433-8, alinéa 2, 442-1 à 442-3, 443-1, 444-1, 444-2 et 450-1 du code pénal.
 
 Les juridictions militaires peuvent en outre connaître :
 

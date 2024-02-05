@@ -17,3 +17,6 @@ Les usagers, autres que ceux mentionnés à l'alinéa précédent, qui ont enfre
 Après que l'intéressé a été mis a ̀ même de présenter ses observations, l'avertissement est prononce ́ par le directeur général de l'école et les autres sanctions sont prononcées par le directeur général de l'école, après avis du conseil de discipline.
 
 L'exclusion définitive est prononcée par l'autorité qui a prononcé l'admission, après avis du conseil de discipline.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

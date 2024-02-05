@@ -7,3 +7,6 @@ Il charge les commissaires des armées désignés à cet effet d'assurer les op�
 Le service du commissariat des armées contribue à l'évaluation de la performance financière des armées et services de soutien ; il leur apporte le concours de ses moyens d'audit comptable et financier.
 
 Il apporte son concours aux autorités de commandement et de direction chargées de s'assurer de la conformité aux dispositions législatives et réglementaires des actes d'administration et de gestion pris dans les armées et services.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

@@ -7,3 +7,6 @@ En cas de renouvellement, il l'adresse au moins quinze jours avant le terme du c
 Il indique dans sa demande les dates prévisionnelles de congé ainsi que, le cas échéant, les modalités de son utilisation.
 
 En vue d'établir ses droits, le militaire fournit à l'appui de sa demande les pièces justificatives mentionnées à l'article D. 3142-8 du code du travail.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

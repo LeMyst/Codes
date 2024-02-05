@@ -19,3 +19,6 @@ Le conseil de la formation de l'Ecole nationale supérieure de techniques avanc�
 Assistent également aux séances avec voix consultative, les personnes dont la présence est demandée pour leur expertise par le directeur général.
 
 Les modalités de composition et de fonctionnement du conseil sont précisées par le règlement intérieur de l'établissement.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

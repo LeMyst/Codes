@@ -11,3 +11,6 @@ Le personnel enseignant, administratif, scientifique et technique de l'Ecole nat
 4° Des ouvriers de l'Etat affectés ou mis à disposition ;
 
 5° Des chargés d'enseignement, recrutés dans les conditions prévues à l'article L. 952-1 du code de l'éducation.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -13,3 +13,6 @@ Le congé d'adoption doit être pris :
 Le congé d'adoption peut succéder immédiatement aux jours de permission supplémentaires attribués en application de l'article R. 4138-26 lors de l'arrivée dans le foyer du militaire d'un enfant placé en vue de son adoption.
 
 Le militaire adresse sa demande par écrit au commandant de la formation administrative ou à l'autorité équivalente dont il relève au moins quinze jours avant la date à laquelle il entend prendre ce congé. Cette demande est accompagnée des pièces justificatives dont la liste est fixée par arrêté du ministre de la défense.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

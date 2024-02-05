@@ -21,3 +21,6 @@ III.-Les dispositions de la présente section visent également à respecter les
 IV.-Le cas échéant, les mesures d'application de la présente section sont prises en cohérence avec celles du chapitre II relatif à la protection des installations d'importance vitale, y compris pour la protection des systèmes d'information.
 
 V.-Ne sont pas soumises aux dispositions de la présente section les matières nucléaires et les activités associées affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion, régies par les dispositions de la section 2 du chapitre Ier du titre Ier du livre IV.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023. Se reporter aux conditions prévues à l'article 15.

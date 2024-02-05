@@ -13,3 +13,6 @@ Les événements familiaux donnent droit à des permissions supplémentaires d'u
 5° Du décès d'un parent du militaire, lorsqu'il s'agit des grands-parents, parents, beaux-parents, frère ou sœur.
 
 Ces jours de permissions sont pris de manière continue ou fractionnée à l'occasion de chaque arrivée d'un enfant placé en vue de son adoption, Ils peuvent être pris, au choix du militaire, à compter du jour de l'arrivée de l'enfant au foyer ou au cours de la période de sept jours consécutifs qui précède son arrivée.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

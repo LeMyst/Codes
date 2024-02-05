@@ -5,3 +5,6 @@ L'officier général peut être maintenu dans la première section :
 1° Sans limite d'âge, quand il a commandé en chef en temps de guerre ou a exercé avec distinction devant l'ennemi le commandement d'une armée ou d'une formation équivalente. Cet officier général peut être pourvu d'emploi ; il est remplacé dans les cadres ;
 
 2° Temporairement au-delà de la limite d'âge de son grade, pour une durée déterminée en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge maximal de maintien en première section. Dans ce cas, l'âge d'annulation de la décote retenu pour l'application des dispositions du 1° du I de l'article L. 14 du code des pensions civiles et militaires de retraite correspond au terme de cette durée déterminée.
+
+NOTA:
+Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

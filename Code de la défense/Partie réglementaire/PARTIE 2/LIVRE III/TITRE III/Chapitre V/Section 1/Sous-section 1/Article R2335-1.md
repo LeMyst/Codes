@@ -7,3 +7,6 @@ II. – Les personnes qui souhaitent procéder à l'importation des matériels m
 III. – Lorsque la demande d'autorisation concerne des matériels destinés à être transbordés dans les ports ou les aérodromes de France, elle est établie comme une autorisation de transit mentionnée à l'article R. 2335-41.
 
 IV. – Les importations, réalisées par les services de l'Etat, de matériels mentionnés au I du présent article en provenance des forces armées françaises ou des membres des administrations et services publics mentionnés aux articles R. 312-22 et R. 312-23 du code de la sécurité intérieure, ne sont pas soumises à autorisation préalable.
+
+NOTA:
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.

@@ -5,3 +5,6 @@ Les autorisations mentionnées aux articles R. 2352-26, R. 2352-28, R. 2352-30, 
 La suspension, la modification, l'abrogation ou le retrait de l'une des autorisations mentionnées au premier alinéa ne peut intervenir qu'après que son titulaire a été mis en mesure de faire valoir ses observations à l'autorité responsable, dans un délai de quinze jours selon les modalités prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes peut suspendre l'autorisation sans délai.
 
 La décision portant suspension, modification, abrogation ou retrait de l'une de ces autorisations est notifiée au titulaire par le chef du service des autorisations de mouvements internationaux d'armes, aux ministres des affaires étrangères, de la défense et de l'intérieur ainsi qu'aux ministres chargés de l'industrie et des douanes.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

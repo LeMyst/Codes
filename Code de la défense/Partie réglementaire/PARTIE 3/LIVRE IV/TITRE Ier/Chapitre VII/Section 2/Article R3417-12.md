@@ -17,3 +17,6 @@ Le conseil d'administration délibère sur les affaires relatives à l'objet de 
 7° Les transactions.
 
 Il propose au ministre de la défense toute mesure tendant à maintenir l'équilibre financier de l'établissement.
+
+NOTA:
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-12 entrent en vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.

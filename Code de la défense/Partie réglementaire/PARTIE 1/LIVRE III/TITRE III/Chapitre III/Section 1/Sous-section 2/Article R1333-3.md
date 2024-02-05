@@ -21,3 +21,6 @@ A l'occasion de la délivrance de l'autorisation ou ultérieurement, le ministre
 Le ministre compétent peut demander au ministre de l'intérieur une enquête administrative sur le fondement de l'article L. 114-1 du code de la sécurité intérieure, préalablement à la délivrance de toute autorisation.
 
 Lorsque l'autorisation porte sur des mouvements d'importation ou d'exportation, le ministre compétent consulte le ministre des affaires étrangères ainsi que, pour ce qui concerne les intérêts mentionnés au III de l'article R. 1333-1, le Premier ministre. Le ministre des affaires étrangères et, le cas échéant, le Premier ministre font connaître leur avis dans un délai de deux mois. A défaut de réponse dans ce délai, leur avis est réputé favorable.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023. Se reporter aux conditions prévues à l'article 15.

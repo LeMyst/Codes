@@ -11,3 +11,6 @@ Le plan contractuel de sécurité, le plan de sécurité d'opérateur ou le plan
 Lorsqu'il apparaît que des informations et supports classifiés sont conservés dans des lieux qui ne sont pas de nature à garantir leur protection, l'autorité administrative peut mettre en demeure la personne morale d'effectuer les travaux nécessaires à leur mise en sécurité dans un délai de trois mois à compter de la notification de la mise en demeure. A l'issue d'une mise en demeure infructueuse, l'autorité administrative peut abroger la décision d'habilitation de la personne morale ou des personnes physiques qui la représentent.
 
 Un arrêté du Premier ministre précise les modalités d'application de ces dispositions.
+
+NOTA:
+Conformément à l'article 10 du décret n° 2019-1271 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er juillet 2021.

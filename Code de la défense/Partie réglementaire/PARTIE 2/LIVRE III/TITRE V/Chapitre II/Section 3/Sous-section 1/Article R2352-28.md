@@ -1,3 +1,6 @@
 # Article R2352-28
 
 Lorsque les transferts de produits explosifs mentionnés à l'article R. 2352-26 ne requièrent pas d'exigences particulières de sûreté, le destinataire des transferts peut obtenir une autorisation de transferts multiples qui le dispense de l'autorisation de transfert simple mentionnée à l'article R. 2352-26. Cette autorisation de transferts multiples est délivrée par le chef du service des autorisations de mouvements internationaux d'armes après avis conforme du ministre de l'intérieur et du ministre chargé de l'industrie pour des quantités de produits explosifs qu'elle fixe et pour une durée déterminée. La décision d'autorisation ou de refus est notifiée par ses soins au demandeur.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

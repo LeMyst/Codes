@@ -19,3 +19,6 @@ I.-Les demandes d'autorisation de rejets liquides et gazeux et de prélèvements
 8° S'agissant des ouvrages, travaux ou activités intéressant des installations ou enceintes placées sous l'autorité hiérarchique du ministre de la défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale, les dispositions des 4°, 5° et 6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le rapport du ministre de la défense et après avis du délégué.
 
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de prélèvements d'eau ainsi que la procédure d'instruction de ces dossiers sont fixés par arrêté du ministre de la défense.
+
+NOTA:
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.

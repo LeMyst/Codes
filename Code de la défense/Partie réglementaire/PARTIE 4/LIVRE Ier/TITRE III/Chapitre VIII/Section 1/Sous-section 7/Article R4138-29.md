@@ -17,3 +17,6 @@ La rémunération du militaire qui exerce une activité lucrative durant une pé
 4° Au montant de la retenue pour pension, s'ils sont supérieurs à 125 % de cette rémunération ;
 
 5° Au montant de la retenue pour pension, dans tous les cas où les émoluments alloués au titre de l'activité exercée pendant le congé sont versés par l'une des administrations et entreprises publiques ou l'un des offices, établissements et organismes publics ou privés, mentionnés à l'article L. 86-1 du code des pensions civiles et militaires de retraite.
+
+NOTA:
+Conformément à l'article 10 du décret n° 2023-394 du 24 mai 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

@@ -5,3 +5,6 @@ Dans les cas de vérification autres que ceux prévus aux articles L. 2342-40 à
 Si la personne qui a qualité pour autoriser l'accès ne peut être avisée ou si elle s'oppose à tout ou partie de l'accès, l'inspection ne peut se dérouler qu'avec l'autorisation du président du tribunal judiciaire ou du juge délégué par lui selon les procédures et dans les conditions mentionnées aux articles L. 2342-40 à L. 2342-45. L'ordonnance comporte, dans ce cas, au lieu et place du périmètre, la désignation de l'installation soumise à vérification.
 
 Toutefois, si la personne mentionnée à l'alinéa précédent est une personne publique autre que l'Etat, l'autorisation d'accès est donnée par une autorité administrative de l'Etat.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

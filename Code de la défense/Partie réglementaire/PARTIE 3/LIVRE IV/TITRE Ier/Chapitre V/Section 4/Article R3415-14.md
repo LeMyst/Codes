@@ -19,3 +19,6 @@ Les recettes de l'établissement comprennent notamment :
 8° Des subventions accordées par l'Etat et les collectivités territoriales et de tout organisme public ou privé, français, étranger ou international ;
 
 9° D'une manière générale, toute autre recette provenant de l'exercice de ses activités et toute autre recette autorisée par les lois et règlements.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

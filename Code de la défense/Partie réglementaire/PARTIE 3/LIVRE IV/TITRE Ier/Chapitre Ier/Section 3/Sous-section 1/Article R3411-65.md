@@ -51,3 +51,6 @@ Le conseil, sur la proposition de son président, peut créer toute commission o
 Le conseil d'administration peut déléguer au directeur général de l'école, dans les conditions et limites qu'il détermine, le pouvoir d'adopter les décisions modificatives du budget ainsi que la possibilité de conclure des emprunts, de procéder à des acquisitions, aliénations ou échanges d'immeubles, de conclure des baux et locations d'immeubles, d'ester en justice, de conclure des transactions, de déterminer les tarifications des prestations et services rendus par l'école, d'adhérer à des organismes dotés de la personnalité morale et d'accepter ou de refuser des dons et legs.
 
 Le directeur général rend compte, lors de la prochaine réunion du conseil d'administration, des décisions prises en vertu de ces délégations.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

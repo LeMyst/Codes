@@ -11,3 +11,6 @@ Nonobstant les dispositions de l'article L. 2344-2, les services de l'Etat déte
 Le nombre d'armes à sous-munitions détenues aux fins définies au 3° ne peut excéder cinq cents à partir de la fin du délai prévu au 1°. Sont également autorisées, à ce titre, leurs sous-munitions explosives, auxquelles s'ajoute un nombre complémentaire de quatre cents sous-munitions explosives acquises hors conteneur.
 
 Les services de l'Etat peuvent confier ces opérations à des personnes agréées.
+
+NOTA:
+Loi n° 2010-819 du 20 juillet 2010 article 6 : La présente loi est applicable à compter du lendemain de la publication au Journal officiel de la convention sur les armes à sous-munitions qui entre en vigueur au plan international le 1er août 2010, si cette publication est postérieure à celle de la présente loi ou à compter du lendemain de la publication de la présente loi, dans le cas contraire. La convention a été publiée par le décret n° 2010-900 du 29 juillet 2010, au Journal officiel du 1er août 2010.

@@ -11,3 +11,6 @@ Pour l'application de la partie 1 à Mayotte :
 4° (supprimé)
 
 5° A l'article R. 1333-18, les mots : et des ministres chargés de l'énergie et des transports sont remplacés par les mots : et des ministres chargés de l'énergie, des transports et de l'outre-mer.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.

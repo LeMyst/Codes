@@ -29,3 +29,6 @@ b) Les formations dispensées, les conditions d'admission des élèves, des étu
 11° Il préside le conseil académique et peut déléguer cette fonction au directeur général de l'enseignement et de la recherche ;
 
 12° Il préside le conseil de la formation de l'officier et peut déléguer cette fonction au directeur général de la formation militaire.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2018-1158 du 14 décembre 2018, par dérogation aux dispositions du 7° de l'article R. 3411-134, dans sa rédaction issue dudit décret, les règlements de scolarité́ en vigueur à la date d'entrée en vigueur de ce dernier restent applicables jusqu'au 31 juillet 2019.

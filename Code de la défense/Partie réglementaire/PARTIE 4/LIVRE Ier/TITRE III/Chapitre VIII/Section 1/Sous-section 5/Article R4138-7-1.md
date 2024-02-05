@@ -5,3 +5,6 @@ Le congé de présence parentale est accordé sur demande écrite du militaire, 
 La demande est accompagnée d'un certificat médical qui atteste de la gravité de la maladie, de l'accident ou du handicap et de la nécessité de la présence soutenue d'un parent et de soins contraignants. Ce certificat, établi par le médecin qui suit l'enfant au titre de la maladie, de l'accident ou du handicap susmentionnés, précise la durée prévisible du traitement de l'enfant.
 
 En cas de dégradation soudaine de l'état de santé de l'enfant ou en cas de situation de crise nécessitant une présence immédiate du militaire bénéficiaire, le délai prévu au premier alinéa ne s'applique pas.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

@@ -23,3 +23,6 @@ Le commandant de la formation administrative ou l'autorité équivalente dont re
 Si ces vérifications révèlent que les conditions ne sont pas satisfaites pour l'octroi du congé, il peut y être mis fin après que l'intéressé a été invité à présenter ses observations.
 
 Le militaire bénéficiaire d'un ou plusieurs jours ainsi donnés reste en position d'activité et conserve sa rémunération pendant sa période d'absence conformément à l'article L. 4138-2. La durée de ce congé est assimilée à une période de service effectif pour tous les droits découlant de l'ancienneté.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

@@ -27,3 +27,6 @@ f) Les enfants orphelins de père et de mère, les enfants orphelins dont la fil
 Sont considérés comme enfants infirmes les enfants atteints d'une infirmité permanente les mettant dans l'incapacité de gagner leur vie, c'est-à-dire, même exerçant une activité, si la rémunération brute de celle-ci n'atteint pas le minimum garanti en application de l'article L. 17 (b) du code des pensions civiles et militaires de retraite à une pension de retraite rémunérant moins de vingt-cinq ans de service.
 
 3° Chacun des ascendants ou survivants qui aurait droit à pension dans les conditions fixées au titre IV du livre Ier du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2022-1630 du 23 décembre 2022 portant diverses dispositions d'application de la réforme de l'adoption (NOR : JUSC2230891D), les dispositions du présent décret entreront en vigueur le 1er janvier 2023 et s'appliquent aux instances introduites à compter de cette date.

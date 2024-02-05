@@ -5,3 +5,6 @@ I. - Pour le contrôle de la mise en œuvre des dispositions du présent chapitr
 II. - Les objectifs de ces actions sont fixés par le ministre ainsi que la participation éventuelle de représentants du ministre pour ces actions. Les conditions d'exécution font l'objet, si nécessaire, d'un accord entre le ministre et le demandeur ou le titulaire de l'autorisation, y compris pour le choix, le cas échéant, des organismes extérieurs tiers sollicités pour ces actions.
 
 III. - Les actions décrites au I sont mises en œuvre aux frais et sous la responsabilité du titulaire ou du demandeur de l'autorisation.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.

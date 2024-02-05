@@ -5,3 +5,6 @@ L'Ecole nationale supérieure de techniques avancées Bretagne est un établisse
 Elle est dénommée sous le sigle ENSTA Bretagne.
 
 Le siège de l'école est fixé à Brest.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

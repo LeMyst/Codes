@@ -15,3 +15,6 @@ Les décisions sont prises à la majorité des voix des personnes présentes et 
 Les membres du conseil d'administration peuvent être consultés par le président, par voie électronique entre deux réunions programmées du conseil, pour toute question urgente. Les décisions sont prises dans les mêmes conditions de quorum et de majorité que celles prévues par le présent article. Il est rendu compte aux membres de la décision prise dès le prochain conseil d'administration.
 
 En matière budgétaire, le conseil d'administration délibère dans les conditions prévues aux articles R. 719-64 à R. 719-72 du code de l'éducation.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

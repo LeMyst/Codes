@@ -21,3 +21,6 @@ Le conseil d'administration détermine les orientations stratégiques, économiq
 9° Il approuve les règles générales des grilles tarifaires des redevances et rémunérations de toute nature dues à l'établissement ;
 
 10° D'une façon générale, il donne son avis sur toute question qui lui est soumise par son président. Il approuve notamment et suit la mise en œuvre du contrat d'objectifs et de performance de l'établissement. Il approuve, en vue de sa transmission à l'autorité de tutelle, le rapport annuel sur l'activité et le fonctionnement de l'établissement.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

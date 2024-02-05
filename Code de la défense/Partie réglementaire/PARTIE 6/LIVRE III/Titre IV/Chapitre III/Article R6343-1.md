@@ -79,3 +79,6 @@ Le certificat international d'importation et le certificat de vérification de l
 13° L'article R. 2352-37 est ainsi rédigé :
 
 “ Art. R. 2352-37.-L'exportation de produits explosifs depuis la collectivité est soumise à autorisation délivrée par le haut-commissaire de la République en Nouvelle-Calédonie qui notifie sa décision d'autorisation ou de refus au demandeur. Les modalités de présentation et de délivrance de cette autorisation sont définies par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. ”
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

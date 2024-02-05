@@ -29,3 +29,6 @@ II.-Il délibère notamment sur les objets ci-après :
 12° Transactions.
 
 III.-Le président peut soumettre toute autre question au conseil de gestion pour délibération ou avis. Il peut également décider que des communications sont portées à la connaissance des membres par le directeur général.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

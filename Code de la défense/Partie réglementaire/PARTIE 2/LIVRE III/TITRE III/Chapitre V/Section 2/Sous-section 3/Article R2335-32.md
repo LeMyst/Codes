@@ -27,3 +27,6 @@ L'entreprise certifiée facilite les vérifications de conformité en assurant, 
 IV. ― Un arrêté du ministre de la défense précise les conditions d'application du présent article, notamment les critères de certification à respecter et les conditions de renouvellement, de suspension ou d'abrogation du certificat.
 
 V. ― Les dispositions du présent article concernant la durée de validité du certificat peuvent être modifiées par décret.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2016-686 du 27 mai 2016, les certificats délivrés sur le fondement de l'article R. 2335-32 du code de la défense en cours de validité à la date du 30 mai 2016 voient leur durée de validité portée à cinq ans à compter de la date de leur délivrance.

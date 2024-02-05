@@ -9,3 +9,6 @@ Sans que les durées cumulées du congé de présence parentale ne puissent êtr
 Le militaire peut choisir de modifier les dates prévisionnelles de congé et les modalités choisies de leur utilisation. Il en informe par écrit, avec un préavis d'au moins quarante-huit heures, le commandant de la formation administrative ou l'autorité équivalente dont il relève, qui régularise sa situation en conséquence.
 
 Ce délai ne s'applique pas lorsque la modification de la modalité ou des modalités d'utilisation de ce congé et des dates prévisionnelles de congé est due à la dégradation soudaine de l'état de santé de l'enfant ou à une situation de crise nécessitant une présence immédiate du militaire.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

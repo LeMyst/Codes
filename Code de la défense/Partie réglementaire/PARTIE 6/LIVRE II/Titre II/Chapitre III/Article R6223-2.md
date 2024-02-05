@@ -19,3 +19,6 @@ Pour l'application de la partie 2 à Saint-Barthélemy :
 7° Au dernier alinéa de l'article R. 2352-32, les mots : "d'un pays tiers à l'Union européenne en France et l'autorisation de transfert de produits explosifs d'un autre Etat membre vers la France ne peuvent être accordées " sont remplacés par les mots : "de toute provenance ne peut être accordée " ;
 
 8° A l'article R. 2352-37, les mots : "de France vers un pays tiers à l'Union européenne " sont remplacés par les mots : "hors de la collectivité ".
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

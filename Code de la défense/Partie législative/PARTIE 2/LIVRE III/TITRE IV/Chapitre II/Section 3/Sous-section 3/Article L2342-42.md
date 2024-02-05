@@ -13,3 +13,6 @@ Celle-ci comporte, outre le visa du mandat d'inspection et, le cas échéant, la
 4° La localisation des lieux soumis à la vérification ;
 
 5° Le périmètre.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

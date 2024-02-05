@@ -29,3 +29,6 @@ a) Trois personnalités qualifiées dans les domaines de la sécurité nationale
 b) Trois auditeurs civils ayant satisfait aux obligations des sessions, sur proposition du secrétaire général de la défense et de la sécurité nationale.
 
 Lorsque le président ne peut présider une séance, le conseil est présidé par le secrétaire général de la défense et de la sécurité nationale. A défaut, un président de séance est élu à la majorité des membres présents, réputés présents ou représentés.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2020-1591 du 16 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

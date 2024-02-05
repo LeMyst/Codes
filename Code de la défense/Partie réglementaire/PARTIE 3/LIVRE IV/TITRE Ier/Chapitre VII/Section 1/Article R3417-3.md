@@ -9,3 +9,6 @@ Cet établissement a pour mission de :
 3° Participer au logement des personnels militaires, notamment par l'acquisition de biens immobiliers et par l'octroi de prêts aux organismes de logement social contre réservation de logements ;
 
 4° Accorder, pendant la durée de l'hospitalisation, des aides permettant d'accompagner les familles des militaires hospitalisés à la suite d'une blessure liée au service.
+
+NOTA:
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-3 entrent en vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.

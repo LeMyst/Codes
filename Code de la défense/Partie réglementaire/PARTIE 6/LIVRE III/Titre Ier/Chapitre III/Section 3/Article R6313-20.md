@@ -21,3 +21,6 @@ Pour l'application de la partie 2 dans les îles Wallis et Futuna, en Polynésie
 8° A l’article R. 2352-16, les mots : " aux articles L. 4732-1 à L. 4744-7, L. 4745-1, L. 8114-1 à L. 8114-2 et L. 8224-1 à L. 8224-4 du code du travail " sont remplacés par les mots : " des dispositions du droit du travail localement applicables en matière de santé et de sécurité au travail, de contrôle de l’inspection du travail ou de travail illégal " ;
 
 9° Au dernier alinéa de l’article R. 2352-32, les mots : " d’un pays tiers à l’Union européenne en France et l’autorisation de transfert de produits explosifs d’un autre Etat membre vers la France ne peuvent être accordées " sont remplacés par les mots : " de toute provenance ne peut être accordée ".
+
+NOTA:
+Conformément à l'article 16 du décret n° 2022-57 du 24 janvier 2022, ces dispositions entrent en vigueur le premier jour du quatrième mois après publication dudit décret au Journal officiel de la République française dans l'ensemble du territoire de la République.

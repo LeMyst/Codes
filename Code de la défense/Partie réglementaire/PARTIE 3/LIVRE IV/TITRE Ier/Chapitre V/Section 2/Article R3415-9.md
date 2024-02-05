@@ -25,3 +25,6 @@ Il dirige l'établissement dans le cadre des orientations définies par le conse
 10° Il conclut les autorisations d'occupation dans le cadre des conventions d'utilisation en vigueur.
 
 Le directeur peut déléguer sa signature. Il informe le conseil d'administration des délégations accordées.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

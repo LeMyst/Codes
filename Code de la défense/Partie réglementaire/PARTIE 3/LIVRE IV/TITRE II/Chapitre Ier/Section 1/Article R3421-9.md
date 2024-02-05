@@ -7,3 +7,6 @@ Un arrêté du ministre chargé du budget et du ministre de la défense précise
 Des régies d'avances et de recettes peuvent être instituées conformément au décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avance des organismes publics.
 
 Le contrôle de l'établissement est exercé conformément au décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat. Un arrêté du ministre chargé du budget précise les modalités de ce contrôle.
+
+NOTA:
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le premier jour du sixième mois suivant cette même date.

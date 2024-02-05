@@ -27,3 +27,6 @@ j) Le directeur du budget ou son représentant ;
 k) Le président du Centre national du cinéma et de l'image animée ou son représentant ;
 
 2° Quatre personnalités qualifiées nommées en raison de leurs compétences dans les domaines d'activité de l'établissement, notamment la production audiovisuelle ou les archives, par arrêté du ministre de la défense, dans les conditions prévues à l'article 52 de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2021-1719 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues audit article 16.

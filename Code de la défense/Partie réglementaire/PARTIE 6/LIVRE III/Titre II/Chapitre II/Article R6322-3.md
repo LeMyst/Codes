@@ -19,3 +19,6 @@ Pour l'application de la partie 1 du code dans les îles Wallis et Futuna :
 8° Les dispositions relatives à la mise en œuvre de la sécurité nationale dans les secteurs relevant de la compétence des îles Wallis et Futuna s'appliquent sous réserve des mesures d'adaptation nécessitées par l'organisation particulière du territoire ;
 
 9° Les dispositions des articles R. 1337-18 à R. 1337-22 relatifs à la répartition des ressources industrielles sont adaptées comme il est prévu aux articles R. 6312-6 et R. 6312-7.
+
+NOTA:
+Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023.

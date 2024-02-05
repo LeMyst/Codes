@@ -45,3 +45,6 @@ c) Deux élèves, dont un ingénieur des études et techniques d'armement, et un
 II.-Le directeur général de l'école, le contrôleur budgétaire près l'Ecole nationale supérieure de techniques avancées Bretagne et l'agent comptable assistent aux séances du conseil avec voix consultative.
 
 En outre, le président du conseil d'administration peut, de lui-même ou sur demande du directeur général ou d'un cinquième des membres, inviter toute personne dont la contribution serait utile à assister à tout ou partie d'une séance du conseil, avec voix consultative.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

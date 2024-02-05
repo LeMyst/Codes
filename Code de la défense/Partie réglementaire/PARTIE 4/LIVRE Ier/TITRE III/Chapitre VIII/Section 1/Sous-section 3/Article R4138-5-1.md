@@ -11,3 +11,6 @@ Le congé peut être reporté au-delà de ce délai lorsque :
 3° L'enfant décède : le congé de paternité et d'accueil de l'enfant est alors pris dans les six mois qui suivent le décès ;
 
 4° Les nécessités liées à la préparation et à la conduite des opérations ainsi qu'à la bonne exécution des missions des forces armées et formations rattachées ne permettent pas le bénéfice de ce droit dans le délai prévu au premier alinéa. Ce congé doit alors être pris dès que la période disponible entre deux missions le permet.
+
+NOTA:
+Se reporter aux conditions d’application prévues par l’article 21 du décret n° 2021-1032 du 3 août 2021.

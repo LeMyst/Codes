@@ -1,3 +1,6 @@
 # Article R2352-31
 
 L'importation de produits explosifs d'un pays tiers à l'Union européenne en France est soumise à autorisation d'importation délivrée par le chef du service des autorisations de mouvements internationaux d'armes après avis conforme du ministre de l'intérieur et du ministre chargé de l'industrie. La décision d'autorisation ou de refus est notifiée par ses soins au demandeur.
+
+NOTA:
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.

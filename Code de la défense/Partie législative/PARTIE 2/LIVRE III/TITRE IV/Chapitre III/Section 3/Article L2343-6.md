@@ -9,3 +9,6 @@ Si la personne qui a qualité pour autoriser l'accès ne peut être atteinte par
 Le président du tribunal judiciaire ou le juge délégué par lui s'assure que la demande d'inspection est conforme aux stipulations de la convention d'Ottawa. Il s'assure également de l'existence du mandat d'inspection. Il vérifie l'habilitation des membres de l'équipe d'inspection et des accompagnateurs et de toute autre personne pour laquelle l'accès est demandé. Le président ou le juge délégué par lui statue immédiatement par ordonnance. L'ordonnance comporte le mandat d'inspection, la liste nominative des membres de l'équipe d'inspection, des accompagnateurs et de toute autre personne autorisée, la localisation des lieux soumis à la visite.
 
 La visite s'effectue sous le contrôle du juge qui l'a autorisée et qui désigne, à cet effet, un officier de police judiciaire territorialement compétent chargé d'assister aux opérations. L'ordonnance est notifiée par l'autorité administrative de l'Etat, sur place au moment de la visite, aux personnes concernées qui en reçoivent copie intégrale contre récépissé. En leur absence, la notification est faite après la visite par lettre recommandée avec avis de réception.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

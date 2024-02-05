@@ -15,3 +15,6 @@ b) Effectuent ponctuellement un vol, une ascension ou un saut en parachute sans 
 a) Sont titulaires du brevet du personnel navigant et justifient de l'exécution des épreuves périodiques de contrôle d'entraînement ou admis à effectuer des vols en vue de l'obtention de ce brevet, et perçoivent à ce titre une indemnité pour risques professionnels ;
 
 b) Effectuent un vol, une ascension ou un saut en parachute et perçoivent à ce titre une indemnité journalière pour risques professionnels ou une indemnité journalière pour services aériens techniques ou une indemnité journalière de vol.
+
+NOTA:
+Conformément à l'article 10 du décret n° 2023-394 du 24 mai 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

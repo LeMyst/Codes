@@ -5,3 +5,6 @@ Le conseil de la formation est consulté sur les questions relatives à la forma
 Il donne son avis sur toute question qui lui est soumise par le directeur général de l'école.
 
 Il entend, à leur demande et sur les sujets le concernant, les personnels de l'école concernés par les activités d'enseignement.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

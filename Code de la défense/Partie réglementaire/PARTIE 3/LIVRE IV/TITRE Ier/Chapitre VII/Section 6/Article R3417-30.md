@@ -41,3 +41,6 @@ j) Les produits des dons et legs ;
 3° Pour le siège :
 
 Le prélèvement annuel pour le financement des dépenses de personnel et de fonctionnement du siège.
+
+NOTA:
+Conformément à l'article 10 du décret n° 2023-394 du 24 mai 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

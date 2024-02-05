@@ -25,3 +25,6 @@ Il exerce notamment les compétences suivantes :
 8° Il nomme et affecte à tous les emplois et toutes les fonctions pour lesquels aucune autre autorité n'a reçu pouvoir de nomination.
 
 En outre, le directeur général ou son représentant préside le conseil de la formation et le conseil de la recherche.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -15,3 +15,6 @@ II.-Dans le cadre de ses missions, l'Ecole nationale supérieure de techniques a
 2° Promeut, diffuse et valorise les résultats de ses activités de formation et de recherche ;
 
 3° Dispense un enseignement supérieur au titre de la formation continue destinée au personnel civil et militaire des administrations de l'Etat intervenant en particulier dans les secteurs de la défense, des transports et de l'énergie.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

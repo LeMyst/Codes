@@ -9,3 +9,6 @@ Elle transmet son avis sur la demande d'allocation au dernier ministère d'emplo
 La décision prise est notifiée dans un délai de deux mois à compter de la transmission par la caisse nationale militaire de sécurité sociale au dernier ministère d'emploi, de la totalité des éléments nécessaires à l'instruction de la demande.
 
 La notification est réalisée par tout moyen lui conférant date certaine.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-1031 du 11 août 2020, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux demandes se rapportant aux arrêts de travail consécutifs à une rechute en cours à la date de la publication de ce décret ou survenue après la publication de celui-ci.

@@ -7,3 +7,6 @@ Il examine le bilan annuel des activités de recherche des laboratoires et des a
 Il donne son avis sur toute question qui lui est soumise par le directeur général de l'école.
 
 Il entend, à leur demande et sur les sujets le concernant, les personnels de l'école concernés par les activités de recherche.
+
+NOTA:
+Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

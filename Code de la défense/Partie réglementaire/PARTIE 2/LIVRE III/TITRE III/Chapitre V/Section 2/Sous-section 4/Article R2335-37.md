@@ -13,3 +13,8 @@ La personne contrôlée doit mettre un local adapté à la disposition de tout a
 A l'issue du contrôle effectué sur place, l'agent habilité établit un procès-verbal de contrôle relatant les constatations effectuées.
 
 Les procès-verbaux de contrôle établis par les agents habilités du ministère de la défense sont transmis à un comité chargé du contrôle a posteriori placé auprès du ministre de la défense et dont l'organisation et les compétences sont fixées par arrêté du ministre de la défense.
+
+NOTA:
+Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9 janvier 2014.
+
+Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 4 juin 2014.

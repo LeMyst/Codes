@@ -11,3 +11,6 @@ Le règlement intérieur général de l'établissement précise la composition d
 Les représentants des élèves mentionnés aux articles R. 3411-127 et R. 3411-140 sont désignés par le directeur général de l'école à la suite d'une élection au sein de leur promotion. Les modalités de cette élection sont précisées dans le règlement intérieur général.
 
 Les dispositions de l'article D. 719-40 du code de l'éducation s'appliquent. Toutefois, le recours préalable est présenté, dans un délai de cinq jours à compter de l'affichage des résultats, devant le directeur général de l'école qui statue dans les huit jours.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2018-1158 du 14 décembre 2018, les premières élections des représentants du personnel, des élèves et des étudiants aux différents conseils de l'Ecole de l'air sont organisées dans les conditions prévues par l'article R. 3411-149 du code de la défense et précisées par le règlement intérieur général provisoire, adopté par le directeur général dans un délai de quatre mois à compter de la publication dudit décret.

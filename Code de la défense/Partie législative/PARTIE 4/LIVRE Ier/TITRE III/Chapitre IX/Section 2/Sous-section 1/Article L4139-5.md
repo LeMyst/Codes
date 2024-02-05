@@ -23,3 +23,6 @@ III. ― Sous réserve des dispositions prévues au VI de l'article 89 de la loi
 2° Soit, s'il n'a pas bénéficié de la totalité de ce congé, au plus tard deux ans après l'utilisation d'une fraction du congé fixée par décret et au moins égale à quarante jours. Dans ce cas, les durées d'activité effectuées dans l'une des situations mentionnées aux a à d et f du 1° de l'article L. 4138-2 ainsi que, le cas échéant, la durée des missions opérationnelles accomplies sur ou hors du territoire national sont pour partie comptabilisées dans le calcul de cette période de deux ans, dans des conditions fixées par décret en Conseil d'Etat ;
 
 3° Soit à l'expiration du congé complémentaire de reconversion.
+
+NOTA:
+Se reporter aux conditions d'application prévues au II de l'article 33 de la loi n° 2023-703 du 1er août 2023.

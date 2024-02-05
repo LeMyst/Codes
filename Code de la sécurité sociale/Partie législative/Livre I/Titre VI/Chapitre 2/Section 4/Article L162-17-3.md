@@ -23,3 +23,6 @@ Les membres du comité et les personnes collaborant à ses travaux sont soumis a
 Les membres du comité adressent au président de celui-ci, à l'occasion de leur nomination ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs ou indirects, avec les entreprises ou établissements dont les produits entrent dans son champ de compétence, ainsi qu'avec les sociétés ou organismes de conseil intervenant dans ces secteurs. Le président adresse la même déclaration à l'autorité compétente de l'Etat. Cette déclaration est rendue publique et est actualisée par ses auteurs à leur initiative.
 
 Les ministres auprès desquels est placé le Comité économique des produits de santé désignent, dans les conditions définies au II de l'article L. 1451-4 du code de la santé publique, un déontologue chargé, pour le comité, de la mission définie au même II.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

@@ -5,3 +5,6 @@ Indépendamment de la majoration de rente qu'elle reçoit en vertu de l'article 
 De même, en cas d'accident suivi de mort, les ayants droit de la victime mentionnés aux articles L. 434-7 et suivants ainsi que les ascendants et descendants qui n'ont pas droit à une rente en vertu desdits articles, peuvent demander à l'employeur réparation du préjudice moral devant la juridiction précitée.
 
 La réparation de ces préjudices est versée directement aux bénéficiaires par la caisse qui en récupère le montant auprès de l'employeur.
+
+NOTA:
+Dans sa décision n° 2010-8 QPC du 18 juin 2010 (NOR : CSCX1016222S), le Conseil constitutionnel a déclaré, sous la réserve énoncée au considérant 18, les dispositions de l'article L. 452-3 du code de la sécurité sociale conformes à la Constitution.

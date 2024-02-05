@@ -21,3 +21,6 @@ f) S'agissant des personnes mentionnées au deuxième alinéa de l'article D. 71
 3° A 3,2 % pour les avantages de retraite servis par un régime spécial, soit en application de ses propres règles, soit au titre de l'article D. 173-1 ;
 
 4° A 4,20 % pour les avantages de retraite complémentaire mentionnés à l'article D. 711-3.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er mars 2018.

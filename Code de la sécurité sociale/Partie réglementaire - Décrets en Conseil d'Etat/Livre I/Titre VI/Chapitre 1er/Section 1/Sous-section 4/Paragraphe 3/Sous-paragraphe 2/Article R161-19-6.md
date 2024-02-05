@@ -5,3 +5,6 @@ I. - La quotité de temps de travail mentionnée au 1° de l'article L. 161-22-1
 II. - Pour les salariés des particuliers employeurs autres que ceux mentionnés au III, la durée de travail à temps complet prise en compte est celle prévue par la convention ou l'accord collectif de travail qui leur est applicable ou, à défaut, celle fixée par décret.
 
 III. - Pour l'application aux assistants maternels salariés par des particuliers employeurs, la quotité de travail à temps partiel est déterminée à partir du nombre moyen d'heures d'accueil par contrat de travail rapporté au nombre d'heures hebdomadaires, au-delà duquel les heures travaillées donnent lieu à une majoration de rémunération, fixé par la convention ou l'accord collectif de travail qui leur est applicable ou, à défaut, celui fixé par décret. Cette dernière durée est multipliée par quarante-sept douzièmes lorsque la durée de travail est mensuelle, et par quarante-sept lorsque la durée de travail est annuelle.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.

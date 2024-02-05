@@ -17,3 +17,6 @@ En cas de demande d'audition, cette audition, dont la date est fixée par la com
 L'avis définitif est communiqué à l'entreprise, avec copie au comité économique des produits de santé et à l'Union nationale des caisses d'assurance maladie. Il est rendu public.
 
 Lorsque, avant l'émission de l'avis définitif correspondant de la commission, l'entreprise procède au retrait d'une demande d'inscription, de modification des conditions d'inscription ou de réévaluation relative aux listes mentionnées au premier alinéa du présent III, la commission, sauf impossibilité, achève son examen et rend public son avis.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

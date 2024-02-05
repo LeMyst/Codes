@@ -17,3 +17,8 @@ Le régime général de sécurité sociale couvre :
 La couverture des risques mentionnés aux 1° et 2° du présent article s'exerce par l'affiliation au régime général, à titre obligatoire, des personnes mentionnées aux mêmes 1° et 2°.
 
 Il peut être fait appel également au régime général pour couvrir un ou plusieurs risques ou charges pour des catégories d'assurés définies par la loi.
+
+NOTA:
+Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.

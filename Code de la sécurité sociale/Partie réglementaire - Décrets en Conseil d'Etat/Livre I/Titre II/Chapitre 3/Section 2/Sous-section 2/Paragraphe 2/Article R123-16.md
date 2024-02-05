@@ -23,3 +23,6 @@ Il peut déléguer, sous sa responsabilité, une partie de ses pouvoirs à certa
 Le directeur décide des actions en justice à intenter au nom de l'école et représente celle-ci en justice et dans les actes de la vie civile. Il peut donner mandat à des agents de l'école en vue d'assurer la représentation de celle-ci en justice et dans les actes de la vie civile.
 
 Le directeur est responsable de la discipline des élèves et des stagiaires et fixe leurs congés.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

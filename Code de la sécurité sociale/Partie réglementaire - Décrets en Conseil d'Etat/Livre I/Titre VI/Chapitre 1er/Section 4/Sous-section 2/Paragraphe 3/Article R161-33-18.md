@@ -21,3 +21,8 @@ IV.-Les assurés sont informés de la mise en œuvre du traitement de données m
 Le droit d'opposition prévu à l'article 56 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ne s'applique pas à ce traitement.
 
 Le droit d'accès aux données de ce traitement s'exerce auprès de l'organisme gestionnaire de l'assurance maladie obligatoire de rattachement de l'assuré.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

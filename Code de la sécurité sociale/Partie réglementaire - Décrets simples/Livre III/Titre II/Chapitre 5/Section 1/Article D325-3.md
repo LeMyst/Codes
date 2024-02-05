@@ -35,3 +35,8 @@ La durée du mandat des membres du conseil d'administration est celle fixée à 
 Les membres du conseil d'administration sont nommés par arrêté pris par le responsable du service mentionné à l'article R. 155-1.
 
 Les dispositions des articles L. 231-6 et L. 231-6-1 sont applicables aux membres du conseil d'administration.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Par dérogation à l'article D. 231-1 du code de la sécurité sociale, la durée des mandats des membres du conseil d'administration du régime local d'assurance maladie complémentaire obligatoire des départements du Haut-Rhin, du Bas-Rhin et de la Moselle qui seront désignés ou élus dans le cadre du prochain renouvellement suivant la publication du présent décret est fixée à deux ans.

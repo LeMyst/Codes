@@ -25,3 +25,6 @@ Le président du fonds exerce les attributions suivantes :
 11° Il établit, sur la base des éléments qui lui sont transmis par les régimes, administration ou services concernés, un rapport annuel sur le contrôle interne des opérations que le fonds prend en charge ;
 
 12° Il soumet à l'approbation du conseil d'administration des propositions de placements ou dépôts des disponibilités excédant les besoins de trésorerie du fonds, dans le respect des dispositions de l'article R. 135-14.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2015-1240 du 7 octobre 2015, les dispositions du présent article entrent en vigueur à la date de publication de la nomination du président du fonds de solidarité vieillesse en application du septième alinéa de l'article R. 135-2, et au plus tard le 1er janvier 2016.

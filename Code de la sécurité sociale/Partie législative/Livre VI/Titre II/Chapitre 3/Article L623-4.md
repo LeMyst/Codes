@@ -5,3 +5,6 @@ En cas de décès de la mère au cours de la période d'indemnisation de la cess
 Le père peut demander le report de tout ou partie de la période d'indemnisation à laquelle il a droit, dans des conditions fixées par décret.
 
 Lorsque le père de l'enfant ne demande pas à bénéficier de l'indemnité et de l'allocation, le droit prévu au présent article est accordé au conjoint de la mère ou à la personne liée à elle par un pacte civil de solidarité ou vivant maritalement avec elle lorsque les dispositions du présent livre s'appliquent à eux.
+
+NOTA:
+Conformément aux dispositions du III de l'article 71 de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions s'appliquent aux allocations mentionnées à l'article L. 623-1 du code de la sécurité sociale dont le premier versement intervient à compter du 1er janvier 2019.

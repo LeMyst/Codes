@@ -7,3 +7,6 @@ En cas de demande d'audition, cette audition, dont la date est fixée par la com
 L'avis définitif est communiqué au fabricant, à son mandataire, au distributeur ou à leur représentant et transmis simultanément aux ministres chargés de la santé et de la sécurité sociale. Il est rendu public.
 
 Lorsque, avant l'émission de l'avis définitif de la commission, l'entreprise procède au retrait d'une demande d'inscription, de renouvellement d'inscription, de modification des conditions d'inscription ou de réévaluation relative à la liste prévue à l'article L. 165-11, la commission, sauf impossibilité, achève son examen et rend public son avis.
+
+NOTA:
+Conformément à l'article 2 IV du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission nationale d'évaluation des dispositifs médicaux et des technologies de santé suivant la publication du présent décret.

@@ -9,3 +9,6 @@ Un arrêté du ministre chargé de la sécurité sociale fixe le modèle d'attes
 Lorsque les documents produits par l'assurée ne lui permettent pas de se prononcer, la caisse demande l'avis du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi compétent en raison du lieu où la requérante a exercé son activité.
 
 Dans le cas où cet avis n'est pas parvenu à la caisse dans le délai d'un mois suivant la date à laquelle le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi a été saisi, la caisse prend sa décision en fonction de l'ensemble des éléments d'appréciation dont elle dispose.
+
+NOTA:
+Décret n° 2010-244 du 31 mars 2010, art. 309 II : Les dispositions du 1° du I de l'article 309 ne s'appliquent pas à la région Ile-de-France et ses départements et dans les régions et départements d'outre-mer.

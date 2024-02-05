@@ -11,5 +11,4 @@ Les fractions de taux varient en fonction du nombre de salariés de l'entreprise
 | NOMBRE DE SALARIÉS de l'entreprise (1)  | FRACTION du taux individuel (2)  | FRACTION du taux collectif (2)  |
 | --- | --- | --- |
 | au moins égal à 20 et inférieur à 150  | 0,9/130 × (E-20) + 0,1  | 1-\[0,9/130 × (E-20) + 0,1\]  |
-| (1) L'entreprise peut comporter un ou plusieurs établissements.
-(2) E représente l'effectif de l'entreprise tel que défini à l'article R. 130-1. |
+| (1) L'entreprise peut comporter un ou plusieurs établissements. (2) E représente l'effectif de l'entreprise tel que défini à l'article R. 130-1. |

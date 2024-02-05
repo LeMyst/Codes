@@ -33,3 +33,6 @@ IV.-Lorsque la demande de rectification est présentée postérieurement au dél
 1° En cas de demande formulée par écrit, celle-ci est réputée être exercée dans les conditions du recours préalable mentionné à l'article L. 845-2 ;
 
 2° En cas de demande formulée par oral, le bénéficiaire dispose d'un délai de vingt jours pour produire les documents rappelant sa demande et la justifiant. Le défaut de production de ces documents dans le délai imparti entraîne le rejet de la demande. Si le bénéficiaire produit ces documents dans le délai imparti, sa demande est réputée être exercée dans les conditions du recours préalable mentionné à l'article L. 845-2.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2021-306 du 23 mars 2021, ces dispositions sont applicables aux indus notifiés à compter de l'entrée en vigueur dudit décret.

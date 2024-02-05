@@ -27,3 +27,6 @@ IV.-Lorsque la dernière période d'activité dans l'un des régimes mentionnés
 2° Si les revenus d'activité retenus pour le calcul de la contribution ou des cotisations mentionnées aux premier et deuxième alinéas du I ont été perçus au cours de deux mois civils, le revenu mentionné au premier alinéa correspond à la moyenne mensuelle desdits revenus.
 
 Les règles définies aux troisième et quatrième alinéas du I, au II et aux deuxième et troisième alinéas du III sont également applicables dans la situation prévue au premier alinéa.
+
+NOTA:
+Ces dispositions s'appliquent aux assurés dont la première pension prend effet à compter du 1er janvier 2015.

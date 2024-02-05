@@ -11,3 +11,8 @@ En cas d'admission, la section professionnelle mentionnée à l'alinéa précéd
 ― le montant du versement correspondant à un trimestre ;
 
 ― le montant total du versement correspondant à ce nombre de trimestres.
+
+NOTA:
+Décret n° 2010-1678 du 29 décembre 2010 art. 4 :
+
+Les dispositions du présent décret sont applicables aux demandes présentées à compter du 1er janvier 2011 et jusqu'au 1er janvier 2016.

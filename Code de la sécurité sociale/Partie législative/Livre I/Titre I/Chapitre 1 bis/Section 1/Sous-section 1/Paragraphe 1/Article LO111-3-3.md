@@ -7,3 +7,6 @@ Dans sa partie comprenant les dispositions relatives à l'année en cours, la lo
 2° Rectifie les objectifs de dépenses, par branche, de ces régimes et l'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base ainsi que leurs sous-objectifs approuvés dans la précédente loi de financement de la sécurité sociale ;
 
 3° Rectifie l'objectif assigné aux organismes chargés de l'amortissement de la dette des régimes obligatoires de base et des organismes concourant à leur financement et les prévisions de recettes affectées aux fins de mise en réserve à leur profit.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

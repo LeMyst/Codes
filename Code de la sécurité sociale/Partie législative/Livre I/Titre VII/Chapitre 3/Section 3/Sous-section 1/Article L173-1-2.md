@@ -21,3 +21,6 @@ III bis. - Le présent article est applicable aux assurés nés à compter du 1e
 III ter. - Le II du présent article est également applicable aux pensions de réversion lorsque les pensions de vieillesse de droit propre du conjoint décédé ou disparu ont ou auraient relevé du présent article.
 
 IV. - Sauf disposition contraire, un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+NOTA:
+Conformément à l'article 43 II de la loi n° 2014-40 du 20 janvier 2014, modifié par l'article 54 de la loi n° 2016-1827 du 23 décembre 2016, le I dudit article s'applique aux pensions prenant effet à une date fixée par décret, au plus tard le 1er juillet 2017. Conformément à l'article 4 du décret n° 2017-737 du 3 mai 2017, la date prévue au II de l'article 43 de la loi n° 2014-40 du 20 janvier 2014 est le 1er juillet 2017.

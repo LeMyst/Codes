@@ -21,3 +21,6 @@ b) Trois représentants des travailleurs indépendants ;
 Siègent également, avec voix consultative, un représentant désigné en son sein par l'instance régionale du Conseil de la protection sociale des travailleurs indépendants mentionnée au quatrième alinéa de l'article L. 612-4 et trois représentants élus du personnel.
 
 L'ensemble des membres ainsi désignés participent aux délibérations et à l'exercice des missions du conseil.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1153 du 4 septembre 2021.

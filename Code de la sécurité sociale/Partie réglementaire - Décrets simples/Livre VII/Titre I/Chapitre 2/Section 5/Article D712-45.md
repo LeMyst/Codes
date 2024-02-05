@@ -9,3 +9,6 @@ Lorsque l'intéressé ayant, en vertu des dispositions statutaires ou du règlem
 La liquidation de la pension est effectuée soit sur demande de l'intéressé, soit d'office par l'administration ou l'école dont il relève. Toutefois, cette liquidation ne peut être demandée par l'administration ou l'école tant que l'intéressé n'a pas épuisé ses droits à congé de longue durée.
 
 La pension d'invalidité est suspendue au cas où le bénéficiaire reprend ses fonctions.
+
+NOTA:
+Code de la sécurité sociale D712-8 : champ d'application.

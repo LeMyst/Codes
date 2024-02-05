@@ -11,3 +11,8 @@ II.-Les travailleurs indépendants mentionnés au premier alinéa du I procèden
 III.-Les travailleurs indépendants mentionnés à l'article L. 613-7 souscrivent une déclaration pour le calcul de leurs cotisations et contributions sociales selon les modalités mentionnées à l'article L. 613-8. Ils procèdent par voie dématérialisée au versement de ces cotisations et contributions sociales.
 
 IV.-La méconnaissance de l'obligation de déclaration ou de versement par voie dématérialisée définie au premier alinéa du I et aux II et III du présent article entraîne l'application de la majoration prévue, dans l'un ou l'autre cas, au II de l'article L. 133-5-5 du code de la sécurité sociale.
+
+NOTA:
+Conformément au IV de l’article 19 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions sont applicables à compter des déclarations transmises en 2021 au titre des revenus de l'année 2020.
+
+Pour les travailleurs indépendants mentionnées à l'article L. 646-1 du code de la sécurité sociale, les articles L. 613-2 et L. 613-5 du même code restent applicables dans leur rédaction antérieure à la présente loi jusqu'à une date fixée par décret, et au plus tard au 1er janvier 2023.

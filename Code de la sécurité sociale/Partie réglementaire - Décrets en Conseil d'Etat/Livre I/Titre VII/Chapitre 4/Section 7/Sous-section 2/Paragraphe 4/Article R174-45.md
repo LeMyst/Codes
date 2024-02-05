@@ -15,3 +15,6 @@ II.-Pour l'application du II de l'article L. 162-23-15 aux activités exercées 
 2° Le montant de la sanction proposée par le directeur général de l'agence mentionnée au I est communiqué aux ministres chargés de la santé et de la sécurité sociale et au ministre de la défense. Ce dernier dispose d'un délai d'un mois pour présenter ses observations ;
 
 3° Les ministres chargés de la santé et de la sécurité sociale prononcent la sanction et en informent le ministre de la défense et la notifient à la caisse mentionnée à l'article L. 174-15.
+
+NOTA:
+Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.

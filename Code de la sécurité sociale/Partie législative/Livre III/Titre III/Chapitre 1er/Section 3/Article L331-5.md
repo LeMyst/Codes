@@ -5,3 +5,6 @@ Dans le cas où l'enfant est resté hospitalisé jusqu'à l'expiration de la six
 Toutefois, lorsque l'assurée bénéficie de la période supplémentaire mentionnée au dernier alinéa de l'article L. 331-3, la possibilité de report prévu à l'alinéa précédent ne peut lui être ouverte qu'à l'issue de ladite période.
 
 L'indemnité journalière de repos peut également être attribuée sur prescription médicale pendant une période supplémentaire n'excédant pas deux semaines, dans des conditions déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Loi 2006-340 du 23 mars 2006 art. 15 IV : les dispositions du présent article s'appliquent aux accouchements survenus à partir du 1er janvier 2006 plus de six semaines avant la date prévue et exigeant l'hospitalisation postanatale de l'enfant.

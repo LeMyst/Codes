@@ -9,3 +9,8 @@ III.-Les titulaires de la carte visée au I ci-dessus peuvent demander à l'orga
 IV.-Les organismes gérant un régime de base d'assurance maladie peuvent demander à l'organisme émetteur une carte pour leur personnel appelé à lire et à traiter les documents mentionnés à l'article L. 161-33.
 
 V.-Pour l'identification électronique aux services numériques en santé mentionnés à l'article L. 1470-1 du code de la santé publique, une carte peut être délivrée à tout professionnel inscrit au répertoire sectoriel de référence des personnes physiques mentionné à l'article L. 1470-4 du code de la santé publique, sur demande de celui-ci. Cette carte ne comporte pas les données mentionnées au 4° du I de l'article R. 161-53.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

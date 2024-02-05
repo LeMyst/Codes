@@ -17,3 +17,6 @@ Le nombre de points supplémentaires attribués à ce titre est égal à 200 par
 La valeur de service du point est égale à 0,493 euros pour les prestations servies au titre de l'année 2005.
 
 Le versement de cotisations effectué en application de l'article L. 643-2-1 n'ouvre pas droit à l'attribution de points de retraite supplémentaires.
+
+NOTA:
+Décret n° 2010-1678 du 29 décembre 2010 art. 4 : Les dispositions du présent décret sont applicables aux demandes présentées à compter du 1er janvier 2011 et jusqu'au 1er janvier 2016.

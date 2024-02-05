@@ -13,3 +13,6 @@ II. - Le versement forfaitaire résultant de l'application du b du 2° de l'arti
 La fraction mentionnée au premier alinéa du présent II est fixée par arrêté des ministres chargés de la sécurité sociale et du budget en fonction du nombre de trimestres validés et non écrêtés à ce titre par les régimes concernés au cours de l'année en cause.
 
 Le versement du fonds de solidarité vieillesse est réparti entre le régime général et le régime des salariés agricoles au prorata de leurs effectifs d'assurés bénéficiant des indemnités horaires susmentionnées.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2015-1240 du 7 octobre 2015, les dispositions du présent article sont applicables à compter de l'exercice 2015.

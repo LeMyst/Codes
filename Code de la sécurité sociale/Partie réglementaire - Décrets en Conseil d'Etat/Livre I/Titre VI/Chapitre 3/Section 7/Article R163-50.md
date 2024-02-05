@@ -17,3 +17,6 @@ Le titulaire des droits d'exploitation adresse annuellement aux ministres charg�
 7° Le cas échéant, le prix de vente aux établissements de santé par unité commune de dispensation lorsque la spécialité qui ne dispose pas d'un prix ou d'un tarif en application des articles L. 162-16-4, L. 162-16-5 ou L. 162-16-6 du présent code, est inscrite pour d'autres indications sur la liste L. 5123-2 du code de la santé publique sans faire l'objet d'un prix maximal de vente aux établissements de santé en application de l'article L. 162-16-4-3 du présent code ;
 
 8° Le cas échant, les extensions d'indication susceptibles de faire l'objet d'une demande de prise en charge dans les deux années suivant la demande ainsi que leur calendrier prévisionnel de mise sur le marché.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

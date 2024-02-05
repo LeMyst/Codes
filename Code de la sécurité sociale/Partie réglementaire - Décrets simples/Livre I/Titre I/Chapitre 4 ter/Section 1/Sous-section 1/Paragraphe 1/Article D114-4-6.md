@@ -49,3 +49,6 @@ Cette coordination répond aux principes suivants :
 Le directeur et le directeur comptable et financier définissent, à partir d'une cartographie des risques établie dans les conditions prévues à l'article D. 114-4-7, tous les moyens mis en œuvre afin d'assurer la couverture des risques liés aux activités du régime ou de la branche ainsi que la couverture des risques liés aux opérations effectuées pour leur compte par des organismes délégataires ou des organismes bénéficiant de leur concours financier, y compris les actions de contrôle et de supervision. Les organismes délégataires mettent en place, pour les opérations effectuées pour le compte de la branche ou du régime, des dispositifs de maitrise des risques au titre des activités qui leur sont confiées.
 
 Des instructions et des procédures nationales définissent les principes et règles communs applicables à l'organisme national et le cas échéant aux autres organismes constitutifs du réseau, notamment ceux relatifs au contrôle interne des gestions techniques, des gestions budgétaires et de la comptabilité ainsi qu'au contrôle interne des systèmes d'information.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

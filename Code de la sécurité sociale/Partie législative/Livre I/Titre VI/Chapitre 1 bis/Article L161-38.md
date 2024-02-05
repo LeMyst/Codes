@@ -27,3 +27,8 @@ Le montant de la pénalité est fixé en fonction de la gravité et de la durée
 La pénalité recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les articles L. 137-3 et L. 137-4 sont applicables au recouvrement de la pénalité. Son produit est affecté à la Caisse nationale de l'assurance maladie.
 
 En cas de manquement répété de l'éditeur à ses engagements, les logiciels concernés peuvent perdre leur certification.
+
+NOTA:
+Conformément à l’article 2 de l’ordonnance n° 2020-1408 du 18 novembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret et au plus tard le 31 décembre 2024, en tenant compte des professions concernées, de leurs conditions d'exercice, ainsi que des catégories de soins, produits ou prestations prescrites.
+
+Conformément à l’article 5 du décret n° 2023-1222, ces dispositions entrent en vigueur, au lendemain de la publication dudit décret, le 22 décembre 2023.

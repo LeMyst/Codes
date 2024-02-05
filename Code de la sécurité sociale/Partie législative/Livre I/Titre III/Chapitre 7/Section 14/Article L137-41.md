@@ -9,3 +9,6 @@ II.-Par dérogation au I du présent article, sont exclus de l'assiette de la co
 2° Les pensions mentionnées au a du 4° et aux 12°, 14° et 14° bis de l'article 81 du code général des impôts et les personnes titulaires d'un avantage de vieillesse ou d'invalidité non contributif attribué par le service mentionné au deuxième alinéa de l'article L. 815-7 du présent code ou par un régime de base de sécurité sociale sous les conditions de ressources mentionnées à l'article L. 815-9.
 
 La contribution est recouvrée et contrôlée selon les mêmes règles, garanties et sanctions que celles prévues pour les revenus mentionnés à l'article L. 136-5.
+
+NOTA:
+Conformément au V de l'article 32 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

@@ -11,3 +11,6 @@ La convention est signée par le directeur général de la Caisse nationale de l
 III. – Le fonds ne peut être déficitaire.
 
 IV. – Le ministre chargé de la santé établit un rapport annuel sur les financements assurés par le fonds.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2017-709 du 2 mai 2017, les dispositions du deuxième alinéa du I de l'article D. 221-35 du code de la sécurité sociale entrent en vigueur à compter du prochain renouvellement de la convention d'objectifs et de gestion mentionnée à l'article L. 227-1 du même code conclue avec la Caisse nationale de l'assurance maladie des travailleurs salariés.

@@ -17,3 +17,6 @@ III.-A l'occasion du renouvellement de leur droit, les bénéficiaires de la pro
 Lorsque le foyer remplit les conditions prévues à l'article L. 861-1 et que les droits en cours de l'ensemble des membres du nouveau foyer arrivent à expiration à des dates distinctes, les anciens droits présentant une date d'échéance différée sont interrompus le jour précédant l'ouverture du nouveau droit à la protection complémentaire en matière de santé.
 
 Dans le cas où le nouveau foyer ne remplit pas les conditions pour bénéficier du droit à cette protection ou que des membres du foyer refusent le bénéfice du nouveau droit, les droits antérieurs restent ouverts jusqu'à la date à laquelle ils devaient expirer.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2022-565 du 15 avril 2022, ces dispositions entrent en vigueur le 1er avril 2022.

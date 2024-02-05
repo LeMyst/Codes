@@ -25,3 +25,6 @@ II ter.-Les organismes et administrations auxquels sont destinées les données 
 III.-Les modalités d'application du présent article, la liste des déclarations et formalités auxquelles elle se substitue ainsi que le délai à l'issue duquel l'employeur ayant rempli la déclaration sociale nominative est réputé avoir accompli ces déclarations ou ces formalités sont précisés par décret en Conseil d'Etat.
 
 Ce décret détermine les modalités particulières selon lesquelles sont remplies les obligations prévues aux I et II bis au titre des rémunérations dues à l'occasion des périodes de congés des salariés relevant des caisses mentionnées à l'article L. 3141-32 du code du travail. Il prévoit, le cas échéant, les modalités des échanges d'informations entre ces caisses et les employeurs de ces salariés permettant la transmission, par une déclaration unique, de l'ensemble des données dont la déclaration est obligatoire en application du présent article.
+
+NOTA:
+Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

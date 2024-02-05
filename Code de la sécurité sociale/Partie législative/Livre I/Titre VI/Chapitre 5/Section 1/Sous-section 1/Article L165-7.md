@@ -7,3 +7,6 @@ En aucun cas la différence entre le tarif de responsabilité et le prix de vent
 Le prix d'achat des produits ou prestations acquitté par l'établissement ne peut, le cas échéant, être supérieur au prix mentionné à l'article L. 165-3.
 
 Les produits qui bénéficient de la prise en charge mentionnée à l'article L. 165-1-5 et dont l'utilisation a lieu au cours d'une hospitalisation sont pris en charge par les régimes obligatoires d'assurance maladie en sus des prestations d'hospitalisation mentionnées à l'article L. 162-22-3, sur la base du montant de la facture et dans la limite de la compensation mentionnée au II de l'article L. 165-1-5.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

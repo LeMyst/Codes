@@ -9,3 +9,6 @@ Le montant des cotisations dues au titre du rachat est calculé en appliquant à
 3° Une actualisation au taux de 2,5 % par année civile révolue séparant la date du versement de la fin de la période d'activité en cause.
 
 Le versement des cotisations de rachat peut être échelonné avec l'accord de la caisse compétente, sur une période dont la durée ne peut excéder quatre ans à compter de la notification de l'admission au rachat. Si à l'expiration de ce délai, la totalité des cotisations dues n'a pas été versée, le rachat est annulé et les versements effectués sont remboursés à l'assuré.
+
+NOTA:
+Décret n° 2010-1776 du 31 décembre 2010 article 6 : Ces dispositions sont applicables aux demandes d'adhésion et de rachat déposées à compter du 1er janvier 2011.

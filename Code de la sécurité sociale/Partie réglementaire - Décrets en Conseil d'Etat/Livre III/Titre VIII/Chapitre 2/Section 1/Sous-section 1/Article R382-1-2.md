@@ -13,3 +13,6 @@ I.-Constituent des revenus accessoires d'une des activités définies à l'artic
 II.-Sous réserve que leur bénéficiaire justifie de l'existence de revenus éligibles aux dispositions de l'article R. 382-1-1 sur au moins l'année en cours ou une des deux années précédant l'année en cours, les revenus accessoires sont intégrés à l'assiette des revenus annuels définis à l'article R. 382-1-1 du présent code, sans limite pour ceux relevant du 4° du I, et dans la limite de 1 200 fois la valeur horaire du salaire minimum de croissance en vigueur le 1er janvier de l'année civile considérée, pour les autres revenus mentionnés au I.
 
 Au-delà de cette limite, ces revenus sont soumis au premier euro aux cotisations et contributions de sécurité sociale, en application, selon leur nature, des articles L. 136-1-1 et L. 242-1.
+
+NOTA:
+Conformément au I de l'article 5 du décret n° 2020-1095 du 28 août 2020, ces dispositions sont applicables aux revenus perçus à compter du 1er janvier 2021.

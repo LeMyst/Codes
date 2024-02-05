@@ -11,3 +11,6 @@ Les catégories de données à caractère personnel traitées sont :
 4° Les prises de vue photographique et vidéographique du bénéficiaire faites au moyen du terminal mobile de communications électroniques mentionné au troisième alinéa de l'article R. 161-19-15 ;
 
 5° Les gabarits biométriques nécessaires à la comparaison entre la photographie issue du titre d'identité du bénéficiaire et les prises de vue de son visage.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2023-840 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

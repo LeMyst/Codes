@@ -29,3 +29,6 @@ b) La qualité du bénéficiaire au regard de chacun de ces droits ou prestation
 c) L'état de chacun des droits ou prestations, ainsi que la date d'effet et le motif de cet état ;
 
 d) L'adresse déclarée pour l'ouverture du droit ou le versement de la prestation, la date d'effet de cette adresse et la mention d'incidents s'étant éventuellement produits avec cette adresse si l'organisme en a connaissance, ainsi que, s'ils ont été fournis par le bénéficiaire, les numéros de téléphone et adresses électroniques.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

@@ -9,3 +9,6 @@ L'article L. 115-6 du présent code n'est pas applicable aux personnes écrouée
 Une participation peut être demandée, lorsqu'elles disposent de ressources suffisantes, aux personnes écrouées assurées en vertu du même premier alinéa.
 
 Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au deuxième alinéa du IV de l'article 88 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

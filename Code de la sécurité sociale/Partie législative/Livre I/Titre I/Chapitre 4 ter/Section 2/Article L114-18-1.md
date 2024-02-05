@@ -11,3 +11,6 @@ Lorsque les rectifications mentionnées au I font l'objet d'un dégrèvement ou 
 La prescription applicable à l'amende prévue au même I est acquise à la fin de la quatrième année suivant celle au cours de laquelle la prestation sanctionnée a été fournie.
 
 III. – Le directeur de l'organisme de recouvrement ou de la caisse de mutualité sociale agricole lésé notifie les faits reprochés à la personne en cause et le montant envisagé de la pénalité, afin qu'elle puisse présenter ses observations écrites. Après avoir répondu auxdites observations, le directeur de l'organisme ou de la caisse prononce, le cas échéant, la pénalité et la notifie à l'intéressé par une mise en demeure adressée par tout moyen donnant date certaine à sa réception, en lui indiquant les voies et délais de recours applicables.
+
+NOTA:
+Conformément à l'article 19 IV de la loi n° 2018-898 du 23 octobre 2018, ces dispositions s'appliquent aux prestations fournies à compter du lendemain de la publication de la présente loi.

@@ -521,10 +521,7 @@ Les localisations plus spécifiques sont portées en caractères gras
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| RÉFLEXE
-dénominateur | EXCITATION (TECHNIQUE) | RÉACTION
-normale | LOCALISATION
-d'après l'émergence rachidienne |
+| RÉFLEXEdénominateur | EXCITATION (TECHNIQUE) | RÉACTIONnormale | LOCALISATIONd'après l'émergence rachidienne |
 | Massétérien | Percussion d'une spatule posée sur les dents inférieures, la bouche étant entr'ouverte. | Elévation du maxillaire inférieur | Protubérance annulaire |
 | Bicipital | Percussion d'un tendon bicipital au-dessus du coude, l'avant-bras légèrement fléchi et en supination. | Flexion de l'avant-bras | C5 - C6 |
 | Supinateur ou styloradial | Percussion de l'apophyse styloïde du radius, le coude fléchi à angle droit, le bras en légère supination. | Contraction du long supinateur | C5 - C6 |
@@ -571,21 +568,21 @@ En cas d'atteinte simultanée de plusieurs nerfs d'un même membre, il y a lieu 
 
 |  |  |  |
 | --- | --- | --- |
-|   | DROIT | GAUCHE |
+|  | DROIT | GAUCHE |
 | Paralysie totale du membre supérieur (degré 0, 1, 2 et 3) | 90 | 80 |
-| Plexus brachial : |   |   |
+| Plexus brachial : |  |  |
 | - Paralysie radiculaire supérieure, type Duchenne-Erb (deltoïde, sus-épineux, biceps, brachial antérieur, coraco-brachial, long supinateur, et parfois sous-épineux, sous scapulaire, court supinateur et hémidiaphragme) (degré 0, 1, 2 et 3) | 55 | 45 |
 | Paralysie radiculaire inférieure, type Déjerine-Klumpke (fléchisseurs des doigts et muscles de la main) (degré 0, 1, 2 et 3) | 65 | 55 |
 | Paralysie isolée du nerf sous-scapulaire (grand dentelé, degré 0, 1, 2 et 3) | 10 | 5 |
 | Paralysie du nerf circonflexe (deltoïde petit rond) (degré 0, 1, 2 et 3) | 35 | 30 |
 | Paralysie du nerf musculo-cutané (biceps, brachial antérieur). La flexion de l'avant-bras sur le bras reste possible par l'action du long supinateur (degré 0, 1, 2 et 3) | 25 | 20 |
-| Paralysie du nerf médian : |   |   |
+| Paralysie du nerf médian : |  |  |
 | a. Au bras : (rond-pronateur, fléchisseur commun superficiel, grand et petit palmaires, chefs externes du fléchisseur commun profond, long fléchisseur du pouce, carré pronateur, court abducteur et opposant du pouce, 2 premiers lombricaux) (degré 0, 1, 2 et 3) | 55 | 45 |
 | b. Au poignet (n'atteint que les muscles de la main énumérés ci-dessus) (degré 0, 1, 2 et 3) | 45 | 35 |
-| Paralysie du nerf cubital : |   |   |
+| Paralysie du nerf cubital : |  |  |
 | a. Au bras (cubital antérieur, chefs internes du fléchisseurs commun profond, muscles hypothéraniens et interosseux, deux lombricaux internes, adducteurs du pouce et chef interne de son court fléchisseur) (degré 0, 1, 2 et 3) | 45 | 35 |
 | b. Au poignet (ou muscles de la main ci-dessus, griffe cubitale) (degré 0, 1, 2 et 3) | 35 | 25 |
-| Paralysie du nerf radial : |   |   |
+| Paralysie du nerf radial : |  |  |
 | a. Au-dessus du coude (triceps brachial, anconé, long supinateur, premier et deuxième radial, court supinateur, extenseur commun et extenseur propre du pouce, index, auriculaire, cubital postérieur) (degré 0, 1, 2 et 3) | 55 | 45 |
 | b. Au-dessous du coude, les mêmes muscles, sauf triceps et long supinateur (degré 0, 1, 2 et 3) | 45 | 35 |
 

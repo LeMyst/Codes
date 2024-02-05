@@ -9,3 +9,6 @@ II.-A la suite de la remise du document mentionné au I, la personne contrôlée
 A tout moment de la procédure, la personne contrôlée peut solliciter la mainlevée des mesures conservatoires prises à son encontre en apportant auprès du directeur de l'organisme des garanties suffisantes de paiement.
 
 III.-La décision du directeur de l'organisme peut être contestée selon les dispositions applicables à la saisine en urgence du juge de l'exécution prévues au code des procédures civiles d'exécution. Le juge statue au plus tard dans un délai de quinze jours. Le juge peut donner mainlevée de la mesure conservatoire, notamment s'il apparaît que les conditions de mise en œuvre des mesures ne sont pas respectées ou s'il estime que les garanties produites par la personne contrôlée sont suffisantes. Le recours n'a pas d'effet suspensif.
+
+NOTA:
+Conformément au IV de l’article 22 de la loi n° 2019-1446 du 24 décembre 2019 : Le b du 2° du I du présent article s'applique aux contrôles engagés à compter du 1er janvier 2020.

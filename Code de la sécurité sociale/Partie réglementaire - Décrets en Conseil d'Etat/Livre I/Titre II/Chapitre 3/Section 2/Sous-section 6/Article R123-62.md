@@ -5,3 +5,6 @@ Une commission de recensement des votes, chargée du contrôle des opérations �
 La commission est composée d'un représentant ou du mandataire de chaque liste de candidats.
 
 Si moins de trois listes ont été déposées ou ont désigné un représentant ou mandataire pour participer à la commission, sont également membres de la commission les deux personnes les plus âgées et la personne la plus jeune inscrites sur la liste électorale mentionnée à l'article R. 123-56.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1275 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

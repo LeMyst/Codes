@@ -7,3 +7,6 @@ Les sièges restant à allouer après l'attribution opérée en application de l
 2° De la mesure de l'audience des organisations professionnelles d'employeurs représentatives, appréciée en prenant en compte à hauteur, respectivement, de 30 % et de 70 %, le nombre des entreprises adhérentes à des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel et le nombre de salariés employés par ces mêmes entreprises ;
 
 3° De la mesure de l'audience des organisations de travailleurs indépendants représentatives, appréciée conformément aux dispositions de l'article L. 612-6 du présent code.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1153 du 4 septembre 2021.

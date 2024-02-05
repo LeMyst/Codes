@@ -29,3 +29,6 @@ En application du second alinéa de l'article L. 351-1-2-1, sont prises en compt
 13° Les majorations de durée d'assurance et les bonifications accordées au titre des articles 12,16 et 17 du règlement annexé au décret n° 2007-262 du 27 février 2007 relatif au régime de retraite des agents titulaires de la Banque de France ;
 
 14° Les majorations de durée d'assurance accordées au titre du III de l'article 13 du décret n° 2008-639 du 30 juin 2008 relatif au régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports.
+
+NOTA:
+Conformément au II de l’article 7 du décret n° 2023-799 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.

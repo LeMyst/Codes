@@ -17,3 +17,6 @@ b) Les établissements faisant l'objet de la procédure de mise sous accord pré
 5° Les modalités de suivi et d'évaluation de chacune des actions mentionnées au 3°.
 
 II. – Le plan d'actions pluriannuel régional d'amélioration de la pertinence des soins est arrêté par le directeur général de l'agence régionale de santé pour une durée de quatre ans, après avis de la commission régionale de coordination des actions de l'agence régionale de santé et de l'assurance maladie mentionnée à l'article R. 1434-13 du code de la santé publique. Il est révisé chaque année dans les mêmes conditions.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1231 du 25 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

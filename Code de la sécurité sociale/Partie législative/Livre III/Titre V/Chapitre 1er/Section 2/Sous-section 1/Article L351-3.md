@@ -19,3 +19,6 @@ Sont prises en considération en vue de l'ouverture du droit à pension, dans de
 8° Les périodes de stage mentionnées à l'article L. 6342-3 du code du travail ;
 
 9° Les périodes de stage dont les cotisations sociales ont été prises en charge par l'Etat et ayant pour finalité l'insertion dans l'emploi par la pratique d'une activité professionnelle définies par décret en Conseil d'Etat ainsi que celles mentionnées à l'article 3 de la loi n° 79-575 du 10 juillet 1979 portant diverses mesures en faveur de l'emploi et à l'article L. 980-9 du code du travail, dans sa rédaction antérieure à la loi n° 91-1405 du 31 décembre 1991 relative à la formation professionnelle et à l'emploi.
+
+NOTA:
+Conformément au IV de l’article 23 de la loi n° 2023-270 du 14 avril 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.

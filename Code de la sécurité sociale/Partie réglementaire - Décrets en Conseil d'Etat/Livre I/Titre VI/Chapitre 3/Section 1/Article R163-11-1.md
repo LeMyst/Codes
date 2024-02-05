@@ -19,3 +19,6 @@ III. - Lors de la création ou de la modification d'un tarif forfaitaire de resp
 Cette période est portée à quatre-vingt-dix jours dans les collectivités d'outre-mer suivantes : Guadeloupe, Guyane, Martinique, La Réunion, Saint-Martin et Saint-Barthélemy.
 
 Les dispositions du présent III ne sont pas applicables dans le cas où la modification d'un tarif forfaitaire de responsabilité résulte d'un changement de la marge des médicaments concernés intervenu en application de l'article L. 162-38.
+
+NOTA:
+Conformément au IV de l'article 3 du décret n° 2020-1090 du 25 août 2020, l'article R. 163-11-1, dans sa rédaction issue du présent décret, entre en vigueur le 1er octobre 2020.

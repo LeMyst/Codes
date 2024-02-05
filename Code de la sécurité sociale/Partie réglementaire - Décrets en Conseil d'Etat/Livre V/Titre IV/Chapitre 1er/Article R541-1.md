@@ -9,3 +9,6 @@ Pour l'application du troisième alinéa de l'article L. 541-1, le pourcentage d
 La prise en charge de l'enfant par un service mentionné au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou de soins à domicile au sens de l'article L. 541-1 précité est celle qui est accordée soit au titre de l'assurance maladie, soit par l'Etat, soit par l'aide sociale sur décision de la commission des droits et de l'autonomie des personnes handicapées prévue à l'article 6 de la loi n° 75-534 du 30 juin 1975.
 
 L'allocation d'éducation de l'enfant handicapé due au titre des périodes mentionnées au quatrième alinéa de l'article L. 541-1 et, le cas échéant, leur complément sont versés annuellement et en une seule fois. En cas de décès de l'enfant, ce versement inclut une prolongation, jusqu'au dernier jour du troisième mois civil qui suit le décès, du montant dû au titre du mois de décès de l'enfant, ou, s'il est supérieur, le montant dû au titre du mois qui précède celui du décès.
+
+NOTA:
+Le décret n° 93-1216 ayant été abrogé par le décret n° 2004-1136 du 21 octobre 2004, le guide-barème se situe désormais à l'annexe 2-4 à ce décret.

@@ -26,8 +26,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 | Prestations payées (2) |  |  |  |  |  |
 | Frais d'acquisition et d'administration (2) |  |  |  |  |  |
 | Produits des placements (2) |  |  |  |  |  |
-| (1) Pour les opérations visées au a de l'article L. 931-1, sinistres, sorties par tirage, échéances et rachats totaux.
-(2) Montants extraits du Grand Livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire. |
+| (1) Pour les opérations visées au a de l'article L. 931-1, sinistres, sorties par tirage, échéances et rachats totaux.(2) Montants extraits du Grand Livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire. |
 
 ETAT T 2
 
@@ -74,3 +73,6 @@ Les institutions et les unions établissent trimestriellement, selon le modèle 
 | Engagements reçus de plus de 3 mois |  |  |
 | Engagements donnés de 3 mois au plus |  |  |
 | Engagements donnés de plus de 3 mois |  |  |
+
+NOTA:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

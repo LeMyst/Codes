@@ -9,3 +9,6 @@ Pour l'application de l'article L. 137-16 du code de la sécurité sociale, l'al
 3° D'au minimum 70 % pour les titulaires dont l'échéance de sortie du plan est strictement supérieure à 10 ans et inférieure ou égale à 12 ans ;
 
 4° D'au minimum 30 % pour les titulaires dont l'échéance de sortie du plan est strictement supérieure à 7 ans et inférieure ou égale à 10 ans.
+
+NOTA:
+Conformément aux dispositions du IV de l'article 9 du décret n° 2019-807 du 30 juillet 2019, ces dispositions entrent en vigueur le 1er octobre 2019.

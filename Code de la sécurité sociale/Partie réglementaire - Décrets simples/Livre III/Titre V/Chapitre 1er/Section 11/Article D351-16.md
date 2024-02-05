@@ -5,3 +5,6 @@ La faculté de versement de cotisations prévue à l'article L. 351-17 est ouver
 Ouvre droit à la validation d'un trimestre d'assurance, sous réserve du versement prévu au premier alinéa, toute période de stage dont la durée au sein d'une même entreprise, administration publique, assemblée parlementaire, assemblée consultative, association ou au sein de tout autre organisme d'accueil est égale à deux mois consécutifs ou, au cours d'une même année scolaire ou universitaire, à deux mois consécutifs ou non. Lorsque la période couvre deux années civiles successives, elle peut être considérée comme ayant été effectuée au cours de l'une ou l'autre de ces années.
 
 La demande est formulée au plus tard le 31 décembre de l'année civile du trentième anniversaire de l'assuré.
+
+NOTA:
+Conformément au II de l’article 3 du décret n° 2023-800 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.

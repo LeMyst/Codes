@@ -9,3 +9,8 @@ Les données relatives aux personnes mineures figurent sur la carte Vitale d'au 
 La carte Vitale est la propriété de l'organisme d'assurance maladie obligatoire auquel le titulaire est rattaché. Elle est mise à la disposition de son titulaire, qui ne peut en modifier ni la présentation ni le contenu.
 
 Les organismes émetteurs mettent en œuvre des dispositifs permettant, d'une part, la consultation par les bénéficiaires et les professionnels des informations contenues dans la carte Vitale et d'autre part, sur la base des informations contenues dans leurs fichiers, la mise à jour des informations mentionnées aux articles R. 161-33-1 et R. 161-33-6.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

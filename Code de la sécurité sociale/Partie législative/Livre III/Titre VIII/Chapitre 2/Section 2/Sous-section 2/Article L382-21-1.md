@@ -11,3 +11,6 @@ Les conditions prévues aux articles L. 323-4-1 à L. 323-7 sont applicables au 
 Un décret détermine les modalités d'application du présent I.
 
 II.-Les ministres des cultes bénéficient des indemnités journalières prévues aux articles L. 331-3 à L. 331-8. L'indemnité journalière est égale à une fraction de l'assiette des cotisations à la charge des associations, congrégations ou collectivités religieuses dont relève le ministre du culte.
+
+NOTA:
+Conformément au III de l’article 85 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions s'appliquent aux arrêts de travail prescrits à compter du 1er juillet 2020.

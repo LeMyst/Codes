@@ -7,3 +7,8 @@ II.-Le groupement mentionné à l'article L. 115-5 est chargé, pour le compte d
 III.-L'utilisation de la carte vitale sous forme d'application mobile par un fournisseur de service est subordonnée à la conclusion d'une convention entre ce fournisseur et le groupement mentionné à l'article L. 115-5 définissant les conditions de cette utilisation. Cette disposition s'applique également aux téléservices des organismes de protection sociale autres que d'assurance maladie obligatoire.
 
 La liste des services numériques et des cas d'usage ouverts à l'utilisation de l'application carte vitale comme moyen d'identification électronique sont publiés sur le site internet du groupement.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

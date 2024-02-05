@@ -5,3 +5,6 @@ Pour exercer la faculté de versement de cotisations mentionnée à l'article D.
 L'intéressé présente, à l'appui de sa demande, la copie de la convention de stage prévue au deuxième alinéa de l'article L. 124-1 du code de l'éducation et la copie de l'attestation de stage mentionnée à l'article D. 124-9 du même code.
 
 La demande est adressée à la caisse chargée de l'assurance vieillesse du régime général de sécurité sociale dans le ressort de laquelle se trouve la résidence de l'assuré ou, en cas de résidence à l'étranger, la caisse dans le ressort de laquelle la période de stage s'est déroulée.
+
+NOTA:
+Ces dispositions s'appliquent aux périodes de stage débutant postérieurement à la publication du décret n° 2015-284 du 11 mars 2015 précisant les modalités et conditions de validation des stages en entreprise par le régime général d'assurance vieillesse.

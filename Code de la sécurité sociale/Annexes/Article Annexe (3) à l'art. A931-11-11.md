@@ -70,16 +70,10 @@ Les tableaux sont présentés selon le modèle ci-dessous :
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| NOMBRE
-et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées  | AFFECTATION  | LOCALISATION  | VALEUR INSCRITE AU BILAN  | VALEUR
-nette  | VALEUR
-de réalisation  | VALEUR
-de
-remboursement  |
+| NOMBRE et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées  | AFFECTATION  | LOCALISATION  | VALEUR INSCRITE AU BILAN  | VALEUR nette  | VALEUR de réalisation  | VALEUR de remboursement  |
 | Valeur brute  | Corrections de valeur  |
 | (A)  | (B)  | (B 1)  | (C)  | (D)  | (E)  | (F)  | (G)  |
-| (1)  | (2)  | (3)  | (4)  | (5)  |\
-| (6)  | (7)  |
+| (1)  | (2)  | (3)  | (4)  | (5)  |  | (6)  | (7)  |
 
 (1) A l'intérieur de chaque sous-rubrique (voir ci-dessus B), les valeurs mobilières sont inscrites dans l'ordre de la cote officielle de la principale place de cotation.L'intitulé de chaque valeur est précédé du numéro d'identification en usage sur la cote officielle de la principale place de cotation : en France, code RGA (Répertoire général alphabétique) ou numéro de compte Sicovam. Pour les valeurs et actifs garantis par un tiers autre que le débiteur ou par une garantie réelle, la nature de la garantie et la désignation du garant sont précisées.
 
@@ -240,40 +234,20 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 |  |  |
 | --- | --- |
 | ANNÉE D'INVENTAIRE  | EXERCICE DE SURVENANCE  |
-| 19....
-(n-4)  | 19....
-(n-3)  | 19....
-(n-2)  | 19....
-(n-1)  | 19....
-n  |
-| Inventaire N-2  |\
-|\
-|\
-|\
-|\
-|
+| 19.... (n-4)  | 19.... (n-3)  | 19.... (n-2)  | 19.... (n-1)  | 19.... n  |
+| Inventaire N-2  |  |  |  |  |  |
 | Règlements  |  |  |  |  |  |
 | Provisions  |  |  |  |  |  |
 | Total sinistres  |  |  |  |  |  |
 | Cotisations acquises  |  |  |  |  |  |
 | Pourcentage sinistres / cotisations acquises  |  |  |  |  |  |
-| Inventaire N-1  |\
-|\
-|\
-|\
-|\
-|
+| Inventaire N-1  |  |  |  |  |  |
 | Règlements  |  |  |  |  |  |
 | Provisions  |  |  |  |  |  |
 | Total sinistres  |  |  |  |  |  |
 | Cotisations acquises  |  |  |  |  |  |
 | Pourcentage sinistres / cotisations acquises  |  |  |  |  |  |
-| Inventaire N  |\
-|\
-|\
-|\
-|\
-|
+| Inventaire N  |  |  |  |  |  |
 | Règlements  |  |  |  |  |  |
 | Provisions  |  |  |  |  |  |
 | Total sinistres  |  |  |  |  |  |
@@ -307,19 +281,14 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-|\
-| REVENUS FINANCIERS
-et frais financiers concernant les placements dans les entreprises liées  | AUTRES REVENUS
-et frais financiers  | TOTAL  |
+|  | REVENUS FINANCIERS et frais financiers concernant les placements dans les entreprises liées  | AUTRES REVENUS et frais financiers  | TOTAL  |
 | Revenus des participations (1)  |  |  |  |
 | Revenus des placements immobiliers  |  |  |  |
 | Revenus des autres placements  |  |  |  |
 | Autres revenus financiers (commission, honoraires)  |  |  |  |
 | Total (poste E2a et / ou F3a du compte de résultat)  |  |  |  |
 | Frais financiers (commissions, honoraires, intérêts et agios...)  |  |  |  |
-| (1) Au sens de l'article 20 du décret du 29 novembre 1983.
-Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de résultat :
-Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et / ou F5 du compte de résultat :  |
+| (1) Au sens de l'article 20 du décret du 29 novembre 1983. Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de résultat : Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et / ou F5 du compte de résultat :  |
 
 2. 2. Les institutions et unions indiquent la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-après.
 
@@ -462,10 +431,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 | B3 : Montant effectif de la participation aux résultats (3) :  |  |  |  |  |  |
 | B3a : Participation attribuée (y compris intérêts techniques)  |  |  |  |  |  |
 | B3b : Variation de la provision pour participation aux excédents  |  |  |  |  |  |
-| (1) L'exercice n est l'exercice sous revue.
-(2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4).
-(3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4).
-(4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable.  |
+| (1) L'exercice n est l'exercice sous revue. (2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4). (3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4). (4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable.  |
 
 3. Autres informations.
 

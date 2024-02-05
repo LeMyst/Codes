@@ -7,3 +7,6 @@ S'agissant des périodes de chômage indemnisé, les effectifs mentionnés au pr
 Le taux de la cotisation mentionnée au premier alinéa est égal au taux de la cotisation en vigueur pour la couverture du risque vieillesse de base des travailleurs indépendants du régime général mentionnée à l'article L. 633-10. Cette cotisation est assise sur une assiette forfaitaire annuelle égale à 11,5 % de la valeur du plafond annuel mentionné au premier alinéa de l'article L. 241-3.
 
 S'agissant des périodes de chômage indemnisé, le versement du Fonds de solidarité vieillesse est réparti entre les régimes concernés, au prorata de leurs effectifs d'assurés bénéficiant de l'allocation mentionnée à l' article L. 5424-25 du code du travail et notifié à chacun d'eux par Pôle emploi.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

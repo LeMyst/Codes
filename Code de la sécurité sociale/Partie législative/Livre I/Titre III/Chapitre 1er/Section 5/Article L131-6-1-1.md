@@ -5,3 +5,6 @@ Par dérogation à l'article L. 131-6-2 du présent code et au premier alinéa d
 Les cotisations ou contributions ayant fait l'objet d'un report mentionnées au premier alinéa du présent article peuvent faire l'objet d'un plan de paiement échelonné d'une durée maximale de douze mois, qui peut être portée à vingt-quatre mois par le directeur de l'Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales, de la Caisse générale de sécurité sociale ou de la caisse de mutualité sociale agricole en cas de circonstances exceptionnelles.
 
 Ce report ne donne lieu à aucune majoration ni pénalité de retard.
+
+NOTA:
+Conformément à l'article 73 II de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions sont applicables à compter du 1er janvier 2020 pour les travailleurs indépendants mentionnés à l'article L. 640-1 du code de la sécurité sociale.

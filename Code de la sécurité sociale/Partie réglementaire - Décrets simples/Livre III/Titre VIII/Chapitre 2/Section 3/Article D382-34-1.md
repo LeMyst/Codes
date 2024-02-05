@@ -5,3 +5,6 @@ I. - Pour l'application de la faculté prévue au dernier alinéa de l'article L
 Les cotisations sociales sont dues à compter du premier jour du mois suivant la réception par la collectivité territoriale de la demande pour la durée du mandat restant à courir.
 
 II. - L'élu bénéficiant de l'assujettissement des indemnités dans les conditions prévues au I peut y renoncer à tout moment pendant la durée de son mandat, dans les mêmes conditions.
+
+NOTA:
+Se reporter aux conditions d'application prévues au I de l'article 1er du décret n° 2023-838 du 30 août 2023.

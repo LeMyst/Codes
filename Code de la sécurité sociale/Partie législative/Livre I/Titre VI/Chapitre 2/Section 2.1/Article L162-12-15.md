@@ -13,3 +13,8 @@ Les recommandations mentionnées au troisième alinéa sont également diffusée
 La liste des références opposables est régulièrement actualisée par les parties conventionnelles dans les conditions prévues au présent article, en fonction notamment des données de la science.
 
 A défaut d'actualisation, les ministres chargés de la santé et de la sécurité sociale peuvent, dans l'intérêt de la santé publique, après consultation de la Haute Autorité de santé ou de l'Agence nationale de sécurité du médicament et des produits de santé dans leur domaine de compétence respectif, demander aux parties à la convention concernée d'abroger une référence opposable dont le maintien en l'état n'est plus justifié ; en l'absence d'accord des parties, constaté deux mois après leur saisine, un arrêté des mêmes ministres peut procéder à cette abrogation.
+
+NOTA:
+Loi n° 2011-2012 du 29 décembre 2011 article 41 III : Les présentes dispositions entrent en vigueur à une date prévue par le décret pris pour leur application et au plus tard le 1er août 2012. Dès cette entrée en vigueur, l'Agence nationale de sécurité du médicament et des produits de santé exerce l'ensemble des droits et supporte l'ensemble des obligations de l'Agence française de sécurité sanitaire des produits de santé. Jusqu'à l'entrée en vigueur mentionnée au premier alinéa du présent III, les compétences et pouvoirs que la présente loi attribue à l'Agence nationale de sécurité du médicament et des produits de santé sont exercés par l'Agence française de sécurité sanitaire des produits de santé.
+
+Le décret n° 2012-597 du 27 avril 2012 est entré en vigueur le 1er mai 2012.

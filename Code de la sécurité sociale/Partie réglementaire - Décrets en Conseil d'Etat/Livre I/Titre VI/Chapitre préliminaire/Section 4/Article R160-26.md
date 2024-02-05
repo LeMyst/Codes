@@ -19,3 +19,6 @@ III. – Cette convention fixe, notamment :
 6° Les modalités de suivi et d'évaluation de la convention.
 
 IV. – En cas d'absence de conclusion ou de reconduction de la convention mentionnée au I un arrêté des ministres chargés de la sécurité sociale et du budget fixe les dispositions permettant la prise en charge des opérations de gestion par la Caisse nationale de l'assurance maladie.
+
+NOTA:
+Conformément à l'article 17-V du décret n° 2018-174 du 9 mars 2018, les dispositions de l'article R. 160-26 dans leur rédaction antérieure audit décret restent applicables aux conventions mentionnées au 7° du XVI de l'article 15 de la loi de financement de la sécurité sociale pour 2018 et, pendant leur durée, aux relations entre les travailleurs indépendants concernés et les organismes conventionnés sous la réserve prévue au 1° dudit V.

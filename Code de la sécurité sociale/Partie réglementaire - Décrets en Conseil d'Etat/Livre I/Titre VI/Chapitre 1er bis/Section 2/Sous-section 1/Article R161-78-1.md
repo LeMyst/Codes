@@ -5,3 +5,6 @@ Le collège de la Haute Autorité de santé prend les décisions mentionnées au
 Le collège peut déléguer à son président, pour les dossiers qu'il désigne et selon la procédure mentionnée à son règlement intérieur, le soin de prendre en son nom ces décisions après avis conforme de la commission mentionnée à l'article R. 163-15.
 
 Par dérogation au premier alinéa, lorsqu'il porte sur un médicament mentionné au 1° du II de l'article L. 5121-12, l'avis de la commission n'est pas requis dès lors que l'avis de l'Agence nationale de sécurité du médicament et des produits de santé mentionné au II de l'article R. 5121-69 du code de la santé publique est défavorable.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

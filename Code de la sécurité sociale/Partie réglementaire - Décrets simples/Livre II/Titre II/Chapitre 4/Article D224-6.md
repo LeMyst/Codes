@@ -15,3 +15,6 @@ En cas d'absence d'un directeur d'une caisse nationale ou de l'Agence centrale d
 Les décisions sont prises à la majorité des voix. Le directeur et le directeur comptable et financier de l'union assistent de plein droit avec voix consultative aux séances du comité.
 
 Les commissaires du Gouvernement mentionnés à l'article D. 224-3 assistent aux séances du comité et sont entendus chaque fois qu'ils le demandent.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

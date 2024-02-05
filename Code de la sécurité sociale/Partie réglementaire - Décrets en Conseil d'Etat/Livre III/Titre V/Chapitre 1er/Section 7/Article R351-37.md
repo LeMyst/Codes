@@ -13,3 +13,6 @@ Lorsque la demande de pension de retraite est présentée par un assuré victime
 Lorsque la demande de pension de retraite relève des dispositions du 1° du III de l'article L. 351-1-4, la caisse saisit, le cas échéant après accomplissement de la procédure prévue à l'alinéa précédent, la commission pluridisciplinaire. La commission pluridisciplinaire n'est pas saisie dans le cas mentionné au sixième alinéa du III de l'article L. 351-1-4.
 
 Dans les cas prévus aux deux alinéas précédents, le silence gardé pendant plus de quatre mois par la caisse vaut décision de rejet.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

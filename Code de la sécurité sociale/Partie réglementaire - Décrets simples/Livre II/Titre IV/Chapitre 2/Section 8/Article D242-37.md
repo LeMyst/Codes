@@ -12,14 +12,12 @@ Les fractions de taux collectif et individuel varient en fonction du nombre de s
 
 | NOMBRE DE SALARIÉS de l'entreprise (1)  | FRACTION du taux individuel (2)  | FRACTION du taux collectif (2)  |
 | --- | --- | --- |
-| au moins égal à 50 et inférieur à 150  | 0,075 E-1,25 10  | (0,075 E-1,25) 1-
-10  |
+| au moins égal à 50 et inférieur à 150  | 0,075 E-1,25 10  | (0,075 E-1,25) 1-10  |
 | (1) L'entreprise peut comporter un ou plusieurs établissements. (2) E représente l'effectif de l'entreprise tel que défini à l'article R. 130-1. |
 
 2° Entreprises dont l'activité relève des industries du bâtiment et des travaux publics :
 
 | NOMBRE DE SALARIÉS de l'entreprise (1)  | FRACTION du taux individuel (2)  | FRACTION du taux collectif (2)  |
 | --- | --- | --- |
-| au moins égal à 50 et inférieur à 300  | 0,075 E + 2,5 25  | (0,075 E + 2,5) 1-
-25  |
+| au moins égal à 50 et inférieur à 300  | 0,075 E + 2,5 25  | (0,075 E + 2,5) 1-25  |
 | (1) L'entreprise peut comporter un ou plusieurs établissements. (2) E représente l'effectif de l'entreprise tel que défini à l'article R. 130-1. |

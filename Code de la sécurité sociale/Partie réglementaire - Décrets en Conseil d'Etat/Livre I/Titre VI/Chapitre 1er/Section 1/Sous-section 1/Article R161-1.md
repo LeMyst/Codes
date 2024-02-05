@@ -7,3 +7,6 @@ Pour les personnes nées à l'étranger, le recueil des pièces justificatives n
 Par dérogation aux dispositions du précédent alinéa les personnes nées à l'étranger qui sollicitent le bénéfice d'une pension de droit dérivé et qui ne disposent pas de numéro d'inscription au répertoire national d'identification des personnes physiques transmettent directement les pièces justificatives nécessaires à l'attribution d'un tel numéro à l'organisme mentionné à l'article L. 222-4.
 
 Un numéro d'identification d'attente est attribué, dans les conditions prévues par l'article R. 114-7, aux personnes mentionnées aux deuxième et troisième alinéas en instance d'attribution d'un numéro d'inscription au répertoire national d'identification des personnes physiques.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

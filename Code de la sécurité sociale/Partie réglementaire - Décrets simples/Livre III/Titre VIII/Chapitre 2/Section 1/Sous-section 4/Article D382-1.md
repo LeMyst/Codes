@@ -7,3 +7,6 @@ L'omission de données devant figurer dans la déclaration mentionnée au premie
 Toutefois, cette pénalité ne s'applique pas si les conditions mentionnées aux 1° et 2° de l'article R. 243-10 sont remplies.
 
 La pénalité est recouvrée et contrôlée par l'organisme mentionné au premier alinéa de l'article L. 382-5, selon les règles, et sous les garanties et sanctions applicables en matière de recouvrement des cotisations assises sur les rémunérations.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

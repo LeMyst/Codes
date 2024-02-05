@@ -7,3 +7,6 @@ La compensation tend à remédier aux inégalités provenant des déséquilibres
 La compensation prévue au présent article est calculée sur la base d'une prestation de référence et d'une cotisation moyenne ; elle est opérée après application des compensations existantes.
 
 Les soldes qui en résultent entre les divers régimes sont fixés par arrêtés interministériels, après consultation de la commission de compensation prévue à l'article L. 114-3.
+
+NOTA:
+Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.

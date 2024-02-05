@@ -5,3 +5,6 @@ Les plafonds et seuils prévus à l'article L. 85 du code des pensions civiles e
 Le décret peut suspendre, dans les mêmes conditions, les règles de plafond, de seuil ou de délai minimal de reprise d'activité, analogues à celles mentionnées au premier alinéa du présent article, prévues par les dispositions ou les stipulations régissant les régimes complémentaires de retraite.
 
 Le deuxième alinéa du présent article est d'ordre public.
+
+NOTA:
+Se reporter aux conditions d'application prévues aux 1° et 2° du XII de l'article 26 de la loi n° 2023-270 du 14 avril 2023.

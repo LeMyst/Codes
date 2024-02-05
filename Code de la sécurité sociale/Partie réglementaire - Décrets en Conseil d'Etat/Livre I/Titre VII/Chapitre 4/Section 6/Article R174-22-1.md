@@ -5,3 +5,6 @@ Le versement aux établissements de santé privés mentionnés au d de l'article
 Le règlement de chaque allocation mensuelle est effectué le 5 de chaque mois ou, si le jour n'est pas ouvré, le premier jour suivant cette date.
 
 Dans l'attente de la fixation du montant des forfaits annuels et des dotations de l'année en cours, la caisse centralisatrice des paiements règle des acomptes mensuels égaux à un douzième du montant du forfait ou de la dotation de l'année précédente. La différence entre les montants ainsi versés et ceux fixés pour l'année en cours est imputée sur le versement effectué le 5 du deuxième mois suivant celui au cours duquel le montant du forfait ou de la dotation est fixé.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-696 du 29 juillet 2023, ces dispositions entrent en vigueur au 1er juillet 2023.

@@ -21,3 +21,6 @@ V. - Le bénéfice des déductions mentionnées aux I et II est subordonné, pou
 VI. - Un décret fixe les modalités d'application du présent article ainsi que les modalités selon lesquelles les heures supplémentaires effectuées par les salariés affiliés au régime général dont la durée du travail ne relève pas du titre II du livre Ier de la troisième partie du code du travail ou du chapitre III du titre Ier du livre VII du code rural et de la pêche maritime ouvrent droit aux déductions mentionnées au présent article.
 
 VII. - Le présent article est applicable à Mayotte et à Saint-Pierre-et-Miquelon.
+
+NOTA:
+Conformément au V de l'article 22 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er octobre 2022.

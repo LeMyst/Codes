@@ -7,3 +7,6 @@ Les deux premiers alinéas de l'article L. 341-15 ainsi que l'article L. 341-16 
 Les cotisations au régime obligatoire mentionné au premier alinéa sont calculées et recouvrées dans les mêmes formes et conditions que les cotisations du régime de base d'assurance vieillesse.
 
 Les cotisations dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 ne peuvent être inférieures à un montant fixé par décret et sont calculées dans la limite d'un plafond fixé par décret.
+
+NOTA:
+Cconformément à l'article 76 III de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions s'appliquent aux prestations versées au titre d’arrêts de travail débutant à compter du 1er janvier 2019.

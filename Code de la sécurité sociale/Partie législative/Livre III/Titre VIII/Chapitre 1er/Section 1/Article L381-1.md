@@ -7,3 +7,6 @@ La personne isolée ou chacun des membres d'un couple exerçant une activité pr
 Le financement de l'assurance vieillesse des catégories de personnes mentionnées par le présent article est assuré par une cotisation à la charge exclusive des organismes débiteurs des prestations familiales et calculée sur des assiettes forfaitaires.
 
 Aucune affiliation ne peut intervenir en application des dispositions ci-dessus lorsque, au titre du ou des enfants considérés et de la même période, la personne concernée bénéficie de la majoration de durée d'assurance prévue à l'article L. 351-5 du présent code ou de périodes d'assurance attribuées par des régimes spéciaux en application du 1° de l'article L. 9 du code des pensions civiles et militaires de retraite ou de dispositions réglementaires ayant le même objet. Les dispositions d'application du présent alinéa sont déterminées par décret.
+
+NOTA:
+Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.

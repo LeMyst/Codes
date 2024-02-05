@@ -7,3 +7,6 @@ Ouvrent également droit à cette majoration les enfants élevés dans les condi
 Cette majoration est incluse dans les avantages personnels de vieillesse dont le cumul avec une pension de réversion est comparé aux limites prévues au dernier alinéa de l'article L. 353-1.
 
 Sur décision du juge pénal, l'assuré ne peut bénéficier de la majoration prévue au premier alinéa du présent article s'il a été privé de l'exercice de l'autorité parentale ou s'est vu retirer l'autorité parentale consécutivement à une condamnation pénale au titre des crimes ou délits prévus à la section 1 du chapitre Ier du titre II du livre II du code pénal ou aux paragraphes 1 et 2 des sections 1 et 3 du chapitre II du même titre II, lorsque ces crimes ou délits ont été commis à l'encontre d'un des enfants.
+
+NOTA:
+Conformément au III de l’article 12 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux privations et aux retraits de l'exercice de l'autorité parentale prenant effet à compter du 1er septembre 2023.

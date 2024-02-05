@@ -25,3 +25,6 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 11° La couverture des frais relatifs aux différentes catégories de protections périodiques réutilisables inscrites sur la liste prévue à l'article L. 162-59 pour les personnes assurées ayant leurs menstruations âgées de moins de vingt-six ans ou bénéficiaires de la protection complémentaire en matière de santé prévue à l'article L. 861-1.
 
 Les produits, les prestations et les actes prescrits à l'occasion d'un acte de téléconsultation réalisé en application de l'article L. 6316-1 du code de la santé publique ainsi que les prescriptions réalisées lors des télésoins mentionnés à l'article L. 6316-2 du même code ne sont pris en charge qu'à la condition d'avoir fait l'objet d'une communication orale, en vidéotransmission ou téléphonique, entre le prescripteur et le patient.
+
+NOTA:
+Conformément au IV de l'article 83 de la loi n° 2023-1250 du 26 décembre 2023, le 10° du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.

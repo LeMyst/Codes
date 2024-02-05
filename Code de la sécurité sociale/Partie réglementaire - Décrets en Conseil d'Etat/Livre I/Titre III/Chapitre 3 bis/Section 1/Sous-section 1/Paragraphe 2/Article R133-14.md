@@ -91,3 +91,6 @@ m) Les données relatives à la prévoyance, dont les éléments relatifs à l'i
 4° Les données techniques nécessaires à la gestion de la déclaration sociale nominative.
 
 VI. – Lorsque son contenu, tel que défini par la norme mentionnée au III de l'article R. 133-13, le rend possible, la déclaration sociale nominative permet en outre aux employeurs de transmettre les informations prévues par les dispositions conventionnelles ou contractuelles prises pour la mise en œuvre des garanties collectives dont bénéficient leurs salariés en application des dispositions de l'article L. 911-1 du présent code, ou des droits à congés de leurs salariés en application des dispositions de l'article L. 3141-32, du code du travail-aux organismes chargés de cette mise en œuvre.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

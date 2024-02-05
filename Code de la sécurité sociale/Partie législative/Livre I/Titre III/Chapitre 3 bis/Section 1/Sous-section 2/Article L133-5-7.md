@@ -7,3 +7,6 @@ Dans le respect des dispositions propres à chaque dispositif, les dispositifs m
 2° Satisfaire, le cas échéant, aux formalités obligatoires liées à l'embauche et à l'emploi de leurs salariés ;
 
 3° Déclarer et reverser les montants donnant lieu à la retenue à la source prévue à l'article 204 A du code général des impôts.
+
+NOTA:
+Conformément au II de l’article unique de la loi n° 2021-725 du 8 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Elles s'appliquent aux adhésions aux dispositifs simplifiés de déclaration et de recouvrement mentionnés à l'article L. 133-5-6 du code de la sécurité sociale en cours à cette même date.

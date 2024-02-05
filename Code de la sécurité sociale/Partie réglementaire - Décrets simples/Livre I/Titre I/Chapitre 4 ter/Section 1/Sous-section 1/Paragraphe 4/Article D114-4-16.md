@@ -13,3 +13,6 @@ Le rapport annuel de contrôle interne intègre, en sus du tableau de bord, pour
 Il prend notamment en compte, en fonction de la disponibilité des données, les résultats afférents aux objectifs fixés dans le cadre des conventions d'objectif et de gestion conclues avec l'Etat.
 
 Une synthèse du rapport annuel de contrôle interne est présentée au conseil d'administration lors de la séance qui approuve les comptes de l'organisme.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

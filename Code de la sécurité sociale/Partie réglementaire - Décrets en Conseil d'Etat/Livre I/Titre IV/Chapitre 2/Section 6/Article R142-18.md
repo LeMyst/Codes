@@ -5,3 +5,6 @@ Les requérants ou leurs ayants droit qui doivent quitter leur commune de résid
 Afin de bénéficier du remboursement de l'un des transports mentionnés aux 1° et 2° de l'article R. 322-10-1 et des frais de transport de la personne l'accompagnant en application de l'article R. 322-10-7, le requérant en fait la demande dans sa requête. Le bénéfice de ce remboursement est soumis à l'avis conforme du médecin expert ou consultant qui examine la demande du requérant sur la base des pièces que ce dernier a jointes à sa requête.
 
 S'il n'en a pas fait la demande dans sa requête, le requérant peut bénéficier du remboursement des frais prévus à l'alinéa précédent, s'il justifie auprès de son organisme de prise en charge d'une prescription médicale de transport dans les conditions prévues par les articles R. 322-10 à R. 322-10-7.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

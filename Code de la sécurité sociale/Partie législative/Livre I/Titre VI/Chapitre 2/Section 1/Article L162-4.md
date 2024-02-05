@@ -15,3 +15,6 @@ Les médecins sont tenus de signaler sur l'ordonnance, support de la prescriptio
 Lorsque les médecins réalisent des actes non remboursables, ils n'établissent pas le document prévu à l'article L. 161-33.
 
 Pour les spécialités pharmaceutiques mentionnées au 1°, l'inscription de la mention : " Prescription hors autorisation de mise sur le marché ” prévue à l'article L. 5121-12-1-2 du code de la santé publique dispense de signaler leur caractère non remboursable.
+
+NOTA:
+Conformément au A du IV de l'article 78 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2021.

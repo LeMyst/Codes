@@ -11,3 +11,6 @@ Pour le calcul des droits à l'assurance vieillesse ouverts au titre de la péri
 Chaque trimestre civil entier d'exécution du contrat est affecté à l'année de son exécution.
 
 Le trimestre pouvant résulter de la différence entre le nombre de trimestres déterminés en application des 1° à 3° et celui résultant de l'application de l'alinéa précédent est affecté à l'année civile au cours de laquelle le contrat a pris fin.
+
+NOTA:
+Ces dispositions sont applicables pour toutes les périodes d'apprentissage accomplies à compter du 1er janvier 2014.

@@ -41,3 +41,8 @@ c) Les éventuels engagements pris par l'Etat relatifs à l'évolution pluriannu
 9° Comportant, pour les dispositions relevant du paragraphe 2 de la sous-section 1 de la section 1 du présent chapitre, les documents mentionnés aux dix derniers alinéas de l'article 8 de la loi organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44 de la Constitution ;
 
 10° Présentant le rapport mentionné au III de l'article 62 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.
+
+Par décision du Conseil constitutionnel n° 2022-836 DC du 10 mars 2022, l’article L.O. 111-4-1 du code de la sécurité sociale, dans sa rédaction résultant de l’article 2 de la loi organique n° 2022-354 du 14 mars 2022 relative aux lois de financement de la sécurité sociale a été déclaré conforme à la Constitution, sous la réserve énoncée au paragraphe 12 aux termes de laquelle " un éventuel retard dans la mise en distribution de tout ou partie des rapports et annexes devant être joints ne saurait faire obstacle à la mise en discussion d’un projet de loi de financement. La conformité de la loi de financement à la Constitution serait alors appréciée au regard tant des exigences de la continuité de la vie nationale que de l’impératif de sincérité qui s’attache à l’examen des lois de financement pendant toute la durée de celui-ci. Il en irait de même au cas où les circonstances ne permettraient pas le dépôt de tout ou partie d’un des documents précités. "

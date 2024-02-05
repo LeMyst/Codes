@@ -11,3 +11,6 @@ En vue de la liquidation des prestations, le bénéficiaire est tenu de souscrir
 La déclaration et les pièces qui l'accompagnent sont adressées au service compétent pour l'Etat employeur ou, dans les autres cas, à la Caisse des dépôts et consignations. Il est donné au requérant récépissé de sa demande et des pièces qui l'accompagnent.
 
 En cas de nouvelle fixation des droits aux prestations conformément aux dispositions de l'article R. 413-10 ou de révision de la réparation mentionnée au deuxième alinéa de l'article L. 413-6, le bénéficiaire est tenu de se conformer aux dispositions qui précèdent. Toutefois, il n'est pas tenu de produire la pièce mentionnée au 1° lorsque la nouvelle fixation du droit aux prestations a été prononcée à la requête de l'Etat employeur ou de la Caisse des dépôts et consignations.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

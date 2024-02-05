@@ -5,3 +5,6 @@ Le versement des prestations familiales afférentes à un enfant soumis à l'obl
 Les prestations ne sont dues qu'à compter de la production de l'une des pièces prévues à l'alinéa ci-dessus. En l'absence de production effective de l'une de ces pièces, aucune de ces prestations ne peut être versée. Elles peuvent toutefois être rétroactivement payées ou rétablies si l'allocataire justifie que le retard apporté dans la production de ladite pièce résulte de motifs indépendants de sa volonté.
 
 Un arrêté interministériel fixe les modalités d'application du présent article et, notamment, le délai dans lequel les pièces citées au premier alinéa du présent article doivent être produites.
+
+NOTA:
+Conformément au IV de l'article 49 de la loi n° 2021-1109 du 24 août 2021, ces dispositions entrent en vigueur à la rentrée scolaire 2022.

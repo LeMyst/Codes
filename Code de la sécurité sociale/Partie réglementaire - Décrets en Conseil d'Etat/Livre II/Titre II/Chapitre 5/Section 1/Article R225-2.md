@@ -7,3 +7,6 @@ Ce taux est déterminé en fonction du statut juridique et de la nature des acti
 Les taux des frais de gestion prévus par le présent article ne sont pas applicables aux branches du régime général, aux régimes mentionnés au 3° de l'article L. 134-4 du présent code et aux organismes concourant au financement du régime général.
 
 II.-Les frais de gestion sont appliqués par les organismes mentionnés aux articles L. 213-1 et L. 752-4 sur les sommes recouvrées, lorsque les dispositions du deuxième alinéa du 5° de l'article L. 225-1-1 sont applicables, ou sur les sommes dues après déduction du taux forfaitaire, lorsque les dispositions du troisième alinéa de ce même 5° sont applicables.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-136 du 5 février 2022, ces dispositions sont applicables aux versements réalisés par l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale à compter du 1er janvier 2022.

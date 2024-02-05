@@ -15,3 +15,8 @@ I.-La carte Vitale sous forme matérielle dispose d'un composant électronique c
 6° Un numéro d'émetteur, un numéro propre à la carte et la date de son émission.
 
 II.-Sont inscrites de façon visible sur la carte les informations mentionnées aux 1° et 2° du III de l'article R. 161-33-1 et au 6° du I du présent article, ainsi qu'un signe d'identification de la carte en relief. Le titulaire peut demander à faire figurer son nom d'usage en lieu et place du nom de famille ainsi que l'un de ses prénoms non usuels.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

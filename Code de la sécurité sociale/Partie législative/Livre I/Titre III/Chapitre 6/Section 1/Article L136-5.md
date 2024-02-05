@@ -23,3 +23,6 @@ III.-La contribution portant sur les revenus non soumis à cotisations au régim
 IV.-La contribution sociale entre dans les obligations financières incombant aux employeurs, ou personnes qui y sont substituées en droit, en vertu des articles L. 1251-49 et L. 7123-19 du code du travail.
 
 Les différends nés de l'assujettissement à la contribution des revenus mentionnés aux articles L. 136-1 à L. 136-4 relèvent du contentieux de la sécurité sociale et sont réglés selon les dispositions applicables aux cotisations de sécurité sociale, conformément aux dispositions du chapitre III du titre III et des chapitres II, III et IV du titre IV du livre Ier dans leur rédaction publiée à la date de la publication de la dernière loi de financement de la sécurité sociale. Toutefois, les décisions rendues par les tribunaux judiciaires spécialement désignés en application de l'article L. 211-16 du code de l'organisation judiciaire jugeant des différends portant sur la contribution sociale sur les revenus d'activité et de remplacement sont susceptibles d'appel quel que soit le montant du litige.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.

@@ -13,3 +13,6 @@ Si les pièces fournies ne contiennent pas certaines informations nécessaires �
 Le silence gardé par l'organisme à l'issue du délai mentionné au premier alinéa du présent IV, vaut décision de rejet de la demande de validation.
 
 V.-Après toute modification des référentiels mentionnés à l'article L. 1470-5 du code de la santé publique, le fabricant ou le distributeur est tenu de solliciter, dans un délai de quinze jours suivant l'entrée en vigueur de ces modifications, la délivrance, dans les conditions prévues au présent article, d'un nouveau certificat de conformité.
+
+NOTA:
+Conformément au III de l’article 3 du décret n° 2022-1767 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.

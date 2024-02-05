@@ -11,3 +11,6 @@ Sont soumis à une cotisation d'assurance maladie, maternité, invalidité et d�
 Les conditions d'exonération accordée aux titulaires de ces avantages en fonction de leurs ressources et le taux de cotisation sont fixées par décret.
 
 Le prélèvement de la cotisation ne peut avoir pour effet de porter les avantages mentionnés aux 2° et 3° à un montant net inférieur à un seuil fixé par décret.
+
+NOTA:
+Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.

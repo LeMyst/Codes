@@ -15,3 +15,7 @@ Cette prestation comprend :
 La personne ou le ménage qui ne répond pas à la condition de ressources pour percevoir la prime à la naissance ou à l'adoption mentionnée au 1° et l'allocation de base mentionnée au 2° peut toutefois percevoir la prestation et le complément prévus aux 3° et 4°.
 
 Le bénéfice de la prestation mentionnée au 3° peut être cumulé avec le complément mentionné au 4°.
+
+NOTA:
+Conformément au VI de l'article 8 de la loi n° 2014-873 du 4 août 2014, le présent article, tel que modifié par ledit article, est applicable aux enfants nés ou adoptés à partir du 1er octobre 2014.\
+Pour les enfants nés ou adoptés avant le 1er octobre 2014, les dispositions du présent code demeurent applicables dans leur rédaction antérieure à la date d'entrée en vigueur de l'article précité.

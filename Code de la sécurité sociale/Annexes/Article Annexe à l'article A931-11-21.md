@@ -18,11 +18,7 @@ Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dess
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| NOM
-de la contrepartie  | MONTANTS
-bruts  | DÉPRÉCIATION  | MONTANTS NETS
-de provisions  | DÉDUCTIONS  | RISQUES
-après déduction  | RISQUES NETS  |
+| NOM de la contrepartie  | MONTANTS bruts  | DÉPRÉCIATION  | MONTANTS NETS de provisions  | DÉDUCTIONS  | RISQUES après déduction  | RISQUES NETS  |
 | Contrepartie X  |  |  |  |  |  |  |
 | Total du secteur des assurances  |  |  |  |  |  |  |
 | Total du secteur bancaire et des services d'investissement  |  |  |  |  |  |  |
@@ -44,8 +40,7 @@ Doit être déclarée toute transaction intragroupe dont le montant excède 5 % 
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Type de transaction  | Date  | Montant  | Description de l'opération
-(contreparties, sens, objectifs poursuivis...)  |
+| Type de transaction  | Date  | Montant  | Description de l'opération (contreparties, sens, objectifs poursuivis...)  |
 
 Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris dans ces états comptables
 

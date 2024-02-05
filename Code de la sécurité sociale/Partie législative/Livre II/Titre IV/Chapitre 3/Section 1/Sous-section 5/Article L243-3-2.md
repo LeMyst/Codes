@@ -7,3 +7,6 @@ A cette fin, le directeur de l'organisme créancier assigne le dirigeant devant 
 Le présent article est applicable à toute personne exerçant en droit ou en fait, directement ou indirectement, la direction effective de la société, de la personne morale ou du groupement.
 
 Les voies de recours qui peuvent être exercées contre la décision du président du tribunal judiciaire ne font pas obstacle à ce que le directeur de l'organisme créancier prenne à l'encontre du dirigeant des mesures conservatoires en vue de préserver le recouvrement de la créance sociale.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

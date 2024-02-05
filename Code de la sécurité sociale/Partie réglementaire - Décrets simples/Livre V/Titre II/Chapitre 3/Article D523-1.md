@@ -15,3 +15,6 @@ Le droit à l'allocation de soutien familial est ouvert :
 6° pour l'enfant dont l'un au moins des parents se trouve hors d'état de faire face à son obligation d'entretien, à compter du premier jour du mois civil suivant la date à laquelle le parent défaillant a cessé de faire face à cette obligation ;
 
 7°) Pour l'enfant mentionné au 4° du I de l'article L. 523-1, à compter du premier jour du mois civil suivant la date à laquelle le parent a commencé à effectuer le versement la pension alimentaire fixée par décision de justice, ou par convention judiciairement homologuée ou d'une contribution à l'entretien et à l'éducation de l'enfant fixée par un des actes ou accords mentionnés au IV de l'article L. 523-1.
+
+NOTA:
+Aux termes de l'article 5 du décret n° 2018-656 du 24 juillet 2018, les dispositions de l'article D. 523-1 dans leur rédaction issue du a et du b du 1° de l'article 1er du présent décret sont applicables aux prestations dues à compter du 1er octobre 2018. Les dispositions de l'article D. 523-1 dans leur rédaction issue du c du 1° de l'article 1er sont applicables aux prestations dues à compter du 1er juillet 2018.

@@ -17,3 +17,6 @@ Les catégories des indicateurs liés à la qualité et la sécurité des soins 
 7° Démarche de certification ;
 
 8° Les mesures de prévention.
+
+NOTA:
+Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.

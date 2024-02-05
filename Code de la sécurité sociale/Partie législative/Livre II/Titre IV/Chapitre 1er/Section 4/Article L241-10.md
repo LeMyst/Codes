@@ -61,3 +61,6 @@ Un décret détermine les modalités d'application de l'exonération prévue par
 -les modalités selon lesquelles les organismes chargés du recouvrement des cotisations de sécurité sociale du régime général vérifient auprès des organismes servant les prestations mentionnées aux b, c, d et e du I ou les prestations d'aide ménagère visées au précédent alinéa que les personnes au titre desquelles cette exonération a été appliquée ont la qualité de bénéficiaires desdites prestations.
 
 Les rémunérations des aides à domicile ayant la qualité d'agent titulaire relevant du cadre d'emplois des agents sociaux territoriaux en fonction dans un centre communal ou intercommunal d'action sociale bénéficient d'une exonération de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de l'article R. 711-1 du présent code pour la fraction de ces rémunérations remplissant les conditions définies au présent III.
+
+NOTA:
+Conformément à l’article 12, V de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

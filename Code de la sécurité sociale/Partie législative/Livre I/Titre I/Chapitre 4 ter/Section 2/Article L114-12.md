@@ -11,3 +11,6 @@ Les organismes chargés de la gestion d'un régime obligatoire de sécurité soc
 4° Permettent d'établir le respect des conditions de résidence prévues pour l'ouverture des droits et le service des prestations.
 
 Les informations ainsi obtenues ont la même valeur que les données détenues en propre.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

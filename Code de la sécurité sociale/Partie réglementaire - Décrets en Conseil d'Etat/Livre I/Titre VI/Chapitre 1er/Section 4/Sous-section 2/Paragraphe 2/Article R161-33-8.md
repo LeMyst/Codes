@@ -7,3 +7,8 @@ Une copie de ces informations peut également être demandée par le titulaire d
 Le cas échéant et sur demande du titulaire, la copie ainsi délivrée peut ne pas mentionner l'existence d'une exonération de la participation de l'assuré prévue à l'article L. 160-13.
 
 Une copie des informations mentionnées, le cas échéant, aux 4° et 5° de l'article R. 161-33-3, est fournie, sur demande de l'assuré, par l'organisme figurant sur la carte qui sert au titulaire des prestations complémentaires ou des prestations servies en application de la législation relative aux accidents du travail ou aux maladies professionnelles.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

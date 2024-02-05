@@ -5,3 +5,6 @@ Pour l'application du sixième alinéa de l'article L. 861-5, lorsque le bénéf
 Lorsqu'une demande d'admission à la protection complémentaire en matière de santé est effectuée, dans les conditions mentionnées à l'alinéa précédent, après l'expiration d'un délai de deux ans, les caisses d'assurance maladie dont relèvent les demandeurs examinent avec ceux-ci les modalités, telles que prévues au sixième alinéa de l'article L. 861-5, de régularisation des participations restant dues.
 
 Les organismes mentionnés au b de l'article L. 861-4 transmettent sans délai, à la demande des organismes d'assurance maladie dont relèvent ces bénéficiaires, les renseignements relatifs à l'état des créances de participations financières des personnes qui bénéficient auprès d'eux de la protection complémentaire en matière de santé.
+
+NOTA:
+Conformément au III de l'article 3 du décret n° 2022-565 du 15 avril 2022, ces dispositions entrent en vigueur le 1er juin 2022.

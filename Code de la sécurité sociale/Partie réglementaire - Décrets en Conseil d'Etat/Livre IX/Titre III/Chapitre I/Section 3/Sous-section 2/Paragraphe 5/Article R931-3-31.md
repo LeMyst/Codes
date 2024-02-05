@@ -13,3 +13,6 @@ La commission paritaire ou l'assemblée générale délibèrent et statuent sur 
 Elles autorisent les emprunts pour fonds de développement ainsi que les émissions, par l'institution ou l'union, des titres et emprunts subordonnés.
 
 Pour l'exercice des attributions prévues au présent article, la commission paritaire se prononce par voie de délibération adoptée par accord entre, d'une part, l'employeur ou la majorité des organisations syndicales d'employeurs et, d'autre part, la majorité des organisations syndicales de salariés.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

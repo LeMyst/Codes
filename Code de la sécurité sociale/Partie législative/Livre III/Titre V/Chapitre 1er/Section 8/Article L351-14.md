@@ -11,3 +11,6 @@ Les conditions dans lesquelles les demandes doivent être présentées ;
 Les modalités de liquidation ou de révision des droits à l'assurance vieillesse des demandeurs ;
 
 Les cotisations sont égales à celles dues en application de l'article L. 351-14-1.
+
+NOTA:
+LOI n° 2009-1646 du 24 décembre 2009 art 72 : les présentes dispositions sont applicables aux demandes d'adhésion et de rachat déposées à compter d'une date fixée par décret et au plus tard au 1er janvier 2011.

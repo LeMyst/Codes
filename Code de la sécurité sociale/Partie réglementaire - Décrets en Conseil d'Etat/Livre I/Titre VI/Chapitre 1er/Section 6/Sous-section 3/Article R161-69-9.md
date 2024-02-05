@@ -35,3 +35,6 @@ g) Les autres éléments susceptibles d'être pris en compte pour la déterminat
 4° Le nombre d'enfants et, pour chacun d'entre eux, les données communes d'identification mentionnées au 1° du présent article ainsi que la mention des droits à l'assurance vieillesse qu'il ouvre ;
 
 5° Les données d'identification de l'employeur.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

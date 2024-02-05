@@ -7,3 +7,8 @@ Le premier alinéa ne s'applique pas :
 1° Aux assurés demandant à bénéficier d'une fraction de pension dans le cadre d'un dispositif de retraite progressive prévu par des dispositions législatives ou réglementaires, notamment l'article L. 161-22-1-5 ;
 
 2° Aux assurés remplissant les conditions leur permettant de cumuler intégralement le service de leur pension de vieillesse et les revenus tirés de l'exercice d'une activité professionnelle, prévues aux troisième à avant-dernier alinéas de l'article L. 84 du code des pensions civiles et militaires de retraite, ainsi qu'aux quatrième à septième alinéas de l'article L. 161-22 du présent code, aux troisième à avant-dernier alinéas des articles L. 634-6 et L. 643-6 et à l'article L. 653-7, sous réserve que la reprise d'activité, lorsqu'elle a lieu chez le dernier employeur, intervienne au plus tôt six mois après la liquidation de la pension de vieillesse.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Se reporter aux XI et 3° et 7° du XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023.

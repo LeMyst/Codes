@@ -17,3 +17,8 @@ Peuvent être intégrés à la catégorie des cadres pour le bénéfice des gara
 5° L'appartenance au champ d'application d'un régime légalement ou réglementairement obligatoire assurant la couverture du risque concerné, ou bien l'appartenance à certaines catégories spécifiques de salariés définies par les stipulations d'une convention collective, d'un accord de branche ou d'un accord national interprofessionnel caractérisant des conditions d'emploi ou des activités particulières, ainsi que, l'appartenance aux catégories définies clairement et de manière non restrictive à partir des usages constants, généraux et fixes en vigueur dans la profession ;
 
 Ces catégories ne peuvent en aucun cas être définies en fonction du temps de travail, de la nature du contrat, de l'âge ou, sous réserve du 4° et du dernier alinéa de l'article R. 242-1-2, de l'ancienneté des salariés.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2021-1002 du 30 juillet 2021, ces dispositions entrent en vigueur le premier jour du sixième mois qui suit la publication au Journal officiel dudit décret.
+
+Se reporter aux conditions d’application prévues par le second alinéa de l’article 2 du décret n° 2021-1002 du 30 juillet 2021.

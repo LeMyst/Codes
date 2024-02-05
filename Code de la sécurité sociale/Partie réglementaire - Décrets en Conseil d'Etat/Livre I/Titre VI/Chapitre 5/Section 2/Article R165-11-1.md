@@ -23,3 +23,6 @@ L'avis rendu par la Commission nationale d'évaluation des dispositifs médicaux
 10° Le cas échéant, la proposition de soumettre les produits ou prestations à la procédure spécifique prévue au dernier alinéa de l'article R. 165-1 ;
 
 11° Le cas échéant, l'appréciation ou la recommandation prévue au II de l'article R. 165-75.
+
+NOTA:
+Conformément au III de l'article 3 du décret n° 2022-1767 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.

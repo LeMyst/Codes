@@ -27,3 +27,8 @@ VI.-Il ne peut être institué aucun nouveau régime de retraite à prestations 
 Aucun nouvel adhérent ne peut être affilié à un régime mentionné au I à compter de la même date.
 
 Aucun nouveau droit supplémentaire conditionnel à prestations ne peut être acquis au sein d'un régime mentionné au I au titre des périodes d'emploi postérieures au 1er janvier 2020, sauf pour les bénéficiaires ayant adhéré avant le 20 mai 2014 à un tel régime qui était, depuis au moins cette dernière date, fermé à de nouvelles affiliations. N'est pas considéré comme un nouveau droit supplémentaire le fait de calculer, sur le salaire de fin de carrière, les droits constitués au titre des périodes d'emploi antérieures au 1er janvier 2020 dans les conditions prévues par le régime.
+
+NOTA:
+Dans sa décision n° 2015-498 QPC du 20 novembre 2015 (NOR : CSCX1528321S), le Conseil constitutionnel a déclaré le paragraphe II bis de l'article L. 137-11 du code de la sécurité sociale contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision, dans les conditions fixées par son considérant 9.
+
+Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

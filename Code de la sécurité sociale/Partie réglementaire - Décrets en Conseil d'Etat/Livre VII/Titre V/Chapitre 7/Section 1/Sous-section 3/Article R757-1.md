@@ -5,3 +5,6 @@ Les prestations familiales, la retraite du combattant et les pensions attachées
 L'allocation supplémentaire est accordée par le préfet au vu de la décision de la commission d'admission à l'aide sociale.
 
 Pour l'application des dispositions du chapitre III du titre III du code de la famille et de l'aide sociale, le préfet se substitue à la commission d'admission à l'aide sociale.
+
+NOTA:
+(1) l'article 171 du code de la famille et de l'aide sociale est non repris dans le code de l'action sociale et des familles et l'article 161 est non codifié dans le code de l'action sociale et des familles.

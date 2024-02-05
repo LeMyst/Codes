@@ -25,3 +25,6 @@ Les conjoints collaborateurs des travailleurs indépendants ne relevant pas du d
 III.-Le bénéfice de l'exonération mentionnée au I du présent article ne peut être cumulé avec aucun autre dispositif de réduction ou d'abattement applicable à ces cotisations, ni avec celui prévu au 37° de l'article L. 311-3, à l'exception de ceux prévus aux articles L. 613-1 et L. 621-3 du présent code et à l'article L. 731-13 du code rural et de la pêche maritime.
 
 IV.-Une personne ne peut bénéficier de l'exonération mentionnée au I pendant une période de trois ans à compter de la date à laquelle elle a cessé d'en bénéficier au titre d'une activité antérieure.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

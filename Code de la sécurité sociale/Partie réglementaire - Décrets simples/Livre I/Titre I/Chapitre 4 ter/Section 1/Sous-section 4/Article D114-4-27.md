@@ -7,3 +7,6 @@ Pour l'application des dispositions de la présente section aux régimes obligat
 2° Les dispositions du dixième alinéa de l'article D. 114-4-12 ne sont pas applicables ;
 
 3° A l'article D. 114-4-9, les mots : " les organismes nationaux ” sont remplacés par les mots : " les organismes gestionnaires ”.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

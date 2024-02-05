@@ -19,3 +19,8 @@ II.-Le taux de cette contribution est fixé à :
 2° 20 % sur les actions attribuées dans les conditions prévues aux articlesL. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du même code. Elle est exigible le mois suivant la date d'acquisition des actions par le bénéficiaire.
 
 III.-Ces dispositions sont également applicables lorsque l'option est consentie ou l'attribution est effectuée, dans les mêmes conditions, par une société dont le siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans laquelle le bénéficiaire exerce son activité.
+
+NOTA:
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+
+Conformément au II de l'article 206 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s’appliquent aux actions gratuites dont l'attribution a été autorisée par une décision de l'assemblée générale extraordinaire à compter du 1er janvier 2021.

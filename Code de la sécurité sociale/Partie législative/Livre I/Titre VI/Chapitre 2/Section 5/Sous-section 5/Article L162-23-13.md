@@ -9,3 +9,6 @@ Son montant est fonction du pourcentage des sommes indûment perçues par rappor
 Les établissements qui font obstacle à la préparation et à la réalisation du contrôle sont passibles d'une sanction dont le montant ne peut excéder la limite fixée au troisième alinéa.
 
 Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

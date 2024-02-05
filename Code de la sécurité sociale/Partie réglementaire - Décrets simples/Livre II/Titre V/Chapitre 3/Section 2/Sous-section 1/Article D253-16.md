@@ -9,3 +9,10 @@ Les contrôles pourront être sélectifs suivant la nature de la recette.
 Il est fait recette du montant intégral des produits sans contraction entre les recettes et les dépenses.
 
 Les ordres de recette sont conservés par le directeur comptable et financier.
+
+NOTA:
+l'article D253-16 est applicable à la caisse mutuelle et aux groupements mutualistes habilités à liquider et à payer les prestations pour son compte, sous certaines réserves indiquées à l'article D381-13 du code de la sécurité sociale (modifié par le décret 93-1165 du 14 octobre 1993 art. 1).
+
+l'article D253-16 est applicable à la caisse mutuelle et aux groupements mutualistes habilités à liquider et à payer les prestations pour son compte, sous certaines réserves indiquées à l'article D721-5 du code de la sécurité sociale (modifié par le décret 93-1167 du 14 octobre 1993 art. 1).
+
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

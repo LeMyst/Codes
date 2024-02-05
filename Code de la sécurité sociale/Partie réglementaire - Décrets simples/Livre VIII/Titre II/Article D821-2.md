@@ -5,3 +5,6 @@ La personne qui satisfait aux autres conditions d'attribution peut prétendre à
 Lorsque le demandeur a des enfants à charge au sens des articles L. 512-3, L. 512-4 et du premier alinéa de l'article L. 521-2, le plafond mentionné au premier alinéa du présent article est majoré d'une somme égale à la moitié de ce plafond pour chacun des enfants.
 
 Le bénéficiaire de l'allocation aux adultes handicapés a droit, mensuellement, à une allocation égale au douzième de la différence entre le montant du plafond applicable et les ressources annuelles mentionnées au premier alinéa, ou, pour le bénéficiaire dont les ressources sont appréciées conformément à l'article R. 821-4-1, au tiers de la différence entre le montant du plafond applicable et les ressources trimestrielles mentionnées au même alinéa, sans que cette allocation puisse excéder le montant mensuel de l'allocation aux adultes handicapés fixé selon les modalités prévues à l'article L. 821-3-1.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2023-360 du 11 mai 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

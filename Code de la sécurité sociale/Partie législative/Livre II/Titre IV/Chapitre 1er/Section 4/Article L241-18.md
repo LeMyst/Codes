@@ -21,3 +21,6 @@ V.-Le bénéfice des déductions mentionnées aux I et II est subordonné, pour 
 V bis.-Abrogé.
 
 VI.-Un décret fixe les modalités d'application du présent article ainsi que les modalités selon lesquelles les heures supplémentaires effectuées par les salariés affiliés au régime général dont la durée du travail ne relève pas du titre II du livre Ier de la troisième partie du code du travail ou du chapitre III du titre Ier du livre VII du code rural et de la pêche maritime ouvrent droit aux déductions mentionnées au présent article.
+
+NOTA:
+Conformément au XII de l’article 11 de la loi n° 2019-486 du 22 mai 2019, dans leur rédaction antérieure à la présente loi, continuent à s'appliquer aux entreprises bénéficiaires de ces dispositions au 31 décembre 2019.

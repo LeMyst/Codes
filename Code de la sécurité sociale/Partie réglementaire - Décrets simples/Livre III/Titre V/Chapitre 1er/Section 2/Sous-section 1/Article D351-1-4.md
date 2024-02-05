@@ -15,3 +15,6 @@ Pour l'application du présent article, il est retenu au titre de l'année au co
 La durée d'assurance prise en compte au-delà de la limite mentionnée au deuxième alinéa de l'article L. 351-1 ne peut excéder quatre trimestres par année.
 
 La majoration prévue au présent article est calculée avant la majoration prévue à l'article L. 351-12.
+
+NOTA:
+Décret n° 2010-1734 du 30 décembre 2010 art. 11 : Ces dispositions sont applicables aux pensions prenant effet à compter du 1er juillet 2011.

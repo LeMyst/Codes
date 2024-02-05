@@ -9,3 +9,8 @@ S'il porte sur la régularité du scrutin, elle fait état des noms, prénoms et
 Il est délivré un récépissé du recours.
 
 Le recours est porté à la connaissance du procureur de la République par le greffier en chef.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.

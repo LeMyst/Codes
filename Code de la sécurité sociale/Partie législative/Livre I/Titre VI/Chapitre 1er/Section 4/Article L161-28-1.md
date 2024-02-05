@@ -17,3 +17,6 @@ Les modalités de gestion et de renseignement du système national d'information
 Cet arrêté est pris après avis motivé de la Commission nationale de l'informatique et des libertés.
 
 Les données reçues et traitées par le système national d'information interrégimes de l'assurance maladie préservent la vie privée des personnes ayant bénéficié des prestations de soins.
+
+NOTA:
+Conformément aux dispositions du B du I de l'article 10 de l'ordonnance n° 2018-470 du 12 juin 2018, ces dispositions entrent en vigueur le 1er janvier 2020.

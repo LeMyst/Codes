@@ -7,3 +7,6 @@ La pension de réversion est égale à un pourcentage fixé par décret de la pe
 Elle est majorée lorsque le bénéficiaire remplit les conditions fixées à l'article L. 351-12. Cette majoration ne peut être inférieure à un pourcentage du montant minimum de la pension de réversion.
 
 Lorsque son montant majoré des ressources mentionnées au premier alinéa excède les plafonds prévus, la pension de réversion est réduite à due concurrence du dépassement.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

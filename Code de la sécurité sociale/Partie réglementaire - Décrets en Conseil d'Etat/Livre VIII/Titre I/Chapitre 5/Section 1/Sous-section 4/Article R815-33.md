@@ -9,3 +9,6 @@ La date de l'entrée en jouissance de l'allocation de solidarité aux personnes 
 3° Au premier jour du mois qui suit leur soixante-cinquième anniversaire, pour les personnes mentionnées à l'article R. 815-15.
 
 Pour les personnes mentionnées au second alinéa de l'article R. 815-1, les mêmes règles s'appliquent, compte tenu de la date à laquelle elles ont été reconnues inaptes au travail ou sont entrées en jouissance d'un avantage de vieillesse entre l'âge prévu par l'article L. 351-1-5 et leur soixante-cinquième anniversaire.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

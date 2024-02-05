@@ -37,3 +37,8 @@ Pour les salariés expatriés mentionnés au a de l'article L. 5427-1 du code du
 Pour les salariés mentionnés à l'article L. 133-9 du présent code, le montant de la réduction s'impute en outre, selon les mêmes règles, sur les cotisations recouvrées par l'organisme de recouvrement habilité par l'Etat en application du même article L. 133-9.
 
 VIII.-(Abrogé)
+
+NOTA:
+Conformément à l’article 12, V de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+
+Conformément au II de l'article 107 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions sont applicables pour les cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2021.

@@ -15,3 +15,6 @@ Lorsque la régularisation et l'ajustement font apparaître un trop-versé, celu
 III.-Si un paiement mensuel n'est pas effectué à sa date d'exigibilité, la somme est recouvrée avec le paiement mensuel suivant. Si deux paiements consécutifs ne sont pas effectués à leur date d'exigibilité, le recouvrement des sommes restant dues au titre de l'année en cours est poursuivi trimestriellement dans les conditions mentionnées au quatrième alinéa de l'article R. 613-3.
 
 Les dispositions relatives aux majorations de retard mentionnées à l'article R. 243-16 sont applicables à compter du deuxième incident de paiement consécutif au cours d'une même année civile.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

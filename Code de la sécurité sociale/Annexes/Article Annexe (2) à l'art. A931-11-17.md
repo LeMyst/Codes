@@ -23,10 +23,7 @@ Prestations servies au titre d'un contrat de rente, d'une garantie décès (acci
 | 7. Provisions techniques à la clôture de l'exercice (1)  |  |
 | 8. Charges de gestion (4)  |  |
 | Solde (= 1 + 2 + 3 + 4-5-6-7-8)  |  |
-| (1) Provisions d'assurance vie et provisions mathématiques non-vie.
-(2) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées et ajustement des opérations en unités de compte.
-(3) Aux taux prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques non-vie.
-(4) Egales aux prélèvements prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques Non-vie.  |
+| (1) Provisions d'assurance vie et provisions mathématiques non-vie. (2) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées et ajustement des opérations en unités de compte. (3) Aux taux prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques non-vie. (4) Egales aux prélèvements prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques Non-vie.  |
 
 TABLEAU B
 
@@ -36,8 +33,7 @@ Paiements et provisions par année de constitution des rentes
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE CONSTITUTION  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | (N)  | TOTAL  |
+| ANNÉE DE CONSTITUTION  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | (N)  | TOTAL  |
 | 1. Provisions mathématiques à l'ouverture (1)  |  |  |  |  |  | XXXXX  |  |
 | 2. Capitaux entrés au cours de l'exercice (2)  |  |  |  |  |  |  |  |
 | 3. Autres ressources (3)  |  |  |  |  |  |  |  |
@@ -47,11 +43,7 @@ et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | (N)  | TOTAL  |
 | 7. Provisions mathématiques à la clôture (1)  |  |  |  |  |  |  |  |
 | 8. Charges de gestion (5)  |  |  |  |  |  |  |  |
 | Solde = 1 + 2 + 3 + 4-5-6-7-8  |  |  |  |  |  |  |  |
-| (1) Uniquement provisions mathématiques (Non-vie) en cas d'invalidité.
-(2) Pour les exercices antérieurs à N, uniquement par révision de rente.
-(3) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
-(4) Aux taux prévus pour la constitution des provisions mathématiques.
-(5) Egales aux prélèvements prévus pour la constitution des provisions mathématiques.  |
+| (1) Uniquement provisions mathématiques (Non-vie) en cas d'invalidité. (2) Pour les exercices antérieurs à N, uniquement par révision de rente. (3) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées. (4) Aux taux prévus pour la constitution des provisions mathématiques. (5) Egales aux prélèvements prévus pour la constitution des provisions mathématiques.  |
 
 TABLEAU C
 
@@ -61,15 +53,13 @@ Paiements, au cours de l'exercice, par année de survenance des sinistres
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE (1)  | (N-12)
-et ant.  | (N-11)  | (N-10)  | (N-9)  | (N-8)  | (N-7)  | (N-6)  |
-| 1. Indemnités journalières (incapacité temporaire)  |   |   |   |   |   |   |   |
-| 2. Rentes d'invalidité  |   |   |   |   |   |   |   |
+| ANNÉE DE SURVENANCE (1)  | (N-12) et ant.  | (N-11)  | (N-10)  | (N-9)  | (N-8)  | (N-7)  | (N-6)  |
+| 1. Indemnités journalières (incapacité temporaire)  |  |  |  |  |  |  |  |
+| 2. Rentes d'invalidité  |  |  |  |  |  |  |  |
 | ANNÉE DE SURVENANCE (1)  | (N-5)  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | (N)  | TOTAL (2)  |
-| 1. Indemnités journalières (incapacité)  |   |   |   |   |   |   |   |
-| 2. Rentes d'invalidité  |   |   |   |   |   |   |   |
-| (1) En cas d'arrêts de travail successifs, l'année de survenance est déterminée comme prévu au bulletin d'adhésion, au règlement ou au contrat.
-(2) La colonne " Total " est la somme des 13 colonnes N-12 et antérieurs à N.  |
+| 1. Indemnités journalières (incapacité)  |  |  |  |  |  |  |  |
+| 2. Rentes d'invalidité  |  |  |  |  |  |  |  |
+| (1) En cas d'arrêts de travail successifs, l'année de survenance est déterminée comme prévu au bulletin d'adhésion, au règlement ou au contrat. (2) La colonne " Total " est la somme des 13 colonnes N-12 et antérieurs à N.  |
 
 Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle prudentiel et de résolution peut dispenser l'institution ou l'union de remplir le tableau C.
 
@@ -109,17 +99,15 @@ Cotisations acquises
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE RATTACHEMENT  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | Ex. INV.  | TOTAL  |
-| 1. Cumul des cotisations appelées, nettes d'annulations, au cours des exercices antérieurs  | XXXXX  |   |   |   |   |   | XXXXX  |
-| 2. Cotisations appelées, nettes d'annulations, au cours de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Cotisations appelées, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1)  | XXXXX  |   |   |   |   |   | XXXXX  |
-| 5. Fraction des cotisations non courue à la fin de l'année de rattachement  |   |   |   |   |   |   | XXXXX  |
-| 6. Total : cotisations acquises (2)  | XXXXX  |   |   |   |   |   | XXXXX  |
-| Rappel : émissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent  |   |   |   |   | XXXXX  |   |   |
-| (1) Montant égal au montant inscrit en ligne 5 de la colonne précédente.
-(2) 1 + 2 + 3 + 4-5.  |
+| ANNÉE DE RATTACHEMENT  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | Ex. INV.  | TOTAL  |
+| 1. Cumul des cotisations appelées, nettes d'annulations, au cours des exercices antérieurs  | XXXXX  |  |  |  |  |  | XXXXX  |
+| 2. Cotisations appelées, nettes d'annulations, au cours de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Cotisations appelées, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1)  | XXXXX  |  |  |  |  |  | XXXXX  |
+| 5. Fraction des cotisations non courue à la fin de l'année de rattachement  |  |  |  |  |  |  | XXXXX  |
+| 6. Total : cotisations acquises (2)  | XXXXX  |  |  |  |  |  | XXXXX  |
+| Rappel : émissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent  |  |  |  |  | XXXXX  |  |  |
+| (1) Montant égal au montant inscrit en ligne 5 de la colonne précédente. (2) 1 + 2 + 3 + 4-5.  |
 
 TABLEAU B
 
@@ -148,18 +136,15 @@ Coût moyen et rapport s / c par année de survenance des sinistres
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | ANNÉE DE SURVENANCE  | (N-5)  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | Ex. INV.  |
-| 1. Cumul des paiements (1), nets de recours, au cours des exercices antérieurs (2)  |   |   |   |   |   | XXXXX  |
-| 2. Paiements (1), nets de recours, au cours de l'exercice inventorié (2)  |   |   |   |   |   |   |
-| 3. Provisions pour sinistres à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2)  |   |   |   |   |   |   |
-| 4. Charge nette de recours (2) (3)  |   |   |   |   |   |   |
-| 5. Nombre de sinistres ou d'événements  |   |   |   |   |   |   |
-| 6. Coût moyen net de recours (4)  |   |   |   |   |   |   |
-| 7. Cotisations acquises à l'année  |   |   |   |   |   |   |
-| 8. Rapport s / c (en %)  |   |   |   |   |   |   |
-| (1) Capitaux de rentes constituées dans l'exercice inclus.
-(2) Frais de gestion inclus.
-(3) 1 + 2 + 3.
-(4) Par dérogation aux dispositions du premier alinéa de la présente annexe, les montants portés à cette ligne sont exprimés en francs.  |
+| 1. Cumul des paiements (1), nets de recours, au cours des exercices antérieurs (2)  |  |  |  |  |  | XXXXX  |
+| 2. Paiements (1), nets de recours, au cours de l'exercice inventorié (2)  |  |  |  |  |  |  |
+| 3. Provisions pour sinistres à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2)  |  |  |  |  |  |  |
+| 4. Charge nette de recours (2) (3)  |  |  |  |  |  |  |
+| 5. Nombre de sinistres ou d'événements  |  |  |  |  |  |  |
+| 6. Coût moyen net de recours (4)  |  |  |  |  |  |  |
+| 7. Cotisations acquises à l'année  |  |  |  |  |  |  |
+| 8. Rapport s / c (en %)  |  |  |  |  |  |  |
+| (1) Capitaux de rentes constituées dans l'exercice inclus. (2) Frais de gestion inclus. (3) 1 + 2 + 3. (4) Par dérogation aux dispositions du premier alinéa de la présente annexe, les montants portés à cette ligne sont exprimés en francs.  |
 
 ETAT C 11
 
@@ -201,17 +186,14 @@ Nombre de sinistres payés ou à payer
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | Ex.
-INV.  | TOTAL  |
-| 1. Terminés à l'ouverture de l'exercice inventorié (1)  | XXXXX  |   |   |   |   | XXXXX  | XXXXX  |
-| 2. Réouverts dans l'exercice  |   |   |   |   |   |   |   |
-| 3. Terminés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 4. Restant à payer à la clôture de l'exercice inventorié (2)  |   |   |   |   |   |   |   |
-| 5. Total (1-2 + 3 + 4)  | XXXXX  |   |   |   |   |   | XXXXX  |
-| 6. Dont déclarés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| (1) 1-2 + 3 de l'année précédente.
-(2) Cette ligne doit comprendre l'estimation du nombre de sinistres survenus mais non déclarés.  |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | Ex. INV.  | TOTAL  |
+| 1. Terminés à l'ouverture de l'exercice inventorié (1)  | XXXXX  |  |  |  |  | XXXXX  | XXXXX  |
+| 2. Réouverts dans l'exercice  |  |  |  |  |  |  |  |
+| 3. Terminés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 4. Restant à payer à la clôture de l'exercice inventorié (2)  |  |  |  |  |  |  |  |
+| 5. Total (1-2 + 3 + 4)  | XXXXX  |  |  |  |  |  | XXXXX  |
+| 6. Dont déclarés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| (1) 1-2 + 3 de l'année précédente. (2) Cette ligne doit comprendre l'estimation du nombre de sinistres survenus mais non déclarés.  |
 
 TABLEAU B
 
@@ -219,15 +201,14 @@ Sinistres, paiements et provisions
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Paiements de sinistres dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Capitaux de rentes constitués dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées  |   |   |   |   |   |   |   |
-| 5. Total  |   |   |   |   |   |   |   |
-| 6. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
-| 7. Paiements de sinistres et de capitaux de rentes constituées cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |   |   |   |   | XXXXX  | XXXXX  |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements de sinistres dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Capitaux de rentes constitués dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées  |  |  |  |  |  |  |  |
+| 5. Total  |  |  |  |  |  |  |  |
+| 6. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
+| 7. Paiements de sinistres et de capitaux de rentes constituées cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |  |  |  |  | XXXXX  | XXXXX  |
 
 TABLEAU C
 
@@ -235,13 +216,12 @@ Recours
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Recours encaissés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Total  |   |   |   |   |   |   |   |
-| 4. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXX  |   |
-| 5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |   |   |   |   | XXXXX  | XXXXX  |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Recours encaissés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Total  |  |  |  |  |  |  |  |
+| 4. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXX  |  |
+| 5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |  |  |  |  | XXXXX  | XXXXX  |
 
 TABLEAU D
 
@@ -249,13 +229,12 @@ Frais de gestion des sinistres et des recours
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Frais de gestion payés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Provision pour frais de gestion à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| Total (1 + 2)  |   |   |   |   |   |   |   |
-| 4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
-| 5. Frais de gestion payés cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |   |   |   |   | XXXXX  | XXXXX  |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Frais de gestion payés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Provision pour frais de gestion à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| Total (1 + 2)  |  |  |  |  |  |  |  |
+| 4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
+| 5. Frais de gestion payés cumulés des exercices antérieurs à l'exercice inventorié  | XXXXX  |  |  |  |  | XXXXX  | XXXXX  |
 
 Les institutions et les unions dont les provisions pour sinistres à payer n'atteignent pas 10 % des provisions mathématiques Non-vie sont dispensées de l'établissement des états C 11.
 
@@ -277,25 +256,23 @@ Sinistres, paiements et provisions, par année de souscription
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SOUSCRIPTION  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Paiements de sinistres dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Frais de gestion payés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Recours encaissés dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 7. Autres provisions techniques à la clôture de l'exercice inventorié (1)  |   |   |   |   |   |   |   |
-| 8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7)  |   |   |   |   |   |   |   |
-| 9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
-| 10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
-| 11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
-| 12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1)  |   |   |   |   |   | XXXXX  |   |
-| 13. Augmentation des cotisations acquises (2)  |   |   |   |   |   | XXXXX  |   |
-| 14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées  |   |   |   |   |   |   |   |
-| 15. Sous-total (lignes 9 + 10-11 + 12 + 13 + 14)  |   |   |   |   |   |   |   |
-| (1) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours, provisions pour risques croissants.
-(2) Nettes de frais d'acquisition.  |
+| ANNÉE DE SOUSCRIPTION  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements de sinistres dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Frais de gestion payés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Recours encaissés dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 7. Autres provisions techniques à la clôture de l'exercice inventorié (1)  |  |  |  |  |  |  |  |
+| 8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7)  |  |  |  |  |  |  |  |
+| 9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
+| 10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
+| 11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
+| 12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1)  |  |  |  |  |  | XXXXX  |  |
+| 13. Augmentation des cotisations acquises (2)  |  |  |  |  |  | XXXXX  |  |
+| 14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées  |  |  |  |  |  |  |  |
+| 15. Sous-total (lignes 9 + 10-11 + 12 + 13 + 14)  |  |  |  |  |  |  |  |
+| (1) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours, provisions pour risques croissants. (2) Nettes de frais d'acquisition.  |
 
 TABLEAU B
 
@@ -303,19 +280,15 @@ Rapport s / c par année de souscription
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SOUSCRIPTION  | (N-5)  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX.
-INV.  |
-| 1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1)  |   |   |   |   |   | XXXXX  |
-| 2. Paiements, nets de recours, au cours de l'exercice inventorié (1)  |   |   |   |   |   |   |
-| 3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2)  |   |   |   |   |   |   |
-| 4. Charge nette de recours  |   |   |   |   |   |   |
-| 5. Cumul des participations aux excédents incorporées aux prestations payées ou provisionnées  |   |   |   |   |   |   |
-| 6. Cotisations acquises à l'année (3)  |   |   |   |   |   |   |
-| 7. Coût net / cotisations (en %) (4)  |   |   |   |   |   |   |
-| (1) Frais de gestion inclus.
-(2) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours, provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours.
-(3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de l'estimation des cotisations à émettre, nette des cotisations à annuler.
-(4) (Ligne 4-ligne 5) / ligne 6.  |
+| ANNÉE DE SOUSCRIPTION  | (N-5)  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  |
+| 1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1)  |  |  |  |  |  | XXXXX  |
+| 2. Paiements, nets de recours, au cours de l'exercice inventorié (1)  |  |  |  |  |  |  |
+| 3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2)  |  |  |  |  |  |  |
+| 4. Charge nette de recours  |  |  |  |  |  |  |
+| 5. Cumul des participations aux excédents incorporées aux prestations payées ou provisionnées  |  |  |  |  |  |  |
+| 6. Cotisations acquises à l'année (3)  |  |  |  |  |  |  |
+| 7. Coût net / cotisations (en %) (4)  |  |  |  |  |  |  |
+| (1) Frais de gestion inclus. (2) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours, provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours. (3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de l'estimation des cotisations à émettre, nette des cotisations à annuler. (4) (Ligne 4-ligne 5) / ligne 6.  |
 
 ETAT C 13
 
@@ -329,12 +302,11 @@ Sinistres au titre d'opérations relevant des catégories 20 à 31 (1) (opérati
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Paiements dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Total  |   |   |   |   |   |   |   |
-| 4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |   |   |   |   |   | XXXXX  |   |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Total  |  |  |  |  |  |  |  |
+| 4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié  |  |  |  |  |  | XXXXX  |  |
 
 TABLEAU B
 
@@ -342,15 +314,13 @@ Sinistres au titre d'opérations pluriannuelles à cotisation unique ou non rév
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX.
-INV.  | TOTAL  |
-| 1. Paiements dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Provisions techniques à la clôture de l'exercice inventorié.  |   |   |   |   |   |   |   |
-| 3. Total  |   |   |   |   |   |   |   |
-| 4. Provisions techniques à l'ouverture de l'exercice inventorié.  |   |   |   |   |   | XXXXX  |   |
-| 5. Augmentation des primes acquises et autres ressources (3)  |   |   |   |   |   |   |   |
-| 6. Total  |   |   |   |   |   |   |   |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Provisions techniques à la clôture de l'exercice inventorié.  |  |  |  |  |  |  |  |
+| 3. Total  |  |  |  |  |  |  |  |
+| 4. Provisions techniques à l'ouverture de l'exercice inventorié.  |  |  |  |  |  | XXXXX  |  |
+| 5. Augmentation des primes acquises et autres ressources (3)  |  |  |  |  |  |  |  |
+| 6. Total  |  |  |  |  |  |  |  |
 
 TABLEAU C
 
@@ -358,12 +328,11 @@ Sinistres au titre d'opérations des catégories 20 à 31 (2) (LPS, acceptations
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Paiements dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Total  |   |   |   |   |   |   |   |
-| 4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié.  |   |   |   |   |   | XXXXX  |   |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Total  |  |  |  |  |  |  |  |
+| 4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié.  |  |  |  |  |  | XXXXX  |  |
 
 TABLEAU D
 
@@ -371,17 +340,19 @@ Sinistres au titre des opérations pluriannuelles à cotisation unique ou non r�
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ANNÉE DE SURVENANCE  | (N-5)
-et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
-| 1. Paiements dans l'exercice inventorié  |   |   |   |   |   |   |   |
-| 2. Provisions techniques à la clôture de l'exercice inventorié  |   |   |   |   |   |   |   |
-| 3. Total  |   |   |   |   |   |   |   |
-| 4. Provisions techniques à l'ouverture de l'exercice inventorié.  |   |   |   |   |   | XXXXX  |   |
-| 5. Augmentation des primes acquises et autres ressources (3)  |   |   |   |   |   |   |   |
-| 6. Total  |   |   |   |   |   |   |   |
+| ANNÉE DE SURVENANCE  | (N-5) et ant.  | (N-4)  | (N-3)  | (N-2)  | (N-1)  | EX. INV.  | TOTAL  |
+| 1. Paiements dans l'exercice inventorié  |  |  |  |  |  |  |  |
+| 2. Provisions techniques à la clôture de l'exercice inventorié  |  |  |  |  |  |  |  |
+| 3. Total  |  |  |  |  |  |  |  |
+| 4. Provisions techniques à l'ouverture de l'exercice inventorié.  |  |  |  |  |  | XXXXX  |  |
+| 5. Augmentation des primes acquises et autres ressources (3)  |  |  |  |  |  |  |  |
+| 6. Total  |  |  |  |  |  |  |  |
 
 (1) Hors opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31.
 
 (2) Hors opérations pluriannuelles à cotisation unique ou non révisable et opérations assimilées en application du dernier alinéa de l'article A. 931-11-17.
 
 (3) Les " autres ressources " sont la contribution des cessionnaires et rétrocessionnaires dans les participants aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+NOTA:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

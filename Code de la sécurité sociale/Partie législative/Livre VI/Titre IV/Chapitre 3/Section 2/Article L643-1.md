@@ -9,3 +9,6 @@ Les femmes ayant accouché au cours d'une année civile d'affiliation au régime
 Les personnes ayant exercé leur activité libérale en étant atteintes d'une invalidité entraînant pour elles l'obligation d'avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie bénéficient de points supplémentaires, dans des conditions fixées par décret.
 
 La pension de retraite est, le cas échéant, portée au montant de l'allocation aux vieux travailleurs salariés en ajoutant aux périodes d'assurance les périodes d'exercice de l'activité libérale antérieures à l'obligation de cotiser, dans des conditions fixées par décret.
+
+NOTA:
+LOI n° 2009-1646 du 24 décembre 2009 art 65 VIII : les présentes dispositions sont applicables aux pensions de retraite prenant effet à compter du 1er avril 2010.

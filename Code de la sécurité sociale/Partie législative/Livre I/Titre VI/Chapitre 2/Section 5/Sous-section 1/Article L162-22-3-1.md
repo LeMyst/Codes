@@ -21,3 +21,10 @@ III.-Lorsque le comité d'alerte sur l'évolution des dépenses de l'assurance m
 IV.-Un décret détermine les modalités du suivi statistique des charges supportées par les régimes obligatoires d'assurance maladie.
 
 V.-Les tarifs de responsabilité afférents aux activités de médecine, de chirurgie, d'obstétrique et d'odontologie exercées par les établissements de santé privés mentionnés au e de l'article L. 162-22 sont fixés par l'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au 3° du A du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, le 1° du II du présent article prent effet au 1er janvier 2025.
+
+Conformément au D du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, jusqu'au 31 décembre 2025, par dérogation au présent article dans sa rédaction résultant des 1° et 5° du D du I dudit article 49, les tarifs et les coefficients mentionnés au présent article prennent effet au 1er mars de l'année en cours.

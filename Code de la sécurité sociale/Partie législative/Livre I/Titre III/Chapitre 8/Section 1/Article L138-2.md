@@ -17,3 +17,6 @@ Le montant cumulé résultant des opérations effectuées sur les deux première
 Lorsqu'une entreprise est soumise pour la première fois à la contribution, elle n'est redevable la première année que de la première et de la troisième parts. En ce qui concerne le calcul de la seconde part pour la deuxième année d'acquittement de la contribution, et dans le cas où l'entreprise n'a pas eu d'activité commerciale tout au long de la première année civile, le chiffre d'affaires pris en compte au titre de la première année est calculé au prorata de la durée écoulée afin de couvrir une année civile dans son intégralité.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l’article 5 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions s'appliquent à la contribution prévue à l'article L. 138-1 du code de la sécurité sociale due à compter de l'exercice 2021.

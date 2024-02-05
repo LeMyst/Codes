@@ -11,3 +11,6 @@ La pénalité est due par la personne mentionnée audit article L. 8222-1.
 La pénalité n'est pas applicable en cas de production, lors du contrôle, d'un justificatif attestant du dépôt de la demande d'obtention du formulaire mentionné au premier alinéa du présent article, suivie de la production, dans un délai de deux mois à compter du contrôle, du formulaire délivré à la suite de cette demande.
 
 La pénalité est recouvrée par les organismes en charge du recouvrement des cotisations ou contributions de sécurité sociale, selon les règles et sous les garanties et sanctions applicables au recouvrement de ces cotisations ou contributions.
+
+NOTA:
+Conformément au II de l'article 27 de la loi n° 2016-1827 du 23 décembre 2016, ces dispositions entrent en vigueur le 1er avril 2017.

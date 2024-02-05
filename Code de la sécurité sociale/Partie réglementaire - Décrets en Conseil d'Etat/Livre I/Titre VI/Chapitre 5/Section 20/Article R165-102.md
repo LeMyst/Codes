@@ -7,3 +7,6 @@ II.-La déclaration mentionnée au I est effectuée au plus tard le 31 mars de l
 III.-Lorsque la déclaration reçue est incomplète ou imprécise, le Comité économique des produits de santé peut solliciter, par tout moyen permettant de donner date certaine à la réception de cette demande, des compléments ou des précisions auprès de l'exploitant ou du fournisseur, qui dispose d'un délai maximal d'un mois à compter de la réception de la demande de complément d'informations pour produire les éléments complémentaires attendus.
 
 IV.-Le cas échéant, aux fins de contrôle de l'exactitude des déclarations reçues, le Comité économique des produits de santé peut, à tout moment et par tout moyen permettant de donner date certaine à la réception de cette demande, demander à l'exploitant ou au fournisseur concerné des éléments justificatifs des données transmises. L'exploitant ou le fournisseur dispose d'un délai maximal d'un mois à compter de la réception de la demande de supplément d'informations pour transmettre au comité les éléments demandés.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-331 du 26 mars 2021, ces dispositions s'appliquent pour la première fois aux déclarations requises au titre de l'année 2020 , transmises avant le 1er septembre 2021 , par dérogation aux dispositions du II de l'article R. 165-102 du code de la sécurité sociale .

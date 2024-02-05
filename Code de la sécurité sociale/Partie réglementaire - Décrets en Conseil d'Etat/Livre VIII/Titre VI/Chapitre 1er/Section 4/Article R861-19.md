@@ -15,3 +15,6 @@ L'inscription prend effet à compter du 1er janvier si la déclaration de l'orga
 Toute décision d'attribution de la protection complémentaire en matière de santé emporte, pour l'organisme inscrit sur la liste, l'obligation de servir au bénéficiaire les prestations prévues à l'article L. 861-3 pendant un an à compter de la date d'effet de la décision d'attribution.
 
 III.-La liste des organismes participant à la protection complémentaire en matière de santé et celle des implantations déclarées au ministre chargé de la sécurité sociale sont mises à disposition du public sur un site internet dédié à la complémentaire santé solidaire.
+
+NOTA:
+Conformément au I de l’article 4 du décret n° 2020-1744 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

@@ -85,3 +85,6 @@ Il fixe également les conditions dans lesquelles les deux premiers alinéas du 
 38° Les élèves et les étudiants de l'enseignement supérieur réalisant ou participant à la réalisation, moyennant rémunération, d'études à caractère pédagogique au sein d'une association constituée exclusivement à cette fin.
 
 Un décret fixe les modalités d'application du présent article.
+
+NOTA:
+Conformément au V de l'article 14 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux cotisations et contributions sociales dues au titre des périodes courant à compter du 1er janvier 2023.

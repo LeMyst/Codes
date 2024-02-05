@@ -15,3 +15,6 @@ Il comporte les indications suivantes :
 1. La date d'entrée en jouissance.
 
 Seront également mentionnés, s'il y a lieu, les nom, prénoms et adresse, ou toutes indications en permettant l'identification, du tuteur aux prestations sociales ou, s'il s'agit d'un incapable majeur protégé par la loi n° 68-5 du 3 janvier 1968, du représentant ayant préalablement justifié de ses pouvoirs.
+
+NOTA:
+Code de la sécurité sociale D721-5 (modifié par le Décret 93-1167 du 14 octobre 1993 art. 1) : l'article D254-4 est applicable à la caisse mutuelle et aux groupements mutualistes habilités à liquider et à payer les prestations pour son compte.

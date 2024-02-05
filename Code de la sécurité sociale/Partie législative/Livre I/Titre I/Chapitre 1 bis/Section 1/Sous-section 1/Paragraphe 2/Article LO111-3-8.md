@@ -19,3 +19,6 @@ a) La dette des établissements de santé relevant du service public hospitalier
 b) La dette des établissements médico-sociaux publics et privés à but non lucratif financés en tout ou partie par les régimes obligatoires de base de sécurité sociale et soumis à un objectif de dépenses ;
 
 4° Les dispositions améliorant l'information et le contrôle du Parlement sur l'application des lois de financement de la sécurité sociale.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

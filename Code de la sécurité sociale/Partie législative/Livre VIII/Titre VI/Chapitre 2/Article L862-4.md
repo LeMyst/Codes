@@ -35,3 +35,6 @@ IV.-(Abrogé).
 V.-Les déclarations et versements afférents à cette taxe sont effectués par voie dématérialisée, dans des conditions fixées par décret.
 
 La méconnaissance de l'obligation de déclaration ou de versement par voie dématérialisée prévue au premier alinéa du présent V entraîne l'application d'une majoration, fixée par décret, dans la limite de 0,2 % de la taxe dont la déclaration ou le versement n'a pas été effectué par voie dématérialisée. Ces majorations sont versées à l'organisme chargé du recouvrement de cette taxe dont le redevable relève, selon les règles, garanties et sanctions applicables à cette taxe.
+
+NOTA:
+Conformément au II de l'article 81 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

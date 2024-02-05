@@ -15,3 +15,6 @@ b) Les honoraires des auxiliaires médicaux, à l'exclusion de ceux afférents a
 a) De ceux afférents aux examens de biologie médicale ;
 
 b) Pour les établissements mentionnés aux a, b et c de l'article L. 162-22-6, de ceux du praticien désigné par le patient pour assurer de façon continue sa prise en charge à domicile.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2021-216 du 25 février 2021, les dispositions issues du 1° de l'article 5 entrent en vigueur le 1er septembre 2021.

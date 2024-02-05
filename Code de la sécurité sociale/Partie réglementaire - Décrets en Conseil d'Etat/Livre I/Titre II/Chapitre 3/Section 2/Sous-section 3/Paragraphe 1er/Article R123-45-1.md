@@ -13,3 +13,6 @@ Peuvent solliciter leur inscription sur la liste d'aptitude, sous réserve de re
 4° Les agents publics de catégorie A ;
 
 5° Les personnes répondant à l'une des situations mentionnées aux 1° à 3° et dont le contrat de travail est suspendu en application des dispositions du code du travail ou des conventions collectives.
+
+NOTA:
+Décret n° 2013-624 du 15 juillet 2013, article 5 IV : Le 3° (à l'exclusion de son deuxième alinéa) de l'article 2 entre en vigueur à compter de l'ouverture de la procédure d'inscription sur la liste d'aptitude établie au titre de l'année 2015 (1er avril 2014).

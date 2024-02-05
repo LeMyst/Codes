@@ -55,3 +55,6 @@ II.-Pour l'application de la majoration de pension prévue à l'article L. 351-1
 L'application de cette majoration ne peut avoir pour effet de porter la pension à un montant supérieur à celui qu'elle aurait atteint, sans cette majoration, dans le cas d'une durée d'assurance dans le régime égale à la limite mentionnée au troisième alinéa de l'article L. 351-1.
 
 La pension majorée en application des alinéas précédents est portée, le cas échéant, au montant minimum mentionné à l'article L. 351-10.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

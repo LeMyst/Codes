@@ -13,3 +13,6 @@ Pour la détermination de leur contribution, les sociétés ou groupements visé
 Pour les redevables visés à l'article L. 137-30 affiliés à l'un des organes centraux mentionnés à l'article L. 511-30 du code monétaire et financier, la part du chiffre d'affaires correspondant à des intérêts reçus à raison d'opérations de centralisation, à l'échelon régional ou national, de leurs ressources financières n'est pas soumise à la contribution dans la limite du montant des intérêts servis en contrepartie de ces mêmes opérations.
 
 Les dispositions du premier alinéa sont applicables aux entreprises de négoce en l'état des produits du sol et de l'élevage, engrais et produits connexes, achetant et vendant directement aux coopératives agricoles.
+
+NOTA:
+Conformément aux dispositions du III de l'article 10 de l'ordonnance n° 2018-470 du 12 juin 2018, jusqu'au 31 décembre 2018 et par dérogation aux dispositions de l'article L. 137-32 du code de la sécurité sociale, l'article L. 651-4 du même code reste applicable, dans sa rédaction antérieure à la présente ordonnance, pour le recouvrement de la contribution sociale de solidarité à la charge des sociétés.

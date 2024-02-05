@@ -21,3 +21,6 @@ La pérennité financière du système de retraite par répartition est assurée
 III. - La Nation affirme son attachement au caractère universel et solidaire de la prise en charge du soutien à l'autonomie, assurée par la sécurité sociale.
 
 La prise en charge contre le risque de perte d'autonomie et la nécessité d'un soutien à l'autonomie sont assurées à chacun, indépendamment de son âge et de son état de santé.
+
+NOTA:
+Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

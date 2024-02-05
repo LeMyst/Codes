@@ -31,3 +31,6 @@ Au plus tard à la fin du premier semestre de chaque année, il remet au conseil
 III.-En cas d'absence momentanée ou d'empêchement du directeur, ses fonctions sont exercées par le directeur adjoint. En cas d'absence ou d'empêchement du directeur et du directeur adjoint, ou à défaut de directeur adjoint, les fonctions de directeur sont exercées par un agent de l'organisme désigné préalablement à cet effet par le directeur.
 
 IV.-Sont également applicables à la Caisse des Français de l'étranger les dispositions des articles R. 211-1-3 et R. 217-12.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

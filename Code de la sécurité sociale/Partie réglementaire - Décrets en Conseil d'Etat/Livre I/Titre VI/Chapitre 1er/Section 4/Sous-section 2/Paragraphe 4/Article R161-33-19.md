@@ -7,3 +7,8 @@ Quelle que soit la forme de la carte Vitale, les informations relatives à la su
 2° Les personnes facturant ou permettant la prise en charge ou le remboursement par l'assurance maladie des actes, produits ou prestations. Cet accès nécessite l'emploi de la carte de professionnel de santé mentionnée à l'article R. 161-52 ou d'un dispositif d'authentification individuel offrant des garanties similaires de fonctionnalités et de sécurité et agréé par le groupement d'intérêt public mentionné à l'article R. 161-54 ;
 
 3° Les agents des organismes gérant un régime d'assurance maladie obligatoire.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

@@ -11,3 +11,6 @@ Ces cotisations sont recouvrées par les unions pour le recouvrement des cotisat
 II.-Le conseil d'administration de l'instance de gestion du régime local détermine les exonérations accordées en cas d'insuffisance de ressources selon les modalités prévues au deuxième alinéa de l'article L. 380-2.
 
 Il fixe les taux de cotisation permettant de garantir le respect de l'équilibre financier du régime dans la limite d'une fourchette fixée par décret. L'article L. 131-9 n'est pas applicable à ces cotisations.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

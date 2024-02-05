@@ -9,8 +9,7 @@
 | B. - Infections dues aux pseudomonas aeruginosa : - septicémie ; - localisations viscérales, cutanéo-muqueuses et oculaires, avec mise en évidence du germe et typage du pseudomonas aeruginosa. | 15 jours | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de pseudomonas aeruginosa. |
 | C. - Infections dues aux entérobactéries : Septicémie confirmée par hémoculture. | 15 jours | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir d'entérobactéries. |
 | D. - Infections dues aux pneumocoques : Manifestations cliniques de pneumococcie : - pneumonie ; - broncho-pneumonie ; - septicémie ; - méningite purulente, confirmée par isolement bactériologique du germe ou par les résultats positifs d'une recherche des antigènes solubles. | 10 jours | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de pneumocoques. |
-| E. - Infections dues aux streptocoques bêta-hémolytiques : Manifestations cliniques de streptococcie : |\
-| Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de streptocoques bêta-hémolytiques. |
+| E. - Infections dues aux streptocoques bêta-hémolytiques : Manifestations cliniques de streptococcie : |  | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de streptocoques bêta-hémolytiques. |
 | - otite compliquée ; | 15 jours |
 | - érysipèle ; | 15 jours |
 | - broncho-pneumonie ; | 15 jours |

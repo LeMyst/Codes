@@ -13,3 +13,6 @@ V. - Le directeur général de l'agence régionale de santé peut se faire repr�
 VI. - Les syndicats sont représentés soit par un représentant légal, soit par un membre de la profession muni d'un mandat régulier, soit par un avocat.
 
 VII. - Les parties qui ont fait le choix d'un représentant en informent sans délai le secrétariat de la section des assurances sociales par écrit.
+
+NOTA:
+Décret n° 2013-547 du 26 juin 2013 art. 6 : les présentes dispositions sont applicables à compter du 1er janvier 2015 en tant qu'elles concernent l'ordre des infirmiers.

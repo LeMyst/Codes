@@ -31,3 +31,8 @@ Pour la période postérieure au 31 décembre 1971, il n'est pas tenu compte des
 Toutefois, sont considérées comme ayant procuré une rémunération normale les périodes d'emploi accomplies par le personnel féminin occupé par des particuliers dans les services domestiques, dans le département de la Réunion du 1er janvier 1950 au 31 décembre 1951 et du 1er janvier 1954 au 31 décembre 1957, dans les départements de la Martinique, de la Guadeloupe et de la Guyane du 1er janvier 1954 au 30 septembre 1954, lorsqu'elles ont fait l'objet du versement des cotisations de sécurité sociale sur la base des salaires forfaitaires fixés par décision du préfet de région.
 
 La dernière activité professionnelle non-salariée ne peut faire obstacle à l'attribution de l'allocation aux vieux travailleurs salariés lorsque le travailleur n'est pas bénéficiaire d'un avantage de vieillesse servi au titre d'un autre régime.
+
+NOTA:
+Décret 2003-1394 2003-12-31 art. 4 : les dispositions du présent article entrent en vigueur le 1er janvier 2004, dans les conditions prévues au VIII de l'art. 60 de la loi du 18 décembre 2003.
+
+Ordonnance 2004-605 du 24 juin 2004 art. 2 : Les personnes qui, à la date d'entrée en vigueur de la présente ordonnance, sont titulaires de l'allocation aux vieux travailleurs salariés, continuent à percevoir ces prestations selon les règles applicables avant cette entrée en vigueur.

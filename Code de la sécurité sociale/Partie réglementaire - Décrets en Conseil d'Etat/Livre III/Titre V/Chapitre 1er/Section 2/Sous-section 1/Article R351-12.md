@@ -75,3 +75,8 @@ e) Le nombre total de trimestres pouvant être validés par chaque intéressé e
 10° Autant de trimestres que la durée des périodes pendant lesquelles l'assuré a perçu, au cours de l'année civile, l'indemnité d'activité partielle mentionnée au II de l'article L. 5122-1 du code du travail correspond de fois à 220 heures.
 
 L'application des dispositions du présent article ne peut avoir pour effet de porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance valable au titre d'une même année civile.
+
+NOTA:
+Conformément au II de l’article 7 du décret n° 2023-799 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.
+
+Conformément au troisième alinéa de l’article 7 du décret n° 2023-799 du 21 août 2023, les dispositions du 9° du présent article, dans sa rédaction issue dudit décret, s'appliquent aux périodes d'inscription en tant que sportif de haut niveau sur la liste mentionnée au premier alinéa de l'article L. 221-2 du code du sport postérieures au 1er janvier 2023.

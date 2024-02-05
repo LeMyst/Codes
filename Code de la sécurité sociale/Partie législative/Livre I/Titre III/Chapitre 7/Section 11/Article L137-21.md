@@ -7,3 +7,6 @@ Pour le calcul du prélèvement, le montant du produit brut des jeux est multipl
 Ce prélèvement est dû par la personne morale chargée de l'exploitation des jeux de paris sportifs commercialisés en réseau physique de distribution mentionnée au I de l'article 137 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et par les personnes devant être soumises, en tant qu'opérateur de paris sportifs en ligne, à l'agrément mentionné à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard.
 
 Le taux de ce prélèvement est fixé à 6,6 % du produit brut des jeux pour les paris sportifs commercialisés en réseau physique de distribution et à 10,6 % pour les paris sportifs en ligne.
+
+NOTA:
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article L. 137-21, dans sa rédaction résultant du 2° du C du II du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er janvier 2021, et au plus tard le 1er janvier 2022.

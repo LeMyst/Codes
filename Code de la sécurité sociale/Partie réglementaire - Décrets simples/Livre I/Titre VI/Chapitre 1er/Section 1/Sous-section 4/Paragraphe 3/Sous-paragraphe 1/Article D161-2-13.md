@@ -17,3 +17,8 @@ e) Les noms et adresses des autres organismes de retraite de salariés, de base 
 f) Le cas échéant, les pièces justificatives prévues au dernier alinéa du II de l'article D. 161-2-7.
 
 Par dérogation au deuxième alinéa, l'assuré qui entend cumuler le bénéfice de sa pension de retraite avec un revenu d'activité dans les conditions prévues aux quatrième, cinquième et sixième alinéas de l'article L. 161-22 produit, auprès du ou des organismes mentionnés au premier alinéa, les éléments prévus aux a et b ci-dessus, lorsqu'ils n'ont pas déjà été communiqués à ces organismes, dans le mois suivant la reprise de l'activité et y joint une attestation sur l'honneur énumérant les différents régimes mentionnés au quatrième alinéa de l'article L. 161-22 dont il a relevé et certifiant qu'il est entré en jouissance de toutes ses pensions de vieillesse personnelles.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Conformément au 1° dudit article 6, ces dispositions s'appliquent aux nouvelles pensions mentionnées à l'article L. 161-22-1-1 du code de la sécurité sociale, dans sa rédaction issue de l'article 26 de la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023, prenant effet à compter du 1er septembre 2023.

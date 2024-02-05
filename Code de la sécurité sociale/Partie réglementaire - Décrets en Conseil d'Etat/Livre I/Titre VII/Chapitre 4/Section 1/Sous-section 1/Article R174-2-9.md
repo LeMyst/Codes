@@ -31,3 +31,6 @@ c) Les spécialités pharmaceutiques et les produits et prestations mentionnés 
 d) Les médicaments inscrits sur la liste prévue à l'article L. 5126-4 du code de la santé publique pris en charge ou remboursés par l'assurance maladie dans les conditions fixées au deuxième alinéa de l'article L. 162-17 ;
 
 e) Les prestations aux bénéficiaires de l'aide médicale d'Etat mentionnées à l'article L. 162-22-11-1.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

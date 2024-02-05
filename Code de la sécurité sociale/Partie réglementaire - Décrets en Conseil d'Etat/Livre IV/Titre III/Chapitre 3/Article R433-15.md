@@ -11,3 +11,6 @@ En cas de désaccord entre le médecin traitant et le médecin-conseil, il est p
 Si le médecin-conseil ou le médecin expert reconnaît que le travail est de nature à favoriser la guérison ou la consolidation de la blessure, la caisse primaire décide, s'il y a lieu, le maintien total ou partiel de l'indemnité, compte tenu de l'attestation prévue au premier alinéa du présent article ou, si celle-ci n'a pas été produite ou lui paraît insuffisante, au vu des résultats de l'enquête effectuée.
 
 La caisse primaire notifie sa décision à la victime par lettre recommandée.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-372 du 16 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022 et s'appliquent aux arrêts de travail en cours à cette date.

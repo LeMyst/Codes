@@ -5,3 +5,6 @@ Tout électeur, tout candidat ou tout mandataire d'une organisation ayant dépos
 A peine d'irrecevabilité, elle est formée dans un délai de trois jours à compter de la diffusion de la liste de candidats dans les conditions prévues à l'article R. 123-59.
 
 Le tribunal judiciaire statue dans les conditions prévues à l'article R. 2314-25 du code du travail.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1275 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

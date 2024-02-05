@@ -5,3 +5,6 @@ Pour les fonctionnaires de l'Etat et les magistrats qui exercent leurs fonctions
 Les fonctionnaires de l'Etat et les magistrats mentionnés à l'alinéa précédent et leurs ayants droit qui résident avec eux bénéficient des prestations en nature de l'assurance maladie-maternité prévues à l'article R. 761-8 et servies dans les conditions définies à l'article D. 712-54, sous réserve des dispositions de l'article 19 du décret n° 94-1146 du 26 décembre 1994. Il en est de même pour les fonctionnaires de l'Etat et les magistrats qui, résidant en Polynésie française, sont placés en position de disponibilité d'office en application de l'article 43 du décret n° 85-986 du 16 septembre 1985 et pour leurs ayants droit qui résident avec eux.
 
 Par dérogation aux dispositions du premier alinéa de l'article D. 712-52, les fonctionnaires de l'Etat et les magistrats visés aux trois alinéas précédents bénéficient des dispositions de l'article D. 712-12.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er mars 2018.

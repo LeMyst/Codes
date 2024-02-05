@@ -13,3 +13,6 @@ Le prestataire transmet ces mêmes données au médecin prescripteur, à la dema
 La transmission ne peut comporter des données de géolocalisation. Elle ne peut en aucun cas conduire à révéler l'identité du patient au fabricant du dispositif médical.
 
 Le prestataire recueille les difficultés d'utilisation exprimées éventuellement par le patient et en informe le prescripteur. Dans la limite de ses compétences, le prestataire conduit, en lien avec le prescripteur, des actions ayant pour objet de favoriser une bonne utilisation du dispositif médical, notamment en vérifiant ou en adaptant l'appareillage mis à la disposition du patient lorsque ce dernier fait part de difficultés matérielles d'utilisation.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2017-809 du 5 mai 2017, à titre transitoire, le délai mentionné à la dernière phrase du premier alinéa du II de l'article R. 165-76 du code de la sécurité sociale est de six mois pour les dispositifs médicaux relevant de ces dispositions pendant un délai de trois ans à compter de la publication du présent décret.

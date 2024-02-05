@@ -11,3 +11,6 @@ En cas d'accident suivi de mort, le montant de la majoration est fixé sans que 
 Le salaire annuel et la majoration visée au troisième et au quatrième alinéa du présent article sont soumis à la revalorisation prévue pour les rentes par l'article L. 434-17.
 
 La majoration est payée par la caisse, qui en récupère le capital représentatif auprès de l'employeur dans des conditions déterminées par décret.
+
+NOTA:
+Loi n° 2012-1404 du 17 décembre 2012 article 86 II : Les dispositions sont applicables au titre des majorations de rente et d'indemnités en capital ayant pris effet à compter du 1er avril 2013.

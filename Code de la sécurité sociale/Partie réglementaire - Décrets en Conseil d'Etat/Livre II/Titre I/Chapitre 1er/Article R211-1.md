@@ -13,3 +13,6 @@ Le conseil de la caisse primaire d'assurance maladie mentionné à l'article L. 
 5° Une personnalité qualifiée dans les domaines d'activité des organismes d'assurance maladie et désignée par l'autorité compétente de l'Etat mentionnée à l'article D. 231-1.
 
 Siègent également, avec voix consultative un représentant désigné en son sein par l'instance régionale du Conseil de la protection sociale des travailleurs indépendants mentionnée au quatrième alinéa de l'article L. 612-4 et, trois représentants du personnel élus.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1153 du 4 septembre 2021.

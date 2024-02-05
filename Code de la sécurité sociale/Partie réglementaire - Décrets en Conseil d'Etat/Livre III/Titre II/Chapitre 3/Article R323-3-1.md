@@ -11,3 +11,6 @@ L'indemnité est versée pendant toute la durée de la convention mentionnée à
 L'employeur peut être subrogé à l'assuré dans les droits de celui-ci à l'indemnité journalière qui lui est due.
 
 II.-Lorsque, à l'issue d'une rééducation professionnelle effectuée selon les modalités prévues au deuxième alinéa du II de l'article L. 5213-3-1 du code du travail, le salarié présente sa démission dans les conditions prévues au III du même article, il continue de percevoir l'indemnité mentionnée à l'article L. 323-3-1 du présent code, selon les mêmes modalités qu'au cours de la période durant laquelle il a réalisé sa convention de rééducation professionnelle en entreprise, pendant une durée de trois mois à compter du premier jour du mois suivant celui de la prise d'activité. Dans ce cas, la subrogation mentionnée au I du présent article ne peut s'appliquer.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2022-372 du 16 mars 2022, ces dispositions entrent en vigueur le 31 mars 2022 et s'appliquent aux arrêts de travail en cours à cette date.

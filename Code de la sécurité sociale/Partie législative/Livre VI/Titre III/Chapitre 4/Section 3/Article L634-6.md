@@ -13,3 +13,6 @@ b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1, lorsque l
 La pension due par un régime de retraite légalement obligatoire dont l'âge d'ouverture des droits, le cas échéant sans minoration, est supérieur à l'âge prévu à l'article L. 161-17-2 n'est pas retenue pour apprécier la condition de liquidation de l'ensemble des pensions de retraite, et ce jusqu'à ce que l'assuré ait atteint l'âge à partir duquel il peut liquider cette pension ou, en cas de minoration, l'âge auquel celles-ci prennent fin.
 
 L'article L. 161-22 et le présent article ne s'appliquent pas à l'assuré qui demande ou qui bénéficie de sa pension au titre de l'article L. 161-22-1-5 du présent code, de l'article L. 732-29 du code rural et de la pêche maritime et de l'article L. 89 bis du code des pensions civiles et militaires de retraite.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

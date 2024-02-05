@@ -63,3 +63,6 @@ VI. – Les infractions aux dispositions du présent article sont constatées et
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que le refus de l'institution de prévoyance ou de l'union de rembourser le membre participant dans les conditions fixées à l'article L. 222-13 du code de la consommation peuvent également être recherchées et constatées par les agents mentionnés aux articles L. 511-3 et L. 511-21 du même code, dans les conditions prévues à l'article L. 511-5 du même code.
 
 Les conditions d'application du présent article sont définies en tant que de besoin par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au V de l'article 118 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions sont immédiatement applicables aux contrats d'assurance sur la vie et aux contrats de capitalisation en cours à la date d'entrée en vigueur de ladite loi.

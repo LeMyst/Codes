@@ -7,3 +7,6 @@ Les dispositions de l'article L. 161-22 du présent code, sont applicables aux a
 Les modalités d'application et d'adaptation du présent article sont fixées par décret.
 
 Les dispositions du présent article sont applicables aux pensions prenant effet après le 31 août 2003.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

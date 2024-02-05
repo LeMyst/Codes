@@ -33,3 +33,6 @@ III.-La publication du tarif des produits ou prestations mentionnés à l'articl
 IV.-Le cadre des conventions mentionnées aux I et II du présent article peut être, le cas échéant, précisé par l'accord mentionné à l'article L. 165-4-1.
 
 V.-Par dérogation aux I et II, le tarif de responsabilité des produits et prestations n'appartenant pas aux classes à prise en charge renforcée définies en application du deuxième alinéa de l'article L. 165-1 peut être fixé par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+NOTA:
+Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.

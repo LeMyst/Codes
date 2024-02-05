@@ -11,3 +11,6 @@ Par dérogation à l'alinéa précédent, lorsque la spécialité est déjà ins
 3° La spécialité ne présente pas à titre unitaire ou compte tenu de son volume global, de manière prévisible ou constatée, un caractère particulièrement coûteux pour l'assurance maladie.
 
 Cette dérogation est accordée par arrêté des ministres chargés de la santé et de la sécurité sociale, pris après avis de l'Agence nationale de sécurité du médicament et des produits de santé sur les conditions définies au 1° et au 2°.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

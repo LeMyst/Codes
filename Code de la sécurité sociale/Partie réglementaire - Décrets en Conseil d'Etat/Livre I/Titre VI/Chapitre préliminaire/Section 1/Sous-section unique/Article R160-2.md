@@ -21,3 +21,6 @@ Les décisions de refus sont dûment motivées et susceptibles de recours devant
 III.-Ces soins sont soumis aux mêmes règles de remboursement que celles prévues par l'article R. 160-1.
 
 Les soins autres que ceux mentionnés au I du présent article qui sont dispensés dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ne sont pas soumis à autorisation préalable et sont remboursés aux assurés sociaux dans les mêmes conditions que si les soins avaient été reçus en France, sous réserve que leur prise en charge soit prévue par la réglementation française.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

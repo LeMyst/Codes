@@ -13,3 +13,6 @@ II.-A la demande des ministres chargés de la sécurité sociale ou de la santé
 La demande des ministres chargés de la sécurité sociale ou de la santé précise le délai dans lequel l'avis est rendu.
 
 La commission mentionnée à l'article L. 165-1 peut demander à l'entreprise exploitant le produit de santé mentionné au présent II de lui transmettre toutes informations et études nécessaires à son évaluation. L'Agence nationale de sécurité du médicament et des produits de santé transmet également à cette commission les éléments nécessaires à l'évaluation.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

@@ -23,3 +23,6 @@ L'assuré peut être, à son initiative ou à celle de la commission, entendu pa
 Le secrétariat de la commission pluridisciplinaire est assuré par la caisse chargée de la liquidation des pensions de retraite du régime général.
 
 Les membres de la commission pluridisciplinaire sont astreints au secret professionnel. Ils sont remboursés de leurs frais de déplacement. Le membre mentionné au 4° perçoit pour sa participation aux travaux de la commission une rémunération dans des conditions fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
+
+NOTA:
+Décret n° 2011-353 du 30 mars 2011 article 3 : Les dispositions issues de l'article 1er du présent décret sont applicables aux pensions de retraite prenant effet à compter du 1er juillet 2011.

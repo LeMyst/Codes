@@ -51,3 +51,8 @@ Le cumul des deux aides ne peut excéder la somme des montants maximaux applicab
 VII. ― Le complément est versé mensuellement par l'organisme débiteur des prestations familiales sur justification des dépenses acquittées au titre d'un mois civil dans un délai maximum d'un mois à compter de la réception de cette justification.
 
 VIII. ― Lorsque la personne ou un membre du couple exerce une activité au plus égale à 50 % et bénéficie à ce titre de la prestation partagée d'éducation de l'enfant à taux partiel, le complément de libre choix du mode de garde versé en application de l'article L. 531-6 est attribué dans les conditions définies au IV.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1131 du 30 août 2021, ces dispositions entrent en vigueur le 1er septembre 2021 sous réserve des dispositions des II à IX.
+
+Conformément à l'article 2 du décret n° 2019-1103 du 30 octobre 2019, les présentes dispositions s'appliquent aux gardes réalisées à compter du 1er janvier 2020.

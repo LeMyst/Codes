@@ -53,3 +53,6 @@ Les exonérations prévues par le présent article ne peuvent être cumulées av
 VII.-Le bénéfice de l'exonération prévue au présent article, ainsi que de tous autres allégements et exonérations de cotisations patronales prévus par le présent code, est subordonné au fait, pour l'entreprise ou le chef d'entreprise, de ne pas avoir fait l'objet d'une condamnation pénale passée en force de chose jugée soit pour fraude fiscale, soit pour travail dissimulé, marchandage ou prêt illicite de main-d'œuvre, en application des articles L. 5224-2, L. 8224-1, L. 8224-3, L. 8224-4, L. 8224-5, L. 8224-6, L. 8234-1 et L. 8234-2 du code du travail.
 
 Lorsqu'un organisme chargé du recouvrement est avisé, par la transmission du procès-verbal établi par un des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail, de la commission d'une des infractions mentionnées à l'alinéa précédent, il suspend la mise en œuvre des exonérations prévues par le présent article jusqu'au terme de la procédure judiciaire.
+
+NOTA:
+Conformément au II de l'article 19 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions s'appliquent aux cotisations et contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2021.

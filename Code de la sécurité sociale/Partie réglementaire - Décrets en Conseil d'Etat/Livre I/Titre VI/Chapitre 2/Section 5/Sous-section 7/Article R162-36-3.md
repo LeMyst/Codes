@@ -25,3 +25,6 @@ III.-Le montant de la pénalité financière globale prévue par l'article L. 16
 2° Pour les établissements exerçant les activités mentionnées aux 1° et 4° de l'article L. 162-22, de l'activité réalisée par les établissements de santé au cours de l'année civile précédant l'année considérée. Pour les établissements exerçant les activités mentionnées au 2° du même article, des recettes d'assurance maladie perçues par les établissements au cours de l'année civile précédant l'année considérée ;
 
 3° De la distribution statistique des résultats observée pour le groupe de comparaison des établissements de santé considéré. Les groupes de comparaison sont déterminés par arrêté des ministres de la santé et de la sécurité sociale.
+
+NOTA:
+Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.

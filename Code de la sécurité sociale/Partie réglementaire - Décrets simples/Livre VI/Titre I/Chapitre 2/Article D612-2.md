@@ -15,3 +15,6 @@ Les coûts afférents à la gestion financière et actuarielle des régimes ment
 - à hauteur de l'évaluation réalisée annuellement par l'agence centrale des organismes de sécurité sociale s'agissant des autres coûts indirects nécessaires à l'exercice du mandat mentionné à l'alinéa précédent, notamment les frais de personnels, les autres dépenses de fonctionnement et les dépenses d'investissement internes.
 
 Les dépenses mentionnées aux deux alinéas précédents qui ne sont pas directement rattachables à l'un ou l'autre des régimes sont imputées à hauteur de 15 % sur le régime mentionné à l'article L. 632-1 et à hauteur de 85 % sur le régime mentionné à l'article L. 635-1.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-136 du 5 février 2022, ces dispositions sont applicables aux versements réalisés par l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale à compter du 1er janvier 2022.

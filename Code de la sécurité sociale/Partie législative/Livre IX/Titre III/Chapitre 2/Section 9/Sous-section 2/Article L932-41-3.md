@@ -21,3 +21,6 @@ Pour l'application des articles mentionnés au premier alinéa à l'institution 
 2° “ Institution de retraite professionnelle supplémentaire ” là où est mentionné : “ société de gestion de portefeuille ” ;
 
 3° “ Membre participant à un règlement ou contrat collectif garanti par l'institution de retraite professionnelle supplémentaire ” là où est mentionné : “ porteurs de parts ou actionnaires ”.
+
+NOTA:
+Conformément à l’article 6 de l’ordonnance n° 2019-697 du 3 juillet 2019, pour les contrats de retraite professionnelle en cours d'exécution à la date de publication de la présente ordonnance, les présentes dispositions s'appliquent aux droits afférents aux périodes d'emploi accomplies à compter du 1er janvier 2020.

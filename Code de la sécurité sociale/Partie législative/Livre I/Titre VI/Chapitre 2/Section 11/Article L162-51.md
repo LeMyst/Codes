@@ -7,3 +7,6 @@ La déclaration précise notamment les professionnels participant à l'organisat
 Le récépissé de cette déclaration, établi par le directeur général de l'agence régionale de santé, est remis ou transmis à l'opérateur et à l'organisme local d'assurance maladie. Il vaut éligibilité au remboursement des activités de télésurveillance médicale prévues à l'article L. 162-48 pour les indications mentionnées dans la déclaration de l'opérateur concerné.
 
 Lorsqu'il est constaté un manquement de l'opérateur réalisant des activités de télésurveillance médicale à l'obligation déclarative prévue au présent article ou au respect des dispositions législatives et réglementaires relatives à la réalisation de telles activités, et après que le directeur général de l'agence régionale de santé l'a invité à se mettre en conformité, ce dernier met fin à la validité du récépissé et en informe la caisse primaire d'assurance maladie, qui suspend les remboursements des activités réalisées après la notification de cette décision.
+
+NOTA:
+Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.

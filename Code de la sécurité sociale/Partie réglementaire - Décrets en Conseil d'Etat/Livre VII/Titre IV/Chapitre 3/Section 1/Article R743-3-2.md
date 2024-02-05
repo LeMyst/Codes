@@ -17,3 +17,6 @@ La caisse met le dossier mentionné à l'article R. 743-3-3, complété d'élém
 La caisse informe la victime ou ses représentants des échéances mentionnées aux deux premiers alinéas lorsqu'elle saisit le comité régional de reconnaissance des maladies professionnelles, par tout moyen conférant date certaine à la réception de cette information.
 
 Le comité régional rend son avis motivé à la caisse dans un délai de cent jours francs à compter de sa saisine.
+
+NOTA:
+Conformément au I de l'article 4 du décret n° 2021-554 du 5 mai 2021, ces dispositions, dans leur rédaction issue du I de l'article 2 dudit décret, s'appliquent aux accidents du travail, maladies professionnelles, rechutes et nouvelles lésions déclarés à compter du 1er janvier 2022.

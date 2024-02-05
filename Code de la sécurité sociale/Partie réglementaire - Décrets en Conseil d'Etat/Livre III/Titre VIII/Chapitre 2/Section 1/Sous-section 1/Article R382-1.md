@@ -37,3 +37,6 @@ Sont affiliées au régime général, en application des dispositions de la pré
 -auteurs d'œuvres photographiques ou d'œuvres réalisées à l'aide de techniques analogues à la photographie.
 
 -Les œuvres précitées peuvent être réalisées sur tout support.
+
+NOTA:
+Conformément au I de l'article 5 du décret n° 2020-1095 du 28 août 2020, ces dispositions sont applicables aux revenus perçus à compter du 1er janvier 2021.

@@ -95,3 +95,6 @@ Les ressources du fonds sont constituées par une dotation de la branche maladie
 Les expérimentations dont la généralisation fait l'objet d'un avis favorable du conseil stratégique et du comité technique de l'innovation en santé peuvent être financées par ce même fonds, selon les modalités précisées au III du présent article, au delà de leur échéance et pour une durée qui ne peut excéder dix-huit mois.
 
 VII.-Le Gouvernement présente chaque année au Parlement un état des lieux des expérimentations en cours et lui remet, au plus tard un an après la fin de chaque expérimentation, le rapport d'évaluation la concernant.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

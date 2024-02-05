@@ -9,3 +9,8 @@ Par dérogation, en cas d'octroi de délais de paiement par la caisse, le revenu
 En cas de prolongation de l'arrêt de travail initial pour la même affection ou le même accident, ou en cas de nouvel arrêt de travail pour une autre affection ou un autre accident sans reprise du travail depuis le précédent arrêt, l'indemnité journalière est calculée à partir du revenu d'activité annuel moyen des trois années civiles précédant la date de l'arrêt de travail initial.
 
 II.-Lorsque la constatation de l'incapacité de travail intervient au cours des trois premières années civiles d'affiliation en qualité de travailleur indépendant ou de professionnel libéral, le montant de l'indemnité journalière est calculé sur la base du rapport entre, d'une part, le revenu pris en compte jusqu'à la date de cette constatation pour le calcul des cotisations d'assurance maladie et, d'autre part, le nombre de jours d'activité rapporté à 365.
+
+NOTA:
+Conformément au 1° du I de l'article 3 du décret n° 2021-755 du 12 juin 2021, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2021 ou, pour les assurés relevant du b de l'article D. 613-4 du code de la sécurité sociale, du 1er juillet 2021.
+
+Conformément au 2° du I de l'article 3 du décret n° 2021-755 du 12 juin 2021, ces dispositions s'appliquent aux indemnités journalières versées à l'occasion d'arrêts de travail débutant à compter du 1er juillet 2021.

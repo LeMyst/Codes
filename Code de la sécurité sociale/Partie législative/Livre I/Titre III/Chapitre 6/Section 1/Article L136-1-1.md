@@ -105,3 +105,6 @@ f) Les prestations mentionnées aux articles L. 325-1 et L. 325-2 du code rural 
 7° Les revenus d'activité versés à des bénéficiaires redevables de la cotisation mentionnée au deuxième alinéa du IV de l'article L. 380-3-1 du présent code.
 
 8° Dans la limite du seuil de revente à perte, tel que défini à l'article L. 442-5 du code de commerce, les réductions tarifaires jusqu'à 50 % du prix de vente public normal, toutes taxes comprises, dont bénéficient les salariés sur les produits initialement destinés à la vente mais qui ne peuvent pas ou ne peuvent plus être vendus par l'entreprise qui les emploie ou par toute entreprise du groupe auquel ils appartiennent, le groupe étant entendu au sens de l'article L. 2331-1 du code du travail.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

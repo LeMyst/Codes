@@ -9,3 +9,6 @@ La Caisse nationale de l'assurance maladie transmet, au plus tard le quinzième 
 Sur la base des éléments transmis lors du premier mois de chaque trimestre, le directeur de l'organisme local d'assurance maladie notifie, au cours du mois, à chaque exploitant de pharmacie concerné les faits qui lui sont reprochés ainsi que le montant de la pénalité qu'il encourt. Il l'informe qu'il dispose d'un délai d'un mois à compter de cette notification pour se mettre en conformité et, le cas échéant, pour présenter des observations en pouvant se faire assister d'un conseil.
 
 S'il résulte des éléments transmis lors du troisième mois de chaque trimestre que la pharmacie ne s'est pas mise en conformité à l'expiration du délai prescrit, le directeur de l'organisme local d'assurance maladie peut prononcer la pénalité prévue à l'article L. 162-16-3-2 du présent code. La notification de la sanction indique les motifs de celle-ci ainsi que les modalités et le délai du paiement. Elle mentionne les voies et délais de recours.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2023-1127 du 30 novembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

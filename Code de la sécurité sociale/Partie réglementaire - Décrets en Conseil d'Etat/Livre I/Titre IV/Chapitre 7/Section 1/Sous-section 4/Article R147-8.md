@@ -49,3 +49,8 @@ e) L'obligation prévue à l'article R. 5132-13 du code de la santé publique d'
 Si, après une nouvelle période de mise sous accord préalable suivant la pénalité prononcée au titre de l'alinéa précédent, il est constaté un niveau de prescription ou de réalisation du même acte, produit ou prestation ou groupe d'actes, produits ou prestations, ou un montant de remboursement, à nouveau significativement supérieur à la moyenne constatée, pour une activité comparable, pour les professionnels de santé exerçant la même profession dans le ressort de la même agence régionale de santé ou dans le ressort du même organisme local d'assurance maladie, les faits sont considérés réalisés en état de récidive telle que prévue à l'article R. 147-5 ;
 
 6° Pour lesquels il aura été constaté, dans les conditions prévues à l'article R. 148-6, que l'objectif de réduction des prescriptions, des réalisations ou des montants de remboursement prévu à l'article L. 162-1-15 n'a pas été atteint.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

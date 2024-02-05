@@ -25,3 +25,6 @@ II.-Le présent article n'est pas applicable :
 1° Aux assurés qui bénéficient d'un avantage de préretraite prévu par des dispositions réglementaires, par des stipulations conventionnelles ou par une décision unilatérale de l'employeur ;
 
 2° Aux assurés exerçant à titre exclusif une des activités déterminées par décret parmi celles mentionnées à l'article L. 311-3.
+
+NOTA:
+Conformément au III de l'article 96 de la loi n° 2023-1250 du 26 décembre 2023, le 1° du II de l'article L. 161-22-1-5 du code de la sécurité sociale ne s'applique pas aux assurés qui bénéficient d'un avantage de préretraite prévu par des dispositions réglementaires, par des stipulations conventionnelles ou par une décision unilatérale de l'employeur à la date de publication de ladite loi.

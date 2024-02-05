@@ -41,3 +41,6 @@ Toutefois, le montant versé ne peut excéder un plafond variant en fonction des
 IV.-Par dérogation aux dispositions du premier alinéa de l'article L. 531-1, le complément de libre choix du mode de garde est également versé, à un montant réduit, pour la garde d'un enfant ayant un âge supérieur à l'âge mentionné à cet article mais inférieur à un âge limite. Toutefois, pour les enfants ayant atteint l'âge limite mentionné au premier alinéa du même article L. 531-1 entre le 1er janvier et le 31 août de l'année, la prestation demeure versée intégralement.
 
 V.-Un décret détermine les conditions de cumul, pour un même enfant ou plusieurs enfants, des compléments de libre choix du mode de garde versés au titre de modes de garde différents.
+
+NOTA:
+Conformément aux IV de l'article 70 de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions s'appliquent aux gardes d'enfants réalisées à compter du 1er janvier 2020.

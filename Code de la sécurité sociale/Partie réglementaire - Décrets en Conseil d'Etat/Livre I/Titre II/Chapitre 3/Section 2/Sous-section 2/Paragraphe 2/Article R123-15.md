@@ -23,3 +23,8 @@ Il délibère notamment sur :
 9° Le règlement intérieur de l'école sur proposition du directeur et, le cas échéant, celui du conseil d'administration.
 
 Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le ministre chargé de la sécurité sociale et par le directeur de l'école.
+
+NOTA:
+Décret n° 2013-624 du 15 juillet 2013, article 5 II : Le 7° de l'article 1er entre en vigueur à compter de la désignation des membres du prochain conseil d'administration de l'Ecole nationale supérieure de sécurité sociale.
+
+Arrêté du 17 novembre 2015 portant nomination au conseil d'administration de l'Ecole nationale supérieure de sécurité sociale (JORF 26 novembre 2015).

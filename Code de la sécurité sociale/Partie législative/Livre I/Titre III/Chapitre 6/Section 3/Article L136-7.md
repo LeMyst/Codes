@@ -36,8 +36,7 @@ c) Lors de leur inscription en compte, pour les intérêts courus sur des plans 
 
 2° bis Les primes d'épargne des plans d'épargne-logement lors de leur versement ;
 
-3° Les produits attachés aux bons ou contrats de capitalisation, ainsi qu'aux placements de même nature mentionnés à l'article 125-0 A du code général des impôts, quelle que soit leur date de souscription, à l'exception des produits attachés aux contrats mentionnés à l'article 199 septies du même code :
-
+3° Les produits attachés aux bons ou contrats de capitalisation, ainsi qu'aux placements de même nature mentionnés à l'article 125-0 A du code général des impôts, quelle que soit leur date de souscription, à l'exception des produits attachés aux contrats mentionnés à l'article 199 septies du même code :\
 a) Lors de leur inscription au bon ou contrat pour :
 
 -les bons ou contrats dont les droits sont exprimés en euros ou en devises ;

@@ -13,3 +13,6 @@ Pour l'ensemble des opérations de l'organisme, cette vérification porte sur le
 Pour la gestion budgétaire, cette vérification porte en outre sur la disponibilité des crédits, l'exacte imputation de la dépense et l'exécution du service.
 
 Le contrôle de la validité de la créance a pour objet de vérifier, conformément à l'acte d'engagement, les droits des créanciers ou la réalité soit des fournitures livrées, soit des services accomplis par le créancier et l'exactitude des calculs de liquidation établis par le directeur.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

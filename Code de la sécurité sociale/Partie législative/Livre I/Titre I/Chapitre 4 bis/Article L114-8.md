@@ -19,3 +19,6 @@ Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais a
 La même obligation s'applique aux faits et aux décisions dont ils viendraient à avoir connaissance dans l'exercice de leur mission de commissaire aux comptes dans une entité entrant dans le périmètre d'établissement des comptes combinés au sens de l'article L. 114-6.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles ils procèdent en exécution des obligations imposées par le présent article.
+
+NOTA:
+Conformément au V de l'article 32 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

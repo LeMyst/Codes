@@ -25,3 +25,6 @@ Le répertoire contient les données communes d'identification des individus, le
 Le numéro d'inscription au répertoire national d'identification des personnes physiques est l'identifiant utilisé.
 
 Le contenu ainsi que les modalités de gestion et d'utilisation de ce répertoire sont fixés par décret en Conseil d'Etat, après avis de la Commission nationale de l'informatique et des libertés. Ce décret détermine également les conditions d'identification des personnes qui ne disposent pas d'un numéro d'inscription au répertoire mentionné à l'avant-dernier alinéa.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

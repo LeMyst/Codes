@@ -8,6 +8,8 @@ Son président peut faire appel à des experts extérieurs à la commission. La 
 
 Un expert intervenant dans l'examen d'un médicament devant la commission mentionnée à l'article R. 5140 du code de la santé publique ne peut intervenir comme expert représentant de l'entreprise exploitant le médicament pour l'examen du même médicament devant la commission mentionnée à l'article R. 163-15.
 
-Les membres de la commission ainsi que les membres des services accompagnant les membres de droit et les experts
-
+Les membres de la commission ainsi que les membres des services accompagnant les membres de droit et les experts\
 sont soumis aux dispositions de l'article R. 161-85 du code de la santé publique.
+
+NOTA:
+Conformément à l'article 2 III du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission de la transparence suivant la publication dudit décret.

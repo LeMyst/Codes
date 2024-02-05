@@ -21,3 +21,6 @@ VI.- La mise en oeuvre progressive des obligations définies par le présent art
 Pour la mise en œuvre des droits prévus aux I à V, les membres du groupement mentionné au premier alinéa de l'article L. 161-17-1 mettent notamment à la disposition de celui-ci, dans des conditions définies par décret en Conseil d'Etat, les durées d'assurance et périodes correspondantes, les salaires ou revenus non salariés et le nombre de points pris en compte pour la détermination des droits à pension de la personne intéressée.
 
 Pour assurer les services définis au présent article, les organismes mentionnés au présent article sont autorisés à collecter et conserver le numéro d'inscription au répertoire national d'identification des personnes physiques des personnes concernées, dans des conditions définies par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

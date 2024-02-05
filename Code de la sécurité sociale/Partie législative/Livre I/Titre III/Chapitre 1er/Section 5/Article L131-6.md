@@ -9,3 +9,6 @@ Cette assiette inclut également le montant des revenus de remplacement sans lie
 2° Par les organismes de sécurité sociale.
 
 II.-En vue de l'établissement des comptes des travailleurs indépendants dont le bénéfice est déterminé en application des articles 38 et 93 A du code général des impôts, les organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code communiquent à l'issue de la déclaration des éléments énumérés à l'article L. 136-3 et au I du présent article le montant de cotisations et de contributions sociales dues selon les règles fixées à l'article L. 136-3 et au I du présent article. Ces organismes mettent en place, avec le concours des organismes mentionnés aux articles L. 641-2, L. 641-5 et L. 651-1, un téléservice permettant de procéder à tout moment à ce calcul.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

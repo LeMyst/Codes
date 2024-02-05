@@ -282,9 +282,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance déc
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| PAYS | CODE PAYS | COTISATIONS (1) | PROVISIONS
-techniques (2) | RÉSULTAT
-technique (3) |
+| PAYS | CODE PAYS | COTISATIONS (1) | PROVISIONStechniques (2) | RÉSULTATtechnique (3) |
 | 1. Union européenne (4) |  |  |  |  |
 | France |
 | LPS depuis la France |
@@ -307,10 +305,7 @@ technique (3) |
 | Divers |  |  |  |  |
 | Total hors Union européenne |  |  |  |  |
 | Total général |  |  |  |  |
-| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.
-(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.
-(3) Au sens des lignes L. 60 de l'état C 1.
-(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. |
+| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.(3) Au sens des lignes L. 60 de l'état C 1.(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. |
 
 Les chiffres relatifs aux pays non membres de l'Union européenne dans lesquels les cotisations sont inférieures à 1 % des cotisations en France et les provisions techniques sont inférieures à 1 % des provisions techniques en France peuvent être regroupés en une seule ligne intitulée "divers".
 
@@ -328,8 +323,7 @@ Acceptations (France et étranger)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ACCEPTATIONS
-par un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | ÉTRANGER | TOTAL |
+| ACCEPTATIONSpar un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | ÉTRANGER | TOTAL |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations acceptées |  |  |  |  |  |
 | Provisions techniques sur acceptations |  |  |  |  |  |
@@ -342,8 +336,7 @@ Cessions et rétrocessions (France et étranger)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| CESSIONS PAR UN ÉTABLISSEMENT
-à des entreprises d'assurance ou de réassurance | FRANÇAIS | ÉTRANGER | TOTAL |
+| CESSIONS PAR UN ÉTABLISSEMENTà des entreprises d'assurance ou de réassurance | FRANÇAIS | ÉTRANGER | TOTAL |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations cédées |  |  |  |  |  |
 | Provisions techniques cédées |  |  |  |  |  |
@@ -498,44 +491,42 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 |  |  |  |  |
 | --- | --- | --- | --- |
 |  | PROVISIONS TECHNIQUES | AUTRES engagements réglementés | TOTAL |
-|   | Opérations Union européenne | Hors Union européenne |
+|  | Opérations Union européenne | Hors Union européenne |
 |  | Opérations directes | Acceptations |
-| Provisions techniques des opérations collectives relevant de l'article L. 932-24 |   |   |   | XXX |   |
-| Provisions d'assurance vie des autres opérations |   |   |   | XXX |   |
-| Provisions pour cotisations non acquises |   |   |   | XXX |   |
-| Provisions pour risques en cours |   |   |   | XXX |   |
-| Provisions pour sinistres à payer |   |   |   | XXX |   |
-| Provisions mathématiques (non-vie) |   |   |   | XXX |   |
-| Provisions pour participation aux excédents et ristournes |   |   |   | XXX |   |
-| Provisions pour égalisation |   |   |   | XXX |   |
-| Provisions pour risque d'exigibilité des engagements techniques |   |   |   | XXX |   |
-| Autres provisions techniques |   |   |   | XXX |   |
-| Engagements au titre des opérations relevant de la branche 75 de l'article R. 931-2-1 (1) |   |   |   | XXX |   |
-| Réserve de capitalisation | XXX | XXX | XXX |   |   |
-| Dettes privilégiées | XXX | XXX | XXX |   |   |
-| Dépôts de garantie des assurés, des agents et des tiers | XXX | XXX | XXX |   |   |
-| Réserves d'amortissement des emprunts et réserves pour cautionnements | XXX | XXX | XXX |   |   |
-| Total des passifs réglementés (A) |   |   |   |   |   |
-| Avances sur contrats mentionnés à l'article R. 931-10-26 |   | XXX |   | XXX |   |
-| Cotisations mentionnées à l'article R. 931-10-26 |   | XXX |   | XXX |   |
-| Valeurs mentionnées à l'article R. 931-10-27 |   |   |   | XXX |   |
-| Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 931-10-27 |   |   |   | XXX |   |
-| Cotisations mentionnées à l'article R. 931-10-28 |   | XXX |   | XXX |   |
-| Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnées à l'article R. 931-10-28 |   | XXX |   | XXX |   |
-| Créances nettes sur les cédants mentionnées à l'article R. 931-10-29 | XXX |   |   | XXX |   |
-| Actifs mentionnés à l'article R. 931-10-30 | XXX | XXX |   |   |   |
-| Recours admis |   |   |   | XXX |   |
-| Divers (2) |   |   |   |   |   |
-| Créances mentionnées à l'article R. 931-10-31 | XXX | XXX | XXX |   |   |
-| Valeurs déposées en cautionnement | XXX | XXX | XXX |   |   |
-| Total des actifs admissibles divers (B) |   |   |   |   |   |
-| Base de la dispersion visée à l'article R. 931-10-22 (A-B) |   |   |   |   |   |
-| Valeurs couvrant les engagements pris dans le cadre d'opérations relevant de la branche 25 de l'article R. 931-2-1 (1) |   |   |   | XXX |   |
-| Autres placements mentionnés du 1o au 15o de l'article R. 931-10-21 (3) |   |   |   |   |   |
-| Dépôts mentionnés au 16o de l'article R. 931-10-21 |   |   |   |   |   |
-| Intérêts courus des placements mentionnés à l'article R. 931-10-21 |   |   |   |   |   |
-| Créances garanties sur les réassureurs mentionnées à l'article R. 931-10-21 |   |   |   | XXX |   |
-| Total des placements et actifs assimilés |   |   |   |   |   |
-| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.
-(2) Le détail de la rubrique Divers est annexé au présent état.
-(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. |
+| Provisions techniques des opérations collectives relevant de l'article L. 932-24 |  |  |  | XXX |  |
+| Provisions d'assurance vie des autres opérations |  |  |  | XXX |  |
+| Provisions pour cotisations non acquises |  |  |  | XXX |  |
+| Provisions pour risques en cours |  |  |  | XXX |  |
+| Provisions pour sinistres à payer |  |  |  | XXX |  |
+| Provisions mathématiques (non-vie) |  |  |  | XXX |  |
+| Provisions pour participation aux excédents et ristournes |  |  |  | XXX |  |
+| Provisions pour égalisation |  |  |  | XXX |  |
+| Provisions pour risque d'exigibilité des engagements techniques |  |  |  | XXX |  |
+| Autres provisions techniques |  |  |  | XXX |  |
+| Engagements au titre des opérations relevant de la branche 75 de l'article R. 931-2-1 (1) |  |  |  | XXX |  |
+| Réserve de capitalisation | XXX | XXX | XXX |  |  |
+| Dettes privilégiées | XXX | XXX | XXX |  |  |
+| Dépôts de garantie des assurés, des agents et des tiers | XXX | XXX | XXX |  |  |
+| Réserves d'amortissement des emprunts et réserves pour cautionnements | XXX | XXX | XXX |  |  |
+| Total des passifs réglementés (A) |  |  |  |  |  |
+| Avances sur contrats mentionnés à l'article R. 931-10-26 |  | XXX |  | XXX |  |
+| Cotisations mentionnées à l'article R. 931-10-26 |  | XXX |  | XXX |  |
+| Valeurs mentionnées à l'article R. 931-10-27 |  |  |  | XXX |  |
+| Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnés à l'article R. 931-10-27 |  |  |  | XXX |  |
+| Cotisations mentionnées à l'article R. 931-10-28 |  | XXX |  | XXX |  |
+| Frais d'acquisition des bulletins d'adhésion à des règlements ou des contrats reportés mentionnées à l'article R. 931-10-28 |  | XXX |  | XXX |  |
+| Créances nettes sur les cédants mentionnées à l'article R. 931-10-29 | XXX |  |  | XXX |  |
+| Actifs mentionnés à l'article R. 931-10-30 | XXX | XXX |  |  |  |
+| Recours admis |  |  |  | XXX |  |
+| Divers (2) |  |  |  |  |  |
+| Créances mentionnées à l'article R. 931-10-31 | XXX | XXX | XXX |  |  |
+| Valeurs déposées en cautionnement | XXX | XXX | XXX |  |  |
+| Total des actifs admissibles divers (B) |  |  |  |  |  |
+| Base de la dispersion visée à l'article R. 931-10-22 (A-B) |  |  |  |  |  |
+| Valeurs couvrant les engagements pris dans le cadre d'opérations relevant de la branche 25 de l'article R. 931-2-1 (1) |  |  |  | XXX |  |
+| Autres placements mentionnés du 1o au 15o de l'article R. 931-10-21 (3) |  |  |  |  |  |
+| Dépôts mentionnés au 16o de l'article R. 931-10-21 |  |  |  |  |  |
+| Intérêts courus des placements mentionnés à l'article R. 931-10-21 |  |  |  |  |  |
+| Créances garanties sur les réassureurs mentionnées à l'article R. 931-10-21 |  |  |  | XXX |  |
+| Total des placements et actifs assimilés |  |  |  |  |  |
+| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.(2) Le détail de la rubrique Divers est annexé au présent état.(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. |

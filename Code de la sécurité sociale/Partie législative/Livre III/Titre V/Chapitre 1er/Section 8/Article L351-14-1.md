@@ -15,3 +15,8 @@ II.-Par dérogation aux conditions prévues au I, le montant du versement de cot
 III.-Par dérogation aux conditions prévues au I, le montant du versement de cotisations prévu pour la prise en compte des années civiles mentionnées au 2° du même I, comprises entre le 1er janvier 1975 et le 31 décembre 1990 et au cours desquelles l'assuré a exercé une activité d'assistant maternel, peut être abaissé par décret, dans des conditions et limites tenant notamment au nombre de trimestres éligibles à ce montant spécifique.
 
 IV.-Par dérogation aux conditions prévues au I, le montant du versement de cotisations prévu pour la prise en compte des années civiles mentionnées au 2° du même I au cours desquelles l'assuré était en situation d'apprentissage, au sens de l'article L. 6211-1 du code du travail, dans le cadre d'un contrat conclu entre le 1er juillet 1972 et le 31 décembre 2013 peut être abaissé, dans des conditions et limites tenant notamment au nombre de trimestres éligibles à ce montant spécifique, fixées par décret.
+
+NOTA:
+Conformément au B du XXX de l'article 10 et au IV de l’article 23 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+
+Se reporter aux dispositions du XXV de l'article 10 de la loi n° 2023-270 du 14 avril 2023.

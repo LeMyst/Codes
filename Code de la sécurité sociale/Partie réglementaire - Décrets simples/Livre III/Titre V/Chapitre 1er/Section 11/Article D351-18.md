@@ -9,3 +9,6 @@ Si le total du ou des trimestres correspondant à un versement relatif à une p�
 L'intéressé peut opter pour un échelonnement du versement en échéances mensuelles d'égal montant, sur une période d'un an ou de deux ans selon le choix exprimé, le cas échéant, dans sa demande.
 
 Le versement ou, en cas d'échelonnement, le premier versement, est effectué selon les modalités et conditions prévues aux cinquième, sixième et septième alinéas de l'article D. 351-11, sans qu'il soit fait application de la limite fixée aux 1° et 2° de cet article.
+
+NOTA:
+Ces dispositions s'appliquent aux périodes de stage débutant postérieurement à la publication du décret n° 2015-284 du 11 mars 2015 précisant les modalités et conditions de validation des stages en entreprise par le régime général d'assurance vieillesse.

@@ -5,3 +5,6 @@ En cas de maternité, paternité, d'accueil de l'enfant ou d'adoption les conjoi
 Un décret détermine, pour les conjoints des assurés mentionnés à l'article L. 646-1 et pour les conjoints des autres assurés auxquels s'appliquent les dispositions du présent livre, les modalités d'application de l'alinéa précédent et notamment les montants des allocations et indemnités mentionnées à cet alinéa ainsi que les durées d'attribution de ces dernières.
 
 Les montants maximum des indemnités de remplacement et, pour les conjoints des assurés mentionnés à l'article L. 646-1, des allocations forfaitaires sont revalorisés dans les mêmes conditions que celles fixées par les articles L. 3231-4 et L. 3231-5 du code du travail pour le salaire minimum de croissance.
+
+NOTA:
+Conformément au premier alinéa du V de l'article 96 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -7,3 +7,6 @@ En cas de reprise, postérieurement à la date d'effet de la pension, soit d'une
 1° En cas d'exercice d'une activité salariée antérieurement à la date d'effet de la pension : de la date d'effet de la fin du contrat de travail en vigueur antérieurement à la date d'effet de la pension et, selon la nature de l'activité reprise, soit de la date d'effet du nouveau contrat de travail conclu postérieurement à la date d'effet de la pension avec le même employeur, soit de la date d'effet du début de l'activité non salariée exercée postérieurement à la date d'effet de la pension pour le compte de la même entreprise ;
 
 2° En cas d'exercice d'une activité non salariée donnant lieu à affiliation au régime général antérieurement à la date d'effet de la pension : de la date d'effet de la cessation de cette activité et, d'autre part, selon la nature de l'activité reprise, soit de la date d'effet du contrat de travail conclu postérieurement à la date d'effet de la pension avec l'employeur de la même entreprise, soit de la date d'effet du début de l'activité non salariée exercée postérieurement à la date d'effet de la pension auprès de la même entreprise.
+
+NOTA:
+Ces dispositions s'appliquent aux assurés dont la première pension prend effet à compter du 1er janvier 2015.

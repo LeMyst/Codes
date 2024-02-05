@@ -5,3 +5,6 @@ Pour les contestations mentionnées aux 1°, 4°, 5° et 6° de l'article L. 142
 Pour les contestations mentionnées aux 8° et 9° de l'article L. 142-1 du présent code, les éléments ou informations à caractère secret ayant fondé la décision de l'autorité compétente pour examiner le recours préalable sont transmis à l'expert ou au médecin consultant désigné par la juridiction compétente, sans que puisse être opposé l'article 226-13 du code pénal.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+NOTA:
+Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.

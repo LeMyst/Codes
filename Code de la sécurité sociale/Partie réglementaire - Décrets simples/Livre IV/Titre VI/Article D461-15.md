@@ -9,3 +9,8 @@ Si l'intéressé occupe un emploi, l'indemnité ne pourra représenter que la di
 L'indemnité de changement d'emploi ne se cumule pas avec l'indemnité journalière prévue à l'article L. 433-1.
 
 Dans le cas où cette dernière indemnité vient à être due, après attribution de l'indemnité de changement d'emploi et pour des journées comprises dans la période prévue au deuxième alinéa du présent article, le montant de l'indemnité journalière est réduit, pour chacune de ces journées, d'une somme égale au résultat de la division du montant de l'indemnité de changement d'emploi par le nombre de jours, ouvrables ou non, compris dans ladite période.
+
+NOTA:
+Code de la sécurité sociale D412-34 : dispositions applicables aux pupilles de la protection judiciaire de la jeunesse ;
+
+Code de la sécurité sociale D461-5 : dispositions applicables aux maladies professionnelles provoquées par la silice libre (tableau n° 25), l'amiante (tableau n° 30) et l'oxyde de fer (tableau n° 44).

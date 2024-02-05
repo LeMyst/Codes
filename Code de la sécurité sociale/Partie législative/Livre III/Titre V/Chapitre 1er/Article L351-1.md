@@ -9,3 +9,8 @@ Si l'assuré a accompli dans le régime général une durée d'assurance inféri
 Les modalités de calcul du salaire de base, des périodes d'assurance ou des périodes équivalentes susceptibles d'être prises en compte et les taux correspondant aux durées d'assurance et à l'âge de liquidation sont définis par décret en Conseil d'Etat. Les indemnités journalières mentionnées au 2° de l'article L. 330-1 sont incluses dans le salaire de base pour l'application du présent article.
 
 Les dispositions des alinéas précédents ne sauraient avoir pour effet de réduire le montant de la pension à un montant inférieur à celui qu'elle aurait atteint si la liquidation en était intervenue avant le 1er avril 1983, compte tenu de l'âge atteint à cette date.
+
+NOTA:
+Code de la sécurité sociale L357-4 : dispositions applicables dans le Haut-Rhin, le Bas-Rhin et la Moselle.
+
+Loi n° 2010-1330 du 9 novembre 2010 article 118 : Les dispositions de l'article 20 sont applicables aux pensions prenant effet à compter du 1er juillet 2011. Les dispositions de l'article 98 de la loi n° 2010-1330 sont applicables aux indemnités journalières d'assurance maternité versées dans le cadre des congés de maternité débutant à compter du 1er janvier 2012.

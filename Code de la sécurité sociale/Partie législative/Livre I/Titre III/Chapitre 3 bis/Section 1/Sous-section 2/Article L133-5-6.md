@@ -19,3 +19,6 @@ Peuvent utiliser, à leur demande, un dispositif simplifié de déclaration et d
 8° Les particuliers qui font appel pour leur usage personnel à d'autres particuliers pour effectuer de manière ponctuelle un service de conseil ou de formation en contrepartie d'une rémunération au sens de l'article L. 242-1 du présent code. Un décret précise la durée et les activités entrant dans le champ d'application du présent 8° ;
 
 9° Les personnes dont l'activité consiste à mettre en relation un particulier avec un salarié, un stagiaire aide familial placé au pair, un accueillant familial ou une personne effectuant un service mentionné au 8°, lorsqu'elles sont mandatées par ce particulier pour effectuer tout ou partie des démarches mentionnées aux articles L. 133-5-7 et L. 133-5-8.
+
+NOTA:
+Conformément au IV de l’article 13 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2024.

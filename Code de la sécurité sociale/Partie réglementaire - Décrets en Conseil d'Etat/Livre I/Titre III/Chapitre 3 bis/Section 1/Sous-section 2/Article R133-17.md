@@ -29,3 +29,6 @@ II.-Afin de permettre à l'organisme mentionné à l'article L. 225-1 de déterm
 Les données transmises en application du présent II sont exclusivement utilisées et conservées aux fins de déterminer le droit aux aides mentionnées au I dont le particulier a fait la demande, et d'en fixer le montant.
 
 III.-L'organisme mentionné à l'article L. 225-1 assure, à l'égard des particuliers pour lesquels il est procédé à une transmission de données en application du I et du II, l'obligation d'information prévue par l'article 13 du règlement (UE) n° 2016/679 du 27 avril 2016. Ces mêmes particuliers exercent auprès de cet organisme leurs droits d'accès et de rectification et leurs droits à l'effacement et à la limitation, dans les conditions prévues aux articles 15 à 18 et 21 du même règlement.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2022-1144 du 10 août 2022, les 3°, 4° et 5° du II du présent article entrent en vigueur le 1er janvier 2024.

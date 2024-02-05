@@ -13,3 +13,6 @@ La fraction mentionnée à l'alinéa précédent est fixée par arrêté des min
 II.-Le nombre d'apprentis mentionné au 1° du I et leur répartition par régime d'assurance vieillesse d'affiliation est communiqué chaque année au fonds de solidarité vieillesse par les services statistiques du ministère chargé du travail.
 
 Le versement du fonds de solidarité vieillesse est réparti entre le régime général et le régime des salariés agricoles au prorata de leurs effectifs d'apprentis respectifs.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-652 du 25 avril 2022, ces dispositions sont applicables aux périodes d'apprentissage accomplies à compter du 1er janvier 2022.

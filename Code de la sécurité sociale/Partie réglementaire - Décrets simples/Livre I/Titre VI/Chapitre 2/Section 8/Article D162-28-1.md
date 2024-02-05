@@ -15,3 +15,6 @@ Cette liste est arrêtée en tenant compte des critères cumulatifs suivants :
 3° Une ancienneté minimale de deux ans à compter de la date de dépôt légal des statuts. Toutefois une organisation constituée à partir de la fusion de plusieurs organisations dont l'une d'entre elles remplit cette condition d'ancienneté est réputée la remplir ;
 
 4° L'activité réalisée en vue de la défense ou de la représentation des maisons de santé et des professionnels exerçant dans ces structures.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2023-1424 du 29 décembre 2023 : Par dérogation aux dispositions du premier alinéa du II du présent article, la liste prévue à cet alinéa est fixée par les ministres chargés de la santé et de la sécurité sociale pour la première fois le 15 mars 2024 au plus tard.

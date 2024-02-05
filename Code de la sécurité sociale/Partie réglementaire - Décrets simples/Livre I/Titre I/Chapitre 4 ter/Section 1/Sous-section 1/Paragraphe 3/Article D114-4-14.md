@@ -5,3 +5,6 @@ Le directeur et le directeur comptable et financier national établissent un pla
 Le directeur et le directeur comptable et financier national établissent également un plan national de reprise d'activité des systèmes d'information, afin d'assurer la continuité du service en cas d'incident ou de sinistre majeur. Ce plan est actualisé, le cas échéant, annuellement.
 
 Le directeur et le directeur comptable et financier de l'organisme national établissent les règles de gestion des habilitations qui sont actualisées, le cas échéant, annuellement.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

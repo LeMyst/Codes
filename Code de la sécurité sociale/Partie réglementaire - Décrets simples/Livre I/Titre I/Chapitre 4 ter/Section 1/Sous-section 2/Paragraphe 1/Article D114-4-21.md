@@ -15,3 +15,6 @@ Il prend notamment en compte, en fonction de la disponibilité des données, les
 Il est communiqué à l'organisme national dont il relève au plus tard le 15 avril de l'année suivant celle au titre de laquelle il a été établi.
 
 Une synthèse du bilan de contrôle interne est présentée au conseil d'administration lors de la séance qui approuve les comptes de l'organisme.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -9,3 +9,6 @@ Le contrat est conclu pour une durée maximale de cinq ans. Il prévoit notammen
 En cas de refus par l'établissement de santé identifié de conclure ce contrat, le directeur général de l'agence régionale de santé prononce, après que l'établissement a été mis en mesure de présenter ses observations, une sanction financière correspondant à 1 % des produits reçus des régimes obligatoires d'assurance maladie par l'établissement de santé au titre du dernier exercice clos. Le produit de ces sanctions est versé à l'assurance maladie.
 
 Les modalités d'application du présent article sont déterminées par décret.
+
+NOTA:
+Conformément au II de l'article 57 de la loi n° 2017-1836 du 31 décembre 2017, ces dispositions s'appliquent à l'évaluation des contrats ou avenants entrant en vigueur à compter du 1er janvier 2018 en application de l'article L. 162-30-2 du code de la sécurité sociale.

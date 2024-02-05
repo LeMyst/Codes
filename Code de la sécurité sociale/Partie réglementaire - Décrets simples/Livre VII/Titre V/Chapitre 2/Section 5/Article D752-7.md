@@ -41,3 +41,6 @@ Pour les salariés en contrat de travail temporaire mis à disposition au cours 
 Les dispositions du deuxième alinéa du présent IV ne s'appliquent pas aux salariés en contrat de travail temporaire titulaires d'un contrat de travail à durée indéterminée n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail et ouvrant droit à une garantie minimale mensuelle au moins égale pour un temps plein à 151,67 fois le montant horaire du salaire minimum de croissance, en application des dispositions d'une convention de branche ou d'un accord professionnel ou interprofessionnel étendu.
 
 V.-Les dispositions des articles D. 241-8 et D. 241-9 s'appliquent au calcul de la réduction prévue au présent article.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2023-801 du 21 août 2023, ces dispositions s'appliquent aux cotisations et aux contributions sur les rémunérations dues au titre des périodes courant à compter du 1er septembre 2022.

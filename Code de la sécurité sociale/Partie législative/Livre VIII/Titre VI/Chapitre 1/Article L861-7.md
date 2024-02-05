@@ -5,3 +5,6 @@ Les organismes mentionnés au b de l'article L. 861-4 qui souhaitent participer 
 Le ministre chargé de la sécurité sociale établit et diffuse la liste des organismes participants, en particulier aux associations, services sociaux, organismes à but non lucratif et établissements de santé visés à l'article L. 861-5.
 
 En cas de manquement aux obligations prévues aux articles L. 861-3 et L. 861-8, ainsi qu'au c de l'article L. 862-7, le ministre chargé de la sécurité sociale peut retirer de la liste l'organisme en cause. Les conditions dans lesquelles le retrait est prononcé et le délai au terme duquel une nouvelle déclaration peut être établie sont fixés par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l'article 81 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

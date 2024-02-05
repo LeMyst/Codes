@@ -17,3 +17,6 @@ II.-L'établissement est dans l'obligation de conclure un ou plusieurs volets du
 2° Les prestations d'hospitalisation, les actes réalisés au sein de l'établissement ou les prescriptions des professionnels de santé y exerçant ne sont pas conformes aux indicateurs régionaux déterminés par le directeur général de l'agence régionale de santé, définis en cohérence avec le plan d'actions régional défini à l'article D. 162-11.
 
 III. – Les données prises en compte pour vérifier la conformité des pratiques des établissements sont notamment les données mentionnées à l'article L. 6113-7 du code de la santé publique et celles transmises par la Caisse nationale de l'assurance maladie.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1231 du 25 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

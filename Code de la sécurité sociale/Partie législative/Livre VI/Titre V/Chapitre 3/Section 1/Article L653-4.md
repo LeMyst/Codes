@@ -17,3 +17,6 @@ Sont liquidées sans coefficient de réduction, même s'ils ne justifient pas de
 3° Des travailleurs handicapés admis à demander la liquidation de leur pension de retraite dans les conditions prévues au III de l'article L. 653-2 ;
 
 4° Des assurés dont l'âge mentionné au premier alinéa de l'article L. 653-2 est abaissé dans des conditions prévues au I bis du même article L. 653-2.
+
+NOTA:
+Conformément au B de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

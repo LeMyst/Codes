@@ -7,3 +7,6 @@ En vue de déterminer et de vérifier le montant des dépenses restant à la cha
 2° Les modalités de remboursement, par l'organisme ou la collectivité, des montants d'aide avancés pour son compte par l'organisme de recouvrement mentionné à l'article L. 133-5-10 ;
 
 3° Les modalités d'échange des informations relatives aux personnes qui réalisent les prestations pour les particuliers bénéficiant des aides ainsi qu'aux montants, aux volumes et à la nature des services déclarés.
+
+NOTA:
+Se reporter aux conditions d'application prévues IV de l'article 13 de la loi n° 2021-1754 du 23 décembre 2021.

@@ -17,3 +17,6 @@ Ce plan local unique, qui porte sur une période correspondant à l'année civil
 En vue d'assurer l'efficacité et l'efficience du dispositif de maîtrise des risques, le directeur et le directeur comptable et financier s'assurent de la coordination des actions de contrôle et de supervision mises en œuvre par leurs services.
 
 Dans l'organisation de la gestion des activités relevant de leurs compétences respectives, le directeur et le directeur comptable et financier vérifient que la séparation des tâches entre les agents dans les conditions définies à l'article D. 114-4-8 est assurée et adaptée aux besoins de maîtrise des risques, notamment à la couverture des risques de fraudes.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

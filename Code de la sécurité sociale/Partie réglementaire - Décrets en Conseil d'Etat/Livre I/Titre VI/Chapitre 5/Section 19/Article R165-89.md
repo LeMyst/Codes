@@ -13,3 +13,6 @@ Dans le cas où les éléments d'appréciation communiqués par l'entreprise qui
 II.-L'entreprise exploitant le produit ou la prestation adresse aux ministres chargés de la santé et de la sécurité sociale, au plus tard au 1er mai de chaque année, une mise à jour de certains des éléments mentionnés au I dont la liste est fixée par arrêté des ministres chargés de la santé et de la sécurité sociale, pour chaque indication susceptible d'être encore prise en charge au titre de l'article L. 165-1-5.
 
 III.-Lorsque l'entreprise exploitant un produit ou une prestation dont la prise en charge transitoire pour une indication est suspendue sollicite un renouvellement de prise en charge transitoire pour ce même produit ou prestation dans l'indication considérée, au titre du III de l'article L. 165-1-5, elle adresse aux ministres chargés de la santé et de la sécurité sociale les informations nécessaires pour se prononcer sur ce renouvellement, dont la liste est fixée par arrêté de ces ministres.
+
+NOTA:
+Se reporter aux conditions d’application à l’article 2 du décret 2023-232 du 30 mars 2023.

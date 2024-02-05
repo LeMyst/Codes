@@ -37,3 +37,8 @@ Les montants mentionnés aux 1° et 2° du III sont revalorisés au 1er janvier 
 La condition d'âge, visée aux deuxième et troisième alinéas, est appréciée le premier jour du mois de l'ouverture du droit ou le 1er janvier lors du renouvellement du droit.
 
 La condition relative à l'existence d'une activité professionnelle rémunérée visée aux 1° et 2° est appréciée au cours du mois civil précédant l'ouverture du droit ou du mois de novembre précédant le renouvellement du droit.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2009-976 du 20 août 2009, les dispositions de l'article R532-8 sont applicables au calcul des prestations versées à compter du mois de juillet 2009.
+
+Par décision du Conseil d'Etat n° 420104 du 26 décembre 2018, les dispositions de l'article R532-8 du code de la sécurité sociale ont été déclarées illégales.

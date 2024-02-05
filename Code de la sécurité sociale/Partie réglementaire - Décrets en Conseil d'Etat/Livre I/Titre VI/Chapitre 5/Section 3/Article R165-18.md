@@ -27,3 +27,6 @@ A.-Le directeur général de l'agence de la biomédecine ou son représentant, l
 B.-Le directeur central du service de santé des armées, lorsque la commission examine l'inscription, le renouvellement ou la modification d'inscription des orthoprothèses sur mesure, des chaussures orthopédiques et des véhicules pour handicapés physiques ;
 
 III.-La commission entend, chaque fois que de besoin, un représentant du laboratoire national d'essai ou du centre d'études et de recherche sur l'appareillage des handicapés. Elle peut également entendre toute personne qualifiée ou tout expert dont elle juge l'audition utile.
+
+NOTA:
+Conformément à l'article 2 IV du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission nationale d'évaluation des dispositifs médicaux et des technologies de santé suivant la publication dudit décret.

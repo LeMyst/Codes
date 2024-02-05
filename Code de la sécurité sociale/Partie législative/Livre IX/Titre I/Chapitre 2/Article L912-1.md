@@ -13,3 +13,6 @@ Le ou les organismes ou institutions ne peuvent refuser l'adhésion d'une entrep
 III.-Les accords mentionnés au I comportent une clause fixant dans quelles conditions et selon quelle périodicité, qui ne peut excéder cinq ans, les modalités d'organisation de la recommandation sont réexaminées. La procédure prévue au premier alinéa du II est applicable à ce réexamen.
 
 IV.-Les accords mentionnés au I peuvent prévoir que certaines des prestations nécessitant la prise en compte d'éléments relatifs à la situation des salariés ou sans lien direct avec le contrat de travail les liant à leur employeur sont financées et gérées de façon mutualisée, selon des modalités fixées par décret en Conseil d'Etat, pour l'ensemble des entreprises entrant dans leur champ d'application.
+
+NOTA:
+Conformément à l'article 14 II de la loi n° 2013-1203 du 23 décembre 2013 de financement de la sécurité sociale pour 2014, les dispositions de l'article L912-1, dans leur rédaction issue de la présente loi, s'appliquent aux accords conclus à compter du 1er janvier 2014.

@@ -19,3 +19,6 @@ Le contentieux de la sécurité sociale comprend les litiges relatifs :
 8° Aux décisions de la commission des droits et de l'autonomie des personnes handicapées mentionnées au premier alinéa de l'article L. 241-9 du code de l'action sociale et des familles ;
 
 9° Aux décisions du président du conseil départemental mentionnées à l'article L. 241-3 du même code relatives aux mentions “ invalidité ” et “ priorité ”.
+
+NOTA:
+Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.

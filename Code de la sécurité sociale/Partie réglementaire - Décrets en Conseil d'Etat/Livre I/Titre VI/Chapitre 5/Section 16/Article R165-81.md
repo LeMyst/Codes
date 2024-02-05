@@ -21,3 +21,6 @@ IV.-Lorsqu'au cours de la période temporelle retenue, des produits ou prestatio
 V.-En cas de négociation commune au sens du 1° du I, un taux moyen de prise en charge unique est défini pour l'ensemble des produits ou prestations concernés, par calcul du rapport mentionné au III en considérant les montants remboursés pour l'ensemble des produits ou prestations faisant l'objet de la négociation commune.
 
 La part du montant remboursé mentionnée à l'article L. 165-3-3 est appréciée globalement pour l'ensemble des produits et prestations faisant l'objet d'une négociation commune, en faisant la somme, pour chaque produit ou prestation concernés, du montant obtenu en multipliant les volumes de vente par le tarif de responsabilité correspondant et en appliquant le taux moyen de prise en charge unique défini à l'alinéa précédent.
+
+NOTA:
+Aux termes de l'article 2 du décret n° 2018-520 du 27 juin 2018, les présentes dispositions s'appliquent aux négociations relatives aux tarifs de responsabilité et aux prix des produits et prestations inscrits sur la liste prévue à l'article L. 165-1 par description générique ou description générique renforcée dont le projet de modification des tarifs ou des prix a été notifié ou publié, en application de l'article R. 165-9 du code de la sécurité sociale, après le 1er avril 2019.

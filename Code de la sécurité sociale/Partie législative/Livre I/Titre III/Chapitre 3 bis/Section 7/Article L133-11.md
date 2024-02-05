@@ -13,3 +13,6 @@ II.-Le présent article s'applique sans préjudice des règles applicables en ma
 III.-Les tiers déclarants sont tenus de procéder aux déclarations pour le calcul des cotisations et contributions sociales et, le cas échéant, au paiement, effectués pour le compte de leurs clients par voie dématérialisée. La méconnaissance de cette obligation entraîne l'application aux tiers déclarants de la majoration prévue au II de l'article L. 133-5-5, calculée à partir des sommes dont la déclaration ou le versement a été effectué par une autre voie que la voie dématérialisée. Le produit des majorations est versé à l'organisme chargé du recouvrement des cotisations et contributions sociales dont l'employeur ou le travailleur indépendant relève, selon les règles, garanties et sanctions applicables à ces cotisations et contributions.
 
 IV.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat, notamment la mission du tiers déclarant et les obligations respectives du tiers déclarant et de l'employeur ou du travailleur indépendant.
+
+NOTA:
+Conformément à l'article 21 III de la loi n° 2016-1827 du 23 décembre 2016, l'article L133-11 s'applique au titre des démarches et formalités effectuées pour le compte des travailleurs indépendants à compter du 1er janvier 2018.

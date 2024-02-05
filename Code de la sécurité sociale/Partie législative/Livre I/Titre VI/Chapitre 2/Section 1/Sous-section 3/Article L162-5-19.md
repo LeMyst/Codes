@@ -11,3 +11,8 @@ III.-Les organismes mentionnés aux articles L. 213-1 et L. 752-1 ainsi que les 
 IV.-En cas de cessation d'exercice dans l'une des zones mentionnées au I du présent article au cours des deux années suivant l'installation, le bénéfice de l'aide est suspendu le premier jour du mois suivant cette cessation.
 
 Le premier alinéa du présent IV n'est pas applicable en cas de modification du périmètre des zones définies au I.
+
+NOTA:
+Conformément au III de l'article 51 de la loi n° 2019-1446 du 24 décembre 2019, les présentes dispositions sont applicables aux médecins s'installant jusqu'au 31 décembre 2022.
+
+Le Gouvernement présente au Parlement, au plus tard six mois avant l'expiration du délai mentionné au premier alinéa du présent III, une évaluation portant sur l'efficacité du dispositif créé au 2° du I, notamment sur son effet sur les effectifs de médecins libéraux dans les zones caractérisées par une offre de soins insuffisante ou des difficultés dans l'accès aux soins, mentionnées à l'article L. 1434-4 du code de la santé publique.

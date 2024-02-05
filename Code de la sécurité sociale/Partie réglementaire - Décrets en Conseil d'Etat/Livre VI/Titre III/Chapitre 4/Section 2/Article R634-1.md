@@ -7,3 +7,6 @@ Toutefois et sous réserve des dispositions des articles R. 173-4-3 et R. 634-1-
 Par dérogation aux alinéas précédents, il est tenu compte du revenu annuel de l'année durant laquelle la pension mentionnée à l'article L. 161-22-1-1 prend effet.
 
 Ne sont pas prises en compte pour la détermination du revenu annuel moyen défini au présent article les années comprenant une période au titre de laquelle un versement de cotisations a été effectué en application de l'article L. 351-14-1 ou en application, en ce qui concerne des demandes de rachat déposées à compter du 1er janvier 2011, de l'article L. 742-7.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.

@@ -33,3 +33,8 @@ La Caisse nationale de l'assurance maladie gère les branches mentionnées aux 1
 La caisse nationale exerce, au titre des attributions énoncées ci-dessus, un pouvoir de contrôle sur les caisses d'assurance retraite et de la santé au travail et primaires d'assurance maladie. Elle exerce également les missions qui lui sont confiées au troisième alinéa de l'article L. 1111-14 du code de la santé publique et à l'article L. 4071-5 du même code.
 
 La Caisse nationale de l'assurance maladie publie chaque année un rapport d'activité et de gestion, qui comporte des données présentées par sexe, en particulier sur les accidents du travail et les maladies professionnelles, et des données relatives aux services rendus aux travailleurs indépendants.
+
+NOTA:
+Conformément à l’article 2 de l’ordonnance n° 2020-1408 du 18 novembre 2020, les présentes dispositions entrent en vigueur à une date fixée par décret et au plus tard le 31 décembre 2024, en tenant compte des professions concernées, de leurs conditions d'exercice, ainsi que des catégories de soins, produits ou prestations prescrites.
+
+Conformément à l’article 5 du décret n° 2023-1222, ces dispositions entrent en vigueur, au lendemain de la publication dudit décret, le 22 décembre 2023.

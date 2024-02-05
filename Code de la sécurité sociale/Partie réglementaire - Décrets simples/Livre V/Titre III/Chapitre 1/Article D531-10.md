@@ -11,3 +11,6 @@ Pour le calcul du droit à la prestation, un enfant est considéré comme gardé
 Une demi-journée de garde est définie comme une durée de garde inférieure à quatre heures par jour et une journée de garde comme toute durée supérieure à celle-ci.
 
 L'assistante maternelle fournit à l'organisme débiteur des prestations familiales une attestation du ou des employeurs précisant, pour chaque enfant gardé, le nombre de jours ou de demi-journées de garde pour le mois considéré.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2014-1708 du 30 décembre 2014, les présentes dispositions s'appliquent aux enfants nés ou adoptés à partir du 1er janvier 2015. Pour les enfants nés ou adoptés avant le 1er janvier 2015, les dispositions du code de la sécurité sociale demeurent applicables dans leur rédaction antérieure au 1er janvier 2015.

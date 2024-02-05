@@ -5,3 +5,6 @@ Les frais d'hospitalisation afférents aux soins dispensés dans les établissem
 Les sommes versées aux établissements pour le compte des différents régimes en application de l'alinéa précédent sont réparties après accord entre tous les régimes ayant une organisation financière propre. A défaut d'accord entre les régimes, un arrêté interministériel fixe cette répartition.
 
 Un décret en Conseil d'Etat, pris après avis des organisations représentatives des établissements de santé, détermine les modalités d'application du présent article, notamment les responsabilités respectives de cette caisse et de l'organisme dont dépend le bénéficiaire des soins, en particulier les conditions et les délais dans lesquels cet organisme peut assurer la vérification des sommes à rembourser et autoriser leur paiement.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -7,3 +7,6 @@ Pour l'exercice de sa compétence d'audit, l'organisme national peut requérir d
 Les auditeurs mettent en œuvre une procédure contradictoire à l'égard des organismes contrôlés. Les réponses de l'organisme assorties, le cas échéant, des observations des auditeurs sur ces dernières sont annexées au rapport d'audit définitif, qui est transmis pour information au service mentionné à l'article R. 155-1 dans un délai de trente jours suivant son adoption définitive.
 
 Le directeur de l'organisme local est tenu de communiquer au directeur et au directeur comptable et financier de l'organisme national les suites données aux recommandations formulées.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -15,3 +15,6 @@ Pour les avocats exerçant à titre libéral, sont comptées comme périodes d'a
 6° Les périodes ayant donné lieu au versement de l'allocation mentionnée à l'article L. 5424-25 du code du travail.
 
 Les périodes mentionnées aux 3°, 4° et 6° du présent article sont comptées de date à date au titre de l'année civile et ouvrent droit à la validation d'un trimestre d'assurance par période de quatre-vingt-dix jours, le solde étant compté pour un trimestre s'il est égal ou supérieur à soixante jours.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

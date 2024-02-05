@@ -64,8 +64,7 @@ b) Nature du risque au titre duquel la prestation est versée ;
 
 c) Mention du lien éventuel avec une affection de longue durée ;
 
-d) Mention du motif en cas de maintien de l'indemnisation dans les cas prévus aux articles L. 323-3,
-L. 432-9 et L. 433-1.
+d) Mention du motif en cas de maintien de l'indemnisation dans les cas prévus aux articles L. 323-3, L. 432-9 et L. 433-1.
 
 6° Informations relatives aux patients atteints d'une affection de longue durée :
 

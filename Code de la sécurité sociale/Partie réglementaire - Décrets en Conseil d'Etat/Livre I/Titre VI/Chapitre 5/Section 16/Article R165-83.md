@@ -15,3 +15,6 @@ Le comité communique sa décision à l'organisme de recouvrement compétent.
 Dans un délai d'un mois à compter de la notification, le fabricant, le distributeur ou l'organisation s'acquittent de la pénalité auprès de l'agent comptable de l'organisme de recouvrement compétent. Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables au recouvrement de cette pénalité.
 
 III.-L'agent comptable de l'organisme de recouvrement compétent informe le comité économique des produits de santé des montants perçus.
+
+NOTA:
+Aux termes de l'article 2 du décret n° 2018-520 du 27 juin 2018, les présentes dispositions s'appliquent aux négociations relatives aux tarifs de responsabilité et aux prix des produits et prestations inscrits sur la liste prévue à l'article L. 165-1 par description générique ou description générique renforcée dont le projet de modification des tarifs ou des prix a été notifié ou publié, en application de l'article R. 165-9 du code de la sécurité sociale, après le 1er avril 2019.

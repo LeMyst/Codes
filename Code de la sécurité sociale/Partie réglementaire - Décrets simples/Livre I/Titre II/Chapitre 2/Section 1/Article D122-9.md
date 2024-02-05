@@ -15,3 +15,6 @@ Il est tenu d'exercer les vérifications correspondant aux objectifs généraux 
 5° Contrôle des sécurités physiques et logiques destinées à assurer le respect des règles d'accès aux systèmes informatiques et la sauvegarde des programmes et des fichiers ;
 
 6° Contrôle des sécurités physiques et logiques destinées à assurer l'intégrité des fichiers, des données et des échanges.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

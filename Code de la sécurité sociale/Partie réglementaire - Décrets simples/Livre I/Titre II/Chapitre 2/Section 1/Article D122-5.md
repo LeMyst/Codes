@@ -5,3 +5,6 @@ Le directeur comptable et financier qui, à l'occasion des vérifications auxque
 Lorsque le directeur comptable et financier a suspendu le paiement des dépenses, le directeur peut, par écrit et sous sa responsabilité, requérir le directeur comptable et financier de payer.
 
 La réquisition de paiement a pour effet d'engager la responsabilité personnelle et pécuniaire du directeur. La responsabilité du directeur est mise en cause dans les conditions fixées aux articles D. 122-11 à D. 122-18.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

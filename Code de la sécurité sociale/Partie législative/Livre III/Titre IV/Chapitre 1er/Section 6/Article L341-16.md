@@ -9,3 +9,8 @@ Dans ce cas, ses droits à l'assurance vieillesse sont ultérieurement liquidés
 Toutefois, la pension de vieillesse qui lui est alors servie ne peut pas être inférieure à celle dont il serait bénéficiaire si la liquidation de ses droits avait été effectuée dans les conditions fixées à l'article L. 341-15.
 
 En cas de reprise ou de poursuite d'une activité ouvrant droit à une nouvelle pension de retraite, la demande de retraite mentionnée aux deux premiers alinéas du présent article est celle effectuée lors de la première liquidation de la retraite.
+
+NOTA:
+Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

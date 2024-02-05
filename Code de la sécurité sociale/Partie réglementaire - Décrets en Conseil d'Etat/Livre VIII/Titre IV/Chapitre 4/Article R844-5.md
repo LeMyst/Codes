@@ -81,3 +81,6 @@ Sont exclues des ressources prises en compte pour le calcul de la prime d'activi
 38° L'allocation journalière d'accompagnement d'une personne en fin de vie mentionnée à l'article L. 168-1 ;
 
 39° L'aide financière d'urgence versée à une personne victime de violences conjugales en application de l'article L. 214-9 du code de l'action sociale et des familles.
+
+NOTA:
+Conformément II de l'article 4 du décret n° 2023-1378 du 28 décembre 2023, ces dispositions sont applicables aux ressources perçues à compter du 1er janvier 2024 et déclarées à compter du 1er février 2024.

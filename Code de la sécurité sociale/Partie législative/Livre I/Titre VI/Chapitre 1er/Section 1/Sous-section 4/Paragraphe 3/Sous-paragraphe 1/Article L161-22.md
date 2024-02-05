@@ -37,3 +37,6 @@ Les dispositions des trois premiers alinéas et celles des deux premiers alinéa
 Les dispositions du présent article ne sont pas opposables à l'assuré qui demande ou qui bénéficie d'une pension au titre d'une retraite progressive prévue par des dispositions législatives ou réglementaires, notamment par les articles L. 161-22-1-5 du présent code et L. 732-29 du code rural et de la pêche maritime.
 
 Sauf disposition contraire, les dispositions d'application du présent article sont prises par décret.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

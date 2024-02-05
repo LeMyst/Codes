@@ -15,3 +15,6 @@ R est égal au montant des revenus tirés d'activités professionnelles mentionn
 II.-Lorsque le redevable de cette cotisation ne remplit les conditions mentionnées à l'article L. 160-1 que pour une partie de l'année civile, le montant de la cotisation due est calculé au prorata de cette partie de l'année.
 
 III.-Si, au titre d'une période donnée, l'assuré est redevable de la cotisation prévue à l'article L. 380-3-1, il ne peut être redevable de la cotisation prévue à l'article L. 380-2 pour la même période. Le montant de celle-ci est alors calculé dans les conditions prévues au II.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-349 du 24 avril 2019, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2019.

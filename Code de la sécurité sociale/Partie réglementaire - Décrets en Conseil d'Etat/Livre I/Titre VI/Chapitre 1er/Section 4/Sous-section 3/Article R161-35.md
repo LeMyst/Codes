@@ -15,3 +15,8 @@ Le Répertoire national interrégimes des bénéficiaires de l'assurance maladie
 6° Eventuellement, l'identifiant d'un des organismes mentionnés au 3° de l'article R. 115-1 de son choix qui lui sert des prestations complémentaires d'assurance maladie et qu'il désire voir figurer sur sa carte mentionnée à l'article R. 161-33-1, et la date de son rattachement audit organisme ;
 
 7° Le numéro de la dernière carte émise et sa date d'émission.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

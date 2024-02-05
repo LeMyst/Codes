@@ -5,3 +5,6 @@ Les chirurgiens-dentistes et les sages-femmes appelés à donner des soins à un
 Ils peuvent porter sur ce carnet, dans le respect des règles déontologiques qui leur sont respectivement applicables et sauf opposition du patient, les mentions et constatations figurant à l'article R. 162-1-2.
 
 Les pharmaciens peuvent, dans le respect des règles déontologiques qui leur sont applicables, et avec l'accord du patient, consulter le carnet de santé de celui-ci lors de la dispensation de médicaments.
+
+NOTA:
+Il s'agit de l'article L. 162-1-1, article qui a été abrogé par l'article 1 de la loi n° 2004-810 du 13 août 2004.

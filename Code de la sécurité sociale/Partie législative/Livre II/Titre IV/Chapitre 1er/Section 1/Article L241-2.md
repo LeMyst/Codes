@@ -35,3 +35,6 @@ IV.-Les ressources des assurances maladie, maternité, invalidité et décès so
 9° La fraction du produit de la contribution sociale généralisée mentionnée au b du 3° de l'article L. 131-8 ;
 
 10° Le produit de la contribution mentionnée à l'article L. 862-4-1.
+
+NOTA:
+Conformément au III de l'article 20 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux prestations dues à compter du 1er janvier 2023.

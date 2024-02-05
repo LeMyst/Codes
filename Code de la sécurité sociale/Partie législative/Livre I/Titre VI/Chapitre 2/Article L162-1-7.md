@@ -43,3 +43,6 @@ VII.-Les conditions d'inscription d'un acte ou d'une prestation, leur inscriptio
 VIII.-Tout acte ou prestation inscrit fait l'objet d'un examen en vue d'une nouvelle hiérarchisation, dans les conditions prévues aux alinéas précédents, dans les cinq ans qui suivent l'entrée en vigueur de la décision de l'Union nationale des caisses d'assurance maladie.
 
 IX.-Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au IV de l’article 53 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur dans des conditions et à une date fixées par décret, et au plus tard le 31 décembre 2023.

@@ -8,9 +8,7 @@ L'application de la législation en matière de sécurité sociale à Saint-Bart
 
 Il est créé un conseil de suivi de l'activité de la caisse à Saint-Barthélemy. Sa composition, ses modalités de fonctionnement et son champ d'intervention sont définis par décret.
 
-Sont applicables aux caisses générales de sécurité sociale les dispositions des articles L. 211-3 à L. 211-5, L. 211-7, L. 215-4,
-L. 216-1 à L. 216-3,
-L. 281-4 à L. 281-6, L. 711-1 et L. 731-1.
+Sont applicables aux caisses générales de sécurité sociale les dispositions des articles L. 211-3 à L. 211-5, L. 211-7, L. 215-4, L. 216-1 à L. 216-3, L. 281-4 à L. 281-6, L. 711-1 et L. 731-1.
 
 Sont applicables aux caisses d'allocations familiales les dispositions des articles L. 211-7, L. 216-1 à L. 216-3, L. 281-4 à L. 281-6 et L. 711-1.
 

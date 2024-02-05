@@ -7,3 +7,6 @@ L'assuré qui, à son départ, remplit les conditions requises pour obtenir les 
 Il peut également, si son état l'exige, recevoir, à compter de la date de retour dans ses foyers, les prestations de l'assurance maladie.
 
 Pendant toute la durée du service militaire ou d'appel sous les drapeaux il confère aux membres de sa famille le bénéfice des prestations prévues aux titres II, III et VI du présent livre.
+
+NOTA:
+Code de la sécurité sociale D712-6 : dispositions applicables aux fonctionnaires sous les drapeaux.

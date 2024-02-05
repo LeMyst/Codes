@@ -7,3 +7,6 @@ Le fonds peut requérir de tout service de l'Etat, de toute collectivité publiq
 Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction de la demande faite au fonds d'indemnisation et leur divulgation est interdite. Les personnes qui ont à connaître des documents et informations fournis au fonds sont tenues au secret professionnel.
 
 Le demandeur peut obtenir la communication de son dossier, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique et sous réserve du secret des affaires.
+
+NOTA:
+Conformément au III de l'article 70 de la loi n°2019-1446 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Se reporter aux conditions d'application prévues au IV de l'article 70.

@@ -11,3 +11,8 @@ Aucune majoration, aucun supplément ni aucun accessoire ne peut être octroyé 
 Les articles L. 161-22-2 et L. 173-1 du présent code ne s'appliquent pas à cette nouvelle pension.
 
 Le montant de la nouvelle pension liquidée en application des cinq premiers alinéas du présent article ne peut dépasser un plafond annuel déterminé par décret.
+
+NOTA:
+Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+
+Se reporter au 3° du XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023.

@@ -13,3 +13,6 @@ Le conseil ou les conseils d'administration des caisses nationales, de l'Agence 
 Le conseil ou les conseils d'administration et la commission prévue à l'article L. 221-4 sont habilités, dans le respect de l'équilibre financier de chacune des branches, à proposer des réformes au Gouvernement.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article, et notamment les délais dans lesquels le conseil ou les conseils d'administration et la commission prévue à l'article L. 221-4 ou les commissions habilitées par eux à cet effet rendent leurs avis, ainsi que les conditions dans lesquelles les avis rendus sur les projets de loi sont motivés.
+
+NOTA:
+Conformément à l’article 3 de la loi n° 2022-355 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

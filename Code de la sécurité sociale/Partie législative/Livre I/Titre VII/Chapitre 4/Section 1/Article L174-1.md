@@ -21,3 +21,6 @@ Le montant de cet objectif est arrêté par l'Etat en fonction de l'objectif nat
 Le montant de l'objectif mentionné au premier alinéa du présent I est constitué en dotations régionales. Certaines des dépenses incluses dans cet objectif peuvent ne pas être incluses dans ces dotations régionales. Le montant des dotations régionales est fixé par l'Etat en tenant compte de l'activité des établissements, des orientations du projet régional ou Interrégional de santé et des priorités nationales ou locales en matière de politique sanitaire.
 
 II.-Le montant de la dotation annuelle de financement de chaque établissement est arrêté par l'Etat.
+
+NOTA:
+Conformément au VI de l'article 34 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2021. L'article 51 VI de la loi n° 2020-1576 du 14 décembre 2020 a reporté cette date au 1er janvier 2022.

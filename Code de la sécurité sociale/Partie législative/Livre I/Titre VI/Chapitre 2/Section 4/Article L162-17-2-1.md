@@ -13,3 +13,6 @@ Si l'arrêté de prise en charge comporte une obligation pour le fabricant édic
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale, son produit est affecté selon les modalités prévues à l'article L. 162-37. Les articles L. 137-3 et L. 137-4 sont applicables au recouvrement de la pénalité. Le recours présenté contre la décision prononçant cette pénalité est un recours de pleine juridiction.
 
 Les modalités d'application du présent article, notamment la procédure de prise en charge dérogatoire prévue au premier alinéa ainsi que les règles, les délais de procédure et les modes de calcul de la pénalité financière mentionnée aux deux alinéas précédents sont déterminés par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au A du IV de l'article 78 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2021.

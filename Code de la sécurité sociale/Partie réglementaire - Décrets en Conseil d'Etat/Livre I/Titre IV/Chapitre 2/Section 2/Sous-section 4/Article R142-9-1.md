@@ -13,3 +13,6 @@ L'avis de la commission médicale de recours amiable sur la contestation d'ordre
 La commission de recours amiable statue sur l'ensemble du recours.
 
 Par dérogation aux articles R. 142-6 et R. 142-8-5, l'absence de décision de la commission de recours amiable ou, lorsque la commission de recours amiable rend un avis en application de l'article R. 142-4, l'absence de décision du conseil, du conseil d'administration ou de l'instance régionale dans le délai de six mois à compter de l'introduction du recours préalable, vaut rejet de la demande.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

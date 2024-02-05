@@ -13,3 +13,6 @@ II.-Le prix maximal prévu au I est fixé, après que l'entreprise a été mise 
 2° Pour les produits de santé autres que les médicaments, au regard d'au moins l'un des critères mentionnés au troisième alinéa du I de l'article L. 165-2. Il peut être fixé à un niveau Inférieur ou baissé au regard d'au moins l'un des critères prévus au II du même article L. 165-2.
 
 III.-Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

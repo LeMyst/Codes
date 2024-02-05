@@ -15,3 +15,6 @@ IV.-Par dérogation au III, les comptes annuels des organisations candidates don
 V.-Les documents mentionnés au II et au III sont publiés dans des conditions de nature à garantir leur authenticité et leur libre consultation gratuite.
 
 VI.-Le montant des subventions, des produits de toute nature liés à l'activité courante, des produits financiers ainsi que des cotisations est pris en compte pour le calcul des ressources. Sont toutefois déduites de ce dernier montant les cotisations reversées en vertu de conventions ou des statuts.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-1164 du 24 septembre 2020, par dérogation au I de l'article R. 612-17 du code de la sécurité sociale, les organisations candidates mentionnées à l'article L. 612-6 du même code doivent, pour la prochaine mesure de leur audience, joindre à leur candidature l'audit ou la certification de leurs comptes relatifs à l'exercice 2019.

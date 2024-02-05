@@ -17,3 +17,10 @@ En cas d'absence d'enfants pouvant prétendre à l'attribution du capital décè
 En cas d'absence de conjoint non divorcé ni séparé de corps ou de partenaire d'un pacte civil de solidarité non dissous, le capital décès est attribué en totalité aux enfants attributaires et réparti entre eux et par parts égales.
 
 En cas d'absence de conjoint ou de partenaire d'un pacte civil de solidarité et d'absence d'enfants pouvant prétendre à l'attribution du capital décès, ce dernier est versé à celui ou à ceux des ascendants du " de cujus " qui étaient à sa charge, au moment du décès.
+
+NOTA:
+Conformément au décret n° 2009-1425 du 20 novembre 2009, article 2, le présent décret s'applique à la détermination des droits au versement d'un capital décès à raison de tout décès postérieur à son entrée en vigueur.
+
+Toutefois, le partenaire d'un pacte civil de solidarité non dissous et conclu plus de deux ans avant le décès du fonctionnaire a droit, si ce décès est survenu au cours des quatre années précédant la publication du présent décret, au versement d'un montant équivalent à celui auquel lui donnerait droit l'application des règles prévues par le présent décret.
+
+L'alinéa précédent est sans préjudice des droits acquis par les autres catégories d'ayants droit en vertu des textes applicables à la date du décès.

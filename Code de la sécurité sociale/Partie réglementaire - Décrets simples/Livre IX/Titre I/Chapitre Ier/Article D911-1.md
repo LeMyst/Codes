@@ -11,3 +11,6 @@ En sus des prises en charge mentionnées à l'article R. 871-2, la couverture mi
 -200 euros par équipement mentionné au c, au e et au f.
 
 2° La prise en charge à hauteur d'au moins 125 % des tarifs servant de base au calcul des prestations d'assurance maladie des frais de soins dentaires prothétiques et de soins d'orthopédie dento-faciale pour les actes autres que ceux mentionnés au 5° de l'article R. 871-2.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2019-65 du 31 janvier 2019, ces dispositions s'appliquent aux contrats souscrits ou renouvelés à compter du 1er janvier 2020 dans les conditions prévues à l'article 5 du décret n° 2019-21.

@@ -11,3 +11,6 @@ Le temps d'invalidité permanente est pris en compte au titre des trimestres val
 Le service de la pension d'invalidité est supprimé ou suspendu en cas de reprise d'une activité professionnelle.
 
 La pension d'invalidité permanente est également attribuée, à partir de leur cinquante-cinquième anniversaire, aux avocats, anciens déportés ou internés, titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique, dont la pension militaire d'invalidité a été accordée pour un taux d'invalidité globale d'au moins 60 %, à la condition qu'ils cessent toute activité professionnelle. La pension d'invalidité attribuée en application du présent alinéa peut être cumulée sans limitation de montant avec la pension militaire d'invalidité.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

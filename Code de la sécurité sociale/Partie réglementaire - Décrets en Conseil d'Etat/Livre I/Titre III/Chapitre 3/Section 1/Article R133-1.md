@@ -5,3 +5,6 @@ Outre les mentions prévues au I de l'article L. 133-1, le document prévu au m�
 Le document mentionné au premier alinéa est établi et signé par l'agent chargé du contrôle qui a constaté les infractions ou a exploité les informations transmises aux organismes de recouvrement mentionnés aux articles L. 213-1 et L. 752-1 du présent code ou à l'article L. 723-3 du code rural et de la pêche maritime en application des dispositions de l'article L. 8271-6-4 du code du travail.
 
 Il est notifié à la personne contrôlée par tout moyen permettant de rapporter la preuve de sa date de réception.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2017-1409 du 25 septembre 2017, les dispositions du présent article sont applicables aux contrôles n'ayant pas fait l'objet d'un procès-verbal de travail dissimulé à la date de publication dudit décret.

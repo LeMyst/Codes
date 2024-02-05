@@ -17,3 +17,6 @@ La limitation de la durée du contrôle prévue au premier alinéa du présent I
 5° Le report, à la demande de la personne contrôlée, d'une visite de l'agent chargé du contrôle.
 
 II.-Le présent article n'est pas applicable lorsque la personne contrôlée appartient à un ensemble de personnes entre lesquelles il existe un lien de dépendance ou de contrôle, au sens des articles L. 233-1 et L. 233-3 du code de commerce, et que l'effectif de cet ensemble est égal ou supérieur à celui mentionné au premier alinéa du I du présent article.
+
+NOTA:
+Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

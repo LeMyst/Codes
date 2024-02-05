@@ -7,3 +7,6 @@ Dans ce cas, les pièces justificatives mentionnées à l'article R. 351-22 sont
 Lorsque le demandeur relève du service de l'allocation de solidarité aux personnes âgées conformément aux dispositions du deuxième alinéa de l'article L. 815-7 et de l'article R. 815-15, ce service communique le dossier à la caisse de mutualité sociale agricole chargée de la gestion du risque vieillesse dans le ressort de laquelle réside le demandeur. La demande est alors instruite par la caisse conformément aux dispositions des articles L. 351-7 et R. 351-21. La caisse renvoie, avec un avis motivé, le dossier au service de l'allocation de solidarité aux personnes âgées.
 
 L'organisme ou service liquidateur notifie sa décision à l'intéressé. En cas de rejet, la notification est faite par lettre recommandée.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2019-1084 du 24 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

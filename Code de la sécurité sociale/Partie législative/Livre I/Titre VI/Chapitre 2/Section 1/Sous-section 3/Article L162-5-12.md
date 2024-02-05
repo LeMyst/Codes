@@ -17,3 +17,6 @@ Pour les professions dont il gère le dispositif de formation continue conventio
 -de l'indemnisation des professionnels de santé libéraux conventionnés participant aux actions de formation conventionnelle.
 
 Les modalités d'application du présent article, notamment les statuts de l'organisme gestionnaire conventionnel et les règles d'affectation des ressources aux sections, sont fixées par décret.
+
+NOTA:
+Loi n° 2009-879 du 21 juillet 2009 article 59 XXIV : Le présent article entre en vigueur à la date d'effet de la convention prévue au XXI (Date de fin de vigueur indéterminée).

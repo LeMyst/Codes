@@ -9,3 +9,6 @@ Pour les organismes de la mutualité sociale agricole, la liste d'aptitude est �
 Pour les organismes de sécurité sociale autres que ceux relevant de la mutualité sociale agricole, la liste d'aptitude est établie par le ministre chargé de la sécurité sociale sur proposition d'une commission nationale placée auprès de lui.
 
 Ces deux commissions sont présidées par un membre du Conseil d'Etat, un magistrat de la Cour des comptes ou un membre de l'inspection générale des affaires sociales, en activité ou honoraire, et comprennent, outre des représentants du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture, à parité, des représentants des organismes nationaux de sécurité sociale et des représentants des agents de direction et agents comptables.
+
+NOTA:
+Décret n° 2013-624 du 15 juillet 2013, article 5 IV : Le 5° de l'article 2 entre en vigueur à compter de l'ouverture de la procédure d'inscription sur la liste d'aptitude établie au titre de l'année 2015 (1er avril 2014).

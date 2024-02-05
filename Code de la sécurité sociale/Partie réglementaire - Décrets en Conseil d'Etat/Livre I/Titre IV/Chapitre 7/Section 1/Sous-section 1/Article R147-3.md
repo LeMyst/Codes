@@ -2,8 +2,7 @@
 
 I.-La commission mentionnée à l'article L. 114-17-2 constituée au sein de l'organisme local d'assurance maladie compétent pour prononcer la pénalité est composée de cinq membres issus du conseil de cet organisme et désignés par lui en tenant compte de la répartition des sièges entre les différentes catégories représentées en son sein.
 
-Le conseil de l'organisme local nomme cinq représentants de chaque profession de santé, des fournisseurs et autres prestataires de service, des centres de santé, des laboratoires de biologie médicale, sur proposition de l'instance paritaire prévue par la convention nationale mentionnée aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9,
-L. 162-14, L. 322-5, L. 322-5-2, L. 162-16-1, L. 162-32-1 et L. 165-6 au niveau départemental, ou à défaut au niveau régional :
+Le conseil de l'organisme local nomme cinq représentants de chaque profession de santé, des fournisseurs et autres prestataires de service, des centres de santé, des laboratoires de biologie médicale, sur proposition de l'instance paritaire prévue par la convention nationale mentionnée aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 322-5, L. 322-5-2, L. 162-16-1, L. 162-32-1 et L. 165-6 au niveau départemental, ou à défaut au niveau régional :
 
 En l'absence d'instance paritaire conventionnelle, les représentants des professions de santé, des laboratoires de biologie médicale, des centres de santé, des fournisseurs et des autres prestataires de services sont proposés par les organisations syndicales représentatives. Les sièges de représentants sont attribués aux organisations syndicales en fonction de leurs effectifs établis par la dernière enquête de représentativité mentionnée à l'article L. 162-33. A défaut de proposition dans le mois qui suit la demande adressée aux organisations syndicales représentatives par le conseil de l'organisme, le préfet arrête les noms de ces représentants.
 

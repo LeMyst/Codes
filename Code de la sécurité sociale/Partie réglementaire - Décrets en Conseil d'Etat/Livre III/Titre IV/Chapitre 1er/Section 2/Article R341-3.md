@@ -11,3 +11,6 @@ La caisse primaire notifie sa décision à l'assuré par tout moyen donnant date
 Pour l'application des alinéas ci-dessus, la capacité de gain est appréciée dans les conditions fixées par les articles L. 341-1 et L. 341-3.
 
 Les décisions prises par la caisse primaire d'assurance maladie en application des alinéas ci-dessus peuvent être contestées selon les modalités prévues pour les matières mentionnées aux 4°, 5° et 6° de l'article L. 142-1.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-257 du 23 février 2022, ces dispositions s'appliquent aux arrérages de pension dus à compter du 1er avril 2022.

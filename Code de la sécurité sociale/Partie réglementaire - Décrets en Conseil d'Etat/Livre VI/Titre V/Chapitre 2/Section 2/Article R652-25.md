@@ -5,3 +5,6 @@ Le rôle des cotisations est établi par le conseil d'administration de la Caiss
 Les titres exécutoires sont signifiés par acte d'huissier de justice ou notifiés par lettre recommandée avec demande d'avis de réception. A peine de nullité, l'acte d'huissier ou la lettre recommandée mentionne la référence du titre exécutoire, son montant, les délais et voies de recours ainsi que la juridiction compétente.
 
 Dans un délai de quinze jours à compter de la signification du titre exécutoire, le débiteur peut former opposition devant le tribunal judiciaire. Le juge territorialement compétent est celui du lieu du siège de la Caisse nationale des barreaux français. L'opposition est motivée.
+
+NOTA:
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

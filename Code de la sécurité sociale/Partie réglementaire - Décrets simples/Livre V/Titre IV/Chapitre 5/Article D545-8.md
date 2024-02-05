@@ -15,3 +15,6 @@ Le versement de l'allocation est effectué dans un délai de quinze jours à com
 6° Pour les décès intervenus au cours de la grossesse dans les conditions mentionnées à l'article D. 545-2, le document constatant la passation du premier examen prénatal mentionné au deuxième alinéa de l'article D. 532-1 ;
 
 7° Dans les situations mentionnées à l'article D. 545-6, la décision d'opter pour le bénéfice de l'allocation. ;
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

@@ -11,3 +11,12 @@ Un décret en Conseil d'Etat définit les catégories de personnes incluses dans
 II.-Le franchissement à la hausse d'un seuil d'effectif salarié est pris en compte lorsque ce seuil a été atteint ou dépassé pendant cinq années civiles consécutives.
 
 Le franchissement à la baisse d'un seuil d'effectif sur une année civile a pour effet de faire à nouveau courir la règle énoncée au premier alinéa du présent II.
+
+NOTA:
+Conformément au XIII de l’article 11 de la loi n° 2019-486 du 22 mai 2019, le II de l'article L. 130-1 ne s'applique pas :
+
+1° Lorsque l'effectif de l'entreprise est, au 1er janvier 2020, supérieur ou égal à un seuil et que cette entreprise était soumise, au titre de l'année 2019, aux dispositions applicables dans le cas d'un effectif supérieur ou égal à ce seuil ;
+
+2° Lorsque l'entreprise est bénéficiaire, au 1er janvier 2020, des dispositions prévues au XII de l’article 11 de la loi n° 2019-486.
+
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

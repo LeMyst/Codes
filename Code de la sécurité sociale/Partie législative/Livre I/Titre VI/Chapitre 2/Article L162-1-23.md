@@ -59,3 +59,6 @@ Le montant de cette pénalité ne peut être supérieur à 30 % du chiffre d'aff
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Son produit est affecté à la Caisse nationale de l'assurance maladie. Les articles L. 137-3 et L. 137-4 sont applicables au recouvrement de la pénalité. Le recours présenté contre la décision prononçant cette pénalité est un recours de pleine juridiction.
 
 IX.-Les modalités d'application du présent article, notamment les modalités d'appréciation des conditions de prise en charge mentionnées au II, les règles de fixation du montant de la compensation financière mentionnée au III et les modalités de versement de celle-ci, sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

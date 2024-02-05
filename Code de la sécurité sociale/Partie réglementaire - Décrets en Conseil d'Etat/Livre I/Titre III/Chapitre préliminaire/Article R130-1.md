@@ -19,3 +19,6 @@ IV. – (Abrogé).
 V. – Lorsque survient une modification de la situation juridique de l'employeur au sens de l'article L. 1224-1 du code du travail, y compris lorsqu'une telle modification entraîne une création d'entreprise, l'effectif à prendre en compte pour l'année au cours de laquelle les contrats sont transférés correspond à l'effectif présent le dernier jour du mois au cours duquel a été réalisé le transfert des contrats de travail.
 
 VI. – Pour l'application de la tarification au titre du risque " accidents du travail et maladies professionnelles ", l'effectif de l'entreprise est calculé selon les dispositions prévues aux I à IV, en retenant, d'une part, les salariés et agents qui relèvent du régime général et, d'autre part, les salariés et agents qui relèvent du régime des salariés agricoles, pour la couverture de ce risque.
+
+NOTA:
+Conformément au I de l'article 12 du décret n° 2017-858 du 9 mai 2017, les dispositions du présent article entrent en vigueur le 1er janvier 2018.

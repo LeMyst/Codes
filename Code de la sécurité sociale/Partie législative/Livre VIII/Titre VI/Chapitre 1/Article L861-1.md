@@ -15,3 +15,6 @@ Les personnes mineures ayant atteint l'âge de seize ans, dont les liens avec la
 Les étudiants bénéficiaires de certaines prestations mentionnées à l'article L. 821-1 du code de l'éducation, déterminées par arrêté des ministres chargés de l'enseignement supérieur et de la sécurité sociale, peuvent bénéficier, à titre personnel, de la protection complémentaire, dans les conditions définies à l'article L. 861-3 du présent code.
 
 Un décret en Conseil d'Etat fixe les conditions de bénéfice à titre personnel de la protection complémentaire des personnes dont les conditions de rattachement au foyer ont pris fin entre la dernière déclaration fiscale et la demande mentionnée à l'article L. 861-5.
+
+NOTA:
+Conformément aux dispositions du 4° du IX de l'article 52 de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions s'appliquent à compter du 1er novembre 2019 dans le respect des modalités prévues audit 4°.

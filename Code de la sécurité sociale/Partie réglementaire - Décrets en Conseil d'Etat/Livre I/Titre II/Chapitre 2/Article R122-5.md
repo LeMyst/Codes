@@ -5,3 +5,6 @@ Les mises en demeure ou observations faites, soit par le ministre chargé du con
 Les dispositions du présent article sont applicables à tous organismes, à l'exception de ceux ayant le caractère d'établissement public, des organismes d'assurance vieillesse des professions libérales.
 
 Les dispositions du présent article ne sont pas applicables aux organismes dont les agents de direction et les directeurs comptables et financiers sont nommés par une autorité de tutelle dans les conditions fixées par les textes législatifs et réglementaires.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

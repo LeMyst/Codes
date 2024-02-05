@@ -15,3 +15,6 @@ L'Union nationale des caisses d'assurance maladie a pour rôle, dans le respect 
 6° (Abrogé) ;
 
 7° D'établir le référentiel mentionné à l'article L. 114-10-3.
+
+NOTA:
+Conformément à l’article 3 de la loi n° 2022-355 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

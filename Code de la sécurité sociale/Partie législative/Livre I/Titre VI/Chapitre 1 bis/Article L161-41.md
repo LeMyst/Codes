@@ -11,3 +11,6 @@ La composition, les règles de fonctionnement et les critères d'évaluation de 
 La Haute Autorité peut créer d'autres commissions spécialisées. Elle en fixe alors la composition et les règles de fonctionnement. Leurs attributions peuvent être exercées par le collège.
 
 Sur décision du président de la Haute Autorité, deux commissions spécialisées réunies sous sa présidence peuvent rendre conjointement toute délibération relative à l'évaluation des produits de santé, dans des conditions définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2024.

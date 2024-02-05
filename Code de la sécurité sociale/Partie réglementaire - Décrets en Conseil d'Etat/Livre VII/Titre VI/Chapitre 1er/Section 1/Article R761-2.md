@@ -11,3 +11,6 @@ Lorsque sont remplies les conditions requises pour que le travailleur bénéfici
 L'employeur qui souhaite bénéficier d'une dérogation individuelle aux règles du détachement telles que prévues par les règlements et accords internationaux en vue de maintenir le travailleur dans les régimes français de sécurité sociale, en fait la demande auprès de l'organisme compétent. Sauf circonstances exceptionnelles, cette demande est faite dans les trois mois précédant la fin de la mission initiale ou le début de la mission justifiant cette demande. Elle est instruite en tenant compte notamment de l'intérêt de la personne pour laquelle cette dérogation est demandée.
 
 Un arrêté du ministre chargé de la sécurité sociale précise les organismes compétents chargés de la gestion de ces demandes.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-434 du 25 mars 2022, le cinquième alinéa du présent article entre en vigueur le 1er juillet 2022.

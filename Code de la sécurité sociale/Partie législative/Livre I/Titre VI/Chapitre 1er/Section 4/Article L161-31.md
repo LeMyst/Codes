@@ -15,3 +15,8 @@ III.-L'utilisation de ce moyen d'identification électronique permet d'exprimer 
 IV.-Sur le premier décompte de l'année civile envoyé à l'assuré figure le montant des dépenses engagées par celui-ci au cours de l'année civile précédente.
 
 V.-Le pharmacien qui délivre à un assuré social porteur du moyen d'identification électronique interrégimes ou à un de ses ayants droit une spécialité pharmaceutique remboursable par les régimes de l'assurance maladie lui communique, pour information, la charge que la spécialité représente pour ces régimes. Un décret précise les conditions de cette obligation de communication.
+
+NOTA:
+Conformément à l'article 6 de l'ordonnance n° 2021-581 du 12 mai 2021 :
+
+Lorsqu'un bénéficiaire de l'assurance maladie dispose d'une carte électronique individuelle interrégimes délivrée selon les dispositions de l'article L. 161-31 applicables avant l'entrée en vigueur de la loi du 13 août 2004 susvisée, la deuxième phrase du I de l'article L. 161-31 du code de la sécurité sociale, telle qu'elle résulte du a du 2° de l'article 2 de la présente ordonnance, entre en vigueur en ce qui concerne cette personne lors de la délivrance d'un nouveau moyen d'identification électronique.

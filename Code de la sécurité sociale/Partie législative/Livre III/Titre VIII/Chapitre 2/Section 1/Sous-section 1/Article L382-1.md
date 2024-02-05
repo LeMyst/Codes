@@ -11,3 +11,6 @@ Bénéficient du présent régime :
 Les dispositions prévues aux trois précédents alinéas s'entendent sans préjudice des dispositions de l'article L. 311-2 du présent code.
 
 L'affiliation est prononcée par les organismes agréés mentionnés à l'article L. 382-2, s'il y a lieu après consultation, à leur initiative ou à celle de l'intéressé, de commissions, instituées par branches professionnelles. Ces commissions comprennent des représentants des organisations syndicales et professionnelles des artistes. En application de l'article L. 321-2 du code de la propriété intellectuelle, elles peuvent également comprendre des représentants des organismes de gestion collective. Le nombre des représentants des organisations syndicales et professionnelles des artistes et, le cas échéant, des organismes de gestion collective doit être supérieur à la moitié du nombre des membres de ces commissions.
+
+NOTA:
+Conformément au IV de l'article 23 de la loi n° 2017-1836 du 30 décembre 2017, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter d'une date fixée par décret, et au plus tard à compter du 1er janvier 2019.

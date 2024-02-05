@@ -11,3 +11,8 @@ Pour la mise en œuvre des missions mentionnées aux deuxième et troisième ali
 Par dérogation à l'article L. 553-2, en cas de modification par le particulier employeur de la déclaration mentionnée à l'article L. 133-5-8 induisant une baisse ou une annulation du montant de cotisations et contributions sociales dues au titre de la rémunération de la personne qui assure la garde de l'enfant, le montant mentionné au a du I de l'article L. 531-5 indûment versé est restitué, pour le compte de l'employeur, par l'organisme mentionné à l'article L. 133-5-10 à la caisse d'allocations familiales ou à la caisse de mutualité sociale agricole.
 
 La récupération des sommes indûment versées au titre du complément de libre choix du mode de garde prévu à l'article L. 531-5 s'effectue, le cas échéant, sur les montants de cotisations et de contributions sociales dus par l'organisme mentionné à l'article L. 133-5-10 à l'allocataire, préalablement à l'engagement de la procédure de recouvrement d'indu de prestations familiales prévue à l'article L. 553-2. A ce titre, la caisse mentionnée à l'avant-dernier alinéa du présent article dont relève l'allocataire est subrogée dans les droits de ce dernier. La subrogation est signifiée par la caisse à l'allocataire.
+
+NOTA:
+Conformément à l'article 36 IV de la loi n° 2017-1836 du 30 décembre 2017, ces dispositions s'appliquent aux rémunérations dues au titre des périodes de garde courant à compter du 1er janvier 2019.
+
+Conformément aux dispositions du III de l'article 42 de la loi n° 2016-1827 du 23 décembre 2016, ces dispositions s'appliquent aux rémunérations dues au titre des périodes courant à compter du 1er janvier 2019.

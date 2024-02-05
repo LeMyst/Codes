@@ -7,3 +7,6 @@ Peut faire l'objet des sanctions prévues par la présente section, en applicati
 2° Pratique des dépassements d'honoraires excédant le tact et la mesure. Le respect du tact et de la mesure s'apprécie notamment, dans le cadre du présent article, au regard de la prise en compte dans la fixation des honoraires de la complexité de l'acte réalisé et du temps consacré, du service rendu au patient, de la notoriété du praticien, du pourcentage d'actes avec dépassement ou du montant moyen de dépassement pratiqués, pour une activité comparable, par les professionnels de santé exerçant dans le même département ou dans la même région administrative ;
 
 3° Pratique des dépassements d'honoraires non conformes à la convention dont relève ce professionnel, au I de l'article L. 162-5-13, au dernier alinéa de l'article L. 162-9 ou aux deuxième et troisième alinéas de l'article L. 165-6.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2020-1215 du 2 octobre 2020, ces dispositions s'appliquent aux plaintes enregistrées plus de trois mois après la publication du présent décret.

@@ -5,3 +5,6 @@ L'assuré dont l'âge est au moins égal à celui prévu par le 1° de l'article
 La majoration est applicable aux trimestres d'assurance postérieurs au 31 décembre 1972.
 
 Le nombre total des trimestres d'assurance obtenus en application des deux alinéas précédents est éventuellement arrondi au chiffre immédiatement supérieur sans pouvoir excéder la durée d'assurance prévue au troisième alinéa de l'article L. 351-1.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

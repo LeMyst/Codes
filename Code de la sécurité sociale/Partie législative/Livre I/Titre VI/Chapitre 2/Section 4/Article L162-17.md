@@ -7,3 +7,6 @@ Les médicaments inscrits sur la liste prévue au 1° de l'article L. 5126-6 du 
 L'inscription d'un médicament sur les listes mentionnées aux premier et deuxième alinéas peut, au vu des exigences de qualité et de sécurité des soins mettant en oeuvre ce médicament, énoncées le cas échéant par la commission prévue à l'article L. 5123-3 du code de la santé publique, être assortie de conditions concernant la qualification ou la compétence des prescripteurs, l'environnement technique ou l'organisation de ces soins et d'un dispositif de suivi des patients traités. L'inscription peut également être assortie de conditions particulières de prescription, de dispensation ou d'utilisation, notamment de durées de prise en charge, ou de délivrance lorsque ce médicament est prescrit sur une ordonnance de dispensation conditionnelle mentionnée à l'article L. 5121-12-1 du même code.
 
 En ce qui concerne les médicaments officinaux et les préparations magistrales, un décret en Conseil d'Etat détermine les règles selon lesquelles certaines catégories de ces médicaments peuvent être exclues du remboursement par arrêté interministériel.
+
+NOTA:
+L'article L. 601 auquel il est fait référence dans le premier alinéa a été abrogé par l'ordonnance n° 2000-548 et repris sous les articles L. 5121-8, L. 5121-9, L. 5121-10 et L. 5121-20 de la nouvelle partie législative de la santé publique.

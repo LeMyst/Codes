@@ -21,3 +21,6 @@ La Caisse nationale d'assurance vieillesse des professions libérales a pour rô
 Le conseil d'administration de la caisse nationale exerce, au titre des attributions énoncées aux 1° à 7°, un pouvoir de contrôle sur les sections professionnelles. Il est saisi pour avis, dans le cadre de ses compétences, de tout projet de mesure législative ou réglementaire ayant des incidences sur l'équilibre financier du régime d'assurance vieillesse de base, des régimes de retraite complémentaire et des régimes d'assurance invalidité-décès des professions libérales et du dispositif de prestations maladie en espèces prévu à l'article L. 622-2, dans les conditions prévues à l'article L. 200-3.
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+NOTA:
+Conformément au I de l'article 69 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er juillet 2021.

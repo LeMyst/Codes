@@ -11,3 +11,6 @@ Ce taux est fixé à 10 % pour :
 2° Les versements des entreprises mentionnées au 1° de l'article L. 3332-11 du même code.
 
 Le taux de la contribution mentionnée à l'article L. 137-15 du présent code est fixé à 16 % pour les versements par l'employeur des sommes mentionnées aux 2° et 3° de l'article L. 224-2 du code monétaire et financier, lorsque le plan d'épargne retraite d'entreprise prévoit que l'allocation de l'épargne mentionnée au dernier alinéa de l'article L. 224-3 du même code est affectée, selon des modalités fixées par décret, à l'acquisition de parts de fonds comportant au moins 10 % de titres susceptibles d'être employés dans un plan d'épargne en actions destiné au financement des petites et moyennes entreprises et des entreprises de taille intermédiaire, dans les conditions prévues à l'article L. 221-32-2 dudit code.
+
+NOTA:
+Conformément au IV de l’article 16 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

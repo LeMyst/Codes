@@ -17,3 +17,6 @@ III.-En cas de nouvelle constatation de travail dissimulé dans les cinq ans sui
 2° 60 %, lorsque la majoration de redressement prononcée lors de la constatation de la première infraction était de 40 %.
 
 IV.- Les modalités d'application du présent article, en particulier la manière dont est assuré le respect du principe du contradictoire, sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

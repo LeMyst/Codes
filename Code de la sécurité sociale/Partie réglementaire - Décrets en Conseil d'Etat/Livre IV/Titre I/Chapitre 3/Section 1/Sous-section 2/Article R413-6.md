@@ -5,3 +5,6 @@ La victime ou l'ayant droit de la victime d'un accident ou d'une maladie qui rev
 Il produit, à l'appui de sa demande, toutes pièces justificatives, expéditions de jugements et arrêts et, d'une façon générale, tous renseignements de nature à apporter la preuve qui lui incombe en vertu de la loi.
 
 Le président du tribunal judiciaire peut prescrire toutes enquêtes, vérifications, examens médicaux et expertises qu'il estime utiles. Il peut entendre le requérant. Il statue après avoir entendu le représentant de l'Etat employeur ou, dans les autres cas, soit celui de l'organisme mentionné à l'article L. 221-1 soit celui d'un autre organisme qui aurait été désigné par voie de convention en application des dispositions du II de l'article 46 de la loi n° 2017-1836 de financement de la sécurité sociale pour 2018.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

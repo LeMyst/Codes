@@ -9,3 +9,6 @@ En cas de non-exécution de la mise en demeure, l'organisme peut prononcer à l'
 Lorsque la gravité ou la répétition des faits est constatée, une suspension du conventionnement, pour une durée maximale de deux ans, peut également être prononcée. La mesure prononcée par l'organisme d'assurance maladie est exécutoire à compter de sa notification à la personne ayant facturé le produit ou la prestation. La mesure prononcée par l'organisme d'assurance maladie est motivée et peut faire l'objet d'un recours de pleine juridiction devant le tribunal administratif.
 
 Les modalités d'application du présent article, notamment les règles et délais de procédures, ainsi que les modes de calcul de la pénalité financière, sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.

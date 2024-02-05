@@ -9,3 +9,6 @@ Pour les actes et prestations dispensés par les professionnels de santé et pou
 3° Les échanges d'informations entre les organismes servant les prestations du régime de base de l'assurance maladie et les organismes d'assurance maladie complémentaire s'effectuent par voie électronique et sont conformes aux spécifications techniques définies par le cahier des charges de la norme ouverte d'échange entre la maladie et les intervenants extérieurs, établi par les caisses nationales d'assurance maladie après concertation avec les organismes d'assurance maladie complémentaire ;
 
 Le service rendu par l'organisme d'assurance maladie est facturé à l'organisme d'assurance maladie complémentaire dans des conditions fixées par arrêté.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1662 du 27 décembre 2022, ces dispositions s'appliquent aux actes payés par les organismes d'assurance maladie obligatoire à compter du 1er janvier 2023.

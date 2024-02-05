@@ -5,3 +5,6 @@ I.-Lorsqu'un cotisant a appliqué la législation relative aux cotisations et co
 II.-Le présent article s'applique aux organismes mentionnés aux articles L. 922-1 et L. 922-4 en tant que l'interprétation admise par les instructions et circulaires mentionnées au I du présent article porte sur la législation relative à la détermination de l'assiette prévue à l'article L. 242-1, au calcul du plafond prévu à l'article L. 241-3 ou à la réduction dégressive de cotisations sociales mentionnée à l'article L. 241-13, sur les articles L. 241-10 et L. 752-3-2 ou sur tout point de droit dont l'application est susceptible d'avoir une incidence sur le calcul du plafond ou les allègements portant sur les cotisations à la charge de l'employeur dues au titre des régimes de retraite complémentaire légalement obligatoires mentionnés à l'article L. 921-4.
 
 III.-A compter du 1er janvier 2019, un site internet présente l'ensemble des instructions et circulaires relatives à la législation applicable en matière d'allègements et de réductions de cotisations et contributions sociales mises à disposition des cotisants.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

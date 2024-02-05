@@ -9,3 +9,8 @@ La vérification de l'identité physique du bénéficiaire est réalisée au moy
 Une convention conclue entre la Caisse nationale de l'assurance maladie, la Caisse centrale de la mutualité sociale agricole, le ministère de l'intérieur et l'Agence nationale des titres sécurisés, définit, pour l'ensemble des organismes d'assurance maladie, les conditions d'utilisation du service mentionné à l'alinéa précédent aux fins de vérification d'identité.
 
 III.-Les assurés peuvent solliciter l'accompagnement de leur organisme d'assurance maladie pour l'installation de l'application de l'application carte Vitale.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Conformément au II du même article 4, les dispositions du deuxième alinéa du II du présent article entrent en vigueur à une date fixée par arrêté des ministres chargés de la sécurité sociale et de l'agriculture et au plus tard le 31 décembre 2024. Se reporter aux modalités d'application prévues au même article.

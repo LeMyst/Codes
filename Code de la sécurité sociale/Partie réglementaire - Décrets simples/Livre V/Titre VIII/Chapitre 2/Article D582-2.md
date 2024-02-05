@@ -13,3 +13,6 @@ A défaut de paiement volontaire, le montant de cette pénalité est recouvré p
 La procédure de recouvrement de la pension alimentaire et de la pénalité est engagée à l'issue du délai de huit jours prévu au quatrième alinéa lorsque la mise en demeure de payer la pénalité ou la demande de transmission des informations nécessaires à la mise en œuvre de l'intermédiation financière sont restées sans effet.
 
 Les sommes versées au titre de la pénalité constituent une recette de gestion administrative des organismes débiteurs de prestations familiales.
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2020-1202 du 30 septembre 2020, ces dispositions s'appliquent à compter du 1er octobre 2020.

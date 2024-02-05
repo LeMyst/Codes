@@ -21,3 +21,6 @@ a) Le directeur de la sécurité sociale, le directeur général de la santé, l
 b) Les directeurs de la Caisse nationale de l'assurance maladie et de la caisse centrale de la Mutualité sociale agricole, ou leurs représentants, qu'ils désignent.
 
 II.-La commission peut également entendre toute personne qualifiée ou tout expert dont elle juge l'audition utile.
+
+NOTA:
+Conformément à l'article 2 III du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission de la transparence suivant la publication dudit décret.

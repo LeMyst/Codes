@@ -19,3 +19,8 @@ Les revenus pris en compte sont ceux définis au II de l'article R. 821-4, sous 
 III.-Les ressources déterminées conformément au II sont prises en compte pour déterminer le droit à l'allocation servie au titre de chaque période successive de trois mois civils faisant suite au dépôt de la demande d'allocation, sous réserve de l'application des articles mentionnés au III de l'article R. 821-4 et du quatrième alinéa du II de l'article R. 821-4-5.
 
 Lorsqu'un allocataire dont les ressources sont appréciées conformément à l'article R. 821-4 débute ou reprend une activité professionnelle, le premier trimestre de référence retenu pour l'application du présent article est celui au cours duquel l'allocataire a débuté ou repris cette activité.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1694 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

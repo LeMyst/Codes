@@ -21,3 +21,6 @@ IV.-Lorsque la déclaration de l'assuré intervient dans le délai fixé au prem
 V.-Pour apprécier la situation de l'assuré au regard de la règle de réduction de la pension prévue au troisième alinéa de l'article L. 161-22, sont pris en compte les revenus définis à l'article D. 161-2-10 et les pensions mentionnées à l'article D. 161-2-11 afférents à la période correspondant à la dernière échéance de la pension concernée par cette règle. Lorsqu'une ou plusieurs pensions à prendre en compte ont une échéance différente de celle de la pension faisant l'objet de la règle précitée, le montant à retenir est déterminé sur la base de l'échéance correspondant à cette dernière pension.
 
 L'assuré est tenu de signaler tout changement de ses revenus d'activité. Le nouveau montant de la pension prend effet dans ce cas au premier jour du mois ou du trimestre au cours duquel ces revenus ont changé.
+
+NOTA:
+Conformément aux dispositions de l'article 3 du décret n° 2017-416 du 27 mars 2017, ces dispositions entrent en vigueur le 1er avril 2017 et s'appliquent aux activités exercées à compter de cette date.

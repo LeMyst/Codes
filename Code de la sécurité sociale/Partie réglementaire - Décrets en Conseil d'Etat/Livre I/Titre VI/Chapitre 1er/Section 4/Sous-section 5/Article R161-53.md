@@ -25,3 +25,8 @@ II.-Sont inscrites de façon visible sur la carte les informations mentionnées 
 III.-Les données mentionnées aux 1° à 3° du I sont issues du répertoire sectoriel de référence des personnes physiques mentionné à l'article L. 1470-4 du code de la santé publique.
 
 Les données mentionnées au 3° du I sont fournies par la Caisse nationale de l'assurance maladie.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

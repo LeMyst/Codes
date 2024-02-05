@@ -27,3 +27,6 @@ II.-Les unions sont constituées et fonctionnent conformément aux prescriptions
 Un décret détermine les modalités d'organisation administrative et financière de ces unions.
 
 Une union de recouvrement peut déléguer à une autre union ses compétences en matière de recouvrement, de contrôle et de contentieux dans des conditions fixées par décret.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

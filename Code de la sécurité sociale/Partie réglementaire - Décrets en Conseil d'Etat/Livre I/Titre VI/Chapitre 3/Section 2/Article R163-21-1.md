@@ -11,3 +11,6 @@ I. – La commission prévue à l'article R. 163-15 identifie un comparateur cli
 4° A l'occasion de l'avis, mentionné à l'article R. 163-18, portant sur la spécialité bénéficiant d'une prise en charge dans les conditions prévues aux articles L. 162-16-5-1 ou L. 162-16-5-2.
 
 II. – (Abrogé)
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

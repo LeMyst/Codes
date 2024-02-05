@@ -1,3 +1,8 @@
 # Article L131-9
 
 Des taux particuliers de cotisations d'assurance maladie, maternité, invalidité et décès à la charge des assurés sont applicables aux personnes qui ne remplissent pas les conditions de résidence définies à l'article L. 136-1 et qui bénéficient à titre obligatoire de la prise en charge de leurs frais de santé en application de l'article L. 160-1. Ces taux particuliers sont également applicables aux personnes bénéficiant de la prise en charge de leurs frais de santé en application de l'article L. 160-1 exonérés en tout ou partie d'impôts directs en application d'une convention ou d'un accord international, au titre de leurs revenus d'activité définis aux articles L. 131-6 et L. 242-1 et des sommes entrant dans le champ des assiettes de cotisations définies aux articles L. 131-2, L. 131-6 et L. 242-1 et qui ne sont pas assujetties à la contribution mentionnée à l'article L. 136-1. Ils sont également applicables aux redevances mentionnées aux IV et V de l'article L. 136-6 versées aux personnes qui ne remplissent pas la condition de résidence fiscale fixée au I du même article (1).
+
+NOTA:
+(1) Dans sa décision n° 2012-659 DC du 13 décembre 2012, article 3, le Conseil constitutionnel a déclaré contraire à la Constitution la deuxième phrase du second alinéa de l'article L. 131-9 du code de la sécurité sociale.
+
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

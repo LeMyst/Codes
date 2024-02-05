@@ -27,3 +27,6 @@ Les comptes annuels des organismes nationaux, les comptes combinés mentionnés 
 IV.-Des tableaux de centralisation des données comptables, établis par branche ou régime, sont transmis à la mission comptable permanente instituée au II de l'article D. 114-4-3, qui les communique à la Commission des comptes de la sécurité sociale prévue à l'article D. 114-1 et aux autres destinataires habilités à cet effet.
 
 V.-Les documents mentionnés aux II, III et IV sont transmis sous la forme et dans les conditions fixées par arrêté.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

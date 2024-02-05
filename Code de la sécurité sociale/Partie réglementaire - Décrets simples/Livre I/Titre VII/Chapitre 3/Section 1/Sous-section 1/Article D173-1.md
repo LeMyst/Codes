@@ -9,3 +9,6 @@ Les dispositions ci-dessous relatives à la coordination entre le régime géné
 3°) aux assurés qui ont cessé d'être soumis à un régime spécial de retraites sans avoir droit à une pension d'invalidité ou de vieillesse à jouissance immédiate ou différée et qui ne sont devenus ultérieurement tributaires ni d'un autre régime spécial ni du régime général de sécurité sociale.
 
 Toutefois, elles ne sont pas applicables aux ressortissants des régimes spéciaux de retraites des ouvriers des établissements industriels de l'Etat, des fonctionnaires civils et militaires, de l'Imprimerie Nationale et du service d'exploitation industrielle des tabacs et allumettes et aux titulaires de la caisse nationale de retraite des agents des collectivités locales.
+
+NOTA:
+décret 89-110 du 20 février 1989 portant réforme du régime d'assurance vieillesse applicable à Saint-Pierre-et-Miquelon, art. 20 : dans le présent article, la référence au régime général est remplacée par la référence au régime local.

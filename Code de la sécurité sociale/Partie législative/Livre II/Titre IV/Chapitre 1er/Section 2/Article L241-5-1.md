@@ -7,3 +7,6 @@ Les mêmes dispositions s'appliquent lorsque l'entreprise utilisatrice est une c
 Dans le cas où le salarié intérimaire engage une action en responsabilité fondée sur la faute inexcusable de l'employeur, sans qu'il y ait eu mise en cause de l'entreprise utilisatrice, l'entreprise de travail temporaire est tenue d'appeler en la cause l'entreprise utilisatrice pour qu'il soit statué dans la même instance sur la demande du salarié intérimaire et sur la garantie des conséquences financières d'une reconnaissance éventuelle de faute inexcusable.
 
 Un décret en Conseil d'Etat détermine les cas et les modalités d'application du présent article et notamment la part du coût de l'accident du travail ou de la maladie professionnelle mise à la charge de l'entreprise utilisatrice ainsi que les documents que l'entreprise de travail temporaire et l'entreprise utilisatrice doivent s'adresser, sur leur demande.
+
+NOTA:
+Loi 90-613 du 12 juillet 1990 art. 43 : les dispositions de la présente loi s'appliquent aux contrats conclus après son entrée en vigueur.

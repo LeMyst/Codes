@@ -5,3 +5,6 @@ Les agents contractuels de droit public et les personnes mentionnées à l'artic
 Les articles L. 243-4 et L. 243-5 s'appliquent aux cotisations versées à l'institution mentionnée au premier alinéa du présent article. Le premier alinéa de l'article L. 355-2 s'applique aux prestations servies par cette institution.
 
 L'institution mentionnée au premier alinéa du présent article est soumise au contrôle de l'inspection générale des affaires sociales.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

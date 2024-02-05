@@ -5,3 +5,6 @@ La sanction est prononcée selon la procédure prévue à l'article R. 147-2, ap
 La notification prévue au premier alinéa du I de l'article R. 147-2 précise les sanctions envisagées par le directeur de l'organisme local d'assurance maladie dont, le cas échéant, l'affichage ou la publication de la sanction éventuelle selon des modalités qu'il indique. L'avis motivé de la commission mentionnée à l'article R. 147-3 porte, dans ce cas, également sur ce point.
 
 Pour les manquements mentionnés aux 2° et 3° de l'article R. 147-13, cette notification indique le nombre et le montant des dépassements reprochés.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2020-1215 du 2 octobre 2020, ces dispositions s'appliquent aux plaintes enregistrées plus de trois mois après la publication du présent décret.

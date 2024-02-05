@@ -5,3 +5,6 @@ Sans perdre les droits aux prestations correspondantes, la date limite de paieme
 Le bénéfice de ces dispositions ne peut être obtenu plus d'une fois par période de cinq ans, au titre d'une création ou reprise d'entreprise.
 
 Le présent article n'est pas applicable à raison d'une modification des conditions dans lesquelles une entreprise exerce son activité.
+
+NOTA:
+Loi 2003-721 du 1er août 2003 art. 36 IV : les dispositions du présent article sont applicables aux entreprises créées ou reprises à compter du 1er janvier 2004.

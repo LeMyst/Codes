@@ -7,3 +7,6 @@ Lorsqu'il procède à cette convocation, le commissaire aux comptes fixe l'ordre
 En cas de pluralité de commissaires aux comptes, il agissent d'accord entre eux. S'ils sont en désaccord sur l'opportunité de convoquer la commission paritaire ou l'assemblée, l'un d'eux peut demander au président du tribunal judiciaire, statuant en référé, l'autorisation de procéder à cette convocation, les autres commissaires et, selon les cas, le secrétaire de la commission paritaire ou le président et le vice-président du conseil d'administration dûment appelés. L'ordonnance du président, qui fixe l'ordre du jour, n'est susceptible d'aucune voie de recours.
 
 Dans tous les cas, les frais entraînés par la réunion de la commission paritaire ou de l'assemblée sont à la charge de l'institution de prévoyance ou de l'union d'institutions de prévoyance.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -9,3 +9,6 @@ Nul ne peut être inscrit ou réinscrit comme expert sous la rubrique “ expert
 Ces avis sont sollicités, selon la liste demandée par l'intéressé, par le procureur de la République près le tribunal judiciaire dans le ressort duquel le candidat exerce son activité professionnelle ou possède sa résidence ou bien par le procureur général près la Cour de cassation. Ceux-ci transmettent à la Haute Autorité de santé et au président de la commission de hiérarchisation compétente la demande d'inscription ou de réinscription reçue en application des articles 6,10 ou 17 du décret du 23 décembre 2004 précité.
 
 Chaque exemplaire des avis est transmis sous pli fermé avec la mention “ confidentiel ” apposée sur l'enveloppe.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

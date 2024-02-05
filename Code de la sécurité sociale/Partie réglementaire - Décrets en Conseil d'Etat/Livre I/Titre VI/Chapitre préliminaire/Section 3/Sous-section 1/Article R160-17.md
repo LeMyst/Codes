@@ -55,3 +55,6 @@ Saisie d'une demande de l'assuré, de la victime, de son médecin ou de son repr
 L'exonération est fixée pour la durée du traitement, si nécessaire au-delà de la majorité de la victime, et peut être prolongée dans les conditions prévues à l'alinéa précédent.
 
 Lorsqu'un assuré change d'organisme gestionnaire au cours de la période d'exonération, ce changement est sans incidence sur la durée pendant laquelle il bénéficie de cette exonération.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-258 du 23 février 2022, ces dispositions entrent en vigueur le 1er janvier 2022.

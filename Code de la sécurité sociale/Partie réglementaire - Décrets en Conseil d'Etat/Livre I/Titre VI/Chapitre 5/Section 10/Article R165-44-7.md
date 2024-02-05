@@ -15,3 +15,6 @@ Dans un délai d'un mois à compter de cette notification, l'entreprise s'acquit
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables au recouvrement de cette pénalité.
 
 L'organisme de recouvrement compétent en application des dispositions de l'article L. 162-17-2-1 informe le Comité économique des produits de santé des montants perçus.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

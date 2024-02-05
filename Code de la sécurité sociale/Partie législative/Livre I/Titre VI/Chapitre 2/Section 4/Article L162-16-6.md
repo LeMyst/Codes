@@ -33,3 +33,6 @@ En cas d'échec du traitement pour un patient, notamment en cas de décès, ou e
 L'entreprise titulaire des droits d'exploitation, l'entreprise assurant l'importation parallèle ou l'entreprise assurant la distribution parallèle du médicament assure à sa charge le recueil des données. Les prescripteurs lui transmettent à cette fin les données de suivi des patients traités, selon des modalités assurant le respect du secret médical.
 
 Lorsque le montant du coût du traitement mentionné au A du présent V est supérieur au montant correspondant au nombre d'unités de médicaments multiplié par leur tarif de responsabilité, la prise en charge du médicament par l'assurance maladie s'effectue, d'une part, par le remboursement de l'établissement de santé sur la base du tarif de responsabilité pour chaque unité de médicament selon les modalités prévues au B et, d'autre part, le cas échéant, par un ou plusieurs versements à l'entreprise assurant l'exploitation, l'importation parallèle ou la distribution parallèle du médicament selon les modalités prévues au présent C.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

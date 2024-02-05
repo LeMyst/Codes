@@ -7,3 +7,6 @@ Cette nouvelle fixation est effectuée selon la procédure prévue aux articles 
 Si une partie ne se présente pas, bien que régulièrement appelée, l'exécution provisoire peut être ordonnée d'office nonobstant opposition.
 
 La réduction ou la suppression des avantages précédemment attribués ne prend effet qu'au premier jour du trimestre suivant celui au cours duquel est signifiée l'ordonnance du président du tribunal judiciaire prononçant cette nouvelle fixation.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

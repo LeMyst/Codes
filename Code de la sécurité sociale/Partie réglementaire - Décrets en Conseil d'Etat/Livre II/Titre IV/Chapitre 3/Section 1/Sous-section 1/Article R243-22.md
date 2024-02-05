@@ -7,3 +7,6 @@ Le cotisant dont l'entreprise fait l'objet d'un examen par la commission départ
 2° Cette remise peut porter sur la totalité des majorations et pénalités mentionnées au 1° de l'article R. 243-19.
 
 Lorsque le plan d'apurement n'est pas respecté, les majorations et pénalités sont calculées selon les modalités prévues à l'article R. 243-16.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

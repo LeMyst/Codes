@@ -5,3 +5,12 @@ En ce qui concerne le service des prestations prévues à l'article D. 712-12 ai
 La décision de la caisse primaire accordant ou maintenant le bénéfice des prestations en espèces de l'assurance maladie est immédiatement notifiée à l'administration dont relève le fonctionnaire, à laquelle elle s'impose.
 
 La notification précise, le cas échéant, le point de départ du délai de trois ans d'indemnisation prévu au 1° de l'article L. 323-1 et à l'article R. 323-1.
+
+NOTA:
+Code de la sécurité sociale D712-8 : dispositions applicables aux magistrats de l'ordre judiciaire.
+
+Code de la sécurité sociale D712-44 : dispositions applicables aux stagiaires.
+
+Code de la sécurité sociale D712-50 : dispositions applicables aux fonctionnaires civils dans les TOM.
+
+Code de la sécurité sociale D712-8 : champ d'application.

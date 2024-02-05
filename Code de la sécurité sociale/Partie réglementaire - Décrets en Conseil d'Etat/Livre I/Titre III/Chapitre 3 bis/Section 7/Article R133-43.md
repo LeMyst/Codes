@@ -17,3 +17,6 @@ Ces formalités sont réalisées au plus tard dans le mois qui suit la réceptio
 III. − Lorsque le tiers déclarant méconnaît les obligations qui découlent de sa mission, l'employeur ou le travailleur indépendant accomplit lui-même les déclarations et formalités sociales prévues par le présent code ou le code rural et de la pêche maritime.
 
 L'employeur ou le travailleur indépendant ayant recours à un tiers déclarant demeure responsable du paiement des pénalités et majorations prévues par le présent code ou le code rural et de la pêche maritime en cas de défaut de production d'une déclaration obligatoire, d'inexactitude des montants déclarés ou d'omission de salariés ou assimilés dans la déclaration.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2023-90 du 11 février 2023, ces dispositions sont applicables aux déclarations transmises à compter de l'année 2023 au titre des revenus de l'année 2022 et des années suivantes, sous réserve du II dudit article 3.

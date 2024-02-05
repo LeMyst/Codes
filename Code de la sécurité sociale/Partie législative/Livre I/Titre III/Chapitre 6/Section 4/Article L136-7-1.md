@@ -13,3 +13,6 @@ III.-Il est institué une contribution sur le produit brut de certains jeux réa
 Cette contribution est, d'une part, de 11,2 % sur une fraction égale à 68 % du produit brut des jeux automatiques des casinos et, d'autre part, de 13,7 % prélevés sur tous les gains d'un montant supérieur ou égal à 1 500 euros, réglés aux joueurs par des bons de paiement manuels définis à l'article 69-20 de l'arrêté du 23 décembre 1959 portant réglementation des jeux dans les casinos.
 
 Cette contribution est recouvrée et contrôlée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement prévu à l'article 50 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990).
+
+NOTA:
+Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article L. 136-7-1, dans sa rédaction résultant du A du II du présent article, entre en vigueur le 1er janvier 2020.

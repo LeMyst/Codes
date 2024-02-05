@@ -21,3 +21,6 @@ b) Le régime général ou le régime des salariés agricoles, dans les conditio
 Lorsque l'incapacité permanente est reconnue par le régime des non-salariés agricoles, le régime compétent pour liquider la pension est le régime des salariés agricoles ou, si l'assuré n'a jamais relevé de ce régime au cours de sa carrière, le régime général ;
 
 c) Le régime des salariés agricoles, lorsque l'assuré a été ou est affilié à ce régime, s'il justifie d'une durée d'assurance ouvrant droit à une pension de retraite au régime des non-salariés agricoles au sens des articles L. 732-24 , L. 732-34 , L. 732-35 et L. 781-32 du code rural et de la pêche maritime, et qu'il a relevé au cours de sa carrière d'au moins un des autres régimes mentionnés à l'article L. 173-1-2.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

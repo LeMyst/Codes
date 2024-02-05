@@ -17,3 +17,6 @@ L'avis émis par la commission d'évaluation économique et de la santé publiqu
 L'avis est communiqué à l'entreprise qui exploite le produit concerné. L'entreprise peut, dans les dix jours suivant la réception de cet avis, demander à être entendue par la commission ou présenter des observations écrites. La commission peut modifier son avis compte tenu des observations présentées.
 
 L'avis définitif est communiqué à l'entreprise avec copie au comité économique des produits de santé. Il est rendu public sans délai. Lorsque, avant l'émission de l'avis définitif de la commission, l'entreprise procède au retrait de la demande au titre de laquelle est requise l'évaluation médico-économique, la commission, sauf impossibilité, achève néanmoins son évaluation et rend public son avis.
+
+NOTA:
+Conformément à l'article 2 I du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission d'évaluation économique et de santé publique suivant la publication dudit décret.

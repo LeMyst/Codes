@@ -15,3 +15,6 @@ La Caisse nationale d'assurance vieillesse gère la branche mentionnée au 3° d
 5° De proposer, par l'intermédiaire de son conseil d'administration, toute mesure, notamment dans le cadre de l'élaboration du projet de loi de financement de la sécurité sociale, qui lui paraît nécessaire pour garantir dans la durée l'équilibre financier de l'assurance vieillesse du régime général.
 
 Les propositions et les avis qu'elle émet sont rendus publics.
+
+NOTA:
+Conformément aux dispositions du VI de l'article 78 de la loi n° 2018-1203 du 22 décembre 2018, les dispositions de l'article L. 222-1 telles qu'elles résultent dudit article entrent en vigueur le 1er janvier 2019.

@@ -17,3 +17,6 @@ IV. ― L'inscription sur la liste est prononcée pour une durée déterminée, 
 IV bis. ― (Abrogé)
 
 V. ― Les conditions d'application du présent article, notamment les modalités de détermination des catégories homogènes de produits de santé concernées, les modalités d'inscription de ces produits sur la liste mentionnée au I, les modalités d'évaluation et les délais de procédure, sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

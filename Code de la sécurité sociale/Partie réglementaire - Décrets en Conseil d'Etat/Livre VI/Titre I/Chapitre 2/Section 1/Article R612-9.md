@@ -21,3 +21,6 @@ III.-Le médiateur national définit l'organisation générale du traitement des
 Il formule, dans le rapport prévu au dernier alinéa de l'article L. 612-3, les propositions qui lui paraissent de nature à améliorer le fonctionnement du service rendu aux travailleurs indépendants.
 
 IV.-Les médiateurs régionaux exercent leur activité à titre bénévole. Ils perçoivent une indemnité forfaitaire représentative de frais dont le montant est fixé par arrêté du ministre chargé de la sécurité sociale.
+
+NOTA:
+Décret n° 2016-941 du 8 juillet 2016, article 37 III : Ces dispositions s'appliquent aux mises en demeure notifiées à compter du 1er janvier 2017.

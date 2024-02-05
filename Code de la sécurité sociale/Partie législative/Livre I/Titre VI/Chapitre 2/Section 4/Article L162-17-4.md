@@ -35,3 +35,6 @@ La pénalité, prononcée au titre d'un retrait de visa de publicité ou de la n
 Le recours présenté contre la décision prononçant cette pénalité est un recours de pleine juridiction.
 
 Les modalités d'application du présent article, et notamment les conditions de révision et de résiliation des conventions, sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au A du IV de l'article 78 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2021.

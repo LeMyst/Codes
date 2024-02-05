@@ -37,3 +37,6 @@ Pour les sommes qui sont versées selon une périodicité supérieure au mois, l
 1° Au terme du premier mois de la période, pour les prestations ou revenus versés à terme à échoir ;
 
 2° Au terme du dernier mois de la période, pour les prestations ou revenus versés à terme échu.
+
+NOTA:
+Conformément au IV de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, le II de l'article R. 242-1 du code de la sécurité sociale dans sa rédaction issue dudit décret s'applique aux sommes versées à compter du 1er janvier 2025.

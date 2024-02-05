@@ -41,3 +41,6 @@ Cet avis est rendu dans un délai de soixante jours à compter de la délivrance
 Il est communiqué simultanément aux ministres chargés de la santé et de la sécurité sociale et à l'exploitant.
 
 IV.-La prise en charge du produit et de la prestation, dans une indication donnée, au titre de l'article L. 165-1-5 est également subordonnée à l'information orale et écrite de chaque patient par le prescripteur sur le caractère précoce et dérogatoire de cette prise en charge, et sur les modalités selon lesquelles cette prise en charge peut, le cas échéant, être interrompue ou suspendue. Le prescripteur veille à la bonne compréhension de ces informations par le patient. Un arrêté des ministres en charge de la santé et de la sécurité sociale précise les mentions figurant sur l'ordonnance portant prescription du produit et de la prestation considérés.
+
+NOTA:
+Se reporter aux conditions d’application à l’article 2 du décret 2023-232 du 30 mars 2023.

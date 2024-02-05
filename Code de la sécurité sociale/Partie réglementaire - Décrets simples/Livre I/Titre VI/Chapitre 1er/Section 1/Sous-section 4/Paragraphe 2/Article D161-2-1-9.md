@@ -29,3 +29,6 @@ L'âge prévu au second alinéa de l'article L. 161-17-2 est fixé à :
 13° Soixante-trois ans et neuf mois pour les assurés nés en 1967 ;
 
 14° Soixante-quatre ans pour les assurés nés à compter du 1er janvier 1968.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

@@ -7,3 +7,6 @@ II.-Le taux de cette contribution est fixé à 50 %.
 III. (Abrogé)
 
 IV.-Les dispositions du présent article ne sont pas applicables aux contributions des employeurs mentionnées à l'article L. 5123-5 du code du travail, ni aux allocations et contributions des employeurs mentionnées aux articles L. 5122-4 et L. 5123-6 du même code.
+
+NOTA:
+Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

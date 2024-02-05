@@ -9,3 +9,8 @@ Les cotisations et contributions sociales mentionnées au premier alinéa du pr�
 2° Pour les cotisations sociales mentionnées aux articles L. 644-1 et L. 644-2, à la section professionnelle mentionnée au premier alinéa du présent article.
 
 Une convention conclue entre les organismes mentionnés aux 1° et 2° du présent article et ceux mentionnés aux articles L. 213-1, L. 225-1 et L. 752-4 et approuvée par le ministre chargé de la sécurité sociale définit les modalités d'affectation de ces cotisations et contributions.
+
+NOTA:
+Conformément au III de l’article 12 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux conditions d'application prévues aux C, D, E et F de l'article 12 de la loi n° 2021-1754 du 23 décembre 2021.

@@ -11,3 +11,6 @@ En cas de dépassement de la limite déterminée en application des alinéas pr�
 La pension ainsi réduite est majorée aux mêmes dates et selon les mêmes taux que les pensions de vieillesse du régime général.
 
 Les opérations de comparaison prévues aux deux premiers alinéas du présent article ne sont effectuées qu'au moment de la liquidation du deuxième avantage.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

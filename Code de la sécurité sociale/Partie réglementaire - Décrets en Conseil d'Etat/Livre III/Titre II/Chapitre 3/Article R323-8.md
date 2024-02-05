@@ -19,3 +19,6 @@ II.-Dans les cas mentionnés au I, les modalités de calcul de l'indemnité jour
 1° Lorsque l'assuré a perçu des revenus d'activité à une ou plusieurs reprises au cours de la période de référence, les revenus antérieurs servant de base au calcul de l'indemnité journalière mentionnés à l'article R. 323-4 sont déterminés en divisant les salaires soumis à cotisation perçus au cours de la période de référence par la ou les périodes de jours calendaires travaillés auxquels ils correspondent ;
 
 2° Lorsque l'assuré n'a perçu aucun revenu d'activité pendant la période de référence, les revenus antérieurs servant de base au calcul de l'indemnité journalière mentionnés à l'article R. 323-4 sont déterminés en divisant les salaires soumis à cotisation perçus au cours des jours calendaires travaillés depuis la fin de période de référence par la période de jours calendaires travaillés auxquels ils correspondent.
+
+NOTA:
+Conformément au I de l'article 5 du décret n° 2021-428 du 12 avril 2021, ces dispositions entrent en vigueur pour les arrêts de travail prescrits à compter du 1er octobre 2022.

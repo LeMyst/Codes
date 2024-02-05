@@ -19,3 +19,6 @@ a) La date de la notification de sa décision relative à l'indemnisation mentio
 b) L'identité des personnes mentionnées à l'article L. 169-1 du présent code pour lesquelles aucune procédure d'indemnisation n'est en cours auprès du fonds institué par l'article L. 422-1 du code des assurances à l'issue d'une période de trois ans à compter de la survenance de l'acte de terrorisme ;
 
 2° Le ministre de la défense notifie à la Caisse nationale de l'assurance maladie , au titre du rôle de coordination mentionné à l'article L. 169-11, la date de notification de la décision relative à la concession d'une pension d'invalidité mentionnée à l'article L. 113-13 du code des pensions militaires d'invalidité et des victimes de guerre.
+
+NOTA:
+Conformément au VIII de l’article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour du dix-huitième mois suivant la publication de la présente loi.

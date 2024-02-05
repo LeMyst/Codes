@@ -31,3 +31,6 @@ La composition du comité d'action sanitaire et sociale de la sécurité sociale
 14°) le président de l'union nationale des bureaux d'aide sociale ou son représentant ;
 
 15°) six personnalités connues pour leur compétence en matière d'action sanitaire et sociale dont au moins deux médecins, désignées par le ministre chargé de la sécurité sociale.
+
+NOTA:
+Décret n° 86-762 du 6 juin 1986 art. 1er : abroge implicitement le présent article en abrogeant l'article R. 261-2.

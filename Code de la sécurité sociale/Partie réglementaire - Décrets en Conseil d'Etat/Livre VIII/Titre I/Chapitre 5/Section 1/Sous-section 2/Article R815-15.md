@@ -9,3 +9,6 @@ Les dispositions du deuxième alinéa de l'article L. 815-7 sont applicables :
 3° Aux veuves de guerre titulaires d'une pension servie au titre du premier alinéa de l'article L. 51 du code des pensions militaires d'invalidité et des victimes de la guerre, dès lors qu'elles ne relèvent ni d'une organisation autonome d'allocation vieillesse, ni d'un régime de vieillesse de sécurité sociale.
 
 Le demandeur appartenant aux catégories mentionnées ci-dessus dépose sa demande d'allocation de solidarité aux personnes âgées auprès de la mairie de son lieu de résidence. Il produit une déclaration sur l'honneur, conforme au modèle mis à sa disposition par la Caisse centrale de la mutualité sociale agricole dans les mairies.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2019-1084 du 24 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

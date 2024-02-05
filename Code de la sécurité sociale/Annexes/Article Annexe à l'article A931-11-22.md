@@ -9,10 +9,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 |  |  |
 | --- | --- |
 | RISQUES ET ENGAGEMENTSavec double compte | OPÉRATIONS DIRECTES EN FRANCE |
-| Collectives
-à adhésion obligatoire | Collectives
-à adhésion
-facultative | Individuelles | Total |
+| Collectivesà adhésion obligatoire | Collectivesà adhésionfacultative | Individuelles | Total |
 | Frais de santé : |  |  |  |  |
 | - nombre de cotisants au 31 décembre (1) |  |  |  |  |
 | - nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
@@ -86,8 +83,7 @@ Les montants sont arrondis au millier d'euros le plus proche et exprimés en mil
 | - rente d'éducation ou d'orphelin |  |  |  |  |  |  |  |  |
 | Autres risques et engagements |  |  |  |  |  |  |  |  |
 | Montant total |  |  |  |  |  |  |  |  |
-| (1) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C 10.
-(2) Prestations au sens de la ligne "4. Charges nettes de recours" du même tableau C. |
+| (1) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C 10.(2) Prestations au sens de la ligne "4. Charges nettes de recours" du même tableau C. |
 
 Etat E 3. - Frais de santé et indemnités journalières versés au cours de l'exercice
 
@@ -99,7 +95,7 @@ Tableau A : données techniques relatives au risque "santé" issues des système
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-|   | DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :Prestations versées du risque santé | OPERATIONS DIRECTESen France | TOTAL |
+|  | DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :Prestations versées du risque santé | OPERATIONS DIRECTESen France | TOTAL |
 | Individuelles | Collectives |
 | 01 | Champ couvert - en pourcentage des prestations versées nettes de recours (1) |  |  |  |
 | 02 | Ensemble des Hôpitaux (Secteur Public et Secteur Privé) (2) |  |  |  |
@@ -127,23 +123,13 @@ Tableau A : données techniques relatives au risque "santé" issues des système
 | 24 | EHPA et EHPAD des Secteurs Public et Privé (10) |  |  |  |
 | 25 | Autres prestations liées à la santé (11) |  |  |  |
 | 26 | Total des prestations versées ( L22 + L23 ) |  |  |  |
-| (1) importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (ligne 10-12 de l'état E4-C42d)
-(2) Les frais d'hospitalisation incluent le forfait journalier hospitalier, le ticket modérateur des journées et des actes, les honoraires et prescriptions en activité libérale.
-(3) Ligne à renseigner dans la mesure où ces versements pour hébergement des soins de longue durée (SLD), chambres particulières, lits accompagnant... font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
-(4) Honoraires médicaux y compris sage-femmes et frais de déplacement
-(5) Actes d'auxiliaires médicaux y compris frais de déplacement
-(6) Analyses médicales
-(7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
-(8) VSL =Véhicule sanitaire léger
-(9) VHP : véhicule pour handicapé physique
-(10) EHPA = Etablissements pour Personnes âgées et EHPAD = Etablissements pour Personnes âgées Dépendantes. Ligne à renseigner si les versements correspondants relatifs à l'hébergement ou à la prise en charge de la dépendance font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.
-(11) Prestations liées à la santé non comptabilisées dans les rubriques précédentes (par exemple forfait naissance, allocations funéraires,...) |
+| (1) importance des opérations prises en compte dans ce tableau en pourcentage des sinistres payés nets de recours (ligne 10-12 de l'état E4-C42d)(2) Les frais d'hospitalisation incluent le forfait journalier hospitalier, le ticket modérateur des journées et des actes, les honoraires et prescriptions en activité libérale.(3) Ligne à renseigner dans la mesure où ces versements pour hébergement des soins de longue durée (SLD), chambres particulières, lits accompagnant... font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé. (4) Honoraires médicaux y compris sage-femmes et frais de déplacement(5) Actes d'auxiliaires médicaux y compris frais de déplacement(6) Analyses médicales(7) Ligne à renseigner dans la mesure où les versements pour hébergement en cures thermales font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.(8) VSL =Véhicule sanitaire léger(9) VHP : véhicule pour handicapé physique(10) EHPA = Etablissements pour Personnes âgées et EHPAD = Etablissements pour Personnes âgées Dépendantes. Ligne à renseigner si les versements correspondants relatifs à l'hébergement ou à la prise en charge de la dépendance font partie des prestations de santé de l'organisme complémentaire. Ces versements sont en effet exclus du champ des comptes de la santé.(11) Prestations liées à la santé non comptabilisées dans les rubriques précédentes (par exemple forfait naissance, allocations funéraires,...) |
 
 Tableau B : données techniques relatives au risques "incapacité de travail" issues des systèmes de gestion
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-|   | DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :Prestations versées du risque incapacité de travail | OPERATIONS DIRECTESen France | TOTAL |
+|  | DONNEES TECHNIQUES ISSUES DES SYSTEMES DE GESTION :Prestations versées du risque incapacité de travail | OPERATIONS DIRECTESen France | TOTAL |
 | Individuelles | Collectives |  |
 | 31 | Indemnités journalières maladie |  |  |  |
 | 32 | Indemnités journalières maternité |  |  |  |
@@ -172,11 +158,11 @@ Les montants sont arrondis au millier d'euros le plus proche et exprimés en mil
 
 |  |  |  |
 | --- | --- | --- |
-|   | CODE DU PLAN COMPTABLE(\*) | MONTANT(en milliers d'euros) |
+|  | CODE DU PLAN COMPTABLE(\*) | MONTANT(en milliers d'euros) |
 | Gestion d'un Régime obligatoire de base |  |  |
 | Produits de gestion d'un régime obligatoire d'assurance maladie | 7450 |  |
 | Charges de gestion d'un régime obligatoire d'assurance maladie | 6450 |  |
-| CMU |   |  |
+| CMU |  |  |
 | Participation légale reçue et à recevoir au titre de la CMU | 7021 |  |
 | Participation légale reçue et à recevoir au titre de l'ACS | (\*) |  |
 | Prestations santé versées et à verser aux bénéficiaires de la CMU | 6021 |  |

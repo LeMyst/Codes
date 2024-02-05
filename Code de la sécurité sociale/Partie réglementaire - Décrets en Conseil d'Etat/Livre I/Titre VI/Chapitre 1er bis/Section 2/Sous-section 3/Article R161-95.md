@@ -13,3 +13,6 @@ Toutefois, l'agent comptable doit refuser de déférer à l'ordre de réquisitio
 3° Le manque de fonds disponibles.
 
 Dans les cas de refus de la réquisition, l'agent comptable rend immédiatement compte au ministre chargé du budget.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

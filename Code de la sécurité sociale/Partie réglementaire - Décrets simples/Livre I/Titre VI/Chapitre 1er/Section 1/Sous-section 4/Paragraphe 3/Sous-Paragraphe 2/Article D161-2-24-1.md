@@ -13,3 +13,6 @@ Ces quotités sont exprimées en pourcentage arrondi à l'unité la plus proche.
 La quotité mentionnée au 2°, calculée le 1er juillet de chaque année, correspond au rapport entre la diminution des revenus professionnels de l'année précédente et la moyenne annuelle des revenus professionnels des cinq années précédant la demande de retraite progressive, actualisés en fonction des coefficients de revalorisation visés à l'article L. 161-25. Les revenus pris en compte sont ceux retenus pour constituer l'assiette de l'impôt sur le revenu.
 
 II.-L'assuré visé au 3° de l'article L. 161-22-1-5 doit justifier des conditions prévues aux articles D. 732-167 et suivants du code rural et de la pêche maritime.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

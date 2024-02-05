@@ -23,3 +23,6 @@ Les taux de ces remises sont définis selon un barème progressif, par tranche d
 Les remises conventionnelles dues, le cas échéant, en application de l'article L. 162-18, sur la même partie de chiffre d'affaires sont déductibles du résultat du calcul découlant de l'application du barème mentionné au deuxième alinéa du présent B.
 
 Pour l'application des deux premiers alinéas du présent B, le chiffre d'affaires facturé au titre des indications en association mentionnées au A du présent II est obtenu en multipliant le chiffre d'affaires total facturé par l'entreprise pour la spécialité considérée par la part de son utilisation dans les indications mentionnées au même A.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

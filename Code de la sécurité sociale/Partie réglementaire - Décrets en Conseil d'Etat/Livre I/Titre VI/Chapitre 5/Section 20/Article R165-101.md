@@ -27,3 +27,6 @@ c) La distribution par décile des prix de vente pour le code mentionné au pré
 d) Le volume de vente annuel correspondant au code mentionné au présent a ;
 
 e) Le cas échéant, la part de ce volume de vente annuel que représente chaque dénomination ou référence mentionnée au présent b.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-331 du 26 mars 2021, ces dispositions s'appliquent pour la première fois aux déclarations requises au titre de l'année 2020 , transmises avant le 1er septembre 2021 , par dérogation aux dispositions du II de l'article R. 165-102 du code de la sécurité sociale .

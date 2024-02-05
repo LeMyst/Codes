@@ -35,3 +35,6 @@ b) Pour les dépenses de soins de ville de la région Alsace et de la région Lo
 Si les résultats comptables du fonds de l'assurance maladie constatés à la clôture de l'exercice sont excédentaires, tout ou partie de cet excédent peut être affecté par le conseil d'administration à des actions prévues par les articles L. 162-31-1 du présent code et L. 767 du code de la santé publique, dans le cadre des prévisions de dépenses du fonds de l'assurance maladie de l'exercice suivant.
 
 Cette disposition ne peut avoir pour résultat de déroger aux règles relatives au seuil du fonds de réserve fixé au premier alinéa de l'article D. 325-12.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

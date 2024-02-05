@@ -91,3 +91,6 @@ a) A la branche mentionnée au 1° de l'article L. 200-2, à concurrence de 23,3
 b) A l'Agence centrale des organismes de sécurité sociale au titre de ses missions prévues aux 7° et 7° bis de l'article L. 225-1-1, à concurrence de 5,18 points, le montant correspondant étant minoré de 2,6 milliards d'euros en 2024.
 
 L'Agence centrale des organismes de sécurité sociale est chargée de centraliser et de répartir entre leurs affectataires le produit des taxes et des impôts mentionnés au présent article. La répartition entre les affectataires est effectuée en appliquant les fractions définies au présent article pour leur valeur en vigueur à la date du fait générateur de ces taxes et impôts.
+
+NOTA:
+Conformément au II de l'article 163 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er février 2024.

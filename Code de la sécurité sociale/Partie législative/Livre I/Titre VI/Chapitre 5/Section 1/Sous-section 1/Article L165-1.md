@@ -19,3 +19,6 @@ La procédure et les conditions d'inscription peuvent être adaptées en fonctio
 L'inscription sur la liste mentionnée au premier alinéa d'un produit ou d'une prestation sous forme de nom de marque ou de nom commercial est subordonnée à la transmission de la certification de conformité à la charte mentionnée à l'article L. 162-17-9 ou à un engagement de l'entreprise à se faire certifier dans un délai et dans des conditions fixés par décret, sauf dans le cas où elle déclare sur l'honneur qu'elle ne diligente pas d'activité visée par la charte et la certification.
 
 En cas de manquement par un exploitant à un engagement mentionné à l'avant-dernier alinéa du présent article, les produits et les prestations inscrits par cet exploitant sont radiés de la liste mentionnée au premier alinéa.
+
+NOTA:
+Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2024.

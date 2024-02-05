@@ -9,3 +9,6 @@ Parmi les entreprises définies à l'alinéa précédent, ne bénéficient cepen
 2° Celles qui possèdent au moins 50 % du capital d'une ou plusieurs entreprises dont le chiffre d'affaires défini dans les conditions prévues au premier alinéa, consolidé avec leur propre chiffre d'affaires visé au premier alinéa, dépasse 15 millions d'euros.
 
 Le montant du chiffre d'affaires mentionné au premier alinéa est modulé, selon des modalités fixées par décret en Conseil d'Etat, lorsque la durée du ou des exercices clos depuis la dernière échéance de la contribution est différente de douze mois.
+
+NOTA:
+Se reporter aux conditions d'application prévues au III de l'article 26 de la loi n° 2021-1754 du 23 décembre 2021.

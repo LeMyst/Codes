@@ -21,3 +21,6 @@ III. – La valeur du plafond de la sécurité sociale mentionné à la présent
 Pour les ressortissants du régime d'assurance des marins mentionné au 4° de l'article R. 711-1, l'exonération est applicable aux contributions dues sur le salaire forfaitaire visé à l'article L. 42 du code des pensions de retraite des marins dans la limite du salaire de la 3e catégorie.
 
 IV. – Les dispositions de l'article R. 131-3 sont applicables pour le bénéfice de l'exonération de cotisations prévue à l'article L. 131-6-4.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2017-1894 du 30 décembre 2017, les présentes dispositions sont applicables aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2018.

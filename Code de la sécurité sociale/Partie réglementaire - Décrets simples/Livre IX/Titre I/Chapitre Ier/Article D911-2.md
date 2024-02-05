@@ -19,3 +19,6 @@ d) Régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle,
 e) Régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret n° 46-1541 du 22 juin 1946.
 
 Dans tous les cas, l'employeur doit être en mesure de produire la demande de dispense des salariés concernés.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-623 du 21 juin 2019, ces dispositions s'appliquent à compter du 1er novembre 2019, sous réserve des dispositions précisées audit article 2.

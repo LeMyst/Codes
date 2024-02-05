@@ -5,3 +5,6 @@ Des opérations de contrôle des obligations déclaratives et de paiement des em
 Ce contrôle peut être réalisé soit par les inspecteurs du recouvrement, soit par des contrôleurs du recouvrement répondant aux conditions énumérées à l'article L. 243-7.
 
 Sans préjudice des dispositions de l'article L. 243-12-1, en cas de non-transmission des éléments demandés ou lorsque l'examen des pièces nécessite d'autres investigations, un document est adressé à la personne contrôlée l'informant que le contrôle peut se poursuivre dans les conditions fixées à l'article R. 243-59 à l'exception du I.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

@@ -71,3 +71,6 @@ France, Union européenne (hors France), reste du monde.
 7. Etats d'analyse des activités hors assurances (état G 5)
 
 Si celles-ci contribuent - positivement ou négativement - à plus de 5 % du résultat de l'ensemble formé par les institutions ou unions et les organismes auxquels elles sont apparentées ou subordonnées ou occupent plus de 5 % des effectifs de cet ensemble, les données significatives de ces activités font l'objet d'une ventilation par organisme. Les données qui doivent faire l'objet d'une ventilation sont celles qui sont retenues comme significatives dans les comptes consolidés ou combinés. Notamment, au niveau du chiffre d'affaires : produit net bancaire, commissions de services financières et, au niveau du bilan : dépôts clientèles, crédits consentis.
+
+NOTA:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

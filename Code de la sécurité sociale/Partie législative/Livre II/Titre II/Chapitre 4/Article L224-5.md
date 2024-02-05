@@ -9,3 +9,6 @@ Sous réserve du 8° de l'article L. 225-1-1, elle peut assurer la fonction de c
 Elle peut se voir confier par l'Etat, les caisses nationales du régime général ou l'Agence centrale des organismes de sécurité sociale des missions sur les questions relatives aux conditions de travail du personnel des organismes de sécurité sociale, ou sur tout sujet de fonctionnement des organismes d'intérêt commun, notamment pour les opérations immobilières. Elle peut également passer convention avec les caisses nationales des autres régimes de sécurité sociale pour la réalisation de travaux portant sur des sujets d'intérêt commun, notamment pour les opérations immobilières.
 
 Elle assure la gestion administrative et comptable du fonds mentionné à l'article L. 114-24.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

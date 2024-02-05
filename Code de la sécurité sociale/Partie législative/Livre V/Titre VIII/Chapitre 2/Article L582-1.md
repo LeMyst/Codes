@@ -55,3 +55,6 @@ VIII. - L'organisme compétent auquel incombe la demande de paiement est celui d
 La mission d'intermédiation financière ou de délivrance des titres exécutoires peut être confiée à un autre organisme débiteur des prestations familiales selon les modalités prévues à l'article L. 122-6 du présent code.
 
 IX. - Les organismes débiteurs de prestations familiales peuvent se prévaloir des articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution et du 2° de l'article L. 152 A du livre des procédures fiscales pour l'exercice de la mission qui leur est confiée en vue de l'intermédiation financière.
+
+NOTA:
+Se reporter aux conditions d'application prévues au A du X de l'article 100 de la loi n° 2021-1754 du 23 décembre 2021.

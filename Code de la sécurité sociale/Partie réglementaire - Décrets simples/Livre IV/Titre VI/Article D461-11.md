@@ -7,3 +7,8 @@ Ce même médecin agréé ou le collège peut, s'il l'estime utile, prescrire, e
 Dans le cas prévu à l'alinéa précédent, les prestations auxquelles peut prétendre l'intéressé sont à la charge de la caisse primaire d'assurance maladie ou de l'organisation spéciale de sécurité sociale gestionnaire du risque de l'incapacité temporaire des accidents du travail et des maladies professionnelles.
 
 Des indemnités journalières peuvent également être attribuées à la victime après avis du médecin-conseil pendant une durée maximale de trois jours, dans le cas où les conditions nécessaires à l'établissement du diagnostic de la maladie professionnelle entraînent un arrêt de travail sans hospitalisation.
+
+NOTA:
+Code de la sécurité sociale D412-34 : dispositions applicables aux pupilles de la protection judiciaire de la jeunesse ;
+
+Code de la sécurité sociale D461-5 : dispositions applicables aux maladies professionnelles provoquées par la silice libre (tableau n° 25), l'amiante (tableau n° 30) et l'oxyde de fer (tableau n° 44).

@@ -29,3 +29,6 @@ VIII.-Le taux de la contribution additionnelle prévue au VI du présent article
 IX.-Les contributions prévues aux I et VI sont exclues des charges déductibles pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 X.-Les contributions prévues aux I et VI sont instituées au profit de la Caisse nationale de l'assurance maladie . Elles sont versées de manière provisionnelle le 1er juin de l'année au titre de laquelle elles sont dues, pour un montant correspondant à 95 % du produit du chiffre d'affaires défini pour chacune d'elles et réalisé au cours de l'année civile précédente par leur taux respectif. Une régularisation intervient au 1er mars de l'année suivant celle au titre de laquelle les contributions sont dues.
+
+NOTA:
+Se reporter aux conditions d'application prévues au II de l'article 26 de la loi n° 2021-1754 du 23 décembre 2021.

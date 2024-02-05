@@ -9,3 +9,6 @@ Pour l'application de l'article L. 634-6, la pension peut être servie sans cess
 En cas de reprise ou de poursuite d'activité, le service de la pension est maintenu dès lors que l'assuré remplit les conditions prévues au deuxième ou au troisième alinéa du présent article.
 
 La pension liquidée n'est pas susceptible d'être révisée pour tenir compte du versement de cotisations afférentes à des périodes d'activité relevant du premier alinéa de l'article L. 634-6.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -25,3 +25,6 @@ Les ministres chargés de la santé et de la sécurité sociale arrêtent, en fo
 II.-Le montant annuel de la dotation de chaque établissement de santé est fixé par le directeur général de l'agence régionale de santé en fonction des missions d'intérêt général, des activités de soins dispensés à certaines populations spécifiques et des objectifs et des orientations prévus dans le cadre du contrat pluriannuel d'objectifs et de moyens et de leur état d'avancement ou, à défaut, dans le cadre de l'engagement contractuel spécifique prévu au 1° du I du présent article.
 
 Les modalités de versement et de prise en charge de cette dotation sont fixées à l'article L. 162-23-10.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

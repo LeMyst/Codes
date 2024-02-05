@@ -9,3 +9,6 @@ La mission d'assistance du Parlement confiée à la Cour des comptes par le prem
 3° La production du rapport, mentionné à l'article LO 132-3 du code des juridictions financières, sur l'application des lois de financement de la sécurité sociale ;
 
 4° La production du rapport, mentionné à l'article LO 132-2-1 du même code, de certification de la régularité et de la fidélité des comptes des organismes nationaux du régime général, des comptes de chaque branche et de l'activité de recouvrement du régime général, relatifs au dernier exercice clos, établis dans les conditions prévues au présent livre. Ce rapport présente le compte rendu des vérifications opérées aux fins de certification.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

@@ -19,3 +19,6 @@ L'organisme débiteur des prestations familiales rend compte au parent créancie
 III.-Dans les cas prévus aux I et II, il est fait application des articles R. 581-6 à R. 581-8 du présent code pour les frais de gestion et de recouvrement mis à la charge du parent débiteur, à moins que ce parent opte volontairement pour une saisie de la créance alimentaire sur les prestations mentionnées au 1° du I de l'article L. 553-4 et aux articles L. 821-5 et L. 845-5 et les aides personnelles au logement mentionnées à l'article L. 821-1 du code de la construction et de l'habitation.
 
 IV.-Dans le cas où il est mis fin à l'intermédiation financière, cet organisme demeure subrogé dans les droits du titulaire de la créance jusqu'au recouvrement complet du montant des sommes versées au titre de l'allocation de soutien familial servie à titre d'avance sur créance alimentaire impayée dans les conditions fixées à l'article L. 581-2 du présent code.
+
+NOTA:
+Conformément au V de l'article 5 du décret n° 2020-1201 du 30 septembre 2020, ces dispositions entrent en vigueur à compter du 1er juin 2021.

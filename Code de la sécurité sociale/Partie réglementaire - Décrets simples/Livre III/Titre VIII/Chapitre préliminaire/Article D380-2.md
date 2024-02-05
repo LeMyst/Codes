@@ -13,3 +13,6 @@ PASS correspond au plafond annuel de la sécurité sociale.
 II.-Cette cotisation est due à compter de la date à laquelle la personne remplit les conditions énoncées au premier alinéa de l'article L. 380-3-1 et cesse d'être due à compter du lendemain de la date à laquelle elles ne sont plus remplies. Lorsque la période entre ces deux dates est inférieure à une année, le montant de la cotisation est calculé au prorata de la durée de cette période.
 
 III.-Les caisses primaires d'assurance maladie communiquent aux organismes chargés du recouvrement la liste des personnes redevables de la cotisation prévue à l'article L. 380-3-1.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-349 du 23 avril 2019, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2019.

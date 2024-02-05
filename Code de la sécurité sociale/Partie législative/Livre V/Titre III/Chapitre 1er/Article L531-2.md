@@ -15,3 +15,8 @@ La prime à l'adoption est versée à une date fixée par décret.
 Le plafond de ressources varie selon le nombre d'enfants nés ou à naître. Il est majoré lorsque la charge du ou des enfants est assumée soit par un couple dont chaque membre dispose d'un revenu professionnel minimal, soit par une personne seule.
 
 Le montant du plafond et celui de la majoration sont fixés par décret, par référence au plafond applicable à l'allocation de base versée à taux plein mentionnée à l'article L. 531-3, et revalorisés par arrêté du ministre chargé de la sécurité sociale. Ils varient conformément à l'évolution des prix à la consommation hors tabac.
+
+NOTA:
+Conformément au II de l’article 75 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions s'appliquent aux grossesses ayant débuté à compter du 1er octobre 2020.
+
+Conformément au III du même article, par dérogation aux dispositions de l'article L. 531-2 du code de la sécurité sociale dans sa rédaction antérieure à la présente loi, la prime à la naissance est versée au cours du mois d'avril 2021 pour les grossesses ayant débuté entre le 1er juin 2020 et le 30 septembre 2020.

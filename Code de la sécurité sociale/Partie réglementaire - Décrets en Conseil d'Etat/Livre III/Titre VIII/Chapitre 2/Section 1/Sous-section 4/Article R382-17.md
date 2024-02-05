@@ -6,8 +6,7 @@ La contribution due à l'occasion de la diffusion ou de l'exploitation commercia
 
 Pour la détermination du chiffre d'affaires mentionné à l'alinéa précédent, il est tenu compte de 30 % du prix de vente des oeuvres et, en cas de vente à la commission, du montant de la commission.
 
-Lorsqu'il s'agit d'oeuvres autres que graphiques et plastiques,
-
+Lorsqu'il s'agit d'oeuvres autres que graphiques et plastiques,\
 la contribution est calculée en pourcentage du montant brut des droits d'auteur versés à l'auteur directement ou indirectement.
 
 Pour l'application de l'alinéa précédent, on entend par droit d'auteur la rémunération au sens des articles L. 131-4 et L. 132-6 du code de la propriété intellectuelle afférente à la cession par l'auteur de ses droits sur son oeuvre, et versée soit directement à l'auteur ou à ses ayants droit, soit sous forme de redevance à un tiers habilité à les recevoir.
@@ -15,3 +14,6 @@ Pour l'application de l'alinéa précédent, on entend par droit d'auteur la ré
 Le chiffre d'affaires mentionné au deuxième alinéa ci-dessus est celui de l'année civile précédant la date de la déclaration prévue au deuxième alinéa de l'article R. 382-20.
 
 La rémunération ou les droits d'auteur sont ceux qui sont versés au cours du trimestre civil précédant la date de la déclaration.
+
+NOTA:
+Conformément aux dispositions du 2° du I de l'article 8 du décret n° 2018-1185 du 19 décembre 2018, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

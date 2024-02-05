@@ -11,3 +11,6 @@ Les prestations accordées aux bénéficiaires du présent livre comprennent :
 4°) pour les victimes atteintes d'une incapacité permanente de travail, une indemnité en capital lorsque le taux de l'incapacité est inférieur à un taux déterminé, une rente au-delà et, en cas de mort, les rentes dues aux ayants droit de la victime.
 
 La charge des prestations et indemnités prévues par le présent livre incombe aux caisses d'assurance maladie.
+
+NOTA:
+Conformément au VI de l'article 5 de l'ordonnance n° 2017-1389 du 22 septembre 2017, les présentes dispositions entrent en vigueur à une date fixée par le décret mentionné à l'article L. 432-12 du code de la sécurité sociale dans sa rédaction issue de la présente ordonnance et au plus tard le 1er janvier 2019.

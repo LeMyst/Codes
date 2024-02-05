@@ -25,3 +25,10 @@ Le conseil d'administration se réunit au moins une fois tous les trois mois. Il
 Les délibérations du conseil deviennent exécutoires, en l'absence d'opposition du ministre chargé de la sécurité sociale ou du ministre chargé de la culture, dans un délai d'un mois à compter de leur transmission aux autorités précitées.
 
 Un rapport annuel sur la gestion du recouvrement des cotisations des personnes mentionnées à l'article L. 382-1 est présenté chaque année au conseil d'administration, par des représentants de l'organisme mentionné au premier alinéa de l'article L. 382-5.
+
+NOTA:
+Par décision n° 445648 du 20 octobre 2021 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHR:2021:445648.20211020, l’article 2 du décret n° 2020-1095 du 28 août 2020 relatif à la nature des activités et des revenus des artistes-auteurs et à la composition du conseil d'administration de tout organisme agréé prévu à l'article R. 382-2 du code de la sécurité sociale (NOR : SSAS2012586D) est annulé en tant qu’il prévoit, au premier alinéa de l’article R. 382-8 du code de la sécurité sociale, que siègent avec voix délibérative au sein du conseil d’administration de tout organisme agréé prévu à l’article R. 382-2 " trois représentants des tiers habilités mentionnés au premier alinéa de l’article R. 382-19 " et, au deuxième alinéa du même article, leur désignation par le ministre chargé de la culture, ces dispositions étant divisibles.
+
+Conformément au II de l'article 5 du décret n° 2020-1095 du 28 août 2020, ces dispositions is'appliquent à compter du 1er janvier 2021.
+
+Conformément au III de l'article 5 du décret n° 2020-1095 du 28 août 2020, par dérogation aux dispositions de l'article R. 382-8 du code de sécurité sociale, la durée du mandat des membres du conseil d'administration mentionnés aux deuxième et troisième alinéas du même article désignés à compter de la publication du présent décret et avant le 31 décembre 2021 est de deux ans.

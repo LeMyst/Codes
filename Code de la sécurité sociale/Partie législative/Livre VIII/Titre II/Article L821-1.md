@@ -23,3 +23,8 @@ Pour la liquidation des avantages de vieillesse, les bénéficiaires de l'alloca
 Lorsqu'une personne bénéficiaire de l'allocation aux adultes handicapés se voit allouer une pension de retraite en application de l'article L. 351-7-1 A du présent code ou de l'article L. 732-30 du code rural et de la pêche maritime ou fait valoir son droit à un avantage de vieillesse, d'invalidité ou à une rente d'accident du travail, l'allocation aux adultes handicapés continue de lui être servie jusqu'à ce qu'elle perçoive effectivement l'avantage auquel elle a droit. Pour la récupération des sommes trop perçues à ce titre, les organismes visés à l'article L. 821-7 sont subrogés dans les droits des bénéficiaires vis-à-vis des organismes payeurs des avantages de vieillesse, d'invalidité ou de rentes d'accident du travail.
 
 Lorsque l'allocation aux adultes handicapés est versée en complément de la rémunération garantie visée à l'article L. 243-4 du code de l'action sociale et des familles, le cumul de cet avantage avec la rémunération garantie mentionnée ci-dessus est limité à des montants fixés par décret qui varient notamment selon que le bénéficiaire a une ou plusieurs personnes à charge. Ces montants varient en fonction du salaire minimum de croissance prévu à l'article L. 141-4 du code du travail.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 10 de la loi n° 2022-1158 du 16 août 2022.
+
+Conformément au III de l’article 10 de la loi n° 2022-1158 du 16 août 2022, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er octobre 2023. Conformément au premier alinéa de l'article 2 du décret n° 2022-1694 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er octobre 2023.

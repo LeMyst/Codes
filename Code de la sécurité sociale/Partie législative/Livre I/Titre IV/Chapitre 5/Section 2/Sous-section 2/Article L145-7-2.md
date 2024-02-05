@@ -7,3 +7,6 @@ II. – Les infirmiers et les masseurs-kinésithérapeutes inscrits au tableau d
 III. – Les infirmiers et les masseurs-kinésithérapeutes inscrits au tableau de l'ordre de la Guyane, de la Martinique, de la Guadeloupe, de Saint-Martin et de Saint-Barthélemy sont soumis respectivement à la compétence de la section des assurances sociales de la chambre disciplinaire de première instance de l'ordre des infirmiers et de la section des assurances sociales de la chambre disciplinaire de première instance de l'ordre des masseurs-kinésithérapeutes des Antilles-Guyane.
 
 IV. – Les infirmiers inscrits au tableau de l'ordre de Provence-Alpes-Côte d'Azur et de Corse sont soumis respectivement à la compétence de la section des assurances sociales de la chambre disciplinaire de première instance de l'ordre des infirmiers de Provence-Alpes-Côte d'Azur.
+
+NOTA:
+Conformément au VI de l'article 15 de l'ordonnance n° 2017-644 du 27 avril 2017, les dispositions du présent article entrent en vigueur à compter du prochain renouvellement des instances ordinales suivant la publication de ladite ordonnance.

@@ -11,3 +11,6 @@ Le greffier retranscrit les informations suivantes : date et nature de la saisie
 Si le bien-fondé de la suppression de la mention de la saisie n'est pas contesté, le débiteur se voit remettre ou transmettre un certificat de mainlevée totale ou partielle délivré par l'organisme créancier ou par le percepteur.
 
 A l'expiration d'un délai de 10 ans à compter de sa date, toute mention de saisie non renouvelée est supprimée du registre.
+
+NOTA:
+Conformément au I de l'article 15 du décret n° 2021-1887 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

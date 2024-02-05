@@ -17,3 +17,8 @@ Le montant des indemnités allouées aux présidents et aux présidents des sect
 Leurs frais de déplacement sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
 Ces indemnités et frais sont à la charge du conseil régional.
+
+NOTA:
+Conformément aux dispositions du I de l'article 14 de l'ordonnance n° 2017-644 du 27 avril 2017, les dispositions relatives aux limites d'âge, à la durée du mandat et à la détermination de l'autorité en charge de la désignation des membres des conseils, des chambres de discipline, des chambres disciplinaires et des sections des assurances sociales des chambres disciplinaires et des chambres de discipline des ordres s'appliquent aux désignations et aux renouvellements intervenant à compter du lendemain de la publication de la présente ordonnance.
+
+Les dispositions relatives au régime indemnitaire et au régime des incompatibilités dans les conseils, les chambres disciplinaires, les chambres de discipline et les sections des assurances sociales des chambres disciplinaires et des chambres de discipline sont rendues applicables aux membres qui les composent le 1er janvier 2018.

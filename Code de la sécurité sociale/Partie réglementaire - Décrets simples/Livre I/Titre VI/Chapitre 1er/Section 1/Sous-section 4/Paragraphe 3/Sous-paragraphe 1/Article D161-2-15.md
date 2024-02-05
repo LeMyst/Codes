@@ -9,3 +9,6 @@ En cas de reprise, dans les six mois postérieurs à la date d'effet de la pensi
 Les dispositions ci-dessus sont également applicables lorsque l'assuré n'a pas cessé son activité à la date d'effet de sa pension. Dans ce cas, l'application de ces dispositions court à compter de la date d'effet de la pension.
 
 Les dispositions du présent article ne sont pas applicables aux assurés remplissant, lors de la reprise d'activité, les conditions prévues aux quatrième, cinquième et sixième alinéas de l'article L. 161-22.
+
+NOTA:
+Ces dispositions s'appliquent aux assurés dont la première pension prend effet à compter du 1er janvier 2015.

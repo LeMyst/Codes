@@ -9,3 +9,6 @@ Les modalités d'application des alinéas précédents sont fixées par décret 
 La participation de l'assuré social aux dépenses relatives aux soins prévus à l'article L. 174-7 peut être réduite ou supprimée dans des conditions fixées par décret en Conseil d'Etat.
 
 Les organismes d'assurance maladie et l'aide sociale versent directement à l'établissement leur participation aux dépenses de soins non compris dans le forfait mentionné à l'article L. 174-7, lorsque ceux-ci sont demandés par le ou les médecins attachés audit établissement et que ce dernier en a assuré le paiement.
+
+NOTA:
+Conformément au 1° du II de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur le 3 décembre 2021. Se reporter aux conditions d’application prévues audit article.

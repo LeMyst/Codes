@@ -31,3 +31,10 @@ Le montant forfaitaire mentionné au premier alinéa est égal à une fraction d
 Le montant forfaitaire est pris en compte au titre de l'année civile de la naissance du ou des enfants.
 
 Le salaire médian mentionné au deuxième alinéa est fixé par arrêté des ministres chargés de la sécurité sociale et du budget.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.
+
+Conformément au II de l’article 7 du décret n° 2023-799 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.
+
+Conformément à l’article 7 du décret n° 2023-840 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

@@ -14,10 +14,8 @@ II.-En vue de faciliter la fixation de la pension alimentaire par l'autorité ju
 
 III.-L'allocation de soutien familial est ouverte de plein droit aux bénéficiaires du revenu de solidarité active visés à l'article L. 262-9 du code de l'action sociale et des familles et qui assument la charge effective et permanente d'un ou plusieurs enfants remplissant l'une des conditions précédemment mentionnées.
 
-IV.-Constituent des actes ou accords au sens des 3° et 4° du I du présent article, sous réserve qu'ils aient acquis force exécutoire :
-
-1° L'accord par lequel les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous signature privée contresigné par avocats déposé au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ;
-
+IV.-Constituent des actes ou accords au sens des 3° et 4° du I du présent article, sous réserve qu'ils aient acquis force exécutoire :\
+1° L'accord par lequel les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous signature privée contresigné par avocats déposé au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ;\
 2° Un acte reçu en la forme authentique par un notaire ;
 
 3° Un accord auquel l'organisme débiteur des prestations familiales a donné force exécutoire en application de l'article L. 582-2 du présent code ;

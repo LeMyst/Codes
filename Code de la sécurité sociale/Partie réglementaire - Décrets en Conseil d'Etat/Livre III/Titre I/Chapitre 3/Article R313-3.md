@@ -15,3 +15,6 @@ Il doit justifier en outre :
 a) Soit que le montant des cotisations dues au titre des assurances maladie, maternité, invalidité et décès assises sur les rémunérations qu'il a perçues pendant les douze mois civils précédant l'interruption de travail est au moins égal au montant des mêmes cotisations dues pour un salaire égal à 2 030 fois la valeur du salaire minimum de croissance au 1er janvier qui précède immédiatement le début de cette période ;
 
 b) Soit qu'il a effectué au moins 600 heures de travail salarié ou assimilé au cours des douze mois civils ou des 365 jours précédant l'interruption de travail.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 3 du décret n° 2023-790 du 17 août 2023.

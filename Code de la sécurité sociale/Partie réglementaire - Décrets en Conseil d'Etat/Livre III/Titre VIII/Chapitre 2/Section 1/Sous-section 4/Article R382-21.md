@@ -9,3 +9,6 @@ b) La moyenne des sommes versées à titre de droits d'auteur aux artistes ou or
 En l'absence de revenus connus, l'organisme mentionné au premier alinéa de l'article L. 382-5 peut estimer par tout moyen un montant provisoire.
 
 L'assiette retenue est majorée de 25 % pour la première échéance non déclarée ; ce taux est augmenté de 5 points à chaque échéance non déclarée consécutive.
+
+NOTA:
+Conformément aux dispositions du 2° du I de l'article 8 du décret n° 2018-1185 du 19 décembre 2018, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

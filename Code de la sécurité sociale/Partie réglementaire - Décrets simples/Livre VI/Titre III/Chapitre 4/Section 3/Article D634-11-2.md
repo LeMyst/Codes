@@ -5,3 +5,6 @@ Pour l'application du premier alinéa de l'article L. 634-6, les revenus profess
 Toutefois dans les zones de revitalisation rurales et dans les quartiers prioritaires de la politique de la ville mentionnés, respectivement, à l'article 1465 A et au I de l'article 1466 A du code général des impôts, cette limite est fixée au plafond prévu au premier alinéa de l'article L. 241-3.
 
 Pour la détermination de la durée d'exercice mentionnée au premier alinéa, il n'est pas tenu compte des mois civils suivant celui au cours duquel l'assuré remplit les conditions prévues aux troisième, quatrième et cinquième alinéas de l'article L. 634-6.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

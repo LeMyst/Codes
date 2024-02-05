@@ -4,6 +4,8 @@ Dans les conditions prévues au présent chapitre, toute personne résidant sur 
 
 -si elle est atteinte d'une invalidité générale réduisant sa capacité de travail ou de gain dans des proportions déterminées ;
 
--ou si elle a obtenu cet avantage en raison d'une invalidité générale au moins égale,
-
+-ou si elle a obtenu cet avantage en raison d'une invalidité générale au moins égale,\
 sans remplir la condition d'âge pour bénéficier de l'allocation aux personnes âgées prévue à l'article L. 815-1.
+
+NOTA:
+Conformément au A du III de l'article 270 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux allocations versées à compter d'avril 2020.

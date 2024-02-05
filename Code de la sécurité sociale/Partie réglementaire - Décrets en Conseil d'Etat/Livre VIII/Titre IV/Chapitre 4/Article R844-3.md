@@ -9,3 +9,6 @@ Sauf lorsqu'il constitue un élément des revenus professionnels mentionnés à 
 3° A 16,5 % du montant forfaitaire calculé pour trois personnes lorsque le foyer se compose de trois personnes ou plus.
 
 Les avantages en nature procurés par un jardin exploité à usage privatif ne sont pas pris en compte.
+
+NOTA:
+Conformément II de l'article 4 du décret n° 2023-1378 du 28 décembre 2023, ces dispositions sont applicables aux ressources perçues à compter du 1er janvier 2024 et déclarées à compter du 1er février 2024.

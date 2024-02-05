@@ -7,3 +7,8 @@ Le conseil d'administration ne peut valablement délibérer que si la majorité 
 Sans préjudice des dispositions du précédent alinéa, les administrateurs, lorsqu'ils ne sont pas suppléés, peuvent donner délégation de vote à un autre membre du conseil d'administration. Aucun membre ne peut recevoir plus d'une délégation.
 
 En cas de partage des voix, celle du président est prépondérante.
+
+NOTA:
+Décret n° 2013-624 du 15 juillet 2013, article 5 I : Le 5° de l'article 1er entre en vigueur pour la désignation des membres du prochain conseil d'administration de l'Ecole nationale supérieure de sécurité sociale.
+
+Arrêté du 17 novembre 2015 portant nomination au conseil d'administration de l'Ecole nationale supérieure de sécurité sociale (JORF 26 novembre 2015).

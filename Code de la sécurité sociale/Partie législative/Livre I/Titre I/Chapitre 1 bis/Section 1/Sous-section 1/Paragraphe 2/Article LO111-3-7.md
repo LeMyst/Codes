@@ -19,3 +19,6 @@ c) Aux années ultérieures, à la condition que ces dispositions présentent un
 5° Relatives à la mise en réserve de recettes au profit des régimes obligatoires de base et à l'utilisation de ces réserves ;
 
 6° Améliorant l'information et le contrôle du Parlement sur l'application des lois de financement de la sécurité sociale.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

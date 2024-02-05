@@ -15,3 +15,8 @@ III.-Lorsque la contribution à l'entretien et à l'éducation de l'enfant résu
 IV.-La connaissance par l'organisme débiteur des prestations familiales d'un changement de situation susceptible d'entraîner la révision de la contribution à l'entretien et à l'éduction de l'enfant mentionnée à l'article L. 582-2 ayant une incidence sur le droit à l'allocation différentielle mentionnée au 4° du I de l'article L. 523-1 entraîne systématiquement un réexamen du droit à cette allocation.
 
 L'organisme suspend l'allocation lorsque le montant de la contribution fixé dans le titre exécutoire est inférieur au seuil mentionné au I calculé en fonction de la nouvelle situation. Dans ce cas, l'allocation différentielle mentionnée au 4° du I de l'article L. 523-1 cesse d'être due à compter du premier jour du mois suivant celui au cours duquel intervient le changement de situation. Si les parents transmettent un nouvel accord, l'allocation différentielle est due, une fois cet accord revêtu de la force exécutoire, à compter du premier jour du mois de la réception par l'organisme de la demande de délivrance du titre exécutoire.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2018-655 du 24 juillet 2018, ces dispositions sont applicables aux prestations dues à compter du 1er juillet 2018.
+
+Pour les droits ouverts avant le 1er juillet 2018, les conditions dans lesquelles le montant de la contribution pris en compte pour le calcul de l'allocation de soutien familial différentielle mentionnée au 4° du I de l'article L. 523-1 est retenu continuent à être régies au plus tard jusqu'au 1er octobre 2018, par les dispositions de l'article R. 523-3-2 du code de la sécurité sociale dans leur rédaction en vigueur avant cette date.

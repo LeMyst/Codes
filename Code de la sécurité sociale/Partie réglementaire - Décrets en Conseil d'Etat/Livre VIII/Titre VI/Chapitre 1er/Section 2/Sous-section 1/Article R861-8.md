@@ -15,3 +15,6 @@ Les rémunérations d'activité perçues par toute personne mentionnée à l'art
 5° S'il est sans emploi et perçoit une rémunération de stage de formation professionnelle légale, réglementaire ou conventionnelle.
 
 Il n'est pas tenu compte des rémunérations de stages de formation professionnelle légales, réglementaires ou conventionnelles perçues pendant l'année de référence lorsque l'intéressé justifie que la perception de celles-ci est interrompue de manière certaine et qu'il ne peut prétendre à un revenu de substitution.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1642 du 13 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

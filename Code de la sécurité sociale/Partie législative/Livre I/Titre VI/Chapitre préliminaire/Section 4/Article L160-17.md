@@ -11,3 +11,6 @@ Les organismes à qui sont confiées des opérations de gestion reçoivent des c
 Un décret en Conseil d'Etat détermine les modalités d'organisation, de mise en œuvre et de financement de ces opérations de gestion, notamment dans le cadre de conventions, ainsi que les modalités d'évaluation de leurs résultats. Les conventions précisent, le cas échéant, les conditions dans lesquelles les organismes concernés peuvent participer aux actions portant sur l'accès aux droits et sur la gestion du risque.
 
 Ce décret détermine également les conditions dans lesquelles il peut être mis fin à ces opérations de gestion en cas de défaillance rendant impossible la gestion des régimes obligatoires dans des conditions normales.
+
+NOTA:
+Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

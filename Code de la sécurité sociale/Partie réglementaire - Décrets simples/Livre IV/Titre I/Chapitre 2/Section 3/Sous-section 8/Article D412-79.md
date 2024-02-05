@@ -215,3 +215,8 @@ A. ― En ce qui concerne les caisses d'épargne ordinaires :
 2°) membres de la commission supérieure des caisses d'épargne.
 
 B. ― En ce qui concerne le Défenseur des droits : délégués du Défenseur des droits.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

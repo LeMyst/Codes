@@ -15,3 +15,6 @@ I. ― Ne peuvent être inscrits sur les listes ou l'une des listes prévues aux
 Les dispositions du 2° ci-dessus ne sont pas applicables aux spécialités génériques définies au 5° de l'article L. 5121-1 du code de la santé publique, ni aux médicaments biologiques similaires définis au a du 15° du même article, lorsque les médicaments de référence correspondants figurent sur les listes ou l'une des listes prévues aux premier et deuxième alinéas de l'article L. 162-17 du présent code et à l'article L. 5123-2 du code de la santé publique.
 
 II. ― L'inscription sur les listes ou l'une des listes prévues aux premier et deuxième alinéas de l'article L. 162-17 du présent code et à l'article L. 5123-2 du code de la santé publique des médicaments qui ont fait l'objet d'une publicité auprès du public au sens de l'article L. 5122-6 du code de la santé publique peut être refusée.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

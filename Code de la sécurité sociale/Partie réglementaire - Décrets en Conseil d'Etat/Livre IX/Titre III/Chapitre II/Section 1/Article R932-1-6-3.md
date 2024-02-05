@@ -9,3 +9,6 @@ Le nouvel organisme notifie alors au précédent organisme la dénonciation de l
 La date de réception de la notification de dénonciation ou de résiliation est présumée être le premier jour qui suit la date d'envoi de cette notification telle qu'elle figure sur le cachet de la poste de la lettre recommandée ou, s'il s'agit d'une lettre recommandée électronique, sur la preuve de son dépôt selon les modalités prévues à l'article R. 53-2 du code des postes et télécommunications électroniques.
 
 III.-La nouvelle adhésion ou le nouveau contrat ne peut prendre effet avant la prise d'effet de la dénonciation de l'ancienne adhésion ou la résiliation de l'ancien contrat.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2020-1438 du 24 novembre 2020, ces dispositions entrent en vigueur le 1er décembre 2020. Elles s'appliquent aux contrats et adhésions en cours à cette date.

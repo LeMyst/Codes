@@ -9,3 +9,6 @@ A défaut d'initiative de la caisse primaire d'assurance maladie, l'assuré peut
 Lorsque la demande de pension a été rejetée ou lorsque la pension antérieurement accordée a été supprimée, une nouvelle demande de pension d'invalidité peut être formée par l'assuré dans le délai de douze mois mentionné à l'alinéa précédent. Dans ce cas, l'état d'invalidité est apprécié à la date de la nouvelle demande ; toutefois, si l'incapacité ne devient égale aux deux tiers qu'au cours du délai susmentionné de douze mois, l'état d'invalidité est apprécié à la date de l'aggravation.
 
 Le modèle de la demande de pension et les pièces à y annexer sont déterminés par le ministre chargé de la sécurité sociale.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-257 du 23 février 2022, ces dispositions s'appliquent aux arrérages de pension dus à compter du 1er avril 2022.

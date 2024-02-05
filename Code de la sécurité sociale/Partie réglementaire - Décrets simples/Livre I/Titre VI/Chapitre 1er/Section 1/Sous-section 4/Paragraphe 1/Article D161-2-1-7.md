@@ -37,3 +37,6 @@ Chaque organisme ou service retient les hypothèses établies et rendues publiqu
 L'indication de la délivrance de l'estimation à titre de renseignement, le caractère estimatif et non contractuel de l'estimation et l'absence d'engagement de l'organisme ou du service ayant établi l'estimation ou de l'organisme ou du service en charge du ou des régimes concernés de verser aux âges indiqués le ou les montants estimés sont mentionnés sur l'estimation.
 
 L'estimation est accompagnée d'une information sur les dispositifs mentionnés aux articles L. 161-22, L. 241-3-1, L. 161-22-1-5 et L. 241-3-1 du présent code ainsi qu'aux articles L. 11 bis, L. 84 et L. 89 bis du code des pensions civiles et militaires de retraite.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

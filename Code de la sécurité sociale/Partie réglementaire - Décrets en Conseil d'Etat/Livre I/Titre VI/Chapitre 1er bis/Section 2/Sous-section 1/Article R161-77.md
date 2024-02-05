@@ -31,3 +31,6 @@ L'avis des deux commissions réunies est adopté au terme d'une délibération e
 La Haute Autorité de santé élabore un règlement intérieur fixant les règles de fonctionnement adaptées à la réunion de deux commissions spécialisées conformément au présent II.
 
 III.-Le président du collège de la Haute Autorité de santé peut également décider de réunir sous sa présidence toute commission spécialisée en vue de préparer les délibérations relevant de la compétence du collège.
+
+NOTA:
+Conformément à l'article 2 II du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter de la date la plus tardive du prochain renouvellement de la commission d'évaluation économique et de santé publique, de la commission de la transparence et de la commission nationale d'évaluation des dispositifs médicaux et des technologies de santé suivant la publication dudit décret.

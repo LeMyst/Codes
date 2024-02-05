@@ -9,3 +9,6 @@ Le tarif applicable est déterminé en fonction de la rémunération afférente 
 Le versement des cotisations dues peut être échelonné dans les mêmes conditions que le versement des cotisations prévues à l'article L. 351-14-1. Il peut être mis fin au versement dans les mêmes conditions que pour le versement des cotisations prévues à l'article L. 351-14-1.
 
 La mise en paiement des pensions liquidées en faveur des intéressés est ajournée jusqu'au moment où le versement des cotisations dont il s'agit est terminé.
+
+NOTA:
+Décret n° 2010-1776 du 31 décembre 2010 article 6 : Ces dispositions sont applicables aux demandes d'adhésion et de rachat déposées à compter du 1er janvier 2011.

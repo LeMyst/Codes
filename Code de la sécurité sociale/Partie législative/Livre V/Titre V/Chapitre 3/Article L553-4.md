@@ -21,3 +21,6 @@ III.-Le blocage de comptes courants de dépôts ou d'avances ne peut avoir pour 
 Nonobstant toute opposition, les allocataires dont les prestations familiales sont servies par versement à un compte courant de dépôts ou d'avances peuvent retirer des fonds chaque mois de ce compte dans la limite du montant des prestations familiales.
 
 Un décret précise les conditions d'application des deux alinéas précédents.
+
+NOTA:
+Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, le troisième alinéa du 2° du I de l'article L. 553-4 dans sa rédaction résultant du c du 2° du V du présent article s'applique à compter du 1er juin 2020.

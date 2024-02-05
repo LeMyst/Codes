@@ -5,3 +5,6 @@ La cotisation d'assurance invalidité-décès mentionnée à l'article L. 644-2 
 Ils peuvent demander, lors de la déclaration mentionnée au premier alinéa, à bénéficier d'une réduction de 75 % du montant de la cotisation mentionnée au premier alinéa. Dans ce cas, les droits acquis sont réduits dans les mêmes proportions.
 
 Par dérogation au premier alinéa, les médecins reprenant ou poursuivant une activité relevant de l'article L. 643-6 ne sont pas redevables de la cotisation d'assurance invalidité-décès mentionnée à l'article L. 644-2.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-1584 du 31 décembre 2019, ces dispositions s'appliquent aux cotisations dues sur les revenus perçus à compter du 1er janvier 2021.

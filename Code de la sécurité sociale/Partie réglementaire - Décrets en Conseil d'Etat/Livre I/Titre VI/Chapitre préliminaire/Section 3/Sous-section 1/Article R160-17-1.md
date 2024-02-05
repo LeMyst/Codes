@@ -27,3 +27,6 @@ III.-Cette participation est supprimée dans les situations suivantes :
 3° Pour les victimes d'actes de terrorisme mentionnées à l'article L. 169-1 du présent code, pour les soins résultant de l'acte de terrorisme ;
 
 4° Pour les soins en lien avec le risque sanitaire mentionné à l'article L. 16-10-1, dans les conditions précisées par les décrets pris en application de ce même article.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-258 du 23 février 2022, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -7,3 +7,6 @@ Le titulaire de la créance peut à tout moment renoncer à percevoir l'allocati
 L'organisme débiteur de prestations familiales peut suspendre le versement de l'allocation de soutien familial en cas de refus par le créancier d'aliments de donner le pouvoir spécial de saisie en matière immobilière.
 
 Lorsque le débiteur reprend le service de sa dette, cette dernière peut être acquittée directement au parent créancier, avec l'accord de l'organisme débiteur de prestations familiales, sauf lorsque l'intermédiation financière est mise en œuvre en application de l'article L. 582-1.
+
+NOTA:
+Conformément au B du X de l'article 100 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.

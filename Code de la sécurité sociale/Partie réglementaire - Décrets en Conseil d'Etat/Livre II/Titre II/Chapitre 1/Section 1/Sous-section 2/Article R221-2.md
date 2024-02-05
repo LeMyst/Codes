@@ -17,3 +17,6 @@ Le conseil de la Caisse nationale de l'assurance maladie mentionné à l'article
 Siègent également aux séances du conseil avec voix consultative un représentant désigné en son sein par l'assemblée générale du Conseil de la protection sociale des travailleurs indépendants et quatre représentants du personnel, élus à raison de deux représentants des employés et assimilés, un représentant des praticiens-conseils, y compris ceux affectés aux échelons régionaux et locaux du contrôle médical, et un représentant des cadres et assimilés.
 
 Assistent au conseil le directeur général, l'agent comptable et le contrôleur budgétaire.
+
+NOTA:
+Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1153 du 4 septembre 2021.

@@ -11,3 +11,6 @@ Le comité d'experts mentionné à l'article L. 221-1-5, placé auprès de la co
 Le président et le vice-président du comité sont désignés par les ministres chargés de la sécurité sociale et du travail parmi les cinq personnalités qualifiées pour la durée de leur mandat.
 
 Les dispositions des articles L. 231-6, à l'exception de la condition d'âge, sont applicables aux membres du comité d'experts.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2023-760 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

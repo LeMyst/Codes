@@ -43,3 +43,6 @@ V.-A.-Le montant de la réduction prévue à l'article L. 241-13 est imputé par
 -sur les cotisations déclarées aux institutions mentionnées à l'article L. 922-4 pour la part complémentaire.
 
 B.-Par exception au A, pour les employeurs des salariés mentionnés au dernier alinéa du VII de l'article L. 241-13, le montant de la réduction est imputé en totalité sur les cotisations recouvrées par l'organisme de recouvrement habilité par l'État en application de l'article L. 133-9.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-1329 du 29 décembre 2023, ces dispositions s'appliquent pour les rémunérations dues pour les périodes courant à compter du 1er janvier 2024.

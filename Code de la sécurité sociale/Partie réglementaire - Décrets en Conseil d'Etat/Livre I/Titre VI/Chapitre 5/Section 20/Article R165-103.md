@@ -11,3 +11,6 @@ Sous le délai d'un mois à compter de cette notification, l'exploitant ou le fo
 La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables au recouvrement de cette pénalité.
 
 III.-L'organisme de recouvrement compétent en application des dispositions de l'article L. 165-2-2 informe le comité des montants perçus.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-331 du 26 mars 2021, ces dispositions s'appliquent pour la première fois aux déclarations requises au titre de l'année 2020 , transmises avant le 1er septembre 2021 , par dérogation aux dispositions du II de l'article R. 165-102 du code de la sécurité sociale .

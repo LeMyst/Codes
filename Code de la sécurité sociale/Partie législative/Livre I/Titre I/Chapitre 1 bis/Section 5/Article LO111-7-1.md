@@ -21,3 +21,10 @@ IV. - Au sens de l'article 40 de la Constitution, la charge s'entend, s'agissant
 Tout amendement doit être motivé et accompagné des justifications qui en permettent la mise en oeuvre.
 
 Les amendements non conformes aux dispositions du présent chapitre sont irrecevables.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.
+
+Par dérogation au I du présent article, le I et le premier alinéa du III de l'article LO 111-7-1 du code de la sécurité sociale, dans leur rédaction antérieure à la présente loi, sont applicables à la loi de financement de la sécurité sociale pour l'année 2023.
+
+Par décision du Conseil constitutionnel n° 2022-836 DC du 10 mars 2022, l’article L.O. 111-7-1 du code de la sécurité sociale, dans sa rédaction résultant de l’article 3 de la loi organique n° 2022-354 du 14 mars 2022 relative aux lois de financement de la sécurité sociale a été déclaré conforme à la Constitution, sous la réserve énoncée au paragraphe 18 aux termes de laquelle " Ces dispositions ne sauraient, sans porter atteinte à l’article 34 de la Constitution, faire obstacle à la mise en discussion du projet de loi de financement de l’année dès lors que le projet de loi d’approbation des comptes de la sécurité sociale a été examiné. "

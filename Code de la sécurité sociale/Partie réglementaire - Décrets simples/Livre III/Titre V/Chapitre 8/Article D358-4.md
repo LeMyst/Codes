@@ -9,3 +9,6 @@ Le plafond de revenus d'activité prévu au même alinéa est calculé au 1er ja
 Les revenus d'activité à prendre en considération sont ceux afférents à la période de douze mois précédant la date d'entrée en jouissance ou la date d'effet de la révision de la pension d'orphelin. Ils sont retenus selon les modalités prévues à l'article R. 815-24.
 
 La pension prend fin le mois suivant le dépassement de ce plafond.
+
+NOTA:
+Conformément au III de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions s'appliquent aux décès, aux disparitions et aux absences survenus à compter du 1er septembre 2023.

@@ -71,3 +71,10 @@ Ces garanties s'appliquent aux frais exposés pour l'acquisition d'une aide audi
 5° Des frais de soins dentaires prothétiques exposés par l'assuré en sus des tarifs de responsabilité dans la limite des honoraires de facturation fixés par la convention prévue à l'article L. 162-9 ou, en l'absence de convention applicable, par le règlement arbitral prévu à l'article L. 162-14-2, pour les actes définis par arrêté des ministres chargés de la santé et de la sécurité sociale, en fonction du service rendu et des caractéristiques esthétiques ;
 
 6° Du forfait journalier des établissements hospitaliers prévu à l'article L. 174-4, sans limitation de durée.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2019-21 du 11 janvier 2019, les dispositions des 3° et 5° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux contrats souscrits ou renouvelés à compter du 1er janvier 2020, sous réserve des dispositions du troisième alinéa dudit article.
+
+Les dispositions du 4° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux contrats souscrits ou renouvelés à compter du 1er janvier 2021.
+
+Les dispositions du 5° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux actes pour lesquels l'entente directe est limitée et sans reste à charge tels que définis dans la convention prévue à l'article L. 162-9, aux dates fixées par la convention organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie signée le 21 juin 2018.

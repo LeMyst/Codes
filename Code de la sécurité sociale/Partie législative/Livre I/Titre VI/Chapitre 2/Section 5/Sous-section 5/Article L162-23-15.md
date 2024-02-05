@@ -19,3 +19,6 @@ III. - Un décret en Conseil d'Etat précise les modalités de détermination et
 Le développement de l'autodialyse et de la dialyse à domicile figure parmi ces indicateurs.
 
 Un arrêté des ministres chargés de la santé et de la sécurité sociale dresse la liste des indicateurs liés à la qualité et la sécurité des soins, détermine la période au cours de laquelle est recueilli chaque indicateur, qui ne peut être inférieure à un an, fixe les seuils minimaux de résultats requis pour certains indicateurs et prévoit les modalités de calcul de la dotation complémentaire et de la pénalité financière.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

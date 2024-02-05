@@ -19,3 +19,6 @@ A la demande du ministre chargé de la sécurité sociale ou du ministre chargé
 La saisine du ministre chargé de la santé ou de la sécurité sociale précise le délai dans lequel est attendu l'avis de la commission prévu au présent article.
 
 Lorsque la commission le juge nécessaire, elle peut demander à l'entreprise de fournir des données dans le cadre de cette demande d'avis. Dans ce cas, l'entreprise dispose d'un délai de quarante-cinq jours pour fournir ces données et l'instruction du dossier par la commission est suspendue pour cette même durée.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

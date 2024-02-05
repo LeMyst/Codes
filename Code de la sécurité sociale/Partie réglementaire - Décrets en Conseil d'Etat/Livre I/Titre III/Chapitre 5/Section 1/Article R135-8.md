@@ -15,3 +15,6 @@ Le président arrête les comptes du fonds.
 III.-Dans le cadre des tâches de gestion assurées pour le compte du fonds par la Caisse nationale d'assurance vieillesse dans les conditions prévues au I, l'agent comptable de cette caisse assure les fonctions d'agent comptable du fonds. Dans l'exercice de cette mission, les comptes du fonds sont tenus de manière séparée de ceux de la Caisse nationale d'assurance vieillesse et de la branche vieillesse du régime général.
 
 IV.-L'agent comptable effectue l'ensemble des opérations financières et comptables du fonds suivant des modalités définies en application du dernier alinéa de l'article L. 122-2.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

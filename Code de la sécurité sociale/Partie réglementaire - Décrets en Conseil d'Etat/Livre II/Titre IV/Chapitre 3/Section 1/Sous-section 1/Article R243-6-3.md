@@ -21,3 +21,10 @@ Cette désignation peut être modifiée sur demande de l'entreprise et après au
 III. – L'organisme de recouvrement, qui remplit la fonction d'interlocuteur unique, assure pour tous les établissements de l'entreprise ou des entreprises d'un groupe l'ensemble des missions mentionnées à l'article L. 213-1.
 
 Toutefois, l'organisme mentionné à l'alinéa précédent peut confier à d'autres organismes de recouvrement des contrôles qu'il juge utile d'effectuer pour tout ou partie des établissements de l'entreprise ou des entreprises d'un groupe.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2017-858 du 9 mai 2017, les dispositions du présent article entrent en vigueur dans les conditions suivantes :
+
+1° Elles s'appliquent au plus tard au 1er janvier 2020 à l'ensemble des entreprises mentionnées au 1° du I de cet article. Toutefois, elles s'appliquent au 1er janvier 2018 pour les entreprises employant au moins 1 000 salariés et au 1er janvier 2019 pour les entreprises employant au moins 500 salariés ;
+
+2° Elles s'appliquent au plus tard au 1er janvier 2020 aux entreprises appartenant à un groupe, qui sont mentionnées au 2° du I de cet article. Toutefois, elles s'appliquent au 1er janvier 2018 pour ces mêmes entreprises employant au moins 1 000 salariés.

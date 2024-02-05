@@ -23,3 +23,8 @@ Chaque année, la mission soumet les projets de programme mentionnés au 3° et 
 La conférence régionale de santé tient la mission informée de ses travaux.
 
 La mission apporte son appui, en tant que de besoin, aux programmes de prévention mis en oeuvre par le groupement régional de santé publique prévu à l'article L. 1411-14 du code de la santé publique.
+
+NOTA:
+Loi n° 2009-879 du 21 juillet 2009, art 128 IV :Par dérogation au 1° du II, les dispositions du 2° de l'article L. 162-47 du code de la sécurité sociale dans sa rédaction antérieure à l'entrée en vigueur de la présente loi et les décisions prises en application de ces dispositions par les missions régionales de santé demeurent en vigueur dans chaque région jusqu'à l'entrée en vigueur du premier schéma régional d'organisation des soins élaboré par l'agence régionale de santé.
+
+Pour l'application des dispositions du 2° de l'article L. 162-47 du code de la sécurité sociale précité, le directeur général de l'agence régionale de santé est substitué à la mission régionale de santé.

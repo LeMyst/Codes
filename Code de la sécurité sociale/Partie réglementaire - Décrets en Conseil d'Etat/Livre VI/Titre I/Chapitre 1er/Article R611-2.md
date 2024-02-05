@@ -21,3 +21,6 @@ IV.-Le travailleur indépendant dispose d'un délai d'un mois à compter de la d
 En l'absence d'opposition, le directeur mentionné au I peut procéder à la radiation. La décision de radiation est notifiée à l'intéressé par tout moyen donnant date certaine à la réception de cette décision. Elle mentionne les voies et délais de recours. Elle est communiquée simultanément à l'ensemble des organismes intéressés par l'intermédiaire d'une déclaration auprès de l'organisme unique mentionné à l'article R. 123-1 du code de commerce, à l'exception des ordres professionnels qui demeurent destinataires de cette information par tout moyen.
 
 V.-L'information mentionnée au 3° de l'article L. 613-4 du même code est délivrée, selon le cas, par l'organisme mentionné à l'article L. 641-2 ou à l'article L. 651-1.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -9,3 +9,6 @@ La loi d'approbation des comptes de la sécurité sociale :
 3° Approuve, pour ce même exercice, les montants correspondant aux recettes affectées aux organismes chargés de la mise en réserve de recettes au profit des régimes obligatoires de base et aux organismes concourant au financement de ces régimes et les montants correspondant à l'amortissement de leur dette ;
 
 4° Approuve le rapport mentionné au 2° de l'article LO 111-4-4.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

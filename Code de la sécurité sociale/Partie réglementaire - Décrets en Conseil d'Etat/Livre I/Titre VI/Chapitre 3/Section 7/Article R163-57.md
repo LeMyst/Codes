@@ -11,3 +11,6 @@ Les ministres notifient à l'entreprise, par tout moyen permettant de donner une
 Dans un délai d'un mois à compter de cette notification, l'entreprise s'acquitte de la pénalité auprès de l'agent comptable de l'organisme de recouvrement compétent.
 
 L'organisme de recouvrement compétent en application des dispositions de l'article L. 162-16-5-2 informe les ministres des montants perçus.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

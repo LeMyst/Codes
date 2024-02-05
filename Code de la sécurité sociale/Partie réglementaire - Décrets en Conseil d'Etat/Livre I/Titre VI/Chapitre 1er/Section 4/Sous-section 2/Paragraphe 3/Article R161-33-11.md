@@ -11,3 +11,8 @@ La carte Vitale sous forme d'application mobile contient les informations suivan
 Les données relatives aux droits et aux conditions de prise en charge des frais de santé sont rendues disponibles et actualisées dans l'application Carte vitale par l'utilisation des téléservices sécurisés de l'assurance maladie.
 
 Pour garantir la continuité d'utilisation de l'application en cas d'impossibilité de se connecter aux téléservices de l'assurance maladie, l'application carte Vitale conserve les dernières données consultées nécessaires à la prise en charge des frais de santé.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

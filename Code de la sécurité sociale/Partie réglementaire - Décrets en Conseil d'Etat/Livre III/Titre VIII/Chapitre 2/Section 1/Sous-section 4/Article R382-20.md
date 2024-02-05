@@ -13,3 +13,6 @@ Ces personnes doivent également faire parvenir par voie dématérialisée à l'
 Un arrêté du ministre chargé de la sécurité sociale fixe les modèles des déclarations nécessaires à l'application des dispositions du présent article.
 
 Les tiers habilités mentionnés à l'article R. 382-19 effectuent pour le compte des débiteurs les déclarations et versements aux dates fixées par la convention prévue au même article.
+
+NOTA:
+Conformément aux dispositions du 2° du I de l'article 8 du décret n° 2018-1185 du 19 décembre 2018, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

@@ -7,3 +7,6 @@ Le directeur régional des entreprises, de la concurrence, de la consommation, d
 Les comités techniques peuvent s'adjoindre des spécialistes des questions de prévention des accidents du travail et maladies professionnelles, notamment des médecins inspecteurs du travail.
 
 Un arrêté du ministre chargé de la sécurité sociale détermine les branches ou groupes de branches d'activité devant donner lieu à la création de comités techniques.
+
+NOTA:
+Décret n° 2010-344 du 31 mars 2010 article 313 II : Les dispositions du b du 1° du I du même article ne s'appliquent pas à la région Ile-de-France et ses départements et dans les régions et départements d'outre-mer.

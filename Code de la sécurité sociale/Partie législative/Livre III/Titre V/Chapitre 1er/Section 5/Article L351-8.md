@@ -25,3 +25,6 @@ Les anciens prisonniers de guerre évadés de guerre, au-delà d'un certain temp
 Toute partie de mois n'est pas prise en considération.
 
 Les dispositions du 5°) ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
+
+NOTA:
+Conformément au B du XXX de l'article 10 et au B de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

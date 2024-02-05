@@ -9,3 +9,6 @@ Sous réserve des dispositions du II de l'article R. 114-10-1, le droit aux pres
 3° Le droit a été fermé dans les conditions prévues par l'article L. 114-12-3 ;
 
 4° Le bénéficiaire a fait l'objet d'une mesure d'éloignement administrative devenue définitive. Dans ce cas, le droit ne peut être fermé qu'après la fin du deuxième mois suivant la date d'expiration des titres ou documents mentionnés au premier alinéa.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2020-1325 du 30 octobre 2020, ces dispositions s'appliquent aux personnes dont les titres ou documents justifiant qu'elles remplissent les conditions mentionnées à l'article R. 111-3 du code de la sécurité sociale expirent à compter du 15 novembre 2020.

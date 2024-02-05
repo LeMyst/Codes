@@ -21,3 +21,6 @@ Les activités pour lesquelles les établissements de santé sont autorisés en 
 3° Pour les activités réalisées dans les établissements de santé autorisés à dispenser des de longue durée mentionnés à l'article L. 174-5, conformément à l'article L. 174-1 ;
 
 4° Pour les activités de soins médicaux et de réadaptation, conformément à l'article L. 162-23-2.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

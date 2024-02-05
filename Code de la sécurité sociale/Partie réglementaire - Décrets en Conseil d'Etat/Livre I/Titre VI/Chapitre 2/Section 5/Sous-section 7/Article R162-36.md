@@ -13,3 +13,6 @@ A compter de la date de réception de ce rapport, l'établissement de santé dis
 Le cas échéant, lorsque des modifications sont apportées au rapport de contrôle, le directeur général de l'agence régionale de santé adresse à l'établissement de santé concerné une copie du rapport modifié, et des précisions quant aux motifs ayant présidé à ces modifications.
 
 Le délai entre la réalisation du contrôle sur place et l'adoption par le directeur général de l'agence régionale de santé du rapport, le cas échéant, modifié à la suite des observations de l'établissement, ne peut excéder quinze jours ouvrés.
+
+NOTA:
+Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.

@@ -5,3 +5,6 @@ Les travailleurs mentionnés à l'article D. 171-2 qui bénéficient d'une organ
 Les prestations en espèces auxquelles peuvent prétendre les intéressés sont calculées en tenant compte des salaires ou gains qu'ils percevaient au titre de l'ensemble de leurs activités salariées ou assimilées.
 
 Lorsque la réparation de l'accident du travail incombe à l'organisation générale, l'organisation spéciale de sécurité sociale dont relève l'intéressé impute, pendant la période d'incapacité temporaire, sur le montant des prestations en espèces qu'elle peut servir à l'intéressé, la fraction de l'indemnité journalière correspondant à la rémunération perçue au titre de son activité de l'organisation spéciale.
+
+NOTA:
+Code de la sécurité sociale D171-11 : non application.

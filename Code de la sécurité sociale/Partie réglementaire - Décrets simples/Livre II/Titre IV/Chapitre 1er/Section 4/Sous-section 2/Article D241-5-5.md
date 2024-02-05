@@ -15,3 +15,6 @@ c) Pour les personnes mentionnées au b du III de l'article L. 241-10, tous docu
 d) Dans tous les cas, un bordereau mensuel comportant les nom, prénom et signature des personnes recourant à l'aide à domicile, les dates et durées des interventions de l'aide à domicile, les nom, prénom et signature de celle-ci et, le cas échéant, la dénomination de l'organisme finançant les interventions ;
 
 e) Pour chaque aide à domicile, un bordereau mensuel comportant ses nom et prénom, sa durée de travail, les nom, prénom et adresse de chacune des personnes mentionnées ci-dessus chez lesquelles elle est intervenue et le nombre d'heures afférents à chacune de ces interventions.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

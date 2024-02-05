@@ -5,3 +5,6 @@ Le remboursement des sommes mentionnées au 2° de l'article L. 862-2 est, pour 
 Une régularisation est opérée, le cas échéant, en fonction des montants définitivement constatés, au plus tard au 30 juin de l'année suivant celle au titre de laquelle les opérations considérées sont intervenues, par ces organismes dans le cadre de l'établissement de leurs comptes.
 
 La régularisation prend la forme d'un versement, selon le cas, des organismes chargés du recouvrement de la contribution mentionnée à l'article L. 862-4 ou de l'organisme mentionné au b de l'article L. 861-4, effectué avant le 30 septembre de la même année.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1662 du 27 décembre 2022, ces dispositions s'appliquent aux actes payés par les organismes d'assurance maladie obligatoire à compter du 1er janvier 2023.

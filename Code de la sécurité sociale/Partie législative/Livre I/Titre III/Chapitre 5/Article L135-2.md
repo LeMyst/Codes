@@ -27,3 +27,6 @@ c) Des périodes pendant lesquelles l'assuré a bénéficié, en cas d'absence c
 9° Le remboursement à la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon des dépenses correspondant à l'application au régime d'assurance vieillesse de cette collectivité, dans les conditions prévues par la loi n° 87-563 du 17 juillet 1987 portant réforme du régime d'assurance vieillesse applicable à Saint-Pierre-et-Miquelon, des avantages non contributifs mentionnés aux 1° à 5°, 7° et 8° du présent I ;
 
 Les sommes mentionnées aux 2°, 5° et 7° sont calculées sur une base forfaitaire, dans des conditions fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VIII de l'article 8 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions sont applicables aux périodes de perception de l'indemnité horaire mentionnée au II de l'article L. 5122-1 du code du travail et des indemnités d'activité partielle mentionnées aux articles 7 et 10 bis de l'ordonnance n° 2020-346 du 27 mars 2020 portant mesures d'urgence en matière d'activité partielle à compter du 1er mars 2020 pour les pensions de retraite prenant effet à compter du 12 mars 2020.

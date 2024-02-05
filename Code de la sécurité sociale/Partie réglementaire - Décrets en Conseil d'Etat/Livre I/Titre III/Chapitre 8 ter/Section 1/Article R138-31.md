@@ -13,3 +13,6 @@ La demande est réputée complète si, dans le délai de trente jours à compter
 Le préfet de région dispose d'un délai de trois mois, à compter de la date à laquelle la demande complète a été reçue, pour notifier sa réponse à l'entreprise. Lorsque celle-ci est défavorable, elle est motivée et précise les voies et délais de recours dont elle peut faire l'objet.
 
 Le préfet de région adresse une copie de sa réponse à l'organisme en charge du recouvrement des cotisations d'assurance vieillesse compétent pour l'entreprise requérante.
+
+NOTA:
+Décret 2009-560 art 2 : II. - Les réponses mentionnées à l'article R. 138-31 du même code, dans sa rédaction issue du présent décret, sont opposables aux organismes chargés du recouvrement de la pénalité prévue à l'article L. 138-24 du même code à compter du 1er janvier 2010.

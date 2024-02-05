@@ -17,3 +17,6 @@ III.-Pour chaque personne mentionnée à l'article L. 169-1 du présent code à 
 L'Etat prend également en charge, déduction faite des sommes mentionnées au IV, le financement des dépenses mentionnées au 1° du II pour la mise en œuvre de l'article L. 169-5 postérieurement à la présentation de l'offre mentionnée au premier alinéa du même II et de l'article L. 169-7.
 
 IV.-Un décret fixe les conditions dans lesquelles les régimes d'assurance maladie se substituent aux personnes mentionnées à l'article L. 169-1 pour l'obtention des sommes qui auraient été versées par d'autres dispositifs de prise en charge des mêmes préjudices en l'absence des dispositions des articles L. 169-2-1 et L. 169-3, notamment par les organismes mentionnés au premier alinéa de l'article L. 182-3.
+
+NOTA:
+Conformément au VIII de l’article 64 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour du dix-huitième mois suivant la publication de la présente loi.

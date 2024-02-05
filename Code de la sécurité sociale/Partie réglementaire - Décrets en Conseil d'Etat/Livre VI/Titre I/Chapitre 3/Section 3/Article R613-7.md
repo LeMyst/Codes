@@ -13,3 +13,6 @@ Cette demande s'applique jusqu'à la fin de l'année civile correspondante. Elle
 Le travailleur indépendant ayant effectué la demande de modification mentionnée à la seconde phrase de l'alinéa précédent souscrit la déclaration prévue à l'article L. 613-2 au titre des revenus de la dernière année où il bénéficie des dispositions prévues aux deuxième à sixième alinéas du I de l'article L. 613-7. Il reçoit un échéancier de paiement valant appel des cotisations et contributions sociales dues au titre de cet exercice.
 
 III. – Les organismes mentionnés aux articles L. 213-1 et L. 752-4 transmettent aux organismes mentionnés aux articles L. 640-1 et L. 652-1 les informations mentionnées au I et au II du présent article qui sont relatives aux travailleurs indépendants relevant de ces organismes et qui sont soumis aux dispositions du premier alinéa du I de l'article L. 613-7 dans les conditions mentionnées au II du même article.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -13,3 +13,6 @@ II.-Le comité technique de l'innovation en santé émet un avis, dans un délai
 III.-Le comité technique de l'innovation en santé examine le cahier des charges, en appréciant notamment l'équilibre du schéma de financement, la pertinence des modalités d'évaluation proposées, la faisabilité opérationnelle et le caractère innovant, efficient et reproductible du projet.
 
 Il se prononce sur les modalités d'évaluation et sur le financement de toute ou partie de l'expérimentation par le fonds pour l'innovation du système de santé mentionné au V de l'article L. 162-31-1. Il détermine le champ d'application territorial, qui peut être local, régional, interrégional ou national quel que soit le périmètre initialement proposé. Il élabore une version amendée du projet de cahier des charges en conséquence.
+
+NOTA:
+Conformément aux dispositions de l'article 2 ces dispositions s'appliquent à tous les projets d'expérimentation pour lesquels l'avis du comité technique de l'innovation pour la santé n'a pas été rendu.

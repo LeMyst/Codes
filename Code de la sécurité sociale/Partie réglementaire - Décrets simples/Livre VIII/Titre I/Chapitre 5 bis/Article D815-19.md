@@ -11,3 +11,6 @@ a) Le conjoint, concubin ou partenaire lié par un pacte civil de solidarité du
 b) Le conjoint, concubin ou partenaire lié par un pacte civil de solidarité du demandeur n'est pas bénéficiaire de l'allocation supplémentaire d'invalidité. Dans ce cas, le montant de l'allocation servie ne peut excéder le montant du plafond mentionné au 1° auquel est soustrait le montant minimum de la pension d'invalidité mentionné à l'article L. 341-5 ;
 
 c) Le conjoint, concubin ou partenaire lié par un pacte civil de solidarité du demandeur bénéficie de l'allocation de solidarité aux personnes âgées visée à l'article L. 815-1. Dans ce cas, le montant de l'allocation servie est égal à la différence entre la moitié du plafond mentionné au 2° et la moitié des ressources du couple.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2020-1802 du 30 décembre 2020, ces dispositions s'appliquent aux allocations dues à compter du 1er avril 2021.

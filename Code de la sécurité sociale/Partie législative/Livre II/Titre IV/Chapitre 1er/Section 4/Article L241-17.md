@@ -43,3 +43,6 @@ b) A défaut d'une telle convention ou d'un tel accord :
 V.-Les dispositions du présent article ne sont pas applicables lorsque les salaires ou éléments de rémunération qui y sont mentionnés se substituent à d'autres éléments de rémunération au sens de l'article L. 242-1, à moins qu'un délai de douze mois ne se soit écoulé entre le dernier versement de l'élément de rémunération en tout ou partie supprimé et le premier versement des salaires ou éléments de rémunération précités.
 
 VI.-Le cumul de la réduction prévue au présent article avec l'application d'une exonération totale ou partielle de cotisations salariales de sécurité sociale ou avec l'application de taux réduits, d'assiettes ou de montants forfaitaires de cotisations ne peut être autorisé, dans la limite mentionnée au II, que dans des conditions fixées par décret, compte tenu du niveau des cotisations dont sont redevables les salariés concernés.
+
+NOTA:
+Conformément à l'article 7 V de la loi n° 2018-1203 du 22 décembre 2018, les présentes dispositions s'appliquent aux cotisations dues pour les périodes courant à compter du 1er janvier 2019.

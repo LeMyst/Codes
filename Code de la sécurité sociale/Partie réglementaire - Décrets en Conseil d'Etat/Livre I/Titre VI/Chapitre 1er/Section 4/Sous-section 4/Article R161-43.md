@@ -9,3 +9,8 @@ Sous réserve des dispositions de l'article R. 161-43-1 :
 3° Pour les prestations dispensées par les organismes ou établissements, autres que celles mentionnées au b du 11° de l'article R. 161-42, les feuilles de soins ou bordereaux établis pour la facturation des frais correspondants, quels qu'en soient le support et le mode de transmission, sont signés de l'assuré ou du bénéficiaire des soins et du directeur de l'établissement ou de son représentant.
 
 Dans ce cas, et par dérogation aux dispositions qui précèdent, la signature de l'assuré ou du bénéficiaire ne vaut attestation que des seuls éléments relatifs à son identité, au lieu et à la durée de son séjour et aux conditions de prise en charge dont il bénéficie.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

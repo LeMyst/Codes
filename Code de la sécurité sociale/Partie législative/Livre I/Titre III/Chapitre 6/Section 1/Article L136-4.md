@@ -23,3 +23,6 @@ II.-Le II de l'article L. 136-3 est applicable aux travailleurs indépendants ag
 III.-L'assiette résultant de l'application des I et II du présent article fait l'objet d'un abattement calculé selon les règles mentionnées au III de l'article L. 136-3.
 
 IV.-La contribution due au titre des activités mentionnées au A du I du présent article par les travailleurs indépendants agricoles relevant des articles 64 bis et 76 du code général des impôts est assise sur le montant des bénéfices déterminés aux mêmes articles 64 bis et 76, sous réserve de l'exclusion du montant des recettes des sommes mentionnées aux 1° et 2° du A du I du présent article et sous réserve de l'application, le cas échéant, des B et C du même I.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.

@@ -1,10 +1,6 @@
 # Article Annexe II : Tableau n° 52
 
-**Affections provoquées par le chlorure de vinyle monomère**
-
-(
-**DUREE D'EXPOSITION : SIX MOIS**
-).
+**Affections provoquées par le chlorure de vinyle monomère**(**DUREE D'EXPOSITION : SIX MOIS**).
 
 |  |  |  |
 | --- | --- | --- |

@@ -5,3 +5,6 @@ La présente sous-section s'applique aux opérations pratiquées par les institu
 1° Par un employeur ou un groupe d'employeurs au profit de leurs salariés ou anciens salariés, ou par un groupement professionnel représentatif d'employeurs au profit des salariés ou anciens salariés de ceux-ci. Ils revêtent un caractère collectif déterminé dans le cadre d'une des procédures mentionnées à l'article L. 911-1 ;
 
 2° Ou par une association mentionnée à l'article L. 144-1 du code des assurances.
+
+NOTA:
+Pour les conditions d'applications, se reporter à l'article 10-II et 10-IV de l'ordonnance n° 2017-484 du 6 avril 2017 relative à la création d'organismes dédiés à l'exercice de l'activité de retraite professionnelle supplémentaire et à l'adaptation des régimes de retraite supplémentaire en unités de rente.

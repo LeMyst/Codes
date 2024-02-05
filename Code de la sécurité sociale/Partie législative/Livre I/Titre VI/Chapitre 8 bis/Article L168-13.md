@@ -5,3 +5,8 @@ Tout paiement indu d'allocation journalière du proche aidant est récupéré su
 Lorsque l'indu notifié ne peut être récupéré sur les prestations mentionnées au premier alinéa du présent article, la récupération peut être opérée, sous les réserves indiquées au même premier alinéa, et si l'assuré n'opte pas pour le remboursement en un seul versement, par retenue sur les prestations mentionnées à l'avant-dernier alinéa de l'article L. 553-2, dans les conditions prévues au même avant-dernier alinéa.
 
 Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
+
+NOTA:
+Conformément aux dispositions du V de l'article 68 de la loi n° 2019-1446 du 24 décembre 2019, l'article L. 168-13 du code de la sécurité sociale, dans sa rédaction résultant du 3° du II dudit article, entre en vigueur à la date fixée par le décret en Conseil d'Etat prévu à l'article 3 de l'ordonnance n° 2019-765 du 24 juillet 2019 relative au droit de rectification des informations concernant les bénéficiaires des prestations sociales et des minima sociaux en cas de notification d'indus.
+
+Aux termes de l'article 3 de l'ordonnance n° 2019-765 du 24 juillet 2019, ses dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, au plus tôt le 1er janvier 2020 et au plus tard le 1er juillet 2020.

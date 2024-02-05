@@ -11,3 +11,6 @@ Il transmet au conseil stratégique de l'innovation en santé les rapports d'ét
 Le rapporteur général élabore chaque année un état des lieux des expérimentations achevées et en cours qu'il transmet aux ministres en charge de la santé et de la sécurité sociale, à destination du Parlement, conformément au VI de l'article L. 162-31-1.
 
 Il est chargé de s'assurer de la réalisation de l'évaluation des expérimentations et de transmettre les rapports d'évaluation au comité technique de l'innovation en santé, au conseil stratégique de l'innovation en santé et aux ministres en charge de la santé et de la sécurité sociale.
+
+NOTA:
+Conformément aux dispositions de l'article 2 ces dispositions s'appliquent à tous les projets d'expérimentation pour lesquels l'avis du comité technique de l'innovation pour la santé n'a pas été rendu.

@@ -17,3 +17,6 @@ a) Aux personnes mentionnées aux 1° à 3°, lorsque la France est exclusivemen
 b) Aux personnes mentionnées aux 1° et 3°, non mentionnées au a et dont la pension rémunère une durée d'assurance supérieure ou égale à quinze années au titre d'un régime français ;
 
 c) Aux enfants mineurs n'exerçant pas d'activité professionnelle et à la charge des personnes mentionnées aux a et b.
+
+NOTA:
+Conformément aux dispositions du 3° du IX de l'article 52 de la loi n° 2018-1203 du 22 décembre 2018, les dispositions des quatre derniers alinéas tels qu'ils résultent du 4° du II dudit article entrent en vigueur le 1er juillet 2019.

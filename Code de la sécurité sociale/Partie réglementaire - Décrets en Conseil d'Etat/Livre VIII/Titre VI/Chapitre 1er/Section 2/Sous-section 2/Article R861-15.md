@@ -7,3 +7,6 @@ Lorsqu'aucun revenu ou chiffre d'affaires résultant de l'activité indépendant
 Pour les dirigeants sociaux mentionnés à l'article 62 du code général des impôts qui débutent leur activité et n'ont pas encore déclaré de revenus à ce titre, est prise en compte dans les conditions mentionnées à l'article R. 861-8 du présent code, la part de bénéfice soumise à l'impôt sur le revenu en application de l'article 62 du code général des impôts.
 
 Dans le cas où le dirigeant est soumis à l'impôt sur les sociétés, lorsqu'il débute son activité, est prise en compte la rémunération sur la période de douze mois courant du treizième au deuxième mois civil précédant le mois de la demande auquel s'applique un abattement de 10 %.
+
+NOTA:
+Conformément au I de l'article 2 du décret n° 2021-1642 du 13 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -17,3 +17,6 @@ Il fixe la clôture de l'instruction ainsi que la date des débats.
 Postérieurement à la notification de l'ordonnance de clôture, les parties sont, sauf motif légitime, irrecevables à présenter des prétentions ou moyens nouveaux ou à communiquer de nouvelles pièces. Sont cependant recevables les demandes en intervention volontaire ainsi que les demandes de révocation de l'ordonnance de clôture. Sont également recevables les conclusions qui tendent à la reprise de l'instance en l'état où celle-ci se trouvait au moment de son interruption.
 
 Les décisions prises en vertu du présent article constituent des mesures d'administration judiciaire, à l'exception des décisions qui constatent l'extinction de l'instance ou déclarent le recours irrecevable qui sont susceptibles de pourvoi en cassation.
+
+NOTA:
+Conformément à l’article 12 du décret n° 2020-1452 du 27 novembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021. Elles s'appliquent aux instances en cours à cette date.

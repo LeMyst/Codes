@@ -15,3 +15,6 @@ Pour les organismes mentionnés au b de l'article L. 861-4, ces mêmes dépenses
 La Caisse nationale de l'assurance maladie transmet au Gouvernement, au plus tard le 1er septembre de chaque année, l'état des sommes correspondant à la prise en charge pour l'ensemble des organismes gestionnaires des dépenses mentionnées à l'article L. 861-3.
 
 Les modalités d'application du présent article sont précisées par décret.
+
+NOTA:
+Conformément au dernier alinéa du IV de l'article 88 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2023.

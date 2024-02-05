@@ -5,3 +5,6 @@ A l'issue du dépouillement du scrutin, la commission de recensement des votes c
 La commission de recensement des votes proclame les résultats du vote. Elle transmet ces résultats au directeur général de l'organisme concerné mentionné au premier alinéa de l'article R. 123-56, qui en assure, dans un délai de vingt-quatre heures, la publication sur un site internet à accès sécurisé et par affichage dans les locaux de chacun des organismes nationaux et locaux concernés
 
 Dans les quinze jours suivant la proclamation des résultats, un exemplaire du procès-verbal est adressé à l'autorité compétente de l'Etat déterminée conformément à l'article R. 123-1 ainsi qu'au prestataire agissant pour le compte du ministre chargé du travail mentionné à l'article R. 2314-22 du code du travail chargé de centraliser les résultats des élections professionnelles.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1275 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

@@ -13,3 +13,6 @@ Le service des prestations est subordonné au respect par la victime de l'obliga
 4° D'accomplir les exercices ou travaux prescrits en vue de favoriser sa rééducation ou son reclassement professionnel.
 
 En cas d'inobservation des obligations énumérées ci-dessus, la caisse peut suspendre, réduire ou supprimer le service des prestations.
+
+NOTA:
+Conformément aux III de l'article 87 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions sont applicables aux contestations, aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022.

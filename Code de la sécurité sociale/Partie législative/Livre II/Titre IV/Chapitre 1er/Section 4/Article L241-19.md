@@ -15,3 +15,6 @@ III.-L'exonération prévue au I est applicable, pour une durée de douze mois �
 IV.-L'employeur qui remplit les conditions fixées ci-dessus en fait la déclaration par écrit à la direction départementale du travail, de l'emploi et de la formation professionnelle dans les trente jours à compter de la date d'effet du contrat de travail. A défaut d'envoi de cette déclaration dans le délai imparti, le droit à l'exonération n'est pas applicable aux cotisations dues sur les revenus d'activité versés de la date de l'embauche au jour de l'envoi ou du dépôt de la déclaration, cette période étant imputée sur la durée d'application de l'exonération.
 
 Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une autre exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18.
+
+NOTA:
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier 2020.

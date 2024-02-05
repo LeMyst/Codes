@@ -21,3 +21,6 @@ Le 1° du I de l'article L. 213-1 n'est pas applicable au recouvrement :
 9° De la contribution mentionnée à l'article 14 de la loi n° 94-628 du 25 juillet 1994 relative à l'organisation du temps de travail, aux recrutements et aux mutations dans la fonction publique ;
 
 10° De la cotisation due au titre de l'allocation temporaire d'invalidité des agents des collectivités territoriales.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

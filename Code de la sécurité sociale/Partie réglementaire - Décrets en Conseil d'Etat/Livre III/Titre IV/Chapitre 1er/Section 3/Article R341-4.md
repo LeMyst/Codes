@@ -11,3 +11,6 @@ A compter du 1er janvier 1980, les salaires pris en considération pour le calcu
 Toutefois, lorsque l'assiette des cotisations fait l'objet d'un abattement par application des dispositions du septième alinéa du I de l'article R. 242-2, il est tenu compte du salaire brut perçu par l'assuré, sans abattement, dans la limite du plafond correspondant.
 
 Les salaires exonérés de cotisations entre le 1er avril et le 31 décembre 1987 en application de l'article L. 241-10 entrent en compte, s'il y a lieu, dans la détermination du salaire servant de base au calcul de la pension.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2022-257 du 23 février 2022, ces dispositions s'appliquent aux arrérages de pension dus à compter du 1er avril 2022.

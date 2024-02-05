@@ -17,3 +17,6 @@ II.-L'assuré qui demande la liquidation provisoire de sa pension de vieillesse 
 1° Une déclaration sur l'honneur attestant qu'il n'exerce qu'une seule activité professionnelle, laquelle le fait relever du 2° de l'article L. 161-22-1-5 à la date d'entrée en jouissance de la pension de vieillesse. Cette déclaration est accompagnée de tout document justifiant de cette situation ;
 
 2° Ses déclarations fiscales des revenus des cinq années précédant sa demande. Pour chaque année suivante, il produit avant le 1er juillet de l'année en cours la déclaration fiscale des revenus de l'année précédente.
+
+NOTA:
+Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.

@@ -13,3 +13,6 @@ Le complément de cotisations et contributions sociales résultant de la régula
 II.-Le renoncement à l'option prévue au I prend effet au plus tard le deuxième mois suivant celui au cours duquel les éléments mentionnés au deuxième alinéa du I de l'article R. 613-2 sont réceptionnés.
 
 Les cotisations et contributions sociales provisionnelles restant dues pour l'année en cours sont versées en autant de mensualités, d'un montant égal, qu'il reste de mois civils entre la date d'effet du renoncement et la fin de l'année considérée. Le cas échéant, le complément résultant de la régularisation des cotisations et contributions sociales de l'année précédente et de l'ajustement des cotisations provisionnelles de l'année en cours est versé lors des échéances restantes de l'année en cours.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

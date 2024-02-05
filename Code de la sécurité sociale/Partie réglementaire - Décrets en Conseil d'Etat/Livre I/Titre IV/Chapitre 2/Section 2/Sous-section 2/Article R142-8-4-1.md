@@ -9,3 +9,6 @@ Lorsqu'un examen clinique est demandé par la commission, le praticien désigné
 Le praticien désigné communique son rapport, qui comporte des conclusions motivées, dans un délai de quinze jours à compter de l'examen clinique ou dans un délai de vingt jours à compter de la réception des éléments mentionnés au deuxième alinéa.
 
 Le rapport du praticien désigné ne s'impose pas à la commission médicale de recours amiable. Il est joint au rapport établi par ladite commission.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

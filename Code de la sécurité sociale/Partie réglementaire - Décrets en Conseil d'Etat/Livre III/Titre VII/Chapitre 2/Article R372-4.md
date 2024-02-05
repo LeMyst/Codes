@@ -9,3 +9,6 @@ II.-Les volontaires en service civique ne sont pas pris en compte pour l'appréc
 III.-Les cotisations dues au titre des volontaires effectuant un engagement de service civique sont acquittées par l'organisme versant l'indemnité pour le compte de l'Agence du service civique, dans les conditions prévues au 1° de l'article R. 243-6, à une union de recouvrement des cotisations de sécurité sociale et d'allocations familiales désignée par le directeur de l'Agence centrale des organismes de sécurité sociale.
 
 IV.-Les dispositions de l'article R. 243-14 ne sont pas applicables aux personnes morales agréées en vertu de l'article L. 120-30 du code du service national au titre des volontaires en service civique.
+
+NOTA:
+Décret n° 2010-1032 du 30 août 2010 article 4 : L'article R. 372-4 dans sa rédaction antérieure à celle issue de l'article 1er du présent décret demeure applicable aux contrats ou engagements de volontariat maintenus en application de l'article 21 de la loi du 10 mars 2010 susvisée.

@@ -51,3 +51,10 @@ Les modalités selon lesquelles l'Agence centrale des organismes de sécurité s
 7° bis De compenser, dans la limite d'un montant fixé par arrêté des ministres chargés du travail, de la sécurité sociale et du budget, la perte de cotisations résultant, pour l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail, du dispositif de réduction dégressive prévu à l'article L. 241-13 du présent code, applicable aux cotisations dues à cet organisme par les employeurs relevant des organismes de recouvrement mentionnés aux articles L. 133-9, L. 213-1 et L. 752-1 du présent code ainsi qu'à ceux mentionnés aux a à f de l'article L. 5427-1 du code du travail ;
 
 8° D'assurer, en matière de marchés publics de services bancaires, la fonction de centrale d'achat, au sens de l'article 26 de l'ordonnance n° 2015-899 du 23 juillet 2015, pour le compte des caisses nationales et des organismes locaux du régime général.
+
+NOTA:
+Conformément au VI de l’article 5 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent aux observations notifiées à compter du 1er janvier 2024.
+
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au V de l'article 16 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

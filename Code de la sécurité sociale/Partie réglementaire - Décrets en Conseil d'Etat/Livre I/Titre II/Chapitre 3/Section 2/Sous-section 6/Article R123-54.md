@@ -5,3 +5,6 @@ Les représentants des salariés aux commissions paritaires nationales institué
 Ce scrutin, organisé tous les quatre ans au niveau national, se déroule dans les conditions prévues à la présente sous-section.
 
 La date de chaque élection est fixée par arrêté de l'autorité compétente de l'Etat déterminée conformément à l'article R. 123-1.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1275 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

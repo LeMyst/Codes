@@ -9,3 +9,6 @@ b) Soit qu'il ou elle a effectué au moins 150 heures de travail salarié ou ass
 Il ou elle doit, en outre, justifier de six mois d'affiliation à la date d'arrivée de l'enfant au foyer.
 
 Pour permettre le service de l'indemnité journalière de repos, il est remis à l'assuré ou à l'assurée, par le service départemental de l'aide sociale à l'enfance ou par l'oeuvre d'adoption autorisée, une attestation justifiant qu'un enfant lui est confié en vue de son adoption et précisant la date d'arrivée de l'enfant au foyer.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 3 du décret n° 2023-790 du 17 août 2023.

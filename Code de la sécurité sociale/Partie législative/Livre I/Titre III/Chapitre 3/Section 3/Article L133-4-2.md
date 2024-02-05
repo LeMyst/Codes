@@ -11,3 +11,6 @@ Dans ce cas, la proportion des réductions et exonérations annulées est égale
 IV.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles la dissimulation peut, au regard des obligations mentionnées aux articles L. 8221-3 et L. 8221-5 du code du travail, être considérée comme limitée pour l'application du III du présent article, sans que la proportion de l'activité dissimulée puisse excéder 10 % de l'activité. Le plafond de la dissimulation partielle de salariés s'apprécie au regard de l'activité.
 
 V.-Le III est applicable au donneur d'ordre.
+
+NOTA:
+Conformément au III de l’article 21 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions s'appliquent à toute annulation de réductions ou d'exonérations de cotisations de sécurité sociale ou de contributions n'ayant pas donné lieu à une décision de justice ayant un caractère irrévocable sur demande expresse du cotisant et sur présentation de justificatifs probants.

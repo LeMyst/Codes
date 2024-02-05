@@ -11,3 +11,8 @@ La Caisse nationale reverse aux sections professionnelles, selon des modalités 
 1° A la gestion administrative du régime de base et à l'action sociale ;
 
 2° Au service des prestations prévues au chapitre III du présent titre.
+
+NOTA:
+Conformément au III de l’article 12 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux conditions d'application prévues aux C, D, E et F de l'article 12 de la loi n° 2021-1754 du 23 décembre 2021.

@@ -9,3 +9,6 @@ L'agent comptable établit un compte financier au terme de chaque exercice. Le c
 Le compte financier de la Haute Autorité est préparé par l'agent comptable et soumis par le président du collège au collège qui entend l'agent comptable. Le compte financier est arrêté par le collège.L'agent comptable produit, selon des modalités fixées par arrêté du ministre chargé du budget, le compte financier et les pièces annexes au plus tard à l'expiration du quatrième mois suivant la clôture de l'exercice.
 
 Le rapport annuel fait une présentation du compte financier et reproduit le compte de résultat et le bilan.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

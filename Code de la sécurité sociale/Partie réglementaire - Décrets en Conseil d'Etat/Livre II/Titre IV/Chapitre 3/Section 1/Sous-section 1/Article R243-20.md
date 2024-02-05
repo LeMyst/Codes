@@ -9,3 +9,6 @@ Il ne peut pas être accordé de remise des majorations et des pénalités menti
 Le directeur de l'organisme de recouvrement est compétent pour statuer sur les demandes portant sur des montants inférieurs à un seuil fixé par arrêté du ministre chargé de la sécurité sociale. A partir de ce seuil, il est statué sur proposition du directeur par la commission de recours amiable. L'arrêté mentionné au présent alinéa peut fixer un seuil spécifique pour les travailleurs indépendants.
 
 Les décisions tant du directeur que de la commission de recours amiable sont motivées.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

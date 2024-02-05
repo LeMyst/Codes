@@ -7,3 +7,6 @@ Dans les cas mentionnés au premier alinéa, est pris en compte un nombre de tri
 Il ne peut être présenté de nouvelle demande avant l'expiration d'un délai de douze mois suivant la date de la notification mentionnée au premier alinéa du présent article, sans préjudice du délai mentionné au troisième alinéa de l'article D. 351-16.
 
 Le versement de cotisations ne peut être pris en compte avant la date à laquelle le paiement en a été intégralement effectué ou à laquelle il y a été mis fin.
+
+NOTA:
+Ces dispositions s'appliquent aux périodes de stage débutant postérieurement à la publication du décret n° 2015-284 du 11 mars 2015 précisant les modalités et conditions de validation des stages en entreprise par le régime général d'assurance vieillesse.

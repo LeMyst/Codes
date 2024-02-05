@@ -11,3 +11,6 @@ La date de versement de l'allocation est fixée par décret.
 Lorsqu'est perçu au titre de ce décès le montant prévu à l'article L. 361-1 du présent code et à l'article L. 6526-5 du code des transports ou le montant équivalent prévu dans le cadre des régimes d'invalidité décès mentionnés aux articles L. 632-1, L. 644-2 et L. 652-9 du présent code, des régimes de retraite complémentaire obligatoires mentionnés à l'article L. 921-1 et des régimes spéciaux mentionnés à l'article L. 711-1, par des ayants droit de l'enfant décédé, l'allocation forfaitaire n'est pas versée à la personne ou au ménage mentionné au premier alinéa du présent article.
 
 Tout paiement indu de cette allocation est récupéré selon les modalités prévues à l'article L. 553-2. Par dérogation, les prestations mentionnées au même article L. 553-2 ou recouvrées en application dudit article L. 553-2 et indûment versées ne peuvent pas être récupérées par retenue sur cette allocation forfaitaire.
+
+NOTA:
+Conformément au IV de l’article 5 de la loi n° 2020-692 du 8 juin 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard à compter du 1er janvier 2022, au titre des enfants dont le décès intervient à compter de cette date. Se reporter aux dispositions du V du même article en ce qui concerne le versement d'une l'allocation forfaitaire transitoire.

@@ -11,3 +11,6 @@ Le ministre chargé de la sécurité sociale ou son représentant et le préside
 Préalablement à la mise en oeuvre des dispositions de l'article L. 951-2, l'Autorité de contrôle entend le président et le vice-président du fonds de garantie.
 
 Le fonds est soumis au contrôle de l'Etat.
+
+NOTA:
+Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -2,8 +2,7 @@
 
 9 - APPAREIL RESPIRATOIRE
 
-9.1 PAROI THORACIQUE.
-
+9.1 PAROI THORACIQUE.\
 L'estimation des séquelles se fondera sur les éléments douloureux, la gêne respiratoire, la gêne au travail et sur l'insuffisance respiratoire qui pourrait être rattachée au traumatisme.
 
 En général, la fracture d'une ou plusieurs côtes, ou la fracture du sternum, n'entraîne pas d'incapacité partielle ; hormis les éléments douloureux éventuels, on doit rejeter comme dénuée de valeur la formule ancienne : 2 % que multiplie n côtes fracturées.

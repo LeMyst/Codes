@@ -421,28 +421,13 @@ Des toxiques sont résorbables par voie cutanée et cette pénétration percutan
 2.2 Évaluation
 
 |  | États séquellaires | Préjudice | Taux de base |
-| Gravité. | Atrophie sans rétraction.
-Alopécies définitives.
-Dyschromies.
-Ulcères. | Léger. | 0 à 10 %. |
-|  | Atrophies avec rétraction.
-Hyperkératoses.
-Lichénifications.
-Polysensibilisation. | Moyen. | 10 à 15 %. |
-|  | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.
-Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |
-| Topographie et étendue. | Main. | Main dominante :
-Pulpe :
-Pouce ;
-Index. | Coefficient de majoration : x 1 à 1,5. |
-|  | Pied. | Talon antérieur.
-Talon postérieur. | x 1 à 1,5. |
-|  | Cheville.
-Régions d'appui. | Face antérieure.
-Fesse.
-Région ischiatique. | x 1 à 1,5. |
-| Fonction. | Séquelles. | Sensitives motrices. | cf. Barème indicatif invalidité
-Accidents du travail. |
+| Gravité. | Atrophie sans rétraction.Alopécies définitives.Dyschromies.Ulcères. | Léger. | 0 à 10 %. |
+|  | Atrophies avec rétraction.Hyperkératoses.Lichénifications.Polysensibilisation. | Moyen. | 10 à 15 %. |
+|  | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |
+| Topographie et étendue. | Main. | Main dominante :Pulpe :Pouce ;Index. | Coefficient de majoration : x 1 à 1,5. |
+|  | Pied. | Talon antérieur.Talon postérieur. | x 1 à 1,5. |
+|  | Cheville.Régions d'appui. | Face antérieure.Fesse.Région ischiatique. | x 1 à 1,5. |
+| Fonction. | Séquelles. | Sensitives motrices. | cf. Barème indicatif invaliditéAccidents du travail. |
 
 2.3 Lésions cutanéo-muqueuses
 

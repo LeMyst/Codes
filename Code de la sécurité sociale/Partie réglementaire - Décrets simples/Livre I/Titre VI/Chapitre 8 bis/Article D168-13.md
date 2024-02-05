@@ -21,3 +21,6 @@ II.-L'allocation journalière du proche aidant est versée après déduction des
 1° Le montant de la contribution mentionnée à l'article 14 de l'ordonnance du 24 janvier 1996 relative au remboursement de la dette sociale déduit de cette allocation est tronqué au centième d'euro ;
 
 2° Le montant de la contribution mentionnée au II de l'article L. 136-8 déduit de cette allocation journalière est arrondi au centième d'euro.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-88 du 28 janvier 2022, les présentes dispositions sont applicables aux versements des allocations journalières du proche aidant et de présence parentale dus à compter du 1er janvier 2022.

@@ -9,3 +9,6 @@ Le praticien établit en triple exemplaire et remet à la victime un certificat 
 Une copie de cette déclaration et un exemplaire du certificat médical sont transmis immédiatement par la caisse primaire à l'inspecteur du travail chargé de la surveillance de l'entreprise ou, s'il y a lieu, au fonctionnaire qui en exerce les attributions en vertu d'une législation spéciale.
 
 Sans préjudice des dispositions de l'article L. 461-1, le délai de prescription prévu à l'article L. 431-2 court à compter de la cessation du travail.
+
+NOTA:
+Conformément au II de l'article 44 de la loi n° 2017-1836 du 30 décembre 2017, ces dispositions s'appliquent aux maladies professionnelles déclarées à compter du 1er juillet 2018.

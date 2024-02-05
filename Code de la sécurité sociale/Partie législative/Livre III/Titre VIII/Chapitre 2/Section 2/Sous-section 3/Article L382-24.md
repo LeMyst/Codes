@@ -7,3 +7,6 @@ Un décret détermine les modalités de calcul du montant de la pension.
 La pension d'invalidité est remplacée, à l'âge fixé en application de l'article L. 351-1-5, par la pension de vieillesse prévue à la sous-section 4 de la présente section.
 
 La pension d'invalidité est majorée d'un montant fixé par décret lorsque le titulaire se trouve dans l'obligation d'avoir recours à l'aide constante d'une tierce personne pour accomplir les actes ordinaires de la vie.
+
+NOTA:
+Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

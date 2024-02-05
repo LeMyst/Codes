@@ -5,3 +5,8 @@ Le titulaire de la carte Vitale est tenu d'effectuer la mise à jour de sa carte
 En cas de changement d'organisme assurant la prise en charge des frais de santé, le nouvel organisme de rattachement informe le titulaire de son obligation de mettre à jour la carte Vitale délivrée par le précédent organisme et des conditions dans lesquelles il doit l'effectuer.
 
 La carte ne peut plus être utilisée jusqu'à la mise à jour.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

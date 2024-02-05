@@ -61,3 +61,6 @@ Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables 
 Un décret précise, en tant que de besoin, les catégories d'élèves, d'étudiants et de stages ainsi que la nature des établissements mentionnés aux a. et b. du 2° ci-dessus.
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article et non assujetties aux assurances sociales en vertu du livre III ainsi que les personnes mentionnées au 13° et les personnes mentionnées au 15°, le décret en Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°, 11°, 12°, 15°, 16°, 17°, 18° et 19° des décrets prévus par ceux-ci, déterminent à qui incombent les obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent pas une rémunération normale, ils fixent les bases des cotisations et celles des indemnités.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

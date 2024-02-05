@@ -17,3 +17,6 @@ II. - Le I s'applique également :
 2° A toute mesure de réduction ou d'abattement de l'assiette de ces cotisations et contributions ;
 
 3° A toute modification des mesures non compensées à la date de l'entrée en vigueur de la loi organique n° 2005-881 du 2 août 2005 relative aux lois de financement de la sécurité sociale.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

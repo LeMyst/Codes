@@ -7,3 +7,6 @@ L'ouverture du droit est acquise sous cette condition pour la période qui, apr�
 Conformément à l'article L. 382-3-1, les personnes qui ne satisfont pas à la condition prévue au premier alinéa peuvent, néanmoins, à leur demande, cotiser sur l'assiette prévue au premier alinéa pour ouvrir droit auxdites prestations.
 
 L'ouverture du droit est réexaminée l'année suivante en fonction des revenus déclarés.
+
+NOTA:
+Conformément aux dispositions du 2° du I de l'article 8 du décret n° 2018-1185 du 19 décembre 2018, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

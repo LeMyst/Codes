@@ -9,3 +9,6 @@ II. - L'annulation des réductions ou exonérations de cotisations ou contributi
 Lorsqu'il n'a été procédé à aucune annulation contre le donneur d'ordre dans les cinq ans qui précèdent le constat du manquement, le plafond mentionné au premier alinéa du présent II est réduit à 15 000 € pour une personne physique et à 75 000 € pour une personne morale, sauf si le plafond prévu au même premier alinéa est inférieur à ces montants.
 
 III. - Les modalités d'application du présent article, en particulier la manière dont est assuré le respect du principe du contradictoire, sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

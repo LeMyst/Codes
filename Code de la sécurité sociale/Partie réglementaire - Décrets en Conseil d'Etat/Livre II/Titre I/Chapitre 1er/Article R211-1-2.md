@@ -35,3 +35,6 @@ Il rend périodiquement compte au conseil de la mise en oeuvre de ses orientatio
 Au plus tard à la fin du premier semestre de chaque année, il remet au conseil un rapport d'activité et de fonctionnement pour l'année écoulée retraçant notamment les orientations définies par le conseil, les actions mises en oeuvre pour les atteindre et les résultats constatés. Ce rapport est transmis au président du conseil et au directeur général de la Caisse nationale de l'assurance maladie ainsi qu'au service mentionné à l'article R. 155-1.
 
 En cas d'absence momentanée ou d'empêchement du directeur, ses fonctions sont exercées par le directeur adjoint. En cas d'absence ou d'empêchement du directeur ou du directeur adjoint, ou à défaut de directeur adjoint, les fonctions de directeur sont exercées par un agent de l'organisme désigné préalablement à cet effet par le directeur. En cas de vacance de l'emploi de directeur, le directeur général de la Caisse nationale de l'assurance maladie désigne la personne chargée d'effectuer l'intérim dans l'attente d'une nomination.
+
+NOTA:
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

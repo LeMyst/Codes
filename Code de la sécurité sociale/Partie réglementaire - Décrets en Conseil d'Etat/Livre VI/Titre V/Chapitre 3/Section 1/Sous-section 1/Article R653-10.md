@@ -5,3 +5,6 @@ Le bénéficiaire d'une pension de retraite qui poursuit ou reprend une activit�
 Le défaut de production, dans le délai prescrit, des documents prévus à l'alinéa précédent entraîne une pénalité d'un montant égal à celui fixé en application de l'article L. 133-3 pour l'abandon de la mise en recouvrement des créances à l'égard des cotisants. Si le retard excède un mois, une pénalité identique est automatiquement appliquée pour chaque mois ou fraction de mois de retard. Ces pénalités sont recouvrées dans les mêmes conditions et sous les mêmes garanties et sanctions que les majorations de retard afférentes aux cotisations dues au titre du présent chapitre.
 
 Les dispositions de l'article L. 653-7 sont applicables aux pensions dues à compter du premier jour du trimestre qui suit celui au cours duquel l'assuré remplit les conditions prévues par ces dispositions.
+
+NOTA:
+Conformément au décret n° 2014-1513 du 16 décembre 2014 article 4, ces dispositions sont applicables aux assurés dont la première pension prend effet à compter du 1er janvier 2015.

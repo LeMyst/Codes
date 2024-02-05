@@ -15,3 +15,6 @@ c) Lorsque le ménage a disposé d'un montant de ressources supérieur au plafon
 3° Lorsque la charge de l'enfant ou des enfants est assumée par une personne seule, les plafonds de ressources mentionnés au 2° sont majorés de 40 % ;
 
 4° Pour l'application du 2°, les revenus du ménage ou de la personne seule sont appréciés dans les conditions prévues aux articles R. 532-1 à R. 532-8.
+
+NOTA:
+Conformément à l'article 4, III du décret n° 2018-312 du 26 avril 2018, ces dispositions sont applicables aux prestations dues à compter du 1er avril 2018.

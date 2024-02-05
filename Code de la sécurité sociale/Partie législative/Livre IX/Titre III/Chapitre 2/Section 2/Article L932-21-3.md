@@ -19,3 +19,8 @@ II.-Lorsque l'adhésion à un règlement ou l'affiliation ou la souscription d'u
 A cet effet, l'institution de prévoyance met à la disposition de l'intéressé une fonctionnalité gratuite permettant d'accomplir, par voie électronique, la notification et les démarches nécessaires à la résiliation du contrat. Lorsque l'intéressé notifie la résiliation du contrat, l'institution de prévoyance lui confirme la réception de la notification et l'informe, sur un support durable et dans des délais raisonnables, de la date à laquelle le contrat prend fin et des effets de la dénonciation ou de la résiliation.
 
 Un décret fixe notamment les modalités techniques de nature à garantir une identification de l'adhérent ou du participant ainsi qu'un accès facile, direct et permanent à la fonctionnalité mentionnée au deuxième alinéa du présent II, telles que ses modalités de présentation et d'utilisation. Il détermine les informations devant être fournies par l'adhérent ou le participant.
+
+NOTA:
+Conformément au IV de l’article 17 de la loi n° 2022-1158 du 16 août 2022, ces dispositions entrent en vigueur à une date fixée par décret, qui ne peut être postérieure au 1er juin 2023. Elles s'appliquent aux contrats en cours d'exécution à la même date.
+
+Conformément à l’article 4 du décret n° 2023-182 du 16 mars 2023, ces dispositions entrent en vigueur le 1er juin 2023.

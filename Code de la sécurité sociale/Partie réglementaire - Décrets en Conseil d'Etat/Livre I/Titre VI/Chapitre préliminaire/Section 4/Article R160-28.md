@@ -21,3 +21,6 @@ Jusqu'à la résiliation de sa convention, l'organisme délégataire est tenu de
 La caisse nationale, décide, après concertation avec l'organe national représentant l'organisme délégataire dont la convention est résiliée, soit de confier à un autre organisme délégataire la reprise des opérations de gestion précédemment déléguées soit d'assurer elle-même la gestion de ces opérations.
 
 III. – Dans le cas prévu au 3° du I et si le service des prestations n'est pas assuré, le ministre chargé de la sécurité sociale peut, à l'issue d'une procédure contradictoire respectant les modalités prévues au II, mettre fin à la délégation des opérations de gestion, par arrêté pris après avis du directeur général de la caisse nationale chargée du régime obligatoire. Cet arrêté, qui entraîne de plein droit la résiliation de la convention, définit les modalités et les délais de reprise des opérations de gestion par la caisse nationale.
+
+NOTA:
+Conformément à l'article 17-V du décret n° 2018-174 du 9 mars 2018, les dispositions de l'article R. 160-28 dans leur rédaction antérieure audit décret restent applicables aux conventions mentionnées au 7° du XVI de l'article 15 de la loi de financement de la sécurité sociale pour 2018 et, pendant leur durée, aux relations entre les travailleurs indépendants concernés et les organismes conventionnés sous la réserve prévue au 1° dudit V.

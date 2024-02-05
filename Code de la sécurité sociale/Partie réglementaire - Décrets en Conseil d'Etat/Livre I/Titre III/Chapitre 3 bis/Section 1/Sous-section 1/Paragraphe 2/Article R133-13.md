@@ -43,3 +43,8 @@ A l'exception du taux mentionné au b du 2°, ce compte rendu est transmis au d�
 Un compte rendu peut être mis à la disposition de l'employeur, comportant notamment tout ou partie des éléments mentionnés du 1° au 5°, selon une autre périodicité que celle prévue au premier alinéa.
 
 VI.-Les manquements aux obligations prévues par le présent article sont sanctionnés dans les conditions prévues aux articles R. 243-12 à R. 243-14.
+
+NOTA:
+Conformément au II de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, pour les périodes d'emploi courant jusqu'au 31 décembre 2027, le compte rendu mentionné au 5° du V de l'article R. 133-13 du code de la sécurité sociale dans sa rédaction issue dudit décret peut être transmis au titre du constat d'anomalies résultant des vérifications prévues à l'article L. 133-5-3-1 du même code par les organismes et administrations destinataires de la déclaration mentionnée au I de l'article L. 133-5-3 du même code, selon des modalités qu'ils déterminent et au moyen d'une norme d'échanges autre que celle prévue à ce même article.
+
+Conformément au III de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, les dispositions du 3° du V de l'article R. 133-13 du code de la sécurité sociale dans sa rédaction issue du présent décret entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés de la sécurité sociale et du budget et au plus tard le 1er janvier 2028.

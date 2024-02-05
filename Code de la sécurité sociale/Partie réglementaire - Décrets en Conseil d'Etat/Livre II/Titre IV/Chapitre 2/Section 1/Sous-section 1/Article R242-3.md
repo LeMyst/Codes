@@ -9,3 +9,6 @@ Les mêmes obligations s'imposent au travailleur salarié ou assimilé qui se fa
 En l'absence des déclarations prévues aux alinéas précédents, chaque employeur calcule les cotisations sur la base de la rémunération totale, compte tenu des dispositions de l'article R. 242-2. Toute partie intéressée peut provoquer le remboursement des cotisations versées en trop.
 
 Les dispositions du présent article ne sont pas applicables lorsqu'un employeur met en œuvre la dérogation prévue par le deuxième alinéa de l'article L. 242-3.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

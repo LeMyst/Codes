@@ -11,3 +11,6 @@ L'inscription, qui fait suite à une demande présentée par l'exploitant du dis
 L'inscription peut être subordonnée par l'arrêté mentionné au premier alinéa au respect de spécifications techniques, d'indications de télésurveillance médicale et de conditions particulières de prescription, d'utilisation et de distribution.
 
 Cette inscription peut également être subordonnée par ce même arrêté au dépôt auprès des ministres chargés de la santé et de la sécurité sociale, par les exploitants des dispositifs, d'un certificat de conformité aux référentiels d'interopérabilité et de sécurité prévus à l'article L. 1470-5 du code de la santé publique. Le certificat de conformité est établi par un organisme désigné par décret.
+
+NOTA:
+Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.

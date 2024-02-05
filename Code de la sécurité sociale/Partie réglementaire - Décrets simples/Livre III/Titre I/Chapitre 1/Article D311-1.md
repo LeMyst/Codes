@@ -59,3 +59,12 @@ Les personnes qui contribuent de façon occasionnelle à l'exécution d'une miss
 28° Les médecins habilités par le ministre chargé des gens de mer et les médecins membres des collèges médicaux maritimes mentionnés à l'article 6 et au III de l'article 18 du décret n° 2015-1574 du 3 décembre 2015 relatif au service de santé des gens de mer, au titre des frais et honoraires versés en application de ces articles ;
 
 29° Les représentants des retraités militaires au sein du Conseil supérieur de la fonction militaire mentionné à l'article L. 4124-1 du code de la défense, au titre des indemnités versées en application du décret n° 2023-271 du 14 avril 2023.
+
+NOTA:
+Conseil d'Etat, décision n° 397362-397531 du 17 mars 2017 (ECLI:FR:CECHR:2017:397362.20170317), article 3 :
+L’article 1er
+
+du décret n° 2015-1869 du 30 décembre 2015 est annulé en tant qu’il ne fait pas figurer les experts
+désignés par le juge judiciaire pour accomplir des expertises médicales, psychiatriques ou psychologiques, autres que les médecins et psychologues exerçant des activités d’expertises médicales, psychiatriques ou psychologiques rémunérés en application des dispositions de l’article R. 91 du code de procédure pénale et qui ne sont pas affiliés à un régime de travailleurs non salariés, sur la liste, fixée à l’article D. 311-1 du code de la sécurité sociale, des collaborateurs occasionnels du service public au sens du 21° de l’article L. 311-3 du même code.
+
+Conformément au I de l'article 30 du décret n° 2021-837 du 29 juin 2021, ces dispositions entrent en vigueur le 1er août 2021.

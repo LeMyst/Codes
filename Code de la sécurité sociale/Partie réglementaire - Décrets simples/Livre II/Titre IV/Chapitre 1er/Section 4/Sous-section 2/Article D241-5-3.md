@@ -13,3 +13,6 @@ Les employeurs doivent procéder, à l'expiration de ladite période, à une ré
 2° Si ce montant est inférieur à la somme des rémunérations exonérées au cours de chacun des mois, les cotisations calculées sur l'écart constaté sont versées en même temps que celles afférentes à la rémunération versée au cours du dernier mois de la période considérée ; s'il est supérieur, le trop-versé de cotisations est déduit des cotisations patronales d'assurances sociales et d'allocations familiales dues au titre de ce même mois ou, le cas échéant, des mois suivants.
 
 La régularisation mentionnée à l'alinéa ci-dessus intervient dans le délai mentionné au dernier alinéa de l'article R. 243-14 en cas de cessation d'activité ou, le cas échéant, de cession de l'organisme d'aide à domicile.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2018-1357 du 28 décembre 2018, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

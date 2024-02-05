@@ -19,3 +19,6 @@ Le montant des indemnités allouées aux présidents et aux présidents suppléa
 Leurs frais de déplacement sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
 Ces indemnités et frais sont à la charge de l'organe de l'ordre.
+
+NOTA:
+Conformément au V de l'article 15 de l'ordonnance n° 2017-644 du 27 avril 2017, les dispositions du présent article entrent en vigueur à compter du 1er janvier 2018.

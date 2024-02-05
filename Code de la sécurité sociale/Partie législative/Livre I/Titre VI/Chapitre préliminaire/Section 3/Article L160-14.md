@@ -71,3 +71,8 @@ b) Cette ou ces affections nécessitent un traitement prolongé et une thérapeu
 La liste mentionnée au 3° du présent article comporte également en annexe les critères médicaux utilisés pour la définition de l'affection et ouvrant droit à la limitation ou à la suppression de la participation de l'assuré.
 
 Sur proposition de l'Union nationale des caisses d'assurance maladie, un décret, pris après avis de la haute autorité mentionnée à l'article L. 161-37, peut réserver la limitation ou la suppression de la participation des assurés en application des 3° et 4° du présent article aux prestations exécutées dans le cadre d'un dispositif d'appui à la coordination mentionné à l'article L. 6327-2 du code de la santé publique, d'un dispositif spécifique régional mentionné à l'article L. 6327-6 du même code ou d'un dispositif coordonné de soins.
+
+NOTA:
+Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au IV de l’article 37 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024. Le 29° du présent article s'applique aux vaccins administrés à compter du 1er octobre 2023.

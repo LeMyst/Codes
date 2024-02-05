@@ -5,3 +5,6 @@ I.-Des arrêtés des ministres chargés de la santé et de la sécurité sociale
 Des arrêtés des mêmes ministres peuvent également modifier les conditions de délivrance de ces spécialités, en prévoyant notamment que la délivrance peut être effectuée en pharmacie d'officine ou en pharmacie à usage intérieur de certains établissements de santé.
 
 II.-La liste des spécialités prises en charge au titre de l'article L. 162-16-5-2 et les indications dans lesquelles ces prises en charge interviennent pour les autorisations délivrées au titre du deuxième alinéa du II et pour les cadres de prescription au titre du III de l'article L. 5121-12-1 du code la santé publique sont rendues publiques sur le site internet du ministère chargé de la santé et de la sécurité sociale.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

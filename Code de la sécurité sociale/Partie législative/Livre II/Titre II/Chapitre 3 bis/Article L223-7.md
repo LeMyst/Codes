@@ -57,3 +57,6 @@ Le directeur représente la caisse en justice et dans tous les actes de la vie c
 V.-Le conseil scientifique peut être saisi par le conseil ou par le directeur de toute question d'ordre technique ou scientifique qui entre dans le champ de compétence de la caisse, notamment dans le cadre des missions mentionnées aux 3°, 4° et 5° du I de l'article L. 223-5.
 
 La composition de ce conseil ainsi que les conditions de la désignation de ses membres et les modalités de son fonctionnement sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

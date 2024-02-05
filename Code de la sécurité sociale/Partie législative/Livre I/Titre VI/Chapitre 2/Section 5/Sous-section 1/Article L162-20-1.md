@@ -25,3 +25,8 @@ III.-Par exception aux 2° et 3° du II du présent article, les tarifs nationau
 IV.-Lorsqu'un patient relevant d'un système de sécurité sociale coordonné avec le régime français de sécurité sociale bénéficie d'une ou plusieurs spécialités pharmaceutiques, produits et prestations mentionnés aux articles L. 162-22-7, L. 162-22-7-3, L. 162-23-6 et L. 162-23-6-1, la facturation de ses soins est majorée du coût de ces spécialités, produits et prestations.
 
 V.-Les tarifs issus de la tarification nationale journalière des prestations prennent effet à compter du 1er janvier de l'année.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au D du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, jusqu'au 31 décembre 2025, par dérogation au présent article dans sa rédaction résultant des 1° et 5° du D du I dudit article 49, les tarifs et les coefficients mentionnés au présent article prennent effet au 1er mars de l'année en cours.

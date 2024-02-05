@@ -37,3 +37,6 @@ V ter.-Le bénéfice de l'exonération prévue au présent article est subordonn
 V quater.-L'exonération de cotisations sociales des sommes versées par l'employeur à ses salariés en application des articles L. 3261-2 à L. 3261-3-1 du code du travail, résultant de l'article L. 242-1 du présent code, est applicable à Saint-Pierre et Miquelon.
 
 VI.-Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+NOTA:
+Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

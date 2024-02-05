@@ -15,3 +15,6 @@ Toute personne utilisant le dispositif simplifié mentionné au premier alinéa 
 Toutefois, peuvent procéder à ces mêmes formalités sur support papier les personnes qui, en application de l'article 1649 quater B quinquies du code général des impôts, ne sont pas tenues d'effectuer par voie dématérialisée la déclaration prévue à l'article 170 du même code.
 
 Le non-respect de l'obligation de procéder par voie dématérialisée à ces différentes formalités entraîne l'application de la majoration prévue à l'article L. 133-5-5 du présent code.
+
+NOTA:
+Conformément à l’article 29, II de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions sont applicables aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2021.

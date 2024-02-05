@@ -9,3 +9,6 @@ Lorsque les éléments énumérés au I de l'article L. 131-6 et à l'article L.
 Par dérogation au deuxième alinéa, sur demande du cotisant, les cotisations provisionnelles peuvent être calculées sur la base de l'assiette de cotisations estimée pour l'année en cours.
 
 Lorsque les données nécessaires au calcul des cotisations n'ont pas été transmises, celles-ci sont calculées dans les conditions prévues à l'article L. 242-12-1.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

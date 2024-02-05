@@ -9,3 +9,6 @@ En cas de séparation de corps, de divorce ou de nouveau veuvage, de rupture ou 
 1°) si le rétablissement de la rente prend effet avant l'expiration de la période mentionnée au premier alinéa du présent article, cette rente est diminuée du montant de la somme déjà attribuée, en application du même alinéa, au titre de la partie restant à courir de ladite période ;
 
 2°) S'il reçoit, en raison d'un nouveau décès, une rente, pension ou allocation, en application d'une des dispositions du présent code, de l'un des régimes prévus à l'article L. 711-1 ou à l'article L. 413-12 ou de l'une des dispositions du code rural et de la pêche maritime ou s'il reçoit, en raison d'une séparation de corps ou d'un divorce, une pension alimentaire ou une aide financière en cas de dissolution du pacte civil de solidarité, le montant de l'avantage dont il bénéficie s'impute sur celui de la rente de conjoint survivant.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

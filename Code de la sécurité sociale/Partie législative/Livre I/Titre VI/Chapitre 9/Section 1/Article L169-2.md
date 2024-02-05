@@ -21,3 +21,6 @@ Ne sont pas applicables aux personnes mentionnées à l'article L. 169-1 :
 8° bis Les conditions d'ouverture du droit prévu à l'article L. 341-2 lorsque la mise en invalidité résulte de l'acte de terrorisme ;
 
 9° Le délai et la durée minimale d'affiliation mentionnés au cinquième alinéa de l'article L. 732-4 du code rural et de la pêche maritime, le délai et la sanction mentionnés au neuvième alinéa du même article, le délai mentionné au premier alinéa de l'article L. 751-26 du même code, le délai mentionné à l'avant-dernier alinéa de l'article L. 752-5 dudit code et le délai et la sanction mentionnés au premier alinéa de l'article L. 752-24 du même code, pour les interruptions de travail résultant de l'acte de terrorisme.
+
+NOTA:
+Conformément au V de l'article 2 de la loi n° 2023-567 du 7 juillet 2023, ces dispositions sont applicables aux arrêts de travail prescrits à compter d'une date prévue par décret, et au plus tard du 1er janvier 2024.

@@ -13,3 +13,6 @@ Une convention entre l'organisme mentionné au premier alinéa et chacun de ses 
 Les données communiquées sont couvertes par le secret professionnel. Elles ne peuvent être utilisées à d'autres fins que celles exposées au premier alinéa. Elles ne peuvent être communiquées ou cédées à des tiers sous quelque forme ou pour quelque finalité que ce soit.
 
 Seules les données relatives au recouvrement des cotisations ou contributions sociales se rapportant aux trois dernières années civiles suivant la date d'exigibilité de ces cotisations ou contributions peuvent être communiquées en application du premier alinéa.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-136 du 5 février 2022, ces dispositions sont applicables aux versements réalisés par l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale à compter du 1er janvier 2022.

@@ -11,3 +11,6 @@ Il en est de même pour le risque vieillesse en ce qui concerne :
 2°) Le parent ou le parent chargé de famille résidant en France ainsi que le parent ou le parent chargé de famille ayant été à la charge, à quelque titre que ce soit, d'un régime obligatoire français d'assurance maladie pendant une durée déterminée par décret, résidant hors du territoire français qui ne relève pas, à titre personnel, d'un régime obligatoire d'assurance vieillesse et qui satisfait à des conditions fixées par décret, notamment en ce qui concerne la situation de famille.
 
 Il en est de même pour le risque invalidité en ce qui concerne le parent chargé de famille et résidant en France, qui n'exerce pas d'activité professionnelle et qui satisfait à des conditions fixées par décret, relatives à l'ouverture des droits et à la situation de famille.
+
+NOTA:
+Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.

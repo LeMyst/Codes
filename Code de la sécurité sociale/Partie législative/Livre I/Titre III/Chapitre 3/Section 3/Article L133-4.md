@@ -27,3 +27,6 @@ En cas de rejet total ou partiel des observations de l'intéressé, le directeur
 Lorsque la mise en demeure reste sans effet, le directeur de l'organisme peut délivrer une contrainte qui, à défaut d'opposition du débiteur devant le tribunal judiciaire spécialement désigné en application de l'article L. 211-16 du code de l'organisation judiciaire, comporte tous les effets d'un jugement et confère notamment le bénéfice de l'hypothèque judiciaire. Une majoration de 10 % est applicable aux sommes réclamées qui n'ont pas été réglées aux dates d'exigibilité mentionnées dans la mise en demeure. Cette majoration peut faire l'objet d'une remise.
 
 IV.-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+NOTA:
+Conformément au VII de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

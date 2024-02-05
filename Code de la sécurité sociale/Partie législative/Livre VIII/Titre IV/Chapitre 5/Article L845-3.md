@@ -17,3 +17,6 @@ Un décret détermine le montant au-dessous duquel la prime d'activité indûmen
 La créance peut être remise ou réduite par l'organisme mentionné au premier alinéa du présent article, en cas de bonne foi ou de précarité de la situation du débiteur, sauf si cette créance résulte d'une manœuvre frauduleuse ou d'une fausse déclaration.
 
 Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
+
+NOTA:
+Conformément au IV de l’article 100 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -19,3 +19,6 @@ Le conseil d'administration a pour rôle :
 8° D'approuver sur proposition du président les placements ou dépôts des disponibilités excédant les besoins de trésorerie, dans le respect des dispositions de l'article R. 135-14 ;
 
 Les procès-verbaux des séances du conseil d'administration sont communiqués au ministre chargé de la sécurité sociale et au ministre chargé du budget dans les quinze jours qui suivent la réunion du conseil.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2015-1240 du 7 octobre 2015, les dispositions du présent article entrent en vigueur à la date de publication de la nomination du président du fonds de solidarité vieillesse en application du septième alinéa de l'article R. 135-2, et au plus tard le 1er janvier 2016.

@@ -5,3 +5,6 @@ La décision de la caisse mentionnée aux articles R. 743-3-1, R. 743-3-2 et R. 
 L'absence de notification dans les délais prévus aux articles R. 743-3-1, R. 743-3-2 et R. 743-3-4 vaut reconnaissance du caractère professionnel de l'accident, de la maladie, de la rechute ou de la nouvelle lésion.
 
 La caisse informe le médecin traitant de la décision mentionnée au premier alinéa.
+
+NOTA:
+Conformément au I de l'article 4 du décret n° 2021-554 du 5 mai 2021, ces dispositions, dans leur rédaction issue du I de l'article 2 dudit décret, s'appliquent aux accidents du travail, maladies professionnelles, rechutes et nouvelles lésions déclarés à compter du 1er janvier 2022.

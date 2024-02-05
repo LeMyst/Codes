@@ -5,3 +5,6 @@ Lorsqu'un assuré, titulaire d'une pension ou d'une rente de vieillesse du régi
 Lorsqu'un assuré, non encore titulaire d'une pension ou d'une rente de vieillesse, a disparu de son domicile depuis plus d'un an, son conjoint peut également obtenir, à titre provisoire, la liquidation des droits qui lui auraient été reconnus en cas de décès de l'assuré.
 
 La liquidation provisoire des droits du conjoint devient définitive lorsque le décès est officiellement établi ou lorsque l'absence a été déclarée par jugement passé en force de chose jugée.
+
+NOTA:
+Code de la sécurité sociale L643-10 : Dispositions applicables à l'assurance vieillesse des professions libérales, L811-12 : ainsi qu'aux conjoints des titulaires de l'AVTS.

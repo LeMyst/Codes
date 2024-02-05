@@ -23,3 +23,6 @@ f) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant, po
 4° Le financement des autres dépenses d'intervention en faveur des personnes handicapées, des personnes âgées dépendantes et des proches aidants entrant dans le champ des missions de la Caisse nationale de solidarité pour l'autonomie définies à l'article L. 223-5. A cette fin, elle peut contribuer au financement d'actions contractualisées avec les conseils départementaux et les métropoles pour la transformation inclusive de l'offre médico-sociale ou d'autres formes d'habitat dans leurs domaines de compétence ainsi qu'au financement du fonds prévu à l'article L. 1435-8 du code de la santé publique pour le soutien à des actions, des expérimentations, des dispositifs ou des structures qui participent à la prise en charge des personnes âgées et des personnes handicapées ;
 
 5° Le financement de la gestion administrative.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

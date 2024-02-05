@@ -2,9 +2,7 @@
 
 Au 1er avril 2016, le montant de l'indemnité en capital mentionnée à l'article L. 434-1 est fixé selon le barème suivant :
 
-| TAUX D'INCAPACITÉ PERMANENTE
-(en pourcentage)  | MONTANT DE L'INDEMNITÉ
-(en euros)  |
+| TAUX D'INCAPACITÉ PERMANENTE (en pourcentage)  | MONTANT DE L'INDEMNITÉ (en euros)  |
 | --- | --- |
 | 1  | 411,12  |
 | 2  | 668,20  |

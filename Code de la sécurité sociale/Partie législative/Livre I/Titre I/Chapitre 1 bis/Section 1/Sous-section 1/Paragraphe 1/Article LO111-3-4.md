@@ -15,3 +15,6 @@ c) Approuve le montant de la compensation mentionnée à l'annexe prévue au 2°
 d) Retrace l'équilibre financier de la sécurité sociale dans des tableaux d'équilibre établis pour l'ensemble des régimes obligatoires de base, par branche, ainsi que pour les organismes concourant au financement de ces régimes ;
 
 e) Arrête la liste des régimes obligatoires de base et des organismes concourant à leur financement habilités à recourir à des ressources non permanentes, ainsi que les limites dans lesquelles leurs besoins de trésorerie peuvent être couverts par de telles ressources.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

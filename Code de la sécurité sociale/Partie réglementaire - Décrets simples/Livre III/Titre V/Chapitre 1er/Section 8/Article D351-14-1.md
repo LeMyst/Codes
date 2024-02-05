@@ -11,3 +11,6 @@ II.-Le montant forfaitaire prévu au I est égal à :
 III.-Le nombre de trimestres pouvant faire l'objet de l'abattement forfaitaire prévu au I est limité à quatre. Ce seuil est réduit, le cas échéant, du nombre de trimestres ayant fait l'objet d'un versement de cotisations par l'assuré en application de l'article L. 351-17.
 
 IV.-Par dérogation aux seuils mentionnés aux trois premiers alinéas de l'article D. 351-11, l'assuré bénéficiant de l'abattement forfaitaire prévu au I du présent article peut opter pour un échelonnement du versement sur une période d'un, trois ou cinq ans, quel que soit le nombre de trimestres sur lequel porte la demande de versement.
+
+NOTA:
+Conformément au II de l’article 3 du décret n° 2023-800 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.

@@ -9,3 +9,12 @@ Le nombre des membres de cette commission et les modalités de son fonctionnemen
 Cette commission exerce les attributions de la commission prévue à l'article L. 712-5 ainsi que celles de la commission prévue à l'article R. 142-1.
 
 Les difficultés nées de l'application des dispositions de l'article L. 712-3 sont soumises pour avis aux commissions prévues au présent article avant toute décision du ministre intéressé.
+
+NOTA:
+Code de la sécurité sociale D712-8 : dispositions applicables aux magistrats de l'ordre judiciaire.
+
+Code de la sécurité sociale D712-44 : dispositions applicables aux stagiaires.
+
+Code de la sécurité sociale D712-50 : dispositions applicables aux fonctionnaires civils dans les TOM.
+
+Code de la sécurité sociale D712-8 : champ d'application.

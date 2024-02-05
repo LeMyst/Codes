@@ -21,3 +21,6 @@ Lorsqu'une transaction est devenue définitive après accomplissement des obliga
 V.-Toute convention portant sur les éléments mentionnés aux 1° à 3° du II doit, à peine de nullité, respecter les conditions et la procédure fixées au présent article et les textes pris pour son application.
 
 VI.-La transaction conclue par la personne physique mentionnée au I du présent article engage l'organisme de recouvrement. L'article L. 243-6-4 est applicable aux transactions.
+
+NOTA:
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

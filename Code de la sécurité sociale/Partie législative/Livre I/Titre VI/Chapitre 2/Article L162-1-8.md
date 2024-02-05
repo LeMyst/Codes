@@ -21,3 +21,6 @@ Dans le cas prévu au 3° du présent article, l'acte reste pris en charge dans 
 Les modalités d'application du présent article, notamment la définition des critères mentionnés aux 1° à 3°, sont déterminées par décret en Conseil d'Etat. Les modalités relatives aux délais sont fixées par décret.
 
 Le ministre chargé de la santé peut procéder d'office à l'inscription ou à la radiation d'un acte ou d'une prestation pour des raisons de santé publique par arrêté pris après avis de la Haute Autorité de santé. Dans ce cas, il fixe la hiérarchisation de l'acte ou de la prestation dans le respect des règles mentionnées ci-dessus. Les tarifs de ces actes et prestations sont publiés au Journal officiel.
+
+NOTA:
+Conformément au IV de l'article 38 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions entrent en vigueur le 1er avril 2020.

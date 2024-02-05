@@ -3,3 +3,6 @@
 Le secrétariat du conseil d'orientation stratégique et du comité restreint du fonds est assuré par la Caisse nationale de l'assurance maladie.
 
 III.-Une convention financière signée par le directeur général de la Caisse nationale de l'assurance maladie est conclue avec chaque bénéficiaire des financements attribués par le fonds.
+
+NOTA:
+Au lieu de "III.-Une" lire "Une".

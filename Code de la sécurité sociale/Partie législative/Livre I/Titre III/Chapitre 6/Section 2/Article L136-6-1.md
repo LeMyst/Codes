@@ -11,3 +11,6 @@ Les demandes présentées en application des articles 204 J à 204 L du code gé
 3. Le montant du prélèvement payé au cours d'une année s'impute sur le montant des contributions et prélèvements mentionnés au deuxième alinéa du 2 du présent article dû au titre de cette même année. S'il excède le montant dû, l'excédent est restitué.
 
 1. Le prélèvement est recouvré et contrôlé selon les mêmes modalités et sous les mêmes garanties, sanctions et sûretés que l'acompte prévu au 2° du 2 de l'article 204 A du code général des impôts.
+
+NOTA:
+Conformément à l'article 11 de a loi n° 2017-1775 du 28 décembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.

@@ -9,3 +9,6 @@ Un décret précise les modalités et conditions d'application du présent artic
 2° Le mode de calcul des cotisations et les modalités d'échelonnement de leur versement.
 
 Le nombre de trimestres ayant fait l'objet d'un versement de cotisations en application du présent article est déduit du nombre de trimestres éligibles au rachat prévu au II de l'article L. 351-14-1.
+
+NOTA:
+Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

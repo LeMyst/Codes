@@ -1,7 +1,6 @@
 # Article L162-1-15
 
-I.-Le directeur de l'organisme local d'assurance maladie peut décider, après que le professionnel de santé a été mis en mesure de présenter ses observations, de subordonner à l'accord préalable du service du contrôle médical, pour une durée ne pouvant excéder six mois, la couverture d'actes, produits ou prestations figurant sur les listes mentionnées aux articles L. 162-1-7,
-L. 162-17 et L. 165-1 ainsi que des frais de transport ou le versement des indemnités journalières mentionnés, respectivement, au 2° de l'article L. 160-8 et à l'article L. 321-1 et aux 1° et 2° de l'article L. 431-1 du présent code ainsi qu'aux 1° et 2° de l'article L. 752-3 du code rural et de la pêche maritime, en cas de constatation par ce service :
+I.-Le directeur de l'organisme local d'assurance maladie peut décider, après que le professionnel de santé a été mis en mesure de présenter ses observations, de subordonner à l'accord préalable du service du contrôle médical, pour une durée ne pouvant excéder six mois, la couverture d'actes, produits ou prestations figurant sur les listes mentionnées aux articles L. 162-1-7, L. 162-17 et L. 165-1 ainsi que des frais de transport ou le versement des indemnités journalières mentionnés, respectivement, au 2° de l'article L. 160-8 et à l'article L. 321-1 et aux 1° et 2° de l'article L. 431-1 du présent code ainsi qu'aux 1° et 2° de l'article L. 752-3 du code rural et de la pêche maritime, en cas de constatation par ce service :
 
 1° Du non-respect par le professionnel de santé des conditions prévues, respectivement, au 2° de l'article L. 160-8 et à l'article L. 321-1 et au 1° ou au 2° de l'article L. 431-1 du présent code ainsi qu'aux 1° et 2° de l'article L. 752-3 du code rural et de la pêche maritime ;
 
@@ -28,3 +27,6 @@ II.-Le directeur peut également, conjointement avec le service du contrôle mé
 II bis.-La décision mentionnée au premier alinéa du I est notifiée après avis conforme du directeur de l'Union nationale des caisses d'assurance maladie ou de son représentant désigné à cet effet. Son avis est réputé conforme dans un délai précisé par voie réglementaire.
 
 III.-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au II de l'article 63 de la loi n° 2023-1250 du 26 décembre 2023 : ces dispositions s'appliquent à compter du 1er février 2024.

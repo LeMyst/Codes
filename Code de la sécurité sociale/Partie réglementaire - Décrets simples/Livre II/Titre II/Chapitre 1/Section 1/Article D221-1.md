@@ -19,3 +19,6 @@ Le compte de résultat de la branche mentionnée au 1° de l'article L. 200-2 en
 8° Les autres ressources mentionnées au IV de l'article L. 241-2 autres que celles mentionnées au 7° ;
 
 9° Le solde des opérations mentionnées au premier alinéa de l'article D. 134-12.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-561 du 16 avril 2022, ces dispositions s'appliquent aux comptes de la branche autonomie du régime général, des organismes d'assurance maladie ainsi que des organismes débiteurs de prestations familiales afférents aux exercices clos à compter du 31 décembre 2021.

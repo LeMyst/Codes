@@ -13,3 +13,6 @@ b) Le médecin-conseil dans les cas mentionnés au b ;
 c) Le médecin-expert ou consultant désigné par une juridiction saisie d'une contestation relevant du 1° de l'article L. 142-1 et de l'article L. 142-2 excepté son 4° ;
 
 d) Le médecin expert dans les cas mentionnés au d.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

@@ -7,3 +7,6 @@ Ces conditions d'activité sont réputées remplies si l'assuré justifie que le
 Il doit, en outre, justifier de six mois d'immatriculation à la date d'arrivée de l'enfant à son foyer.
 
 Pour permettre le service de l'indemnité journalière de repos, il est remis à l'intéressé, par la direction départementale des affaires sanitaires et sociales ou par l'oeuvre d'adoption autorisée une attestation justifiant qu'un enfant lui est confié en vue de son adoption ainsi que la date d'arrivée de l'enfant au foyer.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 3 du décret n° 2023-790 du 17 août 2023.

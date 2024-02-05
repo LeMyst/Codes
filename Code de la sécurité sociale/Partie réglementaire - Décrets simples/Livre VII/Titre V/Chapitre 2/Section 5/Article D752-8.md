@@ -31,3 +31,6 @@ VI.-Les entreprises de travail temporaire bénéficient pour chaque mission de l
 Pour les salariés en contrat de travail temporaire mis à disposition au cours d'une année auprès de plusieurs entreprises utilisatrices, le coefficient mentionné aux II, III et IV est déterminé pour chaque mission.
 
 Les dispositions du deuxième alinéa du présent VI ne s'appliquent pas aux salariés intérimaires titulaires d'un contrat de travail à durée indéterminée n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail et ouvrant droit à une garantie minimale mensuelle au moins égale pour un temps plein à 151,67 fois le montant horaire du salaire minimum de croissance, en application des dispositions d'une convention de branche ou d'un accord professionnel ou interprofessionnel étendu.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-199 du 15 mars 2019, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.

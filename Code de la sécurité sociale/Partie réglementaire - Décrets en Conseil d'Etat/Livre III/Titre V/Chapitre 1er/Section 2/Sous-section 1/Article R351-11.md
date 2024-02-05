@@ -1,7 +1,6 @@
 # Article R351-11
 
-I.-Sous réserve, pour la période du 1er avril au 31 décembre 1987, de l'application de l'article L. 241-10, il est tenu compte, pour l'ouverture du droit et le calcul des pensions de vieillesse prévues aux articles L. 351-1,
-L. 351-7 et L. 352-1, de toutes les cotisations d'assurance vieillesse versées pour les périodes antérieures à l'entrée en jouissance de la pension, quelle que soit la date de leur versement. Toutefois, il n'est tenu compte des cotisations versées en cas de redressement d'assiette sur la base d'une rémunération forfaitaire prévu à l'article L. 242-1-2 que pour leur fraction correspondant à une assiette égale à deux fois la rémunération mensuelle minimale définie à l'article L. 3232-1 du code du travail en vigueur au moment du constat du délit de travail dissimulé.
+I.-Sous réserve, pour la période du 1er avril au 31 décembre 1987, de l'application de l'article L. 241-10, il est tenu compte, pour l'ouverture du droit et le calcul des pensions de vieillesse prévues aux articles L. 351-1, L. 351-7 et L. 352-1, de toutes les cotisations d'assurance vieillesse versées pour les périodes antérieures à l'entrée en jouissance de la pension, quelle que soit la date de leur versement. Toutefois, il n'est tenu compte des cotisations versées en cas de redressement d'assiette sur la base d'une rémunération forfaitaire prévu à l'article L. 242-1-2 que pour leur fraction correspondant à une assiette égale à deux fois la rémunération mensuelle minimale définie à l'article L. 3232-1 du code du travail en vigueur au moment du constat du délit de travail dissimulé.
 
 II.-Le versement de cotisations afférentes à une période d'activité antérieure de plus de trois ans à la date dudit versement s'effectue dans les conditions déterminées ci-après.
 
@@ -30,3 +29,8 @@ Aucun versement volontaire de cotisations n'est admis au titre du travail dissim
 III.-Si un versement de cotisations intervient après une première liquidation de la pension, la revision des droits prend effet à compter du premier jour du mois suivant celui au cours duquel ont été encaissées les cotisations éventuellement majorées et les pénalités et majorations de retard éventuellement dues.
 
 IV.-Sont également valables pour l'ouverture du droit et le calcul desdites pensions, les cotisations non versées, lorsque l'assuré apporte la preuve qu'il a subi en temps utile, sur son salaire, le précompte des cotisations d'assurance vieillesse, sous réserve des cas visés à la deuxième phrase du premier alinéa de l'article L. 351-2.
+
+NOTA:
+(1) Décret n° 2008-845 du 25 août 2008 art. 2 : le présent alinéa entre en vigueur le 1er janvier 2010.
+
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

@@ -23,3 +23,6 @@ La différence éventuelle, entre le montant des cotisations ainsi déterminé e
 Ce complément est versé aux échéances prévues, selon le cas, à l'article R. 243-6, à l'article R. 243-6-1 ou à l'article R. 243-7.
 
 III.-Les dispositions du présent article ne sont pas applicables aux travailleurs à domicile mentionnés au 1° de l'article L. 311-3, ni aux assurés pour lesquels des cotisations forfaitaires sont fixées.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

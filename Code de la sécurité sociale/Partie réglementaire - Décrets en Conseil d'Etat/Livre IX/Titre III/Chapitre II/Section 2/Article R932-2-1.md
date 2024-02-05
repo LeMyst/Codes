@@ -15,3 +15,6 @@ IV.-Les dispositions des articles R. 932-1-6-2 et R. 932-1-6-3 s'appliquent aux 
 3° A la référence à l'article L. 932-12-1, la référence à l'article L. 932-21-2.
 
 Pour l'application de l'article R. 932-1-6-2, lorsque sont remplies les conditions de dénonciation ou de résiliation prévues à l'article L. 932-21-2, l'institution ou l'union applique les dispositions de cet article lorsque le membre participant dénonce l'affiliation ou le contrat en application de l'article L. 932-21-1, postérieurement à la date limite d'exercice de ce droit de dénonciation ou de résiliation.
+
+NOTA:
+Conformément au 1° de l'article 5 du décret n° 2022-388 du 17 mars 2022, ces dispositions s'appliquent aux contrats et adhésions en cours et à ceux conclus ou renouvelés à la date d'entrée en vigueur dudit décret (20 mars 2022).

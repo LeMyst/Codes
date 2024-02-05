@@ -9,3 +9,6 @@ Les retenues mentionnées au premier alinéa sont déterminées en application d
 Lorsque l'indu notifié ne peut être recouvré sur les prestations mentionnées au premier alinéa du présent article, la récupération peut être opérée, sous réserve des dispositions des quatrième à neuvième alinéas de l'article L. 133-4-1 et si l'assuré n'opte pas pour le remboursement en un seul versement, par retenue sur les prestations en espèces gérées par les organismes mentionnés à l'article L. 133-4-1 ou sur les prestations mentionnées aux titres IV et V du livre III et au titre Ier du présent livre, par l'organisme gestionnaire de ces prestations et avec son accord. Toutefois, suite à cet accord, le recouvrement ne peut être effectué que si l'assuré n'est débiteur d'aucun indu sur ces mêmes prestations. Ce recouvrement est opéré selon les modalités applicables aux prestations sur lesquelles les retenues sont effectuées. Un décret fixe les modalités d'application et le traitement comptable afférant à ces opérations.
 
 Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
+
+NOTA:
+Conformément au IV de l’article 100 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.

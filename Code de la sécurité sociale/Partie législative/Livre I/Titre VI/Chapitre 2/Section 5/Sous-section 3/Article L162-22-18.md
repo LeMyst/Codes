@@ -25,3 +25,6 @@ Le montant des dotations régionales issues de la dotation populationnelle est f
 IV.-Un décret en Conseil d'Etat détermine les catégories de prestations pour exigence particulière des patients, sans fondement médical, qui donnent lieu à facturation sans prise en charge par les régimes obligatoires de sécurité sociale.
 
 V.-Les tarifs de responsabilité afférents aux activités de psychiatrie exercées par les établissements de santé privés mentionnés au e de l'article L. 162-22 sont fixés par l'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

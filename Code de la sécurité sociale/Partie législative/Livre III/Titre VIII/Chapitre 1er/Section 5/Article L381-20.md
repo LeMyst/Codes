@@ -15,3 +15,6 @@ La présente section est applicable aux personnes suivantes :
 6°) les victimes civiles de la guerre visées au 6° de l'article L. 136 bis du code des pensions militaires d'invalidité et des victimes de la guerre ;
 
 7°) les ascendants pensionnés au titre du code des pensions militaires d'invalidité et des victimes de la guerre, ayant atteint un âge déterminé et ne relevant pas déjà d'un régime obligatoire d'assurance maladie.
+
+NOTA:
+Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.

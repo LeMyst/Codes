@@ -9,3 +9,6 @@ La Caisse nationale de l'assurance maladie et la caisse centrale de la Mutualit�
 3° Les montants remboursés alors que les conditions de prise en charge n'étaient pas remplies ;
 
 4° Les motifs des rejets des demandes d'accord préalable.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2018-661 du 26 juillet 2018, l'article R. 315-17 est applicable à une date fixée par un arrêté des ministres chargés de la santé et de la sécurité sociale, et au plus tard, à compter du 1er janvier 2020.

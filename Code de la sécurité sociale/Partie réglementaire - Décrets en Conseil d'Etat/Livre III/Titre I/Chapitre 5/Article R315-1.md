@@ -11,3 +11,6 @@ III.-Lorsque, à l'occasion de l'analyse de l'activité d'un professionnel de sa
 Le service du contrôle médical exerce ses missions dans les conditions définies par le présent chapitre et par le chapitre 6 du titre VI du livre Ier.
 
 IV.-Lorsque le service du contrôle médical constate qu'une prescription établie par un professionnel de santé a exclu la possibilité de substitution prévue au deuxième alinéa de l'article L. 512-3 du code de la santé publique, il peut se faire communiquer par ce professionnel, dans le respect des règles de la déontologie médicale, les éléments de toute nature relatifs à cette exclusion ; cette communication est éventuellement suivie de la mise en oeuvre de la procédure prévue à l'article R. 315-1-2.
+
+NOTA:
+Conseil d'Etat 1998-06-12 n° 183528,183571,183572,183584,183587 : le Conseil d'Etat a annulé l'article 1er du décret n° 96-786 du 10 septembre 1996 relatif au contrôle médical et modifiant le code de la sécurité sociale en tant qu'il prévoit à l'article R315-1 la communication par le service du contrôle médical à la commission ou à la conférence médicale des informations couvertes par le secret médical.

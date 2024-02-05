@@ -9,3 +9,6 @@ Elle définit les modalités selon lesquelles, en cas de constat d'anomalies por
 1° D'un traitement commun de l'information, des demandes de rectification et des réponses adressées aux cotisants ;
 
 2° Des corrections prévues à l'article L. 133-5-3-1 réalisées pour le compte des organismes mentionnés aux articles L. 922-1 et L. 922-4 par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et à l'article L. 723-2 du code rural et de la pêche maritime, au moyen de la norme d'échange prévue pour transmettre la déclaration mentionnée au I de l'article L. 133-5-3 du présent code, après la procédure d'échange contradictoire prévue à l'article L. 133-5-3-1.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

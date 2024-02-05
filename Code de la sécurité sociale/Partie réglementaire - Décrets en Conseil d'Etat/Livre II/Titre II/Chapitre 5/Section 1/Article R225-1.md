@@ -23,3 +23,6 @@ IV.-Le taux forfaitaire prévu au I n'est pas applicable lorsque les conditions 
 Lorsque ces conditions sont réunies, l'organisme mentionné à l'article L. 225-1-1 applique le taux moyen des restes à recouvrer constatés à la fin du même mois. Les sommes encaissées ultérieurement au titre de ces mêmes périodes sont intégralement reversées aux attributaires.
 
 Les niveaux des restes à recouvrer des sommes exigibles pendant les mois durant lesquels les modalités dérogatoires prévues au présent IV sont appliquées ne sont pas pris en compte lors de la révision du taux prévu au I à l'issue de la période quinquennale.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-136 du 5 février 2022, ces dispositions sont applicables aux versements réalisés par l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale à compter du 1er janvier 2022.

@@ -5,3 +5,6 @@ Les stagiaires licenciés dans les conditions prévues à l'article 12 du décre
 Les bénéficiaires de rentes de survivants, en application du quatrième alinéa de l'article 12 du décret n° 49-1239 du 13 septembre 1949 modifié, qui n'effectuent aucun travail salarié et n'exercent aucune activité rémunératrice ont droit et ouvrent droit aux prestations en nature de l'assurance maladie, dans la mesure où ils ne bénéficient pas déjà de ces prestations en vertu d'autres dispositions.
 
 Les prestations prévues au présent article sont à la charge de la caisse primaire d'assurance maladie dont relèvent les intéressés.
+
+NOTA:
+Code de la sécurité sociale D712-8 : champ d'application.

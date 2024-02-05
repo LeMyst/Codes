@@ -9,3 +9,6 @@ Chaque année, dans un délai de quinze jours suivant la promulgation de la loi 
 3° L'évaluation des gains d'efficience réalisés et envisageables dans le secteur ;
 
 4° Les évolutions à la suite desquelles des établissements, des services ou des activités sanitaires ou médico-sociaux se trouvent placés pour tout ou partie sous un régime juridique ou de financement différent de celui sous lequel ils étaient placés auparavant. Le montant peut être corrigé en fin d'année pour prendre en compte ces évolutions intervenues en cours d'année.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.

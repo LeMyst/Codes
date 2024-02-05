@@ -23,3 +23,6 @@ III.-Le II du présent article n'est pas applicable lorsque le redressement proc
 3° Une situation d'abus de droit, défini à l'article L. 243-7-2.
 
 IV.-Par dérogation à l'article L. 243-1, les employeurs ne peuvent, dans les cas prévus au présent article, demander aux salariés le remboursement des cotisations salariales dues sur les montants donnant lieu à redressement.
+
+NOTA:
+Conformément à l'article 12 de la loi n° 2015-1702 du 21 décembre 2015, ces dispositions s'appliquent aux contrôles engagés à compter du 1er janvier 2016.

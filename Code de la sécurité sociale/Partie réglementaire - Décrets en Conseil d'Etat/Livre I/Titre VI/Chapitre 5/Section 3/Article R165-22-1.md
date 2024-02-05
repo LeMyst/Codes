@@ -11,3 +11,6 @@ La commission prévue à l'article R. 165-18 identifie un comparateur pertinent 
 4° A l'occasion de l'avis, mentionné à l'article R. 165-11, sur un produit ou une prestation pour lesquels elle identifie que, dans au moins une de ses indications thérapeutiques, une alternative thérapeutique est prise en charge au titre de l'article L. 165-1-5. Elle signale sans délai l'existence de ce comparateur dans un avis adressé aux ministres chargés de la santé et de la sécurité sociale ;
 
 5° A l'occasion de l'avis, mentionné à l'article R. 165-11, portant sur le produit ou la prestation bénéficiant d'une prise en charge dans les conditions prévues aux articles L. 165-1-5.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

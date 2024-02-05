@@ -9,3 +9,6 @@ I.-Les cotisations de sécurité sociale dues par le conjoint collaborateur du t
 Le pourcentage mentionné au premier alinéa est fixé à 58 % pour les conjoints collaborateurs des personnes des travailleurs indépendants mentionnés à l'article L. 631-1 et à 46 % pour les conjoints collaborateurs des professions libérales.
 
 II.-La première date d'exigibilité des cotisations dues par le conjoint collaborateur est celle de l'échéance mensuelle ou trimestrielle qui suit d'au moins quinze jours la date d'affiliation du conjoint collaborateur.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2017-1894 du 30 décembre 2017, les présentes dispositions sont applicables aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2018.

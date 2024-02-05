@@ -19,3 +19,8 @@ c) Les indemnités versées aux personnes tirées au sort mentionnées à l'arti
 3° L'abattement prévu à l'article 157 bis du code général des impôts en faveur des personnes âgées ou invalides n'est pas applicable aux revenus d'activité professionnelle perçus par l'allocataire.
 
 III.-Les ressources déterminées conformément au II sont prises en compte pour déterminer le droit à l'allocation servie au titre de chaque période de douze mois commençant le 1er janvier, sous réserve de l'application des articles R. 532-4 à R. 532-7, R. 821-4-3, R. 821-4-4, D. 821-9 et D. 821-10, ainsi que, en cas de modification de la situation familiale en cours de période de paiement, des dispositions prévues à l'article L. 552-1.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2022-1694 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

@@ -7,3 +7,6 @@ Les organismes chargés de la gestion d'un régime obligatoire de sécurité soc
 2° Déterminer l'éligibilité aux prestations et contrôler le droit au bénéfice de prestations lié à la résidence, à l'appréciation des ressources, à l'exercice ou non d'une activité professionnelle et à la composition de la famille ;
 
 3° Procéder au recouvrement des cotisations et contributions dues et contrôler leur assiette.
+
+NOTA:
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -21,3 +21,6 @@ Le projet de cahier des charges décrit le contenu de l'expérimentation et comp
 Le projet de cahier des charges justifie également de la faisabilité de l'expérimentation et de sa contribution à l'amélioration de la prise en charge et du parcours des patients, de l'efficience du système de santé ou de l'accès aux soins.
 
 Il justifie également, le cas échéant pour les projets mentionnés au IV de l'article R. 162-50-5, de la contribution de l'expérimentation à l'amélioration de la prise en charge par l'assurance maladie des médicaments ou des produits et prestations associées mentionnées à l'article 165-1 ou de la qualité des prescriptions.
+
+NOTA:
+Conformément aux dispositions de l'article 2 ces dispositions s'appliquent à tous les projets d'expérimentation pour lesquels l'avis du comité technique de l'innovation pour la santé n'a pas été rendu.

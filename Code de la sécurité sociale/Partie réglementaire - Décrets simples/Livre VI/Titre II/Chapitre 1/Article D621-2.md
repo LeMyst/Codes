@@ -31,3 +31,6 @@ Où :
 -PSS est la valeur annuelle du plafond de la sécurité sociale mentionné au premier alinéa de l'article L. 241-3 ;
 
 -r est le revenu d'activité, tel que défini à l'article L. 131-6.
+
+NOTA:
+Conformément au II de l’article 4 du décret n° 2022-1529 du 7 décembre 2022, ces dispositions sont applicables aux cotisations de sécurité dues par les travailleurs indépendants autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2022.

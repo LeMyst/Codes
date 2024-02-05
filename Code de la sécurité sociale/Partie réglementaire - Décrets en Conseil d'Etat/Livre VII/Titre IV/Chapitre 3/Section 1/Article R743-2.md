@@ -9,3 +9,6 @@ Dans le cas où le requérant bénéficie également de l'assurance volontaire a
 Pour les conjoints collaborateurs mentionnés à l'article L. 121-4 du code du commerce, l'assiette servant de base au calcul des cotisations et des prestations est le salaire minimum prévu au premier alinéa de l'article L. 434-16
 
 La caisse primaire d'assurance maladie vérifie si la situation du requérant entre dans les catégories mentionnées à l'article R. 743-1 et lui notifie sa décision dans un délai d'un mois à compter de la date de réception de la demande.
+
+NOTA:
+Conformément à l'article 1 II du décret n° 2014-1340 du 6 novembre 2014, les présentes dispositions sont applicables à compter du 1er janvier 2015.

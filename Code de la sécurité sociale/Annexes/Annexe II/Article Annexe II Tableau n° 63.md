@@ -1,7 +1,6 @@
 # Article Annexe II : Tableau n° 63
 
-**Affections provoquées par les enzymes**
-.
+**Affections provoquées par les enzymes**.
 
 |  |  |  |
 | --- | --- | --- |

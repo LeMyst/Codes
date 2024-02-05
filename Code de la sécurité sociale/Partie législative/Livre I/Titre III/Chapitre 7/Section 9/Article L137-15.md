@@ -21,3 +21,8 @@ Par dérogation au premier alinéa, ne sont pas assujettis à cette contribution
 Par dérogation au premier alinéa du présent article, ne sont pas assujetties à cette contribution les sommes versées au titre de la participation aux résultats de l'entreprise mentionnée au titre II du livre III de la troisième partie du code du travail et au titre de l'intéressement mentionné au titre Ier du même livre III ainsi que les versements des entreprises mentionnés au titre III dudit livre III quel que soit le support sur lequel ces sommes sont investies, dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un dispositif de participation des salariés aux résultats de l'entreprise prévue à l'article L. 3322-2 du même code.
 
 Par dérogation au premier alinéa du présent article, ne sont pas assujetties les entreprises qui emploient au moins cinquante salariés et moins de deux cent cinquante salariés pour les sommes versées au titre de l'intéressement mentionné au titre Ier du livre III de la troisième partie du code du travail.
+
+NOTA:
+Conformément au XII de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions du dixième alinéa de l'article L. 137-15 dans leur rédaction antérieure à la présente loi, continuent à s'appliquer aux entreprises bénéficiaires de ces dispositions au 31 décembre 2019.
+
+Conformément au II de l’article 4 de la loi n° 2023-270 du 14 avril 2023, ces dispositions sont applicables aux indemnités versées à l'occasion des ruptures de contrat de travail intervenant à compter du 1er septembre 2023.

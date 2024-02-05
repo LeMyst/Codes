@@ -9,3 +9,6 @@ Le décret fixe des montants forfaitaires par repas ou par collation. Ces montan
 Ils sont revalorisés le 1er janvier de chaque année par application du coefficient mentionné à l'article L. 161-25.
 
 Le financement de cette action sociale spécifique est assuré par l'affectation d'une fraction des ressources des caisses, telles qu'elles sont mentionnées à l'article L. 241-6.
+
+NOTA:
+Conformément au III de l'article 102 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

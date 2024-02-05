@@ -17,3 +17,6 @@ Peut également donner lieu à une facturation sans prise en charge par les rég
 L'établissement doit informer le patient du prix de ces prestations, pour lesquelles il établit une facture détaillée conformément aux dispositions de l'article L. 441-9 du code de commerce.
 
 Les dispositions du présent article s'appliquent également aux établissements relevant des articles L. 162-22-16 et L. 174-1 du présent code.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2021-1855, ces dispositions entrent en vigueur le 1er janvier 2022.

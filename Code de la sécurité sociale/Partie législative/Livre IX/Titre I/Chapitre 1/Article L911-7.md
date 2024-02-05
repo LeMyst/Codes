@@ -1,8 +1,6 @@
 # Article L911-7
 
-I. ― Les entreprises dont les salariés ne bénéficient pas d'une couverture collective à adhésion obligatoire en matière de remboursements complémentaires de frais occasionnés par une maladie, une maternité ou un accident déterminée selon l'une des modalités mentionnées à l'article L. 911-1 dont chacune des catégories de garanties et la part du financement assurée par l'employeur sont au moins aussi favorables que celles mentionnées aux II et III du présent article sont tenues de faire bénéficier leurs salariés de cette couverture minimale par décision unilatérale de l'employeur, dans le respect de l'article 11 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques. Les salariés concernés sont informés de cette décision.
-
-II. ― La couverture minimale mentionnée au I comprend la prise en charge totale ou partielle des dépenses suivantes :
+I. ― Les entreprises dont les salariés ne bénéficient pas d'une couverture collective à adhésion obligatoire en matière de remboursements complémentaires de frais occasionnés par une maladie, une maternité ou un accident déterminée selon l'une des modalités mentionnées à l'article L. 911-1 dont chacune des catégories de garanties et la part du financement assurée par l'employeur sont au moins aussi favorables que celles mentionnées aux II et III du présent article sont tenues de faire bénéficier leurs salariés de cette couverture minimale par décision unilatérale de l'employeur, dans le respect de l'article 11 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques. Les salariés concernés sont informés de cette décision. II. ― La couverture minimale mentionnée au I comprend la prise en charge totale ou partielle des dépenses suivantes :
 
 1° La participation de l'assuré aux tarifs servant de base au calcul des prestations des organismes de sécurité sociale, prévue au I de l'article L. 160-13 pour les prestations couvertes par les régimes obligatoires ;
 
@@ -21,3 +19,6 @@ Les salariés en contrat à durée déterminée ou en contrat de mission peuvent
 Un décret fixe, en outre, les catégories de salariés pouvant se dispenser, à leur initiative, de l'obligation de couverture, eu égard à la nature ou aux caractéristiques de leur contrat de travail ou au fait qu'ils disposent par ailleurs d'une couverture complémentaire.
 
 IV. ― Un décret précise les adaptations dont fait l'objet la couverture des salariés relevant du régime local d'assurance maladie complémentaire des départements du Haut-Rhin, du Bas-Rhin et de la Moselle défini à l'article L. 325-1, en raison de la couverture garantie par ce régime.
+
+NOTA:
+LOI n° 2013-504 du 14 juin 2013 art. 1 IX : Le I de l'article L. 911-7 du code de la sécurité sociale entre en vigueur à compter du 1er janvier 2016.

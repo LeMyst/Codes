@@ -15,3 +15,6 @@ V.-Pour l'application du second alinéa de l'article L. 171-6-1, l'activité pri
 1° Pour les personnes bénéficiant à la fois d'une pension, rente ou allocation de vieillesse acquise à titre personnel et d'un avantage de réversion, l'activité qui leur a ouvert droit à l'avantage acquis à titre personnel ;
 
 2° Pour les personnes bénéficiant à la fois, à titre personnel, de plusieurs pensions, rentes ou allocations de vieillesse de même nature, l'activité correspondant à l'avantage pour lequel elles comptent le plus grand nombre de trimestres d'assurance ayant donné lieu au versement de cotisations à leur charge ou, en cas d'égalité ou lorsque l'un ou plusieurs des avantages sont de caractère non contributif, l'activité qu'elles ont exercée pendant le plus grand nombre d'années.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2017-1894 du 30 décembre 2017, les présentes dispositions sont applicables aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2018.

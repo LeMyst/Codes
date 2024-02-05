@@ -10,7 +10,6 @@ Peuvent faire l'objet d'une pénalité les établissements d'hébergement pour p
 
 a) La transmission des éléments prévus à l'article R. 314-169 du code de l'action sociale et des familles, dès lors que ladite transmission n'a pas été effectuée dans un délai de quinze jours après relance par le directeur de l'organisme local concerné et que le manquement ne relève pas du cas mentionné à la dernière phrase du 2 ;
 
-b) L'obligation d'établir la demande de prise en charge prévue
-à l'article R. 174-15 ;
+b) L'obligation d'établir la demande de prise en charge prévue à l'article R. 174-15 ;
 
 4° Pour les faits mentionnés à l'article R. 147-8 du fait de leurs salariés.

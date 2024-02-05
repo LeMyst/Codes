@@ -11,3 +11,6 @@ Le président du conseil d'administration peut inviter au conseil d'administrati
 En cas de partage égal des voix au sein du conseil d'administration, la voix du président est prépondérante.
 
 Le contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux délibérations du conseil.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2015-1240 du 7 octobre 2015, les dispositions du présent article entrent en vigueur à la date de publication de la nomination du président du fonds de solidarité vieillesse en application du septième alinéa de l'article R. 135-2, et au plus tard le 1er janvier 2016.

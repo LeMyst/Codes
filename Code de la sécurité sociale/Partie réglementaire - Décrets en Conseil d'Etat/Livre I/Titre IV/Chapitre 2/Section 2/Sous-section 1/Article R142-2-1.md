@@ -11,3 +11,6 @@ Dans les autres organismes mentionnés aux 1° et 3° de l'article R. 142-2, la 
 Dans les organismes mentionnés au 2° de l'article R. 142-2, la commission peut valablement statuer si sont présents au moins deux membres.
 
 Des règles propres à chaque organisme ou instance régionale fixent les modalités de fonctionnement de la commission.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2018-199 du 23 mars 2018, ces dispositions entrent en vigueur à compter de la prochaine désignation des membres des commissions de recours amiable et au plus tard le 31 mars 2019. Par dérogation au premier alinéa de l'article R. 142-2-1 dans sa rédaction issue dudit décret, le conseil, le conseil d'administration ou l'instance régionale des organismes mentionnés à ce même article peut fixer une périodicité de renouvellement de la commission supérieure à un an lors de la prochaine désignation des membres des commissions de recours amiable suivant la publication dudit décret.

@@ -17,3 +17,6 @@ III. - Dans le cas où une demande d'inscription sur la liste mentionnée à l'a
 IV. - En cas de prise en charge d'une indication au titre du présent article, un arrêté des ministres chargés de la santé et de la sécurité sociale peut modifier les conditions de dispensation des spécialités déjà prises en charge au titre d'une autorisation de mise sur le marché.
 
 V. - Les modalités d'application du présent article, notamment les conditions de prise en charge des spécialités disposant d'une autorisation d'accès précoce, sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au A du IV de l'article 78 de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2021.

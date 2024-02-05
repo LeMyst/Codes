@@ -5,3 +5,6 @@ Les commissaires aux comptes sont nommés pour six exercices. Leurs fonctions ex
 Le commissaire aux comptes nommé, selon le cas, par la commission paritaire ou l'assemblée générale en remplacement d'un autre ne demeure en fonction que jusqu'à l'expiration du mandat de son prédécesseur.
 
 Si, selon les cas, la commission paritaire ou l'assemblée générale omet d'élire un commissaire, tout membre adhérent ou participant de l'institution de prévoyance ou de l'union d'institutions de prévoyance peut demander au tribunal judiciaire statuant en référé la désignation d'un commissaire aux comptes, le président et le vice-président du conseil d'administration de l'institution ou de l'union dûment appelés ; le mandat ainsi conféré prend fin lorsqu'il a été pourvu par la commission paritaire ou l'assemblée générale à la nomination du ou des commissaires.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

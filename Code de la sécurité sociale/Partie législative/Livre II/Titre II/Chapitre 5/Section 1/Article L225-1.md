@@ -5,3 +5,6 @@ L'Agence centrale des organismes de sécurité sociale est chargée d'assurer la
 En vue de clarifier la gestion des branches du régime général, l'Agence centrale des organismes de sécurité sociale assure l'individualisation de la trésorerie de chaque branche par un suivi permanent en prévision et en réalisation comptable ; elle établit l'état prévisionnel de la trésorerie de chaque branche.
 
 Un décret détermine les modalités d'application du présent article, ainsi que les conditions de placement des excédents de trésorerie globalement constatés pour l'ensemble des branches mentionnées au premier alinéa.
+
+NOTA:
+Conformément au V de l'article 32 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

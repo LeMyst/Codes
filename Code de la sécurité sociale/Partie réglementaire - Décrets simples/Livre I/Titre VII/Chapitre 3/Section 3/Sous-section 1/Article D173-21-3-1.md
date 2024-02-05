@@ -25,3 +25,6 @@ b) Ou, au cours de la dernière année civile d'affiliation précédant les pér
 9° Le régime d'assurance vieillesse dont relevait la dernière activité professionnelle non salariée précédant la période de perception de l'allocation mentionnée à l'article L. 5424-25 du code du travail, pour les périodes mentionnées au septième alinéa de l'article D. 634-2 du présent code, au 6° de l'article D. 643-2 du présent code, au 6° de l'article R. 653-4 du présent code et à l'article D. 732-52-2 du code rural et de la pêche maritime;
 
 10° Le régime d'assurance vieillesse dont relevait l'assuré durant la période de bénéfice de l'indemnité horaire mentionnée au II de l'article L. 5122-1 du code du travail. (1)
+
+NOTA:
+(1) Conformément à l'article 3 du décret n° 2021-593 du 14 mai 2021, ces dispositions sont applicables au titre des périodes d'activité partielle courant à compter du 1er mars 2020 pour les pensions de vieillesse prenant effet à compter du 12 mars 2020.

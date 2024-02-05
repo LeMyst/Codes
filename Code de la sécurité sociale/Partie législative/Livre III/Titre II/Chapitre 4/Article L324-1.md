@@ -19,3 +19,6 @@ Le protocole établi par le médecin traitant est adressé au service du contrô
 Sauf en cas d'urgence, le patient ou son représentant légal est tenu de communiquer son protocole au médecin consulté pour bénéficier de la limitation ou de la suppression de sa participation.
 
 Le médecin, qu'il exerce en ville ou en établissement de santé, est tenu de certifier, lors de l'établissement des documents nécessaires au remboursement ou à la prise en charge, qu'il a pris connaissance du protocole et de se conformer aux dispositions réglementant la limitation ou la suppression de la participation de l'assuré.
+
+NOTA:
+Conformément aux III de l'article 87 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions sont applicables aux contestations, aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022.

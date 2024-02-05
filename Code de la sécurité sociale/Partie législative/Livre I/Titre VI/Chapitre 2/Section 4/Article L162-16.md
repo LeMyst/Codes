@@ -10,8 +10,7 @@ III.-La base de remboursement des frais exposés par l'assuré au titre de la sp
 
 1° Sur présentation d'une prescription libellée en dénomination commune qui peut être respectée par la délivrance d'une spécialité figurant au sein d'un groupe générique ou hybride mentionné au 5° de l'article L. 5121-1 du même code ;
 
-2° Ou pour laquelle la spécialité prescrite ou délivrée appartient à un groupe générique ou hybride.
-
+2° Ou pour laquelle la spécialité prescrite ou délivrée appartient à un groupe générique ou hybride.\
 Le pharmacien délivre pour la spécialité concernée le conditionnement le moins coûteux pour l'assurance maladie.
 
 Le pharmacien propose au patient, le cas échéant par substitution, une spécialité dont la base de remboursement n'excède pas la plus chère en vigueur pour les spécialités génériques ou hybrides appartenant au groupe générique ou hybride concerné.

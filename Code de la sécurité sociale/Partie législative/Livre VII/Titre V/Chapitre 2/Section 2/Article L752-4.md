@@ -25,3 +25,6 @@ c. des exploitants agricoles dans les conditions fixées par l'article L. 781-2 
 6°) D'exercer les fonctions dévolues en métropole aux organismes chargés du recouvrement des cotisations du régime général et de la mutualité sociale agricole à l'exception des compétences dévolues à l'organisme mentionné à l'article L. 213-4 ;
 
 7°) D'attribuer la protection complémentaire en matière de santé prévue à l'article L. 861-1 aux assurés dont elles gèrent les risques maladie, maternité, décès et invalidité.
+
+NOTA:
+Conformément au IV de l'article 104 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions sont applicables aux demandes de reconnaissance de maladie professionnelle déposées à compter de la publication de ladite loi.

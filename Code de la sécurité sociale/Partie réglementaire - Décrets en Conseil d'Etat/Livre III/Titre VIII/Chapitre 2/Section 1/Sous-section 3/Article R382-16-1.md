@@ -5,3 +5,6 @@ La date d'effet de l'affiliation est la date du premier précompte, lorsque les 
 La date d'effet de la décision de mettre fin à l'affiliation est la date de sa notification à l'intéressé par l'organisme agréé.
 
 L'affiliation peut être retirée au vu des conditions réelles d'exercice d'activité établies à l'occasion des contrôles réalisés dans les conditions prévues à l'article R. 382-29.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

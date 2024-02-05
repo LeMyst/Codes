@@ -7,3 +7,6 @@ Le forfait journalier peut être modulé dans des conditions fixées par décret
 Le forfait journalier s'impute à due concurrence sur la participation laissée éventuellement à la charge des assurés par leurs régimes respectifs d'assurance maladie, lorsque le montant de cette participation est supérieur ou égal à celui du forfait journalier ; dans le cas contraire, la participation est imputée sur le forfait. Cette disposition n'est toutefois pas applicable lorsqu'en vertu du l° de l'article L. 322-3 la participation de l'assuré à l'occasion d'une hospitalisation est limitée au motif que la dépense demeurant à sa charge dépasse un certain montant.
 
 Le forfait journalier peut être pris en charge par le régime local d'assurance maladie dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle dans des conditions fixées par décret.
+
+NOTA:
+La loi n° 70-1318 a été abrogée par l'article 7 III de la loi n° 91-1406 du 31 décembre 1991.

@@ -21,3 +21,6 @@ III.-Le présent article cesse de s'appliquer à la date à laquelle les travail
 IV.-(Abrogé)
 
 V.-Les modalités d'application du présent article sont fixées par décret.
+
+NOTA:
+Conformément au VII de l'article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

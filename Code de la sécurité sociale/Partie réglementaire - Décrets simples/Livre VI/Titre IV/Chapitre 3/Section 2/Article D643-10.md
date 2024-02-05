@@ -7,3 +7,6 @@ Les revenus tirés de la participation à la permanence des soins mentionnée à
 Pour la détermination de la durée d'affiliation mentionnée au premier alinéa, il n'est pas tenu compte des trimestres civils suivant celui au cours duquel l'assuré remplit les conditions prévues aux troisième, quatrième et cinquième alinéas de l'article L. 643-6.
 
 Le versement de ces cotisations ne peut entraîner la révision de la pension de retraite lorsque celle-ci a déjà été liquidée.
+
+NOTA:
+Ces dispositions s'appliquent aux assurés dont la première pension prend effet à compter du 1er janvier 2015.

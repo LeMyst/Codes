@@ -31,3 +31,6 @@ Perdent également le bénéfice de leur mandat :
 1° Les personnes qui cessent d'appartenir à l'organisation qui a procédé à leur désignation au sein d'un conseil ou d'un conseil d'administration ;
 
 2° Les personnes dont le remplacement est demandé par l'organisation qui a procédé à leur désignation.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

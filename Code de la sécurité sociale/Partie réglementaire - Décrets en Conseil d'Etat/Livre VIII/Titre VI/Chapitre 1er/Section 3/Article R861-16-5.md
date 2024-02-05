@@ -19,3 +19,6 @@ Lorsque le bénéficiaire du droit à la protection complémentaire décède, un
 Il est alors mis fin au bénéfice de la protection complémentaire et au prélèvement de la participation financière de l'intéressé pour les échéances postérieures à la fin de résidence en France ou à la date de décès.
 
 IV.-Lorsqu'une personne bénéficie de la protection complémentaire en matière de santé en application de l'article R. 861-2 en raison de son appartenance à un foyer éligible, elle continue, après le décès de l'auteur de la demande à bénéficier de cette protection jusqu'à l'expiration du droit initial, sauf si elle déclare s'y opposer auprès de l'organisme gestionnaire.
+
+NOTA:
+Conformément au II de l'article 3 du décret n° 2022-565 du 15 avril 2022, ces dispositions entrent en vigueur le 1er avril 2022.

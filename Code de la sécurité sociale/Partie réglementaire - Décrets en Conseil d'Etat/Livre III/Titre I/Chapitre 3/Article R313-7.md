@@ -9,3 +9,6 @@ b) Soit qu'ils ont effectué au moins 600 heures de travail salarié ou assimil�
 Ces dispositions s'appliquent également aux assurés occupant des emplois entrant dans le champ des services à la personne définis à l'article L. 7231-1 du code du travail et rémunérés par chèque emploi-service universel conformément au 1° de l'article L. 1271-1 du même code.
 
 Un arrêté du ministre chargé de la sécurité sociale précise les conditions dans lesquelles la rémunération de certaines activités est considérée comme remplissant les conditions de durée du travail requises pour l'application des conditions mentionnées au présent article et à l'article R. 313-3 du présent code.
+
+NOTA:
+Conformément à l'article 5 I. B du décret n° 2018-1255 du 27 décembre 2018, ces dispositions sont applicables aux arrêts de travail débutant à compter du 1er janvier 2019.

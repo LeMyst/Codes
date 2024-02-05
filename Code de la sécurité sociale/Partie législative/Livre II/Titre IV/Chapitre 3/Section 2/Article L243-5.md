@@ -11,3 +11,6 @@ Une inscription peut faire l'objet à tout moment d'une radiation totale ou part
 Le privilège est conservé au-delà du délai prévu par décret en Conseil d'Etat sur les biens qui ont fait l'objet d'une saisie avant l'expiration de ce délai.
 
 En cas de procédure de sauvegarde ou de redressement ou de liquidation judiciaires, les pénalités, majorations de retard et frais de poursuites dus par le redevable à la date du jugement d'ouverture sont remis, sauf si le passif déclaré résulte en tout ou partie du constat de l'infraction mentionnée à l'article L. 8221-1 du code du travail.
+
+NOTA:
+Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur à une date qui sera fixée par décret et qui ne pourra être postérieure au 1er janvier 2023.

@@ -11,3 +11,6 @@ Pour l'application de la formule ci-dessus, la valeur de T, le salaire minimum d
 III.-Pour les salariés en contrat à durée déterminée auprès d'un même employeur, le coefficient mentionné au II est déterminé pour chaque contrat.
 
 IV.-Les dispositions des articles D. 241-8 et D. 241-9 s'appliquent au calcul de la réduction prévue au présent article.
+
+NOTA:
+Conformément à l’article 5 du décret n° 2023-801 du 21 août 2023, ces dispositions s'appliquent aux cotisations et aux contributions sur les rémunérations dues au titre des périodes courant à compter du 1er septembre 2022.

@@ -11,3 +11,6 @@ II. - Constitue un dispositif médical numérique tout logiciel répondant à la
 Un dispositif médical numérique peut nécessiter l'usage d'un accessoire de collecte destiné par son fabricant à être utilisé avec ledit dispositif médical pour permettre une utilisation de ce dernier conforme à sa destination ou pour contribuer spécifiquement et directement à sa fonction médicale.
 
 Lorsque des dispositifs médicaux numériques présentent, d'une part, des fonctionnalités de télésurveillance médicale au sens du présent article et, d'autre part, d'autres fonctionnalités, notamment thérapeutiques, ils ne relèvent de la présente section que pour leurs fonctionnalités de télésurveillance médicale. Ils sont soumis, le cas échéant, à la section 1 du chapitre V du présent titre en ce qui concerne leurs fonctionnalités thérapeutiques.
+
+NOTA:
+Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.

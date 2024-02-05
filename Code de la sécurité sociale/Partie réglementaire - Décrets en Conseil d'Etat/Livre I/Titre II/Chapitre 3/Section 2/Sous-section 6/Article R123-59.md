@@ -13,3 +13,6 @@ Lors du dépôt de la liste, le syndicat indique, le cas échéant, son affiliat
 Le directeur général de l'organisme concerné mentionné au premier alinéa de l'article R. 123-56 publie les listes des candidats au plus tard quatre jours avant la date du scrutin. Il transmet une copie de cette liste à l'autorité compétente de l'Etat déterminée conformément à l'article R. 123-1.
 
 Dans le même temps, les listes de candidats sont publiées sur un site internet à accès sécurisé et affichées dans les locaux des organismes nationaux et locaux concernés.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2019-1275 du 2 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

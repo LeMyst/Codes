@@ -5,3 +5,6 @@ I. – Les pédicures-podologues inscrits au tableau de l'ordre de l'Ile-de-Fran
 II. – Les pédicures-podologues inscrits au tableau de l'ordre de Bretagne et de Saint-Pierre-et-Miquelon sont soumis à la compétence de la section des assurances sociales de la chambre disciplinaire de première instance de l'ordre compétent de la région Bretagne et Saint-Pierre-et-Miquelon.
 
 III. – Les pédicures-podologues inscrits au tableau de l'ordre de Provence-Alpes-Côte d'Azur et de Corse sont soumis à la compétence de la section des assurances sociales de la chambre disciplinaire de première instance de l'ordre compétent pour la région Provence-Alpes-Côte d'Azur et la Corse.
+
+NOTA:
+Conformément au VI de l'article 15 de l'ordonnance n° 2017-644 du 27 avril 2017, les dispositions du présent article entrent en vigueur à compter du prochain renouvellement des instances ordinales suivant la publication de ladite ordonnance.

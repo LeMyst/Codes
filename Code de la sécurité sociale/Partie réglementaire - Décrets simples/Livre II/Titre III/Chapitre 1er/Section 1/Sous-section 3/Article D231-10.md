@@ -9,3 +9,6 @@ Le tribunal judiciaire statue dans les huit jours sans frais ni forme de procéd
 La décision du tribunal judiciaire est en dernier ressort. Elle peut être déférée à la Cour de cassation. Le délai du pourvoi est de dix jours. Le pourvoi est formé, instruit et jugé dans les conditions fixées par les articles 999 et 1008 du code de procédure civile.
 
 La liste électorale ainsi rectifiée est affichée quinze jours au moins avant la date de l'élection par le directeur de l'organisme.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

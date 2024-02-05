@@ -7,3 +7,6 @@ L'assuré bénéficie, en application de l'article L. 351-6, d'une majoration de
 2° Au titre des périodes accomplies dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires postérieurement au 31 décembre 2003.
 
 Sous réserve des dispositions de l'article R. 173-4-2, le nombre total de trimestres d'assurance obtenu en application des dispositions des alinéas précédents est arrondi, s'il y a lieu, au chiffre immédiatement supérieur.
+
+NOTA:
+Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.

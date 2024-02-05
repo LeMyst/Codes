@@ -15,3 +15,6 @@ La renonciation entraîne la restitution par l'institution de prévoyance de l'i
 Toutefois, les dispositions qui précèdent ne s'appliquent ni aux bulletins d'adhésion à un règlement ou contrats d'une durée maximum de deux mois ni aux opérations ayant pour objet la couverture des risques de dommages corporels liés aux accidents et à la maladie ou la couverture du risque chômage.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment le contenu des informations relatives à l'exercice par le participant de ce droit de renonciation.
+
+NOTA:
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.

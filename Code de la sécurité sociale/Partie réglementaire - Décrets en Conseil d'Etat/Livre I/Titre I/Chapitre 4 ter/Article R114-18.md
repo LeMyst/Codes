@@ -11,3 +11,6 @@ L'envoi de cet avis ne s'applique pas aux vérifications ou à l'enquête qui on
 A l'issue du contrôle sur place, les agents chargés du contrôle communiquent à l'établissement ou à la personne physique ou morale un document daté et signé conjointement mentionnant l'objet du contrôle, le nom et la qualité des agents chargés du contrôle ainsi que les documents consultés et communiqués. En cas de refus de signature par l'établissement ou la personne contrôlée, les agents susmentionnés consignent ce fait dans un procès-verbal.
 
 IV.-Les agents chargés du contrôle peuvent, dans le cadre des investigations mentionnées aux I, II et III, réclamer à la personne physique ou morale contrôlée ou à l'établissement contrôlé la communication de tout document, ou copie de document, nécessaire à l'exercice du contrôle dès lors qu'il n'est pas porté atteinte au respect du secret médical. Dans ce dernier cas, les documents sont adressés ou remis au praticien-conseil.
+
+NOTA:
+Décret n° 2012-1033 du 7 septembre 2012 article 2 : Les présentes dispositions sont applicables aux enquêtes engagées postérieurement à la date de son entrée en vigueur.

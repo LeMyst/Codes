@@ -41,3 +41,6 @@ La cotisation annuelle, y compris celle due au titre des première et deuxième 
 Les personnes relevant de l'article L. 643-6 sont assujetties à la cotisation prévue au dernier alinéa de l'article L. 621-2.
 
 Les personnes mentionnées à l'article L. 640-1 bénéficiaires d'une pension d'invalidité servie par les régimes prévus à l'article L. 644-2 peuvent, sur demande, ne pas être assujettis à la cotisation prévue au dernier alinéa de l'article L. 621-2. Aucun droit aux prestations prévues à l'article L. 622-1 ne leur est dans ce cas ouvert. Cette demande doit être adressée à l'organisme mentionné à l'article L. 213-1 dans les trois mois suivant la date de prise d'effet de la pension. Elle est renouvelée tacitement chaque année, sauf renonciation demandée par le bénéficiaire avant le 31 octobre de l'année précédant celle au titre de laquelle ladite cotisation est due. Cette renonciation, adressée à l'organisme mentionné à l'article L. 213-1, prend effet au 1er janvier de l'année suivante.
+
+NOTA:
+Conformément au II de l’article 4 du décret n° 2022-1529 du 7 décembre 2022, ces dispositions sont applicables aux cotisations de sécurité dues par les travailleurs indépendants autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2022.

@@ -11,3 +11,6 @@ II. – Pour l'application de l'article L. 543-3, les directeurs de chaque organ
 3° Le type de placement ainsi que la date du début et de la fin du placement.
 
 III. – Le mineur est informé par le président du conseil départemental des dispositions prévues à l'article L. 543-3 dans le cadre de l'entretien prévu à l'article L. 222-5-1 du code de l'action sociale et des familles ou du projet pour l'enfant mentionné à l'article L. 223-1-1 du même code.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2016-1375 du 12 octobre 2016, les présentes dispositions sont applicables aux allocations mentionnées à l'article L. 543-3 du code de la sécurité sociale dues à compter de la rentrée scolaire 2016.

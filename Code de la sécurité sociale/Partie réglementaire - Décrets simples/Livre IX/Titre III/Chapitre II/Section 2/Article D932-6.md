@@ -17,3 +17,6 @@ II.-Aux fins d'identification de l'adhérent et de précision de la demande de r
 III.-Après avoir renseigné les rubriques prévues au II, l'adhérent accède, avant de procéder à la notification effective de sa dénonciation de l'adhésion ou de sa résiliation du contrat, à une page qui présente un récapitulatif de sa demande lui permettant de vérifier et modifier les informations fournies.
 
 L'adhérent confirme sa notification de dénonciation de l'adhésion au règlement ou de résiliation du contrat par l'activation d'une fonction, qui est directement accessible sur la page mentionnée au précédent alinéa sur laquelle elle est présentée avec la mention : “ confirmer ma demande de résiliation ” ou une formule analogue dénuée d'ambiguïté, affichée en caractères lisibles.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-182 du 16 mars 2023, ces dispositions entrent en vigueur le 1er juin 2023.

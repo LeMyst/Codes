@@ -19,3 +19,6 @@ IV.-Le conciliateur mentionné à l'article L. 162-15-4 exerce les attributions 
 V.-Lorsque la réclamation mentionnée au I du présent article concerne le montant des cotisations dues par les travailleurs indépendants non agricoles en application de l'article L. 131-6, l'organisme chargé du recouvrement de celles-ci transmet à l'usager, à sa demande ou à celle du médiateur, les modalités de calcul retenues dans des conditions fixées par décret. (1)
 
 VI.-Un décret précise les garanties encadrant l'exercice de la médiation prévue au I, notamment en matière de formation préalable, de compétences requises, d'indépendance, d'impartialité et de confidentialité dans le traitement des réclamations et dans la formulation de ses recommandations.
+
+NOTA:
+(1) Aux termes de l'article 34 II de la loi n° 2018-727 du 10 août 2018, le V de l'article L. 217-7-1 du code de la sécurité sociale entre en vigueur le 1er janvier 2020.

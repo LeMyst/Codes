@@ -17,3 +17,6 @@ Lorsque le produit ou la prestation intègre un dispositif médical numérique r
 Les mêmes ministres notifient au demandeur la décision relative à cette prise en charge, par tout moyen donnant date certaine à la réception de cette notification, dans un délai de dix jours à compter de la réception par les mêmes ministres de l'ensemble des informations mentionnées au III de l'article R. 165-89.
 
 Lorsque ce renouvellement a été accordé, le montant de la compensation maximale, le cas échéant déterminé en application du II de l'article L. 165-1-5, s'applique.
+
+NOTA:
+Se reporter aux conditions d’application à l’article 2 du décret 2023-232 du 30 mars 2023.

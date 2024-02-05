@@ -11,3 +11,6 @@ En tant que de besoin, elle peut déroger aux dispositions suivantes du code de 
 3° Article L. 162-2 en tant qu'il concerne le paiement direct des honoraires par le malade ;
 
 4° Article L. 160-14 relatif à la participation de l'assuré aux tarifs servant de base au calcul des prestations.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

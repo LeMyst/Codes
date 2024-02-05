@@ -7,3 +7,6 @@ Le président du collège peut décider, après l'avis conforme de l'agent compt
 2° Une admission en non-valeur des créances de la Haute Autorité, en cas d'irrécouvrabilité avérée ou d'insolvabilité des débiteurs.
 
 Le collège fixe le montant au-delà duquel l'une des remises mentionnées au 1° est soumise à son approbation.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

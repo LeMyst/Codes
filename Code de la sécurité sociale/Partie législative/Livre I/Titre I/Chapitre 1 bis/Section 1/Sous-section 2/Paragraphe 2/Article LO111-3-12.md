@@ -21,3 +21,6 @@ b) La dette des établissements médico-sociaux publics et privés à but non lu
 7° Rectifiant la liste des régimes obligatoires de base et des organismes concourant à leur financement habilités à recourir à des ressources non permanentes ainsi que les limites dans lesquelles leurs besoins de trésorerie peuvent être couverts par de telles ressources ;
 
 8° Améliorant l'information et le contrôle du Parlement sur l'application des lois de financement de la sécurité sociale.
+
+NOTA:
+Conformément au I de l'article 9 de la loi n° 2022-354 du 14 mars 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

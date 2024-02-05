@@ -21,3 +21,6 @@ Ces états sont établis annuellement.
 II.-Les modalités de transmission des états mentionnés au I à l'Autorité de contrôle prudentiel et de résolution sont définies par cette Autorité.
 
 III.-Les données collectées ne peuvent être communiquées que dans les conditions fixées par l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2021-74 du 26 janvier 2021, ces dispositions sont applicables à compter de la remise des états statistiques relatifs à l'exercice 2020.

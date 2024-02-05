@@ -27,3 +27,6 @@ L'étranger qui demande à bénéficier de prestations familiales justifie la r�
 9° Livret spécial, livret ou carnet de circulation ;
 
 10° Récépissé de demande de titre de séjour valant autorisation de séjour portant la mention "a obtenu le bénéfice de la protection subsidiaire" dont la durée de validité est fixée à l'article R. 743-4 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

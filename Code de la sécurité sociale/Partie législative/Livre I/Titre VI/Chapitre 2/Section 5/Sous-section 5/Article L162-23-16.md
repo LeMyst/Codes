@@ -5,3 +5,6 @@ I.-Les hôpitaux de proximité mentionnés à l'article L. 6111-3-1 du code de l
 II.-Les hôpitaux de proximité bénéficient également d'une dotation de responsabilité territoriale dont le montant est déterminé en tenant compte de l'organisation et de la réalisation de leurs missions et de la qualité de prise en charge des patients. Cette dotation a notamment vocation à accompagner la mise en place d'une offre de consultation de spécialités et l'accès à des plateaux techniques d'imagerie, de biologie et des équipements de télésanté ainsi qu'à financer l'indemnité prévue au dernier alinéa de l'article L. 6146-2 du code de la santé publique versée par les hôpitaux de proximité aux professionnels de santé libéraux participant à l'exercice de leurs missions. Cette indemnité peut également être versée aux professionnels de santé libéraux exerçant dans un hôpital de proximité de statut privé relevant de l'article L. 6161-1 du même code.
 
 Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

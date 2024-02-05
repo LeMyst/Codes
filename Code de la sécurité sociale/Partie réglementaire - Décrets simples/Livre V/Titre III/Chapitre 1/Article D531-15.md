@@ -15,3 +15,6 @@ I.-Lorsque la prestation partagée d'éducation de l'enfant est attribuée au ti
 6° Les périodes de perception de la prestation partagée d'éducation de l'enfant ou du complément de libre choix d'activité.
 
 II.-Lorsque cette prestation est attribuée au titre d'un seul enfant à charge, sont assimilées à de l'activité professionnelle les indemnités et allocations mentionnées aux 1° à 3° du I du présent article.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2014-1708 du 30 décembre 2014, les présentes dispositions s'appliquent aux enfants nés ou adoptés à partir du 1er janvier 2015. Pour les enfants nés ou adoptés avant le 1er janvier 2015, les dispositions du code de la sécurité sociale demeurent applicables dans leur rédaction antérieure au 1er janvier 2015.

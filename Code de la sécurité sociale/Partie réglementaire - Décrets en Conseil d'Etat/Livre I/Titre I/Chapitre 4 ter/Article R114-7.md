@@ -31,3 +31,6 @@ A défaut de décision de l'organisme instructeur dans le délai de trois mois p
 A défaut de décision de l'organisme instructeur dans le délai de trois mois prévu au 3° du présent V, le dossier est transmis à la Caisse nationale d'assurance vieillesse qui se prononce, après vérification des pièces, sur l'attribution du numéro d'inscription au répertoire national d'identification des personnes physiques.
 
 VI. - La Caisse nationale d'assurance vieillesse dispose d'un délai de deux mois pour se prononcer sur les dossiers qui lui sont transmis par les organismes de sécurité sociale.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.

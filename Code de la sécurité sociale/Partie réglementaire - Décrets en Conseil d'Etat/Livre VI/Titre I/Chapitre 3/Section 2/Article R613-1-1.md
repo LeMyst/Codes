@@ -15,3 +15,10 @@ III.-Le travailleur indépendant est tenu de transmettre, par voie dématériali
 2° Soit lorsqu'il a souscrit à cette date la déclaration mentionnée à l'article 170 du même code, mais par une voie autre que dématérialisée.
 
 Lorsque la déclaration dématérialisée de revenu mentionnée au premier alinéa du présent III n'a pas été transmise à la date limite de dépôt prévue à l'article 175 du code général des impôts, les cotisations et contributions sont assorties d'une pénalité de 5 %.
+
+NOTA:
+Conformément au II de l'article 2 du décret n° 2021-686 du 28 mai 2021 :
+
+II. - Le deuxième alinéa du I de l'article R. 613-1-1 du code de la sécurité sociale résultant du présent décret, en tant qu'il prévoit la transmission par l'administration fiscale des informations contenues dans les déclarations correctives réalisées postérieurement à la date limite de dépôt, est applicable aux déclarations transmises à compter de l'année 2022 au titre des revenus de l'année 2021 et des années suivantes.
+
+Pour les revenus de l'année 2020, les corrections que le travailleur indépendant apporte, le cas échéant, à la déclaration des éléments nécessaires au calcul des cotisations et contributions sociales dues après la date limite de dépôt de la déclaration mentionnée à l'article 170 du code général des impôts sont transmises par voie dématérialisée par le travailleur indépendant aux organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale.

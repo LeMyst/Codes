@@ -11,3 +11,6 @@ Toutefois, pour la détermination de l'actif net ouvrant droit au recouvrement, 
 -et que ces libéralités et ces primes, en minorant l'actif net successoral, ont eu pour effet de faire obstacle en tout ou partie à l'exercice par les organismes et services précités de leur action en recouvrement sur succession de l'allocation de solidarité.
 
 Ces dispositions particulières au recouvrement sur successions de l'allocataire, qui n'ont pas d'incidence sur la validité des libéralités et contrats consentis ou conclus par l'allocataire, ont seulement pour effet de les rendre inopposables aux organismes et services mentionnés à l'article L. 815-7 précité dans le cas visé au troisième alinéa du présent article.
+
+NOTA:
+Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

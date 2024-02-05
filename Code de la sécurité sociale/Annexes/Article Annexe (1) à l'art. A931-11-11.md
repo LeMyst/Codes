@@ -62,7 +62,7 @@ B. - Passif
 
 |  |  |  |
 | --- | --- | --- |
-|   | TOTAL | TOTAL N - 1 |
+|  | TOTAL | TOTAL N - 1 |
 | B1 Fonds propres |  |  |
 | B1a Fonds d'établissement et de développement |  |  |
 | B1b Réserves de réévaluation |  |  |
@@ -100,7 +100,7 @@ C. - Tableau des engagements reçus et donnés
 
 |  |  |  |
 | --- | --- | --- |
-|   | N | N - 1 |
+|  | N | N - 1 |
 | C1 Engagements reçus |  |  |
 | C2 Engagements donnés : |  |  |
 | C2a Avals, cautions et garanties de crédit donnés |  |  |
@@ -117,8 +117,7 @@ Règles de raccordement des comptes au bilan (actif)
 
 |  |  |  |
 | --- | --- | --- |
-| POSTE | COMPTES
-raccordés | COMMENTAIRES |
+| POSTE | COMPTESraccordés | COMMENTAIRES |
 | A1 | 50 | Net des comptes 58 et 59 correspondants |
 | A2a | 21 et 22 | Net des comptes 28 et 29 correspondants |
 | A2b | 25 et 26 | Net des comptes 28 et 29 correspondants |
@@ -154,8 +153,7 @@ Règles de raccordement des comptes au bilan (passif)
 
 |  |  |  |
 | --- | --- | --- |
-| POSTE | COMPTES
-raccordés | COMMENTAIRES |
+| POSTE | COMPTESraccordés | COMMENTAIRES |
 | B1a | 102, 103 ou 18 |  |
 | B1b | 105 |  |
 | B1c | 106 |  |

@@ -9,3 +9,6 @@ I.-La fraction de pension de vieillesse servie en application de l'article L. 16
 3° Pour les assurés mentionnés à l'article L. 161-22-1-6, à la différence entre 100 % et la quotité totale travaillée, calculée le cas échéant en additionnant les durées du travail effectuées dans le cadre de plusieurs emplois à temps non complet, sans que la fraction n'excède 60 %.
 
 II.-Par dérogation au I, la fraction de pension de vieillesse est fixée à titre provisionnel pendant les dix-huit premiers mois au taux de 50 % de la pension de vieillesse des assurés visés au 2° de l'article L. 161-22-1-5. A compter du 1er juillet de la deuxième année et chaque 1er juillet, il est, le cas échéant, procédé à la révision de la fraction de pension.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

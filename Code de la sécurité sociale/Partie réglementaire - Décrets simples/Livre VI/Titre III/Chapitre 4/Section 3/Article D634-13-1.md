@@ -7,3 +7,6 @@ L'assuré atteste la transmission par tous moyens. Celle-ci ne peut être antér
 Au cours de la période de six mois mentionnée au premier alinéa, le service de la pension est suspendu à compter du premier jour du mois civil suivant celui au cours duquel les conditions fixées au deuxième alinéa ne sont plus remplies.
 
 A l'issue de la période de six mois, le service de la pension est effectué dans les conditions prévues aux articles D. 634-11-1 et D. 634-11-5.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

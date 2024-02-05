@@ -7,3 +7,6 @@ L'organisme de recouvrement mentionné à l'article L. 133-5-10 met à dispositi
 Pour ouvrir droit au complément, le demandeur adresse par voie dématérialisée à l'organisme de recouvrement mentionné à l'article L. 133-5-10 la déclaration mentionnée aux articles D. 133-13-2 et D. 133-13-17, dans le délai prévu à l'article D. 133-13-9.
 
 L'organisme de recouvrement mentionné à l'article L. 133-5-10 assure le calcul et le recouvrement des cotisations, contributions sociales et de la retenue à la source prévue à l' article 204 A du code général des impôts dans les conditions prévues aux articles D. 133-13-7 à D. 133-13-11 et D. 133-13-16 à D. 133-13-18 du présent code.
+
+NOTA:
+Décret 2003-1394 2003-12-31 art. 4 : les dispositions du présent article entrent en vigueur le 1er janvier 2004, dans les conditions prévues au VIII de l'art. 60 de la loi du 18 décembre 2003.

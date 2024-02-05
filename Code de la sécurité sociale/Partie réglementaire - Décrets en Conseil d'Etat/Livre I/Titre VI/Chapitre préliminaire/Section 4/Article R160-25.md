@@ -17,3 +17,6 @@ Elles peuvent avoir pour objet :
 6° La participation à des actions de contrôle.
 
 Les conventions mentionnées à l'article R. 160-26 précisent les opérations de gestion qui sont confiées à l'organisme délégataire.
+
+NOTA:
+Conformément au II de l'article 4 du décret n° 2017-656 du 27 avril 2017, les dispositions du présent article sont applicables aux mutuelles et groupements mutualistes mentionnés au A du XIII de l'article 59 de la loi n° 2015-1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016.

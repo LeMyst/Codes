@@ -9,3 +9,6 @@ I.-Pour le calcul de l'assiette de la contribution prévue à l'article L. 136-1
 3° Les allocations et avantages mentionnés au a du 1° du II de l'article L. 136-8.
 
 II.-La contribution est établie sur l'assiette correspondant aux cotisations forfaitaires applicables aux catégories de salariés ou assimilés visées par les décrets pris en application de l'article L. 242-4-4, dans leur rédaction en vigueur à la date de publication de la dernière loi de financement de la sécurité sociale.
+
+NOTA:
+Conformément au VII de l'article 8 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions s'appliquent aux avantages dus à compter du 1er janvier 2021.

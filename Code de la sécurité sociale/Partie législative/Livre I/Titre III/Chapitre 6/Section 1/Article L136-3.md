@@ -17,3 +17,6 @@ II.-Par dérogation au I du présent article, la contribution due au titre des a
 III.-L'assiette résultant de l'application des I et II du présent article fait l'objet d'un abattement de 26 %. Toutefois, cet abattement ne peut être ni inférieur à un montant plancher, fixé par décret, qui ne peut dépasser le montant mentionné à la dernière phrase de l'article L. 633-1 du présent code, ni supérieur à un montant plafond fixé, également par décret, à une valeur au moins égale au plafond annuel mentionné à l'article L. 241-3.
 
 IV.-La contribution due par les travailleurs indépendants au titre des activités relevant des articles 50-0 ou 102 ter du code général des impôts mais ne relevant pas du dispositif prévu à l'article L. 613-7 du présent code est assise sur le montant des bénéfices déterminés aux articles 50-0 et 102 ter du code général des impôts.
+
+NOTA:
+Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

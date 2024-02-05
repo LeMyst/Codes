@@ -14,8 +14,7 @@ a) De l'ensemble des catégories de ressources de l'allocataire, de son conjoint
 
 Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la déduction des créances alimentaires mentionnées au a de l'article R. 532-3.
 
-Il est fait application des dispositions des articles R. 532-4 à R. 532-8 à l'exception de la référence qui est faite dans ces articles à l'article R. 532-3 et sous réserve de l'application de l'alinéa précédent. Pour les ressources trimestrielles, il est également fait application des dispositions du cinquième alinéa de l'article R. 262-4, de l'article R. 262-13 et des articles R. 262-18, R. 262-19,
-R. 262-21 à R. 262-24 du code de l'action sociale et des familles ainsi que des dispositions de l'article R. 821-4-1 du présent code.
+Il est fait application des dispositions des articles R. 532-4 à R. 532-8 à l'exception de la référence qui est faite dans ces articles à l'article R. 532-3 et sous réserve de l'application de l'alinéa précédent. Pour les ressources trimestrielles, il est également fait application des dispositions du cinquième alinéa de l'article R. 262-4, de l'article R. 262-13 et des articles R. 262-18, R. 262-19, R. 262-21 à R. 262-24 du code de l'action sociale et des familles ainsi que des dispositions de l'article R. 821-4-1 du présent code.
 
 Les revenus ainsi déterminés sont divisés, selon le cas, par trois ou par douze ;
 

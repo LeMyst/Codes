@@ -9,3 +9,6 @@ II.-Sauf en cas d'omission de salariés dans la déclaration ou d'inexactitudes 
 1° La déclaration rectifiée et le versement de la régularisation correspondant au complément de cotisations et de contributions sociales mentionné au I sont adressées au plus tard lors de la première échéance suivant celle de la déclaration et du versement initial ;
 
 2° Le montant des majorations et pénalités qui seraient applicables est inférieur à la valeur mensuelle du plafond de la sécurité sociale ou le versement régularisateur est inférieur à 5 % du montant total des cotisations initiales.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

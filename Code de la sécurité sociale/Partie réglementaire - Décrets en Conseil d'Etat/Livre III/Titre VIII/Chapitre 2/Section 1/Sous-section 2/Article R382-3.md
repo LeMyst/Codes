@@ -15,3 +15,6 @@ c) Lorsque l'organisme mentionné à l'article L. 382-5 a procédé à l'évalua
 d) Après qu'il en a informé immédiatement l'organisme mentionné au premier alinéa de l'article L. 382-5 lorsque l'artiste-auteur a décidé de cesser définitivement toute activité artistique.
 
 Le ou les organismes agréés procèdent en outre au recensement permanent des artistes-auteurs et des diffuseurs, assurent le secrétariat de la commission d'action sociale définie à l'article R. 382-30-2 et des commissions instituées par l'article L. 382-1 et informent les artistes-auteurs des conditions d'affiliation et des prestations auxquelles ils peuvent prétendre.
+
+NOTA:
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -15,3 +15,6 @@ Le conseil d'administration de l'Institut national de formation a notamment pour
 6° D'approuver le contrat pluriannuel de gestion prévu à l'article D. 227-3 ;
 
 7° De délibérer sur les rapports qui lui sont soumis par le directeur.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

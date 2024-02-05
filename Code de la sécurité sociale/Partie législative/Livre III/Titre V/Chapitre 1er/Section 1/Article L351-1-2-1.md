@@ -3,3 +3,6 @@
 Pour les assurés qui bénéficient d'au moins un trimestre de majoration de durée d'assurance au titre des articles L. 351-4, L. 351-4-1 ou L. 351-5, la durée d'assurance ayant donné lieu à cotisations à la charge de l'assuré, accomplie l'année précédant l'âge mentionné à l'article L. 161-17-2, lorsque celui-ci est égal ou supérieur à soixante-trois ans, et au delà de la limite mentionnée au deuxième alinéa de l'article L. 351-1 ouvre droit à une majoration de pension dans les mêmes conditions que celles prévues au premier alinéa de l'article L. 351-1-2, sous réserve de l'application du second alinéa du même article L. 351-1-2.
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles le présent article s'applique aux assurés affiliés à plusieurs régimes légaux ou rendus légalement obligatoires d'assurance vieillesse, afin que soient pris en compte, pour le bénéfice de la majoration de pension mentionnée au premier alinéa du présent article, des trimestres de majoration de durée d'assurance ou de bonification accordés à l'assuré au même titre que ceux mentionnés au même premier alinéa par les autres régimes.
+
+NOTA:
+Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

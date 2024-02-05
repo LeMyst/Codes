@@ -13,3 +13,6 @@ Les membres participants comprennent :
 3° Les personnes visées aux 1° et 2° à compter de la date à laquelle l'institution a liquidé la ou les prestations auxquelles elles ont droit.
 
 Est considérée comme salariée, au sens du présent titre, toute personne relevant des articles L. 311-2 et L. 311-3 du présent code et de l'article 1144 du code rural (1).
+
+NOTA:
+(1) L'article 1144 a été codifié par l'ordonnance n° 2000-550 du 15 juin 2000 sous les articles L. 722-1, L. 722-2, L. 722-3, L. 722-20 et L. 751-1 du code rural.

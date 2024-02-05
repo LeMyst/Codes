@@ -9,3 +9,6 @@ Ils sont tenus en particulier :
 2°) de leur prêter concours pour l'établissement des demandes dont la satisfaction leur incombe.
 
 Ils peuvent également apporter leur concours à leurs allocataires en fin de droit pour l'établissement de dossiers formulés au titre d'autres régimes de protection sociale auprès d'autres organismes.
+
+NOTA:
+Code de la sécurité sociale L843-1 : l'article L583-1 est applicable aux aides à l'emploi pour la garde des jeunes enfants.

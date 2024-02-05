@@ -7,3 +7,6 @@ A défaut de réponse sous quinze jours ou si celle-ci ne permet pas d'être ass
 En cas d'inobservation de ces dispositions ou s'il constate qu'en dépit des décisions prises la continuité de l'exploitation demeure compromise, le commissaire aux comptes établit un rapport spécial qui est présenté à la prochaine commission paritaire ou assemblée générale. Ce rapport est communiqué au comité d'entreprise.
 
 Si, à l'issue de la réunion de la commission paritaire ou de celle de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal judiciaire et lui en communique les résultats.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

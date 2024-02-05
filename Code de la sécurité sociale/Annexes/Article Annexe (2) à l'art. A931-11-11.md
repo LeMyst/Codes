@@ -8,11 +8,7 @@ I. - Compte technique des opérations Non-vie
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|   | OPÉRATIONS
-brutes | CESSIONS
-et rétrocessions | OPÉRATIONS
-nettes | OPÉRATIONS
-nettes N-1 |
+|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
 | D1 Cotisations acquises |  |  |  |  |
 | D1a Cotisations |  |  |  |  |
 | D1b Charge des provisions pour cotisations non acquises |  |  |  |  |
@@ -34,11 +30,7 @@ II. - Compte technique des opérations Vie
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|   | OPÉRATIONS
-brutes | CESSIONS
-et rétrocessions | OPÉRATIONS
-nettes | OPÉRATIONS
-nettes N-1 |
+|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
 | E1 Cotisations |  |  |  |  |
 | E2 Produits des placements |  |  |  |  |
 | E2a Revenus des placements |  |  |  |  |
@@ -72,7 +64,7 @@ III. - Compte non technique
 
 |  |  |  |
 | --- | --- | --- |
-|   | OPÉRATIONS N | OPÉRATIONS N - 1 |
+|  | OPÉRATIONS N | OPÉRATIONS N - 1 |
 | F1 Résultat technique des opérations non-vie |  |  |
 | F2 Résultat technique des opérations vie |  |  |
 | F3 Produits des placements |  |  |

@@ -5,3 +5,6 @@ Dans le cadre de leurs missions, les agents chargés du contrôle peuvent utilis
 L'agent chargé du contrôle est tenu d'informer la personne contrôlée de la teneur et de l'origine des documents ou informations, obtenus dans les conditions prévues au premier alinéa du présent article, sur lesquels il se fonde. Sur sa demande et après que cette faculté lui a été précisée, il communique une copie des documents à la personne contrôlée.
 
 Un décret en Conseil d'Etat fixe les conditions et garanties applicables à cette utilisation de documents ou d'informations ainsi que le délai d'information de la personne contrôlée.
+
+NOTA:
+Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

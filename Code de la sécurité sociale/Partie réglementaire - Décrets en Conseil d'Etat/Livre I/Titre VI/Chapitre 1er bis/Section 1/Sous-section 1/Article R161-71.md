@@ -43,3 +43,8 @@ a) Les méthodologies d'évaluation médico-économique adaptées aux différent
 b) Les modalités et critères d'évaluation médico-économique applicables dans l'exercice des missions mentionnées à l'article L. 161-37 et réalise, le cas échéant, les évaluations médico-économiques requises. A ces fins, elle s'appuie, en tant que de besoin, sur les travaux émanant d'autorités scientifiques ou d'organismes français ou étrangers.
 
 La Haute Autorité de santé peut inviter les associations de patients et d'usagers du système de santé à apporter leurs contributions à l'évaluation des médicaments et des produits ou prestations mentionnés aux articles L. 165-1 et L. 165-11. A cette fin, elle informe les associations, notamment via son site internet, de l'objet et du périmètre des évaluations pour lesquelles une contribution peut être transmise. Les modalités de recueil des contributions sont définies par la commission spécialisée compétente de la Haute Autorité de santé.
+
+NOTA:
+Se référer à l'article 3 du décret n° 2021-1796 du 23 décembre 2021 en ce qui concerne les modalités d'application.
+
+Conformément à l'article 2 I du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission d'évaluation économique et de santé publique suivant la publication du présent décret.

@@ -6,11 +6,13 @@ L'action de l'allocataire pour le paiement de l'allocation se prescrit par deux 
 
 Cette prescription est également applicable à l'action intentée par un organisme payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
 
-Les dispositions des articles
-L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés.
+Les dispositions des articles L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés.
 
 Les différends auxquels peut donner lieu l'application du présent titre et qui ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions régissant le contentieux de la sécurité sociale.
 
 Le financement de l'allocation aux adultes handicapés, de la majoration pour la vie autonome et de l'allocation pour adulte handicapé mentionnée à l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte est assuré par l'Etat. La prise en charge par l'Etat des pertes sur créances d'indus ne peut excéder une fraction de ces pertes, fixée par arrêté conjoint des ministres chargés de la sécurité sociale et du budget.
 
 La prescription est interrompue tant que l'organisme débiteur des prestations familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison de la mise en œuvre d'une procédure de recouvrement d'indus relevant des articles L. 553-2 ou L. 821-5-1 du code de la sécurité sociale, L. 262-46 du code de l'action sociale et des familles ou L. 823-9 du code de la construction et de l'habitation.
+
+NOTA:
+Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.

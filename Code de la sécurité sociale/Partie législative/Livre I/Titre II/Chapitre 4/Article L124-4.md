@@ -5,3 +5,6 @@ Les travaux, les fournitures, les prestations intellectuelles et les services po
 Les dispositions du premier alinéa sont également applicables aux groupements d'intérêt public et aux groupements d'intérêt économique financés majoritairement par un ou plusieurs organismes mentionnés au premier alinéa, ou par un ou plusieurs organismes nationaux cités à l'article L. 200-2.
 
 Les conditions d'application du présent article sont fixées par arrêté interministériel.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

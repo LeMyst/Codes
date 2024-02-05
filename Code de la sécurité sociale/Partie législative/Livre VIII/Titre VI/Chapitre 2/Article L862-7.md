@@ -15,3 +15,6 @@ e) L'Autorité de contrôle prudentiel et de résolution transmet chaque année,
 Sur cette base, le ministre chargé de la sécurité sociale établit un rapport faisant apparaître notamment le nombre et l'âge des bénéficiaires de la protection complémentaire, l'évolution du montant des participations versées par les bénéficiaires mentionné au 2° de l'article L. 861-1 ainsi que l'évolution du montant des cotisations mentionnées au I de l'article L. 862-4, du montant des prestations afférentes à la protection complémentaire en matière de frais de santé versées par ces organismes et du montant des impôts, taxes et contributions qu'ils acquittent et de leur rapport de solvabilité.
 
 Ce rapport est remis avant le 31 décembre au Parlement. Il est rendu public. Le conseil mentionné à l'article L. 143-1 du code de l'action sociale et des familles rend un avis sur ce rapport, qui est également transmis au Parlement avant le 31 décembre de l'année considérée.
+
+NOTA:
+Conformément au dernier alinéa du IV de l'article 88 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2023.

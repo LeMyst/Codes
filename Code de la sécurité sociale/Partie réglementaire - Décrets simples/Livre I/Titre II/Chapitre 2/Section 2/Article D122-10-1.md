@@ -11,3 +11,6 @@ Les délégations données aux agents de l'organisme doivent préciser, pour cha
 2° Un centre agréé par arrêté du ministre chargé du budget et du ministre chargé de la sécurité sociale des opérations d'encaissement de certains moyens de paiement.
 
 Les délégations données aux responsables des centres agréés font l'objet d'une convention établie entre le directeur comptable et financier et les centres, approuvée par le directeur de l'organisme de sécurité sociale. Une convention type définie par le ministre chargé de la sécurité sociale et le ministre chargé du budget précise les conditions dans lesquelles la délégation s'exécute.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

@@ -23,3 +23,6 @@ Le Centre des liaisons européennes et internationales de sécurité sociale a p
 10° D'assurer la fonction d'assistance à maîtrise d'ouvrage des échanges électroniques de données individuelles de sécurité sociale, notamment par les activités de veille et par la coordination nécessaire à la pérennité de ces échanges ;
 
 11° D'accomplir, dans le domaine de la sécurité sociale, toutes autres tâches qui lui seraient confiées concernant les personnes visées par les règlements et accords mentionnés au 1° ainsi que la coopération technique avec les Etats étrangers.
+
+NOTA:
+Conformément à l’article 8 du décret n° 2022-434 du 25 mars 2022, le 4° du présent article entre en vigueur le 1er juillet 2022.

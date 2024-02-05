@@ -41,3 +41,6 @@ II. - Le débiteur ne peut être considéré comme hors d'état de faire face à
 Dans le cas mentionné au 2° du II, il est tenu compte des ressources ayant servi à déterminer le droit aux prestations mentionnées au a et au d du 2° du I, lorsque ces ressources ne sont pas connues au moment de la demande de l'allocation de soutien familial ou du réexamen du droit.
 
 III.-La situation du débiteur fait l'objet d'un contrôle par l'organisme débiteur des prestations familiales dans un délai de quatre mois après le dépôt par le parent créancier de sa demande d'allocation de soutien familial et par la suite au moins une fois par an.
+
+NOTA:
+Aux termes de l'article 5 II du décret n° 2018-656 du 24 juillet 2018, les présentes dispositions sont applicables à compter du 1er octobre 2018 pour les demandes d'allocation de soutien familial déposées à compter de cette date et à compter du 1er janvier 2019 pour l'ensemble des prestations dues à compter de cette date.

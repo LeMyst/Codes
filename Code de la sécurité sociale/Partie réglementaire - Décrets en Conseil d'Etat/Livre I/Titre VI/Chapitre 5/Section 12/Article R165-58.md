@@ -7,3 +7,6 @@ La radiation est prononcée par arrêté des ministres chargés de la santé et 
 Le fabricant, ou son mandataire, ou le distributeur peut présenter des observations écrites aux ministres ou à la commission, dans le délai de trente jours suivant la réception ou la publication de l'information, ou demander dans un délai de dix jours à compter de cette réception ou publication, à être entendu par la commission mentionnée ci-dessus.
 
 En cas de demande d'audition, cette audition, dont la date est fixée par la commission, intervient dans un délai maximal de quarante-cinq jours suivant la réception de la demande par la commission. Sur demande motivée du ministre chargé de la santé ou de la sécurité sociale auprès de la commission, ce délai peut être réduit à un mois.
+
+NOTA:
+Conformément à l'article 2 IV du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission nationale d'évaluation des dispositifs médicaux et des technologies de santé suivant la publication dudit décret.

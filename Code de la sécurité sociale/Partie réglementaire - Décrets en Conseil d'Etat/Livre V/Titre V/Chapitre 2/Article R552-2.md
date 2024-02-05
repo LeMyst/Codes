@@ -15,3 +15,8 @@ II.-Par dérogation au I, les prestations suivantes observent des règles partic
 5° L'allocation de soutien familial mentionnée au 3° du I de l'article L. 523-1 est due à compter du premier jour du mois suivant celui du dépôt de la demande, lorsque l'un au moins des deux parents se soustrait à son obligation d'entretien sans être considéré comme hors d'état d'y faire face.
 
 Toutefois, si la créance alimentaire a été fixée par le juge judiciaire, à l'issue d'une procédure de recouvrement engagée à l'encontre du parent débiteur, l'allocation est due, si les conditions d'ouverture du droit sont réunies, à compter du premier jour du mois suivant la date à laquelle le parent défaillant a cessé de faire face à son obligation, et au plus tôt trois mois avant le premier jour du mois du dépôt de la demande.
+
+NOTA:
+Conformément à l'article 3, II du décret n° 2018-331 du 3 mai 2018, ces dispositions sont applicables aux gardes réalisées à compter du 1er octobre 2018. Pour les gardes d'enfants réalisées avant le 1er octobre 2018, les dispositions du code de la sécurité sociale demeurent applicables dans leur rédaction antérieure au présent décret.
+
+Conformément aux dispositions du II de l'article 5 du décret n° 2018-655 du 24 juillet 2018, les dipsositions du 5° du II sont applicables aux prestations dues à compter du 1er octobre 2018.

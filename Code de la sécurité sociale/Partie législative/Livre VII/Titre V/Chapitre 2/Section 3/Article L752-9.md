@@ -17,3 +17,6 @@ Chaque caisse d'allocations familiales de Guadeloupe, de Guyane, de Martinique e
 5° Quatre personnes qualifiées dans les domaines d'activité des caisses d'allocations familiales et désignées par l'autorité compétente de l'Etat dont au moins un représentant de l'organisation la plus représentative des exploitants agricoles dans le ressort de la caisse, au sens du premier alinéa du I de l'article 2 de la loi n° 99-574 du 9 juillet 1999 d'orientation agricole.
 
 Siègent également, avec voix consultative, trois représentants du personnel élus dans des conditions fixées par décret.
+
+NOTA:
+Conformément au II de l'article 7 de loi n° 2015-1268 du 14 octobre 2015, les présentes dispositions s'appliquent à compter du prochain renouvellement des membres des conseils d'administration concernés.

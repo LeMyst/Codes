@@ -15,3 +15,10 @@ Les salariés garantis collectivement, dans les conditions prévues à l'article
 6° L'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail mentionnée au premier alinéa.
 
 Le présent article est applicable dans les mêmes conditions aux ayants droit du salarié qui bénéficient effectivement des garanties mentionnées au premier alinéa à la date de la cessation du contrat de travail.
+
+NOTA:
+LOI n° 2013-504 du 14 juin 2013 art. 1 X : L'article L. 911-8 du code de la sécurité sociale entre en vigueur :
+
+1° Au titre des garanties liées aux risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité, à compter du 1er juin 2014 ;
+
+2° Au titre des garanties liées au risque décès ou aux risques d'incapacité de travail ou d'invalidité, à compter du 1er juin 2015.

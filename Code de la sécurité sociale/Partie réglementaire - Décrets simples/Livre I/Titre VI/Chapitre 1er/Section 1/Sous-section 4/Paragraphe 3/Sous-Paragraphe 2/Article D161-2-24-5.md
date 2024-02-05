@@ -5,3 +5,6 @@ L'exercice d'une activité à temps partiel par les assurés visés à l'avant-d
 La quotité de travail à temps partiel ou à temps réduit globale est définie comme la somme des quotités de travail soit à temps partiel par rapport à la durée du travail à temps complet, soit à temps réduit par rapport à la durée de travail maximale exprimée en jours conformément aux dispositions de l'article R. 161-19-6, applicables à chacun des emplois.
 
 Lorsque les assurés exercent une activité d'assistant maternel et une autre activité salariée, l'activité d'assistant maternel est considérée comme exercée auprès d'un seul employeur.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

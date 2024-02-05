@@ -23,3 +23,6 @@ II. – Sont présumés remplir les conditions mentionnées au I du présent art
 5° Les spécialités faisant l'objet d'une distribution parallèle dès lors qu'elles sont inscrites sur la liste mentionnée à l'article L. 162-22-7 au titre de leur exploitation par le titulaire de l'autorisation de mise sur le marché ou, pour le compte de ce dernier, par une autre entreprise ou un autre organisme.
 
 III. – L'inscription d'une spécialité pharmaceutique sur la liste mentionnée à l'article L. 162-22-7 peut être assortie, par la décision initiale d'inscription ou par une décision ultérieure, d'une mention prévoyant que cette spécialité n'est prise en charge par l'assurance maladie que si, conformément à l'article L. 162-19-1, le prescripteur mentionne sur l'ordonnance des éléments relatifs aux circonstances et aux indications de la prescription. Cette mention précise la nature de ces éléments et les motifs pour lesquels ils doivent figurer sur l'ordonnance.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 2 du décret n° 2021-1614 du 9 décembre 2021.

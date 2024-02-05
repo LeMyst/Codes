@@ -11,3 +11,6 @@ L'installation du directeur comptable et financier intérimaire désigné par le
 L'installation de l'agent comptable intérimaire désigné par le directeur ou le directeur général de l'organisme national compétent s'effectue dans les mêmes conditions que celle de l'agent comptable.
 
 Les dispositions du présent article sont applicables à tous les organismes à l'exception de ceux ayant le caractère d'établissement public. Toutefois, la deuxième phrase du troisième alinéa et les quatrième et cinquième alinéas ne sont pas applicables aux organismes de mutualité sociale agricole.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

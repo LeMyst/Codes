@@ -19,3 +19,6 @@ b) D'inobservation des règles de prise en charge mentionnées à l'article L. 1
 4° N'ayant pas respecté les formalités administratives de facturation, notamment les formalités prévues à la section 4 du chapitre Ier du titre VI du livre Ier relatives aux modalités de présentation des documents auxquels sont subordonnées la constatation des soins et l'ouverture du droit aux prestations de l'assurance maladie ou n'ayant pas respecté, de manière répétée, l'obligation faite à tout établissement de santé délivrant des médicaments relevant des listes I et II et des médicaments stupéfiants d'apposer sur l'ordonnance les mentions relatives aux délivrances telles que prévues à l'article R. 5132-13 du code de la santé publique. ;
 
 5° Pour les faits mentionnés à l'article R. 147-8 du fait de leurs salariés.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.

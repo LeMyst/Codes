@@ -9,3 +9,6 @@ Les dispositions des articles R. 815-2 et R. 815-3, du second alinéa de l'artic
 3° Les références : “ L. 815-1 ” et “ L. 815-7 ” sont remplacées par la référence : “ L. 815-24 ” ;
 
 4° La référence : “ L. 815-9 ” est remplacée par la référence : “ L. 815-24-1 ”.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2020-1798 du 29 décembre 2020, ces dispositions entrent en vigueur au 1er janvier 2021 pour les allocations supplémentaires d'invalidité dues à compter de la même date.

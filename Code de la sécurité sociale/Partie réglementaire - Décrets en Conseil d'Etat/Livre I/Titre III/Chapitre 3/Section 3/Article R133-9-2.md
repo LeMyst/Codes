@@ -37,3 +37,6 @@ IV.-Lorsque la demande de rectification est présentée postérieurement au dél
 2° En cas de demande formulée par oral, l'assuré est invité par l'organisme à produire dans un délai de vingt jours les documents rappelant sa demande et la justifiant. Le défaut de production de ces documents dans le délai imparti entraîne le rejet de la demande. Si l'assuré produit ces documents dans le délai imparti, celle-ci est réputée être exercée dans les conditions du recours préalable mentionné à l'article L. 142-4.
 
 V.-A défaut de paiement, à l'expiration du délai de forclusion prévu à l'article R. 142-1, après notification de la décision de la commission instituée à ce même article ou à l'expiration des délais de remboursement des sommes en un ou plusieurs versements mentionnés au b et c du 2° du I et au 2° du III, le directeur de l'organisme créancier compétent adresse au débiteur par tout moyen donnant date certaine à sa réception une mise en demeure de payer dans le délai d'un mois qui comporte le motif, la nature et le montant des sommes demeurant réclamées, la date du ou des versements indus donnant lieu à recouvrement et les voies et délais de recours.
+
+NOTA:
+Conformément à l’article 7 du décret n° 2021-306 du 23 mars 2021, ces dispositions sont applicables aux indus notifiés à compter de l'entrée en vigueur dudit décret.

@@ -39,3 +39,6 @@ Ces dérogations ne peuvent être prévues que pour les actes et prestations dir
 Le décret mentionné au premier alinéa détermine les prestations et les personnes concernées, ainsi que la nature, le niveau, la durée et les conditions de mise en œuvre des dérogations et des prises en charge applicables. Il fixe, le cas échéant, des modalités d'organisation et de coordination des organismes de sécurité sociale, spécifiques à la procédure de prise en charge. Il peut prévoir l'application rétroactive des dispositions qu'il contient, dans la limite d'un mois avant la date de sa publication.
 
 Le décret pris sur le fondement du présent article est dispensé des consultations obligatoires prévues par toute disposition législative ou réglementaire. Par dérogation à l'article L. 200-3 du code de la sécurité sociale, les conseils ou les conseils d'administration des caisses nationales concernées sont informés de tout projet de texte pris en application du présent article.
+
+NOTA:
+Conformément au V de l'article 2 de la loi n° 2023-567 du 7 juillet 2023, ces dispositions sont applicables aux arrêts de travail prescrits à compter d'une date prévue par décret, et au plus tard du 1er janvier 2024.

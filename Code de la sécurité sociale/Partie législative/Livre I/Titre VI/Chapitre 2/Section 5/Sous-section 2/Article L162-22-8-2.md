@@ -17,3 +17,6 @@ Dans les établissements de santé mentionnés aux d et e de L. 162-22, pour les
 4° Des recettes liées à la participation de l'assuré aux frais liés aux actes et prestations réalisés dans une structure de médecine d'urgence, mentionnée au quatrième alinéa du I de l'article L. 160-13.
 
 Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément auVII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

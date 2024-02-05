@@ -19,3 +19,6 @@ b) Un membre suppléant appelé à remplacer un des membres titulaires mentionn�
 a) Le directeur de la sécurité sociale, le directeur général de la santé, le directeur général de l'offre de soins, ou leurs représentants, qu'ils désignent, chacun d'eux pouvant se faire accompagner par une personne de ses services ;
 
 b) Les directeurs de la Caisse nationale de l'assurance maladie, de la Caisse centrale de la mutualité sociale agricole et de l'Union nationale des caisses d'assurance maladie, ou leurs représentants, qu'ils désignent.
+
+NOTA:
+Conformément à l'article 2 I du décret n° 2018-444 du 4 juin 2018, les présentes dispositions s'appliquent à compter du prochain renouvellement de la commission d'évaluation économique et de santé publique suivant la publication dudit décret.

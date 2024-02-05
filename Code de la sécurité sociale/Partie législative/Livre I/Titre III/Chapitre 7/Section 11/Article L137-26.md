@@ -11,3 +11,6 @@ Le produit de ces prélèvements est déclaré et liquidé par les opérateurs d
 3° Pour les personnes non redevables de la taxe sur la valeur ajoutée et les assujettis non établis en France se prévalant d'un des régimes particuliers mentionnés aux articles 359 et 369 ter de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au 1 de l'article 287 du code général des impôts déposée auprès du service chargé du recouvrement dont relève le siège ou le principal établissement au plus tard le 25 du mois qui suit celui au cours duquel l'exigibilité est intervenue.
 
 Ces prélèvements sont recouvrés et contrôlés selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
+
+NOTA:
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article L. 137-26, dans sa rédaction résultant du E du II du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er janvier 2021, et au plus tard le 1er janvier 2022.

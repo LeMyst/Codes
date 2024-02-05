@@ -7,3 +7,6 @@ Il est chargé de la tenue des comptabilités de la Haute Autorité, du recouvre
 Avec l'accord du président du collège, l'agent comptable peut confier sous son contrôle la comptabilité analytique et la comptabilité matière aux services de la Haute Autorité.
 
 L'agent comptable peut nommer des mandataires qui sont agréés par le président du collège.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

@@ -17,3 +17,6 @@ Pour les invalides des second et troisième groupes, le taux de 30 % ci-dessus e
 Toutefois, les maxima prévus pour la détermination du montant des prestations en espèces du régime général des assurances sociales sont applicables dans les cas mentionnés au présent article.
 
 L'allocation cesse d'être servie dès que le fonctionnaire est réintégré dans ses fonctions ou mis à la retraite et, en tout état de cause, à l'âge prévu par l'article L. 351-1-5.
+
+NOTA:
+Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

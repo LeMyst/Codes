@@ -7,3 +7,6 @@ Les dispositions des sections 1 à 4 du présent chapitre sont applicables, sous
 2°) fonctionnaires civils de l'Etat soumis au statut général et appartenant aux cadres relevant des autres ministères ;
 
 3°) fonctionnaires civils de l'Etat soumis au statut général et magistrats détachés dans un emploi des cadres de l'une ou de l'autre catégorie ci-dessus.
+
+NOTA:
+Code de la sécurité sociale D712-8 : champ d'application.

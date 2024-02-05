@@ -13,3 +13,6 @@ Les sommes recouvrables sont garanties par une hypothèque légale prenant rang 
 L'action en recouvrement se prescrit par cinq ans à compter de l'enregistrement d'un écrit ou d'une déclaration mentionnant la date et le lieu du décès du défunt ainsi que le nom et l'adresse de l'un au moins des ayants droit.
 
 Lorsque le montant de l'allocation de solidarité aux personnes âgées est versé à des conjoints, concubins ou partenaires liés par un pacte civil de solidarité, tous deux bénéficiaires, l'allocation est réputée avoir été perçue pour moitié par chacun des membres du couple.
+
+NOTA:
+Conformément au D du V de l'article 90 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

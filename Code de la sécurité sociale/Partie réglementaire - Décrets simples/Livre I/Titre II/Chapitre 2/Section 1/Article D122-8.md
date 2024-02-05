@@ -9,3 +9,6 @@ b) les modalités de contrôle des données ou pièces justificatives ;
 c) la hiérarchie des contrôles par nature des opérations, ceux-ci pouvant ne pas être exhaustifs ;
 
 d) les contrôles globaux du domaine informatique, mentionnés à l'article D. 122-9.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

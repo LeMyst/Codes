@@ -21,3 +21,6 @@ Restent soumis à une organisation spéciale de sécurité sociale, si leurs res
 9°) la Banque de France, pour les agents titulaires recrutés avant le 1er septembre 2023 ;
 
 10°) le Théâtre national de l'Opéra de Paris et la Comédie Française.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2023-839 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.

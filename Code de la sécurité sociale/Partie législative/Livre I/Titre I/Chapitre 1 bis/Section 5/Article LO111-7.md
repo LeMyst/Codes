@@ -9,3 +9,6 @@ Si l'Assemblée nationale n'a pas émis un vote en première lecture sur l'ensem
 Si le Sénat n'a pas émis un vote en première lecture sur l'ensemble du projet dans le délai imparti, le Gouvernement saisit à nouveau l'Assemblée nationale du texte soumis au Sénat, modifié, le cas échéant, par les amendements votés par le Sénat et acceptés par lui.
 
 Le projet de loi de financement de la sécurité sociale est ensuite examiné selon la procédure accélérée dans les conditions prévues à l'article 45 de la Constitution.
+
+NOTA:
+Loi organique n° 2010-1380 du 13 novembre 2010, article 5 : Ces dispositions sont applicables à compter de la loi de financement de la sécurité sociale pour 2011.

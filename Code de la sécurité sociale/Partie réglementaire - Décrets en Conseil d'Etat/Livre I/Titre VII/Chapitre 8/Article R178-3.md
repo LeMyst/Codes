@@ -41,3 +41,6 @@ d) PAEEHd représente le nombre de personnes bénéficiaires, dans le départeme
 e) PPCHd représente le nombre de personnes bénéficiaires, dans le département, de la prestation de compensation mentionnée à l'article L. 245-1 du code de l'action sociale et des familles, constaté au 31 décembre de l'année précédente ;
 
 f) POMSd représente le nombre annuel de décisions relatives à l'orientation de la personne handicapée vers un établissement ou service relevant de l'article L. 312-1 du même code, prises par la commission des droits et de l'autonomie des personnes handicapées du département tel que prévu par le 1° du I de l'article L. 241-6 du même code, constaté au 31 décembre de l'année précédente.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-834 du 29 juin 2021 : Par dérogation aux dispositions de l'article 1er du présent décret, le montant du concours perçu par chaque département au titre de l'année 2021 en application desdites dispositions est supérieur de 10 % au moins à celui perçu au titre de l'année 2020.

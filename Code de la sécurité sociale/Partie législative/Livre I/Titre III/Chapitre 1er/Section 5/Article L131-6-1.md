@@ -7,3 +7,6 @@ Les cotisations définitives dues au titre de cette période peuvent faire l'obj
 Le bénéfice de ces dispositions ne peut être obtenu plus d'une fois par période de cinq ans, au titre d'une création ou reprise d'entreprise.
 
 Le présent article n'est pas applicable à raison d'une modification des conditions dans lesquelles une entreprise exerce son activité.
+
+NOTA:
+Conformément à l'article 25 VI de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions sont applicables aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2015.

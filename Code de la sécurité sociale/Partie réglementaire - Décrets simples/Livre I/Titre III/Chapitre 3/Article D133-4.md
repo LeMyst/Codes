@@ -23,3 +23,6 @@ Lorsque seule une partie des cotisations et contributions sociales dues au titre
 8° La taxe pour frais de chambre consulaire mentionnée aux articles 1600 A et 1601-0 A du code général des impôts pour les travailleurs indépendants relevant des dispositions de l'article L. 613-7.
 
 Lorsque les sommes versées excèdent les cotisations et contributions sociales dues au titre d'une échéance, le reliquat est affecté par priorité, le cas échéant, aux cotisations et contributions impayées dues au titre de l'échéance la plus ancienne, selon l'ordre de priorité prévu au présent II.
+
+NOTA:
+Conformément au 1° de l’article 3 du décret n°2022-1735 du 30 décembre 2022, ces dispositions sont applicables aux employeurs agricoles des salariés mentionnés à l'article L. 722-20 du code rural et de la pêche maritime à une date fixée par arrêté des ministres chargés de la sécurité sociale, du budget et de l'agriculture et au plus tard à compter du 1er janvier 2024.

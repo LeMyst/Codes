@@ -15,3 +15,6 @@ V. − Le rapport médical mentionné aux articles L. 142-6 et L. 142-10 compren
 2° Ses conclusions motivées ;
 
 3° Les certificats médicaux, détenus par le praticien-conseil du service du contrôle médical et, le cas échéant, par la caisse, lorsque la contestation porte sur l'imputabilité des lésions, soins et arrêts de travail pris en charge au titre de l'accident du travail ou de la maladie professionnelle.
+
+NOTA:
+Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.

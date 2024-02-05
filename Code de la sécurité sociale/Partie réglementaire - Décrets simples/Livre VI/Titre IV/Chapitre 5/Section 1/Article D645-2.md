@@ -7,3 +7,6 @@ Le montant de la cotisation annuelle des bénéficiaires des régimes de prestat
 La cotisation due par les assurés reprenant ou poursuivant une activité relevant de l'article L. 643-6 ainsi que par les assurés relevant de l'article L. 642-4-2 est fixée, en application de la seconde phrase du premier alinéa de l'article L. 645-2 et du premier alinéa de l'article L. 645-2-1, à 3 %. L'application du présent alinéa ne peut conduire à appeler une cotisation supérieure à celle qui résulterait des dispositions de l'alinéa qui précède.
 
 2°) Paragraphe abrogé.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2019-1584 du 31 décembre 2019, ces dispositions s'appliquent aux cotisations et contributions dues sur les revenus perçus à compter du 1er janvier 2020.

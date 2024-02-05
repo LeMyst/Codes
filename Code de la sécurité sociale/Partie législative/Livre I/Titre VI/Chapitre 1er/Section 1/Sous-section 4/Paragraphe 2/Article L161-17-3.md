@@ -13,3 +13,6 @@ Pour les assurés des régimes auxquels s'applique l'article L. 161-17-2, la dur
 5° 171 trimestres, pour les assurés nés en 1964 ;
 
 6° 172 trimestres, pour les assurés nés à partir du 1er janvier 1965.
+
+NOTA:
+Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

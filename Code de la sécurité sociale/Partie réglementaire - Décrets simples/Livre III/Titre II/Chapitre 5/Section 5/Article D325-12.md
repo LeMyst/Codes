@@ -7,3 +7,6 @@ Le conseil d'administration peut :
 I.-Modifier la liste des prestations prises en charge par le régime ou un ou les taux de prise en charge mentionnés à l'article D. 325-6.
 
 II.-Fixer les taux des cotisations mentionnées à l'article L. 242-13 dans les conditions déterminées au 5° de l'article D. 325-4 et, au-delà du taux de 2,5 p. 100 prévu à cet article, proposer au ministre chargé de la sécurité sociale et au ministre chargé du budget un relèvement du ou des taux de cotisations mises à la charge des bénéficiaires du régime local en application de l'article L. 242-13.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

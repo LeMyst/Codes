@@ -5,3 +5,6 @@ I. - L'Etat fixe, sur demande du titulaire de l'autorisation de mise sur le marc
 La prise en charge des médicaments orphelins au sens du règlement (CE) n° 141 / 2000 du Parlement européen et du Conseil du 16 décembre 1999 concernant les médicaments orphelins est subordonnée à la validation de la prescription initiale par le centre de référence de la maladie pour le traitement de laquelle la prescription est envisagée, lorsqu'il existe, ou par l'un des centres de compétence qui lui sont rattachés.
 
 II. - Abrogé.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

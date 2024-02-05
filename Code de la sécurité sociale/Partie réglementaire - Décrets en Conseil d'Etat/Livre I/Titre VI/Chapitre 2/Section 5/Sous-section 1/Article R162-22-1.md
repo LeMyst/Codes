@@ -7,3 +7,6 @@ II.-La tarification mentionnée au I est arrêtée annuellement par les ministre
 III.-Dans les quinze jours suivant la publication de l'arrêté fixant la tarification nationale journalière des prestations mentionné au II, le directeur général de l'agence régionale de santé ou, pour le service des santés des armées, les ministres chargés de la santé, de la sécurité sociale et de la défense, arrêtent la catégorie, mentionnée au I, dans laquelle chaque établissement ou hôpital des armées est classé et, par suite, les tarifs journaliers applicables aux hospitalisations et autres prestations de soins qui y sont pratiquées.
 
 Ces tarifs peuvent, le cas échéant, tenir compte des évolutions, durant l'année en cours, des activités autorisées de ces établissements, notamment dans le cadre d'un regroupement, d'une fusion ou de la création d'un établissement ou de celles découlant de l'application de l'article L. 6147-7 du code de la santé publique.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2021-1855 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -11,3 +11,6 @@ Il doit en outre, justifier, pour avoir droit aux indemnités journalières de l
 Lorsque l'arrêt de travail se prolonge sans interruption au-delà du sixième mois, l'assuré social, pour avoir droit aux indemnités journalières après le sixième mois d'incapacité de travail, doit avoir été immatriculé depuis douze mois au moins au premier jour du mois au cours duquel est survenue l'interruption de travail. Il doit justifier en outre qu'il a exercé une activité salariée ou assimilée pendant 800 heures au moins au cours des douze mois précédents.
 
 Ces conditions d'activité sont réputées remplies si l'assuré justifie que le montant des cotisations dues au titre des assurances maladie, maternité, invalidité et décès, assises sur les rémunérations qu'il a perçues pendant les douze mois civils précédant l'interruption de travail est au moins égal au montant des mêmes cotisations dues pour un salaire égal à 2 080 fois la valeur horaire du SMIC au 1er janvier qui précède immédiatement le début de cette période.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 3 du décret n° 2023-790 du 17 août 2023.

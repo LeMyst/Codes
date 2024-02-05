@@ -33,3 +33,6 @@ II. (Paragraphe abrogé)
 III.-Les conventions d'objectifs et de gestion sont conclues pour une période minimale de quatre ans.
 
 Les conventions et, le cas échéant, les avenants qui les modifient sont transmis aux commissions parlementaires mentionnées à l'article LO. 111-9.
+
+NOTA:
+Conformément au V de l'article 32 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

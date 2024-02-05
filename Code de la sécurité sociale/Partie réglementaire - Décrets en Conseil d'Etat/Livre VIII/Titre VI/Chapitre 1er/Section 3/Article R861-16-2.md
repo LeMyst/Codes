@@ -17,3 +17,6 @@ I.-Lorsque le foyer défini à l'article R. 861-2 est éligible au droit à la p
 II.-Le bulletin ou le contrat mentionné au 1° du I peut être accompagné d'un contrat comportant des dispositions afférentes à des garanties facultatives. Il indique alors le montant de cotisation supplémentaire associé à ces garanties. Les dispositions applicables à la protection complémentaire prévue à l'article L. 861-1, notamment celles relatives à son financement, ne sont pas applicables au contrat régissant les garanties facultatives.
 
 III.-En cas de renouvellement de la protection complémentaire en matière de santé dans les conditions prévues à l'article R. 861-18, le demandeur n'est pas tenu d'adresser à l'organisme gestionnaire les documents mentionnés au I s'il a toujours droit à la protection complémentaire au titre du 2° de l'article L. 861-1 sans modification du montant annuel de la participation financière due par le foyer et s'il ne change pas d'organisme gestionnaire.
+
+NOTA:
+Conformément au 1° du II de l'article 2 du décret n° 2021-1642 du 13 décembre 2021, ces dispositions entrent en vigueur le 1er avril 2022.

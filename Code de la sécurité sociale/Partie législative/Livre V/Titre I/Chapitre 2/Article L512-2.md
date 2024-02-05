@@ -21,3 +21,6 @@ Ces étrangers bénéficient des prestations familiales sous réserve qu'il soit
 -leur qualité d'enfant d'étranger titulaire de la carte de séjour mentionnée à l'article L. 423-23 du même code à la condition que le ou les enfants en cause soient entrés en France au plus tard en même temps que l'un de leurs parents titulaires de la carte susmentionnée.
 
 Un décret fixe la liste des titres et justifications attestant de la régularité de l'entrée et du séjour des bénéficiaires étrangers. Il détermine également la nature des documents exigés pour justifier que les enfants que ces étrangers ont à charge et au titre desquels des prestations familiales sont demandées remplissent les conditions prévues aux alinéas précédents.
+
+NOTA:
+Conformément à l'article 20 de l'ordonnance n° 2020-1733 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

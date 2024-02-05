@@ -5,3 +5,6 @@ Les contributions mentionnées au présent chapitre, sauf dispositions expresses
 Les unions pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales et les caisses générales de sécurité sociale sont habilitées à effectuer tout contrôle sur le versement de ces contributions dans les conditions fixées au chapitre 3 du titre IV du livre II dans sa rédaction en vigueur à la date de la publication de la dernière loi de financement de la sécurité sociale.
 
 Les caisses de mutualité sociale agricole sont chargées du recouvrement et du contrôle des contributions à la charge des employeurs relevant du régime agricole, selon les règles et sous les garanties et sanctions prévues aux chapitres IV et V du titre II du livre VII du code rural et de la pêche maritime dans leur rédaction en vigueur à la date de la publication de la dernière loi de financement de la sécurité sociale.
+
+NOTA:
+Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

@@ -3,3 +3,6 @@
 Ne peuvent être électeurs en qualité de cotisants que les affiliés régulièrement inscrits à la section professionnelle dont ils relèvent et à jour de leurs cotisations, ces conditions s'appréciant au 31 décembre précédant l'année au cours de laquelle a lieu l'élection.
 
 Les allocataires et, le cas échéant, les affiliés exonérés de cotisations sont électeurs dans les conditions fixées par les statuts des sections professionnelles.
+
+NOTA:
+Décret n° 2015-889 du 22 juillet 2015 article 3, ces dispositions entrent en vigueur à la date d'ouverture des dépôts des candidatures au titre des prochaines élections des membres du conseil d'administration de chaque section.

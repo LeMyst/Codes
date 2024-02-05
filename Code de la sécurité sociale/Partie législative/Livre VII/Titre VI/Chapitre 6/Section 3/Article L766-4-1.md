@@ -11,3 +11,6 @@ b) S'agissant des seuls nouveaux adhérents à l'assurance volontaire maladie, l
 c) Le montant des frais de gestion de la caisse concernant les personnes visées au b ;
 
 2° De l'ensemble de ses affiliés, dans le cadre d'un programme fixé par arrêté ministériel.
+
+NOTA:
+Loi n° 2002-73 du 17 janvier 2002 art. 19 IV : à compter du 1er janvier 2002 et jusqu'à l'épuisement de cette somme, le budget de l'action sanitaire et sociale de la Caisse des Français de l'étranger est financé, pour l'action visée au 1° de l'article L. 766-4-1, par un versement exceptionnel et unique de 7 600 000 euros prélevés sur les résultats cumulés de la caisse à la clôture de l'exercice 2000.

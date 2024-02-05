@@ -5,3 +5,6 @@ Lorsque le cotisant, qui respecte les obligations déclaratives mentionnées à 
 1° Aucun retard de paiement n'a été constaté au cours des vingt-quatre mois précédents ;
 
 2° Le montant des majorations et pénalités qui seraient applicables est inférieur à la valeur mensuelle du plafond de la sécurité sociale.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

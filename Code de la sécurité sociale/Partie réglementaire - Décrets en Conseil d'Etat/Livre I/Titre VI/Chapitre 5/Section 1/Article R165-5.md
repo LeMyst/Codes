@@ -31,3 +31,6 @@ Lorsque la radiation est envisagée pour l'un des motifs prévus au I du présen
 Lorsque la radiation est envisagée sur le fondement du 2° du II du présent article, le fabricant ou le distributeur peut adresser, dans un délai de vingt jours suivant la réception de l'information, ses observations écrites au Comité économique des produits de santé.
 
 Lorsque la radiation est envisagée pour l'un des autres motifs mentionnés au II du présent article et qu'elle doit faire l'objet d'une information préalable en application du présent III, le fabricant ou le distributeur peut présenter des observations écrites aux ministres chargés de la sécurité sociale et de la santé, dans un délai de vingt jours suivant la réception ou la publication de l'information.
+
+NOTA:
+Conformément au III de l’article 3 du décret n° 2022-1767 du 30 décembre 2022, les dispositions issues des cinquième et sixième alinéas du e du 7° de l'article 2 dudit décret entrent en vigueur le 1er janvier 2024.

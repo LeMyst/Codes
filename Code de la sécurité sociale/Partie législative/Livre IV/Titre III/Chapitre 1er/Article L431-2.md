@@ -17,3 +17,6 @@ Cette prescription est également applicable, à compter du paiement des prestat
 Les prescriptions prévues aux trois alinéas précédents sont soumises aux règles de droit commun.
 
 Toutefois, en cas d'accident susceptible d'entraîner la reconnaissance de la faute inexcusable de l'employeur, ou de ceux qu'il s'est substitués dans la direction, la prescription de deux ans opposable aux demandes d'indemnisation complémentaire visée aux articles L. 452-1 et suivants est interrompue par l'exercice de l'action pénale engagée pour les mêmes faits ou de l'action en reconnaissance du caractère professionnel de l'accident.
+
+NOTA:
+Conformément aux III de l'article 87 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions sont applicables aux contestations, aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022.

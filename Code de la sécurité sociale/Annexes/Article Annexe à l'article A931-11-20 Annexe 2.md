@@ -45,3 +45,6 @@ Liste des apports de fonds aux autres organismes de l'ensemble formé par les in
 7. Recensement des engagements donnés (G 16)
 
 Liste des engagements donnés aux autres organismes de l'ensemble formé par les institutions ou unions et les organismes auxquels elles sont apparentées ou subordonnées dès lors qu'ils dépassent 5 % de l'exigence de marge de solvabilité de l'institution ou union.
+
+NOTA:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

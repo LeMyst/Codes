@@ -29,3 +29,6 @@ VI.-Le service du contrôle médical transmet, sauf opposition du bénéficiaire
 VII.-Le service du contrôle médical peut, en application de l'article L. 1435-7 du code de la santé publique, procéder au contrôle du recueil des indicateurs de qualité et de sécurité des soins mentionnés aux articles L. 6144-1 et L. 6161-2-2 du même code.
 
 VIII. - Les missions du service du contrôle médical sont exercées par les praticiens conseils mentionnés à l'article L. 224-7 du présent code. Ceux-ci peuvent déléguer, sous leur responsabilité, la réalisation de certains actes et de certaines activités au personnel du contrôle médical disposant de la qualification nécessaire. Lorsque ces délégations concernent des auxiliaires médicaux, lesdites missions sont exercées dans la limite de leurs compétences prévues par le code de la santé publique. Lorsque, dans le cadre de ces délégations, des auxiliaires médicaux rendent des avis qui commandent l'attribution et le service de prestations, elles s'exercent dans le cadre d'un protocole écrit.
+
+NOTA:
+Conformément au VII de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

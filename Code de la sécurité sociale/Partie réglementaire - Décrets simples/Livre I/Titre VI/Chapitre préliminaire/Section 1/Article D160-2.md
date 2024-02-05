@@ -29,3 +29,6 @@ II. – La condition de stabilité de la résidence est également satisfaite, s
 5° Personnes inscrites dans un établissement d'enseignement ou personnes venant en France effectuer un stage dans le cadre d'accords de coopération culturelle, technique et scientifique. ;
 
 III. – Les caisses primaires d'assurance maladie sont habilitées à procéder d'office à l'ouverture des droits à la prise en charge des frais de santé des personnes mentionnées à l'article L. 160-5 lorsqu'elles ont connaissance qu'elles remplissent les conditions prévues par cet article.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

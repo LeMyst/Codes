@@ -19,3 +19,6 @@ Ils sont suivis en comptabilité par nature d'opération. La position de ces com
 Les excédents sont acquis à l'organisme à l'expiration des délais de prescription.
 
 Le directeur comptable et financier a qualité pour recevoir, détenir et conserver les titres de propriété et les titres de créances.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

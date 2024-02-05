@@ -11,3 +11,6 @@ Sous réserve des dispositions des articles L. 224-5-1 et L. 224-5-2, le comité
 4° De déterminer les modalités de mise en oeuvre des tâches communes aux différentes branches du régime général qui sont confiées à l'union ;
 
 5° De donner mandat au directeur de l'union pour signer les accords collectifs nationaux négociés.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

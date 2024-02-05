@@ -15,3 +15,6 @@ Ont le caractère de revenus de remplacement en application du 2° de l'article 
 6° Les pensions alimentaires ou rentes fixées sur le fondement des articles 205,212,276 et 371-2 du code civil ;
 
 7° Les rentes allouées aux victimes d'accidents du travail et de maladies professionnelles mentionnées au livre IV du présent code.
+
+NOTA:
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en vigueur le 1er novembre 2019.

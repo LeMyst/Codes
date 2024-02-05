@@ -17,3 +17,6 @@ Les aides et prestations spécifiquement attribuées par le conseil mentionné �
 -les aides et prestations servies au titre de la vieillesse sont imputées au régime mentionné à l'article L. 635-1 ;
 
 -les aides et prestations autres que celles mentionnées au 1 et servies aux travailleurs indépendants au titre de difficultés liées à leur activité sont prises en charge par le régime mentionné à l'article L. 635-1.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2021-687 du 28 mai 2021, ces dispositions s'appliquent aux comptes afférents aux exercices clos à compter du 31 décembre 2020.

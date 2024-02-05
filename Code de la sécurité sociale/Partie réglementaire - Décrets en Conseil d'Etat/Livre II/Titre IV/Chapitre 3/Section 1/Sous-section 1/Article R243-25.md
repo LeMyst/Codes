@@ -7,3 +7,6 @@ Lorsque la commission d'examen des situations de surendettement des particuliers
 Les décisions afférentes à la remise des majorations de retard sont communiquées à la commission et au débiteur dans le délai d'un mois à compter de la réception de la demande de remise. Le défaut de réponse de l'organisme chargé du recouvrement dans ce délai vaut rejet de la demande.
 
 La remise des majorations de retard est acquise lorsque le plan conventionnel de règlement a reçu l'accord des parties ou lorsque le juge a arrêté les mesures visant à assurer le redressement.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

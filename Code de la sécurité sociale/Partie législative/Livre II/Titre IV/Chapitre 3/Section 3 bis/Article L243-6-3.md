@@ -23,3 +23,6 @@ Lorsque l'organisme de recouvrement entend modifier pour l'avenir sa décision, 
 Un décret en Conseil d'Etat définit les conditions dans lesquelles les décisions rendues par les organismes de recouvrement font l'objet d'une publicité.
 
 IV.-Un rapport est réalisé chaque année par l'Agence centrale des organismes de sécurité sociale sur les principales questions posées et les réponses apportées. Il est transmis au ministre en charge de la sécurité sociale au plus tard le 30 juin de l'année suivante.
+
+NOTA:
+Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

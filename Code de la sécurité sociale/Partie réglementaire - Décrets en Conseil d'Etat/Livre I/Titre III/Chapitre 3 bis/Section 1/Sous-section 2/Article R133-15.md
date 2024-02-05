@@ -9,3 +9,6 @@ II.-Les dispositions mentionnées aux mêmes articles s'appliquent aux particuli
 2° En cas d'inexactitude des rémunérations déclarées ayant pour effet de minorer le montant des cotisations, la pénalité s'élève à 0,25 % du plafond mensuel de sécurité sociale mentionné à l'article L. 133-5-4 par déclaration.
 
 Les dispositions prévues aux articles R. 243-11, R. 243-19 et R. 243-20 s'appliquent aux pénalités dues par ces particuliers.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2019-1050 du 11 octobre 2019, ces dispositions sont applicables à compter du 1er janvier 2020.

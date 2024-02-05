@@ -21,3 +21,6 @@ Les dépenses afférentes aux activités mentionnées au deuxième alinéa sont 
 Les dépenses afférentes aux activités mentionnées au troisième alinéa sont prises en compte au sein de l'objectif mentionné à l'article L. 162-22-18.
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article, notamment celles relatives aux compétences exercées par directeur général de l'agence régionale de santé.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

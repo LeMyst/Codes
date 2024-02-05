@@ -23,3 +23,6 @@ Un procès-verbal de validation est dressé par le directeur et le directeur com
 Le directeur comptable et financier de l'organisme national peut refuser la mise en production d'une application informatique dont il estime qu'elle ne respecte pas les règles fixées par le présent code. Il en informe le directeur de l'organisme national qui a la possibilité de passer outre ce refus par décision notifiée au directeur comptable et financier. Le directeur de l'organisme national transmet une copie de cette décision, dûment motivée, au ministre chargé de la sécurité sociale.
 
 Les applications informatiques dont la maîtrise d'ouvrage est déléguée sont validées conjointement par le directeur et le directeur comptable et financier de l'organisme national dans les mêmes conditions.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

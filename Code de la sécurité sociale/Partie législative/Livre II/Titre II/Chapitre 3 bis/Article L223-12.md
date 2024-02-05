@@ -27,3 +27,6 @@ V.-Le rapport entre, d'une part, les dépenses réalisées au titre de la presta
 L'attribution résultant de l'opération définie au III pour les départements autres que ceux ayant bénéficié d'un complément de dotation au titre de l'alinéa précédent est diminuée de la somme des montants ainsi calculés, au prorata de la répartition effectuée en application dudit alinéa entre ces seuls départements.
 
 Les opérations décrites aux deux alinéas précédents sont renouvelées jusqu'à ce que les dépenses laissées à la charge de chaque département n'excèdent plus le seuil défini au premier alinéa du présent V.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

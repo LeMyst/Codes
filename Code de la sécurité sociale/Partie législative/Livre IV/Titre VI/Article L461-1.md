@@ -17,3 +17,6 @@ Peut être également reconnue d'origine professionnelle une maladie caractéris
 Dans les cas mentionnés aux deux alinéas précédents, la caisse primaire reconnaît l'origine professionnelle de la maladie après avis motivé d'un comité régional de reconnaissance des maladies professionnelles. La composition, le fonctionnement et le ressort territorial de ce comité ainsi que les éléments du dossier au vu duquel il rend son avis sont fixés par décret. L'avis du comité s'impose à la caisse dans les mêmes conditions que celles fixées à l'article L. 315-1.
 
 Les pathologies psychiques peuvent être reconnues comme maladies d'origine professionnelle, dans les conditions prévues aux septième et avant-dernier alinéas du présent article. Les modalités spécifiques de traitement de ces dossiers sont fixées par voie réglementaire.
+
+NOTA:
+Conformément au II de l'article 44 de la loi n° 2017-1836 du 30 décembre 2017, ces dispositions s'appliquent aux maladies professionnelles déclarées à compter du 1er juillet 2018.

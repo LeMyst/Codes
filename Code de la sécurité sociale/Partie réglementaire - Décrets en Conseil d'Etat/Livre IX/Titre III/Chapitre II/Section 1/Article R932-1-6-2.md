@@ -9,3 +9,6 @@ II.-Pour les règlements ou contrats mentionnés au I, lorsque sont remplies les
 2° Lorsque l'adhérent demande la dénonciation de l'adhésion ou la résiliation du contrat en se fondant sur un motif prévu par le présent code dont l'institution ou l'union constate qu'il n'est pas applicable ;
 
 3° Ou lorsque l'adhérent ne précise pas le fondement de sa demande de dénonciation ou de résiliation.
+
+NOTA:
+Conformément au 1° de l'article 5 du décret n° 2022-388 du 17 mars 2022, ces dispositions s'appliquent aux contrats et adhésions en cours et à ceux conclus ou renouvelés à la date d'entrée en vigueur dudit décret (20 mars 2022).

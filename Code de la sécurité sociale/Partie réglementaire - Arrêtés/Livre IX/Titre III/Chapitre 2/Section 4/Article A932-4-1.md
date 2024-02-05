@@ -27,3 +27,6 @@ a) Un taux obtenu par composition de taux d'intérêt égaux pour les huit premi
 b) Un taux de 1,5 %, si ce taux est inférieur à la valeur moyenne, au cours des trois derniers exercices, du taux de rendement réel des actifs représentant la provision technique mentionnée à l'article R. 932-4-4, ou, dans le cas contraire, la valeur moyenne ainsi déterminée.
 
 Les institutions et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2015 inclus les effets sur le calcul de la provision mathématique théorique du changement de taux d'intérêt utilisé pour ce calcul.
+
+NOTA:
+Conformément à l'arrêté du 12 février 2014, article 2 : ces dispositions sont applicables à compter de l'exercice 2013.

@@ -55,3 +55,6 @@ VI. – Des arrêtés des ministres chargés de la santé et de la sécurité so
 7° Les modalités de calcul des forfaits annuels prévus au III ;
 
 8° Le plafond du montant annuel cumulé des forfaits et dotations mentionné au V.
+
+NOTA:
+Conformément à l'article 15 du décret n° 2021-216 du 25 février 2021, ces dispositions entrent en vigueur le 1er mars 2021.

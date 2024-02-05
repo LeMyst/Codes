@@ -7,3 +7,6 @@ I.-Les frais de transport mentionnés au 3° de l'article L. 160-9 sont pris en 
 2° Pour se rendre sur le lieu d'hébergement temporaire non médicalisé dans les conditions prévues à l'article R. 6111-64 du code précité.
 
 II.-Les transports mentionnés au I sont pris en charge par l'assurance maladie dans les conditions prévues à l'article R. 322-10-1 du présent code. Cette prise en charge est subordonnée à l'accord préalable de l'organisme qui sert les prestations après avis du contrôle médical. L'absence de réponse dans un délai de quinze jours à compter de l'expédition de la demande vaut accord préalable. Le remboursement de ces frais de transport est calculé sur la base de la distance séparant le lieu où réside la femme enceinte, dans les conditions prévues selon le cas à l'article R. 6111-55 ou à l'article R. 6111-57 du code de la santé publique, du lieu de l'unité de gynécologie obstétrique la plus proche correspondant à sa situation de santé ou de celui de l'hébergement temporaire non médicalisé.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2022-555 du 14 avril 2022, ces dispositions entrent en vigueur à compter de la publication de l’arrêté mentionné à l’article R. 6111-55 du code de la santé publique.

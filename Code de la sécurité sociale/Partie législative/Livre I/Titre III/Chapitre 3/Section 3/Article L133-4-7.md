@@ -5,3 +5,6 @@ Lorsque dans l'exercice de son activité professionnelle l'entrepreneur individu
 La dérogation mentionnée au quatrième alinéa de l'article L. 526-22 dudit code n'est pas opposable aux organismes de recouvrement mentionnés aux articles L. 225-1 et L. 752-4 du présent code pour le recouvrement de l'impôt sur le revenu dû par les travailleurs indépendants relevant de l'article L. 613-7 ou pour le recouvrement des contributions mentionnées à l'article L. 136-3 du présent code et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale dont le travailleur indépendant mentionné à l'article L. 611-1 du présent code est redevable.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au I de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi.

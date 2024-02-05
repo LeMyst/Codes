@@ -37,3 +37,6 @@ c) 2,05 % pour les assurés âgés de soixante-deux ans.
 Les modalités d'actualisation des sommes mentionnées au présent article sont fixées à l'article D. 351-9. Un arrêté des ministres chargés de la sécurité sociale et du budget précise, pour chaque année, le barème des versements applicables aux assurés atteignant au moins vingt ans et moins de soixante-sept ans au cours de cette année. A défaut de publication de cet arrêté avant le 1er janvier d'une année, demeure applicable pour cette année le barème de l'année précédente.
 
 Pour les assurés âgés de plus de soixante-deux ans l'année au cours de laquelle ils présentent leur demande, le montant du versement est déterminé sur la base du barème applicable pour les assurés âgés de soixante-deux ans et diminué de 2, 5 % par année révolue au-delà de cet âge.
+
+NOTA:
+Aux termes de l'article 3 du décret n° 2015-332 du 24 mars 2015, pour l'année 2015 et par dérogation à la dernière phrase de l'avant-dernier alinéa du II de l'article D. 351-8 du code de la sécurité sociale, le barème fixé par l'arrêté pris en application du même article, dans sa version résultant du présent décret, est applicable aux demandes présentées à compter du lendemain de la publication de cet arrêté.

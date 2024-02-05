@@ -11,3 +11,6 @@ Le concours attribué pour l'installation et le fonctionnement de la maison des 
 Le concours attribué pour l'installation et le fonctionnement de la maison des personnes handicapées compétente sur le territoire de la collectivité de Corse est calculé et versé dans des conditions tenant compte des modalités particulières d'exercice de la compétence prévue au même article L. 146-3 du code de l'action sociale et des familles par la collectivité de Corse.
 
 III.-La caisse verse également la subvention mentionnée au troisième alinéa de l'article L. 146-4-2 du code de l'action sociale et des familles, dont le montant est fixé et réparti par arrêté conjoint des ministres chargés du budget et des affaires sociales.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

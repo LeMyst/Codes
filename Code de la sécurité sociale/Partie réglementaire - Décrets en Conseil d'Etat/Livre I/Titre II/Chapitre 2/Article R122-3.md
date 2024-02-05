@@ -29,3 +29,6 @@ Il peut déléguer, sous sa responsabilité, une partie de ses pouvoirs à certa
 En cas de vacance d'emploi, d'absence momentanée ou d'empêchement du directeur, ses fonctions sont exercées par le directeur adjoint. En cas d'absence ou d'empêchement du directeur ou du directeur adjoint ou à défaut de directeur adjoint, les fonctions de directeur sont exercées par un agent de l'organisme désigné dans les conditions prévues au 7° de l'article R. 121-1.
 
 Les dispositions du présent article sont applicables à tous les organismes à l'exception de ceux ayant le caractère d'établissement public, de la Caisse d'assurance vieillesse, invalidité et maladie des cultes, des caisses mentionnées à l'article L. 211-1 et, en ce qui concerne la deuxième phrase du treizième alinéa et le quatorzième alinéa, de la Caisse des Français à l'étranger.
+
+NOTA:
+Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.

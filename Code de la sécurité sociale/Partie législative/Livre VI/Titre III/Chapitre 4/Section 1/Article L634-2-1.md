@@ -31,3 +31,6 @@ Les assurés ayant validé moins de quatre trimestres d'assurance au titre d'une
 Le financement des validations instituées par le présent article est assuré par une fraction des cotisations d'assurance vieillesse. Ces opérations font l'objet d'un suivi comptable spécifique dans des conditions fixées par arrêté du ministre chargé de la sécurité sociale.
 
 Les trimestres validés au titre du présent II ne sont pas pris en compte pour le bénéfice des dispositions des articles L. 351-1-1, L. 351-1-3, des II et III des articles L. 643-3 et L. 653-2 du présent code, des articles L. 732-18-1 et L. 732-18-2 du code rural et de la pêche maritime, du 5° du I de l'article L. 24 et de l'article L. 25 bis du code des pensions civiles et militaires de retraite et de l'article 57 de la loi n° 2004-1370 du 20 décembre 2004 de financement de la sécurité sociale pour 2005.
+
+NOTA:
+Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.

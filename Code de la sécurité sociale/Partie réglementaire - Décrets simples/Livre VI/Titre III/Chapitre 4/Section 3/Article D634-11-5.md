@@ -7,3 +7,6 @@ Elle s'applique pendant le nombre de mois durant lesquels, au cours de l'année 
 Le montant mensuel net de la pension est réduit du montant moyen mensuel du dépassement. Toutefois, lorsque le dépassement a été constaté pour une période inférieure à douze mois, la réduction est effectuée sur la totalité de l'année civile et correspond, pour chacun des mois, à un douzième du montant constaté sur l'année civile du dépassement du seuil prévu au premier alinéa de l'article L. 634-6.
 
 Lorsque le montant de la réduction est supérieur au montant de la pension, cette dernière n'est pas servie.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2017-416 du 27 mars 2017, ces dispositions s'appliquent aux activités procurant des revenus soumis aux cotisations et contributions de sécurité sociale à compter du 1er janvier 2017.

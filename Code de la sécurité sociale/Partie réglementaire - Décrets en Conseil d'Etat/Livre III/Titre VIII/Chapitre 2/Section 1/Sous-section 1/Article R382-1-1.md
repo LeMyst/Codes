@@ -19,3 +19,6 @@ Constituent des revenus tirés d'une ou plusieurs activités définies à l'arti
 8° Un travail de sélection ou de présélection en vue de l'attribution d'un prix ou d'une récompense à un artiste-auteur pour une ou plusieurs de ses œuvres ;
 
 9° La conception et l'animation d'une collection éditoriale originale.
+
+NOTA:
+Conformément au I de l'article 5 du décret n° 2020-1095 du 28 août 2020, ces dispositions sont applicables aux revenus perçus à compter du 1er janvier 2021.

@@ -19,3 +19,6 @@ Sont applicables au 1er mars de l'année en cours les éléments mentionnés aux
 Sont applicables au 1er janvier de l'année en cours les éléments mentionnés aux 4° à 6°.
 
 II.-Les tarifs de responsabilité afférents aux activités de soins de suite et de réadaptation exercées par les établissements de santé privés mentionnés au e de l'article L. 162-22 sont fixés par l'Etat.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

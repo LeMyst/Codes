@@ -5,3 +5,6 @@ Le prix de cession des préparations magistrales et des préparations hospitali�
 Les préparations magistrales et les préparations hospitalières relevant du premier alinéa du présent article sont définies respectivement comme des mélanges individualisés ou standardisés de nutrition parentérale indiqués aux enfants ou aux adultes.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment les catégories de préparations, les procédures et délais de fixation des prix, les critères de fixation des prix, les règles selon lesquelles certaines préparations pour nutrition parentérale à domicile peuvent être prises en charge par l'assurance maladie ou exclues de celle-ci ainsi que les modalités de sélection des établissements concernés.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

@@ -9,3 +9,6 @@ Les membres de la commission exercent leur fonction dans le respect du secret pr
 Un décret détermine les modalités d'application du présent article et fixe, notamment, le fonctionnement et la composition de la commission, qui comprend au moins un médecin-conseil et un membre de l'équipe mentionnée à l'article L. 146-8 du code de l'action sociale et des familles, ainsi que la fraction des durées d'assurance requises susceptible d'être validée par la commission.
 
 Les attributions faites avant le 1er janvier 2016 de la reconnaissance de la qualité de travailleur handicapé mentionnée à l'article L. 5213-1 du code du travail peuvent, sur demande de l'intéressé, donner lieu à une évaluation de son incapacité permanente par la commission mentionnée à l'article L. 241-5 du code de l'action sociale et des familles.
+
+NOTA:
+Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

@@ -61,3 +61,8 @@ La majoration de 10 % prévue à l'article 1730 du code général des impôts es
 IV.-Par dérogation aux dispositions du III, la contribution portant sur les redevances visées aux articles L. 7121-8 et L. 7123-6 du code du travail et versées aux artistes du spectacle et aux mannequins est précomptée, recouvrée et contrôlée selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de sécurité sociale.
 
 V.-Par dérogation au III du présent article, la contribution portant sur les redevances mentionnées à l'article L. 222-2-10-1 du code du sport et versées aux sportifs et entraîneurs professionnels est précomptée, recouvrée et contrôlée selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de sécurité sociale.
+
+NOTA:
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
+
+Conformément à l’article 42 III de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux gains nets réalisés et aux distributions perçues à compter du 11 juillet 2018.

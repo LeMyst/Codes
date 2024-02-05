@@ -17,3 +17,6 @@ Le comité est composé :
 3° De représentants des organismes nationaux de l'assurance maladie.
 
 Les règles relatives à la constitution, à la composition et au fonctionnement du comité sont définies par décret.
+
+NOTA:
+Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

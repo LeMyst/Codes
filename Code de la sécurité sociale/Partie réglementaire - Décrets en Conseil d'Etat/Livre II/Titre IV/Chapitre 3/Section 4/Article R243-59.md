@@ -53,3 +53,6 @@ Lorsqu'un solde créditeur en faveur de la personne contrôlée résulte de l'en
 Les dispositions du chapitre II du titre IV du livre Ier sont applicables aux observations de l'organisme ainsi qu'à l'avis de crédit, mentionnés respectivement aux deuxième et troisième alinéas du présent IV.
 
 V.-Les documents mentionnés au présent article sont adressés à la personne contrôlée selon les modalités définies au troisième alinéa du I.
+
+NOTA:
+Se reporter aux conditions d’application prévues aux I et II de l’article 4 du décret n° 2023-262 du 12 avril 2023.

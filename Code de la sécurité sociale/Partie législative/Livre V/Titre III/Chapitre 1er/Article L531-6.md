@@ -19,3 +19,6 @@ L'aide n'est versée que si l'enfant est gardé un minimum d'heures au cours du 
 L'aide est versée par l'organisme débiteur de prestations familiales.
 
 Par dérogation au premier alinéa du présent article, le complément de libre choix du mode de garde de la prestation d'accueil du jeune enfant peut être versé au ménage ou à la personne qui recourt, pour assurer la garde d'un enfant, à un établissement d'accueil de jeunes enfants mentionné à l'article L. 2324-1 du code de la santé publique, dont la capacité d'accueil maximale ne dépasse pas un seuil fixé par décret, sous réserve que la tarification appliquée par l'établissement ne dépasse pas un montant horaire maximal fixé par décret.
+
+NOTA:
+Conformément au IV de l'article 70 de la loi n° 2018-1203 du 22 décembre 2018, ces dispositions s'appliquent aux gardes d'enfants réalisées à compter du 1er janvier 2020.

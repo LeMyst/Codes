@@ -17,3 +17,6 @@ IV. - Lorsque le cotisant effectue sa déclaration postérieurement aux notifica
 Dans ce cas, la majoration prévue au premier alinéa de l'article R. 243-16 est portée à 8 % du montant des cotisations et contributions mentionné à l'alinéa précédent.
 
 V .- Ces dispositions ne sont pas applicables lorsque l'organisme a admis la demande préalable de l'employeur de ne plus adresser la déclaration en raison de l'absence d'emploi salarié.
+
+NOTA:
+Se reporter aux conditions d'application prévues à l'article 3 du décret n° 2023-296 du 20 avril 2023.

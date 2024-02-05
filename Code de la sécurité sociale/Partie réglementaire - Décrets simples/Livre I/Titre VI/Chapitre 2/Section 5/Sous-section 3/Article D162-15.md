@@ -11,3 +11,6 @@ Le représentant légal de l'établissement dispose d'un délai de quinze jours 
 Le délai au terme duquel la sanction peut être prononcée est prolongé jusqu'à l'audition de l'établissement si elle a été demandée avant l'expiration de ce délai.
 
 La procédure mentionnée aux alinéas précédents s'applique dans les mêmes conditions aux avenants au contrat.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2021-1231 du 25 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

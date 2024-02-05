@@ -15,3 +15,6 @@ Les employeurs mentionnés à l'article L. 133-9 peuvent présenter auprès du d
 3° Si la mise en demeure de régulariser la situation dans un délai de quinze jours reste sans effet, le directeur de l'organisme habilité peut délivrer une contrainte notifiée au débiteur par lettre recommandée avec accusé de réception. A défaut d'opposition du débiteur devant le tribunal judiciaire spécialement désigné en application de l'article L. 211-16 du code de l'organisation judiciaire compétent, la contrainte comporte tous les effets d'un jugement et confère notamment le bénéfice de l'hypothèque judiciaire ;
 
 4° Les sûretés applicables sont celles prévues par les articles L. 243-4 et L. 243-5.
+
+NOTA:
+Conformément à l’article 30, II de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

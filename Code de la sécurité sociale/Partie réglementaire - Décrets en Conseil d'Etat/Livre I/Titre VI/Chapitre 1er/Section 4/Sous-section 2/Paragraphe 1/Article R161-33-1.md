@@ -25,3 +25,8 @@ a) D'assurer la mise en œuvre des fonctions de signature électronique ;
 b) De protéger l'accès aux informations de la carte ;
 
 c) D'authentifier la carte en tant que carte d'assurance maladie et d'identifier son titulaire.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Se reporter aux modalités d'application prévues au même article.

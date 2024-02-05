@@ -9,3 +9,6 @@ Pour la prise en charge des frais de santé, la protection sociale pour le souti
 3° Des frais de fonctionnement liés à l'activité sociale ou médico-sociale des établissements mentionnés au 5° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
 
 4° Des frais d'hébergement et de traitement des personnes handicapées dans les maisons d'accueil spécialisées relevant du 7° du I du même article L. 312-1.
+
+NOTA:
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

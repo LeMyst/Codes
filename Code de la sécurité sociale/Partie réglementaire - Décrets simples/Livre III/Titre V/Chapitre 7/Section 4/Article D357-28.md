@@ -15,3 +15,6 @@ b. d'une attestation de radiation du tableau de l'ordre professionnel dont il re
 c. d'une attestation de radiation des rôles de la taxe professionnelle ;
 
 d. d'une attestation de cessation d'activité délivrée par la caisse de mutualité sociale agricole à laquelle il était affilié en qualité de personne non salariée des professions agricoles.
+
+NOTA:
+Conformément à l’article 18 du décret n° 2022-1015 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

@@ -15,3 +15,6 @@ La Caisse nationale des allocations familiales est administrée par un conseil d
 4° Quatre personnes qualifiées dans les domaines d'activité des caisses d'allocations familiales désignées par l'autorité compétente de l'Etat.
 
 Siègent également, avec voix consultative, trois représentants du personnel élus dans des conditions fixées par décret.
+
+NOTA:
+Ordonnance 96-344 du 24 avril 1996 art. 14 I : Les dispositions du présent article s'appliquent à compter du prochain renouvellement des membres des conseils d'administration.

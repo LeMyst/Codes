@@ -27,3 +27,6 @@ La notion de risque financier résiduel et les indicateurs utilisés pour le mes
 En fonction, le directeur et le directeur comptable et financier se répartissent les travaux de fiabilité et de mise en œuvre de la mesure du risque financier résiduel.
 
 La période couverte par les contrôles prévus au plan national de contrôle interne peut être adaptée aux besoins spécifiques de production et d'analyse des indicateurs de suivi de l'efficacité du contrôle interne. Cette période peut correspondre à douze mois glissants, en cohérence avec le plan de contrôle.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2022-1283 du 30 septembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

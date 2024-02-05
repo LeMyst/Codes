@@ -15,3 +15,6 @@ La régularité de l'entrée et du séjour des enfants étrangers que le bénéf
 6° Titre de séjour délivré à l'étranger âgé de seize à dix-huit ans dans les conditions fixées par l'article L. 421-35 du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 Elle est également justifiée, pour les enfants majeurs ouvrant droit aux prestations familiales, par l'un des titres mentionnés à l'article D. 512-1.
+
+NOTA:
+Conformément à l'article 18 du décret n° 2020-1734 du 16 décembre 2020, ces dispositions entrent en vigueur le 1er mai 2021.

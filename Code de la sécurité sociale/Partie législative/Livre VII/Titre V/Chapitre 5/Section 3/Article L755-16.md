@@ -7,3 +7,6 @@ Le plafond de ressources mentionné au premier alinéa du présent article est m
 Le niveau du plafond de ressources varie conformément à l'évolution des prix à la consommation hors tabac.
 
 Un complément différentiel est dû lorsque les ressources excèdent le plafond d'un montant inférieur à une somme déterminée.
+
+NOTA:
+Loi n° 2003-1199 du 18 décembre 2003 art. 60 VIII : les dispositions du présent article entrent en vigueur à compter du 1er janvier 2004 pour les enfants nés ou adoptés à compter du 1er janvier 2004 ainsi que pour les enfants nés avant cette date alors que leur date de naissance présumée était postérieure au 31 décembre 2003.

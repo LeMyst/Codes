@@ -7,3 +7,6 @@ L'abus de droit entraîne l'application par les organismes mentionnés au premie
 En cas de contestation, la charge de la preuve est supportée par les organismes mentionnés au même premier alinéa.
 
 Le présent article n'est pas applicable aux actes pour lesquels un cotisant a préalablement fait usage des dispositions des articles L. 243-6-1 et L. 243-6-3 en fournissant aux organismes concernés tous éléments utiles pour apprécier la portée véritable de ces actes et que ces organismes n'ont pas répondu dans les délais requis.
+
+NOTA:
+Conformément au VI de l’article 5 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent aux observations notifiées à compter du 1er janvier 2024.

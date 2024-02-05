@@ -13,3 +13,6 @@ II.-Ces mêmes organismes adressent annuellement à l'organisme désigné pour l
 III.-Un arrêté des ministres chargés du budget et de la sécurité sociale précise les dates de la communication des déclarations homologuées mentionnées aux I et II.
 
 IV.-L'organisme désigné pour le recouvrement en application des dispositions du III de l'article L. 122-6 communique au ministre chargé de la sécurité sociale les éléments portés sur les déclarations mentionnées aux I et II de présent article. Les modalités de communication de ces éléments sont déterminées par un arrêté du ministre chargé de la sécurité sociale.
+
+NOTA:
+Conformément au I de l’article 4 du décret n° 2020-1744 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

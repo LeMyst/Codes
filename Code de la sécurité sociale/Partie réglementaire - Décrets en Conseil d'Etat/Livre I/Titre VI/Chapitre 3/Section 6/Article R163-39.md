@@ -11,3 +11,6 @@ II.-Le président du Comité économique des produits de santé notifie la péna
 Les pénalités sont recouvrées par les organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les deux premiers alinéas de l'article L. 137-3 et l'article L. 137-4 sont applicables au recouvrement de ces pénalités.
 
 L'organisme de recouvrement compétent en application des dispositions de l'article L. 162-16-5-4 informe le Comité économique des produits de santé des montants perçus.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.

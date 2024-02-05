@@ -21,3 +21,6 @@ III.-La condition d'âge prévue au premier alinéa du I est abaissée, dans des
 La pension des intéressés est majorée en fonction de la durée ayant donné lieu à cotisations considérée, dans des conditions précisées par décret.
 
 IV.-La condition d'âge prévue au premier alinéa du I du présent article est abaissée, dans des conditions fixées par décret, pour les assurés relevant des 2° et 3° de l'article L. 653-4.
+
+NOTA:
+Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

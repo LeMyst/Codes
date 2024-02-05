@@ -13,3 +13,6 @@ Pour l'application du 1° et du 3°, les effectifs de cotisants à la caisse d'a
 Des administrateurs suppléants en nombre égal aux administrateurs titulaires sont nommés dans les mêmes conditions que les administrateurs titulaires, dans la limite de six administrateurs suppléants pour un même culte.
 
 Un administrateur suppléant ne peut siéger qu'en l'absence d'un administrateur titulaire désigné au titre de la même catégorie.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2012-477 du 12 avril 2012, ces dispositions sont applicables à compter du prochain renouvellement général des membres du conseil d'administration de la caisse d'assurance vieillesse, invalidité et maladie des cultes, à savoir le 29 juillet 2019 prévu par l'arrêté du 23 juillet 2019 portant nomination au conseil d'administration de la caisse d'assurance vieillesse, invalidité et maladie des cultes (NOR : SSAS1921866A).

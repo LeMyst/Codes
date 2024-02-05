@@ -9,3 +9,8 @@ Lorsque l'adhésion au règlement ou l'affiliation est dénoncée ou lorsque le 
 Dans le cas où l'adhérent ou le participant souhaite dénoncer une adhésion ou une affiliation ou résilier un contrat conclu pour le remboursement et l'indemnisation des frais occasionnés par une maladie, une maternité ou un accident afin de souscrire un nouveau contrat auprès d'un nouvel organisme, celui-ci effectue pour le compte de l'adhérent ou du participant souhaitant le rejoindre les formalités nécessaires à l'exercice du droit de résiliation ou de dénonciation dans les conditions prévues audit premier alinéa. Les organismes intéressés s'assurent de l'absence d'interruption de la couverture de l'adhérent ou du participant durant la procédure.
 
 Un décret en Conseil d'Etat précise les modalités et conditions d'application du présent article.
+
+NOTA:
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
+
+Le droit de résiliation ou de dénonciation prévu à l'article L. 113-15-2 du code des assurances, aux articles L. 932-12-1 et L. 932-21-2 du code de la sécurité sociale et à l'article L. 221-10-2 du code de la mutualité, dans leur rédaction résultant de la présente loi, est applicable aux adhésions et contrats existants à cette date.

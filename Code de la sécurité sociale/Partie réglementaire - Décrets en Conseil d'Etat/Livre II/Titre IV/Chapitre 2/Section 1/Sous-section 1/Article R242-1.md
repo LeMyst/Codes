@@ -30,7 +30,7 @@ Par dérogation au premier alinéa :
 
 III.-Les cotisations et contributions de sécurité sociale dues sur les sommes déclarées dans les conditions prévues au II bis de l'article L. 133-5-3, à l'exclusion de celles mentionnées au I, sont calculées pour chaque période au titre desquelles celles-ci sont attribuées.
 
-IV.-Les règles applicables pour le calcul des cotisations et contributions sociales dues sur les sommes mentionnés au IV, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période au titre de laquelle les sommes sont attribuées.
+IV.-Les règles applicables pour le calcul des cotisations et contributions sociales dues sur les sommes mentionnés au III, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période au titre de laquelle les sommes sont attribuées.
 
 Pour les sommes qui sont versées selon une périodicité supérieure au mois, les règles applicables sont celles en vigueur :
 

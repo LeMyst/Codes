@@ -38,15 +38,15 @@ Elle délibère notamment sur :
 
 17° Les actions en justice à intenter au nom de l'établissement et les transactions ;
 
-18° Les montants des indemnités versées aux membres de l'assemblée permanente, au président, aux membres du conseil d'administration, aux membres du bureau et aux membres des comités de l'assemblée permanente ;
+18° Les montants des indemnités versées aux membres de Chambres d'agriculture France, au président, aux membres du conseil d'administration, aux membres du bureau et aux membres des comités de Chambres d'agriculture France ;
 
-19° Les modalités de remboursement des frais de déplacement et de séjour du personnel, sur proposition de la commission paritaire, et des membres de l'assemblée permanente ;
+19° Les modalités de remboursement des frais de déplacement et de séjour du personnel, sur proposition de la commission paritaire, et des membres de Chambres d'agriculture France ;
 
-20° Les cas dans lesquels l'assemblée permanente peut offrir les services d'une centrale d'achat au sens des articles 26 et 27 de l'ordonnance n° 2015-899 du 23 janvier 2015 relative aux marchés publics, pour le compte de tout ou partie des établissements du réseau et des organismes inter-établissements du réseau des chambres d'agriculture mentionnés à l'avant-dernier alinéa de l'article L. 514-2.
+20° Les cas dans lesquels Chambres d'agriculture France peut offrir les services d'une centrale d'achat au sens des articles 26 et 27 de l'ordonnance n° 2015-899 du 23 janvier 2015 relative aux marchés publics, pour le compte de tout ou partie des établissements du réseau et des organismes inter-établissements du réseau des chambres d'agriculture mentionnés à l'avant-dernier alinéa de l'article L. 514-2.
 
 Lorsqu'un accord-cadre ou un marché est passé par Chambres d'agriculture France dans le cadre de l'alinéa précédent, les établissements du réseau qui décident de procéder à l'achat des fournitures ou des services concernés par cet accord-cadre ou ce marché doivent y recourir.
 
-Lors du vote du budget, l'assemblée permanente adopte les modalités de calcul de la cotisation à verser par les chambres d'agriculture et, le cas échéant, des cotisations spécifiques pour le fonctionnement des services communs créés en application de l'article L. 513-2.
+Lors du vote du budget, Chambres d'agriculture France adopte les modalités de calcul de la cotisation à verser par les chambres d'agriculture et, le cas échéant, des cotisations spécifiques pour le fonctionnement des services communs créés en application de l'article L. 513-2.
 
 II.-Chambres d'agriculture France est chargée de veiller à la cohérence des programmes régionaux de développement et des programmes de recherche et d'innovation du réseau des chambres d'agriculture et de coordonner leur capitalisation. Elle coordonne les partenariats avec les organismes de recherche au sein du réseau des chambres d'agriculture.
 

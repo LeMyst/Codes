@@ -2,9 +2,9 @@
 
 Le ministre chargé de l'agriculture fixe, après concertation avec les organisations professionnelles agricoles, les priorités du développement agricole et rural.
 
-Il conclut, pour leur mise en oeuvre, des contrats d'objectifs avec les chambres d'agriculture, leur assemblée permanente, les instituts et centres techniques agricoles mentionnés au deuxième alinéa de l'article L. 830-1 et leur association de coordination.
+Il conclut, pour leur mise en oeuvre, des contrats d'objectifs avec les chambres d'agriculture, Chambres d'agriculture France, les instituts et centres techniques agricoles mentionnés au deuxième alinéa de l'article L. 830-1 et leur association de coordination.
 
-Les chambres régionales d'agriculture, leur assemblée permanente, les instituts et centres techniques élaborent leur programme pluriannuel de développement agricole et rural.
+Les chambres régionales d'agriculture, Chambres d'agriculture France, les instituts et centres techniques élaborent leur programme pluriannuel de développement agricole et rural.
 
 Ces programmes sont approuvés par le ministre chargé de l'agriculture après qu'il en a apprécié l'intérêt et la compatibilité avec les priorités définies en application du premier alinéa, en recourant à une expertise indépendante. Ces programmes ainsi que, le cas échéant, ceux d'autres organismes compétents en matière de développement agricole et rural sont ensuite intégrés dans le programme national pluriannuel de développement agricole qui comprend également les actions retenues dans le cadre d'appels à projets. Le ministre approuve le programme national.
 

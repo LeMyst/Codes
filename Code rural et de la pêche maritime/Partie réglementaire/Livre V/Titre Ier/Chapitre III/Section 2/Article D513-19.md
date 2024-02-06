@@ -1,6 +1,6 @@
 # Article D513-19
 
-L'assemblée permanente et le conseil d'administration peuvent chacun désigner, au plus, huit membres associés, désignés en raison de leurs compétences dans les domaines mentionnés à l'article L. 513-1.
+Chambres d'agriculture France et le conseil d'administration peuvent chacun désigner, au plus, huit membres associés, désignés en raison de leurs compétences dans les domaines mentionnés à l'article L. 513-1.
 
 Les fonctionnaires qui exercent, à un titre quelconque, un contrôle sur les chambres d'agriculture et les agents des chambres d'agriculture, de Chambres d'agriculture France ou des établissements créés par des chambres d'agriculture ne peuvent être désignés comme membres associés.
 

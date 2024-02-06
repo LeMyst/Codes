@@ -1,6 +1,6 @@
 # Article D513-5
 
-L'assemblée permanente est convoquée en session par le président au moins trois fois par an selon l'ordre du jour fixé par le conseil d'administration.
+Chambres d'agriculture France est convoquée en session par le président au moins trois fois par an selon l'ordre du jour fixé par le conseil d'administration.
 
 La convocation est de droit si elle est demandée par le ministre chargé de l'agriculture ou par le tiers de ses membres. Les séances de l'assemblée permanente ne sont pas publiques mais l'assemblée permanente peut décider la publication de ses procès-verbaux.
 

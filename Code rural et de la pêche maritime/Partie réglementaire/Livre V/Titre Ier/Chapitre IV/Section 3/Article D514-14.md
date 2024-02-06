@@ -10,4 +10,4 @@ Ces neuf membres sont élus à la majorité absolue au premier tour de scrutin e
 
 Le ministre de l'agriculture peut assister ou se faire représenter aux réunions du comité de gestion.
 
-Le président de Chambres d'agriculture France peut se faire représenter par un membre de l'assemblée permanente pour convoquer et présider le comité de gestion.
+Le président de Chambres d'agriculture France peut se faire représenter par un membre de Chambres d'agriculture France pour convoquer et présider le comité de gestion.

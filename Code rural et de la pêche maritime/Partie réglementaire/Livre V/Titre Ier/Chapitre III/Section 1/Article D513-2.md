@@ -4,4 +4,4 @@ Les délibérations des sessions sont transmises au ministre chargé de l'agricu
 
 Le décret pris sur le rapport du ministre chargé de l'agriculture prévu à cet article doit être publié dans le délai de deux mois à compter de la notification de la délibération.
 
-L'accord à la participation de l'assemblée permanente à la fondation ou au capital de sociétés par actions prévu à l'article L. 510-1 est donné par le ministre chargé de l'agriculture.
+L'accord à la participation de Chambres d'agriculture France à la fondation ou au capital de sociétés par actions prévu à l'article L. 510-1 est donné par le ministre chargé de l'agriculture.

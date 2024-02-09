@@ -1,25 +1,41 @@
-# Article D811-173
+# Article D811-138-1
 
-I. - Pour se présenter à l'examen du brevet de technicien supérieur agricole par la voie de l'enseignement à distance, les candidats doivent :
+L'admission dans une section préparant au brevet de technicien supérieur agricole par la voie scolaire et par la voie de l'apprentissage est organisée dans le cadre de la procédure nationale de préinscription prévue à l'article L. 612-3 du code de l'éducation. Elle est organisée sous l'autorité du directeur régional de l'alimentation, de l'agriculture et de la forêt. Elle est prononcée par le chef de l'établissement d'accueil, après consultation de la commission prévue à l'article D. 612-1-13 du code de l'éducation.
 
-a) Soit relever du III de l'article D. 811-140 et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance ;
+Par dérogation au premier alinéa, l'admission des bacheliers professionnels ou technologiques ayant suivi une formation complémentaire leur permettant d'acquérir les connaissances ou compétences attendues pour la réussite dans l'option en section préparant au brevet de technicien supérieur agricole demandée par le candidat est de droit si l'avis du chef de l'établissement où cette formation a été suivie est favorable. Cet avis est pris sur proposition de l'équipe pédagogique. Toutefois, à titre exceptionnel, lorsque l'avis ne tient pas compte des caractéristiques de la formation demandée ou ne permet pas d'apprécier les acquis et compétences du bachelier, le directeur régional de l'alimentation, de l'agriculture et de la forêt peut ne pas en tenir compte.
 
-b) Soit justifier de l'équivalent de trois années d'activité professionnelle à plein temps, à la date du début des épreuves, et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance.
+1° L'admission est de droit :
 
-Les modalités particulières à l'enseignement à distance sont fixées par arrêté du ministre de l'agriculture. L'exigence de durée de formation est requise pour les candidats concernés au moment où ils se présentent à la dernière épreuve de l'examen.
+- pour les élèves et les apprentis qui, ayant préalablement fait acte de candidature dans les formes et délais prévus par le directeur régional de l'alimentation, de l'agriculture et de la forêt, obtiennent la même année une mention “ très bien ” ou “ bien ” au baccalauréat général, professionnel ou technologique dont le champ professionnel correspond à celui de la section de technicien demandée ;
 
-II. - Abrogé.
+- pour les élèves ou les apprentis qui obtiennent une mention “ très bien ” ou “ bien ” au baccalauréat général, professionnel ou technologique et qui ont été préalablement inscrits en liste supplémentaire ou refusés dans la section de technicien supérieur demandée. Dans ce cas, le directeur régional de l'alimentation, de l'agriculture et de la forêt prononce l'affectation dans la section demandée ou dans une autre section du même champ professionnel ;
+
+2° La préparation au brevet de technicien supérieur agricole par la voie scolaire et par la voie de l'apprentissage est ouverte aux candidats :
+
+- titulaires du baccalauréat technologique ;
+
+- titulaires du baccalauréat professionnel ;
+
+- titulaires du baccalauréat général ;
+
+- titulaires du brevet de technicien agricole ;
+
+- titulaires du brevet de technicien ;
+
+- titulaires d'un titre ou diplôme de niveau 4 ou supérieur enregistré dans le répertoire national des certifications professionnelles de la Commission de la certification professionnelle ;
+
+- titulaires du diplôme d'accès aux études universitaires ;
+
+- ayant suivi une formation à l'étranger. Pour ces candidats, la décision d'admission est prononcée par le directeur régional de l'alimentation, de l'agriculture et de la forêt après avis de la commission d'admission de l'établissement.
+
+3° La préparation du brevet de technicien supérieur agricole par la voie de la formation professionnelle continue est ouverte aux candidats mentionnés au 2°. Elle est également ouverte aux candidats suivants :
+
+- les candidats ayant suivi une formation complète conduisant à l'un des grades, titres ou diplômes mentionnés au 2° ;
+
+- les candidats justifiant de l'équivalent de deux années d'activité professionnelle à temps plein à la date du début de la formation. La condition d'activité professionnelle s'apprécie au début de la formation.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2015-555 du 19 mai 2015, ces dispositions entrent en vigueur à compter du 1er septembre 2015.
-
-Toutefois, à titre transitoire, les dispositions antérieurement en vigueur restent applicables :
-
-1° Aux candidats entrés en formation avant l'entrée en vigueur du présent décret ;
-
-2° Aux candidats entrés en formation à compter du 1er septembre 2015 dans les options "soigneurs d'équidés" et "entretien de l'espace rural" du certificat d'aptitude professionnelle agricole.
-
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

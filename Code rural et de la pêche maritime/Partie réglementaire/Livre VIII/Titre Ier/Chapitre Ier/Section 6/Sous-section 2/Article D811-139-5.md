@@ -1,25 +1,19 @@
-# Article D811-173
+# Article D811-139-5
 
-I. - Pour se présenter à l'examen du brevet de technicien supérieur agricole par la voie de l'enseignement à distance, les candidats doivent :
+I.-Les établissements mentionnés aux a, b et c du 1° de l'article D. 811-139, et aux articles R. 811-156 et R. 811-157 peuvent, sur leur demande, être habilités par décision du directeur régional de l'alimentation, de l'agriculture et de la forêt à organiser la formation en semestres. La formation semestrielle est organisée, dans le respect du référentiel de diplôme prévu à l'article D. 811-138, selon des modalités pédagogiques et d'évaluation dérogeant aux dispositions de la présente section.
 
-a) Soit relever du III de l'article D. 811-140 et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance ;
+II.-L'habilitation est accordée par le directeur régional de l'alimentation, de l'agriculture et de la forêt, après avis de l'inspection de l'enseignement agricole. Les établissements en font la demande par délibération de leur conseil d'administration ou de l'instance délibérative qui en tient lieu. Pour les établissements publics, elle est précédée par un avis du conseil mentionné au premier alinéa de l'article R. 811-31, ainsi que d'un avis du conseil de l'éducation et de la formation de l'établissement public local d'enseignement et de formation professionnelle agricole. Pour les établissements privés, elle est précédée par un avis du comité social et économique. L'habilitation est accordée pour une durée de cinq ans. Elle peut être retirée en cas de non-respect du référentiel de diplôme et si les modalités pédagogiques et d'évaluation qui ont présidé à sa délivrance ne sont plus réunies.
 
-b) Soit justifier de l'équivalent de trois années d'activité professionnelle à plein temps, à la date du début des épreuves, et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance.
+III.-La durée de la formation en semestres est celle définie aux articles D. 811-139-1 à D. 811-139-4.
 
-Les modalités particulières à l'enseignement à distance sont fixées par arrêté du ministre de l'agriculture. L'exigence de durée de formation est requise pour les candidats concernés au moment où ils se présentent à la dernière épreuve de l'examen.
+La formation est organisée en quatre semestres comportant chacun des unités d'enseignement. Les établissements habilités s'appuient sur le référentiel de diplôme prévu à l'article D. 811-138 pour construire les unités d'enseignement de chaque semestre.
 
-II. - Abrogé.
+Chaque unité d'enseignement comporte un ensemble cohérent d'enseignements concourant à l'acquisition de capacités du référentiel de compétences de la spécialité du brevet de technicien supérieur agricole.
+
+Pour la formation semestrielle, l'examen prévu au I de l'article D. 811-140-3 prend exclusivement la forme de contrôle en cours de formation.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2015-555 du 19 mai 2015, ces dispositions entrent en vigueur à compter du 1er septembre 2015.
-
-Toutefois, à titre transitoire, les dispositions antérieurement en vigueur restent applicables :
-
-1° Aux candidats entrés en formation avant l'entrée en vigueur du présent décret ;
-
-2° Aux candidats entrés en formation à compter du 1er septembre 2015 dans les options "soigneurs d'équidés" et "entretien de l'espace rural" du certificat d'aptitude professionnelle agricole.
-
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

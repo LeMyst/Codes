@@ -1,1 +1,1 @@
-Section 6 : Formation par la voie scolaire des techniciens supérieurs agricoles.
+Section 6 : Formation des techniciens supérieurs agricoles.

@@ -1,25 +1,9 @@
-# Article D811-173
+# Article D811-140-5
 
-I. - Pour se présenter à l'examen du brevet de technicien supérieur agricole par la voie de l'enseignement à distance, les candidats doivent :
-
-a) Soit relever du III de l'article D. 811-140 et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance ;
-
-b) Soit justifier de l'équivalent de trois années d'activité professionnelle à plein temps, à la date du début des épreuves, et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance.
-
-Les modalités particulières à l'enseignement à distance sont fixées par arrêté du ministre de l'agriculture. L'exigence de durée de formation est requise pour les candidats concernés au moment où ils se présentent à la dernière épreuve de l'examen.
-
-II. - Abrogé.
+Sous la forme progressive, les notes supérieures ou égales à dix sur vingt sont, à la demande des candidats, conservées en vue des sessions ultérieures. Les notes inférieures à dix sur vingt peuvent, à chaque session et au choix des candidats, soit être conservées et reportées dans la limite de cinq ans à compter de leur date d'obtention, soit donner lieu à une nouvelle évaluation. Dans ce dernier cas, c'est la dernière note obtenue qui est prise en compte.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2015-555 du 19 mai 2015, ces dispositions entrent en vigueur à compter du 1er septembre 2015.
-
-Toutefois, à titre transitoire, les dispositions antérieurement en vigueur restent applicables :
-
-1° Aux candidats entrés en formation avant l'entrée en vigueur du présent décret ;
-
-2° Aux candidats entrés en formation à compter du 1er septembre 2015 dans les options "soigneurs d'équidés" et "entretien de l'espace rural" du certificat d'aptitude professionnelle agricole.
-
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

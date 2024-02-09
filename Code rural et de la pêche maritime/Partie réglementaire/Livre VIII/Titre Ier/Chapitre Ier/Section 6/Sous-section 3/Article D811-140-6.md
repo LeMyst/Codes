@@ -1,25 +1,15 @@
-# Article D811-173
+# Article D811-140-6
 
-I. - Pour se présenter à l'examen du brevet de technicien supérieur agricole par la voie de l'enseignement à distance, les candidats doivent :
+I.-Les candidats par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue ayant choisi de présenter l'examen sous la forme globale, et pour lesquels la durée de formation n'est pas aménagée, peuvent se voir proposer un redoublement par le conseil de classe à l'issue de la première année du cycle de formation. Un contrat de redoublement, signé entre le chef d'établissement et le candidat, détermine les modalités d'aménagement de la formation et de l'évaluation. Le candidat peut choisir de conserver le bénéfice des notes obtenues aux évaluations certificatives en cours de formation. S'il décide de repasser les évaluations correspondantes, il conserve la meilleure des deux notes obtenues.
 
-a) Soit relever du III de l'article D. 811-140 et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance ;
+II.-Sous la forme globale, un candidat ajourné conserve, à sa demande, le bénéfice des notes obtenues aux épreuves dans les cinq sessions qui suivent son échec à l'examen. Le candidat ajourné et redoublant la classe terminale de la formation peut conserver le bénéfice des notes obtenues aux évaluations certificatives en cours de formation. S'il décide de repasser les évaluations correspondantes, la note la plus récente est conservée.
 
-b) Soit justifier de l'équivalent de trois années d'activité professionnelle à plein temps, à la date du début des épreuves, et avoir suivi une préparation au diplôme organisée par un établissement d'enseignement à distance.
+Lorsque ce candidat se représente à une session ultérieure, le diplôme lui est délivré dans les conditions décrites à l'article D. 811-140-4 en fonction des notes dont il a demandé à conserver le bénéfice et des notes des épreuves à nouveau présentées. Il ne pourra prétendre à une mention.
 
-Les modalités particulières à l'enseignement à distance sont fixées par arrêté du ministre de l'agriculture. L'exigence de durée de formation est requise pour les candidats concernés au moment où ils se présentent à la dernière épreuve de l'examen.
-
-II. - Abrogé.
+III.-Chaque année du cycle de formation ne peut faire l'objet que d'un seul redoublement, dont les modalités sont déterminées par un contrat signé entre le chef d'établissement et le candidat.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2015-555 du 19 mai 2015, ces dispositions entrent en vigueur à compter du 1er septembre 2015.
-
-Toutefois, à titre transitoire, les dispositions antérieurement en vigueur restent applicables :
-
-1° Aux candidats entrés en formation avant l'entrée en vigueur du présent décret ;
-
-2° Aux candidats entrés en formation à compter du 1er septembre 2015 dans les options "soigneurs d'équidés" et "entretien de l'espace rural" du certificat d'aptitude professionnelle agricole.
-
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

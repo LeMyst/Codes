@@ -1,7 +1,7 @@
 # Article R423-54
 
 Les assistants ingénieurs sont recrutés dans chaque établissement public à caractère scientifique et technologique, sous réserve des dispositions du second alinéa de l'article R. 423-1, dans la limite des emplois à pourvoir :\
-1° Par des concours distincts organisés dans les conditions fixées aux articles R. 423-55 à R. 423-57 ;\
+1° Par des concours distincts organisés dans les conditions fixées aux articles R. 423-55 à R. 423-57;\
 2° Au choix.\
 Les nominations au choix dans les corps des assistants ingénieurs sont prononcées par voie d'inscription sur une liste d'aptitude établie sur proposition des directeurs d'unité de recherche et des chefs de service. Peuvent être inscrits sur la liste d'aptitude les fonctionnaires appartenant aux corps des techniciens de la recherche de l'établissement, justifiant de huit années de services publics, dont trois au moins en catégorie B. La proportion des nominations susceptibles d'être prononcées est comprise entre un cinquième et un tiers du nombre total des nominations prononcées en application du 1°, des détachements de longue durée et des intégrations directes.\
 La proportion d'un cinquième peut être appliquée à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps des assistants ingénieurs au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application de l'alinéa précédent.

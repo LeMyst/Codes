@@ -78,7 +78,7 @@ a) Services habilités à formuler des requêtes à l'agence nationale des donn�
 
 - les services et office centraux de la direction nationale de la police aux frontières ;
 
-- l'état-major de la direction centrale de la sécurité publique ;
+- l'état-major de la direction nationale de la sécurité publique ;
 
 - le centre de veille opérationnelle de la direction de la coopération internationale de sécurité ;
 

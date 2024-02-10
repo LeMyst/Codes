@@ -11,7 +11,7 @@ Pour se présenter à l'examen du brevet de technicien supérieur agricole par l
 -ou comprise entre quatre cents heures et sept cent vingt heures en fonction de la réduction de parcours prévue si le contrat est d'une durée comprise entre six mois et un an.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

@@ -5,7 +5,7 @@ I.-Un arrêté du ministre chargé de l'agriculture détermine les épreuves qui
 II.-A l'exception du président et du président-adjoint, les membres du jury mentionnés à l'article D. 811-141-1 qui prennent part aux délibérations peuvent y participer par tous moyens de communication audiovisuelle permettant leur identification et garantissant leur participation effective selon des modalités précisées par arrêté du ministre chargé de l'agriculture.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

@@ -7,7 +7,7 @@ Le brevet de technicien supérieur agricole est obtenu :
 2° Par la validation des acquis de l'expérience, selon les conditions prévues par le livre IV de la sixième partie du code du travail.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

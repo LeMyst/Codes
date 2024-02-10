@@ -7,7 +7,7 @@ Les candidats qui se présentent au titre de la validation des acquis de l'expé
 II.-Un arrêté du ministre chargé de l'agriculture définit les modalités dans lesquelles les candidats titulaires de l'attestation reconnaissant l'acquisition de blocs de compétences mentionnée au I du présent article peuvent être dispensés de l'obtention de la capacité du brevet de technicien supérieur agricole correspondante.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

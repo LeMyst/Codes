@@ -9,7 +9,7 @@ L'attestation descriptive est établie dans les conditions fixées à l'article 
 NOTA:
 Conformément à l'article 3 du décret n° 2020-687 du 4 juin 2020, les I à V de l'article D. 811-160 du code rural et de la pêche maritime sont abrogés à compter de la rentrée scolaire 2023. Toutefois, les candidats préparant le diplôme suivant la modalité des unités capitalisables telle que prévue par l'article D. 811-160, admis en formation antérieurement à cette date, peuvent obtenir le diplôme suivant cette modalité jusqu'au 31 décembre 2024.
 
-Conformément à l'article 4 du même décret, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions sont abrogées, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

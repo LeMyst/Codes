@@ -9,7 +9,7 @@ L'examen conduisant à la délivrance du diplôme peut prendre deux formes :
 Les candidats de la voie scolaire et de la voie de l'apprentissage présentent obligatoirement l'examen sous la forme globale à l'issue de la formation. Les candidats de la voie de la formation professionnelle continue, ceux ayant suivi une préparation par la voie de l'enseignement à distance ainsi que ceux qui se présentent au titre de leur expérience professionnelle en application du 2° de l'article D. 811-140-1 optent, lors de leur inscription à l'examen, soit pour la forme globale, soit pour la forme progressive. Le choix de l'une ou l'autre de ces formes est définitif.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

@@ -13,7 +13,7 @@ Il sanctionne un enseignement technologique supérieur court.
 Ses titulaires sont aptes à exercer les emplois de technicien supérieur dans les professions de la production agricole, des industries agroalimentaires, de l'aménagement de l'espace et de la gestion de l'environnement, des activités commerciales et de services, ainsi que des activités liées au développement et à l'animation du milieu rural. Ils sont capables de mobiliser leurs connaissances et leurs aptitudes pour se perfectionner et s'adapter au cours de leur vie professionnelle.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

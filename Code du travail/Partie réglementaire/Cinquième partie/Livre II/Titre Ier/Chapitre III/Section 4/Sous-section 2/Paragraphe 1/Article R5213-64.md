@@ -23,3 +23,16 @@ II.-Lorsque l'entreprise adaptée exerce tout ou partie de son activité dans un
 2° Les caractéristiques sociales et professionnelles des personnes détenues ayant signé un contrat d'emploi pénitentiaire ainsi que les modalités de leur suivi et accompagnement ;
 
 3° Les règles selon lesquelles sont rémunérées les personnes détenues ayant signé un contrat d'emploi pénitentiaire.
+
+III.-Lorsque l'entreprise adaptée recourt au contrat prévu à l'article L. 5213-13-2, le contrat pluriannuel d'objectifs et de moyens comprend, en sus des éléments mentionnés au I :
+
+1° Le nombre maximal de postes pouvant être pourvus par le recours à ce contrat ;
+
+2° Les modalités de l'accompagnement renforcé des travailleurs handicapés, notamment en termes d'encadrement, de formation professionnelle et d'accompagnement de leur mobilité vers d'autres employeurs ;
+
+3° La présentation des moyens mobilisés pour mettre en œuvre cet accompagnement renforcé ;
+
+4° Les engagements en termes d'accès et de retour à l'emploi pris par l'entreprise et les indicateurs destinés à rendre compte des actions menées et des résultats obtenus.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2023-99 du 10 février 2024, les avenants conclus sur le fondement des dispositions dudit décret au titre de l'année 2024 sont établis en tenant compte des actions conduites depuis le 1er janvier 2024.

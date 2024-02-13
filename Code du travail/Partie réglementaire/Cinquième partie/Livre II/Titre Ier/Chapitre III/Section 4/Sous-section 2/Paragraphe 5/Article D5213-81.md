@@ -4,7 +4,7 @@ Le travailleur handicapé employé dans une entreprise adaptée peut, avec son a
 
 Le travailleur reconnu handicapé mis à disposition auprès d'un employeur autre qu'une entreprise adaptée, ouvre droit à une aide financière versée à l'entreprise adaptée au titre de l'accompagnement professionnel individualisé visant à favoriser la réalisation de son projet professionnel et faciliter son embauche.
 
-Le montant de cette aide est fixé par arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du budget. Il est revalorisé, chaque année, en fonction de l'évolution du salaire minimum de croissance. Cet arrêté peut fixer à Mayotte un montant spécifique en fonction de l'évolution du salaire minimum de croissance en vigueur à Mayotte.
+Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du budget fixe le montant de l'aide prévue au présent article. Ce montant est revalorisé en fonction de l'évolution du salaire minimum de croissance. Cet arrêté peut fixer à Mayotte un montant spécifique en fonction de l'évolution du salaire minimum de croissance en vigueur à Mayotte.
 
 L'aide est versée mensuellement. Elle est réduite au prorata du temps de travail effectif ou assimilé.
 

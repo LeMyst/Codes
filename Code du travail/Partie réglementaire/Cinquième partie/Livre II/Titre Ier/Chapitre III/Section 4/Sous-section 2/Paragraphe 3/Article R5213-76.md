@@ -1,10 +1,28 @@
 # Article R5213-76
 
-L'emploi des personnes mentionnées à l'article L. 5213-13-1 ou l'accomplissement de la mission prévue à l'article L. 412-3 du code pénitentiaire auprès des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire par les entreprises adaptées ouvre droit à une aide financière dans la limite de l'enveloppe financière fixée par l'avenant au contrat conclu avec le préfet de région.
+I.-L'emploi par une entreprise adaptée des personnes mentionnées à l'article L. 5213-13-1, ou l'accomplissement par celle-ci de la mission prévue à l'article L. 412-3 du code pénitentiaire auprès des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire, ouvre droit à l'aide financière prévue au présent paragraphe.
 
-Le montant de l'aide financière contribuant à compenser les conséquences du handicap et des actions engagées liées à l'emploi des travailleurs reconnus handicapés peut varier pour tenir compte de l'impact du vieillissement de ces travailleurs ou de l'implantation en milieu pénitentiaire de l'entreprise adaptée. L'aide est versée mensuellement à l'entreprise pour chaque poste de travail occupé en proportion du temps de travail effectif ou assimilé. Le cas échéant, le montant de l'aide est réduit à due proportion du temps de travail effectif ou assimilé d'occupation des postes.
+Cette aide financière contribue à compenser les conséquences du handicap et l'accompagnement spécifique des travailleurs handicapés. Elle ne concerne pas les salariés signataires du contrat prévu à l'article L. 5213-13-2, dont l'emploi par l'entreprise adapté ouvre droit à l'aide prévue au II.
 
-Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du budget fixe le montant de l'aide prévue au présent article. Chaque année, cette aide est revalorisée en fonction de l'évolution du salaire minimum de croissance. Cet arrêté peut fixer à Mayotte un montant spécifique des aides financières en fonction de l'évolution du salaire minimum de croissance en vigueur à Mayotte.
+L'avenant annuel au contrat pluriannuel d'objectifs et de moyens fixe le montant maximal de l'aide pouvant être versé à l'entreprise. Celui-ci est égal à la somme des montants calculés, pour chaque catégorie de travailleurs handicapés figurant dans l'arrêté prévu au IV, en multipliant le nombre d'heures de travail prévisionnelles, exprimé en équivalent temps plein, des travailleurs handicapés reconnus éligibles à une aide financière par le préfet de région par le montant d'aide fixé par l'arrêté pour cette catégorie de travailleurs.
+
+Le montant effectif de l'aide annuelle est calculé en substituant au nombre d'heures de travail prévisionnelles le nombre d'heures de travail effectif, ou assimilé à un temps de travail effectif, des travailleurs handicapés éligibles, sans que ce montant puisse dépasser le montant maximal prévu par l'avenant annuel.
+
+II.-Le recours par une entreprise adaptée au contrat à durée déterminée mentionné à l'article L. 5213-13-2 ouvre droit, au titre des travailleurs ayant conclu ce contrat, à une aide financière qui contribue à compenser les conséquences du handicap et l'accompagnement renforcé de ces travailleurs.
+
+Cette aide comporte un montant socle et un montant modulé :
+
+1° La valeur maximale du montant socle est fixée dans l'avenant annuel au contrat pluriannuel d'objectifs et de moyens. Elle est calculée en multipliant le nombre d'heures de travail prévisionnelles des travailleurs handicapés signataires du contrat prévu à l'article L. 5213-13-2 reconnus éligibles à cette aide par le préfet de région par un montant d'aide fixé par l'arrêté prévu au IV. Son montant effectif est calculé en substituant au nombre d'heures de travail prévisionnelles le nombre d'heures de travail effectif, ou assimilé à un temps de travail effectif, des travailleurs handicapés signataires du contrat prévu à l'article L. 5213-13-2 éligibles, dans la limite du montant maximal prévu par l'avenant annuel ;
+
+2° Le montant modulé varie de 0 % à 10 % du montant socle. Il est déterminé chaque année par le préfet de région, en tenant compte des caractéristiques des salariés ayant signé le contrat prévu à l'article L. 5213-13-2, des réalisations en matière d'accompagnement renforcé et des résultats constatés à la sortie de l'entreprise adaptée.
+
+III.-Les aides prévues au I et au 1° du II sont versées mensuellement. Le montant modulé prévu au 2° du II est versé en une fois, après réception du bilan annuel d'activité de l'entreprise.
+
+IV.-Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du budget fixe les montants par équivalent temps plein des aides prévues au I et au II du présent article, l'aide prévue au I pouvant varier pour tenir compte de l'âge des travailleurs ou de l'implantation en milieu pénitentiaire de l'entreprise adaptée.
+
+Ces montants sont revalorisés en fonction de l'évolution du salaire minimum de croissance.
+
+Des montants spécifiques peuvent être prévus à Mayotte, pour tenir compte du niveau et de l'évolution du salaire minimum de croissance en vigueur à Mayotte.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2018-1334 du 28 décembre 2018, les dispositions du troisième alinéa de l'article R. 5213-76 du code du travail entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 4 du décret n° 2023-99 du 10 février 2024, les avenants conclus sur le fondement des dispositions dudit décret au titre de l'année 2024 sont établis en tenant compte des actions conduites depuis le 1er janvier 2024.

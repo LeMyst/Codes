@@ -10,7 +10,7 @@ Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit 
 
 4° De participer aux actions civilo-militaires, destinées à faciliter l'interaction des forces opérationnelles avec leur environnement civil ;
 
-5° De servir auprès d'une entreprise ou d'un organisme de droit privé lorsque l'intérêt de la défense ou de la sécurité nationale le justifie, dans les conditions prévues aux articles L. 4221-7 à L. 4221-9 ;
+5° De servir auprès d'une entreprise ou d'un organisme de droit privé lorsque l'intérêt de la défense ou de la sécurité nationale le justifie, dans les conditions prévues aux articles L. 4221-8 et L. 4221-9 ;
 
 6° De contribuer aux actions de la réserve sanitaire définie au I de l'article L. 3132-1 du code de la santé publique dans les conditions prévues au III de cet article.
 

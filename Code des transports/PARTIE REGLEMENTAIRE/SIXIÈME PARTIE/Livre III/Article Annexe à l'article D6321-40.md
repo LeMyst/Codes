@@ -1,7 +1,9 @@
 # Article Annexe à l'article D6321-40
 
-LISTE DES AÉRODROMES CLASSÉS PAR CATÉGORIE\
-Liste des aérodromes de catégorie A\
+LISTE DES AÉRODROMES CLASSÉS PAR CATÉGORIE
+
+Liste des aérodromes de catégorie A
+
 (Complétée par décret n° 2022-519 du 18 avril 2022)
 
 | Départements/collectivités | Aérodromes |
@@ -24,7 +26,8 @@ Liste des aérodromes de catégorie A\
 | Guyane | Cayenne - Félix Eboué |
 | Mayotte | Mayotte - Marcel Henry |
 
-Liste des aérodromes de catégorie B\
+Liste des aérodromes de catégorie B
+
 (Modifiée par décret du 4 octobre 2018)
 
 | Départements/collectivités | Aérodromes |
@@ -53,9 +56,10 @@ Liste des aérodromes de catégorie B\
 | Vienne (Haute-) | Limoges - Bellegarde |
 | Vosges | Epinal - Mirecourt |
 | La Réunion | Saint-Denis - Gillot |
-| (1) Pour les besoins de la défense nationale, cet aérodrome comportera des caractéristiques supérieures à celles de la catégorie B.(2) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie B. |
+| (1) Pour les besoins de la défense nationale, cet aérodrome comportera des caractéristiques supérieures à celles de la catégorie B. (2) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie B. |
 
-Liste des aérodromes de catégorie C\
+Liste des aérodromes de catégorie C
+
 (Modifiée par arrêté du 16 mars 2015, art. 1er)
 
 | Départements/collectivités | Aérodromes |
@@ -142,12 +146,14 @@ Liste des aérodromes de catégorie C\
 | Yonne | Auxerre - Branches |
 | Yvelines | Chavenay - Villepreux |
 | Les Mureaux |
-| Toussus-le-Noble |
+| Paris-Saclay-Versailles |
 | Guyane | Saint-Laurent-du-Maroni |
 | (1) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie C. |
 
-Liste des aérodromes de catégorie D\
-(Modifiée par décret du 8 janvier 2010)\
+Liste des aérodromes de catégorie D
+
+(Modifiée par décret du 8 janvier 2010)
+
 (Modifiée par arrêtés des 28 décembre 2012, 17 avril 2014 et 12 septembre 2015)
 
 | Départements/collectivités | Aérodromes |

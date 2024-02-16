@@ -1,6 +1,6 @@
 # Article D211-11
 
-Les collèges et les lycées accueillent les élèves résidant dans leur zone de desserte.
+Les collèges et les lycées accueillent les élèves résidant dans leur zone de desserte, sous réserve du respect des règles relatives à la procédure d'affectation.
 
 Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, détermine pour chaque rentrée scolaire l'effectif maximum d'élèves pouvant être accueillis dans chaque établissement en fonction des installations et des moyens dont il dispose.
 

@@ -2,7 +2,7 @@
 
 L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant.
 
-Elle appartient aux parents jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé et sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
+Elle appartient aux parents jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé, sa vie privée et sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
 
 L'autorité parentale s'exerce sans violences physiques ou psychologiques.
 

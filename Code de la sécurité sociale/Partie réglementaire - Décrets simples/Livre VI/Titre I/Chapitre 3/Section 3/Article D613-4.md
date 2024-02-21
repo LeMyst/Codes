@@ -11,4 +11,8 @@ I.-Pour les travailleurs indépendants relevant des dispositions de l'article L.
 | e) Travailleurs indépendants relevant à la fois de l'article L. 631-1 et du régime prévu à l'article 102 ter du code général des impôts  | 10 000 euros  | 34 %  | 6 600 euros  | 21,1 % |
 
 NOTA:
+Par décision no471203 du 9 février 2024 du Conseil d’Etat statuant au contentieux, FR:CECHR:2024:471203.20240209, la dernière colonne de la dernière ligne du tableau de l’article D. 613-4 et les deux derniers alinéas de l’article D. 613-6 du code de la sécurité sociale dans leur rédaction résultant du décret du 7 décembre 2022 sont annulés en tant qu’ils n’incluent pas une cotisation au titre du régime complémentaire obligatoire de retraite à un taux de 7 % de la part du revenu d’activité.
+
+L’annulation prononcée à l’article 1er prendra effet le 1er juin 2024 et les effets de ces dispositions antérieurs à leur annulation sont regardés comme définitifs, sous réserve des actions contentieuses engagées à la date de la présente décision contre des actes pris sur leur fondement.
+
 Conformément au I de l’article 4 du décret n° 2022-1529 du 7 décembre 2022, ces dispositions sont applicables aux cotisations de sécurité sociales dues par les travailleurs indépendants mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er octobre 2022.

@@ -1,1 +1,1 @@
-Chapitre Ier : Dispositions generales
+Chapitre Ier : Dispositions générales

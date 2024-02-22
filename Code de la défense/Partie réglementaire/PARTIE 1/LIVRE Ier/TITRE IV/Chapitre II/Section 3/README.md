@@ -1,1 +1,1 @@
-Section 3 : Economie, finances et industrie
+Section 3 : Économie, finances et industrie

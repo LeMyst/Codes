@@ -1,1 +1,1 @@
-Section 3 : Ecole nationale supérieure de techniques avancées Bretagne
+Section 3 : École nationale supérieure de techniques avancées Bretagne

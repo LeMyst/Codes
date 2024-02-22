@@ -1,1 +1,1 @@
-Sous-section 1 : Evaluation directe de paiement des indemnités
+Sous-section 1 : Évaluation directe de paiement des indemnités

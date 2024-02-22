@@ -1,1 +1,1 @@
-Section 1 : Etablissement des servitudes des installations de défense
+Section 1 : Établissement des servitudes des installations de défense

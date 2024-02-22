@@ -1,1 +1,1 @@
-Chapitre IV : Etablissement public d'insertion de la défense
+Chapitre IV : Établissement public d'insertion de la défense

@@ -1,1 +1,1 @@
-Sous-section 1 : Economie et finances
+Sous-section 1 : Économie et finances

@@ -1,1 +1,1 @@
-Chapitre II : Mise en oeuvre
+Chapitre II : Mise en œuvre

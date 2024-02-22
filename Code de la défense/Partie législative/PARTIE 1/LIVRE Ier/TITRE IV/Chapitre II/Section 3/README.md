@@ -1,1 +1,1 @@
-Section 3 : Economie et budget
+Section 3 : Économie et budget

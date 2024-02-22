@@ -1,1 +1,1 @@
-Chapitre Ier : Etablissements d'enseignement supérieur et de recherche
+Chapitre Ier : Établissements d'enseignement supérieur et de recherche

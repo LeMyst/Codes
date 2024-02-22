@@ -16,7 +16,7 @@ b) D'un cycle terminal constitué par les classes de première et terminale de l
 
 La voie professionnelle comprend :
 
-a) Un cycle de deux ans conduisant à un des diplômes de niveau V dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
+a) Un cycle de deux ans conduisant à un des diplômes de niveau 3 dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
 
 b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle peut être organisée en familles de métiers définies par arrêté du ministre chargé de l'éducation.
 
@@ -27,4 +27,4 @@ Des dispositifs d'accompagnement personnalisé sont mis en place pour tous les �
 Un dispositif de tutorat est proposé à tous les élèves, pour les aider à construire leur parcours de formation et d'orientation.
 
 NOTA:
-Conformément à l'article 15 du décret n° 2020-1277 du 20 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 6 du décret n° 2024-122 du 19 février 2024, ces dispositions sont applicables à compter de la session 2024 des diplômes de certificat d'aptitude professionnelle, brevet professionnel, mention complémentaire, baccalauréat professionnel et brevet des métiers d'art.

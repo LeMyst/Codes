@@ -6,4 +6,7 @@ Une partie de la période de formation en milieu professionnel peut être réali
 
 Les modalités d'organisation, d'évaluation et de dispense de la formation en milieu professionnel sont fixées pour l'ensemble des spécialités par un arrêté du ministre chargé de l'éducation.
 
-Toutefois, à la demande du candidat, cette durée peut être diminuée dans les conditions fixées par l'arrêté prévu à l'article D. 337-2, en prenant en compte son parcours professionnel et les titres ou diplômes professionnels dont il est titulaire. Cette décision est prise par le recteur d'académie après avis de l'équipe pédagogique. Pour les candidats préparant l'examen par la voie scolaire, la durée de cette période ne peut être inférieure à cinq semaines. Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel, la durée de cette période ne peut être inférieure à huit semaines.
+Toutefois, à la demande du candidat, cette durée peut être diminuée dans les conditions fixées par l'arrêté prévu à l'article D. 337-2, en prenant en compte son parcours professionnel et les titres ou diplômes professionnels dont il est titulaire. Cette décision est prise par le recteur d'académie après avis de l'équipe pédagogique. Pour les candidats préparant l'examen par la voie scolaire, la durée de cette période ne peut être inférieure à cinq semaines.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2024-122 du 19 février 2024, ces dispositions sont applicables à compter de la session 2024 des diplômes de certificat d'aptitude professionnelle, brevet professionnel, mention complémentaire, baccalauréat professionnel et brevet des métiers d'art.

@@ -88,22 +88,24 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 336-22 |  Résultant du décret n° 2010-429 du 29 avril 2010  |
 |  D. 336-22-1 |  Résultant du décret n° 2012-640 du 3 mai 2012  |
 |  D. 336-49 à D. 336-58 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  D. 337-1 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
+|  D. 337-1 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-2 |  Résultant du décret n° 2019-640 du 25 juin 2019  |
 |  D. 337-3 |  Résultant du décret n° 2019-907 du 30 août 2019  |
 |  D. 337-3-1 |  Résultant du décret n° 2019-1236 du 26 novembre 2019  |
-|  D. 337-4 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 337-4 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-5 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-6 |  Résultant du décret n° 2020-624 du 22 mai 2020  |
-|  D. 337-7 |  Résultant du décret n° 2020-1277 du 20 octobre 2020  |
+|  D. 337-7 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-8 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-9 |  Résultant du décret n° 2019-155 8 du 30 décembre 2019 |
 |  D. 337-10 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-11 |  Résultant du décret n° 2021-940 du 15 juillet 2021  |
 |  D. 337-12 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
-|  D. 337-13 et D. 337-14 |  Résultant du décret n° 2021-940 du 15 juillet 2021  |
+|  D. 337-13 |  Résultant du décret n° 2024-122 du 19 février 2024 |
+|  D. 337-14 |  Résultant du décret n° 2021-940 du 15 juillet 2021 |
 |  D. 337-15 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-16 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
+|  D. 337-16-1 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-17 et D. 337-18 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-19 et D. 337-20 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-21 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
@@ -112,7 +114,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 337-23-1 |  Résultant du décret n° 2016-772 du 10 juin 2016  |
 |  D. 337-24 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
 |  D. 337-25-1 |  Résultant du décret n° 2021-64 du 25 janvier 2021  |
-|  D. 337-51 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
+|  D. 337-51 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-52 |  Résultant du décret n° 2016-771 du 10 juin 2016  |
 |  D. 337-53 |  Résultant du décret n° 2019-640 du 25 juin 2019  |
 |  D. 337-54 |  Résultant du décret n° 2019-907 du 30 août 2019  |
@@ -140,7 +142,8 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 337-81 |  Résultant du décret n° 2021-1524 du 25 novembre 2021  |
 |  D. 337-82 |  Résultant du décret n° 2015-846 du 9 juillet 2015  |
 |  D. 337-83 à D. 337-85 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
-|  D. 337-86 et D. 337-87 |  Résultant du décret n° 2009-145 du 10 février 2009  |
+|  D. 337-86 |  Résultant du décret n° 2024-122 du 19 février 2024 |
+|  D. 337-87 |  Résultant du décret n° 2009-145 du 10 février 2009 |
 |  D. 337-88 et D. 337-89 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-89-1 |  Résultant du décret n° 2014-314 du 10 mars 2014  |
 |  D. 337-90 |  Résultant du décret n° 2012-197 du 8 février 2012  |
@@ -148,14 +151,16 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 337-93-1 |  Résultant du décret n° 2014-314 du 10 mars 2014  |
 |  D. 337-94 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
 |  D. 337-94-1 |  Résultant du décret n° 2012-640 du 3 mai 2012  |
-|  D. 337-95 et D. 337-96 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
+|  D. 337-95 |  Résultant du décret n° 2024-122 du 19 février 2024 |
+|  D. 337-96 |  Résultant du décret n° 2006-583 du 23 mai 2006 |
 |  D. 337-97 |  Résultant du décret n° 2017-790 du 5 mai 2017  |
 |  D. 337-98 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-99 |  Résultant du décret n° 2019-907 du 30 août 2019  |
 |  D. 337-100 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-101 |  Résultant du décret n° 2020-624 du 22 mai 2020  |
-|  D. 337-102 |  Résultant du décret n° 2012-1272 du 20 novembre 2012  |
+|  D. 337-102 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-105 |  Résultant du décret n° 2019-907 du 30 août 2019  |
+|  D. 337-105-1 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-106 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-107 à D. 337-109 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-110 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
@@ -170,17 +175,17 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 337-123 |  Résultant du décret n° 2020-1677 du 23 décembre 2020  |
 |  D. 337-123-1 |  Résultant du décret n° 2015-520 du 11 mai 2015  |
 |  D. 337-124 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
-|  D. 123-125 |  Résultant du décret n° 2011-1029 du 26 août 2011  |
+|  D. 337-125 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-126 |  Résultant du décret n° 2017-790 du 5 mai 2017  |
 |  D. 337-127, 1er, 2e, 3e, 4e, 5e et 7e alinéas |  Résultant du décret n° 2019-907 du 30 août 2019  |
 |  D. 337-129, 2e à 6e alinéas |  Résultant du décret n° 2017-790 du 5 mai 2017  |
 |  D. 337-130, 1er alinéa |  Résultant du décret n° 2019-907 du 30 août 2019  |
-|  D. 337-131 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  D. 337-131 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-132 à D. 337-135 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-136 à D. 337-137-1 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
 |  D. 337-138 |  Résultant du décret n° 2017-960 du 10 mai 2017  |
 |  D. 337-138-1 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  D. 337-139 |  Résultant du décret n° 2021-533 du 30 avril 2021  |
+|  D. 337-139 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-140 |  Résultant du décret n° 2017-790 du 5 mai 2017  |
 |  D. 337-141 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-142 |  Résultant du décret n° 2021-533 du 30 avril 2021  |
@@ -190,17 +195,17 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 |  D. 337-148 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-149 |  Résultant du décret n° 2021-940 du 15 juillet 2021  |
 |  D. 337-150 |  Résultant du décret n° 2021-533 du 30 avril 2021  |
+|  D. 337-150-1 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-151 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 337-152 |  Résultant du décret n° 2020-726 du 12 juin 2020  |
 |  D. 337-153 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
-|  D. 337-154 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
-|  D. 337-154-1 |  Résultant du décret n° 2015-520 du 11 mai 2015  |
+|  D. 337-154 et D. 337-154-1 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-155 à D. 337-157 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
-|  D. 337-158 |  Résultant du décret n° 2020-1677 du 23 décembre 2020  |
+|  D. 337-158 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 337-158-1 |  Résultant du décret n° 2015-520 du 11 mai 2015  |
 |  D. 337-159 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
 |  D. 337-160 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
-|  D. 338-9 |  Résultant du décret n° 2017-87 du 26 janvier 2017  |
+|  D. 338-9 |  Résultant du décret n° 2024-122 du 19 février 2024 |
 |  D. 338-11 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 338-12 et D. 338-13 |  Résultant du décret n° 2009-1145 du 22 septembre 2009  |
 |  D. 338-14 à D. 338-17 |  Résultant du décret n° 2017-87 du 26 janvier 2017  |
@@ -470,3 +475,6 @@ b) Au troisième alinéa, les mots : " Le médecin " sont remplacés par les mot
 68° Le premier alinéa de l'article D. 351-28-1 est ainsi rédigé :
 
 " Par dérogation aux dispositions du premier et du troisième alinéa de l'article D. 351-28, les candidats qui bénéficient d'une scolarité spécialement adaptée pour tenir compte d'un trouble du neuro-développement adressent directement leur demande d'aménagements des conditions d'examen ou de concours national à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. "
+
+NOTA:
+Conformément à l’article 6 du décret n° 2024-122 du 19 février 2024, ces dispositions sont applicables à compter de la session 2024 des diplômes de certificat d'aptitude professionnelle, brevet professionnel, mention complémentaire, baccalauréat professionnel et brevet des métiers d'art.

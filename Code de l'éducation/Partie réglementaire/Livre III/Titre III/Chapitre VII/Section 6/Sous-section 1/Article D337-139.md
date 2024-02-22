@@ -6,4 +6,7 @@ Elle est conçue dans un objectif d'insertion professionnelle et, à cette fin, 
 
 Des spécialités peuvent être créées par arrêté du ministre chargé de l'éducation et d'un ou plusieurs autres ministres après avis des commissions professionnelles consultatives compétentes.
 
-Chaque mention complémentaire est classée, par arrêté du ministre chargé de l'éducation, au niveau V ou au niveau IV de la nomenclature interministérielle des niveaux de formation.
+Chaque mention complémentaire est classée, par arrêté du ministre chargé de l'éducation, au niveau 3 ou au niveau 4 du cadre national des certifications professionnelles.
+
+NOTA:
+Conformément à l’article 6 du décret n° 2024-122 du 19 février 2024, ces dispositions sont applicables à compter de la session 2024 des diplômes de certificat d'aptitude professionnelle, brevet professionnel, mention complémentaire, baccalauréat professionnel et brevet des métiers d'art.

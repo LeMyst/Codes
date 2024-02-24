@@ -2,9 +2,9 @@
 
 I.-La politique en faveur de l'agriculture et de l'alimentation, dans ses dimensions internationale, européenne, nationale et territoriale, a pour finalités :
 
-1° Dans le cadre de la politique de l'alimentation définie par le Gouvernement, d'assurer à la population l'accès à une alimentation sûre, saine, diversifiée, de bonne qualité et en quantité suffisante, produite dans des conditions économiquement et socialement acceptables par tous, favorisant l'emploi, la protection de l'environnement et des paysages et contribuant à l'atténuation et à l'adaptation aux effets du changement climatique ;
-
 1° A De sauvegarder et, pour les filières les plus à risque, de reconquérir la souveraineté alimentaire de la France et de promouvoir l'indépendance alimentaire de la France à l'international, en préservant son modèle agricole ainsi que la qualité et la sécurité de son alimentation et en préservant les agriculteurs de la concurrence déloyale de produits importés issus de systèmes de production ne respectant pas les normes imposées par la réglementation européenne ;
+
+1° Dans le cadre de la politique de l'alimentation définie par le Gouvernement, d'assurer à la population l'accès à une alimentation sûre, saine, diversifiée, de bonne qualité et en quantité suffisante, produite dans des conditions économiquement et socialement acceptables par tous, favorisant l'emploi, la protection de l'environnement et des paysages et contribuant à l'atténuation et à l'adaptation aux effets du changement climatique ;
 
 2° De développer des filières de production et de transformation alliant performance économique, sociale, notamment à travers un haut niveau de protection sociale, environnementale et sanitaire, capables de relever le double défi de la compétitivité et de la transition écologique, dans un contexte de compétition internationale ;
 

@@ -4,7 +4,7 @@ Le ministre de la défense peut déléguer, dans des conditions fixées par arr�
 
 1° Directeurs et chefs de service relevant du secrétaire général pour l'administration ;
 
-2° Commandants de zone terre et de région de gendarmerie et commandant des forces aériennes ;
+2° Commandants de zone terre et de région de gendarmerie et commandant territorial de l'armée de l'air et de l'espace ;
 
 3° Commandants d'arrondissement maritime, commandant de la marine à Paris ;
 

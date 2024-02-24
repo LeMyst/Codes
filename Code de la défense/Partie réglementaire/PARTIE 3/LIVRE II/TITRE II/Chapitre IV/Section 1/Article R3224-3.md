@@ -6,6 +6,8 @@ Ces formations sont réparties entre :
 
 2° Les forces ;
 
+2° bis Le commandement territorial ;
+
 3° Les bases aériennes ;
 
 4° La direction des ressources humaines de l'armée de l'air et de l'espace ;

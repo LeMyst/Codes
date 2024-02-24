@@ -8,6 +8,6 @@ Dans les collectivités et territoires mentionnés au premier alinéa de l'artic
 
 3° Commandant supérieur des forces armées dans la zone Sud de l'océan Indien ;
 
-4° Commandant supérieur des forces armées de la Nouvelle-Calédonie ;
+4° Commandant supérieur des forces armées en Nouvelle Calédonie ;
 
-5° Commandant supérieur des forces armées de la Polynésie française.
+5° Commandant supérieur des forces armées en Polynésie française.

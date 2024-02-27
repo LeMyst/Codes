@@ -1,1 +1,1 @@
-Section 2 : Equipage
+Section 2 : Équipage

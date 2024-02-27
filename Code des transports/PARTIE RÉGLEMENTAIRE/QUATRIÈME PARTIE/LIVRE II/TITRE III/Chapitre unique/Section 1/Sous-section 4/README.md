@@ -1,1 +1,1 @@
-Sous-section 4 : Equivalences
+Sous-section 4 : Équivalences

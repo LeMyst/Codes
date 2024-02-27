@@ -1,1 +1,1 @@
-Sous-section 1 : Elaboration
+Sous-section 1 : Élaboration

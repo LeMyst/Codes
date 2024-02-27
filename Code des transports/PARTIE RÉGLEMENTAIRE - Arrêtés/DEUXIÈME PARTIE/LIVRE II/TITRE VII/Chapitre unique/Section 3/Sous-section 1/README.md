@@ -1,1 +1,1 @@
-Sous-section 1 : Etablissement, approbation et modification
+Sous-section 1 : Établissement, approbation et modification

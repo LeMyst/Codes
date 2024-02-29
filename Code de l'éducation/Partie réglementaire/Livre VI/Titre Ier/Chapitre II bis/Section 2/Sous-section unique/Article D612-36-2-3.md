@@ -1,20 +1,22 @@
 # Article D612-36-2-3
 
-Lors de la phase d'admission, les candidats reçoivent, via la plateforme dématérialisée, le résultat de l'examen de leurs candidatures. Ils sont informés, pour chaque candidature, soit de la proposition d'admission qui leur est faite, soit de leur position sur liste d'attente, soit du refus opposé à leur candidature.
+I-La phase complémentaire est ouverte aux candidats qui, à l'issue de la phase principale, ne disposent d'aucune proposition d'admission acceptée définitivement ainsi qu'aux personnes n'ayant pas participé à cette phase.
 
-Dans l'hypothèse où leur candidature est positionnée sur liste d'attente, les candidats se voient proposer une admission si les places attribuées aux candidats classés devant eux par l'établissement se libèrent au cours de la procédure de recrutement.
+Les formations conduisant au diplôme national de master proposées aux candidats au cours de la phase complémentaire sont celles qui disposent d'un nombre ou d'une proportion de places vacantes au moins égal à un niveau fixé par arrêté du ministre chargé de l'enseignement supérieur.
 
-Tout au long de la procédure de recrutement, un candidat ne peut conserver qu'une seule proposition d'admission.
+D'autres formations peuvent organiser leur procédure de recrutement via la plateforme dématérialisée pendant la phase complémentaire, y compris lorsqu'elles n'y ont pas eu recours pendant la phase principale.
 
-Pour les propositions d'admission qu'il reçoit, le candidat indique, via la plateforme dématérialisée, s'il en accepte une définitivement, en accepte une provisoirement ou les refuse, dans un délai fixé par le calendrier prévu à l'article D. 612-36-2. S'il accepte une proposition provisoirement, il doit indiquer, dans ce même délai, s'il conserve les placements sur liste d'attente dont il bénéficie. L'acceptation définitive d'une proposition d'admission par le candidat clôt la phase d'admission pour ce qui le concerne.
+II.-Les articles D. 612-36-2-1 et D. 612-36-2-2 sont applicables sous réserve des dispositions suivantes :
 
-A défaut de réponse dans ce délai, le candidat perd le bénéfice des propositions d'admission qui lui ont été faites.
+Lors de la phase complémentaire de candidature, dans le délai fixé par le calendrier prévu à l'article D. 612-36-2, les candidats classent par ordre de préférence les placements sur liste d'attente et le cas échéant la proposition d'admission dont ils disposent ainsi que leurs nouvelles candidatures. La proposition d'admission acceptée provisoirement est automatiquement classée dernière dans cet ordre de préférence.
 
-Lorsqu'un candidat a accepté provisoirement une proposition d'admission et en reçoit une nouvelle, il indique, dans le délai fixé par le calendrier prévu à l'article D. 612-36-2, laquelle des propositions il accepte et, en cas d'acceptation provisoire, il se prononce, dans ce même délai, sur ses placements sur liste d'attente, sans quoi il en perd le bénéfice. A défaut de choix effectué au terme de ce délai, il est réputé avoir choisi de conserver la proposition qu'il a déjà acceptée.
+Le candidat qui ne procède pas à ce classement perd le bénéfice de ses placements sur liste d'attente et nouvelles candidatures éventuels. S'il dispose d'une proposition d'admission acceptée provisoirement, il voit cette acceptation devenir définitive, ce qui clôt la procédure pour ce qui le concerne.
 
-Si un candidat fait valoir, via la plateforme dématérialisée, des circonstances exceptionnelles de nature à justifier la modification des décisions qu'il a prises en application du présent article, il peut se voir attribuer un placement sur liste d'attente dans les formations auxquelles il avait candidaté, en fonction de sa position initiale dans le classement.
+Un candidat ne peut pas candidater dans une formation pour laquelle sa candidature a été refusée en phase principale, sauf si ce refus est motivé par un dossier incomplet ou invalide au regard des conditions administratives fixées par le chef d'établissement.
 
-Au terme de la phase d'admission, la proposition d'admission acceptée provisoirement par le candidat est considérée comme acceptée définitivement.
+III.-Lors de la phase complémentaire d'admission, dès lors que le candidat reçoit une proposition d'admission, il perd le bénéfice des placements sur liste d'attente et des propositions d'admission moins bien classées dans son ordre de préférence. Le candidat est réputé avoir accepté provisoirement cette nouvelle proposition d'admission. Il peut, par la suite, accepter définitivement ou refuser cette proposition d'admission.
+
+A l'issue de la phase complémentaire, le candidat qui dispose d'une proposition d'admission acceptée provisoirement voit celle-ci devenir définitive, ce qui clôt la procédure pour ce qui le concerne.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.
+Conformément à l’article 10 du décret n° 2024-149 du 27 février 2024, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

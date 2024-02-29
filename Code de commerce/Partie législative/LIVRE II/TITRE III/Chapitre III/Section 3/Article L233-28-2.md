@@ -32,3 +32,5 @@ VII.-Les informations dont la divulgation porterait gravement préjudice à la p
 
 NOTA:
 Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément à l’article 8 de l’ordonnance n° 2023-483 du 21 juin 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 22 juin 2024.

@@ -8,9 +8,9 @@ A l'exception de celles figurant aux numéros 46,47 et 49 du tableau 3-1, les pr
 
 | Tranches d'assiette (montant de la créance) |  Taux applicable |
 | --- | --- |
-|  De 0 à 304 € |  5,60 % |
-|  De 305 € à 912 € |  2,80 % |
-|  De 913 € à 3040 € |  1,40 % |
+|  De 0 à 304 € |  5,66 % |
+|  De 305 € à 912 € |  2,83 % |
+|  De 913 € à 3040 € |  1,41 % |
 |  Plus de 3040 € |  0,28 % |
 
 Le droit d'engagement de poursuites ne peut être perçu qu'une seule fois dans le cadre du recouvrement d'une même créance.
@@ -22,4 +22,8 @@ Il reste acquis à l'huissier de justice quelle que soit l'issue de la tentative
 Selon que le coût de l'acte est à la charge du débiteur ou du créancier, il s'impute respectivement sur l'émolument fixé à l'article A. 444-31 ou sur celui fixé à l'article A. 444-32.
 
 NOTA:
-Conformément au 1° de l'article 29 de l'arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.
+Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
+
+1° - Le présent arrêté entre en vigueur le 1er mars 2024.
+
+2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

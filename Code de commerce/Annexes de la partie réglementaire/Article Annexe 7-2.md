@@ -16,7 +16,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 |  | Grasse | 16 | 3 |
 |  | Nice | 45 | 7 |
 | Bouches-du-Rhône | Aix-en-Provence | 32 | 4 |
-|  | Salon-de-Provence | 19 | 3 |
+|  | Salon-de-Provence | 22 | 3 |
 |  | Marseille | 80 | 12 |
 |  | Tarascon | 20 | 3 |
 | Var | Draguignan | 19 | 3 |

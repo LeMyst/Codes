@@ -2,11 +2,11 @@
 
 Pour l'application de l'article L. 230-1 :
 
-1° En ce qui concerne les micro-entreprises, le total du bilan est fixé à 350 000 euros, le montant net du chiffre d'affaires à 700 000 euros et le nombre moyen de salariés employés au cours de l'exercice à 10 ;
+1° En ce qui concerne les micro-entreprises, le total du bilan est fixé à 450 000 euros, le montant net du chiffre d'affaires à 900 000 euros et le nombre moyen de salariés employés au cours de l'exercice à 10 ;
 
-2° En ce qui concerne les petites entreprises, le total du bilan est fixé à 6 000 000 d'euros, le montant net du chiffre d'affaires à 12 000 000 d'euros et le nombre moyen de salariés employés au cours de l'exercice à 50 ;
+2° En ce qui concerne les petites entreprises, le total du bilan est fixé à 7 500 000 d'euros, le montant net du chiffre d'affaires à 15 000 000 d'euros et le nombre moyen de salariés employés au cours de l'exercice à 50 ;
 
-3° En ce qui concerne les moyennes et grandes entreprises, le total du bilan est fixé à 20 000 000 d'euros, le montant net du chiffre d'affaires à 40 000 000 d'euros et le nombre moyen de salariés employés au cours de l'exercice à 250.
+3° En ce qui concerne les moyennes et grandes entreprises, le total du bilan est fixé à 25 000 000 d'euros, le montant net du chiffre d'affaires à 50 000 000 d'euros et le nombre moyen de salariés employés au cours de l'exercice à 250.
 
 Le total du bilan est égal à la somme des montants nets des éléments d'actif.
 
@@ -17,4 +17,6 @@ Le nombre moyen de salariés est apprécié selon les modalités prévues au I d
 Sauf disposition contraire, ces seuils sont réputés franchis à la date de clôture de deux exercices consécutifs sur la base des derniers comptes annuels arrêtés.
 
 NOTA:
-Conformément à l'article 21 du décret n° 2023-1394 du 30 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l'article 4 du décret n° 2024-152 du 28 février 2024, ces dispositions entrent en vigueur le 1er mars 2024.
+
+Ces mêmes dispositions s'appliquent aux comptes et rapports afférents aux exercices ouverts à compter du 1er janvier 2024. Toutefois, les mandats de commissaires aux comptes en cours à l'entrée en vigueur du présent décret se poursuivent jusqu'à leur date d'expiration dans les conditions prévues à l’article L. 821-44 du code de commerce.

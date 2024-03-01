@@ -4,11 +4,8 @@ L'émolument prévu à l'article R. 663-5 au titre de la mission d'assistance du
 
 |  CHIFFRE D'AFFAIRES EN € |  TAUX DE L'ÉMOLUMENT EN % |
 | --- | --- |
-|  De 0 à 150 000 |  1,881 % |
-|  De 150 001 à 750 000 |  0,941 % |
-|  De 750 001 à 3 000 000 |  0,564 % |
-|  De 3 000 001 à 7 000 000 |  0,376 % |
-|  De 7 000 001 à 20 000 000 |  0,282 % |
-
-NOTA:
-Conformément à l'article 21 de l'arrêté du 28 février 2020, les présentes dispositions entrent en vigueur le 1er mars 2020.
+|  De 0 à 150 000 |  1,825 % |
+|  De 150 001 à 750 000 |  0,913 % |
+|  De 750 001 à 3 000 000 |  0,547 % |
+|  De 3 000 001 à 7 000 000 |  0,365 % |
+|  De 7 000 001 à 20 000 000 |  0,274 % |

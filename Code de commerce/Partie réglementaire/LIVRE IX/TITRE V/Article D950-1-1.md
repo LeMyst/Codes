@@ -9,7 +9,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 |  Titre II |
 |  Chapitre III : Des obligations générales des commerçants |
 |  Article D. 123-80-1 |  Décret n° 2020-119 du 12 février 2020 |
-| Article D. 123-200 | Décret n° 2020-101 du 7 février 2020 |
+| Article D. 123-200 | Décret n° 2024-152 du 28 février 2024 |
 
 2° Les dispositions du livre II mentionnées dans la colonne de gauche ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
@@ -21,7 +21,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Article D. 210-21 | Décret n° 2020-101 du 7 février 2020 |
 | TITRE II  |
 | Chapitre I Des sociétés en nom collectif  |
-| Article D. 221-5  | Décret n° 2020-101 du 7 février 2020 |
+| Article D. 221-5  | Décret n° 2024-152 du 28 février 2024 |
 | Chapitre III Des sociétés à responsabilité limitée  |
 | Article D. 223-27  | décret n° 2019-514 du 24 mai 2019  |
 | Chapitre V Des sociétés anonymes  |
@@ -69,4 +69,6 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Article D. 823-7-1 | décret n° 2021-211 du 24 février 2021 |
 
 NOTA:
-Conformément à l’article 4 du décret n° 2022-799 du 12 mai 2022, ces dispositions entrent en vigueur le 15 mai 2022 en application du premier alinéa du I de l'article 19 de la loi n° 2022-172 du 14 février 2022.
+Conformément à l'article 4 du décret n° 2024-152 du 28 février 2024, ces dispositions entrent en vigueur le 1er mars 2024.
+
+Ces mêmes dispositions s'appliquent aux comptes et rapports afférents aux exercices ouverts à compter du 1er janvier 2024. Toutefois, les mandats de commissaires aux comptes en cours à l'entrée en vigueur du présent décret se poursuivent jusqu'à leur date d'expiration dans les conditions prévues à l’article L. 821-44 du code de commerce.

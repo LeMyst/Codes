@@ -4,21 +4,25 @@ Les prestations figurant aux numéros 79 à 92 du tableau 3-1 donnent lieu à la
 
 | Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) |  Désignation de la prestation |  Emolument |
 | --- | --- | --- |
-|  79 |  Sommation de faire ou de ne pas faire |  22,34 € |
-|  81 |  Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction |  30,85 € |
-|  82 |  Commandement à la personne tenue de la remise de délivrer ou de restituer |  24,47 € |
-|  83 |  Sommation au tiers de remettre le bien |  31,92 € |
-|  84 |  Commandement à la personne tenue de la remise de délivrer ou de restituer |  31,92 € |
-|  85 |  Sommation au débiteur d'assister à l'ouverture du coffre-fort |  24,47 € |
-|  86 |  Commandement de quitter les lieux |  26,60 € |
-|  87 |  Sommation aux créanciers opposants de prendre communication du cahier des charges |  26,60 € |
-|  88 |  Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation |  26,60 € |
-|  89 |  Dénonciation aux créanciers inscrits valant assignation à comparaître |  26,60 € |
-|  90 |  Sommation de prendre communication du cahier des charges |  26,60 € |
-|  91 |  Sommation de prendre parti |  31,92 € |
-|  92 |  Mise en demeure du locataire d'avoir à justifier qu'il occupe le logement |  |
-|  a) par acte séparé |  53,20 € |
-|  b) contenu dans un commandement |  21,28 € |
+|  79 |  Sommation de faire ou de ne pas faire |  22,57 € |
+|  81 |  Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction |  31,16 € |
+|  82 |  Commandement à la personne tenue de la remise de délivrer ou de restituer | 24,72 € |
+|  83 |  Sommation au tiers de remettre le bien |  32,24 € |
+|  84 |  Commandement à la personne tenue de la remise de délivrer ou de restituer |  32,24 € |
+|  85 |  Sommation au débiteur d'assister à l'ouverture du coffre-fort |  24,72 € |
+|  86 |  Commandement de quitter les lieux |  26,87 € |
+|  87 |  Sommation aux créanciers opposants de prendre communication du cahier des charges |  26,87 € |
+|  88 |  Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation |  26,87 € |
+|  89 |  Dénonciation aux créanciers inscrits valant assignation à comparaître |  26,87 € |
+|  90 |  Sommation de prendre communication du cahier des charges |  26,87 € |
+|  91 |  Sommation de prendre parti |  26,87 € |
+|  92 |  Mise en demeure du locataire d'avoir à justifier qu'il occupe le logement | 32,24 € |
+|  a) par acte séparé |  53,74 € |
+|  b) contenu dans un commandement |  21,50 € |
 
 NOTA:
-Conformément au 1° de l'article 29 de l'arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.
+Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
+
+1° - Le présent arrêté entre en vigueur le 1er mars 2024.
+
+2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

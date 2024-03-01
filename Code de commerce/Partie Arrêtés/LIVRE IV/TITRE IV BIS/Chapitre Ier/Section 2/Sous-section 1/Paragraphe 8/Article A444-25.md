@@ -4,8 +4,12 @@ Si, à compter de la demande du client, les prestations suivantes sont réalisé
 
 | Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) |  Désignation de la prestation |  Délai de référence |  Tarif majoré |
 | --- | --- | --- | --- |
-|  109 |  Congés et demandes de renouvellement de bail commercial, prévus aux articles L. 145-9 et L. 145-10 |  24 heures |  89,28 € |
-|  110 |  Congés et offres de renouvellement de bail rural |  24 heures |  89,28 € |
+|  109 |  Congés et demandes de renouvellement de bail commercial, prévus aux articles L. 145-9 et L. 145-10 |  24 heures |  90,18 € |
+|  110 |  Congés et offres de renouvellement de bail rural |  24 heures |  90,18 € |
 
 NOTA:
-Conformément au 1° de l'article 29 de l'arrêté du 28 février 2020, ces dispositions entrent en vigueur le 1er mars 2020. Se reporter au 2° de l'article précité.
+Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
+
+1° - Le présent arrêté entre en vigueur le 1er mars 2024.
+
+2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

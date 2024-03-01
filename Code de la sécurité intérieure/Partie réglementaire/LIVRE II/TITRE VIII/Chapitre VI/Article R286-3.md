@@ -24,6 +24,8 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 
 8° A l'article R. 236-16, le mot : " départemental " est supprimé ;
 
+8° bis A. - Aux articles R. 236-32 et R. 236-55, la référence à l'article D. 98-8 du code des postes et des communications électroniques est remplacée par la référence aux dispositions ayant le même objet applicables localement ;
+
 8° bis Au I de l'article R. 242-1, les mots : “ ainsi que, lors de leur participation aux seules opérations de secours, les associations de sécurité civile bénéficiant de l'agrément A délivré dans les conditions fixées à l'article R. 725-1 ” sont supprimés ;
 
 8° ter A l'article R. 242-6 et à l'article R. 253-6, la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
@@ -34,7 +36,4 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 
 11° A l'article R. 252-16, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : " Journal officiel de la Nouvelle-Calédonie " ;
 
-2° A l'article R. 253-3, le c, les références aux articles L. 2212-2et L. 2122-18du code général des collectivités territoriales et les références aux agents mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 du présent code sont supprimées.
-
-NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.
+2° A l'article R. 253-3, le c, les références aux articles L. 2212-2 et L. 2122-18 du code général des collectivités territoriales et les références aux agents mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 du présent code sont supprimées.

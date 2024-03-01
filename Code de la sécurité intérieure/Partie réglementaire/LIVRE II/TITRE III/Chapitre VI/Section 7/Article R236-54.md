@@ -1,0 +1,3 @@
+# Article R236-54
+
+Le ministre de l'intérieur (direction générale de la police nationale) est autorisé à mettre en œuvre un traitement automatisé de données à caractère personnel relatif aux interventions des personnels de la police nationale et aux communications d'urgence, dénommé “Pilotage des événements, gestion de l'activité et sécurisation des équipages (PEGASE II)”, ayant pour finalité de faciliter la gestion et le suivi des interventions des personnels de la police nationale, y compris lorsqu'elles concernent des sites et des personnes faisant l'objet d'une protection, en réponse à des communications d'urgence de “Police secoursˮ ou à l'initiative de ces personnels.

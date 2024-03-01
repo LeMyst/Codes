@@ -26,6 +26,8 @@ Pour l'application des dispositions énumérées aux articles R. 287-1 et D. 287
 
 9° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des familles est remplacée par la référence à la réglementation applicable localement ;
 
+9° ter A. - A l'article R. 236-32, la référence à l'article D. 98-8 du code des postes et des communications électroniques est remplacée par la référence aux dispositions ayant le même objet applicables localement ;
+
 9° ter Au I de l'article R. 242-1, les mots : “ mentionnés à l'article L. 722-1 ” et les mots : “ ainsi que, lors de leur participation aux seules opérations de secours, les associations de sécurité civile bénéficiant de l'agrément A délivré dans les conditions fixées à l'article R. 725-1 ” sont supprimés ;
 
 9° quater A l'article R. 242-6 et à l'article R. 253-6, la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;

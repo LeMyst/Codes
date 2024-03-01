@@ -62,6 +62,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 236-47 à R. 236-49 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
 | R. 236-50 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 236-51 à R. 236-53 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
+|  R. 236-54 à R. 236-60 |  Résultant du décret n° 2024-155 du 27 février 2024 |
 | Au titre IV |  |
 | R. 241-1 à R. 241-7 | Résultant du décret n° 2022-605 du 21 avril 2022  |
 | R. 242-1 à R. 242-7 | Résultant du décret n° 2022-712 du 27 avril 2022 |
@@ -69,6 +70,3 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
-
-NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

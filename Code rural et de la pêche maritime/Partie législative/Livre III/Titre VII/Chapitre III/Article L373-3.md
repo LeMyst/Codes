@@ -8,11 +8,6 @@ Ne sont pas applicables à Saint-Martin :
 
 3° L'article L. 332-1 ;
 
-4° Les 1° et 2° de l'article L. 361-2 et l'article L. 361-4 A ;
+4° Les 1° et 2° de l'article L. 361-2, l'article L. 361-4 A, les 3° et 4° du I et le II de l'article L. 361-4-1, les articles L. 361-4-2 à L. 361-4-4, les troisième et quatrième alinéas de l'article L. 361-4-5 et les premier, troisième et quatrième alinéas de l'article L. 361-5.
 
-5° Les articles L. 361-4-1 à L. 361-6 et la dernière phrase du premier alinéa de l'article L. 361-8.
-
-NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Conformément à l'article 5 de l'ordonnance n° 2022-1075 du 29 juillet 2022, ces dispositions entrent en vigueur à la date et selon les modalités prévues à l'article 17 de la loi n° 2022-298 du 2 mars 2022.
+Pour l'application, à Saint-Martin, de l'article L. 361-4-7, les mots : “ les décrets prévus aux articles L. 361-4 et L. 361-4-2 fixent les seuils, les taux de subvention et les taux d'indemnisation ” sont remplacés, dans cet article, par les mots : “ le décret prévu à l'article L. 361-4 fixe les seuils et les taux de subvention ”.

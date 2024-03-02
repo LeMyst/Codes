@@ -1,1 +1,1 @@
-Section 1: Etablissement public de sécurité ferroviaire
+Section 1: Établissement public de sécurité ferroviaire

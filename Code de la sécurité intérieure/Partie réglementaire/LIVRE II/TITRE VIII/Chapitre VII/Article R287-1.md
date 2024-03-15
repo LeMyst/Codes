@@ -12,7 +12,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 |  R. 211-22 à R. 211-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 |  R. 211-26-1 |  Résultant du décret n° 2019-208 du 20 mars 2019 |
 |  R. 211-27 à R. 211-31 |  Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 213-2 à R. 213-5 | Résultant du décret n° 2023-204 du 27 mars 2023 |
+| R. 213-2 à R. 213-7 | Résultant du décret n° 2024-221 du 12 mars 2024 |
 | R. 214-1 à R. 214-3 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | Au titre II |  |
 | R. 222-1 | Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale |
@@ -68,6 +68,3 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
-
-NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

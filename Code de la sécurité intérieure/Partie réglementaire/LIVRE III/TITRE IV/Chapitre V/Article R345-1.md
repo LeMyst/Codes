@@ -6,7 +6,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | --- | --- |
 |  Au titre Ier |
 |  R. 311-1 |  Résultant du décret n° 2023-557 du 3 juillet 2023 |
-| R. 311-2 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
+| R. 311-2 | Résultant du décret n° 2024-221 du 12 mars 2024 |
 | R. 311-3 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 311-3-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 311-3-2 | Résultant du décret n° 2022-144 du 8 février 2022 |

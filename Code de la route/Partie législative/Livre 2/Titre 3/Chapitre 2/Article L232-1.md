@@ -28,7 +28,7 @@ Art. 221-8 I.-Les personnes physiques coupables des infractions prévues au pré
 
 3° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle ; dans les cas prévus par l'article 221-6-1, la suspension ne peut pas être assortie du sursis, même partiellement, et ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ; dans les cas prévus par les 1° à 6° et le dernier alinéa de l'article 221-6-1, la durée de cette suspension est de dix ans au plus ;
 
-4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au plus ;
+4° (abrogé) ;
 
 4° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités fixées à l'article 131-35-1 ;
 
@@ -38,7 +38,7 @@ Art. 221-8 I.-Les personnes physiques coupables des infractions prévues au pré
 
 7° Dans les cas prévus par l'article 221-6-1, l'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
-8° Dans les cas prévus par l'article 221-6-1, l'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+8° (abrogé) ;
 
 9° Dans les cas prévus par l'article 221-6-1, l'immobilisation, pendant une durée d'un an au plus, du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ;
 

@@ -22,7 +22,7 @@ Sont interdites d'acquisition et de détention d'armes, de munitions et de leurs
 
 - menaces d'atteinte aux personnes prévues aux articles 222-17 à 222-18-3 du même code ;
 
-- viol et agressions sexuelles prévus aux articles 222-22 à 222-31-2 du même code ;
+- viol et agressions sexuelles prévus aux articles 222-22 à 222-31 du même code ;
 
 -exhibition sexuelle prévue à l'article 222-32 du même code ;
 

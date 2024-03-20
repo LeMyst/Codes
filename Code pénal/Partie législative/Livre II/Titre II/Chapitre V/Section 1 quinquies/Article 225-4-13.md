@@ -15,5 +15,3 @@ Les faits mentionnés au premier alinéa sont punis de trois ans d'emprisonnemen
 5° Par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique.
 
 L'infraction prévue au premier alinéa n'est pas constituée lorsque les propos répétés invitent seulement à la prudence et à la réflexion, eu égard notamment à son jeune âge, la personne qui s'interroge sur son identité de genre et qui envisage un parcours médical tendant au changement de sexe.
-
-Lorsque l'infraction est commise par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité parentale ou sur le retrait de l'exercice de cette autorité en application des articles 378 et 379-1 du code civil.

@@ -1,3 +1,3 @@
 # Article 378-2
 
-L'exercice de l'autorité parentale et les droits de visite et d'hébergement du parent poursuivi ou condamné, même non définitivement, pour un crime commis sur la personne de l'autre parent sont suspendus de plein droit jusqu'à la décision du juge et pour une durée maximale de six mois, à charge pour le procureur de la République de saisir le juge aux affaires familiales dans un délai de huit jours.
+L'exercice de l'autorité parentale et les droits de visite et d'hébergement du parent poursuivi par le ministère public ou mis en examen par le juge d'instruction soit pour un crime commis sur la personne de l'autre parent, soit pour une agression sexuelle incestueuse ou pour un crime commis sur la personne de son enfant sont suspendus de plein droit jusqu'à la décision du juge aux affaires familiales, le cas échéant saisi par le parent poursuivi, jusqu'à la décision de non-lieu du juge d'instruction ou jusqu'à la décision de la juridiction pénale.

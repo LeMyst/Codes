@@ -20,7 +20,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 6° A l'article R. 232-9, la consultation prévue au deuxième alinéa se limite au fichier des personnes recherchées ;
 
-6° bis Aux articles R. 241-25 et R. 242-6 et à l'article R. 253-6, la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
+6° bis La référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
 
 7° A l'article R. 252-7, les mots : " Dans chaque département " sont remplacés par les mots : " A Saint-Pierre-et-Miquelon " ;
 

@@ -30,7 +30,7 @@ Pour l'application des dispositions énumérées aux articles R. 287-1 et D. 287
 
 9° ter Au I de l'article R. 242-1, les mots : “ mentionnés à l'article L. 722-1 ” et les mots : “ ainsi que, lors de leur participation aux seules opérations de secours, les associations de sécurité civile bénéficiant de l'agrément A délivré dans les conditions fixées à l'article R. 725-1 ” sont supprimés ;
 
-9° quater A l'article R. 242-6 et à l'article R. 253-6, la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
+9° quater La référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
 
 10° A l'article R. 252-7, les mots : " Dans chaque département " sont remplacés par les mots : " Dans les îles Wallis et Futuna " ;
 

@@ -26,7 +26,7 @@ Pour l'application des dispositions énumérées aux articles R. 285-1 et D. 285
 
 8° bis A. - Aux articles R. 236-32 et R. 236-55, la référence à l'article D. 98-8 du code des postes et des communications électroniques est remplacée par la référence aux dispositions ayant le même objet applicables localement ;
 
-8° bis A l'article R. 242-6 et à l'article R. 253-6, la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
+8° bis La référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
 
 9° A l'article R. 252-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Polynésie française " ;
 

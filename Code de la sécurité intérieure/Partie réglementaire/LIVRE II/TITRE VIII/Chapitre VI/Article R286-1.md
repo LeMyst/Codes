@@ -39,7 +39,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 232-23 | Résultant du décret n° 2018-714 du 3 août 2018 |
 | R. 234-1 | Résultant du décret n° 2018-141 du 27 février 2018  |
 | R. 234-2 | Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale |
-| R. 234-3 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
+| R. 234-3 | Résultant du décret n° 2024-237 du 18 mars 2024 |
 | R. 236-1 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 236-2 et R. 236-3 | Résultant du décret n° 2020-1510 du 2 décembre 2020 |
 | R. 236-4 et R. 236-5 | Résultant du décret n° 2013-1113  |
@@ -67,6 +67,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 241-1 à R. 241-7 | Résultant du décret n° 2022-605 du 21 avril 2022  |
 | R. 242-1 à R. 242-7 | Résultant du décret n° 2022-712 du 27 avril 2022 |
 | R. 242-8 à R. 242-14 | Résultant du décret n° 2023-283 du 19 avril 2023 |
+| R. 243-1 à R. 243-8 | Résultant du décret n° 2024-238 du 18 mars 2024 |
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |

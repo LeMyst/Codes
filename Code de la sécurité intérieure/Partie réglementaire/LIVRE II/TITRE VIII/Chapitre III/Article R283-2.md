@@ -22,7 +22,7 @@ Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :
 
 5° A l'article R. 232-9, la consultation prévue au deuxième alinéa se limite au fichier des personnes recherchées ;
 
-5° bis Pour l'application des articles R. 241-25 et R. 242-6 et de l'article R. 253-6 à Saint-Barthélemy la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
+5° bis A Saint-Barthélemy la référence au règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016 ;
 
 6° L'article R. 252-7 est ainsi rédigé :
 

@@ -10,8 +10,12 @@ III.-La nomination des membres titulaires et suppléants de la commission parita
 
 Les organisations syndicales, appelées à siéger à la commission paritaire nationale, proposent leurs représentants titulaires et suppléants parmi leurs délégués titulaires et suppléants au sein de l'instance nationale représentative du personnel prévue au V de l'article 40 de la loi n° 2019-486 du 22 mai 2019 ;
 
-2° Les membres titulaires et suppléants de la commission paritaire nationale sont nommés par arrêté du ministre en charge de la tutelle des chambres de commerce et d'industrie.
+2° Les membres titulaires et suppléants de la commission paritaire nationale sont nommés par arrêté du ministre en charge de la tutelle des chambres de commerce et d'industrie ;
+
+3° Chaque organisation syndicale désigne parmi ses représentants titulaires, un chef de file, qui est l'interlocuteur privilégié des représentants des employeurs et du ministre de tutelle.
 
 IV.-Les membres suppléants ne peuvent siéger en commission paritaire nationale qu'en cas d'empêchement d'un titulaire. Le suppléant ne remplace pas de droit le titulaire dont le poste est devenu vacant.
+
+La cessation des fonctions de membre de la délégation du personnel de l'instance nationale représentative du personnel dans les cas prévus au 2° du V de l'article D. 712-11-1 entraîne également cessation de fonctions dont bénéficie l'intéressé au sein de la commission paritaire nationale.
 
 V.-Le président de la commission paritaire nationale peut, à la demande du président de CCI France ou de chacune des organisations syndicales, convoquer aux réunions de la commission paritaire nationale des conseillers techniques, désignés pour une seule réunion de cette instance. Les présidents de chambres peuvent disposer au plus de six conseillers techniques, et chacune des organisations syndicales d'autant de conseillers techniques que de représentants titulaires. Ces conseillers techniques interviennent seulement à titre consultatif.

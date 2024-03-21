@@ -1,6 +1,6 @@
 # Article D375-2
 
-I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 |  DISPOSITIONS APPLICABLES |  DANS LEUR REDACTION |
 | --- | --- |
@@ -131,14 +131,15 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 |  D. 334-20 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 |  D. 334-21 |  Résultant du décret n° 2021-1054 du 6 août 2021  |
 |  D. 334-21-1 et D. 334-22 |  Résultant du décret n° 2018-614 du 16 juillet 2018  |
-|  D. 334-25 |  Résultant du décret n° 2012-640 du 3 mai 2012  |
+|  D. 334-25 |  Résultant du décret n° 2024-240 du 18 mars 2024 |
 |  D. 334-26 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
-|  D. 334-27 |  Résultant du décret n° 2022-143 du 8 février 2022 |
+|  D. 334-27 |  Résultant du décret n° 2024-240 du 18 mars 2024 |
+|  D. 334-27-1 |  Résultant du décret n° 2024-240 du 18 mars 2024 |
 |  D. 334-28 à D. 334-30 |  Résultant du décret n° 2019-1558 du 30 décembre 2019  |
 |  D. 334-31 à D. 334-32 |  Résultant du décret n° 2013-469 du 5 juin 2013  |
 |  D. 334-32-1 |  Résultant du décret n° 2021-983 du 27 juillet 2021  |
-|  D. 334-33 |  Résultant du décret n° 2012-640 du 3 mai 2012  |
-|  D. 334-34 |  Résultant du décret n° 2020-1348 du 4 novembre 2020  |
+|  D. 334-33 |  Résultant du décret n° 2024-240 du 18 mars 2024 |
+|  D. 334-34 |  Résultant du décret n° 2024-240 du 18 mars 2024 |
 |  D. 336-1 |  Résultant du décret n° 2010-100 du 27 janvier 2010  |
 |  D. 336-2 |  Résultant du décret n° 2006-583 du 23 mai 2006  |
 | D. 336-3 |  Résultant du décret n° 2021-983 du 27 juillet 2021 |
@@ -620,6 +621,3 @@ b) Au troisième alinéa, après les mots : " Le médecin " sont remplacés par 
 79° Le premier alinéa de l'article D. 351-28-1 est ainsi rédigé :
 
 " Par dérogation aux dispositions des premier et troisième alinéas de l'article D. 351-28, les candidats qui bénéficient d'un projet personnalisé de scolarisation, au titre d'un trouble du neuro-développement, adressent directement leur demande d'aménagements des conditions d'examen ou de concours à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. ".
-
-NOTA:
-Conformément à l’article 6 du décret n° 2024-122 du 19 février 2024, ces dispositions sont applicables à compter de la session 2024 des diplômes de certificat d'aptitude professionnelle, brevet professionnel, mention complémentaire, baccalauréat professionnel et brevet des métiers d'art.

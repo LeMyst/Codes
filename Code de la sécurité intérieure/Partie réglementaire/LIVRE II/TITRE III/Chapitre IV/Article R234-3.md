@@ -104,9 +104,9 @@ i) Les services suivants placés sous l'autorité du directeur général de la g
 
 j) Les services suivants placés sous l'autorité du préfet de police :
 
-– la sous-direction de la sécurité intérieure de la direction du renseignement ;
-
 – la direction du renseignement ;
+
+– la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ;
 
 k) Le service suivant placé sous l'autorité du directeur de l'administration pénitentiaire :
 

@@ -14,7 +14,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 |  D. 422-2 et D. 422-2-1 |  Résultant du décret n° 2016-1063 du 3 août 2016  |
 |  D. 422-3 D. 422-5 |  Résultant du décret n° 2008-263 du 14 mars 2008  |
 |  D. 422-6 |  Résultant du décret n° 2020-1633 du 21 décembre 2020  |
-|  D. 422-7 |  Résultant du décret n° 2023-783 du 16 août 2023  |
+|  D. 422-7 |  Résultant du décret n° 2024-244 du 19 mars 2024 |
 |  D. 422-7-1 |  Résultant du décret n° 2019-908 du 30 août 2019  |
 |  D. 422-8 et D. 422-9 |  Résultant du décret n° 2008-263 du 14 mars 2008  |
 |  D. 422-10 |  Résultant du décret n° 2020-1633 du 21 décembre 2020  |

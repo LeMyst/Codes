@@ -4,7 +4,7 @@ En qualité de représentant de l'Etat au sein de l'établissement, le chef d'é
 
 1° A autorité sur l'ensemble des personnels affectés ou mis à disposition de l'établissement. Il désigne à toutes les fonctions au sein de l'établissement pour lesquelles aucune autre autorité administrative n'a reçu de pouvoir de nomination. Il fixe le service des personnels dans le respect du statut de ces derniers ;
 
-2° Veille au bon déroulement des enseignements, de l'information, de l'orientation et du contrôle des connaissances des élèves ;
+2° Veille au bon déroulement des enseignements, de l'information, de l'orientation et du contrôle des connaissances des élèves ainsi qu'à l'organisation de la continuité pédagogique en cas d'absence d'un enseignant ;
 
 3° Prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 

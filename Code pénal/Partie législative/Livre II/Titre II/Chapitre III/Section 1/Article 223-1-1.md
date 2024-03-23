@@ -2,7 +2,7 @@
 
 Le fait de révéler, de diffuser ou de transmettre, par quelque moyen que ce soit, des informations relatives à la vie privée, familiale ou professionnelle d'une personne permettant de l'identifier ou de la localiser aux fins de l'exposer ou d'exposer les membres de sa famille à un risque direct d'atteinte à la personne ou aux biens que l'auteur ne pouvait ignorer est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
-Lorsque les faits sont commis au préjudice d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou titulaire d'un mandat électif public ou d'un journaliste, au sens du deuxième alinéa de l'article 2 de la loi du 29 juillet 1881 sur la liberté de la presse, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+Lorsque les faits sont commis au préjudice d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou titulaire d'un mandat électif public, d'un candidat à un mandat électif public pendant la durée de la campagne électorale ou d'un journaliste, au sens du deuxième alinéa de l'article 2 de la loi du 29 juillet 1881 sur la liberté de la presse, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende. Les mêmes peines sont applicables lorsque les faits sont commis dans les mêmes conditions à l'encontre du conjoint, d'un ascendant ou d'un descendant en ligne directe ou de toute autre personne vivant habituellement au domicile de la personne mentionnée au présent alinéa, en raison des fonctions exercées par cette dernière.
 
 Lorsque les faits sont commis au préjudice d'une personne mineure, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 

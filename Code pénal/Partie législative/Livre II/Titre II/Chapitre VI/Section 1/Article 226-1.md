@@ -13,3 +13,5 @@ Lorsque les actes mentionnés aux 1° et 2° du présent article ont été accom
 Lorsque les actes mentionnés au présent article ont été accomplis sur la personne d'un mineur, le consentement doit émaner des titulaires de l'autorité parentale, dans le respect de l'article 372-1 du code civil.
 
 Lorsque les faits sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité, les peines sont portées à deux ans d'emprisonnement et à 60 000 euros d'amende.
+
+Lorsque les faits sont commis au préjudice d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public, titulaire d'un mandat électif public ou candidate à un tel mandat ou d'un membre de sa famille, les peines sont également portées à deux ans d'emprisonnement et à 60 000 euros d'amende.

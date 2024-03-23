@@ -1,6 +1,6 @@
 # Article 433-5
 
-Constituent un outrage puni de 7 500 euros d'amende les paroles, gestes ou menaces, les écrits ou images de toute nature non rendus publics ou l'envoi d'objets quelconques adressés à une personne chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de sa mission, et de nature à porter atteinte à sa dignité ou au respect dû à la fonction dont elle est investie.
+Constituent un outrage puni de 7 500 euros d'amende et d'une peine de travail d'intérêt général définie à l'article 131-8 les paroles, gestes ou menaces, les écrits ou images de toute nature non rendus publics ou l'envoi d'objets quelconques adressés à une personne chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de sa mission, et de nature à porter atteinte à sa dignité ou au respect dû à la fonction dont elle est investie.
 
 Lorsqu'il est adressé à une personne dépositaire de l'autorité publique, à un sapeur-pompier ou à un marin-pompier dans l'exercice ou à l'occasion de l'exercice de ses missions, l'outrage est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 

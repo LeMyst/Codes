@@ -1,6 +1,6 @@
 # Article 222-14-5
 
-I.-Lorsqu'elles sont commises sur un militaire de la gendarmerie nationale, un militaire déployé sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, un fonctionnaire de la police nationale, un agent de police municipale, un garde champêtre, un agent des douanes, un sapeur-pompier professionnel ou volontaire ou un agent de l'administration pénitentiaire dans l'exercice ou du fait de ses fonctions et lorsque la qualité de la victime est apparente ou connue de l'auteur, les violences prévues à la présente section sont punies :
+I.-Lorsqu'elles sont commises sur un militaire de la gendarmerie nationale, un militaire déployé sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, un fonctionnaire de la police nationale, un agent de police municipale, un garde champêtre, un agent des douanes, un sapeur-pompier professionnel ou volontaire, un agent de l'administration pénitentiaire, le titulaire d'un mandat électif public ou, dans la limite de six ans à compter de l'expiration du mandat, l'ancien titulaire d'un mandat électif public dans l'exercice ou du fait de ses fonctions, actuelles ou passées, et lorsque la qualité de la victime est apparente ou connue de l'auteur, les violences prévues à la présente section sont punies :
 
 1° De sept ans d'emprisonnement et de 100 000 euros d'amende, si elles ont entraîné une incapacité totale de travail pendant plus de huit jours ;
 

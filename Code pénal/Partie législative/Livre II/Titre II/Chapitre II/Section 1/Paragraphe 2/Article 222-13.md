@@ -12,7 +12,7 @@ Les violences ayant entraîné une incapacité de travail inférieure ou égale 
 
 4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
-4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou une personne chargée d'une mission de service public autre que celles mentionnées à l'article 222-14-5 du présent code ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
 4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;
 

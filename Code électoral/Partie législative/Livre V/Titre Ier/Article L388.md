@@ -1,6 +1,6 @@
 # Article L388
 
-I.-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique, à l'exception des articles L. 15, L. 15-1 , L. 46-1 et L. 66, sont applicables à l'élection :
+I.-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2024-247 du 21 mars 2024 renforçant la sécurité et la protection des maires et des élus locaux, à l'exception des articles L. 15, L. 15-1 , L. 46-1 et L. 66, sont applicables à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
@@ -13,8 +13,3 @@ I.-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédac
 5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
 II.-Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le chapitre II du titre Ier du livre Ier, à l'exception des articles L. 12-1 et L. 18-1, dans sa rédaction résultant de la loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures, et l'article L. 62-1 du présent code, dans sa rédaction résultant de la loi n° 88-1262 du 30 décembre 1988 modifiant diverses dispositions du code électoral et du code des communes relatives aux procédures de vote et au fonctionnement des conseils municipaux.
-
-NOTA:
-Conformément à l'article 112 de la loi n°2019-1461 III, le I, à l'exception du 4°, et les IV et V de cet article entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2021.
-
-Conformément à l'article 5 du décret n° 2020-1460 du 27 novembre 2020, en application du III de l'article 112 de la loi du 27 décembre 2019, le I, à l'exception des 3° et 4°, le IV et le V de ce même article, entrent en vigueur le lendemain de la publication du présent décret.

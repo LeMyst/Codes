@@ -1,6 +1,6 @@
 # Article L157-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense, les dispositions suivantes :
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2024-247 du 21 mars 2024 renforçant la sécurité et la protection des maires et des élus locaux, les dispositions suivantes :
 
 1° Le titre Ier ;
 

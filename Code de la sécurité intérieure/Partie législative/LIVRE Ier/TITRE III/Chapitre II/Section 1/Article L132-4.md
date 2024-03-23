@@ -6,5 +6,26 @@ Dans les communes de plus de 5 000 habitants et dans les communes comprenant un 
 
 Dans les communes de plus de 15 000 habitants, le maire charge un membre du conseil municipal ou un agent public territorial du suivi, de l'animation et de la coordination des travaux du conseil local de sécurité et de prévention de la délinquance.
 
-NOTA:
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+S'il n'a pas été désigné par le maire, le représentant de l'Etat territorialement compétent désigne un agent coordinateur au sein des services de l'Etat afin d'assister le maire dans l'animation du conseil local de sécurité et de prévention de la délinquance.
+
+Sont membres de droit du conseil local de sécurité et de prévention de la délinquance :
+
+1° Le représentant de l'Etat ou son représentant ;
+
+2° Le procureur de la République ou son représentant ;
+
+3° Le cas échéant, le président de l'établissement public de coopération intercommunale à fiscalité propre compétent en matière de dispositifs locaux de prévention de la délinquance et dont la commune est membre ou son représentant.
+
+Peuvent être désignés membres dudit conseil :
+
+a) Des représentants des services de l'Etat désignés par le représentant de l'Etat dans le département ;
+
+b) A leur demande, les parlementaires concernés ;
+
+c) Des représentants d'associations, d'établissements ou d'organismes œuvrant notamment dans les domaines de la prévention, de la sécurité, de l'aide aux victimes, du logement, des transports collectifs, de l'action sociale ou des activités économiques désignés par le président du conseil local de sécurité et de prévention de la délinquance, après accord des responsables des associations, des établissements ou des organismes dont ils relèvent.
+
+En tant que de besoin et selon les particularités locales, les maires des communes limitrophes de moins de 5 000 habitants ou leurs représentants et des présidents des établissements publics de coopération intercommunale intéressés ainsi que des personnes qualifiées peuvent être associés aux travaux du conseil.
+
+La composition du conseil local de sécurité et de prévention de la délinquance est fixée par arrêté du maire.
+
+Le conseil local de sécurité et de prévention de la délinquance se réunit au moins une fois par an en présence des membres de droit ou de leurs représentants spécialement désignés à cet effet.

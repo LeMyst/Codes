@@ -1,9 +1,28 @@
 # Article R4312-1
 
-Le conseil d'administration de Voies navigables de France comprend :\
-1° Neuf représentants de l'Etat, deux nommés par arrêté du ministre chargé des transports dont un choisi parmi les présidents des directoires des grands ports maritimes ou les présidents des directoires des grands ports fluvio-maritimes, les autres représentants de l'Etat étant nommés respectivement par arrêté du ministre chargé de l'économie, du ministre chargé du budget, du ministre chargé de l'agriculture, du ministre chargé du tourisme, du ministre chargé de l'environnement, du ministre chargé de l'énergie et du ministre chargé des collectivités territoriales ;\
-2° Neuf personnalités nommées par arrêté du ministre chargé des transports dont deux choisies parmi les élus locaux présidents des commissions territoriales des voies navigables mentionnées à l'article R. 4312-20, une proposée par la profession des entreprises de la batellerie artisanale, une par le Comité des armateurs fluviaux, une par l'Association des utilisateurs de transport de fret, une par le ministre chargé de l'énergie pour représenter les entreprises de production d'électricité utilisant l'énergie hydraulique du domaine confié à l'établissement, une par le ministre chargé de l'environnement pour représenter les associations de protection de la nature et de l'environnement et deux choisies en raison de leur compétence en matière de transports ou d'aménagement du territoire, dont une titulaire d'un mandat électoral local ou national ;\
-3° Huit représentants des personnels de l'établissement élus dans les conditions fixées au 3° de l'article L. 4312-1 dont sept représentants des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1 et un représentant des personnels mentionnés au 4° du même article.
+Le conseil d'administration de Voies navigables de France comprend dix-sept membres :
+
+1° Six représentants de l'Etat :
+
+a) Un représentant nommé par arrêté du ministre chargé des transports ;
+
+b) Un représentant nommé par arrêté du ministre chargé des comptes publics ;
+
+c) Un représentant nommé par arrêté du ministre chargé de l'économie ;
+
+d) Un représentant nommé par arrêté du ministre chargé de l'environnement ;
+
+e) Un représentant nommé par arrêté du ministre chargé de l'énergie ;
+
+f) Un représentant nommé par arrêté du ministre chargé de l'agriculture ;
+
+2° Six personnalités qualifiées, choisies en raison de leurs compétences dans les domaines mentionnés au 2° de l'article L. 4312-1 du présent code, nommées par arrêté du ministre chargé des transports dans les conditions prévues par l'article 52 de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, dont :
+
+a) Un représentant d'associations de protection de la nature et des milieux aquatiques proposé par le ministre chargé de l'environnement ;
+
+b) Une personnalité choisie en raison de sa compétence dans le domaine des professions du secteur fluvial ;
+
+3° Cinq représentants du personnel titulaires et un nombre égal de suppléants. Un suppléant n'assiste aux séances qu'en cas d'absence d'un titulaire.
 
 NOTA:
-Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.
+Conformément au premier alinéa de l’article 16 du décret n° 2023-1068 du 20 novembre 2023, ces dispositions entrent en vigueur en vue du prochain renouvellement de l'ensemble des membres du conseil d'administration et au plus tard le 26 mars 2024.

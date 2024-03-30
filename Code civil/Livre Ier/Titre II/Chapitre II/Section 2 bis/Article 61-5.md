@@ -8,4 +8,4 @@ Les principaux de ces faits, dont la preuve peut être rapportée par tous moyen
 
 2° Qu'elle est connue sous le sexe revendiqué de son entourage familial, amical ou professionnel ;
 
-3° Qu'elle a obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué ;
+3° Qu'elle a obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.

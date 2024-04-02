@@ -1,0 +1,5 @@
+# Article R162-127
+
+Les ministres chargés de la santé et de la sécurité sociale disposent, à compter de la date de publication de l'avis de la Haute Autorité de santé ou, s'il intervient plus tôt, du terme de la période mentionnée au deuxième alinéa de l'article R. 162-126, d'un délai de soixante jours pour décider de l'inscription sur la liste mentionnée à l'article L. 162-1-24. La notification de cette décision faite au demandeur précise le montant de la valorisation unitaire maximale applicable pour la prise en charge de l'acte, la durée de cette prise en charge, ainsi que la liste des établissements, centres et maisons de santé dans lesquels la réalisation de cet acte fera l'objet d'une prise en charge. Sa durée est décomptée à partir de la date à laquelle y est admis le premier patient.
+
+La valorisation unitaire maximale de l'acte est fixée au regard des éléments justificatifs fournis lors de la demande ainsi que des données économiques portant sur des actes comparables et des actes existants déjà pris en charge.

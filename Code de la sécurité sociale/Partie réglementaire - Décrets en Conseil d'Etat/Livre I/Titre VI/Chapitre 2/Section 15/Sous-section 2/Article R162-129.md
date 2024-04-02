@@ -1,0 +1,3 @@
+# Article R162-129
+
+La liste mentionnée à l'article L. 162-1-24 est mise à jour et publiée par le ministre chargé de la santé sur son site internet dès inscription, modification ou suppression d'un acte. Elle mentionne pour chaque acte la durée de la période de sa prise en charge, les indications pour lesquelles elle a lieu, la valorisation unitaire maximale applicable pour celle-ci et la liste des établissements, centres et maisons de santé concernés. Elle est complétée, dès la détermination de ces éléments, par la mention de la date de début de prise en charge mentionnée au premier alinéa de l'article R. 162-127 et de la valorisation unitaire retenue pour l'année en cours.

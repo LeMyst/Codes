@@ -2,7 +2,7 @@
 
 Pour l'application du titre Ier du présent livre dans les Terres australes et antarctiques françaises :
 
-1° Au second alinéa de l'article R. 612-5, les mots : “ unique d'identification ” sont remplacés par les mots : “ d'immatriculation au registre du commerce et des sociétés ” ;
+1° Au premier alinéa de l'article R. 612-5, les mots : “numéro unique d'identification obtenu auprès de l'organisme unique défini à l'article L. 123-33 du code de commerce” sont remplacés par les mots : “numéro d'immatriculation au registre du commerce et des sociétés” ;
 
 2° A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
@@ -13,6 +13,3 @@ Pour l'application du titre Ier du présent livre dans les Terres australes et a
 5° A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;
 
 5° bis A l'article R. 613-16-16, les mots : “ et des services mentionnés à l'article R. 733-1 ” sont supprimés.
-
-NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

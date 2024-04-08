@@ -1,1 +1,1 @@
-Sous-section 3 : Devoirs des entreprises et de leurs dirigeants
+Sous-section 3 : Devoirs des personnes morales et services internes de sécurité et de leurs dirigeants

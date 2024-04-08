@@ -1,6 +1,6 @@
 # Article R645-3
 
-Pour l'application en Polynésie française des dispositions des titres Ier et III du présent livre :
+Pour l'application en Polynésie française des dispositions des titres Ier, II bis et III du présent livre :
 
 1° La référence au préfet de département ou au préfet ou au préfet territorialement compétent est remplacée par la référence au haut-commissaire de la République en Polynésie française ;
 
@@ -10,9 +10,9 @@ Pour l'application en Polynésie française des dispositions des titres Ier et I
 
 2° ter La référence au directeur départemental de la police nationale est remplacée par la référence au directeur territorial de la police nationale ;
 
-3° Au second alinéa de l'article R. 612-5, les mots : “ unique d'identification ” sont remplacés par les mots : “ d'immatriculation au registre du commerce et des sociétés ” ;
+3° Au premier alinéa de l'article R. 612-5, les mots : “numéro unique d'identification obtenu auprès de l'organisme unique défini à l'article L. 123-33 du code de commerce” sont remplacés par les mots : “numéro d'immatriculation au registre du commerce et des sociétés” ;
 
-4° Les articles R. 612-2, R 612-22, et R. 612-25 sont applicables, sans préjudice des compétences de la Polynésie française en matière d'accès au travail des étrangers ;
+4° Les articles R. 612-2, R. 612-22, R. 612-25 et R. 625-9 sont applicables, sans préjudice des compétences de la Polynésie française en matière d'accès au travail des étrangers ;
 
 5° A l'article R. 612-10, les mots : " au recueil des actes administratifs du département " sont remplacés par les mots : " au Journal officiel de la Polynésie française " ;
 
@@ -32,9 +32,7 @@ Pour l'application en Polynésie française des dispositions des titres Ier et I
 
 8° bis A l'article R. 612-39 et à l'article R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1 ” sont supprimés ;
 
-9° Le 1° de l'article R. 613-7 est remplacé par les dispositions suivantes :
-
-“ 1° Un extrait du registre du commerce mentionnant la raison sociale de l'entreprise ; ”
+9° (Supprimé) ;
 
 9° bis L'article R. 613-16-5 est supprimé ;
 
@@ -144,23 +142,20 @@ c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots
 
 " III.-Les titres de formation professionnelle maritime délivrés par l'autorité localement compétente en Polynésie française sont reconnus dans les conditions prévues aux articles R. 373-3 à R. 373-9 du code de l'éducation. "
 
-26° A l'article R. 625-2 :
+26° Aux articles R. 625-1, R. 625-2, R. 625-9, R. 625-37 et R. 625-42, les références aux articles L. 621-1, L. 622-7, L. 622-19, L. 622-21, L. 622-22, R. 622-3, R. 622-18, R. 622-22 à R. 622-35, sont supprimées ;
 
-a) Les mots : “ dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail ” sont remplacés par les mots : “ dans les conditions fixées par les dispositions applicables localement ayant le même objet ” ;
-
-b) Le 8° du I est remplacé par les dispositions suivantes :
-
-“ 8° Le numéro d'immatriculation au registre du commerce et des sociétés. ”
-
-c) Le 2° du II est remplacé par les dispositions suivantes :
-
-“ 2° Un extrait du registre du commerce et des sociétés de moins de trois mois ; ”
+26° bis Au 2° de l'article R. 625-9 et au 5° de l'article R. 625-26, les mots : “ou d'un autre Etat partie à l'accord sur l'Espace économique européen”, au 1° de l'article R. 625-13 et au 8° de l'article R. 625-26, les mots : “ou d'un Etat partie à l'accord sur l'Espace économique européen”, et au premier alinéa de l'article R. 625-22, les mots : “ou dans un autre Etat partie à l'accord sur l'Espace économique européen” sont supprimés ;
 
 27° La référence au règlement (UE) n° 2015/1998 est remplacée par la référence aux règles applicables en métropole en vertu du règlement (UE) n° 2015/1998 ;
 
-28° A l'article R. 625-11, les mots : " et des articles R. 622-22 et suivants " sont supprimés ;
+28° A l'article R. 625-13 :
+
+a) Les mots : “dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail” et les mots : “prévue à l'article L. 6316-1 du code du travail” sont remplacés par les mots : “dans les conditions fixées par les dispositions applicables localement ayant le même objet” ;
+
+b) Le 6° du I est remplacé par les dispositions suivantes :
+
+“6° Le numéro d'immatriculation au registre du commerce et des sociétés ;”
+
+28° bis A Aux articles R. 625-16 et R. 625-20, les mots : “mentionnée à l'article L. 6316-1 du code du travail” sont remplacés par les mots : “dans les conditions fixées par les dispositions applicables localement ayant le même objet” ;
 
 28° bis Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie locale.
-
-NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.

@@ -12,7 +12,7 @@ I.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par 
 
 5° La mention de la ou des activités privées de sécurité pour lesquelles une prestation de formation est réalisée ;
 
-6° La certification prévue à l'article R. 625-7 du présent code ou, le cas échéant, un document attestant que le demandeur est engagé dans une démarche de certification ;
+6° La certification prévue à l'article R. 625-7 du présent code ou la certification prévue à l'article L. 6316-1 du code du travail ou, le cas échéant, un document attestant que le demandeur est engagé dans une démarche de certification ;
 
 7° L'adresse du domicile du demandeur ;
 

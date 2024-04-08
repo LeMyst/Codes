@@ -1,1 +1,1 @@
-Sous-section 5 : Devoirs spécifiques à certaines activités
+Sous-section 5 : Dispositions spécifiques à certaines activités

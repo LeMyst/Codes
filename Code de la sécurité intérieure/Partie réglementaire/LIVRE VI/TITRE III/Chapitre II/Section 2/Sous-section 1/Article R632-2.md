@@ -8,7 +8,7 @@ a) Le directeur des libertés publiques et des affaires juridiques au ministère
 
 b) Le directeur de l'évaluation, de la performance, de l'achat, des finances et de l'immobilier au ministère de l'intérieur ou son représentant ;
 
-c) Le délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité au ministère de l'intérieur ou son représentant ;
+c) Le directeur des entreprises et partenariats de sécurité et des armes au ministère de l'intérieur ou son représentant ;
 
 d) Le directeur général de la police nationale ou son représentant ;
 
@@ -33,6 +33,3 @@ k) Le directeur du budget au ministère chargé du budget ou son représentant ;
 4° Le président de la commission de discipline prévue à l'article L. 634-11 ou, en cas d'absence, un de ses suppléants prévus au onzième alinéa de l'article R. 634-9 ou le membre mentionné au 2° du même article ;
 
 5° Deux représentants des agents de l'établissement, élus pour trois ans, dans les conditions fixées par arrêté du ministre de l'intérieur, ou leurs suppléants, élus dans les mêmes conditions.
-
-NOTA:
-Conformément au 2° du I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur à compter du lendemain de sa publication au Journal officiel de la République française. Se reporter aux conditions d’application prévues aux II à V dudit article.

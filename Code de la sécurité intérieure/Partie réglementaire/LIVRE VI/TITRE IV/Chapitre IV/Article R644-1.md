@@ -10,5 +10,4 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 4° La référence au tribunal judiciaire est remplacée par la référence au tribunal de première instance ;
 
-NOTA:
-Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.
+5° Au 2° de l'article R. 625-9 et au 5° de l'article R. 625-26, les mots : “ou d'un autre Etat partie à l'accord sur l'Espace économique européen”, au 1° de l'article R. 625-13 et au 8° de l'article R. 625-26, les mots : “ou d'un Etat partie à l'accord sur l'Espace économique européen”, et au premier alinéa de l'article R. 625-22, les mots : “ou dans un autre Etat partie à l'accord sur l'Espace économique européen” sont supprimés ;

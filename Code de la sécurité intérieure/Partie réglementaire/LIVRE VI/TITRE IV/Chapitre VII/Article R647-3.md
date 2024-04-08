@@ -1,6 +1,6 @@
 # Article R647-3
 
-Pour l'application des dispositions des titres Ier et III du présent livre dans les îles Wallis et Futuna :
+Pour l'application des dispositions des titres Ier, II bis et III du présent livre dans les îles Wallis et Futuna :
 
 1° La référence au préfet de département ou au préfet ou au préfet territorialement compétent est remplacée par la référence à l'administrateur supérieur des îles Wallis et Futuna ;
 
@@ -8,9 +8,9 @@ Pour l'application des dispositions des titres Ier et III du présent livre dans
 
 2° bis La référence au tribunal judiciaire est remplacée par la référence au tribunal de première instance ;
 
-3° Au second alinéa de l'article R. 612-5, les mots : “ unique d'identification ” sont remplacés par les mots : “ d'immatriculation au registre du commerce et des sociétés ” ;
+3° Au premier alinéa de l'article R. 612-5, les mots : “numéro unique d'identification obtenu auprès de l'organisme unique défini à l'article L. 123-33 du code de commerce” sont remplacés par les mots : “numéro d'immatriculation au registre du commerce et des sociétés” ;
 
-4° Les articles R. 612-2, R 612-22, et R. 612-25 sont applicables, sans préjudice des compétences des îles Wallis et Futuna en matière d'accès au travail des étrangers ;
+4° Les articles R. 612-2, R. 612-22, R. 612-25 et R. 625-9 sont applicables, sans préjudice des compétences des îles Wallis et Futuna en matière d'accès au travail des étrangers ;
 
 5° A l'article R. 612-10, les mots : "au recueil des actes administratifs du département" sont remplacés par les mots : "au Journal officiel des îles Wallis et Futuna" ;
 
@@ -30,9 +30,7 @@ Pour l'application des dispositions des titres Ier et III du présent livre dans
 
 8° bis A l'article R. 612-39 et R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services spécialisés mentionnés à l'article R. 733-1 ” sont supprimés ;
 
-9° Le 1° de l'article R. 613-7 est remplacé par les dispositions suivantes :
-
-“ 1° Un extrait du registre du commerce mentionnant la raison sociale de l'entreprise ; ”
+9° (Abrogé) ;
 
 9° bis L'article R. 613-16-5 est supprimé ;
 
@@ -47,23 +45,22 @@ b) Les mots : "classés au a du 2° de la catégorie D" sont supprimés ;
 
 c) Les mots : "mentionnés à l'article L. 271-1" sont remplacés par les mots : "mentionnés au 9° de l'article L. 647-1" ;
 
-11° A l'article R. 625-2 :
+11° Aux articles R. 625-1, R. 625-2, R. 625-9, R. 625-37 et R. 625-42, les références aux articles L. 621-1, L. 622-7, L. 622-19, L. 622-21, L. 622-22, R. 622-3, R. 622-18, R. 622-22 à R. 622-35, sont supprimées ;
 
-a) Les mots : “ dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail ” sont remplacés par les mots : “ dans les conditions fixées par les dispositions applicables localement ayant le même objet ” ;
-
-b) Le 8° du I est remplacé par les dispositions suivantes :
-
-“ 8° Le numéro d'immatriculation au registre du commerce et des sociétés. ” ;
-
-c) Le 2° du II est remplacé par les dispositions suivantes :
-
-“ 2° Un extrait du registre du commerce et des sociétés de moins de trois mois ; ”
+11° bis Au 2° de l'article R. 625-9 et au 5° de l'article R. 625-26, les mots : “ou d'un autre Etat partie à l'accord sur l'Espace économique européen”, au 1° de l'article R. 625-13 et au 8° de l'article R. 625-26, les mots : “ou d'un Etat partie à l'accord sur l'Espace économique européen”, et au premier alinéa à l'article R. 625-22, les mots : “ou dans un autre Etat partie à l'accord sur l'Espace économique européen” sont supprimés ;
 
 12° La référence au règlement (UE) n° 2015/1998 est remplacée par la référence aux règles applicables en métropole en vertu du règlement (UE) n° 2015/1998 ;
 
-13° A l'article R. 625-11, les mots : "et des articles R. 622-22 et suivants" sont supprimés ;
+13° A l'article R. 625-13 :
+
+a) Les mots : “dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail” et les mots : “prévue à l'article L. 6316-1 du code du travail” sont remplacés par les mots : “dans les conditions fixées par les dispositions applicables localement ayant le même objet” ;
+
+b) Le 6° du I est remplacé par les dispositions suivantes :
+
+“6° Le numéro d'immatriculation au registre du commerce et des sociétés” ;
+
+13° bis A Aux articles R. 625-16 et R. 625-20, les mots : “mentionnée à l'article L. 6316-1 du code du travail” sont remplacés par les mots : “dans les conditions fixées par les dispositions applicables localement ayant le même objet” ;
+
+13° bis B A l'article R. 625-32, les références aux articles R. 312-74 et R. 312-75 du code de la sécurité intérieure sont supprimées.
 
 13° bis Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en monnaie locale.
-
-NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

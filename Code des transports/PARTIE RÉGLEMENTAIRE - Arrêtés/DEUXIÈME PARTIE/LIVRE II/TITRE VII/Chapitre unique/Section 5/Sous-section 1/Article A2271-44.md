@@ -7,7 +7,7 @@ En application de l'article R. 2271-3, sans préjudice des règles de sécurité
 
 est ainsi établie :
 
-| Catégorie d'objets interdits (A)  | Catégories d'objets acceptés sous réserve d'enregistrement préalable ou d'autorisation (B) |
+| Catégorie d'objets interdits (A) | Catégories d'objets acceptés sous réserve d'enregistrement préalable ou d'autorisation (B) |
 | --- | --- |
 | -Armes à feu sans permis, à l'exception des pistolets de départ | -Armes à feu autorisées-Répliques d'armes, à l'exception des jouets n'ayant pas l'aspect d'une arme véritable-Arbalètes, et carreaux d'arbalètes-Arcs et flèches-Pistolets de départ |
 | -Explosifs, dont engins explosifs, grenades, mines, stocks militaires d'explosifs, répliques d'engins explosifs, feux d'artifice, fusées éclairantes, articles pyrotechniques-Détonateurs-Cartouches fumigènes | -Munitions |

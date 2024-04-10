@@ -17,6 +17,7 @@ Il faut se tenir à une distance suffisante des balises pour ne pas courir le ri
 2. Définitions
 
 | Côté rive droite/gauche : | les désignations "côté rive droite", "côté rive gauche" de la voie de navigation intérieure ou du chenal s'entendent pour un observateur tourné vers l'aval. Pour les canaux, les lacs et les voies de navigation intérieure de grande largeur, les termes "droite" et "gauche" sont définis par les autorités. |
+| --- | --- |
 | Bouée : | signal de balisage flottant relié au fond par une chaîne |
 | Bouée-espar : | balise flottante dont la partie émergée a le même aspect qu’un espar. |
 | Espar : | balise fixe composée d’un corps cylindrique (pieu) dont la hauteur est multiple du diamètre |

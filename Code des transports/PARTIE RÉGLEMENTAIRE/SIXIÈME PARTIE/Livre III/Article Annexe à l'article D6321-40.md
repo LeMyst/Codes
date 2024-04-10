@@ -56,7 +56,7 @@ Liste des aérodromes de catégorie B
 | Vienne (Haute-) | Limoges - Bellegarde |
 | Vosges | Epinal - Mirecourt |
 | La Réunion | Saint-Denis - Gillot |
-| (1) Pour les besoins de la défense nationale, cet aérodrome comportera des caractéristiques supérieures à celles de la catégorie B. (2) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie B. |
+| (1) Pour les besoins de la défense nationale, cet aérodrome comportera des caractéristiques supérieures à celles de la catégorie B. (2) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie B. | |
 
 Liste des aérodromes de catégorie C
 
@@ -148,7 +148,7 @@ Liste des aérodromes de catégorie C
 | Les Mureaux |
 | Paris-Saclay-Versailles |
 | Guyane | Saint-Laurent-du-Maroni |
-| (1) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie C. |
+| (1) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie C. | |
 
 Liste des aérodromes de catégorie D
 
@@ -421,7 +421,7 @@ Liste des aérodromes de catégorie D
 | Régina |
 | Saint-Georges-de-l'Oyapock |
 | Saül |
-| (1) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie D. |
+| (1) Cet aérodrome pourra comporter, pour les besoins de la défense nationale, des caractéristiques supérieures à celles de la catégorie D. | |
 
 Liste des aérodromes de catégorie E
 

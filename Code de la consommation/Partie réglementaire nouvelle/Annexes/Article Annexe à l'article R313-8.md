@@ -38,10 +38,10 @@ Nom du prêteur, s'il est connu :
 
 Projet à financer : (cocher la case correspondante) □ résidence principale □ résidence secondaire □ travaux □ investissement locatif □ autre :
 
-|  PRÊT |  MONTANT EN EUROS |  TYPE DE PRÊT |  DURÉE DU PRÊT EN MOIS |  TAUX D'INTÉRÊT NOMINAL INDICATIF |
+| PRÊT | MONTANT EN EUROS | TYPE DE PRÊT | DURÉE DU PRÊT EN MOIS | TAUX D'INTÉRÊT NOMINAL INDICATIF |
 | --- | --- | --- | --- | --- |
-|  Prêt n° 1 |  |  \[Amortissable/ in fine/ relais\] |  |  |
-|  Prêt n° 2 |  |  \[Amortissable/ in fine/ relais\] |  |  |
+| Prêt n° 1 |  | \[Amortissable/ in fine/ relais\] |  |  |
+| Prêt n° 2 |  | \[Amortissable/ in fine/ relais\] |  |  |
 
 Amortissable : une fraction du capital emprunté est remboursée à chaque échéance.
 
@@ -53,14 +53,14 @@ Relais : crédit in fine destiné à financer un nouvel achat immobilier dans l'
 
 Votre prêteur exige que vous souscriviez des garanties d'assurance minimales pour l'octroi de votre prêt. Parmi les critères de garanties exigibles, votre prêteur a retenu la liste de critères suivante, qui correspond à ses exigences générales liées à sa politique de risque, en fonction du type d'opération, du type de prêt et de votre statut professionnel.
 
-|  |  CRITÈRES SPÉCIFIQUES |  QUOTITÉ EXIGÉE |
+|  | CRITÈRES SPÉCIFIQUES | QUOTITÉ EXIGÉE |
 | --- | --- | --- |
-|  Garantie décès, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie PTIA, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie incapacité temporaire totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie invalidité permanente totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie invalidité permanente partielle, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie perte d'emploi, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+| Garantie décès, le cas échéant | \[à compléter\] | \[à compléter\] % |
+| Garantie PTIA, le cas échéant | \[à compléter\] | \[à compléter\] % |
+| Garantie incapacité temporaire totale, le cas échéant | \[à compléter\] | \[à compléter\] % |
+| Garantie invalidité permanente totale, le cas échéant | \[à compléter\] | \[à compléter\] % |
+| Garantie invalidité permanente partielle, le cas échéant | \[à compléter\] | \[à compléter\] % |
+| Garantie perte d'emploi, le cas échéant | \[à compléter\] | \[à compléter\] % |
 
 Les caractéristiques détaillées des garanties exigées doivent vous être communiquées par votre prêteur afin de vous permettre d'apprécier l'équivalence des niveaux de garanties entre les contrats.
 
@@ -234,11 +234,11 @@ Compte tenu des caractéristiques connues du ou des prêts, de votre âge de ans
 
 Il s'agit d'un tarif indicatif avant examen du dossier et du questionnaire médical par l'organisme d'assurance. Lorsqu'une personne présente un risque aggravé de santé, elle peut bénéficier des dispositions de la convention AERAS, s'Assurer et Emprunter avec un Risque Aggrave de Santé. Il s'agit d'un dispositif conventionnel, appliqué par l'ensemble des réseaux bancaires et des assureurs présents sur le marché de l'assurance emprunteur, qui permet de repousser les limites de l'assurabilité des personnes qui présentent ou ont présenté un risque aggravé de santé. La proposition d'assurance peut comporter une surprime d'assurance et/ ou une limitation de la garantie (cf. www. aeras-infos. fr).
 
-|  |  PART DU CAPITAL assuré pour chaque type de garantie |  TYPES de garanties |  COTISATION en euros par \[à compléter\] de l'emprunteur (\*) |  COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros |  ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
+|  | PART DU CAPITAL assuré pour chaque type de garantie | TYPES de garanties | COTISATION en euros par \[à compléter\] de l'emprunteur (\*) | COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros | ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
 | --- | --- | --- | --- | --- | --- |
-|  Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] (\*) \[compléter la période\] prêt 1 & amp ; gt ; |  & amp ; lt ; coût total ass prêt 1 & amp ; gt ; |  & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
-|  Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] * \[compléter la période\] prêt 2 & amp ; gt ; euros |  & amp ; lt ; coût total ass prêt 2 & amp ; gt ; |  & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
-|  (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) \[Compléter la mention des garanties incluses dans le périmètre du TAEA.\] |
+| Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; | & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] (\*) \[compléter la période\] prêt 1 & amp ; gt ; | & amp ; lt ; coût total ass prêt 1 & amp ; gt ; | & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
+| Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; | & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] * \[compléter la période\] prêt 2 & amp ; gt ; euros | & amp ; lt ; coût total ass prêt 2 & amp ; gt ; | & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
+| (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) \[Compléter la mention des garanties incluses dans le périmètre du TAEA.\] | | | | | |
 
 La cotisation d'assurance est : \[cocher la case correspondante\] :
 

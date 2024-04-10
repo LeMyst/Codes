@@ -6,9 +6,8 @@ ANNEXE 3\
 Répartition des sièges entre secteurs électoraux\
 de la caisse des professions libérales de France métropolitaine
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | INTERRÉGIONS ET RÉGIONS | ACTIFS | RETRAITÉS | TOTAL |
+| --- | --- | --- | --- |
 | Alsace, Lorraine, Franche-Comté | 1 | 1 | 2 |
 | Rhône-Alpes | 3 | 1 | 4 |
 | Aquitaine, Poitou-Charentes, Pays de la Loire | 3 | 1 | 4 |

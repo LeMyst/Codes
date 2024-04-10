@@ -2,9 +2,8 @@
 
 **Affections engendrées par les solvants organiques liquides à usage professionnel : hydrocarbures liquides aliphatiques ou cycliques saturés ou insaturés et leurs mélanges ; hydrocarbures halogénés liquides ; dérivés nitrés des hydrocarbures aliphatiques ; alcools ; glycols, éthers de glycol ; cétones ; aldéhydes ; éthers aliphatiques et cycliques, dont le tétrahydrofurane ; esters ; diméthylformamide et dimétylacétamine ; acétonitrile et propionitrile ; pyridine ; diméthylsulfone et diméthylsulfoxyde**
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| --- | --- | --- |
 | A |  | A |
 | Syndrome ébrieux ou narcotique pouvant aller jusqu'au coma. | 7 jours | Préparation, emploi, manipulation des solvants. |
 | Dermites, conjonctivites irritatives. | 7 jours |  |

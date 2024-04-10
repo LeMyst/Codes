@@ -120,9 +120,8 @@ Le tableau ci-après est applicable, qu'il s'agisse de la blessure d'un seul œi
 
 La vision d'un œil est indiquée par une colonne horizontale, la vision de l'autre, par une colonne verticale. Le point de rencontre donne le taux médical d'incapacité.
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Degré de vision | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 | 1/20 et moinsde 1/20 | Énucléation |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/10 | 0 | 0 | 0 | 1 | 2 | 4 | 8 | 15 | 19 | 30 | 33 |
 | 8/10 | 0 | 0 | 1 | 2 | 4 | 5 | 12 | 17 | 21 | 30 | 33 |
 | 7/10 | 0 | 1 | 3 | 4 | 6 | 7 | 14 | 19 | 22 | 32 | 35 |

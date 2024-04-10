@@ -2,9 +2,8 @@
 
 **ORNITHOSE-PSITTACOSE**
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| --- | --- | --- |
 | Pneumopathie aiguë. | 21 jours | Travaux exposant au contact avec des oiseaux, des volailles ou leurs déjections : - travaux d'élevage et de vente des oiseaux ; - travaux de soins aux oiseaux dans les parcs zoologiques et ornithologiques ; - travaux d'élevage, vente, abattage, conservation des volailles. |
 | Formes typhoïdes avec troubles digestifs et états stuporeux. | 21 jours |
 | Formes neuroméningées. | 21 jours |

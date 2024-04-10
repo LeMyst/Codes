@@ -2,9 +2,8 @@
 
 **Affections provoquées par les vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes**
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| --- | --- | --- |
 | - A - |  |  |
 | Affections ostéo-articulaires confirmées par des examens radiologiques : |  |  |
 | - arthrose du coude comportant des signes radiologiques d'ostéophytoses ; | 5 ans | Travaux exposant habituellement aux vibrations transmises par : a) Les machines-outils tenues à la main, notamment : - les machines percutantes, telles que les marteaux piqueurs, les burineurs, les bouchardeuses et les fouloirs ; - les machines rotopercutantes, telles que les marteaux perforateurs, les perceuses à percussion et les clés à choc ; - les machines rotatives, telles que les polisseuses, les meuleuses, les scies à chaîne, les tronçonneuses et les débroussailleuses ; - les machines alternatives, telles que les ponceuses et les scies sauteuses. b) Les outils tenus à la main associés à certaines machines précitées, notamment dans des travaux de burinage ; c) Les objets tenus à la main en cours de façonnage, notamment dans les travaux de meulage et de polissage et les travaux sur machine à rétreindre. |

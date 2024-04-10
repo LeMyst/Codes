@@ -26,14 +26,13 @@ III.-Le taux de la contribution due par chaque entreprise est calculé selon un 
 
 Pour chaque part de l'assiette correspondant à l'une des quatre tranches définies ci-après, le taux applicable est fixé comme suit :
 
-|  |  |
-| --- | --- |
 | PART DE L'ASSIETTEcorrespondant au rapport R entre l'assiette définie aux 1° à 4° du I après déduction, le cas échéant, des abattements et le chiffre d'affaires hors taxes | TAUX de la contribution par tranche (en pourcentage) |
+| --- | --- |
 | R \< 6,5 % | (L. n° 2004-810,13 août 2004, art. 73, II, 2 o) (1) 19 |
 | 6,5 % ≤ R \< 12 % | (L. n° 2004-810,13 août 2004, art. 73, II, 2 o) (1) 29 |
 | 12 % ≤ R \< 14 % | (L. n° 2004-810,13 août 2004, art. 73, II, 2 o) (1) 36 |
 | R ≥ 14 % | (L. n° 2004-810,13 août 2004, art. 73, II, 2 o) (1) 39 |
-| (1) NDLR : Les dispositions de l'article 73 de la loi n° 2004-810 du 13 août 2004 s'appliquent pour la première fois à la détermination de la contribution due au plus tard le 1 er décembre 2005 (L. n° 2004-810,13 août 2004, art. 73, III) |
+| (1) NDLR : Les dispositions de l'article 73 de la loi n° 2004-810 du 13 août 2004 s'appliquent pour la première fois à la détermination de la contribution due au plus tard le 1 er décembre 2005 (L. n° 2004-810,13 août 2004, art. 73, III) | |
 
 NOTA:
 Se reporter aux conditions d'application prévues au III de l'article 26 de la loi n° 2021-1754 du 23 décembre 2021.

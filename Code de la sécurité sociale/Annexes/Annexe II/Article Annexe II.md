@@ -2,9 +2,8 @@
 
 Sommaire
 
-|  |
-| --- |
 | 1. Affections cardio-vasculaires |
+| --- |
 | 2. Affections dermatologiques et cutanéo-muqueuses |
 | 3. Affections digestives |
 | 4. Affections neurologiques, neurosensorielles et psychiatriques |
@@ -421,6 +420,7 @@ Des toxiques sont résorbables par voie cutanée et cette pénétration percutan
 2.2 Évaluation
 
 |  | États séquellaires | Préjudice | Taux de base |
+| --- | --- | --- | --- |
 | Gravité. | Atrophie sans rétraction.Alopécies définitives.Dyschromies.Ulcères. | Léger. | 0 à 10 %. |
 |  | Atrophies avec rétraction.Hyperkératoses.Lichénifications.Polysensibilisation. | Moyen. | 10 à 15 %. |
 |  | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |

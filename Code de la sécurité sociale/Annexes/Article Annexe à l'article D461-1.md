@@ -4,9 +4,8 @@ Liste des maladies ayant un caractère professionnel dont la déclaration est ob
 
 A - Maladies susceptibles d'avoir une origine professionnelle et d'être imputée aux agents chimiques suivants (1)
 
-|  |  |
-| --- | --- |
 | NUMERO d'ordre | AGENTS CHIMIQUES |
+| --- | --- |
 | 4 | Glucinium (béryllium) et ses composés. |
 | 5 | Boranes. |
 | 6 | Composés du carbone suivants (2) : Oxyde de carbone ; Oxychlorure de carbone ; Sulfure de carbone ; Acide cyanhydrique ; Cyanures métalliques ; Composés du cyanogène ; Esters isocyaniques. |

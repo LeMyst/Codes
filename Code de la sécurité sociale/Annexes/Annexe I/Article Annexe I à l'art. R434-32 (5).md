@@ -176,9 +176,8 @@ Les séquelles cérébelleuses des traumatismes crâniens sont relativement rare
 
 Une atteinte unilatérale comportera, suivant l'importance de la maladresse des mouvements :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Complète | 80 | 75 |
 | Moyenne | 30 à 70 | 25 à 65 |
 | Légère | 10 à 25 | 10 à 20 |
@@ -337,9 +336,8 @@ Syndromes atrophiques :
 
 Au membre supérieur.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Atteinte à prédominance proximale de la ceinture scapulaire et du bras, sans retentissement sur la fonction de la main | 20 à 40 | 20 à 35 |
 | Atteinte à prédominance distale intéressant la fonction de la main ou de l'avant-bras | 30 à 70 | 30 à 60 |
 | Atteinte complète avec impotence totale d'un membre supérieur | 90 | 80 |
@@ -434,9 +432,8 @@ Le sujet peut se lever, maintenir certaines positions, mais la démarche est imp
 
 Atteinte isolée d'un membre supérieur.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Préhension possible, mais avec gêne de la dextérité digitale | 10 à 25 | 8 à 20 |
 | Préhension possible, mais sans aucune dextérité digitale | 25 à 50 | 20 à 45 |
 | Mouvements du membre supérieur très difficiles | 50 à 75 | 45 à 65 |
@@ -466,9 +463,8 @@ Son atteinte se manifeste par des troubles sensitifs, moteurs, réflexes et symp
 
 INNERVATION DES PRINCIPAUX MUSCLES (tête exclue)
 
-|  |  |  |
-| --- | --- | --- |
 | MUSCLES | RACINES | NERFS |
+| --- | --- | --- |
 | Muscles de la nuque | C1 à C4 | Plexus cervical |
 | Trapèze | C1 à C4 | Spinal médullaire et plexus cervical |
 | Diaphragme | C3 - C4 | Phrénique |
@@ -519,9 +515,8 @@ TABLEAU DES RÉFLEXES
 
 Les localisations plus spécifiques sont portées en caractères gras
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | RÉFLEXEdénominateur | EXCITATION (TECHNIQUE) | RÉACTIONnormale | LOCALISATIONd'après l'émergence rachidienne |
+| --- | --- | --- | --- |
 | Massétérien | Percussion d'une spatule posée sur les dents inférieures, la bouche étant entr'ouverte. | Elévation du maxillaire inférieur | Protubérance annulaire |
 | Bicipital | Percussion d'un tendon bicipital au-dessus du coude, l'avant-bras légèrement fléchi et en supination. | Flexion de l'avant-bras | C5 - C6 |
 | Supinateur ou styloradial | Percussion de l'apophyse styloïde du radius, le coude fléchi à angle droit, le bras en légère supination. | Contraction du long supinateur | C5 - C6 |
@@ -566,9 +561,8 @@ Les troubles névritiques, douleurs, troubles trophiques, accompagnant éventuel
 
 En cas d'atteinte simultanée de plusieurs nerfs d'un même membre, il y a lieu d'additionner les taux, le taux global ne pouvant en aucun cas dépasser le taux fixé pour la paralysie de ce membre.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DROIT | GAUCHE |
+| --- | --- | --- |
 | Paralysie totale du membre supérieur (degré 0, 1, 2 et 3) | 90 | 80 |
 | Plexus brachial : |  |  |
 | - Paralysie radiculaire supérieure, type Duchenne-Erb (deltoïde, sus-épineux, biceps, brachial antérieur, coraco-brachial, long supinateur, et parfois sous-épineux, sous scapulaire, court supinateur et hémidiaphragme) (degré 0, 1, 2 et 3) | 55 | 45 |

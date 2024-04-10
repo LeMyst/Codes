@@ -10,31 +10,29 @@ Pour l'application des deuxième et troisième alinéas ci-dessus, les cotisatio
 
 Code local des assurances sociales
 
-|  |  |
+| Classes | Montant à prendre en compte (par semaine) |
 | --- | --- |
-| Classes  | Montant à prendre en compte (par semaine)  |
-|  | Francs (anciens)  |
-| I  | 6  |
-| II  | 10  |
-| III  | 14  |
-| IV  | 18  |
-| V  | 22  |
-| VI  | 26  |
-| VII  | 30  |
+|  | Francs (anciens) |
+| I | 6 |
+| II | 10 |
+| III | 14 |
+| IV | 18 |
+| V | 22 |
+| VI | 26 |
+| VII | 30 |
 
 Loi du 20 décembre 1911
 
-|  |  |
-| --- | --- |
-| Classes  | Montant à prendre en compte (par mois)  |
-| Avant le 1er janvier 1941  | Depuis le 1er janvier 1941  |
-|  |  | Francs (anciens)  |
-| A/ B  | A  | 40  |
-| C/ D  | B  | 70  |
-| E/ F  | C  | 110  |
-| G/ H  | D  | 150  |
-| I/ K  | E  | 200  |
-| L/ M  | F  | 250  |
-| N  | G  | 300  |
+| Classes | | Montant à prendre en compte (par mois) |
+| --- | --- | --- |
+| Avant le 1er janvier 1941 | Depuis le 1er janvier 1941 |
+|  |  | Francs (anciens) |
+| A/ B | A | 40 |
+| C/ D | B | 70 |
+| E/ F | C | 110 |
+| G/ H | D | 150 |
+| I/ K | E | 200 |
+| L/ M | F | 250 |
+| N | G | 300 |
 
 Pour l'application des deuxième et troisième alinéas ci-dessus, le salaire servant de base au calcul de la pension est, pour les salaires perçus postérieurement au 31 janvier 1991, le salaire correspondant aux cotisations versées dans la limite du plafond mentionné à l'article L. 241-3.

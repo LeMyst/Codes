@@ -16,9 +16,8 @@ L'ensemble des lignes du bilan et du compte de résultat sont servies, de maniè
 
 A. - Actif
 
-|  |  |  |
-| --- | --- | --- |
 |  | TOTAL | TOTAL N-1 |
+| --- | --- | --- |
 | A1 Actifs incorporels |  |  |
 | A2 Placements |  |  |
 | A2a Terrains et constructions |  |  |
@@ -30,7 +29,7 @@ A. - Actif
 | A4a Provisions pour cotisations non acquises (non-vie) |  |  |
 | A4b Provisions d'assurance vie |  |  |
 | A4c Provisions pour sinistres (vie) |  |  |
-| A4d Provisions pour sinistres (non vie)  |  |  |
+| A4d Provisions pour sinistres (non vie) |  |  |
 | A4e Provisions pour participation aux excédents et ristournes (vie) |  |  |
 | A4f Provisions pour participation aux excédents et ristournes (non-vie) |  |  |
 | A4g Provisions pour égalisation (vie) |  |  |
@@ -60,14 +59,13 @@ A. - Actif
 
 B. - Passif
 
-|  |  |  |
-| --- | --- | --- |
 |  | TOTAL | TOTAL N - 1 |
+| --- | --- | --- |
 | B1 Fonds propres |  |  |
 | B1a Fonds d'établissement et de développement |  |  |
 | B1b Réserves de réévaluation |  |  |
 | B1c Autres réserves |  |  |
-| B1e Résultat de l'exercice  |  |  |
+| B1e Résultat de l'exercice |  |  |
 | B1f Subventions nettes |  |  |
 | B2 Passifs subordonnés |  |  |
 | B3 Provisions techniques brutes |  |  |
@@ -98,9 +96,8 @@ B. - Passif
 
 C. - Tableau des engagements reçus et donnés
 
-|  |  |  |
-| --- | --- | --- |
 |  | N | N - 1 |
+| --- | --- | --- |
 | C1 Engagements reçus |  |  |
 | C2 Engagements donnés : |  |  |
 | C2a Avals, cautions et garanties de crédit donnés |  |  |
@@ -115,9 +112,8 @@ C. - Tableau des engagements reçus et donnés
 
 Règles de raccordement des comptes au bilan (actif)
 
-|  |  |  |
-| --- | --- | --- |
 | POSTE | COMPTESraccordés | COMMENTAIRES |
+| --- | --- | --- |
 | A1 | 50 | Net des comptes 58 et 59 correspondants |
 | A2a | 21 et 22 | Net des comptes 28 et 29 correspondants |
 | A2b | 25 et 26 | Net des comptes 28 et 29 correspondants |
@@ -134,7 +130,7 @@ Règles de raccordement des comptes au bilan (actif)
 | A4h | 3962 |  |
 | A4i | 3970 |  |
 | A4j | 3972 |  |
-| A4k  | 398 |  |
+| A4k | 398 |  |
 | A5aa | 400 et 401 | Valeur positive ou négative |
 | A5ab | 40 sauf 400 et 401 | Soldes débiteurs nets du compte 49 |
 | A5b | 41 | Solde débiteur net du compte 49 |
@@ -151,9 +147,8 @@ Règles de raccordement des comptes au bilan (actif)
 
 Règles de raccordement des comptes au bilan (passif)
 
-|  |  |  |
-| --- | --- | --- |
 | POSTE | COMPTESraccordés | COMMENTAIRES |
+| --- | --- | --- |
 | B1a | 102, 103 ou 18 |  |
 | B1b | 105 |  |
 | B1c | 106 |  |
@@ -189,9 +184,8 @@ Règles de raccordement des comptes au bilan (tableau des engagements reçus et 
 Postes C1, C2a à C2d, C3, C4, C5, C6 et C7 : raccordement aux sous-comptes du compte 80.\
 Commentaires particuliers :
 
-|  |  |
-| --- | --- |
 | POSTE | COMMENTAIRES |
+| --- | --- |
 | C2a | Toutes opérations non inscrites au passif du bilan par lesquelles l'institution ou l'union s'est engagée, de quelque manière que ce soit et quelle que soit la forme juridique, de manière ferme à se substituer à un débiteur. |
 | C2b | Toutes opérations non inscrites au passif du bilan par lesquelles l'institution ou l'union s'est engagée à revendre, à des conditions fixées par avance, un actif inscrit au bilan. |
 | C2c | Toutes opérations autres que celles visées au C2b par lesquelles l'institution ou l'union a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment : - les garanties d'acquisition d'immeuble ; - les garanties de rachat ou d'achat de titres (garanties de liquidité) ; - les opérations sur le Matif et marchés assimilés, autres que les achats d'options, pour la valeur du sous-jacent ; - les engagements d'acheter ou de vendre à terme et tous contrats futurs fermes ou conditionnels de gré à gré, à l'exception des achats d'options, pour la valeur du sous-jacent ; - les échanges de taux d'intérêt, de devises ou d'actifs (swaps), pour le montant notionnel de l'échange. |

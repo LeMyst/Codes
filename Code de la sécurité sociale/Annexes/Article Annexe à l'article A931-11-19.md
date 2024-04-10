@@ -10,9 +10,8 @@ FLUX TRIMESTRIELS RELATIFS AUX OPERATIONS EN FRANCE
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance établissent trimestriellement, selon le modèle fixé ci-après, un état relatif à leurs opérations réalisées en France au cours du trimestre écoulé.
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | QUATRE TRIMESTRES PRÉCÉDENTS | TRIM. T-7 | TRIM. T-6 | TRIM. T-5 | TRIM. T-4 | CUMUL |
+| --- | --- | --- | --- | --- | --- |
 | Nombre de bulletin d'adhésion signés ou de contrats souscrits |  |  |  |  |  |
 | Nombre de sinistres ouverts (1) |  |  |  |  |  |
 | Cotisations émises nettes d'annulations (2) |  |  |  |  |  |
@@ -26,7 +25,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 | Prestations payées (2) |  |  |  |  |  |
 | Frais d'acquisition et d'administration (2) |  |  |  |  |  |
 | Produits des placements (2) |  |  |  |  |  |
-| (1) Pour les opérations visées au a de l'article L. 931-1, sinistres, sorties par tirage, échéances et rachats totaux.(2) Montants extraits du Grand Livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire. |
+| (1) Pour les opérations visées au a de l'article L. 931-1, sinistres, sorties par tirage, échéances et rachats totaux.(2) Montants extraits du Grand Livre au dernier jour ouvrable de chaque trimestre civil avant toute opération d'inventaire. | | | | | |
 
 ETAT T 2
 
@@ -34,9 +33,8 @@ ENCOURS TRIMESTRIEL DES PLACEMENTS
 
 Les institutions et les unions établissent trimestriellement, selon le modèle fixé ci-après, un état détaillant l'encours en fin de trimestre de l'ensemble de leurs placements.
 
-|  |  |
-| --- | --- |
-| DÉSIGNATION | EN COURS |
+| DÉSIGNATION | EN COURS | |
+| --- | --- | --- |
 | A la fin du trimestre précédent | A la fin du trimestre inventorié |
 | A. - Placements mentionnés à l'article R. 931-10-21 |  |  |
 | 1. Obligations et titres participatifs |  |  |

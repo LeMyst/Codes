@@ -280,9 +280,8 @@ ENGAGEMENTS ET RESULTATS TECHNIQUES PAR PAYS.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance décrivent leurs engagements et résultats techniques par pays d'établissement selon le modèle suivant :
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | PAYS | CODE PAYS | COTISATIONS (1) | PROVISIONStechniques (2) | RÉSULTATtechnique (3) |
+| --- | --- | --- | --- | --- |
 | 1. Union européenne (4) |  |  |  |  |
 | France |
 | LPS depuis la France |
@@ -305,7 +304,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance déc
 | Divers |  |  |  |  |
 | Total hors Union européenne |  |  |  |  |
 | Total général |  |  |  |  |
-| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.(3) Au sens des lignes L. 60 de l'état C 1.(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. |
+| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.(3) Au sens des lignes L. 60 de l'état C 1.(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. | | | | |
 
 Les chiffres relatifs aux pays non membres de l'Union européenne dans lesquels les cotisations sont inférieures à 1 % des cotisations en France et les provisions techniques sont inférieures à 1 % des provisions techniques en France peuvent être regroupés en une seule ligne intitulée "divers".
 
@@ -321,9 +320,8 @@ TABLEAU A
 
 Acceptations (France et étranger)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| ACCEPTATIONSpar un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | ÉTRANGER | TOTAL |
+| ACCEPTATIONSpar un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | | ÉTRANGER | | TOTAL |
+| --- | --- | --- | --- | --- | --- |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations acceptées |  |  |  |  |  |
 | Provisions techniques sur acceptations |  |  |  |  |  |
@@ -334,9 +332,8 @@ TABLEAU B
 
 Cessions et rétrocessions (France et étranger)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| CESSIONS PAR UN ÉTABLISSEMENTà des entreprises d'assurance ou de réassurance | FRANÇAIS | ÉTRANGER | TOTAL |
+| CESSIONS PAR UN ÉTABLISSEMENTà des entreprises d'assurance ou de réassurance | FRANÇAIS | | ÉTRANGER | | TOTAL |
+| --- | --- | --- | --- | --- | --- |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations cédées |  |  |  |  |  |
 | Provisions techniques cédées |  |  |  |  |  |
@@ -488,10 +485,9 @@ REPRESENTATION DES ENGAGEMENTS REGLEMENTES.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements réglementés.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  | PROVISIONS TECHNIQUES | AUTRES engagements réglementés | TOTAL |
-|  | Opérations Union européenne | Hors Union européenne |
+|  | PROVISIONS TECHNIQUES | | | AUTRES engagements réglementés | TOTAL |
+| --- | --- | --- | --- | --- | --- |
+|  | Opérations Union européenne | | Hors Union européenne |
 |  | Opérations directes | Acceptations |
 | Provisions techniques des opérations collectives relevant de l'article L. 932-24 |  |  |  | XXX |  |
 | Provisions d'assurance vie des autres opérations |  |  |  | XXX |  |
@@ -529,4 +525,4 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 | Intérêts courus des placements mentionnés à l'article R. 931-10-21 |  |  |  |  |  |
 | Créances garanties sur les réassureurs mentionnées à l'article R. 931-10-21 |  |  |  | XXX |  |
 | Total des placements et actifs assimilés |  |  |  |  |  |
-| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.(2) Le détail de la rubrique Divers est annexé au présent état.(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. |
+| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.(2) Le détail de la rubrique Divers est annexé au présent état.(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. | | | | | |

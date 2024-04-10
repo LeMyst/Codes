@@ -3,9 +3,8 @@
 **Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques\
 (Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum)**
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAIde prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| --- | --- | --- |
 | - A - |  | - A - |
 | Affections dues à Mycobacterium bovis : |  | Travaux exposant au contact d'animaux susceptibles d'être porteurs de bacilles bovins ou exécutés dans des installations où ont séjourné de tels animaux. |
 | Tuberculose cutanée ou sous-cutanée | 6 mois | Travaux exécutés dans les abattoirs, les boucheries, les charcuteries, les triperies ou boyauderies, les entreprises d'équarrissage. |

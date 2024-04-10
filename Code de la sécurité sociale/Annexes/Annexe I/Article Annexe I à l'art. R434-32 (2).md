@@ -37,9 +37,8 @@ Lorsque cet appareillage ou cette intervention aboutit à un résultat excellent
 
 **1.1.1 AMPUTATION**.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Epaule : |  |  |
 | - Amputation interscapulothoracique avec résection totale ou partielle de la clavicule et de l'omoplate, ou de l'un de ces deux os | 95 | 85 |
 | - Désarticulation de l'épaule | 95 | 85 |
@@ -72,9 +71,8 @@ La main doit se porter avec aisance au sommet de la tête et derrière les lombe
 
 Les mouvements du côté blessé seront toujours estimés par comparaison avec ceux du côté sain. On notera d'éventuels ressauts au cours du relâchement brusque de la position d'adduction du membre supérieur, pouvant indiquer une lésion du sus-épineux, l'amyotrophie deltoïdienne (par mensuration des périmètres auxilaires vertical et horizontal), les craquements articulaires. Enfin, il sera tenu compte des examens radiologiques.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Blocage de l'épaule, omoplate bloquée | 55 | 45 |
 | Blocage de l'épaule, avec omoplate mobile | 40 | 30 |
 | Limitation moyenne de tous les mouvements | 20 | 15 |
@@ -82,9 +80,8 @@ Les mouvements du côté blessé seront toujours estimés par comparaison avec c
 
 Périarthrite douloureuse :
 
-|  |  |  |
-| --- | --- | --- |
 | Aux chiffres indiqués ci-dessus, selon la limitation des mouvements, on ajoutera | 5 | 5 |
+| --- | --- | --- |
 
 On rappelle que la périarthrite scapulo-humérale (P.S.H.) s'accompagne souvent d'une amélioration tardive au bout d'un an et demi ou deux ans.
 
@@ -92,9 +89,8 @@ Luxation récidivante de l'épaule :
 
 La luxation récidivante de l'épaule, sauf contre-indication, est susceptible de réparation chirurgicale. Si celle-ci est effectuée, les séquelles seront évaluées en tenant compte du degré de limitation des mouvements de l'épaule. En l'absence d'intervention ou en cas d'échec opératoire :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Formes graves avec récidives fréquentes | 40 | 30 |
 | Formes moyennes avec récidives espacées | 20 | 15 |
 | Formes légères | 10 à 15 | 8 à 10 |
@@ -111,9 +107,8 @@ Coude :
 
 Conformément au barème internationnal, la mobilité normale de l'extension-flexion va de 0° (bras pendant) à 150° environ (selon l'importance des masses musculaires). On considère comme "angle favorable" les blocages et limitations compris entre 60° et 100°. Des études ont montré que cette position favorable variait suivant les métiers.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Blocage de la flexion-extension : |  |  |
 | - Angle favorable | 25 | 22 |
 | - Angle défavorable (de 100o à 145o ou de 0o à 60o) | 40 | 35 |
@@ -128,9 +123,8 @@ Mobilité normale : flexion 80° ; extension active : 45° ; passive : 70° à 8
 
 Des altérations fonctionnelles peuvent exister sans lésion anatomique identifiable.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Blocage du poignet : |  |  |
 | - En rectitude ou extension, sans atteinte de la prono-supination | 15 | 10 |
 | - En flexion sans troubles importants de la prono-supination | 35 | 30 |
@@ -141,9 +135,8 @@ Atteinte de la prono-supination :
 
 Prono-supination normale : 180°.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Limitation en fonction de la position et de l'importance | 10 à 15 | 8 à 12 |
 
 Ces deux taux s'ajoutent aux taux précédents.
@@ -154,27 +147,24 @@ Les taux indiqués sont susceptibles, pour les pseudarthroses, d'être minorés 
 
 Clavicule :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Cal difforme, sans compression nerveuse, selon gêne fonctionnelle | 2 à 5 | 1 à 3 |
 | Compressions nerveuses (voir séquelles portant sur le système nerveux périphérique) |  |  |
 | Pseudarthrose | 5 | 3 |
 
 Epaule :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Epaule ballante consécutive à des pertes de substance osseuse étendues, sans séquelles nerveuses, autres que celles conditionnant le ballant de l'épaule | 70 | 60 |
 
 Bras :
 
 Les déformations proviennent essentiellement de cals volumineux, exubérants, en crosse, etc. Le raccourcissement du bras n'est pas gênant au-dessous de 4 centimètres.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Déformation du bras avec atrophie musculaire (taux s'ajoutant aux séquelles articulaires, nerveuses, etc. éventuellement associées) | 5 à 10 | 4 à 8 |
 | Pseudarthroses de la diaphyse humérale : |  |  |
 | - Serrée | 20 | 15 |
@@ -184,16 +174,14 @@ Les déformations proviennent essentiellement de cals volumineux, exubérants, e
 
 Coude :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Coude ballant, consécutif à des pertes de substance osseuse | 55 | 45 |
 
 Avant-bras :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Les deux os : |  |  |
 | - Pseudarthrose serrée | 20 | 15 |
 | - Pseudarthrose lâche (avant-bras ballant) | 50 | 40 |
@@ -205,9 +193,8 @@ Avant-bras :
 
 Poignet :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Poignet ballant, à la suite de pertes de substance du carpe | 40 | 25 |
 
 A ces taux s'ajoutent éventuellement les taux pour limitation des mouvements des doigts, le taux global ne pouvant dépasser le taux fixé pour l'amputation.
@@ -218,9 +205,8 @@ L'évaluation se fera selon le retentissement sur la gêne fonctionnelle des poi
 
 **1.1.4 SEQUELLES MUSCULAIRES ET TENDINEUSES**.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Rupture du deltoïde | 10 à 25 | 6 à 20 |
 | Rupture du biceps : elle est susceptible de réparation chirurgicale, mais la restitution ad integrum est rarement réalisée. Il persiste souvent une déformation du muscle à la contraction, et une diminution de la force : |  |  |
 | Séquelles légères | 4 | 3 |
@@ -268,9 +254,8 @@ Pour évaluer la force, tirer sur l'anse de l'objet.
 
 Additionner les 7 cotes accordées (une seule par épreuve) ; une main normale sera équivalente à 70 (1). Le total donnera la valeur fonctionnelle de la main.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | NORMALE | INTERMEDIAIRE | NULLE |
+| --- | --- | --- | --- |
 | Pince unguéale (ramassage d'une allumette ou d'une épingle) | 3,5 | 1,5 | 0 |
 | Pince pulpo-pulpaire (plaquette de plastique) | 10,5 | 7 à 3,5 | 0 |
 | Pince pulpo-latérale (plaquette de plastique) | 10,5 | 7 à 3,5 | 0 |
@@ -286,9 +271,8 @@ Additionner les 7 cotes accordées (une seule par épreuve) ; une main normale s
 
 Main :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Amputation métacarpienne conservant une palette | 70 | 60 |
 
 Doigts :
@@ -303,9 +287,8 @@ La perte de sensibilité de la pulpe digitale équivaut à la perte fonctionnell
 
 Perte totale ou partielle de segments de doigts :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Pouce : |  |  |
 | - Avec le premier métacarpien | 35 | 30 |
 | - Les deux phalanges | 28 | 24 |
@@ -328,9 +311,8 @@ L'atteinte de l'articulation trapézo-métacarpienne du pouce est la plupart du 
 
 Blocage de la colonne du pouce articulaire ou extra-articulaire (séquelles de fracture de Bennett ou de Rolando, par exemple) :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | En position de fonction (anté-pulsion et opposition) | 14 | 12 |
 | En position défavorable (adduction, rétropulsion) | 28 | 24 |
 | Luxation carpo-métacarpienne ancienne, non réduite, à l'exclusion du pouce | 9 à 12 | 7 à 10 |
@@ -351,9 +333,8 @@ Les deux extrêmes sont réalisées par le doigt raide ou le doigt en crochet ; 
 
 Pouce :
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Articulation métacarpo-phalangienne : |  |  |
 | - Blocage en semi-flexion ou en extension | 6 | 4 |
 | - Blocage en flexion complète | 10 | 8 |
@@ -366,9 +347,8 @@ Autres doigts :
 
 Le taux d'incapacité sera déterminé selon l'importance de la raideur.
 
-|  |  |  |
-| --- | --- | --- |
 |  | DOMINANT | NON DOMINANT |
+| --- | --- | --- |
 | Index | 7 à 14 | 6 à 12 |
 | Annulaire et médius | 4 à 6 |  |
 | Auriculaire | 4 à 8 |  |

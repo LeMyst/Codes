@@ -2,9 +2,8 @@
 
 **Pneumopathies d'hypersensibilité**
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| --- | --- | --- |
 | Bronchoalvéolite aiguë ou subaiguë avec syndrome respiratoire (dyspnée, toux, expectoration) et/ou signes généraux (fièvre, amaigrissement) confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorps précipitants dans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose) | 30 jours | Travaux de manipulation ou de fabrication exposant à des spores de moisissures ou à des actinomycètes contaminant les particules végétales ou animales suivantes : bagasse de la canne à sucre, malt, paprika, liège, charcuterie, fromages (affinage), pâte à papier et poussières de bois. |
 | Travaux exposant à l'inhalation de particules microbiennes ou mycéliennes dans les laboratoires de microbiologie et les locaux à caractère industriel, de bureaux ou d'habitation dont l'atmosphère est climatisée ou humidifiée par dispositif central. |
 | Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorps précipitants dans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose) et sa complication : insuffisance ventriculaire droite | 15 ans | Travaux en milieux contaminés par des micro-organismes aéroportés (bactéries, moisissures, algues) : saunas, piscines, égouts, filières de traitement des déchets (compostage et fabrication de compost), ateliers pollués par des aérosols d'huile de coupe contaminée. |

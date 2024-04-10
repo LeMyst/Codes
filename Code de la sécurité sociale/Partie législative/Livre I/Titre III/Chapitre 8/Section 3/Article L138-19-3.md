@@ -2,11 +2,11 @@
 
 Le montant total de la contribution est calculé comme suit :
 
-| MONTANT DU CHIFFRE D'AFFAIRES de l'ensemble des entreprises redevables (S)  | TAUX DE LA CONTRIBUTION (exprimé en % de la part du chiffre d'affaires concernée)  |
+| MONTANT DU CHIFFRE D'AFFAIRES de l'ensemble des entreprises redevables (S) | TAUX DE LA CONTRIBUTION (exprimé en % de la part du chiffre d'affaires concernée) |
 | --- | --- |
-| S supérieur à W et inférieur ou égal à W + 10 %  | 50 %  |
-| S supérieur à W + 10 % et inférieur ou égal à W + 20 %  | 60 %  |
-| S supérieur à W + 20 %  | 70 %  |
+| S supérieur à W et inférieur ou égal à W + 10 % | 50 % |
+| S supérieur à W + 10 % et inférieur ou égal à W + 20 % | 60 % |
+| S supérieur à W + 20 % | 70 % |
 
 La contribution due par chaque entreprise redevable est déterminée au prorata de son chiffre d'affaires calculé selon les modalités définies à l'article L. 138-19-2.
 

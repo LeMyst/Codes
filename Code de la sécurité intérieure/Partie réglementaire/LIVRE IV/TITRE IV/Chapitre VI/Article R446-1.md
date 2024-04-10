@@ -2,9 +2,8 @@
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  |  |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+| --- | --- |
 | Au titre Ier |  |
 | R. 411-1 à R. 411-3 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 411-3-1 | Résultant du décret n° 2023-984 du 25 octobre 2023 |

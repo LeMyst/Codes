@@ -2,9 +2,8 @@
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  |  |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+| --- | --- |
 | Au titre Ier |  |
 | R. 411-1 à R. 411-7 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 411-8 et R. 411-8-1 | Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des adjoints de sécurité |

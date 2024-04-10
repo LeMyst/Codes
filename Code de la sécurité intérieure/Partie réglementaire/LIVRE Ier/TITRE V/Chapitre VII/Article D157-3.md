@@ -2,9 +2,8 @@
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  |  |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+| --- | --- |
 | Au titre III |  |
 | D. 132-1 à D. 132-4 | Résultant du décret n° 2016-553 du 6 mai 2016 |
 | Au titre IV |  |

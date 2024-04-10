@@ -6,5 +6,5 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 | --- | --- |
 | Au titre Ier |  |
 | D. 211-10 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) |
-| D. 211-17 | Résultant du décret n° 2021-1352 du 15 octobre 2021  |
+| D. 211-17 | Résultant du décret n° 2021-1352 du 15 octobre 2021 |
 | D. 211-19 et D. 211-20 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) |

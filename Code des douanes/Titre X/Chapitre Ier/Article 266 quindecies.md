@@ -36,11 +36,11 @@ Ce montant est égal au produit de l'assiette définie au premier alinéa du pr�
 
 IV.-Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'énergie renouvelable dans les transports sont les suivants :
 
-| Produits |  Tarif (en euros par hectolitre) |  Pourcentage cible |
+| Produits | Tarif (en euros par hectolitre) | Pourcentage cible |
 | --- | --- | --- |
-|  Essences |  140 |  9,9 % |
-|  Gazoles |  140 |  9,2 % |
-|  Carburéacteurs |  168 |  1,5 % |
+| Essences | 140 | 9,9 % |
+| Gazoles | 140 | 9,2 % |
+| Carburéacteurs | 168 | 1,5 % |
 
 V.-A.-La proportion d'énergie renouvelable désigne le quotient entre la quantité d'énergie renouvelable définie au B et la quantité d'énergie contenue dans les produits inclus dans l'assiette.
 
@@ -84,14 +84,14 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 C.-Pour l'application du 1° du 1 du B du présent V, ne sont pas prises en compte les quantités d'énergie issues de matières premières mentionnées ci-dessous excédant les seuils indiqués, appréciés par catégorie :
 
-|  Catégorie de matières premières |  Seuil pour les essences |  Seuil pour les gazoles |  Seuil pour les carburéacteurs |
+| Catégorie de matières premières | Seuil pour les essences | Seuil pour les gazoles | Seuil pour les carburéacteurs |
 | --- | --- | --- | --- |
-|  1. Cultures destinées à l'alimentation humaine ou animale et résidus assimilés |  7 % |  7 % |  0 % |
-|  1.1 Dont palme |  0 % |  0 % |  0 % |
-|  1.2 Dont soja |  0 % |  0 % |  0 % |
-|  2. Égouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon |  1,1 % |  1,1 % |  aucun seuil |
-|  3. Tallol |  0,1 % |  0,1 % |  0,1 % |
-|  4. Graisses et huiles usagées |  0,9 % |  1,1 % |  aucun seuil |
+| 1. Cultures destinées à l'alimentation humaine ou animale et résidus assimilés | 7 % | 7 % | 0 % |
+| 1.1 Dont palme | 0 % | 0 % | 0 % |
+| 1.2 Dont soja | 0 % | 0 % | 0 % |
+| 2. Égouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon | 1,1 % | 1,1 % | aucun seuil |
+| 3. Tallol | 0,1 % | 0,1 % | 0,1 % |
+| 4. Graisses et huiles usagées | 0,9 % | 1,1 % | aucun seuil |
 
 Les matières premières qui relèvent à la fois des catégories 1 et 2 du tableau du deuxième alinéa du présent C sont comptabilisées dans les conditions suivantes :
 
@@ -105,17 +105,17 @@ b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur conten
 
 D.-Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
 
-|  Essences |  Gazoles |  Carburéacteurs |
+| Essences | Gazoles | Carburéacteurs |
 | --- | --- | --- |
-|  1,3 % |  0,5 % |  0 % |
+| 1,3 % | 0,5 % | 0 % |
 
 E.-Pour l'application des 1° à 3° du 1 du B, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
-|  Énergie |  Coefficient multiplicatif |  Seuil pour les essences |  Seuil pour les gazoles |  Seuil pour les carburéacteurs |
+| Énergie | Coefficient multiplicatif | Seuil pour les essences | Seuil pour les gazoles | Seuil pour les carburéacteurs |
 | --- | --- | --- | --- | --- |
-|  Énergie issue des matières premières avancées, autres que le tallol, contenues dans les produits inclus dans l'assiette |  2 |  différence entre le pourcentage cible fixé au IV et 7 % |  différence entre le pourcentage cible fixé au IV et 7 % |  aucun |
-|  Énergie issue des graisses et huiles usagées contenues dans les produits inclus dans l'assiette |  2 |  0,4 % |  seuil prévu au C du présent V pour les mêmes matières |  aucun |
-|  Électricité |  4 |  aucun |  aucun |  sans objet |
+| Énergie issue des matières premières avancées, autres que le tallol, contenues dans les produits inclus dans l'assiette | 2 | différence entre le pourcentage cible fixé au IV et 7 % | différence entre le pourcentage cible fixé au IV et 7 % | aucun |
+| Énergie issue des graisses et huiles usagées contenues dans les produits inclus dans l'assiette | 2 | 0,4 % | seuil prévu au C du présent V pour les mêmes matières | aucun |
+| Électricité | 4 | aucun | aucun | sans objet |
 | Hydrogène renouvelable | 2 | aucun | aucun | sans objet |
 | Energie des huiles végétales hydrotraitées issues des matières de catégorie 3 mentionnées à l'article 10 du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux) | 2 | 0 % | 20 % des quantités d'énergie contenues dans les produits suivants mis à la consommation en France ou déplacés à des fins commerciales vers la France : gazoles et essences utilisés pour les besoins de la pêche | 0 % |
 

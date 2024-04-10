@@ -3,7 +3,8 @@
 SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE DANS LES COLLECTIVITÉS\
 D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE
 
-| COLLECTIVITÉ | TRIBUNALde première instance | SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE |
+| COLLECTIVITÉ | TRIBUNALde première instance | SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE | |
+| --- | --- | --- | --- |
 | Siège | Ressort |
 | Cour d'appel de Nouméa |  |  |  |
 | Nouvelle-Calédonie. | Nouméa. | Nouméa. | Ressort du tribunal de première instance de Nouméa. |
@@ -13,8 +14,7 @@ D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE
 
 NOMBRE DE JUGES ÉLUS DES TRIBUNAUX MIXTES DE COMMERCE DE NOUMÉA ET DE PAPEETE
 
-|  |  |  |
-| --- | --- | --- |
 | COLLECTIVITÉ | TRIBUNALmixte de commerce | NOMBREde juges élus |
+| --- | --- | --- |
 | Cour d'appel de Nouméa. | Nouméa. | 10 |
 | Cour d'appel de Papeete. | Papeete. | 6 |

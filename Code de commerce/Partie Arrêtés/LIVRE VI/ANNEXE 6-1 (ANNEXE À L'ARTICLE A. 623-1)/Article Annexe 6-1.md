@@ -56,7 +56,7 @@ Produits dangereux (ou susceptibles de l'être) présents sur le site :
 | Solide ou liquide. |
 | Conditionnement (5). |
 | Etat du conditionnement (6). |
-| Quantité : kg ou m³.  |
+| Quantité : kg ou m³. |
 | Risques particuliers (7). |
 | (4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant.(5) Fûts, containers, bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.(6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.(7) Matière toxique, inflammable, explosible ou radioactive. |
 
@@ -226,7 +226,7 @@ Produits dangereux (ou susceptibles de l'être) présents sur le site :
 | Solide ou liquide. |
 | Conditionnement (5). |
 | Etat du conditionnement (6). |
-| Quantité : kg ou m³.  |
+| Quantité : kg ou m³. |
 | Risques particuliers (7). |
 | (4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant. (5) Fûts, containers, bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.(6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.(7) Matière toxique, inflammable, explosible ou radioactive. |
 

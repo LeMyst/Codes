@@ -2,17 +2,17 @@
 
 I.-L'ensemble des prestations réalisées par le greffier de tribunal de commerce dans le cadre d'une procédure de liquidation judiciaire figurant au numéro 143 du tableau mentionné à l'article A. 743-8 donne lieu à la perception d'un émolument principal, qui varie en fonction du nombre de salariés et du chiffre d'affaires de l'entreprise concernée déterminés conformément aux dispositions de l'article R. 621-11, selon le barème suivant :
 
-|  NOMBRE DE SALARIÉS |  CHIFFRE D'AFFAIRES |  ÉMOLUMENT PRINCIPAL |
+| NOMBRE DE SALARIÉS | CHIFFRE D'AFFAIRES | ÉMOLUMENT PRINCIPAL |
 | --- | --- | --- |
-|  Aucun salarié |  |  508,25 € |
-|  De 1 à 5 salariés |  |  555,92€ |
-|  De 6 à 19 salariés |  Inférieur à 750 000 € |  1 164,76 € |
-|  Supérieur ou égal à 750 000 € |  1 312,99 € |
-|  De 20 à 150 salariés |  Inférieur à 3 000 000 € |  2 213,02 € |
-|  Supérieur ou égal à 3 000 000 € |  2 731,86 € |
-|  Plus de 150 salariés |  Inférieur à 20 000 000 € |  5 605,60 € |
-|  Supérieur ou égal à 20 000 000 € et inférieur à 50 000 000 € |  7 907,56 € |
-|  Supérieur ou égal à 50 000 000 € |  13 256,91 € |
+| Aucun salarié |  | 508,25 € |
+| De 1 à 5 salariés |  | 555,92€ |
+| De 6 à 19 salariés | Inférieur à 750 000 € | 1 164,76 € |
+| Supérieur ou égal à 750 000 € | 1 312,99 € |
+| De 20 à 150 salariés | Inférieur à 3 000 000 € | 2 213,02 € |
+| Supérieur ou égal à 3 000 000 € | 2 731,86 € |
+| Plus de 150 salariés | Inférieur à 20 000 000 € | 5 605,60 € |
+| Supérieur ou égal à 20 000 000 € et inférieur à 50 000 000 € | 7 907,56 € |
+| Supérieur ou égal à 50 000 000 € | 13 256,91 € |
 
 II.-Les prestations mentionnées au I donnent également lieu à la perception de deux émoluments accessoires :
 

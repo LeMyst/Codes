@@ -10,18 +10,18 @@ b) Soit à l'estimation de la pension alimentaire dans la convention homologuée
 
 Selon le barème suivant :
 
-| Tranches d'assiette |  Taux applicable |
+| Tranches d'assiette | Taux applicable |
 | --- | --- |
-|  De 0 à 6 500 € |  0,967 % |
-|  De 6 500 € à 17 000 € |  0,532 % |
-|  De 17 000 € à 30 000 € |  0,363 % |
-|  Plus de 30 000 € |  0,266 % |
+| De 0 à 6 500 € | 0,967 % |
+| De 6 500 € à 17 000 € | 0,532 % |
+| De 17 000 € à 30 000 € | 0,363 % |
+| Plus de 30 000 € | 0,266 % |
 
 2° D'un émolument proportionnel au capital formé de dix fois la prestation annuelle, dans les cas autres que ceux prévus aux a et b du 1°, selon le barème suivant :
 
-| Tranches d'assiette |  Taux applicable |
+| Tranches d'assiette | Taux applicable |
 | --- | --- |
-|  De 0 à 6 500 € |  1,935 % |
-|  De 6 500 € à 17 000 € |  1,064 % |
-|  De 17 000 € à 30 000 € |  0,726 % |
-|  Plus de 30 000 € |  0,532 % |
+| De 0 à 6 500 € | 1,935 % |
+| De 6 500 € à 17 000 € | 1,064 % |
+| De 17 000 € à 30 000 € | 0,726 % |
+| Plus de 30 000 € | 0,532 % |

@@ -18,12 +18,11 @@ Une affiche, apposée de façon apparente dans chaque local de la chambre d'agri
 
 Les redevances perçues par les chambres d'agriculture pour les actes et formalités effectués au registre de l'agriculture sont les suivantes :
 
-|  |  |  |
-| --- | --- | --- |
-| NUMÉRO | NATURE DES ACTES | REDEVANCE(en €) |
-|  1 |  Dépôt de la déclaration d'affectation, de renonciation ou de reprise et de cession prévu aux articles L. 526-7, L. 526-15, L. 526-16 et au II de l'article L. 526-17 du code de commerce, comprenant l'immatriculation et, le cas échéant, la radiation et délivrance des récépissés |  42 |
-|  2 |  Dépôt des déclarations complémentaires prévues aux articles L. 526-9, L. 526-10 et L. 526-11 du code de commerce et délivrance des récépissés |  36 |
-|  3 | Dépôt du bilan annuel ou du document comptable simplifié et délivrance du récépissé |  6,50 |
-|  4 |  Avis au Bulletin officiel des annonces civiles et commerciales (BODACC) relatif à la cession prévue au II de l'article L. 526-17 du code de commerce et délivrance du certificat |  9 |
-|  5 |  Délivrance des documents mentionnés au 1 de l'article D. 311-15 du présent code |  6 |
-|  6 |  Délivrance d'un document mentionné aux 2 et 3 de l'article D. 311-15 du même code |  3 |
+| NUMÉRO | NATURE DES ACTES | REDEVANCE(en €) | |
+| --- | --- | --- | --- |
+| 1 | Dépôt de la déclaration d'affectation, de renonciation ou de reprise et de cession prévu aux articles L. 526-7, L. 526-15, L. 526-16 et au II de l'article L. 526-17 du code de commerce, comprenant l'immatriculation et, le cas échéant, la radiation et délivrance des récépissés | 42 |
+| 2 | Dépôt des déclarations complémentaires prévues aux articles L. 526-9, L. 526-10 et L. 526-11 du code de commerce et délivrance des récépissés | 36 |
+| 3 | Dépôt du bilan annuel ou du document comptable simplifié et délivrance du récépissé | 6,50 |
+| 4 | Avis au Bulletin officiel des annonces civiles et commerciales (BODACC) relatif à la cession prévue au II de l'article L. 526-17 du code de commerce et délivrance du certificat | 9 |
+| 5 | Délivrance des documents mentionnés au 1 de l'article D. 311-15 du présent code | 6 |
+| 6 | Délivrance d'un document mentionné aux 2 et 3 de l'article D. 311-15 du même code | 3 |

@@ -2,9 +2,8 @@
 
 Mycoses cutanées, périonyxis et onyxis d'origine professionnelle
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer ces maladies |
+| --- | --- | --- |
 | La nature mycosique de l'atteinte doit être confirmée par examen direct et culture. |  | Maladies désignées en A, B, C :Travaux exposant au contact de mammifères d'élevage, vivants ou tués :- élevage, animaleries, garderies d'animaux, ménageries ;- abattoirs, chantiers d'équarrissage.Travaux exécutés dans les brasseries et laiteries.Maladies désignées en C :Travaux exécutés en milieu aquatique. |
 | A. - Mycoses de la peau glabre :Lésions érythémato-vésiculeuses et squameuses, circinées, appelées encore herpès circiné. | 30 jours |
 | B. - Mycoses du cuir chevelu :Plaques squameuses du cuir chevelu supportant un mélange de cheveux sains et de cheveux cassés courts, accompagnées quelquefois d'une folliculite suppurée (Kerion). | 30 jours |

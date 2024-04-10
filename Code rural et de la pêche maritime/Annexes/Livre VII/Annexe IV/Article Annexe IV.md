@@ -1,6 +1,7 @@
 # Article Annexe IV
 
 | NOMBRE D'HECTARES PONDÉRÉS | NOMBRE DE POINTS |
+| --- | --- |
 | Au-dessous de 13,33 | 16 |
 | De 13,34 à 19,99 | 17 |
 | De 20 à 26,66 | 18 |

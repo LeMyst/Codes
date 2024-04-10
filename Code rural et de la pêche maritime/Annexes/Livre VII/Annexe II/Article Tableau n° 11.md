@@ -2,9 +2,8 @@
 
 Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organo-phosphores anticholinestérasiques, ainsi que par les phosphoramides anticholinestérasiques et les carbamates anti-cholinestérasiques
 
-|  |  |  |
-| --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer ces maladies |
+| --- | --- | --- |
 | A. - Troubles digestifs :- crampes abdominales, hypersalivation, nausées ou vomissements, diarrhées. | 3 jours | Manipulation de ces produits, notamment lors des traitements insecticides et fongicides. |
 | B. - Troubles respiratoires :- dyspnée asthmatiforme, œdème broncho-alvéolaire. | 3 jours |
 | C. - Troubles nerveux :- céphalées, vertiges, confusion mentale, accompagnée de myosis. | 3 jours |

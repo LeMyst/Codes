@@ -1,8 +1,7 @@
 # Article Annexe tableau n° 3
 
-|  |  |  |
-| --- | --- | --- |
 | DESIGNATION DES SECTEURS | ARRONDISSEMENT  constituant les secteurs | NOMBRE DE SIEGES |
+| --- | --- | --- |
 | 1er secteur | 1er | 4 |
 | 2e secteur | 2e | 5 |
 | 3e secteur | 3e | 12 |

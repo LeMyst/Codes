@@ -2,119 +2,119 @@
 
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-|  R. 911-1 R. 911-5 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 911-6 |  Résultant du décret n° 2021-1326 du 12 octobre 2021  |
-|  R. 911-7 à R. 911-9 R. 911-11 à R. 911-20 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 911-21 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
-|  R. 911-22 à R. 911-30 R. 911-36 à R. 911-41 R. 911-82, 1er alinéa R. 911-83 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 911-84 |  Résultant du décret n° 2017-955 du 10 mai 2017  |
-|  R. 911-85 et R. 911-86 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 911-87 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
-|  R. 911-88 à R. 911-93 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 913-4 à R. 913-8 R. 913-9, 1er alinéa R. 913-10 à R. 913-12 R. 913-14 |  Résultant du décret n° 2018-407 du 29 mai 2018  |
-|  R. 913-15 à R. 913-27 |  Résultant du décret n° 2020-832 du 30 juin 2020  |
-|  R. 914-1 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-2 et R. 914-3 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-3-1 |  Résultant du décret n° 2022-429 du 25 mars 2022 |
-|  R. 914-4 |  Résultant du décret n° 2014-1176 du 14 octobre 2014  |
-|  R. 914-5 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-7 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-8 |  Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-10 |  Résultant du décret n° 2022-429 du 25 mars 2022 |
-|  R. 914-10-1 à R. 914-10-4 |  Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 911-1 R. 911-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 911-6 | Résultant du décret n° 2021-1326 du 12 octobre 2021 |
+| R. 911-7 à R. 911-9 R. 911-11 à R. 911-20 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 911-21 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
+| R. 911-22 à R. 911-30 R. 911-36 à R. 911-41 R. 911-82, 1er alinéa R. 911-83 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 911-84 | Résultant du décret n° 2017-955 du 10 mai 2017 |
+| R. 911-85 et R. 911-86 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 911-87 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
+| R. 911-88 à R. 911-93 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 913-4 à R. 913-8 R. 913-9, 1er alinéa R. 913-10 à R. 913-12 R. 913-14 | Résultant du décret n° 2018-407 du 29 mai 2018 |
+| R. 913-15 à R. 913-27 | Résultant du décret n° 2020-832 du 30 juin 2020 |
+| R. 914-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-2 et R. 914-3 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-3-1 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-4 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
+| R. 914-5 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-7 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-8 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-10-1 à R. 914-10-4 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-10-5 | Résultant du décret n° 2022-429 du 25 mars 2022 |
 | R. 914-10-6 à R. 914-10-10 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
-|  R. 914-10-11 à R. 814-10-13 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-10-14 à R. 914-10-22 R. 914-10-23, I, II et III R. 914-10-24 à R. 914-11 |  Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-12 |  Résultant du décret n° 2014-1176 du 14 octobre 2014  |
-|  R. 914-12-1 à R. 914-13 |  Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-13-1 à R. 914-13-3 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-4 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-13-5 à R. 914-13-8 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-9 |  Résultant du décret n° 2022-429 du 25 mars 2022 |
-|  R. 914-13-10 et R. 914-13-11 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-12 et R. 914-13-13 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-13-14 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-15 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-13-16 à R. 914-13-20 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-21 |  Résultant du décret n° 2018-235 du 30 mars 2018  |
-|  R. 914-13-22 à R. 914-13-39 |  Résultant du décret n° 2013-1230 du 23 décembre 2013  |
-|  R. 914-13-40 à R. 914-13-46 |  Résultant du décret n° 2014-1176 du 14 octobre 2014  |
-|  R. 914-13-47 et R. 914-13-48 |  Résultant du décret n° 2016-833 du 23 juin 2016  |
-|  R. 914-14 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-15 |  Résultant du décret n° 2022-671 du 26 avril 2022 |
+| R. 914-10-11 à R. 814-10-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-10-14 à R. 914-10-22 R. 914-10-23, I, II et III R. 914-10-24 à R. 914-11 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-12 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
+| R. 914-12-1 à R. 914-13 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-13-1 à R. 914-13-3 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-4 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-5 à R. 914-13-8 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-9 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-13-10 et R. 914-13-11 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-12 et R. 914-13-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-14 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-15 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-16 à R. 914-13-20 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-21 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-22 à R. 914-13-39 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-40 à R. 914-13-46 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
+| R. 914-13-47 et R. 914-13-48 | Résultant du décret n° 2016-833 du 23 juin 2016 |
+| R. 914-14 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-15 | Résultant du décret n° 2022-671 du 26 avril 2022 |
 | R. 914-15-1 | Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-16 |  Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-17 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-18 |  Résultant du décret n° 2018-407 du 29 mai 2018  |
-|  R. 914-19-1 |  Résultant du décret n° 2009-920 du 28 juillet 2009  |
-|  R. 914-19-2 |  Résultant du décret n° 2021-1335 du 14 octobre 2021  |
-|  R. 914-19-3 et R. 914-19-4 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-19-5 |  Résultant du décret n° 2009-920 du 28 juillet 2009  |
-|  R. 914-19-6 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-19-7 |  Résultant du décret n° 2009-920 du 28 juillet 2009  |
-|  R. 914-20 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-21 à R. 914-24 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-25 et R. 914-26 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-27 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-28 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-29 |  Résultant du décret n° 2010-571 du 28 mai 2010  |
-|  R. 914-30 |  Résultant du décret n° 2009-920 du 28 juillet 2009  |
-|  R. 914-31 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-32 |  Résultant du décret n° 2021-1335 du14 octobre 2021 |
-|  R. 914-33 et R. 914-34 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-35 |  Résultant du décret n° 2021-1335 du 14 octobre 2021  |
-|  R. 914-36 et R. 914-37 |  Résultant du décret n° 2009-920 du 28 juillet 2009  |
-|  R. 914-44 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-45 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-46 | Résultant du décret n° 2022-671 du 26 avril 2022 |
+| R. 914-16 | Résultant du décret n° 2022-671 du 26 avril 2022 |
+| R. 914-17 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-18 | Résultant du décret n° 2018-407 du 29 mai 2018 |
+| R. 914-19-1 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-19-2 | Résultant du décret n° 2021-1335 du 14 octobre 2021 |
+| R. 914-19-3 et R. 914-19-4 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-19-5 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-19-6 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-19-7 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-20 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-21 à R. 914-24 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-25 et R. 914-26 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-27 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-28 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-29 | Résultant du décret n° 2010-571 du 28 mai 2010 |
+| R. 914-30 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-31 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-32 | Résultant du décret n° 2021-1335 du14 octobre 2021 |
+| R. 914-33 et R. 914-34 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-35 | Résultant du décret n° 2021-1335 du 14 octobre 2021 |
+| R. 914-36 et R. 914-37 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-44 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-45 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-46 | Résultant du décret n° 2022-671 du 26 avril 2022 |
 | R. 914-47 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
 | R. 914-48 | Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-49 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-50 |  Résultant du décret n° 2013-767 du 23 août 2013  |
-|  R. 914-51 à R. 914-55 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-49 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-50 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-51 à R. 914-55 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
 | R. 914-56 | Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-57 à R. 914-58-2 |  Résultant du décret n° 2023-733 du 8 août 2023 |
-|  R. 914-59 et R. 914-60 |  Résultant du décret n° 2017-787 du 5 mai 2017  |
-|  R. 914-60-1 |  Résultant du décret n° 2021-1053 du 6 août 2021  |
-|  R. 914-61 |  Résultant du décret n° 2015-963 du 31 juillet 2015  |
-|  R. 914-62 et R. 914-63 |  Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-64 |  Résultant du décret n° 2020-1676 du 23 décembre 2020  |
-|  R. 914-65 et R. 914-66 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-67 à R. 914-69 |  Résultant du décret n° 2015-963 du 31 juillet 2015  |
-|  R. 914-70 et R. 914-71 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-72 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-73 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-74 |  Résultant du décret n° 2016-1021 du 26 juillet 2016  |
-|  R. 914-75 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-76 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-77 |  Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-78 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-78-1 |  Résultant du décret n° 2022-671 du 26 avril 2022 |
-|  R. 914-79 et R. 914-80 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-81, 1er, 2e, 3e et 4e alinéas |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-82 à R. 914-84 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-85 |  Résultant du décret n° 2019-1554 du 30 décembre 2019  |
-|  R. 914-86 R. 914-89 et R. 914-90 R. 914-92 à R. 914-94 |  Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-57 à R. 914-58-2 | Résultant du décret n° 2023-733 du 8 août 2023 |
+| R. 914-59 et R. 914-60 | Résultant du décret n° 2017-787 du 5 mai 2017 |
+| R. 914-60-1 | Résultant du décret n° 2021-1053 du 6 août 2021 |
+| R. 914-61 | Résultant du décret n° 2015-963 du 31 juillet 2015 |
+| R. 914-62 et R. 914-63 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-64 | Résultant du décret n° 2020-1676 du 23 décembre 2020 |
+| R. 914-65 et R. 914-66 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-67 à R. 914-69 | Résultant du décret n° 2015-963 du 31 juillet 2015 |
+| R. 914-70 et R. 914-71 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-72 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-73 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-74 | Résultant du décret n° 2016-1021 du 26 juillet 2016 |
+| R. 914-75 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-76 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-77 | Résultant du décret n° 2022-671 du 26 avril 2022 |
+| R. 914-78 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-78-1 | Résultant du décret n° 2022-671 du 26 avril 2022 |
+| R. 914-79 et R. 914-80 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-81, 1er, 2e, 3e et 4e alinéas | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-82 à R. 914-84 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-85 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 914-86 R. 914-89 et R. 914-90 R. 914-92 à R. 914-94 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
 | R. 914-100 | Résultant du décret n° 2023-733 du 8 août 2023 |
 | R. 914-101 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
-|  R. 914-102 |  Résultant du décret n° 2023-733 du 8 août 2023 |
-| R. 914-103 | Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-104 et R. 914-105 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 914-113 |  Résultant du décret n° 2013-1231 du 23 décembre 2013  |
-|  R. 914-114 à R. 914-117 |  Résultant du décret n° 2008-1429 du 19 décembre 2008  |
-|  R. 931-2 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 931-3 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
-|  R. 931-4 et R. 931-5 R. 951-1 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
-|  R. 951-1-1 |  Résultant du décret n° 2019-892 du 27 août 2019  |
-|  R. 951-2 R. 951-4 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+| R. 914-102 | Résultant du décret n° 2023-733 du 8 août 2023 |
+| R. 914-103 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-104 et R. 914-105 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-113 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-114 à R. 914-117 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 931-2 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 931-3 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
+| R. 931-4 et R. 931-5 R. 951-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 951-1-1 | Résultant du décret n° 2019-892 du 27 août 2019 |
+| R. 951-2 R. 951-4 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 951-5-1 R. 951-5-2 | Résultant du décret n° 2023-106 du 16 février 2023 |
-|  R. 953-1 |  Résultant du décret n° 2017-852 du 6 mai 2017  |
-|  R. 953-2 et R. 953-4 |  Résultant du décret n° 2015-652 du 10 juin 2015 |
-|  R. 953-5 |  Résultant du décret n° 2022-1666 du 26 décembre 2022 |
-|  R. 953-6 |  Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 953-1 | Résultant du décret n° 2017-852 du 6 mai 2017 |
+| R. 953-2 et R. 953-4 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 953-5 | Résultant du décret n° 2022-1666 du 26 décembre 2022 |
+| R. 953-6 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 
 II.-Pour l'application du I :
 

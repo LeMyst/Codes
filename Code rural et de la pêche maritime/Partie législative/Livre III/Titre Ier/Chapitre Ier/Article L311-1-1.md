@@ -1,0 +1,3 @@
+# Article L311-1-1
+
+La responsabilité prévue au premier alinéa de l'article 1253 du code civil n'est pas engagée lorsque le trouble anormal provient d'activités agricoles existant antérieurement à l'acte transférant la propriété ou octroyant la jouissance du bien ou, à défaut d'acte, à la date d'entrée en possession du bien par la personne lésée. Ces activités doivent être conformes aux lois et aux règlements et s'être poursuivies dans les mêmes conditions, dans des conditions nouvelles qui ne sont pas à l'origine d'une aggravation du trouble anormal ou dans des conditions qui résultent de la mise en conformité de l'exercice de ces activités aux lois et aux règlements ou sans modification substantielle de leur nature ou de leur intensité.

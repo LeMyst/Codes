@@ -1,6 +1,6 @@
 # Article L1214-24
 
-Le plan de mobilité est élaboré ou révisé à l'initiative du Syndicat des transports Ile-de-France.
+Le plan de mobilité est élaboré ou révisé à l'initiative d'Ile-de-France Mobilités.
 
 Les services de l'Etat et les gestionnaires des infrastructures de transport localisées dans le périmètre du plan sont associés à son élaboration.
 

@@ -32,7 +32,8 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 232-2 à R. 232-5 | Résultant du décret n° 2014-1095 du 26 septembre 2014 |
 | R. 232-5-1 | Résultant du décret n° 2022-751 du 29 avril 2022 portant dispositions règlementaires relatives à l'agence nationale des données de voyage |
 | R. 232-12 à R. 232-14 | Résultant du décret n° 2022-751 du 29 avril 2022 portant dispositions règlementaires relatives à l'agence nationale des données de voyage |
-| R. 232-15 et R. 232-16 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
+| R. 232-15 | Résultant du décret n° 2024-302 du 2 avril 2024 |
+| R. 232-16 | Résultant du décret n° 2023-1013 du 2 novembre 2023 relatif aux services déconcentrés et à l'organisation de la police nationale |
 | R. 232-17 | Résultant du décret n° 2022-751 du 29 avril 2022 portant dispositions règlementaires relatives à l'agence nationale des données de voyage |
 | R. 232-18 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 232-19 à R. 232-22 | Résultant du décret n° 2022-751 du 29 avril 2022 portant dispositions règlementaires relatives à l'agence nationale des données de voyage |
@@ -71,3 +72,6 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | Au titre V |  |
 | R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+
+NOTA:
+Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.

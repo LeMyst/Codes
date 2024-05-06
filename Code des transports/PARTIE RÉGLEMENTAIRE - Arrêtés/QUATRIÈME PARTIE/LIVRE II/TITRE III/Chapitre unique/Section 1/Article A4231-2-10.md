@@ -40,7 +40,7 @@ d) Avoir terminé avec succès un programme de formation délivré par un organi
 
 -avoir acquis avant l'inscription à ce programme une expérience professionnelle d'au moins cinq ans ; ou
 
--avoir acquis avant l'inscription à ce programme une expérience professionnelle d'au moins 500 jours à bord d'un navire de mer en tant que membre d'un équipage de pont ; et
+-avoir acquis avant l'inscription à ce programme une expérience professionnelle d'au moins 500 jours à bord d'un navire de mer en tant que membre d'un équipage de pont ; ou
 
 -avoir terminé avec succès, avant l'inscription à ce programme, un programme de formation professionnelle d'au moins trois ans ; et
 

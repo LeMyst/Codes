@@ -44,4 +44,6 @@ Relèvent des dispositions de l'article L. 841-2 du présent code les traitement
 
 21° Décret autorisant un traitement automatisé de données à caractère personnel dénommé : “ Fichier du renseignement pénitentiaire ” ;
 
-22° Décret n° 2024-323 du 8 avril 2024 portant autorisation d'un traitement automatisé de données à caractère personnel relatif à la sécurité des établissements, ouvrages, installations et activités nucléaires dénommé “ traitement d'optimisation des données et informations d'intérêt nucléaire ”, pour les seules données intéressant la sûreté de l'Etat.
+22° Décret n° 2024-323 du 8 avril 2024 portant autorisation d'un traitement automatisé de données à caractère personnel relatif à la sécurité des établissements, ouvrages, installations et activités nucléaires dénommé “ traitement d'optimisation des données et informations d'intérêt nucléaire ”, pour les seules données intéressant la sûreté de l'Etat ;
+
+22° Décret portant autorisation d'un traitement de données à caractère personnel dénommé FiMPA.

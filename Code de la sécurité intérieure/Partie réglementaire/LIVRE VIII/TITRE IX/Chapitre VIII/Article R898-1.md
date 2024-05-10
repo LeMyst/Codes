@@ -11,7 +11,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 | R. 821-1 | Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement |
 | R. 823-1 et R. 823-2 | Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement |
 | Au titre IV |  |
-| R. 841-2 | Résultant du décret n° 2024-323 du 8 avril 2024 |
+| R. 841-2 | Résultant du décret n° 2024-418 du 6 mai 2024 (FiMPA) |
 | Au titre V |  |
 | R. 851-1 à R. 851-4 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 851-5 à R. 851-10 | Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement |

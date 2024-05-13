@@ -12,7 +12,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Alpes-de-Haute-Provence | Manosque | 13 | 2 |
 | Alpes-Maritimes | Antibes | 26 | 4 |
 |  | Cannes | 23 | 4 |
-|  | Grasse | 16 | 3 |
+|  | Grasse | 20 | 3 |
 |  | Nice | 45 | 7 |
 | Bouches-du-Rhône | Aix-en-Provence | 32 | 4 |
 |  | Salon-de-Provence | 22 | 3 |

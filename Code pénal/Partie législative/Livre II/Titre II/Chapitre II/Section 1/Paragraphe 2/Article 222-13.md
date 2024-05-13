@@ -6,6 +6,8 @@ Les violences ayant entraîné une incapacité de travail inférieure ou égale 
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
 
+2° bis Sur une personne dont l'état de sujétion psychologique ou physique, au sens de l'article 223-15-3, est connu de leur auteur ;
+
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, une personne dépositaire de l'autorité publique autre que celles mentionnées à l'article 222-14-5, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 271-1 du code de la sécurité intérieure, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;

@@ -6,6 +6,8 @@ L'infraction définie à l'article 222-7 est punie de vingt ans de réclusion cr
 
 2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
 
+2° bis Sur une personne dont l'état de sujétion psychologique ou physique, au sens de l'article 223-15-3, est connu de son auteur ;
+
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
 4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier ou un marin-pompier, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 271-1 du code de la sécurité intérieure, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;

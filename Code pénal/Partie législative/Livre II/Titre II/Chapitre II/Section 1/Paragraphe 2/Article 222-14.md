@@ -1,6 +1,6 @@
 # Article 222-14
 
-Les violences habituelles sur un mineur de quinze ans ou sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur sont punies :
+Les violences habituelles sur un mineur de quinze ans ou sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ou sur une personne dont l'état de sujétion psychologique ou physique, au sens de l'article 223-15-3, est connu de leur auteur sont punies :
 
 1° De trente ans de réclusion criminelle lorsqu'elles ont entraîné la mort de la victime ;
 

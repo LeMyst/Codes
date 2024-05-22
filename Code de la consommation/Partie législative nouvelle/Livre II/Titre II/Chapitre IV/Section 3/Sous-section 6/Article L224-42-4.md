@@ -1,6 +1,6 @@
 # Article L224-42-4
 
-Un opérateur de plateforme en ligne, au sens de l'article L. 111-7, proposant gratuitement aux utilisateurs finals un outil de comparaison et d'évaluation des offres de services d'accès à l'internet et des offres de services de communications interpersonnelles fondés ou non sur la numérotation accessibles au public portant sur le prix, le tarif des services fournis et une qualité minimale de service proposée, peut solliciter la certification de cet outil par l'autorité administrative chargée de la concurrence et de la consommation.
+Un fournisseur de comparateur en ligne des offres de services d'accès à l'internet et des offres de services de communications interpersonnelles fondés ou non sur la numérotation accessibles au public portant sur le prix, le tarif des services fournis et une qualité minimale de service proposée, peut solliciter la certification de cet outil par l'autorité administrative chargée de la concurrence et de la consommation.
 
 Pour être certifié, l'outil de comparaison doit :
 
@@ -23,3 +23,6 @@ Pour être certifié, l'outil de comparaison doit :
 Un arrêté du ministre chargé de la consommation, pris après avis du Conseil national de la consommation, précise les modalités de la certification.
 
 Les opérateurs mentionnés au premier alinéa ont le droit d'utiliser gratuitement, et dans des formats de données ouverts, les informations publiées par les fournisseurs de services d'accès à l'internet ou de services de communications interpersonnelles accessibles au public afin de mettre ces informations à la disposition des consommateurs au moyen de leurs outils de comparaison indépendants.
+
+NOTA:
+Conformément au V de l’article 64 de la loi n° 2024-449 du 21 mai 2024, ces dispositions entrent en vigueur le 17 février 2024.

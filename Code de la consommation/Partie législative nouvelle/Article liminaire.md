@@ -30,8 +30,12 @@ Pour l'application du présent code, on entend par :
 
 14° Place de marché en ligne : un service utilisant un logiciel, y compris un site internet, une partie de site internet ou une application, exploité par un professionnel ou pour son compte, qui permet aux consommateurs de conclure des contrats à distance avec d'autres professionnels ou consommateurs ;
 
-15° Opérateur de place de marché en ligne : tout professionnel qui fournit une place de marché en ligne aux consommateurs, au sens du 2° du I de l'article L. 111-7 ;
+15° Plateforme en ligne : une plateforme en ligne au sens du i de l'article 3 du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché intérieur des services numériques et modifiant la directive 2000/31/ CE (règlement sur les services numériques) ;
 
 16° Pratique commerciale : toute action, omission, conduite, démarche ou communication commerciale, y compris la publicité et le marketing, de la part d'un professionnel, en relation directe avec la promotion, la vente ou la fourniture d'un bien, d'un service, ou portant sur des droits et obligations ;
+
+17° Moteur de recherche en ligne : un moteur de recherche en ligne au sens du j de l'article 3 du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 précité ;
+
+18° Comparateur en ligne : tout service de communication au public en ligne consistant en la fourniture d'informations permettant la comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels ;
 
 19° Prestataire de service : toute personne qui offre ou fournit un service.

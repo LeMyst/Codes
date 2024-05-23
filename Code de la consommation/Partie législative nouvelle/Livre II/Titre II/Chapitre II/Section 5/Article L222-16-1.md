@@ -18,7 +18,7 @@ Est passible d'une amende administrative dont le montant ne peut excéder 100 00
 
 4° Tout acheteur d'espace publicitaire réalisant, pour le compte d'un annonceur, une prestation ayant pour objet la diffusion d'une publicité interdite en application du présent article ;
 
-5° Tout vendeur d'espace publicitaire, en qualité de support ou de régie, réalisant une prestation ayant pour objet la diffusion d'une publicité interdite en application du présent article, sans préjudice des dispositions prévues au I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
+5° Tout vendeur d'espace publicitaire, en qualité de support ou de régie, réalisant une prestation ayant pour objet la diffusion d'une publicité interdite en application du présent article, sans préjudice des dispositions prévues à l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
 
 6° Toute personne diffusant une publicité interdite en application du présent article.
 

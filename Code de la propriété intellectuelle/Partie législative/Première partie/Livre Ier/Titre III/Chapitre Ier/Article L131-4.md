@@ -1,6 +1,6 @@
 # Article L131-4
 
-La cession par l'auteur de ses droits sur son oeuvre peut être totale ou partielle. Elle doit comporter au profit de l'auteur la participation proportionnelle aux recettes provenant de la vente ou de l'exploitation.
+La cession par l'auteur de ses droits sur son oeuvre peut être totale ou partielle. Elle doit comporter au profit de l'auteur une rémunération appropriée et proportionnelle aux recettes provenant de la vente ou de l'exploitation.
 
 Toutefois, la rémunération de l'auteur peut être évaluée forfaitairement dans les cas suivants :
 
@@ -17,3 +17,6 @@ Toutefois, la rémunération de l'auteur peut être évaluée forfaitairement da
 6° Dans les autres cas prévus au présent code.
 
 Est également licite la conversion entre les parties, à la demande de l'auteur, des droits provenant des contrats en vigueur en annuités forfaitaires pour des durées à déterminer entre les parties.
+
+NOTA:
+Conformément au V de l’article 64 de la loi n° 2024-449 du 21 mai 2024, ces dispositions entrent en vigueur le 17 février 2024.

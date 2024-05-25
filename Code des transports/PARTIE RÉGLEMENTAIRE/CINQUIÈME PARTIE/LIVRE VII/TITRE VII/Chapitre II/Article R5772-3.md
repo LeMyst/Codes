@@ -1,0 +1,3 @@
+# Article R5772-3
+
+La section 2 du chapitre Ier du titre IV du livre II est applicable en Polynésie française, dans sa rédaction résultant du décret n° 2024-461 du 22 mai 2024, sous réserve des compétences dévolues à cette collectivité par la loi organique n° 2004-192 du 27 février 2004 dans les eaux intérieures et en matière de sécurité des navires qui ne sont pas destinés au transport des passagers de moins de 24 mètres ou qui relevaient de la compétence de la Polynésie française à la date d'entrée en vigueur de la loi organique n° 2019-706 du 5 juillet 2019 portant modification du statut d'autonomie de la Polynésie française.

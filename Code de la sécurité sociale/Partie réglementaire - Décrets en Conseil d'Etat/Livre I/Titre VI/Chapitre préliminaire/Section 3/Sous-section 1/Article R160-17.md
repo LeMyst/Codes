@@ -24,8 +24,6 @@ d) Pour les frais relatifs aux actes du médecin ou de la sage-femme donnant lie
 
 e) Pour les frais liés aux consultations de prévention en matière de santé sexuelle.
 
-Pour les assurés âgés de moins de 26 ans, pour les frais liés aux consultations de prévention en matière de santé sexuelle ;
-
 5° bis.-Pour les frais d'acquisition de médicaments, lorsque ceux-ci ont pour but la contraception d'urgence ;
 
 6° Pour les frais relatifs aux actes techniques recommandés par la Haute Autorité de santé pendant la période préconisée, lorsque l'assuré se trouve dans l'une des situations cliniques suivantes définies comme nécessitant un dépistage spécifique du cancer du sein :

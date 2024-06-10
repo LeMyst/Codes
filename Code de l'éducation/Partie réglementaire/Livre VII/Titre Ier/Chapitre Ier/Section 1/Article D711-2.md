@@ -52,7 +52,6 @@ Le statut d'institut et d'école extérieurs aux universités fixé par les arti
 
 16° Université de technologie de Troyes ;
 
-17° Université de technologie de Tarbes.
+17° Université de technologie de Tarbes ;
 
-NOTA:
-Conformément à l’article 13 du décret n° 2023-1356 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+18° Ecole nationale d'ingénieurs de Brest.

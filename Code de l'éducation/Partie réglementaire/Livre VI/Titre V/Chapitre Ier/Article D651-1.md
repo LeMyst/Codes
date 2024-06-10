@@ -40,7 +40,6 @@ Les dispositions relatives aux formations dispensées dans les instituts et éco
 
 19° Le décret n° 2021-441 du 13 avril 2021 relatif à l'Ecole nationale supérieure de chimie de Montpellier ;
 
-20° Le décret n° 2023-1356 du 29 décembre 2023 relatif à la transformation du centre universitaire de formation et de recherche de Mayotte en établissement public à caractère scientifique, culturel et professionnel.
+20° Le décret n° 2023-1356 du 29 décembre 2023 relatif à la transformation du centre universitaire de formation et de recherche de Mayotte en établissement public à caractère scientifique, culturel et professionnel ;
 
-NOTA:
-Conformément à l’article 13 du décret n° 2023-1356 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+21° Le décret n° 2024-522 du 7 juin 2024 relatif à l'Ecole nationale d'ingénieurs de Brest.

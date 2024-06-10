@@ -1,6 +1,6 @@
 # Article D741-12
 
-Les dispositions relatives aux établissements publics administratifs autres que ceux mentionnés aux articles D. 723-1, D. 741-5, D. 741-7 et D. 741-9 sont fixées par les décrets suivants :
+Les dispositions relatives aux établissements publics administratifs autres que ceux mentionnés aux articles D. 723-1, D. 741-5 et D. 741-9 sont fixées par les décrets suivants :
 
 1° Institut national des sciences et techniques nucléaires : décret n° 56-614 du 18 juin 1956 portant création d'un Institut national des sciences et techniques nucléaires ;
 
@@ -35,8 +35,3 @@ Les dispositions relatives aux établissements publics administratifs autres que
 16° (Abrogé)
 
 17° Etablissement public Campus Condorcet : chapitre V du titre IV du livre III du code de la recherche.
-
-NOTA:
-Conformément à l'article 11 du décret n° 2023-1321 du 27 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-Conformément à l’article 13 du décret n° 2023-1356 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

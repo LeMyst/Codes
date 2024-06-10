@@ -90,7 +90,7 @@ Les établissements ou organismes concourant aux missions du service public de l
 
 57° (Supprimé) ;
 
-58° L'Ecole nationale d'ingénieurs de Brest à l'université de Brest par le décret n° 2016-1333 du 7 octobre 2016 portant association d'établissements du site Bretagne Loire ;
+58° (Supprimé) ;
 
 59° L'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité par le décret n° 2017-387 du 23 mars 2017 portant association de l'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité ;
 

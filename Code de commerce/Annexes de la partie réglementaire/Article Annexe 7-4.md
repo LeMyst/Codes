@@ -29,5 +29,5 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 | Martinique | Fort-de-France | 15 |
 | Cour d'appel de Saint-Denis de La Réunion | | |
 | Mayotte | Mamoudzou | 5 |
-| La Réunion | Saint-Denis | 8 |
+| La Réunion | Saint-Denis | 20 |
 | Saint-Pierre | 16 |

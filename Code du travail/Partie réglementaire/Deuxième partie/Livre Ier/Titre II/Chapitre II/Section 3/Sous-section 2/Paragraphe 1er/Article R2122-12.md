@@ -18,9 +18,9 @@ f) Période d'emploi, indication de temps complet ou de temps partiel, nombre d'
 
 g) Emploi occupé, catégorie socio-professionnelle ;
 
-i) Nature du contrat ;
-
 h) Identifiant ou intitulé de la convention collective relative à l'emploi occupé ;
+
+i) Nature du contrat ;
 
 2° Les informations relatives à l'employeur si celui-ci est une entreprise ou un établissement :
 

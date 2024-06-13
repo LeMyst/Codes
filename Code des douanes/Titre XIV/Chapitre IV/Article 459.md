@@ -10,6 +10,6 @@
 
 1. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225 000 euros toute personne qui aura incité par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non suivie d'effet.
 
-1. Les personnes condamnées pour infractions à la législation et à la réglementation relatives aux relations financières avec l'étranger sont, en outre, déclarées incapables d'exercer les fonctions d'agents de change, d'être électeurs ou élus aux chambres de commerce, tribunaux de commerce et conseils de prud'hommes, tant et aussi longtemps qu'elles n'auront pas été relevées de cette incapacité.
+1. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2024-1096 QPC du 12 juin 2024.\]
 
 1. Les tribunaux ordonneront, en outre, que leurs décisions portant condamnation seront, aux frais des personnes condamnées, insérées en entier ou par extraits dans les journaux qu'ils désigneront.

@@ -12,7 +12,15 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 | D. 6331-2 |  |
 | D. 6331-20 |  |
 | D. 6332-9 à D. 6332-28 |  |
-| D. 6332-30 à D. 6332-46 |  |
+| D. 6332-30 et D. 6332-31 | Décret 2024-545 du 13 juin 2024 |
+| D. 6332-32 |  |
+| D. 6332-33 et D. 6332-34 | Décret 2024-545 du 13 juin 2024 |
+| D. 6332-35 à D. 6332-38 |  |
+| D. 6332-39 et D. 6332-40 | Décret 2024-545 du 13 juin 2024 |
+| D. 6332-41 |  |
+| D. 6332-42 | Décret 2024-545 du 13 juin 2024 |
+| D. 6332-43 et D. 6332-45 |  |
+| D. 6332-46 | Décret 2024-545 du 13 juin 2024 |
 | Titre IV |  |
 | D. 6341-16 à D. 6341-20 |  |
 | D. 6341-45 à D. 6341-54 |  |

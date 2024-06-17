@@ -122,12 +122,12 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 337-62 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-63 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-64, 1er, 2e, 4e et 6e alinéas | Résultant du décret n° 2019-907 du 30 août 2019 |
-| D. 337-65 | Résultant du décret n° 2016-771 du 10 juin 2016 |
+| D. 337-65 | Résultant du décret n° 2024-542 du 13 juin 2024 |
 | D. 337-66 | Résultant du décret n° 2009-145 du 10 février 2009 |
-| D. 337-66-1 | Résultant du décret n° 2020-1277 du 20 octobre 2020 |
+| D. 337-66-1 | Résultant du décret n° 2024-542 du 13 juin 2024 |
 | D. 337-67 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-68 | Résultant du décret n° 2009-145 du 10 février 2009 |
-| D. 337-69 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-69 | Résultant du décret n° 2024-542 du 13 juin 2024 |
 | D. 337-70 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-71 | Résultant du décret n° 2020-726 du 12 juin 2020 |
 | D. 337-72 et D. 337-73 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -137,7 +137,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 337-78 et D. 337-79 | Résultant du décret n° 2021-1524 du 25 novembre 2021 |
 | D. 337-80 | Résultant du décret n° 2009-145 du 10 février 2009 |
 | D. 337-81 | Résultant du décret n° 2021-1524 du 25 novembre 2021 |
-| D. 337-82 | Résultant du décret n° 2015-846 du 9 juillet 2015 |
+| D. 337-82 | Résultant du décret n° 2024-542 du 13 juin 2024 |
 | D. 337-83 à D. 337-85 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-86 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-87 | Résultant du décret n° 2009-145 du 10 février 2009 |
@@ -463,3 +463,6 @@ b) Au troisième alinéa, les mots : " Le médecin " sont remplacés par les mot
 64° Le premier alinéa de l'article D. 351-28-1 est ainsi rédigé :
 
 " Par dérogation aux dispositions du premier et du troisième alinéa de l'article D. 351-28, les candidats qui bénéficient d'une scolarité spécialement adaptée pour tenir compte d'un trouble du neuro-développement adressent directement leur demande d'aménagements des conditions d'examen ou de concours national à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. ".
+
+NOTA:
+Conformément à l’article 3 du décret n° 2024-542 du 13 juin 2024, ces dispositions sont applicables à compter de la rentrée scolaire 2024.

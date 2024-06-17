@@ -2,7 +2,7 @@
 
 L'examen du baccalauréat professionnel comporte :
 
-1° Sept épreuves obligatoires et, le cas échéant, deux épreuves facultatives. A chaque épreuve correspondent une ou plusieurs unités constitutives. L'examen est organisé soit par combinaison entre unités constitutives évaluées sous forme ponctuelle et unités constitutives évaluées par contrôle en cours de formation, dans les conditions fixées aux articles D. 337-74 à D. 337-76, soit uniquement en épreuves ou unités sous forme ponctuelle dans les conditions fixées à l'article D. 337-77. Il prend en compte la formation en milieu professionnel.
+1° Sept épreuves obligatoires et, le cas échéant, deux épreuves facultatives. A chaque épreuve correspondent une ou plusieurs unités constitutives. L'examen est organisé soit par combinaison entre unités constitutives évaluées sous forme ponctuelle et unités constitutives évaluées par contrôle en cours de formation, dans les conditions fixées aux articles D. 337-74 à D. 337-76, soit uniquement en épreuves ou unités sous forme ponctuelle dans les conditions fixées à l'article D. 337-77. Il prend en compte la formation en milieu professionnel exigée pour se présenter à l'examen.
 
 Les notes égales ou supérieures à 10 sur 20 obtenues aux épreuves ou unités constitutives sont valables cinq ans à compter de leur date d'obtention. Les candidats qui, au terme du calcul de la moyenne conditionnant la délivrance du diplôme, échouent à l'examen et les candidats ayant choisi la forme progressive de l'examen dans les conditions prévues à l'article D. 337-79 qui n'obtiennent pas cette moyenne, reçoivent une attestation reconnaissant l'acquisition de blocs de compétences correspondant aux unités auxquelles ils ont obtenu une note égale ou supérieure à 10 sur 20. Cette attestation est délivrée par le recteur d'académie.
 
@@ -13,4 +13,4 @@ Les unités constitutives du diplôme peuvent être acquises au titre de la vali
 2° Une épreuve de contrôle organisée pour certains candidats dans les conditions prévues aux articles D. 337-78 et D. 337-79. Cette épreuve orale qui porte sur des connaissances et compétences générales et professionnelles est définie par arrêté du ministre chargé de l'éducation, par arrêté du ministre chargé de l'agriculture pour les baccalauréats mentionnés au deuxième alinéa de l'article D. 337-53 ou par arrêté du ministre chargé de la mer pour les baccalauréats mentionnés au troisième alinéa du même article.
 
 NOTA:
-Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.
+Conformément à l’article 3 du décret n° 2024-542 du 13 juin 2024, ces dispositions sont applicables à compter de la rentrée scolaire 2024.

@@ -118,7 +118,7 @@ a) Services habilités à formuler des requêtes à l'agence nationale des donn�
 
 - les brigades des douanes chargées de la lutte contre la fraude dans les aéroports internationaux ;
 
-- le service national de la douane judiciaire ;
+- l'Office national anti-fraude ;
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes aéroportuaires :
 

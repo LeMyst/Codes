@@ -1,0 +1,1 @@
+B : Exonérations permanentes

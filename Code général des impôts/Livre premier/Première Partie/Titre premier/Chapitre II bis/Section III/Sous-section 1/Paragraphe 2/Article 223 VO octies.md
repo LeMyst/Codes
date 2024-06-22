@@ -1,0 +1,14 @@
+# Article 223 VO octies
+
+Sur option exercée par l'entité constitutive déclarante, une entité constitutive peut, s'agissant des rémunérations octroyées sous forme d'actions, substituer au montant comptabilisé en charge dans ses états financiers le montant admis en déduction de son résultat fiscal en application de la législation de l'Etat ou du territoire dans lequel elle est située.
+
+Lorsque l'option de souscription ou d'achat d'actions expire sans avoir été levée, le montant de la charge afférente à cette rémunération qui a été déduit du résultat net comptable de l'entité constitutive et pris en compte pour le calcul de son résultat qualifié au titre d'exercices antérieurs est ajouté au résultat qualifié de l'exercice au cours duquel cette option a expiré.
+
+Lorsqu'une partie du montant de la charge relative à la rémunération sous forme d'actions a été comptabilisée dans les états financiers de l'entité constitutive au titre d'exercices antérieurs à celui au titre duquel l'option est exercée, un montant égal à la différence entre le montant total de la charge relative à cette rémunération déduit du résultat qualifié des exercices antérieurs et le montant total de la charge relative à cette rémunération qui aurait été déduit pour le calcul de son résultat qualifié si l'option avait été exercée au titre de ces exercices est réintégré au résultat qualifié de l'entité constitutive de l'exercice au titre duquel l'option est exercée.
+
+L'option mentionnée au premier alinéa est valable pour une période de cinq exercices, à compter de celui au titre duquel elle est exercée, et s'applique à toutes les entités constitutives situées dans l'Etat ou le territoire pour lequel elle a été formulée. Elle est formulée sur la déclaration mentionnée au II de l'article 223 WW souscrite au titre du premier exercice d'application. Elle est reconduite tacitement, sauf renonciation formulée par l'entité constitutive déclarante sur la déclaration mentionnée au même II souscrite au titre du dernier exercice d'application de l'option. En cas de renonciation, une nouvelle option ne peut pas être exercée au titre des cinq exercices suivant le dernier exercice d'application de l'option.
+
+En cas de renonciation à l'option, l'entité constitutive réintègre au résultat qualifié du premier exercice au titre duquel l'option cesse de s'appliquer un montant correspondant à la fraction de la rémunération sous forme d'actions qui n'a pas encore été acquittée, déterminé par différence entre le montant de cette rémunération qui a été déduit en application de l'option mentionnée au premier alinéa du présent article et le montant de la charge comptable.
+
+NOTA:
+Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.

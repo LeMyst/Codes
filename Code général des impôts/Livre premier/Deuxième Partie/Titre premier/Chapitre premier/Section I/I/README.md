@@ -1,0 +1,1 @@
+I : Répartition des ressources

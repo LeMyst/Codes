@@ -1,0 +1,1 @@
+A : Propriétés imposables

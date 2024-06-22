@@ -1,0 +1,1 @@
+Section IV bis : Dispositions communes à la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et à la taxe annuelle sur les locaux vacants

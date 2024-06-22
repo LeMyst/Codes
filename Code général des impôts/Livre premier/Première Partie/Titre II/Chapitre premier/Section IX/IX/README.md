@@ -1,0 +1,1 @@
+IX : Régimes particuliers applicables aux assujettis qui fournissent des prestations de services à des personnes non assujetties ou qui effectuent des ventes à distance de biens ou certaines livraisons intérieures de biens

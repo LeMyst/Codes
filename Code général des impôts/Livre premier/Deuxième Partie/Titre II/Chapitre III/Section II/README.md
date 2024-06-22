@@ -1,0 +1,1 @@
+Section II : Autres taxes

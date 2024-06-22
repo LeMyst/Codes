@@ -1,0 +1,1 @@
+Section II ter : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement perçue dans les départements des Bouches-du-Rhône, du Var et des Alpes-Maritimes

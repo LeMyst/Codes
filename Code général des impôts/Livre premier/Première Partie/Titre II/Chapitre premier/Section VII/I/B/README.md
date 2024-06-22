@@ -1,0 +1,1 @@
+B : Déclarations de recettes

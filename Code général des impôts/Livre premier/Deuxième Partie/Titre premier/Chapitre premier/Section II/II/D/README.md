@@ -1,0 +1,1 @@
+D : Base d'imposition

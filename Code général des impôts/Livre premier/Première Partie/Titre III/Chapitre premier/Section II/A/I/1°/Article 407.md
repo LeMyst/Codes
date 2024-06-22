@@ -1,0 +1,5 @@
+# Article 407
+
+Les déclarations de récolte, de production et de stock prévues par la réglementation européenne prise pour l'application du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil sont obligatoires et souscrites auprès de l'autorité compétente par les personnes et dans des conditions prévues par la réglementation européenne et selon des modalités précisées par décret.
+
+A compter du 1er janvier 2017, les déclarations mentionnées au premier alinéa ainsi que les déclarations des opérations d'enrichissement, d'acidification, de désacidification ou de concentration des vins prévues au point 4 de la section D de la partie I de l'annexe VIII au règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil sont souscrites par voie électronique. ;

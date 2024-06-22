@@ -1,0 +1,1 @@
+B : Régime particulier applicable aux ventes à distance intracommunautaires de biens, aux livraisons de biens effectuées dans un Etat membre par des interfaces électroniques facilitant ces livraisons et aux services fournis par des assujettis établis sur le territoire de l'Union européenne, mais non dans l'Etat membre de consommation

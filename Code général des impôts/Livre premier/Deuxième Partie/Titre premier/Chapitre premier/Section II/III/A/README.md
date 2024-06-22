@@ -1,0 +1,1 @@
+A : Lieu d'imposition

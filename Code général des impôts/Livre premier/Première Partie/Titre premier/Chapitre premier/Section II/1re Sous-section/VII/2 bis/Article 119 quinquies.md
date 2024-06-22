@@ -1,0 +1,12 @@
+# Article 119 quinquies
+
+Les retenues ou prélèvements à la source prévus aux articles 119 bis, 182 A bis, 182 B, 244 bis, 244 bis A et 244 bis B ne sont pas applicables aux revenus et profits perçus ou réalisés par une personne morale qui justifie auprès du débiteur ou de la personne qui assure le paiement de ces revenus qu'elle remplit, au titre de l'exercice au cours duquel elle les perçoit ou les réalise, les conditions suivantes :
+
+1° Son siège et, le cas échéant, l'établissement stable dans le résultat duquel les revenus et profits sont inclus sont situés dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ainsi qu'une convention d'assistance mutuelle en matière de recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures et n'étant pas non coopératif au sens de l'article 238-0 A ou, pour les retenues à la source prévues à l'article 119 bis, dans un Etat non membre de l'Union européenne ou qui n'est pas un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France les conventions mentionnées au présent 1°, sous réserve que cet Etat ne soit pas non coopératif au sens de l'article 238-0 A et que la participation détenue dans la société ou l'organisme distributeur ne permette pas au bénéficiaire de participer de manière effective à la gestion ou au contrôle de cette société ou de cet organisme ;
+
+2° Son résultat fiscal ou, le cas échéant, celui de l'établissement stable dans le résultat duquel les revenus et profits sont inclus, calculé selon les règles de l'Etat ou du territoire où est situé son siège ou l'établissement stable, est déficitaire ;
+
+3° Elle fait, à la date de la perception du revenu ou de la réalisation du profit, l'objet d'une procédure comparable à celle mentionnée à l'article L. 640-1 du code de commerce. A défaut d'existence d'une telle procédure, elle est, à cette date, en état de cessation des paiements et son redressement est manifestement impossible.
+
+NOTA:
+Conformément au II de l'article 42 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.

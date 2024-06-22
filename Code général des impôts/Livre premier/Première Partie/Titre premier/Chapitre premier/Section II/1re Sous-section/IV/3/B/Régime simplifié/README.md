@@ -1,0 +1,1 @@
+Régime simplifié

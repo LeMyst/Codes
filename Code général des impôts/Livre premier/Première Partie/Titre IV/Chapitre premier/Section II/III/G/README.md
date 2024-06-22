@@ -1,0 +1,1 @@
+G : Autres biens mobiliers

@@ -1,1 +1,1 @@
-Sous-section 1 : Brigade des sapeurs-pompiers de Paris
+Sous-section 1 : Brigade de sapeurs-pompiers de Paris

@@ -4,7 +4,4 @@ Sur les emprises des aérodromes de Paris-Charles de Gaulle, du Bourget et de Pa
 
 Sur ces emprises, le commandement des opérations de secours relève du général, commandant la brigade de sapeurs-pompiers de Paris, ou, en son absence, d'un officier, sous-officier ou gradé de la brigade ou des services départementaux d'incendie et de secours concernés dans les conditions fixées par le règlement mentionné au premier alinéa du présent article.
 
-Le général, commandant la brigade de sapeurs-pompiers de Paris, exerce ses compétences sans préjudice de celles confiées par le code de l'aviation civile à l'exploitant d'aérodrome dans le domaine du service de sauvetage et de la lutte contre les incendies d'aéronefs, conformément aux mesures de coordination arrêtées par le préfet dans le règlement mentionné au premier alinéa du présent article.
-
-NOTA:
-Conformément à l'article 11 du décret n° 2017-567 du 19 avril 2017, les dispositions du présent décret, en tant qu'elles concernent l'emprise de l'aérodrome de Paris-Orly, entrent en vigueur à compter du 1er janvier 2018.
+Le général, commandant la brigade de sapeurs-pompiers de Paris, exerce ses compétences sans préjudice de celles confiées par le code des transports à l'exploitant d'aérodrome dans le domaine du service de sauvetage et de la lutte contre les incendies d'aéronefs, conformément aux mesures de coordination arrêtées par le préfet dans le règlement mentionné au premier alinéa du présent article.

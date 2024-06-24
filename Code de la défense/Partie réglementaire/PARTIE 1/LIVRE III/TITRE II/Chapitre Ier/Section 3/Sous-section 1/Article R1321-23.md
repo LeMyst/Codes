@@ -9,3 +9,5 @@ Pour les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-
 Le préfet de police arrête le schéma interdépartemental, sur proposition du général commandant la brigade de sapeurs-pompiers de Paris et après consultation des préfets des départements mentionnés à l'alinéa précédent.
 
 Le schéma interdépartemental d'analyse et de couverture des risques est publié au recueil des actes administratifs des départements concernés.
+
+La révision du schéma interdépartemental d'analyse et de couverture des risques intervient tous les cinq ans. Elle est précédée d'une évaluation de la mise en œuvre du précédent schéma.

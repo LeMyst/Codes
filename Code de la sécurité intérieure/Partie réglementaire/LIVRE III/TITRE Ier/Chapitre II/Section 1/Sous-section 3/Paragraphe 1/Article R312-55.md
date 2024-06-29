@@ -1,0 +1,5 @@
+# Article R312-55
+
+Toute personne mise en possession d'une arme ou d'un élément d'arme de la catégorie C, trouvés par elle ou qui lui sont dévolus par voie successorale et qu'elle souhaite conserver, déclare cette mise en possession sans délai par l'intermédiaire du compte individualisé mentionné à l'article R. 312-91. Cette déclaration comporte les informations fixées par arrêté du ministre de l'intérieur.
+
+Le certificat médical mentionné à l'article L. 312-6, datant de moins d'un mois, attestant que l'état de santé physique et psychique du déclarant n'est pas incompatible avec la détention de cette arme ou élément d'arme, est joint à la déclaration dans un délai de trois mois. A défaut, le préfet en ordonne le dessaisissement dans les conditions prévues aux articles R. 312-74 et R. 312-75. La présence de la copie de l'un des titres prévus au premier alinéa de l'article R. 312-53 dans le compte individualisé mentionné à l'article R. 312-91 supplée à la production du certificat médical mentionné à l'article L. 312-6.

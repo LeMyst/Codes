@@ -1,6 +1,6 @@
 # Article R861-16-1
 
-I.-La décision d'attribution de la protection complémentaire en matière de santé est prise par le directeur de l'organisme chargé de la prise en charge des frais de santé. Pour les assurés mentionnés au deuxième alinéa de l'article L. 160-17 et aux articles L. 712-1 et L. 712-2, la décision est prise par le directeur de la caisse d'assurance maladie de rattachement.
+I.-La décision d'attribution de la protection complémentaire en matière de santé est prise par le directeur de l'organisme chargé de la prise en charge des frais de santé. Pour les assurés mentionnés au deuxième alinéa de l'article L. 160-17, la décision est prise par le directeur de la caisse d'assurance maladie de rattachement.
 
 II.-Le directeur mentionné au I notifie à l'intéressé sa décision dans un délai de deux mois à compter de la réception par la caisse compétente du dossier complet de demande d'attribution de la protection complémentaire.
 

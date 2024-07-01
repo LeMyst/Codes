@@ -6,7 +6,11 @@ Cette fiche mentionne :
 
 1° Le montant total de la réserve spéciale de participation pour l'exercice écoulé ;
 
-2° Le montant des droits attribués à l'intéressé ;
+2° Le montant total des droits attribués à l'intéressé ;
+
+2° bis Le cas échéant, le montant des sommes reçues au titre des avances ;
+
+2° ter En cas de versement d'avances, le montant des droits attribués à l'intéressé restant à percevoir ou à reverser à l'employeur ;
 
 3° La retenue opérée au titre de la contribution sociale généralisée et de la contribution au remboursement de la dette sociale ;
 

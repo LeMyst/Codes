@@ -8,7 +8,11 @@ Cette fiche mentionne :
 
 2° Le montant moyen perçu par les bénéficiaires ;
 
-3° Le montant des droits attribués à l'intéressé ;
+3° Le montant total des droits attribués à l'intéressé ;
+
+3° bis Le cas échéant, le montant des sommes reçues au titre des avances ;
+
+3° ter En cas de versement d'avances, le montant des droits attribués à l'intéressé restant à percevoir ou à reverser à l'employeur ;
 
 4° La retenue opérée au titre de la contribution sociale généralisée et de la contribution au remboursement de la dette sociale ;
 

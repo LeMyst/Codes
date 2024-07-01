@@ -1,6 +1,6 @@
 # Article R5132-2
 
-Après consultation du conseil départemental de l'insertion par l'activité économique, et en tenant compte de la qualité du projet d'insertion proposé et de l'offre existante pour assurer un développement équilibré des actions d'insertion, le préfet peut conclure les conventions prévues à l'article L. 5132-2 avec des entreprises candidates au conventionnement d'entreprise d'insertion, quelle que soit leur forme juridique, contribuant à l'insertion professionnelle des personnes mentionnées à l'article L. 5132-1.
+Après consultation de la commission spécialisée du comité départemental pour l'emploi mentionnée à l'article R. 5311-26, et en tenant compte de la qualité du projet d'insertion proposé et de l'offre existante pour assurer un développement équilibré des actions d'insertion, le préfet peut conclure les conventions prévues à l'article L. 5132-2 avec des entreprises candidates au conventionnement d'entreprise d'insertion, quelle que soit leur forme juridique, contribuant à l'insertion professionnelle des personnes mentionnées à l'article L. 5132-1.
 
 La convention conclue avec une entreprise d'insertion comporte :
 
@@ -10,7 +10,7 @@ a) Les caractéristiques générales de la structure ;
 
 b) Les caractéristiques sociales et professionnelles des personnes en difficulté embauchées ou des personnes détenues ayant signé un contrat d'emploi pénitentiaire mentionné à l'article L. 412-3 du code pénitentiaire ;
 
-c) Les modalités d'accompagnement des salariés en insertion et de collaboration avec, d'une part, Pôle emploi et, d'autre part, les organismes chargés de l'insertion sociale et professionnelle de ces personnes ainsi que, le cas échéant, la mention de la détention d'un label délivré par un tiers certificateur permettant d'attester de la qualité du projet d'insertion de l'entreprise d'insertion ;
+c) Les modalités d'accompagnement des salariés en insertion et de collaboration avec, d'une part, l'opérateur France Travail et, d'autre part, les organismes chargés de l'insertion sociale et professionnelle de ces personnes ainsi que, le cas échéant, la mention de la détention d'un label délivré par un tiers certificateur permettant d'attester de la qualité du projet d'insertion de l'entreprise d'insertion ;
 
 d) Le cas échéant, la mention de l'existence d'une autre convention au titre d'une structure de l'insertion par l'activité économique ;
 
@@ -26,7 +26,7 @@ g) Le cas échéant, le champ territorial d'intervention de l'entreprise d'inser
 
 4° Les engagements d'insertion pris par la structure et les indicateurs destinés à rendre compte des actions et des résultats ;
 
-5° Les modalités de dépôt des offres d'emploi auprès de Pôle emploi ;
+5° Les modalités de dépôt des offres d'emploi auprès de l'opérateur France Travail ;
 
 6° La nature et le montant des autres aides publiques directes ou privées dont la structure a bénéficié les années antérieures ;
 
@@ -39,4 +39,10 @@ g) Le cas échéant, le champ territorial d'intervention de l'entreprise d'inser
 10° Lorsque l'entreprise d'insertion exerce son activité dans un établissement pénitentiaire, le contrat d'implantation conclu à ce titre.
 
 NOTA:
-Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.
+Conformément au I de l’article 6 du décret n° 2024-560 du 18 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+
+Conformément au II de l’article 6 du décret n° 2024-560 du 18 juin 2024, par dérogation au I précité, dans les collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, ces mêmes dispositions entrent en vigueur dans les conditions prévues par l'ordonnance mentionnée à l'article 20 de la loi du 18 décembre 2023 n° 2018-1198 du 20 décembre 2018 et son décret d'application.
+
+Conformément au III de l’article 6 du décret n° 2024-560 du 18 juin 2024, les demandes d'avis en cours d'examen par les commissions départementales de l'emploi et de l'insertion à la date d'entrée en vigueur dudit décret sont transmises aux comités départementaux pour l'emploi, pour examen par la commission spécialisée mentionnée à l'article R. 5311-26.
+
+Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.

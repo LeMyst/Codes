@@ -1,1 +1,1 @@
-Chapitre VI : Conseil d'orientation de la participation, de l'intéressement de l'épargne salariale et de l'actionnariat salarié.
+Chapitre VI : Partage de la valeur en cas d'augmentation exceptionnelle du bénéfice fiscal

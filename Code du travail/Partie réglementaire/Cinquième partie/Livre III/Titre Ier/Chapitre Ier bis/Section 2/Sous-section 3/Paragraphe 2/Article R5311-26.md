@@ -1,0 +1,14 @@
+# Article R5311-26
+
+Le comité départemental pour l'emploi comprend une commission spécialisée compétente dans le domaine de l'inclusion et de l'insertion par l'activité économique. Celle-ci a notamment pour missions :
+
+1° De déterminer la nature des actions à mener en vue de promouvoir les actions d'insertion par l'activité économique. A cette fin, elle élabore un plan d'action pour l'insertion par l'activité économique et veille à la cohérence avec les autres dispositifs concourant à l'insertion, notamment les programmes départementaux d'insertion mentionnés à l'article L. 263-1 du code de l'action sociale et des familles, les plans locaux pluriannuels pour l'insertion et l'emploi mentionnés à l'article L. 5131-2 du présent code et les contrats de ville mentionnés à l'article 6 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
+
+2° D'émettre les avis relatifs aux demandes de conventionnement des employeurs mentionnés à l'article L. 5132-2 et aux demandes de concours du fonds de développement de l'inclusion prévu à l'article R. 5132-44.
+
+NOTA:
+Conformément au I de l’article 6 du décret n° 2024-560 du 18 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+
+Conformément au II de l’article 6 du décret n° 2024-560 du 18 juin 2024, par dérogation au I précité, dans les collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, ces mêmes dispositions entrent en vigueur dans les conditions prévues par l'ordonnance mentionnée à l'article 20 de la loi du 18 décembre 2023 n° 2018-1198 du 20 décembre 2018 et son décret d'application.
+
+Conformément au III de l’article 6 du décret n° 2024-560 du 18 juin 2024, les demandes d'avis en cours d'examen par les commissions départementales de l'emploi et de l'insertion à la date d'entrée en vigueur dudit décret sont transmises aux comités départementaux pour l'emploi, pour examen par la commission spécialisée mentionnée à l'article R. 5311-26.

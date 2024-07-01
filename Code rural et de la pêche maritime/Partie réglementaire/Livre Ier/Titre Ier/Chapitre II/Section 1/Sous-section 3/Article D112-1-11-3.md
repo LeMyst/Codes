@@ -12,7 +12,7 @@ I.-En Corse, la commission territoriale de la préservation des espaces naturels
 
 5° Le directeur de chacune des directions départementales des territoires et de la mer ;
 
-6° Le président de la chambre d'agriculture de Corse et les présidents de chacune des chambres départementales d'agriculture ;
+6° Le président de la chambre d'agriculture de région Corse ;
 
 7° Par département, le président de chacune des organisations syndicales départementales représentatives au niveau départemental habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990 relatif à la représentation des organisations syndicales d'exploitants agricoles au sein de certains organismes ou commissions ;
 

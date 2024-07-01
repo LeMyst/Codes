@@ -1,0 +1,8 @@
+# Article L211-2
+
+Chaque année, les autorités compétentes de l'Etat arrêtent la structure pédagogique générale des établissements d'enseignement du second degré en tenant compte du schéma prévisionnel des formations mentionné à l'article L. 214-1 et de la carte des formations professionnelles initiales définie à l'article L. 214-13-1. Cet arrêté est pris après concertation avec la région et recueil de son avis. Le représentant de l'Etat arrête la liste annuelle des opérations de construction ou d'extension des établissements que l'Etat s'engage à doter des postes qu'il juge indispensables à leur fonctionnement administratif et pédagogique. Cette liste est arrêtée compte tenu du programme prévisionnel des investissements et des engagements conclus dans le cadre du contrat de plan régional de développement des formations et de l'orientation professionnelles et de la convention annuelle définis aux articles L. 214-13 et L. 214-13-1, et après accord de la commune d'implantation et de la collectivité compétente.
+
+Dans France ruralités revitalisation mentionnées aux II et III de l'article 44 quindecies A du code général des impôts, les services compétents de l'Etat engagent, avant toute révision de la carte des formations du second degré, une concertation, au sein du conseil académique de l'éducation nationale ou, pour les formations assurées en collège, au sein du conseil départemental de l'éducation nationale, avec les élus et les représentants des collectivités territoriales, des professeurs, des parents d'élèves et des secteurs économiques locaux concernés par cette révision.
+
+NOTA:
+Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.

@@ -4,7 +4,7 @@ I.-En application du deuxième paragraphe de l'article 26 du règlement (UE) 202
 
 II.-Outre l'utilisation prévue par les quatrième et cinquième paragraphes de l'article 26 du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021, les réserves de chaque groupe de territoires permettent :
 
-1° D'attribuer des droits au paiement au bénéfice d'agriculteurs dont une partie de l'exploitation a fait l'objet d'une occupation temporaire dans le cadre de grands travaux, afin de pallier l'absence d'attribution ou la perte de droits à paiement ;
+1° D'attribuer des droits au paiement au bénéfice d'agriculteurs dont une partie de l'exploitation a fait l'objet, dans le cadre de grands travaux, d'une occupation temporaire ou d'une occupation définitive ayant donné lieu à compensation foncière, afin de pallier l'absence d'attribution ou la perte de droits au paiement ;
 
 2° D'attribuer des droits au paiement au bénéfice d'agriculteurs présents en 2013 ou 2014 ayant déposé une demande d'aide au paiement de base en 2015 pour des surfaces présentes en 2015, n'ayant pas obtenu de droits au paiement en 2015 au motif qu'ils n'étaient pas agriculteurs actifs ou en raison de l'absence de la continuité du contrôle de l'exploitation et n'ayant jamais détenu de DPB de 2015 à 2022 ;
 

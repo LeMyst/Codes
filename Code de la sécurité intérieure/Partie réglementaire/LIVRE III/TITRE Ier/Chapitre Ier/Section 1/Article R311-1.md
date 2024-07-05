@@ -2,7 +2,7 @@
 
 On entend par :
 
-I.-Armes par nature et munitions :
+I. - Armes par nature et munitions :
 
 1° (Abrogé)
 
@@ -12,7 +12,7 @@ I.-Armes par nature et munitions :
 
 4° Arme à canon rayé : arme dont l'âme du canon n'est pas de section circulaire et présente une ou plusieurs rayures conventionnelles ou polygonales destinées à donner un mouvement de rotation à un projectile unique ou multiple ;
 
-5° Arme à feu : arme qui tire un projectile par l'action de la combustion d'une charge propulsive ;
+5° Arme à feu : arme qui tire un projectile par l'action de la combustion d'une charge propulsive ou qui peut être aisément transformée à cette fin ;
 
 6° Arme à répétition automatique : toute arme qui, après chaque coup tiré, se recharge automatiquement et qui peut, par une seule pression sur la détente, lâcher une rafale de plusieurs coups ;
 
@@ -68,13 +68,13 @@ Les munitions à chargement d'emploi particulier, explosives ou incendiaires, re
 
 27° Systèmes d'alimentation des armes : constitués par les magasins faisant partie intégrante de l'arme, tubulaires ou intégrés dans la boîte de culasse, et les magasins indépendants de l'arme, réservoirs, chargeurs et bandes, fixes ou mobiles pendant le tir.
 
-II.-Autres armes :
+II. - Autres armes :
 
-1° Arme à blanc : objet ou dispositif ayant ou non l'apparence d'une arme à feu conçu et destiné par la percussion de la munition à provoquer uniquement un effet sonore et dont les caractéristiques excluent le tir ou la conversion sans recourir à un procédé industriel pour le tir de tout projectile (arme de starter) ;
+1° (Abrogé) ;
 
-1° bis Arme d'alarme : objet ou dispositif ayant l'apparence d'une arme à feu, conçu uniquement pour le tir de munition à blanc, de produits irritants, d'autres substances actives ou d'articles de signalisation pyrotechnique, dont les caractéristiques excluent le tir ou la conversion pour le tir de tout projectile autre que ceux mentionnés ci-dessus ;
+1° bis Arme d'alarme et de signalisation : dispositif équipé d'un système d'alimentation conçu uniquement pour le tir de munitions à blanc, de produits irritants, d'autres substances actives ou de cartouches de signalisation pyrotechnique, qui ne peut être aisément transformé pour propulser un projectile par l'action d'une charge propulsive et répond aux caractéristiques définies par arrêté conjoint du ministre de l'intérieur et du ministre chargé des douanes ;
 
-2° Arme de signalisation : arme à feu destinée à tirer un dispositif pyrotechnique de signalisation, dont les caractéristiques excluent le tir ou la conversion pour le tir de tout autre projectile ;
+2° (Abrogé) ;
 
 3° Arme de spectacle : toute arme à feu transformée spécifiquement pour le tir de munitions à blanc, notamment lors de représentations théâtrales, de séances de photographies, de tournages de films, d'enregistrement télévisuels, de reconstitutions historiques, de parades, d'évènements sportifs ou de séances d'entraînement, dont les caractéristiques excluent le tir ou la conversion pour le tir de tout projectile. L'arme de spectacle reste classée dans sa catégorie originelle, avant sa transformation ;
 
@@ -92,9 +92,7 @@ II.-Autres armes :
 
 10° Armes qui revêtent une importance historique particulière : armes dont la fabrication est antérieure au 1er janvier 1946 qui ne sont pas des armes historiques au sens des dispositions des e ou g du IV de l'article R. 311-2.
 
-Les caractéristiques mentionnées aux 1° à 3° sont définies par arrêté conjoint du ministre de l'intérieur et du ministre chargé des douanes.
-
-III.-Activités en relation avec les armes :
+III. - Activités en relation avec les armes :
 
 1° Activité d'intermédiation : toute opération à caractère commercial ou à but lucratif dont l'objet consiste, en tout ou partie :
 
@@ -142,10 +140,15 @@ Ce marquage appliqué aux munitions comporte les mentions du nom du fabricant, d
 
 13° Transport d'arme : fait de déplacer une arme en l'ayant auprès de soi et inutilisable immédiatement.
 
-IV.-Ne sont pas des armes au sens du présent titre :
+IV. - Ne sont pas des armes au sens du présent titre :
 
 1° Les objets tirant un projectile ou projetant des gaz lorsqu'ils développent à la bouche une énergie inférieure à 2 joules ;
 
 2° Les réducteurs de son constituant des pièces additionnelles ne modifiant pas le fonctionnement de l'arme ;
 
 3° Les objets conçus aux fins de sauvetage, d'abattage, de pêche au harpon ou destinés à des fins industrielles ou techniques, à condition qu'ils ne puissent être utilisés que pour ces usages précis.
+
+NOTA:
+Conformément au I de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+
+Conformément au III de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions sont applicables en Polynésie française et en Nouvelle-Calédonie.

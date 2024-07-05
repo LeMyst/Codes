@@ -162,7 +162,7 @@ Les armes soumises à déclaration pour l'acquisition et la détention, qui rel�
 
 a) A répétition semi-automatique dont le projectile a un diamètre inférieur à 20 mm équipées de systèmes d'alimentation inamovibles permettant le tir de 3 munitions au plus sans qu'intervienne le réapprovisionnement ;
 
-b) A répétition manuelle dont le projectile a un diamètre inférieur à 20 mm équipées de systèmes d'alimentation permettant le tir de 11 munitions au plus, sans qu'intervienne le réapprovisionnement, ainsi que les systèmes d'alimentation de ces armes ;
+b) A répétition manuelle dont le projectile a un diamètre inférieur à 20 mm équipées de systèmes d'alimentation permettant le tir de 11 munitions au plus, sans qu'intervienne le réapprovisionnement ;
 
 c) A un coup par canon ;
 
@@ -191,6 +191,8 @@ d) A répétition manuelle à canon rayé munies d'un dispositif de rechargement
 - des munitions et éléments classés au 6° du présent III ;
 
 - des munitions et éléments de munitions classés aux j et j bis du IV ;
+
+12° Armes d'alarme et de signalisation ;
 
 IV. - Armes de catégorie D :
 
@@ -224,7 +226,7 @@ h) Armes et lanceurs dont le projectile est propulsé de manière non pyrotechni
 
 h bis) Projectiles conçus pour les armes et lanceurs classés au h du présent IV et au 4° du III, à l'exception de ceux classés au 6°, 7°, 8° et 11° du III ;
 
-i) Armes conçues exclusivement pour le tir de munitions à blanc, à gaz ou de signalisation et non convertibles pour le tir d'autres projectiles et les munitions de ces armes ;
+i) Munitions utilisables dans les armes d'alarme et de signalisation et éléments de ces munitions ;
 
 j) Eléments des munitions sans étui métallique conçus pour les armes à poudre noire classées aux e et f du présent IV ;
 
@@ -233,3 +235,8 @@ j bis) Munitions à étui ou culot métallique à percussion centrale chargées 
 k) Matériels de guerre dont le modèle est antérieur au 1er janvier 1946, à l'exception des armes mentionnées au 9° du III, et dont la neutralisation est effectivement garantie par l'application de procédés techniques définis par arrêté du ministre de la défense ;
 
 l) Matériels de guerre dont le modèle est postérieur au 1er janvier 1946 dont la neutralisation est effectivement garantie dans les conditions prévues au k et qui sont énumérés par arrêté du ministre de la défense.
+
+NOTA:
+Conformément au I de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+
+Conformément au III de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions sont applicables en Polynésie française et en Nouvelle-Calédonie.

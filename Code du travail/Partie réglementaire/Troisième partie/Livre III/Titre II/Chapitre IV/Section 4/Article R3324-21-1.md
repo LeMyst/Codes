@@ -12,6 +12,8 @@ c) Le délai dans lequel il peut formuler sa demande ;
 
 d) L'affectation d'une quote-part de ces sommes au plan d'épargne pour la retraite collectif ou au plan d'épargne retraite d'entreprise collectif, en cas d'absence de réponse de sa part, conformément aux dispositions de l'article L. 3424-12 ;
 
+e) En cas de versement d'avance, les modalités de recueil de l'accord du salarié et l'impossibilité de débloquer le trop-perçu s'il a été affecté à un plan d'épargne salariale ou son reversement intégral sous la forme d'une retenue sur salaire, en l'absence d'une telle affectation.
+
 La demande du bénéficiaire est formulée dans un délai de quinze jours à compter de la date à laquelle il a été informé du montant qui lui est attribué. L'accord précise la date à laquelle le bénéficiaire est présumé avoir été informé.
 
 En l'absence de stipulation conventionnelle, le bénéficiaire formule sa demande dans un délai de quinze jours à compter de la réception de la lettre recommandée avec avis de réception ou remise contre récépissé l'informant du montant qui lui est attribué et du montant dont il peut demander en tout ou partie le versement.

@@ -24,7 +24,19 @@ b) Soit lorsque les faits relèvent de l'article 132-80 du code pénal et donnen
 
 8° L'affectation des sommes épargnées à l'acquisition ou agrandissement de la résidence principale emportant création de surface habitable nouvelle telle que définie à l'article R. 156-1 du code de la construction et de l'habitation, sous réserve de l'existence d'un permis de construire ou d'une déclaration préalable de travaux, ou à la remise en état de la résidence principale endommagée à la suite d'une catastrophe naturelle reconnue par arrêté ministériel ;
 
-9° La situation de surendettement de l'intéressé définie à l'article L. 711-1 du code de la consommation, sur demande adressée à l'organisme gestionnaire des fonds ou à l'employeur, soit par le président de la commission de surendettement des particuliers, soit par le juge lorsque le déblocage des droits paraît nécessaire à l'apurement du passif de l'intéressé.
+8° bis L'affectation des sommes épargnées aux travaux de rénovation énergétique de la résidence principale mentionnés aux articles D. 319-16 et D. 319-17 du code de la construction et de l'habitation ;
+
+9° La situation de surendettement de l'intéressé définie à l'article L. 711-1 du code de la consommation, sur demande adressée à l'organisme gestionnaire des fonds ou à l'employeur, soit par le président de la commission de surendettement des particuliers, soit par le juge lorsque le déblocage des droits paraît nécessaire à l'apurement du passif de l'intéressé ;
+
+10° L'activité de proche aidant exercée par l'intéressé, son conjoint ou son partenaire lié par un pacte civil de solidarité auprès d'un proche tel que défini aux articles L. 3142-16 et L. 3142-17 du code du travail ;
+
+11° L'achat d'un véhicule qui répond à l'une des deux conditions suivantes :
+
+a) Il appartient, au sens de l'article R. 311-1 du code de la route, à la catégorie M1, à la catégorie des camionnettes ou à la catégorie des véhicules à moteurs à deux ou trois roues et quadricycles à moteur, et il utilise l'électricité, l'hydrogène ou une combinaison des deux comme source exclusive d'énergie ;
+
+b) Il est un cycle à pédalage assisté, neuf, au sens du point 6.11 de l'article R. 311-1 du code de la route.
 
 NOTA:
-Conformément au I de l'article 2 du décret n° 2020-683 du 4 juin 2020, les dispositions du 3° bis de l'article R. 3324-22 résultant du présent décret sont applicables aux demandes présentées postérieurement à son entrée en vigueur.
+Conformément à l'article 6 du décret n° 2024-690 du 5 juillet 2024, les dispositions du 10° de l'article R. 3324-22 et de l'article R. 3324-23 du code du travail, dans leur rédaction résultant dudit décret, sont applicables aux demandes présentées postérieurement à son entrée en vigueur.
+
+Les dispositions des 8° bis et 11° de l'article R. 3324-22 du même code, dans leur rédaction résultant du décret précité, sont applicables aux faits générateurs postérieurs à son entrée en vigueur.

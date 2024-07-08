@@ -10,7 +10,9 @@ Cette information porte notamment sur :
 
 3° Le délai dans lequel il peut formuler sa demande ;
 
-4° L'affectation de ces sommes au plan d'épargne d'entreprise ou au plan d'épargne interentreprises, dès lors que l'un ou l'autre plan a été mis en place au sein de l'entreprise, en cas d'absence de demande de sa part, conformément aux dispositions de l'article L. 3315-2.
+4° L'affectation de ces sommes au plan d'épargne d'entreprise ou au plan d'épargne interentreprises, dès lors que l'un ou l'autre plan a été mis en place au sein de l'entreprise, en cas d'absence de demande de sa part, conformément aux dispositions de l'article L. 3315-2 ;
+
+5° En cas de versement d'avance, les modalités de recueil de l'accord du salarié et l'impossibilité de débloquer le trop-perçu s'il a été affecté à un plan d'épargne salariale ou son reversement intégral sous la forme d'une retenue sur salaire, en l'absence d'une telle affectation.
 
 II.-La demande du bénéficiaire est formulée dans un délai de quinze jours à compter de la date à laquelle il a été informé du montant qui lui est attribué. L'accord précise la date à laquelle le bénéficiaire est présumé avoir été informé.
 

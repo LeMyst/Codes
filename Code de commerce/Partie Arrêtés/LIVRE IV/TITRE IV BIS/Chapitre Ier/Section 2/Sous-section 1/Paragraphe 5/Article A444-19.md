@@ -15,14 +15,7 @@ Les prestations figurant aux numéros 79 à 92 du tableau 3-1 donnent lieu à la
 | 88 | Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation | 26,87 € |
 | 89 | Dénonciation aux créanciers inscrits valant assignation à comparaître | 26,87 € |
 | 90 | Sommation de prendre communication du cahier des charges | 26,87 € |
-| 91 | Sommation de prendre parti | 26,87 € |
-| 92 | Mise en demeure du locataire d'avoir à justifier qu'il occupe le logement | 32,24 € |
+| 91 | Sommation de prendre parti | 32,24 € |
+| 92 | Mise en demeure du locataire d'avoir à justifier qu'il occupe le logement |  |
 | a) par acte séparé | 53,74 € |
 | b) contenu dans un commandement | 21,50 € |
-
-NOTA:
-Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
-
-1° - Le présent arrêté entre en vigueur le 1er mars 2024.
-
-2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

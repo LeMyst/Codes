@@ -1,8 +1,6 @@
 # Article D731-17
 
-Les revenus professionnels à déclarer correspondent aux revenus définis aux articles L. 731-14 à L. 731-21 du présent code et, pour les revenus imposés au titre de l'article 64 bis du code général des impôts, au montant des recettes afférentes à l'année précédant celle au titre de laquelle les cotisations sont dues.
-
-En cas d'exploitation sous forme sociétaire, les rémunérations soumises à l'impôt sur le revenu dans la catégorie mentionnée à l'article 62 du code général des impôts ainsi que les revenus de capitaux mobiliers définis au 1° du 1 de l'article 109 du code général des impôts doivent être déclarés par les gérants et associés exerçant une activité non salariée agricole, dans les conditions et délais prévus ci-dessus.
+Les revenus professionnels à déclarer pour le calcul des cotisations sociales correspondent aux éléments déterminés en application des articles L. 731-14 et L. 731-15 du présent code et, pour les revenus imposés au titre de l'article 64 bis du code général des impôts, au montant des recettes afférentes à l'année précédant celle au titre de laquelle les cotisations sont dues.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2023-268 du 12 avril 2023, ces dispositions sont applicables aux déclarations transmises à compter de l'année 2023 au titre des revenus de l'année 2022 et des années suivantes.
+Conformément à l’article 6 du décret n° 2024-688 du 5 juillet 2024, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.

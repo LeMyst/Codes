@@ -10,19 +10,31 @@ Les candidatures sont examinées par un jury dans les conditions fixées par arr
 
 Le jury fixe les notes minimales permettant aux candidats d'être admis en deuxième ou en troisième année du premier cycle des formations de médecine, de pharmacie, d'odontologie ou de maïeutique immédiatement après le premier groupe d'épreuves, ainsi que les notes minimales autorisant les autres candidats à se présenter au second groupe d'épreuves ;
 
-2° Un second groupe d'épreuves évalue des compétences transversales. Il comporte une ou plusieurs épreuves orales et peut comporter une ou plusieurs épreuves écrites majoritairement rédactionnelles.
+Les modalités des épreuves du premier groupe sont publiées par les universités dans des conditions prévues par un arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+
+2° Un second groupe d'épreuves évalue des compétences transversales, telles que l'aptitude à l'analyse et à la synthèse, à l'expression orale, à la communication, au travail individuel et collectif, au repérage et à l'exploitation de ressources documentaires, ainsi que des compétences numériques et de traitement de l'information et des données.
+
+Ces épreuves doivent permettre aux candidats de démontrer, à partir de modalités d'évaluation différentes de celles mises en œuvre lors des épreuves du premier groupe, qu'ils disposent des compétences nécessaires pour accéder aux formations de médecine, de pharmacie, d'odontologie ou de maïeutique.
+
+Les épreuves du second groupe sont des épreuves orales, dont le contenu et les modalités sont précisés par arrêté des ministres chargés de l'enseignement supérieur et de la santé et dont la nature et le nombre, compris entre deux et quatre, sont arrêtés par chaque université.
+
+S'il le juge nécessaire, le président de l'université peut nommer des examinateurs adjoints pour participer, avec les membres du jury, à l'évaluation des épreuves du second groupe. Le jury se constitue en groupe d'examinateurs composés d'au moins deux examinateurs choisis parmi les membres du jury ou les examinateurs adjoints. Chaque groupe d'examinateurs comprend au moins un examinateur extérieur à l'université. Les examinateurs adjoints peuvent participer aux délibérations du jury avec voix consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées.
 
 Les épreuves peuvent être communes à plusieurs parcours de formation antérieurs pour l'accès à chacune des formations de médecine, pharmacie, odontologie et maïeutique, et peuvent être communes à plusieurs de ces formations.
 
-Un module de préparation au second groupe d'épreuves est obligatoirement proposé à tout candidat par les universités admettant des étudiants dans les formations de médecine, de pharmacie, d'odontologie ou de maïeutique. Les conditions d'organisation et d'inscription à ce module sont régies par les conventions mentionnées au IV de l'article R. 631-1-1.
+Un module de préparation au second groupe d'épreuves et un module de découverte des métiers de santé sont proposés à tout candidat par les universités comportant une unité de formation et de recherche de médecine, de pharmacie, d'odontologie, une structure de formation en maïeutique ou une composante assurant ces formations au sens de l'article L. 713-4. Les conditions d'organisation et d'inscription à ces modules sont régies par les conventions mentionnées au IV de l'article R. 631-1-1.
 
-L'université détermine pour chaque formation de médecine, pharmacie, odontologie et maïeutique, et pour chaque parcours ou groupe de parcours de formation antérieurs les modalités selon lesquelles les résultats aux deux groupes d'épreuves sont pris en compte pour établir les listes d'admission.
+Les résultats des épreuves du second groupe correspondent à 30 % de la note globale obtenue à l'issue des deux groupes d'épreuves. Une variation de cette pondération peut être prévue par les universités, dans la limite de 5 %.
 
-Le jury établit pour l'admission dans les formations de médecine, de pharmacie, d'odontologie ou de maïeutique, par ordre de mérite, une liste principale et le cas échéant, une liste complémentaire, pour le cas où des vacances viendraient à se produire sur la liste principale. L'université organisatrice assure la publicité des listes principale et complémentaire d'admission, pour chacune des formations par voie électronique sur son site internet.
+Les modalités d'organisation et de déroulement du second groupe d'épreuves sont précisées par un arrêté des ministres chargés de l'enseignement supérieur, de la santé et du ministre de la défense.
+
+Le jury établit, pour l'admission dans les formations de médecine, de pharmacie, d'odontologie ou de maïeutique, par ordre de mérite, une liste principale et, le cas échéant, une liste complémentaire. L'université organisatrice assure la publicité des listes principale et complémentaire d'admission, pour chacune des formations, sur son site internet.
+
+Lorsque le nombre de candidats ou leurs résultats ne permet pas de remplir la totalité de la capacité d'accueil d'une formation de médecine, de pharmacie, d'odontologie et de maïeutique pour un groupe de parcours de formation antérieur, l'admission peut être proposée aux candidats figurant sur une liste complémentaire d'un autre groupe de parcours, dans le respect des pourcentages prévus au III de l'article R. 631-1-1.
 
 Les étudiants sont admis conformément aux capacités d'accueil fixées par l'université en fonction de leur parcours ou groupe de parcours de formation antérieur.
 
-S'il le juge nécessaire, le président de l'université peut nommer des examinateurs adjoints pour participer, avec les membres du jury, à l'évaluation des épreuves du second groupe. Les examinateurs adjoints peuvent participer aux délibérations du jury avec voix consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées.
+Les conditions dans lesquelles les candidats confirment leur admission en formation de santé ou y renoncent sont fixées par arrêté des ministres chargés de l'enseignement supérieur, de la santé et du ministre de la défense.
 
 NOTA:
-Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.
+Conformément à l'article 6 du décret n° 2024-747 du 5 juillet 2024, ces dispositions entrent en vigueur à compter de la prochaine rentrée universitaire.

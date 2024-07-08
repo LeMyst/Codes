@@ -7,7 +7,11 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 612-32-6 | Résultant du décret n° 2017-851 du 6 mai 2017 |
 | R. 612-36-3 | Résultant du décret n° 2021-629 du 19 mai 2021 |
 | R. 613-32 à R. 613-37 | Résultant du décret n° 2023-1275 du 27 décembre 2023 |
-| R. 631-1 à R. 631-1-5 R. 631-1-6 à R. 631-1-12 R. 631-21-1 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+| R. 631-1 à R. 631-1-2 | Résultant du décret n° 2024-747 du 5 juillet 2024 |
+| R. 631-1-3 à R. 631-1-5 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+| R. 631-1-6 | Résultant du décret n° 2024-747 du 5 juillet 2024 |
+| R. 631-1-7 à R. 631-1-12 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+|  |  |
 | R. 632-1 R. 632-1-1, 1er et 2e alinéas R. 632-1-2 à R. 632-1-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
 | R. 632-2 à R. 632-2-10 R. 632-10 R. 632-11, 1er, 3e et 4e alinéas | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-2-10 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
@@ -127,4 +131,4 @@ d) Au premier alinéa du III, les mots : “ tel que défini à l'article L. 114
 e) Au IV, les mots : “ que la mise en disponibilité prévue à l'article R. 6153-26 du code de la santé publique ” sont remplacés par les mots : “ qu'une mise en disponibilité régulièrement autorisée par le directeur général du centre hospitalier universitaire de rattachement ”.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2022-1559 du 13 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l'article 6 du décret n° 2024-747 du 5 juillet 2024, ces dispositions entrent en vigueur à compter de la prochaine rentrée universitaire.

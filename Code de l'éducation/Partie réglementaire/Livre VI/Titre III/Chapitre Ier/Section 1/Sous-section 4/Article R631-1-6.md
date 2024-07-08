@@ -34,7 +34,7 @@ Les objectifs pluriannuels d'admission en première année du deuxième cycle de
 
 2° Les capacités de formation, tant pour la formation théorique que pour la formation pratique et la formation en stage des étudiants en veillant à prendre en compte les objectifs nationaux de diversification des lieux de stages et toutes les modalités d'encadrement susceptibles d'être mises en œuvre.
 
-III.-Au regard des objectifs mentionnés au I et au II, et de leurs capacités de formation, les universités fixent annuellement, pour chacune des formations de médecine, de pharmacie, d'odontologie et de maïeutique, leur capacité d'accueil d'étudiants en deuxième et troisième années du premier cycle.
+III.-Au regard des objectifs mentionnés au I et au II et de leurs capacités de formation, les universités déterminent avant le 1er octobre de chaque année leur capacité d'accueil pour l'année universitaire suivante en deuxième et troisième années du premier cycle pour chacune des formations de médecine, de pharmacie, d'odontologie et de maïeutique.
 
 Ces capacités d'accueil prennent en compte la situation des étudiants issus de l'ensemble des parcours de formation antérieurs mentionnés au I de l'article R. 631-1 du présent code ou des dispositifs d'accès mentionnés au II de ce même article et des étudiants mentionnés à la sous-section 3 de la présente section.
 
@@ -42,5 +42,11 @@ Pour les universités organisant un premier cycle d'une des formations de médec
 
 IV.-Les universités fixent les capacités d'accueil en deuxième ou en troisième année du premier cycle pour l'année universitaire suivante, ainsi que leur prospective de capacité d'accueil pour les cinq années suivantes. Ces propositions sont transmises à l'Observatoire national de la démographie des professions de santé.
 
+V.-Pour le suivi de l'organisation des formations, et la mise en œuvre des dispositions du V de l'article L. 612-3, les universités proposant les formations de médecine, pharmacie, odontologie et les structures de formation en maïeutique communiquent chaque année au ministre chargé de l'enseignement supérieur, selon le calendrier qu'il fixe, les informations sur les parcours de formation mis en place en vue de préparer une admission dans les formations de médecine, de pharmacie, d'odontologie ou de maïeutique.
+
+Ces mêmes établissements communiquent par ailleurs au ministre chargé de l'enseignement supérieur un bilan détaillé du nombre de places offertes pour l'accès en deuxième ou troisième année du premier cycle des formations de médecine, de pharmacie, d'odontologie ou de maïeutique ainsi que du nombre de places pourvues par parcours d'origine et par filière.
+
+Une commission d'appui ayant pour objectif de s'assurer du suivi sur le plan réglementaire et pédagogique de la mise en œuvre de la réforme de l'accès au premier cycle des formations de médecine, de pharmacie, d'odontologie ou de maïeutique et d'assurer la diffusion auprès du public des informations sur les modalités de cette mise en œuvre, est installée au sein des universités dans les conditions prévues par un arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+
 NOTA:
-Aux termes du I de l'article 6 du décret n° 2019-1125 du 4 novembre 2019, les présentes dispositions sont applicables à compter de la rentrée universitaire 2020.
+Conformément à l'article 6 du décret n° 2024-747 du 5 juillet 2024, ces dispositions entrent en vigueur à compter de la prochaine rentrée universitaire.

@@ -13,7 +13,11 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 613-35 | Résultant du décret n° 2017-1135 du 4 juillet 2017 |
 | R. 613-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 613-37 | Résultant du décret n° 2019-1119 du 31 octobre 2019 |
-| R. 631-1 à R. 631-1-5 R. 631-1-6 à R. 631-1-12 R. 631-21-1 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+| R. 631-1 à R. 631-1-2 | Résultant du décret n° 2024-747 du 5 juillet 2024 |
+| R. 631-1-3 à R. 631-1-5 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+| R. 631-1-6 | Résultant du décret n° 2024-747 du 5 juillet 2024 |
+| R. 631-1-7 à R. 631-1-12 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
+| R. 631-21-1 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
 | R. 632-1 R. 632-1-1, 1er et 2e alinéas R. 632-1-2 à R. 632-1-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
 | R. 632-2 à R. 632-2-9 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-2-10 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
@@ -132,3 +136,6 @@ c) Au premier alinéa du II et au deuxième alinéa du III, la deuxième phrase 
 d) Au premier alinéa du III, les mots : “ tel que défini à l'article L. 114 du code de l'action sociale et des familles ” sont supprimés ;
 
 e) Au IV, les mots : “ que la mise en disponibilité prévue à l'article R. 6153-26 du code de la santé publique ” sont remplacés par les mots : “ qu'une mise en disponibilité régulièrement autorisée par le directeur général du centre hospitalier universitaire de rattachement ”.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2024-747 du 5 juillet 2024, ces dispositions entrent en vigueur à compter de la prochaine rentrée universitaire.

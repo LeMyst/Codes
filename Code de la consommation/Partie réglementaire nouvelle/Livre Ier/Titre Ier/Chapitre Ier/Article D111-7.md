@@ -1,15 +1,41 @@
 # Article D111-7
 
-I.-Tout opérateur de plateforme en ligne mentionné au I de l'article L. 111-7 précise dans une rubrique spécifique les modalités de référencement, déréférencement et de classement.
+I.- Tout fournisseur de comparateur en ligne précise dans une rubrique spécifique le fonctionnement du service de comparaison.
 
-Cette rubrique est directement et aisément accessible à partir de toutes les pages du site. Elle comporte les informations suivantes :
+Cette rubrique est directement et aisément accessible sur toutes les pages du site et est matérialisée par une mention ou un signe distinctif.
 
-1° Les conditions de référencement et de déréférencement des contenus et des offres de biens et services, notamment les règles applicables pour être référencé et les obligations dont le non-respect conduit à être déréférencé ;
+Elle comporte les mentions suivantes :
 
-2° Les critères de classement par défaut des contenus et des offres de biens et services, ainsi que leur principaux paramètres ;
+1° Les différents critères de classement des offres de biens et de services ainsi que leur définition ;
 
-3° Le cas échéant, l'existence d'un lien capitalistique ou d'une rémunération entre l'opérateur de plateforme et les offreurs référencés dès lors que ce lien ou que cette rémunération exercent une influence sur le référencement ou le classement des contenus, des biens ou des services proposés ou mis en ligne,.
+2° L'existence ou non d'une relation contractuelle ou de liens capitalistiques entre le site de comparaison et les professionnels référencés ;
 
-II.-Pour chaque résultat de classement, à proximité de l'offre ou du contenu classé, tout opérateur de plateforme en ligne fait apparaître, par tout moyen distinguant ce résultat, l'information selon laquelle son classement a été influencé par l'existence d'une relation contractuelle, d'un lien capitalistique ou d'une rémunération entre l'opérateur de plateforme et l'offreur référencé, y compris sur ce qui relève de la publicité au sens de l'article 20 de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l'économie numérique.
+3° L'existence ou non d'une rémunération du site par les professionnels référencés et, le cas échéant, l'impact de celle-ci sur le classement des offres ;
 
-Tout opérateur de plateforme en ligne fait apparaître, de manière lisible et aisément accessible, sur chaque page de résultats, le critère de classement utilisé ainsi que la définition de ce critère, y compris par renvoi à la rubrique mentionnée au I.
+4° Le détail des éléments constitutifs du prix et la possibilité que des frais supplémentaires y soient ajoutés ;
+
+5° Le cas échéant, la variation des garanties commerciales selon les produits comparés ;
+
+6° Le caractère exhaustif ou non des offres de biens ou de services comparées et du nombre de sites ou d'entreprises référencés ;
+
+7° La périodicité et la méthode d'actualisation des offres comparées.
+
+II.- Tout fournisseur de comparateur en ligne fait apparaître, de manière lisible et compréhensible, en haut de chaque page de résultats de comparaison et avant le classement des offres, les informations suivantes :
+
+1° Le critère de classement des offres utilisé par défaut ainsi que la définition de ce critère, sauf si le critère de classement utilisé par défaut est le prix. La définition est indiquée, à proximité du critère, par tout moyen approprié ;
+
+2° Le caractère exhaustif ou non des offres de biens ou de services comparées et du nombre de sites ou d'entreprises référencés ;
+
+3° Le caractère payant ou non du référencement.
+
+III.- Sans préjudice des obligations d'information prévues aux articles L. 221-5 et L. 222-5 applicables aux vendeurs à distance de produits et de services, tout fournisseur de comparateur en ligne fait apparaître, de manière lisible et compréhensible, à proximité de chaque offre de produit ou de services dont elle propose la comparaison, les informations suivantes :
+
+1° Les caractéristiques essentielles du bien ou du service ;
+
+2° Le prix total à payer par le consommateur ;
+
+3° Lorsqu'elles existent, les garanties commerciales, régies par les articles L. 217-21 à L. 217-23, comprises dans le prix.
+
+Le prix inclut, le cas échéant, tous les frais, notamment, de dossier, de gestion, de réservation, d'annulation, les frais de livraison, les frais d'intermédiation, les intérêts ainsi que les commissions et les taxes. Il mentionne les éventuelles conditions particulières d'application du prix annoncé et sa base de calcul lorsqu'un prix exact ne peut être indiqué.
+
+IV.- En application de l'article 20 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique et dans l'exercice de l'activité de comparateur en ligne, seules les offres de biens ou de services référencées à titre payant, et dont le rang de classement dépend de cette rémunération, font apparaître leur caractère publicitaire par la mention du mot “ Annonces ” sur la page d'affichage de résultats du site comparateur.

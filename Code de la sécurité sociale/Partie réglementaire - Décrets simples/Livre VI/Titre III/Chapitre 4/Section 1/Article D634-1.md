@@ -1,9 +1,8 @@
 # Article D634-1
 
-Sont applicables, en matière d'assurance vieillesse, aux travailleurs indépendants mentionnés à l'article L. 631-1, et ce pour les périodes postérieures au 31 décembre 1972, les dispositions règlementaires des chapitres 1er à 5 du titre V du livre III, à l'exception des articles R. 351-11, R. 351-29, R. 351-29-1, R. 351-37-1 à R. 351-37-11, sous réserve des adaptations suivantes :
-
-Pour l'application des dispositions de l'article R. 351-1, les travailleurs indépendants mentionnés à l'article L. 631-1\
-doivent s'acquitter de l'ensemble de leurs cotisations et contributions mentionnées au I de l'article L. 133-1-1 échues et restant dues, au plus tard trois mois civils avant la date mentionnée au I de l'article R. 351-37.
+Sont applicables, en matière d'assurance vieillesse, aux travailleurs indépendants mentionnés à l'article L. 631-1, et ce pour les périodes postérieures au 31 décembre 1972, les dispositions règlementaires des chapitres 1er à 5 et 8 du titre V du livre III, à l'exception des articles R. 351-11, R. 351-29, R. 351-29-1, R. 351-37-1 à R. 351-37-11.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au I de l'article 3 du décret n° 2024-755 du 7 juillet 2024, le deuxième alinéa du a du 5° de l'article 2 s'applique aux décès, aux disparitions et aux absences survenus à compter du lendemain de la publication dudit décret, soit le 8 juillet 2024.
+
+Conformément au III de l'article 3 du décret n° 2024-755 du 7 juillet 2024, le dernier alinéa du a et le b du 5° de l'article 2 s'appliquent aux pensions prenant effet à compter du 1er septembre 2024.

@@ -4,4 +4,4 @@ Tant au premier tour qu'éventuellement au second tour de scrutin, les listes d'
 
 S'il doit être procédé à un second tour de scrutin, le préfet ou le sous-préfet selon le cas, renvoie les listes d'émargement au maire, au plus tard le mercredi précédant le second tour.
 
-Sans préjudice des dispositions de l'article L0. 179 du présent code, les listes d'émargement déposées à la préfecture ou à la sous-préfecture sont communiquées à tout électeur requérant pendant un délai de dix jours à compter de l'élection et, éventuellement, durant le dépôt des listes entre les deux tours de scrutin, soit à la préfecture ou à la sous-préfecture, soit à la mairie.
+Sans préjudice des dispositions de l'article LO. 179 du présent code, les listes d'émargement déposées à la préfecture ou à la sous-préfecture sont communiquées à tout électeur requérant pendant un délai de dix jours à compter de l'élection et, éventuellement, durant le dépôt des listes entre les deux tours de scrutin, soit à la préfecture ou à la sous-préfecture, soit à la mairie.

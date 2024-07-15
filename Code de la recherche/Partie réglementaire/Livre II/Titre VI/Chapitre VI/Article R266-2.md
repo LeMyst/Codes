@@ -8,6 +8,7 @@ Sous réserve des adaptations prévues par le présent chapitre, sont applicable
 | R. 222-4,1° et 2° |  |
 | R. 224-1 |  |
 | R. 225-1 |  |
-| R. 251-1 à R. 251-16 |  |
+| R. 251-1 | Résultant du décret n° 2024-804 du 12 juillet 2024 |
+| R. 251-2 à R. 251-16 |  |
 | R. 253-3 |  |
 | R. 254-1 et R. 254-2 |  |

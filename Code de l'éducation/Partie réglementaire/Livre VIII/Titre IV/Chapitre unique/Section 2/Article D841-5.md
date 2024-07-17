@@ -1,6 +1,6 @@
 # Article D841-5
 
-Le produit de la contribution de vie étudiante et de campus est réparti entre les d'enseignement supérieur mentionnés au I de l'article L. 841-5 de la manière suivante : 46 € par étudiant inscrit en formation initiale
+Le produit de la contribution de vie étudiante et de campus est réparti entre les catégories d'établissements d'enseignement supérieur mentionnés au I de l'article L. 841-5 de la manière suivante : 46 € par étudiant inscrit en formation initiale
 
 L'appartenance de l'établissement à l'une des catégories mentionnées au I de l'article L. 841-5 est constatée au 1er septembre. Le montant par étudiant inscrit en formation initiale est révisé chaque année en fonction de l'indice des prix à la consommation hors tabac constaté par l'Institut national de la statistique et des études économiques pour la France pour l'année civile précédente. Il est arrondi à l'euro le plus proche. La fraction d'euro égale à 0,5 est comptée pour 1. L'indice est mesuré au mois de janvier précédent l'année universitaire concernée.
 

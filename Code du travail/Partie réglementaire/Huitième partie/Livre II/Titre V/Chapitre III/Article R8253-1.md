@@ -1,5 +1,6 @@
 # Article R8253-1
 
-La contribution spéciale prévue à l'article L. 8253-1 est due pour chaque étranger employé en méconnaissance des dispositions du premier alinéa de l'article L. 8251-1.
+L'amende administrative prévue à l'article L. 8253-1 est due pour chaque travailleur étranger employé en méconnaissance des dispositions des articles L. 8251-1 et L. 8251-2.
 
-Cette contribution est à la charge de l'employeur qui a embauché ou employé un travailleur étranger non muni d'une autorisation de travail.
+NOTA:
+Conformément au II de l'article 6 du décret n° 2024-814 du 9 juillet 2024, ces dispositions s'appliquent aux procédures de sanction relatives à des faits commis antérieurement à l'entrée en vigueur de cet article

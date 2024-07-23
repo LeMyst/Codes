@@ -8,11 +8,11 @@ II. – Lorsqu'un organisme, qui peut être contrôlé en application des articl
 
 III. – 1. A compter du quinzième jour qui suit la notification de l'arrêté du ministre chargé du budget prévu au I, les dons, legs et versements effectués au profit de l'organisme visé par l'arrêté sont exclus du bénéfice de tout avantage fiscal.
 
-2. A compter du quinzième jour qui suit la notification de l'arrêté, l'organisme visé par celui-ci indique expressément dans tous les documents, y compris électroniques, destinés à solliciter du public des dons, legs, versements et cotisations, que ceux-ci ne peuvent plus ouvrir droit à aucun avantage fiscal.
+2\. A compter du quinzième jour qui suit la notification de l'arrêté, l'organisme visé par celui-ci indique expressément dans tous les documents, y compris électroniques, destinés à solliciter du public des dons, legs, versements et cotisations, que ceux-ci ne peuvent plus ouvrir droit à aucun avantage fiscal.
 
-1. A compter du quinzième jour qui suit sa condamnation définitive, l'organisme mentionné au II indique expressément dans tous les documents, y compris électroniques, destinés à solliciter du public des dons, legs, versements et cotisations, que ceux-ci ne peuvent plus ouvrir droit à aucun avantage fiscal.
+3\. A compter du quinzième jour qui suit sa condamnation définitive, l'organisme mentionné au II indique expressément dans tous les documents, y compris électroniques, destinés à solliciter du public des dons, legs, versements et cotisations, que ceux-ci ne peuvent plus ouvrir droit à aucun avantage fiscal.
 
-1. Le non-respect des 2 et 3 est puni de l'amende prévue à l'article 1762 decies.
+4\. Le non-respect des 2 et 3 est puni de l'amende prévue à l'article 1762 decies.
 
 IV. – 1. a. A l'expiration d'un délai d'un an suivant la notification de l'arrêté mentionné au I, l'organisme visé par l'arrêté peut saisir le ministre chargé du budget d'une demande tendant au rétablissement du bénéfice des avantages fiscaux pour les dons, legs et versements susceptibles d'être effectués à son profit.
 
@@ -20,7 +20,7 @@ b. La saisine est accompagnée de tous les éléments propres à établir les mo
 
 c. Le ministre chargé du budget peut abroger l'arrêté mentionné au I après avis de la Cour des comptes. A défaut d'avis de la Cour des comptes dans un délai de six mois à compter de sa saisine, celui-ci est réputé émis.
 
-2. a. A l'expiration d'un délai de trois ans suivant sa condamnation définitive, l'organisme mentionné au II peut saisir le ministre chargé du budget d'une demande tendant au rétablissement du bénéfice des avantages fiscaux pour les dons, legs et versements susceptibles d'être effectués à son profit.
+2\. a. A l'expiration d'un délai de trois ans suivant sa condamnation définitive, l'organisme mentionné au II peut saisir le ministre chargé du budget d'une demande tendant au rétablissement du bénéfice des avantages fiscaux pour les dons, legs et versements susceptibles d'être effectués à son profit.
 
 b. La saisine est accompagnée de tous les éléments propres à établir les moyens effectivement mis en œuvre pour rendre conformes aux objectifs poursuivis par cet organisme les dépenses financées par des dons, legs et versements susceptibles d'ouvrir droit au bénéfice d'un avantage fiscal.
 

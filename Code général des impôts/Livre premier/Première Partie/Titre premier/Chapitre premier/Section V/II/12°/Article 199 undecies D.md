@@ -6,13 +6,13 @@ a) La somme de la réduction d'impôt sur le revenu mentionnée à l'article 199
 
 b) La somme des réductions d'impôt sur le revenu mentionnées aux articles 199 undecies A et 199 undecies B et des reports de ces réductions d'impôt, dans la limite de 30 600 € diminuée du montant dont l'imputation a été effectuée au a du présent 1.
 
-2. Pour l'appréciation de la limite mentionnée au b du 1, la réduction d'impôt au titre des investissements mentionnés à la première phrase des vingt-sixième et vingt-septième alinéas du I de l'article 199 undecies B ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 34 % de leur montant.
+2\. Pour l'appréciation de la limite mentionnée au b du 1, la réduction d'impôt au titre des investissements mentionnés à la première phrase des vingt-sixième et vingt-septième alinéas du I de l'article 199 undecies B ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 34 % de leur montant.
 
-1. Pour l'appréciation de la limite mentionnée au b du 1, la réduction d'impôt au titre des investissements mentionnés à la deuxième phrase du vingt-sixième alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 44 % de leur montant.
+3\. Pour l'appréciation de la limite mentionnée au b du 1, la réduction d'impôt au titre des investissements mentionnés à la deuxième phrase du vingt-sixième alinéa du I de l'article 199 undecies B ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 44 % de leur montant.
 
 3 bis. Pour l'appréciation de la limite mentionnée au a du 1, la réduction d'impôt acquise au titre des investissements mentionnés à l'article 199 undecies C ainsi que les reports résultant d'une réduction d'impôt au titre des mêmes investissements sont retenus pour 30 % de leur montant.
 
-4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues en application des 2,3 et 3 bis peuvent être imputées dans la limite annuelle :
+4\. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues en application des 2,3 et 3 bis peuvent être imputées dans la limite annuelle :
 
 – de trente-trois fois le dix-septième du montant mentionné au b du 1 pour la fraction non retenue en application du 2 ;
 

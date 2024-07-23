@@ -1,14 +1,14 @@
 # Article 76
 
-1. En ce qui concerne les bois, oseraies, aulnaies et saussaies situés en France, le bénéfice agricole imposable provenant des coupes de bois est fixé à une somme égale au revenu ayant servi de base à la taxe foncière établie sur ces propriétés au titre de l'année de l'imposition.
+1\. En ce qui concerne les bois, oseraies, aulnaies et saussaies situés en France, le bénéfice agricole imposable provenant des coupes de bois est fixé à une somme égale au revenu ayant servi de base à la taxe foncière établie sur ces propriétés au titre de l'année de l'imposition.
 
 Le régime prévu au premier alinéa est également applicable au bénéfice agricole provenant de la captation de carbone additionnelle réalisée dans le cadre de projets forestiers admis au label “ bas-carbone ” mentionné à l'article L. 121-2 du code forestier et qui sont mis en œuvre pour assurer le boisement ou la reconstitution de peuplements forestiers dégradés.
 
 Le bénéfice qui résulte de la récolte de produits tels que les fruits, l'écorce ou la résine, en vue de la vente desquels les bois sont exploités, ainsi que le bénéfice résultant d'opérations de transformations des bois coupés par le propriétaire lui-même, lorsque ces transformations ne présentent pas un caractère industriel, sont imposés selon les régimes définis aux articles 64 bis ou 69.
 
-2. (Abrogé).
+2\. (Abrogé).
 
-1. a. Par dérogation aux dispositions du premier alinéa du 1, le bénéfice agricole afférent aux semis, plantations ou replantations en bois ainsi qu'aux terrains boisés en nature de futaies ou de taillis sous futaie qui ont fait l'objet d'une régénération naturelle bénéficiant de l'exonération de la taxe foncière sur les propriétés non bâties prévue à l'article 1395 est constitué par la plus faible des deux sommes ci-après :
+3\. a. Par dérogation aux dispositions du premier alinéa du 1, le bénéfice agricole afférent aux semis, plantations ou replantations en bois ainsi qu'aux terrains boisés en nature de futaies ou de taillis sous futaie qui ont fait l'objet d'une régénération naturelle bénéficiant de l'exonération de la taxe foncière sur les propriétés non bâties prévue à l'article 1395 est constitué par la plus faible des deux sommes ci-après :
 
 Le revenu servant de base à la taxe foncière établie d'après la nature de culture et le classement antérieurs aux travaux ;
 
@@ -26,6 +26,6 @@ b bis A compter du 1er janvier de l'année suivant la promulgation de la loi n°
 
 c. Les semis, plantations ou replantations réalisés depuis moins de dix ans pour les peupleraies, moins de vingt ans pour les bois résineux et moins de trente ans pour les bois feuillus et autres bois, bénéficient des dispositions des a et b pour les délais restant à courir sur les périodes ci-dessus.
 
-4. A compter du 1er janvier de l'année suivant la promulgation de la loi n° 2001-602 du 9 juillet 2001 précitée, le bénéfice agricole afférent aux terrains boisés présentant un état de futaie irrégulière en équilibre de régénération est diminué d'un quart pendant les quinze années suivant la déclaration de cet état. Cette réduction est renouvelable.
+4\. A compter du 1er janvier de l'année suivant la promulgation de la loi n° 2001-602 du 9 juillet 2001 précitée, le bénéfice agricole afférent aux terrains boisés présentant un état de futaie irrégulière en équilibre de régénération est diminué d'un quart pendant les quinze années suivant la déclaration de cet état. Cette réduction est renouvelable.
 
 Le deuxième alinéa du 1° ter de l'article 1395 est applicable au régime prévu par le premier alinéa du présent 4.

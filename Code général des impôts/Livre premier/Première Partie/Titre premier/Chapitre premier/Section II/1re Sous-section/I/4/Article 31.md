@@ -38,9 +38,9 @@ L'option, qui doit être exercée lors du dépôt de la déclaration des revenus
 
 Lorsque l'option est exercée, les dispositions du b ne sont pas applicables mais les droits suivants sont ouverts :
 
-1. les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant des dépenses pour les quatre premières années et à 2 % de ce montant pour les vingt années suivantes. Le propriétaire doit s'engager à louer le logement nu pendant une nouvelle durée de neuf ans ;
+1\. les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant des dépenses pour les quatre premières années et à 2 % de ce montant pour les vingt années suivantes. Le propriétaire doit s'engager à louer le logement nu pendant une nouvelle durée de neuf ans ;
 
-1. les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
+2\. les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
 
 La période d'amortissement a pour point de départ le premier jour du mois d'achèvement des travaux.
 
@@ -54,9 +54,9 @@ Les dix premiers alinéas du présent f sont applicables lorsque l'achèvement d
 
 Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux logements acquis neufs ou en l'état futur d'achèvement entre le 1er janvier 1999 et le 31 août 1999 lorsque les conditions suivantes sont réunies :
 
-1. Le permis de construire prévu à l'article L. 421-1 du code de l'urbanisme doit avoir été délivré avant le 1er janvier 1999 ;
+1\. Le permis de construire prévu à l'article L. 421-1 du code de l'urbanisme doit avoir été délivré avant le 1er janvier 1999 ;
 
-1. La construction du logement ou les travaux doivent avoir été achevés, respectivement, avant le 1er juillet 2001 ou le 1er juillet 2025.
+2\. La construction du logement ou les travaux doivent avoir été achevés, respectivement, avant le 1er juillet 2001 ou le 1er juillet 2025.
 
 Pour l'application des dispositions des douzième à quatorzième alinéas, les contribuables doivent joindre à la déclaration des revenus mentionnée au troisième alinéa une copie de la notification de l'arrêté délivrant le permis de construire et de la déclaration d'achèvement des travaux accompagnée des pièces attestant de sa réception en mairie.
 
@@ -74,9 +74,9 @@ La déduction au titre de l'amortissement n'est pas applicable aux revenus des i
 
 Lorsque l'option est exercée, les dispositions du b ne sont pas applicables, mais les droits suivants sont ouverts :
 
-1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 8 % du montant des dépenses pour les cinq premières années et à 2,5 % de ce montant pour les quatre années suivantes. Le propriétaire doit s'engager à louer le logement dans les conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans. A l'issue de la période couverte par l'engagement de location, tant que la condition de loyer prévue au troisième alinéa reste remplie, le propriétaire peut, par période de trois ans et pendant une durée maximale de six ans, bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du montant des dépenses en cas de poursuite, de reconduction ou de renouvellement du bail ou, si la condition de ressources prévue au troisième alinéa est remplie, en cas de changement de titulaire du bail. En cas de non-respect des conditions de location ou de cession du logement, les déductions pratiquées pendant l'ensemble de la période triennale sont remises en cause dans les conditions de droit commun.
+1\. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 8 % du montant des dépenses pour les cinq premières années et à 2,5 % de ce montant pour les quatre années suivantes. Le propriétaire doit s'engager à louer le logement dans les conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans. A l'issue de la période couverte par l'engagement de location, tant que la condition de loyer prévue au troisième alinéa reste remplie, le propriétaire peut, par période de trois ans et pendant une durée maximale de six ans, bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du montant des dépenses en cas de poursuite, de reconduction ou de renouvellement du bail ou, si la condition de ressources prévue au troisième alinéa est remplie, en cas de changement de titulaire du bail. En cas de non-respect des conditions de location ou de cession du logement, les déductions pratiquées pendant l'ensemble de la période triennale sont remises en cause dans les conditions de droit commun.
 
-1. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
+2\. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
 
 La période d'amortissement a pour point de départ le premier jour du mois d'achèvement des travaux.
 
@@ -98,9 +98,9 @@ La déduction au titre de l'amortissement n'est pas applicable aux revenus des i
 
 Lorsque l'option est exercée, les dispositions du b ne sont pas applicables, mais les droits suivants sont ouverts :
 
-1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 6 % du montant des dépenses pour les sept premières années et à 4 % de ce montant pour les deux années suivantes. Le propriétaire doit s'engager à louer le logement dans les conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans.
+1\. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une déduction, au titre de l'amortissement, égale à 6 % du montant des dépenses pour les sept premières années et à 4 % de ce montant pour les deux années suivantes. Le propriétaire doit s'engager à louer le logement dans les conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans.
 
-1. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
+2\. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
 
 La période d'amortissement a pour point de départ le premier jour du mois d'achèvement des travaux.
 
@@ -172,11 +172,11 @@ C. – Dans les zones géographiques autres que celles mentionnées aux A et B d
 
 D. – Les taux mentionnés aux A, B et C du présent 1 sont portés, y compris lorsque la convention prévue au C ne prévoit pas la réalisation de travaux, à 85 % des revenus bruts lorsque les logements mentionnés au présent 1 sont donnés en mandat de gestion ou en location à un organisme public ou privé, agréé en application de l'article L. 365-4 du code de la construction et de l'habitation, soit en vue de leur location ou sous-location, meublée ou non, à des personnes mentionnées au II de l'article L. 301-1 du même code ou aux personnes physiques dont la situation nécessite une solution locative de transition, soit en vue de l'hébergement de ces mêmes personnes.
 
-2. La déduction mentionnée au 1 du présent o s'applique à compter de la date de prise d'effet de la convention et pendant toute sa durée.
+2\. La déduction mentionnée au 1 du présent o s'applique à compter de la date de prise d'effet de la convention et pendant toute sa durée.
 
-1. La déduction prévue au 1 du présent o s'applique aux logements pour lesquels le contribuable justifie du respect d'un niveau de performance énergétique globale fixé par arrêté conjoint des ministres chargés du logement, de l'énergie et du budget.
+3\. La déduction prévue au 1 du présent o s'applique aux logements pour lesquels le contribuable justifie du respect d'un niveau de performance énergétique globale fixé par arrêté conjoint des ministres chargés du logement, de l'énergie et du budget.
 
-1. Le bénéfice de la déduction prévue au 1 du présent o est subordonné à l'engagement du contribuable ou de la société propriétaire de louer le logement nu pendant toute la durée d'application de la convention à usage d'habitation principale.
+4\. Le bénéfice de la déduction prévue au 1 du présent o est subordonné à l'engagement du contribuable ou de la société propriétaire de louer le logement nu pendant toute la durée d'application de la convention à usage d'habitation principale.
 
 Cet engagement prévoit que :
 
@@ -184,15 +184,15 @@ A. – Le loyer et les ressources du locataire appréciées à la date de conclu
 
 B. – La location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un descendant du contribuable, une personne occupant déjà le logement, sauf à l'occasion du renouvellement du bail, ou, si le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant d'un associé. Les associés d'une société non soumise à l'impôt sur les sociétés doivent conserver leurs parts pendant toute la durée de la convention.
 
-5. Pour le bénéfice des déductions prévues au présent o, lorsqu'elle fait l'objet de l'une des conventions mentionnées au 1 du présent o, la location du logement consentie dans les mêmes conditions à un organisme public ou privé pour le logement ou l'hébergement de personnes physiques à usage d'habitation principale, à l'exclusion du propriétaire du logement, des membres de son foyer fiscal ou de ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction, à la condition que cet organisme ne fournisse aucune prestation hôtelière ou para-hôtelière. Un décret précise les modalités d'appréciation des loyers et des ressources de l'occupant, ainsi que les conditions de cette location.
+5\. Pour le bénéfice des déductions prévues au présent o, lorsqu'elle fait l'objet de l'une des conventions mentionnées au 1 du présent o, la location du logement consentie dans les mêmes conditions à un organisme public ou privé pour le logement ou l'hébergement de personnes physiques à usage d'habitation principale, à l'exclusion du propriétaire du logement, des membres de son foyer fiscal ou de ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction, à la condition que cet organisme ne fournisse aucune prestation hôtelière ou para-hôtelière. Un décret précise les modalités d'appréciation des loyers et des ressources de l'occupant, ainsi que les conditions de cette location.
 
-1. Lorsque, à l'échéance de l'une des conventions mentionnées au 1 du présent o, y compris après une période triennale de prorogation, le contrat de location du logement concerné est en cours de validité conformément à l'article 10 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, le bénéfice de l'une des déductions des revenus bruts prévues au présent o est maintenu jusqu'à la date fixée pour le renouvellement ou la reconduction de ce contrat de location tant que le même locataire reste en place et que toutes les conditions, notamment celle relative au montant du loyer, sont remplies.
+6\. Lorsque, à l'échéance de l'une des conventions mentionnées au 1 du présent o, y compris après une période triennale de prorogation, le contrat de location du logement concerné est en cours de validité conformément à l'article 10 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, le bénéfice de l'une des déductions des revenus bruts prévues au présent o est maintenu jusqu'à la date fixée pour le renouvellement ou la reconduction de ce contrat de location tant que le même locataire reste en place et que toutes les conditions, notamment celle relative au montant du loyer, sont remplies.
 
-1. En cas de non-respect de l'un des engagements mentionnés au présent o ou de cession du logement ou des parts sociales, la déduction fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de la cession. Toutefois, aucune reprise n'est effectuée si la rupture de l'engagement ou la cession survient à la suite de l'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du licenciement ou du décès du contribuable ou de l'un des membres du couple soumis à imposition commune.
+7\. En cas de non-respect de l'un des engagements mentionnés au présent o ou de cession du logement ou des parts sociales, la déduction fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de la cession. Toutefois, aucune reprise n'est effectuée si la rupture de l'engagement ou la cession survient à la suite de l'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du licenciement ou du décès du contribuable ou de l'un des membres du couple soumis à imposition commune.
 
-1. Les dispositions du présent o sont exclusives de celles prévues aux f à m du présent 1° et aux articles 31 bis, 199 decies I, 199 undecies A, 199 septvicies et 199 novovicies du présent code. Elles ne sont pas non plus applicables aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la " Fondation du patrimoine ", mentionnés au premier alinéa du 3° du I de l'article 156.
+8\. Les dispositions du présent o sont exclusives de celles prévues aux f à m du présent 1° et aux articles 31 bis, 199 decies I, 199 undecies A, 199 septvicies et 199 novovicies du présent code. Elles ne sont pas non plus applicables aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la " Fondation du patrimoine ", mentionnés au premier alinéa du 3° du I de l'article 156.
 
-1. Le présent o cesse de s'appliquer aux prorogations des conventions mentionnées aux articles L. 321-4 ou L. 321-8 du code de la construction et de l'habitation lorsque la prorogation intervient après le 1er janvier 2024.
+9\. Le présent o cesse de s'appliquer aux prorogations des conventions mentionnées aux articles L. 321-4 ou L. 321-8 du code de la construction et de l'habitation lorsque la prorogation intervient après le 1er janvier 2024.
 
 2° Pour les propriétés rurales :
 

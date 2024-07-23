@@ -116,7 +116,7 @@ B.-L'agrément est délivré lorsque les conditions cumulatives suivantes sont r
 
 C.-1. Les dépenses se rapportant à la production ou à l'acquisition des actifs mentionnés aux 1° et 2° du III engagées à compter de la réception de la demande d'agrément sont prises en compte dans l'assiette du crédit d'impôt.
 
-2. Les dépenses se rapportant à l'acquisition de l'actif mentionné au 3° du III sont prises en compte dans l'assiette du crédit d'impôt pour la période comprise entre la date de signature de la convention d'occupation temporaire du domaine public, qui ne peut être antérieure à la réception de la demande d'agrément, et l'expiration de l'un des deux délais mentionnés au 5° du I.
+2\. Les dépenses se rapportant à l'acquisition de l'actif mentionné au 3° du III sont prises en compte dans l'assiette du crédit d'impôt pour la période comprise entre la date de signature de la convention d'occupation temporaire du domaine public, qui ne peut être antérieure à la réception de la demande d'agrément, et l'expiration de l'un des deux délais mentionnés au 5° du I.
 
 D.-Le non-respect des conditions mentionnées au présent article après la délivrance de l'agrément entraîne le retrait de celui-ci et la déchéance des avantages fiscaux qui y sont attachés, dans les conditions prévues à l'article 1649 nonies A.
 

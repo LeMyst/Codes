@@ -54,13 +54,13 @@ III bis. - 1. N'est pas assimilé à une livraison de biens le transfert par un 
 
 4° L'assujetti qui expédie ou transporte les biens inscrit le transfert des biens dans le registre prévu au 2 du I de l'article 286 quater et indique l'identité de l'assujetti qui acquiert les biens et le numéro d'identification aux fins de la taxe sur la valeur ajoutée attribué par l'Etat membre vers lequel les biens sont expédiés ou transportés dans l'état récapitulatif prévu au I de l'article 289 B.
 
-2. Si, dans les douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, les biens n'ont pas été livrés à l'assujetti mentionné au 3° du 1 du présent III bis et qu'aucune des circonstances mentionnées au 4 n'est intervenue, un transfert au sens du III du présent article est réputé avoir lieu le jour suivant celui de l'expiration de la période de douze mois.
+2\. Si, dans les douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, les biens n'ont pas été livrés à l'assujetti mentionné au 3° du 1 du présent III bis et qu'aucune des circonstances mentionnées au 4 n'est intervenue, un transfert au sens du III du présent article est réputé avoir lieu le jour suivant celui de l'expiration de la période de douze mois.
 
-1. Aucun transfert au sens du III du présent article n'est réputé avoir lieu lorsque, dans les douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, le droit de disposer des biens n'a pas été transféré, qu'ils sont renvoyés vers la France et que l'assujetti inscrit leur renvoi dans le registre mentionné au 4° du 1 du présent III bis.
+3\. Aucun transfert au sens du III du présent article n'est réputé avoir lieu lorsque, dans les douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, le droit de disposer des biens n'a pas été transféré, qu'ils sont renvoyés vers la France et que l'assujetti inscrit leur renvoi dans le registre mentionné au 4° du 1 du présent III bis.
 
-1. Aucun transfert au sens du III du présent article n'est réputé avoir lieu lorsque l'assujetti mentionné au 3° du 1 est remplacé, dans le délai de douze mois suivant l'arrivée des biens, par un autre assujetti dès lors que les autres conditions mentionnées au même 1 demeurent satisfaites et que l'assujetti mentionné au 2° dudit 1 inscrit ce remplacement dans le registre prévu au 2 du I de l'article 286 quater.
+4\. Aucun transfert au sens du III du présent article n'est réputé avoir lieu lorsque l'assujetti mentionné au 3° du 1 est remplacé, dans le délai de douze mois suivant l'arrivée des biens, par un autre assujetti dès lors que les autres conditions mentionnées au même 1 demeurent satisfaites et que l'assujetti mentionné au 2° dudit 1 inscrit ce remplacement dans le registre prévu au 2 du I de l'article 286 quater.
 
-1. Pendant le délai de douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, un transfert de biens au sens du III du présent article est réputé avoir lieu :
+5\. Pendant le délai de douze mois suivant leur arrivée dans l'Etat membre vers lequel ils ont été expédiés ou transportés, un transfert de biens au sens du III du présent article est réputé avoir lieu :
 
 1° Dès que l'une des conditions mentionnées aux 1 et 4 du présent III bis cesse d'être remplie ;
 

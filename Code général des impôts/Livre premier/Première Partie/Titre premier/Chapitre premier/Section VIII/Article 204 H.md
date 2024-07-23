@@ -4,13 +4,13 @@ I. – 1. L'administration fiscale calcule pour chaque foyer fiscal le taux pré
 
 Pour le calcul du premier terme du numérateur, l'impôt sur le revenu résultant de l'application des règles prévues aux 1 à 4 du I de l'article 197 ou, le cas échéant, à l'article 197 A est multiplié par le rapport entre les montants nets imposables des revenus mentionnés au 1 de l'article 204 A, les déficits étant retenus pour une valeur nulle, et le revenu net imposable au barème progressif de l'impôt sur le revenu, hors déficits, charges et abattements déductibles du revenu global.
 
-2. L'impôt sur le revenu et les revenus pris en compte mentionnés au 1 sont ceux de l'avant-dernière année pour le calcul du taux relatif aux versements de l'acompte acquittés et aux retenues à la source effectuées entre le 1er janvier et le 31 août de l'année au cours de laquelle le contribuable dispose des revenus ou réalise les bénéfices, et ceux de l'année précédente pour le calcul du taux relatif aux versements de l'acompte acquittés et aux retenues à la source effectuées entre le 1er septembre et le 31 décembre.
+2\. L'impôt sur le revenu et les revenus pris en compte mentionnés au 1 sont ceux de l'avant-dernière année pour le calcul du taux relatif aux versements de l'acompte acquittés et aux retenues à la source effectuées entre le 1er janvier et le 31 août de l'année au cours de laquelle le contribuable dispose des revenus ou réalise les bénéfices, et ceux de l'année précédente pour le calcul du taux relatif aux versements de l'acompte acquittés et aux retenues à la source effectuées entre le 1er septembre et le 31 décembre.
 
 Toutefois, dans le cas où l'impôt sur le revenu de l'avant-dernière année ou de la dernière année n'a pu être établi, l'impôt sur le revenu et les revenus pris en compte pour le calcul du taux sont ceux de la dernière année pour laquelle l'impôt a été établi à la date du calcul de l'acompte par l'administration ou de la transmission du taux au débiteur des revenus en application du 4, sans que cette année ne puisse être antérieure à l'antépénultième année par rapport à l'année de prélèvement.
 
-3. Le taux est arrondi à la décimale la plus proche. La fraction de décimale égale à 0,50 est comptée pour un.
+3\. Le taux est arrondi à la décimale la plus proche. La fraction de décimale égale à 0,50 est comptée pour un.
 
-1. Le taux, assorti des calculs qui l'ont déterminé, est communiqué au contribuable par l'administration fiscale. Celle-ci transmet le taux au débiteur mentionné au 1° du 2 de l'article 204 A.
+4\. Le taux, assorti des calculs qui l'ont déterminé, est communiqué au contribuable par l'administration fiscale. Celle-ci transmet le taux au débiteur mentionné au 1° du 2 de l'article 204 A.
 
 II. – Par dérogation au I, le taux prévu à l'article 204 E est nul pour les contribuables qui remplissent cumulativement les deux conditions suivantes :
 
@@ -107,13 +107,13 @@ Pour les revenus mentionnés au même article 204 C, les grilles prévues aux a 
 
 e) (Abrogé)
 
-2. Par dérogation au I du présent article, le taux prévu au 1 du présent III est également applicable aux revenus des personnes rattachées, au sens des 2° et 3° du 3 de l'article 6, ou à charge, au sens des articles 196 et 196 A bis, au titre de la dernière année pour laquelle l'impôt a été établi.
+2\. Par dérogation au I du présent article, le taux prévu au 1 du présent III est également applicable aux revenus des personnes rattachées, au sens des 2° et 3° du 3 de l'article 6, ou à charge, au sens des articles 196 et 196 A bis, au titre de la dernière année pour laquelle l'impôt a été établi.
 
 IV. – 1. Sur option du contribuable, le taux mentionné au III du présent article est appliqué aux traitements et salaires soumis à la retenue à la source prévue au 1° du 2 de l'article 204 A.
 
 L'option peut être exercée à tout moment auprès de l'administration fiscale et est mise en œuvre au plus tard le troisième mois qui suit celui de la demande. Elle est tacitement reconduite, sauf dénonciation dans les trente jours qui suivent la communication au contribuable d'un nouveau taux de prélèvement.
 
-2. Lorsque le montant de la retenue à la source résultant de l'application de ce taux est inférieur à celui qui aurait résulté de l'application du taux prévu, selon le cas, au I du présent article, à l'article 204 I, à l'article 204 J ou à l'article 204 M, le contribuable acquitte un complément de retenue à la source égal à la différence entre ces deux montants.
+2\. Lorsque le montant de la retenue à la source résultant de l'application de ce taux est inférieur à celui qui aurait résulté de l'application du taux prévu, selon le cas, au I du présent article, à l'article 204 I, à l'article 204 J ou à l'article 204 M, le contribuable acquitte un complément de retenue à la source égal à la différence entre ces deux montants.
 
 Ce complément est calculé et versé par le contribuable au plus tard le dernier jour du mois suivant celui de la perception du revenu selon les modalités prévues aux 4 et 6 de l'article 1663 C et à l'article 1680 A.
 

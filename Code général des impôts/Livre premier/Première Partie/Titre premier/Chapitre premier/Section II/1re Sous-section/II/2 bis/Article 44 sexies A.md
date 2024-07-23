@@ -4,11 +4,11 @@ I. – 1. Les entreprises répondant aux conditions fixées à l'article 44 sexi
 
 Les bénéfices réalisés au titre de l'exercice ou période d'imposition bénéficiaire suivant cette période d'exonération ne sont soumis à l'impôt sur le revenu ou l'impôt sur les sociétés que pour la moitié de leur montant.
 
-2. Le bénéfice de l'exonération est réservé aux entreprises qui réunissent les conditions fixées au 1 au cours de chaque exercice ou période d'imposition au titre duquel ou de laquelle l'exonération est susceptible de s'appliquer.
+2\. Le bénéfice de l'exonération est réservé aux entreprises qui réunissent les conditions fixées au 1 au cours de chaque exercice ou période d'imposition au titre duquel ou de laquelle l'exonération est susceptible de s'appliquer.
 
-1. Si à la clôture d'un exercice ou d'une période d'imposition l'entreprise ne satisfait plus à l'une des conditions requises pour bénéficier du statut de jeune entreprise innovante réalisant des projets de recherche et de développement, elle perd définitivement le bénéfice de l'exonération prévue au 1. Toutefois, le bénéfice réalisé au cours de cet exercice ou période d'imposition et de l'exercice ou période d'imposition suivant n'est soumis à l'impôt sur le revenu ou l'impôt sur les sociétés que pour la moitié de son montant.
+3\. Si à la clôture d'un exercice ou d'une période d'imposition l'entreprise ne satisfait plus à l'une des conditions requises pour bénéficier du statut de jeune entreprise innovante réalisant des projets de recherche et de développement, elle perd définitivement le bénéfice de l'exonération prévue au 1. Toutefois, le bénéfice réalisé au cours de cet exercice ou période d'imposition et de l'exercice ou période d'imposition suivant n'est soumis à l'impôt sur le revenu ou l'impôt sur les sociétés que pour la moitié de son montant.
 
-1. La durée totale d'application de l'abattement de 50 % prévu au 1 et au 3 ne peut en aucun cas excéder douze mois.
+4\. La durée totale d'application de l'abattement de 50 % prévu au 1 et au 3 ne peut en aucun cas excéder douze mois.
 
 II. – Le bénéfice exonéré au titre d'un exercice ou d'une période d'imposition est celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 

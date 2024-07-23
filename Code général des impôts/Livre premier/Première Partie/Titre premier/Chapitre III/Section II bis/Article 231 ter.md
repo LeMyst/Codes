@@ -40,7 +40,7 @@ V. – Sont exonérés de la taxe :
 
 VI. – Les tarifs sont applicables dans les conditions suivantes :
 
-1. a. Des tarifs distincts au mètre carré sont appliqués par circonscription telle que définie ci-après :
+1\. a. Des tarifs distincts au mètre carré sont appliqués par circonscription telle que définie ci-après :
 
 1° Première circonscription : 1er, 2e, 7e, 8e, 9e, 10e, 15e, 16e et 17e arrondissements de Paris et les communes de Boulogne-Billancourt, Courbevoie, Issy-les-Moulineaux, Levallois-Perret, Neuilly-sur-Seine et Puteaux ;
 
@@ -58,7 +58,7 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés, pour l'année 2024, conformément aux dispositions ci-dessous :
+2\. Les tarifs au mètre carré sont fixés, pour l'année 2024, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 

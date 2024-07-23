@@ -10,9 +10,9 @@ L'autorité compétente mentionnée au premier alinéa du présent I et au 1 du 
 
 II. – 1. Pour bénéficier de l'exonération, le propriétaire doit fournir au service des impôts avant le 1er janvier de la première année au titre de laquelle l'exonération est applicable ou renouvelable l'engagement souscrit concernant les parcelles lui appartenant inscrites sur la liste dressée par l'autorité compétente. Pour les parcelles données à bail en application des articles L. 411-1 et suivants du code rural et de la pêche maritime, l'adhésion à la charte ou le contrat doit être cosigné par le preneur.
 
-2. L'exonération ne concerne pas les propriétés non bâties exonérées en application de l'article 1394 B.
+2\. L'exonération ne concerne pas les propriétés non bâties exonérées en application de l'article 1394 B.
 
-1. Lorsque le contribuable remplit à la fois les conditions requises pour bénéficier de l'une des exonérations mentionnées au 1° et au 1° bis de l'article 1395 et de l'exonération prévue au I, l'exonération prévue au 1° et au 1° bis de l'article 1395 est applicable.
+3\. Lorsque le contribuable remplit à la fois les conditions requises pour bénéficier de l'une des exonérations mentionnées au 1° et au 1° bis de l'article 1395 et de l'exonération prévue au I, l'exonération prévue au 1° et au 1° bis de l'article 1395 est applicable.
 
 Lorsque le contribuable remplit à la fois les conditions requises pour bénéficier de l'une des exonérations mentionnées à l'article 1394 C, au 1° ter de l'article 1395 et aux articles 1395 A et 1395 B et de l'exonération prévue au I, l'exonération prévue au I est applicable.
 

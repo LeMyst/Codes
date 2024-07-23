@@ -1,8 +1,8 @@
 # Article 667
 
-1. (Transféré sous l'article L. 17 du livre des procédures fiscales).
+1\. (Transféré sous l'article L. 17 du livre des procédures fiscales).
 
-1. La commission départementale de conciliation prévue à l'article 1653 A peut être saisie pour tous les actes ou déclarations constatant la transmission ou l'énonciation :
+2\. La commission départementale de conciliation prévue à l'article 1653 A peut être saisie pour tous les actes ou déclarations constatant la transmission ou l'énonciation :
 
 1° De la propriété, de l'usufruit ou de la jouissance de biens immeubles, de fonds de commerce, y compris les marchandises neuves qui en dépendent, de clientèles, de navires, de bateaux ou de biens meubles ;
 

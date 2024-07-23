@@ -6,7 +6,7 @@ I. – 1. Il est institué à la charge des contribuables passibles de l'impôt 
 
 – 4 % à la fraction de revenu fiscal de référence supérieure à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 1 000 000 € pour les contribuables soumis à imposition commune.
 
-2. La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
+2\. La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
 
 II. – 1. Toutefois si, au titre de l'année d'imposition à la contribution mentionnée au 1 du I, le revenu fiscal de référence du contribuable est supérieur ou égal à une fois et demie la moyenne des revenus fiscaux de référence des deux années précédentes, la fraction du revenu fiscal de l'année d'imposition supérieure à cette moyenne est divisée par deux, puis le montant ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi obtenue est alors multipliée par deux.
 
@@ -14,7 +14,7 @@ Le premier alinéa est applicable aux contribuables dont le revenu fiscal de ré
 
 Cette disposition est applicable aux contribuables qui ont été passibles de l'impôt sur le revenu au titre des deux années précédant celle de l'imposition pour plus de la moitié de leurs revenus de source française ou étrangère de même nature que ceux entrant dans la composition du revenu fiscal de référence.
 
-2. En cas de modification de la situation de famille du contribuable au cours de l'année d'imposition ou des deux années précédentes, les revenus fiscaux de référence mentionnés au 1 sont ceux :
+2\. En cas de modification de la situation de famille du contribuable au cours de l'année d'imposition ou des deux années précédentes, les revenus fiscaux de référence mentionnés au 1 sont ceux :
 
 a) Du couple et des foyers fiscaux auxquels les conjoints ou les partenaires ont appartenu au cours des années mentionnées au présent 2 en cas d'union.
 
@@ -26,7 +26,7 @@ Le bénéfice du présent 2 est subordonné au dépôt d'une réclamation compre
 
 Les réclamations sont adressées au service des impôts dans le délai prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales. Elles sont présentées, instruites et jugées selon les règles de procédure applicables en matière d'impôt sur le revenu.
 
-3. Pour le calcul de la moyenne mentionnée au présent II, le revenu fiscal de référence déterminé au titre des années 2009 et 2010 s'entend de celui défini au 1° du IV de l'article 1417. Il s'entend de celui défini au 1 du I du présent article pour les revenus fiscaux de référence déterminés à compter de 2011.
+3\. Pour le calcul de la moyenne mentionnée au présent II, le revenu fiscal de référence déterminé au titre des années 2009 et 2010 s'entend de celui défini au 1° du IV de l'article 1417. Il s'entend de celui défini au 1 du I du présent article pour les revenus fiscaux de référence déterminés à compter de 2011.
 
 NOTA:
 Loi n° 2011-1977 du 28 décembre 2011, article 2 III A : Le I est applicable à compter de l'imposition des revenus de l'année 2011 et jusqu'à l'imposition des revenus de l'année au titre de laquelle le déficit public des administrations publiques est nul . Ce déficit est constaté dans les conditions prévues au deuxième alinéa de l'article 3 du règlement (CE) n° 479/2009 du Conseil, du 25 mai 2009, relatif à l'application du protocole sur la procédure concernant les déficits excessifs annexé au traité instituant la Communauté européenne.

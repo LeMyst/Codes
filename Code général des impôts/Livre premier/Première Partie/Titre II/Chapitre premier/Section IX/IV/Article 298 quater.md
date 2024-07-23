@@ -16,7 +16,7 @@ I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites �
 
 I ter. - 1. Périmé
 
-2. (Abrogé à compter du 1er janvier 1993) ;
+2\. (Abrogé à compter du 1er janvier 1993) ;
 
 II. - Des décrets en Conseil d'Etat (2) fixent, en tant que de besoin, les conditions d'application des I et I bis, notamment les justifications à fournir par les bénéficiaires du remboursement forfaitaire, ainsi que les bases de calcul dudit remboursement dans le cas d'exportation ou de livraisons intracommunautaires d'animaux vivants.
 

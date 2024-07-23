@@ -2,7 +2,7 @@
 
 I. – Pour la généralité des entreprises, à l'exception des entreprises visées aux II bis à VI :
 
-1. Le chiffre d'affaires est égal à la somme :
+1\. Le chiffre d'affaires est égal à la somme :
 
 – des ventes de produits fabriqués, prestations de services et marchandises ;
 
@@ -12,11 +12,11 @@ I. – Pour la généralité des entreprises, à l'exception des entreprises vis
 
 – des refacturations de frais inscrites au compte de transfert de charges.
 
-2. Le chiffre d'affaires des titulaires de bénéfices non commerciaux qui n'exercent pas l'option mentionnée à l'article 93 A s'entend du montant hors taxes des honoraires ou recettes encaissés en leur nom, diminué des rétrocessions, ainsi que des gains divers.
+2\. Le chiffre d'affaires des titulaires de bénéfices non commerciaux qui n'exercent pas l'option mentionnée à l'article 93 A s'entend du montant hors taxes des honoraires ou recettes encaissés en leur nom, diminué des rétrocessions, ainsi que des gains divers.
 
-1. Le chiffre d'affaires des personnes dont les revenus imposables à l'impôt sur le revenu relèvent de la catégorie des revenus fonciers définie à l'article 14 comprend les recettes brutes hors taxes au sens de l'article 29.
+3\. Le chiffre d'affaires des personnes dont les revenus imposables à l'impôt sur le revenu relèvent de la catégorie des revenus fonciers définie à l'article 14 comprend les recettes brutes hors taxes au sens de l'article 29.
 
-1. La valeur ajoutée est égale à la différence entre :
+4\. La valeur ajoutée est égale à la différence entre :
 
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré :
 
@@ -50,11 +50,11 @@ b) Et, d'autre part :
 
 – les moins-values de cession d'éléments d'immobilisations corporelles et incorporelles, lorsqu'elles se rapportent à une activité normale et courante.
 
-5. La valeur ajoutée des contribuables mentionnés au 2 est constituée par l'excédent du chiffre d'affaires défini au 2 sur les dépenses de même nature que les charges admises en déduction de la valeur ajoutée en application du 4, à l'exception de la taxe sur la valeur ajoutée déductible ou décaissée.
+5\. La valeur ajoutée des contribuables mentionnés au 2 est constituée par l'excédent du chiffre d'affaires défini au 2 sur les dépenses de même nature que les charges admises en déduction de la valeur ajoutée en application du 4, à l'exception de la taxe sur la valeur ajoutée déductible ou décaissée.
 
-1. La valeur ajoutée des contribuables mentionnés au 3 est égale à l'excédent du chiffre d'affaires défini au 3 diminué des charges de la propriété énumérées à l'article 31, à l'exception des charges énumérées aux c et d du 1° du I du même article 31.
+6\. La valeur ajoutée des contribuables mentionnés au 3 est égale à l'excédent du chiffre d'affaires défini au 3 diminué des charges de la propriété énumérées à l'article 31, à l'exception des charges énumérées aux c et d du 1° du I du même article 31.
 
-1. La valeur ajoutée définie aux 4,5 et 6 ne peut excéder un pourcentage du chiffre d'affaires mentionné respectivement aux 1,2 et 3 égal à :
+7\. La valeur ajoutée définie aux 4,5 et 6 ne peut excéder un pourcentage du chiffre d'affaires mentionné respectivement aux 1,2 et 3 égal à :
 
 80 % pour les contribuables dont le chiffre d'affaires est inférieur ou égal à 7,6 millions d'euros ;
 
@@ -70,7 +70,7 @@ II bis. – Pour les entreprises soumises au régime d'imposition défini au 1 d
 
 III. – Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier :
 
-1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation autres que les produits suivants :
+1\. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation autres que les produits suivants :
 
 a) 95 % des dividendes sur titres de participation et parts dans les entreprises liées ;
 
@@ -82,7 +82,7 @@ d) Quotes-parts de subventions d'investissement ;
 
 e) Quotes-parts de résultat sur opérations faites en commun.
 
-2. La valeur ajoutée est égale à la différence entre :
+2\. La valeur ajoutée est égale à la différence entre :
 
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des reprises de provisions spéciales et des récupérations sur créances amorties lorsqu'elles se rapportent aux produits d'exploitation bancaire ;
 
@@ -98,7 +98,7 @@ b) Et, d'autre part :
 
 IV. – Pour les entreprises, autres que celles mentionnées aux III et VI, qui ont pour activité principale la gestion d'instruments financiers au sens de l'article L. 211-1 du code monétaire et financier :
 
-1. Le chiffre d'affaires comprend :
+1\. Le chiffre d'affaires comprend :
 
 – le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ;
 
@@ -106,7 +106,7 @@ IV. – Pour les entreprises, autres que celles mentionnées aux III et VI, qui 
 
 – et les plus-values sur cession des titres, à l'exception des plus-values de cession de titres de participation.
 
-2. La valeur ajoutée est égale à la différence entre :
+2\. La valeur ajoutée est égale à la différence entre :
 
 – d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se rapportent au chiffre d'affaires défini au 1 ;
 
@@ -126,13 +126,13 @@ a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une so
 
 b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies, 217 duodecies ou 244 quater Y :
 
-1. Le chiffre d'affaires comprend :
+1\. Le chiffre d'affaires comprend :
 
 – le chiffre d'affaires tel qu'il est déterminé pour la généralité des entreprises au 1 du I ;
 
 – les produits financiers et les plus-values résultant de la cession au crédit-preneur des immobilisations financées dans le cadre de l'opération visée au premier alinéa du présent V.
 
-2. La valeur ajoutée est égale à la différence entre :
+2\. La valeur ajoutée est égale à la différence entre :
 
 – d'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré des rentrées sur créances amorties lorsqu'elles se rapportent au chiffre d'affaires défini au 1 ;
 
@@ -140,7 +140,7 @@ b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies,
 
 VI. – Pour les mutuelles et unions régies par le livre II du code de la mutualité, les mutuelles et unions de retraite professionnelle supplémentaire mentionnées à l'article L. 214-1 du même code, les institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale, les institutions de retraite professionnelle supplémentaire mentionnées à l'article L. 942-1 du même code, les entreprises d'assurance et de réassurance régies par le code des assurances et les fonds de retraite professionnelle supplémentaire mentionnés à l'article L. 381-1 du même code :
 
-1. Le chiffre d'affaires comprend :
+1\. Le chiffre d'affaires comprend :
 
 – les primes ou cotisations ;
 
@@ -152,7 +152,7 @@ VI. – Pour les mutuelles et unions régies par le livre II du code de la mutua
 
 et les produits des placements, à l'exception des reprises de provisions pour dépréciation, des plus-values de cession et de 95 % des dividendes afférents aux placements dans des entreprises liées ou avec lien de participation, des plus-values de cession d'immeubles d'exploitation et des quotes-parts de résultat sur opérations faites en commun.
 
-2. La valeur ajoutée est égale à la différence entre :
+2\. La valeur ajoutée est égale à la différence entre :
 
 a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré :
 

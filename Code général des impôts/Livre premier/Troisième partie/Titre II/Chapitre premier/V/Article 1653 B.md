@@ -1,6 +1,6 @@
 # Article 1653 B
 
-1. La commission départementale de conciliation compétente est celle dans le ressort de laquelle les biens sont situés ou immatriculés s'il s'agit de navires ou de bateaux.
+1\. La commission départementale de conciliation compétente est celle dans le ressort de laquelle les biens sont situés ou immatriculés s'il s'agit de navires ou de bateaux.
 
 Lorsque des biens ne formant qu'une seule exploitation sont situés sur plusieurs départements, la commission compétente est celle du département sur le territoire duquel se trouve le siège de l'exploitation ou, à défaut de siège, la partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
 
@@ -8,4 +8,4 @@ La commission départementale de conciliation de Paris est compétente lorsque, 
 
 Pour l'application du présent article, les biens meubles corporels autres que ceux mentionnés au premier alinéa sont réputés être situés au lieu de dépôt de l'acte ou de la déclaration mentionnée à l'article 667.
 
-2. (Transféré sous l'article R\*. 59 B-1 du livre des procédures fiscales).
+2\. (Transféré sous l'article R\*. 59 B-1 du livre des procédures fiscales).

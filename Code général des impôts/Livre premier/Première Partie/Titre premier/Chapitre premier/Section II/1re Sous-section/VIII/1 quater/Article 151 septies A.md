@@ -66,6 +66,6 @@ b) L'agent général d'assurances fait valoir ses droits à la retraite dans les
 
 c) L'activité est intégralement poursuivie dans le délai de deux ans.
 
-2. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur le revenu et sous les mêmes garanties et sanctions. Un décret détermine les modalités d'application du présent 2 et les obligations déclaratives incombant aux redevables et aux compagnies d'assurances.
+2\. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur le revenu et sous les mêmes garanties et sanctions. Un décret détermine les modalités d'application du présent 2 et les obligations déclaratives incombant aux redevables et aux compagnies d'assurances.
 
 VI. – L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I ter de l'article 93 quater et aux articles 151 octies et 151 octies A.

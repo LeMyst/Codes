@@ -1,10 +1,10 @@
 # Article 283
 
-1. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 275 à 277 A où le versement de la taxe peut être suspendu.
+1\. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 275 à 277 A où le versement de la taxe peut être suspendu.
 
 Toutefois, lorsqu'une livraison de biens ou une prestation de services mentionnée à l'article 259 A est effectuée par un assujetti établi hors de France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui agit en tant qu'assujetti et qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France. Le montant dû est identifié sur la déclaration mentionnée à l'article 287.
 
-2. Lorsque les prestations mentionnées au 1° de l'article 259 sont fournies par un assujetti qui n'est pas établi en France, la taxe doit être acquittée par le preneur.
+2\. Lorsque les prestations mentionnées au 1° de l'article 259 sont fournies par un assujetti qui n'est pas établi en France, la taxe doit être acquittée par le preneur.
 
 2 bis. Pour les acquisitions intracommunautaires de biens imposables mentionnées à l'article 258 C, la taxe doit être acquittée par l'acquéreur. Toutefois, le vendeur est solidairement tenu avec ce dernier au paiement de la taxe, lorsque l'acquéreur est établi hors de France.
 
@@ -28,9 +28,9 @@ Pour les transferts de certificats de garanties d'origine mentionnées aux artic
 
 2 decies. Lorsqu'il est constaté une urgence impérieuse tenant à un risque de fraude à la taxe sur la valeur ajoutée présentant un caractère soudain, massif et susceptible d'entraîner pour le Trésor des pertes financières considérables et irréparables, un arrêté du ministre chargé du budget prévoit que la taxe est acquittée par l'assujetti destinataire des biens ou preneur des services.
 
-3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture est redevable de la taxe du seul fait de sa facturation.
+3\. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture est redevable de la taxe du seul fait de sa facturation.
 
-1. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.
+4\. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.
 
 4 bis L'assujetti en faveur duquel a été effectuée une livraison de biens ou une prestation de services et qui savait ou ne pouvait ignorer que tout ou partie de la taxe sur la valeur ajoutée due sur cette livraison ou sur toute livraison antérieure des mêmes biens, ou sur cette prestation ou toute prestation antérieure des mêmes services, ne serait pas reversée de manière frauduleuse est solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
 
@@ -38,7 +38,7 @@ Les dispositions du premier alinéa et celles prévues au 3 de l'article 272 ne 
 
 4 ter. L'assujetti en faveur duquel a été effectuée une livraison de véhicules terrestres à moteur et qui savait ou ne pouvait ignorer que tout ou partie de cette livraison ou de toute livraison antérieure des mêmes véhicules ne pouvait pas bénéficier du régime prévu à l'article 297 A est solidairement tenu d'acquitter, avec tout assujetti partie à cette livraison ou à toute autre livraison antérieure des mêmes véhicules, la taxe frauduleusement éludée.
 
-5. Pour les opérations de façon, lorsque le façonnier réalise directement ou indirectement plus de 50 % de son chiffre d'affaires avec un même donneur d'ordre, ce dernier est solidairement tenu au paiement de la taxe à raison des opérations qu'ils ont réalisées ensemble. Le pourcentage de 50 % s'apprécie pour chaque déclaration mensuelle ou trimestrielle.
+5\. Pour les opérations de façon, lorsque le façonnier réalise directement ou indirectement plus de 50 % de son chiffre d'affaires avec un même donneur d'ordre, ce dernier est solidairement tenu au paiement de la taxe à raison des opérations qu'ils ont réalisées ensemble. Le pourcentage de 50 % s'apprécie pour chaque déclaration mensuelle ou trimestrielle.
 
 Toutefois, ces dispositions ne sont pas applicables lorsque le donneur d'ordre établit qu'il n'a pas eu connaissance du non-respect par le façonnier de ses obligations fiscales.
 

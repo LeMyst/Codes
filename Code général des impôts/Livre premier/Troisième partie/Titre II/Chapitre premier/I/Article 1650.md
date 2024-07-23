@@ -1,6 +1,6 @@
 # Article 1650
 
-1. Dans chaque commune, il est institué une commission communale des impôts directs composée de sept membres, à savoir : le maire ou l'adjoint délégué, président, et six commissaires.
+1\. Dans chaque commune, il est institué une commission communale des impôts directs composée de sept membres, à savoir : le maire ou l'adjoint délégué, président, et six commissaires.
 
 Dans les communes de plus de 2 000 habitants, le nombre de commissaires siégeant à la commission communale des impôts directs ainsi que celui de leurs suppléants est porté de six à huit.
 
@@ -14,11 +14,11 @@ Peuvent participer à la commission communale des impôts directs, sans voix dé
 
 – cinq agents au plus pour les communes dont la population est supérieure à 150 000 habitants.
 
-2. Les commissaires ainsi que leurs suppléants en nombre égal sont désignés par le directeur départemental des finances publiques sur une liste de contribuables, en nombre double, remplissant les conditions sus-énoncées, dressée par le conseil municipal.
+2\. Les commissaires ainsi que leurs suppléants en nombre égal sont désignés par le directeur départemental des finances publiques sur une liste de contribuables, en nombre double, remplissant les conditions sus-énoncées, dressée par le conseil municipal.
 
 La désignation des commissaires et de leurs suppléants est effectuée de manière que les personnes respectivement imposées à la taxe foncière, à la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et à la cotisation foncière des entreprises soient équitablement représentées.
 
-3. La durée du mandat des membres de la commission communale des impôts directs est la même que celle du mandat du conseil municipal.
+3\. La durée du mandat des membres de la commission communale des impôts directs est la même que celle du mandat du conseil municipal.
 
 Leur nomination a lieu dans les deux mois qui suivent le renouvellement général des conseils municipaux.A défaut de liste de présentation, ils sont nommés d'office par le directeur départemental des finances publiques un mois après mise en demeure de délibérer adressée au conseil municipal. Le directeur peut, sans mise en demeure, procéder à des désignations d'office si la liste de présentation ne contient pas soit vingt-quatre noms dans les communes de 2 000 habitants ou moins, soit trente-deux noms dans les communes de plus de 2 000 habitants, ou contient des noms de personnes ne remplissant pas les conditions exigées au 1.
 

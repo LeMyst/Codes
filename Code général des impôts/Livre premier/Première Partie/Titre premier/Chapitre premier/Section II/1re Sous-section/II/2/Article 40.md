@@ -6,13 +6,13 @@ Cet engagement de réinvestir doit être annexé à la déclaration des résulta
 
 Les profits réalisés par les entreprises à l'occasion de la concession exclusive de licences d'exploitation de brevets peuvent bénéficier des dispositions ci-dessus lorsque cette concession a pour objet un brevet présentant le caractère d'un élément de l'actif immobilisé au sens de ces dispositions et qu'elle est consentie jusqu'à l'expiration de la durée de validité de ce brevet.
 
-2. et 3. (Abrogés).
+2\. et 3. (Abrogés).
 
-1. Si le remploi est effectué dans le délai prévu au 1, les plus-values distraites du bénéfice imposable sont considérées comme affectées à l'amortissement des nouvelles immobilisations et viennent en déduction du prix de revient pour le calcul des amortissements et des plus-values réalisées ultérieurement.
+4\. Si le remploi est effectué dans le délai prévu au 1, les plus-values distraites du bénéfice imposable sont considérées comme affectées à l'amortissement des nouvelles immobilisations et viennent en déduction du prix de revient pour le calcul des amortissements et des plus-values réalisées ultérieurement.
 
 Dans le cas contraire, elles sont rapportées au bénéfice imposable de l'exercice au cours duquel a expiré le délai ci-dessus.
 
-5. et 6. (Abrogés) (3).
+5\. et 6. (Abrogés) (3).
 
 NOTA:
 (1) Voir l'article 27 de l'annexe II.

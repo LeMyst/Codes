@@ -1,6 +1,6 @@
 # Article 39
 
-1. Le bénéfice net est établi sous déduction de toutes charges, celles-ci comprenant, sous réserve des dispositions du 5, notamment :
+1\. Le bénéfice net est établi sous déduction de toutes charges, celles-ci comprenant, sous réserve des dispositions du 5, notamment :
 
 1° Les frais généraux de toute nature, les dépenses de personnel et de main-d'oeuvre, le loyer des immeubles dont l'entreprise est locataire.
 
@@ -142,17 +142,17 @@ Le montant total des dotations aux provisions non admises en déduction au titre
 
 9° (Abrogé).
 
-2. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des contrevenants à des obligations légales ne sont pas admises en déduction des bénéfices soumis à l'impôt.
+2\. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des contrevenants à des obligations légales ne sont pas admises en déduction des bénéfices soumis à l'impôt.
 
 Il en est de même du versement libératoire prévu à l'article L. 221-4 du code de l'énergie.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
-3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement sont exclues de ses charges déductibles pour l'assiette de l'impôt lorsque parmi ces charges figurent déjà les frais habituels de cette nature remboursés aux intéressés.
+3\. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement sont exclues de ses charges déductibles pour l'assiette de l'impôt lorsque parmi ces charges figurent déjà les frais habituels de cette nature remboursés aux intéressés.
 
 Pour l'application de cette disposition, les dirigeants s'entendent, dans les sociétés de personnes et les sociétés en participation qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés.
 
-4. Qu'elles soient supportées directement par l'entreprise ou sous forme d'allocations forfaitaires ou de remboursements de frais, sont exclues des charges déductibles pour l'établissement de l'impôt, d'une part, les dépenses et charges de toute nature ayant trait à l'exercice de la chasse ainsi qu'à l'exercice non professionnel de la pêche et, d'autre part, les charges, à l'exception de celles ayant un caractère social, résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces résidences ; les dépenses et charges ainsi définies comprennent notamment les amortissements.
+4\. Qu'elles soient supportées directement par l'entreprise ou sous forme d'allocations forfaitaires ou de remboursements de frais, sont exclues des charges déductibles pour l'établissement de l'impôt, d'une part, les dépenses et charges de toute nature ayant trait à l'exercice de la chasse ainsi qu'à l'exercice non professionnel de la pêche et, d'autre part, les charges, à l'exception de celles ayant un caractère social, résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces résidences ; les dépenses et charges ainsi définies comprennent notamment les amortissements.
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
@@ -188,7 +188,7 @@ La fraction de l'amortissement des véhicules de tourisme au sens de l'article L
 
 Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées ou inscrites au titre des monuments historiques, des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle.
 
-5. Sont également déductibles les dépenses suivantes :
+5\. Sont également déductibles les dépenses suivantes :
 
 a. Les rémunérations directes et indirectes, y compris les remboursements de frais versés aux personnes les mieux rémunérées ;
 
@@ -210,21 +210,21 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 5 bis. Les rémunérations différées visées au 4° du I de l'article L. 22-10-9 du code de commerce sont admises en déduction du bénéfice net dans la limite de trois fois le plafond annuel de la sécurité sociale par bénéficiaire.
 
-6. (périmé).
+6\. (périmé).
 
-1. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+7\. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
-1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
+8\. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
-9. L'indemnité de congé payé correspondant aux droits acquis durant la période neutralisée définie ci-après, calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail, n'est pas déductible. Cette période neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente aux droits acquis et non utilisés à l'ouverture du premier exercice clos à compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la période d'acquisition des droits à congé payé non utilisés à la clôture de cet exercice. L'indemnité correspondant à ces derniers droits est considérée comme déduite du point de vue fiscal.
+9\. L'indemnité de congé payé correspondant aux droits acquis durant la période neutralisée définie ci-après, calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail, n'est pas déductible. Cette période neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente aux droits acquis et non utilisés à l'ouverture du premier exercice clos à compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la période d'acquisition des droits à congé payé non utilisés à la clôture de cet exercice. L'indemnité correspondant à ces derniers droits est considérée comme déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces indemnités.
 
 Un décret fixe les modalités d'application du présent 9.
 
-10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
+10\. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
 
 Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aide à finalité régionale et dans les zones de redynamisation urbaine, définis au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
 
@@ -242,9 +242,9 @@ Lorsque le bien n'est pas acquis à l'issue du contrat ou lorsque le contrat de 
 
 Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non déductibles sont considérées comme un élément du prix de revient du contrat pour le calcul de la plus-value dans les conditions de l'article 39 duodecies A.
 
-11. (Périmé)
+11\. (Périmé)
 
-01. Des liens de dépendance sont réputés exister entre deux entreprises :
+12\. Des liens de dépendance sont réputés exister entre deux entreprises :
 
 a-lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
 
@@ -264,7 +264,7 @@ Les deux premiers alinéas du présent 12 ter s'appliquent lorsque l'entreprise 
 
 2° Et bénéficie, au titre des redevances mentionnées au premier alinéa, d'un régime fiscal considéré comme dommageable par l'Organisation de coopération et de développement économiques.
 
-13. Sont exclues des charges déductibles pour l'établissement de l'impôt les aides de toute nature consenties à une autre entreprise, à l'exception des aides à caractère commercial.
+13\. Sont exclues des charges déductibles pour l'établissement de l'impôt les aides de toute nature consenties à une autre entreprise, à l'exception des aides à caractère commercial.
 
 Le premier alinéa ne s'applique pas aux aides consenties en application d'un accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
 

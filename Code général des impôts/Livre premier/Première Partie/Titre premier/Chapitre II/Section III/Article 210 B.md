@@ -1,6 +1,6 @@
 # Article 210 B
 
-1. L'article 210 A s'applique à l'apport partiel d'actif d'une ou plusieurs branches complètes d'activité ou d'éléments assimilés.
+1\. L'article 210 A s'applique à l'apport partiel d'actif d'une ou plusieurs branches complètes d'activité ou d'éléments assimilés.
 
 Le même article 210 A s'applique à la scission de société comportant au moins deux branches complètes d'activité lorsque chacune des sociétés bénéficiaires reçoit une ou plusieurs de ces branches.
 
@@ -8,11 +8,11 @@ Les apports de participations portant sur plus de 50 p. 100 du capital de la soc
 
 1 bis. En cas d'apport partiel d'actif d'éléments assimilés mentionnés au dernier alinéa du 1 du présent article, la société apporteuse est réputée détenir les titres remis en contrepartie de l'apport depuis la date à laquelle celle-ci a acquis les éléments apportés.
 
-2. Les plus-values de cession afférentes aux titres remis en contrepartie de l'apport sont calculées par référence à la valeur que les biens apportés avaient, du point de vue fiscal, dans les écritures de la société apporteuse.
+2\. Les plus-values de cession afférentes aux titres remis en contrepartie de l'apport sont calculées par référence à la valeur que les biens apportés avaient, du point de vue fiscal, dans les écritures de la société apporteuse.
 
 Les plus-values ou moins-values dégagées sur les titres répartis dans les conditions prévues au 2 de l'article 115 ne sont pas retenues pour l'assiette de l'impôt sur les sociétés dû par la personne morale apporteuse.
 
-3. En l'absence d'apport d'une ou plusieurs branches complètes d'activité ou d'éléments assimilés, les dispositions de l'article 210 A s'appliquent aux apports partiels d'actif et aux scissions sur agrément délivré dans les conditions prévues à l'article 1649 nonies.
+3\. En l'absence d'apport d'une ou plusieurs branches complètes d'activité ou d'éléments assimilés, les dispositions de l'article 210 A s'appliquent aux apports partiels d'actif et aux scissions sur agrément délivré dans les conditions prévues à l'article 1649 nonies.
 
 L'agrément est délivré lorsque, compte tenu des éléments faisant l'objet de l'apport :
 

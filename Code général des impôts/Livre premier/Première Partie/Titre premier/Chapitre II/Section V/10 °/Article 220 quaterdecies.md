@@ -12,7 +12,7 @@ b) Comporter, dans leur contenu dramatique, des éléments rattachés à la cult
 
 c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à 250 000 € ou, lorsque le budget de production de l'œuvre est inférieur à 500 000 €, d'un montant correspondant au moins à 50 % de ce budget et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France.
 
-2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
+2\. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
 a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographique ou d'incitation à la violence ;
 
@@ -32,17 +32,17 @@ e) Les dépenses de transport, de restauration et d'hébergement occasionnées p
 
 Le montant cumulé des rémunérations mentionnées au a et des salaires mentionnés au c versés au réalisateur en qualité de technicien est retenu par personne physique, dans la limite d'un montant cumulé calculé comme suit :
 
-- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
+\- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
 
-- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
+\- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
 
-- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
+\- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 40 % en ce qui concerne les œuvres cinématographiques ou audiovisuelles de fiction dans lesquelles au moins 15 % des plans, soit en moyenne un plan et demi par minute, font l'objet d'un traitement numérique permettant d'ajouter des personnages, des éléments de décor ou des objets participant à l'action ou de modifier le rendu de la scène ou le point de vue de la caméra, à la condition que, au sein du budget de production de l'œuvre, le montant total des dépenses éligibles afférentes aux travaux de traitement numérique des plans soit supérieur à deux millions d'euros.
 
-2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
+2\. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
 
-1. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de l'œuvre.
+3\. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de l'œuvre.
 
 IV. – Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de la date de réception par le président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. L'agrément provisoire est délivré par le président du Centre national du cinéma et de l'image animée après sélection des œuvres par un comité d'experts. Cet agrément atteste que les œuvres remplissent les conditions fixées au II. Les conditions de délivrance de l'agrément provisoire sont fixées par décret.
 

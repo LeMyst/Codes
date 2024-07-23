@@ -4,7 +4,7 @@ I.-1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d
 
 Cet avantage fiscal s'applique, dans les mêmes conditions, aux souscriptions effectuées par des personnes physiques en indivision. Chaque membre de l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa souscription représentative de titres reçus en contrepartie de souscriptions au capital des entreprises vérifiant les conditions prévues au II du présent article.
 
-2. La réduction d'impôt prévue au 1 du présent I est accordée dans les limites et conditions suivantes :
+2\. La réduction d'impôt prévue au 1 du présent I est accordée dans les limites et conditions suivantes :
 
 1° Elle est accordée au titre de l'année de la clôture de l'exercice de l'entreprise ;
 
@@ -82,7 +82,7 @@ c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les
 
 7° L'entreprise communique à chaque souscripteur, avant la souscription, un document d'information précisant notamment la période de conservation à respecter pour bénéficier de la réduction d'impôt mentionnée au 1 du I, les conditions de revente des titres ou parts au terme de la période de conservation, les conditions de remboursement des apports, les risques engendrés par l'opération, les règles d'organisation et de prévention des conflits d'intérêts, ainsi que les modalités de calcul et la décomposition de tous les frais et commissions, directs et indirects.
 
-2. Pour chaque entreprise, le montant total des souscriptions ouvrant droit au bénéfice de la réduction prévue au 1 du I du présent article n'excède pas, au titre de l'exercice de souscription :
+2\. Pour chaque entreprise, le montant total des souscriptions ouvrant droit au bénéfice de la réduction prévue au 1 du I du présent article n'excède pas, au titre de l'exercice de souscription :
 
 1° Un montant égal au rapport entre :
 

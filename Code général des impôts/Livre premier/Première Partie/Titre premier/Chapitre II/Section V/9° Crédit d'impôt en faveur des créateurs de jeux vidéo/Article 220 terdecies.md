@@ -18,7 +18,7 @@ III. – 1. – Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt 
 
 Le respect des conditions de création prévues aux 3° et 4° est vérifié au moyen d'un barème de points dont le contenu est fixé par décret.
 
-2. – N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. A l'exception de ceux comportant des séquences à caractère pornographique ou de très grande violence, les jeux vidéo spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels ouvrent droit au crédit d'impôt dès lors que leur contribution au développement et à la diversité de la création française et européenne en matière de jeux vidéo présente un niveau particulièrement significatif, déterminé au moyen du barème de points mentionné au 4° du 1.
+2\. – N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. A l'exception de ceux comportant des séquences à caractère pornographique ou de très grande violence, les jeux vidéo spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels ouvrent droit au crédit d'impôt dès lors que leur contribution au développement et à la diversité de la création française et européenne en matière de jeux vidéo présente un niveau particulièrement significatif, déterminé au moyen du barème de points mentionné au 4° du 1.
 
 IV. – 1. – Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 30 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
@@ -32,7 +32,7 @@ IV. – 1. – Pour la création d'un jeu vidéo déterminé, le crédit d'impô
 
 5° Les dépenses exposées pour la création d'un jeu vidéo répondant aux conditions prévues au III confiées à d'autres entreprises ou organismes. Ces dépenses entrent dans la base de calcul du crédit d'impôt dans la limite de 2 millions d'euros par exercice.
 
-2. – Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III.
+2\. – Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III.
 
 Seules ouvrent droit au crédit d'impôt les dépenses exposées dans les trente-six mois qui précèdent la date de délivrance de l'agrément définitif mentionnée à l'article 220 X .
 

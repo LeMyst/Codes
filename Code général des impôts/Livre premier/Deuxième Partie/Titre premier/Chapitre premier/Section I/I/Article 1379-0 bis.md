@@ -32,7 +32,7 @@ Pour les communautés de communes créées, ou issues de la transformation d'un 
 
 Le régime prévu au présent 1 est applicable aux communautés de communes issues, dans les conditions prévues au II de l'article 51 de la loi n° 99-586 du 12 juillet 1999 précitée, de districts ayant opté pour ces mêmes dispositions.
 
-2. Les communautés de communes mentionnées au 2° du II peuvent, sur délibération prise à la majorité simple des membres de leur conseil, faire application du II de l'article 1609 quinquies C.
+2\. Les communautés de communes mentionnées au 2° du II peuvent, sur délibération prise à la majorité simple des membres de leur conseil, faire application du II de l'article 1609 quinquies C.
 
 IV. – Les établissements publics de coopération intercommunale mentionnés aux II et III peuvent opter pour le régime fiscal prévu au I.
 
@@ -62,7 +62,7 @@ VI. – 1. Sont substitués aux communes pour l'application des dispositions rel
 
 Les communautés de communes peuvent instituer la taxe d'enlèvement des ordures ménagères, dès la première année d'application du 2° du II, jusqu'au 31 mars, dès lors que les communes qui ont décidé de la création de la communauté de communes, à l'exclusion de toute autre, étaient antérieurement associées dans un même syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
 
-2. Par dérogation au 1, les établissements publics de coopération intercommunale à fiscalité propre qui exercent la totalité de la compétence prévue à l'article L. 2224-13 du code général des collectivités territoriales et qui adhèrent, pour l'ensemble de cette compétence, à un syndicat mixte, peuvent décider :
+2\. Par dérogation au 1, les établissements publics de coopération intercommunale à fiscalité propre qui exercent la totalité de la compétence prévue à l'article L. 2224-13 du code général des collectivités territoriales et qui adhèrent, pour l'ensemble de cette compétence, à un syndicat mixte, peuvent décider :
 
 a) Soit d'instituer, avant le 15 octobre d'une année conformément à l'article 1639 A bis, et de percevoir la taxe d'enlèvement des ordures ménagères pour leur propre compte, en déterminant, le cas échéant, les différentes zones de perception, dans le cas où le syndicat mixte ne l'aurait pas instituée avant le 1er juillet de la même année par dérogation au même article 1639 A bis ; lorsque le syndicat mixte décide postérieurement d'instituer la taxe ou la redevance prévue à l'article L. 2333-76 du code général des collectivités territoriales, la délibération prise par le syndicat ne s'applique pas sur le territoire de l'établissement public de coopération intercommunale sauf si ce dernier rapporte sa délibération ;
 
@@ -78,13 +78,13 @@ IX. –1. Perçoivent la taxe d'aménagement dans les conditions prévues au 1°
 
 2° Les communautés urbaines.
 
-2. Peuvent percevoir la taxe d'aménagement dans les conditions prévues au II de l'article 1635 quater A, lorsqu'elles sont compétentes en matière de plan local d'urbanisme :
+2\. Peuvent percevoir la taxe d'aménagement dans les conditions prévues au II de l'article 1635 quater A, lorsqu'elles sont compétentes en matière de plan local d'urbanisme :
 
 1° Les communautés d'agglomération ;
 
 2° Les communautés de communes.
 
-3. Sur délibération prise dans les conditions prévues au VI de l'article 1639 A bis, les établissements publics de coopération intercommunale mentionnés aux 1 et 2 du présent IX reversent tout ou partie de la taxe d'aménagement à leurs communes membres ou groupements de collectivités, compte tenu de la charge des équipements publics relevant de leurs compétences.
+3\. Sur délibération prise dans les conditions prévues au VI de l'article 1639 A bis, les établissements publics de coopération intercommunale mentionnés aux 1 et 2 du présent IX reversent tout ou partie de la taxe d'aménagement à leurs communes membres ou groupements de collectivités, compte tenu de la charge des équipements publics relevant de leurs compétences.
 
 X. – Les métropoles, la métropole de Lyon, les communautés urbaines, les communautés d'agglomération et les communautés de communes peuvent se substituer à leurs communes membres pour l'application des dispositions relatives à la taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis.
 

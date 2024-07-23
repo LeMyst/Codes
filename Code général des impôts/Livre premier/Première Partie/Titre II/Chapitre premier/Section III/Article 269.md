@@ -24,7 +24,7 @@ Toutefois, par dérogation au précédent alinéa, le fait générateur de la ta
 
 e) (Abrogé).
 
-2. La taxe est exigible :
+2\. La taxe est exigible :
 
 a) Pour les livraisons mentionnées aux a et a ter du 1, lors de la réalisation du fait générateur. Toutefois, en cas de versement préalable d'un acompte, la taxe devient exigible au moment de son encaissement, à concurrence du montant encaissé.
 

@@ -1,6 +1,6 @@
 # Article 80 duodecies
 
-1. Toute indemnité versée à l'occasion de la rupture du contrat de travail constitue une rémunération imposable, sous réserve des dispositions suivantes.
+1\. Toute indemnité versée à l'occasion de la rupture du contrat de travail constitue une rémunération imposable, sous réserve des dispositions suivantes.
 
 Ne constituent pas une rémunération imposable :
 
@@ -30,4 +30,4 @@ b) Soit le montant de l'indemnité de licenciement prévue par la convention col
 
 Le présent 6° est applicable aux indemnités spécifiques de rupture conventionnelle versées en application du I de l’article 72 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique et de l’article L. 552-1 du code général de la fonction publique.
 
-2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions, aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des fonctions, notamment de révocation, seule la fraction des indemnités qui excède trois fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale est imposable.
+2\. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions, aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des fonctions, notamment de révocation, seule la fraction des indemnités qui excède trois fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale est imposable.

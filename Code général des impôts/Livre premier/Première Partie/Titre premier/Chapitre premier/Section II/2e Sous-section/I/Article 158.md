@@ -1,10 +1,10 @@
 # Article 158
 
-1. Les revenus nets des diverses catégories entrant dans la composition du revenu net global sont évalués d'après les règles fixées aux articles 12 et 13 et dans les conditions prévues aux 2 à 6 ter ci-après, sans qu'il y ait lieu de distinguer suivant que ces revenus ont leur source en France ou hors de France.
+1\. Les revenus nets des diverses catégories entrant dans la composition du revenu net global sont évalués d'après les règles fixées aux articles 12 et 13 et dans les conditions prévues aux 2 à 6 ter ci-après, sans qu'il y ait lieu de distinguer suivant que ces revenus ont leur source en France ou hors de France.
 
 Toutefois, en ce qui concerne les entreprises et exploitations situées hors de France, les règles fixées par le présent code pour la détermination forfaitaire des bénéfices imposables ne sont pas applicables.
 
-2. Le revenu net foncier est déterminé conformément aux dispositions des articles 14 à 33 quinquies.
+2\. Le revenu net foncier est déterminé conformément aux dispositions des articles 14 à 33 quinquies.
 
 3.1° Les revenus de capitaux mobiliers pris en compte dans l'assiette du revenu net global comprennent les produits des bons ou contrats de capitalisation ou placements de même nature mentionnés au 6° de l'article 120 et au 1° du I de l'article 125-0 A, attachés à des primes versées jusqu'au 26 septembre 2017 et n'ayant pas supporté le prélèvement prévu au 1 du II du même article 125-0 A, ainsi que tous les autres revenus mentionnés au premier alinéa du 1° du A du 1 de l'article 200 A pour lesquels l'option globale prévue au 2 du même article 200 A est exercée.
 
@@ -44,7 +44,7 @@ L'application de ces dispositions est conditionnée à la ventilation par les or
 
 5° (Abrogé.)
 
-4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Les gains ou pertes relevant du régime des plus ou moins-values à long terme sont extournés des résultats en vue d'être soumis à une imposition séparée dans les conditions prévues à l'article 39 quindecies. Les résultats nets bénéficiaires issus de la cession, de la concession ou de la sous-concession d'actifs incorporels, pour leur fraction résultant de l'application de l'article 238, sont soustraits des résultats en vue d'être soumis à une imposition séparée dans les conditions prévues au même article 238. Toutefois, ces résultats nets ne sont pas imposables lorsqu'ils sont utilisés pour compenser le déficit d'exploitation de l'exercice. Le déficit ainsi imputé ne peut plus être reporté sur les bénéfices des exercices ultérieurs.
+4\. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Les gains ou pertes relevant du régime des plus ou moins-values à long terme sont extournés des résultats en vue d'être soumis à une imposition séparée dans les conditions prévues à l'article 39 quindecies. Les résultats nets bénéficiaires issus de la cession, de la concession ou de la sous-concession d'actifs incorporels, pour leur fraction résultant de l'application de l'article 238, sont soustraits des résultats en vue d'être soumis à une imposition séparée dans les conditions prévues au même article 238. Toutefois, ces résultats nets ne sont pas imposables lorsqu'ils sont utilisés pour compenser le déficit d'exploitation de l'exercice. Le déficit ainsi imputé ne peut plus être reporté sur les bénéfices des exercices ultérieurs.
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les résultats d'ensemble comprennent des revenus relevant de plusieurs catégories ou provenant d'exploitations situées hors de France, il est fait état de ces résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
@@ -52,7 +52,7 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 4 ter. (disposition devenue sans objet).
 
-5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
+5\. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 4 321 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
@@ -86,7 +86,7 @@ Pour l'application de cette règle, les arrérages échus en 1987 sont répartis
 
 Les dispositions des deux alinéas précédents sont également applicables pour l'établissement de l'impôt des redevables pensionnés au 31 décembre 2003 dont la pension a fait l'objet d'un premier versement mensuel en 2004, les arrérages mentionnés au deuxième alinéa s'entendant des arrérages échus en 2004, ainsi qu'aux pensionnés qui ont perçu en 2016 des caisses d'assurance retraite et de la santé au travail mentionnées à l'article L. 215-1 du code de la sécurité sociale des pensions dues au titre de l'année 2015, les arrérages mentionnés au deuxième alinéa s'entendant de ceux échus en 2016.
 
-6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
+6\. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
 – 70 % si l'intéressé est âgé de moins de 50 ans ;
 
@@ -114,7 +114,7 @@ Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisation
 
 6 ter. – Lorsqu'elles sont prises en compte dans l'assiette du revenu net global dans les conditions prévues au second alinéa de l'article 200 C, les plus-values mentionnées à l'article 150 VH bis sont déterminées conformément au même article 150 VH bis.
 
-7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de l'impôt selon les modalités prévues à l'article 197, est multiplié par un coefficient de 1,25. Ces dispositions s'appliquent :
+7\. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de l'impôt selon les modalités prévues à l'article 197, est multiplié par un coefficient de 1,25. Ces dispositions s'appliquent :
 
 1° ( Abrogé)
 

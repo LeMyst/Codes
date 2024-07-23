@@ -24,9 +24,9 @@ Le montant de cette compensation relais est égal au plus élevé des deux monta
 
 – le produit de cette taxe additionnelle au titre de l'année 2009.
 
-2. Pour chaque commune ou établissement public de coopération intercommunale à fiscalité propre, la compensation relais définie au 1 est augmentée du produit des bases communales ou intercommunales de cotisation foncière des entreprises des établissements situés sur le territoire de cette commune ou de cet établissement imposées au profit du budget général de l'Etat conformément au deuxième alinéa du I par la différence, si elle est positive, entre le taux relais voté par cette commune ou cet établissement public conformément au premier alinéa du même I et le taux de taxe professionnelle voté par cette commune ou cet établissement public pour les impositions au titre de l'année 2009, multipliée par un coefficient de 0,84.
+2\. Pour chaque commune ou établissement public de coopération intercommunale à fiscalité propre, la compensation relais définie au 1 est augmentée du produit des bases communales ou intercommunales de cotisation foncière des entreprises des établissements situés sur le territoire de cette commune ou de cet établissement imposées au profit du budget général de l'Etat conformément au deuxième alinéa du I par la différence, si elle est positive, entre le taux relais voté par cette commune ou cet établissement public conformément au premier alinéa du même I et le taux de taxe professionnelle voté par cette commune ou cet établissement public pour les impositions au titre de l'année 2009, multipliée par un coefficient de 0,84.
 
-1. Pour l'application des 1 et 2 :
+3\. Pour l'application des 1 et 2 :
 
 a) Lorsqu'un établissement public de coopération intercommunale fait application en 2010 de l'article 1609 nonies C et n'en faisait pas application en 2009, n'existait pas en 2009 ou avait en 2009 un périmètre différent de celui de l'année 2010 :
 

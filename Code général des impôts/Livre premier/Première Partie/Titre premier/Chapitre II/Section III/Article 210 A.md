@@ -1,6 +1,6 @@
 # Article 210 A
 
-1. Les plus-values nettes et les profits dégagés sur l'ensemble des éléments d'actif apportés du fait d'une fusion ne sont pas soumis à l'impôt sur les sociétés.
+1\. Les plus-values nettes et les profits dégagés sur l'ensemble des éléments d'actif apportés du fait d'une fusion ne sont pas soumis à l'impôt sur les sociétés.
 
 Il en est de même de la plus-value éventuellement dégagée par la société absorbante lors de l'annulation des actions ou parts de son propre capital qu'elle reçoit ou qui correspondent à ses droits dans la société absorbée.
 
@@ -8,9 +8,9 @@ L'inscription à l'actif de la société absorbante du mali technique de fusion 
 
 Lorsque la société absorbante a acquis les titres de la société absorbée moins de deux ans avant la fusion, l'éventuelle moins-value à court terme réalisée à l'occasion de l'annulation de ces titres de participation n'est pas déductible à hauteur du montant des produits de ces titres qui a ouvert droit à l'application du régime prévu aux articles 145 et 216 depuis leur acquisition.
 
-2. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de la société absorbée que si elles deviennent sans objet.
+2\. L'impôt sur les sociétés n'est applicable aux provisions figurant au bilan de la société absorbée que si elles deviennent sans objet.
 
-1. L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à respecter les prescriptions suivantes :
+3\. L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à respecter les prescriptions suivantes :
 
 a) Elle doit reprendre à son passif :
 
@@ -28,15 +28,15 @@ A compter de l'exercice au cours duquel la société absorbante déduit de son r
 
 e) Elle doit inscrire à son bilan les éléments autres que les immobilisations pour la valeur qu'ils avaient, du point de vue fiscal, dans les écritures de la société absorbée. A défaut, elle doit comprendre dans ses résultats de l'exercice au cours duquel intervient l'opération le profit correspondant à la différence entre la nouvelle valeur de ces éléments et la valeur qu'ils avaient, du point de vue fiscal, dans les écritures de la société absorbée.
 
-4. (Dispositions devenues sans objet pour les exercices ouverts à compter du 1er janvier 1997-Loi n° 97-1026 du 10 novembre 1997, article 2).
+4\. (Dispositions devenues sans objet pour les exercices ouverts à compter du 1er janvier 1997-Loi n° 97-1026 du 10 novembre 1997, article 2).
 
-1. Les droits afférents à un contrat de crédit-bail conclu dans les conditions prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier sont assimilés à des éléments de l'actif immobilisé, amortissables ou non amortissables dans les conditions prévues à l'article 39 duodecies A.
+5\. Les droits afférents à un contrat de crédit-bail conclu dans les conditions prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier sont assimilés à des éléments de l'actif immobilisé, amortissables ou non amortissables dans les conditions prévues à l'article 39 duodecies A.
 
 Pour l'application du c du 3, en cas de cession ultérieure des droits mentionnés à l'alinéa précédent qui sont assimilés à des éléments non amortissables ou de cession du terrain, la plus-value est calculée d'après la valeur que ces droits avaient, du point de vue fiscal, dans les écritures de la société absorbée.
 
 Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail portant sur des éléments incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal.
 
-6. Pour l'application du présent article, les titres du portefeuille dont le résultat de cession est exclu du régime des plus ou moins-values à long terme conformément à l'article 219 sont assimilés à des éléments de l'actif immobilisé.
+6\. Pour l'application du présent article, les titres du portefeuille dont le résultat de cession est exclu du régime des plus ou moins-values à long terme conformément à l'article 219 sont assimilés à des éléments de l'actif immobilisé.
 
 Pour l'application du c du 3, en cas de cession ultérieure des titres mentionnés au premier alinéa, la plus-value est calculée d'après la valeur que ces titres avaient, du point de vue fiscal, dans les écritures de la société absorbée.
 

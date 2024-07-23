@@ -2,7 +2,7 @@
 
 I. – Pour l'application du deuxième alinéa du I de l'article 1640 B, les taux communaux et intercommunaux de référence sont définis comme suit :
 
-1. Pour les communes qui ne sont pas membres en 2010 d'un établissement public de coopération intercommunale à fiscalité propre, le taux communal de référence est la somme :
+1\. Pour les communes qui ne sont pas membres en 2010 d'un établissement public de coopération intercommunale à fiscalité propre, le taux communal de référence est la somme :
 
 a) Du taux communal relais déterminé conformément au premier alinéa du I de l'article 1640 B ;
 
@@ -10,7 +10,7 @@ b) Des taux départemental et régional de taxe professionnelle applicables sur 
 
 c) Le cas échéant, du taux de la cotisation de péréquation prévue par l'article 1648 D applicable dans la commune pour les impositions au titre de l'année 2009.
 
-2. Pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux intercommunal de référence est, sans préjudice de l'application du 4, la somme :
+2\. Pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux intercommunal de référence est, sans préjudice de l'application du 4, la somme :
 
 a) Du taux intercommunal relais déterminé conformément au premier alinéa du I de l'article 1640 B ;
 
@@ -38,17 +38,17 @@ La fraction complémentaire destinée aux communes, mentionnée au d, est le com
 
 2° Les taux intercommunaux de référence afférents aux régimes prévus au II de l'article 1609 quinquies C dans sa rédaction en vigueur au 31 décembre 2009 sont déterminés selon des modalités identiques à celles décrites au 2 pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C dans sa rédaction en vigueur au 31 décembre 2009.
 
-4. Lorsque l'application en 2010 des dispositions relatives à la taxe professionnelle dans leur rédaction en vigueur au 31 décembre 2009 aurait conduit à l'application d'une des procédures de réduction progressive des écarts de taux de taxe professionnelle prévues au 1° du III de l'article 1609 nonies C, à l'article 1638, au troisième alinéa du 1 du III de l'article 1638-0 bis et au I de l'article 1638 quater, le taux de référence utilisé pour l'application du I de l'article 1640 B dans chaque commune ou portion de commune concernée est la somme :
+4\. Lorsque l'application en 2010 des dispositions relatives à la taxe professionnelle dans leur rédaction en vigueur au 31 décembre 2009 aurait conduit à l'application d'une des procédures de réduction progressive des écarts de taux de taxe professionnelle prévues au 1° du III de l'article 1609 nonies C, à l'article 1638, au troisième alinéa du 1 du III de l'article 1638-0 bis et au I de l'article 1638 quater, le taux de référence utilisé pour l'application du I de l'article 1640 B dans chaque commune ou portion de commune concernée est la somme :
 
 a) D'une part, du taux déterminé conformément aux 1 à 3 ;
 
 b) D'autre part, de la différence qui aurait résulté de l'application de ces procédures entre le taux communal ou intercommunal de taxe professionnelle voté et le taux de taxe professionnelle applicable.
 
-5. Les taux de référence définis aux 1 à 4 sont multipliés par un coefficient de 0,84.
+5\. Les taux de référence définis aux 1 à 4 sont multipliés par un coefficient de 0,84.
 
-1. Les taux de référence définis aux 1 à 4 et corrigés conformément au 5 sont multipliés par un coefficient de 1,0485.
+6\. Les taux de référence définis aux 1 à 4 et corrigés conformément au 5 sont multipliés par un coefficient de 1,0485.
 
-1. Pour l'application des 1 à 3 à des établissements publics de coopération intercommunale dotés d'une fiscalité propre dont le territoire se situe sur celui de plusieurs départements, le taux départemental de taxe professionnelle de 2009 à prendre en compte s'entend de la moyenne des taux départementaux de taxe professionnelle de 2009 concernés, pondérés par l'importance relative des bases de cette taxe notifiées aux départements au titre de l'année 2009 et situées dans le territoire de l'établissement public de coopération intercommunale. (1)
+7\. Pour l'application des 1 à 3 à des établissements publics de coopération intercommunale dotés d'une fiscalité propre dont le territoire se situe sur celui de plusieurs départements, le taux départemental de taxe professionnelle de 2009 à prendre en compte s'entend de la moyenne des taux départementaux de taxe professionnelle de 2009 concernés, pondérés par l'importance relative des bases de cette taxe notifiées aux départements au titre de l'année 2009 et situées dans le territoire de l'établissement public de coopération intercommunale. (1)
 
 Pour l'application des 1 à 3 à des établissements publics de coopération intercommunale dotés d'une fiscalité propre dont le territoire se situe sur celui de plusieurs régions, le taux régional de taxe professionnelle de 2009 à prendre en compte s'entend de la moyenne des taux régionaux de taxe professionnelle de 2009 concernés, pondérés par l'importance relative des bases de cette taxe notifiées aux régions au titre de l'année 2009 et situées dans le territoire de l'établissement public de coopération intercommunale. (1)
 
@@ -64,9 +64,9 @@ A. – Les taux de référence de cotisation foncière des entreprises relatifs 
 
 B. – Les taux de référence de taxe foncière sur les propriétés bâties sont calculés de la manière suivante :
 
-1. Pour les communes et établissements publics de coopération intercommunale à fiscalité propre, ce taux est le taux de l'année 2010. Ce taux ne fait pas l'objet de la correction prévue au IX ;
+1\. Pour les communes et établissements publics de coopération intercommunale à fiscalité propre, ce taux est le taux de l'année 2010. Ce taux ne fait pas l'objet de la correction prévue au IX ;
 
-1. Pour les départements, le taux de référence relatif à l'année 2010 est la somme :
+2\. Pour les départements, le taux de référence relatif à l'année 2010 est la somme :
 
 a) D'une part, du taux départemental de l'année 2010 ;
 
@@ -76,7 +76,7 @@ Ce taux de référence est corrigé dans les conditions prévues au IX.
 
 C. – Les taux de référence de taxe d'habitation sont calculés de la manière suivante :
 
-1. Pour les communes qui ne sont pas membres d'un établissement public de coopération intercommunale à fiscalité propre en 2011, le taux de référence relatif à l'année 2010 est la somme :
+1\. Pour les communes qui ne sont pas membres d'un établissement public de coopération intercommunale à fiscalité propre en 2011, le taux de référence relatif à l'année 2010 est la somme :
 
 a) D'une part, du taux communal de l'année 2010 ;
 
@@ -86,7 +86,7 @@ Ce taux de référence est corrigé dans les conditions prévues au IX.
 
 Pour les communes membres en 2011 d'un établissement public de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à l'année 2010 est le taux communal de cette même année. Ce taux de référence ne fait pas l'objet de la correction prévue au IX ;
 
-2. Pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à l'année 2010 est la somme :
+2\. Pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à l'année 2010 est la somme :
 
 a) D'une part, du taux intercommunal de l'année 2010 ;
 
@@ -94,7 +94,7 @@ b) D'autre part, du taux départemental de taxe d'habitation appliqué en 2010 s
 
 Ce taux de référence est corrigé dans les conditions prévues au IX ;
 
-3. Pour les établissements publics de coopération intercommunale à fiscalité additionnelle, le taux de référence relatif à l'année 2010 est la somme :
+3\. Pour les établissements publics de coopération intercommunale à fiscalité additionnelle, le taux de référence relatif à l'année 2010 est la somme :
 
 a) D'une part, du taux intercommunal de l'année 2010 ;
 
@@ -116,11 +116,11 @@ La fraction complémentaire destinée aux communes membres d'un établissement p
 
 D. – Les taux de référence de taxe foncière sur les propriétés non bâties sont calculés de la manière suivante :
 
-1. Pour les communes membres en 2011 d'un établissement public de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à l'année 2010 est le taux communal de cette même année. Ce taux de référence ne fait pas l'objet de la correction prévue au IX.
+1\. Pour les communes membres en 2011 d'un établissement public de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C, le taux de référence relatif à l'année 2010 est le taux communal de cette même année. Ce taux de référence ne fait pas l'objet de la correction prévue au IX.
 
 Pour les communes autres que celles visées au premier alinéa, le taux de référence relatif à l'année 2010 est le taux communal de cette même année. Ce taux de référence est corrigé dans les conditions prévues au IX ;
 
-2. Pour les établissements publics de coopération intercommunale à fiscalité propre, le taux de référence relatif à l'année 2010 est le taux intercommunal de cette même année. Ce taux de référence est corrigé dans les conditions prévues au IX.
+2\. Pour les établissements publics de coopération intercommunale à fiscalité propre, le taux de référence relatif à l'année 2010 est le taux intercommunal de cette même année. Ce taux de référence est corrigé dans les conditions prévues au IX.
 
 V bis. – Pour l'application du V à des établissements publics de coopération intercommunale à fiscalité propre dont le territoire se situe sur celui de plusieurs départements, le taux départemental 2010 à prendre en compte s'entend, pour chaque taxe, de la moyenne des taux départementaux 2010 concernés, pondérés par l'importance relative des bases notifiées aux départements au titre de l'année 2010 et situées dans le territoire de cet établissement public de coopération intercommunale.
 
@@ -136,9 +136,9 @@ Les taux de référence définis au V ainsi que le deuxième alinéa du présent
 
 B. – Pour l'application, à compter de l'année 2011, des procédures de réduction des écarts de taux prévues au b du 1° du III de l'article 1609 nonies C, à l'article 1638, au troisième alinéa du III de l'article 1638-0 bis et au I de l'article 1638 quater :
 
-1. Lorsque la période d'intégration des taux commence en 2010 et ne se termine pas en 2011, les écarts de taux résiduels 2010 sont calculés sur la base de taux de référence relatifs à l'année 2010 déterminés conformément au V ; les écarts ainsi recalculés sont, chaque année à compter de 2011, réduits par parts égales, en proportion du nombre d'années restant à courir jusqu'à l'application d'un taux unique ;
+1\. Lorsque la période d'intégration des taux commence en 2010 et ne se termine pas en 2011, les écarts de taux résiduels 2010 sont calculés sur la base de taux de référence relatifs à l'année 2010 déterminés conformément au V ; les écarts ainsi recalculés sont, chaque année à compter de 2011, réduits par parts égales, en proportion du nombre d'années restant à courir jusqu'à l'application d'un taux unique ;
 
-1. Lorsque la période d'intégration des taux commence en 2011, les écarts de taux sont calculés à partir des taux de référence relatifs à l'année 2010 définis au I.
+2\. Lorsque la période d'intégration des taux commence en 2011, les écarts de taux sont calculés à partir des taux de référence relatifs à l'année 2010 définis au I.
 
 C. – Pour les établissements publics de coopération intercommunale qui font application de l'article 1609 nonies C pour la première fois en 2011 ou qui avaient voté en 2010 des taux nuls pour la taxe d'habitation et les taxes foncières, le taux de référence défini au C du V est ajouté au taux de taxe d'habitation déterminé conformément aux deuxième et troisième alinéas du II du même article 1609 nonies C.
 

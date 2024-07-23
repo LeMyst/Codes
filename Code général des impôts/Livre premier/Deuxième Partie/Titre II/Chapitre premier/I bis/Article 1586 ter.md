@@ -10,9 +10,9 @@ Pour les entreprises de navigation maritime ou aérienne qui exercent des activi
 
 Un décret en Conseil d'Etat précise les modalités d'application du troisième alinéa.
 
-2. La fraction de la valeur ajoutée mentionnée au 1 est obtenue en multipliant cette valeur ajoutée par un taux prévu à l'article 1586 quater.
+2\. La fraction de la valeur ajoutée mentionnée au 1 est obtenue en multipliant cette valeur ajoutée par un taux prévu à l'article 1586 quater.
 
-1. La cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à la cotisation foncière des entreprises.
+3\. La cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à la cotisation foncière des entreprises.
 
 NOTA:
 Conformément au B du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.

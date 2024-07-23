@@ -8,6 +8,6 @@ Ce crédit s'impute sur l'impôt sur le revenu dû, après imputation des réduc
 
 III. – 1. Sur leur demande, les contribuables mentionnés au I bénéficient, en cas de cessation ou d'interruption, à compter du 1er janvier 1998, de la location d'un bien dont les revenus ont été soumis au droit d'enregistrement prévu à l'article 741 bis, d'un crédit d'impôt d'un montant égal à celui du droit d'enregistrement précité acquitté à raison de cette location au titre de la période courant du 1er janvier au 30 septembre 1998.
 
-2. La demande prévue au 1 doit être jointe à la déclaration mentionnée à l'article 170, afférente à l'année au cours de laquelle la cessation ou l'interruption de la location est intervenue.
+2\. La demande prévue au 1 doit être jointe à la déclaration mentionnée à l'article 170, afférente à l'année au cours de laquelle la cessation ou l'interruption de la location est intervenue.
 
 Ce crédit s'impute, dans les conditions prévues au deuxième alinéa du II, sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle la cessation ou l'interruption s'est produite.

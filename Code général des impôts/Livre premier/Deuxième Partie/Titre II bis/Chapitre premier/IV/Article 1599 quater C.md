@@ -22,7 +22,7 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-2. – Les tarifs au mètre carré sont fixés, pour l'année 2024, en application du tableau ci-dessous :
+2\. – Les tarifs au mètre carré sont fixés, pour l'année 2024, en application du tableau ci-dessous :
 
 | 1re CIRCONSCRIPTION | 2e CIRCONSCRIPTION | 3e CIRCONSCRIPTION |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 Par dérogation, pour les surfaces de stationnement faisant l'objet d'une exploitation commerciale, les tarifs sont réduits de 75 % pour l'année 2019, de 50 % pour l'année 2020 et de 25 % pour l'année 2021.
 
-3. – Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
+3\. – Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 
 VI. – Pour le calcul des surfaces mentionnées au 2° du IV et au V, il est tenu compte de tous les locaux de même nature, hors parties communes, qu'une personne privée ou publique possède à une même adresse ou, en cas de pluralité d'adresses, dans un même groupement topographique.
 

@@ -1,6 +1,6 @@
 # Article 199 decies F
 
-1. Il est institué une réduction d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui réalisent des travaux de reconstruction, d'agrandissement, de réparation ou d'amélioration entre le 1er janvier 2005 et le 31 décembre 2012. Cette réduction d'impôt s'applique :
+1\. Il est institué une réduction d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui réalisent des travaux de reconstruction, d'agrandissement, de réparation ou d'amélioration entre le 1er janvier 2005 et le 31 décembre 2012. Cette réduction d'impôt s'applique :
 
 a) Aux dépenses afférentes à un logement, faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale ou dans une zone, autre qu'une zone de revitalisation rurale, inscrite sur la liste pour la France des zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil, du 21 juin 1999, portant dispositions générales sur les fonds structurels, à l'exclusion des communes situées dans des agglomérations de plus de 5 000 habitants, qui est destiné à la location dont le produit est imposé dans la catégorie des revenus fonciers ;
 
@@ -10,15 +10,15 @@ c) Aux dépenses afférentes à un logement, achevé depuis quinze ans au moins 
 
 Pour les logements visés aux a et c, l'indexation d'une part minoritaire du loyer sur le chiffre d'affaires ne fait pas obstacle à l'imposition dans la catégorie des revenus fonciers.
 
-2. La réduction d'impôt est accordée au titre de l'année du paiement des dépenses de travaux. Les dispositions du 5 du I de l'article 197 sont applicables.
+2\. La réduction d'impôt est accordée au titre de l'année du paiement des dépenses de travaux. Les dispositions du 5 du I de l'article 197 sont applicables.
 
-1. Le montant des dépenses de reconstruction, d'agrandissement, de réparation ou d'amélioration effectivement supportées par le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 € pour une personne célibataire, veuve ou divorcée et 100 000 € pour un couple marié. Son taux est égal à :
+3\. Le montant des dépenses de reconstruction, d'agrandissement, de réparation ou d'amélioration effectivement supportées par le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 € pour une personne célibataire, veuve ou divorcée et 100 000 € pour un couple marié. Son taux est égal à :
 
 a) 15 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ;
 
 b) 30 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le diminuer des subventions publiques accordées aux contribuables.
 
-4. Pour les logements mentionnés aux a et c du 1, le propriétaire doit selon le cas s'engager à les louer nus pendant au moins neuf ans à l'exploitant de la résidence de tourisme ou du village résidentiel de tourisme classé. Cette location doit prendre effet dans le mois qui suit la date d'achèvement des travaux. Le paiement d'une partie du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant de la résidence ou du village résidentiel au propriétaire, lorsque le logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
+4\. Pour les logements mentionnés aux a et c du 1, le propriétaire doit selon le cas s'engager à les louer nus pendant au moins neuf ans à l'exploitant de la résidence de tourisme ou du village résidentiel de tourisme classé. Cette location doit prendre effet dans le mois qui suit la date d'achèvement des travaux. Le paiement d'une partie du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant de la résidence ou du village résidentiel au propriétaire, lorsque le logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
 
 Pour les logements mentionnés au b du 1, le propriétaire doit s'engager à les louer meublés à des personnes physiques à raison de douze semaines au minimum par année et pendant les neuf années suivant celle de l'achèvement des travaux.
 
@@ -26,4 +26,4 @@ En cas de cession du logement, la réduction pratiquée fait l'objet d'une repri
 
 La réduction pratiquée ne fait pas l'objet d'une reprise si les copropriétaires substituent au gestionnaire défaillant de la résidence de tourisme une ou un ensemble d'entreprises qui assurent les mêmes prestations sur la période de location restant à couvrir conformément aux prescriptions légales, dans des conditions fixées par décret. Cette faculté leur est ouverte dès lors que la candidature d'un autre gestionnaire n'a pu être retenue après un délai d'un an et qu'ils détiennent au moins 50 % des appartements de la résidence.
 
-5. La réduction d'impôt n'est pas applicable au titre des logements dont le droit de propriété est démembré. Le contribuable qui demande le bénéfice de la réduction d'impôt renonce à la faculté de déduire ces dépenses, pour leur montant réel ou sous la forme d'une déduction de l'amortissement, pour la détermination des revenus catégoriels. Il ne peut bénéficier des dispositions prévues à l'article 32 ou à l'article 50-0.
+5\. La réduction d'impôt n'est pas applicable au titre des logements dont le droit de propriété est démembré. Le contribuable qui demande le bénéfice de la réduction d'impôt renonce à la faculté de déduire ces dépenses, pour leur montant réel ou sous la forme d'une déduction de l'amortissement, pour la détermination des revenus catégoriels. Il ne peut bénéficier des dispositions prévues à l'article 32 ou à l'article 50-0.

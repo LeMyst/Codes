@@ -1,6 +1,6 @@
 # Article 298
 
-1. Pour l'application du présent article :
+1\. Pour l'application du présent article :
 
 1° Les produits pétroliers s'entendent des produits pétroliers et assimilés, à l'exclusion du gaz naturel ;
 
@@ -24,7 +24,7 @@ b) Soit sont utilisées pour l'extraction, la fabrication, le transport par pipe
 
 6° Les obligations prises en application du III de l'article 277 A du présent code sont celles régissant les régimes suspensifs d'accises susmentionnés.
 
-2. L'assiette de la taxe sur la valeur ajoutée afférente aux produits pétroliers et exigible à la sortie du régime mentionnée au 3° du 1 bis ou à l'importation est déterminée, à la date de l'exigibilité, conformément aux dispositions ci-après :
+2\. L'assiette de la taxe sur la valeur ajoutée afférente aux produits pétroliers et exigible à la sortie du régime mentionnée au 3° du 1 bis ou à l'importation est déterminée, à la date de l'exigibilité, conformément aux dispositions ci-après :
 
 1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21,27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable est fixée forfaitairement, pour chaque année par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
 
@@ -36,7 +36,7 @@ La valeur imposable peut être révisée au cours de l'année par décision du d
 
 3° (Abrogé).
 
-3. Sous réserve des dispositions du 4, les droits à déduction dont peuvent bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues aux articles 271 et 273.
+3\. Sous réserve des dispositions du 4, les droits à déduction dont peuvent bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues aux articles 271 et 273.
 
 4.1° N'est pas déductible la taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intracommunautaires, livraisons et services portant sur :
 
@@ -60,11 +60,11 @@ e les produits pétroliers utilisés pour la lubrification des véhicules et eng
 
 4° (Abrogé)
 
-5. (Abrogé).
+5\. (Abrogé).
 
-1. (Abrogé)
+6\. (Abrogé)
 
-1. (Transféré sous l'article L. 45 C du Livre des procédures fiscales).
+7\. (Transféré sous l'article L. 45 C du Livre des procédures fiscales).
 
 NOTA:
 Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

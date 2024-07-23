@@ -20,7 +20,7 @@ c) Les intéressés ont été autorisés à avoir des résidences séparées ;
 
 d) L'un ou l'autre des époux ou des partenaires liés par un pacte civil de solidarité a abandonné le domicile conjugal ou la résidence commune.
 
-2. La décharge de l'obligation de paiement est accordée en cas de disproportion marquée entre le montant de la dette fiscale et, à la date de la demande, la situation financière et patrimoniale, nette de charges, du demandeur. La situation financière nette du demandeur est appréciée sur une période n'excédant pas trois années. La décharge de l'obligation de paiement est alors prononcée selon les modalités suivantes :
+2\. La décharge de l'obligation de paiement est accordée en cas de disproportion marquée entre le montant de la dette fiscale et, à la date de la demande, la situation financière et patrimoniale, nette de charges, du demandeur. La situation financière nette du demandeur est appréciée sur une période n'excédant pas trois années. La décharge de l'obligation de paiement est alors prononcée selon les modalités suivantes :
 
 a) Pour l'impôt sur le revenu, la décharge est égale à la différence entre le montant de la cotisation d'impôt sur le revenu établie pour la période d'imposition commune et la fraction de cette cotisation correspondant aux revenus personnels du demandeur et à la moitié des revenus communs du demandeur et de son conjoint ou de son partenaire de pacte civil de solidarité.
 
@@ -38,7 +38,7 @@ Pour l'application du présent c, le patrimoine imposable des enfants mineurs du
 
 d) Pour les intérêts de retard et les pénalités mentionnées aux articles 1727,1728,1729,1732 et 1758 A consécutifs à la rectification d'un bénéfice ou revenu propre au conjoint ou au partenaire de pacte civil de solidarité du demandeur, la décharge de l'obligation de paiement est prononcée en totalité. La décharge de l'obligation de paiement des intérêts de retard et des pénalités mentionnées aux mêmes articles 1727, 1728, 1729, 1732 et 1758 A est prononcée, dans les autres situations, dans les proportions définies aux a, b ou c du présent 2.
 
-3. Le bénéfice de la décharge de l'obligation de paiement est subordonné au respect des obligations déclaratives du demandeur prévues par les articles 170 et 982 à compter de la date de la fin de la période d'imposition commune.
+3\. Le bénéfice de la décharge de l'obligation de paiement est subordonné au respect des obligations déclaratives du demandeur prévues par les articles 170 et 982 à compter de la date de la fin de la période d'imposition commune.
 
 La décharge de l'obligation de paiement ne peut pas être accordée lorsque le demandeur et son conjoint ou son partenaire lié par un pacte civil de solidarité se sont frauduleusement soustraits, ou ont tenté de se soustraire frauduleusement, au paiement des impositions mentionnées aux 1° et 2° du I ainsi qu'à l'article 1723 ter-00 B, soit en organisant leur insolvabilité, soit en faisant obstacle, par d'autres manoeuvres, au paiement de l'impôt.
 

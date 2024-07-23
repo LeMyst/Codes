@@ -1,10 +1,10 @@
 # Article 238-0 A
 
-1. Sont considérés comme non coopératifs, à la date du 1er janvier 2010, les Etats et territoires dont la situation au regard de la transparence et de l'échange d'informations en matière fiscale a fait l'objet d'un examen par l'Organisation de coopération et de développement économiques et qui, à cette date, n'ont pas conclu avec la France une convention d'assistance administrative permettant l'échange de tout renseignement nécessaire à l'application de la législation fiscale des parties, ni signé avec au moins douze Etats ou territoires une telle convention.
+1\. Sont considérés comme non coopératifs, à la date du 1er janvier 2010, les Etats et territoires dont la situation au regard de la transparence et de l'échange d'informations en matière fiscale a fait l'objet d'un examen par l'Organisation de coopération et de développement économiques et qui, à cette date, n'ont pas conclu avec la France une convention d'assistance administrative permettant l'échange de tout renseignement nécessaire à l'application de la législation fiscale des parties, ni signé avec au moins douze Etats ou territoires une telle convention.
 
 La liste des Etats et territoires non coopératifs est fixée par un arrêté des ministres chargés de l'économie et du budget après avis du ministre des affaires étrangères.
 
-2. La liste mentionnée au 1 est mise à jour, au moins une fois chaque année, dans les conditions suivantes :
+2\. La liste mentionnée au 1 est mise à jour, au moins une fois chaque année, dans les conditions suivantes :
 
 a) En sont retirés les Etats ou territoires ayant conclu avec la France une convention d'assistance administrative permettant d'échanger tout renseignement nécessaire à l'application de la législation fiscale des parties ;
 
@@ -20,7 +20,7 @@ c) En sont retirés ou y sont ajoutés les Etats ou territoires n'ayant pas conc
 
 2 ter. L'arrêté des ministres chargés de l'économie et du budget modifiant la liste indique le motif qui, en application du 2 et des 1° ou 2° du 2 bis, justifie l'ajout ou le retrait d'un Etat ou territoire.
 
-3. Les dispositions du présent code et du livre des procédures fiscales relatives aux Etats ou territoires non coopératifs s'appliquent à ceux qui sont ajoutés à cette liste par arrêté pris en application des 2 et 2 bis, à compter du premier jour du troisième mois qui suit la publication de celui-ci.
+3\. Les dispositions du présent code et du livre des procédures fiscales relatives aux Etats ou territoires non coopératifs s'appliquent à ceux qui sont ajoutés à cette liste par arrêté pris en application des 2 et 2 bis, à compter du premier jour du troisième mois qui suit la publication de celui-ci.
 
 Elles cessent de s'appliquer à la date de publication de l'arrêté qui les retire de cette liste.
 

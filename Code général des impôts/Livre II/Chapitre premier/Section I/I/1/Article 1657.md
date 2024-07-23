@@ -1,6 +1,6 @@
 # Article 1657
 
-1. Les bases de cotisation des impôts directs sont arrondies à l'euro le plus proche ; la fraction d'euro égale à 0,50 est comptée pour 1.
+1\. Les bases de cotisation des impôts directs sont arrondies à l'euro le plus proche ; la fraction d'euro égale à 0,50 est comptée pour 1.
 
 Les bases des taxes foncières et de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale ainsi que celles des taxes annexes correspondantes sont arrondies selon les modalités définies au premier alinéa.
 
@@ -14,7 +14,7 @@ En ce qui concerne les impositions locales perçues au profit des collectivités
 
 1 bis. Les cotisations initiales d'impôt sur le revenu ne sont pas mises en recouvrement lorsque leur montant, avant imputation de tout crédit d'impôt, est inférieur à 61 €.
 
-2. Les cotisations d'impôts directs dont le montant total par article de rôle est inférieur à 12 € ne sont pas mises en recouvrement si elles sont perçues au profit du budget de l'Etat ; elles sont allouées en non-valeurs si elles sont perçues au profit d'un autre budget.
+2\. Les cotisations d'impôts directs dont le montant total par article de rôle est inférieur à 12 € ne sont pas mises en recouvrement si elles sont perçues au profit du budget de l'Etat ; elles sont allouées en non-valeurs si elles sont perçues au profit d'un autre budget.
 
 NOTA:
 Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.

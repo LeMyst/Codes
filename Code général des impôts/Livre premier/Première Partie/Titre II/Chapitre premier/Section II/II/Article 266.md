@@ -1,6 +1,6 @@
 # Article 266
 
-1. La base d'imposition est constituée :
+1\. La base d'imposition est constituée :
 
 a. Pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le prestataire en contrepartie de ces opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les subventions directement liées au prix de ces opérations ;
 
@@ -42,7 +42,7 @@ Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour
 
 b. (dispositions devenues sans objet).
 
-2. En ce qui concerne les opérations mentionnées au I de l'article 257, la taxe sur la valeur ajoutée est assise :
+2\. En ce qui concerne les opérations mentionnées au I de l'article 257, la taxe sur la valeur ajoutée est assise :
 
 a. Pour les livraisons à soi-même, sur le prix de revient total des immeubles, y compris le coût des terrains ou leur valeur d'apport ;
 
@@ -54,15 +54,15 @@ La valeur vénale réelle des biens, établie dans les conditions prévues à l'
 
 b bis. (Abrogé).
 
-3. (dispositions devenues sans objet).
+3\. (dispositions devenues sans objet).
 
-1. (Abrogé).
+4\. (Abrogé).
 
-1. Lorsque le bail à construction est soumis à la taxe sur la valeur ajoutée, la base d'imposition est constituée par la valeur du droit de reprise des immeubles qui doivent revenir au bailleur abstraction faite, le cas échéant, de l'indemnité de reprise stipulée au profit du preneur et du montant des loyers, lesquels sont imposés par ailleurs dans les conditions du a du 1.
+5\. Lorsque le bail à construction est soumis à la taxe sur la valeur ajoutée, la base d'imposition est constituée par la valeur du droit de reprise des immeubles qui doivent revenir au bailleur abstraction faite, le cas échéant, de l'indemnité de reprise stipulée au profit du preneur et du montant des loyers, lesquels sont imposés par ailleurs dans les conditions du a du 1.
 
-1. En ce qui concerne les livraisons à soi-même de travaux immobiliers mentionnées au 1° du 3 du I de l'article 257, la taxe sur la valeur ajoutée est assise sur le prix de revient total des travaux.
+6\. En ce qui concerne les livraisons à soi-même de travaux immobiliers mentionnées au 1° du 3 du I de l'article 257, la taxe sur la valeur ajoutée est assise sur le prix de revient total des travaux.
 
-1. (Abrogé).
+7\. (Abrogé).
 
 NOTA:
 Conformément au III de l'article 30 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.

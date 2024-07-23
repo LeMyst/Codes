@@ -6,7 +6,7 @@ Pour le calcul de ce prélèvement, les revenus mentionnés au premier alinéa d
 
 Toutefois, les personnes physiques appartenant à un foyer fiscal dont le revenu fiscal de référence de l'avant-dernière année, tel que défini au 1° du IV de l'article 1417, est inférieur à 50 000 € pour les contribuables célibataires, divorcés ou veufs et à 75 000 € pour les contribuables soumis à une imposition commune peuvent demander à être dispensées de ce prélèvement dans les conditions prévues à l'article 242 quater.
 
-2. Le prélèvement prévu au 1 ne s'applique pas :
+2\. Le prélèvement prévu au 1 ne s'applique pas :
 
 a) Aux revenus qui sont pris en compte pour la détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une profession non commerciale ;
 
@@ -22,13 +22,13 @@ a) soit par le contribuable lui-même ;
 
 b) soit par la personne qui assure le paiement des revenus, lorsqu'elle est établie dans un Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et qu'elle a été mandatée à cet effet par le contribuable.
 
-2. Lorsque la déclaration prévue au 1 et le paiement du prélèvement correspondant sont effectués par la personne qui assure le paiement des revenus, elle est établie au nom et pour le compte du contribuable.
+2\. Lorsque la déclaration prévue au 1 et le paiement du prélèvement correspondant sont effectués par la personne qui assure le paiement des revenus, elle est établie au nom et pour le compte du contribuable.
 
-1. L'administration fiscale peut conclure, avec chaque personne mentionnée au b du 1 et mandatée par des contribuables pour le paiement du prélèvement, une convention établie conformément au modèle délivré par l'administration, qui organise les modalités du paiement de ce prélèvement pour l'ensemble de ces contribuables.
+3\. L'administration fiscale peut conclure, avec chaque personne mentionnée au b du 1 et mandatée par des contribuables pour le paiement du prélèvement, une convention établie conformément au modèle délivré par l'administration, qui organise les modalités du paiement de ce prélèvement pour l'ensemble de ces contribuables.
 
-1. Abrogé.
+4\. Abrogé.
 
-1. Le contribuable produit à l'administration fiscale, sur sa demande, les renseignements nécessaires à l'établissement du prélèvement.
+5\. Le contribuable produit à l'administration fiscale, sur sa demande, les renseignements nécessaires à l'établissement du prélèvement.
 
 IV. Le prélèvement prévu au I est contrôlé et recouvré selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement mentionné à l'article 125 A.
 

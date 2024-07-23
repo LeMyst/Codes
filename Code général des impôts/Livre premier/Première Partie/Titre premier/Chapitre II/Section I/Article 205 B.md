@@ -68,7 +68,7 @@ Pour les dispositifs hybrides mentionnés aux a ou f du 1°, le seuil de 50 % me
 
 II.-1. N'est pas considéré comme un dispositif hybride au sens du a du 1° du I le transfert hybride réalisé par une personne dont l'activité professionnelle consiste à acheter ou à vendre régulièrement des instruments financiers pour son propre compte afin de réaliser des bénéfices, lorsque ce transfert est effectué dans le cadre de ses activités habituelles, hors le cas d'un dispositif structuré, et que les revenus perçus au titre de ce transfert sont inclus dans ses revenus imposables.
 
-2. Ne sont pas considérées comme des dispositifs hybrides les situations mentionnées au 1° du I lorsque l'effet d'asymétrie ne survient pas, hors le cas d'un dispositif structuré, entre un contribuable et une entreprise associée, entre entreprises associées d'un même contribuable, entre le siège et un établissement ou entre deux ou plusieurs établissements de la même entité.
+2\. Ne sont pas considérées comme des dispositifs hybrides les situations mentionnées au 1° du I lorsque l'effet d'asymétrie ne survient pas, hors le cas d'un dispositif structuré, entre un contribuable et une entreprise associée, entre entreprises associées d'un même contribuable, entre le siège et un établissement ou entre deux ou plusieurs établissements de la même entité.
 
 III.-1. Lorsqu'un paiement effectué dans le cadre d'un dispositif hybride mentionné aux a à f du 1° du I donne lieu à :
 
@@ -78,7 +78,7 @@ Pour l'application du premier alinéa du présent a, lorsqu'un paiement, effectu
 
 b) Une charge déduite du résultat soumis à un impôt équivalent à l'impôt sur les sociétés dans l'Etat de résidence du débiteur, ce paiement est ajouté au résultat soumis à l'impôt sur les sociétés dans les conditions de droit commun.
 
-2. En présence d'un dispositif hybride mentionné au g du 1° du I :
+2\. En présence d'un dispositif hybride mentionné au g du 1° du I :
 
 a) La charge n'est pas admise en déduction des revenus de l'investisseur établi en France ;
 
@@ -88,13 +88,13 @@ Ces dispositions ne sont pas applicables lorsque la double déduction concerne u
 
 Pour l'application des a et b du présent 2, la réintégration de la charge dans le résultat soumis à l'impôt sur les sociétés dans les conditions de droit commun est effectuée au titre du dernier exercice ayant commencé au cours des vingt-quatre mois suivant la fin de l'exercice au titre duquel cette charge a été initialement déduite.
 
-3. Lorsqu'un paiement déductible du résultat imposable à l'impôt sur les sociétés en France compense un autre paiement afférent à un dispositif hybride, directement ou indirectement, par l'intermédiaire d'une transaction ou d'une série de transactions conclues entre des entreprises associées d'un même contribuable ou par l'intermédiaire d'un dispositif structuré, la déduction de la charge correspondant à ce premier paiement n'est pas admise.
+3\. Lorsqu'un paiement déductible du résultat imposable à l'impôt sur les sociétés en France compense un autre paiement afférent à un dispositif hybride, directement ou indirectement, par l'intermédiaire d'une transaction ou d'une série de transactions conclues entre des entreprises associées d'un même contribuable ou par l'intermédiaire d'un dispositif structuré, la déduction de la charge correspondant à ce premier paiement n'est pas admise.
 
 Toutefois, la charge reste admise en déduction si l'Etat de résidence d'une des entreprises concernées par la transaction ou la série de transactions a appliqué une disposition permettant de neutraliser les effets du dispositif hybride concerné. Lorsque cette neutralisation n'est que partielle, la déduction de la charge est admise à hauteur de la part du paiement qui a été neutralisée dans l'autre Etat.
 
-4. Les revenus attribués à l'établissement d'une entité non pris en compte par l'Etat dans lequel il est situé du fait d'un dispositif hybride sont inclus dans le résultat soumis à l'impôt sur les sociétés de cette entité lorsqu'elle a son siège en France. Cette règle s'applique à moins que la France ne soit tenue d'exonérer les revenus en vertu d'une convention préventive de la double imposition conclue avec un pays tiers.
+4\. Les revenus attribués à l'établissement d'une entité non pris en compte par l'Etat dans lequel il est situé du fait d'un dispositif hybride sont inclus dans le résultat soumis à l'impôt sur les sociétés de cette entité lorsqu'elle a son siège en France. Cette règle s'applique à moins que la France ne soit tenue d'exonérer les revenus en vertu d'une convention préventive de la double imposition conclue avec un pays tiers.
 
-1. Lorsqu'un transfert hybride est conçu pour donner lieu à un allègement au titre des retenues à la source pour un paiement provenant d'un instrument financier transféré à plusieurs des parties concernées par ce transfert, le bénéfice de cet allègement est limité au prorata des revenus nets imposables liés à ce paiement.
+5\. Lorsqu'un transfert hybride est conçu pour donner lieu à un allègement au titre des retenues à la source pour un paiement provenant d'un instrument financier transféré à plusieurs des parties concernées par ce transfert, le bénéfice de cet allègement est limité au prorata des revenus nets imposables liés à ce paiement.
 
 NOTA:
 Conformément au A du II de l'article 45 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.

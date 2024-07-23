@@ -1,8 +1,8 @@
 # Article 119 ter
 
-1. La retenue à la source prévue au 2 de l'article 119 bis n'est pas applicable aux dividendes distribués à une personne morale qui remplit les conditions énumérées au 2 du présent article par une société ou un organisme soumis à l'impôt sur les sociétés au taux normal.
+1\. La retenue à la source prévue au 2 de l'article 119 bis n'est pas applicable aux dividendes distribués à une personne morale qui remplit les conditions énumérées au 2 du présent article par une société ou un organisme soumis à l'impôt sur les sociétés au taux normal.
 
-1. Pour bénéficier de l'exonération prévue au 1, la personne morale doit justifier auprès du débiteur ou de la personne qui assure le paiement de ces revenus qu'elle est le bénéficiaire effectif des dividendes et qu'elle remplit les conditions suivantes :
+2\. Pour bénéficier de l'exonération prévue au 1, la personne morale doit justifier auprès du débiteur ou de la personne qui assure le paiement de ces revenus qu'elle est le bénéficiaire effectif des dividendes et qu'elle remplit les conditions suivantes :
 
 a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'être pas considérée, aux termes d'une convention en matière de double imposition conclue avec un Etat tiers, comme ayant sa résidence fiscale hors de l'Union européenne ou de l'Espace économique européen ;
 
@@ -18,10 +18,10 @@ e) (abrogé).
 
 2 bis. Les dispositions du 1 s'appliquent aux dividendes distribués aux établissements stables des personnes morales remplissant les conditions fixées au 2, lorsque ces établissements stables sont situés en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
-3. Le 1 ne s'applique pas aux dividendes distribués dans le cadre d'un montage ou d'une série de montages qui, ayant été mis en place pour obtenir, à titre d'objectif principal ou au titre d'un des objectifs principaux, un avantage fiscal allant à l'encontre de l'objet ou de la finalité de ce même 1, n'est pas authentique compte tenu de l'ensemble des faits et circonstances pertinents.
+3\. Le 1 ne s'applique pas aux dividendes distribués dans le cadre d'un montage ou d'une série de montages qui, ayant été mis en place pour obtenir, à titre d'objectif principal ou au titre d'un des objectifs principaux, un avantage fiscal allant à l'encontre de l'objet ou de la finalité de ce même 1, n'est pas authentique compte tenu de l'ensemble des faits et circonstances pertinents.
 
 Un montage peut comprendre plusieurs étapes ou parties.
 
 Pour l'application du présent 3, un montage ou une série de montages est considéré comme non authentique dans la mesure où ce montage ou cette série de montages n'est pas mis en place pour des motifs commerciaux valables qui reflètent la réalité économique.
 
-4. Un décret précise en tant que de besoin les modalités d'application des présentes dispositions.
+4\. Un décret précise en tant que de besoin les modalités d'application des présentes dispositions.

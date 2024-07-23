@@ -6,13 +6,13 @@ Un débitant de tabac ne peut gérer son activité que sous la forme juridique d
 
 Dans l'hypothèse où l'activité est exercée sous forme de société en nom collectif :
 
-- l'activité de vente de tabac doit figurer dans l'objet social ;
+\- l'activité de vente de tabac doit figurer dans l'objet social ;
 
-- l'ensemble des activités commerciales et l'activité de vente au détail des tabacs manufacturés sont gérés sous la même forme juridique d'exploitation ;
+\- l'ensemble des activités commerciales et l'activité de vente au détail des tabacs manufacturés sont gérés sous la même forme juridique d'exploitation ;
 
-- la société en nom collectif prend en charge l'actif et le passif de l'ensemble des activités, y compris, pour les sociétés déjà constituées, le passif de l'activité de vente de tabac antérieur à l'extension de l'objet social ;
+\- la société en nom collectif prend en charge l'actif et le passif de l'ensemble des activités, y compris, pour les sociétés déjà constituées, le passif de l'activité de vente de tabac antérieur à l'extension de l'objet social ;
 
-- chacun des associés doit remplir l'ensemble des conditions d'agrément fixées par décret.
+\- chacun des associés doit remplir l'ensemble des conditions d'agrément fixées par décret.
 
 Pour chaque catégorie fiscale de tabac, le taux du droit de licence appliqué à la remise mentionnée au 3° du I de l'article 570 est fixé conformément au tableau ci-après :
 

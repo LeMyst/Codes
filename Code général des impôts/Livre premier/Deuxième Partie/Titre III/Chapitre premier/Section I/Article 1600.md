@@ -34,7 +34,7 @@ Cette base d'imposition est réduite de moitié pour les artisans régulièremen
 
 Le taux de cette taxe est égal à 1,12 %.
 
-2. Le produit de la taxe additionnelle à la cotisation foncière des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
+2\. Le produit de la taxe additionnelle à la cotisation foncière des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
 III. – 1. – La taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises mentionnée au I est égale à une fraction de la cotisation visée à l'article 1586 ter due par les entreprises redevables après application de l'article 1586 quater.
 
@@ -42,7 +42,7 @@ Son taux est égal à 9,23 %.
 
 1 bis. – La taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la cotisation sur la valeur ajoutée des entreprises. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette dernière.
 
-2. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
+2\. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
 IV. – Il est opéré un prélèvement de 40 millions d'euros sur les fonds de roulement du réseau des chambres de commerce et d'industrie. Ce prélèvement est réparti entre les différents établissements du réseau par CCI France et est reversé au budget général de l'Etat.
 

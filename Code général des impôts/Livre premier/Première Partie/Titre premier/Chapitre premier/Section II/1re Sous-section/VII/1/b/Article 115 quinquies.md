@@ -1,12 +1,12 @@
 # Article 115 quinquies
 
-1. Les bénéfices réalisés en France par les sociétés étrangères sont réputés distribués, au titre de chaque exercice, à des associés n'ayant pas leur domicile fiscal ou leur siège social en France.
+1\. Les bénéfices réalisés en France par les sociétés étrangères sont réputés distribués, au titre de chaque exercice, à des associés n'ayant pas leur domicile fiscal ou leur siège social en France.
 
 Les bénéfices visés au premier alinéa s'entendent du montant total des résultats, imposables ou exonérés, après déduction de l'impôt sur les sociétés.
 
-1. bis (Dispositions sans objet).
+1\. bis (Dispositions sans objet).
 
-1. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de celles du 2 de l'article 119 bis fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le montant total de ses distributions effectives.
+2\. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de celles du 2 de l'article 119 bis fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le montant total de ses distributions effectives.
 
 L'excédent de perception lui est restitué.
 

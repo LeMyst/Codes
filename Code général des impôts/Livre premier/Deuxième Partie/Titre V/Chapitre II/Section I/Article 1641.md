@@ -30,9 +30,9 @@ d) Taxe d'enlèvement des ordures ménagères sauf dans le cas prévu au h du A 
 
 e) (Abrogé).
 
-2. Sauf dispositions contraires, il en est de même pour les contributions et taxes qui sont établies et recouvrées comme en matière de contributions directes au profit des collectivités territoriales, de leurs établissements publics de coopération intercommunale et de fonds, établissements ou organismes divers.
+2\. Sauf dispositions contraires, il en est de même pour les contributions et taxes qui sont établies et recouvrées comme en matière de contributions directes au profit des collectivités territoriales, de leurs établissements publics de coopération intercommunale et de fonds, établissements ou organismes divers.
 
-1. (Abrogé).
+3\. (Abrogé).
 
 II. – Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant des taxes visées au A du I et 5,4 % du montant de celles visées au B du même I. Pour les impositions visées au même B et perçues au profit des collectivités locales et de leurs groupements, ce taux est réduit à 4,4 %.
 

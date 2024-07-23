@@ -2,7 +2,7 @@
 
 Sont exonérés de la taxe sur la valeur ajoutée :
 
-1. (Affaires ou opérations soumises à un autre impôt) :
+1\. (Affaires ou opérations soumises à un autre impôt) :
 
 1° à 3° (Abrogés) ;
 
@@ -10,7 +10,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 5° (Abrogé).
 
-2. (Agriculture et pêche) :
+2\. (Agriculture et pêche) :
 
 1° (Abrogé) ;
 
@@ -22,7 +22,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 5° (Abrogé).
 
-3. (Biens usagés) :
+3\. (Biens usagés) :
 
 1° a. Sous réserve, le cas échéant, des dispositions des 1° et 2° du III de l'article 257, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
@@ -34,7 +34,7 @@ b. (Disposition périmée) ;
 
 2° (abrogé)
 
-4. (Professions libérales et activités diverses) :
+4\. (Professions libérales et activités diverses) :
 
 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, par les pharmaciens, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe, de chiropracteur, de psychologue ou de psychothérapeute et par les psychanalystes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
 
@@ -74,15 +74,15 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 11° Les prestations de services et les livraisons de biens accessoires à ces prestations, à l'exception des transports de personnes et télécommunications, qui relèvent du service universel postal tel que défini par l'article L. 1 du code des postes et communications électroniques, effectuées par le prestataire en France du service universel postal tel que désigné à l'article L. 2 du même code.
 
-5. (Opérations immobilières) :
+5\. (Opérations immobilières) :
 
 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 257 ;
 
 2° Les livraisons d'immeubles achevés depuis plus de cinq ans.
 
-6. (Abrogé).
+6\. (Abrogé).
 
-1. (Organismes d'utilité générale) :
+7\. (Organismes d'utilité générale) :
 
 1° a. les services de caractère social, éducatif, culturel ou sportif rendus à leurs membres par les organismes légalement constitués agissant sans but lucratif, et dont la gestion est désintéressée.
 
@@ -148,11 +148,11 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 4° (Abrogé) ;
 
-8. En cas de catastrophe affectant le territoire d'un Etat membre de l'Union européenne, par arrêté du ministre chargé du budget pris après information du comité institué à l'article 398 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, les livraisons de biens et les prestations de services liées à ces livraisons, lorsque l'importation de ces biens par le destinataire de ces livraisons ou par le preneur de ces services aurait été exonérée en application du 2° bis du II de l'article 291 du présent code.
+8\. En cas de catastrophe affectant le territoire d'un Etat membre de l'Union européenne, par arrêté du ministre chargé du budget pris après information du comité institué à l'article 398 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, les livraisons de biens et les prestations de services liées à ces livraisons, lorsque l'importation de ces biens par le destinataire de ces livraisons ou par le preneur de ces services aurait été exonérée en application du 2° bis du II de l'article 291 du présent code.
 
 L'arrêté mentionné au premier alinéa du présent 8 peut prévoir que l'exonération s'applique rétroactivement à partir de la date à laquelle l'autorisation mentionnée au 2° bis du II de l'article 291 entre en vigueur.
 
-9. (Abrogé).
+9\. (Abrogé).
 
 NOTA:
 Modifications effectuées en conséquence de l'article 18 de la loi n° 2014-1654 du 29 décembre 2014.

@@ -8,11 +8,11 @@ Le bénéfice du régime d'exonération est conservé en cas de changement de fo
 
 Si la part de la rémunération soumise à l'impôt sur le revenu en application du présent 1 est inférieure à la rémunération versée au titre de fonctions analogues dans l'entreprise ou, à défaut, dans des entreprises similaires établies en France, la différence est réintégrée dans les bases imposables de l'intéressé.
 
-2. La fraction de la rémunération correspondant à l'activité exercée à l'étranger pendant la durée définie au 1 est exonérée si les séjours réalisés à l'étranger sont effectués dans l'intérêt direct et exclusif de l'employeur.
+2\. La fraction de la rémunération correspondant à l'activité exercée à l'étranger pendant la durée définie au 1 est exonérée si les séjours réalisés à l'étranger sont effectués dans l'intérêt direct et exclusif de l'employeur.
 
-1. Sur option des salariés et personnes mentionnés au 1, soit la fraction de la rémunération exonérée conformément aux 1 et 2 est limitée à 50 % de la rémunération totale, soit la fraction de la rémunération exonérée conformément au 2 est limitée à 20 % de la rémunération imposable résultant du 1.
+3\. Sur option des salariés et personnes mentionnés au 1, soit la fraction de la rémunération exonérée conformément aux 1 et 2 est limitée à 50 % de la rémunération totale, soit la fraction de la rémunération exonérée conformément au 2 est limitée à 20 % de la rémunération imposable résultant du 1.
 
-1. Les salariés et personnes mentionnés au présent I ne peuvent pas se prévaloir de l'article 81 A.
+4\. Les salariés et personnes mentionnés au présent I ne peuvent pas se prévaloir de l'article 81 A.
 
 II. – Les salariés et personnes mentionnés au I sont, pendant la durée où ils bénéficient des dispositions du même I, exonérés d'impôt à hauteur de 50 % du montant des revenus suivants :
 

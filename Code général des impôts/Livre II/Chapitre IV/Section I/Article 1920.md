@@ -1,6 +1,6 @@
 # Article 1920
 
-1. Les impositions de toutes natures et taxes assimilées, les amendes fiscales et pénales, le droit fixe de procédure mentionné à l'article 1018 A et les créances de toutes natures en matière de contributions indirectes, recouvrés par les comptables publics, bénéficient d'un privilège de paiement appelé privilège du Trésor.
+1\. Les impositions de toutes natures et taxes assimilées, les amendes fiscales et pénales, le droit fixe de procédure mentionné à l'article 1018 A et les créances de toutes natures en matière de contributions indirectes, recouvrés par les comptables publics, bénéficient d'un privilège de paiement appelé privilège du Trésor.
 
 Le privilège du Trésor produit ses effets dans les mêmes conditions et au même rang aux droits en principal, à leurs accessoires ainsi qu'aux acomptes devant être versés en l'acquit d'impositions.
 
@@ -10,9 +10,9 @@ Le privilège du Trésor en matière de contributions directes, de taxes sur le 
 
 Le privilège du Trésor ne préjudicie pas aux droits que, comme tout créancier, le comptable public peut exercer sur les biens des redevables.
 
-2. (Abrogé).
+2\. (Abrogé).
 
-1. Les fournisseurs de tabacs agréés en application de l'article L. 3512-14-7 du code de la santé publique, les fabricants de spiritueux composés et de boissons à base de céréales ainsi que les expéditeurs de boissons sont, en ce qui concerne l'accise sur les alcools mentionnée à l'article L. 313-1 du code des impositions sur les biens et services et l'accise sur les tabacs mentionnée à l'article L. 314-1 du même code, subrogés au privilège conféré à l'administration par le présent article pour le recouvrement des droits qu'ils ont payés pour le compte de leurs clients, sans toutefois que cette subrogation puisse préjudicier aux droits et privilèges de l'administration.
+3\. Les fournisseurs de tabacs agréés en application de l'article L. 3512-14-7 du code de la santé publique, les fabricants de spiritueux composés et de boissons à base de céréales ainsi que les expéditeurs de boissons sont, en ce qui concerne l'accise sur les alcools mentionnée à l'article L. 313-1 du code des impositions sur les biens et services et l'accise sur les tabacs mentionnée à l'article L. 314-1 du même code, subrogés au privilège conféré à l'administration par le présent article pour le recouvrement des droits qu'ils ont payés pour le compte de leurs clients, sans toutefois que cette subrogation puisse préjudicier aux droits et privilèges de l'administration.
 
 NOTA:
 Se reporter aux conditions d'application prévues au V de l'article 130 de la loi n° 2021-1900 du 30 décembre 2021.

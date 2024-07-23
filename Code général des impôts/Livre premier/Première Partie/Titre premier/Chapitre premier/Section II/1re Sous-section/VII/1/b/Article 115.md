@@ -1,10 +1,10 @@
 # Article 115
 
-1. En cas de fusion ou de scission de sociétés, l'attribution de titres, sommes ou valeurs aux membres de la société apporteuse en contrepartie de l'annulation des titres de cette société n'est pas considérée comme une distribution de revenus mobiliers.
+1\. En cas de fusion ou de scission de sociétés, l'attribution de titres, sommes ou valeurs aux membres de la société apporteuse en contrepartie de l'annulation des titres de cette société n'est pas considérée comme une distribution de revenus mobiliers.
 
 Ces dispositions s'appliquent aux opérations de fusion ou de scission de sociétés de placement à prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208, sous réserve que la société bénéficiaire des apports s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour les obligations de distribution prévues au II de l'article L. 214-69 du code monétaire et financier. En cas de scission, ces obligations doivent être reprises par les sociétés bénéficiaires des apports au prorata du montant de l'actif réel apporté, apprécié à la date d'effet de l'opération.
 
-2. Le 1 s'applique en cas d'attribution de titres représentatifs d'un apport partiel d'actif d'une branche complète d'activité aux membres de la société apporteuse, lorsque :
+2\. Le 1 s'applique en cas d'attribution de titres représentatifs d'un apport partiel d'actif d'une branche complète d'activité aux membres de la société apporteuse, lorsque :
 
 a) L'apport est placé sous le régime de l'article 210 A ;
 
@@ -34,4 +34,4 @@ L'obligation de conservation mentionnée au deuxième alinéa du présent b n'es
 
 -l'actionnaire détenant 5 % au moins des droits de vote de la société apporteuse n'exerce pas une influence notable sur la gestion de cette dernière au sens de l'article L. 233-17-2 du même code.
 
-3. Les dispositions des 1,2 et 2 bis ne sont pas applicables aux opérations de fusion, scission et apport partiel d'actif par lesquelles une société non exonérée de l'impôt sur les sociétés fait apport de tout ou partie de ses biens à une société d'investissement à capital variable.
+3\. Les dispositions des 1,2 et 2 bis ne sont pas applicables aux opérations de fusion, scission et apport partiel d'actif par lesquelles une société non exonérée de l'impôt sur les sociétés fait apport de tout ou partie de ses biens à une société d'investissement à capital variable.

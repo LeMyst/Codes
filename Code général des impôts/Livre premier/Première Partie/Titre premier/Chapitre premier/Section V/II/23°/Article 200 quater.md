@@ -1,6 +1,6 @@
 # Article 200 quater
 
-1. Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses effectivement supportées pour la contribution à la transition énergétique du logement dont ils sont propriétaires et qu'ils affectent à leur habitation principale.
+1\. Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses effectivement supportées pour la contribution à la transition énergétique du logement dont ils sont propriétaires et qu'ils affectent à leur habitation principale.
 
 A la condition que le logement soit achevé depuis plus de deux ans à la date de début d'exécution des travaux, ce crédit d'impôt s'applique :
 
@@ -58,7 +58,7 @@ a) Qui procède à la fourniture et à l'installation des équipements, des mat�
 
 b) Ou qui, pour l'installation des équipements, des matériaux ou des appareils qu'elle fournit ou pour la fourniture et l'installation de ces mêmes équipements, matériaux ou appareils, recourt à une autre entreprise, dans le cadre d'un contrat de sous-traitance régi par la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance.
 
-2. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du budget fixe la liste des équipements, matériaux et appareils qui ouvrent droit au crédit d'impôt. Il précise les caractéristiques techniques et les critères de performances minimales, ainsi que les modalités de réalisation et le contenu de l'audit énergétique, requis pour l'application du crédit d'impôt.
+2\. Un arrêté conjoint des ministres chargés de l'énergie, du logement et du budget fixe la liste des équipements, matériaux et appareils qui ouvrent droit au crédit d'impôt. Il précise les caractéristiques techniques et les critères de performances minimales, ainsi que les modalités de réalisation et le contenu de l'audit énergétique, requis pour l'application du crédit d'impôt.
 
 Afin de garantir la qualité de l'installation ou de la pose des équipements, matériaux et appareils, un décret précise les travaux pour lesquels est exigé, pour l'application du crédit d'impôt, le respect de critères de qualification de l'entreprise mentionnée au a du 1 ter ou de l'entreprise sous-traitante lorsque les travaux sont réalisés dans les conditions du b du même 1 ter.
 
@@ -66,9 +66,9 @@ Lorsque les travaux sont soumis à des critères de qualification, l'application
 
 Afin de garantir la qualité de l'audit énergétique mentionné au l du 1, un décret précise les conditions de qualification des auditeurs.
 
-3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable.
+3\. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable.
 
-1. Pour un même logement dont un contribuable est propriétaire et qu'il affecte à son habitation principale, le montant de crédit d'impôt dont peut bénéficier ce contribuable, toutes dépenses éligibles confondues, ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2016 et le 31 décembre 2020, la somme de 2 400 € pour une personne célibataire, veuve ou divorcée et de 4 800 € pour un couple soumis à imposition commune. Cette somme est majorée de 120 € par personne à charge au sens des articles 196 à 196 B. La somme de 120 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+4\. Pour un même logement dont un contribuable est propriétaire et qu'il affecte à son habitation principale, le montant de crédit d'impôt dont peut bénéficier ce contribuable, toutes dépenses éligibles confondues, ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2016 et le 31 décembre 2020, la somme de 2 400 € pour une personne célibataire, veuve ou divorcée et de 4 800 € pour un couple soumis à imposition commune. Cette somme est majorée de 120 € par personne à charge au sens des articles 196 à 196 B. La somme de 120 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
 4 bis. a) Les dépenses mentionnées au 1, payées à compter du 1er janvier 2020, ouvrent droit au crédit d'impôt lorsque les revenus du ménage, appréciés dans les conditions prévues au IV des articles 1391 B ter et 1417, sont, au titre de l'avant-dernière année précédant celle du paiement de la dépense :
 
@@ -95,7 +95,7 @@ b) Les conditions de ressources prévues au a du présent 4 bis ne sont pas appl
 
 c) Les conditions de ressources prévues au 2° du a du présent 4 bis ne sont pas applicables pour les dépenses mentionnées au 3° du b du 1.
 
-5. Sous réserve des dispositions du 5 ter, pour les dépenses autres que celles mentionnées au 5 bis, le crédit d'impôt est égal, selon la nature de chaque dépense, aux montants suivants :
+5\. Sous réserve des dispositions du 5 ter, pour les dépenses autres que celles mentionnées au 5 bis, le crédit d'impôt est égal, selon la nature de chaque dépense, aux montants suivants :
 
 | Nature de la dépense | Montant | |
 | --- | --- | --- |
@@ -142,7 +142,7 @@ c) Les conditions de ressources prévues au 2° du a du présent 4 bis ne sont p
 
 5 ter. Pour chaque dépense, le montant du crédit d'impôt accordé en application des 5 ou 5 bis ne peut dépasser 75 % de la dépense éligible effectivement supportée par le contribuable.
 
-6. a) Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture de l'entreprise mentionnée au 1 ter. Les dépenses d'audit énergétique mentionnées au l du 1 s'entendent de celles figurant sur la facture délivrée par un auditeur mentionné au dernier alinéa du 2. Cette facture comporte la mention que l'audit énergétique a été réalisé en dehors des cas où la réglementation le rend obligatoire.
+6\. a) Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture de l'entreprise mentionnée au 1 ter. Les dépenses d'audit énergétique mentionnées au l du 1 s'entendent de celles figurant sur la facture délivrée par un auditeur mentionné au dernier alinéa du 2. Cette facture comporte la mention que l'audit énergétique a été réalisé en dehors des cas où la réglementation le rend obligatoire.
 
 b) Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, la facture, autre que des factures d'acompte, de l'entreprise mentionnée au 1 ter ou de l'auditeur qui a réalisé l'audit énergétique.
 
@@ -184,7 +184,7 @@ b) Ou d'une déduction de charges pour la détermination de ses revenus catégor
 
 c) Ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
 
-7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+7\. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait le cas échéant l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale à la différence entre le montant de l'avantage fiscal initialement accordé et le montant de l'avantage fiscal déterminé en application des dispositions du 5 ter sur la base de la dépense finalement supportée par le contribuable. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
 

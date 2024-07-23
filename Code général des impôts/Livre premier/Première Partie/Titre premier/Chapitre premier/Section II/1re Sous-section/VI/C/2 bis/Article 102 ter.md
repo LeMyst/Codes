@@ -1,6 +1,6 @@
 # Article 102 ter
 
-1. Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux dont le montant hors taxes de l'année civile précédente ou de la pénultième année, ajusté s'il y a lieu au prorata du temps d'activité au cours de l'année de référence, n'excède pas 77 700 € est égal au montant brut des recettes annuelles diminué d'un abattement forfaitaire de 34 %. Cet abattement ne peut être inférieur à 305 €.
+1\. Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux dont le montant hors taxes de l'année civile précédente ou de la pénultième année, ajusté s'il y a lieu au prorata du temps d'activité au cours de l'année de référence, n'excède pas 77 700 € est égal au montant brut des recettes annuelles diminué d'un abattement forfaitaire de 34 %. Cet abattement ne peut être inférieur à 305 €.
 
 Les plus ou moins-values provenant de la cession des biens affectés à l'exploitation sont prises en compte distinctement pour l'assiette de l'impôt sur le revenu dans les conditions prévues à l'article 93 quater, sous réserve des dispositions de l'article 151 septies. Pour l'application de la phrase précédente, l'abattement mentionné au premier alinéa est réputé tenir compte des amortissements pratiqués selon le mode linéaire.
 
@@ -10,19 +10,19 @@ Pour l'appréciation de la limite mentionnée au présent 1, il est fait abstrac
 
 Au titre de l'année qui suit la sortie du régime d'imposition prévu à l'article 96 et lorsque l'option mentionnée à l'article 93 A avait été exercée, les recettes mentionnées au premier alinéa du présent 1 sont diminuées, avant application de l'abattement prévu au même premier alinéa, du montant hors taxes des créances détenues par le contribuable au 31 décembre de la dernière année imposée selon les modalités prévues à l'article 93 A.
 
-2. Les contribuables visés au 1 portent directement sur la déclaration prévue à l'article 170 le montant des recettes annuelles et des plus ou moins-values réalisées ou subies au cours de cette même année.
+2\. Les contribuables visés au 1 portent directement sur la déclaration prévue à l'article 170 le montant des recettes annuelles et des plus ou moins-values réalisées ou subies au cours de cette même année.
 
-1. (Abrogé).
+3\. (Abrogé).
 
-1. Les contribuables visés au 1 doivent tenir et, sur demande du service des impôts, présenter un document donnant le détail journalier de leurs recettes professionnelles.
+4\. Les contribuables visés au 1 doivent tenir et, sur demande du service des impôts, présenter un document donnant le détail journalier de leurs recettes professionnelles.
 
 Lorsqu'il est tenu par un contribuable non adhérent d'une association de gestion agréée, ce document comporte, quelle que soit la profession exercée, l'identité déclarée par le client ainsi que le montant, la date et la forme du versement des honoraires.
 
-5. Les contribuables qui souhaitent renoncer au bénéfice du présent article peuvent opter pour le régime visé à l'article 97.
+5\. Les contribuables qui souhaitent renoncer au bénéfice du présent article peuvent opter pour le régime visé à l'article 97.
 
 Cette option doit être exercée dans les délais prévus pour le dépôt de la déclaration visée à l'article 97. Elle est valable un an et reconduite tacitement chaque année civile pour un an. Les contribuables peuvent renoncer à cette option dans les délais applicables au dépôt de la déclaration souscrite au titre des résultats de la période précédant celle au titre de laquelle la renonciation s'applique.
 
-6. Sont exclus de ce régime :
+6\. Sont exclus de ce régime :
 
 a. Les contribuables qui exercent plusieurs activités dont le total des revenus, abstraction faite des recettes des offices publics ou ministériels, excède la limite mentionnée au 1 ;
 

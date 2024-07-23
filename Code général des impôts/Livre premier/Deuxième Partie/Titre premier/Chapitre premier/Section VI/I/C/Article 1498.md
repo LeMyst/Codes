@@ -16,7 +16,7 @@ Pour l'application du présent 1 :
 
 2° Le territoire de la Ville de Paris est assimilé au territoire d'un département.
 
-2. Les tarifs par mètre carré sont déterminés sur la base des loyers moyens constatés dans chaque secteur d'évaluation par catégorie de propriétés.
+2\. Les tarifs par mètre carré sont déterminés sur la base des loyers moyens constatés dans chaque secteur d'évaluation par catégorie de propriétés.
 
 A défaut, lorsque les loyers sont en nombre insuffisant ou ne peuvent être retenus, ces tarifs sont déterminés par comparaison avec les tarifs fixés pour les autres catégories de locaux du même sous-groupe du même secteur d'évaluation.
 

@@ -2,11 +2,11 @@
 
 I. - 1. La taxe sur la valeur ajoutée qui a grevé les éléments du prix d'une opération imposable est déductible de la taxe sur la valeur ajoutée applicable à cette opération.
 
-2. Le droit à déduction prend naissance lorsque la taxe déductible devient exigible chez le redevable.
+2\. Le droit à déduction prend naissance lorsque la taxe déductible devient exigible chez le redevable.
 
 Toutefois, les personnes qui effectuent des opérations occasionnelles soumises à la taxe sur la valeur ajoutée n'exercent le droit à déduction qu'au moment de la livraison.
 
-3. La déduction de la taxe ayant grevé les biens et les services est opérée par imputation sur la taxe due par le redevable au titre du mois pendant lequel le droit à déduction a pris naissance.
+3\. La déduction de la taxe ayant grevé les biens et les services est opérée par imputation sur la taxe due par le redevable au titre du mois pendant lequel le droit à déduction a pris naissance.
 
 II. - 1. Dans la mesure où les biens et les services sont utilisés pour les besoins de leurs opérations imposables, et à la condition que ces opérations ouvrent droit à déduction, la taxe dont les redevables peuvent opérer la déduction est, selon le cas :
 
@@ -20,15 +20,15 @@ d) Celle qui correspond aux factures d'acquisition intracommunautaire établies 
 
 e) (Abrogé).
 
-2. La déduction peut être opérée :\
-   a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;\
-   b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 287, conformément au 5 du même article 287, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :\
-   1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;\
-   2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 292, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 293 A ;\
-   3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 277 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.\
-   Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue au 4 de l'article 1788 A.
+2\. La déduction peut être opérée :\
+a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;\
+b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 287, conformément au 5 du même article 287, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :\
+1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;\
+2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 292, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 293 A ;\
+3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 277 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.\
+Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue au 4 de l'article 1788 A.
 
-1. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
+3\. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
 
 III. - A cet effet, les assujettis, qui sont autorisés à opérer globalement l'imputation de la taxe sur la valeur ajoutée, sont tenus de procéder à une régularisation :
 

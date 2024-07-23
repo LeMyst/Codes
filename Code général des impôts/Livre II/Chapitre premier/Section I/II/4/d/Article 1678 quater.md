@@ -16,12 +16,12 @@ b) Les prélèvements sur les intérêts dus par les offices notariaux au titre 
 
 Son paiement intervient au plus tard le 15 octobre.
 
-2. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à la liquidation des prélèvements ou retenues.
+2\. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à la liquidation des prélèvements ou retenues.
 
 Lorsque le montant du versement effectué en application du 1 du présent II est supérieur aux montants des prélèvements ou retenues réellement dus, le surplus est imputé sur le prélèvement ou la retenue dû à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ou retenues. L'excédent est restitué.
 
-3. Si l'établissement payeur estime que le montant du versement dû en application du 1 du présent II est supérieur au montant du prélèvement ou de la retenue dont il sera redevable au titre du mois de décembre, il peut en réduire le montant à concurrence de l'excédent présumé.
+3\. Si l'établissement payeur estime que le montant du versement dû en application du 1 du présent II est supérieur au montant du prélèvement ou de la retenue dont il sera redevable au titre du mois de décembre, il peut en réduire le montant à concurrence de l'excédent présumé.
 
 Lorsque le montant du prélèvement ou de la retenue réellement dû au titre du mois de décembre est supérieur au montant du versement réduit par l'établissement payeur en application du premier alinéa du présent 3, la majoration prévue au 1 de l'article 1731 s'applique à cette différence. L'assiette de cette majoration est toutefois limitée à la différence entre le montant du versement dû en application du 1 du présent II et celui du versement réduit par l'établissement payeur.
 
-4. Le versement effectué en application du 1 du présent II est contrôlé et recouvré selon les mêmes règles et sous les mêmes garanties, sûretés, privilèges et sanctions que le prélèvement prévu à l'article 125 A. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ce prélèvement.
+4\. Le versement effectué en application du 1 du présent II est contrôlé et recouvré selon les mêmes règles et sous les mêmes garanties, sûretés, privilèges et sanctions que le prélèvement prévu à l'article 125 A. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ce prélèvement.

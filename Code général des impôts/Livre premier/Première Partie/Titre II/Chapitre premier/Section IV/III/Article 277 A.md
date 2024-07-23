@@ -38,7 +38,7 @@ Les conditions dans lesquelles la taxe ainsi devenue exigible est déclarée et 
 
 Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée. La déduction de cette taxe est effectuée et justifiée dans les mêmes conditions que pour celle due à la sortie du régime mentionnée au premier alinéa.
 
-2. a) Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe doit être acquittée, selon le cas, par l'une des personnes mentionnées ci-après :
+2\. a) Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe doit être acquittée, selon le cas, par l'une des personnes mentionnées ci-après :
 
 1° pour les livraisons visées aux 1° et 2° du I, le destinataire ;
 
@@ -52,7 +52,7 @@ b) Lorsque le bien a fait l'objet d'une ou plusieurs livraisons mentionnées aux
 
 c) Dans les cas visés aux a et b, la personne qui a obtenu l'autorisation du régime est solidairement tenue au paiement de la taxe.
 
-3. La taxe due est, selon le cas :
+3\. La taxe due est, selon le cas :
 
 1° Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe afférente à l'opération mentionnée aux 1°, 2°, 3° ou 4° du I, et, le cas échéant, la taxe afférente aux prestations de services mentionnées aux 5° et 6° du I ;
 
@@ -64,7 +64,7 @@ c) Dans les cas visés aux a et b, la personne qui a obtenu l'autorisation du r�
 
 L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel la taxe devenue exigible a été suspendue conformément au I, jusqu'au dernier jour du mois précédant celui au cours duquel les biens sont sortis du régime fiscal suspensif.
 
-4. Donnent lieu à une dispense de paiement :
+4\. Donnent lieu à une dispense de paiement :
 
 1° Lorsque le bien fait l'objet, directement après la sortie du régime, d'une exportation ou d'une livraison exonérée en application de l'article 262 ou du I de l'article 262 ter, la taxe devenue exigible conformément au 1 du présent II ;
 

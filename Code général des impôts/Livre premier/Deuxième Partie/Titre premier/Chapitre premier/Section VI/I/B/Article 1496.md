@@ -18,4 +18,4 @@ Les coefficients fixés pour les années 1979 à 1981 demeurent applicables jusq
 
 Toutefois, si ce loyer est notablement inférieur aux prix de location généralement constatés pour les locaux de l'espèce, la base de la taxe foncière est évaluée par comparaison avec celle afférente à ces locaux.
 
-2. Lorsqu'un local cesse d'être soumis à la réglementation des loyers établie par la loi précitée, la valeur locative est déterminée dans les conditions prévues au I, à compter du 1er janvier de l'année suivante.
+2\. Lorsqu'un local cesse d'être soumis à la réglementation des loyers établie par la loi précitée, la valeur locative est déterminée dans les conditions prévues au I, à compter du 1er janvier de l'année suivante.

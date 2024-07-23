@@ -10,19 +10,19 @@ c. Pour les acomptes qui lui sont versés avant que l'une des opérations visée
 
 d. Pour les livraisons aux enchères publiques de biens d'occasion, d'oeuvres d'art, d'objets de collection ou d'antiquité.
 
-2. Les factures peuvent être matériellement émises par le client ou par un tiers lorsque l'assujetti leur donne mandat à cet effet. Sous réserve de son acceptation par l'assujetti, chaque facture est alors émise en son nom et pour son compte.
+2\. Les factures peuvent être matériellement émises par le client ou par un tiers lorsque l'assujetti leur donne mandat à cet effet. Sous réserve de son acceptation par l'assujetti, chaque facture est alors émise en son nom et pour son compte.
 
 Un décret en Conseil d'Etat précise les modalités particulières d'application du premier alinéa lorsque le mandataire est établi dans un pays avec lequel il n'existe aucun instrument juridique relatif à l'assistance mutuelle ayant une portée similaire à celle prévue par la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures et par le règlement (UE) n° 904/2010 du Conseil du 7 octobre 2010 concernant la coopération administrative et la lutte contre la fraude dans le domaine de la taxe sur la valeur ajoutée.
 
-3. La facture est, en principe, émise dès la réalisation de la livraison ou de la prestation de services.
+3\. La facture est, en principe, émise dès la réalisation de la livraison ou de la prestation de services.
 
 Pour les livraisons de biens exonérées en application du I de l'article 262 ter et du II de l'article 298 sexies et pour les prestations de services pour lesquelles la taxe est due par le preneur en application de l'article 196 de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, la facture est émise au plus tard le 15 du mois suivant celui au cours duquel s'est produit le fait générateur.
 
 Elle peut être établie de manière périodique pour plusieurs livraisons de biens ou prestations de services distinctes réalisées au profit d'un même acquéreur ou preneur pour lesquelles la taxe devient exigible au cours d'un même mois civil. Cette facture est établie au plus tard à la fin de ce même mois.
 
-4. L'assujetti doit conserver un double de toutes les factures émises.
+4\. L'assujetti doit conserver un double de toutes les factures émises.
 
-1. Tout document ou message qui modifie la facture initiale, émise en application de cet article, et qui fait référence à la facture initiale de façon spécifique et non équivoque est assimilé à une facture. Il doit comporter l'ensemble des mentions prévues au II.
+5\. Tout document ou message qui modifie la facture initiale, émise en application de cet article, et qui fait référence à la facture initiale de façon spécifique et non équivoque est assimilé à une facture. Il doit comporter l'ensemble des mentions prévues au II.
 
 II. – Un décret en Conseil d'Etat fixe les mentions obligatoires qui doivent figurer sur les factures. Ce décret détermine notamment les éléments d'identification des parties, les données concernant les biens livrés ou les services rendus et celles relatives à la détermination de la taxe sur la valeur ajoutée.
 

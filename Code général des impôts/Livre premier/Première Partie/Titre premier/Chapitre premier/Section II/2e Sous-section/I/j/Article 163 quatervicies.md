@@ -10,7 +10,7 @@ c) Au régime de retraite complémentaire institué par la Caisse nationale de p
 
 d) Sauf application de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier, aux plans d'épargne retraite mentionnés à l'article L. 224-1 du même code ou aux sous-comptes français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 dudit code, qui correspondent à des versements mentionnés au 1° de l'article L. 224-2 dudit code et qui ne sont pas déduits en application des articles 154 bis ou 154 bis-0 A.
 
-2. – a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre de cette dernière année, entre :
+2\. – a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre de cette dernière année, entre :
 
 1° une fraction égale à 10 % de ses revenus d'activité professionnelle tels que définis au II, retenus dans la limite de huit fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale ou, si elle est plus élevée, une somme égale à 10 % du montant annuel du plafond précité ;
 
@@ -26,8 +26,8 @@ d) Les personnes qui, pour des raisons qui ne sont pas liées à la mise en oeuv
 
 II. – Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I s'entendent :
 
-1. – Des traitements et salaires définis à l'article 79 et des rémunérations allouées aux gérants et associés des sociétés mentionnées à l'article 62, pour leur montant déterminé respectivement en application des articles 83 à 84 A et du dernier alinéa de l'article 62 ;
+1\. – Des traitements et salaires définis à l'article 79 et des rémunérations allouées aux gérants et associés des sociétés mentionnées à l'article 62, pour leur montant déterminé respectivement en application des articles 83 à 84 A et du dernier alinéa de l'article 62 ;
 
-1. – Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
+2\. – Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 septdecies ou au 9 de l'article 93 ainsi que les abattements prévus à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.

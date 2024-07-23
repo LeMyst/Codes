@@ -14,9 +14,9 @@ a) Elles constituent une seule et même catégorie d'actions ;
 
 b) Elles représentent :
 
-- au moins 1 % du montant total des souscriptions dans la société pour sa fraction inférieure ou égale à un milliard d'euros ;
+\- au moins 1 % du montant total des souscriptions dans la société pour sa fraction inférieure ou égale à un milliard d'euros ;
 
-- et au moins 0,5 % de la fraction du montant total des souscriptions dans la société qui excède un milliard d'euros.
+\- et au moins 0,5 % de la fraction du montant total des souscriptions dans la société qui excède un milliard d'euros.
 
 A titre dérogatoire, un pourcentage distinct peut être fixé par décret pour certaines catégories de sociétés, après avis de l'Autorité des marchés financiers ;
 
@@ -24,7 +24,7 @@ c) Les distributions auxquelles donnent droit ces actions sont versées au moins
 
 3° Le salarié ou dirigeant bénéficiaire de la distribution perçoit une rémunération normale au titre du contrat de travail ou du mandat social qui lui a permis de souscrire ou d'acquérir ces actions.
 
-2. Les distributions prélevées sur les bénéfices réalisés dans le cadre de leur objet social défini à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée sont exonérées lorsque les conditions suivantes sont remplies :
+2\) Les distributions prélevées sur les bénéfices réalisés dans le cadre de leur objet social défini à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée sont exonérées lorsque les conditions suivantes sont remplies :
 
 1° L'actionnaire a son domicile fiscal en France ou dans un pays ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ;
 

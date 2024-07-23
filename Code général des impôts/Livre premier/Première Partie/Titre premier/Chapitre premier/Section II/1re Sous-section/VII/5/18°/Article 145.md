@@ -1,6 +1,6 @@
 # Article 145
 
-1. Le régime fiscal des sociétés mères, tel qu'il est défini à l'article 216, est applicable aux sociétés et autres organismes soumis à l'impôt sur les sociétés au taux normal qui détiennent des participations satisfaisant aux conditions ci-après :
+1\. Le régime fiscal des sociétés mères, tel qu'il est défini à l'article 216, est applicable aux sociétés et autres organismes soumis à l'impôt sur les sociétés au taux normal qui détiennent des participations satisfaisant aux conditions ci-après :
 
 a. Les titres de participation doivent revêtir la forme nominative ou être déposés ou inscrits dans un compte tenu par l'un des intermédiaires suivants :
 
@@ -34,11 +34,11 @@ Lorsque, en application du huitième alinéa du présent c, les conditions de du
 
 Ces dispositions s'appliquent également en cas de cession dans les cinq ans de la fusion ou de la scission par la société mère de titres de la société absorbante ou bénéficiaire lorsque l'application du régime fiscal des sociétés mères est subordonnée au respect d'un seuil minimal de participation de 2,5 % du capital et de 5 % des droits de vote tel que défini au premier alinéa du présent c.
 
-2. à 4. (Abrogés pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1993).
+2\. à 4. (Abrogés pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1993).
 
-1. bis et 5. (Abrogés).
+4\. bis et 5. (Abrogés).
 
-1. Le régime fiscal des sociétés mères n'est pas applicable :
+6\. Le régime fiscal des sociétés mères n'est pas applicable :
 
 a) Aux produits des actions de sociétés d'investissement ;
 
@@ -66,11 +66,11 @@ j) Aux revenus et profits distribués aux actionnaires de sociétés de placemen
 
 k) (Abrogé)
 
-7. (Abrogé) ;
+7\. (Abrogé) ;
 
-1. (Transféré sous le paragraphe 6 d ci-dessus) ;
+8\. (Transféré sous le paragraphe 6 d ci-dessus) ;
 
-1. Une participation détenue en application des articles L. 512-47, L. 512-55 et L. 512-106 du code monétaire et financier ou de l'article 3 de la loi n° 2006-1615 du 18 décembre 2006 ratifiant l'ordonnance n° 2006-1048 du 25 août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété qui remplit les conditions ouvrant droit au régime fiscal des sociétés mères autres que celle relative au taux de participation au capital de la société émettrice peut ouvrir droit à ce régime lorsque son prix de revient, apprécié collectivement ou individuellement pour les entités visées ci-dessus, est au moins égal à 22 800 000 €.
+9\. Une participation détenue en application des articles L. 512-47, L. 512-55 et L. 512-106 du code monétaire et financier ou de l'article 3 de la loi n° 2006-1615 du 18 décembre 2006 ratifiant l'ordonnance n° 2006-1048 du 25 août 2006 relative aux sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété qui remplit les conditions ouvrant droit au régime fiscal des sociétés mères autres que celle relative au taux de participation au capital de la société émettrice peut ouvrir droit à ce régime lorsque son prix de revient, apprécié collectivement ou individuellement pour les entités visées ci-dessus, est au moins égal à 22 800 000 €.
 
 NOTA:
 Conformément au II de l'article 43 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter du 21 juillet 2019.

@@ -1,6 +1,6 @@
 # Article 168
 
-1. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, lorsque cette somme est supérieure ou égale à 52 867 € ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
+1\. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, lorsque cette somme est supérieure ou égale à 52 867 € ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
 
 | ELEMENTS DU TRAIN DE VIE | BASE |
 | --- | --- |
@@ -40,11 +40,11 @@ Pour les éléments dont disposent conjointement plusieurs personnes, la base es
 
 Les revenus visés au présent article sont ceux qui résultent de la déclaration du contribuable et, en cas d'absence de déclaration, ils sont comptés pour zéro.
 
-2. (Abrogé).
+2\. (Abrogé).
 
 2 bis. La disproportion marquée entre le train de vie d'un contribuable et ses revenus est établie lorsque la somme forfaitaire qui résulte de l'application du barème prévu au 1 excède d'au moins un tiers, pour l'année de l'imposition, le montant du revenu net global déclaré y compris les revenus exonérés ou taxés selon un taux proportionnel ou libérés de l'impôt par l'application d'un prélèvement.
 
-3. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son train de vie.
+3\. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son train de vie.
 
 NOTA:
 Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2023-1322 du 29 décembre 2023.

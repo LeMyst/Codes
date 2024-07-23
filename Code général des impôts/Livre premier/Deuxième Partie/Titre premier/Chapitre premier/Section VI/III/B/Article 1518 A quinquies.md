@@ -10,9 +10,9 @@ Les coefficients déterminés pour une commune s'appliquent aux bases imposées 
 
 Pour la Ville de Paris, le coefficient de neutralisation applicable pour l'établissement de la taxe foncière sur les propriétés bâties est égal au coefficient de neutralisation appliqué en 2018 pour la commune de Paris.
 
-2. Par dérogation au 1 du présent I, le coefficient de neutralisation appliqué, pour chaque taxe, à la valeur locative des propriétés bâties mentionnées au I de l'article 1498 et prises en compte dans les bases d'imposition de La Poste, dans les conditions prévues à l'article 1635 sexies, est égal au rapport entre, d'une part, la somme des valeurs locatives non révisées de ces propriétés au 1er janvier 2017 imposables au titre de cette année et, d'autre part, la somme des valeurs locatives révisées de ces propriétés à la date de référence du 1er janvier 2013.
+2\. Par dérogation au 1 du présent I, le coefficient de neutralisation appliqué, pour chaque taxe, à la valeur locative des propriétés bâties mentionnées au I de l'article 1498 et prises en compte dans les bases d'imposition de La Poste, dans les conditions prévues à l'article 1635 sexies, est égal au rapport entre, d'une part, la somme des valeurs locatives non révisées de ces propriétés au 1er janvier 2017 imposables au titre de cette année et, d'autre part, la somme des valeurs locatives révisées de ces propriétés à la date de référence du 1er janvier 2013.
 
-1. Pour les communes, chaque coefficient mentionné aux 1 et 2 appliqué aux valeurs locatives communales servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égal au rapport entre :
+3\. Pour les communes, chaque coefficient mentionné aux 1 et 2 appliqué aux valeurs locatives communales servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égal au rapport entre :
 
 1° D'une part, la somme du produit du taux d'imposition de la taxe foncière sur les propriétés bâties de la commune, appliqué en 2020, par le coefficient mentionné aux 1 ou 2 déterminé pour la commune et du produit du taux d'imposition de la taxe foncière sur les propriétés bâties du département, appliqué en 2020, par le coefficient mentionné aux 1 ou 2 déterminé pour le département ;
 
@@ -22,11 +22,11 @@ II. – Le I du présent article cesse de s'appliquer l'année de la prise en co
 
 III. – Pour les impositions dues au titre des années 2017 à 2025 :
 
-1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I est positive, celle-ci est majorée d'un montant égal à la moitié de cette différence ;
+1\. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I est positive, celle-ci est majorée d'un montant égal à la moitié de cette différence ;
 
-1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du même I est négative, celle-ci est minorée d'un montant égal à la moitié de cette différence ;
+2\. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du même I est négative, celle-ci est minorée d'un montant égal à la moitié de cette différence ;
 
-1. Pour les communes, chaque majoration ou minoration mentionnée aux 1 et 2 appliquée aux valeurs locatives communales servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égale au rapport entre :
+3\. Pour les communes, chaque majoration ou minoration mentionnée aux 1 et 2 appliquée aux valeurs locatives communales servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égale au rapport entre :
 
 1° D'une part, la somme du produit de taux d'imposition de la taxe foncière sur les propriétés bâties de la commune, appliqué en 2020, par la majoration ou minoration mentionnée aux 1 ou 2 appliqué à la valeur locative servant à l'établissement de la base d'imposition à la taxe foncière sur les propriétés bâties communale et du produit du taux d'imposition de la taxe foncière sur les propriétés bâties du département, appliqué en 2020, par la majoration ou minoration mentionnée aux 1 et 2 appliquée à la valeur locative servant à l'établissement de la base d'imposition à la taxe foncière sur les propriétés bâties départementale ;
 

@@ -1,8 +1,8 @@
 # Article 1965 E
 
-1. La taxe spéciale sur les conventions d'assurances et les pénalités payées à tort peuvent être restituées.
+1\. La taxe spéciale sur les conventions d'assurances et les pénalités payées à tort peuvent être restituées.
 
-1. La taxe dûment payée ne peut être restituée qu'en cas de résiliation, d'annulation ou de résolution judiciaire de la convention, à concurrence de la fraction afférente :
+2\. La taxe dûment payée ne peut être restituée qu'en cas de résiliation, d'annulation ou de résolution judiciaire de la convention, à concurrence de la fraction afférente :
 
 a. Aux sommes stipulées au profit de l'assureur et à leurs accessoires dont le remboursement à l'assuré est ordonné par le jugement ou arrêt ;
 

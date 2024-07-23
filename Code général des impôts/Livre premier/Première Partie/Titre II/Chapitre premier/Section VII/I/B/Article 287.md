@@ -1,14 +1,14 @@
 # Article 287
 
-1. Tout redevable de la taxe sur la valeur ajoutée identifié conformément aux dispositions combinées des articles 286 ter et 286 ter A est tenu de remettre au service des impôts dont il dépend et dans le délai fixé par arrêté une déclaration conforme au modèle prescrit par l'administration.
+1\. Tout redevable de la taxe sur la valeur ajoutée identifié conformément aux dispositions combinées des articles 286 ter et 286 ter A est tenu de remettre au service des impôts dont il dépend et dans le délai fixé par arrêté une déclaration conforme au modèle prescrit par l'administration.
 
-1. Les redevables soumis au régime réel normal d'imposition déposent mensuellement la déclaration visée au 1 indiquant, d'une part, le montant total des opérations réalisées, d'autre part, le détail des opérations taxables. La taxe exigible est acquittée tous les mois.
+2\. Les redevables soumis au régime réel normal d'imposition déposent mensuellement la déclaration visée au 1 indiquant, d'une part, le montant total des opérations réalisées, d'autre part, le détail des opérations taxables. La taxe exigible est acquittée tous les mois.
 
 Ces redevables peuvent, sur leur demande, être autorisés, dans des conditions qui sont fixées par arrêté du ministre de l'économie et des finances, à disposer d'un délai supplémentaire d'un mois.
 
 Lorsque la taxe exigible annuellement est inférieure à 4 000 €, ils sont admis à déposer leurs déclarations par trimestre civil.
 
-3. Les redevables placés sous le régime simplifié d'imposition prévu à l'article 302 septies A, à l'exception de ceux mentionnés aux 3 bis et 3 ter, déposent au titre de chaque exercice une déclaration qui détermine la taxe due au titre de la période et le montant des acomptes semestriels pour la période ultérieure.
+3\. Les redevables placés sous le régime simplifié d'imposition prévu à l'article 302 septies A, à l'exception de ceux mentionnés aux 3 bis et 3 ter, déposent au titre de chaque exercice une déclaration qui détermine la taxe due au titre de la période et le montant des acomptes semestriels pour la période ultérieure.
 
 Des acomptes semestriels sont versés en juillet et en décembre. Ils sont égaux, respectivement, à 55 % et 40 % de la taxe due au titre de l'exercice précédent avant déduction de la taxe sur la valeur ajoutée relative aux biens constituant des immobilisations. Le complément d'impôt éventuellement exigible est versé lors du dépôt de la déclaration annuelle mentionnée au premier alinéa.
 
@@ -30,9 +30,9 @@ Les conditions d'application du présent 3, notamment les modalités de versemen
 
 Toutefois, lorsque la taxe exigible annuellement est inférieure à 4 000 €, ils sont admis à déposer leurs déclarations par trimestre civil.
 
-4. En cas de cession ou de cessation d'une activité professionnelle, les redevables sont tenus de souscrire dans les trente jours la déclaration prévue au 1. Toutefois, ce délai est porté à soixante jours pour les entreprises placées sous le régime simplifié d'imposition.
+4\. En cas de cession ou de cessation d'une activité professionnelle, les redevables sont tenus de souscrire dans les trente jours la déclaration prévue au 1. Toutefois, ce délai est porté à soixante jours pour les entreprises placées sous le régime simplifié d'imposition.
 
-1. Dans la déclaration prévue au 1, doivent notamment être identifiés :
+5\. Dans la déclaration prévue au 1, doivent notamment être identifiés :
 
 a) Le montant total, hors taxe sur la valeur ajoutée, des livraisons de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens installés ou montés sur le territoire d'un autre Etat membre de l'Union européenne, des livraisons de gaz naturel, d'électricité, de chaleur ou de froid imposables sur le territoire d'un autre Etat membre de l'Union européenne et des livraisons dont le lieu n'est pas situé en France en application des dispositions du 1° du I de l'article 258 A ;
 
@@ -48,11 +48,11 @@ b quinquies) L'assiette totale afférente aux importations des produits pétroli
 
 c) Le montant total hors taxes des transmissions mentionnées à l'article 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
 
-6. Par dérogation aux 2 et 5, ne sont pas indiquées dans la déclaration mentionnée au 1 :\
-   a) Les opérations mentionnées aux 2° à 4° du II de l'article 286 ter A ;\
-   b) Les opérations soumises au régime particulier prévu à l'article 298 sexdecies G.
+6\. Par dérogation aux 2 et 5, ne sont pas indiquées dans la déclaration mentionnée au 1 :\
+a) Les opérations mentionnées aux 2° à 4° du II de l'article 286 ter A ;\
+b) Les opérations soumises au régime particulier prévu à l'article 298 sexdecies G.
 
-1. Pour chacun de ses membres constitués en secteur d'activité, l'assujetti unique communique les informations figurant sur la déclaration mentionnée au 1 ainsi que des informations sur les opérations réalisées à destination des autres membres, selon des modalités fixées par arrêté du ministre chargé du budget.
+7\. Pour chacun de ses membres constitués en secteur d'activité, l'assujetti unique communique les informations figurant sur la déclaration mentionnée au 1 ainsi que des informations sur les opérations réalisées à destination des autres membres, selon des modalités fixées par arrêté du ministre chargé du budget.
 
 NOTA:
 Conformément au III de l’article 162 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2022.

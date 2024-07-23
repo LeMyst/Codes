@@ -6,7 +6,7 @@ II. - Est exonérée de la taxe sur la valeur ajoutée la livraison par un assuj
 
 III. - 1. Sont considérés comme moyens de transport : les bateaux d'une longueur de plus de 7,5 mètres, les aéronefs dont le poids total au décollage excède 1 550 kilogrammes et les véhicules terrestres à moteur d'une cylindrée de plus de 48 centimètres cubes ou d'une puissance de plus de 7,2 kilowatts, destinés au transport de personnes ou de marchandises, à l'exception des bateaux et aéronefs visés aux 2° et 4° du II de l'article 262.
 
-2. Sont considérés comme moyens de transport neufs :
+2\. Sont considérés comme moyens de transport neufs :
 
 a. les bateaux et aéronefs dont la livraison est effectuée dans les trois mois suivant la première mise en service ou qui ont, respectivement, navigué moins de 100 heures, ou volé moins de 40 heures ;
 

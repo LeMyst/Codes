@@ -24,7 +24,7 @@ En cas d'exercice de l'option mentionnée au V, le résultat mentionné au 2° d
 
 III. – 1. Pour l'application du I du présent article, les charges financières nettes s'entendent de l'excédent de charges financières déductibles après application du I de l'article 212, par rapport aux produits financiers imposables et aux autres revenus équivalents perçus par l'entreprise.
 
-2. Les charges et produits financiers mentionnés au 1 du présent III correspondent aux intérêts sur toutes les formes de dette, c'est-à-dire ceux afférents aux sommes laissées ou mises à disposition de l'entreprise ou par l'entreprise, y compris :
+2\. Les charges et produits financiers mentionnés au 1 du présent III correspondent aux intérêts sur toutes les formes de dette, c'est-à-dire ceux afférents aux sommes laissées ou mises à disposition de l'entreprise ou par l'entreprise, y compris :
 
 a) Les paiements effectués dans le cadre de prêts participatifs ou d'emprunts obligataires ;
 
@@ -48,7 +48,7 @@ j) Tous les autres coûts ou produits équivalents à des intérêts.
 
 Les charges et produits à retenir pour déterminer les charges financières nettes d'un exercice s'entendent des charges engagées et des produits acquis au cours de cet exercice.
 
-3. Les charges financières nettes mentionnées au 1 du présent III n'incluent pas les charges financières nettes supportées par le délégataire, concessionnaire et partenaire privé et afférentes aux biens acquis ou construits par lui dans le cadre :
+3\. Les charges financières nettes mentionnées au 1 du présent III n'incluent pas les charges financières nettes supportées par le délégataire, concessionnaire et partenaire privé et afférentes aux biens acquis ou construits par lui dans le cadre :
 
 1° D'une délégation de service public mentionnée à l'article 38 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, dans sa rédaction antérieure à l'entrée en vigueur de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession ;
 
@@ -80,13 +80,13 @@ IV. – 1. Par exception aux I, VI et VII du présent article, sont déductibles
 
 Le présent 1 s'applique aux charges financières nettes supportées dans le cadre des contrats mentionnés aux 1° à 5° signés à compter du 29 décembre 2012 et pour lesquels soit une consultation a été engagée, soit un avis d'appel à la concurrence ou un avis de concession a été envoyé à la publication, soit une procédure d'approbation par décret a été initiée avant la date de promulgation de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ainsi qu'aux charges financières nettes supportées par les sociétés définies à l'article 238 bis HW du présent code.
 
-2. Les charges financières nettes supportées par les sociétés mentionnées au premier alinéa du 1 du présent IV ou afférentes aux contrats mentionnés au même 1 sont déductibles dans la limite du plus élevé des deux montants suivants :
+2\. Les charges financières nettes supportées par les sociétés mentionnées au premier alinéa du 1 du présent IV ou afférentes aux contrats mentionnés au même 1 sont déductibles dans la limite du plus élevé des deux montants suivants :
 
 a) Trois millions d'euros ;
 
 b) 30 % du résultat afférent à ces contrats et déterminé dans les conditions du II.
 
-3. Les charges financières nettes non admises en déduction au titre d'un exercice, en application du 2 du présent IV, sont déductibles, au titre de cet exercice, à hauteur de 75 % de leur montant.
+3\. Les charges financières nettes non admises en déduction au titre d'un exercice, en application du 2 du présent IV, sont déductibles, au titre de cet exercice, à hauteur de 75 % de leur montant.
 
 V. – Les charges financières nettes mentionnées au 3 du III et au 1 du IV sont celles afférentes à des emprunts utilisés exclusivement pour financer des projets d'infrastructures publiques à long terme lorsque l'opérateur du projet, les charges financières, les actifs et les revenus se situent tous dans l'Union européenne.
 
@@ -106,9 +106,9 @@ Pour l'application du premier alinéa du présent VI :
 
 VI bis. - 1. Les charges financières nettes mentionnées au 1 du III supportées par l'entreprise définie au 2 du présent VI bis, qui ne sont pas admises en déduction au titre d'un exercice en application du I, sont déductibles, au titre de ce même exercice, à hauteur de 75 % de leur montant.
 
-2. Le présent VI bis s'applique à l'entreprise qui, au titre de l'exercice mentionné au 1, n'est pas membre d'un groupe consolidé au sens du 2° du VI et ne dispose d'aucun établissement hors de France, ni d'aucune entreprise associée au sens des quatre premiers alinéas du 4 de l'article 2 de la directive (UE) 2016/1164 du Conseil du 12 juillet 2016 établissant des règles pour lutter contre les pratiques d'évasion fiscale qui ont une incidence directe sur le fonctionnement du marché intérieur.
+2\. Le présent VI bis s'applique à l'entreprise qui, au titre de l'exercice mentionné au 1, n'est pas membre d'un groupe consolidé au sens du 2° du VI et ne dispose d'aucun établissement hors de France, ni d'aucune entreprise associée au sens des quatre premiers alinéas du 4 de l'article 2 de la directive (UE) 2016/1164 du Conseil du 12 juillet 2016 établissant des règles pour lutter contre les pratiques d'évasion fiscale qui ont une incidence directe sur le fonctionnement du marché intérieur.
 
-1. Les IV et VIII du présent article ne s'appliquent pas à l'entreprise définie au 2 du présent VI bis pour l'exercice au titre duquel elle a déduit ses charges financières dans les conditions prévues au 1.
+3\. Les IV et VIII du présent article ne s'appliquent pas à l'entreprise définie au 2 du présent VI bis pour l'exercice au titre duquel elle a déduit ses charges financières dans les conditions prévues au 1.
 
 VII. – 1. Par exception au I, lorsque le montant moyen des sommes laissées ou mises à disposition par l'ensemble des entreprises liées directement ou indirectement au sens du 12 de l'article 39, au cours d'un exercice, excède, au titre de cet exercice, une fois et demie le montant des fonds propres, apprécié au choix de l'entreprise, à l'ouverture ou à la clôture de l'exercice, les charges financières nettes déterminées conformément au III du présent article sont déductibles :
 
@@ -122,7 +122,7 @@ Les charges financières nettes non admises en déduction en application du mêm
 
 Lorsque l'entreprise remplit les conditions prévues au premier alinéa du présent 1, elle ne peut bénéficier des dispositions du VI.
 
-2. Pour l'application du 1 du présent VII, sont considérées comme des sommes laissées ou mises à disposition de l'entreprise par des entreprises qui ne lui sont pas liées directement ou indirectement au sens du 12 de l'article 39 les sommes afférentes :
+2\. Pour l'application du 1 du présent VII, sont considérées comme des sommes laissées ou mises à disposition de l'entreprise par des entreprises qui ne lui sont pas liées directement ou indirectement au sens du 12 de l'article 39 les sommes afférentes :
 
 a) A des opérations de financement réalisées, dans le cadre d'une convention de gestion centralisée de la trésorerie d'entreprises liées, au sens du même 12 de l'article 39, par l'une de ces entreprises chargée de cette gestion centralisée au profit de laquelle les sommes sont mises à disposition ;
 
@@ -130,7 +130,7 @@ b) A l'acquisition de biens donnés en location dans les conditions prévues aux
 
 Sont également considérées comme des sommes laissées ou mises à disposition de l'entreprise par des entreprises qui ne lui sont pas liées directement ou indirectement au sens du 12 de l'article 39 du présent code les sommes laissées ou mises à disposition des établissements de crédit ou des sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier.
 
-3. Le 1 du présent VII ne s'applique pas si l'entreprise apporte la preuve que le ratio d'endettement du groupe consolidé auquel elle appartient est supérieur ou égal à son propre ratio d'endettement au titre de l'exercice mentionné au même 1.
+3\. Le 1 du présent VII ne s'applique pas si l'entreprise apporte la preuve que le ratio d'endettement du groupe consolidé auquel elle appartient est supérieur ou égal à son propre ratio d'endettement au titre de l'exercice mentionné au même 1.
 
 Pour l'application du premier alinéa du présent 3 :
 
@@ -144,6 +144,6 @@ d) Les dettes et les fonds propres de l'entreprise et du groupe consolidé auque
 
 VIII. – 1. Les charges financières nettes non admises en déduction en application des I et VI ainsi que du a du 1 du VII et celles reportables au titre de l'avant-dernier alinéa du même 1 au titre des exercices antérieurs peuvent être déduites à hauteur d'un montant égal à la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice ou, lorsque la condition mentionnée au premier alinéa du 1 du VII est remplie, la limite mentionnée au a du même 1 appliquée au titre de l'exercice et les charges financières nettes de l'exercice minorées, le cas échéant, de celles soumises au plafonnement du b dudit 1. Les charges financières nettes non admises en déduction après application du présent 1 peuvent être déduites dans les mêmes conditions au titre des exercices suivants.
 
-2. La capacité de déduction inemployée, entendue comme la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice et les charges financières nettes admises en déduction au titre de l'exercice en application des I et VI ainsi que du 1 du présent VIII, peut être utilisée au titre des cinq exercices suivants pour déduire du résultat de ces exercices le montant de charges financières nettes non admises en déduction après application des I et VI. Cette capacité de déduction inemployée ne peut être utilisée pour déduire des charges financières en report conformément au 1 du présent VIII.
+2\. La capacité de déduction inemployée, entendue comme la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice et les charges financières nettes admises en déduction au titre de l'exercice en application des I et VI ainsi que du 1 du présent VIII, peut être utilisée au titre des cinq exercices suivants pour déduire du résultat de ces exercices le montant de charges financières nettes non admises en déduction après application des I et VI. Cette capacité de déduction inemployée ne peut être utilisée pour déduire des charges financières en report conformément au 1 du présent VIII.
 
 IX. – Un décret fixe les obligations déclaratives incombant aux entreprises mentionnées au I.

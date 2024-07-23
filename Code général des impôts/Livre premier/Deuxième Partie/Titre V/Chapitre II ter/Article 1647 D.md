@@ -23,7 +23,7 @@ Les limites de base minimum mentionnées au tableau annexé au premier alinéa, 
 
 1 bis. Pour les communes et les établissements publics de coopération intercommunale sur le territoire desquels s'appliquent des montants de base minimum pour les trois tranches de chiffre d'affaires ou de recettes, en application du 1 du présent article ou du troisième alinéa du I de l'article 1639 A bis dans leur rédaction en vigueur au 31 décembre 2013, et qui n'ont pas pris de nouvelle délibération, le montant de la base minimum applicable est égal à celui qui a été appliqué au titre de l'année 2013 ou, le cas échéant, à celui qui a été fixé par une délibération prise entre le 22 janvier et le 1er octobre 2013 pour une application à compter de l'année 2014.
 
-2. A défaut de délibération pour l'une des tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1, le montant de la base minimum qui est applicable est égal :
+2\. A défaut de délibération pour l'une des tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1, le montant de la base minimum qui est applicable est égal :
 
 a) Pour les communes existant au 31 décembre 2012 et les établissements publics de coopération intercommunale soumis à l'article 1609 nonies C ou au I de l'article 1609 quinquies C à la même date : au montant de la base minimum applicable sur leur territoire au titre de l'année 2012 ;
 
@@ -35,7 +35,7 @@ b) Pour les communes nouvelles créées à compter du 1er janvier 2013, pour cel
 
 2 bis. Lorsque le montant de la base minimum s'appliquant aux redevables dont le chiffre d'affaires ou les recettes sont compris dans l'une des trois premières tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1 est déterminé dans les conditions définies aux 1 bis, 2 ou 3 et excède la limite supérieure de la base minimum applicable à la tranche dont ils relèvent, il est ramené à cette limite.
 
-3. Lorsque, à la suite d'une création, d'un changement de régime fiscal ou d'une fusion, un établissement public de coopération intercommunale fait application du régime prévu à l'article 1609 nonies C ou du I de l'article 1609 quinquies C, le montant de la base minimum applicable l'année où, pour la première fois, cette opération produit ses effets au plan fiscal est égal à celui applicable l'année précédente sur le territoire de chacune des communes ou de chacun des établissements publics de coopération intercommunale concernés.
+3\. Lorsque, à la suite d'une création, d'un changement de régime fiscal ou d'une fusion, un établissement public de coopération intercommunale fait application du régime prévu à l'article 1609 nonies C ou du I de l'article 1609 quinquies C, le montant de la base minimum applicable l'année où, pour la première fois, cette opération produit ses effets au plan fiscal est égal à celui applicable l'année précédente sur le territoire de chacune des communes ou de chacun des établissements publics de coopération intercommunale concernés.
 
 L'année suivant celle où cette opération produit pour la première fois ses effets au plan fiscal, les établissements publics de coopération intercommunale qui, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis et au 1 du présent I, fixent, pour chacune des tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1 ou pour l'une d'entre elles seulement, le montant de la base minimum peuvent, par une délibération prise dans les mêmes conditions, décider d'appliquer, pour la tranche de chiffre d'affaires ou de recettes concernée, des bases minimum différentes selon le territoire des communes ou des établissements publics de coopération intercommunale préexistants, pendant une période maximale de dix ans.
 
@@ -43,7 +43,7 @@ Les écarts entre, d'une part, les bases minimum appliquées sur le territoire d
 
 Le dispositif de convergence défini aux deuxième et troisième alinéas du 3 n'est pas applicable lorsque le rapport entre la base minimum la plus faible applicable sur le territoire de l'établissement public de coopération intercommunale et celle qu'il a fixée est supérieur à 80 %. Ce rapport s'apprécie séparément pour chacune des tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1.
 
-4. Le dispositif de convergence prévu au 3 s'applique également :
+4\. Le dispositif de convergence prévu au 3 s'applique également :
 
 a) En cas de création d'une commune nouvelle ;
 
@@ -61,13 +61,13 @@ Les montants résultant de l'application des 1° et 2° sont arrondis à l'euro 
 
 II. – Quand ils ne disposent d'aucun local ou terrain :
 
-1. Les redevables domiciliés en application d'un contrat de domiciliation commerciale ou d'une autre disposition contractuelle sont redevables de la cotisation minimum au lieu de leur domiciliation ;
+1\. Les redevables domiciliés en application d'un contrat de domiciliation commerciale ou d'une autre disposition contractuelle sont redevables de la cotisation minimum au lieu de leur domiciliation ;
 
-1. Les redevables non sédentaires sont redevables de la cotisation minimum établie au lieu de la commune d'élection de domicile, au sens de l'article L. 264-1 du code de l'action sociale et des familles, ou, à défaut, au lieu de leur habitation principale ;
+2\. Les redevables non sédentaires sont redevables de la cotisation minimum établie au lieu de la commune d'élection de domicile, au sens de l'article L. 264-1 du code de l'action sociale et des familles, ou, à défaut, au lieu de leur habitation principale ;
 
-1. Les redevables situés à l'étranger qui réalisent une activité de location ou de vente portant sur un ou plusieurs immeubles situés en France sont redevables de la cotisation minimum au lieu de situation de l'immeuble dont la valeur locative foncière est la plus élevée au 1er janvier de l'année d'imposition ;
+3\. Les redevables situés à l'étranger qui réalisent une activité de location ou de vente portant sur un ou plusieurs immeubles situés en France sont redevables de la cotisation minimum au lieu de situation de l'immeuble dont la valeur locative foncière est la plus élevée au 1er janvier de l'année d'imposition ;
 
-1. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
+4\. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
 
 NOTA:
 Modification effectuée en conséquence de l’article 2-6.1.31 de la loi n° 2009-1673 du 30 décembre 2009, de l’article 51-I-2° de la loi n° 2011-1978 du 28 décembre 2011 et de l’article 76-I E 1° de la loi n° 2013-1278 du 29 décembre 2013.

@@ -2,7 +2,7 @@
 
 I. – 1. – Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution pour le respect des ratios de couverture et de division des risques ou du niveau de fonds propres adéquat prévus au I de l'article L. 511-41 et aux articles L. 522-14 et L. 533-2 du même code, sont assujetties à une taxe pour le financement du fonds de soutien créé par l'article 92 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, au titre de leur activité exercée au 1er janvier de chaque année.
 
-2. – Toutefois, ne sont pas assujetties à cette taxe :
+2\. – Toutefois, ne sont pas assujetties à cette taxe :
 
 1° Les personnes ayant leur siège social dans un autre Etat partie à l'accord sur l'Espace économique européen et exerçant leur activité en France exclusivement par une succursale ou par voie de libre prestation de services ;
 
@@ -18,7 +18,7 @@ IV. – La taxe est exigible le 30 avril.
 
 V. – 1. – La taxe est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier. L'Autorité de contrôle prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril.
 
-2. – La taxe est déclarée et liquidée :
+2\. – La taxe est déclarée et liquidée :
 
 1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287 du présent code déposée au titre du mois de mai ou du deuxième trimestre de l'année au cours de laquelle la taxe prévue au présent article est due ;
 
@@ -26,15 +26,15 @@ V. – 1. – La taxe est liquidée par la personne assujettie au vu des exigenc
 
 La taxe est acquittée lors du dépôt de la déclaration.
 
-3. – La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.
+3\. – La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.
 
 VI. – Les contestations du montant des exigences minimales en fonds propres sur lequel la taxe est assise suivent le régime applicable aux contestations prévues au 3° du V de l'article L. 612-20 du code monétaire et financier.
 
 VII. – 1. – Lorsque, en application du VII du même article L. 612-20, l'Autorité de contrôle prudentiel et de résolution révise le montant des exigences en fonds propres de la personne assujettie à la taxe prévue au présent article, elle communique au comptable public compétent l'appel à contribution rectificatif, accompagné de l'avis de réception, par la personne assujettie.
 
-2. – Lorsque le montant des exigences minimales en fonds propres est révisé à la hausse, le complément de taxe qui en résulte est exigible à la date de réception de l'appel à contribution rectificatif. Le complément de taxe est acquitté auprès du comptable public compétent, dans les deux mois de son exigibilité.
+2\. – Lorsque le montant des exigences minimales en fonds propres est révisé à la hausse, le complément de taxe qui en résulte est exigible à la date de réception de l'appel à contribution rectificatif. Le complément de taxe est acquitté auprès du comptable public compétent, dans les deux mois de son exigibilité.
 
-1. – Lorsque le montant des exigences minimales en fonds propres est révisé à la baisse, la personne assujettie peut adresser au comptable public compétent, dans un délai d'un mois après réception de l'appel à contribution rectificatif, une demande écrite de restitution du montant correspondant. Il est procédé à cette restitution dans un délai d'un mois après réception de ce courrier.
+3\. – Lorsque le montant des exigences minimales en fonds propres est révisé à la baisse, la personne assujettie peut adresser au comptable public compétent, dans un délai d'un mois après réception de l'appel à contribution rectificatif, une demande écrite de restitution du montant correspondant. Il est procédé à cette restitution dans un délai d'un mois après réception de ce courrier.
 
 VIII. – A défaut de paiement ou en cas de paiement partiel de la taxe dans le délai de trente jours suivant la date limite de paiement, le comptable public compétent émet un titre exécutoire. La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes. Toutefois, en cas de révision du montant des exigences minimales en fonds propres dans les conditions prévues au VII du présent article, le droit de reprise de l'administration s'exerce, pour l'ensemble de la taxe due au titre de l'année concernée, jusqu'à la fin de la troisième année suivant celle au cours de laquelle la personne assujettie a reçu l'avis à contribution rectificatif.
 

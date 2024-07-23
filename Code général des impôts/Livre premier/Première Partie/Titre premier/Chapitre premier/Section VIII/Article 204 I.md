@@ -1,6 +1,6 @@
 # Article 204 I
 
-1. Le calcul et les conditions de mise en œuvre prévus au I de l'article 204 H du taux prévu à l'article 204 E sont modifiés en cas de :
+1\. Le calcul et les conditions de mise en œuvre prévus au I de l'article 204 H du taux prévu à l'article 204 E sont modifiés en cas de :
 
 1° Mariage ou conclusion d'un pacte civil de solidarité ;
 
@@ -10,9 +10,9 @@
 
 4° Augmentation des charges de famille résultant d'une naissance, d'une adoption ou du recueil d'un enfant mineur dans les conditions prévues à l'article 196.
 
-2. Ces changements de situation sont déclarés à l'administration fiscale par les contribuables concernés dans un délai de soixante jours.
+2\. Ces changements de situation sont déclarés à l'administration fiscale par les contribuables concernés dans un délai de soixante jours.
 
-1. A la suite de la déclaration mentionnée au 2 :
+3\. A la suite de la déclaration mentionnée au 2 :
 
 1° Dans les cas mentionnés au 1° du 1 du présent article, le taux du prélèvement est calculé selon les modalités prévues au 1 du I de l'article 204 H, en additionnant les revenus de chaque membre du futur foyer fiscal et en déterminant l'impôt correspondant par application des règles prévues aux 1 à 4 du I de l'article 197 ou, le cas échéant, à l'article 197 A pour un couple, en tenant compte, le cas échéant, du quotient familial correspondant à la situation du futur foyer fiscal.
 

@@ -24,7 +24,7 @@ d) De parts ou d'actions de sociétés mentionnées au I de l'article 150 UB du 
 
 e) De parts ou d'actions d'organismes de placement collectif immobilier ou de sociétés civiles de placement immobilier.
 
-2. Bénéficient de l'abattement proportionnel de 20 % mentionné au premier alinéa du I, les sommes, valeurs ou rentes issues des contrats définis au 1 du présent I bis et qui sont investies notamment :
+2\. Bénéficient de l'abattement proportionnel de 20 % mentionné au premier alinéa du I, les sommes, valeurs ou rentes issues des contrats définis au 1 du présent I bis et qui sont investies notamment :
 
 1° En titres et droits mentionnés aux d et e du même 1 et contribuant au financement du logement social ou intermédiaire selon des modalités définies par décret en Conseil d'Etat ;
 
@@ -42,11 +42,11 @@ Un décret en Conseil d'Etat détermine les modalités d'appréciation des seuil
 
 Les titres mentionnés au 1° et aux a à c du 2° du présent 2 représentent au moins 33 % des actifs dont sont constituées les unités de compte mentionnées au 1.
 
-3. Les règlements ou les statuts des organismes de placement collectif en valeurs mobilières et des placements collectifs mentionnés au 1 prévoient le respect des catégories d'investissement prévues au 2. Un décret en Conseil d'Etat précise les modalités de calcul et d'appréciation du respect des proportions d'investissement ainsi que les justificatifs à produire par les organismes ou sociétés concernés.
+3\. Les règlements ou les statuts des organismes de placement collectif en valeurs mobilières et des placements collectifs mentionnés au 1 prévoient le respect des catégories d'investissement prévues au 2. Un décret en Conseil d'Etat précise les modalités de calcul et d'appréciation du respect des proportions d'investissement ainsi que les justificatifs à produire par les organismes ou sociétés concernés.
 
-1. Lorsque les organismes de placement collectif en valeurs mobilières, les placements collectifs et les sociétés mentionnés au 1 recourent à des instruments financiers à terme, à des opérations de pension ainsi qu'à toute autre opération temporaire de cession ou d'acquisition de titres, ces organismes ou sociétés doivent respecter les règles d'investissement de l'actif prévues au 2, calculées en retenant au numérateur la valeur des titres éligibles à ces règles dont ils perçoivent effectivement les produits. Un décret en Conseil d'Etat précise les modalités de calcul et les justificatifs à produire par les organismes ou sociétés concernés.
+4\. Lorsque les organismes de placement collectif en valeurs mobilières, les placements collectifs et les sociétés mentionnés au 1 recourent à des instruments financiers à terme, à des opérations de pension ainsi qu'à toute autre opération temporaire de cession ou d'acquisition de titres, ces organismes ou sociétés doivent respecter les règles d'investissement de l'actif prévues au 2, calculées en retenant au numérateur la valeur des titres éligibles à ces règles dont ils perçoivent effectivement les produits. Un décret en Conseil d'Etat précise les modalités de calcul et les justificatifs à produire par les organismes ou sociétés concernés.
 
-1. Les contrats mentionnés au présent I bis peuvent également prévoir qu'une partie des primes versées est affectée à l'acquisition de droits qui sont exprimés en unités de compte autres que celles mentionnées au 1. Pour ces contrats, la proportion d'investissement que doivent respecter les unités de compte mentionnées au même 1 est au moins égale à la proportion prévue au 2 multipliée par le rapport qui existe entre la prime versée et la part de cette prime représentée par la ou les unités de compte précitées.
+5\. Les contrats mentionnés au présent I bis peuvent également prévoir qu'une partie des primes versées est affectée à l'acquisition de droits qui sont exprimés en unités de compte autres que celles mentionnées au 1. Pour ces contrats, la proportion d'investissement que doivent respecter les unités de compte mentionnées au même 1 est au moins égale à la proportion prévue au 2 multipliée par le rapport qui existe entre la prime versée et la part de cette prime représentée par la ou les unités de compte précitées.
 
 I ter. – Le prélèvement prévu au I est applicable aux sommes versées au bénéficiaire par la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité, lorsqu'elles entrent dans le champ d'application du I au jour de leur dépôt à la Caisse des dépôts et consignations.
 

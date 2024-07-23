@@ -1,6 +1,6 @@
 # Article 242 ter
 
-1. Les personnes qui assurent le paiement des revenus de capitaux mobiliers visés aux articles 108 à 125 ainsi que des produits des bons ou contrats de capitalisation et placements de même nature sont tenues de déclarer l'identité et l'adresse des bénéficiaires ainsi que, par nature de revenus, le détail du montant imposable et du crédit d'impôt, le revenu brut soumis à un prélèvement et le montant dudit prélèvement et le montant des revenus exonérés.
+1\. Les personnes qui assurent le paiement des revenus de capitaux mobiliers visés aux articles 108 à 125 ainsi que des produits des bons ou contrats de capitalisation et placements de même nature sont tenues de déclarer l'identité et l'adresse des bénéficiaires ainsi que, par nature de revenus, le détail du montant imposable et du crédit d'impôt, le revenu brut soumis à un prélèvement et le montant dudit prélèvement et le montant des revenus exonérés.
 
 Cette déclaration ne concerne pas :
 
@@ -20,9 +20,9 @@ Elle est obligatoirement transmise à l'administration fiscale selon un procéd�
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les conditions prévues par l'article 238 septies B. La déclaration doit être faite par la personne chez laquelle les titres ou droits sont déposés ou inscrits en compte ou, dans les autres cas, par l'emprunteur.
 
-2. (Abrogé)
+2\. (Abrogé)
 
-1. Les personnes qui interviennent à un titre quelconque, dans la conclusion des contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues de déclarer à l'administration la date, le montant et les conditions du prêt ainsi que les noms et adresses du prêteur et de l'emprunteur.
+3\. Les personnes qui interviennent à un titre quelconque, dans la conclusion des contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues de déclarer à l'administration la date, le montant et les conditions du prêt ainsi que les noms et adresses du prêteur et de l'emprunteur.
 
 Cette déclaration est faite dans des conditions et délais fixés par décret.
 

@@ -4,19 +4,19 @@ Le Conseil supérieur de l'éducation routière comprend :
 
 1° Deux parlementaires :
 
-- un sénateur et un député désignés par leurs assemblées respectives ;
+\- un sénateur et un député désignés par leurs assemblées respectives ;
 
 2° Cinq représentants de l'Etat :
 
-- le délégué à la sécurité et à la circulation routières ou son représentant. Il préside ce conseil ;
+\- le délégué à la sécurité et à la circulation routières ou son représentant. Il préside ce conseil ;
 
-- le chef de l'inspection générale de l'environnement et du développement durable ou son représentant ;
+\- le chef de l'inspection générale de l'environnement et du développement durable ou son représentant ;
 
-- le directeur général de l'enseignement scolaire ou son représentant ;
+\- le directeur général de l'enseignement scolaire ou son représentant ;
 
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+\- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le directeur général du travail ou son représentant ;
+\- le directeur général du travail ou son représentant ;
 
 3° Un représentant de chacune des organisations syndicales d'employeurs et de salariés du secteur de l'enseignement de la conduite et de la sécurité routière, représentatives au niveau de la branche professionnelle au sens des articles L. 2122-5 et L. 2152-1 du code du travail ;
 

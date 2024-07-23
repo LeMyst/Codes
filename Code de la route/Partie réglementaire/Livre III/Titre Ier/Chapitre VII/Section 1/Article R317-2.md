@@ -8,12 +8,12 @@ II. - Le conducteur d'un véhicule est tenu de présenter ou de remettre, à tou
 
 III. - Pour l'application de la réglementation concernant les conditions de travail dans les transports routiers publics et privés, l'appareil de contrôle prévu ci-dessus devra permettre également l'enregistrement de tout ou partie des éléments suivants :
 
-- distance parcourue par le véhicule ;
+\- distance parcourue par le véhicule ;
 
-- temps de conduite ou autre temps de travail effectif en dehors de la conduite ;
+\- temps de conduite ou autre temps de travail effectif en dehors de la conduite ;
 
-- autre temps de présence au travail ;
+\- autre temps de présence au travail ;
 
-- interruption de travail et temps de repos journaliers ;
+\- interruption de travail et temps de repos journaliers ;
 
-- ouverture du boîtier contenant la feuille d'enregistrement.
+\- ouverture du boîtier contenant la feuille d'enregistrement.

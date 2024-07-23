@@ -2,7 +2,7 @@
 
 Pour l'application du présent code, les termes ci-après ont le sens qui leur est donné dans le présent article :
 
-1. Véhicules de catégorie M : véhicules à moteur conçus et construits pour le transport de personnes et ayant au moins quatre roues :
+1\. Véhicules de catégorie M : véhicules à moteur conçus et construits pour le transport de personnes et ayant au moins quatre roues :
 
 1.1. Véhicule de catégorie M1 : véhicule conçu et construit pour le transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ;
 
@@ -24,7 +24,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 1.10. Véhicule affecté au transport d'enfants : véhicule comportant, outre le siège du conducteur, huit places assises au maximum défini aux points 1.4 et 6.7 du présent article assurant un transport organisé à titre principal pour des personnes de moins de dix-huit ans, quel que soit le motif du déplacement.
 
-2. Véhicules de catégorie N : véhicules à moteur conçus et construits pour le transport de marchandises et ayant au moins quatre roues :
+2\. Véhicules de catégorie N : véhicules à moteur conçus et construits pour le transport de marchandises et ayant au moins quatre roues :
 
 2.1. Véhicule de catégorie N1 : véhicule conçu et construit pour le transport de marchandises ayant un poids maximal inférieur ou égal à 3,5 tonnes ;
 
@@ -34,7 +34,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 2.4. Camionnette : véhicule de catégorie N1 ne répondant pas à la définition du véhicule de catégorie L6e ou L7e.
 
-3. Véhicules de catégorie O : véhicules remorqués conçus et construits pour le transport de marchandises ou de personnes ainsi que l'hébergement de personnes.
+3\. Véhicules de catégorie O : véhicules remorqués conçus et construits pour le transport de marchandises ou de personnes ainsi que l'hébergement de personnes.
 
 3.1. Véhicule de catégorie O1 : véhicule remorqué ayant un poids maximal inférieur ou égal à 0,75 tonne ;
 
@@ -48,7 +48,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 3.6. Semi-remorque : remorque dont une partie appréciable de son poids et du poids de son chargement est supportée par le véhicule tracteur.
 
-4. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur :
+4\. Véhicules de catégorie L : véhicules à moteur à deux ou trois roues et quadricycles à moteur :
 
 4.1. Véhicule de catégorie L1e : véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6 km/ h et ne dépasse pas 45 km/ h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm ³ s'il est à combustion interne à allumage commandé et d'une puissance maximale nette n'excédant pas 4 kilowatts ;
 
@@ -136,7 +136,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 4.15. Quad tout terrain lourd à moteur : quadricycle lourd de la sous-catégorie L7e-B ;
 
-5. Véhicules agricoles ou forestiers : un véhicule destiné à l'exploitation forestière est assimilé à la catégorie correspondante du véhicule agricole ;
+5\. Véhicules agricoles ou forestiers : un véhicule destiné à l'exploitation forestière est assimilé à la catégorie correspondante du véhicule agricole ;
 
 5.1. Véhicules de catégorie T (à roues) ou C (à chenilles) : véhicules agricoles à moteur conçus pour une vitesse n'excédant pas 40 km/ h (indice " a ") ou excédant 40 km/ h (indice " b ") ;
 
@@ -198,7 +198,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 5.4. Machine agricole automotrice : appareil pouvant évoluer par ses propres moyens, normalement destiné à l'exploitation agricole et dont la vitesse de marche par construction ne peut excéder 25 km/ h en palier ; cette vitesse est portée à 40 km/ h pour les appareils dont la largeur est inférieure ou égale à 2,55 mètres et dont les limites de cylindrée ou de puissance sont supérieures à celles de la catégorie L6e. Des dispositions spéciales définies par arrêté du ministre chargé des transports, prises après consultation du ministre chargé de l'agriculture, sont applicables aux machines agricoles automotrices à un seul essieu.
 
-6. Autres véhicules :
+6\. Autres véhicules :
 
 6.1. Engin de service hivernal : véhicule à moteur ou véhicule remorqué de transport de marchandises, d'un poids total autorisé en charge supérieur à 3,5 tonnes, ou tracteur agricole appartenant aux collectivités gestionnaires des voies publiques ou aux personnes agissant pour leur compte, lorsqu'ils sont équipés d'outils spécifiques destinés à lutter contre le verglas ou la neige sur les voies ouvertes à la circulation publique ; un arrêté du ministre chargé des transports définit les caractéristiques de ces outils ;
 
@@ -206,11 +206,11 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 6.3. Véhicule présentant un intérêt historique (véhicule dit de collection) : véhicule qui remplit l'ensemble des conditions suivantes :
 
-- il a été construit ou immatriculé pour la première fois il y a au moins trente ans ;
+\- il a été construit ou immatriculé pour la première fois il y a au moins trente ans ;
 
-- son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus produit ;
+\- son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus produit ;
 
-- il est préservé sur le plan historique et maintenu dans son état d'origine, et aucune modification essentielle n'a été apportée aux caractéristiques techniques de ses composants principaux ;
+\- il est préservé sur le plan historique et maintenu dans son état d'origine, et aucune modification essentielle n'a été apportée aux caractéristiques techniques de ses composants principaux ;
 
 6.4. Véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ;
 
@@ -238,7 +238,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 6.16. Engin de déplacement personnel non motorisé : véhicule de petite dimension sans moteur.
 
-7. Ensembles de véhicules :
+7\. Ensembles de véhicules :
 
 7.1. Train double : ensemble composé d'un véhicule articulé et d'une semi-remorque dont l'avant repose soit sur un avant-train, soit sur le train roulant arrière coulissant de la première semi-remorque qui tient alors lieu d'avant-train ;
 
@@ -248,7 +248,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 7.4. Train urbain : ensemble routier, conçu et construit pour le transport de personnes en agglomération, composé d'un véhicule automoteur destiné au transport de personnes tractant au plus trois véhicules non automoteurs.
 
-8. Véhicule à délégation de conduite : véhicule à moteur des catégories M, N, L, T ou C, telles que définies aux 1,2,4 et 5.1, ou navette urbaine telle que définie au 6.13, équipé d'un système de conduite automatisé.
+8\. Véhicule à délégation de conduite : véhicule à moteur des catégories M, N, L, T ou C, telles que définies aux 1,2,4 et 5.1, ou navette urbaine telle que définie au 6.13, équipé d'un système de conduite automatisé.
 
 Le véhicule à délégation de conduite peut être partiellement, hautement ou totalement automatisé ;
 

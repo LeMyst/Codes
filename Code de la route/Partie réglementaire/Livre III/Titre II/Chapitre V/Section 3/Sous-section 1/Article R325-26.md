@@ -2,9 +2,9 @@
 
 Les circonstances et les conditions dans lesquelles la mesure de mise en fourrière a été prise sont relatées :
 
-- soit dans un procès-verbal de mise en fourrière, consécutivement à la commission d'une infraction. Ce procès-verbal est transmis au procureur de la République et au préfet ;
+\- soit dans un procès-verbal de mise en fourrière, consécutivement à la commission d'une infraction. Ce procès-verbal est transmis au procureur de la République et au préfet ;
 
-- soit dans un rapport de mise en fourrière, dans les autres cas. Ce rapport est transmis au préfet.
+\- soit dans un rapport de mise en fourrière, dans les autres cas. Ce rapport est transmis au préfet.
 
 Une copie de ce document est transmise sans délai à l'autorité ayant compétence pour prononcer la mainlevée.
 

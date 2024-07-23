@@ -22,10 +22,10 @@ I bis. - L'autorisation temporaire et restrictive d'exercer est délivrée aux p
 
 II. - L'autorisation d'animer les stages de sensibilisation à la sécurité routière est délivrée aux personnes remplissant les conditions suivantes :
 
-- soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé de la sécurité routière ;
+\- soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé de la sécurité routière ;
 
-- soit être titulaire d'un diplôme permettant de faire usage du titre de psychologue et du permis de conduire dont le délai probatoire fixé à l'article L. 223-1 est expiré ;
+\- soit être titulaire d'un diplôme permettant de faire usage du titre de psychologue et du permis de conduire dont le délai probatoire fixé à l'article L. 223-1 est expiré ;
 
-- et, dans les deux cas, être âgé d'au moins vingt-cinq ans et être titulaire d'une attestation de suivi de formation initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du ministre chargé de la sécurité routière.
+\- et, dans les deux cas, être âgé d'au moins vingt-cinq ans et être titulaire d'une attestation de suivi de formation initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du ministre chargé de la sécurité routière.
 
 III. - Un arrêté du ministre chargé de la sécurité routière définit les conditions d'application du présent article.

@@ -2,9 +2,9 @@
 
 Les déclarations de candidatures doivent être déposées au plus tard :
 
-- pour le premier tour, le troisième jeudi qui précède le jour du scrutin, à dix-huit heures ;
+\- pour le premier tour, le troisième jeudi qui précède le jour du scrutin, à dix-huit heures ;
 
-- pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
+\- pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
 
 Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
 

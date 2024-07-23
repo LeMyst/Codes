@@ -2,7 +2,7 @@
 
 Pour l'application du présent code dans les Terres australes et antarctiques françaises ainsi que pour l'application des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
-- “ tribunal judiciaire ” par " tribunal de première instance " ;
+\- “ tribunal judiciaire ” par " tribunal de première instance " ;
 
 -" région " par " territoire " ;
 

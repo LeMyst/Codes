@@ -18,7 +18,7 @@ I.-Ministre chargé de l'éducation nationale
 
 II.-Ministre chargé de l'enseignement supérieur
 
-1. Etablissements publics à caractère scientifique, culturel et professionnel (EPSCP)
+1\. Etablissements publics à caractère scientifique, culturel et professionnel (EPSCP)
 
 -Communautés d'universités et établissements ;
 
@@ -36,7 +36,7 @@ II.-Ministre chargé de l'enseignement supérieur
 
 -Universités.
 
-2. Autres établissements d'enseignement supérieur
+2\. Autres établissements d'enseignement supérieur
 
 -Etablissements publics à caractère administratif autonomes ;
 

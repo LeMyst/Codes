@@ -54,11 +54,11 @@ I. - L'Institut national de la propriété industrielle perçoit des redevances,
 
 -relevé de déchéance ;
 
-- demande en nullité ou en déchéance ;
+\- demande en nullité ou en déchéance ;
 
-- droit supplémentaire invoqué dans le cadre d'une opposition ou d'une demande en nullité, au-delà du premier droit invoqué ;
+\- droit supplémentaire invoqué dans le cadre d'une opposition ou d'une demande en nullité, au-delà du premier droit invoqué ;
 
-- division de la demande d'enregistrement ou de l'enregistrement ;
+\- division de la demande d'enregistrement ou de l'enregistrement ;
 
 5° Pour les dessins et modèles :
 

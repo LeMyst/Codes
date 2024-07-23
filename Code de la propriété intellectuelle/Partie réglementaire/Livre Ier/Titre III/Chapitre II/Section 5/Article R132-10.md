@@ -14,10 +14,10 @@ Le bordereau comprend les indications suivantes :
 
 A ce bordereau sont joints :
 
-- un des originaux de l'acte constitutif du nantissement ;
+\- un des originaux de l'acte constitutif du nantissement ;
 
-- une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué ;
+\- une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué ;
 
-- la justification du paiement de la redevance prescrite ;
+\- la justification du paiement de la redevance prescrite ;
 
-- s'il y a lieu, le pouvoir du mandataire.
+\- s'il y a lieu, le pouvoir du mandataire.

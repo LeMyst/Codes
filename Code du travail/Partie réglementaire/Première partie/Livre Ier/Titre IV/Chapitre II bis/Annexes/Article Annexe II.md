@@ -2,25 +2,25 @@
 
 MODALITÉS DE CALCUL ET D'ÉVALUATION DES INDICATEURS DÉFINIS À L'ARTICLE D. 1142-2-1 POUR LES ENTREPRISES ENTRE 50 ET 250 SALARIÉS
 
-1. Période de référence\
-   L'employeur peut choisir la période de douze mois consécutifs servant de période de référence pour le calcul des indicateurs.\
-   Les indicateurs sont calculés chaque année par l'employeur, au plus tard le 1er mars de l'année en cours, à partir des données de la période de référence annuelle choisie par l'employeur qui précède l'année de publication des indicateurs.\
-   L'employeur peut décider de calculer l'indicateur relatif aux augmentations individuelles, défini au 2° de l'article D. 1142-2-1, sur une période de référence pluriannuelle, à partir des données des deux ou trois années précédentes. Son caractère pluriannuel peut être révisé tous les trois ans.
-1. Salariés à prendre en compte pour le calcul des indicateurs\
-   L'effectif des salariés à prendre en compte pour le calcul des indicateurs est apprécié sur la période de référence annuelle choisie par l'employeur.\
-   Les apprentis, les titulaires d'un contrat de professionnalisation, les salariés mis à la disposition de l'entreprise par une entreprise extérieure, les salariés expatriés, ainsi que les salariés absents plus de la moitié de la période de référence considérée ne sont pas pris en compte dans les effectifs de l'entreprise pour le calcul des indicateurs.\
-   Les caractéristiques individuelles des salariés suivantes sont appréciées au dernier jour de la période de référence annuelle choisie par l'employeur ou au dernier jour de présence du salarié dans l'entreprise :
+1\. Période de référence\
+L'employeur peut choisir la période de douze mois consécutifs servant de période de référence pour le calcul des indicateurs.\
+Les indicateurs sont calculés chaque année par l'employeur, au plus tard le 1er mars de l'année en cours, à partir des données de la période de référence annuelle choisie par l'employeur qui précède l'année de publication des indicateurs.\
+L'employeur peut décider de calculer l'indicateur relatif aux augmentations individuelles, défini au 2° de l'article D. 1142-2-1, sur une période de référence pluriannuelle, à partir des données des deux ou trois années précédentes. Son caractère pluriannuel peut être révisé tous les trois ans.\
+2\. Salariés à prendre en compte pour le calcul des indicateurs\
+L'effectif des salariés à prendre en compte pour le calcul des indicateurs est apprécié sur la période de référence annuelle choisie par l'employeur.\
+Les apprentis, les titulaires d'un contrat de professionnalisation, les salariés mis à la disposition de l'entreprise par une entreprise extérieure, les salariés expatriés, ainsi que les salariés absents plus de la moitié de la période de référence considérée ne sont pas pris en compte dans les effectifs de l'entreprise pour le calcul des indicateurs.\
+Les caractéristiques individuelles des salariés suivantes sont appréciées au dernier jour de la période de référence annuelle choisie par l'employeur ou au dernier jour de présence du salarié dans l'entreprise :
 
 -l'âge ;\
 -le niveau ou coefficient hiérarchique en application de la classification de branche ;\
 -le niveau selon la méthode de cotation des postes de l'entreprise ;\
 -la catégorie socioprofessionnelle.
 
-3. Eléments de la rémunération à prendre en compte pour le calcul des indicateurs\
-   La rémunération de chaque salarié, au sens de l'article L. 3221-3, est reconstituée en équivalent temps plein sur la période de référence annuelle considérée. Les indemnités de licenciement et de départ à la retraite, les primes liées à une sujétion particulière qui ne concerne pas la personne du salarié, les primes d'ancienneté, les heures supplémentaires, les heures complémentaires, ainsi que les versements effectués au titre de l'intéressement et de la participation ne sont pas pris en compte.
-1. Méthode de calcul des indicateurs et barème à appliquer aux résultats ainsi obtenus\
-   Les indicateurs définis à l'article D. 1142-2-1 sont calculés et évalués selon un barème allant de 0 à 100 points, conformément aux tableaux suivants :\
-   4.1. Indicateur relatif à l'écart de rémunération entre les femmes et les hommes
+3\. Eléments de la rémunération à prendre en compte pour le calcul des indicateurs\
+La rémunération de chaque salarié, au sens de l'article L. 3221-3, est reconstituée en équivalent temps plein sur la période de référence annuelle considérée. Les indemnités de licenciement et de départ à la retraite, les primes liées à une sujétion particulière qui ne concerne pas la personne du salarié, les primes d'ancienneté, les heures supplémentaires, les heures complémentaires, ainsi que les versements effectués au titre de l'intéressement et de la participation ne sont pas pris en compte.\
+4\. Méthode de calcul des indicateurs et barème à appliquer aux résultats ainsi obtenus\
+Les indicateurs définis à l'article D. 1142-2-1 sont calculés et évalués selon un barème allant de 0 à 100 points, conformément aux tableaux suivants :\
+4.1. Indicateur relatif à l'écart de rémunération entre les femmes et les hommes
 
 | INDICATEUR | METHODE DE CALCUL | RESULTATS OBTENUS | NOMBRE DE POINTS |
 | --- | --- | --- | --- |
@@ -72,10 +72,10 @@ MODALITÉS DE CALCUL ET D'ÉVALUATION DES INDICATEURS DÉFINIS À L'ARTICLE D. 1
 | 2 ou 3 salariés | 5 points |
 | 0 ou 1 salarié | 0 point |
 
-5. Niveau de résultat\
-   Le niveau de résultat obtenu par l'entreprise au regard des indicateurs définis à l'article D. 1142-2-1 correspond à la somme des points obtenus pour chacun des indicateurs en application du barème prévu.\
-   5.1. Détermination du niveau de résultat en cas d'indicateurs incalculables\
-   Des indicateurs peuvent ne pas être calculables dans les cas suivants :
+5\. Niveau de résultat\
+Le niveau de résultat obtenu par l'entreprise au regard des indicateurs définis à l'article D. 1142-2-1 correspond à la somme des points obtenus pour chacun des indicateurs en application du barème prévu.\
+5.1. Détermination du niveau de résultat en cas d'indicateurs incalculables\
+Des indicateurs peuvent ne pas être calculables dans les cas suivants :
 
 -pour le calcul de l'indicateur défini au 1° de l'article D. 1142-2-1 : parce que l'effectif total retenu, en application des modalités de calcul définies au paragraphe 4.1, est inférieur à 40 % de l'effectif devant être pris en compte pour le calcul de l'ensemble des indicateurs, selon les dispositions prévues au paragraphe 2 ;\
 -pour le calcul de l'indicateur défini au 2° de l'article D. 1142-2-1 : soit parce qu'aucune augmentation individuelle n'est intervenue au cours de la période de référence considérée, soit parce que l'entreprise ne comporte pas au moins cinq femmes et cinq hommes en application des dispositions prévues au paragraphe 2 ;\

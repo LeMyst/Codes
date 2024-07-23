@@ -2,13 +2,13 @@
 
 Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
 
-1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le prononcé du jugement d'ouverture de la procédure ;
+1\. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le prononcé du jugement d'ouverture de la procédure ;
 
-1. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois suivant le prononcé du jugement ;
+2\. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois suivant le prononcé du jugement ;
 
-1. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 ;
+3\. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 ;
 
-1. Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
+4\. Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
 
 Les relevés des créances précisent le montant des cotisations et contributions visées au septième alinéa de l'article L. 143-11-1 dues au titre de chacun des salariés intéressés.
 
@@ -16,9 +16,9 @@ Si les créances ne peuvent être payées en tout ou partie sur les fonds dispon
 
 L'organisme susmentionné verse au mandataire judiciaire les sommes figurant sur les relevés et restées impayées :
 
-1. Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
+1\. Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
 
-1. Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
+2\. Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
 
 Par dérogation aux dispositions des trois alinéas précédents, l'avance des contributions de l'employeur au financement de la convention de reclassement personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux organismes chargés du recouvrement mentionnés à l'article L. 351-21.
 

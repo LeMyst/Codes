@@ -2,7 +2,7 @@
 
 DÉFINISSANT LES RÈGLES TECHNIQUES DE CONCEPTION ET DE FABRICATION PRÉVUES PAR L'ARTICLE R. 4312-6
 
-1. Règles générales applicables à tous les équipements de protection individuelle
+1\. Règles générales applicables à tous les équipements de protection individuelle
 
 1.0. Généralités et champ d'application
 
@@ -84,7 +84,7 @@ La notice doit en outre comporter toute autre indication prévue par la présent
 
 II.-La notice d'instructions doit être rédigée en français, de façon précise et compréhensible.
 
-2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle
+2\. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle
 
 2.0. Application
 
@@ -164,7 +164,7 @@ Les équipements de protection individuelle vestimentaires destinés à des cond
 
 Tout équipement de protection individuelle destiné à protéger l'utilisateur contre plusieurs risques susceptibles d'être encourus simultanément est conçu et fabriqué de manière à satisfaire à toutes les règles spécifiques à chacun de ces risques telles qu'elles sont prévues par la présente annexe.
 
-3. Règles supplémentaires spécifiques aux risques à prévenir
+3\. Règles supplémentaires spécifiques aux risques à prévenir
 
 3.0. Application
 
@@ -358,9 +358,9 @@ Lorsqu'en raison de leur nature et des conditions prévisibles de leur mise en �
 
 3.11. Dispositifs de sécurité des équipements de plongée
 
-1. L'appareil respiratoire des équipements de plongée permet d'alimenter l'utilisateur en mélange gazeux respirable, dans les conditions prévisibles d'emploi et compte tenu notamment de la profondeur d'immersion maximale.
+1\. L'appareil respiratoire des équipements de plongée permet d'alimenter l'utilisateur en mélange gazeux respirable, dans les conditions prévisibles d'emploi et compte tenu notamment de la profondeur d'immersion maximale.
 
-1. Lorsque les conditions prévisibles d'emploi l'exigent, les équipements de plongée comportent :
+2\. Lorsque les conditions prévisibles d'emploi l'exigent, les équipements de plongée comportent :
 
 a) Une combinaison assurant la protection de l'utilisateur contre la pression résultant de la profondeur d'immersion ou contre le froid, conformément aux paragraphes 3.2 et 3.7 à 3.7.2 ;
 

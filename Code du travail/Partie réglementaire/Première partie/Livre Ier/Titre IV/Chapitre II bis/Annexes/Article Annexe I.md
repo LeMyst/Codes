@@ -2,13 +2,13 @@
 
 MODALITÉS DE CALCUL ET D'ÉVALUATION DES INDICATEURS DÉFINIS À L'ARTICLE D. 1142-2 POUR LES ENTREPRISES DE PLUS DE 250 SALARIÉS
 
-1. Période de référence
+1\. Période de référence
 
 L'employeur peut choisir la période de douze mois consécutifs servant de période de référence pour le calcul des indicateurs.
 
 Les indicateurs sont calculés chaque année par l'employeur, au plus tard le 1er mars de l'année en cours, à partir des données de la période de référence annuelle choisie par l'employeur qui précède l'année de publication des indicateurs.
 
-2. Salariés à prendre en compte pour le calcul des indicateurs
+2\. Salariés à prendre en compte pour le calcul des indicateurs
 
 L'effectif des salariés à prendre en compte pour le calcul des indicateurs est apprécié sur la période de référence annuelle choisie par l'employeur.
 
@@ -24,11 +24,11 @@ Les caractéristiques individuelles des salariés suivantes sont appréciées au
 
 -la catégorie socioprofessionnelle.
 
-3. Eléments de la rémunération à prendre en compte pour le calcul des indicateurs
+3\. Eléments de la rémunération à prendre en compte pour le calcul des indicateurs
 
 La rémunération de chaque salarié, au sens de l'article L. 3221-3, est reconstituée en équivalent temps plein sur la période de référence annuelle considérée. Les indemnités de licenciement et de départ à la retraite, les primes liées à une sujétion particulière qui ne concerne pas la personne du salarié, les primes d'ancienneté, les heures supplémentaires, les heures complémentaires, ainsi que les versements effectués au titre de l'intéressement et de la participation ne sont pas pris en compte.
 
-4. Méthode de calcul des indicateurs et barème à appliquer aux résultats ainsi obtenus
+4\. Méthode de calcul des indicateurs et barème à appliquer aux résultats ainsi obtenus
 
 Les indicateurs définis à l'article D. 1142-2 sont calculés et évalués selon un barème allant de 0 à 100 points, conformément aux tableaux suivants :
 
@@ -88,7 +88,7 @@ Les indicateurs définis à l'article D. 1142-2 sont calculés et évalués selo
 | 2 ou 3 salariés | 5 points |
 | 0 ou 1 salarié | 0 point |
 
-5. Niveau de résultat
+5\. Niveau de résultat
 
 Le niveau de résultat obtenu par l'entreprise au regard des indicateurs définis à l'article D. 1142-2 correspond à la somme des points obtenus pour chacun des indicateurs en application du barème prévu au paragraphe 4.
 

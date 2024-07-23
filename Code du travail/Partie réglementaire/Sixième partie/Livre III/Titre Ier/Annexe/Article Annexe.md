@@ -61,7 +61,7 @@ I.-Indicateurs d'appréciation des critères définis à l'article R. 6316-1 du 
 
 II.-Modalités d'audit prévues à l'article L. 6316-3 du code du travail
 
-1. Périmètre
+1\. Périmètre
 
 Les audits mis en œuvre par les organismes certificateurs pour s'assurer du respect des indicateurs fixés par le référentiel national concernent les organismes disposant d'un numéro d'enregistrement de la déclaration d'activité prévue à l'article L. 6351-1 ou en cours d'enregistrement et souhaitant bénéficier des fonds des financeurs mentionnés à l'article L. 6316-1.
 
@@ -69,7 +69,7 @@ Dans le cas d'un organisme implanté sur plusieurs sites, la certification porte
 
 L'organisme informe en amont le certificateur des catégories d'actions de développement des compétences pour lesquelles il souhaite être certifié.
 
-2. Procédure et cycle de la certification
+2\. Procédure et cycle de la certification
 
 La procédure de certification repose sur des audits, selon des cycles de trois années, selon des modalités précisées par arrêté du ministre chargé de la formation professionnelle. Elle comprend :
 
@@ -81,13 +81,13 @@ c) En cas de demande de renouvellement de certification de l'organisme, un audit
 
 La durée de chacun des audits varie en fonction du chiffre d'affaires relatif à l'activité de prestataire d'action concourant au développement des compétences de l'organisme et du nombre de catégories d'actions de développement des compétences pour lesquelles l'organisme demande à être certifié, selon des modalités précisées par arrêté du ministre chargé de la formation professionnelle.
 
-3. Cas de non-conformité au référentiel
+3\. Cas de non-conformité au référentiel
 
 Une non-conformité est un écart par rapport à un ou plusieurs indicateurs du référentiel.
 
 Elle peut être mineure ou majeure. La non-conformité mineure est la prise en compte partielle d'un indicateur ne remettant pas en cause la qualité de la prestation délivrée. La non-conformité majeure est la non prise en compte d'un indicateur ou sa prise en compte partielle remettant en cause la qualité de la prestation délivrée. Les modalités relatives à ces non conformités au référentiel national de certification de qualité des organismes mentionnés à l'article L. 6351-1 sont précisées par arrêté du ministre chargé de la formation professionnelle.
 
-4. Modalités de certification d'un organisme disposant d'une certification ou d'une labellisation de qualité des actions concourant au développement des compétences
+4\. Modalités de certification d'un organisme disposant d'une certification ou d'une labellisation de qualité des actions concourant au développement des compétences
 
 Les modalités de l'audit initial de certification d'un organisme disposant d'une certification ou d'une labellisation de qualité des actions concourant au développement des compétences obtenue en application de l'article R. 6316-3 du code du travail dans sa rédaction antérieure à l'entrée en vigueur du décret n° 2018-1262 du 26 décembre 2018 relatif à la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle, et en cours de validité au moment de sa demande de certification, sont précisées par arrêté du ministre chargé de la formation professionnelle.
 

@@ -133,11 +133,11 @@ Table 2.6 : Correction pour l'exposition répétitive
 
 Les trois règles suivantes s'appliquent cumulativement à toutes les expositions répétitives dues à des systèmes de laser pulsé répétitif ou des systèmes de balayage laser :
 
-1. L'exposition résultant d'une impulsion unique dans un train d'impulsions ne dépasse pas la valeur limite d'exposition pour une impulsion unique de cette durée d'impulsion ;
+1\) L'exposition résultant d'une impulsion unique dans un train d'impulsions ne dépasse pas la valeur limite d'exposition pour une impulsion unique de cette durée d'impulsion ;
 
-1. L'exposition résultant d'un groupe d'impulsions (ou d'un sous-groupe d'impulsions dans un train) délivrées dans un temps t ne dépasse pas la valeur limite d'exposition pour le temps t ;
+2\) L'exposition résultant d'un groupe d'impulsions (ou d'un sous-groupe d'impulsions dans un train) délivrées dans un temps t ne dépasse pas la valeur limite d'exposition pour le temps t ;
 
-1. L'exposition résultant d'une impulsion unique dans un groupe d'impulsions ne dépasse pas la valeur limite d'exposition pour une impulsion unique multipliée par un facteur de correction thermique cumulée Cp = N- 0,25, où N est le nombre d'impulsions. La présente règle ne s'applique qu'aux limites d'exposition destinées à protéger contre la lésion thermique, lorsque toutes les impulsions délivrées en moins de Tmin sont considérées comme une impulsion unique.
+3\) L'exposition résultant d'une impulsion unique dans un groupe d'impulsions ne dépasse pas la valeur limite d'exposition pour une impulsion unique multipliée par un facteur de correction thermique cumulée Cp = N- 0,25, où N est le nombre d'impulsions. La présente règle ne s'applique qu'aux limites d'exposition destinées à protéger contre la lésion thermique, lorsque toutes les impulsions délivrées en moins de Tmin sont considérées comme une impulsion unique.
 
 | Paramètre | Gamme spectrale de validité (nm) | Valeur ou description |
 | --- | --- | --- |

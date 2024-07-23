@@ -2,11 +2,11 @@
 
 Un décret en Conseil d'Etat détermine les modalités d'application de la présente section et notamment :
 
-- les modalités d'application de l'article L. 323-21 ;
+\- les modalités d'application de l'article L. 323-21 ;
 
-- les modalités d'agrément, de fonctionnement et de contrôle des entreprises adaptées et des centres de distribution de travail à domicile ainsi que les conditions d'admission des travailleurs handicapés ;
+\- les modalités d'agrément, de fonctionnement et de contrôle des entreprises adaptées et des centres de distribution de travail à domicile ainsi que les conditions d'admission des travailleurs handicapés ;
 
-- les modalités de fonctionnement du conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés et les conditions de nomination de ses membres.
+\- les modalités de fonctionnement du conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés et les conditions de nomination de ses membres.
 
 En outre, des décrets en Conseil d'Etat déterminent :
 

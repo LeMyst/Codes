@@ -2,9 +2,9 @@
 
 Les dispositions des articles L. 129-5 à L. 129-12 s'appliquent dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon lorsque le chèque emploi-service universel a la nature d'un titre spécial de paiement. Dans ces départements et dans cette collectivité, il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des cotisations sociales :
 
-- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 131-2 occupant moins de onze salariés ;
+\- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 131-2 occupant moins de onze salariés ;
 
-- des personnes effectuant des travaux et services au domicile des particuliers.
+\- des personnes effectuant des travaux et services au domicile des particuliers.
 
 L'activité de ces personnes est réputée être salariée. Si elle excède, pour la même personne, dans la même entreprise, cent jours, consécutifs ou non, par année civile, le contrat de travail est réputé être à durée indéterminée à compter du premier jour de dépassement de cette limite.
 

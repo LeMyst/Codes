@@ -4,9 +4,9 @@ I. - L'organisation du soutien de la défense repose sur des bases de défense. 
 
 A ce titre, ils :
 
-- arbitrent et hiérarchisent les besoins exprimés en fonction des capacités de soutien ;
+\- arbitrent et hiérarchisent les besoins exprimés en fonction des capacités de soutien ;
 
-- s'assurent de la qualité des services rendus.
+\- s'assurent de la qualité des services rendus.
 
 Ils exercent, le cas échéant par délégation de pouvoirs du ministre, les attributions prévues aux articles R. 5131-3, R. 5131-4, R. 5131-5 et R. 5131-11.
 

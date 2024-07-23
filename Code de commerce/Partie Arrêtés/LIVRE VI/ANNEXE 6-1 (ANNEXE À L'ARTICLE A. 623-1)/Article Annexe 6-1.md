@@ -8,7 +8,7 @@ Dénomination sociale :
 
 Nom de l'administrateur judiciaire :
 
-1. Identification du site
+1\. Identification du site
 
 Commune : Département :
 
@@ -34,7 +34,7 @@ Joindre une copie des arrêtés préfectoraux.
 
 Joindre une copie des études environnementales ou documents de sécurité déjà réalisés.
 
-2. Description du site
+2\. Description du site
 
 Schéma d'implantation sur le site, photographie(s) :
 
@@ -60,7 +60,7 @@ Produits dangereux (ou susceptibles de l'être) présents sur le site :
 | Risques particuliers (7). |
 | (4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant.(5) Fûts, containers, bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.(6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.(7) Matière toxique, inflammable, explosible ou radioactive. |
 
-3. Occupation du site
+3\. Occupation du site
 
 Conditions d'accès au site :
 
@@ -80,7 +80,7 @@ Présence régulière de personnes
 
 Préciser lesquelles :
 
-4. Environnement du site
+4\. Environnement du site
 
 Zone agricole/forestière
 
@@ -102,7 +102,7 @@ Etablissements sensibles : proximité d'établissements scolaires ou lieux fréq
 
 Oui/Non ― Distance : m
 
-5. Pollution(s) potentielle(s)
+5\. Pollution(s) potentielle(s)
 
 Sol :
 
@@ -140,7 +140,7 @@ Oui/Non ― Nature :
 
 Distance du captage le plus proche :
 
-6. Mesures d'urgence déjà prises
+6\. Mesures d'urgence déjà prises
 
 Restrictions d'accès au site, à certains bâtiments (clôture...)
 
@@ -154,7 +154,7 @@ Comblement de vides
 
 Autres/préciser :
 
-7. Autres remarques
+7\. Autres remarques
 
 II. ― Bilan environnemental établi par un technicien
 
@@ -168,7 +168,7 @@ Nom du technicien ayant réalisé le bilan (le cas échéant) :
 
 Date de la visite (le cas échéant) : --/--/--
 
-1. Identification du site
+1\. Identification du site
 
 Commune : Département :
 
@@ -200,7 +200,7 @@ Préciser pour quelles raisons :
 
 (1) Il s'agit de vérifier en priorité que les activités présentes sur le site ont bien fait l'objet de déclaration ou de demande d'autorisation auprès des services préfectoraux tel que prévu dans la réglementation.
 
-2. Description du site
+2\. Description du site
 
 Schéma d'implantation sur le site, photographie(s) :
 
@@ -230,7 +230,7 @@ Produits dangereux (ou susceptibles de l'être) présents sur le site :
 | Risques particuliers (7). |
 | (4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant. (5) Fûts, containers, bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.(6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.(7) Matière toxique, inflammable, explosible ou radioactive. |
 
-3. Occupation du site
+3\. Occupation du site
 
 Conditions d'accès au site :
 
@@ -250,7 +250,7 @@ Présence régulière de personnes
 
 Préciser lesquelles :
 
-4. Environnement du site
+4\. Environnement du site
 
 Zone agricole/forestière
 
@@ -262,17 +262,17 @@ Zone commerciale
 
 Zone d'habitation :
 
-- urbaine
+\- urbaine
 
-- péri-urbaine
+\- péri-urbaine
 
-- dispersée
+\- dispersée
 
 Etablissements sensibles : proximité d'établissements scolaires ou lieux fréquentés par des jeunes enfants :
 
 Oui/Non - Distance : m
 
-5. Pollution(s) potentielle(s)
+5\. Pollution(s) potentielle(s)
 
 Sol :
 
@@ -310,7 +310,7 @@ Oui/Non - Nature :
 
 Distance du captage le plus proche : m
 
-6. Mesures d'urgence déjà prises
+6\. Mesures d'urgence déjà prises
 
 Restrictions d'accès au site, à certains bâtiments (clôture...)
 
@@ -328,7 +328,7 @@ Comblement de vides
 
 Autres/préciser :
 
-7. Mesures d'urgence prévues ou à prendre
+7\. Mesures d'urgence prévues ou à prendre
 
 Délai
 
@@ -348,20 +348,20 @@ Comblement de vides .....
 
 Autres/préciser .....
 
-8. Surveillance de l'impact
+8\. Surveillance de l'impact
 
 Des analyses ont-elles été réalisées :
 
-- sur les eaux souterraines : Oui/Non
+\- sur les eaux souterraines : Oui/Non
 
-- sur les eaux superficielles : Oui/Non
+\- sur les eaux superficielles : Oui/Non
 
-- sur les sols : Oui/Non
+\- sur les sols : Oui/Non
 
-- sur d'autres milieux : Oui/Non
+\- sur d'autres milieux : Oui/Non
 
 Un impact a-t-il été constaté : Oui/Non
 
 Si oui, préciser :
 
-9. Autres remarques
+9\. Autres remarques

@@ -4,14 +4,14 @@ Dans sa réponse à la saisine prévue à l'article R. 761-12, le gestionnaire d
 
 S'il dispose de ces surfaces, il fournit au préfet une proposition d'installation comportant :
 
-- un plan de localisation de ces surfaces dans l'enceinte du marché ;
+\- un plan de localisation de ces surfaces dans l'enceinte du marché ;
 
-- les caractéristiques des terrains ou des installations immobilières qu'il peut mettre à sa disposition ;
+\- les caractéristiques des terrains ou des installations immobilières qu'il peut mettre à sa disposition ;
 
-- le règlement intérieur du marché ;
+\- le règlement intérieur du marché ;
 
-- les conditions de mise à disposition des fluides et de traitement des déchets et des eaux usées ;
+\- les conditions de mise à disposition des fluides et de traitement des déchets et des eaux usées ;
 
-- les conditions financières de mise à disposition des terrains ou locaux.
+\- les conditions financières de mise à disposition des terrains ou locaux.
 
 La réponse est transmise au préfet par voie de lettre recommandée avec demande d'avis de réception.

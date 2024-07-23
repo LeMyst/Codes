@@ -24,7 +24,7 @@ La comptabilité spéciale doit permettre l'établissement des états trimestrie
 
 Une période comptable correspond à un trimestre civil.
 
-1. 1. Le répertoire des mandats.
+1\. 1. Le répertoire des mandats.
 
 Le répertoire général enregistre et centralise tous les mandats et missions reçus, amiables ou judiciaires.
 
@@ -42,7 +42,7 @@ Afférentes à un même dossier, deux missions, successives ou concomitantes, so
 
 Toute reddition définitive de comptes au titre d'un mandat ou d'une mission donné entraîne l'obligation de mentionner la fin du mandat ou de la mission sur le répertoire.
 
-1. 2. Le livre-journal.
+1\. 2. Le livre-journal.
 
 Un journal est un état où figurent toutes les opérations comptables dans un ordre chronologique.
 
@@ -58,7 +58,7 @@ Les écritures de centralisation doivent mentionner :
 
 ― les totaux de la période, en débit, crédit et solde.
 
-1. 3. Les journaux auxiliaires.
+1\. 3. Les journaux auxiliaires.
 
 Les journaux auxiliaires mentionnent l'ensemble des opérations comptables des mandats ou missions, opération par opération, et par ordre chronologique.
 
@@ -74,7 +74,7 @@ Les journaux auxiliaires doivent être édités régulièrement, et au moins une
 
 Les totaux des journaux auxiliaires doivent être reportés sur le livre-journal au moins une fois par mois.
 
-1. 4. Le grand livre.
+1\. 4. Le grand livre.
 
 Le grand livre est utilisé pour le suivi des comptes de chaque mandat ou mission et retrace les mouvements des comptes individuels.
 
@@ -92,7 +92,7 @@ Chaque écriture portée au livre-journal ou dans les journaux auxiliaires figur
 
 Il y a égalité entre les totaux en mouvement et en solde du livre-journal et les totaux du grand livre.
 
-1. 5. Les grands livres auxiliaires.
+1\. 5. Les grands livres auxiliaires.
 
 Ils sont constitués par les comptes individuels ouverts pour chaque mandat ou mission.
 
@@ -112,8 +112,9 @@ Tout compte individuel, même archivé, doit pouvoir faire l'objet d'une présen
 
 Au terme de chaque trimestre, les grands livres auxiliaires doivent être édités avec une totalisation des opérations du trimestre de tous les comptes, en débit et en crédit, tant en cumuls qu'en soldes.
 
-1. 6. Les états périodiques.
-1. 6. 1. Les états trimestriels.
+1\. 6. Les états périodiques.
+
+1\. 6. 1. Les états trimestriels.
 
 Les états trimestriels doivent mentionner, conformément à l'article 63 du décret n° 85-1389 du 27 décembre 1985, pour tous les mandats ou missions n'ayant pas fait l'objet d'une reddition des comptes avant la fin du trimestre précédent :
 
@@ -161,13 +162,13 @@ Un dossier compte de liaison regroupant les écritures relatives à ces opérati
 
 Les émoluments perçus après l'achèvement d'un mandat qui n'est plus mentionné à l'état trimestriel doivent transiter en écritures par le dossier compte de liaison.
 
-1. 6. 2. Les états de contrôle.
+1\. 6. 2. Les états de contrôle.
 
 Le total des sommes figurant sur les différents états trimestriels établis à une même date doit être récapitulé sur un état de synthèse qui doit faire apparaître le solde global de l'ensemble des mandats en cours.
 
 Ce solde doit correspondre au total des soldes des comptes de trésorerie après rapprochement.
 
-1. 7. Les carnets de reçus pour les remises d'espèces.
+1\. 7. Les carnets de reçus pour les remises d'espèces.
 
 Ces reçus doivent être numérotés et datés. Ils doivent comporter les dispositions prévues à l'article 65 du décret n° 85-1389 du 27 décembre 1985.
 
@@ -191,7 +192,7 @@ Chaque écriture comporte :
 
 ― l'indication du journal concerné.
 
-2. 2. La saisie des écritures.
+2\. 2. La saisie des écritures.
 
 Chaque écriture comptable doit être enregistrée simultanément au compte individuel du mandat et dans un journal auxiliaire.
 
@@ -213,7 +214,7 @@ Le pointage des bordereaux de banques doit être exécuté quotidiennement ou à
 
 La comptabilité et le logiciel utilisés doivent être à même de permettre d'établir ces états de rapprochement à tout moment.
 
-2. 3. Les éditions.
+2\. 3. Les éditions.
 
 Les états comptables centralisateurs doivent être édités régulièrement et au minimum une fois par période comptable.
 
@@ -223,7 +224,7 @@ Les documents édités doivent comporter, pour chaque écriture, les mentions vi
 
 L'édition d'un compte doit toujours pouvoir être faite à la demande.
 
-2. 4. La validité des écritures comptables.
+2\. 4. La validité des écritures comptables.
 
 La tenue des documents comptables ne doit faire apparaître ni blanc ni altération d'aucune sorte.
 
@@ -241,7 +242,7 @@ III. ― **Comptabilité en euros** La comptabilité doit être tenue en langue 
 
 A partir du 1er janvier 1999, les documents comptables peuvent être établis en euros. Ce choix est irrévocable. Les règles de conversion et d'arrondis doivent être respectées.
 
-3. 1. Rappel des règles.
+3\. 1. Rappel des règles.
 
 On ne peut convertir directement deux monnaies nationales participant à l'euro entre elles.
 
@@ -257,7 +258,7 @@ Il est obligatoire d'utiliser trois chiffres après la virgule et d'arrondir au 
 
 Le règlement communautaire interdit l'usage du taux inverse, ce qui oblige à effectuer une division au lieu d'une multiplication.
 
-3. 2. Traitement des écarts.
+3\. 2. Traitement des écarts.
 
 Des écarts peuvent apparaître entre la somme initiale et la somme reconvertie en francs dans une opération francs-euros-francs. Ils ne peuvent excéder 3 centimes.C'est à l'établissement financier de traiter ce problème.
 
@@ -265,7 +266,7 @@ Des écarts peuvent apparaître entre une addition de valeurs converties individ
 
 Il est nécessaire de comptabiliser cet écart et de l'intégrer dans l'ajustement des comptes à l'intérieur de la comptabilité spéciale de l'étude. Cet écart devra être affecté à l'un des comptes individuels mouvementés.
 
-3. 3. Conversion des historiques.
+3\. 3. Conversion des historiques.
 
 Lors du passage de la comptabilité en euros, au plus tard le 1er janvier 2002, les historiques devront être convertis en euros, en respectant les règles d'arrondis pour chaque opération concernée.
 

@@ -6,27 +6,27 @@ NEP 210. Lettre de mission
 
 Introduction
 
-1. Les dispositions légales et réglementaires prévoient la mission de contrôle légal dans certaines personnes ou entités. En outre, des interventions autres que le contrôle légal sont expressément et exclusivement requises du commissaire aux comptes de la personne ou de l'entité par les dispositions légales ou réglementaires ou par des dispositions du droit de l'Union européenne ayant un effet direct en droit national.
+1\. Les dispositions légales et réglementaires prévoient la mission de contrôle légal dans certaines personnes ou entités. En outre, des interventions autres que le contrôle légal sont expressément et exclusivement requises du commissaire aux comptes de la personne ou de l'entité par les dispositions légales ou réglementaires ou par des dispositions du droit de l'Union européenne ayant un effet direct en droit national.
 
 La mission de contrôle légal et ces autres interventions sont qualifiées de “ mission ” dans la présente norme.
 
 Le commissaire aux comptes en définit les modalités dans une lettre de mission.
 
-2. La présente norme a pour objet de définir les principes à respecter par le commissaire aux comptes pour établir cette lettre de mission et demander l'accord de la personne ou de l'entité sur son contenu.
+2\. La présente norme a pour objet de définir les principes à respecter par le commissaire aux comptes pour établir cette lettre de mission et demander l'accord de la personne ou de l'entité sur son contenu.
 
 Etablissement de la lettre de mission
 
-3. La lettre de mission est établie par le commissaire aux comptes la première année de son mandat et communiquée à la personne ou à l'entité préalablement à la mise en œuvre de ses travaux de vérification et de contrôle.
+3\. La lettre de mission est établie par le commissaire aux comptes la première année de son mandat et communiquée à la personne ou à l'entité préalablement à la mise en œuvre de ses travaux de vérification et de contrôle.
 
-1. Dans le cas où la mission est confiée à plusieurs commissaires aux comptes, ceux-ci établissent soit une lettre de mission conjointe, soit des lettres de mission individuelles, après avoir échangé entre eux.
+4\. Dans le cas où la mission est confiée à plusieurs commissaires aux comptes, ceux-ci établissent soit une lettre de mission conjointe, soit des lettres de mission individuelles, après avoir échangé entre eux.
 
-1. Lorsque le commissaire aux comptes d'une personne ou d'une entité qui établit des comptes consolidés ou combinés est également commissaire aux comptes d'une ou plusieurs personnes ou entités du même ensemble, il apprécie s'il convient d'établir une lettre de mission commune à plusieurs de ces personnes ou entités.
+5\. Lorsque le commissaire aux comptes d'une personne ou d'une entité qui établit des comptes consolidés ou combinés est également commissaire aux comptes d'une ou plusieurs personnes ou entités du même ensemble, il apprécie s'il convient d'établir une lettre de mission commune à plusieurs de ces personnes ou entités.
 
 Lorsque le commissaire aux comptes choisit d'établir une lettre de mission commune, il demande à la personne ou à l'entité mère de lui confirmer par écrit que les personnes ou les entités de l'ensemble ont donné leur accord sur le contenu de la lettre de mission pour ce qui les concerne.
 
 Contenu de la lettre de mission
 
-6. Sans préjudice des engagements contractuels ou d'autres éléments liés aux particularités de la personne ou de l'entité que le commissaire aux comptes jugerait utile d'ajouter, la lettre de mission comporte les éléments suivants :
+6\. Sans préjudice des engagements contractuels ou d'autres éléments liés aux particularités de la personne ou de l'entité que le commissaire aux comptes jugerait utile d'ajouter, la lettre de mission comporte les éléments suivants :
 
 -l'objectif et l'étendue du contrôle légal et des autres interventions dont la réalisation est connue au moment de l'établissement de la lettre de mission et qu'il entend mener en application des dispositions légales et réglementaires ;
 
@@ -56,7 +56,7 @@ Contenu de la lettre de mission
 
 Révision de la lettre de mission
 
-7. Au cours de son mandat, lorsque les circonstances entrainent des modifications importantes des modalités de sa mission, le commissaire aux comptes révise le contenu de la lettre de mission. Ces circonstances peuvent être notamment :
+7\. Au cours de son mandat, lorsque les circonstances entrainent des modifications importantes des modalités de sa mission, le commissaire aux comptes révise le contenu de la lettre de mission. Ces circonstances peuvent être notamment :
 
 -des difficultés particulières rencontrées dans la mise en œuvre de ses travaux ;
 
@@ -72,7 +72,7 @@ Dans cette hypothèse, il est établi soit une lettre de mission révisée qui s
 
 Demande d'accord
 
-8. Le commissaire aux comptes demande à la personne ou à l'entité d'accuser réception de la lettre de mission initiale et de confirmer son accord sur les modalités exposées.
+8\. Le commissaire aux comptes demande à la personne ou à l'entité d'accuser réception de la lettre de mission initiale et de confirmer son accord sur les modalités exposées.
 
 Il consigne dans son dossier tout désaccord éventuel.
 

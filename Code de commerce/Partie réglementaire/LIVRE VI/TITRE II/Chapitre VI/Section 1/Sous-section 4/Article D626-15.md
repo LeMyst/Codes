@@ -6,12 +6,12 @@ La recevabilité de la demande de remise est subordonnée à la constatation que
 
 L'examen de la demande est effectué en tenant compte :
 
-- des efforts consentis par les créanciers autres que ceux mentionnés à l'article D. 626-9 ;
+\- des efforts consentis par les créanciers autres que ceux mentionnés à l'article D. 626-9 ;
 
-- des efforts financiers consentis par les actionnaires et les dirigeants ;
+\- des efforts financiers consentis par les actionnaires et les dirigeants ;
 
-- de la situation financière du débiteur et des perspectives de son rétablissement pérenne ;
+\- de la situation financière du débiteur et des perspectives de son rétablissement pérenne ;
 
-- du comportement habituel du débiteur vis-à-vis des créanciers mentionnés à l'article D. 626-9 ;
+\- du comportement habituel du débiteur vis-à-vis des créanciers mentionnés à l'article D. 626-9 ;
 
-- des éventuels autres efforts consentis par ces créanciers portant sur les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés ou les délais de paiement déjà accordés.
+\- des éventuels autres efforts consentis par ces créanciers portant sur les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés ou les délais de paiement déjà accordés.

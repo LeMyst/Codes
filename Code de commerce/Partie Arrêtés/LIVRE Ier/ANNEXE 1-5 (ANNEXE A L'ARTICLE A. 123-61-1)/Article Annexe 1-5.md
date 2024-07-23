@@ -8,11 +8,11 @@ Immatriculée au RCS, numéro
 
 Identité et qualité du représentant légal signataire.
 
-2. Objet de la déclaration
+2\. Objet de la déclaration
 
 Déclare que les comptes annuels de l'exercice clos le...... et qui sont déposés en annexe au registre du commerce et des sociétés ne seront pas rendus publics en application de l'article L. 232-25 du code de commerce et du premier alinéa de l'article L. 524-6-6 du code rural et de la pêche maritime.
 
-3. Engagement du déclarant
+3\. Engagement du déclarant
 
 Le (la) soussigné (e) atteste sur l'honneur que les renseignements contenus dans la présente déclaration sont exacts et que la société susvisée répond à la définition des microentreprises au sens de l'article L. 123-16-1 du code de commerce, n'est pas mentionnée à l'article L. 123-16-2 et n'a pas pour activité la gestion des titres de participations et de valeurs mobilières.
 

@@ -4,7 +4,7 @@ STRUCTURE DES BUDGETS PRIMITIFS OU RECTIFICATIFS ET DOCUMENTS À PRÉSENTER AVEC
 
 Les budgets primitifs et rectificatifs des établissements du réseau des chambres de commerce et d'industrie sont constitués des documents suivants :
 
-1. Pour l'ensemble de l'établissement et pour chacun de ses services budgétaires, ainsi que pour les concessions portuaires ou aéroportuaires de l'Etat :
+1\. Pour l'ensemble de l'établissement et pour chacun de ses services budgétaires, ainsi que pour les concessions portuaires ou aéroportuaires de l'Etat :
 
 ― un état des opérations de fonctionnement ;
 
@@ -12,7 +12,7 @@ Les budgets primitifs et rectificatifs des établissements du réseau des chambr
 
 ― un état des opérations en capital.
 
-2. Pour l'ensemble de l'établissement :
+2\. Pour l'ensemble de l'établissement :
 
 2.1. Des tableaux annexes :
 

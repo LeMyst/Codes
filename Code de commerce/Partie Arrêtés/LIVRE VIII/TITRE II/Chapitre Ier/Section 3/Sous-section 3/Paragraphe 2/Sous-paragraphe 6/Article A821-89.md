@@ -6,9 +6,9 @@ NORME D'EXERCICE PROFESSIONNEL RELATIVE À LA PRISE DE CONNAISSANCE ET À L'UTIL
 
 Introduction
 
-1. Lorsque l'entité dispose d'un audit interne, le commissaire aux comptes prend connaissance du fonctionnement et des objectifs qui lui sont assignés. Il peut utiliser les travaux réalisés par l'audit interne en tant qu'éléments collectés au titre des assertions qu'il souhaite vérifier.
+1\. Lorsque l'entité dispose d'un audit interne, le commissaire aux comptes prend connaissance du fonctionnement et des objectifs qui lui sont assignés. Il peut utiliser les travaux réalisés par l'audit interne en tant qu'éléments collectés au titre des assertions qu'il souhaite vérifier.
 
-1. La présente norme a pour objet de définir les principes relatifs à :
+2\. La présente norme a pour objet de définir les principes relatifs à :
 
 ― la prise de connaissance par le commissaire aux comptes de l'audit interne ;
 
@@ -16,7 +16,7 @@ Introduction
 
 Prise de connaissance de l'audit interne
 
-3. Lorsque le commissaire aux comptes prend connaissance de l'entité pour constituer un cadre de référence dans lequel il planifie son audit et évalue le risque d'anomalies significatives dans les comptes, il s'enquiert :
+3\. Lorsque le commissaire aux comptes prend connaissance de l'entité pour constituer un cadre de référence dans lequel il planifie son audit et évalue le risque d'anomalies significatives dans les comptes, il s'enquiert :
 
 ― de la place qu'occupe l'audit interne dans l'organisation de l'entité. Le commissaire aux comptes examine les règles et les procédures mises en place dans l'entité pour assurer l'objectivité des auditeurs internes dans la réalisation de leurs travaux et l'émission de leurs conclusions ;
 
@@ -24,7 +24,7 @@ Prise de connaissance de l'audit interne
 
 Utilisation des travaux réalisés par l'audit interne
 
-4. A l'issue de cette prise de connaissance, lorsque le commissaire aux comptes envisage d'utiliser les travaux réalisés par l'audit interne, il apprécie notamment :
+4\. A l'issue de cette prise de connaissance, lorsque le commissaire aux comptes envisage d'utiliser les travaux réalisés par l'audit interne, il apprécie notamment :
 
 ― les qualifications professionnelles des auditeurs internes et leur expérience acquise dans ces fonctions ;
 
@@ -34,7 +34,7 @@ Utilisation des travaux réalisés par l'audit interne
 
 ― si la direction prend en compte les recommandations formulées par l'audit interne et si elle met en œuvre des actions pour répondre à ces recommandations.
 
-5. Lorsque le commissaire aux comptes décide d'utiliser certains travaux de l'audit interne, il apprécie notamment si :
+5\. Lorsque le commissaire aux comptes décide d'utiliser certains travaux de l'audit interne, il apprécie notamment si :
 
 ― la nature et l'étendue de ces travaux répondent aux besoins de son audit ;
 
@@ -44,6 +44,6 @@ Utilisation des travaux réalisés par l'audit interne
 
 ― les rapports ou autres documents de synthèse établis par l'audit interne sont cohérents avec les résultats des travaux réalisés par ce dernier.
 
-6. Le commissaire aux comptes apprécie, par ailleurs, si ces travaux constituent des éléments suffisants et appropriés pour lui permettre d'aboutir à des conclusions à partir desquelles il fonde son opinion sur les comptes.
+6\. Le commissaire aux comptes apprécie, par ailleurs, si ces travaux constituent des éléments suffisants et appropriés pour lui permettre d'aboutir à des conclusions à partir desquelles il fonde son opinion sur les comptes.
 
-1. Si tel n'est pas le cas, il en titre les conséquences sur ses propres travaux.
+7\. Si tel n'est pas le cas, il en titre les conséquences sur ses propres travaux.

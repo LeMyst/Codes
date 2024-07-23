@@ -2,7 +2,7 @@
 
 DE L'AGRÉMENT DU CONSEIL NATIONAL
 
-1. Sont agréés, pour la tenue de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises, les logiciels de traitement automatisés permettant aux professionnels utilisateurs de respecter l'ensemble des obligations légales auxquelles ils sont soumis en matière de comptabilité spéciale et conformes aux dispositions de la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés.
+1\. Sont agréés, pour la tenue de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises, les logiciels de traitement automatisés permettant aux professionnels utilisateurs de respecter l'ensemble des obligations légales auxquelles ils sont soumis en matière de comptabilité spéciale et conformes aux dispositions de la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés.
 
 Ces logiciels doivent répondre aux prescriptions arrêtées par le Conseil national.
 
@@ -16,7 +16,7 @@ Pour l'élaboration de celles-ci, le Conseil national désigne une commission co
 
 Cette commission rédige un cahier des charges soumis à l'approbation du ministre de la justice et arrêté par le Conseil national.
 
-2. La conformité des logiciels de traitement automatisé de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises aux dispositions de la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés, et au cahier des charges arrêté par le Conseil national est constatée par une attestation délivrée par un collège de deux experts composé :
+2\. La conformité des logiciels de traitement automatisé de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises aux dispositions de la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés, et au cahier des charges arrêté par le Conseil national est constatée par une attestation délivrée par un collège de deux experts composé :
 
 ― d'un expert en informatique ;
 
@@ -36,11 +36,11 @@ Tout commissaire aux comptes ou expert en informatique inscrit sur les listes me
 
 Une attestation nouvelle est nécessaire préalablement à la mise en service d'une nouvelle version du logiciel ou, si le logiciel comprend des applications extérieures à la tenue de la comptabilité spéciale, d'une nouvelle version du logiciel affectant le module de traitement automatisé de la comptabilité spéciale.
 
-4. Le concepteur développeur d'un logiciel de traitement automatisé de la comptabilité spéciale choisit sur les listes établies en application du paragraphe 2 ci-dessus, un expert en informatique et un commissaire aux comptes qu'il charge de procéder, à ses frais, à l'examen de conformité.
+4\. Le concepteur développeur d'un logiciel de traitement automatisé de la comptabilité spéciale choisit sur les listes établies en application du paragraphe 2 ci-dessus, un expert en informatique et un commissaire aux comptes qu'il charge de procéder, à ses frais, à l'examen de conformité.
 
-1. Pour l'examen de conformité, les experts disposent d'un droit d'accès, en présence du concepteur développeur sauf dispense expresse de celui-ci, à la documentation relative aux analyses, à la programmation et à l'exécution des traitements en vue de procéder aux tests qui leur sembleront nécessaires.
+5\. Pour l'examen de conformité, les experts disposent d'un droit d'accès, en présence du concepteur développeur sauf dispense expresse de celui-ci, à la documentation relative aux analyses, à la programmation et à l'exécution des traitements en vue de procéder aux tests qui leur sembleront nécessaires.
 
-1. Le collège d'experts établit un rapport relatant ses diligences et comportant, le cas échéant, une attestation de conformité. Il en adresse un exemplaire au Conseil national.
+6\. Le collège d'experts établit un rapport relatant ses diligences et comportant, le cas échéant, une attestation de conformité. Il en adresse un exemplaire au Conseil national.
 
 Le Conseil national s'assure, au vu de ce rapport, du respect des règles de désignation du collège d'experts et de la présence d'une attestation de conformité exempte de réserve et permettant d'identifier avec précision le logiciel concerné.
 
@@ -50,8 +50,8 @@ Lors de chaque installation du système de traitement automatisé de tenue de la
 
 Toute nouvelle version du logiciel (affectant, si celui-ci comprend plusieurs applications, le module de traitement automatisé de la comptabilité spéciale) qui ne fait pas l'objet une nouvelle attestation de conformité d'un collège d'experts entraîne la caducité du récépissé délivré par le Conseil national.
 
-7. Sous réserve des dispositions transitoires prévues au paragraphe 9 ci-après, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises concerné informe par lettre recommandée avec accusé réception le Conseil national dès la mise en service à son étude (ou dans un bureau annexe) d'un logiciel de traitement automatisé de tenue de comptabilité spéciale en indiquant ses références précises ainsi que celles du récépissé de dépôt de l'attestation de conformité.
+7\. Sous réserve des dispositions transitoires prévues au paragraphe 9 ci-après, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises concerné informe par lettre recommandée avec accusé réception le Conseil national dès la mise en service à son étude (ou dans un bureau annexe) d'un logiciel de traitement automatisé de tenue de comptabilité spéciale en indiquant ses références précises ainsi que celles du récépissé de dépôt de l'attestation de conformité.
 
-1. Les présentes dispositions s'appliquent même lorsque la comptabilité spéciale est tenue en tout ou partie par un centre de traitement extérieur à l'étude de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises.
+8\. Les présentes dispositions s'appliquent même lorsque la comptabilité spéciale est tenue en tout ou partie par un centre de traitement extérieur à l'étude de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises.
 
-1. Les logiciels de traitement automatisé de tenue de comptabilité spéciale en fonctionnement à la date d'entrée en vigueur des présentes dispositions devront être soumis à la procédure prévue ci-dessus et recevoir leur attestation de conformité au plus tard dans un délai de dix-huit mois après l'arrêté de ces règles.
+9\. Les logiciels de traitement automatisé de tenue de comptabilité spéciale en fonctionnement à la date d'entrée en vigueur des présentes dispositions devront être soumis à la procédure prévue ci-dessus et recevoir leur attestation de conformité au plus tard dans un délai de dix-huit mois après l'arrêté de ces règles.

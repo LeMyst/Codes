@@ -6,19 +6,19 @@ NEP-2410. Examen limité de comptes intermédiaires en application de dispositio
 
 Introduction
 
-1. Le commissaire aux comptes d'une entité peut être conduit à mener, en application de dispositions légales ou réglementaires, un examen limité de comptes intermédiaires, qui peuvent être des comptes condensés, présentés, le cas échéant, sous forme consolidée.
+01\. Le commissaire aux comptes d'une entité peut être conduit à mener, en application de dispositions légales ou réglementaires, un examen limité de comptes intermédiaires, qui peuvent être des comptes condensés, présentés, le cas échéant, sous forme consolidée.
 
-1. La présente norme a pour objet de définir les principes que le commissaire aux comptes applique lorsqu'il conduit un examen limité de comptes intermédiaires.
+02\. La présente norme a pour objet de définir les principes que le commissaire aux comptes applique lorsqu'il conduit un examen limité de comptes intermédiaires.
 
-1. Elle définit en outre les principes relatifs à l'établissement du rapport d'examen limité du commissaire aux comptes.
+03\. Elle définit en outre les principes relatifs à l'établissement du rapport d'examen limité du commissaire aux comptes.
 
 Respect des textes et esprit critique
 
-4. Le commissaire aux comptes réalise l'examen limité des comptes intermédiaires conformément aux textes légaux et réglementaires et à la présente norme d'exercice professionnel.
+04\. Le commissaire aux comptes réalise l'examen limité des comptes intermédiaires conformément aux textes légaux et réglementaires et à la présente norme d'exercice professionnel.
 
-1. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession.
+05\. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession.
 
-1. Tout au long de ses travaux, le commissaire aux comptes :
+06\. Tout au long de ses travaux, le commissaire aux comptes :
 
 -fait preuve d'esprit critique et tient compte du fait que certaines situations peuvent conduire à des anomalies significatives dans les comptes ;
 
@@ -26,29 +26,29 @@ Respect des textes et esprit critique
 
 Nature de l'assurance
 
-7. Lorsqu'il conduit un examen limité de comptes intermédiaires, le commissaire aux comptes met en œuvre des procédures moins étendues que celles requises pour un audit des comptes réalisé pour les besoins de la certification.
+07\. Lorsqu'il conduit un examen limité de comptes intermédiaires, le commissaire aux comptes met en œuvre des procédures moins étendues que celles requises pour un audit des comptes réalisé pour les besoins de la certification.
 
-1. L'examen limité de comptes intermédiaires consiste essentiellement, pour le commissaire aux comptes, à s'entretenir avec la direction et à mettre en œuvre des procédures analytiques.
+08\. L'examen limité de comptes intermédiaires consiste essentiellement, pour le commissaire aux comptes, à s'entretenir avec la direction et à mettre en œuvre des procédures analytiques.
 
-1. Il obtient l'assurance, moins élevée que celle obtenue dans le cadre d'un audit des comptes réalisé pour les besoins de la certification, que les comptes intermédiaires ne comportent pas d'anomalies significatives.
+09\. Il obtient l'assurance, moins élevée que celle obtenue dans le cadre d'un audit des comptes réalisé pour les besoins de la certification, que les comptes intermédiaires ne comportent pas d'anomalies significatives.
 
-1. Cette assurance, qualifiée d'assurance modérée, lui permet de formuler une conclusion selon laquelle il n'a pas relevé d'anomalies significatives dans les comptes intermédiaires, pris dans leur ensemble.
+10\. Cette assurance, qualifiée d'assurance modérée, lui permet de formuler une conclusion selon laquelle il n'a pas relevé d'anomalies significatives dans les comptes intermédiaires, pris dans leur ensemble.
 
 Anomalies significatives et seuil de signification
 
-11. Pour déterminer le seuil ou les seuils de signification et évaluer l'incidence des anomalies détectées sur sa conclusion, le commissaire aux comptes applique les principes définis dans la norme d'exercice professionnel relative aux anomalies significatives et au seuil de signification applicable à l'audit des comptes réalisé pour les besoins de la certification.
+11\. Pour déterminer le seuil ou les seuils de signification et évaluer l'incidence des anomalies détectées sur sa conclusion, le commissaire aux comptes applique les principes définis dans la norme d'exercice professionnel relative aux anomalies significatives et au seuil de signification applicable à l'audit des comptes réalisé pour les besoins de la certification.
 
 Travaux à mettre en œuvre par le commissaire aux comptes-Lettre de mission
 
-12. Le commissaire aux comptes définit les termes et conditions de l'examen limité dans la lettre de mission établie conformément aux principes définis dans la norme d'exercice professionnel relative à la lettre de mission.
+12\. Le commissaire aux comptes définit les termes et conditions de l'examen limité dans la lettre de mission établie conformément aux principes définis dans la norme d'exercice professionnel relative à la lettre de mission.
 
 Prise de connaissance de l'entité et de son environnement, y compris son contrôle interne, et évaluation du risque d'anomalies significatives dans les comptes
 
-13. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité et de son environnement, notamment de son contrôle interne, afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes intermédiaires et afin de concevoir et mettre en œuvre des procédures lui permettant de fonder sa conclusion sur ces comptes.
+13\. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité et de son environnement, notamment de son contrôle interne, afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes intermédiaires et afin de concevoir et mettre en œuvre des procédures lui permettant de fonder sa conclusion sur ces comptes.
 
-01. Lorsque, au cours de l'audit, des comptes de l'exercice précédent ou de l'examen limité des compte intermédiaires précédents, le commissaire aux comptes a collecté des éléments relatifs à la prise de connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, il assure un suivi des facteurs de risque identifiés lors de ces contrôles.
+14\. Lorsque, au cours de l'audit, des comptes de l'exercice précédent ou de l'examen limité des compte intermédiaires précédents, le commissaire aux comptes a collecté des éléments relatifs à la prise de connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, il assure un suivi des facteurs de risque identifiés lors de ces contrôles.
 
-01. Pour ce faire, le commissaire aux comptes :
+15\. Pour ce faire, le commissaire aux comptes :
 
 -relève notamment, dans son dossier de l'exercice précédent, les éléments identifiés suivants :
 
@@ -60,7 +60,7 @@ Prise de connaissance de l'entité et de son environnement, y compris son contr�
 
 -s'enquiert auprès de la direction des changements survenus depuis la période précédente susceptibles d'affecter la pertinence des informations recueillies. Il s'agit notamment de changements survenus au titre des éléments du contrôle interne, de la nature des activités de l'entité, du choix des méthodes comptables appliquées ou de tout autre événement qu'elle estime susceptible d'avoir une incidence déterminante sur l'activité de l'entité ou sur la préparation des comptes intermédiaires.
 
-16. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat et qu'il n'a pas réalisé préalablement d'audit des comptes de l'entité :
+16\. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat et qu'il n'a pas réalisé préalablement d'audit des comptes de l'entité :
 
 -il prend connaissance de l'entité et de son environnement à partir de la revue des dossiers de son prédécesseur ou, le cas échéant, du commissaire aux comptes. Il s'intéresse particulièrement :
 
@@ -72,7 +72,7 @@ Prise de connaissance de l'entité et de son environnement, y compris son contr�
 
 Entretien avec la direction
 
-17. Le commissaire aux comptes s'entretient, principalement avec les membres de la direction en charge des aspects financiers et comptables, des éléments suivants :
+17\. Le commissaire aux comptes s'entretient, principalement avec les membres de la direction en charge des aspects financiers et comptables, des éléments suivants :
 
 -leur appréciation du risque que les comptes comportent des anomalies significatives résultant de fraudes ;
 
@@ -100,27 +100,27 @@ Entretien avec la direction
 
 Procédures analytiques
 
-18. Dans le cadre de l'examen limité, le commissaire aux comptes met en œuvre des procédures analytiques en appliquant les principes définis dans la norme d'exercice professionnel relative aux procédures analytiques applicable à l'audit des comptes réalisé pour les besoins de la certification.
+18\. Dans le cadre de l'examen limité, le commissaire aux comptes met en œuvre des procédures analytiques en appliquant les principes définis dans la norme d'exercice professionnel relative aux procédures analytiques applicable à l'audit des comptes réalisé pour les besoins de la certification.
 
 Autres procédures d'examen limité
 
-19. Le commissaire aux comptes rapproche les comptes intermédiaires avec les documents comptables dont ils sont issus.
+19\. Le commissaire aux comptes rapproche les comptes intermédiaires avec les documents comptables dont ils sont issus.
 
-01. Lorsque le commissaire aux comptes identifie des éléments susceptibles de mettre en cause la continuité d'exploitation :
+20\. Lorsque le commissaire aux comptes identifie des éléments susceptibles de mettre en cause la continuité d'exploitation :
 
 -il prend connaissance, si elle existe, de l'évaluation faite par la direction de la capacité de l'entité à poursuivre son exploitation et en apprécie la pertinence. Si la direction n'a pas formalisé cette évaluation, le commissaire aux comptes s'enquiert auprès d'elle des raisons qui l'ont conduite à établir les comptes dans une perspective de continuité d'exploitation ;
 
 -et il apprécie, le cas échéant, le caractère approprié des informations données à cet égard dans l'annexe des comptes.
 
-21. Le commissaire aux comptes consulte les procès-verbaux ou les comptes rendus des réunions tenues par l'organe délibérant et par les organes mentionnés à l'article L. 821-63 du code de commerce afin d'identifier les délibérations ou décisions pouvant avoir une incidence sur les comptes.
+21\. Le commissaire aux comptes consulte les procès-verbaux ou les comptes rendus des réunions tenues par l'organe délibérant et par les organes mentionnés à l'article L. 821-63 du code de commerce afin d'identifier les délibérations ou décisions pouvant avoir une incidence sur les comptes.
 
-01. Il peut également estimer utile de mettre en œuvre d'autres procédures telles que des inspections d'enregistrements ou de documents ou des vérifications de calculs.
+22\. Il peut également estimer utile de mettre en œuvre d'autres procédures telles que des inspections d'enregistrements ou de documents ou des vérifications de calculs.
 
 Déclarations du représentant légal
 
-23. Le commissaire aux comptes applique les principes de la norme d'exercice professionnel relative aux déclarations de la direction applicable à l'audit des comptes réalisé pour les besoins de la certification.
+23\. Le commissaire aux comptes applique les principes de la norme d'exercice professionnel relative aux déclarations de la direction applicable à l'audit des comptes réalisé pour les besoins de la certification.
 
-01. Indépendamment d'autres déclarations écrites que le commissaire aux comptes estimerait nécessaires, il demande au représentant légal des déclarations écrites par lesquelles :
+24\. Indépendamment d'autres déclarations écrites que le commissaire aux comptes estimerait nécessaires, il demande au représentant légal des déclarations écrites par lesquelles :
 
 -il déclare que des contrôles destinés à prévenir et à détecter les erreurs et les fraudes ont été conçus et mis en œuvre dans l'entité ;
 
@@ -136,11 +136,11 @@ Déclarations du représentant légal
 
 Communication
 
-25. Le commissaire aux comptes procède aux communications prévues dans les normes d'exercice professionnel applicables à l'audit des comptes réalisé pour les besoins de la certification.
+25\. Le commissaire aux comptes procède aux communications prévues dans les normes d'exercice professionnel applicables à l'audit des comptes réalisé pour les besoins de la certification.
 
 Forme du rapport d'examen limité du commissaire aux comptes
 
-26. Le commissaire aux comptes établit un rapport qui comporte les informations suivantes :
+26\. Le commissaire aux comptes établit un rapport qui comporte les informations suivantes :
 
 a) Un titre qui indique qu'il s'agit d'un rapport de commissaire aux comptes ;
 
@@ -170,11 +170,11 @@ h) La signature du commissaire aux comptes exerçant à titre individuel ou, le 
 
 Conclusions formulées par le commissaire aux comptes
 
-27. Lorsque l'examen limité de comptes intermédiaires porte sur des comptes complets, présentés le cas échéant sous une forme consolidée, le commissaire aux comptes se prononce sur la régularité, la sincérité et l'image fidèle des comptes.
+27\. Lorsque l'examen limité de comptes intermédiaires porte sur des comptes complets, présentés le cas échéant sous une forme consolidée, le commissaire aux comptes se prononce sur la régularité, la sincérité et l'image fidèle des comptes.
 
-01. Lorsque l'examen limité de comptes intermédiaires porte sur des comptes condensés, présentés le cas échéant sous une forme consolidée, le commissaire aux comptes se prononce sur la conformité des comptes avec les principes qui leur sont applicables, définis dans le référentiel comptable.
+28\. Lorsque l'examen limité de comptes intermédiaires porte sur des comptes condensés, présentés le cas échéant sous une forme consolidée, le commissaire aux comptes se prononce sur la conformité des comptes avec les principes qui leur sont applicables, définis dans le référentiel comptable.
 
-01. Le commissaire aux comptes formule :
+29\. Le commissaire aux comptes formule :
 
 -soit une conclusion sans réserve ;
 
@@ -186,11 +186,11 @@ Conclusions formulées par le commissaire aux comptes
 
 Conclusion sans réserve
 
-30. Le commissaire aux comptes formule une conclusion sans réserve lorsque l'examen limité des comptes intermédiaires qu'il a mis en œuvre lui a permis d'obtenir l'assurance modérée que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives.
+30\. Le commissaire aux comptes formule une conclusion sans réserve lorsque l'examen limité des comptes intermédiaires qu'il a mis en œuvre lui a permis d'obtenir l'assurance modérée que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives.
 
 Conclusion avec réserve
 
-31. Le commissaire aux comptes formule une conclusion avec réserve :
+31\. Le commissaire aux comptes formule une conclusion avec réserve :
 
 -lorsqu'il a identifié, au cours de l'examen limité des comptes intermédiaires, des anomalies significatives et que celles-ci n'ont pas été corrigées ;
 
@@ -202,7 +202,7 @@ Conclusion avec réserve
 
 Conclusion défavorable
 
-32. Le commissaire aux comptes formule une conclusion défavorable :
+32\. Le commissaire aux comptes formule une conclusion défavorable :
 
 -lorsqu'il a détecté, au cours de l'examen limité des comptes intermédiaires, des anomalies significatives et que celles-ci n'ont pas été corrigées, et que :
 
@@ -210,7 +210,7 @@ Conclusion défavorable
 
 Impossibilité de conclure
 
-33. Le commissaire aux comptes formule une impossibilité de conclure :
+33\. Le commissaire aux comptes formule une impossibilité de conclure :
 
 -lorsqu'il n'a pas pu mettre en œuvre toutes les procédures nécessaires pour fonder sa conclusion sur les comptes, et que :
 
@@ -218,17 +218,17 @@ Impossibilité de conclure
 
 -ou la formulation d'une réserve n'est pas suffisante pour permettre à l'utilisateur des comptes intermédiaires de fonder son jugement en connaissance de cause.
 
-34. Le commissaire aux comptes formule également une impossibilité de conclure lorsqu'il existe de multiples incertitudes dont les incidences sur les comptes ne peuvent être clairement circonscrites.
+34\. Le commissaire aux comptes formule également une impossibilité de conclure lorsqu'il existe de multiples incertitudes dont les incidences sur les comptes ne peuvent être clairement circonscrites.
 
 Observations
 
-35. Lorsqu'il émet une conclusion sans réserve ou avec réserve, le commissaire aux comptes formule, s'il y a lieu, toutes observations utiles.
+35\. Lorsqu'il émet une conclusion sans réserve ou avec réserve, le commissaire aux comptes formule, s'il y a lieu, toutes observations utiles.
 
-01. En formulant une observation, le commissaire aux comptes attire l'attention du lecteur des comptes intermédiaires sur une information fournie dans l'annexe. Il ne peut pas dispenser d'informations dont la diffusion relève de la responsabilité des dirigeants.
+36\. En formulant une observation, le commissaire aux comptes attire l'attention du lecteur des comptes intermédiaires sur une information fournie dans l'annexe. Il ne peut pas dispenser d'informations dont la diffusion relève de la responsabilité des dirigeants.
 
-01. Les observations sont formulées dans un paragraphe distinct inséré après la conclusion.
+37\. Les observations sont formulées dans un paragraphe distinct inséré après la conclusion.
 
-01. Le commissaire aux comptes formule systématiquement une observation sur les informations fournies dans l'annexe :
+38\. Le commissaire aux comptes formule systématiquement une observation sur les informations fournies dans l'annexe :
 
 -en cas d'incertitude sur la continuité de l'exploitation ;
 
@@ -236,4 +236,4 @@ Observations
 
 Documentation
 
-39. Le commissaire aux comptes consigne dans son dossier les éléments suffisants et appropriés pour fonder ses conclusions et permettant d'établir que son examen limité a été effectué selon la présente norme.
+39\. Le commissaire aux comptes consigne dans son dossier les éléments suffisants et appropriés pour fonder ses conclusions et permettant d'établir que son examen limité a été effectué selon la présente norme.

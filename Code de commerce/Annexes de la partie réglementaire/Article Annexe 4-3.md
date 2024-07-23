@@ -2,7 +2,7 @@
 
 DOSSIER DE NOTIFICATION D'UNE OPÉRATION DE CONCENTRATION
 
-1. Description de l'opération, comprenant :
+1\. Description de l'opération, comprenant :
 
 a) Une copie des actes soumis à notification et des comptes rendus des organes délibérants relatifs à la concentration accompagnée, si nécessaire, d'une traduction en langue française de ces documents ;
 
@@ -16,7 +16,7 @@ e) Le cas échéant, le mandat des conseils ou personnes chargées de la notific
 
 f) Un résumé de l'opération ne contenant ni information confidentielle ni secret d'affaires, destiné à être publié sur le site internet de l'Autorité de la concurrence en application de l'article L. 430-3.
 
-2. Présentation des entreprises concernées et des groupes auxquels elles appartiennent, comprenant, pour chacune des entreprises ou groupes :
+2\. Présentation des entreprises concernées et des groupes auxquels elles appartiennent, comprenant, pour chacune des entreprises ou groupes :
 
 a) Les comptes sociaux et, lorsqu'ils existent, les comptes consolidés et le dernier rapport annuel ;
 
@@ -28,7 +28,7 @@ d) La liste des opérations de concentration réalisées au cours des trois dern
 
 e) La liste et la description de l'activité des entreprises avec lesquelles les entreprises ou groupes concernés et les groupes auxquels elles appartiennent entretiennent des liens contractuels significatifs et durables sur les marchés concernés par l'opération, la nature et la description de ces liens.
 
-3. Marchés concernés.
+3\. Marchés concernés.
 
 Un marché concerné se définit comme un marché pertinent, défini en termes de produits et en termes géographiques, sur lequel l'opération notifiée a une incidence directe ou indirecte.
 
@@ -42,7 +42,7 @@ a) Part de marché des entreprises concernées et des groupes auxquels elles app
 
 b) Part de marché des principaux opérateurs concurrents.
 
-4. Marchés affectés.
+4\. Marchés affectés.
 
 Un marché concerné est considéré comme affecté :
 
@@ -78,7 +78,7 @@ k) Une analyse de la structure de la demande (degré de concentration de la dema
 
 l) La liste et les coordonnées des principales organisations professionnelles.
 
-5. Déclaration concluant la notification.
+5\. Déclaration concluant la notification.
 
 La notification se conclut par la déclaration suivante, signée par ou au nom de toutes les entreprises notifiantes, au sens de l'article L. 430-3 du présent code :
 

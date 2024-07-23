@@ -6,7 +6,7 @@ NEP-911. MISSION DU COMMISSAIRE AUX COMPTES NOMMÉ POUR TROIS EXERCICES PRÉVUE 
 
 Champ d'application
 
-1. La présente norme a pour objet de définir les diligences proportionnées à la “ petite entreprise ” à accomplir par le commissaire aux comptes nommé pour un mandat dont la durée est limitée à trois exercices, ainsi que le formalisme qui s'attache à la réalisation de sa mission.
+01\. La présente norme a pour objet de définir les diligences proportionnées à la “ petite entreprise ” à accomplir par le commissaire aux comptes nommé pour un mandat dont la durée est limitée à trois exercices, ainsi que le formalisme qui s'attache à la réalisation de sa mission.
 
 Une “ petite entreprise ” est une personne ou entité qui ne dépasse pas, à la clôture d'un exercice social, deux des trois critères suivants :
 
@@ -18,11 +18,11 @@ Une “ petite entreprise ” est une personne ou entité qui ne dépasse pas, �
 
 Les situations dans lesquelles un commissaire aux comptes est nommé pour un mandat dont la durée est limitée à trois exercices sont définies aux paragraphes 2 à 5.
 
-2. Un commissaire aux comptes peut être nommé pour un mandat de trois exercices par une société dont un ou plusieurs associés ou actionnaires représentant au moins le tiers du capital en ont fait la demande motivée auprès de ladite société.
+02\. Un commissaire aux comptes peut être nommé pour un mandat de trois exercices par une société dont un ou plusieurs associés ou actionnaires représentant au moins le tiers du capital en ont fait la demande motivée auprès de ladite société.
 
-1. En l'absence d'obligation légale de nommer un commissaire aux comptes pour un mandat de six exercices, une société qui répond à la définition de petite entreprise peut décider volontairement de nommer un commissaire aux comptes. Dans ce cas, cette société peut choisir de limiter la durée du mandat du commissaire aux comptes à trois exercices en application de l' article L. 821-46 du code de commerce .
+03\. En l'absence d'obligation légale de nommer un commissaire aux comptes pour un mandat de six exercices, une société qui répond à la définition de petite entreprise peut décider volontairement de nommer un commissaire aux comptes. Dans ce cas, cette société peut choisir de limiter la durée du mandat du commissaire aux comptes à trois exercices en application de l' article L. 821-46 du code de commerce .
 
-1. Une entité “ tête de groupe ” est définie par les 1er et 2e alinéas de l'article L. 821-43 du code de commerce comme une personne ou entité :
+04\. Une entité “ tête de groupe ” est définie par les 1er et 2e alinéas de l'article L. 821-43 du code de commerce comme une personne ou entité :
 
 -non astreinte à publier des comptes consolidés ;
 
@@ -44,7 +44,7 @@ Une entité tête de groupe a l'obligation de désigner au moins un commissaire 
 
 Lorsque l'entité tête de groupe est une société qui répond à la définition de petite entreprise, elle peut choisir, en application de l' article L. 821-46 du code de commerce , de limiter la durée de son mandat à trois exercices.
 
-5. Les petites entreprises qui sont des sociétés contrôlées par une entité tête de groupe ont l'obligation, en application du 3e alinéa de l'article L. 821-43 du code de commerce , de désigner au moins un commissaire aux comptes, lorsqu'elles dépassent, à la clôture d'un exercice social, deux des trois critères suivants :
+05\. Les petites entreprises qui sont des sociétés contrôlées par une entité tête de groupe ont l'obligation, en application du 3e alinéa de l'article L. 821-43 du code de commerce , de désigner au moins un commissaire aux comptes, lorsqu'elles dépassent, à la clôture d'un exercice social, deux des trois critères suivants :
 
 -total du bilan : deux millions d'euros ;
 
@@ -54,11 +54,11 @@ Lorsque l'entité tête de groupe est une société qui répond à la définitio
 
 Dans ce cas, ces sociétés peuvent choisir de limiter la durée du mandat du commissaire aux comptes à trois exercices en application de l' article L. 821-46 du code de commerce .
 
-6. La présente norme est également applicable aux mandats de commissaires aux comptes en cours à la date d'application effective de l' article L. 821-57 du code de commerce , et qui sont exercés dans les sociétés, quelles que soient leurs formes, qui ne dépassent pas, pour le dernier exercice clos antérieurement à cette date, deux des trois critères précisés au paragraphe 1, dès lors que ces sociétés choisissent, en accord avec leur commissaire aux comptes, que celui-ci poursuive l'exécution de sa mission jusqu'au terme initialement fixé selon les mêmes modalités que celles prévues pour l'exercice d'un mandat dont la durée est limitée à trois exercices.
+06\. La présente norme est également applicable aux mandats de commissaires aux comptes en cours à la date d'application effective de l' article L. 821-57 du code de commerce , et qui sont exercés dans les sociétés, quelles que soient leurs formes, qui ne dépassent pas, pour le dernier exercice clos antérieurement à cette date, deux des trois critères précisés au paragraphe 1, dès lors que ces sociétés choisissent, en accord avec leur commissaire aux comptes, que celui-ci poursuive l'exécution de sa mission jusqu'au terme initialement fixé selon les mêmes modalités que celles prévues pour l'exercice d'un mandat dont la durée est limitée à trois exercices.
 
 Nature et étendue de la mission
 
-7. La mission du commissaire aux comptes comprend :
+07\. La mission du commissaire aux comptes comprend :
 
 -la mission de certification des comptes annuels, et le cas échéant, des comptes consolidés lorsque l'entité décide sur une base volontaire de publier de tels comptes, prévue à l' article L. 821-53 du code de commerce et dont il rend compte dans son rapport sur les comptes annuels, et le cas échéant, dans son rapport sur les comptes consolidés ;
 
@@ -68,29 +68,29 @@ Nature et étendue de la mission
 
 Respect des règles de déontologie
 
-8. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession. Il réalise sa mission conformément aux textes légaux et réglementaires et, s'agissant des normes d'exercice professionnel, à la présente norme d'exercice professionnel.
+08\. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession. Il réalise sa mission conformément aux textes légaux et réglementaires et, s'agissant des normes d'exercice professionnel, à la présente norme d'exercice professionnel.
 
 Esprit critique, jugement professionnel et proportionnalité
 
-9. Tout au long de sa mission, le commissaire aux comptes fait preuve d'esprit critique. A ce titre, il évalue de façon critique la validité des éléments collectés au cours de ses travaux et reste attentif aux informations qui contredisent ou remettent en cause la fiabilité des éléments obtenus.
+09\. Tout au long de sa mission, le commissaire aux comptes fait preuve d'esprit critique. A ce titre, il évalue de façon critique la validité des éléments collectés au cours de ses travaux et reste attentif aux informations qui contredisent ou remettent en cause la fiabilité des éléments obtenus.
 
-1. Le commissaire aux comptes exerce son jugement professionnel pour décider de la nature, du calendrier et de l'étendue des travaux, proportionnés à la taille et à la complexité de l'entité, nécessaires pour fonder son opinion sur les comptes et établir son rapport sur les risques financiers, comptables et de gestion.
+10\. Le commissaire aux comptes exerce son jugement professionnel pour décider de la nature, du calendrier et de l'étendue des travaux, proportionnés à la taille et à la complexité de l'entité, nécessaires pour fonder son opinion sur les comptes et établir son rapport sur les risques financiers, comptables et de gestion.
 
 Implication du commissaire aux comptes
 
-11. Le commissaire aux comptes veille à être compris du dirigeant quant à l'objectif de sa mission et aux modalités pratiques de sa réalisation. Si le commissaire aux comptes fait appel à des collaborateurs, il veille à rester l'interlocuteur principal du dirigeant, notamment pour la prise de connaissance de l'entité et de son environnement et la restitution des conclusions des travaux mis en œuvre.
+11\. Le commissaire aux comptes veille à être compris du dirigeant quant à l'objectif de sa mission et aux modalités pratiques de sa réalisation. Si le commissaire aux comptes fait appel à des collaborateurs, il veille à rester l'interlocuteur principal du dirigeant, notamment pour la prise de connaissance de l'entité et de son environnement et la restitution des conclusions des travaux mis en œuvre.
 
 Lettre de mission
 
-12. Au plus tard à l'issue de la prise de connaissance de l'entité et de son environnement, le commissaire aux comptes établit une lettre de mission pouvant porter sur les trois exercices de son mandat et définissant les termes et conditions de son intervention. Si nécessaire, il revoit les termes de la lettre de mission en cours de mandat. Il demande à l'entité de confirmer par écrit son accord sur les termes et conditions exposés.
+12\. Au plus tard à l'issue de la prise de connaissance de l'entité et de son environnement, le commissaire aux comptes établit une lettre de mission pouvant porter sur les trois exercices de son mandat et définissant les termes et conditions de son intervention. Si nécessaire, il revoit les termes de la lettre de mission en cours de mandat. Il demande à l'entité de confirmer par écrit son accord sur les termes et conditions exposés.
 
 Mise en œuvre de la mission de certification des comptes
 
-13. Pour certifier les comptes, le commissaire aux comptes met en œuvre un audit des comptes afin d'obtenir l'assurance que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives. Cette assurance élevée, mais non absolue du fait des limites de l'audit est qualifiée, par convention, d'“ assurance raisonnable ”.
+13\. Pour certifier les comptes, le commissaire aux comptes met en œuvre un audit des comptes afin d'obtenir l'assurance que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives. Cette assurance élevée, mais non absolue du fait des limites de l'audit est qualifiée, par convention, d'“ assurance raisonnable ”.
 
 Les limites de l'audit résultent notamment de l'utilisation des techniques de sondages, des limites inhérentes au contrôle interne, et du fait que la plupart des éléments collectés au cours de la mission conduisent davantage à des présomptions qu'à des certitudes.
 
-14. La notion de caractère significatif est appliquée par le commissaire aux comptes pour planifier et réaliser son audit, puis pour évaluer l'incidence des anomalies non corrigées dans les comptes.
+14\. La notion de caractère significatif est appliquée par le commissaire aux comptes pour planifier et réaliser son audit, puis pour évaluer l'incidence des anomalies non corrigées dans les comptes.
 
 Le commissaire aux comptes met en œuvre la notion de caractère significatif en considérant le montant des anomalies, leur nature et les circonstances particulières de leur survenance.
 
@@ -100,7 +100,7 @@ Pour évaluer le caractère significatif d'une anomalie à partir de son montant
 
 Au cours de la mission, le commissaire aux comptes reconsidère le seuil de signification s'il a connaissance de faits nouveaux ou d'évolutions de l'entité qui remettent en cause l'évaluation initiale de ce seuil.
 
-15. La démarche pour la mise en œuvre de la mission de certification des comptes comprend les phases suivantes :
+15\. La démarche pour la mise en œuvre de la mission de certification des comptes comprend les phases suivantes :
 
 -la prise de connaissance de l'entité en vue de l'identification et de l'évaluation du risque d'anomalies significatives dans les comptes ainsi que la planification de la mission ;
 
@@ -116,11 +116,11 @@ En application des articles L. 821-60 et L. 821-61 du code de commerce, le commi
 
 Dans le cadre de la démarche visant à la certification des comptes, le commissaire aux comptes identifie les risques financiers, comptables et de gestion auxquels est exposée l'entité et qu'il estime d'une importance suffisante pour être portés à l'attention du dirigeant. Lorsqu'il intervient dans une entité tête de groupe, le commissaire aux comptes met en œuvre, en complément, les diligences prévues aux paragraphes 35 à 37.
 
-16. Lorsque l'entité a recours aux services d'un expert-comptable, le commissaire aux comptes prend contact avec l'expert-comptable pour s'informer du contenu de la mission qui lui a été confiée. Lorsqu'il envisage d'utiliser les travaux de l'expert-comptable, le commissaire aux comptes se fait communiquer les travaux réalisés et apprécie s'ils peuvent contribuer à la formation de son opinion sur les comptes. En fonction de cette appréciation, le commissaire aux comptes détermine les procédures d'audit supplémentaires dont la mise en œuvre lui paraît nécessaire.
+16\. Lorsque l'entité a recours aux services d'un expert-comptable, le commissaire aux comptes prend contact avec l'expert-comptable pour s'informer du contenu de la mission qui lui a été confiée. Lorsqu'il envisage d'utiliser les travaux de l'expert-comptable, le commissaire aux comptes se fait communiquer les travaux réalisés et apprécie s'ils peuvent contribuer à la formation de son opinion sur les comptes. En fonction de cette appréciation, le commissaire aux comptes détermine les procédures d'audit supplémentaires dont la mise en œuvre lui paraît nécessaire.
 
 Prise de connaissance de l'entité et de son environnement en vue de l'évaluation du risque d'anomalies significatives dans les comptes et planification de la mission
 
-17. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes, qu'elles résultent d'erreurs ou de fraudes. Pour ce faire, il s'entretient avec le dirigeant et le cas échéant avec les personnes appropriées au sein de l'entité et prend connaissance :
+17\. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes, qu'elles résultent d'erreurs ou de fraudes. Pour ce faire, il s'entretient avec le dirigeant et le cas échéant avec les personnes appropriées au sein de l'entité et prend connaissance :
 
 -du secteur d'activité de l'entité et de la nature plus ou moins complexe de ses activités ;
 
@@ -142,13 +142,13 @@ Prise de connaissance de l'entité et de son environnement en vue de l'évaluati
 
 Le commissaire aux comptes prend en considération le comportement et l'éthique professionnels du dirigeant et son implication dans le processus d'autorisation et de contrôle des opérations.
 
-18. Lors de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes met en œuvre des procédures analytiques.
+18\. Lors de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes met en œuvre des procédures analytiques.
 
 Les procédures analytiques consistent à apprécier des informations financières à partir de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires et à partir de l'analyse des variations significatives ou des tendances inattendues.
 
 Les procédures analytiques peuvent notamment permettre au commissaire aux comptes d'identifier des opérations ou des évènements inhabituels ou incohérents.
 
-19. A l'issue de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes consigne dans un plan de mission :
+19\. A l'issue de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes consigne dans un plan de mission :
 
 -l'approche générale des travaux en réponse à l'évaluation du risque d'anomalies significatives dans les comptes ;
 
@@ -160,9 +160,9 @@ Les procédures analytiques peuvent notamment permettre au commissaire aux compt
 
 -le calendrier et les intervenants.
 
-20. Sur la base des éléments collectés lors de la mise en œuvre des procédures d'audit, le commissaire aux comptes peut décider de modifier les éléments planifiés et consignés dans le plan de mission. Il peut être ainsi amené à modifier son approche générale, à revoir ses choix et à prévoir des travaux complémentaires ou différents.
+20\. Sur la base des éléments collectés lors de la mise en œuvre des procédures d'audit, le commissaire aux comptes peut décider de modifier les éléments planifiés et consignés dans le plan de mission. Il peut être ainsi amené à modifier son approche générale, à revoir ses choix et à prévoir des travaux complémentaires ou différents.
 
-01. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat, il vérifie que le bilan de clôture de l'exercice précédent repris pour l'ouverture du premier exercice dont il certifie les comptes ne contient pas d'anomalies significatives susceptibles d'avoir une incidence sur les comptes de l'exercice. Lorsque les comptes de l'exercice précédent ont fait l'objet d'une certification par un commissaire aux comptes, le commissaire aux comptes prend connaissance du dossier de travail de son prédécesseur, s'il l'estime nécessaire.
+21\. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat, il vérifie que le bilan de clôture de l'exercice précédent repris pour l'ouverture du premier exercice dont il certifie les comptes ne contient pas d'anomalies significatives susceptibles d'avoir une incidence sur les comptes de l'exercice. Lorsque les comptes de l'exercice précédent ont fait l'objet d'une certification par un commissaire aux comptes, le commissaire aux comptes prend connaissance du dossier de travail de son prédécesseur, s'il l'estime nécessaire.
 
 La certification sans réserve des comptes de l'exercice précédent constitue une présomption de régularité et sincérité du bilan d'ouverture. Si les comptes de l'exercice précédent n'ont pas fait l'objet d'une certification ou si le commissaire aux comptes n'a pas pris connaissance du dossier de travail de son prédécesseur ou n'a pas obtenu des travaux de celui-ci les éléments suffisants et appropriés estimés nécessaires, les procédures mises en œuvre pour les besoins de la certification des comptes de l'exercice peuvent lui permettre d'obtenir les éléments suffisants et appropriés pour conclure sur certains soldes de comptes du bilan d'ouverture. Lorsque ces procédures ne permettent pas au commissaire aux comptes d'obtenir les éléments suffisants et appropriés estimés nécessaires, il met en œuvre des procédures complémentaires.
 
@@ -170,7 +170,7 @@ Lorsque les comptes de l'exercice précédent n'ont pas fait l'objet d'une certi
 
 Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'anomalies significatives
 
-22. En réponse à son évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit qui peuvent comprendre, selon son jugement professionnel :
+22\. En réponse à son évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit qui peuvent comprendre, selon son jugement professionnel :
 
 -des tests de procédures ;
 
@@ -178,7 +178,7 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -une approche mixte utilisant à la fois des tests de procédures et des contrôles de substance.
 
-23. Le commissaire aux comptes utilise une ou plusieurs des techniques de contrôle suivantes :
+23\. Le commissaire aux comptes utilise une ou plusieurs des techniques de contrôle suivantes :
 
 -les procédures analytiques qui, utilisées comme contrôles de substance, consistent à apprécier des éléments de comptes à partir de leurs corrélations avec d'autres données financières ou non. Pour cela, le commissaire aux comptes détermine les montants attendus dans les comptes et les écarts jugés acceptables entre ces montants et les montants enregistrés ;
 
@@ -196,7 +196,7 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -la re-exécution d'un contrôle, qui porte sur des contrôles réalisés à l'origine par l'entité.
 
-24. Le commissaire aux comptes détermine les méthodes appropriées de sélection des éléments à contrôler parmi les suivantes :
+24\. Le commissaire aux comptes détermine les méthodes appropriées de sélection des éléments à contrôler parmi les suivantes :
 
 -la sélection de tous les éléments, méthode principalement utilisée lorsque la population est constituée d'un petit nombre d'éléments ;
 
@@ -204,17 +204,17 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -les sondages statistiques ou non statistiques.
 
-25. Lorsque le commissaire aux comptes intervient plusieurs semaines après la clôture de l'exercice, il peut estimer pertinent de contrôler les créances clients par les encaissements intervenus sur la période subséquente et les dettes fournisseurs par rapport aux factures reçues ou aux règlements effectués postérieurement à la clôture. L'utilisation de ces techniques de contrôle peut permettre de limiter les demandes de confirmation des clients et fournisseurs ou se substituer au recours à de telles confirmations.
+25\. Lorsque le commissaire aux comptes intervient plusieurs semaines après la clôture de l'exercice, il peut estimer pertinent de contrôler les créances clients par les encaissements intervenus sur la période subséquente et les dettes fournisseurs par rapport aux factures reçues ou aux règlements effectués postérieurement à la clôture. L'utilisation de ces techniques de contrôle peut permettre de limiter les demandes de confirmation des clients et fournisseurs ou se substituer au recours à de telles confirmations.
 
-01. Le calendrier d'intervention du commissaire aux comptes peut également lui permettre de s'appuyer, pour le contrôle de certaines estimations comptables, sur l'examen du dénouement postérieur à la clôture de l'exercice des opérations objets de ces estimations.
+26\. Le calendrier d'intervention du commissaire aux comptes peut également lui permettre de s'appuyer, pour le contrôle de certaines estimations comptables, sur l'examen du dénouement postérieur à la clôture de l'exercice des opérations objets de ces estimations.
 
-01. Le commissaire aux comptes assiste à la prise d'inventaire physique des stocks lorsqu'il estime que les stocks sont significatifs ou présentent un risque d'anomalies significatives. Si, en raison de circonstances imprévues, il ne peut être présent à la date prévue pour la prise d'inventaire physique, et dans la mesure où il existe un inventaire permanent, il intervient à une autre date. Lorsque sa présence à la prise d'inventaire physique est impossible, notamment en raison de la nature et du lieu de cet inventaire, le commissaire aux comptes détermine s'il peut mettre en œuvre des procédures d'audit alternatives fournissant des éléments présentant un caractère probant équivalent.
+27\. Le commissaire aux comptes assiste à la prise d'inventaire physique des stocks lorsqu'il estime que les stocks sont significatifs ou présentent un risque d'anomalies significatives. Si, en raison de circonstances imprévues, il ne peut être présent à la date prévue pour la prise d'inventaire physique, et dans la mesure où il existe un inventaire permanent, il intervient à une autre date. Lorsque sa présence à la prise d'inventaire physique est impossible, notamment en raison de la nature et du lieu de cet inventaire, le commissaire aux comptes détermine s'il peut mettre en œuvre des procédures d'audit alternatives fournissant des éléments présentant un caractère probant équivalent.
 
 Procédures d'audit mises en œuvre indépendamment de l'évaluation du risque d'anomalies significatives
 
-28. Indépendamment de l'évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des contrôles de substance pour chaque compte présentant un caractère significatif. Selon son jugement professionnel, le commissaire aux comptes peut décider de limiter ses travaux à des procédures analytiques ou à un nombre restreint de tests de détails.
+28\. Indépendamment de l'évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des contrôles de substance pour chaque compte présentant un caractère significatif. Selon son jugement professionnel, le commissaire aux comptes peut décider de limiter ses travaux à des procédures analytiques ou à un nombre restreint de tests de détails.
 
-01. De plus, le commissaire aux comptes met en œuvre les procédures d'audit suivantes :
+29\. De plus, le commissaire aux comptes met en œuvre les procédures d'audit suivantes :
 
 -compréhension de la justification économique d'opérations importantes qui lui semblent être en dehors des activités ordinaires de l'entité, ou qui lui apparaissent inhabituelles eu égard à sa connaissance de l'entité et de son environnement ;
 
@@ -230,23 +230,23 @@ Procédures d'audit mises en œuvre indépendamment de l'évaluation du risque d
 
 -identification et prise en compte des évènements postérieurs à la clôture.
 
-30. Le commissaire aux comptes effectue une revue de la cohérence d'ensemble des comptes au regard des éléments collectés tout au long de l'audit.
+30\. Le commissaire aux comptes effectue une revue de la cohérence d'ensemble des comptes au regard des éléments collectés tout au long de l'audit.
 
 Traitement des anomalies relevées au cours de la mission
 
-31. Au cours de la mission, le commissaire aux comptes communique en temps utile, au dirigeant de l'entité ou au niveau approprié de responsabilité, les anomalies qu'il a relevées autres que celles qui sont manifestement insignifiantes. Le commissaire aux comptes demande la correction de ces anomalies.
+31\. Au cours de la mission, le commissaire aux comptes communique en temps utile, au dirigeant de l'entité ou au niveau approprié de responsabilité, les anomalies qu'il a relevées autres que celles qui sont manifestement insignifiantes. Le commissaire aux comptes demande la correction de ces anomalies.
 
 A la fin de la mission, le commissaire aux comptes récapitule les anomalies non corrigées, autres que celles qui sont manifestement insignifiantes, ainsi que les anomalies non corrigées relevées au cours des exercices précédents et dont les effets perdurent. Il détermine si les anomalies non corrigées, prises individuellement ou en cumulé, sont significatives.
 
 Déclarations écrites de la direction
 
-32. Si, au titre d'un ou plusieurs éléments à contrôler, les procédures d'audit ne permettent pas au commissaire aux comptes d'obtenir les éléments probants nécessaires pour fonder son opinion sur les comptes, il peut, sur la base de son jugement professionnel, demander au dirigeant de lui confirmer par écrit certaines de ses déclarations orales.
+32\. Si, au titre d'un ou plusieurs éléments à contrôler, les procédures d'audit ne permettent pas au commissaire aux comptes d'obtenir les éléments probants nécessaires pour fonder son opinion sur les comptes, il peut, sur la base de son jugement professionnel, demander au dirigeant de lui confirmer par écrit certaines de ses déclarations orales.
 
 Lorsque le dirigeant refuse, le commissaire aux comptes s'enquiert des raisons de ce refus et, en fonction des réponses formulées, en tire les conséquences éventuelles sur l'expression de son opinion sur les comptes.
 
 Communication avec les organes mentionnés à l'article L. 821-63 du code de commerce
 
-33. Selon son jugement professionnel et au moment qu'il juge approprié au regard de l'importance du sujet, le commissaire aux comptes porte à la connaissance du dirigeant ou d'un autre organe de direction ou de l'organe collégial chargé de l'administration ou de l'organe de surveillance :
+33\. Selon son jugement professionnel et au moment qu'il juge approprié au regard de l'importance du sujet, le commissaire aux comptes porte à la connaissance du dirigeant ou d'un autre organe de direction ou de l'organe collégial chargé de l'administration ou de l'organe de surveillance :
 
 -l'étendue et le calendrier des travaux d'audit ;
 
@@ -262,17 +262,17 @@ Communication avec les organes mentionnés à l'article L. 821-63 du code de com
 
 -les motifs de l'observation, de la certification avec réserve, du refus de certifier ou de l'impossibilité de certifier qu'il envisage, le cas échéant, de formuler dans son rapport sur les comptes.
 
-34. Le commissaire aux comptes communique par écrit les éléments importants relatifs à sa mission lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement.
+34\. Le commissaire aux comptes communique par écrit les éléments importants relatifs à sa mission lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement.
 
 Diligences mises en œuvre pour l'établissement du rapport sur les risques financiers, comptables et de gestion
 
-35. En vue de l'élaboration du rapport sur les risques financiers, comptables et de gestion, le commissaire aux comptes est attentif tout au long de sa mission de certification des comptes aux risques financiers, comptables et de gestion auxquels est exposée la société et qu'il estime d'une importance suffisante pour être portés à l'attention du dirigeant.
+35\. En vue de l'élaboration du rapport sur les risques financiers, comptables et de gestion, le commissaire aux comptes est attentif tout au long de sa mission de certification des comptes aux risques financiers, comptables et de gestion auxquels est exposée la société et qu'il estime d'une importance suffisante pour être portés à l'attention du dirigeant.
 
-01. Lorsqu'il intervient dans une entité tête de groupe, le commissaire aux comptes est également attentif aux risques financiers, comptables et de gestion auxquels sont exposées les sociétés qu'elle contrôle qu'il pourrait identifier au cours de sa mission de certification des comptes de l'entité tête de groupe, notamment lors de la prise de connaissance de ses activités et du contrôle des immobilisations financières qu'elle détient ainsi que des informations fournies en annexe.
+36\. Lorsqu'il intervient dans une entité tête de groupe, le commissaire aux comptes est également attentif aux risques financiers, comptables et de gestion auxquels sont exposées les sociétés qu'elle contrôle qu'il pourrait identifier au cours de sa mission de certification des comptes de l'entité tête de groupe, notamment lors de la prise de connaissance de ses activités et du contrôle des immobilisations financières qu'elle détient ainsi que des informations fournies en annexe.
 
-01. En outre, le commissaire aux comptes de l'entité tête de groupe demande aux commissaires aux comptes des sociétés contrôlées nommés pour un mandat de trois exercices la communication des rapports sur les risques financiers, comptables et de gestion auxquels ces sociétés sont exposées.
+37\. En outre, le commissaire aux comptes de l'entité tête de groupe demande aux commissaires aux comptes des sociétés contrôlées nommés pour un mandat de trois exercices la communication des rapports sur les risques financiers, comptables et de gestion auxquels ces sociétés sont exposées.
 
-01. En l'absence de rapport sur les risques financiers, comptables et de gestion d'une société contrôlée, ou si ce rapport n'est pas disponible dans des délais compatibles avec l'établissement de son rapport sur les risques, le commissaire aux comptes de l'entité tête de groupe apprécie, selon son jugement professionnel, s'il doit compléter les informations recueillies dans le cadre de sa mission de certification des comptes de l'entité tête de groupe par :
+38\. En l'absence de rapport sur les risques financiers, comptables et de gestion d'une société contrôlée, ou si ce rapport n'est pas disponible dans des délais compatibles avec l'établissement de son rapport sur les risques, le commissaire aux comptes de l'entité tête de groupe apprécie, selon son jugement professionnel, s'il doit compléter les informations recueillies dans le cadre de sa mission de certification des comptes de l'entité tête de groupe par :
 
 -des entretiens avec les dirigeants des sociétés contrôlées ;
 
@@ -280,51 +280,51 @@ Diligences mises en œuvre pour l'établissement du rapport sur les risques fina
 
 Autres diligences légales confiées par le législateur au commissaire aux comptes
 
-39. Il appartient au commissaire aux comptes de procéder au contrôle des documents adressés à l'organe appelé à statuer sur les comptes. Pour ce faire, il met en œuvre les diligences prévues par la norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
+39\. Il appartient au commissaire aux comptes de procéder au contrôle des documents adressés à l'organe appelé à statuer sur les comptes. Pour ce faire, il met en œuvre les diligences prévues par la norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
 
-01. En application de l'article L. 821-10 du code de commerce, le commissaire aux comptes signale à la plus prochaine assemblée générale ou réunion de l'organe compétent les irrégularités et inexactitudes relevées au cours de l'accomplissement de sa mission et révèle au procureur de la République les faits délictueux dont il a eu connaissance, sans que sa responsabilité puisse être engagée par cette révélation.
+40\. En application de l'article L. 821-10 du code de commerce, le commissaire aux comptes signale à la plus prochaine assemblée générale ou réunion de l'organe compétent les irrégularités et inexactitudes relevées au cours de l'accomplissement de sa mission et révèle au procureur de la République les faits délictueux dont il a eu connaissance, sans que sa responsabilité puisse être engagée par cette révélation.
 
-01. Le commissaire aux comptes met également en œuvre les dispositions prévues par la norme d'exercice professionnel relative aux obligations du commissaire aux comptes relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme.
+41\. Le commissaire aux comptes met également en œuvre les dispositions prévues par la norme d'exercice professionnel relative aux obligations du commissaire aux comptes relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme.
 
-01. Lorsque le commissaire aux comptes relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation, il met en œuvre les dispositions prévues par les textes légaux et réglementaires relatifs à la procédure d'alerte et il en tire les conséquences éventuelles sur son rapport sur les comptes. La continuité d'exploitation est appréciée sur une période de douze mois à compter de la clôture de l'exercice.
+42\. Lorsque le commissaire aux comptes relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation, il met en œuvre les dispositions prévues par les textes légaux et réglementaires relatifs à la procédure d'alerte et il en tire les conséquences éventuelles sur son rapport sur les comptes. La continuité d'exploitation est appréciée sur une période de douze mois à compter de la clôture de l'exercice.
 
-01. Plus généralement, le commissaire aux comptes met en œuvre les autres diligences légales qui lui sont confiées par le législateur.
+43\. Plus généralement, le commissaire aux comptes met en œuvre les autres diligences légales qui lui sont confiées par le législateur.
 
 Rapport du commissaire aux comptes établi en application de l'article L. 821-53 du code de commerce
 
-44. Le commissaire aux comptes établit le rapport mentionné au 1er alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes annuels sont réguliers et sincères et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de l'entité à la fin de cet exercice.
+44\. Le commissaire aux comptes établit le rapport mentionné au 1er alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes annuels sont réguliers et sincères et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de l'entité à la fin de cet exercice.
 
 En outre, lorsque la personne ou entité décide sur une base volontaire de publier des comptes consolidés, le commissaire aux comptes établit le rapport mentionné au 2e alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de l'ensemble constitué par les personnes et entités comprises dans la consolidation.
 
-45. Le commissaire aux comptes exprime son opinion selon les dispositions des paragraphes 6 à 14 de la norme d'exercice professionnel relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
+45\. Le commissaire aux comptes exprime son opinion selon les dispositions des paragraphes 6 à 14 de la norme d'exercice professionnel relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
 
-01. La justification des appréciations par le commissaire aux comptes a pour objet de permettre au destinataire du rapport de mieux comprendre l'opinion émise sur les comptes.
+46\. La justification des appréciations par le commissaire aux comptes a pour objet de permettre au destinataire du rapport de mieux comprendre l'opinion émise sur les comptes.
 
 Le commissaire aux comptes, sur la base de son jugement professionnel, peut adopter une rédaction succincte pour la justification de ses appréciations.
 
-47. Le contenu du rapport respecte les dispositions prévues au paragraphe 18 de la norme relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
+47\. Le contenu du rapport respecte les dispositions prévues au paragraphe 18 de la norme relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
 
 Rapport du commissaire aux comptes sur les risques financiers, comptables et de gestion
 
-48. Le contenu et la forme du rapport sont adaptés à l'entité selon le jugement professionnel du commissaire aux comptes, sur la base des risques financiers, comptables et de gestion identifiés lors des travaux mis en œuvre et qu'il estime d'une importance suffisante pour être portés à l'attention du dirigeant.
+48\. Le contenu et la forme du rapport sont adaptés à l'entité selon le jugement professionnel du commissaire aux comptes, sur la base des risques financiers, comptables et de gestion identifiés lors des travaux mis en œuvre et qu'il estime d'une importance suffisante pour être portés à l'attention du dirigeant.
 
-01. Le commissaire aux comptes s'assure de la cohérence de son rapport sur les risques avec l'opinion émise sur les comptes.
+49\. Le commissaire aux comptes s'assure de la cohérence de son rapport sur les risques avec l'opinion émise sur les comptes.
 
-01. Le commissaire aux comptes formule, s'il le juge nécessaire, des recommandations visant à réduire les risques identifiés en tenant compte de la taille de l'entité et de ses caractéristiques. Dans ce cas, le commissaire aux comptes veille au respect des règles d'indépendance et de non-immixtion dans la gestion.
+50\. Le commissaire aux comptes formule, s'il le juge nécessaire, des recommandations visant à réduire les risques identifiés en tenant compte de la taille de l'entité et de ses caractéristiques. Dans ce cas, le commissaire aux comptes veille au respect des règles d'indépendance et de non-immixtion dans la gestion.
 
-01. Dans le cas d'une entité tête de groupe, le rapport sur les risques financiers, comptables et de gestion portant sur l'ensemble que l'entité forme avec les sociétés qu'elle contrôle, le commissaire aux comptes mentionne les sources d'information utilisées.
+51\. Dans le cas d'une entité tête de groupe, le rapport sur les risques financiers, comptables et de gestion portant sur l'ensemble que l'entité forme avec les sociétés qu'elle contrôle, le commissaire aux comptes mentionne les sources d'information utilisées.
 
-01. Préalablement à l'émission de son rapport, le commissaire aux comptes s'entretient avec le dirigeant des risques financiers, comptables et de gestion identifiés pour s'assurer de la pertinence des recommandations formulées.
+52\. Préalablement à l'émission de son rapport, le commissaire aux comptes s'entretient avec le dirigeant des risques financiers, comptables et de gestion identifiés pour s'assurer de la pertinence des recommandations formulées.
 
-01. En fonction de l'importance des risques dont il est fait état dans son rapport, le commissaire aux comptes, sur la base de son jugement professionnel, évalue la nécessité de communiquer tout ou partie du rapport aux autres organes visés à l' article L. 821-63 du code de commerce .
+53\. En fonction de l'importance des risques dont il est fait état dans son rapport, le commissaire aux comptes, sur la base de son jugement professionnel, évalue la nécessité de communiquer tout ou partie du rapport aux autres organes visés à l' article L. 821-63 du code de commerce .
 
 Documentation des travaux
 
-54. Le commissaire aux comptes constitue dans le respect de l' article D. 821-186 du code de commerce un dossier adapté à la taille et aux caractéristiques de l'entité contrôlée en tenant compte du principe de proportionnalité.
+54\. Le commissaire aux comptes constitue dans le respect de l' article D. 821-186 du code de commerce un dossier adapté à la taille et aux caractéristiques de l'entité contrôlée en tenant compte du principe de proportionnalité.
 
-01. Ce dossier permet à toute autre personne ayant une expérience de la pratique de l'audit et n'ayant pas participé à la mission d'être en mesure de comprendre la démarche adoptée, les travaux effectués, l'opinion émise et le rapport sur les risques financiers, comptables et de gestion.
+55\. Ce dossier permet à toute autre personne ayant une expérience de la pratique de l'audit et n'ayant pas participé à la mission d'être en mesure de comprendre la démarche adoptée, les travaux effectués, l'opinion émise et le rapport sur les risques financiers, comptables et de gestion.
 
-01. En particulier, le commissaire aux comptes formalise dans son dossier :
+56\. En particulier, le commissaire aux comptes formalise dans son dossier :
 
 -les échanges intervenus avec le dirigeant de l'entité ou avec d'autres interlocuteurs au titre des éléments collectés au cours de sa mission pour l'établissement du rapport sur les risques financiers, comptables et de gestion ;
 
@@ -334,7 +334,7 @@ NEP-912. MISSSION DU COMMISSAIRE AUX COMPTES NOMMÉ POUR SIX EXERCICES DANS DES 
 
 Champ d'application
 
-1. La présente norme a pour objet de définir les diligences proportionnées à la “ petite entreprise ” à accomplir par le commissaire aux comptes désigné par une telle entreprise pour un mandat de six exercices, ainsi que le formalisme qui s'attache à la réalisation de sa mission.
+01\. La présente norme a pour objet de définir les diligences proportionnées à la “ petite entreprise ” à accomplir par le commissaire aux comptes désigné par une telle entreprise pour un mandat de six exercices, ainsi que le formalisme qui s'attache à la réalisation de sa mission.
 
 Une “ petite entreprise ” est une personne ou entité qui ne dépasse pas, à la clôture d'un exercice social, deux des trois critères suivants :
 
@@ -346,9 +346,9 @@ Une “ petite entreprise ” est une personne ou entité qui ne dépasse pas, �
 
 Les situations visées par la présente norme sont définies aux paragraphes 2 à 4.
 
-2. En l'absence d'obligation légale de nommer un commissaire aux comptes pour un mandat de six exercices, une personne ou entité qui répond à la définition de petite entreprise peut décider volontairement de nommer un commissaire aux comptes. Lorsque cette personne ou entité est une société, elle peut choisir de lui confier un mandat de six exercices. Lorsque cette personne ou entité n'est pas une société, la durée du mandat du commissaire aux comptes est obligatoirement de six exercices.
+02\. En l'absence d'obligation légale de nommer un commissaire aux comptes pour un mandat de six exercices, une personne ou entité qui répond à la définition de petite entreprise peut décider volontairement de nommer un commissaire aux comptes. Lorsque cette personne ou entité est une société, elle peut choisir de lui confier un mandat de six exercices. Lorsque cette personne ou entité n'est pas une société, la durée du mandat du commissaire aux comptes est obligatoirement de six exercices.
 
-1. Une entité “ tête de groupe ” est définie par les 1er et 2e alinéas de l'article L. 821-43 du code de commerce comme une personne ou entité :
+03\. Une entité “ tête de groupe ” est définie par les 1er et 2e alinéas de l'article L. 821-43 du code de commerce comme une personne ou entité :
 
 -non astreinte à publier des comptes consolidés ;
 
@@ -372,7 +372,7 @@ Lorsque l'entité tête de groupe est une société qui répond à la définitio
 
 Lorsque l'entité tête de groupe n'est pas une société mais qu'elle répond à la définition de petite entreprise, la durée du mandat du commissaire aux comptes est obligatoirement de six exercices.
 
-4. Les petites entreprises qui sont des sociétés contrôlées par une entité tête de groupe ont l'obligation, en application du 3e alinéa de l'article L. 821-43 du code de commerce, de désigner au moins un commissaire aux comptes, lorsqu'elles dépassent, à la clôture d'un exercice social, deux des trois critères suivants :
+04\. Les petites entreprises qui sont des sociétés contrôlées par une entité tête de groupe ont l'obligation, en application du 3e alinéa de l'article L. 821-43 du code de commerce, de désigner au moins un commissaire aux comptes, lorsqu'elles dépassent, à la clôture d'un exercice social, deux des trois critères suivants :
 
 -total du bilan : deux millions d'euros ;
 
@@ -382,11 +382,11 @@ Lorsque l'entité tête de groupe n'est pas une société mais qu'elle répond �
 
 Dans ce cas, ces sociétés peuvent choisir de confier au commissaire aux comptes un mandat de six exercices.
 
-5. Le commissaire aux comptes peut appliquer la présente norme aux mandats en cours au 27 mai 2019, date d'application effective des dispositions issues de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des entreprises, dans les sociétés, quelles que soient leurs formes, qui ne dépassent pas, pour le dernier exercice clos antérieurement à cette date, deux des trois critères précisés au paragraphe 1, et qui en font le choix en accord avec lui.
+05\. Le commissaire aux comptes peut appliquer la présente norme aux mandats en cours au 27 mai 2019, date d'application effective des dispositions issues de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des entreprises, dans les sociétés, quelles que soient leurs formes, qui ne dépassent pas, pour le dernier exercice clos antérieurement à cette date, deux des trois critères précisés au paragraphe 1, et qui en font le choix en accord avec lui.
 
 Nature et étendue de la mission
 
-6. La mission du commissaire aux comptes comprend :
+06\. La mission du commissaire aux comptes comprend :
 
 -la mission de certification des comptes annuels, et le cas échéant, des comptes consolidés lorsque l'entité décide sur une base volontaire de publier de tels comptes, prévue à l'article L. 821-53 du code de commerce et dont il rend compte dans son rapport sur les comptes annuels, et le cas échéant, dans son rapport sur les comptes consolidés ;
 
@@ -394,29 +394,29 @@ Nature et étendue de la mission
 
 Respect des règles de déontologie
 
-7. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession. Il réalise sa mission conformément aux textes légaux et réglementaires et, s'agissant des normes d'exercice professionnel, à la présente norme d'exercice professionnel.
+07\. Le commissaire aux comptes respecte les dispositions du code de déontologie de la profession. Il réalise sa mission conformément aux textes légaux et réglementaires et, s'agissant des normes d'exercice professionnel, à la présente norme d'exercice professionnel.
 
 Esprit critique, jugement professionnel et proportionnalité
 
-8. Tout au long de sa mission, le commissaire aux comptes fait preuve d'esprit critique. A ce titre, il évalue de façon critique la validité des éléments collectés au cours de ses travaux et reste attentif aux informations qui contredisent ou remettent en cause la fiabilité des éléments obtenus.
+08\. Tout au long de sa mission, le commissaire aux comptes fait preuve d'esprit critique. A ce titre, il évalue de façon critique la validité des éléments collectés au cours de ses travaux et reste attentif aux informations qui contredisent ou remettent en cause la fiabilité des éléments obtenus.
 
-1. Le commissaire aux comptes exerce son jugement professionnel pour décider de la nature, du calendrier et de l'étendue des travaux, proportionnés à la taille et à la complexité de l'entité, nécessaires pour fonder son opinion sur les comptes.
+09\. Le commissaire aux comptes exerce son jugement professionnel pour décider de la nature, du calendrier et de l'étendue des travaux, proportionnés à la taille et à la complexité de l'entité, nécessaires pour fonder son opinion sur les comptes.
 
 Implication du commissaire aux comptes
 
-10. Le commissaire aux comptes veille à être compris du dirigeant quant à l'objectif de sa mission et aux modalités pratiques de sa réalisation. Si le commissaire aux comptes fait appel à des collaborateurs, il veille à rester l'interlocuteur principal du dirigeant, notamment pour la prise de connaissance de l'entité et de son environnement et la restitution des conclusions des travaux mis en œuvre.
+10\. Le commissaire aux comptes veille à être compris du dirigeant quant à l'objectif de sa mission et aux modalités pratiques de sa réalisation. Si le commissaire aux comptes fait appel à des collaborateurs, il veille à rester l'interlocuteur principal du dirigeant, notamment pour la prise de connaissance de l'entité et de son environnement et la restitution des conclusions des travaux mis en œuvre.
 
 Lettre de mission
 
-11. Au plus tard à l'issue de la prise de connaissance de l'entité et de son environnement, le commissaire aux comptes établit une lettre de mission pouvant porter sur les six exercices de son mandat et définissant les termes et conditions de son intervention. Si nécessaire, il revoit les termes de la lettre de mission en cours de mandat. Il demande à l'entité de confirmer par écrit son accord sur les termes et conditions exposés.
+11\. Au plus tard à l'issue de la prise de connaissance de l'entité et de son environnement, le commissaire aux comptes établit une lettre de mission pouvant porter sur les six exercices de son mandat et définissant les termes et conditions de son intervention. Si nécessaire, il revoit les termes de la lettre de mission en cours de mandat. Il demande à l'entité de confirmer par écrit son accord sur les termes et conditions exposés.
 
 Mise en œuvre de la mission de certification des comptes
 
-12. Pour certifier les comptes, le commissaire aux comptes met en œuvre un audit des comptes afin d'obtenir l'assurance que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives. Cette assurance élevée, mais non absolue du fait des limites de l'audit est qualifiée, par convention, d'“ assurance raisonnable ”.
+12\. Pour certifier les comptes, le commissaire aux comptes met en œuvre un audit des comptes afin d'obtenir l'assurance que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives. Cette assurance élevée, mais non absolue du fait des limites de l'audit est qualifiée, par convention, d'“ assurance raisonnable ”.
 
 Les limites de l'audit résultent notamment de l'utilisation des techniques de sondages, des limites inhérentes au contrôle interne, et du fait que la plupart des éléments collectés au cours de la mission conduisent davantage à des présomptions qu'à des certitudes.
 
-13. La notion de caractère significatif est appliquée par le commissaire aux comptes pour planifier et réaliser son audit, puis pour évaluer l'incidence des anomalies non corrigées dans les comptes.
+13\. La notion de caractère significatif est appliquée par le commissaire aux comptes pour planifier et réaliser son audit, puis pour évaluer l'incidence des anomalies non corrigées dans les comptes.
 
 Le commissaire aux comptes met en œuvre la notion de caractère significatif en considérant le montant des anomalies, leur nature et les circonstances particulières de leur survenance.
 
@@ -426,7 +426,7 @@ Pour évaluer le caractère significatif d'une anomalie à partir de son montant
 
 Au cours de la mission, le commissaire aux comptes reconsidère le seuil de signification s'il a connaissance de faits nouveaux ou d'évolutions de l'entité qui remettent en cause l'évaluation initiale de ce seuil.
 
-14. La démarche pour la mise en œuvre de la mission de certification des comptes comprend les phases suivantes :
+14\. La démarche pour la mise en œuvre de la mission de certification des comptes comprend les phases suivantes :
 
 -la prise de connaissance de l'entité en vue de l'identification et de l'évaluation du risque d'anomalies significatives dans les comptes ainsi que la planification de la mission ;
 
@@ -440,11 +440,11 @@ Le commissaire aux comptes est vigilant sur tout événement ou circonstance sus
 
 En application des articles L. 821-60 et L. 821-61 du code de commerce, le commissaire aux comptes opère toutes vérifications et tous contrôles qu'il juge opportuns et peut se faire communiquer toutes les pièces qu'il estime utiles à l'exercice de sa mission. Lorsqu'il intervient dans une entité tête de groupe ces investigations peuvent être faites tant auprès de l'entité tête de groupe que des personnes ou entités qui la contrôlent ou qui sont contrôlées par elle au sens des I et II et de l'article L. 233-3 du code de commerce.
 
-15. Lorsque l'entité a recours aux services d'un expert-comptable, le commissaire aux comptes prend contact avec l'expert-comptable pour s'informer du contenu de la mission qui lui a été confiée. Lorsqu'il envisage d'utiliser les travaux de l'expert-comptable, le commissaire aux comptes se fait communiquer les travaux réalisés et apprécie s'ils peuvent contribuer à la formation de son opinion sur les comptes. En fonction de cette appréciation, le commissaire aux comptes détermine les procédures d'audit supplémentaires dont la mise en œuvre lui paraît nécessaire.
+15\. Lorsque l'entité a recours aux services d'un expert-comptable, le commissaire aux comptes prend contact avec l'expert-comptable pour s'informer du contenu de la mission qui lui a été confiée. Lorsqu'il envisage d'utiliser les travaux de l'expert-comptable, le commissaire aux comptes se fait communiquer les travaux réalisés et apprécie s'ils peuvent contribuer à la formation de son opinion sur les comptes. En fonction de cette appréciation, le commissaire aux comptes détermine les procédures d'audit supplémentaires dont la mise en œuvre lui paraît nécessaire.
 
 Prise de connaissance de l'entité et de son environnement en vue de l'évaluation du risque d'anomalies significatives dans les comptes et planification de la mission
 
-16. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes, qu'elles résultent d'erreurs ou de fraudes. Pour ce faire, il s'entretient avec le dirigeant et le cas échéant avec les personnes appropriées au sein de l'entité et prend connaissance :
+16\. Le commissaire aux comptes acquiert une connaissance suffisante de l'entité afin d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes, qu'elles résultent d'erreurs ou de fraudes. Pour ce faire, il s'entretient avec le dirigeant et le cas échéant avec les personnes appropriées au sein de l'entité et prend connaissance :
 
 -du secteur d'activité de l'entité et de la nature plus ou moins complexe de ses activités ;
 
@@ -466,13 +466,13 @@ Prise de connaissance de l'entité et de son environnement en vue de l'évaluati
 
 Le commissaire aux comptes prend en considération le comportement et l'éthique professionnels du dirigeant et son implication dans le processus d'autorisation et de contrôle des opérations.
 
-17. Lors de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes met en œuvre des procédures analytiques.
+17\. Lors de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes met en œuvre des procédures analytiques.
 
 Les procédures analytiques consistent à apprécier des informations financières à partir de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires et à partir de l'analyse des variations significatives ou des tendances inattendues.
 
 Les procédures analytiques peuvent notamment permettre au commissaire aux comptes d'identifier des opérations ou des évènements inhabituels ou incohérents.
 
-18. A l'issue de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes consigne dans un plan de mission :
+18\. A l'issue de sa prise de connaissance de l'entité et de son environnement, le commissaire aux comptes consigne dans un plan de mission :
 
 -l'approche générale des travaux en réponse à l'évaluation du risque d'anomalies significatives dans les comptes ;
 
@@ -484,9 +484,9 @@ Les procédures analytiques peuvent notamment permettre au commissaire aux compt
 
 -le calendrier et les intervenants.
 
-19. Sur la base des éléments collectés lors de la mise en œuvre des procédures d'audit, le commissaire aux comptes peut décider de modifier les éléments planifiés et consignés dans le plan de mission. Il peut être ainsi amené à modifier son approche générale, à revoir ses choix et à prévoir des travaux complémentaires ou différents.
+19\. Sur la base des éléments collectés lors de la mise en œuvre des procédures d'audit, le commissaire aux comptes peut décider de modifier les éléments planifiés et consignés dans le plan de mission. Il peut être ainsi amené à modifier son approche générale, à revoir ses choix et à prévoir des travaux complémentaires ou différents.
 
-01. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat, il vérifie que le bilan de clôture de l'exercice précédent repris pour l'ouverture du premier exercice dont il certifie les comptes ne contient pas d'anomalies significatives susceptibles d'avoir une incidence sur les comptes de l'exercice. Lorsque les comptes de l'exercice précédent ont fait l'objet d'une certification par un commissaire aux comptes, le commissaire aux comptes prend connaissance du dossier de travail de son prédécesseur, s'il l'estime nécessaire.
+20\. Lorsque le commissaire aux comptes intervient au titre de la première année de son mandat, il vérifie que le bilan de clôture de l'exercice précédent repris pour l'ouverture du premier exercice dont il certifie les comptes ne contient pas d'anomalies significatives susceptibles d'avoir une incidence sur les comptes de l'exercice. Lorsque les comptes de l'exercice précédent ont fait l'objet d'une certification par un commissaire aux comptes, le commissaire aux comptes prend connaissance du dossier de travail de son prédécesseur, s'il l'estime nécessaire.
 
 La certification sans réserve des comptes de l'exercice précédent constitue une présomption de régularité et sincérité du bilan d'ouverture. Si les comptes de l'exercice précédent n'ont pas fait l'objet d'une certification ou si le commissaire aux comptes n'a pas pris connaissance du dossier de travail de son prédécesseur ou n'a pas obtenu des travaux de celui-ci les éléments suffisants et appropriés estimés nécessaires, les procédures mises en œuvre pour les besoins de la certification des comptes de l'exercice peuvent lui permettre d'obtenir les éléments suffisants et appropriés pour conclure sur certains soldes de comptes du bilan d'ouverture. Lorsque ces procédures ne permettent pas au commissaire aux comptes d'obtenir les éléments suffisants et appropriés estimés nécessaires, il met en œuvre des procédures complémentaires.
 
@@ -494,7 +494,7 @@ Lorsque les comptes de l'exercice précédent n'ont pas fait l'objet d'une certi
 
 Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'anomalies significatives
 
-21. En réponse à son évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit qui peuvent comprendre, selon son jugement professionnel :
+21\. En réponse à son évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit qui peuvent comprendre, selon son jugement professionnel :
 
 -des tests de procédures ;
 
@@ -502,7 +502,7 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -une approche mixte utilisant à la fois des tests de procédures et des contrôles de substance.
 
-22. Le commissaire aux comptes utilise une ou plusieurs des techniques de contrôle suivantes :
+22\. Le commissaire aux comptes utilise une ou plusieurs des techniques de contrôle suivantes :
 
 -les procédures analytiques qui, utilisées comme contrôles de substance, consistent à apprécier des éléments de comptes à partir de leurs corrélations avec d'autres données financières ou non. Pour cela, le commissaire aux comptes détermine les montants attendus dans les comptes et les écarts jugés acceptables entre ces montants et les montants enregistrés ;
 
@@ -520,7 +520,7 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -la re-exécution d'un contrôle, qui porte sur des contrôles réalisés à l'origine par l'entité.
 
-23. Le commissaire aux comptes détermine les méthodes appropriées de sélection des éléments à contrôler parmi les suivantes :
+23\. Le commissaire aux comptes détermine les méthodes appropriées de sélection des éléments à contrôler parmi les suivantes :
 
 -la sélection de tous les éléments, méthode principalement utilisée lorsque la population est constituée d'un petit nombre d'éléments ;
 
@@ -528,17 +528,17 @@ Procédures d'audit mises en œuvre en réponse à l'évaluation du risque d'ano
 
 -les sondages statistiques ou non statistiques.
 
-24. Lorsque le commissaire aux comptes intervient plusieurs semaines après la clôture de l'exercice, il peut estimer pertinent de contrôler les créances clients par les encaissements intervenus sur la période subséquente et les dettes fournisseurs par rapport aux factures reçues ou aux règlements effectués postérieurement à la clôture. L'utilisation de ces techniques de contrôle peut permettre de limiter les demandes de confirmation des clients et fournisseurs ou se substituer au recours à de telles confirmations.
+24\. Lorsque le commissaire aux comptes intervient plusieurs semaines après la clôture de l'exercice, il peut estimer pertinent de contrôler les créances clients par les encaissements intervenus sur la période subséquente et les dettes fournisseurs par rapport aux factures reçues ou aux règlements effectués postérieurement à la clôture. L'utilisation de ces techniques de contrôle peut permettre de limiter les demandes de confirmation des clients et fournisseurs ou se substituer au recours à de telles confirmations.
 
-01. Le calendrier d'intervention du commissaire aux comptes peut également lui permettre de s'appuyer, pour le contrôle de certaines estimations comptables, sur l'examen du dénouement postérieur à la clôture de l'exercice des opérations objets de ces estimations.
+25\. Le calendrier d'intervention du commissaire aux comptes peut également lui permettre de s'appuyer, pour le contrôle de certaines estimations comptables, sur l'examen du dénouement postérieur à la clôture de l'exercice des opérations objets de ces estimations.
 
-01. Le commissaire aux comptes assiste à la prise d'inventaire physique des stocks lorsqu'il estime que les stocks sont significatifs ou présentent un risque d'anomalies significatives. Si, en raison de circonstances imprévues, il ne peut être présent à la date prévue pour la prise d'inventaire physique, et dans la mesure où il existe un inventaire permanent, il intervient à une autre date. Lorsque sa présence à la prise d'inventaire physique est impossible, notamment en raison de la nature et du lieu de cet inventaire, le commissaire aux comptes détermine s'il peut mettre en œuvre des procédures d'audit alternatives fournissant des éléments présentant un caractère probant équivalent.
+26\. Le commissaire aux comptes assiste à la prise d'inventaire physique des stocks lorsqu'il estime que les stocks sont significatifs ou présentent un risque d'anomalies significatives. Si, en raison de circonstances imprévues, il ne peut être présent à la date prévue pour la prise d'inventaire physique, et dans la mesure où il existe un inventaire permanent, il intervient à une autre date. Lorsque sa présence à la prise d'inventaire physique est impossible, notamment en raison de la nature et du lieu de cet inventaire, le commissaire aux comptes détermine s'il peut mettre en œuvre des procédures d'audit alternatives fournissant des éléments présentant un caractère probant équivalent.
 
 Procédures d'audit mises en œuvre indépendamment de l'évaluation du risque d'anomalies significatives
 
-27. Indépendamment de l'évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des contrôles de substance pour chaque compte présentant un caractère significatif. Selon son jugement professionnel, le commissaire aux comptes peut décider de limiter ses travaux à des procédures analytiques ou à un nombre restreint de tests de détails.
+27\. Indépendamment de l'évaluation du risque d'anomalies significatives, le commissaire aux comptes conçoit et met en œuvre des contrôles de substance pour chaque compte présentant un caractère significatif. Selon son jugement professionnel, le commissaire aux comptes peut décider de limiter ses travaux à des procédures analytiques ou à un nombre restreint de tests de détails.
 
-01. De plus, le commissaire aux comptes met en œuvre les procédures d'audit suivantes :
+28\. De plus, le commissaire aux comptes met en œuvre les procédures d'audit suivantes :
 
 -compréhension de la justification économique d'opérations importantes qui lui semblent être en dehors des activités ordinaires de l'entité, ou qui lui apparaissent inhabituelles eu égard à sa connaissance de l'entité et de son environnement ;
 
@@ -554,23 +554,23 @@ Procédures d'audit mises en œuvre indépendamment de l'évaluation du risque d
 
 -identification et prise en compte des évènements postérieurs à la clôture.
 
-29. Le commissaire aux comptes effectue une revue de la cohérence d'ensemble des comptes au regard des éléments collectés tout au long de l'audit.
+29\. Le commissaire aux comptes effectue une revue de la cohérence d'ensemble des comptes au regard des éléments collectés tout au long de l'audit.
 
 Traitement des anomalies relevées au cours de la mission
 
-30. Au cours de la mission, le commissaire aux comptes communique en temps utile, au dirigeant de l'entité ou au niveau approprié de responsabilité, les anomalies qu'il a relevées autres que celles qui sont manifestement insignifiantes. Le commissaire aux comptes demande la correction de ces anomalies.
+30\. Au cours de la mission, le commissaire aux comptes communique en temps utile, au dirigeant de l'entité ou au niveau approprié de responsabilité, les anomalies qu'il a relevées autres que celles qui sont manifestement insignifiantes. Le commissaire aux comptes demande la correction de ces anomalies.
 
 A la fin de la mission, le commissaire aux comptes récapitule les anomalies non corrigées, autres que celles qui sont manifestement insignifiantes, ainsi que les anomalies non corrigées relevées au cours des exercices précédents et dont les effets perdurent. Il détermine si les anomalies non corrigées, prises individuellement ou en cumulé, sont significatives.
 
 Déclarations écrites de la direction
 
-31. Si, au titre d'un ou plusieurs éléments à contrôler, les procédures d'audit ne permettent pas au commissaire aux comptes d'obtenir les éléments probants nécessaires pour fonder son opinion sur les comptes, il peut, sur la base de son jugement professionnel, demander au dirigeant de lui confirmer par écrit certaines de ses déclarations orales.
+31\. Si, au titre d'un ou plusieurs éléments à contrôler, les procédures d'audit ne permettent pas au commissaire aux comptes d'obtenir les éléments probants nécessaires pour fonder son opinion sur les comptes, il peut, sur la base de son jugement professionnel, demander au dirigeant de lui confirmer par écrit certaines de ses déclarations orales.
 
 Lorsque le dirigeant refuse, le commissaire aux comptes s'enquiert des raisons de ce refus et, en fonction des réponses formulées, en tire les conséquences éventuelles sur l'expression de son opinion sur les comptes.
 
 Communications avec les organes mentionnés à l'article L. 821-63 du code de commerce
 
-32. Selon son jugement professionnel et au moment qu'il juge approprié au regard de l'importance du sujet, le commissaire aux comptes porte à la connaissance du dirigeant ou d'un autre organe de direction ou de l'organe collégial chargé de l'administration ou de l'organe de surveillance :
+32\. Selon son jugement professionnel et au moment qu'il juge approprié au regard de l'importance du sujet, le commissaire aux comptes porte à la connaissance du dirigeant ou d'un autre organe de direction ou de l'organe collégial chargé de l'administration ou de l'organe de surveillance :
 
 -l'étendue et le calendrier des travaux d'audit ;
 
@@ -586,38 +586,38 @@ Communications avec les organes mentionnés à l'article L. 821-63 du code de co
 
 -les motifs de l'observation, de la certification avec réserve, du refus de certifier ou de l'impossibilité de certifier qu'il envisage, le cas échéant, de formuler dans son rapport sur les comptes.
 
-33. Le commissaire aux comptes communique par écrit les éléments importants relatifs à sa mission lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement.
+33\. Le commissaire aux comptes communique par écrit les éléments importants relatifs à sa mission lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement.
 
 Autres diligences légales confiées par le législateur au commissaire aux comptes
 
-34. Il appartient au commissaire aux comptes de procéder au contrôle des documents adressés à l'organe appelé à statuer sur les comptes. Pour ce faire, il met en œuvre les diligences prévues par la norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
+34\. Il appartient au commissaire aux comptes de procéder au contrôle des documents adressés à l'organe appelé à statuer sur les comptes. Pour ce faire, il met en œuvre les diligences prévues par la norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
 
-01. En application de l' article L. 821-10 du code de commerce , le commissaire aux comptes signale à la plus prochaine assemblée générale ou réunion de l'organe compétent les irrégularités et inexactitudes relevées au cours de l'accomplissement de sa mission et révèle au procureur de la République les faits délictueux dont il a eu connaissance, sans que sa responsabilité puisse être engagée par cette révélation.
+35\. En application de l' article L. 821-10 du code de commerce , le commissaire aux comptes signale à la plus prochaine assemblée générale ou réunion de l'organe compétent les irrégularités et inexactitudes relevées au cours de l'accomplissement de sa mission et révèle au procureur de la République les faits délictueux dont il a eu connaissance, sans que sa responsabilité puisse être engagée par cette révélation.
 
-01. Le commissaire aux comptes met également en œuvre les dispositions prévues par la norme d'exercice professionnel relative aux obligations du commissaire aux comptes relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme.
+36\. Le commissaire aux comptes met également en œuvre les dispositions prévues par la norme d'exercice professionnel relative aux obligations du commissaire aux comptes relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme.
 
-01. Lorsque le commissaire aux comptes relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation, il met en œuvre les dispositions prévues par les textes légaux et réglementaires relatifs à la procédure d'alerte et il en tire les conséquences éventuelles sur son rapport sur les comptes. La continuité d'exploitation est appréciée sur une période de douze mois à compter de la clôture de l'exercice.
+37\. Lorsque le commissaire aux comptes relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation, il met en œuvre les dispositions prévues par les textes légaux et réglementaires relatifs à la procédure d'alerte et il en tire les conséquences éventuelles sur son rapport sur les comptes. La continuité d'exploitation est appréciée sur une période de douze mois à compter de la clôture de l'exercice.
 
-01. Plus généralement, le commissaire aux comptes met en œuvre les autres diligences légales qui lui sont confiées par le législateur.
+38\. Plus généralement, le commissaire aux comptes met en œuvre les autres diligences légales qui lui sont confiées par le législateur.
 
 Rapport du commissaire aux comptes établi en application de l'article L. 821-53 du code de commerce
 
-39. Le commissaire aux comptes établit le rapport mentionné au 1er alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes annuels sont réguliers et sincères et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de l'entité à la fin de cet exercice.
+39\. Le commissaire aux comptes établit le rapport mentionné au 1er alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes annuels sont réguliers et sincères et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de l'entité à la fin de cet exercice.
 
 En outre, lorsque la personne ou entité décide sur une base volontaire de publier des comptes consolidés, le commissaire aux comptes établit le rapport mentionné au 2e alinéa de l'article L. 821-53 du code de commerce dans lequel il certifie, en justifiant de ses appréciations, que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de l'ensemble constitué par les personnes et entités comprises dans la consolidation.
 
-40. Le commissaire aux comptes exprime son opinion selon les dispositions des paragraphes 6 à 14 de la norme d'exercice professionnel relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
+40\. Le commissaire aux comptes exprime son opinion selon les dispositions des paragraphes 6 à 14 de la norme d'exercice professionnel relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
 
-01. La justification des appréciations par le commissaire aux comptes a pour objet de permettre au destinataire du rapport de mieux comprendre l'opinion émise sur les comptes.
+41\. La justification des appréciations par le commissaire aux comptes a pour objet de permettre au destinataire du rapport de mieux comprendre l'opinion émise sur les comptes.
 
 Le commissaire aux comptes, sur la base de son jugement professionnel, peut adopter une rédaction succincte pour la justification de ses appréciations.
 
-42. Le contenu du rapport respecte les dispositions prévues au paragraphe 18 de la norme relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
+42\. Le contenu du rapport respecte les dispositions prévues au paragraphe 18 de la norme relative aux rapports du commissaire aux comptes sur les comptes annuels et consolidés.
 
 Documentation des travaux
 
-43. Le commissaire aux comptes constitue dans le respect de l'article D. 821-186 du code de commerce un dossier adapté à la taille et aux caractéristiques de l'entité contrôlée en tenant compte du principe de proportionnalité.
+43\. Le commissaire aux comptes constitue dans le respect de l'article D. 821-186 du code de commerce un dossier adapté à la taille et aux caractéristiques de l'entité contrôlée en tenant compte du principe de proportionnalité.
 
-01. Ce dossier permet à toute autre personne ayant une expérience de la pratique de l'audit et n'ayant pas participé à la mission d'être en mesure de comprendre la démarche adoptée, les travaux effectués et l'opinion émise.
+44\. Ce dossier permet à toute autre personne ayant une expérience de la pratique de l'audit et n'ayant pas participé à la mission d'être en mesure de comprendre la démarche adoptée, les travaux effectués et l'opinion émise.
 
-01. En particulier, le commissaire aux comptes formalise dans son dossier les échanges verbaux avec les organes mentionnés à l'article L. 821-63 du code de commerce et la date de ces échanges ainsi qu'une copie de ses communications écrites.
+45\. En particulier, le commissaire aux comptes formalise dans son dossier les échanges verbaux avec les organes mentionnés à l'article L. 821-63 du code de commerce et la date de ces échanges ainsi qu'une copie de ses communications écrites.

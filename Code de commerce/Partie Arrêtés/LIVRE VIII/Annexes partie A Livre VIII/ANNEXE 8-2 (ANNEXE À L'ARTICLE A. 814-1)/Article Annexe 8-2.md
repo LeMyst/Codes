@@ -8,90 +8,143 @@ Préambule.
 
 Titre Ier. ― Définitions.
 
-1. 1. De l'administrateur judiciaire.
-1. 2. Du mandataire judiciaire à la liquidation des entreprises.
+1\. 1. De l'administrateur judiciaire.
+
+1\. 2. Du mandataire judiciaire à la liquidation des entreprises.
 
 Titre II. ― Principes de déontologie.
 
-2. 1. Des principes fondamentaux.
-1. 2. Des obligations s'imposant aux professionnels à raison de leur mission de service public.
-1. 2. 1. Des incompatibilités.
-1. 2. 2. De l'indépendance.
-1. 3. Des relations avec les tiers.
-1. 3. 1. Du secret professionnel.
-1. 3. 2. De l'image de la profession.
-1. 3. 3. De la publicité.
-1. 3. 4. Du papier à lettres.
-1. 3. 5. De la plaque professionnelle.
-1. 3. 6. Des interventions publiques.
-1. 3. 7. Des relations avec les établissements financiers.
-1. 3. 8. Des relations avec les parties à la procédure.
-1. 3. 9. Des relations avec les juridictions et les autorités publiques.
-1. 3. 10. Des relations avec les membres des autres professions judiciaires.
-1. 4. Des relations avec la profession.
-1. 4. 1. Des relations avec les professionnels.
-1. 4. 2. Des collaborateurs.
-1. 4. 3. Des relations avec les instances représentatives.
+2\. 1. Des principes fondamentaux.
+
+2\. 2. Des obligations s'imposant aux professionnels à raison de leur mission de service public.
+
+2\. 2. 1. Des incompatibilités.
+
+2\. 2. 2. De l'indépendance.
+
+2\. 3. Des relations avec les tiers.
+
+2\. 3. 1. Du secret professionnel.
+
+2\. 3. 2. De l'image de la profession.
+
+2\. 3. 3. De la publicité.
+
+2\. 3. 4. Du papier à lettres.
+
+2\. 3. 5. De la plaque professionnelle.
+
+2\. 3. 6. Des interventions publiques.
+
+2\. 3. 7. Des relations avec les établissements financiers.
+
+2\. 3. 8. Des relations avec les parties à la procédure.
+
+2\. 3. 9. Des relations avec les juridictions et les autorités publiques.
+
+2\. 3. 10. Des relations avec les membres des autres professions judiciaires.
+
+2\. 4. Des relations avec la profession.
+
+2\. 4. 1. Des relations avec les professionnels.
+
+2\. 4. 2. Des collaborateurs.
+
+2\. 4. 3. Des relations avec les instances représentatives.
 
 Titre III. ― De la formation et du stage.
 
-3. 1. De l'accès au stage.
-1. 2. De la charte du stage.
-1. 3. De la formation théorique initiale.
-1. 4. De la formation permanente.
-1. 5. Du financement de la formation.
+3\. 1. De l'accès au stage.
+
+3\. 2. De la charte du stage.
+
+3\. 3. De la formation théorique initiale.
+
+3\. 4. De la formation permanente.
+
+3\. 5. Du financement de la formation.
 
 Titre IV. ― Des modalités d'exercice de la profession.
 
-4. 1. Du domicile professionnel.
-1. 2. Des bureaux annexes.
-1. 3. De la carte professionnelle.
-1. 4. De l'exercice sous forme de société.
-1. 5. De l'exécution des mandats et missions.
-1. 5. 1. Des délégations de pouvoir.
-1. 5. 2. Des délégations et modalités de signature.
-1. 5. 3. Des intervenants extérieurs.
-1. 6. De la conservation des pièces et de la sécurité des dossiers.
-1. 7. De l'administration provisoire.
-1. 8. De la comptabilité.
-1. 8. 1. Du répertoire.
-1. 8. 2. Des obligations comptables.
-1. 8. 3. De la comptabilité spéciale.
-1. 8. 4. De l'agrément des logiciels de comptabilité spéciale.
+4\. 1. Du domicile professionnel.
+
+4\. 2. Des bureaux annexes.
+
+4\. 3. De la carte professionnelle.
+
+4\. 4. De l'exercice sous forme de société.
+
+4\. 5. De l'exécution des mandats et missions.
+
+4\. 5. 1. Des délégations de pouvoir.
+
+4\. 5. 2. Des délégations et modalités de signature.
+
+4\. 5. 3. Des intervenants extérieurs.
+
+4\. 6. De la conservation des pièces et de la sécurité des dossiers.
+
+4\. 7. De l'administration provisoire.
+
+4\. 8. De la comptabilité.
+
+4\. 8. 1. Du répertoire.
+
+4\. 8. 2. Des obligations comptables.
+
+4\. 8. 3. De la comptabilité spéciale.
+
+4\. 8. 4. De l'agrément des logiciels de comptabilité spéciale.
 
 Titre V. ― De la surveillance de l'activité.
 
-5. 1. Des divers aspects de la surveillance et du contrôle.
-1. 2. Des contrôles périodiques et occasionnels.
-1. 3. Du contrôle du commissaire aux comptes choisi par le professionnel sur le fondement de l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre 1985 modifié.
-1. 4. De l'inspection.
+5\. 1. Des divers aspects de la surveillance et du contrôle.
+
+5\. 2. Des contrôles périodiques et occasionnels.
+
+5\. 3. Du contrôle du commissaire aux comptes choisi par le professionnel sur le fondement de l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre 1985 modifié.
+
+5\. 4. De l'inspection.
 
 Annexe I. ― Des règles de la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises.
 
 I. ― Définition des livres comptables.
 
-1. 1. Le répertoire des mandats.
-1. 2. Le livre-journal.
-1. 3. Les journaux auxiliaires.
-1. 4. Le grand livre.
-1. 5. Les grands livres auxiliaires.
-1. 6. Les états périodiques.
-1. 6. 1. Les états trimestriels.
-1. 6. 2. Les états de contrôle.
-1. 7. Les carnets de reçus pour les remises d'espèces.
+1\. 1. Le répertoire des mandats.
+
+1\. 2. Le livre-journal.
+
+1\. 3. Les journaux auxiliaires.
+
+1\. 4. Le grand livre.
+
+1\. 5. Les grands livres auxiliaires.
+
+1\. 6. Les états périodiques.
+
+1\. 6. 1. Les états trimestriels.
+
+1\. 6. 2. Les états de contrôle.
+
+1\. 7. Les carnets de reçus pour les remises d'espèces.
 
 II. ― Description du jeu des écritures.
 
-2. 1. Les caractéristiques de l'écriture.
-1. 2. La saisie des écritures.
-1. 3. Les éditions.
-1. 4. La validité des écritures comptables.
+2\. 1. Les caractéristiques de l'écriture.
+
+2\. 2. La saisie des écritures.
+
+2\. 3. Les éditions.
+
+2\. 4. La validité des écritures comptables.
 
 III. ― Comptabilité en euros.
 
-3. 1. Rappel des règles.
-1. 2. Traitement des écarts.
-1. 3. Conversion des historiques.
+3\. 1. Rappel des règles.
+
+3\. 2. Traitement des écarts.
+
+3\. 3. Conversion des historiques.
 
 Annexe II. ― De l'agrément des logiciels de traitement automatisé de la comptabilité spéciale.
 
@@ -113,7 +166,7 @@ Leur non-respect peut entraîner des poursuites disciplinaires à l'initiative e
 
 TITRE IER : **DEFINITIONS**
 
-1. 1. De l'administrateur judiciaire.
+1\. 1. De l'administrateur judiciaire.
 
 Les administrateurs judiciaires sont les mandataires chargés par décision de justice d'administrer les biens d'autrui ou d'exercer des fonctions d'assistance ou de surveillance dans la gestion de ces biens (art. 1er de la loi n° 85-99 du 25 janvier 1985).
 
@@ -127,7 +180,7 @@ Un administrateur judiciaire peut être inscrit sur les deux sous-sections.
 
 Les administrateurs judiciaires en matière commerciale peuvent recevoir des mandats de syndic dans le cadre de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire et la liquidation des biens.
 
-1. 2. Du mandataire judiciaire à la liquidation des entreprises.
+1\. 2. Du mandataire judiciaire à la liquidation des entreprises.
 
 Les mandataires judiciaires à la liquidation des entreprises sont les mandataires chargés par décision de justice de représenter les créanciers et de procéder éventuellement à la liquidation d'une entreprise dans les conditions définies par la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises (art. 19 de la loi n° 85-99 du 25 janvier 1985).
 
@@ -137,7 +190,7 @@ Les mandataires judiciaires à la liquidation des entreprises peuvent recevoir d
 
 TITRE II : **PRINCIPES DE DEONTOLOGIE**
 
-2. 1. Des principes fondamentaux.
+2\. 1. Des principes fondamentaux.
 
 L'indépendance, la probité, l'honneur, la loyauté, la dignité, la conscience, l'humanité, le désintéressement, la délicatesse, la modération, la courtoisie, la confraternité et le tact sont d'impérieux devoirs pour l'administrateur judiciaire et le mandataire judiciaire à la liquidation des entreprises.
 
@@ -147,23 +200,29 @@ Même en dehors de leur exercice professionnel, les administrateurs judiciaires 
 
 Tout administrateur judiciaire et tout mandataire judiciaire à la liquidation des entreprises doit, conformément au serment qu'il a prêté devant la cour d'appel, respecter la déontologie de sa profession.
 
-2. 2. Des obligations s'imposant aux professionnels à raison de leur mission de service public.
+2\. 2. Des obligations s'imposant aux professionnels à raison de leur mission de service public.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises assument une mission de service public dans le cadre d'une activité libérale.
 
 Le système de garantie collective de la responsabilité professionnelle des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises leur crée à cet égard des devoirs particuliers.
 
-2. 2. 1. Des incompatibilités.
-1. 2. 1. 1. Conformément aux dispositions des articles 11 et 29 de la loi n° 85-99 du 25 janvier 1985, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises ne peut exercer d'activité de nature à porter atteinte à son indépendance, à sa dignité et, à l'exception de l'enseignement, au caractère libéral de son exercice professionnel.
-1. 2. 1. 2. Afin qu'il ne soit pas porté atteinte à son indépendance et afin d'éviter tout conflit et toute communauté d'intérêts, il est demandé à tout administrateur judiciaire et tout mandataire judiciaire à la liquidation des entreprises de s'abstenir d'exercer toute activité commerciale, directement ou par personne interposée, et de détenir un mandat social dans une société à objet commercial, à l'exception d'un mandat de liquidateur amiable.
-1. 2. 1. 3. Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises titulaire d'un mandat social dans une société à objet civil ou commercial doit avertir par écrit le Conseil national de tout événement de nature à compromettre la survie de la société en fournissant toutes explications sur les conditions dans lesquelles il exerce ses fonctions. Si le Conseil national estime que ces fonctions deviennent incompatibles avec les principes fondamentaux précités, il convoque l'intéressé pour recevoir ses explications et statuer sur l'opportunité d'une démission desdites fonctions. Le professionnel a la possibilité de se faire assister par tout conseil de son choix.
+2\. 2. 1. Des incompatibilités.
+
+2\. 2. 1. 1. Conformément aux dispositions des articles 11 et 29 de la loi n° 85-99 du 25 janvier 1985, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises ne peut exercer d'activité de nature à porter atteinte à son indépendance, à sa dignité et, à l'exception de l'enseignement, au caractère libéral de son exercice professionnel.
+
+2\. 2. 1. 2. Afin qu'il ne soit pas porté atteinte à son indépendance et afin d'éviter tout conflit et toute communauté d'intérêts, il est demandé à tout administrateur judiciaire et tout mandataire judiciaire à la liquidation des entreprises de s'abstenir d'exercer toute activité commerciale, directement ou par personne interposée, et de détenir un mandat social dans une société à objet commercial, à l'exception d'un mandat de liquidateur amiable.
+
+2\. 2. 1. 3. Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises titulaire d'un mandat social dans une société à objet civil ou commercial doit avertir par écrit le Conseil national de tout événement de nature à compromettre la survie de la société en fournissant toutes explications sur les conditions dans lesquelles il exerce ses fonctions. Si le Conseil national estime que ces fonctions deviennent incompatibles avec les principes fondamentaux précités, il convoque l'intéressé pour recevoir ses explications et statuer sur l'opportunité d'une démission desdites fonctions. Le professionnel a la possibilité de se faire assister par tout conseil de son choix.
 
 Si le Conseil national estime qu'il y a lieu à démission et si l'intéressé ne se plie pas à cette injonction dans le mois suivant sa notification par lettre recommandée avec accusé de réception, le président du Conseil national avise le commissaire du Gouvernement auprès de la commission d'inscription ou de discipline ayant établi la liste sur laquelle figure l'administrateur judiciaire ou le mandataire judiciaire concerné et peut également informer les présidents des juridictions le désignant habituellement.
 
-2. 2. 1. 4.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises peut être président d'une association régie par la loi du 1er juillet 1901.
-1. 2. 1. 5.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises investi d'un mandat public, électif ou non, doit veiller à ce qu'aucune confusion ne puisse s'établir entre l'exercice de sa profession et l'accomplissement de ce mandat.
-1. 2. 2. De l'indépendance.
-1. 2. 2. 1.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises ne doit en aucun cas se trouver dans une position susceptible d'altérer sa liberté d'appréciation, qui doit rester pleine et entière, ou dans une position susceptible d'être perçue comme telle.
+2\. 2. 1. 4.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises peut être président d'une association régie par la loi du 1er juillet 1901.
+
+2\. 2. 1. 5.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises investi d'un mandat public, électif ou non, doit veiller à ce qu'aucune confusion ne puisse s'établir entre l'exercice de sa profession et l'accomplissement de ce mandat.
+
+2\. 2. 2. De l'indépendance.
+
+2\. 2. 2. 1.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises ne doit en aucun cas se trouver dans une position susceptible d'altérer sa liberté d'appréciation, qui doit rester pleine et entière, ou dans une position susceptible d'être perçue comme telle.
 
 Les fonctions d'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises sont notamment incompatibles avec toute situation plaçant l'intéressé dans un état de dépendance, de quelque nature qu'elle soit, à l'égard de toute entreprise pour laquelle un mandat lui est confié ou de tout conseil ou partenaire de ladite entreprise.
 
@@ -173,11 +232,15 @@ L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des en
 
 La qualité d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises est incompatible avec l'acquisition amiable d'actifs d'une personne, physique ou morale, soumise à une procédure collective.
 
-2. 2. 2. 2. Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises reçoit un mandat d'une juridiction, il informe par écrit dans les huit jours de sa désignation le président de ladite juridiction et le procureur de la République compétent des intérêts économiques et financiers qu'il détient directement ou indirectement dans l'entreprise concernée ou dans une entreprise concurrente, et qui peuvent faire obstacle à l'attribution de ce mandat. Dans le cas d'un mandat amiable, il informe dans les mêmes conditions son mandant.
-1. 2. 2. 3. Dès lors qu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises constate en cours de mandat l'existence de faits ou de liens de nature à porter atteinte à son indépendance ou pouvant être perçus comme tels, il en avise sans délai le président de la juridiction qui l'a désigné et le procureur de la République compétent, ou son mandant, en cas de mandat amiable.
-1. 2. 2. 4. Sous réserve de dispositions de la loi n° 90-1258 du 31 décembre 1990 et des décrets n° 93-892 du 6 juillet 1993 et n° 93-1112 du 20 septembre 1993, tout contrôle direct ou indirect de l'exercice professionnel de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises par des personnes physiques ou morales n'appartenant pas à leur profession est prohibé.
-1. 3. Des relations avec les tiers.
-1. 3. 1. Du secret professionnel.
+2\. 2. 2. 2. Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises reçoit un mandat d'une juridiction, il informe par écrit dans les huit jours de sa désignation le président de ladite juridiction et le procureur de la République compétent des intérêts économiques et financiers qu'il détient directement ou indirectement dans l'entreprise concernée ou dans une entreprise concurrente, et qui peuvent faire obstacle à l'attribution de ce mandat. Dans le cas d'un mandat amiable, il informe dans les mêmes conditions son mandant.
+
+2\. 2. 2. 3. Dès lors qu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises constate en cours de mandat l'existence de faits ou de liens de nature à porter atteinte à son indépendance ou pouvant être perçus comme tels, il en avise sans délai le président de la juridiction qui l'a désigné et le procureur de la République compétent, ou son mandant, en cas de mandat amiable.
+
+2\. 2. 2. 4. Sous réserve de dispositions de la loi n° 90-1258 du 31 décembre 1990 et des décrets n° 93-892 du 6 juillet 1993 et n° 93-1112 du 20 septembre 1993, tout contrôle direct ou indirect de l'exercice professionnel de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises par des personnes physiques ou morales n'appartenant pas à leur profession est prohibé.
+
+2\. 3. Des relations avec les tiers.
+
+2\. 3. 1. Du secret professionnel.
 
 Dans le cadre des missions et mandats qui leur sont confiés, et sous réserve des dispositions légales et réglementaires propres à l'exercice de leur activité, les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises sont tenus au secret professionnel dans les conditions prévues par les articles 226-13 et 226-14 du code pénal.
 
@@ -191,7 +254,7 @@ L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des en
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent veiller à ce que tous leurs collaborateurs soient instruits de l'obligation au secret professionnel, qui est aussi la leur, et la respectent.
 
-2. 3. 2. De l'image de la profession.
+2\. 3. 2. De l'image de la profession.
 
 Chaque administrateur judiciaire, chaque mandataire judiciaire à la liquidation des entreprises doit, par son comportement, s'attacher à donner, en toutes circonstances, la meilleure image de sa profession.
 
@@ -199,11 +262,15 @@ A cet égard, les administrateurs judiciaires et les mandataires judiciaires à 
 
 Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit assurer une prestation de qualité.
 
-2. 3. 3. De la publicité.
-1. 3. 3. 1. Toute forme de publicité personnelle, même indirecte, est interdite à l'administrateur judiciaire et au mandataire judiciaire à la liquidation des entreprises.
-1. 3. 3. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises membre ou ancien membre d'une instance professionnelle (Conseil national, conseil d'administration de la caisse de garantie, jury d'examen, conseils des organisations professionnelles, etc.), ou à qui ces instances ont confié une fonction ou une mission, ne peut faire état, pour obtenir un mandat ou à l'occasion de l'accomplissement d'un mandat, ni de cette qualité ni de ces fonctions ou missions.
-1. 3. 3. 3. Le Conseil national et, le cas échéant, les organisations professionnelles peuvent faire ou autoriser toute publicité collective qu'ils jugent utile.
-1. 3. 4. Du papier à lettres.
+2\. 3. 3. De la publicité.
+
+2\. 3. 3. 1. Toute forme de publicité personnelle, même indirecte, est interdite à l'administrateur judiciaire et au mandataire judiciaire à la liquidation des entreprises.
+
+2\. 3. 3. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises membre ou ancien membre d'une instance professionnelle (Conseil national, conseil d'administration de la caisse de garantie, jury d'examen, conseils des organisations professionnelles, etc.), ou à qui ces instances ont confié une fonction ou une mission, ne peut faire état, pour obtenir un mandat ou à l'occasion de l'accomplissement d'un mandat, ni de cette qualité ni de ces fonctions ou missions.
+
+2\. 3. 3. 3. Le Conseil national et, le cas échéant, les organisations professionnelles peuvent faire ou autoriser toute publicité collective qu'ils jugent utile.
+
+2\. 3. 4. Du papier à lettres.
 
 Le papier à lettres des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises, comme tout document destiné à des tiers, notamment les cartes de visite et les cartes de voeux, doit respecter le principe de l'interdiction de la publicité personnelle.
 
@@ -217,7 +284,7 @@ En cas d'exercice dans le cadre d'une personne morale, le papier à lettres doit
 
 Toute autre mention que n'imposeraient pas des dispositions légales ou réglementaires est interdite.
 
-2. 3. 5. De la plaque professionnelle.
+2\. 3. 5. De la plaque professionnelle.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises peuvent apposer, à l'intérieur de l'immeuble où ils exercent, une plaque indiquant leur nom, prénom et qualité d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises, le cas échéant celle d'ancien syndic administrateur judiciaire ou d'ancien administrateur et séquestre près le tribunal judiciaire de Paris, ainsi que la situation de leur étude ou bureau annexe dans l'immeuble.
 
@@ -225,7 +292,7 @@ Une plaque d'aspect sobre, de dimensions limitées et sans portée publicitaire 
 
 Lorsque la profession est exercée dans le cadre d'une personne morale, la plaque peut comporter, outre la forme juridique et la dénomination sociale de la personne morale, les noms et prénoms de chacun des professionnels associés.
 
-2. 3. 6. Des interventions publiques.
+2\. 3. 6. Des interventions publiques.
 
 L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises s'exprime librement dans les domaines de son choix et suivant les moyens qu'il estime appropriés.
 
@@ -233,7 +300,7 @@ Il doit, en toutes circonstances, faire preuve de discrétion et de réserve, pa
 
 Si l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises fait des déclarations concernant les mandats ou missions qui lui sont confiés ou sur des questions générales en rapport avec son activité professionnelle, il doit le faire dans le respect du secret professionnel. Il doit en outre indiquer à quel titre il s'exprime et faire preuve d'une vigilance particulière.
 
-2. 3. 7. Des relations avec les établissements financiers.
+2\. 3. 7. Des relations avec les établissements financiers.
 
 Lorsqu'ils traitent à titre personnel avec un établissement financier avec lequel ils entretiennent une relation professionnelle dans le cadre des mandats qui leur sont confiés, les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent :
 
@@ -243,7 +310,7 @@ Lorsqu'ils traitent à titre personnel avec un établissement financier avec leq
 
 ― exclure toute clause de fidélité commerciale.
 
-2. 3. 8. Des relations avec les parties à la procédure.
+2\. 3. 8. Des relations avec les parties à la procédure.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent aux diverses parties à la procédure tous leurs égards ainsi que leur conscience professionnelle, l'équité, la probité et l'information la plus complète possible.
 
@@ -261,7 +328,7 @@ Il leur appartient de faire circuler l'information sans délai, cette célérit�
 
 Ils veillent au respect du principe du contradictoire dans la mesure du possible et à exercer en tout état de cause leurs fonctions dans le respect de la dignité et des droits de chacun.
 
-2. 3. 9. Des relations avec les juridictions et les autorités publiques.
+2\. 3. 9. Des relations avec les juridictions et les autorités publiques.
 
 Dans ses relations avec les juridictions mandantes, le professionnel s'efforce d'être personnellement présent aux audiences déterminantes pour l'accomplissement de son mandat.
 
@@ -269,15 +336,17 @@ Il exerce ses fonctions avec loyauté et transparence à l'égard de la juridict
 
 Plus généralement, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises s'efforce de faire montre, dans l'exercice de ses fonctions, de loyauté et de courtoisie à l'égard des autorités publiques avec lesquelles il est en contact.
 
-2. 3. 10. Des relations avec les membres des autres professions judiciaires.
+2\. 3. 10. Des relations avec les membres des autres professions judiciaires.
 
 Tout acte judiciaire, extra-judiciaire ou lettre en tenant lieu, établi par un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises ou sur ses instructions et dirigé, à titre personnel, contre un administrateur judiciaire, un mandataire judiciaire à la liquidation des entreprises ainsi que contre tout membre des professions judiciaires (avocat, officier ministériel, auxiliaire de justice, expert judiciaire), ou les mettant en cause, et ce quelle que soit la forme juridique sous laquelle ces derniers exercent leur activité, doit être préalablement soumis au visa du président du Conseil national pour lui permettre, le cas échéant, d'inviter les parties à la conciliation ou de conseiller une modération de l'expression.
 
 Le visa du président du Conseil national et son éventuelle invitation à la conciliation ne constituent ni une autorisation, ni une décision, ni une approbation, mais une recommandation que l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises est en droit de ne pas suivre, sauf à répondre de tout manquement aux principes fondamentaux précités.
 
-2. 4. Des relations avec la profession.
-1. 4. 1. Des relations avec les professionnels.
-1. 4. 1. 1. Des bonnes relations entre confrères.
+2\. 4. Des relations avec la profession.
+
+2\. 4. 1. Des relations avec les professionnels.
+
+2\. 4. 1. 1. Des bonnes relations entre confrères.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent entretenir des rapports de courtoisie et de confraternité. Ils se doivent mutuellement conseil et assistance morale.
 
@@ -295,7 +364,7 @@ Le ou les administrateurs judiciaires ou mandataires judiciaires à la liquidati
 
 ― faire diligence pour obtenir, au profit du confrère frappé d'invalidité ou d'incapacité ou des ayants droit du confrère décédé, le paiement de tous honoraires restant éventuellement dus.
 
-2. 4. 1. 2. Des differends entre confrères.
+2\. 4. 1. 2. Des differends entre confrères.
 
 Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises qui a un différend lié à l'exercice de la profession avec un autre administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit d'abord tenter de trouver avec lui une solution amiable. En cas d'échec, il doit soumettre le différend pour conciliation au président du Conseil national.
 
@@ -303,7 +372,7 @@ De même, en cas de différend lié à l'exercice de la profession au sein d'une
 
 La procédure de conciliation devant le président du Conseil national ou son délégué est un préalable obligatoire à toute procédure judiciaire : elle est conduite dans le respect du principe du contradictoire et ne peut, sauf accord des parties, durer plus de deux mois.
 
-2. 4. 1. 3. De la concurrence.
+2\. 4. 1. 3. De la concurrence.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent laisser s'exercer le libre choix des juridictions comme de toute personne pouvant avoir recours à leurs services. Ils doivent s'abstenir de tout acte tendant à influencer ce choix comme de tirer profit de manoeuvres extérieures ayant eu pour résultat d'influencer ce choix.
 
@@ -319,7 +388,7 @@ Elle interdit toute recherche de mandats ou de missions, notamment :
 
 Le professionnel ne peut prétendre disposer d'une clientèle. Il ne peut donc passer de convention de rétrocession d'honoraires qui n'aurait d'autre finalité que la rémunération d'un droit de présentation.
 
-2. 4. 2. Des collaborateurs.
+2\. 4. 2. Des collaborateurs.
 
 Administrateurs judiciaires et mandataires judiciaires à la liquidation des entreprises doivent assurer à leurs collaborateurs des conditions de travail moralement et matériellement satisfaisantes dans le respect du droit du travail.
 
@@ -327,14 +396,15 @@ Ils ont le devoir d'encourager et de surveiller le perfectionnement de leurs col
 
 Ils doivent en outre veiller soigneusement au choix de leurs collaborateurs et ne s'entourer que d'un personnel donnant toutes garanties au point de vue de la moralité, de la discrétion et de la compétence.
 
-2. 4. 3. Des relations avec les instances représentatives.
-1. 4. 3. 1. De la protection du titre.
+2\. 4. 3. Des relations avec les instances représentatives.
+
+2\. 4. 3. 1. De la protection du titre.
 
 Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises ayant connaissance d'un cas d'exercice illégal de l'activité d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises ou d'un cas d'usage abusif du titre d'administrateur judiciaire ou de mandataire judiciaire à liquidation des entreprises informe le président du Conseil national.
 
 Le président du Conseil national en avise le ou les procureurs de la République près les juridictions concernées et le magistrat coordonnateur des inspections pour leur permettre de prendre toutes mesures utiles.
 
-2. 4. 3. 2. Des cotisations au Conseil national et à la caisse de garantie.
+2\. 4. 3. 2. Des cotisations au Conseil national et à la caisse de garantie.
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises ont l'obligation de régler sans délai leurs cotisations au Conseil national et à la caisse de garantie.
 
@@ -342,11 +412,11 @@ Si la cotisation n'est pas réglée dans le mois suivant mise en demeure par let
 
 Si l'intéressé ne s'est toujours pas exécuté dans le mois suivant rappel par lettre recommandée avec accusé de réception, le président du Conseil national ou de la caisse de garantie, selon le cas, avise le commissaire du Gouvernement près la commission d'inscription et de discipline ayant établi la liste sur laquelle figure l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises concerné et peut également informer les présidents des juridictions le désignant habituellement.
 
-2. 4. 3. 3. Des obligations des membres élus aux instances représentatives.
+2\. 4. 3. 3. Des obligations des membres élus aux instances représentatives.
 
 Elu ou désigné au sein d'instances professionnelles pour assumer une fonction ou pour accomplir une mission, tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit consacrer à ces fonction et mission le temps nécessaire, au bénéfice de la profession.
 
-2. 4. 3. 4. Des obligations diverses vis-à-vis du Conseil national et de la caisse de garantie.
+2\. 4. 3. 4. Des obligations diverses vis-à-vis du Conseil national et de la caisse de garantie.
 
 Si une procédure judiciaire à laquelle un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est partie est, par ses incidences possibles, de nature à intéresser tout ou partie de ses confrères dans les conditions de leur exercice professionnel, il doit en informer sans délai le président du Conseil national.
 
@@ -356,7 +426,7 @@ Tout administrateur judiciaire ou tout mandataire judiciaire à la liquidation d
 
 TITRE III : **DE LA FORMATION ET DU STAGE**
 
-3. 1. De l'accès au stage.
+3\. 1. De l'accès au stage.
 
 La formation régulière de stagiaires par les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises conditionne la pérennité de l'accomplissement de leur mission légale au service de l'économie et des justiciables. Elle est un impérieux devoir pour la profession toute entière.
 
@@ -368,7 +438,7 @@ Pour faciliter la mise en relation des candidats au stage et des maîtres de sta
 
 Un lien de confiance étant nécessaire entre maître de stage et stagiaire, chaque candidat au stage choisit librement son maître de stage et chaque maître de stage choisit librement son stagiaire.
 
-3. 2. De la charte du stage.
+3\. 2. De la charte du stage.
 
 Le stage consiste dans l'exécution de travaux professionnels complétés par des actions de formation organisées notamment par le Conseil national. Ces actions comportent des enseignements théoriques et pratiques assurés par des personnes qualifiées.
 
@@ -412,13 +482,13 @@ La charte de suivi de stage ainsi que la convention de stage sont adressées par
 
 La convention de stage ne peut comprendre de clauses limitant les possibilités ultérieures d'installation du stagiaire.
 
-3. 3. De la formation théorique initiale.
+3\. 3. De la formation théorique initiale.
 
 Conformément à la mission qui lui a été assignée, le Conseil national organise la formation théorique des stagiaires.
 
 Il leur propose gracieusement un cycle de cours leur permettant d'acquérir les connaissances nécessaires pour compléter leur formation pratique et leur permettre de présenter utilement l'examen professionnel.
 
-3. 4. De la formation permanente.
+3\. 4. De la formation permanente.
 
 Chaque administrateur judiciaire, chaque mandataire judiciaire à la liquidation des entreprises doit, en permanence, faire les efforts de recherche nécessaires pour améliorer la qualité de ses services et maintenir le haut degré de compétence professionnelle qu'exigent les mandats et missions qui lui sont confiés.
 
@@ -430,7 +500,7 @@ Le Conseil national organise chaque année des séminaires ou sessions de format
 
 Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises établissent librement leur programme de formation qui doit obligatoirement comprendre un ou plusieurs séminaires ou sessions de formation organisés par le Conseil national ou validés par lui après avis de sa commission de formation professionnelle.
 
-3. 5. Du financement de la formation.
+3\. 5. Du financement de la formation.
 
 Les actions de formation sont arrêtées par le Conseil national après avis de la commission de formation professionnelle.
 
@@ -438,13 +508,13 @@ Sur avis de la commission de formation professionnelle, le Conseil national met 
 
 TITRE IV : **DES MODALITES D'EXERCICE DE LA PROFESSION**
 
-4. 1. Du domicile professionnel.
+4\. 1. Du domicile professionnel.
 
 L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises doit disposer d'une étude adaptée à la bonne exécution des mandats qui lui sont confiés.
 
 L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises ne peut, dans l'exercice de son mandat, sauf cas exceptionnel, recevoir ou s'entretenir avec ses interlocuteurs que dans un lieu garantissant la dignité et l'indépendance de ses fonctions.
 
-4. 2. Des bureaux annexes.
+4\. 2. Des bureaux annexes.
 
 L'ouverture d'un bureau annexe par un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est soumise à l'autorisation du commissaire du Gouvernement près la commission d'inscription et de discipline ayant procédé à son inscription.
 
@@ -456,7 +526,7 @@ Toute création d'un bureau annexe nécessite :
 
 ― des moyens informatiques qui doivent permettre une centralisation au domicile professionnel des éléments relatifs aux mandats et aux opérations comptables correspondantes.
 
-4. 3. De la carte professionnelle.
+4\. 3. De la carte professionnelle.
 
 Le président du Conseil national établit une carte professionnelle pour les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises inscrits sur les listes qui lui en font la demande.
 
@@ -464,38 +534,41 @@ Cette carte reprend les mentions suivantes : nom, prénom, date et lieu de naiss
 
 La carte doit être restituée au commissaire du Gouvernement par l'intéressé radié ou retiré de la liste.
 
-4. 4. De l'exercice sous forme de société.
+4\. 4. De l'exercice sous forme de société.
 
 Lorsqu'un professionnel crée une société pour l'exercice de ses fonctions, quelle qu'en soit la forme, il doit cesser son activité individuelle et solliciter le transfert de ses mandats à la société.
 
-4. 5. De l'exécution des mandats et missions.
+4\. 5. De l'exécution des mandats et missions.
 
 1.L'administrateur ou le mandataire judiciaire à la liquidation des entreprises ne doit pas accepter un nombre de mandats ou de missions incompatible avec les moyens et l'organisation de son étude.
 
-2. Le mandataire de justice doit mettre en place des méthodes de gestion rationnelles et efficaces afin de permettre un travail de qualité sur les mandats confiés.
+2\. Le mandataire de justice doit mettre en place des méthodes de gestion rationnelles et efficaces afin de permettre un travail de qualité sur les mandats confiés.
 
 3.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises doit veiller dans le cadre des mandats et missions qui lui sont confiés à effectuer ses diligences dans un délai raisonnable. Il doit se fixer pour règle de requérir le plus rapidement possible la clôture des procédures.
 
-4. Le professionnel doit, dès qu'il en a la possibilité et à tout moment de la procédure, procéder à des répartitions de fonds au moins partielles, notamment au profit des créanciers.
+4\. Le professionnel doit, dès qu'il en a la possibilité et à tout moment de la procédure, procéder à des répartitions de fonds au moins partielles, notamment au profit des créanciers.
 
-1. Le professionnel doit veiller à toute étape de la procédure à informer les autorités de contrôle du déroulement des opérations au travers de comptes rendus cohérents et circonstanciés. Il veille en toutes circonstances à ce que l'exécution des décisions de justice soit assurée.
+5\. Le professionnel doit veiller à toute étape de la procédure à informer les autorités de contrôle du déroulement des opérations au travers de comptes rendus cohérents et circonstanciés. Il veille en toutes circonstances à ce que l'exécution des décisions de justice soit assurée.
 
-1. 5. 1. Des délégations de pouvoir.
+4\. 5. 1. Des délégations de pouvoir.
 
 Le professionnel conserve personnellement l'entière responsabilité dans l'exécution des mandats et missions qui lui sont confiés.
 
 Il peut toutefois déléguer certaines des tâches qui lui incombent à des collaborateurs. Dans ce cas, le professionnel conserve la maîtrise de son dossier. La délégation qu'il accorde ne pourra être que partielle et sera constatée dans un écrit conservé à l'étude et annexé au document permanent de contrôle.
 
-4. 5. 2. Des délégations et modalités de signature.
-1. 5. 2. 1. Un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises ne peut déléguer sa signature qu'à un confrère ou à un collaborateur salarié.
-1. 5. 2. 2. Toute délégation de signature à un confrère peut être donnée sans restriction.
-1. 5. 2. 3. La délégation de signature à un collaborateur salarié intervient selon les modalités précisées ci-après :
+4\. 5. 2. Des délégations et modalités de signature.
+
+4\. 5. 2. 1. Un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises ne peut déléguer sa signature qu'à un confrère ou à un collaborateur salarié.
+
+4\. 5. 2. 2. Toute délégation de signature à un confrère peut être donnée sans restriction.
+
+4\. 5. 2. 3. La délégation de signature à un collaborateur salarié intervient selon les modalités précisées ci-après :
 
 Le collaborateur doit être le salarié exclusif de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises ou celui de la personne morale dans le cadre de laquelle le professionnel exerce son activité.
 
 Le collaborateur doit exercer son activité sous l'autorité directe de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises et disposer d'une expérience et d'une compétence suffisantes.
 
-4. 5. 2. 4. En matière bancaire, la délégation de signature obéit aux règles ci-après.
+4\. 5. 2. 4. En matière bancaire, la délégation de signature obéit aux règles ci-après.
 
 Pour les opérations bancaires de crédit, la signature peut être déléguée à tout collaborateur répondant aux conditions ci-dessus.
 
@@ -503,7 +576,7 @@ Pour les opérations bancaires de débit, le bénéficiaire de la délégation d
 
 Une distinction doit par ailleurs être faite selon les comptes et les types de mission :
 
-1. Comptes ouverts au nom d'un tiers :
+1\. Comptes ouverts au nom d'un tiers :
 
 a) Mission de remplacement, interdiction bancaire du débiteur, poursuite d'activité en liquidation judiciaire :
 
@@ -521,7 +594,7 @@ c) Mission de surveillance :
 
 L'administrateur judiciaire n'intervient pas dans le fonctionnement des comptes bancaires, sauf cas d'interdiction bancaire.
 
-2. Comptes ouverts au nom du professionnel :
+2\. Comptes ouverts au nom du professionnel :
 
 a) Compte dit AGS ouvert à la Caisse des dépôts et consignations :
 
@@ -547,7 +620,7 @@ d) Comptes ouverts dans d'autres établissements financiers :
 
 Un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises ne peut, à titre professionnel, ouvrir des comptes à son nom dans un autre établissement financier que la Caisse des dépôts et consignations que lorsqu'il est désigné dans le cadre d'un mandat amiable et, dans le seul cas où il a obtenu l'accord de son mandant, ceci conformément aux dispositions de l'article 68 du décret n° 85-1389 du 27 décembre 1985 Aucune délégation de signature ne peut intervenir sur ces comptes sauf nécessité impérieuse dûment établie.
 
-4. 5. 3. Des intervenants extérieurs.
+4\. 5. 3. Des intervenants extérieurs.
 
 Les administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises peuvent recourir à des intervenants extérieurs pour accomplir au profit de l'entreprise des tâches techniques non comprises dans les missions qui leur sont confiées en cas de nécessité dûment appréciée par l'autorité judiciaire compétente.
 
@@ -565,17 +638,19 @@ Il est rappelé que les sommes versées par les professionnels aux officiers pub
 
 Enfin, lorsque les administrateurs judiciaires et mandataires judiciaires font appel à des personnes extérieures pour exécuter des tâches qui relèvent de la mission que leur a confiée le tribunal, ils ne doivent pas faire supporter la rémunération de ces intervenants par les procédures mais les rétribuer sur leurs propres émoluments qu'ils perçoivent en application du décret tarifaire du 27 décembre 1985 (art. 32 du décret n° 85-1390 du 27 décembre 1985).
 
-4. 6. De la conservation des pièces et de la sécurité des dossiers.
-1. 6. 1. Quel que soit le contexte souvent délicat dans lequel il accomplit ses mandats et missions, tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit veiller à ce qu'ils se déroulent dans les meilleures conditions de sécurité.
+4\. 6. De la conservation des pièces et de la sécurité des dossiers.
+
+4\. 6. 1. Quel que soit le contexte souvent délicat dans lequel il accomplit ses mandats et missions, tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit veiller à ce qu'ils se déroulent dans les meilleures conditions de sécurité.
 
 Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est informé d'un risque d'atteinte aux personnes ou aux biens dans le cadre d'un mandat ou d'une mission qui lui est confié, il en informe le procureur de la République pour lui permettre de prendre toutes mesures utiles.
 
-4. 6. 2. Les carnets de chèques, les lettres-chèques et tous autres moyens de paiement doivent être conservés dans un local non ouvert au public ou dans un coffre-fort.
-1. 6. 3. Lorsque la comptabilité d'un administrateur judiciaire ou d'un mandataire judiciaire à la liquidation des entreprises est tenue par un moyen informatique, elle fait l'objet d'une sauvegarde au minimum hebdomadaire, qui devra être quotidienne dans le délai d'un an à compter de la notification des présentes règles. Elle doit être conservée dans un coffre-fort ignifugé ou à l'extérieur de l'étude de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises.
+4\. 6. 2. Les carnets de chèques, les lettres-chèques et tous autres moyens de paiement doivent être conservés dans un local non ouvert au public ou dans un coffre-fort.
+
+4\. 6. 3. Lorsque la comptabilité d'un administrateur judiciaire ou d'un mandataire judiciaire à la liquidation des entreprises est tenue par un moyen informatique, elle fait l'objet d'une sauvegarde au minimum hebdomadaire, qui devra être quotidienne dans le délai d'un an à compter de la notification des présentes règles. Elle doit être conservée dans un coffre-fort ignifugé ou à l'extérieur de l'étude de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises.
 
 Si, par exception, la comptabilité est tenue manuellement, les registres comptables doivent également être conservés dans un coffre-fort ignifugé.
 
-4. 6. 4. Pour chaque mandat ou mission, les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent assurer la conservation des pièces qu'il sont amenés à détenir et couvrir le cas échéant ce risque par la mise en place d'une police d'assurance.
+4\. 6. 4. Pour chaque mandat ou mission, les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises doivent assurer la conservation des pièces qu'il sont amenés à détenir et couvrir le cas échéant ce risque par la mise en place d'une police d'assurance.
 
 Pour les pièces essentielles du dossier (pièces de procédure, justificatifs des mouvements financiers sur les comptes ouverts au nom du professionnel), la durée est de dix ans à compter de la date de la reddition des comptes. Les archives doivent être conservées dans des conditions de sécurité satisfaisantes.S'il est fait appel à une société d'archivage, le coût de cette prestation sera supporté par le professionnel.
 
@@ -583,12 +658,17 @@ Les pièces moins essentielles du dossier seront conservées dans les mêmes con
 
 Les archives confiées au professionnel par l'entreprise sous mandat doivent être conservées dans les conditions de durée prévues par les lois et les règlements. Si l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises a recours à une société d'archivage, cette prestation doit donner lieu à autorisation judiciaire qui sera sollicitée sur la base d'un devis préalable. Le coût correspondant peut alors être pris en charge par la procédure. Dans le cas où le professionnel assure lui-même l'archivage, il veillera à ce qu'il soit effectué dans des conditions de sécurité satisfaisantes.
 
-4. 7. De l'administration provisoire.
-1. 7. 1. Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, il en informe, ou en fait informer, sans délai le président du Conseil national.
-1. 7. 2. Dès qu'il a connaissance que, pour quelque cause que ce soit, un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, le président du Conseil national en avise le président du tribunal judiciaire dans le ressort duquel l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises a son domicile professionnel et le procureur de la République près ce tribunal en vue de la désignation d'un administrateur provisoire. Il leur communique les noms de plusieurs professionnels susceptibles d'assurer cette mission. La mission de l'administrateur provisoire ainsi que sa durée sont définies par la décision de justice qui procède à sa désignation.
-1. 7. 3. Le professionnel désigné comme administrateur provisoire ne peut en aucun cas, au terme de sa mission, poursuivre des mandats ou missions pour lesquels l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises empêché avait été initialement désigné. Cette interdiction est néanmoins levée dès l'instant où l'empêchement ayant justifié la désignation de l'administrateur provisoire devient définitif.
-1. 8. De la comptabilité.
-1. 8. 1. Du répertoire.
+4\. 7. De l'administration provisoire.
+
+4\. 7. 1. Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, il en informe, ou en fait informer, sans délai le président du Conseil national.
+
+4\. 7. 2. Dès qu'il a connaissance que, pour quelque cause que ce soit, un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, le président du Conseil national en avise le président du tribunal judiciaire dans le ressort duquel l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises a son domicile professionnel et le procureur de la République près ce tribunal en vue de la désignation d'un administrateur provisoire. Il leur communique les noms de plusieurs professionnels susceptibles d'assurer cette mission. La mission de l'administrateur provisoire ainsi que sa durée sont définies par la décision de justice qui procède à sa désignation.
+
+4\. 7. 3. Le professionnel désigné comme administrateur provisoire ne peut en aucun cas, au terme de sa mission, poursuivre des mandats ou missions pour lesquels l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises empêché avait été initialement désigné. Cette interdiction est néanmoins levée dès l'instant où l'empêchement ayant justifié la désignation de l'administrateur provisoire devient définitif.
+
+4\. 8. De la comptabilité.
+
+4\. 8. 1. Du répertoire.
 
 Le répertoire général centralisateur des mandats et missions prévu à l'article 59 du décret n° 85-1389 du 27 décembre 1985 est tenu manuellement ou par informatique.
 
@@ -600,7 +680,7 @@ Ces modalités de tenue doivent :
 
 Les modalités pratiques de tenue du répertoire sont exposées en annexe I.
 
-4. 8. 2. Des obligations comptables.
+4\. 8. 2. Des obligations comptables.
 
 Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des entreprises doit tenir de façon obligatoirement séparée :
 
@@ -610,7 +690,7 @@ Tout administrateur judiciaire ou mandataire judiciaire à la liquidation des en
 
 La comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises est entièrement distincte de la comptabilité des personnes physiques ou morales pour lesquelles des mandats ou des missions leur sont confiés. Les règles de tenue de cette dernière comptabilité sont fonction du statut de la personne physique ou morale concernée ; en cette matière, les obligations de l'administrateur judiciaire ou du mandataire judiciaire à la liquidation des entreprises dépendent de la nature et de l'étendue de son mandat ou de sa mission.
 
-4. 8. 3. De la comptabilité spéciale.
+4\. 8. 3. De la comptabilité spéciale.
 
 La comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises enregistre, pour chaque mandat ou mission reçue, l'ensemble des mouvements qui affectent les comptes ouverts au nom du professionnel à la Caisse des dépôts et consignations et, le cas échéant, par dérogation pour les mandats amiables, dans d'autres établissements financiers, ainsi que les opérations liées à ces mouvements.
 
@@ -620,7 +700,7 @@ La comptabilité spéciale des administrateurs judiciaires et des mandataires ju
 
 Les règles régissant la comptabilité spéciale des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises sont précisées en annexe I.
 
-4. 8. 4. De l'agrément des logiciels de comptabilité spéciale.
+4\. 8. 4. De l'agrément des logiciels de comptabilité spéciale.
 
 La comptabilité peut être tenue par tout procédé technique approprié à condition que le procédé et les méthodes utilisés confèrent par eux-mêmes un caractère d'authenticité aux écritures comptables et permettent tous les rapprochements utiles et nécessaires à un contrôle.
 
@@ -630,7 +710,7 @@ Le logiciel de traitement automatisé de tenue de la comptabilité spéciale doi
 
 TITRE V : **DE LA SURVEILLANCE DE L'ACTIVITE**
 
-5. 1. Des divers aspects de la surveillance et du contrôle.
+5\. 1. Des divers aspects de la surveillance et du contrôle.
 
 A travers leurs mandats et missions, les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises se voient confier la gestion de biens de tiers.
 
@@ -644,11 +724,15 @@ L'existence de ces mesures de surveillance, d'inspection et de contrôle ne doit
 
 Au cas, nécessairement exceptionnel mais possible, où les modalités d'accomplissement d'une mesure de contrôle lui apparaîtraient de nature à entraver gravement l'exécution des mandats ou des missions qui lui sont confiés ou à porter atteinte à son indépendance, l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises concerné a le devoir d'en informer immédiatement le président du Conseil national.
 
-5. 2. Des contrôles périodiques et occasionnels.
-1. 2. 1. Les contrôles dont la charge est légalement confiée au Conseil national visent à s'assurer de la régularité des prestations fournies par le professionnel au regard des dispositions légales et réglementaires. Ils ont par ailleurs pour objet de veiller à la qualité du service rendu et de permettre l'amélioration des pratiques professionnelles.
-1. 2. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises désigné en qualité de contrôleur ne peut s'abstenir. De la même manière, le professionnel contrôlé ne peut récuser l'un ou l'autre de ses contrôleurs. Il peut être dérogé à ce principe en cas d'incompatibilité manifeste, à la requête motivée de l'une ou l'autre des parties, cette demande étant soumise à l'autorité qui a requis le contrôle.
-1. 2. 3. Sauf le cas des contrôles occasionnels effectués de manière inopinée, la date du contrôle est fixée d'un commun accord entre contrôleurs et contrôlé ou, à défaut, par le président du Conseil national.
-1. 2. 4.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises contrôleur doit apporter à sa mission le soin et la fermeté nécessaires à son efficacité sans se départir de la courtoisie due à un confrère. Il doit user de toute la discrétion compatible avec l'accomplissement de sa mission et veiller que les opérations de contrôle ne perturbent pas l'exécution des mandats et missions du professionnel contrôlé. Il est tenu au secret professionnel.
+5\. 2. Des contrôles périodiques et occasionnels.
+
+5\. 2. 1. Les contrôles dont la charge est légalement confiée au Conseil national visent à s'assurer de la régularité des prestations fournies par le professionnel au regard des dispositions légales et réglementaires. Ils ont par ailleurs pour objet de veiller à la qualité du service rendu et de permettre l'amélioration des pratiques professionnelles.
+
+5\. 2. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises désigné en qualité de contrôleur ne peut s'abstenir. De la même manière, le professionnel contrôlé ne peut récuser l'un ou l'autre de ses contrôleurs. Il peut être dérogé à ce principe en cas d'incompatibilité manifeste, à la requête motivée de l'une ou l'autre des parties, cette demande étant soumise à l'autorité qui a requis le contrôle.
+
+5\. 2. 3. Sauf le cas des contrôles occasionnels effectués de manière inopinée, la date du contrôle est fixée d'un commun accord entre contrôleurs et contrôlé ou, à défaut, par le président du Conseil national.
+
+5\. 2. 4.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises contrôleur doit apporter à sa mission le soin et la fermeté nécessaires à son efficacité sans se départir de la courtoisie due à un confrère. Il doit user de toute la discrétion compatible avec l'accomplissement de sa mission et veiller que les opérations de contrôle ne perturbent pas l'exécution des mandats et missions du professionnel contrôlé. Il est tenu au secret professionnel.
 
 L'administrateur judiciaire et le mandataire judiciaire à la liquidation des entreprises contrôlé doit recevoir les contrôleurs avec la même courtoisie et tout faire pour faciliter leur tâche.
 
@@ -656,24 +740,29 @@ Pour l'accomplissement de leur mission, les contrôleurs ont accès à toutes in
 
 Le professionnel contrôlé doit notamment mettre à disposition des contrôleurs le dossier permanent concernant l'organisation et la gestion de son étude et se soumettre aux investigations menées par les contrôleurs dans le cadre des dispositions légales et réglementaires et de l'arrêté du 16 août 1999 régissant ces contrôles.
 
-5. 2. 5. Les contrôleurs doivent donner connaissance à l'administrateur judiciaire ou au mandataire judiciaire à la liquidation des entreprises contrôlé des éventuelles anomalies relevées et lui faire toutes les recommandations leur apparaissant utiles.
-1. 2. 6. Dans les trois mois qui suivent les opérations de contrôle, les contrôleurs adressent au professionnel contrôlé un projet de rapport pour permettre au contrôlé de formuler ses observations.
+5\. 2. 5. Les contrôleurs doivent donner connaissance à l'administrateur judiciaire ou au mandataire judiciaire à la liquidation des entreprises contrôlé des éventuelles anomalies relevées et lui faire toutes les recommandations leur apparaissant utiles.
+
+5\. 2. 6. Dans les trois mois qui suivent les opérations de contrôle, les contrôleurs adressent au professionnel contrôlé un projet de rapport pour permettre au contrôlé de formuler ses observations.
 
 Le rapport définitif, accompagné des observations éventuelles du professionnel contrôlé, est ensuite signé par les trois contrôleurs, dans le respect des dispositions réglementaires.
 
 Les contrôleurs avisent immédiatement les autorités mandantes, le président du Conseil national ainsi que le procureur de la République compétent de toute infraction constatée à l'encontre du professionnel contrôlé au regard de l'obligation de représentation des fonds.
 
-5. 3. Du contrôle du commissaire aux comptes choisi par le professionnel sur le fondement de l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre 1985 modifié.
-1. 3. 1. Il appartient à chaque professionnel de veiller à désigner dans les conditions prévues par l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre un commissaire aux comptes titulaire et un commissaire aux comptes suppléant.
-1. 3. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises :
+5\. 3. Du contrôle du commissaire aux comptes choisi par le professionnel sur le fondement de l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre 1985 modifié.
+
+5\. 3. 1. Il appartient à chaque professionnel de veiller à désigner dans les conditions prévues par l'article 58, alinéa 2, du décret n° 85-1389 du 27 décembre un commissaire aux comptes titulaire et un commissaire aux comptes suppléant.
+
+5\. 3. 2.L'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises :
 
 ― tient l'ensemble des documents et pièces justificatives constituant sa comptabilité spéciale à la disposition du commissaire aux comptes afin que celui-ci soit en mesure de vérifier la conformité de ladite comptabilité spéciale aux règles en vigueur et de s'assurer de la représentation des fonds ;
 
 ― facilite l'accès du commissaire aux comptes aux comptes ouverts au nom de tiers et à la comptabilité générale de l'étude.
 
-5. 3. 3. En cas de différend entre le professionnel et son commissaire aux comptes, notamment sur le coût de son intervention, le professionnel en réfère au président du Conseil national.
-1. 3. 4. Le professionnel doit aviser de toute décision de retrait de la liste son commissaire aux comptes en vue de l'établissement de l'attestation de vérification de comptabilité dans les conditions prévues par l'article 58-2 du décret n° 85-1389 du 27 décembre 1985 modifié.
-1. 4. De l'inspection.
+5\. 3. 3. En cas de différend entre le professionnel et son commissaire aux comptes, notamment sur le coût de son intervention, le professionnel en réfère au président du Conseil national.
+
+5\. 3. 4. Le professionnel doit aviser de toute décision de retrait de la liste son commissaire aux comptes en vue de l'établissement de l'attestation de vérification de comptabilité dans les conditions prévues par l'article 58-2 du décret n° 85-1389 du 27 décembre 1985 modifié.
+
+5\. 4. De l'inspection.
 
 Tout professionnel sollicité par un magistrat inspecteur régional ou par le magistrat coordonnateur des inspections pour l'assister dans le cadre de l'inspection d'un confrère ne peut s'abstenir. En cas d'incompatibilité manifeste, il doit adresser une demande motivée à l'autorité requérante qui sera amenée à trancher.
 

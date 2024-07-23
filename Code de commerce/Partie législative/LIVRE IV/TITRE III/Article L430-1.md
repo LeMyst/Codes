@@ -10,6 +10,6 @@ II. - La création d'une entreprise commune accomplissant de manière durable to
 
 III. - Aux fins de l'application du présent titre, le contrôle découle des droits, contrats ou autres moyens qui confèrent, seuls ou conjointement et compte tenu des circonstances de fait ou de droit, la possibilité d'exercer une influence déterminante sur l'activité d'une entreprise, et notamment :
 
-- des droits de propriété ou de jouissance sur tout ou partie des biens d'une entreprise ;
+\- des droits de propriété ou de jouissance sur tout ou partie des biens d'une entreprise ;
 
-- des droits ou des contrats qui confèrent une influence déterminante sur la composition, les délibérations ou les décisions des organes d'une entreprise.
+\- des droits ou des contrats qui confèrent une influence déterminante sur la composition, les délibérations ou les décisions des organes d'une entreprise.

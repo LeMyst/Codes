@@ -6,7 +6,7 @@ I. - SONORITÉ DES SIGNAUX
 
 Les avertisseurs sonores actionnés mécaniquement utilisés par les bateaux en navigation intérieure doivent être capables de produire des signaux sonores présentant les caractéristiques suivantes :
 
-1. Fréquence :
+1\. Fréquence :
 
 a) Pour les bateaux motorisés, à l'exception des menues embarcations visées sous b), la fréquence fondamentale est de 200 Hz avec une tolérance de + 20 % ;
 
@@ -14,7 +14,7 @@ b) Pour les bateaux non motorisés et pour les menues embarcations la fréquence
 
 c) Pour les signaux tritonaux utilisés par les bateaux naviguant au radar dans des conditions de visibilité réduite, les fréquences fondamentales des sons sont comprises entre 165 et 297 Hz avec intervalle d'au moins deux tons entiers entre le son le plus haut et le son le plus bas.
 
-2. Niveau de pression acoustique :
+2\. Niveau de pression acoustique :
 
 Les niveaux de pression acoustique indiqués ci-après sont mesurés ou rapportés à 1 m en avant du centre de l'ouverture du pavillon, la mesure étant effectuée autant que possible en champ libre.
 
@@ -32,9 +32,9 @@ III. - SIGNAUX SONORES À UTILISER PAR LES BATEAUX
 
 Les signaux sonores autres que les coups de cloche et le signal tritonal doivent être constitués par l'émission d'un son ou de plusieurs sons consécutifs ayant les caractéristiques suivantes :
 
-- son bref : son d'une durée d'environ une seconde ;
+\- son bref : son d'une durée d'environ une seconde ;
 
-- son prolongé : son d'une durée d'environ quatre secondes.
+\- son prolongé : son d'une durée d'environ quatre secondes.
 
 Entre deux sons consécutifs, l'intervalle doit être d'environ une seconde, sauf pour le signal "une série de sons très brefs" qui doit comporter au moins six sons d'une durée d'un quart de seconde environ chacun, entrecoupés de silences de même durée.
 

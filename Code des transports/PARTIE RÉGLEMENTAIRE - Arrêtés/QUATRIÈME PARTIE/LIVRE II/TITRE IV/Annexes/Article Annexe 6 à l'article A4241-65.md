@@ -28,7 +28,7 @@ Le premier carnet de contrôle des huiles usagées, muni sur la page 1 du numér
 
 Tous les carnets suivants, numérotés dans l'ordre, seront établis par une autorité compétente locale. Toutefois, ils ne doivent être remis que contre présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile "non valable" et être rendu au conducteur. Il doit être conservé à bord durant six mois après la dernière inscription.
 
-1. Déchets huileux et graisseux survenant lors de l’exploitation du bateau acceptés :
+1\. Déchets huileux et graisseux survenant lors de l’exploitation du bateau acceptés :
 
 1.1 Huiles usagées :................................................................... l
 
@@ -50,7 +50,7 @@ Filtres usagés :...............................................................
 
 Récipients :............................................................... pièces
 
-2. Notes :
+2\. Notes :
 
 2.1 Déchets refusés :
 

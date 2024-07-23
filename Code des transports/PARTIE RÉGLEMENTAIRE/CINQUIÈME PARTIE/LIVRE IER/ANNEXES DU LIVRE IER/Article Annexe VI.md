@@ -2,23 +2,23 @@
 
 DÉCLARATION " UE " DE CONFORMITÉ NO XXXXXXXX1
 
-1. N° xxxxxxx (Produit : produit, lot, type ou numéro de série).
+1\. N° xxxxxxx (Produit : produit, lot, type ou numéro de série).
 
-1. Nom et adresse du fabricant ou de son mandataire (le mandataire doit également fournir la dénomination sociale et l'adresse du fabricant) ou de l'importateur privé.
+2\. Nom et adresse du fabricant ou de son mandataire (le mandataire doit également fournir la dénomination sociale et l'adresse du fabricant) ou de l'importateur privé.
 
-1. La présente déclaration " UE " de conformité est délivrée sous la seule responsabilité du fabricant ou de l'importateur privé ou de la personne mentionnée au troisième alinéa de l'article R. 5113-28.
+3\. La présente déclaration " UE " de conformité est délivrée sous la seule responsabilité du fabricant ou de l'importateur privé ou de la personne mentionnée au troisième alinéa de l'article R. 5113-28.
 
-1. Objet de la déclaration (identification du produit permettant sa traçabilité ; au besoin, une photo peut être jointe).
+4\. Objet de la déclaration (identification du produit permettant sa traçabilité ; au besoin, une photo peut être jointe).
 
-1. L'objet de la déclaration décrit au point 4 de la présente annexe est conforme à la législation d'harmonisation pertinente de l'Union européenne.
+5\. L'objet de la déclaration décrit au point 4 de la présente annexe est conforme à la législation d'harmonisation pertinente de l'Union européenne.
 
-1. Références des normes harmonisées pertinentes appliquées ou des autres spécifications techniques par rapport auxquelles la conformité est déclarée.
+6\. Références des normes harmonisées pertinentes appliquées ou des autres spécifications techniques par rapport auxquelles la conformité est déclarée.
 
-1. Le cas échéant, l'organisme notifié... (nom, numéro) a effectué... (description de l'intervention) et a établi le certificat.
+7\. Le cas échéant, l'organisme notifié... (nom, numéro) a effectué... (description de l'intervention) et a établi le certificat.
 
-1. Identification du signataire ayant reçu pouvoir pour engager le fabricant ou son mandataire.
+8\. Identification du signataire ayant reçu pouvoir pour engager le fabricant ou son mandataire.
 
-1. Informations complémentaires.
+9\. Informations complémentaires.
 
 La déclaration " UE " de conformité inclut la déclaration du fabricant du moteur de propulsion et celle de la personne qui adapte un moteur conformément aux 2° et 3° de l'article R. 5113-16, indiquant que lors de son installation dans un bateau le moteur, conformément aux instructions qui l'accompagnent, satisfera :
 
@@ -37,4 +37,4 @@ Signé par et au nom de ;
 (date et lieu de délivrance)\
 (nom et fonction) (signature).
 
-10. Assigner un numéro à la déclaration de conformité est optionnel.
+10\. Assigner un numéro à la déclaration de conformité est optionnel.

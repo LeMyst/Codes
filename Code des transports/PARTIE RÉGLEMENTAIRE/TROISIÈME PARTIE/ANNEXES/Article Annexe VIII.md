@@ -186,15 +186,15 @@ Détermination du prix de la location
 
 16.1. Conformément à l'article L. 3221-1, le prix de la location est établi librement de façon à assurer la couverture des coûts réels du service rendu par le loueur dans des conditions normales d'organisation et de productivité. La rémunération comprend une part fixe, qui correspond à la mise à disposition exclusive du véhicule et à celle d'un conducteur, et une part variable qui inclut :
 
-- la distance kilométrique effectivement parcourue et, le cas échéant :
+\- la distance kilométrique effectivement parcourue et, le cas échéant :
 
-- les éventuelles prestations annexes ;
+\- les éventuelles prestations annexes ;
 
-- les frais de péage ;
+\- les frais de péage ;
 
-- les heures effectuées par le conducteur au-delà de la durée contractuelle ;
+\- les heures effectuées par le conducteur au-delà de la durée contractuelle ;
 
-- les majorations liées au travail de nuit ou des jours fériés.
+\- les majorations liées au travail de nuit ou des jours fériés.
 
 Le prix est indexé dans les conditions définies par les articles L. 3222-1 et L. 3222-2 du code des transports.
 

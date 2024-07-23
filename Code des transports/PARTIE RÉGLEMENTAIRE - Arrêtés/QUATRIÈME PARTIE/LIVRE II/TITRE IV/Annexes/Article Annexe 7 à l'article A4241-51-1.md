@@ -17,9 +17,9 @@ I. - Tailles des signaux de la voie de navigation intérieure
 
 2° Les signaux auxiliaires définis en annexe 5 section II sont de même longueur que le coté du panneau auquel ils sont associés, et ont une hauteur de :
 
-- Ld/2 pour les signaux auxiliaires placés au-dessus du signal principal ;
+\- Ld/2 pour les signaux auxiliaires placés au-dessus du signal principal ;
 
-- Ld/4 pour les signaux auxiliaires placés au-dessous du signal principal, elle peut être augmentée si le message comporte plusieurs lignes ;
+\- Ld/4 pour les signaux auxiliaires placés au-dessous du signal principal, elle peut être augmentée si le message comporte plusieurs lignes ;
 
 II. - Visibilité, caractéristiques techniques des films retroréfléchissants
 

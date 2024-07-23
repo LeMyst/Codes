@@ -2,9 +2,8 @@
 
 EXIGENCES ESSENTIELLES
 
-A.-Exigences essentielles de sécurité en matière de conception et de construction des produits énumérés à l'article R. 5113-8 :
-
-1. Catégories de conception des bateaux :
+A.-Exigences essentielles de sécurité en matière de conception et de construction des produits énumérés à l'article R. 5113-8 :\
+1\. Catégories de conception des bateaux :
 
 | CATÉGORIE DE CONCEPTION | FORCE DU VENT (échelle de Beaufort) | HAUTEUR SIGNIFICATIVE DES VAGUES À CONSIDÉRER (H 1/3, en mètres) |
 | --- | --- | --- |
@@ -127,21 +126,20 @@ Chacune des toilettes dont est équipé un bateau de plaisance est raccordée un
 Les bateaux de plaisance munis de réservoirs sont équipés d'un raccord de vidange normalisé permettant la connexion des tuyaux des installations de réception au tuyau de vidange du bateau de plaisance.\
 De plus, tous tuyaux de décharge de déchets humains traversant la coque sont équipés de vannes pouvant être bloquées en position fermée.\
 B.-Exigences essentielles en matière d'émissions gazeuses provenant des moteurs de propulsion :\
-Les moteurs de propulsion répondent aux exigences essentielles énoncées dans la présente partie B en matière d'émissions gazeuses.
-
-1. Description du moteur de propulsion :\
-   1.1. Tout moteur porte clairement les renseignements suivants :\
-   a) Le nom, la raison sociale ou la marque déposée et l'adresse de contact du fabricant du moteur et, le cas échéant, le nom et l'adresse de contact de la personne qui adapte le moteur ;\
-   b) Le type de moteur et, le cas échéant, la famille ;\
-   c) Le numéro de série individuel du moteur ;\
-   d) Le marquage " CE ", tel qu'il est prévu à l'article R. 5113-27.\
-   1.2. Les marquages prévus au point 1.1 doivent durer toute la vie utile du moteur et être clairement lisibles et indélébiles. En cas d'utilisation d'étiquettes ou de plaques, celles-ci doivent être apposées de telle manière que leur fixation dure toute la vie utile du moteur et que les étiquettes ou les plaques ne puissent être ôtées sans être détruites ou déformées.\
-   1.3. Les marquages doivent être apposés sur une pièce du moteur nécessaire au fonctionnement normal de celui-ci et ne devant normalement pas être remplacée au cours de la vie du moteur.\
-   1.4. Ces marquages doivent être apposés de manière à être aisément visibles après que le moteur a été assemblé avec toutes les pièces auxiliaires nécessaires à son fonctionnement.
-1. Exigences en matière d'émissions gazeuses :\
-   Les moteurs de propulsion sont conçus, construits et assemblés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues dans le tableau 1 du point 2.1 et dans les tableaux 2 et 3 du point 2.2 de la partie B de la présente annexe :\
-   2.1. Valeurs applicables aux fins du second alinéa de l'article R. 5113-40 et du tableau 2 du point 2.2 de la même partie B :\
-   Tableau 1 :
+Les moteurs de propulsion répondent aux exigences essentielles énoncées dans la présente partie B en matière d'émissions gazeuses.\
+1\. Description du moteur de propulsion :\
+1.1. Tout moteur porte clairement les renseignements suivants :\
+a) Le nom, la raison sociale ou la marque déposée et l'adresse de contact du fabricant du moteur et, le cas échéant, le nom et l'adresse de contact de la personne qui adapte le moteur ;\
+b) Le type de moteur et, le cas échéant, la famille ;\
+c) Le numéro de série individuel du moteur ;\
+d) Le marquage " CE ", tel qu'il est prévu à l'article R. 5113-27.\
+1.2. Les marquages prévus au point 1.1 doivent durer toute la vie utile du moteur et être clairement lisibles et indélébiles. En cas d'utilisation d'étiquettes ou de plaques, celles-ci doivent être apposées de telle manière que leur fixation dure toute la vie utile du moteur et que les étiquettes ou les plaques ne puissent être ôtées sans être détruites ou déformées.\
+1.3. Les marquages doivent être apposés sur une pièce du moteur nécessaire au fonctionnement normal de celui-ci et ne devant normalement pas être remplacée au cours de la vie du moteur.\
+1.4. Ces marquages doivent être apposés de manière à être aisément visibles après que le moteur a été assemblé avec toutes les pièces auxiliaires nécessaires à son fonctionnement.\
+2\. Exigences en matière d'émissions gazeuses :\
+Les moteurs de propulsion sont conçus, construits et assemblés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues dans le tableau 1 du point 2.1 et dans les tableaux 2 et 3 du point 2.2 de la partie B de la présente annexe :\
+2.1. Valeurs applicables aux fins du second alinéa de l'article R. 5113-40 et du tableau 2 du point 2.2 de la même partie B :\
+Tableau 1 :
 
 | TYPE DE MOTEUR | MONOXYDE DE CARBONE (CO = A + B/ PNN) | | | HYDROCARBURES (HC = A + B/ PNN) | | | OXYDES D'AZOTE (NOX) | PARTICULES (PT) (G/ K WH) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -240,10 +238,9 @@ Le manuel du propriétaire :\
 a) Fournit des instructions en vue de l'installation, de l'utilisation et de l'entretien nécessaires pour assurer le bon fonctionnement du moteur et satisfaire ainsi aux exigences du point 3 (durabilité) ;\
 b) Précise la puissance du moteur lorsqu'elle est mesurée conformément à la norme harmonisée.\
 C.-Exigences essentielles en matière d'émissions sonores\
-Les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs " hors-bord " et les moteurs à embase arrière avec échappement intégré sont conformes aux exigences essentielles de la présente partie en matière d'émissions sonores.
-
-1. Niveaux des émissions sonores :\
-   1.1. Les bateaux de plaisance munis d'un moteur " in-bord " ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs hors-bord et les moteurs à embase arrière avec échappement intégré sont conçus, construits et assemblés de telle sorte que les émissions sonores ne dépassent pas les valeurs limites reprises dans le tableau suivant :
+Les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs " hors-bord " et les moteurs à embase arrière avec échappement intégré sont conformes aux exigences essentielles de la présente partie en matière d'émissions sonores.\
+1\. Niveaux des émissions sonores :\
+1.1. Les bateaux de plaisance munis d'un moteur " in-bord " ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs hors-bord et les moteurs à embase arrière avec échappement intégré sont conçus, construits et assemblés de telle sorte que les émissions sonores ne dépassent pas les valeurs limites reprises dans le tableau suivant :
 
 | PUISSANCE NOMINALE DU MOTEUR (MOTEUR UNIQUE) (EN KW) | NIVEAU DE PRESSION ACOUSTIQUE MAXIMAL = LPASMAX (EN DB) |
 | --- | --- |

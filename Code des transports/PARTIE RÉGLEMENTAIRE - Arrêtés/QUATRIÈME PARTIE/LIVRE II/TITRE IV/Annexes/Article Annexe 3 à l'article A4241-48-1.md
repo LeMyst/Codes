@@ -2,7 +2,7 @@
 
 Signalisation visuelle des bateaux
 
-1. - GENERALITES
+1\. - GENERALITES
 
 1.1 Les croquis ci-après portent sur la signalisation prévue par l'article R. 4241-48 du code des transports.
 
@@ -10,9 +10,9 @@ Signalisation visuelle des bateaux
 
 En ce qui concerne les signalisations supplémentaires pouvant être prescrites, les croquis illustrent :
 
-- soit la seule signalisation supplémentaire ;
+\- soit la seule signalisation supplémentaire ;
 
-- soit, dans la mesure où une bonne compréhension l'exige, à la fois la signalisation de base (ou l'une des signalisations de base possibles) et la signalisation supplémentaire.
+\- soit, dans la mesure où une bonne compréhension l'exige, à la fois la signalisation de base (ou l'une des signalisations de base possibles) et la signalisation supplémentaire.
 
 Cette signalisation supplémentaire est seule décrite sous le croquis.
 
@@ -28,19 +28,19 @@ Vous pouvez consulter les symboles dans le JO n° 200 du 29/08/2013 texte numér
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-2. - SIGNALISATION EN COURS DE ROUTE
+2\. - SIGNALISATION EN COURS DE ROUTE
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-3. - SIGNALISATION EN STATIONNEMENT
+3\. - SIGNALISATION EN STATIONNEMENT
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-4. - SIGNALISATIONS PARTICULIERES
+4\. - SIGNALISATIONS PARTICULIERES
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 

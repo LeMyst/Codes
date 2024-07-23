@@ -14,6 +14,6 @@ e) Dans le cas d'une formation à couple, le conducteur du bateau assurant la pr
 
 f) Dans les autres cas, le conducteur du convoi ou de la formation à couple doit être désigné en temps utile par le responsable du transport.
 
-2. Dans le cas d'un convoi remorqué ou poussé, les conducteurs des bateaux remorqués ou poussés autres que le conducteur visé au chiffre 1 prennent toutes les mesures nécessitées par les circonstances pour la bonne conduite de leur bateau et se conforment aux ordres du conducteur du convoi.
+2\. Dans le cas d'un convoi remorqué ou poussé, les conducteurs des bateaux remorqués ou poussés autres que le conducteur visé au chiffre 1 prennent toutes les mesures nécessitées par les circonstances pour la bonne conduite de leur bateau et se conforment aux ordres du conducteur du convoi.
 
 Les mêmes prescriptions s'appliquent aux conducteurs des bateaux d'une formation à couple qui ne sont pas les conducteurs de la formation.

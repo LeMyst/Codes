@@ -4,9 +4,9 @@ L'action de formation professionnelle en mobilité vise une des qualifications m
 
 Elle peut aussi consister :
 
-- en la préparation d'un concours ou examen d'accès aux études préparant à une profession relevant du code de l'action sociale et des familles ou du livre III de la quatrième partie du code de la santé publique ;
+\- en la préparation d'un concours ou examen d'accès aux études préparant à une profession relevant du code de l'action sociale et des familles ou du livre III de la quatrième partie du code de la santé publique ;
 
-- en la réalisation d'un stage pratique en mobilité dans le cadre d'une action de formation professionnelle visant une des qualifications prévues à l' article L. 6314-1 du code du travail ;
+\- en la réalisation d'un stage pratique en mobilité dans le cadre d'une action de formation professionnelle visant une des qualifications prévues à l' article L. 6314-1 du code du travail ;
 
 -en la préparation opérationnelle à l'emploi réalisée dans le cadre de la démarche de contrat de professionnalisation adapté aux outre-mer ;
 

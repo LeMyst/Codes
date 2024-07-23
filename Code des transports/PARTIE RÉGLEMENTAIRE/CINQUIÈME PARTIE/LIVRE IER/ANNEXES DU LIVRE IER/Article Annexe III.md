@@ -5,7 +5,7 @@ EXIGENCES SUPPLÉMENTAIRES ET PROCÉDURE ADDITIONNELLE
 A. - Exigences supplémentaires et additionnelles applicables en cas de recours au contrôle interne de la fabrication et aux essais supervisés prévus au module A1 de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 :\
 Lorsque le module A1 de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008est utilisé, les contrôles du produit sont effectués sur un ou plusieurs bateaux représentant la production du fabricant et les exigences additionnelles suivantes s'appliquent :
 
-1. Conception et construction :
+1\. Conception et construction :
 
 Sur un ou plusieurs bateaux représentatifs de la production du fabricant, il est effectué un ou plusieurs des essais, calculs équivalents ou contrôles suivants par le fabricant ou pour le compte de celui-ci :
 
@@ -13,7 +13,7 @@ a) Essai de stabilité conformément au point 3.2 de la partie A de l'annexe I ;
 
 b) Essai de flottabilité conformément au point 3.3 de la partie A de l'annexe I.
 
-2. Emissions sonores :
+2\. Emissions sonores :
 
 2.1. En ce qui concerne les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans échappement intégré et les véhicules nautiques à moteur, les essais relatifs aux émissions sonores définis à la partie C de l'annexe I sont effectués par le fabricant, ou pour le compte de celui-ci, sur un ou plusieurs bateaux représentatifs de la production du fabricant, sous la responsabilité d'un organisme notifié choisi par le fabricant.
 
@@ -27,9 +27,9 @@ Lorsque le module B de l'annexe II de la décision n° 768/200/CE du Parlement e
 
 Un type de fabrication mentionné au module B peut couvrir plusieurs variantes du produit dès lors que :
 
-1. Les différences entre les variantes n'affectent pas le niveau de sécurité et les autres exigences de performance du produit et;
+1\. Les différences entre les variantes n'affectent pas le niveau de sécurité et les autres exigences de performance du produit et;
 
-1. Les variantes d'un produit sont indiquées sur l'attestation d'examen "UE" de type, si nécessaire en modifiant l'attestation originale.
+2\. Les variantes d'un produit sont indiquées sur l'attestation d'examen "UE" de type, si nécessaire en modifiant l'attestation originale.
 
 C. - Exigence supplémentaire et procédure additionnelle applicables dans le cadre du module C de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 :
 
@@ -39,15 +39,15 @@ Un moteur est choisi dans la série et soumis à l'essai décrit à la partie B 
 
 D. - Autres exigences supplémentaires :
 
-1. La possibilité de recourir aux organismes internes accrédités mentionnés aux modules A1 et C1 de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 ne s'applique pas.
+1\. La possibilité de recourir aux organismes internes accrédités mentionnés aux modules A1 et C1 de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 ne s'applique pas.
 
-1. Lorsque le module F de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 est utilisé, la procédure décrite à la partie E de la présente annexe s'applique pour l'évaluation de la conformité avec les exigences en matière d'émissions gazeuses.
+2\. Lorsque le module F de l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 est utilisé, la procédure décrite à la partie E de la présente annexe s'applique pour l'évaluation de la conformité avec les exigences en matière d'émissions gazeuses.
 
 E. - Evaluation de la conformité de la production en matière d'émissions gazeuses et sonores :
 
-1. Pour vérifier la conformité d'une famille de moteurs, un échantillon de moteurs est choisi dans la (les) série(s). Le fabricant fixe la dimension "n" de l'échantillon en accord avec l'organisme notifié.
+1\. Pour vérifier la conformité d'une famille de moteurs, un échantillon de moteurs est choisi dans la (les) série(s). Le fabricant fixe la dimension "n" de l'échantillon en accord avec l'organisme notifié.
 
-1. La moyenne arithmétique "X" des résultats obtenus à partir de l'échantillon est calculée pour chaque composant réglementé des émissions gazeuses et sonores. La production de la (des) série(s) est jugée conforme aux exigences ("décision positive") si la condition suivante est satisfaite : "X + k. S ≤ L" où :
+2\. La moyenne arithmétique "X" des résultats obtenus à partir de l'échantillon est calculée pour chaque composant réglementé des émissions gazeuses et sonores. La production de la (des) série(s) est jugée conforme aux exigences ("décision positive") si la condition suivante est satisfaite : "X + k. S ≤ L" où :
 
 "S" est l'écart type ;
 

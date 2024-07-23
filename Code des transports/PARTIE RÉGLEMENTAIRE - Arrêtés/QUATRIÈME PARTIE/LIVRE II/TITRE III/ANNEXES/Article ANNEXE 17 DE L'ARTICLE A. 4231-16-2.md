@@ -4,9 +4,9 @@
 
 Partie A : Exigences pour les tronçons du Rhin présentant un risque spécifique :
 
-1. Un conducteur qui navigue un bâtiment sur les sections entre le p. k. 335,92 (écluses d'Iffezheim) et le p. k. 857,40 (bac de Spijk) nécessite, en plus de son certificat de qualification, l'autorisation spécifique pour la navigation sur des voies d'eau intérieures présentant des risques spécifiques.
+1\. Un conducteur qui navigue un bâtiment sur les sections entre le p. k. 335,92 (écluses d'Iffezheim) et le p. k. 857,40 (bac de Spijk) nécessite, en plus de son certificat de qualification, l'autorisation spécifique pour la navigation sur des voies d'eau intérieures présentant des risques spécifiques.
 
-1. L'examen est passé auprès de l'autorité compétente conformément à l'article A. 4231-2-1 en application de l'article A. 4231-16-2. L'examen peut se dérouler sous la forme d'un examen à choix multiples ou d'un examen oral. L'examen porte sur les connaissances suivantes du candidat :
+2\. L'examen est passé auprès de l'autorité compétente conformément à l'article A. 4231-2-1 en application de l'article A. 4231-16-2. L'examen peut se dérouler sous la forme d'un examen à choix multiples ou d'un examen oral. L'examen porte sur les connaissances suivantes du candidat :
 
 a) Description du trajet de navigation vers l'amont et vers l'aval ;
 
@@ -18,13 +18,13 @@ d) Connaissance des prescriptions de police applicables sur ce tronçon du Rhin.
 
 Les détails se trouvent dans la partie B.
 
-3. Quiconque souhaite obtenir l'autorisation spécifique visé à cette annexe doit avoir parcouru le tronçon de voie d'eau intérieure correspondant au moins trois fois vers l'amont et trois fois vers l'aval au cours des trois dernières années. Le candidat doit avoir été présent dans la timonerie lors de chacun des voyages visés dans la première phrase ci-avant. Le candidat doit avoir déterminé lui-même le cap et la vitesse du bâtiment au minimum lors de l'un des voyages vers l'amont et de l'un des voyages vers l'aval visé dans la première phrase ci-avant.
+3\. Quiconque souhaite obtenir l'autorisation spécifique visé à cette annexe doit avoir parcouru le tronçon de voie d'eau intérieure correspondant au moins trois fois vers l'amont et trois fois vers l'aval au cours des trois dernières années. Le candidat doit avoir été présent dans la timonerie lors de chacun des voyages visés dans la première phrase ci-avant. Le candidat doit avoir déterminé lui-même le cap et la vitesse du bâtiment au minimum lors de l'un des voyages vers l'amont et de l'un des voyages vers l'aval visé dans la première phrase ci-avant.
 
-1. Les voyages de secteur doivent avoir été effectués à bord d'un bâtiment motorisé pour la conduite duquel est prescrit un certificat de qualification de conducteur ou une patente du Rhin.
+4\. Les voyages de secteur doivent avoir été effectués à bord d'un bâtiment motorisé pour la conduite duquel est prescrit un certificat de qualification de conducteur ou une patente du Rhin.
 
-1. Le candidat atteste de la réalisation du voyage de secteur en présentant son livret de service. Si, au moment de l'inscription à l'examen, le candidat n'a pas encore effectué tous les voyages de secteur nécessaires, le candidat est admis à l'examen sous réserve que tous les voyages de secteur aient été effectués d'ici le jour de l'examen.
+5\. Le candidat atteste de la réalisation du voyage de secteur en présentant son livret de service. Si, au moment de l'inscription à l'examen, le candidat n'a pas encore effectué tous les voyages de secteur nécessaires, le candidat est admis à l'examen sous réserve que tous les voyages de secteur aient été effectués d'ici le jour de l'examen.
 
-1. Le conducteur est tenu-dans le cadre d'une exploitation sûre du bateau-de permettre au candidat d'effectuer des voyages de secteur et de l'assister à cet effet.
+6\. Le conducteur est tenu-dans le cadre d'une exploitation sûre du bateau-de permettre au candidat d'effectuer des voyages de secteur et de l'assister à cet effet.
 
 Partie B : Tronçons du Rhin exigeant des compétences supplémentaires du conducteur :
 

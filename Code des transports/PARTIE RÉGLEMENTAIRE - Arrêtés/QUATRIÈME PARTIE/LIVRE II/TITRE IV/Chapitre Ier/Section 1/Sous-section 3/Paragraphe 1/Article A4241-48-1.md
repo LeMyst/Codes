@@ -1,10 +1,9 @@
 # Article A4241-48-1
 
-Applications et définitions
+Applications et définitions\
+1\. Lorsque les conditions de visibilité l'exigent, la signalisation prescrite pour la nuit doit aussi être portée de jour.
 
-1. Lorsque les conditions de visibilité l'exigent, la signalisation prescrite pour la nuit doit aussi être portée de jour.
-
-1. Dans la présente sous-section, on entend par :
+2\. Dans la présente sous-section, on entend par :
 
 a) "Feu de mât" : un feu blanc puissant, projetant une lumière ininterrompue sur toute l'étendue d'un arc d'horizon de 225° et disposé de manière à projeter cette lumière depuis l'avant jusqu'à 22° 30' sur l'arrière du travers de chaque bord ;
 
@@ -16,10 +15,10 @@ d) "Feu visible de tous les côtés" : un feu projetant une lumière ininterromp
 
 e) "Hauteur" : la hauteur au-dessus du plan des marques d'enfoncement ou, pour les bateaux sans marques d'enfoncement, au-dessus de la ligne de flottaison.
 
-3. Pour l'application de la présente sous-section :
+3\. Pour l'application de la présente sous-section :
 
 a) Les convois poussés dont la longueur ne dépasse pas 110 m et dont la largeur ne dépasse pas 12 m sont considérés comme bateaux motorisés isolés de même longueur ;
 
 b) Les formations à couple dont la longueur dépasse 140 m sont considérées comme convois poussés de même longueur.
 
-4. L'annexe 3 décrit sous forme de croquis les obligations prescrites par les articles de la présente sous-section, à laquelle il est fait renvoi autant que besoin.
+4\. L'annexe 3 décrit sous forme de croquis les obligations prescrites par les articles de la présente sous-section, à laquelle il est fait renvoi autant que besoin.

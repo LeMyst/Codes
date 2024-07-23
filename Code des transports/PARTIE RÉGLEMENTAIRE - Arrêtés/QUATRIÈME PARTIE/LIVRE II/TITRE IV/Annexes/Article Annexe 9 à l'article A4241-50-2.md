@@ -1,8 +1,7 @@
 # Article Annexe 9 à l'article A4241-50-2
 
-DONNÉES LIÉES AU STATUT NAVIGATIONNEL ET AU POINT D'ACQUISITION DE L'INFORMATION RELATIVE À LA POSITION À BORD DU BATEAU DEVANT ÊTRE TRANSMISES CONFORMÉMENT AU STANDARD AIS INTÉRIEUR
-
-1. Statut navigationnel
+DONNÉES LIÉES AU STATUT NAVIGATIONNEL ET AU POINT D'ACQUISITION DE L'INFORMATION RELATIVE À LA POSITION À BORD DU BATEAU DEVANT ÊTRE TRANSMISES CONFORMÉMENT AU STANDARD AIS INTÉRIEUR\
+1\. Statut navigationnel
 
 | 0 | Under way using engine | En cours de voyage avec utilisation du moteur |
 | --- | --- | --- |
@@ -18,7 +17,7 @@ DONNÉES LIÉES AU STATUT NAVIGATIONNEL ET AU POINT D'ACQUISITION DE L'INFORMATI
 | 14 | AIS-SART (active) | AIS-SART (actif) |
 | 15 | Not defined | Non défini |
 
-2. Point d'acquisition de l'information relative à la position à bord du bateau
+2\. Point d'acquisition de l'information relative à la position à bord du bateau
 
 Le conducteur doit saisir les valeurs A, B, C et D.
 

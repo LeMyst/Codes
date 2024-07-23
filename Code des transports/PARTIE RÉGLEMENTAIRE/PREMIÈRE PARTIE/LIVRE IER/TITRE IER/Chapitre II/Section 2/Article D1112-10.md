@@ -12,6 +12,6 @@ I. - Pour les transports publics routiers urbains et non urbains de personnes en
 
 II. - Lorsque l'application des critères définis au I ne conduit pas à identifier un point d'arrêt ou gare prioritaire dans une commune desservie, l'autorité organisatrice de transport détermine :
 
-- pour les réseaux urbains, au moins un point d'arrêt à rendre accessible dans la commune ;
+\- pour les réseaux urbains, au moins un point d'arrêt à rendre accessible dans la commune ;
 
-- pour les réseaux non urbains, au moins un point d'arrêt à rendre accessible dans la principale zone agglomérée de la commune, dès lors que cette zone est desservie et que la population de la commune est supérieure à 1 000 habitants.
+\- pour les réseaux non urbains, au moins un point d'arrêt à rendre accessible dans la principale zone agglomérée de la commune, dès lors que cette zone est desservie et que la population de la commune est supérieure à 1 000 habitants.

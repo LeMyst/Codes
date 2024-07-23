@@ -488,9 +488,9 @@ Le délai de transport court à partir de 0 heure du jour qui suit l'enlèvement
 
 Le délai de livraison à domicile est de :
 
-- un jour dans les villes de 5 000 habitants et plus ainsi que dans les sous-préfectures ;
+\- un jour dans les villes de 5 000 habitants et plus ainsi que dans les sous-préfectures ;
 
-- deux jours dans toutes les autres localités.
+\- deux jours dans toutes les autres localités.
 
 Le délai de livraison est ramené à un jour lorsque l'envoi est égal ou supérieur à trois tonnes.
 

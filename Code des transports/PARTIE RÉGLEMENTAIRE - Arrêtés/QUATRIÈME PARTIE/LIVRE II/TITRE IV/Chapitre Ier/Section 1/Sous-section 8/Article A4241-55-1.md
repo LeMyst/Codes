@@ -1,8 +1,7 @@
 # Article A4241-55-1
 
-Obligation d'annonce
-
-1. La liste des données devant être transmises par les conducteurs de bateaux soumis à l'obligation d'annonce telle que prévue à l'article R. 4241-55 est la suivante :
+Obligation d'annonce\
+1\. La liste des données devant être transmises par les conducteurs de bateaux soumis à l'obligation d'annonce telle que prévue à l'article R. 4241-55 est la suivante :
 
 a) Catégorie de bateau ;
 
@@ -44,8 +43,8 @@ n) Nombre de personnes à bord ;
 
 o) Nombre de conteneurs à bord.
 
-2. Les données indiquées au chiffre 1 peuvent être communiquées par d'autres services ou personnes au gestionnaire de la voie d'eau, soit par écrit, soit par téléphone, soit par voie électronique. Dans tous les cas, le conducteur annonce l'entrée et la sortie de son bateau ou convoi du secteur soumis à l'obligation d'annonce.
+2\. Les données indiquées au chiffre 1 peuvent être communiquées par d'autres services ou personnes au gestionnaire de la voie d'eau, soit par écrit, soit par téléphone, soit par voie électronique. Dans tous les cas, le conducteur annonce l'entrée et la sortie de son bateau ou convoi du secteur soumis à l'obligation d'annonce.
 
-1. Les règlements particuliers de police peuvent prescrire que lorsqu'un bateau interrompt son voyage durant plus de deux heures, le conducteur indique le début et la fin de cette interruption.
+3\. Les règlements particuliers de police peuvent prescrire que lorsqu'un bateau interrompt son voyage durant plus de deux heures, le conducteur indique le début et la fin de cette interruption.
 
-1. Lorsque les données mentionnées au chiffre 1 changent au cours du voyage sur le secteur soumis à l'obligation de s'annoncer, le gestionnaire de la voie d'eau en est averti immédiatement.
+4\. Lorsque les données mentionnées au chiffre 1 changent au cours du voyage sur le secteur soumis à l'obligation de s'annoncer, le gestionnaire de la voie d'eau en est averti immédiatement.

@@ -4,7 +4,7 @@ Balisage des voies de navigation intérieure, des lacs et des voies de navigatio
 
 I – GENERALITES
 
-1. Balisage
+1\. Balisage
 
 Sur les eaux intérieures, la voie de navigation intérieure, le chenal ainsi que les points dangereux et les obstacles ne sont pas constamment balisés.
 
@@ -14,7 +14,7 @@ Les épis et les bancs médians peuvent être balisés à l'aide de balises flot
 
 Il faut se tenir à une distance suffisante des balises pour ne pas courir le risque de s'échouer ou de heurter un obstacle.
 
-2. Définitions
+2\. Définitions
 
 | Côté rive droite/gauche : | les désignations "côté rive droite", "côté rive gauche" de la voie de navigation intérieure ou du chenal s'entendent pour un observateur tourné vers l'aval. Pour les canaux, les lacs et les voies de navigation intérieure de grande largeur, les termes "droite" et "gauche" sont définis par les autorités. |
 | --- | --- |
@@ -30,7 +30,7 @@ Il faut se tenir à une distance suffisante des balises pour ne pas courir le ri
 | Feu isophase : | feu dont la durée de lumière est égale à la durée d’obscurité. |
 | Feu scintillant : | feu dont l’alternance de lumière et d’obscurité paraît très rapide. |
 
-3. Rythme des feux
+3\. Rythme des feux
 
 Exemples
 
@@ -46,19 +46,19 @@ Dans certains cas, les bouées par elles mêmes, ou grâce à leurs voyants, fou
 
 Les bouées espars ne servent généralement qu’à baliser les épis ou les bancs médians.
 
-1. Côté rive droite du chenal
+1\. Côté rive droite du chenal
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Côté gauche du chenal
+2\. Côté gauche du chenal
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-3. Bifurcation du chenal
+3\. Bifurcation du chenal
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
@@ -78,19 +78,19 @@ Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-1. Chenal proche de la rive droite
+1\. Chenal proche de la rive droite
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Chenal proche de la rive gauche
+2\. Chenal proche de la rive gauche
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-3. Utilisation des signaux
+3\. Utilisation des signaux
 
 Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
@@ -100,19 +100,19 @@ B - balisage des traversées
 
 Ces signaux indiquent à partir de quel endroit le chenal passe d'une rive à l'autre et donnent, en outre, l'axe de cette traversée. Ils sont également implantés sur les rives.
 
-1. Rive droite vers rive gauche
+1\. Rive droite vers rive gauche
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Rive gauche vers rive droite
+2\. Rive gauche vers rive droite
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-3. Utilisation des signaux
+3\. Utilisation des signaux
 
 3.1 Simple indication d'une traversée
 
@@ -140,7 +140,7 @@ Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numér
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-4. Dérivation, embouchures et entrées de ports
+4\. Dérivation, embouchures et entrées de ports
 
 Aux abords de dérivations, d'embouchures et d'entrées de ports, les protections des berges des deux côtés de la voie de navigation intérieure peuvent être signalées jusqu'à la pointe du môle de séparation par les balises fixes visées aux points 1 et 2, figures 12 et 13. La navigation entrant dans le port est considérée comme montante.
 
@@ -148,13 +148,13 @@ B - balises flottantes
 
 Si les points dangereux doivent être balisées par des bouées ou des espars, ceux-ci ont les couleurs et les voyants ci-dessous.
 
-1. Côté rive droite
+1\. Côté rive droite
 
 Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Côté rive gauche
+2\. Côté rive gauche
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
@@ -170,13 +170,13 @@ Les dispositions suivantes ont été prises pour améliorer les repérages radar
 
 Un balisage par pieux (profilés métalliques ou tubes) fichés à une distance comprise entre 10 et 15 mètres de l’ouvrage peut également être préféré par certains services de navigation, s’ils ne présentent pas de risque pour la navigation. Les pieux sont surmontés d’un réflecteur radar et émergent à environ 1,50m au dessus des plus hautes eaux navigables (PHEN). Il convient que ces pieux soient peints aux couleurs réglementaires (rive droite, rive gauche), car ils balisent les limites du chenal à l’approche des ponts. Cette solution est envisageable lorsque des risques de crues laissent présager une mauvaise tenue des bouées ou que l’autorisation du gestionnaire d’ouvrage ne peut être obtenue pour la mise en place de perches.
 
-1. Flotteurs jaunes avec réflecteurs radar (placés à l'amont et à l'aval des piles)
+1\. Flotteurs jaunes avec réflecteurs radar (placés à l'amont et à l'aval des piles)
 
 Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Perche avec réflecteur radar à l'amont et à l'aval des piles de pont
+2\. Perche avec réflecteur radar à l'amont et à l'aval des piles de pont
 
 Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
@@ -188,7 +188,7 @@ De la façon dont elles apparaissent sur l’écran d’un radar, les lignes aé
 
 Ces échos indésirables peuvent être éliminés : Les lignes aériennes peuvent être balisées de telle manière qu’elles puissent être reconnues comme telles sur l’image de l’écran radar.
 
-1. Réflecteurs radar fixés sur la ligne aérienne
+1\. Réflecteurs radar fixés sur la ligne aérienne
 
 (ils donnent comme image radar une série de points pour identifier la ligne aérienne)
 
@@ -196,7 +196,7 @@ Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Réflecteurs radar placés sur des flotteurs jaunes
+2\. Réflecteurs radar placés sur des flotteurs jaunes
 
 disposés par paire près de chaque rive (chaque paire donnant comme image radar 2 points l'un à côté de l'autre pour identifier la ligne aérienne)
 
@@ -216,7 +216,7 @@ DE GRANDE LARGEUR
 
 A - balisage des points dangereux, des obstacles et des configurations particulières
 
-1. Balisage par marques cardinales
+1\. Balisage par marques cardinales
 
 Définition des quadrants et des marques
 
@@ -228,7 +228,7 @@ Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Balisage par marque de danger isolé
+2\. Balisage par marque de danger isolé
 
 Une marque de danger isolé est une marque érigée sur un danger isolé entouré d'eaux saines, ou mouillée à l'aplomb d'un tel danger.
 
@@ -252,7 +252,7 @@ Un feu jaune émettant environ 40 éclats par minute constitue un avis de pruden
 
 L'avis de prudence informe de l'arrivée probable de phénomènes dangereux sans en indiquer l'heure précise.
 
-2. Avis de danger
+2\. Avis de danger
 
 Un feu jaune émettant environ 90 éclats par minute constitue un avis de danger.
 
@@ -260,7 +260,7 @@ L'avis de danger informe de l'arrivée imminente de phénomènes dangereux.
 
 VIII - BALISAGE DES ZONES INTERDITES OU REGLEMENTEES
 
-1. Balisage par marques spéciales
+1\. Balisage par marques spéciales
 
 Couleur : jaune
 
@@ -272,13 +272,13 @@ Vous pouvez consulter le cliché dans le JO n° 200 du 29/08/2013 texte numéro 
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632pageFin=14723
 
-2. Information sur la réglementation
+2\. Information sur la réglementation
 
 Les indications données sur place peuvent être portées par les bouées jaunes (pictogrammes). Elles peuvent être également données par des voyants surmontant ces bouées à la place de l'éventuel voyant prévu ci-dessus. Par exemple, les bouées limitant une zone totalement interdite à la navigation peuvent porter une hampe recevant un fanion triangulaire rigide rouge.
 
 Les indications peuvent être données par des panneaux placés sur la rive et représentant un des signaux d'interdiction ou d'indication prévus à l'annexe 5, sections I.A et I.E. Ces panneaux peuvent, s'il y a lieu, être complétés par une flèche indiquant la direction du secteur auquel s'applique le signal (voir annexe 5, section II.3).
 
-3. Autorisations
+3\. Autorisations
 
 Lorsque, à travers une zone côtière soumise à l'interdiction ou à la réglementation d'une ou plusieurs catégories de navigation ou d'activité, un chenal est ouvert où l'une de ces catégories n'est pas soumise à l'interdiction ou à la réglementation, les côtés de ce chenal peuvent également être balisés par des bouées jaunes. La partie supérieure des deux bouées d'entrée peut, si nécessaire, être peinte en rouge à droite, en vert à gauche pour un navigateur sortant du chenal.
 
@@ -292,7 +292,7 @@ S'il est besoin de bouées à d'autres fins que celles précitées, ces bouées 
 
 X - ENTREE DE PORTS
 
-1. Balisage de l'entrée
+1\. Balisage de l'entrée
 
 De jour
 
@@ -310,7 +310,7 @@ A tribord en entrant : feu vert, en général rythmé, à l'exception du rythme 
 
 Dans certains cas, un seul de ces feux est utilisé.
 
-2. Autres usages
+2\. Autres usages
 
 Ces marques peuvent aussi être utilisées pour les entrées de voies affluentes, les entrées d'embranchements et de bassins portuaires.
 

@@ -1,6 +1,6 @@
 # Article 100
 
-1. Le déclarant est autorisé à rectifier les déclarations enregistrées sous les réserves suivantes :
+1\. Le déclarant est autorisé à rectifier les déclarations enregistrées sous les réserves suivantes :
 
 a) la rectification doit être demandée :
 
@@ -12,7 +12,7 @@ b) la rectification ne peut être acceptée si le service des douanes a informé
 
 c) la rectification ne peut avoir pour effet de faire porter la déclaration sur des marchandises d'une autre espèce que celle initialement déclarée.
 
-2. Le déclarant est autorisé à demander l'annulation de la déclaration :
+2\. Le déclarant est autorisé à demander l'annulation de la déclaration :
 
 a) à l'importation, s'il apporte la preuve que les marchandises ont été déclarées par erreur pour la mise à la consommation ou pour un régime douanier suspensif des droits, taxes ou prohibitions, ou que cette déclaration ne se justifie plus, en raison de circonstances particulières ;
 
@@ -22,4 +22,4 @@ Dans les autres cas, s'il apporte la preuve que la marchandise n'a pas quitté l
 
 Dans le cas visé au a ci-dessus, l'autorisation ne peut être accordée lorsque l'enlèvement des marchandises a été déjà autorisé par le service des douanes.
 
-3. Des arrêtés du directeur général des douanes et droits indirects déterminent, en tant que de besoin, les modalités d'application du présent article.
+3\. Des arrêtés du directeur général des douanes et droits indirects déterminent, en tant que de besoin, les modalités d'application du présent article.

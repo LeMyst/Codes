@@ -1,10 +1,10 @@
 # Article 343
 
-1. L'action pour l'application des peines est exercée par le ministère public.
+1\. L'action pour l'application des peines est exercée par le ministère public.
 
-1. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut l'exercer accessoirement à l'action publique.
+2\. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut l'exercer accessoirement à l'action publique.
 
-1. Dans les procédures dont les agents des douanes ont été saisis en application des I et II de l'article 28-1 du code de procédure pénale, le ministère public exerce l'action pour l'application des sanctions fiscales.
+3\. Dans les procédures dont les agents des douanes ont été saisis en application des I et II de l'article 28-1 du code de procédure pénale, le ministère public exerce l'action pour l'application des sanctions fiscales.
 
 Sur autorisation du ministère public, cette action peut être exercée par l'administration des douanes et, dans ce cas, l'article 350 du présent code est applicable.
 

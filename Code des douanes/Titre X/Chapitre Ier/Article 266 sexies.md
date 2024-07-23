@@ -2,7 +2,7 @@
 
 I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
-1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
+1\. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
 b) Toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
@@ -14,29 +14,29 @@ Pour l'application du présent article et des articles 266 septies à 266 undeci
 
 -les déchets radioactifs métalliques s'entendent des déchets définis au cinquième alinéa de l'article L. 542-1-1 du même code qui sont de nature métallique et qui sont susceptibles de contenir des substances radioactives autres que celles d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaînes de l'uranium et du thorium est supérieure à 20 becquerels par gramme ;
 
-2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
+2\. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
-1. (alinéa abrogé à compter du 1er janvier 2005) ;
+3\. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-1. (Abrogé) ;
+4\. (Abrogé) ;
 
-1. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton, ou y utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
+5\. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton, ou y utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
 
-1. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
+6\. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première fois des matériaux mentionnés au même a ;
 
-7. (Abrogé) ;
+7\. (Abrogé) ;
 
-1. (Abrogé) ;
+8\. (Abrogé) ;
 
-1. (Abrogé) ;
+9\. (Abrogé) ;
 
-1. (Abrogé)
+10\. (Abrogé)
 
 II.-La taxe ne s'applique pas :
 
-1. (Abrogé) ;
+1\. (Abrogé) ;
 
 1 bis. Aux réceptions de déchets et aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme matière ;
 
@@ -104,17 +104,17 @@ c) L'installation de traitement des déchets répond aux caractéristiques suiva
 
 1 octodecies. A la réception, dans une installation de stockage autorisée en application du titre Ier du livre V du code de l'environnement, de déchets radioactifs métalliques issus d'une valorisation de matière radioactive au sens du troisième alinéa de l'article L. 542-1-1 du même code ;
 
-2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
+2\. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
-1. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
+3\. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
 
-1. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
+4\. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
-1. (Abrogé) ;
+5\. (Abrogé) ;
 
-1. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
+6\. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
 
-1. (Abrogé).
+7\. (Abrogé).
 
 III.-(Abrogé).
 

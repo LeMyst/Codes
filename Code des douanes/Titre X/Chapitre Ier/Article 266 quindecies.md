@@ -64,9 +64,9 @@ Les quantités d'énergie produites à partir de sources renouvelables et les qu
 
 Les quantités mentionnées aux 2° et 3° du présent 1 peuvent être comptabilisées indifféremment pour la liquidation de la taxe incitative relative aux essences ou pour celle relative aux gazoles, une même quantité ne pouvant être prise en compte qu'une seule fois.
 
-2. Les quantités mentionnées au 1 du présent B sont comptabilisées pour leur valeur réelle, sous réserve des règles prévues aux C à E pour certaines matières premières et catégories d'énergie. Ne sont pas considérés comme des biocarburants les produits à base d'huile de soja et d'huile de palme incluant les PFAD.
+2\. Les quantités mentionnées au 1 du présent B sont comptabilisées pour leur valeur réelle, sous réserve des règles prévues aux C à E pour certaines matières premières et catégories d'énergie. Ne sont pas considérés comme des biocarburants les produits à base d'huile de soja et d'huile de palme incluant les PFAD.
 
-1. Les sources renouvelables sont celles mentionnées au 1 de l'article 2 de la directive ENR.
+3\. Les sources renouvelables sont celles mentionnées au 1 de l'article 2 de la directive ENR.
 
 L'électricité qui n'est pas fournie à partir d'une connexion directe à une installation produisant de l'électricité renouvelable est réputée être renouvelable à hauteur de la proportion moyenne d'énergie renouvelable constatée par la Commission européenne :
 
@@ -74,7 +74,7 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 2° Pour l'électricité utilisée pour produire de l'hydrogène par électrolyse, dans l'Etat de production de l'hydrogène, sur la deuxième année précédant l'exigibilité. ;
 
-4. Pour l'application du 1, l'énergie renouvelable est comptabilisée uniquement lorsque les conditions suivantes sont remplies :
+4\. Pour l'application du 1, l'énergie renouvelable est comptabilisée uniquement lorsque les conditions suivantes sont remplies :
 
 1° La traçabilité des produits dans lesquels l'énergie renouvelable est contenue ou des produits mentionnés à la dernière ligne du tableau du second alinéa du E est assurée depuis leur production jusqu'à la vente au consommateur final dans des conditions déterminées par décret, compte tenu de leurs caractéristiques propres et des règles de calcul particulières prévues aux C et E. L'application des règles de calcul plus avantageuses peut être subordonnée à des conditions de traçabilité plus strictes ;
 
@@ -125,11 +125,11 @@ Les droits ainsi cédés sont comptabilisés pour la détermination de la quanti
 
 La cession de droits n'induit aucun changement du régime de propriété des quantités sur lesquelles ils portent. Elle n'induit, pour le cédant, aucune diminution de la quantité d'énergie contenue dans les produits inclus dans l'assiette de la taxe mentionnée au A dudit V et, pour l'acquéreur, aucune augmentation de cette même quantité.
 
-2. Les droits portant sur une même quantité d'énergie ne peuvent faire l'objet de plusieurs cessions.
+2\. Les droits portant sur une même quantité d'énergie ne peuvent faire l'objet de plusieurs cessions.
 
 Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être cédés les droits de comptabilisation de quantités qui conduisent, pour les besoins de la liquidation de la taxe qu'il doit, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'un des seuils prévus aux C à E du V. Toutefois, les quantités excédant le seuil mentionné à la dernière ligne du tableau du second alinéa du E du même V ne peuvent donner lieu à une cession de droit que lorsqu'elles conduisent à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports.
 
-3. Le cédant est solidaire du paiement du supplément de taxe résultant du non-respect des conditions prévues au B du V.
+3\. Le cédant est solidaire du paiement du supplément de taxe résultant du non-respect des conditions prévues au B du V.
 
 VII.-Le ministre chargé du budget peut, pendant une période ne pouvant excéder trente jours, renouvelable, exclure de l'assiette de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports les volumes pour lesquels elle devient exigible pendant cette période, lorsque les conditions suivantes sont réunies :
 

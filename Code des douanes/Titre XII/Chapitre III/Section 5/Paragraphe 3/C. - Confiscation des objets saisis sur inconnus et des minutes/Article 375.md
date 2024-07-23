@@ -1,8 +1,8 @@
 # Article 375
 
-1. L'administration des douanes peut demander au tribunal judiciaire sur simple requête la confiscation en nature des objets saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu d'importance de la fraude.
+1\. L'administration des douanes peut demander au tribunal judiciaire sur simple requête la confiscation en nature des objets saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu d'importance de la fraude.
 
-1. Il est statué sur ladite demande par une seule ordonnance, même si la requête se rapporte à plusieurs saisies faites séparément.
+2\. Il est statué sur ladite demande par une seule ordonnance, même si la requête se rapporte à plusieurs saisies faites séparément.
 
 NOTA:
 Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

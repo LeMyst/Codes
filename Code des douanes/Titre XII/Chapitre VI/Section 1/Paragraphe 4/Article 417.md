@@ -1,8 +1,8 @@
 # Article 417
 
-1. La contrebande s'entend des importations ou exportations en dehors des bureaux ainsi que de toute violation des dispositions légales ou réglementaires relatives à la détention et au transport des marchandises à l'intérieur du territoire douanier.
+1\. La contrebande s'entend des importations ou exportations en dehors des bureaux ainsi que de toute violation des dispositions légales ou réglementaires relatives à la détention et au transport des marchandises à l'intérieur du territoire douanier.
 
-1. Constituent, en particulier, des faits de contrebande :
+2\. Constituent, en particulier, des faits de contrebande :
 
 a) La violation des articles 75,76-2,78-1,81-1 et 83 ;
 
@@ -12,4 +12,4 @@ c) les soustractions ou substitutions en cours de transport de marchandises exp�
 
 d) la violation des dispositions, soit législatives, soit réglementaires, portant prohibition d'exportation ou de réexportation ou bien subordonnant l'exportation ou la réexportation au paiement des droits ou taxes ou à l'accomplissement de formalités particulières lorsque la fraude a été faite ou tentée en dehors des bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du présent code.
 
-3. Sont assimilées à des actes de contrebande les importations ou exportations sans déclaration lorsque les marchandises passant par un bureau de douane sont soustraites à la visite du service des douanes par dissimulation dans des cachettes spécialement aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises.
+3\. Sont assimilées à des actes de contrebande les importations ou exportations sans déclaration lorsque les marchandises passant par un bureau de douane sont soustraites à la visite du service des douanes par dissimulation dans des cachettes spécialement aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises.

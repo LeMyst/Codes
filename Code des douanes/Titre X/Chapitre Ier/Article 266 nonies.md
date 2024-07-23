@@ -1,6 +1,6 @@
 # Article 266 nonies
 
-1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
+1\. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
 A-0.-Les autorisations mentionnées dans chacune des lignes des tableaux du second alinéa des a et b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
 
@@ -57,14 +57,14 @@ Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard �
 
 Une opération de tri s'entend d'une opération de séparation, au sein d'un même flux de déchets ayant fait l'objet d'une collecte séparée, entre les déchets faisant l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
 
-- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
+\- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
 
-- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
+\- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
 
 i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
 
-- 35 % en Guadeloupe, à La Réunion et en Martinique ;
-- 75 % en Guyane et à Mayotte.
+\- 35 % en Guadeloupe, à La Réunion et en Martinique ;\
+\- 75 % en Guyane et à Mayotte.
 
 Toutefois, pour les installations de stockage non accessibles par voie terrestre situées en Guyane, le tarif est fixé à 3 euros par tonne.
 
@@ -110,18 +110,18 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 
 Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux tableaux des a et b du A du 1.
 
-2. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
+2\. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
 
-1. (Alinéa abrogé).
+3\. (Alinéa abrogé).
 
-1. (Abrogé).
+4\. (Abrogé).
 
 4 bis. (Abrogé).
 
-5. (Abrogé).
+5\. (Abrogé).
 
-1. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
+6\. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 
-1. (Abrogé).
+7\. (Abrogé).
 
-1. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
+8\. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.

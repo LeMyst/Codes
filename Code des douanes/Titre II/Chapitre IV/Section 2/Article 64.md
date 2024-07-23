@@ -1,10 +1,10 @@
 # Article 64
 
-1. Pour la recherche et la constatation des délits douaniers, visés aux articles 414 à 429 et 459, les agents des douanes habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les marchandises et documents se rapportant à ces délits ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles. Ils sont accompagnés d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale.
+1\. Pour la recherche et la constatation des délits douaniers, visés aux articles 414 à 429 et 459, les agents des douanes habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les marchandises et documents se rapportant à ces délits ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles. Ils sont accompagnés d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale.
 
 Les agents des douanes habilités peuvent procéder, à l'occasion de la visite, à la saisie des marchandises et des documents, quel qu'en soit le support, se rapportant aux délits précités. Si, à l'occasion d'une visite autorisée en application du 2 du présent article, les agents habilités découvrent des biens et avoirs provenant directement ou indirectement des délits précités, ils peuvent procéder à leur saisie après en avoir informé par tout moyen le juge qui a pris l'ordonnance et qui peut s'y opposer.
 
-2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal judiciaire du lieu de la direction des douanes dont dépend le service chargé de la procédure.
+2\. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal judiciaire du lieu de la direction des douanes dont dépend le service chargé de la procédure.
 
 L'ordonnance comporte :
 
@@ -86,12 +86,12 @@ Le procès-verbal et l'inventaire sont signés par les agents des douanes et par
 
 Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer.
 
-3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale :
+3\. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale :
 
 a) pour opérer les visites, recensements et contrôles à domicile chez les titulaires d'un compte ouvert d'animaux ou d'un titre de pacage ;
 
 b) pour la recherche des marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 332 ci-après, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon.
 
-4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale.
+4\. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police judiciaire ou d'un agent des douanes habilité en application de l'article 28-1 du code de procédure pénale.
 
-1. Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres de l'Union européenne en matière de réglementation douanière, les agents des douanes sont autorisés à mettre en œuvre les dispositions du présent article pour le contrôle des opérations douanières réalisées dans les autres Etats membres de l'Union européenne.
+5\. Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres de l'Union européenne en matière de réglementation douanière, les agents des douanes sont autorisés à mettre en œuvre les dispositions du présent article pour le contrôle des opérations douanières réalisées dans les autres Etats membres de l'Union européenne.

@@ -17,8 +17,7 @@ Lorsque le projet d'aménagement foncier agricole et forestier comporte des trav
 Lorsque le projet d'aménagement foncier comporte des travaux qui sont de nature à affecter de façon notable un site Natura 2000, l'étude d'impact inclut une évaluation de leurs incidences au regard des objectifs de conservation du site et tient lieu de l'évaluation prévue à l'article L. 414-4 du même code.
 
 NOTA:
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les dispositions de la présente ordonnance s'appliquent :
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du 1er janvier 2017 ;
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant la publication de la présente ordonnance ;
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les dispositions de la présente ordonnance s'appliquent :\
+\- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du 1er janvier 2017 ;\
+\- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant la publication de la présente ordonnance ;\
+\- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »

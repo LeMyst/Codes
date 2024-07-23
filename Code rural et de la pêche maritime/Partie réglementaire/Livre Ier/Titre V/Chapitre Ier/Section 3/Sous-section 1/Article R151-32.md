@@ -16,7 +16,7 @@ Le dossier comprend également l'étude d'impact définie à l'article R. 122-5 
 
 Lorsque la participation des intéressés aux dépenses est prévue, le dossier de l'enquête comprend en outre :
 
-1. Un mémoire explicatif indiquant par catégorie de travaux :
+1\. Un mémoire explicatif indiquant par catégorie de travaux :
 
 a) La proportion des dépenses restant à la charge de l'organisme maître de l'ouvrage ;
 
@@ -26,4 +26,4 @@ c) En vue de fixer les bases générales de répartition, les critères retenus 
 
 d) Les éléments de calcul qui seront utilisés pour l'estimation des participations aux dépenses des différents intéressés ;
 
-2. L'état des propriétaires des parcelles du périmètre intéressé ainsi que des collectivités territoriales ou des personnes physiques ou morales appelées à participer aux dépenses.
+2\. L'état des propriétaires des parcelles du périmètre intéressé ainsi que des collectivités territoriales ou des personnes physiques ou morales appelées à participer aux dépenses.

@@ -2,10 +2,10 @@
 
 Les transcriptions créoles énumérées ci-dessous peuvent être utilisées si elles sont accompagnées d'une traduction en français :
 
-- produits pei ;
+\- produits pei ;
 
-- produits peyi ;
+\- produits peyi ;
 
-- produits péi ;
+\- produits péi ;
 
-- produits péyi.
+\- produits péyi.

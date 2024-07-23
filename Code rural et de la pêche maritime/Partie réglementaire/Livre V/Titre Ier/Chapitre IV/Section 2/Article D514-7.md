@@ -4,9 +4,9 @@ Le Fonds national de modernisation, de performance et de péréquation est gér�
 
 Outre son président, le comité de gestion comprend quatorze membres élus par Chambres d'agriculture France en son sein lors de chaque première session ordinaire suivant le renouvellement général des chambres départementales d'agriculture :
 
-- un membre élu parmi les représentants des chambres d'agriculture de Guadeloupe, Guyane, Martinique, La Réunion et de Mayotte ;
+\- un membre élu parmi les représentants des chambres d'agriculture de Guadeloupe, Guyane, Martinique, La Réunion et de Mayotte ;
 
-- treize membres représentant chacun une région métropolitaine, élus parmi les représentants des chambres dont tout ou partie de la circonscription est comprise dans cette région.
+\- treize membres représentant chacun une région métropolitaine, élus parmi les représentants des chambres dont tout ou partie de la circonscription est comprise dans cette région.
 
 Ces membres sont élus à la majorité absolue au premier tour de scrutin et à la majorité relative au second tour.
 

@@ -4,9 +4,9 @@ Au sens de la présente section et des textes pris pour son application, on ente
 
 1° " Procédure expérimentale " :
 
-- toute utilisation, invasive ou non, d'un animal à des fins expérimentales ou à d'autres fins scientifiques, y compris lorsque les résultats sont connus, ou à des fins éducatives ;
+\- toute utilisation, invasive ou non, d'un animal à des fins expérimentales ou à d'autres fins scientifiques, y compris lorsque les résultats sont connus, ou à des fins éducatives ;
 
-- toute intervention destinée ou de nature à aboutir à la naissance ou à l'éclosion d'un animal ou à la création et à la conservation d'une lignée d'animaux génétiquement modifiés ;
+\- toute intervention destinée ou de nature à aboutir à la naissance ou à l'éclosion d'un animal ou à la création et à la conservation d'une lignée d'animaux génétiquement modifiés ;
 
 Dès lors que cette utilisation ou cette intervention sont susceptibles de causer à cet animal une douleur, une souffrance, une angoisse ou des dommages durables équivalents ou supérieurs à ceux causés par l'introduction d'une aiguille effectuée conformément aux bonnes pratiques vétérinaires.
 

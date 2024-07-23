@@ -24,12 +24,12 @@ En application des articles 70, 73, 77 et 78 du règlement (UE) 2021/2115 du Par
 
 11° Aide pour des projets de coopération répondant aux objectifs de la politique agricole commune autres que :
 
-- les projets relevant du partenariat européen d'innovation ;
+\- les projets relevant du partenariat européen d'innovation ;
 
-- les projets encourageant les organisations et groupements de producteurs ou les organisations professionnelles ;
+\- les projets encourageant les organisations et groupements de producteurs ou les organisations professionnelles ;
 
-- les projets de coopération pour la promotion, la commercialisation, le développement et la certification des systèmes de qualité ;
+\- les projets de coopération pour la promotion, la commercialisation, le développement et la certification des systèmes de qualité ;
 
-- les projets de coopération pour le renouvellement des générations en agriculture ;
+\- les projets de coopération pour le renouvellement des générations en agriculture ;
 
-- les projets LEADER.
+\- les projets LEADER.

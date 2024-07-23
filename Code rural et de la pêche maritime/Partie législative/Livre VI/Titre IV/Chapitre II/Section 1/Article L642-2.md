@@ -4,8 +4,8 @@ Au cahier des charges d'une appellation d'origine ou d'une indication géographi
 
 Un plan de contrôle ou d'inspection peut être constitué :
 
-- de dispositions de contrôle communes à plusieurs cahiers des charges ou à plusieurs organismes de contrôle ;
+\- de dispositions de contrôle communes à plusieurs cahiers des charges ou à plusieurs organismes de contrôle ;
 
-- de dispositions de contrôle spécifiques.
+\- de dispositions de contrôle spécifiques.
 
 Un plan de contrôle comprend la liste des mesures sanctionnant les manquements aux conditions fixées pour bénéficier d'un signe d'identification de la qualité et de l'origine.

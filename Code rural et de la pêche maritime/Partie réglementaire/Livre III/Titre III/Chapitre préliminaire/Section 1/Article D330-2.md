@@ -2,9 +2,9 @@
 
 La mission d'information sur les questions d'installation en agriculture assurée par les chambres départementales d'agriculture comprend :
 
-- dans le cadre de l'information collective, la participation à la politique de communication sur l'ensemble des dispositifs d'aides publiques à l'installation ;
+\- dans le cadre de l'information collective, la participation à la politique de communication sur l'ensemble des dispositifs d'aides publiques à l'installation ;
 
-- dans le cadre de l'information individuelle, la mise à la disposition des candidats à l'installation de toutes informations et documents utiles.
+\- dans le cadre de l'information individuelle, la mise à la disposition des candidats à l'installation de toutes informations et documents utiles.
 
 Les chambres exercent cette mission en liaison avec les autres personnes assurant une information sur les questions d'installation, notamment celles mentionnées à l'article D. 343-21.
 

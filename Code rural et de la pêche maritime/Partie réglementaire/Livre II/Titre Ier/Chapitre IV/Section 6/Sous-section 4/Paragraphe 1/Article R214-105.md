@@ -26,8 +26,8 @@ g) Les enquêtes médico-légales ;
 
 2° Respecter les principes de remplacement, de réduction et de raffinement suivants :
 
-- les procédures expérimentales ont un caractère de stricte nécessité et ne peuvent pas être remplacées par d'autres stratégies ou méthodes expérimentales n'impliquant pas l'utilisation d'animaux vivants et susceptibles d'apporter le même niveau d'information ;
+\- les procédures expérimentales ont un caractère de stricte nécessité et ne peuvent pas être remplacées par d'autres stratégies ou méthodes expérimentales n'impliquant pas l'utilisation d'animaux vivants et susceptibles d'apporter le même niveau d'information ;
 
-- le nombre d'animaux utilisés dans un projet est réduit à son minimum sans compromettre les objectifs du projet. A cet effet, le partage d'organes ou de tissus d'animaux mis à mort est permis entre établissements ;
+\- le nombre d'animaux utilisés dans un projet est réduit à son minimum sans compromettre les objectifs du projet. A cet effet, le partage d'organes ou de tissus d'animaux mis à mort est permis entre établissements ;
 
-- les conditions d'élevage, d'hébergement, de soins et les méthodes utilisées sont les plus appropriées pour réduire le plus possible toute douleur, souffrance, angoisse ou dommage durables que pourraient ressentir les animaux.
+\- les conditions d'élevage, d'hébergement, de soins et les méthodes utilisées sont les plus appropriées pour réduire le plus possible toute douleur, souffrance, angoisse ou dommage durables que pourraient ressentir les animaux.

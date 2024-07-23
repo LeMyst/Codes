@@ -10,6 +10,6 @@ Le recours au Conseil d'Etat contre la décision du tribunal administratif doit 
 
 Le point de départ de ce délai est fixé comme suit :
 
-- pour le recours formé par le préfet, à compter du jour de la communication de la décision du tribunal,
+\- pour le recours formé par le préfet, à compter du jour de la communication de la décision du tribunal,
 
-- pour le recours formé par les parties, à compter du jour de la notification qui leur a été faite de la décision du tribunal.
+\- pour le recours formé par les parties, à compter du jour de la notification qui leur a été faite de la décision du tribunal.

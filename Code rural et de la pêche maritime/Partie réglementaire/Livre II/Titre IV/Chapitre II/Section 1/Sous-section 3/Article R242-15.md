@@ -10,17 +10,17 @@ Après la vérification de l'intégrité du fichier dénommé " contenu de l'urn
 
 II. - Les données suivantes apparaissent de manière lisible à l'écran et font l'objet d'une édition sécurisée permettant leur transposition sur le procès-verbal :
 
-- le nombre d'électeurs ;
+\- le nombre d'électeurs ;
 
-- les listes d'émargement définitives ;
+\- les listes d'émargement définitives ;
 
-- le décompte des électeurs ayant validé leur vote ;
+\- le décompte des électeurs ayant validé leur vote ;
 
-- le nombre de bulletins blancs ou nuls ;
+\- le nombre de bulletins blancs ou nuls ;
 
-- le nombre de suffrages valablement exprimés ;
+\- le nombre de suffrages valablement exprimés ;
 
-- le décompte du nombre de voix obtenues par candidat.
+\- le décompte du nombre de voix obtenues par candidat.
 
 Le bureau de vote vérifie que le nombre total de suffrages reçus par voie électronique correspond au nombre de votants de la liste d'émargement électronique.
 
@@ -30,22 +30,22 @@ III. - Le président du bureau de vote établit et signe les procès-verbaux des
 
 Les procès-verbaux comportent obligatoirement les indications suivantes :
 
-- composition du bureau de vote ;
+\- composition du bureau de vote ;
 
-- nombre d'électeurs ;
+\- nombre d'électeurs ;
 
-- nombre de sièges à pourvoir ;
+\- nombre de sièges à pourvoir ;
 
-- nombre de candidats ;
+\- nombre de candidats ;
 
-- nombre de votants ;
+\- nombre de votants ;
 
-- nombre de suffrages exprimés ;
+\- nombre de suffrages exprimés ;
 
-- nombre de voix obtenues par chaque candidat, élu ou non ;
+\- nombre de voix obtenues par chaque candidat, élu ou non ;
 
-- nombre de sièges pourvus ;
+\- nombre de sièges pourvus ;
 
-- les réclamations qui ont été formulées et les pièces qui s'y rapportent.
+\- les réclamations qui ont été formulées et les pièces qui s'y rapportent.
 
 La liste des élus par région est publiée sur le site internet de l'ordre dès la fin des opérations de dépouillement.

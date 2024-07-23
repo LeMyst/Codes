@@ -2,14 +2,14 @@
 
 Les rapports d'analyses d'autocontrôle réalisées par les laboratoires reconnus doivent permettre l'identification :
 
-- du demandeur ;
+\- du demandeur ;
 
-- de l'échantillon : nature, état, date de réception ;
+\- de l'échantillon : nature, état, date de réception ;
 
-- de la date d'analyse ;
+\- de la date d'analyse ;
 
-- de la méthode d'analyse employée ;
+\- de la méthode d'analyse employée ;
 
-- du résultat de l'analyse, avec, s'il y a lieu, les unités de mesure ;
+\- du résultat de l'analyse, avec, s'il y a lieu, les unités de mesure ;
 
-- le cas échéant, des critères de l'interprétation des résultats.
+\- le cas échéant, des critères de l'interprétation des résultats.

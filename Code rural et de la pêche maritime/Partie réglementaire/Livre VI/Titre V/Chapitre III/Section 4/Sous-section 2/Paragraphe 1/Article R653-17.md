@@ -26,19 +26,19 @@ c) Le chef des sports équestres militaires ;
 
 d) Pour le secteur de l'agriculture :
 
-- deux personnalités exerçant leurs activités dans le secteur des courses hippiques, dont une pour le galop et une pour le trot ;
+\- deux personnalités exerçant leurs activités dans le secteur des courses hippiques, dont une pour le galop et une pour le trot ;
 
-- une personnalité exerçant ses activités dans le secteur de l'élevage des équidés de sports et de loisirs ;
+\- une personnalité exerçant ses activités dans le secteur de l'élevage des équidés de sports et de loisirs ;
 
-- une personnalité exerçant ses activités dans le secteur de l'élevage des chevaux de trait et des races asines ;
+\- une personnalité exerçant ses activités dans le secteur de l'élevage des chevaux de trait et des races asines ;
 
 e) Pour le secteur des sports :
 
-- deux personnalités compétentes dans le domaine des sports équestres ;
+\- deux personnalités compétentes dans le domaine des sports équestres ;
 
-- le président de la Fédération française d'équitation ou son représentant ;
+\- le président de la Fédération française d'équitation ou son représentant ;
 
-- un sportif de haut niveau désigné par le président du Comité national olympique et sportif français, sur proposition du président de la Fédération française d'équitation ;
+\- un sportif de haut niveau désigné par le président du Comité national olympique et sportif français, sur proposition du président de la Fédération française d'équitation ;
 
 3° Quatre représentants élus du personnel de l'établissement.
 

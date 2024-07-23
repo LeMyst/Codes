@@ -12,13 +12,13 @@ c) Les deux délégués des élèves de la classe élus au scrutin uninominal à
 
 d) Lorsqu'ils ont eu à connaître du cas personnel d'un ou plusieurs élèves de la classe ;
 
-- le conseiller principal d'éducation ;
+\- le conseiller principal d'éducation ;
 
-- le médecin de la santé scolaire ou le médecin d'orientation scolaire et professionnelle ou, à défaut, le médecin de l'établissement public local ;
+\- le médecin de la santé scolaire ou le médecin d'orientation scolaire et professionnelle ou, à défaut, le médecin de l'établissement public local ;
 
-- l'infirmière ou l'infirmier ;
+\- l'infirmière ou l'infirmier ;
 
-- le directeur de l'exploitation agricole ou de l'atelier technologique en tant que de besoin.
+\- le directeur de l'exploitation agricole ou de l'atelier technologique en tant que de besoin.
 
 Le directeur du lycée réunit au cours du premier trimestre les responsables des listes de candidats qui ont obtenu des voix lors de l'élection des représentants de parents d'élèves au conseil d'administration. Ces responsables de liste proposent, pour chaque classe, les noms de deux délégués titulaires et deux délégués suppléants des parents d'élèves de la classe. Le directeur du lycée répartit les sièges compte tenu des suffrages obtenus par les différentes listes lors des élections au conseil d'administration.
 

@@ -1,6 +1,6 @@
 # Article D732-12-4
 
-- Lorsque la caisse de mutualité sociale assurant la prise en charge des frais de santé est informée du décès de la personne non-salariée mentionnée au premier alinéa de l'article L. 732-9-1, la caisse adresse, au plus tard dans un délai de deux mois suivant le mois au cours duquel est survenu le décès et par tout moyen conférant date certaine, aux ayants droit connus mentionnés à ce même article L. 732-9-1, les informations relatives aux conditions d'attribution du capital décès.
+\- Lorsque la caisse de mutualité sociale assurant la prise en charge des frais de santé est informée du décès de la personne non-salariée mentionnée au premier alinéa de l'article L. 732-9-1, la caisse adresse, au plus tard dans un délai de deux mois suivant le mois au cours duquel est survenu le décès et par tout moyen conférant date certaine, aux ayants droit connus mentionnés à ce même article L. 732-9-1, les informations relatives aux conditions d'attribution du capital décès.
 
 Lorsque le droit au capital décès est ouvert aux descendants mineurs, la caisse informe leur représentant légal ou en cas de carence du représentant légal, le juge du tribunal judiciaire dans le ressort duquel est situé le domicile des descendants mineurs qui désigne la personne ou l'établissement qui doit recevoir en dépôt, pour le compte des mineurs, les sommes qui reviennent à ceux-ci.
 

@@ -82,9 +82,9 @@ Annexe II-2.-Liste des coformateurs, parents ou maîtres de stage, accueillant d
 
 Annexe III.-Plan d'organisation des formations :
 
-1. Emploi du temps des élèves et des formateurs ;
+1\. Emploi du temps des élèves et des formateurs ;
 
-1. Modalités de regroupement des élèves.
+2\. Modalités de regroupement des élèves.
 
 Annexe IV.-Montant des contributions et des redevances demandées aux familles.
 

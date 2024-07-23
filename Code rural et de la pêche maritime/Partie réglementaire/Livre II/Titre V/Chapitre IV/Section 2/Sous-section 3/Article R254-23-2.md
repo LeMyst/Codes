@@ -4,29 +4,29 @@ I. - Le registre mentionné à l'article L. 254-3-1 comporte les indications sui
 
 1° Pour chaque produit acheté auprès d'une personne qui n'est pas redevable de la redevance prévue à l'article L. 213-10-8 du code de l'environnement :
 
-- le numéro de facture et la date de facturation ;
+\- le numéro de facture et la date de facturation ;
 
-- le nom commercial du produit et son numéro d'autorisation de mise sur le marché à l'étranger ;
+\- le nom commercial du produit et son numéro d'autorisation de mise sur le marché à l'étranger ;
 
-- le nom du produit français de référence et son numéro d'autorisation de mise sur le marché ou de permis de commerce parallèle en France ;
+\- le nom du produit français de référence et son numéro d'autorisation de mise sur le marché ou de permis de commerce parallèle en France ;
 
-- la quantité achetée, exprimée dans l'unité de mesure de ce produit mise en ligne par l'agence ou l'office de l'eau, ou, à défaut, en litres ou en kilogrammes ;
+\- la quantité achetée, exprimée dans l'unité de mesure de ce produit mise en ligne par l'agence ou l'office de l'eau, ou, à défaut, en litres ou en kilogrammes ;
 
-- le montant de l'achat ;
+\- le montant de l'achat ;
 
-- le montant de redevance correspondant à cette quantité, établi à partir du montant de redevance mentionné au II de l'article R. 213-48-13 du code de l'environnement et mis en ligne par l'agence ou l'office de l'eau ;
+\- le montant de redevance correspondant à cette quantité, établi à partir du montant de redevance mentionné au II de l'article R. 213-48-13 du code de l'environnement et mis en ligne par l'agence ou l'office de l'eau ;
 
 2° Pour chaque semence traitée acquise auprès d'une personne qui n'est pas redevable de la redevance prévue à l'article L. 213-10-8 du code de l'environnement ou dont le traitement a été réalisé par un prestataire de service qui n'est pas redevable de la redevance prévue à l'article L. 213-10-8 du code de l'environnement :
 
-- le numéro de facture et la date de facturation ;
+\- le numéro de facture et la date de facturation ;
 
-- l'espèce végétale de la semence ou, dans le cas des mélanges de semences pour gazon, la mention " gazon " ;
+\- l'espèce végétale de la semence ou, dans le cas des mélanges de semences pour gazon, la mention " gazon " ;
 
-- la quantité de semence acquise ou traitée, en quintal ;
+\- la quantité de semence acquise ou traitée, en quintal ;
 
-- le montant de l'achat ou de la prestation de service ;
+\- le montant de l'achat ou de la prestation de service ;
 
-- pour chaque produit utilisé pour traiter cette semence :
+\- pour chaque produit utilisé pour traiter cette semence :
 
 a) Le nom commercial du produit et le numéro d'autorisation de mise sur le marché à l'étranger ;
 

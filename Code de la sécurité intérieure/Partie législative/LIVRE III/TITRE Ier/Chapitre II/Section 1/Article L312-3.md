@@ -4,25 +4,25 @@ Sont interdites d'acquisition et de détention d'armes, de munitions et de leurs
 
 1° Les personnes dont le bulletin n° 2 du casier judiciaire comporte une mention de condamnation pour l'une des infractions suivantes :
 
-- meurtre, assassinat ou empoisonnement prévus aux articles 221-1 et suivants du code pénal ;
+\- meurtre, assassinat ou empoisonnement prévus aux articles 221-1 et suivants du code pénal ;
 
-- tortures et actes de barbarie prévus aux articles 222-1 et suivants du même code ;
+\- tortures et actes de barbarie prévus aux articles 222-1 et suivants du même code ;
 
-- violences volontaires prévues aux articles 222-7 et suivants dudit code ;
+\- violences volontaires prévues aux articles 222-7 et suivants dudit code ;
 
-- exploitation de la vente à la sauvette prévue à l'article 225-12-8 du même code ;
+\- exploitation de la vente à la sauvette prévue à l'article 225-12-8 du même code ;
 
-- travail forcé prévu à l'article 225-14-1 du même code ;
+\- travail forcé prévu à l'article 225-14-1 du même code ;
 
-- réduction en servitude prévue à l'article 225-14-2 du même code ;
+\- réduction en servitude prévue à l'article 225-14-2 du même code ;
 
-- administration de substances nuisibles prévue à l'article 222-15 du même code ;
+\- administration de substances nuisibles prévue à l'article 222-15 du même code ;
 
-- embuscade prévue à l'article 222-15-1 du même code ;
+\- embuscade prévue à l'article 222-15-1 du même code ;
 
-- menaces d'atteinte aux personnes prévues aux articles 222-17 à 222-18-3 du même code ;
+\- menaces d'atteinte aux personnes prévues aux articles 222-17 à 222-18-3 du même code ;
 
-- viol et agressions sexuelles prévus aux articles 222-22 à 222-31 du même code ;
+\- viol et agressions sexuelles prévus aux articles 222-22 à 222-31 du même code ;
 
 -exhibition sexuelle prévue à l'article 222-32 du même code ;
 
@@ -40,7 +40,7 @@ Sont interdites d'acquisition et de détention d'armes, de munitions et de leurs
 
 -détournement d'aéronef, de navire ou de tout autre moyen de transport prévu aux articles 224-6 à 224-8-1 du même code ;
 
-- infractions relatives à la traite des êtres humains et à la dissimulation forcée du visage d'autrui prévues aux articles 225-4-1 à 225-4-10 du même code ;
+\- infractions relatives à la traite des êtres humains et à la dissimulation forcée du visage d'autrui prévues aux articles 225-4-1 à 225-4-10 du même code ;
 
 -proxénétisme et infractions qui en résultent prévus aux articles 225-5 à 225-12 du même code ;
 
@@ -48,7 +48,7 @@ Sont interdites d'acquisition et de détention d'armes, de munitions et de leurs
 
 -exploitation de la mendicité prévue aux articles 225-12-5 à 225-12-7 du même code ;
 
-- atteintes aux mineurs et à la famille prévues aux articles 227-1 à 227-28-3 du même code ;
+\- atteintes aux mineurs et à la famille prévues aux articles 227-1 à 227-28-3 du même code ;
 
 -vols prévus aux articles 311-1 à 311-11 du même code ;
 

@@ -26,7 +26,7 @@ b) La direction nationale du renseignement territorial au titre des finalités m
 
 -la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
-- la division des opérations du commandement de la gendarmerie dans le cyberespace au titre de la finalité mentionnée au 6° de l'article L. 811-3.
+\- la division des opérations du commandement de la gendarmerie dans le cyberespace au titre de la finalité mentionnée au 6° de l'article L. 811-3.
 
 Les militaires du groupe d'intervention de la gendarmerie nationale, des groupes d'observation et de surveillance, du service central de renseignement criminel et de la division des opérations du commandement de la gendarmerie dans le cyberespace, individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée à l'article L. 852-2. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés ;
 

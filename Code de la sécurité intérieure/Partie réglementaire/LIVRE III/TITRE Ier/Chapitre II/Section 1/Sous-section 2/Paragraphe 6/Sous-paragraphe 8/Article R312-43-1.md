@@ -14,11 +14,11 @@ II. − Les armes proposées aux personnes participant à des séances de tirs d
 
 Seules peuvent être utilisées :
 
-- pour les séances organisées par les associations sportives agréées membres de la fédération française de tir ou par cette fédération, des armes de poing à percussion centrale de la catégorie B, des armes à percussion annulaire de la catégorie B ou des armes de la catégorie C ;
+\- pour les séances organisées par les associations sportives agréées membres de la fédération française de tir ou par cette fédération, des armes de poing à percussion centrale de la catégorie B, des armes à percussion annulaire de la catégorie B ou des armes de la catégorie C ;
 
-- pour les séances organisées par les associations affiliées à la fédération française de ball-trap et de tir à balle, des armes à percussion centrale de la catégorie C ;
+\- pour les séances organisées par les associations affiliées à la fédération française de ball-trap et de tir à balle, des armes à percussion centrale de la catégorie C ;
 
-- pour les séances organisées par les associations ayant pour objet statutaire la gestion de la chasse, des armes à percussion centrale de la catégorie C.
+\- pour les séances organisées par les associations ayant pour objet statutaire la gestion de la chasse, des armes à percussion centrale de la catégorie C.
 
 III. − Les dispositions du présent article ne sont pas applicables aux personnes qui participent à des séances :
 

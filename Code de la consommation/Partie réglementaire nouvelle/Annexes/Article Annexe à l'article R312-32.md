@@ -2,7 +2,7 @@
 
 Informations précontractuelles européennes en matière de crédit aux consommateurs relatives aux découverts remboursables dans un délai supérieur à un mois et inférieur ou égal à trois mois
 
-1. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit
+1\. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit
 
 | Prêteur Adresse Numéro de téléphone (\*) Adresse électronique (\*) Numéro de télécopieur (\*) Adresse internet (\*) | \[Identité\] \[Adresse géographique à utiliser par l'emprunteur\] |
 | --- | --- |
@@ -10,7 +10,7 @@ Informations précontractuelles européennes en matière de crédit aux consomma
 | Intermédiaire de crédit | \[Identité\] |
 | Adresse Numéro de téléphone (\*) Adresse électronique (\*) Numéro de télécopieur (\*) Adresse internet (\*) | \[Adresse géographique à utiliser par l'emprunteur\] |
 
-2. Description des principales caractéristiques du crédit
+2\. Description des principales caractéristiques du crédit
 
 | Le type de crédit |
 | --- |
@@ -18,7 +18,7 @@ Informations précontractuelles européennes en matière de crédit aux consomma
 | La durée du contrat de crédit |
 | Le cas échéant Il peut vous être demandé à tout moment de rembourser le montant total du crédit. |
 
-3. Coût du crédit
+3\. Coût du crédit
 
 | Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit | \[Indiquer le taux exprimé en % : Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de référence applicable au taux débiteur initial) ou révisable-lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au..) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur)\] |
 | --- | --- |
@@ -27,14 +27,14 @@ Informations précontractuelles européennes en matière de crédit aux consomma
 | Frais Le cas échéant Conditions dans lesquelles ces coûts peuvent être modifiés | \[Les frais applicables dès la conclusion du contrat de crédit\] |
 | Frais en cas de défaillance | Vous devrez payer \[.. (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)\] en cas de défaillance. |
 
-4. Autres aspects juridiques importants
+4\. Autres aspects juridiques importants
 
 | Fin du contrat de crédit-résiliation | \[Les conditions et modalités selon lesquelles il peut être mis fin au contrat de crédit\] |
 | --- | --- |
 | Le prêteur doit, dans le cadre de la procédure d'octroi du crédit, consulter le fichier national des incidents de remboursement des crédits aux particuliers. |  |
 | Le délai pendant lequel le prêteur est lié par les obligations précontractuelles. | Ces informations sont valables du.. au.. |
 
-5. Le cas échéant : informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 222-1 du code de la consommation
+5\. Le cas échéant : informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 222-1 du code de la consommation
 
 | a) Informations relatives au prêteur |  |
 | --- | --- |

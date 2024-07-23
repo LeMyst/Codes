@@ -4,7 +4,7 @@ Informations précontractuelles européennes normalisées en matière de crédit
 
 " Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. "
 
-1. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit
+1\. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit
 
 | Prêteur Adresse Numéro de téléphone (\*) Adresse électronique (\*) Numéro de télécopieur (\*) Adresse internet (\*) | \[Identité\] \[Adresse géographique à utiliser par l'emprunteur\] |
 | --- | --- |
@@ -12,7 +12,7 @@ Informations précontractuelles européennes normalisées en matière de crédit
 | Adresse | Adresse électronique (\*) |
 | Numéro de téléphone (\*) Numéro de télécopieur (\*) Adresse internet (\*) | \[Identité\] \[Adresse géographique à utiliser par l'emprunteur\] |
 
-2. Description des principales caractéristiques du crédit
+2\. Description des principales caractéristiques du crédit
 
 | LE TYPE DE CRÉDIT |  |
 | --- | --- |
@@ -26,7 +26,7 @@ Informations précontractuelles européennes normalisées en matière de crédit
 | Le cas échéant Sûretés exigées Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit. | \[Type de sûretés\] |
 | Le cas échéant Les remboursements n'entraînent pas un amortissement immédiat du capital. |  |
 
-3. Coût du crédit
+3\. Coût du crédit
 
 | Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit | \[Indiquer le taux exprimé en % : Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de référence applicable au taux débiteur initial) ou révisable Préciser les périodes, conditions et procédures d'adaptation du taux débiteur ou de chaque taux s'il y a plusieurs taux débiteurs. Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au..) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur.\] |
 | --- | --- |
@@ -42,7 +42,7 @@ Informations précontractuelles européennes normalisées en matière de crédit
 | Le cas échéant Obligation de payer des frais de notaire |  |
 | Frais en cas de défaillance de l'emprunteur Les impayés risquent d'avoir de graves conséquences pour vous et de vous empêcher d'obtenir un nouveau crédit. | Vous devrez payer \[.. (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)\] en cas de défaillance. |
 
-4. Autres aspects juridiques importants
+4\. Autres aspects juridiques importants
 
 | Droit de rétractation Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit. | Oui (Le cas échéant)Lorsque le contrat de crédit est un crédit affecté, la rétractation sur le contrat de crédit entre le premier et le quatorzième jour met fin au contrat de vente ou de prestation de services.Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services, votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la prestation de services. |
 | --- | --- |
@@ -53,7 +53,7 @@ Informations précontractuelles européennes normalisées en matière de crédit
 | Le délai pendant lequel le prêteur est lié par les informations précontractuelles | Ces informations sont valables du.. au.. |
 | \[Toutes les informations complémentaires que le prêteur souhaite donner au consommateur sont fournies dans un document distinct qui peut être annexé à la présente fiche\] | |
 
-5. Le cas échéant, informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 222-1 du code de la consommation
+5\. Le cas échéant, informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 222-1 du code de la consommation
 
 | A) Informations relatives au prêteur |  |
 | --- | --- |

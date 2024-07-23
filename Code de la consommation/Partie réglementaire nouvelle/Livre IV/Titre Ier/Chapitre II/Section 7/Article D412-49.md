@@ -10,13 +10,13 @@ a) Terminaux de paiement ;
 
 b) Terminaux en libre-service, destinés à la fourniture de services relevant de l'article D. 412-50 :
 
-- guichets de banque automatiques ;
+\- guichets de banque automatiques ;
 
-- distributeurs automatiques de titres de transports ;
+\- distributeurs automatiques de titres de transports ;
 
-- bornes d'enregistrement automatiques ;
+\- bornes d'enregistrement automatiques ;
 
-- terminaux en libre-service interactifs fournissant des informations, à l'exclusion des terminaux installés en tant que parties intégrantes de véhicules, d'aéronefs, de navires ou de matériel roulant ;
+\- terminaux en libre-service interactifs fournissant des informations, à l'exclusion des terminaux installés en tant que parties intégrantes de véhicules, d'aéronefs, de navires ou de matériel roulant ;
 
 3° Equipements terminaux grand public avec des capacités informatiques interactives, utilisés pour les services de communications électroniques ;
 

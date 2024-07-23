@@ -6,7 +6,7 @@ MODÈLE DE FICHE STANDARDISÉE D'INFORMATION
 
 Assurance emprunteur des prêts immobiliers
 
-1. Le distributeur
+1\. Le distributeur
 
 Nom :
 
@@ -20,7 +20,7 @@ n° ORIAS pour les intermédiaires :
 
 S'il y a lieu, lien avec une ou plusieurs entreprises d'assurance :
 
-2. Le candidat à l'assurance
+2\. Le candidat à l'assurance
 
 Nom : Prénom :
 
@@ -32,7 +32,7 @@ Vous êtes : □ emprunteur □ coemprunteur □ caution (cocher la case corresp
 
 S'il y a lieu, dénomination sociale : Siège social :
 
-3. Les caractéristiques du (des) prêt (s) demandé (s)
+3\. Les caractéristiques du (des) prêt (s) demandé (s)
 
 Nom du prêteur, s'il est connu :
 
@@ -49,7 +49,7 @@ In fine : le capital est remboursé à la fin du prêt.
 
 Relais : crédit in fine destiné à financer un nouvel achat immobilier dans l'attente de la vente d'un précédent bien.
 
-4. Les garanties minimales exigées par votre prêteur
+4\. Les garanties minimales exigées par votre prêteur
 
 Votre prêteur exige que vous souscriviez des garanties d'assurance minimales pour l'octroi de votre prêt. Parmi les critères de garanties exigibles, votre prêteur a retenu la liste de critères suivante, qui correspond à ses exigences générales liées à sa politique de risque, en fonction du type d'opération, du type de prêt et de votre statut professionnel.
 
@@ -76,7 +76,7 @@ OU
 
 Votre prêteur n'exige aucune assurance pour l'octroi de votre prêt.
 
-5. Les garanties que vous pouvez souscrire
+5\. Les garanties que vous pouvez souscrire
 
 5.1. Les types de garanties que nous proposons
 
@@ -224,11 +224,11 @@ Compte tenu de votre situation, vous envisagez d'assurer tout ou partie du capit
 
 □ Perte d'emploi et cette garantie est couverte à %.
 
-6. Formalisation du devoir de conseil
+6\. Formalisation du devoir de conseil
 
 \[A compléter. Si les informations ne sont pas suffisantes au moment de la remise de la fiche pour permettre la délivrance du conseil en assurance, l'indiquer\]
 
-7. Estimation personnalisée du coût de la solution d'assurance envisagée
+7\. Estimation personnalisée du coût de la solution d'assurance envisagée
 
 Compte tenu des caractéristiques connues du ou des prêts, de votre âge de ans, des types de garanties envisagées et de la part du capital à couvrir, le tableau ci-dessous propose une estimation du coût de l'assurance.
 
@@ -246,7 +246,7 @@ La cotisation d'assurance est : \[cocher la case correspondante\] :
 
 □ non constante (cotisation \[à compléter\] minimale : \[à compléter\] ; cotisation \[compléter la période\] maximale : \[à compléter\])
 
-8. Remarques importantes
+8\. Remarques importantes
 
 L'assurance emprunteur constitue une garantie à la fois pour le prêteur et l'emprunteur. Elle peut être un élément déterminant de l'obtention de votre prêt immobilier. Il appartient au professionnel de veiller à ce que les garanties qu'il vous propose de souscrire correspondent à vos besoins et à vos attentes.
 

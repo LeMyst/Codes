@@ -4,7 +4,7 @@ I.-1. La prestation partagée d'éducation de l'enfant est versée à taux plein
 
 Les conditions d'assimilation d'un mandat d'élu à une activité professionnelle au sens de l'alinéa précédent sont définies par décret.
 
-2. La prestation est attribuée à taux partiel à la personne qui exerce une activité ou poursuit une formation professionnelle rémunérée, à temps partiel. Son montant est fonction de la quotité de l'activité exercée ou de la formation suivie. Les quotités minimale et maximale de l'activité ou de la formation sont définies par décret.
+2\. La prestation est attribuée à taux partiel à la personne qui exerce une activité ou poursuit une formation professionnelle rémunérée, à temps partiel. Son montant est fonction de la quotité de l'activité exercée ou de la formation suivie. Les quotités minimale et maximale de l'activité ou de la formation sont définies par décret.
 
 La prestation à taux partiel est attribuée au travailleur non salarié en fonction de la quotité d'activité déclarée sur l'honneur, dès lors que cette activité ne lui procure pas une rémunération mensuelle nette ou un revenu professionnel excédant des montants définis par décret. La prestation à taux partiel peut également être attribuée lorsque la rémunération ou le revenu perçus sont supérieurs à ces montants, dès lors qu'ils sont proportionnels à la réduction de l'activité déclarée.
 
@@ -12,7 +12,7 @@ Les modalités selon lesquelles cette prestation à taux partiel est attribuée 
 
 Cette prestation à taux partiel est attribuée au même taux pendant une durée minimale déterminée par décret. Il ne peut y avoir révision de ce taux au cours de cette durée qu'en cas de cessation de l'activité ou de la formation.
 
-3. La prestation partagée d'éducation de l'enfant est versée pendant une durée, fixée par décret, en fonction du rang de l'enfant. A partir du deuxième enfant, cette durée comprend les périodes postérieures à l'accouchement donnant lieu à indemnisation par les assurances maternité des régimes obligatoires de sécurité sociale ou à maintien de traitement en application de statuts ainsi que les périodes indemnisées au titre du congé d'adoption.
+3\. La prestation partagée d'éducation de l'enfant est versée pendant une durée, fixée par décret, en fonction du rang de l'enfant. A partir du deuxième enfant, cette durée comprend les périodes postérieures à l'accouchement donnant lieu à indemnisation par les assurances maternité des régimes obligatoires de sécurité sociale ou à maintien de traitement en application de statuts ainsi que les périodes indemnisées au titre du congé d'adoption.
 
 Lorsque les deux membres du couple ont tous deux droit à la prestation, assument conjointement la charge de l'enfant au titre duquel la prestation partagée d'éducation de l'enfant est versée et que chacun d'entre eux fait valoir, simultanément ou successivement, son droit à la prestation, la durée totale de versement peut être prolongée jusqu'à ce que l'enfant atteigne un âge limite en fonction de son rang. Le droit à la prestation partagée d'éducation de l'enfant est ouvert jusqu'à ce que l'enfant ait atteint cet âge limite. L'âge limite de l'enfant, le montant de la prestation et les conditions dans lesquelles la durée de la prestation peut être prolongée sont fixés par décret.
 

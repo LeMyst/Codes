@@ -8,10 +8,10 @@
 
 (\*) Certains constituants des résines époxydiques, utilisés comme durcisseurs ou adjuvants, peuvent induire des maladies respiratoires allergiques professionnelles indemnisables. Il s'agit en particulier :
 
-- des amines aromatiques : rhinite et asthme (tableau 15 bis) ;
+\- des amines aromatiques : rhinite et asthme (tableau 15 bis) ;
 
-- des amines aliphatiques : rhinite et asthme (tableau 49 bis) ;
+\- des amines aliphatiques : rhinite et asthme (tableau 49 bis) ;
 
-- des anhydrides d'acides volatils : rhinite et asthme (tableau 66), pneumopathie d'hypersensibilité (tableau 66 bis) ;
+\- des anhydrides d'acides volatils : rhinite et asthme (tableau 66), pneumopathie d'hypersensibilité (tableau 66 bis) ;
 
-- de l'azodicarbonamide : rhinite et asthme (tableau 66).
+\- de l'azodicarbonamide : rhinite et asthme (tableau 66).

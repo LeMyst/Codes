@@ -4,8 +4,8 @@ Les conjoints collaborateurs peuvent demander la prise en compte, au titre de l'
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment :
 
-- les conditions dans lesquelles les demandes doivent être présentées ;
+\- les conditions dans lesquelles les demandes doivent être présentées ;
 
-- le mode de calcul des cotisations et les coefficients de revalorisation qui leur sont applicables ;
+\- le mode de calcul des cotisations et les coefficients de revalorisation qui leur sont applicables ;
 
-- les modalités de liquidation des droits à l'assurance vieillesse des demandeurs.
+\- les modalités de liquidation des droits à l'assurance vieillesse des demandeurs.

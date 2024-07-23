@@ -12,25 +12,25 @@ Ces atteintes sont chiffrées en dehors des séquelles commotionnelles, paralyti
 
 Embarrure crânienne persistante, selon le degré d'enfoncement :
 
-- 1/2 centimètre 2
+\- 1/2 centimètre 2
 
-- 1 centimètre 5
+\- 1 centimètre 5
 
-- Plus de 1 centimètre 10
+\- Plus de 1 centimètre 10
 
 Perte de substance osseuse (avec battements duremériens et impulsion à la toux) :
 
-- Diamètre : 3 centimètres 10
+\- Diamètre : 3 centimètres 10
 
-- De 4 à 9 centimètres 20 à 40
+\- De 4 à 9 centimètres 20 à 40
 
-- 10 centimètres 40 à 60
+\- 10 centimètres 40 à 60
 
-- Perte de substance réparée par plastie, mal tolérée : le taux sera apprécié selon l'importance des troubles fonctionnels.
+\- Perte de substance réparée par plastie, mal tolérée : le taux sera apprécié selon l'importance des troubles fonctionnels.
 
 Les séquelles de trépanation ne donnent plus lieu en elles-mêmes à une indemnisation, même s'il y a quatre ou cinq trous de trépan, sauf cicatrices douloureuses.
 
-- Volet cicatrisé en mauvaise position 5 à 10 Pour les séquelles fronto-orbitaires, voir le chapitre "Ophtalmologie".
+\- Volet cicatrisé en mauvaise position 5 à 10 Pour les séquelles fronto-orbitaires, voir le chapitre "Ophtalmologie".
 
 Corps étranger intracrânien :
 
@@ -46,27 +46,27 @@ L'examen neurologique clinique s'attachera à mettre en évidence :
 
 1° Les troubles moteurs.
 
-- Limitation totale ou partielle des mouvements volontaires ;
+\- Limitation totale ou partielle des mouvements volontaires ;
 
-- Troubles du tonus ;
+\- Troubles du tonus ;
 
-- Troubles des mouvements associés et de la coordination ;
+\- Troubles des mouvements associés et de la coordination ;
 
-- Mouvements involontaires (tremblements, mouvements athétosiques ou choréiques, etc.) ;
+\- Mouvements involontaires (tremblements, mouvements athétosiques ou choréiques, etc.) ;
 
-- Akinésie ou dyskinésie ;
+\- Akinésie ou dyskinésie ;
 
-- Ataxie etc.
+\- Ataxie etc.
 
 2° Les troubles sensitifs.
 
-- Anesthésie ;
+\- Anesthésie ;
 
-- Douleurs, dysesthésies ;
+\- Douleurs, dysesthésies ;
 
-- Astéréognosie ; - Perte du sens de position et atteinte de la sensibilité discriminative ;
+\- Astéréognosie ; - Perte du sens de position et atteinte de la sensibilité discriminative ;
 
-- Paresthésies, etc.
+\- Paresthésies, etc.
 
 L'examen clinique gagnera, le cas échéant, à s'appuyer sur des examens complémentaires : électroencéphalogramme, examen ophtalmologique, examen oto-vestibulaire, examen neuro-radiologique.
 
@@ -80,7 +80,7 @@ Ce syndrome se manifeste par des céphalées, des étourdissements ou une sensat
 
 Lors de l'interrogatoire, il y aura lieu de faire préciser au blessé les signes accusés, de les lui faire décrire. Cependant, le médecin évitera de diriger l'interrogatoire par des questions pouvant orienter les réponses.
 
-- Syndrome subjectif, post-commotionnel 5 à 20
+\- Syndrome subjectif, post-commotionnel 5 à 20
 
 On ne doit pas additionner au taux du syndrome post-commotionnel les taux inhérents à des séquelles neurologiques, sans que celles-ci soient individualisées et objectivées par des examens paracliniques éventuels : bilans ophtalmo et O.R.L., E.C.G., tomodensitométrie, etc.
 
@@ -88,9 +88,9 @@ On ne doit pas additionner au taux du syndrome post-commotionnel les taux inhér
 
 Il s'accompagne éventuellement de vertiges de position avec obnubilation visuelle, "arnoldalgie", point d'Erb, contracture du trapèze, redressement de la lordose cervicale physiologique, limitation plus ou moins douloureuse de la mobilité du cou.
 
-- Syndrome isolé 5 à 15
+\- Syndrome isolé 5 à 15
 
-- Syndrome associé à un syndrome post-commotionnel, le taux global n'excèdera pas 25.
+\- Syndrome associé à un syndrome post-commotionnel, le taux global n'excèdera pas 25.
 
 4.2.1.3 Epilepsie
 
@@ -112,9 +112,9 @@ Epilepsie incontrôlée avec crises fréquentes nécessitant la surveillance du 
 
 Epilepsie Bravais-Jacksonnienne.
 
-- Crises limitées à quelques groupes musculaires : 10 à 30
+\- Crises limitées à quelques groupes musculaires : 10 à 30
 
-- Crises affectant des groupes assez étendus : 10 à 40
+\- Crises affectant des groupes assez étendus : 10 à 40
 
 Epilepsie psycho-motrice (automatisme inconscient d'origine temporale) : 10 à 60
 
@@ -122,39 +122,39 @@ Autres épilepsies focalisées (frontale, occipitale, pariétale) :
 
 Epilepsie frontale.
 
-- Crises motrices, avec élévation du bras et éventuellement arrêt du langage : 10 à 40
+\- Crises motrices, avec élévation du bras et éventuellement arrêt du langage : 10 à 40
 
 Epilepsie occipitale.
 
-- Sensations visuelles lumineuses figurées macro ou micropsiques : 10 à 40.
+\- Sensations visuelles lumineuses figurées macro ou micropsiques : 10 à 40.
 
 Epilepsie pariétale.
 
-- Vertiges rotatoires et adversion 10 à 40.
+\- Vertiges rotatoires et adversion 10 à 40.
 
 4.2.1.4 Syndromes parkinsonniens
 
 C'est une éventualité rare, mais indiscutable. Trois modalités peuvent exister :
 
-- Exceptionnellement, une lésion cérébrale par corps étranger ou par projectile peut créer une lésion des noyaux gris et entraîner l'apparition de syndromes extrapyramidaux unilatéraux du côté opposé au traumatisme. Dans ce cas, la maladie n'est pas évolutive et les signes restent fixés ; en général, d'autres syndromes coexistent et, en particulier, des signes pyramidaux. A vrai dire, il ne s'agit pas d'un syndrome parkinsonnien proprement dit, mais de symptomes extra-pyramidaux au cours d'une lésion cérébrale.
+\- Exceptionnellement, une lésion cérébrale par corps étranger ou par projectile peut créer une lésion des noyaux gris et entraîner l'apparition de syndromes extrapyramidaux unilatéraux du côté opposé au traumatisme. Dans ce cas, la maladie n'est pas évolutive et les signes restent fixés ; en général, d'autres syndromes coexistent et, en particulier, des signes pyramidaux. A vrai dire, il ne s'agit pas d'un syndrome parkinsonnien proprement dit, mais de symptomes extra-pyramidaux au cours d'une lésion cérébrale.
 
 L'indemnisation dépend de l'importance des symptômes et est subordonnée à l'importance des autres manifestations neurologiques.
 
-- Un syndrome parkinsonnien évoluant après un traumatisme crânio-cérébral ou un syndrome de "choc" qu'elle qu'en soit la pathogénie.
+\- Un syndrome parkinsonnien évoluant après un traumatisme crânio-cérébral ou un syndrome de "choc" qu'elle qu'en soit la pathogénie.
 
 Le délai d'apparition après le traumatisme doit être de quelques mois, et d'un an au maximum.
 
-- Parkinson d'origine toxique (oxyde de carbone, bioxyde de manganèse, etc.).
+\- Parkinson d'origine toxique (oxyde de carbone, bioxyde de manganèse, etc.).
 
 Pour les trois formes, le taux tiendra compte de la gravité et du caractère unilatéral ou bilatéral :
 
-- Syndrome parkinsonnien léger, réagissant bien au traitement : 10 à 20
+\- Syndrome parkinsonnien léger, réagissant bien au traitement : 10 à 20
 
-- Syndrome plus accentué, avec gêne appréciable : 20 à 40
+\- Syndrome plus accentué, avec gêne appréciable : 20 à 40
 
-- Syndrome important : 40 à 90
+\- Syndrome important : 40 à 90
 
-- Syndrome excluant toute possibilité d'activité : 100
+\- Syndrome excluant toute possibilité d'activité : 100
 
 4.2.1.5. Torticolis spasmodiques, post-traumatique : 10 à 20
 
@@ -168,11 +168,11 @@ Non dominant : 20 à 40
 
 Les séquelles cérébelleuses des traumatismes crâniens sont relativement rares à l'état pur. Elles sont généralement associées à d'autres séquelles et surtout à des séquelles pyramidales.
 
-- Atteinte cérébelleuse globale, comportant des troubles statiques avec impossibilité de la marche, ainsi que des troubles kinétiques, avec dysmétrie et hypermétrie et incoordination bilatérale, adiadococinésie, tremblements, rendant toute activité impossible, et dysarthrie : 100
+\- Atteinte cérébelleuse globale, comportant des troubles statiques avec impossibilité de la marche, ainsi que des troubles kinétiques, avec dysmétrie et hypermétrie et incoordination bilatérale, adiadococinésie, tremblements, rendant toute activité impossible, et dysarthrie : 100
 
-- Atteinte bilatérale mais incomplète, permettant une marche imparfaite et des mouvements maladroits : 60 à 80
+\- Atteinte bilatérale mais incomplète, permettant une marche imparfaite et des mouvements maladroits : 60 à 80
 
-- Atteinte bilatérale légère avec marche peu perturbée, avec quelque maladresse des mouvements : 30 à 50
+\- Atteinte bilatérale légère avec marche peu perturbée, avec quelque maladresse des mouvements : 30 à 50
 
 Une atteinte unilatérale comportera, suivant l'importance de la maladresse des mouvements :
 
@@ -184,9 +184,9 @@ Une atteinte unilatérale comportera, suivant l'importance de la maladresse des 
 
 Dysarthrie : le sujet comprend, écrit, mais parle mal, parole laborieuse, difficilement intelligible. L'élément professionnel est essentiel :
 
-- Légère : 5 à 15
+\- Légère : 5 à 15
 
-- Importante : 15 à 60
+\- Importante : 15 à 60
 
 4.2.1.8 Atteinte de la fonction du langage.
 
@@ -216,21 +216,21 @@ V. Nerf trijumeau.
 
 Les séquelles résultant d'une atteinte du trijumeau peuvent être d'ordre sensitif ou d'ordre moteur.
 
-- Séquelles sensitives.
+\- Séquelles sensitives.
 
 Elles sont souvent trop minimes pour être chiffrables.
 
-- Anesthésie simple, sans douleur, par section d'une branche périphérique (nerf sus-orbitaire, sous-orbitaire, maxillaire inférieur) 5 à 10
+\- Anesthésie simple, sans douleur, par section d'une branche périphérique (nerf sus-orbitaire, sous-orbitaire, maxillaire inférieur) 5 à 10
 
-- Névralgie intense et persistante, en particulier de type continu sympathalgique, selon les répercussions sur l'activité du blessé 10 à 60
+\- Névralgie intense et persistante, en particulier de type continu sympathalgique, selon les répercussions sur l'activité du blessé 10 à 60
 
-- Séquelles motrices.
+\- Séquelles motrices.
 
 Une atteinte unilatérale n'entraîne qu'une gêne minime. Cependant, la mastication peut se trouver perturbée, de même que l'élocution et la déglutition. Ces troubles sont beaucoup plus importants si l'atteinte est bilatérale.
 
-- Atteinte unilatérale 5
+\- Atteinte unilatérale 5
 
-- Atteinte bilatérale 20 à 30
+\- Atteinte bilatérale 20 à 30
 
 VI. Nerf moteur oculaire externe : syndrome neuro-paralytique (voir "Ophtalmologie", annexe de l'œil) ;
 
@@ -238,19 +238,19 @@ VII. Nerf facial : les troubles sensitifs dus à l'atteinte d'un ou des nerfs fa
 
 Le sens du goût dépend à la fois du facial et du glosso-pharyngien (se reporter à "Séquelles portant sur le sens du goût").
 
-- Troubles moteurs.
+\- Troubles moteurs.
 
 Il s'agit essentiellement de troubles de la mimique, de la fermeture des yeux, de la mastication, du contrôle de la salivation et des larmes. Une paralysie unilatérale a des conséquences bien moindres qu'une atteinte bilatérale. Un bilan électrodiagnostique et électro-myographique pourra être pratiqué en vue de mettre en évidence une réaction de dégénérescence éventuelle.
 
 Le médecin chargé de l'évaluation justifiera son estimation d'après les difficultés de l'alimentation et de l'élocution. Eventuellement, il insistera sur les répercussions que peuvent avoir les séquelles sur la profession du blessé.
 
-- Paralysie de type périphérique, totale et définitive : 20 à 30
+\- Paralysie de type périphérique, totale et définitive : 20 à 30
 
-- Paralysie de type périphérique, partielle et définitive (une paralysie datant de plus de deux ans peut être considérée comme définitive) : 10 à 30
+\- Paralysie de type périphérique, partielle et définitive (une paralysie datant de plus de deux ans peut être considérée comme définitive) : 10 à 30
 
-- Paralysie bilatérale suivant l'intensité et l'état des réactions électriques : 20 à 30
+\- Paralysie bilatérale suivant l'intensité et l'état des réactions électriques : 20 à 30
 
-- Contracture post-paralytique ou hémispasme facial, suivant déformation du visage : 10 à 20
+\- Contracture post-paralytique ou hémispasme facial, suivant déformation du visage : 10 à 20
 
 VIII. Nerf auditif (se reporter à "Séquelles portant sur le système auditif").
 
@@ -258,19 +258,19 @@ IX. Nerf glosso-pharyngien :
 
 Nerf mixte, sensitivo-moteur ; ses troubles sont difficiles à évaluer, car il participe à plusieurs fonctions. L'incapacité fonctionnelle dépend de la gêne à la déglutition, à l'élocution, voire à la respiration.
 
-- Paralysie unilatérale (fausse route) : 10
+\- Paralysie unilatérale (fausse route) : 10
 
-- Paralysie bilatérale (exceptionnelle) : 20
+\- Paralysie bilatérale (exceptionnelle) : 20
 
 X. Nerf pneumogastrique.
 
 Le nerf pneumogastrique possède des fonctions végétatives (parasympathiques), des fonctions motrices et des fonctions sensitives. De sa blessure résultent donc :
 
-- Des troubles de la fonction végétative ;
+\- Des troubles de la fonction végétative ;
 
-- Des troubles de la fonction motrice ;
+\- Des troubles de la fonction motrice ;
 
-- Des troubles de la fonction sensitive.
+\- Des troubles de la fonction sensitive.
 
 Ces troubles seront estimés selon les différents déficits fonctionnels constatés (voir Appareil digestif, respiratoire, cardio-vasculaire, O.R.L.).
 
@@ -278,7 +278,7 @@ XI. Nerf spinal.
 
 L'atteinte du nerf spinal peut déterminer une atrophie du trapèze et du sternocléido-mastoïdien (chute de l'épaule, déviation en dehors du bord spinal du scapulum, faiblesse de la main unilatérale). La réadaptation est parfois possible.
 
-- Selon la gêne apportée dans l'activité du blessé, et le côté atteint 15 à 30
+\- Selon la gêne apportée dans l'activité du blessé, et le côté atteint 15 à 30
 
 (Une périarthrite scapulo-humérale (P.S.H.) peut faire partie du tableau).
 
@@ -298,11 +298,11 @@ Syndromes psychiatriques.
 
 L'étiologie traumatique des syndromes psychiatriques est très exceptionnelle. Il ne faut qu'une enquête approfondie atteste l'intégrité mentale antérieure, et que le syndrome succède immédiatement à un traumatisme particulièrement important. Seul, un psychiatre peut estimer valablement le déficit psychique de la victime.
 
-- Syndrome psychiatrique post-traumatique : 20 à 100.
+\- Syndrome psychiatrique post-traumatique : 20 à 100.
 
 Névroses post-traumatiques.
 
-- Syndrome névrotique anxieux, hypochondriaque, cénesthopatique, obsessionnel, caractérisé, s'accompagnant d'un retentissement plus ou moins important sur l'activité professionnelle de l'intéressé : 20 à 40
+\- Syndrome névrotique anxieux, hypochondriaque, cénesthopatique, obsessionnel, caractérisé, s'accompagnant d'un retentissement plus ou moins important sur l'activité professionnelle de l'intéressé : 20 à 40
 
 (Ces cas névrotiques caractérisés ne doivent pas être confondus avec un syndrome post-commotionnel des traumatisés du crâne ni avec les séquelles définies au chapitre suivant).
 
@@ -324,11 +324,11 @@ Syndrome de Brown-Séquard : le déficit sera évalué en faisant la somme de l'
 
 Syndromes autres que le syndrome de Brown-Séquard : les atteintes constatées peuvent être :
 
-- Soit résiduelles et fixes ;
+\- Soit résiduelles et fixes ;
 
-- Soit évolutives et progressives ;
+\- Soit évolutives et progressives ;
 
-- Soit exceptionnellement régressives.
+\- Soit exceptionnellement régressives.
 
 Le pourcentage d'estimation doit être fixé en raison du degré d'impotence et de l'importance des éventuels troubles trophiques associés.
 
@@ -344,7 +344,7 @@ Au membre supérieur.
 
 Au membre inférieur.
 
-- Atteinte à prédominance proximale de la ceinture pelvienne, sans retentissement sur la fonction du pied :
+\- Atteinte à prédominance proximale de la ceinture pelvienne, sans retentissement sur la fonction du pied :
 
 Non dominant : 40 à 60
 
@@ -352,11 +352,11 @@ Atteinte à prédominance des muscles de la cuisses :
 
 Non dominant : 20 à 40
 
-- Atteinte à prédominance distale intéressant la fonction du pied et de la jambe :
+\- Atteinte à prédominance distale intéressant la fonction du pied et de la jambe :
 
 Non dominant : 25 à 50
 
-- Atteinte complète avec impotence absolue d'un membre inférieur :
+\- Atteinte complète avec impotence absolue d'un membre inférieur :
 
 Non dominant : 75
 
@@ -378,13 +378,13 @@ Rétention et incontinence d'urine (se reporter au système génito-urinaire).
 
 Troubles de la défécation : si les troubles peuvent être corrigés par les thérapeutiques habituelles d'évacuation rectale, il n'y a pas lieu d'estimer d'incapacité partielle de travail.
 
-- Rétention rebelle, entraînant des symptômes de coprostase : 10
+\- Rétention rebelle, entraînant des symptômes de coprostase : 10
 
-- Incontinence incomplète : 10 à 25
+\- Incontinence incomplète : 10 à 25
 
-- Complète : 70
+\- Complète : 70
 
-- Troubles génitaux, abolition des érections ou diminution considérable, ne permettant pas les rapports sexuels : 10 à 20
+\- Troubles génitaux, abolition des érections ou diminution considérable, ne permettant pas les rapports sexuels : 10 à 20
 
 Syndrome de la queue de cheval.
 
@@ -398,7 +398,7 @@ L'examen neurologique doit être spécialement attentif et minutieux. Le médeci
 
 4° Les troubles moteurs manquent souvent : lorsqu'il existe une paraplégie, elle est de type radiculo-névritique, c'est-à-dire flasque et en général dissociée.
 
-- Syndrome plus ou moins accentué, selon les troubles sphinctériens et génitaux : 30 à 50
+\- Syndrome plus ou moins accentué, selon les troubles sphinctériens et génitaux : 30 à 50
 
 (A ce taux s'ajoute l'incapacité résultant des troubles parétiques éventuellement associés, sans que la somme puisse dépasser 100 %).
 
@@ -412,21 +412,21 @@ Troubles moteurs :
 
 Hémiplégie.
 
-- Impotence complète, avec troubles sphinctériens, avec ou sans aphasie, etc. : 100
+\- Impotence complète, avec troubles sphinctériens, avec ou sans aphasie, etc. : 100
 
 Conservation d'une activité réduite, avec marche possible, absence de troubles sphinctériens, langage peu ou pas perturbé, persistance d'une certaine autonomie :
 
-- Côté dominant : 60 à 80
+\- Côté dominant : 60 à 80
 
-- Côté non dominant : 50 à 70
+\- Côté non dominant : 50 à 70
 
 Monoplégie.
 
 Atteinte isolée d'un membre inférieur.
 
-- Marche possible, mais difficile en terrain accidenté, pour monter des marches, longs trajets pénibles : 30
+\- Marche possible, mais difficile en terrain accidenté, pour monter des marches, longs trajets pénibles : 30
 
-- Marche difficile, même en terrain plat : 40
+\- Marche difficile, même en terrain plat : 40
 
 Le sujet peut se lever, maintenir certaines positions, mais la démarche est impossible sans l'aide de cannes-béquilles ou de béquilles.
 
@@ -451,9 +451,9 @@ L'incapacité sera donc évaluée globalement. En cas de troubles sensitifs isol
 
 b. Douleurs de type spino-thalamique :
 
-- Douleur à type de brûlure permanente unilatérale plus ou moins étendue, exagérée par le frottement et les émotions : 20 à 60
+\- Douleur à type de brûlure permanente unilatérale plus ou moins étendue, exagérée par le frottement et les émotions : 20 à 60
 
-- Avec impotence totale d'un membre : 80
+\- Avec impotence totale d'un membre : 80
 
 4.2.5 SEQUELLES PORTANT SUR LE SYSTÈME NERVEUX PERIPHERIQUE
 
@@ -582,21 +582,21 @@ En cas d'atteinte simultanée de plusieurs nerfs d'un même membre, il y a lieu 
 
 Membre inférieur.
 
-- Paralysie totale d'un membre inférieur (degré 0, 1, 2 et 3), flasque 75
+\- Paralysie totale d'un membre inférieur (degré 0, 1, 2 et 3), flasque 75
 
-- Paralysie complète du nerf sciatique (demi-tendineux, demi membraneux, biceps fémoral, une partie du grand adducteur, auxquels se joignent les muscles innervés par le sciatique poplité externe et le sciatique poplité interne). Voir aussi " Membre inférieur ", séquelles vasculaires et nerveuses (degré 0, 1, 2 et 3) 60
+\- Paralysie complète du nerf sciatique (demi-tendineux, demi membraneux, biceps fémoral, une partie du grand adducteur, auxquels se joignent les muscles innervés par le sciatique poplité externe et le sciatique poplité interne). Voir aussi " Membre inférieur ", séquelles vasculaires et nerveuses (degré 0, 1, 2 et 3) 60
 
-- Paralysie du nerf sciatique poplité externe (jambier antérieur, extenseur propre du gos orteil, extenseur commun, long et court péroniers latéraux, pédieux) (degré 0, 1, 2 et 3) 30
+\- Paralysie du nerf sciatique poplité externe (jambier antérieur, extenseur propre du gos orteil, extenseur commun, long et court péroniers latéraux, pédieux) (degré 0, 1, 2 et 3) 30
 
-- Paralysie du nerf sciatique poplité interne (poplité, jumeaux, soléaire, plantaire grêle, jambier postérieur, fléchisseur commun, long fléchisseur du premier orteil, tous les muscles plantaires) (degré 0, 1, 2 et 3) 30
+\- Paralysie du nerf sciatique poplité interne (poplité, jumeaux, soléaire, plantaire grêle, jambier postérieur, fléchisseur commun, long fléchisseur du premier orteil, tous les muscles plantaires) (degré 0, 1, 2 et 3) 30
 
-- Paralysie du nerf crural (quadriceps) (degré 0, 1, 2 et 3) 40
+\- Paralysie du nerf crural (quadriceps) (degré 0, 1, 2 et 3) 40
 
-- Paralysie du nerf obturateur (pectiné, obturateur externe, adducteur) (degré 0, 1, 2 et 3) 15
+\- Paralysie du nerf obturateur (pectiné, obturateur externe, adducteur) (degré 0, 1, 2 et 3) 15
 
 Névrites périphériques.
 
-- Névrites avec algies (voir en tête du sous-chapitre)
+\- Névrites avec algies (voir en tête du sous-chapitre)
 
 Lorsqu'elles sont persistantes, suivant leur siège et leur gravité 10 à 20
 
@@ -616,18 +616,18 @@ Les algodystrophies se manifestent :
 
 Algodystrophie du membre supérieur.
 
-- Selon l'intensité des douleurs, des troubles trophiques et de l'atteinte articulaire : forme mineure sans troubles trophiques importants, sans troubles neurologiques et sans impotence 10 à 20
+\- Selon l'intensité des douleurs, des troubles trophiques et de l'atteinte articulaire : forme mineure sans troubles trophiques importants, sans troubles neurologiques et sans impotence 10 à 20
 
-- Forme sévère, avec impotence et troubles trophiques, sans troubles neurologiques objectifs, selon l'importance 30 à 50
+\- Forme sévère, avec impotence et troubles trophiques, sans troubles neurologiques objectifs, selon l'importance 30 à 50
 
-- Forme avec troubles neurologiques (voir le chapitre correspondant).
+\- Forme avec troubles neurologiques (voir le chapitre correspondant).
 
 Algodystrophie du membre inférieur.
 
-- Selon l'intensité des douleurs, des troubles trophiques, et de la gêne à la marche 10 à 30
+\- Selon l'intensité des douleurs, des troubles trophiques, et de la gêne à la marche 10 à 30
 
-- Forme mineure sans troubles trophiques importants, sans troubles neurologiques et sans impotence 10 à 20
+\- Forme mineure sans troubles trophiques importants, sans troubles neurologiques et sans impotence 10 à 20
 
-- Forme sévère, avec impotence et troubles trophiques, sans trouble neurologiques objectifs, selon l'importance 30 à 50
+\- Forme sévère, avec impotence et troubles trophiques, sans trouble neurologiques objectifs, selon l'importance 30 à 50
 
-- Forme avec troubles neurologiques (voir chapitre correspondant).
+\- Forme avec troubles neurologiques (voir chapitre correspondant).

@@ -52,58 +52,58 @@ A - Maladies susceptibles d'avoir une origine professionnelle et d'être imputé
 
 B - Maladies susceptibles d'avoir une origine professionnelle et d'être imputées aux agents physiques suivants :
 
-1. Rayonnements ionisants.
+1\. Rayonnements ionisants.
 
-1. Energie radiante.
+2\. Energie radiante.
 
-1. Bruit.
+3\. Bruit.
 
-1. Milieux où la pression est supérieure à la pression atmosphérique.
+4\. Milieux où la pression est supérieure à la pression atmosphérique.
 
-1. Vibrations mécaniques.
+5\. Vibrations mécaniques.
 
 C - Maladies infectieuses ou parasitaires susceptibles d'avoir une origine professionnelle :
 
-1. Maladies provoquées par les helminthes, l'ankylostomeduodénal, l'anguillule de l'intestin.
+1\. Maladies provoquées par les helminthes, l'ankylostomeduodénal, l'anguillule de l'intestin.
 
-1. Infection charbonneuse, tétanos, leptospiroses, brucelloses.
+2\. Infection charbonneuse, tétanos, leptospiroses, brucelloses.
 
-1. Autres maladies infectieuses ou parasitaires transmises à l'homme par des animaux ou débris d'animaux.
+3\. Autres maladies infectieuses ou parasitaires transmises à l'homme par des animaux ou débris d'animaux.
 
-1. Maladies infectieuses du personnel s'occupant de prévention, soins, assistance à domicile, recherches.
+4\. Maladies infectieuses du personnel s'occupant de prévention, soins, assistance à domicile, recherches.
 
-1. Maladies tropicales, notamment : paludisme, amibiase, trypanosomiase, dengue, fièvre à pappataci, fièvre de Malte, fièvre récurrente, fièvre jaune, peste, leischmaniose, pian, lèpre, typhus exanthématique et autres rickettsioses.
+5\. Maladies tropicales, notamment : paludisme, amibiase, trypanosomiase, dengue, fièvre à pappataci, fièvre de Malte, fièvre récurrente, fièvre jaune, peste, leischmaniose, pian, lèpre, typhus exanthématique et autres rickettsioses.
 
 D - Maladies de la peau susceptibles d'avoir une origine professionnelle (autres que celles imputables à l'une des causes sus-énumérées) :
 
-1. Cancers cutanés et affections cutanées précancéreuses éventuellement imputables à certains produits tels que : brais, goudrons, bitumes, suies, huiles anthracéniques, huiles minérales et paraffines brutes.
+1\. Cancers cutanés et affections cutanées précancéreuses éventuellement imputables à certains produits tels que : brais, goudrons, bitumes, suies, huiles anthracéniques, huiles minérales et paraffines brutes.
 
-1. Affections cutanées imputables aux alcalis cautiques, aux ciments, aux bois exotiques et autres produits irritants.
+2\. Affections cutanées imputables aux alcalis cautiques, aux ciments, aux bois exotiques et autres produits irritants.
 
-1. Affections cutanées imputables à toute autre cause en relation avec le milieu professionnel.
+3\. Affections cutanées imputables à toute autre cause en relation avec le milieu professionnel.
 
 E - Affections des voies respiratoires susceptibles d'avoir une origine professionnelle :
 
-1. Pneumoconioses.
+1\. Pneumoconioses.
 
-1. Affections broncho-pulmonaires imputables à des poussières ou fumées.
+2\. Affections broncho-pulmonaires imputables à des poussières ou fumées.
 
-1. Asthme.
+3\. Asthme.
 
 F - Autres affections susceptibles d'avoir une origine professionnelle :
 
-1. Maladies des bourses périarticulaires dues à des pressions, cellulites sous-cutanées.
+1\. Maladies des bourses périarticulaires dues à des pressions, cellulites sous-cutanées.
 
-1. Maladies consécutives au surmenage des gaines tendineuses, du tissu péritendineux, des insertions musculaires et tendineuses.
+2\. Maladies consécutives au surmenage des gaines tendineuses, du tissu péritendineux, des insertions musculaires et tendineuses.
 
-1. Lésions du ménisque.
+3\. Lésions du ménisque.
 
-1. Arrachements par surmenage des apophyses épineuses.
+5\. Arrachements par surmenage des apophyses épineuses.
 
-1. Paralysies des nerfs dues à la pression.
+6\. Paralysies des nerfs dues à la pression.
 
-1. Crampes.
+7\. Crampes.
 
-1. Nystagmus.
+8\. Nystagmus.
 
-1. Scorbut.
+9\. Scorbut.

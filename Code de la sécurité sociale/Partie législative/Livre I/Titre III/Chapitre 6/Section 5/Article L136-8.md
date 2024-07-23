@@ -36,9 +36,9 @@ V.-Abrogé
 
 VI.-1. L'Agence centrale des organismes de sécurité sociale est chargée de centraliser et de répartir le produit de la contribution mentionnée au présent chapitre, dans les conditions prévues au présent article et à l'article L. 131-8.
 
-2. Il en est de même pour les produits recouvrés simultanément aux contributions mentionnées aux articles L. 136-6 et L. 136-7 et pour les produits mentionnés aux I et III de l'article 18 de l'ordonnance n° 96-50 du 24 janvier 1996 précitée.
+2\. Il en est de même pour les produits recouvrés simultanément aux contributions mentionnées aux articles L. 136-6 et L. 136-7 et pour les produits mentionnés aux I et III de l'article 18 de l'ordonnance n° 96-50 du 24 janvier 1996 précitée.
 
-1. Pour l'application du présent VI, le montant global des contributions et prélèvements sociaux mentionnés à l'article L. 138-21 qui est reversé par l'Etat à l'agence est réparti entre les affectataires de ces contributions et prélèvements au prorata des taux des contributions et prélèvements qui leur sont affectés à la date de leur fait générateur.
+3\. Pour l'application du présent VI, le montant global des contributions et prélèvements sociaux mentionnés à l'article L. 138-21 qui est reversé par l'Etat à l'agence est réparti entre les affectataires de ces contributions et prélèvements au prorata des taux des contributions et prélèvements qui leur sont affectés à la date de leur fait générateur.
 
 NOTA:
 Conformément au VII de l'article 8 de la loi n° 2020-1576 du 14 décembre 2020, les présentes dispositions s'appliquent aux avantages dus à compter du 1er janvier 2021.

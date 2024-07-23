@@ -14,8 +14,8 @@ Pour que la séroconversion puisse être rattachée à l'accident, il est néces
 
 16.1.2. Déficit immunitaire associé à l'infection par le VIH et se traduisant par :
 
-- un taux de lymphocytes CD 4 compris entre 200 et 350 par millimètre cube : de 40 à 60 p. 100 ;
+\- un taux de lymphocytes CD 4 compris entre 200 et 350 par millimètre cube : de 40 à 60 p. 100 ;
 
-- un taux de lymphocytes CD 4 inférieur à 200 par millimètre cube : de 60 à 100 p. 100.
+\- un taux de lymphocytes CD 4 inférieur à 200 par millimètre cube : de 60 à 100 p. 100.
 
 Ce déficit immunitaire doit être affirmé par deux examens successifs pratiqués à un mois d'intervalle.

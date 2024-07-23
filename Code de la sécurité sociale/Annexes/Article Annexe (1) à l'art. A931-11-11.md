@@ -12,7 +12,7 @@ Les sommes portées au bilan, au compte de résultat et à l'annexe sont arrondi
 
 L'ensemble des lignes du bilan et du compte de résultat sont servies, de manière à faire ressortir clairement les sous-totaux par poste principal, d'une part, et, le cas échéant, par sous-poste, d'autre part.
 
-1. BILAN
+1\. BILAN
 
 A. - Actif
 

@@ -4,11 +4,11 @@ Pour l'application des 1° et 2° de l'article L. 160-14 ;
 
 I.-La participation de l'assuré aux tarifs servant de base au calcul de la prise en charge des frais de santé en cas de maladie est réduite à 24 euros dans les cas suivants :
 
-1. Pour les actes inscrits sur la liste mentionnée à l'article R. 162-52 qui sont affectés soit d'un coefficient égal ou supérieur à 60, soit d'un tarif égal ou supérieur à 120 euros.
+1\. Pour les actes inscrits sur la liste mentionnée à l'article R. 162-52 qui sont affectés soit d'un coefficient égal ou supérieur à 60, soit d'un tarif égal ou supérieur à 120 euros.
 
-1. Pour l'ensemble des frais intervenant au cours d'une hospitalisation dans un établissement de santé, lorsqu'il est effectué un acte thérapeutique ou un acte diagnostique dont la réalisation en établissement de santé est nécessaire à la sécurité des soins, affecté d'un coefficient égal ou supérieur à 60 ou d'un tarif égal ou supérieur à 120 euros.
+2\. Pour l'ensemble des frais intervenant au cours d'une hospitalisation dans un établissement de santé, lorsqu'il est effectué un acte thérapeutique ou un acte diagnostique dont la réalisation en établissement de santé est nécessaire à la sécurité des soins, affecté d'un coefficient égal ou supérieur à 60 ou d'un tarif égal ou supérieur à 120 euros.
 
-1. Pour l'ensemble des frais intervenant au cours d'une hospitalisation consécutive à une hospitalisation répondant aux conditions mentionnées au 2 et en lien direct avec elle.
+3\. Pour l'ensemble des frais intervenant au cours d'une hospitalisation consécutive à une hospitalisation répondant aux conditions mentionnées au 2 et en lien direct avec elle.
 
 Dans les cas mentionnés aux 2 et 3 ci-dessus, la participation de l'assuré est due au titre des frais d'hospitalisation.
 
@@ -18,9 +18,9 @@ Pour l'application de ces dispositions, les coefficients ou les tarifs des actes
 
 II.-La participation de l'assuré est supprimée :
 
-1. Pour les actes de radiodiagnostic, d'imagerie par résonance magnétique, de scanographie, de scintigraphie ou de tomographie à émission de positons mentionnés dans la liste des actes et prestations pris en charge ou admis au remboursement par l'assurance maladie prévue à l'article R. 162-52 qui sont affectés soit d'un coefficient égal ou supérieur à 60, soit d'un tarif égal ou supérieur à 120 euros ; cette suppression ne dispense pas du versement du montant de la participation due par l'assuré au titre des autres actes pratiqués à l'occasion de la consultation ou des frais intervenus au cours de l'hospitalisation.
+1\. Pour les actes de radiodiagnostic, d'imagerie par résonance magnétique, de scanographie, de scintigraphie ou de tomographie à émission de positons mentionnés dans la liste des actes et prestations pris en charge ou admis au remboursement par l'assurance maladie prévue à l'article R. 162-52 qui sont affectés soit d'un coefficient égal ou supérieur à 60, soit d'un tarif égal ou supérieur à 120 euros ; cette suppression ne dispense pas du versement du montant de la participation due par l'assuré au titre des autres actes pratiqués à l'occasion de la consultation ou des frais intervenus au cours de l'hospitalisation.
 
-1. Pour les frais de transport d'urgence entre le lieu de prise en charge de la personne et l'établissement de santé, en cas d'hospitalisation mentionnée au 2 du I ainsi que, en cas d'hospitalisation mentionnée au 3, pour les frais de transport entre les deux établissements ou entre l'établissement et le domicile en cas d'hospitalisation à domicile.
+2\. Pour les frais de transport d'urgence entre le lieu de prise en charge de la personne et l'établissement de santé, en cas d'hospitalisation mentionnée au 2 du I ainsi que, en cas d'hospitalisation mentionnée au 3, pour les frais de transport entre les deux établissements ou entre l'établissement et le domicile en cas d'hospitalisation à domicile.
 
 Pour l'application des dispositions du 1 ci-dessus, les coefficients ou tarifs de chacun des actes mentionnés ne peuvent être cumulés.
 
@@ -30,8 +30,8 @@ IV.-La participation de l'assuré n'est ni réduite ni supprimée pour les frais
 
 V.-La participation de l'assuré est supprimée dans les cas suivants :
 
-1. Pour les frais d'acquisition des prothèses oculaires et faciales, des orthoprothèses et des véhicules pour handicapés physiques figurant sur la liste prévue par l'article L. 165-1.
+1\. Pour les frais d'acquisition des prothèses oculaires et faciales, des orthoprothèses et des véhicules pour handicapés physiques figurant sur la liste prévue par l'article L. 165-1.
 
-1. Pour les frais afférents à la fourniture du sang humain, du plasma ou de leurs dérivés et de la fourniture du lait humain.
+2\. Pour les frais afférents à la fourniture du sang humain, du plasma ou de leurs dérivés et de la fourniture du lait humain.
 
-1. Pour l'ensemble des frais intervenant au cours d'une hospitalisation à compter du trente et unième jour d'hospitalisation consécutif.
+3\. Pour l'ensemble des frais intervenant au cours d'une hospitalisation à compter du trente et unième jour d'hospitalisation consécutif.

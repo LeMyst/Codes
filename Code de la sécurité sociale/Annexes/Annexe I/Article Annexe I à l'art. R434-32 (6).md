@@ -12,29 +12,29 @@ Dans chaque cas particulier, on tiendra compte des conséquences de voisinage de
 
 Sténose unilatérale. - Simple diminution du calibre de la narine ou de la fosse nasale 2
 
-- Formation de croûtes, rhino-pharyngite 4
+\- Formation de croûtes, rhino-pharyngite 4
 
-- Sténose totale avec retentissement tubo-tympanique ou sinusien, sans sinusite suppurée 6 à 10
+\- Sténose totale avec retentissement tubo-tympanique ou sinusien, sans sinusite suppurée 6 à 10
 
 Sténose bilatérale. - Diminution de la perméabilité ne dépassant pas le tiers de la perméabilité physiologique 4
 
-- Diminution plus accentuée avec croûtes, rhino-pharyngite, etc. 8
+\- Diminution plus accentuée avec croûtes, rhino-pharyngite, etc. 8
 
-- Sténose serrée avec respiration exclusivement buccale et troubles à distance 15 à 20
+\- Sténose serrée avec respiration exclusivement buccale et troubles à distance 15 à 20
 
-- Troubles fonctionnels entraînant une perturbation bilatérale intermittente de la perméabilité nasale 4 à 6
+\- Troubles fonctionnels entraînant une perturbation bilatérale intermittente de la perméabilité nasale 4 à 6
 
 5.1.2 PERFORATION DE LA CLOISON NASALE.
 
 En général, elle n'entraîne pas d'incapacité. Cependant des phénomènes irritatifs peuvent se manifester autour de la perforation.
 
-- Accompagnée de phénomènes irritatifs 3
+\- Accompagnée de phénomènes irritatifs 3
 
 5.1.3 RHINITES CROUTEUSES. (après perte de substance endo-nasale étendue).
 
-- Unilatérale 4
+\- Unilatérale 4
 
-- Bilatérale 8
+\- Bilatérale 8
 
 5.1.4 TROUBLES OLFACTIFS.
 
@@ -42,13 +42,13 @@ Ils font suite à une fracture du frontal ou de l'ethmoïde, à des traumatismes
 
 En cas de troubles olfactifs, la profession peut jouer un rôle prédominant et justifier la majoration parfois importante des taux proposés (sommeliers, cuisiniers, métiers de parfums, etc.).
 
-- Anosmie et troubles divers de l'olfaction 5 à 8
+\- Anosmie et troubles divers de l'olfaction 5 à 8
 
 5.1.5 TROUBLES ESTHETIQUES PAR MUTILATION OU DEFORMATION NASALE.
 
 Une mutilation sérieuse du nez ou une déformation importante post-traumatique de la pyramide nasale entraîne une aggravation de l'incapacité fonctionnelle par entrave à l'embauche dans certaines professions (artistes, vendeuses, garçons de café, coiffeurs, etc.).
 
-- Déformation de la pyramide nasale, post-traumatique, selon gêne à la respiration, défiguration 5 à 30
+\- Déformation de la pyramide nasale, post-traumatique, selon gêne à la respiration, défiguration 5 à 30
 
 5.2 SINUS.
 
@@ -56,15 +56,15 @@ Le rattachement d'une sinusite à un traumastisme ne doit être accepté qu'avec
 
 5.2.1 SINUSITE MAXILLAIRE CHRONIQUE.
 
-- Unilatérale 5 à 8
+\- Unilatérale 5 à 8
 
-- Bilatérale 10 à 13
+\- Bilatérale 10 à 13
 
 5.2.2 SINUSITES FRONTO-ETHMOÏDALES OU SPHENOÏDALES.
 
-- Sinusite unilatérale 15 à 20
+\- Sinusite unilatérale 15 à 20
 
-- Sinusite bilatérale 25 à 30
+\- Sinusite bilatérale 25 à 30
 
 5.2.3 CRANIO-HYDRORRHEE (voir "Neurologie").
 
@@ -72,9 +72,9 @@ Il s'agit d'un cas de gravité considérable, surtout en cas de fracture sphéno
 
 La cranio-hydrorrhée devra être vérifiée par des examens complémentaires probants, pour préciser la nature de l'écoulement. Il faut en effet se méfier de confondre une cranio-hydrorrhée avec un écoulement d'origine allergique. L'apparition peut en être tardive.
 
-- Cranio-hydrorrhée non compliquée 30
+\- Cranio-hydrorrhée non compliquée 30
 
-- Cranio-hydrorrhée compliquée de méningite à répétition 60
+\- Cranio-hydrorrhée compliquée de méningite à répétition 60
 
 5.3 PHARYNX.
 
@@ -84,7 +84,7 @@ L'oropharynx peut être le siège d'une sténose cicatricielle gênant la déglu
 
 Le pharynx n'est presque jamais intéressé isolément ; les blessures et leurs conséquences sont associées à celles du larynx et éventuellement de la bouche oesophagienne, qui peuvent les compliquer. Il importe de tenir compte de la gêne à la déglutition, dans l'évaluation globale.
 
-- Gêne à la déglutition par rétrécissement 5 à 35
+\- Gêne à la déglutition par rétrécissement 5 à 35
 
 5.4 LARYNX.
 
@@ -94,23 +94,23 @@ Pour l'évaluation de l'incapacité qu'entraînent ces troubles, il sera tenu co
 
 Les troubles d'origine laryngée sont de deux sortes :
 
-- Vocaux : dysphonie, aphonie,
+\- Vocaux : dysphonie, aphonie,
 
-- Et respiratoires : dyspnée.
+\- Et respiratoires : dyspnée.
 
 5.4.1 TROUBLES VOCAUX.
 
-- Dysphonie seule 5 à 8
+\- Dysphonie seule 5 à 8
 
-- Aphonie sans dyspnée 30
+\- Aphonie sans dyspnée 30
 
 5.4.2 TROUBLES RESPIRATOIRES.
 
 Insuffisance respiratoire légère, moyenne, importante : (voir chapitre 9 : " Appareil respiratoire ").
 
-- Trachéotomie sans port d'une canule 50
+\- Trachéotomie sans port d'une canule 50
 
-- Trachéotomie avec port d'une canule 80
+\- Trachéotomie avec port d'une canule 80
 
 5.5 OREILLES.
 
@@ -134,13 +134,13 @@ Le degré de gravité des vertiges sera estimé essentiellement en fonction des 
 
 Il y aura lieu de faire une corrélation entre l'atteinte labyrinthique et une atteinte cochléaire, avec surdité de perception vérifiée à l'audiogramme.
 
-- Vertiges sans signes labyrinthiques objectifs mais avec petite atteinte cochléaire à type de scotomes sur les aigüs, attestant une légère commotion labyrinthique 5
+\- Vertiges sans signes labyrinthiques objectifs mais avec petite atteinte cochléaire à type de scotomes sur les aigüs, attestant une légère commotion labyrinthique 5
 
-- Vertiges s'accompagnant de signes labyrinthiques objectifs tel nystagmus spontané ou de position, ou asymétrie dans les réponses. Nécessité de certaines restrictions dans l'activité professionnelle et dans la vie privée 10 à 15
+\- Vertiges s'accompagnant de signes labyrinthiques objectifs tel nystagmus spontané ou de position, ou asymétrie dans les réponses. Nécessité de certaines restrictions dans l'activité professionnelle et dans la vie privée 10 à 15
 
-- Vertiges vestibulaires au cours des épreuves avec inexcitabilité unilatérale 20
+\- Vertiges vestibulaires au cours des épreuves avec inexcitabilité unilatérale 20
 
-- Vertiges avec inexcitabilité bilatérale 25
+\- Vertiges avec inexcitabilité bilatérale 25
 
 La surdité sera calculée à part.
 
@@ -180,23 +180,23 @@ En général, les acouphènes d'origine traumatique (bourdonnements, sifflements
 
 Il sera tenu compte, pour l'estimation du taux d'incapacité, de leur durée, de leur intensité, de leur retentissement sur le sommeil, voire sur l'état général, moral et psychique.
 
-- Acouphène gênant le sommeil, accompagnant une baisse de l'acuité auditive 2 à 5
+\- Acouphène gênant le sommeil, accompagnant une baisse de l'acuité auditive 2 à 5
 
 Ce taux s'ajoute par simple addition à celui afférent à la surdité (en cas de troubles psychiques, se reporter au chapitre " Crâne et système nerveux ").
 
 5.5.4 OREILLE MOYENNE.
 
-- Perforation du tympan, post-traumatique, sans suppuration 3 à 5
+\- Perforation du tympan, post-traumatique, sans suppuration 3 à 5
 
-- Otorrhée chronique :
+\- Otorrhée chronique :
 
-- Tubaire unilatérale 3 à 5
+\- Tubaire unilatérale 3 à 5
 
-- Tubaire bilatérale 5 à 8
+\- Tubaire bilatérale 5 à 8
 
-- Suppurée chronique unilatérale 5 à 10
+\- Suppurée chronique unilatérale 5 à 10
 
-- Suppurée chronique bilatérale 5 à 15
+\- Suppurée chronique bilatérale 5 à 15
 
 Ces taux s'ajoutent au taux résultant de la perte auditive éventuellement associée.
 
@@ -222,14 +222,14 @@ Oreille la plus sourde
 
 Les séquelles portant sur l'oreille externe peuvent affecter le pavillon ou le conduit auditif.
 
-- Déformation, cicatrice ou amputation du pavillon, suivant l'importance de la mutilation 2 à 10
+\- Déformation, cicatrice ou amputation du pavillon, suivant l'importance de la mutilation 2 à 10
 
 Dans certains cas particuliers, notamment en ce qui concerne les sujets en relation avec le public, la mutilation pourra être appréciée à un taux supérieur, compte tenu de la profession.
 
-- Sténose du conduit auditif externe favorisant la rétention dans le fond du conduit, ou entraînant son obstruction fréquente, sans surdité.
+\- Sténose du conduit auditif externe favorisant la rétention dans le fond du conduit, ou entraînant son obstruction fréquente, sans surdité.
 
-- Unilatérale 2 à 3
+\- Unilatérale 2 à 3
 
-- Bilatérale 3 à 6
+\- Bilatérale 3 à 6
 
-- Sténose très serrée entraînant une surdité : il y a lieu de calculer la perte auditive, compte tenu des possibilités d'audioprothèse.
+\- Sténose très serrée entraînant une surdité : il y a lieu de calculer la perte auditive, compte tenu des possibilités d'audioprothèse.

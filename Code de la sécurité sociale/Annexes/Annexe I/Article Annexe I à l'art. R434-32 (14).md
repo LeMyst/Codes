@@ -4,9 +4,9 @@
 
 13.1 SEQUELLES DE SPLENECTOMIES.
 
-- Cicatrice de bonne qualité, pas de modification de la formule sanguine 10
+\- Cicatrice de bonne qualité, pas de modification de la formule sanguine 10
 
-- Modification de la formule sanguine 15 à 30
+\- Modification de la formule sanguine 15 à 30
 
 Cicatrice de mauvaise qualité (voir " Appareil digestif ").
 

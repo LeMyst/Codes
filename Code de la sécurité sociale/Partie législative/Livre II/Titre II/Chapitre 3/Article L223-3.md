@@ -6,9 +6,9 @@ La Caisse nationale des allocations familiales est administrée par un conseil d
 
 2° Treize représentants des employeurs et travailleurs indépendants à raison de :
 
-- dix représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
+\- dix représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
 
-- trois représentants des travailleurs indépendants désignés par les institutions ou organisations professionnelles des travailleurs indépendants représentatives sur le plan national ;
+\- trois représentants des travailleurs indépendants désignés par les institutions ou organisations professionnelles des travailleurs indépendants représentatives sur le plan national ;
 
 3° Cinq représentants des associations familiales désignés par l'Union nationale des associations familiales ;
 

@@ -138,9 +138,9 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance prop
 
 Cet état comporte les colonnes suivantes :
 
-- santé : contrats individuels (catégorie 201 de l'état C 4 de l'article A. 931-11-17) ;
+\- santé : contrats individuels (catégorie 201 de l'état C 4 de l'article A. 931-11-17) ;
 
-- santé : contrats collectifs (catégories 211 et 213 de l'état C 4 de l'article A. 931-11-17).
+\- santé : contrats collectifs (catégories 211 et 213 de l'état C 4 de l'article A. 931-11-17).
 
 Les lignes de cet état correspondent strictement à celles de l'état C1 "Dommages corporels" telles que définies à l'article A. 931-11-17.
 

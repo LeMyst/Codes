@@ -10,7 +10,7 @@ Diabète insipide post-traumatique. Il apparaît entre quelques heures et quelqu
 
 épreuve de la post-hypophyse, épreuve de Carter et Robbins, test de J. Decourt, épreuves aux diurétiques mercuriels, etc.
 
-- Diabète insipide (selon le résultat du traitement) 10 à 30
+\- Diabète insipide (selon le résultat du traitement) 10 à 30
 
 Hypopituitarisme antérieur :
 
@@ -20,7 +20,7 @@ Le tableau est celui de tout hypopituitarisme, associant des signes d'insuffisan
 
 L'affection peut être corrigée de façon satisfaisante, mais le traitement doit être poursuivi indéfiniment. Plus le sujet est jeune, plus les répercussions de l'atteinte hypophysaire doivent être estimées importantes.
 
-- Syndrome d'hypopituitarisme (selon le degré et le résultat du traitement) 60 à 70
+\- Syndrome d'hypopituitarisme (selon le degré et le résultat du traitement) 60 à 70
 
 14.2 SEQUELLES SURRENALIENNES.
 
@@ -28,7 +28,7 @@ La traduction clinique d'un traumatisme entraînant des séquelles surrénalienn
 
 La maladie peut être traitée efficacement par l'opothérapie substitutive, mais le traitement devra être suivi de façon illimitée.
 
-- Maladie d'Addison post-traumatique, selon le résultat du traitement 40 à 70
+\- Maladie d'Addison post-traumatique, selon le résultat du traitement 40 à 70
 
 14.3 SEQUELLES THYROÏDIENNES.
 
@@ -40,7 +40,7 @@ Les éléments d'appréciation de l'incapacité seront le tremblement, la tachyc
 
 Connaissant l'évolution de la maladie de Basedow, il faudra éviter une consolidation précoce et pratiquer des révisions régulières en prévision, soit d'une amélioration ou d'une aggravation, soit de l'apparition de complications propres au traitement appliqué.
 
-- Maladie de Basedow, selon l'intensité des symptômes 5 à 40
+\- Maladie de Basedow, selon l'intensité des symptômes 5 à 40
 
 A ce taux, s'ajoutera éventuellement un taux pour complication cardiaque (voir appareil cardio-vasculaire), sans que la somme des deux puisse dépasser 100 %.
 
@@ -52,9 +52,9 @@ L'hypoparathyroïdie se traduit par des accidents de tétanie et une irritabilit
 
 La calcémie doit être mesurée, la phosphorémie, la calciurie, la phosphaturie donnent des résultats trop inconstants pour être retenus ; le test d'Ellsworth Howard permettra de différencier l'hypoparathyroïdisme vrai, des pseudo-hypoparathyroïdiennes. L'électromyographie mettra en évidence l'activité répétitive du neurone périphérique.
 
-- Hypoparathyroïdisme légère, crises tétaniques et spasmes viscéraux rares. Peu de modifications des épreuves biologiques. Retentissement léger dans la vie professionnelle 10 à 30
+\- Hypoparathyroïdisme légère, crises tétaniques et spasmes viscéraux rares. Peu de modifications des épreuves biologiques. Retentissement léger dans la vie professionnelle 10 à 30
 
-- Hypoparathyroïdie compliquée ; aux taux précédents, il convient d'ajouter les taux résultant de l'atteinte fonctionnelle des organes concernés.
+\- Hypoparathyroïdie compliquée ; aux taux précédents, il convient d'ajouter les taux résultant de l'atteinte fonctionnelle des organes concernés.
 
 14.5 SEQUELLES DU PANCREAS ENDOCRINE.
 
@@ -66,10 +66,10 @@ Il faut considérer que les rares cas de diabète traumatique authentique survie
 
 Le diabète post-traumatique est, dans la grande majorité des cas, insulino-dépendant ; l'estimation de l'incapacité sera fonction de la sensibilité aux hypoglycémiants de synthèse, ou à l'insuline, et dans ce dernier cas, sur la stabilité ou l'instabilité d'équilibration.
 
-- Diabète sucré équilibré par un régime et la prise d'hypoglycémiants oraux 5 à 10
+\- Diabète sucré équilibré par un régime et la prise d'hypoglycémiants oraux 5 à 10
 
-- Diabète sucré nécessitant un régime strict et l'emploi de l'insuline 30 à 40
+\- Diabète sucré nécessitant un régime strict et l'emploi de l'insuline 30 à 40
 
-- Diabète sucré avec incidents d'acidose ou de coma. Régime strict amaigrissement, difficulté d'un régime équilibré par l'insuline 40 à 70
+\- Diabète sucré avec incidents d'acidose ou de coma. Régime strict amaigrissement, difficulté d'un régime équilibré par l'insuline 40 à 70
 
 Lors des révisions, les complications (artérite, rétinite, atteinte rénale, etc.), seront évaluées selon le déficit fonctionnel de l'organe atteint (voir " Appareil cardio-vasculaire ", " Séquelles ophtalmologiques ", " Appareil urinaire ", etc.) et s'ajouteront aux taux ci-dessus, le taux global ne pouvant excéder 100 %.

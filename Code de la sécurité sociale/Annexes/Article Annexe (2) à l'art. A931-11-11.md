@@ -2,7 +2,7 @@
 
 MODELES TYPES DE COMPTES ANNUELS.
 
-2. COMPTE DE RESULTAT
+2\. COMPTE DE RESULTAT
 
 I. - Compte technique des opérations Non-vie
 

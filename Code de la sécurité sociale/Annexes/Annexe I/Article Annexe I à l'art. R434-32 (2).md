@@ -17,11 +17,11 @@ La détermination de l'hémisphère dominant n'est pas toujours facile. Elle se 
 
 Cette recherche, de préférence gestuelle, fait appel à :
 
-- L'étude de la force musculaire, plus importante du côté du membre supérieur utilisé de préférence ;
+\- L'étude de la force musculaire, plus importante du côté du membre supérieur utilisé de préférence ;
 
-- La recherche du côté utilisé pour certains gestes précis de la vie courante : couper sa viande, se brosser les dents, gestes de toilette intime. Le véritable gaucher écrit, tient son couteau pour couper son pain ou un marteau pour planter un clou, une aiguille pour coudre avec la main gauche, boutonne son pantalon, lance une pierre, joue aux cartes, taille un crayon avec un canif tenu avec sa main gauche ;
+\- La recherche du côté utilisé pour certains gestes précis de la vie courante : couper sa viande, se brosser les dents, gestes de toilette intime. Le véritable gaucher écrit, tient son couteau pour couper son pain ou un marteau pour planter un clou, une aiguille pour coudre avec la main gauche, boutonne son pantalon, lance une pierre, joue aux cartes, taille un crayon avec un canif tenu avec sa main gauche ;
 
-- La recherche de l'usage préférentiel d'un membre : main pour lancer un objet, pour donner les cartes, pied pour " shooter " dans un ballon, œil pour viser.
+\- La recherche de l'usage préférentiel d'un membre : main pour lancer un objet, pour donner les cartes, pied pour " shooter " dans un ballon, œil pour viser.
 
 Il faut cependant savoir que certaines préférences peuvent se modifier par l'apprentissage, notamment chez les ambidextres, et qu'une gêne fonctionnelle permanente d'un côté peut entraîner une compensation centro-latérale, aboutissant à une pseudo-dominance. Il est donc nécessaire, dans les cas incertains, de composer les différentes prévalences manuelle, podale ou oculaire, avant de conclure.
 
@@ -55,17 +55,17 @@ Epaule :
 
 La mobilité de l'ensemble scapulo-huméro thoracique s'estime, le malade étant debout ou assis, en empaumant le bras d'une main, l'autre main palpant l'omoplate pour en apprécier la mobilité :
 
-- Normalement, élévation latérale : 170° ;
+\- Normalement, élévation latérale : 170° ;
 
-- Adduction : 20° ;
+\- Adduction : 20° ;
 
-- Antépulsion : 180° ;
+\- Antépulsion : 180° ;
 
-- Rétropulsion : 40° ;
+\- Rétropulsion : 40° ;
 
-- Rotation interne : 80° ;
+\- Rotation interne : 80° ;
 
-- Rotation externe : 60°.
+\- Rotation externe : 60°.
 
 La main doit se porter avec aisance au sommet de la tête et derrière les lombes, et la circumduction doit s'effectuer sans aucune gêne.
 
@@ -363,7 +363,7 @@ L'appréciation sera faite sur la fonction globale de la main plus que sur l'add
 
 Métacarpien :
 
-- Cal saillant entraînant une gêne fonctionnelle : 2 à 4.
+\- Cal saillant entraînant une gêne fonctionnelle : 2 à 4.
 
 Les pseudarthroses ou les cals vicieux des métacarpiens et des phalanges seront appréciés selon le retentissement sur le fonctionnement général de la main.
 
@@ -381,6 +381,6 @@ Il ne faudra pas oublier d'évaluer les séquelles nerveuses (anesthésie en par
 
 Venant s'ajouter aux mêmes éléments séquellaires.
 
-- Fistule persistante unique : 10
+\- Fistule persistante unique : 10
 
-- Fistule persistante avec déformation osseuse 10 à 25
+\- Fistule persistante avec déformation osseuse 10 à 25

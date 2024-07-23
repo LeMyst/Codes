@@ -4,12 +4,12 @@ De même, un acte tenant lieu d'acte de mariage est dressé lorsque la personne 
 
 L'acte énonce :
 
-- la date et le lieu de la célébration ;
+\- la date et le lieu de la célébration ;
 
-- l'indication de l'autorité qui y a procédé ;
+\- l'indication de l'autorité qui y a procédé ;
 
-- les noms, prénoms, dates et lieux de naissance de chacun des époux ;
+\- les noms, prénoms, dates et lieux de naissance de chacun des époux ;
 
-- la filiation des époux ;
+\- la filiation des époux ;
 
-- ainsi que, s'il y a lieu, le nom, la qualité et la résidence de l'autorité qui a reçu le contrat de mariage.
+\- ainsi que, s'il y a lieu, le nom, la qualité et la résidence de l'autorité qui a reçu le contrat de mariage.

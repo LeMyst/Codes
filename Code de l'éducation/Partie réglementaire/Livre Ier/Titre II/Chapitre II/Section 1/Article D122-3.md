@@ -8,13 +8,13 @@ L'acquisition et la maîtrise de chacun de ces domaines ne peuvent être compens
 
 Le niveau de maîtrise de chacune des composantes du premier domaine et de chacun des quatre autres domaines du socle commun est évalué à la fin de chaque cycle selon une échelle de référence qui comprend quatre échelons ainsi désignés :
 
-1. "Maîtrise insuffisante".
+1\. "Maîtrise insuffisante".
 
-1. "Maîtrise fragile".
+2\. "Maîtrise fragile".
 
-1. "Maîtrise satisfaisante".
+3\. "Maîtrise satisfaisante".
 
-1. "Très bonne maîtrise" .
+4\. "Très bonne maîtrise" .
 
 Un domaine ou une composante du premier domaine du socle commun est maîtrisé(e) à compter de l'échelon 3 de l'échelle de référence appliquée au cycle 4.
 

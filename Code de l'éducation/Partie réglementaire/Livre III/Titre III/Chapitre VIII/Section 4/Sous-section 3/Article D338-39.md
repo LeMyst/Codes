@@ -2,9 +2,9 @@
 
 L'examen est organisé selon deux modalités possibles :
 
-- une épreuve ponctuelle ;
+\- une épreuve ponctuelle ;
 
-- une épreuve en contrôle en cours de formation lorsque l'arrêté de spécialité du diplôme de compétence en langue le prévoit.
+\- une épreuve en contrôle en cours de formation lorsque l'arrêté de spécialité du diplôme de compétence en langue le prévoit.
 
 L'épreuve ponctuelle est organisée dans les établissements publics, groupements d'établissements (GRETA), relevant du ministère chargé de l'éducation, groupements d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) ou dans les organismes de formation agréés par le recteur d'académie.
 

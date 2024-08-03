@@ -1,6 +1,6 @@
 # Article 266 nonies
 
-1\. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
+1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
 A-0.-Les autorisations mentionnées dans chacune des lignes des tableaux du second alinéa des a et b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
 
@@ -12,28 +12,28 @@ A.-Pour les déchets réceptionnés dans une installation de stockage ou de trai
 
 a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-| Désignation des installations de stockage de déchets non dangereux concernées | Unité de perception | Quotité (en euros) | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
-| B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté | tonne | 24 | 25 | 37 | 45 | 52 | 59 | 65 |
-| C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du biogaz capté | tonne | 34 | 35 | 47 | 53 | 58 | 61 | 65 |
-| D.-Installations autorisées relevant à la fois des B et C | tonne | 17 | 18 | 30 | 40 | 51 | 58 | 65 |
-| E.-Autres installations autorisées | tonne | 41 | 42 | 54 | 58 | 61 | 63 | 65 |
+|  Désignation des installations de stockage de déchets non dangereux concernées |  Unité de perception |  Quotité (en euros) |
+| --- | --- | --- |
+|  2019 |  2020 |  2021 |  2022 |  2023 |  2024 |  A partir de 2025 |
+|  B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté |  tonne |  24 |  25 |  37 |  45 |  52 |  59 |  65 |
+|  C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du biogaz capté |  tonne |  34 |  35 |  47 |  53 |  58 |  61 |  65 |
+|  D.-Installations autorisées relevant à la fois des B et C |  tonne |  17 |  18 |  30 |  40 |  51 |  58 |  65 |
+|  E.-Autres installations autorisées |  tonne |  41 |  42 |  54 |  58 |  61 |  63 |  65 |
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-| Désignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Quotité (en euros) | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
-| A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
-| B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
-| C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 9 | 9 | 14 | 14 | 14 | 14 | 15 |
-| D.-Installations relevant à la fois des A et B | tonne | 9 | 9 | 14 | 14 | 17 | 20 | 25 |
-| E.-Installations relevant à la fois des A et C | tonne | 6 | 6 | 11 | 12 | 13 | 14 | 15 |
-| F.-Installations relevant à la fois des B et C | tonne | 5 | 5 | 10 | 11 | 12 | 14 | 15 |
-| G.-Installations relevant à la fois des A, B et C | tonne | 3 | 3 | 8 | 11 | 12 | 14 | 15 |
-| H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | _ | _ | 4 | 5,5 | 6 | 7 | 7,5 |
-| I.-Autres installations autorisées | tonne | 15 | 15 | 20 | 22 | 23 | 24 | 25 |
+|  Désignation des installations de traitement thermique de déchets non dangereux concernées |  Unité de perception |  Quotité (en euros) |
+| --- | --- | --- |
+|  2019 |  2020 |  2021 |  2022 |  2023 |  2024 |  A partir de 2025 |
+|  A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité |  tonne |  12 |  12 |  17 |  18 |  20 |  22 |  25 |
+|  B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 |  tonne |  12 |  12 |  17 |  18 |  20 |  22 |  25 |
+|  C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 |  tonne |  9 |  9 |  14 |  14 |  14 |  14 |  15 |
+|  D.-Installations relevant à la fois des A et B |  tonne |  9 |  9 |  14 |  14 |  17 |  20 |  25 |
+|  E.-Installations relevant à la fois des A et C |  tonne |  6 |  6 |  11 |  12 |  13 |  14 |  15 |
+|  F.-Installations relevant à la fois des B et C |  tonne |  5 |  5 |  10 |  11 |  12 |  14 |  15 |
+|  G.-Installations relevant à la fois des A, B et C |  tonne |  3 |  3 |  8 |  11 |  12 |  14 |  15 |
+|  H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes |  tonne |  _ |  _ |  4 |  5,5 |  6 |  7 |  7,5 |
+|  I.-Autres installations autorisées |  tonne |  15 |  15 |  20 |  22 |  23 |  24 |  25 |
 
 b bis) (Abrogé) ;
 
@@ -57,14 +57,14 @@ Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard �
 
 Une opération de tri s'entend d'une opération de séparation, au sein d'un même flux de déchets ayant fait l'objet d'une collecte séparée, entre les déchets faisant l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
 
-\- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
+- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
 
-\- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
+- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
 
 i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
 
-\- 35 % en Guadeloupe, à La Réunion et en Martinique ;\
-\- 75 % en Guyane et à Mayotte.
+- 35 % en Guadeloupe, à La Réunion et en Martinique ;
+- 75 % en Guyane et à Mayotte.
 
 Toutefois, pour les installations de stockage non accessibles par voie terrestre situées en Guyane, le tarif est fixé à 3 euros par tonne.
 
@@ -72,56 +72,57 @@ Sont exonérées les réceptions des déchets utilisés pour produire de l'élec
 
 A bis.-Pour les déchets radioactifs métalliques mentionnés au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
 
-| Unité de perception | Quotités (en euros) | | | |
-| --- | --- | --- | --- | --- |
+| Unité de perception | Quotités (en euros) |
+| --- | --- |
 | 2024 | 2025 | 2026 | A partir de 2027 |
 | Tonne | 200 | 300 | 350 | 400 |
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-| DÉSIGNATION DES MATIÈRES ou opérations imposables | UNITÉ DE PERCEPTION | | | QUOTITÉ (en euros) | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. | Tonne | | | 12,78 | | | | |
-| Déchets réceptionnés dans une installation autorisée de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. | Tonne | | | 25,57 | | | | |
-| Substances émises dans l'atmosphère :-oxydes de soufre et autres composés soufrés | Tonne | | | 136,02 | | | | |
-| -acide chlorhydrique | Tonne | | | 43,24 (44,49 en 2009) | | | | |
-| -protoxyde d'azote | Tonne | | | 64,86 (66,74 en 2009) | | | | |
-| -oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote | Tonne | | | 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012) | | | | |
-| hydrocarbures non méthaniques, solvants et autres composés organiques volatils | Tonne | | | 136,02 | | | | |
-| -poussières totales en suspension | Tonne | | | 259,86 | | | | |
-| Arsenic | Kilogramme | | | 500 | | | | |
-| Sélénium | Kilogramme | | | 500 | | | | |
-| Mercure | Kilogramme | | | 1 000 | | | | |
-| Benzène | Kilogramme | | | 5 | | | | |
-| Hydrocarbures aromatiques polycycliques | Kilogramme | | | 50 | | | | |
-| Plomb | Kilogramme | | | 10 | | | | |
-| Zinc | Kilogramme | | | 5 | | | | |
-| Chrome | Kilogramme | | | 20 | | | | |
-| Cuivre | Kilogramme | | | 5 | | | | |
-| Nickel | Kilogramme | | | 100 | | | | |
-| Cadmium | Kilogramme | | | 500 | | | | |
-| Vanadium | Kilogramme | | | 5 | | | | |
-| Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour le linge :-dont la teneur en phosphate est inférieure à 5 % du poids | Tonne | | | 39,51(40,66 en 2009) | | | | |
-| -dont la teneur en phosphate est comprise entre 5 % et 30 % du poids | Tonne | | | 170,19 (175,13 en 2009) | | | | |
-| -dont la teneur en phosphate est supérieure à 30 % du poids | Tonne | | | 283,65 (291,88 en 2009) | | | | |
-| Matériaux d'extraction. | Tonne | | | 0,20 | | | | |
+|  |  |  |
+| --- | --- | --- |
+| DÉSIGNATION DES MATIÈRES ou opérations imposables | UNITÉ DE PERCEPTION | QUOTITÉ (en euros) |
+| Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. | Tonne | 12,78 |
+| Déchets réceptionnés dans une installation autorisée de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. | Tonne | 25,57 |
+| Substances émises dans l'atmosphère :-oxydes de soufre et autres composés soufrés | Tonne | 136,02 |
+| -acide chlorhydrique | Tonne | 43,24 (44,49 en 2009) |
+| -protoxyde d'azote | Tonne | 64,86 (66,74 en 2009) |
+| -oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote | Tonne | 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012) |
+| hydrocarbures non méthaniques, solvants et autres composés organiques volatils | Tonne | 136,02 |
+| -poussières totales en suspension | Tonne | 259,86 |
+| Arsenic | Kilogramme | 500 |
+| Sélénium | Kilogramme | 500 |
+| Mercure | Kilogramme | 1 000 |
+| Benzène | Kilogramme | 5 |
+| Hydrocarbures aromatiques polycycliques | Kilogramme | 50 |
+| Plomb | Kilogramme | 10 |
+| Zinc | Kilogramme | 5 |
+| Chrome | Kilogramme | 20 |
+| Cuivre | Kilogramme | 5 |
+| Nickel | Kilogramme | 100 |
+| Cadmium | Kilogramme | 500 |
+| Vanadium | Kilogramme | 5 |
+| Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour le linge :-dont la teneur en phosphate est inférieure à 5 % du poids | Tonne | 39,51(40,66 en 2009) |
+| -dont la teneur en phosphate est comprise entre 5 % et 30 % du poids | Tonne | 170,19 (175,13 en 2009) |
+| -dont la teneur en phosphate est supérieure à 30 % du poids | Tonne | 283,65 (291,88 en 2009) |
+| Matériaux d'extraction. | Tonne | 0,20 |
 
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
 Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux tableaux des a et b du A du 1.
 
-2\. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
+2. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
 
-3\. (Alinéa abrogé).
+1. (Alinéa abrogé).
 
-4\. (Abrogé).
+1. (Abrogé).
 
 4 bis. (Abrogé).
 
-5\. (Abrogé).
+5. (Abrogé).
 
-6\. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
+1. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 
-7\. (Abrogé).
+1. (Abrogé).
 
-8\. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
+1. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.

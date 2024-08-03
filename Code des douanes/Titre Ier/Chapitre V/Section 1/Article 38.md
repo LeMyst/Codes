@@ -1,12 +1,12 @@
 # Article 38
 
-1\. Pour l'application du présent code, sont considérées comme prohibées toutes marchandises dont l'importation ou l'exportation est interdite à quelque titre que ce soit, ou soumise à des restrictions, à des règles de qualité ou de conditionnement ou à des formalités particulières.
+1. Pour l'application du présent code, sont considérées comme prohibées toutes marchandises dont l'importation ou l'exportation est interdite à quelque titre que ce soit, ou soumise à des restrictions, à des règles de qualité ou de conditionnement ou à des formalités particulières.
 
-2\. Lorsque l'importation ou l'exportation n'est permise que sur présentation d'une autorisation, licence, certificat, etc., la marchandise est prohibée si elle n'est pas accompagnée d'un titre régulier ou si elle est présentée sous le couvert d'un titre non applicable.
+1. Lorsque l'importation ou l'exportation n'est permise que sur présentation d'une autorisation, licence, certificat, etc., la marchandise est prohibée si elle n'est pas accompagnée d'un titre régulier ou si elle est présentée sous le couvert d'un titre non applicable.
 
-3\. Tous titres portant autorisation d'importation ou d'exportation (licences ou autres titres analogues) ne peuvent, en aucun cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière générale, d'une transaction quelconque de la part des titulaires auxquels ils ont été nominativement accordés.
+1. Tous titres portant autorisation d'importation ou d'exportation (licences ou autres titres analogues) ne peuvent, en aucun cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière générale, d'une transaction quelconque de la part des titulaires auxquels ils ont été nominativement accordés.
 
-4\. Au titre des dispositions dérogatoires prévues à l'article 2 bis, le présent article est applicable :
+1. Au titre des dispositions dérogatoires prévues à l'article 2 bis, le présent article est applicable :
 
 1° Aux produits liés à la défense dont le transfert est soumis à l'autorisation préalable prévue à l'article L. 2335-10 du code de la défense, aux produits chimiques inscrits au tableau 1 annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du même code, aux matériels mentionnés à l'article L. 2335-18 dudit code ainsi qu'aux produits explosifs destinés à des fins militaires mentionnés à l'article L. 2352-1 du même code ;
 
@@ -48,4 +48,4 @@
 
 19° Aux médicaments falsifiés définis à l'article L. 5111-3 du code de la santé publique.
 
-5\. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire, soit par les lois et règlements en vigueur, applicables aux échanges de certaines marchandises communautaires avec les autres Etats membres de la Communauté européenne. La liste des marchandises concernées est fixée par arrêté conjoint du ministre chargé des douanes et du ou des ministres concernés.
+5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire, soit par les lois et règlements en vigueur, applicables aux échanges de certaines marchandises communautaires avec les autres Etats membres de la Communauté européenne. La liste des marchandises concernées est fixée par arrêté conjoint du ministre chargé des douanes et du ou des ministres concernés.

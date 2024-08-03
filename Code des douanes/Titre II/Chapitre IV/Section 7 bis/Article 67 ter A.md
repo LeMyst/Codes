@@ -10,7 +10,7 @@ L'autorisation est donnée pour une durée déterminée, renouvelable, par le pr
 
 Le procureur de la République est tenu régulièrement informé du déroulement des opérations effectuées dans le cadre de l'équipe commune d'enquête spéciale. Il peut, à tout moment, mettre fin à l'équipe commune d'enquête spéciale qu'il a autorisée.
 
-2\. Les agents étrangers détachés par un autre Etat membre auprès d'une équipe commune d'enquête spéciale, dans la limite des attributions attachées à leur statut, peuvent, sous la direction des agents des douanes français, avoir pour missions, le cas échéant, sur toute l'étendue du territoire national :
+2. Les agents étrangers détachés par un autre Etat membre auprès d'une équipe commune d'enquête spéciale, dans la limite des attributions attachées à leur statut, peuvent, sous la direction des agents des douanes français, avoir pour missions, le cas échéant, sur toute l'étendue du territoire national :
 
 a) De constater toute infraction douanière, d'en dresser procès-verbal, au besoin dans les formes prévues par le droit de leur Etat ;
 

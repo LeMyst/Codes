@@ -4,11 +4,11 @@ I. - Est puni de l'amende prévue pour les contraventions de la cinquième class
 
 Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :
 
-\- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
+- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
 
-\- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 8° de l'article 138 du code de procédure pénale dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous surveillance électronique ;
+- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 8° de l'article 138 du code de procédure pénale dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous surveillance électronique ;
 
-\- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 7° de l'article 132-45 du code pénal, dans le cadre d'une contrainte pénale, d'un suivi socio-judiciaire, d'un sursis avec mise à l'épreuve ou assorti de l'obligation d'accomplir un travail d'intérêt général, d'un des aménagements de peine prévus aux articles 720-1-1, 721-2, 723-4 ou 723-10 du code de procédure pénale, d'une libération conditionnelle, ou d'une surveillance judiciaire ou de sûreté.
+- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 7° de l'article 132-45 du code pénal, dans le cadre d'une contrainte pénale, d'un suivi socio-judiciaire, d'un sursis avec mise à l'épreuve ou assorti de l'obligation d'accomplir un travail d'intérêt général, d'un des aménagements de peine prévus aux articles 720-1-1, 721-2, 723-4 ou 723-10 du code de procédure pénale, d'une libération conditionnelle, ou d'une surveillance judiciaire ou de sûreté.
 
 II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la contravention prévue au I est puni de la même peine.
 

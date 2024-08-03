@@ -4,10 +4,10 @@ Sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les î
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| A. 121-1 | Résultant de l'arrêté du 13 octobre 2021 |
-| A. 121-1-1 | Résultant de l'arrêté du 13 octobre 2021 |
-| A. 121-2 | Résultant de l'arrêté du 13 octobre 2021 |
-| A. 121-3 | Résultant de l'arrêté du 13 octobre 2021 |
+|  A. 121-1 |  Résultant de l'arrêté du 13 octobre 2021 |
+|  A. 121-1-1 |  Résultant de l'arrêté du 13 octobre 2021 |
+|  A. 121-2 |  Résultant de l'arrêté du 13 octobre 2021 |
+|  A. 121-3 |  Résultant de l'arrêté du 13 octobre 2021 |
 
 NOTA:
 Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

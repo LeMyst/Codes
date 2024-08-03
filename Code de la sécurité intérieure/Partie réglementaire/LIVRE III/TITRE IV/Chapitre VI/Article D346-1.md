@@ -2,8 +2,9 @@
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 346-2, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+|  |  |
 | --- | --- |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | Au titre II |  |
 | D. 320-1 à D. 320-11 | Résultant du décret n° 2020-1349 du 4 novembre 2020 |
 | D. 321-13 | Résultant du décret n° \[2020-1774 du 21 décembre 2020 |

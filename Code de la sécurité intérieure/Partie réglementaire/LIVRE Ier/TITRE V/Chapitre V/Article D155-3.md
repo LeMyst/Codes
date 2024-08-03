@@ -2,8 +2,9 @@
 
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 155-9, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+|  |  |
 | --- | --- |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | Au titre III |  |
 | D. 132-1 à D. 132-4 | Résultant du décret n° 2016-553 du 6 mai 2016 |
 | D. 132-7 | Résultant du décret n° 2016-553 du 6 mai 2016 |

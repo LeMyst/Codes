@@ -28,9 +28,9 @@ c) Avis favorable concernant l'acquisition et la détention d'armes à l'exclusi
 
 d) Pour les mineurs, selon le cas :
 
-\- preuve de la sélection en vue de concours internationaux ;
+- preuve de la sélection en vue de concours internationaux ;
 
-\- attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la pratique du tir sportif pour les mineurs âgés de douze ans au moins ne participant pas à des compétitions internationales ;
+- attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la pratique du tir sportif pour les mineurs âgés de douze ans au moins ne participant pas à des compétitions internationales ;
 
 e) (Abrogé)
 

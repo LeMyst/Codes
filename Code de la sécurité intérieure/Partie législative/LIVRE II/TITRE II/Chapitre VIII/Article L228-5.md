@@ -23,9 +23,9 @@ Aux paragraphes 51, 52 et 53 de sa décision, le Conseil constitutionnel a énon
 
 I " Il appartient au ministre de l’intérieur de tenir compte, dans la détermination des personnes dont la fréquentation est interdite, des liens familiaux de l’intéressé et de s’assurer en particulier que la mesure d’interdiction de fréquentation ne porte pas une atteinte disproportionnée à son droit de mener une vie familiale normale " ;
 
-\- " Compte tenu de sa rigueur, cette mesure ne saurait, sans méconnaître les exigences constitutionnelles précitées, excéder, de manière continue ou non, une durée totale cumulée de douze mois " ;
+- " Compte tenu de sa rigueur, cette mesure ne saurait, sans méconnaître les exigences constitutionnelles précitées, excéder, de manière continue ou non, une durée totale cumulée de douze mois " ;
 
-\- " Le droit à un recours juridictionnel effectif impose que le juge administratif soit tenu de statuer sur la demande d’annulation de la mesure dans de brefs délais ".
+- " Le droit à un recours juridictionnel effectif impose que le juge administratif soit tenu de statuer sur la demande d’annulation de la mesure dans de brefs délais ".
 
 Article 5 : La déclaration d’inconstitutionnalité de l’article 2 prend effet dans les conditions fixées aux paragraphes 72 et 73 de cette décision.
 

@@ -148,9 +148,9 @@ e) Calibre 14,5 × 114 ;
 
 13° Munitions à étui métallique à poudre noire et à percussion centrale, ainsi que leurs éléments, conçus pour les armes de poing classées au e du IV, à l'exception :
 
-\- des munitions et éléments classés au 6° du III ;
+- des munitions et éléments classés au 6° du III ;
 
-\- des munitions et éléments de munitions classés aux j et j bis du IV ;
+- des munitions et éléments de munitions classés aux j et j bis du IV ;
 
 14° Armes incapacitantes, au sens du 14° de l'article R. 311-1, qui projettent un dispositif d'immobilisation mécanique.
 
@@ -188,9 +188,9 @@ d) A répétition manuelle à canon rayé munies d'un dispositif de rechargement
 
 11° Munitions à étui ou culot métallique à poudre noire et à percussion centrale, ainsi que leurs éléments, conçus pour les armes d'épaule classées au e du IV, à l'exception :
 
-\- des munitions et éléments classés au 6° du présent III ;
+- des munitions et éléments classés au 6° du présent III ;
 
-\- des munitions et éléments de munitions classés aux j et j bis du IV ;
+- des munitions et éléments de munitions classés aux j et j bis du IV ;
 
 12° Armes d'alarme et de signalisation ;
 
@@ -200,9 +200,9 @@ Les armes et matériels dont l'acquisition et la détention sont libres, qui rel
 
 a) Tous objets susceptibles de constituer une arme dangereuse pour la sécurité publique dont :
 
-\- les armes non à feu camouflées ;
+- les armes non à feu camouflées ;
 
-\- les poignards, les couteaux-poignards, les matraques, les projecteurs hypodermiques et les autres armes figurant sur un arrêté du ministre de l'intérieur ;
+- les poignards, les couteaux-poignards, les matraques, les projecteurs hypodermiques et les autres armes figurant sur un arrêté du ministre de l'intérieur ;
 
 b) Générateurs d'aérosols lacrymogènes ou incapacitants d'une capacité inférieure ou égale à 100 ml sauf ceux classés dans une autre catégorie par arrêté conjoint du ministre de l'intérieur et du ministre chargé des douanes ;
 

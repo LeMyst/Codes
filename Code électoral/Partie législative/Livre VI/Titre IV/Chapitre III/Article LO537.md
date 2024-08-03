@@ -4,6 +4,6 @@ Le conseil territorial de Saint-Pierre-et-Miquelon est composé de dix-neuf memb
 
 La collectivité territoriale forme une circonscription unique, composée de deux sections communales et les sièges sont répartis de la manière suivante :
 
-\- Saint-Pierre : quinze sièges ;
+- Saint-Pierre : quinze sièges ;
 
-\- Miquelon-Langlade : quatre sièges.
+- Miquelon-Langlade : quatre sièges.

@@ -4,15 +4,15 @@ La liste des électeurs du département est dressée par ordre alphabétique par
 
 Sont mentionnés dans cette liste :
 
-\- les nom et prénoms des électeurs ;
+- les nom et prénoms des électeurs ;
 
-\- les date et lieu de naissance ;
+- les date et lieu de naissance ;
 
-\- la qualité ;
+- la qualité ;
 
-\- l'adresse ;
+- l'adresse ;
 
-\- les nom et prénoms du mandataire des délégués autorisés à voter par procuration.
+- les nom et prénoms du mandataire des délégués autorisés à voter par procuration.
 
 Le préfet peut modifier la liste jusqu'à sa division en sections de vote mentionnée à l'article R. 164, pour tenir compte des remplacements de délégués prévus par la loi.
 

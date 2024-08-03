@@ -12,15 +12,15 @@ Une même commission peut effectuer le recensement des votes de plusieurs circon
 
 Pour l'application du deuxième alinéa :
 
-\- en Corse, il y a lieu de lire : “un conseiller à l'Assemblée de Corse représentant le département conformément aux dispositions de l'article L. 293-1” au lieu de : “un conseiller départemental” ;
+- en Corse, il y a lieu de lire : “un conseiller à l'Assemblée de Corse représentant le département conformément aux dispositions de l'article L. 293-1” au lieu de : “un conseiller départemental” ;
 
-\- à Paris, il y a lieu de lire : “membre du Conseil de Paris” au lieu de : “conseiller départemental” ;
+- à Paris, il y a lieu de lire : “membre du Conseil de Paris” au lieu de : “conseiller départemental” ;
 
-\- dans le département du Rhône, il y a lieu de lire : “un conseiller départemental ou un conseiller métropolitain de Lyon” au lieu de : “un conseiller départemental” ;
+- dans le département du Rhône, il y a lieu de lire : “un conseiller départemental ou un conseiller métropolitain de Lyon” au lieu de : “un conseiller départemental” ;
 
-\- en Guyane et en Martinique, il y a lieu de lire respectivement : “membre de l'assemblée de Guyane” et “membre de l'assemblée de Martinique” au lieu de : “conseiller départemental” ;
+- en Guyane et en Martinique, il y a lieu de lire respectivement : “membre de l'assemblée de Guyane” et “membre de l'assemblée de Martinique” au lieu de : “conseiller départemental” ;
 
-\- dans la Collectivité européenne d'Alsace, il y a lieu de lire : “ un conseiller d'Alsace élu dans un canton dont le bureau centralisateur est situé dans le département de l'élection des députés ” au lieu de “ un conseiller départemental ”.
+- dans la Collectivité européenne d'Alsace, il y a lieu de lire : “ un conseiller d'Alsace élu dans un canton dont le bureau centralisateur est situé dans le département de l'élection des députés ” au lieu de “ un conseiller départemental ”.
 
 NOTA:
 Conformément à l'article 11 du décret n° 2020-1616 du 17 décembre 2020, ces dispositions entrent en vigueur le lendemain de la publication du présent décret. Elles prennent effet pour chaque commission à l'expiration des mandats en cours à cette date.

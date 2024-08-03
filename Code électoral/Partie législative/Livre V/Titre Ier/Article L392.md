@@ -6,9 +6,10 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 
 3° Pour la Nouvelle-Calédonie, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par le tableau suivant :
 
-| Fraction de la population de la circonscription | Plafond par habitant des dépenses électorales (en Francs CFP) | | |
-| --- | --- | --- | --- |
-| Election des conseillers municipaux | | Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie |
+|  |  |
+| --- | --- |
+| Fraction de la population de la circonscription | Plafond par habitant des dépenses électorales (en Francs CFP) |
+| Election des conseillers municipaux | Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie |
 | Listes présentes au premier tour | Listes présentes au second tour |
 | N'excédant pas 15 000 habitants | 146 | 200 | 127 |
 | De 15 001 à 30 000 habitants | 128 | 182 | 100 |
@@ -17,14 +18,15 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 
 4° Pour la Polynésie française, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par le tableau suivant :
 
-| FRACTION DE LA POPULATION DE LA CIRCONSCRIPTION | PLAFOND PAR HABITANT DES DÉPENSES ÉLECTORALES (EN FRANCS CFP) | | | |
-| --- | --- | --- | --- | --- |
-| Election des conseillers municipaux | | Election des membres de l'assemblée de la Polynésie française | |
+|  |  |
+| --- | --- |
+| FRACTION DE LA POPULATION DE LA CIRCONSCRIPTION | PLAFOND PAR HABITANT DES DÉPENSES ÉLECTORALES (EN FRANCS CFP) |
+| Election des conseillers municipaux | Election des membres de l'assemblée de la Polynésie française |
 | Listes présentes au premier tour | Listes présentes au second tour | Listes présentes au premier tour | Listes présentes au second tour |
-| N'excédant pas 15 000 habitants | 156 | 214 | 136 | 186 |
-| De 15 001 à 30 000 habitants | 137 | 195 | 107 | 152 |
-| De 30 001 à 60 000 habitants | 118 | 156 | 97 | 129 |
-| De plus de 60 000 habitants | 107 | 147 | 68 | 94 |
+| N'excédant pas 15 000 habitants |  156 |  214 |  136 |  186 |
+| De 15 001 à 30 000 habitants |  137 |  195 |  107 |  152 |
+| De 30 001 à 60 000 habitants |  118 |  156 |  97 |  129 |
+| De plus de 60 000 habitants |  107 |  147 |  68 |  94 |
 
 5° Le plafond des dépenses pour l'élection des députés mentionné au troisième alinéa de l'article L. 52-11 est de 4 545 000 francs CFP ; il est majoré de 20 francs CFP par habitant de la circonscription.
 

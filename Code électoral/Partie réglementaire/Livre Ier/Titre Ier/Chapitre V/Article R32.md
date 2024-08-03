@@ -2,11 +2,11 @@
 
 Chaque commission comprend :
 
-\- un magistrat désigné par le premier président de la cour d'appel, président ;
+- un magistrat désigné par le premier président de la cour d'appel, président ;
 
-\- un fonctionnaire désigné par le préfet ;
+- un fonctionnaire désigné par le préfet ;
 
-\- un représentant de l'opérateur chargé de l'envoi de la propagande.
+- un représentant de l'opérateur chargé de l'envoi de la propagande.
 
 Un suppléant du président et de chaque membre peut être désigné dans les mêmes conditions.
 

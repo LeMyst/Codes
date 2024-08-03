@@ -1,7 +1,8 @@
 # Article Annexe tableau n° 6
 
-| DÉPARTEMENTS | NOMBRE DE SÉNATEURS |
+|  |  |
 | --- | --- |
+| DÉPARTEMENTS | NOMBRE DE SÉNATEURS |
 | Ain | 3 |
 | Aisne | 3 |
 | Allier | 2 |
@@ -22,7 +23,7 @@
 | Charente-Maritime | 3 |
 | Cher | 2 |
 | Corrèze | 2 |
-| Corse-du-Sud | 1 |
+| Corse-du-Sud  | 1 |
 | Haute-Corse | 1 |
 | Côte d'Or | 3 |
 | Côtes-d'Armor | 3 |
@@ -30,7 +31,7 @@
 | Dordogne | 2 |
 | Doubs | 3 |
 | Drôme | 3 |
-| Eure | 3 |
+| Eure  | 3 |
 | Eure-et-Loir | 3 |
 | Finistère | 4 |
 | Gard | 3 |

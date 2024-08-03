@@ -4,9 +4,9 @@ La commission de propagande reçoit du préfet le matériel nécessaire à l'exp
 
 Elle est chargée :
 
-\- d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le second tour, à tous les électeurs de la circonscription, une circulaire et un bulletin de vote de chaque candidat, binôme de candidats ou liste ;
+- d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le second tour, à tous les électeurs de la circonscription, une circulaire et un bulletin de vote de chaque candidat, binôme de candidats ou liste ;
 
-\- d'envoyer dans chaque mairie de la circonscription, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le second tour, les bulletins de vote de chaque candidat, de chaque binôme de candidats ou de chaque liste en nombre au moins égal à celui des électeurs inscrits.
+- d'envoyer dans chaque mairie de la circonscription, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le second tour, les bulletins de vote de chaque candidat, de chaque binôme de candidats ou de chaque liste en nombre au moins égal à celui des électeurs inscrits.
 
 Toutefois, quand le scrutin a lieu le samedi, les documents cités aux troisième et quatrième alinéas doivent être respectivement adressés à chaque électeur et à chaque mairie de la circonscription au plus tard le mardi précédant le premier tour de scrutin et, en cas de ballottage, le mercredi précédant le second tour.
 

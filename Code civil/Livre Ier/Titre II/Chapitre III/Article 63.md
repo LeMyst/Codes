@@ -12,7 +12,7 @@ La publication prévue au premier alinéa ou, en cas de dispense de publication 
 
 -l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit être célébré par une autorité étrangère ;
 
-\- le cas échéant, la justification de l'information de la personne chargée de la mesure de protection prévue à l'article 460 ;
+- le cas échéant, la justification de l'information de la personne chargée de la mesure de protection prévue à l'article 460 ;
 
 2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces fournies, que cette audition n'est pas nécessaire au regard des articles 146 et 180.
 

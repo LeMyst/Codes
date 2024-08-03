@@ -164,9 +164,9 @@ Total général.
 
 Lorsque l'institution ou l'union réalise des opérations pluriannuelles à cotisation unique ou non révisable, l'état C 1 Non-vie est complété par deux états annexes qui en sont l'éclatement :
 
-\- annexe A : état de modèle C 1 Non-vie pour les opérations autres que les opérations pluriannuelles à cotisation unique ou non révisable ;
+- annexe A : état de modèle C 1 Non-vie pour les opérations autres que les opérations pluriannuelles à cotisation unique ou non révisable ;
 
-\- annexe B : état de modèle C 1 Non-vie pour les opérations pluriannuelles à cotisation unique ou non révisable.
+- annexe B : état de modèle C 1 Non-vie pour les opérations pluriannuelles à cotisation unique ou non révisable.
 
 L'état C 1 Non-vie comporte les lignes suivantes :
 
@@ -280,8 +280,9 @@ ENGAGEMENTS ET RESULTATS TECHNIQUES PAR PAYS.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance décrivent leurs engagements et résultats techniques par pays d'établissement selon le modèle suivant :
 
-| PAYS | CODE PAYS | COTISATIONS (1) | PROVISIONStechniques (2) | RÉSULTATtechnique (3) |
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| PAYS | CODE PAYS | COTISATIONS (1) | PROVISIONStechniques (2) | RÉSULTATtechnique (3) |
 | 1. Union européenne (4) |  |  |  |  |
 | France |
 | LPS depuis la France |
@@ -304,7 +305,7 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance déc
 | Divers |  |  |  |  |
 | Total hors Union européenne |  |  |  |  |
 | Total général |  |  |  |  |
-| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.(3) Au sens des lignes L. 60 de l'état C 1.(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. | | | | |
+| (1) Cotisations nettes au sens des lignes L. 5 de l'état C 1, brutes de réassurance.(2) Provisions techniques brutes de réassurance à la clôture de l'exercice.(3) Au sens des lignes L. 60 de l'état C 1.(4) Y compris, pour les pays de l'Union européenne autres que la France, les opérations en LPS depuis un établissement local. |
 
 Les chiffres relatifs aux pays non membres de l'Union européenne dans lesquels les cotisations sont inférieures à 1 % des cotisations en France et les provisions techniques sont inférieures à 1 % des provisions techniques en France peuvent être regroupés en une seule ligne intitulée "divers".
 
@@ -320,8 +321,9 @@ TABLEAU A
 
 Acceptations (France et étranger)
 
-| ACCEPTATIONSpar un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | | ÉTRANGER | | TOTAL |
-| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ACCEPTATIONSpar un établissement (2) en provenance d'entreprises d'assurance | FRANÇAIS | ÉTRANGER | TOTAL |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations acceptées |  |  |  |  |  |
 | Provisions techniques sur acceptations |  |  |  |  |  |
@@ -332,8 +334,9 @@ TABLEAU B
 
 Cessions et rétrocessions (France et étranger)
 
-| CESSIONS PAR UN ÉTABLISSEMENTà des entreprises d'assurance ou de réassurance | FRANÇAIS | | ÉTRANGER | | TOTAL |
-| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| CESSIONS PAR UN ÉTABLISSEMENTà des entreprises d'assurance ou de réassurance | FRANÇAIS | ÉTRANGER | TOTAL |
 | Entreprises du groupe | Autres entreprises | Entreprises du groupe | Autres entreprises |
 | Cotisations cédées |  |  |  |  |  |
 | Provisions techniques cédées |  |  |  |  |  |
@@ -364,93 +367,50 @@ L'état C 4 Vie-capitalisation-mixte comporte les lignes suivantes :
 
 I. - Total des opérations directes en France (catégories 1 à 21) :
 
-01\. - Opérations de capitalisation à cotisation unique ou versements libres ;
-
-02\. - Opérations de capitalisation à cotisations périodiques ;
-
-03\. - Opérations individuelles d'assurance temporaire décès (y compris opérations collectives à adhésion facultative) (1).
-
-031\. - Temporaires décès à cotisation unique ou versements libres (1) ;
-
-032\. - Temporaires décès à cotisations périodiques (1) ;
-
-04\. - Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique ou versements libres (1) :
-
-041\. - Rentes à cotisation unique ou versements libres (1) ;
-
-042\. - Autres opérations à cotisation unique ou versements libres (1) ;
-
-05\. - Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations périodiques (1) :
-
-051\. - Rentes à cotisations périodiques (1) ;
-
-052\. - Autres opérations à cotisations périodiques (1) ;
-
-06\. - Opérations collectives en cas de décès (1) :
-
-061\. - Opérations collectives en cas de décès visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 (1) ;
-
-062\. - Autres opérations collectives en cas de décès (1) ;
-
-07\. - Opérations collectives en cas de vie (1) :
-
-071\. - Opérations collectives de rentes (1) ;
-
-072\. - Autres opérations collectives en cas de vie (1) ;
-
-08\. - Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation unique ou versements libres :
-
-081\. - Opérations de capitalisation en unités de compte à cotisation unique ou versements libres ;
-
-082\. - Temporaires décès en unités de compte à cotisation unique ou versements libres ;
-
-083\. - Rentes individuelles en unités de compte à cotisation unique ou versements libres ;
-
-084\. - Autres opérations individuelles en unités de compte à cotisation unique ou versements libres ;
-
-085\. - Opérations collectives en cas de décès en unités de compte à cotisation unique ou versements libres visés à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-086\. - Autres opérations collectives en cas de décès en unités de compte à cotisation unique ou versements libres ;
-
-087\. - Opérations collectives de rentes en unités de compte à cotisation unique ou versements libres ;
-
-088\. - Autres opérations collectives en cas de vie en unités de compte à cotisation unique ou versements libres ;
-
-09\. - Opérations d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques ;
-
-091\. - Opérations de capitalisation en unités de compte à cotisations périodiques ;
-
-092\. - Temporaires décès en unités de compte à cotisations périodiques ;
-
-093\. - Rentes individuelles en unités de compte à cotisations périodiques ;
-
-094\. - Autres opérations individuelles en unités de compte à cotisations périodiques ;
-
-095\. - Opérations collectives en cas de décès en unités de compte à cotisations périodiques visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-096\. - Autres opérations collectives en cas de décès en unités de compte à cotisations périodiques ;
-
-097\. - Opérations collectives de rentes en unités de compte à cotisations périodiques ;
-
-098\. - Autres opérations collectives d'assurance en cas de vie en unités de compte à cotisations périodiques ;
-
-10\. - Opérations collectives relevant de l'article L. 932-24 ;
-
-20\. - Opérations individuelles de dommages corporels (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
-
-201\. - Garanties frais de soins ;
-
-202\. - Autres garanties ;
-
-21\. - Opérations collectives de dommages corporels (y compris garanties complémentaires aux opérations collectives en cas de vie ou de décès) :
-
-211\. - Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-212\. - Autres garanties de dommages corporels délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-213\. - Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-214\. - Autres garanties de dommages corporels non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Opérations de capitalisation à cotisation unique ou versements libres ;
+1. - Opérations de capitalisation à cotisations périodiques ;
+1. - Opérations individuelles d'assurance temporaire décès (y compris opérations collectives à adhésion facultative) (1).
+1. - Temporaires décès à cotisation unique ou versements libres (1) ;
+1. - Temporaires décès à cotisations périodiques (1) ;
+1. - Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique ou versements libres (1) :
+1. - Rentes à cotisation unique ou versements libres (1) ;
+1. - Autres opérations à cotisation unique ou versements libres (1) ;
+1. - Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations périodiques (1) :
+1. - Rentes à cotisations périodiques (1) ;
+1. - Autres opérations à cotisations périodiques (1) ;
+1. - Opérations collectives en cas de décès (1) :
+1. - Opérations collectives en cas de décès visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 (1) ;
+1. - Autres opérations collectives en cas de décès (1) ;
+1. - Opérations collectives en cas de vie (1) :
+1. - Opérations collectives de rentes (1) ;
+1. - Autres opérations collectives en cas de vie (1) ;
+1. - Opérations d'assurance vie ou de capitalisation en unités de compte à cotisation unique ou versements libres :
+1. - Opérations de capitalisation en unités de compte à cotisation unique ou versements libres ;
+1. - Temporaires décès en unités de compte à cotisation unique ou versements libres ;
+1. - Rentes individuelles en unités de compte à cotisation unique ou versements libres ;
+1. - Autres opérations individuelles en unités de compte à cotisation unique ou versements libres ;
+1. - Opérations collectives en cas de décès en unités de compte à cotisation unique ou versements libres visés à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Autres opérations collectives en cas de décès en unités de compte à cotisation unique ou versements libres ;
+1. - Opérations collectives de rentes en unités de compte à cotisation unique ou versements libres ;
+1. - Autres opérations collectives en cas de vie en unités de compte à cotisation unique ou versements libres ;
+1. - Opérations d'assurance vie ou de capitalisation en unités de compte à cotisations périodiques ;
+1. - Opérations de capitalisation en unités de compte à cotisations périodiques ;
+1. - Temporaires décès en unités de compte à cotisations périodiques ;
+1. - Rentes individuelles en unités de compte à cotisations périodiques ;
+1. - Autres opérations individuelles en unités de compte à cotisations périodiques ;
+1. - Opérations collectives en cas de décès en unités de compte à cotisations périodiques visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Autres opérations collectives en cas de décès en unités de compte à cotisations périodiques ;
+1. - Opérations collectives de rentes en unités de compte à cotisations périodiques ;
+1. - Autres opérations collectives d'assurance en cas de vie en unités de compte à cotisations périodiques ;
+1. - Opérations collectives relevant de l'article L. 932-24 ;
+1. - Opérations individuelles de dommages corporels (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
+1. - Garanties frais de soins ;
+1. - Autres garanties ;
+1. - Opérations collectives de dommages corporels (y compris garanties complémentaires aux opérations collectives en cas de vie ou de décès) :
+1. - Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Autres garanties de dommages corporels délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+1. - Autres garanties de dommages corporels non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
 
 II. - Total des opérations en libre prestation de services par un établissement en France ;
 
@@ -478,33 +438,25 @@ B. - Etat C 4 Non-vie
 
 L'état C 4 Non-vie comporte trois colonnes :
 
-\- colonne A : cotisations émises au titre d'opérations autres que les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-11-17 ;
+- colonne A : cotisations émises au titre d'opérations autres que les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-11-17 ;
 
-\- colonne B : cotisations émises au titre d'opérations pluriannuelles à cotisation unique ou non révisable et d'opérations assimilées en application de l'article A. 931-11-17 ;
+- colonne B : cotisations émises au titre d'opérations pluriannuelles à cotisation unique ou non révisable et d'opérations assimilées en application de l'article A. 931-11-17 ;
 
-\- colonne C : totaux partiels par catégories d'opérations et total général.
+- colonne C : totaux partiels par catégories d'opérations et total général.
 
 L'état C 4 Non-vie comporte les lignes suivantes :
 
 I. - Total des opérations directes en France (catégories 20 à 31) :
 
-20\. - Dommages corporels : opérations individuelles (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
-
-201\. - Garanties frais de soins ;
-
-202\. - Autres garanties ;
-
-21\. - Dommages corporels : opérations collectives (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
-
-211\. - Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-212\. - Autres garanties de dommages corporels délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-213\. - Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-214\. - Autres garanties de dommages corporels non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
-
-31\. - Chômage ;
+20. - Dommages corporels : opérations individuelles (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
+01. - Garanties frais de soins ;
+01. - Autres garanties ;
+01. - Dommages corporels : opérations collectives (y compris garanties complémentaires aux opérations en cas de vie ou de décès) :
+01. - Garanties frais de soins délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+01. - Autres garanties de dommages corporels délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+01. - Garanties frais de soins non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+01. - Autres garanties de dommages corporels non délivrées au sein d'opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 ;
+01. - Chômage ;
 
 II. - Total des opérations en libre prestation de services par un établissement en France ;
 
@@ -536,9 +488,10 @@ REPRESENTATION DES ENGAGEMENTS REGLEMENTES.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements réglementés.
 
-|  | PROVISIONS TECHNIQUES | | | AUTRES engagements réglementés | TOTAL |
-| --- | --- | --- | --- | --- | --- |
-|  | Opérations Union européenne | | Hors Union européenne |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | PROVISIONS TECHNIQUES | AUTRES engagements réglementés | TOTAL |
+|  | Opérations Union européenne | Hors Union européenne |
 |  | Opérations directes | Acceptations |
 | Provisions techniques des opérations collectives relevant de l'article L. 932-24 |  |  |  | XXX |  |
 | Provisions d'assurance vie des autres opérations |  |  |  | XXX |  |
@@ -576,4 +529,4 @@ Les institutions de prévoyance et les unions d'institutions de prévoyance éta
 | Intérêts courus des placements mentionnés à l'article R. 931-10-21 |  |  |  |  |  |
 | Créances garanties sur les réassureurs mentionnées à l'article R. 931-10-21 |  |  |  | XXX |  |
 | Total des placements et actifs assimilés |  |  |  |  |  |
-| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.(2) Le détail de la rubrique Divers est annexé au présent état.(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. | | | | | |
+| (1) Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'institution ou l'union.(2) Le détail de la rubrique Divers est annexé au présent état.(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution. |

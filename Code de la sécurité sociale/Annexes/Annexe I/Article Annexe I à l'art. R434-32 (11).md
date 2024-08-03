@@ -22,15 +22,15 @@ Les causes de l'atteinte cardiaque peuvent être très diverses. Il convient, po
 
 10.1.1 INSUFFISANCE CARDIAQUE.
 
-\- Légère
+- Légère
 
 Troubles aux efforts prolongés. Nécessité d'une thérapeutique et d'une surveillance discontinues. Pas de symptômes de décompensation, peu de retentissement sur la vie professionnelle 10 à 30
 
-\- Moyenne
+- Moyenne
 
 Absence de symptômes au repos. Troubles survenant à l'effort et aggravés par lui. Petits signes d'insuffisance cardiaque cédant bien au traitement, nécessité d'une surveillance suivie. Modification de l'image radiologique. Quelques perturbations dans la vie professionnelle 30 à 60
 
-\- Grave
+- Grave
 
 Symptomatologie susceptible de se manifester au repos. Accidents d'asystolie. Nécessité d'un traitement et d'un régime suivis. Chute de la pression artérielle. Silhouette cardiaque élargie. Image pleuro-pulmonaire de " poumon cardiaque ". Vie professionnelle très perturbée ou impossible 60 à 100
 
@@ -64,11 +64,11 @@ Les séquelles de lésions valvulaires d'origine traumatique ou post-traumatique
 
 10.2.1.1 Aorte.
 
-\- Anévrisme aortique (si l'imputabilité a été admise) 80 à 100
+- Anévrisme aortique (si l'imputabilité a été admise) 80 à 100
 
-\- Anévrisme aortique opéré bien contrôlé 30 à 40
+- Anévrisme aortique opéré bien contrôlé 30 à 40
 
-\- Anévrisme aortique opéré, mal contrôlé ; les séquelles seront appréciées selon l'importance des troubles, en tenant compte des séquelles pariétales.
+- Anévrisme aortique opéré, mal contrôlé ; les séquelles seront appréciées selon l'importance des troubles, en tenant compte des séquelles pariétales.
 
 10.2.1.2 Autres artères.
 
@@ -84,11 +84,11 @@ L'oblitération artérielle se traduit par des signes fonctionnels à l'effort o
 
 On distinguera (aussi bien au membre inférieur qu'au membre supérieur) :
 
-\- Une forme légère 20 à 30
+- Une forme légère 20 à 30
 
-\- Une forme moyenne 30 à 50
+- Une forme moyenne 30 à 50
 
-\- Une forme grave 50 à 70
+- Une forme grave 50 à 70
 
 En cas de sphacèle, l'amputation sera évaluée selon les indications fournies au chapitre portant sur " les membres supérieurs et les membres inférieurs ".
 
@@ -98,13 +98,13 @@ Oblitération artérielle traitée chirurgicalement : le taux sera évalué selo
 
 Les varices par elles-mêmes ne donnent pas lieu à une évaluation d'invalidité.
 
-\- Troubles phlébitiques et troubles trophiques veineux et lymphatiques : troubles des tissus cutanés et sous-cutanés, oedème, hypodermite nodulaire, induration cellulitique, lymphoedème, éléphantiasis, ulcère variqueux persistant, etc. :
+- Troubles phlébitiques et troubles trophiques veineux et lymphatiques : troubles des tissus cutanés et sous-cutanés, oedème, hypodermite nodulaire, induration cellulitique, lymphoedème, éléphantiasis, ulcère variqueux persistant, etc. :
 
-\- Forme légère 5 à 10
+- Forme légère 5 à 10
 
-\- Forme moyenne 10 à 20
+- Forme moyenne 10 à 20
 
-\- Forme grave 20 à 30
+- Forme grave 20 à 30
 
 10.3 HYPERTENSION ARTERIELLE.
 
@@ -112,8 +112,8 @@ Il faudra rechercher tous les indices possibles d'une hypertension préalable à
 
 L'indemnisation portera sur l'état hypertensif et d'autre part, sur ses retentissements viscéraux.
 
-\- Elévation de la tension artérielle en soi 10 à 20
+- Elévation de la tension artérielle en soi 10 à 20
 
-\- Retentissements viscéraux (indemnisés pour leur propre compte). Voir chapitres particuliers du barème ;
+- Retentissements viscéraux (indemnisés pour leur propre compte). Voir chapitres particuliers du barème ;
 
-\- Hypertension secondaire à une lésion rénale traumatique (voir " Urologie ").
+- Hypertension secondaire à une lésion rénale traumatique (voir " Urologie ").

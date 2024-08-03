@@ -6,9 +6,9 @@ Chaque caisse d'allocations familiales est administrée par un conseil d'adminis
 
 2° Huit représentants des employeurs et travailleurs indépendants à raison de :
 
-\- cinq représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
+- cinq représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
 
-\- trois représentants des travailleurs indépendants désignés par les institutions ou les organisations professionnelles des travailleurs indépendants les plus représentatives au plan national ;
+- trois représentants des travailleurs indépendants désignés par les institutions ou les organisations professionnelles des travailleurs indépendants les plus représentatives au plan national ;
 
 3° Quatre représentants des associations familiales désignés par l'union départementale des associations familiales ; la désignation est effectuée par l'Union nationale des associations familiales si, dans la circonscription de la caisse régionale, il n'existe pas d'union départementale ou si, en cas de pluralité d'unions départementales dans cette circonscription, elles ne sont pas parvenues à un accord ;
 

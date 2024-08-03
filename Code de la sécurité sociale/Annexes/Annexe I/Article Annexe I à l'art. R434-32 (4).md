@@ -10,11 +10,11 @@ hyperextension : 45° ; rotations droite et gauche : 70° ; inclinaisons droite 
 
 Persistance de douleurs et gêne fonctionnelle, qu'il y ait ou non séquelles de fracture d'une pièce vertébrale :
 
-\- Discrètes 5 à 15
+- Discrètes 5 à 15
 
-\- Importantes 15 à 30
+- Importantes 15 à 30
 
-\- Très importantes séquelles anatomiques et fonctionnelles 40 à 50
+- Très importantes séquelles anatomiques et fonctionnelles 40 à 50
 
 A ces taux s'ajouteront éventuellement les taux fixés pour les séquelles neurologiques pouvant coexister.
 
@@ -36,11 +36,11 @@ C'est l'observation de la flexion qui donne les meilleurs renseignements sur la 
 
 Persistance de douleurs notamment et gêne fonctionnelle (qu'il y ait ou non séquelles de fracture) :
 
-\- Discrètes 5 à 15
+- Discrètes 5 à 15
 
-\- Importantes 15 à 25
+- Importantes 15 à 25
 
-\- Très importantes séquelles fonctionnelles et anatomiques 25 à 40
+- Très importantes séquelles fonctionnelles et anatomiques 25 à 40
 
 A ces taux s'ajouteront éventuellement les taux estimés pour les séquelles nerveuses coexistantes.
 
@@ -52,11 +52,11 @@ Notamment : hernie discale, spondylolisthésis, etc. opérées ou non. L'I.P.P. 
 
 Les fractures du sacrum laissent en général peu de séquelles. Il peut exister cependant une certaine gêne aux mouvements du tronc, des douleurs à la station assise, une gêne plus ou moins importante à l'usage de la bicyclette :
 
-\- Sacrum 5 à 15
+- Sacrum 5 à 15
 
 Les fractures des ailerons peuvent laisser de graves séquelles, appréciées selon les indications fournies au chapitre du membre inférieur (articulations sacro-iliaques).
 
-\- Coccygodynie : avec tiraillements à l'accroupissement, douleurs en position assise, etc. 5 à 15
+- Coccygodynie : avec tiraillements à l'accroupissement, douleurs en position assise, etc. 5 à 15
 
 3.4 ARTHROSE VERTEBRALE.
 

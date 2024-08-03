@@ -4,19 +4,19 @@ Les rentes versées dans le cadre des régimes mentionnés au I de l'article L. 
 
 Les rentes versées au titre des retraites liquidées avant le 1er janvier 2011 sont soumises à une contribution sur la part qui excède 500 € par mois. Le taux de cette contribution est fixé à :
 
-\- 7 % pour la part de ces rentes supérieure à 500 € et inférieure ou égale à 1 000 € par mois ;
+- 7 % pour la part de ces rentes supérieure à 500 € et inférieure ou égale à 1 000 € par mois ;
 
-\- 14 % pour la part de ces rentes supérieure à 1 000 € et inférieure ou égale à 24 000 € par mois ; \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
+- 14 % pour la part de ces rentes supérieure à 1 000 € et inférieure ou égale à 24 000 € par mois ; \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
 
-\- 21 % pour la part de ces rentes supérieure à 24 000 € par mois. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
+- 21 % pour la part de ces rentes supérieure à 24 000 € par mois. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
 
 Les rentes versées au titre des retraites liquidées à compter du 1er janvier 2011 sont soumises à une contribution sur la part qui excède 400 € par mois. Le taux de cette contribution est fixé à :
 
-\- 7 % pour la part de ces rentes supérieure à 400 € et inférieure ou égale à 600 € par mois ;
+- 7 % pour la part de ces rentes supérieure à 400 € et inférieure ou égale à 600 € par mois ;
 
-\- 14 % pour la part de ces rentes supérieure à 600 € et inférieure ou égale à 24 000 € par mois ; \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
+- 14 % pour la part de ces rentes supérieure à 600 € et inférieure ou égale à 24 000 € par mois ; \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
 
-\- 21 % pour la part de ces rentes supérieure à 24 000 € par mois. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
+- 21 % pour la part de ces rentes supérieure à 24 000 € par mois. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2012-662 DC du 29 décembre 2012.\]
 
 Ces valeurs sont revalorisées chaque année en fonction de l'évolution du plafond défini à l'article L. 241-3 et arrondies à l'euro le plus proche, la fraction d'euro égale à 0,50 étant comptée pour 1. La contribution est précomptée et versée par les organismes débiteurs des rentes et recouvrée et contrôlée dans les mêmes conditions que la contribution mentionnée à l'article L. 136-1 due sur ces rentes.
 

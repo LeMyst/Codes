@@ -6,8 +6,9 @@
 
 Date de création : 18 février 1967.
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | La nature mycosique de l'atteinte doit être confirmée par examen direct et culture. |  |  |
 | A. - Mycoses de la peau glabre. | 30 jours | Maladies désignées en A, B, C : |
 | Lésions érythémato-vésiculeuses et squameuses, circinées, appelées encore herpès circiné. |  | Travaux en contact des mammifères, exécutés dans les abattoirs, les chantiers d'équarrissage, les ménageries, les élevages, les animaleries, les garderies d'animaux, les laboratoires où sont utilisés des animaux d'expérience ; travaux de soins et de toilettage. |

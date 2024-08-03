@@ -16,7 +16,7 @@ La condition mentionnée au cinquième alinéa du présent I ne s'applique pas :
 
 -lorsque la personne ou les deux membres du couple poursuivent des études ;
 
-\- lorsque la personne ou les deux membres du couple sont signataires d'un contrat de service civique mentionné à l'article L. 120-3 du code du service national ;
+- lorsque la personne ou les deux membres du couple sont signataires d'un contrat de service civique mentionné à l'article L. 120-3 du code du service national ;
 
 -lorsque la personne ou au moins l'un des membres du couple bénéficie d'une des allocations mentionnées aux articles L. 821-1 et L. 821-2 du présent code et aux articles L. 5423-1 et L. 5423-2 du code du travail ;
 

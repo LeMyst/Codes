@@ -2,8 +2,9 @@
 
 **Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile, ou en établissement d'hébergement pour personnes âgées dépendantes**.
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | A. - Infections dues aux staphylocoques : Manifestations cliniques de staphylococcie : - septicémie ; - atteinte viscérale ; - panaris, avec mise en évidence du germe et typage du staphylocoque. | 10 jours | Tous travaux accomplis par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de staphylocoques. |
 | B. - Infections dues aux pseudomonas aeruginosa : - septicémie ; - localisations viscérales, cutanéo-muqueuses et oculaires, avec mise en évidence du germe et typage du pseudomonas aeruginosa. | 15 jours | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de pseudomonas aeruginosa. |
 | C. - Infections dues aux entérobactéries : Septicémie confirmée par hémoculture. | 15 jours | Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir d'entérobactéries. |

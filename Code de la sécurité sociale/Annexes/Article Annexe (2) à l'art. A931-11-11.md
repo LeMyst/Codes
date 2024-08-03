@@ -2,12 +2,13 @@
 
 MODELES TYPES DE COMPTES ANNUELS.
 
-2\. COMPTE DE RESULTAT
+2. COMPTE DE RESULTAT
 
 I. - Compte technique des opérations Non-vie
 
-|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
 | D1 Cotisations acquises |  |  |  |  |
 | D1a Cotisations |  |  |  |  |
 | D1b Charge des provisions pour cotisations non acquises |  |  |  |  |
@@ -27,8 +28,9 @@ I. - Compte technique des opérations Non-vie
 
 II. - Compte technique des opérations Vie
 
-|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | OPÉRATIONSbrutes | CESSIONSet rétrocessions | OPÉRATIONSnettes | OPÉRATIONSnettes N-1 |
 | E1 Cotisations |  |  |  |  |
 | E2 Produits des placements |  |  |  |  |
 | E2a Revenus des placements |  |  |  |  |
@@ -60,8 +62,9 @@ II. - Compte technique des opérations Vie
 
 III. - Compte non technique
 
-|  | OPÉRATIONS N | OPÉRATIONS N - 1 |
+|  |  |  |
 | --- | --- | --- |
+|  | OPÉRATIONS N | OPÉRATIONS N - 1 |
 | F1 Résultat technique des opérations non-vie |  |  |
 | F2 Résultat technique des opérations vie |  |  |
 | F3 Produits des placements |  |  |
@@ -86,15 +89,16 @@ III. - Compte non technique
 
 Règles de raccordement des comptes au compte de résultat (compte technique Non-vie)
 
-| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
+|  |  |  |
 | --- | --- | --- |
+| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
 | D1a | 702, 705, 63297 et 63597 |  |
 | D1a cession | 7082, 7085 et sous-comptes des comptes 6392 et 5395 correspondant aux sous-comptes 63297 et 63597 |  |
 | D1b | 7092 et 7095 |  |
 | D1b cession | 7099 |  |
 | D2 | 7920 |  |
 | D3 | 722, 732 et 742 |  |
-| D4a | 602, 605, 63293 et 63593 |  |
+| D4a  | 602, 605, 63293 et 63593 |  |
 | D4a cession | 6092, 6095 et sous-comptes des comptes 6392 et 6395 correspondant aux sous-comptes 63293 et 63593 |  |
 | D4b | 612, 615, 63294 et 63594 |  |
 | D4b cession | 6192, 6195 et sous-comptes des comptes 6392 et 6395 correspondant aux sous-comptes 63294 et 63594 |  |
@@ -111,8 +115,9 @@ Règles de raccordement des comptes au compte de résultat (compte technique Non
 
 Règles de raccordement des comptes au compte de résultat (compte technique Vie)
 
-| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
+|  |  |  |
 | --- | --- | --- |
+| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
 | E1 | 700 et 704 |  |
 | E1 cession | 7080 et 7084 |  |
 | E2a | 760 |  |
@@ -146,11 +151,12 @@ Règles de raccordement des comptes au compte de résultat (compte technique Vie
 
 Règles de raccordement des comptes au compte de résultat (compte non technique)
 
-| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
+|  |  |  |
 | --- | --- | --- |
+| POSTE | COMPTES RACCORDÉS | COMMENTAIRES |
 | F3a | 760 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
 | F3b | 762, 768 et 769 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
-| F3c | 764 et 765 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
+| F3c  | 764 et 765 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
 | F4 | 7930 | Identique au 7939, de solde contraire. Non renseigné si l'institution ou l'union est agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
 | F5a | 660, 662 et 663 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |
 | F5b | 668 et 669 | Non renseigné par l'institution ou l'union non agréée pour les opérations du b et/ou du c de l'article L. 931-1. |

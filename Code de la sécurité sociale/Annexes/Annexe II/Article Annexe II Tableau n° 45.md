@@ -2,8 +2,9 @@
 
 **Infections d'origine professionnelle par les virus des hépatites A, B, C, D et E**
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | - A - |  | - A - |
 | Hépatites virales transmises par voie orale |  | Travaux comportant des actes de soins, d'hygiène, d'entretien, d'analyses de biologie médicale, susceptibles d'exposer aux produits biologiques d'origine humaine et aux produits contaminés par eux. Travaux comportant des actes de soins et d'hygiène corporels, de soutien, dans des crèches, garderies, institutions sociales et médico-sociales recevant des enfants et des adultes handicapés. Travaux exposant au contact d'eaux usées lors de l'installation, l'exploitation et l'entretien des réseaux d'assainissement, de stations d'épuration. Travaux exposant au contact d'eaux usées dans les établissements de bains, de douches, dans les piscines, dans les établissements thermaux. Travaux exposant au contact d'eaux usées dans les cuisines de restauration collective. |
 | a) Hépatites à virus A : |  |

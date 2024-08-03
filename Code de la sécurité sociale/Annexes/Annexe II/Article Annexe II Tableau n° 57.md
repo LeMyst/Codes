@@ -2,14 +2,15 @@
 
 Affections périarticulaires provoquées par certains gestes et postures de travail
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies |
 | - A - |  |  |
 | Epaule |  |  |
 | Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs. | 30 jours | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) avec un angle supérieur ou égal à 60° pendant au moins 3 h 30 par jour en cumulé. |
 | Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM (\*). | 6 mois (sous réserve d'une durée d'exposition de 6 mois) | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) :- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumuléou- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. |
 | Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (\*). | 1 an (sous réserve d'une durée d'exposition d'un an) | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) :- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumuléou- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. |
-| (\*) Ou un arthroscanner en cas de contre-indication à l'IRM.(\*\*) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps. | | |
+| (\*) Ou un arthroscanner en cas de contre-indication à l'IRM.(\*\*) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps. |
 | - B - |  |  |
 | Coude |  |  |
 | Tendinopathie d'insertion des muscles épicondyliens associée ou non à un syndrome du tunnel radial. | 14 jours | Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de pronosupination. |

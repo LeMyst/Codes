@@ -6,22 +6,22 @@ Le montant mensuel de la prestation complémentaire pour recours à tierce perso
 
 II. ― Les actes ordinaires de la vie pris en compte pour la détermination du montant de la prestation complémentaire pour recours à tierce personne sont énumérés dans la grille suivante :
 
-1\. La victime peut-elle se lever seule et se coucher seule ?
+1. La victime peut-elle se lever seule et se coucher seule ?
 
-2\. La victime peut-elle s'asseoir seule et se lever seule d'un siège ?
+1. La victime peut-elle s'asseoir seule et se lever seule d'un siège ?
 
-3\. La victime peut-elle se déplacer seule dans son logement, y compris en fauteuil roulant ?
+1. La victime peut-elle se déplacer seule dans son logement, y compris en fauteuil roulant ?
 
-4\. La victime peut-elle s'installer seule dans son fauteuil roulant et en sortir seule ?
+1. La victime peut-elle s'installer seule dans son fauteuil roulant et en sortir seule ?
 
-5\. La victime peut-elle se relever seule en cas de chute ?
+1. La victime peut-elle se relever seule en cas de chute ?
 
-6\. La victime pourrait-elle quitter seule son logement en cas de danger ?
+1. La victime pourrait-elle quitter seule son logement en cas de danger ?
 
-7\. La victime peut-elle se vêtir et se dévêtir totalement seule ?
+1. La victime peut-elle se vêtir et se dévêtir totalement seule ?
 
-8\. La victime peut-elle manger et boire seule ?
+1. La victime peut-elle manger et boire seule ?
 
-9\. La victime peut-elle aller uriner et aller à la selle sans aide ?
+1. La victime peut-elle aller uriner et aller à la selle sans aide ?
 
-10\. La victime peut-elle mettre seule son appareil orthopédique ? (le cas échéant).
+1. La victime peut-elle mettre seule son appareil orthopédique ? (le cas échéant).

@@ -4,29 +4,29 @@
 
 12.1 APPAREIL GENITAL MASCULIN.
 
-\- Perte de la verge, compte tenu du méat périnéal et des troubles psychiques en résultant 50 à 60
+- Perte de la verge, compte tenu du méat périnéal et des troubles psychiques en résultant 50 à 60
 
-\- Perte d'un testicule (atrophie, destruction ou orchidectomie) 10 à 20
+- Perte d'un testicule (atrophie, destruction ou orchidectomie) 10 à 20
 
-\- Castration bilatérale, selon les résultats du traitement substitutif ou du traitement hormonal 30 à 50
+- Castration bilatérale, selon les résultats du traitement substitutif ou du traitement hormonal 30 à 50
 
-\- Émasculation totale (perte des testicules et du pénis) 60 à 80
+- Émasculation totale (perte des testicules et du pénis) 60 à 80
 
 12.2 APPAREIL GENITAL FEMININ.
 
-\- Prolapsus utérin (dans les cas exceptionnels où l'origine traumatique sera reconnue).
+- Prolapsus utérin (dans les cas exceptionnels où l'origine traumatique sera reconnue).
 
-\- Cas légers 2 à 10
+- Cas légers 2 à 10
 
-\- Cas graves (avec incontinence d'urine à l'effort) 30
+- Cas graves (avec incontinence d'urine à l'effort) 30
 
-\- Cicatrices vulvaires ou vaginales gênantes (taux pouvant être majoré en cas de retentissement fonctionnel important) 5 à 10
+- Cicatrices vulvaires ou vaginales gênantes (taux pouvant être majoré en cas de retentissement fonctionnel important) 5 à 10
 
-\- Perte anatomique ou fonctionnelle des deux ovaires, chez une femme en période d'activité génitale 50 à 20
+- Perte anatomique ou fonctionnelle des deux ovaires, chez une femme en période d'activité génitale 50 à 20
 
-\- Hystérectomie 50 à 20
+- Hystérectomie 50 à 20
 
-\- Sein :
+- Sein :
 
 Amputation unilatérale 50 à 20
 

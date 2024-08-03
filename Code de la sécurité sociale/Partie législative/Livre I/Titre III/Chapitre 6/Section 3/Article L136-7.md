@@ -77,7 +77,7 @@ La valeur liquidative ou de rachat ne tient pas compte des gains nets et produit
 
 III.-1. Lorsqu'un plan d'épargne-logement est résilié dans les deux ans à compter de son ouverture ou transformé en compte épargne-logement à la demande de son titulaire, la contribution calculée dans les conditions du c du 2° du II est restituée à hauteur du montant qui excède celui de la contribution due sur les intérêts recalculés, en appliquant à l'ensemble des dépôts du plan concerné le taux de rémunération du compte épargne-logement en vigueur à la date de sa résiliation ou de sa transformation.
 
-2\. L'établissement payeur reverse au titulaire du plan l'excédent de la contribution déterminé dans les conditions du 1, à charge pour cet établissement d'en demander la restitution.
+2. L'établissement payeur reverse au titulaire du plan l'excédent de la contribution déterminé dans les conditions du 1, à charge pour cet établissement d'en demander la restitution.
 
 La restitution s'effectue par voie d'imputation sur la contribution due par l'établissement payeur à raison des autres produits de placements. A défaut d'une base d'imputation suffisante, l'excédent de contribution non imputé est reporté ou remboursé.
 
@@ -85,7 +85,7 @@ III bis.-1. Lorsque, au dénouement d'un bon ou contrat mentionné au 3° du II 
 
 En cas de rachat partiel, cet excédent n'est reversé qu'à proportion du rapport existant entre les primes comprises dans ce rachat et le montant total des primes versées net des primes comprises, le cas échéant, dans un rachat partiel antérieur.
 
-2\. L'établissement payeur reverse au contrat l'excédent de la contribution déterminé dans les conditions du 1 lors du dénouement du bon ou du contrat ou du décès de l'assuré, à charge pour cet établissement d'en demander la restitution.
+2. L'établissement payeur reverse au contrat l'excédent de la contribution déterminé dans les conditions du 1 lors du dénouement du bon ou du contrat ou du décès de l'assuré, à charge pour cet établissement d'en demander la restitution.
 
 La restitution s'effectue par voie d'imputation sur la contribution due par l'établissement payeur à raison des autres produits de placements. A défaut d'une base d'imputation suffisante, l'excédent de contribution non imputé est reporté ou remboursé.
 
@@ -93,11 +93,11 @@ IV.-1. La contribution sociale généralisée due par les établissements payeur
 
 Ce versement est égal à 90 % du produit de l'assiette de référence ainsi déterminée par le taux de la contribution fixé à l'article L. 136-8. Son paiement intervient le 15 octobre au plus tard. Il est reversé dans un délai de dix jours francs après cette date par l'Etat aux organismes affectataires.
 
-2\. Lorsque l'établissement payeur estime que le versement dû en application du 1 est supérieur à la contribution dont il sera redevable au titre des mois de décembre et janvier, il peut réduire ce versement à concurrence de l'excédent estimé.
+2. Lorsque l'établissement payeur estime que le versement dû en application du 1 est supérieur à la contribution dont il sera redevable au titre des mois de décembre et janvier, il peut réduire ce versement à concurrence de l'excédent estimé.
 
-3\. Lors du dépôt en janvier et février des déclarations, l'établissement payeur procède à la liquidation de la contribution. Lorsque le versement effectué en application des 1 et 2 est supérieur à la contribution réellement due, le surplus est imputé sur la contribution sociale généralisée due à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ; l'excédent éventuel est restitué.
+1. Lors du dépôt en janvier et février des déclarations, l'établissement payeur procède à la liquidation de la contribution. Lorsque le versement effectué en application des 1 et 2 est supérieur à la contribution réellement due, le surplus est imputé sur la contribution sociale généralisée due à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ; l'excédent éventuel est restitué.
 
-4\. Lorsque la contribution sociale généralisée réellement due au titre des mois de décembre et janvier est supérieure au versement réduit par l'établissement payeur en application du 2, la majoration prévue au 1 de l'article 1731 du code général des impôts s'applique à cette différence. L'assiette de cette majoration est toutefois limitée à la différence entre le montant du versement calculé dans les conditions du 1 et celui réduit dans les conditions du 2.
+1. Lorsque la contribution sociale généralisée réellement due au titre des mois de décembre et janvier est supérieure au versement réduit par l'établissement payeur en application du 2, la majoration prévue au 1 de l'article 1731 du code général des impôts s'applique à cette différence. L'assiette de cette majoration est toutefois limitée à la différence entre le montant du versement calculé dans les conditions du 1 et celui réduit dans les conditions du 2.
 
 V.-La contribution visée au premier alinéa du I et aux II et IV ci-dessus est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code général des impôts. Toutefois, la contribution mentionnée au 8° ter du II est versée au Trésor dans les quinze premiers jours du mois qui suit la date mentionnée à la première phrase du même 8° ter.
 
@@ -107,7 +107,7 @@ VI.1-La contribution portant sur les plus-values mentionnées au 2° du I est as
 
 La contribution portant sur les plus-values mentionnées au I bis est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement mentionné à l'article 244 bis A du code général des impôts.
 
-2\. Pour la détermination de l'assiette de la contribution portant sur les plus-values mentionnées au 1, autres que celles mentionnées à l'article 150 UA du code général des impôts \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-685 DC du 29 décembre 2013.\] il est fait application, en lieu et place de l'abattement mentionné aux premier à troisième alinéas du I de l'article 150 VC dudit code, d'un abattement fixé à :
+2. Pour la détermination de l'assiette de la contribution portant sur les plus-values mentionnées au 1, autres que celles mentionnées à l'article 150 UA du code général des impôts \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-685 DC du 29 décembre 2013.\] il est fait application, en lieu et place de l'abattement mentionné aux premier à troisième alinéas du I de l'article 150 VC dudit code, d'un abattement fixé à :
 
 a) 1,65 % pour chaque année de détention au-delà de la cinquième ;
 

@@ -6,12 +6,12 @@ Cet état est apprécié en tenant compte de la capacité restante pour l'exerci
 
 1° En cas d'incapacité totale :
 
-\- à la date de la demande sous réserve qu'elle soit antérieure au soixantième anniversaire de l'assuré.
+- à la date de la demande sous réserve qu'elle soit antérieure au soixantième anniversaire de l'assuré.
 
 2° En cas d'incapacité partielle :
 
-\- soit après consolidation de la blessure ;
+- soit après consolidation de la blessure ;
 
-\- soit après stabilisation de son état ;
+- soit après stabilisation de son état ;
 
-\- soit au moment de la constatation médicale de l'invalidité, lorsque celle-ci résulte d'une usure prématurée de l'organisme.
+- soit au moment de la constatation médicale de l'invalidité, lorsque celle-ci résulte d'une usure prématurée de l'organisme.

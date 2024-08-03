@@ -46,11 +46,11 @@ La guérison, à l'inverse, ne laisse subsister aucune séquelle fonctionnelle, 
 
 Dans ce cas, il appartient au médecin chargé de l'évaluation de bien mettre en évidence dans ses conclusions la nécessité d'un changement d'emploi.
 
-1\. Séquelles résultant de lésions isolées.
+1. Séquelles résultant de lésions isolées.
 
 Ces séquelles seront appréciées en partant du taux moyen proposé par le barème, éventuellement modifié par des estimations en plus ou en moins résultant de l'état général, de l'âge, ainsi que des facultés physiques et mentales, comme il a été exposé ci-dessus.
 
-2\. Infirmités multiples résultant d'un même accident.
+2. Infirmités multiples résultant d'un même accident.
 
 On appelle infirmités multiples, celles qui intéressent des membres ou des organes différents.
 
@@ -68,7 +68,7 @@ Dans le cas d'une troisième lésion, pour l'exemple choisi, la capacité restan
 
 Cette façon de calculer l'incapacité globale résultant de lésions multiples ne garde bien entendu qu'un caractère indicatif. Le médecin chargé de l'évaluation peut toujours y apporter des modifications ou adopter un autre mode de calcul à condition de justifier son estimation.
 
-3\. Infirmités antérieures.
+3. Infirmités antérieures.
 
 L'estimation médicale de l'incapacité doit faire la part de ce qui revient à l'état antérieur, et de ce qui revient à l'accident. Les séquelles rattachables à ce dernier sont seules en principe indemnisables. Mais il peut se produire des actions réciproques qui doivent faire l'objet d'une estimation particulière.
 

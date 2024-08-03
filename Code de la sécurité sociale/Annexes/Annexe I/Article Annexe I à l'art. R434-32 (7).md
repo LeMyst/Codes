@@ -4,12 +4,13 @@
 
 6.1 - ALTÉRATION DE LA FONCTION VISUELLE
 
-Il y a lieu de tenir compte :\
-\- Des troubles de la vision centrale de loin ou de près (vision de précision) ;\
-\- Des troubles de la vision périphérique (vision de sécurité) ;\
-\- Des troubles de la vision binoculaire ;\
-\- Des troubles du sens chromatique et du sens lumineux ;\
-\- Et des nécessités de la profession exercée. 6.1.1 - CÉCITÉ
+Il y a lieu de tenir compte :
+
+- Des troubles de la vision centrale de loin ou de près (vision de précision) ;
+- Des troubles de la vision périphérique (vision de sécurité) ;
+- Des troubles de la vision binoculaire ;
+- Des troubles du sens chromatique et du sens lumineux ;
+- Et des nécessités de la profession exercée. 6.1.1 - CÉCITÉ
 
 Cécité complète.
 
@@ -25,11 +26,11 @@ Les exigences visuelles requises par les professions sont tellement variables (l
 
 Est considéré comme atteint de cécité professionnelle celui dont l'œil le meilleur a une acuité égale au plus à 1/20 avec un rétrécissement du champ visuel inférieur à 20° dans son secteur le plus étendu.
 
-\- Cécité complète (avec attribution de la tierce personne) 100
+- Cécité complète (avec attribution de la tierce personne) 100
 
-\- Quasi-cécité 100
+- Quasi-cécité 100
 
-\- Cécité professionnelle 100 6.1.2 - SCOTOME CENTRAL BILATÉRAL
+- Cécité professionnelle 100 6.1.2 - SCOTOME CENTRAL BILATÉRAL
 
 Avec conservation des champs visuels périphériques selon la profession 50 à 90.
 
@@ -37,17 +38,17 @@ Avec conservation des champs visuels périphériques selon la profession 50 à 9
 
 Est perdu, l'oeil dont la vision est complètement abolie. Est considéré comme perdu, celui dont la vision est inférieure à 1/20, avec déficience du champ visuel périphérique (perte de la vision professionnelle d'un œil). Il faut distinguer les cas de perte de la vision sans lésion apparente, des cas de mutilation (énucléation, etc.), ou de difformités apparentes (staphylomes étendus, etc.).
 
-\- Perte de la vision d'un œil, sans difformité apparente 30
+- Perte de la vision d'un œil, sans difformité apparente 30
 
-\- Ablation ou altération du globe avec possibilité de prothèse 33
+- Ablation ou altération du globe avec possibilité de prothèse 33
 
-\- Sans prothèse possible 40
+- Sans prothèse possible 40
 
 Taux auquel s'ajoute éventuellement un taux pour défiguration importante (voir "Téguments"). 6.1.4 - SCOTOME CENTRAL UNILATÉRAL
 
-\- Sans perte du champ visuel périphérique 15 à 18
+- Sans perte du champ visuel périphérique 15 à 18
 
-\- Avec perte du champ visuel périphérique 30
+- Avec perte du champ visuel périphérique 30
 
 6.1.5 - DIMINUTION DE LA VISION DES DEUX YEUX
 
@@ -59,43 +60,43 @@ Dans les examens fonctionnels, le spécialiste devra toujours recourir aux proc�
 
 a) Lacune unilatérale du champ visuel.
 
-\- Déficit en îlot (localisation centrale ou périphérique, temporale ou nasale, supérieure ou inférieure) 5 à 15
+- Déficit en îlot (localisation centrale ou périphérique, temporale ou nasale, supérieure ou inférieure) 5 à 15
 
-\- Rétrécissement sensiblement concentrique du champ visuel (taux à ajouter à celui de l'acuité visuelle centrale) :
+- Rétrécissement sensiblement concentrique du champ visuel (taux à ajouter à celui de l'acuité visuelle centrale) :
 
 A 30° :
 
-\- Un seul œil 3 à 5
+- Un seul œil 3 à 5
 
-\- Les deux yeux 5 à 20
+- Les deux yeux 5 à 20
 
 Moins de 10° :
 
-\- Un seul œil 10 à 15
+- Un seul œil 10 à 15
 
-\- Les deux yeux 70 à 80
+- Les deux yeux 70 à 80
 
 b) Scotomes centraux (voir supra).
 
 Le taux se confond avec celui attribué pour la baisse de la vision
 
-\- Un œil (suivant le degré de vision) 15 à 20
+- Un œil (suivant le degré de vision) 15 à 20
 
-\- Les deux yeux (suivant le degré de vision) 50 à 90
+- Les deux yeux (suivant le degré de vision) 50 à 90
 
 c) Hémianopsie.
 
 Hémianopsie avec conservation de la vision centrale :
 
-\- Homonyme droite ou gauche 30 à 35
+- Homonyme droite ou gauche 30 à 35
 
-\- Hétéronyme binasale 15 à 20
+- Hétéronyme binasale 15 à 20
 
-\- Hétéronyme bitemporale 40 à 80
+- Hétéronyme bitemporale 40 à 80
 
-\- Horizontale supérieure 10 à 15
+- Horizontale supérieure 10 à 15
 
-\- Horizontale inférieure 30 à 50
+- Horizontale inférieure 30 à 50
 
 Les quadranopsies peuvent être évaluées en assignant à chaque quadrant une valeur de :
 
@@ -103,9 +104,9 @@ Les quadranopsies peuvent être évaluées en assignant à chaque quadrant une v
 
 quoique respectant la vision centrale qu'ils affleurent par leur limite, ils peuvent être très gênants lorsqu'ils ont la forme :
 
-\- D'un scotome paracentral bitemporal 10 à 15
+- D'un scotome paracentral bitemporal 10 à 15
 
-\- D'un scotome hémianopsique latéral droit qui entrave la lecture 10 à 30
+- D'un scotome hémianopsique latéral droit qui entrave la lecture 10 à 30
 
 Hémianopsie avec perte de la vision centrale : unie ou bilatérale (ajouter à ces taux celui indiqué par le tableau ci-après sans que le total puisse dépasser 100 %).
 
@@ -119,8 +120,9 @@ Le tableau ci-après est applicable, qu'il s'agisse de la blessure d'un seul œi
 
 La vision d'un œil est indiquée par une colonne horizontale, la vision de l'autre, par une colonne verticale. Le point de rencontre donne le taux médical d'incapacité.
 
-| Degré de vision | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 | 1/20 et moinsde 1/20 | Énucléation |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Degré de vision | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 | 1/20 et moinsde 1/20 | Énucléation |
 | 9/10 | 0 | 0 | 0 | 1 | 2 | 4 | 8 | 15 | 19 | 30 | 33 |
 | 8/10 | 0 | 0 | 1 | 2 | 4 | 5 | 12 | 17 | 21 | 30 | 33 |
 | 7/10 | 0 | 1 | 3 | 4 | 6 | 7 | 14 | 19 | 22 | 32 | 35 |
@@ -151,13 +153,13 @@ En cas de photophobie entraînant l'éblouissement de l'autre œil, il sera ajou
 
 Paralysie de l'accomodation et du sphincter irien. - Ophtalmoplégie interne unilatérale 10
 
-\- Bilatérale 20
+- Bilatérale 20
 
-\- Mydriase existant seule et déterminant des troubles fonctionnels :
+- Mydriase existant seule et déterminant des troubles fonctionnels :
 
-\- Unilatérale 5
+- Unilatérale 5
 
-\- Bilatérale 10
+- Bilatérale 10
 
 6.1.10 - CATARACTES 6.1.10.1 - Unilatérales
 
@@ -223,36 +225,36 @@ L'imputabilité ne doit être retenue qu'une fois éliminée toute preuve de l'e
 
 Les éléments d'appréciation utiles seront :
 
-\- Pour le glaucome : aspect de l'angle irido-cornéen, sensibilité à la dexaméthasone, notion de glaucome familial.
+- Pour le glaucome : aspect de l'angle irido-cornéen, sensibilité à la dexaméthasone, notion de glaucome familial.
 
-\- Pour le décollement de rétine : lésions myopiques ou dégénératives.
+- Pour le décollement de rétine : lésions myopiques ou dégénératives.
 
-\- Pour les déplacements du cristallin : fragilité zonulaire, ectopie de la lentille.
+- Pour les déplacements du cristallin : fragilité zonulaire, ectopie de la lentille.
 
-\- Pour les hémorragies intraoculaires : lésions vasculaires artérielles, veineuses, capillaires, altérations sanguines. 6.2 - ANNEXES DE L'OEIL
+- Pour les hémorragies intraoculaires : lésions vasculaires artérielles, veineuses, capillaires, altérations sanguines. 6.2 - ANNEXES DE L'OEIL
 
 6.2.1 - ORBITE
 
-\- Nerfs moteurs : paralysie d'un ou plusieurs nerfs oculo-moteurs (voir "Diplopie"). En cas de paralysie consécutive à une affection système nerveux central, se reporter à l'affection causale.
+- Nerfs moteurs : paralysie d'un ou plusieurs nerfs oculo-moteurs (voir "Diplopie"). En cas de paralysie consécutive à une affection système nerveux central, se reporter à l'affection causale.
 
-\- Nerfs sensitifs : névrites, névralgies très douloureuses, en particuliers douleurs glaucomateuses, lésions du nerf trijumeau (symptôme neuro-paralytique, y compris les troubles de la sécrétion lacrymale, ou sa perte) à ajouter au trouble visuel 10 à 20
+- Nerfs sensitifs : névrites, névralgies très douloureuses, en particuliers douleurs glaucomateuses, lésions du nerf trijumeau (symptôme neuro-paralytique, y compris les troubles de la sécrétion lacrymale, ou sa perte) à ajouter au trouble visuel 10 à 20
 
-\- altérations vasculaires : (anévrisme, etc.) ; indemniser les troubles fonctionnels (voir barème spécial). 6.2.2 - PAUPIÈRES
+- altérations vasculaires : (anévrisme, etc.) ; indemniser les troubles fonctionnels (voir barème spécial). 6.2.2 - PAUPIÈRES
 
-\- Déviation des bords palpéraux (entropion, trichiasis, ectropion, cicatrices vicieuses, symblépharon, ankyloblépharon), suivant étendue ; ajouter à la diminution de la vision et à la défiguration éventuelle 5 à 10
+- Déviation des bords palpéraux (entropion, trichiasis, ectropion, cicatrices vicieuses, symblépharon, ankyloblépharon), suivant étendue ; ajouter à la diminution de la vision et à la défiguration éventuelle 5 à 10
 
-\- Ptosis ou blépharospasme non volontaire : taux fondé sur le degré de vision et suivant que, en position primaire (regard horizontal de face), la pupille est plus ou moins découverte :
+- Ptosis ou blépharospasme non volontaire : taux fondé sur le degré de vision et suivant que, en position primaire (regard horizontal de face), la pupille est plus ou moins découverte :
 
-\- Un œil 5 à 15
+- Un œil 5 à 15
 
-\- Les deux yeux 20 à 40
+- Les deux yeux 20 à 40
 
-\- Lagophtalmie cicatricielle ou paralytique ; ajouter aux troubles visuels 10 % pour un œil.
+- Lagophtalmie cicatricielle ou paralytique ; ajouter aux troubles visuels 10 % pour un œil.
 
-\- Voies lacrymales : larmoiement par lésion des voies lacrymales (atrésie, sténose) 5 à 10
+- Voies lacrymales : larmoiement par lésion des voies lacrymales (atrésie, sténose) 5 à 10
 
-\- Fistules (résultant par exemple de dacryocystite ou de lésions osseuses) ; pour chaque œil 10 à 15
+- Fistules (résultant par exemple de dacryocystite ou de lésions osseuses) ; pour chaque œil 10 à 15
 
 6.2.3 - SQUELETTE ORBITAIRE
 
-\- Déformation importante ( plus éventuellement les séquelles ophtalmologiques) 5 à 15
+- Déformation importante ( plus éventuellement les séquelles ophtalmologiques) 5 à 15

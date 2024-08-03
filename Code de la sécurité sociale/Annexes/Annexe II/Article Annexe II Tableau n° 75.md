@@ -4,8 +4,9 @@
 
 Date de création : 26 juin 1984.
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | Affections des voies aériennes. | 5 jours | Emploi des sels de sélénium dans l'industrie métallurgique et l'électronique. |
 | Oedème pulmonaire. | 5 jours | Utilisation de pigments contenant du sélénium. |
 | Brûlures et irritations cutanées. | 5 jours | Fabrication et emploi d'additifs alimentaires contenant du sélénium. |

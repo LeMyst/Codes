@@ -6,9 +6,9 @@ Chaque union de recouvrement des cotisations de sécurité sociale et d'allocati
 
 2° Huit représentants des employeurs et travailleurs indépendants à raison de :
 
-\- cinq représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
+- cinq représentants des employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
 
-\- trois représentants des travailleurs indépendants désignés par les institutions ou les organisations professionnelles des travailleurs indépendants les plus représentatives au plan national ;
+- trois représentants des travailleurs indépendants désignés par les institutions ou les organisations professionnelles des travailleurs indépendants les plus représentatives au plan national ;
 
 3° Quatre personnes qualifiées dans les domaines d'activité des unions de recouvrement et désignées par l'autorité compétente de l'Etat.
 

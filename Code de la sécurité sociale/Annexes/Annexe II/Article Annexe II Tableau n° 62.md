@@ -2,8 +2,9 @@
 
 **AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LES ISOCYANATES ORGANIQUES**.
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | Blépharo-conjonctivite récidivante. | 3 jours | Travaux exposant à l'inhalation ou à la manipulation d'isiocyanates organiques, notamment : - fabrication et application de vernis et laques de polyuréthanes, fabrication de fibres synthétiques ; - préparation des mousses polyuréthanes et application de ces mousses à l'état liquide ; - fabrication et utilisation des colles à base de polyuréthanes ; - fabrication et manipulation de peintures contenant des isocyanates organiques. |
 | Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test. | 7 jours |
 | Syndrome bronchique récidivant. | 7 jours |

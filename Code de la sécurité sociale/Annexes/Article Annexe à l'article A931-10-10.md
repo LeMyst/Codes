@@ -2,8 +2,9 @@
 
 Table TD 88-90 (en cas de décès)
 
-| X | Lx |
+|  |  |
 | --- | --- |
+| X | Lx |
 | 0 | 100 000 |
 | 1 | 99 129 |
 | 2 | 99 057 |
@@ -111,12 +112,13 @@ Table TD 88-90 (en cas de décès)
 | 104 | 17 |
 | 105 | 7 |
 | 106 | 2 |
-| Lx = nombre de vivants à l'âge X. | |
+| Lx = nombre de vivants à l'âge X. |
 
 Table TV 88-90 (en cas de vie)
 
-| X | Lx |
+|  |  |
 | --- | --- |
+| X | Lx |
 | 0 | 100 000 |
 | 1 | 99 352 |
 | 2 | 99 294 |
@@ -228,4 +230,4 @@ Table TV 88-90 (en cas de vie)
 | 108 | 14 |
 | 109 | 6 |
 | 110 | 2 |
-| Lx = nombre de vivants à l'âge X. | |
+| Lx = nombre de vivants à l'âge X. |

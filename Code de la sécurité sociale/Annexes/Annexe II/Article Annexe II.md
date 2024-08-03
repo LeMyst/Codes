@@ -2,8 +2,9 @@
 
 Sommaire
 
-| 1. Affections cardio-vasculaires |
+|  |
 | --- |
+| 1. Affections cardio-vasculaires |
 | 2. Affections dermatologiques et cutanéo-muqueuses |
 | 3. Affections digestives |
 | 4. Affections neurologiques, neurosensorielles et psychiatriques |
@@ -21,39 +22,39 @@ Forme légère : 5-20 %.
 
 Caractérisée par :
 
-\- dyspnée à l'effort prolongé ;
+- dyspnée à l'effort prolongé ;
 
-\- absence de signes périphériques d'IVD ;
+- absence de signes périphériques d'IVD ;
 
-\- absence de retentissement même au moment des poussées de surinfection pulmonaire.
+- absence de retentissement même au moment des poussées de surinfection pulmonaire.
 
 Forme moyenne : 20-60 %.
 
 Caractérisée par :
 
-\- dyspnée d'effort associée à :
+- dyspnée d'effort associée à :
 
-\- tachycardie-cœur de volume subnormal ;
+- tachycardie-cœur de volume subnormal ;
 
-\- signes électro-écho-cardiographiques de retentissement ventriculaire droit ;
+- signes électro-écho-cardiographiques de retentissement ventriculaire droit ;
 
-\- absence d'hépatomégalie ;
+- absence d'hépatomégalie ;
 
-\- poussées d'insuffisance ventriculaire droite grave lors des surinfections pulmonaires.
+- poussées d'insuffisance ventriculaire droite grave lors des surinfections pulmonaires.
 
 Forme grave : 60-100 %.
 
 Caractérisée par :
 
-\- dyspnée de repos associée à :
+- dyspnée de repos associée à :
 
-\- tachycardie-cardiomégalie ;
+- tachycardie-cardiomégalie ;
 
-\- signes électro-écho-cardiographiques de rententissement ventriculaire droit ;
+- signes électro-écho-cardiographiques de rententissement ventriculaire droit ;
 
-\- signes périphériques d'insuffisance ventriculaire droite ;
+- signes périphériques d'insuffisance ventriculaire droite ;
 
-\- nécessité d'un traitement et d'un régime.
+- nécessité d'un traitement et d'un régime.
 
 1.2 Insuffisance ventriculaire gauche
 
@@ -61,39 +62,39 @@ Forme légère : 5-20 %.
 
 Caractérisée par :
 
-\- dyspnée à l'effort prolongé ;
+- dyspnée à l'effort prolongé ;
 
-\- simple hypertrophie ventriculaire gauche électrique et/ou radiologique ;
+- simple hypertrophie ventriculaire gauche électrique et/ou radiologique ;
 
-\- absence de traitement et de régime.
+- absence de traitement et de régime.
 
 Forme moyenne : 20-60 %.
 
 Caractérisée par :
 
-\- dyspnée d'effort simple associée à :
+- dyspnée d'effort simple associée à :
 
-\- tachycardie ;
+- tachycardie ;
 
-\- signes électro-écho-cardiographiques d'atteinte ventriculaire gauche modérée ;
+- signes électro-écho-cardiographiques d'atteinte ventriculaire gauche modérée ;
 
-\- accès épisodiques et légers de dyspnée paroxystique.
+- accès épisodiques et légers de dyspnée paroxystique.
 
 Forme grave : 60-100 %.
 
 Caractérisée par :
 
-\- dyspnée au moindre effort associée à :
+- dyspnée au moindre effort associée à :
 
-\- crises de dyspnée paroxystique-œdème aigu du poumon ;
+- crises de dyspnée paroxystique-œdème aigu du poumon ;
 
-\- tachycardie avec galop ;
+- tachycardie avec galop ;
 
-\- râles crépitants et sous crépitants ;
+- râles crépitants et sous crépitants ;
 
-\- signes d'atteinte cardio-vasculaire gauche avérée ;
+- signes d'atteinte cardio-vasculaire gauche avérée ;
 
-\- nécessité d'un traitement continu.
+- nécessité d'un traitement continu.
 
 1.3 Ischémie cardiaque
 
@@ -101,23 +102,23 @@ Forme légère : 5-10 %.
 
 Caractérisée par :
 
-\- ischémie électrique silencieuse ;
+- ischémie électrique silencieuse ;
 
-\- absence de douleur angineuse ;
+- absence de douleur angineuse ;
 
-\- absence d'infarctus du myocarde ;
+- absence d'infarctus du myocarde ;
 
-\- absence de traitement.
+- absence de traitement.
 
 Forme moyenne : 20-60 %.
 
 Caractérisée par un ou plusieurs des tableaux cliniques suivants :
 
-\- angor modéré stable répondant bien au traitement - associé à des altérations électriques modérées et stables au repos ;
+- angor modéré stable répondant bien au traitement - associé à des altérations électriques modérées et stables au repos ;
 
-\- épreuves d'effort perturbées ;
+- épreuves d'effort perturbées ;
 
-\- séquelles limitées d'infarctus myocardique avec ou sans douleurs angineuses.
+- séquelles limitées d'infarctus myocardique avec ou sans douleurs angineuses.
 
 La coexistence de troubles du rythme ventriculaire constitue un facteur de gravité.
 
@@ -125,13 +126,13 @@ Forme grave : 60-100 %.
 
 Caractérisée par un ou plusieurs des tableaux cliniques suivants :
 
-\- infarctus myocardique ancien étendu avec troubles du rythme et/ou ectasie pariétale ;
+- infarctus myocardique ancien étendu avec troubles du rythme et/ou ectasie pariétale ;
 
-\- angine de poitrine sévère répondant mal au traitement ;
+- angine de poitrine sévère répondant mal au traitement ;
 
-\- cardiopathie ischémique relevant d'un traitement médicamenteux intensif et/ou chirurgical et/ou instrumental ;
+- cardiopathie ischémique relevant d'un traitement médicamenteux intensif et/ou chirurgical et/ou instrumental ;
 
-\- séquelles secondaires à la chirurgie coronaire ou à l'angioplastie.
+- séquelles secondaires à la chirurgie coronaire ou à l'angioplastie.
 
 Les séquelles liées à une éventuelle migration embolique seront évaluées par ailleurs.
 
@@ -141,45 +142,45 @@ Forme légère : 5-20 %.
 
 Caractérisée par le tableau clinique suivant :
 
-\- anomalies électriques de type surcharge ou troubles isolés de la repolarisation ;
+- anomalies électriques de type surcharge ou troubles isolés de la repolarisation ;
 
-\- altérations écho-cardiographiques discrètes ;
+- altérations écho-cardiographiques discrètes ;
 
-\- cœur de volume normal ou limite ;
+- cœur de volume normal ou limite ;
 
-\- absence de symptômes fonctionnels ;
+- absence de symptômes fonctionnels ;
 
-\- absence de signes d'insuffisance cardiaque ;
+- absence de signes d'insuffisance cardiaque ;
 
-\- absence de traitement.
+- absence de traitement.
 
 Forme moyenne : 20-60 %.
 
 Caractérisée par le tableau clinique suivant :
 
-\- dyspnée à l'effort modéré ;
+- dyspnée à l'effort modéré ;
 
-\- cardiomégalie modérée ;
+- cardiomégalie modérée ;
 
-\- altérations franches de l'électro-échocardiogramme ;
+- altérations franches de l'électro-échocardiogramme ;
 
-\- absence de signes périphériques d'insuffisance cardiaque ;
+- absence de signes périphériques d'insuffisance cardiaque ;
 
-\- stabilité sous traitement.
+- stabilité sous traitement.
 
 Forme grave : 60-100 %.
 
 Caractérisée par :
 
-\- dyspnée à l'effort simple associée à un ou plusieurs signes suivants :
+- dyspnée à l'effort simple associée à un ou plusieurs signes suivants :
 
-\- tachycardie - galop ;
+- tachycardie - galop ;
 
-\- hépatomégalie - poumon cardiaque ;
+- hépatomégalie - poumon cardiaque ;
 
-\- altérations majeures à l'électro-échocardiogramme ;
+- altérations majeures à l'électro-échocardiogramme ;
 
-\- nécessité d'un traitement polymédicamenteux continu.
+- nécessité d'un traitement polymédicamenteux continu.
 
 1.5 Atteintes péricardiques
 
@@ -187,29 +188,29 @@ Forme légère : 5-20 %.
 
 Caractérisée par :
 
-\- anomalies électriques isolées persistantes ;
+- anomalies électriques isolées persistantes ;
 
-\- absence de traitement.
+- absence de traitement.
 
 Forme moyenne : 30-60 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- péricardite récidivante à rechutes multiples ;
+- péricardite récidivante à rechutes multiples ;
 
-\- péricardite calcifiée chronique sans syndrome de constriction, clinique ou hémodynamique.
+- péricardite calcifiée chronique sans syndrome de constriction, clinique ou hémodynamique.
 
 Forme grave : 60-100 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- péricardite liquidienne chronique ;
+- péricardite liquidienne chronique ;
 
-\- péricardite chronique calcifiée ou non avec syndrome d'adiastolie ;
+- péricardite chronique calcifiée ou non avec syndrome d'adiastolie ;
 
-\- séquelles chirurgicales entraînant une gêne fonctionnelle marquée ;
+- séquelles chirurgicales entraînant une gêne fonctionnelle marquée ;
 
-\- mésothéliome péricardique.
+- mésothéliome péricardique.
 
 1.6 Troubles du rythme
 
@@ -217,29 +218,29 @@ Forme légère : 5-20 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- troubles de la conduction intraventriculaire (bloc de branche) ou auriculoventriculaire au 1er degré, asymptomatique et stable ;
+- troubles de la conduction intraventriculaire (bloc de branche) ou auriculoventriculaire au 1er degré, asymptomatique et stable ;
 
-\- hyper-excitabilité auriculaire ou ventriculaire nécessitant un traitement prophylactique ;
+- hyper-excitabilité auriculaire ou ventriculaire nécessitant un traitement prophylactique ;
 
-\- arythmies ventriculaires ou auriculaires complexes, symptomatiques, nécessitant surveillance et traitement ;
+- arythmies ventriculaires ou auriculaires complexes, symptomatiques, nécessitant surveillance et traitement ;
 
-\- patient appareillé par stimulateur intracorporel.
+- patient appareillé par stimulateur intracorporel.
 
 Forme moyenne : 30-60 %.
 
 Caractérisée par un des tableaux cliniques suivants :
 
-\- tachycardies supraventriculaires nécessitant un traitement prophylactique ;
+- tachycardies supraventriculaires nécessitant un traitement prophylactique ;
 
-\- arythmies ventriculaires, ou auriculaires complexes, symptomatiques, nécessitant surveillance et traitement ;
+- arythmies ventriculaires, ou auriculaires complexes, symptomatiques, nécessitant surveillance et traitement ;
 
-\- patient appareillé par stimulateur intracorporel.
+- patient appareillé par stimulateur intracorporel.
 
 Forme grave : 60-100 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- tachycardie ventriculaire récidivant malgré le traitement.
+- tachycardie ventriculaire récidivant malgré le traitement.
 
 Evaluer par ailleurs les séquelles liées aux migrations emboliques éventuelles.
 
@@ -251,31 +252,31 @@ Forme légère : 5-20 %.
 
 Caractérisée par un des tableaux cliniques suivants :
 
-\- disparition d'un pouls distal avec sténose incomplète au Doppler chez un sujet asymptomatique ;
+- disparition d'un pouls distal avec sténose incomplète au Doppler chez un sujet asymptomatique ;
 
-\- claudication intermittente à la marche rapide et prolongée.
+- claudication intermittente à la marche rapide et prolongée.
 
 Forme moyenne : 20-60 %.
 
 Associant :
 
-\- claudication intermittente à la marche normale avec pression à la cheville > 50 mm de mercure (ou 6,66 kPa) ;
+- claudication intermittente à la marche normale avec pression à la cheville > 50 mm de mercure (ou 6,66 kPa) ;
 
-\- troubles trophiques peu marqués ;
+- troubles trophiques peu marqués ;
 
-\- traitement continu.
+- traitement continu.
 
 Forme grave : 60-100 %.
 
 Associant :
 
-\- artériopathie chronique avec douleur de décubitus ;
+- artériopathie chronique avec douleur de décubitus ;
 
-\- troubles trophiques marqués ;
+- troubles trophiques marqués ;
 
-\- marche impossible ou extrêmement pénible avec douleurs violentes ;
+- marche impossible ou extrêmement pénible avec douleurs violentes ;
 
-\- pression à la cheville \< 50 mm de mercure (ou 6,66 kPa).
+- pression à la cheville \< 50 mm de mercure (ou 6,66 kPa).
 
 Evaluer par ailleurs les séquelles liées à une amputation par gangrène selon barème AT.
 
@@ -285,43 +286,43 @@ Forme légère : 5-10 %.
 
 Associant :
 
-\- œdème modéré ;
+- œdème modéré ;
 
-\- simple lourdeur et fatigabilité modérée.
+- simple lourdeur et fatigabilité modérée.
 
 Forme moyenne : 10-30 %.
 
 Caractérisée par :
 
-\- œdème important ;
+- œdème important ;
 
 et/ou
 
-\- troubles trophiques marqués.
+- troubles trophiques marqués.
 
 Forme grave : 30-50 %.
 
 Caractérisée par :
 
-\- troubles trophiques très importants ;
+- troubles trophiques très importants ;
 
 et/ou
 
-\- œdème très important avec fatigabilité marquée.
+- œdème très important avec fatigabilité marquée.
 
 1.7.3 - Troubles angio-neurotiques.
 
 Forme légère : 5-20 %.
 
-\- on tiendra compte de la gène fonctionnelle et du résultat des épreuves fonctionnelles.
+- on tiendra compte de la gène fonctionnelle et du résultat des épreuves fonctionnelles.
 
 Forme évoluée : 20-30 %.
 
-\- existence de sphacèle,
+- existence de sphacèle,
 
 et/ou
 
-\- troubles trophiques.
+- troubles trophiques.
 
 1.8 Valvulopathies
 
@@ -329,37 +330,37 @@ Forme légère : 5-10 %.
 
 Caractérisée par le tableau :
 
-\- simple souffle séquellaire sans retentissement ventriculaire, clinique, radio, électro-échographique hémodynamique ;
+- simple souffle séquellaire sans retentissement ventriculaire, clinique, radio, électro-échographique hémodynamique ;
 
-\- absence de traitement.
+- absence de traitement.
 
 Forme moyenne : 20-60 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- valvulopathie avérée mais sans signe de décompensation ;
+- valvulopathie avérée mais sans signe de décompensation ;
 
-\- valvulopathie avérée associée à :
+- valvulopathie avérée associée à :
 
-\- signes d'insuffisance cardiaque légère ;
+- signes d'insuffisance cardiaque légère ;
 
-\- avec ou sans traitement médical ;
+- avec ou sans traitement médical ;
 
-\- absence d'indications chirurgicales ;
+- absence d'indications chirurgicales ;
 
-\- valvulopathie opérée avec bons résultats.
+- valvulopathie opérée avec bons résultats.
 
 Forme grave : 60-100 %.
 
 Caractérisée par l'un des tableaux cliniques suivants :
 
-\- valvulopathie entraînant un retentissement cardiaque sévère (voir IVD ou IVG) ;
+- valvulopathie entraînant un retentissement cardiaque sévère (voir IVD ou IVG) ;
 
-\- indications chirurgicales ;
+- indications chirurgicales ;
 
-\- formes opérées avec résultats médiocres ;
+- formes opérées avec résultats médiocres ;
 
-\- valvulopathies inopérables.
+- valvulopathies inopérables.
 
 Evaluer par ailleurs les séquelles liées aux migrations emboliques éventuelles.
 
@@ -369,7 +370,7 @@ Une hypertension artérielle limite labile ne nécessitant pas un traitement ne 
 
 En cas d'hypertension artérielle permanente nécessitant un traitement, l'appréciation tiendra compte de l'état hypertensif et d'autre part de ses retentissements viscéraux :
 
-\- élévation de la tension artérielle isolée : 10 à 20 %.
+- élévation de la tension artérielle isolée : 10 à 20 %.
 
 Les retentissements viscéraux sont indemnisés pour leur propre compte (voir chapitres particuliers du barème).
 
@@ -379,11 +380,11 @@ Les retentissements viscéraux sont indemnisés pour leur propre compte (voir ch
 
 Le tableau d'invalidité des affections dermatologiques professionnelles (Maladies professionnelles - Origine post-traumatique) propose :
 
-\- un taux de base qui est fonction de l'état séquellaire clinique, de sa gravité et de son potentiel évolutif ;
+- un taux de base qui est fonction de l'état séquellaire clinique, de sa gravité et de son potentiel évolutif ;
 
-\- auquel peut s'appliquer un coefficient de majoration fonction de certaines localisations lésionnelles et de la superficie des séquelles ;
+- auquel peut s'appliquer un coefficient de majoration fonction de certaines localisations lésionnelles et de la superficie des séquelles ;
 
-\- un taux complémentaire si coexistent des séquelles sensitives et/ou motrices, responsables d'une gêne fonctionnelle.
+- un taux complémentaire si coexistent des séquelles sensitives et/ou motrices, responsables d'une gêne fonctionnelle.
 
 L'invalidité dermatologique doit certes prendre en compte ces différents facteurs mais surtout doit s'apprécier de façon globale en fonction des éléments que comporte l'article L. 434-2 du Code de la sécurité sociale. L'incidence de l'affection dermatologique professionnelle sur les aptitudes et la qualification professionnelle qui constituent peut-être l'élément médico-social majeur de l'incapacité permanente partielle dépend, en grande partie, des risques professionnels que comportait le poste de travail de la victime. Le médecin évaluateur, dont l'action se situe forcément en aval de la maladie professionnelle, ne doit pas négliger pour autant ce qui se place en amont.
 
@@ -391,36 +392,35 @@ Il ne doit pas perdre de vue que la dermatose professionnelle, d'origine allergi
 
 Que le risque chimique soit constitué par une substance ou une préparation (mélange de substances), qu'il soit pur ou associé à un facteur physique (mécanique, par exemple), il convient de reconnaître les types d'effets susceptibles de se produire :
 
-\- effets généraux :
+- effets généraux :
 
-\- irritants (responsables de l'inflammation) ;
+- irritants (responsables de l'inflammation) ;
 
-\- corrosifs (responsables de nécrose cellulaire) ;
+- corrosifs (responsables de nécrose cellulaire) ;
 
-\- toxiques ;
+- toxiques ;
 
-\- allergisants ;
+- allergisants ;
 
-\- cancérogènes ;
+- cancérogènes ;
 
-\- effets spécifiques :
+- effets spécifiques :
 
-\- effet savon ;
+- effet savon ;
 
-\- effet solvan : délipidation de surface ;
+- effet solvan : délipidation de surface ;
 
-\- alcalin...
+- alcalin...
 
 Certaines lésions sont véritablement pathognomoniques du risque tel la chloracné causée par les dioxines ;
 
-\- effets toxiques :
+- effets toxiques :
 
 Des toxiques sont résorbables par voie cutanée et cette pénétration percutanée est d'autant plus importante que les téguments sont lésés. Il convient, lors de l'évaluation de certains états séquellaires, de ne pas négliger les effets toxiques causés généralement par des doses minimes, par exemple, les intoxications par le bore.
 
 2.2 Évaluation
 
 |  | États séquellaires | Préjudice | Taux de base |
-| --- | --- | --- | --- |
 | Gravité. | Atrophie sans rétraction.Alopécies définitives.Dyschromies.Ulcères. | Léger. | 0 à 10 %. |
 |  | Atrophies avec rétraction.Hyperkératoses.Lichénifications.Polysensibilisation. | Moyen. | 10 à 15 %. |
 |  | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |
@@ -443,10 +443,11 @@ Voir chapitre 9.3 du présent barème.
 
 3.1 Atteintes hépatiques
 
-Au décours de l'évolution d'une maladie professionnelle comportant une atteinte hépatique, le médecin chargé de l'évaluation de l'IPP peut se trouver devant l'une des situations suivantes :\
-1\. Hépatite ;\
-2\. Cirrhose du foie ;\
-3\. Tumeur maligne du foie.
+Au décours de l'évolution d'une maladie professionnelle comportant une atteinte hépatique, le médecin chargé de l'évaluation de l'IPP peut se trouver devant l'une des situations suivantes :
+
+1. Hépatite ;
+1. Cirrhose du foie ;
+1. Tumeur maligne du foie.
 
 3.1.1 - Hépatites
 
@@ -454,36 +455,43 @@ L'hépatite aiguë peut être considérée comme guérie sans séquelle lorsque 
 La présence isolée d'antigène HBS ne constitue pas une séquelle en soi.\
 Hépatites chroniques :\
 Les hépatites chroniques sont définies par la persistance après six mois d'évolution d'une perturbation des tests biologiques hépatiques et/ou d'anomalies à l'examen anatomopathologique.\
-On distingue :\
-\- l'hépatique chronique persistance :\
-\- avec perturbation des tests de cytolyse, les chiffres ne dépassant pas cinq fois la valeur normale ;\
-\- éventuellement confirmée par un examen histologique du foie : 5 à 10 % ;
+On distingue :
 
-\- l'hépatite chronique active :\
-\- avec des tests de cytolyse dépassant cinq fois leur valeur normale ;\
-\- et/ou gamma-globulines sériques dépassant 20 g/litre, éventuellement confirmée par examen histologique du foie.
+- l'hépatique chronique persistance :
+
+- avec perturbation des tests de cytolyse, les chiffres ne dépassant pas cinq fois la valeur normale ;
+
+- éventuellement confirmée par un examen histologique du foie : 5 à 10 % ;
+
+- l'hépatite chronique active :
+
+- avec des tests de cytolyse dépassant cinq fois leur valeur normale ;
+
+- et/ou gamma-globulines sériques dépassant 20 g/litre, éventuellement confirmée par examen histologique du foie.
 
 Suivant l'importance et l'évolution des signes cliniques et biologiques : 10 à 40 %.
 
 3.1.2 - Cirrhoses.
 
 La cirrhose est reconnue par ses signes cliniques et biologiques et/ou histologiques (ponction biopsie du foie).\
-Pour fixer le taux d'incapacité permanente partielle imputable à la cirrhose, on tiendra compte du retentissement sur l'état général et de la survenue des complications éventuellement associées :\
-\- hypertension portale : présence de varices œsophagiennes (constatées par l'examen endoscopique) avec ou sans hémorragie digestive et/ou ascite ;\
-\- insuffisance hépatique : avec abaissement du taux de prothrombine au-dessous de 60 % ;\
-\- encéphalopathie hépatique ;\
-\- troubles de l'attention, de l'idéation et/ou troubles caractériels et/ou signes neurologiques spécifiques ;\
-\- hépatocarcinome : présence dans le sérum d'un marqueur spécifique à un taux significatif (par exemple alpha-fœtoprotéine > 500 nanogrammes/ml) et/ou anomalies échographiques démonstratives et/ou arguments histologiques décisifs après cytoponction.
+Pour fixer le taux d'incapacité permanente partielle imputable à la cirrhose, on tiendra compte du retentissement sur l'état général et de la survenue des complications éventuellement associées :
+
+- hypertension portale : présence de varices œsophagiennes (constatées par l'examen endoscopique) avec ou sans hémorragie digestive et/ou ascite ;
+- insuffisance hépatique : avec abaissement du taux de prothrombine au-dessous de 60 % ;
+- encéphalopathie hépatique ;
+- troubles de l'attention, de l'idéation et/ou troubles caractériels et/ou signes neurologiques spécifiques ;
+- hépatocarcinome : présence dans le sérum d'un marqueur spécifique à un taux significatif (par exemple alpha-fœtoprotéine > 500 nanogrammes/ml) et/ou anomalies échographiques démonstratives et/ou arguments histologiques décisifs après cytoponction.
 
 Suivant le stade évolutif, l'affection réalise des tableaux cliniques de gravité diverse :\
 Cirrhoses compensées :\
 Caractérisées par l'absence de manifestations d'hypertension portale, l'absence d'encéphalopathie hépatique, l'absence d'insuffisance hépatique : 10 à 20 %.\
 Cirrhoses avec hypertension portale :\
 Varices œsophagiennes non hémorragiques ou ascite facilement réductible sans signe clinique d'encéphalopathie : 20 à 60 %.\
-Cirrhoses graves :\
-\- hémorragies(s) par rupture de varice œsophagienne et/ou ascite irréductible ;\
-\- et/ou encéphalopathie invalidante ;\
-\- et/ou signes marqués d'insuffisance hépatique : 60 à 100 %.
+Cirrhoses graves :
+
+- hémorragies(s) par rupture de varice œsophagienne et/ou ascite irréductible ;
+- et/ou encéphalopathie invalidante ;
+- et/ou signes marqués d'insuffisance hépatique : 60 à 100 %.
 
 Cirrhoses compliquées d'hépatocarcinome : 100 %.
 
@@ -573,14 +581,14 @@ Forme grave : 50 à 100 %.
 
 4.2.6 - Syndrome associant
 
-\- des troubles de l'équilibre ;\
-de la vigilance ;\
-et de la mémoire ;\
-Et syndrome associant :\
-\- des céphalées ;\
-\- de l'asthénie ;\
-\- des vertiges ;\
-\- des nausées.
+- des troubles de l'équilibre ;\
+  de la vigilance ;\
+  et de la mémoire ;\
+  Et syndrome associant :
+- des céphalées ;
+- de l'asthénie ;
+- des vertiges ;
+- des nausées.
 
 L'association de ces troubles divers entre dans le cadre du syndrome subjectif.\
 Selon l'intensité et la pluralité des symptômes : 5 à 20 %.
@@ -596,10 +604,11 @@ Le taux sera fonction du degré d'altération de la fonction visuelle et l'on ut
 
 4.3 Névrites - Polynévrites
 
-L'évaluation des taux d'IPP pour les névrites et les polynévrites doit tenir compte de plusieurs facteurs :\
-\- existence ou non de troubles moteurs ;\
-\- existence ou non de troubles sensitifs, en particulier profonds ;\
-\- existence ou non de troubles trophiques.
+L'évaluation des taux d'IPP pour les névrites et les polynévrites doit tenir compte de plusieurs facteurs :
+
+- existence ou non de troubles moteurs ;
+- existence ou non de troubles sensitifs, en particulier profonds ;
+- existence ou non de troubles trophiques.
 
 Il faudra considérer la gêne fonctionnelle entraînée par ces différents facteurs (barème AT 4.2.5).\
 Un cas particulier, la névrite trijéminale, exceptionnelle, qui entraîne plus souvent des troubles moteurs que des douleurs : 5 à 60 %.
@@ -613,9 +622,10 @@ Il s'agit, là encore, comme pour les troubles neurologiques aigus, d'états év
 
 4.4.2 - Chroniques.
 
-Etats dépressifs d'intensité variable :\
-\- soit avec une asthénie persistante : 10 à 20 %.\
-\- soit à l'opposé, grande dépression mélancolique, anxiété pantophobique : 50 à 100 %.
+Etats dépressifs d'intensité variable :
+
+- soit avec une asthénie persistante : 10 à 20 %.
+- soit à l'opposé, grande dépression mélancolique, anxiété pantophobique : 50 à 100 %.
 
 Troubles du comportement d'intensité variable : 10 à 20 %.
 
@@ -654,19 +664,19 @@ L'atteinte de l'appareil urinaire au cours des maladies professionnelles peut re
 
 Cependant, quelle que soit la maladie, les séquelles au moment de la consolidation donnent lieu à un nombre restreint de situations. Le médecin, chargé de l'évaluation, sera en pratique amené à estimer l'incapacité permanente partielle résultant des syndromes suivants :
 
-\- insuffisance rénale chronique,
+- insuffisance rénale chronique,
 
-\- hypertension artérielle,
+- hypertension artérielle,
 
-\- protéinurie importante (syndrome néphrotique),
+- protéinurie importante (syndrome néphrotique),
 
-\- hématurie ou protéinurie isolée,
+- hématurie ou protéinurie isolée,
 
-\- tubulopathie chronique,
+- tubulopathie chronique,
 
-\- lithiase urinaire,
+- lithiase urinaire,
 
-\- lésions vésicales.
+- lésions vésicales.
 
 5.1 L'insuffisance rénale chronique
 
@@ -730,8 +740,9 @@ Cystites très évoluées nécessitant une dérivation des urines : jusqu'à 60 
 
 5.7.2 - Tumeurs.
 
-5.7.2.1. Tumeurs papillomateuses non dégénérées avec ou sans hématuries nécessitant une ou plusieurs résections et des contrôles endoscopiques itératifs :\
-\- suivant l'importance des manifestations cliniques et les contraintes imposées par la surveillance : 10 à 50 %.
+5.7.2.1. Tumeurs papillomateuses non dégénérées avec ou sans hématuries nécessitant une ou plusieurs résections et des contrôles endoscopiques itératifs :
+
+- suivant l'importance des manifestations cliniques et les contraintes imposées par la surveillance : 10 à 50 %.
 
 5.7.2.2. Tumeurs vésicales malignes.\
 Traitées par cystectomie totale et rétablissement de la continuité des voies urinaires par entéro-cystoplastie : suivant les séquelles (infection, troubles mictionnels, troubles sexuels) : 30 à 60 %.\
@@ -825,43 +836,48 @@ Cf. Syndromes aigus irritatifs (6.1).
 
 6.9.2 - Insuffisances respiratoires chroniques légères : 10 à 40 %.
 
-Caractérisées par l'un au moins des critères suivants :\
-\- trouble ventilatoire restrictif (TVR) avec capacité pulmonaire totale comprise entre 60 et 80 % de la valeur théorique ;\
-\- trouble ventilatoire obstructif (TVO) avec VEMS supérieur à 1 500 ml (soit supérieur à 75 % de la valeur théorique) ;\
-\- PaO2 supérieure à 70 mmHg. ou à 70 Tor, ou à 9,3 kPa.
+Caractérisées par l'un au moins des critères suivants :
+
+- trouble ventilatoire restrictif (TVR) avec capacité pulmonaire totale comprise entre 60 et 80 % de la valeur théorique ;
+- trouble ventilatoire obstructif (TVO) avec VEMS supérieur à 1 500 ml (soit supérieur à 75 % de la valeur théorique) ;
+- PaO2 supérieure à 70 mmHg. ou à 70 Tor, ou à 9,3 kPa.
 
 6.9.3 - Insuffisances respiratoires chroniques moyennes : 40 à 67 %.
 
-Caractérisées par l'un au moins des critères suivants :\
-\- trouble ventilatoire restrictif avec capacité pulmonaire totale comprise entre 50 et 60 % de la valeur théorique ;\
-\- trouble ventilatoire obstructif avec VEMS entre 1 000 et 1 500 ml (soit entre 50 à 75 % de la valeur théorique) ;\
-\- PaO2 entre 60 et 70 mmHg ou 60 et 70 Tor, ou 8,3 à 9,3 kPa ;\
-\- signes électro-écho-cardiographiques et retentissement ventriculaire droit ;\
-\- poussées d'insuffisance ventriculaire droite lors de surinfections pulmonaires.
+Caractérisées par l'un au moins des critères suivants :
+
+- trouble ventilatoire restrictif avec capacité pulmonaire totale comprise entre 50 et 60 % de la valeur théorique ;
+- trouble ventilatoire obstructif avec VEMS entre 1 000 et 1 500 ml (soit entre 50 à 75 % de la valeur théorique) ;
+- PaO2 entre 60 et 70 mmHg ou 60 et 70 Tor, ou 8,3 à 9,3 kPa ;
+- signes électro-écho-cardiographiques et retentissement ventriculaire droit ;
+- poussées d'insuffisance ventriculaire droite lors de surinfections pulmonaires.
 
 6.9.4 - Insuffisances respiratoires chroniques graves : 67 à 100 %.
 
-Caractérisées par l'un au moins des critères suivants :\
-\- trouble ventilatoire restrictif avec capacité pulmonaire totale comprise entre 40 et 50 % de la valeur théorique ;\
-\- trouble ventilatoire obstructif avec VEMS entre 700 et 1 000 ml (soit 30 à 50 % de la valeur théorique) ;\
-\- PaO2 entre 50 et 60 mmHg, ou entre 50 et 60 Tor ou entre 6.6 et 8 kPa ;\
-\- signes permanents périphériques et électro-écho-cardiographiques de retentissement ventriculaire droit.
+Caractérisées par l'un au moins des critères suivants :
+
+- trouble ventilatoire restrictif avec capacité pulmonaire totale comprise entre 40 et 50 % de la valeur théorique ;
+- trouble ventilatoire obstructif avec VEMS entre 700 et 1 000 ml (soit 30 à 50 % de la valeur théorique) ;
+- PaO2 entre 50 et 60 mmHg, ou entre 50 et 60 Tor ou entre 6.6 et 8 kPa ;
+- signes permanents périphériques et électro-écho-cardiographiques de retentissement ventriculaire droit.
 
 6.9.5 - Insuffisances respiratoires chroniques sévères : 100 %.
 
-Caractérisées par l'un au moins des critères suivants :\
-\- trouble ventilatoire restrictif avec capacité pulmonaire totale inférieure à 40 % de la valeur théorique ;\
-\- trouble ventilatoire obstructif avec VEMS inférieur à 700 ml (soit inférieur à 30 % de la valeur théorique) ;\
-\- PaO2 inférieure à 50 mmHg, ou 50 Tor, ou 6,6 kPa ;\
-\- forme grave d'insuffisance ventriculaire droite.
+Caractérisées par l'un au moins des critères suivants :
+
+- trouble ventilatoire restrictif avec capacité pulmonaire totale inférieure à 40 % de la valeur théorique ;
+- trouble ventilatoire obstructif avec VEMS inférieur à 700 ml (soit inférieur à 30 % de la valeur théorique) ;
+- PaO2 inférieure à 50 mmHg, ou 50 Tor, ou 6,6 kPa ;
+- forme grave d'insuffisance ventriculaire droite.
 
 6.10 Cas particulier des pneumoconioses à réparation spéciale
 
-Il convient de tenir compte de la gravité radiologique. C'est ainsi que, par exemple, dans le cas d'une silicose, même si la fonction respiratoire est peu altérée, on retiendra un taux d'IPP minimal.\
-1\. Pour les formes micronodulaires étendues et de forte densité ;\
-Pour les formes nodulaires envahissant les deux tiers du champ pulmonaire : de l'ordre de 10 % ;\
-2\. Pour les formes nodulaires généralisées et pour les formes pseudo-tumorales se projetant sur 1 à 3 espaces intercostaux : de l'ordre de 20 % ;\
-3\. Pour les pseudo-tumeurs se projetant sur plus de 3 espaces intercostaux : de l'ordre de 30 %.7 Affections hématologiques
+Il convient de tenir compte de la gravité radiologique. C'est ainsi que, par exemple, dans le cas d'une silicose, même si la fonction respiratoire est peu altérée, on retiendra un taux d'IPP minimal.
+
+1. Pour les formes micronodulaires étendues et de forte densité ;\
+   Pour les formes nodulaires envahissant les deux tiers du champ pulmonaire : de l'ordre de 10 % ;
+1. Pour les formes nodulaires généralisées et pour les formes pseudo-tumorales se projetant sur 1 à 3 espaces intercostaux : de l'ordre de 20 % ;
+1. Pour les pseudo-tumeurs se projetant sur plus de 3 espaces intercostaux : de l'ordre de 30 %.7 Affections hématologiques
 
 7.1 Syndromes hémorragiques
 
@@ -881,10 +897,11 @@ Anémie persistante avec taux d'hémoglobine compris entre 12 g/100 ml ou 7,4 m.
 Anémie persistante avec taux d'hémoglobine compris entre 9 g/100 ml ou 5,5 m.mol/l et 7 g/100 ml ou 4,3 m.mol/l : 40 à 67 %.\
 Anémie persistante avec taux d'hémoglobine inférieur à 7 g/100 ml ou 4,3 m.mol/l avec nécessité d'un traitement transfusionnel : 67 à 100 %.\
 Complications transfusionnelles :\
-Les soins et arrêts de travail qu'elles nécessitent seront pris en charge au titre de la maladie professionnelle ou d'une rechute de celle-ci :\
-\- les séquelles éventuelles devront être appréciées en fonction des rubriques correspondantes du présent barème ;\
-\- insuffisance cardiaque : voir Maladies cardio-vasculaires ;\
-\- hélochromatose pouvant s'observer après un traitement transfusionnel prolongé pour anémies persistantes graves : 67 à 100 %.
+Les soins et arrêts de travail qu'elles nécessitent seront pris en charge au titre de la maladie professionnelle ou d'une rechute de celle-ci :
+
+- les séquelles éventuelles devront être appréciées en fonction des rubriques correspondantes du présent barème ;
+- insuffisance cardiaque : voir Maladies cardio-vasculaires ;
+- hélochromatose pouvant s'observer après un traitement transfusionnel prolongé pour anémies persistantes graves : 67 à 100 %.
 
 7.3 Leucopénie - Neutropénie
 
@@ -897,30 +914,36 @@ Leucopénie inférieure à 800 globules blancs par mm3 : 100 %.
 
 7.4 Hypercytoses
 
-Même si la terminologie qui est appliquée peut être discutée par le plan sémantique, elles désignent :\
-\- la polyglobulie modérée ;\
-\- la splénomégalie myéloïde ;\
-\- la maladie de Hodgkin ;\
-\- les lymphomes non hodgkiniens.
+Même si la terminologie qui est appliquée peut être discutée par le plan sémantique, elles désignent :
 
-Toutes ces affections comportent un risque vital et seront définies :\
-\- pour la polyglobulie : par la masse sanguine égale ou supérieure à 36 ml/kg chez l'homme ; égale ou supérieure à 32 ml/kg chez la femme :\
-\- sans diminution de la PaO2 \[ (note 9) :\
-\] ;\
-\- avec une leucocytose supérieure à 13 000-14 000 globules blancs par mm3 ;
+- la polyglobulie modérée ;
+- la splénomégalie myéloïde ;
+- la maladie de Hodgkin ;
+- les lymphomes non hodgkiniens.
 
-\- pour la splénbomégalie myéloïde par la biopsie de moelle ;\
-\- pour la maladie de Hodgkin et les lymphomes non hodgkiniens : par la biopsie ganglionnaire ;
+Toutes ces affections comportent un risque vital et seront définies :
+
+- pour la polyglobulie : par la masse sanguine égale ou supérieure à 36 ml/kg chez l'homme ; égale ou supérieure à 32 ml/kg chez la femme :
+
+- sans diminution de la PaO2 \[ (note 9) :\
+  \] ;
+
+- avec une leucocytose supérieure à 13 000-14 000 globules blancs par mm3 ;
+
+- pour la splénbomégalie myéloïde par la biopsie de moelle ;
+
+- pour la maladie de Hodgkin et les lymphomes non hodgkiniens : par la biopsie ganglionnaire ;
 
 Polyglobulie, splénomégalie myéloïde, maladie de Hodgkin : 30 à 67 %.\
 Lymphomes non hodgkiniens : 67 % à 100 %.
 
 7.5 Leucoses - Leucémies
 
-Leur réparation est essentiellement fonction :\
-\- du type cytologique de la prolifération maligne et du pronostic qui lui est lié ;\
-\- du risque infectieux majeur omniprésent ;\
-\- de la réponse aux thérapeutiques.
+Leur réparation est essentiellement fonction :
+
+- du type cytologique de la prolifération maligne et du pronostic qui lui est lié ;
+- du risque infectieux majeur omniprésent ;
+- de la réponse aux thérapeutiques.
 
 Les rémissions et l'ensemble des problèmes qu'elles posent doivent être jugés avec les plus prudentes réserves car, à la fin, l'espérance de vie reste le facteur le plus déterminant.\
 Leucoses - leucémies : 67 à 100 %, avec prise en charge au titre de la législation Accidents du travail - Maladies professionnelles de la surveillance hématologique et de toutes les thérapeutiques nécessaires.
@@ -948,18 +971,20 @@ La douleur ressentie peut justifier en soi une indemnisation lorsque les crises 
 8.1.4 - L'atteinte des tissus.
 
 Modifications de la structure osseuse :\
-Objectivées par les documents radiologiques qui permettent de distinguer :\
-\- l'ostéoporose ;\
-\- l'ostéomalacie ;\
-\- l'hyperostose.
+Objectivées par les documents radiologiques qui permettent de distinguer :
 
-L'incidence des ces anomalies sur les capacités fonctionnelles du patient sera appréciée en tenant compte de l'étendue des lésions, de la présence d'autres indicateurs et du caractère évolutif de la maladie ;\
-\- ostéonécroses.\
-L'importance de la destruction ostéo-articulaire est l'élément essentiel de l'évaluation.\
-Atteinte loco-régionale :\
-Autour de l'articulation, on recherchera les anomalies des muscles et du revêtement cutané.\
-Algodystrophies :\
-Indemnisées par référence au barème des accidents du travail (4.2.6).
+- l'ostéoporose ;
+- l'ostéomalacie ;
+- l'hyperostose.
+
+L'incidence des ces anomalies sur les capacités fonctionnelles du patient sera appréciée en tenant compte de l'étendue des lésions, de la présence d'autres indicateurs et du caractère évolutif de la maladie ;
+
+- ostéonécroses.\
+  L'importance de la destruction ostéo-articulaire est l'élément essentiel de l'évaluation.\
+  Atteinte loco-régionale :\
+  Autour de l'articulation, on recherchera les anomalies des muscles et du revêtement cutané.\
+  Algodystrophies :\
+  Indemnisées par référence au barème des accidents du travail (4.2.6).
 
 8.1.5 - Les atteintes viscérales associées.
 
@@ -970,19 +995,21 @@ Dont les séquelles seront estimées par référence aux chapitres du barème de
 On appréciera le degré d'asthénie et l'existence d'un amaigrissement récent.\
 Après avoir passé en revue l'ensemble de ces indicateurs, le médecin évaluateur devra tenir compte de la topographie des lésions.\
 On peut opposer :\
-Les atteintes axiales des localisations rachidiennes :\
-\- cervicales : limitant certains mouvements de la tête ;\
-\- dorsales : entraînant surtout des troubles statiques ;\
-\- lombaires : gênant le port de charge et la station debout prolongée.
+Les atteintes axiales des localisations rachidiennes :
+
+- cervicales : limitant certains mouvements de la tête ;
+- dorsales : entraînant surtout des troubles statiques ;
+- lombaires : gênant le port de charge et la station debout prolongée.
 
 Les atteintes périphériques où la localisation sur les articulations portantes des membres inférieurs handicape la locomotion alors que les lésions du membre supérieur retentissent sur les activités manuelles de force ou délicates.
 
-8.2 Au terme de son analyse, en tenant compte du taux de base et éventuellement des majorations spécifiques, le médecin portera un jugement global sur le retentissement des séquelles de la maladie sur la capacité de travail du patient et fixera le taux d'IPP en fonction de son importance pour laquelle on peut proposer l'échelle suivante :\
-\- retentissement léger : 0 à 5 % ;\
-\- retentissement modéré : 5 à 15 % ;\
-\- retentissement moyen : 15 à 30 % ;\
-\- retentissement important : 30 à 60 % ;\
-\- retentissement très important : 60 à 90 %.
+8.2 Au terme de son analyse, en tenant compte du taux de base et éventuellement des majorations spécifiques, le médecin portera un jugement global sur le retentissement des séquelles de la maladie sur la capacité de travail du patient et fixera le taux d'IPP en fonction de son importance pour laquelle on peut proposer l'échelle suivante :
+
+- retentissement léger : 0 à 5 % ;
+- retentissement modéré : 5 à 15 % ;
+- retentissement moyen : 15 à 30 % ;
+- retentissement important : 30 à 60 % ;
+- retentissement très important : 60 à 90 %.
 
 8.3 A titre d'exemple, on peut retenir quelques situations caractéristiques
 
@@ -1019,11 +1046,12 @@ Arthrose hyperostosante du coude s'accompagnant éventuellement de chondromatose
 
 Le médecin évaluateur s'efforcera d'obtenir communication, soit directement du médecin du travail, soit par l'intermédiaire de la victime, du dossier médical ordinaire \[ (note 10) :\
 \] de celle-ci et du dossier médical spécial \[ (note 10) :\
-\] lorsqu'elle est classée en catégorie A des travailleurs exposés. Il importe qu'il connaisse avec exactitude, en dehors de l'exposition due aux sources naturelles de rayonnement et des expositions subies du fait des examens et traitement médicaux, les différents types d'exposition reçus dans les conditions normales de travail, les expositions exceptionnelles concertées et/ou d'urgence, les accidents d'expositions et pour chacun d'entre eux les limites d'exposition atteintes, c'est-à-dire :\
-\- l'équivalent de dose maximale \[ (note 11) :\
-\] dans les cas d'exposition externe ;\
-\- l'activité incorporée dans le cas d'exposition interne ;\
-\- l'équivalent de dose et l'activité incorporée dans les cas d'exposition totale, externe et interne.
+\] lorsqu'elle est classée en catégorie A des travailleurs exposés. Il importe qu'il connaisse avec exactitude, en dehors de l'exposition due aux sources naturelles de rayonnement et des expositions subies du fait des examens et traitement médicaux, les différents types d'exposition reçus dans les conditions normales de travail, les expositions exceptionnelles concertées et/ou d'urgence, les accidents d'expositions et pour chacun d'entre eux les limites d'exposition atteintes, c'est-à-dire :
+
+- l'équivalent de dose maximale \[ (note 11) :\
+  \] dans les cas d'exposition externe ;
+- l'activité incorporée dans le cas d'exposition interne ;
+- l'équivalent de dose et l'activité incorporée dans les cas d'exposition totale, externe et interne.
 
 9.2 Ophtalmologie
 
@@ -1054,10 +1082,11 @@ Dissocier vision de précision et vision de sécurité, notamment dans l'industr
 
 9.3.1 - Radio-dermites aiguës
 
-Après irradiation aiguë, localisée :\
-\- dose inférieure à 8 grays : érythème réversible : généralement guérison ;\
-\- dose inférieure à 20 grays : érythème, œdème, phlyctènes, parfois ulcération : 5 à 10 % ;\
-\- dose supérieure à 25 grays : nécrose tissulaire possible selon étendue, profondeur, résultats thérapeutiques : 10 à 30 %.
+Après irradiation aiguë, localisée :
+
+- dose inférieure à 8 grays : érythème réversible : généralement guérison ;
+- dose inférieure à 20 grays : érythème, œdème, phlyctènes, parfois ulcération : 5 à 10 % ;
+- dose supérieure à 25 grays : nécrose tissulaire possible selon étendue, profondeur, résultats thérapeutiques : 10 à 30 %.
 
 En cas de brûlures radiologiques et thermiques associées, la brûlure thermique est d'apparition immédiate et alors qu'elle régresse, la brûlure radiologique se manifeste cliniquement et son évolution est généralement extensive, caractère qui conditionnera la date de consolidation.
 
@@ -1116,11 +1145,12 @@ Cancer broncho-pulmonaire primitif par inhalation de produits radio-actifs : 100
 9.6 Sarcomes osseux
 
 Il s'intègrent dans les effets stochastiques (effets aléatoires) des radiations et peuvent être théoriquement induits par n'importe quel rayonnement ionisant. Un risque réel est constitué par l'incorporation de radionucléides ostéotropes, notamment le radium (216), le phosphore (32)... à l'occasion d'utilisations industrielles ou en laboratoire.\
-De nombreux facteurs devront être pris en considération :\
-\- la localisation ostéo-sarcomateuse (fémur, maxillaire inférieur, omoplate...) :\
-\- le bilan d'extension ;\
-\- les résultats thérapeutiques, les possibilités d'appareillage ;\
-\- les séquelles loco-régionales fonctionnelles, les séquelles douloureuses, le retentissement sur l'état général...
+De nombreux facteurs devront être pris en considération :
+
+- la localisation ostéo-sarcomateuse (fémur, maxillaire inférieur, omoplate...) :
+- le bilan d'extension ;
+- les résultats thérapeutiques, les possibilités d'appareillage ;
+- les séquelles loco-régionales fonctionnelles, les séquelles douloureuses, le retentissement sur l'état général...
 
 Sarcomes osseux : 67 à 100 %.
 

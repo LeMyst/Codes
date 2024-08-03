@@ -2,8 +2,9 @@
 
 **AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LES POUSSIERES DE BOIS**.
 
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | - A - |  | - A - |
 | Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané | 15 jours | Manipulation, traitement et usinage des bois et tous travaux exposant aux poussières de bois. |
 | Conjonctivite récidivant en cas de nouvelle exposition au risque ou confirmée par test | 7 jours |  |

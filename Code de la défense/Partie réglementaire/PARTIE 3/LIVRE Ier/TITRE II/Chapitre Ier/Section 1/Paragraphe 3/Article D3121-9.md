@@ -8,13 +8,13 @@ II. - Est responsable du besoin opérationnel et s'assure de la cohérence capac
 
 A ce titre, il est responsable :
 
-\- de l'identification des capacités nécessaires aux armées pour remplir leurs missions actuelles et futures et de leur mise en cohérence ;
+- de l'identification des capacités nécessaires aux armées pour remplir leurs missions actuelles et futures et de leur mise en cohérence ;
 
-\- de la conduite des travaux de planification des capacités militaires en tenant compte des ressources financières affectées ;
+- de la conduite des travaux de planification des capacités militaires en tenant compte des ressources financières affectées ;
 
-\- de l'élaboration et de l'actualisation de la programmation militaire, au regard des finalités opérationnelles, de leur compatibilité avec les ressources financières appréciées par le secrétaire général pour l'administration et des contraintes techniques et industrielles appréciées par le délégué général pour l'armement ;
+- de l'élaboration et de l'actualisation de la programmation militaire, au regard des finalités opérationnelles, de leur compatibilité avec les ressources financières appréciées par le secrétaire général pour l'administration et des contraintes techniques et industrielles appréciées par le délégué général pour l'armement ;
 
-\- de la contribution des armées aux études et propositions de la direction générale des relations internationales et de la stratégie, en matière de politique internationale de défense, de stratégie de défense et aux travaux relatifs au Livre blanc sur la défense et la sécurité nationale.
+- de la contribution des armées aux études et propositions de la direction générale des relations internationales et de la stratégie, en matière de politique internationale de défense, de stratégie de défense et aux travaux relatifs au Livre blanc sur la défense et la sécurité nationale.
 
 Il veille également au respect de la cohérence capacitaire dans l'exécution de la programmation militaire.
 

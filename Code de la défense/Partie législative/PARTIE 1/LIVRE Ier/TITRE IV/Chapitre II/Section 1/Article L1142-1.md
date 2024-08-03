@@ -6,15 +6,15 @@ Il a autorité sur les armées, les services de soutien, les organismes interarm
 
 Il est également chargé :
 
-\- de la prospective de défense ;
+- de la prospective de défense ;
 
-\- du renseignement extérieur et du renseignement d'intérêt militaire ;
+- du renseignement extérieur et du renseignement d'intérêt militaire ;
 
-\- de l'anticipation et du suivi des crises intéressant la défense ;
+- de l'anticipation et du suivi des crises intéressant la défense ;
 
-\- du volet de la politique de santé propre au secteur de la défense, de la détermination des conditions de la participation du service de santé des armées à la politique de santé et de la définition des besoins spécifiques de la défense mentionnés notamment dans le code de la santé publique ;
+- du volet de la politique de santé propre au secteur de la défense, de la détermination des conditions de la participation du service de santé des armées à la politique de santé et de la définition des besoins spécifiques de la défense mentionnés notamment dans le code de la santé publique ;
 
-\- de la politique industrielle et de recherche et de la politique sociale propres au secteur de la défense.
+- de la politique industrielle et de recherche et de la politique sociale propres au secteur de la défense.
 
 Il contribue à l'élaboration et à la mise en œuvre de la politique d'exportation des équipements de défense.
 

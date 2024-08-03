@@ -6,7 +6,8 @@ Dans le cas où l'application des dispositions des deux articles précédents ab
 
 2° Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les agents issus des deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux conditions du tableau ci-dessous :
 
-| ECHELON dans le grade antérieur. | ANCIENNETE D'ECHELONdans le nouveau grade. |
+|  |  |
 | --- | --- |
-| Agent issu de l'échelon le plus élevé | Ancienneté d'échelon acquise dans le gradeantérieur majorée de la moitié de la durée maximum de service exigée pourl'accès à l'échelon supérieur du nouveau grade, l'ancienneté totale ne pouvantexcéder cette durée maximum. |
-| Agent issu de l'échelonimmédiatement inférieur | Ancienneté d'échelon acquise dans le gradeantérieur dans la limite de la moitié de la durée maximum de service exigéepour l'accès à l'échelon supérieur dunouveau grade |
+| ECHELON dans le grade antérieur.  | ANCIENNETE D'ECHELONdans le nouveau grade.  |
+| Agent issu de l'échelon le plus élevé  | Ancienneté d'échelon acquise dans le gradeantérieur majorée de la moitié de la durée maximum de service exigée pourl'accès à l'échelon supérieur du nouveau grade, l'ancienneté totale ne pouvantexcéder cette durée maximum.  |
+| Agent issu de l'échelonimmédiatement inférieur  | Ancienneté d'échelon acquise dans le gradeantérieur dans la limite de la moitié de la durée maximum de service exigéepour l'accès à l'échelon supérieur dunouveau grade  |

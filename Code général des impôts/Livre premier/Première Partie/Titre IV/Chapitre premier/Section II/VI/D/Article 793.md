@@ -106,7 +106,7 @@ En cas de transmission de propriétés non bâties, qui sont incluses dans les e
 
 Cette exonération est exclusive de l'application au même bien, au titre de la même mutation ou d'une mutation antérieure, de toute autre exonération de droits de mutation à titre gratuit.
 
-3\. Les sommes, à concurrence des trois quarts de leur montant, déposées sur le compte d'investissement forestier et d'assurance mentionné aux articles L. 352-1 à L. 352-5 du code forestier, à condition :
+3. Les sommes, à concurrence des trois quarts de leur montant, déposées sur le compte d'investissement forestier et d'assurance mentionné aux articles L. 352-1 à L. 352-5 du code forestier, à condition :
 
 a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé d'un certificat délivré par le directeur départemental des territoires ou le directeur départemental des territoires et de la mer attestant que les bois et forêts du titulaire du compte sont susceptibles de présenter une des garanties de gestion durable prévues à l'article L. 124-1 du code forestier ;
 

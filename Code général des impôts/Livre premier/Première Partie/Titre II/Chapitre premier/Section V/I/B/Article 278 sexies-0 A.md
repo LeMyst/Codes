@@ -2,16 +2,16 @@
 
 Les taux réduits prévus à l'article 278 sexies sont égaux à :
 
-| Secteurs ou locaux concernés | Subdivision de l'article 278 sexies | Taux |
+| Secteurs ou locaux concernés |  Subdivision de l'article 278 sexies |  Taux |
 | --- | --- | --- |
-| Logements locatifs sociaux financés par un prêt locatif aidé d'intégration | 1° du A du II | 5,5 % |
-| Logements locatifs sociaux financés par un prêt locatif à usage social et relevant de la politique de renouvellement urbain | 2° du A du II | 5,5 % |
-| Autres logements locatifs sociaux | 3° du A du II | 10 % |
-| Locaux faisant l'objet d'une acquisition-amélioration, d'une opération assimilée sous certaines conditions de financement ou d'une opération assimilée au sens du 2° bis du B du II du présent article | 2° du B du II | 5,5 % |
-| Logements assimilés à des logements locatifs sociaux | C du II | 10 % |
-| Accession sociale à la propriété | III | 5,5 % |
-| Secteur social et médico-social | IV | 5,5 % |
-| Terrains à bâtir destinés à des locaux faisant l'objet d'une opération taxable au taux réduit | V | 10 % |
+|  Logements locatifs sociaux financés par un prêt locatif aidé d'intégration |  1° du A du II |  5,5 % |
+|  Logements locatifs sociaux financés par un prêt locatif à usage social et relevant de la politique de renouvellement urbain |  2° du A du II |  5,5 % |
+|  Autres logements locatifs sociaux |  3° du A du II |  10 % |
+|  Locaux faisant l'objet d'une acquisition-amélioration, d'une opération assimilée sous certaines conditions de financement ou d'une opération assimilée au sens du 2° bis du B du II du présent article |  2° du B du II |  5,5 % |
+|  Logements assimilés à des logements locatifs sociaux |  C du II |  10 % |
+|  Accession sociale à la propriété |  III |  5,5 % |
+|  Secteur social et médico-social |  IV |  5,5 % |
+|  Terrains à bâtir destinés à des locaux faisant l'objet d'une opération taxable au taux réduit |  V |  10 % |
 
 Pour les opérations mentionnées au 1° du B du II de l'article 278 sexies, le taux applicable est celui prévu par le tableau du deuxième alinéa du présent article pour la livraison mentionnée au A du II de l'article 278 sexies portant sur la même catégorie de logements.
 

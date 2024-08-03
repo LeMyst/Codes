@@ -30,8 +30,9 @@ c) (Abrogé).
 
 II. – Le résultat imposable provenant des opérations directement liées à l'exploitation des navires éligibles est déterminé par application à chacun de ces navires, par jour et par tranche de jauge nette de 100 unités du système de jaugeage universel (UMS), du barème suivant :
 
-| TONNAGE (en unités du système de jaugeage universel) | Jusqu'à 1 000 | De 1 000 à 10 000 | De 10 000 à 25 000 | Plus de 25 000 |
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| TONNAGE (en unités du système de jaugeage universel) | Jusqu'à 1 000 | De 1 000 à 10 000 | De 10 000 à 25 000 | Plus de 25 000 |
 | Montant (en euros) | 0,93 | 0,71 | 0,47 | 0,24 |
 
 Pour l'application du premier alinéa, la jauge nette de chaque navire est arrondie à la centaine supérieure.

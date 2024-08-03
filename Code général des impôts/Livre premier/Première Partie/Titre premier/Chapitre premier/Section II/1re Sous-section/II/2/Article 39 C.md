@@ -14,9 +14,9 @@ En cas de location ou de mise à disposition sous toute autre forme de biens sit
 
 La limitation de l'amortissement prévue aux premier et troisième alinéas et du montant des déficits prévue au deuxième alinéa ne s'applique pas à la part de résultat revenant aux entreprises utilisatrices des biens, lorsque la location ou la mise à disposition n'est pas consentie indirectement par une personne physique.
 
-2\. En cas de location ou de mise à disposition sous toute autre forme de biens consentie directement ou indirectement par une personne physique, le montant de l'amortissement de ces biens ou parts de copropriété est admis en déduction du résultat imposable, au titre d'un même exercice, dans la limite du montant du loyer acquis, ou de la quote-part du résultat de la copropriété, diminué du montant des autres charges afférentes à ces biens ou parts.
+2. En cas de location ou de mise à disposition sous toute autre forme de biens consentie directement ou indirectement par une personne physique, le montant de l'amortissement de ces biens ou parts de copropriété est admis en déduction du résultat imposable, au titre d'un même exercice, dans la limite du montant du loyer acquis, ou de la quote-part du résultat de la copropriété, diminué du montant des autres charges afférentes à ces biens ou parts.
 
-3\. L'amortissement régulièrement comptabilisé au titre d'un exercice et non déductible du résultat de cet exercice en application des 1 ou 2 peut être déduit du résultat des exercices suivants, dans les conditions et limites prévues par ces 1 ou 2.
+1. L'amortissement régulièrement comptabilisé au titre d'un exercice et non déductible du résultat de cet exercice en application des 1 ou 2 peut être déduit du résultat des exercices suivants, dans les conditions et limites prévues par ces 1 ou 2.
 
 Lorsque le bien cesse d'être donné en location ou mis à disposition pendant un exercice, l'amortissement non déductible en application des 1 ou 2 et qui n'a pu être déduit selon les modalités prévues au premier alinéa est déduit du bénéfice de cet exercice. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent d'amortissement est reporté et déduit des bénéfices des exercices suivants.
 

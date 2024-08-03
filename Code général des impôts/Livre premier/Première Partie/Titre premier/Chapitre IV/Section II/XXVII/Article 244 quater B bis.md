@@ -28,13 +28,13 @@ II.-A.-1. Sont prises en compte dans l'assiette du crédit d'impôt mentionné a
 
 Ces dépenses sont minorées, le cas échéant, de la quote-part des aides publiques reçues par ces mêmes organismes au titre de ces mêmes opérations.
 
-2\. Les dépenses facturées mentionnées au 1 du présent A sont retenues dans la base de calcul du crédit d'impôt de l'entreprise, dans la limite globale de 6 millions d'euros par an.
+2. Les dépenses facturées mentionnées au 1 du présent A sont retenues dans la base de calcul du crédit d'impôt de l'entreprise, dans la limite globale de 6 millions d'euros par an.
 
-3\. La charge afférente aux dépenses facturées mentionnées au même 1 est prise en compte pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés de l'entreprise, dans les conditions de droit commun.
+1. La charge afférente aux dépenses facturées mentionnées au même 1 est prise en compte pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés de l'entreprise, dans les conditions de droit commun.
 
 B.-1. Les aides publiques reçues par les entreprises en raison des opérations ouvrant droit au crédit d'impôt mentionné au I sont déduites des bases de calcul de ce crédit d'impôt, qu'elles soient définitivement acquises par elles ou remboursables. Lorsque ces aides sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
 
-2\. Les sommes mentionnées au A du présent II ne peuvent être prises en compte à la fois dans la base de calcul du crédit d'impôt et dans celle d'un autre crédit d'impôt ou d'une autre réduction d'impôt.
+2. Les sommes mentionnées au A du présent II ne peuvent être prises en compte à la fois dans la base de calcul du crédit d'impôt et dans celle d'un autre crédit d'impôt ou d'une autre réduction d'impôt.
 
 III.-Le taux du crédit d'impôt est de 40 %. Il est porté à 50 % pour les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 

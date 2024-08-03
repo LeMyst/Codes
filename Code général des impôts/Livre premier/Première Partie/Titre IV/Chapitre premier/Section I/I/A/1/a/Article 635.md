@@ -2,7 +2,7 @@
 
 Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
-1\. Sous réserve des dispositions des articles 637 et 647 :
+1. Sous réserve des dispositions des articles 637 et 647 :
 
 1° Les actes des notaires à l'exception de ceux visés à l'article 636 ;
 
@@ -22,7 +22,7 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 9° La transaction prévoyant, en contrepartie du versement d'une somme d'argent ou de l'octroi d'un avantage en nature, le désistement du recours pour excès de pouvoir formé contre un permis de construire, de démolir ou d'aménager.
 
-2\. 1° Les décisions des juridictions de l'ordre judiciaire lorsqu'elles donnent ouverture à un droit proportionnel ou progressif ;
+2. 1° Les décisions des juridictions de l'ordre judiciaire lorsqu'elles donnent ouverture à un droit proportionnel ou progressif ;
 
 2° (Abrogé) ;
 

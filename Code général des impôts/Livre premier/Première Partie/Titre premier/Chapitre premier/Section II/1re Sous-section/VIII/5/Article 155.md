@@ -2,7 +2,7 @@
 
 I. – 1. Lorsqu'une entreprise industrielle ou commerciale étend son activité à des opérations dont les résultats entrent dans la catégorie des bénéfices de l'exploitation agricole ou dans celle des bénéfices des professions non commerciales, il est tenu compte de ces résultats pour la détermination des bénéfices industriels et commerciaux à comprendre dans les bases de l'impôt sur le revenu.
 
-2\. Lorsqu'un titulaire de bénéfices non commerciaux étend son activité à des opérations dont les résultats entrent dans la catégorie des bénéfices de l'exploitation agricole ou dans celle des bénéfices industriels et commerciaux, il est tenu compte de ces résultats pour la détermination des bénéfices non commerciaux à comprendre dans les bases de l'impôt sur le revenu.
+2. Lorsqu'un titulaire de bénéfices non commerciaux étend son activité à des opérations dont les résultats entrent dans la catégorie des bénéfices de l'exploitation agricole ou dans celle des bénéfices industriels et commerciaux, il est tenu compte de ces résultats pour la détermination des bénéfices non commerciaux à comprendre dans les bases de l'impôt sur le revenu.
 
 II. – 1. Le bénéfice net mentionné à l'article 38 est :
 
@@ -10,7 +10,7 @@ II. – 1. Le bénéfice net mentionné à l'article 38 est :
 
 2° Augmenté du montant des charges admises en déduction qui ne sont pas nécessitées par l'exercice de l'activité à titre professionnel, à l'exclusion de celles prises en compte pour la détermination de la plus-value ou moins-value de cession d'un élément d'actif immobilisé ou pour la détermination des résultats mentionnés au I.
 
-2\. Sous réserve du VII de l'article 151 septies, en cas de cession d'un élément d'actif immobilisé, les articles 39 duodecies à 39 novodecies sont applicables dans les conditions suivantes :
+2. Sous réserve du VII de l'article 151 septies, en cas de cession d'un élément d'actif immobilisé, les articles 39 duodecies à 39 novodecies sont applicables dans les conditions suivantes :
 
 1° Le prix de cession de l'élément d'actif est réputé égal à la somme :
 
@@ -20,7 +20,7 @@ b) Et de la valeur d'origine de cet élément, multipliée par le rapport entre,
 
 2° La valeur comptable de l'élément d'actif cédé est réputée majorée du montant des amortissements, autres que ceux soumis au 2° du 1 du III du présent article, qui ont été réintégrés au bénéfice en application du 2° du 1 du présent II ; ces amortissements sont néanmoins considérés ne pas avoir été expressément exclus des charges déductibles.
 
-3\. Sous réserve d'une option expresse en ce sens, le 1° du 1 n'est pas applicable, d'une part, et le 2° du même 1 n'est applicable qu'à la quote-part des charges afférentes à un bien qui excède le montant des produits afférents au même bien, d'autre part :
+3. Sous réserve d'une option expresse en ce sens, le 1° du 1 n'est pas applicable, d'une part, et le 2° du même 1 n'est applicable qu'à la quote-part des charges afférentes à un bien qui excède le montant des produits afférents au même bien, d'autre part :
 
 1° Lorsque les produits mentionnés au 1° du même 1 n'excèdent pas 5 % de l'ensemble des produits de l'exercice, y compris ceux pris en compte pour la détermination des résultats mentionnés au I mais hors plus-values de cession ;
 
@@ -32,13 +32,13 @@ III. – 1. Les charges et produits mentionnés au 1 du II sont retenus, suivant
 
 2° D'un bénéfice, distinct du bénéfice net, imposable dans les conditions prévues aux 1°, 1° bis, 1° ter ou 2° du I de l'article 156.
 
-2\. Sous réserve du VII de l'article 151 septies, en cas de cession d'un élément d'actif immobilisé, la différence entre le prix de cession réel de l'élément d'actif et le montant déterminé dans les conditions du 1° du 2 du II du présent article est retenue pour la détermination des plus-values de cession à titre onéreux de biens ou droits de toute nature selon les règles applicables à cette catégorie de revenus.
+2. Sous réserve du VII de l'article 151 septies, en cas de cession d'un élément d'actif immobilisé, la différence entre le prix de cession réel de l'élément d'actif et le montant déterminé dans les conditions du 1° du 2 du II du présent article est retenue pour la détermination des plus-values de cession à titre onéreux de biens ou droits de toute nature selon les règles applicables à cette catégorie de revenus.
 
-3\. Les revenus, profits et plus-values mentionnés au 1° du 1 ou au 2 sont réputés avoir été perçus ou réalisés à la date de la clôture de l'exercice ou de la période d'imposition pour l'application des obligations déclaratives et pour le recouvrement de l'impôt dû.
+1. Les revenus, profits et plus-values mentionnés au 1° du 1 ou au 2 sont réputés avoir été perçus ou réalisés à la date de la clôture de l'exercice ou de la période d'imposition pour l'application des obligations déclaratives et pour le recouvrement de l'impôt dû.
 
 IV. – 1. Sous réserve du 2, l'exercice à titre professionnel implique la participation personnelle, directe et continue à l'accomplissement des actes nécessaires à l'activité.
 
-2\. L'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés est exercée à titre professionnel lorsque les deux conditions suivantes sont réunies :
+2. L'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés est exercée à titre professionnel lorsque les deux conditions suivantes sont réunies :
 
 1° (Abrogé)
 

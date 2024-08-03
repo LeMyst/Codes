@@ -1,12 +1,12 @@
 # Article 119 bis
 
-1\. Les revenus de capitaux mobiliers entrant dans les prévisions des articles 118,119, 238 septies B et 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par le 1 de l'article 187, lorsqu'ils bénéficient à des personnes qui ont leur siège en France ou à l'étranger ou qui n'ont pas leur domicile fiscal en France.
+1. Les revenus de capitaux mobiliers entrant dans les prévisions des articles 118,119, 238 septies B et 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par le 1 de l'article 187, lorsqu'ils bénéficient à des personnes qui ont leur siège en France ou à l'étranger ou qui n'ont pas leur domicile fiscal en France.
 
 Toutefois, les produits des titres de créances mentionnés au premier alinéa de l'article 124 B sont placés en dehors du champ d'application de la retenue à la source. Il en est de même pour la prime de remboursement visée à l'article 238 septies A.
 
 Les revenus des titres émis à compter du 1er janvier 1987, tels qu'ils sont définis aux articles 118,119 et 238 septies B, sont placés hors du champ d'application de la retenue à la source.
 
-2\. Les produits visés aux articles 108 à 117 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par l'article 187 lorsqu'ils bénéficient à des personnes qui n'ont pas leur domicile fiscal ou leur siège en France, autres que des organismes de placement collectif constitués sur le fondement d'un droit étranger situés dans un Etat membre de l'Union européenne ou dans un autre Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui satisfont aux deux conditions suivantes :
+2. Les produits visés aux articles 108 à 117 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par l'article 187 lorsqu'ils bénéficient à des personnes qui n'ont pas leur domicile fiscal ou leur siège en France, autres que des organismes de placement collectif constitués sur le fondement d'un droit étranger situés dans un Etat membre de l'Union européenne ou dans un autre Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui satisfont aux deux conditions suivantes :
 
 1° Lever des capitaux auprès d'un certain nombre d'investisseurs en vue de les investir, conformément à une politique d'investissement définie, dans l'intérêt de ces investisseurs ;
 

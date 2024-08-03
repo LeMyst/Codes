@@ -2,7 +2,7 @@
 
 I. – 1. Les établissements de crédit et les sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier ainsi que les sociétés de tiers-financement mentionnées au 8 de l'article L. 511-6 du même code, passibles de l'impôt sur les sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées au cours de l'année d'imposition ou de l'exercice pour financer des travaux d'amélioration de la performance énergétique globale de logements achevés depuis plus de deux ans à la date de début d'exécution des travaux et utilisés ou destinés à être utilisés en tant que résidence principale.
 
-2\. Les travaux mentionnés au 1 sont constitués :
+2. Les travaux mentionnés au 1 sont constitués :
 
 1° Soit de travaux qui correspondent à au moins une des catégories suivantes :
 
@@ -34,7 +34,7 @@ Les modalités de détermination des travaux mentionnés aux 1° à 3° sont fix
 
 Les travaux mentionnés aux 1° bis et 1° ter ne sont pas cumulables avec les autres travaux mentionnés au présent 2.
 
-3\. L'avance remboursable sans intérêt peut être consentie aux personnes suivantes :
+3. L'avance remboursable sans intérêt peut être consentie aux personnes suivantes :
 
 1° Aux personnes physiques à raison de travaux réalisés dans leur habitation principale lorsqu'elles en sont propriétaires ou dans des logements qu'elles donnent en location ou qu'elles s'engagent à donner en location ;
 
@@ -44,23 +44,23 @@ Les travaux mentionnés aux 1° bis et 1° ter ne sont pas cumulables avec les a
 
 4° Aux sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un des associés est une personne physique, membres d'un syndicat de copropriétaires, à raison du prorata qui leur revient des travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs de l'immeuble dans lequel elles possèdent un logement qu'elles mettent gratuitement à la disposition de l'un de leurs associés personne physique, donnent en location ou s'engagent à donner en location.
 
-4\. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par logement. Par dérogation, ce montant est porté à 50 000 € lorsque l'avance finance les travaux mentionnés aux 1° bis et 1° ter et au 2° du 2 du présent I. Un décret fixe le montant des plafonds d'avances remboursables pour les travaux mentionnés au même 2.
+4. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par logement. Par dérogation, ce montant est porté à 50 000 € lorsque l'avance finance les travaux mentionnés aux 1° bis et 1° ter et au 2° du 2 du présent I. Un décret fixe le montant des plafonds d'avances remboursables pour les travaux mentionnés au même 2.
 
-5\. L'emprunteur fournit à l'établissement de crédit, la société de financement ou la société de tiers-financement mentionné au 1, à l'appui de sa demande d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement, au plus tard à la date de versement du prêt. Il transmet tous les éléments justifiant que les travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2, dans un délai de trois ans à compter de la date d'octroi de l'avance par l'établissement de crédit, la société de financement ou la société de tiers-financement mentionné au 1, sauf en cas de décès de l'emprunteur, d'accident de santé de ce dernier entraînant une interruption temporaire de travail d'au moins trois mois, d'état de catastrophe naturelle ou technologique, de contestation contentieuse de l'opération ou de force majeure, dans des conditions fixées par décret.
+1. L'emprunteur fournit à l'établissement de crédit, la société de financement ou la société de tiers-financement mentionné au 1, à l'appui de sa demande d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement, au plus tard à la date de versement du prêt. Il transmet tous les éléments justifiant que les travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2, dans un délai de trois ans à compter de la date d'octroi de l'avance par l'établissement de crédit, la société de financement ou la société de tiers-financement mentionné au 1, sauf en cas de décès de l'emprunteur, d'accident de santé de ce dernier entraînant une interruption temporaire de travail d'au moins trois mois, d'état de catastrophe naturelle ou technologique, de contestation contentieuse de l'opération ou de force majeure, dans des conditions fixées par décret.
 
 Toutefois, lorsque l'avance est consentie pour financer des travaux mentionnés aux 1° bis et 1° ter du présent I, la demande d'avance s'appuie sur la décision d'octroi de la prime adressée à l'emprunteur par l'Agence nationale de l'habitat. La justification que les travaux ont été effectivement réalisés est assurée par la notification du versement de la prime adressée à l'emprunteur par l'agence.
 
-6\. Il ne peut être accordé qu'une seule avance remboursable par logement.
+6. Il ne peut être accordé qu'une seule avance remboursable par logement.
 
 6 bis. Par dérogation au 6 du présent I, l'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à titre complémentaire aux personnes mentionnées au 3 pour financer d'autres travaux prévus au 2 portant sur le même logement, sous réserve que l'offre d'avance complémentaire soit émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale. La somme des montants de l'avance initiale et de l'avance complémentaire ne peut excéder la somme de 30 000 € au titre d'un même logement.
 
 Par dérogation, lorsque l'une des deux avances a financé ou finance des travaux mentionnés aux 1° bis, 1° ter ou 2° du 2 du présent I, la somme de l'avance initiale et de l'avance complémentaire ne peut excéder la somme de 50 000 € au titre d'un même logement.
 
-7\. (Abrogé).
+7. (Abrogé).
 
-8\. (Abrogé).
+1. (Abrogé).
 
-9\. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent quatre-vingts mois. Par dérogation, cette durée est portée à deux cent quarante mois lorsque l'avance finance les travaux mentionnés aux 1° bis, 1° ter ou 2° du 2.
+1. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent quatre-vingts mois. Par dérogation, cette durée est portée à deux cent quarante mois lorsque l'avance finance les travaux mentionnés aux 1° bis, 1° ter ou 2° du 2.
 
 II. – Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre de l'avance remboursable sans intérêt et la somme actualisée des montants perçus au titre d'un prêt de mêmes montant et durée de remboursement, consenti à des conditions normales de taux à la date d'émission de l'offre de prêt ne portant pas intérêt.
 

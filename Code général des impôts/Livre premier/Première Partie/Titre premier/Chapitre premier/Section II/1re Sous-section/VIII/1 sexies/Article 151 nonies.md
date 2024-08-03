@@ -14,13 +14,13 @@ Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la da
 
 En cas de partage avec soulte, le report d'imposition est maintenu si le ou les attributaires des droits sociaux visés ci-dessus prennent l'engagement d'acquitter l'impôt sur la plus-value en report à la date où l'un des événements cités au premier alinéa se réalise.
 
-2\. Le régime défini au 1 s'applique sur option exercée par le ou les bénéficiaires lors de l'acceptation de la transmission par ces derniers.
+2. Le régime défini au 1 s'applique sur option exercée par le ou les bénéficiaires lors de l'acceptation de la transmission par ces derniers.
 
 Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent à l'administration un état faisant apparaître le montant des plus-values réalisées lors de la transmission et dont l'imposition est reportée conformément au 1.
 
-3\. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
+3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
 
-4\. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
+1. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
 
 III. – En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au I ou de sa transformation en société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession, du rachat ou de l'annulation de ces parts ou actions.
 

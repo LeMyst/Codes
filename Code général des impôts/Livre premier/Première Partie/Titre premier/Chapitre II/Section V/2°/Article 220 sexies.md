@@ -14,7 +14,7 @@ c) Etre réalisées principalement sur le territoire français. Un décret déte
 
 d) Contribuer au développement de la création cinématographique et audiovisuelle française et européenne ainsi qu'à sa diversité.
 
-2\. N'ouvrent pas droit au crédit d'impôt mentionné au I :
+2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
 a) Les oeuvres cinématographiques ou audiovisuelles à caractère pornographique ou d'incitation à la violence ;
 
@@ -24,7 +24,7 @@ c) Les programmes d'information, les débats d'actualité et les émissions spor
 
 d) Tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
-3\. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles mentionnées au III est supérieur ou égal à 2 000 € par minute produite. Dans le cas de l'adaptation audiovisuelle de spectacles, ce plancher est abaissé à 1 000 € pour les œuvres d'une durée supérieure à quatre-vingt-dix minutes et à 1 250 € pour les œuvres d'une durée comprise entre soixante et quatre-vingt-dix minutes.
+3. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles mentionnées au III est supérieur ou égal à 2 000 € par minute produite. Dans le cas de l'adaptation audiovisuelle de spectacles, ce plancher est abaissé à 1 000 € pour les œuvres d'une durée supérieure à quatre-vingt-dix minutes et à 1 250 € pour les œuvres d'une durée comprise entre soixante et quatre-vingt-dix minutes.
 
 III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes effectuées en France :
 
@@ -44,11 +44,11 @@ f) Pour les œuvres audiovisuelles documentaires, les dépenses relatives à l'a
 
 Le montant cumulé des rémunérations mentionnées au a et des salaires mentionnés au c versés au réalisateur en qualité de technicien est retenu, par personne physique, dans la limite d'un montant cumulé calculé comme suit :
 
-\- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
+- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
 
-\- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
+- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
 
-\- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
+- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
 
 Pour l'adaptation audiovisuelle de spectacles, les dépenses éligibles sont celles exposées jusqu'au 31 décembre 2024.
 
@@ -58,9 +58,9 @@ Sont assimilées à des œuvres cinématographiques d'animation les œuvres cin�
 
 Le taux mentionné au premier alinéa du présent 1 est ramené à 10 % en ce qui concerne les œuvres d'adaptation audiovisuelle de spectacles.
 
-2\. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de l'Europe, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers européen avec lequel l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français.
+2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de l'Europe, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers européen avec lequel l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français.
 
-3\. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de l'oeuvre et, en cas de coproduction internationale, à 80 % de la part gérée par le coproducteur français.
+1. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de l'oeuvre et, en cas de coproduction internationale, à 80 % de la part gérée par le coproducteur français.
 
 IV. – Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à compter de la date de réception, par le président du Centre national du cinéma et de l'image animée, d'une demande d'agrément à titre provisoire.
 
@@ -70,7 +70,7 @@ V. – Les subventions publiques non remboursables reçues par les entreprises e
 
 VI. – 1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 30 millions d'euros.
 
-2\. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder :
+2. La somme des crédits d'impôt calculés au titre d'une même œuvre audiovisuelle ne peut excéder :
 
 a) Pour une œuvre de fiction :
 
@@ -96,9 +96,9 @@ c) Pour une œuvre d'animation : 3 000 € par minute produite et livrée.
 
 Les œuvres audiovisuelles de fiction produites dans le cadre d'une coproduction internationale dont le coût de production est couvert au moins à hauteur de 30 % par des financements étrangers et dont le coût de production est supérieur ou égal à 35 000 € par minute produite peuvent être réalisées en langue étrangère. Dans ce cas, elles doivent faire l'objet d'une version livrée en langue française.
 
-3\. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des entreprises de production proportionnellement à sa part dans les dépenses exposées.
+3. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des entreprises de production proportionnellement à sa part dans les dépenses exposées.
 
-4\. Lorsqu'une oeuvre cinématographique et une oeuvre audiovisuelle sont réalisées simultanément à partir d'éléments artistiques et techniques communs, les dépenses mentionnées au III communes à la production de ces deux oeuvres ne peuvent être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article.
+1. Lorsqu'une oeuvre cinématographique et une oeuvre audiovisuelle sont réalisées simultanément à partir d'éléments artistiques et techniques communs, les dépenses mentionnées au III communes à la production de ces deux oeuvres ne peuvent être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article.
 
 VII. – Les crédits d'impôt obtenus pour la production d'une même oeuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production le montant total des aides publiques accordées. Ce seuil est porté à 60 % pour les oeuvres cinématographiques ou audiovisuelles difficiles et à petit budget définies par décret.
 

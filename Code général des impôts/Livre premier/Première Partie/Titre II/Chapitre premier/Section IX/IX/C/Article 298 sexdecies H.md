@@ -28,11 +28,11 @@ II.-L'assujetti qui se prévaut du présent régime particulier ou un intermédi
 
 III.-Un assujetti qui se prévaut du présent régime particulier n'est identifié, pour les opérations imposables dans le cadre de ce régime, qu'en France.
 
-1\. L'administration attribue à l'assujetti qui se prévaut du présent régime particulier un numéro individuel de taxe sur la valeur ajoutée aux seules fins de l'application du présent régime particulier et informe celui-ci par voie électronique du numéro d'identification qui lui a été attribué.
+1. L'administration attribue à l'assujetti qui se prévaut du présent régime particulier un numéro individuel de taxe sur la valeur ajoutée aux seules fins de l'application du présent régime particulier et informe celui-ci par voie électronique du numéro d'identification qui lui a été attribué.
 
-2\. L'administration attribue à un intermédiaire un numéro individuel d'identification et informe celui-ci par voie électronique du numéro d'identification qui lui a été attribué.
+1. L'administration attribue à un intermédiaire un numéro individuel d'identification et informe celui-ci par voie électronique du numéro d'identification qui lui a été attribué.
 
-3\. L'administration attribue à l'intermédiaire, pour chaque assujetti pour lequel celui-ci est désigné, un numéro individuel d'identification de taxe sur la valeur ajoutée aux fins de l'application du présent régime particulier.
+1. L'administration attribue à l'intermédiaire, pour chaque assujetti pour lequel celui-ci est désigné, un numéro individuel d'identification de taxe sur la valeur ajoutée aux fins de l'application du présent régime particulier.
 
 Le numéro d'identification de taxe sur la valeur ajoutée attribué au titre des 1,2 et 3 du présent III n'est utilisé qu'aux fins du présent régime particulier.
 
@@ -48,7 +48,7 @@ d) Si, de manière systématique, l'assujetti ne se conforme pas aux règles rel
 
 e) Si l'intermédiaire informe l'Etat membre d'identification qu'il ne représente plus cet assujetti.
 
-2\. L'administration exclut l'intermédiaire du présent régime particulier dans les cas suivants :
+2. L'administration exclut l'intermédiaire du présent régime particulier dans les cas suivants :
 
 a) Si, pendant une période de deux trimestres civils consécutifs, il n'a pas agi en tant qu'intermédiaire pour le compte d'un assujetti qui se prévaut du présent régime particulier ;
 
@@ -72,7 +72,7 @@ VIII.-L'assujetti qui se prévaut du présent régime particulier ou son interm�
 
 IX.-1. Un assujetti qui se prévaut, dans un autre Etat membre, du régime particulier prévu à la section 4 du chapitre 6 du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ne peut, en ce qui concerne ses activités imposables couvertes par ce régime particulier, déduire aucun montant de taxe sur la valeur ajoutée en France. La taxe afférente aux livraisons de biens et prestations de services couvertes par ce régime est remboursée selon les modalités prévues au d du V de l'article 271 du présent code.
 
-2\. Nonobstant le 1 du présent IX, si un assujetti qui se prévaut, dans un autre Etat membre, du régime particulier prévu à la section 4 du chapitre 6 du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 précitée est tenu de se faire identifier en France pour des activités non couvertes par ce régime particulier, il opère la déduction de la taxe sur la valeur ajoutée afférente aux biens et services utilisés pour les besoins de ses opérations imposables couvertes par ce régime conformément à l'article 271 du présent code.
+2. Nonobstant le 1 du présent IX, si un assujetti qui se prévaut, dans un autre Etat membre, du régime particulier prévu à la section 4 du chapitre 6 du titre XII de la directive 2006/112/ CE du Conseil du 28 novembre 2006 précitée est tenu de se faire identifier en France pour des activités non couvertes par ce régime particulier, il opère la déduction de la taxe sur la valeur ajoutée afférente aux biens et services utilisés pour les besoins de ses opérations imposables couvertes par ce régime conformément à l'article 271 du présent code.
 
 X.-L'assujetti qui se prévaut du présent régime particulier, ou l'intermédiaire pour chacun des assujettis qu'il représente, tient un registre des opérations relevant de ce régime particulier. Ce registre doit, sur demande, être mis par voie électronique à la disposition de l'administration et de l'Etat membre de consommation. Il est suffisamment détaillé pour permettre à l'administration de l'Etat membre de consommation de vérifier l'exactitude de la déclaration de taxe sur la valeur ajoutée mentionnée au V du présent article.
 

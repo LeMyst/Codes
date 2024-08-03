@@ -4,7 +4,7 @@ I.-1. Sont exonérées d'impôt sur les sociétés jusqu'au terme du dixième ex
 
 Les sociétés unipersonnelles d'investissement à risque doivent détenir au plus 30 % des droits financiers et des droits de vote des sociétés dans lesquelles elles investissent.
 
-2\. Les sociétés dont les titres figurent à l'actif de la société unipersonnelle d'investissement à risque doivent également remplir les conditions suivantes :
+2. Les sociétés dont les titres figurent à l'actif de la société unipersonnelle d'investissement à risque doivent également remplir les conditions suivantes :
 
 a. Elles ont été créées depuis moins de cinq ans à la date de la première souscription par la société unipersonnelle d'investissement à risque ;
 
@@ -12,9 +12,9 @@ b. Elles sont nouvelles au sens de l'article 44 sexies ou créées pour la repri
 
 c. Elles sont détenues majoritairement par des personnes physiques ou par des personnes morales détenues majoritairement par des personnes physiques.
 
-3\. L'associé d'une société unipersonnelle d'investissement à risque, son conjoint et leurs ascendants et descendants détiennent ensemble, directement ou indirectement, au plus 30 % des droits financiers et des droits de vote des sociétés dont les titres figurent à l'actif de la société et n'ont pas atteint ce niveau de détention depuis leur création. Ils n'exercent dans ces sociétés aucune des fonctions énumérées au 1° du 1 du III de l'article 975.
+3. L'associé d'une société unipersonnelle d'investissement à risque, son conjoint et leurs ascendants et descendants détiennent ensemble, directement ou indirectement, au plus 30 % des droits financiers et des droits de vote des sociétés dont les titres figurent à l'actif de la société et n'ont pas atteint ce niveau de détention depuis leur création. Ils n'exercent dans ces sociétés aucune des fonctions énumérées au 1° du 1 du III de l'article 975.
 
-4\. Par dérogation aux dispositions du 1, les sociétés unipersonnelles d'investissement à risque peuvent consentir, dans la limite de 15 % de leur actif brut comptable, des avances en compte courant aux sociétés dans lesquelles elles ont investi. Elles peuvent également détenir d'autres éléments d'actifs dans la limite de 5 % de leur actif brut comptable.
+1. Par dérogation aux dispositions du 1, les sociétés unipersonnelles d'investissement à risque peuvent consentir, dans la limite de 15 % de leur actif brut comptable, des avances en compte courant aux sociétés dans lesquelles elles ont investi. Elles peuvent également détenir d'autres éléments d'actifs dans la limite de 5 % de leur actif brut comptable.
 
 II.-Le non-respect de l'une des conditions mentionnées au I entraîne la perte de l'exonération prévue au même I, pour l'exercice en cours et les exercices suivants.
 

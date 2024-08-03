@@ -1,6 +1,6 @@
 # Article 214
 
-1\. Sont admis en déduction :
+1. Sont admis en déduction :
 
 1° En ce qui concerne les sociétés coopératives de consommation, les bonis provenant des opérations faites avec les associés et distribués à ces derniers au prorata de la commande de chacun d'eux ;
 
@@ -40,4 +40,4 @@ Lorsque les sommes déposées sur le compte sont utilisées à des emplois autre
 
 Les sommes mentionnées aux 1°, 2° et 5° du 1 non déduites en application du premier alinéa conservent le caractère de ristournes pour les personnes qui les reçoivent.
 
-2\. et 3. (Dispositions périmées).
+2. et 3. (Dispositions périmées).

@@ -26,7 +26,7 @@ Sur le territoire de la Ville de Paris, les recettes de taxe foncière sur les p
 
 III bis. – 1. Lorsqu'un arrêté de création de commune nouvelle a été pris avant le 1er octobre d'une année, la commune peut prendre les délibérations prévues au I jusqu'au 15 janvier de l'année suivante.
 
-2\. La première année où la création de la commune nouvelle produit des effets au plan fiscal :
+2. La première année où la création de la commune nouvelle produit des effets au plan fiscal :
 
 a) Pour l'application du deuxième alinéa du II, à défaut d'adoption de son budget par la commune nouvelle, le montant annuel prévisionnel des charges de fonctionnement et d'investissement est égal à la somme des charges prévisionnelles de fonctionnement et d'investissement des communes et, le cas échéant, de l'établissement public de coopération intercommunale préexistants ;
 

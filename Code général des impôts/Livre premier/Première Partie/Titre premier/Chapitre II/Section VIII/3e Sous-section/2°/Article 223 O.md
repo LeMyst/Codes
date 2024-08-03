@@ -1,6 +1,6 @@
 # Article 223 O
 
-1\. La société mère est substituée aux sociétés du groupe pour l'imputation sur le montant de l'impôt sur les sociétés dont elle est redevable au titre de chaque exercice :
+1. La société mère est substituée aux sociétés du groupe pour l'imputation sur le montant de l'impôt sur les sociétés dont elle est redevable au titre de chaque exercice :
 
 a. Des crédits d'impôt attachés aux produits reçus par une société du groupe et qui n'ont pas ouvert droit à l'application du régime des sociétés mères visé aux articles 145 et 216 ;
 
@@ -64,7 +64,7 @@ z quater. Des crédits d'impôt dégagés par chaque société du groupe en appl
 
 z quinquies. Des réductions d'impôts dégagées par chaque société du groupe en application de l'article 244 quater Y ; l'article 220 Z sexies s'applique à la somme de ces réductions d'impôt.
 
-2\. (Abrogé).
+2. (Abrogé).
 
 NOTA:
 Conformément au III de l’article 35 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 27 septembre 2023. Le délai d'examen des demandes court, pour celles déposées avant l'entrée en vigueur prévue au IV, à compter de cette entrée en vigueur.

@@ -26,7 +26,7 @@ La société adresse chaque année au service des impôts des non-résidents un 
 
 4 (Disposition périmée).
 
-5\. a) Le changement de l'objet social ou de l'activité réelle d'une société emporte cessation d'entreprise. Il en est de même en cas de disparition des moyens de production nécessaires à la poursuite de l'exploitation pendant une durée de plus de douze mois, sauf en cas de force majeure, ou lorsque cette disparition est suivie d'une cession de la majorité des droits sociaux.
+5. a) Le changement de l'objet social ou de l'activité réelle d'une société emporte cessation d'entreprise. Il en est de même en cas de disparition des moyens de production nécessaires à la poursuite de l'exploitation pendant une durée de plus de douze mois, sauf en cas de force majeure, ou lorsque cette disparition est suivie d'une cession de la majorité des droits sociaux.
 
 Toutefois, dans les situations mentionnées au premier alinéa du présent a, l'article 221 bis est applicable, sauf en ce qui concerne les provisions dont la déduction est prévue par des dispositions légales particulières.
 

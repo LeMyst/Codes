@@ -14,7 +14,7 @@ Pour les investissements réalisés dans le secteur du transport aérien ou mari
 
 5° 80 % de l'avantage en impôt procuré par la réduction d'impôt pratiquée au titre de l'investissement et par l'imputation du déficit provenant de la location du bien acquis et de la moins-value réalisée lors de la cession de ce bien ou des titres de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et du prix de cession du bien.
 
-2\. La réduction d'impôt ne s'applique pas aux investissements portant sur :
+2. La réduction d'impôt ne s'applique pas aux investissements portant sur :
 
 1° L'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'exercice d'une activité aquacole, agricole, sylvicole ou minière. Toutefois, la réduction d'impôt s'applique aux investissements consistant en l'acquisition de véhicules de tourisme mentionnés à la troisième phrase du quinzième alinéa du I de l'article 199 undecies B ;
 
@@ -82,7 +82,7 @@ B.-1. La réduction d'impôt s'applique également aux souscriptions en numérai
 
 4° Sociétés affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les collectivités d'outre-mer et en Nouvelle-Calédonie lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions mentionnées aux 1° et 2° du D du I.
 
-2\. Pour l'application du présent B :
+2. Pour l'application du présent B :
 
 1° Les sociétés bénéficiaires des souscriptions seraient soumises de plein droit ou sur option à l'impôt sur les sociétés si elles étaient imposables en France et si elles exercent exclusivement leur activité en outre-mer, dans les secteurs d'activité éligibles en application des A à D du I ;
 
@@ -94,9 +94,9 @@ III.-A.-1. La réduction d'impôt est assise sur le montant, hors taxes et hors 
 
 Pour les souscriptions mentionnées au B du II, la réduction d'impôt est assise sur le montant total des souscriptions en numéraires effectuées.
 
-2\. Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans incidence pour la détermination du montant des dépenses éligibles retenues pour l'application du présent article, à l'exception des investissements mentionnés au C du présent III.
+2. Les aides octroyées par la Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna, Saint-Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon dans le cadre de leur compétence fiscale propre au titre de projets d'investissements sont sans incidence pour la détermination du montant des dépenses éligibles retenues pour l'application du présent article, à l'exception des investissements mentionnés au C du présent III.
 
-3\. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié du présent dispositif ou de l'un de ceux définis aux articles 199 undecies B et 217 duodecies, l'assiette de la réduction d'impôt telle que définie aux A à C du présent III est diminuée de la valeur réelle de l'investissement remplacé.
+1. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié du présent dispositif ou de l'un de ceux définis aux articles 199 undecies B et 217 duodecies, l'assiette de la réduction d'impôt telle que définie aux A à C du présent III est diminuée de la valeur réelle de l'investissement remplacé.
 
 B.-Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé, fixé par arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
 
@@ -126,7 +126,7 @@ IV.-Le taux de la réduction d'impôt est fixé à 35 %.
 
 V.-1. Le bénéfice de la réduction d'impôt prévue au I est accordé au titre de l'exercice au cours duquel l'investissement est mis en service.
 
-2\. Toutefois :
+2. Toutefois :
 
 1° Lorsque l'investissement consiste en l'acquisition d'un immeuble à construire ou en la construction d'immeuble, la réduction d'impôt est accordée au titre de l'exercice au cours duquel les fondations sont achevées ;
 
@@ -176,7 +176,7 @@ En cas de souscription affectée totalement ou partiellement à la construction 
 
 A défaut, la réduction d'impôt acquise au titre de cet investissement ou de cette souscription fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme des délais mentionnés aux deux premiers alinéas du présent 1.
 
-2\. La réduction d'impôt fait l'objet d'une reprise au titre de l'exercice au cours duquel l'une des conditions prévues au D du I n'est plus respectée.
+2. La réduction d'impôt fait l'objet d'une reprise au titre de l'exercice au cours duquel l'une des conditions prévues au D du I n'est plus respectée.
 
 Toutefois, la reprise de la réduction d'impôt n'est pas effectuée lorsque, en cas de défaillance de l'entreprise ou de l'organisme, les logements ayant ouvert droit à la réduction d'impôt sont repris par une autre entreprise ou organisme qui s'engage à louer les logements, dans les conditions prévues au même D, pour la fraction de la durée minimale de location restant à courir.
 

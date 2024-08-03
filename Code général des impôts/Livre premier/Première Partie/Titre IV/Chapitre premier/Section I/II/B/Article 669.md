@@ -2,8 +2,9 @@
 
 I. – Pour la liquidation des droits d'enregistrement et de la taxe de publicité foncière, la valeur de la nue-propriété et de l'usufruit est déterminée par une quotité de la valeur de la propriété entière, conformément au barème ci-après :
 
-| AGE de l'usufruitier | VALEUR de l'usufruit | VALEUR de la nue-propriété |
+|  |  |  |
 | --- | --- | --- |
+| AGE de l'usufruitier | VALEUR de l'usufruit | VALEUR de la nue-propriété |
 | Moins de : |  |  |
 | 21 ans révolus | 90 % | 10 % |
 | 31 ans révolus | 80 % | 20 % |

@@ -1,6 +1,6 @@
 # Article 200
 
-1\. Ouvrent droit à une réduction d'impôt sur le revenu égale à 66 % de leur montant les sommes prises dans la limite de 20 % du revenu imposable qui correspondent à des dons et versements, y compris l'abandon exprès de revenus ou produits, effectués par les contribuables domiciliés en France au sens de l'article 4 B, au profit :
+1. Ouvrent droit à une réduction d'impôt sur le revenu égale à 66 % de leur montant les sommes prises dans la limite de 20 % du revenu imposable qui correspondent à des dons et versements, y compris l'abandon exprès de revenus ou produits, effectués par les contribuables domiciliés en France au sens de l'article 4 B, au profit :
 
 a) De fondations ou associations reconnues d'utilité publique sous réserve du 2 bis, de fondations universitaires ou de fondations partenariales mentionnées respectivement aux articles L. 719-12 et L. 719-13 du code de l'éducation et, pour les seuls salariés, mandataires sociaux, sociétaires, adhérents et actionnaires des entreprises fondatrices ou des entreprises du groupe, au sens de l'article 223 A ou de l'article 223 A bis, auquel appartient l'entreprise fondatrice, de fondations d'entreprise, lorsque ces organismes répondent aux conditions fixées au b. Les dons et versements réalisés par les mandataires sociaux, sociétaires, actionnaires et adhérents de ces entreprises auprès de ces fondations d'entreprise sont retenus dans la limite de 1 500 euros ;
 
@@ -34,7 +34,7 @@ Ouvrent également droit à la réduction d'impôt les frais engagés dans le ca
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
-2\. Les fondations et associations reconnues d'utilité publique peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
+2. Les fondations et associations reconnues d'utilité publique peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
 La condition relative à la reconnaissance d'utilité publique est réputée remplie par les associations régies par la loi locale maintenue en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de ces associations est reconnue d'utilité publique.
 
@@ -52,11 +52,11 @@ Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de 
 
 Les dons versés à d'autres fondations ou associations reconnues d'utilité publique agréées par le ministre chargé du budget dont l'objet est culturel, en vue de subventionner la réalisation de travaux de conservation, de restauration ou d'accessibilité de monuments historiques classés ou inscrits, ouvrent droit à la réduction d'impôt dans les mêmes conditions.
 
-3\. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article L. 52-8 du code électoral versés à une association de financement électorale ou à un mandataire financier visé à l'article L. 52-4 du même code qui sont consentis à titre définitif et sans contrepartie, soit par chèque, soit par virement, prélèvement automatique ou carte bancaire, et dont il est justifié à l'appui du compte de campagne présenté par un candidat, un binôme de candidats ou une liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ainsi que des cotisations versées aux partis et groupements politiques par l'intermédiaire de leur mandataire.
+3. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article L. 52-8 du code électoral versés à une association de financement électorale ou à un mandataire financier visé à l'article L. 52-4 du même code qui sont consentis à titre définitif et sans contrepartie, soit par chèque, soit par virement, prélèvement automatique ou carte bancaire, et dont il est justifié à l'appui du compte de campagne présenté par un candidat, un binôme de candidats ou une liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ainsi que des cotisations versées aux partis et groupements politiques par l'intermédiaire de leur mandataire.
 
 Les dons et cotisations mentionnés à la seconde phrase du premier alinéa du présent 3 sont retenus dans la limite de 15 000 €.
 
-4\. (abrogé).
+4. (abrogé).
 
 4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements effectués au profit d'organismes agréés dans les conditions prévues à l'article 1649 nonies dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
 
@@ -64,13 +64,13 @@ Lorsque les dons et versements ont été effectués au profit d'un organisme non
 
 Un décret fixe les conditions d'application du présent 4 bis et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.
 
-5\. Les versements ouvrent droit au bénéfice de la réduction d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, les pièces justificatives répondant à un modèle fixé par l'administration attestant du montant et de la date des versements ainsi que de l'identité des bénéficiaires.
+5. Les versements ouvrent droit au bénéfice de la réduction d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, les pièces justificatives répondant à un modèle fixé par l'administration attestant du montant et de la date des versements ainsi que de l'identité des bénéficiaires.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 € ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
-6\. Ouvrent également droit à la réduction d'impôt les dons et versements effectués au profit d'organismes qui ont pour objet la sauvegarde, contre les effets d'un conflit armé, des biens culturels mentionnés à l'article 1er de la Convention du 14 mai 1954 pour la protection des biens culturels en cas de conflit armé, dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, sous réserve que l'Etat français soit représenté au sein des instances dirigeantes avec voix délibérative.
+6. Ouvrent également droit à la réduction d'impôt les dons et versements effectués au profit d'organismes qui ont pour objet la sauvegarde, contre les effets d'un conflit armé, des biens culturels mentionnés à l'article 1er de la Convention du 14 mai 1954 pour la protection des biens culturels en cas de conflit armé, dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, sous réserve que l'Etat français soit représenté au sein des instances dirigeantes avec voix délibérative.
 
-7\. Abrogé
+1. Abrogé
 
 NOTA:
 Modifications effectuées en conséquence de l'article 2-I-2° a de la loi n° 2022-1726 du 30 décembre 2022.

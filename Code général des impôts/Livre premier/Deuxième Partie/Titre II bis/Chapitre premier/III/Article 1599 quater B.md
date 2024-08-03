@@ -16,7 +16,7 @@ Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imp
 
 III bis.-1. Une ligne raccordée par un équipement mentionné aux a, b ou c du I n'est pas prise en compte dans le calcul du montant de l'imposition de l'équipement pendant les cinq années suivant celle de la première installation jusqu'à l'utilisateur final.
 
-2\. Les lignes d'un réseau interne de distribution de télévision exclusivement utilisées pour distribuer des services de télévision non subordonnés à la souscription d'un des abonnements mentionnés à l'article 34-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication raccordées à un équipement mentionné au c du I ne sont pas imposées.
+2. Les lignes d'un réseau interne de distribution de télévision exclusivement utilisées pour distribuer des services de télévision non subordonnés à la souscription d'un des abonnements mentionnés à l'article 34-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication raccordées à un équipement mentionné au c du I ne sont pas imposées.
 
 IV. – Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par région, département et commune :
 

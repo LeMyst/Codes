@@ -1,8 +1,8 @@
 # Article 204 G
 
-1\. L'assiette de l'acompte prévu au 2° du 2 de l'article 204 A dû au titre des revenus mentionnés à l'article 204 C est constituée du montant des bénéfices ou revenus imposés au barème progressif de l'impôt sur le revenu la dernière année pour laquelle l'impôt a été établi à la date du versement prévu au 1 de l'article 1663 C.
+1. L'assiette de l'acompte prévu au 2° du 2 de l'article 204 A dû au titre des revenus mentionnés à l'article 204 C est constituée du montant des bénéfices ou revenus imposés au barème progressif de l'impôt sur le revenu la dernière année pour laquelle l'impôt a été établi à la date du versement prévu au 1 de l'article 1663 C.
 
-2\. Elle est déterminée pour chaque catégorie de bénéfice ou revenu et pour chaque membre du foyer fiscal dans les conditions suivantes :
+1. Elle est déterminée pour chaque catégorie de bénéfice ou revenu et pour chaque membre du foyer fiscal dans les conditions suivantes :
 
 1° Pour les bénéfices industriels et commerciaux, est retenu le bénéfice net mentionné au 1 de l'article 38, diminué du report déficitaire appliqué conformément aux 1° bis et 1° ter du I de l'article 156. Lorsque les bénéfices industriels et commerciaux sont déterminés selon le régime d'imposition défini à l'article 50-0 ou lorsqu'au titre de la dernière année mentionnée au 1 du présent article, le contribuable a été imposé selon les dispositions de l'article 151-0 et qu'au titre de l'année en cours, il a dénoncé son option pour ce régime, le bénéfice à retenir s'entend du résultat imposable déterminé dans les conditions prévues à l'article 50-0 ;
 
@@ -18,9 +18,9 @@
 
 7° Les revenus mentionnés aux 1° à 5° du présent 2 auxquels se sont appliquées les dispositions de l'article 163-0 A ainsi que les produits ou recettes imposables ayant la nature de plus-values définies à l'article 39 duodecies, les subventions d'équipement, les indemnités d'assurance compensant la perte d'un élément de l'actif immobilisé et les charges ou dépenses ayant la nature de moins-values définies au même article 39 duodecies ne sont pas retenus dans l'assiette de l'acompte.
 
-3\. Lorsque le résultat de l'une des catégories de revenus mentionnées aux 1° à 5° du 2 est déficitaire, il est retenu pour une valeur nulle.
+3. Lorsque le résultat de l'une des catégories de revenus mentionnées aux 1° à 5° du 2 est déficitaire, il est retenu pour une valeur nulle.
 
-4\. Si l'un des bénéfices mentionnés aux 1° à 3° du 2 de l'année mentionnée au 1 est afférent à une période de moins de douze mois, il est ajusté pro rata temporis sur une année.
+1. Si l'un des bénéfices mentionnés aux 1° à 3° du 2 de l'année mentionnée au 1 est afférent à une période de moins de douze mois, il est ajusté pro rata temporis sur une année.
 
 NOTA:
 Conformément au II de l'article 3 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2023.

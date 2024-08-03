@@ -1,18 +1,18 @@
 # Article 39 terdecies
 
-1\. (Abrogé)
+1. (Abrogé)
 
 1 bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et concessionnaires).
 
 1 ter. Le régime des plus ou moins-values à long terme n'est pas applicable aux sommes perçues en exécution d'un contrat de crédit-bail portant sur des éléments incorporels d'un fonds de commerce ou d'un fonds artisanal.
 
-2\. Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont soumises de plein droit au régime fiscal des plus-values à long terme.
+2. Sous réserve des dispositions de l'article 41, les plus-values nettes constatées en cas de décès de l'exploitant sont soumises de plein droit au régime fiscal des plus-values à long terme.
 
-3\. (Abrogé)
+1. (Abrogé)
 
-4\. (Périmé)
+1. (Périmé)
 
-5\. Les distributions par les sociétés de capital-risque qui fonctionnent dans les conditions de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 sont soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme si la distribution est prélevée sur :
+1. Les distributions par les sociétés de capital-risque qui fonctionnent dans les conditions de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 sont soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme si la distribution est prélevée sur :
 
 1° Des plus-values nettes réalisées au cours des exercices clos à compter du 31 décembre 2001 provenant de la cession de titres détenus depuis au moins deux ans ;
 

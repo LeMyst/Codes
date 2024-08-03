@@ -2,7 +2,7 @@
 
 I. – 1. Les contribuables domiciliés en France au sens de l'article 4 B qui acquièrent, entre le 1er janvier 2009 et le 31 décembre 2012, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale de neuf ans.
 
-2\. La réduction d'impôt s'applique dans les mêmes conditions :
+2. La réduction d'impôt s'applique dans les mêmes conditions :
 
 a) Au logement que le contribuable fait construire et qui fait l'objet d'un dépôt de demande de permis de construire entre le 1er janvier 2009 et le 31 décembre 2012 ;
 
@@ -12,9 +12,9 @@ c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues 
 
 d) Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de transformation en logement ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux.
 
-3\. L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la déclaration d'ouverture de chantier dans le cas d'un logement acquis en l'état futur d'achèvement ou la date de l'obtention du permis de construire dans le cas d'un logement que le contribuable fait construire. L'achèvement des travaux mentionnés aux b, c et d du 2 doit intervenir au plus tard le 31 décembre de la deuxième année qui suit celle de l'acquisition du local ou du logement concerné.
+3. L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la déclaration d'ouverture de chantier dans le cas d'un logement acquis en l'état futur d'achèvement ou la date de l'obtention du permis de construire dans le cas d'un logement que le contribuable fait construire. L'achèvement des travaux mentionnés aux b, c et d du 2 doit intervenir au plus tard le 31 décembre de la deuxième année qui suit celle de l'acquisition du local ou du logement concerné.
 
-4\. L'application de la présente réduction d'impôt est, au titre de l'acquisition ou de la construction d'un logement, exclusive, pour le même logement, de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31.
+1. L'application de la présente réduction d'impôt est, au titre de l'acquisition ou de la construction d'un logement, exclusive, pour le même logement, de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31.
 
 La location ne peut pas être conclue avec un membre du foyer fiscal ou, si le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, avec l'un de ses associés ou avec un membre du foyer fiscal de l'un de ses associés.
 

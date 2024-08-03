@@ -14,15 +14,15 @@ e) A la somme de 50 000 €, lorsque le bénéfice imposable est supérieur ou �
 
 Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, les plafonds mentionnés aux a à e sont multipliés par le nombre des associés exploitants, dans la limite de quatre, sans pouvoir excéder le montant du bénéfice imposable.
 
-2\. La déduction est également plafonnée :
+2. La déduction est également plafonnée :
 
 1° Pour les exploitants individuels, à la différence positive entre la somme de 150 000 € et le montant de déductions pratiquées et non encore rapportées au résultat ;
 
 2° Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, à la différence positive entre la somme de 150 000 €, multipliée par le nombre des associés exploitants, dans la limite de quatre, et le montant des déductions pratiquées et non encore rapportées au résultat.
 
-3\. La déduction mentionnée au 1 est pratiquée après application des abattements prévus aux articles 44 duodecies, 44 terdecies, 44 quaterdecies et 73 B.
+3. La déduction mentionnée au 1 est pratiquée après application des abattements prévus aux articles 44 duodecies, 44 terdecies, 44 quaterdecies et 73 B.
 
-4\. Les montants mentionnés au 1 du présent I sont actualisés chaque année en fonction de la variation de l'indice des prix à la consommation hors tabac constatée au titre de l'année précédente et arrondis à l'euro le plus proche. Ces montants réévalués s'appliquent pour la détermination du résultat imposable des exercices clos à compter du 1er janvier de l'année au titre de laquelle l'actualisation est réalisée.
+1. Les montants mentionnés au 1 du présent I sont actualisés chaque année en fonction de la variation de l'indice des prix à la consommation hors tabac constatée au titre de l'année précédente et arrondis à l'euro le plus proche. Ces montants réévalués s'appliquent pour la détermination du résultat imposable des exercices clos à compter du 1er janvier de l'année au titre de laquelle l'actualisation est réalisée.
 
 II. - 1. La déduction prévue au I du présent article s'exerce à la condition que, dans les six mois suivant la clôture de l'exercice et au plus tard à la date limite de dépôt de la déclaration des résultats se rapportant à l'exercice au titre duquel la déduction est pratiquée, l'exploitant ait inscrit à un compte courant ouvert auprès d'un établissement de crédit une somme comprise entre 50 % et 100 % du montant de la déduction. L'épargne professionnelle ainsi constituée doit être inscrite à l'actif du bilan de l'exploitation. A tout moment, le montant total de l'épargne professionnelle est au moins égal à 50 % du montant des déductions non encore rapportées. Elle ne peut jamais excéder le montant des déductions non encore rapportées.
 
@@ -34,13 +34,13 @@ Le compte courant mentionné au premier alinéa du présent 1 retrace exclusivem
 
 Pour l'exploitant, associé coopérateur d'une société coopérative agricole mentionnée à l'article L. 521-1 du code rural et de la pêche maritime ou adhérent d'une organisation de producteurs ou d'une association d'organisations de producteurs reconnues conformément à l'article L. 551-1 du même code et bénéficiant du transfert de propriété des produits qu'elles commercialisent, le compte d'affectation peut être un compte inscrit à l'actif du bilan de l'exploitant qui enregistre exclusivement les créances liées aux fonds qu'il met à la disposition de la coopérative, de l'organisation de producteurs ou de l'association d'organisations de producteurs lorsque, en exécution d'un contrat pluriannuel conclu avec celles-ci, le prix auquel il vend ses productions dépasse un prix de référence fixé au contrat.
 
-2\. Les sommes déduites sont utilisées au cours des dix exercices qui suivent celui au cours duquel la déduction a été pratiquée pour faire face à des dépenses nécessitées par l'activité professionnelle. Ces sommes sont rapportées au résultat de l'exercice au cours duquel leur utilisation est intervenue ou au résultat de l'exercice suivant.
+2. Les sommes déduites sont utilisées au cours des dix exercices qui suivent celui au cours duquel la déduction a été pratiquée pour faire face à des dépenses nécessitées par l'activité professionnelle. Ces sommes sont rapportées au résultat de l'exercice au cours duquel leur utilisation est intervenue ou au résultat de l'exercice suivant.
 
-3\. Lorsque ces sommes ne sont pas utilisées au cours des dix exercices qui suivent celui au titre duquel la déduction a été pratiquée, elles sont rapportées au résultat du dixième exercice suivant celui au titre duquel la déduction a été pratiquée.
+1. Lorsque ces sommes ne sont pas utilisées au cours des dix exercices qui suivent celui au titre duquel la déduction a été pratiquée, elles sont rapportées au résultat du dixième exercice suivant celui au titre duquel la déduction a été pratiquée.
 
 En cas de non-respect de l'obligation prévue à l'avant-dernière phrase du premier alinéa du 1 du présent II, la fraction des déductions non encore rapportées qui excède le double de l'épargne professionnelle est rapportée au résultat de cet exercice, majorée d'un montant égal au produit de cette somme par le taux de l'intérêt de retard prévu à l'article 1727.
 
-4\. L'article 151 septies ne s'applique pas aux plus-values de cession de matériels roulants acquis lors d'un exercice au titre duquel la déduction a été rapportée et dans les deux ans précédant leur cession.
+4. L'article 151 septies ne s'applique pas aux plus-values de cession de matériels roulants acquis lors d'un exercice au titre duquel la déduction a été rapportée et dans les deux ans précédant leur cession.
 
 Sous réserve de l'application des articles 41, 151 octies et 238 quindecies, le premier alinéa du présent 4 ne s'applique pas aux plus-values réalisées à l'occasion de la cessation d'entreprise résultant du départ à la retraite de l'exploitant, de la transmission à titre gratuit de l'entreprise, de l'apport de l'exploitation individuelle ou d'une branche complète d'activité à une société, de la dissolution de la société ou du décès de l'exploitant. Toutefois, si le cessionnaire ou le bénéficiaire des apports est une entreprise liée au cédant ou à l'apporteur, au sens du 12 de l'article 39, la plus-value dégagée à l'occasion de la cession ultérieure du bien par celle-ci, réalisée dans un délai de deux ans décompté à partir de la date d'inscription du bien à l'actif du bilan du cédant ou de l'apporteur, ne bénéficie pas des dispositions de l'article 151 septies.
 

@@ -4,7 +4,7 @@ I.-1. Sous réserve de l'article 1635 quater N, le conseil municipal ou l'organe
 
 Dans les communes et les établissements publics de coopération intercommunale mentionnés au 1° du I de l'article 1635 quater A, à défaut de délibération fixant le taux, ce dernier est fixé à 1 %.
 
-2\. Les organes délibérants mentionnés au 1 du présent I peuvent fixer des taux différents par secteur de leur territoire, dans les limites prévues au I de l'article 1635 quater M.
+2. Les organes délibérants mentionnés au 1 du présent I peuvent fixer des taux différents par secteur de leur territoire, dans les limites prévues au I de l'article 1635 quater M.
 
 Pour l'application du présent 2 et de l'article 1635 quater N, les secteurs sont définis et présentés par référence aux documents cadastraux à la date de la délibération les instituant, selon des modalités définies par décret. Le cas échéant, leur délimitation figure, à titre d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols.
 

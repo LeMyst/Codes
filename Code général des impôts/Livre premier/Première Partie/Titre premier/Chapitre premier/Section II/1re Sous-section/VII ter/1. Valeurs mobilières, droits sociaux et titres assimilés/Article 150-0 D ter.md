@@ -4,7 +4,7 @@ I.-1. Les gains nets mentionnés au 1 de l'article 150-0 D et déterminés dans 
 
 L'abattement fixe prévu au premier alinéa du présent 1 s'applique à l'ensemble des gains afférents à des actions, parts, ou droits démembrés portant sur ces actions ou parts, émises par une même société et, si cette société est issue d'une scission intervenue au cours des deux années précédant la cession à titre onéreux ou le rachat, par les autres sociétés issues de cette même scission.
 
-2\. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession de titres ou de droits mentionnés au 1 du présent I, est réduit de l'abattement fixe prévu au même 1, à hauteur de la fraction non utilisée lors de cette cession.
+2. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession de titres ou de droits mentionnés au 1 du présent I, est réduit de l'abattement fixe prévu au même 1, à hauteur de la fraction non utilisée lors de cette cession.
 
 II.-Le bénéfice de l'abattement fixe mentionné au 1 du I est subordonné au respect des conditions suivantes :
 

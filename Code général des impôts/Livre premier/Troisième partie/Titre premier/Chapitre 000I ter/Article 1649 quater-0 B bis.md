@@ -1,6 +1,6 @@
 # Article 1649 quater-0 B bis
 
-1\. Lorsqu'il résulte des constatations de fait opérées dans le cadre d'une des procédures prévues aux articles 53,75 et 79 du code de procédure pénale et que l'administration fiscale est informée dans les conditions prévues aux articles L. 82 C, L. 101 ou L. 135 L du livre des procédures fiscales qu'une personne a eu la libre disposition d'un bien objet d'une des infractions mentionnées au 2, cette personne est présumée, sauf preuve contraire appréciée dans le cadre des procédures prévues aux articles L. 10 et L. 12 de ce même livre, avoir perçu un revenu imposable équivalent à la valeur vénale de ce bien au titre de l'année au cours de laquelle cette disposition a été constatée.
+1. Lorsqu'il résulte des constatations de fait opérées dans le cadre d'une des procédures prévues aux articles 53,75 et 79 du code de procédure pénale et que l'administration fiscale est informée dans les conditions prévues aux articles L. 82 C, L. 101 ou L. 135 L du livre des procédures fiscales qu'une personne a eu la libre disposition d'un bien objet d'une des infractions mentionnées au 2, cette personne est présumée, sauf preuve contraire appréciée dans le cadre des procédures prévues aux articles L. 10 et L. 12 de ce même livre, avoir perçu un revenu imposable équivalent à la valeur vénale de ce bien au titre de l'année au cours de laquelle cette disposition a été constatée.
 
 La présomption peut être combattue par tout moyen et procéder notamment de l'absence de libre disposition des biens mentionnés au premier alinéa, de la déclaration des revenus ayant permis leur acquisition ou de l'acquisition desdits biens à crédit.
 
@@ -12,7 +12,7 @@ La présomption peut être combattue par tout moyen et procéder notamment de l'
 
 Lorsque plusieurs personnes ont la libre disposition des biens ou de la somme mentionnés respectivement au premier et au quatrième alinéas, la base du revenu imposable est, sauf preuve contraire, répartie proportionnellement entre ces personnes.
 
-2\. Le 1 s'applique aux infractions suivantes :
+2. Le 1 s'applique aux infractions suivantes :
 
 a. crimes et délits de trafic de stupéfiants prévus par les articles 222-34 à 222-39 du code pénal ;
 
@@ -24,4 +24,4 @@ d. délits à la réglementation sur les alcools et le tabac prévus à l'articl
 
 e. délit de contrefaçon prévu à l'article L. 716-9 du code de la propriété intellectuelle.
 
-3\. Les trois derniers alinéas du 1 s'appliquent également aux délits en matière d'habitat indigne prévus à l'article L. 1337-4 du code de la santé publique, aux IV et VI de l'article L. 123-3 du code de la construction et de l'habitation, aux I et II de l'article L. 511-6 du même code et au I de l'article L. 521-4 dudit code.
+3. Les trois derniers alinéas du 1 s'appliquent également aux délits en matière d'habitat indigne prévus à l'article L. 1337-4 du code de la santé publique, aux IV et VI de l'article L. 123-3 du code de la construction et de l'habitation, aux I et II de l'article L. 511-6 du même code et au I de l'article L. 521-4 dudit code.

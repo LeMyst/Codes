@@ -2,13 +2,13 @@
 
 I. – Entraîne l'application d'une amende égale à 50 % du montant :
 
-1\. Des sommes versées ou reçues, le fait de travestir ou dissimuler l'identité ou l'adresse de ses fournisseurs ou de ses clients, les éléments d'identification mentionnés aux articles 289 et 289 B et aux textes pris pour l'application de ces articles ou de sciemment accepter l'utilisation d'une identité fictive ou d'un prête-nom ;
+1. Des sommes versées ou reçues, le fait de travestir ou dissimuler l'identité ou l'adresse de ses fournisseurs ou de ses clients, les éléments d'identification mentionnés aux articles 289 et 289 B et aux textes pris pour l'application de ces articles ou de sciemment accepter l'utilisation d'une identité fictive ou d'un prête-nom ;
 
-2\. De la facture, le fait de délivrer une facture ne correspondant pas à une livraison ou à une prestation de service réelle ;
+1. De la facture, le fait de délivrer une facture ne correspondant pas à une livraison ou à une prestation de service réelle ;
 
-3\. De la transaction, le fait de ne pas délivrer une facture ou la note prévue à l'article 290 quinquies et de ne pas comptabiliser la transaction. Le client professionnel est solidairement tenu au paiement de cette amende, qui ne peut excéder 375 000 € par exercice. Toutefois, lorsque la transaction a été comptabilisée, l'amende est réduite à 5 % et ne peut excéder 37 500 € par exercice ;
+1. De la transaction, le fait de ne pas délivrer une facture ou la note prévue à l'article 290 quinquies et de ne pas comptabiliser la transaction. Le client professionnel est solidairement tenu au paiement de cette amende, qui ne peut excéder 375 000 € par exercice. Toutefois, lorsque la transaction a été comptabilisée, l'amende est réduite à 5 % et ne peut excéder 37 500 € par exercice ;
 
-4\. (Abrogé).
+1. (Abrogé).
 
 Les dispositions des 1 à 3 ne s'appliquent pas aux ventes au détail et aux prestations de services faites ou fournies à des particuliers, à l'exception des prestations de services mentionnées à l'article 290 quinquies soumises à la délivrance d'une note.
 

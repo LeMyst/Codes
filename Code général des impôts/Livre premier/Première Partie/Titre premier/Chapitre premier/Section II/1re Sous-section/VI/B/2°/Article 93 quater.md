@@ -26,11 +26,11 @@ III. Pour l'application des dispositions du premier alinéa du I, les contrats d
 
 IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles acquis dans les conditions prévues au 6 de l'article 93 et précédemment donnés en sous-location, l'imposition de la plus-value consécutive au changement de régime fiscal peut, sur demande expresse du contribuable, être reportée au moment où s'opérera la transmission de l'immeuble ou, le cas échéant, la transmission ou le rachat de tout ou partie des titres de la société propriétaire de l'immeuble ou sa dissolution.
 
-2\. Cette disposition s'applique aux plus-values réalisées à compter du 1er janvier 1990.
+2. Cette disposition s'applique aux plus-values réalisées à compter du 1er janvier 1990.
 
-3\. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1 consécutivement à l'acceptation de la promesse unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report de l'imposition de la plus-value dans les conditions prévues au 1.A défaut, les dispositions du 1 ne sont pas applicables.
+1. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1 consécutivement à l'acceptation de la promesse unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report de l'imposition de la plus-value dans les conditions prévues au 1.A défaut, les dispositions du 1 ne sont pas applicables.
 
-4\. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
+1. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
 
 V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de titres résultant des opérations mentionnées au 5 bis et au 7 bis précités, lorsque ces titres sont affectés à l'exercice de la profession au sens de l'article 93.
 

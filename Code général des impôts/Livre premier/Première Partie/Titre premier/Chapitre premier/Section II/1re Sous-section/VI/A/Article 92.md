@@ -1,8 +1,8 @@
 # Article 92
 
-1\. Sont considérés comme provenant de l'exercice d'une profession non commerciale ou comme revenus assimilés aux bénéfices non commerciaux, les bénéfices des professions libérales, des charges et offices dont les titulaires n'ont pas la qualité de commerçants et de toutes occupations, exploitations lucratives et sources de profits ne se rattachant pas à une autre catégorie de bénéfices ou de revenus.
+1. Sont considérés comme provenant de l'exercice d'une profession non commerciale ou comme revenus assimilés aux bénéfices non commerciaux, les bénéfices des professions libérales, des charges et offices dont les titulaires n'ont pas la qualité de commerçants et de toutes occupations, exploitations lucratives et sources de profits ne se rattachant pas à une autre catégorie de bénéfices ou de revenus.
 
-2\. Ces bénéfices comprennent notamment :
+1. Ces bénéfices comprennent notamment :
 
 1° Les produits des opérations de bourse effectuées dans des conditions analogues à celles qui caractérisent une activité exercée par une personne se livrant à titre professionnel à ce type d'opérations ;
 
@@ -20,7 +20,7 @@
 
 7° Les sommes perçues par les avocats en qualité de fiduciaire d'une opération de fiducie définie à l'article 2011 du code civil.
 
-3\. Les bénéfices réalisés par les greffiers titulaires de leur charge sont imposés, suivant les règles applicables aux bénéfices des charges et offices, d'après leur montant net déterminé sous déduction des traitements et indemnités alloués aux greffiers par l'Etat. Ces traitements et indemnités sont rangés dans la catégorie visée au V de la présente sous-section.
+3. Les bénéfices réalisés par les greffiers titulaires de leur charge sont imposés, suivant les règles applicables aux bénéfices des charges et offices, d'après leur montant net déterminé sous déduction des traitements et indemnités alloués aux greffiers par l'Etat. Ces traitements et indemnités sont rangés dans la catégorie visée au V de la présente sous-section.
 
 NOTA:
 Conformément au II de l'article 70 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions sont applicables à compter du 1er janvier 2023.

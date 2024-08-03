@@ -22,7 +22,7 @@ c) L'activité à l'origine des déficits ou des intérêts dont le transfert es
 
 d) Les déficits et intérêts susceptibles d'être transférés ne proviennent ni de la gestion d'un patrimoine mobilier par des sociétés dont l'actif est principalement composé de participations financières dans d'autres sociétés ou groupements assimilés ni de la gestion d'un patrimoine immobilier. Cette disposition ne s'applique pas aux organismes mentionnés aux articles L. 411-2 et L. 481-1 du code de la construction et de l'habitation.
 
-2\. Le transfert des déficits antérieurs, des charges financières nettes non déduites et de la capacité de déduction inemployée prévus au 1 est dispensé d'agrément lorsque :
+2. Le transfert des déficits antérieurs, des charges financières nettes non déduites et de la capacité de déduction inemployée prévus au 1 est dispensé d'agrément lorsque :
 
 a) Le montant cumulé des déficits antérieurs, des charges financières nettes non déduites et de la capacité de déduction inemployée, transférés est inférieur à 200 000 € ;
 
@@ -44,9 +44,9 @@ III bis. – En cas d'option pour le régime défini à l'article 209-0 B, les d
 
 IV. – 1. Pour la détermination du résultat imposable des sociétés d'assurance mutuelles, le droit d'adhésion versé par un sociétaire au cours de l'exercice de son adhésion et inscrit en comptabilité au compte " fonds d'établissement " est considéré comme un apport à hauteur d'un montant égal au rapport entre le montant minimal de la marge de solvabilité exigée par la réglementation et le nombre de sociétaires, constaté à la clôture de l'exercice précédent. Lorsque la marge de solvabilité effectivement constituée est inférieure au montant minimal réglementaire, le premier terme de ce rapport est majoré du montant de cette insuffisance.
 
-2\. Les sommes prélevées sur le compte " fonds d'établissement " sont rapportées au résultat imposable de l'exercice en cours à la date de ce prélèvement, dans la limite de celles ayant bénéficié des dispositions du 1.
+2. Les sommes prélevées sur le compte " fonds d'établissement " sont rapportées au résultat imposable de l'exercice en cours à la date de ce prélèvement, dans la limite de celles ayant bénéficié des dispositions du 1.
 
-3\. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le compte " fonds d'établissement " ; les pertes ainsi annulées cessent d'être reportables.
+1. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le compte " fonds d'établissement " ; les pertes ainsi annulées cessent d'être reportables.
 
 V. – Pour la détermination du résultat imposable des entreprises bénéficiant ou ayant bénéficié du régime défini à l'article 209-0 B, le montant des plus ou moins-values provenant de la cession de navires éligibles à ce régime et réalisées pendant ou après la période couverte par l'option visée au III de ce même article est réduit à concurrence du rapport existant entre la durée de détention pendant la période couverte par cette option et la durée totale de détention. La durée de détention couverte par l'option est décomptée à partir de la date de début d'exploitation du navire dans le cadre du régime défini à l'article 209-0 B par l'entreprise cédante lorsque cette dernière a acquis l'intégralité des parts de la société propriétaire du navire, puis a acquis le navire dans le cadre d'une opération bénéficiant des dispositions des articles 210 A, 210 B et 210 C.
 

@@ -28,13 +28,13 @@ IV. – 1. Par exception aux I, VI et VII du présent article, sont déductibles
 
 Le présent 1 s'applique aux charges financières nettes supportées dans le cadre des contrats mentionnés au premier alinéa signés à compter du 29 décembre 2012 et pour lesquels soit une consultation a été engagée, soit un avis d'appel à la concurrence ou un avis de concession a été envoyé à la publication, soit une procédure d'approbation par décret a été initiée avant la date de promulgation de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019.
 
-2\. Les charges financières nettes afférentes aux contrats mentionnés au 1 du présent IV sont déductibles dans la limite du plus élevé des deux montants suivants :
+2. Les charges financières nettes afférentes aux contrats mentionnés au 1 du présent IV sont déductibles dans la limite du plus élevé des deux montants suivants :
 
 a) Trois millions d'euros ;
 
 b) 30 % du résultat afférent à ces contrats et déterminé dans les conditions du II.
 
-3\. Les charges financières nettes non admises en déduction au titre d'un exercice, en application du 2 du présent IV, sont déductibles, au titre de cet exercice, à hauteur de 75 % de leur montant.
+3. Les charges financières nettes non admises en déduction au titre d'un exercice, en application du 2 du présent IV, sont déductibles, au titre de cet exercice, à hauteur de 75 % de leur montant.
 
 V. – Les charges financières nettes mentionnées au 1 du IV sont celles afférentes à des emprunts utilisés exclusivement pour financer des projets d'infrastructures publiques à long terme lorsque l'opérateur du projet, les charges financières, les actifs et les revenus se situent tous dans l'Union européenne.
 
@@ -64,7 +64,7 @@ Les charges financières nettes non admises en déduction en application du mêm
 
 Lorsque le groupe remplit les conditions prévues au premier alinéa du présent 1, il ne peut bénéficier du VI.
 
-2\. Pour l'application du 1 du présent VII, sont considérées comme des sommes laissées ou mises à disposition des entreprises membres du groupe par des entreprises non membres du groupe qui ne sont pas liées directement ou indirectement au sens du 12 de l'article 39, les sommes afférentes :
+2. Pour l'application du 1 du présent VII, sont considérées comme des sommes laissées ou mises à disposition des entreprises membres du groupe par des entreprises non membres du groupe qui ne sont pas liées directement ou indirectement au sens du 12 de l'article 39, les sommes afférentes :
 
 a) A des opérations de financement réalisées dans le cadre d'une convention de gestion centralisée de la trésorerie d'entreprises liées au sens du même 12 par l'une d'elles chargée de cette gestion centralisée au profit de laquelle les sommes sont mises à disposition ;
 
@@ -72,7 +72,7 @@ b) A l'acquisition de biens donnés en location dans les conditions prévues aux
 
 Sont également considérées comme des sommes laissées ou mises à disposition de l'entreprise par des entreprises qui ne lui sont pas liées directement ou indirectement au sens du 12 de l'article 39 du présent code les sommes laissées ou mises à disposition des établissements de crédit ou des sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier.
 
-3\. Le 1 du présent VII ne s'applique pas si le groupe apporte la preuve que le ratio d'endettement du groupe consolidé auquel les sociétés membres du groupe appartiennent est supérieur ou égal au ratio d'endettement déterminé au niveau du groupe au titre de l'exercice mentionné au même 1.
+3. Le 1 du présent VII ne s'applique pas si le groupe apporte la preuve que le ratio d'endettement du groupe consolidé auquel les sociétés membres du groupe appartiennent est supérieur ou égal au ratio d'endettement déterminé au niveau du groupe au titre de l'exercice mentionné au même 1.
 
 Pour l'application du premier alinéa du présent 3 :
 
@@ -86,7 +86,7 @@ d) Les dettes et les fonds propres déterminés au niveau du groupe et du groupe
 
 VIII. – 1. Les charges financières nettes non déduites en application des I et VI ainsi que du a du 1 du VII et celles reportables au titre de l'avant-dernier alinéa du même 1 au titre des exercices antérieurs peuvent être déduites à hauteur d'un montant égal à la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice ou, lorsque la condition mentionnée au premier alinéa du 1 du VII est remplie, la limite mentionnée au a du même 1 appliquée au titre de l'exercice et les charges financières nettes de l'exercice minorées, le cas échéant, de celles soumises au plafonnement du b dudit 1 des sociétés du groupe. Les charges financières nettes non déduites après application du présent 1 peuvent être déduites dans les mêmes conditions au titre des exercices suivants.
 
-2\. La capacité de déduction inemployée, entendue comme la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice et les charges financières nettes admises en déduction au titre de l'exercice en application des I et VI ainsi que du 1 du présent VIII, peut être utilisée au titre des cinq exercices suivants pour déduire du résultat d'ensemble le montant de charges financières nettes non admises en déduction après application des I et VI. Cette capacité de déduction inemployée ne peut être utilisée pour déduire des charges financières en report conformément au 1 du présent VIII.
+2. La capacité de déduction inemployée, entendue comme la différence positive entre la limite mentionnée au I appliquée au titre de l'exercice et les charges financières nettes admises en déduction au titre de l'exercice en application des I et VI ainsi que du 1 du présent VIII, peut être utilisée au titre des cinq exercices suivants pour déduire du résultat d'ensemble le montant de charges financières nettes non admises en déduction après application des I et VI. Cette capacité de déduction inemployée ne peut être utilisée pour déduire des charges financières en report conformément au 1 du présent VIII.
 
 IX. – Un décret fixe les obligations déclaratives de la société mère du groupe mentionné au I.
 

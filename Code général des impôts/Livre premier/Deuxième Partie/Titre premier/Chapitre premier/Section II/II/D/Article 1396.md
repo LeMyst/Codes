@@ -22,10 +22,10 @@ D. – 1. La majoration n'est pas applicable :
 
 4° Aux terrains appartenant ou donnés à bail à une personne relevant d'un régime de protection sociale agricole, au sens de l'article L. 722-1 du code rural et de la pêche maritime, ou mentionnée à l'article L. 731-23 du même code et utilisés pour les besoins d'une exploitation agricole, au sens de l'article 63 du présent code.
 
-2\. Bénéficient, sur réclamation présentée dans le délai indiqué à l'article R. * 196-2 du livre des procédures fiscales et dans les formes prévues par ce même livre, d'un dégrèvement de la fraction de leur cotisation résultant de la majoration, qui s'impute sur les attributions correspondantes mentionnées à l'article L. 2332-2 du code général des collectivités territoriales :
+2. Bénéficient, sur réclamation présentée dans le délai indiqué à l'article R. * 196-2 du livre des procédures fiscales et dans les formes prévues par ce même livre, d'un dégrèvement de la fraction de leur cotisation résultant de la majoration, qui s'impute sur les attributions correspondantes mentionnées à l'article L. 2332-2 du code général des collectivités territoriales :
 
 1° Les contribuables qui justifient avoir obtenu au 31 décembre de l'année d'imposition, pour le terrain faisant l'objet de la majoration, un permis de construire, un permis d'aménager ou une autorisation de lotir. Toutefois, la majoration est rétablie rétroactivement en cas de péremption du permis de construire, du permis d'aménager ou de l'autorisation de lotir ;
 
 2° Les contribuables qui justifient avoir cédé au 31 décembre de l'année d'imposition le terrain faisant l'objet de la majoration.
 
-3\. La majoration n'est pas prise en compte pour l'établissement des taxes spéciales d'équipement prévues aux articles 1607 bis à 1609 H.
+3. La majoration n'est pas prise en compte pour l'établissement des taxes spéciales d'équipement prévues aux articles 1607 bis à 1609 H.

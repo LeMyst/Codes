@@ -6,19 +6,19 @@ Un débitant de tabac ne peut gérer son activité que sous la forme juridique d
 
 Dans l'hypothèse où l'activité est exercée sous forme de société en nom collectif :
 
-\- l'activité de vente de tabac doit figurer dans l'objet social ;
+- l'activité de vente de tabac doit figurer dans l'objet social ;
 
-\- l'ensemble des activités commerciales et l'activité de vente au détail des tabacs manufacturés sont gérés sous la même forme juridique d'exploitation ;
+- l'ensemble des activités commerciales et l'activité de vente au détail des tabacs manufacturés sont gérés sous la même forme juridique d'exploitation ;
 
-\- la société en nom collectif prend en charge l'actif et le passif de l'ensemble des activités, y compris, pour les sociétés déjà constituées, le passif de l'activité de vente de tabac antérieur à l'extension de l'objet social ;
+- la société en nom collectif prend en charge l'actif et le passif de l'ensemble des activités, y compris, pour les sociétés déjà constituées, le passif de l'activité de vente de tabac antérieur à l'extension de l'objet social ;
 
-\- chacun des associés doit remplir l'ensemble des conditions d'agrément fixées par décret.
+- chacun des associés doit remplir l'ensemble des conditions d'agrément fixées par décret.
 
 Pour chaque catégorie fiscale de tabac, le taux du droit de licence appliqué à la remise mentionnée au 3° du I de l'article 570 est fixé conformément au tableau ci-après :
 
-| Année | Taux (en %) |
+|  Année |  Taux (en %) |
 | --- | --- |
-| À partir du 1er janvier 2022 | 17,729 |
+|  À partir du 1er janvier 2022 |  17,729 |
 
 Le droit de licence est exigible à la mise à la consommation des tabacs manufacturés. Il est liquidé par les fournisseurs mentionnés au 1 de l'article 565, au plus tard le 10 de chaque mois, sur la base d'une déclaration des quantités livrées au débitant au cours du mois précédent transmise à l'administration. Il est acquitté, le 5 du mois suivant celui de la liquidation, auprès de l'administration, par les mêmes fournisseurs et pour le compte des débitants. Jusqu'au 31 décembre 2022, sauf pour les débitants constitués en société sous la forme juridique de sociétés en nom collectif dont les associés sont des personnes morales, l'administration restitue les sommes qu'elle a encaissées au titre du droit de licence jusqu'à un seuil de chiffre d'affaires annuel réalisé sur les livraisons de tabacs manufacturés fixé à 157 303 € pour les débits de France continentale et à 125 842 € pour ceux situés en Corse. La restitution est réservée aux débitants dont le montant des livraisons de tabacs manufacturés de l'année précédente est inférieur à 500 000 €. Elle fait l'objet d'un versement annuel sur la base des déclarations mensuelles des livraisons effectuées à chaque débitant, adressées par les fournisseurs au plus tard le neuvième jour du mois suivant. Un décret fixe les modalités et conditions d'application du présent alinéa.
 

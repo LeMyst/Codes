@@ -1,6 +1,6 @@
 # Article 187
 
-1\. Sous réserve des dispositions du 2, le taux de la retenue à la source prévue à l'article 119 bis est fixé à :
+1. Sous réserve des dispositions du 2, le taux de la retenue à la source prévue à l'article 119 bis est fixé à :
 
 1° Pour les bénéficiaires personnes morales ou organismes, quelle que soit leur forme :
 
@@ -12,7 +12,7 @@ Celui prévu au 2° de l'article 219 bis, pour les dividendes qui bénéficient 
 
 2° 12,8 % pour les bénéficiaires personnes physiques.
 
-2\. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à 75 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, sauf si le débiteur apporte la preuve que les distributions de ces produits dans cet Etat ou territoire n'ont ni pour objet ni pour effet de permettre, dans un but de fraude fiscale, leur localisation dans un tel Etat ou territoire.
+2. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à 75 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, sauf si le débiteur apporte la preuve que les distributions de ces produits dans cet Etat ou territoire n'ont ni pour objet ni pour effet de permettre, dans un but de fraude fiscale, leur localisation dans un tel Etat ou territoire.
 
 NOTA:
 Modifications effectuées en conséquence de l’article 84-I F 2° et III D de la loi n° 2017-1837 du 30 décembre 2017.

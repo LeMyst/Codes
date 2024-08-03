@@ -12,7 +12,7 @@ Le franchissement à la baisse du seuil est pris en compte lorsque ce montant n'
 
 Par exception, en cas de construction nouvelle ou de début d'activité, le franchissement à la hausse du seuil l'année suivant celle de la construction nouvelle ou du début d'activité est pris en compte dès l'année suivant celle du franchissement.
 
-2\. Pour l'appréciation du seuil prévu au 1, est prise en compte la valeur d'origine des installations techniques, matériels et outillages, détenus par l'exploitant ou le propriétaire ou mis à sa disposition, à titre onéreux ou gratuit, pendant une durée totale d'au moins six mois au cours de l'année civile précédant celle au titre de laquelle l'imposition est établie ou, en cas de clôture d'un exercice égal à douze mois au cours de cette même année, au cours de cet exercice.
+2. Pour l'appréciation du seuil prévu au 1, est prise en compte la valeur d'origine des installations techniques, matériels et outillages, détenus par l'exploitant ou le propriétaire ou mis à sa disposition, à titre onéreux ou gratuit, pendant une durée totale d'au moins six mois au cours de l'année civile précédant celle au titre de laquelle l'imposition est établie ou, en cas de clôture d'un exercice égal à douze mois au cours de cette même année, au cours de cet exercice.
 
 C.-Le B s'applique aux bâtiments et terrains qui sont affectés à une activité entrant dans le champ de la cotisation foncière des entreprises défini à l'article 1447.
 

@@ -38,7 +38,7 @@ b. Les ventes de produits pétroliers livrés en Corse ;
 
 8° (Disposition devenue sans objet).
 
-2\. Les mêmes dispositions sont applicables aux importations et acquisitions intracommunautaires en Corse et aux expéditions de France continentale à destination de la Corse, des produits qui sont visés au 1.
+2. Les mêmes dispositions sont applicables aux importations et acquisitions intracommunautaires en Corse et aux expéditions de France continentale à destination de la Corse, des produits qui sont visés au 1.
 
 II. - (Abrogé).
 

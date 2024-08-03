@@ -40,7 +40,7 @@ V. – Sont exonérés de la taxe :
 
 VI. – Les tarifs sont applicables dans les conditions suivantes :
 
-1\. a. Des tarifs distincts au mètre carré sont appliqués par circonscription telle que définie ci-après :
+1. a. Des tarifs distincts au mètre carré sont appliqués par circonscription telle que définie ci-après :
 
 1° Première circonscription : 1er, 2e, 7e, 8e, 9e, 10e, 15e, 16e et 17e arrondissements de Paris et les communes de Boulogne-Billancourt, Courbevoie, Issy-les-Moulineaux, Levallois-Perret, Neuilly-sur-Seine et Puteaux ;
 
@@ -58,40 +58,40 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2\. Les tarifs au mètre carré sont fixés, pour l'année 2024, conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2024, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
 (en euros)
 
-| 1re CIRCONSCRIPTION | | 2e CIRCONSCRIPTION | | 3e CIRCONSCRIPTION | | 4e CIRCONSCRIPTION | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit |
-| 25,31 € | 12,58 € | 21,31 € | 10,59 € | 11,66 € | 7,02 € | 5,63 € | 5,09 € |
+|  1re CIRCONSCRIPTION |  2e CIRCONSCRIPTION |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
+| --- | --- | --- | --- |
+|  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |
+|  25,31 € |  12,58 € |  21,31 € |  10,59 € |  11,66 € |  7,02 € |  5,63 € |  5,09 € |
 
 b) Pour les locaux commerciaux :
 
 (en euros)
 
-| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
+|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 8,68 € | 4,51 € | 2,30 € |
+|  8,68 € |  4,51 € |  2,30 € |
 
 c) Pour les locaux de stockage :
 
 (en euros)
 
-| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
+|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 4,53 € | 2,30 € | 1,18 € |
+|  4,53 € |  2,30 € |  1,18 € |
 
 d) Pour les surfaces de stationnement :
 
 (en euros)
 
-| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
+|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 2,86 € | 1,55 € | 0,81 € |
+|  2,86 € |  1,55 € |  0,81 € |
 
 e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 

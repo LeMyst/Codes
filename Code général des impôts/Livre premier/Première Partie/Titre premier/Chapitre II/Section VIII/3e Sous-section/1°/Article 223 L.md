@@ -1,16 +1,16 @@
 # Article 223 L
 
-1\. (sans objet).
+1. (sans objet).
 
-2\. Les sociétés du groupe ne peuvent pas bénéficier du crédit d'impôt mentionné aux articles 220 quater et 220 quater A.
+1. Les sociétés du groupe ne peuvent pas bénéficier du crédit d'impôt mentionné aux articles 220 quater et 220 quater A.
 
-3\. Les déductions effectuées par des sociétés du groupe au titre des dispositions du II de l'article 217 undecies à raison des sommes versées pour la souscription au capital d'autres sociétés du même groupe sont réintégrées au résultat d'ensemble.
+1. Les déductions effectuées par des sociétés du groupe au titre des dispositions du II de l'article 217 undecies à raison des sommes versées pour la souscription au capital d'autres sociétés du même groupe sont réintégrées au résultat d'ensemble.
 
-4\. (Abrogé)
+1. (Abrogé)
 
-5\. Pour le calcul de la participation et de la réserve spéciale de participation prévues par les articles L. 3321-1 à L. 3326-2 du code du travail, chaque société du groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme si elle était imposée séparément.
+1. Pour le calcul de la participation et de la réserve spéciale de participation prévues par les articles L. 3321-1 à L. 3326-2 du code du travail, chaque société du groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme si elle était imposée séparément.
 
-6\. a) (Abrogé).
+1. a) (Abrogé).
 
 b) (Périmé).
 

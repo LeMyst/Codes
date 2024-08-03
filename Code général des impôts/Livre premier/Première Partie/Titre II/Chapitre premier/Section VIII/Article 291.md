@@ -2,7 +2,7 @@
 
 I. - 1. Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
 
-2\. Est considérée comme importation d'un bien :
+2. Est considérée comme importation d'un bien :
 
 a. l'entrée en France d'un bien, originaire ou en provenance d'un Etat ou d'un territoire n'appartenant pas à l'Union européenne, et qui n'a pas été mis en libre pratique, ou d'un bien en provenance d'un territoire visé au 1° de l'article 256-0 d'un autre Etat membre de l'Union européenne ;
 

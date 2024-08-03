@@ -8,9 +8,9 @@ b) Le prix de souscription ou le prix d'acquisition originel du droit correspond
 
 II. - Constitue une prime de remboursement :
 
-1\. Pour les emprunts négociables visés à l'article 118 et aux 6° et 7° de l'article 120, et les titres de créances négociables visés à l'article 124 B émis à compter du 1er janvier 1992, la différence entre les sommes ou valeurs à recevoir et celles versées lors de l'acquisition ; toutefois, n'entrent pas dans la définition de la prime les intérêts versés chaque année et restant à recevoir après l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 et aux 6° et 7° de l'article 120, et les titres de créances négociables visés à l'article 124 B émis à compter du 1er janvier 1992, la différence entre les sommes ou valeurs à recevoir et celles versées lors de l'acquisition ; toutefois, n'entrent pas dans la définition de la prime les intérêts versés chaque année et restant à recevoir après l'acquisition ;
 
-2\. Pour les emprunts ou titres de même nature démembrés à compter du 1er juin 1991, la différence entre les sommes ou valeurs à recevoir et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de toute autre rémunération de l'emprunt, ou du titre représentatif de l'un de ces droits.
+1. Pour les emprunts ou titres de même nature démembrés à compter du 1er juin 1991, la différence entre les sommes ou valeurs à recevoir et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de toute autre rémunération de l'emprunt, ou du titre représentatif de l'un de ces droits.
 
 Les dispositions du présent II sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en bourse unique si une partie de cet emprunt a été émise après le 1er janvier 1992.
 

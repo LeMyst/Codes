@@ -36,7 +36,7 @@ V.-1. Le prélèvement prévu au I n'est pas libératoire de l'impôt sur le rev
 
 Ce prélèvement s'impute sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle il a été opéré. S'il excède l'impôt dû, l'excédent est restitué.
 
-2\. Les prélèvements prévus aux II et III libèrent les revenus auxquels ils s'appliquent de l'impôt sur le revenu.
+2. Les prélèvements prévus aux II et III libèrent les revenus auxquels ils s'appliquent de l'impôt sur le revenu.
 
 Le caractère libératoire du prélèvement ne peut être invoqué pour les produits qui sont pris en compte pour la détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une profession non commerciale.
 

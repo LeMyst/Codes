@@ -4,9 +4,9 @@ I. 1. L'imposition de la plus-value retirée de la cession de titres mentionnés
 
 Le report est subordonné à la condition que le contribuable en fasse la demande et déclare le montant de la plus-value dans la déclaration prévue à l'article 97 et dans le délai applicable à cette déclaration.
 
-2\. Le report d'imposition est subordonné à la condition qu'à la date de la cession les droits détenus directement par les membres du foyer fiscal du cédant excèdent 5 % des bénéfices sociaux de la société dont les titres sont cédés.
+2. Le report d'imposition est subordonné à la condition qu'à la date de la cession les droits détenus directement par les membres du foyer fiscal du cédant excèdent 5 % des bénéfices sociaux de la société dont les titres sont cédés.
 
-3\. Le report d'imposition est, en outre, subordonné aux conditions suivantes :
+1. Le report d'imposition est, en outre, subordonné aux conditions suivantes :
 
 a) Au cours des trois années précédant la cession ou depuis la création de la société dont les titres sont cédés si elle est créée depuis moins de trois années, le cédant doit avoir été salarié de ladite société ou y avoir exercé l'une des fonctions énumérées au 1° de du 1 du III de l'article 975 ;
 
@@ -24,13 +24,13 @@ g) Les droits dans les bénéfices sociaux de la société bénéficiaire de l'a
 
 h) Les personnes mentionnées au g ne doivent ni être associées de la société bénéficiaire de l'apport préalablement à l'opération d'apport, ni y exercer les fonctions énumérées au 1° du 1 du III de l'article 975 depuis sa création et pendant une période de cinq ans suivant la date de réalisation de l'apport.
 
-4\. Le report d'imposition prévu au présent article est exclusif de l'application des dispositions de l'article 199 terdecies-0 A.
+4. Le report d'imposition prévu au présent article est exclusif de l'application des dispositions de l'article 199 terdecies-0 A.
 
-5\. Le non-respect de l'une des conditions prévues pour l'application du présent article entraîne, nonobstant toutes dispositions contraires, l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard prévu à l'article 1727 décompté de la date à laquelle cet impôt aurait dû être acquitté.
+1. Le non-respect de l'une des conditions prévues pour l'application du présent article entraîne, nonobstant toutes dispositions contraires, l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard prévu à l'article 1727 décompté de la date à laquelle cet impôt aurait dû être acquitté.
 
-6\. A compter du 1er janvier 2000, lorsque les titres reçus en contrepartie de l'apport font l'objet d'une opération d'échange dans les conditions prévues au II de l'article 150 UB et à l'article 150-0 B, l'imposition de la plus-value antérieurement reportée en application du 1 est reportée de plein droit au moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation des nouveaux titres reçus.
+1. A compter du 1er janvier 2000, lorsque les titres reçus en contrepartie de l'apport font l'objet d'une opération d'échange dans les conditions prévues au II de l'article 150 UB et à l'article 150-0 B, l'imposition de la plus-value antérieurement reportée en application du 1 est reportée de plein droit au moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation des nouveaux titres reçus.
 
-7\. (Abrogé)
+1. (Abrogé)
 
 II. – Lorsque les titres reçus dans les cas prévus aux 1 et 6 du I font l'objet d'une cession dont le produit est investi dans la souscription en numéraire au capital d'une société dans les conditions fixées au même I, l'imposition des plus-values antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la transmission, le rachat ou l'annulation des nouveaux titres reçus à condition que l'imposition de la plus-value réalisée lors de cette cession soit elle-même reportée. Dans ce cas, les conditions prévues au 2 et au a du 3 du I ne sont pas applicables.
 

@@ -1,6 +1,6 @@
 # Article 207
 
-1\. Sont exonérés de l'impôt sur les sociétés :
+1. Sont exonérés de l'impôt sur les sociétés :
 
 1° (dispositions devenues sans objet) ;
 
@@ -112,9 +112,9 @@ Les résultats sont déterminés selon les règles visées à l'article 209 avan
 
 1 quinquies. Pour l'application des dispositions du 1 ter et du 1 quater, sont regardées comme associés non coopérateurs les personnes physiques ou morales qui n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux à la réalisation des objectifs de celle-ci.
 
-2\. (Abrogé).
+2. (Abrogé).
 
-3\. (Abrogé).
+1. (Abrogé).
 
 NOTA:
 Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

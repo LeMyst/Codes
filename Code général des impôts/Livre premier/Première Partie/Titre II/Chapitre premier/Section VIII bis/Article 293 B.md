@@ -20,15 +20,15 @@ a) Aux assujettis dont le chiffre d'affaires de l'année en cours dépasse le mo
 
 b) Ou à ceux dont le chiffre d'affaires de l'année en cours afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, dépasse le montant mentionné au b du 2° du I.
 
-2\. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
+2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
 III. – Le chiffre d'affaires limite de la franchise prévue au I est fixé à 47 700 € :
 
-1\. Pour les opérations réalisées par les avocats et les avocats au Conseil d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
+1. Pour les opérations réalisées par les avocats et les avocats au Conseil d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
 
-2\. Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit, à l'exception des architectes ;
+1. Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit, à l'exception des architectes ;
 
-3\. Pour l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes visés à l'article L. 212-1 du code de la propriété intellectuelle.
+1. Pour l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes visés à l'article L. 212-1 du code de la propriété intellectuelle.
 
 IV. – Pour leurs livraisons de biens et leurs prestations de services qui n'ont pas bénéficié de l'application de la franchise prévue au III, ces assujettis bénéficient également d'une franchise lorsque le chiffre d'affaires correspondant réalisé au cours de l'année civile précédente n'excède pas 19 600 €.
 

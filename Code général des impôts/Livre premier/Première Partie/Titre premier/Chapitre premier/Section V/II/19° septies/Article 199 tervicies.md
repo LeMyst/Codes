@@ -48,11 +48,11 @@ IV bis. – 1. La réduction d'impôt est applicable, dans les mêmes conditions
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la condition qu'au minimum 65 % du montant de la souscription servent exclusivement à financer des dépenses mentionnées au II et que 30 % au minimum servent exclusivement à financer l'acquisition d'immeubles mentionnés au I. Le produit de la souscription doit être intégralement affecté dans les dix-huit mois qui suivent la clôture de celle-ci.
 
-2\. La réduction d'impôt est égale à 22 % du montant de la souscription affecté au financement des dépenses mentionnées au II, retenu dans la limite de 400 000 € pour une période de quatre années consécutives. Ce taux est porté à 30 % lorsque le montant de la souscription est affecté au financement de dépenses relatives à un immeuble mentionné au a du 1° ou aux 2° ou 2° bis du I.
+2. La réduction d'impôt est égale à 22 % du montant de la souscription affecté au financement des dépenses mentionnées au II, retenu dans la limite de 400 000 € pour une période de quatre années consécutives. Ce taux est porté à 30 % lorsque le montant de la souscription est affecté au financement de dépenses relatives à un immeuble mentionné au a du 1° ou aux 2° ou 2° bis du I.
 
-3\. La société doit prendre l'engagement de louer l'immeuble au titre duquel les dépenses sont réalisées dans les conditions prévues au IV. L'associé doit s'engager à conserver la propriété de ses titres jusqu'au terme de l'engagement de location souscrit par la société.
+1. La société doit prendre l'engagement de louer l'immeuble au titre duquel les dépenses sont réalisées dans les conditions prévues au IV. L'associé doit s'engager à conserver la propriété de ses titres jusqu'au terme de l'engagement de location souscrit par la société.
 
-4\. La réduction d'impôt est accordée au titre de l'année de réalisation de la souscription mentionnée au 1 et imputée sur l'impôt dû au titre de cette même année. Lorsque la fraction de la réduction d'impôt imputable au titre d'une année d'imposition excède l'impôt dû par le contribuable au titre de cette même année, le solde peut être imputé sur l'impôt sur le revenu dû au titre des trois années suivantes.
+1. La réduction d'impôt est accordée au titre de l'année de réalisation de la souscription mentionnée au 1 et imputée sur l'impôt dû au titre de cette même année. Lorsque la fraction de la réduction d'impôt imputable au titre d'une année d'imposition excède l'impôt dû par le contribuable au titre de cette même année, le solde peut être imputé sur l'impôt sur le revenu dû au titre des trois années suivantes.
 
 V. – Un contribuable ne peut, pour un même local ou une même souscription de parts, bénéficier à la fois de l'une des réductions d'impôt prévues aux articles 199 decies E à 199 decies G, 199 decies I ou 199 undecies A et des dispositions du présent article.
 

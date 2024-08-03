@@ -20,19 +20,19 @@ Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L du 
 
 II.-1. Le résultat net de la concession est déterminé par différence entre les revenus, acquis au cours de l'exercice, tirés des actifs éligibles et les dépenses de recherche et de développement qui se rattachent directement à ces actifs et qui sont réalisées, directement ou indirectement par l'entreprise, au cours du même exercice. Au titre du premier exercice pour lequel le revenu net est calculé, celui-ci est diminué de l'ensemble des dépenses en lien direct avec la création, l'acquisition et le développement de l'actif incorporel, y compris celles réalisées antérieurement au cours des exercices ouverts à compter de la date à laquelle l'option pour le présent régime est exercée par l'entreprise dans les conditions prévues au V.
 
-2\. Lorsque le résultat net déterminé au 1 est négatif, il est imputé sur les résultats nets de concession du même actif, du même bien ou service ou de la même famille de biens ou services réalisés au cours des exercices suivants.
+2. Lorsque le résultat net déterminé au 1 est négatif, il est imputé sur les résultats nets de concession du même actif, du même bien ou service ou de la même famille de biens ou services réalisés au cours des exercices suivants.
 
 III.-1. Pour la détermination du résultat net imposé en application du I, le résultat net bénéficiaire déterminé au 1 du II est multiplié par le rapport existant entre, au numérateur, les dépenses de recherche et de développement en lien direct avec la création et le développement de l'actif incorporel réalisées directement par le contribuable ou par des entreprises sans lien de dépendance au sens du 12 de l'article 39 avec celui-ci et, au dénominateur, l'intégralité des dépenses de recherche et de développement ou d'acquisition en lien direct avec la création, l'acquisition et le développement de l'actif incorporel et réalisées directement ou indirectement par le contribuable.
 
 Pour l'application du rapport mentionné au premier alinéa du présent 1, il n'est pas tenu compte des coûts afférents aux emprunts, aux terrains et aux bâtiments.
 
-2\. Le rapport mentionné au 1 est calculé au titre de chaque exercice et tient compte des dépenses réalisées par le contribuable au titre de cet exercice ainsi que de celles réalisées au titre des exercices antérieurs.
+2. Le rapport mentionné au 1 est calculé au titre de chaque exercice et tient compte des dépenses réalisées par le contribuable au titre de cet exercice ainsi que de celles réalisées au titre des exercices antérieurs.
 
 Par dérogation au premier alinéa du présent 2, le contribuable peut ne tenir compte, au titre des dépenses réalisées au cours des exercices antérieurs, que de celles réalisées au titre des exercices ouverts à compter du 1er janvier 2019.
 
 Les dépenses du numérateur sont retenues pour 130 % de leur montant. Le rapport obtenu est arrondi au nombre entier supérieur et ne peut pas excéder 100 %.
 
-3\. Par dérogation au 1, le contribuable peut, en raison de circonstances exceptionnelles et après obtention d'un agrément délivré dans les conditions prévues à l'article 1649 nonies, substituer au rapport défini au 1 du présent III un rapport de remplacement représentant la proportion de la valeur de l'actif éligible qui serait effectivement attribuable aux activités de recherche et développement réalisées directement par le contribuable ou par des entreprises sans lien de dépendance au sens du 12 de l'article 39 avec celui-ci.
+3. Par dérogation au 1, le contribuable peut, en raison de circonstances exceptionnelles et après obtention d'un agrément délivré dans les conditions prévues à l'article 1649 nonies, substituer au rapport défini au 1 du présent III un rapport de remplacement représentant la proportion de la valeur de l'actif éligible qui serait effectivement attribuable aux activités de recherche et développement réalisées directement par le contribuable ou par des entreprises sans lien de dépendance au sens du 12 de l'article 39 avec celui-ci.
 
 La proportion de la valeur mentionnée au premier alinéa du présent 3 correspond à celle que lui reconnaîtraient des personnes sans lien de dépendance avec le contribuable au sens du 12 de l'article 39 qui auraient engagé, dans des conditions analogues, ces activités de recherche et développement.
 

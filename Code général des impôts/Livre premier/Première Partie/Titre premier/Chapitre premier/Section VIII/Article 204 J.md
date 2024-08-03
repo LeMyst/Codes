@@ -10,9 +10,9 @@ Le taux du prélèvement ou l'assiette de l'acompte modulés à la hausse par le
 
 III. – 1. La modulation à la baisse du prélèvement n'est possible que si le montant du prélèvement estimé par le contribuable au titre de sa situation et de ses revenus de l'année en cours est inférieur de plus de 5 % au montant du prélèvement qu'il supporterait en l'absence de cette modulation.
 
-2\. Le contribuable qui souhaite que son prélèvement soit modulé déclare, sous sa responsabilité, sa situation et l'estimation de l'ensemble de ses revenus au titre de l'année en cours. Lorsque l'administration n'en a pas la disposition, le contribuable déclare sa situation et l'ensemble de ses revenus réalisés au titre de l'année précédente.
+2. Le contribuable qui souhaite que son prélèvement soit modulé déclare, sous sa responsabilité, sa situation et l'estimation de l'ensemble de ses revenus au titre de l'année en cours. Lorsque l'administration n'en a pas la disposition, le contribuable déclare sa situation et l'ensemble de ses revenus réalisés au titre de l'année précédente.
 
-3\. L'administration fiscale calcule le prélèvement résultant de la déclaration prévue au 2 du présent III en appliquant au montant des revenus estimés, déterminé dans les conditions prévues à l'article 204 F et à l'article 204 G, à l'exception du 7° du 2 du même article 204 G, un taux calculé selon les modalités du 1 du I de l'article 204 H, les revenus pris en compte pour le calcul de ce taux étant ceux résultant de la déclaration mentionnée au 2 du présent III et l'impôt sur le revenu y afférent étant celui résultant de l'application à ces revenus des règles prévues aux 1 à 4 du I de l'article 197 ou, le cas échéant, à l'article 197 A en vigueur à la date de la demande.
+1. L'administration fiscale calcule le prélèvement résultant de la déclaration prévue au 2 du présent III en appliquant au montant des revenus estimés, déterminé dans les conditions prévues à l'article 204 F et à l'article 204 G, à l'exception du 7° du 2 du même article 204 G, un taux calculé selon les modalités du 1 du I de l'article 204 H, les revenus pris en compte pour le calcul de ce taux étant ceux résultant de la déclaration mentionnée au 2 du présent III et l'impôt sur le revenu y afférent étant celui résultant de l'application à ces revenus des règles prévues aux 1 à 4 du I de l'article 197 ou, le cas échéant, à l'article 197 A en vigueur à la date de la demande.
 
 Dans le cas prévu au 2° du 5 du présent III, l'estimation mentionnée au premier alinéa du présent 3 s'entend comme celle réalisée conjointement par les deux membres du couple.
 
@@ -20,13 +20,13 @@ Dans le cas prévu au 3° du 5 du présent III, l'estimation mentionnée au prem
 
 Dans le cas prévu au 4° du 5 du présent III, l'estimation mentionnée au premier alinéa du présent 3 s'entend comme celle réalisée par l'ancien conjoint ou partenaire au titre de l'année entière.
 
-4\. L'administration fiscale calcule le montant du prélèvement que le contribuable supporterait en l'absence de cette modulation selon les modalités suivantes :
+4. L'administration fiscale calcule le montant du prélèvement que le contribuable supporterait en l'absence de cette modulation selon les modalités suivantes :
 
 a) Le montant de retenue à la source pris en compte est calculé en appliquant au montant de l'assiette mentionnée à l'article 204 F déclarée par le contribuable au titre de l'année en cours les deux tiers du taux qui s'applique entre le 1er janvier et le 31 août et le tiers du taux qui s'applique entre le 1er septembre et le 31 décembre, en application du 2 du I de l'article 204 H, du III du même article 204 H en retenant le taux sur une base annuelle en application du d du 1 du III dudit article 204 H ou, lorsque le contribuable a déclaré au cours de la dernière ou de l'avant-dernière année un changement de situation mentionné à l'article 204 I, en application du même article 204 I ;
 
 b) Le montant de l'acompte pris en compte est le montant des versements acquittés en application de l'article 1663 C à la date de la demande de modulation, auxquels s'ajoutent les versements qui seraient opérés, en l'absence de modulation, après cette date par application des articles 204 G et 204 I, dans les conditions prévues au même article 1663 C.
 
-5\. Par dérogation au 4 du présent III :
+5. Par dérogation au 4 du présent III :
 
 1° Lorsque le prélèvement dont le contribuable demande la modulation est consécutif à une précédente modulation réalisée au cours de la même année :
 
@@ -58,7 +58,7 @@ a) Le montant de retenue à la source pris en compte est calculé en appliquant 
 
 b) Le montant de l'acompte pris en compte est le montant des versements acquittés en application de l'article 1663 C à la date de la demande de modulation, auxquels s'ajoutent les versements qui seraient opérés après cette date, en l'absence de modulation, en application du 4° du 3 de l'article 204 I.
 
-6\. Lorsque le contribuable décide de moduler à la baisse son prélèvement :
+6. Lorsque le contribuable décide de moduler à la baisse son prélèvement :
 
 1° Le taux modulé calculé dans les conditions prévues au 3 du présent III s'applique au plus tard le troisième mois qui suit celui de la décision de modulation et jusqu'au 31 décembre de l'année ;
 

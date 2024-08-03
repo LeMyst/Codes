@@ -1,10 +1,10 @@
 # Article 293 A
 
-1\. A l'importation, le fait générateur se produit et la taxe devient exigible au moment où le bien est considéré comme importé, au sens du 2 du I de l'article 291.
+1. A l'importation, le fait générateur se produit et la taxe devient exigible au moment où le bien est considéré comme importé, au sens du 2 du I de l'article 291.
 
 La déclaration d'importation s'entend de la déclaration en douane, au sens du 12 de l'article 5 du code des douanes de l'Union, y compris pour les échanges mentionnés au 3 de l'article 1er du même code.
 
-2\. Le redevable de la taxe est :
+2. Le redevable de la taxe est :
 
 1° Lorsque le bien fait l'objet d'une livraison située en France, conformément aux I à III de l'article 258, la personne qui réalise cette livraison ;
 
@@ -36,7 +36,7 @@ b) Le débiteur de la dette douanière déterminé en application du 3 de l'arti
 
 4° Par dérogation aux 1° à 3°, la personne recourant à l'option prévue à l'article 293 A quater.
 
-3\. Le redevable assujetti communique à l'administration chargée de la gestion de la déclaration des droits de douanes, outre les informations nécessaires pour constater la base imposable conformément au dernier alinéa de l'article 292 :
+3. Le redevable assujetti communique à l'administration chargée de la gestion de la déclaration des droits de douanes, outre les informations nécessaires pour constater la base imposable conformément au dernier alinéa de l'article 292 :
 
 1° L'identifiant prévu à l'article 286 ter en cours de validité ou, lorsque l'exonération prévue au 11° du II de l'article 291 s'applique, celui mentionné au même 11° ;
 
@@ -50,8 +50,8 @@ Un arrêté du ministre chargé du budget définit les informations prévues au 
 
 Les manquements aux dispositions du présent 3 sont sanctionnés dans les conditions prévues au chapitre VI du titre XII du code des douanes. Ils sont constatés selon les mêmes procédures et les réclamations sont présentées, instruites et jugées selon les règles applicables aux manquements prévus au même chapitre VI.
 
-4\. Le représentant en douane, au sens du 6 de l'article 5 du code des douanes de l'Union, lorsqu'il agit en son nom propre et pour le compte d'autrui, est solidaire du paiement de la taxe.
+4. Le représentant en douane, au sens du 6 de l'article 5 du code des douanes de l'Union, lorsqu'il agit en son nom propre et pour le compte d'autrui, est solidaire du paiement de la taxe.
 
 Le représentant en douane transmet au redevable ou lui rend accessible par voie électronique, au plus tard lors de la réception des marchandises par le destinataire, l'information de la base imposable constatée conformément au dernier alinéa de l'article 292 ainsi que les documents nécessaires pour l'exercice du droit à déduction conformément au 2 de l'article 271.
 
-5\. Sans préjudice du 4, dans les cas mentionnés aux b et c du 2° du 2, la personne qui réalise la livraison du bien importé et le destinataire de cette livraison sont solidairement tenus au paiement de la taxe.
+5. Sans préjudice du 4, dans les cas mentionnés aux b et c du 2° du 2, la personne qui réalise la livraison du bien importé et le destinataire de cette livraison sont solidairement tenus au paiement de la taxe.

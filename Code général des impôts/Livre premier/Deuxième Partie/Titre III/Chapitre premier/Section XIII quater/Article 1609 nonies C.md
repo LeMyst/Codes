@@ -4,7 +4,7 @@ I. – Les établissements publics de coopération intercommunale mentionnés au
 
 I bis. – Ils sont également substitués aux communes membres pour la perception :
 
-1\. Du produit des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives :
+1. Du produit des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives :
 
 a) Aux installations de production d'électricité utilisant l'énergie mécanique du vent et aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue à l'article 1519 D ;
 
@@ -24,11 +24,11 @@ f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz
 
 1 ter. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, prévue à l'article 1519 F ;
 
-2\. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I ;
+2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I ;
 
-3\. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération intercommunale, du reversement du Fonds national de garantie individuelle des ressources communales et intercommunales prévu au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à l'exclusion de la fraction calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1 ;
+1. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération intercommunale, du reversement du Fonds national de garantie individuelle des ressources communales et intercommunales prévu au 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, à l'exclusion de la fraction calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1 ;
 
-4\. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération intercommunale, de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du 1.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée, à l'exclusion de la part calculée dans les conditions prévues aux a et b du D du IV du même 1.1.
+1. Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération intercommunale, de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du 1.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée, à l'exclusion de la part calculée dans les conditions prévues aux a et b du D du IV du même 1.1.
 
 I ter. – Le cas échéant, sur délibérations concordantes des communes membres et de l'établissement public de coopération intercommunale, le prélèvement sur les ressources calculé selon les conditions prévues aux II et III du 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée peut être mis à la charge de cet établissement public, à l'exclusion de la part calculée selon les conditions prévues aux 1° et 2° du a du D du IV du même 2.1.
 
@@ -142,7 +142,7 @@ Un protocole financier général définit les modalités de détermination des a
 
 A titre dérogatoire, les établissements publics de coopération intercommunale issus d'une fusion ou d'une modification de périmètre au 1er janvier 2010 et les conseils municipaux de leurs communes membres peuvent, par délibérations concordantes prises à la majorité qualifiée prévue au premier alinéa du II de l'article L. 5211-5 du code général des collectivités territoriales, procéder, avant le 31 décembre 2014, à la révision du montant de l'attribution de compensation.
 
-2\. – Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion individuelle d'une commune ou d'une transformation dans les conditions prévues aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de coopération intercommunale est soumis au régime prévu au présent article et qu'il est fait application des dispositions de l'article 1638 quater, l'attribution de compensation versée ou perçue à compter de l'année où les opérations précitées ont produit pour la première fois leurs effets au plan fiscal est égale à :
+2. – Lorsque, dans le cadre d'une modification de périmètre, de l'adhésion individuelle d'une commune ou d'une transformation dans les conditions prévues aux articles L. 5211-41-1 et L. 5214-26 du même code, un établissement public de coopération intercommunale est soumis au régime prévu au présent article et qu'il est fait application des dispositions de l'article 1638 quater, l'attribution de compensation versée ou perçue à compter de l'année où les opérations précitées ont produit pour la première fois leurs effets au plan fiscal est égale à :
 
 a) Pour les communes qui étaient antérieurement membres d'un établissement public de coopération intercommunale soumis au présent article : à l'attribution de compensation que versait ou percevait cet établissement public de coopération intercommunale l'année précédant celle où les opérations précitées ont produit pour la première fois leurs effets au plan fiscal, sous réserve des dispositions de l'avant-dernier alinéa du 2° du présent V. Il peut être dérogé au présent a soit par délibérations concordantes de l'établissement public de coopération intercommunale et des communes intéressées dans les conditions du 1° bis, soit, uniquement les trois premières années d'existence du nouvel établissement public de coopération intercommunale par délibération de l'organe délibérant de l'établissement public de coopération intercommunale statuant à la majorité des deux tiers. Dans ce dernier cas, la révision ne peut pas avoir pour effet de minorer ou de majorer l'attribution de compensation de plus de 30 % de son montant, représentant au plus 5 % des recettes réelles de fonctionnement de la commune intéressée l'année précédant la révision ;
 
@@ -152,9 +152,9 @@ Lorsque l'adhésion d'une commune s'accompagne d'un transfert ou d'une restituti
 
 3 (Abrogé)
 
-4\. – L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un établissement public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2° ;
+4. – L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un établissement public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2° ;
 
-5\. – Un protocole financier général établi au plus tard au 31 décembre 2016 définit les modalités de détermination des attributions de compensation entre la métropole de Lyon et les communes situées sur son territoire ;
+1. – Un protocole financier général établi au plus tard au 31 décembre 2016 définit les modalités de détermination des attributions de compensation entre la métropole de Lyon et les communes situées sur son territoire ;
 
 6° Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le cas échéant, au 1° bis du présent V sont recalculées dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elles ne peuvent être indexées ;
 
@@ -162,7 +162,7 @@ Lorsque l'adhésion d'une commune s'accompagne d'un transfert ou d'une restituti
 
 V bis. – 1. Pour les établissements publics de coopération intercommunale qui faisaient application au 31 décembre 2010 du présent article dans sa rédaction en vigueur à cette date, l'attribution de compensation versée chaque année aux communes qui en étaient membres à cette même date est égale à celle qui leur était versée en 2010, sans préjudice des dispositions prévues au V relatives à l'évolution de leur montant.
 
-2\. Pour les établissements publics de coopération intercommunale qui font application pour la première fois en 2011 du présent article, le montant de la compensation relais perçue en 2010 par la commune, conformément au II de l'article 1640 B, est substitué aux produits mentionnés au premier alinéa du 2° du V pour le calcul de l'attribution de compensation.
+2. Pour les établissements publics de coopération intercommunale qui font application pour la première fois en 2011 du présent article, le montant de la compensation relais perçue en 2010 par la commune, conformément au II de l'article 1640 B, est substitué aux produits mentionnés au premier alinéa du 2° du V pour le calcul de l'attribution de compensation.
 
 VI. (Abrogé)
 

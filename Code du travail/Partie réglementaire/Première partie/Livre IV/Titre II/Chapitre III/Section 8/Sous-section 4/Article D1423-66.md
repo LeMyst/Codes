@@ -2,11 +2,12 @@
 
 Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoir consacré à la rédaction des décisions et des procès-verbaux mentionnés au f du 2° de l'article R. 1423-55 ne peut dépasser les durées fixées au tableau ci-après :
 
-| OBJET DE LA RÉDACTION | NOMBRE D'HEURES INDEMNISABLES |
+|  |  |
 | --- | --- |
-| Procès-verbal de conciliation | 30 minutes |
-| Jugement | 5 heures |
-| Ordonnance | 1 heure |
+| OBJET DE LA RÉDACTION  | NOMBRE D'HEURES INDEMNISABLES  |
+| Procès-verbal de conciliation  | 30 minutes  |
+| Jugement  | 5 heures  |
+| Ordonnance  | 1 heure  |
 
 Lorsque le conseiller consacre à la rédaction d'un jugement, d'un procès-verbal de conciliation ou d'une ordonnance un temps supérieur à ces durées, il saisit sans délai le président du conseil de prud'hommes.
 

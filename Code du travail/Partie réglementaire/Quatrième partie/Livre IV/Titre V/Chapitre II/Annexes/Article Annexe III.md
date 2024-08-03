@@ -1,7 +1,8 @@
 # Article Annexe III
 
-| Numérotation modifiée | Nouvelle numérotation | Références modifiées | Nouvelles références |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| Numérotation modifiée | Nouvelle numérotation | Références modifiées | Nouvelles références |
 | TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS IONISANTSChapitre Ier : Principes et dispositions d'applicationSection 1 : Champ d'application | TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTSChapitre Ier : Prévention des risques d'exposition aux rayonnements ionisantsSection 1 : Principes et dispositions d'applicationSous-section 1 : Champ d'application |  |  |
 | R. 4451-1 | R. 4451-1 |  |  |
 | R.4451-2 | R. 4451-2 | chapitre VII(deux références)même chapitrechapitres Ier à VIarticles R. 4457-13et R. 4457-14 | section 7même sectionsections 1 à 6articles R. 4451-143et R.4451-144 |
@@ -85,7 +86,7 @@
 | R. 4453-22 | R. 4451-65 | article R. 4453-21 | article R. 4451-64 |
 | R. 4453-23 | R. 4451-66 | article R. 4453-21 | article R. 4451-64 |
 | Sous-section 2 :Suivi dosimétrique opérationnel | Paragraphe 2 :Suivi dosimétrique opérationnel |  |  |
-| R. 4453-24 | R. 4451-67 | chapitre VIIarticle R. 4457-14 | section 7article R. 4451-144 |
+| R. 4453-24 | R. 4451-67  | chapitre VIIarticle R. 4457-14 | section 7article R. 4451-144 |
 | Sous-section 3 :Communication et exploitationdes résultats dosimétriques | Paragraphe 3 :Communication et exploitation des résultats dosimétriques |  |  |
 | R. 4453-25 | R. 4451-68 | sous-sections 1 et 2article R. 4453-21article R. 4456-1 | paragraphes 1 et 2article R. 4451-64article R. 4451-103 |
 | R. 4453-26 | R. 4451-69 |  |  |

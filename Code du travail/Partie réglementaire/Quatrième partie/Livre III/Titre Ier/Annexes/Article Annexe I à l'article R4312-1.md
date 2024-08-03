@@ -30,7 +30,7 @@ Les règles techniques de santé et de sécurité relatives à la protection de 
 
 6° Les équipements visés par les dispositions de l'annexe I, issue de la transposition de la directive 98/37/ CE modifiée, conçus et construits conformément aux dispositions de cette annexe, maintenus en conformité avec ces dispositions et mis sur le marché avant le 29 décembre 2009, sont considérés comme conformes aux dispositions de la présente annexe.
 
-1\. Règles techniques applicables à tout type de machines.
+1. Règles techniques applicables à tout type de machines.
 
 1.1. Généralités.
 
@@ -748,7 +748,7 @@ v) Lorsque la machine est susceptible d'émettre des rayonnements non ionisants 
 
 Les documents commerciaux présentant la machine ne sont pas en contradiction avec la notice d'instructions en ce qui concerne les aspects de santé et de sécurité. Les documents commerciaux décrivant les caractéristiques de performance de la machine contiennent les mêmes informations concernant les émissions que la notice d'instructions.
 
-2\. Règles techniques complémentaires pour certaines catégories de machines.
+2. Règles techniques complémentaires pour certaines catégories de machines.
 
 Les machines destinées à l'industrie alimentaire, les machines destinées à l'industrie cosmétique ou pharmaceutique, les machines tenues ou guidées à la main, les machines portatives de fixation et d'autres machines à choc, les machines à bois et matériaux ayant des caractéristiques physiques similaires et les machines destinées à l'application des pesticides répondent à l'ensemble des règles techniques décrites dans la présente partie conformément au 4° des principes généraux figurant au début de la présente annexe (1).
 
@@ -933,7 +933,7 @@ j) Les caractéristiques des machines qui doivent être vérifiées pour s'assur
 
 k) Les instructions concernant le raccordement des instruments de mesure nécessaires.
 
-3\. Règles techniques complémentaires pour pallier les dangers dus à la mobilité des machines.
+3. Règles techniques complémentaires pour pallier les dangers dus à la mobilité des machines.
 
 L'ensemble des règles techniques décrites dans la présente partie s'appliquent aux machines présentant des dangers dus à leur mobilité conformément au 4° des principes généraux figurant au début de la présente annexe.
 
@@ -1177,7 +1177,7 @@ Les conditions de fonctionnement de la machine pendant le mesurage et les codes 
 
 La notice d'instructions des machines permettant plusieurs usages selon l'équipement mis en œuvre et la notice d'instructions des équipements interchangeables comportent les informations nécessaires pour permettre le montage et l'utilisation en toute sécurité de la machine de base et des équipements interchangeables qui peuvent être montés sur celle-ci.
 
-4\. Règles techniques complémentaires pour pallier les dangers dus aux opérations de levage.
+4. Règles techniques complémentaires pour pallier les dangers dus aux opérations de levage.
 
 L'ensemble des règles techniques pertinentes décrites dans la présente partie s'applique aux machines présentant des dangers dus aux opérations de levage conformément au 4° des principes généraux figurant au début de la présente annexe.
 
@@ -1415,7 +1415,7 @@ d) S'il y a lieu, un rapport d'essai précisant les épreuves statiques et dynam
 
 e) Pour les machines qui ne sont pas montées dans les locaux du fabricant dans leur configuration d'utilisation, les instructions nécessaires pour prendre les mesures mentionnées au paragraphe 4.1.3 avant la première mise en service.
 
-5\. Règles techniques complémentaires pour les machines destinés à des travaux souterrains.
+5. Règles techniques complémentaires pour les machines destinés à des travaux souterrains.
 
 L'ensemble des règles techniques pertinentes décrites dans la présente partie s'appliquent aux machines destinées à des travaux souterrains conformément au 4° des principes généraux figurant au début de la présente annexe.
 
@@ -1449,7 +1449,7 @@ Les machines à moteur à combustion interne destinées à des travaux souterrai
 
 Les moteurs à combustion interne sont conçus et construits de telle sorte que les émissions de gaz d'échappement ne sont pas évacuées vers le haut.
 
-6\. Règles techniques complémentaires pour les machines présentant des dangers particuliers dus au levage de personnes.
+6. Règles techniques complémentaires pour les machines présentant des dangers particuliers dus au levage de personnes.
 
 L'ensemble des règles techniques pertinentes décrites dans la présente partie s'applique aux machines présentant des dangers dus au levage de personnes conformément au 4° des principes généraux figurant au début de la présente annexe.
 

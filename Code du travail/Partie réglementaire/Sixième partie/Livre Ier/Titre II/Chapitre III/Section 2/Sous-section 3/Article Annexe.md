@@ -122,28 +122,29 @@ Le centre s'engage à rechercher auprès des employeurs intéressés les modalit
 
 Article 9
 
-L'Etat peut apporter :\
-1\. Une aide technique :\
-a) Concours à la formation des personnels appelés à assurer un enseignement au centre ;\
-b) Mise à disposition de locaux et installations ;\
-c) Mise à disposition de documents d'ordre technique et pédagogique ;\
-d) Mise à disposition de personnel d'enseignement.\
-2\. Une aide financière :\
-L'Etat peut verser au centre :\
-a) Une subvention destinées à permettre la mise au point des différents cycles ;\
-b) Une subvention forfaitaire de fonctionnement.\
-Le montant de cette subvention est calculé, pour chaque exercice, dans les conditions fixées par le ministre chargé de la formation professionnelle, après avis du Conseil national de la formation professionnelle tout au long de la vie.\
-Dans tous les cas, il est tenu une comptabilité distincte pour les cycles et stagiaires relevant de la convention.\
-Dans l'hypothèse où les effectifs réellement présents ou la durée des formations seraient inférieurs aux prévisions, le montant de la subvention sera réduit à due concurrence.\
-Si le montant des différentes ressources perçues au titre des cycles conventionnés excède le montant des dépenses effectivement exposées pour le fonctionnement de ces cycles, cet excédent devra être déduit de la subvention due au titre de l'exercice suivant ou reversé au Trésor.\
-c) Une subvention destinée à couvrir une partie du coût de construction et d'équipement du centre.\
-Les conditions d'attribution de cette subvention, ainsi que les modalités selon lesquelles elle est calculée, sont fixées par le ministre chargé de la formation professionnelle, après avis du Conseil national de la formation professionnelle tout au long de la vie.\
-Le montant de cette subvention ne peut être augmenté si le coût réel des travaux réalisés dépasse le montant du devis prévisionnel, que ce dépassement résulte d'une sous-estimation du coût des travaux, d'une actualisation du prix de l'opération ou d'une hausse de prix contractuelle.\
-Le centre bénéficiaire d'une subvention d'équipement est tenu, au cas où il serait mis fin aux formations prévues par la convention ou si les équipements réalisés ne sont pas utilisés conformément aux stipulations de la convention, de rembourser la subvention reçue, proportionnellement au nombre d'années restant à courir sur les délais d'amortissement : cinq ans pour le matériel, dix ans pour les aménagements immobiliers, vingt ans pour les constructions ou achats d'immeubles. Lorsque l'aide de l'Etat a porté sur l'acquisition du terrain, cette participation doit être remboursée intégralement.\
-De même, si la capacité de formation est inférieure à celle prévue par la convention, le centre rembourse la subvention reçue proportionnellement au nombre de places prévues et non réalisées.\
-3\. Une aide technique et financière :\
-Les aides prévues aux 1 et 2 ci-dessus peuvent se cumuler.\
-Dans ce cas, les aides techniques font l'objet d'une évaluation financière et sont déduites du monde de la subvention.
+L'Etat peut apporter :
+
+1. Une aide technique :\
+   a) Concours à la formation des personnels appelés à assurer un enseignement au centre ;\
+   b) Mise à disposition de locaux et installations ;\
+   c) Mise à disposition de documents d'ordre technique et pédagogique ;\
+   d) Mise à disposition de personnel d'enseignement.
+1. Une aide financière :\
+   L'Etat peut verser au centre :\
+   a) Une subvention destinées à permettre la mise au point des différents cycles ;\
+   b) Une subvention forfaitaire de fonctionnement.\
+   Le montant de cette subvention est calculé, pour chaque exercice, dans les conditions fixées par le ministre chargé de la formation professionnelle, après avis du Conseil national de la formation professionnelle tout au long de la vie.\
+   Dans tous les cas, il est tenu une comptabilité distincte pour les cycles et stagiaires relevant de la convention.\
+   Dans l'hypothèse où les effectifs réellement présents ou la durée des formations seraient inférieurs aux prévisions, le montant de la subvention sera réduit à due concurrence.\
+   Si le montant des différentes ressources perçues au titre des cycles conventionnés excède le montant des dépenses effectivement exposées pour le fonctionnement de ces cycles, cet excédent devra être déduit de la subvention due au titre de l'exercice suivant ou reversé au Trésor.\
+   c) Une subvention destinée à couvrir une partie du coût de construction et d'équipement du centre.\
+   Les conditions d'attribution de cette subvention, ainsi que les modalités selon lesquelles elle est calculée, sont fixées par le ministre chargé de la formation professionnelle, après avis du Conseil national de la formation professionnelle tout au long de la vie.\
+   Le montant de cette subvention ne peut être augmenté si le coût réel des travaux réalisés dépasse le montant du devis prévisionnel, que ce dépassement résulte d'une sous-estimation du coût des travaux, d'une actualisation du prix de l'opération ou d'une hausse de prix contractuelle.\
+   Le centre bénéficiaire d'une subvention d'équipement est tenu, au cas où il serait mis fin aux formations prévues par la convention ou si les équipements réalisés ne sont pas utilisés conformément aux stipulations de la convention, de rembourser la subvention reçue, proportionnellement au nombre d'années restant à courir sur les délais d'amortissement : cinq ans pour le matériel, dix ans pour les aménagements immobiliers, vingt ans pour les constructions ou achats d'immeubles. Lorsque l'aide de l'Etat a porté sur l'acquisition du terrain, cette participation doit être remboursée intégralement.\
+   De même, si la capacité de formation est inférieure à celle prévue par la convention, le centre rembourse la subvention reçue proportionnellement au nombre de places prévues et non réalisées.
+1. Une aide technique et financière :\
+   Les aides prévues aux 1 et 2 ci-dessus peuvent se cumuler.\
+   Dans ce cas, les aides techniques font l'objet d'une évaluation financière et sont déduites du monde de la subvention.
 
 **IV.-Contrôle de l'Etat**
 

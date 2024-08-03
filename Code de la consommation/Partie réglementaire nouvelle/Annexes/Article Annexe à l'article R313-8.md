@@ -6,7 +6,7 @@ MODÈLE DE FICHE STANDARDISÉE D'INFORMATION
 
 Assurance emprunteur des prêts immobiliers
 
-1\. Le distributeur
+1. Le distributeur
 
 Nom :
 
@@ -20,7 +20,7 @@ n° ORIAS pour les intermédiaires :
 
 S'il y a lieu, lien avec une ou plusieurs entreprises d'assurance :
 
-2\. Le candidat à l'assurance
+2. Le candidat à l'assurance
 
 Nom : Prénom :
 
@@ -32,16 +32,16 @@ Vous êtes : □ emprunteur □ coemprunteur □ caution (cocher la case corresp
 
 S'il y a lieu, dénomination sociale : Siège social :
 
-3\. Les caractéristiques du (des) prêt (s) demandé (s)
+3. Les caractéristiques du (des) prêt (s) demandé (s)
 
 Nom du prêteur, s'il est connu :
 
 Projet à financer : (cocher la case correspondante) □ résidence principale □ résidence secondaire □ travaux □ investissement locatif □ autre :
 
-| PRÊT | MONTANT EN EUROS | TYPE DE PRÊT | DURÉE DU PRÊT EN MOIS | TAUX D'INTÉRÊT NOMINAL INDICATIF |
+|  PRÊT |  MONTANT EN EUROS |  TYPE DE PRÊT |  DURÉE DU PRÊT EN MOIS |  TAUX D'INTÉRÊT NOMINAL INDICATIF |
 | --- | --- | --- | --- | --- |
-| Prêt n° 1 |  | \[Amortissable/ in fine/ relais\] |  |  |
-| Prêt n° 2 |  | \[Amortissable/ in fine/ relais\] |  |  |
+|  Prêt n° 1 |  |  \[Amortissable/ in fine/ relais\] |  |  |
+|  Prêt n° 2 |  |  \[Amortissable/ in fine/ relais\] |  |  |
 
 Amortissable : une fraction du capital emprunté est remboursée à chaque échéance.
 
@@ -49,18 +49,18 @@ In fine : le capital est remboursé à la fin du prêt.
 
 Relais : crédit in fine destiné à financer un nouvel achat immobilier dans l'attente de la vente d'un précédent bien.
 
-4\. Les garanties minimales exigées par votre prêteur
+4. Les garanties minimales exigées par votre prêteur
 
 Votre prêteur exige que vous souscriviez des garanties d'assurance minimales pour l'octroi de votre prêt. Parmi les critères de garanties exigibles, votre prêteur a retenu la liste de critères suivante, qui correspond à ses exigences générales liées à sa politique de risque, en fonction du type d'opération, du type de prêt et de votre statut professionnel.
 
-|  | CRITÈRES SPÉCIFIQUES | QUOTITÉ EXIGÉE |
+|  |  CRITÈRES SPÉCIFIQUES |  QUOTITÉ EXIGÉE |
 | --- | --- | --- |
-| Garantie décès, le cas échéant | \[à compléter\] | \[à compléter\] % |
-| Garantie PTIA, le cas échéant | \[à compléter\] | \[à compléter\] % |
-| Garantie incapacité temporaire totale, le cas échéant | \[à compléter\] | \[à compléter\] % |
-| Garantie invalidité permanente totale, le cas échéant | \[à compléter\] | \[à compléter\] % |
-| Garantie invalidité permanente partielle, le cas échéant | \[à compléter\] | \[à compléter\] % |
-| Garantie perte d'emploi, le cas échéant | \[à compléter\] | \[à compléter\] % |
+|  Garantie décès, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+|  Garantie PTIA, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+|  Garantie incapacité temporaire totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+|  Garantie invalidité permanente totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+|  Garantie invalidité permanente partielle, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+|  Garantie perte d'emploi, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
 
 Les caractéristiques détaillées des garanties exigées doivent vous être communiquées par votre prêteur afin de vous permettre d'apprécier l'équivalence des niveaux de garanties entre les contrats.
 
@@ -76,7 +76,7 @@ OU
 
 Votre prêteur n'exige aucune assurance pour l'octroi de votre prêt.
 
-5\. Les garanties que vous pouvez souscrire
+5. Les garanties que vous pouvez souscrire
 
 5.1. Les types de garanties que nous proposons
 
@@ -224,21 +224,21 @@ Compte tenu de votre situation, vous envisagez d'assurer tout ou partie du capit
 
 □ Perte d'emploi et cette garantie est couverte à %.
 
-6\. Formalisation du devoir de conseil
+6. Formalisation du devoir de conseil
 
 \[A compléter. Si les informations ne sont pas suffisantes au moment de la remise de la fiche pour permettre la délivrance du conseil en assurance, l'indiquer\]
 
-7\. Estimation personnalisée du coût de la solution d'assurance envisagée
+7. Estimation personnalisée du coût de la solution d'assurance envisagée
 
 Compte tenu des caractéristiques connues du ou des prêts, de votre âge de ans, des types de garanties envisagées et de la part du capital à couvrir, le tableau ci-dessous propose une estimation du coût de l'assurance.
 
 Il s'agit d'un tarif indicatif avant examen du dossier et du questionnaire médical par l'organisme d'assurance. Lorsqu'une personne présente un risque aggravé de santé, elle peut bénéficier des dispositions de la convention AERAS, s'Assurer et Emprunter avec un Risque Aggrave de Santé. Il s'agit d'un dispositif conventionnel, appliqué par l'ensemble des réseaux bancaires et des assureurs présents sur le marché de l'assurance emprunteur, qui permet de repousser les limites de l'assurabilité des personnes qui présentent ou ont présenté un risque aggravé de santé. La proposition d'assurance peut comporter une surprime d'assurance et/ ou une limitation de la garantie (cf. www. aeras-infos. fr).
 
-|  | PART DU CAPITAL assuré pour chaque type de garantie | TYPES de garanties | COTISATION en euros par \[à compléter\] de l'emprunteur (\*) | COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros | ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
+|  |  PART DU CAPITAL assuré pour chaque type de garantie |  TYPES de garanties |  COTISATION en euros par \[à compléter\] de l'emprunteur (\*) |  COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros |  ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
 | --- | --- | --- | --- | --- | --- |
-| Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; | & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] (\*) \[compléter la période\] prêt 1 & amp ; gt ; | & amp ; lt ; coût total ass prêt 1 & amp ; gt ; | & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
-| Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; | & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] * \[compléter la période\] prêt 2 & amp ; gt ; euros | & amp ; lt ; coût total ass prêt 2 & amp ; gt ; | & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
-| (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) \[Compléter la mention des garanties incluses dans le périmètre du TAEA.\] | | | | | |
+|  Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] (\*) \[compléter la période\] prêt 1 & amp ; gt ; |  & amp ; lt ; coût total ass prêt 1 & amp ; gt ; |  & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
+|  Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] * \[compléter la période\] prêt 2 & amp ; gt ; euros |  & amp ; lt ; coût total ass prêt 2 & amp ; gt ; |  & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
+|  (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) \[Compléter la mention des garanties incluses dans le périmètre du TAEA.\] |
 
 La cotisation d'assurance est : \[cocher la case correspondante\] :
 
@@ -246,7 +246,7 @@ La cotisation d'assurance est : \[cocher la case correspondante\] :
 
 □ non constante (cotisation \[à compléter\] minimale : \[à compléter\] ; cotisation \[compléter la période\] maximale : \[à compléter\])
 
-8\. Remarques importantes
+8. Remarques importantes
 
 L'assurance emprunteur constitue une garantie à la fois pour le prêteur et l'emprunteur. Elle peut être un élément déterminant de l'obtention de votre prêt immobilier. Il appartient au professionnel de veiller à ce que les garanties qu'il vous propose de souscrire correspondent à vos besoins et à vos attentes.
 

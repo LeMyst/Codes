@@ -2,9 +2,9 @@
 
 LISTE DES VOIES DE L'UNION EUROPÉENNE À CARACTÈRE MARITIME
 
-1\. Royaume de Belgique : Escaut maritime.
+1. Royaume de Belgique : Escaut maritime.
 
-2\. Royaume des Pays-Bas :
+1. Royaume des Pays-Bas :
 
 -Dollard ;
 
@@ -18,7 +18,7 @@ LISTE DES VOIES DE L'UNION EUROPÉENNE À CARACTÈRE MARITIME
 
 -Escaut occidental.
 
-3\. République fédérale d'Allemagne :
+3. République fédérale d'Allemagne :
 
 -Ems : de la ligne qui relie les phares de Delfziji et de Knock en direction du large jusqu'à 53° 30 ʹ de latitude nord et 6° 45 ʹ de longitude est, c'est-à-dire quelque peu au large de la zone de transbordement pour les vracquiers dans l'ancienne Ems (Alte Ems), compte tenu du traité de coopération Ems-Dollart ;
 

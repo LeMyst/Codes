@@ -2,15 +2,16 @@
 
 EXIGENCES ESSENTIELLES
 
-A.-Exigences essentielles de sécurité en matière de conception et de construction des produits énumérés à l'article R. 5113-8 :\
-1\. Catégories de conception des bateaux :
+A.-Exigences essentielles de sécurité en matière de conception et de construction des produits énumérés à l'article R. 5113-8 :
 
-| CATÉGORIE DE CONCEPTION | FORCE DU VENT (échelle de Beaufort) | HAUTEUR SIGNIFICATIVE DES VAGUES À CONSIDÉRER (H 1/3, en mètres) |
+1. Catégories de conception des bateaux :
+
+| CATÉGORIE DE CONCEPTION  | FORCE DU VENT (échelle de Beaufort)  | HAUTEUR SIGNIFICATIVE DES VAGUES À CONSIDÉRER (H 1/3, en mètres)  |
 | --- | --- | --- |
-| A | Supérieure à 8 | Supérieure à 4 |
-| B | Jusqu'à 8 compris | Jusqu'à 4 compris |
-| C | Jusqu'à 6 compris | Jusqu'à 2 compris |
-| D | Jusqu'à 4 compris | Jusqu'à 0,3 compris |
+| A  | Supérieure à 8  | Supérieure à 4  |
+| B  | Jusqu'à 8 compris  | Jusqu'à 4 compris  |
+| C  | Jusqu'à 6 compris  | Jusqu'à 2 compris  |
+| D  | Jusqu'à 4 compris  | Jusqu'à 0,3 compris  |
 
 Notes explicatives :\
 A.-Un bateau de plaisance de la catégorie de conception A est considéré comme conçu pour des vents qui peuvent dépasser la force 8 (sur l'échelle de Beaufort) et pour des vagues qui peuvent dépasser une hauteur significative de 4 mètres, à l'exclusion toutefois des conditions exceptionnelles telles que des tempêtes, des tempêtes violentes, des tornades et des conditions maritimes extrêmes ou des vagues énormes.\
@@ -126,41 +127,42 @@ Chacune des toilettes dont est équipé un bateau de plaisance est raccordée un
 Les bateaux de plaisance munis de réservoirs sont équipés d'un raccord de vidange normalisé permettant la connexion des tuyaux des installations de réception au tuyau de vidange du bateau de plaisance.\
 De plus, tous tuyaux de décharge de déchets humains traversant la coque sont équipés de vannes pouvant être bloquées en position fermée.\
 B.-Exigences essentielles en matière d'émissions gazeuses provenant des moteurs de propulsion :\
-Les moteurs de propulsion répondent aux exigences essentielles énoncées dans la présente partie B en matière d'émissions gazeuses.\
-1\. Description du moteur de propulsion :\
-1.1. Tout moteur porte clairement les renseignements suivants :\
-a) Le nom, la raison sociale ou la marque déposée et l'adresse de contact du fabricant du moteur et, le cas échéant, le nom et l'adresse de contact de la personne qui adapte le moteur ;\
-b) Le type de moteur et, le cas échéant, la famille ;\
-c) Le numéro de série individuel du moteur ;\
-d) Le marquage " CE ", tel qu'il est prévu à l'article R. 5113-27.\
-1.2. Les marquages prévus au point 1.1 doivent durer toute la vie utile du moteur et être clairement lisibles et indélébiles. En cas d'utilisation d'étiquettes ou de plaques, celles-ci doivent être apposées de telle manière que leur fixation dure toute la vie utile du moteur et que les étiquettes ou les plaques ne puissent être ôtées sans être détruites ou déformées.\
-1.3. Les marquages doivent être apposés sur une pièce du moteur nécessaire au fonctionnement normal de celui-ci et ne devant normalement pas être remplacée au cours de la vie du moteur.\
-1.4. Ces marquages doivent être apposés de manière à être aisément visibles après que le moteur a été assemblé avec toutes les pièces auxiliaires nécessaires à son fonctionnement.\
-2\. Exigences en matière d'émissions gazeuses :\
-Les moteurs de propulsion sont conçus, construits et assemblés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues dans le tableau 1 du point 2.1 et dans les tableaux 2 et 3 du point 2.2 de la partie B de la présente annexe :\
-2.1. Valeurs applicables aux fins du second alinéa de l'article R. 5113-40 et du tableau 2 du point 2.2 de la même partie B :\
-Tableau 1 :
+Les moteurs de propulsion répondent aux exigences essentielles énoncées dans la présente partie B en matière d'émissions gazeuses.
 
-| TYPE DE MOTEUR | MONOXYDE DE CARBONE (CO = A + B/ PNN) | | | HYDROCARBURES (HC = A + B/ PNN) | | | OXYDES D'AZOTE (NOX) | PARTICULES (PT) (G/ K WH) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | A | B | n | A | B | n |  |  |
-| Deux temps | 150,0 | 600,0 | 1,0 | 30,0 | 100,0 | 0,75 | 10,0 | Sans objet |
-| Quatre temps | 150,0 | 600,0 | 1,0 | 6,0 | 50,0 | 0,75 | 15,0 | Sans objet |
-| Allumage par compression | 5,0 | 0 | 0 | 1,5 | 2,0 | 0,5 | 9,8 | 1,0 |
+1. Description du moteur de propulsion :\
+   1.1. Tout moteur porte clairement les renseignements suivants :\
+   a) Le nom, la raison sociale ou la marque déposée et l'adresse de contact du fabricant du moteur et, le cas échéant, le nom et l'adresse de contact de la personne qui adapte le moteur ;\
+   b) Le type de moteur et, le cas échéant, la famille ;\
+   c) Le numéro de série individuel du moteur ;\
+   d) Le marquage " CE ", tel qu'il est prévu à l'article R. 5113-27.\
+   1.2. Les marquages prévus au point 1.1 doivent durer toute la vie utile du moteur et être clairement lisibles et indélébiles. En cas d'utilisation d'étiquettes ou de plaques, celles-ci doivent être apposées de telle manière que leur fixation dure toute la vie utile du moteur et que les étiquettes ou les plaques ne puissent être ôtées sans être détruites ou déformées.\
+   1.3. Les marquages doivent être apposés sur une pièce du moteur nécessaire au fonctionnement normal de celui-ci et ne devant normalement pas être remplacée au cours de la vie du moteur.\
+   1.4. Ces marquages doivent être apposés de manière à être aisément visibles après que le moteur a été assemblé avec toutes les pièces auxiliaires nécessaires à son fonctionnement.
+1. Exigences en matière d'émissions gazeuses :\
+   Les moteurs de propulsion sont conçus, construits et assemblés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues dans le tableau 1 du point 2.1 et dans les tableaux 2 et 3 du point 2.2 de la partie B de la présente annexe :\
+   2.1. Valeurs applicables aux fins du second alinéa de l'article R. 5113-40 et du tableau 2 du point 2.2 de la même partie B :\
+   Tableau 1 :
+
+| TYPE DE MOTEUR  | MONOXYDE DE CARBONE (CO = A + B/ PNN)  | HYDROCARBURES (HC = A + B/ PNN)  | OXYDES D'AZOTE (NOX)  | PARTICULES (PT) (G/ K WH)  |
+| --- | --- | --- | --- | --- |
+|  | A  | B  | n  | A  | B  | n  |  |  |
+| Deux temps  | 150,0  | 600,0  | 1,0  | 30,0  | 100,0  | 0,75  | 10,0  | Sans objet  |
+| Quatre temps  | 150,0  | 600,0  | 1,0  | 6,0  | 50,0  | 0,75  | 15,0  | Sans objet  |
+| Allumage par compression  | 5,0  | 0  | 0  | 1,5  | 2,0  | 0,5  | 9,8  | 1,0  |
 
 Où " A ", " B " et " n " désignent des constantes conformément au tableau et " PN " correspond à la puissance nominale du moteur en kW.\
 2.2. Valeurs applicables à partir du 18 janvier 2016 :\
 Tableau 2.-Limites des émissions gazeuses des moteurs à allumage par compression (APC) (\*\*)
 
-| VOLUME BALAYÉ (SV) (L/ CYL) | PUISSANCE NOMINALE DU MOTEUR (PN) (EN KW) | PARTICULES (PT) (EN G/ KWH) | HYDROCARBURES + OXYDES D'AZOTE (HC + NOX) (EN G/ KWH) |
+| VOLUME BALAYÉ (SV) (L/ CYL)  | PUISSANCE NOMINALE DU MOTEUR (PN) (EN KW)  | PARTICULES (PT) (EN G/ KWH)  | HYDROCARBURES + OXYDES D'AZOTE (HC + NOX) (EN G/ KWH)  |
 | --- | --- | --- | --- |
-| SV \< 0,9 | PN \< 37 | Les valeurs visées au tableau 1 | |
-| 37 ≤ PN \< 75 (\*) | 0,30 | 4,7 |
-| 75 ≤ PN \< 3 700 | 0,15 | 5,8 |
-| 0,9 ≤ SV \< 1,2 | PN \< 3 700 | 0,14 | 5,8 |
-| 1,2 ≤ SV \< 2,5 | 0,12 | 5,8 |
-| 2,5 ≤ SV \< 3,5 | 0,12 | 5,8 |
-| 3,5 ≤ SV \< 7,0 | 0,11 | 5,8 |
+| SV \< 0,9  | PN \< 37  | Les valeurs visées au tableau 1  |
+| 37 ≤ PN \< 75 (\*)  | 0,30  | 4,7  |
+| 75 ≤ PN \< 3 700  | 0,15  | 5,8  |
+| 0,9 ≤ SV \< 1,2  | PN \< 3 700  | 0,14  | 5,8  |
+| 1,2 ≤ SV \< 2,5  | 0,12  | 5,8  |
+| 2,5 ≤ SV \< 3,5  | 0,12  | 5,8  |
+| 3,5 ≤ SV \< 7,0  | 0,11  | 5,8  |
 
 (\*) Alternativement, les moteurs à allumage par compression dont la puissance nominale est égale ou supérieure à 37 kW mais inférieure à 75 kW et dont le volume balayé est inférieur à 0,9 L/ cyl ne dépassent pas une limite d'émission de particules (PT) de 0,20 g/ kWh et une limite d'émission combinée d'hydrocarbures et d'oxydes d'azote (HC + NOx) de 5,8 g/ kWh.\
 (\*\*) Un moteur à allumage par compression ne dépasse pas une limite d'émission de monoxyde de carbone (CO) de 5,0 g/ kWh.\
@@ -172,24 +174,24 @@ Les exigences suivantes de la norme ISO 8178-4 : 2007 sont appliquées, en tenan
 Pour les moteurs à allumage par compression (APC) à vitesse variable, le cycle d'essai E1 ou E5 s'applique ou alternativement ; si leur puissance est supérieure à 130 kW, le cycle d'essai E3 peut s'appliquer.\
 Pour les moteurs à explosion à vitesse variable, le cycle d'essai E4 s'applique.
 
-| CYCLE E1, MODE NUMÉRO | 1 | 2 | 3 | 4 | | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vitesse | Régime nominal | | Régime intermédiaire | | | Régime de ralenti |
-| Couple, en % | 100 | 75 | 75 | 50 | | 0 |
-| Facteur de pondération | 0,08 | 0,11 | 0,19 | 0,32 | | 0,3 |
-| Vitesse | Régime nominal | | Régime intermédiaire | | | Régime de ralenti |
-| Cycle E3, mode numéro | 1 |  | 2 | 3 | 4 |  |
-| Vitesse, en % | 100 |  | 91 | 80 | 63 |  |
-| Puissance, en % | 100 |  | 75 | 50 | 25 |  |
-| Facteur de pondération | 0,2 |  | 0,5 | 0,15 | 0,15 |  |
-| Cycle E4, mode numéro | 1 |  | 2 | 3 | 4 | 5 |
-| Vitesse, en % | 100 |  | 80 | 60 | 40 | Ralenti |
-| Couple, en % | 100 |  | 71,6 | 46,5 | 25,3 | 0 |
-| Facteur de pondération | 0,06 |  | 0,14 | 0,15 | 0,25 | 0,40 |
-| Cycle E5, mode numéro | 1 |  | 2 | 3 | 4 | 5 |
-| Vitesse, en % | 100 |  | 91 | 80 | 63 | Ralenti |
-| Puissance, en % | 100 |  | 75 | 50 | 25 | 0 |
-| Facteur de pondération | 0,08 |  | 0,13 | 0,17 | 0,32 | 0,3 |
+| CYCLE E1, MODE NUMÉRO  | 1  | 2  | 3  | 4  | 5  |
+| --- | --- | --- | --- | --- | --- |
+| Vitesse  | Régime nominal  | Régime intermédiaire  | Régime de ralenti  |
+| Couple, en %  | 100  | 75  | 75  | 50  | 0  |
+| Facteur de pondération  | 0,08  | 0,11  | 0,19  | 0,32  | 0,3  |
+| Vitesse  | Régime nominal  | Régime intermédiaire  | Régime de ralenti  |
+| Cycle E3, mode numéro  | 1  |  | 2  | 3  | 4  |  |
+| Vitesse, en %  | 100  |  | 91  | 80  | 63  |  |
+| Puissance, en %  | 100  |  | 75  | 50  | 25  |  |
+| Facteur de pondération  | 0,2  |  | 0,5  | 0,15  | 0,15  |  |
+| Cycle E4, mode numéro  | 1  |  | 2  | 3  | 4  | 5  |
+| Vitesse, en %  | 100  |  | 80  | 60  | 40  | Ralenti  |
+| Couple, en %  | 100  |  | 71,6  | 46,5  | 25,3  | 0  |
+| Facteur de pondération  | 0,06  |  | 0,14  | 0,15  | 0,25  | 0,40  |
+| Cycle E5, mode numéro  | 1  |  | 2  | 3  | 4  | 5  |
+| Vitesse, en %  | 100  |  | 91  | 80  | 63  | Ralenti  |
+| Puissance, en %  | 100  |  | 75  | 50  | 25  | 0  |
+| Facteur de pondération  | 0,08  |  | 0,13  | 0,17  | 0,32  | 0,3  |
 
 Les organismes notifiés peuvent accepter des essais réalisés à l'aide d'autres cycles d'essai, tels que spécifiés dans une norme harmonisée et applicables pour le cycle de travail du moteur.\
 2.4. Application de la famille du moteur de propulsion et choix du moteur de propulsion parent :\
@@ -198,27 +200,27 @@ Un moteur parent est sélectionné dans une famille de moteurs de façon à ce q
 2.5. Carburants d'essai :\
 Le carburant d'essai utilisé pour les essais relatifs aux émissions gazeuses répond aux critères suivants :
 
-| CARBURANTS ESSENCE | | | | |
-| --- | --- | --- | --- | --- |
-| Propriété | RF-02-99 Sans plomb | | RF-02-03 Sans plomb | |
-|  | Minimal | Maximal | Minimal | Maximal |
-| Indice d'octane recherche (IOR) | 95 | --- | 95 | --- |
-| Indice d'octane moteur (IOM) | 85 | --- | 85 | --- |
-| Densité à 15° C (en kg/ m ³) | 748 | 762 | 740 | 754 |
-| Point initial d'ébullition (en° C) | 24 | 40 | 24 | 40 |
-| Fraction massique de soufre (en mg/ kg) | --- | 100 | --- | 10 |
-| Teneur en plomb (en mg/ l) | --- | 5 | --- | 5 |
-| Pression de vapeur Reid (en kPa) | 56 | 60 | --- | --- |
-| Pression de vapeur (DVPE) (en kPa) | --- | --- | 56 | 60 |
-| Carburants diesel | | | | |
-| Propriété | RF-06-99 | | RF-06-03 | |
-|  | Minimal | Maximal | Minimal | Maximal |
-| Valeur du cétane | 52 | 54 | 52 | 54 |
-| Densité à 15° C (en kg/ m ³) | 833 | 837 | 833 | 837 |
-| Point final d'ébullition (en° C) | --- | 370 | --- | 370 |
-| Point d'éclair (en° C) | 55 | --- | 55 | --- |
-| Fraction massique de soufre (en mg/ kg) | à indiquer | 300 (50) | --- | 10 |
-| Fraction massique des cendres (en %) | à indiquer | 0,01 | --- | 0,01 |
+| CARBURANTS ESSENCE  |
+| --- |
+| Propriété  | RF-02-99 Sans plomb  | RF-02-03 Sans plomb  |
+|  | Minimal  | Maximal  | Minimal  | Maximal  |
+| Indice d'octane recherche (IOR)  | 95 | --- | 95 | --- |
+| Indice d'octane moteur (IOM)  | 85 | --- | 85 | --- |
+| Densité à 15° C (en kg/ m ³)  | 748  | 762  | 740  | 754  |
+| Point initial d'ébullition (en° C)  | 24  | 40  | 24  | 40  |
+| Fraction massique de soufre (en mg/ kg) | --- | 100 | --- | 10  |
+| Teneur en plomb (en mg/ l) | --- | 5 | --- | 5  |
+| Pression de vapeur Reid (en kPa)  | 56  | 60 | --- | --- |
+| Pression de vapeur (DVPE) (en kPa) | --- | --- | 56  | 60  |
+| Carburants diesel  |
+| Propriété  | RF-06-99  | RF-06-03  |
+|  | Minimal  | Maximal  | Minimal  | Maximal  |
+| Valeur du cétane  | 52  | 54  | 52  | 54  |
+| Densité à 15° C (en kg/ m ³)  | 833  | 837  | 833  | 837  |
+| Point final d'ébullition (en° C) | --- | 370 | --- | 370  |
+| Point d'éclair (en° C)  | 55 | --- | 55 | --- |
+| Fraction massique de soufre (en mg/ kg)  | à indiquer  | 300 (50) | --- | 10  |
+| Fraction massique des cendres (en %)  | à indiquer  | 0,01 | --- | 0,01  |
 
 Les organismes notifiés peuvent accepter les essais réalisés à l'aide d'autres carburants d'essai, tels qu'ils sont spécifiés dans une norme harmonisée.\
 3\. Durabilité :\
@@ -238,15 +240,16 @@ Le manuel du propriétaire :\
 a) Fournit des instructions en vue de l'installation, de l'utilisation et de l'entretien nécessaires pour assurer le bon fonctionnement du moteur et satisfaire ainsi aux exigences du point 3 (durabilité) ;\
 b) Précise la puissance du moteur lorsqu'elle est mesurée conformément à la norme harmonisée.\
 C.-Exigences essentielles en matière d'émissions sonores\
-Les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs " hors-bord " et les moteurs à embase arrière avec échappement intégré sont conformes aux exigences essentielles de la présente partie en matière d'émissions sonores.\
-1\. Niveaux des émissions sonores :\
-1.1. Les bateaux de plaisance munis d'un moteur " in-bord " ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs hors-bord et les moteurs à embase arrière avec échappement intégré sont conçus, construits et assemblés de telle sorte que les émissions sonores ne dépassent pas les valeurs limites reprises dans le tableau suivant :
+Les bateaux de plaisance munis d'un moteur in-bord ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs " hors-bord " et les moteurs à embase arrière avec échappement intégré sont conformes aux exigences essentielles de la présente partie en matière d'émissions sonores.
 
-| PUISSANCE NOMINALE DU MOTEUR (MOTEUR UNIQUE) (EN KW) | NIVEAU DE PRESSION ACOUSTIQUE MAXIMAL = LPASMAX (EN DB) |
+1. Niveaux des émissions sonores :\
+   1.1. Les bateaux de plaisance munis d'un moteur " in-bord " ou à embase arrière sans échappement intégré, les véhicules nautiques à moteur, les moteurs hors-bord et les moteurs à embase arrière avec échappement intégré sont conçus, construits et assemblés de telle sorte que les émissions sonores ne dépassent pas les valeurs limites reprises dans le tableau suivant :
+
+| PUISSANCE NOMINALE DU MOTEUR (MOTEUR UNIQUE) (EN KW)  | NIVEAU DE PRESSION ACOUSTIQUE MAXIMAL = LPASMAX (EN DB)  |
 | --- | --- |
-| PN ≤ 10 | 67 |
-| 10 \< PN ≤ 40 | 72 |
-| PN > 40 | 75 |
+| PN ≤ 10  | 67  |
+| 10 \< PN ≤ 40  | 72  |
+| PN > 40  | 75  |
 
 Où " PN " désigne la puissance nominale du moteur en kW d'un moteur unique au régime nominal et " LpAS max " le niveau de pression acoustique maximal en dB.\
 Dans le cas des unités à moteurs jumelés ou à moteurs multiples, une tolérance de 3 dB peut être appliquée, quel que soit le type de moteur.\

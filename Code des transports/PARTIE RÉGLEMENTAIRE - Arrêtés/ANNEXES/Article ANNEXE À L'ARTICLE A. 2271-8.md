@@ -2,26 +2,27 @@
 
 I.-Programme de formation destiné aux agents effectuant des contrôles de sûreté
 
-Le programme de formation comporte les informations suivantes :\
-1\. Identification de la structure :
+Le programme de formation comporte les informations suivantes :
+
+1. Identification de la structure :
 
 -organigramme de la structure chargée de la formation précisant notamment les personnes chargées de la conception, de la planification, du suivi et de l'évaluation des actions de formation ;\
 -liste des personnes habilitées à signer les attestations de formation ;\
 -liste nominative des formateurs mentionnant leurs spécialités ;
 
-2\. Références et qualifications des formateurs :
+2. Références et qualifications des formateurs :
 
 -références, qualifications et expériences professionnelles antérieures des personnes dispensant les formations et les mises en situation ;\
 -dispositions prises pour le maintien des compétences techniques et pédagogiques de ces personnes ;
 
-3\. Programmes des formations et moyens pédagogiques :
+3. Programmes des formations et moyens pédagogiques :
 
 -programme pluriannuel des formations : programme des cours de formation initiale et continue, programme des mises en situations régulières, découpage en modules, durée, personnel pédagogique ;\
 -moyens pédagogiques : description, références utilisées pour leur élaboration (réglementation, programme de sûreté de l'opérateur, manuel d'exploitation, consignes opérationnelles, documentation spécifique) ;\
 -identification des besoins de formation en sûreté : recensement des agents à former et à entraîner, notamment à la suite d'une évaluation des acquis effectuée après l'embauche, en précisant, par groupe d'agents, la nature (initiale, continue ou entraînements périodiques) de la formation ainsi que ses objectifs pédagogiques ;\
 -planification des formations : prévisions de formation et d'entraînement, état de leur réalisation ;
 
-4\. Modalités d'évaluation collective des formations :
+4. Modalités d'évaluation collective des formations :
 
 -méthode d'évaluation : évaluations théoriques et pratiques réalisées à l'issue des modules de formation et d'entraînement, barèmes ou critères associés à ces tests, formations et entraînements complémentaires en cas de résultats insuffisants, y compris les modes de décision liés à ces situations ;\
 -statistiques trimestrielles et indicateurs relatifs aux évaluations.
@@ -53,8 +54,8 @@ Elle vise à la connaissance :
 
 IV.-Formations initiales complémentaires pour les titulaires d'un titre de passage permanent
 
-1\. Trois formations initiales complémentaires obligatoires spécifiques sont assurées par l'employeur à destination des personnels mentionnés au IV de l'article L. 2271-6 réalisant certains contrôles de sûreté et recourant à certains équipements de contrôle ou de détection radioscopique :\
-1.1. Module complémentaire n° 1 contrôles de sûreté, d'une durée minimale de deux jours, portant sur :
+1. Trois formations initiales complémentaires obligatoires spécifiques sont assurées par l'employeur à destination des personnels mentionnés au IV de l'article L. 2271-6 réalisant certains contrôles de sûreté et recourant à certains équipements de contrôle ou de détection radioscopique :\
+   1.1. Module complémentaire n° 1 contrôles de sûreté, d'une durée minimale de deux jours, portant sur :
 
 -la déontologie des contrôles de sûreté et le comportement vis-à-vis des passagers ;\
 -les techniques de réalisation des palpations de sûreté ;\
@@ -78,7 +79,7 @@ Ce module complémentaire relève de la formation initiale, mais peut intervenir
 -soit préalablement à la prise de poste du personnel ;\
 -soit postérieurement à sa prise de poste, dans le cadre de l'évolution des moyens de détection des objets interdits ;
 
-2\. Une formation initiale complémentaire est assurée par tout employeur, lorsqu'il est opérateur des contrôles de sûreté, à destination de ceux de ses salariés désignés comme correspondants sûreté. D'une durée minimale de 4 heures, elle vise la connaissance approfondie des règles de gestion des titres d'accès et des laissez-passer telles que précisées à la sous-section 3 de la section 4 du chapitre unique du titre VII du livre II de la deuxième partie du code des transports (Partie réglementaire-Arrêtés).
+2. Une formation initiale complémentaire est assurée par tout employeur, lorsqu'il est opérateur des contrôles de sûreté, à destination de ceux de ses salariés désignés comme correspondants sûreté. D'une durée minimale de 4 heures, elle vise la connaissance approfondie des règles de gestion des titres d'accès et des laissez-passer telles que précisées à la sous-section 3 de la section 4 du chapitre unique du titre VII du livre II de la deuxième partie du code des transports (Partie réglementaire-Arrêtés).
 
 V.-Accompagnement à la prise de poste
 
@@ -87,12 +88,12 @@ L'employeur prend les dispositions nécessaires pour assurer cet accompagnement.
 
 VI.-Formation continue et entraînements périodiques
 
-1\. De la formation continue :\
-L'employeur peut planifier des actions de formation continue à l'attention de ses salariés et est tenu d'en planifier si ces derniers en font la demande.\
-Ces actions traitent des évolutions réglementaires ou techniques sur les thèmes enseignés en formation initiale.\
-Sur une période de trois ans, la durée minimum de la formation continue ne peut être inférieure à la moitié de la durée de la formation initiale.\
-2\. De l'entraînement périodique :\
-Pour chaque agent utilisant un équipement d'imagerie radioscopique, l'employeur est tenu d'organiser un entraînement périodique. Sa durée ne peut être inférieure à six heures sur une période de trois mois, et à trois heures si l'employeur met en œuvre sur l'équipement un dispositif de test par projection d'image de menace utilisé en permanence.
+1. De la formation continue :\
+   L'employeur peut planifier des actions de formation continue à l'attention de ses salariés et est tenu d'en planifier si ces derniers en font la demande.\
+   Ces actions traitent des évolutions réglementaires ou techniques sur les thèmes enseignés en formation initiale.\
+   Sur une période de trois ans, la durée minimum de la formation continue ne peut être inférieure à la moitié de la durée de la formation initiale.
+1. De l'entraînement périodique :\
+   Pour chaque agent utilisant un équipement d'imagerie radioscopique, l'employeur est tenu d'organiser un entraînement périodique. Sa durée ne peut être inférieure à six heures sur une période de trois mois, et à trois heures si l'employeur met en œuvre sur l'équipement un dispositif de test par projection d'image de menace utilisé en permanence.
 
 VII.-Reconnaissance des compétences acquises antérieurement
 

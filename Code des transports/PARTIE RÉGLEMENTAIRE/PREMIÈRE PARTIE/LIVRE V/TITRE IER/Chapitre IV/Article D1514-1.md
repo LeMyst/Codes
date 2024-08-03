@@ -2,21 +2,21 @@
 
 I.-Les accidents, incidents ou conditions génératrices d'accidents situés dans l'environnement de conduite du véhicule dont la détection est concernée par le II de l'article L. 1514-1 du code des transports sont les événements suivants :
 
-1\. Visibilité réduite pour cause de pluie, de neige, de brouillard ou de fumée ;
+1. Visibilité réduite pour cause de pluie, de neige, de brouillard ou de fumée ;
 
-2\. Route temporairement glissante ;
+1. Route temporairement glissante ;
 
-3\. Présence d'un véhicule arrêté sur la voie ;
+1. Présence d'un véhicule arrêté sur la voie ;
 
-4\. Circulation d'un véhicule de vitesse anormalement lente sur la voie ;
+1. Circulation d'un véhicule de vitesse anormalement lente sur la voie ;
 
-5\. Obstacle sur la voie ;
+1. Obstacle sur la voie ;
 
-6\. Personne sur la voie ;
+1. Personne sur la voie ;
 
-7\. Conducteur en contresens ;
+1. Conducteur en contresens ;
 
-8\. Température en tunnel.
+1. Température en tunnel.
 
 Un arrêté du ministre chargé des transports précise les caractéristiques de ces évènements ainsi que les caractéristiques des réseaux routiers sur lesquels l'information sur l'occurrence de ces événements doit être transmise aux gestionnaires d'infrastructures routières, aux forces de police et de gendarmerie et aux services d'incendie et de secours compétents sur ces réseaux routiers.
 

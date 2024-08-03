@@ -1,6 +1,6 @@
 # Article A4231-2-10
 
-1\. Pour être titulaires d'un certificat de qualification de conducteur, les membres de l'équipage de pont doivent répondre aux exigences minimales en matière d'âge, de conformité administrative, de compétence et de temps de navigation suivantes :
+1. Pour être titulaires d'un certificat de qualification de conducteur, les membres de l'équipage de pont doivent répondre aux exigences minimales en matière d'âge, de conformité administrative, de compétence et de temps de navigation suivantes :
 
 Pour le conducteur les exigences sont les suivantes :
 
@@ -46,14 +46,14 @@ d) Avoir terminé avec succès un programme de formation délivré par un organi
 
 -avoir un certificat d'opérateur de radiotéléphonie en cours de validité ;
 
-2\. Pour être titulaires d'un certificat de qualification de conducteur, les membres de l'équipage de pont doivent justifier des exigences supplémentaires suivantes :
+2. Pour être titulaires d'un certificat de qualification de conducteur, les membres de l'équipage de pont doivent justifier des exigences supplémentaires suivantes :
 
 a) Posséder l'aptitude médicale au sens de l'article A. 4231-4-1 ;
 
 b) Posséder les capacités professionnelles et connaissances nécessaires en vertu de l'ES-QIN (partie I, chapitre 2) ;
 
-3\. La qualification visée au point 2, b, du présent article, est attestée par la réussite d'un examen théorique sur les connaissances nécessaires conformément à l'ES-QIN (partie I, chapitre 2) et d'un examen pratique conformément à l'ES-QIN (partie II, chapitre 4) ;
+3. La qualification visée au point 2, b, du présent article, est attestée par la réussite d'un examen théorique sur les connaissances nécessaires conformément à l'ES-QIN (partie I, chapitre 2) et d'un examen pratique conformément à l'ES-QIN (partie II, chapitre 4) ;
 
-4\. L'examen pratique visé au point 3 doit être passé à bord d'un bâtiment mentionné dans l'ES-QIN ou sur un simulateur agréé à cet effet selon les dispositions de l'article A. 4231-2-9 ;
+1. L'examen pratique visé au point 3 doit être passé à bord d'un bâtiment mentionné dans l'ES-QIN ou sur un simulateur agréé à cet effet selon les dispositions de l'article A. 4231-2-9 ;
 
-5\. La validité des certificats de qualification pour le niveau de commandement expire au plus tard le jour du prochain examen médical visé à l'article A. 4231-4-2, alinéa 2. Après cette date, le certificat de qualification perd d'office sa validité sans qu'il soit nécessaire que l'autorité compétente prenne une décision distincte.
+1. La validité des certificats de qualification pour le niveau de commandement expire au plus tard le jour du prochain examen médical visé à l'article A. 4231-4-2, alinéa 2. Après cette date, le certificat de qualification perd d'office sa validité sans qu'il soit nécessaire que l'autorité compétente prenne une décision distincte.

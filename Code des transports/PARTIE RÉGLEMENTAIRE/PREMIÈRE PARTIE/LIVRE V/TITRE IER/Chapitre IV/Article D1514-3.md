@@ -2,11 +2,11 @@
 
 I.-Les conditions d'écoulement du trafic routier dont l'observation est concernée par le II de l'article L. 1514-3 sont les suivantes :
 
-1\. Le temps de parcours du véhicule entre deux points marquant des limites de section du réseau ;
+1. Le temps de parcours du véhicule entre deux points marquant des limites de section du réseau ;
 
-2\. Le nombre de véhicules du constructeur ou de son mandataire franchissant une limite de section du réseau par unité de temps ;
+1. Le nombre de véhicules du constructeur ou de son mandataire franchissant une limite de section du réseau par unité de temps ;
 
-3\. Le nombre de véhicules et le type de véhicules observés dans l'environnement de conduite du véhicule.
+1. Le nombre de véhicules et le type de véhicules observés dans l'environnement de conduite du véhicule.
 
 Le consentement de la personne concernée, conducteur ou utilisateur du véhicule, au traitement de ces données, est requis pour la finalité mentionnée au II de l'article L. 1514-3.
 

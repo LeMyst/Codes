@@ -2,9 +2,9 @@
 
 I.-Les altérations des éléments de l'infrastructure routière, de son état et de son équipement situés dans l'environnement de conduite du véhicule, dont l'observation est concernée par le II de l'article L. 1514-2 sont les suivantes :
 
-1\. Défaut de visibilité des panneaux de signalisation et des feux de circulation ;
+1. Défaut de visibilité des panneaux de signalisation et des feux de circulation ;
 
-2\. Défaut de visibilité ou de continuité de la signalisation horizontale.
+1. Défaut de visibilité ou de continuité de la signalisation horizontale.
 
 Un arrêté du ministre chargé des transports précise les caractéristiques des éléments de l'infrastructure routière, de son état et de son équipement définissant une altération dont l'information doit être transmise aux gestionnaires d'infrastructures routières, ainsi que les réseaux routiers concernés.
 
@@ -40,11 +40,11 @@ VII.-La demande d'accès visée au V donne lieu à une proposition de convention
 
 VIII.-Lorsqu'un gestionnaire d'infrastructures routières demande au constructeur d'un véhicule terrestre à moteur la transmission de données produites par les systèmes intégrés à ce véhicule à moteur et caractérisant les altérations de l'infrastructure routière situés dans l'environnement de conduite du véhicule suivantes :
 
-1\. Déformation de la chaussée par déflexion ou affaissement ;
+1. Déformation de la chaussée par déflexion ou affaissement ;
 
-2\. Dégradation de l'état de surface de la chaussée par fissuration ou orniérage ;
+1. Dégradation de l'état de surface de la chaussée par fissuration ou orniérage ;
 
-3\. Ruptures ou affaissement des dispositifs de retenue.
+1. Ruptures ou affaissement des dispositifs de retenue.
 
 Le constructeur du véhicule terrestre à moteur propose au gestionnaire routier :
 

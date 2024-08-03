@@ -8,7 +8,7 @@ Modifié par Décret n°2007-1226 du 20 août 2007 - art. 9
 
 Ce document est un formulaire proposé à titre d'exemple aux opérateurs de transport et aux sous-traitants soucieux de contracter dans le respect du contrat type de sous-traitance.
 
-\- (Formulaire reproduit ci-dessous)
+- (Formulaire reproduit ci-dessous)
 
 ANNEXE III
 

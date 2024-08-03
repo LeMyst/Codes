@@ -2,7 +2,7 @@
 
 LISTE DES VOIES D'EAU INTÉRIEURES SUR LESQUELLES LES CONDUCTEURS DE BATEAUX DE MARCHANDISES NE PEUVENT PAS NAVIGUER SEUL À BORD
 
-1\. Liste des voies d'eau intérieures sur lesquelles les conducteurs de bateaux de marchandises de moins de 55 mètres ne peuvent pas naviguer seul à bord :
+1. Liste des voies d'eau intérieures sur lesquelles les conducteurs de bateaux de marchandises de moins de 55 mètres ne peuvent pas naviguer seul à bord :
 
 -le bief navigable de la Loire à Decize du PK 116.580 au PK 118.550 ;
 
@@ -26,7 +26,7 @@ LISTE DES VOIES D'EAU INTÉRIEURES SUR LESQUELLES LES CONDUCTEURS DE BATEAUX DE 
 
 -la Moselle internationale de Metz (PK 297.350) à la frontière à Apach (PK 242.490) ;
 
-2\. Liste des voies d'eau intérieures sur lesquelles les conducteurs de bateaux de marchandises de moins de 55 mètres ne peuvent pas naviguer seul à bord lorsque certaines conditions sont remplies :
+2. Liste des voies d'eau intérieures sur lesquelles les conducteurs de bateaux de marchandises de moins de 55 mètres ne peuvent pas naviguer seul à bord lorsque certaines conditions sont remplies :
 
 -la Saône entre le PK 2.2 et le PK 5.4, en période d'alternat (traversée de Lyon) ;
 

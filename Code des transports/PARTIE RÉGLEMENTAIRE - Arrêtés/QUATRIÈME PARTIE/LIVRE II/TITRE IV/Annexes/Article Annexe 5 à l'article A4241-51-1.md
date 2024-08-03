@@ -16,7 +16,7 @@ Section II. - SIGNAUX AUXILIAIRES
 
 Les signaux principaux peuvent être complétés par les signaux auxiliaires suivant :
 
-1\. Cartouche indiquant la distance à laquelle s'applique la prescription ou l'endroit où est située la particularité
+1. Cartouche indiquant la distance à laquelle s'applique la prescription ou l'endroit où est située la particularité
 
 Remarque : les cartouches sont placés au-dessus du signal principal
 
@@ -26,13 +26,13 @@ Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numér
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-2\. Signal lumineux additionnel
+2. Signal lumineux additionnel
 
 Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numéro 54 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-3\. Flèches indiquant la direction du secteur auquel s'applique le signal principal
+3. Flèches indiquant la direction du secteur auquel s'applique le signal principal
 
 Exemples :
 
@@ -40,7 +40,7 @@ Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numér
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
-4\. Cartouches donnant des explications ou des indications complémentaires
+4. Cartouches donnant des explications ou des indications complémentaires
 
 Remarque : Ces cartouches sont placés au-dessous du signal principal
 

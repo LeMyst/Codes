@@ -2,7 +2,7 @@
 
 Rencontre dans les passages étroits
 
-1\. Pour éviter, dans la mesure du possible, une rencontre dans les secteurs ou aux endroits où le chenal ne présente pas une largeur incontestablement suffisante pour une telle rencontre (passages étroits), les règles suivantes sont applicables :
+1. Pour éviter, dans la mesure du possible, une rencontre dans les secteurs ou aux endroits où le chenal ne présente pas une largeur incontestablement suffisante pour une telle rencontre (passages étroits), les règles suivantes sont applicables :
 
 a) Tous les bateaux doivent franchir les passages étroits dans le plus court délai possible ;
 
@@ -24,6 +24,6 @@ iii) en cas de rencontre de deux bateaux à voile, le bateau qui est au vent ou,
 
 Les dispositions du chiffre 1 ne s'appliquent pas aux menues embarcations à voile dans leur comportement avec d'autres bateaux.
 
-2\. Dans le cas où la rencontre dans un passage étroit est devenue inévitable, les bateaux doivent prendre toutes les mesures possibles pour que la rencontre ait lieu en un endroit et dans des conditions présentant un minimum de danger.
+2. Dans le cas où la rencontre dans un passage étroit est devenue inévitable, les bateaux doivent prendre toutes les mesures possibles pour que la rencontre ait lieu en un endroit et dans des conditions présentant un minimum de danger.
 
-3\. Les règlements particuliers de police peuvent définir les modalités de passage aux points singuliers, notamment les passages étroits et les souterrains, nécessitant la mise en œuvre d'un alternat.
+1. Les règlements particuliers de police peuvent définir les modalités de passage aux points singuliers, notamment les passages étroits et les souterrains, nécessitant la mise en œuvre d'un alternat.

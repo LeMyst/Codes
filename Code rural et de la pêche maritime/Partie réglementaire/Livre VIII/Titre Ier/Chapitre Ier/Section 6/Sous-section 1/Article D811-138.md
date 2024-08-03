@@ -6,13 +6,13 @@ Cet arrêté fixe la liste des blocs de compétences, mentionnés à l'article L
 
 Il prévoit en annexe pour chaque spécialité ou option, le référentiel de diplôme constitué par :
 
-\- un référentiel d'activités qui décrit les situations de travail et les activités exercées, les métiers ou emplois visés ;
+- un référentiel d'activités qui décrit les situations de travail et les activités exercées, les métiers ou emplois visés ;
 
-\- un référentiel de compétences qui identifie les capacités et les connaissances, y compris transversales, qui en découlent ;
+- un référentiel de compétences qui identifie les capacités et les connaissances, y compris transversales, qui en découlent ;
 
-\- un référentiel d'évaluation qui définit les critères et les modalités d'évaluation des acquis ;
+- un référentiel d'évaluation qui définit les critères et les modalités d'évaluation des acquis ;
 
-\- un référentiel de formation, qui définit les enseignements en vue de la préparation du diplôme.
+- un référentiel de formation, qui définit les enseignements en vue de la préparation du diplôme.
 
 Chaque arrêté fixe la liste et la nature des épreuves de la spécialité ou de l'option.
 

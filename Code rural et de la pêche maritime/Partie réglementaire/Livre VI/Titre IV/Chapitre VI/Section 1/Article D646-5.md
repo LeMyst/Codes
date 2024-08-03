@@ -12,8 +12,8 @@ Le contrôle mis en œuvre en application de l'article 25 du règlement (CE) n°
 
 Ce contrôle est établi sur la base :
 
-1\. D'examens documentaires ou physiques aux fins de vérification des conditions de production énoncées dans le cahier des charges ;
+1. D'examens documentaires ou physiques aux fins de vérification des conditions de production énoncées dans le cahier des charges ;
 
-2\. D'examens analytiques et le cas échéant organoleptiques.
+1. D'examens analytiques et le cas échéant organoleptiques.
 
 Ce contrôle est déclenché notamment à la suite du dépôt des déclarations prévues aux articles D. 646-6 à D. 646-10.

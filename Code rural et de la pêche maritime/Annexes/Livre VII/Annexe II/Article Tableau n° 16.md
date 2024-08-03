@@ -4,8 +4,9 @@ Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques
 
 (Mycobacterium marinum, Mycobacterium fortuitum)
 
-| DÉSIGNATION DE LA MALADIE | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLESde provoquer la maladie |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DE LA MALADIE | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLESde provoquer la maladie |
 | - A -Affections dues à Mycobacterium bovis : |  | Travaux susceptibles de mettre en contact avec des animaux porteurs de bacilles bovins ou exécutés dans des installations où ont séjourné de tels animaux.Travaux exécutés dans les abattoirs, les boucheries, les charcuteries, les triperies ou boyauderies, les entreprises d'équarrissage.Manipulation et traitement du sang, des glandes, des os, des cornes, des cuirs verts. |
 | - tuberculose cutanée ou sous-cutanée ; | 6 mois |
 | - tuberculose ganglionnaire ; | 6 mois |

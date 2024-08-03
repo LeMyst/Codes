@@ -8,9 +8,9 @@ Les comités d'éthique en expérimentation animale sont composés, au minimum, 
 
 3° Une personne justifiant de compétences dans l'un au moins des domaines suivants :
 
-\- soins des animaux ;
+- soins des animaux ;
 
-\- mise à mort des animaux ;
+- mise à mort des animaux ;
 
 4° Un vétérinaire ;
 

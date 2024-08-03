@@ -2,7 +2,7 @@
 
 I.-Les producteurs satisfont à leur obligation de procéder, dans le respect de la réglementation relative à la protection de l'environnement et à la mise sur le marché des matières fertilisantes et supports de culture, à l'élimination de la totalité des résidus de la vinification ou de toute opération de transformation du raisin :
 
-\- en livrant tout ou partie des marcs de raisins et des lies de vins obtenus à des catégories d'opérateurs définies par arrêté des ministres chargés de l'agriculture et du budget et comprenant notamment les distillateurs et les exploitants de centres de méthanisation ou de centres de compostages ;
+- en livrant tout ou partie des marcs de raisins et des lies de vins obtenus à des catégories d'opérateurs définies par arrêté des ministres chargés de l'agriculture et du budget et comprenant notamment les distillateurs et les exploitants de centres de méthanisation ou de centres de compostages ;
 
 -en procédant, sur leur exploitation, à la méthanisation ou au compostage de tout ou partie des marcs de raisins ;
 

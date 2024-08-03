@@ -8,13 +8,13 @@ II.-Pour une récolte déterminée, compte tenu notamment des caractéristiques 
 
 a) Le rendement mentionné au I peut être :
 
-1\. Diminué ;
+1. Diminué ;
 
-2\. Diminué, avec possibilité de revendication individuelle pour un volume supérieur ;
+1. Diminué, avec possibilité de revendication individuelle pour un volume supérieur ;
 
-3\. Augmenté dans la limite du rendement butoir inscrit dans le cahier des charges de l'appellation d'origine contrôlée concernée ;
+1. Augmenté dans la limite du rendement butoir inscrit dans le cahier des charges de l'appellation d'origine contrôlée concernée ;
 
-4\. Augmenté pour certains opérateurs, dans la limite du rendement butoir inscrit dans le cahier des charges de l'appellation d'origine contrôlée concernée, sur demande individuelle dûment justifiée auprès des services de l'Institut national de l'origine et de la qualité, et après enquête desdits services.
+1. Augmenté pour certains opérateurs, dans la limite du rendement butoir inscrit dans le cahier des charges de l'appellation d'origine contrôlée concernée, sur demande individuelle dûment justifiée auprès des services de l'Institut national de l'origine et de la qualité, et après enquête desdits services.
 
 b) Un volume substituable individuel, supérieur au rendement déterminé en application du I ou du a ci-dessus, peut être fixé dans la limite du rendement butoir mentionné dans le cahier des charges de l'appellation d'origine contrôlée concernée.
 

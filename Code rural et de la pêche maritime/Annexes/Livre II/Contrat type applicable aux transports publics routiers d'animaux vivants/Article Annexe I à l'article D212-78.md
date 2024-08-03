@@ -1,6 +1,6 @@
 # Article Annexe I à l'article D212-78
 
-1\. Objet et domaine d'application du contrat.
+1. Objet et domaine d'application du contrat.
 
 Le présent contrat a pour objet le transport en régime intérieur, par un transporteur public routier, d'animaux vivants quel qu'en soit le nombre par envoi, moyennant un prix devant assurer une juste rémunération du service ainsi rendu, le tout conformément aux dispositions de la loi n° 82-1153 d'orientation des transports intérieurs du 30 décembre 1982, notamment de ses articles 6,8,9 et 32, ainsi que des textes pris pour son application.
 
@@ -12,7 +12,7 @@ Quelle que soit la technique de transport utilisée, ce contrat règle les relat
 
 En cas de relations suivies entre un donneur d'ordre et un transporteur public ayant fait l'objet d'une convention écrite générale conclue conformément aux dispositions de l'article 8-II de la loi du 30 décembre 1982 susmentionnée, chaque envoi est présumé exécuté aux conditions de cette convention.
 
-2\. Définitions.
+2. Définitions.
 
 2.1. Envoi.
 
@@ -66,37 +66,37 @@ Par convoyage, on entend l'accompagnement des animaux par une ou plusieurs perso
 
 Par laissé-pour-compte, on entend l'envoi dont le destinataire a refusé de prendre livraison pour quelque motif que ce soit et qui est laissé à la disposition du transporteur par le donneur d'ordre, lequel l'analyse en perte totale.
 
-3\. Informations et documents à fournir au transporteur.
+3. Informations et documents à fournir au transporteur.
 
 3.1. Le donneur d'ordre fournit au transporteur, dans le cadre des dispositions des articles 24 et 25 de la loi n° 95-96 du 1er février 1995 préalablement à la présentation du véhicule au chargement, par écrit ou par tout autre procédé en permettant la mémorisation, les indications suivantes :
 
-1\. Les noms et les adresses complètes, ainsi que les numéros de téléphone, télex et télécopie de l'expéditeur et du destinataire ;
+1. Les noms et les adresses complètes, ainsi que les numéros de téléphone, télex et télécopie de l'expéditeur et du destinataire ;
 
-2\. Les noms et les adresses complètes, ainsi que les numéros de téléphone, télex et télécopie des lieux de chargement et de déchargement, lorsque ces derniers diffèrent de ceux indiqués ci-dessus ;
+1. Les noms et les adresses complètes, ainsi que les numéros de téléphone, télex et télécopie des lieux de chargement et de déchargement, lorsque ces derniers diffèrent de ceux indiqués ci-dessus ;
 
-3\. Le nom et l'adresse du donneur d'ordre ;
+1. Le nom et l'adresse du donneur d'ordre ;
 
-4\. Les dates et, si besoin est, les heures de chargement et de déchargement ;
+1. Les dates et, si besoin est, les heures de chargement et de déchargement ;
 
-5\. Les heures limites de mise à disposition du véhicule en vue du chargement et du déchargement ;
+1. Les heures limites de mise à disposition du véhicule en vue du chargement et du déchargement ;
 
-6\. L'espèce des animaux, le nombre, le poids, le cas échéant l'identité de l'animal, le poids brut en cas d'utilisation de matériel spécifique (cages, caisses, etc.) ;
+1. L'espèce des animaux, le nombre, le poids, le cas échéant l'identité de l'animal, le poids brut en cas d'utilisation de matériel spécifique (cages, caisses, etc.) ;
 
-7\. S'il y a lieu, le métrage linéaire de plancher ou le volume nécessaire ;
+1. S'il y a lieu, le métrage linéaire de plancher ou le volume nécessaire ;
 
-8\. La spécificité des animaux quand elle requiert des dispositions particulières (animaux dangereux, fragiles, etc.) ;
+1. La spécificité des animaux quand elle requiert des dispositions particulières (animaux dangereux, fragiles, etc.) ;
 
-9\. Les modalités de paiement (port payé ou port dû) ;
+1. Les modalités de paiement (port payé ou port dû) ;
 
-10\. Toute autre modalité d'exécution du contrat de transport (convoyage, livraison contre remboursement, déboursé, déclaration de valeur, déclaration d'intérêt spécial à la livraison, etc.) ;
+1. Toute autre modalité d'exécution du contrat de transport (convoyage, livraison contre remboursement, déboursé, déclaration de valeur, déclaration d'intérêt spécial à la livraison, etc.) ;
 
-11\. Le numéro de la commande et les références de l'envoi, quand ces informations sont nécessaires à la bonne exécution du contrat ;
+1. Le numéro de la commande et les références de l'envoi, quand ces informations sont nécessaires à la bonne exécution du contrat ;
 
-12\. Le cas échéant, les prestations annexes convenues et leurs modalités d'exécution ;
+1. Le cas échéant, les prestations annexes convenues et leurs modalités d'exécution ;
 
-13\. Les instructions spécifiques en cas d'empêchement à la livraison (nouvelle présentation, livraison à domicile, hébergement, retour, vente ou abattage des animaux, etc.) ;
+1. Les instructions spécifiques en cas d'empêchement à la livraison (nouvelle présentation, livraison à domicile, hébergement, retour, vente ou abattage des animaux, etc.) ;
 
-14\. Les éléments nécessaires à l'élaboration du plan de marche si besoin est.
+1. Les éléments nécessaires à l'élaboration du plan de marche si besoin est.
 
 3.2. En outre, le donneur d'ordre informe le transporteur des particularités non apparentes des animaux et de toutes données susceptibles d'avoir une incidence sur la bonne exécution du contrat de transport.
 
@@ -106,7 +106,7 @@ Par laissé-pour-compte, on entend l'envoi dont le destinataire a refusé de pre
 
 3.5. Le donneur d'ordre supporte vis-à-vis du transporteur les conséquences d'une déclaration fausse ou incomplète sur les caractéristiques de l'envoi ainsi que d'une absence ou d'une insuffisance de déclaration ayant eu pour effet, entre autres, de dissimuler le caractère fragile, dangereux ou frauduleux des animaux transportés.
 
-4\. Modification du contrat de transport.
+4. Modification du contrat de transport.
 
 Le donneur d'ordre a le droit de disposer des animaux jusqu'au moment où le destinataire fait valoir ses droits.
 
@@ -118,13 +118,13 @@ Lorsque les instructions entraînent une immobilisation du véhicule et/ ou de l
 
 Toute modification au contrat entraîne un réajustement du prix initial.
 
-5\. Matériel de transport.
+5. Matériel de transport.
 
 Le transporteur effectue le transport à l'aide d'un matériel adapté aux animaux ainsi qu'aux accès et installations de chargement et de déchargement préalablement définis par le donneur d'ordre.
 
 Le donneur d'ordre doit refuser le véhicule qui ne correspond pas aux exigences réglementaires compte tenu de l'espèce et de l'âge des animaux à transporter et de la durée du transport.
 
-6\. Conditionnement, emballage, étiquetage et préparation des animaux.
+6. Conditionnement, emballage, étiquetage et préparation des animaux.
 
 6.1. Lorsque l'espèce des animaux le nécessite, ceux-ci doivent être conditionnés, emballés, marqués ou contremarqués de façon à supporter un transport exécuté dans des conditions normales et des manutentions successives intervenant en cours de transport et à ne pas constituer une cause de danger pour le personnel de conduite, de convoyage ou de manutention, les autres marchandises transportées, le véhicule ou les tiers.
 
@@ -142,7 +142,7 @@ Le transport en retour des supports de charge vides fait l'objet d'un contrat de
 
 6.5. Il appartient au donneur d'ordre d'assurer la préparation des animaux en vue de la bonne réalisation de leur transport.
 
-7\. Chargement, arrimage, déchargement.
+7. Chargement, arrimage, déchargement.
 
 7.1. Le chargement, le calage et l'arrimage des animaux sont exécutés par le donneur d'ordre ou par son représentant sous sa responsabilité.
 
@@ -166,13 +166,13 @@ Ces prestations donnent lieu à facturation séparée, conformément à l'articl
 
 7.3. La mise en oeuvre de matériel spécialisé attaché au véhicule (barrière, étage, pont, rampe, passerelle...) est à la charge du transporteur.
 
-8\. Bâchage, débâchage.
+8. Bâchage, débâchage.
 
 Le bâchage ou le débâchage du véhicule ainsi que le montage ou le démontage des ridelles et des ranchers sont à la charge du transporteur.
 
 L'expéditeur ou, suivant le cas, le destinataire doit mettre en place les moyens nécessaires en personnel et en matériel pour aider le transporteur à les exécuter.
 
-9\. Livraison.
+9. Livraison.
 
 La livraison est effectuée entre les mains de la personne désignée comme destinataire sur le document de transport ou de son représentant. Dès que cette personne a pris possession de l'envoi, elle en donne décharge au transporteur en signant le document de transport.
 
@@ -180,13 +180,13 @@ Le destinataire peut, à cette occasion, formuler des réserves motivées sur l'
 
 La signature du destinataire ou de son représentant est la preuve de la remise et de l'acceptation de l'envoi ; elle est accompagnée du nom du signataire, de la date et de l'heure de la livraison ainsi que du cachet commercial de l'établissement.
 
-10\. Conditions d'accès aux lieux de chargement et de déchargement.
+10. Conditions d'accès aux lieux de chargement et de déchargement.
 
 Les lieux désignés par le donneur d'ordre doivent être accessibles sans contraintes ni risques particuliers pour des véhicules de caractéristiques usuelles pour le transport considéré.
 
 Le transporteur se conforme au protocole de sécurité applicable sur le site de chargement et/ ou de déchargement, conformément à l'arrêté du 26 avril 1996 relatif aux tarifs de transports effectués par des véhicules sanitaires terrestres privés. Plus généralement, il est tenu de respecter les règles de sécurité en vigueur dans les lieux où il est amené à intervenir.
 
-11\. Identification du véhicule et durées de mise à disposition en vue du chargement ou du déchargement.
+11. Identification du véhicule et durées de mise à disposition en vue du chargement ou du déchargement.
 
 A l'arrivée du véhicule sur les lieux de chargement ou de déchargement ou dans l'aire d'attente même si elle est extérieure, le transporteur informe le représentant de l'établissement de chargement ou de déchargement que son véhicule est à disposition pour effectuer l'une ou l'autre de ces opérations. L'heure de cette mise à disposition est immédiatement consignée par le transporteur sur le document de suivi, ce qui constitue l'identification du véhicule au sens de la loi n° 98-69 du 6 février 1998 tendant à améliorer les conditions d'exercice de la profession de transporteur routier.
 
@@ -198,9 +198,9 @@ Ces durées prennent fin au moment où est consignée, sur le document de suivi,
 
 Les durées totales de mise à disposition du véhicule sont au maximum :
 
-1\. Pour les envois inférieurs à cent kilogrammes composés de moins de vingt colis : de quinze minutes ;
+1. Pour les envois inférieurs à cent kilogrammes composés de moins de vingt colis : de quinze minutes ;
 
-2\. Pour les autres envois : de trente minutes.
+1. Pour les autres envois : de trente minutes.
 
 En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 18 ci-après.
 
@@ -208,11 +208,11 @@ En cas de dépassement non imputable au transporteur des durées ainsi fixées, 
 
 Les durées totales de mise à disposition du véhicule sont au maximum :
 
-1\. De deux heures en cas de rendez-vous respecté ;
+1. De deux heures en cas de rendez-vous respecté ;
 
-2\. De trois heures en cas de plage horaire respectée ;
+1. De trois heures en cas de plage horaire respectée ;
 
-3\. De quatre heures dans tous les autres cas.
+1. De quatre heures dans tous les autres cas.
 
 Lorsqu'il y a rendez-vous, un retard de trente minutes est admis par rapport à l'heure d'arrivée fixée ainsi qu'un allongement de la durée d'immobilisation du véhicule de trente minutes.
 
@@ -220,25 +220,25 @@ Le déchargement des animaux est effectué par le destinataire lorsque le véhic
 
 En cas de dépassement non imputable au transporteur des durées ainsi fixées, celui-ci perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage facturé séparément, conformément aux dispositions de l'article 18 ci-après.
 
-12\. Opérations de pesage.
+12. Opérations de pesage.
 
 Si l'une des parties au contrat demande la pesée de l'envoi, cette opération est effectuée sur le lieu de chargement ou de déchargement. Si le déplacement du véhicule est nécessaire, son coût ainsi que celui de l'opération de pesage sont supportés par le demandeur.
 
-13\. Défaillance totale ou partielle du donneur d'ordre dans la remise de l'envoi.
+13. Défaillance totale ou partielle du donneur d'ordre dans la remise de l'envoi.
 
 En cas de préjudice prouvé résultant d'une non-remise totale ou partielle de l'envoi lors de la mise à disposition du véhicule par le transporteur, l'indemnité à verser au transporteur par le donneur d'ordre ne peut excéder le prix du transport.
 
-14\. Défaillance du transporteur au chargement.
+14. Défaillance du transporteur au chargement.
 
 En cas de rendez-vous tel que défini à l'article 2-6 :
 
-1\. Si le transporteur n'avise pas le donneur d'ordre de son retard, celui-ci peut rechercher un autre transporteur à l'issue d'un délai d'attente de deux heures ;
+1. Si le transporteur n'avise pas le donneur d'ordre de son retard, celui-ci peut rechercher un autre transporteur à l'issue d'un délai d'attente de deux heures ;
 
-2\. Si le transporteur avise le donneur d'ordre de son retard, celui-ci peut rechercher immédiatement un autre transporteur, si le retard, égal ou supérieur à deux heures, annoncé par le transporteur, risque d'entraîner un préjudice grave.
+1. Si le transporteur avise le donneur d'ordre de son retard, celui-ci peut rechercher immédiatement un autre transporteur, si le retard, égal ou supérieur à deux heures, annoncé par le transporteur, risque d'entraîner un préjudice grave.
 
 En l'absence de rendez-vous, le donneur d'ordre peut rechercher un autre transporteur à l'issue d'un délai d'attente raisonnable.
 
-15\. Empêchement au transport.
+15. Empêchement au transport.
 
 Si le transport est empêché ou interrompu temporairement ou si, pour un motif quelconque, l'exécution du transport est ou devient impossible dans les conditions initialement prévues, le transporteur demande des instructions au donneur d'ordre.
 
@@ -248,7 +248,7 @@ Sauf si l'empêchement, l'interruption ou l'impossibilité est imputable au tran
 
 En cas d'empêchement définitif dû à la force majeure, le transporteur a droit à la partie du prix du transport correspondant au trajet effectué jusqu'à l'arrêt du transport.
 
-16\. Soins aux animaux en cours de transport et de convoyage.
+16. Soins aux animaux en cours de transport et de convoyage.
 
 En cours de transport, le convoyeur apporte les soins généraux et ordinaires nécessaires au transport d'animaux vivants, notamment la nourriture et l'abreuvement des animaux, conformément à l'article L. 214-12 du code rural et de la pêche maritime.
 
@@ -256,19 +256,19 @@ Les soins spéciaux aux animaux demandés par le donneur d'ordre ou exigés par 
 
 Lorsque l'état apparent d'un animal paraît le justifier, le convoyeur donne les soins appropriés et, si besoin est, intervient auprès d'un docteur vétérinaire pour le compte du donneur d'ordre.
 
-17\. Modalités de livraison-Empêchement à la livraison.
+17. Modalités de livraison-Empêchement à la livraison.
 
 17.1. Cas d'empêchement à la livraison.
 
 Il y a empêchement à la livraison chaque fois que l'envoi, parvenu au lieu de livraison prévu, ne peut être remis au destinataire désigné et, notamment, en cas :
 
-1\. D'absence du destinataire ;
+1. D'absence du destinataire ;
 
-2\. D'inaccessibilité du lieu de livraison ;
+1. D'inaccessibilité du lieu de livraison ;
 
-3\. D'immobilisation du véhicule, chez le destinataire, supérieure aux durées définies à l'article 11 ci-dessus ;
+1. D'immobilisation du véhicule, chez le destinataire, supérieure aux durées définies à l'article 11 ci-dessus ;
 
-4\. De refus de prendre livraison par le destinataire.
+1. De refus de prendre livraison par le destinataire.
 
 17.2. Modalités.
 
@@ -282,7 +282,7 @@ Les animaux qui ont fait l'objet de l'avis de souffrance restent à la dispositi
 
 Les frais de nouvelle présentation, de livraison à domicile, de garde, d'hébergement, de retour, de vente ou d'abattage des animaux sont à la charge du donneur d'ordre, sauf s'ils sont la conséquence d'une faute du transporteur. En outre, le transporteur perçoit du donneur d'ordre un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage et pour les opérations de manutention accomplies, facturé séparément, conformément aux dispositions de l'article 18 ci-dessous.
 
-18\. Rémunération du transport et des prestations annexes et complémentaires.
+18. Rémunération du transport et des prestations annexes et complémentaires.
 
 La rémunération du transporteur comprend le prix du transport stricto sensu, celui des prestations annexes et des prestations complémentaires auxquels s'ajoutent les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport ainsi que toute taxe liée au transport et/ ou tout droit dont la perception est mise à la charge du transporteur.
 
@@ -292,31 +292,31 @@ Sans préjudice des dispositions des paragraphes II et III de l'article 24 de la
 
 Toute prestation annexe ou complémentaire est rémunérée au prix convenu. Tel est le cas, notamment :
 
-1\. Des opérations d'encaissement, en particulier dans le cas d'encaissement différé ;
+1. Des opérations d'encaissement, en particulier dans le cas d'encaissement différé ;
 
-2\. De la livraison contre remboursement ;
+1. De la livraison contre remboursement ;
 
-3\. Des déboursés ;
+1. Des déboursés ;
 
-4\. De la déclaration de valeur ;
+1. De la déclaration de valeur ;
 
-5\. De la déclaration d'intérêt spécial à la livraison ;
+1. De la déclaration d'intérêt spécial à la livraison ;
 
-6\. Du mandat d'assurance ;
+1. Du mandat d'assurance ;
 
-7\. De l'aide au chargement ou au déchargement ;
+1. De l'aide au chargement ou au déchargement ;
 
-8\. De la fourniture de paille et de litière ;
+1. De la fourniture de paille et de litière ;
 
-9\. De la nouvelle présentation au lieu de chargement ou au lieu de déchargement ;
+1. De la nouvelle présentation au lieu de chargement ou au lieu de déchargement ;
 
-10\. Des soins spéciaux aux animaux ;
+1. Des soins spéciaux aux animaux ;
 
-11\. Des opérations de pesage ;
+1. Des opérations de pesage ;
 
-12\. Du nettoyage, du lavage ou de la désinfection du véhicule ;
+1. Du nettoyage, du lavage ou de la désinfection du véhicule ;
 
-13\. Des frais d'hébergement.
+1. Des frais d'hébergement.
 
 Toute modification du contrat de transport initial notamment, tout changement d'itinéraire, toute immobilisation du véhicule et/ ou de l'équipage non imputables au transporteur, entraîne un réajustement des conditions de rémunération du transporteur.
 
@@ -324,11 +324,11 @@ Les frais supplémentaires de suivi du contrat de transport sont facturés sépa
 
 Tous les prix sont calculés hors taxes.
 
-19\. Dommages causés au véhicule.
+19. Dommages causés au véhicule.
 
 Le donneur d'ordre répond, vis-à-vis du transporteur, des dommages causés au véhicule par les animaux au cours ou à l'occasion de leur transport, sauf à justifier que ces dommages sont la conséquence d'une faute du transporteur.
 
-20\. Modalités de paiement.
+20. Modalités de paiement.
 
 20.1. Le paiement du prix du transport, des prestations annexes et complémentaires est exigible à l'enlèvement (port payé) ou à la livraison (port dû) sur présentation de la facture ou d'un document en tenant lieu.
 
@@ -346,7 +346,7 @@ S'il n'a pas été encaissé au moment de l'enlèvement ou de la livraison, ce p
 
 20.7. En cas de perte et/ ou d'avarie partielles ou totales de la marchandise, le transporteur a droit au paiement du prix du transport, sous réserve qu'il règle l'indemnité correspondante.
 
-21\. Livraison contre remboursement.
+21. Livraison contre remboursement.
 
 La livraison contre remboursement doit être expressément demandée par le donneur d'ordre conformément aux dispositions de l'article 3.
 
@@ -358,29 +358,29 @@ La stipulation d'une livraison contre remboursement ne vaut pas déclaration de 
 
 La responsabilité du transporteur en cas de manquement à cette obligation est engagée selon les règles du mandat. Néanmoins, la prescription des actions relatives à la livraison contre remboursement est d'un an à compter de la date de la livraison.
 
-22\. Présomption de la perte de la marchandise.
+22. Présomption de la perte de la marchandise.
 
 L'ayant droit peut, sans avoir à fournir d'autres preuves, considérer la marchandise comme perdue quand elle n'a pas été livrée dans les trente jours qui suivent l'expiration du délai convenu ou, à défaut, du délai nécessaire à la réalisation du transport dans les conditions prévues à l'article 24-1 ci-après.
 
 L'ayant droit est alors indemnisé dans les conditions prévues à l'article 23.
 
-23\. Indemnisation pour pertes et avaries-Déclaration de valeur.
+23. Indemnisation pour pertes et avaries-Déclaration de valeur.
 
 Le transporteur est tenu de verser une indemnité pour la réparation de tous les dommages justifiés dont il est légalement tenu pour responsable, résultant de la perte totale ou partielle ou de l'avarie de la marchandise.
 
 Cette indemnité ne peut excéder ni le montant du préjudice réel ni, par animal, les sommes ci-après :
 
-1\. Bovins pesant plus de 500 kg : 1 500 euros ;
+1. Bovins pesant plus de 500 kg : 1 500 euros ;
 
-2\. Bovins pesant jusqu'à 500 kg (y compris les veaux de plus de 200 kg) : 900 euros ;
+1. Bovins pesant jusqu'à 500 kg (y compris les veaux de plus de 200 kg) : 900 euros ;
 
-3\. Veaux (ne dépassant pas 200 kg) : 500 euros ;
+1. Veaux (ne dépassant pas 200 kg) : 500 euros ;
 
-4\. Porcins : 270 euros ;
+1. Porcins : 270 euros ;
 
-5\. Ovins, caprins : 160 euros ;
+1. Ovins, caprins : 160 euros ;
 
-6\. Equidés :
+1. Equidés :
 
 -chevaux : 1 600 euros ;
 
@@ -388,21 +388,21 @@ Cette indemnité ne peut excéder ni le montant du préjudice réel ni, par anim
 
 -ânes, mulets, bardots : 290 euros ;
 
-7\. Autres animaux : 14 euros/ kg.
+7. Autres animaux : 14 euros/ kg.
 
 Le donneur d'ordre a la faculté de faire une déclaration de valeur qui a pour effet de substituer le montant de cette déclaration au plafond de l'indemnité, fixé à l'alinéa ci-dessus.
 
 Le donneur d'ordre peut en outre :
 
-1\. Déclarer des valeurs différentes pour des animaux de même catégorie ;
+1. Déclarer des valeurs différentes pour des animaux de même catégorie ;
 
-2\. Limiter sa déclaration à une partie seulement des animaux chargés.
+1. Limiter sa déclaration à une partie seulement des animaux chargés.
 
 Dans ces deux derniers cas, chacun des animaux concernés doit faire l'objet d'une déclaration de valeur séparée et être désigné par une marque spéciale permettant son identification sans contestation possible.
 
 En tout état de cause, l'indemnité est réduite d'un tiers lorsque le donneur d'ordre impose l'abattage des animaux laissés pour compte ou en interdit le sauvetage.
 
-24\. Délai d'acheminement et indemnisation pour retard à la livraison.
+24. Délai d'acheminement et indemnisation pour retard à la livraison.
 
 24.1. Délai d'acheminement.
 
@@ -426,7 +426,7 @@ Le donneur d'ordre a toujours la faculté de faire une déclaration d'intérêt 
 
 Sans préjudice de l'indemnité prévue aux deux alinéas précédents, les pertes ou avaries à la marchandise résultant d'un retard sont indemnisées conformément aux dispositions de l'article 23 ci-dessus.
 
-25\. Respect des diverses réglementations.
+25. Respect des diverses réglementations.
 
 Conformément aux dispositions de l'article 9 de la loi du 30 décembre 1982 susmentionnée, le transporteur doit, dans tous les cas, conduire les opérations de transport dans des conditions strictement compatibles avec la réglementation des conditions de travail et de sécurité.
 
@@ -434,7 +434,7 @@ Le transport d'animaux vivants étant soumis à des réglementations particuliè
 
 Chacune des parties supporte les conséquences des manquements qui lui sont imputables.
 
-26\. Durée, reconduction et résiliation du contrat de transport.
+26. Durée, reconduction et résiliation du contrat de transport.
 
 26.1. Le contrat de transport est conclu, soit pour une durée déterminée, reconductible ou non, soit pour une durée indéterminée.
 

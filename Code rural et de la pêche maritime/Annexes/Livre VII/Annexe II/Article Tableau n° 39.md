@@ -2,15 +2,16 @@
 
 Affections périarticulaires provoquées par certains gestes et postures de travail
 
-| DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLESde provoquer ces maladies |
+|  |  |  |
 | --- | --- | --- |
+| DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLESde provoquer ces maladies |
 | A. - Epaule |  |  |
 | Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs). | 7 jours | Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule. |
 | Epaule enraidie succédant à une épaule douloureuse simple rebelle. | 90 jours | Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule. |
-| B. - Coude |  |
+| B. - Coude  |  |
 | Epicondylite. | 7 jours | Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de supination et pronosupination. |
 | Epitrochléite. | 7 jours | Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et de la main et du pronation poignet ou des mouvements de supination et pronosupination. |
-| Hygromas : |  |
+| Hygromas :  |  |
 | - hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ; | 7 jours | Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. |
 | - hygroma chronique des bourses séreuses ; | 90 jours | Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. |
 | Syndrome de la gouttière épitrochléo-olécranienne (compression du nerf cubital). | 90 jours | Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. |

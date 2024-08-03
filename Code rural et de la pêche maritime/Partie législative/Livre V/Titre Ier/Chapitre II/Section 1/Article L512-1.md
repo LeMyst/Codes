@@ -6,14 +6,14 @@ Les chambres régionales d'agriculture peuvent être consultées par les personn
 
 Elles remplissent les missions suivantes :
 
-\- elles assurent l'élaboration et la coordination dans les régions des programmes régionaux de développement agricole et rural ;
+- elles assurent l'élaboration et la coordination dans les régions des programmes régionaux de développement agricole et rural ;
 
 -elles assurent l'harmonisation des conditions d'emploi des personnels des chambres d'agriculture de la région, dans le respect des dispositions statutaires et dans un cadre négocié avec les organisations représentatives du personnel ;
 
 -elles orientent, structurent et coordonnent les actions des chambres départementales d'agriculture, en définissant une stratégie régionale, dans le respect des orientations nationales, et en adoptant le budget nécessaire à la mise en œuvre de cette stratégie, et assurent à leur bénéfice, dans des conditions définies par décret, des missions juridiques, administratives et comptables ainsi que des actions de communication ;
 
-\- elles contribuent à l'élaboration des orientations de la politique contractuelle entre l'Etat et les régions, des schémas d'aménagement du territoire et de gestion des ressources naturelles intéressant les régions ;
+- elles contribuent à l'élaboration des orientations de la politique contractuelle entre l'Etat et les régions, des schémas d'aménagement du territoire et de gestion des ressources naturelles intéressant les régions ;
 
-\- elles sont consultées lors de l'établissement des contrats de plans régionaux de développement des formations et de l'orientation professionnelles des jeunes et des adultes ;
+- elles sont consultées lors de l'établissement des contrats de plans régionaux de développement des formations et de l'orientation professionnelles des jeunes et des adultes ;
 
-\- elles contribuent, dans leur champ de compétences, à l'élaboration des programmes régionaux européens et de la politique des régions dans le domaine économique.
+- elles contribuent, dans leur champ de compétences, à l'élaboration des programmes régionaux européens et de la politique des régions dans le domaine économique.

@@ -8,9 +8,9 @@ a) La testostérone, la progestérone ou les dérivés donnant facilement les co
 
 b) Les substances bêta-agonistes :
 
-\- pour l'espèce bovine par voie injectable, pour l'induction de la tocolyse ;
+- pour l'espèce bovine par voie injectable, pour l'induction de la tocolyse ;
 
-\- pour les équidés, pour le traitement des troubles respiratoires, de la maladie naviculaire, de la fourbure aiguë ou l'induction de la tocolyse ;
+- pour les équidés, pour le traitement des troubles respiratoires, de la maladie naviculaire, de la fourbure aiguë ou l'induction de la tocolyse ;
 
 c) Le trembolone allyle, ou altrenogest, administré à des équidés, par voie orale, et pour le traitement d'un trouble de la fécondité.
 

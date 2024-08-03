@@ -56,11 +56,11 @@ Durée minimale et maximale d'amortissement : 50 à 60 ans.
 
 b) Extensions ou aménagements :
 
-\- gros oeuvre.
+- gros oeuvre.
 
 Durée minimale et maximale d'amortissement : 20 à 40 ans.
 
-\- autres éléments.
+- autres éléments.
 
 Durée minimale et maximale d'amortissement : 10 à 30 ans.
 

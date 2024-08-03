@@ -4,7 +4,7 @@ Affections professionnelles provoquées par les isocyanates organiques
 
 | DÉSIGNATION DES MALADIES | DÉLAI de priseen charge | LISTE INDICATIVE des principaux travauxsusceptibles de provoquer ces maladies |
 | --- | --- | --- |
-| Blépharo-conjonctivite récidivante. | 3 jours | Travaux exposant à l'inhalation ou à la manipulation d'isocyanates organiques, notamment :- application de vernis et laques de polyuréthanes ;- application de mousses polyuréthanes à l'état liquide ;- utilisation de colles à base de polyuréthanes ;- manipulation de peintures contenant des isocyanates organiques. |
+| Blépharo-conjonctivite récidivante.  | 3 jours  | Travaux exposant à l'inhalation ou à la manipulation d'isocyanates organiques, notamment :- application de vernis et laques de polyuréthanes ;- application de mousses polyuréthanes à l'état liquide ;- utilisation de colles à base de polyuréthanes ;- manipulation de peintures contenant des isocyanates organiques. |
 | Syndrome bronchique récidivant. | 7 jours |
 | Lésions eczématiformes (cf. tableau 44). | Cf. tableau 44 |
 | Rhinite (cf. tableau 45 A). | Cf. tableau 45 A |

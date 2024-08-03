@@ -2,15 +2,15 @@
 
 Des élections partielles ont lieu :
 
-1\. Dans le cas où l'annulation des opérations électorales d'un collège est devenue définitive ;
+1. Dans le cas où l'annulation des opérations électorales d'un collège est devenue définitive ;
 
-2\. En cas de dissolution de la chambre d'agriculture ;
+1. En cas de dissolution de la chambre d'agriculture ;
 
-3\. Lorsque le nombre des membres d'une chambre départementale d'agriculture est réduit de plus d'un quart ;
+1. Lorsque le nombre des membres d'une chambre départementale d'agriculture est réduit de plus d'un quart ;
 
-4\. Lorsque le nombre des membres représentant le collège des exploitants et assimilés est réduit de plus d'un quart ;
+1. Lorsque le nombre des membres représentant le collège des exploitants et assimilés est réduit de plus d'un quart ;
 
-5\. Lorsque la représentation de l'un des collèges mentionnés aux 2°, 3°, 4° et 5° de l'article R. 511-6 est réduite de plus de moitié.
+1. Lorsque la représentation de l'un des collèges mentionnés aux 2°, 3°, 4° et 5° de l'article R. 511-6 est réduite de plus de moitié.
 
 Dans les cas définis aux 3°, 4° et 5° ci-dessus, le président de la chambre d'agriculture avise immédiatement le préfet.
 

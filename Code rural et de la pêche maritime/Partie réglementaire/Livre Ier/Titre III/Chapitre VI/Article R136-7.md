@@ -6,9 +6,9 @@ La demande précise l'objet de la distraction, les moyens prévus pour la réali
 
 L'arrêté portant distraction du terrain fixe la date à laquelle celle-ci interviendra compte tenu des engagements que l'association aurait pu contracter sur les terrains distraits. Il détermine les charges restant attachées au fonds distrait :
 
-1\. Au titre des emprunts déjà contractés par l'association dont il est précisé la nature, le montant et la durée ;
+1. Au titre des emprunts déjà contractés par l'association dont il est précisé la nature, le montant et la durée ;
 
-2\. Au titre de l'entretien des équipements collectifs dont il continuera à bénéficier.
+1. Au titre de l'entretien des équipements collectifs dont il continuera à bénéficier.
 
 Cet arrêté fait l'objet des mesures de publicité prévues au troisième alinéa de l'article 15 du décret n° 2006-504 du 3 mai 2006.
 

@@ -8,10 +8,10 @@ Elle statue dans un délai de dix jours, faute de quoi la protestation est répu
 
 La commission de contrôle des opérations électorales peut :
 
-\- constater l'inéligibilité d'un candidat et nommer le candidat suivant de la même liste ;
+- constater l'inéligibilité d'un candidat et nommer le candidat suivant de la même liste ;
 
-\- rectifier le nombre de voix obtenues par les listes de candidats ;
+- rectifier le nombre de voix obtenues par les listes de candidats ;
 
-\- en cas d'irrégularité de nature à vicier le vote, annuler les opérations électorales du collège dans lequel l'irrégularité a été constatée.
+- en cas d'irrégularité de nature à vicier le vote, annuler les opérations électorales du collège dans lequel l'irrégularité a été constatée.
 
 Ses décisions peuvent être déférées au tribunal administratif de Paris dans un délai de cinq jours.

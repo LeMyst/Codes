@@ -18,6 +18,6 @@ Toutefois, les vins enrichis et les vins non enrichis dépassant le titre alcoom
 
 ― son titre alcoométrique volumique ;
 
-\- le taux d'enrichissement éventuel.
+- le taux d'enrichissement éventuel.
 
 VI. - Les informations contenues dans le registre des manipulations sont tenues à disposition de l'organisme de contrôle agréé selon les modalités prévues dans le plan de contrôle ou d'inspection.

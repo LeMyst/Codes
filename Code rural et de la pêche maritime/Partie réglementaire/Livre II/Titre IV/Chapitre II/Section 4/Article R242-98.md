@@ -4,11 +4,11 @@ A l'issue de chaque audience de la chambre régionale de discipline, le préside
 
 Ne peuvent pas être tirés au sort :
 
-\- les conseillers de la région ordinale du domicile professionnel administratif du vétérinaire poursuivi ;
+- les conseillers de la région ordinale du domicile professionnel administratif du vétérinaire poursuivi ;
 
-\- les présidents des conseils régionaux de l'ordre de la circonscription disciplinaire ;
+- les présidents des conseils régionaux de l'ordre de la circonscription disciplinaire ;
 
-\- le secrétaire général en charge du greffe de la chambre régionale de discipline.
+- le secrétaire général en charge du greffe de la chambre régionale de discipline.
 
 Les membres suppléants sont appelés à siéger en cas de récusation, désistement ou empêchement d'un ou plusieurs assesseurs dans l'ordre du tirage au sort.
 

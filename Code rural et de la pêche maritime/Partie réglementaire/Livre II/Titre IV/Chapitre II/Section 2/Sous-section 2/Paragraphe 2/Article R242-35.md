@@ -18,10 +18,10 @@ Il est interdit au vétérinaire d'utiliser le logo de l'ordre des vétérinaire
 
 Le vétérinaire tient à disposition des personnes ayant recours à ses services les informations suivantes :
 
-\- les informations relatives à son identification, aux sociétés d'exercice et réseaux professionnels vétérinaires auxquels il appartient, et leurs coordonnées ;
+- les informations relatives à son identification, aux sociétés d'exercice et réseaux professionnels vétérinaires auxquels il appartient, et leurs coordonnées ;
 
-\- les coordonnées du conseil régional de l'ordre dont il dépend ;
+- les coordonnées du conseil régional de l'ordre dont il dépend ;
 
-\- les éléments permettant au demandeur d'accéder au code de déontologie ;
+- les éléments permettant au demandeur d'accéder au code de déontologie ;
 
-\- les informations relatives à la prise en charge de sa responsabilité civile professionnelle et les coordonnées de son assureur.
+- les informations relatives à la prise en charge de sa responsabilité civile professionnelle et les coordonnées de son assureur.

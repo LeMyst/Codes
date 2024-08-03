@@ -1,7 +1,6 @@
 # Article Annexe III aux articles R236-7 à R236-18
 
 | MALADIES-AGENTS PATHOGÈNES | ESPÈCES SENSIBLES |
-| --- | --- |
 | Haplosporidiosis (Haplosporidium nelsoni). | Huître de Virginie (Crassostrea virginica). |
 | (Haplosporidium costale). | Huître de Virginie (Crassostrea virginica). |
 | Perkinosis (Perkinsus marinus). | Huître de Virginie (Crassostrea virginica). |

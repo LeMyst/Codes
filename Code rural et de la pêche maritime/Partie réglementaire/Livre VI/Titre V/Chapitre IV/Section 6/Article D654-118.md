@@ -2,13 +2,13 @@
 
 Les types d'interventions relatifs à l'assistance technique, aux conseils, à la formation, à l'information et à l'échange de bonnes pratiques comprennent :
 
-\- les aides à l'assistance technique au niveau national ;
+- les aides à l'assistance technique au niveau national ;
 
-\- les aides à l'assistance technique au niveau régional ;
+- les aides à l'assistance technique au niveau régional ;
 
-\- les aides visant à améliorer la performance sanitaire des exploitations apicoles ;
+- les aides visant à améliorer la performance sanitaire des exploitations apicoles ;
 
-\- les aides aux actions de formation.
+- les aides aux actions de formation.
 
 Les bénéficiaires de ces aides sont les personnes morales proposant des actions d'assistance technique dans le domaine de l'apiculture, les organismes de formation, de statut public ou privé, assurant des formations initiales ou continues dans le domaine de l'apiculture, les personnes morales évoluant dans le domaine vétérinaire, les établissements à caractère scientifique et technique ou administratif. Ne peuvent pas être bénéficiaires de ces aides les apiculteurs, les syndicats d'apiculteurs et les structures de formation dites “ruchers-écoles” qui ne délivrent pas de formation diplômante.
 

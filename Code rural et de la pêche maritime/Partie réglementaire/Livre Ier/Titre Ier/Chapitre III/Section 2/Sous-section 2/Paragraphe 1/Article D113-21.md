@@ -6,11 +6,11 @@ Lorsque le montant constaté, qui est le montant de l'aide résultant de la pris
 
 Lorsque le montant constaté est inférieur au montant déclaré, le montant de l'aide est égal au montant constaté diminué d'une pénalité liée à l'amplitude de l'écart, mesurée par un taux d'écart défini comme la différence entre les deux montants rapportée à la valeur du montant constaté. La pénalité est égale :
 
-\- à zéro si le taux d'écart est inférieur ou égal à 3 % ;
+- à zéro si le taux d'écart est inférieur ou égal à 3 % ;
 
-\- au double du taux d'écart multiplié par le montant constaté, si celui-ci est supérieur à 3 % et inférieur ou égal à 20 % ;
+- au double du taux d'écart multiplié par le montant constaté, si celui-ci est supérieur à 3 % et inférieur ou égal à 20 % ;
 
-\- à 100 % du montant constaté si le taux d'écart est supérieur à 20 %.
+- à 100 % du montant constaté si le taux d'écart est supérieur à 20 %.
 
 Si le taux d'écart est supérieur à 50 %, la pénalité est égale à 100 % du montant constaté. En outre, les montants des aides éventuellement demandées par le bénéficiaire au titre des années suivantes sont diminués ou supprimés jusqu'à ce que le montant total cumulé de ces pénalités soit égal à la différence entre le montant déclaré et le montant constaté.
 

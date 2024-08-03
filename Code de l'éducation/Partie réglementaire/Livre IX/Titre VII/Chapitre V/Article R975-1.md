@@ -2,29 +2,29 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 911-1 R. 911-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 911-6 | Résultant du décret n° 2021-1326 du 12 octobre 2021 |
-| R. 911-7, 2e alinéa R. 911-8 R. 911-9, 1er, 2e et 4e alinéas R. 911-11 à R. 911-20 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 911-21 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
-| R. 911-22 à R. 911-30 R. 911-36 à R. 911-41 R. 911-58 à R. 911-61 R. 911-82, 1er alinéa R. 911-83 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 911-84 | Résultant du décret n° 2017-955 du 10 mai 2017 |
-| R. 911-85 et R. 911-86 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 911-87 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
-| R. 911-88 à R. 911-93 R. 913-1 à R. 913-3 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 913-4 à R. 913-8 R. 913-9, 1er alinéa R. 913-10 à R. 913-14 | Résultant du décret n° 2018-407 du 29 mai 2018 |
-| R. 913-15 à R. 913-27 | Résultant du décret n° 2020-832 du 30 juin 2020 |
-| R. 931-2 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 931-3 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
-| R. 931-4 et R. 931-5 R. 951-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 951-1-1 | Résultant du décret n° 2019-892 du 27 août 2019 |
-| R. 951-2 R. 951-4 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+|  R. 911-1 R. 911-5 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 911-6 |  Résultant du décret n° 2021-1326 du 12 octobre 2021  |
+|  R. 911-7, 2e alinéa R. 911-8 R. 911-9, 1er, 2e et 4e alinéas R. 911-11 à R. 911-20 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 911-21 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
+|  R. 911-22 à R. 911-30 R. 911-36 à R. 911-41 R. 911-58 à R. 911-61 R. 911-82, 1er alinéa R. 911-83 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 911-84 |  Résultant du décret n° 2017-955 du 10 mai 2017  |
+|  R. 911-85 et R. 911-86 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 911-87 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
+|  R. 911-88 à R. 911-93 R. 913-1 à R. 913-3 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 913-4 à R. 913-8 R. 913-9, 1er alinéa R. 913-10 à R. 913-14 |  Résultant du décret n° 2018-407 du 29 mai 2018  |
+|  R. 913-15 à R. 913-27 |  Résultant du décret n° 2020-832 du 30 juin 2020  |
+|  R. 931-2 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 931-3 |  Résultant du décret n° 2021-1392 du 26 octobre 2021  |
+|  R. 931-4 et R. 931-5 R. 951-1 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
+|  R. 951-1-1 |  Résultant du décret n° 2019-892 du 27 août 2019  |
+|  R. 951-2 R. 951-4 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
 | R. 951-5-1 R. 951-5-2 | Résultant du décret n° 2023-106 du 16 février 2023 |
-| R. 953-1 | Résultant du décret n° 2017-852 du 6 mai 2017 |
-| R. 953-2 et R. 953-4 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 953-5 | Résultant du décret n° 2022-1666 du 26 décembre 2022 |
-| R. 953-6 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+|  R. 953-1 |  Résultant du décret n° 2017-852 du 6 mai 2017  |
+|  R. 953-2 et R. 953-4 |  Résultant du décret n° 2015-652 du 10 juin 2015 |
+|  R. 953-5 |  Résultant du décret n° 2022-1666 du 26 décembre 2022 |
+|  R. 953-6 |  Résultant du décret n° 2015-652 du 10 juin 2015 |
 
 II.-Pour l'application du I :
 

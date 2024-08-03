@@ -17,6 +17,6 @@ Dans les établissements d'enseignement privés sous contrat, la scolarité, de 
 NOTA:
 Conformément au décret n° 2013-682 du 24 juillet 2013, article 5, modifié par l'article 1er du décret n° 2015-1023 du 19 août 2015 : ces dispositions entrent en vigueur :
 
-\- à compter du 1er septembre 2014 dans toutes les sections de maternelle ;
+- à compter du 1er septembre 2014 dans toutes les sections de maternelle ;
 
-\- à compter du 1er septembre 2016 dans toutes les classes de l'école élémentaire et du collège.
+- à compter du 1er septembre 2016 dans toutes les classes de l'école élémentaire et du collège.

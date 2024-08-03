@@ -4,17 +4,17 @@ Le socle commun de connaissances, de compétences et de culture couvre la pério
 
 Le socle commun doit être équilibré dans ses contenus et ses démarches :
 
-\- il ouvre à la connaissance, forme le jugement et l'esprit critique, à partir d'éléments ordonnés de connaissance rationnelle du monde ;
+- il ouvre à la connaissance, forme le jugement et l'esprit critique, à partir d'éléments ordonnés de connaissance rationnelle du monde ;
 
-\- il fournit une éducation générale ouverte et commune à tous et fondée sur des valeurs qui permettent de vivre dans une société tolérante, de liberté ;
+- il fournit une éducation générale ouverte et commune à tous et fondée sur des valeurs qui permettent de vivre dans une société tolérante, de liberté ;
 
-\- il favorise un développement de la personne en interaction avec le monde qui l'entoure ;
+- il favorise un développement de la personne en interaction avec le monde qui l'entoure ;
 
-\- il développe les capacités de compréhension et de création, les capacités d'imagination et d'action ;
+- il développe les capacités de compréhension et de création, les capacités d'imagination et d'action ;
 
-\- il accompagne et favorise le développement physique, cognitif et sensible des élèves, en respectant leur intégrité ;
+- il accompagne et favorise le développement physique, cognitif et sensible des élèves, en respectant leur intégrité ;
 
-\- il donne aux élèves les moyens de s'engager dans les activités scolaires, d'agir, d'échanger avec autrui, de conquérir leur autonomie et d'exercer ainsi progressivement leur liberté et leur statut de citoyen responsable.
+- il donne aux élèves les moyens de s'engager dans les activités scolaires, d'agir, d'échanger avec autrui, de conquérir leur autonomie et d'exercer ainsi progressivement leur liberté et leur statut de citoyen responsable.
 
 L'élève engagé dans la scolarité apprend à réfléchir, à mobiliser des connaissances, à choisir des démarches et des procédures adaptées, pour penser, résoudre un problème, réaliser une tâche complexe ou un projet, en particulier dans une situation nouvelle ou inattendue. Les enseignants définissent les modalités les plus pertinentes pour parvenir à ces objectifs en suscitant l'intérêt des élèves, et centrent leurs activités ainsi que les pratiques des enfants et des adolescents sur de véritables enjeux intellectuels, riches de sens et de progrès.
 
@@ -114,11 +114,11 @@ L'Ecole a une responsabilité particulière dans la formation de l'élève en ta
 
 Ce domaine fait appel :
 
-\- à l'apprentissage et à l'expérience des principes qui garantissent la liberté de tous, comme la liberté de conscience et d'expression, la tolérance réciproque, l'égalité, notamment entre les hommes et les femmes, le refus des discriminations, l'affirmation de la capacité à juger et agir par soi-même ;
+- à l'apprentissage et à l'expérience des principes qui garantissent la liberté de tous, comme la liberté de conscience et d'expression, la tolérance réciproque, l'égalité, notamment entre les hommes et les femmes, le refus des discriminations, l'affirmation de la capacité à juger et agir par soi-même ;
 
-\- à des connaissances et à la compréhension du sens du droit et de la loi, des règles qui permettent la participation à la vie collective et démocratique et de la notion d'intérêt général ;
+- à des connaissances et à la compréhension du sens du droit et de la loi, des règles qui permettent la participation à la vie collective et démocratique et de la notion d'intérêt général ;
 
-\- à la connaissance, la compréhension mais aussi la mise en pratique du principe de laïcité, qui permet le déploiement du civisme et l'implication de chacun dans la vie sociale, dans le respect de la liberté de conscience.
+- à la connaissance, la compréhension mais aussi la mise en pratique du principe de laïcité, qui permet le déploiement du civisme et l'implication de chacun dans la vie sociale, dans le respect de la liberté de conscience.
 
 Ce domaine est mis en œuvre dans toutes les situations concrètes de la vie scolaire où connaissances et valeurs trouvent, en s'exerçant, les conditions d'un apprentissage permanent, qui procède par l'exemple, par l'appel à la sensibilité et à la conscience, par la mobilisation du vécu et par l'engagement de chacun.
 
@@ -188,15 +188,15 @@ Il sait que la santé repose notamment sur des fonctions biologiques coordonnée
 
 Pour atteindre les objectifs de connaissances et de compétences de ce domaine, l'élève mobilise des connaissances sur :
 
-\- les principales fonctions du corps humain, les caractéristiques et l'unité du monde vivant, l'évolution et la diversité des espèces ;
+- les principales fonctions du corps humain, les caractéristiques et l'unité du monde vivant, l'évolution et la diversité des espèces ;
 
-\- la structure de l'Univers et de la matière ; les grands caractères de la biosphère et leurs transformations ;
+- la structure de l'Univers et de la matière ; les grands caractères de la biosphère et leurs transformations ;
 
-\- l'énergie et ses multiples formes, le mouvement et les forces qui le régissent ;
+- l'énergie et ses multiples formes, le mouvement et les forces qui le régissent ;
 
-\- les nombres et les grandeurs, les objets géométriques, la gestion de données, les phénomènes aléatoires ;
+- les nombres et les grandeurs, les objets géométriques, la gestion de données, les phénomènes aléatoires ;
 
-\- les grandes caractéristiques des objets et systèmes techniques et des principales solutions technologiques.
+- les grandes caractéristiques des objets et systèmes techniques et des principales solutions technologiques.
 
 Domaine 5 : les représentations du monde et l'activité humaine
 
@@ -226,20 +226,20 @@ Il connaît les contraintes et les libertés qui s'exercent dans le cadre des ac
 
 Pour mieux connaître le monde qui l'entoure comme pour se préparer à l'exercice futur de sa citoyenneté démocratique, l'élève pose des questions et cherche des réponses en mobilisant des connaissances sur :
 
-\- les principales périodes de l'histoire de l'humanité, situées dans leur chronologie, les grandes ruptures et les événements fondateurs, la notion de civilisation ;
+- les principales périodes de l'histoire de l'humanité, situées dans leur chronologie, les grandes ruptures et les événements fondateurs, la notion de civilisation ;
 
-\- les principaux modes d'organisation des espaces humanisés ;
+- les principaux modes d'organisation des espaces humanisés ;
 
-\- la diversité des modes de vie et des cultures, en lien avec l'apprentissage des langues ;
+- la diversité des modes de vie et des cultures, en lien avec l'apprentissage des langues ;
 
-\- les éléments clés de l'histoire des idées, des faits religieux et des convictions ;
+- les éléments clés de l'histoire des idées, des faits religieux et des convictions ;
 
-\- les grandes découvertes scientifiques et techniques et les évolutions qu'elles ont engendrées, tant dans les modes de vie que dans les représentations ;
+- les grandes découvertes scientifiques et techniques et les évolutions qu'elles ont engendrées, tant dans les modes de vie que dans les représentations ;
 
-\- les expressions artistiques, les œuvres, les sensibilités esthétiques et les pratiques culturelles de différentes sociétés ;
+- les expressions artistiques, les œuvres, les sensibilités esthétiques et les pratiques culturelles de différentes sociétés ;
 
-\- les principaux modes d'organisation politique et sociale, idéaux et principes républicains et démocratiques, leur histoire et leur actualité ;
+- les principaux modes d'organisation politique et sociale, idéaux et principes républicains et démocratiques, leur histoire et leur actualité ;
 
-\- les principales manières de concevoir la production économique, sa répartition, les échanges qu'elles impliquent ;
+- les principales manières de concevoir la production économique, sa répartition, les échanges qu'elles impliquent ;
 
-\- les règles et le droit de l'économie sociale et familiale, du travail, de la santé et de la protection sociale.
+- les règles et le droit de l'économie sociale et familiale, du travail, de la santé et de la protection sociale.

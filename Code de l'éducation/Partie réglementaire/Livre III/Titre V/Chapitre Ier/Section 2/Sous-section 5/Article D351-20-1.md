@@ -12,9 +12,9 @@ III. - Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste pré
 
 Cette subvention est calculée ainsi qu'il suit :
 
-\- dans le cas d'un recrutement par une association gestionnaire de services mentionnés aux 1°, 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles autorisés par le président du conseil général, d'un montant horaire égal à 170 % du salaire horaire brut pour un auxiliaire de vie sociale ayant moins d'un an d'ancienneté au sens de l'accord de la branche aide à domicile du 29 mars 2002 relatif aux emplois et rémunérations ;
+- dans le cas d'un recrutement par une association gestionnaire de services mentionnés aux 1°, 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles autorisés par le président du conseil général, d'un montant horaire égal à 170 % du salaire horaire brut pour un auxiliaire de vie sociale ayant moins d'un an d'ancienneté au sens de l'accord de la branche aide à domicile du 29 mars 2002 relatif aux emplois et rémunérations ;
 
-\- dans le cas d'un recrutement par un autre type d'association ou de groupement d'associations, sur la base de la rémunération brute annuelle antérieurement perçue par le salarié recruté pour l'élève concerné, à laquelle s'applique une majoration de 54 %, dont 44 % au titre des charges et 10 % au titre des frais de gestion.
+- dans le cas d'un recrutement par un autre type d'association ou de groupement d'associations, sur la base de la rémunération brute annuelle antérieurement perçue par le salarié recruté pour l'élève concerné, à laquelle s'applique une majoration de 54 %, dont 44 % au titre des charges et 10 % au titre des frais de gestion.
 
 La subvention est susceptible d'être révisée en cours d'année pour tenir compte, le cas échéant, des évolutions de la quotité horaire de l'aide individuelle déterminée par la commission des droits et de l'autonomie des personnes handicapées postérieurement au recrutement des intéressés.
 

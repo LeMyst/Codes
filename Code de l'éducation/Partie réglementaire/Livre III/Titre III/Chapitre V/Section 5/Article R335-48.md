@@ -6,9 +6,9 @@ Doivent, en application de l'article 41-V de la loi n° 2005-102 du 11 février 
 
 -et relevant de l'un des domaines énumérés ci-après :
 
-1\. Architecture.
+1. Architecture.
 
-2\. Domaines inclus dans la nomenclature des spécialités de formation établie par le code de l'éducation :
+1. Domaines inclus dans la nomenclature des spécialités de formation établie par le code de l'éducation :
 
 Lettres et arts :
 

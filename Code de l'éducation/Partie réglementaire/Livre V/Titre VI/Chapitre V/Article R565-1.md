@@ -2,18 +2,18 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+| DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
 | --- | --- |
-| R. 511-1 et R. 511-2 R. 511-6 à R. 511-11 | Résultant du décret n° 2009-553 du 15 mai 2009 |
-| R. 511-12 | Résultant du décret n° 2011-728 du 24 juin 2011 |
-| R. 511-13 et R. 511-13-1 | Résultant du décret n° 2019-906 du 30 août 2019 |
-| R. 511-14 | Résultant du décret n° 2023-782 du 16 août 2023 |
-| R. 511-19-1 | Résultant du décret n° 2011-728 du 24 juin 2011 |
-| R. 511-20 | Résultant du décret n° 2009-553 du 15 mai 2009 |
-| R. 511-20-1 | Résultant du décret n° 2023-782 du 16 août 2023 |
-| R. 511-21 et R. 511-22 | Résultant du décret n° 2016-1228 du 16 septembre 2016 |
-| R. 511-26 | Résultant du décret n° 2023-782 du 16 août 2023 |
-| R. 511-27 R. 511-49 R. 511-53 R. 511-74 et R. 511-75 R. 552-2 | Résultant du décret n° 2009-553 du 15 mai 2009 |
+| R. 511-1 et R. 511-2 R. 511-6 à R. 511-11  | Résultant du décret n° 2009-553 du 15 mai 2009  |
+| R. 511-12  | Résultant du décret n° 2011-728 du 24 juin 2011  |
+| R. 511-13 et R. 511-13-1  | Résultant du décret n° 2019-906 du 30 août 2019  |
+| R. 511-14  | Résultant du décret n° 2023-782 du 16 août 2023  |
+| R. 511-19-1  | Résultant du décret n° 2011-728 du 24 juin 2011  |
+| R. 511-20  | Résultant du décret n° 2009-553 du 15 mai 2009  |
+| R. 511-20-1  | Résultant du décret n° 2023-782 du 16 août 2023  |
+| R. 511-21 et R. 511-22  | Résultant du décret n° 2016-1228 du 16 septembre 2016  |
+| R. 511-26  | Résultant du décret n° 2023-782 du 16 août 2023  |
+| R. 511-27 R. 511-49 R. 511-53 R. 511-74 et R. 511-75 R. 552-2  | Résultant du décret n° 2009-553 du 15 mai 2009  |
 
 II.-Pour l'application du I :
 

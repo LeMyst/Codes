@@ -4,21 +4,21 @@ Le conseil d'administration du Réseau Canopé comprend vingt et un membres :
 
 1° Huit représentants de l'Etat :
 
-\- le directeur chargé de l'enseignement scolaire au ministère chargé de l'éducation ou son représentant ;
+- le directeur chargé de l'enseignement scolaire au ministère chargé de l'éducation ou son représentant ;
 
-\- le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
+- le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
 
-\- le directeur chargé du numérique pour l'éducation au ministère chargé de l'éducation ou son représentant ;
+- le directeur chargé du numérique pour l'éducation au ministère chargé de l'éducation ou son représentant ;
 
-\- le directeur chargé des affaires financières au ministère chargé de l'éducation ou son représentant ;
+- le directeur chargé des affaires financières au ministère chargé de l'éducation ou son représentant ;
 
-\- le chef de l'inspection générale de l'éducation, du sport et de la recherche ou son représentant ;
+- le chef de l'inspection générale de l'éducation, du sport et de la recherche ou son représentant ;
 
-\- le secrétaire général du ministère chargé de la culture ou son représentant ;
+- le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-\- le directeur chargé de l'enseignement au ministère chargé de l'agriculture ou son représentant ;
+- le directeur chargé de l'enseignement au ministère chargé de l'agriculture ou son représentant ;
 
-\- un recteur de région académique ou son représentant ;
+- un recteur de région académique ou son représentant ;
 
 2° Cinq personnalités qualifiées dans les domaines de compétence de l'établissement, dont un directeur d'institut national supérieur du professorat et de l'éducation et un représentant de l'association de parents d'élèves la plus représentative au niveau national ;
 

@@ -10,10 +10,10 @@ Conformément au décret n° 2013-682 du 24 juillet 2013, article 5 : ces dispos
 
 Toutefois, les dispositions de l'article, dans leur rédaction en vigueur antérieurement à cette dernière date demeurent applicables :
 
-\- jusqu'au 31 août 2015 dans les classes de cours préparatoire, de cours moyen première année et de cinquième ;
+- jusqu'au 31 août 2015 dans les classes de cours préparatoire, de cours moyen première année et de cinquième ;
 
-\- jusqu'au 31 août 2016 dans les classes de cours élémentaire première année, de cours moyen deuxième année et de quatrième ;
+- jusqu'au 31 août 2016 dans les classes de cours élémentaire première année, de cours moyen deuxième année et de quatrième ;
 
-\- jusqu'au 31 août 2017 dans les classes de cours élémentaire deuxième année, de sixième et de troisième.
+- jusqu'au 31 août 2017 dans les classes de cours élémentaire deuxième année, de sixième et de troisième.
 
 Conformément au décret n° 2015-1023 du 19 août 2015, article 1 : Les dispositions de l'article D. 454-20 du code de l'éducation dans sa rédaction en vigueur antérieurement au 1er septembre 2014 demeurent applicables jusqu'au 31 août 2016 dans toutes les classes de l'école élémentaire et du collège.

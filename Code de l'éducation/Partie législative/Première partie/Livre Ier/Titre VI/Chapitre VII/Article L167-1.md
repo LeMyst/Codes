@@ -2,34 +2,34 @@
 
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
+|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
 | --- | --- |
-| L. 111-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 111-1-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-| L. 111-5 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 112-1, 1er alinéa | Résultant de la loi n° 2005-102 du 11 février 2005 |
-| L. 112-4 | Résultant de la loi n° 2005-102 du 11 février 2005 |
-| L. 112-5 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 121-1 | Résultant de la loi n° 2020-766 du 24 juin 2020 |
-| L. 121-3 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 121-4 et L. 122-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 123-1 | Résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 |
-| L. 123-2 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 123-3 à L. 123-4-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 123-4-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 123-5 à L. 123-7 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 123-7-1 | Résultant de l'ordonnance n° 2014-807 du 17 juillet 2014 |
-| L. 123-8 et L. 123-9 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 124-1 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
-| L. 124-1-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 124-2 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
-| L. 124-3 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 124-3-1 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
-| L. 124-4 à L. 124-5 ; L. 124-9 ; L. 124-12 ; L. 124-14 ; L. 124-15 ; L. 124-18 ; L. 124-19 et L. 124-20 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
-| L. 131-2 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-| L. 131-4 L. 141-2 ; L. 141-3, 1er alinéa | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 141-5-2, 2e et 3e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 141-6 ; L. 151-1 ; L. 151-3, 1er et 3e alinéas | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 111-1 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 111-1-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 111-5 |  Résultant de la loi n° 2013-660 du 22 juillet 2013 |
+|  L. 112-1, 1er alinéa |  Résultant de la loi n° 2005-102 du 11 février 2005 |
+|  L. 112-4 |  Résultant de la loi n° 2005-102 du 11 février 2005 |
+|  L. 112-5 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 121-1 |  Résultant de la loi n° 2020-766 du 24 juin 2020 |
+|  L. 121-3 |  Résultant de la loi n° 2013-660 du 22 juillet 2013 |
+|  L. 121-4 et L. 122-5 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 123-1 |  Résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 |
+|  L. 123-2 |  Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
+|  L. 123-3 à L. 123-4-1 |  Résultant de la loi n° 2013-660 du 22 juillet 2013 |
+|  L. 123-4-2 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 123-5 à L. 123-7 |  Résultant de la loi n° 2013-660 du 22 juillet 2013 |
+|  L. 123-7-1 |  Résultant de l'ordonnance n° 2014-807 du 17 juillet 2014 |
+|  L. 123-8 et L. 123-9 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 124-1 |  Résultant de la loi n° 2014-788 du 10 juillet 2014 |
+|  L. 124-1-1 |  Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
+|  L. 124-2 |  Résultant de la loi n° 2014-788 du 10 juillet 2014 |
+|  L. 124-3 |  Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
+|  L. 124-3-1 |  Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+|  L. 124-4 à L. 124-5 ; L. 124-9 ; L. 124-12 ; L. 124-14 ; L. 124-15 ; L. 124-18 ; L. 124-19 et L. 124-20 |  Résultant de la loi n° 2014-788 du 10 juillet 2014 |
+|  L. 131-2 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+|  L. 131-4 L. 141-2 ; L. 141-3, 1er alinéa |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+|  L. 141-5-2, 2e et 3e alinéas |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 141-6 ; L. 151-1 ; L. 151-3, 1er et 3e alinéas |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 

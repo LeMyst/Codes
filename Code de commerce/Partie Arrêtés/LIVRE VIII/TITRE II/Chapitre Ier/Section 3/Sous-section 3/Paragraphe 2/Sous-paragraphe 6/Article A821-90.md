@@ -6,11 +6,11 @@ NEP-620. Intervention d'un expert
 
 Introduction
 
-01\. En application des dispositions prévues à l'article L. 821-60 du code de commerce et à l'article 7 du code de déontologie de la profession, le commissaire aux comptes peut faire appel à un expert de son choix lorsque certains contrôles indispensables à l'exercice de sa mission nécessitent une expertise dans des domaines autres que ceux de l'audit et de la comptabilité.
+1. En application des dispositions prévues à l'article L. 821-60 du code de commerce et à l'article 7 du code de déontologie de la profession, le commissaire aux comptes peut faire appel à un expert de son choix lorsque certains contrôles indispensables à l'exercice de sa mission nécessitent une expertise dans des domaines autres que ceux de l'audit et de la comptabilité.
 
-02\. Le commissaire aux comptes peut également utiliser les travaux d'un expert choisi par l'entité.
+1. Le commissaire aux comptes peut également utiliser les travaux d'un expert choisi par l'entité.
 
-03\. La présente norme a pour objet :
+1. La présente norme a pour objet :
 
 -de définir les situations dans lesquelles le commissaire aux comptes peut estimer nécessaire de faire appel à un expert ;
 
@@ -20,11 +20,11 @@ Introduction
 
 Définition
 
-04\. Expert : personne physique ou morale possédant une qualification et une expérience dans un domaine particulier autre que la comptabilité et l'audit.
+4. Expert : personne physique ou morale possédant une qualification et une expérience dans un domaine particulier autre que la comptabilité et l'audit.
 
 Appréciation de la nécessité de faire appel à un expert
 
-05\. Lors de la prise de connaissance de l'entité et de son environnement et la mise en œuvre de procédures d'audit complémentaires en réponse aux risques identifiés, le commissaire aux comptes peut estimer nécessaire de collecter des éléments à partir des travaux réalisés par un expert. Tel peut être le cas, notamment, pour :
+5. Lors de la prise de connaissance de l'entité et de son environnement et la mise en œuvre de procédures d'audit complémentaires en réponse aux risques identifiés, le commissaire aux comptes peut estimer nécessaire de collecter des éléments à partir des travaux réalisés par un expert. Tel peut être le cas, notamment, pour :
 
 -l'appréciation de la valorisation de certains types d'actif, tels que des terrains et des constructions, des usines et des outils de production, des œuvres d'art ou des pierres précieuses ;
 
@@ -36,7 +36,7 @@ Appréciation de la nécessité de faire appel à un expert
 
 -l'appréciation d'une situation fiscale ou juridique complexe.
 
-06\. Lorsque le commissaire aux comptes envisage d'utiliser les travaux d'un expert dans le cadre de sa mission d'audit, il tient compte notamment :
+6. Lorsque le commissaire aux comptes envisage d'utiliser les travaux d'un expert dans le cadre de sa mission d'audit, il tient compte notamment :
 
 -du risque d'anomalies significatives dû à la nature, à la complexité et au caractère significatif de l'élément concerné ;
 
@@ -44,9 +44,9 @@ Appréciation de la nécessité de faire appel à un expert
 
 Principes applicables lorsque l'expert est choisi par le commissaire aux comptes
 
-07\. Le commissaire aux comptes choisit un expert indépendant de l'entité.
+7. Le commissaire aux comptes choisit un expert indépendant de l'entité.
 
-08\. Il apprécie, par ailleurs, la compétence professionnelle de celui-ci dans le domaine particulier concerné. Le commissaire aux comptes tient compte notamment :
+1. Il apprécie, par ailleurs, la compétence professionnelle de celui-ci dans le domaine particulier concerné. Le commissaire aux comptes tient compte notamment :
 
 -des qualifications professionnelles, des diplômes ou de l'inscription de l'expert sur la liste d'experts agréés auprès d'un organisme professionnel ou d'une juridiction ;
 
@@ -54,7 +54,7 @@ Principes applicables lorsque l'expert est choisi par le commissaire aux comptes
 
 Principes applicables lorsque l'expert est choisi par l'entité
 
-09\. Lorsque l'expert est choisi par l'entité, le commissaire aux comptes :
+9. Lorsque l'expert est choisi par l'entité, le commissaire aux comptes :
 
 -s'assure que l'expert est indépendant de l'entité ;
 
@@ -62,13 +62,13 @@ Principes applicables lorsque l'expert est choisi par l'entité
 
 -apprécie la compétence de l'expert en respectant les mêmes principes que ceux définis au paragraphe 08.
 
-10\. Si le commissaire aux comptes estime que l'expert n'est pas indépendant de l'entité, il en fait part à la direction et demande qu'il soit fait appel à un autre expert.
+10. Si le commissaire aux comptes estime que l'expert n'est pas indépendant de l'entité, il en fait part à la direction et demande qu'il soit fait appel à un autre expert.
 
-11\. Si la compétence de l'expert ne paraît pas satisfaisante au commissaire aux comptes, il en fait part à la direction et apprécie si des éléments suffisants et appropriés peuvent être obtenus des travaux de l'expert. Le commissaire aux comptes peut ainsi être conduit à mettre en œuvre des procédures d'audit supplémentaires ou à recourir à un autre expert.
+01. Si la compétence de l'expert ne paraît pas satisfaisante au commissaire aux comptes, il en fait part à la direction et apprécie si des éléments suffisants et appropriés peuvent être obtenus des travaux de l'expert. Le commissaire aux comptes peut ainsi être conduit à mettre en œuvre des procédures d'audit supplémentaires ou à recourir à un autre expert.
 
 Evaluation des travaux de l'expert
 
-12\. Le commissaire aux comptes collecte les éléments suffisants et appropriés qui établissent que :
+12. Le commissaire aux comptes collecte les éléments suffisants et appropriés qui établissent que :
 
 -la nature et l'étendue des travaux de l'expert sont conformes aux instructions qui lui ont été données ;
 
@@ -82,7 +82,7 @@ Evaluation des travaux de l'expert
 
 Le commissaire aux comptes vérifie par ailleurs que les conclusions de l'expert sont correctement reflétées dans les comptes ou qu'elles corroborent les assertions qui sous-tendent l'établissement des comptes.
 
-13\. Si les résultats des travaux de l'expert ne fournissent pas au commissaire aux comptes les éléments suffisants et appropriés ou s'ils ne sont pas cohérents avec les autres éléments collectés :
+13. Si les résultats des travaux de l'expert ne fournissent pas au commissaire aux comptes les éléments suffisants et appropriés ou s'ils ne sont pas cohérents avec les autres éléments collectés :
 
 -il s'en entretient avec la direction au niveau de responsabilité approprié et avec l'expert ;
 
@@ -90,9 +90,9 @@ Le commissaire aux comptes vérifie par ailleurs que les conclusions de l'expert
 
 Référence aux travaux de l'expert dans le rapport du commissaire aux comptes
 
-14\. Les travaux de l'expert sont utilisés uniquement en tant qu'éléments collectés à l'appui des conclusions du commissaire aux comptes sur sa propre mission.
+14. Les travaux de l'expert sont utilisés uniquement en tant qu'éléments collectés à l'appui des conclusions du commissaire aux comptes sur sa propre mission.
 
-15\. Le commissaire aux comptes peut estimer nécessaire de faire référence aux travaux et aux conclusions de l'expert :
+01. Le commissaire aux comptes peut estimer nécessaire de faire référence aux travaux et aux conclusions de l'expert :
 
 -lorsqu'il justifie de ses appréciations ;
 
@@ -100,4 +100,4 @@ Référence aux travaux de l'expert dans le rapport du commissaire aux comptes
 
 Documentation des travaux de l'expert
 
-16\. Le commissaire aux comptes documente dans son dossier les travaux réalisés par l'expert qu'il utilise dans le cadre de sa mission.
+16. Le commissaire aux comptes documente dans son dossier les travaux réalisés par l'expert qu'il utilise dans le cadre de sa mission.

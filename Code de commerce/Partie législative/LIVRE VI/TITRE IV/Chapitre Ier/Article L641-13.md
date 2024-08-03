@@ -6,7 +6,7 @@ I.-Sont payées à leur échéance les créances nées régulièrement après le
 
 -si elles sont nées en contrepartie d'une prestation fournie au débiteur pendant le maintien de l'activité ou en exécution d'un contrat en cours régulièrement décidée après le jugement d'ouverture de la procédure de sauvegarde ou de redressement judiciaire, s'il y a lieu, et après le jugement d'ouverture de la procédure de liquidation judiciaire ;
 
-\- si elles sont nées pour assurer la mise en sécurité des installations classées pour la protection de l'environnement en application des articles L. 512-6-1, L. 512-7-6 ou L. 512-12-1 du code de l'environnement ;
+- si elles sont nées pour assurer la mise en sécurité des installations classées pour la protection de l'environnement en application des articles L. 512-6-1, L. 512-7-6 ou L. 512-12-1 du code de l'environnement ;
 
 -ou si elles sont nées des besoins de la vie courante du débiteur, personne physique.
 

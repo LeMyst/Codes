@@ -16,6 +16,6 @@ En cas d'inexécution, totale ou partielle, ou d'exécution tardive, l'autorité
 
 La décision prononçant la mesure d'injonction et celle prononçant la liquidation de l'astreinte journalière sont motivées. Elles sont susceptibles d'un recours de pleine juridiction et le juge des référés, saisi d'une demande en ce sens, peut ordonner leur suspension dans les conditions prévues à l'article L. 521-1 du code de justice administrative.
 
-2\. L'injonction mentionnée au premier alinéa du 1 du présent III peut faire l'objet, en cas d'inexécution totale ou partielle ou d'exécution tardive, d'une mesure de publicité, dans des conditions fixées par décret en Conseil d'Etat
+2. L'injonction mentionnée au premier alinéa du 1 du présent III peut faire l'objet, en cas d'inexécution totale ou partielle ou d'exécution tardive, d'une mesure de publicité, dans des conditions fixées par décret en Conseil d'Etat
 
 Dans ce cas, le professionnel est informé, lors de la procédure contradictoire préalable au prononcé de l'injonction, de la nature et des modalités de la mesure de publicité encourue. La publicité est effectuée aux frais du professionnel qui fait l'objet de l'injonction.

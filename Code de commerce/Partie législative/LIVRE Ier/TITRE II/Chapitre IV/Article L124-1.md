@@ -16,13 +16,13 @@ Les sociétés coopératives de commerçants détaillants ont pour objet d'amél
 
 6° Définir et mettre en œuvre par tous moyens une politique commerciale commune propre à assurer le développement et l'activité de ses associés, notamment :
 
-\- par la mise en place d'une organisation juridique appropriée ;
+- par la mise en place d'une organisation juridique appropriée ;
 
-\- par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
+- par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
 
-\- par la réalisation d'opérations commerciales publicitaires ou non pouvant comporter des prix communs ;
+- par la réalisation d'opérations commerciales publicitaires ou non pouvant comporter des prix communs ;
 
-\- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture et d'organisation des commerces ;
+- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture et d'organisation des commerces ;
 
 -par l'élaboration et la gestion d'une plate-forme de vente en ligne ;
 

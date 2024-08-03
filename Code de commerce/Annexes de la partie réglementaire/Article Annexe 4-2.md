@@ -4,7 +4,6 @@ JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 | SIÈGE DES TRIBUNAUXde commerce et des tribunauxmixtes de commerce | RESSORT |
-| --- | --- |
 | Marseille. | Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
 | Bordeaux. | Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
 | Lille. | Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |

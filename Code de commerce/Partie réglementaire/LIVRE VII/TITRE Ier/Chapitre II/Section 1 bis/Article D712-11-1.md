@@ -2,9 +2,9 @@
 
 Dans les dispositions qui suivent :
 
-\- l'expression “instance” désigne l'instance nationale représentative du personnel prévue au V de l'article 40 de la loi n° 2019-486 du 22 mai 2019, modifié par l'article 16 de la loi n° 2022-172 du 14 février 2022 ;
+- l'expression “instance” désigne l'instance nationale représentative du personnel prévue au V de l'article 40 de la loi n° 2019-486 du 22 mai 2019, modifié par l'article 16 de la loi n° 2022-172 du 14 février 2022 ;
 
-\- l'expression “réseau” désigne les chambres de commerce et d'industrie de région et CCI France.
+- l'expression “réseau” désigne les chambres de commerce et d'industrie de région et CCI France.
 
 I. - L'instance est un organe d'informations et d'échanges.
 
@@ -12,21 +12,21 @@ I. - L'instance est un organe d'informations et d'échanges.
 
 2° Les données régionales suivantes consolidées au niveau national sont mises chaque année à la disposition de l'instance :
 
-\- investissement social : évolution de l'emploi, évolution et répartition des contrats précaires, des stages et des emplois à temps partiel, évolution des qualifications, formation professionnelle, apprentissage, gestion prévisionnelle des emplois et des compétences, évolution professionnelle ;
+- investissement social : évolution de l'emploi, évolution et répartition des contrats précaires, des stages et des emplois à temps partiel, évolution des qualifications, formation professionnelle, apprentissage, gestion prévisionnelle des emplois et des compétences, évolution professionnelle ;
 
-\- point sur les congés et l'aménagement du temps de travail ;
+- point sur les congés et l'aménagement du temps de travail ;
 
-\- éléments de rémunération des salariés et dirigeants et leur évolution ;
+- éléments de rémunération des salariés et dirigeants et leur évolution ;
 
-\- santé, sécurité et conditions de travail, y compris les actions de prévention effectuées dans ce domaine ;
+- santé, sécurité et conditions de travail, y compris les actions de prévention effectuées dans ce domaine ;
 
-\- éléments permettant de réaliser un diagnostic et une analyse comparée de l'égalité professionnelle entre hommes et femmes pour chaque catégorie socio-professionnelle du réseau ;
+- éléments permettant de réaliser un diagnostic et une analyse comparée de l'égalité professionnelle entre hommes et femmes pour chaque catégorie socio-professionnelle du réseau ;
 
-\- activités sociales et culturelles ;
+- activités sociales et culturelles ;
 
-\- situation économique et financière du réseau ;
+- situation économique et financière du réseau ;
 
-\- conséquences environnementales de l'activité du réseau.
+- conséquences environnementales de l'activité du réseau.
 
 Ces informations portent sur les deux années précédentes et l'année en cours ;
 

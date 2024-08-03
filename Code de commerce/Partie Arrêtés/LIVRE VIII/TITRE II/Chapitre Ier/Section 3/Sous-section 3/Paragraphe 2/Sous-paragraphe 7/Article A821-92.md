@@ -6,19 +6,19 @@ NEP-700. Rapports du commissaire aux comptes sur les comptes annuels et consolid
 
 Introduction
 
-01\. Lorsqu'il certifie les comptes en application de l'article L. 821-53 du code de commerce, le commissaire aux comptes établit un rapport à l'organe appelé à statuer sur les comptes dans lequel, en justifiant de ses appréciations, il formule son opinion conformément aux dispositions de l'article R. 821-180 du code précité.
+1. Lorsqu'il certifie les comptes en application de l'article L. 821-53 du code de commerce, le commissaire aux comptes établit un rapport à l'organe appelé à statuer sur les comptes dans lequel, en justifiant de ses appréciations, il formule son opinion conformément aux dispositions de l'article R. 821-180 du code précité.
 
-02\. Le commissaire aux comptes rend compte, dans le même rapport, de vérifications et informations spécifiques prévues par les textes légaux et réglementaires.
+1. Le commissaire aux comptes rend compte, dans le même rapport, de vérifications et informations spécifiques prévues par les textes légaux et réglementaires.
 
-03\. Le commissaire aux comptes fournit, s'il s'agit d'une entité d'intérêt public, les autres informations prévues par l'article 10 du règlement (UE) n° 537/2014.
+1. Le commissaire aux comptes fournit, s'il s'agit d'une entité d'intérêt public, les autres informations prévues par l'article 10 du règlement (UE) n° 537/2014.
 
-04\. Le rapport sur les comptes consolidés est distinct du rapport sur les comptes annuels.
+1. Le rapport sur les comptes consolidés est distinct du rapport sur les comptes annuels.
 
-05\. La présente norme a pour objet de définir les principes relatifs à l'établissement de ces rapports par le commissaire aux comptes.
+1. La présente norme a pour objet de définir les principes relatifs à l'établissement de ces rapports par le commissaire aux comptes.
 
 Certification des comptes
 
-06\. En application des dispositions des articles L. 821-53 et R. 821-180 du code de commerce, le commissaire aux comptes déclare :
+6. En application des dispositions des articles L. 821-53 et R. 821-180 du code de commerce, le commissaire aux comptes déclare :
 
 -soit certifier que les comptes annuels ou consolidés sur lesquels porte le rapport sont réguliers et sincères et qu'ils donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de la personne ou de l'entité ou de l'ensemble constitué par les personnes et entités comprises dans la consolidation à la fin de l'exercice ;
 
@@ -32,7 +32,7 @@ Dans ces trois derniers cas, il précise les motifs de la réserve, du refus ou 
 
 Lorsque le commissaire aux comptes envisage de formuler une certification avec réserve, un refus de certifier ou une impossibilité de certifier, il en communique les motifs aux organes mentionnés à l'article L. 821-63 du code de commerce.
 
-07\. Conformément à la faculté qui lui est donnée par l'article R. 821-180 précité, le commissaire aux comptes formule, s'il y a lieu, toute observation utile.
+7. Conformément à la faculté qui lui est donnée par l'article R. 821-180 précité, le commissaire aux comptes formule, s'il y a lieu, toute observation utile.
 
 En formulant une observation, le commissaire aux comptes attire l'attention du lecteur des comptes sur une information fournie dans l'annexe. Il ne peut pas dispenser d'informations dont la diffusion relève de la responsabilité des dirigeants.
 
@@ -44,11 +44,11 @@ Lorsque le commissaire aux comptes envisage de formuler une observation, il en c
 
 Certification sans réserve
 
-08\. Le commissaire aux comptes formule une certification sans réserve lorsque l'audit des comptes qu'il a mis en œuvre lui a permis d'obtenir l'assurance élevée, mais non absolue du fait des limites de l'audit, et qualifiée, par convention, d'assurance raisonnable que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives.
+8. Le commissaire aux comptes formule une certification sans réserve lorsque l'audit des comptes qu'il a mis en œuvre lui a permis d'obtenir l'assurance élevée, mais non absolue du fait des limites de l'audit, et qualifiée, par convention, d'assurance raisonnable que les comptes, pris dans leur ensemble, ne comportent pas d'anomalies significatives.
 
 Certification avec réserve
 
-09\. Le commissaire aux comptes formule une certification avec réserve pour désaccord :
+9. Le commissaire aux comptes formule une certification avec réserve pour désaccord :
 
 -lorsqu'il a identifié au cours de son audit des comptes des anomalies significatives et que celles-ci n'ont pas été corrigées ;
 
@@ -56,9 +56,9 @@ Certification avec réserve
 
 -et que la formulation de la réserve est suffisante pour permettre à l'utilisateur des comptes de fonder son jugement en connaissance de cause.
 
-10\. Lorsque le commissaire aux comptes précise les motifs de la réserve pour désaccord, il quantifie au mieux les incidences sur les comptes des anomalies significatives identifiées et non corrigées ou bien indique les raisons pour lesquelles il ne peut les quantifier.
+10. Lorsque le commissaire aux comptes précise les motifs de la réserve pour désaccord, il quantifie au mieux les incidences sur les comptes des anomalies significatives identifiées et non corrigées ou bien indique les raisons pour lesquelles il ne peut les quantifier.
 
-11\. Le commissaire aux comptes formule une certification avec réserve pour limitation :
+01. Le commissaire aux comptes formule une certification avec réserve pour limitation :
 
 -lorsqu'il n'a pas pu mettre en œuvre toutes les procédures d'audit nécessaires pour fonder son opinion sur les comptes ;
 
@@ -68,7 +68,7 @@ Certification avec réserve
 
 Refus de certifier
 
-12\. Le commissaire aux comptes formule un refus de certifier pour désaccord :
+12. Le commissaire aux comptes formule un refus de certifier pour désaccord :
 
 -lorsqu'il a détecté au cours de son audit des comptes des anomalies significatives et que celles-ci n'ont pas été corrigées ;
 
@@ -78,11 +78,11 @@ et que :
 
 -soit la formulation d'une réserve n'est pas suffisante pour permettre à l'utilisateur des comptes de fonder son jugement en connaissance de cause.
 
-13\. Lorsque le commissaire aux comptes précise les motifs du refus de certifier pour désaccord, il quantifie, lorsque cela est possible, les incidences sur les comptes des anomalies significatives identifiées et non corrigées.
+13. Lorsque le commissaire aux comptes précise les motifs du refus de certifier pour désaccord, il quantifie, lorsque cela est possible, les incidences sur les comptes des anomalies significatives identifiées et non corrigées.
 
 Impossibilité de certifier
 
-14\. Le commissaire aux comptes formule une impossibilité de certifier :
+14. Le commissaire aux comptes formule une impossibilité de certifier :
 
 D'une part, lorsqu'il n'a pas pu mettre en œuvre toutes les procédures d'audit nécessaires pour fonder son opinion sur les comptes, et que :
 
@@ -94,7 +94,7 @@ D'autre part, lorsqu'il est dans l'impossibilité d'exprimer une opinion en rais
 
 Justification des appréciations
 
-15\. En application des dispositions de l'article L. 821-53 du code de commerce, le commissaire aux comptes justifie de ses appréciations pour toutes les personnes ou entités dont les comptes annuels ou consolidés font l'objet d'une certification. Il met en œuvre à cet effet les principes définis :
+15. En application des dispositions de l'article L. 821-53 du code de commerce, le commissaire aux comptes justifie de ses appréciations pour toutes les personnes ou entités dont les comptes annuels ou consolidés font l'objet d'une certification. Il met en œuvre à cet effet les principes définis :
 
 -soit dans la norme d'exercice professionnel relative à la justification des appréciations dans les rapports du commissaire aux comptes sur les comptes annuels et consolidés des personnes et entités qui ne sont pas des entités d'intérêt public ;
 
@@ -102,17 +102,17 @@ Justification des appréciations
 
 Vérification du rapport de gestion, des autres documents sur la situation financière et les comptes et des informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes
 
-16\. En application des dispositions des articles L. 821-54, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 441-14 du code de commerce, le commissaire aux comptes procède à des vérifications spécifiques et formule ses conclusions telles que prévues dans la norme concernant les diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
+16. En application des dispositions des articles L. 821-54, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 441-14 du code de commerce, le commissaire aux comptes procède à des vérifications spécifiques et formule ses conclusions telles que prévues dans la norme concernant les diligences du commissaire aux comptes relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise adressés aux membres de l'organe appelé à statuer sur les comptes.
 
 Le cas échéant, il fait état des informations relatives à l'entité que les textes légaux et réglementaires lui font obligation de mentionner dans son rapport, telles que les prises de participation et les prises de contrôle intervenues au cours de l'exercice, les aliénations diverses intervenues en application de la législation sur les participations réciproques et l'identité des personnes détenant le capital et les droits de vote.
 
 Autres vérifications ou informations prévues par les textes légaux et réglementaires
 
-17\. Le cas échéant, le commissaire aux comptes fait état des autres vérifications ou informations que les textes légaux et réglementaires lui font obligation de mentionner dans son rapport, telles que les informations requises dans le rapport sur les comptes d'entités d'intérêt public relatives à la date initiale de la désignation du commissaire aux comptes et à la durée totale de sa mission sans interruption, y compris les renouvellements précédents du commissaire aux comptes.
+17. Le cas échéant, le commissaire aux comptes fait état des autres vérifications ou informations que les textes légaux et réglementaires lui font obligation de mentionner dans son rapport, telles que les informations requises dans le rapport sur les comptes d'entités d'intérêt public relatives à la date initiale de la désignation du commissaire aux comptes et à la durée totale de sa mission sans interruption, y compris les renouvellements précédents du commissaire aux comptes.
 
 Contenu et forme du rapport
 
-18\. Les rapports établis par le commissaire aux comptes mentionnent les informations prévues aux articles R. 821-105, R. 821-180, D. 821-181, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 821-54 du code de commerce.
+18. Les rapports établis par le commissaire aux comptes mentionnent les informations prévues aux articles R. 821-105, R. 821-180, D. 821-181, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 821-54 du code de commerce.
 
 Le rapport est rédigé d'une manière claire et non ambiguë. Il comporte :
 
@@ -162,7 +162,7 @@ d) La date du rapport ;
 
 e) La signature du commissaire aux comptes, personne physique, ou, lorsque le mandat est confié à une société de commissaires aux comptes, de la personne mentionnée au premier alinéa de l'article L. 821-25 du code de commerce.
 
-19\. Le rapport sur les comptes d'entités d'intérêt public comporte en outre les autres informations suivantes, prévues par l'article 10 du règlement (UE) n° 537/2014 :
+19. Le rapport sur les comptes d'entités d'intérêt public comporte en outre les autres informations suivantes, prévues par l'article 10 du règlement (UE) n° 537/2014 :
 
 -il indique la date initiale de la désignation du commissaire aux comptes et la durée totale de sa mission sans interruption, y compris les renouvellements précédents du commissaire aux comptes ;
 

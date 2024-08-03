@@ -8,47 +8,47 @@ a) Pour les projets de création d'un magasin de commerce de détail : la surfac
 
 b) Pour les projets de création d'un ensemble commercial :
 
-\- la surface de vente globale ;
+- la surface de vente globale ;
 
-\- la surface de vente et le secteur d'activité de chacun des magasins de plus de 300 mètres carrés de surface de vente ;
+- la surface de vente et le secteur d'activité de chacun des magasins de plus de 300 mètres carrés de surface de vente ;
 
-\- l'estimation du nombre de magasins de moins de 300 mètres carrés de surface de vente et de la surface de vente totale de ces magasins ;
+- l'estimation du nombre de magasins de moins de 300 mètres carrés de surface de vente et de la surface de vente totale de ces magasins ;
 
 c) Pour les projets de création ou d'extension d'un point permanent de retrait :
 
-\- une description du point de retrait ;
+- une description du point de retrait ;
 
-\- le nombre de pistes de ravitaillement, y compris les places de stationnement dédiées ;
+- le nombre de pistes de ravitaillement, y compris les places de stationnement dédiées ;
 
-\- les mètres carrés d'emprise au sol, bâtis ou non, affectés au retrait des marchandises ;
+- les mètres carrés d'emprise au sol, bâtis ou non, affectés au retrait des marchandises ;
 
 d) Pour les projets d'extension d'un ou plusieurs magasins de commerce de détail :
 
-\- le secteur d'activité et la classe, au sens de la nomenclature d'activités française (NAF), du ou des magasins dont l'extension est envisagée ;
+- le secteur d'activité et la classe, au sens de la nomenclature d'activités française (NAF), du ou des magasins dont l'extension est envisagée ;
 
-\- la surface de vente existante ;
+- la surface de vente existante ;
 
-\- l'extension de surface de vente demandée ;
+- l'extension de surface de vente demandée ;
 
-\- la surface de vente envisagée après extension ;
+- la surface de vente envisagée après extension ;
 
 e) Pour les projets de changement de secteur d'activité :
 
-\- la surface de vente du magasin et le secteur d'activité abandonné ;
+- la surface de vente du magasin et le secteur d'activité abandonné ;
 
-\- la surface de vente et le secteur d'activité envisagé ;
+- la surface de vente et le secteur d'activité envisagé ;
 
 f) Pour les projets de modification substantielle : une description du projet autorisé, des modifications envisagées et du projet après modifications ;
 
 g) Autres renseignements :
 
-\- si le projet s'intègre dans un ensemble commercial existant : une liste des magasins de cet ensemble commercial exploités sur plus de 300 mètres carrés de surface de vente, ainsi qu'à titre facultatif, la mention des enseignes de ces magasins ;
+- si le projet s'intègre dans un ensemble commercial existant : une liste des magasins de cet ensemble commercial exploités sur plus de 300 mètres carrés de surface de vente, ainsi qu'à titre facultatif, la mention des enseignes de ces magasins ;
 
-\- si le projet comporte un parc de stationnement : le nombre total de places, le nombre de places réservées aux personnes à mobilité réduite et, le cas échéant, le nombre de places dédiées à l'alimentation des véhicules électriques ou hybrides rechargeables, le nombre de places non imperméabilisées et le nombre de places dédiées à l'autopartage et au covoiturage ;
+- si le projet comporte un parc de stationnement : le nombre total de places, le nombre de places réservées aux personnes à mobilité réduite et, le cas échéant, le nombre de places dédiées à l'alimentation des véhicules électriques ou hybrides rechargeables, le nombre de places non imperméabilisées et le nombre de places dédiées à l'autopartage et au covoiturage ;
 
-\- les aménagements paysagers en pleine terre ;
+- les aménagements paysagers en pleine terre ;
 
-\- les activités annexes éventuelles n'entrant pas dans le champ d'application de la loi ;
+- les activités annexes éventuelles n'entrant pas dans le champ d'application de la loi ;
 
 2° Cartes ou plans relatifs au projet :
 
@@ -122,27 +122,27 @@ II.-L'analyse d'impact comprend, après un rappel des éléments mentionnés au 
 
 a) Une carte ou un plan indiquant, en les superposant, les limites de la commune d'implantation, celles de l'établissement public de coopération intercommunale dont est membre la commune d'implantation, et celles de la zone de chalandise, accompagné :
 
-\- des éléments justifiant la délimitation de la zone de chalandise ;
+- des éléments justifiant la délimitation de la zone de chalandise ;
 
-\- de la population de chaque commune ou partie de commune comprise dans cette zone, de la population totale de cette zone et de son évolution entre le dernier recensement authentifié par décret et le recensement authentifié par décret dix ans auparavant ;
+- de la population de chaque commune ou partie de commune comprise dans cette zone, de la population totale de cette zone et de son évolution entre le dernier recensement authentifié par décret et le recensement authentifié par décret dix ans auparavant ;
 
-\- d'une description de la desserte actuelle et future (routière, en transports collectifs, cycliste, piétonne) et des lieux exerçant une attraction significative sur la population de la zone de chalandise, notamment les principaux pôles d'activités commerciales, ainsi que du temps de trajet véhiculé moyen entre ces lieux et le projet ;
+- d'une description de la desserte actuelle et future (routière, en transports collectifs, cycliste, piétonne) et des lieux exerçant une attraction significative sur la population de la zone de chalandise, notamment les principaux pôles d'activités commerciales, ainsi que du temps de trajet véhiculé moyen entre ces lieux et le projet ;
 
-\- lorsqu'il est fait état d'une fréquentation touristique dans la zone de chalandise, des éléments justifiant les chiffres avancés.
+- lorsqu'il est fait état d'une fréquentation touristique dans la zone de chalandise, des éléments justifiant les chiffres avancés.
 
 Seront signalées, le cas échéant, les opérations de revitalisation de territoire définies au I de l'article L. 303-2 du code de la construction et de l'habitation, avec identification des secteurs d'intervention tels que prévus au II de ce même article L. 303-2 ;
 
 b) Une carte ou un plan de l'environnement du projet, accompagné d'une description faisant apparaître, dans le périmètre des communes limitrophes de la commune d'implantation incluses dans la zone de chalandise définie pour le projet, le cas échéant :
 
-\- la localisation des activités commerciales (pôles commerciaux et rues commerçantes, halles et marchés) et, le cas échéant, des locaux commerciaux vacants ;
+- la localisation des activités commerciales (pôles commerciaux et rues commerçantes, halles et marchés) et, le cas échéant, des locaux commerciaux vacants ;
 
-\- la localisation des autres activités (agricoles, industrielles, tertiaires) et des équipements publics ;
+- la localisation des autres activités (agricoles, industrielles, tertiaires) et des équipements publics ;
 
-\- la localisation, en centre-ville et en périphérie, des éventuelles friches, notamment commerciales ou industrielles, susceptibles d'accueillir le projet. Une friche au sens du présent article s'entend de toute parcelle inexploitée et en partie imperméabilisée ;
+- la localisation, en centre-ville et en périphérie, des éventuelles friches, notamment commerciales ou industrielles, susceptibles d'accueillir le projet. Une friche au sens du présent article s'entend de toute parcelle inexploitée et en partie imperméabilisée ;
 
-\- la localisation des zones d'habitat (en précisant leur nature : collectif, individuel, social) ;
+- la localisation des zones d'habitat (en précisant leur nature : collectif, individuel, social) ;
 
-\- la desserte actuelle et future (routière, en transports collectifs, cycliste, piétonne).
+- la desserte actuelle et future (routière, en transports collectifs, cycliste, piétonne).
 
 Seront signalés, le cas échéant : les opérations d'urbanisme, les programmes de logement, les quartiers prioritaires de la politique de la ville et les zones franches urbaines et les disponibilités foncières connues ;
 

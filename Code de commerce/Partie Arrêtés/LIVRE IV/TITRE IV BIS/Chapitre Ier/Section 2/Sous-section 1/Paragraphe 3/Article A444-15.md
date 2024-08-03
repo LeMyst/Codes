@@ -6,12 +6,12 @@ A l'exception de celles figurant aux numéros 46,47 et 49 du tableau 3-1, les pr
 
 2° Au-delà du seuil de 76 € mentionné au 1°, le droit d'engagement de poursuites est, dans la limite de 268,13 €, proportionnel au montant de la créance, selon le barème suivant :
 
-| Tranches d'assiette (montant de la créance) | Taux applicable |
+| Tranches d'assiette (montant de la créance) |  Taux applicable |
 | --- | --- |
-| De 0 à 304 € | 5,66 % |
-| De 305 € à 912 € | 2,83 % |
-| De 913 € à 3040 € | 1,41 % |
-| Plus de 3040 € | 0,28 % |
+|  De 0 à 304 € |  5,66 % |
+|  De 305 € à 912 € |  2,83 % |
+|  De 913 € à 3040 € |  1,41 % |
+|  Plus de 3040 € |  0,28 % |
 
 Le droit d'engagement de poursuites ne peut être perçu qu'une seule fois dans le cadre du recouvrement d'une même créance.
 

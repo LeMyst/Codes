@@ -40,7 +40,7 @@ Copie de la carte nationale d'identité ou du passeport en cours de validité.
 
 -ou copie du document provisoire de séjour prévu à l'article L. 581-3 du code de l'entrée et du séjour des étrangers et du droit d'asile pour les bénéficiaires de la protection temporaire ;
 
-\- ou copie de la carte de séjour pluriannuelle portant la mention “bénéficiaire de la protection subsidiaire” ou la mention “membre de la famille d'un bénéficiaire de la protection subsidiaire”, délivrée sur le fondement des articles L. 424-9 et L. 424-11 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+- ou copie de la carte de séjour pluriannuelle portant la mention “bénéficiaire de la protection subsidiaire” ou la mention “membre de la famille d'un bénéficiaire de la protection subsidiaire”, délivrée sur le fondement des articles L. 424-9 et L. 424-11 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
 1.2. Identification du conjoint qui a opté pour un statut en application de l'article L. 121-4.
 

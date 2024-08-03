@@ -2,19 +2,19 @@
 
 Le Conseil national pourvoit par le biais d'une bourse commune au financement de services d'intérêts collectifs dans les domaines suivants :
 
-\- formation et documentation de la profession ;
+- formation et documentation de la profession ;
 
-\- fonctionnement des services communs ;
+- fonctionnement des services communs ;
 
-\- archivage ;
+- archivage ;
 
-\- informatique et télématique de la profession ;
+- informatique et télématique de la profession ;
 
-\- fichiers centraux ;
+- fichiers centraux ;
 
-\- communication ;
+- communication ;
 
-\- recherche et développement.
+- recherche et développement.
 
 Le montant de la participation au financement des services d'intérêts collectifs est calculé selon une formule et un nombre de parts déterminés respectivement au tableau n° 1 et au tableau n° 2 figurant à l'annexe 7-4-1 du présent livre.
 

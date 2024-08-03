@@ -2,11 +2,11 @@
 
 L'établissement d'un état des lieux à frais partagés entre le bailleur et le locataire figurant au numéro 112 du tableau 3-1 donne lieu à la perception d'un émolument fonction de la superficie du bien locatif, selon le barème suivant :
 
-| Superficie du bien locatif | Emolument |
+| Superficie du bien locatif |  Emolument |
 | --- | --- |
-| Inférieure ou égale à 50 m2 | 110,68 € |
-| Supérieure à 50 m2 et inférieure ou égale à 150 m2 | 128,95 € |
-| Supérieur à 150 m2 | 193,43 € |
+|  Inférieure ou égale à 50 m2 |  110,68 € |
+|  Supérieure à 50 m2 et inférieure ou égale à 150 m2 |  128,95 € |
+|  Supérieur à 150 m2 |  193,43 € |
 
 NOTA:
 Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :

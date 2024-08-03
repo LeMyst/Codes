@@ -6,7 +6,7 @@ NEP-550. Relations et transactions avec les parties liées
 
 Introduction
 
-01\. De nombreuses transactions entre parties liées s'inscrivent dans le cadre des activités ordinaires de l'entité et ne recèlent pas davantage de risque d'anomalies significatives dans les comptes que les transactions de même nature réalisées entre parties non liées. Cependant, dans certaines circonstances, la nature des relations et des transactions avec des parties liées peut accroître ce risque, notamment lorsque :
+1. De nombreuses transactions entre parties liées s'inscrivent dans le cadre des activités ordinaires de l'entité et ne recèlent pas davantage de risque d'anomalies significatives dans les comptes que les transactions de même nature réalisées entre parties non liées. Cependant, dans certaines circonstances, la nature des relations et des transactions avec des parties liées peut accroître ce risque, notamment lorsque :
 
 -les transactions avec les parties liées s'inscrivent dans un schéma ou une organisation complexe ;
 
@@ -14,15 +14,15 @@ Introduction
 
 -certaines transactions avec des parties liées ne sont pas réalisées à des conditions normales de marché, par exemple, lorsqu'elles ne donnent pas lieu à contrepartie ou à rémunération.
 
-02\. Du fait des limites de l'audit, il existe un risque que le commissaire aux comptes ne détecte pas toutes les anomalies significatives contenues dans les comptes. Lorsqu'il existe des relations et des transactions avec des parties liées, ce risque est plus élevé car :
+2. Du fait des limites de l'audit, il existe un risque que le commissaire aux comptes ne détecte pas toutes les anomalies significatives contenues dans les comptes. Lorsqu'il existe des relations et des transactions avec des parties liées, ce risque est plus élevé car :
 
 -la direction de l'entité n'a pas nécessairement connaissance de toutes les parties liées existantes ni de toutes les transactions réalisées avec les parties liées ;
 
 -ces relations sont susceptibles d'engendrer un risque de collusion, de dissimulation ou de manipulation par la direction.
 
-03\. Dans ce contexte, il est particulièrement important que le commissaire aux comptes fasse preuve d'esprit critique tout au long de son audit et tienne compte du fait que l'existence de parties liées peut conduire à des anomalies significatives dans les comptes.
+3. Dans ce contexte, il est particulièrement important que le commissaire aux comptes fasse preuve d'esprit critique tout au long de son audit et tienne compte du fait que l'existence de parties liées peut conduire à des anomalies significatives dans les comptes.
 
-04\. La présente norme a pour objet de définir les procédures d'audit que le commissaire aux comptes met en œuvre sur les relations et transactions avec les parties liées dans le cadre de son audit des comptes en vue de leur certification. Elle précise en particulier, s'agissant du risque d'anomalies significatives dans les comptes résultant de l'existence de parties liées et de transactions avec les parties liées, la manière d'appliquer les normes d'exercice professionnel relatives :
+1. La présente norme a pour objet de définir les procédures d'audit que le commissaire aux comptes met en œuvre sur les relations et transactions avec les parties liées dans le cadre de son audit des comptes en vue de leur certification. Elle précise en particulier, s'agissant du risque d'anomalies significatives dans les comptes résultant de l'existence de parties liées et de transactions avec les parties liées, la manière d'appliquer les normes d'exercice professionnel relatives :
 
 -à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes ;
 
@@ -32,19 +32,19 @@ Introduction
 
 Définitions
 
-05\. La définition de “ parties liées ” prévue dans les référentiels comptables applicables en France aux comptes certifiés par les Commissaires aux comptes en application de l'article L. 821-53 est celle figurant dans les normes comptables internationales adoptées par le règlement (CE) n° 2238/2004 de la Commission du 29 décembre 2004, notamment la partie de son annexe IAS 24 intitulée “ Objet des informations relatives aux parties liées ”, ainsi que par tout règlement communautaire qui viendrait la modifier.
+5. La définition de “ parties liées ” prévue dans les référentiels comptables applicables en France aux comptes certifiés par les Commissaires aux comptes en application de l'article L. 821-53 est celle figurant dans les normes comptables internationales adoptées par le règlement (CE) n° 2238/2004 de la Commission du 29 décembre 2004, notamment la partie de son annexe IAS 24 intitulée “ Objet des informations relatives aux parties liées ”, ainsi que par tout règlement communautaire qui viendrait la modifier.
 
 Une autre définition des “ parties liées ” peut être retenue par l'entité lorsqu'elle établit une information financière en dehors de ses obligations légales, selon un référentiel comptable autre que ceux applicables en France ou selon des critères convenus.
 
-06\. Pour les besoins de la présente norme, une transaction conclue à des conditions de concurrence normale est une transaction conclue selon des termes et à des conditions similaires à celle effectuée entre un acheteur et un vendeur consentants qui ne sont pas liés et qui agissent de manière indépendante l'un par rapport à l'autre et au mieux de leurs intérêts respectifs.
+6. Pour les besoins de la présente norme, une transaction conclue à des conditions de concurrence normale est une transaction conclue selon des termes et à des conditions similaires à celle effectuée entre un acheteur et un vendeur consentants qui ne sont pas liés et qui agissent de manière indépendante l'un par rapport à l'autre et au mieux de leurs intérêts respectifs.
 
 Procédures d'évaluation du risque d'anomalies significatives dans les comptes
 
-07\. Afin de collecter les informations appropriées quant à l'identification des risques d'anomalies significatives dans les comptes résultant de relations et de transactions avec les parties liées, le commissaire aux comptes met en œuvre les procédures d'audit décrites ci-après aux paragraphes 8 à 13.
+7. Afin de collecter les informations appropriées quant à l'identification des risques d'anomalies significatives dans les comptes résultant de relations et de transactions avec les parties liées, le commissaire aux comptes met en œuvre les procédures d'audit décrites ci-après aux paragraphes 8 à 13.
 
 Prise de connaissance des relations et transactions de l'entité avec les parties liées
 
-08\. Le commissaire aux comptes s'enquiert auprès de la direction :
+8. Le commissaire aux comptes s'enquiert auprès de la direction :
 
 -de l'identité des parties liées et des modifications intervenues depuis l'exercice précédent ;
 
@@ -52,7 +52,7 @@ Prise de connaissance des relations et transactions de l'entité avec les partie
 
 -de l'existence de transactions conclues avec ces parties liées au cours de l'exercice ainsi que, le cas échéant, de la nature des transactions et des objectifs poursuivis.
 
-09\. Le commissaire aux comptes interroge la direction et toute personne compétente au sein de l'entité, ayant connaissance de relations et de transactions avec les parties liées, sur les contrôles mis en place par la direction afin :
+9. Le commissaire aux comptes interroge la direction et toute personne compétente au sein de l'entité, ayant connaissance de relations et de transactions avec les parties liées, sur les contrôles mis en place par la direction afin :
 
 -d'identifier et enregistrer les relations et transactions réalisées avec des parties liées et, le cas échéant, apprécier le caractère normal des conditions consenties ;
 
@@ -66,13 +66,13 @@ Il met en œuvre les autres procédures qu'il estime nécessaires afin de compl�
 
 Echange d'informations sur les parties liées au sein de l'équipe d'audit
 
-10\. Lors de la prise de connaissance des relations et des transactions avec les parties liées, les membres de l'équipe d'audit s'entretiennent, comme prévu dans les normes d'exercice professionnel, des risques d'anomalies significatives dans les comptes du fait d'erreurs ou de fraudes résultant de relations et de transactions réalisées avec des parties liées.
+10. Lors de la prise de connaissance des relations et des transactions avec les parties liées, les membres de l'équipe d'audit s'entretiennent, comme prévu dans les normes d'exercice professionnel, des risques d'anomalies significatives dans les comptes du fait d'erreurs ou de fraudes résultant de relations et de transactions réalisées avec des parties liées.
 
-11\. Ces échanges se poursuivent, si nécessaire, au cours de la mission.
+01. Ces échanges se poursuivent, si nécessaire, au cours de la mission.
 
 Vigilance lors de l'examen des enregistrements comptables et des documents
 
-12\. Au cours de son audit, le commissaire aux comptes reste attentif aux accords et aux autres informations susceptibles d'indiquer l'existence de relations et de transactions avec des parties liées que la direction n'aurait pas identifiées ou qu'elle ne lui aurait pas signalées.
+12. Au cours de son audit, le commissaire aux comptes reste attentif aux accords et aux autres informations susceptibles d'indiquer l'existence de relations et de transactions avec des parties liées que la direction n'aurait pas identifiées ou qu'elle ne lui aurait pas signalées.
 
 Il examine dans cette perspective les éléments suivants :
 
@@ -82,7 +82,7 @@ Il examine dans cette perspective les éléments suivants :
 
 -tout document qu'il estime nécessaire compte tenu de sa connaissance de l'entité et de son environnement.
 
-13\. Lorsqu'au cours de son audit, et notamment lors de la mise en œuvre des procédures décrites au paragraphe 12, le commissaire aux comptes identifie des transactions importantes n'entrant pas dans le champ des activités ordinaires de l'entité, il s'enquiert auprès de la direction de l'entité :
+13. Lorsqu'au cours de son audit, et notamment lors de la mise en œuvre des procédures décrites au paragraphe 12, le commissaire aux comptes identifie des transactions importantes n'entrant pas dans le champ des activités ordinaires de l'entité, il s'enquiert auprès de la direction de l'entité :
 
 -de la nature et du fondement de ces transactions ;
 
@@ -90,19 +90,19 @@ Il examine dans cette perspective les éléments suivants :
 
 Evaluation du risque d'anomalies significatives dans les comptes résultant de l'existence de relations et de transactions avec des parties liées
 
-14\. Lors de l'identification et de l'évaluation du risque d'anomalies significatives dans les comptes, le commissaire aux comptes identifie et évalue le risque d'anomalies significatives résultant de relations et de transactions réalisées avec des parties liées et détermine s'il se rapporte à un risque inhérent élevé qui requiert une démarche d'audit particulière. Dans ce cadre, il considère que les transactions importantes réalisées avec des parties liées n'entrant pas dans le champ des activités ordinaires de l'entité augmentent ce risque.
+14. Lors de l'identification et de l'évaluation du risque d'anomalies significatives dans les comptes, le commissaire aux comptes identifie et évalue le risque d'anomalies significatives résultant de relations et de transactions réalisées avec des parties liées et détermine s'il se rapporte à un risque inhérent élevé qui requiert une démarche d'audit particulière. Dans ce cadre, il considère que les transactions importantes réalisées avec des parties liées n'entrant pas dans le champ des activités ordinaires de l'entité augmentent ce risque.
 
-15\. Lorsque le commissaire aux comptes identifie des facteurs de risque de fraude résultant de l'existence de parties liées, il prend en compte ces informations dans son évaluation du risque d'anomalies significatives dans les comptes résultant de fraudes, effectuée en application de la norme d'exercice professionnel “ Prise en considération de la possibilité de fraudes lors de l'audit des comptes ”. L'existence, parmi les parties liées, de personnes physiques ayant une influence dominante peut constituer un facteur de risque de fraude.
+01. Lorsque le commissaire aux comptes identifie des facteurs de risque de fraude résultant de l'existence de parties liées, il prend en compte ces informations dans son évaluation du risque d'anomalies significatives dans les comptes résultant de fraudes, effectuée en application de la norme d'exercice professionnel “ Prise en considération de la possibilité de fraudes lors de l'audit des comptes ”. L'existence, parmi les parties liées, de personnes physiques ayant une influence dominante peut constituer un facteur de risque de fraude.
 
 Réponses à l'évaluation du risque d'anomalies significatives dans les comptes résultant de l'existence de relations et de transactions avec les parties liées
 
-16\. Lorsqu'il applique la norme d'exercice professionnel “ Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation des risques ”, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit permettant de répondre au risque d'anomalies significatives dans les comptes résultant de l'existence de relations et de transactions avec les parties liées. Ces procédures d'audit comprennent celles prévues dans les situations visées aux paragraphes 17 à 20.
+16. Lorsqu'il applique la norme d'exercice professionnel “ Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation des risques ”, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit permettant de répondre au risque d'anomalies significatives dans les comptes résultant de l'existence de relations et de transactions avec les parties liées. Ces procédures d'audit comprennent celles prévues dans les situations visées aux paragraphes 17 à 20.
 
 Parties liées ou transactions importantes entre l'entité et des parties liées non précédemment identifiées ou signalées
 
-17\. Lorsque le commissaire aux comptes identifie des accords ou des informations constituant des indices de l'existence de parties liées ou de transactions avec des parties liées que la direction n'a pas identifiées ou ne lui a pas signalées, il apprécie si d'autres éléments permettent de confirmer leur existence.
+17. Lorsque le commissaire aux comptes identifie des accords ou des informations constituant des indices de l'existence de parties liées ou de transactions avec des parties liées que la direction n'a pas identifiées ou ne lui a pas signalées, il apprécie si d'autres éléments permettent de confirmer leur existence.
 
-18\. Lorsque cette existence est confirmée, le commissaire aux comptes :
+01. Lorsque cette existence est confirmée, le commissaire aux comptes :
 
 -en informe rapidement les autres membres de l'équipe d'audit ;
 
@@ -118,7 +118,7 @@ Parties liées ou transactions importantes entre l'entité et des parties liées
 
 Transactions importantes identifiées avec des parties liées n'entrant pas dans le champ des activités ordinaires de l'entité
 
-19\. Concernant les transactions importantes identifiées avec des parties liées n'entrant pas dans le champ des activités ordinaires de l'entité, le commissaire aux comptes :
+19. Concernant les transactions importantes identifiées avec des parties liées n'entrant pas dans le champ des activités ordinaires de l'entité, le commissaire aux comptes :
 
 -analyse les contrats ou accords concernés et apprécie si :
 
@@ -132,11 +132,11 @@ Transactions importantes identifiées avec des parties liées n'entrant pas dans
 
 Assertion selon laquelle les transactions avec les parties liées ont été réalisées à des conditions de concurrence normale
 
-20\. Lorsque la direction pose l'assertion que certaines transactions avec des parties liées sont réalisées à des conditions de concurrence normale et utilise cette assertion pour les besoins de l'établissement des comptes, le commissaire aux comptes collecte les éléments suffisants et appropriés justifiant cette assertion. Pour ce faire, il met en œuvre des tests dont l'étendue est déterminée en fonction de son évaluation de la conception et de la mise en œuvre des contrôles mis en place par la direction concernant les transactions avec les parties liées.
+20. Lorsque la direction pose l'assertion que certaines transactions avec des parties liées sont réalisées à des conditions de concurrence normale et utilise cette assertion pour les besoins de l'établissement des comptes, le commissaire aux comptes collecte les éléments suffisants et appropriés justifiant cette assertion. Pour ce faire, il met en œuvre des tests dont l'étendue est déterminée en fonction de son évaluation de la conception et de la mise en œuvre des contrôles mis en place par la direction concernant les transactions avec les parties liées.
 
 Examen du traitement comptable des relations et transactions avec les parties liées
 
-21\. Pour fonder son opinion sur les comptes, le commissaire aux comptes apprécie si :
+21. Pour fonder son opinion sur les comptes, le commissaire aux comptes apprécie si :
 
 -les relations et les transactions avec les parties liées font l'objet d'un traitement comptable et d'une information dans l'annexe conformes aux dispositions spécifiques des référentiels comptables applicables, relatives à la comptabilisation des soldes et des transactions avec les parties liées ainsi qu'aux informations à fournir dans l'annexe au titre des parties liées ;
 
@@ -144,7 +144,7 @@ Examen du traitement comptable des relations et transactions avec les parties li
 
 Déclarations écrites
 
-22\. Dans le cadre des dispositions prévues par la norme d'exercice professionnel relative aux déclarations de la direction, le commissaire aux comptes demande des déclarations écrites du représentant légal et, s'il l'estime nécessaire, des membres des organes mentionnés à l'article L. 821-63, confirmant qu'au mieux de leur connaissance :
+22. Dans le cadre des dispositions prévues par la norme d'exercice professionnel relative aux déclarations de la direction, le commissaire aux comptes demande des déclarations écrites du représentant légal et, s'il l'estime nécessaire, des membres des organes mentionnés à l'article L. 821-63, confirmant qu'au mieux de leur connaissance :
 
 -les informations qu'ils ont données au commissaire aux comptes sur l'identité des parties liées ainsi que sur les relations et transactions les concernant sont exhaustives ;
 
@@ -154,8 +154,8 @@ Déclarations écrites
 
 Communications avec les organes mentionnés à l'article L. 821-63
 
-23\. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative aux communications avec les organes mentionnés à l'article L. 823-16 aux éléments relatifs aux parties liées, relevés au cours de l'audit.
+23. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative aux communications avec les organes mentionnés à l'article L. 823-16 aux éléments relatifs aux parties liées, relevés au cours de l'audit.
 
 Documentation
 
-24\. Sans préjudice des dispositions relatives à la documentation prévues par les autres normes d'exercice professionnel, le commissaire aux comptes consigne dans son dossier l'identité des parties liées et la nature de leurs relations avec l'entité.
+24. Sans préjudice des dispositions relatives à la documentation prévues par les autres normes d'exercice professionnel, le commissaire aux comptes consigne dans son dossier l'identité des parties liées et la nature de leurs relations avec l'entité.

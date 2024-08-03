@@ -22,30 +22,30 @@ II.-Actualisation du patrimoine affecté à l'exercice de l'activité profession
 
 A.-Eléments d'actif (2)
 
-| FICHE signalétique (3) | DESCRIPTION (4) | DATE d'acquisition | VALEUR DÉCLARÉE ou prix d'acquisition (5) | SÛRETÉS GREVANT LE BIEN (6) (le cas échéant) |
+|  FICHE signalétique (3) |  DESCRIPTION (4) |  DATE d'acquisition |  VALEUR DÉCLARÉE ou prix d'acquisition (5) |  SÛRETÉS GREVANT LE BIEN (6) (le cas échéant) |
 | --- | --- | --- | --- | --- |
-| A1 |  |  |  |  |
-| A2 |  |  |  |  |
-| A3 |  |  |  |  |
+|  A1 |  |  |  |  |
+|  A2 |  |  |  |  |
+|  A3 |  |  |  |  |
 |  |  |  |  |  |
-| Total | X | X |  | X |
+|  Total |  X |  X |  |  X |
 
 B.-Eléments de passif
 
-| Elément | DESCRIPTION (7) | ENCOURS |
+|  Elément |  DESCRIPTION (7) |  ENCOURS |
 | --- | --- | --- |
-| B1 |  |  |
-| B2 |  |  |
-| B3 |  |  |
+|  B1 |  |  |
+|  B2 |  |  |
+|  B3 |  |  |
 |  |  |  |
-| Total | X |  |
+|  Total |  X |  |
 
 C.-Evolution
 
-|  | EXERCICE N-1 | EXERCICE N (au 31 décembre...., date d'établissement du présent relevé d'actualisation) |
+|  |  EXERCICE N-1 |  EXERCICE N (au 31 décembre...., date d'établissement du présent relevé d'actualisation) |
 | --- | --- | --- |
-| Total de l'actif |  |  |
-| Total du passif |  |  |
+|  Total de l'actif |  |  |
+|  Total du passif |  |  |
 
 Fait le
 

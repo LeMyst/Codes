@@ -72,25 +72,27 @@ Nom, prénom et adresse du stagiaire :
 
 Durée du stage : du au
 
-|  | TRÈS BON | BON | MOYEN | INSUFFISANT | MAUVAIS |
+|  | TRÈS BON  | BON  | MOYEN  | INSUFFISANT  | MAUVAIS  |
 | --- | --- | --- | --- | --- | --- |
-| Connaissance du droit des ventes aux enchères publiques (ventes volontaires, fiscalité, objets d'art) |  |  |  |  |  |
-| Connaissance de la réglementation professionnelle |  |  |  |  |  |
-| Aptitude à réaliser des estimations et des inventaires : |  |  |  |  |  |
-| 1. Objets d'art | 1. | 1. | 1. | 1. | 1. |
-| 2. Matériel industriel commercial et agricole | 2. | 2. | 2. | 2. | 2. |
-| 3. Stock d'entreprises | 3. | 3. | 3. | 3. | 3. |
-| 4. Véhicules | 4. | 4. | 4. | 4. | 4. |
-| Aptitude à diriger des ventes aux enchères publiques de meubles |  |  |  |  |  |
-| Assiduité au stage |  |  |  |  |  |
-| Maîtrise de la langue française |  |  |  |  |  |
+| Connaissance du droit des ventes aux enchères publiques (ventes volontaires, fiscalité, objets d'art)  |  |  |  |  |  |
+| Connaissance de la réglementation professionnelle  |  |  |  |  |  |
+| Aptitude à réaliser des estimations et des inventaires :  |  |  |  |  |  |
+| 1. Objets d'art  | 1. | 1. | 1. | 1. | 1. |
+| 2. Matériel industriel commercial et agricole  | 2. | 2. | 2. | 2. | 2. |
+| 3. Stock d'entreprises  | 3. | 3. | 3. | 3. | 3. |
+| 4. Véhicules  | 4. | 4. | 4. | 4. | 4.  |
+| Aptitude à diriger des ventes aux enchères publiques de meubles  |  |  |  |  |  |
+| Assiduité au stage  |  |  |  |  |  |
+| Maîtrise de la langue française  |  |  |  |  |  |
 
 Cocher les cases correspondantes.
 
-| APPRECIATIONS COMPLEMENTAIRES DU MAITRE DE STAGE |
+|  |
 | --- |
+| APPRECIATIONS COMPLEMENTAIRES DU MAITRE DE STAGE  |
 | A leSignatureOBSERVATIONS |
 
-| DU STAGIAIREA |
+|  |
 | --- |
-| leSignature |
+|  DU STAGIAIREA |
+|  leSignature |

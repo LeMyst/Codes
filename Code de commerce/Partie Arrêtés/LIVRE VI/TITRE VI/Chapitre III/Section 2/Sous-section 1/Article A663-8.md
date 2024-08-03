@@ -4,13 +4,13 @@ L'émolument prévu au premier alinéa de l'article R. 663-9 au titre de l'élab
 
 1° Lorsque le total du bilan du débiteur est inférieur à 3 650 000 €, cet émolument varie en fonction du nombre de salariés employés par le débiteur ou du montant de son chiffre d'affaires, selon le barème suivant :
 
-| NOMBRE DE SALARIÉS | CHIFFRE D'AFFAIRES EN € | ÉMOLUMENT EN € |
+|  NOMBRE DE SALARIÉS |  CHIFFRE D'AFFAIRES EN € |  ÉMOLUMENT EN € |
 | --- | --- | --- |
-| De 0 à 5 | De 0 à 750 000 | 1 368,43 € |
-| De 6 à 19 | De 750 001 à 3 000 000 | 1 824,57 € |
-| De 20 à 49 | De 3 000 001 à 7 000 000 | 5 473,71 € |
-| De 50 à 149 | De 7 000 001 à 20 000 000 | 9 122,85 € |
-| A compter de 150 | Au-delà de 20 000 000 | 13 684,28 € |
+|  De 0 à 5 |  De 0 à 750 000 |  1 368,43 € |
+|  De 6 à 19 |  De 750 001 à 3 000 000 |  1 824,57 € |
+|  De 20 à 49 |  De 3 000 001 à 7 000 000 |  5 473,71 € |
+|  De 50 à 149 |  De 7 000 001 à 20 000 000 |  9 122,85 € |
+|  A compter de 150 |  Au-delà de 20 000 000 |  13 684,28 € |
 
 Lorsque le débiteur relève de deux tranches de rémunération différentes au titre respectivement du nombre de salariés employés et du montant de son chiffre d'affaires, il y a lieu de se référer à la tranche la plus élevée.
 

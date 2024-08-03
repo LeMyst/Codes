@@ -28,15 +28,15 @@ Article 2 : Identification et intitulé du compte
 
 Chaque compte est identifié de la manière suivante :
 
-\- le titulaire du compte : greffier du tribunal de commerce de suivi de la raison sociale de l'office ;
+- le titulaire du compte : greffier du tribunal de commerce de suivi de la raison sociale de l'office ;
 
-\- l'intitulé du compte selon la catégorie de fonds :
+- l'intitulé du compte selon la catégorie de fonds :
 
-\- compte affecté, article L. 743-14, expertise ;
+- compte affecté, article L. 743-14, expertise ;
 
-\- compte affecté, article L. 3253-15, AGS ;
+- compte affecté, article L. 3253-15, AGS ;
 
-\- compte affecté, article L. 743-14, séquestre affaire....
+- compte affecté, article L. 743-14, séquestre affaire....
 
 Article 3 : Spécificités du compte affecté
 

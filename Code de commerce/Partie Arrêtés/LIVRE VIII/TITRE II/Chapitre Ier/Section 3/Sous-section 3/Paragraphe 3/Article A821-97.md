@@ -6,19 +6,19 @@ NEP-9510. Diligences du commissaire aux comptes relatives au rapport de gestion,
 
 Introduction
 
-01\. Les articles L. 821-54, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 441-14 du code de commerce prévoient que le commissaire aux comptes procède à des vérifications spécifiques relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise, adressés aux membres de l'organe appelé à statuer sur les comptes.
+1. Les articles L. 821-54, L. 225-235, L. 22-10-71 ou L. 226-10-1, L. 22-10-78 et L. 441-14 du code de commerce prévoient que le commissaire aux comptes procède à des vérifications spécifiques relatives au rapport de gestion, aux autres documents sur la situation financière et les comptes et aux informations relevant du rapport sur le gouvernement d'entreprise, adressés aux membres de l'organe appelé à statuer sur les comptes.
 
-02\. La présente norme a pour objet de définir les diligences relatives :
+1. La présente norme a pour objet de définir les diligences relatives :
 
 -au rapport de gestion et aux autres documents sur la situation financière et les comptes ;
 
 -aux informations relevant du rapport sur le gouvernement d'entreprise, dont les conclusions sont formulées dans le rapport sur les comptes.
 
-03\. Elle définit également l'incidence des éventuelles inexactitudes et irrégularités relevées ainsi que la forme et le contenu de la partie du rapport sur les comptes relative à ces diligences.
+3. Elle définit également l'incidence des éventuelles inexactitudes et irrégularités relevées ainsi que la forme et le contenu de la partie du rapport sur les comptes relative à ces diligences.
 
 Diligences relatives au rapport de gestion et aux autres documents sur la situation financière et les comptes adressés aux membres de l'organe appelé à statuer sur les comptes
 
-04\. Les diligences du commissaire aux comptes portent, dans toutes les entités, sur le rapport de gestion et les autres documents sur la situation financière et les comptes adressés aux membres de l'organe appelé à statuer sur les comptes ou mis à leur disposition.
+4. Les diligences du commissaire aux comptes portent, dans toutes les entités, sur le rapport de gestion et les autres documents sur la situation financière et les comptes adressés aux membres de l'organe appelé à statuer sur les comptes ou mis à leur disposition.
 
 Ces documents peuvent être :
 
@@ -30,9 +30,9 @@ Ces documents peuvent être :
 
 Diligences relatives aux informations sur la situation financière et les comptes
 
-05\. Les informations sur la situation financière et les comptes sont celles extraites des comptes ou qui peuvent être rapprochées des données ayant servi à l'établissement de ces comptes. Elles peuvent être constituées de données chiffrées ou de commentaires et précisions portant sur ces comptes.
+5. Les informations sur la situation financière et les comptes sont celles extraites des comptes ou qui peuvent être rapprochées des données ayant servi à l'établissement de ces comptes. Elles peuvent être constituées de données chiffrées ou de commentaires et précisions portant sur ces comptes.
 
-06\. En application des articles R. 821-180 et D. 821-181 du code de commerce et afin :
+1. En application des articles R. 821-180 et D. 821-181 du code de commerce et afin :
 
 -de faire état de ses observations sur la sincérité et la concordance avec les comptes des informations sur la situation financière et les comptes ;
 
@@ -46,13 +46,13 @@ Diligences relatives aux informations sur la situation financière et les compte
 
 Diligences relatives aux autres informations
 
-07\. Les autres informations sont celles qui ne sont pas extraites des comptes ou qui ne peuvent pas être rapprochées des données ayant servi à l'établissement de ces comptes.
+7. Les autres informations sont celles qui ne sont pas extraites des comptes ou qui ne peuvent pas être rapprochées des données ayant servi à l'établissement de ces comptes.
 
-08\. Le commissaire aux comptes procède à la lecture des autres informations afin de relever, le cas échéant, celles qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces autres informations.
+1. Le commissaire aux comptes procède à la lecture des autres informations afin de relever, le cas échéant, celles qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces autres informations.
 
 Lorsqu'il procède à cette lecture, le commissaire aux comptes exerce son esprit critique en s'appuyant sur sa connaissance de l'entité, de son environnement et des éléments collectés au cours de l'audit et sur les conclusions auxquelles l'ont conduit les contrôles qu'il a menés.
 
-09\. En outre, lorsque l'entité est soumise aux dispositions de l'article L. 225-102-1 du code de commerce qui requiert des informations non financières, notamment sociales et environnementales, afin d'attester de l'existence de la déclaration prévue par cet article, il vérifie, en application de l'article L. 823-10 alinéa 4 du code de commerce, la présence :
+9. En outre, lorsque l'entité est soumise aux dispositions de l'article L. 225-102-1 du code de commerce qui requiert des informations non financières, notamment sociales et environnementales, afin d'attester de l'existence de la déclaration prévue par cet article, il vérifie, en application de l'article L. 823-10 alinéa 4 du code de commerce, la présence :
 
 -de la déclaration de performance extra-financière dans le rapport de gestion, ou,
 
@@ -60,11 +60,11 @@ Lorsqu'il procède à cette lecture, le commissaire aux comptes exerce son espri
 
 Autres diligences
 
-10\. Le commissaire aux comptes vérifie que le rapport de gestion et les autres documents sur la situation financière et les comptes comprennent toutes les informations requises par les textes légaux et réglementaires et, le cas échéant, par les statuts.
+10. Le commissaire aux comptes vérifie que le rapport de gestion et les autres documents sur la situation financière et les comptes comprennent toutes les informations requises par les textes légaux et réglementaires et, le cas échéant, par les statuts.
 
 Diligences relatives aux informations relevant du rapport sur le gouvernement d'entreprise
 
-11\. Les diligences du commissaire aux comptes portent sur les informations relevant du rapport sur le gouvernement d'entreprise prévu aux articles L. 225-37 ou L. 225-68 du code de commerce applicables aux sociétés anonymes, aux sociétés en commandite par actions et aux sociétés européennes. Ces informations sont :
+11. Les diligences du commissaire aux comptes portent sur les informations relevant du rapport sur le gouvernement d'entreprise prévu aux articles L. 225-37 ou L. 225-68 du code de commerce applicables aux sociétés anonymes, aux sociétés en commandite par actions et aux sociétés européennes. Ces informations sont :
 
 -présentées dans le rapport sur le gouvernement d'entreprise joint au rapport de gestion ;
 
@@ -72,7 +72,7 @@ Diligences relatives aux informations relevant du rapport sur le gouvernement d'
 
 Diligences relatives aux rémunérations, avantages et engagements de toute nature
 
-12\. Dans les sociétés mentionnées au paragraphe 11, dont les actions sont admises aux négociations sur un marché réglementé, des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués aux mandataires sociaux ainsi qu'aux engagements consentis en leur faveur, sont requises par l'article L. 22-10-9 du code de commerce. Afin d'attester, en application des articles L. 22-10-71 ou L. 22-10-78 et L. 823-10 alinéa 2 du code de commerce, de l'existence, de l'exactitude et de la sincérité de ces informations, le commissaire aux comptes vérifie la présence des informations requises et que celles-ci :
+12. Dans les sociétés mentionnées au paragraphe 11, dont les actions sont admises aux négociations sur un marché réglementé, des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués aux mandataires sociaux ainsi qu'aux engagements consentis en leur faveur, sont requises par l'article L. 22-10-9 du code de commerce. Afin d'attester, en application des articles L. 22-10-71 ou L. 22-10-78 et L. 823-10 alinéa 2 du code de commerce, de l'existence, de l'exactitude et de la sincérité de ces informations, le commissaire aux comptes vérifie la présence des informations requises et que celles-ci :
 
 -concordent avec les comptes ou avec les données ayant servi à l'établissement de ces comptes ;
 
@@ -80,11 +80,11 @@ Diligences relatives aux rémunérations, avantages et engagements de toute natu
 
 -sont cohérentes avec la connaissance qu'il a acquise de la société à la suite des travaux menés au cours de sa mission.
 
-13\. Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, il vérifie par ailleurs que les informations requises par l'article L. 22-10-8 ou l'article L. 22-10-26 ou L. 22-10-76 du code de commerce, concernant le projet de résolution relatif à la politique de rémunération des mandataires sociaux ont été fournies.
+13. Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, il vérifie par ailleurs que les informations requises par l'article L. 22-10-8 ou l'article L. 22-10-26 ou L. 22-10-76 du code de commerce, concernant le projet de résolution relatif à la politique de rémunération des mandataires sociaux ont été fournies.
 
 Diligences relatives aux informations sur les éléments susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange
 
-14\. Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, afin de formuler en application des articles L. 22-10-71 ou L. 22-10-78 du code de commerce ses observations sur les informations mentionnées à l'article L. 22-10-11 du code de commerce relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, le commissaire aux comptes :
+14. Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, afin de formuler en application des articles L. 22-10-71 ou L. 22-10-78 du code de commerce ses observations sur les informations mentionnées à l'article L. 22-10-11 du code de commerce relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, le commissaire aux comptes :
 
 -vérifie la conformité de ces informations avec les documents et informations dont elles sont issues et qui lui ont été communiqués ;
 
@@ -92,15 +92,15 @@ Diligences relatives aux informations sur les éléments susceptibles d'avoir un
 
 Autres diligences
 
-15\. Afin d'attester de l'existence des informations requises par les articles L. 225-37-4 et L. 22-10-10 du code de commerce, portant notamment sur le fonctionnement des organes d'administration et de direction de l'entité, le commissaire aux comptes vérifie leur présence au sein des informations sur le gouvernement d'entreprise.
+15. Afin d'attester de l'existence des informations requises par les articles L. 225-37-4 et L. 22-10-10 du code de commerce, portant notamment sur le fonctionnement des organes d'administration et de direction de l'entité, le commissaire aux comptes vérifie leur présence au sein des informations sur le gouvernement d'entreprise.
 
-16\. Le commissaire aux comptes procède à la lecture des informations, autres que celles requises par les articles L. 22-10-9 et L. 22-10-11 du code de commerce, afin de relever, le cas échéant, celles qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces informations.
+01. Le commissaire aux comptes procède à la lecture des informations, autres que celles requises par les articles L. 22-10-9 et L. 22-10-11 du code de commerce, afin de relever, le cas échéant, celles qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces informations.
 
 Lorsqu'il procède à cette lecture, le commissaire aux comptes exerce son esprit critique en s'appuyant sur sa connaissance de l'entité, de son environnement et des éléments collectés au cours de l'audit et sur les conclusions auxquelles l'ont conduit les contrôles qu'il a menés.
 
 Incidence des éventuelles inexactitudes et irrégularités relevées
 
-17\. Si le commissaire aux comptes relève dans le rapport de gestion, dans les autres documents sur la situation financière et les comptes ou dans les informations relevant du rapport sur le gouvernement d'entreprise, des éléments qui pourraient constituer :
+17. Si le commissaire aux comptes relève dans le rapport de gestion, dans les autres documents sur la situation financière et les comptes ou dans les informations relevant du rapport sur le gouvernement d'entreprise, des éléments qui pourraient constituer :
 
 a) Des inexactitudes, c'est-à-dire des informations qui ne concordent pas avec les comptes ou avec les données ayant servi à l'établissement des comptes, qui ne sont pas conformes avec les documents et informations dont elles sont issues, qui ne sont pas exactes ou qui ne sont pas sincères ;
 
@@ -114,17 +114,17 @@ Il s'en entretient avec la direction et, s'il l'estime nécessaire, met en œuvr
 
 -s'il doit mettre à jour sa connaissance de l'entité et de son environnement.
 
-18\. Si le commissaire aux comptes conclut à l'existence d'inexactitudes ou d'irrégularités, il demande à la direction les modifications nécessaires.
+18. Si le commissaire aux comptes conclut à l'existence d'inexactitudes ou d'irrégularités, il demande à la direction les modifications nécessaires.
 
-19\. A défaut de modification par la direction, le commissaire aux comptes détermine si ces inexactitudes ou irrégularités sont susceptibles d'influencer le jugement des utilisateurs des comptes sur l'entité ou leur prise de décision et donc d'avoir une incidence sur son rapport sur les comptes.
+01. A défaut de modification par la direction, le commissaire aux comptes détermine si ces inexactitudes ou irrégularités sont susceptibles d'influencer le jugement des utilisateurs des comptes sur l'entité ou leur prise de décision et donc d'avoir une incidence sur son rapport sur les comptes.
 
-20\. Le commissaire aux comptes communique aux organes mentionnés à l'article L. 821-63 du code de commerce les inexactitudes ou irrégularités non corrigées et les informe de l'incidence qu'elles peuvent avoir sur son rapport sur les comptes.
+01. Le commissaire aux comptes communique aux organes mentionnés à l'article L. 821-63 du code de commerce les inexactitudes ou irrégularités non corrigées et les informe de l'incidence qu'elles peuvent avoir sur son rapport sur les comptes.
 
 A défaut de correction, il en tire les conséquences éventuelles dans son rapport sur les comptes.
 
 Forme et contenu de la partie du rapport sur les comptes relative à la vérification du rapport de gestion, des autres documents sur la situation financière et les comptes et des informations relevant du rapport sur le gouvernement d'entreprise
 
-21\. Dans le rapport sur les comptes annuels, cette partie comporte les éléments suivants :
+21. Dans le rapport sur les comptes annuels, cette partie comporte les éléments suivants :
 
 -une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
 
@@ -152,7 +152,7 @@ Forme et contenu de la partie du rapport sur les comptes relative à la vérific
 
 -la mention des éventuelles autres inexactitudes relevées.
 
-22\. Dans le rapport sur les comptes consolidés, la partie relative à la vérification des informations relatives au groupe données dans le rapport de gestion comporte les éléments suivants :
+22. Dans le rapport sur les comptes consolidés, la partie relative à la vérification des informations relatives au groupe données dans le rapport de gestion comporte les éléments suivants :
 
 -une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
 

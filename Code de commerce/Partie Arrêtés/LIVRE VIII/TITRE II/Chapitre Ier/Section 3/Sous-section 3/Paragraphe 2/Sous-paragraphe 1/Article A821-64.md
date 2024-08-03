@@ -6,19 +6,19 @@ NEP 600. Principes spécifiques applicables à l'audit des comptes consolidés
 
 Introduction
 
-1\. En application du deuxième alinéa de l'article L. 821-53 du code de commerce, les commissaires aux comptes certifient, en justifiant de leurs appréciations, que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de l'ensemble constitué par les personnes et entités comprises dans la consolidation.
+1. En application du deuxième alinéa de l'article L. 821-53 du code de commerce, les commissaires aux comptes certifient, en justifiant de leurs appréciations, que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de l'ensemble constitué par les personnes et entités comprises dans la consolidation.
 
 Pour répondre à cette obligation légale, les commissaires aux comptes formulent une opinion sur les comptes consolidés après avoir mis en œuvre un audit, en application des normes d'exercice professionnel.
 
-2\. La présente norme a pour objet de définir, en complément des dispositions prévues par les normes d'exercice professionnel relatives à la certification des comptes, les principes spécifiques applicables à l'audit des comptes consolidés.
+2. La présente norme a pour objet de définir, en complément des dispositions prévues par les normes d'exercice professionnel relatives à la certification des comptes, les principes spécifiques applicables à l'audit des comptes consolidés.
 
 Ces principes s'appliquent également lorsque les comptes à certifier par le commissaire aux comptes sont des comptes combinés.
 
 La présente norme n'a pas pour objet de définir les principes qui régissent l'exercice collégial de l'audit des comptes réalisé par plusieurs commissaires aux comptes, qui font l'objet de la norme d'exercice professionnel correspondante.
 
-3\. Dans le contexte particulier de l'audit des comptes consolidés, le risque d'audit comprend notamment le risque qu'une anomalie présente dans l'information comptable des entités comprises dans la consolidation et pouvant générer des anomalies significatives dans les comptes consolidés ne soit détectée ni par les professionnels chargés du contrôle des comptes de ces entités, ni par le commissaire aux comptes.
+3. Dans le contexte particulier de l'audit des comptes consolidés, le risque d'audit comprend notamment le risque qu'une anomalie présente dans l'information comptable des entités comprises dans la consolidation et pouvant générer des anomalies significatives dans les comptes consolidés ne soit détectée ni par les professionnels chargés du contrôle des comptes de ces entités, ni par le commissaire aux comptes.
 
-4\. Par convention, dans la présente norme :
+1. Par convention, dans la présente norme :
 
 -le terme “ entités ” désigne les entités comprises dans la consolidation ;
 
@@ -32,15 +32,15 @@ La présente norme n'a pas pour objet de définir les principes qui régissent l
 
 Lettre de mission
 
-5\. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative à la lettre de mission.
+5. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative à la lettre de mission.
 
 Planification de l'audit
 
-6\. Le commissaire aux comptes planifie son audit des comptes consolidés conformément aux principes de la norme d'exercice professionnel relative à la planification de la mission.
+6. Le commissaire aux comptes planifie son audit des comptes consolidés conformément aux principes de la norme d'exercice professionnel relative à la planification de la mission.
 
 Prise de connaissance de l'ensemble consolidé et de son environnement et évaluation du risque d'anomalies significatives
 
-7\. En application de la norme d'exercice professionnel relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, le commissaire aux comptes identifie et évalue le risque d'anomalies significatives au niveau des comptes consolidés.
+7. En application de la norme d'exercice professionnel relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, le commissaire aux comptes identifie et évalue le risque d'anomalies significatives au niveau des comptes consolidés.
 
 Pour ce faire, le commissaire aux comptes prend connaissance :
 
@@ -52,13 +52,13 @@ Pour ce faire, le commissaire aux comptes prend connaissance :
 
 -d'évaluer le risque d'anomalies significatives dans les comptes consolidés résultant de fraudes ou d'erreurs.
 
-8\. Lors de sa prise de connaissance, le commissaire aux comptes tient compte des informations recueillies avant l'acceptation de son mandat.
+8. Lors de sa prise de connaissance, le commissaire aux comptes tient compte des informations recueillies avant l'acceptation de son mandat.
 
 Connaissance des professionnels chargés du contrôle des comptes des entités
 
-9\. En application des dispositions de l'article L. 821-53 du code de commerce, la certification des comptes consolidés est délivrée notamment après examen des travaux des commissaires aux comptes des personnes et entités comprises dans la consolidation ou, s'il n'en est point, des professionnels chargés du contrôle des comptes desdites personnes et entités.
+9. En application des dispositions de l'article L. 821-53 du code de commerce, la certification des comptes consolidés est délivrée notamment après examen des travaux des commissaires aux comptes des personnes et entités comprises dans la consolidation ou, s'il n'en est point, des professionnels chargés du contrôle des comptes desdites personnes et entités.
 
-10\. Le commissaire aux comptes évalue la possibilité d'utiliser, pour les besoins de l'audit des comptes consolidés, les éléments collectés et les conclusions émises par les professionnels chargés du contrôle des comptes des entités. Pour ce faire, il examine les critères suivants :
+1. Le commissaire aux comptes évalue la possibilité d'utiliser, pour les besoins de l'audit des comptes consolidés, les éléments collectés et les conclusions émises par les professionnels chargés du contrôle des comptes des entités. Pour ce faire, il examine les critères suivants :
 
 a) L'identité de ces professionnels et la nature de la mission qui leur a été confiée, leur qualification professionnelle et leur compétence ;
 
@@ -68,11 +68,11 @@ c) La possibilité qu'il a d'être impliqué dans les travaux qui seront réalis
 
 d) L'existence d'un système de surveillance de leur profession dans l'environnement réglementaire des entités.
 
-11\. A l'issue de cet examen, si le commissaire aux comptes estime qu'il ne peut utiliser pour les besoins de l'audit des comptes consolidés les travaux des professionnels chargés du contrôle des comptes des entités, il adapte son niveau d'implication dans les travaux requis et, si besoin, réalise lui-même ces travaux.
+11. A l'issue de cet examen, si le commissaire aux comptes estime qu'il ne peut utiliser pour les besoins de l'audit des comptes consolidés les travaux des professionnels chargés du contrôle des comptes des entités, il adapte son niveau d'implication dans les travaux requis et, si besoin, réalise lui-même ces travaux.
 
 Seuils de signification
 
-12\. Le commissaire aux comptes détermine :
+12. Le commissaire aux comptes détermine :
 
 a) Le seuil de signification au niveau des comptes consolidés pris dans leur ensemble ;
 
@@ -82,13 +82,13 @@ c) Le seuil de signification au niveau des comptes de chaque entité dont l'info
 
 d) Le seuil en dessous duquel des anomalies sont manifestement insignifiantes au regard des comptes consolidés pris dans leur ensemble.
 
-13\. Lorsque les comptes d'une entité font l'objet d'un audit en application des textes légaux et réglementaires, des statuts ou de toute autre obligation et que le commissaire aux comptes estime, sur la base des critères définis au paragraphe 10 de la présente norme, qu'il pourra utiliser ces travaux pour ses propres besoins, il apprécie le caractère approprié du seuil de signification au niveau des comptes de l'entité pris dans leur ensemble, déterminé par le professionnel chargé du contrôle des comptes de l'entité.
+13. Lorsque les comptes d'une entité font l'objet d'un audit en application des textes légaux et réglementaires, des statuts ou de toute autre obligation et que le commissaire aux comptes estime, sur la base des critères définis au paragraphe 10 de la présente norme, qu'il pourra utiliser ces travaux pour ses propres besoins, il apprécie le caractère approprié du seuil de signification au niveau des comptes de l'entité pris dans leur ensemble, déterminé par le professionnel chargé du contrôle des comptes de l'entité.
 
-14\. Lorsque le professionnel chargé du contrôle des comptes d'une entité définit un montant inférieur au seuil de signification pour la mise en œuvre de ses procédures d'audit, tel que défini dans la norme d'exercice professionnel relative aux “ anomalies significatives et seuil de signification ”, le commissaire aux comptes en apprécie le caractère approprié.
+01. Lorsque le professionnel chargé du contrôle des comptes d'une entité définit un montant inférieur au seuil de signification pour la mise en œuvre de ses procédures d'audit, tel que défini dans la norme d'exercice professionnel relative aux “ anomalies significatives et seuil de signification ”, le commissaire aux comptes en apprécie le caractère approprié.
 
 Réponses à l'évaluation des risques
 
-15\. En réponse à son évaluation du risque d'anomalies significatives au niveau des comptes consolidés, le commissaire aux comptes détermine :
+15. En réponse à son évaluation du risque d'anomalies significatives au niveau des comptes consolidés, le commissaire aux comptes détermine :
 
 -les tests à réaliser, le cas échéant, sur l'efficacité des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
 
@@ -98,7 +98,7 @@ Réponses à l'évaluation des risques
 
 Tests sur l'efficacité des contrôles conçus par l'entité consolidante
 
-16\. Le commissaire aux comptes réalise ou demande aux professionnels chargés du contrôle des comptes des entités de réaliser des tests sur l'efficacité des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés dans les cas suivants :
+16. Le commissaire aux comptes réalise ou demande aux professionnels chargés du contrôle des comptes des entités de réaliser des tests sur l'efficacité des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés dans les cas suivants :
 
 -lorsque les travaux à réaliser sur le processus d'établissement des comptes consolidés ou sur l'information comptable des entités reposent sur l'hypothèse selon laquelle ces contrôles fonctionnent efficacement ;
 
@@ -108,9 +108,9 @@ Nature et étendue des travaux sur l'information comptable établie par les enti
 
 Entités importantes au regard des comptes consolidés
 
-17\. Lorsque le commissaire aux comptes a identifié qu'une entité est importante pour l'audit des comptes consolidés en raison de l'importance de sa contribution individuelle au regard des comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de l'entité effectue un audit de l'information comptable de celle-ci en utilisant le ou les seuil (s) de signification défini (s) au niveau des comptes de cette dernière.
+17. Lorsque le commissaire aux comptes a identifié qu'une entité est importante pour l'audit des comptes consolidés en raison de l'importance de sa contribution individuelle au regard des comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de l'entité effectue un audit de l'information comptable de celle-ci en utilisant le ou les seuil (s) de signification défini (s) au niveau des comptes de cette dernière.
 
-18\. Lorsque le commissaire aux comptes détermine qu'une entité est importante en raison de l'importance du risque d'anomalies significatives que son information comptable peut faire peser sur les comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de celle-ci met en œuvre une ou plusieurs des diligences suivantes :
+01. Lorsque le commissaire aux comptes détermine qu'une entité est importante en raison de l'importance du risque d'anomalies significatives que son information comptable peut faire peser sur les comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de celle-ci met en œuvre une ou plusieurs des diligences suivantes :
 
 -un audit de l'information comptable de l'entité en utilisant le ou les seuil (s) de signification défini (s) au niveau des comptes de cette dernière ;
 
@@ -120,9 +120,9 @@ Entités importantes au regard des comptes consolidés
 
 Entités non importantes au regard des comptes consolidés
 
-19\. Le commissaire aux comptes effectue, au niveau des comptes consolidés, des procédures analytiques.
+19. Le commissaire aux comptes effectue, au niveau des comptes consolidés, des procédures analytiques.
 
-20\. Le commissaire aux comptes apprécie si les éléments susceptibles d'être collectés à partir :
+01. Le commissaire aux comptes apprécie si les éléments susceptibles d'être collectés à partir :
 
 -des travaux réalisés sur l'information comptable des entités importantes ;
 
@@ -144,7 +144,7 @@ Nature et étendue de l'implication du commissaire aux comptes dans les travaux 
 
 Entités importantes.-Evaluation des risques
 
-21\. Le commissaire aux comptes est impliqué dans l'évaluation des risques effectuée par les professionnels chargés du contrôle des comptes des entités importantes. La nature, le calendrier et l'étendue des travaux requis pour cette implication dépendent de l'appréciation faite par le commissaire aux comptes sur ces professionnels, selon les critères énoncés au paragraphe 10 de la présente norme. Ils comprennent au minimum :
+21. Le commissaire aux comptes est impliqué dans l'évaluation des risques effectuée par les professionnels chargés du contrôle des comptes des entités importantes. La nature, le calendrier et l'étendue des travaux requis pour cette implication dépendent de l'appréciation faite par le commissaire aux comptes sur ces professionnels, selon les critères énoncés au paragraphe 10 de la présente norme. Ils comprennent au minimum :
 
 -un échange d'informations avec le professionnel chargé du contrôle des comptes ou la direction de l'entité sur les activités de celle-ci qui sont importantes pour l'ensemble consolidé ;
 
@@ -154,7 +154,7 @@ Entités importantes.-Evaluation des risques
 
 Procédures d'audit en réponse au risque élevé d'anomalies significatives
 
-22\. Lorsqu'un risque élevé d'anomalies significatives a été identifié au niveau d'une entité pour laquelle les travaux sont réalisés par un professionnel chargé du contrôle des comptes de celle-ci, le commissaire aux comptes :
+22. Lorsqu'un risque élevé d'anomalies significatives a été identifié au niveau d'une entité pour laquelle les travaux sont réalisés par un professionnel chargé du contrôle des comptes de celle-ci, le commissaire aux comptes :
 
 -évalue le caractère approprié des procédures d'audit complémentaires à mettre en œuvre pour répondre spécifiquement à ce risque ;
 
@@ -162,7 +162,7 @@ Procédures d'audit en réponse au risque élevé d'anomalies significatives
 
 Processus de consolidation
 
-23\. En réponse à son évaluation du risque d'anomalies significatives lié au processus de consolidation, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit complémentaires à celles réalisées en application des paragraphes 7 et 16 de la présente norme. Celles-ci lui permettent :
+23. En réponse à son évaluation du risque d'anomalies significatives lié au processus de consolidation, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit complémentaires à celles réalisées en application des paragraphes 7 et 16 de la présente norme. Celles-ci lui permettent :
 
 -d'évaluer l'exhaustivité du périmètre de consolidation ;
 
@@ -176,17 +176,17 @@ Processus de consolidation
 
 Evénements postérieurs
 
-24\. Dans le cadre de l'audit de l'information comptable des entités, le commissaire aux comptes ou les professionnels chargés du contrôle des comptes de ces entités mettent en oeuvre des procédures destinées à identifier les événements qui ont pu survenir dans ces dernières entre la date de clôture de leur information comptable et la date de signature du rapport sur les comptes consolidés et qui peuvent nécessiter :
+24. Dans le cadre de l'audit de l'information comptable des entités, le commissaire aux comptes ou les professionnels chargés du contrôle des comptes de ces entités mettent en oeuvre des procédures destinées à identifier les événements qui ont pu survenir dans ces dernières entre la date de clôture de leur information comptable et la date de signature du rapport sur les comptes consolidés et qui peuvent nécessiter :
 
 -un traitement comptable approprié dans les comptes consolidés ;
 
 -ou une information dans le rapport de l'organe compétent à l'organe appelé à statuer sur les comptes consolidés.
 
-25\. Lorsque les professionnels chargés du contrôle des comptes des entités réalisent des travaux autres qu'un audit de l'information comptable de ces dernières, le commissaire aux comptes leur demande de l'informer d'événements postérieurs tels que définis ci-dessus dont ils auraient eu connaissance.
+25. Lorsque les professionnels chargés du contrôle des comptes des entités réalisent des travaux autres qu'un audit de l'information comptable de ces dernières, le commissaire aux comptes leur demande de l'informer d'événements postérieurs tels que définis ci-dessus dont ils auraient eu connaissance.
 
 Communication avec les professionnels chargés du contrôle des comptes des entités
 
-26\. Le commissaire aux comptes communique suffisamment à l'avance ses instructions aux professionnels chargés du contrôle des comptes des entités. Cette communication définit les travaux à réaliser, l'utilisation qui en sera faite ainsi que le format et le contenu de la communication entre les professionnels chargés du contrôle des comptes des entités et le commissaire aux comptes.
+26. Le commissaire aux comptes communique suffisamment à l'avance ses instructions aux professionnels chargés du contrôle des comptes des entités. Cette communication définit les travaux à réaliser, l'utilisation qui en sera faite ainsi que le format et le contenu de la communication entre les professionnels chargés du contrôle des comptes des entités et le commissaire aux comptes.
 
 Cette communication comprend également :
 
@@ -204,7 +204,7 @@ Cette communication comprend également :
 
 -la demande aux professionnels chargés du contrôle des comptes des entités de communiquer au commissaire aux comptes, dès qu'ils en ont connaissance, l'existence de toute partie liée non identifiée par celui-ci ou par la direction de l'entité consolidante. Le commissaire aux comptes apprécie, le cas échéant, si l'existence de ces parties liées doit être communiquée aux professionnels chargés du contrôle des comptes des autres entités.
 
-27\. Le commissaire aux comptes demande aux professionnels chargés du contrôle des comptes des entités de lui communiquer les éléments pertinents pour fonder son opinion sur les comptes consolidés.
+27. Le commissaire aux comptes demande aux professionnels chargés du contrôle des comptes des entités de lui communiquer les éléments pertinents pour fonder son opinion sur les comptes consolidés.
 
 Cette communication comprend :
 
@@ -230,13 +230,13 @@ Cette communication comprend :
 
 Evaluation du caractère suffisant et approprié des éléments collectés
 
-28\. Le commissaire aux comptes collecte les éléments suffisants et appropriés sur la base :
+28. Le commissaire aux comptes collecte les éléments suffisants et appropriés sur la base :
 
 -des procédures d'audit réalisées sur le processus d'établissement des comptes consolidés ;
 
 -des travaux réalisés par lui-même et par les professionnels chargés du contrôle des comptes des entités sur l'information comptable de ces dernières.
 
-29\. Le commissaire aux comptes :
+29. Le commissaire aux comptes :
 
 -apprécie la pertinence des éléments transmis par les professionnels chargés du contrôle des comptes des entités tels que mentionnés dans le paragraphe 27 ;
 
@@ -246,7 +246,7 @@ Evaluation du caractère suffisant et approprié des éléments collectés
 
 -conçoit, dès lors que les travaux mis en œuvre au niveau des entités sont estimés insuffisants, les procédures complémentaires à mettre en œuvre par les professionnels chargés du contrôle des comptes des entités ou par le commissaire aux comptes.
 
-30\. Le commissaire aux comptes évalue l'incidence sur son opinion d'audit de :
+30. Le commissaire aux comptes évalue l'incidence sur son opinion d'audit de :
 
 -l'ensemble des anomalies non corrigées autres que celles manifestement insignifiantes ;
 
@@ -254,7 +254,7 @@ Evaluation du caractère suffisant et approprié des éléments collectés
 
 Communication
 
-31\. Le commissaire aux comptes communique à la direction de l'entité consolidante, au niveau de responsabilité approprié, en faisant application de la norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne :
+31. Le commissaire aux comptes communique à la direction de l'entité consolidante, au niveau de responsabilité approprié, en faisant application de la norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne :
 
 -les faiblesses du contrôle interne conçu par l'entité consolidante et mis en oeuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
 
@@ -262,7 +262,7 @@ Communication
 
 -les fraudes qu'il a identifiées ou qui ont été portées à sa connaissance par le professionnel chargé du contrôle des comptes d'une entité ou les informations qu'il a obtenues sur l'existence possible d'une fraude.
 
-32\. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative aux communications avec les organes mentionnés à l'article L. 821-63 du code de commerce.
+32. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative aux communications avec les organes mentionnés à l'article L. 821-63 du code de commerce.
 
 A ce titre, le commissaire aux comptes communique les éléments suivants :
 
@@ -286,7 +286,7 @@ A ce titre, le commissaire aux comptes communique les éléments suivants :
 
 Documentation
 
-33\. Le commissaire aux comptes fait figurer dans son dossier les éléments suivants :
+33. Le commissaire aux comptes fait figurer dans son dossier les éléments suivants :
 
 -une analyse des entités le conduisant à déterminer celles qui sont ou non importantes ;
 

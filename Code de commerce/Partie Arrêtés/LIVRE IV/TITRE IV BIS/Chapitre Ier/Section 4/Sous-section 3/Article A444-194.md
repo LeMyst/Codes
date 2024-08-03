@@ -4,13 +4,13 @@ I. – Les actes réalisés dans le cadre d'une demande contestée en partage de
 
 1° En cas d'instance contradictoire, d'un émolument proportionnel selon le barème suivant :
 
-| TRANCHES D'ASSIETTE | TAUX APPLICABLE |
+|  TRANCHES D'ASSIETTE |  TAUX APPLICABLE |
 | --- | --- |
-| De 0 à 1068 € | 3,6 % |
-| De 1 069 € à 2 135 € | 2,4 % |
-| De 2 136 € à 3 964 € | 1,2 % |
-| De 3 965 à 9 147 € | 0,6 % |
-| Plus de 9 147 € | 0,3 % |
+|  De 0 à 1068 € |  3,6 % |
+|  De 1 069 € à 2 135 € |  2,4 % |
+|  De 2 136 € à 3 964 € |  1,2 % |
+|  De 3 965 à 9 147 € |  0,6 % |
+|  Plus de 9 147 € |  0,3 % |
 
 2° En cas d'instance par défaut :
 

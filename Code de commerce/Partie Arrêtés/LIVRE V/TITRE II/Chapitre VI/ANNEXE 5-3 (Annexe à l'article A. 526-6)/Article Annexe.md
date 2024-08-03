@@ -4,7 +4,7 @@ MODÈLE D'ACTE DE RENONCIATION À LA PROTECTION DU PATRIMOINE PERSONNEL DE L'ENT
 
 I.-Identités de l'entrepreneur individuel renonçant à la protection de son patrimoine personnel et du bénéficiaire de la renonciation
 
-1\. Identité de l'entrepreneur individuel
+1. Identité de l'entrepreneur individuel
 
 Nom de naissance :
 
@@ -34,7 +34,7 @@ code postal : I _ I _ I _ I _ I _ I commune :
 
 Numéro unique d'identification : I _ I _ I _ I _ I _ I _ I _ I _ I _ I ou date déclarée de début d'activité : I _ I _ I _ I _ I _ I _ I _ I _ I
 
-2\. Identité du bénéficiaire de la renonciation personne physique
+2. Identité du bénéficiaire de la renonciation personne physique
 
 Nom de naissance :
 
@@ -100,8 +100,9 @@ Lorsque l'entrepreneur individuel et le bénéficiaire de la renonciation entend
 
 Fait à le I _ I _ I _ I _ I _ I _ I _ I _ I
 
-| Signature de l'entrepreneur individuel | Signature du bénéficiaire de la renonciation |
+|  |  |
 | --- | --- |
+|  Signature de l'entrepreneur individuel |  Signature du bénéficiaire de la renonciation |
 
 NOTA:
 Conformément à l'article 3 de l'arrêté du 12 mai 2022 (NOR : ECOI2213035A), en application du premier alinéa du I de l'article 19 de la loi du 14 février 2022, ces dispositions entrent en vigueur le 15 mai 2022.

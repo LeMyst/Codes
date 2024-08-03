@@ -3,8 +3,9 @@
 Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,\
 des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
 
-| DÉPARTEMENT | JURIDICTION | RESSORT |
+|  |  |  |
 | --- | --- | --- |
+| DÉPARTEMENT | JURIDICTION | RESSORT |
 | Ain | Tribunal judiciaire de Bourg-en-Bresse | Le département |
 | Aisne | Tribunal judiciaire de Laon | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Saint-Quentin | Ressort du tribunal judiciaire |

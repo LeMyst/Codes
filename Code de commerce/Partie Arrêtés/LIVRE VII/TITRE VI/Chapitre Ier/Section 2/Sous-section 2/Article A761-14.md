@@ -6,15 +6,15 @@ La seconde partie de la demande au préfet mentionnée au premier alinéa de l'a
 
 2° Des cartes et des plans présentant :
 
-\- la localisation du projet sur une carte au 1/25 000 ;
+- la localisation du projet sur une carte au 1/25 000 ;
 
-\- l'organisation du projet sur la ou les parcelles de terrain concernées : les emplacements et superficies des bâtiments, les espaces destinés au stationnement des véhicules, au stockage des produits, à la manœuvre des véhicules de livraison ; les surfaces nécessaires à l'installation et au fonctionnement des équipements spécifiques, y compris frigorifiques, nécessaires au projet ainsi que les surfaces nécessaires aux locaux administratifs et sociaux ;
+- l'organisation du projet sur la ou les parcelles de terrain concernées : les emplacements et superficies des bâtiments, les espaces destinés au stationnement des véhicules, au stockage des produits, à la manœuvre des véhicules de livraison ; les surfaces nécessaires à l'installation et au fonctionnement des équipements spécifiques, y compris frigorifiques, nécessaires au projet ainsi que les surfaces nécessaires aux locaux administratifs et sociaux ;
 
-\- les principales voies et les aménagements routiers et, le cas échéant, les voies ferroviaires ou fluviales desservant le projet ;
+- les principales voies et les aménagements routiers et, le cas échéant, les voies ferroviaires ou fluviales desservant le projet ;
 
-\- l'environnement du projet, sur une distance d'environ 500 m à partir de son site d'implantation ;
+- l'environnement du projet, sur une distance d'environ 500 m à partir de son site d'implantation ;
 
-\- l'inscription du projet dans son quartier au moyen d'une vue récente réalisée par voie aérienne ou par satellite ;
+- l'inscription du projet dans son quartier au moyen d'une vue récente réalisée par voie aérienne ou par satellite ;
 
 3° Un document graphique présentant l'insertion du projet de construction par rapport aux constructions avoisinantes et aux paysages ainsi que des éléments relatifs au traitement des accès et du terrain, permettant d'apprécier l'impact sur les paysages et sur les écosystèmes ;
 

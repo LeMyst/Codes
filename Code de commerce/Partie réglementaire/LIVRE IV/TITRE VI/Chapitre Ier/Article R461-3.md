@@ -4,9 +4,9 @@ Le rapporteur général ainsi que le ou les rapporteurs généraux adjoints sont
 
 Le rapporteur général anime et contrôle l'activité des rapporteurs. Il veille, notamment :
 
-\- à ce que les rapporteurs effectuent des actes tendant à la recherche, à la constatation ou à la sanction des faits concernés par l'instruction des affaires dont il leur a confié l'examen ;
+- à ce que les rapporteurs effectuent des actes tendant à la recherche, à la constatation ou à la sanction des faits concernés par l'instruction des affaires dont il leur a confié l'examen ;
 
-\- à la qualité des notifications de griefs, des rapports et autres actes d'instruction effectués par les rapporteurs.
+- à la qualité des notifications de griefs, des rapports et autres actes d'instruction effectués par les rapporteurs.
 
 Il peut déléguer à un ou des rapporteurs généraux adjoints tout ou partie des attributions qu'il détient conformément au présent titre.
 

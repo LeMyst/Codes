@@ -4,7 +4,7 @@ STRUCTURE DES BUDGETS EXÉCUTÉS ET DOCUMENTS À PRÉSENTER AVEC CES BUDGETS PAR
 
 Les budgets exécutés des établissements du réseau des chambres de commerce et d'industrie sont constitués des documents suivants :
 
-1\. Pour l'ensemble de l'établissement.
+1. Pour l'ensemble de l'établissement.
 
 1.1. Un feuillet récapitulatif d'approbation.
 
@@ -44,7 +44,7 @@ Les budgets exécutés des établissements du réseau des chambres de commerce e
 
 1.4.4. Un tableau de financement.
 
-2\. Pour chacun de ses services budgétaires et des concessions portuaires ou aéroportuaires de l'Etat :
+2. Pour chacun de ses services budgétaires et des concessions portuaires ou aéroportuaires de l'Etat :
 
 ― un état des opérations de fonctionnement ;
 
@@ -52,7 +52,7 @@ Les budgets exécutés des établissements du réseau des chambres de commerce e
 
 ― un état des opérations en capital.
 
-3\. Pour le service budgétaire "Collecte et gestion de la PEEC " et pour chaque concession portuaire ou aéroportuaire de l'Etat :
+3. Pour le service budgétaire "Collecte et gestion de la PEEC " et pour chaque concession portuaire ou aéroportuaire de l'Etat :
 
 ― une situation patrimoniale ;
 

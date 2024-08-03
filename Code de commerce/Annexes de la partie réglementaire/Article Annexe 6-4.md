@@ -4,7 +4,6 @@ JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
 | DÉPARTEMENT | JURIDICTION | RESSORT |
-| --- | --- | --- |
 | Guadeloupe. | Tribunal judiciaire de Basse-Terre. | Ressort du tribunal judiciaire. |
 |  | Tribunal judiciaire de Pointe-à-Pitre. | Ressort du tribunal judiciaire. |
 | Guyane. | Tribunal judiciaire de Cayenne. | Le département. |

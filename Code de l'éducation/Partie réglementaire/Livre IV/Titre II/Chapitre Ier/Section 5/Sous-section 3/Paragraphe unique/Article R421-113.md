@@ -1,10 +1,9 @@
 # Article R421-113
 
-Les fonctions d'agent comptable sont confiées soit à un agent des services déconcentrés de la direction générale des finances publiques, soit à un fonctionnaire du ministère chargé de la mer.
+Les fonctions d'agent comptable peuvent être confiées à un agent de la direction générale des finances publiques, du ministère chargé de l'éducation nationale ou du ministère chargé de la mer.
 
-Un même agent comptable peut se voir confier les postes comptables de plusieurs établissements publics locaux d'enseignement ou d'un établissement public national et d'un ou de plusieurs établissements publics locaux d'enseignement.
+Un même agent comptable peut se voir confier les postes comptables de plusieurs établissements publics locaux d'enseignement.
 
-Les agents comptables sont nommés par le préfet de région après information préalable de la collectivité territoriale de rattachement et pour les agents des services déconcentrés de la direction générale des finances publiques, sur proposition du directeur départemental ou, le cas échéant, régional des finances publiques territorialement compétent. Ils prêtent serment dans les conditions fixées à l'article 14-1 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+Dans le cas où la fonction d'agent comptable est confiée à un agent du ministère chargé de l'éducation nationale, le lycée est intégré à un groupement comptable dans les conditions prévues à l'article R. 421-62. Le poste comptable du groupement est créé conformément aux dispositions de l'article R. 421-63. L'agent comptable du groupement est nommé dans les conditions fixées à l'article R. 421-65.
 
-NOTA:
-Conformément à l'article 89 du décret n° 2022-1605 du 22 décembre 2022, ces dispositions sont applicables à compter du 1er janvier 2023 dans les conditions fixées aux II à IV dudit article.
+Dans les autres cas, les agents comptables sont nommés par le préfet de région sur proposition de leurs autorités hiérarchiques respectives, après information préalable de la collectivité territoriale de rattachement. Ils prêtent serment dans les conditions fixées à l'article 14-1 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

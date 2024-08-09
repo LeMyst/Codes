@@ -8,3 +8,5 @@ Les redevables qui estiment que les acomptes déjà payés au titre de l'année 
 
 NOTA:
 Conformément à l'article 92-II de la loi n° 2009-258 du 5 mars 2009, le II de l'article 33 de la même loi s'applique à compter du 1er janvier 2010. Toutefois, pour l'année 2009, les redevables de la taxe prévue au I du même article acquittent cette taxe par acomptes mensuels ou trimestriels versés lors du dépôt, au titre de la période considérée, de la déclaration mentionnée au 1 de l'article 287 du code général des impôts. Le montant de ces acomptes est égal, selon les obligations déclaratives des redevables et sous réserve des dispositions du troisième alinéa de l'article 1693 quinquies du même code, au douzième ou au quart des montants et sommes mentionnés au II de l'article 302 bis KH du même code, encaissés en 2008 excédant 5 millions d'euros, auxquels est appliqué le taux de 0,9 %.
+
+L'abrogation de cet article intervient le 1er janvier 2025 (2° de l'article 38 de l'ordonnance n° 2021-1843 et décret n° 2024-610).

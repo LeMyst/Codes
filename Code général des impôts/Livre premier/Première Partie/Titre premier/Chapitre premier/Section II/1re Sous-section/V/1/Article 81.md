@@ -194,3 +194,5 @@ d. (disjoint)
 
 NOTA:
 Modifications effectuées en conséquence de l'article 6-I de la loi n° 2019-1479 du 28 décembre 2019.
+
+Conformément au II de l'article 4 de la loi n° 2021-1900 du 30 décembre 2021, la modification du montant du c du 19° ter du présent article prévue par le I dudit article 4 s'applique à l'imposition des revenus de l'année 2022.

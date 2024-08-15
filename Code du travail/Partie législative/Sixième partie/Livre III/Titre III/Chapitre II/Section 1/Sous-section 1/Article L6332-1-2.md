@@ -1,6 +1,6 @@
 # Article L6332-1-2
 
-I. - Les opérateurs de compétences agréés pour gérer la contribution mentionnée au chapitre Ier du présent titre peuvent également collecter et gérer les contributions supplémentaires ayant pour objet le développement de la formation professionnelle continue.
+I.-Les opérateurs de compétences agréés pour gérer la contribution mentionnée au chapitre Ier du présent titre peuvent également collecter et gérer les contributions supplémentaires ayant pour objet le développement de la formation professionnelle continue.
 
 Ces contributions sont versées soit en application d'un accord professionnel national conclu entre les organisations représentatives d'employeurs et de salariés et mutualisées dès réception par l'organisme au sein des branches concernées, soit sur une base volontaire par l'entreprise.
 
@@ -8,7 +8,7 @@ Les contributions supplémentaires mentionnées au 5° du I de l'article L. 6131
 
 Elles font l'objet d'un suivi comptable distinct.
 
-II. - Les opérateurs de compétences peuvent collecter les contributions aux fonds de financement du paritarisme mentionnés au 4° du I de l'article L. 2135-10. Une convention conclue entre l'opérateur de compétences et l'association désignée dans l'accord de la branche professionnelle concernée relatif au financement du paritarisme prévoit les modalités de collecte de cette contribution.
+II.-Les opérateurs de compétences peuvent collecter les contributions aux fonds de financement du paritarisme mentionnés au 4° du I de l'article L. 2135-10. Une convention conclue entre l'opérateur de compétences et l'association désignée dans l'accord de la branche professionnelle concernée relatif au financement du paritarisme prévoit les modalités de collecte de cette contribution.
 
 Ces contributions font l'objet d'un suivi comptable distinct et les frais liés à leur recouvrement sont établis séparément.
 

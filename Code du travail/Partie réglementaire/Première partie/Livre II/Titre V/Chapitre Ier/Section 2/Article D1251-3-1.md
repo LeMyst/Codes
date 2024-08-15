@@ -6,4 +6,4 @@ L'entreprise utilisatrice fournit par écrit la liste des postes en contrat à d
 
 L'entreprise utilisatrice n'est toutefois pas tenue par les exigences prévues à l'alinéa précédent lorsque le salarié temporaire a déjà formulé deux demandes dans l'année civile en cours.
 
-II. - Par dérogation aux dispositions du I, lorsque l'entreprise utilisatrice emploie moins de 250 salariés, une réponse peut être apportée par oral à compter de la deuxième demande du salarié temporaire, si la réponse est inchangée par rapport à celle apportée à la première demande.
+II.-Par dérogation aux dispositions du I, lorsque l'entreprise utilisatrice emploie moins de 250 salariés, une réponse peut être apportée par oral à compter de la deuxième demande du salarié temporaire, si la réponse est inchangée par rapport à celle apportée à la première demande.

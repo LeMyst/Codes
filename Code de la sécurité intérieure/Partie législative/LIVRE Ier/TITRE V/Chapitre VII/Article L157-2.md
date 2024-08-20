@@ -20,7 +20,7 @@ Pour l'application du présent livre dans les îles Wallis et Futuna :
 
 5° A l'article L. 132-9 :
 
-a) Au premier alinéa, les mots : “et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs” sont supprimés ;
+a) Au premier alinéa, les mots : “ et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs ” sont supprimés ;
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement ".
 

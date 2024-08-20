@@ -1,6 +1,6 @@
 # Article L234-16
 
-I. ― Le fait de contrevenir à l'interdiction prononcée sur le fondement du 7° de l'article L. 234-2 , du 8° du II de l'article L. 234-8 ou de l'article L. 234-13 est puni de deux ans d'emprisonnement et de 4 500 € d'amende.
+I. ― Le fait de contrevenir à l'interdiction prononcée sur le fondement du 7° de l'article L. 234-2, du 8° du II de l'article L. 234-8 ou de l'article L. 234-13 est puni de deux ans d'emprisonnement et de 4 500 € d'amende.
 
 II. ― Toute personne coupable de l'infraction prévue au I encourt également les peines complémentaires suivantes :
 

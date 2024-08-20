@@ -12,7 +12,7 @@ Les dispositions du 7° du I de l'article L. 224-1 et du 5° du I de l'article L
 
 5° Les vitesses prévues aux articles R. 413-14, R. 413-14-1 et R. 413-17 ;
 
-6° Le dépassement prévues aux articles R. 414-4, R. 414-6, R. 414-7, R. 414-11 et R. 414- 16 ;
+6° Le dépassement prévues aux articles R. 414-4, R. 414-6, R. 414-7, R. 414-11 et R. 414-16 ;
 
 7° Les signalisations imposant l'arrêt des véhicules ou de céder le passage aux véhicules prévues aux articles R. 415-6 et R. 415-7 ;
 

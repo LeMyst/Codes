@@ -30,7 +30,7 @@ Le modèle de fiche descriptive de l'état du véhicule à enlever en fourrière
 
 -dommages graves et, le cas échéant, les mentions facultatives : défauts techniques irréversibles et non remplaçables, ensemble moteur-boîte et coque ou châssis à échanger, coque ou châssis ni réparable ni remplaçable, organes de commande ni réparables ni remplaçables, pneumatiques ou roues ni réparables ni remplaçables, véhicule complètement brûlé, véhicule définitivement non identifiable, véhicule immergé au-dessus du tableau de bord ;
 
--le cas échéant,le nom et les coordonnées de la fourrière ;
+-le cas échéant, le nom et les coordonnées de la fourrière ;
 
 -le verrouillage :
 

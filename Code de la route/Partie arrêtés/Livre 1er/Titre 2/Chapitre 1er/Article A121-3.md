@@ -1,10 +1,10 @@
 # Article A121-3
 
-I.- Lorsque ces informations sont adressées de façon dématérialisée, l'envoi est fait sur le site “ www. antai. fr ”, en utilisant les informations figurant sur l'avis de contravention, à l'aide du formulaire en ligne figurant sur ce site.
+I.-Lorsque ces informations sont adressées de façon dématérialisée, l'envoi est fait sur le site “ www. antai. fr ”, en utilisant les informations figurant sur l'avis de contravention, à l'aide du formulaire en ligne figurant sur ce site.
 
 Cet envoi produit les mêmes effets que l'envoi de la lettre recommandée avec demande d'avis de réception prévu par l'article L. 121-6.
 
-II.- Dans le cas prévu au 1° de l'article A. 121-1, le représentant de la personne morale doit également préciser la référence du permis de conduire de la personne qui était présumée conduire le véhicule lorsque l'infraction a été constatée ; il est informé que toute fausse déclaration l'expose à des poursuites pénales.
+II.-Dans le cas prévu au 1° de l'article A. 121-1, le représentant de la personne morale doit également préciser la référence du permis de conduire de la personne qui était présumée conduire le véhicule lorsque l'infraction a été constatée ; il est informé que toute fausse déclaration l'expose à des poursuites pénales.
 
 Dans le cas prévu au 2° de l'article A. 121-1, le représentant de la personne morale :
 
@@ -16,7 +16,7 @@ III.-Les dispositions des I et II ci-dessus sont applicables aux cas prévus aux
 
 Dans le cas prévu au 3° de l'article A. 121-1-1, la personne physique ayant immatriculé le véhicule en tant que personne morale transmet de façon numérisée, selon les formats indiqués sur le site “ www. antai. fr ” la copie du certificat d'immatriculation du véhicule établi à son nom.
 
-IV.- Dans tous les cas, un accusé d'enregistrement de la transmission est présenté automatiquement à la personne lorsque celle-ci a validé et envoyé les informations demandées. Ce document peut être téléchargé ou imprimé par la personne.
+IV.-Dans tous les cas, un accusé d'enregistrement de la transmission est présenté automatiquement à la personne lorsque celle-ci a validé et envoyé les informations demandées. Ce document peut être téléchargé ou imprimé par la personne.
 
 NOTA:
 Conformément à l’article 7 de l’arrêté du 13 octobre 2021, ces dispositions entrent entre en vigueur le 1er janvier 2022.

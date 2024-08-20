@@ -10,4 +10,4 @@ Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou 
 
 Les dispositions des articles R. 313-2, R. 313-3, R. 313-3-1 à R. 313-3-4, R. 313-4-1, R. 313-6 à R. 313-17 et R. 313-17-1 ne sont pas applicables aux engins de déplacement personnel motorisés.
 
-L'immobilisation des véhicules qui contreviennent aux dispositions du présent article peut être prescrite dans les conditions prévues aux articles L. 325-1, L.325-2 et L. 325-3.
+L'immobilisation des véhicules qui contreviennent aux dispositions du présent article peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.

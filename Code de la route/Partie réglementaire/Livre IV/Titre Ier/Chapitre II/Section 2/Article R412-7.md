@@ -12,6 +12,6 @@ Dans l'exercice de leur mission, les véhicules d'entretien des voies du domaine
 
 Les véhicules de collecte des ordures ménagères peuvent circuler et s'arrêter sur les bandes cyclables dans leur sens de circulation pour la réalisation des opérations de collecte de la section de rue concernée.
 
-II.- Lorsqu'une voie de circulation est réservée à certaines catégories de véhicules, les conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés ne doivent pas circuler dans une aire piétonne, à l'exception des cas prévus par les règles de circulation mentionnées à l'article R. 411-3, ni sur une voie verte, à l'exception des cas prévus par les règles de circulation mentionnées à l'article R. 411-3-2.
+II.-Lorsqu'une voie de circulation est réservée à certaines catégories de véhicules, les conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie. Les conducteurs de véhicules motorisés ne doivent pas circuler dans une aire piétonne, à l'exception des cas prévus par les règles de circulation mentionnées à l'article R. 411-3, ni sur une voie verte, à l'exception des cas prévus par les règles de circulation mentionnées à l'article R. 411-3-2.
 
 III.-Sous réserve de l'application des dispositions des deuxième à sixième alinéas du I, le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la 4e classe.

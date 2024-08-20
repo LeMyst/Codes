@@ -6,7 +6,7 @@ I.-Parmi les autorités et personnes énumérées à l'article L. 330-2, reçoiv
 
 a) Les agents de police judiciaire adjoints et les gardes champêtres autres que ceux mentionnés au 4° du I de l'article R. 330-2, aux seules fins d'identifier les auteurs des infractions au présent code et des infractions relatives à l'abandon ou au dépôt illégal de déchets qu'ils sont habilités à constater ;
 
-b) Aux seules fins d'identifier les auteurs des infractions au présent code, les fonctionnaires habilités à constater ces infractions en application des 1°, 3°, 4°, 5° et 9° de l'article L. 130-4 .
+b) Aux seules fins d'identifier les auteurs des infractions au présent code, les fonctionnaires habilités à constater ces infractions en application des 1°, 3°, 4°, 5° et 9° de l'article L. 130-4.
 
 2° Par l'intermédiaire du ministre de l'intérieur, par voie électronique :
 

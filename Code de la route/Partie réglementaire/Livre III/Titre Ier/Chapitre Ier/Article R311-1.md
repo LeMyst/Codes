@@ -174,7 +174,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 5.2.7. Véhicule de catégorie R2b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux supérieur à 1 500 kilogrammes et inférieur ou égal à 3 500 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
-5.2.8. Véhicule de catégorie R3a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/h ;
+5.2.8. Véhicule de catégorie R3a : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse inférieure ou égale à 40 km/ h ;
 
 5.2.9. Véhicule de catégorie R3b : remorque ou semi-remorque agricole ayant un poids maximal sur l'ensemble de ses essieux supérieur à 3 500 kilogrammes et inférieur ou égal à 21 000 kilogrammes et conçue pour une vitesse supérieure à 40 km/ h ;
 
@@ -206,11 +206,11 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 6.3. Véhicule présentant un intérêt historique (véhicule dit de collection) : véhicule qui remplit l'ensemble des conditions suivantes :
 
-- il a été construit ou immatriculé pour la première fois il y a au moins trente ans ;
+-il a été construit ou immatriculé pour la première fois il y a au moins trente ans ;
 
-- son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus produit ;
+-son type particulier, tel que défini par la législation pertinente de l'Union européenne ou nationale, n'est plus produit ;
 
-- il est préservé sur le plan historique et maintenu dans son état d'origine, et aucune modification essentielle n'a été apportée aux caractéristiques techniques de ses composants principaux ;
+-il est préservé sur le plan historique et maintenu dans son état d'origine, et aucune modification essentielle n'a été apportée aux caractéristiques techniques de ses composants principaux ;
 
 6.4. Véhicule d'intérêt général : véhicule d'intérêt général prioritaire ou bénéficiant de facilités de passage ;
 
@@ -234,7 +234,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 6.14. Engin de déplacement personnel : engin de déplacement personnel motorisé ou non motorisé ;
 
-6.15. Engin de déplacement personnel motorisé : véhicule sans place assise, conçu et construit pour le déplacement d'une seule personne et dépourvu de tout aménagement destiné au transport de marchandises, équipé d'un moteur non thermique ou d'une assistance non thermique et dont la vitesse maximale par construction est supérieure à 6 km/h et ne dépasse pas 25 km/h. Il peut comporter des accessoires, comme un panier ou une sacoche de petite taille. Un gyropode, tel que défini au paragraphe 71 de l'article 3 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, peut être équipé d'une selle. Les engins exclusivement destinés aux personnes à mobilité réduite sont exclus de cette catégorie ;
+6.15. Engin de déplacement personnel motorisé : véhicule sans place assise, conçu et construit pour le déplacement d'une seule personne et dépourvu de tout aménagement destiné au transport de marchandises, équipé d'un moteur non thermique ou d'une assistance non thermique et dont la vitesse maximale par construction est supérieure à 6 km/ h et ne dépasse pas 25 km/ h. Il peut comporter des accessoires, comme un panier ou une sacoche de petite taille. Un gyropode, tel que défini au paragraphe 71 de l'article 3 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, peut être équipé d'une selle. Les engins exclusivement destinés aux personnes à mobilité réduite sont exclus de cette catégorie ;
 
 6.16. Engin de déplacement personnel non motorisé : véhicule de petite dimension sans moteur.
 

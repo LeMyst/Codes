@@ -36,7 +36,7 @@ Pour leur agrément, les centres de formation transmettent les informations et l
 
 -nom et qualité de l'organisme demandeur, adresse complète et SIRET ; et
 
--pour les écoles et organismes non conventionnés avec le ministère chargé des transports, la & laquo ; Déclaration d'existence de dispensateur de formation & raquo ; délivrée par la préfecture de région (service régional de l'Etat chargé de la formation professionnelle) ;
+-pour les écoles et organismes non conventionnés avec le ministère chargé des transports, la « Déclaration d'existence de dispensateur de formation » délivrée par la préfecture de région (service régional de l'Etat chargé de la formation professionnelle) ;
 
 -déclaration sur l'honneur que l'organisme a pris connaissance des engagements fixés par le cahier des charges, à respecter dans le cadre de l'agrément et s'engage à les respecter.
 
@@ -230,7 +230,7 @@ Le candidat doit :
 
 -définir les limitations de responsabilité s'appliquant au transporteur ainsi que les conditions d'exonération de responsabilité (retards, dommages matériels) ;
 
--connaître les conditions générales de vente en transport & laquo ; sec & raquo ; et en transport avec prestations associées ;
+-connaître les conditions générales de vente en transport « sec » et en transport avec prestations associées ;
 
 -identifier les documents relatifs à l'exécution du service (licence de transport intérieur, autorisations de service occasionnel, selon les cas), au conducteur (permis de conduire, ordre de mission, livret individuel de contrôle, feuille de service), au véhicule (certificat d'immatriculation, déclaration d'affectation, attestation d'assurance, attestation SACEM …), aux personnes transportées (billet à la place ou collectif) et les présenter en cas de contrôle ;
 
@@ -644,13 +644,13 @@ Pour chaque thématique, le créateur de l'examen veillera à ce que les QCM ne 
 
 Questions et exercices exigeant une réponse rédigée sur 100 points :
 
--exercices sur la thématique & laquo ; D.-L'entreprise et son activité financière & raquo ; exigeant une réponse rédigée, sur 60 points, comportant au moins un calcul de coût de revient complet et 4 questions rédigées portant sur les autres connaissances de la thématique & laquo ; D.-L'entreprise et son activité financière & raquo ;. Un calcul d'amortissement linéaire, un calcul de seuil de rentabilité ou un exercice d'organisation/ classement de postes financiers peuvent remplacer une de ces questions.
+-exercices sur la thématique « D.-L'entreprise et son activité financière » exigeant une réponse rédigée, sur 60 points, comportant au moins un calcul de coût de revient complet et 4 questions rédigées portant sur les autres connaissances de la thématique « D.-L'entreprise et son activité financière ». Un calcul d'amortissement linéaire, un calcul de seuil de rentabilité ou un exercice d'organisation/ classement de postes financiers peuvent remplacer une de ces questions.
 
 25 à 30 points pour le coût de revient et 30 à 35 points à répartir sur les autres questions, soit 60 points au total.
 
 Nota.-Un calcul d'amortissement linéaire vaudra 10 points ; un calcul de seuil de rentabilité vaudra 15 points.
 
--8 questions à réponses rédigées portant sur les thématiques & laquo ; C.-L'entreprise et le cadre réglementaire de l'activité de transport & raquo ;, & laquo ; E.-L'entreprise et ses salariés & raquo ; et & laquo ; F.-L'entreprise et la sécurité & raquo ; (dont 3 questions sur chaque thématique C et E et 2 questions sur la thématique F).
+-8 questions à réponses rédigées portant sur les thématiques « C.-L'entreprise et le cadre réglementaire de l'activité de transport », « E.-L'entreprise et ses salariés » et « F.-L'entreprise et la sécurité » (dont 3 questions sur chaque thématique C et E et 2 questions sur la thématique F).
 
 5 points par questions, soit 40 points au total.
 
@@ -686,11 +686,11 @@ Dans chaque thématique, le créateur de l'examen veillera à ce que les QCM ne 
 
 Questions et exercices exigeant une réponse rédigée sur 100 points :
 
--exercices sur la thématique & laquo ; D. L'entreprise et son activité financière & raquo ; exigeant une réponse rédigée, sur 50 points, comportant au moins un calcul de coût de revient complet et deux questions rédigées portant sur les autres connaissances de la thématique & laquo ; D. L'entreprise et son activité financière & raquo ;. Un calcul de seuil de rentabilité ou un exercice d'organisation/ classement de postes financiers peuvent remplacer une de ces questions.
+-exercices sur la thématique « D. L'entreprise et son activité financière » exigeant une réponse rédigée, sur 50 points, comportant au moins un calcul de coût de revient complet et deux questions rédigées portant sur les autres connaissances de la thématique « D. L'entreprise et son activité financière ». Un calcul de seuil de rentabilité ou un exercice d'organisation/ classement de postes financiers peuvent remplacer une de ces questions.
 
 25 à 30 points pour le coût de revient et 20 à 25 points à répartir sur les autres questions, soit 50 points au total.
 
--5 questions à réponses rédigées portant sur les thématiques & laquo ; C. L'entreprise et le son cadre réglementaire de l'activité de transport & raquo ;, & laquo ; E. L'entreprise et ses salariés & raquo ; et & laquo ; F. L'entreprise et la sécurité & raquo ; (dont 3 questions sur la thématique E et 1 question sur chaque thématique C et F).
+-5 questions à réponses rédigées portant sur les thématiques « C. L'entreprise et le son cadre réglementaire de l'activité de transport », « E. L'entreprise et ses salariés » et « F. L'entreprise et la sécurité » (dont 3 questions sur la thématique E et 1 question sur chaque thématique C et F).
 
 Entre 6 à 10 points par question, pour un total de 50 points.
 
@@ -710,22 +710,22 @@ DÉCLARATIONS RELATIVES AU SUIVI DE LA FORMATION ET AUX EXAMENS
 
 |  |
 | --- |
-| Civilité : M./ Mme Nom : Prénom : Adresse complète : Né (e) le : à : Nationalité :  |
+|  Civilité : M./ Mme Nom : Prénom : Adresse complète :Né (e) le : à :Nationalité : |
 
 |  |
 | --- |
-| Intitulé de la formation : Lieu et dates de la formation :  |
+|  Intitulé de la formation : Lieu et dates de la formation : |
 
 |  |
 | --- |
-| 1. Suivi de la formation et premier examen. Lieu et date de l'examen : Le directeur du centre de formation, organisateur du premier examen, déclare que M./ Mme : a suivi la formation mentionnée ci-dessus et a passé sans succès le premier examen. Cachet du centre : Date : Signature :  |
+|  1. Suivi de la formation et premier examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du premier examen, déclare que M./ Mme : a suivi la formation mentionnée ci-dessus et a passé sans succès le premier examen.Cachet du centre :Date :Signature : |
 
 |  |
 | --- |
-| 2. Deuxième examen. Lieu et date de l'examen : Le directeur du centre de formation, organisateur du deuxième examen, agréé le : par le préfet de la région (n° d'agrément), déclare que M./ Mme a passé sans succès le deuxième examen. Cachet du centre : Date : Signature :  |
+|  2. Deuxième examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du deuxième examen, agréé le : par le préfet de la région(n° d'agrément), déclare que M./ Mme a passé sans succès le deuxième examen.Cachet du centre :Date :Signature : |
 
 |  |
 | --- |
-| 3. Troisième examen. Lieu et date de l'examen : Le directeur du centre de formation, organisateur du troisième examen, agréé le : par le préfet de la région (n° d'agrément), déclare que M./ Mme a passé sans succès le troisième examen. Cachet du centre : Date : Signature :  |
+|  3. Troisième examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du troisième examen, agréé le : par le préfet de la région(n° d'agrément), déclare que M./ Mme a passé sans succès le troisième examen.Cachet du centre :Date :Signature : |
 
 (1) Cocher la case correspondante.

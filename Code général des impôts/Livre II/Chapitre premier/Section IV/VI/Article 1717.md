@@ -1,13 +1,10 @@
 # Article 1717
 
-Peut être fractionné, dans les conditions fixées par décret, le payement des droits exigibles :
+I. — Par dérogation aux dispositions de l’article 1701, le paiement des droits d’enregistrement et de la taxe de publicité foncière peut être fractionné ou différé selon des modalités fixées par décret.
 
-1° Sur les actes portant jouissance de biens meubles ou immeubles ;
+II. — (Disposition devenue sans objet : décret n° 77-498 du 11 mai 1977, art. 16-I).
 
-2° Sur les actes constatant les marchés ;
+III. — (Abrogé).
 
-3° Sur les actes constatant la vente de maisons individuelles à bon marché construites par les bureaux de bienfaisance et d’assistance, hospices ou hôpitaux, les caisses d’épargne, les sociétés de construction ou par des particuliers ;
-
-4° Sur les actes de fusion de sociétés anonymes, en commandite par actions ou à responsabilité limitée, visés à l’article 717 ;
-
-5° Sur les actes portant augmentation de capital au moyen de l’incorporation de la réserve spéciale de réévaluation visée à l’article 47 du présent code.
+NOTA:
+Modifié par le décret n° 79-794 du 13 septembre 1979 portant incorporation dans le code général des impôts de divers textes modifiant et complétant certaines dispositions de ce code, JORF du 16 septembre 1979.

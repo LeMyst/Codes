@@ -16,6 +16,6 @@ Les articles L. 511-1, L. 511-4, L. 511-5, L. 511-5-2, L. 512-1 à L. 513-1, L. 
 
 7° Pour l'application de l'article L. 522-2 :
 
-- le II et le VI sont supprimés ;
+-le II et le VI sont supprimés ;
 
-- au V, les mots : “I à III” sont remplacés par les mots : “I et III”.
+-au V, les mots : “ I à III ” sont remplacés par les mots : “ I et III ”.

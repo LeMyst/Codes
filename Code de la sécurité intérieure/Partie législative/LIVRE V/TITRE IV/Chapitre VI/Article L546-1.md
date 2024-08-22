@@ -4,7 +4,7 @@ Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 511
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la République en Nouvelle-Calédonie ;
 
-2° L' article L. 511-1 est ainsi modifié :
+2° L'article L. 511-1 est ainsi modifié :
 
 a) Au deuxième alinéa, les mots : " contraventions aux dispositions du code de la route ” sont remplacés par les mots : " contraventions aux dispositions du code de la route de la Nouvelle-Calédonie ” ;
 
@@ -22,4 +22,4 @@ b) Les troisième et quatrième alinéas sont supprimés ;
 
 7° A l'article L. 512-6, le deuxième alinéa est supprimé ;
 
-8° A l'article L. 513-1, les mots : " et après avis de la commission consultative des polices municipales, " sont supprimés .
+8° A l'article L. 513-1, les mots : " et après avis de la commission consultative des polices municipales, " sont supprimés.

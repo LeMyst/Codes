@@ -1,6 +1,6 @@
 # Article L323-3
 
-I. - Afin de prévenir les activités frauduleuses ou criminelles ainsi que le blanchiment de capitaux et le financement du terrorisme, toute évolution de la répartition du capital social et du contrôle, direct ou indirect, de la société titulaire de l'autorisation prévue à l'article L. 321-1 est soumise à autorisation préalable du ministre de l'intérieur, dès lors qu'elle permettrait à une personne :
+I.-Afin de prévenir les activités frauduleuses ou criminelles ainsi que le blanchiment de capitaux et le financement du terrorisme, toute évolution de la répartition du capital social et du contrôle, direct ou indirect, de la société titulaire de l'autorisation prévue à l'article L. 321-1 est soumise à autorisation préalable du ministre de l'intérieur, dès lors qu'elle permettrait à une personne :
 
 1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ;
 
@@ -8,7 +8,7 @@ I. - Afin de prévenir les activités frauduleuses ou criminelles ainsi que le b
 
 3° Soit de réaliser une opération entraînant la prise de contrôle de fait de la société, notamment par l'octroi de prêts ou de garanties substantielles.
 
-II. - Dans le cadre de la procédure d'autorisation prévue au I du présent article, les agents désignés par le ministère de l'intérieur peuvent :
+II.-Dans le cadre de la procédure d'autorisation prévue au I du présent article, les agents désignés par le ministère de l'intérieur peuvent :
 
 1° Réaliser des enquêtes administratives pouvant donner lieu à la consultation de traitements de données à caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
 

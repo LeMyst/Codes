@@ -26,7 +26,7 @@ b) Au premier alinéa du II, après les mots : " gendarmerie nationale, ", sont 
 
 10° L'article L. 731-2 est ainsi rédigé :
 
-" Art. L. 731-2. - Un schéma d'analyse et de couverture des risques de la Nouvelle-Calédonie dresse l'inventaire des risques de toute nature pour la sécurité des personnes et des biens auxquels doivent faire face les services d'incendie et de secours, et détermine les objectifs de couverture de ces risques par ceux-ci. Il comprend une partie relative au risque d'incendie de forêt, de surfaces agricoles et de végétation et détermine les objectifs de couverture de ce risque.
+" Art. L. 731-2.-Un schéma d'analyse et de couverture des risques de la Nouvelle-Calédonie dresse l'inventaire des risques de toute nature pour la sécurité des personnes et des biens auxquels doivent faire face les services d'incendie et de secours, et détermine les objectifs de couverture de ces risques par ceux-ci. Il comprend une partie relative au risque d'incendie de forêt, de surfaces agricoles et de végétation et détermine les objectifs de couverture de ce risque.
 
 " Le schéma directeur d'analyse et de couverture des risques est élaboré, sous l'autorité du haut-commissaire de la République en Nouvelle-Calédonie, par l'établissement public d'incendie et de secours.
 
@@ -49,13 +49,13 @@ b) Après le mot : “ maire ”, la fin du II est ainsi rédigée : “ après 
 13° A l'article L. 732-2, les mots : ", ainsi qu'au représentant de l'Etat dans le département du siège de la zone de défense et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ;\
 14° L'article L. 732-5 est ainsi rédigé :
 
-" Art. L. 732-5. - Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie fixe les règles et les normes techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes d'information des services publics qui concourent aux missions de sécurité civile. "\
+" Art. L. 732-5.-Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie fixe les règles et les normes techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes d'information des services publics qui concourent aux missions de sécurité civile. "\
 15° L'article L. 732-6 est ainsi rédigé :\
-" Art. L. 732-6. - Les établissements de santé et médico-sociaux définis par les autorités compétentes en Nouvelle-Calédonie, pratiquant un hébergement collectif à titre permanent, sont tenus de prendre les mesures appropriées pour garantir la sécurité des personnes hébergées. Les dispositions prises doivent notamment permettre une autosuffisance des moyens, y compris alimentaires et en énergie.\
+" Art. L. 732-6.-Les établissements de santé et médico-sociaux définis par les autorités compétentes en Nouvelle-Calédonie, pratiquant un hébergement collectif à titre permanent, sont tenus de prendre les mesures appropriées pour garantir la sécurité des personnes hébergées. Les dispositions prises doivent notamment permettre une autosuffisance des moyens, y compris alimentaires et en énergie.\
 " Les modalités et les délais d'application du présent article sont fixés par arrêté du haut-commissaire de la République en Nouvelle-Calédonie pour chaque catégorie d'établissements concernés. " ;\
 16° L'article L. 732-7 est ainsi rédigé :
 
-" Art. L. 732-7. - En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du haut-commissaire de la République en Nouvelle-Calédonie, les messages d'alerte et consignes de sécurité liés à la situation.
+" Art. L. 732-7.-En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du haut-commissaire de la République en Nouvelle-Calédonie, les messages d'alerte et consignes de sécurité liés à la situation.
 
 " Les obligations auxquelles sont assujettis les détenteurs de moyens de publication et de diffusion sont fixées dans un code d'alerte défini par arrêté du haut-commissaire. "
 
@@ -65,9 +65,9 @@ b) Après le mot : “ maire ”, la fin du II est ainsi rédigée : “ après 
 
 19° L'article L. 741-3 est ainsi rédigé :
 
-" Art. L. 741-3. - Le plan Orsec de la zone de défense et de sécurité de la Nouvelle-Calédonie recense l'ensemble des moyens publics et privés susceptibles d'être mis en œuvre en cas de catastrophe affectant la Nouvelle-Calédonie et les îles Wallis et Futuna ou rendant nécessaire la mise en œuvre de moyens dépassant le cadre de l'une ou l'autre de ces collectivités. Il fixe les conditions de la coordination des opérations de secours, de l'attribution des moyens et de leur emploi par l'autorité compétente pour diriger les secours. " ;
+" Art. L. 741-3.-Le plan Orsec de la zone de défense et de sécurité de la Nouvelle-Calédonie recense l'ensemble des moyens publics et privés susceptibles d'être mis en œuvre en cas de catastrophe affectant la Nouvelle-Calédonie et les îles Wallis et Futuna ou rendant nécessaire la mise en œuvre de moyens dépassant le cadre de l'une ou l'autre de ces collectivités. Il fixe les conditions de la coordination des opérations de secours, de l'attribution des moyens et de leur emploi par l'autorité compétente pour diriger les secours. " ;
 
-20° A l'article L. 741-4 , le dernier alinéa est ainsi rédigé :
+20° A l'article L. 741-4, le dernier alinéa est ainsi rédigé :
 
 " Le plan Orsec maritime est arrêté par le haut-commissaire de la République, délégué du Gouvernement pour l'action de l'Etat en mer en Nouvelle-Calédonie. " ;
 
@@ -87,7 +87,7 @@ b) Après le mot : “ maire ”, la fin du II est ainsi rédigée : “ après 
 
 25° L'article L. 742-3 est ainsi rédigé :
 
-" Art. L. 742-3 . - En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les capacités de la Nouvelle-Calédonie, le haut-commissaire, en charge de la zone de défense et de sécurité " Nouvelle-Calédonie ", mobilise les moyens nécessaires aux secours relevant de l'Etat, de la Nouvelle-Calédonie, des collectivités territoriales et des établissements publics.
+" Art. L. 742-3.-En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les capacités de la Nouvelle-Calédonie, le haut-commissaire, en charge de la zone de défense et de sécurité " Nouvelle-Calédonie ", mobilise les moyens nécessaires aux secours relevant de l'Etat, de la Nouvelle-Calédonie, des collectivités territoriales et des établissements publics.
 
 " En tant que de besoin, il mobilise ou réquisitionne les moyens privés nécessaires aux secours. Il assure la direction des opérations de secours. Il déclenche, s'il y a lieu, le plan Orsec de la zone de défense et de sécurité " Nouvelle-Calédonie ".
 
@@ -99,7 +99,7 @@ b) Après le mot : “ maire ”, la fin du II est ainsi rédigée : “ après 
 
 28° L'article L. 742-11 est ainsi rédigé :
 
-" Art. L. 742-11. - Les dépenses directement imputables aux opérations de secours au sens des dispositions de l'article 26 de l'ordonnance n° 2006-172 du 15 février 2006 sont prises en charge par l'établissement public d'incendie et de secours de la Nouvelle-Calédonie.
+" Art. L. 742-11.-Les dépenses directement imputables aux opérations de secours au sens des dispositions de l'article 26 de l'ordonnance n° 2006-172 du 15 février 2006 sont prises en charge par l'établissement public d'incendie et de secours de la Nouvelle-Calédonie.
 
 " Dans le cadre de ses compétences, la commune pourvoit aux dépenses relatives aux besoins immédiats des populations.
 

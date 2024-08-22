@@ -1,6 +1,6 @@
 # Article L721-1
 
-I.- Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions nécessaires.
+I.-Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions nécessaires.
 
 II.-Quiconque porte assistance de manière bénévole à une personne en situation apparente de péril grave et imminent est un citoyen sauveteur et bénéficie de la qualité de collaborateur occasionnel du service public.
 

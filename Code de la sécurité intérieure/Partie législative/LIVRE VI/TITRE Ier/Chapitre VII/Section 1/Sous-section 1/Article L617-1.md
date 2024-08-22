@@ -12,7 +12,7 @@ Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende :
 
 3° bis Le fait d'exercer l'activité mentionnée au 4° du même article L. 611-1 et d'avoir, en outre, une activité autre que le conseil et la formation en matière de sûreté maritime ;
 
-4° Le fait de commettre l'un des agissements mentionnés à l'article L. 612-4;
+4° Le fait de commettre l'un des agissements mentionnés à l'article L. 612-4 ;
 
 5° Le fait d'utiliser un chien mentionné à l'article L. 613-7-1 A à une autre fin que la mise en évidence de l'existence d'un risque lié à la présence de matières explosives en violation du même article L. 613-7-1 A ;
 

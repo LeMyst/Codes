@@ -1,6 +1,6 @@
 # Article R114-6-1
 
-L'organisme paritaire mentionné au IV de l'article L. 114-1 et ci-après appelé "commission" est consulté :
+L'organisme paritaire mentionné au IV de l'article L. 114-1 et ci-après appelé " commission " est consulté :
 
 1° Pour les fonctionnaires de l'Etat occupant des emplois ou des fonctions mentionnés à l'article R. 114-2, par l'administration qui emploie le fonctionnaire à l'égard duquel elle envisage de prendre une décision de mutation dans l'intérêt du service ou de radiation des cadres en application de ces mêmes articles ;
 

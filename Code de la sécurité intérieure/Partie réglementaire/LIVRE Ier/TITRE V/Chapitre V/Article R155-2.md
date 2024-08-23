@@ -9,7 +9,7 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 112-1  | Résultant du décret n° 2022-901 du 17 juin 2022  |
 | R. 113-1 et R. 113-2  | Résultant du décret n° 2013-1113 du 4 décembre 2013  |
 | R. 114-1  | Résultant du décret n° 2018-141 du 27 février 2018  |
-| R. 114-2, sauf le k du 1° et le o du 4°  | Résultant du décret n° 2023-1171 du 13 décembre 2023 |
+| R. 114-2, sauf le k du 1° et le o du 4°  | Résultant du décret n° 2023-1171 du 13 décembre 2023  |
 | R. 114-3  | Résultant du décret n° 2020-1773 du 21 décembre 2020  |
 | R. 114-4  | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)  |
 | R. 114-5  | Résultant du décret n° 2023-557 du 3 juillet 2023  |
@@ -29,7 +29,7 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 132-4-1 à R. 132-4-5  | Résultant du décret n° 2019-1259 du 28 novembre 2019  |
 | R. 132-10-1 et R. 132-12-1  | Résultant du décret n° 2019-1259 du 28 novembre 2019  |
 | Au titre IV  |  |
-| R. 141-1  | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
+| R. 141-1 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 
 NOTA:
 Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.

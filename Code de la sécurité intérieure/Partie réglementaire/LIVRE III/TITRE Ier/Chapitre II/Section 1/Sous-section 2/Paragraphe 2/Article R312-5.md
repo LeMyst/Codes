@@ -4,9 +4,9 @@ Les demandes d'autorisation sont accompagnées des pièces complémentaires suiv
 
 1° Pour les autorisations demandées dans le cadre de la procédure prévue à l'article R. 312-51, le récépissé délivré par le commissaire de police ou par le commandant de brigade de gendarmerie du lieu de domicile du demandeur ;
 
-2° Pour les autorisations mentionnées à l'articleR. 312-26, déclaration écrite et signée attestant que les armes détenues, désignées par leurs marques, modèles, numéros de série et calibres, ont été rendues inaptes au tir des munitions à balle ou à grenaille ;
+2° Pour les autorisations mentionnées à l'article R. 312-26, déclaration écrite et signée attestant que les armes détenues, désignées par leurs marques, modèles, numéros de série et calibres, ont été rendues inaptes au tir des munitions à balle ou à grenaille ;
 
-3° Pour les autorisations mentionnées au 1° de l'articleR. 312-40, déclaration précisant :
+3° Pour les autorisations mentionnées au 1° de l'article R. 312-40, déclaration précisant :
 
 a) La date de la décision portant agrément ou autorisation de l'autorité de tutelle ;
 
@@ -28,17 +28,17 @@ c) Avis favorable concernant l'acquisition et la détention d'armes à l'exclusi
 
 d) Pour les mineurs, selon le cas :
 
-- preuve de la sélection en vue de concours internationaux ;
+-preuve de la sélection en vue de concours internationaux ;
 
-- attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la pratique du tir sportif pour les mineurs âgés de douze ans au moins ne participant pas à des compétitions internationales ;
+-attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la pratique du tir sportif pour les mineurs âgés de douze ans au moins ne participant pas à des compétitions internationales ;
 
 e) (Abrogé)
 
 f) (Abrogé)
 
-5° Pour les autorisations mentionnées à l'articleR. 312-44, déclaration précisant le nombre et la nature des armes mises en service au moyen de leurs marques, modèles, numéros et calibres ;
+5° Pour les autorisations mentionnées à l'article R. 312-44, déclaration précisant le nombre et la nature des armes mises en service au moyen de leurs marques, modèles, numéros et calibres ;
 
-6° Pour les autorisations mentionnées aux articlesR. 312-39etR. 312-65, fiche donnant les caractéristiques des armes conforme au modèle fixé par l'arrêté prévu à l'article R. 311-6 et mentionnant les dates d'acquisition des armes ;
+6° Pour les autorisations mentionnées aux articles R. 312-39 et R. 312-65, fiche donnant les caractéristiques des armes conforme au modèle fixé par l'arrêté prévu à l'article R. 311-6 et mentionnant les dates d'acquisition des armes ;
 
 7° Pour les autorisations mentionnées à l'article R. 312-39 :
 
@@ -48,7 +48,7 @@ b) Indication de l'adresse du local professionnel ou de la résidence secondaire
 
 c) Attestation du suivi de la formation initiale aux règles de sécurité, de stockage et de manipulation de ces armes. Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'outre-mer et du ministre chargé des sports précise les modalités de délivrance de cette attestation ;
 
-8° Pour les autorisations mentionnées à l'articleR. 312-27:
+8° Pour les autorisations mentionnées à l'article R. 312-27 :
 
 a) Un rapport sur les moyens de protection contre le vol ou les intrusions et sur les modalités de conservation du matériel, avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant l'autorisation ;
 
@@ -56,6 +56,6 @@ b) Pour les demandeurs autres que les musées, tout document décrivant le maté
 
 c) Pour les personnes morales, les pièces justificatives de l'identité et de la qualité de leurs représentants, de leur siège et de leur activité ;
 
-9° Pour les autorisations mentionnées à l'articleR. 312-31, preuve de l'inscription sur la liste des experts agréés en armes et munitions près la Cour de cassation ou près d'une cour d'appel et pièces justificatives du domicile et du lieu d'exercice de l'activité ;
+9° Pour les autorisations mentionnées à l'article R. 312-31, preuve de l'inscription sur la liste des experts agréés en armes et munitions près la Cour de cassation ou près d'une cour d'appel et pièces justificatives du domicile et du lieu d'exercice de l'activité ;
 
-10° Pour la demande d'exemption prévue à l'articleR. 312-45-1, justification de la pratique du tir sportif de vitesse apportée par la fourniture d'un certificat de la Fédération française de tir.
+10° Pour la demande d'exemption prévue à l'article R. 312-45-1, justification de la pratique du tir sportif de vitesse apportée par la fourniture d'un certificat de la Fédération française de tir.

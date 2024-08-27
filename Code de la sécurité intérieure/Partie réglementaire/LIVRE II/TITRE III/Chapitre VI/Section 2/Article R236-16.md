@@ -16,7 +16,7 @@ II.-Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquê
 
 2° Les agents du service à compétence nationale dénommé “ Commandement spécialisé pour la sécurité nucléaire ”, individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale.
 
-III. - Dans la limite du besoin d'en connaître, peuvent être destinataires des données mentionnées aux articles R. 236-12 et R. 236-13 :
+III.-Dans la limite du besoin d'en connaître, peuvent être destinataires des données mentionnées aux articles R. 236-12 et R. 236-13 :
 
 1° Les personnes ayant autorité sur les services ou unités mentionnées aux I et II ;
 

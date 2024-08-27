@@ -1,6 +1,6 @@
 # Article R242-8
 
-I. - Dans le cadre de l'autorisation prévue à l'article L. 242-5 et dans les conditions prévues par les articles L. 242-2 à L. 242-4, les services de la police nationale, de la gendarmerie nationale et dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, les militaires des armées déployés sur le territoire national, sont autorisés à mettre en œuvre des traitements de données à caractère personnel provenant de caméras installées sur des aéronefs.
+I.-Dans le cadre de l'autorisation prévue à l'article L. 242-5 et dans les conditions prévues par les articles L. 242-2 à L. 242-4, les services de la police nationale, de la gendarmerie nationale et dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, les militaires des armées déployés sur le territoire national, sont autorisés à mettre en œuvre des traitements de données à caractère personnel provenant de caméras installées sur des aéronefs.
 
 Ces traitements ont pour finalités :
 
@@ -16,6 +16,6 @@ Ces traitements ont pour finalités :
 
 6° Le secours aux personnes.
 
-II. - Dans le cadre de l'autorisation prévue à ce même article et dans les mêmes conditions que celles mentionnées au I, les agents des douanes sont autorisés à mettre en œuvre des traitements de données à caractère personnel provenant de caméras installées sur des aéronefs.
+II.-Dans le cadre de l'autorisation prévue à ce même article et dans les mêmes conditions que celles mentionnées au I, les agents des douanes sont autorisés à mettre en œuvre des traitements de données à caractère personnel provenant de caméras installées sur des aéronefs.
 
 Ces traitements ont pour finalité la prévention des mouvements transfrontaliers de marchandises prohibées.

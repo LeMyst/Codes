@@ -2,7 +2,7 @@
 
 Pour l'application de l'article L. 312-11, le détenteur se dessaisit de l'arme, des munitions ou de leurs éléments dans le délai de trois mois qui suit la notification de la décision lui ordonnant de s'en dessaisir, selon l'une des modalités suivantes :
 
-1° Vente à un armurier ou à un particulier dans les conditions fixées aux articlesR. 314-16, R. 314-17, R. 314-19 ou R. 314-20 ;
+1° Vente à un armurier ou à un particulier dans les conditions fixées aux articles R. 314-16, R. 314-17, R. 314-19 ou R. 314-20 ;
 
 2° (Abrogé)
 

@@ -1,6 +1,6 @@
 # Article R313-54
 
-I. − Toute personne physique ou morale se livrant à la fabrication, au commerce ou à l'intermédiation des armes, munitions et leurs éléments relevant du 1° de la catégorie A2 et des catégories A1, B, C et D dispose d'un compte professionnel individualisé dans le traitement automatisé de données à caractère personnel dénommé "système d'information sur les armes" mentionné à l'article R. 312-84.
+I. − Toute personne physique ou morale se livrant à la fabrication, au commerce ou à l'intermédiation des armes, munitions et leurs éléments relevant du 1° de la catégorie A2 et des catégories A1, B, C et D dispose d'un compte professionnel individualisé dans le traitement automatisé de données à caractère personnel dénommé " système d'information sur les armes " mentionné à l'article R. 312-84.
 
 Ce compte a pour objet :
 

@@ -1,0 +1,6 @@
+# Article R422-45
+
+Les documents mentionnés à l'article 44 de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées sont adressés, avant le 1er mars de chaque année, au directeur général de l'Institut national de la propriété industrielle.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2024-858 du 1er août 2024, ces dispositions entrent en vigueur le 1er septembre 2024.

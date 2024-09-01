@@ -71,7 +71,9 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 |  D. 613-25-4 |  Décret n° 2022-426 du 25 mars 2022 |
 |  D. 613-25-5 |  Décret n° 2020-1273 du 20 octobre 2020 |
 |  D. 613-26 à D. 613-27-2 |  Résultant du décret n° 2021-1480 du 12 novembre 2021  |
-|  D. 613-28 à D. 613-30 D. 613-38 à D. 613-44 |  Résultant du décret n° 2013-756 du 19 août 2013  |
+|  D. 613-28 à D. 613-30 |  Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 613-30-1 et D. 613-30-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 613-38 à D. 613-44 | Résultant du décret n° 2013-756 du 19 août 2013 |
 |  D. 613-45 |  Résultant du décret n° 2015-652 du 10 juin 2015  |
 |  D. 613-46 à D. 613-50 D. 614-1 |  Résultant du décret n° 2013-756 du 19 août 2013  |
 |  D. 631-2 |  Résultant du décret n° 2019-1126 du 4 novembre 2019  |
@@ -289,4 +291,4 @@ b) Au 5°, la phrase : " Celui-ci est désigné sur proposition du conseil acad�
 28° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
 
 NOTA:
-Conformément à l'article 11 du décret n° 2023-1321 du 27 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au premier alinéa de l'article 4 du décret n° 2024-788 du 8 juillet 2024, ces dispositions entrent en vigueur le 1er septembre 2024.

@@ -24,3 +24,5 @@ Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives so
 Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, la Commission nationale de l'expérimentation animale est renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 Devenue "Commission nationale pour la protection des animaux utilisés à des fins scientifiques" conformément aux dispositions de l'article 1er du décret n° 2020-274 du 17 mars 2020.
+
+Conformément à l'article 1 et à l'annexe du décret n° 2020-631 du 25 mai 2020, la commission nationale pour la protection des animaux utilisés à des fins scientifiques est renouvelée pour une durée de cinq ans à compter du 8 juin 2020.

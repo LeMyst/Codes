@@ -28,9 +28,6 @@ II.-Les organismes d'habitations à loyer modéré mentionnés à l'article L. 4
 
 Le bénéfice de l'exonération prévue au 2° du I du présent article, pour les constructions ou les aménagements qui ne sont pas réalisés au titre de ce service d'intérêt général, est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-Le bénéfice des exonérations prévues au 3° et 4° du I du présent article est subordonné respectivement au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture et du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Le bénéfice des exonérations prévues aux 3° et 4° du I du présent article est subordonné respectivement au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture et du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 III.-Les exonérations prévues aux 5° à 7° du I du présent article ne s'appliquent pas à la part de la taxe d'aménagement instituée, le cas échéant, par les départements ou par la région d'Ile-de-France.
-
-NOTA:
-Conformément au B du IV de l’article 105 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe d'aménagement intervient à compter du 1er janvier 2024.

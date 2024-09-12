@@ -1,8 +1,8 @@
 # Article L6122-1
 
-I. - Après concertation avec les régions et en tenant compte des besoins recensés par les comités mentionnés à l'article L. 6123-3, l'Etat, le cas échéant avec l'opérateur France Travail, peut organiser et financer, au profit des personnes à la recherche d'un emploi, des formations dont le faible développement ou le caractère émergent justifient, temporairement ou durablement, des actions définies au niveau national pour répondre aux besoins de compétences.
+I.-Après concertation avec les régions et en tenant compte des besoins recensés par les comités mentionnés à l'article L. 6123-3, l'Etat, le cas échéant avec l'opérateur France Travail, peut organiser et financer, au profit des personnes à la recherche d'un emploi, des formations dont le faible développement ou le caractère émergent justifient, temporairement ou durablement, des actions définies au niveau national pour répondre aux besoins de compétences.
 
-II. - Pour la mise en œuvre d'un programme national défini par l'Etat et destiné à répondre à des besoins additionnels recensés de qualification des personnes à la recherche d'un emploi en tenant compte des besoins des entreprises, notamment de celles qui rencontrent des difficultés particulières de recrutement, l'Etat conclut une convention avec la région.
+II.-Pour la mise en œuvre d'un programme national défini par l'Etat et destiné à répondre à des besoins additionnels recensés de qualification des personnes à la recherche d'un emploi en tenant compte des besoins des entreprises, notamment de celles qui rencontrent des difficultés particulières de recrutement, l'Etat conclut une convention avec la région.
 
 Ce conventionnement peut être prévu dans le contrat de plan régional de développement des formations et de l'orientation professionnelles mentionné à l'article L. 214-13 du code de l'éducation.
 

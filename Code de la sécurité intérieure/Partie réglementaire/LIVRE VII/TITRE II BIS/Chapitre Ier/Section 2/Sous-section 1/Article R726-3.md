@@ -2,7 +2,7 @@
 
 L'habilitation mentionnée à l'article L. 726-1 est délivrée :
 
-1° Pour les services publics gérés par des personnes morales dont la compétence s'étend à plusieurs départements où s'exerce à l'étranger, par le ministre chargé de la sécurité civile ;
+1° Pour les services publics gérés par des personnes morales dont la compétence s'étend à plusieurs départements ou s'exerce à l'étranger, par le ministre chargé de la sécurité civile ;
 
 2° Pour les services publics gérés par des personnes morales dont la compétence s'exerce dans un seul département, par le préfet de ce département ;
 

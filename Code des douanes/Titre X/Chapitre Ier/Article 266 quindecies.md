@@ -111,11 +111,11 @@ D.-Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les
 
 E.-Pour l'application des 1° à 3° du 1 du B, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
-|  Énergie |  Coefficient multiplicatif |  Seuil pour les essences |  Seuil pour les gazoles |  Seuil pour les carburéacteurs |
+|  Énergie |  Coefficient multiplicatif |  Seuil pour les essences |  Seuil pour les gazoles | Seuil pour les carburéacteurs |
 | --- | --- | --- | --- | --- |
-|  Énergie issue des matières premières avancées, autres que le tallol, contenues dans les produits inclus dans l'assiette |  2 |  différence entre le pourcentage cible fixé au IV et 7 % |  différence entre le pourcentage cible fixé au IV et 7 % |  aucun |
-|  Énergie issue des graisses et huiles usagées contenues dans les produits inclus dans l'assiette |  2 |  0,4 % |  seuil prévu au C du présent V pour les mêmes matières |  aucun |
-|  Électricité |  4 |  aucun |  aucun |  sans objet |
+|  Énergie issue des matières premières avancées, autres que le tallol, contenues dans les produits inclus dans l'assiette |  2 |  différence entre le pourcentage cible fixé au IV et 7 % |  différence entre le pourcentage cible fixé au IV et 7 % | aucun |
+|  Énergie issue des graisses et huiles usagées contenues dans les produits inclus dans l'assiette |  2 |  0,4 % |  seuil prévu au C du présent V pour les mêmes matières | aucun |
+|  Électricité |  4 |  aucun |  aucun | sans objet |
 | Hydrogène renouvelable | 2 | aucun | aucun | sans objet |
 | Energie des huiles végétales hydrotraitées issues des matières de catégorie 3 mentionnées à l'article 10 du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux) | 2 | 0 % | 20 % des quantités d'énergie contenues dans les produits suivants mis à la consommation en France ou déplacés à des fins commerciales vers la France : gazoles et essences utilisés pour les besoins de la pêche | 0 % |
 

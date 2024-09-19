@@ -22,7 +22,7 @@ Les données issues de cette déclaration sont conservées pendant la durée né
 
 Les employeurs qui versent des sommes ou prestations mentionnées au premier alinéa du présent II bis uniquement à leurs salariés ou assimilés ou à leurs anciens salariés ou assimilés déclarent ces versements au moyen de la déclaration mentionnée au I.
 
-II ter.-Les organismes et administrations auxquels sont destinées les données déclarées mettent à disposition des personnes tenues aux obligations mentionnées aux I et II bis en vue d'en faciliter les démarches, les informations dont les catégories sont définies par arrêté des ministres chargés de la sécurité sociale et du budget , leur permettant de renseigner leurs déclarations sociales et de s'assurer de la conformité de leur situation à la législation sociale au moyen d'un dispositif unifié.
+II ter.-Les organismes et administrations auxquels sont destinées les données déclarées mettent à disposition des personnes tenues aux obligations mentionnées aux I et II bis en vue d'en faciliter les démarches, les informations dont les catégories sont définies par arrêté des ministres chargés de la sécurité sociale et du budget, leur permettant de renseigner leurs déclarations sociales et de s'assurer de la conformité de leur situation à la législation sociale au moyen d'un dispositif unifié.
 
 III.-Les modalités d'application du présent article, la liste des déclarations et formalités auxquelles elle se substitue ainsi que le délai à l'issue duquel l'employeur ayant rempli la déclaration sociale nominative est réputé avoir accompli ces déclarations ou ces formalités sont précisés par décret en Conseil d'Etat.
 

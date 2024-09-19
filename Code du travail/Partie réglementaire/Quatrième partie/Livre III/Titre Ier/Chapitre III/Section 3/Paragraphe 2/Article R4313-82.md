@@ -10,7 +10,7 @@ Outre la procédure d'examen CE de type, les équipements de protection individu
 
 4° Equipements d'intervention dans les ambiances chaudes dont les effets sont comparables à ceux d'une température d'air égale ou supérieure à 100° C, avec ou sans rayonnement infrarouge, flammes ou grosses projections de matières en fusion ;
 
-5° Equipements d'intervention dans des ambiances froides dont les effets sont comparables à ceux d'une température d'air inférieure ou égale à-50° C ;
+5° Equipements d'intervention dans des ambiances froides dont les effets sont comparables à ceux d'une température d'air inférieure ou égale à -50° C ;
 
 6° Equipements de protection individuelle destinés à protéger contre les chutes de hauteur ;
 

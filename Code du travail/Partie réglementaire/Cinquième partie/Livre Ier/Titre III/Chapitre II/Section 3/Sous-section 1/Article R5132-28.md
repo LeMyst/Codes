@@ -31,4 +31,4 @@ g) Lorsque l'activité est réalisée dans un établissement pénitentiaire, le 
 7° Les modalités de suivi, de contrôle et d'évaluation de la convention.
 
 NOTA:
-Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021
+Se reporter aux conditions d'application prévues aux V et VI de l'article 2 du décret n° 2021-1128 du 30 août 2021.

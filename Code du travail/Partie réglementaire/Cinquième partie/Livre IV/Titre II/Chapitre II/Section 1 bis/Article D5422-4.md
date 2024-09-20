@@ -1,6 +1,6 @@
 # Article D5422-4
 
-I. - Les organismes de recouvrement des contributions d'assurance chômage mentionnés à l'article L. 5427-1 sont, chacun pour ce qui les concerne, responsables du traitement de données à caractère personnel ayant pour finalités :
+I.-Les organismes de recouvrement des contributions d'assurance chômage mentionnés à l'article L. 5427-1 sont, chacun pour ce qui les concerne, responsables du traitement de données à caractère personnel ayant pour finalités :
 
 1° De permettre la communication, notamment par l'intermédiaire du téléservice mentionné à l'article D. 5422-3, à l'employeur ou à son tiers déclarant au sens de l'article L. 133-11 du code de la sécurité sociale, à sa demande, des données nécessaires à la détermination du nombre mentionné au 1° de l'article L. 5422-12 du présent code afin que ce dernier en contrôle l'exactitude ;
 
@@ -10,7 +10,7 @@ Ce traitement de données à caractère personnel est mis en œuvre pour l'exéc
 
 L'organisme mentionné au dernier membre de la phrase du premier alinéa de l'article L. 133-5 du code de la sécurité sociale peut assurer, pour le compte des organismes précités, la gestion, en qualité de sous-traitant, du traitement dans les conditions prévues à l'article 28 du règlement précité.
 
-II. - Les données et informations à caractère personnel susceptibles d'être enregistrées dans le traitement sont :
+II.-Les données et informations à caractère personnel susceptibles d'être enregistrées dans le traitement sont :
 
 1° Le nom de famille du salarié ;
 

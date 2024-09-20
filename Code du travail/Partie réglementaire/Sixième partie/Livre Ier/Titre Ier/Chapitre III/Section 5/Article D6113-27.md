@@ -6,7 +6,7 @@ Les projets de création, de révision ou de suppression des diplômes de l'ense
 
 2° Les titres d'ingénieurs diplômés relevant des articles L. 641-4 et L. 641-5 du code de l'éducation sont examinés par la commission mentionnée à l'article L. 642-3 du même code ;
 
-3° La licence professionnelle “bachelor universitaire de technologie” régie par les articles L. 613-1 et D. 642-66 du code de l'éducation est examinée par la commission consultative nationale chargée des instituts universitaires de technologie et par les instances chargées de formuler des propositions sur les programmes de ce diplôme ;
+3° La licence professionnelle “ bachelor universitaire de technologie ” régie par les articles L. 613-1 et D. 642-66 du code de l'éducation est examinée par la commission consultative nationale chargée des instituts universitaires de technologie et par les instances chargées de formuler des propositions sur les programmes de ce diplôme ;
 
 4° Les diplômes de gestion relevant des articles L. 641-4 et L. 641-5 et revêtus d'un visa de l'Etat sont examinés par la commission instituée par le décret n° 2001-295 du 4 avril 2001 portant création de la commission d'évaluation des formations et diplômes de gestion.
 

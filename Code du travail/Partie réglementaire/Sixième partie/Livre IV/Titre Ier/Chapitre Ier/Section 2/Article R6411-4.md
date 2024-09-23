@@ -1,6 +1,6 @@
 # Article R6411-4
 
-I. - Peuvent faire l'objet des traitements mentionnés à l'article R. 6411-3, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à cet article, les catégories d'informations ou de données suivantes :
+I.-Peuvent faire l'objet des traitements mentionnés à l'article R. 6411-3, dans la stricte mesure où elles sont nécessaires à la poursuite des finalités mentionnées à cet article, les catégories d'informations ou de données suivantes :
 
 1° Données d'identification, données de contact et numéro d'inscription au répertoire national d'identification des candidats à un parcours de validation des acquis d'exploitation ;
 
@@ -20,4 +20,4 @@ I. - Peuvent faire l'objet des traitements mentionnés à l'article R. 6411-3, d
 
 9° Données relatives à la traçabilité des accès et des actions des personnes mentionnées au I de l'article R. 6411-5 et des échanges intervenus avec les destinataires mentionnés au II du même article.
 
-II. - Les éléments relatifs aux parcours professionnel et personnel des candidats, lorsqu'ils sont en lien avec la certification visée, pouvant révéler indirectement l'état de santé, les opinions politiques, l'appartenance syndicale, les convictions philosophiques et religieuses ou des condamnations pénales, des infractions ou des mesures de sûreté connexes peuvent être enregistrés et faire l'objet d'échanges limités, dans la stricte mesure où ils sont nécessaires à la poursuite des finalités mentionnées à l'article R. 6411-3, après qu'ils ont été identifiés comme pouvant révéler de telles informations par les personnes désignées et habilitées à cette fin par le groupement d'intérêt public mentionné à l'article L. 6411-2.
+II.-Les éléments relatifs aux parcours professionnel et personnel des candidats, lorsqu'ils sont en lien avec la certification visée, pouvant révéler indirectement l'état de santé, les opinions politiques, l'appartenance syndicale, les convictions philosophiques et religieuses ou des condamnations pénales, des infractions ou des mesures de sûreté connexes peuvent être enregistrés et faire l'objet d'échanges limités, dans la stricte mesure où ils sont nécessaires à la poursuite des finalités mentionnées à l'article R. 6411-3, après qu'ils ont été identifiés comme pouvant révéler de telles informations par les personnes désignées et habilitées à cette fin par le groupement d'intérêt public mentionné à l'article L. 6411-2.

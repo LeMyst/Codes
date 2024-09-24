@@ -16,7 +16,7 @@ Dans les cas mentionnés aux a à d, l'agrément de transfert d'armes à feu, mu
 
 2° En ce qui concerne les armes à feu, munitions et leurs éléments de la catégorie C :
 
-a) Aux fabricants ou commerçants ayant satisfait, selon les cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8, R. 313-12 , R. 313-27 et R. 313-47 ;
+a) Aux fabricants ou commerçants ayant satisfait, selon les cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8, R. 313-12, R. 313-27 et R. 313-47 ;
 
 b) Aux particuliers, soit pour les transférer vers un autre Etat membre, soit pour les acquérir ou les détenir ;
 

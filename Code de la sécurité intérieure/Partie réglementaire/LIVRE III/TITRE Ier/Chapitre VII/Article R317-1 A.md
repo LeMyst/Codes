@@ -2,7 +2,7 @@
 
 Sans préjudice des dispositions de l'article L. 317-1, peuvent effectuer les constatations mentionnées au deuxième alinéa dudit article les personnes suivantes :
 
-1° Les agents du service à compétence nationale dénommé “service central des armes et explosifsˮ individuellement désignés et habilités par le chef de service ;
+1° Les agents du service à compétence nationale dénommé “ service central des armes et explosifs ˮ individuellement désignés et habilités par le chef de service ;
 
 2° Les agents mentionnés à l'article R. 2335-38 du code de la défense ;
 

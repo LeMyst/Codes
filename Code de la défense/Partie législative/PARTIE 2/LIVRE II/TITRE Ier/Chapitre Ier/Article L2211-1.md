@@ -7,4 +7,4 @@ Ces essais et ces exercices sont organisés en tenant compte des nécessités de
 La programmation des essais et des exercices est portée à la connaissance des personnes concernées et, le cas échéant, de leur employeur au plus tard quinze jours avant leur exécution.
 
 NOTA:
-Conformément au XI de l'article 47 de la loi n° 2023-703 du 1er août 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard un an après la promulgation de ladite loi, à savoir le 1er août 2024.
+Conformément à l'article 6 du décret n° 2024-895 du 1er octobre 2024 (NOR : ARMD2415893D), ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

@@ -9,3 +9,6 @@ En cas de réquisition sur le fondement du présent titre, sont intégralement r
 3° Sauf en cas de faute intentionnelle, des dommages de toute nature ayant résulté, pour les tiers, de cette exécution.
 
 Lorsqu'à la suite du transfert temporaire de la maîtrise d'un objet spatial, l'opération spatiale conduite par l'Etat est de même nature que celle conduite par l'opérateur soumis à réquisition, le montant de l'indemnisation prévue au premier alinéa est calculé d'après les conditions commerciales normales et licites de réalisation de la prestation. A défaut, il est déterminé au moyen de tous éléments probants.
+
+NOTA:
+Conformément à l'article 6 du décret n° 2024-895 du 1er octobre 2024 (NOR : ARMD2415893D), ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

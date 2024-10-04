@@ -19,4 +19,4 @@ Tous ces personnels, quelle que soit la catégorie à laquelle ils appartiennent
 En ce qui concerne les personnels mentionnés aux 1°, 2° et 3° du présent article, l'organisation de la défense civile comporte une hiérarchie basée sur la nécessité du service, l'obéissance étant obligatoire à tous les échelons. En cas d'infraction, le personnel désigné au 1° est passible des sanctions prévues dans son statut administratif pour fautes dans le service.
 
 NOTA:
-Conformément au XI de l'article 47 de la loi n° 2023-703 du 1er août 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard un an après la promulgation de ladite loi, à savoir le 1er août 2024.
+Conformément à l'article 6 du décret n° 2024-895 du 1er octobre 2024 (NOR : ARMD2415893D), ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

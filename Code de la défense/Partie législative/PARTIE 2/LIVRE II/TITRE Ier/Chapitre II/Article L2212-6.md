@@ -11,4 +11,4 @@ Dans le respect du présent titre, peut être soumis à une mesure de réquisiti
 4° Tout navire battant pavillon français, que l'armateur soit de nationalité française ou étrangère, y compris en haute mer ou dans des eaux étrangères.
 
 NOTA:
-Conformément au XI de l'article 47 de la loi n° 2023-703 du 1er août 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard un an après la promulgation de ladite loi, à savoir le 1er août 2024.
+Conformément à l'article 6 du décret n° 2024-895 du 1er octobre 2024 (NOR : ARMD2415893D), ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

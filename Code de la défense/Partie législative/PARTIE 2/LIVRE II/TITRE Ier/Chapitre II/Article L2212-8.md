@@ -11,4 +11,4 @@ II.-Pour l'application du I, la personne requise fournit à l'autorité administ
 Nonobstant toutes dispositions relatives au secret professionnel, les administrations publiques et leurs agents sont tenus, pour l'application du présent article, de communiquer aux autorités chargées du règlement des réquisitions tous renseignements utiles à la détermination des indemnités de réquisition. Ces autorités et leurs agents sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code pénal.
 
 NOTA:
-Conformément au XI de l'article 47 de la loi n° 2023-703 du 1er août 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard un an après la promulgation de ladite loi, à savoir le 1er août 2024.
+Conformément à l'article 6 du décret n° 2024-895 du 1er octobre 2024 (NOR : ARMD2415893D), ces dispositions entrent en vigueur le lendemain de la publication dudit décret.

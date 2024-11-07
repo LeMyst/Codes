@@ -12,4 +12,4 @@ Il comprend en outre, à titre consultatif, lors des séances plénières, un re
 
 La répartition des membres militaires du Conseil supérieur de la fonction militaire par force armée ou formation rattachée et par groupes de grades, en tenant compte de leurs effectifs, est fixée par l'arrêté prévu à l'article R. 4124-27.
 
-La répartition des sièges des membres représentant les associations professionnelles nationales de militaires, leurs unions ou leurs fédérations, s'effectue en fonction de leur représentativité, appréciée au 1er janvier de l'année de renouvellement.
+La répartition des sièges des membres représentant les associations professionnelles nationales de militaires, leurs unions ou leurs fédérations, s'effectue en fonction de leur représentativité, telle que constatée tous les quatre ans.

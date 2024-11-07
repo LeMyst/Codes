@@ -1,3 +1,3 @@
 # Article R6313-7
 
-Pour l'application de l'article R. 2234-21, la valeur de l'ensemble des éléments de l'actif requis est fournie sur demande aux autorités chargées du règlement des réquisitions et à la commission d'évaluation par le directeur chargé de la direction locale des finances publiques, en liaison, en tant que de besoin, avec les services d'Etat ou territoriaux compétents.
+Dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, le représentant de l'Etat peut préciser les conditions d'application de la présente section.

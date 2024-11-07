@@ -8,4 +8,5 @@ Lorsqu'un membre du Conseil supérieur de la fonction militaire représentant un
 
 Lorsqu'un membre titulaire du Conseil supérieur de la fonction militaire représentant les associations de retraités militaires est empêché, un suppléant est appelé à siéger. A défaut de suppléant en fonction, le membre titulaire est remplacé selon les modalités fixées au 3° de l'article R. 4124-3.
 
-Le mandat des membres nommés en cours de mandat s'achève au terme du mandat de quatre ans des membres qu'ils remplacent.
+NOTA:
+Conformément aux dispositions de l'article 7 du décret n° 2024-930 du 10 octobre 2024, les dispositions du présent article dans leur rédaction issue du décret précité s'appliquent aux membres du Conseil supérieur de la fonction militaire ayant pris leurs fonctions à compter du 2 août 2021.

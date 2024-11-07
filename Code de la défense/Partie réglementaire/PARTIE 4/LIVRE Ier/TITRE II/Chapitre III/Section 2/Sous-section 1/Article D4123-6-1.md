@@ -1,21 +1,9 @@
 # Article D4123-6-1
 
-Après consolidation définitive médicalement attestée, la blessure reçue en opération extérieure, y compris le trouble psychique post-traumatique imputable à cette opération, fait l'objet, si l'affilié n'a pas été mis à la retraite ou réformé définitivement, d'une allocation versée dans les conditions suivantes :
+Après consolidation définitive médicalement constatée, le militaire ayant reçu une blessure imputable à une opération extérieure, y compris un trouble psychique post-traumatique, a droit à une allocation.
 
-1° En cas d'invalidité égale ou supérieure à 40 % :
+Le militaire radié des cadres ou rayé des contrôles ayant reçu une blessure imputable à une opération extérieure, y compris un trouble psychique post-traumatique, a droit à une allocation dans les mêmes conditions que celles prévues par le premier alinéa et sous réserve que cette blessure ait entrainé un taux d'invalidité égal ou supérieur à 50 %.
 
-a) Si l'affilié est marié ou partenaire lié par un pacte civil de solidarité ou a des enfants à charge, le montant de ce complément d'allocation est égal à la moitié de la solde budgétaire annuelle correspondant :
+Cette allocation n'est pas cumulable avec l'allocation prévue à l'article D. 4123-7. En cas d'attribution à l'intéressé de l'allocation prévue à l'article D. 4123-7, l'allocation prévue au présent article est déduite du montant à verser.
 
--à l'indice brut 762 lorsque le blessé est officier ;
-
--à l'indice brut 560 lorsqu'il est non-officier ;
-
-b) Dans les autres cas, le montant de ce complément d'allocation est égal à la moitié de la solde budgétaire annuelle correspondant :
-
--à l'indice brut 546 lorsque le blessé est officier ;
-
--à l'indice brut 398 lorsqu'il est non-officier.
-
-2° En cas d'invalidité inférieure à 40 %, le montant de cette allocation est calculé proportionnellement au taux d'invalidité de l'affilié, rapporté au taux de 40 %, sur la base du montant déterminé au 1°.
-
-Dans tous les cas, les allocations servies au titre du présent article sont déduites en cas de versement à l'intéressé des allocations prévues à l'article D. 4123-6.
+Le montant de l'allocation est égal à la moitié de l'allocation principale versée au titre du 1° de l'article D. 4123-6.

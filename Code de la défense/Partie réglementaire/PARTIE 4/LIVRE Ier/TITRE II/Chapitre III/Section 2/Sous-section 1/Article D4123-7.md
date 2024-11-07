@@ -1,7 +1,3 @@
 # Article D4123-7
 
-Les allocations mentionnées aux articles D. 4123-4 et D. 4123-5 sont calculées :
-
-― pour le conjoint ou le partenaire lié par un pacte civil de solidarité survivant et pour les orphelins : au taux en vigueur à la date du décès de l'affilié ;
-
-― pour les ascendants : au taux en vigueur à la date où ils remplissent les conditions nécessaires ou, s'ils sont titulaires d'une pension d'ascendants concédée au titre du code des pensions militaires d'invalidité et des victimes de la guerre, à la date d'entrée en jouissance de la pension.
+Lorsque l'infirmité imputable à l'un des risques exceptionnels spécifiques au métier militaire énumérés à l'article D. 4123-9 entraîne la radiation des cadres ou des contrôles pour réforme définitive, le montant de l'allocation principale prévu à l'article D. 4123-6 est doublé.

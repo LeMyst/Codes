@@ -6,7 +6,7 @@ Les membres du Conseil supérieur de la fonction militaire sont nommés par arr�
 
 Un arrêté du ministre de la défense met fin au mandat d'un représentant des forces armées ou formations rattachées qui en fait la demande expresse dans le cadre du dialogue individualisé prévu à l'article R. 4124-25, au moins six mois avant le terme souhaité. Toutefois, cette demande ne peut être présentée avant que le militaire ait accompli dix-huit mois de son mandat.
 
-Ils ne peuvent exercer deux mandats consécutifs, sauf lorsqu'ils remplacent un membre au cours de son mandat pour une durée inférieure à un an.
+Ils ne peuvent exercer deux mandats consécutifs, ni débuter un nouveau mandat moins de dix-huit mois après le terme du précédent.
 
 2° Les représentants des associations professionnelles nationales de militaires, de leurs unions ou de leurs fédérations sont nommés sur proposition de l'association professionnelle nationale de militaires, de l'union ou de la fédération à laquelle ils appartiennent ;
 
@@ -17,6 +17,4 @@ Les fonctions de membre du Conseil supérieur de la fonction militaire au titre 
 Tous les membres reçoivent une formation spécifique en vue de l'accomplissement de leur fonction.
 
 NOTA:
-Conformément aux dispositions de l'article 22 du décret n° 2020-176 du 27 février 2020, la durée des mandats des membres du Conseil supérieur de la fonction militaire ainsi que celle des membres du conseil d'administration de l'Etablissement public des fonds de prévoyance militaire et de l'aéronautique, représentants des cotisants, actuellement en fonction restent régies par les dispositions en vigueur antérieurement à l'entrée en vigueur du décret précité.
-
-Toutefois, par dérogation aux dispositions de l'article R. 4124-3 du code de la défense dans sa rédaction en vigueur antérieurement à l'entrée en vigueur dudit décret, la durée du mandat des représentants des forces armées et formations rattachées nommés au Conseil supérieur de la fonction militaire le 1er août 2019 est portée de droit de deux à six ans pour ceux qui en expriment la demande dans les conditions fixées par cet article dans sa rédaction en vigueur antérieurement à l'entrée en vigueur dudit décret.
+Conformément aux dispositions de l'article 7 du décret n° 2024-930 du 10 octobre 2024, les dispositions du présent article dans leur rédaction issue du décret précité s'appliquent aux membres du Conseil supérieur de la fonction militaire ayant pris leurs fonctions à compter du 2 août 2021.

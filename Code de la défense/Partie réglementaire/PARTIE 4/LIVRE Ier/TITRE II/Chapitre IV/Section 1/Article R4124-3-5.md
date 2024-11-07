@@ -4,4 +4,6 @@ Les fonctions de représentant des associations professionnelles nationales de m
 
 1° Pour les motifs énoncés aux 1°, 3°, 4° et 8° de l'article R. 4124-3-4 ;
 
-2° La perte de la qualité d'adhérent de l'association professionnelle nationale de militaires, union ou fédération au titre de laquelle le membre a été désigné.
+2° La perte de la qualité d'adhérent de l'association professionnelle nationale de militaires, union ou fédération au titre de laquelle le membre a été désigné ;
+
+3° La perte de la représentativité, au sens de l'article R. 4126-7, par l'association, l'union ou la fédération dont est membre le représentant.

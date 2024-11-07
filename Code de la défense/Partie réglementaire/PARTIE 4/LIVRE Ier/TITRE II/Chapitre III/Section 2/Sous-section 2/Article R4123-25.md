@@ -1,8 +1,11 @@
 # Article R4123-25
 
-Lorsque l'infirmité contractée en service aérien entraîne la mise à la retraite dans les conditions définies aux articles R. 4123-20 et R. 4123-23, il est versé à l'intéressé :\
-1° Une allocation principale dont le montant est fixé comme suit :\
-a) Si celui-ci est marié ou partenaire lié par un pacte civil de solidarité ou a des enfants à charge : montant égal à celui prévu pour le conjoint ou le partenaire lié par un pacte civil de solidarité survivant avec un ou plusieurs enfants à charge fixé à l'article R. 4123-24 ;\
-b) Dans les autres cas : montant égal à celui prévu pour le conjoint ou le partenaire lié par un pacte civil de solidarité survivant sans enfant à charge fixé à l'article R. 4123-24.\
-2° Une majoration par enfant à charge d'un montant égal à celui fixé au 2° de l'article R. 4123-24, en cas d'invalidité égale ou supérieure à 40 % après consolidation de la blessure.\
-Les allocations accordées en cas d'infirmités sont exclusives de toute autre allocation du fonds de prévoyance de l'aéronautique.
+Lorsque l'infirmité contractée en service aérien entraîne la mise à la retraite dans les conditions définies aux articles R. 4123-20 et R. 4123-23, l'intéressé a droit à des allocations.
+
+Un arrêté du ministre de la défense, du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé du budget fixe :
+
+1° Le montant de l'allocation principale, calculé selon les règles en vigueur à la date de la radiation des cadres ou des contrôles pour réforme définitive de l'intéressé ;
+
+2° Le montant du complément d'allocation pour enfant à charge. Il est versé, sur demande de l'affilié, pour chaque enfant à charge au sens du 2° et du 3° de l'article D. 4123-21.
+
+Les allocations accordées en cas d'invalidité sont exclusives de toute autre allocation du fonds de prévoyance de l'aéronautique.

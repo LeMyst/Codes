@@ -14,11 +14,16 @@ b) En raison de la fermeture de l'établissement employeur à la disposition duq
 
 c) En cas de congé non payé à l'exclusion des absences non autorisées, de service militaire ou appel sous les drapeaux.
 
-II.-Dans les cas mentionnés au I, les modalités de calcul de l'indemnité journalière sont les suivantes :
+II.-A la date de l'arrêt de travail, lorsque l'assuré n'a pas perçu de revenus d'activité pendant tout ou partie de la période de référence mentionnée à l'article R. 323-4, les revenus antérieurs servant de base au calcul de l'indemnité journalière sont déterminés dans les conditions suivantes :
 
-1° Lorsque l'assuré a perçu des revenus d'activité à une ou plusieurs reprises au cours de la période de référence, les revenus antérieurs servant de base au calcul de l'indemnité journalière mentionnés à l'article R. 323-4 sont déterminés en divisant les salaires soumis à cotisation perçus au cours de la période de référence par la ou les périodes de jours calendaires travaillés auxquels ils correspondent ;
+1° Lorsqu'une activité débute au cours d'un mois de la période de référence, le revenu est calculé pour l'ensemble de ce mois sur la base du revenu d'activité journalier effectivement perçu ;
 
-2° Lorsque l'assuré n'a perçu aucun revenu d'activité pendant la période de référence, les revenus antérieurs servant de base au calcul de l'indemnité journalière mentionnés à l'article R. 323-4 sont déterminés en divisant les salaires soumis à cotisation perçus au cours des jours calendaires travaillés depuis la fin de période de référence par la période de jours calendaires travaillés auxquels ils correspondent.
+2° Lorsque l'activité a pris fin au cours d'un mois de la période de référence, le revenu est calculé pour l'ensemble de ce mois sur la base du revenu d'activité journalier effectivement perçu ;
 
-NOTA:
-Conformément au I de l'article 5 du décret n° 2021-428 du 12 avril 2021, ces dispositions entrent en vigueur pour les arrêts de travail prescrits à compter du 1er octobre 2022.
+3° Lorsqu'une activité a pris fin et qu'une autre a débuté au cours d'un même mois de la période de référence, les dispositions du 1° et du 2° ne s'appliquent pas et le revenu correspondant à la période de ce mois durant laquelle l'assuré n'a, le cas échéant, pas perçu de revenus d'activité est calculé sur la base du revenu d'activité journalier effectivement perçu au titre de la dernière activité qui a débuté au cours de ce mois ;
+
+4° Lorsque, au cours d'un ou plusieurs mois de la période de référence, l'assuré n'a pas travaillé, soit par suite de maladie, accident, maternité, chômage involontaire total ou partiel, soit en raison de la fermeture de l'établissement employeur à la disposition duquel reste l'assuré, soit en cas de congé non payé à l'exclusion des absences non autorisées, de service militaire ou appel sous les drapeaux, dans les cas énumérés ci-dessus, le revenu d'activité est calculé pour l'ensemble de ce ou ces mois concernés :
+
+a) Lorsque l'assuré a perçu à une ou plusieurs reprises des revenus d'activité au cours de la période de référence, à partir du revenu d'activité journalier effectivement perçu ;
+
+b) Lorsque l'assuré n'a perçu aucun revenu d'activité au cours de la période de référence, à partir du revenu d'activité journalier effectivement perçu au cours des jours travaillés depuis la fin de la période de référence.

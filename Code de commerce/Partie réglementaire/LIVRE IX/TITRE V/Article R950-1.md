@@ -220,7 +220,11 @@ L'article R. 223-10 est applicable dans sa rédaction résultant du décret n° 
 
 L'article R. 223-11 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
 
-Les articles R. 223-20, R. 223-20-2 et R. 223-20-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+L'article R. 223-20 est applicable dans sa rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+
+L'article R. 223-20-1-1 est applicable dans sa rédaction résultant du décret n° 2024-904 du 8 octobre 2024 ;
+
+Les articles R. 223-20-2 et R. 223-20-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
 L'article R. 223-26 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
 
@@ -236,6 +240,8 @@ L'article R. 225-13 est applicable dans sa rédaction résultant du décret n° 
 
 Les articles R. 225-20, R. 225-22 et R. 225-24 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
 
+L'article R. 225-21 est applicable dans sa rédaction résultant du décret n° 2024-904 du 8 octobre 2024 ;
+
 L'article R. 225-27 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
 
 L'article R. 225-30 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017 ;
@@ -244,7 +250,11 @@ Les articles R. 225-33 et R. 225-34 sont applicables dans leur rédaction résul
 
 Les articles R. 225-34-2, R. 225-34-3 et R. 225-34-4 sont applicables dans leur rédaction résultant du décret n° 2019-1308 du 6 décembre 2019 ;
 
-Les articles R. 225-47, R. 225-49 et R. 225-51 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+L'article R. 225-47 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+
+L'article R. 225-48 est applicable dans sa rédaction résultant du décret n° 2024-904 du 8 octobre 2024 ;
+
+Les articles R. 225-49 et R. 225-51 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
 
 L'article R. 225-57 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017 ;
 
@@ -290,7 +300,9 @@ L'article R. 225-166 est applicable dans sa rédaction résultant du décret n°
 
 L'article R. 225-166-1 est applicable dans sa rédaction résultant du décret n° 2023-657 du 25 juillet 2023 ;
 
-Les articles R. 226-1 et R. 226-2 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 226-1 est applicable dans sa rédaction résultant du décret n° 2024-904 du 8 octobre 2024 ;
+
+L'article R. 226-2 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
 
 L'article R. 227-1 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
 
@@ -348,7 +360,9 @@ L'article R. 247-2 est applicable dans sa rédaction résultant du décret n° 2
 
 L'article R. 210-21 est applicable dans sa rédaction résultant du décret n° 2021-669 du 27 mai 2021.
 
-Les articles R. 22-10-1 à R. 22-10-40 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020.
+Les articles R. 22-10-1 à R. 22-10-40 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+
+Les articles R. 22-10-17-1, R. 22-10-19-1 et R. 22-10-29-1 sont applicables dans leur rédaction résultant du décret n° 2024-904 du 8 octobre 2024.
 
 3° Le livre III, à l'exception des articles R. 321-1 à R. 321-73 ;
 
@@ -895,8 +909,3 @@ Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résult
 Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019 ;
 
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
-
-NOTA:
-Conformément à l’article 16 du décret n° 2023-1391 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er septembre 2024. Elles sont applicables aux instances d'appel introduites à compter de cette date et aux instances reprises devant la cour d'appel à la suite d'un renvoi après cassation lorsque la juridiction de renvoi est saisie à compter de cette même date.
-
-Conformément au I de l’article 17 du décret n° 2024-673, ces dispositions entrent en vigueur le 1er septembre 2024. Elles sont applicables aux instances en cours à cette date.

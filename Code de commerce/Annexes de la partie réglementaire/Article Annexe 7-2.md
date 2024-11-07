@@ -36,7 +36,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Corse-du-Sud | Ajaccio | 15 | 2 |
 | Haute-Corse | Bastia | 15 | 3 |
 | Cour d'appel de Besançon |
-| Doubs | Besançon | 19 | 3 |
+| Doubs | Besançon | 21 | 3 |
 | Jura | Lons-le-Saunier | 15 | 3 |
 | Haute-Saône | Vesoul | 15 | 3 |
 | Territoire de Belfort | Belfort | 18 | 3 |
@@ -47,7 +47,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Gironde | Bordeaux | 60 | 9 |
 |  | Libourne | 17 | 3 |
 | Cour d'appel de Bourges |
-| Cher | Bourges | 13 | 2 |
+| Cher | Bourges | 15 | 2 |
 | Indre | Châteauroux | 16 | 3 |
 | Nièvre | Nevers | 15 | 3 |
 | Cour d'appel de Caen |

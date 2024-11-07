@@ -2,7 +2,7 @@
 
 Pour l'application des dispositions du 2° et du 3° de l'article L. 4153-1 du code du travail, les élèves des établissements d'enseignement et de formation professionnelle agricoles publics ou privés mentionnés aux articles L. 811-1, L. 813-1 et L. 813-9 du présent code ne peuvent être admis ou employés dans les exploitations, entreprises, établissements ou chez les employeurs mentionnés à l'article L. 3111-1 du code du travail et à l'article L. 713-1 du présent code que dans les cas suivants :
 
-1° Les élèves qui suivent un enseignement général peuvent faire les visites d'information prévues à l'article R. 715-1-1 du même code et, à partir des deux dernières années de leur scolarité obligatoire, participer à des séquences d'observation dans les conditions prévues à l'article R. 715-1-2 ;
+1° Les élèves qui suivent un enseignement général peuvent faire les visites d'information prévues à l'article R. 715-1-1 du même code et participer à des séquences d'observation dans les conditions prévues à l'article R. 715-1-2 ;
 
 2° Les élèves âgés de quatorze ans au moins qui suivent un enseignement technologique, un enseignement professionnel ou un enseignement alterné peuvent accomplir, à partir des deux dernières années de leur scolarité obligatoire, les stages d'initiation, d'application ou les périodes de formation en milieu professionnel qui sont prévus par les programmes des études conduisant aux diplômes qu'ils préparent ou qui sont conduits dans le cadre de l'enseignement mentionné à l'article L. 813-9. Ils peuvent également faire des visites d'information ou participer à des séquences d'observation.
 

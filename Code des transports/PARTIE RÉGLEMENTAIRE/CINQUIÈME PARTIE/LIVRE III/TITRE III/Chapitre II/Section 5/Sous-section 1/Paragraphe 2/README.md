@@ -1,1 +1,1 @@
-Paragraphe 2 : Accès aux zones d'accès restreint
+Paragraphe 2 : Accès aux zones à accès restreint

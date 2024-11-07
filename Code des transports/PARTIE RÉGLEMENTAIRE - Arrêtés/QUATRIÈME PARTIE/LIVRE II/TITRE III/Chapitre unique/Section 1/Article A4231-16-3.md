@@ -6,4 +6,6 @@ Tout demandeur doit avoir réussi un examen théorique conformément à l'ES-QIN
 
 L'autorité compétence délivre l'autorisation spécifique pour la navigation sur des voies d'eau intérieures à caractère maritime après qu'elle a établi que le demandeur satisfait aux exigences du présent article, et après avoir vérifié la validité des documents fournis par le demandeur en application des dispositions de l'article A. 4231-2-1.
 
+Le détenteur d'une licence patron-pilote peut, par équivalence, se voir délivrer une autorisation spécifique pour la navigation sur des voies d'eau intérieures à caractère maritime. Il adresse sa demande auprès de l'autorité compétente accompagné des pièces a, b, e, de l'article A. 4231-2-1 du code des transports
+
 La liste des voies d'eau intérieures à caractère maritime est définie à l'annexe 18 du présent livre.

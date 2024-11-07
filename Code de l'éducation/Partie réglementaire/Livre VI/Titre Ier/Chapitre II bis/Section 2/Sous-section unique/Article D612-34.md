@@ -28,7 +28,9 @@ h) Par l'université de Montpellier et figurant sur une liste arrêtée par le m
 
 i) Par l'Université Paris sciences et lettres (Université PSL) et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
 
-j) Par CY Cergy Paris Université et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
+j) Par CY Cergy Paris Université et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+
+k) Par CentraleSupélec et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
 
 Ces diplômes font l'objet d'une évaluation nationale périodique.
 
@@ -59,8 +61,3 @@ Ce diplôme fait l'objet d'une évaluation nationale périodique.
 7° D'un diplôme d'études fondamentales vétérinaires délivré par les écoles nationales vétérinaires ;
 
 8° D'un diplôme national d'œnologue à l'issue de l'année universitaire 2022-2023.
-
-NOTA:
-Conformément aux I et II de l'article 3 du décret n° 2024-679 du 3 juillet 2024, ces dispositions s'appliquent aux étudiants qui débutent la deuxième année du premier cycle des études de maïeutique après le 1er septembre 2024.
-
-Sont régis par les dispositions des articles D. 635-1 et D. 635-5 du code de l'éducation, et D. 4151-1 du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur dudit décret, les étudiants qui ont validé la deuxième année du premier cycle des études de maïeutique, avant le 1er septembre 2024.

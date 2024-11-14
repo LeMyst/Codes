@@ -28,3 +28,9 @@ VII.-L'exonération prévue au I du présent article donne lieu à compensation 
 
 NOTA:
 Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément à l'article 8 de la loi n° 2022-1616 du 23 décembre 2022 :
+
+I.- A la fin du 4° du III de l'article 8 de la loi n° 2018-1203 du 22 décembre 2018 de financement de la sécurité sociale pour 2019, l'année : " 2023 " est remplacée par l'année : " 2026 ".
+
+II.- La perte de recettes résultant pour les organismes de sécurité sociale du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

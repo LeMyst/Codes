@@ -5,57 +5,57 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
 | L. 611-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-| L. 611-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 611-3 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
-| L. 611-4 | Résultant de la loi n° 2015-1541 du 27 novembre 2015 |
+| L. 611-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013  |
+| L. 611-3 | Résultant de la loi n° 2018-166 du 8 mars 2018  |
+| L. 611-4 | Résultant de la loi n° 2015-1541 du 27 novembre 2015  |
 | L. 611-5 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-| L. 611-6 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 611-7 | Résultant de la loi n° 2010-241 du 10 mars 2010 |
-| L. 611-8 | Résultant de la loi n° 2016-1321 du 7 octobre 2016 |
-| L. 611-9 | Résultant de la loi n° 2022-52 du 24 janvier 2022 |
-| L. 611-10 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
-| L. 611-11 | Résultant de la loi n° 2022-52 du 24 janvier 2022 |
-| L. 611-12 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
+| L. 611-6 | Résultant de la loi n° 2013-660 du 22 juillet 2013  |
+| L. 611-7 | Résultant de la loi n° 2010-241 du 10 mars 2010  |
+| L. 611-8 | Résultant de la loi n° 2024-449 du 21 mai 2024  |
+| L. 611-9 | Résultant de la loi n° 2022-52 du 24 janvier 2022  |
+| L. 611-10 | Résultant de la loi n° 2017-86 du 27 janvier 2017  |
+| L. 611-11 | Résultant de la loi n° 2022-52 du 24 janvier 2022  |
+| L. 611-12 | Résultant de la loi n° 2018-166 du 8 mars 2018  |
 | L. 612-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-| L. 612-1-1 et L. 612-2 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
-| L. 612-3 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 612-3-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 612-4 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 612-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 612-6 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 612-6-1 | Résultant de la loi n° 2016-1828 du 23 décembre 2016 |
-| L. 612-7 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 613-1 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
-| L. 613-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 613-7 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 614-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 621-1 et L. 621-2 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
-| L. 621-3 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
-| L. 622-1 à L. 624-1 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
-| L. 624-2 ; L. 625-1 et L. 625-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 631-1 à L. 632-3 | Résultant de la loi n° 2019-774 du 24 juillet 2019 |
-| L. 632-4 | Résultant de la loi n° 2016-1888 du 28 décembre 2016 |
-| L. 632-5 | Résultant de l'ordonnance n° 2010-177 du 23 février 2010 |
-| L. 632-7 | Résultant de la loi n° 2012-409 du 27 mars 2012 |
-| L. 632-12 | Résultant de la loi n° 2019-774 du 24 juillet 2019 |
-| L. 633-1 | Résultant de la loi n° 2002-73 du 17 janvier 2002 |
-| L. 633-2 | Résultant de l'ordonnance n° 2017-31 du 12 janvier 2017 |
-| L. 633-3, 1er et 3e alinéas | Résultant de l'ordonnance n° 2010-177 du 23 février 2010 |
-| L. 633-4 | Résultant de l'ordonnance n° 2017-50 du 19 janvier 2017 |
-| L. 633-5 | Résultant de l'ordonnance n° 2017-31 du 12 janvier 2017 |
-| L. 633-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 634-1 | Résultant de la loi n° 2009-879 du 21 juillet 2009 |
-| L. 641-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 641-2 | Résultant de l'ordonnance n° 2019-861 du 21 août 2019 |
-| L. 641-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 641-4 | Résultant de la loi n° 2003-339 du 14 avril 2003 |
-| L. 641-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 612-1-1 et L. 612-2 | Résultant de la loi n° 2018-166 du 8 mars 2018  |
+| L. 612-3 | Résultant de la loi n° 2020-1674 du 24 décembre 2020  |
+| L. 612-3-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019  |
+| L. 612-4 | Résultant de la loi n° 2013-660 du 22 juillet 2013  |
+| L. 612-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 612-6 | Résultant de la loi n° 2020-1674 du 24 décembre 2020  |
+| L. 612-6-1 | Résultant de la loi n° 2016-1828 du 23 décembre 2016  |
+| L. 612-7 | Résultant de la loi n° 2020-1674 du 24 décembre 2020  |
+| L. 613-1 | Résultant de la loi n° 2018-166 du 8 mars 2018  |
+| L. 613-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013  |
+| L. 613-7 | Résultant de la loi n° 2019-791 du 26 juillet 2019  |
+| L. 614-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013  |
+| L. 621-1 et L. 621-2 | Résultant de la loi n° 2005-380 du 23 avril 2005  |
+| L. 621-3 | Résultant de la loi n° 2018-166 du 8 mars 2018  |
+| L. 622-1 à L. 624-1 | Résultant de la loi n° 2005-380 du 23 avril 2005  |
+| L. 624-2 ; L. 625-1 et L. 625-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019  |
+| L. 631-1 à L. 632-3 | Résultant de la loi n° 2019-774 du 24 juillet 2019  |
+| L. 632-4 | Résultant de la loi n° 2016-1888 du 28 décembre 2016  |
+| L. 632-5 | Résultant de l'ordonnance n° 2010-177 du 23 février 2010  |
+| L. 632-7 | Résultant de la loi n° 2012-409 du 27 mars 2012  |
+| L. 632-12 | Résultant de la loi n° 2019-774 du 24 juillet 2019  |
+| L. 633-1 | Résultant de la loi n° 2002-73 du 17 janvier 2002  |
+| L. 633-2 | Résultant de l'ordonnance n° 2017-31 du 12 janvier 2017  |
+| L. 633-3, 1er et 3e alinéas | Résultant de l'ordonnance n° 2010-177 du 23 février 2010  |
+| L. 633-4 | Résultant de l'ordonnance n° 2017-50 du 19 janvier 2017  |
+| L. 633-5 | Résultant de l'ordonnance n° 2017-31 du 12 janvier 2017  |
+| L. 633-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 634-1 | Résultant de la loi n° 2009-879 du 21 juillet 2009  |
+| L. 641-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 641-2 | Résultant de l'ordonnance n° 2019-861 du 21 août 2019  |
+| L. 641-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 641-4 | Résultant de la loi n° 2003-339 du 14 avril 2003  |
+| L. 641-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
 | L. 642-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-| L. 642-2 et L. 642-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 642-4 et L. 642-5 | Résultant de l'ordonnance n° 2014-691 du 26 juin 2014 |
-| L. 642-6 à L. 642-12 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 661-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 675-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 642-2 et L. 642-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 642-4 et L. 642-5 | Résultant de l'ordonnance n° 2014-691 du 26 juin 2014  |
+| L. 642-6 à L. 642-12 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 661-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020  |
+| L. 675-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
 
 II.-Pour l'application du I :
 
@@ -106,6 +106,3 @@ b) Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
 13° Au cinquième alinéa de l'article L. 634-1, les mots : “ dans les structures définies au chapitre VI du titre IV du livre Ier de la partie VI du code de la santé publique ” sont remplacés par les mots : “ dans des établissements publics de santé ” ;
 
 14° Au premier alinéa de l'article L. 641-2, les mots : “ et celles de l'article L. 6113-1 du code du travail ” sont supprimés.
-
-NOTA:
-Conformément au II de l'article 7 de la loi n° 2021-1774 du 24 décembre 2021, ces dispositions entrent en vigueur deux ans après la publication de ladite loi.

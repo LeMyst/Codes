@@ -8,7 +8,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
-4° Le livre IV, à l'exception des articles L. 410-1 à L. 450-1, L. 450-5 à L. 450-6, L. 461-1 à L. 464-10, L. 490-2 à L. 490-4 et des articles L. 490-9 à L. 490-14 ;
+4° Le livre IV, à l'exception des articles L. 410-1 à L. 450-1, L. 450-5 à L. 450-6, L. 450-11 et L. 450-12, L. 461-1 à L. 464-10, L. 490-2 à L. 490-4 et des articles L. 490-9 à L. 490-14 ;
 
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 

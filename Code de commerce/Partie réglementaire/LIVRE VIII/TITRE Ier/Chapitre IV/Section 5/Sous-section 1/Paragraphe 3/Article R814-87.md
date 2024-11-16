@@ -10,4 +10,7 @@ En annexe de la liste nationale est dressée la liste des sociétés avec les in
 
 3° Noms de tous les associés exerçant en son sein ;
 
-4° Dans le cas d'une société pluri-professionnelle d'exercice, le nom des associés exerçant l'une des autres professions prévue au titre IV bis de la loi n° 90-1258 du 31 décembre 1990 précitée et leur profession exercée au sein de la société.
+4° Dans le cas d'une société pluri-professionnelle d'exercice, le nom des associés exerçant l'une des autres professions prévue à l'article 96 de l'ordonnance n° 2023-77 du 8 février 2023 précitée et leur profession exercée au sein de la société.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 26 du décret n° 2024-1021 du 13 novembre 2024.

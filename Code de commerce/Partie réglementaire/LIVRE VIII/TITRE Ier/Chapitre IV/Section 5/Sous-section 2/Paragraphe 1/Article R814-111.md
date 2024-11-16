@@ -1,6 +1,6 @@
 # Article R814-111
 
-Les statuts satisfont aux prescriptions des articles 8, 11, 14, 15, 19, 20 et 24 de la loi n° 66-879 du 29 novembre 1966. Ils indiquent en outre :
+Les statuts satisfont aux prescriptions des articles 12, 15, 18, 19, 23, 24 et 27 de l'ordonnance n° 2023-77 du 8 février 2023. Ils indiquent en outre :
 
 1° Les nom, prénoms et domicile de chaque associé ;
 
@@ -15,3 +15,6 @@ Les statuts satisfont aux prescriptions des articles 8, 11, 14, 15, 19, 20 et 24
 6° Le nombre des parts d'intérêts attribuées à chaque apporteur en industrie ;
 
 7° L'affirmation de la libération totale ou partielle, selon le cas, des apports concourant à la formation du capital social.
+
+NOTA:
+Se reporter aux modalités d’application prévues à l’article 26 du décret n° 2024-1021 du 13 novembre 2024.

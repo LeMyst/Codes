@@ -1,0 +1,3 @@
+# Article R162-138
+
+La décision d'inclure une personne dans un parcours coordonné renforcé est prise par un professionnel exerçant dans la structure responsable de la coordination, sur la base des critères d'éligibilité fixés par l'arrêté mentionné à l'article R. 4012-1 du code de la santé publique. Lorsqu'elle est prise par un médecin de la structure ou, à défaut, validée par un médecin n'exerçant pas dans la structure, cette décision vaut, pour l'ensemble des professions mentionnées au livre III de la quatrième partie du même code qui interviennent dans ce parcours, prescription des actes et prestations prévus par le projet de parcours et conformes au même arrêté.

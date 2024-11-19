@@ -2,7 +2,7 @@
 
 Les garanties mentionnées à l'article L. 871-1 comprennent la prise en charge :
 
-1° De l'intégralité de la participation des assurés définie à l'article R. 160-5. Cette prise en charge n'est toutefois pas obligatoire pour les prestations de santé mentionnées aux 6°, 7°, 10° et 14° du même article ;
+1° De l'intégralité de la participation des assurés définie aux deux derniers alinéas du I de l'article L. 160-13 et à l'article R. 160-5. Cette prise en charge n'est toutefois pas obligatoire pour les prestations de santé mentionnées aux 6°, 7°, 10° et 14° de l'article R. 160-5 ;
 
 2° Si le contrat, le bulletin d'adhésion ou le règlement propose cette garantie, des dépassements tarifaires des médecins n'ayant pas adhéré à l'un des dispositifs de pratique tarifaire maîtrisée prévus par la convention nationale mentionnée à l'article L. 162-5, dans la double limite de 100 % du tarif de responsabilité et du montant pris en charge pour les dépassements des médecins ayant adhéré à l'un des dispositifs de pratique tarifaire maîtrisée minoré d'un montant égal à 20 % du tarif de responsabilité ;
 
@@ -71,10 +71,3 @@ Ces garanties s'appliquent aux frais exposés pour l'acquisition d'une aide audi
 5° Des frais de soins dentaires prothétiques exposés par l'assuré en sus des tarifs de responsabilité dans la limite des honoraires de facturation fixés par la convention prévue à l'article L. 162-9 ou, en l'absence de convention applicable, par le règlement arbitral prévu à l'article L. 162-14-2, pour les actes définis par arrêté des ministres chargés de la santé et de la sécurité sociale, en fonction du service rendu et des caractéristiques esthétiques ;
 
 6° Du forfait journalier des établissements hospitaliers prévu à l'article L. 174-4, sans limitation de durée.
-
-NOTA:
-Conformément à l'article 5 du décret n° 2019-21 du 11 janvier 2019, les dispositions des 3° et 5° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux contrats souscrits ou renouvelés à compter du 1er janvier 2020, sous réserve des dispositions du troisième alinéa dudit article.
-
-Les dispositions du 4° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux contrats souscrits ou renouvelés à compter du 1er janvier 2021.
-
-Les dispositions du 5° de l'article R. 871-2 du code de la sécurité sociale dans leur rédaction issue dudit décret s'appliquent aux actes pour lesquels l'entente directe est limitée et sans reste à charge tels que définis dans la convention prévue à l'article L. 162-9, aux dates fixées par la convention organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie signée le 21 juin 2018.

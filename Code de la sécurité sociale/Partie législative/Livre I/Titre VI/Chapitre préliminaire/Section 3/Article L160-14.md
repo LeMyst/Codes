@@ -54,7 +54,7 @@ b) Cette ou ces affections nécessitent un traitement prolongé et une thérapeu
 
 24° Pour les frais liés à une consultation unique de prévention des cancers et des addictions, pour les assurés dont l'âge est compris entre dix-huit et vingt-cinq ans inclus ;
 
-25° Pour les frais liés aux examens prévus à l'article L. 2132-2 du code de la santé publique, à l'exception de ceux pris en charge au titre du risque maternité en application de l'article L. 160-9 du présent code;
+25° Pour les frais liés aux examens prévus à l'article L. 2132-2 du code de la santé publique, à l'exception de ceux pris en charge au titre du risque maternité en application de l'article L. 160-9 du présent code, et pour les frais liés aux examens prévus à l'article L. 2132-2-2 du code de la santé publique ;
 
 26° Pour l'assistance médicale à la procréation réalisée dans les conditions prévues au chapitre Ier du titre IV du livre Ier de la deuxième partie du code de la santé publique ;
 

@@ -14,6 +14,8 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 
 6° La couverture des frais relatifs aux examens de prévention bucco-dentaire mentionnés à l'article L. 2132-2-1 du même code ;
 
+6° bis La couverture des frais relatifs aux examens de repérage des troubles du neuro-développement mentionnés à l'article L. 2132-2-2 du même code ;
+
 7° La couverture des frais relatifs aux actes et traitements liés à la préservation de la fertilité et à l'assistance médicale à la procréation, à l'exception de ceux afférents à la conservation des gamètes réalisée en application de l'article L. 2141-12 du code de la santé publique pour des assurés non atteints d'une pathologie altérant leur fertilité et ne relevant pas de l'article L. 2141-11 du même code.
 
 8° La couverture des frais relatifs aux activités de télésurveillance médicale relevant de la section 11 du chapitre II du présent titre ;

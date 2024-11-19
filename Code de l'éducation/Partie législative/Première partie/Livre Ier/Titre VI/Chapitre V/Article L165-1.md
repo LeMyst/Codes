@@ -10,7 +10,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 111-2 | Résultant de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets |
 | L. 111-3 à L. 111-4 | Résultant de la loi n° 2019-791 du 26 juillet 2019 précitée |
 |  L. 111-5 |  Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-|  L. 112-1, 1er, 2e et 5e alinéas, et L. 112-2 |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 112-1, 1er, 2e et 5e alinéas |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+|  L. 112-2 |  Résultant de la loi n° 2024-1028 du 15 novembre 2024 visant à améliorer le repérage et l'accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants |
 |  L. 112-3 |  Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
 |  L. 112-4 |  Résultant de la loi n° 2005-102 du 11 février 2005 |
 |  L. 112-5 L. 113-1, 1er alinéa, L. 114-1, 1er, 2e et 4e alinéas |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |

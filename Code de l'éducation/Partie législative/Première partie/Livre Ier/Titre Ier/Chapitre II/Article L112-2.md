@@ -6,5 +6,7 @@ En fonction des résultats de l'évaluation, il est proposé à chaque enfant, a
 
 Les élèves ou étudiants en situation de handicap ayant suivi une formation professionnelle ou technologique se voient délivrer par l'établissement de formation une attestation des compétences acquises au cours de la formation.
 
+Le service public de l'éducation veille à ce qu'il existe dans chaque établissement un ou plusieurs relais ou référents pour l'accueil des enfants présentant un trouble du neuro-développement, afin d'assurer une meilleure inclusion en milieu ordinaire.
+
 NOTA:
 Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.

@@ -16,7 +16,7 @@ II.-Les versements sont liquidés par application, au montant du chiffre d'affai
 
 3° 2,2 % pour les contribuables soumis au régime défini à l'article 102 ter et concernés par le seuil prévu au 1 du même article 102 ter.
 
-III.-Les versements libèrent de l'impôt sur le revenu établi sur la base du chiffre d'affaires ou des recettes annuels, au titre de l'année de réalisation des résultats de l'exploitation, à l'exception des plus et moins-values provenant de la cession de biens affectés à l'exploitation, qui demeurent imposables dans les conditions visées au douzième alinéa du 1 de l'article 50-0 et au deuxième alinéa du 1 de l'article 102 ter.
+III.-Les versements libèrent de l'impôt sur le revenu établi sur la base du chiffre d'affaires ou des recettes annuels, au titre de l'année de réalisation des résultats de l'exploitation, à l'exception des plus et moins-values provenant de la cession de biens affectés à l'exploitation, qui demeurent imposables dans les conditions visées à l'avant-dernier alinéa du 1 de l'article 50-0 et au deuxième alinéa du 1 de l'article 102 ter.
 
 Les contribuables qui s'acquittent du versement libératoire au titre de l'année en cours ne sont pas redevables de l'acompte prévu au 2° du 2 de l'article 204 A au titre des revenus soumis à ce versement.
 
@@ -35,4 +35,4 @@ V.-Les versements mentionnés au I sont effectués suivant la périodicité, sel
 Les contribuables ayant opté pour le versement libératoire mentionné au I portent sur la déclaration prévue à l'article 170 les informations mentionnées aux 3 de l'article 50-0 et 2 de l'article 102 ter.
 
 NOTA:
-Aux termes des dispositions de l'article 1er de l'ordonnance n° 2018-470 du 12 juin 2018, la référence "L. 133-6-8" du code de la sécurité sociale est remplacée par la référence "L. 613-7" du même code.
+Conformément au II de l'article 7 de la loi n° 2024-1039 du 19 novembre 2024, ces dispositions s’appliquent aux revenus perçus à compter du 1er janvier 2025.

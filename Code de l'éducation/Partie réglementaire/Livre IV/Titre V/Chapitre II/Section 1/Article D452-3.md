@@ -14,7 +14,7 @@ Le conseil d'administration de l'Agence pour l'enseignement français à l'étra
 
 -le sous-directeur chargé de l'enseignement français à l'étranger au ministère des affaires étrangères ou son représentant ;
 
--le délégué chargé des programmes et des opérateurs au ministère des affaires étrangères ou son représentant ;
+-le sous-directeur chargé des moyens et des opérateurs au ministère des affaires étrangères ou son représentant ;
 
 -le chef du pôle chargé des opérateurs au ministère des affaires étrangères ou son représentant ;
 

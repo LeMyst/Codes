@@ -23,14 +23,11 @@ Sont applicables à Wallis-et-Futuna, sous réserve des adaptations prévues au 
 |  R. 811-109 |  Résultant du décret n° 2012-1247 du 7 novembre 2012 portant adaptation de divers textes aux nouvelles règles de la gestion budgétaire et comptable publique |
 |  R. 811-110 |  Résultant du décret n° 2014-551 du 27 mai 2014 portant adaptation de dispositions pour faire suite à la fusion de la direction générale des impôts et de la direction générale de la comptabilité publique |
 |  R. 811-111 à R. 811-113 |  Résultant du décret n° 96-405 du 26 avril 1996 modifiant le livre VIII (nouveau) du code rural (partie réglementaire)  |
-|  R. 811-114 à R. 811-115 |  Résultant du décret n° 96-405 du 26 avril 1996 modifiant le livre VIII (nouveau) du code rural (partie réglementaire)  |
-|  R. 811-116 à R. 811-119 |  Résultant du décret n° 96-405 du 26 avril 1996 modifiant le livre VIII (nouveau) du code rural (partie réglementaire)  |
-|  D. 811-121 |  Résultant du décret n° 2005-368 du 19 avril 2005 relatif à la partie réglementaire du livre VII du code rural et modifiant la partie réglementaire des livres Ier, II, III, IV, V, VI et VIII du même code |
-|  D. 811-122 |  Résultant du décret n° 2010-429 du 29 avril 2010 relatif à l'organisation et aux missions des directions régionales de l'alimentation, de l'agriculture et de la forêt |
-|  D. 811-126 à D. 811-130 |  Résultant du décret n° 2005-368 du 19 avril 2005 relatif à la partie réglementaire du livre VII du code rural et modifiant la partie réglementaire des livres Ier, II, III, IV, V, VI et VIII du même code |
-|  D. 811-131 |  Résultant du décret n° 2010-429 du 29 avril 2010 relatif à l'organisation et aux missions des directions régionales de l'alimentation, de l'agriculture et de la forêt |
-|  D. 811-132 à D. 811-136 |  Résultant du décret n° 2005-368 du 19 avril 2005 relatif à la partie réglementaire du livre VII du code rural et modifiant la partie réglementaire des livres Ier, II, III, IV, V, VI et VIII du même code |
-|  D. 811-144 à D. 811-145 |  Résultant du décret n° 2011-468 du 27 avril 2011 relatif à l'enseignement professionnel agricole du second degré |
+|  R. 811-114 |  Résultant du décret n° 2024-1064 du 25 novembre 2024 |
+|  R. 811-115 |  Résultant du décret n° 96-405 du 26 avril 1996 modifiant le livre VIII (nouveau) du code rural (partie réglementaire)  |
+|  D. 811-136 |  Résultant du décret n° 2024-1064 du 25 novembre 2024 |
+|  D. 811-144 |  Résultant du décret n° 2011-468 du 27 avril 2011 relatif à l'enseignement professionnel agricole du second degré |
+|  D. 811-145 |  Résultant du décret n° 2024-1064 du 25 novembre 2024 |
 |  D. 811-146 à D. 811-148-6 |  Résultant du décret n° 2015-555 du 19 mai 2015 relatif au règlement général du certificat d'aptitude professionnelle agricole |
 |  D. 811-154 |  Résultant du décret n° 2009-223 du 24 février 2009 portant rénovation du baccalauréat professionnel et modifiant le code rural  |
 |  D. 811-155 |  Résultant du décret n° 2011-468 du 27 avril 2011 relatif à l'enseignement professionnel agricole du second degré |

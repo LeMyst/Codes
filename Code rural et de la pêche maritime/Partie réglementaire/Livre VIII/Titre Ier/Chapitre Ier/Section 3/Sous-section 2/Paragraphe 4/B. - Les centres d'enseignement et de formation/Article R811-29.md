@@ -2,9 +2,9 @@
 
 Les centres d'enseignement et de formation sont classés dans l'une des catégories suivantes :
 
-1° Lycées d'enseignement général et technologique agricoles qui assurent principalement les formations initiales conduisant aux brevets de technicien, baccalauréats ou brevets de technicien supérieur ;
+1° Lycées d'enseignement général et technologique agricoles qui assurent principalement les formations initiales conduisant aux baccalauréats ou brevets de technicien supérieur ;
 
-2° Lycées professionnels agricoles qui assurent principalement les formations initiales conduisant au certificat d'aptitude professionnelle agricole, au brevet de technicien agricole ou au baccalauréat professionnel ;
+2° Lycées professionnels agricoles qui assurent principalement les formations initiales conduisant au certificat d'aptitude professionnelle agricole ou au baccalauréat professionnel ;
 
 3° Lycées d'enseignement général, technologique et professionnel agricoles qui assurent l'ensemble des missions citées aux 1° et 2° du présent article ;
 

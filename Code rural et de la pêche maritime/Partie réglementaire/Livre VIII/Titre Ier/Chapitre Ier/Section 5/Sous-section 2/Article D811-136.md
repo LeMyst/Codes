@@ -1,6 +1,6 @@
 # Article D811-136
 
-L'enseignement général et technologique agricole du second degré peut également préparer :
+L'enseignement général et technologique agricole du second degré peut préparer :
 
 1° Au baccalauréat général organisé par les articles D. 334-2 à D. 334-22 du code de l'éducation et dont les dispositions s'appliquent dans les établissements d'enseignement relevant du ministre de l'agriculture, sous réserve des compétences particulières définies ci-dessous.
 

@@ -6,6 +6,6 @@ Le statut d'établissement public à caractère scientifique, culturel et profes
 
 2° COMUE Angers-Le Mans : décret n° 2020-1811 du 30 décembre 2020 ;
 
-3° Université de Toulouse : décret n° 2022-1537 du 8 décembre 2022 ;
+3° Communauté d'universités et établissements de Toulouse : décret n° 2022-1537 du 8 décembre 2022 ;
 
 4° ComUE Lyon Saint-Étienne : décret n° 2024-17 du 9 janvier 2024.

@@ -16,10 +16,14 @@ V.-Tout side-car équipant une motocyclette doit être muni à l'arrière d'un f
 
 VI.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d'un cyclomoteur à trois roues dépasse 1,30 mètre, il doit être muni à l'arrière de deux feux stop.
 
+VI bis.-Tout engin de déplacement personnel motorisé ou cycle peut être muni à l'arrière d'un feu stop répondant aux caractéristiques techniques mentionnées au I. Le conducteur peut porter sur lui ce feu.
+
 VII.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules et matériels agricoles ou de travaux publics qui, toutefois, peuvent être munis à l'arrière de deux ou trois feux stop répondant aux caractéristiques prévues par le présent article.
 
 VIII.-Lorsqu'une remorque d'un poids total autorisé en charge inférieur ou égal à 0,5 tonne ou son chargement masque le ou les feux stop du véhicule tracteur, la remorque doit être munie du ou des dispositifs correspondants, dont le nombre est fixé à deux obligatoirement si la largeur de la remorque dépasse 1,30 mètre.
 
-IX.-Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
+IX.-Le fait, pour tout conducteur d'un véhicule autre qu'un engin de déplacement personnel motorisé ou un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
+
+IX bis.-Le fait pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.
 
 X.-La nuit, ou le jour lorsque la visibilité est insuffisante, en cas d'absence, de non-conformité ou de défectuosité des feux stop, l'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-3.

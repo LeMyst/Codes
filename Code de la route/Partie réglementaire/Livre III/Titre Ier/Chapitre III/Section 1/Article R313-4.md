@@ -22,7 +22,7 @@ VIII.-La présence des feux de position visés au VII ci-dessus est obligatoire 
 
 IX.-Les dispositions du I ci-dessus ne sont pas applicables aux véhicules de travaux publics remorqués.
 
-X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit être muni d'un feu de position émettant vers l'avant une lumière non éblouissante, jaune ou blanche.
+X.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit être muni d'un feu de position émettant vers l'avant une lumière non éblouissante, jaune ou blanche. Tout engin de déplacement personnel motorisé ou cycle peut être muni d'un feu de position avant supplémentaire répondant aux mêmes caractéristiques. Le conducteur peut porter sur lui un tel feu.
 
 XI.-Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
 

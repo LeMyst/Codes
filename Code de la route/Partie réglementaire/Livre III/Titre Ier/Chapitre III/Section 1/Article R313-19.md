@@ -8,8 +8,8 @@ I bis. - Les catadioptres latéraux placés dans la partie arrière des véhicul
 
 II. - Tout autre véhicule à moteur peut être muni d'un ou de deux catadioptres latéraux, non triangulaires, de couleur orangée.
 
-III. - Tout engin de déplacement personnel motorisé ou cycle doit être muni de catadioptres orange visibles latéralement.
+III. - Tout engin de déplacement personnel motorisé ou cycle doit être muni de catadioptres orange visibles latéralement. Leur présence n'est toutefois pas obligatoire sur les engins de déplacement personnel motorisés et les cycles dont les pneumatiques sont munis de dispositifs rétroréfléchissants.
 
 IV. - Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
 
-V. - Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.
+V. - Le fait, pour tout conducteur d'un engin de déplacement personnel motorisé ou d'un cycle, le cas échéant équipé d'une remorque, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la première classe.

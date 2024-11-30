@@ -10,7 +10,7 @@ III.-Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou d
 
 IV.-Tout side-car équipant une motocyclette doit être muni d'un feu de position arrière.
 
-V.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit être muni d'un feu de position arrière. Ce feu doit être nettement visible de l'arrière lorsque le véhicule est monté.
+V.-La nuit, ou le jour lorsque la visibilité est insuffisante, tout engin de déplacement personnel motorisé ou cycle doit être muni d'un feu de position arrière. Ce feu ne doit pas être clignotant et doit être nettement visible de l'arrière lorsque le véhicule est monté. Tout engin de déplacement personnel motorisé ou cycle peut être muni d'un feu de position arrière supplémentaire répondant aux mêmes caractéristiques. Le conducteur peut porter sur lui un tel feu.
 
 VI.-Lorsque la remorque d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur, d'un cyclomoteur ou d'un cycle, ou son chargement, sont susceptibles de masquer les feux de position arrière du véhicule tracteur, la remorque doit être munie du ou des dispositifs correspondants, dont le nombre est fixé à deux obligatoirement si la largeur de la remorque dépasse 1,30 mètre.
 

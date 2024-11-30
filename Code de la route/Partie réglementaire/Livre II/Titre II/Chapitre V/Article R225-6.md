@@ -10,6 +10,12 @@ L'autorité étrangère peut également demander par voie dématérialisée la c
 
 Les modalités d'application du présent II sont fixées par arrêté conjoint du ministre de l'intérieur et du ministre des affaires étrangères.
 
-III.-Nonobstant les dispositions du I et du II, le titulaire du permis de conduire peut consulter directement le solde des points affectés à son permis de conduire au moyen d'un site internet dédié et sécurisé.
+III.-Nonobstant les dispositions du I et du II, le titulaire du permis de conduire peut, au moyen d'un site internet dédié et sécurisé, effectuer les opérations suivantes :
+
+1° Consulter directement le solde des points affectés à son permis de conduire ;
+
+2° Télécharger le relevé intégral des mentions le concernant ;
+
+3° Télécharger les informations relatives à l'existence, la catégorie et la validité du permis de conduire, sous la forme d'une attestation de droit à conduire sécurisée. Cette attestation vaut titre justifiant de son autorisation de conduire au sens du I de l'article R. 233-1 durant quatre mois à compter de la date de son émission.
 
 Les modalités d'application du présent III sont fixées par arrêté du ministre de l'intérieur.

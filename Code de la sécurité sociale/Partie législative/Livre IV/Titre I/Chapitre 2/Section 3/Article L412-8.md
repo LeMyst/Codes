@@ -10,7 +10,7 @@ commerce, sténographie, sténotypie, mécanographie, dactylographie, français 
 
 b. les élèves des établissements d'enseignement secondaire ou d'enseignement spécialisé et les étudiants autres que ceux qui sont mentionnés au a. ci-dessus pour les accidents survenus au cours d'enseignements dispensés en ateliers ou en laboratoires ainsi que par le fait ou à l'occasion des stages effectués dans le cadre de leur scolarité ou de leurs études ;
 
-c. les personnes effectuant des stages de formation professionnelle continue conformément aux dispositions du livre IX du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation y compris si cette formation est effectuée par des salariés en partie hors du temps de travail dans les conditions fixées par les articles L6321-2 à L6321-12, L6331-26, L. 6331-69, D6321-4, D6321-5 et D6321-8 et L. 932-2 du code du travail ;
+c. les personnes effectuant des stages de formation professionnelle continue conformément aux dispositions du livre IX du code du travail, y compris les personnes détenues effectuant de tels stages, pour les accidents survenus par le fait ou à l'occasion de cette formation y compris si cette formation est effectuée par des salariés en partie hors du temps de travail dans les conditions fixées par les articles L6321-2 à L6321-12, L6331-26, L. 6331-69, D6321-4, D6321-5 et D6321-8 et L. 932-2 du code du travail ;
 
 d. les bénéficiaires des allocations mentionnées à l'article L5123-2 du code du travail pour les accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
 
@@ -24,7 +24,7 @@ g. Les doctorants et chercheurs étrangers mentionnés à l'article L. 434-1 du 
 
 4° les pupilles de l'éducation surveillée, pour les accidents survenus par le fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par un décret ;
 
-5° les détenus exécutant un travail pénal, les condamnés exécutant un travail d'intérêt général et les personnes effectuant un travail non rémunéré dans le cadre d'une composition pénale ou d'une transaction proposée par le maire en application de l'article 44-1 du code de procédure pénale pour les accidents survenus par le fait ou à l'occasion de ce travail, dans les conditions déterminées par décret ;
+5° les personnes détenues exerçant un travail sous le régime du contrat d'emploi pénitentiaire à l'exception de celles qui ne remplissent pas la condition mentionnée à l'article L. 115-6, les condamnés exécutant un travail d'intérêt général et les personnes effectuant un travail non rémunéré dans le cadre d'une composition pénale ou d'une transaction proposée par le maire en application de l'article 44-1 du code de procédure pénale pour les accidents survenus par le fait ou à l'occasion de ce travail, dans les conditions déterminées par décret ;
 
 6° les personnes qui participent bénévolement au fonctionnement d'organismes à objet social créés en vertu ou pour l'application d'un texte législatif ou réglementaire, dans la mesure où elles ne bénéficient pas à un autre titre des dispositions du présent livre. Un décret détermine la nature des organismes mentionnés par la présente disposition ; il peut en établir la liste ;
 
@@ -63,4 +63,4 @@ Un décret précise, en tant que de besoin, les catégories d'élèves, d'étudi
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article et non assujetties aux assurances sociales en vertu du livre III ainsi que les personnes mentionnées au 13° et les personnes mentionnées au 15°, le décret en Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°, 11°, 12°, 15°, 16°, 17°, 18° et 19° des décrets prévus par ceux-ci, déterminent à qui incombent les obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent pas une rémunération normale, ils fixent les bases des cotisations et celles des indemnités.
 
 NOTA:
-Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 27 de l’ordonnance n° 2022-1336 du 19 octobre 2022, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024. Se reporter aux modalités d'application prévues par ledit article 27.

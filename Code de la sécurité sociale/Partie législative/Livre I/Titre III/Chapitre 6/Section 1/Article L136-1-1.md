@@ -36,7 +36,7 @@ c) La rémunération des stagiaires de la formation professionnelle mentionnée 
 
 d) L'allocation de formation mentionnée à l'article L. 6321-10 du même code ;
 
-e) Un pourcentage fixé par décret de la rémunération versée aux personnes mentionnées au 5° de l'article L. 412-8, qui ne peut excéder 40 % de cette rémunération ;
+e) Un pourcentage fixé par décret de la rémunération versée aux personnes mentionnées à l'article L. 382-33, qui ne peut excéder 40 % de cette rémunération ;
 
 f) L'allocation en faveur des lycéens de la voie professionnelle dans le cadre de la valorisation des périodes de formation en milieu professionnel ;
 
@@ -107,4 +107,6 @@ f) Les prestations mentionnées aux articles L. 325-1 et L. 325-2 du code rural 
 8° Dans la limite du seuil de revente à perte, tel que défini à l'article L. 442-5 du code de commerce, les réductions tarifaires jusqu'à 50 % du prix de vente public normal, toutes taxes comprises, dont bénéficient les salariés sur les produits initialement destinés à la vente mais qui ne peuvent pas ou ne peuvent plus être vendus par l'entreprise qui les emploie ou par toute entreprise du groupe auquel ils appartiennent, le groupe étant entendu au sens de l'article L. 2331-1 du code du travail.
 
 NOTA:
+Conformément à l’article 27 de l’ordonnance n° 2022-1336 du 19 octobre 2022, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024. Se reporter aux modalités d'application prévues par ledit article 27.
+
 Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.

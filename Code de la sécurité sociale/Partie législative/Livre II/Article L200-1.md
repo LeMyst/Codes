@@ -2,13 +2,13 @@
 
 Le régime général de sécurité sociale couvre :
 
-1° D'une part, pour le versement des prestations en espèces mentionnées à l'article L. 311-1, les personnes salariées ou assimilées mentionnées aux articles L. 311-2, L. 311-3, L. 311-6, L. 381-1, L. 381-2, L. 382-1 et L. 382-31 et, d'autre part, pour le versement des prestations en espèces au titre des assurances maladie, maternité, paternité et vieillesse, les personnes non salariées mentionnées respectivement aux articles L. 611-1 et L. 631-1 ;
+1° D'une part, pour le versement des prestations en espèces mentionnées à l'article L. 311-1, les personnes salariées ou assimilées mentionnées aux articles L. 311-2, L. 311-3, L. 311-6, L. 381-1, L. 381-2, L. 382-1 et L. 382-31 et, à l'exception des prestations en cas de paternité, L. 382-38 et, d'autre part, pour le versement des prestations en espèces au titre des assurances maladie, maternité, paternité et vieillesse, les personnes non salariées mentionnées respectivement aux articles L. 611-1 et L. 631-1 ;
 
 2° Au titre des accidents du travail et des maladies professionnelles, les personnes mentionnées aux articles L. 411-1, L. 412-2 et L. 412-8 ;
 
 3° Au titre des prestations familiales, les personnes mentionnées à l'article L. 512-1 ;
 
-4° Au titre de la protection universelle maladie, telle que définie à l'article L. 160-1, les personnes mentionnées au 1° du présent article et aux articles L. 381-20, L. 381-25 et L. 381-30 ainsi que les personnes inactives rattachées aux organismes du régime général en application de la seconde phrase du premier alinéa de l'article L. 160-17 ;
+4° Au titre de la protection universelle maladie, telle que définie à l'article L. 160-1, les personnes mentionnées au 1° du présent article et aux articles L. 381-20, L. 381-25 et L. 382-34 ainsi que les personnes inactives rattachées aux organismes du régime général en application de la seconde phrase du premier alinéa de l'article L. 160-17 ;
 
 5° Au titre du soutien à l'autonomie, les personnes mentionnées au 4° du présent article ;
 
@@ -19,6 +19,4 @@ La couverture des risques mentionnés aux 1° et 2° du présent article s'exerc
 Il peut être fait appel également au régime général pour couvrir un ou plusieurs risques ou charges pour des catégories d'assurés définies par la loi.
 
 NOTA:
-Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
-
-Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.
+Conformément à l’article 27 de l’ordonnance n° 2022-1336 du 19 octobre 2022, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024. Se reporter aux modalités d'application prévues par ledit article 27.

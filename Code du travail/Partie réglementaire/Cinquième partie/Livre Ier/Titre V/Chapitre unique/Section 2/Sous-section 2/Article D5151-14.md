@@ -24,9 +24,11 @@ I.-La durée minimale nécessaire à l'acquisition de 240 euros sur le compte pe
 
 11° Pour la réserve citoyenne de la police nationale, une durée continue de trois ans d'engagement ayant donné lieu à la réalisation de trois cent cinquante heures par an ;
 
-12° Pour la réserve civique et ses réserves thématiques à l'exception de celles mentionnées aux 3°, 4°, 8° et au 11°, une durée d'activité annuelle d'au moins deux cents heures, réalisées dans un ou plusieurs organismes d'accueil, dont au moins cent heures dans le même organisme.
+12° Pour la réserve citoyenne de réinsertion, une durée d'activité annuelle de quatre-vingt heures ;
 
-II.-Pour les activités mentionnées aux 2°, 5°, 7° et au 12° du I, la durée est appréciée sur l'année civile écoulée. La déclaration à la Caisse des dépôts et consignations intervient à l'issue de cette année civile.
+13° Pour la réserve civique et ses réserves thématiques à l'exception de celles mentionnées aux 3°, 4°, 8°, 11° et 12°, une durée d'activité annuelle d'au moins deux cents heures, réalisées dans un ou plusieurs organismes d'accueil, dont au moins cent heures dans le même organisme.
+
+II.-Pour les activités mentionnées aux 2°, 5°, 7°, 12° et au 13° du I, la durée est appréciée sur l'année civile écoulée. La déclaration à la Caisse des dépôts et consignations intervient à l'issue de cette année civile.
 
 Pour les activités mentionnées aux 1°, 6° et au 8° du I, la durée est appréciée sur l'année civile écoulée et sur l'année précédente. La déclaration à la Caisse des dépôts et consignations intervient à l'issue de l'année civile écoulée.
 
@@ -41,4 +43,4 @@ Pour les activités mentionnées au 10° et au 11° du I, la durée est appréci
 III.- Le montant des droits acquis au titre du compte d'engagement citoyen ne peut excéder le plafond de 720 euros.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2021-1842 du 27 décembre 2021, ces dispositions sont applicables aux activités de réserviste civique réalisées à compter du 1er janvier 2021.
+Conformément au I de l’article 9 du décret n° 2023-1393 du 29 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024.

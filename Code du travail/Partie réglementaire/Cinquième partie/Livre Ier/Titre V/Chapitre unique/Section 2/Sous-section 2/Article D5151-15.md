@@ -1,6 +1,6 @@
 # Article D5151-15
 
-Le titulaire du compte personnel d'activité souhaitant acquérir des droits inscrits sur son compte personnel de formation au titre des activités mentionnées au 3° de l'article L. 5151-9, à l'exception des réservistes civiques thématiques mentionnées aux 3°, 4°, 8° et au 11° de l'article D. 5151-14, déclare à la Caisse des dépôts et consignations, au plus tard le 30 juin de chaque année, le nombre d'heures qu'il a réalisées au cours de l'année civile précédente en tant que réserviste civique participant à l'encadrement d'autres réservistes civiques, ou en tant que réserviste civique siégeant dans l'organe d'administration ou de direction d'un organisme sans but lucratif de droit français.
+Le titulaire du compte personnel d'activité souhaitant acquérir des droits inscrits sur son compte personnel de formation au titre des activités mentionnées au 3° de l'article L. 5151-9, à l'exception des réservistes civiques thématiques mentionnées aux 3°, 4°, 8°, 11° et au 12° de l'article D. 5151-14, déclare à la Caisse des dépôts et consignations, au plus tard le 30 juin de chaque année, le nombre d'heures qu'il a réalisées au cours de l'année civile précédente en tant que réserviste civique participant à l'encadrement d'autres réservistes civiques, ou en tant que réserviste civique siégeant dans l'organe d'administration ou de direction d'un organisme sans but lucratif de droit français.
 
 L'exactitude des données figurant dans la déclaration mentionnée au premier alinéa est attestée, auprès de la Caisse des dépôts et consignations, par l'une des personnes chargées de l'administration ou de la direction de l'organisme au sein duquel le réserviste civique effectue sa mission, au plus tard le 31 décembre de l'année au cours de laquelle la déclaration a été effectuée.
 
@@ -9,4 +9,4 @@ Les activités faisant l'objet d'une déclaration ou d'une attestation au-delà 
 La déclaration et sa transmission à l'une des personnes chargées de l'administration ou de la direction de l'organisme auprès duquel le réserviste civique réalise sa mission sont effectuées par l'usage du téléservice “ Le compte Bénévole ” mentionné à l'article R. 5151-19, l'attestation ainsi que la transmission des données à la Caisse des dépôts et consignations sont réalisées au moyen du téléservice “ Le Compte Asso ” mentionné au même article.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2021-1842 du 27 décembre 2021, ces dispositions sont applicables aux activités de réserviste civique réalisées à compter du 1er janvier 2021.
+Conformément au I de l’article 9 du décret n° 2023-1393 du 29 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024.

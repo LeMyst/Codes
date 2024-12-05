@@ -6,11 +6,11 @@ I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
 - atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 \[3° et 4°\], 222-19-1 et 222-20-1, 222-2 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1, 222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
-- trafic de stupéfiants (art. 222-36 \[1er alinéa\], 222-37 à 222-40) ;
+- trafic de stupéfiants (art. 222-36 [1er alinéa], 222-37 à 222-40) ;
 
 - entrave aux mesures d'assistance et omission de porter secours (art. 223-5 à 223-7) ;
 

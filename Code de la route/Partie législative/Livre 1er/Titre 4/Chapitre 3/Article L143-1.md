@@ -2,10 +2,10 @@
 
 I.-Sous réserve des adaptations prévues au II du présent article, les articles du présent code mentionnés dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| Dispositions applicables  | Dans leur rédaction résultant de  |
+| Dispositions applicables | Dans leur rédaction résultant de |
 | --- | --- |
-| Article L. 121-6  | la loi n° 2021-401 du 8 avril 2021 améliorant l'efficacité de la justice de proximité et de la réponse pénale  |
-| Article L. 130-9  | la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale  |
+| Article L. 121-6 | la loi n° 2021-401 du 8 avril 2021 améliorant l'efficacité de la justice de proximité et de la réponse pénale |
+| Article L. 130-9 | la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale |
 
 II.-Au deuxième alinéa de l'article L. 130-9, les mots : “ lorsqu'il a récupéré le nombre de points ayant été retirés de son permis de conduire ou ” sont supprimés.
 

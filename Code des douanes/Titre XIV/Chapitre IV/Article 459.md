@@ -10,6 +10,6 @@
 
 1. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225 000 euros toute personne qui aura incité par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non suivie d'effet.
 
-1. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2024-1096 QPC du 12 juin 2024.\]
+1. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2024-1096 QPC du 12 juin 2024.]
 
 1. Les tribunaux ordonneront, en outre, que leurs décisions portant condamnation seront, aux frais des personnes condamnées, insérées en entier ou par extraits dans les journaux qu'ils désigneront.

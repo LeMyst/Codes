@@ -12,28 +12,28 @@ A.-Pour les déchets réceptionnés dans une installation de stockage ou de trai
 
 a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-|  Désignation des installations de stockage de déchets non dangereux concernées |  Unité de perception |  Quotité (en euros) |
+| Désignation des installations de stockage de déchets non dangereux concernées | Unité de perception | Quotité (en euros) |
 | --- | --- | --- |
-|  2019 |  2020 |  2021 |  2022 |  2023 |  2024 |  A partir de 2025 |
-|  B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté |  tonne |  24 |  25 |  37 |  45 |  52 |  59 |  65 |
-|  C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du biogaz capté |  tonne |  34 |  35 |  47 |  53 |  58 |  61 |  65 |
-|  D.-Installations autorisées relevant à la fois des B et C |  tonne |  17 |  18 |  30 |  40 |  51 |  58 |  65 |
-|  E.-Autres installations autorisées |  tonne |  41 |  42 |  54 |  58 |  61 |  63 |  65 |
+| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
+| B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté | tonne | 24 | 25 | 37 | 45 | 52 | 59 | 65 |
+| C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du biogaz capté | tonne | 34 | 35 | 47 | 53 | 58 | 61 | 65 |
+| D.-Installations autorisées relevant à la fois des B et C | tonne | 17 | 18 | 30 | 40 | 51 | 58 | 65 |
+| E.-Autres installations autorisées | tonne | 41 | 42 | 54 | 58 | 61 | 63 | 65 |
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-|  Désignation des installations de traitement thermique de déchets non dangereux concernées |  Unité de perception |  Quotité (en euros) |
+| Désignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Quotité (en euros) |
 | --- | --- | --- |
-|  2019 |  2020 |  2021 |  2022 |  2023 |  2024 |  A partir de 2025 |
-|  A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité |  tonne |  12 |  12 |  17 |  18 |  20 |  22 |  25 |
-|  B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 |  tonne |  12 |  12 |  17 |  18 |  20 |  22 |  25 |
-|  C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 |  tonne |  9 |  9 |  14 |  14 |  14 |  14 |  15 |
-|  D.-Installations relevant à la fois des A et B |  tonne |  9 |  9 |  14 |  14 |  17 |  20 |  25 |
-|  E.-Installations relevant à la fois des A et C |  tonne |  6 |  6 |  11 |  12 |  13 |  14 |  15 |
-|  F.-Installations relevant à la fois des B et C |  tonne |  5 |  5 |  10 |  11 |  12 |  14 |  15 |
-|  G.-Installations relevant à la fois des A, B et C |  tonne |  3 |  3 |  8 |  11 |  12 |  14 |  15 |
-|  H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes |  tonne |  _ |  _ |  4 |  5,5 |  6 |  7 |  7,5 |
-|  I.-Autres installations autorisées |  tonne |  15 |  15 |  20 |  22 |  23 |  24 |  25 |
+| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
+| A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
+| B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
+| C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 9 | 9 | 14 | 14 | 14 | 14 | 15 |
+| D.-Installations relevant à la fois des A et B | tonne | 9 | 9 | 14 | 14 | 17 | 20 | 25 |
+| E.-Installations relevant à la fois des A et C | tonne | 6 | 6 | 11 | 12 | 13 | 14 | 15 |
+| F.-Installations relevant à la fois des B et C | tonne | 5 | 5 | 10 | 11 | 12 | 14 | 15 |
+| G.-Installations relevant à la fois des A, B et C | tonne | 3 | 3 | 8 | 11 | 12 | 14 | 15 |
+| H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | _ | _ | 4 | 5,5 | 6 | 7 | 7,5 |
+| I.-Autres installations autorisées | tonne | 15 | 15 | 20 | 22 | 23 | 24 | 25 |
 
 b bis) (Abrogé) ;
 
@@ -79,7 +79,7 @@ A bis.-Pour les déchets radioactifs métalliques mentionnés au c du 1 du I de 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MATIÈRES ou opérations imposables | UNITÉ DE PERCEPTION | QUOTITÉ (en euros) |
 | Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. | Tonne | 12,78 |

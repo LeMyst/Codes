@@ -18,7 +18,7 @@ Les dispositions relatives aux autres écoles ou instituts extérieurs au sens d
 
 8° Ecole nationale supérieure d'ingénieurs de Caen : décret n° 2017-135 du 6 février 2017 relatif à l'Ecole nationale supérieure d'ingénieurs de Caen ;
 
-9° Ecole nationale supérieure de mécanique et des microtechniques : décret n° 2018-285 du 18 avril 2018 relatif à l'Ecole nationale supérieure de mécanique et des microtechniques ;
+9° Ecole nationale supérieure de mécanique et des microtechniques : décret n° 2018-285 du 18 avril 2018 relatif à l'Ecole nationale supérieure de mécanique et des microtechniques, établissement-composante de l'Université Marie et Louis Pasteur ;
 
 10° Etablissement public à caractère scientifique, culturel et professionnel dénommé “ Université de Mayotte ” ;
 

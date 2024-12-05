@@ -1,4 +1,4 @@
-# Article  L635-2
+# Article L635-2
 
 Le troisième cycle des études de maïeutique est accessible aux étudiants ayant obtenu la validation du deuxième cycle des études de maïeutique.
 

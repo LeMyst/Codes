@@ -2,29 +2,29 @@
 
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-|  L. 441-1 |  Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|  L. 441-3 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 441-3-1 et L. 441-4 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|  L. 442-1 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 442-2 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-| L. 442-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 442-5, 1er, 2e, 4e et 5e alinéas | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|  L. 442-12, 1er, 2e et 3e alinéas | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-| L. 442-13 et L. 442-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 442-18 |  Résultant du décret n° 2006-1149 du 14 septembre 2006  |
-|  L. 442-20 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 444-1 et L. 444-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 444-3, 1er alinéa |  Résultant de l'ordonnance n° 2014-691 du 26 juin 2014  |
-|  L. 444-6 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|  L. 444-10 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000  |
-|  L. 445-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
-|  L. 471-1 et L. 471-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 471-3 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 471-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 471-5 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000  |
-|  L. 472-1 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
+| L. 441-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 441-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 441-3-1 et L. 441-4 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 442-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 442-2 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 442-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 442-5, 1er, 2e, 4e et 5e alinéas | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 442-12, 1er, 2e et 3e alinéas | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 442-13 et L. 442-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 442-18 | Résultant du décret n° 2006-1149 du 14 septembre 2006 |
+| L. 442-20 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 444-1 et L. 444-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 444-3, 1er alinéa | Résultant de l'ordonnance n° 2014-691 du 26 juin 2014 |
+| L. 444-6 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 444-10 | Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+| L. 445-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
+| L. 471-1 et L. 471-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 471-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 471-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 471-5 | Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+| L. 472-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 

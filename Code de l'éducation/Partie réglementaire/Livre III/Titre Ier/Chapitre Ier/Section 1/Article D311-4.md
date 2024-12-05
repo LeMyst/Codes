@@ -4,13 +4,13 @@ La nomenclature des spécialités de formation comporte trois niveaux, figurant 
 
 Une nomenclature plus fine est obtenue en croisant le troisième niveau de la nomenclature décrite au I avec les codes lettres figurant au II (code des champs d'application pour les domaines disciplinaires et code des fonctions pour les domaines technico-professionnels).
 
-|  |
+| |
 | --- |
 | I. - DOMAINES ET GROUPES DE SPÉCIALITÉS AUX NIVEAUX 4, 17 ET 93 |
 | Domaines codés sur 1 chiffre (niveau 4) ou 2 chiffres (niveau 17) Groupes (niveau 93) codés sur 3 chiffres |
 | 1. Domaines disciplinaires |
 | 10 Formations générales |
-| 100 | Formations générales.  |
+| 100 | Formations générales. |
 | 11 Mathématiques et sciences |
 | 110 | Spécialités pluriscientifiques. |
 | 111 | Physique-chimie. |
@@ -43,7 +43,7 @@ Une nomenclature plus fine est obtenue en croisant le troisième niveau de la no
 | 20 Spécialités pluritechnologiques de la production |
 | 200 | Technologies industrielles fondamentales (génie industriel et procédés de transformation, spécialités à dominante fonctionnelle). |
 | 201 | Technologies de commandes des transformations industrielles (automatismes et robotique industriels, informatique industrielle). |
-| 21 Agriculture, pêche, forêt et espaces verts  |
+| 21 Agriculture, pêche, forêt et espaces verts |
 | 210 | Spécialités plurivalentes de l'agronomie et de l'agriculture. |
 | 211 | Productions végétales, cultures spécialisées et protection des cultures (horticulture, viticulture, arboriculture fruitière...). |
 | 212 | Productions animales, élevage spécialisé, aquaculture, soins aux animaux (y compris vétérinaire). |
@@ -111,7 +111,7 @@ Une nomenclature plus fine est obtenue en croisant le troisième niveau de la no
 | 345 | Application des droits et statuts des personnes. |
 | 346 | Spécialités militaires. |
 | 4. Domaines du développement personnel |
-| 41 Domaines des capacités individuelles  |
+| 41 Domaines des capacités individuelles |
 | 410 | Spécialités concernant plusieurs capacités. |
 | 411 | Pratiques sportives (y compris arts martiaux). |
 | 412 | Développement des capacités mentales et apprentissage de base. |

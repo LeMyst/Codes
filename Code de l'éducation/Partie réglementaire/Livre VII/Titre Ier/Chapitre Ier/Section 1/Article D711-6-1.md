@@ -30,4 +30,6 @@ Le statut d'établissement public à caractère scientifique, culturel et profes
 
 17° Nîmes Université : décret n° 2024-842 du 16 juillet 2024 ;
 
-18° Université de Montpellier Paul-Valéry : décret n° 2024-840 du 16 juillet 2024.
+18° Université de Montpellier Paul-Valéry : décret n° 2024-840 du 16 juillet 2024 ;
+
+19° Université Marie et Louis Pasteur : décret n° 2024-1082 du 29 novembre 2024.

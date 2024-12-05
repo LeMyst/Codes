@@ -2,7 +2,7 @@
 
 Les universités de technologie relevant de l'article R. 715-9 sont les suivantes :
 
-1° Université de technologie de Belfort-Montbéliard ;
+1° Université de technologie de Belfort-Montbéliard, établissement-composante de l'Université Marie et Louis Pasteur ;
 
 2° Université de technologie de Compiègne ;
 

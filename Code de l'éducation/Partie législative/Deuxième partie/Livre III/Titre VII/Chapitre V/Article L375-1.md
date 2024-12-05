@@ -2,67 +2,67 @@
 
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-|  L. 311-1 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 311-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 311-3 et L. 311-3-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 311-4 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 311-7 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 312-1 |  Résultant de l'ordonnance n° 2006-596 du 23 mai 2006  |
-|  L. 312-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 312-3 |  Résultant de la loi n° 2003-339 du 14 avril 2003  |
-|  L. 312-4 et L. 312-5 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 312-6 et L. 312-7 |  Résultant de l'ordonnance n° 2010-462 du 6 mai 2010  |
-|  L. 312-9 |  Résultant de la loi n° 2024-449 du 21 mai 2024  |
-|  L. 312-9-1 |  Résultant de la loi n° 2005-102 du 11 février 2005  |
-|  L. 312-9-2 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 312-10 et L. 312-11 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 312-12 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 312-13, 1er alinéa |  Résultant de la loi n° 2015-990 du 6 août 2015  |
-|  L. 312-13-1 |  Résultant de la loi n° n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale |
-|  L. 312-13-2 |  Résultant de la loi n° 2019-1428 du 24 décembre 2019  |
-|  L. 312-14 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 312-15, 1er, 2e, 3e, 5e, 6e et 7e alinéas |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 312-16 |  Résultant de la loi n° 2016-444 du 13 avril 2016  |
-|  L. 312-17 |  Résultant de la loi n° 2004-806 du 9 août 2004  |
-|  L. 312-17-1 |  Résultant de la loi n° 2010-769 du 9 juillet 2010  |
-|  L. 312-17-1-1 |  Résultant de la loi n° 2016-444 du 13 avril 2016  |
-|  L. 312-17-2 |  Résultant de la loi n° 2011-814 du 7 juillet 2011  |
-|  L. 312-17-3 |  Résultant de la loi n° 2018-938 du 30 octobre 2018  |
-|  L. 312-18 |  Résultant de la loi n° 2004-806 du 9 août 2004  |
-|  L. 312-19 |  Résultant de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets |
-|  L. 313-1 |  Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
-|  L. 313-2 et L. 313-3 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 313-6 |  Résultant de la loi n° 2018-771 du 5 septembre 2018  |
-|  L. 321-2 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 321-3 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 321-4 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 331-1 |  Résultant de la loi n° 2005-380 du 23 avril 2005  |
-|  L. 331-2 |  Résultant de l'ordonnance n° 2010-462 du 6 mai 2010  |
-|  L. 331-3 et L. 331-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 331-7 |  Résultant de la loi n° 2018-771 du 5 septembre 2018  |
-|  L. 331-8 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 332-2 et L. 332-3 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 332-3-1 |  Résultant de la loi n° 2018-771 du 5 septembre 2018  |
-|  L. 332-3-2 |  Résultant de la loi n° 2017-86 du 27 janvier 2017  |
-|  L. 332-4 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 332-5 |  Résultant de la loi n° 2018-1202 du 22 décembre 2018  |
-|  L. 332-6 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 333-1 et L. 333-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 333-4 et L. 334-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013  |
-|  L. 335-1 |  Résultant de la loi n° 2019-791 du 26 juillet 2019  |
-|  L. 335-2 à L. 335-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 335-5 |  Résultant de la loi n° 2016-1088 du 8 août 2016  |
-|  L. 335-7 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 335-8, 1er et 2e alinéas |  Résultant de l'ordonnance n° 2004-637 du 1er juillet 2004  |
-|  L. 335-9 à L. 335-11 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 335-12 |  Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008  |
-|  L. 335-13 à L. 335-15 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 335-16 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000  |
-|  L. 335-17 |  Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008  |
-|  L. 336-1 et L. 336-2, L. 337-1 et L. 337-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000  |
-|  L. 341-1 |  Résultant de la loi n° 2014-288 du 5 mars 2014  |
+| L. 311-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 311-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 311-3 et L. 311-3-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 311-4 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 311-7 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 312-1 | Résultant de l'ordonnance n° 2006-596 du 23 mai 2006 |
+| L. 312-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 312-3 | Résultant de la loi n° 2003-339 du 14 avril 2003 |
+| L. 312-4 et L. 312-5 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 312-6 et L. 312-7 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
+| L. 312-9 | Résultant de la loi n° 2024-449 du 21 mai 2024 |
+| L. 312-9-1 | Résultant de la loi n° 2005-102 du 11 février 2005 |
+| L. 312-9-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 312-10 et L. 312-11 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 312-12 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 312-13, 1er alinéa | Résultant de la loi n° 2015-990 du 6 août 2015 |
+| L. 312-13-1 | Résultant de la loi n° n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale |
+| L. 312-13-2 | Résultant de la loi n° 2019-1428 du 24 décembre 2019 |
+| L. 312-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 312-15, 1er, 2e, 3e, 5e, 6e et 7e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 312-16 | Résultant de la loi n° 2016-444 du 13 avril 2016 |
+| L. 312-17 | Résultant de la loi n° 2004-806 du 9 août 2004 |
+| L. 312-17-1 | Résultant de la loi n° 2010-769 du 9 juillet 2010 |
+| L. 312-17-1-1 | Résultant de la loi n° 2016-444 du 13 avril 2016 |
+| L. 312-17-2 | Résultant de la loi n° 2011-814 du 7 juillet 2011 |
+| L. 312-17-3 | Résultant de la loi n° 2018-938 du 30 octobre 2018 |
+| L. 312-18 | Résultant de la loi n° 2004-806 du 9 août 2004 |
+| L. 312-19 | Résultant de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets |
+| L. 313-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
+| L. 313-2 et L. 313-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 313-6 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+| L. 321-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 321-3 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 321-4 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 331-1 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
+| L. 331-2 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
+| L. 331-3 et L. 331-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 331-7 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+| L. 331-8 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 332-2 et L. 332-3 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 332-3-1 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+| L. 332-3-2 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
+| L. 332-4 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 332-5 | Résultant de la loi n° 2018-1202 du 22 décembre 2018 |
+| L. 332-6 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 333-1 et L. 333-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 333-4 et L. 334-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 335-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 335-2 à L. 335-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 335-5 | Résultant de la loi n° 2016-1088 du 8 août 2016 |
+| L. 335-7 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 335-8, 1er et 2e alinéas | Résultant de l'ordonnance n° 2004-637 du 1er juillet 2004 |
+| L. 335-9 à L. 335-11 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 335-12 | Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
+| L. 335-13 à L. 335-15 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 335-16 | Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+| L. 335-17 | Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
+| L. 336-1 et L. 336-2, L. 337-1 et L. 337-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 341-1 | Résultant de la loi n° 2014-288 du 5 mars 2014 |
 
 II.-Pour l'application du I :
 

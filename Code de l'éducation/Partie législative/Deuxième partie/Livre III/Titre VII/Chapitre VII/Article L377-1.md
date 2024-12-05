@@ -2,26 +2,26 @@
 
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-|  L. 311-2 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|  L. 311-3 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-|  L. 311-4 ; L. 312-4, 3e alinéa |  Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-|  L. 312-9-1 |  Résultant de la loi n° 2005-102 du 11 février 2005 |
-|  L. 312-12 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|  L. 312-13, 1er alinéa |  Résultant de la loi n° 2015-990 du 6 août 2015 |
-|  L. 312-14 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|  L. 313-6 |  Résultant de la loi n° 2018-771 du 5 septembre 2018 |
-|  L. 331-1 |  Résultant de la loi n° 2005-380 du 23 avril 2005 |
-|  L. 331-2 |  Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
-|  L. 331-3 et L. 331-4 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|  L. 332-6, 1er, 2e et 4e alinéas, L. 333-4 et L. 334-1 |  Résultant de la loi n° 2013-595 du 8 juillet 2013 |
-|  L. 335-5 |  Résultant de la loi n° 2016-1088 du 8 août 2016 |
-|  L. 335-8, 1er alinéa |  Résultant de l'ordonnance n° 2004-637 du 1 juillet 2004 |
-|  L. 335-9 à L. 335-11 ; L. 335-14 |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-|  L. 335-16 |  Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
-|  L. 335-17 |  Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
-|  L. 336-2 ; L. 337-1, 3e et 4e alinéas |  Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 311-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 311-3 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 311-4 ; L. 312-4, 3e alinéa | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 312-9-1 | Résultant de la loi n° 2005-102 du 11 février 2005 |
+| L. 312-12 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 312-13, 1er alinéa | Résultant de la loi n° 2015-990 du 6 août 2015 |
+| L. 312-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 313-6 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
+| L. 331-1 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
+| L. 331-2 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
+| L. 331-3 et L. 331-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 332-6, 1er, 2e et 4e alinéas, L. 333-4 et L. 334-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 335-5 | Résultant de la loi n° 2016-1088 du 8 août 2016 |
+| L. 335-8, 1er alinéa | Résultant de l'ordonnance n° 2004-637 du 1 juillet 2004 |
+| L. 335-9 à L. 335-11 ; L. 335-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 335-16 | Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
+| L. 335-17 | Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
+| L. 336-2 ; L. 337-1, 3e et 4e alinéas | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 

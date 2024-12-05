@@ -12,19 +12,19 @@ III. – La taxe est due à raison des plus-values imposables d'un montant supé
 
 (En euros)
 
-|  |  |
+| | |
 | --- | --- |
 | MONTANT DE LA PLUS-VALUE IMPOSABLE | MONTANT DE LA TAXE |
-| De 50 001 à 60 000 |  2 % PV-(60 000-PV) × 1/ 20De |
-| 60 001 à 100 000 |  2 % PVDe |
-| 100 001 à 110 000 |  3 % PV-(110 000-PV) × 1/ 10De |
-| 110 001 à 150 000 |  3 % PVDe |
-| 150 001 à 160 000 |  4 % PV-(160 000-PV) × 15/ 100De |
-| 160 001 à 200 000 |  4 % PVDe |
-| 200 001 à 210 000 |  5 % PV-(210 000-PV) × 20/ 100De |
-| 210 001 à 250 000 |  5 % PVDe |
-| 250 001 à 260 000 |  6 % PV-(260 000-PV) × 25/ 100Supérieur |
-| à 260 000 |  6 % PV |
+| De 50 001 à 60 000 | 2 % PV-(60 000-PV) × 1/ 20De |
+| 60 001 à 100 000 | 2 % PVDe |
+| 100 001 à 110 000 | 3 % PV-(110 000-PV) × 1/ 10De |
+| 110 001 à 150 000 | 3 % PVDe |
+| 150 001 à 160 000 | 4 % PV-(160 000-PV) × 15/ 100De |
+| 160 001 à 200 000 | 4 % PVDe |
+| 200 001 à 210 000 | 5 % PV-(210 000-PV) × 20/ 100De |
+| 210 001 à 250 000 | 5 % PVDe |
+| 250 001 à 260 000 | 6 % PV-(260 000-PV) × 25/ 100Supérieur |
+| à 260 000 | 6 % PV |
 | (PV = montant de la plus-value imposable) |
 
 IV. – Une déclaration, conforme à un modèle établi par l'administration, retrace les éléments servant à la liquidation de la taxe. Elle est déposée dans les conditions prévues aux 1°, 2° et 4° du I et au II de l'article 150 VG.

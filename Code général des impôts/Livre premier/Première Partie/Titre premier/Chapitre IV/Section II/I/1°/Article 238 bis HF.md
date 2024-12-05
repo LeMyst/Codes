@@ -13,4 +13,4 @@ De tout document ou programme audiovisuel ne comportant qu'accessoirement des é
 Toutefois, dans la limite de 20 % des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même article peut être délivré aux œuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi dans un Etat partie à la convention mentionnée au premier alinéa du présent article ou à un accord intergouvernemental de coproduction auquel la France est partie.
 
 NOTA:
-Modifications effectuées en conséquence des articles 2, 3, 2e alinéa et 9 \[14°\] de l'ordonnance n° 2009-901 du 24 juillet 2009.
+Modifications effectuées en conséquence des articles 2, 3, 2e alinéa et 9 [14°] de l'ordonnance n° 2009-901 du 24 juillet 2009.

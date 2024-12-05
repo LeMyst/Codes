@@ -7,4 +7,4 @@ II. – Si, pendant la durée du prêt, et tant que celui-ci n'est pas intégral
 III. – Si, pendant la durée du prêt, et tant que celui-ci n'est pas intégralement remboursé, les conditions de son maintien mentionnées à l'article L. 31-10-6 du code de la construction et de l'habitation ne sont plus respectées ou en cas de remboursement anticipé du prêt, les fractions de crédit d'impôt restant à imputer ne peuvent plus être utilisées par l'établissement de crédit ou la société de financement. En cas d'absence de déclaration spontanée, dans un délai fixé par décret, de ces événements par l'établissement ou la société à la société de gestion mentionnée à l'article L. 31-10-14 du même code, l'établissement de crédit ou la société de financement reverse par ailleurs une somme égale à 40 % du montant des fractions de crédit d'impôt restant à imputer.
 
 NOTA:
-Modifications effectuées en conséquence des articles 8 \[14°\] et 36 de l'ordonnance n° 2013-544 du 27 juin 2013
+Modifications effectuées en conséquence des articles 8 [14°] et 36 de l'ordonnance n° 2013-544 du 27 juin 2013

@@ -2,22 +2,22 @@
 
 I. Le nombre de parts à prendre en considération pour la division du revenu imposable prévue à l'article 193 est déterminé conformément aux dispositions suivantes :
 
-|  |  |
+| | |
 | --- | --- |
-| SITUATION DE FAMILLE  | NOMBRE DE PARTS  |
-| Célibataire, divorcé ou veuf sans enfant à charge  | 1  |
-| Marié sans enfant à charge  | 2  |
-| Célibataire ou divorcé ayant un enfant à charge  | 1,5  |
-| Marié ou veuf ayant un enfant à charge  | 2,5  |
-| Célibataire ou divorcé ayant deux enfants à charge  | 2  |
-| Marié ou veuf ayant deux enfants à charge  | 3  |
-| Célibataire ou divorcé ayant trois enfants à charge  | 3  |
-| Marié ou veuf ayant trois enfants à charge  | 4  |
-| Célibataire ou divorcé ayant quatre enfants à charge  | 4  |
-| Marié ou veuf ayant quatre enfants à charge  | 5  |
-| Célibataire ou divorcé ayant cinq enfants à charge  | 5  |
-| Marié ou veuf ayant cinq enfants à charge  | 6  |
-| Célibataire ou divorcé ayant six enfants à charge  | 6  |
+| SITUATION DE FAMILLE | NOMBRE DE PARTS |
+| Célibataire, divorcé ou veuf sans enfant à charge | 1 |
+| Marié sans enfant à charge | 2 |
+| Célibataire ou divorcé ayant un enfant à charge | 1,5 |
+| Marié ou veuf ayant un enfant à charge | 2,5 |
+| Célibataire ou divorcé ayant deux enfants à charge | 2 |
+| Marié ou veuf ayant deux enfants à charge | 3 |
+| Célibataire ou divorcé ayant trois enfants à charge | 3 |
+| Marié ou veuf ayant trois enfants à charge | 4 |
+| Célibataire ou divorcé ayant quatre enfants à charge | 4 |
+| Marié ou veuf ayant quatre enfants à charge | 5 |
+| Célibataire ou divorcé ayant cinq enfants à charge | 5 |
+| Marié ou veuf ayant cinq enfants à charge | 6 |
+| Célibataire ou divorcé ayant six enfants à charge | 6 |
 
 et ainsi de suite, en augmentant d'une part par enfant à charge du contribuable.
 

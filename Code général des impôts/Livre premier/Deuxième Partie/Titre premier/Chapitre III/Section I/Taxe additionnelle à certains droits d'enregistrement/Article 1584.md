@@ -14,13 +14,13 @@
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 %. Le taux est fixé à 0,40 % pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte passé ou une convention conclue à compter du 10 mai 1993, les taux de la taxe sont fixés à :
 
-|  |  |
+| | |
 | --- | --- |
-| FRACTION DE LA VALEUR TAXABLE  | TARIF APPLICABLE  |
-|  | (%)  |
-| N'excédant pas 23 000 €  | 0  |
-| Comprise entre 23 000 € et 107 000 €  | 0,40  |
-| Supérieure à 107 000 €  | 1  |
+| FRACTION DE LA VALEUR TAXABLE | TARIF APPLICABLE |
+| | (%) |
+| N'excédant pas 23 000 € | 0 |
+| Comprise entre 23 000 € et 107 000 € | 0,40 |
+| Supérieure à 107 000 € | 1 |
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe auxquels elle s'ajoute.
 

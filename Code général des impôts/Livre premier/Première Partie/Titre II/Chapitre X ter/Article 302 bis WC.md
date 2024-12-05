@@ -33,4 +33,4 @@ Les réclamations sont présentées, instruites et jugées selon les règles app
 IV. – Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 NOTA:
-Modifications effectuées en conséquence de l'article 90-I F \[2°\] de la loi n° 2009-1674 du 30 décembre 2009.
+Modifications effectuées en conséquence de l'article 90-I F [2°] de la loi n° 2009-1674 du 30 décembre 2009.

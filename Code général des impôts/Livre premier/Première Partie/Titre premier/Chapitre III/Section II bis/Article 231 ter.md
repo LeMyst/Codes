@@ -64,34 +64,34 @@ a) Pour les locaux à usage de bureaux :
 
 (en euros)
 
-|  1re CIRCONSCRIPTION |  2e CIRCONSCRIPTION |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
+| 1re CIRCONSCRIPTION | 2e CIRCONSCRIPTION | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- | --- |
-|  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |  Tarif normal |  Tarif réduit |
-|  25,31 € |  12,58 € |  21,31 € |  10,59 € |  11,66 € |  7,02 € |  5,63 € |  5,09 € |
+| Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit |
+| 25,31 € | 12,58 € | 21,31 € | 10,59 € | 11,66 € | 7,02 € | 5,63 € | 5,09 € |
 
 b) Pour les locaux commerciaux :
 
 (en euros)
 
-|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
+| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-|  8,68 € |  4,51 € |  2,30 € |
+| 8,68 € | 4,51 € | 2,30 € |
 
 c) Pour les locaux de stockage :
 
 (en euros)
 
-|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
+| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-|  4,53 € |  2,30 € |  1,18 € |
+| 4,53 € | 2,30 € | 1,18 € |
 
 d) Pour les surfaces de stationnement :
 
 (en euros)
 
-|  1re et 2e CIRCONSCRIPTIONS |  3e CIRCONSCRIPTION |  4e CIRCONSCRIPTION |
+| 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-|  2,86 € |  1,55 € |  0,81 € |
+| 2,86 € | 1,55 € | 0,81 € |
 
 e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 

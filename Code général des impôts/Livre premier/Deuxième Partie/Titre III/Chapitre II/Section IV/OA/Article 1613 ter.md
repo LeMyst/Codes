@@ -20,23 +20,23 @@ La contribution est exigible lors de cette livraison.
 
 II. - Le tarif de la contribution mentionnée au I est le suivant :
 
-|  QUANTITÉ DE SUCRE (en kg de sucres ajoutés par hl de boisson) |  TARIF APPLICABLE (en euros par hl de boisson) |
+| QUANTITÉ DE SUCRE (en kg de sucres ajoutés par hl de boisson) | TARIF APPLICABLE (en euros par hl de boisson) |
 | --- | --- |
-|  Inférieure ou égale à 1 |  3,34 |
-|  2 |  3,90 |
-|  3 |  4,44 |
-|  4 |  4,99 |
-|  5 |  6,11 |
-|  6 |  7,22 |
-|  7 |  8,33 |
-|  8 |  10,55 |
-|  9 |  12,77 |
-|  10 |  14,98 |
-|  11 |  17,21 |
-|  12 |  19,43 |
-|  13 |  21,65 |
-|  14 |  23,87 |
-|  15 |  26,09 |
+| Inférieure ou égale à 1 | 3,34 |
+| 2 | 3,90 |
+| 3 | 4,44 |
+| 4 | 4,99 |
+| 5 | 6,11 |
+| 6 | 7,22 |
+| 7 | 8,33 |
+| 8 | 10,55 |
+| 9 | 12,77 |
+| 10 | 14,98 |
+| 11 | 17,21 |
+| 12 | 19,43 |
+| 13 | 21,65 |
+| 14 | 23,87 |
+| 15 | 26,09 |
 
 Au-delà de quinze kilogrammes de sucres ajoutés par hectolitre de boisson, le tarif applicable par kilogramme supplémentaire est fixé à 2,21 € par hectolitre de boisson.
 

@@ -48,13 +48,13 @@ d) Les logements et les travaux font l'objet d'une décision d'agrément délivr
 
 II.-Les taux réduits prévus au I sont égaux à :
 
-|  Travaux concernés |  Subdivision du présent article |  Taux |
+| Travaux concernés | Subdivision du présent article | Taux |
 | --- | --- | --- |
-|  Travaux dans le cadre d'une opération d'acquisition-amélioration sous certaines conditions de financement |  2° du I |  5,5 % |
-|  Autres travaux portant sur des logements locatifs sociaux situés dans les quartiers relevant de la politique de renouvellement urbain |  a du 3° du I |  5,5 % |
-|  Travaux portant sur les autres logements locatifs sociaux |  b du 3° du I |  10 % |
-|  Travaux portant sur les logements faisant l'objet d'un contrat de location-accession ou sur les locaux relevant du secteur social et médico-social |  c du 3° du I |  10 % |
-|  Travaux de démolition portant sur des logements locatifs sociaux situés dans les quartiers relevant de la politique de renouvellement urbain |  4° du I |  5,5 % |
+| Travaux dans le cadre d'une opération d'acquisition-amélioration sous certaines conditions de financement | 2° du I | 5,5 % |
+| Autres travaux portant sur des logements locatifs sociaux situés dans les quartiers relevant de la politique de renouvellement urbain | a du 3° du I | 5,5 % |
+| Travaux portant sur les autres logements locatifs sociaux | b du 3° du I | 10 % |
+| Travaux portant sur les logements faisant l'objet d'un contrat de location-accession ou sur les locaux relevant du secteur social et médico-social | c du 3° du I | 10 % |
+| Travaux de démolition portant sur des logements locatifs sociaux situés dans les quartiers relevant de la politique de renouvellement urbain | 4° du I | 5,5 % |
 | Travaux réalisés dans le cadre d'un bail réel solidaire | 5° du I | 5,5 % |
 | Travaux lourds d'amélioration de la qualité énergétique des logements locatifs sociaux d'au moins quarante ans | 6° du I | 5,5 % |
 

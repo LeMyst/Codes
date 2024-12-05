@@ -42,7 +42,7 @@ b) Et, d'autre part :
 
 – les services extérieurs diminués des rabais, remises et ristournes obtenus, à l'exception des loyers ou redevances afférents aux biens corporels pris en location ou en sous-location pour une durée de plus de six mois ou en crédit-bail ainsi que les redevances afférentes à ces biens lorsqu'elles résultent d'une convention de location-gérance ; toutefois, lorsque les biens pris en location par le redevable sont donnés en sous-location pour une durée de plus de six mois, les loyers sont retenus à concurrence du produit de cette sous-location ;
 
-– les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les produits énergétiques \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009\] ;
+– les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
 
 – les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
 

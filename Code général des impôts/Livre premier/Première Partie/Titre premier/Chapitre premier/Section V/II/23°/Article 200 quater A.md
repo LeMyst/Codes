@@ -25,14 +25,14 @@ d. Les dépenses mentionnées au a du présent 1 ouvrent droit au crédit d'imp�
 1° Supérieurs aux seuils annuels suivants :\
 (En euros.)
 
-|  Nombre de personnes composant le ménage |  Ile-de-France |  Autres régions |
+| Nombre de personnes composant le ménage | Ile-de-France | Autres régions |
 | --- | --- | --- |
-|  1 |  28 657 |  21 805 |
-|  2 |  42 058 |  31 889 |
-|  3 |  50 513 |  38 349 |
-|  4 |  58 981 |  44 802 |
-|  5 |  67 473 |  51 281 |
-|  Par personne supplémentaire |  8 486 |  6 462 |
+| 1 | 28 657 | 21 805 |
+| 2 | 42 058 | 31 889 |
+| 3 | 50 513 | 38 349 |
+| 4 | 58 981 | 44 802 |
+| 5 | 67 473 | 51 281 |
+| Par personne supplémentaire | 8 486 | 6 462 |
 
 Par dérogation, lorsque les revenus du ménage au titre de l'avant-dernière année précédant celle du paiement de la dépense, appréciés dans les conditions prévues au même IV, sont inférieurs ou égaux à ces seuils, il y a lieu de retenir ceux de l'année précédant celle du paiement de la dépense ;
 

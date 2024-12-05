@@ -2,14 +2,14 @@
 
 I. – 1. Les redevables de la cotisation foncière des entreprises sont assujettis à une cotisation minimum établie au lieu de leur principal établissement ; cette cotisation est établie à partir d'une base dont le montant est fixé par le conseil municipal selon le barème suivant :
 
-|  MONTANT DU CHIFFRE D'AFFAIRES ou des recettes (en euros) |  MONTANT DE LA BASE minimum (en euros) |
+| MONTANT DU CHIFFRE D'AFFAIRES ou des recettes (en euros) | MONTANT DE LA BASE minimum (en euros) |
 | --- | --- |
-|  Inférieur ou égal à 10 000 |  Entre 243 et 579 |
-|  Supérieur à 10 000 et inférieur ou égal à 32 600 |  Entre 243 et 1 158 |
-|  Supérieur à 32 600 et inférieur ou égal à 100 000 |  Entre 243 et 2 433 |
-|  Supérieur à 100 000 et inférieur ou égal à 250 000 |  Entre 243 et 4 056 |
-|  Supérieur à 250 000 et inférieur ou égal à 500 000 |  Entre 243 et 5 793 |
-|  Supérieur à 500 000 |  Entre 243 et 7 533 |
+| Inférieur ou égal à 10 000 | Entre 243 et 579 |
+| Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 243 et 1 158 |
+| Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 243 et 2 433 |
+| Supérieur à 100 000 et inférieur ou égal à 250 000 | Entre 243 et 4 056 |
+| Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 243 et 5 793 |
+| Supérieur à 500 000 | Entre 243 et 7 533 |
 
 Toutefois, les redevables réalisant un montant de chiffre d'affaires ou de recettes inférieur ou égal à 5 000 € sont exonérés de la cotisation minimum. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 

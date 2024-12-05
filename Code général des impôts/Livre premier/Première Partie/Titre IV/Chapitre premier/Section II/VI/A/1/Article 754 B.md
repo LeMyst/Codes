@@ -5,4 +5,4 @@ I. - Conformément aux dispositions du IV de l'article L. 212-3 du code monétai
 II. - Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des dispositions des articles L. 211-3 et L. 211-7 du code monétaire et financier, les gérants, le président du conseil d'administration ou du directoire des sociétés émettrices, sont présumés, sauf preuve contraire, être les propriétaires des titres financiers non présentés pour inscription en compte ou qui n'auraient pas été vendus dans les conditions prévues au second alinéa de l'article L. 211-13 du code précité.
 
 NOTA:
-Modifications effectuées en conséquence de l'article L212-3 du code monétaire et financier et de l'article 8 \[10°\] de l'ordonnance n° 2009-15 du 8 janvier 2009.
+Modifications effectuées en conséquence de l'article L212-3 du code monétaire et financier et de l'article 8 [10°] de l'ordonnance n° 2009-15 du 8 janvier 2009.

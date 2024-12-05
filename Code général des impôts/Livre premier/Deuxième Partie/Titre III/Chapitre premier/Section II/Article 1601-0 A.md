@@ -4,10 +4,10 @@ Par dérogation aux a et b de l'article 1601, les droits correspondants dus par 
 
 (en pourcentage)
 
-|  |  Hors départements du Bas-Rhin, du Haut-Rhin et de la Moselle |  Départements du Bas-Rhin et du Haut-Rhin |  Département de la Moselle |
+| | Hors départements du Bas-Rhin, du Haut-Rhin et de la Moselle | Départements du Bas-Rhin et du Haut-Rhin | Département de la Moselle |
 | --- | --- | --- | --- |
-|  Prestation de services |  0,48 |  0,65 |  0,83 |
-|  Achat-vente |  0,22 |  0,29 |  0,37 |
+| Prestation de services | 0,48 | 0,65 | 0,83 |
+| Achat-vente | 0,22 | 0,29 | 0,37 |
 
 Toutefois, ces droits ne sont pas dus par les redevables de la cotisation foncière des entreprises qui bénéficient de l'exonération de cotisation minimum prévue au troisième alinéa du 1 du I de l'article 1647 D. Le bénéfice de cette exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 

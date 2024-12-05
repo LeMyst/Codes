@@ -14,10 +14,10 @@ Il est perçu au profit d'un fonds de péréquation départemental, dans toutes 
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 %. Pour les mutations mentionnées aux 3°, 4° et 5°, les taux de la taxe sont fixés à : Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte passé ou une convention conclue à compter du 1er janvier 2002, les taux de la taxe sont fixés à :
 
-|  |  |
+| | |
 | --- | --- |
 | FRACTION DE LA VALEUR TAXABLE | TARIF APPLICABLE |
-|  | % |
+| | % |
 | N'excédant pas 23 000 € | 0 |
 | Comprise entre 23 000 € et 107 000 € | 0,40 |
 | Supérieure à 107 000 € | 1,00 |

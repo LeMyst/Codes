@@ -58,7 +58,7 @@ III bis. – 1. Les plus-values réalisées par les personnes et organismes ment
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %.
 
-2. \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-708 DC du 29 décembre 2014\].
+2. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-708 DC du 29 décembre 2014].
 
 IV. – L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant établi en France, accrédité par l'administration fiscale.
 

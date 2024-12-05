@@ -88,7 +88,7 @@ Article 10
 
 Le responsable (ou les responsables) des forces de sécurité de l'Etat et les responsables des services de police municipale des communes membres de l'établissement public de coopération intercommunale, ou leurs représentants, se réunissent périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité publics dans chacune des communes membres de l'établissement public de coopération intercommunale, en vue de l'organisation matérielle des missions prévues par la présente convention. L'ordre du jour de ces réunions est adressé au procureur (ou aux procureurs) de la République qui y participe (nt) ou s'y fait (font) représenter s'il (s) l'estime (nt) nécessaire. Lors de ces réunions, il sera systématiquement fait un état des résultats enregistrés en matière de sécurité routière.
 
-Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres modalités, en particulier celles relatives à l'information ou à la participation des maires et du représentant \[ou des représentants\] de l'Etat) :
+Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres modalités, en particulier celles relatives à l'information ou à la participation des maires et du représentant [ou des représentants] de l'Etat) :
 
 ...
 
@@ -150,7 +150,7 @@ Cette stratégie de contrôle s'attache également à définir de manière conjo
 
 Article 17
 
-Compte tenu du bilan établi par le diagnostic local de sécurité et des compétences respectives des forces de sécurité de l'Etat et de la police municipale, le maire (ou les maires) de... précise (nt) qu'il (s) souhaite (nt) renforcer l'action de la police municipale par les moyens suivants (Liste des unités et moyens spécialisés de la police municipale \[ex. : brigade cynophile, brigade à cheval...\]).
+Compte tenu du bilan établi par le diagnostic local de sécurité et des compétences respectives des forces de sécurité de l'Etat et de la police municipale, le maire (ou les maires) de... précise (nt) qu'il (s) souhaite (nt) renforcer l'action de la police municipale par les moyens suivants (Liste des unités et moyens spécialisés de la police municipale [ex. : brigade cynophile, brigade à cheval...]).
 
 Article 18
 

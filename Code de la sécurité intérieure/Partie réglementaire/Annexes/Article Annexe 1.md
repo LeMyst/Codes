@@ -143,7 +143,7 @@ Cette stratégie de contrôle s'attache également à définir de manière conjo
 
 Article 17
 
-Compte tenu du diagnostic local de sécurité et des compétences respectives des forces de sécurité de l'Etat et de la police municipale, le maire de... précise qu'il souhaite renforcer l'action de la police municipale par les moyens suivants (liste des unités et moyens spécialisés de la police municipale \[ex. : brigade cynophile, brigade à cheval...\]).
+Compte tenu du diagnostic local de sécurité et des compétences respectives des forces de sécurité de l'Etat et de la police municipale, le maire de... précise qu'il souhaite renforcer l'action de la police municipale par les moyens suivants (liste des unités et moyens spécialisés de la police municipale [ex. : brigade cynophile, brigade à cheval...]).
 
 Article 18
 

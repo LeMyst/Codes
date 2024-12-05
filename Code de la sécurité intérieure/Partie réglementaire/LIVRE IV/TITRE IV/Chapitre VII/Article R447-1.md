@@ -2,10 +2,10 @@
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-|  |  |
+| | |
 | --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| Au titre Ier |  |
+| Au titre Ier | |
 | R. 411-1 à R. 411-7 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 411-8 et R. 411-8-1 | Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des adjoints de sécurité |
 | R. 411-9 | Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour l'administration du ministère de l'intérieur |
@@ -30,7 +30,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | R. 413-21 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 413-22 à R. 413-26 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | Le titre II | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| Le titre III |  |
+| Le titre III | |
 | R. 431-1 à R. 431-7 | Résultant du décret n° 2013-1113 |
 | R. 431-8 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 434-1 à R. 434-33 | Résultant du décret n° 2013-1113 |

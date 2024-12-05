@@ -352,4 +352,4 @@ c) Il est ajouté un 4° ainsi rédigé :
 
 60° A l'article R. 317-12, le 3° est supprimé.
 
-\[...\]
+[...]

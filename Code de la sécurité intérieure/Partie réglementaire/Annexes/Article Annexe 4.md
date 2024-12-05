@@ -14,11 +14,11 @@ Article 1er
 
 Objet de la convention
 
-Cette convention a pour objet de définir, pour une durée déterminée, les obligations et droits réciproques de l'armateur et de la personne morale qualifiée en matière d'exploitation de jeux de hasard, conformément à l' article L. 321-3 du code de la sécurité intérieure \[dans ses dispositions applicables à Wallis-et-Futuna\].
+Cette convention a pour objet de définir, pour une durée déterminée, les obligations et droits réciproques de l'armateur et de la personne morale qualifiée en matière d'exploitation de jeux de hasard, conformément à l' article L. 321-3 du code de la sécurité intérieure [dans ses dispositions applicables à Wallis-et-Futuna].
 
-Dans ce cadre, les parties s'engagent notamment à respecter les dispositions du code de la sécurité intérieure, du code monétaire et financier, du code des transports dont sa cinquième partie relative aux transports et à la navigation maritimes \[applicables à Wallis-et-Futuna\], de la loi du 17 décembre 1926 relative à la répression en matière maritime ainsi que tous les textes d'application y afférents.
+Dans ce cadre, les parties s'engagent notamment à respecter les dispositions du code de la sécurité intérieure, du code monétaire et financier, du code des transports dont sa cinquième partie relative aux transports et à la navigation maritimes [applicables à Wallis-et-Futuna], de la loi du 17 décembre 1926 relative à la répression en matière maritime ainsi que tous les textes d'application y afférents.
 
-L'exploitation du casino à bord du navire est subordonnée à l'obtention d'une autorisation temporaire d'exploiter les jeux par le ministre de l'intérieur après avis de la commission consultative des jeux de cercles et de casinos conformément au chapitre Ier du titre II du livre III du code de la sécurité intérieure \[dans ses dispositions applicables à Wallis-et-Futuna\].
+L'exploitation du casino à bord du navire est subordonnée à l'obtention d'une autorisation temporaire d'exploiter les jeux par le ministre de l'intérieur après avis de la commission consultative des jeux de cercles et de casinos conformément au chapitre Ier du titre II du livre III du code de la sécurité intérieure [dans ses dispositions applicables à Wallis-et-Futuna].
 
 Chapitre Ier : Fonctionnement des jeux
 
@@ -46,13 +46,13 @@ Offre de jeux dans l'établissement
 
 L'établissement propose aux passagers une offre de jeux conforme à la réglementation française en vigueur.
 
-L'exploitation de ces jeux est placée sous la responsabilité du représentant de l'exploitant \[directeur responsable des jeux/ représentant légal de la société exploitant le casino\] et ne peut faire l'objet d'aucune délégation à un tiers.
+L'exploitation de ces jeux est placée sous la responsabilité du représentant de l'exploitant [directeur responsable des jeux/ représentant légal de la société exploitant le casino] et ne peut faire l'objet d'aucune délégation à un tiers.
 
 Article 5
 
 Période de fonctionnement des jeux et fermeture quotidienne obligatoire
 
-L'établissement ne peut être ouvert que \[dans les eaux internationales/ hors des limites administratives des ports maritimes\].
+L'établissement ne peut être ouvert que [dans les eaux internationales/ hors des limites administratives des ports maritimes].
 
 L'exploitant d'un casino installé à bord d'un navire mentionné au I de l'article L. 321-3 du code de la sécurité intérieure procède à une fermeture quotidienne des salles de jeux pour une durée définie par l'arrêté mentionné au deuxième alinéa de l'article R. 321-39 du code de la sécurité intérieure. L'établissement peut ainsi être ouvert pendant une durée continue maximale de … heures.
 
@@ -68,7 +68,7 @@ Article 7
 
 Personnel des jeux
 
-Le représentant de l'exploitant \[directeur responsable des jeux/ représentant légal de la société exploitant le casino\] communique à l'armateur, en temps utile et avant l'embarquement, la liste du personnel des jeux autorisé à monter à bord du navire.
+Le représentant de l'exploitant [directeur responsable des jeux/ représentant légal de la société exploitant le casino] communique à l'armateur, en temps utile et avant l'embarquement, la liste du personnel des jeux autorisé à monter à bord du navire.
 
 Conformément à l'article R. 321-38-4 du code de la sécurité intérieure, le capitaine prend toute mesure pour rapatrier un membre du personnel des jeux dans les conditions prévues aux articles L. 5542-29 à L. 5542-33-3 du code des transports, en concertation ou sur demande du directeur responsable des jeux ou du représentant légal de la société exploitant le casino.
 
@@ -184,7 +184,7 @@ Article 23
 
 Résiliation de la convention
 
-Le représentant de l'exploitant \[directeur responsable des jeux ou représentant légal de la société exploitant le casino\] informe sans délai le ministre de l'intérieur en cas de résiliation de la convention.
+Le représentant de l'exploitant [directeur responsable des jeux ou représentant légal de la société exploitant le casino] informe sans délai le ministre de l'intérieur en cas de résiliation de la convention.
 
 En cas de résiliation pour les motifs mentionnés aux articles 24 et 25 ci-après, l'indemnisation à verser par l'une ou l'autre des parties à la convention ne relève pas de la présente convention.
 
@@ -234,7 +234,7 @@ Article 29
 
 Litiges
 
-En cas de litige relatif à l'exécution de la présente convention et des conventions particulières conclues pour son application, le litige est porté, s'il y a lieu, devant les tribunaux de l'ordre judiciaire. Le tribunal compétent est celui dans le ressort duquel est situé le siège \[de l'exploitant ou de l'armateur\].
+En cas de litige relatif à l'exécution de la présente convention et des conventions particulières conclues pour son application, le litige est porté, s'il y a lieu, devant les tribunaux de l'ordre judiciaire. Le tribunal compétent est celui dans le ressort duquel est situé le siège [de l'exploitant ou de l'armateur].
 
 Article 30
 

@@ -46,7 +46,7 @@ Elle est délivrée pour une durée maximale de trois mois, renouvelable selon l
 
 Le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut mettre fin à tout moment à l'autorisation qu'il a délivrée, dès lors qu'il constate que les conditions ayant justifié sa délivrance ne sont plus réunies.
 
-\[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-834 DC du 20 janvier 2022.\]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-834 DC du 20 janvier 2022.]
 
 VI.-Le registre mentionné à l'article L. 242-4 fait apparaître le détail de chaque intervention réalisée dans le cadre de l'autorisation. Ce registre est transmis chaque semaine au représentant de l'Etat dans le département ou, à Paris, au préfet de police, qui s'assure de la conformité des interventions réalisées à l'autorisation délivrée.
 

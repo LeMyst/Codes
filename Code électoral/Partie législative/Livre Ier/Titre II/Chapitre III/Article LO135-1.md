@@ -54,7 +54,7 @@ III. – La déclaration d'intérêts et d'activités porte sur les éléments s
 
 7° L'exercice de fonctions bénévoles susceptibles de faire naître un conflit d'intérêts ;
 
-8° \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-675 DC du 9 octobre 2013\] ;
+8° [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-675 DC du 9 octobre 2013] ;
 
 9° Les autres fonctions et mandats électifs exercés à la date de l'élection ;
 

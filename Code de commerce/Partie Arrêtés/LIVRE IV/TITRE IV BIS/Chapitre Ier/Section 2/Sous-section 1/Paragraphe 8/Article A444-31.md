@@ -8,10 +8,10 @@ La prestation de recouvrement ou d'encaissement figurant au numéro 128 du table
 
 | Tranches d'assiette | Taux applicable |
 | --- | --- |
-|  De 0 à 125 € |  9,77 % |
-|  De 125 € à 610 € |  6,35 % |
-|  De 610 € à 1525 € |  3,41 % |
-|  Plus de 1525 € |  0,29 % |
+| De 0 à 125 € | 9,77 % |
+| De 125 € à 610 € | 6,35 % |
+| De 610 € à 1525 € | 3,41 % |
+| Plus de 1525 € | 0,29 % |
 
 Les taux mentionnés dans ce barème sont doublés lorsque le recouvrement ou l'encaissement est effectué sur le fondement d'un titre exécutoire constatant une créance alimentaire.
 

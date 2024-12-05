@@ -28,7 +28,7 @@ A-2.1. Numéro SIREN du demandeur, sa dénomination sociale et adresse postale, 
 
 B-1\*. Local commercial\*
 
-B-1.1. Adresse postale (numéro et rue, type de local commercial, type de pôle commercial, nom du lotissement commercial, nom du centre commercial, nom du quartier, type de zone de redynamisation urbaine \[ZRU\], type de zone d'aménagement concerté des centres urbains \[ZACCU\], commune, Cedex, nom du canton, nom de l'arrondissement, nom et code département), surfaces de vente intérieure, extérieure et totale et/ou nombre de positions de ravitaillement en carburant.
+B-1.1. Adresse postale (numéro et rue, type de local commercial, type de pôle commercial, nom du lotissement commercial, nom du centre commercial, nom du quartier, type de zone de redynamisation urbaine [ZRU], type de zone d'aménagement concerté des centres urbains [ZACCU], commune, Cedex, nom du canton, nom de l'arrondissement, nom et code département), surfaces de vente intérieure, extérieure et totale et/ou nombre de positions de ravitaillement en carburant.
 
 B-1.2. Date d'autorisation et, le cas échéant, du permis de construire.
 

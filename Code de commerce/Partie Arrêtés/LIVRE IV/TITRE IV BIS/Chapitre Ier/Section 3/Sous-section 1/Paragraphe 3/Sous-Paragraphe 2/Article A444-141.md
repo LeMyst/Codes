@@ -14,7 +14,7 @@ c) Réduisant la créance et le gage ou le nantissement, d'un émolument proport
 
 Selon le barème suivant :
 
-| Tranches d'assiette |  Émoluments |
+| Tranches d'assiette | Émoluments |
 | --- | --- |
-|  De 0 à 77 090 € |  78 € |
-|  Plus de 77 090 € |  150 € |
+| De 0 à 77 090 € | 78 € |
+| Plus de 77 090 € | 150 € |

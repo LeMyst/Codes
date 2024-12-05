@@ -30,7 +30,7 @@ II.-Lorsqu'une société mise en demeure de respecter les obligations prévues a
 
 Le président du tribunal, statuant en référé, peut être saisi aux mêmes fins.
 
-\[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.\]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.]
 
 NOTA:
 Conformément au II de l’article 273 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er janvier 2024.

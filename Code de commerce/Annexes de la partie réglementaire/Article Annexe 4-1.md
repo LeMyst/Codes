@@ -3,7 +3,7 @@
 JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,\
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
-|  |  |
+| | |
 | --- | --- |
 | SIÈGE DES TRIBUNAUX judiciaires | RESSORT |
 | Marseille. | Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |

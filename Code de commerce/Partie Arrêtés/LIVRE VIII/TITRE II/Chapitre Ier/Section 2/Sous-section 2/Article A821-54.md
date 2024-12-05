@@ -214,7 +214,7 @@ Secret professionnel et discrétion
 
 Il ajoute dans un second alinéa que le commissaire aux comptes “ fait preuve de prudence et de discrétion dans l'utilisation des informations qui concernent des personnes ou entités auxquelles il ne fournit pas de mission ou de prestation ”.
 
-43. Le premier alinéa de l'article 9 rappelle le principe posé par l'article L. 821-35 du code de commerce selon lequel, sous réserve des dispositions de l'article L. 821-10 et des dispositions législatives particulières et en dehors des situations spécifiques que l'article L. 821-35 précise, le commissaire aux comptes est “ \[astreint\] au secret professionnel pour les faits, actes et renseignements dont \[il a\] pu avoir connaissance à raison de \[ses\] fonctions ”.
+43. Le premier alinéa de l'article 9 rappelle le principe posé par l'article L. 821-35 du code de commerce selon lequel, sous réserve des dispositions de l'article L. 821-10 et des dispositions législatives particulières et en dehors des situations spécifiques que l'article L. 821-35 précise, le commissaire aux comptes est “ [astreint] au secret professionnel pour les faits, actes et renseignements dont [il a] pu avoir connaissance à raison de [ses] fonctions ”.
 
 Conformément aux dispositions de l'article L. 821-7 du code de commerce, le non-respect par le commissaire aux comptes du secret professionnel, hors les cas où la loi en prévoit la levée, engage sa responsabilité pénale.
 

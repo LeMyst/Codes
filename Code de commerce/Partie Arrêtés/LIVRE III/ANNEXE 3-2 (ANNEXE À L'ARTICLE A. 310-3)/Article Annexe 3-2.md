@@ -42,4 +42,4 @@ Article L. 310-5 du code de commerce (extrait)
 
 Est puni d'une amende de 15 000 € :
 
-1° Le fait de procéder à une liquidation sans la déclaration préalable mentionnée à l'article L. 310-1 ou en méconnaissance des conditions prévues à cet article \[...\].
+1° Le fait de procéder à une liquidation sans la déclaration préalable mentionnée à l'article L. 310-1 ou en méconnaissance des conditions prévues à cet article [...].

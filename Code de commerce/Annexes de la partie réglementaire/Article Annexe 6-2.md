@@ -3,7 +3,7 @@
 Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,\
 des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉPARTEMENT | JURIDICTION | RESSORT |
 | Ain | Tribunal judiciaire de Bourg-en-Bresse | Le département |
@@ -156,7 +156,7 @@ des procédures applicables aux personnes qui ne sont ni commerçants ni artisan
 | Vaucluse | Tribunal judiciaire d'Avignon | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Carpentras | Ressort du tribunal judiciaire |
 | Vendée | Tribunal judiciaire de La Roche-sur-Yon | Ressort du tribunal judiciaire |
-|  | Tribunal judiciaire des Sables-d'Olonne | Ressort du tribunal judiciaire |
+| | Tribunal judiciaire des Sables-d'Olonne | Ressort du tribunal judiciaire |
 | Vienne | Tribunal judiciaire de Poitiers | Le département |
 | Vienne (Haute-) | Tribunal judiciaire de Limoges | Le département |
 | Vosges | Tribunal judiciaire d'Epinal | Le département |

@@ -11,7 +11,7 @@ déclare, conformément à l'article L. 526-11 du code de commerce :
 
 ― donner mon accord à l'affectation par M./Mme (rayer la mention inutile) (nom et prénom de l'entrepreneur individuel à responsabilité limitée , entrepreneur individuel à responsabilité limitée exerçant sous la dénomination EIRL (à compléter), du (des) bien(s) commun(s) suivant(s) à son activité professionnelle :
 
-(lister le\[s\] bien\[s\] commun\[s\] affecté\[s\])
+(lister le[s] bien[s] commun[s] affecté[s])
 
 ― avoir été informé(e) que les créanciers auxquels la déclaration d'affectation est opposable et dont les droits sont nés à l'occasion de l'exercice de l'activité professionnelle à laquelle un patrimoine comprenant le(s) bien(s) commun(s) susmentionné(s) est affecté ont pour seul gage général le patrimoine affecté ;
 

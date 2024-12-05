@@ -2,7 +2,7 @@
 
 Siège et ressort des tribunaux de commerce
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉPARTEMENT | TRIBUNALjudiciaire | SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE |
 | Siège | Ressort |
@@ -62,10 +62,10 @@ Siège et ressort des tribunaux de commerce
 | Haute-Savoie | AnnecyBonneville | Annecy | Ressort des tribunaux judiciaires d'Annecy et de Bonneville |
 | Thonon-les-Bains | Thonon-les-Bains | Ressort du tribunal judiciaire de Thonon-les-Bains |
 | Cour d'appel de Colmar |
-| Bas-Rhin | Saverne |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
-| Strasbourg |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
-| Haut-Rhin | Colmar |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
-| Mulhouse |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Bas-Rhin | Saverne | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Strasbourg | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Haut-Rhin | Colmar | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Mulhouse | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
 | Cour d'appel de Dijon |
 | Côte-d'Or | Dijon | Dijon | Ressort du tribunal judiciaire de Dijon |
 | Haute-Marne | Chaumont | Chaumont | Ressort du tribunal judiciaire de Chaumont |
@@ -90,13 +90,13 @@ Siège et ressort des tribunaux de commerce
 | Cour d'appel de Lyon |
 | Ain | Bourg-en-Bresse | Bourg-en-Bresse | Ressort du tribunal judiciaire de Bourg-en-Bresse |
 | Loire | Roanne | Roanne | Ressort du tribunal judiciaire de Roanne |
-|  | Saint-Etienne | Saint-Etienne | Ressort du tribunal judiciaire de Saint-Etienne |
+| | Saint-Etienne | Saint-Etienne | Ressort du tribunal judiciaire de Saint-Etienne |
 | Rhône | Lyon | Lyon | Ressort du tribunal judiciaire de Lyon |
 | Villefranche-sur-Saône | Villefranche-sur-Saône | Ressort du tribunal judiciaire de Villefranche-sur-Saône |
 | Cour d'appel de Metz |
-| Moselle | Metz |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
-| Sarreguemines |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
-| Thionville |  | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Moselle | Metz | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Sarreguemines | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
+| Thionville | | La chambre commerciale du tribunal judiciaire est compétente en matière commerciale |
 | Cour d'appel de Montpellier |
 | Aude | Carcassonne | Carcassonne | Ressort du tribunal judiciaire de Carcassonne |
 | Narbonne | Narbonne | Ressort du tribunal judiciaire de Narbonne |
@@ -149,7 +149,7 @@ Siège et ressort des tribunaux de commerce
 | Finistère | Brest | Brest | Ressort du tribunal judiciaire de Brest |
 | Quimper | Quimper | Ressort du tribunal judiciaire de Quimper |
 | Ille-et-Vilaine et Côtes-d'Armor | Rennes | Rennes | Ressort du tribunal judiciaire de Rennes |
-|  | Saint-Malo | Saint-Malo | Ressort du tribunal judiciaire de Saint-Malo |
+| | Saint-Malo | Saint-Malo | Ressort du tribunal judiciaire de Saint-Malo |
 | Loire-Atlantique | Nantes | Nantes | Ressort du tribunal judiciaire de Nantes |
 | Saint-Nazaire | Saint-Nazaire | Ressort du tribunal judiciaire de Saint-Nazaire |
 | Morbihan | Lorient | Lorient | Ressort du tribunal judiciaire de Lorient |
@@ -170,7 +170,7 @@ Siège et ressort des tribunaux de commerce
 | Ariège | Foix | Foix | Ressort du tribunal judiciaire de Foix |
 | Haute-Garonne | ToulouseSaint-Gaudens | Toulouse | Ressort des tribunaux judiciaires de Toulouse et de Saint-Gaudens |
 | Tarn | Albi | Albi | Ressort du tribunal judiciaire d'Albi |
-|  | Castres | Castres | Ressort du tribunal judiciaire de Castres |
+| | Castres | Castres | Ressort du tribunal judiciaire de Castres |
 | Tarn-et-Garonne | Montauban | Montauban | Ressort du tribunal judiciaire de Montauban |
 | Cour d'appel de Versailles |
 | Eure-et-Loir | Chartres | Chartres | Ressort du tribunal judiciaire de Chartres |

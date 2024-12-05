@@ -84,28 +84,28 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 
 4° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION RÉSULTANT DE |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
 | --- | --- |
-|  TITRE Ier |  |
-|  Article L. 410-1 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 410-2 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Articles L. 410-3 et L. 410-4 |  la loi n° 2012-1270 du 20 novembre 2012 |
-|  Article L. 410-5 |  l'ordonnance n° 2017-303 du 9 mars 2017 |
-|  TITRE II |  |
-|  Article L. 420-1 |  la loi n° 2001-420 du 15 mai 2001 |
-|  Article L. 420-2 |  l'ordonnance n° 2019-698 du 3 juillet 2019 |
-|  Article L. 420-2-1 |  la loi n° 2012-1270 du 20 novembre 2012 |
-|  Articles L. 420-3 et L. 420-4 |  la loi n° 2016-1920 du 29 décembre 2016 |
-|  Article L. 420-5 |  la loi n° 2018-938 du 30 octobre 2018 |
-|  Article L. 420-6 et L. 420-6-1 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 420-7 |  l'ordonnance n° 2011-337 du 29 mars 2011 |
-| TITRE III |  |
+| TITRE Ier | |
+| Article L. 410-1 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 410-2 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Articles L. 410-3 et L. 410-4 | la loi n° 2012-1270 du 20 novembre 2012 |
+| Article L. 410-5 | l'ordonnance n° 2017-303 du 9 mars 2017 |
+| TITRE II | |
+| Article L. 420-1 | la loi n° 2001-420 du 15 mai 2001 |
+| Article L. 420-2 | l'ordonnance n° 2019-698 du 3 juillet 2019 |
+| Article L. 420-2-1 | la loi n° 2012-1270 du 20 novembre 2012 |
+| Articles L. 420-3 et L. 420-4 | la loi n° 2016-1920 du 29 décembre 2016 |
+| Article L. 420-5 | la loi n° 2018-938 du 30 octobre 2018 |
+| Article L. 420-6 et L. 420-6-1 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 420-7 | l'ordonnance n° 2011-337 du 29 mars 2011 |
+| TITRE III | |
 | L. 430-1 | la loi n° 2001-420 du 15 mai 2001 |
 | L. 430-2 à L. 430-5 | la loi n° 2015-990 du 6 août 2015 |
 | L. 430-6 | la loi n° 2008-776 du 4 août 2008 |
 | L. 430-7 à L. 430-8 | la loi n° 2015-990 du 6 août 2015 |
 | L. 430-9 et L. 430-10 | la loi n° 2008-776 du 4 août 2008 |
-| TITRE IV |  |
+| TITRE IV | |
 | L. 440-1 | la loi n° 2018-670 du 30 juillet 2018 |
 | L. 441-1 et L. 441-2l | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 441-3 | la loi n° 2020-1525 du 7 décembre 2020 |
@@ -122,90 +122,90 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | L. 442-8 à L. 442-11 | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-12 | la loi n° 2024-449 du 21 mai 2024 |
 | L. 443-1 à L. 443-3 | l'ordonnance n° 2019-359 du 24 avril 2019 |
-| L. 443-5 à L. 443-7 |  l'ordonnance n° 2021-859 du 30 juin 2021 |
-| TITRE IV bis |  |
+| L. 443-5 à L. 443-7 | l'ordonnance n° 2021-859 du 30 juin 2021 |
+| TITRE IV bis | |
 | L. 444-1 | la loi n° 2015-990 du 6 août 2015 |
 | L. 444-2 | la loi n° 2019-222 du 23 mars 2019 |
 | L. 444-3 | la loi n° 2015-990 du 6 août 2015 |
-| L. 444-4 |  l'ordonnance n° 2016-301 du 14 mars 2016 |
+| L. 444-4 | l'ordonnance n° 2016-301 du 14 mars 2016 |
 | L. 444-5 | la loi n° 2015-990 du 6 août 2015 |
-| L. 444-6 |  l'ordonnance n° 2017-303 du 9 mars 2017 |
+| L. 444-6 | l'ordonnance n° 2017-303 du 9 mars 2017 |
 | L. 444-7 | la loi n° 2019-222 du 23 mars 2019 |
-|  TITRE V |  |
-|  Article L. 450-1 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 450-2 |  la loi n° 2014-344 du 17 mars 2014 |
-|  Article L. 450-2-1 |  la loi n° 2020-1525 du 7 décembre 2020 |
-|  Article L. 450-3 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 450-3-1 |  la loi n° 2014-344 du 17 mars 2014 |
-|  Article L. 450-3-2 |  la loi n° 2017-256 du 28 février 2017 |
-|  Article L. 450-3-3 |  la loi n° 2019-486 du 22 mai 2019 |
-|  Article L. 450-4 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 450-5 |  la loi n° 2016-1920 du 29 décembre 2016 |
-|  Article L. 450-6 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 450-7 à L. 450-10 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
+| TITRE V | |
+| Article L. 450-1 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 450-2 | la loi n° 2014-344 du 17 mars 2014 |
+| Article L. 450-2-1 | la loi n° 2020-1525 du 7 décembre 2020 |
+| Article L. 450-3 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 450-3-1 | la loi n° 2014-344 du 17 mars 2014 |
+| Article L. 450-3-2 | la loi n° 2017-256 du 28 février 2017 |
+| Article L. 450-3-3 | la loi n° 2019-486 du 22 mai 2019 |
+| Article L. 450-4 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 450-5 | la loi n° 2016-1920 du 29 décembre 2016 |
+| Article L. 450-6 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 450-7 à L. 450-10 | l'ordonnance n° 2021-649 du 26 mai 2021 |
 | Article L. 450-13 | la loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière d'économie, de finances, de transition écologique, de droit pénal, de droit social et en matière agricole |
-|  TITRE VI |  |
-|  Articles L. 461-1 et L. 461-2 |  la loi n° 2017-55 du 20 janvier 2017 |
-|  Article L. 461-3 |  la loi n° 2015-990 du 6 août 2015 |
-|  Articles L. 461-4 et L. 461-5 |  la loi n° 2017-55 du 20 janvier 2017 |
-|  Article L. 462-1 |  la loi n° 2015-1268 du 14 octobre 2015 |
-|  Article L. 462-2 |  l'ordonnance n° 2000-912 du 18 septembre 2000 |
-|  Article L. 462-2-1 |  la loi n° 2015-990 du 6 août 2015 |
-|  Article L. 462-3 |  l'ordonnance n° 2017-303 du 9 mars 2017 |
-|  Article L. 462-4 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 462-4-1 |  la loi n° 2015-990 du 6 août 2015 |
-|  Article L. 462-5 |  la loi n° 2016-1920 du 29 décembre 2016 |
-|  Articles L. 462-6, L. 462-7 et L. 462-8 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 463-1 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Articles L. 463-2 à L. 463-5 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 463-6 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 463-7 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 463-8 |  la loi n° 2001-420 du 15 mai 2001 |
-|  Article L. 464-1 et L. 464-2 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 464-3 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 464-4 |  l'ordonnance n° 2004-1173 du 4 novembre 2004 |
-|  Article L. 464-5 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Articles L. 464-6 et L. 464-6-1 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 464-6-2 |  l'ordonnance n° 2004-274 du 25 mars 2004 |
-|  Article L. 464-7 |  l'ordonnance n° 2008-1161 du 13 novembre 2008 |
-|  Article L. 464-8 |  la loi n° 2012-1270 du 20 novembre 2012 |
-|  Article L. 464-8-1 |  la loi n° 2016-1547 du 18 novembre 2016 |
-|  Article L. 464-8-2 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-|  Article L. 464-9 |  la loi n° 2016-1920 du 29 décembre 2016 |
-|  Article L. 464-10 |  l'ordonnance n° 2021-649 du 26 mai 2021 |
-| TITRE VII |  |
+| TITRE VI | |
+| Articles L. 461-1 et L. 461-2 | la loi n° 2017-55 du 20 janvier 2017 |
+| Article L. 461-3 | la loi n° 2015-990 du 6 août 2015 |
+| Articles L. 461-4 et L. 461-5 | la loi n° 2017-55 du 20 janvier 2017 |
+| Article L. 462-1 | la loi n° 2015-1268 du 14 octobre 2015 |
+| Article L. 462-2 | l'ordonnance n° 2000-912 du 18 septembre 2000 |
+| Article L. 462-2-1 | la loi n° 2015-990 du 6 août 2015 |
+| Article L. 462-3 | l'ordonnance n° 2017-303 du 9 mars 2017 |
+| Article L. 462-4 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 462-4-1 | la loi n° 2015-990 du 6 août 2015 |
+| Article L. 462-5 | la loi n° 2016-1920 du 29 décembre 2016 |
+| Articles L. 462-6, L. 462-7 et L. 462-8 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 463-1 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Articles L. 463-2 à L. 463-5 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 463-6 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 463-7 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 463-8 | la loi n° 2001-420 du 15 mai 2001 |
+| Article L. 464-1 et L. 464-2 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 464-3 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 464-4 | l'ordonnance n° 2004-1173 du 4 novembre 2004 |
+| Article L. 464-5 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Articles L. 464-6 et L. 464-6-1 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 464-6-2 | l'ordonnance n° 2004-274 du 25 mars 2004 |
+| Article L. 464-7 | l'ordonnance n° 2008-1161 du 13 novembre 2008 |
+| Article L. 464-8 | la loi n° 2012-1270 du 20 novembre 2012 |
+| Article L. 464-8-1 | la loi n° 2016-1547 du 18 novembre 2016 |
+| Article L. 464-8-2 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| Article L. 464-9 | la loi n° 2016-1920 du 29 décembre 2016 |
+| Article L. 464-10 | l'ordonnance n° 2021-649 du 26 mai 2021 |
+| TITRE VII | |
 | L. 470-1 | l'ordonnance n° 2017-303 du 9 mars 2017 |
-| TITRE VIII |  |
+| TITRE VIII | |
 | L. 481-1 à L. 483-1 | l'ordonnance n° 2017-303 du 9 mars 2017 |
 | L. 483-4 à L. 483-11 | l'ordonnance n° 2017-303 du 9 mars 2017 |
-| TITRE IX |  |
-|  Articles L. 490-3 et L. 490-4 |  l'ordonnance n° 2019-698 du 3 juillet 2019 |
-|  Articles L. 490-5 à L. 490-8 |  l'ordonnance n° 2017-303 du 9 mars 2017 |
-|  Articles L. 490-10 à L. 490-12 |  l'ordonnance n° 2017-303 du 9 mars 2017 |
-|  Articles L. 490-13 et L. 490-14 |  l'ordonnance n° 2021-649 du 26 mai 20215 |
+| TITRE IX | |
+| Articles L. 490-3 et L. 490-4 | l'ordonnance n° 2019-698 du 3 juillet 2019 |
+| Articles L. 490-5 à L. 490-8 | l'ordonnance n° 2017-303 du 9 mars 2017 |
+| Articles L. 490-10 à L. 490-12 | l'ordonnance n° 2017-303 du 9 mars 2017 |
+| Articles L. 490-13 et L. 490-14 | l'ordonnance n° 2021-649 du 26 mai 20215 |
 
 5° Les dispositions du livre V mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION RÉSULTANT DE |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
 | --- | --- |
 | Article L. 511-1 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 511-1-1 | la loi n° 2024-537 du 13 juin 2024 visant à accroître le financement des entreprises et l'attractivité de la France |
 | Articles L. 511-2 à L. 511-25 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
-|  Articles L. 511-26 à L. 511-30 |  l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce  |
-|  Article L. 511-31 |  la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
-|  Articles L. 511-32 à L. 511-37 |  l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce  |
-|  Articles L. 511-38 à L. 511-81 |  l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce  |
+| Articles L. 511-26 à L. 511-30 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Article L. 511-31 | la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
+| Articles L. 511-32 à L. 511-37 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Articles L. 511-38 à L. 511-81 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 512-1 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 512-1-1 | la loi n° 2024-537 du 13 juin 2024 visant à accroître le financement des entreprises et l'attractivité de la France |
 | Articles L. 512-2 à L. 512-8 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
-|  Articles L. 526-1 à L. 526-3 |  la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie |
+| Articles L. 526-1 à L. 526-3 | la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie |
 | Articles L. 526-6 et L. 526-7 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
 | Article L. 526-8 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 | Articles L. 526-8-1 à L. 526-15 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
 | Article L. 526-17 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-|  Article L. 526-18 |  la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
-|  Article L. 526-19 |  la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
-|  Articles L. 526-20 et L. 526-21 |  la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
+| Article L. 526-18 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
+| Article L. 526-19 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
+| Articles L. 526-20 et L. 526-21 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
 | Articles L. 526-22, à l'exclusion du cinquième alinéa, L. 526-23 et L. 526-25 à L. 526-31 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 
 6° Le livre VI dans les conditions suivantes :
@@ -274,43 +274,43 @@ II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et
 
 1° Les dispositions du titre Ier du livre VIII mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux administrateurs judiciaires, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-|  DISPOSITIONS APPLICABLES |  DANS LEUR RÉDACTION RÉSULTANT DE |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
 | --- | --- |
-|  Titre Ier |
-|  L. 811-1 |  l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté |
-|  L. 811-2 |  la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
-|  L. 811-3 |  la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
-|  L. 811-5 |  la loi n° 2015-990 du 6 août 2015 |
-|  L. 811-6 |  la loi n° 2005-845 du 26 juillet 2005 |
-|  L. 811-7 |  la loi n° 2003-7 du 3 janvier 2003 |
+| Titre Ier |
+| L. 811-1 | l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté |
+| L. 811-2 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
+| L. 811-3 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
+| L. 811-5 | la loi n° 2015-990 du 6 août 2015 |
+| L. 811-6 | la loi n° 2005-845 du 26 juillet 2005 |
+| L. 811-7 | la loi n° 2003-7 du 3 janvier 2003 |
 | L. 811-8l | l''ordonnance n° 2015-1287 du 15 octobre 2015 |
-|  L. 811-9la | la loi n° 2003-7 du 3 janvier 2003 |
-|  L. 811-10 |  la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
-|  |  la loi n° 2005-845 du 26 juillet 2005 |
+| L. 811-9la | la loi n° 2003-7 du 3 janvier 2003 |
+| L. 811-10 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
+| | la loi n° 2005-845 du 26 juillet 2005 |
 | L. 811-11-1l | l''ordonnance n° 2005-1126 du 8 septembre 2005 |
 | L. 811-11-2l | l''ordonnance n° 2005-1126 du 8 septembre 2005 |
-|  L. 811-11-3l | l''ordonnance n° 2008-1345 du 18 décembre 2008 |
-|  L. 811-12 Ala | loi n° 2003-7 du 3 janvier 2003 |
-|  L. 811-12 |  l'ordonnance n° 2016-1635 du 1er décembre 2016 |
-|  |  la loi n° 2003-7 du 3 janvier 2003 |
-|  L. 811-14 |  la loi n° 2011-331 du 28 mars 2011 |
-|  L. 811-15 |  la loi n° 2003-7 du 3 janvier 2003 |
+| L. 811-11-3l | l''ordonnance n° 2008-1345 du 18 décembre 2008 |
+| L. 811-12 Ala | loi n° 2003-7 du 3 janvier 2003 |
+| L. 811-12 | l'ordonnance n° 2016-1635 du 1er décembre 2016 |
+| | la loi n° 2003-7 du 3 janvier 2003 |
+| L. 811-14 | la loi n° 2011-331 du 28 mars 2011 |
+| L. 811-15 | la loi n° 2003-7 du 3 janvier 2003 |
 | L. 811-15-1 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
-|  |  la loi n° 2003-7 du 3 janvier 2003 |
-|  L. 814-1 |  l'ordonnance n° 2015-1287 du 15 octobre 2015 |
-|  L. 814-1-1 |  l'ordonnance n° 2015-1287 du 15 octobre 2015 |
+| | la loi n° 2003-7 du 3 janvier 2003 |
+| L. 814-1 | l'ordonnance n° 2015-1287 du 15 octobre 2015 |
+| L. 814-1-1 | l'ordonnance n° 2015-1287 du 15 octobre 2015 |
 | L. 814-2 | La loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027 |
-|  L. 814-3 | l'ordonnance n° 2006-346 du 23 mars 2006 |
-|  L. 814-4 | la loi n° 2005-845 du 26 juillet 2005 |
-|  L. 814-5 | la loi n° 2005-845 du 26 juillet 2005 |
-|  L. 814-8 |  la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
+| L. 814-3 | l'ordonnance n° 2006-346 du 23 mars 2006 |
+| L. 814-4 | la loi n° 2005-845 du 26 juillet 2005 |
+| L. 814-5 | la loi n° 2005-845 du 26 juillet 2005 |
+| L. 814-8 | la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
 | L. 814-9 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 | L. 814-10 | la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
 | L. 814-11 | la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
-|  L. 814-12la | la loi n° 2011-331 du 28 mars 2011 |
+| L. 814-12la | la loi n° 2011-331 du 28 mars 2011 |
 | L. 814-13 | La loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027 |
 | L. 814-14 | la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques |
-| L. 814-15  | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
+| L. 814-15 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
 2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.

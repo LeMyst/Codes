@@ -60,7 +60,7 @@ Il tient compte des éléments collectés lors des procédures d'audit qu'il a l
 
 Communication
 
-17. Les commissaires aux comptes communiquent avec les organes mentionnés à l'article L. 821-62 du code de commerce ensemble et de manière concertée.
+17. Les commissaires aux comptes communiquent avec les organes mentionnés à l'article L. 821-63 du code de commerce ensemble et de manière concertée.
 
 01. Il en est de même de toute communication d'information importante à la direction de l'entité.
 

@@ -16,4 +16,4 @@ La liste des candidats autorisés à se présenter l'épreuve est publiée au Jo
 
 La date et le lieu de l'épreuve est notifiée aux candidats.
 
-II.-Les dispositions des II à IV de l'article A. 821-34 sont applicables.
+II.-Les dispositions des II et III de l'article A. 821-34 sont applicables.

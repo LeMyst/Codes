@@ -52,7 +52,7 @@ Diligences relatives aux autres informations
 
 Lorsqu'il procède à cette lecture, le commissaire aux comptes exerce son esprit critique en s'appuyant sur sa connaissance de l'entité, de son environnement et des éléments collectés au cours de l'audit et sur les conclusions auxquelles l'ont conduit les contrôles qu'il a menés.
 
-9. En outre, lorsque l'entité est soumise aux dispositions de l'article L. 225-102-1 du code de commerce qui requiert des informations non financières, notamment sociales et environnementales, afin d'attester de l'existence de la déclaration prévue par cet article, il vérifie, en application de l'article L. 823-10 alinéa 4 du code de commerce, la présence :
+9. En outre, lorsque l'entité est soumise aux dispositions de l'article L. 225-102-1 du code de commerce qui requiert des informations non financières, notamment sociales et environnementales, afin d'attester de l'existence de la déclaration prévue par cet article, il vérifie, en application de l'article L. 821-54 alinéa 4 du code de commerce, la présence :
 
 -de la déclaration de performance extra-financière dans le rapport de gestion, ou,
 
@@ -72,7 +72,7 @@ Diligences relatives aux informations relevant du rapport sur le gouvernement d'
 
 Diligences relatives aux rémunérations, avantages et engagements de toute nature
 
-12. Dans les sociétés mentionnées au paragraphe 11, dont les actions sont admises aux négociations sur un marché réglementé, des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués aux mandataires sociaux ainsi qu'aux engagements consentis en leur faveur, sont requises par l'article L. 22-10-9 du code de commerce. Afin d'attester, en application des articles L. 22-10-71 ou L. 22-10-78 et L. 823-10 alinéa 2 du code de commerce, de l'existence, de l'exactitude et de la sincérité de ces informations, le commissaire aux comptes vérifie la présence des informations requises et que celles-ci :
+12. Dans les sociétés mentionnées au paragraphe 11, dont les actions sont admises aux négociations sur un marché réglementé, des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués aux mandataires sociaux ainsi qu'aux engagements consentis en leur faveur, sont requises par l'article L. 22-10-9 du code de commerce . Afin d'attester, en application des articles L. 22-10-71 ou L. 22-10-78 et L. 821-54 alinéa 2 du code de commerce, de l'existence, de l'exactitude et de la sincérité de ces informations, le commissaire aux comptes vérifie la présence des informations requises et que celles-ci :
 
 -concordent avec les comptes ou avec les données ayant servi à l'établissement de ces comptes ;
 
@@ -146,7 +146,7 @@ Forme et contenu de la partie du rapport sur les comptes relative à la vérific
 
 -le cas échéant, l'attestation de l'exactitude et de la sincérité des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués à chaque mandataire social, fournies en application de l'article L. 22-10-9 du code de commerce ;
 
--le cas échéant, les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la conformité des informations prévues à l'article L. 22-10-11 du code de commerce, relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, avec les documents dont elles issues et qui ont été communiqués au commissaire aux comptes ;
+-le cas échéant, les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la conformité des informations prévues à l'article L. 22-10-11 du code de commerce , relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, avec les documents dont elles issues et qui ont été communiqués au commissaire aux comptes ;
 
 -la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
 

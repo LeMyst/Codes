@@ -8,7 +8,7 @@ Je soussigné (nom et prénom, date et lieu de naissance, domicile),
 
 propriétaire indivis avec M./Mme (rayer la mention inutile) (nom et prénom de l'entrepreneur individuel à responsabilité limitée) du (des) bien(s) suivants :
 
-(lister le\[s\] bien\[s\] indivis affecté\[s\])
+(lister le[s] bien[s] indivis affecté[s])
 
 déclare, conformément à l'article L. 526-11 du code de commerce :
 

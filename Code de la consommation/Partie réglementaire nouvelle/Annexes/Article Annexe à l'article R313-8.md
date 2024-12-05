@@ -38,10 +38,10 @@ Nom du prêteur, s'il est connu :
 
 Projet à financer : (cocher la case correspondante) □ résidence principale □ résidence secondaire □ travaux □ investissement locatif □ autre :
 
-|  PRÊT |  MONTANT EN EUROS |  TYPE DE PRÊT |  DURÉE DU PRÊT EN MOIS |  TAUX D'INTÉRÊT NOMINAL INDICATIF |
+| PRÊT | MONTANT EN EUROS | TYPE DE PRÊT | DURÉE DU PRÊT EN MOIS | TAUX D'INTÉRÊT NOMINAL INDICATIF |
 | --- | --- | --- | --- | --- |
-|  Prêt n° 1 |  |  \[Amortissable/ in fine/ relais\] |  |  |
-|  Prêt n° 2 |  |  \[Amortissable/ in fine/ relais\] |  |  |
+| Prêt n° 1 | | [Amortissable/ in fine/ relais] | | |
+| Prêt n° 2 | | [Amortissable/ in fine/ relais] | | |
 
 Amortissable : une fraction du capital emprunté est remboursée à chaque échéance.
 
@@ -53,14 +53,14 @@ Relais : crédit in fine destiné à financer un nouvel achat immobilier dans l'
 
 Votre prêteur exige que vous souscriviez des garanties d'assurance minimales pour l'octroi de votre prêt. Parmi les critères de garanties exigibles, votre prêteur a retenu la liste de critères suivante, qui correspond à ses exigences générales liées à sa politique de risque, en fonction du type d'opération, du type de prêt et de votre statut professionnel.
 
-|  |  CRITÈRES SPÉCIFIQUES |  QUOTITÉ EXIGÉE |
+| | CRITÈRES SPÉCIFIQUES | QUOTITÉ EXIGÉE |
 | --- | --- | --- |
-|  Garantie décès, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie PTIA, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie incapacité temporaire totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie invalidité permanente totale, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie invalidité permanente partielle, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
-|  Garantie perte d'emploi, le cas échéant |  \[à compléter\] |  \[à compléter\] % |
+| Garantie décès, le cas échéant | [à compléter] | [à compléter] % |
+| Garantie PTIA, le cas échéant | [à compléter] | [à compléter] % |
+| Garantie incapacité temporaire totale, le cas échéant | [à compléter] | [à compléter] % |
+| Garantie invalidité permanente totale, le cas échéant | [à compléter] | [à compléter] % |
+| Garantie invalidité permanente partielle, le cas échéant | [à compléter] | [à compléter] % |
+| Garantie perte d'emploi, le cas échéant | [à compléter] | [à compléter] % |
 
 Les caractéristiques détaillées des garanties exigées doivent vous être communiquées par votre prêteur afin de vous permettre d'apprécier l'équivalence des niveaux de garanties entre les contrats.
 
@@ -80,7 +80,7 @@ Votre prêteur n'exige aucune assurance pour l'octroi de votre prêt.
 
 5.1. Les types de garanties que nous proposons
 
-Vous pouvez adhérer au contrat d'assurance/ souscrire au contrat d'assurance \[à adapter nom du produit ; nom de la ou des entreprises d'assurance ; nom de la formule si formule\], qui comporte les garanties suivantes \[cocher les cases correspondantes\] :
+Vous pouvez adhérer au contrat d'assurance/ souscrire au contrat d'assurance [à adapter nom du produit ; nom de la ou des entreprises d'assurance ; nom de la formule si formule], qui comporte les garanties suivantes [cocher les cases correspondantes] :
 
 □ La garantie décès, dénommée dans le contrat (1) : elle intervient en cas de décès de la personne assurée. La prestation est le remboursement au prêteur du capital assuré. Dans notre contrat :
 
@@ -94,25 +94,25 @@ Vous pouvez adhérer au contrat d'assurance/ souscrire au contrat d'assurance \[
 
 □ la garantie PTIA cesse au e anniversaire de l'assuré.
 
-□ La garantie incapacité temporaire totale (ITT), dénommée dans le contrat : elle intervient lorsque la personne assurée est temporairement inapte à exercer : \[cocher les cases correspondantes\]
+□ La garantie incapacité temporaire totale (ITT), dénommée dans le contrat : elle intervient lorsque la personne assurée est temporairement inapte à exercer : [cocher les cases correspondantes]
 
 □ strictement son activité professionnelle ;
 
 □ toute activité pouvant lui procurer des revenus.
 
-Dans notre contrat, la garantie ITT : \[cocher la case correspondante\]
+Dans notre contrat, la garantie ITT : [cocher la case correspondante]
 
 □ vous couvre durant toute la durée du prêt ;
 
 □ cesse au plus tard
 
-\[cocher la case correspondante\] ;
+[cocher la case correspondante] ;
 
 □ couvre à hauteur de................... % de l'échéance de remboursement du prêt l'assuré n'exerçant pas ou plus d'activité professionnelle au moment du sinistre ;
 
 □ ne couvre pas l'assuré n'exerçant pas ou plus d'activité professionnelle au moment du sinistre.
 
-Les affections dorsales \[cocher la case correspondante\]
+Les affections dorsales [cocher la case correspondante]
 
 □ sont couvertes : □ avec conditions d'hospitalisation ou d'intervention chirurgicale ;
 
@@ -120,7 +120,7 @@ Les affections dorsales \[cocher la case correspondante\]
 
 □ ne sont pas couvertes.
 
-Les affections psychiatriques \[cocher la case correspondante\]
+Les affections psychiatriques [cocher la case correspondante]
 
 □ sont couvertes : □ avec conditions d'hospitalisation
 
@@ -128,7 +128,7 @@ Les affections psychiatriques \[cocher la case correspondante\]
 
 □ ne sont pas couvertes.
 
-La prestation est : \[cocher la case correspondante\]
+La prestation est : [cocher la case correspondante]
 
 □ forfaitaire (le montant qui vous sera versé correspond à..................... % de l'échéance de remboursement du prêt, quelle que soit votre perte de revenu) ;
 
@@ -142,7 +142,7 @@ Les prestations incapacité
 
 Les indemnités sont dues par l'assureur après un délai de franchise maximale de...... jours après l'interruption de l'activité.
 
-□ La garantie invalidité permanente totale (IPT), dénommée \[à compléter\] dans le contrat, intervient lorsque la personne assurée est, de façon définitive, incapable d'exercer : \[cocher les cases correspondantes\]
+□ La garantie invalidité permanente totale (IPT), dénommée [à compléter] dans le contrat, intervient lorsque la personne assurée est, de façon définitive, incapable d'exercer : [cocher les cases correspondantes]
 
 □ strictement son activité professionnelle ;
 
@@ -150,13 +150,13 @@ Les indemnités sont dues par l'assureur après un délai de franchise maximale 
 
 Avec un taux d'invalidité supérieur à...................... Les indemnités sont dues après la reconnaissance de l'état d'invalidité par l'assureur selon une méthode d'évaluation mentionnée au contrat.
 
-Dans notre contrat, la garantie invalidité : \[cocher la case correspondante\]
+Dans notre contrat, la garantie invalidité : [cocher la case correspondante]
 
 □ vous couvre durant toute la durée du prêt ;
 
 □ cesse au
 
-Les affections dorsales \[cocher la case correspondante\]
+Les affections dorsales [cocher la case correspondante]
 
 □ sont couvertes : □ avec conditions d'hospitalisation ou d'intervention chirurgicale ;
 
@@ -164,7 +164,7 @@ Les affections dorsales \[cocher la case correspondante\]
 
 □ ne sont pas couvertes.
 
-Les affections psychiatriques \[cocher la case correspondante\]
+Les affections psychiatriques [cocher la case correspondante]
 
 □ sont couvertes : □ avec conditions d'hospitalisation ;
 
@@ -172,7 +172,7 @@ Les affections psychiatriques \[cocher la case correspondante\]
 
 □ ne sont pas couvertes.
 
-La prestation est : \[cocher la case correspondante\]
+La prestation est : [cocher la case correspondante]
 
 □ forfaitaire (le montant qui vous sera versé correspond à.................... % de l'échéance de remboursement du prêt, quelle que soit votre perte de revenu) ;
 
@@ -188,7 +188,7 @@ Les prestations invalidité permanente totale
 
 □ La garantie perte d'emploi, dénommée dans le contrat : elle couvre l'assuré en cas de licenciement : et lorsqu'il perçoit une allocation de chômage. Elle est accordée, après une période de franchise de mois et une période de carence de mois, pour une couverture de mois par période de chômage et pour une durée totale maximale cumulée de mois.
 
-Dans notre contrat, la garantie perte d'emploi : \[cocher la case correspondante\]
+Dans notre contrat, la garantie perte d'emploi : [cocher la case correspondante]
 
 □ vous couvre durant toute la durée du prêt ;
 
@@ -200,7 +200,7 @@ Les prestations :
 
 □ ne sont pas plafonnées.
 
-La prestation est : \[cocher la case correspondante\] :
+La prestation est : [cocher la case correspondante] :
 
 □ forfaitaire (le montant qui vous sera versé correspond à..................... % de l'échéance de remboursement du prêt, quelle que soit votre perte de revenu) ;
 
@@ -226,7 +226,7 @@ Compte tenu de votre situation, vous envisagez d'assurer tout ou partie du capit
 
 6. Formalisation du devoir de conseil
 
-\[A compléter. Si les informations ne sont pas suffisantes au moment de la remise de la fiche pour permettre la délivrance du conseil en assurance, l'indiquer\]
+[A compléter. Si les informations ne sont pas suffisantes au moment de la remise de la fiche pour permettre la délivrance du conseil en assurance, l'indiquer]
 
 7. Estimation personnalisée du coût de la solution d'assurance envisagée
 
@@ -234,17 +234,17 @@ Compte tenu des caractéristiques connues du ou des prêts, de votre âge de ans
 
 Il s'agit d'un tarif indicatif avant examen du dossier et du questionnaire médical par l'organisme d'assurance. Lorsqu'une personne présente un risque aggravé de santé, elle peut bénéficier des dispositions de la convention AERAS, s'Assurer et Emprunter avec un Risque Aggrave de Santé. Il s'agit d'un dispositif conventionnel, appliqué par l'ensemble des réseaux bancaires et des assureurs présents sur le marché de l'assurance emprunteur, qui permet de repousser les limites de l'assurabilité des personnes qui présentent ou ont présenté un risque aggravé de santé. La proposition d'assurance peut comporter une surprime d'assurance et/ ou une limitation de la garantie (cf. www. aeras-infos. fr).
 
-|  |  PART DU CAPITAL assuré pour chaque type de garantie |  TYPES de garanties |  COTISATION en euros par \[à compléter\] de l'emprunteur (\*) |  COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros |  ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
+| | PART DU CAPITAL assuré pour chaque type de garantie | TYPES de garanties | COTISATION en euros par [à compléter] de l'emprunteur (\*) | COÛT TOTAL de l'assurance de l'emprunteur sur la durée du prêt, en euros | ESTIMATION du taux annuel effectif de l'assurance relatif à la totalité du prêt (\*\*) |
 | --- | --- | --- | --- | --- | --- |
-|  Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] (\*) \[compléter la période\] prêt 1 & amp ; gt ; |  & amp ; lt ; coût total ass prêt 1 & amp ; gt ; |  & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
-|  Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; |  & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % |  □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi |  & amp ; lt ; cotisation \[s'il y a lieu, moyenne\] * \[compléter la période\] prêt 2 & amp ; gt ; euros |  & amp ; lt ; coût total ass prêt 2 & amp ; gt ; |  & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
-|  (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) \[Compléter la mention des garanties incluses dans le périmètre du TAEA.\] |
+| Prêt 1 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 1 & amp ; gt ; | & amp ; lt ; quotité par type de garantie ; prêt 1 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation [s'il y a lieu, moyenne] (\*) [compléter la période] prêt 1 & amp ; gt ; | & amp ; lt ; coût total ass prêt 1 & amp ; gt ; | & amp ; lt ; TAEA prêt 1 & amp ; gt ; |
+| Prêt 2 & amp ; lt ; capital emprunté & amp ; gt ;& amp ; lt ; durée prêt 2 & amp ; gt ; | & amp ; lt ; quotité par type de garantie prêt 2 & amp ; gt ; % | □ Décès □ PTIA□ Incapacité□ Invalidité permanente totale□ Invalidité permanente partielle□ Perte d'emploi | & amp ; lt ; cotisation [s'il y a lieu, moyenne] * [compléter la période] prêt 2 & amp ; gt ; euros | & amp ; lt ; coût total ass prêt 2 & amp ; gt ; | & amp ; lt ; TAEA prêt 2 & amp ; gt ; |
+| (\*) Si la cotisation est variable, indiquer la cotisation périodique moyenne. (\*\*) [Compléter la mention des garanties incluses dans le périmètre du TAEA.] |
 
-La cotisation d'assurance est : \[cocher la case correspondante\] :
+La cotisation d'assurance est : [cocher la case correspondante] :
 
 □ constante sur la durée du prêt ;
 
-□ non constante (cotisation \[à compléter\] minimale : \[à compléter\] ; cotisation \[compléter la période\] maximale : \[à compléter\])
+□ non constante (cotisation [à compléter] minimale : [à compléter] ; cotisation [compléter la période] maximale : [à compléter])
 
 8. Remarques importantes
 
@@ -256,8 +256,8 @@ Nous insistons sur l'importance de la précision et de la sincérité des répon
 
 Les différentes garanties peuvent faire l'objet de contrats séparés.
 
-= = = = = FICHE REMISE LE \[date à compléter\] = = = = = =
+= = = = = FICHE REMISE LE [date à compléter] = = = = = =
 
-\[à compléter avec les mentions légales applicables, telles que prévues à l'article 32 de la loi n° 78-17 du 6 janvier 1978 et aux articles R. 123-237 et suivants du code de commerce\]
+[à compléter avec les mentions légales applicables, telles que prévues à l'article 32 de la loi n° 78-17 du 6 janvier 1978 et aux articles R. 123-237 et suivants du code de commerce]
 
 Conformément à la loi, dès aujourd'hui et jusqu'à 12 mois après la signature de l'offre de prêt, voire au-delà si votre contrat de prêt le prévoit, vous pouvez souscrire une assurance auprès de l'assureur de votre choix et la proposer en garantie au prêteur. Celui-ci ne peut pas la refuser si elle présente un niveau de garantie équivalent au contrat d'assurance qu'il vous a proposé.

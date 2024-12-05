@@ -4,7 +4,7 @@ MODÈLE DE FORMULAIRE DE RÉTRACTATION
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
 
-A l'attention de \[le professionnel insère ici son nom, son adresse géographique et son adresse électronique\] :
+A l'attention de [le professionnel insère ici son nom, son adresse géographique et son adresse électronique] :
 
 Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous :
 

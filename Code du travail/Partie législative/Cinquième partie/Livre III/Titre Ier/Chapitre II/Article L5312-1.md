@@ -30,7 +30,7 @@ II.-Pour la mise en œuvre des actions du réseau pour l'emploi prévues à l'ar
 
 2° De proposer au Comité national pour l'emploi les principes d'un socle commun de services aux personnes et aux employeurs et les méthodologies et les référentiels mentionnés au 4° du I de l'article L. 5311-9 ;
 
-3° De concevoir et de mettre à la disposition des membres du réseau pour l'emploi, dans le respect du cahier des charges mentionné au même 4°, des outils et des services numériques communs, \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023\] en suivant et en facilitant la mise en œuvre de l'interopérabilité mentionnée au 5° du même article ;
+3° De concevoir et de mettre à la disposition des membres du réseau pour l'emploi, dans le respect du cahier des charges mentionné au même 4°, des outils et des services numériques communs, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023] en suivant et en facilitant la mise en œuvre de l'interopérabilité mentionnée au 5° du même article ;
 
 4° De produire les indicateurs communs de suivi, de pilotage et d'évaluation des actions mises en œuvre dans le cadre du réseau pour l'emploi ;
 

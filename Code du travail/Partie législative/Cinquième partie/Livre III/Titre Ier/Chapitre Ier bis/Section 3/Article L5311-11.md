@@ -2,7 +2,7 @@
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre, notamment :
 
-\[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.\]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.]
 
 2° La composition et les modalités d'organisation et de fonctionnement du Comité national pour l'emploi et des commissions pouvant être instituées en son sein ainsi que, le cas échéant, les attributions du comité susceptibles d'être exercées par ces dernières ;
 

@@ -22,55 +22,55 @@ MODALITÉS DE CALCUL ET D'ÉVALUATION DES INDICATEURS DÉFINIS À L'ARTICLE D. 1
    Les indicateurs définis à l'article D. 1142-2-1 sont calculés et évalués selon un barème allant de 0 à 100 points, conformément aux tableaux suivants :\
    4.1. Indicateur relatif à l'écart de rémunération entre les femmes et les hommes
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
+| INDICATEUR | METHODE DE CALCUL | RESULTATS OBTENUS | NOMBRE DE POINTS |
 | --- | --- | --- | --- |
-| Ecart de rémunération entre les femmes et les hommes (1° de l'article D. 1142-2-1)  | a) Les salariés sont répartis en groupe, selon quatre tranches d'âge et par catégorie de postes équivalents. Les tranches d'âge sont les suivantes :-moins de 30 ans ;-de 30 à 39 ans ;-de 40 à 49 ans ;-et 50 ans et plus. S'agissant des catégories de postes équivalents, l'employeur peut répartir les salariés, après consultation du comité social et économique, par niveau ou coefficient hiérarchique, en application de la classification de branche ou d'une autre méthode de cotation des postes. La méthode de cotation des postes est adoptée après avis du comité social et économique. Si l'employeur ne souhaite pas répartir les salariés par niveau ou coefficient hiérarchique ou selon une autre méthode de cotation des postes, ou si ces méthodes de répartition ne permettent pas de calculer l'indicateur, il répartit les salariés entre les quatre catégories socioprofessionnelles suivantes :-ouvriers ;-employés ;-techniciens et agents de maîtrise ;-ingénieurs et cadres. b) Seuls les groupes comprenant au moins trois hommes et trois femmes sont pris en compte. Si, en application de cette règle, le calcul de l'indicateur par niveau ou coefficient hiérarchique, dans les conditions prévues au a), est rendu impossible, au regard du critère défini au paragraphe 5.1, le classement par niveau ou coefficient hiérarchique n'est pas retenu et les salariés sont regroupés selon les quatre catégories socioprofessionnelles définies au même a). c) La rémunération moyenne des femmes et des hommes est calculée pour chacun des groupes ainsi constitué, en calculant le salaire en équivalent temps plein pour chaque salariés puis en en faisant la moyenne. d) L'écart de rémunération est calculé, en pourcentage, pour chacun des groupes, en soustrayant la rémunération moyenne des femmes à la rémunération moyenne des hommes et en rapportant ce résultat à la rémunération moyenne des hommes. e) Dans les groupes constitués par catégorie socioprofessionnelle, le seuil de pertinence des écarts est de 5 %. Dans les groupes constitués par niveau ou coefficient hiérarchique, le seuil de pertinence des écarts est de 2 %. Lorsque l'écart de rémunération est positif, le seuil de pertinence est déduit de l'écart, sans toutefois pourvoir l'amener à devenir négatif (plancher à zéro). Lorsque l'écart de rémunération est négatif, le seuil de pertinence est ajouté à l'écart, sans toutefois pouvoir l'amener à devenir positif (plafond à zéro). f) Les écarts ainsi ajustés en fonction des seuils pour chacun des groupes sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de rémunération entre les femmes et les hommes. g) Le résultat final est la valeur absolue de l'écart global de rémunération, arrondie à la première décimale.  | Egal à 0 %  | 40 points  |
-| Supérieur à 0 % et inférieur ou égal à 1 %  | 39 points  |
-| Supérieur à 1 % et inférieur ou égal à 2 %  | 38 points  |
-| Supérieur à 2 % et inférieur ou égal à 3 %  | 37 points  |
-| Supérieur à 3 % et inférieur ou égal à 4 %  | 36 points  |
-| Supérieur à 4 % et inférieur ou égal à 5 %  | 35 points  |
-| Supérieur à 5 % et inférieur ou égal à 6 %  | 34 points  |
-| Supérieur à 6 % et inférieur ou égal à 7 %  | 33 points  |
-| Supérieur à 7 % et inférieur ou égal à 8 %  | 31 points  |
-| Supérieur à 8 % et inférieur ou égal à 9 %  | 29 points  |
-| Supérieur à 9 % et inférieur ou égal à 10 %  | 27 points  |
-| Supérieur à 10 % et inférieur ou égal à 11 %  | 25 points  |
-| Supérieur à 11 % et inférieur ou égal à 12 %  | 23 points  |
-| Supérieur à 12 % et inférieur ou égal à 13 %  | 21 points  |
-| Supérieur à 13 % et inférieur ou égal à 14 %  | 19 points  |
-| Supérieur à 14 % et inférieur ou égal à 15 %  | 17 points  |
-| Supérieur à 15 % et inférieur ou égal à 16 %  | 14 points  |
-| Supérieur à 16 % et inférieur ou égal à 17 %  | 11 points  |
-| Supérieur à 17 % et inférieur ou égal à 18 %  | 8 points  |
-| Supérieur à 18 % et inférieur ou égal à 19 %  | 5 points  |
-| Supérieur à 19 % et inférieur ou égal à 20 %  | 2 points  |
-| Supérieur à 20 %  | 0 point  |
+| Ecart de rémunération entre les femmes et les hommes (1° de l'article D. 1142-2-1) | a) Les salariés sont répartis en groupe, selon quatre tranches d'âge et par catégorie de postes équivalents. Les tranches d'âge sont les suivantes :-moins de 30 ans ;-de 30 à 39 ans ;-de 40 à 49 ans ;-et 50 ans et plus. S'agissant des catégories de postes équivalents, l'employeur peut répartir les salariés, après consultation du comité social et économique, par niveau ou coefficient hiérarchique, en application de la classification de branche ou d'une autre méthode de cotation des postes. La méthode de cotation des postes est adoptée après avis du comité social et économique. Si l'employeur ne souhaite pas répartir les salariés par niveau ou coefficient hiérarchique ou selon une autre méthode de cotation des postes, ou si ces méthodes de répartition ne permettent pas de calculer l'indicateur, il répartit les salariés entre les quatre catégories socioprofessionnelles suivantes :-ouvriers ;-employés ;-techniciens et agents de maîtrise ;-ingénieurs et cadres. b) Seuls les groupes comprenant au moins trois hommes et trois femmes sont pris en compte. Si, en application de cette règle, le calcul de l'indicateur par niveau ou coefficient hiérarchique, dans les conditions prévues au a), est rendu impossible, au regard du critère défini au paragraphe 5.1, le classement par niveau ou coefficient hiérarchique n'est pas retenu et les salariés sont regroupés selon les quatre catégories socioprofessionnelles définies au même a). c) La rémunération moyenne des femmes et des hommes est calculée pour chacun des groupes ainsi constitué, en calculant le salaire en équivalent temps plein pour chaque salariés puis en en faisant la moyenne. d) L'écart de rémunération est calculé, en pourcentage, pour chacun des groupes, en soustrayant la rémunération moyenne des femmes à la rémunération moyenne des hommes et en rapportant ce résultat à la rémunération moyenne des hommes. e) Dans les groupes constitués par catégorie socioprofessionnelle, le seuil de pertinence des écarts est de 5 %. Dans les groupes constitués par niveau ou coefficient hiérarchique, le seuil de pertinence des écarts est de 2 %. Lorsque l'écart de rémunération est positif, le seuil de pertinence est déduit de l'écart, sans toutefois pourvoir l'amener à devenir négatif (plancher à zéro). Lorsque l'écart de rémunération est négatif, le seuil de pertinence est ajouté à l'écart, sans toutefois pouvoir l'amener à devenir positif (plafond à zéro). f) Les écarts ainsi ajustés en fonction des seuils pour chacun des groupes sont multipliés par le ratio de l'effectif du groupe à l'effectif total des groupes pris en compte, puis additionnés pour obtenir l'écart global de rémunération entre les femmes et les hommes. g) Le résultat final est la valeur absolue de l'écart global de rémunération, arrondie à la première décimale. | Egal à 0 % | 40 points |
+| Supérieur à 0 % et inférieur ou égal à 1 % | 39 points |
+| Supérieur à 1 % et inférieur ou égal à 2 % | 38 points |
+| Supérieur à 2 % et inférieur ou égal à 3 % | 37 points |
+| Supérieur à 3 % et inférieur ou égal à 4 % | 36 points |
+| Supérieur à 4 % et inférieur ou égal à 5 % | 35 points |
+| Supérieur à 5 % et inférieur ou égal à 6 % | 34 points |
+| Supérieur à 6 % et inférieur ou égal à 7 % | 33 points |
+| Supérieur à 7 % et inférieur ou égal à 8 % | 31 points |
+| Supérieur à 8 % et inférieur ou égal à 9 % | 29 points |
+| Supérieur à 9 % et inférieur ou égal à 10 % | 27 points |
+| Supérieur à 10 % et inférieur ou égal à 11 % | 25 points |
+| Supérieur à 11 % et inférieur ou égal à 12 % | 23 points |
+| Supérieur à 12 % et inférieur ou égal à 13 % | 21 points |
+| Supérieur à 13 % et inférieur ou égal à 14 % | 19 points |
+| Supérieur à 14 % et inférieur ou égal à 15 % | 17 points |
+| Supérieur à 15 % et inférieur ou égal à 16 % | 14 points |
+| Supérieur à 16 % et inférieur ou égal à 17 % | 11 points |
+| Supérieur à 17 % et inférieur ou égal à 18 % | 8 points |
+| Supérieur à 18 % et inférieur ou égal à 19 % | 5 points |
+| Supérieur à 19 % et inférieur ou égal à 20 % | 2 points |
+| Supérieur à 20 % | 0 point |
 
 4.2. Indicateur relatif à l'écart de taux d'augmentations individuelles entre les femmes et les hommes
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
+| INDICATEUR | METHODE DE CALCUL | RESULTATS OBTENUS | NOMBRE DE POINTS |
 | --- | --- | --- | --- |
-| Ecart de taux d'augmentations individuelles entre les femmes et les hommes (2° de l'article D. 1142-2-1)  | a) Les taux d'augmentations des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés augmentés au cours de la période de référence. Sont prises en compte toutes les augmentations individuelles (1), qu'elles correspondent ou non à une promotion. b) L'écart absolu de taux d'augmentations est égal à la valeur absolue de la différence entre le taux d'augmentations des hommes et le taux d'augmentations des femmes. c) L'écart en nombre de salariés est obtenu en appliquant l'écart absolu de taux d'augmentations calculé au b), au nombre de femmes, ou au nombre d'hommes pris en compte dans le calcul, en choisissant le plus petit de ces deux nombres. d) L'écart en points de pourcentage et le nombre de salariés sont arrondis à la première décimale. e) Le barème est appliqué à l'écart en points de pourcentage et à l'écart en nombre de salariés, et le résultat correspondant au nombre de points le plus élevé est retenu.  | Inférieur ou égal à 2 points de % Ou à 2 salariés  | 35 points  |
-| Supérieur à 2 et inférieur ou égal à 5 points de % Ou supérieur à 2 salariés et inférieur ou égal à 5 salariés  | 25 points  |
-| Supérieur à 5 et inférieur ou égal à 10 points de % Ou supérieur à 5 salariés et inférieur ou égal à 10 salariés  | 15 points  |
-| Supérieur à 10 points de % ou plus de 10 salariés  | 0 point  |
-| (1) La notion d'augmentation individuelle correspond à une augmentation individuelle du salaire de base du salarié concerné.  |
+| Ecart de taux d'augmentations individuelles entre les femmes et les hommes (2° de l'article D. 1142-2-1) | a) Les taux d'augmentations des femmes et des hommes sont calculés, en pourcentage, comme la proportion de salariés augmentés au cours de la période de référence. Sont prises en compte toutes les augmentations individuelles (1), qu'elles correspondent ou non à une promotion. b) L'écart absolu de taux d'augmentations est égal à la valeur absolue de la différence entre le taux d'augmentations des hommes et le taux d'augmentations des femmes. c) L'écart en nombre de salariés est obtenu en appliquant l'écart absolu de taux d'augmentations calculé au b), au nombre de femmes, ou au nombre d'hommes pris en compte dans le calcul, en choisissant le plus petit de ces deux nombres. d) L'écart en points de pourcentage et le nombre de salariés sont arrondis à la première décimale. e) Le barème est appliqué à l'écart en points de pourcentage et à l'écart en nombre de salariés, et le résultat correspondant au nombre de points le plus élevé est retenu. | Inférieur ou égal à 2 points de % Ou à 2 salariés | 35 points |
+| Supérieur à 2 et inférieur ou égal à 5 points de % Ou supérieur à 2 salariés et inférieur ou égal à 5 salariés | 25 points |
+| Supérieur à 5 et inférieur ou égal à 10 points de % Ou supérieur à 5 salariés et inférieur ou égal à 10 salariés | 15 points |
+| Supérieur à 10 points de % ou plus de 10 salariés | 0 point |
+| (1) La notion d'augmentation individuelle correspond à une augmentation individuelle du salaire de base du salarié concerné. |
 
 4.3. Indicateur relatif au pourcentage de salariées ayant bénéficié d'une augmentation dans l'année suivant leur retour de congé de maternité
 
-| INDICATEUR  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
+| INDICATEUR | RESULTATS OBTENUS | NOMBRE DE POINTS |
 | --- | --- | --- |
-| Pourcentage de salariées revenues de congé maternité pendant l'année de référence et ayant bénéficié d'une augmentation à leur retour pendant cette même période, si des augmentations sont intervenues durant la durée de leur congé (4° de l'article D. 1142-2)  | Egal à 100 %  | 15 points  |
-| Inférieur à 100 %  | 0 point  |
+| Pourcentage de salariées revenues de congé maternité pendant l'année de référence et ayant bénéficié d'une augmentation à leur retour pendant cette même période, si des augmentations sont intervenues durant la durée de leur congé (4° de l'article D. 1142-2) | Egal à 100 % | 15 points |
+| Inférieur à 100 % | 0 point |
 
 4.4. Indicateur relatif au nombre de salariés du sexe sous-représenté parmi les dix salariés ayant perçu les plus hautes rémunérations
 
-| INDICATEUR  | METHODE DE CALCUL  | RESULTATS OBTENUS  | NOMBRE DE POINTS  |
+| INDICATEUR | METHODE DE CALCUL | RESULTATS OBTENUS | NOMBRE DE POINTS |
 | --- | --- | --- | --- |
-| Nombre de salariés du sexe sous-représenté parmi les dix salariés ayant perçu les plus hautes rémunérations (4° de l'article D. 1142-2-1)  | L'indicateur est le plus petit des deux nombres suivants : le nombre de femmes et le nombre d'hommes parmi les salariés ayant perçu les 10 plus hautes rémunérations (nombres compris entre 0 et 10).  | 4 ou 5 salariés  | 10 points  |
-| 2 ou 3 salariés  | 5 points  |
-| 0 ou 1 salarié  | 0 point  |
+| Nombre de salariés du sexe sous-représenté parmi les dix salariés ayant perçu les plus hautes rémunérations (4° de l'article D. 1142-2-1) | L'indicateur est le plus petit des deux nombres suivants : le nombre de femmes et le nombre d'hommes parmi les salariés ayant perçu les 10 plus hautes rémunérations (nombres compris entre 0 et 10). | 4 ou 5 salariés | 10 points |
+| 2 ou 3 salariés | 5 points |
+| 0 ou 1 salarié | 0 point |
 
 5. Niveau de résultat\
    Le niveau de résultat obtenu par l'entreprise au regard des indicateurs définis à l'article D. 1142-2-1 correspond à la somme des points obtenus pour chacun des indicateurs en application du barème prévu.\

@@ -30,4 +30,4 @@ L'autorité administrative notifie à la plateforme la décision d'homologation 
 
 La charte est publiée sur le site internet de la plateforme et annexée aux contrats ou aux conditions générales d'utilisation qui la lient aux travailleurs.
 
-Lorsqu'elle est homologuée, l'établissement de la charte \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2019-794 DC du 20 décembre 2019\] ne peut caractériser l'existence d'un lien de subordination juridique entre la plateforme et les travailleurs.
+Lorsqu'elle est homologuée, l'établissement de la charte [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2019-794 DC du 20 décembre 2019] ne peut caractériser l'existence d'un lien de subordination juridique entre la plateforme et les travailleurs.

@@ -8,13 +8,13 @@ Les personnes morales constituant le réseau pour l'emploi coordonnent l'exercic
 
 3° Participent à l'élaboration d'indicateurs communs de suivi, de pilotage et d'évaluation de leurs actions ;
 
-\[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.\]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.]
 
 5° Assurent l'interopérabilité de leurs systèmes d'information avec les outils et les services numériques communs développés par l'opérateur France Travail, dans la mesure où cette interopérabilité est nécessaire à la mise en œuvre des actions mentionnées au présent article ;
 
 6° Organisent la participation des bénéficiaires de leurs services à la définition et à l'évaluation des actions du réseau pour l'emploi ;
 
-\[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.\]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023.]
 
 NOTA:
 Conformément au IV de l’article 4 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

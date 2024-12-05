@@ -4,10 +4,10 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre Ier |  |
-| R. 6413-2 à R. 6413-4 |  |
-| Titre II |  |
-| R. 6421-1 à R. 6421-7 |  |
-| R. 6422-2 |  |
-| Titre III |  |
-| R. 6433-1 à R. 6433-2 |  |
+| Titre Ier | |
+| R. 6413-2 à R. 6413-4 | |
+| Titre II | |
+| R. 6421-1 à R. 6421-7 | |
+| R. 6422-2 | |
+| Titre III | |
+| R. 6433-1 à R. 6433-2 | |

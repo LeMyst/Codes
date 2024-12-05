@@ -2,7 +2,7 @@
 
 Annexe à l'article R. 6527-40 : tableau de la valeur de « a » :
 
-| Année de prise d'effet de la pension(du 1er janvier au 31 décembre) | a est égal à la valeur la plus faible entre le nombre de jours ayant donné lieu  au versement ou au rachat de cotisations, au sens des articles R. 6527-31  à R. 6527-35 et la valeur du tableau |
+| Année de prise d'effet de la pension(du 1er janvier au 31 décembre) | a est égal à la valeur la plus faible entre le nombre de jours ayant donné lieu au versement ou au rachat de cotisations, au sens des articles R. 6527-31 à R. 6527-35 et la valeur du tableau |
 | --- | --- |
 | 2012 | 9 360 |
 | 2013 | 9 720 |

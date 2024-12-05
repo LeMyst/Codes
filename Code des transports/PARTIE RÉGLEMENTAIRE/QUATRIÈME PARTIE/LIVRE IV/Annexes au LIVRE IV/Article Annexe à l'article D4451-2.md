@@ -86,7 +86,7 @@ Il supporte vis-à-vis de l'entrepreneur de transport toutes les conséquences d
 
 3.2. Données fournies par l'entrepreneur de transport.
 
-Il incombe à l'entrepreneur de transport de fournir au donneur d'ordre, au plus tard au moment de la conclusion du contrat, les caractéristiques techniques du bateau qu'il met à sa disposition (longueur, largeur, dimensions utiles des cales, tirant d'air, tirant d'eau, port en lourd aux enfoncements communs, cubage, puissance moteur \[CV ou kW\]) ainsi que la liste des voies d'eau sur lesquelles le bateau est autorisé à naviguer avec et sans pilote et les éventuelles habilitations de l'entrepreneur de transport et du bateau.
+Il incombe à l'entrepreneur de transport de fournir au donneur d'ordre, au plus tard au moment de la conclusion du contrat, les caractéristiques techniques du bateau qu'il met à sa disposition (longueur, largeur, dimensions utiles des cales, tirant d'air, tirant d'eau, port en lourd aux enfoncements communs, cubage, puissance moteur [CV ou kW]) ainsi que la liste des voies d'eau sur lesquelles le bateau est autorisé à naviguer avec et sans pilote et les éventuelles habilitations de l'entrepreneur de transport et du bateau.
 
 Article 4
 

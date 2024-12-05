@@ -4,7 +4,7 @@ Sous réserve des adaptations prévues par le présent chapitre, et des compéte
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre I |  |
-| D. 6511-25 à D. 6511-29 |  |
-| Titre III |  |
-| D. 6530-13 |  |
+| Titre I | |
+| D. 6511-25 à D. 6511-29 | |
+| Titre III | |
+| D. 6530-13 | |

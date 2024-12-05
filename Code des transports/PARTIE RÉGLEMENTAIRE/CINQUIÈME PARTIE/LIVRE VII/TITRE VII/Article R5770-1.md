@@ -4,4 +4,4 @@ Sont applicables en Polynésie française, sous réserve des dispositions d'adap
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 5000-1 à R. 5000-3 | Résultant du décret n° 2024-461 du 22 mai 2024  |
+| R. 5000-1 à R. 5000-3 | Résultant du décret n° 2024-461 du 22 mai 2024 |

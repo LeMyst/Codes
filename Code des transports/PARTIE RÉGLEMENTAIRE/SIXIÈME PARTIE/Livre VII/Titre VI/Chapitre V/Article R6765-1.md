@@ -4,10 +4,10 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre I |  |
-| R. 6511-1 à R. 6511-24 |  |
-| Titre II |  |
-| R. 6521-1 à R. 6521-34 |  |
-| R. 6522-1 à R. 6522-3 |  |
-| Titre III |  |
-| R. 6530-1 à R. 6530-12 |  |
+| Titre I | |
+| R. 6511-1 à R. 6511-24 | |
+| Titre II | |
+| R. 6521-1 à R. 6521-34 | |
+| R. 6522-1 à R. 6522-3 | |
+| Titre III | |
+| R. 6530-1 à R. 6530-12 | |

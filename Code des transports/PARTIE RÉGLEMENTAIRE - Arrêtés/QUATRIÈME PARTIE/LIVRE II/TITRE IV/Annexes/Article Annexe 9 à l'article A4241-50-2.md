@@ -4,20 +4,20 @@ DONNÉES LIÉES AU STATUT NAVIGATIONNEL ET AU POINT D'ACQUISITION DE L'INFORMATI
 
 1. Statut navigationnel
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-| 0  | Under way using engine  | En cours de voyage avec utilisation du moteur  |
-| 1  | At anchor  | A l'ancre  |
-| 2  | Not under command  | Non maître de sa manœuvre  |
-| 3  | Restricted manoeuvrability  | Manœuvrabilité restreinte  |
-| 4  | Constrained by her draught  | Restreint par son enfoncement  |
-| 5  | Moored  | Amarré  |
-| 6  | Aground  | Echoué  |
-| 7  | Engaged in fishing  | Activité de pêche  |
-| 8  | Under way sailing  | Navigation à voile  |
-| 9 à 13  | Reserved for future uses  | Réservé pour un usage ultérieur  |
-| 14  | AIS-SART (active)  | AIS-SART (actif)  |
-| 15  | Not defined  | Non défini  |
+| 0 | Under way using engine | En cours de voyage avec utilisation du moteur |
+| 1 | At anchor | A l'ancre |
+| 2 | Not under command | Non maître de sa manœuvre |
+| 3 | Restricted manoeuvrability | Manœuvrabilité restreinte |
+| 4 | Constrained by her draught | Restreint par son enfoncement |
+| 5 | Moored | Amarré |
+| 6 | Aground | Echoué |
+| 7 | Engaged in fishing | Activité de pêche |
+| 8 | Under way sailing | Navigation à voile |
+| 9 à 13 | Reserved for future uses | Réservé pour un usage ultérieur |
+| 14 | AIS-SART (active) | AIS-SART (actif) |
+| 15 | Not defined | Non défini |
 
 2. Point d'acquisition de l'information relative à la position à bord du bateau
 

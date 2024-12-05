@@ -7,4 +7,4 @@ Pendant tout le temps où il est soigné par le médecin de son choix, le marin 
 L'employeur peut, au cours du traitement, désigner un médecin chargé de le renseigner sur l'état du marin.
 
 NOTA:
-Conformément au troisième alinéa du II de l'article 87 de la loi n° 2023-1250 du 26 décembre 2023, l'article L. 5542-24 \[du même code\] est applicable aux régularisations portant sur des versements d'indemnités journalières de nourriture antérieurs au 11 mai 2023 ainsi qu'aux indemnisations n'ayant pas fait l'objet de versements sur la même période.
+Conformément au troisième alinéa du II de l'article 87 de la loi n° 2023-1250 du 26 décembre 2023, l'article L. 5542-24 [du même code] est applicable aux régularisations portant sur des versements d'indemnités journalières de nourriture antérieurs au 11 mai 2023 ainsi qu'aux indemnisations n'ayant pas fait l'objet de versements sur la même période.

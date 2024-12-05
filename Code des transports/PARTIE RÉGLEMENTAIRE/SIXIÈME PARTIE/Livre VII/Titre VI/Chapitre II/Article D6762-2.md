@@ -4,14 +4,14 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre I |  |
-| D. 6200-1 à D. 6200-3 |  |
-| D. 6213-2 et D. 6213-3 |  |
-| D. 6213-5 et D. 6213-6 |  |
-| D. 6213-8 |  |
-| D. 6213-22 et D. 6213-23 |  |
-| D. 6213-27 et D. 6213-28 |  |
-| Titre II |  |
-| D. 6221-26 à D. 6221-34 |  |
-| D. 6221-37 et D. 6221-38 |  |
-| D. 6221-51 |  |
+| Titre I | |
+| D. 6200-1 à D. 6200-3 | |
+| D. 6213-2 et D. 6213-3 | |
+| D. 6213-5 et D. 6213-6 | |
+| D. 6213-8 | |
+| D. 6213-22 et D. 6213-23 | |
+| D. 6213-27 et D. 6213-28 | |
+| Titre II | |
+| D. 6221-26 à D. 6221-34 | |
+| D. 6221-37 et D. 6221-38 | |
+| D. 6221-51 | |

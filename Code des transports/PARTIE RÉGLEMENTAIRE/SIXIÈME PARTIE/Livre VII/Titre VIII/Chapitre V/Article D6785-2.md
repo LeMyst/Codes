@@ -4,10 +4,10 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre Ier |  |
-| D. 6511-25 à D. 6511-29 |  |
-| Titre II |  |
-| D. 6523-3 |  |
-| D. 6523-5 et D. 6523-6 |  |
-| Titre III |  |
-| D. 6530-13 |  |
+| Titre Ier | |
+| D. 6511-25 à D. 6511-29 | |
+| Titre II | |
+| D. 6523-3 | |
+| D. 6523-5 et D. 6523-6 | |
+| Titre III | |
+| D. 6530-13 | |

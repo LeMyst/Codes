@@ -4,6 +4,6 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
-| Titre I |  |
-| D. 6111-1 à D. 6111-10 |  |
-| D. 6111-12 à D. 6111-35 |  |
+| Titre I | |
+| D. 6111-1 à D. 6111-10 | |
+| D. 6111-12 à D. 6111-35 | |

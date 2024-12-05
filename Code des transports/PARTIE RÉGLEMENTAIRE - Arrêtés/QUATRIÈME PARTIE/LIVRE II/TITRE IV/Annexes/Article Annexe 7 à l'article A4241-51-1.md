@@ -6,7 +6,7 @@ I. - Tailles des signaux de la voie de navigation intérieure
 
 1° Les signaux principaux définis en annexe 5 section I ont des dimensions correspondant à l'une des quatre gammes ci-dessous, on appelle longueur caractéristique, notée Ld, d'une gamme de panneau la longueur d'un coté du panneau carré de la gamme.
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | Gamme | Carré | Rectangle | Panneaux A.10 D.1 et D.2 |
 | Gamme 1 | 700 x 700 | 700 x 1050 | 500 x 500 |

@@ -1,0 +1,3 @@
+# Article R2241-15
+
+Le public est informé par tout moyen approprié de ce que les données à caractère personnel déclarées lors de la constatation de l'infraction par un agent mentionné au 4° ou au 5° du I de l'article L. 2241-1 font l'objet de la communication prévue par l'article L. 2241-2-1, à laquelle n'est pas applicable le droit d'opposition prévu à l'article 21 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE.

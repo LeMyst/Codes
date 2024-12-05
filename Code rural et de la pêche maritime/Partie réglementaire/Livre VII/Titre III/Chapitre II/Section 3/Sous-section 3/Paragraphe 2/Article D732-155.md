@@ -4,7 +4,7 @@ I.-Pour les personnes mentionnées au I de l'article L. 732-56, le minimum prév
 
 Le nombre annuel de points de retraite complémentaire obligatoire porté au compte de l'assuré mentionné au I de l'article L. 732-56 est calculé selon la formule suivante :
 
-P = C/ \[(1820 SMIC x T)/ N\]
+P = C/ [(1820 SMIC x T)/ N]
 
 où :
 

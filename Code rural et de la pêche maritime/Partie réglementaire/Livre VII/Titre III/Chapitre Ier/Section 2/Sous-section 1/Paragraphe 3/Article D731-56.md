@@ -2,7 +2,7 @@
 
 Le montant du plafond de l'exonération prévue par l'article L. 731-13 est calculé en pourcentage du plafond annuel de la sécurité sociale prévu à l'article D. 242-17 du code de la sécurité sociale selon la formule suivante :
 
-Pe = \[T × (40 % PSS)\] × Te
+Pe = [T × (40 % PSS)] × Te
 
 où :
 

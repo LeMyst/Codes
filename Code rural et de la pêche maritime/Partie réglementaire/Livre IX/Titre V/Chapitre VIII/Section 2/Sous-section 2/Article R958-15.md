@@ -1,6 +1,6 @@
 # Article R958-15
 
-L'autorité désignée à l'article R. * 911-3 détermine par arrêté, sur la base des éléments communiqués par le ou les instituts scientifiques concernés, après avis du ministre des affaires étrangères, du ministre chargé des pêches maritimes et de l'aquaculture marine et du ministre chargé de l'outre-mer, les règles relatives à :  1° L'interdiction permanente ou temporaire et la réglementation de l'exercice de la pêche de toutes ou de certaines espèces dans certaines zones ;
+L'autorité désignée à l'article R. * 911-3 détermine par arrêté, sur la base des éléments communiqués par le ou les instituts scientifiques concernés, après avis du ministre des affaires étrangères, du ministre chargé des pêches maritimes et de l'aquaculture marine et du ministre chargé de l'outre-mer, les règles relatives à : 1° L'interdiction permanente ou temporaire et la réglementation de l'exercice de la pêche de toutes ou de certaines espèces dans certaines zones ;
 
 2° La taille ou le poids des captures en dessous desquels celles-ci doivent être aussitôt rejetées ;
 

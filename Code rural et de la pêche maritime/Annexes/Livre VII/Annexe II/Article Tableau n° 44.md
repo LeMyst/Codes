@@ -2,7 +2,7 @@
 
 Affections cutanées et muqueuses professionnelles de mécanisme allergique
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé. | 15 jours | Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits. |

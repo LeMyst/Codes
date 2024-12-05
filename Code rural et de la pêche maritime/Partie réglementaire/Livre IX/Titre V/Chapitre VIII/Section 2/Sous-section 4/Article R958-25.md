@@ -1,6 +1,6 @@
 # Article R958-25
 
-Un navire détenteur d'une autorisation doit, pour pouvoir pêcher, se conformer aux prescriptions suivantes :  1° L'original de l'autorisation est détenu à bord ;
+Un navire détenteur d'une autorisation doit, pour pouvoir pêcher, se conformer aux prescriptions suivantes : 1° L'original de l'autorisation est détenu à bord ;
 
 2° Le capitaine tient un journal de pêche ;
 

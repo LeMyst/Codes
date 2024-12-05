@@ -2,7 +2,7 @@
 
 Maladies professionnelles provoquées par le cadmium et ses composés
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer les maladies |
 | Broncho-pneumopathie aiguë. | 5 jours | Découpage au chalumeau ou soudure de pièces cadmiées.Soudure avec alliage de cadmium. |

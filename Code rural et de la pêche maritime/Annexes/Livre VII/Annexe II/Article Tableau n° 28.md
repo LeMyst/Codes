@@ -2,7 +2,7 @@
 
 Affections provoquées par l'aldéhyde formique et ses polymères
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DE LA MALADIE | DÉLAI DE PRISEen charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer la maladie |
 | Dermatites irritatives. | 7 jours | Travaux comportant la préparation, la manipulation ou l'emploi de l'aldéhyde formique, de ses solutions et de ses polymères, notamment : - travaux de désinfection ; - préparation des couches dans les champignonnières ; - traitement des peaux. |

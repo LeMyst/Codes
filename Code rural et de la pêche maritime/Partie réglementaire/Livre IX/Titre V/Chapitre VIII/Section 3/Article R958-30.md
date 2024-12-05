@@ -1,6 +1,6 @@
 # Article R958-30
 
-Chaque autorisation peut déterminer, en particulier, la période et les zones de pêche autorisées, les espèces ou groupes d'espèces concernés et les engins de pêche autorisés.  Un navire détenteur d'une autorisation doit, pour pouvoir pêcher, se conformer à la réglementation applicable, aux mesures de conservation ou de gestion applicables adoptées par une organisation régionale de gestion des pêches compétente et aux prescriptions techniques annexées à l'autorisation.
+Chaque autorisation peut déterminer, en particulier, la période et les zones de pêche autorisées, les espèces ou groupes d'espèces concernés et les engins de pêche autorisés. Un navire détenteur d'une autorisation doit, pour pouvoir pêcher, se conformer à la réglementation applicable, aux mesures de conservation ou de gestion applicables adoptées par une organisation régionale de gestion des pêches compétente et aux prescriptions techniques annexées à l'autorisation.
 
 Ces prescriptions techniques peuvent fixer notamment les modalités :
 

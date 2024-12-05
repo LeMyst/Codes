@@ -1,6 +1,6 @@
 # Article R461-13
 
-Lorsque le preneur a apporté des améliorations au fonds loué, la valeur de ces améliorations est ainsi appréciée :  1° En ce qui concerne les bâtiments ou les ouvrages incorporés au sol, elle est égale à la somme que coûteraient les travaux au moment de l'expiration du bail, déduction faite de l'amortissement correspondant à la vétusté. Toutefois, il n'est pas tenu compte des dépenses ayant un caractère somptuaire ;
+Lorsque le preneur a apporté des améliorations au fonds loué, la valeur de ces améliorations est ainsi appréciée : 1° En ce qui concerne les bâtiments ou les ouvrages incorporés au sol, elle est égale à la somme que coûteraient les travaux au moment de l'expiration du bail, déduction faite de l'amortissement correspondant à la vétusté. Toutefois, il n'est pas tenu compte des dépenses ayant un caractère somptuaire ;
 
 2° En ce qui concerne les travaux de défense des sols contre l'érosion, elle est égale au montant des dépenses engagées par le preneur pour la part non encore amortie. Il en est de même pour toutes améliorations culturales ou travaux de transformation du sol ayant entraîné une augmentation du potentiel de production de plus de 25 % ;
 

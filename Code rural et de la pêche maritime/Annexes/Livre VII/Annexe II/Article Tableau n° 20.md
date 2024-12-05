@@ -2,7 +2,7 @@
 
 Affections provoquées par les rayonnements ionisants
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer ces maladies |
 | Anémie, leucopénie, thrombopénie ou syndrome hémorragique consécutifs à une irradiation aiguë. | 30 jours | Travaux exposant à l'action des rayonnements ionisants, notamment :- travaux effectués dans les services médicaux, ou médico-sociaux, ou dans les laboratoires ;- travaux concernant la conservation et l'analyse de produits agricoles divers. |

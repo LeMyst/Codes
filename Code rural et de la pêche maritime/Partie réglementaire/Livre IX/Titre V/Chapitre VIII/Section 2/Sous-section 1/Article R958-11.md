@@ -10,16 +10,16 @@ Sont applicables aux Terres australes et antarctiques françaises ainsi qu'aux e
 
 4° La référence au règlement (CE) n° 1224/2009 du Conseil du 20 novembre 2009 instituant un régime communautaire de contrôle afin d'assurer le respect des règles de la politique commune de la pêche est remplacée par la référence aux règles applicables en métropole en vertu du règlement (CE) n° 1224/2009 du Conseil du 20 novembre 2009 instituant un régime communautaire de contrôle afin d'assurer le respect des règles de la politique commune de la pêche.
 
-| DISPOSITIONS APPLICABLES  | DANS LEUR RÉDACTION  |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 924-1 à R. 924-7  | Résultant du décret n° 2017-568 du 19 avril 2017 relatif aux zones de conservation halieutiques  |
-| R. 941-1  | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime  |
-| R. 941-4  | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime  |
-| R. 942-1 à R. 942-4  | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime  |
-| R. 943-1 à R. 943-9  | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime  |
-| R. 946-1 à R. 946-19  | Résultant du décret n° 2014-1608 du 26 décembre 2014  |
-| R. 946-20  | Résultant du décret n° 2017-942 du 10 mai 2017  |
-| R. 946-21  | Résultant du décret n° 2014-1608 du 26 décembre 2014 |
+| R. 924-1 à R. 924-7 | Résultant du décret n° 2017-568 du 19 avril 2017 relatif aux zones de conservation halieutiques |
+| R. 941-1 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
+| R. 941-4 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
+| R. 942-1 à R. 942-4 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
+| R. 943-1 à R. 943-9 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
+| R. 946-1 à R. 946-19 | Résultant du décret n° 2014-1608 du 26 décembre 2014 |
+| R. 946-20 | Résultant du décret n° 2017-942 du 10 mai 2017 |
+| R. 946-21 | Résultant du décret n° 2014-1608 du 26 décembre 2014 |
 
 NOTA:
 Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

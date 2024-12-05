@@ -10,16 +10,16 @@ Les dispositions du présent livre (partie réglementaire) mentionnées dans la 
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTIONR |
 | --- | --- |
-| . 924-1 à R. 924-7Résultant |  du décret n° 2017-568 du 19 avril 2017 du relatif aux zones de conservation halieutiques |
+| . 924-1 à R. 924-7Résultant | du décret n° 2017-568 du 19 avril 2017 du relatif aux zones de conservation halieutiques |
 | R. 941-1 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 941-4 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 942-1 à R. 942-4 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 943-1 à R. 943-9 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 946-7 et R. 946-8 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
-| R. 946-14 (premier, quatrième, cinquième et sixième alinéas)  | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
+| R. 946-14 (premier, quatrième, cinquième et sixième alinéas) | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 946-15 à R. 946-19 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
-| R. 946-20 (premier alinéa)  | Résultant du décret n° 2017-942 du 10 mai 2017  |
-| R. 946-20 (première phrase du deuxième alinéa, première phrase du troisième alinéa)  | Résultant du décret n° 2014-1608 du 26 décembre 2014 |
+| R. 946-20 (premier alinéa) | Résultant du décret n° 2017-942 du 10 mai 2017 |
+| R. 946-20 (première phrase du deuxième alinéa, première phrase du troisième alinéa) | Résultant du décret n° 2014-1608 du 26 décembre 2014 |
 | R. 946-21 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritimeLes |
 
 dispositions des articles R. 946-7, R. 946-8 et R. 946-14 à R. 946-21 dans leur rédaction mentionnée au tableau ci-dessus ne sont, à Wallis-et-Futuna, applicables qu'aux titulaires d'un titre de commandement de navire de pêche répondant aux conditions mentionnées à l'article L. 5785-2 du code des transports.

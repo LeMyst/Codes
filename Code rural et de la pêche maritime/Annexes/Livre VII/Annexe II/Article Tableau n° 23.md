@@ -2,7 +2,7 @@
 
 Intoxication professionnelle par le bromure de méthyle
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DE LA MALADIE | DÉLAI DE PRISEen charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer la maladie |
 | Troubles encéphalo-médullaires, tremblements intentionnels, myoclonies, crises épileptiformes, ataxies, aphasie et dysarthrie, accès confusionnels, anxiété pantophobique, dépression mélancolique. | 7 jours | Manipulation et emploi du bromure de méthyle ou des produits en renfermant, notamment : - utilisation comme agent insecticide, rodenticide ou nématicide ; - emploi pour le traitement des sols, dans les conditions fixées par l'arrêté du 25 janvier 1971. |

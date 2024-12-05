@@ -2,6 +2,6 @@
 
 | 1 | 2 |
 | Maladies-agents pathogènes | Espèces sensibles |
-| Mollusques |  |
+| Mollusques | |
 | Bonamiose (Bonamia Ostreae). | Huître plate (Ostreae edulis). |
 | Marteiliose (Marteilia refringens). | Huître plate (Ostreae edulis). |

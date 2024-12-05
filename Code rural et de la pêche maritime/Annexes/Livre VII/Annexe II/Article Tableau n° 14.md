@@ -2,7 +2,7 @@
 
 Affections causées par les ciments
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE PRISEen charge | LISTE LIMITATIVE DES PRINCIPAUX TRAVAUXsusceptibles de provoquer ces maladies |
 | Ulcérations, dermites primitives, pyodermites. | 30 jours | Emploi de ciments à l'occasion de travaux effectués dans une exploitation ou une entreprise agricole.Emploi de ciments à l'occasion de travaux effectués par des artisans ruraux. |

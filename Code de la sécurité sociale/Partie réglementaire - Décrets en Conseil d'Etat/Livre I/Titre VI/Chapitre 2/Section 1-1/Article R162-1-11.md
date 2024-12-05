@@ -70,6 +70,6 @@ d) Mention du motif en cas de maintien de l'indemnisation dans les cas prévus a
 
 a) Date à laquelle a été accordé le bénéfice de la limitation ou de la suppression de la participation de l'assuré, avec indication du motif retenu en application des 3° et 4° de l'article L. 160-14, selon le fait générateur ;
 
-b) Libellé générique de la ou des affections, selon la liste établie en application de l'article L. 160-14 \[3°\] ou, pour les affections mentionnées à l'article L. 160-14 \[4°\], selon la codification internationale en vigueur ;
+b) Libellé générique de la ou des affections, selon la liste établie en application de l'article L. 160-14 [3°] ou, pour les affections mentionnées à l'article L. 160-14 [4°], selon la codification internationale en vigueur ;
 
 c) Eléments du protocole de soins actualisé, établi en application de l'article L. 324-1, ainsi que la durée de ce protocole, avec indication des actes et prestations de toute nature concourant au traitement de la ou des affections concernées et auxquels s'applique la limitation ou la suppression de la participation ainsi que, le cas échéant, de la fréquence respective des actes et prestations.

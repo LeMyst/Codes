@@ -16,31 +16,31 @@ Tableau A : risque de contrepartie
 
 Le tableau indique, pour chaque contrepartie et conformément au modèle ci-dessous, le montant agrégé des risques sur cette contrepartie, provenant notamment d'instruments financiers, de prêts, de garanties et cautions, de contrats d'assurance ou de réassurance. Sont toutefois exclus les placements d'assurance pour lesquels le risque de placement est intégralement supporté par les assurés, ou dont la contrepartie est un Etat membre de l'OCDE ou un organisme international à caractère public dont un ou plusieurs Etats membres de l'Union européenne font partie. En outre, sont seulement indiquées les contreparties pour lesquelles le montant brut agrégé excède 300 millions d'euros ou 10 % des fonds propres du conglomérat financier. Une contrepartie est soit un organisme isolé, soit plusieurs organismes appartenant au même groupe au sens du 1° de l'article R. 931-10-34. Le tableau fait apparaître le montant agrégé des risques de contrepartie pour le secteur de l'assurance d'une part, pour le secteur bancaire et des entreprises d'investissement d'autre part. A cette fin, il est considéré que la compagnie financière holding mixte appartient au secteur financier le plus important.
 
-|  |  |  |  |  |  |  |
+| | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| NOM de la contrepartie  | MONTANTS bruts  | DÉPRÉCIATION  | MONTANTS NETS de provisions  | DÉDUCTIONS  | RISQUES après déduction  | RISQUES NETS  |
-| Contrepartie X  |  |  |  |  |  |  |
-| Total du secteur des assurances  |  |  |  |  |  |  |
-| Total du secteur bancaire et des services d'investissement  |  |  |  |  |  |  |
-| TOTAL  |  |  |  |  |  |  |
-| Contrepartie Y  |  |  |  |  |  |  |
+| NOM de la contrepartie | MONTANTS bruts | DÉPRÉCIATION | MONTANTS NETS de provisions | DÉDUCTIONS | RISQUES après déduction | RISQUES NETS |
+| Contrepartie X | | | | | | |
+| Total du secteur des assurances | | | | | | |
+| Total du secteur bancaire et des services d'investissement | | | | | | |
+| TOTAL | | | | | | |
+| Contrepartie Y | | | | | | |
 
 Tableau B : risque de placement en actions et en immobilier
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | VALEUR NETTE COMPTABLE des placements en actions  | VALEUR NETTE COMPTABLE des placements immobiliers  |
-| Secteur des assurances  |  |  |
-| Secteur bancaire et des services d'investissement  |  |  |
-| Total  |  |  |
+| | VALEUR NETTE COMPTABLE des placements en actions | VALEUR NETTE COMPTABLE des placements immobiliers |
+| Secteur des assurances | | |
+| Secteur bancaire et des services d'investissement | | |
+| Total | | |
 
 d) Etat G 22.-Transactions intragroupes importantes :
 
 Doit être déclarée toute transaction intragroupe dont le montant excède 5 % des exigences de solvabilité relatives au secteur financier du conglomérat financier. Pour chaque transaction intragroupe soumise à l'obligation de déclaration sont indiquées les caractéristiques de la transaction, selon le modèle ci-après :
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-| Type de transaction  | Date  | Montant  | Description de l'opération (contreparties, sens, objectifs poursuivis...)  |
+| Type de transaction | Date | Montant | Description de l'opération (contreparties, sens, objectifs poursuivis...) |
 
 Pour les engagements figurant dans le tableau des engagements reçus et donnés ou le hors-bilan, le montant est celui repris dans ces états comptables
 

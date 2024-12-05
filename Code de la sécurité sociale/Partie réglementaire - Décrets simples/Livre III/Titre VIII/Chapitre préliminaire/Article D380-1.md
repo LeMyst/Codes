@@ -2,7 +2,7 @@
 
 I.-Le montant de la cotisation mentionnée à l'article L. 380-2 est déterminé selon la formule suivante :
 
-Montant de la cotisation = 6,5 % × (A-0,5 × PASS) × \[1-R/ (0,2 × PASS)\]
+Montant de la cotisation = 6,5 % × (A-0,5 × PASS) × [1-R/ (0,2 × PASS)]
 
 Où :
 

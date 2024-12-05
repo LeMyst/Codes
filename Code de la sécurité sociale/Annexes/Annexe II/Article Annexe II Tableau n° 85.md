@@ -4,7 +4,7 @@
 
 **DUREE D'EXPOSITION : SIX MOIS**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DE LA MALADIE | DÉLAI de prise en charge | LISTE INDICATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie |
 | Glioblastome. | 30 ans | Fabrication et conditionnement de ces substances. Utilisation dans les laboratoires de génie génétique, de biologie cellulaire, de recherche en mutagénèse ou cancérologie. |

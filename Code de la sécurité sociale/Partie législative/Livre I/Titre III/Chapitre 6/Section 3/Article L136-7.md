@@ -107,7 +107,7 @@ VI.1-La contribution portant sur les plus-values mentionnées au 2° du I est as
 
 La contribution portant sur les plus-values mentionnées au I bis est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement mentionné à l'article 244 bis A du code général des impôts.
 
-2. Pour la détermination de l'assiette de la contribution portant sur les plus-values mentionnées au 1, autres que celles mentionnées à l'article 150 UA du code général des impôts \[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-685 DC du 29 décembre 2013.\] il est fait application, en lieu et place de l'abattement mentionné aux premier à troisième alinéas du I de l'article 150 VC dudit code, d'un abattement fixé à :
+2. Pour la détermination de l'assiette de la contribution portant sur les plus-values mentionnées au 1, autres que celles mentionnées à l'article 150 UA du code général des impôts [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-685 DC du 29 décembre 2013.] il est fait application, en lieu et place de l'abattement mentionné aux premier à troisième alinéas du I de l'article 150 VC dudit code, d'un abattement fixé à :
 
 a) 1,65 % pour chaque année de détention au-delà de la cinquième ;
 

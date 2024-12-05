@@ -75,7 +75,7 @@ Les décisions et communications prises en vertu des 1° et 2° du présent arti
 Pour l'application des 2°, 4°, 5°, 8°, 15° et 16°, la Haute Autorité de santé prend en compte les risques de maltraitance.
 
 NOTA:
-|  |
+| |
 | --- |
-|  |
+| |
 | Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, les présentes dispositions entrent en vigueur le 1er janvier 2024. |

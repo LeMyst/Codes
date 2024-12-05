@@ -176,9 +176,9 @@ Les séquelles cérébelleuses des traumatismes crâniens sont relativement rare
 
 Une atteinte unilatérale comportera, suivant l'importance de la maladresse des mouvements :
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | DOMINANT | NON DOMINANT |
+| | DOMINANT | NON DOMINANT |
 | Complète | 80 | 75 |
 | Moyenne | 30 à 70 | 25 à 65 |
 | Légère | 10 à 25 | 10 à 20 |
@@ -337,9 +337,9 @@ Syndromes atrophiques :
 
 Au membre supérieur.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | DOMINANT | NON DOMINANT |
+| | DOMINANT | NON DOMINANT |
 | Atteinte à prédominance proximale de la ceinture scapulaire et du bras, sans retentissement sur la fonction de la main | 20 à 40 | 20 à 35 |
 | Atteinte à prédominance distale intéressant la fonction de la main ou de l'avant-bras | 30 à 70 | 30 à 60 |
 | Atteinte complète avec impotence totale d'un membre supérieur | 90 | 80 |
@@ -434,9 +434,9 @@ Le sujet peut se lever, maintenir certaines positions, mais la démarche est imp
 
 Atteinte isolée d'un membre supérieur.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | DOMINANT | NON DOMINANT |
+| | DOMINANT | NON DOMINANT |
 | Préhension possible, mais avec gêne de la dextérité digitale | 10 à 25 | 8 à 20 |
 | Préhension possible, mais sans aucune dextérité digitale | 25 à 50 | 20 à 45 |
 | Mouvements du membre supérieur très difficiles | 50 à 75 | 45 à 65 |
@@ -466,18 +466,18 @@ Son atteinte se manifeste par des troubles sensitifs, moteurs, réflexes et symp
 
 INNERVATION DES PRINCIPAUX MUSCLES (tête exclue)
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | MUSCLES | RACINES | NERFS |
 | Muscles de la nuque | C1 à C4 | Plexus cervical |
 | Trapèze | C1 à C4 | Spinal médullaire et plexus cervical |
 | Diaphragme | C3 - C4 | Phrénique |
-| Rhomboïdes | C4 - C5 |  |
-| Grand dentelé | C5 - C7 |  |
-| Pectoraux | C5 à D1 |  |
+| Rhomboïdes | C4 - C5 | |
+| Grand dentelé | C5 - C7 | |
+| Pectoraux | C5 à D1 | |
 | Sus-épineux | C5 | Plexus brachial |
-| Sous-épineux | C5 - C6 |  |
-| Grand dorsal | C6 à C8 |  |
+| Sous-épineux | C5 - C6 | |
+| Grand dorsal | C6 à C8 | |
 | Deltoïde | C5 - C6 | Circonflexe |
 | Triceps brachial antérieur | C5 - C6 | Musculo-cutané |
 | Triceps brachial | C7 - C8 | Radial |
@@ -500,10 +500,10 @@ INNERVATION DES PRINCIPAUX MUSCLES (tête exclue)
 | Abducteur du pouce | C8 - D1 | Cubital |
 | Interosseux | C8 - D1 | Cubital |
 | Muscles hypothénariens | C8 - D1 | Cubital |
-| Muscles abdominaux | D5 à D12 |  |
+| Muscles abdominaux | D5 à D12 | |
 | Psoasiliaque | D12 à L3 | Plexus lombaire |
 | Grand fessier | L4 à S1 | Plexus sacré |
-| Moyen et petit fessiers | L4 à S1 |  |
+| Moyen et petit fessiers | L4 à S1 | |
 | Quadriceps | (L2) L3 - L4 | Crural |
 | Adducteurs | L2 - L3 (L4) | Obturateur |
 | Muscles ischio-jambiers | (L5) S1 - S2 | Sciatique |
@@ -519,7 +519,7 @@ TABLEAU DES RÉFLEXES
 
 Les localisations plus spécifiques sont portées en caractères gras
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | RÉFLEXEdénominateur | EXCITATION (TECHNIQUE) | RÉACTIONnormale | LOCALISATIONd'après l'émergence rachidienne |
 | Massétérien | Percussion d'une spatule posée sur les dents inférieures, la bouche étant entr'ouverte. | Elévation du maxillaire inférieur | Protubérance annulaire |
@@ -566,23 +566,23 @@ Les troubles névritiques, douleurs, troubles trophiques, accompagnant éventuel
 
 En cas d'atteinte simultanée de plusieurs nerfs d'un même membre, il y a lieu d'additionner les taux, le taux global ne pouvant en aucun cas dépasser le taux fixé pour la paralysie de ce membre.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | DROIT | GAUCHE |
+| | DROIT | GAUCHE |
 | Paralysie totale du membre supérieur (degré 0, 1, 2 et 3) | 90 | 80 |
-| Plexus brachial : |  |  |
+| Plexus brachial : | | |
 | - Paralysie radiculaire supérieure, type Duchenne-Erb (deltoïde, sus-épineux, biceps, brachial antérieur, coraco-brachial, long supinateur, et parfois sous-épineux, sous scapulaire, court supinateur et hémidiaphragme) (degré 0, 1, 2 et 3) | 55 | 45 |
 | Paralysie radiculaire inférieure, type Déjerine-Klumpke (fléchisseurs des doigts et muscles de la main) (degré 0, 1, 2 et 3) | 65 | 55 |
 | Paralysie isolée du nerf sous-scapulaire (grand dentelé, degré 0, 1, 2 et 3) | 10 | 5 |
 | Paralysie du nerf circonflexe (deltoïde petit rond) (degré 0, 1, 2 et 3) | 35 | 30 |
 | Paralysie du nerf musculo-cutané (biceps, brachial antérieur). La flexion de l'avant-bras sur le bras reste possible par l'action du long supinateur (degré 0, 1, 2 et 3) | 25 | 20 |
-| Paralysie du nerf médian : |  |  |
+| Paralysie du nerf médian : | | |
 | a. Au bras : (rond-pronateur, fléchisseur commun superficiel, grand et petit palmaires, chefs externes du fléchisseur commun profond, long fléchisseur du pouce, carré pronateur, court abducteur et opposant du pouce, 2 premiers lombricaux) (degré 0, 1, 2 et 3) | 55 | 45 |
 | b. Au poignet (n'atteint que les muscles de la main énumérés ci-dessus) (degré 0, 1, 2 et 3) | 45 | 35 |
-| Paralysie du nerf cubital : |  |  |
+| Paralysie du nerf cubital : | | |
 | a. Au bras (cubital antérieur, chefs internes du fléchisseurs commun profond, muscles hypothéraniens et interosseux, deux lombricaux internes, adducteurs du pouce et chef interne de son court fléchisseur) (degré 0, 1, 2 et 3) | 45 | 35 |
 | b. Au poignet (ou muscles de la main ci-dessus, griffe cubitale) (degré 0, 1, 2 et 3) | 35 | 25 |
-| Paralysie du nerf radial : |  |  |
+| Paralysie du nerf radial : | | |
 | a. Au-dessus du coude (triceps brachial, anconé, long supinateur, premier et deuxième radial, court supinateur, extenseur commun et extenseur propre du pouce, index, auriculaire, cubital postérieur) (degré 0, 1, 2 et 3) | 55 | 45 |
 | b. Au-dessous du coude, les mêmes muscles, sauf triceps et long supinateur (degré 0, 1, 2 et 3) | 45 | 35 |
 

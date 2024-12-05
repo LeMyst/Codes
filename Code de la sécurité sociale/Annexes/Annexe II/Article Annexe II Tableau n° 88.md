@@ -2,7 +2,7 @@
 
 **ROUGET DU PORC (Erysipéloïde de Baker-Rosenbach)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | Forme cutanée simple : placard érysipéloïde (en dehors des cas considérés comme accidents du travail). | 7 jours | Travaux exécutés dans les boucheries, charcuteries, triperies, boyauderies, abattoirs, ateliers d'équarrissage, volailleries, pêcheries, poissonneries, cuisines. |

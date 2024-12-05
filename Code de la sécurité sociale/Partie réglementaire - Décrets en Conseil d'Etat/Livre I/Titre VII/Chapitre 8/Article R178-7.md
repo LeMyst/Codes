@@ -12,7 +12,7 @@ II.-Pour les départements, il est réparti en tenant compte :
 
 -du nombre de foyers bénéficiaires du revenu de solidarité active, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9 du code de l'action sociale et des familles, pour 5 %, selon la formule suivante :
 
-Fd = \[(PAd/ ∑ PAd) × 50 % + (Dd/ ∑ Dd) × 20 %-(PFd/ ∑ PFd) × 25 % + (RSA d/ ∑ RSAd) × 5 %\] × 2
+Fd = [(PAd/ ∑ PAd) × 50 % + (Dd/ ∑ Dd) × 20 %-(PFd/ ∑ PFd) × 25 % + (RSA d/ ∑ RSAd) × 5 %] × 2
 
 dans laquelle :
 

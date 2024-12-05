@@ -1,4 +1,4 @@
-# Article Annexe à l'article A931-11-9 (1er alinéa)  Annexe I
+# Article Annexe à l'article A931-11-9 (1er alinéa) Annexe I
 
 **NOMENCLATURE DES COMPTES**
 

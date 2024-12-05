@@ -2,7 +2,7 @@
 
 **Affections professionnelles provoquées par les hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1-trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2-dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro-acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2-trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2-trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1-fluoroéthane**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | - A - | - A - | - A - |

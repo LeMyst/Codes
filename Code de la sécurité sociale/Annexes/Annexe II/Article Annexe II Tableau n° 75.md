@@ -4,7 +4,7 @@
 
 Date de création : 26 juin 1984.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | Affections des voies aériennes. | 5 jours | Emploi des sels de sélénium dans l'industrie métallurgique et l'électronique. |

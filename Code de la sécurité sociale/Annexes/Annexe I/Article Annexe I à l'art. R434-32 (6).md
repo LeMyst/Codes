@@ -202,18 +202,18 @@ Ces taux s'ajoutent au taux résultant de la perte auditive éventuellement asso
 
 Oreille la plus sourde
 
-|  |  |
+| | |
 | --- | --- |
 | Voix haute | nonperçue |
-|  | 5 | 4 | 2 | 1 | 0,25 | contact |
+| | 5 | 4 | 2 | 1 | 0,25 | contact |
 | Distance de perception en mètres |
-| Oreille normaleou la moins sourde | Voix chuchotée | nonperçue |  |
-|  | 0,80 | 0,50 | 0,25contact |
-| Distance de perception en mètres | 0,10 |  |  |
-|  | Perteauditiveendécibels | 0à25 | 25à35 | 35à45 | 45à55 | 55à65 | 65à80 | 80à90 |
-|  |  |  | 0 à 25 | 0 | 3 | 5 | 8 | 12 | 15 | 20 |
-|  |  | 25 à 35 | 3 | 8 | 12 | 15 | 20 | 25 | 30 |
-| 5 |  | 35 à 45 | 5 | 12 | 18 | 24 | 30 | 35 | 40 |
+| Oreille normaleou la moins sourde | Voix chuchotée | nonperçue | |
+| | 0,80 | 0,50 | 0,25contact |
+| Distance de perception en mètres | 0,10 | | |
+| | Perteauditiveendécibels | 0à25 | 25à35 | 35à45 | 45à55 | 55à65 | 65à80 | 80à90 |
+| | | | 0 à 25 | 0 | 3 | 5 | 8 | 12 | 15 | 20 |
+| | | 25 à 35 | 3 | 8 | 12 | 15 | 20 | 25 | 30 |
+| 5 | | 35 à 45 | 5 | 12 | 18 | 24 | 30 | 35 | 40 |
 | 4 | 0,80 | 45 à 55 | 8 | 15 | 24 | 35 | 40 | 45 | 50 |
 | 2 | 0,50 | 55 à 65 | 12 | 20 | 30 | 40 | 50 | 60 | 60 |
 | 0,25 | 0,25 | 65 à 80 | 15 | 25 | 35 | 45 | 60 | 70 | 70 |

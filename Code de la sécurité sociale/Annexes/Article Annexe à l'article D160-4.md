@@ -86,7 +86,7 @@ L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 - des symptômes de l'IC (au repos ou à l'effort) présents et retrouvés dans les antécédents objectivés par une poussée d'IC aiguë congestive (sous forme d'œdème pulmonaire) ;
 
-- un signe objectif (parmi électrocardiogramme (ECG), radiographie, échographie, peptide natriurétique de type B \[BNP\]) de dysfonction cardiaque au repos, avec une fonction systolique préservée ou modérément altérée (FE ¹ 40 %) ;
+- un signe objectif (parmi électrocardiogramme (ECG), radiographie, échographie, peptide natriurétique de type B [BNP]) de dysfonction cardiaque au repos, avec une fonction systolique préservée ou modérément altérée (FE ¹ 40 %) ;
 
 - une réponse au traitement pharmacologique de l'IC.
 

@@ -2,7 +2,7 @@
 
 **Affections professionnelles de mécanisme allergique provoquées par les protéines du latex (ou caoutchouc naturel)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DE LA MALADIE | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | Urticaire de contact ayant récidivé après nouvelle exposition au risque et confirmée par un test. | 7 jours | Préparation, emploi et manipulation du latex naturel et des produits en renfermant, notamment : - production et traitement du latex naturel ; - fabrication et utilisation d'objets en latex naturel. |

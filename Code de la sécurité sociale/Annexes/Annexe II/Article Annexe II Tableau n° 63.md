@@ -2,7 +2,7 @@
 
 **Affections provoquées par les enzymes**.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané. | 15 jours | Préparation, manipulation, emploi des enzymes et des produits en renfermant, notamment : - extraction et purification des enzymes d'origine animale (trypsine), végétale (broméline, papaine, ficine), bactérienne et fongique (préparés à partir des bacillus subtillis, aspergillus, orysae) ; - fabrication et conditionnement de détergents renfermant des enzymes. |

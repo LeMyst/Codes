@@ -6,7 +6,7 @@ En application de l'article L. 613-1, le taux des cotisations d'allocations fami
 
 2° Egal à un taux croissant, déterminé par application de la formule suivante, lorsque le montant annuel du revenu d'activité est compris entre le seuil mentionné au 1° du présent article et le seuil mentionné au 3° du présent article :
 
-Taux = \[(T1)/ (0,3 × PSS)\] × (r-1,1 × PSS) où :
+Taux = [(T1)/ (0,3 × PSS)] × (r-1,1 × PSS) où :
 
 -T1 est égal au taux de cotisation fixé au 3° du présent article ;
 

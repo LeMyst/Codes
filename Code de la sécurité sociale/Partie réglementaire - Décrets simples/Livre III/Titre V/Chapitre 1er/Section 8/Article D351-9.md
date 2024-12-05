@@ -16,7 +16,7 @@ P x 50 % x C x (1-1 / D) x E x (1 + 10 %)
 
 b) Au titre du 2° de l'article D. 351-7 :
 
-P x 50 % x \[1-(1-C) x (1-1 / D)\] x E x (1 + 10 %)
+P x 50 % x [1-(1-C) x (1-1 / D)] x E x (1 + 10 %)
 
 où :
 

@@ -4,7 +4,7 @@ Liste des maladies ayant un caractère professionnel dont la déclaration est ob
 
 A - Maladies susceptibles d'avoir une origine professionnelle et d'être imputée aux agents chimiques suivants (1)
 
-|  |  |
+| | |
 | --- | --- |
 | NUMERO d'ordre | AGENTS CHIMIQUES |
 | 4 | Glucinium (béryllium) et ses composés. |
@@ -37,13 +37,13 @@ A - Maladies susceptibles d'avoir une origine professionnelle et d'être imputé
 | 607 | Acides organiques, leurs anhydrides, leurs esters, ainsi que les dérivés halogénés de ces substances. |
 | 608 | Nitriles. |
 | 609 | Dérivés nitrés aliphatiques. |
-|  | Dérivés nitrés des hydrocarbures aromatiques et des phénols. |
+| | Dérivés nitrés des hydrocarbures aromatiques et des phénols. |
 | 610 | Dérivés halogénés des dérivés nitrés des hydrocarbures et des phénols. |
 | 611 | Dérivés azoxiques et azoïques. |
 | 612 | Amines aliphatiques et leurs dérivés halogénés. |
-|  | Amines et hydrazines aromatiques, ainsi que leurs dérivés halogénés, phénoliques, nitrosés, nitrés et sulfonés. |
+| | Amines et hydrazines aromatiques, ainsi que leurs dérivés halogénés, phénoliques, nitrosés, nitrés et sulfonés. |
 | 613 | Pyridine et autres bases hétérocycliques. |
-|  | Alcaloïdes. |
+| | Alcaloïdes. |
 | 620 | Substances hormonales. |
 | 620 | Substances hormonales. |
 

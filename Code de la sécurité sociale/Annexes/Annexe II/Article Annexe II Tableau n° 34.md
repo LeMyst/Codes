@@ -4,7 +4,7 @@
 
 Date de création : 21 octobre 1951.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
 | A. - Troubles digestifs : crampes abdominales, hypersalivation, nausées ou vomissements, diarrhée. | 3 jours | Toute préparation ou manipulation des phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinestérasiques ainsi que des phosphoramides et carbamates hétérocycliques anticholinestérasiques. |

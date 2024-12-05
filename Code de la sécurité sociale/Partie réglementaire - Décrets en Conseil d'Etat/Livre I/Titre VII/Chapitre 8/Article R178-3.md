@@ -26,7 +26,7 @@ Pour chaque département, la somme de Fx et Fdd ne peut être inférieure à la 
 
 III.-La part variable attribuée à chaque département est déterminée selon la formule suivante :
 
-PVd = (C-∑ PFd) x \[(PAEEHd/ ∑ PAEEHd) x 30 % + (PPCHd/ ∑ PPCHd) x 30 % + (POMSd/ ∑ POMSd) x 40 %\]
+PVd = (C-∑ PFd) x [(PAEEHd/ ∑ PAEEHd) x 30 % + (PPCHd/ ∑ PPCHd) x 30 % + (POMSd/ ∑ POMSd) x 40 %]
 
 Pour laquelle :
 

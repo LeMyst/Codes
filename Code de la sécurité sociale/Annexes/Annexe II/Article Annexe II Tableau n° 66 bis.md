@@ -2,7 +2,7 @@
 
 **Pneumopathies d'hypersensibilité**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | Bronchoalvéolite aiguë ou subaiguë avec syndrome respiratoire (dyspnée, toux, expectoration) et/ou signes généraux (fièvre, amaigrissement) confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorps précipitants dans le sérum contre l'agent pathogène responsable ou à défaut résultats de lavage broncho-alvéolaire (lymphocytose) | 30 jours | Travaux de manipulation ou de fabrication exposant à des spores de moisissures ou à des actinomycètes contaminant les particules végétales ou animales suivantes : bagasse de la canne à sucre, malt, paprika, liège, charcuterie, fromages (affinage), pâte à papier et poussières de bois. |

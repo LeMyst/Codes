@@ -2,7 +2,7 @@
 
 **AFFECTIONS RESPIRATOIRES DUES AUX POUSSIERES DE CARBURES METALLIQUES FRITTES OU FONDUS CONTENANT DU COBALT**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | Syndrome respiratoire irritatif à type de toux et de dyspnée récidivant après nouvelle exposition au risque. | 15 jours | Fabrication et transformation des carbures métalliques frittés. |

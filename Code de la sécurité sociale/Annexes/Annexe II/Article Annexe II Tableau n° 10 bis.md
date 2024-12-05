@@ -2,7 +2,7 @@
 
 **Affections respiratoires provoquées par l'acide chromique, les chromates et bichromates alcalins**.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MALADIES | DÉLAI DE prise en charge | LISTE LIMITATIVEDES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
 | Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test | 7 jours | Chromage électrolytique des métaux ; |

@@ -6,7 +6,7 @@ En application du I de l'article L. 621-3, le taux de base de la cotisation d'as
 
 2° Lorsque le montant annuel de leur assiette de cotisations est compris entre 20 % et 40 % de la valeur annuelle du plafond mentionné au premier alinéa de l'article L. 241-3, le taux est déterminé selon la formule suivante :
 
-Taux = { T1 × \[a-(0,2 × PSS)\]/ (0,2 × PSS) }
+Taux = { T1 × [a-(0,2 × PSS)]/ (0,2 × PSS) }
 
 Où :
 
@@ -18,7 +18,7 @@ Où :
 
 3° Lorsque le montant annuel de leur assiette de cotisations est compris entre 40 % et 60 % de la valeur annuelle du plafond mentionné au premier alinéa de l'article L. 241-3, le taux est déterminé selon la formule suivante :
 
-Taux = { (T2-T1) × \[a-(0,4 × PSS)\]/ (0,2 × PSS) } + T1
+Taux = { (T2-T1) × [a-(0,4 × PSS)]/ (0,2 × PSS) } + T1
 
 Où :
 
@@ -32,7 +32,7 @@ Où :
 
 4° Lorsque le montant annuel de leur assiette de cotisations est compris entre 60 % et 110 % de la valeur annuelle du plafond mentionné au premier alinéa de l'article L. 241-3, le taux est déterminé selon la formule suivante :
 
-Taux = { (T3-T2) × \[a-(0,6 × PSS)\]/ (0,5 × PSS) } + T2
+Taux = { (T3-T2) × [a-(0,6 × PSS)]/ (0,5 × PSS) } + T2
 
 Où :
 
@@ -46,7 +46,7 @@ Où :
 
 5° Lorsque le montant annuel de leur assiette de cotisations est compris entre 110 % et 200 % de la valeur annuelle du plafond mentionné au premier alinéa de l'article L. 241-3, le taux est déterminé selon la formule suivante :
 
-Taux = { (T4-T3) × \[a-(1,1 × PSS)\]/ (0,9 × PSS) } + T3
+Taux = { (T4-T3) × [a-(1,1 × PSS)]/ (0,9 × PSS) } + T3
 
 Où :
 
@@ -60,7 +60,7 @@ Où :
 
 6° Lorsque le montant annuel de leur assiette de cotisations est supérieur à 200 % et inférieur à 300 % de la valeur annuelle du plafond mentionné au premier alinéa de l'article L. 241-3, le taux est déterminé selon la formule suivante :
 
-Taux = { (T5-T4) × \[a-(2 × PSS)\]/ (1 × PSS) } + T4
+Taux = { (T5-T4) × [a-(2 × PSS)]/ (1 × PSS) } + T4
 
 Où :
 

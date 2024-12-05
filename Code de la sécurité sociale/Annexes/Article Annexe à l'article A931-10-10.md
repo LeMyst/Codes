@@ -2,7 +2,7 @@
 
 Table TD 88-90 (en cas de décès)
 
-|  |  |
+| | |
 | --- | --- |
 | X | Lx |
 | 0 | 100 000 |
@@ -116,7 +116,7 @@ Table TD 88-90 (en cas de décès)
 
 Table TV 88-90 (en cas de vie)
 
-|  |  |
+| | |
 | --- | --- |
 | X | Lx |
 | 0 | 100 000 |

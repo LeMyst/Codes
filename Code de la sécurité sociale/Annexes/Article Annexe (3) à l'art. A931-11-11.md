@@ -68,12 +68,12 @@ Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise. A la
 
 Les tableaux sont présentés selon le modèle ci-dessous :
 
-|  |  |  |  |  |  |  |
+| | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| NOMBRE et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées  | AFFECTATION  | LOCALISATION  | VALEUR INSCRITE AU BILAN  | VALEUR nette  | VALEUR de réalisation  | VALEUR de remboursement  |
-| Valeur brute  | Corrections de valeur  |
-| (A)  | (B)  | (B 1)  | (C)  | (D)  | (E)  | (F)  | (G)  |
-| (1)  | (2)  | (3)  | (4)  | (5)  |  | (6)  | (7)  |
+| NOMBRE et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées | AFFECTATION | LOCALISATION | VALEUR INSCRITE AU BILAN | VALEUR nette | VALEUR de réalisation | VALEUR de remboursement |
+| Valeur brute | Corrections de valeur |
+| (A) | (B) | (B 1) | (C) | (D) | (E) | (F) | (G) |
+| (1) | (2) | (3) | (4) | (5) | | (6) | (7) |
 
 (1) A l'intérieur de chaque sous-rubrique (voir ci-dessus B), les valeurs mobilières sont inscrites dans l'ordre de la cote officielle de la principale place de cotation.L'intitulé de chaque valeur est précédé du numéro d'identification en usage sur la cote officielle de la principale place de cotation : en France, code RGA (Répertoire général alphabétique) ou numéro de compte Sicovam. Pour les valeurs et actifs garantis par un tiers autre que le débiteur ou par une garantie réelle, la nature de la garantie et la désignation du garant sont précisées.
 
@@ -231,28 +231,28 @@ b) Dès lors qu'elle est significative, la différence entre, d'une part, le mon
 
 c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a) de l'article R. 932-2-1 établissent pour ces opérations un état des règlements et des provisions pour sinistres à payer inscrites à leur bilan au titre de l'ensemble de ces opérations, présenté selon le modèle ci-après.
 
-|  |  |
+| | |
 | --- | --- |
-| ANNÉE D'INVENTAIRE  | EXERCICE DE SURVENANCE  |
-| 19.... (n-4)  | 19.... (n-3)  | 19.... (n-2)  | 19.... (n-1)  | 19.... n  |
-| Inventaire N-2  |  |  |  |  |  |
-| Règlements  |  |  |  |  |  |
-| Provisions  |  |  |  |  |  |
-| Total sinistres  |  |  |  |  |  |
-| Cotisations acquises  |  |  |  |  |  |
-| Pourcentage sinistres / cotisations acquises  |  |  |  |  |  |
-| Inventaire N-1  |  |  |  |  |  |
-| Règlements  |  |  |  |  |  |
-| Provisions  |  |  |  |  |  |
-| Total sinistres  |  |  |  |  |  |
-| Cotisations acquises  |  |  |  |  |  |
-| Pourcentage sinistres / cotisations acquises  |  |  |  |  |  |
-| Inventaire N  |  |  |  |  |  |
-| Règlements  |  |  |  |  |  |
-| Provisions  |  |  |  |  |  |
-| Total sinistres  |  |  |  |  |  |
-| Cotisations acquises  |  |  |  |  |  |
-| Pourcentage sinistres / cotisations acquises  |  |  |  |  |  |
+| ANNÉE D'INVENTAIRE | EXERCICE DE SURVENANCE |
+| 19.... (n-4) | 19.... (n-3) | 19.... (n-2) | 19.... (n-1) | 19.... n |
+| Inventaire N-2 | | | | | |
+| Règlements | | | | | |
+| Provisions | | | | | |
+| Total sinistres | | | | | |
+| Cotisations acquises | | | | | |
+| Pourcentage sinistres / cotisations acquises | | | | | |
+| Inventaire N-1 | | | | | |
+| Règlements | | | | | |
+| Provisions | | | | | |
+| Total sinistres | | | | | |
+| Cotisations acquises | | | | | |
+| Pourcentage sinistres / cotisations acquises | | | | | |
+| Inventaire N | | | | | |
+| Règlements | | | | | |
+| Provisions | | | | | |
+| Total sinistres | | | | | |
+| Cotisations acquises | | | | | |
+| Pourcentage sinistres / cotisations acquises | | | | | |
 
 1. 12. Sont également mentionnés :
 
@@ -279,16 +279,16 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 
 1. 1. Les institutions et les unions indiquent la ventilation de l'ensemble des produits et charges des placements (ventilation des postes E 2 et E 9 pour les institutions et unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et des postes F 3 et F 5 pour les autres institutions et unions), selon le modèle ci-dessous :
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | REVENUS FINANCIERS et frais financiers concernant les placements dans les entreprises liées  | AUTRES REVENUS et frais financiers  | TOTAL  |
-| Revenus des participations (1)  |  |  |  |
-| Revenus des placements immobiliers  |  |  |  |
-| Revenus des autres placements  |  |  |  |
-| Autres revenus financiers (commission, honoraires)  |  |  |  |
-| Total (poste E2a et / ou F3a du compte de résultat)  |  |  |  |
-| Frais financiers (commissions, honoraires, intérêts et agios...)  |  |  |  |
-| (1) Au sens de l'article 20 du décret du 29 novembre 1983. Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de résultat : Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et / ou F5 du compte de résultat :  |
+| | REVENUS FINANCIERS et frais financiers concernant les placements dans les entreprises liées | AUTRES REVENUS et frais financiers | TOTAL |
+| Revenus des participations (1) | | | |
+| Revenus des placements immobiliers | | | |
+| Revenus des autres placements | | | |
+| Autres revenus financiers (commission, honoraires) | | | |
+| Total (poste E2a et / ou F3a du compte de résultat) | | | |
+| Frais financiers (commissions, honoraires, intérêts et agios...) | | | |
+| (1) Au sens de l'article 20 du décret du 29 novembre 1983. Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de résultat : Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et / ou F5 du compte de résultat : |
 
 2. 2. Les institutions et unions indiquent la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-après.
 
@@ -298,65 +298,65 @@ Un compte technique totalisant l'ensemble des comptes techniques par catégorie 
 
 A.-Opérations Vie.-Catégories 1 à 19
 
-|  |  |
+| | |
 | --- | --- |
-| RUBRIQUE  | POSTE CORRESPONDANT AU CR  |
-| 1. Cotisations  | Poste E1.  |
-| 2. Charges des prestations  | Poste E5.  |
-| 3. Charges des provisions d'assurance vie et autres provisions techniques  | Poste E6.  |
-| 4. Ajustement ACAV  | Poste E3 diminué du poste E10. |
-| A.-SOLDE DE SOUSCRIPTION  | (1-2-3 + 4).  |
-| 5. Frais d'acquisition  | Poste E8a.  |
-| 6. Autres charges de gestion nettes  | Poste E8b et E11 diminués du poste E4. |
-| B.-CHARGES D'ACQUISITION ET DE GESTION NETTES  | (5 + 6).  |
-| 7. Produit net des placements  | Poste E2 diminué des postes E9 et E12.  |
-| 8. Participation aux résultats  | Poste E7. |
-| C.-SOLDE FINANCIER  | (7-8).  |
-| 9. Cotisations cédées  | Poste E1 cession.  |
-| 10. Part des réassureurs dans les charges des prestations  | Poste E5 cession.  |
-| 11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques  | Poste E6 cession.  |
-| 12. Part des réassureurs dans la participation aux résultats  | Poste E7 cession.  |
-| 13. Commissions reçues des réassureurs  | Poste E8c cession. |
-| D.-SOLDE DE RÉASSURANCE  | (10 + 11 + 12 + 13-9).  |
-| Résultat technique  | A-B + C + D  |
-| Hors compte  |  |
-| 14. Montant des rachats  |  |
-| 15. Intérêts techniques bruts de l'exercice  | Comptes 5300, 6301, 6302, 6340, 6341 et 6342.  |
-| 16. Provisions techniques brutes à la clôture  |  |
-| 17. Provisions techniques brutes à l'ouverture  | Postes B3b, B3c, B3e, B3g, B3j et B4 du bilan. |
+| RUBRIQUE | POSTE CORRESPONDANT AU CR |
+| 1. Cotisations | Poste E1. |
+| 2. Charges des prestations | Poste E5. |
+| 3. Charges des provisions d'assurance vie et autres provisions techniques | Poste E6. |
+| 4. Ajustement ACAV | Poste E3 diminué du poste E10. |
+| A.-SOLDE DE SOUSCRIPTION | (1-2-3 + 4). |
+| 5. Frais d'acquisition | Poste E8a. |
+| 6. Autres charges de gestion nettes | Poste E8b et E11 diminués du poste E4. |
+| B.-CHARGES D'ACQUISITION ET DE GESTION NETTES | (5 + 6). |
+| 7. Produit net des placements | Poste E2 diminué des postes E9 et E12. |
+| 8. Participation aux résultats | Poste E7. |
+| C.-SOLDE FINANCIER | (7-8). |
+| 9. Cotisations cédées | Poste E1 cession. |
+| 10. Part des réassureurs dans les charges des prestations | Poste E5 cession. |
+| 11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques | Poste E6 cession. |
+| 12. Part des réassureurs dans la participation aux résultats | Poste E7 cession. |
+| 13. Commissions reçues des réassureurs | Poste E8c cession. |
+| D.-SOLDE DE RÉASSURANCE | (10 + 11 + 12 + 13-9). |
+| Résultat technique | A-B + C + D |
+| Hors compte | |
+| 14. Montant des rachats | |
+| 15. Intérêts techniques bruts de l'exercice | Comptes 5300, 6301, 6302, 6340, 6341 et 6342. |
+| 16. Provisions techniques brutes à la clôture | |
+| 17. Provisions techniques brutes à l'ouverture | Postes B3b, B3c, B3e, B3g, B3j et B4 du bilan. |
 
 B.-Opérations Non-vie.-Catégories 20 à 39
 
-|  |  |
+| | |
 | --- | --- |
-| RUBRIQUE  | POSTE CORRESPONDANT AU CR  |
-| 1. Cotisations acquises  | (1a-1b).  |
-| 1a. Cotisations  | Poste D1a.  |
-| 1b. Variation des cotisations non acquises  | Poste D1b.  |
-| 2. Charges des prestations  | (2a + 2b).  |
-| 2a. Prestations et frais payés  | Poste D4a.  |
-| 2b. Charges des provisions pour prestations et diverses  | Poste D4b, D5 et D9. |
-| A.-SOLDE DE SOUSCRIPTION  | (1-2).  |
-| 5. Frais d'acquisition  | Poste D7a.  |
-| 6. Autres charges de gestion nettes  | Poste D7b et D8 diminués du poste D3. |
-| B.-CHARGES D'ACQUISITION ET DE GESTION NETTES  | (5 + 6).  |
-| 7. Produits des placements  | Poste D2.  |
-| 8. Participation aux résultats  | Poste D6. |
-| C.-SOLDE FINANCIER  | (7-8).  |
-| 9. Part des réassureurs dans les cotisations acquises  | Postes D1a et D1b cession.  |
-| 10. Pari des réassureurs dans les prestations payées  | Poste D4a cession.  |
-| 11. Part des réassureurs dans les charges des provisions pour prestations  | Postes D4b, D5 et D9 cession.  |
-| 12. Part des réassureurs dans les participations aux résultats  | Poste D6 cession.  |
-| 13. Commissions reçues des réassureurs  | Poste D7c cession,  |
-| D.-SOLDE DE RÉASSURANCE  | (10 + 11 + 12 + 13-9).  |
-| Résultat technique  | A-B + C + D  |
-| Hors compte :  |  |
-| 14. Provisions pour cotisations non acquises (clôture)  | Poste B3a du bilan.  |
-| 15. Provisions pour cotisations non acquises (ouverture)  |  |
-| 16. Provisions pour sinistres à payer (clôture)  | Poste B3d du bilan.  |
-| 17. Provisions pour sinistres à payer (ouverture)  |  |
-| 18. Autres provisions techniques (clôture)  | Postes B3f, B3h et B3j du bilan.  |
-| 19. Autres provisions techniques (ouverture)  |  |
+| RUBRIQUE | POSTE CORRESPONDANT AU CR |
+| 1. Cotisations acquises | (1a-1b). |
+| 1a. Cotisations | Poste D1a. |
+| 1b. Variation des cotisations non acquises | Poste D1b. |
+| 2. Charges des prestations | (2a + 2b). |
+| 2a. Prestations et frais payés | Poste D4a. |
+| 2b. Charges des provisions pour prestations et diverses | Poste D4b, D5 et D9. |
+| A.-SOLDE DE SOUSCRIPTION | (1-2). |
+| 5. Frais d'acquisition | Poste D7a. |
+| 6. Autres charges de gestion nettes | Poste D7b et D8 diminués du poste D3. |
+| B.-CHARGES D'ACQUISITION ET DE GESTION NETTES | (5 + 6). |
+| 7. Produits des placements | Poste D2. |
+| 8. Participation aux résultats | Poste D6. |
+| C.-SOLDE FINANCIER | (7-8). |
+| 9. Part des réassureurs dans les cotisations acquises | Postes D1a et D1b cession. |
+| 10. Pari des réassureurs dans les prestations payées | Poste D4a cession. |
+| 11. Part des réassureurs dans les charges des provisions pour prestations | Postes D4b, D5 et D9 cession. |
+| 12. Part des réassureurs dans les participations aux résultats | Poste D6 cession. |
+| 13. Commissions reçues des réassureurs | Poste D7c cession, |
+| D.-SOLDE DE RÉASSURANCE | (10 + 11 + 12 + 13-9). |
+| Résultat technique | A-B + C + D |
+| Hors compte : | |
+| 14. Provisions pour cotisations non acquises (clôture) | Poste B3a du bilan. |
+| 15. Provisions pour cotisations non acquises (ouverture) | |
+| 16. Provisions pour sinistres à payer (clôture) | Poste B3d du bilan. |
+| 17. Provisions pour sinistres à payer (ouverture) | |
+| 18. Autres provisions techniques (clôture) | Postes B3f, B3h et B3j du bilan. |
+| 19. Autres provisions techniques (ouverture) | |
 
 Les données chiffrées sont fournies en valeur absolue ; toutefois, les rubriques ou sous-rubriques intitulées " charges de provisions " sont affectées du signe-en cas de diminution des provisions ; la sous-rubrique " variation des cotisations non acquises et risques en cours " est affectée du signe-en cas de diminution des cotisations non acquises et risques en cours.
 
@@ -418,20 +418,20 @@ Ecart entre les provisions d'assurance vie à l'ouverture et les provisions d'as
 
 b) Fournissent un tableau récapitulatif des éléments constitutifs de la participation des adhérents et des participants aux résultats techniques et financiers :
 
-|  |  |
+| | |
 | --- | --- |
-| DÉSIGNATIONS  | EXERCICES (1)  |
-| n-4  | n-3  | n-2  | n-1  | n  |
-| A.-Participation aux résultats totale (poste D6 et E7 du compte de résultat = A1 + A2) :  |  |  |  |  |  |
-| A1 : Participation attribuée (y compris intérêts techniques)  |  |  |  |  |  |
-| A2 : Variation de la provision pour participation aux excédents  |  |  |  |  |  |
-| B.-Participation aux résultats des opérations vie visées au (4) :  |  |  |  |  |  |
-| B1 : Provisions mathématiques moyennes (2)  |  |  |  |  |  |
-| B2 : Montant minimal de la participation aux résultats  |  |  |  |  |  |
-| B3 : Montant effectif de la participation aux résultats (3) :  |  |  |  |  |  |
-| B3a : Participation attribuée (y compris intérêts techniques)  |  |  |  |  |  |
-| B3b : Variation de la provision pour participation aux excédents  |  |  |  |  |  |
-| (1) L'exercice n est l'exercice sous revue. (2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4). (3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4). (4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable.  |
+| DÉSIGNATIONS | EXERCICES (1) |
+| n-4 | n-3 | n-2 | n-1 | n |
+| A.-Participation aux résultats totale (poste D6 et E7 du compte de résultat = A1 + A2) : | | | | | |
+| A1 : Participation attribuée (y compris intérêts techniques) | | | | | |
+| A2 : Variation de la provision pour participation aux excédents | | | | | |
+| B.-Participation aux résultats des opérations vie visées au (4) : | | | | | |
+| B1 : Provisions mathématiques moyennes (2) | | | | | |
+| B2 : Montant minimal de la participation aux résultats | | | | | |
+| B3 : Montant effectif de la participation aux résultats (3) : | | | | | |
+| B3a : Participation attribuée (y compris intérêts techniques) | | | | | |
+| B3b : Variation de la provision pour participation aux excédents | | | | | |
+| (1) L'exercice n est l'exercice sous revue. (2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4). (3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4). (4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable. |
 
 3. Autres informations.
 

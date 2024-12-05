@@ -2,7 +2,7 @@
 
 **CANCER BRONCHO-PULMONAIRE PROVOQUE PAR L'INHALATION DE POUSSIERES D'AMIANTE**.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | DÉSIGNATION DE LA MALADIE | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie |
 | Cancer broncho-pulmonaire primitif. | 40 ans (sous réserve d'une durée d'exposition de 10 ans) | Travaux directement associés à la production des matériaux contenant de l'amiante. |

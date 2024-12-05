@@ -100,7 +100,7 @@ Hémianopsie avec conservation de la vision centrale :
 
 Les quadranopsies peuvent être évaluées en assignant à chaque quadrant une valeur de :
 
-\[cliché non reproduit\] - Scotomes paracentraux hémianopsiques :
+[cliché non reproduit] - Scotomes paracentraux hémianopsiques :
 
 quoique respectant la vision centrale qu'ils affleurent par leur limite, ils peuvent être très gênants lorsqu'ils ont la forme :
 
@@ -120,7 +120,7 @@ Le tableau ci-après est applicable, qu'il s'agisse de la blessure d'un seul œi
 
 La vision d'un œil est indiquée par une colonne horizontale, la vision de l'autre, par une colonne verticale. Le point de rencontre donne le taux médical d'incapacité.
 
-|  |  |  |  |  |  |  |  |  |  |  |  |
+| | | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Degré de vision | 9/10 | 8/10 | 7/10 | 6/10 | 5/10 | 4/10 | 3/10 | 2/10 | 1/10 | 1/20 et moinsde 1/20 | Énucléation |
 | 9/10 | 0 | 0 | 0 | 1 | 2 | 4 | 8 | 15 | 19 | 30 | 33 |

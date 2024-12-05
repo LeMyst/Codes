@@ -14,7 +14,7 @@ NP x V x C x (D-1) x E x (1 + 10 %) ;
 
 b) Au titre du 2° de l'article D. 643-5 :
 
-NP x V x \[1 + C x (D-1)\] x E x (1 + 10 %),
+NP x V x [1 + C x (D-1)] x E x (1 + 10 %),
 
 où :
 

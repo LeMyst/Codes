@@ -2,7 +2,7 @@
 
 I.-Le montant de l'allocation journalière du proche aidant est calculé selon la formule suivante :
 
-A = (7 * shn)/ \[1-(a + b)\]
+A = (7 * shn)/ [1-(a + b)]
 
 où :
 

@@ -30,7 +30,7 @@ II. – Les délits pour lesquels l'inéligibilité est obligatoirement prononc�
 
 12° Les délits prévus au I de l'article LO 135-1 du code électoral et à l'article 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique ;
 
-\[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017.\]
+[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017.]
 
 14° Le délit de participation à une association de malfaiteurs prévu à l'article 450-1 du présent code, lorsqu'il a pour objet un crime ou un délit mentionné aux 1° à 13° du présent II.
 

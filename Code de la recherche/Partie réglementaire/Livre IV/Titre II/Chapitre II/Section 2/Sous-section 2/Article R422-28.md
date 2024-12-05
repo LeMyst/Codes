@@ -4,7 +4,7 @@ La durée passée dans chacun des échelons des grades de chargé de recherche e
 
 | GRADES ET ÉCHELONS | ANCIENNETÉ REQUISE DANS L'ÉCHELON |
 | --- | --- |
-| Chargé de recherche hors classe |  |
+| Chargé de recherche hors classe | |
 | 7e échelon | - |
 | 6e échelon | 5 ans |
 | 5e échelon | 2 ans |
@@ -12,7 +12,7 @@ La durée passée dans chacun des échelons des grades de chargé de recherche e
 | 3e échelon | 1 an |
 | 2e échelon | 1 an |
 | 1er échelon | 1 an |
-| Chargé de recherche de classe normale |  |
+| Chargé de recherche de classe normale | |
 | 10e échelon | - |
 | 9e échelon | 2 ans et 9 mois |
 | 8e échelon | 3 ans |

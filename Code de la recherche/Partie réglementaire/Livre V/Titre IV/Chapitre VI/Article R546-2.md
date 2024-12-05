@@ -4,4 +4,4 @@ Sont applicables en Polynésie française les dispositions des articles mentionn
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 521-1 à R. 521-3 |  |
+| R. 521-1 à R. 521-3 | |

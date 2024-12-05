@@ -4,9 +4,9 @@ I. - Sous réserve des adaptations prévues au II, sont applicables dans les îl
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 521-1 à R. 521-3 |  |
-| R. 531-9 et R. 531-10 |  |
-| R. 532-1 |  |
-| R. 533-1 |  |
+| R. 521-1 à R. 521-3 | |
+| R. 531-9 et R. 531-10 | |
+| R. 532-1 | |
+| R. 533-1 | |
 
 II. - Les dispositions du premier alinéa de l'article R. 533-1 ne sont applicables qu'aux agents publics de l'Etat et de ses établissements publics.

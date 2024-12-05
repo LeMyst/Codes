@@ -4,7 +4,7 @@ La durée passée dans chacun des échelons du grade d'assistant ingénieur est 
 
 | GRADES ET ÉCHELONS | ANCIENNETÉ REQUISE DANS L'ÉCHELON |
 | --- | --- |
-| 16e échelon |  |
+| 16e échelon | |
 | 15e échelon | 3 ans |
 | 14e échelon | 3 ans |
 | 13e échelon | 3 ans |

@@ -4,8 +4,8 @@ La durée passée dans chacun des échelons des grades d'ingénieur d'études es
 
 | GRADES ET ÉCHELONS | ANCIENNETÉ REQUISE DANS L'ÉCHELON |
 | --- | --- |
-| Ingénieur d'études hors classe |  |
-| 10e échelon |  |
+| Ingénieur d'études hors classe | |
+| 10e échelon | |
 | 9e échelon | 3 ans |
 | 8e échelon | 3 ans |
 | 7e échelon | 2 ans et 6 mois |
@@ -15,8 +15,8 @@ La durée passée dans chacun des échelons des grades d'ingénieur d'études es
 | 3e échelon | 2 ans et 6 mois |
 | 2e échelon | 2 ans |
 | 1er échelon | 2 ans |
-| Ingénieur d'études de classe normale |  |
-| 14e échelon |  |
+| Ingénieur d'études de classe normale | |
+| 14e échelon | |
 | 13e échelon | 3 ans |
 | 12e échelon | 2 ans |
 | 11e échelon | 2 ans |

@@ -4,6 +4,6 @@ Indépendamment des dispositions prévues à l'article R. 447-1 et sous réserve
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 411-1 à R. 411-4 |  |
-| R. 412-22 à R. 412-26 |  |
-| R. 431-30 à R. 431-39 |  |
+| R. 411-1 à R. 411-4 | |
+| R. 412-22 à R. 412-26 | |
+| R. 431-30 à R. 431-39 | |

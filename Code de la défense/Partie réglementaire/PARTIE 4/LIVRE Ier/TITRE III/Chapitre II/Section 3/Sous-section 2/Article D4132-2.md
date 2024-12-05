@@ -1,10 +1,10 @@
-# Article R4132-2
+# Article D4132-2
 
 Les candidatures à l'octroi de cette allocation font l'objet d'une sélection en fonction des besoins du ministère de la défense ou, pour la gendarmerie nationale, du ministère de l'intérieur.
 
-L'octroi de l'allocation financière spécifique fait l'objet d'une convention.
+L'octroi de l'allocation financière spécifique de formation fait l'objet d'une convention.
 
-Cette convention est passée au titre de la force armée ou de la formation rattachée au sein de laquelle le bénéficiaire de l'allocation financière spécifique a vocation à être recruté en tant que militaire à l'issue de sa formation. Elle ne prend effet qu'après une visite médicale d'aptitude auprès d'un médecin des armées, une évaluation psychologique et une enquête de sécurité.
+Cette convention est passée au titre de la force armée ou de la formation rattachée au sein de laquelle le bénéficiaire de l'allocation financière spécifique de formation a vocation à être recruté en tant que militaire à l'issue de sa formation. Elle ne prend effet qu'après une visite médicale d'aptitude auprès d'un médecin des armées, une évaluation psychologique et une enquête de sécurité.
 
 Elle précise notamment :
 

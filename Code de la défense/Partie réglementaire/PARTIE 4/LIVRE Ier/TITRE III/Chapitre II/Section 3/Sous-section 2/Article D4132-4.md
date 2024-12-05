@@ -1,6 +1,6 @@
-# Article R4132-4
+# Article D4132-4
 
-Le bénéficiaire de l'allocation financière spécifique est tenu au remboursement total ou partiel des sommes versées :
+Le bénéficiaire de l'allocation financière spécifique de formation est tenu au remboursement total ou partiel des sommes versées :
 
 1° Lorsqu'il échoue à la formation au titre de laquelle la convention prévue à l'article R. 4132-1 a été passée ;
 

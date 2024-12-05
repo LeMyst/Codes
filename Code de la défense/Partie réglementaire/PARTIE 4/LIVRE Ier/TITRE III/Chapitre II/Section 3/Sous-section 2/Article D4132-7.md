@@ -1,4 +1,4 @@
-# Article R4132-7
+# Article D4132-7
 
 Un arrêté conjoint du ministre de la défense et du ministre de l'intérieur fixe :
 

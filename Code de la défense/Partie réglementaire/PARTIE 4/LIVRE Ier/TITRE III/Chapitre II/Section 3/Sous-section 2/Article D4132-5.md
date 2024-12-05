@@ -1,6 +1,6 @@
-# Article R4132-5
+# Article D4132-5
 
-Le bénéficiaire de l'allocation financière spécifique n'est pas tenu au remboursement dans les cas suivants :
+Le bénéficiaire de l'allocation financière spécifique de formation n'est pas tenu au remboursement dans les cas suivants :
 
 1° Interruption de la formation ou inexécution totale ou partielle de l'engagement à servir du fait d'une inaptitude médicale constatée par un médecin des armées ;
 

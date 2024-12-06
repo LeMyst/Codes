@@ -16,7 +16,7 @@ Pour l'application des dispositions des titres Ier, II bis et III du présent li
 
 6° L' article R. 612-24 est ainsi rédigé :
 
-" Art. R. 612-24.-Les exploitants individuels, les dirigeants et les gérants ainsi que les employés des entreprises exerçant l'une des activités mentionnées à l'article L. 611-1 du présent code justifient de leur aptitude professionnelle par la détention de l'un des justificatifs exigés en métropole, en Nouvelle-Calédonie ou en Polynésie française." ;
+" Art. R. 612-24.-Les exploitants individuels, les dirigeants, les gérants, les associés ainsi que les employés des personnes morales exerçant l'une des activités mentionnées à l'article L. 611-1 du présent code justifient de leur aptitude professionnelle par la détention de l'un des justificatifs exigés en métropole, en Nouvelle-Calédonie ou en Polynésie française." ;
 
 6° bis A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
@@ -40,10 +40,9 @@ Pour l'application des dispositions des titres Ier, II bis et III du présent li
 
 10° Aux articles R. 614-1 et R. 614-6 :
 
-a) Les mots : "des armes classées au 8° de la catégorie B et au b de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;\
-b) Les mots : "classés au a du 2° de la catégorie D" sont supprimés ;
+a) Les mots : "des armes classées au b de la catégorie D" sont remplacés par les mots : "des armes classées selon la réglementation applicable localement" ;
 
-c) Les mots : "mentionnés à l'article L. 271-1" sont remplacés par les mots : "mentionnés au 9° de l'article L. 647-1" ;
+b) Les mots : "classés au a de la catégorie D" sont supprimés ;
 
 11° Aux articles R. 625-1, R. 625-2, R. 625-9, R. 625-37 et R. 625-42, les références aux articles L. 621-1, L. 622-7, L. 622-19, L. 622-21, L. 622-22, R. 622-3, R. 622-18, R. 622-22 à R. 622-35, sont supprimées ;
 

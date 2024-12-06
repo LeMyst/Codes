@@ -5,9 +5,10 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | DISPOSITIONS applicables | DANS LEUR RÉDACTION |
 | --- | --- |
 | R. 611-1 (à l'exception du 1°) et R. 611-2 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| R. 612-1 à R. 612-3 | Résultant du décret n° 2022-209 du 18 février 2022 |
+| R. 612-2 | Résultant du décret n° 2022-209 du 18 février 2022 |
+| R. 612-3 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 612-3-1 | Résultant du décret n° 2016-515 du 26 avril 2016 |
-| R. 612-3-2 | Résultant du décret n° 2024-311 du 4 avril 2024 |
+| R. 612-3-2 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 612-3-4 | Résultant du décret n° 2016-515 du 26 avril 2016 |
 | R. 612-5 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 612-5-1 | Résultant du décret n° 2024-311 du 4 avril 2024 |
@@ -19,7 +20,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | R. 612-12 et R. 612-14 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 612-15 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 612-16 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| R. 612-17 | Résultant du décret n° 2024-311 du 4 avril 2024 |
+| R. 612-17 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 612-18 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d’exercice des activités privées de sécurité |
 | R. 612-18-1 | Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des navires |
 | R. 612-19 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité |
@@ -27,12 +28,13 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | R. 612-21 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 612-22 | Résultant du décret n° 2022-198 du 17 février 2022 |
 | R. 612-23 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 612-24 à R. 612-25 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité |
+| R. 612-24 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
+| R. 612-24-1 à R. 612-25 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité |
 | R. 612-26 à R. 612-28 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 612-28-1 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 612-29 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 612-31 et R. 612-32 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité |
-| R. 612-33, R. 612-35 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
+| R. 612-33 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 612-36 | Résultant du décret n° 2017-606 du 21 avril 2017 |
 | R. 612-37 | Résultant du |
 | | décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023 |
@@ -71,5 +73,6 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | R. 632-17 à R. 632-23 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10 | Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité |
 | R. 634-1 à R. 634-4 | Résultant du décret n° 2022-449 du 30 mars 2022 |
-| R. 634-5 et R. 634-6 | Résultant du décret n° 2024-311 du 4 avril 2024 |
+| R. 634-5 | Résultant du décret n° 2024-311 du 4 avril 2024 |
+| R. 634-6 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R 634-7 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d’Etat et décrets simples) |

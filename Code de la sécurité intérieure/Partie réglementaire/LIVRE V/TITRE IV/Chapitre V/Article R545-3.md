@@ -32,7 +32,7 @@ b) Le dernier alinéa est supprimé ;
 
 " Art. R. 511-22.-La formation préalable à l'autorisation de port d'arme mentionnée à l'article R. 511-19 et la formation d'entraînement mentionnée à l'article R. 511-21 sont organisées par l'organisme chargé de la formation des agents de la fonction publique communale en Polynésie française.
 
-Pour les armes mentionnées au a du 2° de l'article R. 511-12, ces formations peuvent être assurées par des agents de police municipale, moniteurs aux bâtons et techniques professionnelles d'intervention, qui sont formés à cette fonction avec le concours des administrations et établissements publics de l'Etat.
+Pour les armes mentionnées au a du 2° de l'article R. 511-12, ces formations peuvent être assurées par des agents de police municipale ou des gardes champêtres, moniteurs aux bâtons et techniques professionnelles d'intervention, qui sont formés à cette fonction avec le concours des administrations et établissements publics de l'Etat.
 
 Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations ainsi que les règles relatives à la délivrance du certificat de moniteur de police municipale aux bâtons et techniques professionnelles d'intervention et à l'exercice de cette fonction. ;"
 
@@ -46,15 +46,12 @@ Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces form
 
 11° bis Pour l'application des dispositions de l'article R. 511-34-5, la référence aux prescriptions édictées par arrêté conjoint du ministre de l'intérieur et du ministre de l'agriculture est remplacée par la référence aux dispositions ayant le même objet applicables localement ;
 
+11° ter Pour l'application des dispositions de l'article R. 511-34-6, la référence au Centre national de la fonction publique territoriale est remplacée par la référence à l'organisme chargé de la formation des agents de la fonction publique communale en Polynésie française ;
+
 12° L'article R. 512-1 est ainsi modifié :
 
 a) Le f du 1° est supprimé ;
 
 b) Au d du 2°, les mots : " de l'article 97 de la loi n° 84-53 du 26 janvier 1984 " sont remplacés par les mots : " de l'article 70 de l'ordonnance n° 2005-10 du 4 janvier 2005 " ;
 
-13° A l'article R. 515-17, les mots : " l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont remplacés par les mots : " l'article 18 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs. " ;
-
-14° Le deuxième alinéa de l'article R. 522-1 est supprimé.
-
-NOTA:
-Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.
+13° A l'article R. 515-17, les mots : " l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont remplacés par les mots : " l'article 18 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs. ".

@@ -32,7 +32,9 @@ IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à 
 
 1° Des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant l'une des activités mentionnées à l'article R. 612-38 ;
 
-2° Des armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 5442-1 du code des transports et, le cas échéant, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 5442-1 du code des transports selon les modalités fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports maritimes, à des fins de formation et d'entraînement des personnes exerçant l'activité mentionnée à l'article R. 616-1.
+2° Des armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 5442-1 du code des transports et, le cas échéant, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 5442-1 du code des transports selon les modalités fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports maritimes, à des fins de formation et d'entraînement des personnes exerçant l'activité mentionnée à l'article R. 616-1 ;
+
+3° Des ensembles de conversion permettant de tirer des munitions non létales à des fins d'entraînement mentionnés au 5° de la catégorie B et, le cas échéant, au 7° de la catégorie A1 ainsi que les munitions correspondantes mentionnées au 10° de la catégorie B.
 
 L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de police et, dans le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 

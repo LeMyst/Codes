@@ -22,7 +22,7 @@ Pour l'application des dispositions énumérées à l'article R. 546-1 :
 
 " Art. R. 511-22.-La formation préalable à l'autorisation de port d'armes mentionnée à l'article R. 511-19 et la formation d'entraînement mentionnée à l'article R. 511-21 sont organisées par un centre de formation de la police nationale.
 
-Ces formations peuvent être assurées par des agents de police municipale, moniteurs en maniement des armes, pour les armes mentionnées aux c du 1° et 3° de l'article R. 511-12 et par des agents de police municipale, moniteurs aux bâtons et techniques professionnelles d'intervention pour les armes mentionnées au a du 2° de l'article R. 511-12, qui sont formés à cette fonction avec le concours des administrations et établissements publics de l'Etat.
+Ces formations peuvent être assurées par des agents de police municipale ou des gardes champêtres, moniteurs en maniement des armes, pour les armes mentionnées aux c du 1° et 3° de l'article R. 511-12 et par des agents de police municipale, moniteurs aux bâtons et techniques professionnelles d'intervention pour les armes mentionnées au a du 2° de l'article R. 511-12, qui sont formés à cette fonction avec le concours des administrations et établissements publics de l'Etat.
 
 Eu égard à la spécificité des risques liés à l'emploi d'une arme mentionnée au d du 1° de l'article R. 511-12, une formation spécifique préalable à l'autorisation de port de celle-ci et une formation spécifique d'entraînement, qui tiennent compte de ses particularités d'emploi, sont organisées par un centre de formation de la police nationale. La formation spécifique préalable est sanctionnée par un certificat individuel délivré aux agents de police municipale.
 
@@ -39,6 +39,8 @@ Les autres modalités d'organisation des formations sont déterminées par une c
 " Les armes dont le port a été autorisé par le haut-commissaire de la République en Nouvelle-Calédonie en application de l'article R. 511-18 sont acquises et détenues par la commune sur autorisation du haut-commissaire. " ;
 
 9° bis Pour l'application des dispositions de l'article R. 511-34-5, la référence aux prescriptions édictées par arrêté conjoint du ministre de l'intérieur et du ministre de l'agriculture est remplacée par la référence aux dispositions ayant le même objet applicables localement ;
+
+9° ter Pour l'application des dispositions de l'article R. 511-34-6, la référence au Centre national de la fonction publique territoriale est remplacée par la référence au centre de formation de la police nationale ;
 
 10° Au d du 2° de l'article R. 512-1, les mots : " en application de l' article 97 de la loi n° 84-53 du 26 janvier 1984 " sont remplacés par les mots : " en application des dispositions applicables localement " ;
 
@@ -57,6 +59,3 @@ b) Au troisième alinéa, les mots : " ou intercommunale " sont supprimés ;
 a) A l'article 6, les mots : " en application de l' article L. 325-2 du code de la route , sous l'autorité de l'officier de police judiciaire compétent, ou, en application du deuxième alinéa de ce dernier article, par l'agent de police judiciaire adjoint, chef de la police municipale " sont remplacés par les mots : " en application des dispositions du code de la route de la Nouvelle-Calédonie " ;
 
 b) A l'article 13, les mots : " et par les articles L. 221-2 , L. 223-5 , L. 224-16 , L. 224-17 , L. 224-18 , L. 231-2 , L. 233-1 , L. 233-2 , L. 234-1 à L. 234-9 et L. 235-2 du code de la route, " sont remplacés par les mots : " et par les dispositions du code de la route de la Nouvelle-Calédonie relatives au permis de conduire et au comportement du conducteur, " .
-
-NOTA:
-Se reporter aux conditions d’application prévues à l’article 5 du décret n° 2022-210 du 18 février 2022.

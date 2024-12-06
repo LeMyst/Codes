@@ -11,3 +11,6 @@ L'arrêté reconnaissant ou définissant le référentiel mentionné au deuxièm
 1° Par le ministre chargé de l'aviation civile, lorsque le référentiel porte sur la formation aux activités qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement (UE) n° 2015/1998 du 5 novembre 2015 ;
 
 2° Par le ministre chargé des transports, lorsque le référentiel porte sur la formation aux activités de protection des navires.
+
+NOTA:
+Conformément au premier alinéa de l'article 14 du décret n° 2024-1116 du 4 décembre 2024, jusqu'au 28 février 2025, les prestataires de formation ne disposant pas de la certification prévue au présent article doivent respecter les référentiels, définis par l'arrêté mentionné à ce même article, relatifs aux activités pour lesquelles ils sont autorisés à délivrer des formations en application de l'article L. 625-2 du même code.

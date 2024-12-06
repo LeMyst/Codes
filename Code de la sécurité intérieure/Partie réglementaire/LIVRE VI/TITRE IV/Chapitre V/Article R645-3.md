@@ -136,8 +136,6 @@ a) (Abrogé)
 
 b) Les mots : " classés au a de la catégorie D " sont supprimés ;
 
-c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : " mentionnés au 9° de l'article L. 645-1 " ;
-
 25°.-Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
 " III.-Les titres de formation professionnelle maritime délivrés par l'autorité localement compétente en Polynésie française sont reconnus dans les conditions prévues aux articles R. 373-3 à R. 373-9 du code de l'éducation. "

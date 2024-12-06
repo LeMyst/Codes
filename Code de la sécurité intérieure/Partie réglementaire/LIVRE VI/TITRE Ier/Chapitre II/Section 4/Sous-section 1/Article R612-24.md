@@ -1,6 +1,6 @@
 # Article R612-24
 
-Les exploitants individuels, les dirigeants et les gérants ainsi que les employés des entreprises exerçant l'une des activités mentionnées à l'article L. 611-1 du présent code justifient de leur aptitude professionnelle par la détention :
+Les exploitants individuels, les dirigeants, les gérants, les associés ainsi que les employés des personnes morales exerçant l'une des activités mentionnées à l'article L. 611-1 du présent code justifient de leur aptitude professionnelle par la détention :
 
 1° Soit d'une certification professionnelle, enregistrée au répertoire national des certifications professionnelles, se rapportant à l'activité exercée ;
 

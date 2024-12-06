@@ -12,6 +12,9 @@ b) En Guyane, trois représentants de l'assemblée de Guyane dont son président
 
 c) En Martinique, trois représentants de l'assemblée de Martinique dont le président du conseil exécutif et deux représentants désignés par lui parmi ceux qui ont été nommés en application du 2° de l'article R. 6523-19 ;
 
-3° Quatre représentants des organisations syndicales de salariés représentatives au plan national et interprofessionnel ou au plan régional et interprofessionnel et des organisations professionnelles d'employeurs représentatives au plan national et interprofessionnel ou représentatives au niveau régional et interprofessionnel, désignés sur proposition du collège constitué par l'ensemble des représentants des partenaires sociaux mentionnés au 3° de l'article R. 6523-19.
+3° Quatre représentants des organisations syndicales de salariés représentatives au plan national et interprofessionnel ou au plan régional et interprofessionnel et des organisations professionnelles d'employeurs représentatives au plan national et interprofessionnel ou reconnues représentatives sur le territoire régional, désignés sur proposition du collège constitué par l'ensemble des représentants des partenaires sociaux mentionnés au 3° de l'article R. 6523-19.
 
 Dans le cas où aucun accord ne peut être obtenu au sein du collège mentionné à l'alinéa précédent dans un délai d'un mois à compter de la saisine à cet effet de tous ses membres par le préfet de région, celui-ci désigne deux organisations syndicales de salariés et deux organisations professionnelles d'employeurs dont l'audience, mesurée suivant les dispositions des titres II et V du livre Ier de la deuxième partie, est la plus forte.
+
+NOTA:
+Conformément au I de l’article 6 du décret n° 2024-1147 du 4 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025 dans les collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.

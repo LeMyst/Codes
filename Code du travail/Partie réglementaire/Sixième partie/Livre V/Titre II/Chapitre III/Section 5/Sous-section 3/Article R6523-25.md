@@ -18,7 +18,9 @@ d) Le directeur du centre pénitentiaire ;
 
 a) Des organisations syndicales de salariés représentatives au niveau national et interprofessionnel, des organisations syndicales de salariés représentatives au niveau régional et interprofessionnel et des organisations syndicales de salariés intervenant dans les secteurs d'activités correspondant à ceux des organisations intéressées mentionnées au III de l'article R. 2272-9 ;
 
-b) Des organisations professionnelles d'employeurs les plus représentatives au niveau national et interprofessionnel, des organisations syndicales des salariés représentatives au niveau régional et interprofessionnel, dans la région au niveau interprofessionnel ou multi professionnel, ainsi que de la chambre d'agriculture, du commerce, d'industrie et des métiers ;
+b) Des organisations professionnelles d'employeurs les plus représentatives au niveau national et interprofessionnel, des organisations professionnelles d'employeurs reconnues représentatives sur le territoire régional, des organisations professionnelles d'employeurs représentatives au niveau national et multi professionnel ;
+
+3° bis Un représentant de la chambre d'agriculture, de commerce, d'industrie, des métiers et de l'artisanat ;
 
 4° Des représentants des principaux opérateurs de l'emploi, de la formation et de l'orientation professionnelles implantés localement dont le directeur régional de l'opérateur France Travail, le chef du centre d'information et d'orientation et le directeur du groupement d'intérêt public Expertise, mobilisation et valorisation des initiatives vers l'emploi (EMVIE) ;
 
@@ -28,4 +30,7 @@ Les représentants désignés en application du 2° comprennent au moins une per
 
 Chaque membre du conseil émet un avis sauf les membres mentionnés aux 4° et 5° du présent article. Ils peuvent, le cas échéant, être entendus pour éclairer les débats.
 
-Pour l'application du présent article, le représentant de l'Etat arrête la liste des organisations les plus représentatives au niveau local mentionnées aux a et b du 3° en application des dispositions du chapitre II du titre II du livre Ier de la deuxième partie et du chapitre II du titre V du même livre.
+Pour l'application du présent article, le représentant de l'Etat arrête la liste des organisations mentionnées aux a et b du 3° en application des dispositions du chapitre II du titre II du livre Ier de la deuxième partie et du chapitre II du titre V du même livre.
+
+NOTA:
+Conformément au I de l’article 6 du décret n° 2024-1147 du 4 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025 dans les collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.

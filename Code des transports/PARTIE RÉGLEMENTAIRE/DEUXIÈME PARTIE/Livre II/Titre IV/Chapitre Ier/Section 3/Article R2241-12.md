@@ -1,6 +1,6 @@
 # Article R2241-12
 
-Chaque demande de renseignements transmise à la personne morale unique par les agents mentionnés au 1° de l'article R. 2241-9 du présent code comporte le numéro et la date du procès-verbal établi lors de la constatation des infractions mentionnées à l'article 5293 du code de procédure pénale ainsi que des données relatives à l'identité et à l'adresse du contrevenant recueillies à cette occasion.
+Chaque demande de renseignements transmise à la personne morale unique par les agents mentionnés au 1° de l'article R. 2241-9 du présent code comporte le numéro et la date du procès-verbal établi lors de la constatation des infractions mentionnées à l'article 529-3 du code de procédure pénale ainsi que des données relatives à l'identité et à l'adresse du contrevenant recueillies à cette occasion.
 
 Ces données comportent les nom et prénoms du contrevenant ainsi qu'au moins l'un des éléments suivants :
 

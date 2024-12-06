@@ -1,20 +1,40 @@
 # Article R351-4
 
-Le conseil d'administration comprend :\
-1° Sept représentants de l'Etat ainsi désignés :\
-a) Deux par le ministre chargé de l'enseignement supérieur ;\
-b) Un par le ministre chargé de la recherche ;\
-c) Trois par le ministre chargé de la culture ;\
-d) Un par le ministre chargé du budget ;\
-2° Sept représentants élus du personnel :\
-a) Deux représentants des personnels exerçant des fonctions scientifiques relevant des activités de recherche ;\
-b) Deux représentants des personnels scientifiques des bibliothèques ;\
-c) Un représentant des autres personnels de catégorie A et assimilés ;\
-d) Deux représentants de l'ensemble des autres personnels ;\
-3° Sept personnalités qualifiées, désignées par arrêté des ministres mentionnés à l'article R. 351-1.\
-Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné dans les mêmes conditions.\
-La durée du mandat des membres du conseil d'administration est de quatre ans, à l'exception des membres élus, dont le mandat est d'une durée de deux ans.\
-Le mandat des membres élus cesse de plein droit lorsqu'ils perdent la qualité au titre de laquelle ils ont été désignés.\
-Lorsque le siège d'un membre du conseil d'administration devient vacant, ce membre est remplacé, s'il y a lieu, par son suppléant pour la durée du mandat restant à courir. En cas d'impossibilité et dans les autres cas de vacance, il est procédé au remplacement de ce membre dans les conditions de la désignation initiale et pour la durée du mandat restant à courir, sauf si la vacance intervient moins de six mois avant le terme du mandat.\
-Le directeur général, le directeur général des services, les directeurs de département, le contrôleur budgétaire, l'agent comptable, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances du conseil d'administration avec voix consultative.\
+Le conseil d'administration comprend :
+
+1° Cinq représentants de l'Etat :
+
+a) Le directeur général de l'enseignement supérieur et de l'insertion professionnelle, ou son représentant ;
+
+b) Le directeur général de la recherche et de l'innovation, ou son représentant ;
+
+c) Le directeur général des patrimoines et de l'architecture, ou son représentant ;
+
+d) Le délégué général à la transmission, aux territoires et à la démocratie culturelle, ou son représentant ;
+
+e) Le directeur du budget, ou son représentant ;
+
+2° Cinq représentants élus du personnel :
+
+a) Deux représentants des personnels exerçant des fonctions scientifiques relevant des activités de recherche et des personnels scientifiques des bibliothèques ;
+
+b) Un représentant des autres personnels de catégorie A et assimilés ;
+
+c) Deux représentants de l'ensemble des autres personnels ;
+
+3° Cinq personnalités qualifiées, désignées par arrêté des ministres mentionnés à l'article R. 351-1.
+
+Pour chacun des membres mentionnés au 2°, un suppléant est désigné dans les mêmes conditions.
+
+La durée du mandat des personnalités qualifiées est de quatre ans. La durée du mandat des membres élus est de deux ans.
+
+Le mandat des membres élus cesse de plein droit lorsqu'ils perdent la qualité au titre de laquelle ils ont été désignés.
+
+Lorsque le siège d'un membre du conseil d'administration mentionné au 2° ou au 3° devient vacant au plus tard six mois avant le terme du mandat en cours, il est procédé, pour la durée du mandat restant à courir, au remplacement de ce membre par son suppléant, le cas échéant, ou, en l'absence de suppléant, dans les conditions prévues pour sa désignation initiale.
+
+Le directeur général, le directeur général des services, les directeurs de département, le contrôleur budgétaire, l'agent comptable, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances du conseil d'administration avec voix consultative.
+
 Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
+
+NOTA:
+Conformément à l’article 9 du décret n° 2024-1154 du 4 décembre 2024, ces dispositions, dans leur rédaction issue du décret précité entrent en vigueur en vue du prochain renouvellement des membres élus du conseil d'administration et du conseil scientifique. Pour l'application de ces dispositions, les mandats en cours des personnalités qualifiées prennent fin respectivement à la date d'installation du conseil d'administration et à celle d'installation du conseil scientifique dans leur nouvelle composition.

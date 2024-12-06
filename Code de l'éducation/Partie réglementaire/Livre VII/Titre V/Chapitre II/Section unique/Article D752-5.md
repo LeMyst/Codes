@@ -34,7 +34,7 @@ Les écoles nationales supérieures d'architecture sont :
 
 16° L'Ecole nationale supérieure d'architecture de Paris-Val de Seine ;
 
-17° L'Ecole nationale supérieure d'architecture de Saint-Etienne ;
+17° L'Ecole nationale supérieure d'architecture de Saint-Etienne établissement-composante de l'Université Jean Monnet ;
 
 18° L'Ecole nationale supérieure d'architecture de Strasbourg ;
 

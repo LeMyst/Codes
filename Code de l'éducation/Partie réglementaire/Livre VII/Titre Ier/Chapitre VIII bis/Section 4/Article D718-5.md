@@ -94,7 +94,7 @@ Les établissements ou organismes concourant aux missions du service public de l
 
 59° L'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité par le décret n° 2017-387 du 23 mars 2017 portant association de l'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité ;
 
-60° L'Ecole nationale supérieure d'architecture de Saint-Etienne à l'université de Saint-Etienne par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
+60° (Abrogé) ;
 
 61° L'Ecole nationale supérieure d'architecture de Lyon à l'Institut national des sciences appliquées de Lyon par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
 

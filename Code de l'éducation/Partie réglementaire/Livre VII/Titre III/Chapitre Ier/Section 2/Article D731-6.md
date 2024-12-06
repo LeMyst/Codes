@@ -22,7 +22,7 @@ Constituent des établissements d'enseignement supérieur privés associés à u
 
 10° Ecole supérieure de fonderie et de forge associée à l'école nationale supérieure d'arts et métiers par le décret n° 2016-474 du 15 avril 2016 portant association d'établissements privés ;
 
-11° L'école d'ingénieurs de Purpan associée à l'Institut national polytechnique de Toulouse par le décret n° 2016-468 du 14 avril 2016 portant association d'établissements du site toulousain ;
+11° (Abrogé) ;
 
 12° (supprimé) ;
 

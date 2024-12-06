@@ -32,4 +32,10 @@ Le statut d'établissement public à caractère scientifique, culturel et profes
 
 18° Université de Montpellier Paul-Valéry : décret n° 2024-840 du 16 juillet 2024 ;
 
-19° Université Marie et Louis Pasteur : décret n° 2024-1082 du 29 novembre 2024.
+19° Université Marie et Louis Pasteur : décret n° 2024-1082 du 29 novembre 2024 ;
+
+20° Université de Toulouse : décret n° 2024-1156 du 4 décembre 2024 ;
+
+21° Université Bourgogne Europe : décret n° 2024-1157 du 4 décembre 2024 ;
+
+22° Université Jean Monnet : décret n° 2024-1155 du 4 décembre 2024.

@@ -1,32 +1,48 @@
 # Article R814-1
 
-Le ministre chargé de l'agriculture nomme par arrêté les membres du Conseil national de l'enseignement agricole. La durée de leur mandat est de deux ans pour les représentants des élèves et étudiants et de cinq ans pour les autres membres. Les représentants des élèves et étudiants sont renouvelés par moitié tous les ans.
+Le ministre chargé de l'agriculture nomme par arrêté les membres du Conseil national de l'enseignement agricole, à l'exception de ceux qui y siègent à raison de leurs fonctions en vertu du présent article. La durée de leur mandat est de deux ans pour les représentants des élèves et étudiants et de cinq ans pour les autres membres nommés par le ministre. Les représentants des élèves et étudiants sont renouvelés par moitié tous les ans.
 
 Le conseil comprend :
 
 1° Au titre du 1° de l'article L. 814-1 :
 
-a) Huit représentants de l'Etat, à raison de :
+a) Huit représentants de l'Etat :
 
--quatre représentants du ministre de l'agriculture ;
+Au titre du ministère de l'agriculture, de la souveraineté alimentaire et de la forêt :
 
--un représentant du ministre chargé de l'éducation ;
+- le secrétaire général ou son représentant ;
 
--un représentant du ministre chargé de l'enseignement supérieur ;
+- le directeur général de l'enseignement et de la recherche ou son représentant ;
 
--un représentant du ministre chargé du budget ;
+- le sous-directeur des politiques de formation et d'éducation ou son représentant ;
 
--un représentant du ministre chargé de la formation professionnelle,
+- le directeur général de l'alimentation ou son représentant ;
 
-désignés respectivement par chacun de ces ministres ;
+Au titre du ministère de l'éducation nationale :
 
-b) Trois conseillers régionaux, désignés par la conférence des présidents des conseils régionaux ;
+- le directeur général de l'enseignement scolaire ou son représentant ;
 
-c) Trois représentants des établissements publics intéressés, à raison de :
+Au titre du ministère de l'enseignement supérieur et de la recherche :
 
--deux représentants des chambres d'agriculture, désignés par Chambres d'agriculture France ;
+- le directeur général de l'enseignement supérieur et de l'insertion professionnelle ou son représentant ;
 
--un directeur d'établissement d'enseignement supérieur agricole public, choisi par le ministre de l'agriculture ;
+Au titre du ministère du travail et de l'emploi :
+
+- le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+
+Au titre du ministère du budget et des comptes publics :
+
+- le directeur du budget ou son représentant ;
+
+b) Trois conseillers régionaux, désignés par Régions de France ;
+
+c) Trois représentants des établissements publics intéressés :
+
+- le président de Chambres d'agriculture France ou son représentant ;
+
+- le directeur général de Chambres d'agriculture France ou son représentant ;
+
+- un directeur d'établissement d'enseignement supérieur agricole public, choisi par le ministre de l'agriculture ;
 
 d) Six représentants des associations et organismes responsables d'établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat et de leurs fédérations, à raison de :
 

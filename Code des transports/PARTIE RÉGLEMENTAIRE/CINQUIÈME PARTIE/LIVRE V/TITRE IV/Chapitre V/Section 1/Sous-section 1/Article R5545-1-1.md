@@ -1,0 +1,5 @@
+# Article R5545-1-1
+
+Un exemplaire du document unique d'évaluation des risques professionnels, établi, mis à jour et conservé dans les conditions prévues à la section 1 du chapitre Ier du titre II du livre Ier de la quatrième partie du code du travail, est détenu à bord de chaque navire.
+
+Ce document peut à tout moment être consulté par le membre de l'équipage chargé de la prévention des risques professionnels mentionné à l'article R. 5545-1 du présent code, par tout délégué de bord prévu par le décret n° 2015-1674 du 15 décembre 2015 relatif au délégué de bord sur les navires, par toutes personnes mentionnées aux 1° à 5° et 7° de l'article R. 4121-4 du code du travail, par tout agent chargé de la prévention des risques professionnels maritimes au sein de l'Etablissement national des invalides de la marine, par tout inspecteur de la sécurité des navires et de la prévention des risques professionnels, par tous agents mentionnés aux 2°, 4°, 8° et 10° de l'article L. 5222-1 du présent code ainsi que par tout médecin du service de santé des gens de mer.

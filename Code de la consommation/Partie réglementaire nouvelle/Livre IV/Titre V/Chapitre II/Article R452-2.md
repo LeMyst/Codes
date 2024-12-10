@@ -2,7 +2,7 @@
 
 Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait de ne pas informer les autorités administratives compétentes des actions engagées en application :
 
-1° Du premier alinéa de l'article L. 423-3 ;
+1° (Supprimé) ;
 
 2° Du paragraphe 3 de l'article 19 et du paragraphe 3 de l'article 20 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires ;
 

@@ -1,1 +1,1 @@
-Sous-section 29 : Equipements de protection individuelle
+Sous-section 29 : Sécurité générale des produits

@@ -1,1 +1,1 @@
-Chapitre III : Obligations des producteurs et des distributeurs
+Chapitre III : Obligations des opérateurs économiques

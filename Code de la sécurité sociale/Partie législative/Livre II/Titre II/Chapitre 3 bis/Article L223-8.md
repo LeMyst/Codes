@@ -14,7 +14,7 @@ b) Du coût de la prestation de compensation mentionnée à l'article L. 245-1 d
 
 c) Des coûts d'installation ou de fonctionnement des maisons départementales des personnes handicapées ;
 
-d) Du coût des actions de prévention prévues à l'article L. 233-1 du même code et des dépenses de fonctionnement de la conférence des financeurs mentionnée au même article L. 233-1 ;
+d) Du coût des actions de prévention prévues au II de l'article L. 149-11 du même code et des dépenses de fonctionnement de la commission des financeurs de la prévention de la perte d'autonomie mentionnée au même article L. 149-11 ;
 
 e) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant pour chaque département, le cas échéant, de l'application du tarif horaire minimal prévu au I de l'article L. 314-2-1. Les modalités de détermination de ce montant sont précisées par décret en Conseil d'Etat, en tenant compte des dernières données disponibles portant sur le volume total d'activité des services réalisant une activité d'aide et d'accompagnement à domicile à la date d'effet de la première application du tarif minimal et de chacune de ses revalorisations ;
 
@@ -25,4 +25,4 @@ f) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant, po
 5° Le financement de la gestion administrative.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément à l'article 2 du décret n° 2024-1178 du 13 décembre 2024, la date prévue au III de l'article 2 de la loi n° 2024-317 du 8 avril 2024 est celle de l'entrée en vigueur dudit décret, soit le 15 décembre 2024.

@@ -1,4 +1,4 @@
-# Article R4132-1
+# Article D4132-1
 
 Le candidat à l'engagement mentionné à l'article L. 4132-6 peut bénéficier, en qualité d'élève, d'étudiant ou d'apprenti au sens du livre II de la sixième partie du code du travail, d'une allocation financière spécifique accordée par le ministre de la défense ou par le ministre de l'intérieur pour la gendarmerie nationale, au titre d'une formation visant à l'acquisition des qualifications professionnelles requises pour la réalisation des contrats opérationnels des forces armées et formations rattachées.
 

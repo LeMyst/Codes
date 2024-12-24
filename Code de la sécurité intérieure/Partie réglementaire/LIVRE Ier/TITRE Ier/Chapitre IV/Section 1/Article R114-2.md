@@ -66,7 +66,7 @@ l) Des agents de surveillance de Paris ;
 
 m) Des agents du Conseil national des activités privées de sécurité ;
 
-n) Des agents de l'Autorité de sûreté nucléaire ;
+n) Des personnels de l'Autorité de sûreté nucléaire et de radioprotection ;
 
 o) Des agents civils du ministère de la défense et de la gendarmerie nationale ;
 
@@ -105,4 +105,4 @@ o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret 
 p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6.
 
 NOTA:
-Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

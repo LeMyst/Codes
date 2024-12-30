@@ -16,9 +16,9 @@ II.-Les dispositions de la présente section ne sont pas applicables aux contrat
 
 6° Les services de jeux d'argent et de hasard, compris comme tout service impliquant une mise ayant une valeur pécuniaire, impliquant s'il y a lieu un élément de compétence, et fourni par voie électronique ou par toute autre technologie permettant de faciliter la communication et à la demande individuelle du destinataire d'un tel service ;
 
-7° Les services financiers, compris comme tout service ayant trait à la banque, au crédit, à l'assurance, aux retraites individuelles, aux investissements et aux paiements, ainsi que les services sur actifs numériques mentionnés aux articles L. 54-10-1 et suivants du code monétaire et financier ;
+7° Les services financiers, compris comme tout service ayant trait à la banque, au crédit, à l'assurance, aux retraites individuelles, aux investissements et aux paiements, ainsi que les services sur actifs numériques mentionnés aux articles L. 54-10-1 et suivants du code monétaire et financier ou les services sur crypto-actifs au sens du règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs ;
 
 8° Les logiciels sous licence libre et ouverte, lorsque le consommateur ne s'acquitte pas d'un prix et que les données à caractère personnel fournies par celui-ci sont exclusivement traitées par le professionnel pour améliorer la sécurité, la compatibilité ou l'interopérabilité de ces logiciels spécifiques.
 
 NOTA:
-Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions sont applicables à la fourniture de contenus numériques et de services numériques à compter du 1er janvier 2022.
+Conformément au I de l'article 49 de l'ordonnance n° 2024-936 du 15 octobre 2024 (NOR : ECOT2415927R), ces dispositions entrent en vigueur le 30 décembre 2024.

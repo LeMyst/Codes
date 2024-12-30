@@ -4,9 +4,9 @@ La publicité, directe ou indirecte, adressée par voie électronique à des cli
 
 Est également interdite toute publicité, directe ou indirecte, diffusée par voie électronique ayant pour objet d'inviter une personne, par le biais d'un formulaire de réponse ou de contact, à demander ou à fournir des informations complémentaires, ou à établir une relation avec l'annonceur, en vue d'obtenir son accord pour la réalisation d'une opération relative à :
 
-a) La fourniture de services sur actifs numériques au sens de l'article L. 54-10-2 du même code, à l'exception de ceux pour la fourniture desquels l'annonceur est agréé dans les conditions prévues à l'article L. 54-10-5 dudit code ;
+a) La fourniture de services sur actifs numériques au sens de l'article L. 54-10-2 du même code ou de services sur crypto-actifs au sens du règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, à l'exception de ceux pour la fourniture desquels l'annonceur est agréé dans les conditions prévues à l'article L. 54-10-5 dudit code ou, le cas échéant, agréé ou autorisé conformément à l'article 59 du règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs ;
 
-b) Une offre au public de jetons au sens de l'article L. 552-3 du même code, sauf lorsque l'annonceur a obtenu le visa prévu à l'article L. 552-4 du même code.
+b) Une offre au public ou une demande d'admission à la négociation de crypto-actifs, au sens du règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, sauf lorsque l'annonceur est agréé conformément aux dispositions de ce règlement.
 
 Est passible d'une amende administrative dont le montant ne peut excéder 100 000 € :
 
@@ -23,3 +23,6 @@ Est passible d'une amende administrative dont le montant ne peut excéder 100 00
 6° Toute personne diffusant une publicité interdite en application du présent article.
 
 L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du présent code.
+
+NOTA:
+Conformément au I de l'article 49 de l'ordonnance n° 2024-936 du 15 octobre 2024 (NOR : ECOT2415927R), ces dispositions entrent en vigueur le 30 décembre 2024.

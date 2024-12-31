@@ -18,7 +18,7 @@ d) L'absence de demande de remplacement dans un délai de sept jours calendaires
 
 e) La mauvaise utilisation du dispositif de commutation ;
 
-f) L'incapacité de présenter les informations relatives à la journée en cours ou l'un des vingt-huit jours précédents comme prévu par le i du paragraphe 1 et le ii du paragraphe 2 de l'article 36 du règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers ;
+f) L'incapacité de présenter les informations relatives à la journée en cours ou l'un des cinquante-six jours précédents comme prévu par le i du paragraphe 1 et le ii du paragraphe 2 de l'article 36 du règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers ;
 
 g) L'incapacité de présenter la carte de conducteur ;
 
@@ -43,3 +43,6 @@ d) Prise d'un temps de repos hebdomadaire après douze périodes consécutives d
 a) De faire prendre à son salarié le repos quotidien ou hebdomadaire prévu par le code du travail à bord d'un véhicule n'excédant pas un poids maximum autorisé de 3,5 tonnes ou dans un hébergement n'offrant pas des conditions de sécurité, de confort et d'hygiène respectueuses de sa santé ;
 
 b) De ne pas mettre son salarié en mesure de justifier qu'il a pris ses dernières périodes de repos, en dehors du véhicule, dans les conditions mentionnées à l'alinéa précédent.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2022-1147 du 10 août 2022, ces dispositions entrent en vigueur le 31 décembre 2024.

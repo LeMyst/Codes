@@ -10,7 +10,9 @@ I.-Parmi les autorités et personnes énumérées à l'article L. 225-5, reçoiv
 
 4° Les personnels individuellement désignés et habilités des entreprises exerçant une activité de transport public routier de voyageurs ou de marchandises pour les personnes qu'elles emploient comme conducteur de véhicule à moteur ;
 
-5° Les autorités des Etats membres de l'Union Européenne, aux fins d'authentification du permis de conduire, conformément aux accords internationaux en vigueur.
+5° Les autorités des Etats membres de l'Union Européenne, aux fins d'authentification du permis de conduire, conformément aux accords internationaux en vigueur ;
+
+6° Les agents de la Caisse des dépôts et consignations individuellement désignés et dûment habilités au titre de la mission de gestion du système d'information du compte personnel de formation mentionné au II de l'article L. 6323-8 du code du travail.
 
 II.-Reçoivent, à leur demande, communication des données et informations mentionnées à l'article L. 225-5, à raison de leurs attributions et dans la limite du besoin d'en connaître, les autres personnes et autorités énumérées par cet article :
 

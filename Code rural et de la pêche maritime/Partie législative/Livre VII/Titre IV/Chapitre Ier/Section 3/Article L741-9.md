@@ -26,5 +26,7 @@ b) Sur la totalité des revenus d'activité perçus par les assurés, à la char
 
 2° Par une contribution de la branche Accidents du travail et maladies professionnelles couvrant les dépenses supplémentaires engendrées par les départs en retraite à l'âge prévu à l'article L. 351-1-4 du code de la sécurité sociale et par les départs en retraite mentionnés au 3° du I de l'article L. 4163-7 du code du travail.
 
+La cotisation prévue aux b et c du 1° du I du présent article est recouvrée et contrôlée selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations et contributions de sécurité sociale par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale.
+
 NOTA:
-Conformément au III de l'article 20 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux prestations dues à compter du 1er janvier 2023.
+Conformément au 2° du X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

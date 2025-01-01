@@ -36,7 +36,7 @@ b) Le respect de l'une des obligations suivantes :
 
 Un arrêté du ministre chargé de l'agriculture précise les conditions de vérification par un organisme certificateur du respect des exigences mentionnées au 1°.
 
-III.-Pour bénéficier de l'aide par la voie d'accès “ éléments favorables à la biodiversité ”, l'agriculteur doit justifier d'une proportion minimale de 7 % d'éléments favorables à la biodiversité sur la surface agricole utile de son exploitation dont au moins 4 % sur les terres arables de l'exploitation si celle-ci en comporte pour le niveau de base et de 10 % pour le niveau supérieur dont au moins 4 % sur les terres arables de l'exploitation si celle-ci en comporte. L'exigence d'implanter au moins 4 % d'éléments favorables à la biodiversité sur les terres arables de l'exploitation ne concerne que les exploitants qui ne sont pas exemptés de l'application de la BCAE8 en application de l'annexe III du règlement (UE) n° 2021/2115 du 2 décembre 2021.
+III.-Pour bénéficier de l'aide par la voie d'accès “ éléments favorables à la biodiversité ”, l'agriculteur doit justifier d'une proportion minimale de 7 % d'éléments favorables à la biodiversité sur la surface agricole utile de son exploitation pour le niveau de base et de 10 % pour le niveau supérieur.
 
 Un arrêté du ministre chargé de l'agriculture définit la liste des éléments concernés, leurs caractéristiques et leurs coefficients de conversion et de pondération.
 
@@ -47,4 +47,4 @@ Les haies doivent faire l'objet d'une gestion durable, incluant des techniques d
 Un arrêté du ministre chargé de l'agriculture précise les conditions de vérification par un organisme certificateur du respect de ces exigences et fixe les coefficients de conversion et de pondération des haies.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2023-168 du 8 mars 2023, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 3 du décret n° 2024-1146 du 4 décembre 2024, ces dispositions entrent en vigueur au 1er janvier 2025.

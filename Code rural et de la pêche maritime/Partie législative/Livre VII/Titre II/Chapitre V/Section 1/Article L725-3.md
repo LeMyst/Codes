@@ -1,6 +1,6 @@
 # Article L725-3
 
-Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et des majorations et pénalités de retard dues au titre des régimes de protection sociale agricole dont elles assurent l'application.
+I. - Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et des majorations et pénalités de retard dues au titre des régimes de protection sociale agricole dont elles assurent l'application.
 
 Par dérogation à l'article L. 213-1 du code de la sécurité sociale, elles sont également chargées du recouvrement :
 
@@ -12,7 +12,7 @@ Les caisses de mutualité sociale agricole sont chargées du recouvrement des ma
 
 Elles sont également chargées du recouvrement de la contribution mentionnée à l'article L. 5212-9 du code du travail.
 
-Toute action de mise en recouvrement est précédée de l'envoi au cotisant d'une mise en demeure de régulariser sa situation. Le second alinéa de l'article L. 244-2 du code de la sécurité sociale est applicable à cette mise en demeure par lettre recommandée ou par tout moyen donnant date certaine de sa réception.
+II. - Toute action de mise en recouvrement est précédée de l'envoi au cotisant d'une mise en demeure de régulariser sa situation. Le second alinéa de l'article L. 244-2 du code de la sécurité sociale est applicable à cette mise en demeure par lettre recommandée ou par tout moyen donnant date certaine de sa réception.
 
 Indépendamment de la procédure applicable au contentieux de la sécurité sociale et de l'action en constitution de partie civile prévue aux articles 418 et 536 du code de procédure pénale, les caisses de mutualité sociale agricole peuvent recouvrer les cotisations et éventuellement les pénalités dues en utilisant l'une ou plusieurs des procédures suivantes :
 
@@ -20,5 +20,25 @@ Indépendamment de la procédure applicable au contentieux de la sécurité soci
 
 2° L'état exécutoire signé par le préfet dans le cadre d'une procédure sommaire dont le recouvrement est effectué comme en matière de contributions directes.
 
+III. - La caisse centrale de la mutualité sociale agricole assure la notification et le versement à chaque attributaire des sommes recouvrées qui lui reviennent.
+
+Par dérogation au premier alinéa du présent III du présent article, le versement est effectué à hauteur du montant des sommes dues par les redevables, après application d'un taux forfaitaire fixé au regard du risque de non-recouvrement d'une partie de ces sommes pour :
+
+1° Les cotisations et contributions finançant les régimes de base de sécurité sociale rendus obligatoires par la loi à la charge des salariés ou assimilés mentionnés à l'article L. 722-20 et de leurs employeurs ;
+
+2° Les versements, cotisations et contributions mentionnés aux b, c et e du 5° de l'article L. 225-1-1 du code de la sécurité sociale ;
+
+3° Les contributions mentionnées à l'article L. 718-2-1 du présent code et à l'article L. 6331-53 du code du travail ;
+
+4° Les cotisations mentionnées aux a et b du I du présent article.
+
+Le taux mentionné au deuxième alinéa du présent III est fixé, par attributaire ou catégorie d'attributaires, dans des conditions fixées par décret en Conseil d'Etat, par arrêté des ministres chargés de la sécurité sociale, de l'agriculture et du budget.
+
+Sans préjudice des dispositions particulières prévoyant d'autres règles d'affectation, le produit des majorations de retard et des pénalités dues par les redevables dans les conditions prévues aux deuxième à sixième alinéas du présent III n'est pas reversé aux attributaires.
+
+Le solde résultant, pour la caisse centrale de la mutualité sociale agricole, de l'application du présent III, déduction faite des frais de gestion, est affecté aux branches mentionnées aux articles L. 722-8 et L. 722-27, selon une répartition fixée par arrêté des ministres chargés du budget, de la sécurité sociale et de l'agriculture en fonction des soldes prévisionnels de ces branches.
+
 NOTA:
-Conformément à l’article 27, IV de la loi n° 2020-1576 du 14 décembre 2020, ces dispositions sont applicables aux cotisations dues au titre des périodes d'activité courant à compter du 1er janvier 2021 pour la couverture des prestations en nature d'assurance maladie et maternité et au titre des périodes d'activité courant à compter du 1er janvier 2022 pour la couverture des autres prestations.
+Conformément au B du VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions sont applicables aux cotisations et contributions reversées par la Caisse centrale de la mutualité sociale agricole à compter du 1er janvier 2025. Cette date peut être reportée par décret, dans la limite d'un an. Les créances de cotisations et de contributions sociales et les créances accessoires correspondant aux restes à recouvrer dus aux attributaires par la Caisse centrale de la mutualité sociale agricole avant cette date font l'objet d'un versement à hauteur de la valeur estimée recouvrable de ces créances à cette même date. Les modalités de règlement desdites créances, notamment leur échelonnement, sont fixées par convention entre la Caisse centrale de la mutualité sociale agricole et les attributaires concernés, à l'exception des créances à régler aux organismes complémentaires et aux autorités organisatrices de la mobilité, dont le montant et les modalités de règlement sont constatés et fixés par arrêté des ministres chargés de la sécurité sociale et de l'agriculture.
+
+Conformément au 2° du X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

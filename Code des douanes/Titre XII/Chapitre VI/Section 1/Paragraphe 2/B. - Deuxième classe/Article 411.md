@@ -16,10 +16,13 @@ e) l'inexécution totale ou partielle des engagements souscrits dans les acquits
 
 f) les excédents sur le poids, le nombre ou la mesure déclarés ;
 
-g) (Abrogé) ;
+g) L'inobservation des mesures de suivi et de gestion applicables aux produits soumis à l'accise sur les énergies en application de l'article L. 312-2 du code des impositions sur les biens et services, autres que les charbons, les gaz naturels et l'électricité, ayant pour résultat de faire bénéficier indûment son auteur d'une exemption ou d'un tarif inférieur à celui qui est applicable ;
 
 h) (Abrogé) ;
 
 i) l'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus.
 
 3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le recouvrement de droits de port ou de redevances d'équipement.
+
+NOTA:
+Conformément au C du IX de l’article 80 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2025.

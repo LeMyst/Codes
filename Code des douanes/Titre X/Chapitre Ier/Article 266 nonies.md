@@ -2,54 +2,49 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
-A-0.-Les autorisations mentionnées dans chacune des lignes des tableaux du second alinéa des a et b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
+A-0.-Les autorisations mentionnées dans chacune des lignes du tableau du second alinéa du b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
 
-Les réceptions dans des installations non autorisées relèvent du tarif le plus élevé prévu par chacun des tableaux mentionnés au premier alinéa du présent A-0 pour, respectivement, les installations de stockage ou d'incinération, majoré de 110 € par tonne.
+Les réceptions dans des installations non autorisées relèvent du tarif le plus élevé prévu respectivement au a et au b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 pour, respectivement, les installations de stockage ou d'incinération, majoré de 110 € par tonne.
 
 Relèvent du même tarif les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de ces autorisations ainsi que les transferts réalisés vers une installation hors de France en méconnaissance des réglementations d'effet équivalent mentionnées au premier alinéa du présent A-0.
 
 A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 266 sexies :
 
-a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
+a) Le tarif pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat est de 65 € par tonne.
 
-| Désignation des installations de stockage de déchets non dangereux concernées | Unité de perception | Quotité (en euros) |
-| --- | --- | --- |
-| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
-| B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté | tonne | 24 | 25 | 37 | 45 | 52 | 59 | 65 |
-| C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du biogaz capté | tonne | 34 | 35 | 47 | 53 | 58 | 61 | 65 |
-| D.-Installations autorisées relevant à la fois des B et C | tonne | 17 | 18 | 30 | 40 | 51 | 58 | 65 |
-| E.-Autres installations autorisées | tonne | 41 | 42 | 54 | 58 | 61 | 63 | 65 |
+Ce tarif est majoré pour la fraction des déchets qui sont réceptionnés à compter de l'atteinte de l'objectif annuel mentionné au b bis du présent A. Cette majoration est déterminée par arrêté conjoint des ministres chargés du budget et de l'environnement entre un minimun de 5 € par tonne et un maximum de 10 € par tonne ;
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-| Désignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Quotité (en euros) |
+| ésignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Tarif (en euros) |
 | --- | --- | --- |
-| 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | A partir de 2025 |
-| A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
-| B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 | tonne | 12 | 12 | 17 | 18 | 20 | 22 | 25 |
-| C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 9 | 9 | 14 | 14 | 14 | 14 | 15 |
-| D.-Installations relevant à la fois des A et B | tonne | 9 | 9 | 14 | 14 | 17 | 20 | 25 |
-| E.-Installations relevant à la fois des A et C | tonne | 6 | 6 | 11 | 12 | 13 | 14 | 15 |
-| F.-Installations relevant à la fois des B et C | tonne | 5 | 5 | 10 | 11 | 12 | 14 | 15 |
-| G.-Installations relevant à la fois des A, B et C | tonne | 3 | 3 | 8 | 11 | 12 | 14 | 15 |
-| H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | _ | _ | 4 | 5,5 | 6 | 7 | 7,5 |
-| I.-Autres installations autorisées | tonne | 15 | 15 | 20 | 22 | 23 | 24 | 25 |
+| C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 15 |
+| H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | 7,5 |
+| I.-Autres installations autorisées | tonne | 25 |
 
-b bis) (Abrogé) ;
+b bis) Aux fins d'application de la majoration prévue au second alinéa du a du présent A, l'objectif annuel est constaté, en France, pour chaque installation de stockage de déchets non dangereux autorisée dans la région par un arrêté du préfet de région, publié avant le 31 octobre de l'année précédant celle de l'exigibilité de la taxe, dans les conditions suivantes :
 
-c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible s'applique à l'assiette concernée ;
+1° Lorsque le plan régional de prévention et de gestion des déchets prévu à l'article L. 541-13 du code de l'environnement ou le schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L. 4251-1 du code général des collectivités territoriales fixent, pour chaque installation de stockage de déchets non dangereux autorisée dans la région, un seuil annuel conforme à l'objectif de réduction pour 2025 des mises en décharge prévu au 7° du I de l'article L. 541-1 du code de l'environnement, l'objectif annuel est égal à ce seuil ;
 
-d) Le tarif réduit mentionné au A du tableau du second alinéa du b s'applique aux tonnages de déchets réceptionnés à compter de la date d'obtention de la certification ISO 50001 ;
+2° Dans les autres cas, l'objectif annuel est égal au produit des facteurs suivants :
 
-e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives, réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz capté à plus de 75 % ;
+- la capacité de stockage autorisée pour l'installation, exprimée en tonnes, au titre de l'année d'exigibilité de la taxe ;
 
-Les installations mentionnées au C du tableau du second alinéa du b sont celles qui sont équipées, dès leur construction, des équipements de captage du biogaz et de réinjection des lixiviats. Le tarif prévu au même C s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée, et réceptionnés, dans les conditions de l'autorisation d'exploitation du bioréacteur et de valorisation du biogaz, dans un casier ou une subdivision de casier, dont la durée d'utilisation est inférieure à deux ans à compter de la date de début d'exploitation de ce casier ou de cette subdivision de casier ;
+- un coefficient égal au quotient entre, d'une part, la moitié de la masse de déchets effectivement stockée en 2010 sur le territoire de la région et, d'autre part, la masse de stockage autorisée sur le même territoire au titre de l'année d'exigibilité de la taxe.
 
-f) Le tarif mentionné au B du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm3.
+Pour les transferts hors de France, cet objectif est celui résultant des règles nationales applicables à l'installation de réception des déchets.
 
-Le tarif réduit mentionné au C du tableau du même b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des déchets, au sens de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée ;
+La majoration prévue au second alinéa du a du présent A ne s'applique pas aux déchets réceptionnés dans les installations situées dans les collectivités régies par l'article 73 de la Constitution ou transférés à destination des installations situées hors de France pour lesquelles les règles nationales ne définissent aucun objectif annuel ;
 
-g) Un arrêté conjoint des ministres chargés du budget et de l'environnement précise les modalités d'application des tarifs réduits mentionnés aux B et C du tableau du a et au B du tableau du b ainsi que la liste des déchets, parmi ceux de la liste mentionnée à l'article 7 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée, susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités ;
+c) Lorsque plusieurs tarifs mentionnés au tableau du b sont applicables, le tarif le plus faible s'applique à l'assiette concernée ;
+
+d) (Abrogé) ;
+
+e) (Abrogé) ;
+
+f) Le tarif réduit mentionné au C du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des déchets, au sens de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives ;
+
+g) (Abrogé) ;
 
 h) Le tarif mentionné au H du tableau du second alinéa du b s'applique aux tonnages des déchets identifiés comme des résidus issus d'opérations de tri performantes et dont le pouvoir calorifique inférieur est supérieur ou égal à un seuil fixé par arrêté conjoint des ministres chargés du budget et de l'environnement.
 
@@ -63,8 +58,8 @@ Une opération de tri s'entend d'une opération de séparation, au sein d'un mê
 
 i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
 
-- 35 % en Guadeloupe, à La Réunion et en Martinique ;
-- 75 % en Guyane et à Mayotte.
+- 25 % en Guadeloupe, à La Réunion et en Martinique ;
+- 70 % en Guyane et à Mayotte.
 
 Toutefois, pour les installations de stockage non accessibles par voie terrestre situées en Guyane, le tarif est fixé à 3 euros par tonne.
 
@@ -126,3 +121,10 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 1. (Abrogé).
 
 1. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
+
+NOTA:
+Conformément au II de l'article 63 de la loi n° 2020-1721 du 29 décembre 2020 dans sa rédaction issue de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Conformément au II de l'article 14 de la loi n° 2021-1549 du 1er décembre 2021 dans sa rédaction issue de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Conformément au A du V de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

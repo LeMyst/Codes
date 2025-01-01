@@ -22,7 +22,9 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | Au titre II | |
 | R. 122-17 à R. 122-23 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 122-24 | Résultant du décret n° 2017-207 du 20 février 2017 |
-| R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
+| R. 122-25 à R. 122-29 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
+| R. 122-30 | Résultant du décret n° 2024-1115 du 4 décembre 2024 |
+| R. 122-31, sauf son 4°, R. 122-32 à R. 122-35 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
 | R. 122-37 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | Au titre III | |
 | R. 131-1 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
@@ -32,4 +34,4 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 141-1 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 
 NOTA:
-Conformément au rectificatif du décret n° 2023-1171 du 13 décembre 2023 (ARMD2328243Z), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 3 du décret n° 2024-1115 du 4 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

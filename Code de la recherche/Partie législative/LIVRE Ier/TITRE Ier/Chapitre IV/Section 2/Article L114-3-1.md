@@ -38,13 +38,11 @@ L'évaluation est préalable à l'accréditation prévue à l'article L. 613-1 d
 
 Le Haut Conseil répond aux besoins d'évaluation énoncés par les ministres compétents en matière d'enseignement supérieur, de recherche et d'innovation.
 
-Il peut aussi évaluer, à la demande des autorités compétentes, les activités de recherche d'autres établissements mentionnés à l'article L. 112-6 du présent code dont les statuts prévoient une mission de recherche.
+Il peut aussi évaluer, à la demande des autorités compétentes, les activités de recherche d'autres établissements mentionnés à l'article L. 112-6 du présent code dont les statuts prévoient une mission de recherche et, à la demande de l'Autorité de sûreté nucléaire et de radioprotection, les activités de recherche de celle-ci .
 
 Il assure, dans des conditions fixées par décret, une coordination de l'action des instances d'évaluation nationales dans les domaines de la recherche et de l'enseignement supérieur, à l'exception des instances chargées de l'évaluation des personnels, dans le respect des caractéristiques particulières des missions exercées par ces instances nationales.
 
 Il peut également participer, dans le cadre de programmes de coopération européens ou internationaux ou à la demande des autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur.
 
 NOTA:
-Conformément au III B de l'article 16 de la loi n° 2020-1674 du 24 décembre 2020, les dispositions issues du a du 6° du I dudit article entrent en vigueur le 1er janvier 2022.
-
-Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

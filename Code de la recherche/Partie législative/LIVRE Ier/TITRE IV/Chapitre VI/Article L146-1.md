@@ -12,7 +12,9 @@ II. - Dans leur rédaction résultant de la loi n° 2020-1674 du 24 décembre 20
 
 2° Sous réserve des compétences de la collectivité mentionnée au chapitre Ier du titre III de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, les articles L. 112-2 et L. 114-3-5 y sont également applicables.
 
-III. - Les articles L. 114-3-1 et L. 114-5 sont applicables en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 portant suppression de la carte des formations supérieures, mettant en cohérence et abrogeant diverses dispositions relatives à la recherche et à l'enseignement supérieur et étendant certaines dispositions relatives aux mêmes domaines à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.
+III. - L'article L. 114-3-1 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2024-450 du 21 mai 2024 relative à l'organisation de la gouvernance de la sûreté nucléaire et de la radioprotection pour répondre au défi de la relance de la filière nucléaire.
+
+L'article L. 114-5 est applicable en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 portant suppression de la carte des formations supérieures, mettant en cohérence et abrogeant diverses dispositions relatives à la recherche et à l'enseignement supérieur et étendant certaines dispositions relatives aux mêmes domaines à Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 NOTA:
-Conformément à l'article 10 de l'ordonnance n° 2021-1747 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

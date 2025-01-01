@@ -10,7 +10,9 @@ Cette évaluation individuelle préalable, consignée par l'employeur sous une f
 
 4° La dose équivalente ou efficace que le travailleur est susceptible de recevoir sur les douze mois consécutifs à venir, en tenant compte des expositions potentielles et des incidents raisonnablement prévisibles inhérents au poste de travail ;
 
-5° La dose efficace exclusivement liée au radon que le travailleur est susceptible de recevoir sur les douze mois consécutifs à venir dans le cadre de l'exercice des activités professionnelles visées au 4° de l'article R. 4451-1.
+5° La dose efficace exclusivement liée au radon que le travailleur est susceptible de recevoir sur les douze mois consécutifs à venir dans le cadre de l'exercice des activités professionnelles visées au 4° de l'article R. 4451-1 ;
+
+6° Le type de surveillance de l'exposition aux rayonnements ionisants du travailleur proposé à mettre en œuvre.
 
 L'employeur actualise cette évaluation individuelle en tant que de besoin.
 

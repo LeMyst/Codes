@@ -1,6 +1,6 @@
 # Article R3252-3
 
-Les seuils déterminés à l'article R. 3252-2 sont augmentés d'un montant de 1 690 € par personne à la charge du débiteur saisi ou du cédant, sur justification présentée par l'intéressé.
+Les seuils déterminés à l'article R. 3252-2 sont augmentés d'un montant de 1 720 € par personne à la charge du débiteur saisi ou du cédant, sur justification présentée par l'intéressé.
 
 Pour l'application du premier alinéa, sont considérés comme personnes à charge :
 
@@ -9,6 +9,3 @@ Pour l'application du premier alinéa, sont considérés comme personnes à char
 2° L'enfant ouvrant droit aux prestations familiales en application des articles L. 512-3 et L. 512-4 du code de la sécurité sociale et se trouvant à la charge effective et permanente du débiteur au sens de l'article L. 513-1 du même code. Est également considéré comme étant à charge l'enfant à qui ou pour l'entretien duquel le débiteur verse une pension alimentaire ;
 
 3° L'ascendant dont les ressources personnelles sont inférieures au montant forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de l'action sociale et des familles, fixé pour un foyer composé d'une seule personne et qui habite avec le débiteur ou auquel le débiteur verse une pension alimentaire.
-
-NOTA:
-Conformément à l’article 3 du décret n° 2023-1228 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

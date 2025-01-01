@@ -6,7 +6,7 @@ Est réputée immédiatement disponible pour occuper un emploi, au sens de l'art
 
 2° Suit une action de formation n'excédant pas au total quarante heures ou dont les modalités d'organisation, notamment sous forme de cours du soir ou par correspondance, lui permettent d'occuper simultanément un emploi ;
 
-3° S'absente de son domicile habituel, après en avoir avisé l'opérateur France Travail, dans la limite de trente-cinq jours dans l'année civile ;
+3° Si elle a pour organisme référent l'opérateur France Travail, s'absente de son domicile habituel, après en avoir avisé l'opérateur France Travail, dans la limite de trente-cinq jours dans l'année civile ;
 
 4° Est en congé de maladie ou en incapacité temporaire de travail, pour une durée n'excédant pas quinze jours ;
 
@@ -15,4 +15,4 @@ Est réputée immédiatement disponible pour occuper un emploi, au sens de l'art
 6° Bénéficie d'un congé de paternité.
 
 NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément au I de l'article 6 du décret n° 2024-1242 du 30 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025, sous réserve des dispositions des II à V dudit article.

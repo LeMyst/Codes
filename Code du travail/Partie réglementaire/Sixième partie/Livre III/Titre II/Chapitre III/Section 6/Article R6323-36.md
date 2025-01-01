@@ -8,9 +8,10 @@ Sont destinataires de tout ou partie des données à caractère personnel inclus
 
 3° L'analyse de l'utilisation et de l'évaluation de la mise en œuvre du compte personnel de formation et du droit individuel à la formation des élus locaux ;
 
-4° La mise en œuvre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10.
+4° La mise en œuvre du partage de données mentionné au deuxième alinéa de l'article L. 6353-10 ;
+
+5° La vérification des conditions d'éligibilité du prestataire mentionné à l'article L. 6351-1 pour être référencé sur le service dématérialisé en application de l'article L. 6323-9-1 ;
+
+6° La gestion des conditions générales d'utilisation du service dématérialisé mentionné à l'article L. 6323-9, le contrôle de leur respect ainsi que la mise en œuvre et le suivi des mesures visant à prévenir et sanctionner les manquements à ces conditions générales d'utilisation.
 
 La liste de ces organismes est fixée par arrêté du ministre chargé de la formation professionnelle et du ministre chargé des collectivités territoriales.
-
-NOTA:
-Conformément à l'article 27 du décret n° 2021-1708 du 17 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.

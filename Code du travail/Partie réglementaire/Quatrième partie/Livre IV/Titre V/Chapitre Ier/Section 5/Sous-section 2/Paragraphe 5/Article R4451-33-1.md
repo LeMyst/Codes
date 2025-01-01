@@ -14,6 +14,6 @@ II.-Les résultats de mesures du dosimètre opérationnel mentionné au I sont n
 
 Le conseiller en radioprotection ou, le cas échéant, le salarié mentionné au I de l'article L. 4644-1 analysent les résultats de mesure du dosimètre opérationnel à des fins d'optimisation de la radioprotection.
 
-III.-Dans les établissements comprenant une installation nucléaire de base, l'employeur transmet périodiquement les niveaux d'exposition, mesurés par le dosimètre opérationnel, des travailleurs classés en application de l'article R. 4451-57 au système d'information et de surveillance de l'exposition aux rayonnements ionisants dont la gestion est confiée à l'Institut de radioprotection et de sûreté nucléaire.
+III.-Dans les établissements comprenant une installation nucléaire de base, l'employeur transmet périodiquement les niveaux d'exposition, mesurés par le dosimètre opérationnel, des travailleurs classés en application de l'article R. 4451-57 au système d'information et de surveillance de l'exposition aux rayonnements ionisants défini à l'article R. 4451-134.
 
 Lorsqu'un accord préalable le prévoit, le chef d'établissement de l'entreprise utilisatrice peut prendre à sa charge la transmission des résultats des dosimètres opérationnels des travailleurs des entreprises mentionnées aux articles R. 4451-35 et R. 4451-36 intervenant dans son établissement.

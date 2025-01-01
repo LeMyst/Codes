@@ -1,1 +1,1 @@
-Chapitre II : Radiation de la liste des demandeurs d'emploi.
+Chapitre II : Sanctions des demandeurs d'emploi

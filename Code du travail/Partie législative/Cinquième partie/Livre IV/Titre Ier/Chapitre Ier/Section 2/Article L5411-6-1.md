@@ -1,12 +1,16 @@
 # Article L5411-6-1
 
-Un projet personnalisé d'accès à l'emploi est élaboré et actualisé conjointement par le demandeur d'emploi et Pôle emploi ou, lorsqu'une convention passée avec Pôle emploi le prévoit, un organisme participant au service public de l'emploi. Le projet personnalisé d'accès à l'emploi et ses actualisations sont alors transmis pour information à Pôle emploi.
+I.-Si le projet professionnel du demandeur d'emploi comporte la recherche d'une activité salariée et si ce projet est suffisamment établi, le contrat d'engagement définit les éléments constitutifs de l'offre raisonnable d'emploi que le demandeur d'emploi est tenu d'accepter. Lorsque seuls des objectifs d'insertion professionnelle sont fixés à la signature du contrat, la définition de ces éléments fait l'objet d'une actualisation dès que le projet professionnel est suffisamment établi.
 
-Ce projet précise, en tenant compte de la formation du demandeur d'emploi, de ses qualifications, de ses connaissances et compétences acquises au cours de ses expériences professionnelles, de sa situation personnelle et familiale ainsi que de la situation du marché du travail local, la nature et les caractéristiques de l'emploi ou des emplois recherchés, la zone géographique privilégiée et le niveau de salaire attendu. Il intègre, le cas échéant, le projet de reconversion professionnelle mentionné au 2° du II de l'article L. 5422-1 ou les engagements prévus dans le cadre du contrat d'engagement jeune mentionné à l'article L. 5131-6.
+Les éléments constitutifs de l'offre raisonnable d'emploi comprennent la nature et les caractéristiques de l'emploi ou des emplois recherchés, la zone géographique privilégiée et le salaire attendu. Ces éléments peuvent être révisés dans le cadre d'une actualisation du contrat d'engagement, notamment afin d'accroître les perspectives de retour à l'emploi du demandeur d'emploi.
 
-Le projet personnalisé d'accès à l'emploi retrace les actions que Pôle emploi s'engage à mettre en œuvre dans le cadre du service public de l'emploi, notamment en matière d'accompagnement personnalisé et, le cas échéant, de formation et d'aide à la mobilité.
+Conjointement à la définition des éléments constitutifs de l'offre raisonnable d'emploi, le contrat d'engagement précise les actes positifs et répétés de recherche d'emploi que le demandeur d'emploi est tenu de réaliser.
 
-La notification du projet personnalisé d'accès à l'emploi adressée au demandeur d'emploi précise ses droits concernant l'acceptation ou le refus des offres raisonnables d'emploi qui lui sont soumises et, notamment, les voies et délais de recours en cas de sanction par Pôle emploi.
+Si le projet professionnel du demandeur d'emploi comporte la reprise ou la création d'une entreprise, le contrat d'engagement en définit les éléments essentiels et comporte les actes que le demandeur d'emploi est tenu de réaliser.
+
+Le contrat d'engagement intègre, le cas échéant, le projet de reconversion professionnelle mentionné au 2° du II de l'article L. 5422-1.
+
+II.-Le I du présent article ne s'applique pas aux personnes mentionnées au second alinéa du I de l'article L. 5411-5-1.
 
 NOTA:
-Conformément au II de l'article 208 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er mars 2022. Toutefois, les jeunes bénéficiant à cette date de l'allocation mentionnée à l'article L. 5131-6 du code du travail dans sa rédaction antérieure à la présente loi continuent de bénéficier de cette allocation dans les conditions en vigueur à la date à laquelle est contractualisé leur parcours d'engagement.
+Conformément au IV de l’article 2 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.

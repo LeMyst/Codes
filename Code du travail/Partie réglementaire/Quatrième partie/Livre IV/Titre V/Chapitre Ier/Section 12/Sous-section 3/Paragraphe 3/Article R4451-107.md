@@ -12,4 +12,4 @@ II.-Lorsque l'exposition d'un travailleur dépasse le niveau de référence ment
 
 L'employeur informe le comité social et économique du dépassement et du maintien au poste du travailleur.
 
-L'employeur en informe également l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 et, selon le cas, l'Autorité de sûreté nucléaire ou le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense.
+L'employeur en informe également l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 et, selon le cas, l'Autorité de sûreté nucléaire et de radioprotection ou le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense.

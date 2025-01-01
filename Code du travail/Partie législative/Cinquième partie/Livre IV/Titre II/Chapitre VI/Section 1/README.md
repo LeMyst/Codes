@@ -1,1 +1,1 @@
-Section 1 : Agents chargés du contrôle de la recherche d'emploi.
+Section 1 : Contrôle des engagements des demandeurs d'emploi

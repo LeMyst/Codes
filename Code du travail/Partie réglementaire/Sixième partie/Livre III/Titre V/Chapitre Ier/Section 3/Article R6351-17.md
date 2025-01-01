@@ -9,3 +9,5 @@ II.-Les pièces justificatives mentionnées à l'article R. 6351-5 contenant des
 III.-Les données à caractère personnel collectées dans le cadre de la transmission du bilan pédagogique et financier prévue à l'article L. 6352-11 sont conservées pour les nécessités du contrôle prévu à l'article L. 6361-2 du code du travail, pendant une durée de quatre ans.
 
 Les modalités de conservation et de suppression des données sont précisées par arrêté du ministre chargé de la formation professionnelle.
+
+IV.-Par dérogation, les données mentionnées au III sont conservées, pour les nécessités liées à la finalité mentionnée au 8° de l'article R. 6351-14, pendant une durée de douze ans.

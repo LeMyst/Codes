@@ -1,6 +1,6 @@
 # Article R5411-8
 
-Le demandeur d'emploi informe, dans un délai de soixante-douze heures, les services de l'opérateur France Travail de toute absence de sa résidence habituelle d'une durée supérieure à sept jours et de tout changement de domicile.
+Les personnes mentionnées à l'article L. 5411-1 informent l'opérateur France Travail de tout changement de domicile, dans les trente jours de ce changement.
 
 NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément au I de l'article 6 du décret n° 2024-1242 du 30 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025, sous réserve des dispositions des II à V dudit article.

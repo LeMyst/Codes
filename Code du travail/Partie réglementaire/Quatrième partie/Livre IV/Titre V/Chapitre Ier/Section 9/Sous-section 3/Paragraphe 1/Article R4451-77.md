@@ -4,4 +4,4 @@ I.-L'employeur enregistre la date de l'événement significatif, procède à son
 
 II.-L'employeur informe sans délai le comité social et économique en précisant les causes présumées et les mesures envisagées afin de prévenir tout renouvellement de tels événements.
 
-III.-L'employeur déclare chaque événement à, selon le cas, l'Autorité de sûreté nucléaire ou au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense selon les modalités qu'ils ont respectivement fixées.
+III.-L'employeur déclare chaque événement à, selon le cas, l'Autorité de sûreté nucléaire et de radioprotection ou au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense selon les modalités qu'ils ont respectivement fixées.

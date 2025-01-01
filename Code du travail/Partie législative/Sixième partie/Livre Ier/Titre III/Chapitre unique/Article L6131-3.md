@@ -2,7 +2,7 @@
 
 I.-Les contributions mentionnées aux 2° à 4° du I de l'article L. 6131-1 sont recouvrées par les unions pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales et les caisses générales de sécurité sociale mentionnées aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et par les organismes mentionnés à l'article L. 723-1 du code rural et de la pêche maritime selon les règles et sous les garanties et sanctions applicables en matière de cotisations et de contributions de sécurité sociale.
 
-Pour le recouvrement de ces contributions, l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale perçoit des frais de gestion ainsi qu'un taux forfaitaire fixé, au regard du risque de non-recouvrement, selon les modalités prévues au 5° du même article. L'organisme mentionné à l'article L. 723-11 du code rural et de la pêche maritime perçoit, pour sa part, des frais de gestion selon les modalités déterminées par une convention conclue entre cet organisme et l'institution mentionnée à l'article L. 6123-5 du présent code, et approuvée par les ministres chargés de la sécurité sociale et de l'agriculture.
+Pour le recouvrement de ces contributions, l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale perçoit des frais de gestion ainsi qu'un taux forfaitaire fixé, au regard du risque de non-recouvrement, selon les modalités prévues au 5° du même article. L'organisme mentionné à l'article L. 723-11 du code rural et de la pêche maritime perçoit des frais de gestion selon les modalités déterminées par une convention conclue entre cet organisme et l'institution mentionnée à l'article L. 6123-5 du présent code, et approuvée par les ministres chargés de la sécurité sociale et de l'agriculture, ainsi qu'un taux forfaitaire fixé, au regard du risque de non-recouvrement, selon les modalités prévues au III de l'article L. 725-3 du code rural et de la pêche maritime.
 
 II.-Un accord conclu en application du I de l'article L. 6332-1-2 peut donner mandat à des organisations syndicales de salariés et à des organisations professionnelles d'employeurs représentatives au niveau de la branche de conclure une convention avec les organismes mentionnés au second alinéa du I du présent article, afin de confier aux organismes mentionnés au premier alinéa du même I le recouvrement de la contribution mentionnée au 5° du I de l'article L. 6131-1. Cette contribution est alors versée à l'institution mentionnée à l'article L. 6123-5, qui en assure la répartition entre les opérateurs de compétences.
 
@@ -33,6 +33,4 @@ d) Recouvrée à compter du début de l'année civile suivant une période d'au 
 Le modèle de la convention prévue au premier alinéa du présent II est fixé par arrêté conjoint des ministres chargés de la sécurité sociale et du travail.
 
 NOTA:
-Conformément au I de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, le II entre en vigueur le 1er janvier 2024 pour les contributions dues à compter de cette date.
-
 Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

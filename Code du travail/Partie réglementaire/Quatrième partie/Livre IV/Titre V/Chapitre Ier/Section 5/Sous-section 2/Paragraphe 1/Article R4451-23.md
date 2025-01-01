@@ -1,6 +1,6 @@
 # Article R4451-23
 
-I.-Ces zones sont désignées :
+I.-Les zones mentionnées à l'article R. 4451-22 sont désignées :
 
 1° Au titre de la dose efficace :
 
@@ -14,12 +14,12 @@ d) " Zone contrôlée orange ", lorsqu'elle est inférieure à 100 millisieverts
 
 e) " Zone contrôlée rouge ", lorsqu'elle est égale ou supérieure à 100 millisieverts intégrée sur une heure ;
 
-2° Les modalités de délimitation des zones contrôlées orange ou rouge pour les équipements de travail émettant des rayonnements ionisants à champs pulsé sont précisées par voie d'arrêté du ministre chargé du travail ;
+2° Au titre de la dose équivalente pour les extrémités et la peau, " zone d'extrémités " ;
 
-3° Au titre de la dose équivalente pour les extrémités et la peau, " zone d'extrémités " ;
-
-4° Au titre de la concentration d'activité dans l'air du radon, " zone radon ".
+3° Au titre de la concentration d'activité dans l'air du radon, " zone radon ".
 
 II.-La délimitation des zones définies au I est consignée dans le document unique d'évaluation des risques prévu à l'article R. 4121-1.
 
-III.-Dans des conditions techniques définies par arrêté, les zones mentionnées au I peuvent être intermittentes lorsque l'émission de rayonnements ionisants n'est pas continue ou lorsque la concentration d'activité du radon dans l'air peut être réduite, pendant la durée de l'intervention, sous le niveau de référence fixé à l'article R. 4451-10.
+III.-Dans des conditions techniques définies par arrêté, les zones mentionnées au I peuvent être intermittentes lorsque l'émission de rayonnements ionisants n'est pas continue ou lorsque la concentration d'activité du radon peut être réduite, pendant la durée de présence des travailleurs dans la zone concernée, sous la valeur de 300 becquerels par mètre cube en continu.
+
+IV.-En cas de découverte de sources radioactives orphelines mentionnées à l'article R. 1333-101 du code de la santé publique ou de pollutions par des substances radioactives mentionnées au II de l'article R. 1333-90 du même code nécessitant une opération d'assainissement hors installation nucléaire de base, l'employeur délimite une “ zone de sécurité radiologique ” telle qu'à sa périphérie le débit d'équivalent de dose demeure inférieur à 0,5 microsievert par heure.

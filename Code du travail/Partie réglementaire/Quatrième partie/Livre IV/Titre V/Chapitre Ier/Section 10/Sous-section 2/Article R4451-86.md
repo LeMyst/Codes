@@ -6,13 +6,18 @@ II.-L'agrément complémentaire est délivré par l'autorité administrative pou
 
 Il peut être demandé en même temps que l'agrément prévu à l'article L. 4622-6-1 du présent code, pendant sa période de validité ou lors de son renouvellement.
 
-Il est délivré lorsque le service remplit les conditions fixées par un cahier des charges national établi par arrêté conjoint des ministres chargés du travail et de l'agriculture prévoyant notamment que le nombre de médecins du travail et de professionnels de santé au travail mentionnés au premier alinéa du I de l'article L. 4624-1 du présent code ayant bénéficié de la formation prévue à l'article R. 4451-85 du présent code requis pour assurer le suivi des travailleurs mentionnés au I.
+Il est délivré lorsque le service remplit les conditions fixées par un cahier des charges national prévoyant notamment que le nombre de professionnels de santé au travail mentionnés au premier alinéa du I de l'article L. 4624-1 du présent code, en particulier les médecins du travail, ayant bénéficié de la formation prévue à l'article R. 4451-85 du présent code requis est suffisant pour assurer le suivi des travailleurs mentionnés au I.
 
-III.-L'abrogation de l'agrément prévu à l'article L. 4622-6-1 du présent code entraîne celle de l'agrément complémentaire.
+III.-Le silence gardé pendant plus de quatre mois sur une demande d'agrément complémentaire ou de renouvellement d'agrément complémentaire vaut délivrance ou renouvellement de cet agrément.
+
+Le silence gardé pendant plus de quatre mois par le ministre chargé du travail saisi d'un recours hiérarchique sur une décision de refus d'agrément complémentaire vaut rejet de la demande de recours.
+
+IV.-L'abrogation de l'agrément prévu à l'article L. 4622-6-1 du présent code entraîne celle de l'agrément complémentaire.
 
 Lorsque l'autorité administrative constate des manquements aux conditions mentionnées au II, elle peut diminuer la durée de l'agrément complémentaire ou y mettre fin.
 
-NOTA:
-Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1er janvier 2024.
+V.-Un arrêté conjoint des ministres chargés du travail et de l'agriculture établit :
 
-Se reporter aux conditions d’application prévues au III du même article.
+1° Le cahier des charges national mentionné au II ;
+
+2° Les modalités de délivrance, de suspension, de retrait et de renouvellement de l'agrément complémentaire.

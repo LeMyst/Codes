@@ -2,19 +2,16 @@
 
 La proportion dans laquelle les sommes dues à titre de rémunération sont saisissables ou cessibles, en application de l'article L. 3252-2, est fixée comme suit :
 
-1° Le vingtième, sur la tranche inférieure ou égale à 4 370 € ;
+1° Le vingtième, sur la tranche inférieure ou égale à 4 440 € ;
 
-2° Le dixième, sur la tranche supérieure à 4 370 € et inférieure ou égale à 8 520 € ;
+2° Le dixième, sur la tranche supérieure à 4 440 € et inférieure ou égale à 8 660 € ;
 
-3° Le cinquième, sur la tranche supérieure à 8 520 € et inférieure ou égale à 12 690 € ;
+3° Le cinquième, sur la tranche supérieure à 8 660 € et inférieure ou égale à 12 890 € ;
 
-4° Le quart, sur la tranche supérieure à 12 690 € et inférieure ou égale à 16 820 € ;
+4° Le quart, sur la tranche supérieure à 12 890 € et inférieure ou égale à 17 090 € ;
 
-5° Le tiers, sur la tranche supérieure à 16 820 € et inférieure ou égale à 20 970 € ;
+5° Le tiers, sur la tranche supérieure à 17 090 € et inférieure ou égale à 21 300 € ;
 
-6° Les deux tiers, sur la tranche supérieure à 20 970 € et inférieure ou égale à 25 200 € ;
+6° Les deux tiers, sur la tranche supérieure à 21 300 € et inférieure ou égale à 25 600 € ;
 
-7° La totalité, sur la tranche supérieure à 25 200 € .
-
-NOTA:
-Conformément à l’article 3 du décret n° 2023-1228 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+7° La totalité, sur la tranche supérieure à 25 600 € .

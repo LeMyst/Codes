@@ -6,7 +6,7 @@ I.-Peut prétendre à l'agrément " entreprise solidaire d'utilité sociale " l'
 
 a) Elle exerce son activité en faveur de personnes fragilisées du fait de leur situation économique ou sociale au sens du 1° de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire ;
 
-b) Elle poursuit un objectif défini aux 2°, 3° ou 4° de l'article 2 de la loi n° 2014-856 précitée ;
+b) Elle poursuit un objectif défini aux 2°, 3°, 4° ou 5° de l'article 2 de la loi n° 2014-856 précitée ;
 
 2° La charge induite par ses activités d'utilité sociale a un impact significatif sur son compte de résultat ;
 
@@ -54,17 +54,11 @@ II.-Bénéficient de plein droit de l'agrément mentionné au I, sous réserve d
 
 16° Les personnes morales ayant conclu une convention mentionnée au deuxième alinéa de l'article L. 281-2-1 dudit code et dont la mission principale est d'assurer le projet de vie sociale et partagée.
 
-III.-Sont assimilés aux entreprises solidaires d'utilité sociale agréées en application du présent article :
+III.-Sont assimilés aux entreprises solidaires d'utilité sociale agréées en application du présent article les placements collectifs dont l'actif est composé pour au moins 50 % de titres émis par des entreprises solidaires d'utilité sociale définies au présent article ou par des entreprises qui leur sont assimilées sur le fondement du droit européen.
 
-1° Les organismes de financement dont l'actif est composé pour au moins 35 % de titres émis par des entreprises de l'économie sociale et solidaire définies à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 précitée dont au moins cinq septièmes de titres émis par des entreprises solidaires d'utilité sociale définies au présent article ;
-
-2° Les établissements de crédit dont au moins 80 % de l'ensemble des prêts et des investissements sont effectués en faveur des entreprises solidaires d'utilité sociale.
-
-IV.-Les entreprises solidaires d'utilité sociale sont agréées par l'autorité compétente.
+IV.-Les entreprises solidaires d'utilité sociale ou celles qui sont déclarées assimilées à celles-ci sont agréées par l'autorité compétente.
 
 V.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 NOTA:
-Conformément au III de l’article 105 de la loi n° 2019-486 du 22 mai 2019, les entreprises bénéficiant, à la date de publication de la présente loi, de l'agrément prévu à l'article L. 3332-17-1 du code du travail, dans sa rédaction antérieure à la présente loi, continuent d'en bénéficier jusqu'à son terme.
-
-Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter du 1er janvier 2020.
+Conformément au B du V de l'article 3 de la loi n° 2024-537 du 13 juin 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

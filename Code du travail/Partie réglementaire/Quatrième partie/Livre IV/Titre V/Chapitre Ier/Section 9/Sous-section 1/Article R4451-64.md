@@ -1,5 +1,9 @@
 # Article R4451-64
 
-I.-L'employeur met en œuvre une surveillance dosimétrique individuelle appropriée, lorsque le travailleur est classé au sens de l'article R. 4451-57 ou que la dose efficace évaluée en application du 5° de l'article R. 4451-53 est susceptible de dépasser 6 millisieverts.
+L'employeur met en œuvre une surveillance dosimétrique individuelle appropriée, lorsque le travailleur est :
 
-II.-Pour tous les autres travailleurs accédant à des zones délimitées au titre de l'article R. 4451-24, l'employeur s'assure par des moyens appropriés que leur exposition demeure inférieure aux niveaux de dose retenus pour le classement des travailleurs prévu au 2° de l'article R. 4451-57.
+1° Classé au sens de l'article R. 4451-57 ;
+
+2° Exposé à une dose efficace liée au radon provenant du sol susceptible de dépasser 6 millisieverts ;
+
+3° Affecté dans un des deux groupes mentionnés à l'article R. 4451-99.

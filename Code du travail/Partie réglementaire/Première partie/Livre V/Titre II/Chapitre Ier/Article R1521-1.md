@@ -26,6 +26,6 @@ Pour l'application du présent code à Mayotte et en l'absence de mention partic
 
 12° Les documents dont le présent code prévoit la transmission par lettre recommandée peuvent toujours être remis en main propre contre décharge ou par tout autre moyen donnant date certaine à sa réception ;
 
-13° Les dispositions du présent code qui prévoient la transmission ou la réception de documents, l'organisation de réunions et de scrutins, ou l'accomplissement de tout autre formalité par voie électronique par le public ou les salariés, sont remplacées par des dispositions permettant la transmission ou la réception de ces documents, l'organisation de ces réunions et de ces scrutins, ou l'accomplissement de ces formalités par toute voie utile ;
+13° (Abrogé) ;
 
 14° à 18° (Abrogés).

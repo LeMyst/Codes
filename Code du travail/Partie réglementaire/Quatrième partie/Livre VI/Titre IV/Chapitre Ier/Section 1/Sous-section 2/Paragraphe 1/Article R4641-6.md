@@ -50,7 +50,7 @@ f) Le directeur de la santé et de la sécurité au travail de la Caisse central
 
 g) Le directeur de l'Organisme professionnel de prévention du bâtiment et des travaux publics ou son représentant ;
 
-h) Le directeur de l'Institut de radioprotection et de sûreté nucléaire ou son représentant ;
+h) Le président de l'Autorité de sûreté nucléaire et de radioprotection ou son représentant ;
 
 4° Au titre du collège des personnalités qualifiées et des représentants d'associations ou des organisations professionnelles de prévention, quinze représentants :
 

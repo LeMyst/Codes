@@ -24,6 +24,10 @@ III.-Dans le cadre des finalités définies à l'article R. 6323-33 et dans la l
 
 3° La mise à disposition des services prévus au titre du compte personnel d'activité ;
 
-4° La mise à disposition de services permettant d'accompagner le titulaire du compte personnel de formation dans la construction de son parcours professionnel.
+4° La mise à disposition de services permettant d'accompagner le titulaire du compte personnel de formation dans la construction de son parcours professionnel ;
+
+5° La vérification des conditions d'éligibilité du prestataire mentionné à l'article L. 6351-1 pour être référencé sur le service dématérialisé en application de l'article L. 6323-9-1 ;
+
+6° La gestion des conditions générales d'utilisation du service dématérialisé mentionné à l'article L. 6323-9, le contrôle de leur respect ainsi que la mise en œuvre et le suivi des mesures visant à prévenir et sanctionner les manquements à ces conditions générales d'utilisation.
 
 La liste de ces traitements automatisés est fixée par arrêté du ministre chargé de la formation professionnelle et du ministre chargé des collectivités territoriales.

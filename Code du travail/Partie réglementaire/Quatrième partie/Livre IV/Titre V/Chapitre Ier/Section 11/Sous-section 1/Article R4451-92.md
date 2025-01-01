@@ -20,4 +20,4 @@ La demande d'autorisation comprend :
 
 9° L'avis du médecin du travail et l'avis du comité social et économique.
 
-L'employeur en informe, selon le cas, l'Autorité de sûreté nucléaire ou le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense.
+L'employeur en informe, selon le cas, l'Autorité de sûreté nucléaire et de radioprotection ou le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense.

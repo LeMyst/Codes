@@ -12,7 +12,7 @@ I.-Dans la mesure où leur exploitation est nécessaire à la poursuite des fina
 
 5° Données relatives aux mandats électifs exercés par le titulaire de droits individuels à la formation des élus locaux ;
 
-6° Données relatives aux prestataires mentionnés à l'article L. 6351-1 du présent code et aux organismes mentionnés à l'article L. 1221-3 du code général des collectivités territoriales ;
+6° (Supprimé) ;
 
 7° Données de connexion relatives aux personnes concernées.
 

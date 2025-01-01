@@ -6,7 +6,7 @@ La base de données est accessible en permanence aux membres de la délégation 
 
 Les informations contenues dans la base de données portent sur les thèmes suivants :
 
-1° Investissements : investissement social (emploi, évolution et répartition des contrats précaires, des stages et des emplois à temps partiel, formation professionnelle, évolution professionnelle et conditions de travail), investissement matériel et immatériel et, pour les sociétés mentionnées aux I et II de l'article L. 225-102-1 du code du commerce, les informations en matière environnementale présentées en application du III du même article ;
+1° Investissements : investissement social (emploi, évolution et répartition des contrats précaires, des stages et des emplois à temps partiel, formation professionnelle, évolution professionnelle et conditions de travail), investissement matériel et immatériel ;
 
 2° Egalité professionnelle entre les femmes et les hommes au sein de l'entreprise : diagnostic et analyse de la situation comparée des femmes et des hommes pour chacune des catégories professionnelles de l'entreprise en matière d'embauche, de formation, de promotion professionnelle, de qualification, de classification, de conditions de travail, de sécurité et de santé au travail, de rémunération effective et d'articulation entre l'activité professionnelle et la vie personnelle et familiale, analyse des écarts de salaires et de déroulement de carrière en fonction de l'âge, de la qualification et de l'ancienneté, évolution des taux de promotion respectifs des femmes et des hommes par métiers dans l'entreprise, part des femmes et des hommes dans le conseil d'administration ;
 
@@ -31,3 +31,6 @@ Ces informations portent sur les deux années précédentes et l'année en cours
 Le contenu de ces informations ainsi que les modalités de fonctionnement de la base sont déterminés par un décret en Conseil d'Etat, le contenu pouvant varier selon que l'effectif de l'entreprise est inférieur ou au moins égal à trois cents salariés.
 
 Les membres de la délégation du personnel du comité social et économique, du comité social et économique central d'entreprise et les délégués syndicaux sont tenus à une obligation de discrétion à l'égard des informations contenues dans la base de données revêtant un caractère confidentiel et présentées comme telles par l'employeur.
+
+NOTA:
+Conformément au I de l’article 33 de l’ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

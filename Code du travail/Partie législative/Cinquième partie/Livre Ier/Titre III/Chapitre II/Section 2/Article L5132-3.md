@@ -16,5 +16,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 5° Les conditions dans lesquelles peut être limitée, suspendue ou retirée à une structure d'insertion par l'activité économique la capacité de prescrire un parcours d'insertion en cas de non-respect des règles prévues au présent article.
 
+Lorsque la personne bénéficie d'un parcours d'insertion prescrit dans les conditions prévues au présent chapitre, le contrat d'engagement prévu aux I et II de l'article L. 5411-6 tient compte des actions dont le demandeur d'emploi bénéficie dans ce cadre.
+
 NOTA:
-Conformément à l’article 1er, III de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard six mois après la publication de la présente loi.
+Conformément au IV de l’article 2 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.

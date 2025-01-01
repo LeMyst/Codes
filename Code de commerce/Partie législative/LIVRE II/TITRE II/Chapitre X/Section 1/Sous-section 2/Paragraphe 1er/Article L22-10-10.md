@@ -4,7 +4,7 @@ Dans les sociétés dont les titres sont admis aux négociations sur un marché 
 
 1° La composition, ainsi que les conditions de préparation et d'organisation des travaux du conseil ;
 
-2° Lorsque le total de bilan, le chiffre d'affaires ou le nombre de salariés excèdent des seuils fixés par décret en Conseil d'Etat, une description de la politique de diversité appliquée aux membres du conseil d'administration au regard de critères tels que l'âge, le sexe ou les qualifications et l'expérience professionnelle, ainsi qu'une description des objectifs de cette politique, de ses modalités de mise en œuvre et des résultats obtenus au cours de l'exercice écoulé. Cette description est complétée par des informations sur la manière dont la société recherche une représentation équilibrée des femmes et des hommes au sein du comité mis en place, le cas échéant, par la direction générale en vue de l'assister régulièrement dans l'exercice de ses missions générales et sur les résultats en matière de mixité dans les 10 % de postes à plus forte responsabilité. Si la société n'applique pas une telle politique, le rapport comprend une explication des raisons le justifiant ;
+2° Lorsque la société est une grande entreprise, au sens de l'article L. 230-1, une description de la politique de diversité appliquée aux membres du conseil d'administration en ce qui concerne le genre et d'autres aspects tels que l'âge, le handicap ou les qualifications et l'expérience professionnelle, ainsi qu'une description des objectifs de cette politique, de ses modalités de mise en œuvre et des résultats obtenus au cours de l'exercice écoulé. Si la société n'applique pas une telle politique, le rapport comprend une explication des raisons le justifiant ;
 
 3° Les éventuelles limitations que le conseil d'administration apporte aux pouvoirs du directeur général ;
 
@@ -12,7 +12,11 @@ Dans les sociétés dont les titres sont admis aux négociations sur un marché 
 
 5° Les modalités particulières de la participation des actionnaires à l'assemblée générale ou les dispositions des statuts qui prévoient ces modalités ;
 
-6° La description de la procédure mise en place par la société en application de l'article L. 22-10-12 et de sa mise en œuvre.
+6° La description de la procédure mise en place par la société en application de l'article L. 22-10-12 et de sa mise en œuvre ;
+
+7° La description des principales caractéristiques des systèmes de contrôle interne et de gestion des risques de l'entreprise dans le cadre du processus d'établissement de l'information financière.
+
+Le rapport sur le gouvernement d'entreprise peut renvoyer, le cas échéant, aux informations en matière de durabilité prévues aux articles L. 232-6-3 et L. 233-28-4, afin de satisfaire à l'obligation prévue au 2°.
 
 NOTA:
-Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

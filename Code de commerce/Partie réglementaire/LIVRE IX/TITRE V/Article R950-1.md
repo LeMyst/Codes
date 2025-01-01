@@ -801,7 +801,7 @@ h) Les dispositions du titre VIII bis mentionnées dans la colonne de gauche du 
 | --- | --- |
 | R. 681-1 à R. 681-7 | Décret n° 2022-890 du 14 juin 2022 |
 
-7° Le titre II du livre VII, à l'exception des articles R. 721-2 à R. 721-4 et R. 721-7 à R. 724-21 ;
+7° Le titre II du livre VII, à l'exception des articles R. 721-2 à R. 721-4 et R. 721-7 à R. 724-22 ;
 
 L'article R. 721-6 est applicable dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre 2019 ;
 

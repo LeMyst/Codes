@@ -4,9 +4,5 @@ Le rapport de gestion mentionné au deuxième alinéa de l'article L. 225-100 pr
 
 Les titres acquis par les salariés dans le cadre d'une opération de rachat d'une entreprise par ses salariés prévue par la loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économique ainsi que par les salariés d'une société coopérative de production au sens de la loi n° 78-763 du 19 juillet 1978 portant statut de sociétés coopératives de production ne sont pas pris en compte pour l'évaluation de la proportion du capital prévue à l'alinéa précédent.
 
-Lorsque le rapport annuel ne comprend pas les mentions prévues au premier alinéa, toute personne intéressée peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au conseil d'administration ou au directoire, selon le cas, de communiquer ces informations.
-
-Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs ou des membres du directoire, selon le cas.
-
 NOTA:
-Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.
+Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

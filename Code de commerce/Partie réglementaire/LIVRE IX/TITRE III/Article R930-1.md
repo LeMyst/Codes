@@ -14,9 +14,6 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exception des articles R. 600-1, R. 600-2, R. 600-4 à R. 611-50, R. 621-1 à R. 663-40, R. 663-42 à R. 663-44, des deux premiers alinéas de l'article R. 663-45, des articles R. 663-47, R. 663-48 et R. 670-1 à R. 670-7 ;
 
-7° Le titre II du livre VII dans sa rédaction issue du décret n° 2021-144 du 11 février 2021, à l'exception des articles R. 721-7 à R. 722-6, R. 722-8, R. 722-9, R. 722-11 à R. 722-17, R. 723-4, R. 723-9 à R. 723-31 ;
+7° Le titre II du livre VII dans sa rédaction issue du décret n° 2024-1224 du 30 décembre 2024, à l'exception des articles R. 721-7 à R. 722-6, R. 722-8, R. 722-9, R. 722-11 à R. 722-17, R. 723-4, R. 723-9 à R. 723-31 ;
 
 8° Le titre II du livre VIII, à l'exception des articles R. 822-149 à R. 822-162, dans sa rédaction en vigueur le lendemain de la publication du décret n° 2013-192 du 5 mars 2013. L'article R. 823-7-1 est applicable dans sa rédaction en vigueur le lendemain de la publication du décret n° 2009-234 du 25 février 2009.
-
-NOTA:
-Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

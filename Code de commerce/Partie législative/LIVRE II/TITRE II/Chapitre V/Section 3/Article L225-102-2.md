@@ -1,12 +1,14 @@
 # Article L225-102-2
 
-Pour les sociétés exploitant au moins une installation figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement, le rapport mentionné au deuxième alinéa de l'article L. 225-100 du présent code :
+Dans les conditions prévues aux articles 1240 et 1241 du code civil, le manquement aux obligations définies à l'article L. 225-102-1 du présent code engage la responsabilité de son auteur et l'oblige à réparer le préjudice que l'exécution de ces obligations aurait permis d'éviter.
 
--informe de la politique de prévention du risque d'accident technologique menée par la société ;
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.]
 
--rend compte de la capacité de la société à couvrir sa responsabilité civile vis-à-vis des biens et des personnes du fait de l'exploitation de telles installations ;
+L'action en responsabilité est introduite devant la juridiction compétente par toute personne justifiant d'un intérêt à agir à cette fin.
 
--précise les moyens prévus par la société pour assurer la gestion de l'indemnisation des victimes en cas d'accident technologique engageant sa responsabilité.
+La juridiction peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de celle-ci, selon les modalités qu'elle précise. Les frais sont supportés par la personne condamnée.
+
+La juridiction peut ordonner l'exécution de sa décision sous astreinte.
 
 NOTA:
-Conformément à l'article 16 de l'ordonnance n° 2017-1162 du 12 juillet 2017, ces dispositions sont applicables aux rapports afférents aux exercices ouverts à compter du 1er janvier 2017.
+Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

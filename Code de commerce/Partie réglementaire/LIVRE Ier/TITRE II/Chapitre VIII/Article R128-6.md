@@ -22,9 +22,10 @@ h) Les agents des organismes nationaux et locaux de sécurité sociale mentionn�
 
 i) Les agents de l'opérateur France Travail, individuellement désignés et spécialement habilités par le directeur général ;
 
-j) Les fonctionnaires et agents mentionnés à l'article L. 222-9 du code de l'énergie.
+j) Les fonctionnaires et agents mentionnés à l'article L. 222-9 du code de l'énergie ;
+
+k) Les agents de la Caisse des dépôts et consignations, individuellement désignés et spécialement habilités par le directeur général ;
+
+l) Les agents mentionnés à l'article L. 6361-5 du code du travail, individuellement désignés et spécialement habilités à cet effet.
 
 2° En application du 4° du même article : les personnels des chambres de métiers et de l'artisanat départementales et de région, de la chambre de métiers et de l'artisanat de Mayotte et des chambres de métiers d'Alsace et de Moselle, individuellement désignés et spécialement habilités par le président de la chambre de métiers et de l'artisanat dont ils relèvent.
-
-NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.

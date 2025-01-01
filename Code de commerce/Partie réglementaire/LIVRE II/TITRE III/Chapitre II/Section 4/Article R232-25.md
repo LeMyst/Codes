@@ -1,0 +1,3 @@
+# Article R232-25
+
+Le rapport relatif aux enjeux de durabilité prévu aux articles L. 232-6-4 et L. 233-28-5 et au III des articles R. 232-8-5 et R. 233-16-4, ainsi que le rapport contenant l'avis sur la conformité de ces informations ou la déclaration indiquant son absence, le cas échéant traduits en langue française et certifiés conformes, sont déposés au greffe du tribunal de commerce, par l'intermédiaire de l'organisme mentionné au deuxième alinéa de l'article L. 123-33, pour être annexés au registre du commerce et des sociétés, dans un délai de douze mois à compter de la clôture de l'exercice.

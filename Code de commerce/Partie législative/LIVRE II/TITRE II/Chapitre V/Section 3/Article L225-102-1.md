@@ -1,23 +1,36 @@
 # Article L225-102-1
 
-I. – Une déclaration de performance extra-financière est insérée dans le rapport de gestion prévu au deuxième alinéa de l'article L. 225-100, lorsque le total du bilan ou le chiffre d'affaires et le nombre de salariés excèdent des seuils fixés par décret en Conseil d'Etat.
+I.-Toute société qui emploie, à la clôture de deux exercices consécutifs, au moins cinq mille salariés en son sein et dans ses filiales directes ou indirectes dont le siège social est fixé sur le territoire français, ou au moins dix mille salariés en son sein et dans ses filiales directes ou indirectes dont le siège social est fixé sur le territoire français ou à l'étranger, établit et met en œuvre de manière effective un plan de vigilance.
 
-II. – Les sociétés mentionnées au I qui établissent des comptes consolidés conformément à l'article L. 233-16 sont tenues de publier une déclaration consolidée de performance extra-financière lorsque le total du bilan ou du chiffre d'affaires et le nombre de salariés de l'ensemble des entreprises comprises dans le périmètre de consolidation excèdent les seuils mentionnés au I.
+Les filiales ou sociétés contrôlées qui dépassent les seuils mentionnés au premier alinéa sont réputées satisfaire aux obligations prévues au présent article dès lors que la société qui les contrôle, au sens de l'article L. 233-3, établit et met en œuvre un plan de vigilance relatif à l'activité de la société et de l'ensemble des filiales ou sociétés qu'elle contrôle.
 
-III. – Dans la mesure nécessaire à la compréhension de la situation de la société, de l'évolution de ses affaires, de ses résultats économiques et financiers et des incidences de son activité, la déclaration mentionnée aux I et II présente des informations sur la manière dont la société prend en compte les conséquences sociales et environnementales de son activité. La déclaration peut renvoyer, le cas échéant, aux informations mentionnées dans le plan de vigilance prévu au I de l'article L. 225-102-4.
+Le plan comporte les mesures de vigilance raisonnable propres à identifier les risques et à prévenir les atteintes graves envers les droits humains et les libertés fondamentales, la santé et la sécurité des personnes ainsi que l'environnement, résultant des activités de la société et de celles des sociétés qu'elle contrôle au sens du II de l'article L. 233-16, directement ou indirectement, ainsi que des activités des sous-traitants ou fournisseurs avec lesquels est entretenue une relation commerciale établie, lorsque ces activités sont rattachées à cette relation.
 
-La déclaration comprend notamment des informations relatives aux conséquences sur le changement climatique de l'activité de la société et de l'usage des biens et services qu'elle produit, à ses engagements sociétaux en faveur du développement durable, de l'économie circulaire, de la lutte contre le gaspillage alimentaire, de la lutte contre la précarité alimentaire, du respect du bien-être animal et d'une alimentation responsable, équitable et durable, aux accords collectifs conclus dans l'entreprise et à leurs impacts sur la performance économique de l'entreprise ainsi que sur les conditions de travail des salariés, aux actions visant à lutter contre les discriminations et promouvoir les diversités, aux actions visant à promouvoir le lien Nation-armée et à soutenir l'engagement dans les réserves, aux actions visant à promouvoir la pratique d'activités physiques et sportives et aux mesures prises en faveur des personnes handicapées. Les informations relatives aux conséquences sur le changement climatique mentionnées à la première phrase du présent alinéa comprennent les postes d'émissions directes et indirectes de gaz à effet de serre liées aux activités de transport amont et aval de l'activité et sont accompagnées d'un plan d'action visant à réduire ces émissions, notamment par le recours aux modes ferroviaire et fluvial ainsi qu'aux biocarburants dont le bilan énergétique et carbone est vertueux et à l'électromobilité.
+Pour les sociétés produisant ou commercialisant des produits issus de l'exploitation agricole ou forestière, ce plan comporte en particulier des mesures de vigilance raisonnable propres à identifier les risques et à prévenir la déforestation associée à la production et au transport vers la France de biens et de services importés.
 
-Lorsque la société établit une déclaration consolidée de performance extra-financière conformément au II, ces informations portent sur l'ensemble des entreprises incluses dans le périmètre de consolidation conformément à l'article L. 233-16.
+Un arrêté définit les catégories d'entreprises mentionnées au quatrième alinéa du présent I.
 
-Ces informations font l'objet d'une publication librement accessible sur le site internet de la société.
+Le plan a vocation à être élaboré en association avec les parties prenantes de la société, le cas échéant dans le cadre d'initiatives pluripartites au sein de filières ou à l'échelle territoriale. Il comprend les mesures suivantes :
 
-Un décret en Conseil d'Etat précise les modalités de présentation et de publication de ces informations, selon que la société relève du I du présent article ou du I de l'article L. 22-10-36.
+1° Une cartographie des risques destinée à leur identification, leur analyse et leur hiérarchisation ;
 
-IV. – Les sociétés définies au I ou au II et à l'article L. 22-10-36, qui sont sous le contrôle d'une société qui les inclut dans ses comptes consolidés conformément à l'article L. 233-16 ne sont pas tenues de publier de déclaration sur la performance extra-financière si la société qui les contrôle est établie en France et publie une déclaration consolidée sur la performance extra-financière conformément au II du présent article ou si la société qui les contrôle est établie dans un autre Etat membre de l'Union européenne et publie une telle déclaration en application de la législation dont elle relève.
+2° Des procédures d'évaluation régulière de la situation des filiales, des sous-traitants ou fournisseurs avec lesquels est entretenue une relation commerciale établie, au regard de la cartographie des risques ;
 
-V. – Pour les sociétés dont le total du bilan ou le chiffre d'affaires et le nombre de salariés excèdent des seuils fixés par décret en Conseil d'Etat, le cas échéant sur une base consolidée, les informations figurant dans les déclarations mentionnées au I et au II font l'objet d'une vérification par un organisme tiers indépendant, selon des modalités fixées par décret en Conseil d'Etat. Cette vérification donne lieu à un avis qui est transmis aux actionnaires en même temps que le rapport mentionné au deuxième alinéa de l'article L. 225-100.
+3° Des actions adaptées d'atténuation des risques ou de prévention des atteintes graves ;
 
-VI. – Les sociétés qui s'acquittent de l'obligation énoncée au présent article sont réputées avoir satisfait à l'obligation prévue au 2° du I de l'article L. 225-100-1, pour ce qui concerne les indicateurs de performance de nature non financière.
+4° Un mécanisme d'alerte et de recueil des signalements relatifs à l'existence ou à la réalisation des risques, établi en concertation avec les organisations syndicales représentatives dans ladite société ;
 
-Lorsque le rapport prévu au deuxième alinéa de l'article L. 225-100 ne comporte pas la déclaration prévue au I ou au II du présent article, toute personne intéressée peut demander au président du tribunal statuant en référé d'enjoindre, le cas échéant sous astreinte, au conseil d'administration ou au directoire, selon le cas, de communiquer les informations mentionnées au III ou à l'article L. 22-10-36. Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge, individuellement ou solidairement selon le cas, des administrateurs ou des membres du directoire.
+5° Un dispositif de suivi des mesures mises en œuvre et d'évaluation de leur efficacité.
+
+Le plan de vigilance et le compte rendu de sa mise en œuvre effective sont rendus publics et inclus dans le rapport de gestion mentionné au deuxième alinéa de l'article L. 225-100. Ils peuvent renvoyer, le cas échéant, aux informations en matière de durabilité prévues aux articles L. 232-6-3 et L. 233-28-4
+
+Un décret en Conseil d'Etat peut compléter les mesures de vigilance prévues aux 1° à 5° du présent article. Il peut préciser les modalités d'élaboration et de mise en œuvre du plan de vigilance, le cas échéant dans le cadre d'initiatives pluripartites au sein de filières ou à l'échelle territoriale.
+
+II.-Lorsqu'une société mise en demeure de respecter les obligations prévues au I n'y satisfait pas dans un délai de trois mois à compter de la mise en demeure, la juridiction compétente peut, à la demande de toute personne justifiant d'un intérêt à agir, lui enjoindre, le cas échéant sous astreinte, de les respecter.
+
+Le président du tribunal, statuant en référé, peut être saisi aux mêmes fins.
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2017-750 DC du 23 mars 2017.]
+
+NOTA:
+Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

@@ -1,7 +1,14 @@
 # Article L22-10-36
 
-Les dispositions de l'article L. 225-102-1, relatives à la déclaration de performance extra-financière et à la déclaration consolidée de performance extra-financière, sont applicables aux sociétés dont les titres sont admis aux négociations sur un marché réglementé lorsque le total du bilan ou le chiffre d'affaires et le nombre de salariés excèdent des seuils fixés par décret en Conseil d'Etat.
+I. - L'article L. 232-6-3 est applicable aux sociétés dont les titres sont admis aux négociations sur un marché réglementé qui sont des petites ou des moyennes entreprises, au sens de l'article L. 230-1.
 
-Pour ces sociétés, en complément des informations mentionnées au III de l'article L. 225-102-1, la déclaration de performance extra-financière et la déclaration consolidée de performance extra-financière présentent les effets de leur activité quant au respect des droits de l'homme et à la lutte contre la corruption et l'évasion fiscale.
+Un décret en Conseil d'Etat adapte à la taille de ces sociétés les informations qu'elles fournissent en matière de durabilité.
 
-Lorsque le rapport prévu au deuxième alinéa de l'article L. 225-100 ne comporte pas la déclaration prévue au I ou au II de l'article L. 225-102-1, toute personne intéressée peut demander au président du tribunal statuant en référé d'enjoindre, le cas échéant sous astreinte, au conseil d'administration ou au directoire, selon le cas, de communiquer les informations mentionnées au III de l'article L. 225-102-1 et au deuxième alinéa du présent article. Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge, individuellement ou solidairement selon le cas, des administrateurs ou des membres du directoire.
+II. - L'obligation prévue au premier alinéa du I de l'article L. 233-28-5 est également applicable aux sociétés mentionnées au I.
+
+III. - Toute société qui est une grande entreprise, au sens de l'article L. 230-1, ou la société consolidante d'un grand groupe, au sens de l'article L. 230-2, dont les titres sont admis aux négociations sur un marché réglementé, ne peut bénéficier des dispenses prévues au second alinéa du V de l'article L. 232-6-3 et au V de l'article L. 233-28-4.
+
+NOTA:
+Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Se reporter aux conditions d'application prévues au II de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.

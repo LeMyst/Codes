@@ -1,7 +1,12 @@
 # Article R719-63-1
 
-Le budget des établissements bénéficiant de la pleine propriété de leurs biens immobiliers comprend également un budget annexe immobilier, qui inclut les équipements et prestations qui sont directement rattachés à ces biens, établi conformément aux articles R. 719-54, à l'exception du 1° de son II, R. 719-59, R. 719-60 et R. 719-61.
+Le budget des établissements bénéficiant de la pleine propriété de leurs biens immobiliers peut comprendre également un budget annexe immobilier, qui retrace les recettes et les dépenses relatives :
 
-Par arrêté conjoint des ministres de tutelle et du ministre chargé du budget, et sur proposition de leur président ou directeur, le budget des autres établissements peut également comprendre un budget annexe, établi dans les mêmes conditions, pour les biens immobiliers dont ils sont propriétaires, pour les biens immobiliers qui sont mis à leur disposition par l'Etat ou par un tiers et ceux qui sont pris à bail, ainsi que pour les équipements et prestations qui leur sont directement rattachés.
+1° Aux biens immobiliers de l'établissement dont il assure le contrôle conformément aux normes de la comptabilité publique ;
 
-Les crédits inscrits au sein de ce budget annexe ont un caractère limitatif.
+2° Aux biens mobiliers et aux prestations qui sont directement rattachés aux actifs concernés.
+
+Ce budget annexe est créé par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé du budget, sur proposition de leur président ou leur directeur.
+
+NOTA:
+Conformément à l’article 46 du décret n° 2024-1108 du 2 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. Les budgets initiaux pour l'exercice 2025 demeurent régis par les règles applicables antérieurement à cette date.

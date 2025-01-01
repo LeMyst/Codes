@@ -1,6 +1,6 @@
 # Article D337-159
 
-Au vu des procès-verbaux des jurys, le recteur d'académie délivre la mention complémentaire. En cas d'erreur matérielle, il apporte les rectifications nécessaires, après avis du président du jury.
+Au vu des procès-verbaux des jurys, le recteur d'académie délivre le certificat de spécialisation. En cas d'erreur matérielle, il apporte les rectifications nécessaires, après avis du président du jury.
 
 NOTA:
-Conformément à l'article 10 du décret n° 2019-391 du 29 avril 2019, les présentes dispositions entrent en vigueur à compter de la session d'examen 2020.
+Conformément à l'article 4 du décret n° 2023-824 du 25 août 2023, ces dispositions entrent en vigueur au 1er janvier 2025.

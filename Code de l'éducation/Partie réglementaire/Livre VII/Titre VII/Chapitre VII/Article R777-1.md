@@ -6,9 +6,11 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | --- | --- |
 | R. 711-7 à R. 711-10 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 711-11 et R. 711-12 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 711-13 et R. 711-14 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 711-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 711-14 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 711-15 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 711-16 R. 712-1 R. 712-3 et R. 712-4 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 711-16 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 712-1, R. 712-3 et R. 712-4 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 712-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 712-6 et R. 712-7 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 712-8 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
@@ -49,39 +51,29 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 715-13 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 719-48 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-49 à R. 719-50-1 | Résultant du décret n° 2019-344 du 19 avril 2019 |
-| R. 719-51 et R. 719-52 | Résultant du décret n° 2014-604 du 6 juin 2014 |
-| R. 719-53 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-54 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-55 et R. 719-56 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-57 | Résultant du décret n° 2014-604 du 6 juin 2014 |
-| R. 719-58 à R. 719-60 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-61 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-62 et R. 719-63 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-63-1 | Résultant du décret n° 2014-604 du 6 juin 2014 |
-| R. 719-64 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 719-65 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-66 à R. 719-68 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-69 à R. 719-71 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-72 et R. 719-73 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-74 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-75 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-76 et R. 719-77 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-78 à R. 719-80 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-81 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-82 à R. 719-91 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-51, R. 719-52, R. 719-54, R. 719-56, R. 719-61, R. 719-63-1 à R. 719-66 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-68 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-69 et R. 719-70 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-71 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 719-72, R. 719-74, R. 719-76 | Résultant du décret n° n° 2024-1108 du 2 décembre 2024 |
+| R. 719-77 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 719-79 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-80, R. 719-81 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-85 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-92 et R. 719-93 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-94 à R. 719-101 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-102 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 719-94 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-96 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-102 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 719-103 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-104 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-107 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-108 | Résultant du décret n° 2014-604 du 6 juin 2014 |
-| R. 719-109 et R. 719-109-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-110 à R. 719-112 R. 719-194 à R. 719-197 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-104, R. 719-107 à R. 719-109 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-109-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
+| R. 719-194 à R. 719-197 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-198 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 719-199 à R. 719-201 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-199 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-200 et R. 719-201 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 719-202 | Résultant du décret n° 2014-604 du 6 juin 2014 |
-| R. 719-203 à R. 719-206 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 719-203, R. 719-205 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-206 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-207 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 719-208 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 731-1 | Résultant du décret n° 2020-832 du 30 juin 2020 |
@@ -91,7 +83,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 741-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 741-2 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 741-3 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 741-4 | Résultant du décret n° 2019-344 du 19 avril 2019 |
+| R. 741-4 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 752-1 à R. 752-4 | Résultant du décret n° 2018-109 du 15 février 2018 |
 | R. 759-9 | Résultant du décret n° 2020-733 du 15 juin 2020 |
 | R. 759-10 | Résultant du décret n° 2017-718 du 2 mai 2017 |
@@ -112,7 +104,7 @@ b) Le haut-commissaire de la République exerce les compétences dévolues au pr
 
 4° Au premier alinéa de l'article R. 712-43, les mots : “, par le recteur de région académique ” et les mots : “ lorsque les poursuites concernent le président de l'université ” sont supprimés ;
 
-5° A l'article R. 719-65 et au deuxième alinéa de l'article R. 719-74, le délai de quinze jours est porté à un mois ;
+5° (Abrogé) ;
 
 6° Au premier alinéa de l'article R. 719-198, les mots : “ Le recteur de la région académique, chancelier des universités, dans le ressort de laquelle l'établissement abritant la fondation a son siège ” sont remplacés par les mots : “ Le vice-recteur ” ;
 
@@ -125,3 +117,6 @@ b) Le haut-commissaire de la République exerce les compétences dévolues au pr
 10° Au premier alinéa de l'article R. 762-18 et à l'article R. 762-19, le mot : “ départemental ” est supprimé ;
 
 11° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contrevaleur en monnaie locale.
+
+NOTA:
+Conformément à l’article 46 du décret n° 2024-1108 du 2 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. Les budgets initiaux pour l'exercice 2025 demeurent régis par les règles applicables antérieurement à cette date.

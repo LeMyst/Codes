@@ -10,6 +10,7 @@ Les dispositions relatives aux grands établissements relevant de la tutelle du 
 
 4° Ecole de l'air et de l'espace : articles R. 3411-119 à R. 3411-160 du code de la défense ;
 
-5° Ecole nationale supérieure de techniques avancées : articles R. 3411-29 à R. 3411-54 du code de la défense ;
+5° Ecole nationale supérieure de techniques avancées : articles R. 3411-29 à R. 3411-54 du code de la défense.
 
-6° Ecole nationale supérieure de techniques avancées Bretagne : articles R. 3411-57 à R. 3411-82 du code de la défense.
+NOTA:
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

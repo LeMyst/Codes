@@ -31,8 +31,10 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 714-27 D. 714-28, 1er et 3e alinéas, D. 714-29 D. 714-31 D. 714-32, D. 714-33, 1er, 2e et 3e alinéas D. 714-34 à D. 714-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-37 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 714-38 et D. 714-39 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 714-41 et D. 714-42 D. 714-44 à D. 714-53 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
-| D. 714-55 à D. 714-69, D. 714-73 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 714-41 et D. 714-42 D. 714-44 à D. 714-51 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
+| D. 714-52 | Résultant du décret n° 2024-1197 du 21 décembre 2024 |
+| D. 714-53 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
+| D. 714-55 à D. 714-64 D. 714-66 à D. 714-69, D. 714-73 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-74 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 714-75 à D. 714-88 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-93 à D. 714-100 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
@@ -224,4 +226,4 @@ c) au cinquième alinéa, les mots : " unité de formation et de recherche " son
 21° La deuxième phrase du premier alinéa de l'article D. 759-12 est supprimée.
 
 NOTA:
-Conformément au I de l'article 5 du décret n° 2024-841 du 16 juillet 2024, ces dispositions s'appliquent aux élections des conseils des établissements dont la décision fixant les modalités d'organisation est postérieure à la publication du présent décret.
+Conformément à l'article 12 du décret n° 2024-1197 du 21 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. La présentation des budgets et du compte financier de l'exercice 2025 demeure régie par les règles applicables antérieurement à cette date.

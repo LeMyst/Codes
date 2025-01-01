@@ -135,8 +135,9 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 642-54 | Résultant du décret n° 2018-367 du 18 mai 2018 |
 | D. 642-55 à D. 642-64 | Résultant du décret n° 2022-1376 du 28 octobre 2022 |
 | D. 642-66 et D. 642-67 | Résultant du décret n° 2023-469 du 15 juin 2023 |
-| D. 643-1 et D. 643-2 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-3 | Résultant du décret n° 2020-1167 du 23 septembre 2020 |
+| D. 643-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 643-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-3 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-4 à D. 643-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 643-6 et D. 643-7 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 643-8 | Résultant du décret n° 2020-624 du 22 mai 2020 |
@@ -144,15 +145,19 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 643-10 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 643-11 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 643-12 | Résultant du décret n° 2016-1037 du 28 juillet 2016 |
-| D. 643-13 | Résultant du décret n° 2022-850 du 3 juin 2022 |
+| D. 643-13 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-13-1 | Résultant du décret n° 2020-398 du 3 avril 2020 |
 | D. 643-14 | Résultant du décret n° 2016-1037 du 28 juillet 2016 |
-| D. 643-15, 1er à 3e alinéas | Résultant du décret n° 2022-850 du 3 juin 2022 |
-| D. 643-15, dernier alinéa | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 643-15 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-15-1 | Résultant du décret n° 2020-1167 du 23 septembre 2020 |
-| D. 643-16 à D. 643-22 | Résultant du décret n° 2022-850 du 3 juin 2022 |
+| D. 643-15-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-16 | Résultant du décret n° 2022-850 du 3 juin 2022 |
+| D. 643-17 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-18 | Résultant du décret n° 2022-850 du 3 juin 2022 |
+| D. 643-19 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-20 à D. 643-22 | Résultant du décret n° 2022-850 du 3 juin 2022 |
 | D. 643-23 et D. 643-24 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-25 | Résultant du décret n° 2016-1037 du 28 juillet 2016 |
+| D. 643-25 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-26 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 643-27 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 643-28 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
@@ -162,8 +167,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 643-31 | Résultant du décret n° 2022-850 du 3 juin 2022 |
 | D. 643-31-1 | Résultant du décret n° 2015-121 du 4 février 2015 |
 | D. 643-32 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-32-1 à D. 643-32-10 | Résultant du décret n° 2020-652 du 28 mai 2020 |
-| D. 643-33 et D. 643-34 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 643-32-1 et D. 643-32-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-32-3 | Résultant du décret n° 2020-652 du 28 mai 2020 |
+| D. 643-32-4 à D. 643-32-7 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-32-8 et D. 643-32-9 | Résultant du décret n° 2020-652 du 28 mai 2020 |
+| D. 643-32-10 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 643-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 643-34 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-35 | Résultant du décret n° 2018-172 du 9 mars 2018 |
 | D. 643-35-1 | Résultant du décret n° 2014-791 du 9 juillet 2014 |
 | D. 643-36 et D. 643-37 | Résultant du décret n° 2013-756 du 19 août 2013 |

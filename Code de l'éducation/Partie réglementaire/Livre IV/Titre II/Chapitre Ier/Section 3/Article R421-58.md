@@ -22,8 +22,6 @@ Au titre du service général, elle individualise :
 
 Au titre des services spéciaux, elle individualise notamment :
 
--les dépenses de bourses nationales effectuées par l'établissement pour le compte de l'Etat ;
-
 -les missions de restauration et d'hébergement ;
 
 -les groupements de service créés en application de l'article L. 421-10.
@@ -33,3 +31,6 @@ Le budget comporte en annexe un récapitulatif faisant apparaître les emplois d
 IV.-La section d'investissement retrace les ressources et les dépenses d'investissement du service général et des services spéciaux.
 
 V.-L'établissement peut se doter d'un budget annexe pour tout service spécial comportant des dépenses d'investissement. Lorsqu'un centre de formation des apprentis au sens de l'article R. 431-1 est créé au sein de l'établissement, les ressources et les dépenses de ce centre sont retracées dans un budget annexe.
+
+NOTA:
+Conformément à l'article 2 du décret 2020-939 du 29 juillet 2020, ces dispositions sont applicables aux établissements publics locaux d'enseignement relevant du ministère de l'éducation nationale et de la jeunesse, au plus tard au 1er janvier 2025, selon un échéancier fixé par arrêté conjoint des ministres chargés de l'éducation nationale et du budget.

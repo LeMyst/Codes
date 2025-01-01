@@ -1,6 +1,6 @@
 # Article D375-2
 
-I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
 | --- | --- |
@@ -13,7 +13,7 @@ I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptati
 | D. 311-13 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 311-13-1 | Résultant du décret n° 2020-1523 du 4 décembre 2020 |
 | D. 312-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 312-1-1 D. 312-1-2, I, II et III,D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
+| D. 312-1-1 D. 312-1-2, I, II et III, D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
 | D. 312-4 à D. 312-6 D. 312-16 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-16-1 | Résultant du décret n° 2010-100 du 27 janvier 2010 |
 | D. 312-17 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -41,7 +41,7 @@ I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptati
 | D. 314-71 | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80 D. 314-82 D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 314-91 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 314-99 à D. 314-105 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
@@ -104,7 +104,6 @@ I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptati
 | D. 333-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 333-2 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 333-3 | Résultant du décret n° 2018-614 du 16 juillet 2018 |
-| D. 333-3-1 | Résultant du décret n° 2023-1111 du 29 novembre 2023 |
 | D. 333-4 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 333-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 333-6 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -268,28 +267,17 @@ I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptati
 | D. 337-137-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-138 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-138-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
-| D. 337-139 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-140 | Résultant du décret n° 2017-790 du 5 mai 2017 |
-| D. 337-141 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-142 | Résultant du décret n° 2021-533 du 30 avril 2021 |
+| D. 337-139 à D. 337-142 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-143 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-144 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-145 | Résultant du décret n° 2020-624 du 22 mai 2020 |
+| D. 337-144 et D. 337-145 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-146 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-147 | Résultant du décret n° 2020-726 du 12 juin 2020 |
-| D. 337-148 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-149 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
-| D. 337-150 | Résultant du décret n° 2021-533 du 30 avril 2021 |
-| D. 337-150-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-151 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-152 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-147 à D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-153 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-154 et D. 337-154-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-155 à D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-158 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 337-154 à D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-156 et D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-158 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-158-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
-| D. 337-159 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-160 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 337-159 et D. 337-160 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-172 à D. 337-175 | Résultant du décret n° 2019-176 du 7 mars 2019 |
 | D. 338-9 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 338-11 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -366,7 +354,7 @@ b) Le II est ainsi rédigé :
 
 " L'administrateur supérieur des îles Wallis et Futuna est informé des décisions d'octroi et de retrait d'agrément. " ;
 
-9° A l'article D. 312-41, les mots :, parmi lesquels figurent notamment les services déconcentrés du ministère de l'éducation nationale, du ministère de la santé en liaison avec les centres d'enseignement des soins d'urgence et du ministère de l'intérieur ainsi que les services départementaux d'incendie et de secours, " sont supprimés ;
+9° A l'article D. 312-41, les mots : , parmi lesquels figurent notamment les services déconcentrés du ministère de l'éducation nationale, du ministère de la santé en liaison avec les centres d'enseignement des soins d'urgence et du ministère de l'intérieur ainsi que les services départementaux d'incendie et de secours, " sont supprimés ;
 
 10° Au premier alinéa de l'article D. 313-5, la première phrase est remplacée par la phrase suivante : " Le vice-recteur coordonne les activités d'information sur les métiers et les formations. " ;
 
@@ -550,7 +538,7 @@ b) Au troisième alinéa, les mots : " dans les conditions prévues au troisièm
 
 a) Au troisième alinéa, les mots : " pour les candidats relevant du 2° de l'article D. 337-127 " et les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
 
-b) Au quatrième alinéa, les mots :, dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail, " sont supprimés ;
+b) Au quatrième alinéa, les mots : , dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail, " sont supprimés ;
 
 61° Au sixième alinéa de l'article D. 337-132, les mots : " ou privé sous contrat " sont supprimés et les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
@@ -566,17 +554,17 @@ b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie "
 
 65° Les quatre premiers alinéas de l'article D. 337-142 sont remplacés par un alinéa ainsi rédigé :
 
-" La mention complémentaire est préparée par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue. " ;
+" Le certificat de spécialisation est préparé par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue. " ;
 
 66° Au deuxième alinéa de l'article D. 337-144, les mots : " définie au livre III de la sixième partie du code du travail " sont supprimés ;
 
 67° A l'article D. 337-145 :
 
-a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie de la formation professionnelle continue " ;
+a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
 
-b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie scolaire " ;
+b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie scolaire " ;
 
-c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travail et " sont supprimés ;
+c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travail et " sont supprimés ;
 
 68° Au premier alinéa de l'article D. 337-149, les mots : " ou privé sous contrat " sont supprimés et les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
@@ -623,4 +611,4 @@ b) Au troisième alinéa, après les mots : " Le médecin " sont remplacés par 
 " Par dérogation aux dispositions des premier et troisième alinéas de l'article D. 351-28, les candidats qui bénéficient d'un projet personnalisé de scolarisation, au titre d'un trouble du neuro-développement, adressent directement leur demande d'aménagements des conditions d'examen ou de concours à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. ".
 
 NOTA:
-Conformément à l’article 3 du décret n° 2024-542 du 13 juin 2024, ces dispositions sont applicables à compter de la rentrée scolaire 2024.
+Conformément à l'article 4 du décret n° 2023-824 du 25 août 2023, ces dispositions entrent en vigueur au 1er janvier 2025.

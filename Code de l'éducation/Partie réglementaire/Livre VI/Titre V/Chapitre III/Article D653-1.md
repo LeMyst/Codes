@@ -52,7 +52,7 @@ Les dispositions relatives aux formations dispensées dans les grands établisse
 
 24° Les articles R. 3411-30 et R. 3411-31 du code de la défense en ce qui concerne l'Ecole nationale supérieure de techniques avancées ;
 
-25° Les articles R. 3411-58 et R. 3411-59 du code de la défense en ce qui concerne l'Ecole nationale supérieure de techniques avancées Bretagne ;
+25° (Abrogé) ;
 
 26° Le décret n° 2022-1535 du 8 décembre 2022 relatif à l'Ecole d'économie et de sciences sociales quantitatives de Toulouse-TSE ;
 
@@ -61,3 +61,6 @@ Les dispositions relatives aux formations dispensées dans les grands établisse
 28° Le décret n° 2019-1123 du 31 octobre 2019 portant création de l'Université Grenoble Alpes et approbation de ses statuts ;
 
 29° Le décret n° 2019-785 du 25 juillet 2019 portant création de l'Université Côte d'Azur et approbation de ses statuts.
+
+NOTA:
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

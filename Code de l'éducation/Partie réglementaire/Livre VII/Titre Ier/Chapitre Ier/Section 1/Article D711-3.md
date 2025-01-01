@@ -30,7 +30,7 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 
 10-1° Ecole nationale supérieure de techniques avancées ;
 
-10-2° Ecole nationale supérieure de techniques avancées Bretagne ;
+10-2° (Abrogé) ;
 
 11° Ecole nationale supérieure maritime ;
 
@@ -81,3 +81,6 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 34° Université Grenoble Alpes ;
 
 35° Université Côte d'Azur.
+
+NOTA:
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

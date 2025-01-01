@@ -1,6 +1,6 @@
 # Article D643-19
 
-Passent les épreuves prévues au 1° de l'article D. 643-15 sous forme d'au moins trois épreuves ponctuelles et, le cas échéant, d'épreuves qui peuvent être validées par contrôle en cours de formation, dans les conditions fixées par le règlement particulier du diplôme :
+Passent les épreuves prévues au 1° de l'article D. 643-15 sous forme d'épreuves ponctuelles et, pour au moins la moitié d'entre elles, d'épreuves validées par contrôle en cours de formation, dans les conditions fixées par le règlement particulier du diplôme :
 
 1° Les candidats ayant préparé le brevet de technicien supérieur par la voie scolaire dans un établissement public ou privé sous contrat ;
 
@@ -17,3 +17,6 @@ Passent les épreuves prévues au 1° de l'article D. 643-15 sous forme d'épreu
 3° Ceux qui l'ont préparé par la voie de l'apprentissage dans un centre de formation d'apprentis non habilité ;
 
 4° Les candidats ayant suivi une préparation par la voie de l'enseignement à distance, quel que soit leur statut, ainsi que les candidats qui se présentent au titre de leur expérience professionnelle en application du troisième alinéa (2°) de l'article D. 643-16.
+
+NOTA:
+Conformément au second alinéa de l'article 4 du décret n° 2024-788 du 8 juillet 2024, ces dispositions entrent en vigueur à la session d'examen 2025.

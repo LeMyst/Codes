@@ -1,6 +1,6 @@
 # Article D337-152
 
-L'arrêté de création de chaque spécialité de mention complémentaire peut prévoir que des titres ou diplômes sont équivalents à cette spécialité.
+L'arrêté de création de chaque spécialité du certificat de spécialisation peut prévoir que des titres ou diplômes sont équivalents à cette spécialité.
 
 Dans des conditions fixées par cet arrêté, les candidats titulaires de certains titres ou diplômes peuvent être dispensés de l'obtention d'une ou de plusieurs unités constitutives du diplôme présenté.
 
@@ -13,4 +13,4 @@ Les candidats titulaires de l'attestation mentionnée aux deux précédents alin
 Les dispenses accordées au titre des alinéas précédents ainsi que celles accordées au titre de la validation des acquis de l'expérience peuvent porter sur la totalité des unités permettant l'obtention du diplôme.
 
 NOTA:
-Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, ces dispositions entrent en vigueur à compter de la session d'examen 2020.
+Conformément à l'article 4 du décret n° 2023-824 du 25 août 2023, ces dispositions entrent en vigueur au 1er janvier 2025.

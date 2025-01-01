@@ -18,9 +18,7 @@ Le statut de communauté d'universités et établissements prévu par les articl
 
 7° Normandie Université ;
 
-8° (Supprimé) ;
-
-9° Université de Bourgogne Franche-Comté.
+8° (Supprimé).
 
 NOTA:
-Conformément à l'article 7 du décret n° 2024-749 du 6 juillet 2024, ces dispositions entrent en vigueur le 1er août 2024.
+Conformément à l'article 17 du décret n° 2024-1082 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

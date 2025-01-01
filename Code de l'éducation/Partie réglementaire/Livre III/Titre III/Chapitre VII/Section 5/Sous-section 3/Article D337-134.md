@@ -12,4 +12,5 @@ Le brevet des métiers d'art est délivré aux candidats ayant obtenu une moyenn
 
 Les points excédant 10 sur 20 obtenus à l'épreuve facultative sont pris en compte pour le calcul de la moyenne générale.
 
-Les candidats préparant le brevet des métiers d'art par la voie de la formation professionnelle continue ou dans le cadre de la validation des acquis de l'expérience reçoivent, pour les unités du diplôme préparé qui ont fait l'objet, au titre de la session en cours ou dans les cinq années précédentes, d'une note égale ou supérieure à 10 sur 20 ou d'une validation des acquis de l'expérience, y compris si elles ont été obtenues par la voie scolaire ou par la voie de l'apprentissage, une attestation délivrée par le recteur d'académie reconnaissant l'acquisition des compétences constitutives de cette unité du diplôme.
+NOTA:
+Conformément à l'article 23 du décret n° 2020-726 du 12 juin 2020, les dispositions du présent décret supprimant celles applicables aux seuls candidats de la formation professionnelle continue et candidats de la validation des acquis de l'expérience, n'entrent en vigueur qu'à l'issue des sessions se déroulant jusqu'au 31 décembre 2024 inclus.

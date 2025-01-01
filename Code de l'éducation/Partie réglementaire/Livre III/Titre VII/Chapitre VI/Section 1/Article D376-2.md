@@ -182,26 +182,16 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 337-136 à D. 337-137-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 337-138 | Résultant du décret n° 2017-960 du 10 mai 2017 |
 | D. 337-138-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 337-139 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-140 | Résultant du décret n° 2017-790 du 5 mai 2017 |
-| D. 337-141 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-142 | Résultant du décret n° 2021-533 du 30 avril 2021 |
-| D. 337-145 | Résultant du décret n° 2020-624 du 22 mai 2020 |
+| D. 337-139 à D. 337-142 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-145 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-146 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-147 | Résultant du décret n° 2020-726 du 12 juin 2020 |
-| D. 337-148 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-149 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
-| D. 337-150 | Résultant du décret n° 2021-533 du 30 avril 2021 |
-| D. 337-150-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-151 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-152 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-147 à D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-153 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-154 et D. 337-154-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-155 à D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-158 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 337-154 à D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-156 et D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-158 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-158-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
-| D. 337-159 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-160 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 337-159 et D. 337-160 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 338-9 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 338-11 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 338-12 et D. 338-13 | Résultant du décret n° 2009-1145 du 22 septembre 2009 |
@@ -410,15 +400,15 @@ b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie "
 
 50° Au troisième alinéa de l'article D. 337-140, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
-51° Les quatre premiers alinéas de l'article D. 337-142 sont remplacés par un alinéa ainsi rédigé : " La mention complémentaire est préparée par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue. " ;
+51° Les quatre premiers alinéas de l'article D. 337-142 sont remplacés par un alinéa ainsi rédigé : " Le certificat de spécialisation est préparée par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue. " ;
 
 52° A l'article D. 337-145 :
 
-a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie de la formation professionnelle continue " ;
+a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
 
-b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie scolaire " et les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
+b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie scolaire " et les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
 
-c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant la mention complémentaire par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travail et " sont supprimés ;
+c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travail et " sont supprimés ;
 
 53° Au deuxième alinéa de l'article D. 337-146, les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
 
@@ -465,4 +455,4 @@ b) Au troisième alinéa, les mots : " Le médecin " sont remplacés par les mot
 " Par dérogation aux dispositions du premier et du troisième alinéa de l'article D. 351-28, les candidats qui bénéficient d'une scolarité spécialement adaptée pour tenir compte d'un trouble du neuro-développement adressent directement leur demande d'aménagements des conditions d'examen ou de concours national à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. ".
 
 NOTA:
-Conformément à l’article 3 du décret n° 2024-542 du 13 juin 2024, ces dispositions sont applicables à compter de la rentrée scolaire 2024.
+Conformément à l'article 4 du décret n° 2023-824 du 25 août 2023, ces dispositions entrent en vigueur au 1er janvier 2025.

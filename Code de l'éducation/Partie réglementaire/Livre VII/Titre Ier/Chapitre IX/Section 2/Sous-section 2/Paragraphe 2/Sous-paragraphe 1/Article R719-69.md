@@ -1,13 +1,14 @@
 # Article R719-69
 
-Lors de la séance du conseil d'administration, le recteur de région académique, chancelier des universités, ou le représentant du ministre peut décider que le budget est soumis à son approbation dans les cas suivants :
+Lors de la séance du conseil d'administration, le recteur de région académique, chancelier des universités, ou, pour les établissements qui lui sont directement rattachés, le ministre chargé de l'enseignement supérieur, peut décider que le budget est soumis à son approbation dans les cas suivants :
 
 1° Le projet de budget n'a pas été communiqué dans le délai fixé à l'article R. 719-65 ;
 
-2° Le budget principal ou le budget annexe ou le budget d'une fondation n'est pas en équilibre réel eu égard notamment aux dispositions des articles R. 719-59 à R. 719-62 relatives aux prélèvements sur le fonds de roulement ou sur les réserves ;
+2° Le budget ne respecte pas les conditions d'équilibre réel définies à l'article R. 719-61 ;
 
-3° Le budget principal ne prévoit pas les crédits nécessaires au respect des obligations et des engagements de l'établissement ;
+3° Le plafond d'emplois fixé par l'Etat n'est pas respecté ;
 
-4° Pour les établissements publics bénéficiant des responsabilités et compétences élargies en matière budgétaire dans les conditions prévues à l'article L. 712-8, le plafond d'emplois défini au b du 1° du II de l'article R. 719-54 est dépassé ;
+4° Les budgets rectificatifs de l'exercice ou le budget initial de l'exercice suivant ne respectent pas le plan de retour à l'équilibre financier prévu à l'article R. 719-109.
 
-5° Les budgets rectificatifs de l'exercice ou le budget initial de l'exercice suivant ne respectent pas le plan de rétablissement de l'équilibre financier prévu à l'article R. 719-109.
+NOTA:
+Conformément à l’article 46 du décret n° 2024-1108 du 2 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. Les budgets initiaux pour l'exercice 2025 demeurent régis par les règles applicables antérieurement à cette date.

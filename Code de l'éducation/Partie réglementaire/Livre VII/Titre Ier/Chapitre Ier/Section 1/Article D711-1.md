@@ -16,7 +16,7 @@ I. - Universités :
 
 6° Avignon ;
 
-7° Besançon ;
+7° (Abrogé) ;
 
 8° Bordeaux ;
 
@@ -42,7 +42,7 @@ I. - Universités :
 
 19° Corse ;
 
-20° Dijon ;
+20° (Abrogé) ;
 
 21° Evry-Val d'Essonne ;
 
@@ -82,7 +82,7 @@ I. - Universités :
 
 38° (Supprimé) ;
 
-40° Montpellier-III ;
+40° (Supprimé) ;
 
 41° Mulhouse ;
 
@@ -90,7 +90,7 @@ I. - Universités :
 
 43° (Abrogé) ;
 
-44° Nîmes ;
+44° (Supprimé) ;
 
 45° Nouvelle-Calédonie ;
 
@@ -136,7 +136,7 @@ I. - Universités :
 
 66° Rouen ;
 
-67° Saint-Etienne ;
+67° (Abrogé) ;
 
 68° Strasbourg ;
 
@@ -146,7 +146,7 @@ I. - Universités :
 
 71° Toulouse-II ;
 
-72° Toulouse-III ;
+72° (Supprimé) ;
 
 73° Tours ;
 
@@ -159,6 +159,4 @@ II. - Instituts nationaux polytechniques :
 1° Toulouse.
 
 NOTA:
-Conformément à l'article 18 du décret n° 2022-1474 du 24 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Conformément à l’article 14 du décret n° 2022-1536 du 8 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l'article 13 du décret n° 2024-840 du 16 juillet 2024 et à l'article 14 du décret n° 2024-1155 du 4 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

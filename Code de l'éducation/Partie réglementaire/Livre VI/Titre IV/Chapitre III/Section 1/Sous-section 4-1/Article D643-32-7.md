@@ -10,4 +10,7 @@ Elle est notifiée à l'intéressé et, le cas échéant, à son représentant l
 
 La commission de discipline du brevet de technicien supérieur statue dans un délai de deux mois suivant la proclamation des résultats de la session à laquelle se rattachent les faits ayant donné lieu aux poursuites.
 
-Le recteur de région académique informe le ministre chargé de l'enseignement supérieur de la décision de la commission de discipline.
+Le recteur d'académie ou de région académique informe le ministre chargé de l'enseignement supérieur de la décision de la commission de discipline.
+
+NOTA:
+Conformément au second alinéa de l'article 4 du décret n° 2024-788 du 8 juillet 2024, ces dispositions entrent en vigueur à la session d'examen 2025.

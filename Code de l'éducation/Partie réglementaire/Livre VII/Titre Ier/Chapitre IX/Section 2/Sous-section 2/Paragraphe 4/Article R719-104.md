@@ -1,7 +1,6 @@
 # Article R719-104
 
-Le conseil d'administration délibère sur l'affectation des résultats du budget principal et du budget annexe.
+Le conseil d'administration de l'établissement délibère sur l'affectation du résultat comptable des états financiers du budget principal et des budgets annexes.
 
-Il approuve l'affectation des résultats du budget de chaque fondation.
-
-Lorsque le compte de résultat accuse une perte, le conseil d'administration détermine par une délibération les conditions de retour à l'équilibre pour l'exercice suivant. Le projet de cette délibération est soumis à l'avis préalable du recteur de région académique, chancelier des universités, ou, pour les établissements qui lui sont directement rattachés, du ministre chargé de l'enseignement supérieur. Cet avis est communiqué au conseil d'administration avec le projet de délibération.
+NOTA:
+Conformément à l’article 46 du décret n° 2024-1108 du 2 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. Les budgets initiaux pour l'exercice 2025 demeurent régis par les règles applicables antérieurement à cette date.

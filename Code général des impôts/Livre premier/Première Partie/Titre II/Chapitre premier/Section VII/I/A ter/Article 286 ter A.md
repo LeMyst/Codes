@@ -16,4 +16,9 @@ II.-Ne sont pas non plus tenus de s'identifier les assujettis qui effectuent exc
 
 6° Des importations de biens mis en libre pratique ou placés en admission temporaire en exonération partielle de droits sur la base d'une déclaration verbale en application des articles 135 ou 136 du règlement délégué (UE) n° 2015/2446 de la Commission du 28 juillet 2015 complétant le règlement (UE) n° 952/2013 du Parlement européen et du Conseil au sujet des modalités de certaines dispositions du code des douanes de l'Union ;
 
-7° Des importations de biens destinés à être utilisés ou cédés à titre gratuit dans le cadre de foires, d'expositions et de manifestations similaires.
+7° Des importations de biens destinés à être utilisés ou cédés à titre gratuit dans le cadre de foires, d'expositions et de manifestations similaires ;
+
+8° Des opérations mentionnées au 1° du I de l'article 289 A bis du présent code pour lesquelles un mandataire est désigné dans les conditions prévues au même article 289 A bis.
+
+NOTA:
+Conformément au VI de l’article 112 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

@@ -8,7 +8,7 @@ Sont exonérés de la cotisation foncière des entreprises :
 
 2° Les peintres, sculpteurs, graveurs et dessinateurs considérés comme artistes auteurs d’œuvres graphiques et plastiques mentionnés à l’article L. 382-1 du code de la sécurité sociale et ne vendant que le produit de leur art ;
 
-2° bis Les photographes auteurs, pour leur activité relative à la réalisation de prises de vues et à la cession de leurs oeuvres d'art au sens de l'article 278 septies et du I de l'article 278-0 bis ou de droits mentionnés au g de l'article 279 et portant sur leurs oeuvres photographiques ;
+2° bis Les photographes auteurs, pour leur activité relative à la réalisation de prises de vues et à la cession de leurs oeuvres d'art au sens du second alinéa du 1° du I de l'article 297 A ou de droits mentionnés au g de l'article 279 et portant sur leurs oeuvres photographiques ;
 
 3° Les auteurs d’œuvres littéraires et dramatiques, musicales et chorégraphiques, mentionnés à l’article L. 382-1 du code de la sécurité sociale, à l’exception des auteurs de logiciels, ainsi que les coauteurs d’une œuvre audiovisuelle réalisée en collaboration mentionnés aux 1o à 4o de l’article L. 113-7 du code de la propriété intellectuelle et les auteurs d’une œuvre radiophonique mentionnés à l’article L. 113-8 du même code, les professeurs de lettres, sciences et arts d'agrément, les instituteurs primaires ;
 
@@ -25,3 +25,6 @@ Sont exonérés de la cotisation foncière des entreprises :
 9° Les membres du corps de réserve sanitaire constitué dans les conditions prévues au titre III du livre Ier de la troisième partie du code de la santé publique pour leurs activités exercées à ce titre.
 
 Le bénéfice des exonérations prévues aux 2o et 3o du présent article est subordonné au respect du règlement (UE) no 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.
+
+NOTA:
+Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

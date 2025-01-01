@@ -1,6 +1,6 @@
 # Article 1383 E bis
 
-Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre peuvent, par une délibération de portée générale prise dans les conditions prévues au I de l'article 1639 A bis, exonérer de taxe foncière sur les propriétés bâties :
+Dans les zones France ruralités revitalisation mentionnées aux II et III de l'article 44 quindecies A, les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre peuvent, par une délibération de portée générale prise dans les conditions prévues au I de l'article 1639 A bis, exonérer de taxe foncière sur les propriétés bâties :
 
 a) Les hôtels pour les locaux affectés exclusivement à une activité d'hébergement ;
 
@@ -17,4 +17,4 @@ Pour bénéficier de l'exonération prévue au présent article, le propriétair
 Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2021.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

@@ -122,9 +122,9 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 
 19° ter a. L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs ou de services publics de location de vélos entre leur résidence habituelle et leur lieu de travail, conformément à l'article L. 3261-2 du code du travail ;
 
-b. L'avantage résultant de la prise en charge par l'employeur des frais de carburant ou des frais exposés pour l'alimentation de véhicules électriques, hybrides rechargeables ou hydrogène engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du code du travail et des frais mentionnés à l'article L. 3261-3-1 du même code, dans la limite globale de 500 € par an, dont 200 € au maximum pour les frais de carburant. Lorsque la prise en charge des frais de transports personnels engagés par les salariés est cumulée avec la prise en charge prévue à l'article L. 3261-2 dudit code, l'avantage résultant de ces deux prises en charge ne peut dépasser le montant maximum entre 500 € par an et le montant de l'avantage mentionné au a du présent 19° ter ;
+b. L'avantage résultant de la prise en charge par l'employeur des frais de carburant ou des frais exposés pour l'alimentation de véhicules électriques, hybrides rechargeables ou hydrogène engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du code du travail et des frais mentionnés à l'article L. 3261-3-1 du même code, dans la limite globale de 600 € par an, dont 300 € au maximum pour les frais de carburant ;
 
-Par dérogation au premier alinéa du présent b, lorsque la prise en charge des frais de transport personnel engagés par les salariés en application de l'article L. 3261-3-1 du code du travail est cumulée avec la prise en charge prévue à l'article L. 3261-2 du même code, l'avantage résultant de ces deux prises en charge ne peut dépasser le montant maximal entre 800 € par an et le montant de l'avantage mentionné au a du présent 19° ter ;
+Lorsque la prise en charge des frais de transport personnel engagés par les salariés en application de l'article L. 3261-3-1 du code du travail est cumulée avec la prise en charge prévue à l'article L. 3261-2 du même code, l'avantage résultant de ces deux prises en charge ne peut dépasser le montant maximal entre 900 € par an et le montant de l'avantage mentionné au a du présent 19° ter ;
 
 c. En l'absence de prise en charge prévue à l'article L. 3261-2 du code du travail, l'avantage résultant de la prise en charge, par une collectivité territoriale, par un établissement public de coopération intercommunale ou par l'opérateur France Travail, des frais de carburant ou d'alimentation de véhicules électriques engagés par les salariés pour leurs déplacements entre leur résidence habituelle et leur lieu de travail lorsque ceux-ci sont situés à une distance d'au moins trente kilomètres l'un de l'autre, ou pour leurs déplacements entre leur résidence habituelle et leur lieu de travail en tant que conducteur en covoiturage quelle que soit la distance, dans la limite de 310 € par an ;
 
@@ -193,6 +193,8 @@ d. (disjoint)
 39° Les primes liées aux performances versées par l'Etat, en 2018, aux sportifs de l'équipe de France médaillés aux jeux Olympiques et Paralympiques et, le cas échéant, à leurs guides.
 
 NOTA:
-Modifications effectuées en conséquence de l'article 6-I de la loi n° 2019-1479 du 28 décembre 2019.
+Conformément au II de l’article 7 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2025.
 
 Conformément au II de l'article 4 de la loi n° 2021-1900 du 30 décembre 2021, la modification du montant du c du 19° ter du présent article prévue par le I dudit article 4 s'applique à l'imposition des revenus de l'année 2022.
+
+Modifications effectuées en conséquence de l'article 6-I de la loi n° 2019-1479 du 28 décembre 2019.

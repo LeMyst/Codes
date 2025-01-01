@@ -26,7 +26,7 @@ III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les dema
 
 IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie électronique.
 
-V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
+V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis bénéficiant d'une franchise mentionnée aux articles 293 B ou 293 B bis peuvent le déposer sur support papier.
 
 VI.-Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie électronique.
 
@@ -52,7 +52,9 @@ XIII.-La déclaration de crédit d'impôt pour dépenses de recherche mentionné
 
 XIV.-Les déclarations de taxe sur les salaires sont souscrites par voie électronique.
 
+XV.-Les déclarations de la taxe sur les conventions d'assurance mentionnée à l'article 991, des taxes assimilées prévues aux articles 990 I, 1635 bis A et 1635 bis AD et de la contribution forfaitaire annuelle mentionnée au V de l'article L. 426-1 du code des assurances sont souscrites par voie électronique.
+
 XVI.-Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de l'article 1738.
 
 NOTA:
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

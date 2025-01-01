@@ -8,7 +8,7 @@ La définition des biens d'occasion, des œuvres d'art, des objets de collection
 
 3° Pour les transferts visés au III de l'article 256, effectués par un assujetti revendeur, de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité qui lui ont été livrés dans des conditions qui permettraient l'application des dispositions prévues au 1° et au 2°, la base d'imposition est constituée par la différence entre la valeur du bien déterminée conformément au c du 1 de l'article 266 et le prix d'achat du bien ;
 
-4° Pour les assujettis qui ont exercé l'option prévue à l'article 297 B, le prix d'achat mentionné aux 1° et 3° s'entend, selon le cas, du montant de la livraison, de l'acquisition intracommunautaire, ou de la valeur à l'importation, déterminés conformément aux articles 266 ou 292, augmentés de la taxe sur la valeur ajoutée.
+4° (Abrogé).
 
 II. - La base d'imposition définie au I peut être déterminée globalement, pour chacune des périodes couvertes par les déclarations mentionnées à l'article 287, par la différence entre le montant total des livraisons et le montant total des achats de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité effectués au cours de chacune des périodes considérées.
 
@@ -18,4 +18,7 @@ Les assujettis revendeurs qui se placent sous ce régime procèdent à une régu
 
 Cette modalité de calcul de la base d'imposition ne fait naître, au profit des assujettis revendeurs, aucun droit à restitution de la taxe sur la valeur ajoutée au titre de ces opérations.
 
-III. - Pour les livraisons d'œuvres d'art, lorsqu'il n'est pas possible de déterminer avec précision le prix d'achat payé par un assujetti revendeur au vendeur ou lorsque ce prix n'est pas significatif, la base d'imposition peut être constituée par une fraction du prix de vente égale à 30 % de celui-ci.
+III. - (Abrogé).
+
+NOTA:
+Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

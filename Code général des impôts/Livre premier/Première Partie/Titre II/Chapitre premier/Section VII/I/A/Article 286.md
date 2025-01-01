@@ -16,13 +16,15 @@ Le livre prescrit ci-dessus ou la comptabilité en tenant lieu, ainsi que les pi
 
 4° Fournir aux agents des impôts, ainsi qu'à ceux des autres services financiers désignés par décrets, pour chaque catégorie d'assujettis, tant au principal établissement que dans les succursales ou agences, toutes justifications nécessaires à la fixation des opérations imposables, sans préjudice des dispositions de l'article L. 85 du livre des procédures fiscales.
 
-II.-1. Les assujettis bénéficiant d'une franchise de taxe mentionnée à l'article 293 B sont dispensés des obligations mentionnées au 3° du I. Ils doivent toutefois tenir et, sur demande du service des impôts, présenter un registre récapitulé par année, présentant le détail de leurs achats, ainsi qu'un livre-journal servi au jour le jour et présentant le détail de leurs recettes professionnelles afférentes à ces opérations, appuyés des factures et de toutes autres pièces justificatives.
+II.-1 A. Les assujettis bénéficiant d'une franchise de taxe relevant de l'article 293 B bis sont dispensés des obligations mentionnées aux 1° et 2° du I du présent article lorsqu'ils remplissent, dans l'Etat membre d'établissement, les obligations prévues par les dispositions transposant, dans cet Etat membre, les 1 et 2 de l'article 284 ter de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
 
-2. Les assujettis bénéficiant d'une franchise de taxe mentionnée à l'article 293 B, ceux placés sous le régime du remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies et ceux effectuant exclusivement des opérations ou des prestations exonérées de taxe sur la valeur ajoutée sont dispensés de l'obligation mentionnée au 3° bis du I.
+1. Les assujettis bénéficiant d'une franchise de taxe mentionnée aux articles 293 B et 293 B bis sont dispensés des obligations mentionnées au 3° du I. Ils doivent toutefois tenir et, sur demande du service des impôts, présenter un registre récapitulé par année, présentant le détail de leurs achats, ainsi qu'un livre-journal servi au jour le jour et présentant le détail de leurs recettes professionnelles afférentes à ces opérations, appuyés des factures et de toutes autres pièces justificatives.
+
+1. Les assujettis bénéficiant d'une franchise de taxe mentionnée aux articles 293 B et 293 B bis, ceux placés sous le régime du remboursement forfaitaire prévu aux articles 298 quater et 298 quinquies et ceux effectuant exclusivement des opérations ou des prestations exonérées de taxe sur la valeur ajoutée sont dispensés de l'obligation mentionnée au 3° bis du I.
 
 III.-L'option formulée au titre du III de l'article 256 C vaut déclaration au sens des 1° et 2° du I du présent article pour l'assujetti unique constitué en application de l'article 256 C. Elle précise la dénomination, la domiciliation et le représentant de l'assujetti unique ainsi que la nature des activités de chacun de ses membres. La déclaration comporte la liste des membres ainsi que les numéros individuels d'identification à la taxe sur la valeur ajoutée qui leur ont été attribués avant leur entrée dans l'assujetti unique.
 
 Chaque membre de l'assujetti unique constitué en application du même article 256 C est tenu de remplir les obligations mentionnées aux 3°, 3° bis et 4° du I du présent article.
 
 NOTA:
-Conformément au III de l’article 162 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

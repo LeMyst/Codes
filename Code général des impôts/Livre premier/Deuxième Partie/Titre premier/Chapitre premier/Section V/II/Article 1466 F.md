@@ -20,11 +20,11 @@ IV. – La délibération mentionnée au I porte sur la totalité de la part rev
 
 V. – Pour bénéficier de l'abattement, les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'abattement. Cette demande doit être adressée, pour chaque établissement exonéré, au service des impôts dont relève l'établissement.
 
-VI. – Lorsqu'un établissement réunit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 F, 1464 G, 1464 I, 1464 I bis, 1464 M, 1465, 1465 B, 1466 A, ou 1466 D et de l'abattement prévu au présent article, le contribuable peut opter pour ce dernier régime. L'option, qui est irrévocable, vaut pour l'ensemble des communes et de leurs établissements publics de coopération intercommunale et doit être exercée dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de cotisation foncière des entreprises mentionnées à l'article 1477.
+VI. – Lorsqu'un établissement réunit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 F, 1464 I, 1464 I bis, 1464 M, 1465, 1465 B, 1466 A, ou 1466 D et de l'abattement prévu au présent article, le contribuable peut opter pour ce dernier régime. L'option, qui est irrévocable, vaut pour l'ensemble des communes et de leurs établissements publics de coopération intercommunale et doit être exercée dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de cotisation foncière des entreprises mentionnées à l'article 1477.
 
 VII. – (Abrogé)
 
 VIII. – Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 NOTA:
-Conformément au II de l’article 110 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux impositions établies au titre des années 2020 à 2023.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

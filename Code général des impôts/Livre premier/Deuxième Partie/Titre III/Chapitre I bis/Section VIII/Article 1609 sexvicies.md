@@ -4,7 +4,7 @@ I. – Il est institué, à compter du 1er janvier 2004, une taxe au profit de l
 
 La taxe est due par les entreprises ayant une activité principale ou secondaire de réparation, d'entretien, de pose d'accessoires, de contrôle technique, d'échanges de pièces, et autres opérations assimilables, sur les véhicules automobiles, les cycles ou les motocycles, donnant lieu à facturation à des tiers.
 
-Les entreprises qui bénéficient de la franchise prévue à l'article 293 B sont exonérées de la taxe.
+Les entreprises qui bénéficient de la franchise prévue aux articles 293 B ou 293 B bis sont exonérées de la taxe.
 
 Le produit de cette taxe contribue au développement de la formation professionnelle dans la branche considérée, particulièrement par le financement des investissements et du fonctionnement des centres de formation d'apprentis et des sections d'apprentissage, par la formation de personnels enseignants et de maîtres d'apprentissage ainsi que par l'acquisition de matériel technique et pédagogique.
 
@@ -27,4 +27,4 @@ Un commissaire du Gouvernement auprès de l'association est désigné par le min
 Les modalités d'exercice des attributions du membre du corps du contrôle général économique et financier et du commissaire du Gouvernement sont fixées par décret.
 
 NOTA:
-Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

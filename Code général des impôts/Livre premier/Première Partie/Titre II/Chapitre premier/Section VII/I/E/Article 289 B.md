@@ -28,11 +28,9 @@ III.-Dans l'état récapitulatif relatif aux prestations de services doivent fig
 
 IV.-A.-Les états récapitulatifs mentionnés aux II et III du présent article sont transmis par voie électronique.
 
-Les assujettis bénéficiant du régime de franchise prévu à l'article 293 B peuvent souscrire l'état récapitulatif mentionné au III du présent article au moyen d'un formulaire sur papier conforme au modèle établi par l'administration des douanes.
+Les assujettis bénéficiant du régime de franchise prévu aux articles 293 B et 293 B bis peuvent souscrire l'état récapitulatif mentionné au III du présent article au moyen d'un formulaire sur papier conforme au modèle établi par l'administration des douanes.
 
 B.-Les documents nécessaires à l'établissement de l'état récapitulatif mentionné au même II doivent être conservés par les assujettis pendant un délai de six ans à compter de la date de l'opération ayant donné lieu à cet état.
 
 NOTA:
-A la première phrase du I : lire "fixées" au lieu de "fixés"
-
-Conformément au D du III de l'article 30 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux opérations pour lesquelles la déclaration ou l'état récapitulatif est exigé au titre d'une période engagée après le 1er janvier 2022.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

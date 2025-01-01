@@ -24,7 +24,7 @@ On entend par lieu de départ, le lieu où commence effectivement le transport d
 
 5° Lorsqu'elles sont matériellement exécutées ou ont effectivement lieu en France :
 
-a) Les prestations de services fournies à une personne non assujettie ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités ;
+a) Les prestations de services fournies à une personne non assujettie ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités, à la condition que ces activités ne soient pas diffusées ou mises à disposition virtuellement ;
 
 b) Les ventes à consommer sur place ;
 
@@ -38,7 +38,7 @@ On entend par lieu d'arrivée d'un transport de passagers, le dernier point de d
 
 Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme un transport distinct ;
 
-5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui leur sont accessoires, consistant à donner accès à des manifestations culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions lorsque ces manifestations ont effectivement lieu en France ;
+5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui leur sont accessoires, consistant à donner accès, autrement que par une présence virtuelle, à des manifestations culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions lorsque ces manifestations ont effectivement lieu en France ;
 
 6° Lorsqu'elles sont matériellement exécutées en France au profit d'une personne non assujettie :
 
@@ -49,3 +49,6 @@ b) Les expertises ou les travaux portant sur des biens meubles corporels ;
 7° Les prestations de services fournies à une personne non assujettie par un intermédiaire agissant au nom et pour le compte d'autrui lorsque le lieu de l'opération principale est situé en France ;
 
 8° La prestation de services unique mentionnée au III de l'article 257 ter réalisée par une personne qui a en France le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.
+
+NOTA:
+Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

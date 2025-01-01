@@ -48,13 +48,15 @@ b quinquies) L'assiette totale afférente aux importations des produits pétroli
 
 c) Le montant total hors taxes des transmissions mentionnées à l'article 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
 
-6. Par dérogation aux 2 et 5, ne sont pas indiquées dans la déclaration mentionnée au 1 :\
-   a) Les opérations mentionnées aux 2° à 4° du II de l'article 286 ter A ;\
-   b) Les opérations soumises au régime particulier prévu à l'article 298 sexdecies G.
+6. Par dérogation aux 2 et 5, ne sont pas indiquées dans la déclaration mentionnée au 1 :
 
-1. Pour chacun de ses membres constitués en secteur d'activité, l'assujetti unique communique les informations figurant sur la déclaration mentionnée au 1 ainsi que des informations sur les opérations réalisées à destination des autres membres, selon des modalités fixées par arrêté du ministre chargé du budget.
+a) Les opérations mentionnées aux 2° à 4° du II de l'article 286 ter A ;
+
+b) Les opérations soumises au régime particulier prévu à l'article 298 sexdecies G ;
+
+c) Les livraisons de biens et les prestations de services couvertes par les franchises prévues aux articles 293 B et 293 B bis. Toutefois, le présent c ne s'applique pas lorsque l'assujetti relevant de l'une des franchises prévues à l'article 293 B bis ne remplit pas, dans l'Etat membre d'établissement, tout ou partie des obligations prévues par les dispositions transposant, dans cet Etat membre, les 1 et 2 de l'article 284 ter de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+
+7. Pour chacun de ses membres constitués en secteur d'activité, l'assujetti unique communique les informations figurant sur la déclaration mentionnée au 1 ainsi que des informations sur les opérations réalisées à destination des autres membres, selon des modalités fixées par arrêté du ministre chargé du budget.
 
 NOTA:
-Conformément au III de l’article 162 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2022.
-
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

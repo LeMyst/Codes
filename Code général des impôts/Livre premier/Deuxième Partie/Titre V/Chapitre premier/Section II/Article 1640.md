@@ -8,7 +8,7 @@ II. – A défaut de délibérations prises dans les conditions prévues au I du
 
 a) Pour leur durée et leur quotité lorsqu'elles sont prises en application des articles 1382 C bis, 1382 D, 1383, 1383-0 B, 1383-0 B bis, 1383 C ter, 1383 D, 1383 E, 1383 F, 1383 İ, 1383 J et 1383 K du IV de l'article 1384 A, du premier alinéa de l'article 1384 B, du III de l'article 1384 C, des articles 1384 E, 1384 F, 1388 ter, 1388 sexies, 1388 octies, 1394 D, 1395 A, 1395 A bis, 1395 G, 1396 bis, 1464 B, 1464 D, 1465 et 1465 B, des I, I quinquies B, et I septies de l'article 1466 A ainsi que des articles 1466 D, 1466 F, 1478 bis et 1647-00 bis et que ces dispositions sont en cours d'application ou sont applicables pour la première fois l'année où la création prend fiscalement effet ;
 
-b) Pour l'année où la création de la commune nouvelle prend fiscalement effet lorsqu'elles sont prises en application des articles 1382 B, 1382 C, 1382 E, 1382 G, 1382 H, 1382 İ, 1383 E bis, 1383 G, 1383 G bis et 1383 G ter, du troisième alinéa de l'article 1384 B, des articles 1388 quinquies, 1388 quinquies B, 1388 quinquies C, 1394 C, 1395 A ter, 1396,1407,1407 bis, 1407 ter, du 3° de l'article 1459 ainsi que des articles 1464,1464 A, 1464 F, 1464 G, 1464 H, 1464 İ, 1464 M, 1469 A quater, 1518 A, 1518 A ter, 1518 A quater et 1647 D ;
+b) Pour l'année où la création de la commune nouvelle prend fiscalement effet lorsqu'elles sont prises en application des articles 1382 B, 1382 C, 1382 E, 1382 G, 1382 H, 1383 E bis, 1383 G, 1383 G bis et 1383 G ter, du troisième alinéa de l'article 1384 B, des articles 1388 quinquies, 1388 quinquies B, 1388 quinquies C, 1394 C, 1395 A ter, 1396,1407,1407 bis, 1407 ter, du 3° de l'article 1459 ainsi que des articles 1464,1464 A, 1464 F, 1464 H, 1464 İ, 1464 M, 1469 A quater, 1518 A, 1518 A ter, 1518 A quater et 1647 D ;
 
 2° Les délibérations prises par l'établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C et participant à la création de la commune nouvelle en application du I de l'article L. 2113-5 du code général des collectivités territoriales sont maintenues dans les conditions suivantes :
 
@@ -25,4 +25,4 @@ IV.– A.-La commune nouvelle ou, par des délibérations de principe concordant
 B.-A défaut de délibérations prises dans les conditions prévues au A du présent IV, les délibérations adoptées antérieurement par les communes et, le cas échéant, par l'établissement public de coopération intercommunale participant à la création de la commune sont maintenues pour l'année où la création de la commune prend fiscalement effet.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

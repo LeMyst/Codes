@@ -22,7 +22,7 @@ Pour l'appréciation du caractère annexé des surfaces de stationnement mention
 
 V. - Sont exonérés de la taxe :
 
-1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement situés dans une zone franche urbaine-territoire entrepreneur définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, de même que ceux situés dans une zone de revitalisation des centres-villes définie au II de l'article 1464 F du présent code, dans une zone de revitalisation des commerces en milieu rural définie au III de l'article 1464 G ou dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
+1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement situés dans une zone franche urbaine-territoire entrepreneur définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, de même que ceux situés dans une zone de revitalisation des centres-villes définie au II de l'article 1464 F du présent code ou dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux associations, reconnues d'utilité publique, dans lesquels elles exercent leur activité ;
 
@@ -65,4 +65,12 @@ IX. - La taxe est acquittée lors du dépôt de la déclaration. Elle est recouv
 X. - Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
 
 NOTA:
+Conformément au II de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent à compter des impositions établies au titre de l'année 2023.
+
+Conformément au III de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, par dérogation au VIII du présent article, pour les impositions dues au titre de 2023, la déclaration, accompagnée du paiement de la taxe, est déposée avant le 1er juillet 2023.
+
+Conformément au IV de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, le dernier alinéa du VI du présent article ne s'applique pas aux impositions établies au titre de l'année 2023.
+
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, les modifications apportées par le 10° du I du même article s'appliquent aux impositions établies à compter de 2025.
+
 Modifications effectuées en conséquence de l'article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.

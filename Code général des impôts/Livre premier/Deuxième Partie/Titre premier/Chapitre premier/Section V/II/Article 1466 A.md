@@ -56,8 +56,6 @@ L'exonération porte, pendant cinq ans à compter de 2017 pour les établissemen
 
 A l'issue de la période d'exonération et au titre des trois années suivant l'expiration de celle-ci, la base nette imposable des établissements mentionnés au premier alinéa du présent I septies fait l'objet d'un abattement. Le montant de cet abattement est égal, la première année, à 60 % de la base exonérée de la dernière année d'application de l'exonération prévue au deuxième alinéa, à 40 % la deuxième année et à 20 % la troisième année. Cet abattement ne peut réduire la base d'imposition de l'année considérée de plus de 60 % de son montant la première année, 40 % la deuxième année et 20 % la troisième.
 
-Pour les établissements qui font l'objet d'une création, le bénéfice de l'exonération est subordonné à l'existence, au 1er janvier de l'année d'implantation, du contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 précitée.
-
 En cas de changement d'exploitant au cours de la période d'exonération, celle-ci est maintenue pour la période restant à courir et dans les conditions prévues pour le prédécesseur.
 
 L'exonération s'applique lorsque les conditions suivantes sont remplies :
@@ -74,7 +72,7 @@ Le bénéfice des exonérations est subordonné au respect du règlement (UE) n�
 
 II. – Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B, I sexies et I septies les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'exonération.
 
-Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D,1464 F, 1464 G, 1464 I, 1464 I bis, 1464 M, 1465, 1465 B, 1466 B, 1466 B bis, 1466 D ou 1466 G et de celles prévues aux I, I quinquies B ou I septies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
+Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D,1464 F, 1464 I, 1464 I bis, 1464 M, 1465, 1465 B, 1466 B, 1466 B bis, 1466 D ou 1466 G et de celles prévues aux I, I quinquies B ou I septies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
 
 Pour l'application des I, I quinquies A, I quinquies B, I sexies et I septies :
 
@@ -91,6 +89,6 @@ III. – (Abrogé)
 IV. – Les obligations déclaratives des personnes et organismes concernés par les exonérations prévues au présent article sont fixées par décret.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.
 
 Modifications effectuées en conséquence de l'article 108-I de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 49-I-2 de la loi n° 2014-1655 du 29 décembre 2014.

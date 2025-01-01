@@ -1,44 +1,32 @@
 # Article 293 B
 
-I. – Pour leurs livraisons de biens et leurs prestations de services, les assujettis établis en France, à l'exclusion des redevables qui exercent une activité occulte au sens du deuxième alinéa de l'article L. 169 du livre des procédures fiscales, bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée, lorsqu'ils n'ont pas réalisé :
+I.-Pour leurs livraisons de biens et leurs prestations de services, les assujettis établis en France bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé en France un chiffre d'affaires, évalué dans les conditions prévues à l'article 293 D, excédant les plafonds suivants :
 
-1° Un chiffre d'affaires supérieur à :
+(En euros.)
 
-a) 91 900 € l'année civile précédente ;
+| Année d'évaluation | Chiffre d'affaires national total | Chiffre d'affaires national afférent aux prestations de services autres que les ventes à consommer sur place et les prestations d'hébergement |
+| --- | --- | --- |
+| Année civile précédente | 85 000 | 37 500 |
+| Année en cours | 93 500 | 41 250 |
 
-b) Ou 101 000 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a ;
+II.-A.-Les avocats, les avocats au Conseil d'Etat et à la Cour de cassation, les auteurs d'œuvres de l'esprit et les artistes-interprètes assujettis et établis en France bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé en France un chiffre d'affaires, évalué dans les conditions prévues à l'article 293 D, excédant les plafonds suivants :
 
-2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, supérieur à :
+(En euros.)
 
-a) 36 800 € l'année civile précédente ;
+| Année d'évaluation | Chiffre d'affaires national afférent aux opérations mentionnées au B du présent II | Chiffre d'affaires national afférent aux opérations autres que celles mentionnées au B du présent II |
+| --- | --- | --- |
+| Année civile précédente | 50 000 | 35 000 |
+| Année en cours | 55 000 | 38 500 |
 
-b) Ou 39 100 € l'année civile précédente, lorsque la pénultième année il n'a pas excédé le montant mentionné au a.
+B.-Les opérations prises en compte pour les besoins des plafonds mentionnés à la deuxième colonne du tableau du second alinéa du A du présent II sont les suivantes :
 
-II. – 1. Le I cesse de s'appliquer :
+1° Les opérations réalisées par les avocats et les avocats au Conseil d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
 
-a) Aux assujettis dont le chiffre d'affaires de l'année en cours dépasse le montant mentionné au b du 1° du I ;
+2° Les livraisons par les auteurs d'œuvres de l'esprit, à l'exception des architectes, de leurs œuvres mentionnées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi ;
 
-b) Ou à ceux dont le chiffre d'affaires de l'année en cours afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, dépasse le montant mentionné au b du 2° du I.
+3° Les opérations relatives à l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes mentionnés à l'article L. 212-1 du même code.
 
-2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
-
-III. – Le chiffre d'affaires limite de la franchise prévue au I est fixé à 47 700 € :
-
-1. Pour les opérations réalisées par les avocats et les avocats au Conseil d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
-
-1. Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit, à l'exception des architectes ;
-
-1. Pour l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes visés à l'article L. 212-1 du code de la propriété intellectuelle.
-
-IV. – Pour leurs livraisons de biens et leurs prestations de services qui n'ont pas bénéficié de l'application de la franchise prévue au III, ces assujettis bénéficient également d'une franchise lorsque le chiffre d'affaires correspondant réalisé au cours de l'année civile précédente n'excède pas 19 600 €.
-
-Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires limite de la franchise afférente aux opérations mentionnées au 1, au 2 ou au 3 du III.
-
-V. – Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse respectivement 58 600 € et 23 700 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
-
-VI. – Les seuils mentionnés aux I à V sont actualisés tous les trois ans dans la même proportion que l'évolution triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus proche.
-
-VII – (Abrogé).
+III.-Lorsque l'un des plafonds de chiffre d'affaires prévus aux I ou II du présent article pour les opérations de l'année en cours est dépassé, la franchise cesse de s'appliquer pour les opérations intervenant à compter de la date de dépassement.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 20-XVII C de la loi n° 2013-1279 du 29 décembre 2013.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

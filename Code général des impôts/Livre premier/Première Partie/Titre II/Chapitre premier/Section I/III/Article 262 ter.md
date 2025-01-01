@@ -8,7 +8,7 @@ L'exonération ne s'applique pas lorsque le fournisseur n'a pas déposé l'état
 
 L'exonération ne s'applique pas lorsqu'il est démontré que le fournisseur savait ou ne pouvait ignorer que le destinataire présumé de l'expédition ou du transport n'avait pas d'activité réelle.
 
-L'exonération ne s'applique pas aux livraisons de biens effectuées par des assujettis visés à l'article 293 B et aux livraisons de biens, autres que des produits soumis à accise ou des moyens de transport neufs, expédiés ou transportés à destination des personnes mentionnées aux a, b et c du 2° du I de l'article 256 bis.
+L'exonération ne s'applique pas aux livraisons de biens effectuées par des assujettis relevant des articles 293 B ou 293 B bis et aux livraisons de biens, autres que des produits soumis à accise ou des moyens de transport neufs, expédiés ou transportés à destination des personnes mentionnées aux a, b et c du 2° du I de l'article 256 bis.
 
 L'exonération ne s'applique pas aux livraisons de biens d'occasion, d'oeuvres d'art, d'objets de collection ou d'antiquité effectuées par des assujettis revendeurs qui appliquent les dispositions de l'article 297 A.
 
@@ -33,4 +33,4 @@ II. – Sont également exonérées de la taxe sur la valeur ajoutée les acquis
 III.-Sont exonérées de la taxe sur la valeur ajoutée les livraisons de biens à destination des assujettis mentionnés au b du 2° du V de l'article 256.
 
 NOTA:
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

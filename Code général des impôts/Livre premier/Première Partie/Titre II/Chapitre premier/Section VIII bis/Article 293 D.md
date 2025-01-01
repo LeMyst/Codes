@@ -1,11 +1,26 @@
 # Article 293 D
 
-I. - Les chiffres d'affaires mentionnés aux I et IV de l'article 293 B sont constitués par le montant hors taxe sur la valeur ajoutée des livraisons de biens et des prestations de services effectuées au cours de la période de référence, à l'exception des opérations exonérées et des cessions de biens d'investissement corporels ou incorporels mais y compris les opérations immobilières, bancaires, financières et des assurances qui n'ont pas le caractère d'opérations accessoires et les opérations visées au I et aux 1° à 7°, 12° et 14° du II de l'article 262 et à l'article 263.
+I.-A.-Le chiffre d'affaires réalisé en France qui sert de référence pour l'application de la franchise prévue aux articles 293 B et 293 B bis est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées en France.
 
-II. - Les chiffres d'affaires mentionnés au III de l'article 293 B sont constitués par le montant hors taxe sur la valeur ajoutée, réalisé au cours de la période de référence :
+B.-Le chiffre d'affaires mentionné au A du présent I est constitué des montants hors taxes suivants :
 
-1° Des prestations de services relevant de l'activité réglementée de chacune des professions citées au 1 du III de l'article 293 B ;
+1° Le montant des livraisons de biens et des prestations de services, dans la mesure où elles seraient taxées si elles étaient effectuées par un assujetti ne bénéficiant pas de la franchise ;
 
-2° Des livraisons et des cessions de droits visées au 2 du III de l'article 293 B.
+2° Le montant des opérations exonérées avec droit à déduction en application des 8° à 10° du II de l'article 262 et de l'article 298 undecies ;
 
-III. - Pour l'application des dispositions prévues à l'article 293 B, les limites mentionnées au I, au III et au IV du même article sont ajustées au prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pendant l'année de référence.
+3° Le montant des opérations exonérées en application du I et des 1° à 7°, 12° et 14° du II de l'article 262 et des articles 262-00 bis et 263 ;
+
+4° Le montant des opérations exonérées en application des 1° et 3° du I de l'article 262 ter ;
+
+5° Le montant des opérations immobilières, ainsi que des opérations financières, d'assurance et de réassurance mentionnées aux 1° et 2° de l'article 261 C qui n'ont pas le caractère d'opérations accessoires.
+
+Les cessions de biens d'investissement corporels ou incorporels de l'assujetti ne sont pas prises en considération pour la détermination du chiffre d'affaires.
+
+II.-A.-Le chiffre d'affaires annuel réalisé dans l'Union européenne qui sert de référence pour l'application des articles 293 B bis et 293 B ter est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées sur le territoire de l'Union européenne.
+
+B.-Les chiffres d'affaires réalisés dans les autres Etats membres de l'Union européenne entrant dans la composition du chiffre d'affaires annuel dans l'Union européenne sont déterminés en application des dispositions transposant dans ces Etats l'article 288 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+
+III.-Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I et au A du II de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
+
+NOTA:
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

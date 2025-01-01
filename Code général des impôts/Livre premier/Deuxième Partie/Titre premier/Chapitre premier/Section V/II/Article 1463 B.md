@@ -10,11 +10,11 @@ II.-Pour bénéficier de l'exonération, les entreprises en adressent la demande
 
 L'exonération porte sur les éléments déclarés dans les délais prévus audit article 1477.
 
-Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1463 A, 1464 A, 1464 B, 1464 D, 1464 F, 1464 G, 1464 I, 1464 M, 1465, 1465 B, 1466 D ou 1466 G et de celles prévues au I du présent article, le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option, qui est irrévocable, est exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
+Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1463 A, 1464 A, 1464 B, 1464 D, 1464 F, 1464 I, 1464 M, 1465, 1465 B, 1466 D ou 1466 G et de celles prévues au I du présent article, le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option, qui est irrévocable, est exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
 
 III.-Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 En dehors des zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 17 du même règlement.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

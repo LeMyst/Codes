@@ -1,6 +1,6 @@
 # Article 293 C
 
-La franchise mentionnée aux I et IV de l'article 293 B n'est pas applicable :
+La franchise mentionnée aux articles 293 B et 293 B bis n'est pas applicable :
 
 1° Aux opérations visées au I de l'article 257 ;
 
@@ -11,4 +11,4 @@ La franchise mentionnée aux I et IV de l'article 293 B n'est pas applicable :
 4° Aux livraisons de moyens de transport neufs effectuées dans les conditions prévues à l'article 298 sexies.
 
 NOTA:
-Loi n° 2008-776 du 4 août 2008 article 2 VII : Les I à VI s'appliquent aux chiffres d'affaires réalisés à compter du 1er janvier 2009.
+Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

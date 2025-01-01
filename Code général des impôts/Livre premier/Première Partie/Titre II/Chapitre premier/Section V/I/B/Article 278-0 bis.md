@@ -64,19 +64,11 @@ G. – Les droits d'entrée dans les salles de spectacles cinématographiques, q
 
 H. – Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article L. 214-1 du code du cinéma et de l'image animée ou dans le cadre de festivals de cinéma ;
 
-I. – 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un autre Etat membre de l'Union européenne ;
-
-2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un autre Etat membre par d'autres assujettis que des assujettis revendeurs ;
-
-3° Les livraisons d'œuvres d'art effectuées par leur auteur ou ses ayants droit ;
+I.-Les livraisons d'œuvres d'art ou d'objets de collection ou d'antiquité au sens du second alinéa du 1° du I de l'article 297 A, sauf lorsque la base d'imposition est déterminée dans les conditions prévues au même article 297 A ;
 
 J. – Les droits d'entrée perçus par les organisateurs de réunions sportives ;
 
 K. – Les autotests de détection de l'infection par les virus de l'immunodéficience humaine ;
-
-K bis. – Les masques et les tenues de protection adaptés à la lutte contre la propagation du virus covid-19 dont la liste et les caractéristiques techniques sont fixées par arrêté conjoint des ministres chargés de la santé et du budget ;
-
-K ter. – Les produits destinés à l’hygiène corporelle et adaptés à la lutte contre la propagation du virus covid-19 dont les caractéristiques sont fixées par arrêté conjoint des ministres chargés du budget et de l’environnement ;
 
 L. – Les droits d'entrée pour la visite d'un parc zoologique répondant aux conditions fixées par arrêté des ministres compétents ;
 
@@ -93,6 +85,4 @@ N.-Les prestations de pose, d'installation et d'entretien d'infrastructures de r
 O.-L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui-ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-Conformément au II de l'article 87 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions sont applicables aux prestations de services dont le fait générateur intervient à compter du 1er janvier 2024.
+Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

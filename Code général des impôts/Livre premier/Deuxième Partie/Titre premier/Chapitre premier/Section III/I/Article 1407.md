@@ -20,7 +20,7 @@ II. – Ne sont pas imposables à la taxe :
 
 5° Les locaux affectés au logement des étudiants dans les résidences universitaires lorsque la gestion de ces locaux est assurée par un centre régional des œuvres universitaires et scolaires ou par un organisme en subordonnant la disposition à des conditions financières et d'occupation analogues. Un décret fixe les justifications à produire par ces organismes.
 
-III. – Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les communes peuvent, par une délibération de portée générale prise dans les conditions prévues au I de l'article 1639 A bis, exonérer :
+III. – Dans les zones France ruralités revitalisation mentionnées aux II et III de l'article 44 quindecies A, les communes peuvent, par une délibération de portée générale prise dans les conditions prévues au I de l'article 1639 A bis, exonérer :
 
 1° (abrogé) ;
 
@@ -33,4 +33,4 @@ La délibération prise par la commune produit ses effets pour la détermination
 Pour bénéficier de cette exonération, le redevable de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale adresse au service des impôts du lieu de situation du bien, avant le 1er janvier de chaque année au titre de laquelle l'exonération est applicable, une déclaration accompagnée de tous les éléments justifiant de l'affectation des locaux.
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

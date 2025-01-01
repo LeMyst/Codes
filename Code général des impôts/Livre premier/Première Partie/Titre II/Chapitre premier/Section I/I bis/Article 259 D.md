@@ -14,5 +14,7 @@ Lorsque, au cours d'une année civile, le seuil mentionné au premier alinéa du
 
 2. Toutefois, cet assujetti peut opter pour que le lieu de ces prestations fournies à des personnes non assujetties se situe dans l'Etat membre où ces personnes sont établies, ont leur domicile ou leur résidence habituelle et que le lieu des ventes à distance intracommunautaires de biens soit situé dans l'Etat membre à destination duquel les biens sont expédiés ou transportés. Cette option couvre une période de deux années civiles et est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période.
 
+III. - Le lieu des prestations de services fournies à une personne non assujettie qui est établie, a son domicile ou sa résidence habituelle en France, ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités, est situé en France lorsque ces prestations se rapportent à des activités diffusées ou mises à disposition virtuellement.
+
 NOTA:
-Conformément au A du IV de l’article 147 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er janvier 2021. Le III de l'article 51 de la loi n° 2020-1721 du 29 décembre 2020 à modifié cette date : 1er juillet 2021.
+Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

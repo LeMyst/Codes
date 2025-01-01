@@ -1,6 +1,6 @@
 # Article 1382-0
 
-I.-Pour chaque commune, le taux de chacune des exonérations de taxe foncière sur les propriétés bâties prévues aux articles 1382 B, 1382 C, 1382 C bis, 1382 D, 1382 E, 1382 G, 1382 H, 1382 İ, 1383-0 B, 1383-0 B bis, 1383 C ter, 1383 D, 1383 E, 1383 E bis, 1383 F, 1383 G, 1383 G bis, 1383 G ter, 1383 H, 1383 İ et 1383 J, au IV de l'article 1384 A, aux premier et quatrième alinéas de l'article 1384 B, au III de l'article 1384 C ainsi qu'aux articles 1384 E, 1384 F, 1586 A et 1586 B dans leur version en vigueur au 31 décembre 2020, est égal au rapport entre :
+I.-Pour chaque commune, le taux de chacune des exonérations de taxe foncière sur les propriétés bâties prévues aux articles 1382 B, 1382 C, 1382 C bis, 1382 D, 1382 E, 1382 G, 1382 H, 1383-0 B, 1383-0 B bis, 1383 C ter, 1383 D, 1383 E, 1383 E bis, 1383 F, 1383 G, 1383 G bis, 1383 G ter, 1383 H, 1383 İ et 1383 J, au IV de l'article 1384 A, aux premier et quatrième alinéas de l'article 1384 B, au III de l'article 1384 C ainsi qu'aux articles 1384 E, 1384 F, 1586 A et 1586 B dans leur version en vigueur au 31 décembre 2020, est égal au rapport entre :
 
 1° D'une part, la somme des produits, calculés respectivement pour la commune et le département, du taux d'exonération par le taux d'imposition appliqués en 2020 sur le territoire de la commune ;
 
@@ -19,4 +19,4 @@ Toutefois, en cas d'application du premier alinéa du présent III, les exonéra
 IV.-Les I et II ne s'appliquent pas pour l'établissement des bases d'imposition aux taxes prévues aux articles 1520 et 1530.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 121-I-2° de la loi n° 2019-1479 du 28 décembre 2019.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

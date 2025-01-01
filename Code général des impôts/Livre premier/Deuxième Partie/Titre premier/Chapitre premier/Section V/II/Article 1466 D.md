@@ -8,7 +8,7 @@ Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n�
 
 Pour bénéficier de l'exonération, les contribuables doivent en faire la demande dans les délais prévus à l'article 1477. Cette demande doit être adressée, pour chaque établissement exonéré, au service des impôts dont relève l'établissement. Les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'exonération.
 
-Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 B, 1464 D,1464 F, 1464 G, 1465, 1465 B, 1466 A, 1466 B et 1466 G et celles du présent article, le contribuable doit préciser le régime sous lequel il entend se placer. Ce choix, qui est irrévocable, doit être exercé dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de la cotisation foncière des entreprises visées à l'article 1477.
+Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 B, 1464 D,1464 F, 1465, 1465 B, 1466 A, 1466 B et 1466 G et celles du présent article, le contribuable doit préciser le régime sous lequel il entend se placer. Ce choix, qui est irrévocable, doit être exercé dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de la cotisation foncière des entreprises visées à l'article 1477.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

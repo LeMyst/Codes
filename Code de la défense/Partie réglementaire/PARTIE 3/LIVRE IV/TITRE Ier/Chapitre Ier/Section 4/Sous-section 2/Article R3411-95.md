@@ -30,7 +30,7 @@ b) Le président du conseil régional de Bretagne ou son représentant ;
 
 c) Le directeur général de l'Ecole nationale supérieure maritime ou son représentant ;
 
-d) Le directeur de l'Ecole nationale supérieure de techniques avancées Bretagne ou son représentant ;
+d) Le directeur de l'Ecole nationale supérieure de techniques avancées ou son représentant ;
 
 4° Neuf membres représentant le personnel et les usagers de l'école :
 
@@ -41,3 +41,6 @@ b) Un représentant, au sens de l'article D. 4121-3-1, de chaque catégorie du p
 c) Deux représentants des élèves des promotions admises à l'école ;
 
 d) Un représentant des étudiants.
+
+NOTA:
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

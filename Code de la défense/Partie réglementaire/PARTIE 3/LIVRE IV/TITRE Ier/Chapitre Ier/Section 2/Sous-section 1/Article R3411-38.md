@@ -12,9 +12,11 @@ Un membre du conseil d'administration empêché d'assister à une séance peut d
 
 Les décisions sont prises à la majorité des voix des personnes présentes et représentées ; en cas de partage égal des voix, celle du président est prépondérante. Le vote a lieu au scrutin secret, sur demande d'un ou de plusieurs membres du conseil.
 
-Les membres du conseil d'administration peuvent être consultés par le président, par voie électronique entre deux réunions programmées du conseil, pour toute question urgente. Les décisions sont prises dans les mêmes conditions de quorum et de majorité que celles prévues par le présent article. Il est rendu compte aux membres de la décision prise dès le prochain conseil d'administration.
+Le président peut décider de recourir aux formes de délibérations collégiales à distance prévues par l'ordonnance n° 2014-1329 du 6 novembre 2014 relative aux délibérations à distance des instances administratives à caractère collégial et le décret n° 2014-1627 du 26 décembre 2014 relatif aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial.
 
-En matière budgétaire, le conseil d'administration délibère dans les conditions prévues aux articles R. 719-64 à R. 719-72 du code de l'éducation.
+Il peut décider de recourir à une procédure exceptionnelle de consultation écrite lorsqu'il est nécessaire que le conseil d'administration délibère dans les délais les plus brefs. Les décisions sont prises dans les mêmes conditions de quorum et de majorité que celles prévues par le présent article. Il est rendu compte aux membres de la décision prise dans les meilleurs délais et au plus tard lors du conseil d'administration suivant.
+
+En matière budgétaire, le conseil d'administration délibère dans les conditions prévues aux articles R. 719-64 à R. 719-72 du code de l'éducation .
 
 NOTA:
-Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

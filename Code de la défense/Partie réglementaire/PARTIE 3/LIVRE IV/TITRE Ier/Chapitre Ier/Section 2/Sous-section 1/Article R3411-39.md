@@ -6,7 +6,7 @@ Il est choisi, après appel public à candidatures, parmi les personnalités jus
 
 Le directeur général dirige l'école dans le cadre des orientations définies par le conseil d'administration. Il rend compte chaque année de sa gestion à ce conseil. Il exerce les compétences qui ne sont pas attribuées à une autre autorité par la présente section.
 
-Il exerce notamment les compétences suivantes :
+Outre celles qui lui ont été déléguées par le conseil d'administration, le directeur général exerce notamment les compétences suivantes :
 
 1° Il représente l'école en justice et dans les actes de la vie civile ;
 
@@ -24,7 +24,9 @@ Il exerce notamment les compétences suivantes :
 
 8° Il nomme et affecte à tous les emplois et toutes les fonctions pour lesquels aucune autre autorité n'a reçu pouvoir de nomination.
 
+9° Il assure la gestion du domaine immobilier qui est confié en gestion par l'Etat à l'école par voie de convention d'utilisation ou dont elle est propriétaire, accorde les titres d'occupation correspondants, non constitutifs de droits réels, en fixe les conditions financières selon les modalités définies par le code général de la propriété des personnes publiques.
+
 En outre, le directeur général ou son représentant préside le conseil de la formation et le conseil de la recherche.
 
 NOTA:
-Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

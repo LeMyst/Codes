@@ -14,11 +14,13 @@ Il délibère notamment sur :
 
 5° Les acquisitions, les aliénations et les échanges d'immeubles ;
 
-6° La conclusion d'emprunts, dans le respect des dispositions de l'article 12 de la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 ;
+6° La conclusion d'emprunts ;
 
 7° L'acceptation ou le refus des dons et legs ;
 
 8° Les baux et locations d'immeubles ;
+
+8° bis Les occupations, sur le domaine immobilier qui lui est confié en gestion par l'Etat par voie de convention d'utilisation ou dont elle est propriétaire, pour une durée supérieure à cinq ans ou constitutives de droits réels ;
 
 9° La création de filiales et les prises, cessions ou extensions de participations financières ;
 
@@ -26,11 +28,11 @@ Il délibère notamment sur :
 
 11° La participation à des organismes dotés de la personnalité morale ;
 
-12° Les actions en justice et les transactions.
+12° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers .
 
 Il approuve :
 
-1° Le règlement intérieur de l'établissement ;
+1° Le règlement intérieur de l'établissement précisant notamment l'organisation et le fonctionnement des sites de l'école ;
 
 2° Le règlement de scolarité de chaque formation de l'établissement ;
 
@@ -48,9 +50,9 @@ En outre, le conseil d'administration peut être appelé à émettre des avis et
 
 Le conseil, sur la proposition de son président, peut créer toute commission ou groupe de travail qu'il estime utile.
 
-Le conseil d'administration peut déléguer au directeur général de l'école, dans les conditions et limites qu'il détermine, le pouvoir d'adopter les décisions modificatives du budget ainsi que la possibilité de conclure des emprunts, de procéder à des acquisitions, aliénations ou échanges d'immeubles, de conclure des baux et locations d'immeubles, d'ester en justice, de conclure des transactions, de déterminer les tarifications des prestations et services rendus par l'école, d'adhérer à des organismes dotés de la personnalité morale et d'accepter ou de refuser des dons et legs.
+Le conseil d'administration peut déléguer au directeur général de l'école, dans les conditions et limites qu'il détermine, le pouvoir d'adopter les décisions modificatives du budget ainsi que la possibilité de conclure des emprunts, de procéder à des acquisitions, aliénations ou échanges d'immeubles, de conclure des baux et locations d'immeubles, d'ester en justice, de conclure des transactions, de déterminer les tarifications des prestations et services rendus par l'école, d'adhérer à des organismes dotés de la personnalité morale, d'accorder toute remise gracieuse totale ou partielle de sa dette à un débiteur de l'établissement et d'accepter ou de refuser des dons et legs.
 
 Le directeur général rend compte, lors de la prochaine réunion du conseil d'administration, des décisions prises en vertu de ces délégations.
 
 NOTA:
-Conformément à l’article 13 du décret n° 2021-1421 du 29 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

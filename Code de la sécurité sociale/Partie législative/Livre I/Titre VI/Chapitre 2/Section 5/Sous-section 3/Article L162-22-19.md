@@ -8,7 +8,7 @@ I.-Les activités mentionnées au 2° de l'article L. 162-22 exercées par les �
 
 3° La dotation prévue à l'article L. 162-23-15, lorsque l'établissement atteint des résultats évalués à l'aide d'indicateurs liés à la qualité et la sécurité des soins, mesurés tous les ans par établissement ;
 
-4° Le cas échéant, des crédits issus de la dotation mentionnée à l'article L. 162-22-13 pour le financement des activités de recherche en psychiatrie.
+4° Le cas échéant, des crédits issus de la dotation mentionnée au 1° de l'article L. 162-22-5 pour le financement des activités de recherche en psychiatrie.
 
 II.-Le montant de ces dotations est fixé annuellement par l'Etat pour chaque établissement. Ce montant est établi :
 
@@ -18,9 +18,9 @@ II.-Le montant de ces dotations est fixé annuellement par l'Etat pour chaque é
 
 3° Pour la dotation mentionnée au 3° dudit I, selon des modalités de calcul fixées par arrêté dans les conditions prévues à l'article L. 162-23-15 ;
 
-4° Pour la dotation mentionnée au 4° du même I, dans les conditions prévues à l'article L. 162-22-14.
+4° Pour la dotation mentionnée au 4° du même I, dans les conditions prévues à l'article L. 162-22-5.
 
 Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au 6° du A du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

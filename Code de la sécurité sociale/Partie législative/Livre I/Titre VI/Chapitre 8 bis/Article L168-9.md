@@ -6,4 +6,9 @@ Ce montant peut être modulé selon des modalités fixées par décret lorsque l
 
 Le nombre d'allocations journalières versées au bénéficiaire au cours d'un mois civil ne peut être supérieur à un nombre maximal fixé par décret.
 
-Le nombre maximal d'allocations journalières versées à un bénéficiaire pour l'ensemble de sa carrière est égal à soixante-six.
+L'allocation est versée dans la limite d'une durée maximale fixée par décret, qui peut être renouvelée, selon des modalités fixées par décret, lorsque le bénéfice du congé de proche aidant est ouvert au titre de différentes personnes aidées, sans pouvoir excéder la durée maximale mentionnée à l'article L. 3142-19 du code du travail.
+
+NOTA:
+Conformément au II de l'article 80 de la loi n° 2023-1250 du 26 décembre 2023, ces disposittions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.
+
+Conformément à l'article 3 du décret n° 2024-697 du 5 juillet 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

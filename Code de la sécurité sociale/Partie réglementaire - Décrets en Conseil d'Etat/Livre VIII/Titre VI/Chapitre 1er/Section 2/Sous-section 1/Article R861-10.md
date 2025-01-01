@@ -12,19 +12,19 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 5° L'allocation forfaitaire versée en cas de décès d'un enfant, mentionnée à l'article L. 545-1 du présent code ;
 
-6° Les indemnités complémentaires et allocations de remplacement instituées par les articles L. 613-19-1, L. 613-19-2, L. 722-8-1 et L. 722-8-3 et par les articles L. 732-10 à L. 732-12-1 du code rural et de la pêche maritime ;
+6° Les indemnités et allocations accordées en cas de remplacement prévues par l'article L. 663-1 du présent code et par les articles L. 732-10 à L. 732-12-2 du code rural et de la pêche maritime ;
 
-7° L'indemnité en capital attribuée à la victime d'un accident du travail prévue à l'article L. 434-1 ;
+7° L'indemnité en capital attribuée à la victime d'un accident du travail prévue à l'article L. 434-1 du présent code ;
 
-8° La prime de rééducation et le prêt d'honneur mentionnés à l'article R. 432-10 et à l'article L. 751-8 du code rural et de la pêche maritime et à l'article R. 751-40 du code rural et de la pêche maritime ;
+8° La prime de rééducation et le prêt d'honneur mentionnés à l'article R. 432-10 du présent code et aux articles L. 751-8 et R. 751-40 du code rural et de la pêche maritime ;
 
 9° La prestation d'accueil du jeune enfant mentionnée aux articles L. 531-1 et L. 755-19, à l'exception de la prestation partagée d'éducation de l'enfant ;
 
 10° Les aides et secours financiers versés par des organismes à vocation sociale dont le montant ou la périodicité n'ont pas de caractère régulier ainsi que les aides et secours affectés à des dépenses concourant à l'insertion du bénéficiaire et de sa famille notamment dans les domaines du logement, des transports, de l'éducation et de la formation ;
 
-11° Les bourses d'études des enfants mentionnés à l'article R. 861-2 accordées sous condition de ressources ;
+11° Les bourses d'études et les bourses visant à favoriser la diversité dans la fonction publique ;
 
-12° Les frais funéraires mentionnés à l'article L. 435-1 et aux articles L. 751-8 et L. 752-3 du code rural et de la pêche maritime ;
+12° Les frais funéraires mentionnés à l'article L. 435-1 du présent code et aux articles L. 751-8 et L. 752-3 du code rural et de la pêche maritime ;
 
 13° Le capital-décès servi par un régime de sécurité sociale et les sommes versées en cas de décès en application des règles du régime d'assurance chômage ;
 
@@ -38,4 +38,19 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 18° L'allocation de reconnaissance prévue à l'article 6 de la loi n° 2005-158 du 23 février 2005 portant reconnaissance de la Nation et contribution nationale en faveur des Français rapatriés, et l'allocation viagère prévue à l'article 133 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016 ;
 
-19° L'allocation prévue à l'article L. 5131-6 du code du travail.
+19° L'allocation prévue à l'article L. 5131-6 du code du travail ;
+
+20° L'allocation journalière de présence parentale prévue à l'article L. 544-1 ;
+
+21° L'aide personnalisée de retour à l'emploi prévue à l'article L. 5133-8 du code du travail ;
+
+22° L'allocation journalière du proche aidant prévue à l'article L. 168-8 ;
+
+23° L'allocation journalière d'accompagnement d'une personne en fin de vie prévue à l'article L. 168-1 ;
+
+24° L'aide financière d'urgence versée à une personne victime de violences conjugales prévue à l'article L. 214-9 du code de l'action sociale et des familles ;
+
+25° Les indemnités destinées à l'entretien de l'enfant mentionnées à l'article L. 423-4 du code de l'action sociale et des familles.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2024-627 du 28 juin 2028, ces dispositions entrent en vigueur le 1er janvier 2025.

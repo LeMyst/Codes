@@ -1,6 +1,6 @@
 # Article L174-15
 
-Sont applicables aux activités mentionnées au 1° de l'article L. 162-22 exercées par le service de santé des armées les dispositions des articles L. 162-16-6, L. 162-21-1, L. 162-22-2, L. 162-22-3, L. 162-22-3-1, L. 162-22-3-2, L. 162-22-3-3, L. 162-22-5-1, L. 162-22-5-2, L. 167-22-7, L. 162-22-7-3, L. 162-22-8-2, L. 162-22-13, L. 162-22-14, L. 162-22-15 et L. 162-26.
+Sont applicables aux activités mentionnées au 1° de l'article L. 162-22 exercées par le service de santé des armées les dispositions des articles L. 162-16-6, L. 162-21-1, L. 162-22-2, L. 162-22-3, L. 162-22-3-1, L. 162-22-3-2, L. 162-22-3-3, L. 162-22-4, L. 162-22-5, L. 162-22-5-1, L. 162-22-5-2, L. 167-22-7, L. 162-22-7-3, L. 162-22-8-2, L. 162-22-15 et L. 162-26.
 
 Sont applicables aux activités mentionnées au 4° de l'article L. 162-22 exercées par le service de santé des armées les articles L. 162-23-1 à L. 162-23-11.
 
@@ -23,4 +23,4 @@ Les dépenses afférentes aux activités mentionnées au troisième alinéa sont
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article, notamment celles relatives aux compétences exercées par directeur général de l'agence régionale de santé.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au 6° du A du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

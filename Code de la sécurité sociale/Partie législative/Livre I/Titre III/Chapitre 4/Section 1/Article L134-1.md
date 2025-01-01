@@ -1,12 +1,14 @@
 # Article L134-1
 
-Il est institué une compensation entre les régimes obligatoires d'assurance vieillesse de base comportant un effectif minimal. Pour les besoins de cette compensation, sont distinguées au sein du régime général les personnes mentionnées aux articles L. 311-2, L. 311-3, L. 311-6, L. 381-1, L. 381-2, L. 382-1 et L. 382-31, d'une part, et les personnes mentionnées à l'article L. 611-1, d'autre part.
+Il est institué une compensation entre les régimes obligatoires d'assurance vieillesse de base comportant un effectif minimal. Pour les besoins de cette compensation, les personnes mentionnées à l'article L. 611-1 sont distinguées, au sein du régime général, des autres catégories d'affiliés à ce régime.
 
 La compensation tend à remédier aux inégalités provenant des déséquilibres démographiques et des disparités de capacités contributives entre les différents régimes au titre des droits propres. Toutefois, tant que les capacités contributives de l'ensemble des non-salariés ne pourront être définies dans les mêmes conditions que celles des salariés, la compensation entre l'ensemble des régimes de salariés et les régimes de non-salariés aura uniquement pour objet de remédier aux déséquilibres démographiques.
 
 La compensation prévue au présent article est calculée sur la base d'une prestation de référence et d'une cotisation moyenne ; elle est opérée après application des compensations existantes.
 
+Pour le calcul de cette compensation, le régime général en tant que régime d'affiliation des personnes autres que les personnes mentionnées à l'article L. 611-1 et les régimes spéciaux dont il assure l'équilibre financier en application du 3° de l'article L. 134-3 forment un ensemble unique. Les transferts relatifs à cet ensemble sont à la charge ou au bénéfice du seul régime général.
+
 Les soldes qui en résultent entre les divers régimes sont fixés par arrêtés interministériels, après consultation de la commission de compensation prévue à l'article L. 114-3.
 
 NOTA:
-Conformément au III de l’article 25 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur à des dates fixées par décret, et au plus tard le 1er septembre 2023.
+Conformément au deuxième alinéa du VIII de l’article 15 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

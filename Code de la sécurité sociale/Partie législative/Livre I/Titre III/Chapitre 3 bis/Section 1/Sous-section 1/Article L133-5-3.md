@@ -10,9 +10,11 @@ II.-La transmission de la déclaration sociale nominative permet aux employeurs 
 
 2° Les déclarations prévues aux articles 87 et 87-0 A du code général des impôts ;
 
-3° Toute autre déclaration portant sur les mêmes données que celles transmises au titre des déclarations mentionnées aux 1° et 2°, lorsque la déclaration sociale nominative permet de s'y substituer.
+3° Toute autre déclaration portant sur les mêmes données que celles transmises au titre des déclarations mentionnées aux 1° et 2°, lorsque la déclaration sociale nominative permet de s'y substituer ;
 
-II bis.-Tout organisme qui verse, à un titre autre qu'employeur, des sommes imposables ou soumises à cotisations ou contributions sociales ou qui verse des prestations sociales figurant sur une liste fixée par arrêté des ministres chargés de la sécurité sociale et du budget adresse mensuellement aux organismes mentionnés aux articles L. 213-1 ou, s'il en relève, L. 752-1 du présent code ainsi qu'à l'administration fiscale une déclaration sociale nominative comportant, pour chacune des personnes attributaires de ces sommes et prestations et après information de ces personnes, les informations relatives à ces versements. Cette déclaration est effectuée par voie électronique, selon des modalités fixées chaque année par arrêté des ministres chargés de la sécurité sociale et du budget.
+4° La déclaration prévue au 3 bis de l'article L. 262 du livre des procédures fiscales.
+
+II bis.-Tout organisme qui verse, à un titre autre qu'employeur, des sommes imposables ou soumises à cotisations ou contributions sociales ou qui verse des prestations sociales figurant sur une liste fixée par arrêté des ministres chargés de la sécurité sociale et du budget adresse mensuellement aux organismes mentionnés aux articles L. 213-1 ou, s'il en relève, L. 752-1 du présent code ainsi qu'aux organismes mentionnés aux articles L. 922-1 et L. 922-4 et à l'administration fiscale une déclaration sociale nominative comportant, pour chacune des personnes attributaires de ces sommes et prestations et après information de ces personnes, les informations relatives à ces versements. Cette déclaration est effectuée par voie électronique, selon des modalités fixées chaque année par arrêté des ministres chargés de la sécurité sociale et du budget.
 
 Les données de cette déclaration servent uniquement au recouvrement des cotisations sociales, des contributions sociales et de certaines impositions, à la vérification de leur montant, à l'ouverture et au calcul des droits des assurés en matière de prestations sociales ainsi qu'à l'accomplissement, par les administrations et organismes destinataires, de leurs missions.
 
@@ -29,4 +31,4 @@ III.-Les modalités d'application du présent article, la liste des déclaration
 Ce décret détermine les modalités particulières selon lesquelles sont remplies les obligations prévues aux I et II bis au titre des rémunérations dues à l'occasion des périodes de congés des salariés relevant des caisses mentionnées à l'article L. 3141-32 du code du travail. Il prévoit, le cas échéant, les modalités des échanges d'informations entre ces caisses et les employeurs de ces salariés permettant la transmission, par une déclaration unique, de l'ensemble des données dont la déclaration est obligatoire en application du présent article.
 
 NOTA:
-Conformément au VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au 2° du X de l'article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

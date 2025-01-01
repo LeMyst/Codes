@@ -38,11 +38,11 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 | Cotisations et contributions | Taux de répartition des montants de cotisations |
 | --- | --- |
-| Cotisation d'assurance maladie maternité | 3,60 % |
-| Cotisation d'assurance invalidité décès | 3,70 % |
-| Cotisations d'assurance vieillesse de base mentionnées aux I et II de l'article D. 633-3 du code de la sécurité sociale | 50,75 % |
-| Cotisation d'assurance vieillesse complémentaire | 7,85 % |
-| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 34,10 % |
+| Cotisation d'assurance maladie maternité | 3,40 % |
+| Cotisation d'assurance invalidité-décès | 3,50 % |
+| Cotisations d'assurance vieillesse de base mentionnées aux I et II de l'article D. 633-3 du code de la sécurité sociale | 47,60 % |
+| Cotisation d'assurance vieillesse complémentaire | 13,00 % |
+| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 32,50 % |
 
 NOTA:
-Conformément au 2° de l'article 2 du décret n° 2024-484 du 30 mai 2024, ces dispositions entrent en vigueur à compter du 1er juillet 2024.
+Conformément au 3° de l'article 2 du décret n° 2024-484 du 30 mai 2024, ces dispositions entrent en vigueur à compter du 1er janvier 2025.

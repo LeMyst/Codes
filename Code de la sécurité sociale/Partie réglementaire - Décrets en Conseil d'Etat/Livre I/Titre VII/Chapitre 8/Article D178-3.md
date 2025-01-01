@@ -1,4 +1,4 @@
-# Article R178-3
+# Article D178-3
 
 I.-Le concours mentionné au c du 3° de l'article L. 223-8 versé pour l'installation ou le fonctionnement des maisons départementales des personnes handicapées est composé, pour chaque département, d'une part forfaitaire et d'une part variable.
 
@@ -12,7 +12,7 @@ Pour laquelle :
 
 a) PFd représente la part forfaitaire perçue par chaque département ;
 
-b) Fx représente la dotation dont le montant, identique pour chaque département, est fixé par le conseil de la Caisse nationale de solidarité pour l'autonomie. Par dérogation, ledit conseil peut déterminer un montant propre à chacun des territoires exerçant la compétence prévue à l'article L. 146-3 du code de l'action sociale et des familles selon les modalités particulières mentionnées aux articles L. 146-12-1, L. 146-12-2 et L. 531-8 du même code ;
+b) Fx représente la dotation dont le montant, identique pour chaque département, est fixé par le conseil de la Caisse nationale de solidarité pour l'autonomie. Par dérogation, ledit conseil peut déterminer un montant propre à chacun des territoires exerçant la compétence prévue à l'article L. 146-3 du code de l'action sociale et des familles selon les modalités particulières mentionnées aux articles L. 146-12-1, L. 146-12-2, L. 531-8 et L. 582-2 du même code ;
 
 c) Fdd représente la dotation dont le montant est fixé par le conseil de la Caisse nationale de solidarité pour l'autonomie en fonction du groupe démographique auquel se rattache le département, en tenant compte de la population totale du département telle qu'elle figure dans les statistiques démographiques annuelles départementales produites par l'Institut national de la statistique et des études économiques disponibles au 1er janvier de l'année au titre de laquelle la dotation est déterminée. A cette fin, le conseil de la Caisse nationale de solidarité pour l'autonomie détermine annuellement les différents groupes démographiques et le montant correspondant pour chaque groupe ;
 
@@ -41,6 +41,3 @@ d) PAEEHd représente le nombre de personnes bénéficiaires, dans le départeme
 e) PPCHd représente le nombre de personnes bénéficiaires, dans le département, de la prestation de compensation mentionnée à l'article L. 245-1 du code de l'action sociale et des familles, constaté au 31 décembre de l'année précédente ;
 
 f) POMSd représente le nombre annuel de décisions relatives à l'orientation de la personne handicapée vers un établissement ou service relevant de l'article L. 312-1 du même code, prises par la commission des droits et de l'autonomie des personnes handicapées du département tel que prévu par le 1° du I de l'article L. 241-6 du même code, constaté au 31 décembre de l'année précédente.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2021-834 du 29 juin 2021 : Par dérogation aux dispositions de l'article 1er du présent décret, le montant du concours perçu par chaque département au titre de l'année 2021 en application desdites dispositions est supérieur de 10 % au moins à celui perçu au titre de l'année 2020.

@@ -18,7 +18,7 @@ Au plus tard quinze jours après la publication de l'arrêté mentionné à l'ar
 
 8° Une dotation d'accompagnement à la transformation déterminée dans les conditions fixées à l'article R. 162-31-4.
 
-Les dotations mentionnées aux 1° et 2° peuvent être réparties par catégories d'établissements mentionnées à l'article L. 162-22-6 dans des conditions arrêtées par les ministres chargés de la santé et de la sécurité sociale.
+Les dotations mentionnées aux 1° et 2° peuvent être réparties par catégories d'établissements mentionnées à l'article L. 162-22 dans des conditions arrêtées par les ministres chargés de la santé et de la sécurité sociale.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

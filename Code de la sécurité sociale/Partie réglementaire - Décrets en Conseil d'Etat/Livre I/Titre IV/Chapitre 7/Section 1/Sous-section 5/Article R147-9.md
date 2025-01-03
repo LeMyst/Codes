@@ -6,13 +6,13 @@ Peuvent faire l'objet d'une pénalité les établissements de santé :
 
 a) De facturation d'actes ou de prestations de soins de suite ou de réadaptation, de psychiatrie ou de soins de longue durée, non réalisés ;
 
-b) De facturation d'un acte, produit ou prestation déjà pris en charge par l'une des dotations mentionnées aux articles L. 174-1, L. 162-22-13 et L. 162-22-19 ou par le forfait annuel prévu à l'article L. 162-22-8 ;
+b) De facturation d'un acte, produit ou prestation déjà pris en charge par l'une des dotations mentionnées aux articles L. 174-1, L. 162-22-4, L. 162-22-5 et L. 162-22-19 ou par le forfait annuel prévu à l'article L. 162-22-5-2 ;
 
 2° N'ayant pas respecté les conditions de prise en charge des actes produits ou prestations soumis au remboursement en cas :
 
 a) De manquement aux règles de facturation et de cotation des actes et prestations de soins de suite ou de réadaptation, de psychiatrie ou de soins de longue durée ;
 
-b) D'inobservation des règles de prise en charge mentionnées à l'article L. 162-1-7, sous réserve des dispositions du premier alinéa de l'article L. 162-22-13 ;
+b) D'inobservation des règles de prise en charge mentionnées à l'article L. 162-1-7, à l'exception des actes, produits ou prestations déjà pris en charge par une des dotations mentionnées aux articles L. 162-22-4 et L. 162-22-5 ;
 
 3° Ayant empêché ou tenté d'empêcher l'exercice des activités de contrôle d'un organisme d'assurance maladie par le refus d'accès à une information, l'absence de réponse ou la réponse fausse, incomplète ou abusivement tardive à toute demande de pièce justificative, d'information, d'accès à une information, ou à une convocation, émanant d'un organisme local d'assurance maladie ou du service du contrôle médical, dès lors que la demande est nécessaire à l'exercice du contrôle, de l'enquête ou de la mise sous accord préalable prévus aux articles L. 315-1, L. 114-9 à L. 114-21 et L. 162-1-17 ;
 
@@ -21,4 +21,4 @@ b) D'inobservation des règles de prise en charge mentionnées à l'article L. 1
 5° Pour les faits mentionnés à l'article R. 147-8 du fait de leurs salariés.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

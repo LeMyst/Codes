@@ -20,7 +20,7 @@ Dans le délai de quinze jours suivant la publication de l'arrêté prévu au II
 
 La décision du directeur général de l'agence régionale de santé est motivée.
 
-Ce montant est corrigé, le cas échéant, à due concurrence des sommes perçues au titre des actes pratiqués par les professionnels médicaux employés par l'établissement, dans le cadre d'un groupement de coopération sanitaire, au profit d'un patient pris en charge par un établissement de santé privé mentionné aux d ou e de l'article L. 162-22-6 et facturés à ce dernier en application des dispositions de l'article L. 6133-6 du code de la santé publique.
+Ce montant est corrigé, le cas échéant, à due concurrence des sommes perçues au titre des actes pratiqués par les professionnels médicaux employés par l'établissement, dans le cadre d'un groupement de coopération sanitaire, au profit d'un patient pris en charge par un établissement de santé privé mentionné aux d ou e de l'article L. 162-22 et facturés à ce dernier en application des dispositions de l'article L. 6133-6 du code de la santé publique.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

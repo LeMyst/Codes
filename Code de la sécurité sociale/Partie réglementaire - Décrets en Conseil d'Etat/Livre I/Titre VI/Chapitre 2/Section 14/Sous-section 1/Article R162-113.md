@@ -14,4 +14,7 @@ II.-La prise en charge anticipée ne peut être accordée dans les cas suivants 
 
 3° Le dispositif médical numérique fait l'objet d'une décision de suspension ou d'interdiction prise en application de l'article L. 5312-1 du code de la santé publique.
 
-III.-Conformément au deuxième alinéa du III de l'article L. 162-1-23, la prise en charge anticipée pour l'indication considérée ne peut être cumulée avec un autre mode de prise en charge prévu aux articles L. 162-22-7, L. 162-52, L. 165-1, L. 165-1-1, L. 165-1-5 ou L. 165-11, ni avec une prise en charge financière au titre des prestations d'hospitalisation mentionnées à l'article L. 162-22-6.
+III.-Conformément au deuxième alinéa du III de l'article L. 162-1-23, la prise en charge anticipée pour l'indication considérée ne peut être cumulée avec un autre mode de prise en charge prévu aux articles L. 162-22-7, L. 162-52, L. 165-1, L. 165-1-1, L. 165-1-5 ou L. 165-11, ni avec une prise en charge financière au titre des prestations d'hospitalisation mentionnées à l'article L. 162-22-3.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

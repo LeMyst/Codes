@@ -6,7 +6,7 @@ Le conseil de l'organisme local nomme cinq représentants de chaque profession d
 
 En l'absence d'instance paritaire conventionnelle, les représentants des professions de santé, des laboratoires de biologie médicale, des centres de santé, des fournisseurs et des autres prestataires de services sont proposés par les organisations syndicales représentatives. Les sièges de représentants sont attribués aux organisations syndicales en fonction de leurs effectifs établis par la dernière enquête de représentativité mentionnée à l'article L. 162-33. A défaut de proposition dans le mois qui suit la demande adressée aux organisations syndicales représentatives par le conseil de l'organisme, le préfet arrête les noms de ces représentants.
 
-Le conseil de l'organisme local tel que défini à l'article R. 147-1 nomme cinq représentants des établissements de santé après avis du directeur général de l'agence régionale de santé parmi les représentants dans la région des organisations nationales représentatives des établissements publics de santé et des établissements de santé privés mentionnés aux b, c et d de l'article L. 162-22-6 sur proposition des organisations nationales représentatives de ces établissements.
+Le conseil de l'organisme local tel que défini à l'article R. 147-1 nomme cinq représentants des établissements de santé après avis du directeur général de l'agence régionale de santé parmi les représentants dans la région des organisations nationales représentatives des établissements publics de santé et des établissements de santé privés mentionnés aux b, c et d de l'article L. 162-22 sur proposition des organisations nationales représentatives de ces établissements.
 
 Le conseil de l'organisme local défini à l'article R. 147-1 nomme cinq représentants des établissements d'hébergement pour personnes âgées dépendantes mentionnés à l'article L. 342-1 du code de l'action sociale et des familles, après avis du directeur général de l'agence régionale de santé parmi les représentants dans la région des organisations nationales représentatives desdits établissements sur proposition de ces organisations.
 
@@ -33,3 +33,6 @@ Les membres de la commission sont soumis au secret des délibérations.
 II.-La commission mentionnée à l'article L. 114-17-2 constituée au sein de la caisse chargée de la prévention et de la tarification des accidents du travail et des maladies professionnelles compétente pour prononcer la pénalité est composée de deux représentants des assurés sociaux et de deux représentants des employeurs issus du conseil de cette caisse et désignés par les membres mentionnés aux deuxième et troisième alinéas de l'article L. 215-2 du présent code ou aux 2° et 3° de l'article L. 723-15 du code rural et de la pêche maritime.
 
 Les dispositions de l'article R. 114-12, à l'exception de son premier alinéa, sont applicables à cette commission.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

@@ -1,6 +1,6 @@
 # Article R162-27
 
-Les catégories de prestations pour exigences particulières du patient, sans fondement médical, mentionnées au IV de l'article L. 162-22-18 et au 2° des articles L. 162-22-6 et L. 162-23-1, qui donnent lieu à facturation sans prise en charge par les régimes obligatoires de sécurité sociale, en sus des prestations mentionnées au 1° des mêmes articles, sont les suivantes :
+Les catégories de prestations pour exigences particulières du patient, sans fondement médical, mentionnées au IV de l'article L. 162-22-18 et au 2° des articles L. 162-22-3 et L. 162-23-1, qui donnent lieu à facturation sans prise en charge par les régimes obligatoires de sécurité sociale, en sus des prestations mentionnées au 1° des mêmes articles, sont les suivantes :
 
 1° L'installation dans une chambre particulière, en l'absence de prescription médicale imposant l'isolement, en cas d'hospitalisation. Cette installation peut donner lieu à facturation pour chaque journée où le patient bénéficie de cette prestation, y compris le jour de sortie. Ce jour de sortie n'est toutefois pas facturé en cas de décès du patient au cours de son séjour à l'hôpital, ou lorsque le patient est transféré vers un autre établissement de santé. La facturation d'une chambre particulière est interdite pour chaque journée où le patient est pris en charge dans une unité de réanimation, de soins intensifs ou de surveillance continue ;
 
@@ -19,4 +19,4 @@ L'établissement doit informer le patient du prix de ces prestations, pour lesqu
 Les dispositions du présent article s'appliquent également aux établissements relevant des articles L. 162-22-16 et L. 174-1 du présent code.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2021-1855, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

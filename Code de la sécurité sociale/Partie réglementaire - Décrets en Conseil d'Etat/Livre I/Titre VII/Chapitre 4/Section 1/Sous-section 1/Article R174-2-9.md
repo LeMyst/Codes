@@ -24,7 +24,7 @@ d) Le cas échéant, la mention du décès ;
 
 a) Les consultations et actes externes mentionnés à l'article L. 162-26 ;
 
-b) Les prestations d'hospitalisation mentionnées à l'article L. 162-22-6 ;
+b) Les prestations d'hospitalisation mentionnées à l'article L. 162-22-3 ;
 
 c) Les spécialités pharmaceutiques et les produits et prestations mentionnés à l'article L. 162-22-7 ;
 
@@ -33,4 +33,4 @@ d) Les médicaments inscrits sur la liste prévue à l'article L. 5126-4 du code
 e) Les prestations aux bénéficiaires de l'aide médicale d'Etat mentionnées à l'article L. 162-22-11-1.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

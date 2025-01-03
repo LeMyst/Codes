@@ -1,6 +1,6 @@
 # Article R162-29
 
-Il est créé auprès de chaque agence régionale de santé, un comité consultatif d'allocation des ressources relatif aux activités d'urgence, de psychiatrie et de soins médicaux et de réadaptation des établissements de santé mentionnés à l'article L. 162-22-6.
+Il est créé auprès de chaque agence régionale de santé, un comité consultatif d'allocation des ressources relatif aux activités d'urgence, de psychiatrie et de soins médicaux et de réadaptation des établissements de santé mentionnés à l'article L. 162-22.
 
 Le comité est composé de trois sections :
 
@@ -21,3 +21,6 @@ Le comité est informé de l'allocation définitive des ressources par établiss
 Le directeur général de l'agence régionale de santé peut saisir le comité de toute question d'ordre général liée à l'allocation des ressources des activités mentionnées au présent article.
 
 L'agence régionale de santé assure le secrétariat du comité.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

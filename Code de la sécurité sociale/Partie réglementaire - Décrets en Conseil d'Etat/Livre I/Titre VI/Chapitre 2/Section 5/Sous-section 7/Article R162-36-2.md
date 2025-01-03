@@ -1,10 +1,10 @@
 # Article R162-36-2
 
-Le montant de la dotation complémentaire prévue par l'article L. 162-23-15 alloué à chaque établissement de santé est déterminé, dans des conditions fixées par arrêté des ministres chargés de la santé et de la sécurité sociale, en fonction :
+Le montant de la dotation complémentaire prévue par l'article L. 162-23-15 alloué à chaque établissement de santé est déterminé, dans des conditions fixées par arrêté des ministres chargés de la santé et de la sécurité sociale, pour l'année en cours, en fonction :
 
-1° Des résultats de l'établissement de santé pour chaque indicateur mentionné à l'article R. 162-36 ;
+1° Des résultats de l'établissement de santé pour chaque indicateur mentionné à l'article R. 162-36 au titre de l'année précédente ;
 
-2° De l'évolution des résultats obtenus par l'établissement de santé pour chaque indicateur mentionné à l'alinéa précédent mesuré au cours de l'année civile considérée comparativement aux dernières mesures disponibles ;
+2° De l'évolution des résultats obtenus par l'établissement de santé pour chaque indicateur mentionné au 1° comparativement aux dernières mesures disponibles ;
 
 3° De la distribution statistique des résultats observée pour le groupe de comparaison des établissements de santé considéré. Les groupes de comparaison sont déterminés par arrêté des ministres de la santé et de la sécurité sociale. ;
 
@@ -16,4 +16,4 @@ Le montant de la dotation complémentaire mentionnée à l'article L. 162-23-15 
 Lorsqu'un établissement de santé n'obtient pas un résultat suffisant à un indicateur de la catégorie mentionnée au 7° de l'article R. 162-36-1, le directeur général de l'agence régionale de santé conditionne le versement du montant de la dotation complémentaire qui doit lui être allouée au titre de l'ensemble des indicateurs à la production par l'établissement d'un plan d'actions assurant son engagement dans une démarche d'amélioration de ses résultats sur cet indicateur. Toutefois, le directeur général de l'agence régionale de santé peut estimer, par décision spécialement motivée, qu'il n'y a pas lieu de conditionner le versement de la dotation complémentaire, au regard de circonstances particulières propres à l'établissement concerné. L'arrêté des ministres en charge de la santé et de la sécurité sociale mentionné au I fixe les conditions et les modalités de mise en œuvre de ce versement.
 
 NOTA:
-Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

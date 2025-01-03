@@ -32,11 +32,11 @@ a) Date d'admission et durée du séjour ;
 
 b) Nature du risque au titre duquel les prestations correspondantes sont prises en charge, taux de remboursement appliqué et, s'il y a lieu, motif de la réduction ou de la suppression de la participation financière de l'assuré ;
 
-c) Pour les soins délivrés dans les établissements de santé visés aux a, b et c de l'article L. 162-22-6 :
+c) Pour les soins délivrés dans les établissements de santé visés aux a, b et c de l'article L. 162-22 :
 
 -indication du groupe générique servant de base à la facturation des frais d'hospitalisation suivant la classification mentionnée au 1° du même article, avec mention le cas échéant de la dénomination et du numéro de code des spécialités pharmaceutiques, produits et prestations facturés en sus des prestations d'hospitalisation en application de l'article L. 162-22-7 ;
 
-d) Pour les soins délivrés dans les établissements de santé mentionnés aux d et e de l'article L. 162-22-6, mention des éléments repris du bordereau de facturation mentionné au 11° de l'article R. 161-42, et concernant :
+d) Pour les soins délivrés dans les établissements de santé mentionnés aux d et e de l'article L. 162-22, mention des éléments repris du bordereau de facturation mentionné au 11° de l'article R. 161-42, et concernant :
 
 -l'intitulé du groupe générique servant de base à la facturation des prestations ;
 
@@ -73,3 +73,6 @@ a) Date à laquelle a été accordé le bénéfice de la limitation ou de la sup
 b) Libellé générique de la ou des affections, selon la liste établie en application de l'article L. 160-14 [3°] ou, pour les affections mentionnées à l'article L. 160-14 [4°], selon la codification internationale en vigueur ;
 
 c) Eléments du protocole de soins actualisé, établi en application de l'article L. 324-1, ainsi que la durée de ce protocole, avec indication des actes et prestations de toute nature concourant au traitement de la ou des affections concernées et auxquels s'applique la limitation ou la suppression de la participation ainsi que, le cas échéant, de la fréquence respective des actes et prestations.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.

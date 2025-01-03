@@ -6,7 +6,7 @@ Les données sont enregistrées au sein du traitement automatisé de données à
 
 1° L'information, l'accueil, l'orientation et l'accompagnement de manière adaptée des demandeurs d'emploi en situation de handicap vers l'emploi ;
 
-2° L'élaboration et le suivi du projet personnalisé d'accès à l'emploi ;
+2° L'élaboration et le suivi du contrat d'engagement ;
 
 3° L'attribution et le versement d'aides et la mobilisation de prestations ;
 
@@ -15,4 +15,4 @@ Les données sont enregistrées au sein du traitement automatisé de données à
 5° L'alimentation et l'agrégation des données afin de produire les statistiques afférentes aux missions de l'opérateur France Travail et des organismes de placement spécialisés précités, ainsi que les indicateurs permettant le pilotage de leurs activités.
 
 NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+Conformément à l’article 5 du décret n° 2024-1269 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement.

@@ -1,0 +1,3 @@
+# Article R6323-29
+
+Pour l'application à Mayotte de l'article R. 6323-41 et sauf en ce qui concerne les non-salariés agricoles mentionnés au premier alinéa de l'article L. 781-44 du code rural et de la pêche maritime, les mots : « organismes de sécurité sociale mentionnés aux articles L. 213-1, L. 225-1 et L. 752-4 du code de la sécurité sociale et aux articles L. 723-2 et L. 723-11 du code rural et de la pêche maritime » sont remplacés par les mots : « la caisse de sécurité sociale mentionnée au I de l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité, décès et autonomie, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte.

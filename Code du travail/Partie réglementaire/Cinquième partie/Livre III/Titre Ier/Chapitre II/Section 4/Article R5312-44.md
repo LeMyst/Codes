@@ -24,3 +24,5 @@ En cas de contentieux, les délais mentionnés au présent article sont prorogé
 
 NOTA:
 Conformément à l'article 19 du décret n° 2024-1268 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.
+
+Conformément à l'article 19 du décret n° 2024-1268 du 31 décembre 2024, le premier alinéa du I de l'article R. 5312-44 du code du travail, dans sa rédaction issue dudit décret, entre en vigueur le 1er juillet 2026.

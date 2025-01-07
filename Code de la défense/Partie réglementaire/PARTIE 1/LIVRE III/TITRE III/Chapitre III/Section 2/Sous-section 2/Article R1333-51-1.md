@@ -12,13 +12,10 @@ I.-Les demandes d'autorisation de rejets liquides et gazeux et de prélèvements
 
 5° La commission mentionnée à l'article L. 1416-1 du code de la santé publique, compétente en matière d'environnement, de risques sanitaires et technologiques, est consultée sur le projet d'arrêté du ministre de la défense relatif aux prélèvements d'eau, aux rejets d'effluents dans le milieu ambiant ;
 
-6° Le projet d'arrêté du ministre de la défense est transmis pour avis au ministre chargé de la sécurité civile et à l'Autorité de sûreté nucléaire. En l'absence de réponse dans un délai d'un mois à partir de la date de réception de la demande, l'avis est réputé favorable ;
+6° Le projet d'arrêté du ministre de la défense est transmis pour avis au ministre chargé de la sécurité civile et à l'Autorité de sûreté nucléaire et de radioprotection. En l'absence de réponse dans un délai d'un mois à partir de la date de réception de la demande, l'avis est réputé favorable ;
 
-7° Le contrôle des opérations soumises à autorisation ou à déclaration relève du délégué. Sans préjudice des contrôles effectués par le délégué, la surveillance de l'environnement relève de l'Autorité de sûreté nucléaire. Les personnes chargées du contrôle, de la surveillance et de la constatation des infractions, ainsi que les personnels de laboratoires ou organismes appelés à procéder aux analyses et contrôles des prélèvements effectués doivent être habilités au secret de la défense nationale.
+7° Le contrôle des opérations soumises à autorisation ou à déclaration relève du délégué. Sans préjudice des contrôles effectués par le délégué, la surveillance de l'environnement relève de l'Autorité de sûreté nucléaire et de radioprotection. Les personnes chargées du contrôle, de la surveillance et de la constatation des infractions, ainsi que les personnels de laboratoires ou organismes appelés à procéder aux analyses et contrôles des prélèvements effectués doivent être habilités au secret de la défense nationale.
 
 8° S'agissant des ouvrages, travaux ou activités intéressant des installations ou enceintes placées sous l'autorité hiérarchique du ministre de la défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale, les dispositions des 4°, 5° et 6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le rapport du ministre de la défense et après avis du délégué.
 
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de prélèvements d'eau ainsi que la procédure d'instruction de ces dossiers sont fixés par arrêté du ministre de la défense.
-
-NOTA:
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.

@@ -6,4 +6,4 @@ Le ministre de la défense peut à tout moment faire procéder au réexamen de l
 
 Sans préjudice de l'application des mesures prévues par les règlements en vigueur, tout accident ou incident, nucléaire ou non, ayant ou pouvant avoir des conséquences sur la radioprotection ou la sûreté de l'installation nucléaire de base secrète, est déclaré au délégué et au ministre de la défense selon les instructions particulières de ce dernier.
 
-Le ministre de la défense prend, en cas d'urgence, toute mesure de nature à faire cesser le trouble et à assurer la sécurité, notamment par suspension du fonctionnement de l'installation.
+Le ministre de la défense prend, en cas d'urgence, toute mesure de nature à faire cesser le trouble et à assurer la sûreté, notamment par suspension du fonctionnement de l'installation.

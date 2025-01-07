@@ -8,4 +8,4 @@ Dans les conditions fixées par le ministre de la défense, le directeur des app
 
 3° Décide des articles et des lots des matières nucléaires acquises pour le compte du ministre de la défense qui doivent faire l'objet de transferts entre activités soumises ou non au contrôle de sécurité d'Euratom ;
 
-4° Notifie les décisions mentionnées aux 2° et 3° aux exploitants concernés. Dans le cas mentionné à l'article D. 1333-26, il les notifie également au comité technique Euratom et à l'Institut de radioprotection et de sûreté nucléaire.
+4° Notifie les décisions mentionnées aux 2° et 3° aux exploitants concernés. Dans le cas mentionné à l'article D. 1333-26, il les notifie également au comité technique Euratom et au délégué à l'expertise nucléaire de défense et de sécurité.

@@ -1,6 +1,6 @@
 # Article R2342-11
 
-Lorsque le titulaire d'une autorisation souhaite modifier les conditions dans lesquelles sont réalisées les activités objet de l'autorisation, il en fait la demande au directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire, qui l'instruit dans les conditions fixées par les articles R. 2342-6 à R. 2342-14.
+Lorsque le titulaire d'une autorisation souhaite modifier les conditions dans lesquelles sont réalisées les activités objet de l'autorisation, il en fait la demande au délégué à l'expertise nucléaire de défense et de sécurité, qui l'instruit dans les conditions fixées par les articles R. 2342-6 à R. 2342-14.
 
 Le dossier de demande de modification peut être simplifié par rapport au dossier de demande d'autorisation initiale.
 

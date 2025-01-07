@@ -6,4 +6,4 @@ Le transfert de matières nucléaires est autorisé par le comité technique Eur
 
 Le comité technique Euratom notifie à l'exploitant la décision prise sur sa demande.
 
-Une copie des autorisations accordées par le comité technique Euratom est adressée au directeur des applications militaires du Commissariat à l'énergie atomique et aux énergies alternatives et à l'Institut de radioprotection et de sûreté nucléaire.
+Une copie des autorisations accordées par le comité technique Euratom est adressée au directeur des applications militaires du Commissariat à l'énergie atomique et aux énergies alternatives et au délégué à l'expertise nucléaire de défense et de sécurité.

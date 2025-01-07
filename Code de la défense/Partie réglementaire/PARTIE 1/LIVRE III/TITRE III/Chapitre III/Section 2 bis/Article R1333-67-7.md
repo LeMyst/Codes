@@ -6,4 +6,4 @@ Le délégué peut recevoir délégation du ministre de la défense pour signer 
 
 Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la composition, le fonctionnement et les attributions sont précisés, sur son rapport, par arrêté du ministre de la défense.
 
-Le délégué est informé de tout projet de textes réglementaires pris en application des articles L. 4451-1 et L. 4451-2 du code du travail ou du chapitre III du titre III du livre III de la première partie du code de la santé publique.
+Le délégué est informé de tout projet de textes réglementaires pris en application de l'article L. 4451-4 du code du travail ou du chapitre III du titre III du livre III de la première partie du code de la santé publique ainsi que sur les projets de textes réglementaires relatifs aux domaines de sa compétence.

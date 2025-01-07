@@ -2,7 +2,7 @@
 
 I.-L'exécution de tout transport d'une quantité de matières nucléaires égale ou supérieure au seuil mentionné à l'article R. 1333-8, est subordonnée à une autorisation, dénommée " accord d'exécution ".
 
-II.-La demande d'accord d'exécution est déposée par le titulaire de l'autorisation mentionnée à l'article R. 1333-4, auprès du ministre compétent et du directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire au moins quinze jours francs avant le début du transport.
+II.-La demande d'accord d'exécution est déposée par le titulaire de l'autorisation mentionnée à l'article R. 1333-4, auprès du ministre compétent et du délégué à l'expertise nucléaire de défense et de sécurité mentionné à la section 2 ter du présent chapitre, au moins quinze jours francs avant le début du transport.
 
 Dans le présent article, le début du transport s'entend comme le début du transport sur le territoire national.
 
@@ -20,17 +20,14 @@ III.-L'accord d'exécution est délivré :
 
 1° Pour les transports à destination ou en provenance de l'étranger, par le ministre compétent ;
 
-2° Pour les autres transports, par le directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire mentionné au II ci-dessus, dans le cadre des instructions qui lui sont données par le ministre compétent.
+2° Pour les autres transports, par le délégué à l'expertise nucléaire de défense et de sécurité, dans le cadre des instructions qui lui sont données par le ministre compétent.
 
 IV.-Lorsque les obligations qui incombent au titulaire de l'autorisation s'avèrent insuffisantes ou inadaptées pour des motifs de sécurité publique ou d'ordre public, le ministre compétent peut interdire le transport ou adapter ses conditions réglementaires d'exécution.
 
-Le ministre compétent notifie sa décision au titulaire de l'autorisation et au directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire.
+Le ministre compétent notifie sa décision au titulaire de l'autorisation et au délégué à l'expertise nucléaire de défense et de sécurité.
 
 L'interdiction entraîne le refus ou l'abrogation de l'accord d'exécution, quelle que soit l'autorité compétente.
 
 Dans le cas où le ministre conditionne un transport à une adaptation, l'accord d'exécution est appliqué sous réserve de la mise en œuvre de celle-ci par le titulaire de l'autorisation.
 
 V.-Certains transports peuvent être exemptés des obligations du présent article ou faire l'objet d'obligations assouplies dans les conditions précisées par arrêté conjoint des ministres compétents, lorsque les enjeux en matière de sécurité nucléaire ne les justifient pas.
-
-NOTA:
-Conformément aux articles 13 et 14 du décret n° 2021-713 du 3 juin 2021, ces dispositions entrent en vigueur à la date prévue par leurs arrêtés d'application et, au plus tard, le 1er janvier 2023, sous réserve des dispositions transitoires prévues par le titre III du décret précité. Ces dispositions s'appliquent aux déclarations comptables relatives aux opérations physiques qui sont réalisées sur des matières nucléaires à partir du 1er janvier 2023. Se reporter aux conditions prévues à l'article 15.

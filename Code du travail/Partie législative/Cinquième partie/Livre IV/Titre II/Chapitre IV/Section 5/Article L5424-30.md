@@ -6,3 +6,5 @@ Le versement de l'allocation n'est accordé qu'à compter de la libération de l
 
 NOTA:
 Conformément à l’article 27 de l’ordonnance n° 2022-1336 du 19 octobre 2022, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024, et sont applicables aux contrats d'emploi pénitentiaire en cours à la date de l'entrée en vigueur.
+
+Conformément au II de l’article 2 du décret n° 2025-8 du 4 janvier 2025, ces dispositions sont applicables aux contrats d'emploi pénitentiaire en cours, y compris pour les périodes d'emploi antérieures.

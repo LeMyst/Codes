@@ -26,14 +26,4 @@ b) Les exigences organisationnelles, notamment permettant d'assurer la confident
 
 c) Les modalités et conditions de certification de ces organismes ;
 
-d) Les modalités et conditions d'accréditation des organismes certificateurs ;
-
-3° Pour ce qui concerne le pôle de compétences en radioprotection :
-
-a) La qualification, les compétences et l'expérience professionnelle des personnes le constituant ;
-
-b) Les exigences organisationnelles, notamment permettant d'assurer la confidentialité des données relatives à la surveillance dosimétrique individuelle ;
-
-c) Les modalités et conditions d'approbation des pôles de compétences en radioprotection par les autorités compétentes mentionnées au 3° de l'article R. 4451-125 ;
-
-d) Les exigences organisationnelles et de moyens nécessaires à l'exercice indépendant et objectif des missions prévues à l'article R. 4451-123 de celles de vérification initiale prévues aux articles R. 4451-40 et R. 4451-44.
+d) Les modalités et conditions d'accréditation des organismes certificateurs.

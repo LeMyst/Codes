@@ -58,7 +58,7 @@ L'exonération mentionnée au premier alinéa du présent IV bis est remise en c
 
 Lorsque l'une des conditions prévues au b du 1° ou au 2° n'est pas remplie au terme du délai prévu à ce même b, l'exonération prévue au présent IV bis est remise en cause au titre de l'année au cours de laquelle intervient le terme de ce délai.
 
-V. – 1. L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions suivantes sont réunies :
+V. – 1. L'indemnité compensatrice versée à un agent général d'assurances par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions suivantes sont réunies :
 
 a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis au moins cinq ans au moment de la cessation ;
 

@@ -42,4 +42,6 @@ Le titulaire du certificat d'immatriculation du véhicule est, en application de
 
 15° Les limites de poids des véhicules ou ensembles de véhicules prévues aux articles R. 312-2 et R. 312-3, au VII de l'article R. 312-4 et aux articles R. 312-5 et R. 312-6 ;
 
-16° La circulation d'un véhicule en marche normale sur la partie gauche d'une chaussée à double sens de circulation prévue au septième alinéa de l'article R. 412-9.
+16° La circulation d'un véhicule en marche normale sur la partie gauche d'une chaussée à double sens de circulation prévue au septième alinéa de l'article R. 412-9 ;
+
+17° La circulation en inter-files prévue à l'article R. 412-11-3.

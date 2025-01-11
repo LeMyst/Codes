@@ -18,4 +18,4 @@ Tout conducteur coupable de cette dernière infraction encourt également la pei
 
 Cette dernière contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
-Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l'article R. 411-31 dans les cas prévus à l'article R. 414-3-1 et aux conducteurs dans les cas prévus à l'article R. 412-11-1.
+Les dispositions du présent article ne s'appliquent pas aux représentants mentionnés à l'article R. 411-31 dans les cas prévus à l'article R. 414-3-1 et aux conducteurs dans les cas prévus aux articles R. 412-11-1 et R. 412-11-3.

@@ -105,7 +105,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Lozère | Mende | 9 | 2 |
 | Vaucluse | Avignon | 42 | 7 |
 | Cour d'appel d'Orléans |
-| Indre-et-Loire | Tours | 25 | 4 |
+| Indre-et-Loire | Tours | 27 | 4 |
 | Loir-et-Cher | Blois | 15 | 3 |
 | Loiret | Orléans | 30 | 5 |
 | Cour d'appel de Paris |

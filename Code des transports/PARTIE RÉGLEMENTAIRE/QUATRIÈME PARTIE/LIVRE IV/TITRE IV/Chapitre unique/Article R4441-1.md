@@ -1,6 +1,6 @@
 # Article R\*4441-1
 
-Le préfet de la région Nord-Pas-de-Calais est l'autorité compétente pour :
+Le préfet de la région Hauts-de-France est l'autorité compétente pour :
 
 1° Procéder à l'inscription et à la radiation des courtiers de fret fluvial sur un registre qu'il tient à jour et délivrer les certificats d'inscription y afférents ;
 

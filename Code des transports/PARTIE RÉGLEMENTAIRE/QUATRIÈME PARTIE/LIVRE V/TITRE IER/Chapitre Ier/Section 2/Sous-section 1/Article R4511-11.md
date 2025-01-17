@@ -6,7 +6,7 @@ Le livret est signé conjointement par l'employeur ou, sous sa responsabilité, 
 
 Le livret de contrôle peut être remplacé par un journal de bord ou tout autre support permettant de constater les durées effectives de travail réalisées par les salariés. Ces documents de contrôle comportent les données propres à chaque personnel navigant telles qu'elles sont prévues au cinquième alinéa du présent article.
 
-Ils sont conservés à bord pendant toute la durée de navigation des personnels intéressés.
+Ils sont conservés à bord pendant toute la durée de navigation des personnels intéressés puis pendant une période de douze mois suivant la fin de cette durée de navigation.
 
 Les données consignées dans les documents de contrôle sont datées et mentionnent obligatoirement :
 

@@ -1,0 +1,5 @@
+# Article R4422-18
+
+Pour attester de sa capacité financière, l'entreprise transmet, lors de sa demande initiale d'autorisation d'exercer la profession de transporteur fluvial de passagers ou à la demande du préfet de la région Hauts-de-France, tout document comptable, statutaire ou établi par des agents financiers ou organismes d'assurance agréés par l'Autorité de contrôle prudentiel et de résolution justifiant qu'elle dispose de capitaux et de réserves à hauteur de la capacité financière exigible ou du titre de propriété d'au moins un bateau exploité.
+
+Pour l'année de l'inscription de l'entreprise au registre national des entreprises, en l'absence de comptes annuels certifiés, visés ou attestés par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité, le préfet de la région Hauts-de-France accepte tout document établi par des agents financiers ou organismes d'assurance agréés par l'Autorité de contrôle prudentiel et de résolution attestant que l'entreprise dispose des montants fixés à l'article R. 4422-16.

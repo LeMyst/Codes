@@ -1,0 +1,3 @@
+# Article R4421-13
+
+Les personnes physiques mentionnées à l'article R. 4421-9 qui ne résident pas en France ou qui résident en France depuis moins de cinq ans apportent la preuve qu'elles satisfont dans leur Etat de résidence habituelle, ou dans l'Etat de la résidence habituelle précédente, aux conditions d'honorabilité. Les documents permettant d'apporter la preuve sont ceux prévus à l'article 8 de la directive 87/540/ CEE du Conseil du 9 novembre 1987 relative à l'accès à la profession de transporteur de marchandises par voie navigable dans le domaine des transports nationaux et visant à la reconnaissance mutuelle des diplômes, certificats et autres titres concernant cette profession.

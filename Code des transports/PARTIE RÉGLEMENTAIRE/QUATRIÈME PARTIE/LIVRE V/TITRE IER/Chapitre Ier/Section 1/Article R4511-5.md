@@ -10,4 +10,6 @@ Cette faculté de prolongation est illimitée pendant un jour. Elle est limitée
 
 Les heures ainsi accomplies sont rémunérées comme des heures supplémentaires. Elles ouvrent droit, dans les conditions fixées par accord d'entreprise ou d'établissement ou, à défaut, par convention ou accord de branche, au repos compensateur de remplacement prévu au 2° du II de l'article L. 3121-33 du code du travail. Elles ne sont pas imputées sur le contingent déterminé selon les dispositions du 2° du I de l'article L. 3121-33 ou de l'article L. 3121-39 du code du travail.
 
+Le repos compensateur mentionné à l'alinéa précédent est pris après le retour à la situation normale, dès que les circonstances le permettent.
+
 L'employeur qui veut faire usage des dérogations prévues au présent article en informe immédiatement l'inspecteur du travail.

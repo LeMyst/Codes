@@ -72,7 +72,7 @@ Les établissements ou organismes concourant aux missions du service public de l
 
 48° L'Ecole nationale supérieure d'architecture de Paris-Belleville à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est ;
 
-49° L'Ecole nationale supérieure d'architecture de Paris-Malaquais à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est ;
+49° (Abrogé) ;
 
 50° (Abrogé) ;
 

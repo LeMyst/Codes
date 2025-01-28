@@ -30,7 +30,7 @@ Les écoles nationales supérieures d'architecture sont :
 
 14° L'Ecole nationale supérieure d'architecture de Paris-La Villette ;
 
-15° L'Ecole nationale supérieure d'architecture de Paris-Malaquais ;
+15° L'Ecole nationale supérieure d'architecture de Paris-Malaquais, établissement-composante de l'Université Paris sciences et lettres ;
 
 16° L'Ecole nationale supérieure d'architecture de Paris-Val de Seine ;
 

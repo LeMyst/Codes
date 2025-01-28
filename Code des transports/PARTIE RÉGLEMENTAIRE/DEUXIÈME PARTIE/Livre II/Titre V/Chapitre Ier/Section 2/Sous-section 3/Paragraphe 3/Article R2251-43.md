@@ -6,7 +6,4 @@ Chaque agent doit tirer au moins cinquante cartouches par an au cours de ces sé
 
 La formation reçue pour chaque arme est attestée par un certificat établi, sous sa responsabilité, par l'entreprise. Ce certificat est remis à l'agent. Copie en est adressée au préfet concerné mentionné à l'article R. * 2250-2.
 
-Le défaut du respect des obligations de formation définies au présent article rend caduque cette autorisation.
-
-NOTA:
-Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.
+Le défaut du respect des obligations de formation définies au présent article suspend cette autorisation pendant six mois, période au-delà de laquelle l'autorisation devient caduque. La suspension est levée dès lors que ces obligations de formation sont remplies.

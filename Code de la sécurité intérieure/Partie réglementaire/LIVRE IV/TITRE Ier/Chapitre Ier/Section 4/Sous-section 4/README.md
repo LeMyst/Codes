@@ -1,1 +1,1 @@
-Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans
+Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité de policier adjoint pendant au moins trois ans

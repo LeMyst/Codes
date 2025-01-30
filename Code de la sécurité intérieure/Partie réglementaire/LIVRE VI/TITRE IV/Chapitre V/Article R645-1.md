@@ -43,7 +43,7 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 612-38 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
 | R. 612-39 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 612-40 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 612-41 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
+| R. 612-41 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 612-41-1 | Résultant du décret n° 2017-606 du 21 avril 2017 |
 | R. 612-42 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-1 et R. 613-2 | Résultant du décret n° 2022-777 du 3 mai 2022 |
@@ -65,11 +65,11 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 613-19 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-23-1 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
 | R. 613-23-2 à R. 613-23-3 | Résultant du décret n° 2018-1270 du 26 décembre 2018 |
-| R. 613-23-4 | Résultant du décret n° 2017-1844 du 29 décembre 2017 | |
-| R. 613-23-5 | Résultant du décret n° 2024-1116 du 4 décembre 2024 | |
-| R. 613-23-6 | Résultant du décret n° 2024-311 du 4 avril 2024 | |
+| R. 613-23-4 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
+| R. 613-23-5 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
+| R. 613-23-6 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 613-23-7 à R. 613-23-10 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
-| R. 613-23-11 | Résultant du décret n° 2018-1270 du 26 décembre 2018 | |
+| R. 613-23-11 | Résultant du décret n° 2018-1270 du 26 décembre 2018 |
 | R. 613-24 | Résultant du décret n° 2022-1409 du 7 novembre 2022 |
 | R. 613-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-29 | Résultant du décret n° 2022-1409 du 7 novembre 2022 |

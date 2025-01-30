@@ -1,1 +1,1 @@
-Section 3 : Adjoints de sécurité
+Section 3 : Policiers adjoints

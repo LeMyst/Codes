@@ -43,7 +43,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 612-38 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
 | R. 612-39 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 612-40 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 612-41 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
+| R. 612-41 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 612-41-1 | Résultant du décret n° 2017-606 du 21 avril 2017 |
 | R. 612-42 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-1 et R. 613-2 | Résultant du décret n° 2022-777 du 3 mai 2022 |

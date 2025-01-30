@@ -7,7 +7,8 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | Au titre Ier | |
 | R. 112-1 | Résultant du décret n° 2022-901 du 17 juin 2022 |
-| R. 113-1 et R. 113-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
+| R. 113-1 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
+| R. 113-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 114-1 | Résultant du décret n° 2018-141 du 27 février 2018 |
 | R. 114-2, sauf le k du 1° et le o du 4° | Résultant du décret n° 2023-1171 du 13 décembre 2023 |
 | R. 114-3 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |

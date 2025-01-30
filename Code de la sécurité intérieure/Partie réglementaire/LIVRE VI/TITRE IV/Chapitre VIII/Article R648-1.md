@@ -38,7 +38,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | R. 612-36 | Résultant du décret n° 2017-606 du 21 avril 2017 |
 | R. 612-37 | Résultant du |
 | | décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023 |
-| R. 612-41 | Résultant du décret n° 2017-606 du 21 avril 2017 |
+| R. 612-41 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 612-42 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-16-4 à R. 613-16-14 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 613-16-15 | Résultant du décret n° 2024-311 du 4 avril 2024 |

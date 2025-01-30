@@ -1,6 +1,6 @@
 # Article R411-8
 
-Nul ne peut être recruté en qualité d'adjoint de sécurité :
+Nul ne peut être recruté en qualité de policier adjoint :
 
 1° S'il n'est de nationalité française et ne jouit de ses droits civiques ;
 

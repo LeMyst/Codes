@@ -6,16 +6,15 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 | --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | Au titre Ier | |
-| R. 411-1 à R. 411-7 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| R. 411-8 et R. 411-8-1 | Résultant du décret n° 2016-684 du 26 mai 2016 modifiant le code de la sécurité intérieure et relatif au recrutement des adjoints de sécurité |
-| R. 411-9 | Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour l'administration du ministère de l'intérieur |
-| R. 411-10 et R. 411-11 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
-| R. 411-12 | Résultant du décret n° 2018-322 du 2 mai 2018 |
+| R. 411-1 à R. 411-3-1 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
+| R. 411-4 à R. 411-12 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 411-13 | Résultant du décret n° 2022-1112 du 3 août 2022 |
 | R. 411-14 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 411-15 à R. 411-16-3 | Résultant du décret n° 2022-1112 du 3 août 2022 |
-| R. 411-22 à R. 411-24 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
-| R. 411-26 à R. 411-30-1 | Résultant du décret n° 2022-1112 du 3 août 2022 |
+| R. 411-22 et R. 411-24 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
+| R. 411-26 à R. 411-28 | Résultant du décret n° 2022-1112 du 3 août 2022 |
+| R. 411-29 et R. 411-29-1 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
+| R. 411-30 à R. 411-30-1 | Résultant du décret n° 2022-1112 du 3 août 2022 |
 | R. 413-1 à R. 413-3 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 413-4 et R. 413-5 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 413-6 et R. 413-7 | Résultant du décret n° 2018-322 du 2 mai 2018 |

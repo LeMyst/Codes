@@ -1,6 +1,6 @@
 # Article R411-5
 
-Les adjoints de sécurité concourent aux missions du service public de la sécurité assurées par les fonctionnaires des services actifs de la police nationale sous les ordres et sous la responsabilité desquels ils sont placés.\
+Les policiers adjoints concourent aux missions du service public de la sécurité assurées par les fonctionnaires des services actifs de la police nationale sous les ordres et sous la responsabilité desquels ils sont placés.\
 Ils sont chargés de renforcer ces services pour faire face aux besoins non satisfaits en matière de prévention, d'assistance et de soutien, particulièrement dans les lieux où les conditions de la vie urbaine nécessitent des actions spécifiques de proximité.
 
 A cet effet, ils ont pour tâches, notamment dans le cadre de la police de proximité :
@@ -21,4 +21,4 @@ A cet effet, ils ont pour tâches, notamment dans le cadre de la police de proxi
 
 Ces missions sont exercées dans le respect des principes républicains et du code de déontologie de la police nationale et de la gendarmerie nationale prévu au chapitre IV du titre III du présent livre.
 
-Les adjoints de sécurité ne peuvent pas participer à des missions de maintien de l'ordre.
+Les policiers adjoints ne peuvent pas participer à des missions de maintien de l'ordre.

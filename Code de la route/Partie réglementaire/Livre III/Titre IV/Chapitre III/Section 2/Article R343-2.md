@@ -14,7 +14,7 @@ Le fait pour tout conducteur ou propriétaire d'un autre véhicule de contreveni
 
 " Art. R. 325-3.-L'immobilisation peut être prescrite par le officiers ou agents de police judiciaire habilités à constater les contraventions de police de la circulation routière lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions prévues à l'article R. 343-3.
 
-L'immobilisation peut également être prescrite dans les conditions définies à l'alinéa précédent par les adjoints de sécurité ainsi que par les volontaires servant en qualité de militaires dans la gendarmerie.
+L'immobilisation peut également être prescrite dans les conditions définies à l'alinéa précédent par les policiers adjoints ainsi que par les volontaires servant en qualité de militaires dans la gendarmerie.
 
 " Art. R. 325-4.-Lorsque la décision d'immobilisation résulte de l'une des situations visées aux 1°, 2° et 10° de l'article R. 343-3, le véhicule peut poursuivre sa route dès qu'un conducteur qualifié, proposé par le conducteur ou éventuellement par le propriétaire du véhicule, peut assurer la conduite de celui-ci.
 

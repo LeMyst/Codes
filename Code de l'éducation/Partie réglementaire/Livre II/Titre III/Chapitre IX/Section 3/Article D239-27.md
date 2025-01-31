@@ -12,7 +12,7 @@ b) Un membre du Sénat ;
 
 c) Trois présidents ou vice-présidents de conseil régional ;
 
-d) Trois présidents ou vice-présidents de conseil général ;
+d) Trois présidents ou vice-présidents de conseil départemental ;
 
 e) Sept maires ;
 
@@ -81,3 +81,6 @@ ba) Un représentant du Syndicat national des personnels de direction de l'éduc
 bb) Un représentant du Syndicat national des chefs d'établissement de l'enseignement libre (SNCEEL) ;
 
 c) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
+
+NOTA:
+Conformément au I de l'article 71 du décret n° 2013-938 du 18 octobre 2013, le titre Ier du décret précité s'applique à compter du prochain renouvellement général des conseils généraux suivant la publication dudit décret.

@@ -10,6 +10,8 @@ I. - Le recteur de région académique peut déléguer sa signature :
 
 4° Au secrétaire général de région académique ;
 
+4° bis Au directeur de cabinet, dans la limite de ses attributions ;
+
 5° Dans la région académique Ile-de-France, pour les questions relatives à la chancellerie de l'académie de Paris, au secrétaire général pour l'enseignement supérieur, la recherche et l'innovation.
 
 II. - Pour les questions relatives à l'enseignement supérieur, à la recherche et à l'innovation, le recteur délégué peut donner délégation au secrétaire général de région académique et au délégué régional académique à la recherche et à l'innovation, ainsi que dans la région académique Ile-de-France, au secrétaire général pour l'enseignement supérieur, la recherche et l'innovation, pour signer tous actes relatifs aux affaires pour lesquelles il a lui-même reçu délégation du recteur de région académique.
@@ -19,6 +21,3 @@ Le secrétaire général de région académique peut donner délégation pour si
 Dans la région académique Ile-de-France, le secrétaire général pour l'enseignement supérieur, la recherche et l'innovation peut donner délégation pour signer tous actes relatifs aux affaires pour lesquelles il a lui-même reçu délégation à ses adjoints, aux responsables des services régionaux prévus aux articles R. 222-24-4 et R. 222-24-6, ainsi qu'aux chefs des services administratifs relevant de son autorité, dans la limite de leurs attributions respectives.
 
 Le délégué régional académique à la jeunesse, à l'engagement et aux sports ainsi que le délégué régional académique à la recherche et à l'innovation peuvent donner délégation à leur adjoint et aux agents placés sous leur autorité pour signer tous actes relatifs aux affaires pour lesquelles ils ont eux-mêmes reçu délégation dans la limite de leurs attributions respectives.
-
-NOTA:
-Conformément à l’article 5 du décret n° 2020-1543 du 9 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

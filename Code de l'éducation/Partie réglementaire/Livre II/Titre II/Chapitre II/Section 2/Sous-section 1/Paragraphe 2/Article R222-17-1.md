@@ -8,7 +8,9 @@ Le recteur d'académie peut donner délégation pour signer tous actes relatifs 
 
 a) Au secrétaire général d'académie, qui peut donner délégation pour signer ces mêmes actes à son adjoint et aux chefs de division des rectorats, dans la limite de leurs attributions respectives ;
 
-b) Au directeur académique des services de l'éducation nationale.
+b) Au directeur académique des services de l'éducation nationale ;
+
+c) Au directeur de cabinet, dans la limite de ses attributions.
 
 Pour la mise en œuvre des politiques régionales au niveau académique, le recteur d'académie dispose en tant que de besoin de l'appui des services régionaux et interrégionaux concernés ;
 
@@ -20,7 +22,6 @@ a) Au secrétaire général d'académie, qui peut donner délégation pour signe
 
 b) A chacun des responsables des services régionaux prévus aux articles R. 222-24-4 et R. 222-24-6, dans la limite des attributions desdits services ;
 
-c) Au directeur académique des services de l'éducation nationale.
+c) Au directeur académique des services de l'éducation nationale ;
 
-NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+d) Au directeur de cabinet, dans la limite de ses attributions.

@@ -14,8 +14,11 @@ c) Les représentants des parents d'élèves sur proposition des associations re
 
 3° Les conseillers régionaux sont désignés par le conseil régional ;
 
-4° Les conseillers généraux sont désignés par les conseils généraux ; la répartition des sièges est effectuée dans l'ordre décroissant de la population des départements ;
+4° Les conseillers départementaux sont désignés par les conseils départementaux ; la répartition des sièges est effectuée dans l'ordre décroissant de la population des départements ;
 
 5° Les maires ou conseillers municipaux ou représentants des établissements publics de coopération intercommunale sont désignés par accord entre les associations départementales des maires ou, à défaut, par le collège des maires du département ;
 
 6° Les représentants du conseil économique, social et environnemental régional sont désignés par le conseil.
+
+NOTA:
+Conformément au I de l'article 71 du décret n° 2013-938 du 18 octobre 2013, le titre Ier du décret précité s'applique à compter du prochain renouvellement général des conseils généraux suivant la publication dudit décret.

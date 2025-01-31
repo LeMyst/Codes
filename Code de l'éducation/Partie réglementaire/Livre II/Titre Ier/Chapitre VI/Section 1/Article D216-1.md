@@ -6,4 +6,7 @@ La contribution que le département ou la région verse chaque année à la coll
 
 2° Les années ultérieures, cette contribution est au moins égale au montant total des dépenses supportées par le département ou la région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence, pondéré, pour au moins un tiers, par la part relative de la contribution versée l'année précédente par le département ou la région à la collectivité locale propriétaire ou au groupement de communes compétent dans le montant total des dépenses supportées l'année précédente par le département ou la région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence, pour au moins un tiers, par la part relative de l'établissement dans le nombre des élèves inscrits au 1er octobre de la même année dans l'ensemble des établissements relevant désormais de la compétence du département ou de la région et, pour le solde, par la part relative de l'établissement telle qu'elle résulte de la mise en oeuvre des critères arrêtés par la région ou le département en application du g de l'article L. 421-11.
 
-Pour l'application du présent article et dans les limites fixées par celui-ci, le conseil général ou le conseil régional fixe l'importance relative de chacune des trois parts mentionnées ci-dessus.
+Pour l'application du présent article et dans les limites fixées par celui-ci, le conseil départemental ou le conseil régional fixe l'importance relative de chacune des trois parts mentionnées ci-dessus.
+
+NOTA:
+Conformément au I de l'article 71 du décret n° 2013-938 du 18 octobre 2013, le titre Ier du décret précité s'applique à compter du prochain renouvellement général des conseils généraux suivant la publication dudit décret.

@@ -12,6 +12,8 @@ La Haute Autorité de santé, autorité publique indépendante à caractère sci
 
 4° Etablir et mettre en œuvre les procédures de certification des établissements de santé prévues aux articles L. 6113-3 et L. 6113-4 du code de la santé publique, notamment en évaluant, lors de cette procédure, la mise en œuvre par les établissements de santé des dispositions du 18° de l'article L. 6143-7 du même code ;
 
+4° bis Etablir, pour chaque spécialité et chaque type d'activité de soins hospitaliers et en tenant compte de la charge des soins associée, un ratio minimal de soignants, par lit ouvert ou par nombre de passages pour les activités ambulatoires, de nature à garantir la qualité et la sécurité des soins ;
+
 5° Participer au développement de l'évaluation de la qualité de la prise en charge sanitaire de la population par le système de santé et élaborer des référentiels de compétences, de formation et de bonnes pratiques dans le domaine de la médiation sanitaire et de l'interprétariat linguistique ;
 
 6° Rendre un avis sur tout projet de loi ou de décret instituant des modes particuliers de soins préventifs ou curatifs ;
@@ -75,7 +77,4 @@ Les décisions et communications prises en vertu des 1° et 2° du présent arti
 Pour l'application des 2°, 4°, 5°, 8°, 15° et 16°, la Haute Autorité de santé prend en compte les risques de maltraitance.
 
 NOTA:
-| |
-| --- |
-| |
-| Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, les présentes dispositions entrent en vigueur le 1er janvier 2024. |
+Conformément au A du III de l'article unique de la loi n° 2025-74 du 29 janvier 2025, ces dispositions s'appliquent à compter d'une date fixée par décret, et au plus tard le 31 décembre 2024.

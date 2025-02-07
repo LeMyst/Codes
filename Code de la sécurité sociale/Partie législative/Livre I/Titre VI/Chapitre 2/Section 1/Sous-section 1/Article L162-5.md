@@ -28,6 +28,8 @@ La ou les conventions déterminent notamment :
 
 10° Les conditions dans lesquelles est assuré le suivi des dépassements d'honoraires et de leur évolution ;
 
+10° bis Les conditions dans lesquelles peuvent être plafonnés les dépassements d'honoraires relatifs à des actes chirurgicaux de reconstruction mammaire consécutifs à la prise en charge d'un cancer du sein ;
+
 11° (Abrogé) ;
 
 12° Le cas échéant :

@@ -102,7 +102,7 @@ Cette exonération n'est pas cumulable avec une autre exonération applicable en
 
 En cas de transmission de propriétés non bâties, qui sont incluses dans les espaces naturels délimités en application des articles L. 331-2, L. 332-2 à L. 332-2-2, L. 341-2 et L. 414-1 du code de l'environnement et de leurs textes d'application, ou délimités en application des articles L. 121-23 et L. 121-50 du code de l'urbanisme, à l'Etat ou aux collectivités et organismes mentionnés aux I et II de l'article 1042 du présent code, l'engagement est réputé définitivement satisfait à concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant déterminée par le rapport entre la superficie des biens objets de la transmission et la superficie totale des biens sur lesquels l'engagement a été souscrit. La même règle s'applique aux mutations de jouissance ou de propriété au profit d'établissements ou de sociétés, en vue de la réalisation d'équipements, aménagements ou constructions d'intérêt public, qui pourraient donner lieu à l'établissement d'une servitude d'utilité publique au titre de ladite mutation.
 
-8° Les immeubles et droits immobiliers, à concurrence de 50 % de leur valeur, lors de la première mutation postérieure à la reconstitution des titres de propriété y afférents, sous réserve que ces titres de propriété aient été constatés par un acte régulièrement transcrit ou publié entre le 1er octobre 2014 et le 31 décembre 2027.
+8° Les immeubles et droits immobiliers, à concurrence de 50 % de leur valeur, lors de la première mutation postérieure à la reconstitution des titres de propriété y afférents, sous réserve que ces titres de propriété aient été constatés par un acte régulièrement transcrit ou publié entre le 1er octobre 2014 et le 31 décembre 2037.
 
 Cette exonération est exclusive de l'application au même bien, au titre de la même mutation ou d'une mutation antérieure, de toute autre exonération de droits de mutation à titre gratuit.
 
@@ -111,6 +111,3 @@ Cette exonération est exclusive de l'application au même bien, au titre de la 
 a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé d'un certificat délivré par le directeur départemental des territoires ou le directeur départemental des territoires et de la mer attestant que les bois et forêts du titulaire du compte sont susceptibles de présenter une des garanties de gestion durable prévues à l'article L. 124-1 du code forestier ;
 
 b) Qu'il contienne l'engagement par l'héritier, le légataire ou le donataire, pris pour lui et ses ayants cause, d'employer les sommes objets de la mutation conformément à l'article L. 352-3 du même code pendant trente ans.
-
-NOTA:
-Conformément à l'article 12 de la loi n° 2017-348 du 20 mars 2017, ces dispositions entrent en vigueur trois mois après la promulgation de ladite loi.

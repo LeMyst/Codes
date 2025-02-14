@@ -4,15 +4,15 @@ I.-Lorsque l'indemnisation fondée sur la solidarité nationale prévue à l'art
 
 Dans cette hypothèse, la compensation des charges prévue au III de l'article L. 361-4-3 ne concerne que les seuls frais de gestion administrative spécifiquement engendrés par le versement de l'indemnisation fondée sur la solidarité nationale, à l'exclusion de tout autre frais, notamment ceux supportés pour la distribution, l'enregistrement, et la gestion du contrat d'assurance, ainsi que les frais de gestion du sinistre et les frais d'expertise et d'évaluation des pertes de récolte, qui sont supportés par l'entreprise d'assurance quel que soit le taux de perte de récolte constaté.
 
-II.-Lorsque l'exploitant agricole est tenu de désigner un interlocuteur agréé en application du II de l'article L. 361-4-3, il procède à cette désignation avant une date fixée par arrêté du ministre chargé de l'agriculture sur la plateforme développée par l'établissement public mentionné à l'article L. 621-1.
+II.-1° L'exploitant agricole qui y est tenu par les dispositions du II de l'article L. 361-4-3 désigne l'entreprise d'assurance chargée d'exercer les missions d'interlocuteur agréé :
 
-Lors de cette désignation, l'exploitant agricole transmet des informations d'identification relatives à ses nom, prénom, numéro SIRET, forme juridique, dénomination sociale, adresse du siège de l'exploitation, numéros de téléphone et adresse électronique, déclare les groupes de cultures, tels que définis au II de l'article D. 361-43-1, qu'il exploite et transmet pour chacun de ces groupes de culture :
+a) Dans les secteurs de production agricole où le développement de l'assurance contre les risques climatiques est suffisant, au titre de chaque campagne, dans la demande unique mentionnée à l'article D. 614-36 avant l'expiration du délai au terme duquel cette demande devient non admissible en vertu du premier alinéa de l'article D. 614-41 ;
 
-1° Une déclaration de détention d'un ou plusieurs contrats d'assurance couvrant les pertes de récoltes ou de cultures liées à un ou plusieurs aléas climatiques ;
+b) Dans les secteurs de production agricole où le développement de l'assurance contre les risques climatiques est insuffisant, lors de la souscription du contrat d'assurance bénéficiant de l'aide mentionnée à l'article L. 361-4 selon des modalités précisées par le cahier des charges mentionné à l'article D. 361-43-8. La désignation est tacitement reconduite en cas de renouvellement du contrat ;
 
-2° Une déclaration de détention d'un ou de plusieurs contrats d'assurance bénéficiant de l'aide mentionnée à l'article L. 361-4, les numéros de ces contrats, et la surface qu'ils couvrent ;
+2° Dans le cas prévu au a du 1°, l'établissement mentionné à l'article L. 313-1 recueille des informations d'identification de l'exploitant agricole relatives à ses nom, prénom, numéro SIRET, forme juridique, dénomination sociale, adresse du siège de l'exploitation, numéros de téléphone et adresse électronique ;
 
-3° La surface non assurée par un contrat d'assurance bénéficiant de l'aide mentionnée à l'article L. 361-4.
+3° Dans le cas prévu au b du 1°, l'entreprise d'assurance chargée d'exercer les missions d'interlocuteur agréé communique à l'établissement mentionné à l'article L. 313-1 la référence " PACAGE " et le numéro SIRET des exploitants qui l'ont désignée dans les conditions fixées par le cahier des charges mentionné à l'article D. 361-43-8.
 
 III.-L'exploitant agricole transmet, en plus des informations mentionnées au II, sa référence " PACAGE ".
 
@@ -22,7 +22,7 @@ L'établissement mentionné à l'article L. 313-1 transmet à l'interlocuteur ag
 
 IV.-L'exploitant agricole déclare à l'interlocuteur agréé qu'il a désigné en application du I, avant toute déclaration de sinistre mentionnée à l'article D. 361-44-4, et en tout état de cause dans un délai d'un mois, tout changement dans les informations mentionnées au II.
 
-V.-Le responsable du traitement des données mentionnées au II du présent article est le ministre chargé de l'agriculture. Il donne délégation à l'établissement mentionné à l'article L. 621-1 pour sa mise en œuvre et pour la réalisation des échanges de données nécessaires à l'application de la présente section. A cette fin, cet établissement recueille les informations mentionnées au II et III, fournies par les exploitants agricoles, les transmet à l'Etat, à l'établissement mentionné à l'article L. 313-1, et aux membres concernés du réseau d'interlocuteurs agréés mentionné à l'article L. 361-4-2.
+V.-Le responsable du traitement des données mentionnées au II du présent article est le ministre chargé de l'agriculture. Il donne délégation à l'établissement mentionné à l'article L. 313-1 pour sa mise en œuvre et pour la réalisation des échanges de données nécessaires à l'application de la présente section. A cette fin, cet établissement recueille les informations mentionnées au II et III, fournies par les exploitants agricoles, les transmet à l'Etat et aux membres concernés du réseau d'interlocuteurs agréés mentionné à l'article L. 361-4-2.
 
 Les données sont conservées pendant une période maximum de 5 ans en base active, puis en base intermédiaire d'archivage pour une période maximum de 12 ans au total.
 

@@ -13,7 +13,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 311-13 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 311-13-1 | Résultant du décret n° 2020-1523 du 4 décembre 2020 |
 | D. 312-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 312-1-1 D. 312-1-2, I, II et III, D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
+| D. 312-1-1 D. 312-1-2, I, II et III,D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
 | D. 312-4 à D. 312-6 D. 312-16 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-16-1 | Résultant du décret n° 2010-100 du 27 janvier 2010 |
 | D. 312-17 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -41,7 +41,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 314-71 | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82 D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 314-91 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 314-99 à D. 314-105 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
@@ -271,7 +271,9 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 337-143 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-144 et D. 337-145 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-146 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-147 à D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-147 à D. 337-150 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-150-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 337-151 et D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-153 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-154 à D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-156 et D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |

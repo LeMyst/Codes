@@ -22,7 +22,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 314-71, 1er et 3e alinéas | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82 D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 314-91 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 331-64-1 | Résultant du décret n° 2018-172 du 9 mars 2018 |
@@ -189,7 +189,9 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-139 à D. 337-142 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-145 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-146 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-147 à D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-147 à D. 337-150 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-150-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 337-151 et D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-153 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-154 à D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-156 et D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
@@ -313,7 +315,7 @@ c) Au dernier alinéa, les mots : " notamment un représentant de chacun des min
 
 a) Au premier alinéa, d'une part, les mots : " établissement public local d'enseignement " sont remplacés par les mots : " établissement d'enseignement secondaire public ", d'autre part, les mots : " défini au livre II de la sixième partie du code du travail " et les mots : " définie au livre III de la sixième partie du même code " sont supprimés ;
 
-b) Au deuxième alinéa, les mots : " et conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés ;
+b) Au deuxième alinéa, les mots : " et conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail , " sont supprimés ;
 
 26° A l'article D. 337-7 :
 
@@ -329,7 +331,7 @@ b) Au c, les mots : " définie au livre III de la sixième partie du code du tra
 
 a) Au premier et au quatrième alinéas, les mots : " au sein d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " dans le cadre du vice-rectorat, le cas échéant en collaboration avec un autre vice-rectorat, une académie ou un groupement d'académies " ;
 
-b) Au troisième alinéa, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, " et les mots : " conclu en application de l'article L. 6325-4-1 du même code, " sont supprimés ;
+b) Au troisième alinéa, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, " et les mots : " conclu en application de l'article L. 6325-4-1 du même code , " sont supprimés ;
 
 29° A l'article D. 337-22 :
 
@@ -355,7 +357,7 @@ b) Au deuxième alinéa, les mots : " dans les conditions fixées par le troisi�
 
 36° A l'article D. 337-89, les mots : " d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " du territoire ou par mutualisation avec " ;
 
-37° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code " sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
+37° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail , ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code " sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
 
 38° A l'article D. 337-93 :
 
@@ -397,7 +399,7 @@ b) Au troisième alinéa, les mots : " dans les conditions prévues au troisièm
 
 a) Au troisième alinéa, les mots : " pour les candidats relevant du 2° de l'article D. 337-127 " et les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
 
-b) Au quatrième alinéa, les mots : , dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail, " sont supprimés ;
+b) Au quatrième alinéa, les mots : , dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail , " sont supprimés ;
 
 51° Au sixième alinéa de l'article D. 337-132, les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
@@ -417,7 +419,7 @@ b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie "
 
 56° A l'article D. 337-145 :
 
-a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
+a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail , " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
 
 b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie scolaire " et les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
 

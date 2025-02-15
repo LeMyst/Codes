@@ -16,4 +16,4 @@ Le délégué du Gouvernement dispose du centre opérationnel. Il décide de sa 
 
 4° Pour l'application des articles R. 723-93 et R. 723-95, la référence au médecin-chef de la sous-direction santé du service d'incendie et de secours est remplacée par une référence à un médecin chargé du suivi de l'aptitude des sapeurs-pompiers.
 
-5° Pour l'application de l'article R. 741-30 à Saint-Barthélemy, les références à des dispositions qui ne sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+5° Pour l'application des articles R. 731-15 et R. 741-30 à Saint-Barthélemy, les références à des dispositions qui ne sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.

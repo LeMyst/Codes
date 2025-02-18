@@ -1,6 +1,6 @@
 # Article L723-19
 
-Sont électeurs dans les collèges définis à l'article L. 723-15 à condition de n'avoir pas été condamnés à l'une des peines entraînant ou de nature à entraîner la déchéance des droits civiques, les personnes âgées de seize ans au moins et dont toutes les cotisations personnellement dues par elles et réclamées depuis six mois au moins ont été acquittées.
+Sont électeurs dans les collèges définis à l'article L. 723-15 à condition de n'avoir pas été condamnés à l'une des peines entraînant ou de nature à entraîner la déchéance des droits civiques, les personnes âgées de seize ans au moins.
 
 Lorsque l'employeur est une personne morale, l'électeur est un mandataire désigné par elle à cet effet.
 

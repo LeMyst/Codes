@@ -1,6 +1,6 @@
 # Article L513-3
 
-Chambres d'agriculture France est composée des présidents des chambres départementales, interdépartementales, régionales et interrégionales d'agriculture, des présidents des chambres d'agriculture de région ainsi que des présidents des chambres territoriales. Toutefois, le président élu de Chambres d'agriculture France peut renoncer à son mandat de président de l'une de ces chambres. Les présidents peuvent être suppléés par un délégué élu dans chaque chambre. Les conditions de représentation des chambres interdépartementales, interrégionales et des chambres de région à Chambres d'agriculture France sont fixées par décret.
+Chambres d'agriculture France est composée des présidents des chambres départementales, interdépartementales, régionales et interrégionales d'agriculture, des présidents des chambres d'agriculture de région, des premiers vice-présidents des chambres d'agriculture de région dépourvues de chambre territoriale ainsi que des présidents des chambres territoriales. Toutefois, le président élu de Chambres d'agriculture France peut renoncer à son mandat de président de l'une de ces chambres. Les membres peuvent être suppléés par un délégué élu dans chaque chambre. Les conditions de représentation des chambres interdépartementales, interrégionales et des chambres de région à Chambres d'agriculture France sont fixées par décret.
 
 Peuvent adhérer à Chambres d'agriculture France, au nom de leur établissement :
 

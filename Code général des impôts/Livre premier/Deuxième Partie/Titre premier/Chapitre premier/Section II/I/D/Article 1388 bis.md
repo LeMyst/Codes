@@ -18,3 +18,5 @@ V. – Les I et II s'appliquent aux logements détenus, directement ou indirecte
 
 NOTA:
 Conformément au A du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.
+
+Conformément à l'article 114 de la loi n° 2025-127 du 14 février 2025 insérant un H au XX de l'aticle 73 de la loi n° 2023-1332 du 29 décembre 2023, par dérogation aux présentes dispositions, la convention annexée au contrat de ville peut être signée et la déclaration peut être adressée au service des impôts du lieu de situation des biens au plus tard le 31 mars 2025 pour l'application de l'abattement prévu au présent en France métropolitaine au titre de l'année 2025.

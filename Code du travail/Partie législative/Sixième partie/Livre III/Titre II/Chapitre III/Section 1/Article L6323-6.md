@@ -10,11 +10,6 @@ II.-Sont également éligibles au compte personnel de formation, dans des condit
 
 3° La préparation aux épreuves théoriques et pratiques de toutes les catégories de permis de conduire d'un véhicule terrestre à moteur ;
 
-4° Les actions de formation d'accompagnement et de conseil dispensées aux créateurs ou repreneurs d'entreprises ayant pour objet de réaliser leur projet de création ou de reprise d'entreprise et de pérenniser l'activité de celle-ci ;
-
 5° Les actions de formation destinées à permettre aux bénévoles et aux volontaires en service civique d'acquérir les compétences nécessaires à l'exercice de leurs missions. Seuls les droits acquis au titre du compte d'engagement citoyen peuvent financer ces actions ;
 
 6° Les actions de formations financées par le fonds du droit individuel à la formation des élus locaux mentionné à l'article L. 1621-3 du code général des collectivités territoriales, dans les conditions prévues à la section 6 du présent chapitre.
-
-NOTA:
-Conformément au II de l'article 3 de la loi n° 2023-479 du 21 juin 2023, ces dispositions entrent en vigueur le 1er janvier 2024. Se reporter aux modalités d'application prévues à ce même article 3.

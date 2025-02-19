@@ -20,9 +20,8 @@ e) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant pou
 
 f) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant, pour les départements qui la versent, de la dotation prévue au 3° du I de l'article L. 314-2-1. Les modalités de détermination de ce montant sont précisées par décret en Conseil d'Etat ;
 
+g) Du surcroît du coût mentionné au b du présent 3° résultant de l'application du 3° du II de l'article L. 245-1 du code de l'action sociale et des familles ;
+
 4° Le financement des autres dépenses d'intervention en faveur des personnes handicapées, des personnes âgées dépendantes et des proches aidants entrant dans le champ des missions de la Caisse nationale de solidarité pour l'autonomie définies à l'article L. 223-5. A cette fin, elle peut contribuer au financement d'actions contractualisées avec les conseils départementaux et les métropoles pour la transformation inclusive de l'offre médico-sociale ou d'autres formes d'habitat dans leurs domaines de compétence ainsi qu'au financement du fonds prévu à l'article L. 1435-8 du code de la santé publique pour le soutien à des actions, des expérimentations, des dispositifs ou des structures qui participent à la prise en charge des personnes âgées et des personnes handicapées ;
 
 5° Le financement de la gestion administrative.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2024-1178 du 13 décembre 2024, la date prévue au III de l'article 2 de la loi n° 2024-317 du 8 avril 2024 est celle de l'entrée en vigueur dudit décret, soit le 15 décembre 2024.

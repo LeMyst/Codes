@@ -72,7 +72,7 @@ III. – Le bénéfice du crédit d'impôt est subordonné à la conclusion d'un
 
 IV. – Une convention conclue entre l'établissement de crédit, la société de financement ou la société de tiers-financement mentionné au 1 du I et la société de gestion mentionnée à l'article L. 312-1 du code de la construction et de l'habitation définit les modalités de déclaration par l'établissement de crédit, la société de financement ou la société de tiers-financement des avances remboursables, le contrôle de l'éligibilité des avances remboursables et le suivi des crédits d'impôt.
 
-V. – La société de gestion mentionnée au IV est tenue de fournir à l'administration fiscale, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit ou société de financement, les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit ou société de financement, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
+V. – La société de gestion mentionnée au IV est tenue de fournir à l'administration fiscale, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit, société de financement ou société de tiers-financement, les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit, société de financement ou société de tiers-financement, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
 VI. – Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
@@ -115,12 +115,4 @@ La somme des montants de l'avance émise au titre du présent VI ter et de l'ava
 VII. – Un décret fixe les modalités d'application du présent article et notamment les modalités de calcul du crédit d'impôt et de détermination du taux mentionné au II, ainsi que les caractéristiques financières et les conditions d'attribution de l'avance remboursable sans intérêt.
 
 NOTA:
-Conformément au C du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux offres de prêt émises à compter d'une date fixée par décret, et au plus tard à compter du 1er avril 2024.
-
-Conformément à l'article 6 du décret n° 2024-299 du 29 mars 2024 :
-
-I. - Les dispositions des deuxième et cinquième alinéas du a et les b à e du 7° du III de l'article 71 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024 et des articles 1er et 2 du présent décret s'appliquent aux offres d'avances remboursables sans intérêt émises à compter du lendemain de la publication du présent décret.
-
-II. - Les dispositions des troisième, quatrième et sixième au dernier alinéa du a, des premier à treizième et du dernier alinéas du f et du g du 7° du III de l'article 71 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024, et des articles 3 et 4 du présent décret s'appliquent aux offres d'avances remboursables sans intérêt émises à compter du 1er avril 2024.
-
-III. - Les dispositions de l'avant-dernier alinéa du f du 7° du III de l'article 71 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024 et de l'article 5 du présent décret s'appliquent aux offres de prêt émises à compter du 1er octobre 2023 et pour lesquelles l'emprunteur a signé le contrat de prêt à compter du 1er janvier 2024.
+Conformément au A du II de l'article 87 de la loi n° 2025-127 du 14 février 2025, le 3° du I de l'article précité s'applique aux offres d'avance remboursable ne portant pas intérêt émises à compter du 1er avril 2024.

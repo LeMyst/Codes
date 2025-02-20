@@ -31,3 +31,5 @@ IV.-L'abattement prévu au I du présent article ne s'applique pas aux plus-valu
 V.-En cas de manquement aux engagements mentionnés au II et au dernier alinéa du III, le cessionnaire est redevable d'une amende d'un montant égal à 10 % du prix de cession mentionné dans l'acte.
 
 En cas d'acquisitions successives ou de fusion de sociétés, les engagements souscrits par le cessionnaire ne sont pas rompus lorsque le nouvel acquéreur ou la société absorbante s'engage, dans l'acte authentique d'acquisition ou de fusion, à se substituer respectivement au cédant ou à la société absorbée pour le respect des engagements pris par celui-ci dans le délai restant à courir. Le non-respect de cet engagement par le nouvel acquéreur ou la société absorbante entraîne l'application à ce nouvel acquéreur ou à cette société de l'amende prévue au premier alinéa du présent V.
+
+VI.-Le 1° du A du I du présent article ne s'applique pas aux cessions de terrains, de biens ou de droits situés en Corse.

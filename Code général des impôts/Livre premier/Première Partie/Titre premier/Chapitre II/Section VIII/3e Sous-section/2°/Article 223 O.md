@@ -22,7 +22,7 @@ h. Des réductions d'impôt dégagées par chaque société du groupe en applica
 
 i. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater I ; le même article 244 quater I s'applique à la somme de ces crédits d'impôt ;
 
-j. (Abrogé) ;
+j. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 220 decies ; le même article 220 decies s'applique à la somme de ces crédits d'impôt ;
 
 k. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater J ; les dispositions de l'article 220 K s'appliquent à la somme de ces crédits d'impôt ;
 
@@ -67,8 +67,4 @@ z quinquies. Des réductions d'impôts dégagées par chaque société du groupe
 2. (Abrogé).
 
 NOTA:
-Conformément au III de l’article 35 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 27 septembre 2023. Le délai d'examen des demandes court, pour celles déposées avant l'entrée en vigueur prévue au IV, à compter de cette entrée en vigueur.
-
-Conformément au IV de l’article 35 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, postérieure à la réception par le Gouvernement de la réponse de la Commission européenne permettant de le considérer comme conforme au droit de l'Union européenne en matière d'aides d'Etat, et au plus tard trois mois après cette réception.
-
-Conformément à l'article 1 du décret n° 2024-212 du 11 mars 2024, ces dispositions entrent en vigueur le lendemain de la publication dudit décret au Journal officiel de la République française, c'est-à-dire le 14 mars 2024.
+Conformément au II de l'article 31 de la loi n° 2025-127 du 14 février 2025, l'article précité s'applique aux dépenses engagées à compter d'une date fixée par décret, postérieure à la réception par le Gouvernement de la réponse de la Commission européenne permettant de le considérer comme conforme au droit de l'Union européenne en matière d'aides d'Etat, et au plus tard six mois après cette réception.

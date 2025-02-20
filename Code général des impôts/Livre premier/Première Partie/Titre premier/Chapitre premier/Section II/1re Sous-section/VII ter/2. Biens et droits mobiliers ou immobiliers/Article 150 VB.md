@@ -25,3 +25,16 @@ II. – Le prix d'acquisition est, sur justificatifs, majoré :
 5° Des frais de voirie, réseaux et distribution en ce qui concerne les terrains à bâtir ;
 
 6° Des frais acquittés pour la restauration et la remise en état des biens meubles.
+
+III. – Le prix d'acquisition est minoré du montant des amortissements admis en déduction en application de l'article 39 C, à l'exception de ceux de ces amortissements constitutifs de dépenses prises en compte pour la détermination de l'impôt sur le revenu en application de la première phrase du 4° du II du présent article.
+
+Le premier alinéa du présent III n'est pas applicable aux biens ou aux droits relatifs à ces biens situés dans :
+
+1° Une résidence mentionnée aux articles L. 631-12 ou L. 631-13 du code de la construction et de l'habitation destinée à l'accueil exclusif des étudiants, des personnes de moins de trente ans en formation ou en stage, des personnes titulaires d'un contrat de professionnalisation ou d'apprentissage ou des personnes âgées de plus de 65 ans ;
+
+2° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément prévu à l'article L. 7232-1 du code du travail ou l'autorisation prévue à l'article L. 313-1 du code de l'action sociale et des familles pour son service d'aide et d'accompagnement à domicile relevant des 6° ou 7° du I de l'article L. 312-1 du même code ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu aux articles L. 444-1 à L. 444-9 dudit code, géré par un groupement de coopération sociale ou médico-sociale ;
+
+3° Un établissement délivrant des soins de longue durée, mentionné à l'avant-dernier alinéa du I de l'article L. 6143-5 du code de la santé publique, et comportant un hébergement pour des personnes n'ayant pas leur autonomie de vie et dont l'état nécessite une surveillance médicale constante et des traitements d'entretien.
+
+NOTA:
+Conformément au II de l'article 84 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité s'applique aux cessions réalisées à compter du lendemain de la promulgation de la présente loi.

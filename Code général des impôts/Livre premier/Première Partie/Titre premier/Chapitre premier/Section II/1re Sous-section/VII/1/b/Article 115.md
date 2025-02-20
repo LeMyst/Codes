@@ -4,17 +4,17 @@
 
 Ces dispositions s'appliquent aux opérations de fusion ou de scission de sociétés de placement à prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208, sous réserve que la société bénéficiaire des apports s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour les obligations de distribution prévues au II de l'article L. 214-69 du code monétaire et financier. En cas de scission, ces obligations doivent être reprises par les sociétés bénéficiaires des apports au prorata du montant de l'actif réel apporté, apprécié à la date d'effet de l'opération.
 
-2. Le 1 s'applique en cas d'attribution de titres représentatifs d'un apport partiel d'actif d'une branche complète d'activité aux membres de la société apporteuse, lorsque :
+2. Le 1 s'applique en cas d'attribution de titres représentatifs d'un apport partiel d'actif d'une branche complète d'activité aux membres de la société apporteuse, soit par la société apporteuse à laquelle la société bénéficiaire de l'apport a remis ces titres, soit directement par la société bénéficiaire de l'apport, lorsque :
 
 a) L'apport est placé sous le régime de l'article 210 A ;
 
 b) La société apporteuse dispose encore au moins d'une branche complète d'activité après la réalisation de l'apport ;
 
-c) Cette attribution, proportionnelle aux droits des associés dans le capital, a lieu dans un délai d'un an à compter de la réalisation de l'apport.
+c) Cette attribution, proportionnelle aux droits des associés dans le capital de la société apporteuse, a lieu dans un délai d'un an à compter de la réalisation de l'apport. Il est fait abstraction, le cas échéant, des droits des associés ayant accepté une offre de rachat de titres prévue à l'article L. 236-40 du code de commerce.
 
-Lorsque l'attribution est faite au profit d'une entreprise, les titres répartis doivent être inscrits au bilan pour une valeur égale au produit de la valeur comptable des titres de la société apporteuse et du rapport existant, à la date de l'opération d'apport, entre la valeur réelle des titres répartis et celle des titres de la société apporteuse. La valeur comptable des titres de la société apporteuse est réduite à due concurrence.
+Lorsque l'attribution est faite au profit d'une entreprise, les titres attribués doivent être inscrits au bilan pour une valeur égale au produit de la valeur comptable des titres de la société apporteuse et du rapport existant, à la date de l'opération d'apport, entre la valeur réelle des titres attribués et celle des titres de la société apporteuse. La valeur comptable des titres de la société apporteuse est réduite à due concurrence.
 
-Lorsque la valeur fiscale des titres de la société apporteuse est différente de leur valeur comptable, la plus-value de cession de ces titres ainsi que celle des titres répartis sont déterminées à partir de cette valeur fiscale qui doit être répartie selon les mêmes modalités que celles qui sont prévues à l'avant-dernier alinéa du présent 2.
+Lorsque la valeur fiscale des titres de la société apporteuse est différente de leur valeur comptable, la plus-value de cession de ces titres ainsi que celle des titres attribués sont déterminées à partir de cette valeur fiscale qui doit être répartie selon les mêmes modalités que celles qui sont prévues à l'avant-dernier alinéa du présent 2.
 
 2 bis. Lorsque l'apport partiel d'actif n'est pas représentatif d'une branche complète d'activité ou lorsque la condition du b du 2 n'est pas remplie, le 2 s'applique sur agrément délivré à la société apporteuse dans les conditions prévues à l'article 1649 nonies. La demande d'agrément doit être déposée préalablement à la réalisation de l'apport.
 
@@ -35,3 +35,6 @@ L'obligation de conservation mentionnée au deuxième alinéa du présent b n'es
 -l'actionnaire détenant 5 % au moins des droits de vote de la société apporteuse n'exerce pas une influence notable sur la gestion de cette dernière au sens de l'article L. 233-17-2 du même code.
 
 3. Les dispositions des 1,2 et 2 bis ne sont pas applicables aux opérations de fusion, scission et apport partiel d'actif par lesquelles une société non exonérée de l'impôt sur les sociétés fait apport de tout ou partie de ses biens à une société d'investissement à capital variable.
+
+NOTA:
+Conformément au II de l'article 65 de la loi n° 2025-127 du 14 février 2025, ces dispositions sont applicables aux opérations remplissant les conditions prévues à l'article 13 de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.

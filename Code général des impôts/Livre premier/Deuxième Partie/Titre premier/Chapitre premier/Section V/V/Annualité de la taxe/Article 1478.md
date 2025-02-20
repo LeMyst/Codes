@@ -2,7 +2,9 @@
 
 I. – La cotisation foncière des entreprises est due pour l'année entière par le redevable qui exerce l'activité le 1er janvier.
 
-Toutefois le contribuable qui cesse toute activité dans un établissement n'est pas redevable de la cotisation foncière des entreprises pour les mois restant à courir, sauf en cas de cession de l'activité exercée dans l'établissement ou en cas de transfert d'activité.
+Toutefois le contribuable qui cesse toute activité dans un établissement n'est pas redevable de la cotisation foncière des entreprises pour les mois restant à courir, sauf en cas de cession de l'activité exercée dans l'établissement ou en cas de transfert d'activité ou lorsque le démantèlement et la dépollution du site sur lequel l'activité était exercée sont rendus obligatoires au titre de l'article R. 512-75-1 du code de l'environnement.
+
+Dans ce dernier cas, le contribuable demeure redevable de la cotisation foncière des entreprises jusqu'à la réhabilitation ou la remise en état du site, définie au VI du même article R. 512-75-1. Le présent alinéa exclut de son champ d'application les sociétés visées par une procédure collective au sens du livre VI du code de commerce.
 
 Lorsqu'au titre d'une année une cotisation foncière des entreprises a été émise au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de ce dernier, au titre de la même année, est établie au profit de l'Etat dans la limite du dégrèvement accordé au contribuable imposé à tort.
 

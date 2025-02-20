@@ -4,7 +4,7 @@
 
 1. Le bénéfice net est constitué par la différence entre les valeurs de l'actif net à la clôture et à l'ouverture de la période dont les résultats doivent servir de base à l'impôt diminuée des suppléments d'apport et augmentée des prélèvements effectués au cours de cette période par l'exploitant ou par les associés. L'actif net s'entend de l'excédent des valeurs d'actif sur le total formé au passif par les créances des tiers, les amortissements et les provisions justifiés.
 
-Les sommes incorporées aux capitaux propres à l'occasion d'une fusion ou scission sans échange de titres au sens du 3° du II de l'article L. 236-3 du code de commerce viennent également diminuer le bénéfice net déterminé dans les conditions prévues au premier alinéa du présent 2.
+Les sommes incorporées aux capitaux propres à l'occasion d'une fusion ou scission sans échange de titres au sens des 3° ou 4° du II de l'article L. 236-3 du code de commerce viennent également diminuer le bénéfice net déterminé dans les conditions prévues au premier alinéa du présent 2.
 
 2 bis. Pour l'application des 1 et 2, les produits correspondant à des créances sur la clientèle ou à des versements reçus à l'avance en paiement du prix sont rattachés à l'exercice au cours duquel intervient la livraison des biens pour les ventes ou opérations assimilées et l'achèvement des prestations pour les fournitures de services.
 
@@ -187,4 +187,4 @@ b) Les éléments sont inscrits dans la comptabilité auxiliaire d'affectation p
 Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces éléments est calculé d'après la valeur que ces éléments avaient, du point de vue fiscal, dans les écritures de l'entreprise ayant procédé à l'opération.
 
 NOTA:
-Conformément au II de l'article 21 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux scissions réalisées à compter de l'entrée en vigueur du I de l'article 77 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises.
+Conformément au II de l'article 65 de la loi n° 2025-127 du 14 février 2025, ces dispositions sont applicables aux opérations remplissant les conditions prévues à l'article 13 de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.

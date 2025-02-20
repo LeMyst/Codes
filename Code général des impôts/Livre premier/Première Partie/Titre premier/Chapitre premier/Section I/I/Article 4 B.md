@@ -12,4 +12,6 @@ Les dirigeants mentionnés au deuxième alinéa du présent b s'entendent du pr�
 
 c. Celles qui ont en France le centre de leurs intérêts économiques.
 
+Les personnes qui satisfont à l'un au moins des critères fixés aux a à c du présent 1 ne peuvent toutefois pas être considérées comme ayant leur domicile fiscal en France lorsque, par application des conventions internationales relatives aux doubles impositions, elles ne sont pas regardées comme résidentes de France.
+
 2. Sont également considérés comme ayant leur domicile fiscal en France les agents de l'Etat, des collectivités territoriales et de la fonction publique hospitalière qui exercent leurs fonctions ou sont chargés de mission dans un pays étranger et qui ne sont pas soumis dans ce pays à un impôt personnel sur l'ensemble de leurs revenus.

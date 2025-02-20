@@ -30,9 +30,7 @@ Ouvrent également droit à la réduction d'impôt les frais engagés dans le ca
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
-1 ter. Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 593 € à compter de l'imposition des revenus de l'année 2023. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1. Par dérogation à la deuxième phrase du présent alinéa, pour l'imposition des revenus de chacune des années 2023 à 2026, ces versements sont retenus dans la limite de 1 000 euros.
-
-La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
+1 ter. Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté ainsi qu'au profit d'organismes d'intérêt général qui, à titre principal et gratuitement, accompagnent les victimes de violence domestique, au sens de l'article 3 de la convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique du 11 mai 2011, ou contribuent à favoriser leur relogement. Ces versements sont retenus dans la limite de 1 000 € à compter de l'imposition des revenus de l'année 2024. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
 
 2. Les fondations et associations reconnues d'utilité publique peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
@@ -73,4 +71,4 @@ Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les c
 1. Abrogé
 
 NOTA:
-Modifications effectuées en conséquence de l'article 2-I-2° a de la loi n° 2022-1726 du 30 décembre 2022.
+Conformément au II de l'article 5 de la loi n° 2025-127 du 14 février 2025, le I dudit article s'applique aux versements réalisés à compter du lendemain de la promulgation de ladite loi.

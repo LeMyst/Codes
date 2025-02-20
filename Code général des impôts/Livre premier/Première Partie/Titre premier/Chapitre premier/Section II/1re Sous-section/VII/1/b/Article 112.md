@@ -10,7 +10,7 @@ a. Les réserves incorporées au capital ;
 
 b. Les sommes incorporées au capital ou aux réserves (primes de fusion ou de scission) à l'occasion d'une fusion ou d'une scission de sociétés ou d'un apport partiel d'actif donnant lieu à l'attribution de titres aux associés dans les conditions prévues au 2 de l'article 115 ;
 
-c. Les sommes incorporées aux capitaux propres à l'occasion d'une fusion ou scission sans échange de titres au sens du 3° du II de l'article L. 236-3 du code de commerce ;
+c. Les sommes incorporées aux capitaux propres à l'occasion d'une fusion ou scission sans échange de titres au sens des 3° ou 4° du II de l'article L. 236-3 du code de commerce ;
 
 2° Les amortissements de tout ou partie de leur capital social, parts d'intérêt ou commandites, effectués par les sociétés concessionnaires de l'Etat, des départements, des communes ou autres collectivités publiques, lorsque ces amortissements sont justifiés par la caducité de tout ou partie de l'actif social notamment par dépérissement progressif ou par obligation de remise de concessions à l'autorité concédante. Le caractère d'amortissement de l'opération et la légitimité de l'exonération seront constatés, dans chaque cas, dans des conditions fixées par décret (1).
 
@@ -36,3 +36,5 @@ NOTA:
 Dans sa décision n° 2014-404 QPC du 20 juin 2014 (NOR : CSCX1414744S), le Conseil constitutionnel a déclaré le 6° de l'article 112 du code général des impôts contraire à la Constitution. La déclaration d'inconstitutionnalité 1er prend effet dans les conditions fixées par les considérants 13 et 14.
 
 Conformément au II de l'article 21 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux scissions réalisées à compter de l'entrée en vigueur du I de l'article 77 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises.
+
+Conformément au II de l'article 65 de la loi n° 2025-127 du 14 février 2025, ces dispositions sont applicables aux opérations remplissant les conditions prévues à l'article 13 de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.

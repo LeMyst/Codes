@@ -1,8 +1,14 @@
 # Article 1609 sexdecies C
 
-I.-Il est institué une taxe sur les locations en France de phonogrammes et de vidéomusiques destinés à l'usage privé du public dans le cadre d'une mise à disposition à la demande sur les réseaux en ligne.
+I.-Il est institué une taxe sur les locations en France de phonogrammes musicaux et de vidéomusiques destinés à l'usage privé du public dans le cadre d'une mise à disposition à la demande sur les réseaux en ligne.
 
-Pour l'application de la taxe, est assimilée à une activité de location de phonogrammes ou de vidéomusiques la mise à la disposition du public d'un service offrant, à titre autre qu'accessoire, l'accès à titre onéreux ou à titre gratuit à des enregistrements phonographiques ou vidéomusicaux, sur demande individuelle formulée par un procédé de communication électronique. Le présent alinéa n'est pas applicable au service gratuit dont l'objet principal est d'assurer la fourniture d'informations relatives à des œuvres musicales et leur promotion auprès du public.
+Pour l'application de la taxe, est assimilée à une activité de location de phonogrammes musicaux ou de vidéomusiques la mise à la disposition du public d'un service offrant, à titre autre qu'accessoire, l'accès à titre onéreux ou à titre gratuit à des enregistrements phonographiques musicaux ou vidéomusicaux, sur demande individuelle formulée par un procédé de communication électronique. Le présent alinéa n'est pas applicable au service gratuit dont l'objet principal est d'assurer la fourniture d'informations relatives à des œuvres musicales et leur promotion auprès du public.
+
+Le phonogramme musical s'entend de la fixation d'une œuvre musicale autrement que sous la forme d'une fixation incorporée dans un contenu audiovisuel.
+
+La vidéomusique s'entend du contenu audiovisuel qui met en images une œuvre musicale et pour laquelle la séquence d'image fixée présente un caractère accessoire de la musique.
+
+L'œuvre musicale s'entend de l'œuvre de l'esprit dont l'originalité résulte de la combinaison de mélodie, d'harmonie ou de rythme créés par des sons perçus simultanément ou successivement.
 
 II.-Les services mentionnés au I sont réputés mis à la disposition du public en France lorsqu'ils sont effectués en faveur des personnes qui sont établies ou ont leur domicile ou leur résidence habituelle en France.
 
@@ -16,7 +22,7 @@ IV.-La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
 
 1° Du prix acquitté par le public au titre des opérations mentionnées au I ;
 
-2° Des sommes versées par les annonceurs et les parrains pour la diffusion de leurs messages publicitaires sur un service donnant ou permettant l'accès à des enregistrements phonographiques ou vidéomusicaux ou donnant accès gratuitement à des contenus créés par des utilisateurs privés à des fins de partage et d'échanges au sein de communautés d'intérêts. Ces sommes sont prises en compte à hauteur de 34 % de leur montant.
+2° Des sommes versées par les annonceurs et les parrains pour la diffusion de leurs messages publicitaires sur un service donnant ou permettant l'accès à des enregistrements phonographiques musicaux ou vidéomusicaux ou donnant accès gratuitement à des contenus créés par des utilisateurs privés à des fins de partage et d'échanges au sein de communautés d'intérêts. Ces sommes sont prises en compte à hauteur de 34 % de leur montant.
 
 L'assiette est déterminée, chaque année civile, comme la fraction de la somme de ces montants excédant le seuil de 20 millions d'euros. Ce seuil est apprécié séparément pour chaque service mentionné au I. Lorsque plusieurs personnes sont redevables au titre d'un même service mentionné au même I, ce seuil est réparti entre ces redevables en proportion des montants encaissés.
 
@@ -29,3 +35,6 @@ La taxe est exigible à chaque encaissement des montants mentionnés au même IV
 Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
 VII.-Le produit de la taxe est affecté au Centre national de la musique dans la limite d'un plafond annuel.
+
+NOTA:
+Conformément au II de l'article 105 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité s'applique à compter du 1er janvier 2025.

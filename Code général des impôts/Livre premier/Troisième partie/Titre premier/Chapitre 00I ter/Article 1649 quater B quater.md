@@ -30,7 +30,7 @@ V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par 
 
 VI.-Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie électronique.
 
-VII.-Les déclarations mentionnées à l'article 568 ainsi que les déclarations relatives à l'impôt sur les maisons de jeux prévu à l'article 1559 sont souscrites par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent ces déclarations sur papier.
+VII.-Les déclarations mentionnées à l'article 568 sont souscrites par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent ces déclarations sur papier.
 
 VIII.-Les redevables mentionnés au II de l'article 117 quater et au I de l'article 125 A souscrivent leurs déclarations par voie électronique lorsqu'ils sont uniquement redevables des prélèvements mentionnés :
 
@@ -57,4 +57,4 @@ XV.-Les déclarations de la taxe sur les conventions d'assurance mentionnée à 
 XVI.-Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de l'article 1738.
 
 NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au V de l'article 26 de la loi n° 2025-127 du 14 février 2025, ces dispositions s'appliquent à compter du 1er janvier 2025.

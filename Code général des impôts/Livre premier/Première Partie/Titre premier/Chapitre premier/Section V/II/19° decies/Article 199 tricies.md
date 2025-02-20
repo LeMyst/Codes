@@ -2,7 +2,7 @@
 
 I.-A.-Le contribuable domicilié en France, au sens de l'article 4 B, bénéficie d'une réduction d'impôt sur le revenu à raison du logement qu'il donne en location, sous réserve des conditions suivantes :
 
-1° Le logement est donné en location dans le cadre d'une des conventions mentionnées aux articles L. 321-4 ou L. 321-8 du code de la construction et de l'habitation, dont la date d'enregistrement par l'Agence nationale de l'habitat de la demande de conventionnement intervient entre le 1er mars 2022 et le 31 décembre 2024 ;
+1° Le logement est donné en location dans le cadre d'une des conventions mentionnées aux articles L. 321-4 ou L. 321-8 du code de la construction et de l'habitation, dont la date d'enregistrement par l'Agence nationale de l'habitat de la demande de conventionnement intervient entre le 1er mars 2022 et le 31 décembre 2027 ;
 
 2° Le logement est loué nu à usage d'habitation principale pendant toute la durée de la convention mentionnée au 1° du présent A ;
 

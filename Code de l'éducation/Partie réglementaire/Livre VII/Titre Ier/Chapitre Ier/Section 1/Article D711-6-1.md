@@ -8,8 +8,6 @@ Le statut d'établissement public à caractère scientifique, culturel et profes
 
 4° L'Université Polytechnique Hauts-de-France : décret n° 2019-942 du 9 septembre 2019.
 
-5° CY Cergy Paris Université : décret n° 2019-1095 du 28 octobre 2019.
-
 6° Université Paris-Saclay : décret n° 2019-1131 du 5 novembre 2019.
 
 9° Université Gustave Eiffel : décret n° 2019-1360 du 13 décembre 2019 ;

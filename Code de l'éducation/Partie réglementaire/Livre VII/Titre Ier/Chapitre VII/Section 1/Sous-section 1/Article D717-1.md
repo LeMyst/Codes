@@ -40,4 +40,6 @@ Les dispositions relatives aux grands établissements placés sous la tutelle du
 
 20° Université Grenoble Alpes : décret n° 2019-1123 du 31 octobre 2019 portant création de l'Université Grenoble Alpes et approbation de ses statuts ;
 
-21° Université Côte d'Azur : décret n° 2019-785 du 25 juillet 2019 portant création de l'Université Côte d'Azur et approbation de ses statuts.
+21° Université Côte d'Azur : décret n° 2019-785 du 25 juillet 2019 portant création de l'Université Côte d'Azur et approbation de ses statuts ;
+
+22° CY Cergy Paris Université : décret n° 2019-1095 du 28 octobre 2019 portant création de CY Cergy Paris Université et approbation de ses statuts.

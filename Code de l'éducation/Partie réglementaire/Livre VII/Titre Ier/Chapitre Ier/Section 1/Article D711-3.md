@@ -10,9 +10,11 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 
 4° CentraleSupélec ;
 
-4-1° Ecole de l'air et de l'espace ;
+4-1° CY Cergy Paris Université ;
 
-4-2° Ecole d'économie et de sciences sociales quantitatives de Toulouse-TSE ;
+4-2° Ecole de l'air et de l'espace ;
+
+4-3° Ecole d'économie et de sciences sociales quantitatives de Toulouse-TSE ;
 
 5° Ecole des hautes études en santé publique ;
 
@@ -81,6 +83,3 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 34° Université Grenoble Alpes ;
 
 35° Université Côte d'Azur.
-
-NOTA:
-Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

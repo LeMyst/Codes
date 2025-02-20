@@ -14,7 +14,7 @@ II.-Pour la réalisation des missions définies au I, les sociétés d'aménagem
 
 1° Acquérir, dans le but de les rétrocéder, des biens ruraux, des terres, des exploitations agricoles ou forestières ;
 
-2° Se substituer un ou plusieurs attributaires pour réaliser la cession de tout ou partie des droits conférés, soit par une promesse unilatérale de vente, soit par une promesse synallagmatique de vente, portant sur les biens visés aux 1° et 3°, dès lors que la substitution intervient dans un délai maximal de six mois à compter du jour où ladite promesse a acquis date certaine et, au plus tard, au jour de l'acte authentique réalisant ou constatant la vente ;
+2° Se substituer un ou plusieurs attributaires pour réaliser la cession de tout ou partie des droits conférés, soit par une promesse unilatérale de vente, soit par une promesse synallagmatique de vente, portant sur les biens visés aux 1° et 3°, dès lors que la substitution intervient dans un délai maximal de dix mois à compter du jour où ladite promesse a acquis date certaine et, au plus tard, au jour de l'acte authentique réalisant ou constatant la vente ;
 
 3° Acquérir des actions ou parts de sociétés détenant en propriété ou en jouissance des biens immobiliers à usage ou à vocation agricole ou détenant des droits sur de telles sociétés, notamment, par dérogation à l'article L. 322-1, la totalité ou une partie des parts de groupements fonciers agricoles ou de groupements fonciers ruraux ;
 

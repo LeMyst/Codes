@@ -17,3 +17,10 @@ Lorsque tout ou partie de l'épargne recueillie par le plan est destinée à êt
 Le règlement du plan d'épargne d'entreprise peut prévoir que les fonds communs de placement régis par l'article L. 214-164 du code monétaire et financier qui peuvent recevoir les sommes versées dans le plan disposent d'un conseil de surveillance commun. Il peut également fixer la composition des conseils de surveillance des fonds communs de placement régis par les articles L. 214-164 et L. 214-165 du même code. En ce cas, il est fait application des dispositions de ces articles. Le règlement précise les modalités de désignation de ces conseils.
 
 L'entreprise dont les titres ne sont pas admis aux négociations sur un marché réglementé et qui a proposé ses titres aux adhérents de son plan d'épargne d'entreprise sans déterminer le prix de cession conformément aux dispositions légales relatives à l'évaluation de ses titres ne bénéficie pas, au titre de cette opération, des exonérations fiscales et sociales prévues aux articles L. 3332-22 et L. 3332-27.
+
+Ne peuvent être inscrits sur un plan d'épargne d'entreprise ni les bons de souscription de parts de créateur d'entreprise attribués dans les conditions définies aux II et III de l'article 163 bis G du code général des impôts, ni les titres souscrits en exercice de ces bons.
+
+NOTA:
+Conformément au C de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateur d'entreprise attribués ou exercés à compter du 10 octobre 2024.
+
+S'agissant des titres souscrits en exercice de bons de souscription de parts de créateur d'entreprise figurant dans un plan d'épargne d'entreprise avant le 10 octobre 2024, le titulaire du plan peut les retirer du plan en effectuant sur celui-ci, dans un délai de deux mois à compter de la date de ce retrait, un versement compensatoire en numéraire d'un montant égal à la valeur de ces titres appréciée à cette même date. Ce versement compensatoire n'est pas pris en compte pour l'appréciation du plafond des versements autorisés sur ce plan prévu à l'article L. 3332-10 du code du travail.

@@ -1,0 +1,7 @@
+# Article L2135-15-1
+
+I.-Est affectée à l'association mentionnée à l'article L. 2135-15 une contribution des employeurs mentionnés à l'article L. 2111-1. Cette contribution est assise sur les rémunérations versées aux salariés mentionnés au même article L. 2111-1 et comprises dans l'assiette des cotisations de sécurité sociale définie à l'article L. 242-1 du code de la sécurité sociale et à l'article L. 741-10 du code rural et de la pêche maritime. Son taux est fixé par un accord conclu entre les organisations représentatives des salariés et des employeurs au niveau national et interprofessionnel et agréé par le ministre chargé du travail ou, à défaut d'un tel accord ou de son agrément, par décret. Ce taux ne peut être ni supérieur à 0,02 %, ni inférieur à 0,014 %.
+
+L'association verse au fonds paritaire mentionné à l'article L. 2135-9 du présent code une subvention, dans la limite de la contribution perçue pour le financement de sa mission de service public dans les conditions prévues à la présente section.
+
+II.-La contribution mentionnée au I du présent article est recouvrée et contrôlée, selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de sécurité sociale assises sur les rémunérations, par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et à l'article L. 723-1 du code rural et de la pêche maritime, selon des modalités précisées par voie réglementaire.

@@ -2,7 +2,7 @@
 
 I. ― Les ressources du fonds paritaire sont constituées par :
 
-1° Une contribution des employeurs mentionnés à l'article L. 2111-1 du présent code, assise sur les rémunérations versées aux salariés mentionnés au même article et comprises dans l'assiette des cotisations de sécurité sociale définie à l'article L. 242-1 du code de la sécurité sociale et à l'article L. 741-10 du code rural et de la pêche maritime, dont le taux est fixé par un accord conclu entre les organisations représentatives des salariés et des employeurs au niveau national et interprofessionnel et agréé par le ministre chargé du travail ou, à défaut d'un tel accord ou de son agrément, par décret. Ce taux ne peut être ni supérieur à 0,02 % ni inférieur à 0,014 % ;
+1° Une subvention de l'association paritaire gestionnaire du fonds mentionnée à l'article L. 2135-15, dans la limite de la contribution mentionnée à l'article L. 2135-15-1 que l'association perçoit ;
 
 2° Le cas échéant, une participation volontaire d'organismes à vocation nationale dont le champ d'intervention dépasse le cadre d'une ou de plusieurs branches professionnelles, gérés majoritairement par les organisations syndicales de salariés et les organisations professionnelles d'employeurs. La liste des organismes pouvant verser une participation au fonds est fixée par l'accord mentionné au 1° ou, à défaut d'accord ou de son agrément, par décret ;
 
@@ -10,13 +10,11 @@ I. ― Les ressources du fonds paritaire sont constituées par :
 
 4° Le cas échéant, toute autre ressource prévue par des dispositions législatives ou réglementaires, par une convention étendue, un accord de branche étendu, un accord professionnel ou interprofessionnel étendu qui en confie la gestion à l'association gestionnaire du fonds paritaire.
 
-II. ― La contribution mentionnée au 1° du I du présent article est recouvrée et contrôlée, selon les règles et sous les mêmes garanties et sanctions applicables au recouvrement des cotisations du régime général de sécurité sociale assises sur les rémunérations, par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et à l'article L. 723-1 du code rural et de la pêche maritime, selon des modalités précisées par voie réglementaire.
-
-Lorsqu'une convention ou un accord désigne, en application du 4° de l'article L. 2135-10, le fonds paritaire comme gestionnaire des ressources ainsi instituées, les contributions correspondantes sont recouvrées selon les règles et sous les garanties et sanctions applicables en matière de cotisations et de contributions de sécurité sociale, selon des modalités précisées par voie réglementaire. Ces modalités sont déclinées par une convention cadre signée entre les organismes mentionnés à l'article L. 225-1-1 du code de la sécurité sociale et à l'article L. 723-11 du code rural et de la pêche maritime et les organisations syndicales de salariés et organisations professionnelles d'employeur composant la commission paritaire permanente de négociation et d'interprétation de chaque branche.
+II. ― Lorsqu'une convention ou un accord désigne, en application du 4° de l'article L. 2135-10, le fonds paritaire comme gestionnaire des ressources ainsi instituées, les contributions correspondantes sont recouvrées selon les règles et sous les garanties et sanctions applicables en matière de cotisations et de contributions de sécurité sociale, selon des modalités précisées par voie réglementaire. Ces modalités sont déclinées par une convention cadre signée entre les organismes mentionnés à l'article L. 225-1-1 du code de la sécurité sociale et à l'article L. 723-11 du code rural et de la pêche maritime et les organisations syndicales de salariés et organisations professionnelles d'employeur composant la commission paritaire permanente de négociation et d'interprétation de chaque branche.
 
 La liste des informations relatives aux entreprises redevables qui sont communiquées à l'association gestionnaire du fonds paritaire par les organismes chargés du recouvrement est fixée par décret.
 
-III. ― L'accord mentionné au 4° du I du présent article peut donner mandat à des organisations syndicales de salariés et à des organisations professionnelles d'employeurs représentatives au niveau de la branche de conclure une convention avec les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime, afin de confier aux organismes mentionnés au II du présent article le recouvrement de la contribution mentionnée au 4° du I. Cette contribution est alors versée à l'association gestionnaire du fonds paritaire mentionnée à l'article L. 2135-9 du présent code, qui en assure la répartition entre les branches affectataires.
+III. ― L'accord mentionné au 4° du I du présent article peut donner mandat à des organisations syndicales de salariés et à des organisations professionnelles d'employeurs représentatives au niveau de la branche de conclure une convention avec les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime, afin de confier aux organismes mentionnés au II de l'article L. 2135-15-1 le recouvrement de la contribution mentionné au 4° du I. Cette contribution est alors versée à l'association gestionnaire du fonds paritaire mentionnée à l'article L. 2135-9 du présent code, qui en assure la répartition entre les branches affectataires.
 
 La convention prévue au premier alinéa du présent III respecte les conditions suivantes :
 
@@ -47,8 +45,3 @@ Le modèle de la convention prévue au premier alinéa du présent III est fixé
 La liste des informations relatives aux entreprises redevables communiquées à l'association gestionnaire du fonds paritaire par les organismes chargés du recouvrement est fixée par décret.
 
 Une convention entre l'association gestionnaire du fonds paritaire mentionnée à l'article L. 2135-9 et l'institution mentionnée à l'article L. 6123-5 prévoit les modalités de communication des données relatives aux entreprises redevables de la contribution mentionnée au 4° du I du présent article.
-
-NOTA:
-Conformément au II de l’article 8 de l’ordonnance n° 2021-797 du 23 juin 2021, ces dispositions entrent en vigueur au 1er janvier 2024 pour les contributions dues à compter de cette date.
-
-Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

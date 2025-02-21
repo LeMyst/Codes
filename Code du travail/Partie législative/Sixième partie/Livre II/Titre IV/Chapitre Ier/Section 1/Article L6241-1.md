@@ -12,8 +12,6 @@ III.-Par dérogation au I, ne sont pas redevables de cette taxe :
 
 2° Les groupements d'employeurs agricoles mentionnés à l'article L. 1253-1 du présent code ;
 
-3° Les mutuelles régies par les livres Ier et III du code de la mutualité ;
-
 4° Les associations, organismes fondations, fonds de dotation, congrégations, syndicats à activités non lucratives mentionnés au 1 bis de l'article 206 du code général des impôts et aux 5°, 5° bis et 11° de l'article 207 du même code ;
 
 5° Les sociétés coopératives agricoles d'approvisionnement et d'achat ainsi que les unions de sociétés coopératives agricoles d'approvisionnement et d'achat ;

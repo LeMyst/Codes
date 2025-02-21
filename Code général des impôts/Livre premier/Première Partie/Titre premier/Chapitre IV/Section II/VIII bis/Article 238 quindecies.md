@@ -26,7 +26,7 @@ d) Une société soumise à l'impôt sur les sociétés qui répond cumulativeme
 
 2° son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs entreprises ne répondant pas aux conditions du précédent alinéa de manière continue au cours de l'exercice. Pour la détermination de ce pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice ;
 
-Pour l'application du présent d, le bénéfice des dispositions du I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis, du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ou du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ;
+Pour l'application du présent d, le bénéfice des dispositions du I est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis, du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ou du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ;
 
 3 En cas de transmission à titre onéreux, le cédant ou, s'il s'agit d'une société, l'un de ses associés qui détient directement ou indirectement au moins 50 % des droits de vote ou des droits dans les bénéfices sociaux ou y exerce la direction effective n'exerce pas, en droit ou en fait, la direction effective de l'entreprise cessionnaire ou ne détient pas, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de cette entreprise.
 
@@ -66,6 +66,14 @@ VII. – La transmission d'une activité qui fait l'objet d'un contrat de locati
 
 Pour l'appréciation des seuils mentionnés aux 1° et 2° du I, il est tenu compte du prix stipulé des éléments de l'activité donnée en location ou de leur valeur vénale, auxquels sont ajoutées les charges en capital et les indemnités stipulées au profit du cédant, à quelque titre et pour quelque cause que ce soit.
 
+VII bis.-Les montants de 500 000 € et de 1 000 000 € mentionnés aux I et III du présent article sont portés respectivement à 700 000 € et 1 200 000 € lorsque la transmission mentionnée aux mêmes I et III et respectant les conditions prévues aux 1 et 2 du II est réalisée au profit :
+
+1° D'une ou de plusieurs personnes physiques justifiant de l'octroi des aides à l'installation des jeunes agriculteurs mentionnées au I de l'article 73 B au titre de cette même transmission ;
+
+2° Ou d'une société ou d'un groupement dont chacun des associés ou des membres justifie de l'octroi des aides mentionnées au 1° du présent VII bis au titre de cette même transmission.
+
+L'exonération résultant de la majoration des seuils mentionnée au premier alinéa du présent VII bis est remise en cause au titre de l'année qui suit celle de la cession si le cédant n'est pas en mesure de justifier, au plus tard à la date du dépôt de la déclaration de revenus relative à cette année, de l'octroi, aux cessionnaires mentionnés aux 1° et 2°, des aides mentionnées au I de l'article 73 B.
+
 VIII. – L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au I de l'article 41, au I ter de l'article 93 quater, aux articles 151 septies, 151 octies et 151 octies A, au II de l'article 151 nonies et aux articles 210 A à 210 C.
 
 VIII bis.-L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I du présent article si les conditions suivantes sont réunies :
@@ -75,3 +83,8 @@ VIII bis.-L'indemnité compensatrice versée à un agent général d'assurances 
 2° L'agent général d'assurances cède son entreprise individuelle ou une branche complète d'activité.
 
 IX. – Les dispositions du présent article s'appliquent aux transmissions réalisées à compter du 1er janvier 2006.
+
+NOTA:
+Conformément au C du III de l'article 70 de la loi n° 2025-127 du 14 février 2024, les D, E, F et H du I de l'article précité s'appliquent aux cessions réalisées au cours des exercices ouverts à compter du 1er janvier 2025.
+
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

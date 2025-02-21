@@ -42,7 +42,7 @@ IV.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L
 
 V.-Un décret définit les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
 
-VI.-Le bénéfice du crédit d'impôt est subordonné au respect du régime cadre exempté de notification n° SA. 58995 relatif aux aides à la recherche, au développement et à l'innovation pour la période 2014-2023, pris sur la base du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+VI.-Le bénéfice du crédit d'impôt est subordonné au respect du régime cadre exempté de notification n° SA. 111723 relatif aux aides à la recherche, au développement et à l'innovation (RDI) pour la période 2024-2026, pris sur la base du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 35-I-2° de loi n° 2021-1900 du 30 décembre 2021.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

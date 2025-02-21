@@ -4,6 +4,8 @@ I.-En présence d'autres détenteurs de participations, le montant dû en applic
 
 II.-Le ratio d'inclusion de l'entité mère correspond au rapport entre, d'une part, le bénéfice qualifié de l'entité constitutive minoré de la part de ce bénéfice attribuable aux participations des autres détenteurs dans cette entité constitutive et, d'autre part, le bénéfice qualifié de cette même entité constitutive.
 
+Par dérogation au premier alinéa du présent II, le ratio d'inclusion de l'entité mère à l'égard d'une entité constitutive, qui est une entité d'investissement ou une entité d'investissement d'assurance dont la part de résultat qualifié est déterminée dans les conditions prévues à l'article 223 WT quinquies, est réputé être égal à 1.
+
 III.-La part du bénéfice qualifié attribuable aux participations des autres détenteurs correspond à la part qui leur aurait été attribuable en application de la norme de comptabilité financière utilisée pour l'établissement des états financiers consolidés de l'entité mère ultime dans l'hypothèse où auraient été cumulativement remplies les conditions suivantes :
 
 1° L'entité mère établit des états financiers consolidés conformément à la norme de comptabilité financière utilisée pour l'établissement des états financiers consolidés de l'entité mère ultime ;
@@ -17,4 +19,4 @@ III.-La part du bénéfice qualifié attribuable aux participations des autres d
 5° Toutes les participations non détenues directement ou indirectement par l'entité mère sont détenues par des personnes autres que des entités du groupe.
 
 NOTA:
-Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.

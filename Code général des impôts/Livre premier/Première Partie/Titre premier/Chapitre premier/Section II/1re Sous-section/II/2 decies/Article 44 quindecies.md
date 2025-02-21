@@ -20,7 +20,7 @@ d) Le capital de l'entreprise créée ou reprise n'est pas détenu, directement 
 
 e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités préexistantes. L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat caractérise l'extension d'une activité préexistante lorsque l'entreprise créée ou reprenant l'activité bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise est placée dans une situation de dépendance.
 
-III.-L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44 septies, dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022, 44 octies, dans sa rédaction antérieure à la même loi, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
+III.-L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44 septies, dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022,44 octies, dans sa rédaction antérieure à la même loi, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
 
@@ -34,9 +34,9 @@ b) Si, lorsque l'entreprise individuelle a déjà fait l'objet d'une première o
 
 IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VI. – L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
 
 NOTA:
-Conformément au A du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

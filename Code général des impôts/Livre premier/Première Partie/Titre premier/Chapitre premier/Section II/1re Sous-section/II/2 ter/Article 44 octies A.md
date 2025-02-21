@@ -1,6 +1,6 @@
 # Article 44 octies A
 
-I. – Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2024, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui du début de leur activité dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
+I. – Les contribuables qui, entre le 1er janvier 2006 et le 31 décembre 2025, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone jusqu'au terme du cinquante-neuvième mois suivant celui du début de leur activité dans l'une de ces zones. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
 Dans les collectivités de Guadeloupe, de Guyane, de Martinique, de La Réunion et de Mayotte, les dispositions du premier alinéa du présent I ne s'appliquent qu'aux activités créées dans ces zones jusqu'au 31 décembre 2018.
 
@@ -42,7 +42,7 @@ Pour les contribuables qui créent ou implantent des activités dans une zone fr
 
 2° Ou le nombre de salariés embauchés à compter de la création ou de l'implantation de l'entreprise et remplissant les conditions décrites au 1° soit égal au moins à la moitié du total des salariés embauchés dans les mêmes conditions, au cours de la même période.
 
-Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines-territoires entrepreneurs définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que pour ceux qui, à compter du 1er janvier 2012, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au même B, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines-territoires entrepreneurs définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ainsi que pour ceux qui, à compter du 1er janvier 2012, créent des activités dans les zones franches urbaines-territoires entrepreneurs définies au même B, le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223 I.
 
@@ -53,4 +53,12 @@ Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de 
 IV. – Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+
+Conformément au II de l'article 100 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à compter du 1er janvier 2025.
+
+Conformément au III dudit article, la perte de recettes résultant pour l'Etat du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Conformément au IV du même article, la perte de recettes résultant pour les collectivités territoriales du I est compensée, à due concurrence, par la majoration de la dotation globale de fonctionnement et, corrélativement pour l'Etat, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Conformément au V de cet article, la perte de recettes résultant pour les organismes de sécurité sociale du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

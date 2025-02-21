@@ -16,13 +16,13 @@ III.-Pour bénéficier de l'exonération, le redevable déclare au service des i
 
 L'exonération porte sur les éléments déclarés dans le délai prévu au premier alinéa du présent III.
 
-IV.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 C ter, 1383 D, 1383 F, 1383 I, 1383 J, 1383 K ou 1388 quinquies et de celle prévue au présent article sont remplies, la demande du bénéfice de cette dernière exonération dans les conditions prévues au III vaut option pour celle-ci. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
+IV.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 C ter, 1383 D, 1383 F, 1383 H, 1383 I, 1383 J, 1383 K ou 1388 quinquies et de celle prévue au présent article sont remplies, la demande du bénéfice de cette dernière exonération dans les conditions prévues au III vaut option pour celle-ci. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
 
 A défaut d'option, le redevable continue de bénéficier de l'application du régime dont il bénéficiait avant l'institution de l'exonération prévue au présent article.
 
-V.-Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+V.-Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VI.-Dans le cas où l'exonération s'applique à un immeuble ou une fraction d'immeuble loué, le bailleur déduit le montant de l'avantage fiscal ainsi obtenu du montant des loyers, si ce montant de loyers n'intègre pas déjà une réduction correspondante.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

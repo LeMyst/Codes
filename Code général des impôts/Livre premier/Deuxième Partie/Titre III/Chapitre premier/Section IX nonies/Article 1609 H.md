@@ -4,7 +4,7 @@ Il est institué, au profit de l'établissement public local Société Grand Pro
 
 Le produit de cette taxe est fixé à 29,5 millions d'euros par an. Ce montant est actualisé au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans la loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, à la dizaine de milliers d'euros supérieure.
 
-Le produit mentionné au deuxième alinéa est réparti entre toutes les personnes, physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et à la cotisation foncière des entreprises dans les communes situées à moins de soixante minutes par véhicule automobile d'une gare desservie par la future ligne à grande vitesse, proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à ces communes et à leurs établissements publics de coopération intercommunale. Les recettes à prendre en compte pour opérer cette répartition s'entendent de celles figurant dans les rôles généraux.
+Le produit mentionné au deuxième alinéa est réparti entre toutes les personnes, physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et à la cotisation foncière des entreprises dans les communes situées à moins de soixante minutes par véhicule automobile d'une gare desservie par la future ligne à grande vitesse, proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à ces communes et à leurs établissements publics de coopération intercommunale. Les recettes à prendre en compte pour opérer cette répartition s'entendent de celles figurant dans les rôles généraux.
 
 Pour l'application du troisième alinéa, le point d'arrivée à retenir est la mairie de la commune.
 
@@ -12,9 +12,9 @@ Les données utilisées sont celles qui sont disponibles la première année au 
 
 La liste des communes concernées est établie par arrêté conjoint des ministres chargés du budget et des transports.
 
-Les recettes de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale à prendre en compte pour opérer cette répartition sont minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à l'ensemble des communes listées dans l'arrêté prévu au sixième alinéa du présent article.
+Les recettes de taxe d'habitation sur les résidences secondaires à prendre en compte pour opérer cette répartition sont minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à l'ensemble des communes listées dans l'arrêté prévu au sixième alinéa du présent article.
 
 La taxe est établie et recouvrée selon les règles définies aux septième à avant-dernier alinéas de l'article 1607 bis.
 
 NOTA:
-Conformément au II de l'article 77 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à compter du 1er janvier 2024.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

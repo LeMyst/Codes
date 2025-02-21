@@ -148,7 +148,7 @@ b) Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'imp�
 
 Cette facture comporte, outre les mentions prévues à l'article 289 :
 
-1° Le lieu de réalisation des travaux ou de l'audit énergétique;
+1° Le lieu de réalisation des travaux ou de l'audit énergétique ;
 
 2° La nature de ces travaux ainsi que la désignation, le montant et, le cas échéant, les caractéristiques et les critères de performances, mentionnés à la deuxième phrase du premier alinéa du 2, des équipements, matériaux et appareils ;
 
@@ -184,9 +184,6 @@ b) Ou d'une déduction de charges pour la détermination de ses revenus catégor
 
 c) Ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
 
-7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater F à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait le cas échéant l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale à la différence entre le montant de l'avantage fiscal initialement accordé et le montant de l'avantage fiscal déterminé en application des dispositions du 5 ter sur la base de la dépense finalement supportée par le contribuable. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
-
-NOTA:
-Conformément au A du III de l’article 53 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux dépenses payées en 2020. Se reporter aux dispositions précisées au B dudit III.

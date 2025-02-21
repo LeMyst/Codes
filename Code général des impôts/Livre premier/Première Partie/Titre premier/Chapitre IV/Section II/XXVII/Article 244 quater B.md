@@ -1,10 +1,10 @@
 # Article 244 quater B
 
-I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 30 %. Ce taux est porté à 60 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
+I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 60 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B, 239 quater C et 239 quater D ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
-Le seuil de 100 millions d'euros mentionné au premier alinéa du présent I est apprécié en prenant en compte les dépenses mentionnées aux a à j du II du présent article et les dépenses mentionnées au 1 du A du II de l'article 244 quater B bis.
+Le seuil de 100 millions d'euros mentionné au premier alinéa du présent I est apprécié en prenant en compte les dépenses mentionnées aux a à i du II du présent article et les dépenses mentionnées au 1 du A du II de l'article 244 quater B bis.
 
 II. – Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
@@ -12,17 +12,15 @@ a) Les dotations aux amortissements des immobilisations, créées ou acquises à
 
 a bis) En cas de sinistre touchant les immobilisations visées au a, la dotation aux amortissements correspondant à la différence entre l'indemnisation d'assurance et le coût de reconstruction et de remplacement ;
 
-b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat, au sens de l'article L. 612-7 du code de l'éducation, ou d'un diplôme équivalent, elles sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ;
+b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations ;
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ;
 
-c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au a et de 43 % des dépenses de personnel mentionnées à la première phrase du b et au b bis ;
-
-Ce pourcentage est fixé à :
+c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à la somme de 75 % des dotations aux amortissements mentionnées au a et de 40 % des dépenses de personnel mentionnées aux b et b bis ;
 
 1° et 2° (abrogés pour les dépenses retenues pour le calcul du crédit d'impôt à compter du 1er janvier 2000).
 
-3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat, au sens de l'article L. 612-7 du code de l'éducation, ou d'un diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
+3° (Abrogé)
 
 d) (abrogé)
 
@@ -34,11 +32,11 @@ d ter) Les opérations mentionnées au d bis sont réalisées directement par le
 
 Les dépenses mentionnées au d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de 2 millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés au d bis, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes.
 
-e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
+e) (Abrogé)
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 € par an, les primes et cotisations ou la part des primes et cotisations afférentes à des contrats d'assurance de protection juridique prévoyant la prise en charge des dépenses exposées, à l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de litiges portant sur un brevet ou un certificat d'obtention végétale dont l'entreprise est titulaire ;
+e bis) (Abrogé)
 
-f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
+f) (Abrogé)
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur montant :
 
@@ -48,7 +46,7 @@ g) Les dépenses de normalisation afférentes aux produits de l'entreprise, déf
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 450 € par jour de présence auxdites réunions ;
 
-h) Jusqu'au 31 décembre 2024, les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
+h) Jusqu'au 31 décembre 2027, les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
 
 1° Les dépenses de personnel afférentes aux stylistes et techniciens des bureaux de style directement et exclusivement chargés de la conception de nouveaux produits et aux ingénieurs et techniciens de production chargés de la réalisation de prototypes ou d'échantillons non vendus ;
 
@@ -60,11 +58,11 @@ h) Jusqu'au 31 décembre 2024, les dépenses liées à l'élaboration de nouvell
 
 5° Les frais de défense des dessins et modèles, dans la limite de 60 000 € par an ;
 
-i) Jusqu'au 31 décembre 2024, les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
+i) Jusqu'au 31 décembre 2027, les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
-j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 € par an.
+j) (Abrogé)
 
-k) Jusqu'au 31 décembre 2024, les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
+k) Jusqu'au 31 décembre 2027, les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de conception de prototypes ou installations pilotes de nouveaux produits autres que les prototypes et installations pilotes mentionnés au a ;
 
@@ -88,19 +86,19 @@ Pour l'application du présent k, est considéré comme nouveau produit un bien 
 
 Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est pas destiné à être mis sur le marché mais à être utilisé comme modèle pour la réalisation d'un nouveau produit.
 
-Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e, e bis, j et des frais mentionnés aux 4° et 5° du k, correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
+Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des frais mentionnés aux 4° et 5° du k, correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 (Périmé).
 
-II bis. – 1. Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II du présent article est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+II bis. – 1. Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II du présent article est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-Pour l'application du premier alinéa du présent 1, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 précité. La fraction du crédit d'impôt mentionnée au premier alinéa du présent 1 peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+Pour l'application du premier alinéa du présent 1, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 précité. La fraction du crédit d'impôt mentionnée au premier alinéa du présent 1 peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 2. Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses mentionnées au k du II du présent article est subordonné au respect des articles 2,25 et 30 et du 1, du a du 2 et du 3 de l'article 28 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 1. Le bénéfice des taux majorés mentionnés au I pour le crédit d'impôt qui résulte de la prise en compte des dépenses de recherche prévues aux a à k du II exposées dans des exploitations situées dans un département d'outre-mer est subordonné au respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
-III. – Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
+III. – Les subventions publiques, qui s'entendent des aides versées par les personnes morales de droit public ou par les personnes morales de droit privé chargées d'une mission de service public, reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
 
 Pour le calcul du crédit d'impôt, le montant des dépenses exposées par les entreprises auprès de tiers au titre de prestations de conseil pour l'octroi du bénéfice du crédit d'impôt est déduit des bases de calcul de ce dernier à concurrence :
 
@@ -117,3 +115,12 @@ Sur la base des informations contenues dans les états mentionnés aux deux prem
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. – Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
+
+NOTA:
+Conformément au IV de l'article 55 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux dépenses exposées à compter du lendemain de la promulgation de la présente loi.
+
+Conformément au II de l'article 56 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, le 1° du I s'applique aux dépenses exposées à compter du 1er janvier 2025, lequel dispose : "Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %."
+
+Conformément au II de l'article 58 de ladite loi, le I s'applique aux dépenses de recherche exposées à compter du lendemain de la promulgation de la présente loi, lequel dispose : "Les subventions publiques, qui s'entendent des aides versées par les personnes morales de droit public ou par les personnes morales de droit privé chargées d'une mission de service public, reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables."
+
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

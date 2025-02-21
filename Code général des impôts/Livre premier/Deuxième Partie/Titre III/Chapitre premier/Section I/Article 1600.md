@@ -26,7 +26,7 @@ Sont exonérés de cette taxe :
 
 11° Les artisans pêcheurs et les sociétés de pêche artisanale visés aux 1° et 1° bis de l'article 1455 ;
 
-12° Les redevables de la cotisation foncière des entreprises qui bénéficient de l'exonération de cotisation minimum en application du troisième alinéa du 1 du I de l'article 1647 D. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+12° Les redevables de la cotisation foncière des entreprises qui bénéficient de l'exonération de cotisation minimum en application du troisième alinéa du 1 du I de l'article 1647 D. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 II. – 1. – La taxe additionnelle à la cotisation foncière des entreprises mentionnée au I est due par les redevables de cette cotisation proportionnellement à leur base d'imposition.
 
@@ -44,7 +44,7 @@ Son taux est égal à 13,84 %.
 
 2. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
-IV. – Il est opéré un prélèvement de 40 millions d'euros sur les fonds de roulement du réseau des chambres de commerce et d'industrie. Ce prélèvement est réparti entre les différents établissements du réseau par CCI France et est reversé au budget général de l'Etat.
-
 NOTA:
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+
 Conformément au F du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies au titre de 2025.

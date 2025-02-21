@@ -1,6 +1,6 @@
 # Article 44 quindecies A
 
-I. - A. - Les contribuables qui, entre le 1er juillet 2024 et le 31 décembre 2029, créent ou reprennent des activités industrielles, commerciales ou artisanales, au sens de l'article 34, ou professionnelles, au sens du 1 de l'article 92, dans les zones France ruralités revitalisation “ plus ” définies au III du présent article sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés au titre des bénéfices provenant des activités implantées dans la zone, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création d'activité ou celui de la reprise d'activité, et déclarés selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103.
+I. - A. - Les contribuables qui, entre le 1er janvier 2025 et le 31 décembre 2029, créent ou reprennent des activités industrielles, commerciales ou artisanales, au sens de l'article 34, ou professionnelles, au sens du 1 de l'article 92, dans les zones France ruralités revitalisation “ plus ” définies au III du présent article sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés au titre des bénéfices provenant des activités implantées dans la zone, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création d'activité ou celui de la reprise d'activité, et déclarés selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103.
 
 B. - Dans les zones France ruralités revitalisation définies au II du présent article, les entreprises, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats, qui sont créées ou reprises entre le 1er juillet 2024 et le 31 décembre 2029 et qui exercent une activité mentionnée au A du présent I sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés au titre des bénéfices, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actif, réalisés jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues aux articles 53 A, 96 à 100 et 103.
 
@@ -26,11 +26,17 @@ B. - Lorsque l'intérêt général le justifie, le représentant de l'Etat dans 
 
 Le représentant de l'Etat dans la région propose au ministre chargé des collectivités territoriales la liste des communes à classer. Le classement des communes concernées est déterminé par arrêté des ministres chargés des collectivités territoriales et du budget.
 
+B bis. - Lorsque l'intérêt général le justifie, le représentant de l'Etat dans la région peut proposer à titre complémentaire le classement en zone France ruralités revitalisation d'une commune de France métropolitaine dont la population est inférieure à 30 000 habitants et considérée comme rurale au sens de la grille communale de densité établie par l'Institut national de la statistique et des études économiques, si elle est membre d'un établissement public de coopération intercommunale à fiscalité propre remplissant l'une des conditions fixées aux 1° et 2° du A du présent II. Le nombre de communes dont le classement peut être proposé est arrêté à la date de la proposition, dans la limite de 0,5 %, arrondie à l'entier supérieur, du nombre total de communes de la région concernée. Le classement s'opère selon les modalités prévues au B du présent II.
+
+Les communes classées en zone France ruralités revitalisation en application du présent B bis ne peuvent pas bénéficier des bonifications budgétaires spécifiquement allouées aux communes classées en zone France ruralités revitalisation au titre du dispositif France services.
+
 C. - Sont également classées en zone France ruralités revitalisation les communes de France métropolitaine dont la population est inférieure à 30 000 habitants et qui sont situées dans un département remplissant les conditions suivantes :
 
 1° Sa densité de population est inférieure à trente-cinq habitants par kilomètre carré ;
 
 2° Son revenu disponible médian par unité de consommation est inférieur ou égal à la médiane des revenus médians disponibles par unité de consommation par département.
+
+Les communes de France métropolitaine dont la population est inférieure à 30 000 habitants et qui sont membres d'un établissement public de coopération intercommunale à fiscalité propre dont au moins la moitié des communes est située dans un département remplissant les conditions mentionnées aux 1° et 2° du présent C sont également classées en zone France ruralités revitalisation.
 
 D. - Sont classées en zone France ruralités revitalisation les communes de France métropolitaine dont la population est inférieure à 30 000 habitants et qui sont membres d'un établissement public de coopération intercommunale à fiscalité propre remplissant les conditions suivantes :
 
@@ -42,9 +48,21 @@ D. - Sont classées en zone France ruralités revitalisation les communes de Fra
 
 E. - Sont classées en zone France ruralités revitalisation les communes de Guyane ainsi que celles de La Réunion comprises dans la zone spéciale d'action rurale délimitée par décret.
 
-III. - Sont classées en zone France ruralités revitalisation “ plus ” les communes classées dans une zone France ruralités revitalisation définie au II et membres d'un établissement public de coopération intercommunale à fiscalité propre confronté sur une période d'au moins dix ans à des difficultés particulières, appréciées en fonction d'un indice synthétique. Cet indice est établi, selon des modalités fixées par décret, en tenant compte des dynamiques liées au revenu, à la population et à l'emploi dans les établissements publics de coopération intercommunale à fiscalité propre concernés.
+F. - Le classement des communes mentionnées au présent II et au III du présent article est applicable aux portions de territoire d'une commune nouvelle qui correspondent aux limites territoriales d'une ancienne commune classée en zone France ruralités revitalisation.
 
-Pour le classement en zone France ruralités revitalisation “ plus ”, les communes des établissements publics de coopération intercommunale à fiscalité propre situées dans les zones définies au même II sont listées par ordre décroissant en fonction de l'indice mentionné au premier alinéa du présent III. Le premier quart de ces communes est intégré en zone France ruralités revitalisation “ plus ”.
+Par dérogation, le classement en zone France ruralités revitalisation s'applique à l'ensemble du territoire d'une commune nouvelle de moins de 30 000 habitants créée à compter du 1er janvier 2024 lorsqu'elle inclut dans ses limites territoriales au moins une ancienne commune classée en zone France ruralités revitalisation et que les autres portions de son territoire sont considérées comme rurales, au sens de la grille de densité établie par l'Institut national de la statistique et des études économiques.
+
+G. - Sont classées en zone France ruralités revitalisation les communes de France métropolitaine dont la population est inférieure à 30 000 habitants et qui sont membres d'un établissement public de coopération intercommunale à fiscalité propre remplissant les conditions suivantes :
+
+1° Plus de 60 % de la population de l'établissement réside dans un espace rural, au sens de la grille communale de densité établie par l'Institut national de la statistique et des études économiques, et moins de 50 % de la population de ses communes rurales réside dans une commune rurale appartenant à une aire d'attraction d'une ville de 50 000 habitants ou plus définie par l'Institut national de la statistique et des études économiques ;
+
+2° Son revenu disponible médian par unité de consommation est inférieur ou égal au vingt-cinquième centile des revenus disponibles médians par établissement public de coopération intercommunale à fiscalité propre de France métropolitaine.
+
+Les communes classées en zone France ruralités revitalisation en application du G du présent II ne peuvent pas bénéficier des bonifications budgétaires spécifiquement allouées aux communes classées en zone France ruralités revitalisation au titre du dispositif France services.
+
+III. - Sont classées en zone France ruralités revitalisation “ plus ” les communes rurales, au sens de la grille de densité établie par l'Institut national de la statistique et des études économiques, classées dans une zone France ruralités revitalisation définie au II et membres d'un établissement public de coopération intercommunale à fiscalité propre ou d'un bassin de vie confronté sur une période d'au moins dix ans à des difficultés particulières, appréciées en fonction d'un indice synthétique. Cet indice est établi, selon des modalités fixées par décret, en tenant compte des dynamiques liées au revenu, à la population et à l'emploi dans les établissements publics de coopération intercommunale à fiscalité propre ou les bassins de vie concernés.
+
+Pour le classement en zone France ruralités revitalisation “ plus ”, les communes situées dans les zones définies au même II sont listées par ordre croissant en fonction de l'indice mentionné au premier alinéa du présent III. Le premier quart de ces communes est intégré en zone France ruralités revitalisation “ plus ”.
 
 IV. - Le classement des communes en zone France ruralités revitalisation et en zone France ruralités revitalisation “ plus ” est établi par arrêté des ministres chargés des collectivités territoriales et du budget. Il est révisé tous les six ans.
 
@@ -62,7 +80,7 @@ VI. - Les exonérations prévues au I s'appliquent à une activité non sédenta
 
 Lorsque le contribuable implanté dans une zone définie au III exerce d'autres activités en dehors de la zone, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit commun, en proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones.
 
-VII. - Les exonérations prévues au I ne s'appliquent pas aux activités bénéficiant ou ayant bénéficié dans les zones France ruralités revitalisation mentionnées aux II et III, au titre d'une ou de plusieurs des cinq années précédant l'année de la création ou de la reprise, des articles 44 sexies, 44 sexies A, 44 septies dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022,44 octies dans sa rédaction antérieure à la même loi, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
+VII. - Les exonérations prévues au I ne s'appliquent pas aux activités bénéficiant ou ayant bénéficié, au titre d'une ou de plusieurs des cinq années précédant l'année de la création ou de la reprise dans les zones France ruralités revitalisation mentionnées aux II et III, des articles 44 sexies, 44 sexies A, 44 septies dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022,44 octies dans sa rédaction antérieure à la même loi, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
 
 Les exonérations ne s'appliquent pas aux créations ou aux reprises d'activité ou d'entreprise consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans les zones France ruralités revitalisation et France ruralités revitalisation “ plus ” mentionnées aux II et III du présent article, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
 
@@ -76,9 +94,9 @@ Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de r
 
 3° L'opération de reprise ou de restructuration résulte d'un changement de forme sociale de l'entreprise au profit des personnes mentionnées aux 1° et 2° du présent VII.
 
-VIII. - Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 terdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+VIII. - Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 duodecies, 44 terdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-IX. - Le bénéfice des exonérations est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises :
+IX. - Le bénéfice des exonérations est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises :
 
 1° Lorsque les activités ou les entreprises créées ou reprises mentionnées au I du présent article sont situées dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité ;
 
@@ -88,11 +106,15 @@ Cette option, exercée distinctement pour chacune des activités concernées, es
 
 X. - Les exonérations prévues au I du présent article restent applicables pour leur durée restant à courir lorsque la commune d'implantation de l'activité sort de la liste des communes classées en zone France ruralités revitalisation définies aux II et III.
 
-XI. - Le contribuable qui cesse volontairement son activité en zone France ruralités revitalisation mentionnée aux II ou III en la délocalisant dans un autre lieu moins de cinq ans après avoir bénéficié pour la première fois de l'exonération mentionnée au I est tenu de verser les sommes qu'il n'a pas acquittées en application des exonérations qui lui ont été consenties. Le bénéfice des exonérations est remis en cause au titre de l'année au cours de laquelle le contribuable cesse volontairement son activité dans une zone France ruralités revitalisation mentionnée aux II ou III.
+XI. - Le contribuable qui cesse volontairement son activité en zone France ruralités revitalisation mentionnée aux II ou III en la délocalisant dans un autre lieu moins de cinq ans après avoir bénéficié pour la dernière fois de l'exonération mentionnée au I est tenu de verser les sommes qu'il n'a pas acquittées en application des exonérations qui lui ont été consenties. Le bénéfice des exonérations est remis en cause au titre de l'année au cours de laquelle le contribuable cesse volontairement son activité dans une zone France ruralités revitalisation mentionnée aux II ou III.
 
 La cessation volontaire d'activité en zone France ruralités revitalisation mentionnée aux mêmes II et III s'entend de l'abandon de l'ensemble de l'activité industrielle, commerciale ou artisanale ou professionnelle, au sens du I de l'article 92, implantée en zone France ruralités revitalisation, qui ne serait pas dû à un événement de force majeure. La délocalisation d'une entreprise ou d'un organisme dans un lieu autre qu'une zone France ruralités revitalisation s'entend du transfert physique de son lieu d'exploitation dans une commune qui n'est pas située en zone France ruralités revitalisation.
 
 NOTA:
-Conformément au C du XX de l'article 73 de la loi n° 2023-1322 du 29 décembre 2023, l'exonération prévue au présent article s'applique aux exercices clos à compter du 1er juillet 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
 
-Les II, III et IV du présent article s'appliquent à compter du 1er juillet 2024.
+Conformément au A du VII de l'article 99 de la loi n° 2025-127 du 14 février 2025, les dispositions du dernier alinéa du C, le F et le G du II s'appliquent à compter du 1er juillet 2024.
+
+Conformément au B du même article, les dispositions du III, le premier alinéa du VII, le VIII et le premier alinéa du XI s'appliquent à compter du 1er janvier 2025.
+
+Se reporter au IV à VIII dudit article pour les autres modalités.

@@ -12,15 +12,25 @@ b) 90 000 € s'il s'agit d'autres entreprises non agricoles ou de titulaires de
 
 c) 350 000 € s'il s'agit d'entreprises exerçant une activité agricole ;
 
-2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 € et inférieures à 350 000 € pour les entreprises mentionnées au a du 1° du présent II, lorsque les recettes sont supérieures à 90 000 € et inférieures à 126 000 € pour les entreprises mentionnées au b du même 1° et lorsque les recettes sont supérieures à 350 000 € et inférieures à 450 000 € pour les entreprises mentionnées au c dudit 1°. Pour l'application de ces dispositions, le montant exonéré de la plus-value est déterminé en lui appliquant :
+d) 450 000 € s'il s'agit d'entreprises exerçant une activité agricole lorsque la cession porte sur une entreprise individuelle, sur une branche complète d'activité ou sur l'intégralité des droits ou des parts détenus par un contribuable qui exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu et qui sont considérés comme des éléments d'actif affectés à l'exercice de la profession, au sens du I de l'article 151 nonies, et que cette cession est réalisée au profit :
+
+- d'une ou de plusieurs personnes physiques justifiant de l'octroi des aides à l'installation des jeunes agriculteurs mentionnées au I de l'article 73 B au titre de cette même cession ;
+
+- ou d'une société ou d'un groupement dont chacun des associés ou membres justifie de l'octroi des aides mentionnées au deuxième alinéa du présent d au titre de cette même cession.
+
+Si le cédant n'est pas en mesure de justifier, au plus tard à la date limite du dépôt de la déclaration mentionnée à l'article 170 relative à l'année qui suit celle de la cession, de l'obtention, par l'ensemble des cessionnaires, de la qualité de jeune agriculteur au sens du I de l'article 73 B, le bénéfice du présent d est remis en cause au titre de cette même année ;
+
+2° Une partie de leur montant lorsque les recettes sont supérieures à 250 000 € et inférieures à 350 000 € pour les entreprises mentionnées au a du 1° du présent II, lorsque les recettes sont supérieures à 90 000 € et inférieures à 126 000 € pour les entreprises mentionnées au b du même 1°, lorsque les recettes sont supérieures à 350 000 € et inférieures à 450 000 € pour les entreprises mentionnées au c dudit 1° et lorsque les recettes sont supérieures à 450 000 € et inférieures à 550 000 € pour les entreprises mentionnées au d du même 1° et que la cession est réalisée dans les conditions prévues au même d. Pour l'application de ces dispositions, le montant exonéré de la plus-value est déterminé en lui appliquant :
 
 a) Pour les entreprises mentionnées au a du 1°, un taux égal au rapport entre, au numérateur, la différence entre 350 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 € ;
 
 b) Pour les entreprises mentionnées au b du 1°, un taux égal au rapport entre, au numérateur, la différence entre 126 000 € et le montant des recettes et, au dénominateur, le montant de 36 000 € ;
 
-c) Pour les entreprises mentionnées au c du même 1°, un taux égal au rapport entre, au numérateur, la différence entre 450 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 €.
+c) Pour les entreprises mentionnées au c du même 1°, un taux égal au rapport entre, au numérateur, la différence entre 450 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 € ;
 
-Lorsque l'activité de l'entreprise se rattache à au moins deux des trois catégories définies aux a, b et c du même 1°, l'exonération totale n'est applicable que si le montant global des recettes est inférieur ou égal au plus élevé des montants mentionnés au même 1° au titre des activités exercées et si le montant des recettes afférentes à chacune de ces activités est inférieur ou égal au montant mentionné au même 1° afférent à chacune d'elles.
+d) Pour les entreprises mentionnées au d dudit 1°, un taux égal au rapport entre, au numérateur, la différence entre 550 000 € et le montant des recettes et, au dénominateur, le montant de 100 000 €.
+
+Lorsque l'activité de l'entreprise se rattache à au moins deux des catégories définies aux a à d du même 1°, l'exonération totale n'est applicable que si le montant global des recettes est inférieur ou égal au plus élevé des montants mentionnés au même 1° au titre des activités exercées et si le montant des recettes afférentes à chacune de ces activités est inférieur ou égal au montant mentionné au même 1° afférent à chacune d'elles.
 
 Lorsque ces conditions ne sont pas remplies, si le montant global des recettes est inférieur au plus élevé des montants mentionnés au 2° au titre des activités exercées et si le montant des recettes afférentes à chacune de ces activités est inférieur au montant afférent à chacune d'elles mentionné au même 2°, le montant exonéré de la plus-value est déterminé en appliquant le moins élevé des taux entre celui qui aurait été déterminé dans les conditions fixées audit 2° si l'entreprise avait réalisé la totalité de ses recettes au titre de l'activité pour laquelle le montant mentionné au même 2° est le plus élevé et celui ou ceux déterminés dans les conditions fixées au même 2° si l'entreprise avait réalisé exclusivement chacune des autres activités exercées.
 
@@ -49,4 +59,4 @@ VII. – Les articles 150 U à 150 VH sont applicables aux plus-values réalisé
 VIII. – Les dispositions du présent article ne s'appliquent pas aux transferts de biens ou de droits dans un patrimoine fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'article 2011 du code civil.
 
 NOTA:
-Conformément au B du V de l’article 94 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2023.
+Conformément au C du III de l'article 70 de la loi n° 2025-127 du 14 février 2024, les D, E, F et H du I de l'article précité s'appliquent aux cessions réalisées au cours des exercices ouverts à compter du 1er janvier 2025.

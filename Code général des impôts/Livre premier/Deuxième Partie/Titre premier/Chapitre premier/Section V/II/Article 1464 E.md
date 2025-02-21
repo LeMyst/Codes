@@ -18,7 +18,7 @@ III.-Pour bénéficier de l'exonération prévue au I du présent article, les e
 
 L'exonération porte sur les éléments entrant dans son champ d'application et déclarés dans les délais prévus au même article 1477.
 
-IV.-L'exonération prévue au I du présent article est subordonnée au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+IV.-L'exonération prévue au I du présent article est subordonnée au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au III C de l’article 12 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent à compter des impositions établies au titre de 2019.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

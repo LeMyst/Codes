@@ -64,7 +64,7 @@ b. Abrogé
 
 Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, l'attestation mentionnée au premier alinéa du présent 6 ou les factures, autres que des factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements et travaux mentionnés aux 1 et 1 bis.
 
-7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater F à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 1. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées ou lorsque les sommes remboursées ont été versées en application de l'article L. 515-19 du code de l'environnement.
 

@@ -4,7 +4,7 @@
 
 1° 188 700 € s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés ;
 
-1° bis 15 000 € s'il s'agit d'entreprises dont l'activité principale est de louer directement ou indirectement des meublés de tourisme, au sens du I de l'article L. 324-1-1 du code du tourisme, autres que ceux mentionnés aux 2° et 3° du III de l'article 1407 du présent code ;
+1° bis 15 000 € s'il s'agit d'entreprises dont l'activité principale est de louer directement ou indirectement des meublés de tourisme, au sens du I de l'article L. 324-1-1 du code du tourisme, autres que ceux mentionnés aux 1° et 2° du I de l'article 1414 bis du présent code ;
 
 2° 77 700 € s'il s'agit d'autres entreprises.
 
@@ -47,4 +47,4 @@ L'option pour un régime réel d'imposition est valable un an et reconduite taci
 5. Les entreprises qui n'ont pas exercé l'option visée au 4 doivent tenir et présenter, sur demande de l'administration, un livre-journal servi au jour le jour et présentant le détail de leurs recettes professionnelles, appuyé des factures et de toutes autres pièces justificatives. Elles doivent également, lorsque leur commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, tenir et présenter, sur demande de l'administration, un registre récapitulé par année, présentant le détail de leurs achats.
 
 NOTA:
-Conformément au II et III de l'article 7 de la loi n° 2024-1039 du 19 novembre 2024, ces dispositions s’appliquent aux revenus perçus à compter du 1er janvier 2025. Pour l'imposition des revenus perçus en 2024, l'article 50-0 du code général des impôts s'applique dans sa rédaction antérieure à la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

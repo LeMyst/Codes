@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 C
 
-1. a. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2024 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun éditant une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale, ou une ou plusieurs publications de presse ou services de presse en ligne consacrés pour une large part à l'information politique et générale.
+1. a. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2027 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun éditant une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale, ou une ou plusieurs publications de presse ou services de presse en ligne consacrés pour une large part à l'information politique et générale.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 50 % lorsque la société bénéficiaire de la souscription a le statut d'entreprise solidaire de presse d'information, au sens de l'article 2-1 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.
 
@@ -22,11 +22,9 @@ Le premier alinéa du présent 3 ne s'applique pas en cas de licenciement, d'inv
 
 4. La réduction d'impôt mentionnée au 1 ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D du présent code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies B, 199 terdecies 0 A, ou 199 terdecies-0 B du présent code.
 
-1. Le bénéfice de la réduction d'impôt mentionnée au 1 du présent article est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+1. Le bénéfice de la réduction d'impôt mentionnée au 1 du présent article est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 199 terdecies-0 C résultant des dispositions du 12° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
 
-Conformément à l’article 157 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux versements réalisés à compter du 1er janvier 2019.
-
-Conformément au II de l'article 114 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions s'appliquent aux versements effectués à compter du 1er janvier 2021.
+Conformément au II de l'article 106 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux versements réalisés à compter du lendemain de la promulgation de la présente loi.

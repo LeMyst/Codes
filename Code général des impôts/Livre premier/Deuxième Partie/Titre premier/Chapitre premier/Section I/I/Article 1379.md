@@ -6,7 +6,7 @@ I. – Les communes perçoivent, dans les conditions déterminées par le prése
 
 2° La taxe foncière sur les propriétés non bâties, prévue à l'article 1393 ;
 
-3° La taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, prévue à l'article 1407 ;
+3° La taxe d'habitation sur les résidences secondaires, prévue à l'article 1407 ;
 
 4° La cotisation foncière des entreprises, prévue à l'article 1447 ;
 
@@ -51,4 +51,4 @@ II. – Elles peuvent instituer les taxes suivantes :
 5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 NOTA:
-Conformément au C du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à la cotisation sur la valeur ajoutée des entreprises versée aux communes, aux établissements publics de coopération intercommunale et aux départements à compter du 1er janvier 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

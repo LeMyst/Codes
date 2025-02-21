@@ -108,7 +108,7 @@ C.-L'avantage fiscal prévu au I accordé au titre de l'année en cours et des a
 
 V.-Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux contribuables et aux sociétés.
 
-VI.-A.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire et financier ou de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du même code ou d'un organisme similaire d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
+VI.-A.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 25 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire et financier ou d'un organisme similaire d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 L'avantage prévu au premier alinéa du présent A ne s'applique que lorsque les conditions suivantes sont satisfaites :
 
@@ -116,7 +116,7 @@ L'avantage prévu au premier alinéa du présent A ne s'applique que lorsque les
 
 2° Le porteur de parts, son conjoint, le partenaire auquel il est lié par un pacte civil de solidarité ou son concubin notoire soumis à une imposition commune et leurs ascendants et descendants ne doivent pas détenir ensemble plus de 10 % des parts du fonds ni, directement ou indirectement, plus de 25 % des droits dans les bénéfices des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ;
 
-3° Le fonds doit respecter au minimum le quota d'investissement de 70 % prévu au I des articles L. 214-30 et L. 214-31 du code monétaire et financier. Ce quota doit être atteint à hauteur de 50 % au moins au plus tard quinze mois après la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder quatorze mois à compter de la date de constitution du fonds, et à hauteur de 100 % au plus tard le dernier jour du quinzième mois suivant.
+3° Le fonds doit respecter au minimum le quota d'investissement de 70 % prévu au I de l'article L. 214-30 du code monétaire et financier. Ce quota doit être atteint à hauteur de 50 % au moins au plus tard quinze mois après la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder quatorze mois à compter de la date de constitution du fonds, et à hauteur de 100 % au plus tard le dernier jour du quinzième mois suivant.
 
 B.-Les versements ouvrant droit à la réduction d'impôt mentionnée au A du présent VI sont retenus, après imputation des droits ou frais d'entrée et à proportion du quota d'investissement mentionné au 3° du même A, que le fonds s'engage à atteindre, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou divorcés et de 24 000 € pour les contribuables mariés ou pour ceux liés par un pacte civil de solidarité et soumis à imposition commune.
 
@@ -128,7 +128,7 @@ Le premier alinéa du présent D ne s'applique pas lorsque la condition prévue 
 
 E.-Sont exclues du bénéfice de l'avantage fiscal prévu au A du présent VI les parts de fonds donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds ou de la société, attribuées en fonction de la qualité de la personne.
 
-VII.-Le taux de l'avantage fiscal mentionné au VI est porté à 30 % pour les versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier dont l'actif est constitué pour 70 % au moins de valeurs mobilières, de parts de société à responsabilité limitée et d'avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
+VII. - L'avantage fiscal mentionné au VI s'applique dans les mêmes conditions, au taux de 30 %, pour les versements au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier dont l'actif est constitué pour 70 % au moins de valeurs mobilières, de parts de société à responsabilité limitée et d'avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
 
 Les réductions d'impôt prévues au VI et au présent VII sont exclusives les unes des autres pour les souscriptions dans un même fonds.
 
@@ -136,9 +136,7 @@ VIII.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d
 
 Les quatre derniers alinéas du A et les B à E du VI du présent article sont applicables.
 
-Les réductions d'impôt prévues au VI et au présent VIII sont exclusives les unes des autres pour les souscriptions dans un même fonds.
-
-IX.-Les réductions d'impôt mentionnées aux I et VI à VIII ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne avenir climat mentionné à l'article L. 221-34-2 du code monétaire et financier, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du même code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A ou aux articles 199 undecies B, 199 terdecies-0 B ou 199 unvicies du présent code.
+IX.-Les réductions d'impôt mentionnées aux I et VI à VIII ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne avenir climat mentionné à l'article L. 221-34-2 du code monétaire et financier, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du même code, dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 dudit code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A ou aux articles 199 undecies B, 199 terdecies-0 B ou 199 unvicies du présent code.
 
 Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I du présent article.
 
@@ -153,4 +151,6 @@ Par dérogation au deuxième alinéa du présent X, le montant des frais et comm
 Sans préjudice des sanctions que l'Autorité des marchés financiers peut prononcer, tout manquement à ces interdictions est passible d'une amende dont le montant ne peut excéder dix fois les frais indûment perçus.
 
 NOTA:
-Conformément au III de l’article 48 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.
+Conformément au II de l'article 12 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, le deuxième alinéa du a du 1° du A du I dudit article s'applique aux fonds communs de placement dans l'innovation agréés entre le 1er janvier 2024 et le 31 décembre 2025 au titre des versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la modification du taux de la réduction d'impôt lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
+
+Conformément au III de l'article 12 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, la perte de recettes résultant pour l'Etat des I et II dudit article est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

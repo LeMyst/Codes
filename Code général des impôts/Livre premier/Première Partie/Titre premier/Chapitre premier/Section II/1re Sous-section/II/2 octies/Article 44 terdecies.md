@@ -26,15 +26,15 @@ Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones 
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone de restructuration de la défense. Cette disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six mois suivant les opérations mentionnées au I.
 
 III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du groupe.
 
-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 octies A, 44 quindecies A, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
+Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 quindecies A, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont fixées par décret.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

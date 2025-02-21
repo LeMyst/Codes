@@ -1,6 +1,6 @@
 # Article 1379-0 bis
 
-I. – Perçoivent la cotisation foncière des entreprises, les composantes de l'imposition forfaitaire sur les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale selon le régime fiscal prévu à l'article 1609 nonies C :
+I. – Perçoivent la cotisation foncière des entreprises, les composantes de l'imposition forfaitaire sur les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation sur les résidences secondaires selon le régime fiscal prévu à l'article 1609 nonies C :
 
 1° Les communautés urbaines, à l'exception de celles mentionnées au 1° du II ;
 
@@ -16,7 +16,7 @@ I. – Perçoivent la cotisation foncière des entreprises, les composantes de l
 
 I bis. – (Abrogé).
 
-II. – Perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la cotisation foncière des entreprises et la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale dans les conditions prévues à l'article 1636 B sexies :
+II. – Perçoivent la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la cotisation foncière des entreprises et la taxe d'habitation sur les résidences secondaires dans les conditions prévues à l'article 1636 B sexies :
 
 1° Les communautés urbaines existant à la date de publication de la loi n° 99-586 du 12 juillet 1999 précitée qui ont rejeté avant le 31 décembre 2001 l'application, à compter du 1er janvier 2002, de l'article 1609 nonies C ;
 
@@ -89,4 +89,4 @@ IX. –1. Perçoivent la taxe d'aménagement dans les conditions prévues au 1°
 X. – Les métropoles, la métropole de Lyon, les communautés urbaines, les communautés d'agglomération et les communautés de communes peuvent se substituer à leurs communes membres pour l'application des dispositions relatives à la taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis.
 
 NOTA:
-Conformément au C du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à la cotisation sur la valeur ajoutée des entreprises versée aux communes, aux établissements publics de coopération intercommunale et aux départements à compter du 1er janvier 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

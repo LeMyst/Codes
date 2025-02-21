@@ -1,14 +1,24 @@
 # Article 163 bis G
 
-I.-Le gain net réalisé lors de la cession des titres souscrits en exercice des bons attribués dans les conditions définies aux II à III est imposé dans les conditions prévues à l'article 150-0 A et aux 1 ou 2 de l'article 200 A.
+I. - 1. L'avantage salarial correspondant à la différence entre la valeur des titres souscrits au jour de l'exercice de bons attribués dans les conditions définies aux II et III et le prix d'acquisition des titres fixé au jour de l'attribution de ces bons est soumis à l'impôt sur le revenu au taux forfaitaire prévu au 1° du B du 1 de l'article 200 A ou, sur option du bénéficiaire, suivant les règles de droit commun des traitements et salaires.
 
-Par dérogation aux dispositions du premier alinéa, le gain net précité est imposé dans les conditions prévues à l'article 150-0 A et au taux de 30 % lorsque le bénéficiaire exerce son activité ou, le cas échéant, son mandat dans la société dans laquelle il a bénéficié de l'attribution des bons depuis moins de trois ans à la date de la cession. Pour l'appréciation du respect de cette durée, il est tenu compte, pour les bénéficiaires mentionnés au premier alinéa du II, de la période d'activité éventuellement effectuée ou, le cas échéant, de la durée du mandat éventuellement exercé au sein d'une filiale, au sens du deuxième alinéa du même II, et, pour les bénéficiaires mentionnés au même deuxième alinéa, de la période d'activité éventuellement effectuée ou, le cas échéant, de la durée du mandat éventuellement exercé au sein de la société mère.
+Par dérogation aux dispositions du premier alinéa, l'avantage précité est imposé au taux de 30 % lorsque le bénéficiaire exerce son activité ou, le cas échéant, son mandat dans la société dans laquelle il a bénéficié de l'attribution des bons depuis moins de trois ans à la date de la cession. Pour l'appréciation du respect de cette durée, il est tenu compte, pour les bénéficiaires mentionnés au premier alinéa du II, de la période d'activité éventuellement effectuée ou, le cas échéant, de la durée du mandat éventuellement exercé au sein d'une filiale, au sens du deuxième alinéa du même II, et, pour les bénéficiaires mentionnés au même deuxième alinéa, de la période d'activité éventuellement effectuée ou, le cas échéant, de la durée du mandat éventuellement exercé au sein de la société mère.
 
-II.-Les sociétés par actions peuvent attribuer des bons de souscription de parts de créateur d'entreprise, incessibles et émis dans les conditions prévues aux articles L. 228-91 et L. 228-92 du code de commerce, aux membres de leur personnel salarié, à leurs dirigeants soumis au régime fiscal des salariés et aux membres de leur conseil d'administration, de leur conseil de surveillance ou, en ce qui concerne les sociétés par actions simplifiées, de tout organe statutaire équivalent.
+2. L'avantage défini au 1 du présent I est imposé au titre de l'année de disposition, de cession, de conversion au porteur ou de mise en location des titres souscrits en exercice de bons.
+
+En cas d'échange sans soulte des titres souscrits en exercice de bons résultant d'une opération d'offre publique, de fusion, de scission, de division ou de regroupement réalisée conformément à la réglementation en vigueur, l'impôt est dû au titre de l'année de disposition, de cession, de conversion au porteur ou de mise en location des actions reçues en échange. La durée mentionnée au second alinéa du même 1 s'apprécie dans ce cas à la date de disposition, de cession, de conversion au porteur ou de mise en location des actions reçues en échange.
+
+I bis. - Le gain net, égal à la différence entre le prix de cession des titres souscrits en exercice des bons attribués dans les conditions définies aux II et III et la valeur des titres souscrits au jour de l'exercice de ces bons, est imposé dans les conditions prévues à l'article 150-0 A.
+
+II.-Les sociétés par actions peuvent attribuer des bons de souscription de parts de créateur d'entreprise aux membres de leur personnel salarié, à leurs dirigeants soumis au régime fiscal des salariés et aux membres de leur conseil d'administration, de leur conseil de surveillance ou, en ce qui concerne les sociétés par actions simplifiées, de tout organe statutaire équivalent.
 
 Elles peuvent également attribuer ces bons aux membres du personnel salarié, aux dirigeants soumis au régime fiscal des salariés et aux membres du conseil d'administration, du conseil de surveillance ou, en ce qui concerne les sociétés par actions simplifiées, de tout organe statutaire équivalent des sociétés dont elles détiennent au moins 75 % du capital ou des droits de vote.
 
-Pour l'application des deux premiers alinéas du présent II, les sociétés mentionnées au premier alinéa doivent respecter les conditions prévues aux 1 à 5. Les filiales mentionnées au deuxième alinéa doivent respecter ces mêmes conditions à l'exception de celle prévue au 2.
+L'émission de ces bons, incessibles, est autorisée par l'assemblée générale extraordinaire des actionnaires conformément aux articles L. 225-129 à L. 225-129-6 du code de commerce. Celle-ci se prononce sur le rapport du conseil d'administration ou du directoire et sur le rapport spécial du commissaire aux comptes.
+
+Lorsque ces bons sont attribués aux membres du conseil d'administration, du conseil de surveillance ou, s'agissant des sociétés par actions simplifiées, de tout organe statutaire équivalent, les membres bénéficiaires ne peuvent participer à la décision de l'organe statuant sur l'opération.
+
+Pour l'application des quatre premiers alinéas du présent II, les sociétés mentionnées au premier alinéa doivent respecter les conditions prévues aux 1 à 5. Les filiales mentionnées au deuxième alinéa doivent respecter ces mêmes conditions à l'exception de celle prévue au 2.
 
 1. La société doit être passible en France de l'impôt sur les sociétés ;
 
@@ -47,4 +57,4 @@ Pour les sociétés mentionnées au premier alinéa du présent III bis, la cond
 IV.-Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux titulaires des bons et aux sociétés émettrices.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2019-1479 du 29 décembre 2019, le III bis de l'article 163 bis G s'applique aux bons de souscription de parts de créateur d'entreprise mentionnés au même article 163 bis G attribués à compter du 1er janvier 2020.
+Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.

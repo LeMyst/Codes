@@ -4,9 +4,4 @@ Un prélèvement de 5,1 % est effectué sur le produit brut des jeux de loterie 
 
 Pour le calcul du prélèvement, le montant du produit brut des jeux est multiplié par le rapport entre, d'une part, le montant des mises effectuées sur le jeu en France métropolitaine et dans les départements d'outre-mer et, d'autre part, le montant total des mises effectuées sur le jeu.
 
-L'affectation du prélèvement est déterminée par le 1° de l'article L. 112-11-1 du code du sport.
-
 L'exigibilité du prélèvement est constituée par la réalisation du ou des événements sur lesquels repose le jeu. Pour les jeux de loterie pour lesquels l'intervention du hasard est antérieure à la mise à disposition du support de jeu, l'exigibilité du prélèvement est constituée par l'affectation au jeu des mises engagées par les joueurs.
-
-NOTA:
-Conformément à l’article 43 de l’ordonnance n° 2023-1210 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.

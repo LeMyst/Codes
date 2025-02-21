@@ -38,6 +38,14 @@ V. - Sont exonérés de la taxe :
 
 8° Les emplacements attenant à un local commercial mentionné au 2° du même III aménagés pour l'exercice d'activités sportives.
 
+V bis. - A.-Sont également exonérés de la taxe, lorsqu'ils sont vacants au 1er janvier de l'année d'imposition, les locaux mentionnés au III faisant l'objet d'un engagement de transformation en logements dans les conditions prévues au B du présent V bis et pour lesquels une déclaration préalable ou une demande de permis de construire a été déposée au cours de l'année civile précédant la déclaration de la taxe.
+
+B.-L'application de l'exonération prévue au A est subordonnée à la condition que le redevable s'engage à transformer les locaux concernés en locaux à usage d'habitation dans un délai de quatre ans à compter de la délivrance de l'autorisation d'urbanisme. L'engagement de transformation est réputé respecté lorsque l'achèvement des travaux de transformation ou de construction intervient avant l'expiration du délai de quatre ans.
+
+La date d'achèvement correspond à celle mentionnée sur la déclaration prévue à l'article L. 462-1 du code de l'urbanisme.
+
+C.-Le non-respect de l'engagement de transformation par le redevable entraîne, sauf circonstances exceptionnelles indépendantes de la volonté de celui-ci, l'exigibilité de la taxe qui aurait été due en l'absence d'exonération ainsi que l'application de la majoration prévue au V de l'article 1764 du présent code.
+
 VI. - Les tarifs sont applicables dans les conditions suivantes :
 
 1° Des tarifs au mètre carré sont appliqués sur le périmètre de l'ensemble des communes situées dans les limites territoriales définies au I ;
@@ -65,12 +73,6 @@ IX. - La taxe est acquittée lors du dépôt de la déclaration. Elle est recouv
 X. - Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
 
 NOTA:
-Conformément au II de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent à compter des impositions établies au titre de l'année 2023.
-
-Conformément au III de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, par dérogation au VIII du présent article, pour les impositions dues au titre de 2023, la déclaration, accompagnée du paiement de la taxe, est déposée avant le 1er juillet 2023.
-
-Conformément au IV de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, le dernier alinéa du VI du présent article ne s'applique pas aux impositions établies au titre de l'année 2023.
-
 Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, les modifications apportées par le 10° du I du même article s'appliquent aux impositions établies à compter de 2025.
 
-Modifications effectuées en conséquence de l'article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément au A du II de l'article 111 de la loi n° 2025-127 du 14 février 2025, les dispositions du 1° du I de l'article précité s'appliquent à compter du 1er janvier 2025 aux opérations de transformation pour lesquelles la délivrance de l'autorisation d'urbanisme intervient à compter de cette date.

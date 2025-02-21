@@ -10,7 +10,7 @@ Les dépenses déductibles comprennent notamment :
 
 3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
 
-4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B ;
+4° (Abrogé) ;
 
 5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport ;
 
@@ -71,6 +71,3 @@ L'abattement mentionné au premier alinéa ne peut excéder 50 000 € par an.
 Il ne s'applique pas en cas d'option pour le régime prévu à l'article 100 bis.
 
 10. Lorsque le montant total des sommes et indemnités perçues par les arbitres ou juges mentionnées au 6° du 2 de l'article 92 est inférieur, pour une année civile, à la limite définie au premier alinéa de l'article L. 241-16 du code de la sécurité sociale, plafonné à 14,5 % du montant annuel du plafond mentionné à l'article L. 241-3 du même code, ces sommes et indemnités sont exonérées.
-
-NOTA:
-Conformément au II de l’article 75 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s’appliquent à compter des impositions établies au titre de l'année 2023.

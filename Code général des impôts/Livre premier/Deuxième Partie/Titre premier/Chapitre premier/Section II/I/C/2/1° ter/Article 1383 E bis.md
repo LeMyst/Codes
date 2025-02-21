@@ -14,7 +14,7 @@ Lorsque les conditions requises pour bénéficier de l'exonération prévue à l
 
 Pour bénéficier de l'exonération prévue au présent article, le propriétaire adresse au service des impôts du lieu de situation du bien, avant le 1er janvier de chaque année au titre de laquelle l'exonération est applicable, une déclaration accompagnée de tous les éléments justifiant de l'affectation des locaux.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

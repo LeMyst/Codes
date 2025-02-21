@@ -38,6 +38,14 @@ V. – Sont exonérés de la taxe :
 
 6° Les emplacements attenants à un local commercial mentionné au 2° du III et aménagés pour l'exercice d'activités sportives.
 
+V bis.-A.-Sont également exonérés de la taxe, lorsqu'ils sont vacants au 1er janvier de l'année d'imposition, les locaux mentionnés au III faisant l'objet d'un engagement de transformation en logements dans les conditions prévues au B du présent V bis et pour lesquels une déclaration préalable ou une demande de permis de construire a été déposée au cours de l'année civile précédant la déclaration de la taxe.
+
+B.-L'application de l'exonération prévue au A est subordonnée à la condition que le redevable s'engage à transformer les locaux concernés en locaux à usage d'habitation dans un délai de quatre ans à compter de la délivrance de l'autorisation d'urbanisme. L'engagement de transformation est réputé respecté lorsque l'achèvement des travaux de transformation ou de construction intervient avant l'expiration du délai de quatre ans.
+
+La date d'achèvement correspond à celle mentionnée sur la déclaration prévue à l'article L. 462-1 du code de l'urbanisme.
+
+C.-Le non-respect de l'engagement de transformation par le redevable entraîne, sauf circonstances exceptionnelles indépendantes de la volonté de celui-ci, l'exigibilité de la taxe qui aurait été due en l'absence d'exonération ainsi que l'application de la majoration prévue au V de l'article 1764 du présent code.
+
 VI. – Les tarifs sont applicables dans les conditions suivantes :
 
 1. a. Des tarifs distincts au mètre carré sont appliqués par circonscription telle que définie ci-après :
@@ -104,4 +112,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX. – La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément au A du II de l'article 111 de la loi n° 2025-127 du 14 février 2025, les dispositions du 1° du I de l'article précité s'appliquent à compter du 1er janvier 2025 aux opérations de transformation pour lesquelles la délivrance de l'autorisation d'urbanisme intervient à compter de cette date.

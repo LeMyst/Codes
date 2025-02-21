@@ -1,36 +1,20 @@
 # Article 1407
 
-I. – La taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale est due :
+I. - La taxe d'habitation sur les résidences secondaires est due pour tous les locaux meublés conformément à leur destination d'habitation autre qu'à titre principal, y compris lorsqu'ils sont imposables à la cotisation foncière des entreprises.
 
-1° Pour tous les locaux meublés affectés à l'habitation autres que ceux affectés à l'habitation principale ;
+Toutefois, les locaux mentionnés au premier alinéa ne sont pas soumis à cette taxe lorsqu'ils font l'objet d'un usage exclusivement professionnel.
 
-2° Pour les locaux meublés conformément à leur destination et occupés à titre privatif par les sociétés, associations et organismes privés et qui ne sont pas retenus pour l'établissement de la cotisation foncière des entreprises ;
+II. - Sont exclus du champ de la taxe prévue au I :
 
-3° Pour les locaux meublés sans caractère industriel ou commercial occupés par les organismes de l'Etat, des départements et des communes, ainsi que par les établissements publics autres que ceux visés au 1° du II de l'article 1408.
+1° Les locaux destinés à l'hébergement ou au logement à titre temporaire des personnes en difficulté gérés par des personnes publiques ;
 
-II. – Ne sont pas imposables à la taxe :
+2° Les locaux destinés à l'hébergement ou au logement à titre temporaire des personnes en difficulté gérés par des organismes privés qui bénéficient à ce titre d'un conventionnement, d'un agrément, d'une autorisation ou d'un récépissé de déclaration de l'Etat ;
 
-1° Les locaux passibles de la cotisation foncière des entreprises lorsqu'ils ne font pas partie de l'habitation personnelle des contribuables ;
+3° Les locaux destinés au logement des élèves dans les écoles et les pensionnats ;
 
-2° Les bâtiments servant aux exploitations rurales ;
+4° Les locaux destinés au logement des étudiants dans les résidences universitaires lorsque la gestion de ces locaux est assurée par un centre régional des œuvres universitaires et scolaires ou par un organisme en subordonnant la disposition à des conditions financières et d'occupation analogues.
 
-3° Les locaux destinés au logement des élèves dans les écoles et pensionnats ;
-
-4° Les bureaux des fonctionnaires publics ;
-
-5° Les locaux affectés au logement des étudiants dans les résidences universitaires lorsque la gestion de ces locaux est assurée par un centre régional des œuvres universitaires et scolaires ou par un organisme en subordonnant la disposition à des conditions financières et d'occupation analogues. Un décret fixe les justifications à produire par ces organismes.
-
-III. – Dans les zones France ruralités revitalisation mentionnées aux II et III de l'article 44 quindecies A, les communes peuvent, par une délibération de portée générale prise dans les conditions prévues au I de l'article 1639 A bis, exonérer :
-
-1° (abrogé) ;
-
-2° Les locaux classés meublés de tourisme dans les conditions prévues à l'article L. 324-1 du code du tourisme ;
-
-3° Les chambres d'hôtes au sens de l'article L. 324-3 du code du tourisme.
-
-La délibération prise par la commune produit ses effets pour la détermination de la part de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale afférente à ces locaux revenant à la commune et, le cas échéant, à l'établissement public de coopération intercommunale doté d'une fiscalité propre dont elle est membre. Elle peut concerner une ou plusieurs catégories de locaux.
-
-Pour bénéficier de cette exonération, le redevable de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale adresse au service des impôts du lieu de situation du bien, avant le 1er janvier de chaque année au titre de laquelle l'exonération est applicable, une déclaration accompagnée de tous les éléments justifiant de l'affectation des locaux.
+III. - Un décret définit les obligations déclaratives et les justificatifs à produire par les personnes publiques et les organismes mentionnés aux 1° et 2° du II et par les organismes, autres que les centres régionaux des œuvres universitaires et scolaires, mentionnés au 4° du même II.
 
 NOTA:
-Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

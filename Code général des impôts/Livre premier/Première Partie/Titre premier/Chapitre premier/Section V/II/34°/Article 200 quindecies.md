@@ -88,7 +88,7 @@ Toutefois, le crédit d'impôt n'est pas repris :
 
 3° En cas de donation des terrains ou des parts ayant ouvert droit au crédit d'impôt, à la condition que les donataires reprennent les engagements souscrits par le donateur pour la durée de détention restant à courir à la date de la donation.
 
-IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Se reporter aux modalités d'application prévues aux II et III de l'article 34 de la loi n° 2023-580 du 10 juillet 2023.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

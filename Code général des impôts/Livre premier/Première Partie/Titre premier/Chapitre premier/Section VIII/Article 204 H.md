@@ -28,76 +28,76 @@ a) Pour les contribuables autres que ceux mentionnés aux b et c du présent 1 :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
 | --- | --- |
-| Inférieure à 1 591 € | 0 % |
-| Supérieure ou égale à 1 591 € et inférieure à 1 653 € | 0,5 % |
-| Supérieure ou égale à 1 653 € et inférieure à 1 759 € | 1,3 % |
-| Supérieure ou égale à 1 759 € et inférieure à 1 877 € | 2,1 % |
-| Supérieure ou égale à 1 877 € et inférieure à 2 006 € | 2,9 % |
-| Supérieure ou égale à 2 006 € et inférieure à 2 113 € | 3,5 % |
-| Supérieure ou égale à 2 113 € et inférieure à 2 253 € | 4,1 % |
-| Supérieure ou égale à 2 253 € et inférieure à 2 666 € | 5,3 % |
-| Supérieure ou égale à 2 666 € et inférieure à 3 052 € | 7,5 % |
-| Supérieure ou égale à 3 052 € et inférieure à 3 476 € | 9,9 % |
-| Supérieure ou égale à 3 476 € et inférieure à 3 913 € | 11,9 % |
-| Supérieure ou égale à 3 913 € et inférieure à 4 566 € | 13,8 % |
-| Supérieure ou égale à 4 566 € et inférieure à 5 475 € | 15,8 % |
-| Supérieure ou égale à 5 475 € et inférieure à 6 851 € | 17,9 % |
-| Supérieure ou égale à 6 851 € et inférieure à 8 557 € | 20 % |
-| Supérieure ou égale à 8 557 € et inférieure à 11 877 € | 24 % |
-| Supérieure ou égale à 11 877 € et inférieure à 16 086 € | 28 % |
-| Supérieure ou égale à 16 086 € et inférieure à 25 251 € | 33 % |
-| Supérieure ou égale à 25 251 € et inférieure à 54 088 € | 38 % |
-| Supérieure ou égale à 54 088 € | 43 % |
+| Inférieure à 1 620 € | 0 % |
+| Supérieure ou égale à 1 620 € et inférieure à 1 683 € | 0,5 % |
+| Supérieure ou égale à 1 683 € et inférieure à 1 791 € | 1,3 % |
+| Supérieure ou égale à 1 791 € et inférieure à 1 911 € | 2,1 % |
+| Supérieure ou égale à 1 911 € et inférieure à 2 042 € | 2,9 % |
+| Supérieure ou égale à 2 042 € et inférieure à 2 151 € | 3,5 % |
+| Supérieure ou égale à 2 151 € et inférieure à 2 294 € | 4,1 % |
+| Supérieure ou égale à 2 294 € et inférieure à 2 714 € | 5,3 % |
+| Supérieure ou égale à 2 714 € et inférieure à 3 107 € | 7,5 % |
+| Supérieure ou égale à 3 107 € et inférieure à 3 539 € | 9,9 % |
+| Supérieure ou égale à 3 539 € et inférieure à 3 983 € | 11,9 % |
+| Supérieure ou égale à 3 983 € et inférieure à 4 648 € | 13,8 % |
+| Supérieure ou égale à 4 648 € et inférieure à 5 574 € | 15,8 % |
+| Supérieure ou égale à 5 574 € et inférieure à 6 974 € | 17,9 % |
+| Supérieure ou égale à 6 974 € et inférieure à 8 711 € | 20 % |
+| Supérieure ou égale à 8 711 € et inférieure à 12 091 € | 24 % |
+| Supérieure ou égale à 12 091 € et inférieure à 16 376 € | 28 % |
+| Supérieure ou égale à 16 376 € et inférieure à 25 706 € | 33 % |
+| Supérieure ou égale à 25 706 € et inférieure à 55 062 € | 38 % |
+| Supérieure ou égale à 55 062 € | 43 % |
 
 b) Pour les contribuables domiciliés en Guadeloupe, à La Réunion et en Martinique :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
 | --- | --- |
-| Inférieure à 1 825 € | 0 % |
-| Supérieure ou égale à 1 825 € et inférieure à 1 936 € | 0,5 % |
-| Supérieure ou égale à 1 936 € et inférieure à 2 133 € | 1,3 % |
-| Supérieure ou égale à 2 133 € et inférieure à 2 329 € | 2,1 % |
-| Supérieure ou égale à 2 329 € et inférieure à 2 572 € | 2,9 % |
-| Supérieure ou égale à 2 572 € et inférieure à 2 712 € | 3,5 % |
-| Supérieure ou égale à 2 712 € et inférieure à 2 805 € | 4,1 % |
-| Supérieure ou égale à 2 805 € et inférieure à 3 086 € | 5,3 % |
-| Supérieure ou égale à 3 086 € et inférieure à 3 816 € | 7,5 % |
-| Supérieure ou égale à 3 816 € et inférieure à 4 883 € | 9,9 % |
-| Supérieure ou égale à 4 883 € et inférieure à 5 546 € | 11,9 % |
-| Supérieure ou égale à 5 546 € et inférieure à 6 424 € | 13,8 % |
-| Supérieure ou égale à 6 424 € et inférieure à 7 697 € | 15,8 % |
-| Supérieure ou égale à 7 697 € et inférieure à 8 557 € | 17,9 % |
-| Supérieure ou égale à 8 557 € et inférieure à 9 725 € | 20 % |
-| Supérieure ou égale à 9 725 € et inférieure à 13 374 € | 24 % |
-| Supérieure ou égale à 13 374 € et inférieure à 17 770 € | 28 % |
-| Supérieure ou égale à 17 770 € et inférieure à 27 122 € | 33 % |
-| Supérieure ou égale à 27 122 € et inférieure à 59 283 € | 38 % |
-| Supérieure ou égale à 59 283 € | 43 % |
+| Inférieure à 1 858 € | 0 % |
+| Supérieure ou égale à 1 858 € et inférieure à 1 971 € | 0,5 % |
+| Supérieure ou égale à 1 971 € et inférieure à 2 171 € | 1,3 % |
+| Supérieure ou égale à 2 171 € et inférieure à 2 371 € | 2,1 % |
+| Supérieure ou égale à 2 371 € et inférieure à 2 618 € | 2,9 % |
+| Supérieure ou égale à 2 618 € et inférieure à 2 761 € | 3,5 % |
+| Supérieure ou égale à 2 761 € et inférieure à 2 855 € | 4,1 % |
+| Supérieure ou égale à 2 855 € et inférieure à 3 142 € | 5,3 % |
+| Supérieure ou égale à 3 142 € et inférieure à 3 885 € | 7,5 % |
+| Supérieure ou égale à 3 885 € et inférieure à 4 971 € | 9,9 % |
+| Supérieure ou égale à 4 971 € et inférieure à 5 646 € | 11,9 % |
+| Supérieure ou égale à 5 646 € et inférieure à 6 540 € | 13,8 % |
+| Supérieure ou égale à 6 540 € et inférieure à 7 836 € | 15,8 % |
+| Supérieure ou égale à 7 836 € et inférieure à 8 711 € | 17,9 % |
+| Supérieure ou égale à 8 711 € et inférieure à 9 900 € | 20 % |
+| Supérieure ou égale à 9 900 € et inférieure à 13 615 € | 24 % |
+| Supérieure ou égale à 13 615 € et inférieure à 18 090 € | 28 % |
+| Supérieure ou égale à 18 090 € et inférieure à 27 610 € | 33 % |
+| Supérieure ou égale à 27 610 € et inférieure à 60 350 € | 38 % |
+| Supérieure ou égale à 60 350 € | 43 % |
 
 c) Pour les contribuables domiciliés en Guyane et à Mayotte :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
 | --- | --- |
-| Inférieure à 1 955 € | 0 % |
-| Supérieure ou égale à 1 955 € et inférieure à 2 113 € | 0,5 % |
-| Supérieure ou égale à 2 113 € et inférieure à 2 356 € | 1,3 % |
-| Supérieure ou égale à 2 356 € et inférieure à 2 656 € | 2,1 % |
-| Supérieure ou égale à 2 656 € et inférieure à 2 758 € | 2,9 % |
-| Supérieure ou égale à 2 758 € et inférieure à 2 853 € | 3,5 % |
-| Supérieure ou égale à 2 853 € et inférieure à 2 946 € | 4,1 % |
-| Supérieure ou égale à 2 946 € et inférieure à 3 273 € | 5,3 % |
-| Supérieure ou égale à 3 273 € et inférieure à 4 517 € | 7,5 % |
-| Supérieure ou égale à 4 517 € et inférieure à 5 846 € | 9,9 % |
-| Supérieure ou égale à 5 846 € et inférieure à 6 593 € | 11,9 % |
-| Supérieure ou égale à 6 593 € et inférieure à 7 650 € | 13,8 % |
-| Supérieure ou égale à 7 650 € et inférieure à 8 416 € | 15,8 % |
-| Supérieure ou égale à 8 416 € et inférieure à 9 324 € | 17,9 % |
-| Supérieure ou égale à 9 324 € et inférieure à 10 821 € | 20 % |
-| Supérieure ou égale à 10 821 € et inférieure à 14 558 € | 24 % |
-| Supérieure ou égale à 14 558 € et inférieure à 18 517 € | 28 % |
-| Supérieure ou égale à 18 517 € et inférieure à 29 676 € | 33 % |
-| Supérieure ou égale à 29 676 € et inférieure à 62 639 € | 38 % |
-| Supérieure ou égale à 62 639 € | 43 % |
+| Inférieure à 1 990 € | 0 % |
+| Supérieure ou égale à 1 990 € et inférieure à 2 151 € | 0,5 % |
+| Supérieure ou égale à 2 151 € et inférieure à 2 398 € | 1,3 % |
+| Supérieure ou égale à 2 398 € et inférieure à 2 704 € | 2,1 % |
+| Supérieure ou égale à 2 704 € et inférieure à 2 808 € | 2,9 % |
+| Supérieure ou égale à 2 808 € et inférieure à 2 904 € | 3,5 % |
+| Supérieure ou égale à 2 904 € et inférieure à 2 999 € | 4,1 % |
+| Supérieure ou égale à 2 999 € et inférieure à 3 332 € | 5,3 % |
+| Supérieure ou égale à 3 332 € et inférieure à 4 598 € | 7,5 % |
+| Supérieure ou égale à 4 598 € et inférieure à 5 951 € | 9,9 % |
+| Supérieure ou égale à 5 951 € et inférieure à 6 712 € | 11,9 % |
+| Supérieure ou égale à 6 712 € et inférieure à 7 788 € | 13,8 % |
+| Supérieure ou égale à 7 788 € et inférieure à 8 567 € | 15,8 % |
+| Supérieure ou égale à 8 567 € et inférieure à 9 492 € | 17,9 % |
+| Supérieure ou égale à 9 492 € et inférieure à 11 016 € | 20 % |
+| Supérieure ou égale à 11 016 € et inférieure à 14 820 € | 24 % |
+| Supérieure ou égale à 14 820 € et inférieure à 18 850 € | 28 % |
+| Supérieure ou égale à 18 850 € et inférieure à 30 210 € | 33 % |
+| Supérieure ou égale à 30 210 € et inférieure à 63 767 € | 38 % |
+| Supérieure ou égale à 63 767 € | 43 % |
 
 d) Les limites des tranches des grilles prévues aux a à c sont réduites ou augmentées proportionnellement à la période à laquelle se rapporte le calcul de l'acompte mentionné à l'article 204 C ou proportionnellement à la périodicité usuelle de versement de la rémunération principale, telle qu'elle résulte de la loi, des conventions collectives et accords collectifs, des contrats ou des usages, par le débiteur des revenus mentionnés à l'article 204 B. Toutefois, le débiteur des revenus de remplacement peut effectuer cette réduction ou cette augmentation des tranches proportionnellement à la période à laquelle se rapporte le versement.
 
@@ -120,4 +120,4 @@ Ce complément est calculé et versé par le contribuable au plus tard le dernie
 A défaut de paiement, le recouvrement du complément de retenue à la source est assuré et poursuivi selon les mêmes modalités et sous les mêmes garanties et sûretés que l'impôt sur le revenu. Le rôle d'impôt sur le revenu servant de base au calcul du taux de retenue qui aurait dû être appliqué à défaut d'option vaut titre exécutoire en vue de l'exercice des poursuites consécutives à son non-paiement.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2023-1322 du 29 décembre 2023.
+Conformément au III de l’article 2 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent s'applique aux revenus perçus ou réalisés à compter du premier jour du troisième mois suivant la promulgation de la présente loi, soit le 1er mai 2025.

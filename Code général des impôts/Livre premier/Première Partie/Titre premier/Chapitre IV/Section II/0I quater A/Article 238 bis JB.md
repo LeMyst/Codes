@@ -12,7 +12,7 @@ La cession d'une immobilisation amortissable entraîne l'imposition immédiate d
 
 L'entreprise qui a procédé à une réévaluation d'ensemble dans les conditions prévues au premier alinéa calcule les amortissements, provisions et plus-values de cession ultérieurs afférents aux immobilisations amortissables d'après la valeur qui leur a été attribuée lors de la réévaluation.
 
-L'entreprise qui applique les dispositions du même premier alinéa joint à la déclaration de résultats de l'exercice de réévaluation et des exercices suivants un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au calcul des amortissements, des provisions ou des plus-values ou moins-values afférents aux immobilisations qui ont fait l'objet d'une réévaluation.
+L'entreprise qui applique les dispositions du même premier alinéa joint à la déclaration de résultats de l'exercice de réévaluation et des exercices suivants un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au calcul des amortissements, des provisions ou des plus-values ou moins-values afférents aux immobilisations qui ont fait l'objet d'une réévaluation ainsi que le montant de l'écart de réévaluation non encore réintégré au bénéfice à la clôture de l'exercice .
 
 NOTA:
-Conformément au II de l'article 31 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent à la première opération de réévaluation constatée au terme d'un exercice clos à compter du 31 décembre 2020 jusqu'au 31 décembre 2022.
+Conformément au II de l'article 15 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2025.

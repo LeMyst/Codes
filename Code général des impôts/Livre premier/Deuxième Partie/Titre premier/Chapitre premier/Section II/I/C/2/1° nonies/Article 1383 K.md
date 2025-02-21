@@ -14,7 +14,7 @@ Pour les années suivantes, une déclaration est à souscrire, avant le 1er janv
 
 L'exonération porte sur les éléments déclarés dans le délai prévu aux deux premiers alinéas du présent III.
 
-IV.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1382 H, 1383 C ter, 1383 D, 1383 F, 1383 I ou 1383 J et de celle prévue au présent article sont satisfaites, le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et des établissements publics de coopération intercommunale à fiscalité propre.
+IV.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1382 H, 1383 C ter, 1383 D, 1383 F, 1383 H, 1383 I ou 1383 J et de celle prévue au présent article sont satisfaites, le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et des établissements publics de coopération intercommunale à fiscalité propre.
 
 V.-Le bénéfice de l'exonération est subordonné au respect du même règlement européen que celui appliqué pour l'exonération de l'activité dont le contribuable bénéficie sur le fondement de l'article 44 quindecies A.
 

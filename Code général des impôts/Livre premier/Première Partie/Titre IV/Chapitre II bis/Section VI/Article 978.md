@@ -32,6 +32,9 @@ II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effect
 
 III.-La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage fiscal au titre d'un autre impôt.
 
-IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis et à la condition que le redevable présente, à la demande de l'administration fiscale, des pièces justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.
+IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis et à la condition que le redevable présente, à la demande de l'administration fiscale, des pièces justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
+
+NOTA:
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

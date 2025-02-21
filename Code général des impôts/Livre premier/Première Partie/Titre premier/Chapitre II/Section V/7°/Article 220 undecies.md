@@ -20,9 +20,9 @@ Lorsque le montant de la réduction d'impôt excède le montant de l'impôt dû,
 
 VI. – En cas de non-respect de la condition prévue au II, le montant de la réduction d'impôt vient majorer l'impôt sur les sociétés dû au titre de l'exercice au cours duquel cette condition n'est plus respectée.
 
-VII. – Le bénéfice de la réduction d'impôt mentionnée au I du présent article est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+VII. – Le bénéfice de la réduction d'impôt mentionnée au I du présent article est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VIII. – Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux entreprises.
 
 NOTA:
-Conformément au II de l’article 147 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions s'appliquent aux exercices clos à compter du 31 décembre 2021.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

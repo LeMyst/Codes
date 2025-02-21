@@ -6,12 +6,15 @@ Cette taxe est destinée au financement des missions de ces établissements déf
 
 Le montant de cette taxe est arrêté, dans chaque département, avant le 31 décembre de chaque année, pour l'année suivante, par le conseil d'administration de l'établissement public dans la limite d'un plafond annuel. Pour la première année au titre de laquelle l'établissement public perçoit la taxe, le montant de celle-ci est arrêté avant le 31 mars de la même année.
 
-Le montant mentionné au troisième alinéa du présent article est réparti, dans les conditions définies au I de l'article 1636 B octies, entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et à la cotisation foncière des entreprises dans les communes comprises dans la zone de compétence de l'établissement public.
+Le montant mentionné au troisième alinéa du présent article est réparti, dans les conditions définies au I de l'article 1636 B octies, entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et à la cotisation foncière des entreprises dans les communes comprises dans la zone de compétence de l'établissement public.
 
 La base de la taxe est déterminée dans les mêmes conditions que pour la part communale ou, à défaut de part communale, dans les mêmes conditions que la part intercommunale de la taxe principale à laquelle la taxe additionnelle s'ajoute.
 
-Les organismes d'habitations à loyer modéré, les sociétés immobilières d'économie mixte créées en application de la loi n° 46-860 du 30 avril 1946 tendant à l'établissement, au financement et à l'exécution de plans d'équipement et de développement des territoires relevant du ministère de la France d'outre-mer et les sociétés d'économie mixte locales sont exonérés de la taxe spéciale d'équipement au titre des locaux d'habitation et dépendances dont ils sont propriétaires et qui sont attribués sous conditions de ressources. Les redevables au nom desquels une cotisation de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale est établie au titre de ces locaux sont exonérés de la taxe additionnelle.
+Les organismes d'habitations à loyer modéré, les sociétés immobilières d'économie mixte créées en application de la loi n° 46-860 du 30 avril 1946 tendant à l'établissement, au financement et à l'exécution de plans d'équipement et de développement des territoires relevant du ministère de la France d'outre-mer et les sociétés d'économie mixte locales sont exonérés de la taxe spéciale d'équipement au titre des locaux d'habitation et dépendances dont ils sont propriétaires et qui sont attribués sous conditions de ressources. Les redevables au nom desquels une cotisation de taxe d'habitation sur les résidences secondaires est établie au titre de ces locaux sont exonérés de la taxe additionnelle.
 
 Les cotisations sont établies et recouvrées, les réclamations sont présentées et jugées comme en matière de contributions directes.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

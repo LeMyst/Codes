@@ -10,7 +10,7 @@ Sous réserve du respect du plafond fixé au premier alinéa du présent II, le 
 
 Le produit de cette imposition est exclusivement affecté au financement des charges de fonctionnement et d'investissement, y compris celles constituées par le coût de renouvellement des installations ainsi que par le remboursement des annuités des emprunts, résultant de l'exercice de la compétence de gestion des milieux aquatiques et de prévention des inondations, telle qu'elle est définie au même I bis.
 
-III. – Le produit de la taxe prévue au I est réparti entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et à la cotisation foncière des entreprises, proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente :
+III. – Le produit de la taxe prévue au I est réparti entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et à la cotisation foncière des entreprises, proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente :
 
 1° Sur le territoire de la commune qui l'instaure, à ladite commune et aux établissements publics de coopération intercommunale dont elle est membre ;
 
@@ -42,7 +42,7 @@ b) Pour l'application du III, les recettes prises en compte sont celles procuré
 
 IV. – La base de la taxe est déterminée dans les mêmes conditions que pour la part communale ou, à défaut de part communale, dans les mêmes conditions que pour la part intercommunale de la taxe principale à laquelle la taxe s'ajoute.
 
-Les organismes d'habitations à loyer modéré et les sociétés d'économie mixte sont exonérés de la taxe prévue au I au titre des locaux d'habitation et des dépendances dont ils sont propriétaires et qui sont attribués sous conditions de ressources. Les redevables au nom desquels une cotisation de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale est établie au titre de ces locaux sont exonérés de la taxe.
+Les organismes d'habitations à loyer modéré et les sociétés d'économie mixte sont exonérés de la taxe prévue au I au titre des locaux d'habitation et des dépendances dont ils sont propriétaires et qui sont attribués sous conditions de ressources. Les redevables au nom desquels une cotisation de taxe d'habitation sur les résidences secondaires est établie au titre de ces locaux sont exonérés de la taxe.
 
 V. – Le produit de la taxe, après déduction du prélèvement prévu au A du I et au II de l'article 1641 du présent code, est reversé au bénéficiaire dans les conditions prévues à l'article L. 2332-2 du code général des collectivités territoriales.
 
@@ -55,4 +55,4 @@ VII. – Les dégrèvements accordés par suite d'une imposition établie à tor
 VIII. – (Abrogé)
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 24° du E du I dudit article, s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

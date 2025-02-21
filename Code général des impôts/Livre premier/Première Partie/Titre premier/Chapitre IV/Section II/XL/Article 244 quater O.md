@@ -48,10 +48,13 @@ V. – Les subventions publiques reçues par les entreprises à raison de dépen
 
 VI. – Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt et dans celle d'un autre crédit d'impôt.
 
-VI bis. – Le bénéfice du crédit d'impôt est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+VI bis. – Le bénéfice du crédit d'impôt est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-Pour l'application du premier alinéa, les sociétés de personnes et les groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater A, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+Pour l'application du premier alinéa, les sociétés de personnes et les groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater A, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 VII. – (Abrogé).
 
 VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2026.
+
+NOTA:
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

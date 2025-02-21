@@ -16,7 +16,7 @@ Cette majoration est supprimée à compter de l'année qui suit celle au cours d
 
 II. – Pour l'application du I :
 
-1° Les impôts directs locaux s'entendent de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de leurs taxes annexes ;
+1° Les impôts directs locaux s'entendent de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation sur les résidences secondaires et de leurs taxes annexes ;
 
 2° La différence définie au premier alinéa des 1° et 2° du même I s'apprécie pour chaque impôt en tenant compte de ses taxes annexes et des prélèvements prévus à l'article 1641.
 
@@ -25,4 +25,4 @@ Elle s'apprécie par propriété ou fraction de propriété bâtie pour la taxe 
 3° Selon le cas, le coût de l'exonération ou la majoration est réparti entre les collectivités territoriales et, le cas échéant, les établissements publics de coopération intercommunale, les établissements publics fonciers, les chambres de commerce et d'industrie et les chambres de métiers et de l'artisanat au prorata de leur part dans la somme des variations positives de chaque fraction de cotisation leur revenant.
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

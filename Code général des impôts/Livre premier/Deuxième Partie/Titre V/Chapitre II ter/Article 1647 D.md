@@ -11,7 +11,7 @@ I. – 1. Les redevables de la cotisation foncière des entreprises sont assujet
 | Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 243 et 5 793 |
 | Supérieur à 500 000 | Entre 243 et 7 533 |
 
-Toutefois, les redevables réalisant un montant de chiffre d'affaires ou de recettes inférieur ou égal à 5 000 € sont exonérés de la cotisation minimum. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Toutefois, les redevables réalisant un montant de chiffre d'affaires ou de recettes inférieur ou égal à 5 000 € sont exonérés de la cotisation minimum. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 Le montant du chiffre d'affaires ou des recettes à prendre en compte s'entend de celui, hors taxes, réalisé au cours de la période de référence définie à l'article 1467 A. Lorsque la période de référence ne correspond pas à une période de douze mois, le montant du chiffre d'affaires ou des recettes est ramené ou porté, selon le cas, à douze mois.
 
@@ -70,4 +70,4 @@ II. – Quand ils ne disposent d'aucun local ou terrain :
 1. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
 
 NOTA:
-Modification effectuée en conséquence de l’article 2-6.1.31 de la loi n° 2009-1673 du 30 décembre 2009, de l’article 51-I-2° de la loi n° 2011-1978 du 28 décembre 2011 et de l’article 76-I E 1° de la loi n° 2013-1278 du 29 décembre 2013.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

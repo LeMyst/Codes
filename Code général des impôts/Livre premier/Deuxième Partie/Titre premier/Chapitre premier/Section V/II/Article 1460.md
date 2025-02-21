@@ -24,7 +24,7 @@ Sont exonérés de la cotisation foncière des entreprises :
 
 9° Les membres du corps de réserve sanitaire constitué dans les conditions prévues au titre III du livre Ier de la troisième partie du code de la santé publique pour leurs activités exercées à ce titre.
 
-Le bénéfice des exonérations prévues aux 2o et 3o du présent article est subordonné au respect du règlement (UE) no 1407/2013 de la Commission du 18 décembre 2013 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.
+Le bénéfice des exonérations prévues aux 2o et 3o du présent article est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

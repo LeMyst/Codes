@@ -6,7 +6,7 @@ Les gains nets résultant de la cession à titre onéreux ou retirés du rachat 
 
 Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession d'actions, de parts ou de droits mentionnés au deuxième alinéa du présent 1, est réduit de l'abattement prévu au même alinéa, quelle que soit la date à laquelle est intervenue la cession à laquelle il se rapporte, lorsque les conditions prévues, selon le cas, aux 1 ter ou 1 quater du présent article sont remplies.
 
-L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007, ni au gain net mentionné au I de l'article 163 bis G, ni au reliquat du gain net imposable après application de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter.
+L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007, ni au reliquat du gain net imposable après application de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter.
 
 1 bis (Supprimé)
 
@@ -183,4 +183,4 @@ c. abrogé
 Le montant des sommes reçues en exécution d'une telle clause de garantie de passif ou d'actif net diminue le prix d'acquisition des valeurs mobilières ou des droits sociaux à retenir par le cessionnaire pour la détermination du gain net de cession des titres concernés.
 
 NOTA:
-Conformément au A du III de l’article 3 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter de la date prévue au II de l'article 34 de la loi n° 2023-973 du 23 octobre 2023 relative à l'industrie verte, c’est-à-dire à une date fixée par décret, et au plus tard le 1er juillet 2024.
+Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.

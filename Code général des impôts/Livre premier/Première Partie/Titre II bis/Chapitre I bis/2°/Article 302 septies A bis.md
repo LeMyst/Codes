@@ -8,7 +8,7 @@ III. - Le bénéfice du régime prévu au I est réservé :
 
 a. Sur option, aux entreprises normalement placées sous le régime défini à l'article 50-0 ;
 
-b. Aux autres entreprises dont le chiffre d'affaires de l'année civile précédente n'excède pas les seuils prévus aux 1° et 2° de l'article L. 162-4 du code des impositions sur les biens et services ainsi qu'aux sociétés civiles de moyens définies à l'article 42 de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées.
+b. Aux autres entreprises dont le chiffre d'affaires de l'année civile précédente n'excède pas les seuils prévus aux 1° et 2° de l'article L. 162-4 du code des impositions sur les biens et services ainsi qu'aux sociétés civiles de moyens définies à l'article 38 de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées.
 
 Les entreprises conservent le bénéfice de ces dispositions pour la première année suivant celle au cours de laquelle le chiffre d'affaires limite fixé au premier alinéa est dépassé, sauf en cas de changement d'activité.
 
@@ -23,6 +23,4 @@ Ces seuils sont calculés dans les conditions prévues au 1 de l'article 50-0. I
 Ces entreprises sont dispensées de présenter leur bilan lors des vérifications de comptabilité.
 
 NOTA:
-Conformément au premier alinéa du I de l’article 134 de l’ordonnance n° 2023-77 du 8 février 2023, ces dispositions entrent en vigueur au 1er septembre 2024.
-
-Modifications effectuées en conséquence de l’article 20-XV B 1° et 2° de la loi n° 2013-1279 du 29 décembre 2013.
+Conformément au 1° du VII de l'article 75 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er septembre 2024.

@@ -106,7 +106,7 @@ Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisation
 
 3° Les distributions mentionnées à l'article 150-0 F et au 1 du II de l'article 163 quinquies C sont déterminées conformément auxdits articles ;
 
-4° Les gains nets réalisés dans les conditions prévues au premier alinéa du I de l'article 163 bis G sont déterminés conformément au même article 163 bis G ;
+4° (Abrogé) ;
 
 5° Les plus-values latentes sur droits sociaux, valeurs, titres ou droits, les créances trouvant leur origine dans une clause de complément de prix et certaines plus-values en report d'imposition imposables lors du transfert du domicile fiscal hors de France sont déterminées conformément à l'article 167 bis ;
 
@@ -125,4 +125,4 @@ Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisation
 4° (Abrogé).
 
 NOTA:
-Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2023-1322 du 29 décembre 2023.
+Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.

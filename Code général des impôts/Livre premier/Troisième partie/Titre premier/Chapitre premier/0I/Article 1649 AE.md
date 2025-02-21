@@ -18,13 +18,13 @@ d) Etre enregistré auprès d'un ordre ou d'une association professionnelle en r
 
 3° Lorsque plusieurs intermédiaires participent à la mise en œuvre d'un même dispositif, l'obligation déclarative incombe à chacun d'entre eux. Un intermédiaire est cependant dispensé de l'obligation déclarative s'il peut prouver, par tout moyen, qu'une déclaration comportant l'ensemble des informations requises a déjà été souscrite par un autre intermédiaire, en France ou dans un autre Etat membre de l'Union européenne ;
 
-4° L'intermédiaire soumis à une obligation de secret professionnel dont la violation est prévue et réprimée par l'article 226-13 du code pénal souscrit, avec l'accord de son client, la déclaration mentionnée à l'article 1649 AD.
+4° L'intermédiaire qui a la qualité d'avocat ou d'avocat au Conseil d'Etat et à la Cour de cassation est dispensé de souscrire la déclaration mentionnée à l'article 1649 AD lorsque le fait de se conformer à l'obligation de déclaration est contraire au secret professionnel.
 
-A défaut de cet accord, l'intermédiaire notifie à tout autre intermédiaire ayant la qualité de client l'obligation déclarative qui lui incombe.
+L'intermédiaire ayant bénéficié de la dispense notifie à tout autre intermédiaire ayant la qualité de client l'obligation déclarative qui lui incombe.
 
-En l'absence d'autre intermédiaire, la notification d'obligation déclarative est adressée au contribuable concerné par le dispositif transfrontière. L'intermédiaire transmet également au contribuable concerné, le cas échéant, les informations nécessaires au respect de son obligation déclarative.
+En l'absence d'un autre intermédiaire ayant la qualité de client, la notification d'obligation déclarative est adressée, lorsqu'il a la qualité de client, au contribuable concerné par le dispositif transfrontière. L'intermédiaire lui transmet également, le cas échéant, les informations nécessaires au respect de son obligation déclarative.
 
-Les notifications prévues ci-dessus sont effectuées par tout moyen permettant de leur conférer date certaine ;
+Les notifications prévues aux deuxième et troisième alinéas du présent 4° sont effectuées par tout moyen permettant de leur conférer date certaine ;
 
 5° Dans tous les cas, en l'absence de tout intermédiaire soumis à l'obligation déclarative de l'article 1649 AD, cette obligation incombe au contribuable concerné par le dispositif transfrontière.
 

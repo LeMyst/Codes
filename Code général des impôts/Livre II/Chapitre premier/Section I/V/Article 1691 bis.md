@@ -4,7 +4,7 @@ I. – Les époux et les partenaires liés par un pacte civil de solidarité son
 
 1° De l'impôt sur le revenu lorsqu'ils font l'objet d'une imposition commune ;
 
-2° De la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale lorsqu'ils vivent sous le même toit.
+2° De la taxe d'habitation sur les résidences secondaires lorsqu'ils vivent sous le même toit.
 
 3° De la taxe d'aménagement et des pénalités afférentes.
 
@@ -30,13 +30,13 @@ Les revenus des enfants majeurs qui ont demandé leur rattachement au foyer fisc
 
 La moitié des revenus des personnes mentionnées au 2° de l'article 196 ainsi qu'à l'article 196 A bis est ajoutée à la moitié des revenus communs du demandeur et de son conjoint ou de son partenaire de pacte civil de solidarité ;
 
-b) Pour la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, la décharge est égale à la moitié de la cotisation de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale mise à la charge des personnes mentionnées au I ;
+b) Pour la taxe d'habitation sur les résidences secondaires , la décharge est égale à la moitié de la cotisation de taxe d'habitation sur les résidences secondaires mise à la charge des personnes mentionnées au I ;
 
 c) Pour l'impôt sur la fortune immobilière, la décharge est égale à la différence entre le montant de la cotisation d'impôt sur la fortune immobilière dû par les personnes mentionnées à l'article 1723 ter-00 B et la fraction de cette cotisation correspondant à l'actif net du patrimoine imposable propre du demandeur et à la moitié de l'actif net du patrimoine imposable commun du demandeur et de son conjoint ou de son partenaire de pacte civil de solidarité.
 
 Pour l'application du présent c, le patrimoine imposable des enfants mineurs du demandeur non issus de son mariage avec le conjoint ou de son union avec le partenaire de pacte civil de solidarité est ajouté au patrimoine imposable propre du demandeur ; la moitié du patrimoine imposable des enfants mineurs du demandeur et de son conjoint ou de son partenaire de pacte civil de solidarité est ajoutée à la moitié du patrimoine imposable commun ;
 
-d) Pour les intérêts de retard et les pénalités mentionnées aux articles 1727,1728,1729,1732 et 1758 A consécutifs à la rectification d'un bénéfice ou revenu propre au conjoint ou au partenaire de pacte civil de solidarité du demandeur, la décharge de l'obligation de paiement est prononcée en totalité. La décharge de l'obligation de paiement des intérêts de retard et des pénalités mentionnées aux mêmes articles 1727, 1728, 1729, 1732 et 1758 A est prononcée, dans les autres situations, dans les proportions définies aux a, b ou c du présent 2.
+d) Pour les intérêts de retard et les pénalités mentionnées aux articles 1727,1728,1729,1732 et 1758 A consécutifs à la rectification d'un bénéfice ou revenu propre au conjoint ou au partenaire de pacte civil de solidarité du demandeur, la décharge de l'obligation de paiement est prononcée en totalité. La décharge de l'obligation de paiement des intérêts de retard et des pénalités mentionnées aux mêmes articles 1727,1728,1729,1732 et 1758 A est prononcée, dans les autres situations, dans les proportions définies aux a, b ou c du présent 2.
 
 3. Le bénéfice de la décharge de l'obligation de paiement est subordonné au respect des obligations déclaratives du demandeur prévues par les articles 170 et 982 à compter de la date de la fin de la période d'imposition commune.
 
@@ -49,4 +49,4 @@ Pour l'application de ces dispositions, la situation de gêne et d'indigence s'a
 IV. – L'application des II et III peut donner lieu à restitution des sommes recouvrées à compter de l'un des événements mentionnés aux a à d du 1 du II.
 
 NOTA:
-Conformément au III de l'article 6 de la loi n° 2024-494 du 31 mai 2024, ces dispositions s'appliquent aux personnes pour lesquelles la demande de décharge de l'obligation de paiement mentionnée au II de l'article 1691 bis du code général des impôts n'a donné lieu, à la date d'entrée en vigueur de ladite loi, ni à une décision définitive de la part de l'administration fiscale, ni à une décision de justice passée en force de chose jugée.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

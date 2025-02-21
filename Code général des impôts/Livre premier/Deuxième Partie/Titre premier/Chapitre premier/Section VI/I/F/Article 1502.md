@@ -1,6 +1,6 @@
 # Article 1502
 
-I. – Pour chaque révision des évaluations, les redevables de la taxe foncière ou, à défaut, de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale ou d'une taxe annexe établie sur la même base, sont tenus de souscrire des déclarations dans des conditions fixées par décret (1).
+I. – Pour chaque révision des évaluations, les redevables de la taxe foncière ou, à défaut, de la taxe d'habitation sur les résidences secondaires ou d'une taxe annexe établie sur la même base, sont tenus de souscrire des déclarations dans des conditions fixées par décret (1).
 
 Le premier alinéa n'est pas applicable aux personnes redevables de ces impositions à raison d'un bien mentionné au I de l'article 1498.
 
@@ -9,4 +9,4 @@ II. – Les propriétaires qui exploitent un établissement industriel sont tenu
 NOTA:
 (1) Voir les articles 324 AH à 324 AJ de l'annexe III.
 
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

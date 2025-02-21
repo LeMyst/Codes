@@ -50,7 +50,7 @@ c) Ou imputables aux fluctuations du taux de change entre une monnaie étrangèr
 
 a) Les charges comptabilisées par l'entité constitutive au titre de paiements illégaux, notamment les pots-de-vin et les détournements de fonds ;
 
-b) Et les charges comptabilisées par l'entité constitutive au titre d'amendes et de pénalités, d'un montant égal ou supérieur à 50 000 € ou d'un montant équivalent dans la monnaie fonctionnelle utilisée en comptabilité servant au calcul du résultat net comptable de l'entité ;
+b) Et les charges comptabilisées par l'entité constitutive au titre d'amendes et de pénalités, d'un montant égal ou supérieur à 50 000 € ou d'un montant équivalent dans la monnaie utilisée en comptabilité servant au calcul du résultat net comptable de l'entité ;
 
 7° Erreurs relatives à des exercices antérieurs et changements de principes comptables : la variation du solde des capitaux propres au bilan d'ouverture consécutive :
 
@@ -67,4 +67,4 @@ b) Et à une modification de la réglementation applicable ou des principes comp
 11° Provisions techniques exclues : les charges comptabilisées par une entreprise d'assurance au titre de l'augmentation des engagements envers les assurés résultant de la perception de dividendes ou de la réalisation de plus-values exclus en application des 2° et 3° de l'article 223 VO bis.
 
 NOTA:
-Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.

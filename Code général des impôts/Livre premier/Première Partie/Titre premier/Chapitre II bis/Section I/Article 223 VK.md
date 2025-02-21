@@ -14,6 +14,22 @@ Un avantage en impôt partiellement remboursable est un crédit d'impôt qualifi
 
 Ne sont pas considérés comme des crédits d'impôt qualifiés les remboursements d'impôt en application d'un impôt imputé qualifié ou d'un impôt imputé remboursable non qualifié ;
 
+Lorsqu'un avantage en impôt répond à la définition mentionnée au présent 3°, les définitions mentionnées aux 3° bis et 3° ter ne trouvent pas à s'appliquer ;
+
+3° bis Crédit d'impôt transférable négociable : un avantage en impôt pouvant être acquis en trésorerie ou en équivalent de trésorerie par une entité tierce non liée auprès d'une entité constitutive en droit d'en bénéficier en application de la législation de l'Etat ou du territoire qui l'accorde, utilisé par l'entité tierce pour réduire ses impôts couverts et qui, pour l'entité constitutive, remplit les conditions prévues au a du présent 3° bis et, pour l'entité tierce, remplit les conditions prévues au b du présent 3° bis :
+
+a) L'avantage en impôt peut être cédé à l'entité tierce non liée à un prix supérieur ou égal à 80 % de sa valeur actuelle nette dans un délai qui ne peut excéder quinze mois à compter de la clôture de l'exercice durant lequel l'entité constitutive est en droit d'en bénéficier en application de la législation de l'Etat ou du territoire qui l'accorde ;
+
+b) Au cours de l'exercice durant lequel elle en a fait l'acquisition, l'entité tierce non liée peut céder à une autre entité tierce non liée l'avantage en impôt acquis à un prix supérieur ou égal à 80 % de sa valeur actuelle nette ;
+
+Pour l'application du présent 3° bis, des liens de dépendance sont réputés exister entre deux entités constitutives lorsque l'une de ces entités détient directement ou indirectement la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ou lorsqu'elles sont placées l'une et l'autre, dans les mêmes conditions, sous le contrôle d'une même entité constitutive.
+
+Pour l'application du présent chapitre, un avantage en impôt répondant à la définition prévue au présent 3° bis est assimilé à un crédit d'impôt qualifié ;
+
+3° ter Crédit d'impôt transférable non négociable : un avantage en impôt pouvant être acquis en trésorerie ou en équivalent de trésorerie par une entité tierce auprès d'une entité constitutive en droit d'en bénéficier en application de la législation de l'Etat ou du territoire qui l'accorde, utilisé par l'entité tierce pour réduire ses impôts couverts et qui ne remplit pas, selon le cas, les conditions prévues aux a ou b du 3° bis.
+
+Pour l'application du présent chapitre, un avantage en impôt répondant à la définition posée au présent 3° ter est assimilé à un crédit d'impôt non qualifié ;
+
 4° Ecart significatif : dans le cadre de l'application d'une règle ou d'un principe spécifique prévu par une norme de comptabilité financière, une différence dans le montant agrégé des produits ou charges de plus de 75 millions d'euros au cours d'un exercice par comparaison avec le montant qui aurait été obtenu en application de la règle correspondante prévue par les normes comptables internationales ;
 
 5° Entité : un dispositif juridique qui établit des états financiers distincts ou une personne morale ;
@@ -32,6 +48,12 @@ a) Une entité constitutive d'un groupe d'entreprises multinationales ou d'un gr
 
 b) Ou une entité constitutive apatride dont le résultat qualifié, au titre d'un exercice, est soumis à un taux effectif d'imposition inférieur au taux minimum d'imposition défini au 45° du présent article ;
 
+8° bis Entité constitutive non significative : une entité mentionnée au 6° non prise en compte dans les états financiers consolidés de l'entité mère ultime en raison de sa taille ou de son intérêt négligeable, à la condition que :
+
+a) Les états financiers consolidés de l'entité mère ultime soient établis conformément aux a ou c du 22° et aient fait l'objet d'un audit indépendant qui ne contienne aucune réserve sur le caractère non significatif de l'entité constitutive concernée ;
+
+b) Lorsque le chiffre d'affaires total de l'entité constitutive non significative est supérieur à 50 millions d'euros, les états financiers utilisés pour l'établissement de la déclaration mentionnée au deuxième alinéa du I de l'article 223 VN soient établis en application d'une norme de comptabilité financière qualifiée ou agréée ;
+
 9° Entité d'investissement :
 
 a) Un fonds d'investissement ou un véhicule d'investissement immobilier ;
@@ -40,11 +62,11 @@ b) Une entité détenue à 95 % au moins de sa valeur par une entité mentionné
 
 c) Ou une entité détenue à 85 % au moins de sa valeur par une entité mentionnée audit a, à la condition que le résultat comptable de l'entité ainsi détenue soit, en quasi-totalité, constitué de dividendes ou de plus ou moins-values exclus du calcul du résultat qualifié au sens de l'article 223 VN ;
 
-10° Entité d'investissement d'assurance : une entité qui remplit les conditions cumulatives suivantes :
+10° Entité d'investissement d'assurance : une entité qui constituerait un fonds d'investissement, au sens du 24° du présent article, ou un véhicule d'investissement immobilier, au sens du 48°, si elle n'avait pas été :
 
-a) L'entité constituerait un fonds d'investissement, au sens du 24° du présent article, ou un véhicule d'investissement immobilier, au sens du 48°, si elle n'avait pas été constituée dans le cadre d'engagements au titre de contrats d'assurance ou de rentes contractuelles ;
+a) Constituée dans le cadre d'engagements au titre de contrats d'assurance ou de contrats de rente ;
 
-b) L'entité est entièrement détenue par une ou plusieurs entités soumises à la réglementation des entreprises d'assurance dans l'Etat ou le territoire dans lequel elle est située ;
+b) Et entièrement détenue par une ou plusieurs entités soumises à la réglementation des entreprises d'assurance dans l'Etat ou le territoire dans lequel ces entités détentrices sont créées ;
 
 11° Entité de services de fonds de pension : une entité constituée et gérée dans un Etat ou territoire exclusivement, ou presque exclusivement, dans le but de placer des fonds pour le compte des entités mentionnées au a du 25° ou qui exerce des activités qui sont accessoires aux activités réglementées mentionnées au même a, à la condition qu'elle fasse partie du même groupe que les entités qui exercent ces activités réglementées ;
 
@@ -138,7 +160,7 @@ d) L'entité ou le dispositif est principalement constitué en vue de générer 
 
 e) Ses investisseurs ont droit, en fonction de leurs investissements, à un rendement sur les actifs du fonds ou sur les revenus perçus par ce fonds au titre des actifs qu'il détient ;
 
-f) L'entité, le dispositif ou leur gestionnaire est soumis aux règles applicables aux fonds d'investissement dans l'Etat ou le territoire où il est situé ou géré, notamment celles relatives à la lutte contre le blanchiment de capitaux et à la protection des investisseurs ;
+f) L'entité, le dispositif ou leur gestionnaire est soumis aux règles applicables aux fonds d'investissement dans l'Etat ou le territoire où il est établi ou géré, notamment celles relatives à la lutte contre le blanchiment de capitaux et à la protection des investisseurs ;
 
 g) L'entité ou le dispositif est géré par des gestionnaires professionnels de fonds pour le compte des investisseurs ;
 
@@ -259,4 +281,4 @@ c) Et qui était en vigueur au plus tard le 1er juillet 2021 ;
 48° Véhicule d'investissement immobilier : une entité dont les capitaux sont largement répartis qui détient principalement des actifs immobiliers et qui est soumise à une imposition unique de son résultat, soit à son niveau, soit entre les mains de ses détenteurs, reportable d'un an au maximum.
 
 NOTA:
-Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.

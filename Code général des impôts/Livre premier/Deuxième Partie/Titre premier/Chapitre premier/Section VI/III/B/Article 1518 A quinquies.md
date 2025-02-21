@@ -1,6 +1,6 @@
 # Article 1518 A quinquies
 
-I. – 1. En vue de l'établissement de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de la taxe d'enlèvement des ordures ménagères, la valeur locative des propriétés bâties mentionnées au I de l'article 1498 est corrigée par un coefficient de neutralisation.
+I. – 1. En vue de l'établissement de la taxe foncière sur les propriétés bâties, de la cotisation foncière des entreprises, de la taxe d'habitation sur les résidences secondaires et de la taxe d'enlèvement des ordures ménagères, la valeur locative des propriétés bâties mentionnées au I de l'article 1498 est corrigée par un coefficient de neutralisation.
 
 Ce coefficient est égal, pour chaque taxe et chaque collectivité territoriale, au rapport entre, d'une part, la somme des valeurs locatives non révisées au 1er janvier 2017 des propriétés bâties mentionnées au même I de l'article 1498 imposables au titre de cette année dans son ressort territorial, à l'exception de celles mentionnées au 2 du présent I, et, d'autre part, la somme des valeurs locatives révisées de ces mêmes propriétés à la date de référence du 1er janvier 2013.
 
@@ -22,9 +22,9 @@ II. – Le I du présent article cesse de s'appliquer l'année de la prise en co
 
 III. – Pour les impositions dues au titre des années 2017 à 2025 :
 
-1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I est positive, celle-ci est majorée d'un montant égal à la moitié de cette différence ;
+1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du I à cette même date est positive, la valeur locative résultant du même I est majorée d'un montant égal à la moitié de cette différence ;
 
-1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant du même I est négative, celle-ci est minorée d'un montant égal à la moitié de cette différence ;
+1. Lorsque la différence entre la valeur locative non révisée au 1er janvier 2017 et la valeur locative résultant dudit I à cette même date est négative, la valeur locative résultant du même I est minorée d'un montant égal à la moitié de cette différence ;
 
 1. Pour les communes, chaque majoration ou minoration mentionnée aux 1 et 2 appliquée aux valeurs locatives communales servant à l'établissement de la base d'imposition de la taxe foncière sur les propriétés bâties est égale au rapport entre :
 
@@ -39,4 +39,6 @@ IV. – Pour la détermination des valeurs locatives non révisées au 1er janvi
 V. – Le 3 des I et III ne s'applique pas pour l'établissement de la base d'imposition à la taxe prévue à l'article 1530.
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 24° du E du I dudit article, s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au II de ll'article 63 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, sous réserve des réclamations introduites auprès de l'administration des impôts avant le 10 octobre 2024, sont validées les impositions directes locales et les taxes perçues sur les mêmes bases dues au titre des années 2023 et 2024 en tant que leur légalité serait contestée au motif que la valeur locative des locaux évalués en application du II de l'article 1498 du code général des impôts devant être retenue pour l'application du dispositif de majoration ou de minoration de valeur locative prévue au III de l'article 1518 A quinquies du même code est celle retenue en vue de l'établissement des impositions dues au titre de chacune des années concernées, le cas échéant, corrigée par le coefficient de neutralisation prévu au I du même article 1518 A quinquies, et non la valeur locative retenue pour l'établissement des impositions dues au titre de la seule année 2017.
+
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

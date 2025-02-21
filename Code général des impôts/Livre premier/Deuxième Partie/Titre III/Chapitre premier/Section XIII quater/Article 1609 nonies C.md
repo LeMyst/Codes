@@ -34,11 +34,11 @@ I ter. – Le cas échéant, sur délibérations concordantes des communes membr
 
 I quater. – Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre les délibérations prévues aux 3 et 4 du I bis et au I ter du présent article.
 
-II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
+II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe d'habitation sur les résidences secondaires , de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
 
-La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
+La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et des taxes foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
-Par dérogation, lorsque l'établissement public de coopération intercommunale percevait une fiscalité additionnelle l'année précédant celle de l'application de ces dispositions, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières établis par l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et de taxes foncières votés par lui l'année précédente.
+Par dérogation, lorsque l'établissement public de coopération intercommunale percevait une fiscalité additionnelle l'année précédant celle de l'application de ces dispositions, les rapports entre les taux de taxe d'habitation sur les résidences secondaires et des taxes foncières établis par l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation sur les résidences secondaires et de taxes foncières votés par lui l'année précédente.
 
 III. – 1° a) Le taux de la cotisation foncière des entreprises est voté par le conseil mentionné au II dans les limites fixées à l'article 1636 B decies.
 
@@ -181,4 +181,4 @@ Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen pon
 IX. – Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du présent article.
 
 NOTA:
-Conformément au A du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

@@ -1,6 +1,6 @@
 # Article 1681 ter
 
-1. La taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et les taxes foncières sont recouvrées dans les conditions prévues au 1 de l'article 1663 et à l'article 1730. Toutefois, le contribuable peut opter pour des prélèvements mensuels sur un compte ouvert par lui et répondant aux conditions de l'article 1680 A.
+1. La taxe d'habitation sur les résidences secondaires et les taxes foncières sont recouvrées dans les conditions prévues au 1 de l'article 1663 et à l'article 1730. Toutefois, le contribuable peut opter pour des prélèvements mensuels sur un compte ouvert par lui et répondant aux conditions de l'article 1680 A.
 
 L'option est exercée expressément et renouvelée tacitement chaque année.
 
@@ -21,4 +21,4 @@ Lorsque, après la mise en recouvrement, le montant du dernier prélèvement de 
 3. Les modalités d'application du présent article sont fixées par décret.
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

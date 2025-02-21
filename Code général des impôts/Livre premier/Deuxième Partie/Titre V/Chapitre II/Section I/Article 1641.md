@@ -6,7 +6,7 @@ a) Taxe foncière sur les propriétés bâties ;
 
 b) Taxe foncière sur les propriétés non bâties ;
 
-c) Taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale ;
+c) Taxe d'habitation sur les résidences secondaires ;
 
 d) Cotisation foncière des entreprises ;
 
@@ -37,4 +37,4 @@ e) (Abrogé).
 II. – Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant des taxes visées au A du I et 5,4 % du montant de celles visées au B du même I. Pour les impositions visées au même B et perçues au profit des collectivités locales et de leurs groupements, ce taux est réduit à 4,4 %.
 
 NOTA:
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 19° du E du I dudit article, s’appliquent à compter des impositions établies au titre de 2023.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

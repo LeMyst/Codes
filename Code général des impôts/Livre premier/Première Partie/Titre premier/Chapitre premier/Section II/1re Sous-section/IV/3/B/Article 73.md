@@ -36,7 +36,17 @@ Pour l'exploitant, associé coopérateur d'une société coopérative agricole m
 
 2. Les sommes déduites sont utilisées au cours des dix exercices qui suivent celui au cours duquel la déduction a été pratiquée pour faire face à des dépenses nécessitées par l'activité professionnelle. Ces sommes sont rapportées au résultat de l'exercice au cours duquel leur utilisation est intervenue ou au résultat de l'exercice suivant.
 
-1. Lorsque ces sommes ne sont pas utilisées au cours des dix exercices qui suivent celui au titre duquel la déduction a été pratiquée, elles sont rapportées au résultat du dixième exercice suivant celui au titre duquel la déduction a été pratiquée.
+Les sommes rapportées ne sont imposables qu'à hauteur de 70 % de leur montant lorsqu'elles sont utilisées pour des dépenses liées à l'exploitation, au cours de l'exercice de survenance sur l'exploitation, ou au cours de l'exercice suivant, de l'un des risques résultant :
+
+a) De l'apparition d'un foyer de maladie animale ou végétale ou d'un incident environnemental mentionnés à l'article L. 361-3 du code rural et de la pêche maritime remplissant les conditions pour ouvrir droit à une indemnisation par un fonds de mutualisation prévu au même article L. 361-3 ;
+
+b) D'une perte de récoltes ou de cultures liée à des dommages du fait d'aléas climatiques mentionnée à l'article L. 361-4 A du même code remplissant les conditions pour ouvrir droit à une indemnisation au titre des contrats d'assurance mentionnés à l'article L. 361-4 dudit code ou fondée sur la solidarité nationale dans les conditions précisées à l'article L. 361-4-1 du même code ;
+
+c) De calamités agricoles mentionnées à l'article L. 361-5 du même code remplissant les conditions pour ouvrir droit à une indemnisation en application du même article L. 361-5.
+
+Le montant des sommes rapportées qui ne sont pas imposées en application du présent 2 ne peut, au titre d'un exercice donné, excéder 50 000 euros. Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, ce plafond est multiplié par le nombre des associés exploitants, dans la limite de quatre.
+
+3. Lorsque ces sommes ne sont pas utilisées au cours des dix exercices qui suivent celui au titre duquel la déduction a été pratiquée, elles sont rapportées au résultat du dixième exercice suivant celui au titre duquel la déduction a été pratiquée.
 
 En cas de non-respect de l'obligation prévue à l'avant-dernière phrase du premier alinéa du 1 du présent II, la fraction des déductions non encore rapportées qui excède le double de l'épargne professionnelle est rapportée au résultat de cet exercice, majorée d'un montant égal au produit de cette somme par le taux de l'intérêt de retard prévu à l'article 1727.
 
@@ -54,9 +64,11 @@ IV. - Sur option du contribuable, le I de l'article 163-0 A s'applique aux dédu
 
 V. - Les bénéfices des exploitants titulaires de revenus mentionnés aux cinquième ou sixième alinéas de l'article 63 ne peuvent donner lieu à la déduction prévue au présent article, lorsque ces exploitants n'exercent aucune des activités mentionnées aux premier, deuxième, troisième ou quatrième alinéas de l'article 63.
 
-VI. - Le bénéfice de la déduction est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture, du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ou du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+VI. - Le bénéfice de la déduction est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture, du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ou du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au IV de l’article 94 de la loi n° 2023-1322 du 29 décembre 2023, le 4 du I du présent article ne s'applique pas à l'impôt sur le revenu dû au titre de l'année 2024.
+Conformément au A du III de l'article 66 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à l'impôt sur le revenu dû au titre de l'année 2024 et des années suivantes.
 
-Conformément au A du V de l’article 94 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à l'impôt sur le revenu dû au titre de l'année 2024 et des années suivantes.
+Conformément au IV dudit article, la perte de recettes pour l'Etat est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

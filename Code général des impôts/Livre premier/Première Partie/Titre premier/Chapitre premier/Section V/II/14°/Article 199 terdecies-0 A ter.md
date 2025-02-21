@@ -22,11 +22,11 @@ C.-Par dérogation au II de l'article 199 terdecies-0 A :
 
 2° Les deux derniers alinéas ne sont pas applicables.
 
-IV.-Le bénéfice de la réduction d'impôt est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+IV.-Le bénéfice de la réduction d'impôt est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 V.-Le total de l'avantage résultant de l'application du présent article et de l'article 199 terdecies-0 A bis ne peut pas procurer une réduction de l'impôt dû supérieure à 50 000 € sur la période du 1er janvier 2024 au 31 décembre 2028.
 
 VI.-La réduction d'impôt mentionnée au I du présent article ne s'applique pas à la fraction des versements effectués au titre de souscriptions ayant ouvert droit à la réduction d'impôt mentionnée au I de l'article 199 terdecies-0 A bis.
 
 NOTA:
-Conformément au III de l’article 48 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er janvier 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

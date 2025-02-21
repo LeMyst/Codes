@@ -6,5 +6,9 @@ La part de la déduction afférente aux charges de personnel d'une entité const
 
 2° Ou affectées au résultat exclu en application de l'article 223 VP bis.
 
+Cette part est réduite à proportion du temps de travail consacré par l'employé de l'entité constitutive aux activités qu'il effectue, au cours de l'exercice considéré, en dehors de cet Etat ou de ce territoire.
+
+Toutefois cette réduction proportionnelle peut ne pas être appliquée lorsque le temps de travail de cet employé est majoritairement consacré à des activités qu'il réalise dans cet Etat ou ce territoire.
+
 NOTA:
-Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.

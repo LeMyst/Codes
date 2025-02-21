@@ -6,7 +6,7 @@
 
 Toutefois les rémunérations ne sont admises en déduction des résultats que dans la mesure où elles correspondent à un travail effectif et ne sont pas excessives eu égard à l'importance du service rendu. Cette disposition s'applique à toutes les rémunérations directes ou indirectes, y compris les indemnités, allocations, avantages en nature et remboursements de frais.
 
-Une entreprise mettant à disposition de manière temporaire un salarié dans les conditions prévues à l'article L. 8241-3 du code du travail peut déduire les salaires, charges sociales afférentes et frais professionnels remboursés au salarié mis à disposition, même lorsqu'elle ne refacture que partiellement ces coûts à l'entreprise bénéficiaire de la mise à disposition. Le bénéfice de la déduction, pour la part excédant la refacturation, est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Une entreprise mettant à disposition de manière temporaire un salarié dans les conditions prévues à l'article L. 8241-3 du code du travail peut déduire les salaires, charges sociales afférentes et frais professionnels remboursés au salarié mis à disposition, même lorsqu'elle ne refacture que partiellement ces coûts à l'entreprise bénéficiaire de la mise à disposition. Le bénéfice de la déduction, pour la part excédant la refacturation, est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail, y compris les charges sociales et fiscales afférentes à cette indemnité.
 
@@ -52,7 +52,7 @@ Les conditions d'application de l'alinéa précédent, notamment les obligations
 
 3° bis (Abrogé) ;
 
-4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des impôts prélevés par un Etat ou territoire conformément aux stipulations d'une convention fiscale d'élimination des doubles impositions en matière d'impôt sur les revenus conclue par cet Etat ou territoire avec la France, de l'impôt complémentaire mentionné au deuxième alinéa de l'article 223 VJ, des taxes prévues aux articles 231 ter, 231 quater, 235 ter X, 235 ter ZE bis et 990 G du présent code ainsi qu'au 1° de l'article L. 421-94 et à l'article L. 425-1 du code des impositions sur les biens et services et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
+4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des impôts prélevés par un Etat ou territoire conformément aux stipulations d'une convention fiscale d'élimination des doubles impositions en matière d'impôt sur les revenus conclue par cet Etat ou territoire avec la France, de l'impôt complémentaire mentionné au deuxième alinéa de l'article 223 VJ, des taxes prévues aux articles 231 ter, 231 quater, 235 ter X, 235 ter XB , 235 ter ZE bis et 990 G du présent code ainsi qu'au 1° de l'article L. 421-94 et à l'article L. 425-1 du code des impositions sur les biens et services et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
 
 Par exception aux dispositions du premier alinéa, lorsque, en application du huitième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de cotisation foncière des entreprises du montant du dégrèvement attendu du plafonnement de la contribution économique territoriale due au titre de la même année, le montant de la cotisation foncière des entreprises déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
 
@@ -212,7 +212,7 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 6. (périmé).
 
-1. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+1. (Abrogé).
 
 1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
@@ -269,3 +269,8 @@ Les deux premiers alinéas du présent 12 ter s'appliquent lorsque l'entreprise 
 Le premier alinéa ne s'applique pas aux aides consenties en application d'un accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
 
 Les aides mentionnées au deuxième alinéa qui ne revêtent pas un caractère commercial sont déductibles à hauteur de la situation nette négative de l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette négative, à proportion des participations détenues par d'autres personnes que l'entreprise qui consent les aides.
+
+NOTA:
+Conformément au A du I de l'article 95 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux opérations de réduction de capital réalisées à compter du 1er mars 2025.
+
+Se reporter au II, au III. B. et au IV pour les modalités relatives aux différentes taxes.

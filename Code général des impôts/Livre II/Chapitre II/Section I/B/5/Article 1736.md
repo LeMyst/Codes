@@ -14,6 +14,8 @@ Les personnes soumises aux obligations de l'article 242 ter et de l'article 242 
 
 1. Le dépôt hors délai de la déclaration mentionnée au I de l'article 1649 AC est sanctionné par une amende fiscale de 200 € par compte à déclarer.
 
+1. Le défaut de transmission dans le délai prescrit de la déclaration prévue à l'article 1649 AC bis ainsi que les inexactitudes ou les omissions relevées dans cette déclaration entraînent l'application d'une amende de 15 euros par transaction non déclarée ou déclarée tardivement ou par inexactitude, dans la limite de 2 000 000 euros par prestataire de services et par année à laquelle la déclaration se rattache. L'amende n'est pas applicable en cas de première infraction commise au cours de l'année civile en cours et des trois années précédentes lorsque le prestataire concerné a réparé son omission soit spontanément, soit à la première demande de l'administration avant la fin de la période de transmission de la déclaration.
+
 II. – (Disjoint)
 
 III. – Entraîne l'application d'une amende égale à 5 % des sommes non déclarées le non-respect des obligations prévues par l'article 88, s'agissant des seules rentes viagères à titre onéreux, et par l'article 241, s'agissant des droits d'auteur imposés suivant les règles applicables aux bénéfices non commerciaux et des droits d'inventeur.
@@ -42,9 +44,9 @@ VIII. – Le défaut de production, sur demande de l'administration, de l'attest
 
 IX. – Les infractions à l'article 242 ter E sont passibles d'une amende de 100 € par profit ou par perte non déclaré et qui ne peut excéder 50 000 € par déclaration. L'amende n'est pas applicable, en cas de première infraction commise au cours de l'année civile en cours et des trois années précédentes, lorsque les intéressés ont réparé leur omission soit spontanément, soit à la première demande de l'administration avant la fin de l'année au cours de laquelle la déclaration devait être souscrite.
 
-X. – Les infractions à l'article 1649 bis C sont passibles d'une amende de 750 € par compte non déclaré ou de 125 € par omission ou inexactitude, dans la limite de 10 000 € par déclaration.
+X. – Les infractions à l'article 1649 bis C sont passibles d'une amende de 750 € par portefeuille non déclaré ou de 125 € par omission ou inexactitude, dans la limite de 10 000 € par déclaration.
 
-Les montants de 750 € et 125 € mentionnés au premier alinéa du présent X sont respectivement portés à 1 500 € et 250 € lorsque la valeur vénale des comptes d'actifs numériques ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger est supérieure à 50 000 € à un moment quelconque de l'année concernée par l'obligation déclarative prévue à l'article 1649 bis C.
+Les montants de 750 € et 125 € mentionnés au premier alinéa du présent X sont respectivement portés à 1 500 € et 250 € lorsque la valeur vénale des portefeuilles d'actifs numériques ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger est supérieure à 50 000 € à un moment quelconque de l'année concernée par l'obligation déclarative prévue à l'article 1649 bis C.
 
 XI. – Les infractions à l'article 1649 ter A et aux I ou III de l'article 1649 ter D sont passibles d'une amende forfaitaire qui ne peut excéder 50 000 €.
 
@@ -55,3 +57,7 @@ XII. – Les infractions à l'obligation déclarative prévue à l'article 87-0 
 Cette amende n'est pas applicable, en cas d'absence d'infraction à l'obligation déclarative au cours des trois années précédant celle au cours de laquelle la déclaration devait être souscrite, lorsque l'intéressé a réparé son erreur spontanément avant la fin de la même année.
 
 XIII. – Le défaut de transmission dans les délais prescrits des informations mentionnées au III de l'article 286 sexies ainsi que les inexactitudes ou les omissions relevées dans le registre prévu au A du I du même article 286 sexies entraînent l'application d'une amende de 15 euros par paiement non déclaré ou déclaré tardivement ou par inexactitude, dans la limite de 500 000 euros par prestataire de services de paiement et par trimestre civil auquel l'information se rattache. L'amende n'est pas applicable en cas de première infraction commise au cours de l'année civile en cours et des trois années précédentes, lorsque les intéressés ont réparé leur omission soit spontanément, soit à la première demande de l'administration avant la fin de la période de transmission des registres.
+
+XIV.-Le manquement, par une institution financière soumise aux obligations prévues au I de l'article 1649 AC qui ne relève ni du contrôle de l'Autorité de contrôle prudentiel et de résolution prévu au 7° du II de l'article L. 612-1 du code monétaire et financier, ni du contrôle de l'Autorité des marchés financiers prévu à l'article L. 621-20-6 du même code, à l'obligation prévue au premier alinéa de l'article L. 564-2 dudit code entraîne l'application d'une amende fiscale qui ne peut excéder 50 000 euros.
+
+XV.-Le non-respect par un prestataire de services des obligations de diligence prévues au I de l'article 1649 AC quinquies entraîne l'application d'une amende fiscale qui ne peut excéder 50 000 euros.

@@ -4,7 +4,7 @@ Les opérations d'aménagement et les opérations de construction, de reconstruc
 
 Donnent également lieu au paiement de la taxe d'aménagement les opérations de construction soumises à déclaration préalable ou à permis de construire qui ont pour effet de changer la destination des locaux mentionnés au 3° du I de l'article 1635 quater D.
 
-NOTA:
-Conformément à l'article 16 de l'ordonnance n° 2022-883 du 14 juin 2022, ces dispositions s'appliquent à compter de la date résultant du B du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021.
+Donnent également lieu au paiement de la part de la taxe d'aménagement instituée dans la commune ou l'établissement public de coopération intercommunale les opérations soumises à déclaration préalable ou à permis de construire qui ont pour effet de changer la destination de locaux non destinés à l'habitation en locaux d'habitation.
 
-Se reporter aux conditions d'application prévues à l’article 1er du décret n° 2022-1102 du 1er août 2022.
+NOTA:
+Conformément au B du II de l'article 111 de la loi n° 2025-127 du 14 février 2025, les dispositions des 2° à 5° du I de l'article précité s'appliquent aux opérations de transformation pour lesquelles la délivrance de l'autorisation d'urbanisme intervient à compter du lendemain de la promulgation de ladite loi.

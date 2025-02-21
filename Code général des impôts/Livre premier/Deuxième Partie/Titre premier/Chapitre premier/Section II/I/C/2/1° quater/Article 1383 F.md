@@ -16,7 +16,7 @@ IV.-Pour bénéficier de l'exonération, le redevable de la taxe foncière sur l
 
 L'exonération porte sur les éléments déclarés dans le délai prévu au premier alinéa du présent IV.
 
-V.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 C ter, 1383 D, 1383 I ou 1383 K et de celles prévues au présent article sont remplies, le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
+V.-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 C ter, 1383 D, 1383 H, 1383 I ou 1383 K et de celles prévues au présent article sont remplies, le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
 
 VI.-Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 

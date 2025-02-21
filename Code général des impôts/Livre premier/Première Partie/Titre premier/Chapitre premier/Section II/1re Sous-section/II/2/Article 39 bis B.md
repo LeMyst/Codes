@@ -24,4 +24,7 @@ Les sommes déduites en application du 1 et affectées à l'acquisition d'élém
 
 6. Sans préjudice de l'application du quinzième alinéa du 5° du 1 de l'article 39, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de l'intérêt de retard prévu à l'article 1727.
 
-1. Le bénéfice de la provision mentionnée au 1 est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+1. Le bénéfice de la provision mentionnée au 1 est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+
+NOTA:
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

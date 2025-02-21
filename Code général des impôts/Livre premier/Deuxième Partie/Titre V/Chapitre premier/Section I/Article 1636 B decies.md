@@ -1,6 +1,6 @@
 # Article 1636 B decies
 
-I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C votent le taux de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale et des taxes foncières conformément aux dispositions applicables aux communes.
+I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C votent le taux de la taxe d'habitation sur les résidences secondaires et des taxes foncières conformément aux dispositions applicables aux communes.
 
 II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
 
@@ -35,4 +35,4 @@ VII. – Pour l'application du II à la métropole du Grand Paris :
 2° La référence au taux moyen pondéré des taxes foncières est remplacée par la référence à la somme des taux moyens constatés pour chacune de ces taxes dans l'ensemble des communes situées dans le périmètre de la métropole du Grand Paris pondérés par l'importance relative des bases de ces deux taxes pour l'année précédant celle au titre de laquelle le conseil de la métropole du Grand Paris vote son taux de cotisation foncière des entreprises ; toutefois, pour l'application du 3 du I du même article 1636 B sexies, pour le calcul des taux moyens pondérés constatés pour chacune de ces taxes, il n'est pas tenu compte des taux inférieurs aux trois quarts du taux moyen pondéré des communes constaté pour chaque taxe l'année précédente.
 
 NOTA:
-Conformément au D du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions résultant du 6° du A du III dudit article s’appliquent à compter des impositions établies au titre de 2021.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

@@ -18,8 +18,11 @@ IV.-L'entreprise qui prend en location un bien neuf mentionné aux I et II du pr
 
 L'entreprise qui donne le bien en crédit-bail ou en location avec option d'achat ne peut pas pratiquer la déduction mentionnée au premier alinéa du I.
 
-V.-Le bénéfice de la déduction est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+V.-Le bénéfice de la déduction est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VI.-La déduction est portée à une somme égale à 60 % de la valeur des biens mentionnés aux I et II pour les petites et moyennes entreprises.
 
 VII.-Pour l'application du VI, les petites et moyennes entreprises s'entendent de celles mentionnées à l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+
+NOTA:
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

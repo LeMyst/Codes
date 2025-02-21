@@ -2,7 +2,7 @@
 
 I.-Les communes et les établissements publics de coopération intercommunale à fiscalité propre peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis, exonérer de cotisation foncière des entreprises les établissements exerçant une activité industrielle, commerciale ou artisanale ou professionnelle non commerciale créés par les entreprises qui bénéficient de l'exonération prévue à l'article 44 quindecies A dans une zone France ruralités revitalisation mentionnée aux II et III du même article 44 quindecies A.
 
-Cette exonération s'applique également aux extensions d'établissement réalisées entre le 1er juillet 2024 et le 31 décembre 2029 dans une zone France ruralités revitalisation “ plus ” mentionnée au III dudit article 44 quindecies A.
+Cette exonération s'applique également aux extensions d'établissement réalisées entre le 1er janvier 2025 et le 31 décembre 2029 dans une zone France ruralités revitalisation “ plus ” mentionnée au III dudit article 44 quindecies A.
 
 L'exonération s'applique pendant cinq ans sur la base nette imposée au profit de chaque commune ou établissement public de coopération intercommunale à fiscalité propre, à compter de l'année qui suit la création de l'établissement ou de la deuxième année qui suit celle au cours de laquelle l'extension est intervenue.
 

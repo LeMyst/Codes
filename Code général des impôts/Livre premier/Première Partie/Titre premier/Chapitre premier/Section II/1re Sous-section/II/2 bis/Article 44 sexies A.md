@@ -20,7 +20,7 @@ c. Les produits de créances et d'opérations financières pour le montant qui e
 
 III. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 quindecies A, 44 sexdecies, 44 septdecies, 244 quater E ou du régime prévu au présent article, la jeune entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
 
-IV. – Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+IV. – Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

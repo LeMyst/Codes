@@ -54,15 +54,19 @@ f) La participation des employeurs à l'effort de construction, prévue par l'ar
 
 g) Le versement destiné au financement des services de mobilité, prévu par les articles L. 2333-64, L. 2531-2 et L. 5722-7 du code général des collectivités territoriales ;
 
-h) La contribution des employeurs au financement mutualisé des organisations syndicales de salariés et des organisations professionnelles d'employeurs, prévue par l'article L. 2135-10 du code du travail ;
+h) La contribution des employeurs au financement mutualisé des organisations syndicales de salariés et des organisations professionnelles d'employeurs, prévue par l'article L. 2135-15-1 du code du travail ;
 
 3° a) L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du code de commerce, dans la limite annuelle prévue par le I de l'article 80 quaterdecies du code général des impôts ;
+
+a bis) Le gain net réalisé sur des titres souscrits ou acquis par des salariés ou des dirigeants ou attribués à ceux-ci qui est acquis en contrepartie des fonctions de salarié ou de dirigeant dans la société émettrice de ces titres, dans toute société dans laquelle la société émettrice détient directement ou indirectement une quote-part du capital ou dans toute société qui détient directement ou indirectement une quote-part du capital de la société émettrice ;
 
 b) L'indemnisation mentionnée au II de l'article L. 225-270 du code de commerce versée en cas de dissolution de la société coopérative de main-d'œuvre ou, le cas échéant, la valeur des actions attribuées à ce titre ;
 
 c) Les avantages d'actionnariat attribués aux salariés dans le cadre des dispositions de la loi n° 80-834 du 24 octobre 1980 créant une distribution d'actions en faveur des salariés des entreprises industrielles et commerciales ;
 
 d) Les rémunérations mentionnées aux articles L. 225-44 et L. 225-85 du code de commerce perçues par les administrateurs et membres des conseils de surveillance de sociétés anonymes et des sociétés d'exercice libéral à forme anonyme ; celles-ci sont assujetties à la contribution mentionnée à l'article L. 136-6 du présent code au titre des revenus de capitaux mobiliers ;
+
+e) L'avantage salarial défini au I de l'article 163 bis G du code général des impôts ;
 
 4° a) Les sommes consacrées par les employeurs pour l'acquisition de titres-restaurant dans les conditions prévues au 19° de l'article 81 du code général des impôts ;
 
@@ -107,6 +111,8 @@ f) Les prestations mentionnées aux articles L. 325-1 et L. 325-2 du code rural 
 8° Dans la limite du seuil de revente à perte, tel que défini à l'article L. 442-5 du code de commerce, les réductions tarifaires jusqu'à 50 % du prix de vente public normal, toutes taxes comprises, dont bénéficient les salariés sur les produits initialement destinés à la vente mais qui ne peuvent pas ou ne peuvent plus être vendus par l'entreprise qui les emploie ou par toute entreprise du groupe auquel ils appartiennent, le groupe étant entendu au sens de l'article L. 2331-1 du code du travail.
 
 NOTA:
-Conformément à l’article 27 de l’ordonnance n° 2022-1336 du 19 octobre 2022, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024. Se reporter aux modalités d'application prévues par ledit article 27.
+Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.
 
-Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.
+Conformément au C du IV de l’article 93 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent aux dispositions, cessions, conversions ou mises en location réalisées entre le lendemain de la promulgation de la présente loi et le 31 décembre 2027.
+
+Conformément au V dudit article, la perte de recettes résultant pour l'Etat et les organismes de sécurité sociale des I et III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

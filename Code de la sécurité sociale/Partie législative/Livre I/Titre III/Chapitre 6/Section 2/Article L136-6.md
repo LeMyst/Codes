@@ -10,7 +10,7 @@ c) Des revenus de capitaux mobiliers ;
 
 d) (Abrogé)
 
-e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu, de même que des distributions définies aux 7, 7 bis, 8 et 9 du II de l'article 150-0 A, à l'article 150-0 f et au 1 du II de l'article 163 quinquies C du code général des impôts, de l'avantage mentionné au I de l'article 80 quaterdecies du même code lorsque celui-ci est imposé à l'impôt sur le revenu dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A dudit code, et du gain défini à l'article 150 duodecies du même code ;
+e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu, de même que des distributions définies aux 7, 7 bis, 8 et 9 du II de l'article 150-0 A, à l'article 150-0 f et au 1 du II de l'article 163 quinquies C du code général des impôts, de l'avantage mentionné au I de l'article 80 quaterdecies du même code lorsque celui-ci est imposé à l'impôt sur le revenu dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A dudit code, du gain imposé dans les conditions prévues au II de l'article 163 bis H du même code de l'avantage mentionné au I de l'article 163 bis G du même code, et du gain défini à l'article 150 duodecies du même code ;
 
 e bis) Des plus-values et des créances mentionnées au I et au II de l'article 167 bis du code général des impôts ;
 
@@ -63,6 +63,8 @@ IV.-Par dérogation aux dispositions du III, la contribution portant sur les red
 V.-Par dérogation au III du présent article, la contribution portant sur les redevances mentionnées à l'article L. 222-2-10-1 du code du sport et versées aux sportifs et entraîneurs professionnels est précomptée, recouvrée et contrôlée selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général de sécurité sociale.
 
 NOTA:
-Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
+Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.
 
-Conformément à l’article 42 III de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux gains nets réalisés et aux distributions perçues à compter du 11 juillet 2018.
+Conformément au C du IV de l’article 93 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent aux dispositions, cessions, conversions ou mises en location réalisées entre le lendemain de la promulgation de la présente loi et le 31 décembre 2027.
+
+Conformément au V dudit article, la perte de recettes résultant pour l'Etat et les organismes de sécurité sociale des I et III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

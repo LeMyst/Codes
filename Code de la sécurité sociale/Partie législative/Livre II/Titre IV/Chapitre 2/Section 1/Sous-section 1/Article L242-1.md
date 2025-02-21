@@ -28,5 +28,9 @@ Les dispositions du présent 4° ne sont pas applicables lorsque les contributio
 
 Le premier alinéa du présent 7° est également applicable aux indemnités mentionnées au 6° de l'article 80 duodecies du code général des impôts versées aux salariés et aux agents en droit de bénéficier d'une pension de retraite d'un régime légalement obligatoire, y compris lorsqu'elles sont imposables et dans la limite des montants prévus aux a et b du 6° du même article 80 duodecies.
 
+8° Le gain net réalisé sur des titres souscrits ou acquis par des salariés ou des dirigeants ou attribués à ceux-ci, qui est acquis en contrepartie des fonctions de salarié ou de dirigeant dans la société émettrice de ces titres, dans toute société dans laquelle la société émettrice détient directement ou indirectement une quote-part du capital ou dans toute société qui détient directement ou indirectement une quote-part du capital de la société émettrice.
+
 NOTA:
-Conformément au II de l’article 4 de la loi n° 2023-270 du 14 avril 2023, ces dispositions sont applicables aux indemnités versées à l'occasion des ruptures de contrat de travail intervenant à compter du 1er septembre 2023.
+Conformément au C du IV de l’article 93 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent aux dispositions, cessions, conversions ou mises en location réalisées entre le lendemain de la promulgation de la présente loi et le 31 décembre 2027.
+
+Conformément au V dudit article, la perte de recettes résultant pour l'Etat et les organismes de sécurité sociale des I et III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

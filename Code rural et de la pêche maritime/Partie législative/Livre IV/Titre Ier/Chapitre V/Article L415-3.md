@@ -8,10 +8,15 @@ Les dépenses afférentes aux voies communales et aux chemins ruraux sont suppor
 
 Le montant de l'exonération de la taxe foncière sur les propriétés non bâties afférente aux terres agricoles, prévue à l'article 1394 B bis du code général des impôts, doit, lorsque ces terres sont données à bail, être intégralement rétrocédé aux preneurs des terres considérées. A cet effet :
 
-1° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en application du troisième alinéa est supérieur ou égal à 20 %, le preneur rembourse au bailleur une fraction de la taxe foncière sur les propriétés non bâties égale à la différence de ces deux pourcentages multipliée par 1,25 ;
+1° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en application du troisième alinéa est supérieur ou égal à 30 %, le preneur rembourse au bailleur une fraction de la taxe foncière sur les propriétés non bâties égale à la différence de ces deux pourcentages multipliée par 1,43 ;
 
-2° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en application du troisième alinéa est inférieur à 20 %, le bailleur déduit du montant du fermage dû par le preneur une somme déterminée en appliquant au montant de la taxe foncière sur les propriétés non bâties un taux égal à la différence entre ces deux pourcentages multipliée par 1,25.
+2° Lorsque le pourcentage des taxes foncières mis à la charge du preneur en application du troisième alinéa est inférieur à 30 %, le bailleur déduit du montant du fermage dû par le preneur une somme déterminée en appliquant au montant de la taxe foncière sur les propriétés non bâties un taux égal à la différence entre ces deux pourcentages multipliée par 1,43.
 
 Le montant de l'exonération de la taxe foncière sur les propriétés non bâties prévu à l'article 1395 G du code général des impôts doit, lorsque les propriétés concernées sont données à bail, être intégralement rétrocédé aux preneurs des propriétés considérées. A cet effet, le bailleur impute cet avantage sur le montant de la taxe qu'il met à la charge du preneur en application du troisième alinéa. Lorsque ce montant est inférieur à l'avantage, le bailleur déduit du montant du fermage dû par le preneur le montant qui n'a pu être imputé.
 
 Lorsque les propriétés visées à l'article 1395 H du code général des impôts sont données à bail, le bailleur rétrocède intégralement l'allégement visé au I du même article au preneur. Les modalités de calcul de cette rétrocession sont déterminées selon les principes définis aux quatrième à sixième alinéas du présent article.
+
+NOTA:
+Conformément au B du III de l'article 66 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à compter des impositions dues au titre de l'année 2025.
+
+Conformément au IV dudit article, la perte de recettes pour l'Etat est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

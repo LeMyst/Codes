@@ -6,4 +6,4 @@ Ne sont pas applicables à Saint-Barthélemy :
 
 2° Le titre III ;
 
-3° Les 1° et 2° de l'article L. 361-2, les articles L. 361-4 A à L. 361-4-7 et les premier, troisième et quatrième alinéas de l'article L. 361-5 ;
+3° L'article L. 361-2-1, les articles L. 361-4 A à L. 361-4-7 et les premier, troisième et quatrième alinéas de l'article L. 361-5 ;

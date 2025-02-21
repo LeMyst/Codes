@@ -48,7 +48,7 @@ II.-La taxe ne s'applique pas :
 
 1 sexies. Aux réceptions de déchets non dangereux par les installations de co-incinération ;
 
-1 septies. Aux réceptions, aux fins de la production de chaleur ou d'électricité, de déchets préparés, dans une installation autorisée prévue à cet effet, sous forme de combustibles solides de récupération, associés ou non à un autre combustible ;
+1 septies. Aux réceptions, aux fins de la production de chaleur , d'électricité ou de gaz bas-carbone au sens de l'article L. 447-1 du code de l'énergie, de déchets préparés, dans une installation autorisée prévue à cet effet, sous forme de combustibles solides de récupération, associés ou non à un autre combustible ;
 
 1 octies. Aux réceptions de résidus issus du traitement de déchets dont la réception a relevé du champ de la taxe lorsque l'une des deux conditions suivantes est remplie :
 

@@ -76,7 +76,7 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 4. Pour l'application du 1, l'énergie renouvelable est comptabilisée uniquement lorsque les conditions suivantes sont remplies :
 
-1° La traçabilité des produits dans lesquels l'énergie renouvelable est contenue est assurée depuis leur production jusqu'à la vente au consommateur final dans des conditions déterminées par décret, compte tenu de leurs caractéristiques propres et des règles de calcul particulières prévues aux C et E. L'application des règles de calcul plus avantageuses peut être subordonnée à des conditions de traçabilité plus strictes ;
+1° La traçabilité des produits dans lesquels l'énergie renouvelable est contenue ou des produits mentionnés à la dernière ligne du tableau du second alinéa du E du présent V est assurée depuis leur production jusqu'à la vente au consommateur final dans des conditions déterminées par décret, compte tenu de leurs caractéristiques propres et des règles de calcul particulières prévues aux C et E. L'application des règles de calcul plus avantageuses peut être subordonnée à des conditions de traçabilité plus strictes ;
 
 2° Les quantités d'électricité qui la contiennent sont mesurées et communiquées à l'administration dans des conditions définies par décret ;
 
@@ -121,13 +121,13 @@ E.-Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les 
 
 VI.-1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers, qui fournissent de l'hydrogène pour les besoins mentionnés au a du 3° du 1 du B du V ou qui utilisent de l'hydrogène pour ceux mentionnés au c du même 3°.
 
-Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent.
+Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent. Toutefois, le seuil mentionné à la dernière ligne du tableau du second alinéa du E dudit V est apprécié au regard des quantités de gazoles et d'essences mises à la consommation ou déplacées à des fins commerciales par le cédant des droits.
 
 La cession de droits n'induit aucun changement du régime de propriété des quantités sur lesquelles ils portent. Elle n'induit, pour le cédant, aucune diminution de la quantité d'énergie contenue dans les produits inclus dans l'assiette de la taxe mentionnée au A dudit V et, pour l'acquéreur, aucune augmentation de cette même quantité.
 
 2. Les droits portant sur une même quantité d'énergie ne peuvent faire l'objet de plusieurs cessions.
 
-Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être cédés les droits de comptabilisation de quantités qui conduisent, pour les besoins de la liquidation de la taxe qu'il doit, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'un des seuils prévus aux C à E du V.
+Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être cédés les droits de comptabilisation de quantités qui conduisent, pour les besoins de la liquidation de la taxe qu'il doit, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'un des seuils prévus aux C à E du V. Toutefois, les quantités excédant le seuil mentionné à la dernière ligne du tableau du second alinéa du E du même V ne peuvent donner lieu à une cession de droit que lorsqu'elles conduisent à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports.
 
 3. Le cédant est solidaire du paiement du supplément de taxe résultant du non-respect des conditions prévues au B du V.
 
@@ -150,4 +150,4 @@ La taxe est régie par l'article L. 180-1 du code des impositions sur les biens 
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
 
 NOTA:
-Conformément au C du II de l’article 67 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au 5° du IV de l’article 75 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2025.

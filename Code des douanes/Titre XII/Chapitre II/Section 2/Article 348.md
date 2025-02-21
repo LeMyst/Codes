@@ -6,8 +6,11 @@ Le sursis de paiement est accordé au redevable si la contestation est accompagn
 
 Des garanties peuvent ne pas être exigées lorsqu'elles sont de nature, en raison de la situation du redevable, à susciter de graves difficultés d'ordre économique ou social.
 
-Au cas où le sursis de paiement est accordé ou si des mesures conservatoires sont prises, l'exigibilité de la créance et la prescription de l'action en recouvrement sont suspendues jusqu'à ce qu'une décision définitive ait été prise sur la contestation de la créance soit par l'autorité administrative désignée à l'article 346, soit par le tribunal compétent.
+Au cas où le sursis de paiement est accordé ou si des mesures conservatoires sont prises, l'exigibilité de la créance et la prescription de l'action en recouvrement sont suspendues jusqu'à ce qu'une décision qui n'est plus susceptible de recours au sens du titre XVI du livre Ier du code de procédure civile ait été prise sur la contestation de la créance soit par l'autorité administrative désignée à l'article 346, soit par la juridiction compétente.
 
-Si la contestation de la créance aboutit à l'annulation de l'avis de mise en recouvrement, les frais occasionnés par la garantie sont remboursés au redevable.
+Si la contestation de la créance aboutit à l'annulation de l'avis de mise en recouvrement, les frais occasionnés par la garantie sont remboursés au redevable dans les limites et les conditions fixées à l'article L. 208 du livre des procédures fiscales.
 
 Les dispositions du présent article ne font pas obstacle à ce que le directeur régional des douanes ou le comptable des douanes sollicitent des mesures conservatoires du juge compétent, dès la constatation de la créance.
+
+NOTA:
+Conformément au A du III de l'article 62 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions sont applicables aux contestations adressées en application de l'article 346 du code des douanes et aux instances en cours à la date d'entrée en vigueur de la présente loi.

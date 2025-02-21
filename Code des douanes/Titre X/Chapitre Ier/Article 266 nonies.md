@@ -56,14 +56,17 @@ Une opération de tri s'entend d'une opération de séparation, au sein d'un mê
 
 - les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
 
-i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
+i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, une réfaction est applicable en fonction des investissements en cours ou engagés en faveur du tri ou de la valorisation matière des déchets :
 
-- 25 % en Guadeloupe, à La Réunion et en Martinique ;
-- 70 % en Guyane et à Mayotte.
+-jusqu'au 31 décembre 2029 à La Réunion ;
 
-Toutefois, pour les installations de stockage non accessibles par voie terrestre situées en Guyane, le tarif est fixé à 3 euros par tonne.
+- jusqu'au 31 décembre 2031 en Guadeloupe et en Martinique ;
 
-Sont exonérées les réceptions des déchets utilisés pour produire de l'électricité distribuée par le réseau dans ces territoires lorsqu'elles sont réalisées dans les conditions prévues au IV de l'article 266 sexies.
+- jusqu'au 31 décembre 2034 en Guyane et à Mayotte.
+
+Un arrêté conjoint des ministres chargés du budget, de l'outre-mer et de l'environnement détermine les investissements éligibles et, pour chaque collectivité d'outre-mer relevant de l'article 73 de la Constitution, le taux de réfaction applicable, qui s'établit entre 20 % et 80 %.
+
+j) En Corse, entre le 1er janvier 2025 et le 31 décembre 2029, est appliquée une réfaction de 20 %.
 
 A bis.-Pour les déchets radioactifs métalliques mentionnés au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -123,8 +126,14 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 1. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
 
 NOTA:
-Conformément au II de l'article 63 de la loi n° 2020-1721 du 29 décembre 2020 dans sa rédaction issue de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 78 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, la perte de recettes résultant pour l'Etat du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
 
-Conformément au II de l'article 14 de la loi n° 2021-1549 du 1er décembre 2021 dans sa rédaction issue de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 79 de ladite loi, les taux de réfaction applicables dans les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution en application du i du A du 1 de l'article 266 nonies du code des douanes dans sa rédaction résultant de la présente loi sont, jusqu'à l'entrée en vigueur de l'arrêté prévu au dernier alinéa du même i, les suivants :
 
-Conformément au A du V de l'article 104 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+1° 35 % en Guadeloupe, à La Réunion et en Martinique ;
+
+2° 75 % en Guyane et à Mayotte.
+
+Conformément au III dudit article, les I et II s'appliquent à compter du 1er janvier 2025.
+
+Conformément au IV du même article, la perte de recettes résultant pour l'Etat des I et II est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

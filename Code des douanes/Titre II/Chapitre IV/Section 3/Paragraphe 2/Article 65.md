@@ -24,6 +24,8 @@ j) et, en général, chez toutes les personnes physiques ou morales directement 
 
 Le droit de communication s'exerce sur place ou par correspondance, y compris électronique, et quel que soit le support utilisé pour la conservation des documents.
 
+Les intéressés communiquent les papiers et les documents exigés dans les délais fixés par l'administration.
+
 2° Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu au 1° lorsqu'ils agissent sur ordre écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux personnes envers lesquelles le droit de communication est mis en œuvre.
 
 3° Les divers documents visés au 1° du présent article doivent être conservés par les intéressés pendant un délai de trois ans, à compter de la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les destinataires.

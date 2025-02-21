@@ -18,7 +18,4 @@ Lorsqu'un candidat a accepté provisoirement une proposition d'admission et en r
 
 III.-Si un candidat fait valoir, via la plateforme dématérialisée, des circonstances exceptionnelles de nature à justifier la modification des décisions qu'il a prises en application du présent article, il peut se voir attribuer un placement sur liste d'attente dans les formations auxquelles il avait candidaté, en fonction de sa position initiale dans le classement.
 
-Les motifs pour lesquels une candidature est refusée sont communiqués par le chef d'établissement aux candidats qui en font, dans le mois qui suit la notification de ce refus, la demande. Une candidature peut être rejetée notamment lorsque le dossier est incomplet ou invalide au regard des conditions administratives fixées par le chef d'établissement.
-
-NOTA:
-Conformément à l’article 10 du décret n° 2024-149 du 27 février 2024, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.
+IV.-Les motifs pour lesquels une candidature est refusée sont communiqués par le chef d'établissement aux candidats qui en font, dans le mois qui suit la notification de ce refus, la demande. Une candidature peut être rejetée notamment lorsque le dossier est incomplet ou invalide au regard des conditions administratives fixées par le chef d'établissement.

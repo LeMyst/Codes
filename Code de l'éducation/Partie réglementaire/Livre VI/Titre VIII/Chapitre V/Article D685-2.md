@@ -299,6 +299,3 @@ b) Au 5°, la phrase : " Celui-ci est désigné sur proposition du conseil acad�
 27° A l'article D. 643-58, la deuxième phrase est supprimée ;
 
 28° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
-
-NOTA:
-Conformément au premier alinéa de l'article 4 du décret n° 2024-788 du 8 juillet 2024, ces dispositions entrent en vigueur le 1er septembre 2024.

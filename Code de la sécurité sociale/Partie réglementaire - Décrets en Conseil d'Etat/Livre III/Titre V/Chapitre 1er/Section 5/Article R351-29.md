@@ -14,27 +14,42 @@ Ne sont pas prises en compte pour la détermination du salaire annuel moyen déf
 
 II.-Les caisses primaires assurant le service des indemnités journalières mentionnées au 2° de l'article L. 330-1 fournissent aux caisses chargées de la gestion de l'assurance vieillesse les renseignements permettant de prendre en compte, pour la détermination du salaire servant de base au calcul de la pension, les indemnités journalières mentionnées au deuxième alinéa du I.
 
-III. - Pour l'application de l'article L. 161-22-1-1, le salaire servant de base au calcul de la pension mentionné au premier alinéa du I est le salaire mensuel moyen correspondant aux cotisations permettant la validation d'au moins un trimestre d'assurance et versées au cours des mois d'assurance entre la date à laquelle l'assuré remplit les conditions prévues au 2° de l'article L. 161-22-1 et la date d'entrée en jouissance de la nouvelle pension de vieillesse mentionnée à l'article L. 161-22-1-1.
+III.-Pour l'application de l'article L. 161-22-1-1, le salaire servant de base au calcul de la pension mentionné au premier alinéa du I est le salaire mensuel moyen correspondant aux cotisations versées au cours de chaque année civile ayant donné lieu, au titre de la nouvelle pension, à la validation d'au moins un trimestre selon les règles définies à l'article R. 351-9. La période prise en compte correspond aux mois d'assurance entre la date à laquelle l'assuré remplit les conditions prévues au 2° de l'article L. 161-22-1 et la date d'entrée en jouissance de la nouvelle pension de vieillesse mentionnée à l'article L. 161-22-1-1.
 
-IV. - La prise en compte forfaitaire, dans le salaire de base servant au calcul de la pension, des indemnités journalières d'assurance maternité correspondant aux congés de maternité ayant débuté avant le 1er janvier 2012, prévue au deuxième alinéa du VI de l'article 118 de la loi n° 2010-1330 du 9 novembre 2010, est soumise à la condition que l'assurée justifie, au cours des douze mois précédant la naissance, d'une affiliation aux assurances sociales du régime général, au sens de l'article L. 311-2 du présent code, ayant fait l'objet d'un versement de cotisations, quel qu'en soit le montant.
+IV.-La prise en compte forfaitaire, dans le salaire de base servant au calcul de la pension, des indemnités mentionnées au deuxième alinéa du I dans les conditions prévues au deuxième alinéa du VI de l'article 118 de la loi n° 2010-1330 du 9 novembre 2010, est soumise à la condition que l'assuré justifie, au cours de l'année civile de la naissance ou de l'adoption ou de l'année civile précédant celle-ci, d'une affiliation aux assurances sociales du régime général, au sens de l'article L. 311-2 du présent code, ayant fait l'objet d'un versement de cotisations, quel qu'en soit le montant.
 
-Le montant forfaitaire mentionné au premier alinéa est égal à une fraction du salaire médian de l'année précédant la naissance. Cette fraction est égale à :
+Sont prises en compte, à la demande de l'assuré, les indemnités journalières versées :
 
-1° 140/365 pour les deux premières naissances ;
+1° Au père, à la suite du décès de la mère, dans les conditions prévues à l'article L. 331-6 ;
 
-2° 228/365 pour les naissances au-delà de la deuxième ;
+2° Au titre de l'adoption, dans les conditions prévues à l'article L. 331-7 ;
 
-3° 298/365 pour les naissances multiples de jumeaux ;
+3° Au titre de l'article L. 333-1.
 
-4° 403/365 pour les naissances multiples de plus de deux enfants ;
+V.-Le montant forfaitaire mentionné au IV est égal à une fraction du salaire médian de l'année précédant la naissance ou l'adoption. Cette fraction est égale :
 
-Le montant forfaitaire est pris en compte au titre de l'année civile de la naissance du ou des enfants.
+1° Pour les deux premières naissances, à 140/365 ;
 
-Le salaire médian mentionné au deuxième alinéa est fixé par arrêté des ministres chargés de la sécurité sociale et du budget.
+2° Pour les naissances au-delà de la deuxième, à 228/365 ;
 
-NOTA:
-Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.
+3° Pour les naissances multiples de jumeaux, à 298/365 ;
 
-Conformément au II de l’article 7 du décret n° 2023-799 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.
+4° Pour les naissances multiples de plus de deux enfants, à 403/365 ;
 
-Conformément à l’article 7 du décret n° 2023-840 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+5° Pour l'adoption d'un enfant, à 158/365 lorsque l'adoption est survenue à compter du 1er juillet 1980 et que, du fait de celle-ci, l'assuré ou le ménage a assumé la charge de trois enfants au moins, et à 88/365 dans tous les autres cas ;
+
+6° Pour l'adoption de deux enfants au moins :
+
+a) pour les adoptions survenues avant le 1er juillet 1980, à 88/365 ;
+
+b) pour les adoptions survenues entre le 1er juillet 1980 et le 31 décembre 1994, à 105/365 en règle générale, et à 175/365 lorsque, du fait de celles-ci, le ménage a assuré la charge de trois enfants au moins ;
+
+c) pour les adoptions survenues à compter du 1er janvier 1995, à 193/365.
+
+7° Au rapport entre le nombre total de jours de versement de l'indemnité journalière dont justifie l'assurée et 365 pour le cas mentionné au 3° du IV.
+
+Le montant forfaitaire est pris en compte au titre de l'année civile de la naissance ou de l'adoption du ou des enfants. Le montant forfaitaire pris en compte dans les conditions mentionnées au 1° du IV du présent article est celui qui aurait été pris en compte pour la mère décédée.
+
+L'assurée qui demande le bénéfice des dispositions du 3° du IV produit, à l'appui de sa demande, les pièces justifiant du nombre de jours de perception de l'indemnité journalière mentionnée au même 3°, qui ne peuvent pas prendre la forme d'une attestation sur l'honneur.
+
+Le salaire médian mentionné au premier alinéa du présent V est fixé par arrêté des ministres chargés de la sécurité sociale et du budget.

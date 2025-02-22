@@ -68,11 +68,7 @@ b) A la branche mentionnée au 1° de l'article L. 200-2 pour 82 % ;
 
 6° Le produit du droit de licence sur la rémunération des débitants de tabacs mentionné à l'article 568 du code général des impôts est versé à la branche mentionnée au même 1° ;
 
-7° Le produit de l'accise sur les tabacs mentionnée à l'article L. 314-1 du code des impositions sur les biens et services et perçue en métropole, diminuée du produit perçu en Corse est versé :
-
-a) A la branche mentionnée au 1° de l'article L. 200-2 du présent code, pour une fraction correspondant à 99,50 % ;
-
-b) Au régime d'allocations viagères des gérants de débits de tabac, pour une fraction correspondant à 0,50 %
+7° Une fraction de 99,50 % du produit de l'accise sur les tabacs mentionnée à l'article L. 314-1 du code des impositions sur les biens et services et perçue en métropole, diminuée du produit perçu en Corse, est versée à la branche mentionnée au 1° de l'article L. 200-2 du présent code ;
 
 8° Le produit de la taxe mentionnée au I de l'article L. 862-4 perçue au titre des contrats mentionnés au II bis du même article L. 862-4 est affecté au fonds mentionné à l'article L. 862-1.
 
@@ -93,4 +89,4 @@ b) A l'Agence centrale des organismes de sécurité sociale au titre de ses miss
 L'Agence centrale des organismes de sécurité sociale est chargée de centraliser et de répartir entre leurs affectataires le produit des taxes et des impôts mentionnés au présent article. La répartition entre les affectataires est effectuée en appliquant les fractions définies au présent article pour leur valeur en vigueur à la date du fait générateur de ces taxes et impôts.
 
 NOTA:
-Conformément au II de l'article 131 de la loi n° 2025-127 du 14 février 2025, ces dispositions s'appliquent à compter du 1er février 2024.
+Conformément au II de l'article 131 de la loi n° 2025-127 du 14 février 2025, les modifiées par le I de l'article précité s'appliquent à compter du 1er février 2024.

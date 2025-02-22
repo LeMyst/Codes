@@ -4,7 +4,7 @@ I. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvemen
 
 a. (Abrogé) ;
 
-b. Des droits, taxes, redevances et autres impositions visés au II de l'article 1635 ter, à l'exception du prélèvement sur les contrats d'assurance de biens mentionné à l'article 1630.
+b. Des droits, taxes, redevances et autres impositions visés au II de l'article 1635 ter, à l'exception du prélèvement sur les contrats d'assurance de biens mentionné à l'article 1630 et de la taxe sur l'exploitation des infrastructures de transport de longue distance mentionnée à l'article L. 425-1 du code des impositions sur les biens et services.
 
 Le taux de ce prélèvement est fixé à 4 % du montant des recouvrements.
 
@@ -69,4 +69,4 @@ XIX. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvem
 XX.-L'Etat effectue un prélèvement de 3 % sur le montant de la taxe mentionnée à l'article 1635 quater A au titre des frais d'assiette et de recouvrement.
 
 NOTA:
-Conformément à l’article 43 de l’ordonnance n° 2023-1210 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.
+Conformément au II de l'article 81 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 31 décembre 2024.

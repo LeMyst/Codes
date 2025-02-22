@@ -4,11 +4,10 @@ I.-La taxe d'apprentissage mentionnée à l'article L. 6241-1 est assise sur les
 
 Toutefois, les rémunérations dues aux apprentis par les employeurs de moins de onze salariés, selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale, sont exonérées de la taxe d'apprentissage.
 
+Sont également exonérées de la taxe d'apprentissage les rémunérations dues aux apprentis par les mutuelles régies par les livres Ier et III du code de la mutualité.
+
 II.-Le taux de la taxe d'apprentissage est fixé à 0,68 %.
 
 Toutefois, ce taux est fixé à 0,44 % pour les établissements situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, quel que soit le lieu du siège du principal établissement de l'entreprise. La taxe est versée dans les conditions fixées à l'article L. 6261-2.
 
 III.-Pour le calcul de la taxe, le montant de la contribution et l'assiette déclarée sont arrondis conformément aux dispositions de l'article L. 133-10 du code de la sécurité sociale.
-
-NOTA:
-Conformément au VII de l'article 159 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur à la date d’entrée en vigueur de l’ordonnance relative à la collecte des contributions des employeurs au titre du financement de la formation professionnelle et de l’apprentissage prévue au I de l’article 41 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, et au plus tard le 1er janvier 2022.

@@ -1,14 +1,14 @@
 # Article 266 quindecies
 
-I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
+I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles et des essences sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
 
 Pour l'application du présent article :
 
-1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que l'essence d'aviation mentionnée à l'article L. 312-82 du même code, à l'exception de ceux exonérés de l'accise ;
+1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que l'essence d'aviation ;
 
 2° Les gazoles s'entendent des produits de la catégorie fiscale des gazoles au sens de l'article L. 312-22 du code des impositions sur les biens et services, à l'exception de ceux exonérés de l'accise ;
 
-3° Les carburéacteurs s'entendent des produits de la catégorie fiscale des carburéacteurs au sens de l'article L. 312-22 du code des impositions sur les biens et services, y compris ceux mentionnés à l'article L. 312-58 du même code ;
+3° (Abrogé) ;
 
 4° La directive ENR s'entend de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, dans sa rédaction en vigueur au 1er janvier de l'année au cours de laquelle intervient l'exigibilité de la taxe ;
 
@@ -28,7 +28,7 @@ Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'
 
 II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
 
-III.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences , des gazoles et des carburéacteurs pour lesquels elle est devenue exigible au cours de l'année civile.
+III.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences et des gazoles pour lesquels elle est devenue exigible au cours de l'année civile.
 
 Le montant de la taxe est calculé séparément, pour les essences, pour les gazoles et pour les carburéacteurs.
 
@@ -40,7 +40,6 @@ IV.-Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'�
 | --- | --- | --- |
 | Essences | 140 | 10,5 % |
 | Gazoles | 140 | 9,4 % |
-| Carburéacteurs | 280 | 2 % |
 
 V.-A.-La proportion d'énergie renouvelable désigne le quotient entre la quantité d'énergie renouvelable définie au B et la quantité d'énergie contenue dans les produits inclus dans l'assiette.
 
@@ -84,14 +83,14 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 C.-Pour l'application du 1° du 1 du B du présent V, ne sont pas prises en compte les quantités d'énergie issues de matières premières mentionnées ci-dessous excédant les seuils indiqués, appréciés par catégorie :
 
-| Catégorie de matières premières | Seuil pour les essences | Seuil pour les gazoles | Seuil pour les carburéacteurs |
-| --- | --- | --- | --- |
-| 1. Cultures destinées à l'alimentation humaine ou animale et résidus assimilés | 7 % | 7 % | 0 % |
-| 1.1 Dont palme | 0 % | 0 % | 0 % |
-| 1.2 Dont soja | 0 % | 0 % | 0 % |
-| 2. Égouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon | 1,2 % | 1,1 % | aucun seuil |
-| 3. Tallol | 0,1 % | 0,1 % | 0,1 % |
-| 4. Graisses et huiles usagées | 1,1 % | 1,2 % | aucun seuil |
+| Catégorie de matières premières | Seuil pour les essences | Seuil pour les gazoles |
+| --- | --- | --- |
+| 1. Cultures destinées à l'alimentation humaine ou animale et résidus assimilés | 7 % | 7 % |
+| 1.1 Dont palme | 0 % | 0 % |
+| 1.2 Dont soja | 0 % | 0 % |
+| 2. Égouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon | 1,2 % | 1,1 % |
+| 3. Tallol | 0,1 % | 0,1 % |
+| 4. Graisses et huiles usagées | 1,1 % | 1,2 % |
 
 Les matières premières qui relèvent à la fois des catégories 1 et 2 du tableau du deuxième alinéa du présent C sont comptabilisées dans les conditions suivantes :
 
@@ -105,9 +104,9 @@ b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur conten
 
 D.-Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
 
-| Essences | Gazoles | Carburéacteurs |
-| --- | --- | --- |
-| 1,8 % | 0,7 % | 0 % |
+| Essences | Gazoles |
+| --- | --- |
+| 1,8 % | 0,7 % |
 
 E.-Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
@@ -151,3 +150,7 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 NOTA:
 Conformément au 5° du IV de l’article 75 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+Conformément au II de l'article 24 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à compter du 1er janvier 2025.
+
+Conformément au III dudit article, la perte de recettes résultant pour l'Etat dudit I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

@@ -22,13 +22,10 @@ III.-Par dérogation au I du présent article, le taux prévu à l'article 278 s
 
 2° A l'issue desquelles la surface de plancher des locaux existants est augmentée de plus de 10 %.
 
-IV.-Pour l'application du I du présent article, le preneur de la prestation atteste par écrit que les conditions prévues au même I sont remplies.
+IV.-Pour l'application du I du présent article, le preneur de la prestation certifie sur le devis ou la facture que les conditions prévues au même I sont remplies.
 
-Cette attestation est établie en double exemplaire, dont l'un est remis au redevable, qui le conserve à l'appui de sa comptabilité.
+Ces documents sont établis en double exemplaire, dont l'un est remis au redevable, qui le conserve à l'appui de sa comptabilité.
 
 Le preneur conserve l'autre exemplaire ainsi que les factures ou notes relatives aux prestations, jusqu'au 31 décembre de la cinquième année qui suit l'émission des factures.
 
-Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur l'attestation s'avèrent inexactes de son fait.
-
-NOTA:
-Conformément au VII, A de l’article 65 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions sont applicables aux prestations dont le fait générateur intervient à compter de leur entrée en vigueur, à l'exception des acomptes versés avant cette date.
+Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur le devis ou la facture s'avèrent inexactes de son fait.

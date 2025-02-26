@@ -153,6 +153,3 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 L'arrêté mentionné au premier alinéa du présent 8 peut prévoir que l'exonération s'applique rétroactivement à partir de la date à laquelle l'autorisation mentionnée au 2° bis du II de l'article 291 entre en vigueur.
 
 9. (Abrogé).
-
-NOTA:
-Modifications effectuées en conséquence de l'article 18 de la loi n° 2014-1654 du 29 décembre 2014.

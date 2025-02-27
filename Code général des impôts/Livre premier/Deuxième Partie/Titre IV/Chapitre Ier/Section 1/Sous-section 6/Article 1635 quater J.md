@@ -6,7 +6,7 @@ La valeur forfaitaire des installations et aménagements est fixée comme suit :
 
 2° Pour les emplacements des habitations légères de loisirs, 10 000 € par emplacement ;
 
-3° Pour les piscines, 250 € par mètre carré ;
+3° Pour les piscines, 258 € par mètre carré ;
 
 4° Pour les éoliennes d'une hauteur supérieure à 12 mètres, 3 000 € par éolienne ;
 

@@ -144,8 +144,6 @@ IX.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans le
 
 Toutefois, en cas de cessation définitive d'activité taxable, elle est déclarée et, le cas échéant, payée dans les trente jours qui suivent la date de cessation d'activité. Pour la détermination de l'assiette, seuls sont pris en compte les produits au titre desquels la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est devenue exigible avant cette date.
 
-La taxe est régie par l'article L. 180-1 du code des impositions sur les biens et services ainsi que, s'agissant du contrôle des obligations déterminées en application du 1° du 4 du B du V et du VIII du présent article et de la répression des infractions à ces obligations, par le code des douanes.
-
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
 
 NOTA:

@@ -40,7 +40,7 @@ Il ne peut délibérer valablement que si la moitié au moins de ses membres son
 
 Lorsque le quorum n'est pas atteint, il se réunit à nouveau dans les huit jours et la délibération n'est pas soumise à l'obligation de quorum.
 
-Les membres disposent chacun d'une voix délibérative. Les rapports semestriels et les avis du comité relatifs à la mise en œuvre de la procédure prévue au II bis des articles L. 162-22-3 et L. 162-22-10 sont adoptés à la majorité des voix. Celle du président est prépondérante en cas de partage égal des voix.
+Les membres disposent chacun d'une voix délibérative. Les rapports semestriels et les avis du comité relatifs à la mise en œuvre de la procédure prévue au III de l'article L. 162-22-3-1 sont adoptés à la majorité des voix. Celle du président est prépondérante en cas de partage égal des voix.
 
 Un secrétaire permanent, placé auprès de la direction générale de l'offre de soins, assure l'organisation des travaux ainsi que la préparation des rapports prévus à l'article L. 162-21-3. Les frais inhérents au fonctionnement du secrétariat du comité sont pris en charge dans la limite des crédits ouverts à cet effet au budget du ministère des solidarités et de la santé.
 
@@ -48,6 +48,9 @@ Le comité élabore son règlement intérieur.
 
 Le comité remet chaque année aux ministres chargés de la santé et de la sécurité sociale et au Parlement :
 
--au plus tard le 15 septembre un rapport portant notamment sur les charges supportées par les régimes obligatoires d'assurance maladie afférentes aux frais d'hospitalisation mentionnés aux articles L. 162-22-2, L. 162-22-9, L. 162-22-18, L. 162-23-4, et L. 174-1-1 au titre de l'année précédente ;
+-au plus tard le 15 septembre un rapport portant notamment sur les charges supportées par les régimes obligatoires d'assurance maladie afférentes aux frais d'hospitalisation mentionnés aux articles L. 162-22-1, L. 162-22-18, L. 162-23 et L. 174-1 au titre de l'année précédente ;
 
--au plus tard le 30 novembre un rapport portant notamment sur les données d'activité de soins et les charges supportées par les régimes obligatoires d'assurance maladie afférentes aux frais d'hospitalisation mentionnés aux articles L. 162-22-2, L. 162-22-9, L. 162-22-18, L. 162-23-4, et L. 174-1-1 au titre du premier semestre de l'année en cours.
+-au plus tard le 30 novembre un rapport portant notamment sur les données d'activité de soins et les charges supportées par les régimes obligatoires d'assurance maladie afférentes aux frais d'hospitalisation mentionnés aux articles L. 162-22-1, L. 162-22-18, L. 162-23 et L. 174-1 au titre du premier semestre de l'année en cours.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2025-186 du 26 février 2025, les dispositions dudit décret entrent en vigueur à compter de l’exercice 2025.

@@ -1,45 +1,42 @@
 # Article D162-6
 
-Peuvent être financées par la dotation nationale de financement des missions d'intérêt général et d'aide à la contractualisation mentionnée à l'article L. 162-22-13 les dépenses correspondant aux missions d'intérêt général suivantes :
+Les activités susceptibles de donner lieu à l'allocation des dotations mentionnées à l'article L. 162-22-4 sont les suivantes :
 
-1° L'enseignement, la recherche, le rôle de référence et l'innovation. Notamment, à ce titre :
+1° Celles relatives aux prises en charge de certaines populations, précisées, en tant que de besoin, par arrêté, incluant :
 
-a) La recherche médicale et l'innovation, notamment la recherche clinique ;
+a) Les détenus dans les unités hospitalières spécialisées ou dans les établissements pénitentiaires ;
 
-b) L'enseignement et la formation des personnels médicaux et paramédicaux ;
+b) Les populations vulnérables, les personnes âgées et les personnes en situation de handicap ;
 
-c) La recherche, l'enseignement, la formation, l'expertise, la coordination et l'évaluation des soins relatifs à certaines pathologies et réalisés par des structures spécialisées ainsi que les activités hautement spécialisées assurées par des structures assumant un rôle de recours ;
+c) Les femmes et les enfants, pour les prises en charge, mesures et actions en lien avec leur santé ;
 
-d) Les activités de soins réalisées à des fins expérimentales ou la dispensation des soins non couverts par les nomenclatures ou les tarifs ;
+2° Celles menées dans le cadre d'un plan national de santé publique ou de la mise en œuvre de politiques publiques ciblées portant notamment sur :
 
-2° La participation aux missions de santé publique mentionnées ci-dessous :
+a) La cancérologie ;
 
-a) La vigilance, la veille épidémiologique, l'évaluation des pratiques et l'expertise réalisées par des centres de référence ou des membres des réseaux régionaux de vigilances et d'appui prévus à l'article R. 1413-62 du code de la santé publique au bénéfice des autorités de santé publique, des établissements de santé ou du public ;
+b) La périnatalité ;
 
-b) La formation, le soutien, la coordination et l'évaluation des besoins du patient réalisés par des équipes pluridisciplinaires intervenant auprès des équipes soignantes ;
+c) Les maladies rares, les maladies neurodégénératives, les maladies infectieuses et parasitaires ;
 
-c) La collecte, la conservation et la distribution des produits d'origine humaine, à l'exception de la part de cette activité couverte par les tarifs de cession ;
+d) Les pathologies cardio-vasculaires ;
 
-d) Les dispositifs ayant pour objet de favoriser le maintien des soins de proximité et l'accès à ceux-ci ;
+e) La prise en charge de la douleur ;
 
-e) Le dépistage anonyme et gratuit effectué dans les conditions prévues à l'article L. 3121-2 du code de la santé publique ;
+f) Les soins palliatifs ;
 
-f) La prévention et l'éducation pour la santé ;
+3° Celles visant à la promotion de comportements favorables à la santé, ainsi que les prises en charge s'inscrivant dans un objectif d'amélioration de :
 
-g) Le conseil aux équipes hospitalières en matière d'éthique, de bioéthique et de protection des personnes ;
+a) La prévention, du dépistage et de l'éducation pour la santé ;
 
-h) La veille sanitaire, la prévention et la gestion des risques sanitaires liés à des circonstances exceptionnelles ;
+b) La nutrition ;
 
-i) L'intervention d'équipes pluridisciplinaires pour la prise en charge de certaines pathologies en consultation ou en hospitalisation ;
+c) La lutte contre les addictions ;
 
-j) L'aide médicale urgente constituée des missions des services d'aide médicale urgente mentionnées aux articles R. 6311-2 et R. 6311-3 du code de la santé publique et de l'ensemble des interventions des structures mobiles d'urgence et de réanimation mentionnées au 2° de l'article R. 6123-1 du même code, quel que soit le lieu de prise en charge du patient ;
+d) La santé sexuelle ;
 
-3° La participation à la définition et à la mise en oeuvre des politiques publiques dans les domaines suivants :
+4° Celles visant à améliorer la santé environnementale, le développement durable et la transition écologique ;
 
-a) La politique hospitalière ;
+5° Celles visant à améliorer la qualité, la pertinence et la performance des établissements notamment celles favorisant les alternatives à l'hospitalisation conventionnelle, l'incitation financière à l'amélioration de la qualité mentionnée à l'article L. 162-23-15, la dotation complémentaire à la qualité mentionnée au 3° de l'article L. 162-22-8-2 et celle mentionnée à l'article L. 162-30-4 relative à l'allocation d'un intéressement résultant de la réalisation des objectifs fixés dans les contrats d'amélioration de la qualité et de l'efficience des soins.
 
-b) Le développement du dialogue social dans le secteur hospitalier ;
-
-c) La coopération internationale en matière hospitalière.
-
-4° La permanence des soins hospitalière.
+NOTA:
+Conformément à l’article 3 du décret n° 2025-186 du 26 février 2025, les dispositions dudit décret entrent en vigueur à compter de l’exercice 2025.

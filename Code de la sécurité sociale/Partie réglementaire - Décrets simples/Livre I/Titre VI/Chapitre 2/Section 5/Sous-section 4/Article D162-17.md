@@ -32,4 +32,7 @@ II.-Par exception au I, sont pris en charge dans les conditions définies aux ar
 
 9° Les transports des patients hospitalisés vers leur domicile, prescrits dans le cadre d'une admission en hospitalisation à domicile.
 
-III.-Par exception au I, les transports réalisés par les structures mobiles d'urgence et de réanimation mentionnées au 2° de l'article R. 6123-1 du code de la santé publique sont pris en charge dans les conditions définies à l'article D. 162-6.
+III.-Par exception au I, les transports réalisés par les structures mobiles d'urgence et de réanimation mentionnées au 2° de l'article R. 6123-1 du code de la santé publique sont financés dans les conditions prévues aux 1° et 2° de l'article L. 162-22-8-2.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2025-186 du 26 février 2025, les dispositions dudit décret entrent en vigueur à compter de l’exercice 2025.

@@ -14,9 +14,7 @@ L'objectif de dépenses d'assurance maladie commun aux activités de soins médi
 
 6° Les consultations et actes mentionnés au premier alinéa de l'article L. 162-26 et relatifs aux activités de soins médicaux et de réadaptation ;
 
-7° Les forfaits techniques, fixés en application des dispositions de l'article L. 162-1-7, facturés par les établissements de santé mentionnés aux d et e de l'article L. 162-22-6 titulaires d'une autorisation administrative de fonctionnement d'un équipement matériel lourd en application des dispositions de l'article R. 6122-26 du code de la santé publique.
+7° Les forfaits techniques, fixés en application des dispositions de l'article L. 162-1-7, facturés par les établissements de santé mentionnés aux d et e de l'article L. 162-22 titulaires d'une autorisation administrative de fonctionnement d'un équipement matériel lourd en application des dispositions de l'article R. 6122-26 du code de la santé publique.
 
 NOTA:
-Conformément au I de l'article 4 du décret n° 2022-24 du 11 janvier 2022, ces dispositions entrent en vigueur le 1er juin 2023.
-
-Se reporter aux II, III et IV du même article pour les conditions d'application.
+Conformément à l’article 3 du décret n° 2025-186 du 26 février 2025, les dispositions dudit décret entrent en vigueur à compter de l’exercice 2025.

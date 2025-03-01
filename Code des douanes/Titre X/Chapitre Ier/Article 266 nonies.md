@@ -8,11 +8,13 @@ Les réceptions dans des installations non autorisées relèvent du tarif le plu
 
 Relèvent du même tarif les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de ces autorisations ainsi que les transferts réalisés vers une installation hors de France en méconnaissance des réglementations d'effet équivalent mentionnées au premier alinéa du présent A-0.
 
+Les réceptions de déchets radioactifs métalliques dans une installation non autorisée à cette fin ou en méconnaissance des prescriptions de l'autorisation sont majorées de 110 € par tonne.
+
 A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 266 sexies :
 
 a) Le tarif pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat est de 65 € par tonne.
 
-Ce tarif est majoré pour la fraction des déchets qui sont réceptionnés à compter de l'atteinte de l'objectif annuel mentionné au b bis du présent A. Cette majoration est déterminée par arrêté conjoint des ministres chargés du budget et de l'environnement entre un minimun de 5 € par tonne et un maximum de 10 € par tonne ;
+Ce tarif est majoré pour la fraction des déchets qui sont réceptionnés à compter de l'atteinte de l'objectif annuel mentionné au b bis du présent A. Cette majoration est déterminée par arrêté conjoint des ministres chargés du budget et de l'environnement entre un minimum de 5 € par tonne et un maximum de 10 € par tonne ;
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
@@ -68,7 +70,7 @@ Un arrêté conjoint des ministres chargés du budget, de l'outre-mer et de l'en
 
 j) En Corse, entre le 1er janvier 2025 et le 31 décembre 2029, est appliquée une réfaction de 20 %.
 
-A bis.-Pour les déchets radioactifs métalliques mentionnés au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
+A bis.-Pour les déchets métalliques et les déchets radioactifs métalliques réceptionnés dans une installation mentionnée au c du 1 du I de l'article 266 sexies, les tarifs sont fixés comme suit :
 
 | Unité de perception | Quotités (en euros) |
 | --- | --- |
@@ -107,7 +109,7 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
-Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux tableaux des a et b du A du 1.
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux a et b du A du 1.
 
 2. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 € par installation.
 
@@ -126,14 +128,4 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 1. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
 
 NOTA:
-Conformément au II de l'article 78 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, la perte de recettes résultant pour l'Etat du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
-
-Conformément au II de l'article 79 de ladite loi, les taux de réfaction applicables dans les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution en application du i du A du 1 de l'article 266 nonies du code des douanes dans sa rédaction résultant de la présente loi sont, jusqu'à l'entrée en vigueur de l'arrêté prévu au dernier alinéa du même i, les suivants :
-
-1° 35 % en Guadeloupe, à La Réunion et en Martinique ;
-
-2° 75 % en Guyane et à Mayotte.
-
-Conformément au III dudit article, les I et II s'appliquent à compter du 1er janvier 2025.
-
-Conformément au IV du même article, la perte de recettes résultant pour l'Etat des I et II est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+Conformément au XVII de l'article 75 de la LOI n° 2025-127 du 14 février 2025, ces dispositions entrent en vigueur le 1er mars 2025.

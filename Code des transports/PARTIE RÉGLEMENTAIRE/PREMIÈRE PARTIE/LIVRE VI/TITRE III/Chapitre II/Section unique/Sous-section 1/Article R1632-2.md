@@ -6,7 +6,7 @@ Pour pouvoir exercer les missions mentionnées à l'article L. 1632-3, les agent
 
 2° Une certification technique délivrée par le ministre de l'intérieur dans les conditions déterminées à la sous-section 4.
 
-Ils doivent en outre satisfaire aux obligations d'entraînement régulier et de formation continue prévues à la sous-section 3. Les agents bénéficiant d'une carte professionnelle autorisant l'exercice de la mission mentionnée à l'article L. 613-7-1 A du code de la sécurité intérieure ayant suivi les entraînements réguliers prévus à l'article R. 612-39 du même code et, le cas échéant, la formation continue prévue à l'article R. 625-8 du même code sont réputés satisfaire aux obligations mentionnées au présent alinéa.
+Ils doivent en outre satisfaire aux obligations d'entraînement régulier et de formation continue prévues à la sous-section 3. Les agents bénéficiant d'une carte professionnelle autorisant l'exercice de la mission mentionnée à l'article L. 613-7-1 A du code de la sécurité intérieure ayant suivi les entraînements réguliers prévus à l'article R. 612-39 du même code et, le cas échéant, la formation continue prévue à l'article R. 625-5 du même code sont réputés satisfaire aux obligations mentionnées au présent alinéa.
 
 NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
+Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

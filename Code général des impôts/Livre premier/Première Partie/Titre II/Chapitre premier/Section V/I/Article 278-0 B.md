@@ -10,7 +10,7 @@ II.-La prestation de travail à façon relève du taux prévu pour les livraison
 
 3° A être consommés en l'état par l'homme.
 
-III.-Les livraisons à soi-même de travaux réalisées en application du 2° du 1 du II de l'article 257 relèvent des taux prévus aux articles 278-0 bis A ou 279-0 bis lorsqu'elles portent sur des travaux répondant aux conditions fixées respectivement aux 1 et 2 de l'article 278-0 bis A et au 1 de l'article 279-0 bis.
+III.-Les livraisons à soi-même de travaux réalisées en application du 2° du 1 du II de l'article 257 relèvent des taux prévus aux articles 278-0 bis A ou 279-0 bis lorsqu'elles portent sur des travaux répondant aux conditions fixées aux mêmes articles 278-0 bis A et 279-0 bis.
 
 NOTA:
-Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.

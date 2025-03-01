@@ -20,7 +20,7 @@ II.-A.-Le chiffre d'affaires annuel réalisé dans l'Union européenne qui sert 
 
 B.-Les chiffres d'affaires réalisés dans les autres Etats membres de l'Union européenne entrant dans la composition du chiffre d'affaires annuel dans l'Union européenne sont déterminés en application des dispositions transposant dans ces Etats l'article 288 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
 
-III.-Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I et au A du II de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
+III.-Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
 
 NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.

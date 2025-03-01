@@ -12,11 +12,11 @@ II.-La franchise mentionnée au I du présent article s'applique :
 
 2° S'il l'a indiqué à l'occasion d'une mise à jour de la notification préalable, à compter de la date de confirmation à l'assujetti de son numéro individuel d'identification pour la mise à jour de la notification préalable, conformément au 1° du présent II.
 
-III.-Sans préjudice du III de l'article 293 B, la franchise mentionnée au I du présent article cesse de s'appliquer :
+III.-Sans préjudice du II de l'article 293 B, la franchise mentionnée au I du présent article cesse de s'appliquer :
 
 1° Lorsque le plafond de chiffre d'affaires mentionné au 1° du même I est dépassé, aux opérations intervenant à compter de la date de dépassement ;
 
 2° A la suite de la demande de l'assujetti adressée aux autorités compétentes de l'Etat membre autre que la France dans lequel il est établi, aux opérations intervenant à compter du premier jour du trimestre civil suivant la réception des informations communiquées par cet assujetti à ces autorités ou, lorsque ces informations sont reçues durant le dernier mois d'un trimestre civil, à partir du premier jour du deuxième mois du trimestre civil suivant.
 
 NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.

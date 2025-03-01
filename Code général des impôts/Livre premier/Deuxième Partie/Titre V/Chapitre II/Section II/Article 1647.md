@@ -68,5 +68,9 @@ XIX. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvem
 
 XX.-L'Etat effectue un prélèvement de 3 % sur le montant de la taxe mentionnée à l'article 1635 quater A au titre des frais d'assiette et de recouvrement.
 
+XXI.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement sur le montant des redevances composant le droit de port institué par l'article L. 5321-1 du code des transports à hauteur d'un taux déterminé par arrêté du ministre chargé du budget et compris entre 0,5 % et 2,5 % en fonction du mode de gestion et de la localisation du port.
+
+XXII.-Le présent article est applicable dans les collectivités régies par l'article 74 de la Constitution et en Nouvelle-Calédonie dans la mesure où les impositions formant la base imposable des frais y sont applicables.
+
 NOTA:
-Conformément au II de l'article 81 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 31 décembre 2024.
+Conformément à l'article 75 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er mars 2025.

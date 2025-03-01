@@ -44,7 +44,7 @@ Pour les appareillages, équipements et matériels mentionnés aux c et f du pr�
 
 3° Les livres, y compris leur location. Le présent 3° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio ;
 
-B. – Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, de l'énergie solaire thermique, des déchets et d'énergie de récupération ;
+B. – Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable au sens de l'article L. 211-2 du code de l'énergie ou d'un processus dont l'objet n'est pas la production de chaleur ;
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
 
@@ -85,4 +85,4 @@ N.-Les prestations de pose, d'installation et d'entretien d'infrastructures de r
 O.-L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui-ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.
 
 NOTA:
-Conformément au II de l'article 83 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.

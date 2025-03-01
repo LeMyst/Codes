@@ -22,6 +22,8 @@ III.-Par dérogation au I du présent article, le taux prévu à l'article 278 s
 
 2° A l'issue desquelles la surface de plancher des locaux existants est augmentée de plus de 10 %.
 
+III bis.-Par dérogation au I du présent article, le taux prévu à l'article 278 s'applique aux prestations de rénovation énergétique comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
+
 IV.-Pour l'application du I du présent article, le preneur de la prestation certifie sur le devis ou la facture que les conditions prévues au même I sont remplies.
 
 Ces documents sont établis en double exemplaire, dont l'un est remis au redevable, qui le conserve à l'appui de sa comptabilité.
@@ -29,3 +31,6 @@ Ces documents sont établis en double exemplaire, dont l'un est remis au redevab
 Le preneur conserve l'autre exemplaire ainsi que les factures ou notes relatives aux prestations, jusqu'au 31 décembre de la cinquième année qui suit l'émission des factures.
 
 Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur le devis ou la facture s'avèrent inexactes de son fait.
+
+NOTA:
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025. Toutefois, les 4° et 5° du même I ne s'appliquent pas aux opérations ayant fait l'objet d'un devis daté, accepté par les deux parties et ayant donné lieu à un acompte encaissé avant le 1er mars 2025.

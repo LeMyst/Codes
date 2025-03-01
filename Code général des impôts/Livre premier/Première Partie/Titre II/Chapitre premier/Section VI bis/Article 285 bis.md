@@ -1,6 +1,6 @@
 # Article 285 bis
 
-1. Les éditeurs, organismes de gestion collective de droits et les producteurs qui versent des droits mentionnés au 2° du B du II de l'article 293 B doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
+1. Les éditeurs, organismes de gestion collective de droits et les producteurs qui versent des droits patrimoniaux reconnus par la loi aux auteurs d'œuvres de l'esprit doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
 
 1. A défaut d'indication contraire de l'auteur formulée dans les conditions prévues au 3, les sommes qui lui sont dues par les personnes mentionnées au 1 sont réputées passibles de la retenue de taxe sur la valeur ajoutée, y compris en ce qui concerne les auteurs qui bénéficient de la franchise mentionnée à l'article 293 B.
 
@@ -19,4 +19,4 @@ Elle couvre obligatoirement une période de cinq années, y compris celle au cou
 1. Les personnes visées au 1 doivent déclarer et acquitter la retenue dans les mêmes conditions et sous les mêmes sanctions que leurs propres opérations. La taxe sur la valeur ajoutée acquittée pour le compte de l'auteur par ces personnes n'est pas prise en compte pour la détermination de leur pourcentage de déduction de taxe sur la valeur ajoutée.
 
 NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.

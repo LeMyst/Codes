@@ -1,6 +1,6 @@
 # Article 302 bis ZJ
 
-Le prélèvement mentionné à l'article 302 bis ZG est assis sur le produit brut des jeux, constitué par la part des enjeux collectés, en France métropolitaine et dans les départements d'outre-mer, revenant à l'opérateur au titre de l'organisation des paris, avant déduction des sommes en numéraire ou en nature attribuées à titre gracieux à certains joueurs dans le cadre d'actions commerciales et des impositions de toute nature. Les gains résultant de sommes apportées par l'opérateur, à condition que le joueur puisse en demander le versement en numéraire ou sur son compte de paiement, sont déductibles du produit brut des jeux.
+Les prélèvements mentionnés à l'article 302 bis ZG sont assis sur le produit brut des jeux, constitué par la part des enjeux collectés, en France métropolitaine et dans les départements d'outre-mer, revenant à l'opérateur au titre de l'organisation des paris, avant déduction des sommes en numéraire ou en nature attribuées à titre gracieux à certains joueurs dans le cadre d'actions commerciales et des impositions de toute nature. Les gains résultant de sommes apportées par l'opérateur, à condition que le joueur puisse en demander le versement en numéraire ou sur son compte de paiement, sont déductibles du produit brut des jeux.
 
 Le prélèvement mentionné à l'article 302 bis ZI est assis sur le montant des sommes engagées par les joueurs. Les gains réinvestis par ces derniers sous forme de nouvelles mises sont également assujettis à ce prélèvement.
 
@@ -13,4 +13,4 @@ S'agissant des jeux de cercle organisés sous forme de tournoi et donnant lieu a
 S'agissant des autres jeux de cercle, le prélèvement mentionné à l'article 302 bis ZI est plafonné à 0,9 € par donne.
 
 NOTA:
-Conformément au VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZJ, dans sa rédaction résultant du 3° du B du I du présent article, entre en vigueur le 1er janvier 2020, et dans sa rédaction résultant du B du I à l'exception du 3°, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er janvier 2021, et au plus tard le 1er janvier 2022.
+Conformément au IV de l'article 103 de la loi n° 2025-127 du 14 février 2025, les dispositions de l'article précité entrent en vigueur le 1er mars 2025.

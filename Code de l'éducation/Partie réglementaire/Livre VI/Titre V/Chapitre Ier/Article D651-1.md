@@ -14,17 +14,17 @@ Les dispositions relatives aux formations dispensées dans les instituts et éco
 
 6° Les articles R. 715-9-2, R. 715-9-4 et R. 715-9-4-1 relatifs aux universités de technologie ;
 
-7° (Supprimé)
+7° (Supprimé) ;
 
-8° (Supprimé)
+8° (Supprimé) ;
 
 9° Le décret n° 90-928 du 10 octobre 1990 relatif à l'Institut supérieur de mécanique de Paris ;
 
 10° Le décret n° 2003-1089 du 13 novembre 2003 relatif à l'Ecole nationale supérieure des arts et industries textiles ;
 
-11° (Abrogé)
+11° (Abrogé) ;
 
-12° Le décret n° 2006-1545 du 7 décembre 2006 relatif à l'Ecole nationale des travaux publics de l'Etat ;
+12° (Abrogé) ;
 
 13° Le décret n° 2015-1286 du 14 octobre 2015 relatif à l'Ecole nationale supérieure de chimie de Paris ;
 
@@ -42,4 +42,7 @@ Les dispositions relatives aux formations dispensées dans les instituts et éco
 
 20° Le décret n° 2023-1356 du 29 décembre 2023 relatif à la transformation du centre universitaire de formation et de recherche de Mayotte en établissement public à caractère scientifique, culturel et professionnel ;
 
-21° Le décret n° 2024-522 du 7 juin 2024 relatif à l'Ecole nationale d'ingénieurs de Brest.
+21° Le décret n° 2024-522 du 7 juin 2024 relatif à l'Institut national polytechnique de Bretagne.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.

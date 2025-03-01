@@ -26,6 +26,8 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 
 8° Ecole nationale des ponts et chaussées ;
 
+8-1° Ecole nationale des travaux publics de l'Etat ;
+
 9° Ecole nationale supérieure d'arts et métiers ;
 
 10° Ecole nationale supérieure des sciences de l'information et des bibliothèques ;
@@ -83,3 +85,6 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 34° Université Grenoble Alpes ;
 
 35° Université Côte d'Azur.
+
+NOTA:
+Conformément à l'article 34 du décret n° 2025-105 du 3 février 2025, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication, soit le 1er mars 2025.

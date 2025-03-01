@@ -40,4 +40,9 @@ Les écoles nationales supérieures d'architecture sont :
 
 19° L'Ecole nationale supérieure d'architecture de Toulouse ;
 
-20° L'Ecole nationale supérieure d'architecture de Versailles.
+20° L'Ecole nationale supérieure d'architecture de Versailles ;
+
+21° L'Ecole nationale supérieure d'architecture de La Réunion.
+
+NOTA:
+Conformément à l'article 4 du décret n°2025-95 du 30 janvier 2025, ces dispositions entrent en vigeur le premier jour du mois qui suit celui la publication dudit décret, soit le 1er mars 2025. Se référer à l'article 3 du même décret pour les mesures transitoires.

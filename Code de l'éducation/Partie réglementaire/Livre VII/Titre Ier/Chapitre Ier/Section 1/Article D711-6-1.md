@@ -36,4 +36,9 @@ Le statut d'établissement public à caractère scientifique, culturel et profes
 
 21° Université Bourgogne Europe : décret n° 2024-1157 du 4 décembre 2024 ;
 
-22° Université Jean Monnet : décret n° 2024-1155 du 4 décembre 2024.
+22° Université Jean Monnet : décret n° 2024-1155 du 4 décembre 2024 ;
+
+23° Université de Brest : décret n° 2025-177 du 24 février 2025.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.

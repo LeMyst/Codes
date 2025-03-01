@@ -12,7 +12,7 @@ Le statut d'institut et d'école extérieurs aux universités fixé par les arti
 
 4-1° Institut national polytechnique Clermont Auvergne ;
 
-5° Ecole nationale des travaux publics de l'Etat ;
+5° (Abrogé) ;
 
 6° Ecole nationale supérieure de chimie de Montpellier ;
 
@@ -54,4 +54,7 @@ Le statut d'institut et d'école extérieurs aux universités fixé par les arti
 
 17° Université de technologie de Tarbes ;
 
-18° Ecole nationale d'ingénieurs de Brest.
+18° Institut national polytechnique de Bretagne.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.

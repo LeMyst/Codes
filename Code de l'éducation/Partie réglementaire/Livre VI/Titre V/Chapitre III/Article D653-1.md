@@ -62,4 +62,9 @@ Les dispositions relatives aux formations dispensées dans les grands établisse
 
 29° Le décret n° 2019-785 du 25 juillet 2019 portant création de l'Université Côte d'Azur et approbation de ses statuts ;
 
-30° Le décret n° 2019-1095 du 28 octobre 2019 portant création de CY Cergy Paris Université et approbation de ses statuts.
+30° Le décret n° 2019-1095 du 28 octobre 2019 portant création de CY Cergy Paris Université et approbation de ses statuts ;
+
+30° Le décret n° 2025-105 du 3 février 2025 relatif à l'Ecole nationale des travaux publics de l'Etat.
+
+NOTA:
+Conformément à l'article 34 du décret n° 2025-105 du 3 février 2025, ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication, soit le 1er mars 2025.

@@ -24,9 +24,9 @@ I. - Universités :
 
 10° Bordeaux-III ;
 
-11° (Supprimé)
+11° (Supprimé) ;
 
-12° Brest ;
+12° (Supprimé) ;
 
 13° Bretagne-Sud ;
 
@@ -159,4 +159,4 @@ II. - Instituts nationaux polytechniques :
 1° Toulouse.
 
 NOTA:
-Conformément à l'article 13 du décret n° 2024-840 du 16 juillet 2024 et à l'article 14 du décret n° 2024-1155 du 4 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.

@@ -22,4 +22,7 @@ Les dispositions relatives aux autres écoles ou instituts extérieurs au sens d
 
 10° Etablissement public à caractère scientifique, culturel et professionnel dénommé “ Université de Mayotte ” ;
 
-11° l'Ecole nationale d'ingénieurs de Brest : décret n° 2024-522 du 7 juin 2024 relatif à l'Ecole nationale d'ingénieurs de Brest.
+11° Institut national polytechnique de Bretagne : décret n° 2024-522 du 7 juin 2024 relatif à Institut national polytechnique de Bretagne.
+
+NOTA:
+Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.

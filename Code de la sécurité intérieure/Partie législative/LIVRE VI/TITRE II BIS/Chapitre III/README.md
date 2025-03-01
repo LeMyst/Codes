@@ -1,1 +1,1 @@
-Chapitre III : Dispositions pénales
+Chapitre III : Conditions d'organisation des examens

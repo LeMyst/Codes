@@ -6,4 +6,7 @@ Cette autorisation peut être retirée à tout moment pour des raisons d'ordre p
 
 Une copie de cette autorisation est transmise au directeur du Conseil national des activités privées de sécurité.
 
-L'agent doit être porteur d'une copie de cette autorisation durant l'exécution de la mission. Il est en outre tenu de présenter à toute réquisition des agents mentionnés aux articles L. 611-2 et L. 634-1 le carnet de tir prévu à l'article R. 625-20 ou de justifier de sa possession dans un délai de cinq jours.
+L'agent doit être porteur d'une copie de cette autorisation durant l'exécution de la mission. Il est en outre tenu de présenter à toute réquisition des agents mentionnés aux articles L. 611-2 et L. 634-1 le carnet de tir prévu à l'article R. 625-35 ou de justifier de sa possession dans un délai de cinq jours.
+
+NOTA:
+Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

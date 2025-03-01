@@ -16,9 +16,9 @@ L'attestation mentionnée à l'alinéa précédent doit être certifiée ou reco
 
 Le niveau de connaissance de la langue française peut également être justifié par la production de l'attestation de comparabilité prévue au a du 10° de l'article 14-1 du décret n° 93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française ;
 
-4° La justification de l'aptitude professionnelle se rapportant à l'activité et à la spécialité concernées, acquise dans les conditions prévues par la section 4 ;
+4° La justification de l'aptitude professionnelle se rapportant à l'activité et à la spécialité concernées, acquise dans les conditions prévues par la section 4, ainsi que, le cas échéant, le document attestant la réussite à l'épreuve mentionné à l'article R. 625-39 ;
 
 5° Un justificatif de domicile de moins de trois mois.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2022-198 du 17 février 2022, ces dispositions entrent en vigueur le 1er mai 2022.
+Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

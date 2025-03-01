@@ -32,7 +32,7 @@ m) Des prestataires de service de confiance mentionnés au chapitre III du décr
 
 n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information ;
 
-o) Des personnes physiques exerçant les fonctions de dirigeant ou de gérant d'un prestataire de formation aux activités privées de sécurité ;
+o) Des personnes physiques employées pour participer à l'activité de formation aux activités privées de sécurité ;
 
 p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense.
 
@@ -66,7 +66,7 @@ l) Des agents de surveillance de Paris ;
 
 m) Des agents du Conseil national des activités privées de sécurité ;
 
-n) Des personnels de l'Autorité de sûreté nucléaire et de radioprotection ;
+n) Despersonnels de l'Autorité de sûreté nucléaire et de radioprotection ;
 
 o) Des agents civils du ministère de la défense et de la gendarmerie nationale ;
 
@@ -102,7 +102,9 @@ n) Des personnels de la sûreté portuaire énumérés à l'article R. 5332-47 d
 
 o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires ;
 
-p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6.
+p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6 ;
+
+q) Des personnes physiques exerçant à titre individuel une activité de formation aux activités privées de sécurité ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité de formation.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 4 du décret n° 2023-1234 du 22 décembre 2023 dans sa rédaction issue de l'article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

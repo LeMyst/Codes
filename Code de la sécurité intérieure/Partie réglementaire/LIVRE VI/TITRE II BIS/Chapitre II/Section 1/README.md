@@ -1,1 +1,1 @@
-Section 1 : Autorisation d'exercice des prestataires de formation
+Section 1 : Agrément des exploitants individuels, des dirigeants et gérants de personnes morales

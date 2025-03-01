@@ -4,7 +4,7 @@ Le conseil d'administration fixe les orientations générales de l'établissemen
 
 1° Les modalités d'assistance et de conseil général à la profession s'agissant de l'application du présent livre ;
 
-2° Les projets de modification du code de déontologie prévu aux articles R. 631-1 à R. 631-32 ;
+2° Les projets de modification du code de déontologie prévu aux articles R. 631-1 à R. 631-33 ;
 
 3° Les avis et propositions prévus au dernier alinéa de l'article L. 632-1 ;
 
@@ -33,4 +33,4 @@ Le conseil d'administration se prononce en outre sur les questions qui lui sont 
 Le conseil d'administration peut déléguer au directeur du Conseil national des activités privées de sécurité certaines des attributions prévues aux 8°, 9° et 10° lorsque le montant financier engagé se situe en dessous d'un seuil qu'il détermine. Le directeur rend compte des décisions prises dans le cadre des délégations qui lui sont ainsi consenties, selon les modalités fixées par le conseil d'administration.
 
 NOTA:
-Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions sont applicables à compter du 1er septembre 2022.
+Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

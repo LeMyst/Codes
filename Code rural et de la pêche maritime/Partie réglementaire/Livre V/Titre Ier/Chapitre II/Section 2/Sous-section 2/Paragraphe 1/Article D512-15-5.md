@@ -1,4 +1,4 @@
-# Article R512-15-5
+# Article D512-15-5
 
 Le bureau de la chambre d'agriculture de région élabore le règlement intérieur et le soumet pour approbation à la session. Les modifications du règlement intérieur sont adoptées dans les mêmes conditions.
 

@@ -1,4 +1,4 @@
-# Article R512-15-8
+# Article D512-15-8
 
 Le préfet de région, le président du conseil régional et les présidents des conseils départementaux de la région peuvent assister aux sessions de la chambre d'agriculture de région. Ils sont entendus sur leur demande et peuvent se faire assister ou représenter.
 

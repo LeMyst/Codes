@@ -1,4 +1,4 @@
-# Article R512-15-10
+# Article D512-15-10
 
 Le premier budget initial de la chambre d'agriculture de région est élaboré par les chambres départementales ou interdépartementales d'agriculture et la chambre régionale d'agriculture parties à la fusion et soumis à leur approbation.
 

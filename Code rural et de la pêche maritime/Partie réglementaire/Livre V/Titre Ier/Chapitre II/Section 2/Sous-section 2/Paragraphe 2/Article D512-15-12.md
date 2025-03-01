@@ -1,4 +1,4 @@
-# Article R512-15-12
+# Article D512-15-12
 
 Les dispositions des articles D. 511-54, D. 511-55 à D. 511-60, D. 511-62, D. 511-63 à l'exception de son premier alinéa, D. 511-65 à D. 511-67 et D. 511-85 sont applicables aux chambres territoriales, sous réserve des adaptations suivantes :
 

@@ -94,7 +94,7 @@ Les agents de la cellule d'assistance technique de l'état-major de la direction
 
 4° Services placés sous l'autorité d'emploi du ministère de la défense :
 
--les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+-les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés.
 
@@ -180,7 +180,7 @@ Les agents de la cellule d'assistance technique de l'état-major de la direction
 
 4° Services placés sous l'autorité d'emploi du ministère de la défense :
 
--les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+-les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du présent article. Ces militaires ne peuvent pas exploiter les renseignements ainsi collectés.
 

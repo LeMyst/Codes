@@ -16,7 +16,7 @@ e) Le service à compétence nationale dénommé “ traitement du renseignement
 
 f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
-– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ;
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement ;
 
 g) Les services suivants placés sous l'autorité du directeur général de la police nationale :
 
@@ -48,7 +48,7 @@ c) La direction du renseignement militaire ;
 
 d) La direction générale de la sécurité intérieure ;
 
-e) Le service à compétence nationale dénommé : “traitement du renseignement et action contre les circuits financiers clandestins” ;
+e) Le service à compétence nationale dénommé : “ traitement du renseignement et action contre les circuits financiers clandestins ” ;
 
 3° Pour les besoins liés à la protection des intérêts mentionnés au 3° de l'article L. 811-3 :
 
@@ -58,7 +58,7 @@ b) La direction du renseignement et de la sécurité de la défense ;
 
 c) La direction générale de la sécurité intérieure ;
 
-d) Le service à compétence nationale dénommé : “traitement du renseignement et action contre les circuits financiers clandestins”
+d) Le service à compétence nationale dénommé : “ traitement du renseignement et action contre les circuits financiers clandestins ”
 
 4° Pour les besoins liés à la protection des intérêts mentionnés au 4° de l'article L. 811-3 :
 
@@ -76,7 +76,7 @@ f) La direction nationale du renseignement et des enquêtes douanières ;
 
 g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
-– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ;
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement ;
 
 h) Les services suivants placés sous l'autorité du directeur général de la police nationale :
 
@@ -148,7 +148,7 @@ b) La direction du renseignement et de la sécurité de la défense ;
 
 c) La direction générale de la sécurité intérieure ;
 
-d) Le service à compétence nationale dénommé : “traitement du renseignement et action contre les circuits financiers clandestins” ;
+d) Le service à compétence nationale dénommé : “ traitement du renseignement et action contre les circuits financiers clandestins ” ;
 
 e) La direction nationale du renseignement et des enquêtes douanières ;
 
@@ -180,7 +180,7 @@ g) Les services suivants placés sous l'autorité du directeur général de la g
 
 h) Les services suivants placés sous l'autorité d'emploi du ministère de la défense :
 
-– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ;
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement ;
 
 i) Le service suivant placé sous l'autorité du préfet de police :
 

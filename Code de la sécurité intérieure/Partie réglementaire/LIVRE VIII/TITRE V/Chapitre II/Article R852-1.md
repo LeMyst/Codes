@@ -84,7 +84,7 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 
 4° Services placés sous l'autorité d'emploi du ministère de la défense :
 
--les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
+-les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de l'espace et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 5° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre des finalités mentionnées aux 4°, a, b et c du 5° et 6° de l'article L. 811-3.
 

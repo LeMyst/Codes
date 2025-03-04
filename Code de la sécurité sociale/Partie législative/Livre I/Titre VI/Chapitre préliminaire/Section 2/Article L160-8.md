@@ -12,6 +12,8 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 
 5° La couverture des frais relatifs aux actes et traitements à visée préventive réalisés dans le cadre des programmes mentionnés aux articles L. 1411-6 et L. 1411-6-2 du même code, notamment des frais relatifs aux examens de dépistage et aux consultations de prévention effectués au titre des programmes prévus à l'article L. 1411-2 dudit code ainsi que des frais afférents aux vaccinations dont la liste est fixée par arrêté des ministres chargés de la santé et de la sécurité sociale ;
 
+5° bis La couverture des frais relatifs aux actes et aux traitements mentionnés à l'article L. 1411-6-4 du même code ;
+
 6° La couverture des frais relatifs aux examens de prévention bucco-dentaire mentionnés à l'article L. 2132-2-1 du même code ;
 
 6° bis La couverture des frais relatifs aux examens de repérage des troubles du neuro-développement mentionnés à l'article L. 2132-2-2 du même code ;

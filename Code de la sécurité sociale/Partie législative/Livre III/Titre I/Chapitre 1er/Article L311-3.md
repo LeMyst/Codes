@@ -82,9 +82,11 @@ Il fixe également les conditions dans lesquelles les deux premiers alinéas du 
 
 37° Les particuliers qui vendent des biens neufs qu'ils ont confectionnés ou achetés pour les revendre ou qui fournissent des services rémunérés de manière ponctuelle et qui exercent l'option pour relever du régime général, dès lors que leurs recettes annuelles ne dépassent pas un montant de 1 500 €. Les cotisations et contributions de sécurité sociale dues par ces personnes sont calculées sur une assiette constituée de leurs recettes diminuées d'un abattement forfaitaire fixé par décret, qui ne peut pas être inférieur à l'abattement prévu au premier alinéa du 1 de l'article 102 ter du code général des impôts ni supérieur au plus élevé des abattements prévus à la première phrase du cinquième alinéa du 1 de l'article 50-0 du même code. Lorsque le montant mentionné à la première phrase du présent 37° est dépassé au titre de deux années consécutives, ou le triple de ce montant au titre d'une même année, l'option cesse d'être applicable à compter de l'année suivante.
 
-38° Les élèves et les étudiants de l'enseignement supérieur réalisant ou participant à la réalisation, moyennant rémunération, d'études à caractère pédagogique au sein d'une association constituée exclusivement à cette fin.
+38° Les élèves et les étudiants de l'enseignement supérieur réalisant ou participant à la réalisation, moyennant rémunération, d'études à caractère pédagogique au sein d'une association constituée exclusivement à cette fin ;
+
+39° Les personnes employées par la collectivité des Terres australes et antarctiques françaises en mission dans les territoires qu'elle administre ou embarquées à bord de navires.
 
 Un décret fixe les modalités d'application du présent article.
 
 NOTA:
-Conformément au V de l'article 14 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux cotisations et contributions sociales dues au titre des périodes courant à compter du 1er janvier 2023.
+Conformément au II de l'article 4 de la loi n° 2025-199 du 28 février 2025, ces dispositions sont applicables aux contrats prenant effet à compter du 1er janvier 2025.

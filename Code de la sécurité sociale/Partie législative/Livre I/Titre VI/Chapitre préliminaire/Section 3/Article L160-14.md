@@ -38,7 +38,7 @@ b) Cette ou ces affections nécessitent un traitement prolongé et une thérapeu
 
 16° Dans le cadre des programmes mentionnés au 5° de l'article L. 160-8 et de ceux relevant des soins mentionnés au 1° de l'article L. 160-9-1, pour les frais d'examens de dépistage et les frais liés aux consultations de prévention destinées aux mineurs, aux consultations de prévention des maladies chroniques destinées aux personnes de quarante-cinq à cinquante ans et à une unique consultation de prévention pour les personnes de soixante à soixante-cinq ans et pour les personnes de soixante-dix à soixante-quinze ans ;
 
-17° Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné au 6° de l'article L. 160-8 ou relevant des soins mentionnés au 1° de l'article L. 160-9-1 ;
+17° Pour les frais relevant des soins mentionnés au 1° de l'article L. 160-9-1 ;
 
 18° Pour les donneurs mentionnés à l'article L. 1211-2 du code de la santé publique, en ce qui concerne l'ensemble des frais engagés au titre du prélèvement d'éléments du corps humain et de la collecte de ces produits ;
 
@@ -62,17 +62,17 @@ b) Cette ou ces affections nécessitent un traitement prolongé et une thérapeu
 
 28° Pour les frais de transport réalisé à la demande d'une unité participant au service d'aide médicale urgente mentionné à l'article L. 6311-1 du code de la santé publique ;
 
-29° Pour les frais d'acquisition du vaccin contre les infections à papillomavirus humains pour les personnes vaccinées dans le cadre des campagnes nationales de vaccination dans les établissements scolaires ou dans les établissements mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
+29° Pour les frais d'acquisition du vaccin contre les infections à papillomavirus humains et du vaccin contre les infections invasives à méningocoques pour les personnes vaccinées dans le cadre des campagnes nationales de vaccination dans les établissements scolaires ou dans les établissements mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
 
 30° Pour les frais d'acquisition du vaccin contre la grippe pour les personnes pour lesquelles cette vaccination est recommandée dans le calendrier des vaccinations mentionné à l'article L. 3111-1 du code de la santé publique ;
 
-31° Pour les frais d'acquisition du vaccin contre la rougeole, les oreillons et la rubéole pour les personnes âgées de moins de dix-huit ans.
+31° Pour les frais d'acquisition du vaccin contre la rougeole, les oreillons et la rubéole pour les personnes âgées de moins de dix-huit ans ;
+
+32° Pour les frais occasionnés par une prise en charge dans les centres de santé et de médiation en santé sexuelle mentionnés à l'article L. 6323-1-14-1 du code de la santé publique.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les critères médicaux utilisés pour la définition de l'affection et ouvrant droit à la limitation ou à la suppression de la participation de l'assuré.
 
 Sur proposition de l'Union nationale des caisses d'assurance maladie, un décret, pris après avis de la haute autorité mentionnée à l'article L. 161-37, peut réserver la limitation ou la suppression de la participation des assurés en application des 3° et 4° du présent article aux prestations exécutées dans le cadre d'un dispositif d'appui à la coordination mentionné à l'article L. 6327-2 du code de la santé publique, d'un dispositif spécifique régional mentionné à l'article L. 6327-6 du même code ou d'un dispositif coordonné de soins.
 
 NOTA:
-Conformément au II de l'article 53 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-Conformément au IV de l’article 37 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024. Le 29° du présent article s'applique aux vaccins administrés à compter du 1er octobre 2023.
+Conformément au III de l'article 63 de la loi n° 2025-199 du 28 février 2025, ces dispositions et l'ensemble des mesures afférentes prévues aux articles 24.1 à 24.2.1.4 du sous-titre I du titre III et à l'article 28 du sous-titre II du titre III de la convention nationale organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie publiée au Journal officiel du 25 août 2023 sont applicables à compter du 1er avril 2025.

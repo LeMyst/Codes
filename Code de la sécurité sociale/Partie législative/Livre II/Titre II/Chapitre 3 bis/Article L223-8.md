@@ -8,17 +8,15 @@ La Caisse nationale de solidarité pour l'autonomie assure :
 
 3° Le financement des concours versés aux départements, destinés à couvrir une partie :
 
-a) Du coût de l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1 du code de l'action sociale et des familles ;
+a) Du coût de l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1 du code de l'action sociale et des familles et le coût des mesures contribuant à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des professionnels des services d'accompagnement et d'aide à domicile relevant du 6° du I de l'article L. 312-1 du même code ;
 
-b) Du coût de la prestation de compensation mentionnée à l'article L. 245-1 du même code ;
+b) Du coût de la prestation de compensation mentionnée à l'article L. 245-1 dudit code, dont le coût des mesures contribuant à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des professionnels des services d'accompagnement et d'aide à domicile relevant du 7° du I de l'article L. 312-1 du même code ;
 
 c) Des coûts d'installation ou de fonctionnement des maisons départementales des personnes handicapées ;
 
 d) Du coût des actions de prévention prévues au II de l'article L. 149-11 du même code et des dépenses de fonctionnement de la commission des financeurs de la prévention de la perte d'autonomie mentionnée au même article L. 149-11 ;
 
-e) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant pour chaque département, le cas échéant, de l'application du tarif horaire minimal prévu au I de l'article L. 314-2-1. Les modalités de détermination de ce montant sont précisées par décret en Conseil d'Etat, en tenant compte des dernières données disponibles portant sur le volume total d'activité des services réalisant une activité d'aide et d'accompagnement à domicile à la date d'effet de la première application du tarif minimal et de chacune de ses revalorisations ;
-
-f) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant, pour les départements qui la versent, de la dotation prévue au 3° du I de l'article L. 314-2-1. Les modalités de détermination de ce montant sont précisées par décret en Conseil d'Etat ;
+e) Du surcroît des coûts mentionnés aux a et b du présent 3° résultant, pour les départements qui la versent, de la dotation prévue au 3° du I de l'article L. 314-2-1. Les modalités de détermination de ce montant sont précisées par décret en Conseil d'Etat ;
 
 g) Du surcroît du coût mentionné au b du présent 3° résultant de l'application du 3° du II de l'article L. 245-1 du code de l'action sociale et des familles ;
 

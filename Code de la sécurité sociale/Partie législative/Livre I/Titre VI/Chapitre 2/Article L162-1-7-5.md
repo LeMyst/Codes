@@ -1,0 +1,3 @@
+# Article L162-1-7-5
+
+Le ministre chargé de la santé établit chaque année une liste de mesures prioritaires destinées à améliorer la pertinence des soins dispensés aux assurés. Ce document est transmis aux commissions compétentes de l'Assemblée nationale et du Sénat au plus tard le 15 septembre. Il comporte des objectifs chiffrés, assortis d'indicateurs, pour améliorer la pertinence des soins et pour mettre fin au remboursement d'actes et de prestations réalisés en dehors des indications scientifiques ou des recommandations de bonne pratique de la Haute Autorité de santé. Il inclut également un bilan des mesures destinées à améliorer la pertinence des soins prises ou poursuivies l'année précédente.

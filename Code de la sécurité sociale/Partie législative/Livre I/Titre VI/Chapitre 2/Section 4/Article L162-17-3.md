@@ -14,7 +14,7 @@ II.-Le Comité économique des produits de santé assure un suivi périodique de
 
 Ce suivi comporte au moins deux constats à l'issue des quatre et huit premiers mois de l'année.
 
-III.-Le rapport d'activité établi par le comité économique des produits de santé est remis chaque année au Parlement.
+III.-Le rapport annuel d'activité établi par le Comité économique des produits de santé est remis au Parlement avant le 30 septembre de l'année suivant celle à laquelle il se rapporte. Lorsque ce rapport ne peut être établi avant cette date, le Comité économique des produits de santé remet au Parlement, avant la même date, un rapport d'activité provisoire.
 
 IV.-Les membres du comité ne peuvent, sous les peines prévues à l'article 432-12 du code pénal, prendre part ni aux délibérations ni aux votes s'ils ont un intérêt direct ou indirect à l'affaire examinée. Les personnes collaborant aux travaux du comité ne peuvent, sous les mêmes peines, traiter une question dans laquelle elles auraient un intérêt direct ou indirect.
 
@@ -23,6 +23,3 @@ Les membres du comité et les personnes collaborant à ses travaux sont soumis a
 Les membres du comité adressent au président de celui-ci, à l'occasion de leur nomination ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs ou indirects, avec les entreprises ou établissements dont les produits entrent dans son champ de compétence, ainsi qu'avec les sociétés ou organismes de conseil intervenant dans ces secteurs. Le président adresse la même déclaration à l'autorité compétente de l'Etat. Cette déclaration est rendue publique et est actualisée par ses auteurs à leur initiative.
 
 Les ministres auprès desquels est placé le Comité économique des produits de santé désignent, dans les conditions définies au II de l'article L. 1451-4 du code de la santé publique, un déontologue chargé, pour le comité, de la mission définie au même II.
-
-NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

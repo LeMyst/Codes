@@ -8,7 +8,9 @@ Le droit de communication permet d'obtenir, sans que s'y oppose le secret profes
 
 3° Aux agents des organismes de sécurité sociale pour recouvrer les prestations versées indûment ou des prestations recouvrables sur la succession ;
 
-4° Aux agents des organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et à l'article L. 725-3 du code rural et de la pêche maritime pour le recouvrement des créances relatives à une infraction aux interdictions de travail dissimulé mentionnées à l'article L. 8221-1 du code du travail.
+4° Aux agents des organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et à l'article L. 725-3 du code rural et de la pêche maritime pour le recouvrement des créances relatives à une infraction aux interdictions de travail dissimulé mentionnées à l'article L. 8221-1 du code du travail ;
+
+5° Aux directeurs et aux directeurs comptables et financiers des organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et aux agents placés sous leur autorité pour accomplir les actions de contrôle et de lutte contre la fraude mentionnées à l'article L. 114-9.
 
 Le droit prévu au premier alinéa peut porter sur des informations relatives à des personnes non identifiées, dans des conditions fixées par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. Les données ainsi obtenues par les organismes mentionnés à l'article L. 213-1 du présent code et les organismes mentionnés à l'article L. 723-2 du code rural et de la pêche maritime peuvent, au titre de l'accomplissement de leurs missions de contrôle et de lutte contre le travail dissimulé, faire l'objet d'une interconnexion avec les données dont ces mêmes organismes disposent. Les modalités de l'interconnexion sont définies par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
 
@@ -18,6 +20,6 @@ Les documents et informations sont communiqués à titre gratuit, par voie déma
 
 Le silence gardé ou le refus de déférer à une demande relevant du premier alinéa du présent article est puni d'une pénalité de 1 500 € par cotisant, assuré ou allocataire concerné, sans que le total de la pénalité puisse être supérieur à 10 000 €.
 
-Le silence gardé ou le refus de déférer à une demande relevant du sixième alinéa du présent article est puni d'une pénalité de 5 000 €. Cette pénalité s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.
+Le silence gardé ou le refus de déférer à une demande relevant du septième alinéa du présent article est puni d'une pénalité de 5 000 €. Cette pénalité s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.
 
 Ces montants sont doublés en cas de récidive de refus ou de silence gardé du tiers dans le délai de cinq ans à compter de l'expiration du délai de trente jours octroyé au tiers pour faire droit à la première demande de l'organisme de sécurité sociale.

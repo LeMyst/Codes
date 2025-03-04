@@ -2,7 +2,7 @@
 
 I.-La contribution due par les travailleurs indépendants non agricoles au titre des activités autres que celles relevant des articles 50-0 ou 102 ter du code général des impôts est assise, sous réserve du III du présent article :
 
-1° Au titre des activités relevant du premier alinéa de l'article 34 et de l'article 35 du code général des impôts, sur le montant, hors plus-values et moins-values de long terme, des produits tirés de ces mêmes activités, diminué du montant des charges que l'acquisition de ces produits nécessitent, tels que ces éléments résultent des articles 36 à 40 du même code, autres que celles, déterminées par décret en Conseil d'Etat, permettant des déductions ou des provisions exceptionnelles ou l'étalement ou le report de parties des bénéfices ou des plus-values ;
+1° Au titre des activités relevant du premier alinéa de l'article 34 et de l'article 35 du code général des impôts, sur le montant, hors plus-values et moins-values de long terme, des produits tirés de ces mêmes activités, diminué du montant des charges que l'acquisition de ces produits nécessitent, tels que ces éléments résultent des articles 36 à 40 et 42 septies du même code, autres que celles, déterminées par décret en Conseil d'Etat, permettant des déductions ou des provisions exceptionnelles ou l'étalement ou le report de parties des bénéfices ou des plus-values ;
 
 2° Au titre des activités relevant de l'article 92 dudit code, sur le montant, hors plus-values et moins-values de long terme, des recettes perçues ou de celles acquises en cas d'exercice de l'option mentionnée à l'article 93 A du même code, au cours de l'année, diminué du montant des dépenses exposées ou de celles engagées en cas d'exercice de la même option, au cours de l'année, pour l'acquisition de ces recettes, tels que ces éléments résultent du 1 de l'article 93 et des I et III de l'article 93 quater du même code.
 
@@ -19,4 +19,4 @@ III.-L'assiette résultant de l'application des I et II du présent article fait
 IV.-La contribution due par les travailleurs indépendants au titre des activités relevant des articles 50-0 ou 102 ter du code général des impôts mais ne relevant pas du dispositif prévu à l'article L. 613-7 du présent code est assise sur le montant des bénéfices déterminés aux articles 50-0 et 102 ter du code général des impôts.
 
 NOTA:
-Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.
+Conformément au IV de l'article 13 de la loi n° 2025-199 du 28 février 2025, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.

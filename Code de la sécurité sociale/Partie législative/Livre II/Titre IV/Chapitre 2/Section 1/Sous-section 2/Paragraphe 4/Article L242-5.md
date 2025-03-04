@@ -1,6 +1,6 @@
 # Article L242-5
 
-Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé annuellement pour chaque catégorie de risques par la caisse d'assurance retraite et de la santé au travail d'après les règles fixées par décret. Ce décret prévoit que les modalités de calcul du taux de cotisation permettent la mutualisation entre les entreprises des coûts liés aux maladies professionnelles dont l'effet est différé dans le temps, dans l'objectif de favoriser l'emploi des salariés âgés.
+Le taux de la cotisation due au titre des accidents du travail et des maladies professionnelles est déterminé annuellement pour chaque catégorie de risques par la caisse d'assurance retraite et de la santé au travail d'après les règles fixées par décret. Ce décret prévoit que les modalités de calcul du taux de cotisation permettent la mutualisation entre les entreprises des coûts liés aux maladies professionnelles dont l'effet est différé dans le temps, dans l'objectif de favoriser l'emploi des salariés âgés et des bénéficiaires de l'obligation d'emploi de travailleur handicapé en application de l'article L. 5212-13 du code du travail.
 
 Les risques sont classés dans les différentes catégories par la caisse d'assurance retraite et de la santé au travail, sauf recours, de la part soit de l'employeur, soit de l'autorité administrative, à la juridiction compétente pour connaître du contentieux mentionné au 7° de l'article L. 142-1, laquelle statue en premier et dernier ressort.
 
@@ -23,12 +23,3 @@ La délibération de la commission est transmise au ministre chargé de la sécu
 Si la commission n'a pas délibéré à cette date ou n'a pas retenu des éléments de calcul conformes aux dispositions du neuvième alinéa, l'autorité compétente de l'Etat les détermine par arrêté.
 
 Si les mesures prises en application du présent article ne permettent pas d'assurer la couverture des charges de gestion, l'équilibre de la branche tel que résultant de la loi de financement de la sécurité sociale doit être maintenu ou rétabli par un prélèvement sur les excédents financiers ou, à défaut, par une modification des éléments de calcul des cotisations.
-
-NOTA:
-Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
-
-Conformément au II de l’article 83 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions sont applicables :
-
-1° A compter du 1er janvier 2020, aux entreprises dont l'effectif est supérieur ou égal à cent cinquante salariés et redevables de la cotisation prévue à l'article L. 242-5 du code de la sécurité sociale, à l'exception des entreprises ou de leurs établissements ayant demandé, du 21 octobre au 18 décembre 2019, à la caisse d'assurance retraite et de la santé au travail compétente, de ne pas bénéficier, jusqu'au 31 décembre 2020, du procédé électronique de notification mentionné au I du présent article ;
-
-2° A compter de dates fixées par décret, en fonction des effectifs des entreprises, et au plus tard à compter du 1er janvier 2022, aux entreprises dont l'effectif est inférieur à cent cinquante salariés et redevables de la cotisation prévue à l'article L. 242-5 du code de la sécurité sociale.

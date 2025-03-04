@@ -38,7 +38,7 @@ III.-Sont exonérées de cotisations patronales de sécurité sociale, à l'exce
 
 1° Les associations et entreprises déclarées dans les conditions fixées à l'article L. 7232-1-1 du même code pour l'exercice des activités concernant la garde d'enfant ou l'assistance aux personnes âgées ou handicapées ;
 
-2° Les centres communaux ou intercommunaux d'action sociale ;
+2° Les centres communaux ou intercommunaux d'action sociale ainsi que, lorsqu'ils ont pour objet exclusif l'action sociale, les syndicats mixtes mentionnés au premier alinéa de l'article L. 5711-1 du code général des collectivités territoriales et les établissements publics de coopération intercommunale ;
 
 3° Les organismes habilités au titre de l'aide sociale ou ayant passé convention avec un organisme de sécurité sociale.
 
@@ -61,6 +61,3 @@ Un décret détermine les modalités d'application de l'exonération prévue par
 -les modalités selon lesquelles les organismes chargés du recouvrement des cotisations de sécurité sociale du régime général vérifient auprès des organismes servant les prestations mentionnées aux b, c, d et e du I ou les prestations d'aide ménagère visées au précédent alinéa que les personnes au titre desquelles cette exonération a été appliquée ont la qualité de bénéficiaires desdites prestations.
 
 Les rémunérations des aides à domicile ayant la qualité d'agent titulaire relevant du cadre d'emplois des agents sociaux territoriaux en fonction dans un centre communal ou intercommunal d'action sociale bénéficient d'une exonération de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de l'article R. 711-1 du présent code pour la fraction de ces rémunérations remplissant les conditions définies au présent III.
-
-NOTA:
-Conformément à l’article 12, V de la loi n° 2020-1577 du 14 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

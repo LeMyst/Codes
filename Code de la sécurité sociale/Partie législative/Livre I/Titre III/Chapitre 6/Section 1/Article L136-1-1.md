@@ -24,11 +24,13 @@ e) Les allocations versées à l'issue des mandats locaux par le fonds mentionn�
 
 5° Les avantages mentionnés au I et au II de l'article 80 bis du code général des impôts lorsque ces derniers sont imposés à l'impôt sur le revenu suivant les règles de droit commun des traitements et salaires ;
 
-6° La garantie de ressources des travailleurs handicapés prévue à l'article L. 243-4 du code de l'action sociale et des familles.
+6° La garantie de ressources des travailleurs handicapés prévue à l'article L. 243-4 du code de l'action sociale et des familles ;
+
+7° La rémunération des apprentis mentionnée à l'article L. 6221-1 du code du travail pour la part excédant 50 % du salaire minimum de croissance.
 
 III.-Par dérogation au I, sont exclus de l'assiette de la contribution mentionnée à l'article L. 136-1 les revenus suivants :
 
-1° a) Les rémunérations des apprentis mentionnées à l'article L. 6221-1 du code du travail ;
+1° a) (Abrogé).
 
 b) La fraction de la gratification versée aux personnes mentionnées aux a, b et f du 2° de l'article L. 412-8 du présent code et aux 1° et 8° du II de l'article L. 751-1 du code rural et de la pêche maritime, qui n'excède pas, au titre d'un mois civil, le produit d'un pourcentage, fixé par décret, du plafond horaire défini en application du premier alinéa de l'article L. 241-3 du présent code et du nombre d'heures de stage effectuées au cours du mois considéré. Les dispositions de l'article L. 131-7 ne sont pas applicables ;
 
@@ -111,8 +113,4 @@ f) Les prestations mentionnées aux articles L. 325-1 et L. 325-2 du code rural 
 8° Dans la limite du seuil de revente à perte, tel que défini à l'article L. 442-5 du code de commerce, les réductions tarifaires jusqu'à 50 % du prix de vente public normal, toutes taxes comprises, dont bénéficient les salariés sur les produits initialement destinés à la vente mais qui ne peuvent pas ou ne peuvent plus être vendus par l'entreprise qui les emploie ou par toute entreprise du groupe auquel ils appartiennent, le groupe étant entendu au sens de l'article L. 2331-1 du code du travail.
 
 NOTA:
-Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.
-
-Conformément au C du IV de l’article 93 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent aux dispositions, cessions, conversions ou mises en location réalisées entre le lendemain de la promulgation de la présente loi et le 31 décembre 2027.
-
-Conformément au V dudit article, la perte de recettes résultant pour l'Etat et les organismes de sécurité sociale des I et III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+Conformément au VI de l'article 22 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la présente loi, soit le 1er mars 2025, et s'applique aux contrats d'apprentissage conclus à compter de la même date.

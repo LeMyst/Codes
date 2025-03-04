@@ -8,9 +8,6 @@ Une convention pluriannuelle signée entre la Caisse nationale de solidarité po
 
 3° Les modalités de répartition des crédits entre les actions de prévention relevant respectivement des 1°, 2° et 4° à 6° du II de l'article L. 149-11 du code de l'action sociale et des familles ;
 
-4° Les modalités de versement des concours versés aux départements au titre de l'allocation personnalisée d'autonomie et de la prestation de compensation du handicap mentionnés à l'article L. 223-8 et au titre du financement de la commission des financeurs de la prévention de la perte d'autonomie mentionnée à l'article L. 149-11 du code de l'action sociale et des familles.
+4° Les modalités de versement des concours versés aux départements au titre des concours mentionnés aux a et b du 3° de l'article L. 223-8 du présent code et au titre du financement de la commission des financeurs de la prévention de la perte d'autonomie mentionnée à l'article L. 149-11 du code de l'action sociale et des familles.
 
 A défaut de convention, le département reçoit les concours définis aux articles L. 223-11 et L. 223-12.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2024-1178 du 13 décembre 2024, la date prévue au III de l'article 2 de la loi n° 2024-317 du 8 avril 2024 est celle de l'entrée en vigueur dudit décret, soit le 15 décembre 2024.

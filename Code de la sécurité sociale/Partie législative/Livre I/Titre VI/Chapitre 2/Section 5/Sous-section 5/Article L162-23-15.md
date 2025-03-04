@@ -16,7 +16,7 @@ Le produit des pénalités financières est affecté au financement des dotation
 
 III. - Un décret en Conseil d'Etat précise les modalités de détermination et de mise en œuvre de la dotation complémentaire et de la pénalité financière, les catégories des indicateurs liés à la qualité et la sécurité des soins recueillis par chaque établissement mentionné au premier alinéa du I et définit les modalités de détermination des seuils minimaux de résultats requis pour certains indicateurs.
 
-Le développement de l'autodialyse et de la dialyse à domicile figure parmi ces indicateurs.
+Le développement de l'autodialyse et de la dialyse à domicile figure parmi ces indicateurs. La lutte contre les erreurs médicamenteuses évitables figure également parmi ces indicateurs, en se fondant sur le suivi des interventions pharmaceutiques.
 
 Un arrêté des ministres chargés de la santé et de la sécurité sociale dresse la liste des indicateurs liés à la qualité et la sécurité des soins, détermine la période au cours de laquelle est recueilli chaque indicateur, qui ne peut être inférieure à un an, fixe les seuils minimaux de résultats requis pour certains indicateurs et prévoit les modalités de calcul de la dotation complémentaire et de la pénalité financière.
 

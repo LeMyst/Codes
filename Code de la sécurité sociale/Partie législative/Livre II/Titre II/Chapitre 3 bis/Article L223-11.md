@@ -1,26 +1,27 @@
 # Article L223-11
 
-I.-Le concours mentionné au a du 3° de l'article L. 223-8 est divisé en deux parts :
+Le concours destiné à couvrir une partie des dépenses mentionnées au a du 3° de l'article L. 223-8 est fixé pour chaque département en prenant en compte :
 
-1° Le montant de la première part est réparti annuellement entre les départements selon des modalités fixées par décret en Conseil d'Etat, après prélèvement des sommes nécessaires à une quote-part destinée aux collectivités de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, calculée et répartie selon des modalités prévues au II du présent article, en fonction des critères suivants :
+1° Les dépenses réalisées par chaque département mentionnées au même a en 2025, constatées par la Caisse nationale de solidarité pour l'autonomie.
 
-a) Le nombre de personnes âgées de plus de soixante-quinze ans ;
+Par dérogation, à partir de 2026, pour les départements participant à l'expérimentation prévue à l'article 79 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024, les dépenses prises en compte correspondent aux dépenses mentionnées au a du 3° de l'article L. 223-8 du présent code réalisées en 2025, à l'exception de celles relatives à la prise en charge dans les établissements mentionnés aux I, II et IV bis de l'article L. 313-12 du code de l'action sociale et des familles ;
 
-b) Le montant des dépenses d'allocation personnalisée d'autonomie ;
+2° Le taux de couverture pour l'année 2024, qui correspond au rapport entre :
 
-c) Le potentiel fiscal, déterminé selon les modalités définies à l'article L. 3334-6 du code général des collectivités territoriales ;
+a) La somme des montants des concours suivants perçus au titre de l'année 2024 :
 
-d) Le nombre de foyers bénéficiaires du revenu de solidarité active, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9 du code de l'action sociale et des familles.
+-le concours relatif aux dépenses mentionnées au a du 3° de l'article L. 223-8 du présent code dans sa rédaction résultant de l'ordonnance n° 2021-1554 du 1er décembre 2021 relative à la mise en œuvre de la création de la cinquième branche du régime général de la sécurité sociale relative à l'autonomie ;
 
-En aucun cas, le rapport entre, d'une part, les dépenses réalisées au titre de l'allocation personnalisée d'autonomie de chaque département après déduction des montants répartis en application du présent 1° et du 2° et, d'autre part, leur potentiel fiscal ne peut être supérieur à un taux fixé par voie réglementaire. Les dépenses correspondant à la fraction de ce rapport qui dépasse ce seuil sont prises en charge en totalité par la caisse.
+-le concours versé en application de l'article 47 de la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021, pour la part afférente à la prise en charge des personnes âgées ;
 
-L'attribution de la première part est majorée pour les départements dont le rapport défini au sixième alinéa du présent 1° est supérieur au taux fixé. Pour les autres départements, elle est diminuée de la somme des montants ainsi calculés, au prorata de la répartition effectuée en application du même sixième alinéa entre ces seuls départements.
+-le concours relatif aux dépenses mentionnées au e du 3° de l'article L. 223-8 du présent code dans sa rédaction résultant de l'ordonnance n° 2021-1554 du 1er décembre 2021 précitée, pour la part afférente à la prise en charge des personnes âgées ;
 
-Les opérations décrites aux deux alinéas précédents sont renouvelées jusqu'à ce que les dépenses laissées à la charge de chaque département n'excèdent pas le seuil défini au sixième alinéa du présent 1°.
+-le complément de financement versé au département en application de l'article 86 de la loi n° 2023-1250 du 26 décembre 2023 précitée ;
 
-2° Le montant de la seconde part est réparti annuellement entre les départements en fonction de l'estimation de leurs charges nouvelles résultant des articles L. 232-3-1, L. 232-3-2, L. 232-3-3 et L. 232-4 du code de l'action sociale et des familles, dans leur rédaction résultant de la loi n° 2015-1776 du 28 décembre 2015 relative à l'adaptation de la société au vieillissement, et dans les limites des ressources mentionnées au second alinéa du I de l'article L. 223-9. Cette répartition est opérée selon des modalités fixées par décret en Conseil d'Etat.
+b) Le montant des dépenses réalisées par les départements en 2024, constaté par la Caisse nationale de solidarité pour l'autonomie, au titre de l'allocation personnalisée d'autonomie, comprenant l'application du tarif minimal horaire prévu au I de l'article L. 314-2-1 du code de l'action sociale et des familles, pour la part afférente à la prise en charge des personnes âgées, ainsi qu'au titre de l'application de l'article 47 de la loi n° 2020-1576 du 14 décembre 2020 précitée, pour la part afférente à la prise en charge des personnes âgées.
 
-II.-La quote-part mentionnée au 1° du I du présent article est calculée en appliquant au montant total de la première part du concours mentionnée au même 1° le double du rapport entre le nombre de bénéficiaires de l'allocation mentionnée à l'article L. 232-2 du code de l'action sociale et des familles dans les collectivités d'outre-mer mentionnées audit 1° et le nombre total de bénéficiaires de l'allocation au 31 décembre de l'année précédant l'année au titre de laquelle le concours est attribué. Elle est répartie entre les trois collectivités en fonction des critères mentionnés aux a, b et d du 1° du même I.
+Par dérogation, pour les départements participant à l'expérimentation prévue à l'article 79 de la loi n° 2023-1250 du 26 décembre 2023 précitée, les modalités de calcul du taux de couverture sont fixées par voie réglementaire, en tenant compte des effets de la réforme du régime adapté de financement des établissements mentionnés aux I, II et IV bis de l'article L. 313-12 du code de l'action sociale et des familles. Le taux de couverture est calculé en 2025 en simulant les effets qu'aurait eus cette réforme si elle avait été appliquée au 1er juillet 2024. Pour les années suivantes, le taux de couverture est calculé en simulant les effets qu'aurait eus cette réforme si elle avait été appliquée au 1er janvier 2024 ;
 
-NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+3° Le cas échéant, un coefficient géographique s'appliquant au taux mentionné au 2° du présent article afin de tenir compte d'éventuels facteurs spécifiques, en particulier ceux se rapportant aux caractéristiques économiques, sociales et démographiques des collectivités régies par l'article 73 de la Constitution. Les modalités de calcul et d'application de ce coefficient sont précisées par voie réglementaire.
+
+Les modalités d'application du présent article, notamment les modalités de versement du concours, sont définies par voie réglementaire.

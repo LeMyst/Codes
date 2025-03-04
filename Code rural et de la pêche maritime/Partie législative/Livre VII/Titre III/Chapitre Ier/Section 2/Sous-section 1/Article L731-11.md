@@ -1,6 +1,6 @@
 # Article L731-11
 
-Les cotisations relatives aux prestations familiales, à l'assurance invalidité et à l'assurance vieillesse dues par les chefs d'exploitation ou d'entreprise mentionnés au 1° de l'article L. 722-4 ne peuvent être inférieures à des minima définis par décret.
+Les cotisations relatives aux prestations familiales et à l'assurance invalidité dues par les chefs d'exploitation ou d'entreprise ne peuvent être inférieures à des minima définis par décret.
 
 NOTA:
-Ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2016.
+Conformément au III de l’article 3 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2026.

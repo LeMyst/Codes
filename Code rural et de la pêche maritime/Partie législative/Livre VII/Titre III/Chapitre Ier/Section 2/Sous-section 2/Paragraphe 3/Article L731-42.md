@@ -2,15 +2,15 @@
 
 Les cotisations dues pour la couverture des dépenses de prestations de l'assurance vieillesse et de l'assurance veuvage sont à la charge du chef d'exploitation ou d'entreprise. Elles comprennent :
 
-1° Une cotisation due pour chaque personne non salariée âgée d'au moins seize ans, à l'exception des personnes mentionnées à l'article L. 732-28 et calculée, dans la limite du plafond prévu à l'article L. 241-3 du code de la sécurité sociale, en pourcentage de l'assiette déterminée en application des articles L. 731-15, L. 731-16 et L. 731-22 ;
+1° Pour chaque chef d'exploitation ou d'entreprise, une cotisation calculée pour partie sur l'assiette déterminée en application des articles L. 731-15, L. 731-16 et L. 731-22, retenue dans la limite du plafond mentionné au premier alinéa de l'article L. 241-3 du code de la sécurité sociale, et pour partie sur la totalité de cette assiette. Cette cotisation ne peut être inférieure à un montant fixé par décret.
 
-2° a) Une cotisation due pour chaque chef d'exploitation ou d'entreprise, calculée dans les conditions définies au 1° ;
+Les taux applicables à chacune de ces deux parties sont identiques à ceux déterminés en application de l'article L. 633-1 du même code ;
 
-b) Une cotisation due pour chaque aide familial défini au 2° de l'article L. 722-10 à partir de l'âge de seize ans ainsi qu'une cotisation due pour le collaborateur d'exploitation ou d'entreprise défini à l'article L. 321-5 ; l'assiette de ces cotisations est déterminée forfaitairement dans des conditions fixées par décret ;
+2° Pour chaque personne mentionnée au 2° de l'article L. 722-10 du présent code, à partir de l'âge de seize ans, et pour chaque collaborateur d'exploitation ou d'entreprise mentionné à l'article L. 321-5, une cotisation calculée sur une assiette forfaitaire fixée par décret.
 
-3° Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise, calculée sur la totalité de l'assiette déterminée en application des articles L. 731-15, L. 731-16 et L. 731-22.
-
-Les taux des cotisations mentionnées aux 1° à 3° ci-dessus sont fixés par décret.
+Le taux de cette cotisation est égal à la somme des taux de la cotisation mentionnée au 1° du présent article.
 
 NOTA:
-Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.
+Conformément au III de l’article 3 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er janvier 2026.
+
+Par dérogation au second alinéa des 1° et 2° dudit article, pour les périodes courant du 1er janvier 2026 au 31 décembre 2028, un décret fixe les taux des cotisations mentionnées au 1° du même article L. 731-42 dues par les chefs d'exploitation et d'entreprise agricole exerçant à titre secondaire et de celles mentionnées au 2° dudit article L. 731-42 de manière à résorber progressivement, chaque année, les écarts entre, d'une part, la somme des taux des cotisations d'assurance vieillesse de base applicables aux personnes concernées au 31 décembre 2025 et, d'autre part, les taux mentionnés au second alinéa des 1° et 2° du même article L. 731-42.

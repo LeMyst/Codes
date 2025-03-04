@@ -12,7 +12,7 @@ Le formulaire de demande d'inscription est accompagné des pièces suivantes :
 
 4° Une attestation des associés mentionnant l'adresse du ou des domiciles professionnels d'exercice dans lesquels sera exercée l'activité vétérinaire pour le compte de la société ;
 
-5° Le règlement des frais d'inscription mentionnés à l'article L. 243-2-1. Ce versement reste acquis à l'ordre, quelle que soit la suite donnée à la demande.
+5° Le règlement des frais d'inscription mentionnés à l'article L. 242-3-1. Ce versement reste acquis à l'ordre, quelle que soit la suite donnée à la demande.
 
 Tous les documents produits à l'appui de la demande d'inscription doivent être accompagnés, s'ils ne sont pas rédigés en français, d'une traduction certifiée par un traducteur assermenté ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
 

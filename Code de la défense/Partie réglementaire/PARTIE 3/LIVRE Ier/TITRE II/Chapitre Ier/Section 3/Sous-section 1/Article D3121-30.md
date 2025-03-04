@@ -14,4 +14,4 @@ En matière de ressources humaines, conformément aux dispositions de l'article 
 
 Pour le personnel civil relevant de leur autorité, ils expriment les besoins en emplois, effectifs et compétences. Ils s'assurent du suivi de ces effectifs et prennent part à la mise en œuvre de la politique ministérielle correspondante. Ils participent aux différentes instances dans lesquelles s'exerce le dialogue social.
 
-Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air et de l'espace ont autorité sur, respectivement, la direction des ressources humaines de l'armée de terre, la direction du personnel militaire de la marine et la direction des ressources humaines de l'armée de l'air et de l'espace.
+Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air et de l'espace ont autorité sur, respectivement, la direction des ressources humaines de l'armée de terre, la direction du personnel de la marine et la direction des ressources humaines de l'armée de l'air et de l'espace.

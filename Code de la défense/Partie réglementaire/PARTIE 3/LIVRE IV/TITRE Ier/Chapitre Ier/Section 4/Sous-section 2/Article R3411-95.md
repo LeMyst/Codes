@@ -8,7 +8,7 @@ Le conseil d'administration de l'Ecole navale comprend vingt-cinq membres :
 
 a) Le chef d'état-major de la marine ou son représentant ;
 
-b) Le directeur du personnel militaire de la marine ou son représentant ;
+b) Le directeur du personnel de la marine ou son représentant ;
 
 c) L'inspecteur de la marine nationale ou son représentant ;
 
@@ -41,6 +41,3 @@ b) Un représentant, au sens de l'article D. 4121-3-1, de chaque catégorie du p
 c) Deux représentants des élèves des promotions admises à l'école ;
 
 d) Un représentant des étudiants.
-
-NOTA:
-Conformément à l’article 34 du décret n° 2024-1081 du 29 novembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.

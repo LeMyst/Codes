@@ -79,7 +79,7 @@ I.-Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adapta
 | L. 5547-5 à L. 5547-9 | Résultant de la loi n° 2018-771 du 5 septembre 2018 précitée |
 | L. 5547-10 | Résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances |
 | L. 5549-1 (à l'exception du I) | Résultant de de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
-| L. 5553-11 | Résultant de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023 |
+| L. 5553-11 | Résultant de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025 |
 | L. 5571-1 à L. 5571-3 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5571-4 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5621-1 | Résultant de l'ordonnance n° 2021-77-du 27 janvier 2021 |
@@ -166,3 +166,6 @@ II.-Sous réserve des dispositions d'adaptations prévues au présent chapitre, 
 | L. 5623-10 et L. 5623-11 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5631-4 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5642-1 | Résultant de l'ordonnance n° 2021-77 du 27 janvier 2021 |
+
+NOTA:
+Conformément au VI de l'article 22 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la présente loi, soit le 1er mars 2025, et est applicable aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter de la même date.

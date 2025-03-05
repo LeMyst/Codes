@@ -2,7 +2,7 @@
 
 Lorsqu'un assuré mentionné aux I ou II de l'article L. 752-1 est victime d'un accident du travail ou d'une maladie professionnelle, une rente lui est attribuée si son taux d'incapacité permanente est égal ou supérieur à un taux fixé par décret.
 
-Le taux d'incapacité permanente est déterminé par la caisse d'après la nature de l'infirmité, l'état général, l'âge, les facultés physiques et mentales de la victime ainsi que d'après ses aptitudes et sa qualification professionnelles, compte tenu du barème indicatif d'invalidité mentionné à l'article L. 434-2 du code de la sécurité sociale.
+Le taux d'incapacité permanente est déterminé par la caisse d'après la nature de l'infirmité, l'état général, l'âge, les facultés physiques et mentales de la victime ainsi que d'après ses aptitudes et sa qualification professionnelles, compte tenu du barème indicatif d'incapacité professionnelle des accidents du travail et des maladies professionnelles mentionné à l'article L. 434-1 A du code de la sécurité sociale.
 
 Pour les chefs d'exploitation ou d'entreprise agricole relevant du I de l'article L. 752-1 du présent code, la rente est égale au gain forfaitaire annuel mentionné à l'article L. 752-5 multiplié par le taux d'incapacité, qui peut être préalablement réduit ou augmenté, selon des modalités définies par décret, en fonction de la gravité de l'incapacité.
 
@@ -12,11 +12,8 @@ Pour les assurés relevant du II de l'article L. 752-1, la rente est égale à u
 
 La rente est revalorisée chaque année dans les conditions prévues à l'article L. 434-17 du code de la sécurité sociale.
 
-Dans le cas où l'incapacité permanente oblige la victime à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie, cette victime a droit à la prestation complémentaire pour recours à tierce personne prévue au troisième alinéa de l'article L. 434-2 du code de la sécurité sociale dans les conditions prévues au même alinéa.
+Dans le cas où l'incapacité permanente oblige la victime à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie, cette victime a droit à la prestation complémentaire pour recours à tierce personne prévue au II de l'article L. 434-2 du code de la sécurité sociale dans les conditions prévues au même II.
 
 En cas d'accidents successifs, le taux ou la somme des taux d'incapacité permanente antérieurement reconnue constitue le point de départ de la réduction ou de l'augmentation prévues aux troisième à cinquième alinéas du présent article pour le calcul de la rente afférente au dernier accident.
 
 Les rentes servies en vertu de l'assurance prévue au présent chapitre sont viagères, incessibles et insaisissables.
-
-NOTA:
-Conformément au III de l’article 94 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions sont applicables aux accidents du travail et aux maladies professionnelles ayant entraîné une incapacité dont le taux a été fixé après le 31 décembre 2022.

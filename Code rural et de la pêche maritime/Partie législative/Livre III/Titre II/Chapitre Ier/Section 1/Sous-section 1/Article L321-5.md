@@ -8,8 +8,6 @@ Sous réserve de l'application des dispositions de l'article L. 321-1, le conjoi
 
 L'option pour le statut de conjoint collaborateur est formulée selon des modalités précisées par décret et prend effet à compter de la date à laquelle l'intéressé remplit les conditions prévues au présent article.
 
-Par dérogation, l'option formulée avant le 1er janvier 2001 prend effet au 1er janvier 1999 si le conjoint remplissait, à cette dernière date, les conditions fixées à l'article L. 732-34. Pour les personnes bénéficiant du statut de conjoint collaborateur d'exploitation ou d'entreprise agricole à compter du 1er janvier 1999, la cotisation prévue au b de l'article L. 731-42 due pour l'année 2000 est majorée au titre de l'année 1999 dans des conditions fixées par décret.
-
 Le collaborateur bénéficie du droit à l'assurance vieillesse des personnes non salariées des professions agricoles dans les conditions prévues aux chapitres IV et IV-1 du titre II du livre VII lorsque son conjoint relève du régime agricole, ainsi que d'une créance de salaire différé dans les conditions prévues au chapitre Ier du titre II du livre III (nouveau).
 
 A compter du 1er janvier 2006, le conjoint du chef d'exploitation ou d'entreprise agricole exerçant sur l'exploitation ou au sein de l'entreprise une activité professionnelle régulière opte, selon des modalités précisées par décret, pour l'une des qualités suivantes :
@@ -20,7 +18,9 @@ A compter du 1er janvier 2006, le conjoint du chef d'exploitation ou d'entrepris
 
 -chef d'exploitation ou d'entreprise agricole.
 
-La personne qui devient collaborateur du chef d'exploitation ou d'entreprise agricole ne peut pas conserver cette qualité plus de cinq ans.
+Le statut de collaborateur du chef d'exploitation ou d'entreprise agricole ne peut être occupé, y compris de façon interrompue, que pendant une durée qui ne peut excéder cinq ans.
+
+Pour les personnes exerçant au 1er janvier 2022 une activité professionnelle sous le statut de collaborateur, la durée de cinq ans mentionnée au dixième alinéa du présent article s'apprécie au regard des seules périodes postérieures à cette date. Toutefois, si ces personnes atteignent l'âge prévu au 1° de l'article L. 351-8 du code de la sécurité sociale avant le 1er janvier 2032, cette durée peut être prolongée jusqu'à la liquidation de leurs droits à pension.
 
 Le chef d'exploitation ou d'entreprise agricole est tenu de déclarer l'activité professionnelle régulière de son conjoint au sein de l'exploitation ou de l'entreprise agricole et le statut choisi par ce dernier auprès des organismes habilités à enregistrer l'immatriculation de l'exploitation ou de l'entreprise agricole.
 
@@ -33,4 +33,4 @@ Les modalités des déclarations prévues au présent article sont déterminées
 Les dispositions du présent article sont également applicables aux personnes qui sont liées par un pacte civil de solidarité ou qui vivent en concubinage avec le chef d'exploitation ou d'entreprise agricole.
 
 NOTA:
-Conformément aux II et III de l'article 3 de la loi n° 2021-1679 du 17 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 et s'appliquent à compter du 1er janvier 2022 aux personnes ayant la qualité de collaborateur d'un chef d'exploitation ou d'une entreprise agricole à cette date.
+Conformément au A du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, le e A du I et les 9°, 13° et 17° du II de l'article précité s'appliquent à compter du 1er janvier 2025.

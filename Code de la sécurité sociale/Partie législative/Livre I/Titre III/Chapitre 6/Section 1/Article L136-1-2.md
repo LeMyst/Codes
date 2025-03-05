@@ -20,7 +20,7 @@ En outre, la contribution due sur ces allocations ainsi que sur les avantages me
 
 7° L'indemnité de cessation d'activité des travailleurs de l'amiante prévue au V de l'article 41 de la loi n° 98-1194 du 23 décembre 1998 de financement de la sécurité sociale pour 1999 ;
 
-8° L'allocation veuvage mentionnée à l'article L. 356-1 du présent code et à l'article L. 722-16 du code rural et de la pêche maritime ;
+8° L'allocation veuvage mentionnée à l'article L. 356-1 du présent code ;
 
 9° Le capital versé au titre de l'assurance décès prévue à l'article L. 361-1 du présent code ainsi que le capital décès versé par un organisme habilité et bénéficiant d'un financement patronal délivré dans le cadre d'un régime collectif et obligatoire de protection sociale complémentaire ;
 

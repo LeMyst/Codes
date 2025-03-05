@@ -28,11 +28,13 @@ i) Des régimes des agents des chemins de fer d'Afrique du Nord et d'outre-mer ;
 
 j) Du régime des régies ferroviaires d'outre-mer ;
 
-k) Du régime des personnels de l'Office de radiodiffusion-télévision française.
+k) Du régime des personnels de l'Office de radiodiffusion-télévision française, au titre des allocations supplémentaires de retraite ;
+
+l) Du régime de la Caisse de retraite des chemins de fer franco-éthiopiens.
 
 Les organismes du régime général assurent la gestion du régime spécial mentionné au 1° du présent article.
 
 Un décret fixe les modalités d'application du présent article.
 
 NOTA:
-Conformément au deuxième alinéa du VIII de l’article 15 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.

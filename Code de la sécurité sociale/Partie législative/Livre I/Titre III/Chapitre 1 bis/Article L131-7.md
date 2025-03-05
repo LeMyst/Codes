@@ -14,9 +14,9 @@ A compter de la date de publication de la loi n° 2004-810 du 13 août 2004 pré
 
 II.-Le I n'est pas applicable :
 
-1° Aux réductions et exonérations prévues au 5° bis du III de l'article L. 136-1-1, au III bis de l'article L. 136-8, aux huitième, avant-dernier et dernier alinéas de l'article L. 137-15, aux articles L. 241-6-1, L. 241-13, L. 241-17, au premier alinéa du II de l'article L. 242-1, à l'article L. 613-1 et à l'article L. 621-3, dans sa rédaction résultant de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence en faveur du pouvoir d'achat ;
+1° Aux réductions et exonérations prévues au 5° bis du III de l'article L. 136-1-1, au III bis de l'article L. 136-8, aux huitième, avant-dernier et dernier alinéas de l'article L. 137-15, aux articles L. 241-6-1, L. 241-13, L. 241-17, au premier alinéa du II de l'article L. 242-1, à l'article L. 613-1 et à l'article L. 621-3, dans sa rédaction résultant de la loi n° du de financement de la sécurité sociale pour 2025 ;
 
 2° A la réduction de la contribution mentionnée à l'article L. 137-30 résultant de l'abattement d'assiette prévu à l'article L. 137-2.
 
 NOTA:
-Conformément au III de l'article 20 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux réductions mentionnées à l'article L. 621-3 du code de la sécurité sociale applicables aux cotisations dues à compter des périodes mentionnées au III de l'article 3 de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat.
+Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.

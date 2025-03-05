@@ -20,11 +20,11 @@ La couverture des charges de l'assurance vieillesse et de l'assurance veuvage es
 
 6° Une fraction égale à 35 % du produit de l'ensemble des parts variables des redevances payées chaque année au titre de l'utilisation des fréquences 880-915 mégahertz, 925-960 mégahertz, 1 710-1 785 mégahertz, 1 805-1 880 mégahertz, 1 900-1 980 mégahertz et 2 110-2 170 mégahertz attribuées pour l'exploitation d'un réseau mobile en métropole en application du code des postes et des communications électroniques ;
 
-7° Une contribution des régimes de retraite complémentaire mentionnés à l'article L. 921-4 du présent code, dont le montant est fixé par une convention entre ces régimes et le régime général approuvée par arrêté conjoint des ministres chargés de la sécurité sociale, du travail et du budget, pour participer à l'équilibre des régimes spéciaux mis en extinction. A défaut de fixation par une telle convention, au 30 juin de l'exercice en cours, de la contribution due par les régimes de retraite complémentaire pour tenir compte des conséquences financières, pour chacun des organismes, de la fermeture des régimes spéciaux mentionnés aux a à f du 3° de l'article L. 134-3, un décret fixe le montant de la contribution due au titre de cet exercice.
+7° Une contribution des régimes de retraite complémentaire mentionnés à l'article L. 921-4 du présent code, dont le montant est fixé par une convention entre ces régimes et le régime général approuvée par arrêté conjoint des ministres chargés de la sécurité sociale, du travail et du budget, pour participer à l'équilibre des régimes spéciaux mis en extinction. A défaut de fixation par une telle convention, au 30 juin de l'exercice en cours, de la contribution due par les régimes de retraite complémentaire pour tenir compte des conséquences financières, pour chacun des organismes, de la fermeture des régimes spéciaux mentionnés aux a à f du 3° de l'article L. 134-3, un décret fixe le montant de la contribution due au titre de cet exercice ;
+
+8° Les sommes versées par l'Etat pour l'équilibre des régimes de retraite mentionnés au même 3°.
 
 Le recouvrement des cotisations mentionnées au présent article est assuré pour le compte de la caisse nationale d'assurance vieillesse par les unions de recouvrement. Le contrôle et le contentieux du recouvrement sont également exercés par ces unions.
 
 NOTA:
-Conformément au deuxième alinéa du VIII de l’article 15 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Conformément au troisième alinéa du VIII de l’article 15 de la loi n° 2023-1250 du 26 décembre 2023, la seconde phrase du 7° de l'article L. 241-3 du code de la sécurité sociale, dans sa rédaction résultant du 3° du I dudit article 15, ne peut s'appliquer pour la première fois qu'à la contribution due au titre de l'exercice 2025.
+Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.

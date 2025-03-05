@@ -48,13 +48,9 @@ Les modalités selon lesquelles l'Agence centrale des organismes de sécurité s
 
 7° De compenser la perte de cotisations sociales effectivement recouvrées résultant, pour les régimes mentionnés à l'article L. 921-4, du présent code et à l'article L. 6527-1 du code des transports, du dispositif de réduction dégressive prévu à l'article L. 241-13 du présent code applicable sur les cotisations dues à ces régimes par les employeurs relevant des organismes mentionnés aux articles L. 213-1 et L. 752-1 ainsi que des organismes de recouvrement mentionnés à l'article L. 723-1 du code rural et de la pêche maritime et à l'article L. 6527-2 du code des transports ;
 
-7° bis De compenser, dans la limite d'un montant fixé par arrêté des ministres chargés du travail, de la sécurité sociale et du budget, la perte de cotisations résultant, pour l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail, du dispositif de réduction dégressive prévu à l'article L. 241-13 du présent code, applicable aux cotisations dues à cet organisme par les employeurs relevant des organismes de recouvrement mentionnés aux articles L. 133-9, L. 213-1 et L. 752-1 du présent code ainsi qu'à ceux mentionnés aux a à f de l'article L. 5427-1 du code du travail ;
+7° bis De compenser, dans la limite d'un montant fixé par arrêté des ministres chargés du travail, de la sécurité sociale et du budget, la perte de cotisations résultant, pour l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail, du dispositif de réduction dégressive prévu à l'article L. 241-13 du présent code, applicable aux cotisations dues à cet organisme par les employeurs relevant des organismes de recouvrement mentionnés aux articles L. 133-9, L. 213-1 et L. 752-1 du présent code ainsi qu'à ceux mentionnés aux a à f de l'article L. 5427-1 du code du travail. La différence entre le montant de la perte de cotisations mentionnée à la première phrase du présent 7° bis et le montant limite prévu à la même première phrase est déduite du montant des sommes auxquelles s'applique le taux forfaitaire prévu au troisième alinéa du 5° du présent article ;
 
 8° D'assurer, en matière de marchés publics de services bancaires, la fonction de centrale d'achat, au sens de l'article 26 de l'ordonnance n° 2015-899 du 23 juillet 2015, pour le compte des caisses nationales et des organismes locaux du régime général.
 
 NOTA:
-Conformément au VI de l’article 5 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent aux observations notifiées à compter du 1er janvier 2024.
-
-Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-Conformément au V de l'article 16 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.

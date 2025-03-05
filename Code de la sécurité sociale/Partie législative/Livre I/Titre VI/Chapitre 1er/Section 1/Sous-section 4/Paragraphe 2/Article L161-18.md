@@ -1,8 +1,6 @@
 # Article L161-18
 
-Pour la liquidation des droits à l'assurance vieillesse, l'appréciation de l'inaptitude au travail dans les conditions prévues à l'article L. 351-7 du présent code par le régime général et le régime des salariés agricoles est valable à l'égard de l'un ou l'autre des régimes en cause.
-
-Cette disposition est applicable au régime des non-salariés des professions agricoles en ce qui concerne les assurés mentionnés à l'article L. 732-18-4 du code rural et de la pêche maritime.
+Pour la liquidation des droits à l'assurance vieillesse, l'appréciation de l'inaptitude au travail dans les conditions prévues à l'article L. 351-7 du présent code par le régime général, le régime des non-salariés des professions agricoles et le régime des salariés agricoles est valable à l'égard de l'un ou l'autre des régimes en cause.
 
 NOTA:
-Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément au C du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les F et İ, les 1°, 2°, 5°, 8°, 9°, 12° et 17° du L et les M et N du I, les 3° à 6°, 10°, 12°, 14°, 18°, 19° et 23° du II et les IV à VII de l'article précité s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

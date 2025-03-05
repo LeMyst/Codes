@@ -20,10 +20,13 @@ Pour les commissionnaires au sens de l'article L. 132-1 du code de commerce qui 
 
 Dans le cas d'entremise à la vente, les commettants des intermédiaires auxquels les cinquième à neuvième alinéas s'appliquent majorent leur chiffre d'affaires du montant des commissions versées.
 
-Le chiffre d'affaires retenu pour asseoir la contribution prévue par l'article L. 138-1 est exclu de l'assiette de la contribution sociale de solidarité.
+Pour les entreprises mentionnées à l'article L. 138-1 , il n'est tenu compte, dans le calcul du chiffre d'affaires retenu pour déterminer l'assiette de la contribution, que de la partie du prix de vente hors taxes de chaque unité vendue aux officines inférieure à un montant de 2 500 euros augmenté de la marge maximale que ces entreprises sont autorisées à percevoir sur cette somme en application de l'arrêté prévu à l'article L. 162-38. Le chiffre d'affaires retenu pour déterminer la contribution prévue à l'article L. 138-1 est exclu de l'assiette de la contribution sociale de solidarité.
 
 Par dérogation au premier alinéa, les entreprises dont le chiffre d'affaires, calculé selon les modalités prévues aux alinéas précédents, est inférieur ou égal au montant de l'abattement mentionné par le premier alinéa de l'article L. 137-32 ne sont pas tenues de souscrire une déclaration au titre de la contribution sociale de solidarité.
 
 Lorsque la société ou l'entreprise assujettie n'a pas effectué la déclaration de son chiffre d'affaires selon les modalités et dans les délais prescrits pour l'application du présent article, le chiffre d'affaires sur lequel est assise la contribution est fixé d'office par l'organisme chargé du recouvrement à partir des éléments dont il dispose ou des comptes annuels dont il est fait publicité.
 
 Les montants dus, lorsque le chiffre d'affaires estimé est supérieur au montant de l'abattement fixé par le premier alinéa de l'article L. 137-32, sont réclamés à titre provisionnel, par voie de mise en demeure dans les conditions mentionnées à l'article L. 244-2.
+
+NOTA:
+Conformément au II de l'article 30 de la loi n° 2025-199 du 28 février 2025, ces dispositions s'appliquent à la contribution prévue à l'article L. 137-33 du code de la sécurité sociale due à compter de l'exercice 2025.

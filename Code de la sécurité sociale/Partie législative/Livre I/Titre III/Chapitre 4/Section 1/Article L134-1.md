@@ -8,7 +8,7 @@ La compensation prévue au présent article est calculée sur la base d'une pres
 
 Pour le calcul de cette compensation, le régime général en tant que régime d'affiliation des personnes autres que les personnes mentionnées à l'article L. 611-1 et les régimes spéciaux dont il assure l'équilibre financier en application du 3° de l'article L. 134-3 forment un ensemble unique. Les transferts relatifs à cet ensemble sont à la charge ou au bénéfice du seul régime général.
 
-Les soldes qui en résultent entre les divers régimes sont fixés par arrêtés interministériels, après consultation de la commission de compensation prévue à l'article L. 114-3.
+Les soldes qui en résultent entre les divers régimes sont fixés par arrêtés interministériels.
 
 NOTA:
-Conformément au deuxième alinéa du VIII de l’article 15 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.

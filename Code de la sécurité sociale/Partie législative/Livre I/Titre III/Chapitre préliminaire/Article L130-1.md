@@ -12,11 +12,7 @@ II.-Le franchissement à la hausse d'un seuil d'effectif salarié est pris en co
 
 Le franchissement à la baisse d'un seuil d'effectif sur une année civile a pour effet de faire à nouveau courir la règle énoncée au premier alinéa du présent II.
 
+III.-Au sens du présent code, les salariés mis à la disposition, en tout ou partie, d'un ou de plusieurs de ses membres par un groupement d'employeurs ne sont pas pris en compte dans l'effectif de ce groupement d'employeurs, sauf en ce qui concerne l'application des dispositions relatives à la tarification des risques d'accidents du travail et de maladies professionnelles.
+
 NOTA:
-Conformément au XIII de l’article 11 de la loi n° 2019-486 du 22 mai 2019, le II de l'article L. 130-1 ne s'applique pas :
-
-1° Lorsque l'effectif de l'entreprise est, au 1er janvier 2020, supérieur ou égal à un seuil et que cette entreprise était soumise, au titre de l'année 2019, aux dispositions applicables dans le cas d'un effectif supérieur ou égal à ce seuil ;
-
-2° Lorsque l'entreprise est bénéficiaire, au 1er janvier 2020, des dispositions prévues au XII de l’article 11 de la loi n° 2019-486.
-
-Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au II de l’article 21 de la loi n° 2023-1250 du 26 décembre 2023 et au 2° de l'article 25 de la loi n° 2025-199 du 28 février 2025, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.

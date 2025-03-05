@@ -1,6 +1,6 @@
 # Article L138-20
 
-Les contributions instituées aux articles L. 138-1, L. 138-10, L. 138-19-1, L. 138-19-8, L. 245-1, L. 245-5-1, et L. 245-6 ainsi que les majorations afférentes sont recouvrées et contrôlées, sous réserve des dispositions spécifiques prévues aux mêmes articles, selon les règles et sous les sanctions et garanties applicables au recouvrement des cotisations du régime général assises sur les rémunérations, par des organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale.
+Les contributions instituées aux articles L. 138-1, L. 138-10, L. 138-19-8, L. 245-1, L. 245-5-1, et L. 245-6 ainsi que les majorations afférentes sont recouvrées et contrôlées, sous réserve des dispositions spécifiques prévues aux mêmes articles, selon les règles et sous les sanctions et garanties applicables au recouvrement des cotisations du régime général assises sur les rémunérations, par des organismes mentionnés à l'article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale.
 
 Les déclarations et versements afférents à ces contributions sont effectués par voie dématérialisée, dans des conditions fixées par décret.
 

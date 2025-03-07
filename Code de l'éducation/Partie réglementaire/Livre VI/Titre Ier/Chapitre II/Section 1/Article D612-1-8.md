@@ -1,6 +1,6 @@
 # Article D612-1-8
 
-A partir de l'inscription sur la plateforme Parcoursup et pendant tout le déroulement de la procédure nationale de préinscription, l'adresse de référence du candidat lycéen scolarisé dans un établissement français est, par défaut, l'adresse du domicile de ses représentants légaux.
+A partir de l'inscription sur la plateforme Parcoursup et pendant tout le déroulement de la procédure nationale de préinscription, l'adresse de référence du candidat lycéen scolarisé dans un établissement français est, par défaut, l'adresse du domicile de ses représentants légaux. Toutefois, lorsqu'il est hébergé en internat dans un lycée situé dans une académie autre que celle du domicile de ses représentants légaux, l'adresse du lieu d'hébergement à l'internat est également prise en compte comme adresse de référence du candidat pour l'application du V de l'article L. 612-3 du code de l'éducation .
 
 Le changement de domicile du candidat peut être pris en compte :
 

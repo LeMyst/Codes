@@ -12,7 +12,7 @@ b) Le deuxième alinéa du I est ainsi rédigé :
 
 c) Au II, les mots : " par catégorie, par sous-catégorie et par circonscription de chambre de commerce et d'industrie territoriale " sont remplacés par les mots : " par collège " ;
 
-d) Au 1° du II, les mots : " de la chambre territoriale " sont supprimés ;
+d) (supprimé)
 
 e) Le 2° du II n'est pas applicable ;
 
@@ -21,3 +21,6 @@ f) Au III, les mots : " de la chambre territoriale chaque catégorie professionn
 g) Il est ajouté l'alinéa suivant :
 
 " Le nombre des membres de chaque collège est pair. "
+
+NOTA:
+Conformément à l'article 19 du décret n° 2021-144 du 11 février 2021, ces dispositions entrent en vigueur à compter de la fin du mandat des délégués consulaires élus au cours de l'année 2016.

@@ -2,17 +2,15 @@
 
 A l'article R. 713-1-1 :
 
-a) Aux premier, troisième et quatrième alinéas, les mots : " chambre de commerce et d'industrie territoriale " sont remplacés par les mots : " chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon " ;
+a) Le quatrième alinéa du I est complété par les mots : “ainsi que le directeur de l'agriculture et de la forêt de Saint-Pierre-et-Miquelon ou son représentant, pour ce qui concerne l'établissement de la liste électorale du collège représentant les activités du secteur agricole.” ;
 
-b) Il est inséré, après le troisième alinéa, l'alinéa suivant :
+b) Au premier alinéa du II, les mots : “31 janvier” sont remplacés par les mots : “31 mars” ;
 
-" Le président de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon transmet au préfet au plus tard le 31 mars la liste des personnes physiques et des dirigeants sociaux des personnes morales immatriculées ou mentionnées au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat et le directeur de l'agriculture et de la forêt fournit, dans le même délai, la liste des personnes immatriculées ou mentionnées au registre des agriculteurs précités. " ;
+c) Après le deuxième alinéa du II, il est inséré un alinéa ainsi rédigé :
 
-c) Il est ajouté à la fin du quatrième alinéa les deux phrases suivantes :
+“La chambre procède de même à l'égard des entreprises inscrites au répertoire des métiers tenu par elle en vue de la désignation des électeurs relevant des activités définies à l'annexe du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers. Dans le même but, elle interroge également les agriculteurs et les entreprises agricoles inscrites au registre des agriculteurs prévu au I de l'article R. 917-17” ;
 
-" La chambre procède de même à l'égard des entreprises inscrites au Registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat en vue de l'identification ou de la désignation des électeurs relevant des activités définies à l'annexe du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au secteur des métiers et de l'artisanat. Elle adresse également un questionnaire aux agriculteurs et aux entreprises agricoles inscrites au registre des agriculteurs prévu au I de l'article R. 917-17. " ;
-
-d) Au septième alinéa, les mots : " par catégorie et, le cas échéant, sous-catégorie professionnelle " sont remplacés par les mots : " par collège ".
+d) Au premier alinéa du III, les mots : “par catégorie et, le cas échéant, sous-catégorie professionnelle, mentionnées à l'article L. 713-11” sont remplacés par les mots : “par collège”.
 
 NOTA:
 Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

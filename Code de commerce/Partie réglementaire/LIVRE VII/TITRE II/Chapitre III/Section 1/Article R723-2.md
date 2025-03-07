@@ -10,7 +10,7 @@ La commission procède à la radiation des membres du collège électoral qui so
 
 Les électeurs mentionnés au 1° de l'article L. 723-1 appartiennent au collège électoral du ressort du tribunal de commerce jusqu'au terme de leur mandat au sein de la chambre de commerce et de l'industrie ou de la chambre de métiers et de l'artisanat.
 
-A la qualité d'ancien membre du tribunal de commerce le juge ayant exercé ses fonctions pendant au moins six années et n'ayant pas été réputé démissionnaire
+A la qualité d'ancien membre du tribunal de commerce le juge ayant exercé ses fonctions pendant au moins six années et n'ayant pas été réputé démissionnaire.
 
 Les électeurs mentionnés au 2° de l'article L. 723-1 ne peuvent être inscrits sur la liste des membres du collège électoral de plusieurs tribunaux de commerce. Lorsque ces électeurs sont susceptibles de se trouver dans cette situation, ils sont tenus de solliciter leur retrait de la liste électorale auprès des présidents des juridictions dans lesquelles ils ne souhaitent pas être électeurs.
 

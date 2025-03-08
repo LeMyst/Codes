@@ -110,7 +110,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Loiret | Orléans | 30 | 5 |
 | Cour d'appel de Paris |
 | Paris | Paris | 210 | 25 |
-| Essonne | Evry | 55 | 8 |
+| Essonne | Évry-Courcouronnes | 55 | 8 |
 | Seine-et-Marne | Melun | 36 | 6 |
 | | Meaux | 30 | 5 |
 | Seine-Saint-Denis | Bobigny | 81 | 10 |

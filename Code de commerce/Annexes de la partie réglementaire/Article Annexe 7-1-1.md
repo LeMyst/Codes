@@ -7,7 +7,7 @@ Siège et ressort des tribunaux de commerce spécialisés
 | Bobigny | Tribunaux de commerce de Bobigny, de Créteil, de Meaux |
 | Bordeaux | Tribunaux de commerce d'Angoulême, de Bayonne, de Bergerac, de Bordeaux, de Dax, de Libourne, de Mont-de-Marsan, de Pau, de Périgueux, de Tarbes |
 | Dijon | Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Val de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul |
-| Evry | Tribunaux de commerce d'Auxerre, d'Evry, de Melun, de Sens |
+| Évry-Courcouronnes | Tribunaux de commerce d'Auxerre, d'Évry-Courcouronnes, de Melun, de Sens |
 | Grenoble | Tribunaux de commerce d'Annecy, de Chambéry, de Gap, de Grenoble, de Romans-sur-Isère, de Thonon-les-Bains, de Vienne |
 | Lyon | Tribunaux de commerce d'Aurillac, de Bourg-en-Bresse, de Clermont-Ferrand, de Cusset, de Lyon, de Montluçon, du Puy-en-Velay, de Roanne, de Saint-Etienne, de Villefranche-sur-Saône |
 | Marseille | Tribunaux de commerce d'Aix-en-Provence, de Draguignan, de Fréjus, de Manosque, de Marseille, de Salon-de-Provence, de Tarascon, de Toulon |

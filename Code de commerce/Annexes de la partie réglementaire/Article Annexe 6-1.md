@@ -45,7 +45,7 @@ des procédures applicables aux commerçants et artisans
 | | TC de Périgueux | Ressort du TC |
 | Doubs | TC de Besançon | Ressort du TC |
 | Drôme | TC de Romans-sur-Isère | Le département |
-| Essonne | TC d'Evry | Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly |
+| Essonne | TC d'Évry-Courcouronnes | Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly |
 | Eure | TC d'Evreux | Ressort du TC |
 | | TC de Bernay | Ressort du TC |
 | Eure-et-Loir | TC de Chartres | Le département |

@@ -46,7 +46,7 @@ des procédures applicables aux personnes qui ne sont ni commerçants ni artisan
 | Doubs | Tribunal judiciaire de Besançon | Ressort du tribunal judiciaire |
 | Tribunal judiciaire de Montbéliard | Ressort du tribunal judiciaire |
 | Drôme | Tribunal judiciaire de Valence | Le département |
-| Essonne | Tribunal judiciaire d'Evry | Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly |
+| Essonne | Tribunal judiciaire d'Évry-Courcouronnes | Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly |
 | Eure | Tribunal judiciaire d'Evreux | Le département |
 | Eure-et-Loir | Tribunal judiciaire de Chartres | Le département |
 | Finistère | Tribunal judiciaire de Brest | Ressort du tribunal judiciaire |

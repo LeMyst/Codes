@@ -10,11 +10,17 @@ A 24 % pour les assurances contre l'incendie souscrites auprès des caisses dép
 
 A 30 % pour toutes les autres assurances contre l'incendie ;
 
-Toutefois les taux de la taxe sont réduits à 7 % pour les assurances contre l'incendie des biens affectés de façon permanente et exclusive à une activité industrielle, commerciale, artisanale ou agricole, ainsi que des bâtiments administratifs des collectivités locales ;
+Toutefois, les taux de la taxe sont réduits :
 
-2° Pour les assurances garantissant les pertes d'exploitation consécutives à l'incendie dans le cadre d'une activité industrielle, commerciale, artisanale ou agricole :
+a) A 7 % pour les assurances contre l'incendie des bâtiments administratifs des collectivités territoriales ;
 
-A 7 % ;
+b) A 12 % pour les assurances contre l'incendie des biens affectés de façon permanente et exclusive à un usage professionnel autres que celles se rapportant aux risques agricoles mentionnées au deuxième alinéa du présent 1° ;
+
+2° Pour les assurances garantissant les pertes d'exploitation consécutives à l'incendie :
+
+a) A 7 % dans le cadre d'une activité agricole ;
+
+b) A 12 % dans le cadre des autres activités professionnelles ;
 
 2° bis (Abrogé) ;
 
@@ -51,4 +57,4 @@ c) Du produit de la taxe afférente aux contrats d'assurance en cas de décès s
 Les tarifs mentionnés aux 1° à 6° du présent article sont réduits de moitié pour les primes afférentes à des risques situés dans le Département de Mayotte.
 
 NOTA:
-Conformément au XV de l’article 82 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément au II de l'article 113 de la loi n° 2025-127 du 14 février 2025, le I dudit article s'applique aux primes, cotisations et accessoires se rapportant aux conventions dont l'échéance intervient à compter du 1er juillet 2025.

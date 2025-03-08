@@ -81,8 +81,8 @@ SIÈGE ET RESSORT DES TRIBUNAUX PARITAIRES DES BAUX RURAUX
 | Nièvre | | Clamecy | Ressort de la chambre de proximité de Clamecy |
 | Nevers | | Ressort du tribunal judiciaire de Nevers, à l'exception du ressort de la chambre de proximité de Clamecy. |
 | Cour d'appel de Caen |
-| Calvados | Caen | | Ressort du tribunal judiciaire de Caen, à l'exception du ressort de la chambre de proximité de Vire. |
-| | Vire | Ressort de la chambre de proximité de Vire. |
+| Calvados | Caen | | Ressort du tribunal judiciaire de Caen, à l'exception du ressort de la chambre de proximité de Vire Normandie. |
+| | Vire Normandie | Ressort de la chambre de proximité de Vire Normandie. |
 | Lisieux | | Ressort du tribunal judiciaire de Lisieux. |
 | Manche | Cherbourg-en-Cotentin | | Ressort du tribunal judiciaire de Cherbourg-en-Cotentin. |
 | | Avranches | Ressort de la chambre de proximité d'Avranches. |

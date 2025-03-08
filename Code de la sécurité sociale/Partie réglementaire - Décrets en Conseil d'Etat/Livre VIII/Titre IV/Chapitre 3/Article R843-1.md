@@ -18,9 +18,7 @@ IV.-Pour la prise en compte des ressources mentionnées au 1° du III et pour le
 
 1° Lorsque, au titre d'un même mois, le montant total des ressources à caractère professionnel déclarées pour un même allocataire au moyen de la déclaration prévue par le I ou le II bis de l'article L. 133-5-3 est négatif, le montant retenu pour cette catégorie de ressources est nul ;
 
-2° Lorsque, au titre d'un même mois, pour chaque catégorie de ressources énumérées au 1°, 2°, 3°, 4°, 7° de l'article R. 844-2, le montant total des ressources d'une même catégorie déclarées pour un même allocataire au moyen de la déclaration prévue par le II bis de l'article L. 133-5-3, hors celles mentionnées au 1°, est négatif, le montant retenu pour cette catégorie de ressources est nul. ;
-
-3° La première phrase de l'article R. 843-2 est remplacée par les dispositions suivantes : La révision du montant de la prime d'activité, en dehors du réexamen périodique, est réalisée, en application de la dérogation prévue à la dernière phrase de l'article L. 843-4, quand l'une des conditions mentionnées à l'article L. 842-7 est remplie ou lorsque le bénéficiaire et son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin interrompent la vie commune.
+2° Lorsque, au titre d'un même mois, pour chaque catégorie de ressources énumérées au 1°, 2°, 3°, 4°, 7° de l'article R. 844-2, le montant total des ressources d'une même catégorie déclarées pour un même allocataire au moyen de la déclaration prévue par le II bis de l'article L. 133-5-3, hors celles mentionnées au 1°, est négatif, le montant retenu pour cette catégorie de ressources est nul.
 
 NOTA:
 Conformément à l'article 6 du décret n° 2025-185 du 26 février 2025, ces dispositions s'appliquent aux demandes ou réexamens périodiques effectués à compter du 1er mars 2025.

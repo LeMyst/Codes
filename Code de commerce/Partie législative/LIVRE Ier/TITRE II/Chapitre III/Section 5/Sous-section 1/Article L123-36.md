@@ -8,13 +8,10 @@ Sont ainsi immatriculées, sur leurs déclarations :
 
 2° Les agents commerciaux mentionnés à l'article L. 134-1 ;
 
-3° Les personnes relevant du secteur des métiers et de l'artisanat mentionnées à l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ;
+3° Les personnes relevant du secteur des métiers et de l'artisanat mentionnées à l'article L. 111-1 du code de l'artisanat ;
 
 4° Les personnes exerçant une activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime ;
 
 5° Les personnes physiques, autres que celles mentionnées aux 1° à 4° ci-dessus, établies en France et exerçant une activité économique régulière et professionnelle, y compris une activité libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ;
 
 6° Les entreprises étrangères sans établissement stable en France.
-
-NOTA:
-Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

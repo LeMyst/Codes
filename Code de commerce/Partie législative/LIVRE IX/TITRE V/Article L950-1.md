@@ -32,7 +32,7 @@ L'article L. 145-16 est applicable dans sa rédaction résultant de l'ordonnance
 
 Les articles L. 227-10 et L. 227-19 sont applicables dans leur rédaction résultant de l'ordonnance n° 2017-747 du 4 mai 2017 ;
 
-Les articles L. 228-40, L. 228-46-1, L. 228-47, L. 228-53, L. 228-54, L. 228-58, L. 228-59, L. 228-77 et L. 228-79 à L. 228-81 sont applicables dans leur rédaction issue de l'ordonnance n° 2017-970 du 10 mai 2017 ;
+Les articles L. 228-40, L. 228-46-1, L. 228-47, L. 228-53, L. 228-54, L. 228-58, L. 228-77 et L. 228-79 à L. 228-81 sont applicables dans leur rédaction issue de l'ordonnance n° 2017-970 du 10 mai 2017 ;
 
 L'article L. 228-73 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
@@ -42,7 +42,7 @@ L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonna
 
 L' article L. 225-37-4 est applicable dans sa rédaction résultant de l' ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
 
-Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26, L. 235-1 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
 Les articles L. 225-42-1 et L. 225-90-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-697 du 3 juillet 2019 ;
 
@@ -52,15 +52,17 @@ L'article L. 225-32 est applicable dans sa rédaction résultant de l'ordonnance
 
 Les articles L. 225-197-1 et L. 225-197-2 sont applicables dans leur rédaction résultant de la loi n° 2023-1107 du 29 novembre 2023 portant transposition de l'accord national interprofessionnel relatif au partage de la valeur au sein de l'entreprise.
 
-Les articles L. 225-1, L. 225-18-1, L. 225-27, L. 225-37-4, L. 225-39, L. 225-45, L. 225-46, L. 225-47, L. 225-53, L. 225-63, L. 225-68, L. 225-69-1, L. 225-71, L. 225-83, L. 225-84, L. 225-85, L. 225-87, L. 225-96, L. 225-98, L. 225-99, L. 225-100, L. 225-106, L. 225-123, L. 225-125, L. 225-130, L. 225-135, L. 225-138, L. 225-146, L. 225-147-1, L. 225-149-3, L. 225-177, L. 225-179, L. 225-185, L. 225-186, L. 225-206, L. 225-208, L. 225-209-2, L. 225-211, L. 225-213, L. 225-214, L. 225-217, L. 225-218, L. 225-228, L. 225-231, L. 225-232, L. 225-252, L. 225-256, L. 226-4-1, L. 226-8, L. 226-10, L. 226-10-1, L. 228-15 et L. 228-35-9 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
+Les articles L. 225-1, L. 225-27, L. 225-37-4, L. 225-39, L. 225-45, L. 225-46, L. 225-53, L. 225-63, L. 225-68, L. 225-69-1, L. 225-71, L. 225-83, L. 225-84, L. 225-87, L. 225-96, L. 225-98, L. 225-99, L. 225-100, L. 225-106, L. 225-123, L. 225-125, L. 225-130, L. 225-135, L. 225-138, L. 225-146, L. 225-147-1, L. 225-149-3, L. 225-177, L. 225-179, L. 225-185, L. 225-186, L. 225-206, L. 225-208, L. 225-209-2, L. 225-211, L. 225-213, L. 225-214, L. 225-217, L. 225-218, L. 225-228, L. 225-231, L. 225-232, L. 225-252, L. 225-256, L. 226-4-1, L. 226-8, L. 226-10, L. 226-10-1, L. 228-15 et L. 228-35-9 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
 
 L'article L. 226-1 est applicable dans sa rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
 L'article L. 228-10 est applicable dans sa rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
 
-Les articles L. 22-10-1 à L. 22-10-6, L. 22-10-8, L. 22-10-9 et L. 22-10-11 à L. 22-10-23, L. 22-10-34 et L. 22-10-39 à L. 22-10-45, L. 22-10-47 à L. 22-10-51, L. 22-10-54 à L. 22-10-58 et L. 22-10-60 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 portant création, au sein du code de commerce, d'un chapitre relatif aux sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation.
+Les articles L. 22-10-1, L. 22-10-2, L. 22-10-4, L. 22-10-5, L. 22-10-9, L. 22-10-11 à L. 22-10-20, L. 22-10-22 et L. 22-10-23, L. 22-10-34 et L. 22-10-39 à L. 22-10-44, L. 22-10-47, L. 22-10-49 à L. 22-10-51, L. 22-10-54, L. 22-10-57 à L. 22-10-58, L. 22-10-60 à L. 22-10-73, L. 22-10-75, L. 22-10-77 et L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 portant création, au sein du code de commerce, d'un chapitre relatif aux sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation.
 
-Les articles L. 22-10-46, L. 22-10-46-1, L. 22-10-52, L. 22-10-52-1 et L. 22-10-53 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
+Les articles L. 22-10-46, L. 22-10-52, L. 22-10-52-1 et L. 22-10-53 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
+
+L'article L. 22-10-48 est applicable dans sa rédaction résultant de l'ordonnance n° 2025-230 du 12 mars 2025 ;
 
 Les articles L. 228-2, L. 228-3-1, L. 228-3-7, L. 228-29-7-1 à L. 228-29-7-4 et L. 22-10-43-1 sont applicables dans leur rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances ;
 
@@ -68,11 +70,13 @@ Les articles L. 223-42 et L. 225-248 sont applicables dans leur rédaction résu
 
 Les articles L. 229-3 et L. 229-5 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
-Les articles L. 235-8, L. 236-1 à L. 236-19, L. 236-23 à L. 236-27, L. 236-32 à L. 236-34, L. 236-37, L. 236-39, L. 236-41 à L. 236-47, L. 236-49, L. 236-51 et L. 236-53 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
+Les articles L. 236-1 et L. 236-2, L. 236-3 à L. 236-16, L. 236-18 et L. 236-19, L. 236-23 à L. 236-27, L. 236-32 à L. 236-34, L. 236-37, L. 236-39, L. 236-41 à L. 236-47, L. 236-49, L. 236-51 et L. 236-53 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
 
 L'article L. 225-102-1 est applicable dans sa rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense ;
 
 Les articles L. 225-124, L. 236-20 à L. 236-22, L. 236-28 à L. 236-31, L. 236-35, L. 236-36, L. 236-38, L. 236-40, L. 236-48, L. 236-50 et L. 236-52 sont applicables dans leur rédaction résultant de la loi n° 2024-364 du 22 avril 2024 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière d'économie, de finances, de transition écologique, de droit pénal, de droit social et en matière agricole ;
+
+Les articles L. 223-43, L. 224-3, L. 225-8, L. 225-18, L. 225-18-1, L. 225-19, L. 225-20, L. 225-22, L. 225-29, L. 225-44, L. 225-47, L. 225-48, L. 225-54, L. 225-59, L. 225-60, L. 225-67, L. 225-69-1, L. 225-70, L. 225-75, L. 225-81, L. 225-85, L. 225-121, L. 225-149-3, L. 225-149-4, L. 225-149-5, L. 226-3, L. 226-4, L. 226-4-1, L. 226-5, L. 227-9, L. 227-20-1, L. 228-15, L. 228-56, L. 228-59, L. 228-93, L. 228-95, L. 228-104, L. 22-10-3, L. 22-10-6, L. 22-10-8, L. 22-10-21, L. 22-10-26, L. 22-10-45, L. 22-10-46-1, L. 22-10-55, L. 22-10-55-1, L. 22-10-74, L. 22-10-76, L. 232-10, L. 236-2-1, L. 236-17, L. 236-19-1 et L. 821-5 sont applicables dans leur rédaction résultant de l'ordonnance n° 2025-229 du 12 mars 2025 portant réforme du régime des nullités en droit des sociétés.
 
 Les articles L. 221-6, L. 223-27, L. 225-35, L. 225-36, L. 225-64, L. 225-65, L. 225-82, L. 225-107, L. 228-11, L. 228-61, L. 228-65, L. 22-10-3-1, L. 22-10-21-1, L. 22-10-25, L. 22-10-38, L. 22-10-38-1 et L. 22-10-59 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
 
@@ -314,3 +318,6 @@ II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
 2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
+
+NOTA:
+Conformément à l’article 70 de l’ordonnance n° 2025-229 du 12 mars 2025, l’ordonnance précitée s’applique à compter du 1er octobre 2025.

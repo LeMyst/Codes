@@ -16,7 +16,7 @@ e) " Zone contrôlée rouge ", lorsqu'elle est égale ou supérieure à 100 mill
 
 2° Au titre de la dose équivalente pour les extrémités et la peau, " zone d'extrémités " ;
 
-3° Au titre de la concentration d'activité dans l'air du radon, " zone radon ".
+3° Au titre de la concentration d'activité du radon provenant du sol, " zone radon ".
 
 II.-La délimitation des zones définies au I est consignée dans le document unique d'évaluation des risques prévu à l'article R. 4121-1.
 

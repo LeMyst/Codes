@@ -4,7 +4,7 @@ Les prestations figurant aux numéros 113 à 126 du tableau 3-1 donnent lieu à 
 
 | Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
 | --- | --- | --- |
-| 113 | Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l' article 1244-4 du code civil . | 25,05 € |
+| 113 | Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution ou L. 131-73 du code monétaire et financier. | 25,05 € |
 | 114 | Procès-verbal de description des lieux (saisie immobilière) | 110,68 € |
 | 115 | Opposition à mariage | 33,31 € |
 | 116 | Signification en provenance d'un autre État | 48,85 € |
@@ -18,10 +18,3 @@ Les prestations figurant aux numéros 113 à 126 du tableau 3-1 donnent lieu à 
 | 124 | État descriptif | 64,48 € |
 | 125 | État descriptif avec diligences particulières | 97,79 € |
 | 126 | Procès-verbal de déplacement des scellés | 33,31 € |
-
-NOTA:
-Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
-
-1° - Le présent arrêté entre en vigueur le 1er mars 2024.
-
-2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

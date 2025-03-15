@@ -17,7 +17,7 @@ Les prestations figurant aux numéros 151 à 203 du tableau 3-3 donnent lieu à 
 | 161 | Notification au procureur et au créancier du refus du concours de la force publique | 21,50 € |
 | 162 | Requête au juge de l'exécution aux fins d'autorisation de saisie-vente | 21,50 € |
 | 163 | Requête au juge de l'exécution aux fins de désignation d'un séquestre | 15,05 € |
-| 164 | Communication au créancier saisissant et aux créanciers opposants des propositions de vente amiable | 21,50 € |
+| 164 | Communication au créancier saisissant, créanciers opposants et créanciers titulaires d'une sûreté publiée des propositions de vente amiable | 21,50 € |
 | 165 | Information des lieux, jour et heure de la vente | 15,05 € |
 | 166 | Notification à la personne tenue de délivrer ou de restituer le bien de l'acte de la remise volontaire ou de l'appréhension du bien | 10,75 € |
 | 167 | Notification à la personne tenue de délivrer ou de restituer le bien de la sommation de remettre | 15,05 € |
@@ -57,10 +57,3 @@ Les prestations figurant aux numéros 151 à 203 du tableau 3-3 donnent lieu à 
 | 201 | Notification de la modification ou de la mainlevée de la demande | 15,05 € |
 | 202 | Inventaire en cas de succession vacante | 53,74 € |
 | 203 | Délivrance d'une copie de l'inventaire dressé en cas de succession vacante | 21,50 € |
-
-NOTA:
-Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
-
-1° - Le présent arrêté entre en vigueur le 1er mars 2024.
-
-2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.

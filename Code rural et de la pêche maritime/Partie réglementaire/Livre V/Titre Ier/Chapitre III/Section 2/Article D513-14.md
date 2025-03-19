@@ -12,7 +12,11 @@ Les chambres situées dans des régions ou circonscriptions comprenant entre qua
 
 Les chambres situées dans des régions ou circonscriptions comprenant neuf chambres départementales ou interdépartementales ou plus disposent d'un deuxième, troisième et quatrième représentants, qui sont président ou vice-président de la chambre régionale siégeant à Chambres d'agriculture France.
 
-Les membres du conseil d'administration mentionnés au 2° et 3° sont élus au scrutin secret, dans les conditions définies à l'article D. 513-8. Toutefois, les chambres de région sont représentées par leur président.
+4° Les chambres d'agriculture de région comportant des chambres territoriales sont représentées par le président de la chambre d'agriculture de région. Elles disposent d'un second représentant, qui est président de l'une des chambres territoriales situées dans le ressort territorial de la chambre de région.
+
+Les chambres d'agriculture de région dépourvues de chambre territoriale disposent chacune d'un représentant qui est président ou premier vice-président de la chambre de région.
+
+Les membres du conseil d'administration mentionnés au 2°, 3° et 4° sont élus au scrutin secret, dans les conditions définies à l'article D. 513-8.
 
 Chaque membre dispose d'une voix.
 
@@ -23,3 +27,6 @@ Lorsqu'un membre du conseil d'administration désire qu'il soit mis fin à son m
 La perte de la qualité de président de chambre d'agriculture, la démission ou le décès entraîne la vacance du siège. Il est pourvu à la prochaine session de Chambres d'agriculture France au remplacement du membre.
 
 En cas d'empêchement, les membres du conseil d'administration peuvent donner pouvoir aux autres membres du conseil d'administration. Un membre du conseil d'administration ne peut recevoir qu'un seul pouvoir.
+
+NOTA:
+Conformément au second alinéa de l'article 2 du décret n° 2025-245 du 17 mars 2025, ces dispositions s'appliquent au conseil d'administration élu à l'ouverture de la première séance de la session issue du renouvellement général des chambres d'agriculture en 2025.

@@ -12,7 +12,6 @@ Ne peuvent être inscrits sur la liste prévue à l'article L. 165-1 :
 
 5° Les dispositifs médicaux intégrant une fonction de traitement de données personnelles ou impliquant un hébergement des données de santé à caractère personnel pour lesquels le fabricant ou le distributeur n'a pas joint au dossier prévu aux articles R. 165-7 et R. 165-10 le certificat de conformité aux référentiels mentionnés à l'article L. 1470-5 du code de la santé publique établi par le groupement d'intérêt public mentionné à l'article L. 1111-24 du même code ;
 
-6° Les dispositifs médicaux numériques mentionnés au 2° du I de l'article L. 162-48 présentant exclusivement des fonctionnalités de télésurveillance médicale.
+6° Les dispositifs médicaux numériques mentionnés au 2° du I de l'article L. 162-48 présentant exclusivement des fonctionnalités de télésurveillance médicale ;
 
-NOTA:
-Conformément au III de l'article 3 du décret n° 2022-1767 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
+7° Les dispositifs médicaux figurant sur la liste prévue à l'article L. 5212-1-1 du code de la santé publique dont les caractéristiques, lors de la mise en service, font obstacle à leur remise en bon état d'usage.

@@ -6,7 +6,7 @@ Ces actions de préférence ne peuvent être créées qu'au bénéfice d'une ou 
 
 Pour les sociétés dont les titres sont admis à la négociation sur un système multilatéral de négociation, le ratio entre les droits de vote attachés à une action de préférence et ceux attachés à une action ordinaire ne peut excéder vingt-cinq pour un et doit être un nombre entier.
 
-II.-Les actions de préférence sont créées pour une durée déterminée ou déterminable qui ne peut excéder dix ans. Cette durée peut être renouvelée par l'assemblée générale extraordinaire des actionnaires statuant au vu d'un rapport spécial des commissaires aux comptes de la société, dans des conditions définies par décret en Conseil d'Etat. A peine de nullité de la délibération, les titulaires des actions de préférence ne peuvent prendre part, directement ou indirectement, au vote sur le renouvellement de cette durée et les actions de préférence qu'ils détiennent ne sont pas prises en compte pour le calcul du quorum ni de la majorité, à moins que l'ensemble des actionnaires soient titulaires d'actions de préférence. Un tel renouvellement ne peut intervenir qu'une fois et pour une durée ne pouvant excéder cinq ans. L'article 1844-12-1 du code civil n'est pas applicable à l'action en nullité exercée sur le fondement du présent alinéa.
+II.-Les actions de préférence sont créées pour une durée déterminée ou déterminable qui ne peut excéder dix ans. Cette durée peut être renouvelée par l'assemblée générale extraordinaire des actionnaires statuant au vu d'un rapport spécial des commissaires aux comptes de la société, dans des conditions définies par décret en Conseil d'Etat. A peine de nullité de la délibération, les titulaires des actions de préférence ne peuvent prendre part, directement ou indirectement, au vote sur le renouvellement de cette durée et les actions de préférence qu'ils détiennent ne sont pas prises en compte pour le calcul du quorum ni de la majorité, à moins que l'ensemble des actionnaires soient titulaires d'actions de préférence. Un tel renouvellement ne peut intervenir qu'une fois et pour une durée ne pouvant excéder cinq ans.
 
 III.-Chaque action de préférence mentionnée au I du présent article est convertie en action ordinaire :
 
@@ -39,6 +39,3 @@ Lorsqu'il est fait application des 1° et 2° du présent IV, les statuts de la 
 V.-Par dérogation au deuxième alinéa du I, pour les situations prévues au IV, les actions de préférence confèrent un droit de vote double à celui conféré aux autres actions lorsqu'elles respectent les conditions prévues aux articles L. 225-123 et L. 22-10-46.
 
 VI.-Les informations relatives au nombre et à la durée des actions de préférence émises dans les conditions prévues au présent article, à l'identité des bénéficiaires desdites actions ainsi qu'aux droits de vote qui leur sont attachés en fonction des résolutions d'assemblée générale sont publiées selon des modalités fixées par décret en Conseil d'Etat.
-
-NOTA:
-Conformément à l’article 70 de l’ordonnance n° 2025-229 du 12 mars 2025, l’ordonnance précitée s’applique à compter du 1er octobre 2025.

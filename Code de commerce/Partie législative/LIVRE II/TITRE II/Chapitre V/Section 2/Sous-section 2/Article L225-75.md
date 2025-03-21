@@ -1,10 +1,7 @@
 # Article L225-75
 
-Sous réserve des dispositions de l'article L. 225-78, les membres du conseil de surveillance sont nommés par l'assemblée générale constitutive ou par l'assemblée générale ordinaire. Dans le cas prévu à l'article L. 225-16, ils sont désignés dans les statuts. La durée de leurs fonctions est déterminée par les statuts, sans pouvoir excéder six ans. Toutefois, en cas de fusion ou de scission, la nomination peut être faite par l'assemblée générale extraordinaire.
-
-Toute nomination intervenue en violation du précédent alinéa est nulle. L'article 1844-12-1 du code civil n'est pas applicable.
+Les membres du conseil de surveillance sont nommés par l'assemblée générale constitutive ou par l'assemblée générale ordinaire. Dans le cas prévu à l'article L. 225-16, ils sont désignés dans les statuts. La durée de leurs fonctions est déterminée par les statuts, sans pouvoir excéder six ans. Toutefois, en cas de fusion ou de scission, la nomination peut être faite par l'assemblée générale extraordinaire.
 
 Ils sont rééligibles, sauf stipulation contraire des statuts. Ils peuvent être révoqués à tout moment par l'assemblée générale ordinaire.
 
-NOTA:
-Conformément à l’article 70 de l’ordonnance n° 2025-229 du 12 mars 2025, l’ordonnance précitée s’applique à compter du 1er octobre 2025.
+Toute nomination intervenue en violation des dispositions précédentes est nulle à l'exception de celles auxquelles il peut être procédé dans les conditions prévues à l'article L. 225-78.

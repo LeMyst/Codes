@@ -16,13 +16,10 @@ Lorsque la résolution n'est pas approuvée et qu'une politique de rémunératio
 
 En l'absence de politique de rémunération précédemment approuvée dans les conditions prévues au présent article, si l'assemblée générale des actionnaires et les commandités n'approuvent pas le projet de résolution, la rémunération est déterminée conformément à la rémunération attribuée au titre de l'exercice précédent ou, en l'absence de rémunération attribuée au titre de l'exercice précédent, conformément aux pratiques existant au sein de la société, et un projet de résolution présentant une politique de rémunération révisée et indiquant de quelle manière ont été pris en compte le vote des actionnaires et des commandités et, le cas échéant, les avis exprimés lors de l'assemblée générale est soumis à l'approbation de la prochaine assemblée générale ordinaire et à l'accord des commandités donné, sauf clause contraire, à l'unanimité.
 
-III.-Aucun élément de rémunération des mandataires sociaux, de quelque nature que ce soit, ne peut être déterminé, attribué ou versé par la société, ni aucun engagement correspondant à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la prise, de la cessation ou du changement de leurs fonctions ou postérieurement à l'exercice de celles-ci ne peut être pris par la société, s'il n'est pas conforme à la politique de rémunération approuvée ou, en son absence, aux rémunérations ou aux pratiques mentionnées au dernier alinéa du II.
+III.-Aucun élément de rémunération, de quelque nature que ce soit, ne peut être déterminé, attribué ou versé par la société, ni aucun engagement correspondant à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la prise, de la cessation ou du changement de leurs fonctions ou postérieurement à l'exercice de celles-ci ne peut être pris par la société, s'il n'est pas conforme à la politique de rémunération approuvée ou, en son absence, aux rémunérations ou aux pratiques mentionnées au dernier alinéa du II.
 
 Toutefois, les associés commandités, en ce qui concerne le ou les gérants, ou le conseil de surveillance, en ce qui concerne les membres du conseil de surveillance, peuvent déroger à l'application de la politique de rémunération si cette dérogation est temporaire, subordonnée à la survenance de circonstances exceptionnelles, conforme à l'intérêt social et nécessaire pour garantir la pérennité ou la viabilité de la société.
 
-Tout versement, attribution ou engagement effectué ou pris en méconnaissance des dispositions du présent III est nul. L'article 1844-12-1 du code civil n'est pas applicable.
+Tout versement, attribution ou engagement effectué ou pris en méconnaissance des dispositions du présent III est nul dans cette mesure.
 
 IV.-Les éléments ou les engagements mentionnés au premier alinéa du III sont déterminés, attribués, ou pris par délibération du conseil de surveillance.
-
-NOTA:
-Conformément à l’article 70 de l’ordonnance n° 2025-229 du 12 mars 2025, l’ordonnance précitée s’applique à compter du 1er octobre 2025.

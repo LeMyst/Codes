@@ -318,6 +318,3 @@ II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
 2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
-
-NOTA:
-Conformément à l’article 70 de l’ordonnance n° 2025-229 du 12 mars 2025, l’ordonnance précitée s’applique à compter du 1er octobre 2025.

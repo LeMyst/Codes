@@ -4,5 +4,6 @@
 
 | | | |
 | --- | --- | --- |
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies |
-| Dermites eczématiformes récidivant en cas de nouvelle exposition au risque épicutané ou confirmées par un test. | 15 jours | Nickelage électrolytique des métaux. |
+| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies |
+| Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test | 7 jours | Nickelage électrolytique des métaux. |
+| Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test | 7 jours |

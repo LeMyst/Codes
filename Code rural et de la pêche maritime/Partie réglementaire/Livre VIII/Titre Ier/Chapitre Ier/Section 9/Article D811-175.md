@@ -1,3 +1,14 @@
 # Article D811-175
 
-Dans les cas où la gravité des faits l'exige, l'annulation de l'examen ou du concours peut être assortie de l'interdiction de subir pendant deux ans au plus tout examen ou concours public organisé par le ministre de l'agriculture ou placé sous la présidence d'un fonctionnaire désigné par lui. Dans ce cas, la décision d'annulation et d'interdiction est prise par le ministre de l'agriculture, sur rapport et proposition du président du jury et après que le rapport a été communiqué à l'intéressé. Elle est motivée et notifiée à l'intéressé dans les conditions prévues à l'article D. 811-174.
+L'agent qui estime constater une fraude, tentative de fraude ou fausse déclaration :
+
+1° Lorsque l'agissement entache une épreuve, le fait cesser par tout moyen sans interrompre la participation à celle-ci des auteurs et complices ;
+
+2° Décrit ses constatations dans un procès-verbal, qu'il date et signe et qu'il fait contresigner, selon le cas, par son autorité hiérarchique, le chef de centre ou le cas échéant le chef d'établissement ;
+
+3° Recueille la contresignature de chacune des personnes suspectées de fraude ou tentative de fraude ou mentionne leur refus de contresignature ;
+
+Le procès-verbal est transmis au président du jury dans un délai d'un mois à compter de la date du procès-verbal.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-229 du 20 mars 2025, ces dispositions s'appliquent à la répression des fraudes, tentatives de fraude et fausses déclarations commises à compter de son entrée en vigueur, soit le 23 mars 2025.

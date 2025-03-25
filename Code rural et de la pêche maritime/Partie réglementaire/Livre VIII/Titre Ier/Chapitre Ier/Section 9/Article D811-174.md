@@ -1,13 +1,20 @@
 # Article D811-174
 
-Toute fraude, tentative de fraude ou fausse déclaration commise lors de l'inscription à l'un des examens ou concours publics organisés par le ministre de l'agriculture ou placés sous la présidence d'un fonctionnaire désigné par lui entraîne pour son auteur l'annulation de l'examen ou du concours.
+La fraude, tentative de fraude ou fausse déclaration aux examens ou concours publics que le ministre chargé de l'agriculture organise ou dont il désigne le président entraîne pour ses auteurs et complices, à titre de sanction et selon le cas, les mesures prévues au 1° ou le cumul des mesures prévues aux 1° et 2°.
 
-Il en est de même de toute fraude ou tentative de fraude commise au cours d'un examen ou d'un concours. Toutefois, si l'acte a été commis au cours d'une épreuve de contrôle continu, il entraîne l'annulation de l'épreuve terminale correspondante.
+1° Toute fraude, tentative de fraude ou fausse déclaration entraîne pour ses auteur et complice :
 
-La décision d'annulation est prise sur rapport et proposition du président du jury, et après que le rapport a été communiqué à l'intéressé, soit par le directeur régional de l'agriculture, soit par le ministre de l'agriculture selon que l'examen ou le concours a été organisé par l'une ou l'autre de ces autorités.
+a) Lorsqu'elle est commise à l'inscription, la nullité de l'examen ou du concours ;
 
-En cas de flagrant délit, le président du jury ou son délégué peut exclure immédiatement le candidat des épreuves, et proposer l'annulation de l'examen ou du concours dans les conditions de l'alinéa précédent.
+b) Lorsqu'elle est commise à une épreuve de concours, la nullité du concours ;
 
-Les mêmes mesures peuvent être prises à l'encontre des complices de la fraude ou tentative de fraude.
+c) Lorsqu'elle est commise à une épreuve d'examen selon la modalité contrôle en cours de formation et/ ou épreuve ponctuelle terminale, la nullité de cette épreuve, l'exclusion de la session d'examen, l'interdiction de présenter la même épreuve à une session ultérieure sous la forme d'un contrôle en cours de formation et l'impossibilité, à cette nouvelle session, d'obtenir une mention. Le candidat qui fait le choix de représenter l'intégralité des épreuves de son diplôme peut prétendre à une mention ;
 
-La décision, qui doit être motivée, est notifiée au candidat en cause, avec copie adressée au chef de l'établissement fréquenté en dernier lieu par celui-ci.
+2° Une fraude, tentative de fraude ou fausse déclaration qui présente un caractère particulier de gravité entraîne en outre pour ses auteurs et complices :
+
+a) Lorsqu'elle est commise à un concours, l'interdiction de se présenter à tout concours que le ministre chargé de l'agriculture organise ou dont il désigne le président pendant une durée maximale de deux ans ;
+
+b) Lorsqu'elle est commise à un examen, l'interdiction de se présenter à tout examen que le ministre chargé de l'agriculture organise pendant une durée maximale de deux ans.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-229 du 20 mars 2025, ces dispositions s'appliquent à la répression des fraudes, tentatives de fraude et fausses déclarations commises à compter de son entrée en vigueur, soit le 23 mars 2025.

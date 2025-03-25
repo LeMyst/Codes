@@ -30,4 +30,6 @@ En application du 3° de l'article L. 1242-2, les secteurs d'activité dans lesq
 
 14° La recherche scientifique réalisée dans le cadre d'une convention internationale, d'un arrangement administratif international pris en application d'une telle convention, ou par des chercheurs étrangers résidant temporairement en France ;
 
-15° Les activités foraines.
+15° Les activités foraines ;
+
+16° Les activités de soutien et de fourniture mentionnées au deuxième alinéa de l'article L. 3421-1 du code de la défense assurées à l'étranger.

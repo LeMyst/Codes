@@ -10,8 +10,13 @@ Il remplit les missions suivantes :
 
 - il apporte son concours à la coopération pour le développement de l'agriculture des pays tiers ;
 
-- il assure la gestion d'un observatoire national de l'installation pour analyser les données relatives à l'installation et à la transmission, qu'il recueille notamment auprès de l'établissement mentionné à l'article L. 313-1 et auprès des organismes mentionnés à l'article L. 723-1 ;
+- il assure la gestion d'un observatoire national de l'installation et de la transmission pour analyser les données relatives à l'installation et à la transmission, qu'il recueille notamment à l'aide du répertoire départemental unique mentionné au II de l'article L. 330-4, auprès de l'établissement mentionné à l'article L. 313-1 et auprès des organismes mentionnés à l'article L. 723-1 ;
+
+- il contribue à assurer la promotion de la mission de service public liée à la politique d'installation et de transmission en agriculture mentionnée au 4° de l'article L. 511-4 ;
 
 - il assure la collecte et le traitement de données relatives aux exploitations, collectées par les établissements mentionnés à l'article L. 212-7, qui sont notamment requises par le règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale, dit “ législation sur la santé animale ” ;
 
 - il peut assurer la collecte et le traitement de données relatives à l'identification et à la traçabilité des animaux, qui sont requises par le même règlement.
+
+NOTA:
+Se reporter aux modalités d’entrée en vigueur prévues au II de l’article 24 de la loi n° 2025-268 du 24 mars 2025.

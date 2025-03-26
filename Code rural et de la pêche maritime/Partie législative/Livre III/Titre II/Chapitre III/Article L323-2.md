@@ -6,7 +6,7 @@ Les activités mentionnées au premier alinéa du présent article peuvent être
 
 Les associés d'un groupement agricole d'exploitation en commun total ne peuvent se livrer à l'extérieur du groupement, à titre individuel ou dans un cadre sociétaire, à une activité correspondant à la maîtrise et à l'exploitation d'un cycle biologique de caractère végétal ou animal et constituant une ou plusieurs étapes nécessaires au déroulement de ce cycle.
 
-Les associés d'un groupement agricole d'exploitation en commun ne peuvent se livrer à l'extérieur du groupement, à titre individuel ou dans un cadre sociétaire, à l'une des activités mentionnées au même article L. 311-1 pratiquées par le groupement.
+Les associés d'un groupement agricole d'exploitation en commun ne peuvent se livrer à l'extérieur du groupement, à titre individuel ou dans un cadre sociétaire, à l'une des activités mentionnées au même article L. 311-1 pratiquées par le groupement, à l'exception des activités de vente de la production du groupement exercées dans un magasin de producteurs défini à l'article L. 611-8 et dans les conditions prévues au troisième alinéa de l'article L. 323-7.
 
 Un groupement agricole d'exploitation en commun total peut, sans perdre sa qualité, participer, en tant que personne morale associée d'une autre société, à la production et, le cas échéant, à la commercialisation de produits de la méthanisation agricole, au sens dudit article L. 311-1. Un groupement agricole d'exploitation en commun total peut également, sans perdre sa qualité, participer en tant que personne morale associée d'un groupement pastoral, au sens de l'article L. 113-3, à l'exploitation de pâturages.
 

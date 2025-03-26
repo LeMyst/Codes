@@ -1,6 +1,6 @@
 # Article L813-8
 
-Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa de l'article L. 811-5, l'association ou l'organisme responsable, et lié à l'Etat par contrat, désigne le chef d'établissement qui doit détenir les titres et présenter les qualifications comparables à ceux requis dans l'enseignement agricole public. Cette désignation est aussitôt notifiée à l'autorité administrative. Le chef d'établissement détient l'autorité au sein de l'établissement. Il est associé à l'appréciation de la valeur professionnelle des enseignants et aux décisions concernant le déroulement de leur carrière.
+Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa de l'article L. 811-5, l'association ou l'organisme responsable, et lié à l'Etat par contrat, désigne le chef d'établissement qui doit justifier des qualifications et de l'expérience professionnelle prévues par voie réglementaire. Le chef d'établissement détient l'autorité au sein de l'établissement. Il est associé à l'appréciation de la valeur professionnelle des enseignants et aux décisions concernant le déroulement de leur carrière.
 
 Les personnels enseignants et de documentation de ces établissements sont nommés par le ministre de l'agriculture, après vérification de leurs titres et de leurs qualifications, sur proposition du chef d'établissement. Ils sont liés par un contrat de droit public à l'Etat, qui les rémunère directement par référence aux échelles de rémunération d'agents publics exerçant des fonctions comparables et ayant les mêmes niveaux de formation. En leur qualité d'agent public, ils ne sont pas, au titre des fonctions pour lesquelles ils sont employés et rémunérés par l'Etat, liés par un contrat de travail à l'établissement au sein duquel l'enseignement leur est confié. Un décret en Conseil d'Etat précise les modalités de cette rémunération.
 
@@ -10,9 +10,6 @@ Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner pr
 
 Le contrat type liant le personnel enseignant et de documentation à l'Etat est approuvé par décret en Conseil d'Etat.
 
+Les personnels enseignants et de documentation mentionnés au deuxième alinéa du présent article bénéficient des dispositions applicables aux personnels mentionnés à l'article L. 811-4 en matière de rupture conventionnelle.
+
 L'association ou l'organisme intéressé reçoit une subvention de fonctionnement versée par élève et par an qui tient compte des conditions de scolarisation et qui est déterminée en fonction du coût moyen des charges de personnel non enseignant et des dépenses, autres que celles visées au deuxième alinéa du présent article, des formations correspondantes de l'enseignement agricole public.
-
-NOTA:
-Conformément au VII de l'article 94 de la loi n° 2019-828 du 6 août 2019 et au II de l'article 229 de la loi n° 2020-1721 du 29 décembre 2020 , ces dispositions entrent en vigueur le 1er janvier 2021 et sont applicables aux entretiens professionnels conduits au titre de l'année 2020.
-
-Conformément aux dispositions du XX du même article, ces dispositions s'appliquent nonobstant toute disposition statutaire contraire.

@@ -1,50 +1,70 @@
 # Article L1
 
-I.-La politique en faveur de l'agriculture et de l'alimentation, dans ses dimensions internationale, européenne, nationale et territoriale, a pour finalités :
+I A.-La politique en faveur de la souveraineté alimentaire mentionnée à l'article L. 1 A a pour priorités :
 
-1° A De sauvegarder et, pour les filières les plus à risque, de reconquérir la souveraineté alimentaire de la France et de promouvoir l'indépendance alimentaire de la France à l'international, en préservant son modèle agricole ainsi que la qualité et la sécurité de son alimentation et en préservant les agriculteurs de la concurrence déloyale de produits importés issus de systèmes de production ne respectant pas les normes imposées par la réglementation européenne ;
+1° D'assurer la pérennité et l'attractivité de l'agriculture ainsi que le renouvellement de ses générations d'actifs, en facilitant l'installation, la transmission et la reprise d'exploitations ;
 
-1° Dans le cadre de la politique de l'alimentation définie par le Gouvernement, d'assurer à la population l'accès à une alimentation sûre, saine, diversifiée, de bonne qualité et en quantité suffisante, produite dans des conditions économiquement et socialement acceptables par tous, favorisant l'emploi, la protection de l'environnement et des paysages et contribuant à l'atténuation et à l'adaptation aux effets du changement climatique ;
+2° D'assurer, dans le cadre de la politique de l'alimentation, la sécurité alimentaire et sanitaire de la Nation ;
 
-2° De développer des filières de production et de transformation alliant performance économique, sociale, notamment à travers un haut niveau de protection sociale, environnementale et sanitaire, capables de relever le double défi de la compétitivité et de la transition écologique, dans un contexte de compétition internationale ;
+3° D'assurer un haut niveau de compétitivité de l'agriculture ;
 
-3° De soutenir le revenu, de développer l'emploi et d'améliorer la qualité de vie des agriculteurs et des salariés ainsi que de préserver le caractère familial de l'agriculture et l'autonomie et la responsabilité individuelle de l'exploitant ;
+4° De soutenir la recherche et l'innovation notamment pour favoriser les transitions climatique et environnementale de l'agriculture ;
 
-4° De soutenir la recherche, l'innovation et le développement, en particulier des filières de produits biosourcés et de la chimie végétale ;
+5° D'assurer la juste rémunération des actifs en agriculture.
 
-5° De contribuer à la protection de la santé publique et de la santé des agriculteurs et des salariés du secteur agricole, de veiller au bien-être et à la santé des animaux, à la santé des végétaux et à la prévention des zoonoses ;
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2025-876 DC du 20 mars 2025.]
 
-6° De développer la valeur ajoutée dans chacune des filières agricoles et alimentaires et de renforcer la capacité exportatrice de la France ;
+La France tire le plein parti des règles européennes en matière d'agriculture, en particulier dans le cadre de la politique agricole commune.
 
-7° De rechercher l'équilibre des relations commerciales, notamment par un meilleur partage de la valeur ajoutée ;
+I.-Les priorités mentionnées au I A se traduisent par des politiques ayant pour finalités :
 
-8° De participer au développement des territoires de façon équilibrée et durable, en prenant en compte les situations spécifiques à chaque région ;
+1° De sauvegarder et, pour les filières les plus à risque, de reconquérir la souveraineté alimentaire de la France, en maintenant et en développant ses systèmes de production et ses filières nationales de production, de transformation et de distribution ainsi que leur valeur ajoutée, en alliant performance économique, sociale, sanitaire et environnementale et en protégeant les agriculteurs de la concurrence déloyale de produits importés issus de systèmes de production ne respectant pas les normes imposées par la réglementation européenne ;
 
-9° D'encourager l'ancrage territorial de la production, de la transformation et de la commercialisation des produits agricoles, y compris par la promotion de circuits courts, et de favoriser la diversité des produits et le développement des productions sous signes d'identification de la qualité et de l'origine ;
+2° De garantir une sécurité alimentaire permettant l'accès de l'ensemble de la population à une alimentation suffisante, saine, sûre, diversifiée et nutritive, tout au long de l'année, et de concourir à la lutte contre la précarité alimentaire définie à l'article L. 266-1 du code de l'action sociale et des familles ;
 
-10° De promouvoir l'information des consommateurs quant aux lieux et modes de production et de transformation des produits agricoles et agro-alimentaires ;
+3° D'améliorer la compétitivité et la coopération agricoles sur le plan international, de soutenir les capacités exportatrices contribuant à la sécurité alimentaire mondiale, de maîtriser et de réduire les dépendances aux importations dans les filières stratégiques pour la souveraineté alimentaire et de sécuriser les approvisionnements alimentaires du pays, en privilégiant l'approvisionnement national, dans le respect des règles du marché intérieur de l'Union européenne et des engagements internationaux ;
 
-10° bis De reconnaître et mieux valoriser les externalités positives de l'agriculture, notamment en matière de services environnementaux et d'aménagement du territoire ;
+4° De veiller, dans tout accord de libre-échange, au respect du principe de réciprocité et à une exigence de conditions de production comparables pour ce qui concerne l'accès au marché ainsi qu'à un degré élevé d'exigence dans la coopération en matière de normes sociales, environnementales, sanitaires et relatives au bien-être animal, en vue d'une protection toujours plus forte des consommateurs et d'une préservation des modèles et des filières agricoles français et européens ;
 
-11° De promouvoir la conversion et le développement de l'agriculture et des filières biologiques, au sens de l'article L. 641-13, , et d'atteindre, au 31 décembre 2022, l'objectif d'affectation de 15 % de la surface agricole utile à l'agriculture biologique, au sens du même article L. 641-13 ;
+5° De répondre à l'accroissement démographique, en rééquilibrant les termes des échanges entre pays dans un cadre européen et de coopération internationale fondé sur le respect du principe de souveraineté alimentaire permettant un développement durable et équitable, en contribuant à la lutte contre la faim dans le monde et en soutenant l'émergence et la consolidation de l'autonomie alimentaire dans le monde ;
 
-12° De concourir à la transition énergétique, en contribuant aux économies d'énergie, au développement des énergies renouvelables et à l'indépendance énergétique de la nation, notamment par la valorisation optimale et durable des sous-produits d'origine agricole et agroalimentaire dans une perspective d'économie circulaire et de retour de la valeur aux agriculteurs ;
+6° De rechercher des solutions techniques et scientifiques utiles aux transitions climatique et environnementale et d'accompagner les agriculteurs pour surmonter de façon résiliente les crises de toute nature susceptibles de porter atteinte aux capacités de production et à l'approvisionnement alimentaire nationaux ;
 
-13° De concourir à la lutte contre la précarité alimentaire telle que définie à l'article L. 266-1 du code de l'action sociale et des familles ;
+7° De reconnaître et de mieux valoriser les externalités positives de l'agriculture, notamment en matière de services environnementaux et d'aménagement du territoire ;
 
-14° De répondre à l'accroissement démographique, en rééquilibrant les termes des échanges entre pays dans un cadre européen et de coopération internationale fondé sur le respect du principe de souveraineté alimentaire permettant un développement durable et équitable, en luttant contre la faim dans le monde et en soutenant l'émergence et la consolidation de l'autonomie alimentaire dans le monde ;
+8° De préserver et de développer les réseaux d'irrigation nécessaires à une gestion durable de la production et des surfaces agricoles ;
 
-15° De contribuer à l'organisation collective des acteurs ;
+9° De favoriser l'installation économiquement viable d'exploitations agricoles en agriculture biologique, au sens de l'article L. 641-13 du présent code, en veillant à l'adéquation entre l'offre et la demande sur le marché national, et pour atteindre les objectifs inscrits dans le programme national sur l'ambition en agriculture biologique, de manière notamment à ce que l'agriculture biologique représente 21 % de la surface agricole utile cultivée au 1er janvier 2030 ;
 
-16° De développer des dispositifs de prévention et de gestion des risques ;
+10° De préserver la surface agricole utile ;
 
-17° De protéger et de valoriser les terres agricoles ;
+11° De promouvoir l'autonomie de l'Union européenne et de la France en protéines, en fixant un objectif national de surface agricole utile cultivée en légumineuses de 10 % d'ici au 1er janvier 2030 et d'atteinte de l'autonomie protéique nationale en 2050 ;
 
-18° De promouvoir l'autonomie de la France et de l'Union européenne en protéines, notamment en portant la surface agricole utile française cultivée en légumineuses à 8 % d'ici le 1er janvier 2030 ;
+12° De concourir aux transitions énergétique et climatique, en contribuant aux économies d'énergie et au développement des matériaux décarbonés et des énergies renouvelables ainsi qu'à l'indépendance énergétique de la Nation, notamment par la valorisation optimale et durable des sous-produits d'origine agricole et agroalimentaire dans une perspective d'économie circulaire et de retour de la valeur aux agriculteurs ;
 
-19° De veiller dans tout nouvel accord de libre-échange au respect du principe de réciprocité et à une exigence de conditions de production comparables pour ce qui concerne l'accès au marché, ainsi qu'à un degré élevé d'exigence dans la coopération en matière de normes sociales, environnementales, sanitaires, phytosanitaires et relatives au bien-être animal, en vue d'une protection toujours plus forte des consommateurs et d'une préservation des modèles agricoles européens ;
+13° De soutenir la recherche, l'innovation et le développement, notamment dans les domaines de la préservation de la santé des sols, des semences, des nouvelles techniques génomiques, de la sélection variétale, des fertilisants agricoles, de la production de biomasse, y compris sylvicole, des solutions fondées sur la nature et de la réduction des dépendances à l'égard des intrants de toute nature ;
 
-20° De favoriser l'acquisition pendant l'enfance et l'adolescence d'une culture générale de l'alimentation soulignant les enjeux culturels, environnementaux, économiques et de santé publique liés aux choix alimentaires.
+14° De maintenir un haut niveau de protection des cultures, en soutenant la recherche en faveur de solutions apportées aux agriculteurs économiquement viables, techniquement efficaces et compatibles avec le développement durable, afin de diminuer l'usage des produits phytopharmaceutiques et, à défaut de telles solutions, en s'abstenant d'interdire les usages de produits phytopharmaceutiques autorisés par l'Union européenne ;
+
+15° De définir des dispositifs de prévention et de gestion des risques ;
+
+16° De participer au développement des territoires de façon équilibrée et durable concourant notamment à la qualité des services à la population, en prenant en compte les situations spécifiques à chaque région, notamment des zones dites “ intermédiaires ” et des zones de montagne, d'encourager l'ancrage territorial de la production, de la transformation et de la commercialisation des produits agricoles, y compris par la promotion de circuits courts, et de favoriser la diversité des produits par le développement des productions sous des signes d'identification de la qualité et de l'origine ;
+
+17° De veiller à une juste rémunération des exploitants, des salariés et des non-salariés des secteurs agricole et agroalimentaire ainsi qu'à leurs conditions de travail, leur protection sociale et leur qualité de vie, de préserver un modèle d'exploitation agricole familiale, de rechercher l'équilibre des relations commerciales, notamment par un meilleur partage de la valeur ajoutée, et de contribuer à l'organisation collective des acteurs ;
+
+18° De reconnaître et de valoriser le rôle des femmes en agriculture, en veillant à ce qu'elles puissent exercer sous un statut adapté à leur situation et soient informées et accompagnées dans le choix des modes d'exercice de leur profession, en bénéficiant d'un accès facilité au statut de chef d'exploitation, à la formation continue, à une rémunération équitable et à une protection et une action sociales aux règles adaptées pour tenir pleinement compte des spécificités des métiers et des contraintes des femmes chefs d'exploitations et salariées agricoles, notamment par la prise en compte de leurs parcours professionnels pour améliorer le calcul des droits à retraite ;
+
+19° De contribuer à la protection de la santé publique et de la santé des agriculteurs et des salariés du secteur agricole, en assurant le développement de la prévention sanitaire des actifs agricoles, et de veiller au bien-être et à la santé des animaux, à la santé des végétaux et à la prévention des zoonoses en prenant en compte l'approche “ une seule santé ” ;
+
+20° D'assurer le maintien de l'élevage et de l'agropastoralisme en France et de lutter contre la décapitalisation, par un plan stratégique déterminant notamment les objectifs de production, en assurant l'approvisionnement en protéines animales des Français et en maintenant l'ensemble des fonctionnalités environnementales, sociales, économiques et territoriales de l'élevage ainsi que ses complémentarités agronomiques avec les productions végétales ;
+
+21° De promouvoir la souveraineté en fruits et légumes par un plan stratégique ;
+
+22° De favoriser l'acquisition pendant l'enfance et l'adolescence d'une culture générale de l'alimentation et de l'agriculture, en soulignant les enjeux culturels, environnementaux, économiques et de santé publique des choix alimentaires ;
+
+23° De promouvoir l'information des consommateurs quant aux lieux et aux modes de production et de transformation des produits agricoles et agroalimentaires ;
+
+24° De veiller à mettre en œuvre une fiscalité compatible avec l'objectif d'amélioration du potentiel productif agricole.
 
 La politique d'aménagement rural définie à l'article L. 111-2 et les dispositions particulières aux professions agricoles en matière de protection sociale et de droit du travail prévues au livre VII contribuent à ces finalités.
 
@@ -56,7 +76,7 @@ L'Etat encourage le recours par les agriculteurs à des pratiques et à des syst
 
 L'Etat facilite les interactions entre sciences sociales et sciences agronomiques pour faciliter la production, le transfert et la mutualisation de connaissances, y compris sur les matériels agricoles, nécessaires à la transition vers des modèles agroécologiques, en s'appuyant notamment sur les réseaux associatifs ou coopératifs.
 
-L'Etat veille à la promotion de la préservation et de l'implantation des haies et des alignements d'arbres intraparcellaires, en prenant en compte les besoins constatés dans les territoires, dans le but de stocker du carbone, de préserver les abris des auxiliaires de cultures, de lutter contre l'érosion des sols et d'améliorer la qualité et l'infiltration de l'eau dans le sol.
+L'Etat veille à la promotion de la préservation, de la gestion durable et de l'implantation des haies et des alignements d'arbres intraparcellaires, en prenant en compte les besoins constatés dans les territoires, dans le but de stocker du carbone, de préserver les abris des auxiliaires de cultures, de lutter contre l'érosion des sols et d'améliorer la qualité et l'infiltration de l'eau dans le sol afin de tendre, à compter du 1er janvier 2030, par rapport au 1er janvier 2024, à une augmentation nette du linéaire de haies de 50 000 kilomètres, à un linéaire de haies en gestion durable, au sens de l'article L. 611-9, de 100 000 kilomètres et, à compter du 1er janvier 2048, à un linéaire de haies de 500 000 kilomètres, géré durablement, sur l'ensemble du territoire métropolitain et ultramarin. Il veille à la promotion de la valorisation économique des haies gérées durablement.
 
 L'Etat veille à la promotion de la préservation des surfaces agricoles en prairies permanentes et de leur gestion durable, associant production agricole et externalités positives en termes de stockage de carbone et de biodiversité.
 
@@ -72,27 +92,30 @@ Les actions répondant aux objectifs du programme national pour l'alimentation e
 
 Le Conseil national de l'alimentation, qui comprend un député et un sénateur, désignés respectivement par le Président de l'Assemblée nationale et par le Président du Sénat, participe à l'élaboration du programme national pour l'alimentation, notamment par l'analyse des attentes de la société et par l'organisation de débats publics, et contribue au suivi de sa mise en œuvre. Il remet chaque année au Parlement et au Gouvernement son rapport d'activité dans lequel il formule des propositions d'évolution de la politique de l'alimentation. Des débats sont également organisés, dans chaque région, par le conseil économique, social et environnemental régional, mentionné à l'article L. 4134-1 du code général des collectivités territoriales.
 
-IV.-La politique d'installation et de transmission en agriculture a pour objectifs :
+IV.-La politique d'installation et de transmission en agriculture a pour objectif de contribuer à la souveraineté alimentaire définie à l'article L. 1 A et aux transitions climatique et environnementale en agriculture, en favorisant le renouvellement des générations d'actifs en agriculture. Elle se traduit par des actions ayant pour finalités :
 
-1° De contribuer au renouvellement des générations en agriculture ;
+1° De communiquer sur l'enjeu stratégique du renouvellement des générations en agriculture, de faire connaître les métiers de ce secteur et de susciter des vocations agricoles, notamment auprès du public scolaire et parmi les personnes en reconversion professionnelle ou en recherche d'emploi ;
 
-2° De favoriser la création, l'adaptation et la transmission des exploitations agricoles dans un cadre familial et hors cadre familial ;
+2° De former à la diversité des métiers de l'agriculture, de la forêt et de l'aquaculture tant comme chef d'exploitation que comme salarié agricole, aux métiers de la transformation et de la commercialisation des produits agricoles ainsi qu'aux métiers qui leur sont liés ;
 
-3° De promouvoir la diversité des systèmes de production sur les territoires, en particulier ceux générateurs d'emplois et de valeur ajoutée et ceux permettant de combiner performance économique, sociale, notamment à travers un haut niveau de protection sociale, environnementale et sanitaire, notamment ceux relevant de l'agro-écologie ;
+3° De proposer un accueil, une orientation et un accompagnement personnalisés, pluralistes et coordonnés à l'ensemble des personnes projetant de cesser leur activité et des personnes ayant un projet d'installation, issues ou non du milieu agricole, via le réseau France services agriculture, et de les mettre en relation en vue de la reprise d'exploitations agricoles, y compris via le dispositif d'aide au passage de relais ;
 
-4° De maintenir sur l'ensemble des territoires un nombre d'exploitants agricoles permettant de répondre aux enjeux d'accessibilité, d'entretien des paysages, de biodiversité et de gestion foncière ;
+4° D'encourager les formes d'installation collective et les formes d'installation progressive, notamment dans le cadre d'un essai d'association, permettant de se préparer sur place aux responsabilités de chef d'exploitation et de favoriser l'individualisation des parcours professionnels ;
 
-5° D'accompagner l'ensemble des projets d'installation ;
+5° D'inciter à la reprise d'exploitations et de permettre un accès équitable aux biens fonciers agricoles par la transparence du marché foncier, une fiscalité adaptée, des prêts garantis, des outils de portage et des garanties des fermages ;
 
-6° D'encourager des formes d'installation progressive permettant d'accéder aux responsabilités de chef d'exploitation tout en développant un projet d'exploitation, et de favoriser l'individualisation des parcours professionnels.
+6° De maintenir l'investissement dans les exploitations des personnes projetant de cesser leur activité et de fournir aux personnes ayant un projet d'installation des informations claires et objectives sur l'état des exploitations transmises, notamment via un diagnostic modulaire de l'exploitation agricole ;
 
-Dans le cadre de cette politique, l'Etat facilite l'accès au foncier agricole dans des conditions transparentes et équitables. Il assure la formation aux métiers de l'agriculture, de la forêt, de l'aquaculture, de la transformation et de la commercialisation des produits agricoles et aux métiers qui leur sont liés, de façon adaptée aux évolutions économiques, sociales, environnementales et sanitaires ainsi qu'au développement des territoires.
+7° D'orienter en priorité l'installation en agriculture vers des systèmes de production diversifiés, contribuant à la souveraineté alimentaire, économiquement viables, vivables pour les agriculteurs et résilients face aux conséquences du changement climatique ;
 
-V.-La politique en faveur de l'agriculture et de l'alimentation tient compte des spécificités des outre-mer ainsi que de l'ensemble des enjeux économiques, sociaux et environnementaux de ces territoires. Elle a pour objectif de favoriser le développement des productions agricoles d'outre-mer, en soutenant leur accès aux marchés, la recherche et l'innovation, l'organisation et la modernisation de l'agriculture par la structuration en filières organisées compétitives et durables, l'emploi, la satisfaction de la demande alimentaire locale par des productions locales, le développement des énergies renouvelables, des démarches de qualité particulières et de l'agriculture familiale, ainsi que de répondre aux spécificités de ces territoires en matière de santé des animaux et des végétaux.
+8° De maintenir un nombre d'exploitants agricoles suffisant sur l'ensemble du territoire pour répondre aux enjeux d'aménagement du territoire, d'accessibilité, d'entretien des paysages, de biodiversité et de gestion foncière, notamment en facilitant l'accès des femmes au statut de chef d'exploitation.
 
-VI.-La politique en faveur de l'agriculture et de l'alimentation tient compte des spécificités des territoires de montagne, en application de l'article 8 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne. Elle reconnaît la contribution positive des exploitations agricoles au développement économique et au maintien de l'emploi dans les territoires de montagne, ainsi qu' à l'entretien de l'espace et à la préservation des milieux naturels montagnards, notamment en termes de biodiversité. Elle concourt au maintien de l'activité agricole en montagne, en pérennisant les dispositifs de soutien spécifiques qui lui sont accordés pour lutter contre l'envahissement par la friche de l'espace pastoral et pour compenser les handicaps naturels, pour tenir compte des surcoûts inhérents à l'implantation en zone de montagne, pour lutter contre l'envahissement par la friche de l'espace pastoral et pour préserver cette activité agricole des préjudices causés par les actes de prédation, qui doivent être régulés afin de préserver l'existence de l'élevage sur ces territoires. Aux fins de réaliser ce dernier objectif, les moyens de lutte contre les actes de prédation d'animaux d'élevage sont adaptés, dans le cadre d'une gestion différenciée, aux spécificités des territoires, notamment ceux de montagne.
+La mise en œuvre de cette politique d'aide à l'installation et à la transmission s'appuie sur une instance nationale et des instances régionales de concertation réunissant l'Etat, les régions et les autres partenaires concernés.
 
-VII-La politique en faveur de l'agriculture et de l'alimentation tient compte des spécificités des zones humides, en application de l'article L. 211-1 du code de l'environnement.
+V.-La politique en faveur de la souveraineté alimentaire tient compte des spécificités des outre-mer ainsi que de l'ensemble des enjeux économiques, sociaux et environnementaux de ces territoires. Elle a pour objectif de favoriser le développement des productions agricoles d'outre-mer, en soutenant leur accès aux marchés, la recherche et l'innovation, l'organisation et la modernisation de l'agriculture par la structuration en filières organisées compétitives et durables, l'emploi, la satisfaction de la demande alimentaire locale par des productions locales, le développement des énergies renouvelables, des démarches de qualité particulières et de l'agriculture familiale, ainsi que de répondre aux spécificités de ces territoires en matière de santé des animaux et des végétaux.
 
-NOTA:
-Conformément au III de l’article 265 de la loi n° 2021-1104 du 22 août 2021, ces dispositions entrent en vigueur le 1er juillet 2023.
+VI.-La politique en faveur de la souveraineté alimentaire tient compte des spécificités des territoires de montagne, en application de l'article 8 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne. Elle reconnaît la contribution positive des exploitations agricoles au développement économique et au maintien de l'emploi dans les territoires de montagne, ainsi qu'à l'entretien de l'espace et à la préservation des milieux naturels montagnards, notamment en termes de biodiversité. Elle concourt au maintien de l'activité agricole en montagne, en pérennisant les dispositifs de soutien spécifiques qui lui sont accordés pour lutter contre l'envahissement par la friche de l'espace pastoral et pour compenser les handicaps naturels, pour tenir compte des surcoûts inhérents à l'implantation en zone de montagne, pour lutter contre l'envahissement par la friche de l'espace pastoral et pour préserver cette activité agricole des préjudices causés par les actes de prédation, qui doivent être régulés afin de préserver l'existence de l'élevage sur ces territoires. Aux fins de réaliser ce dernier objectif, les moyens de lutte contre les actes de prédation d'animaux d'élevage sont adaptés, dans le cadre d'une gestion différenciée, aux spécificités des territoires, notamment ceux de montagne.
+
+VII-La politique en faveur de la souveraineté alimentaire tient compte des spécificités des zones humides, en application de l'article L. 211-1 du code de l'environnement.
+
+VIII.-La politique en faveur de l'agriculture et de l'alimentation tient compte des spécificités des communes insulaires métropolitaines dépourvues de lien permanent avec le continent, en application de l'article 3 de la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale.

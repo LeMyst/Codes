@@ -1,19 +1,11 @@
 # Article L813-1
 
-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation, notamment au service public du numérique éducatif et de l'enseignement à distance prévu au deuxième alinéa de l'article L. 131-2 du code de l'éducation. Ils relèvent du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect des principes de liberté de conscience, d'égal accès de tous à l'éducation et de liberté de l'enseignement, qui implique notamment qu'un tel établissement puisse, à ces conditions, naître d'une initiative privée.
+Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou l'organisme responsable a passé un contrat avec l'Etat participent au service public de l'éducation et, à ce titre, contribuent à atteindre les objectifs définis aux troisième et quatrième alinéas de l'article L. 811-1 ainsi qu'à assurer les missions mentionnées aux 1° à 6° du même article L. 811-1, sans que la mise en œuvre de la formation professionnelle continue ou par l'apprentissage relève de ce contrat. Ils relèvent du ministre chargé de l'agriculture.
 
-L'enseignement et la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires dispensés par les établissements mentionnés au premier alinéa ont pour objet d'assurer, en les associant, une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de l'aquaculture, de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres métiers concourant au développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace agricole, rural, forestier, de la gestion de l'eau et de l'environnement. Ils contribuent à l'éducation au développement durable et à la mise en œuvre de ses principes, ainsi qu'à la promotion de la diversité des systèmes de production agricole. Ils contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leur qualification et à leur insertion professionnelle et sociale.
+Les établissements peuvent disposer d'un ou de plusieurs ateliers technologiques ou d'une ou de plusieurs exploitations agricoles qui constituent des centres à vocation pédagogique, qui assurent l'adaptation et la formation aux pratiques professionnelles et qui contribuent à la démonstration, à l'expérimentation, au développement et à la diffusion des techniques nouvelles, en cohérence avec les orientations des politiques publiques pour l'agriculture.
 
-Ils remplissent les missions suivantes :
+Les articles L. 111-1, L. 111-2, L. 111-3, L. 111-6, L. 112-1, L. 112-2, L. 121-1 à L. 121-4, L. 121-5, L. 121-6, L. 122-1-1 à L. 122-5, L. 131-1 et L. 131-1-1 du code de l'éducation leur sont applicables.
 
-1° Ils assurent une formation générale, technologique et professionnelle initiale et continue ;
+Les exploitations agricoles mentionnées au présent article peuvent bénéficier des aides de toute nature ainsi que des avantages prévus par le code général des impôts, le code de la sécurité sociale et le livre VII du présent code dont bénéficient les entreprises agricoles.
 
-2° Ils participent à l'animation et au développement des territoires ;
-
-3° Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et professionnelle des adultes ;
-
-4° Ils contribuent aux activités de développement, d'expérimentation et d'innovation agricoles et agroalimentaires ;
-
-5° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves, apprentis, étudiants, stagiaires et enseignants.
-
-L'enseignement et la formation professionnelle privés aux métiers de l'agriculture, de la forêt, de la nature et des territoires sont organisés dans le cadre de l'éducation permanente, selon les voies de la formation initiale et de la formation continue, sans que dans ce dernier cas leur mise en oeuvre relève du contrat prévu au premier alinéa du présent article.
+Les ateliers technologiques mentionnés au présent article peuvent bénéficier des aides de toute nature ainsi que des avantages prévus par le code général des impôts, le code de la sécurité sociale et le livre VII du présent code dont bénéficient les entreprises.

@@ -11,3 +11,5 @@ II.-Le conseil national fixe le montant des frais d'inscription et de la cotisat
 Le conseil national gère les biens de l'ordre. Il contrôle et valide la gestion des conseils régionaux de l'ordre et détermine les dotations attribuées à chaque conseil régional.
 
 Il est créé une commission des budgets placée auprès du conseil national de l'ordre. Ses membres sont désignés par le conseil national. L'ensemble des comptes et le budget prévisionnel du conseil national de l'ordre et des conseils régionaux de l'ordre lui sont communiqués chaque année. Elle peut s'adjoindre les services et compétences techniques extérieurs au conseil de l'ordre qui lui sont nécessaires.
+
+III.-Une commission des actes vétérinaires réalisés dans les conditions prévues aux 14° et 15° de l'article L. 243-3 est constituée au sein du conseil national de l'ordre des vétérinaires. Elle est notamment consultée sur les demandes d'habilitation des centres de formation. Ses conditions d'organisation et de fonctionnement sont fixées par voie réglementaire.

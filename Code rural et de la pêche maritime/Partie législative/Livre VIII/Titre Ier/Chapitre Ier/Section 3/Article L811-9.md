@@ -1,6 +1,6 @@
 # Article L811-9
 
-Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil d'administration composé de trente membres.
+Les établissements publics locaux mentionnés à l'article L. 811-8 sont administrés par un conseil d'administration composé de trente membres.
 
 Celui-ci comprend :
 

@@ -7,3 +7,6 @@ Le président de la chambre de métiers et de l'artisanat de région ou, par dé
 2° Le cas échéant, de l'obligation de qualification professionnelle des personnes exerçant certaines activités listées aux articles L. 121-1 à L. 121-3 du code de l'artisanat.
 
 Lorsque la qualification requise pour l'exercice des activités mentionnées au 2° est détenue par un salarié de l'entreprise, cette dernière transmet à compter de son immatriculation ou de son changement de situation les pièces exigées attestant de cette qualification, dans un délai dont la durée est déterminée par décret en Conseil d'Etat. L'absence de remise de ces pièces dans le délai requis entraîne la radiation de l'entreprise du registre, sauf pour celle-ci à modifier son activité.
+
+NOTA:
+Conformément à l'article 6 de l'ordonnance n° 2023-2028 du 28 mars 2023, les modifications des présentes dispositions effectuées en conséquence de l'article 2 de la même ordonnance entrent en vigueur le 1er juillet 2023.

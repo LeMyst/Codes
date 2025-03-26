@@ -8,7 +8,7 @@ a) S'agissant de l'établissement, son enseigne ;
 
 b) S'agissant d'un fonds de commerce, le fait qu'il s'agit soit de la création d'un fonds de commerce, soit de l'acquisition d'un fonds existant, soit d'une modification du régime juridique sous lequel il était exploité ainsi que, en cas d'achat, de licitation ou de partage d'un fonds de commerce, le titre et la date du support d'annonces légales dans lequel a été publiée l'insertion prescrite par l'article L. 141-12 ;
 
-2° Pour les sociétés du secteur des métiers et de l'artisanat, la qualité d'artisan ou d'artisan d'art prévue par les articles 1er et 2 du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au secteur des métiers et de l'artisanat, ainsi que la qualité de maître artisan ou de maître artisan en métier d'art prévue par l'article 3 de ce décret ;
+2° Pour les sociétés du secteur des métiers et de l'artisanat, la qualité d'artisan ou d'artisan d'art prévue par les articles R. 211-1, R. 211-2 et R. 212-1 du code de l'artisanat, ainsi que la qualité de maître artisan ou de maître artisan en métier d'art prévue par les articles R. 221-1, R. 221-3 et R. 221-4 du même code ;
 
 3° Pour les sociétés commerciales ou du secteur des métiers et de l'artisanat, l'indication, pour chacune des activités concernées, des éléments suivants :
 
@@ -29,4 +29,4 @@ b) S'agissant du mode d'exploitation, s'il s'agit d'une gérance-mandat, sont d�
 6° La qualité d'employeur de l'entreprise et, s'il y a lieu, de chacun de ses établissements.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+Conformément à l'article 7 du décret n° 2023-500 du 22 juin 2023, les modifications des présentes dispositions effectuées en conséquence de l'article 2 du même décret entrent en vigueur le 1er juillet 2023.

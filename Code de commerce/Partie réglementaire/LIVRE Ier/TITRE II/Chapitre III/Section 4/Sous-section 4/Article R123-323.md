@@ -5,4 +5,4 @@ Pour l'application de la présente section dans les départements du Bas-Rhin, d
 Pour l'application de la présente section dans les départements et régions de la Guadeloupe et de la Réunion et dans les collectivités territoriales de Guyane et de Martinique, les attributions dévolues aux caisses départementales ou pluridépartementales de mutualité sociale agricole sont exercées par les caisses générales de sécurité sociales mentionnées à l'article L. 752-1 du code de la sécurité sociale.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+Conformément à l'article 7 du décret n° 2023-500 du 22 juin 2023, les modifications des présentes dispositions effectuées en conséquence de l'article 2 du même décret entrent en vigueur le 1er juillet 2023.

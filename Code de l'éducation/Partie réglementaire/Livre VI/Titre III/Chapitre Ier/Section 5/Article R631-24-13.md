@@ -12,9 +12,7 @@ II.-Lorsque, moins de deux mois après qu'un premier signataire a exprimé son c
 
 Pour l'application des alinéas précédents, les signataires en fin de formation qui ont demandé au directeur général de l'agence régionale de santé de pouvoir exercer dans la région où se situe l'unité de formation et de recherche ou la composante dans laquelle ils étaient inscrits bénéficient, à projet professionnel présentant un intérêt égal, d'une priorité de choix de leur lieu d'exercice dans cette région.
 
-Les autorités mentionnées aux 1° à 3° informent par écrit le directeur général du Centre national de gestion de leurs décisions.
+Les autorités mentionnées aux 1° à 3° informent par écrit l'autorité administrative mentionnée à l'article L. 632-6 de leurs décisions.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2020-268 du 17 mars 2020, les dispositions du présent décret sont applicables aux contrats d'engagement de service public conclus à compter de son entrée en vigueur. Les contrats conclus avant cette date restent soumis aux dispositions réglementaires qui leur étaient applicables avant l'entrée en vigueur du présent décret.
-
-Aux termes de l'article 3 dudit décret, l'article R. 631-24-13 dans sa rédaction résultant du même décret sont applicables aux médecins ou chirurgiens-dentistes détenteurs d'un diplôme étranger obtenu hors de l'Union européenne autorisés à poursuivre un parcours de consolidation des compétences en médecine ou en odontologie dans le cadre du IV de l'article 83 de la loi du 21 décembre 2006 susvisée.
+Conformément au I de l'article 3 du décret n° 2025-270 du 24 mars 2025, jusqu'au 31 décembre 2025, le Centre national de gestion demeure l'autorité administrative chargée de la gestion des contrats d'engagement de service public conclus avant la date d'entrée en vigueur dudit décret. A ce titre, ces contrats restent régis par les dispositions de la section 5 du chapitre Ier du titre III du livre VI du code de l'éducation dans leur rédaction antérieure au décret précité.

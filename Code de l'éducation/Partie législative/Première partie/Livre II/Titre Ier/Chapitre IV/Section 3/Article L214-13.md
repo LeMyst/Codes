@@ -20,6 +20,8 @@ Ce contrat de plan définit, sur le territoire régional et, le cas échéant, p
 
 Les conventions annuelles conclues en application de l'article L. 214-13-1 du présent code, s'agissant des cartes régionales des formations professionnelles initiales, et de l'article L. 6121-3 du code du travail et du IV du présent article, s'agissant des conventions sectorielles, concourent à la mise en œuvre de la stratégie définie par le contrat de plan régional.
 
+Pour l'enseignement agricole, une analyse des besoins de consolidation ou d'ouverture de sections de formation professionnelle initiale sous statut scolaire dans l'enseignement agricole est réalisée avant l'adoption du contrat de plan régional. Si cette analyse révèle l'existence de tels besoins, le contrat de plan régional fixe des objectifs d'accroissement du nombre de personnes formées dans les secteurs de l'agriculture, de l'agroalimentaire et du vivant.
+
 II.-Le contrat de plan régional de développement des formations et de l'orientation professionnelles est élaboré par la région au sein du comité régional de l'emploi, de la formation et de l'orientation professionnelles mentionné à l'article L. 6123-3 du code du travail sur la base des documents d'orientation présentés par le président du conseil régional, le représentant de l'Etat dans la région, les autorités académiques, les organisations syndicales de salariés et les organisations professionnelles d'employeurs. Le comité procède à une concertation avec les collectivités territoriales concernées, l'opérateur France Travail, les organismes consulaires, des représentants de structures d'insertion par l'activité économique et des représentants d'organismes de formation professionnelle, notamment l'établissement mentionné à l'article L. 5315-1 du code du travail.
 
 Le contrat de plan régional est établi dans l'année qui suit le renouvellement du conseil régional.
@@ -49,6 +51,3 @@ VI.-Dans le cadre du contrat de plan régional de développement des formations 
 Les départements, les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur demande, à l'élaboration du programme régional.
 
 Pour la mise en oeuvre de ce programme, des conventions sont passées avec les établissements d'enseignement publics et les autres organismes de formation concernés.
-
-NOTA:
-Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

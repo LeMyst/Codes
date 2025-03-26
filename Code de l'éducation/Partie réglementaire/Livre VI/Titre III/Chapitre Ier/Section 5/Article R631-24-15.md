@@ -20,4 +20,7 @@ II.-Le directeur général s'assure également, à l'égard des mêmes personnes
 
 3° De l'absence de leur radiation du tableau de l'ordre dans les conditions prévues au 5° de l'article L. 4124-6 du code de la santé publique.
 
-III.-Il signale au Centre national de gestion les situations pour lesquelles les engagements n'ont pas été respectés et celles pour lesquelles les signataires d'un contrat d'engagement de service public ne sont pas en capacité d'exercer.
+III.-Il signale à l'autorité administrative mentionnée à l'article L. 632-6 les situations pour lesquelles les engagements n'ont pas été respectés et celles pour lesquelles les signataires d'un contrat d'engagement de service public ne sont pas en capacité d'exercer.
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2025-270 du 24 mars 2025, jusqu'au 31 décembre 2025, le Centre national de gestion demeure l'autorité administrative chargée de la gestion des contrats d'engagement de service public conclus avant la date d'entrée en vigueur dudit décret. A ce titre, ces contrats restent régis par les dispositions de la section 5 du chapitre Ier du titre III du livre VI du code de l'éducation dans leur rédaction antérieure au décret précité.

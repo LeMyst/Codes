@@ -10,7 +10,7 @@ c) Des revenus de capitaux mobiliers ;
 
 d) (Abrogé)
 
-e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu, de même que des distributions définies aux 7, 7 bis, 8 et 9 du II de l'article 150-0 A, à l'article 150-0 f et au 1 du II de l'article 163 quinquies C du code général des impôts, de l'avantage mentionné au I de l'article 80 quaterdecies du même code lorsque celui-ci est imposé à l'impôt sur le revenu dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A dudit code, du gain imposé dans les conditions prévues au II de l'article 163 bis H du même code de l'avantage mentionné au I de l'article 163 bis G du même code, et du gain défini à l'article 150 duodecies du même code ;
+e) Des plus-values, gains en capital et profits soumis à l'impôt sur le revenu, de même que des distributions définies aux 7, 7 bis, 8 et 9 du II de l'article 150-0 A, à l'article 150-0 f et au 1 du II de l'article 163 quinquies C du code général des impôts, de l'avantage mentionné au I de l'article 80 quaterdecies du même code lorsque celui-ci est imposé à l'impôt sur le revenu dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A dudit code, de l'avantage mentionné au I de l'article 163 bis G du même code du gain imposé dans les conditions prévues au II de l'article 163 bis H du même code, et du gain défini à l'article 150 duodecies du même code ;
 
 e bis) Des plus-values et des créances mentionnées au I et au II de l'article 167 bis du code général des impôts ;
 

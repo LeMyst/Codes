@@ -138,7 +138,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Côtes-d'Armor | Saint-Brieuc | 22 | 4 |
 | Finistère | Brest | 21 | 4 |
 | | Quimper | 16 | 3 |
-| Ille-et-Vilaine | Rennes | 31 | 4 |
+| Ille-et-Vilaine | Rennes | 36 | 4 |
 | | Saint-Malo | 16 | 3 |
 | Loire-Atlantique | Nantes | 34 | 5 |
 | | Saint-Nazaire | 15 | 3 |

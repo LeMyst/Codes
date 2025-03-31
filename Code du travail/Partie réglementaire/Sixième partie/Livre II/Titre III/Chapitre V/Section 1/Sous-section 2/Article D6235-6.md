@@ -1,0 +1,5 @@
+# Article D6235-6
+
+Pendant la durée du contrat d'apprentissage transfrontalier, l'employeur fournit, à la demande de l'inspection du travail, ou de l'opérateur de compétences unique mentionné au IV de l'article L. 6235-5, les pièces permettant d'attester du respect des stipulations figurant dans le contrat d'apprentissage prévu à l'article L. 6222-4 et les autres pièces relatives au contrat d'apprentissage transfrontalier conformément aux stipulations de la convention prévue à l'article L. 6235-2.
+
+Lorsque la convention prévue à l'article L. 6235-2 le prévoit, l'autorité chargée du contrôle de l'exécution du contrat d'apprentissage transfrontalier dans l'entreprise sur le territoire national peut demander, pour mener ses contrôles, l'assistance de l'autorité compétente dans le pays frontalier. Le cas échéant, ces contrôles peuvent avoir pour origine une demande des autorités du pays frontalier, lesquelles peuvent également solliciter l'assistance de l'autorité chargée du contrôle en France.

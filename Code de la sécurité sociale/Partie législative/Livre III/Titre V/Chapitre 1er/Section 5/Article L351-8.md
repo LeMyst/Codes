@@ -18,15 +18,15 @@ Bénéficient du taux plein même s'ils ne justifient pas de la durée requise d
 
 4° ter Les assurés dont l'âge mentionné au même premier alinéa est abaissé dans des conditions prévues à l'article L. 351-1-1 ;
 
-5° Les anciens prisonniers de guerre lorsque, sur leur demande, leur pension est liquidée à un âge variant suivant la durée de captivité dans des conditions fixées par décret ;
-
-6° Les assurés atteignant l'âge de soixante-cinq ans qui bénéficient d'un nombre minimal de trimestres fixé par décret au titre de la majoration de durée d'assurance prévue à l'article L. 351-4-1 ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
+5° Les anciens prisonniers de guerre lorsque, sur leur demande, leur pension est liquidée à un âge variant suivant la durée de captivité dans des conditions fixées par décret.
 
 Les anciens prisonniers de guerre évadés de guerre, au-delà d'un certain temps de captivité, et les anciens prisonniers rapatriés pour maladie peuvent choisir le régime le plus favorable.
 
 Toute partie de mois n'est pas prise en considération.
 
-Les dispositions du 5°) ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
+Les dispositions du 5°) ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux ;
+
+6° Les assurés atteignant l'âge de soixante-cinq ans qui bénéficient d'un nombre minimal de trimestres fixé par décret au titre de la majoration de durée d'assurance prévue à l'article L. 351-4-1 ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
 
 NOTA:
 Conformément au C du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les F et İ, les 1°, 2°, 5°, 8°, 9°, 12° et 17° du L et les M et N du I, les 3° à 6°, 10°, 12°, 14°, 18°, 19° et 23° du II et les IV à VII de l'article précité s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

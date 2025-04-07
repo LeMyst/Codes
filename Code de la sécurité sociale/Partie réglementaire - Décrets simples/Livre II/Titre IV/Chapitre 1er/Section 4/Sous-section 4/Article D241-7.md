@@ -4,7 +4,7 @@ I.-Le coefficient mentionné au III de l'article L. 241-13 est déterminé par a
 
 Coefficient = (T/0,6) × (1,6 × SMIC calculé pour un an/ rémunération annuelle brute-1).
 
-T est la valeur maximale du coefficient mentionnée au troisième alinéa du III de l'article L. 241-13. Elle est fixée à 0,3194 pour les revenus d'activité dus par les employeurs soumis au 1° de l'article L. 813-5 du code de la construction et de l'habitation et à 0,3234 pour les gains et rémunérations versés par les employeurs soumis au 2° de l'article L. 813-5 du code de la construction et de l'habitation.
+T est la valeur maximale du coefficient mentionnée au troisième alinéa du III de l'article L. 241-13. Elle est fixée à 0,3193 pour les revenus d'activité dus par les employeurs soumis au 1° de l'article L. 813-5 du code de la construction et de l'habitation et à 0,3233 pour les gains et rémunérations versés par les employeurs soumis au 2° de l'article L. 813-5 du code de la construction et de l'habitation.
 
 Le résultat obtenu par application de cette formule est arrondi à quatre décimales, au dix millième le plus proche. Il est pris en compte pour les valeurs mentionnées au précédent alinéa s'il est supérieur à celles-ci.
 
@@ -14,7 +14,7 @@ En cas d'application d'un dispositif de lissage des effets liés au franchisseme
 
 II.-Le montant de la rémunération annuelle brute à prendre en compte est défini selon les modalités prévues au III de l'article L. 241-13.
 
-Sous réserve des dispositions prévues par les alinéas suivants, le montant annuel du salaire minimum de croissance à prendre en compte est égal à 1 820 fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire.
+Sous réserve des dispositions prévues par les alinéas suivants, le montant annuel du salaire minimum de croissance à prendre en compte est égal à 1 820 fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail applicable au 1er janvier 2025 ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire.
 
 Pour les salariés dont la rémunération contractuelle est fixée sur une base inférieure à la durée légale ainsi que pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail autres que ceux mentionnés au deuxième alinéa du III, le montant du salaire minimum de croissance ainsi déterminé est corrigé à proportion de la durée de travail, hors heures supplémentaires mentionnées à l'article L. 241-18 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail, inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise et rapportée à celle correspondant à la durée légale du travail.
 
@@ -23,8 +23,6 @@ En cas de suspension du contrat de travail avec paiement intégral de la rémun�
 Pour les salariés entrant dans le champ d'application de l'article L. 3242-1 susmentionné qui ne sont pas présents toute l'année ou dont le contrat de travail est suspendu sans paiement de la rémunération ou avec paiement partiel de celle-ci par l'employeur, ainsi que pour les salariés mentionnés au deuxième alinéa du III, la fraction du montant du salaire minimum de croissance correspondant au mois où a lieu l'absence est corrigée selon le rapport entre les revenus d'activité, tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, dus et ceux qui auraient été dus si le salarié avait été présent tout le mois, hors éléments de rémunération qui ne sont pas affectés par l'absence. Le salaire minimum de croissance est corrigé selon les mêmes modalités pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 susmentionné dont le contrat de travail est suspendu avec paiement partiel de la rémunération.
 
 Le cas échéant, le montant du salaire minimum de croissance à prendre en compte est majoré du produit du nombre d'heures supplémentaires mentionnées à l'article L. 241-18 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail rémunérées au cours de l'année par le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail.
-
-Si un des paramètres de détermination du montant annuel du salaire minimum de croissance à prendre en compte évolue en cours d'année, sa valeur annuelle est égale à la somme des valeurs déterminées par application des règles précédentes pour les périodes antérieure et postérieure à l'évolution.
 
 III.-Pour les salariés en contrat de travail temporaire mis à disposition au cours d'une année auprès de plusieurs entreprises utilisatrices, le coefficient mentionné au I est déterminé pour chaque mission.
 
@@ -45,4 +43,6 @@ V.-A.-Le montant de la réduction prévue à l'article L. 241-13 est imputé par
 B.-Par exception au A, pour les employeurs des salariés mentionnés au dernier alinéa du VII de l'article L. 241-13, le montant de la réduction est imputé en totalité sur les cotisations recouvrées par l'organisme de recouvrement habilité par l'État en application de l'article L. 133-9.
 
 NOTA:
-Conformément à l’article 4 du décret n° 2023-1329 du 29 décembre 2023, ces dispositions s'appliquent pour les rémunérations dues pour les périodes courant à compter du 1er janvier 2024.
+Conformément à l’article 5 du décret n° 2025-318 du 4 avril 2025, les modifications des présentes dispositions issues du b du 5° de l'article 1 du même décret s'appliquent aux cotisations et contributions dues sur les rémunérations afférentes aux périodes d'emploi courant à compter du 1er janvier 2025.
+
+Conformément à l’article 5 du décret n° 2025-318 du 4 avril 2025, les modifications des présentes dispositions issues du a du 5° de l'article 1 du même décret s'appliquent aux cotisations et contributions dues sur les rémunérations afférentes aux périodes d'emploi courant à compter du 1er mai 2025.

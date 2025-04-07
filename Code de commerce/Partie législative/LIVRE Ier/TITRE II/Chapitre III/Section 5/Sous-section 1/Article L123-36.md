@@ -8,7 +8,7 @@ Sont ainsi immatriculées, sur leurs déclarations :
 
 2° Les agents commerciaux mentionnés à l'article L. 134-1 ;
 
-3° Les personnes relevant du secteur des métiers et de l'artisanat mentionnées à l'article L. 111-1 du code de l'artisanat ;
+3° Les personnes relevant du secteur des métiers et de l'artisanat mentionnées aux articles L. 111-1 et L. 112-1 du code de l'artisanat ;
 
 4° Les personnes exerçant une activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime ;
 

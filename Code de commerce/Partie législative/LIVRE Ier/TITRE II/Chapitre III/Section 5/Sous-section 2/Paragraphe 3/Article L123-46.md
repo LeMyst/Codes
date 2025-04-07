@@ -2,7 +2,7 @@
 
 La personne qui a intégralement satisfait aux validations et contrôles opérés en application des articles L. 123-43 à L. 123-45 est immatriculée au registre national des entreprises avec la mention “ entreprise du secteur des métiers et de l'artisanat ” sans que cela ne la dispense, le cas échéant, de l'immatriculation au registre du commerce et des sociétés.
 
-Fait l'objet d'une inscription spécifique au registre national des entreprises la qualité d'artisan, d'artisan d'art, de maître ou de maître-artisan au sens des articles L. 221-1 et suivants du code de l'artisanat reconnue ou attribuée aux personnes suivantes :
+Fait l'objet d'une inscription spécifique au registre national des entreprises la qualité d'artisan, d'artisan d'art, de maître ou de maître-artisan au sens des articles L. 211-1, L. 212-1, L. 221-1 et L. 231-1 du code de l'artisanat reconnue ou attribuée aux personnes suivantes :
 
 1° Les personnes physiques mentionnées au 3° de l'article L. 123-36 et leur conjoint collaborateur le cas échéant ;
 

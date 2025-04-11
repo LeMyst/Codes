@@ -8,11 +8,9 @@ I. ― Les ressources du fonds paritaire sont constituées par :
 
 3° Une subvention de l'Etat ;
 
-4° Le cas échéant, toute autre ressource prévue par des dispositions législatives ou réglementaires, par une convention étendue, un accord de branche étendu, un accord professionnel ou interprofessionnel étendu qui en confie la gestion à l'association gestionnaire du fonds paritaire.
+4° Le cas échéant, toute autre ressource prévue par des dispositions législatives ou réglementaires, par accord conclu entre les organisations syndicales de salariés et les organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel ou par accord de branche étendu.
 
-II. ― Lorsqu'une convention ou un accord désigne, en application du 4° de l'article L. 2135-10, le fonds paritaire comme gestionnaire des ressources ainsi instituées, les contributions correspondantes sont recouvrées selon les règles et sous les garanties et sanctions applicables en matière de cotisations et de contributions de sécurité sociale, selon des modalités précisées par voie réglementaire. Ces modalités sont déclinées par une convention cadre signée entre les organismes mentionnés à l'article L. 225-1-1 du code de la sécurité sociale et à l'article L. 723-11 du code rural et de la pêche maritime et les organisations syndicales de salariés et organisations professionnelles d'employeur composant la commission paritaire permanente de négociation et d'interprétation de chaque branche.
-
-La liste des informations relatives aux entreprises redevables qui sont communiquées à l'association gestionnaire du fonds paritaire par les organismes chargés du recouvrement est fixée par décret.
+II. ― (Abrogé) ;
 
 III. ― L'accord mentionné au 4° du I du présent article peut donner mandat à des organisations syndicales de salariés et à des organisations professionnelles d'employeurs représentatives au niveau de la branche de conclure une convention avec les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime, afin de confier aux organismes mentionnés au II de l'article L. 2135-15-1 le recouvrement de la contribution mentionné au 4° du I. Cette contribution est alors versée à l'association gestionnaire du fonds paritaire mentionnée à l'article L. 2135-9 du présent code, qui en assure la répartition entre les branches affectataires.
 

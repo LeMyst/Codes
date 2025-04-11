@@ -16,8 +16,6 @@ T est le taux fixé au 1° du I de l'article D. 732-165 ;
 
 N est égal à 133 ;
 
-RP est la totalité des revenus professionnels ou, le cas échéant, l'assiette forfaitaire telles que définies aux articles L. 731-14 à L. 731-21. L'assiette des cotisations ne peut toutefois en aucun cas être inférieure à 1820 fois le montant du salaire minimum de croissance en vigueur au 1er janvier de l'année considérée ;
-
 1820 SMIC est l'assiette minimale prévue en application de l'article L. 732-59.
 
 II.-Pour les personnes mentionnées au IV de l'article L. 732-56, l'assiette des cotisations prévue au troisième alinéa de l'article L. 732-59 est fixée à 1 200 fois le montant du salaire minimum de croissance en vigueur au 1er janvier de l'année considérée.

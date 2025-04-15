@@ -1,6 +1,6 @@
 # Article L442-5
 
-I.-Le fait, pour tout commerçant, de revendre ou d'annoncer la revente d'un produit en l'état à un prix inférieur à son prix d'achat effectif est puni de 75 000 € d'amende. Cette amende peut être portée à la moitié des dépenses de publicité dans le cas où une annonce publicitaire, quel qu'en soit le support, fait état d'un prix inférieur au prix d'achat effectif. La cessation de l'annonce publicitaire peut être ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
+I.-Le fait, pour tout commerçant, de revendre ou d'annoncer la revente d'un produit en l'état à un prix inférieur à son prix d'achat effectif est puni d'une amende ne pouvant excéder 0,4 % de son chiffre d'affaires annuel hors taxes réalisé en France lors du dernier exercice clos. Cette amende peut être portée à la moitié des dépenses de publicité dans le cas où une annonce publicitaire, quel qu'en soit le support, fait état d'un prix inférieur au prix d'achat effectif. La cessation de l'annonce publicitaire peut être ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
 
 Le prix d'achat effectif est le prix unitaire net figurant sur la facture d'achat, minoré du montant de l'ensemble des autres avantages financiers consentis par le vendeur exprimé en pourcentage du prix unitaire net du produit et majoré des taxes sur le chiffre d'affaires, des taxes spécifiques afférentes à cette revente et du prix du transport.
 
@@ -27,3 +27,5 @@ Ces exceptions ne font pas obstacle à l'application du 2° de l'article L. 653-
 III.-Les personnes morales déclarées pénalement responsables de l'infraction prévue au I encourent la peine mentionnée au 9° de l'article 131-39 du code pénal.
 
 La cessation de l'annonce publicitaire peut être ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
+
+IV.-Le I du présent article est applicable aux produits vendus sous marque de distributeur acquis dans les conditions prévues à l'article L. 441-7.

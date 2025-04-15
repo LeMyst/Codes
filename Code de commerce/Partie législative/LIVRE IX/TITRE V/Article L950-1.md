@@ -40,7 +40,7 @@ Les articles L. 232-25 et L. 232-26 sont applicables dans leur rédaction résul
 
 L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1107 du 22 juin 2017 ;
 
-L' article L. 225-37-4 est applicable dans sa rédaction résultant de l' ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
+L'article L. 225-37-4 est applicable dans sa rédaction résultant de l' ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
 
 Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
@@ -122,7 +122,9 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | L. 442-1 | la loi n° 2020-1525 du 7 décembre 2020 |
 | L. 442-2 | ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-3 | la loi n° 2020-1508 du 3 décembre 2020 |
-| L. 442-4 à L. 442-6 | l'ordonnance n° 2019 359 du 24 avril 2019 |
+| L. 442-4 | l'ordonnance n° 2019-359 du 24 avril 2019 |
+| L. 442-5 | la loi n° 2025-337 du 14 avril 2025 visant à renforcer la stabilité économique et la compétitivité du secteur agroalimentaire |
+| L. 442-6 | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-8 à L. 442-11 | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-12 | la loi n° 2024-449 du 21 mai 2024 |
 | L. 443-1 à L. 443-3 | l'ordonnance n° 2019-359 du 24 avril 2019 |

@@ -1,6 +1,6 @@
 # Article R914-101
 
-Les sanctions disciplinaires applicables aux maîtres contractuels ou agréés durant la période probatoire sont :
+Les sanctions disciplinaires applicables aux maîtres bénéficiant d'un contrat ou d'un agrément provisoire ainsi qu'aux maîtres contractuels ou agréés durant la période probatoire mentionnée aux articles R. 914-64, R. 914-73 et R. 914-81 sont :
 
 1° L'avertissement ;
 

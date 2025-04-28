@@ -8,7 +8,7 @@ II. - Sont assimilés aux piétons :
 
 1° Les personnes qui conduisent une voiture d'enfant, de malade ou d'infirme, ou tout autre véhicule de petite dimension sans moteur ;
 
-2° Les personnes qui conduisent à la main un engin de déplacement personnel motorisé, un cycle ou un cyclomoteur ;
+2° Les personnes qui conduisent à la main un engin de déplacement personnel motorisé, un cycle, une cyclo-draisine définie à l'article 2 du décret n° 2017-440 du 30 mars 2017 relatif à la sécurité des transports publics guidés ou un cyclomoteur ;
 
 3° Les infirmes qui se déplacent dans une chaise roulante mue par eux-mêmes ou circulant à l'allure du pas.
 

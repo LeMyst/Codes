@@ -1,1 +1,1 @@
-Sous-section 1 : Avis de cadrage sur le coût moyen pondéré du capital
+Sous-section 1 : Avis sur un avant-projet de contrat de régulation économique

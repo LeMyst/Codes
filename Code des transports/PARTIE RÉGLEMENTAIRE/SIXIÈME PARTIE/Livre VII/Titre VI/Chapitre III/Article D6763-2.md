@@ -5,9 +5,7 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
 | Titre II | |
-| D. 6325-64 | |
-| D. 6325-73 à D. 6325-81 | |
-| D. 6325-84 à D. 6325-92 | |
+| D. 6325-73 à D. 6325-75 | Décret n° 2025-378 du 25 avril 2025 |
 | Titre III | |
 | D. 6331-2 | |
 | D. 6331-20 | |

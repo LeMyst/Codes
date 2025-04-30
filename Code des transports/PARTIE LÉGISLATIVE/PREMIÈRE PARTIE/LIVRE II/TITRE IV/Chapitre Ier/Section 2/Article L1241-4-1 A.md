@@ -1,0 +1,3 @@
+# Article L1241-4-1 A
+
+Les agents d'Ile-de-France Mobilités exerçant des missions relatives à la sûreté des transports peuvent être affectés dans des salles d'information et de commandement relevant de l'Etat et, sous l'autorité et en présence des agents de la police nationale ou des militaires de la gendarmerie nationale, visionner les images des systèmes de vidéoprotection transmises en temps réel vers ces salles depuis les véhicules et les emprises immobilières des transports publics de voyageurs ou leurs abords immédiats aux seules fins de l'exercice, par Ile-de-France Mobilités, de la mission définie au 6° du I de l'article L. 1241-2. L'affectation de ces agents s'effectue dans les conditions fixées aux II et III de l'article L. 2251-4-2.

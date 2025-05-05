@@ -12,7 +12,7 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 
 5° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ;
 
-6° Du d du 3, du 8 de l'article 5 et des articles 8,9 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil, du 14 mars 2012 modifié, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 ;
+6° Du d du 3, du 8 de l'article 5 et des articles 5 ter, 8,9 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil, du 14 mars 2012 modifié, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et modifiant le règlement (CE) n° 924/2009 ;
 
 7° De l'article L. 347-1 du code de l'action sociale et des familles et des articles L. 311-4, L. 311-4-1, L. 312-9, L. 314-10-1 à L. 314-10-4, L. 342-1, L. 342-2, L. 342-3 et L. 342-4 du même code en ce qui concerne les manquements précisément énumérés aux articles L. 314-14 et L. 342-5 de ce code ;
 

@@ -2,11 +2,8 @@
 
 Sans préjudice de l'allocation de dommages et intérêts, une amende civile peut être prononcée à l'encontre du vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité prévue aux articles L. 217-8 à L. 217-19.
 
-L'autorité administrative chargée de la concurrence et de la consommation, agissant sur le fondement de l'article L. 524-2 ou intervenant à l'instance, les associations de défense des consommateurs, agissant sur le fondement des articles L. 621-7, L. 621-9, L. 622-1 et L. 623-1, le ministère public ou le consommateur peuvent demander à la juridiction saisie de prononcer une amende civile dont le montant ne peut excéder 300 000 euros.
+L'autorité administrative chargée de la concurrence et de la consommation, agissant sur le fondement de l'article L. 524-2 ou intervenant à l'instance, les associations de défense des consommateurs, agissant sur le fondement des articles L. 621-7, L. 621-9, et L. 622-1 du présent code et des I à XI de l'article 16 de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes, le ministère public ou le consommateur peuvent demander à la juridiction saisie de prononcer une amende civile dont le montant ne peut excéder 300 000 euros.
 
 Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés des pratiques en cause, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date de la décision.
 
 La juridiction peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de celle-ci selon les modalités qu'elle précise. Elle peut ordonner l'insertion de la décision ou de l'extrait de celle-ci dans le rapport établi sur les opérations de l'exercice par les gérants, le conseil d'administration ou le directoire de l'entreprise. Les frais sont supportés par la personne condamnée.
-
-NOTA:
-Conformément à l'article 21 de l'ordonnance n° 2021-1247 du 29 septembre 2021, ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 2022.

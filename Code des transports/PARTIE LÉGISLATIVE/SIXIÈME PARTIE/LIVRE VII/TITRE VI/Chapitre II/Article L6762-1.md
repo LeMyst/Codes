@@ -9,7 +9,7 @@ Sous réserve des adaptations prévues au présent chapitre et sauf mention cont
 | L. 6221-2 | |
 | L. 6221-3. | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
 | L. 6221-4 et L. 6221-5 | |
-| L. 6222-1 | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
+| L. 6222-1 | Résultant de la loi n° 2025-391 du 30 avril 2025 |
 | L. 6222-2 | Résultant de l'ordonnance n° 2012-872 du 12 juillet 2012 |
 | L. 6222-3 | Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 |
 | L. 6223-1 et L. 6223-2 | |

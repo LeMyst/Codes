@@ -1,8 +1,10 @@
 # Article L6761-1
 
-Les dispositions du livre Ier, à l'exception du chapitre III du livre IV, sont applicables en Nouvelle-Calédonie.
+Les dispositions du livre Ier, à l'exception du chapitre III du titre IV, sont applicables en Nouvelle-Calédonie.
 
 Les sections 1 et 2 du chapitre II du titre III du livre Ier sont applicables en Nouvelle-Calédonie dans les conditions fixées à l'article L. 5761-1.
+
+L'article L. 6100-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
 L'article L. 6111-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de l'ordonnance n° 2022-456 du 30 mars 2022 relative à la création d'un régime de déclaration dans le domaine de la sécurité aérienne et à l'adaptation du droit national à l'entrée en vigueur du règlement (UE) 2018/1139 du 4 juillet 2018.
 

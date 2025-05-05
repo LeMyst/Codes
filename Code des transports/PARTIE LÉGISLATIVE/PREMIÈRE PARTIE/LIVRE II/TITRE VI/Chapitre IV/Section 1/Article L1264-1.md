@@ -14,7 +14,9 @@ Sans préjudice de l'article L. 1264-10, l'Autorité de régulation des transpor
 
 6° Les dispositions des articles L. 1115-10 à L. 1115-12 du présent code ;
 
-6° bis Les articles 3 à 9 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 complétant la directive 2010/40/ UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux, les articles L. 1115-1, L. 1115-3 et L. 1115-5, le second alinéa de l'article L. 1115-6 et l'article L. 1115-7 du présent code ainsi que l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière ;
+6° bis Les articles L. 1115-1, L. 1115-3 et L. 1115-5, le second alinéa de l'article L. 1115-6 et l'article L. 1115-7 du présent code ainsi que l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière ;
+
+6° ter Les articles L. 1513-2 et L. 1513-3 du présent code ;
 
 7° Les dispositions de la section 6 du chapitre II du titre IV du livre Ier de la deuxième partie et de l'article L. 2251-1-2 du présent code.
 

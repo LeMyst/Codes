@@ -1,10 +1,7 @@
 # Article L2221-7-1
 
-Les personnels exerçant, sur le système ferroviaire sur lequel s'exerce la mission d'autorité nationale de sécurité de l'Etablissement public de sécurité ferroviaire mentionnée à l'article L. 2221-1, lorsqu'il est offert une capacité d'infrastructure, les tâches essentielles pour la sécurité ferroviaire énumérées par un arrêté du ministre chargé des transports sont soumis à une vérification de leur aptitude dans des conditions définies par décret en Conseil d'Etat.
+Les personnels exerçant des tâches critiques pour la sécurité autres que la conduite sont soumis à une vérification de leur aptitude médicale par un médecin et de leur aptitude psychologique par un psychologue qualifié en application du règlement d'exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d'interopérabilité relative au sous-système “ Exploitation et gestion du trafic ” du système ferroviaire au sein de l'Union européenne et abrogeant la décision 2012/757/ UE.
+
+Les modalités de qualification du médecin et du psychologue mentionnés au premier alinéa du présent article sont fixées par voie réglementaire.
 
 Le recours à l'encontre des décisions d'inaptitude s'effectue dans les conditions prévues au deuxième alinéa de l'article L. 2221-8.
-
-Un décret définit les conditions dans lesquelles une aptitude délivrée à l'étranger fait l'objet d'une reconnaissance.
-
-NOTA:
-Conformément aux dispositions de l'article 7 de l'ordonnance n° 2019-397 du 30 avril 2019, ces dispositions entrent en vigueur le 16 juin 2019.

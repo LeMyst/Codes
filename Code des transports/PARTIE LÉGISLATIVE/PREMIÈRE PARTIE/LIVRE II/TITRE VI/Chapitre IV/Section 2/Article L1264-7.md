@@ -22,7 +22,7 @@ Sont sanctionnés dans les conditions prévues par la présente section :
 
 10° Le manquement de l'exploitant d'un aérodrome relevant de la compétence de l'Autorité de régulation des transports au titre de l'article L. 6327-1 aux obligations lui incombant au titre des articles L. 6325-1 et L. 6325-7 et des textes pris pour leur application ;
 
-11° Le non-respect des articles 3 à 9 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 complétant la directive 2010/40/ UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux, des articles L. 1115-1, L. 1115-3 et L. 1115-5, du second alinéa de l'article L. 1115-6 et de l'article L. 1115-7 du présent code ainsi que de l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière par une personne mentionnée au 1° de l'article L. 1115-1 du présent code, un opérateur de transport, un gestionnaire d'infrastructure, un fournisseur de services de transport à la demande ou un fournisseur de services d'informations sur les déplacements au sens de l'article 2 du règlement délégué (UE) 2017/1926 de la Commission du 31 mai 2017 précité ;
+11° Le non-respect des articles L. 1115-1, L. 1115-3 et L. 1115-5, du second alinéa de l'article L. 1115-6 et de l'article L. 1115-7 du présent code ainsi que de l'avant-dernier alinéa de l'article L. 141-13 du code de la voirie routière par une personne mentionnée au 1° de l'article L. 1115-1 du présent code ;
 
 12° Le non-respect des articles L. 1115-10 à L. 1115-12 par l'une des personnes mentionnées aux mêmes articles L. 1115-10 à L. 1115-12 ;
 

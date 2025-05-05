@@ -18,5 +18,4 @@ La fixation des tarifs et de leurs modulations par l'Autorité de régulation de
 
 IV. - Lorsqu'un aérodrome est exploité dans le cadre d'un contrat de concession, la condition relative à la modération de l'évolution des tarifs prévue au II du présent article n'est pas applicable aux premiers tarifs des redevances homologués par l'Autorité de régulation des transports après l'entrée en vigueur du contrat.
 
-NOTA:
-Conformément au III de l'article 24 de la loi n° 2024-364 du 22 avril 2024, le IV de cet article s'applique aux contrats de concession conclus après la publication de la présente loi
+V.-La condition relative à la modération de l'évolution des tarifs prévue au II peut ne pas être appliquée par l'Autorité de régulation des transports lorsqu'elle a eu pour conséquence d'empêcher, chaque année pendant une durée de cinq ans, l'exploitant de l'aérodrome de recevoir une juste rémunération des capitaux investis sur le périmètre d'activités mentionné à l'article L. 6325-1.

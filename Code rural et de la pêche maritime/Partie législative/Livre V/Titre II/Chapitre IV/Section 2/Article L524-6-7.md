@@ -10,15 +10,10 @@ II.-Lorsqu'une coopérative agricole ou union de coopératives agricoles publie 
 
 III.-La publication d'informations combinées en matière de durabilité satisfait à l'obligation relative aux informations consolidées en matière de durabilité, sauf disposition contraire liée à l'admission de titres aux négociations sur un marché réglementé.
 
-IV.-Les dispenses prévues au second alinéa du V de l'article L. 232-6-3 et au V de l'article L. 233-28-4 du code de commerce s'appliquent à toute coopérative agricole ou union de coopératives agricoles comprise dans les informations combinées en matière de durabilité d'une société combinante, sous réserve que cette coopérative ou cette union remplisse l'une des conditions suivantes :
+IV.-Les dispenses prévues au second alinéa du V de l'article L. 232-6-3 et au V de l'article L. 233-28-4 du code de commerce s'appliquent à toute coopérative agricole ou union de coopératives agricoles comprise dans les informations combinées en matière de durabilité d'une entreprise combinante, sous réserve que cette coopérative ou cette union remplisse l'une des conditions suivantes :
 
-1° Etre liée à la société combinante par un lien de combinaison ;
+1° Etre liée à l'entreprise combinante par un lien de combinaison ;
 
-2° Etre contrôlée au sens du II ou du III de l'article L. 233-16 du code de commerce par une autre entité elle-même liée à la société combinante par un lien de combinaison ;
+2° Etre contrôlée au sens du II ou du III de l'article L. 233-16 du code de commerce par une autre entité elle-même liée à l'entreprise combinante par un lien de combinaison ;
 
-3° Etre contrôlée au sens du II ou du III de l'article L. 233-16 du code de commerce par la société combinante.
-
-NOTA:
-Conformément au I de l’article 33 de l’ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Se reporter aux modalités d’application prévues aux II et III de l’article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.
+3° Etre contrôlée au sens du II ou du III de l'article L. 233-16 du code de commerce par l'entreprise combinante.

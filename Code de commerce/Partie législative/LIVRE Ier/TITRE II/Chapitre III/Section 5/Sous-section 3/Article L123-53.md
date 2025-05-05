@@ -18,5 +18,4 @@ e) Les officiers habilités de police judiciaire de la police nationale et de la
 
 f) Les autorités mentionnées au sein de la sous-section 2 de la présente section, pour les entreprises relevant de leur champ de compétence et à l'exception des pièces annexées couvertes par une déclaration de confidentialité.
 
-NOTA:
-Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+L'accès aux informations relatives aux bénéficiaires effectifs mentionnées au 4° de l'article L. 123-37 du présent code s'exerce dans les conditions prévues aux articles L. 561-46 et L. 561-46-2 du code monétaire et financier.

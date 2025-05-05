@@ -14,9 +14,4 @@ IV. - Un ou plusieurs actionnaires ou associés représentant au moins 5 % du ca
 
 V. - Les dispositions du présent article ne s'appliquent pas lorsque la société est soumise à l'article L. 233-28-4.
 
-Elles ne s'appliquent pas non plus lorsque la société et, le cas échéant, les sociétés qu'elle contrôle, au sens du II ou du III de l'article L. 233-16, sont incluses dans les informations en matière de durabilité d'une société consolidante qui exerce un contrôle sur ces sociétés, au sens du II ou du III de ce même article, selon des modalités définies par décret en Conseil d'Etat.
-
-NOTA:
-Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Se reporter aux modalités d'application prévues à l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.
+Elles ne s'appliquent pas non plus lorsque la société et, le cas échéant, les sociétés qu'elle contrôle, au sens du II ou du III de l'article L. 233-16, sont incluses dans les informations en matière de durabilité d'une entreprise consolidante qui exerce un contrôle sur ces sociétés, au sens du II ou du III de ce même article, selon des modalités définies par décret en Conseil d'Etat.

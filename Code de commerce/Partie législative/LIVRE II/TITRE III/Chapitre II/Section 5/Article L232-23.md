@@ -2,7 +2,7 @@
 
 I. – Toute société par actions est tenue de déposer au greffe du tribunal, pour être annexés au registre du commerce et des sociétés, dans le mois suivant l'approbation des comptes annuels par l'assemblée générale des actionnaires ou dans les deux mois suivant cette approbation lorsque ce dépôt est effectué par voie électronique :
 
-1° Les comptes annuels, le rapport de gestion, le rapport des commissaires aux comptes sur les comptes annuels, le cas échéant, éventuellement complété de leurs observations sur les modifications apportées par l'assemblée aux comptes annuels qui ont été soumis à cette dernière ainsi que, le cas échéant, les comptes consolidés, le rapport sur la gestion du groupe, le rapport des commissaires aux comptes sur les comptes consolidés et le rapport du conseil de surveillance et le rapport de certification des informations en matière de durabilité ;
+1° Les comptes annuels, le rapport de gestion, le rapport des commissaires aux comptes sur les comptes annuels, le cas échéant, éventuellement complété de leurs observations sur les modifications apportées par l'assemblée aux comptes annuels qui ont été soumis à cette dernière ainsi que, le cas échéant, les comptes consolidés, le rapport sur la gestion du groupe, le rapport des commissaires aux comptes sur les comptes consolidés et le rapport du conseil de surveillance et le rapport de certification des informations en matière de durabilité. Lorsque, selon l'avis dûment motivé du conseil, du directoire ou du gérant, la publication de certaines informations en matière de durabilité est de nature à nuire gravement à la position commerciale de la société, ces informations peuvent être omises du rapport déposé au greffe du tribunal de commerce, à condition que cette omission ne fasse pas obstacle à la compréhension juste et équilibrée de la situation de la société et des incidences de son activité et que ces informations soient transmises à l'Autorité des marchés financiers ;
 
 2° La proposition d'affectation du résultat soumise à l'assemblée et la résolution d'affectation votée.
 
@@ -15,6 +15,3 @@ III.-Les sociétés qui, auprès de l'Autorité des marchés financiers, dépose
 Ce dépôt vaut dépôt des documents mentionnés aux 1° et au 2° du I, lorsque ces derniers sont inclus dans le document d'enregistrement ou le document d'enregistrement universel. Le document d'enregistrement ou le document d'enregistrement universel comprend une table permettant au greffier de les identifier.
 
 Les documents mentionnés aux 1° et 2° du I qui ne sont pas contenus dans le document d'enregistrement ou le document d'enregistrement universel ou dont la table mentionnée au précédent alinéa ne permet pas l'identification sont déposés concomitamment à celui-ci au greffe du tribunal.
-
-NOTA:
-Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

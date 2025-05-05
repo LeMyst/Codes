@@ -1,6 +1,3 @@
 # Article L821-55
 
-Sans préjudice des obligations d'information résultant du rapport mentionné au dernier alinéa de l'article L. 821-53 et, le cas échéant, du rapport complémentaire prévu au III de l'article L. 821-63, ainsi que des dispositions des articles L. 234-1 à L. 234-4 du présent code et des articles L. 212-14, L. 214-14, L. 621-23 et L. 612-44 du code monétaire et financier, les missions de certification des comptes et de certification des informations en matière de durabilité du commissaire aux comptes ne consistent pas à garantir la viabilité ou la qualité de la gestion de la personne ou entité contrôlée.
-
-NOTA:
-Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Sans préjudice des obligations d'information résultant du rapport mentionné au dernier alinéa de l'article L. 821-53 et, le cas échéant, du rapport complémentaire prévu au III de l'article L. 821-63, ainsi que des dispositions des articles L. 234-1 à L. 234-4 du présent code et des articles L. 212-14, L. 621-23 et L. 612-44 du code monétaire et financier, les missions de certification des comptes et de certification des informations en matière de durabilité du commissaire aux comptes ne consistent pas à garantir la viabilité ou la qualité de la gestion de la personne ou entité contrôlée.

@@ -28,7 +28,4 @@ La disposition prévue au 4° relative aux indicateurs de nature extra-financiè
 
 III. – Les documents mentionnés au présent article sont, le cas échéant, mis à la disposition des commissaires aux comptes dans des conditions déterminées par décret en Conseil d'Etat.
 
-IV. – Sont dispensées de l'obligation d'établir un rapport de gestion les sociétés commerciales qui sont des petites entreprises au sens de l'article L. 230-1. Cette dispense n'est pas applicable aux sociétés appartenant à l'une des catégories définies à l'article L. 123-16-2 ou dont l'activité consiste à gérer des titres de participations ou des valeurs mobilières.
-
-NOTA:
-Conformément au I de l'article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+IV. – Sont dispensées de l'obligation d'établir un rapport de gestion les sociétés commerciales qui sont des microentreprises ou des petites entreprises au sens de l'article L. 230-1. Cette dispense n'est pas applicable aux sociétés appartenant à l'une des catégories définies à l'article L. 123-16-2 ou dont l'activité consiste à gérer des titres de participations ou des valeurs mobilières.

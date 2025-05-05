@@ -12,11 +12,8 @@ Le rapporteur général et les enquêteurs peuvent à cet effet :
 
 4° Accéder aux locaux à usage professionnel ;
 
-5° Demander à des commissaires aux comptes inscrits sur une liste établie par la Haute autorité après avis de la compagnie nationale des commissaires aux comptes ou à des auditeurs de durabilité inscrits sur la liste mentionnée au I de l'article L. 822-4, de procéder à des vérifications ou d'effectuer des actes d'enquête sous leur contrôle ;
+5° Demander à des commissaires aux comptes inscrits sur une liste établie par la Haute autorité après avis de la compagnie nationale des commissaires aux comptes ou à des auditeurs des informations en matière de durabilité inscrits sur la liste mentionnée à l'article L. 822-4, de procéder à des vérifications ou d'effectuer des actes d'enquête sous leur contrôle ;
 
 6° Faire appel à des experts.
 
 Toute personne entendue pour les besoins de l'enquête peut se faire assister par un conseil de son choix.
-
-NOTA:
-Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

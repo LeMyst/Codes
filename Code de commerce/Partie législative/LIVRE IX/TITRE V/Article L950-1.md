@@ -60,6 +60,8 @@ L'article L. 228-10 est applicable dans sa rédaction résultant de la loi n° 2
 
 Les articles L. 22-10-1 à L. 22-10-6, L. 22-10-8, L. 22-10-9 et L. 22-10-11 à L. 22-10-23, L. 22-10-34 et L. 22-10-39 à L. 22-10-45, L. 22-10-47, L. 22-10-49 à L. 22-10-51, L. 22-10-54 à L. 22-10-58 et L. 22-10-60 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 portant création, au sein du code de commerce, d'un chapitre relatif aux sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation.
 
+L'article L. 22-10-1-1 est applicable dans sa rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
+
 Les articles L. 22-10-46, L. 22-10-52, L. 22-10-52-1 et L. 22-10-53 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
 
 L'article L. 22-10-48 est applicable dans sa rédaction résultant de l'ordonnance n° 2025-230 du 12 mars 2025 ;

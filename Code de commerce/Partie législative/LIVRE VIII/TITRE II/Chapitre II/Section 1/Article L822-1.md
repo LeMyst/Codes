@@ -6,7 +6,4 @@ II.-Pour l'application du présent chapitre :
 
 1° “ Organisme tiers indépendant ” désigne une personne morale accréditée dans les conditions prévues à l'article L. 822-3 et inscrite sur la liste prévue à cet article ;
 
-2° “ Auditeur des informations en matière de durabilité ” désigne une personne physique associée, actionnaire, dirigeante, y compris comme membre d'un organe de gestion, d'administration ou de surveillance, ou salariée d'un organisme tiers indépendant, qui remplit les conditions énumérées au II de l'article L. 822-4 et inscrite sur la liste mentionnée au I de l'article L. 822-4.
-
-NOTA:
-Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+2° “ Auditeur des informations en matière de durabilité ” désigne une personne physique associée, actionnaire, dirigeante, y compris comme membre d'un organe de gestion, d'administration ou de surveillance, ou salariée d'un organisme tiers indépendant, qui remplit les conditions énumérées à l'article L. 822-4 et inscrite sur la liste mentionnée au même article L. 822-4.

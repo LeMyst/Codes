@@ -6,9 +6,9 @@ I.-Les commissaires aux comptes chargés d'une mission de certification des comp
 
 2° S'ils réalisent une mission de certification des comptes, les modifications qui leur paraissent devoir être apportées aux comptes devant être arrêtés ou aux autres documents comptables, en faisant toutes observations utiles sur les méthodes d'évaluation utilisées pour leur établissement ;
 
-3° S'ils réalisent une mission de certification des informations en matière de durabilité, les modifications qui leur paraissent devoir être apportées au rapport de durabilité, en faisant toutes observations utiles sur les méthodes d'évaluation utilisées pour leur établissement ;
+3° S'ils réalisent une mission de certification des informations en matière de durabilité, les modifications qui leur paraissent devoir être apportées à ces informations, en faisant toutes observations utiles sur les méthodes d'évaluation utilisées pour leur établissement ;
 
-4° Les modifications qui leur paraissent devoir être apportées aux éléments objets de leur contrôle ;
+4° Les modifications qui leur paraissent devoir être apportées aux autres éléments objets de leur contrôle ;
 
 5° Les irrégularités et les inexactitudes qu'ils auraient découvertes à l'occasion de leur mission ou prestation ;
 
@@ -21,6 +21,3 @@ II.-Lorsqu'ils interviennent auprès de personnes ou d'entités soumises aux dis
 2° Une actualisation des informations mentionnées à l'article L. 821-4.
 
 III.-Lorsqu'ils interviennent auprès de personnes ou d'entités soumises aux dispositions de l'article L. 821-67, les commissaires aux comptes chargés d'une mission de certification des comptes remettent au comité spécialisé au sens dudit article un rapport complémentaire conforme aux dispositions de l'article 11 du règlement (UE) n° 537/2014 du 16 avril 2014. Ce rapport est remis à l'organe chargé de l'administration ou à l'organe de surveillance lorsque celui-ci remplit les fonctions du comité spécialisé. (1)
-
-NOTA:
-Conformément à l'article 32 de l'ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.

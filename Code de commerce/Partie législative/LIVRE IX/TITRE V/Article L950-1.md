@@ -4,7 +4,7 @@ I. – Sous réserve des adaptations prévues dans les chapitres ci-après, les 
 
 1° Le livre Ier, à l'exception des articles L. 123-29 à L. 123-31, L. 124-1 à L. 126-1, L. 135-1 à L. 135-3 ;
 
-L'article L. 123-6 est applicable dans sa rédaction résultant de l'ordonnance n° 2016-1635 du 1er décembre 2016 renforçant le dispositif français de lutte contre le blanchiment et le financement du terrorisme ;
+Les articles L. 123-6, L. 123-52 et L. 123-53 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
 Les articles L. 123-1 et L. 123-11 sont applicables, dans leur rédaction résultant de l'ordonnance n° 2024-662 du 3 juillet 2024 ;
 
@@ -35,8 +35,6 @@ Les articles L. 227-10 et L. 227-19 sont applicables dans leur rédaction résul
 Les articles L. 228-40, L. 228-46-1, L. 228-47, L. 228-53, L. 228-54, L. 228-58, L. 228-77 et L. 228-79 à L. 228-81 sont applicables dans leur rédaction issue de l'ordonnance n° 2017-970 du 10 mai 2017 ;
 
 L'article L. 228-73 est applicable dans sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
-
-Les articles L. 232-25 et L. 232-26 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 précitée ;
 
 L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1107 du 22 juin 2017 ;
 
@@ -71,6 +69,10 @@ Les articles L. 228-2, L. 228-3-1, L. 228-3-7, L. 228-29-7-1 à L. 228-29-7-4 et
 Les articles L. 223-42 et L. 225-248 sont applicables dans leur rédaction résultant de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture ;
 
 Les articles L. 229-3 et L. 229-5 sont applicables dans leur rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+
+Les articles L. 232-1, L. 232-6-3, L. 232-6-4, L. 233-28-4 et L. 233-28-5 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
+
+L'article L. 232-6-2 est applicable dans sa rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
 Les articles L. 236-1 et L. 236-2, L. 236-3 à L. 236-16, L. 236-18 et L. 236-19, L. 236-23 à L. 236-27, L. 236-32 à L. 236-34, L. 236-37, L. 236-39, L. 236-41 à L. 236-47, L. 236-49, L. 236-51 et L. 236-53 sont applicables dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
 
@@ -322,3 +324,5 @@ II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
 2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
+
+Toutefois, les articles L. 820-4, L. 820-15, L. 821-4, L. 821-18, L. 821-25, L. 821-35, L. 821-54, L. 821-63, L. 821-67, L. 821-74, L. 822-1, L. 822-2, L. 822-6, L. 822-20, L. 822-24, L. 822-28 et L. 822-38 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.

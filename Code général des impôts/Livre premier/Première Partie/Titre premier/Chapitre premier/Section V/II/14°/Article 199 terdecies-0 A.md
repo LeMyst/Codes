@@ -130,8 +130,6 @@ E.-Sont exclues du bénéfice de l'avantage fiscal prévu au A du présent VI le
 
 VII. - L'avantage fiscal mentionné au VI s'applique dans les mêmes conditions, au taux de 30 %, pour les versements au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier dont l'actif est constitué pour 70 % au moins de valeurs mobilières, de parts de société à responsabilité limitée et d'avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
 
-Les réductions d'impôt prévues au VI et au présent VII sont exclusives les unes des autres pour les souscriptions dans un même fonds.
-
 VIII.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 30 % des versements au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité mentionnés à l'article L. 214-31 du code monétaire et financier dont l'actif est constitué pour 70 % au moins de titres financiers, de parts de société à responsabilité limitée et d'avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Les quatre derniers alinéas du A et les B à E du VI du présent article sont applicables.

@@ -17,4 +17,4 @@ La forme des poinçons ainsi que les conditions dans lesquelles ils sont apposé
 La garantie assure à l'acheteur, par l'apposition du poinçon de garantie, le titre du produit mis sur le marché. Elle est mise en oeuvre par l'administration ou par l'organisme de contrôle agréé au moyen d'un contrôle préalable. Lorsque les professionnels bénéficient de l'habilitation prévue au deuxième alinéa du I de l'article 535, ils répondent de la concordance entre le titre correspondant au poinçon insculpé et le titre réel de l'ouvrage mis sur le marché (1).
 
 NOTA:
-(1) Ces dispositions entrent en vigueur à compter du 1er juillet 2004.
+L'abrogation du présent article prend effet conformément aux dispositions de l'article 38 de l'ordonnance n° 2021-1843 ainsi que de l'article 41 de l'ordonnance n° 2023-1210.

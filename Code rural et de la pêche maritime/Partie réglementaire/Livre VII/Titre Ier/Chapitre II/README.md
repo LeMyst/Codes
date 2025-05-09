@@ -1,1 +1,1 @@
-Chapitre II : Titre emploi simplifié agricole.
+Chapitre II : Titre emploi simplifié agricole

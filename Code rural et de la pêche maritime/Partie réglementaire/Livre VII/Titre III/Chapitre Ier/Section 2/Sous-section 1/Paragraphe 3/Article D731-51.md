@@ -10,7 +10,5 @@ L'âge maximal est, le cas échéant, reculé d'une durée égale au temps de se
 
 Toutefois, les personnes mentionnées au second alinéa de l'article L. 722-6 du présent code peuvent opter pour le bénéfice de l'exonération partielle de cotisations soit lors de leur affiliation à titre dérogatoire, soit à l'issue de leur période d'affiliation à titre dérogatoire, dès lors qu'ils remplissent les conditions prévues aux alinéas 2 à 4.
 
-Pour exercer le droit d'option prévu au deuxième alinéa de l'article L. 731-13, les jeunes chefs d'exploitation ou d'entreprise agricole déposent une demande auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin de l'année à partir de laquelle ils souhaitent en bénéficier. L'exercice de ce droit d'option vaut renonciation totale et irrévocable à l'exonération partielle prévue au premier alinéa du présent article. L'option est exprimée au moyen d'un formulaire dont le modèle est prévu par arrêté du ministre chargé de l'agriculture.
-
 NOTA:
-Conformément au III de l’article 4 du décret n° 2022-1529 du 7 décembre 2022, ces dispositions sont applicables à compter des cotisations dues au titre de l'année 2023.
+Conformément au premier alinéa de l'article 3 du décret n° 2025-411 du 9 mai 2025, ces dispositions s'appliquent au calcul des cotisations et contributions sociales dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2025.

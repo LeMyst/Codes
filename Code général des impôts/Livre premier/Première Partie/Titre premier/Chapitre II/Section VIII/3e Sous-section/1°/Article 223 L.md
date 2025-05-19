@@ -34,7 +34,7 @@ Si ce pourcentage est encore atteint à cette date, la société mère demeure s
 
 Dans cette situation, si la personne morale mentionnée au premier alinéa remplit les conditions mentionnées aux premier, deuxième, quatrième et cinquième alinéas du I de l'article 223 A et souhaite constituer un groupe avec les sociétés qui composaient celui qui avait été formé par la société mère visée au même alinéa, ou faire entrer celles-ci dans le groupe dont elle est déjà membre, l'option prévue aux premier, deuxième, quatrième ou cinquième alinéas du I de l'article 223 A est exercée au plus tard à l'expiration du délai prévu au deuxième alinéa du III du même article, décompté de la date de clôture de l'exercice considéré. Cette option est accompagnée du document mentionné au premier alinéa du c.
 
-La durée du premier exercice des sociétés du groupe ainsi formé peut être inférieure ou supérieure à douze mois, sans préjudice de l'application des dispositions de l'article 37. L'option mentionnée au troisième alinéa ci-dessus comporte l'indication de la durée de cet exercice.
+La durée du premier exercice des sociétés du groupe ainsi formé peut être inférieure ou supérieure à douze mois, sans préjudice de l'application des dispositions de l'article 37. L'option mentionnée au troisième alinéa comporte l'indication de la durée de cet exercice.
 
 La société mère visée au premier alinéa ajoute au résultat d'ensemble de l'exercice qui y est également mentionné les sommes dont la réintégration est prévue aux articles 223 F et 223 R du fait de la sortie du groupe de toutes les sociétés qui le composaient.
 

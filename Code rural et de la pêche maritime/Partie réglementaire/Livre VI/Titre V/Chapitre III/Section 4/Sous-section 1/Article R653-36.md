@@ -1,0 +1,5 @@
+# Article R653-36
+
+Seuls peuvent être livrés à la monte publique naturelle les animaux mâles des espèces bovine, ovine, caprine ou porcine inscrits ou enregistrés et susceptibles d'être inscrits dans la section principale d'un livre généalogique tenu par un organisme de sélection agréé par le ministre chargé de l'agriculture ou par l'autorité compétente d'un autre Etat membre de l'Union européenne.
+
+Toutefois, des animaux ne répondant pas à cette condition peuvent être admis à la monte publique naturelle à des fins d'amélioration des performances zootechniques des animaux ou de préservation de la diversité génétique dans des conditions fixées par arrêté du ministre chargé de l'agriculture. La descendance de ces animaux reste soumise aux règles d'inscription dans les livres généalogiques prévues par le règlement (UE) 2016/1012 du Parlement européen et du Conseil du 8 juin 2016 relatif aux conditions zootechniques et généalogiques applicables à l'élevage, aux échanges et à l'entrée dans l'Union de reproducteurs de race pure, de reproducteurs porcins hybrides et de leurs produits germinaux.

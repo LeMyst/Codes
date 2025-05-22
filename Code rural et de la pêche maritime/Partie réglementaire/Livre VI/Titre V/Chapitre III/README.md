@@ -1,1 +1,1 @@
-Chapitre III : Reproduction et amélioration génétique des animaux d'élevage
+Chapitre III : Reproduction, amélioration et préservation du patrimoine génétique des animaux d'élevage

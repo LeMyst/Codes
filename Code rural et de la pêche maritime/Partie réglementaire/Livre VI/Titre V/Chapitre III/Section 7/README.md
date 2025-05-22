@@ -1,1 +1,1 @@
-Section 7 : La monte publique et privée, la traçabilité du matériel de reproduction, et l'insémination animale
+Section 7 : Contrôles et mesures de police administrative

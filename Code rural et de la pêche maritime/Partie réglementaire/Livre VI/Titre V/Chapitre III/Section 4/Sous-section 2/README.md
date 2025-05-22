@@ -1,1 +1,1 @@
-Sous-section 2 : Organismes relatifs aux équidés
+Sous-section 2 : L'insémination animale

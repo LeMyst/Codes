@@ -1,0 +1,3 @@
+# Article R653-53
+
+Tout éleveur pratiquant l'insémination au sein de son troupeau dans les espèces bovine ou caprine constitue un dépôt de semence et tient à jour un inventaire des doses détenues dans son exploitation ainsi qu'un dispositif d'enregistrement de toutes les inséminations réalisées par ses soins. Il transmet chaque enregistrement d'insémination à la base nationale des données zootechniques. L'inventaire des doses et les enregistrements des inséminations sont consignés dans le registre de monte annexé au registre d'élevage prévu à l'article L. 214-9 et examinés dans le cadre des contrôles réalisés par les services de l'Etat ou les établissements de l'élevage.

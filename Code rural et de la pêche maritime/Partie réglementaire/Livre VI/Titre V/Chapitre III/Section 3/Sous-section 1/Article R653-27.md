@@ -1,0 +1,3 @@
+# Article R653-27
+
+L'Institut français du cheval et de l'équitation, ou tout autre organisme mentionné à l'article D. 212-55-1, compétent pour délivrer le document d'identification unique à vie défini au point 22 de l'article 2 du règlement d'exécution (UE) 2021/963 de la Commission du 10 juin 2021 portant modalités d'application des règlements (UE) 2016/429, (UE) 2016/1012 et (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne l'identification et l'enregistrement des équidés et établissant des modèles de document d'identification de ces animaux, peut demander à un opérateur détenant un équidé enregistré, au sens de ce règlement, la réalisation d'un contrôle de parenté aux fins de certification de ses origines sur le document d'identification.

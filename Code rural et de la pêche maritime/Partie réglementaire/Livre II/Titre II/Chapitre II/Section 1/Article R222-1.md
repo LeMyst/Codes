@@ -12,4 +12,4 @@ d) " Vétérinaire responsable " : un vétérinaire responsable du respect quoti
 
 e) " Equipe de transplantation embryonnaire " : groupe de techniciens, placé sous la responsabilité d'un vétérinaire et assurant la collecte, le traitement et le stockage d'ovocytes, d'ovules et d'embryons ainsi que la mise en place d'embryons.
 
-La monte naturelle et artificielle, publique ou privée ainsi que la traçabilité du matériel de reproduction sont définies à l'article R. 653-75.
+La monte naturelle et artificielle, publique ou privée ainsi que la traçabilité du matériel de reproduction sont définies au dernier alinéa de l'article L. 653-3 et à l'article R. 653-35.

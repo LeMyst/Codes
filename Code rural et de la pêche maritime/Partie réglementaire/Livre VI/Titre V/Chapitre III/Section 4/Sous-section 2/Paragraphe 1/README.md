@@ -1,1 +1,1 @@
-Paragraphe 1 : L'Institut français du cheval et de l'équitation
+Paragraphe 1 : Dispositions relatives aux espèces bovine, ovine, caprine ou porcine

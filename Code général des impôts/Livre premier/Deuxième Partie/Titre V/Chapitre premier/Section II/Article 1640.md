@@ -12,7 +12,7 @@ b) Pour l'année où la création de la commune nouvelle prend fiscalement effet
 
 2° Les délibérations prises par l'établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C et participant à la création de la commune nouvelle en application du I de l'article L. 2113-5 du code général des collectivités territoriales sont maintenues dans les conditions suivantes :
 
-a) Pour leur durée et leur quotité lorsqu'elles sont prises en application des articles 1464 B, 1464 D, 1465,1465 A et 1465 B, des I, I quinquies A, I quinquies B, I sexies et I septies de l'article 1466 A et des articles 1466 B, 1466 B bis 1466 D, 1466 E, 1466 F et 1478 bis du présent code et que ces dispositions sont en cours d'application ou sont applicables pour la première fois l'année où la création prend fiscalement effet ;
+a) Pour leur durée et leur quotité lorsqu'elles sont prises en application des articles 1464 B, 1464 D, 1465,1465 A et 1465 B, des I, I quinquies A, I quinquies B, I sexies et I septies de l'article 1466 A et des articles 1466 B, 1466 B bis, 1466 D, 1466 E, 1466 F et 1478 bis du présent code et que ces dispositions sont en cours d'application ou sont applicables pour la première fois l'année où la création prend fiscalement effet ;
 
 b) Pour l'année où la création de la commune prend fiscalement effet lorsqu'elles sont prises en application du 3° de l'article 1459 et des articles 1464, 1464 A, 1464 F, 1464 G, 1464 H, 1464 I, 1464 I bis, 1464 M, 1469 A quater, 1518 A et 1647 D.
 

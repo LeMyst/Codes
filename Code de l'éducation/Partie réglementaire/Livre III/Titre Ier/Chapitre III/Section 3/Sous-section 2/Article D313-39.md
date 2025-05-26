@@ -26,7 +26,7 @@ a) Le directeur général de l'établissement mentionné à l'article L. 5315-1 
 
 b) Le directeur général de l'opérateur France Travail ou son représentant ;
 
-c) Le Commissaire général à la stratégie et à la prospective ou son représentant ;
+c) Le haut-commissaire à la stratégie et au plan ou son représentant ;
 
 d) Le directeur général de l'Office national d'information sur les enseignements et les professions ou son représentant ;
 
@@ -61,6 +61,3 @@ Le mandat des membres du conseil d'administration, à l'exclusion des membres me
 Les membres du conseil d'administration mentionnés au 3° ci-dessus sont nommés par arrêté du ministre chargé de l'éducation et du ministre chargé de l'emploi.
 
 Les membres du conseil d'administration mentionnés au 4° ci-dessus sont nommés par arrêté des mêmes ministres, après avis du ministre chargé de la recherche.
-
-NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.

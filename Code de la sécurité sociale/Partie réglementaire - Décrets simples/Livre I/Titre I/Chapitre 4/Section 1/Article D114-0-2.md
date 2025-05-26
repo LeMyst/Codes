@@ -52,7 +52,7 @@ g) Le directeur de l'animation de la recherche, des études et des statistiques 
 
 h) Le directeur général de la direction générale des entreprises ;
 
-4° Le président du Haut Conseil pour l'avenir de l'assurance maladie, le président du Conseil d'orientation des retraites, le président du Haut Conseil de la famille, de l'enfance et de l'âge, le directeur général de France Stratégie ;
+4° Le président du Haut Conseil pour l'avenir de l'assurance maladie, le président du Conseil d'orientation des retraites, le président du Haut Conseil de la famille, de l'enfance et de l'âge, le directeur général de Haut-Commissariat à la stratégie et au plan ;
 
 5° Le président de l'Agence centrale des organismes de sécurité sociale, le président de la Caisse nationale de l'assurance maladie, le président de la Caisse nationale d'assurance vieillesse, le président de la Caisse nationale des allocations familiales, le président de la Caisse nationale de solidarité pour l'autonomie, le président de la Caisse centrale de la mutualité sociale agricole, le président de l'Association générale des institutions de retraite des cades-Association pour le régime de retraite complémentaire des salariés (AGIRC-ARRCO) ;
 

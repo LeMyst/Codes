@@ -36,7 +36,7 @@ l) Un représentant désigné par l'Union des fédérations de fonctionnaires (U
 
 5° Neuf représentants de l'Etat :
 
-a) Le Commissaire général à la stratégie et à la prospective ;
+a) Le haut-commissaire à la stratégie et au plan ;
 
 b) Le directeur général de l'administration et de la fonction publique ;
 

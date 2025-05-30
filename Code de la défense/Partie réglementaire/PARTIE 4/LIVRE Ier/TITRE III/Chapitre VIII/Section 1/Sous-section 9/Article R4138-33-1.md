@@ -6,11 +6,17 @@ I. - Le militaire peut, sur sa demande, renoncer anonymement et sans contreparti
 
 2° Vient en aide à une personne atteinte d'une perte d'autonomie d'une particulière gravité ou présentant un handicap, lorsque cette personne est, pour le bénéficiaire du don, l'une de celles mentionnées aux 1° à 9° de l'article L. 3142-16 du code du travail.
 
-II. - Le militaire peut, sur sa demande, renoncer anonymement et sans contrepartie à une partie de ses permissions et congés de fin de campagne non pris au bénéfice d'un agent public civil contractuel relevant du même employeur afin de lui permettre d'effectuer une période d'activité de réserve sur son temps de travail, dans le cadre d'un engagement à servir dans la réserve opérationnelle.
+II. - Le militaire peut, sur sa demande, renoncer anonymement et sans contrepartie à une partie de ses permissions et congés de fin de campagne non pris au bénéfice :
+
+1° D'un agent public civil contractuel relevant du même employeur afin de lui permettre d'effectuer une période d'activité de réserve sur son temps de travail dans le cadre d'un engagement à servir dans la réserve opérationnelle militaire ;
+
+2° D'un agent public civil relevant du même employeur afin de lui permettre de participer en qualité de sapeur-pompier volontaire aux missions ou activités d'un service d'incendie et de secours.
 
 III. - Le militaire peut, sur sa demande, renoncer anonymement et sans contrepartie à une partie de ses jours de permissions non pris au bénéfice d'un agent public civil relevant du même employeur ou de tout autre militaire à l'occasion du décès de son enfant âgé de moins de vingt-cinq ans ou du décès d'une personne âgée de moins de vingt-cinq ans à sa charge effective et permanente.
 
-IV. - L'employeur mentionné aux I, II et III du présent article s'entend :
+III bis. - Le militaire peut, sur sa demande, renoncer sans contrepartie à une partie de ses jours de permissions non pris pour raisons de service au bénéfice de son conjoint ou de la personne liée avec lui par un pacte civil de solidarité ou vivant maritalement avec lui, qui est un agent public civil relevant du même employeur ou un militaire.
+
+IV. - L'employeur mentionné aux I, II, III et III bis du présent article s'entend :
 
 1° Pour l'Etat de chaque département ministériel regroupant l'ensemble des services relevant d'un même secrétariat général de ministère ;
 
@@ -24,7 +30,7 @@ IV. - L'employeur mentionné aux I, II et III du présent article s'entend :
 
 6° De toute personne morale de droit privé à laquelle sont rattachés des corps de fonctionnaires.
 
-Les jours de permissions qui peuvent faire l'objet d'un don sont les jours de permissions de longue durée et ceux liés aux congés de fin de campagne.
+V. - Les jours de permissions qui peuvent faire l'objet d'un don au titre du I, II, III et III bis du présent article sont les jours de permissions de longue durée et ceux liés aux congés de fin de campagne.
 
 Les jours de permissions ne peuvent être donnés qu'au-delà du 36e jour pour les militaires régis par l'article R. 4138-19 et du 21e jour pour ceux régis par l'article R. 4138-21.
 

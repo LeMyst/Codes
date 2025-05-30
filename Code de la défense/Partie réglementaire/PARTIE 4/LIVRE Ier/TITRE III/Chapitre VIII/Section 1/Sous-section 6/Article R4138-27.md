@@ -12,8 +12,8 @@ La durée de ce congé correspond à la durée totale des permissions annuelles 
 
 Les bénéfices de campagne attachés à l'embarquement ou au territoire sur lequel a été effectué le séjour sont maintenus pendant la durée du congé de fin de campagne.
 
-Les congés de maladie, de maternité, de paternité et d'accueil de l'enfant, d'adoption, de solidarité familiale, de présence parentale et de proche aidant, accordés au cours d'un congé de fin de campagne, en interrompent le déroulement. L'intéressé conserve le droit à la fraction de congé de fin de campagne dont il n'a pas bénéficié.
+Les congés de maladie, de maternité, de paternité et d'accueil de l'enfant, d'adoption, de solidarité familiale, de présence parentale, de proche aidant et le congé parental, accordés au cours d'un congé de fin de campagne, en interrompent le déroulement. L'intéressé conserve le droit à la fraction de congé de fin de campagne dont il n'a pas bénéficié jusqu'à la cessation de l'état militaire.
 
-Lorsque les nécessités de service l'exigent, le ministre de la défense, le ministre de l'intérieur pour les militaires de la gendarmerie nationale exerçant des missions de sécurité intérieure, ou l'autorité militaire peut rappeler le militaire en congé de fin de campagne, le droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu.
+Lorsque les nécessités de service l'exigent, le ministre de la défense, le ministre de l'intérieur pour les militaires de la gendarmerie nationale exerçant des missions de sécurité intérieure, ou l'autorité militaire peut rappeler le militaire en congé de fin de campagne, le droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu jusqu'à la cessation de l'état militaire.
 
 Le don de jours de congés de fin de campagne autorisé par l'article R. 4138-33-1 est sans incidence sur les bonifications attachées au territoire ou à l'embarquement.

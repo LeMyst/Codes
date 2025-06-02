@@ -21,6 +21,8 @@ Le tableau ci-après détermine les dispositions de la présente partie qui donn
 | Mesures contre les risques de débordement, d'éclaboussure et de déversement par rupture des cuves, bassins, réservoirs et récipients prévues au 2° de l'article R. 4412-17. | 1 mois |
 | Vibrations mécaniques |
 | Caractéristiques des équipements de protection individuelle contre les effets nuisibles des vibrations mécaniques prévues à l'article R. 4445-3. | 8 jours |
+| Épisodes de chaleur intense |
+| Définition des mesures ou actions de prévention du risque professionnel lié à l'exposition aux épisodes de chaleur intense mentionnés à l'article R. 4463-1 | 8 jours |
 | Travaux du bâtiment et du génie civil |
 | Dispositions relatives à l'hébergement des travailleurs prévues aux articles R. 4534-146 et R. 4534-147. | 8 jours |
 | Services de santé au travail |

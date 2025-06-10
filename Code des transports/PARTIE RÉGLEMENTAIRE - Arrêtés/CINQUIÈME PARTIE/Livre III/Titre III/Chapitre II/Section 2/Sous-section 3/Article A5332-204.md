@@ -1,0 +1,6 @@
+# Article A5332-204
+
+Tout équipement et système mentionné aux II de l'article A. 5332-202 utilisé dans un port ou une installation portuaire, notamment dans une gare maritime, doit disposer d'une certification de type attestée par toute autorité ou organisme de certification reconnus par l'un des Etats membres de l'Union européenne ou de l'Espace économique européen, sur la demande de leur constructeur ou distributeur en France.\
+Il est réputé certifié lorsqu'il est démontré, à l'issue d'analyses ou de tests effectués par l'autorité ou l'organisme de certification sur un appareil représentatif des équipements et systèmes soumis à la certification, que son niveau de performance est au moins égal à un seuil fixé par cette autorité ou organisme de certification.\
+Le détenteur du certificat de type doit pouvoir présenter une attestation de conformité de l'équipement ou du système concerné au type certifié, faisant référence à ses procédures, ou à celles du constructeur lorsque le détenteur du certificat de type est un distributeur.\
+Les personnes morales mentionnées aux 1° à 6° de l'article L. 5332-4 utilisant les des portiques de détection de métaux mettent en place une signalétique destinée à informer les personnes porteuses de dispositifs médicaux implantés.

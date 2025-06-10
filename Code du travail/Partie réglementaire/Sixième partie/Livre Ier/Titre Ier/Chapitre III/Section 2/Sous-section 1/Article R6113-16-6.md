@@ -1,0 +1,3 @@
+# Article R6113-16-6
+
+En cas de manquement par l'organisme habilité de ses obligations, le ministre peut suspendre à titre conservatoire la décision d'habilitation, et, après mise en œuvre de la procédure contradictoire prévue aux articles L. 121-1 et suivants du code des relations entre le public et l'administration, abroger cette décision. Pour le même motif, l'organisme certificateur peut suspendre à titre conservatoire la convention d'habilitation et, après avoir informé l'organisme habilité des griefs formulés à son encontre, et laissé à ce dernier un délai suffisant pour présenter ses observations, résilier cette convention.

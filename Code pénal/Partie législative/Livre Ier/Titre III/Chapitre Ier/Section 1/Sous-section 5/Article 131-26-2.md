@@ -32,6 +32,6 @@ II. – Les délits pour lesquels l'inéligibilité est obligatoirement prononc�
 
 [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017.]
 
-14° Le délit de participation à une association de malfaiteurs prévu à l'article 450-1 du présent code, lorsqu'il a pour objet un crime ou un délit mentionné aux 1° à 13° du présent II.
+14° Le délit de participation à une association de malfaiteurs prévu à l'article 450-1 du présent code ainsi que le délit de concours à une organisation criminelle prévu à l'article 450-1-1, lorsque l'association de malfaiteurs ou l'organisation criminelle a pour objet la préparation d'un crime ou d'un délit mentionné aux 1° à 13° du présent II.
 
 III. – Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer la peine prévue par le présent article, en considération des circonstances de l'infraction et de la personnalité de son auteur.

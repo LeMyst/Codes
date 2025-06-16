@@ -1,6 +1,6 @@
 # Article 450-3
 
-Les personnes physiques coupables de l'infraction prévue par l'article 450-1 encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables des infractions prévues aux articles 450-1 et 450-1-1 encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;
 

@@ -1,6 +1,6 @@
 # Article 132-78
 
-La personne qui a tenté de commettre un crime ou un délit est, dans les cas prévus par la loi, exempte de peine si, ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et, le cas échéant, d'identifier les autres auteurs ou complices.
+La personne qui a tenté de commettre un crime ou un délit est, dans les cas prévus par la loi, exempte de peine si, ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction.
 
 Dans les cas prévus par la loi, la durée de la peine privative de liberté encourue par une personne ayant commis un crime ou un délit est réduite si, ayant averti l'autorité administrative ou judiciaire, elle a permis de faire cesser l'infraction, d'éviter que l'infraction ne produise un dommage ou d'identifier les autres auteurs ou complices.
 

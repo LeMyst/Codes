@@ -30,6 +30,6 @@ II.- Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 3
 
 Lorsqu'une peine d'immobilisation ou de confiscation du véhicule est prononcée par la juridiction, les règles relatives aux frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent.
 
-Lorsque l'auteur de l'infraction visée au I du présent article n'est pas le propriétaire du véhicule, l'immobilisation ou la mise en fourrière est levée à l'issue du délai prévu au présent II. Les frais d'enlèvement et de garde en fourrière sont à la charge du propriétaire. Toutefois, en cas de vol du véhicule ayant servi à commettre l'infraction ou lorsque le véhicule était loué à titre onéreux à un tiers, l'immobilisation ou la mise en fourrière est levée dès qu'un conducteur qualifié proposé par le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite.
+Les frais d'enlèvement et de garde en fourrière sont à la charge du propriétaire. Toutefois, en cas de vol du véhicule ayant servi à commettre l'infraction ou lorsque le véhicule était loué de bonne foi et à titre onéreux à un tiers, l'immobilisation ou la mise en fourrière est levée dès qu'un conducteur qualifié proposé par le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite.
 
 Les frais d'enlèvement et de garde du véhicule immobilisé et mis en fourrière pendant une durée maximale de sept jours en application du présent article ne constituent pas des frais de justice relevant de l'article 800 du code de procédure pénale.

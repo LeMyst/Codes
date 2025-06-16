@@ -6,6 +6,8 @@ II. – L'ancien propriétaire effectue la déclaration mentionnée au I soit di
 
 III. – En cas de cession à un professionnel de l'automobile, ce dernier effectue une déclaration d'achat dans les quinze jours suivant la transaction, soit directement par voie électronique, soit par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
 
+La circulation d'un véhicule sous déclaration d'achat est autorisée sous couvert du certificat W garage prévu au I de l'article R. 322-3.
+
 IV. – Lorsqu'un professionnel de l'automobile propriétaire d'un véhicule déjà immatriculé le revend à un non professionnel de l'automobile, il remet à l'acquéreur le certificat d'immatriculation sur lequel sont portées les mentions prévues au I, accompagné du récépissé de la déclaration d'achat en sa possession et remplit, s'il existe, le coupon de ce certificat d'immatriculation.
 
 V. – Dans chacun des cas définis aux alinéas précédents, la remise du certificat d'immatriculation doit être accompagnée d'un certificat, établi depuis moins de quinze jours par le ministre de l'intérieur, attestant à sa date d'édition de la situation administrative du véhicule. Celle-ci précise l'existence ou non d'un gage ainsi que toute opposition au transfert du certificat d'immatriculation du véhicule ou au transfert de la propriété du véhicule.
@@ -13,3 +15,7 @@ V. – Dans chacun des cas définis aux alinéas précédents, la remise du cert
 VI. – Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions d'application du présent article, notamment en ce qui concerne la situation administrative du véhicule, les véhicules tombés dans une succession, vendus aux enchères publiques ou à la suite d'une décision judiciaire, et les véhicules de location.
 
 VII. – Le fait de ne pas effectuer les déclarations ou de ne pas respecter les délais prévus au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+VIII. – Le fait de circuler avec un véhicule sous déclaration d'achat sans plaque W garage est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+L'immobilisation du véhicule et sa mise en fourrière peuvent être prescrites, dans les conditions prévues aux articles L. 325-1 à L. 325-3.

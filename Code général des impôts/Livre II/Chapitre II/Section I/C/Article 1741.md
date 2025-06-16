@@ -26,6 +26,6 @@ Les crédits d'impôt octroyés sur le fondement d'une convention internationale
 
 La juridiction ordonne l'affichage de la décision prononcée et la diffusion de celle-ci dans les conditions prévues aux articles 131-35 ou 131-39 du code pénal. Elle peut toutefois, par une décision spécialement motivée, décider de ne pas ordonner l'affichage de la décision prononcée et la diffusion de celle-ci, en considération des circonstances de l'infraction et de la personnalité de son auteur.
 
-La durée de la peine privative de liberté encourue par l'auteur ou le complice d'un des délits mentionnés au présent article est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis d'identifier les autres auteurs ou complices.
+La durée de la peine privative de liberté encourue par l'auteur ou le complice d'un des délits mentionnés au présent article est réduite des deux tiers si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction ou d'identifier, le cas échéant, les autres auteurs ou complices.
 
 Les poursuites sont engagées dans les conditions prévues aux articles L. 229 à L. 231 du livre des procédures fiscales.

@@ -6,7 +6,9 @@ L'introduction dans un véhicule ou dans un lieu privé ne peut être effectuée
 
 II.-Lorsqu'il est fait application de l'avant-dernier alinéa de l'article L. 821-2, la demande mentionne, lorsqu'ils sont connus, toute indication permettant d'identifier le lieu, son usage, son propriétaire ou toute personne bénéficiant d'un droit, ainsi que la nature détaillée du dispositif envisagé.
 
-III.-Par dérogation à l'article L. 821-4, l'autorisation, spécialement motivée, est délivrée pour une durée maximale de trente jours et est renouvelable dans les mêmes conditions de durée que l'autorisation initiale. Elle ne vaut que pour les actes d'installation, d'utilisation, de maintenance ou de retrait des dispositifs techniques.
+III.-Par dérogation à l'article L. 821-4, l'autorisation, spécialement motivée, est délivrée pour une durée maximale de deux mois et est renouvelable dans les mêmes conditions de durée que l'autorisation initiale. Elle ne vaut que pour les actes d'installation, d'utilisation, de maintenance ou de retrait des dispositifs techniques.
+
+Lorsqu'elle a pour unique objet de permettre le retrait des dispositifs techniques après l'échéance de l'autorisation d'utilisation de ces dispositifs, l'autorisation, spécialement motivée, est délivrée pour une durée maximale de trente jours et est renouvelable dans les mêmes conditions de durée.
 
 Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué que si l'autorisation prévue au présent article a été délivrée au titre du 1°, du 4° ou du a du 5° de l'article L. 811-3. Lorsque l'introduction mentionnée au I du présent article porte sur un lieu privé à usage d'habitation, le caractère d'urgence ne peut être invoqué que si l'autorisation a été délivrée au titre du 4° de l'article L. 811-3.
 

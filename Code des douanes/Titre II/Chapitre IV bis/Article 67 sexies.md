@@ -1,40 +1,54 @@
 # Article 67 sexies
 
-I. ― Les entreprises de fret express, exerçant les activités mentionnées au 4.2 de l'annexe 30 bis au règlement (CEE) n° 2454/93 de la Commission, du 2 juillet 1993, fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du Conseil établissant le code des douanes communautaires, et les prestataires de services postaux transmettent à la direction générale des douanes et droits indirects les données dont ils disposent relatives à l'identification des marchandises et objets acheminés ainsi que de leurs moyens de transports.
+I. - Pour la recherche et la prévention des infractions mentionnées aux articles 414, 414-2 et 415, lorsqu'elles sont commises en bande organisée, ainsi qu'à l'article 459, les agents des douanes individuellement désignés et spécialement habilités par le ministre chargé des douanes accèdent, sur autorisation préalable du Premier ministre, aux données relatives à l'identification et à la traçabilité du trafic international des marchandises, des moyens de transport et des personnes qui sont contenues dans les traitements automatisés des opérateurs et des prestataires suivants :
 
-Sont exclues de la transmission mentionnée au premier alinéa :
+1° Les opérateurs de transport aérien ;
 
-1° Les données mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+2° Les opérateurs de transport ferroviaire de marchandises ;
 
-2° Les données relatives aux marchandises faisant l'objet d'importations en provenance d'Etats non membres de l'Union européenne ou d'exportations à destination de ces mêmes Etats.
+3° Les opérateurs de transport routier de marchandises ;
 
-Cette transmission ne peut, en aucun cas, porter atteinte au secret des correspondances.
+4° Les opérateurs de transport maritime et fluvial de marchandises ;
 
-II. ― Pour permettre la constatation des infractions mentionnées aux articles 414, 414-2, 415 et 459 du présent code, le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, le ministre chargé des douanes est autorisé à mettre en œuvre des traitements automatisés des données transmises en application du I du présent article.
+5° Les prestataires de services postaux définis au 1 de l'annexe II de la directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l'ensemble de l'Union, modifiant le règlement (UE) n° 910/2014 et la directive (UE) 2018/1972, et abrogeant la directive (UE) 2016/1148 (directive SRI 2).
 
-Seuls les agents des douanes individuellement désignés et spécialement habilités par le ministre chargé des douanes ont accès à ces données.
+Sont exclues de l'accès prévu au premier alinéa du présent I les données mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
-III. ― Les traitements mentionnés au II respectent la loi n° 78-17 du 6 janvier 1978 précitée.
+Cet accès ne peut, en aucun cas, porter atteinte au secret des correspondances.
 
-Les prestataires et entreprises mentionnés au I du présent article informent les personnes concernées par les traitements mis en œuvre par la direction générale des douanes et des droits indirects.
+II. - L'autorisation mentionnée au I du présent article est délivrée sur demande écrite et motivée du ministre chargé des douanes pour une durée maximale de trois mois. Elle est renouvelable dans les mêmes conditions. Elle vaut uniquement pour les opérateurs et les prestataires individuellement désignés.
 
-IV. ― Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application du présent article, dans le respect de la loi n° 78-17 du 6 janvier 1978 précitée.
+Lorsqu'elle a pour objet le renouvellement d'une autorisation, la demande expose les raisons pour lesquelles ce renouvellement est justifié au regard des objectifs poursuivis.
 
-Ce décret précise notamment :
+III. - Le ministre chargé des douanes est autorisé à exploiter les données obtenues en application du I au moyen de traitements automatisés de données respectant la loi n° 78-17 du 6 janvier 1978 précitée.
 
-1° La nature et les modalités de transmission des données mentionnées au I ;
+Ces traitements ne peuvent procéder à aucun rapprochement, aucune interconnexion ni aucune mise en relation automatisée avec d'autres traitements de données à caractère personnel.
 
-2° Les catégories de données concernées par les traitements mentionnés au II ;
+Ils ne produisent aucun autre résultat et ne peuvent fonder, par eux-mêmes, aucune décision individuelle ni aucun acte de poursuite.
 
-3° Les modalités d'accès et d'utilisation des données par les agents mentionnés au II ;
+Les prestataires et les entreprises mentionnés au I du présent article informent les personnes concernées par les traitements mis en œuvre par la direction générale des douanes et droits indirects.
 
-4° Les modalités du contrôle du respect de l'obligation mentionnée au second alinéa du III ;
+IV. - Les données faisant l'objet des traitements mentionnés au III sont conservées pendant un délai de deux ans à compter de leur enregistrement.
 
-5° Les modalités de destruction des données à l'issue de la durée mentionnée au V ;
+Les opérateurs et les prestataires mentionnés au I peuvent conclure avec les services de l'administration des douanes une convention définissant les conditions de mise à disposition des données obtenues en application du même I.
 
-6° Les modalités d'exercice par les personnes concernées de leur droit d'accès et de rectification des données.
+V. - Est puni d'une amende d'un montant maximal de 50 000 euros le fait, pour un opérateur ou un prestataire mentionné au I, de mettre à la disposition des services de l'administration des douanes des données inexploitables, incomplètes ou manifestement fausses ou de ne pas mettre à leur disposition les données mentionnées au présent article.
 
-V. ― Les données faisant l'objet des traitements mentionnés au II sont conservées pendant un délai maximal de deux ans à compter de leur enregistrement.
+Le manquement est constaté et poursuivi par un procès-verbal établi dans les conditions prévues par le présent code. Une copie de ce procès-verbal est remise à l'intéressé. L'amende est prononcée pour chaque transport ayant donné lieu à un manquement.
+
+VI. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les modalités d'application du présent article. Ce décret détermine notamment :
+
+1° Les conditions de mise en œuvre de la procédure d'autorisation mentionnée au I ;
+
+2° Les catégories de données mentionnées au I et concernées par les traitements mentionnés au III ;
+
+3° Les modalités d'accès et d'utilisation de ces données par les agents mentionnés au I ;
+
+4° Les modalités du contrôle du respect de l'obligation mentionnée au dernier alinéa du III ;
+
+5° Les modalités de destruction des données à l'expiration du délai mentionné au IV ;
+
+6° Les modalités d'exercice par les personnes concernées de leur droit d'accès aux données et de rectification de celles-ci.
 
 NOTA:
 Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.

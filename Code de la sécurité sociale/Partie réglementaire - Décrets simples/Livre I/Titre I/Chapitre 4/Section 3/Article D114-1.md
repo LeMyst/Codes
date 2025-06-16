@@ -50,6 +50,6 @@ m) Le président du conseil d'administration de l'Association générale des ins
 
 n) Un représentant désigné par la Fédération nationale de la mutualité française ;
 
-6° Le président du Centre national des professions de santé ainsi qu'un représentant par organisation professionnelle de médecins reconnue représentative au niveau national et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale ;
+6° Le président de l'Union nationale des professionnels de santé mentionnée à l'article L. 182-4 ainsi qu'un représentant par organisation professionnelle de médecins reconnue représentative au niveau national et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale ;
 
 7° Sept personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.

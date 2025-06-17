@@ -6,7 +6,7 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 2° Aux autorités judiciaires ;
 
-3° Aux officiers ou agents de police judiciaire, dans l'exercice des missions définies à l'article 14 du code de procédure pénale ;
+3° Aux officiers ou agents de police judiciaire, dans l'exercice des missions définies à l'article 14 du code de procédure pénale, ainsi qu'aux agents des douanes et aux agents des services fiscaux habilités à effectuer des enquêtes judiciaires en application, respectivement, des articles 28-1 et 28-2 du même code ;
 
 4° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du présent code ;
 
@@ -22,7 +22,9 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'écologie, du ministre chargé de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ;
 
-7° bis Aux agents de l'administration des finances publiques pour l'exercice de leurs compétences ;
+7° bis Aux agents de l'administration des finances publiques et de l'administration des douanes et droits indirects pour l'exercice de leurs compétences ;
+
+7° ter Aux agents du service à compétence nationale mentionné à l'article L. 561-23 du code monétaire et financier, pour l'exercice de leurs missions ;
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
 

@@ -1,6 +1,6 @@
 # Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes :
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes :
 
 1° Au début de l'article L. 871-3, les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques, " sont supprimés ;
 

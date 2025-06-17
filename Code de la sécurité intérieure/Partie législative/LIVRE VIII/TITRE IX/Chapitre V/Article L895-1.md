@@ -1,6 +1,6 @@
 # Article L895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2024-850 du 25 juillet 2024 visant à prévenir les ingérences étrangères en France, les dispositions suivantes du présent livre VIII :
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic, les dispositions suivantes du présent livre VIII :
 
 1° Les titres Ier à VI ;
 

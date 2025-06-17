@@ -4,6 +4,8 @@ I. – Sous réserve des adaptations prévues dans les chapitres ci-après, les 
 
 1° Le livre Ier, à l'exception des articles L. 123-29 à L. 123-31, L. 124-1 à L. 126-1, L. 135-1 à L. 135-3 ;
 
+L'article L. 123-2 est applicable dans sa rédaction résultant de la loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic.
+
 Les articles L. 123-6, L. 123-52 et L. 123-53 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
 Les articles L. 123-1 et L. 123-11 sont applicables, dans leur rédaction résultant de l'ordonnance n° 2024-662 du 3 juillet 2024 ;
@@ -38,7 +40,7 @@ L'article L. 228-73 est applicable dans sa rédaction résultant de l' ordonnanc
 
 L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1107 du 22 juin 2017 ;
 
-L'article L. 225-37-4 est applicable dans sa rédaction résultant de l' ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
+L'article L. 225-37-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
 
 Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
@@ -74,7 +76,7 @@ Les articles L. 232-1, L. 232-6-3, L. 232-6-4, L. 233-28-4 et L. 233-28-5 sont a
 
 L'article L. 232-6-2 est applicable dans sa rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
-Les articles L. 236-1 et L. 236-2, L. 236-3 à L. 236-16, L. 236-18 et L. 236-19, L. 236-23 à L. 236-27, L. 236-32 à L. 236-34, L. 236-37, L. 236-39, L. 236-41 à L. 236-47, L. 236-49, L. 236-51 et L. 236-53 sont applicables dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
+Les articles L. 236-1 et L. 236-2, L. 236-3 à L. 236-16, L. 236-18 et L. 236-19, L. 236-23 à L. 236-27, L. 236-32 à L. 236-34, L. 236-37, L. 236-39, L. 236-41 à L. 236-47, L. 236-49, L. 236-51 et L. 236-53 sont applicables dans leur rédaction résultant de l'ordonnance n° 2023-1142 du 6 décembre 2023.
 
 L'article L. 225-102-1 est applicable dans sa rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense ;
 
@@ -213,7 +215,7 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | Article L. 526-8 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 | Articles L. 526-8-1 à L. 526-15 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
 | Article L. 526-17 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| Article L. 526-18 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
+| Article L. 526-18 | la loi n° 2010-658 du 15 juin 2010relative à l'entrepreneur individuel à responsabilité limitée |
 | Article L. 526-19 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 | Articles L. 526-20 et L. 526-21 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
 | Articles L. 526-22, à l'exclusion du cinquième alinéa, L. 526-23 et L. 526-25 à L. 526-31 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
@@ -224,7 +226,7 @@ a) Le titre Ier ;
 
 Les articles L. 611-5 et L. 611-6 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
-Les articles L. 611-2, L. 611-2-2, L. 611-7, L. 611-10-2, L. 611-10-4 et L. 611-11 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
+Les articles L. 611-2, L. 611-2-2, L. 611-7, L. 611-10-2, L. 611-10-4 et L. 611-11 sont applicables dans leur rédaction résultant de l'ordonnance n° 2021-1193 du 15 septembre 2021portant modification du livre VI du code de commerce ;
 
 Les articles L. 611-13 et L. 611-17 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
 

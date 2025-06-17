@@ -10,5 +10,4 @@ Les autres membres du directoire sont nommés par le conseil de surveillance sur
 
 La durée du mandat des membres du directoire est fixée par voie réglementaire.
 
-NOTA:
-Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.
+Nul ne peut être nommé membre du directoire s'il résulte de l'enquête administrative à laquelle il est procédé dans les conditions prévues au I de l'article L. 114-1 du code de la sécurité intérieure que son comportement est incompatible avec l'exercice des missions attribuées à cette instance. L'enquête est renouvelée chaque année.

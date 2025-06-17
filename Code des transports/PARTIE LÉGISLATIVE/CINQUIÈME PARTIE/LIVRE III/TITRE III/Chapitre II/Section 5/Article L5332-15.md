@@ -1,6 +1,6 @@
 # Article L5332-15
 
-I.-Les contrôles de sûreté peuvent être réalisés par :
+I.-Les contrôles de sûreté mentionnés à l'article L. 5332-11 peuvent être réalisés par :
 
 1° Les officiers de police judiciaire ;
 
@@ -10,13 +10,18 @@ I.-Les contrôles de sûreté peuvent être réalisés par :
 
 Ces officiers et agents peuvent se faire communiquer tous documents nécessaires aux contrôles de sûreté qu'ils réalisent.
 
-II.-Sous le contrôle des officiers de police judiciaire ou des agents des douanes, des agents de nationalité française ou ressortissants d'un Etat membre de l'Union européenne, désignés pour cette tâche par les personnes morales mentionnées à l'article L. 5332-4, peuvent également procéder à ces contrôles de sûreté.
+II.-Des agents de nationalité française ou ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou d'un pays tiers, s'ils justifient d'une connaissance de la langue française suffisante, désignés pour cette tâche par les personnes morales mentionnées à l'article L. 5332-4, peuvent également procéder :
 
-Ils doivent disposer de l'agrément prévu au deuxième alinéa de l'article L. 5332-16 pour procéder aux palpations et fouilles de sûreté selon les modalités suivantes :
+1° Sur toute personne soumise à une inspection-filtrage, avec son consentement :
 
-1° Les palpations de sûreté sur les personnes ne peuvent être effectuées que par une personne du même sexe que celle qui en fait l'objet et avec le consentement de celle-ci ;
+a) Aux opérations techniques mentionnées au a du 1° du II de l'article L. 5332-11 ;
 
-2° Les fouilles de sûreté des véhicules, unités de transport intermodal, marchandises, bagages, colis et autres biens ne peuvent être réalisées qu'avec le consentement de leur propriétaire ou de la personne qui en a la responsabilité.
+b) Aux opérations techniques mentionnées au 3° du même II, sous le contrôle des officiers de police judiciaire ou des agents des douanes et sous réserve qu'ils disposent de l'agrément prévu au 2° du I de l'article L. 5332-18 et qu'elles soient réalisées par une personne du même sexe que celle qui en fait l'objet ;
 
-NOTA:
-Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.
+2° Sur tout véhicule, toute unité de transport intermodal, toute marchandise, tout bagage, tout colis et tout autre bien soumis à une inspection-filtrage, avec le consentement de son propriétaire ou de la personne qui en a la responsabilité :
+
+a) Aux opérations techniques mentionnées au b du 1° et au 2° du II de l'article L. 5332-11 ;
+
+b) Aux opérations techniques mentionnées au 4° du même II, sous le contrôle des officiers de police judiciaire ou des agents des douanes et sous réserve qu'ils disposent de l'agrément prévu au 2° du I de l'article L. 5332-18.
+
+Dans les limites portuaires de sûreté, lorsque les personnes visées par les opérations techniques d'inspection-filtrage mentionnées au II de l'article L. 5332-11 refusent de donner leur consentement aux agents mentionnés au premier alinéa du présent II, il peut y être procédé par un des officiers ou agents mentionnés au I.

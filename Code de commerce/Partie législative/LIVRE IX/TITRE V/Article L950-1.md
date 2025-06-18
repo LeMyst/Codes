@@ -24,11 +24,11 @@ Les articles L. 151-1 à L. 151-7, L. 151-9 à L. 152-1 et L. 152-3 à L. 154-1 
 
 L'article L. 151-8 est applicable dans sa rédaction résultant de la loi n° 2022-401 du 21 mars 2022 visant à améliorer la protection des lanceurs d'alerte ;
 
-L'article L. 152-2 est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+L'article L. 152-2 est applica ble dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
 Les articles L. 143-17 et L. 143-23 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-1169 du 13 novembre 2019 relative aux marques de produits ou de services ;
 
-L'article L. 145-16 est applicable dans sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+L'article L. 145-16 est applicable da ns sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
 2° Le livre II, à l'exception des articles L. 225-27-1, L. 225-79-2, L. 225-245-1, L. 227-2, L. 227-2-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5, L. 252-1 à L. 252-13, L. 22-10-7 et L. 22-10-24 ;
 
@@ -36,13 +36,13 @@ Les articles L. 227-10 et L. 227-19 sont applicables dans leur rédaction résul
 
 Les articles L. 228-40, L. 228-46-1, L. 228-47, L. 228-53, L. 228-54, L. 228-58, L. 228-77 et L. 228-79 à L. 228-81 sont applicables dans leur rédaction issue de l'ordonnance n° 2017-970 du 10 mai 2017 ;
 
-L'article L. 228-73 est applicable dans sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+L'article L. 228-73 est applicable da ns sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
 L'article L. 225-35-14 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1107 du 22 juin 2017 ;
 
-L'article L. 225-37-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
+L'article L. 225-37-4 est applicable dans sa rédaction résultant de l'ordonnance n° 2017-1180 du 19 juillet 2017 portant transposition de la directive 2014/95/ UE modifiant la directive 2013/34/ UE en ce qui concerne la publication d'informations non financières par certaines grandes entreprises et certains groupes d'entreprises ;
 
-Les articles L. 210-10 à L. 210-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+Les articles L. 210-10 à L. 21 0-12, L. 221-9, L. 223-35, L. 225-7, L. 225-16, L. 225-26, L. 225-30-2, L. 225-40, L. 225-40-1, L. 225-42, L. 225-44, L. 225-73, L. 225-80, L. 225-88, L. 225-88-1, L. 225-90, L. 225-115, L. 225-204, L. 225-244, L. 225-261, L. 225-268, L. 226-6, L. 226-9, L. 227-9-1, L. 228-1, L. 228-3, L. 228-3-2 à L. 228-3-6, L. 228-12, L. 228-19, L. 228-98, L. 232-3, L. 232-19, L. 232-25, L. 232-26 et L. 23-11-1 à L. 23-11-4 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
 Les articles L. 225-42-1 et L. 225-90-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2019-697 du 3 juillet 2019 ;
 
@@ -54,11 +54,11 @@ Les articles L. 225-197-1 et L. 225-197-2 sont applicables dans leur rédaction 
 
 Les articles L. 225-1, L. 225-27, L. 225-37-4, L. 225-39, L. 225-45, L. 225-46, L. 225-53, L. 225-63, L. 225-68, L. 225-69-1, L. 225-71, L. 225-83, L. 225-84, L. 225-87, L. 225-96, L. 225-98, L. 225-99, L. 225-100, L. 225-106, L. 225-123, L. 225-125, L. 225-130, L. 225-135, L. 225-138, L. 225-146, L. 225-147-1, L. 225-149-3, L. 225-177, L. 225-179, L. 225-185, L. 225-186, L. 225-206, L. 225-208, L. 225-209-2, L. 225-211, L. 225-213, L. 225-214, L. 225-217, L. 225-218, L. 225-228, L. 225-231, L. 225-232, L. 225-252, L. 225-256, L. 226-4-1, L. 226-8, L. 226-10, L. 226-10-1, L. 228-15 et L. 228-35-9 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 ;
 
-L'article L. 226-1 est applicable dans sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+L'article L. 226-1 est applicable dan s sa rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
 L'article L. 228-10 est applicable dans sa rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
 
-Les articles L. 22-10-1 à L. 22-10-6, L. 22-10-8, L. 22-10-9 et L. 22-10-11 à L. 22-10-23, L. 22-10-34 et L. 22-10-39 à L. 22-10-45, L. 22-10-47, L. 22-10-49 à L. 22-10-51, L. 22-10-54 à L. 22-10-58 et L. 22-10-60 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 portant création, au sein du code de commerce, d'un chapitre relatif aux sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation.
+Les articles L. 22-10-1 à L. 2 2-10-6, L. 22-10-8, L. 22-10-9 et L. 22-10-11 à L. 22-10-23, L. 22-10-34 et L. 22-10-39 à L. 22-10-45, L. 22-10-47, L. 22-10-49 à L. 22-10-51, L. 22-10-54 à L. 22-10-58 et L. 22-10-60 à L. 22-10-78 sont applicables dans leur rédaction résultant de l'ordonnance n° 2020-1142 du 16 septembre 2020 portant création, au sein du code de commerce, d'un chapitre relatif aux sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation.
 
 L'article L. 22-10-1-1 est applicable dans sa rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
@@ -70,7 +70,7 @@ Les articles L. 228-2, L. 228-3-1, L. 228-3-7, L. 228-29-7-1 à L. 228-29-7-4 et
 
 Les articles L. 223-42 et L. 225-248 sont applicables dans leur rédaction résultant de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation au droit de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture ;
 
-Les articles L. 229-3 et L. 229-5 sont applicables dans leur rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
+Les articles L. 229-3 et L. 229-5 son t applicables dans leur rédaction résultant de l' ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels et opérations transfrontalières des sociétés commerciales ;
 
 Les articles L. 232-1, L. 232-6-3, L. 232-6-4, L. 233-28-4 et L. 233-28-5 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.
 
@@ -84,7 +84,7 @@ Les articles L. 225-124, L. 236-20 à L. 236-22, L. 236-28 à L. 236-31, L. 236-
 
 Les articles L. 223-43, L. 224-3, L. 225-8, L. 225-18, L. 225-18-1, L. 225-19, L. 225-20, L. 225-22, L. 225-29, L. 225-44, L. 225-47, L. 225-48, L. 225-54, L. 225-59, L. 225-60, L. 225-67, L. 225-69-1, L. 225-70, L. 225-75, L. 225-81, L. 225-85, L. 225-121, L. 225-149-3, L. 225-149-4, L. 225-149-5, L. 226-3, L. 226-4, L. 226-4-1, L. 226-5, L. 227-9, L. 227-20-1, L. 228-15, L. 228-56, L. 228-59, L. 228-93, L. 228-95, L. 228-104, L. 22-10-3, L. 22-10-6, L. 22-10-8, L. 22-10-21, L. 22-10-26, L. 22-10-45, L. 22-10-46-1, L. 22-10-55, L. 22-10-55-1, L. 22-10-74, L. 22-10-76, L. 232-10, L. 236-2-1, L. 236-17, L. 236-19-1 et L. 821-5 sont applicables dans leur rédaction résultant de l'ordonnance n° 2025-229 du 12 mars 2025 portant réforme du régime des nullités en droit des sociétés.
 
-Les articles L. 221-6, L. 223-27, L. 225-35, L. 225-36, L. 225-64, L. 225-65, L. 225-82, L. 225-107, L. 228-11, L. 228-61, L. 228-65, L. 22-10-3-1, L. 22-10-21-1, L. 22-10-25, L. 22-10-38, L. 22-10-38-1 et L. 22-10-59 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
+Les articles L. 221-6, L. 223-2 7, L. 225-35, L. 225-36, L. 225-64, L. 225-65, L. 225-82, L. 225-107, L. 228-11, L. 228-61, L. 228-65, L. 22-10-3-1, L. 22-10-21-1, L. 22-10-25, L. 22-10-38, L. 22-10-38-1 et L. 22-10-59 sont applicables dans leur rédaction résultant de la loi n° 2024-537 du 13 juin 2024 précitée.
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 
@@ -200,7 +200,7 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
 | --- | --- |
-| Article L. 511-1 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Article L. 511-1 | l' ordonnanc e n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 511-1-1 | la loi n° 2024-537 du 13 juin 2024 visant à accroître le financement des entreprises et l'attractivité de la France |
 | Articles L. 511-2 à L. 511-25 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Articles L. 511-26 à L. 511-30 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
@@ -215,7 +215,7 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | Article L. 526-8 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 | Articles L. 526-8-1 à L. 526-15 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
 | Article L. 526-17 | la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises |
-| Article L. 526-18 | la loi n° 2010-658 du 15 juin 2010relative à l'entrepreneur individuel à responsabilité limitée |
+| Article L. 526-18 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
 | Article L. 526-19 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
 | Articles L. 526-20 et L. 526-21 | la loi n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée |
 | Articles L. 526-22, à l'exclusion du cinquième alinéa, L. 526-23 et L. 526-25 à L. 526-31 | la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |
@@ -224,19 +224,19 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 
 a) Le titre Ier ;
 
-Les articles L. 611-5 et L. 611-6 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+Les articles L. 611-5 et L. 61 1-6 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
-Les articles L. 611-2, L. 611-2-2, L. 611-7, L. 611-10-2, L. 611-10-4 et L. 611-11 sont applicables dans leur rédaction résultant de l'ordonnance n° 2021-1193 du 15 septembre 2021portant modification du livre VI du code de commerce ;
+Les articles L. 611-2, L. 611-2-2, L. 611-7, L. 611-10-2, L. 611-10-4 et L. 611-11 sont applicables dans leur rédaction résultant de l'ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
 
-Les articles L. 611-13 et L. 611-17 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
+Les articles L. 611-13 et L. 611-1 7 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
 
-Les articles L. 612-1 et L. 612-4 sont applicables dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
+Les articles L. 612-1 et L. 612-4 sont app licables dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
 
 b) Au titre II : le chapitre Ier à l'exclusion de la dernière phrase du premier alinéa de l'article L. 621-4, dans sa rédaction résultant de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle ; les chapitres II à VIII, à l'exception des articles L. 622-19 et L. 625-9 ;
 
 Les articles L. 622-24, L. 626-12 et L. 626-27 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
-Les articles L. 620-1, L. 621-3, L. 622-7, L. 622-8, L. 622-10, L. 622-17, L. 622-21, L. 622-25, L. 622-26, L. 622-33, L. 622-34, L. 624-2, L. 624-3-1, L. 624-21, L. 626-2, L. 626-2-1, L. 626-10, L. 626-18, L. 626-20, L. 626-22, L. 626-26, L. 626-29, L. 626-30, L. 626-30-1, L. 626-30-2, L. 626-31, L. 626-31-1, L. 626-32, L. 626-33, L. 626-34, L. 628-1, L. 628-2, L. 628-3, L. 628-4, L. 628-5, L. 628-6, L. 628-7 et L. 628-8 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
+Les article s L. 620-1, L. 62 1-3, L. 622-7, L. 622-8, L. 622-10, L. 622-17, L. 622-21, L. 622-25, L. 622-26, L. 622-33, L. 622-34, L. 624-2, L. 624-3-1, L. 624-21, L. 626-2, L. 626-2-1, L. 626-10, L. 626-18, L. 626-20, L. 626-22, L. 626-26, L. 626-29, L. 626-30, L. 626-30-1, L. 626-30-2, L. 626-31, L. 626-31-1, L. 626-32, L. 626-33, L. 626-34, L. 628-1, L. 628-2, L. 628-3, L. 628-4, L. 628-5, L. 628-6, L. 628-7 et L. 628-8 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
 
 Les articles L. 620-2, L. 621-2, L. 622-6, L. 624-19 et L. 626-13 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
@@ -244,23 +244,23 @@ c) Le titre III ;
 
 Les articles L. 631-2, L. 631-9 et L. 631-11 sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
-Les articles L. 631-7, L. 631-14, L. 631-19, L. 631-19-2, L. 631-20 et L. 631-22 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce .
+Les article s L. 631-7, L. 63 1-14, L. 631-19, L. 631-19-2, L. 631-20 et L. 631-22 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce .
 
 Les articles L. 631-1, L. 631-2, L. 631-3, L. 631-11 et L. 632-1 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
 d) Au titre IV :
 
--le chapitre préliminaire, à l'exclusion de l'article L. 640-2 et de l'article L. 640-3, qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+-le chapitre préliminaire, à l'exc lusion de l'article L. 640-2 et de l'article L. 640-3, qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
--le chapitre Ier, à l'exclusion de l'article L. 641-1, L. 641-3 et de l'article L. 641-11 qui sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et des articles L. 641-13 et L. 641-14 qui sont applicables dans leur rédaction résultant de l'ordonnance n n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 641-2, L. 641-4, L. 641-9 et L. 641-15 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+-le chapitr e Ier, à l'exclus ion de l'article L. 641-1, L. 641-3 et de l'article L. 641-11 qui sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et des articles L. 641-13 et L. 641-14 qui sont applicables dans leur rédaction résultant de l'ordonnance n n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 641-2, L. 641-4, L. 641-9 et L. 641-15 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
--le chapitre II, à l'exclusion de l'article L. 642-7 qui est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et de l'article L. 642-12 qui est applicable dans sa rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 642-22 et L. 642-22-1 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+-le chapitr e II, à l'exclusi on de l'article L. 642-7 qui est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et de l'article L. 642-12 qui est applicable dans sa rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 642-22 et L. 642-22-1 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
--le chapitre III à l'exclusion des articles L. 643-3 et L. 643-8 qui sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 643-11 et L. 643-12 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+-le chapitr e III à l'exclusi on des articles L. 643-3 et L. 643-8 qui sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce et des articles L. 643-11 et L. 643-12 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
--le chapitre IV, à l'exclusion des articles L. 644-2 et L. 644-5 qui sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et de l'article L. 644-4 qui est applicable dans sa rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
+-le chapitr e IV, à l'exclusi on des articles L. 644-2 et L. 644-5 qui sont applicables dans leur rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et de l'article L. 644-4 qui est applicable dans sa rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
 
--le chapitre V dans sa rédaction résultant de l'ordonnance n° 2014-1088 du 26 septembre 2014 complétant l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives, à l'exception de l'article L. 645-4 qui est applicable dans sa rédaction résultant de l'ordonnance n° 2016-727 du 2 juin 2016 relative à la désignation en justice, à titre habituel, des huissiers de justice et des commissaires-priseurs judiciaires en qualité de liquidateur ou d'assistant du juge commis dans certaines procédures prévues au titre IV du livre VI du code de commerce, des articles L. 645-3 et L. 645-9 qui sont applicables dans leur rédaction issue de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et des articles L. 645-1 et L. 645-11 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+-le chapitre V dans sa rédacti on r ésultant de l'ordonnance n° 2014-1088 du 26 septembre 2014 complétant l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives, à l'exception de l'article L. 645-4 qui est applicable dans sa rédaction résultant de l'ordonnance n° 2016-727 du 2 juin 2016 relative à la désignation en justice, à titre habituel, des huissiers de justice et des commissaires-priseurs judiciaires en qualité de liquidateur ou d'assistant du juge commis dans certaines procédures prévues au titre IV du livre VI du code de commerce, des articles L. 645-3 et L. 645-9 qui sont applicables dans leur rédaction issue de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises et des articles L. 645-1 et L. 645-11 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
 e) Le titre V, à l'exception de l'article L. 653-10 ;
 
@@ -270,13 +270,13 @@ L'article L. 654-4 est applicable dans sa rédaction résultant de l' ordonnance
 
 f) Le titre VI, à l'exception de l'article L. 662-7 ;
 
-Les articles L. 661-1 et L. 661-7 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
+Les article s L. 661-1 et L. 661-7 sont applicables dans leur rédaction résultant de l' ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce ;
 
-f bis) Au titre VII : l'article L. 670-6 est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
+f bis) Au titre VII : l'articl e L. 670-6 est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises ;
 
 g) Le titre VIII ;
 
-h) Le titre VIII bis dans sa rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
+h) Le titre VIII bis dans sa rédac tion résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ;
 
 7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 711-9 ; les articles L. 721-3 à L. 721-6 ; l'article L. 752-27 ;
 
@@ -325,6 +325,6 @@ II. – Les dispositions du livre VIII sont applicables dans les îles Wallis et
 | L. 814-15 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 | L. 814-16 | la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |
 
-2° Les dispositions du titre II du livre VIII sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
+2° Les dispositions du titre II du livre V III sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l' ordonnance n° 2023-1142 du 6 décembre 2023 .
 
 Toutefois, les articles L. 820-4, L. 820-15, L. 821-4, L. 821-18, L. 821-25, L. 821-35, L. 821-54, L. 821-63, L. 821-67, L. 821-74, L. 822-1, L. 822-2, L. 822-6, L. 822-20, L. 822-24, L. 822-28 et L. 822-38 sont applicables dans leur rédaction résultant de la loi n° 2025-391 du 30 avril 2025 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes.

@@ -1,6 +1,6 @@
 # Article 67 bis-1 A
 
-Dans le but de constater les délits mentionnés aux articles 414, 414-2, 415 et 459 et, lorsque ceux-ci sont commis par un moyen de communication électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent, après information du procureur de la République et sauf opposition de ce magistrat, procéder aux actes suivants sans être pénalement responsables :
+Dans le but de constater les délits mentionnés aux articles 414,414-2,415 et 459 et, lorsque ceux-ci sont commis par un moyen de communication électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent, après information du procureur de la République et sauf opposition de ce magistrat, procéder aux actes suivants sans être pénalement responsables :
 
 1° Participer sous un pseudonyme aux échanges électroniques, y compris en faisant usage d'un dispositif permettant d'altérer ou de transformer leur voix ou leur apparence physique ;
 

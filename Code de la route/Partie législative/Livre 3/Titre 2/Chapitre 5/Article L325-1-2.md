@@ -26,7 +26,7 @@ Ils en informent immédiatement, par tout moyen, le procureur de la République,
 
 Si les vérifications prévues à l'article L. 235-2 ne permettent pas d'établir que la personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants, l'immobilisation et la mise en fourrière sont immédiatement levées.
 
-II.- Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la République dans un délai de sept jours suivant la décision prise en application du I du présent article, le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé.
+II.-Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la République dans un délai de sept jours suivant la décision prise en application du I du présent article, le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé.
 
 Lorsqu'une peine d'immobilisation ou de confiscation du véhicule est prononcée par la juridiction, les règles relatives aux frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent.
 

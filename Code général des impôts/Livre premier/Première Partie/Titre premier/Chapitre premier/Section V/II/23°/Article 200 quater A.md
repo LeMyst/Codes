@@ -22,21 +22,22 @@ c. Le crédit d'impôt s'applique à condition que le contribuable ou un membre 
 
 d. Les dépenses mentionnées au a du présent 1 ouvrent droit au crédit d'impôt lorsque les revenus du ménage, appréciés dans les conditions prévues au IV des articles 1391 B ter et 1417, sont, au titre de l'avant-dernière année précédant celle du paiement de la dépense :
 
-1° Supérieurs aux seuils annuels suivants :\
-(En euros.)
+1° Supérieurs aux seuils annuels suivants :
 
-| Nombre de personnes composant le ménage | Ile-de-France | Autres régions |
+(En euros)
+
+| NOMBRE DE PERSONNES COMPOSANT LE MÉNAGE | ILE-DE-FRANCE | AUTRES RÉGIONS |
 | --- | --- | --- |
-| 1 | 28 657 | 21 805 |
-| 2 | 42 058 | 31 889 |
-| 3 | 50 513 | 38 349 |
-| 4 | 58 981 | 44 802 |
-| 5 | 67 473 | 51 281 |
-| Par personne supplémentaire | 8 486 | 6 462 |
+| 1 | 28 933 | 22 015 |
+| 2 | 42 463 | 32 197 |
+| 3 | 51 000 | 38 719 |
+| 4 | 59 549 | 45 234 |
+| 5 | 68 123 | 51 775 |
+| Par personne supplémentaire | 8 568 | 6 525 |
 
 Par dérogation, lorsque les revenus du ménage au titre de l'avant-dernière année précédant celle du paiement de la dépense, appréciés dans les conditions prévues au même IV, sont inférieurs ou égaux à ces seuils, il y a lieu de retenir ceux de l'année précédant celle du paiement de la dépense ;
 
-2° Inférieurs à un montant de 31 094 € pour la première part de quotient familial, majoré de 9 212 € pour chacune des deux demi-parts suivantes et de 6 909 € pour chaque demi-part supplémentaire à compter de la troisième. Les majorations sont divisées par deux pour les quarts de part.
+2° Inférieurs à un montant de 31 394 € pour la première part de quotient familial, majoré de 9 301 € pour chacune des deux demi-parts suivantes et de 6 976 € pour chaque demi-part supplémentaire à compter de la troisième. Les majorations sont divisées par deux pour les quarts de part.
 
 Par dérogation, lorsque les revenus du ménage au titre de l'avant-dernière année précédant celle du paiement de la dépense, appréciés dans les conditions prévues audit IV, sont supérieurs ou égaux à ces seuils, il y a lieu de retenir ceux de l'année précédant celle du paiement de la dépense.
 
@@ -71,3 +72,6 @@ Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit
 1. La durée de l'engagement de location mentionné au 1 bis s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
 
 1. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater, d'une déduction de charges pour la détermination des revenus catégoriels ou de la subvention octroyée au titre de l'article L. 321-1 du code de la construction et de l'habitation pour la réalisation de travaux d'accessibilité ou d'adaptation des logements au vieillissement ou au handicap mentionnée à l'article L. 98 E du livre des procédures fiscales.
+
+NOTA:
+Modifications effectuées en conséquence de l'article 71-III-2° a de la loi n° 2023-1322 du 29 décembre 2023.

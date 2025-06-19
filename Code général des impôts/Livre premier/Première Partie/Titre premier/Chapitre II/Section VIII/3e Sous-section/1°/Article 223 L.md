@@ -2,7 +2,7 @@
 
 1. (sans objet).
 
-1. Les sociétés du groupe ne peuvent pas bénéficier du crédit d'impôt mentionné aux articles 220 quater et 220 quater A.
+1. Les sociétés du groupe ne peuvent pas bénéficier du crédit d'impôt mentionné à l'article 220 quater .
 
 1. Les déductions effectuées par des sociétés du groupe au titre des dispositions du II de l'article 217 undecies à raison des sommes versées pour la souscription au capital d'autres sociétés du même groupe sont réintégrées au résultat d'ensemble.
 
@@ -95,6 +95,3 @@ Dans les cas mentionnés aux premier et deuxième alinéas du présent k, la soc
 l) Lorsque, au cours d'un exercice, une société intermédiaire, telle que définie aux premier, quatrième et avant-dernier alinéas du I de l'article 223 A et remplissant les conditions prévues au premier alinéa du III du même article 223 A, ne remplit plus les conditions prévues aux mêmes alinéas en raison du retrait de l'Etat dans lequel elle est soumise à un impôt équivalent à l'impôt sur les sociétés de l'Union européenne ou de l'accord sur l'Espace économique européen, elle est réputée remplir les conditions mentionnées à ces mêmes alinéas jusqu'à la clôture de l'exercice au cours duquel le retrait est survenu.
 
 Dans ce cas, la société mère ajoute au résultat d'ensemble de l'exercice au cours duquel le retrait est survenu les sommes dont la réintégration est prévue aux articles 223 F et 223 R du fait de la perte de la qualité de société intermédiaire par les sociétés mentionnées au premier alinéa du présent l ou de la sortie du groupe des sociétés ne remplissant plus les conditions prévues au I et au premier alinéa du III de l'article 223 A.
-
-NOTA:
-Conformément au II de l'article 65 de la loi n° 2025-127 du 14 février 2025, ces dispositions sont applicables aux opérations remplissant les conditions prévues à l'article 13 de l'ordonnance n° 2023-393 du 24 mai 2023 portant réforme du régime des fusions, scissions, apports partiels d'actifs et opérations transfrontalières des sociétés commerciales.

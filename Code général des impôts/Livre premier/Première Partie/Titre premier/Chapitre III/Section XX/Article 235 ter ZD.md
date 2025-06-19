@@ -22,7 +22,7 @@ c) Soit à la couverture des positions associées à la réalisation des opérat
 
 4° Aux opérations réalisées pour le compte d'émetteurs en vue de favoriser la liquidité de leurs actions dans le cadre de pratiques de marché admises acceptées par l'Autorité des marchés financiers en application du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/ CE du Parlement européen et du Conseil et les directives 2003/124/ CE, 2003/125/ CE et 2004/72/ CE de la Commission ;
 
-5° Aux acquisitions de titres entre sociétés membres du même groupe, au sens de l'article L. 233-3 du code de commerce, au moment de l'acquisition de titres concernée, aux acquisitions de titres entre sociétés du même groupe, au sens de l'article 223 A ou de l'article 223 A bis du présent code, et aux acquisitions intervenant dans les conditions prévues aux articles 210 A, 210 B, 220 quater, 220 quater A et 220 quater B ;
+5° Aux acquisitions de titres entre sociétés membres du même groupe, au sens de l'article L. 233-3 du code de commerce, au moment de l'acquisition de titres concernée, aux acquisitions de titres entre sociétés du même groupe, au sens de l'article 223 A ou de l'article 223 A bis du présent code, et aux acquisitions intervenant dans les conditions prévues aux articles 210 A, 210 B et 220 quater;
 
 6° Aux cessions temporaires de titres mentionnées au 10° de l'article 2 du règlement (CE) n° 1287/2006 de la Commission européenne, du 10 août 2006, portant mesures d'exécution de la directive 2004/39/ CE du Parlement européen et du Conseil en ce qui concerne les obligations des entreprises d'investissement en matière d'enregistrement, le compte rendu des transactions, la transparence du marché, l'admission des instruments financiers à la négociation et la définition de termes aux fins de ladite directive ;
 
@@ -71,6 +71,3 @@ En cas de manquement du redevable ou de l'adhérent aux obligations déclarative
 XII.-La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
 XIII.-(Abrogé).
-
-NOTA:
-Conformément au II de l'article 98 de la loi n° 2025-127 du 14 février 2025, les modifications prévues par le I du même article s'appliquent aux acquisitions réalisées à compter du premier jour du deuxième mois suivant la promulgation de la présente loi, soit le premier avril 2025.

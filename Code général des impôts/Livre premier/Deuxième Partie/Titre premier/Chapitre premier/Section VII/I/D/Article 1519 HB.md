@@ -4,7 +4,7 @@ I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'appliq
 
 II. - L'imposition forfaitaire est due chaque année par l'exploitant de l'installation de production d'électricité au 1er janvier de l'année d'imposition.
 
-III. - Le montant de l'imposition forfaitaire est établi en fonction de la puissance installée dans chaque installation. Il est égal à 25,66 € par kilowatt de puissance installée au 1er janvier de l'année d'imposition.
+III. - Le montant de l'imposition forfaitaire est établi en fonction de la puissance installée dans chaque installation. Il est égal à 26,12 € par kilowatt de puissance installée au 1er janvier de l'année d'imposition.
 
 IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre d'installations de production d'électricité d'origine géothermique et, pour chacune d'elles, la puissance électrique installée.
 

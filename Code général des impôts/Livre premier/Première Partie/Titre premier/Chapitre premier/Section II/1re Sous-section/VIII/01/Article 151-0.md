@@ -33,6 +33,3 @@ Elle cesse toutefois de s'appliquer dans les cas suivants :
 V.-Les versements mentionnés au I sont effectués suivant la périodicité, selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations et contributions de sécurité sociale visées à l'article L. 613-7 du code de la sécurité sociale. Le contrôle et, le cas échéant, le recouvrement des impositions supplémentaires sont effectués selon les règles applicables à l'impôt sur le revenu.
 
 Les contribuables ayant opté pour le versement libératoire mentionné au I portent sur la déclaration prévue à l'article 170 les informations mentionnées aux 3 de l'article 50-0 et 2 de l'article 102 ter.
-
-NOTA:
-Conformément au II de l'article 7 de la loi n° 2024-1039 du 19 novembre 2024, ces dispositions s’appliquent aux revenus perçus à compter du 1er janvier 2025.

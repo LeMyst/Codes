@@ -6,75 +6,75 @@ Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements situé
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée.
 
-II. – 1° A compter du 1er janvier 2024, les tarifs de la redevance communale des mines sont fixés à :
+II. – 1° A compter du 1er janvier 2025, les tarifs de la redevance communale des mines sont fixés à :
 
-– 190,80 € par kilogramme d'or contenu pour les minerais aurifères ;
+– 196,30 € par kilogramme d'or contenu pour les minerais aurifères ;
 
-– 371,50 € par quintal d'uranium contenu pour les minerais d'uranium ;
+– 382,30 € par quintal d'uranium contenu pour les minerais d'uranium ;
 
-– 170,70 € par tonne d'oxyde de tungstène (WO3) contenu pour les minerais de tungstène ;
+– 175,70 € par tonne d'oxyde de tungstène (WO3) contenu pour les minerais de tungstène ;
 
-– 310,10 € par quintal d'argent contenu pour les minerais argentifères ;
+– 319,10 € par quintal d'argent contenu pour les minerais argentifères ;
 
-– 730,40 € par millier de tonnes nettes livrées pour la bauxite ;
+– 751,60 € par millier de tonnes nettes livrées pour la bauxite ;
 
-– 949,40 € par millier de tonnes nettes livrées pour la fluorine ;
+– 976,90 € par millier de tonnes nettes livrées pour la fluorine ;
 
 – pour le chlorure de sodium :
 
-– 902,90 € par millier de tonnes nettes livrées pour le sel extrait par abattage ;
+– 929,10 € par millier de tonnes nettes livrées pour le sel extrait par abattage ;
 
-– 549,50 € par millier de tonnes nettes livrées pour le sel extrait en dissolution par sondage et livré raffiné ;
+– 565,40 € par millier de tonnes nettes livrées pour le sel extrait en dissolution par sondage et livré raffiné ;
 
-– 183,60 € par millier de tonnes de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution ;
+– 188,90 € par millier de tonnes de chlorure de sodium contenu pour le sel extrait en dissolution par sondage et livré en dissolution ;
 
-– 291,60 € par centaine de tonnes nettes extraites pour le charbon ;
+– 300,10 € par centaine de tonnes nettes extraites pour le charbon ;
 
-– 1 401,60 € par centaine de tonnes nettes extraites, pour les gisements de pétrole brut ;
+– 1 442,20 € par centaine de tonnes nettes extraites, pour les gisements de pétrole brut ;
 
-– 10,60 € par tonne nette livrée pour le propane et le butane ;
+– 10,90 € par tonne nette livrée pour le propane et le butane ;
 
-– 9,90 € par tonne nette livrée pour l'essence de dégazolinage ;
+– 10,20 € par tonne nette livrée pour l'essence de dégazolinage ;
 
-– 3,50 € par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer ;
+– 3,60 € par tonne de soufre contenu pour les minerais de soufre autres que les pyrites de fer ;
 
-– 1 116,50 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir calorifique égal ou supérieur à 13 MJ/kg ;
+– 1 148,90 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir calorifique égal ou supérieur à 13 MJ/kg ;
 
-– 271,20 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir calorifique inférieur à 13 MJ/kg ;
+– 279,10 € par millier de tonnes nettes livrées pour les lignites d'un pouvoir calorifique inférieur à 13 MJ/kg ;
 
-– 408,80 € par 100 000 mètres cubes extraits à 1 bar et 15 °C pour le gaz carbonique ;
+– 420,70 € par 100 000 mètres cubes extraits à 1 bar et 15 °C pour le gaz carbonique ;
 
-– 1876,50 € par millier de tonnes nettes livrées pour les calcaires et grès bitumineux ou asphaltiques (non destinés à la distillation pour production d'huiles ou d'essences) ;
+– 1 930,90 € par millier de tonnes nettes livrées pour les calcaires et grès bitumineux ou asphaltiques (non destinés à la distillation pour production d'huiles ou d'essences) ;
 
-– 62,50 € par millier de tonnes nettes livrées pour les schistes carbobitumineux et schistes bitumineux (à traiter par distillation pour en extraire des huiles et des essences) ;
+– 64,30 € par millier de tonnes nettes livrées pour les schistes carbobitumineux et schistes bitumineux (à traiter par distillation pour en extraire des huiles et des essences) ;
 
-– 625,90 € par millier de tonnes nettes livrées pour la pyrite de fer ;
+– 644,10 € par millier de tonnes nettes livrées pour la pyrite de fer ;
 
-– 431,20 € par millier de tonnes nettes livrées de minerais de fer ;
+– 443,70 € par millier de tonnes nettes livrées de minerais de fer ;
 
-– 15 € par tonne d'antimoine contenu dans les minerais d'antimoine ;
+– 15,40 € par tonne d'antimoine contenu dans les minerais d'antimoine ;
 
-– 787,80 € par centaine de tonnes de plomb contenu dans les minerais de plomb ;
+– 810,60 € par centaine de tonnes de plomb contenu dans les minerais de plomb ;
 
-– 625,90 € par centaine de tonnes de zinc contenu dans les minerais de zinc ;
+– 644,10 € par centaine de tonnes de zinc contenu dans les minerais de zinc ;
 
-– 152 € par tonne d'étain contenu dans les minerais d'étain ;
+– 156,40 € par tonne d'étain contenu dans les minerais d'étain ;
 
-– 24,40 € par tonne de cuivre contenu dans les minerais de cuivre ;
+– 25,10 € par tonne de cuivre contenu dans les minerais de cuivre ;
 
-– 839,70 € par millier de tonnes d'arsenic contenu dans les minerais d'arsenic ;
+– 864,10 € par millier de tonnes d'arsenic contenu dans les minerais d'arsenic ;
 
-– 73,50 € par tonne de bismuth contenu dans les minerais de bismuth ;
+– 75,60 € par tonne de bismuth contenu dans les minerais de bismuth ;
 
-– 466,20 € par centaine de tonnes de manganèse contenu dans les minerais de manganèse ;
+– 479,70 € par centaine de tonnes de manganèse contenu dans les minerais de manganèse ;
 
-– 310,10 € par tonne de molybdène contenu dans les minerais de molybdène ;
+– 319,10 € par tonne de molybdène contenu dans les minerais de molybdène ;
 
-– 62,50 € par tonne de Li2O contenu dans les minerais de lithium ;
+– 64,30 € par tonne de Li2O contenu dans les minerais de lithium ;
 
-– 329 € par centaine de tonnes de K2O contenu dans les sels de potassium ;
+– 338,50 € par centaine de tonnes de K2O contenu dans les sels de potassium ;
 
-– 403,20 € par 100 000 mètres cubes extraits, pour les gisements de gaz naturel ;
+– 414,90 € par 100 000 mètres cubes extraits, pour les gisements de gaz naturel ;
 
 1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin au– delà des lignes de base définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française, les tarifs de la redevance communale des mines sont fixés à :
 

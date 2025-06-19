@@ -12,13 +12,10 @@ a) Les biens, usines et équipements ;
 
 b) Les ressources naturelles ;
 
-c) Le droit, pour un locataire, d'utiliser les actifs corporels ;
+c) Le droit, pour un locataire, d'utiliser les actifs corporels.
 
 Ce droit ne peut être créé pour la seule application du présent article ;
 
 d) Le droit concédé par un Etat ou territoire et permettant à son titulaire l'utilisation de biens immobiliers ou de l'exploitation de ressources naturelles entraînant des investissements importants dans des actifs corporels.
 
 Les droits mentionnés aux c et d du présent 3° sont réputés situés dans l'Etat ou le territoire de situation des actifs corporels ainsi utilisés ou exploités.
-
-NOTA:
-Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.

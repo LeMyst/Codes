@@ -14,7 +14,7 @@ b) Pour l'année où la création de la commune nouvelle prend fiscalement effet
 
 a) Pour leur durée et leur quotité lorsqu'elles sont prises en application des articles 1464 B, 1464 D, 1465,1465 A et 1465 B, des I, I quinquies A, I quinquies B, I sexies et I septies de l'article 1466 A et des articles 1466 B, 1466 B bis, 1466 D, 1466 E, 1466 F et 1478 bis du présent code et que ces dispositions sont en cours d'application ou sont applicables pour la première fois l'année où la création prend fiscalement effet ;
 
-b) Pour l'année où la création de la commune prend fiscalement effet lorsqu'elles sont prises en application du 3° de l'article 1459 et des articles 1464, 1464 A, 1464 F, 1464 G, 1464 H, 1464 I, 1464 I bis, 1464 M, 1469 A quater, 1518 A et 1647 D.
+b) Pour l'année où la création de la commune prend fiscalement effet lorsqu'elles sont prises en application du 3° de l'article 1459 et des articles 1464, 1464 A, 1464 F, 1464 H, 1464 I, 1464 I bis, 1464 M, 1469 A quater, 1518 A et 1647 D.
 
 III. – A.-La commune nouvelle ou, par des délibérations de principe concordantes prises avant le 1er octobre de l'année précédant celle de sa création, les communes et, le cas échéant, l'établissement public de coopération intercommunale à fiscalité propre participant à sa création prennent les délibérations applicables à compter de l'année suivante sur son territoire en matière de taxes prévues aux articles 1529 et 1530.
 
@@ -25,6 +25,4 @@ IV.– A.-La commune nouvelle ou, par des délibérations de principe concordant
 B.-A défaut de délibérations prises dans les conditions prévues au A du présent IV, les délibérations adoptées antérieurement par les communes et, le cas échéant, par l'établissement public de coopération intercommunale participant à la création de la commune sont maintenues pour l'année où la création de la commune prend fiscalement effet.
 
 NOTA:
-Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.
-
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+Modification effectuée en conséquence de l'article 73-I-26° et XX B de la loi n° 2023-1322 du 29 décembre 2023.

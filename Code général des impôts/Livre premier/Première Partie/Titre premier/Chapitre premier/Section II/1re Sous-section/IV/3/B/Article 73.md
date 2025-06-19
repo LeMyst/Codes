@@ -2,15 +2,15 @@
 
 I. - 1. Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour épargne de précaution dont le montant est plafonné, par exercice de douze mois :
 
-a) A 100 % du bénéfice imposable, s'il est inférieur à 32 608 € ;
+a) A 100 % du bénéfice imposable, s'il est inférieur à 32 990 € ;
 
-b) A la somme de 32 608 € majorée de 30 % du bénéfice excédant cette limite, lorsqu'il est supérieur ou égal à 32 608 € et inférieur à 60 385 € ;
+b) A la somme de 32 990 € majorée de 30 % du bénéfice excédant cette limite, lorsqu'il est supérieur ou égal à 32 990 € et inférieur à 61 092 € ;
 
-c) A la somme de 40 942 € majorée de 20 % du bénéfice excédant 60 385 €, lorsqu'il est supérieur ou égal à 60 385 € et inférieur à 90 579 € ;
+c) A la somme de 41 421 € majorée de 20 % du bénéfice excédant 61 092 €, lorsqu'il est supérieur ou égal à 61 092 € et inférieur à 91 639 € ;
 
-d) A la somme de 46 979 € majorée de 10 % du bénéfice excédant 90 579 €, lorsqu'il est supérieur ou égal à 90 579 € et inférieur à 120 771 € ;
+d) A la somme de 47 529 € majorée de 10 % du bénéfice excédant 91 639 €, lorsqu'il est supérieur ou égal à 91 639 € et inférieur à 122 184 € ;
 
-e) A la somme de 50 000 €, lorsque le bénéfice imposable est supérieur ou égal à 120 771 €.
+e) A la somme de 50 585 €, lorsque le bénéfice imposable est supérieur ou égal à 122 184 €.
 
 Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, les plafonds mentionnés aux a à e sont multipliés par le nombre des associés exploitants, dans la limite de quatre, sans pouvoir excéder le montant du bénéfice imposable.
 
@@ -67,8 +67,4 @@ V. - Les bénéfices des exploitants titulaires de revenus mentionnés aux cinqu
 VI. - Le bénéfice de la déduction est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture, du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ou du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au A du III de l'article 66 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à l'impôt sur le revenu dû au titre de l'année 2024 et des années suivantes.
-
-Conformément au IV dudit article, la perte de recettes pour l'Etat est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
-
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+Modifications effectuées en conséquence de l'article 34 de la loi n° 2022-1726 du 30 décembre 2022.

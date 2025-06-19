@@ -20,11 +20,23 @@ La contribution est exigible lors de cette livraison.
 
 II. - Le tarif de la contribution mentionnée au I est le suivant :
 
-| Quantité de sucre (en kilogrammes de sucre ajouté par hectolitre de boisson) | Tarif applicable (en euros par hectolitre de boisson) |
+| QUANTITÉ DE SUCRE (en kg de sucres ajoutés par hl de boisson) | TARIF APPLICABLE (en euros par hl de boisson) |
 | --- | --- |
-| Inférieure à 5 | 4 |
-| Entre 5 et 8 | 21 |
-| Au-delà de 8 | 35 |
+| Inférieure ou égale à 1 | 3,50 |
+| 2 | 4,09 |
+| 3 | 4,65 |
+| 4 | 5,23 |
+| 5 | 6,40 |
+| 6 | 7,57 |
+| 7 | 8,73 |
+| 8 | 11,06 |
+| 9 | 13,38 |
+| 10 | 15,70 |
+| 11 | 18,04 |
+| 12 | 20,36 |
+| 13 | 22,69 |
+| 14 | 25,02 |
+| 15 | 27,34 |
 
 Les tarifs mentionnés dans le tableau du deuxième alinéa du présent II sont relevés au 1er janvier de chaque année, à compter du 1er janvier 2019, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Ces montants sont exprimés avec deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq.
 
@@ -63,4 +75,4 @@ F. - Lorsque le redevable, ou la personne mentionnée au E, n'est pas établi da
 VI. - Le produit de la contribution régie par le présent article est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la pêche maritime.
 
 NOTA:
-Conformément au II de l’article 31 de la loi n° 2025-199 du 28 février 2025, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la même loi, soit le 1er mars 2025.
+Modifications effectuées en conséquence de l'article 19-I-1° de la loi n° 2017-1836 du 30 décembre 2017.

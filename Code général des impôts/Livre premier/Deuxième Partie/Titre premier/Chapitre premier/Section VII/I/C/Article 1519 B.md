@@ -6,7 +6,7 @@ La taxe est acquittée par l'exploitant de l'unité de production d'électricit�
 
 La taxe est assise sur le nombre de mégawatts installés dans chaque unité de production d'électricité utilisant l'énergie mécanique du vent au 1er janvier de l'année d'imposition. Elle n'est pas due l'année de la mise en service de l'unité.
 
-Le tarif annuel de la taxe est fixé à 19 890 € par mégawatt installé. Ce montant est revalorisé chaque année comme le taux prévisionnel, associé au projet de loi de finances de l'année, d'évolution des prix à la consommation des ménages, hors tabac, pour la même année.
+Le tarif annuel de la taxe est fixé à 20 248 € par mégawatt installé. Ce montant est revalorisé chaque année comme le taux prévisionnel, associé au projet de loi de finances de l'année, d'évolution des prix à la consommation des ménages, hors tabac, pour la même année.
 
 La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, à l'euro le plus proche ; la fraction d'euro égale à 0,50 est comptée pour 1.
 

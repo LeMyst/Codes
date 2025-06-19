@@ -16,7 +16,7 @@ II. – Par dérogation au I, le taux prévu à l'article 204 E est nul pour les
 
 1° L'impôt sur le revenu, avant imputation du prélèvement prévu à l'article 204 A, mis en recouvrement au titre des revenus des deux dernières années d'imposition connues est nul ;
 
-2° Le montant des revenus, au sens du 1° du IV de l'article 1417, de la dernière année d'imposition connue est inférieur à 27 473 € par part de quotient familial.
+2° Le montant des revenus, au sens du 1° du IV de l'article 1417, de la dernière année d'imposition connue est inférieur à 28 792 € par part de quotient familial.
 
 Pour l'appréciation de la condition prévue au 1° du présent II, les crédits d'impôt prévus au A et au 3 du E du II de l'article 60 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017 ne sont pas pris en compte.
 
@@ -120,4 +120,4 @@ Ce complément est calculé et versé par le contribuable au plus tard le dernie
 A défaut de paiement, le recouvrement du complément de retenue à la source est assuré et poursuivi selon les mêmes modalités et sous les mêmes garanties et sûretés que l'impôt sur le revenu. Le rôle d'impôt sur le revenu servant de base au calcul du taux de retenue qui aurait dû être appliqué à défaut d'option vaut titre exécutoire en vue de l'exercice des poursuites consécutives à son non-paiement.
 
 NOTA:
-Conformément au III de l’article 2 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent s'applique aux revenus perçus ou réalisés à compter du premier jour du troisième mois suivant la promulgation de la présente loi, soit le 1er mai 2025.
+Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2025-127 du 14 février 2025.

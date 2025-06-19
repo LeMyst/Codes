@@ -2,14 +2,14 @@
 
 I. – 1. Les redevables de la cotisation foncière des entreprises sont assujettis à une cotisation minimum établie au lieu de leur principal établissement ; cette cotisation est établie à partir d'une base dont le montant est fixé par le conseil municipal selon le barème suivant :
 
-| MONTANT DU CHIFFRE D'AFFAIRES ou des recettes (en euros) | MONTANT DE LA BASE minimum (en euros) |
+| MONTANT DU CHIFFRE D'AFFAIRES OU DES RECETTES (en euros) | MONTANT DE LA BASE MINIMUM (en euros) |
 | --- | --- |
-| Inférieur ou égal à 10 000 | Entre 243 et 579 |
-| Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 243 et 1 158 |
-| Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 243 et 2 433 |
-| Supérieur à 100 000 et inférieur ou égal à 250 000 | Entre 243 et 4 056 |
-| Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 243 et 5 793 |
-| Supérieur à 500 000 | Entre 243 et 7 533 |
+| Inférieur ou égal à 10 000 | Entre 247 et 589 |
+| Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 247 et 1 179 |
+| Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 247 et 2 477 |
+| Supérieur à 100 000 et inférieur ou égal à 250 000 | Entre 247 et 4 129 |
+| Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 247 et 5 897 |
+| Supérieur à 500 000 | Entre 247 et 7 669 |
 
 Toutefois, les redevables réalisant un montant de chiffre d'affaires ou de recettes inférieur ou égal à 5 000 € sont exonérés de la cotisation minimum. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
@@ -70,4 +70,4 @@ II. – Quand ils ne disposent d'aucun local ou terrain :
 1. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+Modification effectuée en conséquence de l'article 2-6.1.31 de la loi n° 2009-1673 du 30 décembre 2009, de l'article 51-I-2° de la loi n° 2011-1978 du 28 décembre 2011 et de l'article 76-I E 1° de la loi n° 2013-1278 du 29 décembre 2013.

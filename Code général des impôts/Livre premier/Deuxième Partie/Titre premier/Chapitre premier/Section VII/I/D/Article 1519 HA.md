@@ -6,19 +6,19 @@ II. - L'imposition forfaitaire est due chaque année par l'exploitant des instal
 
 III. - Le montant de l'imposition forfaitaire est fixé à :
 
-- 654 973 € par installation de gaz naturel liquéfié dont la capacité de stockage est inférieure ou égale à 100 000 mètres cubes et dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code de l'énergie ;
+- 666 763 € par installation de gaz naturel liquéfié dont la capacité de stockage est inférieure ou égale à 100 000 mètres cubes et dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code de l'énergie ;
 
-- 2 985 941 € par installation de gaz naturel liquéfié dont la capacité de stockage est supérieure à 100 000 mètres cubes et dont les tarifs d'utilisation sont fixés en application des mêmes articles L. 452-1 à L. 452-6 ;
+- 3 039 688 € par installation de gaz naturel liquéfié dont la capacité de stockage est supérieure à 100 000 mètres cubes et dont les tarifs d'utilisation sont fixés en application des mêmes articles L. 452-1 à L. 452-6 ;
 
-- 579 € par kilomètre de canalisation de transport de produits chimiques ;
+- 589 € par kilomètre de canalisation de transport de produits chimiques ;
 
-- 597 188 € par site de stockage souterrain de gaz naturel dont les capacités sont soumises aux dispositions des articles L. 421-3-1 à L. 421-12 et L. 421-14 du code précité ;
+- 607 937 € par site de stockage souterrain de gaz naturel dont les capacités sont soumises aux dispositions des articles L. 421-3-1 à L. 421-12 et L. 421-14 du code précité ;
 
-- 597 € par kilomètre de canalisation de transport de gaz naturel appartenant à un réseau dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code précité ;
+- 608 € par kilomètre de canalisation de transport de gaz naturel appartenant à un réseau dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code précité ;
 
-- 119 437 € par station de compression utilisée pour le fonctionnement d'un réseau dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code précité ;
+- 121 587 € par station de compression utilisée pour le fonctionnement d'un réseau dont les tarifs d'utilisation sont fixés en application des articles L. 452-1 à L. 452-6 du code précité ;
 
-- 597 € par kilomètre de canalisation de transport d'autres hydrocarbures.
+- 608 € par kilomètre de canalisation de transport d'autres hydrocarbures.
 
 IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, les ouvrages, les installations et le nombre de kilomètres de canalisations exploitées par commune et par département.
 

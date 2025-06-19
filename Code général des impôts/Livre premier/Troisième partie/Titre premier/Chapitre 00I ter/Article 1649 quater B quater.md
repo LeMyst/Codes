@@ -52,9 +52,9 @@ XIII.-La déclaration de crédit d'impôt pour dépenses de recherche mentionné
 
 XIV.-Les déclarations de taxe sur les salaires sont souscrites par voie électronique.
 
-XV.-Les déclarations de la taxe sur les conventions d'assurance mentionnée à l'article 991, des taxes assimilées prévues aux articles 990 I, 1635 bis A et 1635 bis AD et de la contribution forfaitaire annuelle mentionnée au V de l'article L. 426-1 du code des assurances sont souscrites par voie électronique.
+XV.-Les déclarations de la taxe sur les conventions d'assurance mentionnée à l'article 991, des taxes assimilées prévues aux articles 990 I et 1635 bis A et de la contribution forfaitaire annuelle mentionnée au V de l'article L. 426-1 du code des assurances sont souscrites par voie électronique.
 
 XVI.-Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de l'article 1738.
 
 NOTA:
-Conformément au V de l'article 26 de la loi n° 2025-127 du 14 février 2025, ces dispositions s'appliquent à compter du 1er janvier 2025.
+Modifications effectuées en conséquence de l'article 85-III-2° de la loi n° 2020-1721 du 29 décembre 2020.

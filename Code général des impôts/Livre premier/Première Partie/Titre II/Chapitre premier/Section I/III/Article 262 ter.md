@@ -26,11 +26,8 @@ II. – Sont également exonérées de la taxe sur la valeur ajoutée les acquis
 
 1° Dont la livraison en France serait exonérée ;
 
-2° Dont l'importation serait exonérée en application du II de l'article 291 du code général des impôts ;
+2° Dont l'importation serait exonérée en application du II de l'article 291 ;
 
 3° Pour lesquelles l'acquéreur non établi en France et qui n'y réalise pas des livraisons de biens ou des prestations de services bénéficierait du droit à remboursement total en application du V de l'article 271 de la taxe qui serait due au titre de l'acquisition.
 
 III.-Sont exonérées de la taxe sur la valeur ajoutée les livraisons de biens à destination des assujettis mentionnés au b du 2° du V de l'article 256.
-
-NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.

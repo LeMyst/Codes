@@ -66,7 +66,7 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés, pour l'année 2024, conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2025, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
@@ -75,7 +75,7 @@ a) Pour les locaux à usage de bureaux :
 | 1re CIRCONSCRIPTION | 2e CIRCONSCRIPTION | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- | --- |
 | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit |
-| 25,31 € | 12,58 € | 21,31 € | 10,59 € | 11,66 € | 7,02 € | 5,63 € | 5,09 € |
+| 25,77 € | 12,81 € | 21,70 € | 10,79 € | 11,87 € | 7,15 € | 5,74 € | 5,19 € |
 
 b) Pour les locaux commerciaux :
 
@@ -83,7 +83,7 @@ b) Pour les locaux commerciaux :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 8,68 € | 4,51 € | 2,30 € |
+| 8,84 € | 4,60 € | 2,35 € |
 
 c) Pour les locaux de stockage :
 
@@ -91,7 +91,7 @@ c) Pour les locaux de stockage :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 4,53 € | 2,30 € | 1,18 € |
+| 4,62 € | 2,35 € | 1,21 € |
 
 d) Pour les surfaces de stationnement :
 
@@ -99,7 +99,7 @@ d) Pour les surfaces de stationnement :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 2,86 € | 1,55 € | 0,81 € |
+| 2,92 € | 1,58 € | 0,83 € |
 
 e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 
@@ -112,4 +112,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX. – La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 NOTA:
-Conformément au A du II de l'article 111 de la loi n° 2025-127 du 14 février 2025, les dispositions du 1° du I de l'article précité s'appliquent à compter du 1er janvier 2025 aux opérations de transformation pour lesquelles la délivrance de l'autorisation d'urbanisme intervient à compter de cette date.
+Modifications effectuées en conséquence de l’article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.

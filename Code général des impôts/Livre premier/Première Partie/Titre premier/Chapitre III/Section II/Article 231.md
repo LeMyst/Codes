@@ -14,7 +14,7 @@ Les rémunérations payées par l'Etat sur le budget général sont exonérées 
 
 2. (Abrogé).
 
-2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 % à 8,50 % pour la fraction comprise entre 8 985 € et 17 936 € et à 13,60 % pour la fraction excédant 17 936 € de rémunérations individuelles annuelles. Ces limites sont relevées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédente. Les montants obtenus sont arrondis, s'il y a lieu, à l'euro supérieur.
+2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 % à 8,50 % pour la fraction comprise entre 9 147 € et 18 259 € et à 13,60 % pour la fraction excédant 18 259 € de rémunérations individuelles annuelles. Ces limites sont relevées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédente. Les montants obtenus sont arrondis, s'il y a lieu, à l'euro supérieur.
 
 Les taux majorés ne sont pas applicables aux rémunérations versées par les personnes physiques ou morales, associations et organismes domiciliés ou établis dans les départements d'outre-mer.
 
@@ -33,6 +33,4 @@ b. Un décret en Conseil d'Etat fixe les conditions d'application du premier ali
 1. Le bénéfice de la non-application des taux majorés mentionnée au second alinéa du 2 bis et de l'application des taux réduits définis au 5 du présent article est subordonné au respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 NOTA:
-Conformément au III de l'article 82 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2023-1322 du 29 décembre 2023.
+Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2025-127 du 14 février 2025.

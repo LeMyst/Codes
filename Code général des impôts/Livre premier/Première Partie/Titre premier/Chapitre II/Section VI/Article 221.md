@@ -4,7 +4,7 @@
 
 2 En cas de dissolution, de transformation entraînant la création d'une personne morale nouvelle, d'apport en société, de fusion, de transfert du siège ou d'un établissement dans un Etat étranger autre qu'un Etat membre de l'Union européenne ou qu'un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance mutuelle en matière de recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures, l'impôt sur les sociétés est établi dans les conditions prévues aux 1 et 3 de l'article 201.
 
-Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque les sociétés ou organismes mentionnés aux articles 206 à 208 quinquies, 239, 239 bis AA et 239 bis AB cessent totalement ou partiellement d'être soumis à l'impôt sur les sociétés au taux prévu au deuxième alinéa du I de l'article 219.
+Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque les sociétés ou organismes mentionnés aux articles 206 à 208 ter B, 239, 239 bis AA et 239 bis AB cessent totalement ou partiellement d'être soumis à l'impôt sur les sociétés au taux prévu au deuxième alinéa du I de l'article 219.
 
 Lorsque le transfert d'un actif, du siège ou d'un établissement s'effectue dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance mutuelle en matière de recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/UE du Conseil du 16 mars 2010 précitée, l'impôt sur les sociétés calculé à raison des plus-values latentes constatées sur les éléments de l'actif immobilisé transférés et des plus-values en report ou en sursis d'imposition est acquitté dans les deux mois suivant le transfert des actifs :
 
@@ -51,6 +51,3 @@ c) Sur agrément délivré par le ministre chargé du budget selon les modalité
 2°) Les opérations mentionnées au b lorsqu'elles sont indispensables à la poursuite de l'activité à l'origine des déficits et à la pérennité des emplois.
 
 6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux articles L. 531-1 à L. 535-4 du code rural et de la pêche maritime, les dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un changement de régime fiscal.
-
-NOTA:
-Conformément au A du II de l'article 45 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.

@@ -114,7 +114,7 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 
 18° ter Les sommes versées par les employeurs au titre du financement de contrats de retraite qui sont assujetties à la contribution mentionnée à l'article L. 137-11-2 du code de la sécurité sociale, ainsi que le montant de la revalorisation des droits correspondants prévue au 5° du I du même article ;
 
-19° Dans la limite de 7,18 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la variation de l'indice des prix à la consommation hors tabac entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
+19° Dans la limite de 7,26 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la variation de l'indice des prix à la consommation hors tabac entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
 
@@ -193,8 +193,4 @@ d. (disjoint)
 39° Les primes liées aux performances versées par l'Etat, en 2018, aux sportifs de l'équipe de France médaillés aux jeux Olympiques et Paralympiques et, le cas échéant, à leurs guides.
 
 NOTA:
-Conformément au II de l’article 7 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2025.
-
-Conformément au II de l'article 4 de la loi n° 2021-1900 du 30 décembre 2021, la modification du montant du c du 19° ter du présent article prévue par le I dudit article 4 s'applique à l'imposition des revenus de l'année 2022.
-
 Modifications effectuées en conséquence de l'article 6-I de la loi n° 2019-1479 du 28 décembre 2019.

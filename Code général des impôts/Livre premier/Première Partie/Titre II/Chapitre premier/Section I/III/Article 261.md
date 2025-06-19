@@ -98,15 +98,15 @@ Ces dispositions sont également applicables aux unions d'associations qui répo
 
 b. les opérations faites au bénéfice de toutes personnes par des oeuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient.
 
-Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 78 596 €.
+Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 80 011 €.
 
-Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 78 596 €.
+Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 80 011 €.
 
-Lorsque la limite de 78 596 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
+Lorsque la limite de 80 011 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
 Les limites mentionnées aux deuxième à avant-dernier alinéas du présent b sont indexées, chaque année, sur la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année ;
 
-c. les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi que par les organismes permanents à caractère social des collectivités locales et des entreprises ;
+c. les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés aux a et b ainsi que par les organismes permanents à caractère social des collectivités locales et des entreprises ;
 
 d. le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
@@ -153,3 +153,6 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 L'arrêté mentionné au premier alinéa du présent 8 peut prévoir que l'exonération s'applique rétroactivement à partir de la date à laquelle l'autorisation mentionnée au 2° bis du II de l'article 291 entre en vigueur.
 
 9. (Abrogé).
+
+NOTA:
+Modifications effectuées en conséquence de l’article 18 de la loi n° 2014-1654 du 29 décembre 2014.

@@ -1,0 +1,5 @@
+# Article A4231-5-4
+
+Les conducteurs titulaires d'un certificat de capacité PC peuvent obtenir un livret de service combiné de matelot pour comptabiliser des jours de navigation dans la perspective d'accéder à l'examen pour l'obtention du certificat de qualification de conducteur de l'Union européenne. Sur l'ensemble des jours de navigation à réaliser devant être effectués sur un bateau muni d'un certificat de l'Union ou un certificat de visite des bateaux du Rhin, cent-quatre-vingt jours peuvent être réalisés sur un bateau de commerce ou engins flottants de moins de vingt mètres.
+
+La demande en vue de l'obtention d'un livret de service combiné doit être adressée à l'autorité compétente selon les modalités définies dans le formulaire accessible par le portail fluvial dédié aux professionnels de la voie d'eau à l'adresse : http :// www. fluvial. developpement-durable. gouv. fr à la rubrique “ vos démarches ”. Elle est accompagnée des pièces a, b, d, e et f de l'article A. 4231-2-1 ainsi qu'une copie de leur certificat de capacité.

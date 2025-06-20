@@ -1,0 +1,5 @@
+# Article A4231-5-7
+
+Les personnes justifiants d'une expérience professionnelle d'au moins cinq cent jours en tant que capitaine à bord d'un navire de mer ou d'au moins deux cent cinquante jours à bord d'un navire de mer en tant que membre d'équipage de pont, peuvent obtenir un livret de service combiné au grade d'homme de pont pour comptabiliser des jours de navigation dans la perspective de se présenter à l'examen théorique et pratique pour obtenir un certificat de qualification de conducteur de l'Union européenne.
+
+La demande en vue de l'obtention d'un livret de service combiné d'homme de pont doit être adressée à l'autorité compétente selon les modalités définies dans le formulaire accessible par le portail fluvial selon les modalités définies dans le formulaire accessible par le portail fluvial dédié aux professionnels de la voie d'eau à l'adresse : http :// www. fluvial. developpement-durable. gouv. fr à la rubrique “ vos démarches ”. Elle est notamment accompagnée des pièces a, b, d, e et f de l'article A. 4231-2-1 ainsi qu'une copie de leur certificat de capacité

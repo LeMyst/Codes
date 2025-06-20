@@ -1,0 +1,5 @@
+# Article A4231-5-5
+
+Les conducteurs titulaires d'un certificat de capacité PB peuvent obtenir un livret de service combiné de matelot pour comptabiliser les jours de navigation dans la perspective d'accéder à l'examen pour l'obtention du certificat de qualification de conducteur de l'Union européenne. Les jours de navigation à réaliser doivent être effectués sur un bateau muni d'un certificat de l'Union ou un certificat de visite des bateaux du Rhin. Ces jours doivent être comptabilisés dans le livret de service combiné.
+
+La demande en vue de l'obtention d'un livret de service combiné de matelot doit être adressée à l'autorité compétente selon les modalités définies dans le formulaire accessible par le portail fluvial dédié aux professionnels de la voie d'eau à l'adresse : http :// www. fluvial. developpement-durable. gouv. fr à la rubrique “ vos démarches ”. Elle est notamment accompagnée des pièces a, b, d, e et f de l'article A. 4231-2-1 ainsi qu'une copie de leur certificat de capacité.

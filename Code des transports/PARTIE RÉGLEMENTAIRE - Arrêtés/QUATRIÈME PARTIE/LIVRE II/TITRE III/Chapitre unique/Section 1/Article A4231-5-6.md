@@ -1,0 +1,5 @@
+# Article A4231-5-6
+
+Les conducteurs titulaires d'un permis extension grande plaisance eaux intérieures peuvent obtenir un livret de service combiné au grade d'homme de pont pour comptabiliser des jours de navigation dans la perspective d'accéder à l'examen pour l'obtention du certificat de qualification de conducteur de l'Union européenne. Sur l'ensemble des jours de navigation à réaliser devant être effectués sur un bateau muni d'un certificat de l'Union ou un certificat de visite des bateaux du Rhin, cent-quatre-vingt jours peuvent être réalisés sur un bateau à passagers muni d'un certificat de bateau.
+
+La demande en vue de l'obtention d'un livret de service combiné d'homme de pont doit être adressée à l'autorité compétente selon les modalités définies dans le formulaire accessible par le portail fluvial dédié aux professionnels de la voie d'eau à l'adresse : http :// www. fluvial. developpement-durable. gouv. fr à la rubrique “ vos démarches ”. Elle est notamment accompagnée des pièces a, b, d, e et f de l'article A. 4231-2-1 ainsi qu'une copie de leur certificat de capacité.

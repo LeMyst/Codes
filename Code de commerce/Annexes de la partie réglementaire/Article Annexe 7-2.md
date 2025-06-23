@@ -10,14 +10,14 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Lot | Cahors | 12 | 2 |
 | Lot-et-Garonne | Agen | 21 | 4 |
 | Cour d'appel d'Aix-en-Provence |
-| Alpes-de-Haute-Provence | Manosque | 13 | 2 |
+| Alpes-de-Haute-Provence | Manosque | 16 | 2 |
 | Alpes-Maritimes | Antibes | 26 | 4 |
 | | Cannes | 23 | 4 |
 | | Grasse | 20 | 3 |
 | | Nice | 45 | 7 |
 | Bouches-du-Rhône | Aix-en-Provence | 40 | 4 |
 | | Salon-de-Provence | 22 | 3 |
-| | Marseille | 80 | 12 |
+| | Marseille | 100 | 12 |
 | | Tarascon | 20 | 3 |
 | Var | Draguignan | 19 | 3 |
 | | Fréjus | 24 | 4 |

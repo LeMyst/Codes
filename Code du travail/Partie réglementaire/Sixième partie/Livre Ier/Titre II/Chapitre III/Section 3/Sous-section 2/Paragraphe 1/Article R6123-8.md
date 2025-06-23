@@ -16,7 +16,7 @@ I.-Le conseil d'administration délibère sur :
 
 7° La convention triennale d'objectifs et de performance conclue avec l'Etat en application de l'article L. 6123-11 ;
 
-8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés, des conseils de la formation et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article R. 6123-16 ;
+8° L'affectation des excédents constatés auprès des opérateurs de compétences, des fonds d'assurance-formation de non-salariés et des commissions paritaires interprofessionnelles régionales, dans le cadre d'une ou des sections financières mentionnées à l'article R. 6123-16 ;
 
 9° Le budget initial de l'établissement et les budgets rectificatifs ;
 

@@ -1,6 +1,6 @@
 # Article R6123-16
 
-Le budget de l'établissement comporte neuf sections financières :
+Le budget de l'établissement comporte dix sections financières :
 
 1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections :
 
@@ -24,7 +24,7 @@ e) Une sous-section dédiée au versement au centre national de la fonction publ
 
 6° Une section dédiée au financement des projets de transition professionnelle mentionné au 5° du même article ;
 
-7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés et aux conseils de la formation mentionnés à l'article R. 6331-63-1 ;
+7° Une section dédiée à l'affectation des financements aux fonds d'assurance-formation de non-salariés mentionnés au h du 3° du même article ;
 
 8° Une section dédiée à l'affectation des financements au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics mentionné à l'article L. 6331-41 ;
 
@@ -33,5 +33,7 @@ e) Une sous-section dédiée au versement au centre national de la fonction publ
 a) Une sous-section dédiée aux dépenses de fonctionnement ;
 
 b) Une sous-section dédiée aux dépenses d'investissement ;
+
+10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5.
 
 France compétences peut créer toute autre section pour compte de tiers.

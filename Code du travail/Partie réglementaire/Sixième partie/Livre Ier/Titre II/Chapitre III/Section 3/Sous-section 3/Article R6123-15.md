@@ -4,7 +4,7 @@ Le budget comprend :
 
 1° En recettes :
 
-a) Les versements de l'Etat, de l'Union européenne et les fonds mentionnés aux articles L. 6331-2, L. 6331-4 et L. 6241-3 ;
+a) Les versements de l'Etat, de l'Union européenne et les produits des contributions des employeurs et des travailleurs non-salariés qui lui sont reversées notamment en application des 2° à 4° du I de l'article L. 6131-1 ainsi que des articles L. 6331-50, L. 6331-53, L. 6331-55, L. 6331-60 et L. 6331-68 ;
 
 b) Les remboursements d'avances et de prêts ;
 

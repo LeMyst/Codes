@@ -1,13 +1,11 @@
 # Article R6123-28
 
-La dotation mentionnée à l'article R. 6123-24 est versée selon un calendrier défini par convention entre l'Etat et France compétences.
+Les dotations aux régions mentionnées à l'article R. 6123-24 leur sont versées avant le 1 er juin de chaque année.
 
-Les dotations mentionnées à l'article R. 6123-25 sont versées par trimestre, à l'exception de celles mentionnées au 1° du I du même article qui sont versées mensuellement.
+La dotation au Centre national de la fonction publique territoriale prévue au 1° de l'article L. 6123-5 est versée selon des modalités fixées par décret.
 
-Les dotations mentionnées à l'article R. 6123-25 sont affectées et versées en tenant compte notamment des besoins de financement et des situations de trésorerie transmis par les attributaires à France compétences.
+Les dotations mentionnées à l'article R. 6123-25 sont versées en tenant compte notamment des besoins de financement et des situations de trésorerie transmis par les attributaires à France compétences, à l'exception de la dotation mentionnée au b du 3° de l'article L. 6123-5, qui est versée selon un calendrier défini par convention entre l'Etat et France compétences, de la dotation mentionnée au f du 3° du même article, qui est versée selon les conditions prévues par le marché mentionné à l'article R. 6123-27, et des fonds mentionnés au 5° de l'article L. 6123-5, qui sont versés selon les modalités fixées par le décret prévu à ce 5°.
 
-Le cas échéant et sous réserve des montants minimaux de dotations prévus au I de l'article R. 6123-25, les versements peuvent être inférieurs aux montants fixées par la délibération prévue au deuxième alinéa du II de cet article, au vu notamment des besoins de financement et des niveaux d'engagements transmis par les attributaires à France compétences.
+En fonction des besoins de financement et des situations de trésorerie transmis par les attributaires à France compétences selon une périodicité fixée par délibération de son conseil d'administration, les versements des dotations mentionnées au troisième alinéa peuvent être inférieurs aux montants fixés en application de l'article R. 6123-25.
 
-La liste et les modalités de transmission des informations nécessaires, transmises en application du troisième alinéa, sont définies par délibération du conseil d'administration de France compétences.
-
-Par dérogation au deuxième alinéa, le calendrier de versement des dotations relatives, d'une part, au financement de l'alternance par les opérateurs de compétences et, d'autre part, au financement du conseil en évolution professionnelle est défini par délibération du conseil d'administration de France compétences.
+Ces versements ne peuvent couvrir un montant excédant les besoins de trésorerie estimés pour une période de trois mois.

@@ -18,7 +18,7 @@ La société adresse chaque année au service des impôts des non-résidents un 
 
 2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une société quelconque un objet conforme aux prévisions de l'article 1655 ter est assimilée, du point de vue fiscal, à une cessation d'entreprise.
 
-2 ter La transformation d'une société de capitaux ou d'une association constituée conformément à la loi du 1er juillet 1901 en groupement d'intérêt économique est considérée comme une cessation d'entreprise et entraîne l'établissement de l'impôt sur les sociétés dans les conditions prévues aux 1 et 3 l'article 201.
+2 ter La transformation d'une société de capitaux ou d'une association constituée conformément à la loi du 1er juillet 1901 en groupement d'intérêt économique est considérée comme une cessation d'entreprise et entraîne l'établissement de l'impôt sur les sociétés dans les conditions prévues aux 1 et 3 de l'article 201.
 
 2 quater La transformation en société d'investissement à capital variable d'une société non exonérée de l'impôt sur les sociétés entraîne les mêmes conséquences fiscales que la liquidation de la société transformée.
 

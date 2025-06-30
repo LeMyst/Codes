@@ -1,1 +1,0 @@
-B : Régime fiscal

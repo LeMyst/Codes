@@ -1,1 +1,0 @@
-Section V : Régimes particuliers

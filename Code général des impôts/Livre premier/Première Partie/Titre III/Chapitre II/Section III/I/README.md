@@ -1,1 +1,0 @@
-I : Contribution aux poinçonnages

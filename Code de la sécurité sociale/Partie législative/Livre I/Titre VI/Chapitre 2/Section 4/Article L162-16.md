@@ -33,6 +33,6 @@ Pour son recouvrement, ce versement est assimilé à une cotisation de sécurit�
 
 VII.-Les médicaments et dispositifs médicaux dispensés par un pharmacien en application du premier alinéa de l'article L. 5125-23-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie dans la limite de trois mois au-delà de la durée de traitement initialement prescrite.
 
-Les médicaments renouvelés par une infirmière ou un infirmier en application du sixième alinéa de l'article L. 4311-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits sur la liste des spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du présent code.
+Les médicaments renouvelés par une infirmière ou un infirmier en application de l'article L. 4311-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits sur la liste des spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du présent code.
 
 Les médicaments dispensés par un pharmacien en application du deuxième alinéa de l'article L. 5125-23-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits sur la liste des spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du présent code.

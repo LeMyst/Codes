@@ -4,4 +4,9 @@ Le président du conseil est élu par le conseil, parmi les personnalités menti
 
 Le mandat du président expire à l'échéance de son mandat de membre du conseil. Il est renouvelable une fois.
 
-Le conseil élit également, selon les mêmes modalités, trois vice-présidents choisis respectivement parmi les représentants mentionnés aux 1°, 2° et 3° de l'article R. 223-2 . Le mandat des vice-présidents est de quatre ans expire à l'échéance de leur mandat de membre du conseil. Ils suppléent le président dans les conditions prévues par le règlement intérieur du conseil.
+Le conseil élit également, selon les mêmes modalités, trois vice-présidents choisis respectivement parmi les représentants mentionnés aux 1°, 2° et 3° de l'article R. 223-2 .
+
+Le mandat des vice-présidents est aligné sur celui du président du conseil, et expire à la date à laquelle s'achève, pour quelque motif que ce soit, le mandat de celui-ci.
+
+NOTA:
+Se reporter aux modalités de l'article 16 du décret n° 2025-589 du 28 juin 2025.

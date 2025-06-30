@@ -8,5 +8,7 @@ Les sièges restant à allouer après l'attribution opérée en application de l
 
 3° De la mesure de l'audience des organisations de travailleurs indépendants représentatives, appréciée conformément aux dispositions de l'article L. 612-6 du présent code.
 
+Les dispositions du présent article ne sont pas applicables à la Caisse nationale de solidarité pour l'autonomie.
+
 NOTA:
-Se reporter aux conditions d’application prévues à l’article 4 du décret n° 2021-1153 du 4 septembre 2021.
+Se reporter aux modalités de l'article 16 du décret n° 2025-589 du 28 juin 2025.

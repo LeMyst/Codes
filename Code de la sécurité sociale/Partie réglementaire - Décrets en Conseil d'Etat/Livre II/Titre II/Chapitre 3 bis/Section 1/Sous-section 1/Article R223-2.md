@@ -8,25 +8,9 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 
 3° Six représentants des conseils départementaux désignés, ainsi que leurs six suppléants, par l'Assemblée des départements de France ;
 
-4° Cinq représentants des organisations syndicales de salariés interprofessionnelles représentatives au plan national et leurs cinq suppléants, respectivement désignés, pour une durée de quatre ans, par :
+4° Cinq représentants des assurés sociaux et leurs cinq suppléants, désignés pour une durée de quatre ans par les organisations syndicales nationales de salariés interprofessionnelles représentatives au plan national ;
 
-– la Confédération générale du travail ;
-
-– la Confédération française démocratique du travail ;
-
-– la Confédération générale du travail-Force ouvrière ;
-
-– la Confédération française des travailleurs chrétiens ;
-
-– la Confédération française de l'encadrement-Confédération générale des cadres.
-
-5° Trois représentants désignés, pour une durée de quatre ans, par les organisations professionnelles nationales d'employeurs représentatives et leurs trois suppléants, respectivement désignés par :
-
-– le Mouvement des entreprises de France ;
-
-– la Confédération générale des petites et moyennes entreprises ;
-
-– l'Union des entreprises de proximité (U2P).
+5° Trois représentants des organisations professionnelles nationales d'employeurs et leurs trois suppléants, désignés pour une durée de quatre ans par les organisations professionnelles d'employeurs représentatives au niveau national interprofessionnel ;
 
 6° Dix représentants de l'Etat :
 
@@ -54,7 +38,7 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 
 8° Un sénateur ;
 
-9° Huit représentants d'institutions intervenant dans les domaines de compétences de la caisse et leurs sept suppléants respectivement désignés pour une durée de quatre ans par :
+9° Huit représentants d'institutions intervenant dans les domaines de compétences de la caisse et leurs huit suppléants respectivement désignés pour une durée de quatre ans par :
 
 – la Fédération nationale de la mutualité française ;
 
@@ -81,3 +65,6 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 – la Caisse nationale d'assurance vieillesse ;
 
 – la Caisse centrale de la mutualité sociale agricole.
+
+NOTA:
+Se reporter aux modalités de l'article 16 du décret n° 2025-589 du 28 juin 2025.

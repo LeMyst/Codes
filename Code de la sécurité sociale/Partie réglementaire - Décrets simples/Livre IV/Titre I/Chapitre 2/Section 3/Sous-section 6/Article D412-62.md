@@ -1,7 +1,11 @@
 # Article D412-62
 
-Lorsque la victime est libérée avant sa guérison ou la consolidation de sa blessure, elle a droit à l'indemnité journalière à compter du jour de sa libération conditionnelle ou définitive, sous réserve de l'obligation qui lui est faite de se présenter à la caisse primaire d'assurance maladie de sa résidence pour obtenir sa prise en charge, après avoir subi le contrôle de ladite caisse.
+Lorsque l'accident ou la maladie est survenu avant la détention, l'indemnité journalière est maintenue conformément au premier alinéa de l'article L. 433-4. En cas de rechute, il est fait application de l'article R. 433-7.
 
-Le jour de la libération est assimilé au jour de l'arrêt de travail consécutif à l'accident, pour le calcul de l'indemnité journalière.
+Lorsque l'accident ou la maladie est intervenu pendant la détention :
 
-Le droit à l'indemnité journalière, prévu au premier alinéa du présent article, sera suspendu dans le cas où la victime serait écrouée à nouveau pour quelque cause que ce soit dans un établissement pénitentiaire, pendant la période d'incapacité temporaire, et ce sur avis donné à la caisse primaire d'assurance maladie par le chef de l'établissement pénitentiaire.
+1° Pour la personne détenue effectuant un stage de la formation professionnelle, l'indemnité journalière est calculée dans les conditions fixées à l'article R. 412-5 ;
+
+2° Pour la personne détenue exerçant une activité de travail sous le régime du contrat d'emploi pénitentiaire, la rémunération servant de base au calcul de l'indemnité journalière ne peut être inférieure au salaire mentionné à l'article R. 412-11. L'indemnité journalière calculée à partir de ce salaire ne peut pas dépasser le gain journalier net perçu par la personne détenue, déterminé dans les conditions fixées au dernier alinéa de l'article R. 433-4.
+
+En cas de rechute, il est fait application des dispositions de l'article R. 433-7.

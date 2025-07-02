@@ -1,0 +1,3 @@
+# Article L223-8
+
+La prospection commerciale de consommateurs par des professionnels par message sur un service de communications interpersonnelles, par courrier électronique ou sur un service de réseaux sociaux en ligne ayant pour objet l'offre de prestations de services, la vente d'équipements ou la réalisation de travaux afférents à des logements en vue de la réalisation d'économies d'énergie, de la production d'énergie renouvelable ou de leur adaptation au vieillissement ou au handicap est interdite, sauf si elle intervient dans le cadre de l'exécution d'un contrat en cours au sens du quatrième alinéa de l'article L. 223-1.

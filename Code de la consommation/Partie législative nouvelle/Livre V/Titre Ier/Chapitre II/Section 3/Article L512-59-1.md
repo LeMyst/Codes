@@ -1,0 +1,7 @@
+# Article L512-59-1
+
+Lorsque des supports de données informatiques ont été placés sous scellés fermés provisoires en application de l'article L. 512-59, les agents habilités peuvent recourir à toute personne qualifiée pour procéder à l'ouverture des scellés en vue de réaliser une ou plusieurs copies de ces données, après avoir procédé aux éventuelles opérations techniques nécessaires à leur mise à disposition dans un format permettant leur exploitation, sans porter atteinte à leur intégrité.
+
+La personne qualifiée replace sous scellés fermés provisoires les supports de données informatiques examinés et les copies de données en résultant, après en avoir dressé l'inventaire. Elle fait mention des opérations effectuées dans un rapport. Elle y mentionne, le cas échéant, le nom et la qualité des personnes qui l'ont assistée, sous son contrôle et sa responsabilité, pour la réalisation des opérations qu'elle juge nécessaires à l'exécution de la mission qui lui a été confiée.
+
+Sauf si elle est inscrite sur une des listes prévues à l'article 157 du code de procédure pénale ou si elle est membre d'un service ou organisme de police technique et scientifique de la police nationale, de la gendarmerie nationale ou de la sécurité intérieure, la personne qualifiée mentionnée au premier alinéa du présent article prête, par écrit, serment d'apporter son concours à la justice en son honneur et en sa conscience.

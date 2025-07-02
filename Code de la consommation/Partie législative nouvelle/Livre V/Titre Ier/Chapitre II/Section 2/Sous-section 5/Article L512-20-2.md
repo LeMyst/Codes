@@ -1,0 +1,3 @@
+# Article L512-20-2
+
+Pour les besoins de leurs missions de contrôle et d'expertise, les agents de l'Agence de l'environnement et de la maîtrise de l'énergie, les agents de l'Agence nationale de l'habitat et les agents de la concurrence, de la consommation et de la répression des fraudes peuvent se communiquer spontanément ou sur demande tous les documents et les renseignements détenus ou recueillis dans le cadre de leurs missions respectives, sans que les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel fassent obstacle à une telle communication.

@@ -1,0 +1,5 @@
+# Article R253-14-1
+
+Lors de l'examen d'une demande d'autorisation de mise sur le marché au titre de la reconnaissance mutuelle prévue à l'article 40 du règlement (CE) n° 1107/2009, l'Agence tient compte des circonstances agronomiques, phytosanitaires et environnementales, y compris climatiques, qui prévalent sur le territoire national et qui n'ont pas été prises en compte dans l'évaluation effectuée par l'Etat membre de référence. Des informations relatives à ces circonstances peuvent être transmises à l'Agence, à son initiative ou à celle du demandeur, dans le délai imparti par l'article 42 de ce règlement.
+
+Afin de tenir compte des conditions agronomiques, phytosanitaires et environnementales, y compris climatiques, des zones d'utilisation envisagées, le directeur général de l'Agence peut assortir l'autorisation qu'il délivre au titre de la reconnaissance mutuelle de conditions ou de restrictions d'emploi s'ajoutant à celles de l'autorisation délivrée par l'Etat membre de référence. Aux mêmes fins, il peut exclure certaines zones du territoire national de l'autorisation d'emploi.

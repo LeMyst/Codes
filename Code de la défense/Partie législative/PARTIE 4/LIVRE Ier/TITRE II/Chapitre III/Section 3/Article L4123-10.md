@@ -6,7 +6,7 @@ L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent
 
 Il peut exercer, aux mêmes fins, une action directe, au besoin par voie de constitution de partie civile, devant la juridiction pénale.
 
-L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas le caractère d'une faute personnelle. Cette protection bénéficie également au militaire qui, à raison de tels faits, est entendu en qualité de témoin assisté, placé en garde à vue ou se voit proposer une mesure de composition pénale.
+L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas le caractère d'une faute personnelle. Cette protection bénéficie aussi au militaire mis en cause pénalement en raison de tels faits qui ne fait pas l'objet de poursuites pénales ou qui fait l'objet de mesures alternatives à ces poursuites, dans tous les cas où le code de procédure pénale lui reconnaît le droit à l'assistance d'un avocat.
 
 Le service compétent pour accorder la protection est celui dont relève le militaire ou, pour l'ancien militaire, celui dont il relevait, à la date des faits en cause.
 

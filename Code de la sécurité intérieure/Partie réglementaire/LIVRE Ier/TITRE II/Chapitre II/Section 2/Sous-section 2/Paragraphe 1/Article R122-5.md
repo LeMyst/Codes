@@ -1,6 +1,6 @@
 # Article R\*122-5
 
-Le préfet de zone de défense et de sécurité dirige l'action des préfets de région et de département et, pour le département des Bouches-du-Rhône, du préfet de police des Bouches-du-Rhône, pour leurs attributions respectives, en ce qui concerne la préparation et la mise en œuvre des mesures relatives à la sécurité intérieure.
+Le préfet de zone de défense et de sécurité dirige l'action des préfets de région et de département pour leurs attributions respectives, en ce qui concerne la préparation et la mise en œuvre des mesures relatives à la sécurité intérieure.
 
 Une conférence de sécurité intérieure l'assiste dans l'exercice de ses attributions de sécurité intérieure, de sécurité civile et de sécurité économique.
 
@@ -8,7 +8,7 @@ Cette conférence est composée :
 
 a) Du préfet délégué pour la défense et la sécurité, secrétaire général pour l'administration du ministère de l'intérieur ;
 
-b) Des préfets de département du ressort concerné et, dans la zone de défense et de sécurité Sud, du préfet de police des Bouches-du-Rhône ;
+b) Des préfets de département du ressort concerné ;
 
 c) Du général commandant la gendarmerie pour la zone de défense et de sécurité ou de son représentant ;
 

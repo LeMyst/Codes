@@ -1,6 +1,6 @@
 # Article R614-13
 
-L'employeur adresse la demande d'agrément au préfet du département de son siège ou à Paris, au préfet de police, et, dans le département des Bouches-du-Rhône, au préfet de police des Bouches-du-Rhône.
+L'employeur adresse la demande d'agrément au préfet du département de son siège ou à Paris, au préfet de police.
 
 Cette demande comprend :
 

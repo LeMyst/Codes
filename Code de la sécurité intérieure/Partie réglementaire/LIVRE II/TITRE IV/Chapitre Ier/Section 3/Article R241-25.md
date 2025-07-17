@@ -2,7 +2,7 @@
 
 I.-L'information générale du public sur l'emploi des caméras individuelles par le service d'incendie et de secours est délivrée sur le site internet du service ou, à défaut, par voie d'affichage dans le service.
 
-La décision d'autorisation d'enregistrement audiovisuel prise par le préfet de département, à Paris par le préfet de police, et dans les Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône, est publiée au recueil des actes administratifs de la préfecture.
+La décision d'autorisation d'enregistrement audiovisuel prise par le préfet de département, et à Paris par le préfet de police est publiée au recueil des actes administratifs de la préfecture.
 
 II.-Le droit d'opposition prévu à l'article 21 du règlement (UE) 2016/679 du 27 avril 2016 ne s'applique pas aux traitements mentionnés à l'article R. 241-19.
 

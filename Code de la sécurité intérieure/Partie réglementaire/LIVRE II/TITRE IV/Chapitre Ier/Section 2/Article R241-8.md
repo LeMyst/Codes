@@ -1,6 +1,6 @@
 # Article R241-8
 
-I.-Le maire, ou l'ensemble des maires des communes lorsque les agents susceptibles d'être équipés de caméras individuelles sont employés par un établissement public de coopération intercommunale et mis à disposition de plusieurs communes dans les conditions prévues au premier alinéa de l'article L. 512-2 du présent code, présentent au préfet de département, à Paris au préfet de police et dans le département des Bouches-du-Rhône, au préfet de police des Bouches-du-Rhône, une demande d'autorisation, accompagnée des pièces suivantes :
+I.-Le maire, ou l'ensemble des maires des communes lorsque les agents susceptibles d'être équipés de caméras individuelles sont employés par un établissement public de coopération intercommunale et mis à disposition de plusieurs communes dans les conditions prévues au premier alinéa de l'article L. 512-2 du présent code, présentent au préfet de département, à Paris au préfet de police, une demande d'autorisation, accompagnée des pièces suivantes :
 
 1° La convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat prévue à la section 2 du chapitre II du titre Ier du livre V du présent code ;
 
@@ -12,4 +12,4 @@ I.-Le maire, ou l'ensemble des maires des communes lorsque les agents susceptibl
 
 5° Le cas échéant, une mention de la commune dans laquelle est installé le support informatique sécurisé mentionné à l'article R. 241-11 lorsque la demande est présentée par l'ensemble des maires des communes concernées.
 
-II.-L'enregistrement audiovisuel des interventions des agents de police municipale est autorisé par arrêté du préfet de département, à Paris au préfet de police et dans le département des Bouches-du-Rhône, du préfet de police des Bouches-du-Rhône. Cet arrêté précise le nombre de caméras, la ou les communes sur le territoire desquelles elles sont utilisées et, le cas échéant, la commune de l'établissement public de coopération intercommunale dans laquelle est installé le support informatique sécurisé.
+II.-L'enregistrement audiovisuel des interventions des agents de police municipale est autorisé par arrêté du préfet de département et à Paris du préfet de police. Cet arrêté précise le nombre de caméras, la ou les communes sur le territoire desquelles elles sont utilisées et, le cas échéant, la commune de l'établissement public de coopération intercommunale dans laquelle est installé le support informatique sécurisé.

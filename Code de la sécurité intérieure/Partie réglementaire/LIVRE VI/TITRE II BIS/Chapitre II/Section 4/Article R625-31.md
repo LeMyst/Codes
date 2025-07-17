@@ -8,7 +8,7 @@ I. - Le prestataire de formation bénéficiaire de l'autorisation mentionnée à
 
 3° Des ensembles de conversion permettant de tirer des munitions non létales à des fins d'entraînement mentionnés au 5° de la catégorie B et, le cas échéant, au 7° de la catégorie A1 ainsi que les munitions correspondantes mentionnées au 10° de la catégorie B.
 
-L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de police et, dans le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de police.
 
 II. - Le dossier de demande d'autorisation comprend :
 

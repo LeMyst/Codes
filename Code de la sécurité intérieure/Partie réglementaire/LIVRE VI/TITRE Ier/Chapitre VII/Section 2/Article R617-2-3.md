@@ -18,7 +18,4 @@ II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe
 
 1° Le fait pour un agent mentionné à l'article L. 613-7-1 A de ne pas être porteur de sa certification technique et de son carnet d'entraînement, en méconnaissance de l'article R. 613-16-16 ;
 
-2° Le fait pour l'employeur d'un agent cynophile de ne pas informer, avant le déploiement de l'agent cynophile et de son chien, le représentant de l'Etat dans le département sur le territoire duquel le dispositif est employé ou, à Paris, le préfet de police, ou, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, en méconnaissance de l'article R. 613-16-15.
-
-NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
+2° Le fait pour l'employeur d'un agent cynophile de ne pas informer, avant le déploiement de l'agent cynophile et de son chien, le représentant de l'Etat dans le département sur le territoire duquel le dispositif est employé ou, à Paris, le préfet de police en méconnaissance de l'article R. 613-16-15.

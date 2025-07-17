@@ -1,6 +1,6 @@
 # Article D613-87
 
-La commission est présidée par le préfet de département, à Paris, par le préfet de police, et dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône. Elle comprend en outre :
+La commission est présidée par le préfet de département, à Paris, par le préfet de police. Elle comprend en outre :
 
 1° Des représentants des services de l'Etat dans le département désignés par le préfet ;
 
@@ -23,6 +23,3 @@ La représentation d'un membre peut être assurée par une personne qualifiée e
 La commission se réunit au moins une fois par an. Elle peut entendre toute personne dont l'audition lui paraît utile.
 
 Les procureurs de la République près les tribunaux judiciaires ayant leur siège dans le département sont informés des réunions de la commission, ainsi que des avis émis par celle-ci. Ils participent, sur leur demande, à ses réunions.
-
-NOTA:
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -1,6 +1,6 @@
 # Article R211-32
 
-Avant d'autoriser l'accès d'une personne physique à un autre titre que celui de spectateur à tout ou partie des établissements et des installations mentionnés à l'article L. 211-11-1, l'organisateur saisit par écrit, pour avis conforme, selon le lieu de déroulement ou l'importance de l'événement ou du rassemblement, le ministre de l'intérieur, le préfet de département, à Paris le préfet de police ou dans le département des Bouches du Rhône le préfet de police des Bouches-du-Rhône.
+Avant d'autoriser l'accès d'une personne physique à un autre titre que celui de spectateur à tout ou partie des établissements et des installations mentionnés à l'article L. 211-11-1, l'organisateur saisit par écrit, pour avis conforme, selon le lieu de déroulement ou l'importance de l'événement ou du rassemblement, le ministre de l'intérieur, le préfet de département, ou à Paris, le préfet de police.
 
 La demande de l'organisateur comprend :
 

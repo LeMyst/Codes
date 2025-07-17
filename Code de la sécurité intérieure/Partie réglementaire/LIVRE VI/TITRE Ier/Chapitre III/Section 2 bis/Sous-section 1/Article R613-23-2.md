@@ -4,7 +4,7 @@ I.-L'autorisation mentionnée à l'article L. 613-7-1 est délivrée par le pré
 
 Cette autorisation est sollicitée par l'entreprise chargée de la surveillance, sur requête écrite de son client.
 
-Les compétences mentionnées à l'alinéa précédent sont exercées à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly ainsi que dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+Les compétences mentionnées à l'alinéa précédent sont exercées à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly ainsi que dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France, par le préfet de police.
 
 Le dossier de demande d'autorisation comprend :
 

@@ -2,7 +2,7 @@
 
 I.-Les agents de surveillance et de gardiennage d'une entreprise exerçant l'activité mentionnée au 1° de l'article L. 611-1, lorsque son client en fait la demande, ou ceux d'une entreprise mentionnée à l'article L. 612-25, peuvent être autorisés à utiliser les armes de la catégorie D mentionnées au I de l'article R. 613-3.
 
-L'autorisation est délivrée par le préfet du département du lieu d'exercice de la mission, ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, le préfet de police et, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, pour l'exercice d'une mission. Le silence gardé par le préfet vaut décision de rejet.
+L'autorisation est délivrée par le préfet du département du lieu d'exercice de la mission, ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, le préfet de police pour l'exercice d'une mission. Le silence gardé par le préfet vaut décision de rejet.
 
 Le dossier de demande d'autorisation comprend :
 

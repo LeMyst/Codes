@@ -1,6 +1,6 @@
 # Article D130-11-1
 
-I.-La demande d'avis préalable à l'installation d'un appareil de contrôle automatique ayant fait l'objet d'une homologation, prévue au cinquième alinéa de l'article L. 130-9, est déposée par le gestionnaire de voirie auprès du préfet du département du lieu d'installation de l'appareil ou à Paris, du préfet de police et, dans le département des Bouches-du Rhône, du préfet de police des Bouches-du-Rhône.
+I.-La demande d'avis préalable à l'installation d'un appareil de contrôle automatique ayant fait l'objet d'une homologation, prévue au cinquième alinéa de l'article L. 130-9, est déposée par le gestionnaire de voirie auprès du préfet du département du lieu d'installation de l'appareil ou à Paris, du préfet de police.
 
 La demande est accompagnée :
 

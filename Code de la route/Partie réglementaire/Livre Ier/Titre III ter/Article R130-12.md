@@ -1,6 +1,6 @@
 # Article R130-12
 
-I.-L'interdiction de rediffusion de tout message ou de toute indication émis par les utilisateurs d'un service électronique d'aide à la conduite ou à la navigation par géolocalisation mentionnée à l'article L. 130-11 est prise par le préfet de département ou, à Paris, par le préfet de police ou, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône, sur proposition des officiers ou agents de police judiciaire et des agents de police judiciaire adjoints de la gendarmerie et de la police nationales.
+I.-L'interdiction de rediffusion de tout message ou de toute indication émis par les utilisateurs d'un service électronique d'aide à la conduite ou à la navigation par géolocalisation mentionnée à l'article L. 130-11 est prise par le préfet de département ou, à Paris, par le préfet de police, sur proposition des officiers ou agents de police judiciaire et des agents de police judiciaire adjoints de la gendarmerie et de la police nationales.
 
 Le cas échéant, pour les contrôles routiers mentionnés à l'article L. 130-11 autres que ceux visant à procéder aux opérations prévues aux articles L. 234-9 ou L. 235-2, cette interdiction peut être prise par le ministre de l'intérieur.
 
@@ -15,6 +15,3 @@ La sécurité des informations échangées, notamment leur confidentialité et l
 III.-Les informations communiquées au moyen du système d'information mentionné au premier alinéa du II sont détruites par ces exploitants dès la fin de la durée de l'interdiction de rediffusion.
 
 IV.-Les modalités techniques d'échanges avec les exploitants de service électronique d'aide à la conduite ou à la navigation et de traçabilité des informations adressées ainsi que les moyens à mettre en place pour en assurer la protection et la destruction après utilisation sont définis par arrêté du ministre de l'intérieur pris après avis de l'Agence nationale de la sécurité des systèmes d'information.
-
-NOTA:
-Conformément à l’article 8 du décret n° 2022-1174 du 24 août 2022, ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit décret.

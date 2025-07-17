@@ -2,7 +2,7 @@
 
 L'autorisation mentionnée à l'article R. 5442-1 est délivrée dans les conditions suivantes :
 
-1° L'autorisation est délivrée par le préfet du département où se trouve le siège de l'entreprise privée de protection des navires, par le préfet de police lorsque le siège se trouve à Paris ou hors du territoire national et par le préfet de police des Bouches-du-Rhône lorsque le siège se trouve dans le département des Bouches-du-Rhône ;
+1° L'autorisation est délivrée par le préfet du département où se trouve le siège de l'entreprise privée de protection des navires et par le préfet de police lorsque le siège se trouve à Paris ou hors du territoire national ;
 
 2° La demande d'autorisation est accompagnée des pièces suivantes :
 
@@ -27,8 +27,3 @@ Le silence gardé pendant deux mois par le préfet sur la demande d'autorisation
 5° L'autorisation peut être retirée par l'autorité qui l'a délivrée pour des raisons d'ordre public ou de sécurité des personnes ;
 
 6° L'autorisation est caduque si l'entreprise cesse de remplir les conditions mentionnées à l'article L. 612-9 du code de la sécurité intérieure.
-
-NOTA:
-Conformément à l'article 22 du décret n° 2021-631 du 21 mai 2021, ces dispositions entrent en vigueur le premier jour du sixième mois suivant celui de sa publication au Journal officiel de la République française.
-
-Un décret peut prévoir une date d'entrée en vigueur ultérieure, au plus tard douze mois après les dates prévues aux premier et deuxième alinéas du présent article.

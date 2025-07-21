@@ -1,6 +1,6 @@
 # Article L388
 
-I.-Le titre Ier du livre Ier du présent code, dans sa rédaction résultant de la loi n° 2024-536 du 13 juin 2024 renforçant l'ordonnance de protection et créant l'ordonnance provisoire de protection immédiate, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, est applicable à l'élection :
+I.-Le titre Ier du livre Ier du présent code, dans sa rédaction résultant de la loi n° 2025-658 du 18 juillet 2025 relative au droit de vote par correspondance des personnes détenues, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, est applicable à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
@@ -13,3 +13,6 @@ I.-Le titre Ier du livre Ier du présent code, dans sa rédaction résultant de 
 5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
 II.-Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le chapitre II du titre Ier du livre Ier, à l'exception des articles L. 12-1 et L. 18-1, dans sa rédaction résultant de la loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures, et l'article L. 62-1 du présent code, dans sa rédaction résultant de la loi n° 88-1262 du 30 décembre 1988 modifiant diverses dispositions du code électoral et du code des communes relatives aux procédures de vote et au fonctionnement des conseils municipaux.
+
+NOTA:
+Conformément au II de l'article unique de la loi n° 2025-658 du 18 juillet 2025, ces dispositions sont applicables à compter du premier renouvellement général des conseils municipaux suivant la publication de ladite loi.

@@ -6,13 +6,13 @@ II.-Par dérogation au I, elles peuvent être inscrites sur la liste électorale
 
 1° Commune de naissance ;
 
-2° Commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants ;
+2° Commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants ou descendants ;
 
 3° Commune sur la liste électorale de laquelle est inscrit leur conjoint, le partenaire lié à elles par un pacte civil de solidarité ou leur concubin ;
 
 4° Commune sur la liste électorale de laquelle est inscrit ou a été inscrit un de leurs parents jusqu'au quatrième degré.
 
-III.-Dans l'hypothèse où elles souhaitent voter par correspondance selon les dispositions de l'article L. 79, elles sont inscrites dans la commune chef-lieu du département ou de la collectivité d'implantation de l'établissement pénitentiaire, dans un bureau de vote correspondant à la circonscription ou au secteur qui comporte le plus d'électeurs inscrits sur les listes électorales.
+III.-Lorsque la République forme une circonscription unique ou pour les opérations référendaires, dans l'hypothèse où elles souhaitent voter par correspondance selon les dispositions de l'article L. 79, elles sont inscrites dans la commune chef-lieu du département ou de la collectivité d'implantation de l'établissement pénitentiaire, dans un bureau de vote correspondant à la circonscription qui comporte le plus d'électeurs inscrits sur les listes électorales.
 
 IV.-Toutes les personnes mentionnées aux I, II ou III du présent article sont systématiquement inscrites sur la liste électorale dans les conditions prévues à l'article L. 18-1.
 
@@ -23,6 +23,4 @@ V.-La procédure prévue au IV est également applicable lorsqu'une personne dé
 VI.-Lorsque leur détention prend fin après le sixième vendredi précédant le scrutin, les personnes mentionnées aux I, II, III ou V du présent article restent inscrites, pour ce scrutin, sur la liste électorale de la commune où elles ont été inscrites en application des mêmes I, II, III ou V. ;
 
 NOTA:
-Conformément à l'article 112 de la loi n°2019-1461 III, le I, à l'exception du 4°, et les IV et V de cet article entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2021.
-
-Conformément à l'article 5 du décret n° 2020-1460 du 27 novembre 2020, en application du III de l'article 112 de la loi du 27 décembre 2019, le I, à l'exception des 3° et 4°, le IV et le V de ce même article, entrent en vigueur le lendemain de la publication du présent décret.
+Conformément au II de l'article unique de la loi n° 2025-658 du 18 juillet 2025, ces dispositions sont applicables à compter du premier renouvellement général des conseils municipaux suivant la publication de ladite loi.

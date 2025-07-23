@@ -9,5 +9,3 @@ III.-L'infirmier référent informe l'assuré de la possibilité de renseigner l
 IV.-L'assuré ou l'ayant droit âgé de seize ans ou plus mentionné au premier alinéa de l'article L. 162-12-2-1 du présent code peut à tout moment changer d'infirmier référent en effectuant une nouvelle déclaration dans les conditions prévues au I du présent article.
 
 Il peut, à tout moment, renoncer au bénéfice de la déclaration du nom de l'infirmier référent. Il en informe par tout moyen l'organisme mentionné à l'article L. 162-12-2-1 du présent code.
-
-V.-L'infirmier référent assure la coordination des soins de l'assuré en lien, le cas échéant, avec le médecin traitant, le pharmacien correspondant et la sage-femme référente.

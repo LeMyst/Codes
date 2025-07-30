@@ -4,7 +4,7 @@ I.-Dans le cas mentionné au 1° du II de l'article R. 731-17-2 et lorsque la d�
 
 II.-Lorsque le chef d'exploitation ou d'entreprise agricole n'a souscrit aucune déclaration :
 
-1° Les cotisations sociales sont calculées provisoirement sans tenir compte des exonérations auxquelles l'intéressé peut prétendre, sur la base la plus élevée parmi celles énumérées ci-dessous :
+1° Les cotisations et les contributions sociales sont calculées provisoirement sans tenir compte des exonérations auxquelles l'intéressé peut prétendre, sur la base la plus élevée parmi celles énumérées ci-dessous :
 
 a) L'assiette ayant servi de base au calcul des cotisations sociales l'année précédente ou, en cas de début d'activité, l'assiette des cotisations mentionnée à l'article L. 731-16 ;
 
@@ -12,9 +12,7 @@ b) 50 % du plafond annuel de la sécurité sociale en vigueur au 1er janvier de 
 
 2° L'assiette retenue est majorée de 25 % dès la première année et pour chaque année consécutive non déclarée ;
 
-3° Les contributions sociales sont calculées sur la base majorée retenue pour le calcul des cotisations sociales ;
-
-4° La taxation provisoire déterminée en application des dispositions ci-dessus est notifiée à l'intéressé, au plus tôt le trentième jour et au plus tard le cent quatre vingtième jour suivant la date limite de dépôt prévue à l'article 175 du code général des impôts pour les déclarations par voie électronique, par tout moyen donnant date certaine à la réception de cette notification. Ce montant peut être révisé dans les conditions prévues au III en cas de transmission ultérieure d'une déclaration fiscale ou dans les conditions prévues au IV. Les cotisations et contributions sociales calculées sur cette base sont recouvrées dans les mêmes conditions que les cotisations et contributions définitives.
+3° La taxation provisoire déterminée en application des dispositions ci-dessus est notifiée à l'intéressé, au plus tôt le trentième jour et au plus tard le cent quatre vingtième jour suivant la date limite de dépôt prévue à l'article 175 du code général des impôts pour les déclarations par voie électronique, par tout moyen donnant date certaine à la réception de cette notification. Ce montant peut être révisé dans les conditions prévues au III en cas de transmission ultérieure d'une déclaration fiscale ou dans les conditions prévues au IV. Les cotisations et contributions sociales calculées sur cette base sont recouvrées dans les mêmes conditions que les cotisations et contributions définitives.
 
 Lorsque le chef d'exploitation ou d'entreprise agricole déclare ses revenus postérieurement à la date de réception de la notification mentionnée à l'alinéa précédent, les cotisations et les contributions sociales sont régularisées sur cette base.
 
@@ -29,4 +27,8 @@ En cas de rectification par l'administration fiscale des revenus retenus pour le
 IV.-Les organismes compétents peuvent retenir, pour l'application du présent article, des montants supérieurs à ceux fixés par les II et III s'ils disposent d'éléments probants permettant de considérer que les revenus des chefs d'exploitation ou d'entreprise agricole sont susceptibles de dépasser ces montants, dans la limite du montant résultant de la prise en compte de ces éléments.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2023-90 du 11 février 2023, ces dispositions sont applicables aux déclarations transmises à compter de l'année 2023 au titre des revenus de l'année 2022 et des années suivantes, sous réserve du II dudit article 3.
+Conformément à l'article 3 du décret n° 2025-708 du 25 juillet 2025, en application du VII de l'article 18 de la loi du 26 décembre 2023 susvisé, ces dispositions issues de l'article 2 dudit décret s'appliquent :
+
+1° Pour déterminer l'assiette servant de base à la régularisation, prévue au troisième alinéa de l'article L. 131-6-2 du code de la sécurité sociale, des cotisations et contributions dues à compter de l'année 2025 ;
+
+2° Pour calculer les cotisations et contributions dues par les travailleurs non-salariés agricoles au titre des périodes courant à compter du 1er janvier 2026.

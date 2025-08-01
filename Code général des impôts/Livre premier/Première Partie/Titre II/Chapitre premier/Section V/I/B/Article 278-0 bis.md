@@ -44,9 +44,7 @@ Pour les appareillages, équipements et matériels mentionnés aux c et f du pr�
 
 3° Les livres, y compris leur location. Le présent 3° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio ;
 
-B. – Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable au sens de l'article L. 211-2 du code de l'énergie ou d'un processus dont l'objet n'est pas la production de chaleur ;
-
-La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
+B. – Les abonnements relatifs aux livraisons d'énergie calorifique distribuée par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable au sens de l'article L. 211-2 du code de l'énergie ou d'un processus dont l'objet n'est pas la production de chaleur ;
 
 C. – La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées, les logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation et les établissements mentionnés au b du 5° et aux 8° et 10° du I de l'article L. 312-1 du code de l'action sociale et des familles. Ce taux s'applique également aux prestations d'hébergement et d'accompagnement social rendues dans les résidences hôtelières à vocation sociale mentionnées à l'article L. 631-11 du code de la construction et de l'habitation s'engageant à réserver plus de 80 % des logements de la résidence à des personnes désignées par le représentant de l'Etat dans le département ou à des personnes mentionnées au II de l'article L. 301-1 du même code, au premier alinéa de l'article L. 345-2 du code de l'action sociale et des familles ou à l'article L. 552-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ainsi qu'aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
@@ -85,4 +83,4 @@ N.-Les prestations de pose, d'installation et d'entretien d'infrastructures de r
 O.-L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui-ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.
 
 NOTA:
-Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.
+Conformément au A du XI de l'article 20 de la loi n° 2025-127 du 14 février 2025, le B entre en vigueur le 1er août 2025. Il s'applique aux abonnements se rapportant à des périodes débutant à compter de cette même date.

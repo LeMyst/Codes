@@ -1,6 +1,0 @@
-# Article L771-12
-
-Outre les fonctions prévues à l'article L. 712-2, le président de l'université assure par ses arbitrages la cohésion et l'équilibre entre les deux pôles universitaires régionaux, en concertation avec les vice-présidents de pôle. Il installe dans chaque pôle universitaire régional une mission “ égalité entre les hommes et les femmes ”. Il présente chaque année au conseil d'administration un rapport sur l'exécution du plan d'action pluriannuel en matière d'égalité entre les femmes et les hommes exposant la situation de chacun des deux pôles universitaires ainsi qu'un rapport sur l'évolution de la situation professionnelle des personnes auxquelles l'université a délivré le diplôme national de doctorat dans les cinq années précédentes. Ces rapports sont transmis, après approbation par le conseil d'administration, aux ministres chargés de l'enseignement supérieur et de la recherche et au Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur.
-
-NOTA:
-Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

@@ -6,7 +6,7 @@ Ile-de-France Mobilités est administré par un conseil de trente-trois membres,
 
 2° Cinq représentants élus parmi ses membres par le conseil de Paris ;
 
-3° Sept représentants, à raison d'un par département, élus parmi leurs membres respectivement par les conseils généraux des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne, de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne ;
+3° Sept représentants, à raison d'un par département, élus parmi leurs membres respectivement par les conseils départementaux des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne, de l'Essonne, des Yvelines, du Val-d'Oise et de Seine-et-Marne ;
 
 4° Un représentant de la chambre régionale de commerce et d'industrie d'Ile-de-France, désigné par la chambre ;
 

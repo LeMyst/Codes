@@ -12,3 +12,4 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 | R. 6132-1 et R. 6132-2 | |
 | Titre IV | |
 | R. 6142-1 à R. 6142-9 | |
+| R. 6143-6 à R. 6143-28 | Décret n° 2025-759 du 1er août 2025 |

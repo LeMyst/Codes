@@ -114,9 +114,9 @@ Administration et services communaux et livre IV : Personnel communal) énumér�
 
 - 163 (sauf la proposition du ministre).
 
-- 165 (en ce qui concerne la consultation du conseil municipal et du conseil général).
+- 165 (en ce qui concerne la consultation du conseil municipal et du conseil départemental).
 
-- 166 (premier alinéa, en ce qui concerne le principe de la consultation du conseil général et deuxième alinéa).
+- 166 (premier alinéa, en ce qui concerne le principe de la consultation du conseil départemental et deuxième alinéa).
 
 - 170 à 172.
 

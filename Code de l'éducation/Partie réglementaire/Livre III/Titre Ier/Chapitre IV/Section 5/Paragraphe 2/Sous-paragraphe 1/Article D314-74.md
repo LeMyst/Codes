@@ -28,7 +28,7 @@ Le conseil d'administration du Réseau Canopé comprend vingt et un membres :
 
 a) Un maire ou un conseiller municipal désigné par le président de l'Association des maires de France ;
 
-b) Un président de conseil général ou un conseiller général, désigné par le président de l'Assemblée des départements de France ;
+b) Un président de conseil départementalou un conseiller départemental, désigné par le président de l'Assemblée des départements de France ;
 
 c) Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de France.
 

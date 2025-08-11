@@ -4,7 +4,7 @@ La protection dont bénéficient les fonctionnaires de la police nationale, les 
 
 La protection prévue à l'alinéa précédent bénéficie également aux agents des services de l'Etat chargés de l'application de la législation relative aux impôts, à la concurrence, la consommation et la répression des fraudes, et au travail, à l'emploi et à la formation professionnelle dans l'exercice de leurs missions de sécurité intérieure, ainsi qu'aux sapeurs-pompiers volontaires et aux volontaires civils de la sécurité civile.
 
-La protection prévue à l'article 11 de la loi n° 83-634 du 13 juillet 1983 précitée et à l'article L. 4123-10 du code de la défense bénéficie également aux personnes mentionnées aux deux premiers alinéas du présent article entendues dans le cadre de l'audition libre.
+La protection prévue au second alinéa de l'article L. 134-4 du code général de la fonction publique et à la seconde phrase du quatrième alinéa de l'article L. 4123-10 du code de la défense bénéficie également aux personnes mentionnées aux deux premiers alinéas du présent article.
 
 Elle est étendue aux conjoints, enfants et ascendants directs de l'ensemble des personnes mentionnées aux deux premiers alinéas lorsque, du fait des fonctions de ces dernières, ils sont victimes de menaces, violences, voies de fait, injures, diffamations ou outrages.
 

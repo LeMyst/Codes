@@ -893,7 +893,7 @@ b) Les dispositions des sections 1 à 4 du chapitre IV mentionnées dans la colo
 
 L'article R. 814-117 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
 
-9° Le titre II du livre VIII, à l'exception des articles R. 822-111 à R. 822-124, dans sa rédaction issue du décret n° 2023-1394 du 30 décembre 2023.
+9° Le titre II du livre VIII, à l'exception des articles R. 821-158 à R. 821-170, dans sa rédaction issue du décret n° 2025-791 du 8 août 2025.
 
 Toutefois, les articles R. 821-1, R. 821-3, et R. 822-20 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017 ;
 
@@ -910,6 +910,3 @@ Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résult
 Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019 ;
 
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
-
-NOTA:
-Conformément à l'article 4 du décret n° 2025-553 du 18 juin 2025, ces dispositions sont applicables à compter du recueil des informations statistiques en application du 2° de l'article L. 444-5 du code de commerce auprès du Conseil national des barreaux au titre de l'année civile 2025.

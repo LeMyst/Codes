@@ -63,12 +63,8 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | TITRE II |
 | Chapitre Ier : De l'organisation et du contrôle de la profession |
 | Article D. 821-77 | Décret n° 2020-101 du 7 février 2020 |
+| Articles D. 821-148-1, D. 821-162-1 et D. 821-166-1 | Décret n° 2025-791 du 8 août 2025 |
 | Chapitre III De l'exercice du contrôle légal |
 | Article D. 823-1 | décret n° 2020-101 du 7 février 2020 |
 | Article D. 823-1-1 | Décret n° 2020-101 du 7 février 2020 |
 | Article D. 823-7-1 | décret n° 2021-211 du 24 février 2021 |
-
-NOTA:
-Conformément à l'article 4 du décret n° 2024-152 du 28 février 2024, ces dispositions entrent en vigueur le 1er mars 2024.
-
-Ces mêmes dispositions s'appliquent aux comptes et rapports afférents aux exercices ouverts à compter du 1er janvier 2024. Toutefois, les mandats de commissaires aux comptes en cours à l'entrée en vigueur du présent décret se poursuivent jusqu'à leur date d'expiration dans les conditions prévues à l’article L. 821-44 du code de commerce.

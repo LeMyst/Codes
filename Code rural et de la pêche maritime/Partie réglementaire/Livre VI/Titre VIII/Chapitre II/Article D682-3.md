@@ -18,7 +18,7 @@ e) Le chef du service de la statistique et de la prospective au ministère charg
 
 f) Le directeur général de l'Institut national de la statistique et des études économiques ou son représentant ;
 
-2° Vingt et un représentants des secteurs agricoles et agroalimentaires :
+2° Vingt-deux représentants des secteurs agricoles et agroalimentaires :
 
 a) Un représentant de Chambres d'agriculture France ;
 
@@ -30,9 +30,13 @@ d) Sept représentants des industries de transformation ;
 
 e) Cinq représentants du commerce et de la distribution ;
 
-3° Deux représentants des associations nationales de consommateurs ;
+f) Un représentant de l'agriculture biologique ;
+
+3° Trois représentants des associations nationales de consommateurs ;
 
 4° Des personnalités désignées en raison de leurs compétences particulières ou de leurs fonctions, dans la limite de sept.
+
+5° Le médiateur des relations commerciales agricoles ou son représentant.
 
 Les membres du comité de pilotage de l'Observatoire de la formation des prix et des marges des produits alimentaires, autres que ceux mentionnés au 1° et les parlementaires, sont nommés pour une durée de trois ans, renouvelable, par arrêté conjoint du ministre chargé de l'alimentation et du ministre chargé de la consommation. Ce mandat peut être prorogé, deux fois selon la même procédure, dans la limite totale de deux ans, afin de permettre la continuité des travaux du comité. Les députés et les sénateurs sont nommés respectivement pour la durée de leur mandat législatif et jusqu'au renouvellement triennal pour moitié du Sénat.
 

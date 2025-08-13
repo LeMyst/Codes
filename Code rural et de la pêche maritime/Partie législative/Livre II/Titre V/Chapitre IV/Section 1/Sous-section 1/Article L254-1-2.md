@@ -1,0 +1,3 @@
+# Article L254-1-2
+
+Un membre d'un organe de surveillance, d'administration et de direction d'une personne morale exerçant une activité mentionnée au 3° du II de l'article L. 254-1 ne peut être membre d'un de ces mêmes organes d'une personne morale exerçant une activité de producteur au sens du premier alinéa du VI du même article L. 254-1 et un membre d'un organe de surveillance, d'administration et de direction d'une personne morale exerçant une activité de producteur au sens du même premier alinéa ne peut être membre d'un de ces mêmes organes d'une personne morale exerçant une activité mentionnée au 3° du II du même article L. 254-1.

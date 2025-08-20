@@ -129,3 +129,9 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 
 NOTA:
 Conformément au XVII de l'article 75 de la LOI n° 2025-127 du 14 février 2025, ces dispositions entrent en vigueur le 1er mars 2025.
+
+Conformément au II de l'article 79 de ladite loi, les taux de réfaction applicables dans les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution en application du i du A du 1 de l'article 266 nonies du code des douanes dans sa rédaction résultant de la présente loi sont, jusqu'à l'entrée en vigueur de l'arrêté prévu au dernier alinéa du même i, les suivants :
+
+1° 35 % en Guadeloupe, à La Réunion et en Martinique ;
+
+2° 75 % en Guyane et à Mayotte.

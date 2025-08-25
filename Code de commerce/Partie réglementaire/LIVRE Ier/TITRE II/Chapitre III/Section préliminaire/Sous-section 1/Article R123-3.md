@@ -8,9 +8,8 @@ Le dossier mentionné à l'article L. 123-33 et transmis à l'organisme unique c
 
 3° Les pièces numériques ou numérisées exigées, sauf s'il s'agit de pièces devant être fournies en original et établies sur support papier ;
 
-4° Lorsque la déclaration de création ou de modification de situation et, le cas échéant, les demandes d'autorisation donnent lieu à la perception de frais, le justificatif de règlement de ces frais, selon des moyens communiqués au déclarant.
+4° Lorsque la déclaration de création ou de modification de situation et, le cas échéant, les demandes d'autorisation donnent lieu à la perception de frais, le justificatif de règlement de ces frais, selon des moyens communiqués au déclarant ;
+
+5° Le cas échéant, la demande de confidentialité des informations relatives au domicile des personnes physiques mentionnées à l'article R. 123-54, formulée dans les conditions prévues à l'article R. 123-54-1.
 
 Un arrêté du ministre chargé de l'économie fixe les caractéristiques électroniques des informations et pièces énumérées au présent article.
-
-NOTA:
-Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -1,0 +1,5 @@
+# Article R123-54-2
+
+Ont accès, pour l'exercice de leurs missions, aux informations relatives au domicile personnel des personnes physiques mentionnées à l'article R. 123-54 et aux actes et pièces comportant cette mention non occultée, les autorités, administrations, organismes et professions mentionnés aux a à e du 2° de l'article L. 123-53 et à l'article R. 123-318 à l'exception de son 10°, ainsi que, pour les entreprises relevant de leur champ de compétence, les présidents des chambres de métiers et d'artisanat, les caisses départementales et pluridépartementales de mutualité sociale agricole et l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales désignée par le directeur de l'Agence centrale des organismes de sécurité sociale en application de l'article L. 123-49-2.
+
+Ces informations non occultées peuvent également être délivrées aux représentants légaux de la société, à ses associés et aux créanciers des personnes physiques concernées, lorsque ces derniers établissent détenir sur elles des créances nées à l'occasion de l'exercice par ces personnes physiques de leur mandat social.

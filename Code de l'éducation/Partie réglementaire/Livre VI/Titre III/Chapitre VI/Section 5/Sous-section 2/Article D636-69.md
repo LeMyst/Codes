@@ -10,4 +10,6 @@ Le grade de licence est conféré de plein droit aux titulaires des titres ou di
 
 4° Diplôme d'Etat de préparateur en pharmacie hospitalière (disposition applicable aux étudiants ayant entrepris leurs études à compter de la rentrée de septembre 2024) ;
 
-5° Diplôme d'Etat de technicien de laboratoire médical (disposition applicable aux étudiants ayant entrepris leurs études à compter de la rentrée de septembre 2024).
+5° Diplôme d'Etat de technicien de laboratoire médical (disposition applicable aux étudiants ayant entrepris leurs études à compter de la rentrée de septembre 2024) ;
+
+6° Diplôme d'Etat de pédicure-podologue (disposition applicable aux étudiants ayant entrepris leurs études à compter de la rentrée de septembre 2025).

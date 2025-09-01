@@ -56,7 +56,7 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | D. 612-32-2 | Résultant du décret n° 2025-846 du 26 août 2025 |
 | D. 612-32-3 et D. 612-32-4 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 | D. 612-32-5 D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-34 | Résultant du décret n° 2021-1147 du 2 septembre 2021 |
+| D. 612-34 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 612-35 et D. 612-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-36-1 | Résultant du décret n° 2016-672 du 25 mai 2016 |
 | D. 612-36-2 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
@@ -106,17 +106,9 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | D. 636-73 à D. 636-76 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 636-77 | Résultant du décret n° 2019-836 du 12 août 2019 |
 | D. 636-78 à D. 636-81 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
-| D. 642-1 à D. 642-4 D. 642-11 à D. 642-15D. 642-17 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-18 et D. 642-19 | Résultant du décret n° 2020-56 du 28 janvier 2020 |
-| D. 642-20 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-21 | Résultant du décret n° 2020-56 du 28 janvier 2020 |
-| D. 642-22 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-23, 1er, 2e et 4e alinéas | Résultant du décret n° 2020-56 du 28 janvier 2020 |
-| D. 642-24 et D. 642-25 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-26 et D. 642-27 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 642-28 et D. 642-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-30 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 642-31 D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 642-1 à D. 642-4D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 642-14 et D. 642-15D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
+| D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 642-34 | Résultant du décret n° 2020-1692 du 22 décembre 2020 |
 | D. 642-35 à D. 642-39 | Résultant du décret n° 2018-367 du 18 mai 2018 |
 | D. 642-41 | Résultant du décret n° 2020-56 du 28 janvier 2020 |
@@ -299,3 +291,6 @@ b) Au 5°, la phrase : " Celui-ci est désigné sur proposition du conseil acad�
 27° A l'article D. 643-58, la deuxième phrase est supprimée ;
 
 28° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
+
+NOTA:
+Conformément à l'article 6 du décret n° 2025-144 du 17 février 2025, ledit décret entre en vigueur à compter de la rentrée universitaire 2025. Les candidats engagés dans les formations n'ayant pas obtenu d'autorisation d'ouverture au terme de l'article R. 642-16 restent régis par les dispositions de la section 4 du chapitre II du titre IV du livre VI de la partie réglementaire du code de l'éducation dans sa version antérieure à l'entrée en vigueur du décret précité.

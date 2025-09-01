@@ -1,6 +1,6 @@
 # Article D361-72
 
-Le fonds de mutualisation adresse au ministre chargé de l'agriculture une demande de paiement de la contribution sur un formulaire établi par arrêté du ministre chargé de l'agriculture, correspondant aux indemnisations versées sur la base du programme d'indemnisation approuvé. Cette demande de remboursement comprend :
+Au plus tard un an après l'expiration du délai fixé en application de l'article D. 361-71, le fonds de mutualisation adresse à l'établissement mentionné à l'article L. 313-1 une demande de paiement de la contribution sur un formulaire établi par arrêté du ministre chargé de l'agriculture, correspondant aux indemnisations versées sur la base du programme d'indemnisation approuvé. Cette demande de remboursement comprend :
 
 ― la liste des agriculteurs bénéficiaires de l'indemnisation ;
 
@@ -14,10 +14,8 @@ Le fonds de mutualisation adresse au ministre chargé de l'agriculture une deman
 
 ― le cas échéant, les justificatifs relatifs au paiement de frais financiers associés à l'emprunt commercial contracté par le fonds de mutualisation pour financer une partie du programme d'indemnisation.
 
-Le ministre chargé de l'agriculture peut solliciter du fonds de mutualisation tout complément d'information nécessaire à l'examen de la demande de remboursement.
+L'établissement mentionné à l'article L. 313-1 peut solliciter du fonds de mutualisation tout complément d'information nécessaire à l'examen de la demande de paiement.
 
-Le contrôle prévu à l'article 48 du règlement d'exécution (UE) n° 809/2014 de la Commission du 17 juillet 2014 susmentionné est effectué par l'établissement mentionné à l'article L. 313-1.
+Cet établissement contrôle la présence et la conformité des pièces justificatives prouvant l'admissibilité de la demande de paiement de la contribution.
 
-Cet établissement procède également au contrôle administratif des demandes de contributions de la première section du Fonds national de gestion des risques en agriculture.
-
-L'absence de tout ou partie des pièces prouvant l'admissibilité de la demande de paiement ou la non-conformité de ces pièces entraîne l'inéligibilité partielle ou totale du programme d'indemnisation à la contribution financière prévue aux articles 36 et 38 du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 susmentionné ou à la contribution financière de la première section du Fonds national de gestion des risques en agriculture.
+L'absence de tout ou partie des pièces prouvant l'admissibilité de la demande de paiement ou la non-conformité de ces pièces entraîne l'inéligibilité partielle ou totale du programme d'indemnisation à la contribution financière de la première section du Fonds national de gestion des risques en agriculture.

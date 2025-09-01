@@ -1,6 +1,6 @@
 # Article D361-69
 
-Le ministre chargé de l'agriculture instruit les programmes d'indemnisation et procède à l'évaluation de la contribution.
+L'établissement mentionné à l'article L. 313-1 instruit les programmes d'indemnisation et procède à l'évaluation de la contribution.
 
 Il vérifie notamment :
 

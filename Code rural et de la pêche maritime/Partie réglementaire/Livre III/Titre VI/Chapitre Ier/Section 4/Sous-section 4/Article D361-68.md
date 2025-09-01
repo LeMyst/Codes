@@ -1,10 +1,14 @@
 # Article D361-68
 
-Pour bénéficier de la contribution prévue aux articles 36 et 38 du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 susmentionné ou d'une contribution financière du Fonds national de garantie des risques en agriculture, le fonds de mutualisation agréé transmet au ministre chargé de l'agriculture une demande d'aide, dénommée “programme d'indemnisation”, établie sur un formulaire prévu par arrêté du ministre chargé de l'agriculture.
+I.-Pour bénéficier de la contribution financière prévue à l'article D. 361-65, le fonds de mutualisation agréé transmet à l'établissement mentionné à l'article L. 313-1 une demande d'aide, dénommée " programme d'indemnisation ", établie sur un formulaire prévu par arrêté du ministre chargé de l'agriculture.
 
-Ce programme fixe la période pendant laquelle les pertes économiques constatées sont prises en compte. Cette période ne peut pas être supérieure à douze mois. Le programme doit être transmis à l'autorité compétente dans les trois mois suivant la fin de cette période. Un défaut de transmission dans ce délai entraîne le rejet de la demande. L'indemnisation des agriculteurs ne peut avoir été engagée avant la transmission du programme.
+II.-Ce programme fixe la période pendant laquelle les pertes économiques constatées sont prises en compte. Cette période ne peut pas être supérieure à douze mois. Le programme doit être transmis à l'établissement mentionné à l'article L. 313-1 dans les trois mois suivant la fin de cette période. Un défaut de transmission dans ce délai entraîne le rejet de la demande.
 
-Le programme d'indemnisation comporte :
+III.-Par dérogation au II, le ministre chargé de l'agriculture peut, sur demande motivée du fonds de mutualisation agréé, autoriser celui-ci à transmettre un programme d'indemnisation de manière anticipée, au plus tôt six mois avant la fin de la période d'indemnisation des pertes économiques mentionnée au II, lorsque la nature, la liste et les modalités de calcul des pertes économiques sont similaires à un programme déclaré éligible par arrêté du ministre chargé de l'agriculture sur le fondement de l'article D. 361-70 ou aux dispositions du dossier technique de l'agrément du fonds prévu à l'article R. 361-61.
+
+IV.-L'indemnisation des agriculteurs ne peut être engagée avant la transmission du programme.
+
+V.-Le programme d'indemnisation comporte :
 
 ― l'identité du fonds de mutualisation ;
 
@@ -18,7 +22,7 @@ Le programme d'indemnisation comporte :
 
 ― une estimation du nombre d'agriculteurs bénéficiant de l'indemnisation du fonds de mutualisation ;
 
-― le niveau de mobilisation financière de chacune des sections du fonds de mutualisation concernées au regard de leurs ressources disponibles et le mode de financement des indemnisations envisagées, notamment le montant et la part des indemnisations couverts par les ressources du fonds de mutualisation mentionné à l'article R. 361-56, le montant couvert par recours à l'emprunt commercial ainsi que le montant des frais financiers y afférant et, le cas échéant, l'accord de principe de l' établissement de crédit ou de la société de financement ;
+― le niveau de mobilisation financière de chacune des sections du fonds de mutualisation concernées au regard de leurs ressources disponibles et le mode de financement des indemnisations envisagées, notamment le montant et la part des indemnisations couverts par les ressources du fonds de mutualisation mentionné à l'article R. 361-56, le montant couvert par recours à l'emprunt commercial ainsi que le montant des frais financiers y afférant et, le cas échéant, l'accord de principe de l'établissement de crédit ou de la société de financement ;
 
 ― l'organisation et les modalités pratiques envisagées pour la mise en œuvre du programme d'indemnisation, notamment, le cas échéant, la précision des tâches qui seront déléguées à des tiers et les conventions qui encadrent l'exécution de ces tâches déléguées ;
 
@@ -27,3 +31,6 @@ Le programme d'indemnisation comporte :
 ― un engagement du fonds de mutualisation que le versement des indemnisations sera subordonné à la cession par les agriculteurs de leurs droits à réparation ;
 
 ― une déclaration du fonds de mutualisation attestant qu'il a pris connaissance des conditions d'octroi de la contribution publique.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-870 du 29 août 2025, les demandes d'aide déposées avant le 1er janvier 2023 par un fonds de mutualisation agréé sur le fondement de l'article D. 361-68 du code rural et de la pêche maritime restent régies par les dispositions de la sous-section 4 de la section 4 du chapitre Ier du titre VI du livre III du code rural et de la pêche maritime dans leur version antérieure au décret précité.

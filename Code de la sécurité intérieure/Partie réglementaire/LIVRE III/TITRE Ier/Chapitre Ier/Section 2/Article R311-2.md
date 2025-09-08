@@ -46,7 +46,13 @@ b) ou qu'un chargeur amovible d'une capacité supérieure à dix cartouches y a 
 
 11° Armes à feu à répétition automatique transformées en armes à feu à répétition semi-automatique, en armes à feu à répétition manuelle ou en armes à feu à un coup ;
 
-12° Armes à feu d'épaule à répétition semi-automatique dont la longueur peut être réduite à moins de 60 cm à l'aide d'une crosse repliable ou télescopique, ou d'une crosse démontable sans outils, sans qu'elles perdent leur fonctionnalité.
+12° Armes à feu d'épaule à répétition semi-automatique dont la longueur peut être réduite à moins de 60 cm à l'aide d'une crosse repliable ou télescopique, ou d'une crosse démontable sans outils, sans qu'elles perdent leur fonctionnalité ;
+
+13° Couteaux, coutelas et machettes, à lame fixe disposant d'un côté tranchant, d'une extrémité pointue, d'un côté dentelé et présentant en complément soit plus d'un trou dans la lame, soit plusieurs pointes acérées ;
+
+14° Armes contondantes dites " coups de poing américains " d'un modèle postérieur au 1erjanvier 1900 qui par leur conception permettent à quatre doigts d'être protégés et de maintenir l'arme tout en accentuant l'efficacité vulnérante de la frappe.
+
+Sont comprises dans cette catégorie les armes mixtes combinant une arme telle que décrite au précédent alinéa avec toute autre arme définie au R. 311-1, à l'exception de celles classées dans les autres catégories.
 
 Rubrique 2 :
 
@@ -237,6 +243,4 @@ k) Matériels de guerre dont le modèle est antérieur au 1er janvier 1946, à l
 l) Matériels de guerre dont le modèle est postérieur au 1er janvier 1946 dont la neutralisation est effectivement garantie dans les conditions prévues au k et qui sont énumérés par arrêté du ministre de la défense.
 
 NOTA:
-Conformément au I de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
-
-Conformément au III de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions sont applicables en Polynésie française et en Nouvelle-Calédonie.
+Conformément au II de l'article 2 du décret n° 2025-894 du 5 septembre 2025, les personnes qui détiennent des armes mentionnées aux 13° et 14° de l'article R. 311-2 du même code dans sa rédaction issue du I de l'article 2 disposent d'un délai de trois mois pour les remettre à l'Etat aux fins de destruction dans les conditions fixées au 4° du R. 312-74.

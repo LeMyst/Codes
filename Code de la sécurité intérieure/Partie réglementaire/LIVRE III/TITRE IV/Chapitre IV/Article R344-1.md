@@ -5,7 +5,8 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
 | Au titre Ier |
-| R. 311-1 à R. 311-3 | Résultant du décret n° 2024-615 du 27 juin 2024 |
+| R. 311-1 et R. 311-2 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
+| R. 311-3 | Résultant du décret n° 2024-615 du 27 juin 2024 |
 | R. 311-3-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 311-3-2 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 311-4 | Résultant du décret n° 2022-144 du 8 février 2022 |
@@ -111,7 +112,8 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 313-13 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 313-14 | Résultant du décret n° 2021-631 du 21 mai 2021 |
 | R. 313-15 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 313-15-1 et R. 313-16 | Résultant du décret n° 2018-542 du 29 juin 2018 |
+| R. 313-15-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
+| R. 313-16 et R. 313-16-1 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 313-17 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
 | R. 313-18 et R. 313-19 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 313-20 et R. 313-20-1 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
@@ -139,6 +141,7 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 313-45 et R. 313-46 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 313-47 à R. 313-53 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 313-54 | Résultant du décret n° 2022-144 du 8 février 2022 |
+| R. 313-55 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 314-1, R. 314-2 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 314-3 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 314-4 et R. 314-5 | Résultant du décret n° 2018-542 du 29 juin 2018 |
@@ -192,6 +195,7 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 317-9 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
 | R. 317-9-1 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 317-9-2 et R. 317-9-3 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
+| R. 317-9-4 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 317-10 et R. 317-11 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 317-12 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 317-12-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
@@ -206,6 +210,3 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 324-1 et R. 324-2 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | Au titre III |
 | R. 332-1 et R. 333-1 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-
-NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.

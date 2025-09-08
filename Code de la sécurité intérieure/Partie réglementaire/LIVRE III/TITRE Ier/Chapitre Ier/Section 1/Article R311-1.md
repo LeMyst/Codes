@@ -2,7 +2,7 @@
 
 On entend par :
 
-I. - Armes par nature et munitions :
+I.-Armes par nature et munitions :
 
 1° (Abrogé)
 
@@ -22,7 +22,7 @@ I. - Armes par nature et munitions :
 
 9° Arme à un coup : arme sans système d'alimentation, qui est chargée avant chaque coup par introduction manuelle de la munition dans la chambre ou dans un logement prévu à cet effet à l'entrée du canon ;
 
-10° Arme blanche : toute arme dont l'action perforante, tranchante ou brisante n'est due qu'à la force humaine ou à un mécanisme auquel elle a été transmise, à l'exclusion d'une explosion ;
+10° Arme blanche : toute arme dont l'action perforante, tranchante ou contondante n'est due qu'à la force humaine ou à un mécanisme auquel elle a été transmise, à l'exclusion d'une explosion ;
 
 11° Arme camouflée : toute arme dissimulée sous la forme d'un autre objet, y compris d'un autre type d'arme ;
 
@@ -68,7 +68,7 @@ Les munitions à chargement d'emploi particulier, explosives ou incendiaires, re
 
 27° Systèmes d'alimentation des armes : constitués par les magasins faisant partie intégrante de l'arme, tubulaires ou intégrés dans la boîte de culasse, et les magasins indépendants de l'arme, réservoirs, chargeurs et bandes, fixes ou mobiles pendant le tir.
 
-II. - Autres armes :
+II.-Autres armes :
 
 1° (Abrogé) ;
 
@@ -92,7 +92,7 @@ II. - Autres armes :
 
 10° Armes qui revêtent une importance historique particulière : armes dont la fabrication est antérieure au 1er janvier 1946 qui ne sont pas des armes historiques au sens des dispositions des e ou g du IV de l'article R. 311-2.
 
-III. - Activités en relation avec les armes :
+III.-Activités en relation avec les armes :
 
 1° Activité d'intermédiation : toute opération à caractère commercial ou à but lucratif dont l'objet consiste, en tout ou partie :
 
@@ -100,7 +100,7 @@ a) A rapprocher des personnes souhaitant conclure un contrat d'achat ou de vente
 
 b) Ou à organiser des transferts d'armes à feu, d'éléments d'arme ou de munitions à l'intérieur d'un Etat membre, depuis un Etat membre vers un autre Etat membre, depuis un Etat membre vers un pays tiers ou depuis un pays tiers vers un Etat membre.
 
-Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ;;
+Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ; ;
 
 2° Activité de fabrication : conception, réparation, fabrication, transformation, modification ou assemblage d'une arme, de ses éléments essentiels finis ou non finis, ou de munitions ;
 
@@ -140,15 +140,10 @@ Ce marquage appliqué aux munitions comporte les mentions du nom du fabricant, d
 
 13° Transport d'arme : fait de déplacer une arme en l'ayant auprès de soi et inutilisable immédiatement.
 
-IV. - Ne sont pas des armes au sens du présent titre :
+IV.-Ne sont pas des armes au sens du présent titre :
 
 1° Les objets tirant un projectile ou projetant des gaz lorsqu'ils développent à la bouche une énergie inférieure à 2 joules ;
 
 2° Les réducteurs de son constituant des pièces additionnelles ne modifiant pas le fonctionnement de l'arme ;
 
 3° Les objets conçus aux fins de sauvetage, d'abattage, de pêche au harpon ou destinés à des fins industrielles ou techniques, à condition qu'ils ne puissent être utilisés que pour ces usages précis.
-
-NOTA:
-Conformément au I de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
-
-Conformément au III de l'article 16 du décret n° 2024-615 du 27 juin 2024, ces dispositions sont applicables en Polynésie française et en Nouvelle-Calédonie.

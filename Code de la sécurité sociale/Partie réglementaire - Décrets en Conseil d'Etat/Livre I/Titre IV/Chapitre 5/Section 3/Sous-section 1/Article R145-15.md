@@ -8,6 +8,6 @@ Elles peuvent être également saisies :
 
 1° En ce qui concerne le régime général, par le médecin-conseil national, les médecins-conseils régionaux et les médecins-conseils chefs des services du contrôle médical ;
 
-2° En ce qui concerne le régime agricole, par le médecin-conseil national et les médecins-conseils chefs de service des échelons départementaux ou pluridépartementaux du contrôle médical ;
+2° En ce qui concerne le régime agricole, par le médecin directeur national du contrôle médical de la caisse centrale de la mutualité sociale agricole et les médecins-conseils chefs de service des échelons départementaux ou pluridépartementaux du contrôle médical ;
 
 3° En ce qui concerne les autres régimes, par les médecins-conseils responsables du service du contrôle médical d'une caisse ou d'un organisme de sécurité sociale.

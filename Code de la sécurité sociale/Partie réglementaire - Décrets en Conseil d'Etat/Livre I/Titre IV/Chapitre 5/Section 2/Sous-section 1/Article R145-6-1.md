@@ -8,4 +8,4 @@ Deux assesseurs représentent les organismes d'assurance maladie. Ils sont nomm�
 
 1° Le premier, sur proposition du médecin-conseil national du régime général de sécurité sociale, parmi les médecins-conseils titulaires chargés du contrôle médical en dehors du ressort de la section des assurances sociales de la chambre disciplinaire de première instance concernée ;
 
-2° Le second, sur proposition du médecin-conseil national du régime de protection sociale agricole, parmi les médecins-conseils titulaires chargés du contrôle médical en dehors du ressort de la section des assurances sociales de la chambre disciplinaire de première instance concernée.
+2° Le second, sur proposition du médecin directeur national du contrôle médical de la caisse centrale de la mutualité sociale agricole, parmi les médecins-conseils titulaires chargés du contrôle médical en dehors du ressort de la section des assurances sociales de la chambre disciplinaire de première instance concernée.

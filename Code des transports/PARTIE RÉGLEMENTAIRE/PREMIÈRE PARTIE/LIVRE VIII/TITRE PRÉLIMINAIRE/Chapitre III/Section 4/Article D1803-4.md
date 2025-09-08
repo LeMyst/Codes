@@ -1,10 +1,12 @@
 # Article D1803-4
 
-Pour l'application de l'aide prévue à l'article L. 1803-5, l'étudiant de l'enseignement supérieur doit être âgé de vingt-huit ans au plus au 1er octobre de l'année universitaire au titre de laquelle la demande est formulée.
+I. - Pour l'application de l'aide prévue à l'article L. 1803-5, l'étudiant de l'enseignement supérieur doit être âgé de vingt-huit ans au plus au 1er octobre de l'année universitaire au titre de laquelle la demande est formulée.
 
 Le lieu de formation est situé sur le territoire français ou, dans le cadre d'un programme européen, dans un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen.
 
-Pour l'application de l'article L. 1803-5, l'étudiant ou le lycéen qui, au moment de son départ pour son cursus scolaire ou universitaire dans une des destinations éligibles au passeport pour la mobilité des études, était résident habituel d'une collectivité mentionnée à l'article L. 1803-2 peut bénéficier de l'aide, sous réserve de satisfaire aux autres conditions d'éligibilité.
+II. - L'étudiant bénéficiaire d'un passeport pour la mobilité des études pendant l'année scolaire ou universitaire qui suit immédiatement celle au cours de laquelle il a obtenu le diplôme ou l'équivalence du baccalauréat, et inscrit en première année d'une filière de l'enseignement supérieur dans un établissement situé en France métropolitaine, bénéficie sur sa demande d'un mentorat visant à répondre aux besoins spécifiques des étudiants ultramarins en mobilité. La demande de l'étudiant est adressée au service ayant délivré le passeport pour la mobilité des études. Cet accompagnement est mis en œuvre par l'Agence de l'outre-mer pour la mobilité.
+
+III. - Pour l'application de l'article L. 1803-5, l'étudiant ou le lycéen qui, au moment de son départ pour son cursus scolaire ou universitaire dans une des destinations éligibles au passeport pour la mobilité des études, était résident habituel d'une collectivité mentionnée à l'article L. 1803-2 peut bénéficier de l'aide, sous réserve de satisfaire aux autres conditions d'éligibilité.
 
 Peuvent bénéficier du passeport pour la mobilité des études les étudiants et élèves qui n'ont pas subi deux échecs successifs aux examens et concours de fin d'année scolaire ou universitaire. Cette condition n'est pas exigée dans le cas du voyage initial et de la première année d'étude.
 

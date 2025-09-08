@@ -1,7 +1,13 @@
 # Article D1803-7
 
-Peuvent bénéficier du dispositif d'aides à la mobilité les personnes âgées de plus de 18 ans qui justifient d'un projet d'insertion professionnelle apprécié sur la base d'un dossier faisant état du parcours du demandeur et démontrant le caractère nécessaire de la formation demandée.
+La mesure de formation professionnelle en mobilité vise :
 
-Peuvent bénéficier de l'aide financière au déplacement les personnes en insertion professionnelle, âgées de plus de 18 ans, dont le projet d'insertion se réalise dans le cadre d'un contrat à durée déterminée d'au moins six mois ou d'un contrat à durée indéterminée.
+- une des actions mentionnées aux articles L. 6313-1 et L. 6325-1 du code du travail. Lorsque la mesure de formation professionnelle en mobilité est effectuée dans un Etat membre de l'Union européenne ou un Etat partie à l'accord sur l'Espace économique européen dans le cadre d'un programme de l'Union européenne, elle vise une qualification reconnue par les autorités du lieu de formation ;
 
-La condition d'âge prévue au présent article est abaissée à seize ans pour les titulaires d'un contrat conclu en application de l'article L. 6221-1 ou de l'article L. 6325-1 du code du travail. Les personnes mineures ne peuvent bénéficier du dispositif d'aides que sur autorisation parentale.
+- la réalisation d'un stage pratique en mobilité, dans le cadre d'une mesure de formation professionnelle visant une des qualifications prévues à l'article L. 6314-1 du code du travail ;
+
+- la préparation opérationnelle à l'emploi ;
+
+- un parcours préparatoire au sein du groupement d'intérêt public " Institut de formation aux carrières administratives, sanitaires et sociales ", en vue d'accéder à une filière d'études ou de formation débouchant notamment sur une profession de la fonction publique ou des domaines sanitaire et social ;
+
+- la réalisation d'un parcours à visée d'expérience professionnelle.

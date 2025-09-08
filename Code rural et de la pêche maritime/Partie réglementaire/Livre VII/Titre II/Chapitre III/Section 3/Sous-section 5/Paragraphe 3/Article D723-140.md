@@ -6,4 +6,4 @@ Les frais de fonctionnement du service du contrôle médical des régimes agrico
 
 2° Le budget de l'association régionale des caisses de mutualité sociale agricole qui est consacré au contrôle médical est préparé par le médecin coordonnateur régional et présenté au conseil d'administration de l'association par le directeur de l'association. Le conseil arrête le budget en présence du médecin coordonnateur ;
 
-3° Le budget de l'échelon national du contrôle médical est préparé par le médecin-conseil national et présenté au conseil central d'administration de la Mutualité sociale agricole par le directeur de la Caisse centrale de la mutualité sociale agricole. Le conseil central arrête le budget en présence du médecin-conseil national.
+3° Le budget de la direction nationale du contrôle médical est préparé par le médecin directeur national du contrôle médical et présenté au conseil central d'administration de la Mutualité sociale agricole par le directeur de la Caisse centrale de la mutualité sociale agricole. Le conseil central arrête le budget en présence du médecin directeur national du contrôle médical.

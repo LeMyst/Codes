@@ -1,4 +1,4 @@
-# Article R721-1-1
+# Article D721-1-1
 
 Les sections compétentes du Conseil supérieur des prestations sociales agricoles mentionnées aux articles L. 751-15 et L. 752-17, siégeant en formation de commissions nationales de la prévention des accidents du travail et des maladies professionnelles des salariés et des non-salariés agricoles, rendent un avis sur les objectifs et les moyens de la politique de prévention des risques professionnels définie par le ministre chargé de l'agriculture.
 
@@ -12,6 +12,6 @@ Chacune des formations comprend :
 
 4° Deux représentants d'associations de victimes de risques professionnels ;
 
-5° Le médecin-conseil national du régime agricole de protection sociale et le médecin du travail, chef de l'échelon national de santé et sécurité au travail de la Caisse centrale de la mutualité sociale agricole.
+5° Le médecin national des régimes agricoles de protection sociale et les médecins directeurs nationaux de la Caisse centrale de la mutualité sociale agricole chargés, d'une part, du contrôle médical, d'autre part, de la santé et de la sécurité au travail.
 
 Un arrêté du ministre chargé de l'agriculture précise les modalités de désignation des membres mentionnés aux 2°, 3° et 4° des sections siégeant en formation de commissions nationales de la prévention mentionnées au premier alinéa, ainsi que les modalités de leur fonctionnement.

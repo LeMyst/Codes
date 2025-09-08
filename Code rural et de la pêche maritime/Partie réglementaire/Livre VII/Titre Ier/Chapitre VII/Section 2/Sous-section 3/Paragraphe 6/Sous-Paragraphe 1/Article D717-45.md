@@ -6,7 +6,7 @@ I. - Le cahier des charges national agricole de l'agrément comprend, s'agissant
 
 a) Le service est organisé et dirigé dans les conditions prévues aux articles L.717-3, L. 717-3-1, D. 717-38 et D. 717-39 à D 717-39-9 ;
 
-b) Le service exerce ses missions sous la coordination de l'échelon national de santé et de sécurité au travail en agriculture, constitué au sein de la Caisse centrale de la mutualité sociale agricole et placé sous la responsabilité d'un médecin du travail, chef de l'échelon national, en cohérence avec le plan santé et sécurité au travail en agriculture de la mutualité sociale agricole ;
+b) Le service exerce ses missions sous la coordination de l'échelon national de santé et de sécurité au travail en agriculture, constitué au sein de la Caisse centrale de la mutualité sociale agricole et placé sous la responsabilité d'un médecin directeur national de la santé et de la sécurité au travail, en cohérence avec le plan santé et sécurité au travail en agriculture de la mutualité sociale agricole ;
 
 2° Au titre de la qualité de l'offre de services :
 

@@ -30,4 +30,4 @@ d) Un représentant de l'Institut national de recherche et de sécurité ;
 
 7° Six représentants des salariés agricoles, désignés sur proposition des organisations syndicales représentatives de ces salariés ;
 
-8° Quatre représentants de la Caisse centrale de la mutualité sociale agricole, dont le médecin du travail en charge, au niveau national, de la santé et de la sécurité au travail et le médecin-conseil en charge, au niveau national, du contrôle médical.
+8° Quatre représentants de la Caisse centrale de la mutualité sociale agricole, dont les médecins directeurs nationaux chargés du contrôle médical et de la santé et de la sécurité au travail.

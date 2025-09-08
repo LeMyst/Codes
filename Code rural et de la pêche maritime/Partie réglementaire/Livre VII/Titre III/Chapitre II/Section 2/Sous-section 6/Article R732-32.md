@@ -1,6 +1,6 @@
 # Article R732-32
 
-Pour ouvrir droit à l'aide financière du Fonds national de prévention, d'éducation et d'information sanitaires, les actions mentionnées à l'article R. 732-31 doivent entrer dans le cadre d'un programme national établi annuellement par le conseil central d'administration de la Mutualité sociale agricole, après avis du médecin-conseil national mentionné à l'article D. 723-137 et du médecin-chef de l'échelon national de médecine du travail mentionné à l'article D. 717-43.
+Pour ouvrir droit à l'aide financière du Fonds national de prévention, d'éducation et d'information sanitaires, les actions mentionnées à l'article R. 732-31 doivent entrer dans le cadre d'un programme national établi annuellement par le conseil central d'administration de la Mutualité sociale agricole, après avis du médecin national des régimes agricoles de protection sociale, du médecin directeur national du contrôle médical de la caisse centrale de la mutualité sociale agricole et du médecin directeur national de la santé et de la sécurité au travail de la même caisse.
 
 Le programme prévu au premier alinéa est établi :
 

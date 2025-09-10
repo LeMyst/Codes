@@ -1,0 +1,9 @@
+# Article D813-70-5
+
+Nonobstant du respect des dispositions prévues à la section 5 du chapitre II du titre premier du livre VIII du code rural et de la pêche maritime, les établissements d'enseignement supérieur agricole privés accrédités, dans les conditions fixées à l'article L. 813-12, pour dispenser des formations conduisant à un diplôme national de premier cycle en sciences et techniques de l'agronomie, sont soumis aux conditions particulières suivantes :
+
+1° Par dérogation à l'article D. 812-81, le jury est nommé annuellement, sur proposition du chef d'établissement privé d'enseignement supérieur agricole accrédité, par le ministre chargé de l'agriculture. Le ministre chargé de l'agriculture désigne également le président du jury qui est issu du conseil général de l'alimentation, de l'agriculture et des espaces ruraux ou de l'inspection de l'enseignement agricole. A la clôture des opérations, le président du jury adresse au ministre chargé de l'agriculture le procès-verbal signé par les membres du jury et son rapport ;
+
+2° Par dérogation à l'article D. 812-82, le parchemin du " diplôme national de premier cycle en sciences et techniques de l'agronomie ", portant indication de la mention du bachelor agro et d'un parcours, le cas échéant, précisant les autres établissements accrédités ayant participé à la formation, est délivré par le ministre chargé de l'agriculture au nom de l'Etat. L'établissement d'enseignement supérieur agricole privé est chargé des opérations d'édition du parchemin de diplôme ;
+
+3° Par dérogation à l'article D. 812-93, si l'établissement d'inscription principale est un établissement privé d'enseignement supérieur agricole, les droits de scolarité pour les étudiants et stagiaires et les exonérations possibles sont fixés selon les règles qui leur sont propres.

@@ -1,0 +1,3 @@
+# Article D812-87
+
+La demande d'accréditation comporte notamment, pour chaque mention du bachelor agro préparée, la composition et les modalités de fonctionnement d'un comité, qui tient lieu du conseil de perfectionnement prévu à l'article L. 611-2 du code de l'éducation, associant des représentants des milieux professionnels afin d'adapter le contenu de la formation aux besoins économiques, compte tenu notamment de l'insertion professionnelle des diplômés, des évolutions technologiques et du contexte socio-économique territorial, national ou international. Ce comité est consulté sur le rapport d'évaluation interne et sur la demande de renouvellement de l'accréditation.

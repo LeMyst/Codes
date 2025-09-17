@@ -1,10 +1,10 @@
 # Article 1609 B
 
-En Guyane et dans le Département de Mayotte, il est institué une taxe spéciale d'équipement au profit des établissements publics créés en application de l'article L. 321-36-1 du code de l'urbanisme.
+En Guyane et à Mayotte, il est institué une taxe spéciale d'équipement au profit des établissements publics créés en application de l'article L. 321-36-1 et de l'article L. 321-36-8 du code de l'urbanisme.
 
-Cette taxe est destinée au financement des missions de ces établissements définies aux articles L. 321-36-1 et L. 321-36-2 du même code.
+Cette taxe est destinée au financement des missions de ces établissements définies aux articles L. 321-36-1, L. 321-36-2, pour la Guyane, et L. 321-36-8 et L. 321-36-9 pour Mayotte du même code.
 
-Le montant de cette taxe est arrêté, dans chaque département, avant le 31 décembre de chaque année, pour l'année suivante, par le conseil d'administration de l'établissement public dans la limite d'un plafond annuel. Pour la première année au titre de laquelle l'établissement public perçoit la taxe, le montant de celle-ci est arrêté avant le 31 mars de la même année.
+Le montant de cette taxe est arrêté, en Guyane et à Mayotte, avant le 31 décembre de chaque année, pour l'année suivante, par le conseil d'administration de l'établissement public dans la limite d'un plafond annuel. Pour la première année au titre de laquelle l'établissement public perçoit la taxe, le montant de celle-ci est arrêté avant le 31 mars de la même année.
 
 Le montant mentionné au troisième alinéa du présent article est réparti, dans les conditions définies au I de l'article 1636 B octies, entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation sur les résidences secondaires et à la cotisation foncière des entreprises dans les communes comprises dans la zone de compétence de l'établissement public.
 
@@ -17,4 +17,4 @@ Les cotisations sont établies et recouvrées, les réclamations sont présenté
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+Conformément à l'article 4 de l'ordonnance n° 2025-453 du 23 mai 2025, les dispositions de ladite ordonnance entrent en vigueur à la date de publication du décret en Conseil d'Etat mentionné à l'article L. 321-36-16 du code de l'urbanisme créé par l'article 2 de cette même ordonnance, soit le 8 août 2025 (décret n° 2025-786 du 7 août 2025).

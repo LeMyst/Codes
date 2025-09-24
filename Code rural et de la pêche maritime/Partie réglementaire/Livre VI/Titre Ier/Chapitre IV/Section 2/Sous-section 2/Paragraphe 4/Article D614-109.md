@@ -12,7 +12,7 @@ L'aide peut être accordée au titre de trois voies d'accès :
 
 Un supplément d'aide, dénommé “ bonus haies ”, peut s'ajouter à l'aide versée au titre de la voie d'accès “ pratiques de gestion agro-écologique des surfaces agricoles ” ou au titre de la voie d'accès “ certification environnementale ”.
 
-Lors du dépôt de la demande prévue à l'article D. 614-36 du code rural et de la pêche maritime, l'agriculteur précise la voie d'accès dans laquelle il souhaite s'engager.
+Lors du dépôt de la demande prévue à l'article D. 614-36 du code rural et de la pêche maritime , l'agriculteur précise la voie d'accès dans laquelle il souhaite s'engager.
 
 Chaque voie d'accès comporte deux niveaux d'exigence
 

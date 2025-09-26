@@ -78,7 +78,7 @@ N.-Les prestations de pose, d'installation et d'entretien d'infrastructures de r
 
 2° La configuration des infrastructures de recharge répond aux exigences techniques fixées par arrêté conjoint des ministres chargés du budget et de l'énergie ;
 
-3° Les prestations sont réalisées par une personne répondant à des critères de qualification définis par l'arrêté mentionné au 2° du présent N.
+3° Les prestations sont réalisées par une personne répondant à des critères de qualification définis par l'arrêté mentionné au 2° du présent N ;
 
 O.-L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui-ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.
 

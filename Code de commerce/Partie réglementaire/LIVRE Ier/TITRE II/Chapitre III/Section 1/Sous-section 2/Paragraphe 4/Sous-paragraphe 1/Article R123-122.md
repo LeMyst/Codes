@@ -1,6 +1,6 @@
 # Article R123-122
 
-I. - Sont mentionnées d'office au registre :
+I.-Sont mentionnées d'office au registre :
 
 1° Les décisions, intervenues dans les procédures de sauvegarde ou de redressement ou liquidation judiciaires des entreprises ouvertes à compter du 1er janvier 2006 :
 
@@ -52,9 +52,9 @@ v) Décidant la reprise de la procédure de liquidation judiciaire ;
 
 3° La décision prononçant la clôture de la procédure de rétablissement professionnel et l'effacement des dettes.
 
-II. - S'agissant des décisions d'ouverture de procédures de sauvegarde ou de redressement ou liquidation judiciaires ouvertes à compter du 26 juin 2018, sans préjudice du 1° du I, sont également mentionnés d'office au registre :
+II.-S'agissant des décisions d'ouverture de procédures de sauvegarde ou de redressement ou liquidation judiciaires ouvertes à compter du 26 juin 2018, sans préjudice du 1° du I, sont également mentionnés d'office au registre :
 
-1° La nature principale, secondaire ou territoriale de la procédure d'insolvabilité au sens des paragraphes 1, 2 ou 4 de l'article 3 du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité ;
+1° La nature principale, secondaire ou territoriale de la procédure d'insolvabilité au sens des paragraphes 1,2 ou 4 de l'article 3 du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité ;
 
 2° La juridiction compétente pour connaître du recours à l'encontre de la décision d'ouverture de la procédure d'insolvabilité pour un motif de compétence internationale et le délai pour former ce recours ;
 

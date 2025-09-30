@@ -19,3 +19,6 @@ Les données non détectées par les traitements comme susceptibles de révéler
 V.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué pour les autorisations délivrées sur le fondement des I et II du présent article.
 
 VI.-Un service du Premier ministre est seul habilité à exécuter les traitements et opérations mis en œuvre sur le fondement des I et IV, sous le contrôle de la Commission nationale de contrôle des techniques de renseignement.
+
+NOTA:
+Par une décision n° 2025-885 DC du 12 juin 2025, le Conseil constitutionnel a déclaré contraires à la Constitution les mots "ainsi que les adresses complètes de ressources utilisées sur internet" figurant au deuxième alinéa du paragraphe I de l'article L. 851-3 du code de la sécurité intérieure.

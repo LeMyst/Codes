@@ -203,10 +203,10 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | Article L. 511-1 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 511-1-1 | la loi n° 2024-537 du 13 juin 2024 visant à accroître le financement des entreprises et l'attractivité de la France |
 | Articles L. 511-2 à L. 511-25 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
-| Articles L. 511-26 à L. 511-30 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Articles L. 511-26 à L. 511-30 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 511-31 | la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises |
-| Articles L. 511-32 à L. 511-37 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
-| Articles L. 511-38 à L. 511-81 | l' ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Articles L. 511-32 à L. 511-37 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
+| Articles L. 511-38 à L. 511-81 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 512-1 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |
 | Article L. 512-1-1 | la loi n° 2024-537 du 13 juin 2024 visant à accroître le financement des entreprises et l'attractivité de la France |
 | Articles L. 512-2 à L. 512-8 | l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie législative du code de commerce |

@@ -1,0 +1,5 @@
+# Article R201-11
+
+Les propriétaires et détenteurs d'animaux ou de denrées alimentaires d'origine animale concernés par l'enquête épidémiologique consécutive à une toxi-infection alimentaire, à un cas humain de maladie zoonotique ou à un foyer de maladie réglementée au sens de l'article L. 221-1 mettent à la disposition du préfet de département, dès qu'ils en sont informés, tout échantillon et résultat d'analyse utile à l'enquête. A la demande du préfet de département, ils font parvenir au laboratoire qu'il désigne les analytes isolés dans le cadre de leurs autocontrôles. Ils veillent à ce que les conditions de conservation des échantillons et analytes ne gênent pas l'interprétation d'analyses de laboratoire ultérieures et en préservent la traçabilité. De plus, ils n'entreprennent aucune mesure susceptible de gêner le déroulement de l'enquête sans l'autorisation de l'autorité administrative.
+
+Les responsables de laboratoires concernés par une enquête épidémiologique mentionnée à l'alinéa précédent tiennent à la disposition de l'autorité administrative, dès qu'ils en sont informés, tout échantillon, analyte isolé et résultat d'analyse utile à l'enquête.

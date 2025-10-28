@@ -24,7 +24,6 @@ II.-Le présent article n'est pas applicable :
 
 1° Aux assurés qui bénéficient d'un avantage de préretraite prévu par des dispositions réglementaires, par des stipulations conventionnelles ou par une décision unilatérale de l'employeur ;
 
-2° Aux assurés exerçant à titre exclusif une des activités déterminées par décret parmi celles mentionnées à l'article L. 311-3.
+2° Aux assurés exerçant à titre exclusif une des activités déterminées par décret parmi celles mentionnées à l'article L. 311-3 ;
 
-NOTA:
-Conformément au C du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les F et İ, les 1°, 2°, 5°, 8°, 9°, 12° et 17° du L et les M et N du I, les 3° à 6°, 10°, 12°, 14°, 18°, 19° et 23° du II et les IV à VII de l'article précité s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+3° Aux assurés dont l'indemnité de départ à la retraite est affectée au maintien total ou partiel de leur rémunération en application du dernier alinéa de l'article L. 1237-9 du code du travail.

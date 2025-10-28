@@ -1,12 +1,12 @@
 # Article D201-7
 
-I. - (Abrogé).
+I. - L'autorité administrative destinataire des informations mentionnées aux premier et cinquième alinéas de l'article L. 201-7 est le préfet du département du lieu d'implantation de l'établissement ou de l'exploitation ou du lieu d'exercice de l'activité en cause ou, lorsque le propriétaire ou détenteur d'animaux n'est pas un professionnel, le préfet du département de son domicile.
+
+L'autorité administrative destinataire des informations mentionnées au deuxième alinéa de l'article L. 201-7 est le préfet de la région du lieu d'implantation de l'établissement ou de l'exploitation ou du lieu d'exercice de l'activité en cause ou, lorsque le propriétaire ou détenteur de végétaux n'est pas un professionnel, le préfet de la région de son domicile.
 
 II. - (Abrogé).
 
-III. - Lorsqu'un danger sanitaire de deuxième catégorie figurant sur la liste mentionnée au II fait uniquement l'objet d'un programme collectif volontaire approuvé, l'information est transmise à l'association sanitaire régionale.
-
-Dans tous les autres cas, l'information est transmise dans les conditions prévues au I.
+III. - (Abrogé).
 
 IV. - L'autorité administrative mentionnée aux troisième et quatrième alinéas de l'article L. 201-7 est le préfet du département du lieu d'implantation de l'établissement ou de l'exploitation ou du lieu d'exercice de l'activité en cause.
 

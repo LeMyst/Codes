@@ -2,7 +2,7 @@
 
 L'accord conclu à l'issue de la négociation mentionnée à l'article L. 2242-10 précise :
 
-1° Les thèmes des négociations et leur périodicité, de telle sorte qu'au moins tous les quatre ans soient négociés les thèmes mentionnés aux 1° et 2° de l'article L. 2242-1 et à l'article L. 2242-2 ;
+1° Les thèmes des négociations et leur périodicité, de telle sorte qu'au moins tous les quatre ans soient négociés les thèmes mentionnés aux 1° et 2° de l'article L. 2242-1 et aux articles L. 2242-2 et L. 2242-2-1 ;
 
 2° Le contenu de chacun des thèmes ;
 

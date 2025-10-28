@@ -4,7 +4,7 @@ L'accord conclu à l'issue de la négociation mentionnée à l'article L. 2241-4
 
 1° Les thèmes des négociations et leur périodicité, de telle sorte que soient négociés :
 
-a) Au moins tous les quatre ans les thèmes mentionnés aux 1° à 5° de l'article L. 2241-1 ;
+a) Au moins tous les quatre ans les thèmes mentionnés aux 1° à 5° bis de l'article L. 2241-1 ;
 
 b) Au moins tous les cinq ans les thèmes mentionnés aux 6° et 7° de l'article L. 2241-1 ;
 

@@ -12,4 +12,11 @@ La négociation prévue à l'article L. 2242-20 peut également porter :
 
 5° Sur la mise en place de congés de mobilités dans les conditions prévues par les articles L. 1237-18 et suivants ;
 
-6° Sur la formation et l'insertion durable des jeunes dans l'emploi, l'emploi des salariés âgés et la transmission des savoirs et des compétences, les perspectives de développement de l'alternance, ainsi que les modalités d'accueil des alternants et des stagiaires et l'amélioration des conditions de travail des salariés âgés.
+6° Sur la formation et l'insertion durable des jeunes dans l'emploi, les perspectives de développement de l'alternance, ainsi que les modalités d'accueil des alternants et des stagiaires ;
+
+7° Sur les modalités d'organisation des périodes de reconversion externe, prévues à l'article L. 6324-9.
+
+L'accord conclu sur ce thème dans le cadre du présent article vaut conclusion de l'accord mentionné à l'article L. 6324-9.
+
+NOTA:
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.

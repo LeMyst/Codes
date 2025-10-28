@@ -1,6 +1,6 @@
 # Article L1237-5
 
-La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre le contrat de travail d'un salarié ayant atteint l'âge mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale sous réserve des septième à neuvième alinéas :
+La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre le contrat de travail d'un salarié ayant atteint, y compris avant son embauche, l'âge mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale sous réserve des septième à neuvième alinéas :
 
 Un âge inférieur peut être fixé, dans la limite de celui prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale, dès lors que le salarié peut bénéficier d'une pension de vieillesse à taux plein au sens du code de la sécurité sociale :
 
@@ -12,11 +12,8 @@ Un âge inférieur peut être fixé, dans la limite de celui prévu au premier a
 
 4° Dans le cadre du bénéfice de tout autre avantage de préretraite défini antérieurement à la date de publication de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et ayant pris effet avant le 1er janvier 2010.
 
-Avant la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L. 351-8 du code de la sécurité sociale et dans un délai fixé par décret, l'employeur interroge par écrit le salarié sur son intention de quitter volontairement l'entreprise pour bénéficier d'une pension de vieillesse.
+Avant la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L. 351-8 du code de la sécurité sociale et dans un délai fixé par décret, l'employeur interroge par écrit le salarié sur son intention de quitter volontairement l'entreprise pour bénéficier ou continuer de bénéficier d'une pension de vieillesse.
 
 En cas de réponse négative du salarié dans un délai fixé par décret ou à défaut d'avoir respecté l'obligation mentionnée à l'alinéa précédent, l'employeur ne peut faire usage de la possibilité mentionnée au premier alinéa pendant l'année qui suit la date à laquelle le salarié atteint l'âge fixé au 1° de l'article L. 351-8 du code de la sécurité sociale.
 
 La même procédure est applicable chaque année jusqu'au soixante-neuvième anniversaire du salarié.
-
-NOTA:
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 27 sont applicables aux pensions prenant effet à compter du 1er juillet 2011.

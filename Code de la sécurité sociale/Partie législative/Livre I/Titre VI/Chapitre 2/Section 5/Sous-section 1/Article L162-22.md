@@ -18,7 +18,7 @@ Les activités pour lesquelles les établissements de santé sont autorisés en 
 
 2° Pour les activités de psychiatrie, conformément à l'article L. 162-22-19 ;
 
-3° Pour les activités réalisées dans les établissements de santé autorisés à dispenser des de longue durée mentionnés à l'article L. 174-5, conformément à l'article L. 174-1 ;
+3° Pour les activités réalisées dans les établissements de santé autorisés à dispenser des soins de longue durée mentionnés à l'article L. 174-5, conformément à l'article L. 174-1 ;
 
 4° Pour les activités de soins médicaux et de réadaptation, conformément à l'article L. 162-23-2.
 

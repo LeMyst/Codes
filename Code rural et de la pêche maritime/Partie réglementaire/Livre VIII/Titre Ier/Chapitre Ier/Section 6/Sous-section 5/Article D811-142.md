@@ -7,7 +7,7 @@ II.-Le chef d'établissement au sein duquel est implantée la section de technic
 L'attestation est établie conformément au référentiel du diplôme correspondant à la spécialité ou à l'option, dans le respect des conditions prévues à l'article D. 611-2 du code de l'éducation.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2025.
+Conformément à l'article 4 du décret n° 2020-687 du 4 juin 2020 dans sa rédaction issue de l'article 5 du décret n° 2024-93 du 8 février 2024, ces dispositions entrent en vigueur, pour chaque spécialité du diplôme, à compter de la rentrée scolaire prévue par le nouvel arrêté de création de chaque spécialité du brevet de technicien supérieur agricole et au plus tard le 1er septembre 2026.
 
 La liste des nouveaux arrêtés de création des spécialités du brevet de technicien supérieur agricole est la suivante :
 

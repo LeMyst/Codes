@@ -17,3 +17,6 @@ Le nombre total de points est de 200. Il se décompose comme suit :
 2° Epreuve à réponses rédigées : 100 points.
 
 Sont déclarés reçus les candidats qui ont obtenu, pour l'ensemble des épreuves, une note au moins égale à 120 sur 200, sous réserve qu'ils aient obtenu au moins 50 points pour le questionnaire à choix multiples et 40 points pour l'épreuve à réponses rédigées.
+
+NOTA:
+Par décision n° 502496 du 28 octobre 2025 du Conseil d'Etat statuant au contentieux, FR:CECHR:2025:502496.20251028, l’arrêté du 2 août 2024 relatif aux modalités de l’obtention des attestations de capacité professionnelle en transport routier léger est annulé en tant qu’il n’a pas différé de deux mois son entrée en vigueur.

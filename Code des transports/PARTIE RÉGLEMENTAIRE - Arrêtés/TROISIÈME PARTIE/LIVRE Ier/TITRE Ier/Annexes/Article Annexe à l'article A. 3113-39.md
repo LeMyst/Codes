@@ -31,3 +31,6 @@ Fait à le
 (1) Cocher la case correspondant à la modalité d'obtention de l'attestation.
 
 (2) Possibilité ouverte à partir du 1er juillet 2012.
+
+NOTA:
+Par décision n° 502496 du 28 octobre 2025 du Conseil d'Etat statuant au contentieux, FR:CECHR:2025:502496.20251028, l’arrêté du 2 août 2024 relatif aux modalités de l’obtention des attestations de capacité professionnelle en transport routier léger est annulé en tant qu’il n’a pas différé de deux mois son entrée en vigueur.

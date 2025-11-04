@@ -34,7 +34,7 @@ Ses délibérations portent notamment sur :
 
 15° L'utilisation des locaux en application de l'article L. 212-15 du code de l'éducation ;
 
-16° La création et la définition des emplois rémunérés sur le budget de l'établissement public local ainsi que les conditions d'emploi, de travail et de rémunération fixées dans le respect des lois et règlements en vigueur ;
+16° La création et la définition des emplois rémunérés sur le budget de l'établissement public local ainsi que, sous réserve de la compétence attribuée au ministre chargé de l'agriculture par les dispositions de l'article R. 811-93-1, la fixation des conditions d'emploi, de travail et de rémunération dans le respect des lois et règlements en vigueur ;
 
 17° L'acceptation ou le refus de dons et legs ;
 

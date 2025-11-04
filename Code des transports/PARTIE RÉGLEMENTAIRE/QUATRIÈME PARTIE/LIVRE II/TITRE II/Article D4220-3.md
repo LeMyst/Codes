@@ -6,6 +6,8 @@ Le titre de sécurité ou certificat de prévention de la pollution visé au 2°
 
 2° Dans le cas des navires de mer ne relevant pas des conventions mentionnées au présent article, des certificats appropriés et des marques de franc-bord exigés par la législation de l'Etat dont ils battent pavillon ;
 
-3° Pour les navires à passagers ne relevant pas des conventions mentionnées au présent article, d'un certificat sur les règles et normes de sécurité pour les navires à passagers, délivré en vertu de la directive 2009/45/CE du Parlement européen et du Conseil du 6 mai 2009 établissant des règles et normes de sécurité pour les navires à passagers ;
+3° Pour les navires à passagers ne relevant pas des conventions mentionnées au présent article, d'un certificat sur les règles et normes de sécurité pour les navires à passagers, délivré en vertu de la directive 2009/45/ CE du Parlement européen et du Conseil du 6 mai 2009 établissant des règles et normes de sécurité pour les navires à passagers ;
 
 4° Pour les navires de plaisance ne relevant pas des conventions mentionnées au présent article, d'un titre de navigation maritime pour les navires français ou d'un certificat du pays dont ils battent pavillon attestant d'un niveau de sécurité suffisant.
+
+Le présent article ne s'applique pas aux navires munis de systèmes de propulsion ou de systèmes auxiliaires utilisant des combustibles dont le point d'éclair est inférieur ou égal à 55° C, à l'exception de l'essence. Ces navires doivent se conformer à l'article D. 4220-1.

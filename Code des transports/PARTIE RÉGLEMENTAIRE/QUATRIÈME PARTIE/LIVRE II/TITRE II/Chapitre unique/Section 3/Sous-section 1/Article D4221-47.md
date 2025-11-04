@@ -6,6 +6,6 @@ Sous les réserves énoncées par le présent article, les dispositions des arti
 
 2° La visite périodique à sec prévue par l'article D. 4221-40 a lieu au moins une fois tous les dix ans ;
 
-3° Pour l'application de l'article D. 4221-17, est également considéré comme un organisme de contrôle pour les bateaux de plaisance un organisme notifié au titre de la directive 2013/53/ UE du Parlement européen et du Conseil du 20 novembre 2013 relative aux bateaux de plaisance et aux véhicules nautiques à moteur et abrogeant la directive 94/25/ CE ;
+3° Pour l'application du 2° de l'article R. 4221-17, est également considéré comme un organisme de contrôle pour les bateaux de plaisance un organisme notifié au titre de la directive 2013/53/ UE du Parlement européen et du Conseil du 20 novembre 2013 relative aux bateaux de plaisance et aux véhicules nautiques à moteur et abrogeant la directive 94/25/ CE ;
 
 4° Les dispositions des articles D. 4221-24 et D. 4221-25 ne s'appliquent pas aux bateaux de plaisance d'une longueur inférieure à 24 mètres.

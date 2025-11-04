@@ -1,6 +1,6 @@
 # Article D4221-28
 
-L'autorité compétente peut dispenser de visite à sec :
+L'autorité compétente peut dispenser de participer à la visite à sec les représentants de l'autorité compétente visée à l'article R. * 4100-1 de la commission de visite pour :
 
 1° Les bateaux et engins flottants mentionnés à l'article D. 4221-1 disposant d'un document établi par une société de classification attestant que sa construction est conforme aux prescriptions de cette société ou d'un certificat établissant que des autorités compétentes d'autres Etats membres de l'Union européenne ont effectué une visite à sec à d'autres fins ;
 

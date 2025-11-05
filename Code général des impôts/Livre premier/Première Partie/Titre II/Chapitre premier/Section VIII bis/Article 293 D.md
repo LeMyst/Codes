@@ -1,8 +1,8 @@
 # Article 293 D
 
-I.-A.-Le chiffre d'affaires réalisé en France qui sert de référence pour l'application de la franchise prévue aux articles 293 B et 293 B bis est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées en France.
+I.- A. - Le chiffre d'affaires réalisé en France qui sert de référence pour l'application de la franchise prévue aux articles 293 B et 293 B bis est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées en France.
 
-B.-Le chiffre d'affaires mentionné au A du présent I est constitué des montants hors taxes suivants :
+B. - Le chiffre d'affaires mentionné au A du présent I est constitué des montants hors taxes suivants :
 
 1° Le montant des livraisons de biens et des prestations de services, dans la mesure où elles seraient taxées si elles étaient effectuées par un assujetti ne bénéficiant pas de la franchise ;
 
@@ -16,11 +16,13 @@ B.-Le chiffre d'affaires mentionné au A du présent I est constitué des montan
 
 Les cessions de biens d'investissement corporels ou incorporels de l'assujetti ne sont pas prises en considération pour la détermination du chiffre d'affaires.
 
-II.-A.-Le chiffre d'affaires annuel réalisé dans l'Union européenne qui sert de référence pour l'application des articles 293 B bis et 293 B ter est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées sur le territoire de l'Union européenne.
+II. - A. - Le chiffre d'affaires annuel réalisé dans l'Union européenne qui sert de référence pour l'application des articles 293 B bis et 293 B ter est le montant total annuel des livraisons de biens et des prestations de services, hors taxe sur la valeur ajoutée, réalisées sur le territoire de l'Union européenne.
 
-B.-Les chiffres d'affaires réalisés dans les autres Etats membres de l'Union européenne entrant dans la composition du chiffre d'affaires annuel dans l'Union européenne sont déterminés en application des dispositions transposant dans ces Etats l'article 288 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+B. - Les chiffres d'affaires réalisés dans les autres Etats membres de l'Union européenne entrant dans la composition du chiffre d'affaires annuel dans l'Union européenne sont déterminés en application des dispositions transposant dans ces Etats l'article 288 de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
 
-III.-Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
+III. - Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I et au A du I bis de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
 
 NOTA:
 Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.
+
+Conformément au A du III de l'article 1 de la loi n° 2025-1044 du 3 novembre 2025, ces dispositions s'appliquent à compter du 1er mars 2025.

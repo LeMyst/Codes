@@ -1,299 +1,481 @@
 # Article A821-64
 
-La norme d'exercice professionnel relative aux principes spécifiques applicables à l'audit des comptes consolidés, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
+La norme d'exercice professionnel relative à l'audit des comptes de groupe (y compris l'utilisation des travaux des auditeurs des composants)-aspects particuliers, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
-NEP 600. Principes spécifiques applicables à l'audit des comptes consolidés
+NEP 600. Audit des comptes de groupe (y compris l'utilisation des travaux des auditeurs des composants)-aspects particuliers
 
-Introduction
+Champ d'application de la norme
 
-1. En application du deuxième alinéa de l'article L. 821-53 du code de commerce, les commissaires aux comptes certifient, en justifiant de leurs appréciations, que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de l'ensemble constitué par les personnes et entités comprises dans la consolidation.
+1. La présente norme traite des principes applicables à la certification des comptes de groupe, notamment lorsqu'il y a participation d'auditeurs de composants.
 
-Pour répondre à cette obligation légale, les commissaires aux comptes formulent une opinion sur les comptes consolidés après avoir mis en œuvre un audit, en application des normes d'exercice professionnel.
+Elle traite également des principes spécifiques applicables à l'associé responsable de l'audit du groupe ou à l'auditeur du groupe, selon le cas, y compris en ce qui concerne la direction et la supervision des auditeurs des composants et la revue de leurs travaux.
 
-2. La présente norme a pour objet de définir, en complément des dispositions prévues par les normes d'exercice professionnel relatives à la certification des comptes, les principes spécifiques applicables à l'audit des comptes consolidés.
+La présente norme complète les dispositions prévues par d'autres textes, notamment le code de déontologie, les normes de déontologie et les autres normes d'exercice professionnel.
 
-Ces principes s'appliquent également lorsque les comptes à certifier par le commissaire aux comptes sont des comptes combinés.
+2. Les comptes de groupe, tels que définis par la présente norme, sont les comptes consolidés, les comptes combinés ou les comptes annuels, qui :
 
-La présente norme n'a pas pour objet de définir les principes qui régissent l'exercice collégial de l'audit des comptes réalisé par plusieurs commissaires aux comptes, qui font l'objet de la norme d'exercice professionnel correspondante.
+-incluent les comptes de plus d'une entité ou unité opérationnelle du fait d'un processus de consolidation tel que décrit au paragraphe 12 (k) ; et
 
-3. Dans le contexte particulier de l'audit des comptes consolidés, le risque d'audit comprend notamment le risque qu'une anomalie présente dans l'information comptable des entités comprises dans la consolidation et pouvant générer des anomalies significatives dans les comptes consolidés ne soit détectée ni par les professionnels chargés du contrôle des comptes de ces entités, ni par le commissaire aux comptes.
+-font l'objet d'une certification par le ou les commissaires aux comptes dans le cadre de leur mission légale prévue à l'article L. 821-53 du code de commerce.
 
-1. Par convention, dans la présente norme :
+Une entité ou unité opérationnelle d'un groupe peut également préparer ses propres comptes de groupe concernant des entités ou des unités opérationnelles qu'elle englobe, il s'agit alors d'un sous-groupe. La présente norme s'applique également à l'audit des comptes de groupe d'un tel sous-groupe.
 
--le terme “ entités ” désigne les entités comprises dans la consolidation ;
+Groupes et composants
 
--le terme “ entité consolidante ” désigne l'entité qui établit les comptes consolidés soumis à certification du commissaire aux comptes ;
+3. Pour la gestion de ses activités, un groupe peut être organisé de différentes manières.
 
--le terme “ commissaire aux comptes ” désigne l'organe de contrôle légal des comptes de l'entité consolidante ;
+Par exemple, il peut être organisé par entités juridiques, par emplacements géographiques, par unités économiques telles que des succursales ou des divisions, ou encore par fonctions ou branches d'activité.
 
--le terme “ information comptable des entités ” désigne les comptes ou l'information préparée par les entités, selon les instructions de l'entité consolidante aux fins d'inclusion dans les comptes consolidés, telle que la liasse de consolidation ;
+Quel que soit le mode d'organisation retenu par le groupe, ces différentes constituantes sont collectivement désignées par l'expression “ entités ou unités opérationnelles ” dans la présente norme.
 
--le terme “ professionnels chargés du contrôle des comptes des entités ” désigne les commissaires aux comptes des entités ou les autres professionnels qui réalisent les travaux de contrôle sur l'information comptable des entités.
+4. L'auditeur du groupe, tel que défini au paragraphe 12 (h), détermine la démarche à suivre pour la planification et la mise en œuvre des procédures d'audit visant à répondre à l'évaluation du risque d'anomalies significatives dans les comptes du groupe.
 
-Lettre de mission
+A cette fin, il exerce son jugement professionnel notamment pour déterminer les composants à l'égard desquels des travaux d'audit seront effectués.
 
-5. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative à la lettre de mission.
+Il procède à cette détermination en se fondant sur la connaissance qu'il a du groupe et de son environnement, et en tenant compte d'autres facteurs, dont :
 
-Planification de l'audit
+-la possibilité ou non de centraliser la mise en œuvre des procédures d'audit ;
 
-6. Le commissaire aux comptes planifie son audit des comptes consolidés conformément aux principes de la norme d'exercice professionnel relative à la planification de la mission.
+-la présence ou non de centres de services partagés qui ont pour objectif de centraliser les activités ou les processus qui concernent plus d'une entité ou unité opérationnelle ; et
 
-Prise de connaissance de l'ensemble consolidé et de son environnement et évaluation du risque d'anomalies significatives
+-l'existence de systèmes d'information et de contrôle interne communs entre plusieurs entités ou unités opérationnelles. Dans ce cas, l'auditeur du groupe peut estimer pertinent que ces entités ou unités opérationnelles constituent un composant.
 
-7. En application de la norme d'exercice professionnel relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes, le commissaire aux comptes identifie et évalue le risque d'anomalies significatives au niveau des comptes consolidés.
+Participation des auditeurs des composants
 
-Pour ce faire, le commissaire aux comptes prend connaissance :
+5. L'associé responsable de l'audit du groupe détermine les ressources humaines, technologiques et intellectuelles, suffisantes et appropriées, à affecter à la mission ou à mettre à la disposition de l'équipe affectée à la mission en temps opportun.
 
--de l'ensemble consolidé et des entités qui le constituent, de leurs activités et de leur environnement, du processus d'élaboration des comptes consolidés défini par l'entité consolidante et des instructions adressées par sa direction aux entités de l'ensemble consolidé ;
+Lorsque ces ressources comptent des auditeurs des composants, l'auditeur du groupe détermine la nature, le calendrier et l'étendue de la participation des auditeurs des composants.
 
--des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés, afin :
+6. Pour satisfaire aux exigences de la présente norme, l'auditeur du groupe peut faire appel aux auditeurs des composants et leur demander de lui fournir des informations ou d'effectuer des travaux d'audit au motif que les auditeurs des composants ont, par exemple, une plus grande expérience et une connaissance plus approfondie des composants et de leurs environnements, y compris des textes légaux et réglementaires locaux ainsi que des pratiques commerciales, de la langue et de la culture locales, que l'auditeur du groupe.
 
--d'identifier les entités importantes pour l'audit des comptes consolidés en fonction de l'importance de leur contribution individuelle ou de l'importance du risque d'anomalies significatives que l'information comptable de ces entités peut faire peser sur les comptes consolidés ;
+Par conséquent, il peut arriver, et il arrive souvent, que des auditeurs des composants participent à toutes les étapes de l'audit du groupe.
 
--d'évaluer le risque d'anomalies significatives dans les comptes consolidés résultant de fraudes ou d'erreurs.
+7. Le risque d'audit est fonction du risque d'anomalies significatives et du risque de non-détection.
 
-8. Lors de sa prise de connaissance, le commissaire aux comptes tient compte des informations recueillies avant l'acceptation de son mandat.
+Dans un audit de groupe, le risque de non-détection comprend le risque que l'auditeur d'un composant ne détecte pas une anomalie dans les comptes du composant qui pourrait aboutir à une anomalie significative dans les comptes du groupe et que cette dernière ne soit pas détectée par l'auditeur du groupe. C'est pourquoi la présente norme requiert une participation suffisante et appropriée de l'associé responsable de l'audit du groupe ou de l'auditeur du groupe, selon le cas, aux travaux des auditeurs des composants, et souligne l'importance d'un processus d'échange entre l'auditeur du groupe et les auditeurs des composants. Elle précise aussi les aspects que l'auditeur du groupe prend en considération pour déterminer la nature, le calendrier et l'étendue de la direction et de la supervision des auditeurs des composants, ainsi que de la revue de leurs travaux.
 
-Connaissance des professionnels chargés du contrôle des comptes des entités
+Esprit critique
 
-9. En application des dispositions de l'article L. 821-53 du code de commerce, la certification des comptes consolidés est délivrée notamment après examen des travaux des commissaires aux comptes des personnes et entités comprises dans la consolidation ou, s'il n'en est point, des professionnels chargés du contrôle des comptes desdites personnes et entités.
+8. Les membres de l'équipe affectée à la mission font preuve d'esprit critique tout au long de la planification et de la réalisation de l'audit du groupe et exercent leur jugement professionnel.
 
-1. Le commissaire aux comptes évalue la possibilité d'utiliser, pour les besoins de l'audit des comptes consolidés, les éléments collectés et les conclusions émises par les professionnels chargés du contrôle des comptes des entités. Pour ce faire, il examine les critères suivants :
+Par leurs actions et leurs communications, y compris les mesures qu'ils prennent pour faire valoir l'importance que chaque membre de l'équipe affectée à la mission accorde à l'exercice de l'esprit critique tout au long de l'audit du groupe, les membres de l'équipe affectée à la mission démontrent qu'ils exercent leur esprit critique de manière appropriée.
 
-a) L'identité de ces professionnels et la nature de la mission qui leur a été confiée, leur qualification professionnelle et leur compétence ;
+Ces actions et communications peuvent comprendre des mesures spécifiques visant à atténuer les obstacles susceptibles d'entraver l'exercice d'un esprit critique approprié.
 
-b) Leur compréhension des règles d'indépendance et de déontologie applicables à l'audit des comptes consolidés et leur capacité à les respecter ;
+La direction et la supervision des membres de l'équipe affectée à la mission, y compris des auditeurs des composants, et la revue de leurs travaux peuvent aider l'auditeur du groupe à savoir si l'équipe affectée à la mission a exercé son esprit critique de manière appropriée.
 
-c) La possibilité qu'il a d'être impliqué dans les travaux qui seront réalisés par ces professionnels pour les besoins de l'audit des comptes consolidés ;
+L'exercice de l'esprit critique par l'auditeur du groupe implique notamment qu'il demeure attentif aux éventuelles incohérences entre les informations fournies par les auditeurs des composants, par la direction des composants et par la direction du groupe concernant des questions qui pourraient s'avérer importantes par rapport aux comptes du groupe.
 
-d) L'existence d'un système de surveillance de leur profession dans l'environnement réglementaire des entités.
+Application proportionnée
 
-11. A l'issue de cet examen, si le commissaire aux comptes estime qu'il ne peut utiliser pour les besoins de l'audit des comptes consolidés les travaux des professionnels chargés du contrôle des comptes des entités, il adapte son niveau d'implication dans les travaux requis et, si besoin, réalise lui-même ces travaux.
+9. La présente norme vise tous les audits de groupe, peu importe la taille ou la complexité du groupe ; les principes qu'elle édicte sont appliqués en fonction de la nature et des circonstances de chaque audit de groupe.
 
-Seuils de signification
+Par exemple, lorsque l'audit du groupe est réalisé entièrement par l'auditeur du groupe, certaines diligences requises par la présente norme ne sont pas applicables étant conditionnées à la participation d'auditeurs des composants. Ce peut être le cas lorsque l'auditeur du groupe est en mesure de mettre en œuvre les procédures d'audit de façon centralisée ou de mettre en œuvre les procédures à l'égard des composants sans faire participer d'auditeurs des composants.
 
-12. Le commissaire aux comptes détermine :
+Responsabilités de l'associé responsable de l'audit du groupe et de l'auditeur du groupe
 
-a) Le seuil de signification au niveau des comptes consolidés pris dans leur ensemble ;
+10. La responsabilité et l'obligation ultime de rendre compte du respect des diligences requises par la présente norme incombent à l'associé responsable de l'audit du groupe.
 
-b) Le cas échéant, des seuils de signification au niveau des comptes consolidés de montants inférieurs pour certaines catégories d'opérations, certains soldes de comptes ou certaines informations fournies dans l'annexe aux comptes consolidés ;
+Dans la présente norme, lorsque l'expression “ l'associé responsable de l'audit du groupe assume la responsabilité de … ” ou “ l'auditeur du groupe assume la responsabilité de … ” est utilisée dans le libellé de la diligence, il est permis à l'associé responsable de l'audit du groupe ou à l'auditeur du groupe de confier la conception ou la mise en œuvre de procédures, de tâches ou d'actions à des membres de l'équipe affectée à la mission possédant les compétences ou l'expérience requises, y compris des auditeurs des composants.
 
-c) Le seuil de signification au niveau des comptes de chaque entité dont l'information comptable doit faire l'objet, pour les besoins de l'audit des comptes consolidés, d'un audit ou d'un examen limité ; ce seuil est toujours inférieur au seuil de signification déterminé au niveau des comptes consolidés pris dans leur ensemble ;
+En revanche, lorsque les expressions susmentionnées ne sont pas utilisées, il incombe à l'associé responsable de l'audit du groupe ou à l'auditeur du groupe, selon le cas, de mettre en œuvre lui-même la diligence en obtenant au besoin des informations auprès d'autres membres de l'équipe affectée à la mission ou auprès de la structure d'exercice professionnel.
 
-d) Le seuil en dessous duquel des anomalies sont manifestement insignifiantes au regard des comptes consolidés pris dans leur ensemble.
+Objectifs
 
-13. Lorsque les comptes d'une entité font l'objet d'un audit en application des textes légaux et réglementaires, des statuts ou de toute autre obligation et que le commissaire aux comptes estime, sur la base des critères définis au paragraphe 10 de la présente norme, qu'il pourra utiliser ces travaux pour ses propres besoins, il apprécie le caractère approprié du seuil de signification au niveau des comptes de l'entité pris dans leur ensemble, déterminé par le professionnel chargé du contrôle des comptes de l'entité.
+11. La présente norme a pour objet de définir, en complément des dispositions prévues par les normes d'exercice professionnel relatives à la certification des comptes, les principes spécifiques suivants applicables à l'audit des comptes du groupe :
 
-01. Lorsque le professionnel chargé du contrôle des comptes d'une entité définit un montant inférieur au seuil de signification pour la mise en œuvre de ses procédures d'audit, tel que défini dans la norme d'exercice professionnel relative aux “ anomalies significatives et seuil de signification ”, le commissaire aux comptes en apprécie le caractère approprié.
+(a) déterminer, en ce qui concerne l'acceptation et le maintien de la mission d'audit du groupe, si l'on peut raisonnablement s'attendre à collecter des éléments suffisants et appropriés pour fonder une opinion d'audit sur les comptes du groupe ;
 
-Réponses à l'évaluation des risques
+(b) identifier et évaluer le risque d'anomalies significatives dans les comptes du groupe, que celles-ci résultent de fraudes ou d'erreurs, de même que planifier et mettre en œuvre des procédures d'audit pour répondre de façon appropriée à cette évaluation du risque ;
 
-15. En réponse à son évaluation du risque d'anomalies significatives au niveau des comptes consolidés, le commissaire aux comptes détermine :
+(c) participer de façon suffisante et appropriée aux travaux des auditeurs des composants tout au long de l'audit du groupe, ce qui implique notamment de communiquer clairement avec eux au sujet de l'étendue et du calendrier de leurs travaux et d'évaluer les résultats de ces travaux ; et
 
--les tests à réaliser, le cas échéant, sur l'efficacité des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
+(d) déterminer si les procédures d'audit mises en œuvre, y compris les travaux effectués par les auditeurs des composants, ont permis de collecter des éléments suffisants et appropriés pour fonder l'opinion d'audit sur les comptes du groupe.
 
--la nature, le calendrier et l'étendue des travaux à réaliser sur l'information comptable établie par les entités pour les besoins de l'audit des comptes consolidés ;
+Définitions
 
--la nature et l'étendue de son implication dans les travaux réalisés par les professionnels chargés du contrôle des comptes des entités pour les besoins de l'audit des comptes consolidés ainsi que le calendrier correspondant.
+12. Dans la présente norme, on entend par :
 
-Tests sur l'efficacité des contrôles conçus par l'entité consolidante
+(a) “ risque d'agrégation ” : le risque que le total des anomalies non corrigées et non détectées excède le seuil de signification pour les comptes pris dans leur ensemble. En général, le risque d'agrégation augmente avec le nombre de composants, les procédures d'audit pouvant être mises en œuvre séparément, que ce soit par des auditeurs de composants ou par d'autres membres de l'équipe affectée à la mission ;
 
-16. Le commissaire aux comptes réalise ou demande aux professionnels chargés du contrôle des comptes des entités de réaliser des tests sur l'efficacité des contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés dans les cas suivants :
+(b) “ composant ” : une entité, une unité opérationnelle, une fonction ou un segment d'activité, ou une combinaison de celles-ci, selon le découpage établi par l'auditeur du groupe pour la planification et la mise en œuvre des procédures d'audit dans le cadre de l'audit du groupe ;
 
--lorsque les travaux à réaliser sur le processus d'établissement des comptes consolidés ou sur l'information comptable des entités reposent sur l'hypothèse selon laquelle ces contrôles fonctionnent efficacement ;
+(c) “ auditeur d'un composant ” : un professionnel qui effectue des travaux d'audit à l'égard d'un composant pour les besoins de l'audit des comptes du groupe. L'auditeur d'un composant fait partie de l'équipe affectée à la mission d'audit du groupe ;
 
--lorsqu'il considère que les seuls contrôles de substance ne permettent pas de réduire le risque d'audit à un niveau suffisamment faible pour obtenir l'assurance recherchée.
+Lorsque l'audit d'un composant est réalisé collégialement par plusieurs professionnels, la notion d'“ auditeur d'un composant ” s'entend de l'ensemble de ces professionnels ;
 
-Nature et étendue des travaux sur l'information comptable établie par les entités pour les besoins de l'audit des comptes consolidés
+(d) “ direction d'un composant ” : les dirigeants responsables de l'information comptable et financière ou du traitement des opérations d'un composant à l'égard duquel une procédure d'audit est mise en œuvre ;
 
-Entités importantes au regard des comptes consolidés
+(e) “ seuil de planification au niveau du composant ” : le montant que l'auditeur du groupe établit afin de ramener à un niveau suffisamment faible le risque d'agrégation pour la planification et la mise en œuvre des procédures d'audit à l'égard d'un composant ;
 
-17. Lorsque le commissaire aux comptes a identifié qu'une entité est importante pour l'audit des comptes consolidés en raison de l'importance de sa contribution individuelle au regard des comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de l'entité effectue un audit de l'information comptable de celle-ci en utilisant le ou les seuil (s) de signification défini (s) au niveau des comptes de cette dernière.
+(f) “ groupe ” : l'entité comptable pour laquelle sont préparés les comptes du groupe ;
 
-01. Lorsque le commissaire aux comptes détermine qu'une entité est importante en raison de l'importance du risque d'anomalies significatives que son information comptable peut faire peser sur les comptes consolidés, le commissaire aux comptes ou le professionnel chargé du contrôle des comptes de celle-ci met en œuvre une ou plusieurs des diligences suivantes :
+(g) “ audit du groupe ” : l'audit des comptes du groupe ;
 
--un audit de l'information comptable de l'entité en utilisant le ou les seuil (s) de signification défini (s) au niveau des comptes de cette dernière ;
+(h) “ auditeur du groupe ” : l'associé responsable de l'audit du groupe et les autres membres de l'équipe affectée à la mission, hormis les auditeurs des composants. L'auditeur du groupe a la responsabilité :
 
--un audit d'un ou de plusieurs soldes de comptes, de catégories d'opérations ou d'autres éléments d'information sur lesquels un risque élevé d'anomalies significatives a été identifié ;
+(i) d'établir le plan de mission et le programme de travail relatifs à l'audit du groupe ;
 
--des procédures d'audit spécifiques en réponse au risque élevé d'anomalies significatives.
+(ii) de diriger et de superviser les auditeurs des composants, et de procéder à une revue de leurs travaux ;
 
-Entités non importantes au regard des comptes consolidés
+(iii) d'évaluer les conclusions tirées des éléments suffisants et appropriés collectés qui permettent de fonder une opinion d'audit sur les comptes du groupe ;
 
-19. Le commissaire aux comptes effectue, au niveau des comptes consolidés, des procédures analytiques.
+Lorsque l'audit du groupe est réalisé collégialement par plusieurs commissaires aux comptes, la notion d'“ auditeur du groupe ” s'entend des associés responsables de l'audit du groupe et des autres membres des équipes affectées à la mission, hormis les auditeurs des composants, qui réalisent l'audit du groupe pour le compte de chacun des commissaires aux comptes ;
 
-01. Le commissaire aux comptes apprécie si les éléments susceptibles d'être collectés à partir :
+(i) “ opinion d'audit sur les comptes du groupe ” : l'opinion d'audit exprimée sur les comptes du groupe ;
 
--des travaux réalisés sur l'information comptable des entités importantes ;
+(j) “ associé responsable de l'audit du groupe ” : l'associé responsable de mission qui est responsable de l'audit du groupe ;
 
--des travaux réalisés sur le processus d'établissement des comptes consolidés et sur les contrôles conçus dans l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
+Dans la présente norme, le terme “ associé ” s'entend du commissaire aux comptes personne physique qui signe le rapport d'audit. Lorsque le mandat est détenu par une société de commissariat aux comptes, le terme “ associé ” s'entend des personnes visées à l'article L. 821-25 du code de commerce ;
 
--des procédures analytiques effectuées au niveau des comptes consolidés, pourront être suffisants et appropriés pour fonder son opinion sur les comptes consolidés.
+Lorsque l'audit du groupe est réalisé collégialement par plusieurs commissaires aux comptes, la notion d'“ associé responsable de l'audit du groupe ” s'entend des associés responsables de l'audit du groupe intervenant pour le compte de chacun des commissaires aux comptes ;
 
-Dans le cas contraire, il sélectionne des entités non importantes au regard des comptes consolidés sur lesquelles une ou plusieurs des diligences suivantes seront mises en œuvre par lui-même ou par les professionnels chargés du contrôle des comptes de celles-ci :
+(k) “ comptes du groupe ” : les comptes du groupe, au sens de la présente norme, sont les comptes consolidés, les comptes combinés ou les comptes annuels qui :
 
--un audit ou un examen limité de l'information comptable de l'entité en utilisant le seuil de signification défini au niveau des comptes de cette dernière ;
+-incluent les comptes de plus d'une entité ou unité opérationnelle du fait d'un processus de consolidation ; et
 
--un audit de l'un ou de plusieurs soldes de comptes, catégories d'opérations ou d'autres éléments d'information ;
+-font l'objet d'une certification par le ou les commissaires aux comptes dans le cadre de leur mission légale prévue à l'article L. 821-53 du code de commerce.
 
--des procédures spécifiques.
+Dans la présente norme, le terme “ processus de consolidation ” ne s'entend pas seulement de la préparation de comptes consolidés ou de comptes combinés conformément au référentiel comptable applicable, mais s'entend également de la préparation de comptes agrégés concernant des entités ou des unités opérationnelles telles que des succursales ou des divisions ;
 
-Le commissaire aux comptes modifie périodiquement la sélection de ces entités.
+(l) “ direction du groupe ” : les dirigeants responsables de la préparation des comptes du groupe ;
 
-Nature et étendue de l'implication du commissaire aux comptes dans les travaux réalisés par les professionnels chargés du contrôle des comptes des entités
+(m) “ seuil de planification au niveau du groupe ” : le seuil de planification déterminé par l'auditeur du groupe relatif aux comptes du groupe pris dans leur ensemble ;
 
-Entités importantes.-Evaluation des risques
+(n) “ équipe affectée à la mission ” : toutes les personnes qui mettent en œuvre des procédures d'audit pour les besoins de la mission, à l'exception des experts. L'équipe affectée à la mission comprend l'associé responsable de l'audit du groupe, ses collaborateurs et les auditeurs des composants ;
 
-21. Le commissaire aux comptes est impliqué dans l'évaluation des risques effectuée par les professionnels chargés du contrôle des comptes des entités importantes. La nature, le calendrier et l'étendue des travaux requis pour cette implication dépendent de l'appréciation faite par le commissaire aux comptes sur ces professionnels, selon les critères énoncés au paragraphe 10 de la présente norme. Ils comprennent au minimum :
+(o) “ retraitement de consolidation ” : écriture liée à la préparation des comptes du groupe (reclassements, éliminations …).
 
--un échange d'informations avec le professionnel chargé du contrôle des comptes ou la direction de l'entité sur les activités de celle-ci qui sont importantes pour l'ensemble consolidé ;
+13. Dans la présente norme, le terme “ référentiel comptable applicable ” s'entend du référentiel comptable qui s'applique aux comptes du groupe.
 
--un échange d'informations avec le professionnel chargé du contrôle des comptes de l'entité sur le risque d'anomalies significatives dues à des fraudes ou des erreurs ;
+Diligences requises
 
--et une revue de la documentation du professionnel chargé du contrôle des comptes de l'entité relative au risque élevé d'anomalies significatives. Cette documentation peut prendre la forme d'une synthèse justifiant ses conclusions.
+Responsabilités de l'associé responsable de l'audit du groupe en matière de gestion et d'atteinte de la qualité d'un audit de groupe
 
-Procédures d'audit en réponse au risque élevé d'anomalies significatives
+14. L'associé responsable de l'audit du groupe assume la responsabilité globale de la gestion et de l'atteinte de la qualité de la mission d'audit du groupe en :
 
-22. Lorsqu'un risque élevé d'anomalies significatives a été identifié au niveau d'une entité pour laquelle les travaux sont réalisés par un professionnel chargé du contrôle des comptes de celle-ci, le commissaire aux comptes :
+(a) assumant la responsabilité de la mise en place, pour les besoins de la mission d'audit du groupe, d'un environnement qui encourage le comportement attendu des membres de l'équipe affectée à la mission ;
 
--évalue le caractère approprié des procédures d'audit complémentaires à mettre en œuvre pour répondre spécifiquement à ce risque ;
+(b) participant de manière suffisante et appropriée à la mission d'audit du groupe tout au long de sa mise en œuvre, y compris aux travaux des auditeurs des composants, afin d'être en mesure d'évaluer si les jugements importants portés et les conclusions tirées sont appropriés à la nature et aux circonstances de la mission.
 
--détermine s'il est nécessaire, en fonction de l'appréciation qu'il porte sur ce professionnel, qu'il soit impliqué dans la mise en œuvre des procédures complémentaires.
+Acceptation et maintien de la mission
+
+15. Sans préjudice des dispositions légales et règlementaires applicables, avant d'accepter ou de maintenir la mission d'audit du groupe, l'associé responsable de l'audit du groupe détermine si l'on peut raisonnablement s'attendre à collecter des éléments suffisants et appropriés pour fonder une opinion d'audit sur les comptes du groupe.
+
+01. S'il conclut, après l'acceptation ou le maintien de la mission d'audit du groupe, que des éléments suffisants et appropriés ne peuvent pas être collectés, l'associé responsable de l'audit du groupe tient compte des incidences possibles sur l'audit du groupe, en ce comprise sa capacité à poursuivre la mission, dans le respect des dispositions du code de déontologie.
+
+01. Lorsqu'il applique la norme d'exercice professionnel “ Lettre de mission ”, l'auditeur du groupe demande à la direction du groupe confirmation qu'elle reconnaît et comprend ses responsabilités pour permettre à l'équipe affectée à la mission :
+
+(a) d'accéder à toutes les informations dont la direction du groupe a connaissance et qui sont pertinentes pour la préparation des comptes du groupe, notamment les documents comptables, les pièces justificatives et d'autres éléments d'information ;
+
+(b) de demander à la direction du groupe ou à la direction d'un composant des informations complémentaires pour les besoins de l'audit du groupe ;
+
+(c) d'accéder sans restriction aux personnes, au sein du groupe, auprès de qui, selon l'équipe affectée à la mission, il est nécessaire de collecter des éléments suffisants et appropriés.
+
+Limitation à l'accès aux informations ou aux personnes en raison de circonstances indépendantes de la volonté de la direction du groupe
+
+18. Diverses raisons, indépendantes de la volonté de la direction du groupe, peuvent être à l'origine de la limitation de l'accès aux informations nécessaires aux besoins de la mission, ou aux personnes auprès desquelles l'équipe affectée à la mission estime nécessaire de collecter des éléments suffisants et appropriés.
+
+Il peut s'agir par exemple de dispositions légales ou réglementaires spécifiques, de situations contextuelles particulières telles que des troubles géopolitiques ou sanitaires, ou encore de restrictions imposées par la direction du composant.
+
+Si, après avoir investigué sur les raisons de la limitation à l'accès aux informations ou aux personnes, l'associé responsable de l'audit du groupe conclut qu'elles sont indépendantes de la volonté de la direction du groupe, il tient compte des incidences potentielles de cette limitation sur l'audit du groupe, en ce comprise sa capacité à poursuivre la mission, dans le respect des dispositions du code de déontologie.
+
+Limitation à l'accès aux informations ou aux personnes en raison de restrictions imposées par la direction du groupe
+
+19. Si, après avoir investigué sur les raisons de la limitation à l'accès aux informations ou aux personnes, l'associé responsable de l'audit du groupe conclut qu'elles résultent de restrictions imposées par la direction du groupe, il tient compte des incidences potentielles de cette limitation sur l'audit du groupe et détermine les éventuelles autres actions à engager, notamment les communications à effectuer auprès des autorités ou organes appelés à en connaître.
+
+En outre, si l'associé responsable de l'audit du groupe conclut :
+
+(a) d'une part, qu'il ne sera pas possible pour l'auditeur du groupe de collecter des éléments suffisants et appropriés en raison de restrictions imposées par la direction du groupe ; et
+
+(b) d'autre part, qu'il pourrait en résulter une impossibilité d'exprimer une opinion d'audit sur les comptes du groupe,
+
+il n'accepte pas la mission ou, lorsque la mission est en cours, il tient compte des incidences potentielles de cette limitation sur l'expression de son opinion d'audit et sa capacité à poursuivre la mission, dans le respect des dispositions du code de déontologie.
+
+Plan de mission et programme de travail relatifs à l'audit du groupe
+
+20. Lorsqu'il applique la norme d'exercice professionnel “ Planification de l'audit ”, l'auditeur du groupe planifie ses travaux et, si nécessaire, modifie cette planification en déterminant :
+
+(a) les composants à l'égard desquels des travaux d'audit seront effectués ;
+
+(b) les ressources nécessaires pour réaliser la mission d'audit du groupe, y compris la nature, le calendrier et l'étendue de la participation des auditeurs des composants.
+
+Points à considérer lorsqu'il y a participation d'auditeurs des composants
+
+21. Pour l'établissement du plan de mission et du programme de travail, l'associé responsable de l'audit du groupe évalue si l'auditeur du groupe sera à même de participer de façon suffisante et appropriée aux travaux des auditeurs des composants.
+
+01. Dans le cadre de l'évaluation mentionnée au paragraphe 21, l'auditeur du groupe demande aux auditeurs des composants de confirmer qu'ils collaboreront avec lui, y compris qu'ils effectueront les travaux qu'il leur demande.
+
+Règles de déontologie pertinentes, y compris celles qui ont trait à l'indépendance
+
+23. L'associé responsable de l'audit du groupe assume la responsabilité :
+
+(a) d'informer les auditeurs des composants des règles de déontologie pertinentes, c'est-à-dire celles qui sont applicables au regard de la nature et des circonstances de la mission d'audit du groupe, y compris celles qui ont trait à l'indépendance ; et
+
+(b) d'obtenir confirmation, de la part des auditeurs des composants, du fait qu'ils comprennent et respecteront ces règles de déontologie.
+
+Ressources affectées à la mission
+
+24. L'associé responsable de l'audit du groupe :
+
+(a) détermine si les auditeurs des composants ont la compétence et les capacités appropriées, notamment en termes de disponibilités, pour mettre en œuvre les procédures d'audit qui leur ont été confiées au niveau du composant ; et
+
+(b) dans le cadre de la mise en œuvre de la diligence visée au (a), si des informations lui ont été fournies ou mises à sa disposition sur la compétence et les capacités des auditeurs des composants, apprécie ces informations.
+
+25. L'auditeur du groupe ne fait pas participer l'auditeur d'un composant aux travaux d'audit relatifs à ce composant si :
+
+(a) l'auditeur du composant ne se conforme pas aux règles de déontologie pertinentes, y compris celles qui ont trait à l'indépendance ;
+
+(b) l'associé responsable de l'audit du groupe a de sérieuses préoccupations au sujet de l'un et/ ou l'autre des points mentionnés aux paragraphes 21 à 24.
+
+En outre, dans l'une ou l'autre des deux situations susvisées, l'auditeur du groupe effectue les communications prévues par les textes légaux et règlementaires lorsque des manquements sont identifiés.
+
+Réalisation de la mission
+
+26. L'associé responsable de l'audit du groupe assume la responsabilité de la nature, du calendrier et de l'étendue de la direction et de la supervision des auditeurs des composants, ainsi que de la revue de leurs travaux, en prenant en considération :
+
+(a) les domaines considérés comme présentant un risque élevé d'anomalies significatives dans les comptes du groupe ou un risque inhérent élevé nécessitant une démarche d'audit particulière, identifiés conformément aux dispositions de la norme d'exercice professionnel “ Prise de connaissance de l'entité et de son environnement, identification et évaluation du risque d'anomalies significatives dans les comptes ” ;
+
+(b) les domaines de l'audit des comptes du groupe qui impliquent des jugements importants.
+
+Communications avec les auditeurs des composants
+
+27. L'auditeur du groupe communique aux auditeurs des composants ses instructions et les responsabilités respectives, en précisant l'importance que les communications entre les auditeurs des composants et l'auditeur du groupe soient effectuées en temps opportun tout au long de l'audit du groupe.
+
+Prise de connaissance du groupe et de son environnement, notamment de son contrôle interne
+
+28. Lorsqu'il applique la norme “ Prise de connaissance de l'entité et de son environnement, identification et évaluation du risque d'anomalies significatives dans les comptes ”, l'auditeur du groupe assume la responsabilité d'acquérir une connaissance :
+
+(a) du groupe et de son environnement, ce qui inclut :
+
+(i) la structure organisationnelle et le modèle économique du groupe, notamment :
+
+a. les localisations où le groupe exerce ses activités ;
+
+b. la nature des activités du groupe et leur degré de similitude dans l'ensemble du groupe ; et
+
+c. la mesure dans laquelle le recours à l'informatique est intégré dans le modèle économique du groupe ;
+
+(ii) les facteurs réglementaires ayant une incidence sur les entités et les unités opérationnelles du groupe ; et
+
+(iii) la mesure et l'analyse des indicateurs utilisés en interne et en externe afin d'évaluer la performance financière des entités ou des unités opérationnelles ;
+
+Dans le cadre de la prise de connaissance du groupe et de son environnement, l'auditeur du groupe tient compte du fait que la complexité du groupe, qui peut notamment être liée à sa structuration juridique et/ ou opérationnelle, à la répartition de ses activités sur plusieurs localisations, ou encore à la structuration de l'informatique utilisée au sein du groupe, sont des facteurs de risque inhérent susceptibles de générer un risque accru d'anomalies significatives.
+
+(b) du référentiel comptable applicable et de la cohérence des méthodes et pratiques comptables à l'échelle du groupe ;
+
+(c) du contrôle interne du groupe, incluant :
+
+(i) la nature des activités de contrôle au sein du groupe et leur degré de similitude dans l'ensemble du groupe ;
+
+(ii) la question de savoir si les activités du groupe pertinentes pour les comptes du groupe sont centralisées ou non, et la manière dont elles le sont, le cas échéant ;
+
+(iii) le processus de consolidation mis en œuvre par le groupe, y compris les sous-consolidations, s'il y a lieu, et les retraitements de consolidation ;
+
+(iv) la manière dont la direction du groupe communique à la direction des entités ou des unités opérationnelles les points importants pour la préparation des comptes du groupe et les informe des responsabilités qui leur sont attribuées, notamment en matière de contrôle interne.
+
+Points à considérer lorsqu'il y a participation des auditeurs des composants
+
+29. L'auditeur du groupe communique avec les auditeurs des composants en temps opportun pour les informer des éléments qui, selon lui, sont pertinents pour la conception et la mise en œuvre des procédures d'évaluation du risque d'anomalies significatives dans les comptes du groupe, par l'auditeur du composant, pour les besoins de l'audit du groupe.
+
+Dans ce cadre, l'auditeur du groupe informe les auditeurs des composants des éléments suivants :
+
+-lorsqu'il applique la norme d'exercice professionnel “ Relations et transactions avec les parties liées ”, des parties liées au groupe et des relations et transactions avec ces parties liées dont il a été informé par la direction du groupe et/ ou qu'il aurait identifiées dans le cadre de son audit ;
+
+-lorsqu'il applique la norme d'exercice professionnel “ Continuité d'exploitation ”, des événements ou des situations susceptibles de mettre en cause la continuité d'exploitation du groupe dont il a été informé par la direction du groupe et/ ou qu'il aurait identifiés dans le cadre de son audit.
+
+30. L'auditeur du groupe demande aux auditeurs des composants de lui communiquer en temps opportun :
+
+a) Les points concernant les informations comptables et financières du composant qui, selon l'auditeur du composant, sont pertinents pour l'identification et l'évaluation du risque d'anomalies significatives dans les comptes du groupe, que celles-ci résultent de fraudes ou d'erreurs ;
+
+b) Les relations avec des parties liées que la direction du groupe ou l'auditeur du groupe n'ont pas identifiées antérieurement ;
+
+c) Les événements ou les situations susceptibles de mettre en cause la continuité d'exploitation du groupe qu'ils ont relevés, le cas échéant.
+
+Identification et évaluation du risque d'anomalies significatives dans les comptes du groupe
+
+31. Lorsqu'il applique la norme d'exercice professionnel “ Prise de connaissance de l'entité et de son environnement, identification et évaluation du risque d'anomalies significatives dans les comptes ”, compte tenu de la connaissance qu'il a acquise conformément au paragraphe 28, l'auditeur du groupe assume la responsabilité de l'identification et de l'évaluation du risque d'anomalies significatives dans les comptes du groupe, y compris en ce qui concerne le processus de consolidation.
+
+Points à considérer lorsqu'il y a participation des auditeurs des composants
+
+32. Lorsqu'il applique la norme d'exercice professionnel “ Prise de connaissance de l'entité et de son environnement, identification et évaluation du risque d'anomalies significatives dans les comptes ”, l'auditeur du groupe évalue le caractère suffisant et approprié des éléments collectés par lui-même et par les auditeurs des composants.
+
+Caractère significatif
+
+33. Lorsqu'il applique la norme d'exercice professionnel “ Application de la notion de caractère significatif lors de la planification et de la réalisation d'un audit ” et la norme d'exercice professionnel “ Evaluation des anomalies relevées au cours de l'audit ”, et lorsque, concernant les comptes du groupe, des catégories d'opérations, des soldes de comptes ou des informations fournies dans l'annexe proviennent de différents composants, l'auditeur du groupe détermine, pour la planification et la mise en œuvre des procédures d'audit :
+
+(a) un seuil de planification au niveau du composant et ce, pour chacun des composants à l'égard desquels des procédures d'audit sont mises en œuvre.
+
+Ce seuil doit être inférieur au seuil de planification au niveau du groupe pour tenir compte du risque d'agrégation ;
+
+(b) le seuil au-delà duquel les anomalies détectées dans les informations comptables et financières du composant doivent lui être communiquées, qui ne peut excéder le montant des anomalies considérées comme manifestement insignifiantes par rapport aux comptes du groupe.
+
+Points à considérer lorsqu'il y a participation des auditeurs des composants
+
+34. L'auditeur du groupe communique aux auditeurs des composants les montants établis conformément au paragraphe 33.
+
+Procédures d'audit mises en œuvre à l'issue de la prise de connaissance du groupe et de son environnement et de l'évaluation du risque d'anomalies significatives dans les comptes
+
+35. Lorsqu'il applique la norme d'exercice professionnel “ Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de sa prise de connaissance de l'entité et de son environnement et de son évaluation du risque d'anomalies significatives dans les comptes ”, l'auditeur du groupe assume la responsabilité de la nature, du calendrier et de l'étendue des procédures d'audit à mettre en œuvre.
+
+Pour ce faire, l'auditeur du groupe assume la responsabilité de déterminer les composants à l'égard desquels ces procédures d'audit seront mises en œuvre, la nature, le calendrier et l'étendue des travaux à effectuer au niveau de ces composants.
 
 Processus de consolidation
 
-23. En réponse à son évaluation du risque d'anomalies significatives lié au processus de consolidation, le commissaire aux comptes conçoit et met en œuvre des procédures d'audit complémentaires à celles réalisées en application des paragraphes 7 et 16 de la présente norme. Celles-ci lui permettent :
+36. L'auditeur du groupe assume la responsabilité de la conception et de la mise en œuvre des procédures d'audit en réponse à l'évaluation du risque d'anomalies significatives dans les comptes du groupe, associé au processus de consolidation. Ces procédures lui permettent notamment :
 
--d'évaluer l'exhaustivité du périmètre de consolidation ;
+(a) d'évaluer si les comptes du groupe englobent toutes les entités et les unités opérationnelles, conformément au référentiel comptable applicable, ainsi que de concevoir et mettre en œuvre des procédures d'audit portant sur les sous-consolidations, s'il y a lieu ;
 
--d'apprécier le caractère approprié, exact et exhaustif des écritures de consolidation et d'évaluer s'il existe des facteurs de risques de fraudes ou des indicateurs révélant des biais possibles de la part de la direction de l'entité consolidante ;
+(b) d'évaluer le caractère approprié, exhaustif et exact des retraitements de consolidation ;
 
--d'évaluer si l'information comptable des entités a été correctement retraitée, lorsque celle-ci n'est pas préparée dans le même référentiel comptable que celui retenu pour établir les comptes consolidés ;
+(c) d'évaluer si les jugements portés par la direction dans le cadre du processus de consolidation présentent des indices de biais possibles introduits par la direction ;
 
--de vérifier que l'information comptable communiquée par les professionnels chargés du contrôle des comptes des entités est celle reprise dans les comptes consolidés ;
+(d) de répondre à l'évaluation du risque d'anomalies significatives résultant de fraudes liées au processus de consolidation.
 
--d'évaluer si les retraitements nécessaires ont été effectués conformément au référentiel comptable applicable lorsque la date de clôture des comptes des entités est différente de celle de l'entité consolidante.
+37. Lorsque les informations comptables et financières d'une entité ou d'une unité opérationnelle n'ont pas été préparées selon les mêmes méthodes comptables que celles utilisées pour établir les comptes du groupe, l'auditeur du groupe détermine si ces informations ont été retraitées de manière appropriée pour la préparation et la présentation des comptes du groupe.
 
-Evénements postérieurs
+01. Lorsque les comptes du groupe englobent les informations comptables et financières d'une entité ou d'une unité opérationnelle ayant une date de clôture différente de celle du groupe, l'auditeur du groupe assume la responsabilité de déterminer si les retraitements de consolidation nécessaires ont été apportés à ces informations, conformément au référentiel comptable applicable.
 
-24. Dans le cadre de l'audit de l'information comptable des entités, le commissaire aux comptes ou les professionnels chargés du contrôle des comptes de ces entités mettent en oeuvre des procédures destinées à identifier les événements qui ont pu survenir dans ces dernières entre la date de clôture de leur information comptable et la date de signature du rapport sur les comptes consolidés et qui peuvent nécessiter :
+Points à considérer lorsqu'il y a participation des auditeurs des composants
 
--un traitement comptable approprié dans les comptes consolidés ;
+39. Lorsque l'auditeur du groupe fait participer l'auditeur d'un composant à la conception ou à la mise en œuvre de procédures d'audit, il échange avec celui-ci sur les points qui, selon lui ou selon l'auditeur du composant, sont pertinents pour répondre à l'évaluation du risque d'anomalies significatives dans les comptes du groupe.
 
--ou une information dans le rapport de l'organe compétent à l'organe appelé à statuer sur les comptes consolidés.
+01. Lorsque l'auditeur d'un composant détermine les procédures d'audit à mettre en œuvre en ce qui concerne des domaines considérés comme présentant un risque élevé d'anomalies significatives dans les comptes du groupe ou un risque inhérent élevé qui nécessite une démarche d'audit particulière, conformément aux dispositions de la norme d'exercice professionnel “ Prise de connaissance de l'entité et de son environnement, identification et évaluation du risque d'anomalies significatives dans les comptes ”, l'auditeur du groupe évalue le caractère approprié de la conception et de la mise en œuvre de ces procédures.
 
-25. Lorsque les professionnels chargés du contrôle des comptes des entités réalisent des travaux autres qu'un audit de l'information comptable de ces dernières, le commissaire aux comptes leur demande de l'informer d'événements postérieurs tels que définis ci-dessus dont ils auraient eu connaissance.
+01. Lorsque des auditeurs des composants mettent en œuvre des procédures d'audit portant sur le processus de consolidation, y compris sur celui des sous-consolidations, l'auditeur du groupe détermine la nature et l'étendue de sa direction et de sa supervision des auditeurs des composants, ainsi que de sa revue de leurs travaux.
 
-Communication avec les professionnels chargés du contrôle des comptes des entités
+01. L'auditeur du groupe détermine si les informations comptables et financières identifiées dans les communications des auditeurs des composants, conformément au paragraphe 43 (a), sont celles qui sont intégrées dans les comptes du groupe.
 
-26. Le commissaire aux comptes communique suffisamment à l'avance ses instructions aux professionnels chargés du contrôle des comptes des entités. Cette communication définit les travaux à réaliser, l'utilisation qui en sera faite ainsi que le format et le contenu de la communication entre les professionnels chargés du contrôle des comptes des entités et le commissaire aux comptes.
+Evaluation des éléments communiqués par les auditeurs des composants et du caractère suffisant et approprié de leurs travaux
 
-Cette communication comprend également :
+43. L'auditeur du groupe demande aux auditeurs des composants de lui communiquer les points pertinents lui permettant de fonder son opinion d'audit sur les comptes du groupe. Les communications des auditeurs des composants comprennent notamment :
 
--la demande faite aux professionnels chargés du contrôle des comptes des entités de confirmer qu'ils coopéreront avec le commissaire aux comptes dans le cadre des conditions d'utilisation de leurs travaux, telles que définies dans les instructions ;
+(a) l'identification de l'information comptable et financière pour laquelle il a été demandé à l'auditeur du composant de mettre en œuvre des procédures d'audit ;
 
--les dispositions des règles de déontologie applicables à l'audit des comptes consolidés, en particulier en matière d'indépendance ;
+(b) la mention selon laquelle l'auditeur du composant a effectué ou non les travaux demandés par l'auditeur du groupe ;
 
--dans le cas d'un audit ou d'un examen limité de l'information comptable des entités, le ou le (s) seuil (s) tels que définis au paragraphe 12 b, c et d ;
+(c) la mention par l'auditeur du composant du fait qu'il s'est conformé ou non aux règles de déontologie pertinentes, y compris celles relatives à l'indépendance, qui s'appliquent à la mission d'audit du groupe ;
 
--le risque élevé d'anomalies significatives identifié par le commissaire aux comptes au niveau des comptes consolidés résultant de fraudes ou d'erreurs qui doit être pris en considération par les professionnels chargés du contrôle des comptes des entités ;
+(d) les cas de non-respect des textes légaux et réglementaires identifiés par l'auditeur du composant, le cas échéant ;
 
--la demande d'informer, en temps utile, le commissaire aux comptes de tout autre risque élevé d'anomalies significatives à considérer au niveau des comptes consolidés résultant de fraudes ou d'erreurs dans les entités ainsi que les procédures mises en œuvre pour répondre à ce risque ;
+(e) un état des anomalies, corrigées et non corrigées, qui ont été relevées par l'auditeur du composant dans les informations comptables et financières du composant et dont le montant est supérieur au seuil communiqué par l'auditeur du groupe conformément au paragraphe 34 ;
 
--la liste des parties liées préparée par la direction de l'entité consolidante, complétée de l'identité de toute autre partie liée dont le commissaire aux comptes a connaissance ;
+(f) la mention des indices d'un biais possible introduit par la direction ;
 
--la demande aux professionnels chargés du contrôle des comptes des entités de communiquer au commissaire aux comptes, dès qu'ils en ont connaissance, l'existence de toute partie liée non identifiée par celui-ci ou par la direction de l'entité consolidante. Le commissaire aux comptes apprécie, le cas échéant, si l'existence de ces parties liées doit être communiquée aux professionnels chargés du contrôle des comptes des autres entités.
+(g) une description de toutes les faiblesses du contrôle interne relevées lors de la mise en œuvre des procédures d'audit ;
 
-27. Le commissaire aux comptes demande aux professionnels chargés du contrôle des comptes des entités de lui communiquer les éléments pertinents pour fonder son opinion sur les comptes consolidés.
+(h) tout autre point important que l'auditeur du composant a communiqué ou prévoit de communiquer à la direction du composant ou aux membres des organes du composant mentionnés à l'article L. 821-63 du code de commerce, y compris les fraudes, avérées ou suspectées, impliquant la direction du composant ou des employés ayant un rôle clé dans le dispositif de contrôle interne du groupe à l'égard du composant, ou encore d'autres personnes dès lors que la fraude pourrait entraîner une anomalie significative dans l'information comptable et financière du composant ;
 
-Cette communication comprend :
+(i) tout autre élément qui peut présenter un intérêt pour l'audit des comptes du groupe ou que l'auditeur du composant juge pertinent de porter à l'attention de l'auditeur du groupe, y compris les points particuliers mentionnés dans les lettres d'affirmation que l'auditeur du composant a demandées à la direction du composant ; et
 
--la confirmation par les professionnels chargés du contrôle des comptes des entités du respect des règles de déontologie applicables à l'audit des comptes consolidés, en particulier celles relatives à l'indépendance et à la compétence professionnelle ;
+(j) la synthèse des points relevés ou les conclusions de l'auditeur du composant.
 
--la confirmation par les professionnels chargés du contrôle des comptes des entités du respect des instructions reçues du commissaire aux comptes ;
+44. L'auditeur du groupe :
 
--l'identification de l'information comptable des entités sur laquelle les professionnels chargés du contrôle des comptes de ces dernières ont réalisé leurs travaux ;
+(a) discute avec l'auditeur du composant, la direction du composant ou la direction du groupe, selon le cas, des points importants soulevés dans les communications avec l'auditeur du composant, dont celles mentionnées au paragraphe 43 ;
 
--les cas de non-respect des textes légaux et réglementaires susceptibles de conduire à des anomalies significatives dans les comptes consolidés ;
+(b) évalue si les éléments transmis par l'auditeur du composant répondent à ses objectifs. Si tel n'est pas le cas, l'auditeur du groupe tient compte des incidences de cette situation sur l'audit du groupe.
 
--un état des anomalies non corrigées sur l'information comptable des entités. Cet état n'inclut pas les anomalies qui sont en dessous du seuil des anomalies manifestement insignifiantes, tel que défini au paragraphe 12 d ;
+45. L'auditeur du groupe détermine la nécessité d'effectuer la revue d'autres éléments de la documentation d'audit préparée par les auditeurs des composants, et l'ampleur de cette revue, le cas échéant. Pour ce faire, il prend en considération :
 
--les indicateurs révélant des biais possibles de la part de la direction ;
+(a) la nature, le calendrier et l'étendue des travaux effectués par l'auditeur du composant ;
 
--une description des faiblesses significatives de contrôle interne identifiées au niveau des entités ;
+(b) la compétence et les capacités de l'auditeur du composant selon la détermination réalisée en application du paragraphe 24 (a) ;
 
--les autres faits significatifs que les professionnels chargés du contrôle des comptes des entités ont communiqués ou vont communiquer aux membres des organes de direction et de surveillance des entités, y compris les fraudes (réelles ou suspectées) impliquant les directions des entités ou des employés ayant un rôle clé dans le dispositif de contrôle interne ou toute autre fraude qui pourrait entraîner une anomalie significative dans l'information comptable des entités ;
+(c) la direction et la supervision de l'auditeur du composant, et la revue de ses travaux.
 
--tout autre élément important estimé pertinent pour le commissaire aux comptes, y compris les points particuliers mentionnés dans les lettres d'affirmation signées par les directions des entités ;
+46. Si l'auditeur du groupe conclut que les travaux de l'auditeur d'un composant ne sont pas suffisants et appropriés par rapport à ses objectifs, il détermine les procédures d'audit supplémentaires à mettre en œuvre par l'auditeur d'un composant ou par lui-même.
 
--et la synthèse des points relevés, les conclusions ou l'opinion des professionnels chargés du contrôle des comptes des entités.
+Evénements postérieurs à la date de clôture de l'exercice
+
+47. Lorsqu'il applique la norme d'exercice professionnel “ Evénements postérieurs à la clôture de l'exercice ”, l'auditeur du groupe assume la responsabilité de mettre en œuvre des procédures conçues pour identifier des événements pouvant nécessiter un ajustement approprié dans les comptes du groupe ou une information dans le rapport de l'organe compétent à l'organe appelé à statuer sur les comptes du groupe.
+
+Points à considérer lorsqu'il y a participation des auditeurs des composants
+
+48. L'auditeur du groupe demande aux auditeurs des composants de l'informer s'ils prennent connaissance d'événements postérieurs à la date de clôture pouvant nécessiter un ajustement des comptes du groupe ou une information à fournir dans ceux-ci et dans le rapport de l'organe compétent à l'organe appelé à statuer sur les comptes du groupe.
 
 Evaluation du caractère suffisant et approprié des éléments collectés
 
-28. Le commissaire aux comptes collecte les éléments suffisants et appropriés sur la base :
+49. Lorsqu'il applique la norme d'exercice professionnel “ Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de sa prise de connaissance de l'entité et de son environnement et de son évaluation du risque d'anomalies significatives dans les comptes ”, l'auditeur du groupe détermine si les procédures d'audit mises en œuvre, y compris les travaux effectués par les auditeurs des composants, ont permis de collecter des éléments suffisants et appropriés pour fonder son opinion d'audit sur les comptes du groupe.
 
--des procédures d'audit réalisées sur le processus d'établissement des comptes consolidés ;
+01. L'associé responsable de l'audit du groupe évalue l'incidence, sur son opinion d'audit sur les comptes du groupe, des anomalies non corrigées, qu'elles aient été identifiées par l'auditeur du groupe ou communiquées par des auditeurs des composants, et des cas où il a été impossible de collecter des éléments suffisants et appropriés.
 
--des travaux réalisés par lui-même et par les professionnels chargés du contrôle des comptes des entités sur l'information comptable de ces dernières.
+Communications avec la direction du groupe et les organes mentionnés à l'article L. 821-63 du code de commerce
 
-29. Le commissaire aux comptes :
+Communications avec la direction du groupe
 
--apprécie la pertinence des éléments transmis par les professionnels chargés du contrôle des comptes des entités tels que mentionnés dans le paragraphe 27 ;
+51. L'auditeur du groupe communique à la direction du groupe un aperçu de l'étendue et du calendrier prévus de l'audit, y compris une description sommaire des travaux à effectuer à l'égard des composants du groupe.
 
--échange avec les professionnels chargés du contrôle des comptes des entités, les directions des entités ou la direction de l'entité consolidante sur les éléments importants relevés ;
+01. Lorsqu'une fraude a été identifiée ou qu'une fraude est portée à son attention par l'auditeur d'un composant conformément au paragraphe 43 (h), ou encore lorsque des informations qu'il a collectées indiquent une possibilité de fraude, l'auditeur du groupe le communique dès que possible à la direction du groupe, au niveau de responsabilité approprié, afin que ceux qui ont la responsabilité première de prévenir et de détecter les fraudes soient informés des aspects qui relèvent de leur compétence.
 
--évalue la nécessité de revoir d'autres éléments de la documentation des travaux des professionnels chargés du contrôle des comptes des entités ;
+01. L'auditeur d'un composant peut être tenu, en raison de textes légaux et réglementaires ou pour d'autres raisons, d'exprimer une opinion d'audit sur les comptes d'une entité ou d'une unité opérationnelle du groupe. Dans ce cas, l'auditeur du groupe demande à la direction du groupe d'informer la direction de l'entité ou de l'unité opérationnelle de tout point dont il prend connaissance et qui peut être important par rapport aux comptes de l'entité ou de l'unité opérationnelle, mais dont la direction de l'entité ou de l'unité opérationnelle n'a pas connaissance. Si la direction du groupe refuse de communiquer le point à la direction de l'entité ou de l'unité opérationnelle, l'auditeur du groupe discute du point avec les organes mentionnés à l'article L. 821-63 du code de commerce. Si la question n'est toujours pas résolue, l'auditeur du groupe, sous réserve de considérations d'ordre juridique ou professionnel en matière de confidentialité, envisage la possibilité de recommander à l'auditeur du composant de ne pas délivrer son rapport sur les comptes de l'entité ou de l'unité opérationnelle tant que le point n'aura pas été réglé.
 
--conçoit, dès lors que les travaux mis en œuvre au niveau des entités sont estimés insuffisants, les procédures complémentaires à mettre en œuvre par les professionnels chargés du contrôle des comptes des entités ou par le commissaire aux comptes.
+Communications avec les organes mentionnés à l'article L. 821-63 du code de commerce
 
-30. Le commissaire aux comptes évalue l'incidence sur son opinion d'audit de :
+54. L'auditeur du groupe communique aux organes mentionnés à l'article L. 821-63 du code de commerce les points suivants, en plus de ceux requis par la norme d'exercice professionnel “ Communications avec les organes mentionnés à l'article L. 821-63 du code de commerce ” :
 
--l'ensemble des anomalies non corrigées autres que celles manifestement insignifiantes ;
+a) Une description générale :
 
--toute situation où il n'a pas été possible de collecter des éléments suffisants et appropriés.
+-des travaux à effectuer à l'égard des composants du groupe ; et
 
-Communication
+-de son implication prévue dans les travaux effectués par les auditeurs des composants ;
 
-31. Le commissaire aux comptes communique à la direction de l'entité consolidante, au niveau de responsabilité approprié, en faisant application de la norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne :
+b) Les cas où sa revue des travaux de l'auditeur d'un composant donne lieu à interrogation quant à la qualité des travaux de ce dernier ;
 
--les faiblesses du contrôle interne conçu par l'entité consolidante et mis en oeuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
+c) Toute limitation dans la mise en œuvre des procédures d'audit estimées nécessaires pour l'audit du groupe, par exemple des restrictions de l'accès aux informations ou aux personnes ;
 
--les faiblesses du contrôle interne des entités, identifiées soit par les professionnels chargés du contrôle des comptes des entités, soit par lui-même, qu'il estime d'une importance suffisante pour mériter son attention ;
+d) Toute fraude avérée ou suspectée impliquant la direction du groupe, la direction d'un composant, des membres du personnel ayant un rôle clé dans le dispositif de contrôle interne du groupe ou d'autres personnes, lorsque la fraude a conduit à une anomalie significative dans les comptes du groupe.
 
--les fraudes qu'il a identifiées ou qui ont été portées à sa connaissance par le professionnel chargé du contrôle des comptes d'une entité ou les informations qu'il a obtenues sur l'existence possible d'une fraude.
+Communication des faiblesses du contrôle interne
 
-32. Le commissaire aux comptes applique les dispositions de la norme d'exercice professionnel relative aux communications avec les organes mentionnés à l'article L. 821-63 du code de commerce.
+55. Lorsqu'il applique la norme d'exercice professionnel “ Communication des faiblesses du contrôle interne ”, l'auditeur du groupe détermine si, parmi les éventuelles faiblesses du contrôle interne du groupe relevées, y compris par les auditeurs des composants et portées à son attention conformément au paragraphe 43 (g), certaines sont à communiquer aux organes mentionnés à l'article L. 821-63 du code de commerce ou à la direction du groupe.
 
-A ce titre, le commissaire aux comptes communique les éléments suivants :
-
--une présentation d'ensemble :
-
--des travaux à réaliser sur l'information comptable des entités ;
-
--de son implication dans les travaux à réaliser par les professionnels chargés du contrôle des comptes des entités sur l'information comptable des entités importantes ;
-
--les difficultés qu'il a rencontrées, liées à la qualité des travaux réalisés par le professionnel chargé du contrôle des comptes d'une entité ;
-
--toute limitation dans la mise en œuvre des procédures d'audit estimées nécessaires pour l'audit des comptes consolidés, par exemple lorsque le commissaire aux comptes n'a pu avoir accès à toute l'information demandée ;
-
--les faiblesses du contrôle interne visées au paragraphe 31 qu'il estime significatives ;
-
--les fraudes avérées ou suspectées impliquant :
-
--la direction de l'entité consolidante, la direction des entités, les employés ayant un rôle clé dans les contrôles conçus par l'entité consolidante et mis en œuvre dans l'ensemble consolidé pour les besoins de l'établissement des comptes consolidés ;
-
--ou d'autres personnes lorsque la fraude a entraîné une anomalie significative dans les comptes consolidés.
+Il incombe à l'auditeur du groupe de déterminer, en se fondant sur les travaux d'audit effectués, si une ou plusieurs faiblesses relevées, individuellement ou en association, constituent des faiblesses suffisamment importantes pour être portées à l'attention des organes mentionnés à l'article L. 821-63 du code de commerce ou de la direction du groupe.
 
 Documentation
 
-33. Le commissaire aux comptes fait figurer dans son dossier les éléments suivants :
+56. Lorsqu'il applique la norme d'exercice professionnel “ Documentation de l'audit des comptes ”, l'auditeur du groupe consigne dans son dossier la documentation suffisante pour permettre à toute autre personne ayant une expérience de la pratique de l'audit et n'ayant pas participé à la mission d'être en mesure de comprendre la nature, le calendrier et l'étendue des procédures d'audit mises en œuvre, les éléments probants collectés et les conclusions tirées sur les points importants relevés au cours de l'audit du groupe.
 
--une analyse des entités le conduisant à déterminer celles qui sont ou non importantes ;
+La documentation d'audit du groupe se compose de :
 
--la nature des travaux réalisés sur l'information comptable des entités ;
+-la documentation incluse dans le dossier de l'auditeur du groupe ;
 
--la nature, le calendrier et l'étendue de l'intervention du commissaire aux comptes dans les travaux réalisés par les professionnels chargés du contrôle des comptes des entités importantes, y compris la revue éventuelle, par le commissaire aux comptes, de tout ou partie de la documentation des professionnels chargés du contrôle des comptes de ces entités et de leurs conclusions ;
+-la documentation séparée dans chacun des dossiers des auditeurs des composants relative aux travaux qu'ils ont effectués pour les besoins de l'audit du groupe, c'est-à-dire la documentation d'audit préparée par les auditeurs des composants.
 
--les communications écrites entre le commissaire aux comptes et les professionnels chargés du contrôle des comptes des entités relatives aux demandes du commissaire aux comptes.
+L'auditeur du groupe consigne dans la documentation d'audit :
 
-Le commissaire aux comptes veille au respect des dispositions de l'article R. 820-50 du code de commerce.
+(a) les points importants relatifs à toutes limitations à l'accès aux informations du groupe ou aux personnes au sein du groupe et qui ont été pris en considération avant de décider d'accepter ou de maintenir la mission, ou qui sont apparus ultérieurement, et la manière dont ces points ont été traités ;
+
+(b) l'analyse l'ayant conduit à déterminer les composants à l'égard desquels des travaux d'audit ont été planifiés et réalisés ;
+
+(c) les éléments sur lesquels il s'est appuyé pour déterminer le seuil de planification au niveau de chaque composant, et le seuil au-delà duquel les anomalies relevées dans les informations comptables et financières du composant devaient lui être communiquées ;
+
+(d) les éléments sur lesquels il s'est appuyé pour déterminer que les auditeurs des composants avaient la compétence et les capacités appropriées, notamment suffisamment de temps, pour mettre en œuvre les procédures d'audit qui leur ont été confiées au niveau des composants ;
+
+(e) les aspects clés de la connaissance du contrôle interne du groupe acquise conformément au paragraphe 28 (c) ;
+
+(f) la nature, le calendrier et l'étendue de sa direction et de sa supervision des auditeurs des composants, ainsi que de sa revue de leurs travaux, y compris, le cas échéant, des autres éléments de la documentation d'audit préparée par les auditeurs des composants, conformément au paragraphe 45 ;
+
+(g) les communications avec les auditeurs des composants, incluant les éléments suivants :
+
+(i) tout point relatif à la fraude, aux parties liées ou à la continuité d'exploitation communiqué conformément au paragraphe 30,
+
+(ii) les points pertinents pour son opinion sur l'audit du groupe, selon le paragraphe 43, et la manière dont il a donné suite aux points importants au sujet desquels il s'est entretenu avec les auditeurs des composants, la direction d'un composant ou la direction du groupe ;
+
+(h) son évaluation des points relevés ou des conclusions des auditeurs des composants qui pourraient avoir une incidence significative sur les comptes du groupe, et sa réponse à ces points relevés ou ces conclusions.
+
+Dans un audit de groupe, la préparation de la documentation d'audit peut poser des difficultés particulières dans certaines circonstances. Ce peut être le cas, par exemple, lorsque la loi ou la règlementation empêche l'auditeur d'un composant de transférer de la documentation hors de son pays, ou lorsqu'une guerre, des troubles civils ou une épidémie limitent l'accès aux éléments pertinents de la documentation d'audit préparée par l'auditeur d'un composant.
+
+Plusieurs solutions à de telles restrictions d'accès s'offrent à l'auditeur du groupe, notamment :
+
+-se rendre à l'endroit où l'auditeur du composant est localisé, ou rencontrer l'auditeur du composant ailleurs qu'à l'endroit où celui-ci est localisé pour effectuer une revue de la documentation d'audit qu'il a préparée ;
+
+-effectuer une revue des éléments pertinents de la documentation d'audit à distance, au moyen d'outils technologiques, si aucune disposition légale ou réglementaire ne l'interdit ;
+
+-demander à l'auditeur du composant de rédiger et de lui fournir un mémorandum sur les informations pertinentes et en discuter avec lui, au besoin ;
+
+-s'entretenir avec l'auditeur du composant des procédures mises en œuvre, des éléments probants obtenus et des conclusions qu'il a tirées.
+
+La question de savoir si une ou plusieurs de ces solutions peuvent être suffisantes relève du jugement professionnel, compte tenu des faits et circonstances propres à l'audit du groupe. Si l'auditeur du groupe n'est pas en mesure de trouver des solutions aux restrictions d'accès à la documentation d'audit préparée par l'auditeur d'un composant, il peut avoir à se demander s'il existe une limitation à l'étendue des travaux dont il devrait tenir compte dans l'opinion d'audit sur les comptes du groupe.
+
+57. L'auditeur du groupe met la documentation d'audit du groupe à disposition des contrôleurs de son activité professionnelle visés à l'article L. 820-14 du code de commerce, dans les conditions prévues à l'article R. 820-50 du code de commerce.

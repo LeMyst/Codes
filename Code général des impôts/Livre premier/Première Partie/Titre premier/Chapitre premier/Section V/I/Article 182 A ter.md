@@ -10,7 +10,7 @@ II. – 1. Pour l'avantage défini au I de l'article 163 bis G, la base de la re
 
 2. Dans les situations autres que celle mentionnée au 1, la base de la retenue à la source est constituée par le montant net de l'avantage accordé, déterminé conformément aux règles de droit commun applicables aux traitements et salaires, à l'exclusion de celles qui prévoient la déduction des frais professionnels réels.
 
-III. – 1. Pour l'avantage défini au I de l'article 163 bis G, le taux de la retenue à la source est, selon le cas, celui mentionné au premier ou au deuxième alinéa du 1 du même I, sauf option pour le régime d'imposition des traitements et salaires.
+III. – 1. Pour l'avantage défini au I de l'article 163 bis G, le taux de la retenue à la source est, selon le cas, celui mentionné au premier ou au deuxième alinéa du 1 du même I, sauf option pour le régime d'imposition des traitements et salaires. La retenue à la source est alors libératoire de l'impôt sur le revenu.
 
 2. Dans les situations autres que celles mentionnées au 1, la retenue est calculée conformément au III de l'article 182 A et régularisée dans les conditions mentionnées aux articles 197 A et 197 B.
 

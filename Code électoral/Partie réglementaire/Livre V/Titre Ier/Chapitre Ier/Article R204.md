@@ -1,6 +1,6 @@
 # Article R204
 
-I.-Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2025-778 du 6 août 2025 :
+I. - Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2025-1059 du 3 novembre 2025 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 7, R. 8 et R. 10, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ;
 
@@ -12,7 +12,7 @@ I.-Les dispositions du titre Ier du livre Ier du présent code (partie réglemen
 
 5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
-II.-Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le chapitre II du titre Ier du livre Ier et l'article R. 40 du présent code (partie réglementaire), dans leur rédaction résultant du décret n° 2013-938 du 18 octobre 2013, sous réserve des adaptations suivantes :
+II. - Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le chapitre II du titre Ier du livre Ier et l'article R. 40 du présent code (partie réglementaire), dans leur rédaction résultant du décret n° 2013-938 du 18 octobre 2013, sous réserve des adaptations suivantes :
 
 1° A l'article R. 1, après les mots : “L. 12,” sont insérés les mots : “L. 12-1,” et les mots : “ou L. 15-1” sont remplacés par les mots : “, L. 15-1 ou L. 18-1.” ;
 

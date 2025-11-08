@@ -2,13 +2,10 @@
 
 Le maire tient à disposition de tout électeur un registre des procurations extrait du répertoire électoral unique, y compris le jour du scrutin. Sont mentionnés dans ce registre :
 
--les noms et prénoms du mandant et du mandataire ;
+- les noms et prénoms du mandant et du mandataire ;
 
--les nom, prénom et la qualité de l'autorité qui a établi la procuration ainsi que la date et le lieu de son établissement ;
+- les nom, prénom et la qualité de l'autorité qui a établi la procuration ainsi que la date et le lieu de son établissement. Si la procuration a été établie électroniquement par le ministre de l'intérieur, les nom, prénom et qualité de l'autorité ayant établi la procuration sont remplacés par la mention : “ France Identité ”. ;
 
--la durée de validité de la procuration.
+- la durée de validité de la procuration.
 
 Le défaut de réception par le maire d'une procuration fait obstacle à ce que le mandataire participe au scrutin.
-
-NOTA:
-Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.

@@ -1,6 +1,5 @@
 # Article R72-2
 
-Pour les marins de l'Etat en campagne lointaine, et pour les marins du commerce et de la pêche embarqués au long cours ou à la grande pêche, les procurations sont établies au moyen du formulaire administratif mentionné au premier alinéa de l'article R. 72, présenté par le mandant au commandant du bâtiment ou au capitaine du navire.
+Pour les marins des navires de l'Etat, des navires de commerce et des navires armés à la pêche au large ou à la grande pêche, battant pavillon français, les procurations sont établies au moyen du formulaire administratif mentionné au premier alinéa de l'article R. 72, présenté par le mandant à l'officier commandant le navire ou à son suppléant.
 
-NOTA:
-Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.
+L'officier commandant le navire ou son suppléant peut adresser l'imprimé de la procuration, par courrier électronique avec demande d'avis de réception ou par télécopie, au maire de la commune sur la liste électorale de laquelle le mandant est inscrit.

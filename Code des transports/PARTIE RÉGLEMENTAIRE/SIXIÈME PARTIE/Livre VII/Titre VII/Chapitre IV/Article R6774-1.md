@@ -12,4 +12,5 @@ Sous réserve des adaptations prévues par le présent chapitre, et des compéte
 | R. 6412-30 à R. 6412-33 | |
 | R. 6413-2 à R. 6413-4 | |
 | Titre III | |
+| R. 6432-15 et R. 6432-16 | Décret n° 2025-1063 du 5 novembre 2025 |
 | R. 6433-1 à R. 6433-2 | |

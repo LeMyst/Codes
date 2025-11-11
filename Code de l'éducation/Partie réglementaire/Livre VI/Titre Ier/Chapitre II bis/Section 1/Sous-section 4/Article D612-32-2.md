@@ -28,7 +28,9 @@ d) Le certificat de capacité d'orthoptiste à l'issue de l'année universitaire
 
 8° D'un diplôme de comptabilité et de gestion à l'issue de l'année universitaire 2010-2011 ;
 
-9° Des diplômes nationaux supérieurs professionnels d'artiste de cirque à l'issue de l'année universitaire 2024-2025, et de musicien à l'issue de l'année universitaire 2025-2026, mentionnés à l'article D. 759-1.
+9° Des diplômes nationaux supérieurs professionnels d'artiste de cirque à l'issue de l'année universitaire 2024-2025, et de musicien à l'issue de l'année universitaire 2025-2026, mentionnés à l'article D. 759-1 ;
+
+10° Du diplôme national de premier cycle en sciences et techniques de l'agronomie, dénommé “ bachelor agro ”, mentionné à l'article L. 812-12 du code rural et de la pêche maritime.
 
 II.-Aux titulaires des diplômes d'établissement suivants :
 

@@ -2,7 +2,7 @@
 
 L'établissement d'inscription principale prévu par la convention mentionnée au 3° de l'article D. 812-86 :
 
-1° Enregistre les inscriptions des candidats, sans préjudice d'inscriptions secondaires auprès des autres établissements dispensant la formation ;
+1° Enregistre l'inscription principale des candidats, sans exclure la possibilité d'une inscription secondaire dans les autres établissements concourant à la formation ;
 
 2° Perçoit les droits de scolarité, fixés par arrêté du ministre chargé de l'agriculture sur la base de l'article L. 811-6, puis peut les redistribuer aux autres établissements conjointement accrédités dans les conditions prévues par ladite convention.
 

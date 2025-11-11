@@ -1,6 +1,6 @@
 # Article D812-70
 
-I. - Le diplôme national de premier cycle en sciences et techniques de l'agronomie est dénommé “bachelor agro”.
+I. - Le diplôme national de premier cycle en sciences et techniques de l'agronomie, dénommé “ bachelor agro ”, confère à son titulaire le grade de licence.
 
 II. - Le diplôme du bachelor agro est structurée en mentions. Au sein des mentions, les établissements accrédités organisent, sous leur responsabilité et en tant que de besoin, les différents parcours de formation dont ils fixent l'intitulé, dans le respect des présentes dispositions.
 

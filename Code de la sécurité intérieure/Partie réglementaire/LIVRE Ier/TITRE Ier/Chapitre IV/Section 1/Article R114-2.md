@@ -90,7 +90,7 @@ h) Des personnes physiques exerçant à titre individuel une activité privée d
 
 i) Des agents du service d'ordre des manifestations sportives, récréatives ou culturelles, habilités à procéder à des palpations de sécurité en application de l'article L. 613-3 du présent code ;
 
-j) Des agents de sûreté désignés pour procéder aux contrôles et visites mentionnés à l'article L. 6342-4 du code des transports ;
+j) (Abrogé) ;
 
 k) Des agents employés pour exercer une activité privée de transport de fonds, de bijoux ou de métaux précieux ;
 
@@ -105,6 +105,3 @@ o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret 
 p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6 ;
 
 q) Des personnes physiques exerçant à titre individuel une activité de formation aux activités privées de sécurité ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité de formation.
-
-NOTA:
-Conformément à l'article 4 du décret n° 2023-1234 du 22 décembre 2023 dans sa rédaction issue de l'article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

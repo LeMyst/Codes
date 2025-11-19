@@ -54,7 +54,9 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 | Titre IV | |
 | R. 6341-1 à R. 6341-15 | |
 | R. 6341-21 à R. 6341-44 | |
-| R. 6342-1 à R. 6342-59 | |
+| R. 6342-1 à R. 6342-18 | |
+| R. 6342-19 | Décret n° 2025-1086 du 17 novembre 2025 |
+| R. 6342-20 à R. 6342-59 | |
 | Titre V | |
 | R. 6351-1 à R. 6351-5 | |
 | R. 6351-7 et R. 6351-8 | |

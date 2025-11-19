@@ -8,6 +8,8 @@ Le commandant d'arrondissement maritime exerce, dans les limites de l'arrondisse
 
 3° Protection et défense des installations de la marine nationale ;
 
+3° bis Protection des installations contre le risque incendie ;
+
 4° Sécurité nucléaire ;
 
 5° Expression des besoins en matière d'infrastructure et de stationnement des unités ;
@@ -31,5 +33,7 @@ b) Affaires pénales militaires, y compris, le cas échéant, au profit d'autres
 c) Participation de la marine nationale à des activités ne relevant pas de ses missions spécifiques ;
 
 d) Décisions d'habilitation à connaître des informations et supports faisant l'objet d'une classification Secret ou Très Secret, concernant le personnel de la marine placé sous son autorité.
+
+12° Décisions d'autorisation prévues à l'article L. 5112-2.
 
 En outre, le commandant d'arrondissement maritime peut apporter son concours aux autorités civiles et militaires en matière d'utilisation des moyens de la marine nationale et de domanialité.

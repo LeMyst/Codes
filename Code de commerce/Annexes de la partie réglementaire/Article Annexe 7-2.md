@@ -101,7 +101,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Vosges | Epinal | 20 | 3 |
 | Cour d'appel de Nîmes |
 | Ardèche | Aubenas | 15 | 3 |
-| Gard | Nîmes | 37 | 6 |
+| Gard | Nîmes | 41 | 6 |
 | Lozère | Mende | 9 | 2 |
 | Vaucluse | Avignon | 42 | 7 |
 | Cour d'appel d'Orléans |

@@ -4,7 +4,7 @@ I. - L'inspection des établissements d'enseignement du premier et du second deg
 
 1° Par les inspecteurs généraux de l'éducation, du sport et de la recherche ;
 
-2° Par les recteurs d'académie et les directeurs académiques des services de l'éducation nationale agissant sur délégation de ces derniers ;
+2° Par les recteurs d'académie et les directeurs académiques des services de l'éducation nationale agissant sur délégation de ces derniers, ainsi que les agents que ces autorités désignent ou les personnes privées qu'elles associent, choisis pour leur compétence ou leur expérience dans les domaines faisant l'objet de l'inspection ;
 
 3° Par les inspecteurs de l'éducation nationale ;
 

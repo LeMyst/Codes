@@ -18,20 +18,18 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 233-2 | Résultant de la loi n° 2007-1199 du 10 août 2007 |
 | L. 236-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 23-10-1 | Résultant de la loi n° 2007-1199 du 10 août 2007 |
-| L. 241-1 à L. 241-4, 1er, 2e, 3e, 4e et 8e alinéas | Résultant du décret n° 2019-1008 du 30 septembre 2019 |
+| L. 241-1 à L. 241-4, 1er, 2e, 4e et 8e alinéas | Résultant du décret n° 2019-1008 du 30 septembre 2019 |
+| L. 241-4, 3e alinéa | Résultant du décret n° 2025-1092 du 19 novembre 2025. |
 | L. 241-5 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 241-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 241-7 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 241-12 à L. 241-14 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 242-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° Au premier alinéa de l'article L. 236-1, les mots : “ départementaux ou régionaux, académiques et ” sont supprimés ;
 
-2° Au troisième alinéa de l'article L. 241-4, les mots : “ les recteurs d'académie et les directeurs académiques des services de l'éducation nationale agissant sur délégation de ces derniers ” sont remplacés par les mots : “ le vice-recteur ” ;
+2° Au troisième alinéa de l'article L. 241-4, les mots : “ les recteurs d'académie et les directeurs académiques des services de l'éducation nationale agissant sur délégation de ces derniers ” sont remplacés par les mots : “ le vice-recteur ” ainsi que les agents qu'il désigne ou les personnes privées qu'il associe, choisis pour leur compétence ou leur expérience dans les domaines faisant l'objet de l'inspection ;
 
 3° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contrevaleur en monnaie locale.
-
-NOTA:
-Conformément à l'article 13 de l'ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.

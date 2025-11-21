@@ -25,3 +25,7 @@ III.-Les programmes sanitaires d'intérêt collectif applicables à la majorité
 L'extension peut être demandée pour les seuls détenteurs professionnels ou pour les détenteurs professionnels et non professionnels.
 
 Si un propriétaire ou un détenteur ne s'acquitte pas de la cotisation prévue dans le cadre d'un programme, l'autorité administrative peut refuser la délivrance des documents et certificats attestant la bonne réalisation des actions de ce programme ou retirer ces documents et certificats.
+
+IV.-(Abrogé) ;
+
+V.-Les départements participent à la veille sanitaire par l'intermédiaire des laboratoires d'analyse départementaux.

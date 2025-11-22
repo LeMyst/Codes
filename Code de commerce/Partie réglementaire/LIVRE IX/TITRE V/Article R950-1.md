@@ -457,7 +457,7 @@ a bis) Les dispositions du chapitre Ier du titre II mentionnées dans la colonne
 | | |
 | --- | --- |
 | R. 521-1 | Décret n° 2021-1887 du 29 décembre 2021 |
-| R. 521-2 | Décret n° 2024-461 du 22 mai 2024 |
+| R. 521-2 | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 | R. 521-3 à R. 521-4 | Décret n° 2021-1887 du 29 décembre 2021 |
 | R. 521-5 et R. 521-7 | Décret n° 2023-369 du 11 mai 2023 |
 | R. 521-8 à R. 521-11 | Décret n° 2021-1887 du 29 décembre 2021 |
@@ -465,7 +465,7 @@ a bis) Les dispositions du chapitre Ier du titre II mentionnées dans la colonne
 | R. 521-13 à R. 521-27 et R. 521-29 à R. 521-31 | Décret n° 2021-1887 du 29 décembre 2021 |
 | R. 521-32 | Décret n° 2023-369 du 11 mai 2023 |
 | R. 521-33 | Décret n° 2021-1887 du 29 décembre 2021 |
-| R. 521-34 | Décret n° 2024-461 du 22 mai 2024 |
+| R. 521-34 | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 
 b) Le chapitre II du titre II ;
 

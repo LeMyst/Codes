@@ -12,9 +12,9 @@ Le registre régi par le présent chapitre assure la publicité :
 
 5° Des déclarations de créances en application de l'article L. 141-22 du code de commerce ;
 
-6° Des hypothèques maritimes à l'exclusion de celles qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports et de celles portant sur les drones maritimes enregistrés au registre mentionné à l'article L. 5112-1-9 du même code ;
+6° Des hypothèques maritimes à l'exclusion de celles qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports et de celles portant sur les drones maritimes enregistrés au registre mentionné à l'article L. 5112-1-9 du même code ainsi que celles portant sur les îles artificielles, installations et ouvrages flottants mentionnés à l'article 40-2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française ;
 
-7° Des actes de saisie sur les navires à l'exclusion de ceux qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports et de ceux qui portent sur les drones maritimes enregistrés au registre mentionné à l'article L. 5112-1-9 du même code ;
+7° Des actes de saisie sur les navires à l'exclusion de ceux qui portent sur les navires enregistrés au registre mentionné à l'article L. 5611-1 du code des transports et de ceux qui portent sur les drones maritimes enregistrés au registre mentionné à l'article L. 5112-1-9 du même code ainsi que de ceux portant sur les îles artificielles, installations et ouvrages flottants mentionnés à l'article 40-2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française ;
 
 8° De tout acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droits réels portant sur un bateau au sens de l'article L. 4111-1 du code des transports ;
 

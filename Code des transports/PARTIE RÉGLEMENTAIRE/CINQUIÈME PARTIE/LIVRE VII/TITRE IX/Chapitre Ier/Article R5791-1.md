@@ -4,12 +4,12 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 5112-1 A | Résultant du décret n° 2024-461 du 22 mai 2024 |
+| R. 5112-1 A | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 | R. 5112-2-1-1, R. 5112-2-3-1 | Résultant du décret n° 2023-921 du 5 octobre 2023 |
 | R. 5112-2-4-1 et R. 5112-2-4-2 | Résultant du décret n° 2024-461 du 22 mai 2024 |
 | et R. 5112-2-7 à R. 5112-2-10 | Résultant du décret n° 2023-921 du 5 octobre 2023 |
 | R. 5114-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
-| R. 5114-1A | Résultant du décret n° 2024-461 du 22 mai 2024 |
+| R. 5114-1 A | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 | R. 5114-2 et R. 5114-3 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | R. 5114-4 à R5114-6 | Résultant du décret n° 2023-921 du 5 octobre 2023 |
 | R. 5114-7 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |

@@ -4,7 +4,7 @@ Sont applicables en Polynésie française, sous réserve des compétences dévol
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 5112-1 A | Résultant du décret n° 2024-461 du 22 mai 2024 |
+| R. 5112-1 A | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 | R. 5112-2-4-1 et R. 5112-2-4-2 | Résultant du décret n° 2024-461 du 22 mai 2024 |
 | R. 5122-2 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | R. 5112-2-1-1, R. 5112-2-3-1 et R. 5112-2-8 à R. 5112-2-11 | Résultant du décret n° 2023-921 du 5 octobre 2023 |

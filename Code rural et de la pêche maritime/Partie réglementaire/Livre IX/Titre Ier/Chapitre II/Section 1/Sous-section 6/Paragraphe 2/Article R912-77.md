@@ -2,9 +2,9 @@
 
 Sont électeurs dans le collège des chefs d'entreprise de pêche maritime et d'élevage marin et dans leurs catégories respectives en vue de l'élection des membres des conseils des comités départementaux, interdépartementaux et régionaux des pêches maritimes et des élevages marins :
 
-1° Les chefs d'entreprise de pêche maritime embarqués, armant un ou plusieurs navires actifs au sens de l'article R. 921-9 du code rural et de la pêche maritime et titulaires d'un permis d'armement à la pêche ou aux cultures marines, ayant accompli au moins un jour d'embarquement à la pêche au cours des douze mois précédant la date mentionnée à l'article R. 912-75;
+1° Les chefs d'entreprise de pêche maritime embarqués, armant un ou plusieurs navires actifs au sens de l'article R. 921-9 du code rural et de la pêche maritime et titulaires d'un permis d'armement à la pêche ou aux cultures marines, ayant accompli au moins un jour d'embarquement à la pêche au cours des douze mois précédant la date mentionnée à l'article R. 912-75 ;
 
-2° Les chefs d'entreprise de pêche maritime non embarqués, armant un ou plusieurs navires actifs au sens de l'article R. 921-9 et titulaires d'un permis d'armement à la pêche ou aux cultures marines, n'ayant accompli aucun jour d'embarquement à la pêche au cours des douze mois précédant la date mentionnée à l'article R. 912-75 ;
+2° Les chefs d'entreprise de pêche maritime non embarqués, armant un ou plusieurs navires actifs au sens de l'article D. 921-1-1 et titulaires d'un permis d'armement à la pêche ou aux cultures marines, n'ayant accompli aucun jour d'embarquement à la pêche au cours des douze mois précédant la date mentionnée à l'article R. 912-75 ;
 
 3° Les chefs d'entreprise d'élevage marin ;
 

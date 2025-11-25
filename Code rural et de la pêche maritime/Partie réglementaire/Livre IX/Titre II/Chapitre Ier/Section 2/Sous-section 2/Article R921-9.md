@@ -15,7 +15,3 @@ Ce permis est exigé avant :
 5° Le réarmement à la pêche d'un navire qui a cessé d'être actif ;
 
 6° Le passage d'un navire d'un plafond de capacité à un autre, au sens de la réglementation européenne.
-
-Est considéré comme actif à une date donnée un navire dont, dans les douze mois qui précèdent, l'effectif qui a été porté au rôle correspond à celui prévu pour son exploitation pendant une période de six mois au moins, et dont l'activité de pêche est attestée par le débarquement régulier de ressources biologiques de la mer et par l'accomplissement des obligations déclaratives fixées aux articles L. 932-1 à L. 932-3. Par dérogation, sont considérés comme actifs les navires exerçant une activité de pêche saisonnière, dont la liste est fixée par arrêté du ministre chargé des pêches maritimes et de l'aquaculture marine, et réalisant au minimum une sortie en mer au cours de l'année civile.
-
-Est considéré comme inactif au sens du 5°, un navire qui ne remplit pas au moins un des critères mentionnés à l'alinéa précédent.

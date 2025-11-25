@@ -8,7 +8,7 @@ Outre les cas résultant de l'application de l'article L. 946-1 et sans préjudi
 
 3° Les caractéristiques ou le mode d'exploitation du navire ont été modifiés et ne répondent plus aux conditions fixées pour la délivrance de l'autorisation ;
 
-4° Le navire ne remplit plus les conditions d'activité énoncées à l'article R. 921-9 et aucun projet de renouvellement n'est prévu ;
+4° Le navire ne remplit plus les conditions d'activité énoncées à l'article D. 921-1-1 et aucun projet de renouvellement n'est prévu ;
 
 5° Le navire est sorti de flotte.
 

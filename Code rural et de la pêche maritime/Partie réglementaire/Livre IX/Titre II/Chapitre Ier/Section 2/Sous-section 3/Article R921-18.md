@@ -8,6 +8,6 @@ Outre les cas résultant de l'application de l'article L. 946-1, la licence de p
 
 3° (Supprimé)
 
-4° Lorsque le navire ne respecte pas les conditions d'activité minimale définie par l'article R. 921-9.
+4° Lorsque le navire ne respecte pas les conditions d'activité minimale définie par l'article D. 921-1-1.
 
 La suspension d'activité de la capacité de pêche correspondante est immédiatement déclarée dans le fichier de la flotte de pêche européenne par l'autorité mentionnée au premier alinéa.

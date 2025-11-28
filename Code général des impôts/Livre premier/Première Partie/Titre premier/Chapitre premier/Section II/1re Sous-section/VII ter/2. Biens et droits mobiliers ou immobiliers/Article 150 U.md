@@ -56,7 +56,7 @@ Le présent 7° ne s'applique pas à la création de logements sociaux ou à l'a
 
 L'exonération est calculée au prorata de la surface habitable des logements sociaux ou intermédiaires destinés à être construits ou des surfaces destinées à être affectées à de tels logements conformément au cinquième alinéa du même 7°.
 
-Le bénéfice de l'exonération est subordonné à la condition que le bien soit cédé, dans le délai d'un an suivant son acquisition, étendu à trois ans pour les cessions réalisées par un établissement public foncier.
+Le bénéfice de l'exonération est subordonné à la condition que le bien soit cédé, dans le délai d'un an suivant son acquisition, étendu à dix ans pour les cessions réalisées par un établissement public foncier.
 
 En cas de manquement à la condition de cession prévue au troisième alinéa du présent 8°, la collectivité territoriale, l'établissement public de coopération intercommunale ou l'établissement public foncier reverse à l'Etat le montant dû au titre du I du présent article.
 
@@ -69,6 +69,3 @@ Le présent 8° ne s'applique pas à la création de logements sociaux ou à l'a
 III. – Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les titulaires de pensions de vieillesse ou de la carte “ mobilité inclusion ” portant la mention “ invalidité ” mentionnée à l'article L. 241-3 du code de l'action sociale et des familles qui, au titre de l'avant-dernière année précédant celle de la cession, ne sont pas passibles de l'impôt sur la fortune immobilière et dont le revenu fiscal de référence n'excède pas la limite prévue au I de l'article 1417, appréciés au titre de cette année.
 
 IV. – Le I ne s'applique pas aux partages qui portent sur des biens meubles ou immeubles dépendant d'une succession ou d'une communauté conjugale et qui interviennent uniquement entre les membres originaires de l'indivision, leur conjoint, des ascendants, des descendants ou des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en est de même des partages portant sur des biens indivis issus d'une donation-partage et des partages portant sur des biens indivis acquis par des partenaires ayant conclu un pacte civil de solidarité ou par des époux, avant ou pendant le pacte ou le mariage. Ces partages ne sont pas considérés comme translatifs de propriété dans la mesure des soultes ou plus-values.
-
-NOTA:
-Conformément au IV de l’article 9 de la loi n° 2023-1322 du 29 décembre 2023, les dispositions résultant du 1° du A du I dudit article 9 ne s'appliquent pas aux cessions de biens ou de droits situés en Corse.

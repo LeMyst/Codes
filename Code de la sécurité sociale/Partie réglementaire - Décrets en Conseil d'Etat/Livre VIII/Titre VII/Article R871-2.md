@@ -71,3 +71,7 @@ Ces garanties s'appliquent aux frais exposés pour l'acquisition d'une aide audi
 5° Des frais de soins dentaires prothétiques exposés par l'assuré en sus des tarifs de responsabilité dans la limite des honoraires de facturation fixés par la convention prévue à l'article L. 162-9 ou, en l'absence de convention applicable, par le règlement arbitral prévu à l'article L. 162-14-2, pour les actes définis par arrêté des ministres chargés de la santé et de la sécurité sociale, en fonction du service rendu et des caractéristiques esthétiques ;
 
 6° Du forfait journalier des établissements hospitaliers prévu à l'article L. 174-4, sans limitation de durée.
+
+7° Des dépenses d'acquisition, à hauteur des frais exposés par l'assuré en sus des tarifs de responsabilité, dans la limite des prix fixés en application de l'article L. 165-3 pour les prothèses capillaires appartenant à une classe faisant l'objet d'une prise en charge renforcée définie en application du deuxième alinéa de l'article L. 165-1 ;
+
+8° Des dépenses d'acquisition, à hauteur des frais exposés par l'assuré en sus des tarifs de responsabilité, dans la limite des prix fixés en application de l'article L. 165-3 pour des véhicules destinés à des personnes en situation de handicap inscrits sur la liste mentionnée à l'article L. 165-1 et faisant l'objet d'une prise en charge renforcée définie en application du deuxième alinéa de l'article L. 165-1.

@@ -12,7 +12,7 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 
 4° De 35 à 45 % pour les frais d'honoraires des auxiliaires médicaux, sauf pour ceux qui sont mentionnés au 1° ci-dessus ;
 
-5° De 35 à 45 % pour les frais d'examens de biologie médicale, sauf pour ceux qui sont mentionnés au 1° ci-dessus ;
+5° De 35 à 45 % pour les frais d'examens de biologie médicale, sauf pour ceux qui sont mentionnés au 1° ci-dessus, et pour les frais de vaccination au sein d'un laboratoire de biologie médicale dans les conditions définies à l'article R. 6212-2 du code la santé publique ;
 
 6° De 70 à 75 % pour les médicaments principalement destinés au traitement des troubles ou affections sans caractère habituel de gravité et pour les médicaments dont le service médical rendu, tel que défini au I de l'article R. 163-3, a été classé comme modéré en application du 6° de l'article R. 163-18, ainsi que pour l'honoraire de dispensation prévu au 7° de l'article L. 162-16-1 et y afférent ;
 

@@ -24,7 +24,7 @@ Un arrêté du garde des sceaux, ministre de la justice, publié au Journal offi
 
 Le jury est composé comme suit :
 
-1° Un magistrat de l'ordre judiciaire, hors hiérarchie, en activité ou honoraire, président ;
+1° Un magistrat de l'ordre judiciaire, du troisième grade, en activité ou honoraire, président ;
 
 2° Un représentant de la Haute autorité de l'audit ;
 
@@ -47,4 +47,4 @@ III.-L'épreuve portant sur la mission de certification d'informations en matiè
 La liste des candidats admis à l'épreuve de durabilité est publiée au Journal officiel de la République française.
 
 NOTA:
-Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 12 de l’arrêté du 31 octobre 2025 (NOR : JUSB2524822A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er décembre 2025.

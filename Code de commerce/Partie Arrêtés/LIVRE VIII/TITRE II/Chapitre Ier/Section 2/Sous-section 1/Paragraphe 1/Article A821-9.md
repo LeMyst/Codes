@@ -4,7 +4,7 @@ Un arrêté du garde des sceaux, ministre de la justice, publié au Journal offi
 
 Le jury est composé comme suit :
 
-1° Un magistrat de l'ordre judiciaire, hors hiérarchie, en activité ou honoraire, président ;
+1° Un magistrat de l'ordre judiciaire, du troisième grade, en activité ou honoraire, président ;
 
 2° Un second magistrat de l'ordre judiciaire, en activité ou honoraire ;
 
@@ -29,4 +29,4 @@ Des examinateurs spécialisés peuvent être adjoints au jury par arrêté du ga
 Le jury est valablement constitué si sept au moins de ses membres sont présents.
 
 NOTA:
-Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 12 de l’arrêté du 31 octobre 2025 (NOR : JUSB2524822A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er décembre 2025.

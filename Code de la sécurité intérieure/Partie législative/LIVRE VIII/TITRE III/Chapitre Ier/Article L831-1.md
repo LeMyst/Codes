@@ -8,7 +8,7 @@ Elle est composée de neuf membres :
 
 2° Deux membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller d'Etat, nommés par le vice-président du Conseil d'Etat ;
 
-3° Deux magistrats hors hiérarchie de la Cour de cassation, nommés conjointement par le premier président et par le procureur général de la Cour de cassation ;
+3° Deux magistrats du troisième grade de la Cour de cassation, à l'exclusion des auditeurs, des conseillers référendaires et des avocats généraux référendaires, nommés conjointement par le premier président et par le procureur général de la Cour de cassation ;
 
 4° Une personnalité qualifiée pour sa connaissance en matière de communications électroniques, nommée sur proposition du président de l'Autorité de régulation des communications électroniques et des postes.
 
@@ -19,3 +19,6 @@ Le président de la commission est nommé par décret du Président de la Répub
 Le mandat des membres, à l'exception de ceux mentionnés au 1°, est de six ans. Il n'est pas renouvelable.
 
 Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans.
+
+NOTA:
+Conformément au XVI de l’article 60 de la loi n° 2023-1059 du 20 novembre 2023, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 31 décembre 2025. Conformément à l'article 38 du décret n° 2025-1032 du 31 octobre 2025, ces dispositions entrent en vigueur le 1er décembre 2025.

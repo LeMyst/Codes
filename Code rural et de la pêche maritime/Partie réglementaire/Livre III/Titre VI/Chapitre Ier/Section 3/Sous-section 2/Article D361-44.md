@@ -20,9 +20,11 @@ III.-Pour les natures de récolte assurées au titre de contrats bénéficiant d
 
 Pour les natures de récolte qui ne sont pas assurées au titre de contrats bénéficiant de l'aide mentionnée à l'article L. 361-4 couvrant les pertes visées au I, le taux d'indemnisation fondée sur la solidarité nationale est ainsi fixé :
 
-1° Pour les groupes de cultures mentionnés aux 1° à 5° du II de l'article D. 361-43-1, le taux est de 45 % pour les récoltes 2023,40 % pour les récoltes 2024,35 % pour les récoltes 2025 ;
+1° Pour les groupes de cultures mentionnés au 1° à 3° du II de l'article D. 361-43-1, il est de 45 % pour les récoltes 2023,40 % pour les récoltes 2024,35 % pour les récoltes 2025,28 % pour les récoltes 2026,21 % pour les récoltes 2027 et 14 % pour les récoltes 2028 ;
 
-2° Pour le groupe de cultures mentionné au 6° du II de l'article D. 361-43-1, le taux est de 45 %.
+2° Pour les groupes de cultures mentionnés au 4° et 5° du II de l'article D. 361-43-1, il est de 45 % pour les récoltes 2023,40 % pour les récoltes 2024,35 % pour les récoltes 2025,31,5 % pour les récoltes 2026,28 % pour les récoltes 2027 et 24,5 % pour les récoltes 2028 ;
+
+3° Pour le groupe de cultures mentionné au 6° du II de l'article D. 361-43-1, il est de 45 % pour les récoltes 2023 à 2028.
 
 IV.-Pour les contrats à l'exploitation mentionnés au III de l'article D. 361-43-1, les seuils et taux mentionnés ci-dessus sont fixés par arrêté des ministres chargés de l'agriculture, de l'économie et du budget.
 
@@ -45,3 +47,8 @@ VII.-Sont considérées comme exploitations agricoles pour l'application de l'ar
 VIII.-L'aide mentionnée à l'article L. 361-4-2 est versée aux exploitants qui sont éligibles dans un délai qui ne peut dépasser quatre ans suivant la survenance de l'aléa climatique défavorable.
 
 IX.-Seuls les exploitants agricoles qui ont déposé la demande unique mentionnée à l'article D. 614-36 au titre de la campagne au cours de laquelle l'aléa climatique défavorable est survenu et avant l'écoulement du délai au terme duquel la demande unique est considérée comme non admissible au sens du premier alinéa de l'article D. 614-41 ont droit à l'indemnisation fondée sur la solidarité nationale mentionnée à l'article L. 361-4-2 pour les pertes de récoltes relevant du groupe de cultures mentionné au 5° du II de l'article D. 361-43-1 qui ne sont pas assurées au titre d'un contrat pouvant bénéficier de l'aide mentionnée à l'article L. 361-4.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-1175 du 5 décembre 2025, lorsque les dépenses publiques au titre des articles L. 361-4 et L. 361-4-2 du code rural et de la pêche maritime dépassent un montant annuel de 680 millions d'euros, un arrêté des ministres chargés de l'agriculture, de l'économie et du budget peut fixer temporairement des taux et des seuils dérogatoires à ceux prévus aux articles D. 361-43-1, D. 361-43-5 et D. 361-44 du même code, pour la période restant à courir jusqu'au 31 décembre 2028, dans les conditions prévues à l'article L. 361-4-7 du code rural et de la pêche maritime.
+
+Conformément à l'article 3 du même décret, lorsque la part des surfaces agricoles couverte par les contrats mentionnés à l'article D. 361-43 du code rural et de la pêche maritime pour l'année 2026, 2027 ou 2028 est inférieure à celle constatée pour l'année précédente, un arrêté des ministres chargés de l'agriculture, de l'économie et du budget peut fixer temporairement des taux et des seuils dérogatoires à ceux prévus aux articles D. 361-43-1, D. 361-43-5 et D. 361-44 du même code, pour la période restant à courir jusqu'au 31 décembre 2028, dans les conditions prévues à l'article L. 361-4-7 du code rural et de la pêche maritime.

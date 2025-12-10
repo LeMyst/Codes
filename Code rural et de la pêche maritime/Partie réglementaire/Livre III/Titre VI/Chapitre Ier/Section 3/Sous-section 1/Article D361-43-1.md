@@ -26,7 +26,7 @@ Le contrat mentionne le montant des primes ou cotisations par nature de récolte
 
 IV. - Le calcul des taux de couverture mentionnés au II prend en compte l'ensemble des contrats bénéficiant de l'aide mentionnée à l'article L. 361-4 souscrits par le bénéficiaire, le cas échéant auprès de différentes entreprises d'assurance.
 
-V. - Les contrats définis au II respectent, pour les récoltes 2023,2024 et 2025, un seuil de déclenchement compris entre 20 % et un pourcentage de 5 points inférieur au seuil de déclenchement de l'indemnisation prévu à l'article D. 361-44 en application de l'article L. 361-4-2.
+V. - Les contrats définis au II respectent, pour les récoltes 2023 à 2028, un seuil de déclenchement compris entre 20 % et un pourcentage de 5 points inférieur au seuil de déclenchement de l'indemnisation prévu à l'article D. 361-44 en application de l'article L. 361-4-2.
 
 Par dérogation, pour les groupes de cultures mentionnés aux 1° à 3° du II, ce seuil de déclenchement doit être compris entre 20 % et 40 %.
 
@@ -39,3 +39,8 @@ VII. - Lorsque le taux de couverture constaté dans le contrat est inférieur au
 2° Lorsque le taux d'écart est supérieur à 10 %, le taux de la réduction est égal au double du taux d'écart, sans que la réduction ne puisse dépasser 100 % du montant de l'aide.
 
 Le taux d'écart est égal à la différence entre le taux de couverture obligatoire et le taux de couverture constaté, divisé par le taux de couverture obligatoire.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-1175 du 5 décembre 2025, lorsque les dépenses publiques au titre des articles L. 361-4 et L. 361-4-2 du code rural et de la pêche maritime dépassent un montant annuel de 680 millions d'euros, un arrêté des ministres chargés de l'agriculture, de l'économie et du budget peut fixer temporairement des taux et des seuils dérogatoires à ceux prévus aux articles D. 361-43-1, D. 361-43-5 et D. 361-44 du même code, pour la période restant à courir jusqu'au 31 décembre 2028, dans les conditions prévues à l'article L. 361-4-7 du code rural et de la pêche maritime.
+
+Conformément à l'article 3 du même décret, lorsque la part des surfaces agricoles couverte par les contrats mentionnés à l'article D. 361-43 du code rural et de la pêche maritime pour l'année 2026, 2027 ou 2028 est inférieure à celle constatée pour l'année précédente, un arrêté des ministres chargés de l'agriculture, de l'économie et du budget peut fixer temporairement des taux et des seuils dérogatoires à ceux prévus aux articles D. 361-43-1, D. 361-43-5 et D. 361-44 du même code, pour la période restant à courir jusqu'au 31 décembre 2028, dans les conditions prévues à l'article L. 361-4-7 du code rural et de la pêche maritime.

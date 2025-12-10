@@ -1,9 +1,10 @@
 # Article R495-1
 
-I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
+| R. 422-1-1 | Résultant du décret n° 2025-1165 du 5 décembre 2025 |
 | R. 422-60 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 |
 | R. 426-1 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 426-2 | Résultant du décret n° 2023-267 du 12 avril 2023 |
@@ -38,7 +39,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 471-5 | Résultant du décret n° 2018-407 du 29 mai 2018 |
 | R. 471-6 à R. 472-1 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° A moins qu'il en soit disposé autrement au présent chapitre :
 

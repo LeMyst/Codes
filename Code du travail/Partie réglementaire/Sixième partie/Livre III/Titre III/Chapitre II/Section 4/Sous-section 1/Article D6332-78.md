@@ -12,7 +12,14 @@ II.-Ce niveau de prise en charge contribue au financement des charges de gestion
 
 Les charges d'amortissement annuelles comptabilisées pour des équipements qui participent à la mise en œuvre des enseignements dispensés par apprentissage ainsi qu'à l'ingénierie pédagogique sont prises en compte pour la détermination du niveau de prise en charge du contrat d'apprentissage dès lors que leur durée d'amortissement n'excède pas trois ans.
 
+Les charges liées à la communication sont prises en compte pour la détermination du niveau de prise en charge du contrat d'apprentissage, dans la limite de 300 euros par apprenti et par an.
+
 Lorsque la commission paritaire nationale de l'emploi, ou à défaut la commission paritaire de la branche professionnelle, le sollicite, l'opérateur de compétences apporte son appui technique et son expertise conformément aux dispositions prévues au 2° du I de l'article L. 6332-1.
 
-NOTA:
-Conformément à l'article 2 du décret n° 2025-586 du 27 juin 2025, ces dispositions entrent en vigueur le 1er juillet 2025 et s'appliquent aux contrats d'apprentissage conclus à compter de cette date.
+III.-France compétences, en lien avec les opérateurs de compétences, recense le nombre de contrats d'apprentissage conclus sur une période déterminée, par certification et par commission paritaire nationale de l'emploi ou, à défaut, par commission paritaire de la branche professionnelle.
+
+Ce recensement permet notamment l'élaboration des recommandations mentionnées au a du 10° de l'article L. 6123-5.
+
+IV.-Le niveau de prise en charge du contrat d'apprentissage est établi pour une période minimale de trois ans, sans préjudice des modifications rendues nécessaires par la prise en compte des recommandations de France compétences ou d'une révision du niveau de prise en charge des contrats d'apprentissage prévue à l'article D. 6332-79-1.
+
+V.-Le niveau de prise en charge du contrat d'apprentissage reste applicable lors du renouvellement de l'enregistrement dans le répertoire national des certifications professionnelles du diplôme ou titre à finalité professionnelle, sauf en cas de modification substantielle de ces derniers.

@@ -1,6 +1,6 @@
 # Article L713-1
 
-I.-Les membres des chambres de commerce et d'industrie territoriales et de région sont élus pour cinq ans.
+I.-Les membres des chambres de commerce et d'industrie territoriales et de région sont élus pour une durée fixée par décret en Conseil d'Etat.
 
 Nul ne peut exercer la fonction de président d'un établissement public du réseau des chambres de commerce et d'industrie plus de quinze ans, quel que soit le nombre des mandats accomplis. Toutefois, un élu qui atteint sa quinzième année de mandat de président au cours d'une mandature continue d'exercer celui-ci jusqu'à son terme.
 
@@ -27,6 +27,3 @@ b) Au titre d'un établissement faisant l'objet dans la circonscription d'une in
 c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la circonscription d'un établissement immatriculé au registre du commerce et des sociétés.
 
 Le membre d'une chambre de commerce et d'industrie de région dont le siège devient vacant pour quelque cause que ce soit, sauf l'annulation de son élection, est remplacé jusqu'au renouvellement de la chambre de commerce et d'industrie de région par la personne élue en même temps que lui à cet effet.
-
-NOTA:
-Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.

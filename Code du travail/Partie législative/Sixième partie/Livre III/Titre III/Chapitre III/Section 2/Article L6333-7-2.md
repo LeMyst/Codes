@@ -10,7 +10,7 @@ Lorsqu'il existe, de la part d'un prestataire mentionné à l'article L. 6351-1 
 
 4° Les agents de l'administration fiscale mentionnés à l'article L. 135 ZO du livre des procédures fiscales ;
 
-5° Les agents de la concurrence, de la consommation et de la répression des fraudes mentionnés à la section 1 du chapitre Ier du titre Ier du livre V du code de la consommation ;
+5° Les agents de la concurrence, de la consommation et de la répression des fraudes mentionnés à la section 1 du chapitre I er du titre I er du livre V du code de la consommation ;
 
 6° Les agents du service mentionné à l'article L. 561-23 du code monétaire et financier ;
 

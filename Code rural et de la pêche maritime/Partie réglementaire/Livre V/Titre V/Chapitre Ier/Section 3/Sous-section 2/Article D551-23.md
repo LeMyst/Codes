@@ -8,6 +8,6 @@ Par territoire en faible densité, on entend un territoire dans lequel la densit
 
 Ces seuils de reconnaissance sont établis à 25 producteurs membres et 500 équivalents gros bovins commercialisés s'agissant de la production des bovins certifiés issus de l'agriculture biologique.
 
-Ils sont établis à 15 éleveurs et 3 000 animaux s'agissant de la production des veaux de boucherie.
+Ils sont établis à 15 éleveurs ou 3 000 animaux s'agissant de la production des veaux de boucherie.
 
 Un arrêté du ministre chargé de l'agriculture définit, en tant que de besoin, les équivalences animaux mentionnées au présent article.

@@ -30,3 +30,5 @@ V.-Dix personnalités qualifiées pour leur compétence dans le domaine économi
 
 NOTA:
 Conformément à l’article 20 du décret n° 2021-1723 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+
+Conformément au II de l'article 19 du décret n° 2025-1200 du 10 décembre 2025, le mandat des personnes qui sont, à la date d'entrée en vigueur dudit décret, membres du Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire au titre des I à V ddu présent article applicable antérieurement à cette date, est prolongé jusqu'au 30 novembre 2026.

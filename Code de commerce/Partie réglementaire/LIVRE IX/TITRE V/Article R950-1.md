@@ -360,9 +360,11 @@ L'article R. 247-2 est applicable dans sa rédaction résultant du décret n° 2
 
 L'article R. 210-21 est applicable dans sa rédaction résultant du décret n° 2021-669 du 27 mai 2021.
 
-Les articles R. 22-10-1 à R. 22-10-40 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 22-10-1 à R. 22-10-17, R. 22-10-18, R. 22-10-19, R. 22-10-20 à R. 22-10-22, R. 22-10-24 à R. 22-10-29, R. 22-10-30, R. 22-10-31, R. 22-10-33 à R. 22-10-40 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020.
 
 Les articles R. 22-10-17-1, R. 22-10-19-1 et R. 22-10-29-1 sont applicables dans leur rédaction résultant du décret n° 2024-904 du 8 octobre 2024.
+
+Les articles R. 22-10-23, R. 22-10-23-1, R. 22-10-23-2, R. 22-10-30-1 et R. 22-10-32 sont applicables dans leur rédaction résultant du décret n° 2025-1198 du 11 décembre 2025.
 
 3° Le livre III, à l'exception des articles R. 321-1 à R. 321-73 ;
 

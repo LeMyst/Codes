@@ -6,11 +6,15 @@ Pendant une période ininterrompue commençant au plus tard le vingt et unième 
 
 2° Le nombre total de droits de vote existant et le nombre d'actions composant le capital de la société à la date de la publication de cet avis en précisant, le cas échéant, le nombre d'actions et de droits de vote existant à cette date pour chaque catégorie d'actions ;
 
+2° bis Le cas échéant, le nombre, la durée, l'identité des bénéficiaires des actions de préférence émises selon les dispositions de l'article L. 22-10-46-1 et les droits qui sont attachés auxdites actions en fonction des projets de résolutions qui seront présentées à l'assemblée ;
+
 3° Les documents destinés à être présentés à l'assemblée, au regard notamment des dispositions des articles L. 225-115 et R. 225-83 ;
 
 4° Le texte des projets de résolution qui seront présentés à l'assemblée par le conseil d'administration ou le directoire, selon le cas ;
 
-5° Les formulaires de vote par correspondance et de vote par procuration ou le document unique prévu par le troisième alinéa de l'article R. 225-76, sauf dans les cas où la société adresse ces formulaires à tous ses actionnaires.
+5° Les formulaires de vote par correspondance et de vote par procuration ou le document unique prévu par le troisième alinéa de l'article R. 225-76, sauf dans les cas où la société adresse ces formulaires à tous ses actionnaires ;
+
+6° En cas de renouvellement de la durée des actions de préférence émises conformément aux dispositions de l'article L. 22-10-46-1, le rapport spécial des commissaires aux comptes mentionné au même article.
 
 Lorsque, pour des raisons techniques, ces formulaires ne peuvent être rendus accessibles sur son site internet, la société indique sur celui-ci les lieux et conditions dans lesquels ils peuvent être obtenus. Elle les envoie à ses frais à tout actionnaire qui en fait la demande.
 

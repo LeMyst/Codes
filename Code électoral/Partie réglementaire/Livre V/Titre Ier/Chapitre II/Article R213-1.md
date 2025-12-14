@@ -8,7 +8,21 @@ Pour l'application de la section 3 du chapitre VI du titre Ier du livre Ier en N
 
 a) Au 2° du I, après les mots : “ dates de naissance ”, sont ajoutés les mots : “ commune ou circonscription consulaire d'inscription sur les listes électorales ” ;
 
-b) La référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72 et la référence aux 2 et 3° du II de l'article R. 72 est remplacée par la référence aux 2° et 3° de l'article R. 72-1 ;
+b) La référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72, la référence aux 2, 3° du II de l'article R. 72 est remplacée par la référence aux 2° et 3° du I de l'article R. 72-1 et la référence aux III, IV, V et VI de l'article R. 72 est remplacée par la référence aux II, III, IV et V de l'article R. 72-1 ;
+
+c) Après le huitième alinéa du I, sont insérés trois alinéas ainsi rédigés :
+
+“ L'autorité ayant établi la procuration en Nouvelle-Calédonie peut également adresser l'imprimé, par courrier électronique avec demande d'avis de réception ou par télécopie, au maire de la commune du mandant.
+
+“ L'autorité ayant établi la procuration en métropole ou en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie française ou dans les Terres australes et antarctiques françaises peut également adresser l'imprimé, par courrier électronique avec demande d'avis de réception ou par télécopie, au maire de la commune du mandant si ce dernier est inscrit sur la liste électorale d'une commune située en Nouvelle-Calédonie.
+
+“ Si l'autorité ayant établi la procuration choisit d'adresser l'imprimé par courrier électronique avec demande d'avis de réception ou par télécopie au maire de la commune du mandant dans les conditions prévues aux deux alinéas précédents, elle n'est pas tenue de l'adresser en recommandé, ou par porteur contre accusé de réception. ” ;
+
+d) Après le quatrième alinéa du II, il est inséré un alinéa ainsi rédigé :
+
+“ Lorsque le mandant a fait usage du moyen d'identification électroni que présumé fiable et certifié au sens du III de l'article L. 102 du code des postes et des communications électroniques et désigné par l'arrêté du ministre de l'intérieur prévu à l'article R. 72 pour attester de son identité, la procuration est établie électroniquement par le ministre de l'intérieur et le lieu d'établissement de la procuration est celui où le mandant atteste sur l'honneur se trouver au moment de sa demande. ” ;
+
+e) Au cinquième alinéa du II qui devient le sixième alinéa du II, après les mots : “ registre spécial ouvert par ses soins ”, sont ajoutés les mots : “ sauf dans le cas prévu à l'alinéa précédent ”
 
 3° L'article R. 76 est remplacé par les dispositions suivantes :
 
@@ -28,5 +42,6 @@ b) La référence au I de l'article R. 72 est remplacée par la référence au p
 
 4° A l'article R. 78, la référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72.
 
-NOTA:
-Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.
+4° Après le premier alinéa de l'article R. 76-1, il est inséré un alinéa ainsi rédigé :
+
+“ Dans le cas prévu au cinquième alinéa du II de l'article R. 75, le nom et la qualité de l'autorité qui a établi la procuration sont remplacés par la mention : France Identité . ”

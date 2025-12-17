@@ -1,0 +1,3 @@
+# Article D1214-16
+
+Pour l'application du I de l'article L. 1214-8-3, les services numériques d'assistance au déplacement définis à l'article D. 1214-14 sont tenus de procéder à l'anonymisation des données mentionnées à l'article D. 1214-13. La méthode d'anonymisation choisie doit garantir une anonymisation irréversible des données, tout en fournissant des informations pertinentes et exploitables pour répondre aux besoins des autorités mentionnées au I de l'article L. 1214-8-3. Les informations mises à disposition des autorités mentionnées au I de l'article L. 1214-8-3 doivent être présentées dans un format aisément utilisable et exploitable par un système de traitement automatisé et dont la spécification est publique et accessible à tous.

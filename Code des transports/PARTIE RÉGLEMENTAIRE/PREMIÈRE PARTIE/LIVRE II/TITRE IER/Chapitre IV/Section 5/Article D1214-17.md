@@ -1,0 +1,3 @@
+# Article D1214-17
+
+Les services numériques d'assistance au déplacement définis à l'article D. 1214-14 et destinataires d'une demande de mise à disposition de données formulée par une autorité mentionnée au I de l'article L. 1214-8-3 informent les utilisateurs concernés sur la mise en œuvre d'un traitement visant à l'anonymisation des données relatives à leurs déplacements, dans les conditions prévues aux articles 12 et 13 du règlement (UE) 2016/679 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE.

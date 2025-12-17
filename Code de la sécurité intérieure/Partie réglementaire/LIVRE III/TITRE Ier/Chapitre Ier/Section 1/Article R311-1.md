@@ -100,7 +100,7 @@ a) A rapprocher des personnes souhaitant conclure un contrat d'achat ou de vente
 
 b) Ou à organiser des transferts d'armes à feu, d'éléments d'arme ou de munitions à l'intérieur d'un Etat membre, depuis un Etat membre vers un autre Etat membre, depuis un Etat membre vers un pays tiers ou depuis un pays tiers vers un Etat membre.
 
-Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ; ;
+Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ;
 
 2° Activité de fabrication : conception, réparation, fabrication, transformation, modification ou assemblage d'une arme, de ses éléments essentiels finis ou non finis, ou de munitions ;
 

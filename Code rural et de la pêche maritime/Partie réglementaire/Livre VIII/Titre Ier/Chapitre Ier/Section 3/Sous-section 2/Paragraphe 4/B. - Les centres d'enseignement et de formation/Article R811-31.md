@@ -1,6 +1,6 @@
 # Article R811-31
 
-Le conseil intérieur de chaque lycée, le conseil de perfectionnement de chaque centre de formation d'apprentis ou le conseil de centre de chaque centre de formation professionnelle et de promotion agricoles examine les questions qui lui sont soumises par son président, par le conseil d'administration ou par un quart de ses membres. Il est obligatoirement saisi des questions qui relèvent de l'autonomie pédagogique.
+Le conseil intérieur de chaque lycée, le conseil de perfectionnement de chaque centre de formation d'apprentis et de chaque centre de formation professionnelle continue et d'apprentissage ou le conseil de centre de chaque centre de formation professionnelle et de promotion agricoles continue examine les questions qui lui sont soumises par son président, par le conseil d'administration ou par un quart de ses membres. Il est obligatoirement saisi des questions qui relèvent de l'autonomie pédagogique.
 
 Il prépare la partie pédagogique du projet d'établissement.
 

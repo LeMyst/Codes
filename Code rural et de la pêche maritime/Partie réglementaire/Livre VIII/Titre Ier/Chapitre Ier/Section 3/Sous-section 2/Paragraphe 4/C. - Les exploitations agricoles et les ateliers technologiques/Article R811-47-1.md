@@ -10,7 +10,7 @@ Leur composition est la suivante :
 
 2° Deux représentants élus des élèves et le cas échéant un représentant élu des apprentis et un représentant élu des stagiaires ;
 
-3° Trois représentants élus des personnels enseignants, d'éducation et de surveillance et le cas échéant un représentant élu du centre de formation professionnelle et de promotion agricole et un représentant élu du centre de formation d'apprentis ;
+3° Trois représentants élus des personnels enseignants, d'éducation et de surveillance et le cas échéant un représentant élu du centre de formation professionnelle continue et un représentant élu du centre de formation d'apprentis ou deux représentants du centre de formation professionnelle continue et d'apprentissage ;
 
 4° Un représentant élu des personnels administratifs, techniques, ouvriers et de service ;
 

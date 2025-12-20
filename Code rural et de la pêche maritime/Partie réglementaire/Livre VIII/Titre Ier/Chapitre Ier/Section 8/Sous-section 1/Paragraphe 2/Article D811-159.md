@@ -8,9 +8,9 @@ La durée de la préparation au brevet de technicien supérieur agricole dans le
 
 II.-Pour se présenter à l'examen du brevet de technicien supérieur agricole par la voie de l'apprentissage, les candidats doivent :
 
-a) Soit avoir suivi une formation d'au moins 1 350 heures de cours, travaux pratiques, travaux dirigés en centre de formation d'apprentis ;
+a) Soit avoir suivi une formation d'au moins 1 350 heures de cours, travaux pratiques, travaux dirigés en centre de formation d'apprentis ou en centre de formation professionnelle continue et d'apprentissage ;
 
-b) Soit relever des articles R. 6222-9 à R. 6222-18 du code du travail et avoir suivi une formation en centre de formation d'apprentis d'une durée :
+b) Soit relever des articles R. 6222-9 à R. 6222-18 du code du travail et avoir suivi une formation en centre de formation d'apprentis ou en centre de formation professionnelle continue et d'apprentissage d'une durée :
 
 -d'au moins 720 heures de cours, travaux pratiques, travaux dirigés si le contrat d'apprentissage est d'un an ;
 

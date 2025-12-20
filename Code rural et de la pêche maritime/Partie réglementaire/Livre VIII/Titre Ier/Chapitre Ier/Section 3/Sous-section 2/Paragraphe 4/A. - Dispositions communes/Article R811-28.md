@@ -1,6 +1,6 @@
 # Article R811-28
 
-Chaque centre d'enseignement, de formation ou de production est doté d'un règlement intérieur établi par le conseil d'administration de l'établissement public local sur proposition, selon le cas, du conseil intérieur, pour un lycée, du conseil de centre, pour un centre de formation professionnelle et de promotion agricoles, du conseil de perfectionnement, pour un centre de formation d'apprentis agricoles, ou du conseil d'exploitation ou d'atelier technologique.
+Chaque centre d'enseignement, de formation ou de production est doté d'un règlement intérieur établi par le conseil d'administration de l'établissement public local sur proposition, selon le cas, du conseil intérieur, pour un lycée, du conseil de centre, pour un centre de formation professionnelle continue, du conseil de perfectionnement, pour un centre de formation d'apprentis agricoles ou un centre de formation professionnelle continue et d'apprentissage, ou du conseil d'exploitation ou d'atelier technologique.
 
 Le règlement intérieur détermine notamment les modalités selon lesquelles sont mis en application :
 

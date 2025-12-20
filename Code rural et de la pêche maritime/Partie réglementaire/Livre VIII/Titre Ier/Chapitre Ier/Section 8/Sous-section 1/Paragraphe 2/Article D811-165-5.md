@@ -2,7 +2,7 @@
 
 Les candidats doivent avoir suivi une formation générale, technologique et professionnelle en centre de formation et en milieu professionnel.
 
-Pour les candidats préparant le brevet professionnel par la voie de l'apprentissage, conformément aux dispositions du cinquième alinéa de l'article L. 6211-2 du code du travail, la durée de la formation en centre de formation d'apprentis est au moins égale à 800 heures pour deux ans.
+Pour les candidats préparant le brevet professionnel par la voie de l'apprentissage, conformément aux dispositions du cinquième alinéa de l'article L. 6211-2 du code du travail, la durée de la formation en centre de formation d'apprentis ou en centre de formation professionnelle continue et d'apprentissage est au moins égale à 800 heures pour deux ans.
 
 Dans les conditions prévues à l'article L. 6222-7-1 du code du travail, cette durée de formation peut être réduite au prorata temporis de la durée du contrat d'apprentissage.
 

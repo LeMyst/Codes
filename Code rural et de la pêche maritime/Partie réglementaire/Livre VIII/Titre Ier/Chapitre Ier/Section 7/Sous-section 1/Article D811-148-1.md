@@ -6,7 +6,7 @@ Une partie des épreuves obligatoires de l'examen correspond à des épreuves ce
 
 a) Pour les candidats mentionnés au a du I de l'article D. 811-147 et ayant préparé le diplôme dans un établissement mentionné aux a, b, c du III de l'article D. 811-147 ;
 
-b) Pour les candidats mentionnés à l'article D. 811-147-1 et ayant préparé le diplôme par la voie de l'apprentissage dans un centre de formation d'apprentis habilité à mettre en œuvre le contrôle en cours de formation selon les conditions définies par arrêté du ministre chargé de l'agriculture.
+b) Pour les candidats mentionnés à l'article D. 811-147-1 et ayant préparé le diplôme par la voie de l'apprentissage dans un centre de formation d'apprentis ou un centre de formation professionnelle continue et d'apprentissage habilité à mettre en œuvre le contrôle en cours de formation selon les conditions définies par arrêté du ministre chargé de l'agriculture.
 
 Les autres épreuves sont des épreuves ponctuelles terminales.
 

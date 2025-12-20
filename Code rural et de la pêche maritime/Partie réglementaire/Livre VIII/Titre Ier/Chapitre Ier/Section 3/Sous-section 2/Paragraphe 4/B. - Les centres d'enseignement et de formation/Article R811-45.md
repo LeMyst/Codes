@@ -1,10 +1,10 @@
 # Article R811-45
 
-I.-Chaque centre de formation professionnelle et de promotion agricole est doté d'un conseil de centre dont la composition est ainsi fixée :
+I.-Chaque centre de formation professionnelle continue est doté d'un conseil de centre dont la composition est ainsi fixée :
 
 1° Trois représentants élus des stagiaires ou des anciens stagiaires ;
 
-2° Trois représentants élus des formateurs de centre de formation professionnelle et de promotion agricole et des personnels administratifs ou de service ;
+2° Trois représentants élus des formateurs de centre de formation professionnelle continue et des personnels administratifs ou de service ;
 
 3° Cinq représentants des organisations professionnelles agricoles départementales ou des secteurs concernés par les missions du centre et des organisations syndicales de salariés les plus représentatives dans les domaines de formation dispensées par le centre ;
 
@@ -12,7 +12,7 @@ I.-Chaque centre de formation professionnelle et de promotion agricole est doté
 
 5° Le directeur départemental des territoires ou, le cas échéant, des territoires et de la mer ou son représentant ;
 
-6° Le responsable de l'unité départementale de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
+6° Le responsable de l'unité départementale de la direction régionale de l'économie, de l'emploi, du travail et des solidarités ou son représentant ;
 
 7° Le directeur de l'établissement public local ;
 
@@ -35,6 +35,3 @@ III.-Le conseil de centre a à connaître notamment de l'organisation générale
 Le conseil de centre peut siéger en conseil de discipline. Il doit, dans ce cas, suivre à l'égard des stagiaires la procédure prévue aux articles R. 811-83-1 et suivants pour les élèves majeurs.
 
 Les représentants de la région au conseil d'administration sont tenus informés des réunions du conseil de centre.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2020-1171 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

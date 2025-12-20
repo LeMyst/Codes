@@ -21,3 +21,6 @@ III. – Le crédit d'impôt est plafonné pour chaque entreprise y compris les 
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 IV. – Un décret fixe les conditions d'application du présent article.
+
+NOTA:
+Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 96 II : Le I s'applique aux crédits d'impôts calculés au titre des dépenses exposées à compter du 1er janvier 2009. Le 3 du I de l'article 244 quater F du code général des impôts s'applique aux dépenses exposées jusqu'au 31 décembre 2009.

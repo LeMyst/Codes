@@ -18,9 +18,6 @@ Un décret fixe les modalités d'application du présent article et précise not
 
 V. ― Lorsque le montant des pensions de droit propre servies à l'assuré par les régimes légaux ou rendus légalement obligatoires, de base et complémentaires incluant le montant du complément différentiel de points de retraite complémentaire obligatoire, français et étrangers, ainsi que par les régimes des organisations internationales excède un plafond fixé par décret, le complément différentiel est réduit à due concurrence du dépassement.
 
+Les montants des pensions de droit servies à l'assuré et constituées au titre de l'article L. 2123-27 du code général des collectivités territoriales sont exclus de la base de calcul permettant d'établir ce dépassement.
+
 Les modalités de revalorisation du plafond mentionné au premier alinéa du présent V sont fixées par décret.
-
-NOTA:
-Conformément au VI de l'article 18 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023 et s'appliquent également aux assurés dont la pension a pris effet avant cette date pour les pensions dues à compter de la même date.
-
-Se reporter aux modalités d'applications prévues au dernier alinéa du VI dudit article 18.

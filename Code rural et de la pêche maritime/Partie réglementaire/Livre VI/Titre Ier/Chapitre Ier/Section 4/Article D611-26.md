@@ -1,8 +1,8 @@
 # Article D611-26
 
-Les associations d'organisations de producteurs reconnues peuvent déposer un programme opérationnel dans le secteur de la viande bovine en ce qui concerne la viande de veau sous signe de qualité “ Label Rouge ” et les secteurs cunicole, des fruits et légumes, de l'horticulture, du riz, des oléagineux, protéagineux et légumes secs, des fourrages séchés et de l'huile d'olive et des olives de table.
+Les associations d'organisations de producteurs reconnues peuvent déposer un programme opérationnel dans le secteur de la viande bovine en ce qui concerne la viande de veau sous signe de qualité “ Label Rouge ” et les secteurs cunicole, du lait issu de l'agriculture biologique, des fruits et légumes, de l'horticulture, du riz, des oléagineux, protéagineux et légumes secs, des fourrages séchés et de l'huile d'olive et des olives de table.
 
-Les organisations de producteurs reconnues peuvent déposer un programme opérationnel dans le secteur de la viande bovine en ce qui concerne la viande de veau sous signe de qualité “ Label Rouge ” et les secteurs cunicole, des fruits et légumes, de l'horticulture, du riz, des oléagineux, protéagineux et légumes secs et des fourrages séchés.
+Les organisations de producteurs reconnues peuvent déposer un programme opérationnel dans le secteur de la viande bovine en ce qui concerne la viande de veau sous signe de qualité “ Label Rouge ” et les secteurs cunicole, du lait issu de l'agriculture biologique, des fruits et légumes, de l'horticulture, du riz, des oléagineux, protéagineux et légumes secs et des fourrages séchés.
 
 Ces programmes opérationnels répondent aux exigences des articles 50, 64 et 67 du règlement (UE) n° 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 établissant des règles relatives à l'aide aux plans stratégiques devant être élaborés par les Etats membres dans le cadre de la politique agricole commune et décrivent les types d'interventions sélectionnées parmi celles prévues pour leur secteur dans le plan stratégique national français de la politique agricole commune.
 

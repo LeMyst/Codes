@@ -1,6 +1,10 @@
 # Article 432-12
 
-Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne investie d'un mandat électif public, de prendre, recevoir ou conserver, directement ou indirectement, un intérêt de nature à compromettre son impartialité, son indépendance ou son objectivité dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré de l'infraction.
+Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne investie d'un mandat électif public, de prendre, recevoir ou conserver, en connaissance de cause, directement ou indirectement, un intérêt altérant son impartialité, son indépendance ou son objectivité dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré de l'infraction.
+
+Ne peut constituer un intérêt, au sens du présent article, un intérêt public ou tout intérêt dont la prise en compte est exclue par la loi.
+
+L'infraction définie au présent article n'est pas constituée lorsque la personne mentionnée au premier alinéa ne pouvait agir autrement en vue de répondre à un motif impérieux d'intérêt général.
 
 Toutefois, dans les communes comptant 3 500 habitants au plus, les maires, adjoints ou conseillers municipaux délégués ou agissant en remplacement du maire peuvent chacun traiter avec la commune dont ils sont élus pour le transfert de biens mobiliers ou immobiliers ou la fourniture de services dans la limite d'un montant annuel fixé à 16 000 euros.
 

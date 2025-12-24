@@ -22,6 +22,8 @@ III.-Lorsqu'ils remplissent les conditions mentionnées au deuxième alinéa de 
 
 III bis.-En cas de décès d'un enfant âgé de moins de vingt-cinq ans ou d'une personne âgée de moins de vingt-cinq ans à sa charge effective et permanente et dans un délai d'un an à compter de cette date, l'assuré bénéficie d'indemnités journalières du même montant que celles prévues au 2° du I pendant une durée de quinze jours, qui peuvent être fractionnés dans des conditions déterminées par décret, sous réserve de cesser son activité professionnelle.
 
+III ter.-Le présent article ne fait pas obstacle à l'exercice par un élu local des activités liées à son mandat, ni, le cas échéant, à la perception d'indemnités de fonction. En cas de poursuite du mandat, l'élu perçoit uniquement l'allocation forfaitaire de repos et les indemnités journalières résultant de sa cessation d'activité mentionnées aux I à III bis. S'il interrompt son mandat dans les conditions prévues au présent article et remplit les conditions prévues au présent article, l'assuré peut également percevoir une allocation forfaitaire de repos et les indemnités journalières à ce titre.
+
 IV.-Un décret détermine les modalités d'application du présent article et notamment le montant de l'allocation prévue au 1° du I, les montants et les durées d'attribution de l'indemnité journalière prévue au 2° du même I, notamment lorsque l'accouchement a lieu plus de six semaines avant la date initialement prévue et exige l'hospitalisation postnatale de l'enfant.
 
 Les montants des prestations sont revalorisés dans les mêmes conditions que celles fixées pour le plafond prévu à l'article L. 241-3.

@@ -16,4 +16,4 @@ En cas d'inobservation volontaire de ces obligations, le bénéficiaire restitue
 
 En outre, si l'activité mentionnée au 4° a donné lieu à des revenus d'activité, il peut être prononcé une sanction financière dans les conditions prévues à l'article L. 114-17-1.
 
-Les élus locaux peuvent poursuivre l'exercice de leur mandat, sous réserve de l'accord formel de leur praticien.
+Les élus locaux qui le souhaitent peuvent poursuivre l'exercice de leur mandat, sauf avis contraire de leur praticien.

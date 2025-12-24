@@ -6,11 +6,6 @@ En cas de naissances multiples, la durée maximale fixée au précédent alinéa
 
 Par dérogation au premier alinéa, l'indemnité journalière servie au titre du congé de paternité et d'accueil de l'enfant est versée pendant la période d'hospitalisation mentionnée au dernier alinéa de l'article L. 1225-35 du code du travail.
 
-L'indemnité journalière n'est pas cumulable avec l'indemnisation des congés maladie et d'accident du travail, ni avec l'indemnisation par l'assurance chômage ou le régime de solidarité.
+L'indemnité journalière n'est pas cumulable avec l'indemnisation des congés maladie et d'accident du travail, ni avec l'indemnisation par l'assurance chômage ou le régime de solidarité. Le présent article ne fait pas obstacle à l'exercice par un élu local des activités liées à son mandat, ni, le cas échéant, à la perception d'indemnités de fonction. En cas de poursuite du mandat, l'élu perçoit uniquement l'indemnité journalière résultant de l'activité salariée ou assimilée mentionnée au premier alinéa du présent article. S'il interrompt son mandat dans les conditions prévues au même premier alinéa et s'il remplit les conditions prévues à l'article L. 313-1, l'assuré peut également percevoir une indemnité journalière à ce titre.
 
 Un décret fixe les modalités d'application du présent article.
-
-NOTA:
-Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1er juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
-
-Par dérogation au premier alinéa du présent IV, les dispositions du présent article relatives à l'information de l'employeur sur la date prévisionnelle de la naissance s'appliquent aux naissances prévues à compter du 1er juillet 2021.

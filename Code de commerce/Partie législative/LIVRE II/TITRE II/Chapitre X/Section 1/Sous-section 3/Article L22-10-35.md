@@ -4,9 +4,11 @@ Dans les sociétés dont les titres sont admis aux négociations sur un marché 
 
 1° Les incidences des activités de la société quant à la lutte contre l'évasion fiscale ;
 
-2° Les actions visant à promouvoir le lien entre la Nation et ses forces armées et à soutenir l'engagement dans les réserves de la garde nationale.
+2° Les actions visant à promouvoir le lien entre la Nation et ses forces armées et à soutenir l'engagement dans les réserves de la garde nationale ;
 
-Le cas échéant, le rapport sur la gestion du groupe mentionné à l'article L. 233-26 comprend les informations mentionnées aux 1° et 2°, relatives à l'ensemble des entreprises comprises dans la consolidation.
+3° Les actions visant à promouvoir l'engagement des citoyens dans la démocratie locale et, le cas échéant, le bénéfice du label “ employeur partenaire de la démocratie locale ” mentionné à l'article L. 1621-6 du code général des collectivités territoriales.
+
+Le cas échéant, le rapport sur la gestion du groupe mentionné à l'article L. 233-26 du présent code comprend les informations mentionnées aux 1° à 3° du présent article, relatives à l'ensemble des entreprises comprises dans la consolidation.
 
 Les informations mentionnées au 7° du II de l'article L. 232-1 sont applicables aux sociétés dont les titres sont admis aux négociations sur un marché réglementé qui sont des petites ou des moyennes entreprises, au sens de l'article L. 230-1.
 

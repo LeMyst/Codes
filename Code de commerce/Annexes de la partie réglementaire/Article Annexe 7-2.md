@@ -112,7 +112,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Paris | Paris | 210 | 25 |
 | Essonne | Évry-Courcouronnes | 55 | 8 |
 | Seine-et-Marne | Melun | 41 | 6 |
-| | Meaux | 30 | 5 |
+| Seine-et-Marne | Meaux | 42 | 5 |
 | Seine-Saint-Denis | Bobigny | 81 | 10 |
 | Val-de-Marne | Créteil | 55 | 8 |
 | Yonne | Auxerre | 11 | 2 |

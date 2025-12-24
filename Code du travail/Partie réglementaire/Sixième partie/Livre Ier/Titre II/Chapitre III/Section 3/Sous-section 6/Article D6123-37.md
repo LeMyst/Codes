@@ -8,7 +8,7 @@ I.-Les informations relatives aux entreprises sont communiquées à France comp�
 
 3° La réalisation des enquêtes de satisfaction mentionnées au 14° de l'article. L. 6123-5 ;
 
-4° Aux opérateurs de compétences d'assurer les missions précisées aux 1°, 4°, 5° et 6° de l'article L. 6332-1 ou par accord professionnel national dans le cadre des contributions supplémentaires mentionnées à l'article L. 6332-1-2 ;
+4° Aux opérateurs de compétences d'assurer les missions précisées aux 1°, 2°, 4°, 5° et 6° de l'article L. 6332-1 ou par accord professionnel national dans le cadre des contributions supplémentaires mentionnées à l'article L. 6332-1-2 , dont celle de la collecte de ces contributions ;
 
 5° Au comité de concertation et de coordination de l'apprentissage du bâtiment et des travaux publics d'assurer les missions précisées à l'article L. 6331-36.
 
@@ -28,7 +28,7 @@ a) Données de l'entreprise :
 
 -Adresse ;
 
--Coordonnées du référent formation professionnelle ;
+-Coordonnées du référent formation professionnelle, ou à défaut celles de la personne chargée de la déclaration sociale nominative ;
 
 -Date de création ;
 
@@ -72,9 +72,11 @@ b) Données de l'établissement :
 
 -Masse salariale assujettie à la taxe d'apprentissage ;
 
+-Masse salariale assujettie à la contribution mentionnée au 5° de l'article L. 6131-1 ;
+
 -Masse salariale des intermittents ;
 
--Montant déclaré des contributions : contribution à la formation professionnelle, contribution compte personnel de formation des contrats à durée déterminée, part principale de la taxe d'apprentissage, contribution supplémentaire à l'apprentissage, participation unique au développement de la formation professionnelle des intermittents et régularisations, montant des déductions de la taxe d'apprentissage.
+-Montant déclaré des contributions : contribution à la formation professionnelle, contribution compte personnel de formation des contrats à durée déterminée, part principale de la taxe d'apprentissage, contribution supplémentaire à l'apprentissage, contribution mentionnée au 5° de l'article L. 6131-1 participation unique au développement de la formation professionnelle des intermittents et régularisations, montant des déductions de la taxe d'apprentissage.
 
 2° Données à transmettre aux opérateurs de compétences
 
@@ -90,7 +92,7 @@ a) Données de l'entreprise :
 
 -Adresse ;
 
--Coordonnées du référent chargé de la formation professionnelle ;
+-Coordonnées du référent chargé de la formation professionnelle ou, à défaut, le contact déclarant ;
 
 -Date de création ;
 
@@ -128,7 +130,6 @@ b) Données de l'établissement :
 
 -Masse salariale assujettie à la taxe d'apprentissage ;
 
--Masse salariale des intermittents.
+-Masse salariale assujettie à la contribution mentionnée au 5° de l'article L. 6131-1 ;
 
-NOTA:
-Conformément au II de l'article 3 du décret n° 2021-1917 du 30 décembre 2021, la publication des premières tables de correspondances établies en application du présent article intervient au plus tard le 30 avril 2022.
+-Masse salariale des intermittents.

@@ -1,6 +1,6 @@
 # Article R4226-21
 
-Les dispositions des articles R. 4222-18 à R. 4222-20 sont applicables aux installations électriques temporaires.
+Les dispositions des articles R. 4226-18 à R. 4226-20 sont applicables aux installations électriques temporaires.
 
 Pour ces installations, l'employeur applique un processus de vérification spécifique afin de s'assurer qu'elles sont réalisées en conformité avec les règles de santé et de sécurité qui leur sont applicables et qu'elles demeurent conformes à ces règles nonobstant les modifications dont elles font l'objet.
 

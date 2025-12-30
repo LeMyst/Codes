@@ -36,7 +36,7 @@ VII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 2,5 % des sommes
 
 4° La taxe sur le transport maritime de passagers dans certains territoires côtiers mentionnée à l'article L. 423-57 du même code.
 
-VIII. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées à l'article 1609 sexvicies et au 2° de l'article L. 421-30 du code des impositions sur les biens et services.
+VIII. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées à l'article 1609 sexvicies et au 3° de l'article L. 421-30 du code des impositions sur les biens et services.
 
 IX. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées respectivement aux articles L. 452-28, L. 453-25 et L. 454-16 du code des impositions sur les biens et services.
 

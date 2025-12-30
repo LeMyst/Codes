@@ -70,6 +70,8 @@ n) Despersonnels de l'Autorité de sûreté nucléaire et de radioprotection ;
 
 o) Des agents civils du ministère de la défense et de la gendarmerie nationale ;
 
+p) Des agents des préfectures et des sous-préfectures chargés de la délivrance des passeports et des cartes nationales d'identité.
+
 4° Agrément :
 
 a) Des agents de police municipale ;

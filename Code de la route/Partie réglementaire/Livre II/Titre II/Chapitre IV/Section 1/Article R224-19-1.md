@@ -1,4 +1,4 @@
-# Article R. 224-19-1
+# Article R224-19-1
 
 Les dispositions du 7° du I de l'article L. 224-1 et du 5° du I de l'article L. 224-2 sont applicables aux infractions aux règles sur :
 
@@ -10,10 +10,13 @@ Les dispositions du 7° du I de l'article L. 224-1 et du 5° du I de l'article L
 
 4° Les feux de signalisation lumineux prévues aux articles R. 412-30 et R. 412-31 ;
 
-5° Les vitesses prévues aux articles R. 413-14, R. 413-14-1 et R. 413-17 ;
+5° Les vitesses prévues aux articles L. 413-1, R. 413-14 et R. 413-17 ;
 
 6° Le dépassement prévues aux articles R. 414-4, R. 414-6, R. 414-7, R. 414-11 et R. 414-16 ;
 
 7° Les signalisations imposant l'arrêt des véhicules ou de céder le passage aux véhicules prévues aux articles R. 415-6 et R. 415-7 ;
 
 8° La priorité de passage à l'égard du piéton prévue à l'article R. 415-11.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2025-1269 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 29 décembre 2025.

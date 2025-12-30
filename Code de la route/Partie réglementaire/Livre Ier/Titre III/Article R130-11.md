@@ -18,7 +18,7 @@ Font foi jusqu'à preuve du contraire les constatations, effectuées par ou à p
 
 7° Les signalisations imposant l'arrêt des véhicules prévues aux articles R. 412-30 et R. 415-6 ;
 
-8° Les vitesses maximales autorisées prévues aux articles R. 413-14 et R. 413-14-1 ;
+8° Les vitesses maximales autorisées prévues aux articles L. 413-1 et R. 413-14 ;
 
 9° Le dépassement prévu aux II et IV de l'article R. 414-4 et aux articles R. 414-6 et R. 414-16 ;
 
@@ -33,3 +33,6 @@ Font foi jusqu'à preuve du contraire les constatations, effectuées par ou à p
 14° Les limites de poids des véhicules ou ensembles de véhicules prévues aux articles R. 312-2 et R. 312-3, au VII de l'article R. 312-4 et aux articles R. 312-5 et R. 312-6 ;
 
 15° La circulation d'un véhicule en marche normale sur la partie gauche d'une chaussée à double sens de circulation prévue au septième alinéa de l'article R. 412-9.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2025-1269 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 29 décembre 2025.

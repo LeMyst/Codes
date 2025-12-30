@@ -21,4 +21,4 @@ Le contrat comprend un formulaire détachable destiné à faciliter l'exercice d
 Les conditions de présentation de ce formulaire et les mentions devant figurer sur ce dernier sont précisées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément à l'article 49 de l'ordonnance n° 2025-1249 du 17 décembre 2025, ces dispositions, dans leur rédaction résultant de l'ordonnance précitée, entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 49 de l'ordonnance n° 2025-1249 du 17 décembre 2025, ces dispositions, dans leur rédaction résultant de l'ordonnance précitée, entrent en vigueur le 1er septembre 2026.

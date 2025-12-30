@@ -1,6 +1,6 @@
 # Article R632-33
 
-I.-Lorsque l'étudiant de troisième cycle des études de médecine prend part à la procédure de choix de stage et qu'il est dans l'une des situations citées aux 1°, 2°, 3° et 4° du I de l'article R. 632-32, il peut demander à accomplir son stage en surnombre. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
+I.-Lorsque l'étudiant de troisième cycle des études de médecine prend part à la procédure de choix de stage et qu'il est dans l'une des situations citées aux 1°, 2°, 3° et 4° du I de l'article R. 632-32, il peut demander à accomplir son stage en surnombre. Lorsqu'il est placé dans l'une des situations mentionnées aux 1° et 2° du I du même article, il peut demander à accomplir un second stage en surnombre, consécutif au premier. Dans tous les cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
 
 A titre alternatif, cet étudiant peut, par dérogation aux dispositions de l'alinéa précédent, opter pour un stage en surnombre choisi indépendamment de son rang de classement. Ce stage n'est pas validé quelle que soit sa durée.
 

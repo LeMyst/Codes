@@ -83,11 +83,12 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 633-4 à D. 633-12 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
 | D. 633-13 | Résultant du décret n° 2020-1308 du 29 octobre 2020 |
 | D. 633-14 et D. 633-15 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
-| D. 633-16 | Résultant du décret n° 2021-1497 du 17 novembre 2021 |
+| D. 633-16 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | D. 633-16-1 à D. 633-16-3 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 633-19 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
 | D. 633-23 D. 633-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 633-30 et D. 633-31 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
+| D. 633-30 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
+| D. 633-31 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
 | D. 635-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 635-2 et D. 635-3 | Résultant du décret n° 2019-1126 du 4 novembre 2019 |
 | D. 635-4 et D. 635-5 D. 636-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -314,6 +315,3 @@ b) Le quatrième alinéa est remplacé par un alinéa ainsi rédigé :
 30° A l'article D. 643-58, la deuxième phrase est supprimée ;
 
 31° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
-
-NOTA:
-Conformément à l'article 6 du décret n° 2025-144 du 17 février 2025, ledit décret entre en vigueur à compter de la rentrée universitaire 2025. Les candidats engagés dans les formations n'ayant pas obtenu d'autorisation d'ouverture au terme de l'article R. 642-16 restent régis par les dispositions de la section 4 du chapitre II du titre IV du livre VI de la partie réglementaire du code de l'éducation dans sa version antérieure à l'entrée en vigueur du décret précité.

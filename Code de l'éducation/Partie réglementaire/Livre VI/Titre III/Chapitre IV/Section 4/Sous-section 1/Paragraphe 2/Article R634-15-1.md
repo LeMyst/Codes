@@ -4,7 +4,7 @@ I.-Par dérogation au premier alinéa de l'article R. 634-15, les stages non val
 
 1° Etat de grossesse ;
 
-2° Congé de maternité ;
+2° Congé de maternité, congé d'adoption et congé de paternité et d'accueil de l'enfant ;
 
 3° Affection pouvant donner lieu à un congé de longue durée prévu à l'article R. 6153-15 du code de la santé publique ou à un congé de longue maladie prévu à l'article R. 6153-16 du même code ;
 
@@ -14,7 +14,7 @@ Les stages non validés ne sont pas pris en compte dans les obligations de forma
 
 L'étudiant qui se trouve dans l'une des situations mentionnées aux 1°, 2° et 3° consulte, par dérogation à l'article R. 6153-7 du code de la santé publique, le service de santé au travail de son centre hospitalier universitaire de rattachement. Ce service se rapproche du service de santé au travail de l'entité où l'étudiant accomplit son stage. L'étudiant transmet au directeur général de l'agence régionale de santé dont il relève les justificatifs nécessaires dont les avis médicaux et l'avis du médecin du service de santé au travail.
 
-II.-Lorsque l'étudiant de troisième cycle long des études odontologiques prend part à la procédure de choix de stage et qu'il est dans l'une des situations mentionnées aux 1°, 2° , 3° et 4° du I, il peut accomplir son stage en surnombre. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
+II.-Lorsque l'étudiant de troisième cycle long des études odontologiques prend part à la procédure de choix de stage et qu'il est dans l'une des situations mentionnées aux 1°, 2° , 3° et 4° du I, il peut accomplir son stage en surnombre. Lorsqu'il est placé dans l'une des situations mentionnées aux 1° et 2° du même I, il peut demander à accomplir un second stage en surnombre, consécutif au premier. Dans tous les cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique.
 
 A titre alternatif, cet étudiant peut, par dérogation aux dispositions de l'alinéa précédent, opter pour un stage en surnombre choisi indépendamment de son rang de classement. Ce stage n'est pas validé, quelle que soit sa durée.
 

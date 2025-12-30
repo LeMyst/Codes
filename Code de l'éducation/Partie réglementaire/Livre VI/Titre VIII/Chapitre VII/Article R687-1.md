@@ -36,9 +36,11 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 632-30 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
 | R. 632-31 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
 | R. 632-32 | Résultant du décret n° 2021-1497 du 17 novembre 2021 |
-| R. 632-33 | Résultant du décret n° 2023-179 du 15 mars 2023 |
+| R. 632-33 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | R. 632-34 à R. 632-43 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
-| R. 632-44 à R. 632-53 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
+| R. 632-44 à R. 632-48 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
+| R. 632-49 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
+| R. 632-50 à R. 632-53 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-54 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 632-55 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-56 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
@@ -60,7 +62,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 634-13 | Résultant du décret n° 2020-1057 du 14 août 2020 |
 | R. 634-14 | Résultant du décret n° 2016-675 du 25 mai 2016 |
 | R. 634-15 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
-| R. 634-15-1 | Résultant du décret n° 2021-1497 du 17 novembre 2021 |
+| R. 634-15-1 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | R. 634-16 | Résultant du décret n° 2016-675 du 25 mai 2016 |
 | R. 634-17 | Résultant du décret n° 2020-1057 du 14 août 2020 |
 | R. 634-18 à R. 634-21 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -136,6 +138,3 @@ c) Au premier alinéa du II et au deuxième alinéa du III, la deuxième phrase 
 d) Au premier alinéa du III, les mots : “ tel que défini à l'article L. 114 du code de l'action sociale et des familles ” sont supprimés ;
 
 e) Au IV, les mots : “ que la mise en disponibilité prévue à l'article R. 6153-26 du code de la santé publique ” sont remplacés par les mots : “ qu'une mise en disponibilité régulièrement autorisée par le directeur général du centre hospitalier universitaire de rattachement ”.
-
-NOTA:
-Conformément à l'article 6 du décret n° 2024-747 du 5 juillet 2024, ces dispositions entrent en vigueur à compter de la prochaine rentrée universitaire.

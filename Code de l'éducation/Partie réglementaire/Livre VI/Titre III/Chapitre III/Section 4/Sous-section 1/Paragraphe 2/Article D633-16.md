@@ -4,7 +4,7 @@ I.-Par dérogation au premier alinéa de l'article D. 633-15, les stages non val
 
 1° Etat de grossesse ;
 
-2° Congé de maternité, congé de paternité ou congé pour adoption ;
+2° Congé de maternité, congé d'adoption et congé de paternité et d'accueil de l'enfant ;
 
 3° Affection pouvant donner lieu à un congé de longue durée prévu à l' article R. 6153-15 du code de la santé publique ou à un congé de longue maladie prévu à l'article R. 6153-16 du même code ;
 
@@ -16,7 +16,7 @@ L'étudiant qui se trouve dans l'une des situations mentionnées aux 1° à 3° 
 
 L'année de recherche prévue par l' article D. 633-13 du code de l'éducation est prise en compte dans le calcul de l'ancienneté.
 
-II.-Lorsque l'étudiant de troisième cycle spécialisé des études pharmaceutiques prend part à la procédure de choix de stage et qu'il est dans l'une des situations mentionnées aux 1° à 4° du I, il peut accomplir son stage en surnombre. Dans ce cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique .
+II.-Lorsque l'étudiant de troisième cycle spécialisé des études pharmaceutiques prend part à la procédure de choix de stage et qu'il est dans l'une des situations mentionnées aux 1° à 4° du I, il peut accomplir son stage en surnombre. Lorsqu'il est placé dans l'une des situations mentionnées aux 1° et 2° du même I, il peut demander à accomplir un second stage en surnombre, consécutif au premier. Dans tous les cas, la validation du stage est soumise aux dispositions de l'article R. 6153-20 du code de la santé publique .
 
 A titre alternatif, cet étudiant peut, par dérogation aux dispositions de l'alinéa précédent, opter pour un stage en surnombre choisi indépendamment de son rang de classement. Ce stage n'est pas validé, quelle que soit sa durée.
 
@@ -33,6 +33,3 @@ Pour toute demande de stage en surnombre, cet étudiant consulte, par dérogatio
 IV.-Les étudiants de troisième cycle spécialisé des études pharmaceutiques qui ne participent pas à un choix semestriel ou annuel des postes en raison de l'interruption de leur formation pour un motif autre que la mise en disponibilité prévue à l' article R. 6153-26 du code de la santé publique et dûment justifié auprès du directeur général de l'agence régionale de santé pilote et du directeur de leur unité de formation et de recherche dispensant des formations pharmaceutiques d'inscription sont, à leur demande, affectés en stage, dans l'attente du choix semestriel ou annuel suivant. Ils accomplissent leur stage en surnombre, sur un poste agréé de leur région, proposé au choix semestriel ou annuel et auquel ils auraient eu accès au regard de leur ancienneté de fonctions validées et de leur rang de classement. Ce poste est arrêté par le directeur général de l'agence régionale de santé pilote, en lien avec le directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques.
 
 V.-Lorsque, en application des dispositions des II et III, l'étudiant de troisième cycle spécialisé des études pharmaceutiques demande à accomplir un stage en surnombre, il choisit à la fin de la procédure de choix, tout en conservant son rang de classement.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2022-1236 du 16 septembre 2022, ces dispositions s'appliquent à compter de la rentrée universitaire 2022-2023 aux étudiants inscrits au diplôme d'études spécialisées de pharmacie hospitalière.

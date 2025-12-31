@@ -22,7 +22,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 314-71, 1er et 3e alinéas | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82 D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 314-91 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 331-64-1 | Résultant du décret n° 2018-172 du 9 mars 2018 |
@@ -77,7 +77,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 336-10 | Résultant du décret n° 2019-1090 du 25 octobre 2019 |
 | D. 336-11 | Résultant du décret n° 2018-1199 du 20 décembre 2018 |
 | D. 336-12 | Résultant du décret n° 2018-614 du 16 juillet 2018 |
-| D. 336-13 et D. 336-14 | Résultant du décret n° 2022-143 du 8 février 2022 |
+| D. 336-13 et D. 336-14 | Résultant du décret n° 2025-1388 du 29 décembre 2025 |
 | D. 336-15 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 336-15-1 | Résultant du décret n° 2018-614 du 16 juillet 2018 |
 | D. 336-16 | Résultant du décret n° 2006-583 du 23 mai 2006 |

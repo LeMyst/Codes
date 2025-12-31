@@ -28,7 +28,7 @@ III.-Cette information et cette formation portent, notamment, sur :
 
 7° Les règles particulières établies pour les femmes enceintes ou qui allaitent, les travailleurs de moins de 18 ans, les travailleurs titulaires d'un contrat de travail à durée déterminée et les travailleurs temporaires ;
 
-8° Les modalités de surveillance de l'exposition individuelle et d'accès aux résultats dosimétriques ;
+8° Les modalités de surveillance de l'exposition et d'accès aux résultats dosimétriques ;
 
 9° La conduite à tenir en cas d'accident ou d'incident ;
 

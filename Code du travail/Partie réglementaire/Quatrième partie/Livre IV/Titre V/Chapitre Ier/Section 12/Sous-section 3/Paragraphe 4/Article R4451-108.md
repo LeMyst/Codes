@@ -4,4 +4,4 @@ A l'issue de la situation d'urgence radiologique, le médecin du travail prescri
 
 Il établit pour chaque travailleur un bilan dosimétrique qu'il consigne dans le dossier médical en santé au travail mentionné à l'article L. 4624-8 et qu'il remet au travailleur.
 
-Il recourt, si nécessaire, à l'appui technique l'Autorité de sûreté nucléaire et de radioprotection.
+Il recourt, si nécessaire, à l'appui technique de l'Autorité de sûreté nucléaire et de radioprotection.

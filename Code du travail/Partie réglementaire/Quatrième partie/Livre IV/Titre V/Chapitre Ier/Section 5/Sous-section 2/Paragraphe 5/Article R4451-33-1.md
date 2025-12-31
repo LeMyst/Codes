@@ -4,7 +4,7 @@ I.-A des fins de surveillance radiologique préventive et d'alerte en cas d'expo
 
 1° Tout travailleur entrant dans une zone contrôlée définie au 1° du I de l'article R. 4451-23 ;
 
-2° Les travailleurs classés au sens de l'article R. 4451-57, autorisés à effectuer des manipulations dans une zone d'extrémités définie au 3° du I de l'article R. 4451-23 ;
+2° Les travailleurs classés au sens de l'article R. 4451-57, autorisés à effectuer des manipulations dans une zone d'extrémités définie au 2° du I de l'article R. 4451-23 ;
 
 3° Les travailleurs classés au sens de l'article R. 4451-57, autorisés à intervenir dans une zone d'opération définie à l'article R. 4451-28.
 

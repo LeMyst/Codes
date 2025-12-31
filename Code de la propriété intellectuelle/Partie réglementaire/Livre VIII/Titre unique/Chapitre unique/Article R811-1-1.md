@@ -32,7 +32,7 @@ Les articles R. 321-4-1, R. 321-29, R. 328-1 à R. 328-8, R. 329-13 à R. 329-20
 | Articles R. 411-1-1 et R. 411-1-2 | Décret n° 2007-280 du 1er mars 2007 |
 | Article R. 411-1-4 | Décret n° 2015-595 du 2 juin 2015 |
 | Article R. 411-2 | Décret n° 2004-199 du 25 février 2004 |
-| Article R. 411-3 | Décret n° 2015-515 du 7 mai 2015 |
+| Article R. 411-3 | Décret n° 2025-1358 du 26 décembre 2025 |
 | Article R. 411-4 | Décret n° 2004-199 du 25 février 2004 |
 | Article R. 411-5 | Décret n° 2007-280 du 1er mars 2007 |
 | Article R. 411-6 | Décret n° 95-385 du 10 avril 1995 |

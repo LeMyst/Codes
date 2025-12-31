@@ -1,18 +1,20 @@
 # Article L165-2
 
-I.-Les tarifs de responsabilité de chacun des produits ou prestations mentionnés à l'article L. 165-1 inscrits sous forme de nom de marque ou de nom commercial sont établis par convention entre l'exploitant ou le distributeur au détail du produit ou de la prestation concerné et le Comité économique des produits de santé dans les mêmes conditions que les conventions visées à l'article L. 162-17-4 ou, à défaut, par décision du Comité économique des produits de santé.
+I.-Les tarifs de responsabilité de chacun des produits mentionnés à l'article L. 165-1 inscrits sous forme de nom de marque ou de nom commercial sont établis par convention entre l'exploitant du produit concerné et le Comité économique des produits de santé dans les conditions prévues au I de l'article L. 165-4-1 ou, à défaut, par décision du comité.
 
-Les tarifs de responsabilité des produits ou prestations mentionnés à l'article L. 165-1 inscrits par description générique ou par description générique renforcée sont établis par convention entre un ou plusieurs exploitants ou distributeurs au détail des produits ou prestations répondant à la description générique ou, le cas échéant, une organisation regroupant ces exploitants ou distributeurs au détail et le Comité économique des produits de santé dans les conditions prévues à l'article L. 165-3-3 ou, à défaut, par décision du Comité économique des produits de santé.
+Les tarifs de responsabilité des produits ou des prestations mentionnés à l'article L. 165-1 inscrits par description générique ou par description générique renforcée sont établis par convention entre un ou plusieurs exploitants ou distributeurs au détail des produits ou prestations répondant à la description générique ou, le cas échéant, une organisation regroupant ces exploitants ou distributeurs au détail et le Comité économique des produits de santé dans les conditions prévues à l'article L. 165-3-3 ou, à défaut, par décision du Comité économique des produits de santé.
 
 La fixation de ce tarif tient compte principalement de l'amélioration éventuelle du service attendu ou rendu, le cas échéant, des résultats de l'évaluation médico-économique des tarifs des produits ou prestations comparables, des volumes de vente prévus ou constatés, des montants remboursés par l'assurance maladie obligatoire prévus ou constatés et des conditions prévisibles et réelles d'utilisation. Elle peut également tenir compte, à la demande des ministres chargés de la santé et de la sécurité sociale, de l'appartenance aux classes définies en application du deuxième alinéa de l'article L. 165-1. Pour les produits ou prestations inscrits sous forme de nom de marque ou de nom commercial, la fixation de ce tarif peut également tenir compte de la sécurité d'approvisionnement du marché français que garantit l'implantation des sites de production. Elle ne peut tenir compte des fonctions de télésurveillance, lorsqu'elles existent.
 
+Ce tarif comprend les marges prévues, le cas échéant, par la décision mentionnée à l'article L. 165-3-4 ainsi que les taxes en vigueur.
+
 II.-Le tarif de responsabilité mentionné au I peut être fixé à un niveau inférieur ou baissé, par convention ou, à défaut, par décision du Comité économique des produits de santé, au regard d'au moins l'un des critères suivants :
 
-1° L'ancienneté de l'inscription du produit ou de la prestation associée, ou d'un ensemble de produits et de prestations comparables, sur la liste prévue à l'article L. 165-1 ;
+1° L'ancienneté de l'inscription du produit ou de la prestation, ou d'un ensemble de produits et de prestations comparables, sur la liste prévue à l'article L. 165-1 ;
 
-2° Les tarifs des produits et prestations comparables et les remises applicables au produit ou à la prestation et à ceux comparables recouvrées dans les conditions prévues à l'article L. 165-4 au bénéfice de la Caisse nationale de l'assurance maladie ;
+2° Les tarifs des produits et des prestations comparables et les remises applicables au produit ou à la prestation et à ceux comparables recouvrées dans les conditions prévues à l'article L. 165-4 au bénéfice de la Caisse nationale de l'assurance maladie ;
 
-3° Le prix d'achat des produits et prestations constaté par les établissements de santé ou les distributeurs de gros ou de détail, compte tenu des remises, ristournes et avantages commerciaux et financiers assimilés de toute nature consentis, y compris les rémunérations de services prévues à l'article L. 441-3 du code de commerce ;
+3° Le prix d'achat des produits et des prestations constaté par les établissements de santé ou les distributeurs de gros ou de détail, compte tenu des remises, ristournes et avantages commerciaux et financiers assimilés de toute nature consentis, y compris les rémunérations de services prévues à l'article L. 441-3 du code de commerce ;
 
 4° Le coût net de remises pour l'assurance maladie obligatoire du produit ou de la prestation concernés et des autres produits ou prestations utilisés concomitamment ou séquentiellement avec ce produit ou cette prestation, notamment par rapport au coût net de remises de produits ou de prestations comparables utilisés seuls ou, le cas échéant, en association concomitamment ou séquentiellement ;
 
@@ -35,4 +37,4 @@ IV.-Le cadre des conventions mentionnées aux I et II du présent article peut �
 V.-Par dérogation aux I et II, le tarif de responsabilité des produits et prestations n'appartenant pas aux classes à prise en charge renforcée définies en application du deuxième alinéa de l'article L. 165-1 peut être fixé par arrêté des ministres chargés de la santé et de la sécurité sociale.
 
 NOTA:
-Conformément au VII de l'article 36 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2022.
+Conformément au III de l’article 58 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur dans des conditions et à des dates fixées par décret, et au plus tard le 31 décembre 2025, en fonction des catégories de produits ou prestations concernées.

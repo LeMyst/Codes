@@ -22,13 +22,10 @@ IV. – Le représentant légal de l'établissement peut présenter ses observat
 
 A l'expiration de ce délai et après avis de l'organisme local d'assurance maladie, le directeur général de l'agence régionale de santé notifie à l'établissement, par tout moyen permettant de rapporter la preuve de la date de réception, sa décision définitive qui indique le montant final de la dotation prévue au titre des intéressements ainsi que les voies et délais de recours.
 
-Le directeur général de l'agence régionale de santé fait connaître, simultanément, sa décision au directeur de l'organisme local d'assurance maladie et au service du contrôle médical placé auprès de ce dernier.
+Le directeur général de l'agence régionale de santé fait connaître sa décision au directeur de l'organisme local d'assurance maladie.
 
 V. – Les intéressements notifiés par le directeur général de l'agence régionale de santé au directeur de l'établissement sont fixés :
 
 1° En fonction du degré de réalisation de l'ensemble des objectifs relatifs aux indicateurs régionaux fixés au contrat d'amélioration de la qualité et de l'efficience des soins mentionné à l'article L. 162-30-2 pour les intéressements régionaux ;
 
 2° En fonction du degré de réalisation des objectifs d'économies constatées sur les dépenses d'assurance maladie, selon des modalités et des référentiels nationaux fixés par arrêté, pour les intéressements nationaux, révisés le cas échéant à la baisse par le directeur général de l'agence régionale de santé en fonction du degré de réalisation de l'ensemble des objectifs fixés par le contrat mentionné au 1°.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2021-1231 du 25 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

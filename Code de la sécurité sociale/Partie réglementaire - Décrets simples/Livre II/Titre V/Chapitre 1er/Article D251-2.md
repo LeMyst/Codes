@@ -12,7 +12,7 @@ Les gestions budgétaires comprennent :
 
 5°) l'action sanitaire des caisses d'allocations familiales d'outre-mer (FASO),
 
-6°) le contrôle médical,
+6°) (Abrogé),
 
 7°) la prévention des accidents du travail et des maladies professionnelles,
 

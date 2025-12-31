@@ -22,7 +22,9 @@ Lorsqu'il est fait application des dispositions de l'article L. 8271-6-1 du code
 
 Sauf dans le cas où le contrôle est réalisé pour rechercher des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail ou lorsqu'est constatée la situation d'obstacle à l'accomplissement des fonctions des agents de contrôle prévue à l'article L. 243-12-1 du présent code, l'agent chargé du contrôle propose à la personne contrôlée ou à son représentant légal, avant d'adresser la lettre d'observations mentionnée au III, une information sous la forme d'un entretien afin de lui présenter, le cas échéant, les constats susceptibles de faire l'objet d'une observation ou d'un redressement.
 
-III.-A l'issue du contrôle ou lorsqu'un constat d'infraction de travail dissimulé a été transmis en application des dispositions de l'article L. 8271-6-4 du code du travail afin qu'il soit procédé à un redressement des cotisations et contributions dues, les agents chargés du contrôle mentionnés à l'article L. 243-7 communiquent au représentant légal de la personne morale contrôlée ou au travailleur indépendant une lettre d'observations datée et signée par eux mentionnant l'objet du contrôle réalisé par eux ou par d'autres agents mentionnés à l'article L. 8271-1-2 du code du travail, le ou les documents consultés, la période vérifiée, le cas échéant, la date de la fin du contrôle et les observations faites au cours de celui-ci.
+III.-A l'issue du contrôle ou lorsqu'un constat d'infraction de travail dissimulé a été transmis en application des dispositions de l'article L. 8271-6-4 du code du travail afin qu'il soit procédé à un redressement des cotisations et contributions dues, les agents chargés du contrôle mentionnés à l'article L. 243-7 communiquent au représentant légal de la personne morale contrôlée ou au travailleur indépendant une lettre d'observations datée et signée par au moins l'un d'entre eux mentionnant l'objet du contrôle réalisé par eux ou par d'autres agents mentionnés à l'article L. 8271-1-2 du code du travail, le ou les documents consultés, la période vérifiée, le cas échéant, la date de la fin du contrôle et les observations faites au cours de celui-ci.
+
+Lorsqu'il est envisagé d'appliquer la pénalité prévue au deuxième alinéa de l'article L. 243-7-2, la lettre d'observations est contresignée par le directeur de l'organisme dont relève la personne contrôlée.
 
 Lorsqu'une infraction mentionnée à l'article L. 8221-1 du code du travail a été constatée, la lettre d'observations mentionne en outre, le cas échéant :
 
@@ -53,6 +55,3 @@ Lorsqu'un solde créditeur en faveur de la personne contrôlée résulte de l'en
 Les dispositions du chapitre II du titre IV du livre Ier sont applicables aux observations de l'organisme ainsi qu'à l'avis de crédit, mentionnés respectivement aux deuxième et troisième alinéas du présent IV.
 
 V.-Les documents mentionnés au présent article sont adressés à la personne contrôlée selon les modalités définies au troisième alinéa du I.
-
-NOTA:
-Se reporter aux conditions d’application prévues aux I et II de l’article 4 du décret n° 2023-262 du 12 avril 2023.

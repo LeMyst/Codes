@@ -24,19 +24,16 @@ Par dérogation au premier alinéa :
 
 1° Lorsqu'une partie des revenus dus au titre d'une période précédente est habituellement et régulièrement versée en même temps que les revenus dus au titre d'une période postérieure, les règles applicables sont celles en vigueur au terme de cette dernière période ;
 
-2° Lorsque des éléments de rémunération sont habituellement et régulièrement versés selon une périodicité différente du mois, conformément aux dispositions légales ou conventionnelles, les règles applicables sont celles en vigueur pour la période d'activité correspondant à la rémunération avec laquelle ces éléments de rémunération sont versés ;
+2° Lorsque des éléments de rémunération sont habituellement et régulièrement versés selon une périodicité différente du mois, conformément aux dispositions légales ou conventionnelles, les règles applicables sont celles en vigueur pour la période d'activité correspondant à la rémunération avec laquelle ces éléments de rémunération sont versés. Pour le salarié ayant quitté l'entreprise, les règles applicables sont celles retenues pour le versement de ces mêmes éléments de rémunération aux salariés de l'entreprise ;
 
-3° Lorsque les éléments de rémunération mentionnés au 2° sont versés postérieurement à la fin de la relation de travail ou que les revenus sont dus au titre de la fin de la relation de travail, les règles applicables sont celles en vigueur au terme de la dernière période d'activité ayant donné lieu à rémunération.
+3° Lorsque des éléments de rémunérations sont dus au titre de la fin de la relation de travail, les règles applicables sont celles en vigueur au terme de la dernière période d'emploi.
 
 III.-Les cotisations et contributions de sécurité sociale dues sur les sommes déclarées dans les conditions prévues au II bis de l'article L. 133-5-3, à l'exclusion de celles mentionnées au I, sont calculées pour chaque période au titre desquelles celles-ci sont attribuées.
 
-IV.-Les règles applicables pour le calcul des cotisations et contributions sociales dues sur les sommes mentionnés au III, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période au titre de laquelle les sommes sont attribuées.
+IV.-Les règles applicables pour le calcul des cotisations et contributions sociales dues sur les sommes mentionnées au III, notamment en matière d'assiette, de taux, de plafond et d'exonération, sont celles en vigueur au terme de la période au titre de laquelle les sommes sont attribuées.
 
 Pour les sommes qui sont versées selon une périodicité supérieure au mois, les règles applicables sont celles en vigueur :
 
 1° Au terme du premier mois de la période, pour les prestations ou revenus versés à terme à échoir ;
 
 2° Au terme du dernier mois de la période, pour les prestations ou revenus versés à terme échu.
-
-NOTA:
-Conformément au IV de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, le II de l'article R. 242-1 du code de la sécurité sociale dans sa rédaction issue dudit décret s'applique aux sommes versées à compter du 1er janvier 2025.

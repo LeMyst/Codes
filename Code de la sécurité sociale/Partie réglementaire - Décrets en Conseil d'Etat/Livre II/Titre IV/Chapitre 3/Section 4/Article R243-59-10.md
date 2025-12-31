@@ -10,4 +10,4 @@ I.-Lorsqu'il utilise des documents ou informations dans les conditions des dispo
 
 La lettre d'observations mentionne en outre la faculté offerte à la personne contrôlée de demander une copie des documents mentionnés au présent article.
 
-II.-Lorsque la personne contrôlée a demandé la communication d'une copie dans le délai prévu au huitième alinéa du III de l'article R. 243-59, la période contradictoire prévue à ces dispositions ne prend fin qu'à la date d'envoi de la copie, sauf si cette date est antérieure à celle de la réponse de l'agent chargé du contrôle mentionnée au dernière alinéa de ce même III.
+II.-Lorsque la personne contrôlée a demandé la communication d'une copie dans le délai prévu au neuvième alinéa du III de l'article R. 243-59, la période contradictoire prévue à ces dispositions ne prend fin qu'à la date d'envoi de la copie, sauf si cette date est antérieure à celle de la réponse de l'agent chargé du contrôle mentionnée au dernière alinéa de ce même III.

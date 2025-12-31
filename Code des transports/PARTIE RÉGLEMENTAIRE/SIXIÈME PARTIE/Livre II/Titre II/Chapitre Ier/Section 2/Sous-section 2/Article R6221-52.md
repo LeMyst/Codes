@@ -1,5 +1,9 @@
 # Article R6221-52
 
-L'exercice de fonctions d'information de vol et d'alerte sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, est subordonné à la délivrance par le ministre chargé de l'aviation civile d'une qualification attestant l'acquisition de connaissances théoriques et pratiques. Les modalités selon lesquelles sont formés et évalués les candidats à cette qualification ainsi que les conditions de délivrance et de validité de cette qualification sont déterminées par arrêté du ministre chargé de l'aviation civile.\
-En cas d'incident, la qualification peut être suspendue par l'autorité qui l'a délivrée, le temps nécessaire pour assurer la sécurité et pour une durée maximale de deux mois.\
+L'exercice de fonctions d'information de vol et d'alerte sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, est subordonné à la délivrance par le ministre chargé de l'aviation civile d'une qualification attestant l'acquisition de connaissances théoriques et pratiques. Les modalités selon lesquelles sont formés et évalués les candidats à cette qualification ainsi que les conditions de délivrance et de validité de cette qualification sont déterminées par arrêté du ministre chargé de l'aviation civile.
+
+En cas d'incident, la qualification peut être suspendue par l'autorité qui l'a délivrée, le temps nécessaire pour assurer la sécurité et pour une durée maximale de deux mois.
+
 En cas de négligence grave, la qualification peut être retirée par l'autorité qui l'a délivrée. La décision de retrait est prise après que l'intéressé a été invité à présenter ses observations. Toutefois, en cas d'urgence, la décision de retrait peut être prononcée sans formalité.
+
+Sans préjudice du premier alinéa, l'attestation de l'acquisition de connaissances théoriques et pratiques par un évaluateur désigné par le ministre chargé de l'aviation civile autorise temporairement l'exercice de fonctions d'information de vol et d'alerte sur un aérodrome dans lequel le service du contrôle de la circulation aérienne n'est pas assuré, dans l'attente de la délivrance de la qualification.

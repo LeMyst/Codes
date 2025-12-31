@@ -66,7 +66,7 @@ b) Le dernier alinéa est ainsi rédigé :
 
 20° A l'article R. 6325-58, la troisième phrase est supprimée ;
 
-21° A l'article R. 6325-59, les mots : " que, pour les aérodromes de l'Etat, au préfet ayant créé la commission " sont remplacés par les mots : " qu'au haut-commissaire de la République en Nouvelle-Calédonie " ;
+21° A l'article R. 6325-59, les mots : " que, pour les aérodromes de l'Etat, au préfet ayant créé la commission " sont remplacés par les mots : " qu'au haut-commissaire de la République en Polynésie française " ;
 
 22° A l'article R. 6325-82, les mots : " , par l'Autorité de régulation des transports lorsqu'elle est compétente en application de l'article L. 6327-1 " sont supprimés ;
 
@@ -80,10 +80,22 @@ b) Le dernier alinéa est ainsi rédigé :
 
 27° A l'article R. 6341-28, les mots : " en application de l'article R. 6412-17 " sont supprimés ;
 
-28° A l'article R. 6351-2, les mots : " définis par l'article D. 6312-17 " sont supprimés ;
+28° L'article R. 6342-8 est ainsi rédigé :
 
-29° Aux articles R. 6351-12 et R. 6351-13, les mots : " le ministre chargé de l'aviation civile " et " le ministre de la défense " sont respectivement remplacés par les mots : " chef du service d'Etat de l'aviation civile en Polynésie française " et " le commandant supérieur des forces armées territorialement compétents " ;
+“ Art. R. 6342-8.-Après instruction par les services de l'aviation civile, l'agrément de sûreté prévu par l'article R. 6342-2 est délivré, pour une durée maximale de cinq ans, par le représentant de l'Etat. Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour délivrer cet agrément au directeur du service d'Etat de l'aviation civile en Polynésie française, ainsi qu'aux fonctionnaires placés sous son autorité. ” ;
 
-30° A l'article R. 6351-34, les références aux dispositions du code de l'environnement sont remplacées par les références ayant le même objet applicables localement ;
+29° L'article R. 6342-10 est ainsi modifié :
 
-31° A l'article R. 6372-3, les mots : " L. 6361-14, " sont supprimés.
+a) Les mots : “ ministre chargé de l'aviation civile ” sont remplacés par les mots : “ représentant de l'Etat ” ;
+
+b) Le premier alinéa est complété par une phrase ainsi rédigée : “ Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour prendre ces mesures au directeur du service d'Etat de l'aviation civile en Polynésie française, ainsi qu'aux fonctionnaires placés sous son autorité. ” ;
+
+c) Au 31°, les mots : “ articles R. 6351-12 et R. 6351-13 ” sont remplacés par les mots : “ articles R. 6351-7, R. 6351-12, R. 6351-13 et R. 6351-15 ”
+
+30° A l'article R. 6351-2, les mots : " définis par l'article D. 6312-17 " sont supprimés ;
+
+31° Aux articles R. 6351-12 et R. 6351-13, les mots : " le ministre chargé de l'aviation civile " et " le ministre de la défense " sont respectivement remplacés par les mots : " chef du service d'Etat de l'aviation civile en Polynésie française " et " le commandant supérieur des forces armées territorialement compétents " ;
+
+32° A l'article R. 6351-34, les références aux dispositions du code de l'environnement sont remplacées par les références ayant le même objet applicables localement ;
+
+33° A l'article R. 6372-3, les mots : " L. 6361-14, " sont supprimés.

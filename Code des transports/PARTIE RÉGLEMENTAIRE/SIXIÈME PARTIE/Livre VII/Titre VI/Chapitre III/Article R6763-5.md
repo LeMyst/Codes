@@ -52,42 +52,52 @@ b) Le dernier alinéa est ainsi rédigé :
 
 16° A l'article R. 6325-48, les mots : “ R. 6325-43 à R. 6325-47 ” sont remplacés par les mots : “ R. 6325-43 à R. 6325-46 ” et les mots : “ R. 6325-43 et R. 6523-45 à R. 6325-47 ” sont remplacés par les mots : “ R. 6325-43 à R. 6325-45 ” ;
 
-17° A l'article R. 6325-53, les références au deuxième alinéa de l'article L. 6325-1 sont remplacées par les références à l'article R. 6325-22 ;
+17° Au dernier alinéa des articles R. 6325-53 et R. 6325-62, les mots : " ainsi qu'à l'Autorité de régulation des transports, lorsqu'elle est compétente en application de l'article L. 6327-1 " sont supprimés ;
 
-18° Au dernier alinéa des articles R. 6325-53 et R. 6325-62, les mots : " ainsi qu'à l'Autorité de régulation des transports, lorsqu'elle est compétente en application de l'article L. 6327-1 " sont supprimés ;
+18° La dernière phrase de l'article R. 6325-55 est supprimée ;
 
-16° A l'article R. 6325-48, les mots : “ R. 6325-43 à R. 6325-47 ” sont remplacés par les mots : “ R. 6325-43 à R. 6325-46 ” et les mots : “ R. 6325-43 et R. 6523-45 à R. 6325-47 ” sont remplacés par les mots : “ R. 6325-43 à R. 6325-45 ” ;
-
-20° L'article R. 6325-56 est ainsi rédigé :
+19° L'article R. 6325-56 est ainsi rédigé :
 
 " Art. R. 6325-56.-La commission est créée par le haut-commissaire de la République en Nouvelle-Calédonie, sur proposition du directeur de l'aviation civile en Nouvelle-Calédonie. " ;
 
-21° L'article R. 6325-57 est ainsi rédigé :
+20° L'article R. 6325-57 est ainsi rédigé :
 
 " Art. R. 6325-57.-Les membres de la commission sont désignés par le haut-commissaire de la République en Nouvelle-Calédonie, sur proposition du directeur de l'aviation civile en Nouvelle-Calédonie. " ;
 
-22° A l'article R. 6325-58, la troisième phrase est supprimée ;
+21° A l'article R. 6325-58, la troisième phrase est supprimée ;
 
-23° A l'article R. 6325-59, les mots : " que, pour les aérodromes de l'Etat, au préfet ayant créé la commission " sont remplacés par les mots : " qu'au haut-commissaire de la République en Nouvelle-Calédonie " ;
+22° A l'article R. 6325-59, les mots : " que, pour les aérodromes de l'Etat, au préfet ayant créé la commission " sont remplacés par les mots : " qu'au haut-commissaire de la République en Nouvelle-Calédonie " ;
 
-24° A l'article R. 6325-82, les mots : ", par l'Autorité de régulation des transports lorsqu'elle est compétente en application de l'article L. 6327-1 " sont supprimés ;
+23° A l'article R. 6325-82, les mots : ", par l'Autorité de régulation des transports lorsqu'elle est compétente en application de l'article L. 6327-1 " sont supprimés ;
 
-25° Aux articles R. 6325-93 et R. 6325-94, les mots : " Sous réserve des stipulations contraires de la convention prévue à l'article L. 6321-3 " sont supprimés ;
+24° Aux articles R. 6325-93 et R. 6325-94, les mots : " Sous réserve des stipulations contraires de la convention prévue à l'article L. 6321-3 " sont supprimés ;
 
-26° Les dispositions des sections 1 et 2 du chapitre Ier du titre III, des sections 2 et 3 du chapitre II du titre III ainsi que du chapitre Ier du titre V sont applicables en tant qu'elles concernent les aérodromes d'Etat ;
+25° Les dispositions des sections 1 et 2 du chapitre Ier du titre III, des sections 2 et 3 du chapitre II du titre III ainsi que du chapitre Ier du titre V sont applicables en tant qu'elles concernent les aérodromes d'Etat ;
 
-27° A l'article R. 6331-3, les mots : " ministre chargé de l'aviation civile " sont remplacés par les mots : " représentant de l'Etat. Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour délivrer ce certificat au directeur de la direction de l'aviation civile en Nouvelle-Calédonie, ainsi qu'aux fonctionnaires placés sous son autorité. " ;
+26° A l'article R. 6331-3, les mots : " ministre chargé de l'aviation civile " sont remplacés par les mots : " représentant de l'Etat. Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour délivrer ce certificat au directeur de la direction de l'aviation civile en Nouvelle-Calédonie, ainsi qu'aux fonctionnaires placés sous son autorité. " ;
 
-28° A l'article R. 6341-13, les mots : " de l'Union Européenne " sont supprimés ;
+27° A l'article R. 6341-13, les mots : " de l'Union Européenne " sont supprimés ;
 
-29° A l'article R. 6341-27, les mots : ", R. 6412-19 " sont supprimés ;
+28° A l'article R. 6341-27, les mots : ", R. 6412-19 " sont supprimés ;
 
-30° A l'article R. 6341-28, les mots : " en application de l'article R. 6412-17 " sont supprimés ;
+29° A l'article R. 6341-28, les mots : " en application de l'article R. 6412-17 " sont supprimés ;
 
-31° A l'article R. 6351-2, les mots : " définis par l'article D. 6312-17 " sont supprimés ;
+30° L'article R. 6342-8 est ainsi rédigé :
 
-32° Aux articles R. 6351-12 et R. 6351-13, les mots : " le ministre chargé de l'aviation civile " et " le ministre de la défense " sont respectivement remplacés par les mots : " directeur de l'aviation civile en Nouvelle-Calédonie " et " le commandant supérieur des forces armées territorialement compétents " ;
+“ Art. R. 6342-8.-Après instruction par les services de l'aviation civile, l'agrément de sûreté prévu par l'article R. 6342-2 est délivré, pour une durée maximale de cinq ans, par le représentant de l'Etat. Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour délivrer cet agrément au directeur de la direction de l'aviation civile en Nouvelle-Calédonie, ainsi qu'aux fonctionnaires placés sous son autorité. ” ;
 
-33° A l'article R. 6351-34, les références aux dispositions du code de l'environnement sont remplacées par les références ayant le même objet applicables localement ;
+31° L'article R. 6342-10 est ainsi modifié :
 
-34° Les dispositions du chapitre II du titre V sont applicables en tant qu'elles concernent les ouvrages susceptibles de présenter un risque pour la navigation aérienne internationale.
+a) Les mots : “ ministre chargé de l'aviation civile ” sont remplacés par les mots : “ représentant de l'Etat ” ;
+
+b) Le premier alinéa est complété par une phrase ainsi rédigée : “ Le représentant de l'Etat peut, par arrêté, déléguer sa signature pour prendre ces mesures au directeur de la direction de l'aviation civile en Nouvelle-Calédonie, ainsi qu'aux fonctionnaires placés sous son autorité. ”
+
+32° A l'article R. 6351-2, les mots : " définis par l'article D. 6312-17 " sont supprimés ;
+
+33° Aux articles R. 6351-7, R. 6351-12, R. 6351-13 et R. 6351-15, les mots : " le ministre chargé de l'aviation civile " et " le ministre de la défense " sont respectivement remplacés par les mots : " directeur de l'aviation civile en Nouvelle-Calédonie " et " le commandant supérieur des forces armées territorialement compétents " ;
+
+34° A l'article R. 6351-34, les références aux dispositions du code de l'environnement sont remplacées par les références ayant le même objet applicables localement ;
+
+35° Les dispositions du chapitre II du titre V sont applicables en tant qu'elles concernent les ouvrages susceptibles de présenter un risque pour la navigation aérienne internationale ;
+
+36° A l'article R. 6372-3, les mots : “ L. 6361-14 ” sont supprimés.

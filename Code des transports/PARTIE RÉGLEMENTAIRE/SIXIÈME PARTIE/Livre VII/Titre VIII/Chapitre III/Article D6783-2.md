@@ -36,8 +36,11 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 | D. 6341-45 à D. 6341-54 | |
 | Titre V | |
 | D. 6351-6 | |
-| D. 6351-9 et D. 6351-10 | |
-| D. 6351-16 et D. 6351-17 | |
+| D. 6351-9 | Décret n° 2025-1373 du 26 décembre 2025 |
+| D. 6351-10 | |
+| D. 6351-16 | Décret n° 2025-1373 du 26 décembre 2025 |
+| D. 6351-17 | |
 | D. 6351-21 et D. 6351-22 | |
-| D. 6351-26 à D. 6351-28 | |
+| D. 6351-26 et D. 6351-27 | |
+| D. 6351-28 | Décret n° 2025-1373 du 26 décembre 2025 |
 | D. 6352-7 à D. 6352-9 | |

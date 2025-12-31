@@ -5,9 +5,15 @@ Sous réserve des adaptations prévues par le présent chapitre, et des compéte
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
 | --- | --- |
 | Titre I | |
-| R. 6511-1 à R. 6511-24 | |
+| R. 6511-1 | Décret n° 2025-1371 du 26 décembre 2025 |
+| R. 6511-2 et R. 6511-3 | |
+| R. 6511-4 | Décret n° 2025-1371 du 26 décembre 2025 |
+| R. 6511-5 à R. 6511-24 | |
 | Titre II | |
-| R. 6521-1 à R. 6521-34 | |
+| R. 6521-1 à R. 6521-4 | |
+| R. 6521-17 à R. 6521-31 | |
+| R. 6521-32 | Décret n° 2025-1371 du 26 décembre 2025 |
+| R. 6521-33 et R. 6521-34 | |
 | R. 6522-1 à R. 6522-3 | |
 | Titre III | |
 | R. 6530-1 à R. 6530-12 | |

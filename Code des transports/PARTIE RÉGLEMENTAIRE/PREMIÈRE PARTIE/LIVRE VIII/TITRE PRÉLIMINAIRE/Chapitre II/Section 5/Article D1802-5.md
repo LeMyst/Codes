@@ -18,4 +18,8 @@ Pour leur application à Saint-Pierre-et-Miquelon, les dispositions du présent 
 
 8° Les références au préfet maritime sont remplacées par celles du délégué du Gouvernement pour l'action de l'Etat en mer ;
 
-9 Les attributions dévolues au directeur régional de l'économie, de l'emploi, du travail et des solidarités sont exercées par le directeur de l'économie, de l'emploi, du travail et des solidarités.
+9 Les attributions dévolues au directeur régional de l'économie, de l'emploi, du travail et des solidarités sont exercées par le directeur de l'économie, de l'emploi, du travail et des solidarités ;
+
+10° Les références au directeur interrégional de la direction de la sécurité de l'aviation civile sont remplacées par les références au chef du service de l'aviation civile à Saint-Pierre-et-Miquelon ;
+
+11° Les références à la direction interrégionale de la sécurité de l'aviation civile sont remplacées par les références au service de l'aviation civile à Saint-Pierre-et-Miquelon.

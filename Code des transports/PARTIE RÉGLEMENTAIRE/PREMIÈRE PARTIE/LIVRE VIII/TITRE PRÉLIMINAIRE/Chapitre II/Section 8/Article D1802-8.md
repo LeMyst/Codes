@@ -14,4 +14,8 @@ Les dispositions du présent code applicables à Wallis-et-Futuna sont ainsi ada
 
 6° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés des activités maritimes, par des références au directeur ou chef de service compétent, à défaut, elles sont exercées par le représentant de l'Etat dans la collectivité et ses services ;
 
-7° Les attributions dévolues au directeur régional de l'économie, de l'emploi, du travail et des solidarités sont exercées par le chef du service de l'inspection du travail et des affaires sociales.
+7° Les attributions dévolues au directeur régional de l'économie, de l'emploi, du travail et des solidarités sont exercées par le chef du service de l'inspection du travail et des affaires sociales ;
+
+8° Les références au directeur interrégional de la direction de la sécurité de l'aviation civile sont remplacées par les références au directeur du service d'Etat de l'aviation civile des îles Wallis et Futuna ;
+
+9° Les références à la direction interrégionale de la sécurité de l'aviation civile sont remplacées par les références au service d'Etat de l'aviation civile des îles Wallis et Futuna.

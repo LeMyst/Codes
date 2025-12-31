@@ -344,8 +344,6 @@ Les articles D. 232-8-1 et R. 232-8-2 sont applicables dans leur rédaction rés
 
 L'article R. 232-22 est applicable dans sa rédaction résultant du décret n° 2019-1207 du 20 novembre 2019 ;
 
-Les articles R. 232-23 et R. 232-24 sont applicables dans leur rédaction résultant du décret n° 2023-493 du 22 juin 2023.
-
 L'article R. 233-2 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
 
 L'article R. 233-16 est applicable dans sa rédaction résultant du décret n° 2020-100 du 7 février 2020 ;

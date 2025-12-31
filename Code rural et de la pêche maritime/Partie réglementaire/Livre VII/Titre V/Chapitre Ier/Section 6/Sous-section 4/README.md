@@ -1,1 +1,1 @@
-Sous-section 4 : Dispositions diverses et contentieux
+Sous-section 4 : Règles propres à certains accidents du travail

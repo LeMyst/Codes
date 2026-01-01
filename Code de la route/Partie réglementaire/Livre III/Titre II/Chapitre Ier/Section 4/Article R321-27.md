@@ -1,0 +1,10 @@
+# Article R321-27
+
+Un constructeur auquel a été octroyée une réception nationale par type de véhicule de catégorie M, N, O, L, T, C, R ou S doit rappeler les véhicules déjà vendus, immatriculés ou mis en service lorsqu'un ou plusieurs systèmes, composants ou entités techniques installés sur ces véhicules, qu'ils aient ou non été dûment réceptionnés, présentent un risque grave pour la sécurité routière, la santé publique ou l'environnement. Il en informe immédiatement l'autorité chargée de la surveillance du marché des véhicules et des moteurs ainsi qu'en cas de non-conformité à la réception nationale par type, l'autorité de réception pour ces véhicules et leur expose les mesures correctrices qu'il a prises en vue de neutraliser le risque. L'autorité chargée de la surveillance du marché des véhicules et des moteurs veille à la mise en œuvre efficace de ces mesures.
+
+Lorsque le constructeur ne prend pas de mesures correctrices adéquates dans un délai raisonnable, proportionné à la gravité du risque, ou lorsque le risque constaté exige une réaction rapide, l'autorité de surveillance du marché des véhicules et des moteurs informe le constructeur, et prend toutes les mesures restrictives appropriées précisées à l'article R. 321-26, et, en cas de non-conformité à la réception nationale par type, l'autorité chargée de la réception prend toutes les mesures nécessaires pour réexaminer la réception accordée et, le cas échéant, corriger ou retirer la réception nationale par type en fonction des raisons et de la gravité des divergences démontrées.
+
+Le ministre chargé des transports fixe par arrêté les modalités d'application des dispositions du présent article.
+
+NOTA:
+Conformément au premier alinéa de l'article 11 du décret n° 2025-1180 du 8 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur au 1er janvier 2026. Les réseaux de contrôle, agissant pour le compte de leurs centres affiliés, transmettent à l'organisme technique central les données personnelles des propriétaires de véhicules recueillies au cours des deux années précédentes.

@@ -1,1 +1,1 @@
-Paragraphe 4 : Assurance volontaire vieillesse.
+Paragraphe 4 : Dispositions propres à certaines catégories d'assurés

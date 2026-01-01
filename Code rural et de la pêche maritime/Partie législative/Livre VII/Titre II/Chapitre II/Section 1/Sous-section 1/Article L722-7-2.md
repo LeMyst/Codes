@@ -1,0 +1,10 @@
+# Article L722-7-2
+
+Le régime de protection sociale des personnes non salariées des professions agricoles est également applicable, dans les cas mentionnés à la sous-section 2 de la présente section, aux aides familiaux, entendus comme les ascendants, les descendants, les frères, les sœurs et les alliés au même degré du chef d'exploitation ou d'entreprise ou de son conjoint, âgés de plus de seize ans, vivant sur l'exploitation ou sur l'entreprise et participant à sa mise en valeur comme non-salariés.
+
+Cette qualité ne peut être conservée, y compris de façon interrompue, que pendant une durée maximale de cinq ans. Au terme de cette durée, les personnes mentionnées au premier alinéa sont tenues d'opter pour le statut de salarié ou de chef d'exploitation ou d'entreprise agricole. A défaut d'option pour l'un de ces statuts, l'aide familial ayant poursuivi la mise en valeur de l'exploitation ou de l'entreprise agricole est réputé l'avoir fait sous le statut de salarié.
+
+Lorsqu'ils ne justifient pas de leur affiliation à un régime légal ou réglementaire de retraite en raison de l'exercice d'une activité professionnelle personnelle, qu'ils ne sont pas atteints d'une incapacité absolue de travail et qu'ils ne sont pas bénéficiaires des dispositions des titres III et IV du livre II ou du titre IV du livre III du code de l'action sociale et des familles, les membres de la famille du chef d'exploitation ou d'entreprise agricole ou de son conjoint, mentionnés au premier alinéa du présent article, qui vivent sur l'exploitation sont, sauf preuve contraire, présumés remplir la condition de mise en valeur mentionnée au même premier alinéa.
+
+NOTA:
+Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.

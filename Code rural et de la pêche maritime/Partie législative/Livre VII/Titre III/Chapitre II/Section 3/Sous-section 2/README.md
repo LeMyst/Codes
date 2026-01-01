@@ -1,1 +1,1 @@
-Sous-section 2 : Paiement des pensions.
+Sous-section 2 : Service des pensions de retraite

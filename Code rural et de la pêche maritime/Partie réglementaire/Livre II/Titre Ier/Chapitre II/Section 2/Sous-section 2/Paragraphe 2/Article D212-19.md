@@ -1,6 +1,6 @@
 # Article D212-19
 
-I. - Tout opérateur détenant un ou plusieurs bovins et tout collecteur de cadavres de bovins, est tenu de se déclarer auprès de l'établissement de l'élevage mentionné à l'article L. 653-7 afin que celui-ci l'enregistre et lui attribue un numéro national.
+I. - Tout opérateur détenant un ou plusieurs bovins et tout collecteur de cadavres de bovins, est tenu de se déclarer auprès de la chambre d'agriculture afin que celle-ci l'enregistre et lui attribue un numéro national.
 
 II. - En application de l'article 19 du règlement d'exécution (UE) 2021/520 de la Commission du 24 mars 2021 portant modalités d'application du règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne la traçabilité de certains animaux terrestres détenus, tout opérateur détenant un ou plusieurs bovins est tenu de procéder au remplacement des moyens d'identification prévus par l'article 38 du règlement délégué (UE) 2019/2035 de la Commission du 28 juin 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives aux établissements détenant des animaux terrestres et aux couvoirs ainsi qu'à la traçabilité de certains animaux terrestres détenus et des œufs à couver lorsqu'ils sont devenus illisibles ou ont été perdus.
 

@@ -28,10 +28,13 @@ j) De détenir un animal de l'espèce bovine non identifié à l'issue du délai
 
 3° Pour l'exploitant d'un établissement d'équarrissage, de ne pas transmettre le passeport ou le document d'identification ou de ne pas signaler les différences éventuelles entre les mentions du passeport ou du document d'identification par rapport au numéro national d'identification, au sexe et au type racial de l'animal, en méconnaissance des dispositions du VII de l'article D. 212-19.
 
-II. - Est puni de l'amende prévue pour la contravention de la cinquième classe le fait, par le détenteur de bovin, de ne pas se déclarer, conformément au I de l'article D. 212-19, auprès de l'établissement de l'élevage mentionné à l'article L. 653-7.
+II. - Est puni de l'amende prévue pour la contravention de la cinquième classe le fait, par le détenteur de bovin, de ne pas se déclarer, conformément au I de l'article D. 212-19, auprès de la chambre d'agriculture.
 
 Les personnes physiques coupables de l'infraction prévue au présent II encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal.
 
 Les personnes morales déclarées responsables pénalement de l'infraction prévue au présent II encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal en application de l'article 131-43 du même code.
 
 La récidive de ces contraventions est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+NOTA:
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.

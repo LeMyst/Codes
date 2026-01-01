@@ -1,6 +1,6 @@
 # Article R212-22
 
-Les établissements de l'élevage sont chargés, selon des modalités fixées par arrêté du ministre chargé de l'agriculture :
+Les chambres d'agriculture sont chargées, selon des modalités fixées par arrêté du ministre chargé de l'agriculture :
 
 1° De la saisie, de la communication des données mentionnées à l'article R. 212-14-1-1, et de la validation des notifications des informations transmises par les opérateurs détenant des bovins ;
 
@@ -20,6 +20,5 @@ Les établissements de l'élevage sont chargés, selon des modalités fixées pa
 
 9° Du contrôle du respect, par tout détenteur de bovin, des règles d'identification, de maintien de l'identification ou de notification à la base de données définies dans le présent paragraphe.
 
-Selon des modalités définies par arrêté du ministre chargé de l'agriculture, l'établissement de l'élevage est tenu d'informer les services compétents du ministère de l'agriculture des anomalies d'identification constatées dans le cadre de l'exécution du 9° du présent article ou de celles qui lui ont été signalées par un détenteur de bovin dans sa zone de compétence.
-
-Le non-respect d'une des obligations résultant de ces missions peut donner lieu à la suspension ou au retrait de l'agrément accordé à l'établissement de l'élevage dans les conditions prévues par les dispositions de l'article R. 653-43.
+NOTA:
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.

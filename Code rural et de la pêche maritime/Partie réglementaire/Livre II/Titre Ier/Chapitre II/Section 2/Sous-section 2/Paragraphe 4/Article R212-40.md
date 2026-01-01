@@ -1,6 +1,6 @@
 # Article R212-40
 
-L'établissement de l'élevage est chargé :
+La chambre d'agriculture est chargée :
 
 1° De contrôler le respect, par tout détenteur, des règles d'identification des porcins ;
 
@@ -10,6 +10,5 @@ L'établissement de l'élevage est chargé :
 
 4° D'assurer l'information, la formation et le conseil aux détenteurs pour les opérations d'identification.
 
-L'établissement de l'élevage informe les services compétents du ministère de l'agriculture des anomalies d'identification constatées dans sa zone de compétence ou de celles qui lui ont été signalées par un détenteur de porcins.
-
-La méconnaissance d'une des obligations résultant de ces missions peut donner lieu à la suspension ou au retrait de l'agrément accordé à l'établissement de l'élevage dans les conditions prévues par les dispositions de l'article R. 653-43.
+NOTA:
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.

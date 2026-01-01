@@ -38,7 +38,19 @@ Sans préjudice des dispositions particulières prévoyant d'autres règles d'af
 
 Le solde résultant, pour la caisse centrale de la mutualité sociale agricole, de l'application du présent III, déduction faite des frais de gestion, est affecté aux branches mentionnées aux articles L. 722-8 et L. 722-27, selon une répartition fixée par arrêté des ministres chargés du budget, de la sécurité sociale et de l'agriculture en fonction des soldes prévisionnels de ces branches.
 
+La caisse centrale de la mutualité sociale agricole assure la notification et le versement à chaque attributaire des sommes recouvrées qui lui reviennent.
+
+Par dérogation au onzième alinéa du présent article, le versement est effectué à hauteur du montant des sommes dues par les redevables, après application d'un taux forfaitaire fixé au regard du risque de non-recouvrement d'une partie de ces sommes :
+
+- pour les versements, cotisations et contributions mentionnés aux a, b, c et e du 5° de l'article L. 225-1-1 du code de la sécurité sociale ;
+
+- pour les cotisations mentionnées aux a et b du présent article.
+
+Le taux mentionné au douzième alinéa est fixé, par attributaire ou catégorie d'attributaires, dans des conditions fixées par décret en Conseil d'Etat, par arrêté des ministres chargés de la sécurité sociale, de l'agriculture et du budget.
+
+Sans préjudice des dispositions particulières prévoyant d'autres règles d'affectation, le produit des majorations de retard et des pénalités dues par les redevables dans les conditions prévues aux douzième à quatorzième alinéas n'est pas reversé aux attributaires.
+
 NOTA:
 Conformément au B du VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions sont applicables aux cotisations et contributions reversées par la Caisse centrale de la mutualité sociale agricole à compter du 1er janvier 2025. Cette date peut être reportée par décret, dans la limite d'un an. Les créances de cotisations et de contributions sociales et les créances accessoires correspondant aux restes à recouvrer dus aux attributaires par la Caisse centrale de la mutualité sociale agricole avant cette date font l'objet d'un versement à hauteur de la valeur estimée recouvrable de ces créances à cette même date. Les modalités de règlement desdites créances, notamment leur échelonnement, sont fixées par convention entre la Caisse centrale de la mutualité sociale agricole et les attributaires concernés, à l'exception des créances à régler aux organismes complémentaires et aux autorités organisatrices de la mobilité, dont le montant et les modalités de règlement sont constatés et fixés par arrêté des ministres chargés de la sécurité sociale et de l'agriculture.
 
-Conformément au 2° du X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 1 du décret n° 2024-1280 du 31 décembre 2024, en application du B du VI de l'article 6 de la loi n° 2022-1616 du 23 décembre 2022, le présent article, dans sa rédaction antérieure à celle issue de l'article 6 précité, est applicable aux cotisations et contributions reversées par la Caisse centrale de la mutualité sociale agricole avant le 1er janvier 2026.

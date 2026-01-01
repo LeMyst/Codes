@@ -10,6 +10,8 @@ Les établissements et chambres territoriales qui composent le réseau des chamb
 
 Ils contribuent, par les services qu'ils mettent en place, au développement durable des territoires ruraux et des entreprises agricoles, ainsi qu'à la préservation et à la valorisation des ressources naturelles, à la réduction de l'utilisation des produits phytopharmaceutiques et à la lutte contre le changement climatique.
 
+Ils contribuent et encouragent au développement de l'élevage des animaux des espèces bovines, ovines, caprines, porcines, cunicoles et avicoles, en associant les différents acteurs de la filière.
+
 Chambres d'agriculture France, les chambres départementales d'agriculture, les chambres régionales d'agriculture, les chambres interdépartementales d'agriculture, les chambres interrégionales d'agriculture et les chambres d'agriculture de région sont des établissements publics placés sous la tutelle de l'Etat et administrés par des élus représentant l'activité agricole, les groupements professionnels agricoles et les propriétaires forestiers.
 
 Ils sont soumis, pour leurs dettes, aux dispositions de la loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'Etat, les départements, les communes et les établissements publics.
@@ -19,3 +21,6 @@ Ils peuvent participer à la création ou faire partie d'associations, de syndic
 Ils peuvent, avec l'accord de l'autorité de tutelle, participer à la fondation ou au capital de sociétés par actions, à condition que l'objet de celles-ci entre dans le cadre de leur spécialité. Le conseil d'administration de ces sociétés doit comprendre au moins un représentant des établissements du réseau des chambres d'agriculture participants.
 
 Ainsi qu'il est dit à l'article 1er de la loi n° 56-1119 du 12 novembre 1956, l'usage d'une appellation comportant l'emploi des mots : chambre d'agriculture est réservé aux seuls établissements publics constitués dans les conditions prévues par les lois en vigueur, sous réserve des seules dérogations accordées à titre précaire par l'article 2 de cette loi. Les infractions sont passibles des peines prévues à l'article 4 de la même loi.
+
+NOTA:
+Conformément au II de l'article 40 de la loi n° 2024-364 du 22 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2026.

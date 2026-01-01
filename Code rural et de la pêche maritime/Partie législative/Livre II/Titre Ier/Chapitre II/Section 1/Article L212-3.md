@@ -1,6 +1,6 @@
 # Article L212-3
 
-L'établissement de l'élevage mentionné à l'article L. 653-12 est chargé de la collecte des données relatives aux opérateurs enregistrés conformément au règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016. Ces données sont centralisées par l'assemblée permanente des chambres d'agriculture au titre de sa mission de collecte et de traitement des données prévue à l'article L. 513-1, dans des conditions définies par décret.
+Les chambres d'agriculture contribuent à la collecte des données relatives aux opérateurs enregistrés en application du règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale (“ législation sur la santé animale ”). Ces données sont collectées et centralisées par l'établissement mentionné à l'article L. 513-1 du présent code, dans des conditions définies par décret.
 
 NOTA:
-Conformément à l’article 11 du décret n° 2021-1370 du 20 octobre 2021, ces dispositions entrent en vigueur le 21 avril 2024.
+Conformément au II de l'article 40 de la loi n° 2024-364 du 22 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2026.

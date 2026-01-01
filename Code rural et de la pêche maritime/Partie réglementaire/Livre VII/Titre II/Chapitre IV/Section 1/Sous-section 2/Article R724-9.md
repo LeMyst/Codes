@@ -4,7 +4,7 @@ Les dispositions des articles R. 243-59 à R. 243-59-10 du code de la sécurité
 
 1° Pour l'application de l'article R. 243-59 :
 
-a) La “ Charte du cotisant contrôlé ” mentionnée au cinquième alinéa du I est approuvée par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale ;
+a) (Supprimé) ;
 
 b) Aux I, II et III, la référence à l'article L. 243-7 du code de la sécurité sociale est remplacée par la référence à l'article L. 724-7 du présent code ;
 
@@ -37,3 +37,6 @@ b) Les missions de l'inspecteur ou du contrôleur du recouvrement sont assurées
 8° Pour l'application de l'article R. 243-59-8, la référence à l'article L. 243-6-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-23 du présent code et la référence à l'article L. 244-2 du code de la sécurité sociale est remplacée par la référence à l'article L. 725-3 du présent code ;
 
 9° Pour l'application de l'article R. 243-59-9, la référence à l'article R. 244-1 du code de la sécurité sociale est remplacée par la référence à l'article R. 725-6 du présent code.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 3 du décret précité, entrent en vigueur au 1er janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.

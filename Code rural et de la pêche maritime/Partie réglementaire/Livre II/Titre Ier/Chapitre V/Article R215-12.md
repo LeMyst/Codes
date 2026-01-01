@@ -26,10 +26,13 @@ II. - (Abrogé)
 
 III. - (Abrogé)
 
-IV. - Est puni de l'amende prévue pour la contravention de la cinquième classe le fait, pour un détenteur d'ovin ou de caprin, de ne pas se déclarer, conformément à l'article D. 212-26, auprès de l'établissement de l'élevage mentionné à l'article L. 653-7.
+IV. - Est puni de l'amende prévue pour la contravention de la cinquième classe le fait, pour un détenteur d'ovin ou de caprin, de ne pas se déclarer, conformément à l'article D. 212-26, auprès de la chambre d'agriculture.
 
 Les personnes physiques coupables de l'infraction prévue au présent IV encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal.
 
 Les personnes morales déclarées responsables pénalement de l'infraction prévue au présent IV encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal en application de l'article 131-43 du même code.
 
 La récidive de ces contraventions est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+NOTA:
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.

@@ -14,9 +14,11 @@ Il remplit les missions suivantes :
 
 - il contribue à assurer la promotion de la mission de service public liée à la politique d'installation et de transmission en agriculture mentionnée au 4° de l'article L. 511-4 ;
 
-- il assure la collecte et le traitement de données relatives aux exploitations, collectées par les établissements mentionnés à l'article L. 212-7, qui sont notamment requises par le règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale, dit “ législation sur la santé animale ” ;
+- il structure, coordonne et pilote les missions des chambres d'agriculture mentionnées aux articles L. 212-3 et L. 212-8-1 ;
+
+- il assure la collecte et le traitement des données relatives aux opérateurs et à leurs établissements qui sont notamment requises par le règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale (“ législation sur la santé animale ”) ;
 
 - il peut assurer la collecte et le traitement de données relatives à l'identification et à la traçabilité des animaux, qui sont requises par le même règlement.
 
 NOTA:
-Se reporter aux modalités d’entrée en vigueur prévues au II de l’article 24 de la loi n° 2025-268 du 24 mars 2025.
+Conformément au II de l'article 40 de la loi n° 2024-364 du 22 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2026.

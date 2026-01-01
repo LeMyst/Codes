@@ -1,1 +1,1 @@
-Paragraphe 3 : Pension de réversion.
+Paragraphe 3 : Pension pour inaptitude

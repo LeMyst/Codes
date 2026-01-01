@@ -8,7 +8,9 @@ Le régime local d'assurance maladie complémentaire obligatoire des départemen
 
 3° Une cotisation à la charge des employeurs mentionnés au 1° du présent article.
 
-Les cotisations prévues aux 1°, 2° et 3° sont recouvrées par les caisses de mutualité sociale agricole selon les règles et avec les garanties et sanctions applicables au recouvrement des cotisations d'assurances sociales agricoles.
+Les cotisations prévues aux 1° et 3° sont recouvrées par les caisses de mutualité sociale agricole selon les règles et sous les garanties et les sanctions applicables au recouvrement des cotisations d'assurances sociales agricoles.
+
+Les cotisations prévues au 2° sont recouvrées par les unions pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales, selon les règles et sous les garanties et sanctions applicables au recouvrement des cotisations du régime général.
 
 NOTA:
-Conformément à l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les présentes dispositions s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.
+Conformément au III de l'article 27 de la loi n° 2025-199 du 28 février 2025, ces dispositions s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er janvier 2026.

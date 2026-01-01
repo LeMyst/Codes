@@ -43,4 +43,4 @@ Sous réserve de dispositions législatives ou réglementaires spécifiques, la 
 La caisse centrale de la mutualité sociale agricole assure la notification et le versement à chaque attributaire des sommes recouvrées qui lui reviennent.
 
 NOTA:
-Conformément au IV de l'article 19 de la loi n° 2022-172 du 14 février 2022, ces dispositions entrent en vigueur le 1er septembre 2022.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

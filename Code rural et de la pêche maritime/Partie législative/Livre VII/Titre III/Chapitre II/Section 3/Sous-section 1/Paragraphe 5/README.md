@@ -1,1 +1,1 @@
-Paragraphe 5 : Majoration des retraites.
+Paragraphe 5 : Taux et montant de la pension

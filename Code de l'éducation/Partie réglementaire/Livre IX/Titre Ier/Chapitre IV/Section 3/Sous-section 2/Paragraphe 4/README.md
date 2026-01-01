@@ -1,1 +1,1 @@
-Paragraphe 4 : Stage
+Paragraphe 4 : Formation

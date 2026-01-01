@@ -66,11 +66,11 @@ Les établissements ou organismes concourant aux missions du service public de l
 
 32° à 45° (Supprimés) ;
 
-46° L'Ecole des Ingénieurs de la Ville de Paris à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est et à l'Ecole nationale des ponts et chaussées par le décret n° 2017-1157 du 10 juillet 2017 portant association de l'Ecole des ingénieurs de la Ville de Paris (EIVP)-Ecole supérieure du génie urbain à l'Ecole nationale des ponts et chaussées (ENPC) ;
+46° L'Ecole des Ingénieurs de la Ville de Paris à l'Ecole nationale des ponts et chaussées par le décret n° 2017-1157 du 10 juillet 2017 portant association de l'Ecole des ingénieurs de la Ville de Paris (EIVP)-Ecole supérieure du génie urbain à l'Ecole nationale des ponts et chaussées (ENPC) ;
 
-47° L'Ecole nationale supérieure d'architecture de Marne-la-Vallée à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est ;
+47° (Abrogé) ;
 
-48° L'Ecole nationale supérieure d'architecture de Paris-Belleville à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est ;
+48° (Abrogé) ;
 
 49° (Abrogé) ;
 
@@ -161,4 +161,4 @@ Les établissements ou organismes concourant aux missions du service public de l
 92° L'Institut Pasteur, fondation reconnue d'utilité publique, à l'université Paris Cité par le décret n° 2021-1673 du 15 décembre 2021 portant association de l'Institut Pasteur à l'université Paris Cité et modifiant le décret n° 2019-209 du 20 mars 2019 portant création de l'université Paris Cité et approbation de ses statuts.
 
 NOTA:
-Conformément à l'article 7 du décret n° 2024-749 du 6 juillet 2024, ces dispositions entrent en vigueur le 1er août 2024.
+Conformément à l'article 7 du décret n° 2025-1266 du 19 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 6 du décret précité, entrent en vigueur le premier jour du mois suivant sa publication, soit le 1er janvier 2026.

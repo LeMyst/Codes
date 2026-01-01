@@ -17,14 +17,14 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 913-15 à R. 913-27 | Résultant du décret n° 2020-832 du 30 juin 2020 |
 | R. 914-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 914-2 et R. 914-3 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
-| R. 914-3-1 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-3-1 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-4 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
 | R. 914-5 | Résultant du décret n° 2018-235 du 30 mars 2018 |
 | R. 914-7 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 914-8 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
-| R. 914-10 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-10 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-10-1 à R. 914-10-4 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
-| R. 914-10-5 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-10-5 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-10-6 à R. 914-10-10 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-10-11 à R. 814-10-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
 | R. 914-10-14 à R. 914-10-22 R. 914-10-23, I, II et III R. 914-10-24 à R. 914-11 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
@@ -33,7 +33,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 914-13-1 à R. 914-13-3 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
 | R. 914-13-4 | Résultant du décret n° 2018-235 du 30 mars 2018 |
 | R. 914-13-5 à R. 914-13-8 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
-| R. 914-13-9 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-13-9 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-13-10 et R. 914-13-11 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
 | R. 914-13-12 et R. 914-13-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
 | R. 914-13-14 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
@@ -50,23 +50,22 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 914-17 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
 | R. 914-18 | Résultant du décret n° 2018-407 du 29 mai 2018 |
 | R. 914-19-1 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
-| R. 914-19-2 | Résultant du décret n° 2021-1335 du 14 octobre 2021 |
-| R. 914-19-3 et R. 914-19-4 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-19-2 et R. 914-19-3 | Résultant du décret n° 2025-352 du 17 avril 2025 |
+| R. 914-19-4 | Résultant du décret n° 2013-767 du 23 août 2013 |
 | R. 914-19-5 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
-| R. 914-19-6 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-19-6 à R. 914-19-6-2 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-19-7 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
 | R. 914-20 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
-| R. 914-21 à R. 914-24 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-21 | Résultant du décret n° 2013-767 du 23 août 2013 |
+| R. 914-22 et R. 914-23 | Résultant du décret n° 2025-352 du 17 avril 2025 |
+| R. 914-24 | Résultant du décret n° 2013-767 du 23 août 2013 |
 | R. 914-25 et R. 914-26 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
 | R. 914-27 | Résultant du décret n° 2013-767 du 23 août 2013 |
 | R. 914-28 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
-| R. 914-29 | Résultant du décret n° 2010-571 du 28 mai 2010 |
+| R. 914-29 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-30 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
 | R. 914-31 | Résultant du décret n° 2013-767 du 23 août 2013 |
-| R. 914-32 | Résultant du décret n° 2021-1335 du14 octobre 2021 |
-| R. 914-33 et R. 914-34 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
-| R. 914-35 | Résultant du décret n° 2021-1335 du 14 octobre 2021 |
-| R. 914-36 et R. 914-37 | Résultant du décret n° 2009-920 du 28 juillet 2009 |
+| R. 914-32 à R. 914-36 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-44 | Résultant du décret n° 2013-767 du 23 août 2013 |
 | R. 914-45 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 914-46 | Résultant du décret n° 2022-671 du 26 avril 2022 |
@@ -98,7 +97,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 914-85 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 914-86 R. 914-89 et R. 914-90 R. 914-92 à R. 914-94 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
 | R. 914-100 | Résultant du décret n° 2023-733 du 8 août 2023 |
-| R. 914-101 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
+| R. 914-101 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-102 | Résultant du décret n° 2023-733 du 8 août 2023 |
 | R. 914-103 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-104 et R. 914-105 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
@@ -129,7 +128,7 @@ b) Le haut-commissaire de la République exerce les compétences dévolues au pr
 
 4° Au premier alinéa de l'article R. 911-25, les mots : “, au sein de son académie d'origine, ” sont supprimés ;
 
-5° L'article R. 911-88 est ainsi rédigé :
+5° L' article R. 911-88 est ainsi rédigé :
 
 “ Art. R. 911-88.-I.-Le vice-recteur de Polynésie française peut déléguer sa signature, par arrêté, pour tous les actes relevant de sa compétence relatifs aux personnels relevant du ministre chargé de l'éducation et pour tous les actes relevant de sa compétence relatifs aux personnels ingénieurs, techniques et administratifs de recherche et de formation relevant du ministre chargé de l'enseignement supérieur :
 
@@ -163,13 +162,13 @@ a) La référence aux commissions consultatives mixtes départementales ou inter
 
 b) La référence aux commissions consultatives mixtes académiques est remplacée par la référence à la commission consultative mixte locale du second degré ;
 
-12° L'article R. 914-4 est ainsi rédigé :
+12° L' article R. 914-4 est ainsi rédigé :
 
 “ Art. R. 914-4.-La commission consultative mixte locale du premier degré est chargée de donner un avis sur les questions individuelles intéressant les maîtres, dans les cas prévus au présent chapitre. Elle est réunie à la demande du vice-recteur au moins deux fois par an au cours de l'année scolaire. Le vice-recteur fixe son ordre du jour et convoque ses membres huit jours au moins à l'avance. ” ;
 
-13° Au premier alinéa de l'article R. 914-10, la référence à l'article R. 914-6 est supprimée ;
+13° Au premier alinéa de l'article R. 914-10, la référence à l' article R. 914-6 est supprimée ;
 
-14° L'article R. 914-10-1 est ainsi rédigé :
+14° L' article R. 914-10-1 est ainsi rédigé :
 
 “ Art. R. 914-10-1.-Les commissions prévues aux articles R. 914-4 et R. 914-7 sont créées par arrêté du vice-recteur.
 
@@ -204,4 +203,4 @@ b) Au troisième alinéa, les mots : “ La résiliation totale ou partielle du 
 26° A l'article R. 914-117, les mots : “ la rente viagère d'invalidité prévue à l'article R. 914-133 ” sont remplacés par les mots : “ les droits ouverts au titre de l'invalidité ”.
 
 NOTA:
-Conformément à l’article 32 du décret n° 2023-720 du 4 août 2023, ces dispositions entrent en vigueur pour les promotions prenant effet au 1er septembre 2024.
+Conformément au II de l’article 42 du décret n° 2025-352 du 17 avril 2025, ces dispositions sont applicables à compter de la session 2026 des concours de recrutement.

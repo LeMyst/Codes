@@ -1,6 +1,6 @@
-# Article R914-35
+# Article R914-19-6-1
 
-Les maîtres ayant obtenu un contrat provisoire bénéficient des dispositions du décret du 7 octobre 1994 mentionné à l'article R. 914-34, à l'exception de celles relatives au détachement et aux sanctions disciplinaires.
+Les maîtres ayant obtenu un contrat ou un agrément provisoire bénéficient des dispositions du décret du 7 octobre 1994 mentionné à l'article R. 914-19-6, à l'exception de celles relatives au détachement et aux sanctions disciplinaires.
 
 Pendant l'année de stage, les maîtres sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître au titre de laquelle ils ont concouru.
 

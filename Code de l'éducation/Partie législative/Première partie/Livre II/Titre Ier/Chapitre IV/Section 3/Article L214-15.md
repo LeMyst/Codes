@@ -16,7 +16,7 @@ Les crédits mentionnés à l'alinéa précédent sont diminués en 2005,2006 et
 
 4° Les crédits votés à cet effet par le conseil régional ;
 
-5° Le produit de la ressource régionale pour l'apprentissage prévue au I de l'article L. 6241-2 du code du travail. Si, au titre d'une année, le produit de cette ressource régionale pour l'apprentissage est inférieur, pour chaque région ou la collectivité territoriale de Corse, au montant des crédits supprimés en 2007 en application du second alinéa du 1° du présent article et, pour le Département de Mayotte, à la dotation générale de décentralisation perçue en 2008 au titre du premier transfert de compétences à cette collectivité au titre de l'apprentissage, les ajustements nécessaires pour compenser cette différence sont fixés en loi de finances ;
+5° Le produit de la ressource régionale pour l'apprentissage prévue au I de l'article L. 6241-2 du code du travail. Si, au titre d'une année, le produit de cette ressource régionale pour l'apprentissage est inférieur, pour chaque région ou la collectivité territoriale de Corse, au montant des crédits supprimés en 2007 en application du second alinéa du 1° du présent article et, pour le Département-Région de Mayotte, à la dotation générale de décentralisation perçue en 2008 au titre du premier transfert de compétences à cette collectivité au titre de l'apprentissage, les ajustements nécessaires pour compenser cette différence sont fixés en loi de finances ;
 
 6° Le montant des ressources fiscales attribuées aux régions mentionnées aux articles 41 et 140 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014.
 
@@ -26,3 +26,5 @@ Le montant total des crédits visés aux 1° et 2° du présent article évolue 
 
 NOTA:
 (1) : Les articles L. 920-9 et L. 951-9 de l'ancien code du travail ont été renumérotés L. 6354-1, L. 6354-2, L. 6331-13, L. 6331-28, L. 6331-31 et L. 6331-33 du nouveau code du travail.
+
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.

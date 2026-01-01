@@ -6,7 +6,7 @@ Constituent des établissements d'enseignement supérieur privés associés à u
 
 2° (abrogé) ;
 
-3° Ecole spéciale des travaux publics, du bâtiment et de l'industrie associée à Université Paris-Est par le décret n° 2016-1111 du 11 août 2016 portant association d'établissements à Université Paris-Est et associée à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+3° Ecole spéciale des travaux publics, du bâtiment et de l'industrie associée à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
 
 4° (abrogé) ;
 
@@ -63,3 +63,6 @@ Constituent des établissements d'enseignement supérieur privés associés à u
 30° L'Ecole supérieure des sciences économiques et commerciales (ESSEC) à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
 
 31° La Fédération universitaire et pluridisciplinaire de Lille associée à l'Université polytechnique Hauts-de-France par le décret n° 2022-304 du 1er mars 2022 portant association de la Fédération universitaire et pluridisciplinaire de Lille à l'Université polytechnique Hauts-de-France.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2025-1266 du 19 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 6 du décret précité, entrent en vigueur le premier jour du mois suivant sa publication, soit le 1er janvier 2026.

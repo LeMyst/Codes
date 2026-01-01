@@ -8,12 +8,15 @@ Les autres conditions de candidature sont les mêmes que celles qui sont requise
 
 Le jury établit la liste des candidats admis et la liste complémentaire selon les mêmes modalités que pour les concours correspondants de l'enseignement public.
 
-II.-Les candidats admis qui remplissent les conditions mentionnées au I du présent article bénéficient d'un contrat ou d'un agrément provisoire et accomplissent un stage dans les mêmes conditions et selon les mêmes modalités que celles fixées au II de l'article R. 914-19-2.
+II.-Les candidats admis qui remplissent les conditions mentionnées au I du présent article bénéficient d'un contrat ou d'un agrément provisoire et accomplissent un stage dans les mêmes conditions et selon les mêmes modalités que celles fixées au 2° du II de l'article R. 914-19-2.
 
-III.-A l'issue du stage, les candidats admis qui justifient des conditions exigées pour la titularisation des lauréats des concours correspondants de l'enseignement public se voient délivrer un contrat ou un agrément définitif dans les mêmes conditions que celles fixées au III de l'article R. 914-19-2. La délivrance du contrat ou de l'agrément définitif confère le certificat d'aptitude au professorat des écoles.
+III.-A l'issue du stage, les candidats admis qui justifient des conditions exigées pour la titularisation des lauréats des concours correspondants de l'enseignement public se voient délivrer un contrat ou un agrément définitif dans les mêmes conditions que celles fixées au premier alinéa du III de l'article R. 914-19-2. La délivrance du contrat ou de l'agrément définitif confère le certificat d'aptitude au professorat des écoles.
 
-Les candidats admis qui, à l'issue du stage, ne sont pas déclarés aptes peuvent être autorisés, dans les mêmes conditions que celles fixées au III de l'article R. 914-19-2, à accomplir une seconde année de stage.
+Les candidats admis qui, à l'issue du stage, ne sont pas déclarés aptes peuvent être autorisés, dans les mêmes conditions que celles fixées au deuxième alinéa du III de l'article R. 914-19-2, à accomplir une seconde année de stage.
 
-Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, ne remplissent pas les conditions exigées pour la délivrance du contrat ou de l'agrément définitif perdent le bénéfice de l'admission au concours. Lorsqu'ils avaient la qualité de maître contractuel ou agréé, ils sont replacés dans leur échelle de rémunération antérieure.
+Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, ne remplissent pas les conditions exigées pour la délivrance du contrat ou de l'agrément définitif perdent le bénéfice de l'admission au concours. Leur licenciement est prononcé par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur de l'académie de recrutement. Lorsqu'ils avaient la qualité de maître contractuel ou agréé, ils sont replacés dans leur échelle de rémunération antérieure. Lorsqu'ils avaient la qualité de fonctionnaire, ils sont réintégrés dans leur corps ou cadre d'emplois.
 
 L'année de renouvellement n'est pas prise en compte pour la détermination de l'ancienneté de service.
+
+NOTA:
+Conformément au II de l’article 42 du décret n° 2025-352 du 17 avril 2025, ces dispositions sont applicables à compter de la session 2026 des concours de recrutement.

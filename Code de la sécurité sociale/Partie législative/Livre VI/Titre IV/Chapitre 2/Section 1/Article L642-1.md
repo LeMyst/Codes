@@ -6,10 +6,13 @@ Toute personne exerçant une activité professionnelle relevant de l'Organisatio
 
 2° Les charges de compensation incombant à cette organisation en application des articles L. 134-1 et L. 134-2.
 
-Le régime de la pension de retraite reçoit une contribution du fonds institué par l'article L. 135-1 dans les conditions fixées par l'article L. 135-2.
+Le régime de la pension de retraite reçoit une contribution de la branche mentionnée au 3° de l'article L. 200-2 dans les conditions fixées à l'article L. 222-2-1.
 
 Les charges mentionnées aux 1° et 2° sont couvertes par des cotisations calculées dans les conditions prévues aux articles L. 131-6 à L. 131-6-2 et L. 613-7.
 
 Les cotisations dues par les professionnels libéraux autres que ceux mentionnés à l'article L. 613-7 sont calculées, dans la limite d'un plafond fixé par décret, sur la base de tranches de revenu d'activité déterminées par décret. Chaque tranche est affectée d'un taux de cotisation. Ces cotisations ne peuvent être inférieures à un montant fixé par décret. La cotisation afférente à chaque tranche ouvre droit à l'acquisition d'un nombre de points déterminé par décret.
 
 Un décret fixe le nombre de points attribué aux personnes exonérées de tout ou partie des cotisations en application de l'article L. 642-3.
+
+NOTA:
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

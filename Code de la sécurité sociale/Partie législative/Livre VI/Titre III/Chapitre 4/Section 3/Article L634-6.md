@@ -12,7 +12,11 @@ b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1, lorsque l
 
 La pension due par un régime de retraite légalement obligatoire dont l'âge d'ouverture des droits, le cas échéant sans minoration, est supérieur à l'âge prévu à l'article L. 161-17-2 n'est pas retenue pour apprécier la condition de liquidation de l'ensemble des pensions de retraite, et ce jusqu'à ce que l'assuré ait atteint l'âge à partir duquel il peut liquider cette pension ou, en cas de minoration, l'âge auquel celles-ci prennent fin.
 
-L'article L. 161-22 et le présent article ne s'appliquent pas à l'assuré qui demande ou qui bénéficie de sa pension au titre de l'article L. 161-22-1-5 du présent code, de l'article L. 732-29 du code rural et de la pêche maritime et de l'article L. 89 bis du code des pensions civiles et militaires de retraite.
+L'article L. 161-22 et le présent article ne s'appliquent pas à l'assuré qui demande ou qui bénéficie de sa pension au titre de l'article L. 161-22-1-5 du présent code ou de l'article L. 89 bis du code des pensions civiles et militaires de retraite.
 
 NOTA:
-Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au X de l'article 102 de la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, par dérogation au premier alinéa du B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions, dans leur rédaction résultant dudit article, sont applicables aux assurés qui entrent en jouissance de leur première pension servie au titre du régime des non-salariés des professions agricoles à compter du 1er janvier 2027.
+
+Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1er janvier 2027.
+
+Par dérogation, ledit article n'est pas applicable lorsque le titulaire de la pension est entré en jouissance, avant cette date, d'une autre pension de vieillesse de base, à l'exception d'une pension liquidée au titre des 1° à 5° de l'article L. 161-22-1-2 du code de la sécurité sociale dans sa rédaction résultant dudit article.

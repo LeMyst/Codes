@@ -2,11 +2,11 @@
 
 I.-Pour les salariés mentionnés au IV de l'article L. 241-13, le coefficient mentionné au deuxième alinéa du III est calculé selon la formule suivante :
 
-Coefficient = (T/0,6) × (1,6 × a × SMIC calculé pour un an/ rémunération annuelle brute-1) × b.
+Coefficient = (Tmin + (Tdelta × [(1/2) × (3 × a × SMIC calculé pour un an / rémunération annuelle brute - 1)]P)) × b
 
-Le coefficient noté T et les montants du SMIC calculé pour un an et de la rémunération brute sont identiques à ceux mentionnés à l'article D. 241-7.
+Les valeurs notées Tmin, Tdelta et P, ainsi que les montants du SMIC calculé pour un an et de la rémunération brute sont identiques à ceux mentionnés à l'article D. 241-7.
 
-Le septième alinéa du II de l'article D. 241-7 du même code est applicable si la valeur a à prendre en compte évolue en cours d'année.
+Le septième alinéa du IV de l'article D. 241-7 du même code est applicable si la valeur a à prendre en compte évolue en cours d'année.
 
 II.-Pour les salariés mentionnés au 1° du IV de l'article L. 241-13 qui sont soumis à un régime d'heures d'équivalences payées à un taux majoré en application d'une convention ou d'un accord collectif étendu en vigueur au 1er janvier 2010, les valeurs a et b sont respectivement fixées :
 
@@ -21,3 +21,6 @@ III.-Pour les salariés mentionnés au 2° du IV de l'article L. 241-13 auxquels
 IV.-Pour les salariés mentionnés au 3° du IV de l'article L. 241-13 qui relèvent des professions dans lesquelles le paiement des congés et des charges sur les indemnités de congés est mutualisé entre les employeurs affiliés aux caisses de congés, les valeurs a et b sont respectivement fixées à 1 et à 100/90.
 
 Par dérogation à l'alinéa précédent, la valeur a est fixée à la valeur mentionnée au II du présent article pour les salariés entrant dans le champ d'application de la convention collective nationale des transports routiers et activités auxiliaires du transport.
+
+NOTA:
+Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.

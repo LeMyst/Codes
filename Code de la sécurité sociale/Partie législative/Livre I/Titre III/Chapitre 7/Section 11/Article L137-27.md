@@ -8,7 +8,9 @@ La contribution est assise sur les charges comptabilisées au cours du ou des ex
 
 2° Des prestations externalisées de même nature que celles mentionnées au 1° du présent article, à hauteur du montant hors taxes facturé.
 
-Son taux est fixé à 15 %.
+Pour les établissements titulaires d'une autorisation mentionnée à l'article L. 321-1 du code de la sécurité intérieure, seules les dépenses de publicité afférentes à l'activité de jeux d'argent et de hasard sont incluses dans l'assiette de la contribution prévue au présent article.
+
+Le taux de la contribution est fixé à 15 %.
 
 Cette contribution est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
@@ -19,6 +21,4 @@ a) Sur l'annexe à la déclaration mentionnée au 1 de l'article 287 du code gé
 b) Sur la déclaration mentionnée au 3 dudit article 287 déposée au titre de l'année qui suit celle au titre de laquelle la taxe est due, pour les redevables de la taxe sur la valeur ajoutée soumis au régime simplifié d'imposition prévu à l'article 302 septies A du même code.
 
 NOTA:
-Conformément au IV de l’article 32 de la loi n° 2025-199 du 28 février 2025, ces dispositions entrent en vigueur le 1er juillet 2025.
-
-Conformément au V du même article, ces dispositions s'appliquent à la perception de la contribution mentionnée à l'article L. 137-27 du code de la sécurité sociale due au titre des exercices clos à compter du 1er juillet 2025.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

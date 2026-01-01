@@ -6,43 +6,46 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 | Cotisations et contributions | Taux de répartition des montants de cotisations |
 | --- | --- |
-| Cotisation d'assurance maladie-maternité | 8,90 % |
-| Cotisation d'assurance invalidité-décès | 3,10 % |
-| Cotisation d'assurance vieillesse de base mentionnée aux I et II de l'article D. 633-3 | 41,80 % |
-| Cotisation d'assurance vieillesse complémentaire | 16,50 % |
-| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 29,70 % |
+| Cotisation d'assurance maladie-maternité mentionnée à l'article L. 621-1 | 8,80 % |
+| Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 1,25 % |
+| Cotisation d'assurance invalidité-décès mentionnée à l'article L. 632-1 | 3,15 % |
+| Cotisation d'assurance vieillesse de base mentionnée à l'article D. 633-3 | 43,45 % |
+| Cotisation d'assurance vieillesse complémentaire mentionnée à l'article L. 635-1 | 19,75 % |
+| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale mentionnées à l'article L. 136-3 | 23,60 % |
 
 -pour les personnes relevant du b :
 
 | Cotisations et contributions | Taux de répartition des montants de cotisations |
 | --- | --- |
-| Cotisation d'assurance maladie maternité mentionnée au premier alinéa de l'article L. 621-1 | 9,30 % |
-| Cotisation de prestations maladie en espèces mentionnée au dernier alinéa de l'article L. 621-2 | 0,90 % |
-| Cotisation d'assurance invalidité décès | 1,40 % |
-| Cotisation d'assurance vieillesse de base mentionnée au 1° de l'article D. 642-3 | 23,45 % |
-| Cotisation d'assurance vieillesse de base mentionnée au 2° de l'article D. 642-3 | 5,35 % |
-| Cotisation d'assurance vieillesse complémentaire | 25,60 % |
-| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 34,00 % |
+| Cotisation d'assurance maladie maternité mentionnée à l'article L. 621-1 | 10,60 % |
+| Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 0,80 % |
+| Cotisation d'assurance invalidité décès mentionnée à l'article L. 644-2 | 1,40 % |
+| Cotisation d'assurance vieillesse de base mentionnée au 1° de l'article D. 642-3 | 24,30 % |
+| Cotisation d'assurance vieillesse de base mentionnée au 2° de l'article D. 642-3 | 5,20 % |
+| Cotisation d'assurance vieillesse complémentaire mentionnée à l'article L. 644-1 | 30,70 % |
+| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale mentionnées à l'article L. 136-3 | 27,00 % |
 
 -pour les personnes relevant du c :
 
 | Cotisations et contributions | Taux de répartition des montants de cotisations |
 | --- | --- |
-| Cotisation d'assurance maladie-maternité | 4,90 % |
-| Cotisation d'assurance invalidité-décès | 3,50 % |
-| Cotisations d'assurance vieillesse de base mentionnées aux I et II de l'article D. 633-3 du code de la sécurité sociale | 48,30 % |
-| Cotisation d'assurance vieillesse complémentaire | 15,10 % |
-| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 28,20 % |
+| Cotisation d'assurance maladie-maternité mentionnée à l'article L. 621-1 | 0,00 % |
+| Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 5,10 % |
+| Cotisation d'assurance invalidité-décès mentionnée à l'article L. 632-1 | 3,80 % |
+| Cotisations d'assurance vieillesse de base mentionnées à l'article D. 633-3 du code de la sécurité sociale | 50,20 % |
+| Cotisation d'assurance vieillesse complémentaire mentionnée à l'article L. 635-1 | 18,60 % |
+| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale mentionnées à l'article L. 136-3 | 22,30 % |
 
 -pour les personnes relevant du e :
 
 | Cotisations et contributions | Taux de répartition des montants de cotisations |
 | --- | --- |
-| Cotisation d'assurance maladie maternité | 3,40 % |
-| Cotisation d'assurance invalidité-décès | 3,50 % |
-| Cotisations d'assurance vieillesse de base mentionnées aux I et II de l'article D. 633-3 du code de la sécurité sociale | 47,60 % |
-| Cotisation d'assurance vieillesse complémentaire | 13,00 % |
-| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale | 32,50 % |
+| Cotisation d'assurance maladie maternité mentionnée à l'article L. 621-1 | 2,60 % |
+| Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 1,50 % |
+| Cotisation d'assurance invalidité-décès mentionnées à l'article L. 632-1 | 3,30 % |
+| Cotisations d'assurance vieillesse de base mentionnées à l'article D. 633-3 du code de la sécurité sociale | 46,40 % |
+| Cotisation d'assurance vieillesse complémentaire mentionnée à l'article L. 635-1 | 21,00 % |
+| Contribution sociale généralisée et contribution pour le remboursement de la dette sociale mentionnées à l'article L. 136-3 | 25,20 % |
 
 NOTA:
-Conformément au 3° de l'article 2 du décret n° 2024-484 du 30 mai 2024, ces dispositions entrent en vigueur à compter du 1er janvier 2025.
+Conformément à l'article 2 du décret n° 2025-943 du 8 septembre 2025, ces dispositions, dans leur rédaction résultant de l'article 1er du décret précité, s'appliquent au titre des périodes courant à compter du 1er janvier 2026.

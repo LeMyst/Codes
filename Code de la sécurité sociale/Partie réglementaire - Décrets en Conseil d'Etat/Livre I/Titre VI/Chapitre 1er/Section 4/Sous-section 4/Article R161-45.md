@@ -14,7 +14,7 @@ Le prescripteur y fait mention, quel que soit le support :
 
 5° Le cas échéant, la mention de la disposition législative en vertu de laquelle la participation financière de l'assuré est limitée ou supprimée ;
 
-6° Le cas échéant, des éléments requis en application de l'article L. 162-19-1 et précisés par les arrêtés d'inscription mentionnés aux articles R. 162-34-13, R. 162-37-2, R. 162-38, R. 162-73, R. 163-2, R. 165-1 et R. 165-93 ou par la décision des ministres prévue aux articles R. 163-32, R. 162-116 et R. 163-51.
+6° Le cas échéant, des éléments requis en application de l'article L. 162-1-7-1 et précisés par les arrêtés d'inscription mentionnés aux articles R. 162-34-13, R. 162-37-2, R. 162-38, R. 162-73, R. 163-2, R. 165-1 et R. 165-93 ou par la décision des ministres prévue aux articles R. 163-32, R. 162-116 et R. 163-51.
 
 L'ordonnance est signée du prescripteur. Ce dernier indique en outre, s'il y a lieu, sur l'ordonnance écrite remise au bénéficiaire des soins, que la prescription est transmise électroniquement à l'organisme d'assurance maladie, conformément aux dispositions du 1° du I de l'article R. 161-48.
 
@@ -37,3 +37,6 @@ Le professionnel ne porte pas ces références sur l'ordonnance dans le cas pré
 Il appose, en outre, sa signature sur l'ordonnance.
 
 III.-Le cas échéant, lorsque les éléments mentionnés au 6° du I n'ont pas été portés sur l'ordonnance, il est joint à celle-ci un document indiquant si la prescription respecte les indications ouvrant droit au remboursement ou les recommandations de la Haute Autorité de santé. Pour l'établissement de ce document, le prescripteur a en principe recours au téléservice dédié. Par exception, le prescripteur peut compléter un questionnaire disponible sur le site de l'assurance maladie qu'il adresse par voie postale, ou tout système de communication sécurisé mis en place par l'assurance maladie, au service du contrôle médical placé auprès de l'organisme d'assurance maladie de l'assuré.
+
+NOTA:
+Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.

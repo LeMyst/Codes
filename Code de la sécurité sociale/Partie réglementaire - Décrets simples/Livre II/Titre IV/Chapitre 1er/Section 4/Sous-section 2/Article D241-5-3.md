@@ -4,7 +4,7 @@ I.-Pour les employeurs mentionnés au III de l'article L. 241-10, à l'exception
 
 Lorsque l'aide à domicile n'a effectué aucune heure de travail au cours du mois considéré, mais a néanmoins perçu des revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, l'exonération prévue au premier alinéa du III de l'article L. 241-10 est applicable au prorata du nombre d'heures d'aide à domicile réalisées chez les personnes mentionnées audit III, retenu pour le mois civil précédent.
 
-II.-Lorsque la rémunération mensuelle est fixée sur la base d'une durée du travail indépendante de l'horaire réel, l'exonération prévue au premier alinéa du III de l'article L. 241-10 s'applique, dans les conditions prévues au I ci-dessus, à l'ensemble des rémunérations afférentes à la période annuelle ou infra-annuelle retenue pour apprécier la durée du travail moyenne.
+Lorsque la rémunération mensuelle est fixée sur la base d'une durée du travail indépendante de l'horaire réel, l'exonération prévue au premier alinéa du III de l'article L. 241-10 s'applique, dans les conditions prévues au I ci-dessus, à l'ensemble des rémunérations afférentes à la période annuelle ou infra-annuelle retenue pour apprécier la durée du travail moyenne.
 
 Les employeurs doivent procéder, à l'expiration de ladite période, à une régularisation :
 
@@ -14,5 +14,7 @@ Les employeurs doivent procéder, à l'expiration de ladite période, à une ré
 
 La régularisation mentionnée à l'alinéa ci-dessus intervient dans le délai mentionné au dernier alinéa de l'article R. 243-14 en cas de cessation d'activité ou, le cas échéant, de cession de l'organisme d'aide à domicile.
 
+II. - Le montant annuel de l'exonération est égal au produit de la rémunération annuelle brute versée au salarié par une valeur correspondant à la somme des cotisations et contributions mentionnées au premier alinéa du III de l'article L. 241-10, à la charge de l'employeur.
+
 NOTA:
-Conformément à l’article 4 du décret n° 2018-1357 du 28 décembre 2018, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes courant à compter du 1er janvier 2019.
+Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.

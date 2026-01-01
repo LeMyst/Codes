@@ -24,7 +24,7 @@ La condition mentionnée au cinquième alinéa du présent I ne s'applique pas :
 
 II.-Lorsque le ménage ou la personne emploie un assistant maternel agréé, le montant mentionné au a du I correspond à la totalité des cotisations et contributions sociales, pour chaque enfant, dans la limite d'un plafond.
 
-Lorsque le ménage ou la personne emploie une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail, le montant mentionné au a du I correspond à une fraction, fixée par décret, des cotisations et contributions sociales, dans la limite d'un plafond par ménage après prise en compte de la déduction prévue au I bis de l'article L. 241-10 du présent code. Le plafond mentionné au présent alinéa est fixé par décret. Il est revalorisé à la date mentionnée à l'article L. 551-1, par application du coefficient mentionné à l'article L. 161-25.
+Lorsque le ménage ou la personne emploie une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail , le montant mentionné au a du I correspond à une fraction, fixée par décret, des cotisations et contributions sociales, dans la limite d'un plafond par ménage après prise en compte de la déduction prévue au I bis de l'article L. 241-10 du présent code. Le plafond mentionné au présent alinéa est fixé par décret. Il est revalorisé à la date mentionnée à l'article L. 551-1, par application du coefficient mentionné à l'article L. 161-25.
 
 III.-Le montant mentionné au b du I est calculé en fonction d'un barème qui prend en considération :
 
@@ -40,7 +40,7 @@ III.-Le montant mentionné au b du I est calculé en fonction d'un barème qui p
 
 6° Le salaire net versé à la personne qui assure la garde de l'enfant et, s'il y a lieu, les indemnités mentionnées à l'article L. 423-4 du code de l'action sociale et des famillesdans la limite d'un plafond dont le niveau et les modalités de calcul sont fixés par décret. Ce décret peut fixer des plafonds distincts entre un assistant maternel agréé et une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail..
 
-L'aide est calculée par enfant en cas d'emploi d'un assistant maternel agréé, et par ménage en cas d'emploi d'une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail.
+L'aide est calculée par enfant en cas d'emploi d'un assistant maternel agréé, et par ménage en cas d'emploi d'une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail .
 
 Son barème est revalorisé chaque année à la date mentionnée à l'article L. 551-1 du présent code, dans des conditions fixées par voie réglementaire.
 
@@ -48,7 +48,13 @@ IV.-Par dérogation aux dispositions du premier alinéa de l'article L. 531-1, l
 
 V.-En cas de résidence alternée de l'enfant au domicile de chacun des parents, prévue à l'article 373-2-9 du code civil, mise en œuvre de manière effective, un décret fixe les modalités et les conditions du bénéfice par ceux-ci du complément de libre choix du mode de garde.
 
+V bis.-Selon des modalités fixées par décret, le versement de la part mentionnée au b du I du présent article est suspendu lorsque la personne ou le ménage mentionné au premier alinéa du même I cesse de rémunérer l'assistant maternel agréé ou la personne mentionnée à l'article L. 7221-1 du code du travail qu'elle ou il emploie.
+
+Le décret mentionné au premier alinéa du présent V bis prévoit notamment les modalités selon lesquelles l'assistant maternel agréé ou la personne mentionnée à l'article L. 7221-1 du code du travail peut signaler le défaut de paiement à l'organisme débiteur des prestations familiales ou à l'organisme mentionné à l'article L. 133-5-10 du présent code.
+
+Par dérogation au premier alinéa du I de l'article L. 133-5-12, l'adhésion à l'intermédiation prévue au même article L. 133-5-12 de la personne ou du ménage mentionné au premier alinéa du présent V bis qui a régularisé sa situation d'impayé est obligatoire pour bénéficier à nouveau du complément de libre choix du mode de garde. En cas de nouveau défaut de paiement, les conditions prévues au 1° du IV de l'article L. 133-5-12 demeurent applicables.
+
 VI.-Un décret définit les conditions d'application du présent article ainsi que les conditions de cumul, pour un même enfant ou plusieurs enfants, des compléments de libre choix du mode de garde versés au titre de modes de garde différents.
 
 NOTA:
-Se reporter aux modalités d'application prévues aux VI et VII de l'article 86 de la loi n° 2022-1616 du 23 décembre 2022.
+Conformément au II de l'article 92 de la loi n° 2025-199 du 28 février 2025, l'article précité entre en vigueur le 1er janvier 2026.

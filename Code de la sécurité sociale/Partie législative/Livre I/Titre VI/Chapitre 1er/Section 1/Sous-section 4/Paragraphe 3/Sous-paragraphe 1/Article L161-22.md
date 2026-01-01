@@ -34,9 +34,9 @@ Les dispositions des trois premiers alinéas et celles des deux premiers alinéa
 
 9° Activités donnant lieu à la perception des indemnités mentionnées à l'article L. 382-31 du présent code.
 
-Les dispositions du présent article ne sont pas opposables à l'assuré qui demande ou qui bénéficie d'une pension au titre d'une retraite progressive prévue par des dispositions législatives ou réglementaires, notamment par les articles L. 161-22-1-5 du présent code et L. 732-29 du code rural et de la pêche maritime.
+Les dispositions du présent article ne sont pas opposables à l'assuré qui demande ou qui bénéficie d'une pension au titre d'une retraite progressive prévue par des dispositions législatives ou réglementaires, notamment par l'article L. 161-22-1-5.
 
 Sauf disposition contraire, les dispositions d'application du présent article sont prises par décret.
 
 NOTA:
-Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.

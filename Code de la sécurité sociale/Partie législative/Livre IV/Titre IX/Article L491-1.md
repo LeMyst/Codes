@@ -14,7 +14,7 @@ c) Les assurés relevant du régime d'assurance accidents du code local des assu
 
 a) Les assurés non-salariés des professions agricoles mentionnés au b du 1° ou relevant du c du même 1°, pour le complément d'indemnisation mentionné au douzième alinéa ;
 
-b) Les anciens exploitants, leurs conjoints et les membres de la famille bénéficiaires d'une pension de retraite agricole prévue aux articles L. 732-18 et L. 732-34 du code rural et de la pêche maritime qui ont cessé leur activité non salariée agricole avant le 1er avril 2002 ;
+b) Les anciens exploitants, leurs conjoints et les membres de la famille bénéficiaires d'une pension de retraite agricole prévue aux articles L. 732-18 et L. 732-34 du code rural et de la pêche maritime, dans leur rédaction antérieure à la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, qui ont cessé leur activité non salariée agricole avant le 1er avril 2002 ;
 
 c) Les enfants atteints d'une pathologie résultant directement de leur exposition prénatale du fait de l'exposition professionnelle de l'un ou l'autre de leurs parents à des pesticides mentionnés au premier alinéa du présent article ainsi que leurs ayants droit.
 
@@ -27,3 +27,6 @@ La nature et le montant des prestations et indemnités versées aux personnes me
 Les enfants mentionnés au c du 2° bénéficient, dans des conditions définies par décret en Conseil d'Etat, d'une indemnité destinée à réparer leurs dommages corporels.
 
 La réparation prévue aux alinéas précédents, qui présente un caractère forfaitaire, ne fait pas obstacle à l'engagement d'une action juridictionnelle, selon les voies de recours de droit commun.
+
+NOTA:
+Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.

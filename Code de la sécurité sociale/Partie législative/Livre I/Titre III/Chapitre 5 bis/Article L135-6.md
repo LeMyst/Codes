@@ -4,7 +4,7 @@ Il est créé un établissement public de l'Etat à caractère administratif, d�
 
 I.-Ce fonds a pour mission principale de gérer les sommes qui lui sont affectées afin de constituer des réserves destinées à contribuer à la pérennité des régimes de retraite.
 
-Les réserves sont constituées au profit de l'assurance vieillesse du régime général ainsi que du fonds mentionné à l'article L. 135-1.
+Les réserves sont constituées au profit de l'assurance vieillesse du régime général.
 
 Les sommes affectées au fonds sont mises en réserve jusqu'au 1er janvier 2011. A compter de cette date et jusqu'en 2024, le fonds verse chaque année, au plus tard le 31 octobre, 2,1 milliards d'euros à la Caisse d'amortissement de la dette sociale afin de participer au financement des déficits, au titre des exercices 2011 à 2018, des organismes mentionnés à l'alinéa précédent. Le calendrier et les modalités de ces versements sont fixés par convention entre les deux établissements.
 
@@ -13,3 +13,6 @@ A compter de 2025, le fonds verse chaque année à la Caisse d'amortissement de 
 II.-Les réserves qui excèdent la couverture des engagements mentionnés aux deux derniers alinéas du I peuvent être affectées par la loi de financement de la sécurité sociale au financement, le cas échéant, de la correction de déséquilibres financiers conjoncturels des régimes de retraite ou du fonds mentionné au deuxième alinéa du même I, notamment ceux identifiés dans les conditions prévues à l'article L. 114-4.
 
 III.-(Abrogé)
+
+NOTA:
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

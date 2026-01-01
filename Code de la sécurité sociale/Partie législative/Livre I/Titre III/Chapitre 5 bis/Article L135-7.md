@@ -4,9 +4,9 @@ Les ressources du fonds sont constituées par :
 
 1° Abrogé ;
 
-2° Tout ou partie du résultat excédentaire du Fonds de solidarité vieillesse mentionné à l'article L. 135-1, dans des conditions fixées par arrêté des ministres chargés de la sécurité sociale et du budget ;
+2° Abrogé ;
 
-3° Le cas échéant, en cours d'exercice, un montant représentatif d'une fraction de l'excédent prévisionnel de l'exercice excédentaire du Fonds de solidarité vieillesse mentionné à l'article L. 135-1 tel que présenté par la Commission des comptes de la sécurité sociale lors de sa réunion du second semestre de ce même exercice ; un arrêté conjoint des ministres chargés de la sécurité sociale et du budget détermine les montants à verser ainsi que les dates de versement ;
+3° Abrogé ;
 
 4° Les montants résultant de l'application de l'article L. 251-6-1 ;
 
@@ -23,3 +23,6 @@ Les ressources du fonds sont constituées par :
 10° Le produit des placements effectués au titre du Fonds de réserve pour les retraites ;
 
 11° Abrogé.
+
+NOTA:
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

@@ -8,7 +8,7 @@ Lorsque la personne contrôlée est une personne morale, l'avis de contrôle est
 
 Sauf précision contraire, cet avis vaut pour l'ensemble des établissements de la personne contrôlée.
 
-Cet avis fait état de l'existence d'un document intitulé " Charte du cotisant contrôlé " présentant à la personne contrôlée la procédure de contrôle et les droits dont elle dispose pendant son déroulement et à son issue, sur le fondement du présent code. Il précise l'adresse électronique où ce document approuvé par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture, est consultable et indique qu'il est adressé au cotisant sur sa demande. Les dispositions contenues dans la charte sont opposables aux organismes effectuant le contrôle.
+Cet avis fait état de l'existence d'un document intitulé " Charte du cotisant contrôlé " présentant à la personne contrôlée la procédure de contrôle et les droits dont elle dispose pendant son déroulement et à son issue, sur le fondement du présent code. Il précise l'adresse électronique où ce document, publié au “ Bulletin officiel de la sécurité sociale ” mentionné au III de l'article L. 243-6-2, est consultable et indique qu'il est adressé au cotisant sur sa demande. Les dispositions contenues dans la charte sont opposables aux organismes effectuant le contrôle.
 
 II.-La personne contrôlée a le droit pendant le contrôle de se faire assister du conseil de son choix. Il est fait mention de ce droit dans l'avis prévu aux précédents alinéas.
 
@@ -55,3 +55,6 @@ Lorsqu'un solde créditeur en faveur de la personne contrôlée résulte de l'en
 Les dispositions du chapitre II du titre IV du livre Ier sont applicables aux observations de l'organisme ainsi qu'à l'avis de crédit, mentionnés respectivement aux deuxième et troisième alinéas du présent IV.
 
 V.-Les documents mentionnés au présent article sont adressés à la personne contrôlée selon les modalités définies au troisième alinéa du I.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du a du 4° de l'article 1er du décret précité, entrent en vigueur au 1er janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.

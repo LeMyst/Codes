@@ -8,7 +8,7 @@ I.-Les charges résultant des dispositions de la présente sous-section sont cou
 
 3° Abrogé ;
 
-4° Une contribution du fonds institué par l'article L. 135-1 dans les conditions fixées par l'article L. 135-2 ;
+4° Une contribution de la branche mentionnée au 3° de l'article L. 200-2 dans les conditions fixées à l'article L. 222-2-1 ;
 
 5° Des recettes diverses ;
 
@@ -17,3 +17,6 @@ I.-Les charges résultant des dispositions de la présente sous-section sont cou
 II.-Les taux des cotisations et les bases forfaitaires mentionnés au I sont fixés par décret, après avis du conseil d'administration de l'organisme mentionné à l'article L. 382-17.
 
 Sur la demande des administrateurs représentant chacun des cultes, le conseil d'administration de l'organisme mentionné à l'article L. 382-17 peut répartir entre les associations, congrégations et collectivités religieuses les montants des cotisations que celles-ci doivent verser compte tenu des capacités contributives de chacune d'elles et des charges que le régime supporte de leur fait.
+
+NOTA:
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

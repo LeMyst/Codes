@@ -10,7 +10,7 @@ Toutefois, ne peuvent être déléguées les attributions suivantes :
 
 2° L'approbation du plan pluriannuel d'investissement et son actualisation annuelle ;
 
-3° Les décisions relatives au vote du budget, à l'autorisation des emprunts et à l'approbation des comptes financiers ;
+3° Les décisions relatives au vote du budget, à l'autorisation des emprunts et à l'approbation des comptes financiers uniques ;
 
 4° La définition de la politique tarifaire ;
 
@@ -39,4 +39,4 @@ II.-Une majorité des trois quarts des suffrages exprimés est requise pour :
 7° Toute modification du nombre de membres siégeant au conseil d'administration.
 
 NOTA:
-Conformément aux dispositions prévues par l'article 12 de l' ordonnance n° 2021-408 du 8 avril 2021 relative à l'autorité organisatrice des mobilités des territoires lyonnais, ces dispositions entrent en vigueur le 1er janvier 2022, qui est la date de création de l'autorité organisatrice des mobilités des territoires lyonnais, à l'exception des articles 10 et 11, qui entrent en vigueur le lendemain de la date de publication de l'ordonnance.
+Conformément à l'article 12 de l'ordonnance n° 2025-526 du 12 juin 2025, les dispositions de ladite ordonnance s'appliquent à compter de l'exercice budgétaire 2026.

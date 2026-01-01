@@ -18,7 +18,7 @@ Ne peuvent être élus conseillers municipaux dans les communes situées dans le
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité de Corse, de la collectivité de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de leurs établissements publics, les fonctions de directeur général des services, directeur général adjoint des services, directeur des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet, directeur adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de l'assemblée ou du président du conseil exécutif ;
+8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité de Corse, de la collectivité de Guyane ou de Martinique, du Département-Région de Mayotte, d'un établissement public de coopération intercommunale à fiscalité propre ou de leurs établissements publics, les fonctions de directeur général des services, directeur général adjoint des services, directeur des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet, directeur adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de l'assemblée ou du président du conseil exécutif ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
 
@@ -27,4 +27,4 @@ Les agents salariés communaux ne peuvent être élus au conseil municipal de la
 Les délais mentionnés aux deuxième à onzième alinéas du présent article ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 NOTA:
-Conformément au IV de l'article 33 de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur le 1er janvier 2020 ou lors du prochain renouvellement général des conseils municipaux s'il intervient avant cette date.
+Conformément à l’article 51 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction issue des 1° à 7°, 9° et 11° de l'article 50 de la loi précitée, entrent en vigueur dans les conditions prévues au second alinéa du II de l'article 48.

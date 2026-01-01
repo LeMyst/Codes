@@ -24,9 +24,9 @@ IV.-La Commission nationale des comptes de campagne et des financements politiqu
 
 V.-Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par les candidats aux élections législatives, aux élections sénatoriales et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses.
 
-Par dérogation au II et à la seconde phrase du 2° du III du présent article, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de campagne et, le cas échéant, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6 peuvent également être déposés à la préfecture ou la sous-préfecture.
+Par dérogation au II et à la seconde phrase du 2° du III du présent article, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, le compte de campagne et, le cas échéant, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6 peuvent également être déposés à la préfecture ou la sous-préfecture.
 
 VI.-Pour l'application du présent article, en cas de scrutin binominal, le candidat s'entend du binôme de candidats.
 
 NOTA:
-Conformément à l'article 15 de la loi n° 2019-1269 du 2 décembre 2019, ces dispositions entrent en vigueur le 30 juin 2020.
+Conformément à l’article 51 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction issue des 1° à 7°, 9° et 11° de l'article 50 de la loi précitée, entrent en vigueur dans les conditions prévues au second alinéa du II de l'article 48.

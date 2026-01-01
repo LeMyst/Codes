@@ -19,6 +19,9 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 
 Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0,15 euro par habitant de la circonscription.
 
-Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de Corse et des conseillers aux assemblées de Guyane et de Martinique.
+Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de Corse et des conseillers à l'assemblée de Guyane, à l'assemblée de Martinique et à l'assemblée de Mayotte.
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la consommation des ménages, hors tabac. Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au titre de laquelle le déficit public des administrations publiques est nul. Ce déficit est constaté dans les conditions prévues au deuxième alinéa de l'article 3 du règlement (CE) n° 479/2009 du Conseil, du 25 mai 2009, relatif à l'application du protocole sur la procédure concernant les déficits excessifs annexé au traité instituant la Communauté européenne.
+
+NOTA:
+Conformément à l’article 51 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction issue des 1° à 7°, 9° et 11° de l'article 50 de la loi précitée, entrent en vigueur dans les conditions prévues au second alinéa du II de l'article 48.

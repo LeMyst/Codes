@@ -14,7 +14,7 @@ Le mandat de député est incompatible avec :
 
 6° Les fonctions de président, de membre du conseil exécutif de Corse et de président de l'assemblée de Corse ;
 
-7° Les fonctions de président et de vice-président de l'assemblée de Guyane ou de l'assemblée de Martinique ; de président et de membre du conseil exécutif de Martinique ;
+7° Les fonctions de président et de vice-président de l'assemblée de Guyane, de Martinique ou de Mayotte ; de président et de membre du conseil exécutif de Martinique ;
 
 8° Les fonctions de président, de vice-président et de membre du gouvernement de la Nouvelle-Calédonie ; de président et de vice-président du congrès de la Nouvelle-Calédonie ; de président et de vice-président d'une assemblée de province de la Nouvelle-Calédonie ;
 
@@ -31,4 +31,4 @@ Le mandat de député est incompatible avec :
 Tant qu'il n'est pas mis fin, dans les conditions prévues au II de l'article LO 151, à une incompatibilité mentionnée au présent article, l'élu concerné ne perçoit que l'indemnité attachée à son mandat parlementaire.
 
 NOTA:
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
+Conformément à l'article 5 de la loi n° 2025-793 du 11 août 2025, ces dispositions, dans leur rédaction issue de la loi précitée, entrent en vigueur à une date fixée par décret et, au plus tard, le 1er janvier 2026. Elles s'appliquent à compter du prochain renouvellement général des conseils départementaux suivant l'entrée en vigueur de la loi précitée.

@@ -38,13 +38,13 @@ Le taux de cette taxe est égal à 1,12 %.
 
 III. – 1. – La taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises mentionnée au I est égale à une fraction de la cotisation visée à l'article 1586 ter due par les entreprises redevables après application de l'article 1586 quater.
 
-Son taux est égal à 13,84 %.
+Son taux est égal à 9,23 %.
 
 1 bis. – La taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la cotisation sur la valeur ajoutée des entreprises. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette dernière.
 
 2. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+Conformément au H du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies au titre de 2026.
 
-Conformément au F du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies au titre de 2025.
+Conformément au A du VI de l'article 62 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux impositions dues au titre de 2026 et de 2027.

@@ -194,9 +194,9 @@ IX.-Le bénéfice de la réduction d'impôt prévue aux A à C et aux 1° et 3°
 
 Le bénéfice de la réduction d'impôt prévue au 2° du D du I est subordonné, pour les investissements réalisés à Saint-Martin, au respect de la décision 2012/21/ UE de la Commission du 20 décembre 2011 relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
 
-X.-A.-Le présent article est applicable aux investissements réalisés jusqu'au 31 décembre 2025.
+X.-A.-Le présent article est applicable aux investissements réalisés jusqu'au 31 décembre 2029.
 
 B.-Un décret fixe les conditions d'application du présent article.
 
 NOTA:
-Les modalités d’application du présent article, dans sa rédaction issue de l’article 75 de la loi n° 2023-1322 du 29 décembre 2023, sont définies au V dudit article.
+Conformément au II de l’article 13 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2026.

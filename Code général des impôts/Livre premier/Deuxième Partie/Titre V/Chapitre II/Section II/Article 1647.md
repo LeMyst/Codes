@@ -28,7 +28,7 @@ VI. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèveme
 
 VII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 2,5 % des sommes recouvrées au titre des impositions ou fraction d'impositions suivantes :
 
-1° La majoration outre-mer de la taxe sur le transport aérien de passagers mentionnée à l'article L. 422-30 du code des impositions sur les biens et services ;
+1° (Abrogé) ;
 
 2° La taxe annuelle sur les engins maritimes à usage personnel mentionnée à l'article L. 423-4 du même code ;
 
@@ -46,7 +46,13 @@ X.-Pour frais de recouvrement, l'Etat prélève 5 % des sommes recouvrées par l
 
 2° Les taxes sur les produits de l'industrie et de l'artisanat mentionnée à l'article L. 471-1 du même code.
 
-XI. – (Abrogé)
+XI. – Pour frais de recouvrement, l'Etat prélève sur les sommes collectées par l'Autorité de sûreté nucléaire et de radioprotection en application de l'article L. 592-34 du code de l'environnement :
+
+1° 1 % du montant des tarifs de recherche et d'accompagnement de la taxe sur les installations nucléaires de base relevant du secteur énergétique et assimilées prévus aux a et b du 2° de l'article L. 322-50 du code des impositions sur les biens et services ;
+
+2° 0,5 % du montant du tarif de conception de la taxe sur les installations nucléaires de base relevant du secteur énergétique et assimilées prévu au c du même 2° ;
+
+3° 1 % du montant du tarif de stockage de la taxe sur les installations nucléaires de base concourant à la gestion des substances radioactives prévu au 2° de l'article L. 433-9 du même code, dans la limite d'un plafond de 70 000 euros.
 
 XII. – (Abrogé)
 
@@ -73,4 +79,8 @@ XXI.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 XXII.-Le présent article est applicable dans les collectivités régies par l'article 74 de la Constitution et en Nouvelle-Calédonie dans la mesure où les impositions formant la base imposable des frais y sont applicables.
 
 NOTA:
-Conformément à l'article 75 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er mars 2025.
+Conformément au B du VIII de l'article 111 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2026 et sont applicables aux impositions dont le fait générateur intervient à compter de cette date.
+
+Conformément au X de l’article 18 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2026.
+
+Conformément au XIII de l’article 75 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2026.

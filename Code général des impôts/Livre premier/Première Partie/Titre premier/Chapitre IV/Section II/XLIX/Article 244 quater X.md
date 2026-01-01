@@ -80,11 +80,11 @@ b) Les logements mentionnés au I sont cédés, si cette cession intervient avan
 
 A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de trois ans.
 
-VIII. – 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2025. Pour l'application du présent VIII, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
+VIII. – 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2029. Pour l'application du présent VIII, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux organismes mentionnés au premier alinéa du 1 du I.
 
 IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
 
 NOTA:
-Les modalités d’application des présentes dispositions sont fixées aux F et G du X de l’article 71 de la loi n° 2023-1322 du 29 décembre 2023.
+Conformément au II de l’article 13 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2026.

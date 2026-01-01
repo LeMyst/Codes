@@ -70,7 +70,7 @@ VIII. – Un contribuable ne peut, pour un même logement ou une même souscript
 
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue au présent article ne peuvent faire l'objet d'une déduction pour la détermination des revenus fonciers.
 
-IX. – Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 24 septembre 2018, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, et le 31 décembre 2025 à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. Pour l'application du présent IX, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
+IX. – Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 24 septembre 2018, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, et le 31 décembre 2029 à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna. Pour l'application du présent IX, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier.
 
 Toutefois, le présent article reste applicable, pour les investissements réalisés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, aux investissements pour l'agrément desquels une demande est parvenue à l'administration au plus tard le 24 septembre 2018.
 
@@ -81,4 +81,4 @@ Toutefois, le présent article reste applicable, pour les investissements réali
 X. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
 
 NOTA:
-Conformément au II de l'article 78 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux travaux de rénovation ou de réhabilitation pour lesquels une déclaration préalable de travaux ou une demande de permis de construire est déposée à compter du 1er janvier 2024.
+Conformément au II de l’article 13 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2026.

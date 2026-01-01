@@ -10,7 +10,7 @@ b) Pour les autres contribuables, celle définie à l'article 1586 sexies.
 
 La valeur ajoutée prise en compte est celle produite au cours de la période mentionnée au I de l'article 1586 quinquies. En l'absence de cession ou de cessation d'entreprise au cours de l'année d'imposition, le montant de la valeur ajoutée mentionnée au b est corrigé pour correspondre à une année pleine.
 
-Le taux de plafonnement est fixé à 1,438 % de la valeur ajoutée.
+Le taux de plafonnement est fixé à 1,531 % de la valeur ajoutée.
 
 II. ― Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations peuvent faire l'objet.
 
@@ -29,4 +29,6 @@ VI. ― Les dégrèvements résultant de l'application du présent article sont 
 NOTA:
 Dans sa décision n° 2014-413 QPC du 19 septembre 2014 (NOR : CSCX1422266S), le Conseil constitutionnel a déclaré le dernier alinéa du paragraphe II de l'article 1647 B sexies du code général des impôts contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet dans les conditions prévues au considérant 8.
 
-Conformément au I ter du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022 dans sa rédaction issue de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à la cotisation foncière des entreprises due au titre de 2025.
+Conformément au I quater du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022 dans sa rédaction issue de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à la cotisation foncière des entreprises due au titre de 2026.
+
+Conformément au I sexies dudit article, dans sa rédaction issue de l'article 62 de la loi n°2025-127 du 14 février 2025, ces dispositions s'appliquent à la cotisation foncière des entreprises due au titre de 2026 et de 2027.

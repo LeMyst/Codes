@@ -51,7 +51,7 @@ b) En cas de rattachement d'une commune à un établissement public de coopérat
 
 c) Aux établissements publics de coopération intercommunale faisant application au 31 décembre 2012 du régime prévu au I de l'article 1609 quinquies C ou à l'article 1609 nonies C, n'ayant pas délibéré pour fixer une base minimum en application du 1 du présent I et sur le territoire desquels s'appliquent les bases minimum de leurs communes membres.
 
-I bis. – Dans le Département de Mayotte :
+I bis. – Dans le Département-Région de Mayotte :
 
 1° Les montants mentionnés au premier alinéa du 1 du I, à l'exception des montants de 250 000 €, 100 000 € et 10 000 €, sont réduits de moitié ;
 
@@ -70,4 +70,4 @@ II. – Quand ils ne disposent d'aucun local ou terrain :
 1. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
 
 NOTA:
-Modification effectuée en conséquence de l'article 2-6.1.31 de la loi n° 2009-1673 du 30 décembre 2009, de l'article 51-I-2° de la loi n° 2011-1978 du 28 décembre 2011 et de l'article 76-I E 1° de la loi n° 2013-1278 du 29 décembre 2013.
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.

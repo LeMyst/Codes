@@ -122,11 +122,11 @@ En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité.
 
-IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2025, aux travaux de réhabilitation hôtelière et de réhabilitation lourde d'immeubles autres que ceux à usage d'habitation achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
+IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2029, aux travaux de réhabilitation hôtelière et de réhabilitation lourde d'immeubles autres que ceux à usage d'habitation achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises et organismes mentionnés au 4 du I.
 
 X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du même règlement.
 
 NOTA:
-Conformément au II de l'article 37 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité s'applique aux investissements mis en service à compter du lendemain de la promulgation de ladite loi. Il s'applique également aux investissements pour lesquels une demande d'agrément a été déposée avant cette promulgation, à l'exception des investissements pour lesquels la demande d'agrément a fait l'objet d'une décision de refus intervenue avant cette même promulgation.
+Conformément au II de l’article 13 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2026.

@@ -50,11 +50,11 @@ Le produit de la taxe est affecté aux départements et, dans les conditions pr�
 
 a) D'une fraction du produit de la taxe afférente aux contrats mentionnés au 5° ter, qui est affectée, à hauteur de 35 millions d'euros en 2016 et de 45 millions d'euros à compter de 2017, au budget général de l'Etat ;
 
-b) D'une fraction correspondant à un taux de 13,3 % du produit de la taxe au taux de 33 % et du produit de la taxe au taux de 15 % mentionnés au 5° quater ainsi que du prélèvement sur le produit de la taxe sur les conventions d'assurance perçu par les départements dans les conditions prévues au III de l'article 52 de la loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005, défini au II de l'article 132 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025 , qui sont affectés dans les conditions prévues à l'article L. 131-8 du code de la sécurité sociale ;
+b) D'une fraction correspondant à un taux de 13,3 % du produit de la taxe au taux de 33 % et du produit de la taxe au taux de 15 % mentionnés au 5° quater ainsi que du prélèvement sur le produit de la taxe sur les conventions d'assurance perçu par les départements dans les conditions prévues au III de l'article 52 de la loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005, défini au II de l'article 132 de la loi n° 2025-127 du 14 février 2025 de finances pour 2025, qui sont affectés dans les conditions prévues à l'article L. 131-8 du code de la sécurité sociale ;
 
 c) Du produit de la taxe afférente aux contrats d'assurance en cas de décès souscrits en garantie du remboursement d'un prêt mentionnés au 5° de l'article 995, qui est affecté au budget général de l'Etat.
 
-Les tarifs mentionnés aux 1° à 6° du présent article sont réduits de moitié pour les primes afférentes à des risques situés dans le Département de Mayotte.
+Les tarifs mentionnés aux 1° à 6° du présent article sont réduits de moitié pour les primes afférentes à des risques situés dans le Département-Région de Mayotte.
 
 NOTA:
-Conformément au II de l'article 113 de la loi n° 2025-127 du 14 février 2025, le I dudit article s'applique aux primes, cotisations et accessoires se rapportant aux conventions dont l'échéance intervient à compter du 1er juillet 2025.
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.

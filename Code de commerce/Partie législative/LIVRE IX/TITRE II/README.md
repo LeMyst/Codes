@@ -1,1 +1,1 @@
-TITRE II : Dispositions spécifiques au Département de Mayotte.
+TITRE II : Dispositions spécifiques au Département-Région de Mayotte.

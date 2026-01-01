@@ -14,6 +14,9 @@ III.-Pour tenir compte des particularités locales, le préfet de région peut s
 
 Lorsqu'il fait application de l'alinéa précédent, le préfet de région en informe les préfets de département intéressés.
 
-IV.-Au sein de la chambre de commerce et d'industrie de région de Corse, le même nombre de sièges est attribué à chacune des deux chambres de commerce et d'industrie territoriales.
+IV.- (Abrogé).
 
 V.-Le nombre de membres des chambres de commerce et d'industrie locales, départementales d'Ile-de-France et territoriales, et leur répartition entre catégories professionnelles et, le cas échéant, sous-catégories, est fixé dans les mêmes conditions.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2025-1248 du 19 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

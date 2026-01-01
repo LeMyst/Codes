@@ -2,9 +2,9 @@
 
 Pour l'application du présent livre à Mayotte :
 
-1° La référence au département est remplacée par la référence au Département de Mayotte ;
+1° La référence au département est remplacée par la référence au Département-Région de Mayotte ;
 
-2° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat dans le Département de Mayotte ;
+2° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat dans le Département-Région de Mayotte ;
 
 3° La référence au représentant de l'Etat dans le département du siège de la zone de défense et de sécurité est remplacée par la référence au haut-fonctionnaire de zone de défense et de sécurité ;
 
@@ -20,7 +20,7 @@ Pour l'application du présent livre à Mayotte :
 
 a) Au premier alinéa, la référence à l'article L. 1424-4 du code général des collectivités territoriales est remplacée par la référence à l'article L. 6161-30 du même code ;
 
-b) Au deuxième alinéa, les mots : " au service départemental d'incendie et de secours " sont remplacés par les mots : " au Département de Mayotte " ;
+b) Au deuxième alinéa, les mots : " au service départemental d'incendie et de secours " sont remplacés par les mots : " au Département-Région de Mayotte " ;
 
 9° L'article L. 724-12 est ainsi rédigé :
 
@@ -29,3 +29,6 @@ b) Au deuxième alinéa, les mots : " au service départemental d'incendie et de
 10° (Abrogé) ;
 
 11° A l'article L. 731-2, jusqu'au 31 décembre 2013, la référence à l'article L. 1424-7 du code général des collectivités territoriales est remplacée par la référence à l'article L. 6161-40 du même code.
+
+NOTA:
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.

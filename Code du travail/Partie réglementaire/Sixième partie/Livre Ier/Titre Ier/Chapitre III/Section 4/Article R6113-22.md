@@ -20,8 +20,13 @@ d) Trois représentants désignés, pour chaque commission professionnelle consu
 
 5° Cinq membres associés n'ayant pas voix délibérative, représentant les organisations intervenant dans les champs professionnels dont relèvent les titres ou diplômes concernés ou ayant une expertise en matière de formation et d'emploi, sur proposition de leur organisation respective ;
 
-6° Un membre n'ayant pas voix délibérative désigné par le Conseil national consultatif des personnes handicapées. Par dérogation à l'article R. 133-4 du code des relations entre le public et l'administration, ce membre est remplacé, en cas de cessation de son mandat avant son terme, par un membre nommé pour une durée de cinq ans.
-
 Pour chaque membre titulaire de la commission, un suppléant est désigné et nommé dans les mêmes conditions.
 
+Participe également aux débats, sans prendre part au vote, un représentant désigné par le directeur général de France compétences, chargé d'examiner, préalablement à la tenue de la commission professionnelle consultative, les projets de création ou de révision de diplômes et titres à finalité professionnelle délivrés au nom de l'Etat et d'émettre des observations et recommandations dans les conditions précisées à l'article R. 6113-25.
+
+En cas d'empêchement, le membre désigné par le directeur général de France compétences peut se faire représenter par un autre membre désigné dans les mêmes conditions.
+
 Les commissions professionnelles consultatives sont présidées alternativement, pour la moitié de la durée pour laquelle les membres de la commission ont été nommés, par un membre élu par et parmi les membres mentionnés au 1° et par un membre élu par et parmi les membres mentionnés aux 2° et 3°.
+
+NOTA:
+Conformément au premier alinéa du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur au 1er janvier 2026.

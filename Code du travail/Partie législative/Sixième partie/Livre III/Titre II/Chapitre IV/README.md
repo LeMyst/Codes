@@ -1,1 +1,1 @@
-Chapitre IV : Reconversion ou promotion par alternance
+Chapitre IV : Période de reconversion

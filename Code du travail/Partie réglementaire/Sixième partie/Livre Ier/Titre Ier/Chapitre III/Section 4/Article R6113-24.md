@@ -1,11 +1,16 @@
 # Article R6113-24
 
-Le secrétariat de chaque commission est assuré par les services du ou des ministères auprès desquels elle est instituée.
+Les ministres auprès desquels sont instituées les commissions professionnelles consultatives préparent un règlement intérieur commun qui fixe :
 
-Le secrétariat établit le règlement intérieur de la commission, qui fixe les conditions de son fonctionnement et précise les règles de procédure applicables devant elle.
+1° Les conditions de fonctionnement des commissions professionnelles consultatives ;
 
-La commission se réunit sur convocation de son secrétariat, qui fixe l'ordre du jour.
+2° Les règles de procédure applicables, notamment les modalités d'inscription des points à l'ordre du jour de leurs séances, de convocation des membres et les modalités d'examen ;
 
-Le secrétariat arrête, au plus tard le 31 janvier de chaque année, le programme biennal prévisionnel des commissions, qu'il publie au bulletin officiel du ou des ministères concernés.
+3° Les règles de déclaration et de prévention des conflits d'intérêts des membres des commissions.
 
-Dans un délai de six mois à compter de cette publication, les commissions paritaires nationales de l'emploi de branches professionnelles peuvent, à condition d'en avoir informé le secrétariat des commissions professionnelles consultatives dans un délai de deux mois à compter de cette publication, lui transmettre des propositions de création de tout ou partie d'un projet de diplôme ou titre à finalité professionnelle. Si le ou les ministres certificateurs décident de ne pas retenir tout ou partie de ces propositions, ils informent les commissions professionnelles consultatives des raisons de leurs choix.
+Ce règlement intérieur est approuvé par un arrêté du ministre chargé de la formation professionnelle.
+
+Chaque commission professionnelle consultative se réunit sur convocation du ministre auprès duquel elle est instituée, lequel fixe l'ordre du jour des séances. Lorsqu'elle est interministérielle, la commission se réunit sur convocation du ministre coordonnateur mentionné au premier alinéa de l'article R. 6113-21, lequel fixe l'ordre du jour des séances, après accord des ministres auprès desquels elle est instituée.
+
+NOTA:
+Conformément au premier alinéa du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

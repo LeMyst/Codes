@@ -1,1 +1,1 @@
-Section 2 : Déroulement de la reconversion ou de la promotion par alternance
+Section 2 : Déroulement de la période de reconversion

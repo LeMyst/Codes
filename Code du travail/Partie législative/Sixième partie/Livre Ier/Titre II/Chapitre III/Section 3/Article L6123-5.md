@@ -2,7 +2,7 @@
 
 France compétences est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière. Elle a pour mission :
 
-1° De verser aux opérateurs de compétences mentionnés à l'article L. 6332-1 des fonds pour un financement complémentaire des contrats d'apprentissage et de professionnalisation et des reconversions ou promotions par alternance mentionnées à l'article L. 6324-1, au titre de la péréquation inter-branches ainsi que d'assurer le financement de l'aide au permis de conduire et de verser des fonds au Centre national de la fonction publique territoriale pour le financement des frais de formation des apprentis employés par les collectivités et établissements, selon des modalités fixées par décret ;
+1° De verser aux opérateurs de compétences mentionnés à l'article L. 6332-1 des fonds pour un financement complémentaire des contrats d'apprentissage et de professionnalisation au titre de la péréquation inter-branches ainsi que d'assurer le financement de l'aide au permis de conduire et de verser des fonds au Centre national de la fonction publique territoriale pour le financement des frais de formation des apprentis employés par les collectivités et établissements, selon des modalités fixées par décret ;
 
 2° De verser aux régions des fonds pour le financement des centres de formation d'apprentis, au titre de l'article L. 6211-3, selon des modalités définies par décret en Conseil d'Etat, pris après concertation avec les régions ;
 
@@ -12,7 +12,7 @@ a) A la Caisse des dépôts et consignations, pour le financement du compte pers
 
 b) A l'Etat, pour la formation des demandeurs d'emploi, dans la limite d'un montant fixé chaque année par le conseil d'administration de France compétences ;
 
-c) Aux opérateurs de compétences, selon leur champ d'intervention pour l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés et pour le financement de l'alternance selon des modalités fixées par décret ;
+c) Aux opérateurs de compétences, selon leur champ d'intervention pour l'aide au développement des compétences au bénéfice des entreprises de moins de cinquante salariés et pour le financement de l'alternance ainsi que pour le financement des périodes de reconversion mentionnées à l'article L. 6324-1, en intégrant les fonds correspondant aux droits acquis au titre du compte personnel de formation du salarié mobilisés en application de l'article L. 6324-10, dans la limite des crédits ouverts par la loi de finances, selon des modalités fixées par décret ;
 
 d) Aux régions ;
 
@@ -65,6 +65,6 @@ f) Les modalités et règles de prise en charge des financements alloués au tit
 16° D'établir, diffuser et actualiser selon une périodicité fixée par décret des tables de correspondance des branches et entreprises adhérentes des opérateurs de compétences, en vue de faciliter les déclarations des employeurs, et de guider l'affectation aux opérateurs de compétences des fonds collectés par les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime.
 
 NOTA:
-Conformément au V de l’article 6 et au II de l'article 8 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
 
-Conformément au X de l’article 13 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au III dudit article, ces dispositions, dans leur rédaction antérieure à la présente loi, s'appliquent aux actions engagées pour lesquelles l'avenant qui précise la durée de la reconversion ou de la promotion par l'alternance a été conclu avant le 1er janvier 2026.

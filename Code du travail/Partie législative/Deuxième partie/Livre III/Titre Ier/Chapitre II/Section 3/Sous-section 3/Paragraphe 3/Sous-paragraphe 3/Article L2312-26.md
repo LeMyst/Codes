@@ -1,6 +1,6 @@
 # Article L2312-26
 
-I.-La consultation annuelle sur la politique sociale de l'entreprise, les conditions de travail et l'emploi porte sur l'évolution de l'emploi, les qualifications, le programme pluriannuel de formation, les actions de formation envisagées par l'employeur, l'apprentissage, les conditions d'accueil en stage, les actions de prévention en matière de santé et de sécurité, les conditions de travail, les congés et l'aménagement du temps de travail, la durée du travail, l'égalité professionnelle entre les femmes et les hommes et les modalités d'exercice du droit d'expression des salariés dans les entreprises non couvertes par un accord sur l'égalité professionnelle et la qualité de vie et des conditions de travail contenant des dispositions sur ce droit.
+I.-La consultation annuelle sur la politique sociale de l'entreprise, les conditions de travail et l'emploi porte sur l'évolution de l'emploi, les qualifications, le programme pluriannuel de formation, les actions de formation envisagées par l'employeur, les périodes de reconversion mentionnées à l'article L. 6324-1, l'apprentissage, les conditions d'accueil en stage, les actions de prévention en matière de santé et de sécurité, les conditions de travail, les congés et l'aménagement du temps de travail, la durée du travail, l'égalité professionnelle entre les femmes et les hommes et les modalités d'exercice du droit d'expression des salariés dans les entreprises non couvertes par un accord sur l'égalité professionnelle et la qualité de vie et des conditions de travail contenant des dispositions sur ce droit.
 
 Le comité peut se prononcer par un avis unique portant sur l'ensemble des thèmes énoncés au premier alinéa ou par des avis séparés organisés au cours de consultations propres à chacun de ces thèmes.
 
@@ -15,6 +15,8 @@ II.-A cette fin, l'employeur met à la disposition du comité, dans les conditio
 4° Les informations sur la mise en œuvre des contrats de professionnalisation et du compte personnel de formation ;
 
 4° bis Les informations sur la mise en œuvre des entretiens professionnels et de l'état des lieux récapitulatifs prévus à l'article L. 6315-1 ;
+
+4° ter Les informations sur la mise en œuvre des périodes de reconversion mentionnées à l'article L. 6324-1 ;
 
 5° Les informations sur la durée du travail portant sur :
 
@@ -35,3 +37,6 @@ e) La durée, l'aménagement du temps de travail, la période de prise des cong�
 8° Les informations sur les modalités d'exercice du droit d'expression des salariés prévues à l'article L. 2281-11 ;
 
 9° Les informations relatives aux contrats de mise à disposition conclus avec les entreprises de travail temporaires, aux contrats d'accompagnement dans l'emploi, aux contrats initiative emploi et les éléments qui l'ont conduit à faire appel, au titre de l'année écoulée, et qui pourraient le conduire à faire appel pour l'année à venir, à des contrats de travail à durée déterminée, à des contrats de mission conclus avec une entreprise de travail temporaire ou à des contrats conclus avec une entreprise de portage salarial.
+
+NOTA:
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.

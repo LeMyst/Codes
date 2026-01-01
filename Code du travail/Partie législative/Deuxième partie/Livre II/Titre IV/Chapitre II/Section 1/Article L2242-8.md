@@ -6,4 +6,7 @@ La pénalité prévue au premier alinéa du présent article peut également êt
 
 Le montant de la pénalité prévue au premier alinéa du présent article est fixé au maximum à 1 % des rémunérations et gains au sens du premier alinéa de l'article L. 242-1 du code de la sécurité sociale et du premier alinéa de l'article L. 741-10 du code rural et de la pêche maritime versés aux travailleurs salariés ou assimilés au cours des périodes au titre desquelles l'entreprise ne respecte pas l'une des obligations mentionnées aux premier et deuxième alinéas du présent article. Le montant est fixé par l'autorité administrative, dans des conditions prévues par décret en Conseil d'Etat, en fonction des efforts constatés dans l'entreprise en matière d'égalité professionnelle et salariale entre les femmes et les hommes ainsi que des motifs de sa défaillance quant au respect des obligations fixées aux mêmes premier et deuxième alinéas.
 
-Le produit de cette pénalité est affecté au fonds mentionné à l'article L. 135-1 du code de la sécurité sociale.
+Le produit de cette pénalité est affecté à la branche mentionnée au 3° de l'article L. 200-2 du code de la sécurité sociale.
+
+NOTA:
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

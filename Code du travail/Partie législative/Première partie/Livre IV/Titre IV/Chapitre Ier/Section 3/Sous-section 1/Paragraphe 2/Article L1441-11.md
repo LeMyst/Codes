@@ -6,4 +6,5 @@ Les personnes relevant des 2° et 3° de l'article L. 1441-6 sont candidates dan
 
 Les employés de maison et leurs employeurs sont candidats dans la section du conseil de prud'hommes dans le ressort duquel est situé leur domicile, ou dans la section de même nature de l'un des conseils de prud'hommes limitrophes.
 
-Pour les personnes qui sont candidates dans la section de l'agriculture, les ressorts du conseil de prud'hommes ou du conseil de prud'hommes limitrophe sont déterminés en fonction du ressort de cette section.
+NOTA:
+Conformément à l'article 9 du décret n° 2025-1356 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

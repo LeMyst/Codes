@@ -12,12 +12,19 @@ L'accord portant rupture conventionnelle collective détermine :
 
 4° bis Les modalités de conclusion d'une convention individuelle de rupture entre l'employeur et le salarié et d'exercice du droit de rétractation des parties ;
 
+4° ter Le cas échéant, les modalités de conclusion d'une convention individuelle de rupture entre l'employeur et le salarié dans le cadre de la période de reconversion mentionnée à l'article L. 6324-1 ;
+
 5° Les modalités de calcul des indemnités de rupture garanties au salarié, qui ne peuvent être inférieures aux indemnités légales dues en cas de licenciement ;
 
 6° Les critères de départage entre les potentiels candidats au départ ;
 
 7° Des mesures visant à faciliter l'accompagnement et le reclassement externe des salariés sur des emplois équivalents, telles que le congé de mobilité dans les conditions prévues aux articles L. 1237-18-1 à L. 1237-18-5, des actions de formation, de validation des acquis de l'expérience ou de reconversion ou des actions de soutien à la création d'activités nouvelles ou à la reprise d'activités existantes par les salariés ;
 
+7° bis Le cas échéant, les mesures mentionnées au II de l'article L. 6324-9 ;
+
 8° Les modalités de suivi de la mise en œuvre effective de l'accord portant rupture conventionnelle collective.
 
 Conformément aux dispositions du X de l'article 40 et du III de l'article 10 de l'ordonnance n° 2017-1387 du 22 septembre 2017, les dispositions résultant de l'article 10 de ladite ordonnance et nécessitant des mesures d'application entrent en vigueur à la date de publication des décrets d'application, et au plus tard le 1er janvier 2018.
+
+NOTA:
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.

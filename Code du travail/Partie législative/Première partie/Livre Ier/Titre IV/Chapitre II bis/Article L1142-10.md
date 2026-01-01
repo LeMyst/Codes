@@ -4,7 +4,7 @@ Dans les entreprises d'au moins cinquante salariés, lorsque les résultats obte
 
 Le montant de la pénalité prévue au premier alinéa du présent article est fixé au maximum à 1 % des rémunérations et gains au sens du premier alinéa de l'article L. 242-1 du code de la sécurité sociale et du premier alinéa de l'article L. 741-10 du code rural et de la pêche maritime versés aux travailleurs salariés ou assimilés au cours de l'année civile précédant l'expiration du délai mentionné au premier alinéa du présent article. Le montant est fixé par l'autorité administrative, dans des conditions prévues par décret. En fonction des efforts constatés dans l'entreprise en matière d'égalité salariale entre les femmes et les hommes ainsi que des motifs de sa défaillance, un délai supplémentaire d'un an peut lui être accordé pour se mettre en conformité.
 
-Le produit de cette pénalité est affecté au fonds mentionné à l'article L. 135-1 du code de la sécurité sociale.
+Le produit de cette pénalité est affecté à la branche mentionnée au 3° de l'article L. 200-2 du code de la sécurité sociale.
 
 NOTA:
-Conformément à l’article 104 X de la loi n° 2018-771 du 5 septembre 2018, les présentes dispositions entrent en vigueur à une date fixée par décret. Cette date est au plus tard le 1er janvier 2019 pour les entreprises de plus de deux cent cinquante salariés et au plus tard le 1er janvier 2020 pour les entreprises de cinquante à deux cent cinquante salariés.
+Conformément au B du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les VII à XIV, XVII à XX et XXII de l'article précité entrent en vigueur le 1er janvier 2026.

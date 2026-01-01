@@ -1,1 +1,1 @@
-Section 3 : Rémunération des bénéficiaires
+Section 3 : Rémunération et protection sociale des bénéficiaires

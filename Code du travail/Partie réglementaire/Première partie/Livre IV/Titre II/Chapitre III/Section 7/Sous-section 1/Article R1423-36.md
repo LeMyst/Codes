@@ -1,12 +1,8 @@
 # Article R1423-36
 
-Sous réserve des dispositions du deuxième alinéa de l'article L. 123-1 du code de l'organisation judiciaire, chaque conseil de prud'hommes comporte un greffe dont le service est assuré par des fonctionnaires de l'Etat.
-
-Dans les conseils de prud'hommes mentionnés au deuxième alinéa de l'article L. 123-1 du code de l'organisation judiciaire, la direction du service de greffe du conseil de prud'hommes est assurée par le directeur de greffe du tribunal judiciaire.
-
-Dans le cas prévu à l'alinéa précédent, outre celles prévues par les dispositions du code de l'organisation judiciaire, le directeur de greffe du tribunal judiciaire exerce, sauf disposition contraire, les attributions confiées au directeur de greffe du conseil de prud'hommes prévues par les dispositions du présent code.
+La direction du service de greffe du conseil de prud'hommes est assurée par le directeur du greffe du tribunal judiciaire qui exerce, sauf disposition contraire, les attributions confiées au directeur de greffe du conseil de prud'hommes prévues par les dispositions du présent code.
 
 Le premier président de la cour d'appel fixe, après avis du président du conseil de prud'hommes, les jours et heures d'ouverture au public du greffe.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 9 du décret n° 2025-1356 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

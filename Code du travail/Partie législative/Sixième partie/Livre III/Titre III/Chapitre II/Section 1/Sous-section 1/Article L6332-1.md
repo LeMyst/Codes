@@ -1,8 +1,10 @@
 # Article L6332-1
 
-I.-Les organismes paritaires agréés sont dénommés “ opérateurs de compétences ”. Ils ont pour mission :
+I. - Les organismes paritaires agréés sont dénommés “ opérateurs de compétences ”. Ils ont pour mission :
 
 1° D'assurer le financement des contrats d'apprentissage et de professionnalisation, selon les niveaux de prise en charge fixés par les branches ;
+
+1° bis D'assurer le financement des périodes de reconversion selon les niveaux de prise en charge fixés par les branches, dans la limite de la dotation allouée par France compétences. Ce financement est attribué selon des critères définis par le conseil d'administration de l'opérateur de compétences, sur proposition des branches, et relatifs notamment à l'ancienneté et à l'âge des salariés concernés, à la forte mutation de l'activité exercée et au risque d'obsolescence des compétences, dans le respect d'un montant moyen fixé par décret ;
 
 2° D'apporter un appui technique aux branches adhérentes pour établir la gestion prévisionnelle de l'emploi et des compétences et pour déterminer les niveaux de prise en charge des contrats d'apprentissage et des contrats de professionnalisation ;
 
@@ -16,7 +18,7 @@ I.-Les organismes paritaires agréés sont dénommés “ opérateurs de compét
 
 6° D'informer les entreprises sur les enjeux liés au développement durable et de les accompagner dans leurs projets d'adaptation à la transition écologique, notamment par l'analyse et la définition de leurs besoins en compétences.
 
-II.-Les opérateurs de compétences peuvent conclure :
+II. - Les opérateurs de compétences peuvent conclure :
 
 1° Avec l'Etat :
 
@@ -27,4 +29,4 @@ b) Une convention-cadre de coopération définissant les conditions de leur part
 2° Avec les régions, des conventions dans les conditions déterminées à l'article L. 6211-3.
 
 NOTA:
-Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.

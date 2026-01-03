@@ -2,7 +2,7 @@
 
 Le congé parental est la situation du militaire qui est admis à cesser temporairement de servir dans les armées pour élever son enfant.
 
-Ce congé, non rémunéré, est accordé de droit sur simple demande du militaire après la naissance ou l'adoption d'un enfant, sans préjudice du congé de maternité ou du congé d'adoption qui peut intervenir au préalable. Le congé parental prend fin au plus tard au troisième anniversaire de l'enfant ou à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant, adopté ou confié en vue de son adoption, âgé de trois ans au plus. Lorsque l'enfant adopté ou confié en vue d'adoption est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé parental ne peut excéder une année à compter de l'arrivée au foyer.
+Ce congé, non rémunéré, est accordé de droit sur simple demande du militaire après la naissance ou l'adoption d'un enfant, sans préjudice du congé de maternité, du congé de paternité et d'accueil de l'enfant, du congé d'adoption ainsi que du congé supplémentaire de naissance qui peuvent intervenir au préalable. Le congé parental prend fin au plus tard au troisième anniversaire de l'enfant ou à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant, adopté ou confié en vue de son adoption, âgé de trois ans au plus. Lorsque l'enfant adopté ou confié en vue d'adoption est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé parental ne peut excéder une année à compter de l'arrivée au foyer.
 
 Dans cette situation, le militaire n'acquiert pas de droit à la retraite, sous réserve des dispositions législatives ou réglementaires relatives aux pensions prévoyant la prise en compte de périodes d'interruption d'activité liées à l'enfant et, le cas échéant, à la réserve militaire. A l'expiration de son congé, le militaire est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine ou dans le grade ou l'emploi de détachement antérieur. Il peut, sur sa demande, être réaffecté dans un poste le plus proche possible de sa résidence, sous réserve des nécessités du service.
 
@@ -11,3 +11,8 @@ Si une nouvelle naissance ou adoption intervient alors que le militaire se trouv
 Le titulaire du congé parental peut demander d'écourter la durée de ce congé.
 
 Le militaire placé en congé parental peut demander à souscrire un engagement à servir dans la réserve opérationnelle militaire. Les conditions d'application du présent alinéa sont précisées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.

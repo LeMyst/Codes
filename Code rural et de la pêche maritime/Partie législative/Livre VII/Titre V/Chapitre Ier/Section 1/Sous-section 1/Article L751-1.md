@@ -28,9 +28,11 @@ II.-Bénéficient également du présent régime :
 
 12° Par dérogation au 17° de l'article L. 412-8 du code de la sécurité sociale, les entrepreneurs salariés et les entrepreneurs salariés associés mentionnés aux articles L. 7331-2 et L. 7331-3 du code du travail exerçant une activité mentionnée à l'article L. 722-1 du présent code ;
 
-13° Les personnes bénéficiaires d'indemnités journalières en application des articles L. 732-4, L. 742-3, L. 751-8 et L. 752-5 du présent code, menant des actions de formation professionnelle ou d'autres actions d'évaluation, d'accompagnement, d'information et de conseil dans les conditions prévues à l'article L. 323-3-1 du code de la sécurité sociale ou au quatrième alinéa de l'article L. 433-1 du même code et à l'article L. 752-5-2 du présent code.
+13° Les personnes bénéficiaires d'indemnités journalières en application des articles L. 732-4, L. 742-3, L. 751-8 et L. 752-5 du présent code, menant des actions de formation professionnelle ou d'autres actions d'évaluation, d'accompagnement, d'information et de conseil dans les conditions prévues à l'article L. 323-3-1 du code de la sécurité sociale ou au cinquième alinéa de l'article L. 433-1 du même code et à l'article L. 752-5-2 du présent code.
 
 III.-En ce qui concerne les personnes mentionnées au II, des décrets déterminent à qui incombent les obligations de l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 NOTA:
-Conformément au quatrième alinéa du III de l'article 98 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er juillet 2022.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au VI de l'article 81 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 81 précité, s'appliquent aux victimes dont le sinistre est intervenu à compter du 1er janvier 2027.

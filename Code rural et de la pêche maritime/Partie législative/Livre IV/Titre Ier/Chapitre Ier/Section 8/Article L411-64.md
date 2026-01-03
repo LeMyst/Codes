@@ -1,6 +1,6 @@
 # Article L411-64
 
-Le droit de reprise tel qu'il est prévu aux articles L. 411-58 à L. 411-63, L. 411-66 et L. 411-67 ne peut être exercé au profit d'une personne ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une exploitation ayant une superficie au plus égale à la surface fixée en application du V de l'article L. 732-39. Si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est supérieure à cette limite, le bailleur peut, par dérogation aux articles L. 411-5 et L. 411-46 :
+Le droit de reprise tel qu'il est prévu aux articles L. 411-58 à L. 411-63, L. 411-66 et L. 411-67 ne peut être exercé au profit d'une personne ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une exploitation ayant une superficie au plus égale à la surface fixée en application du troisième alinéa de l'article L. 732-39. Si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est supérieure à cette limite, le bailleur peut, par dérogation aux articles L. 411-5 et L. 411-46 :
 
 -soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles ;
 
@@ -17,4 +17,8 @@ Le preneur évincé en raison de son âge peut céder son bail à son conjoint, 
 A peine de nullité, le congé donné en vertu du présent article doit reproduire les termes de l'alinéa précédent.
 
 NOTA:
-Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1er janvier 2027.
+
+Par dérogation, ledit article n'est pas applicable lorsque le titulaire de la pension est entré en jouissance, avant cette date, d'une autre pension de vieillesse de base, à l'exception d'une pension liquidée au titre des 1° à 5° de l'article L. 161-22-1-2 du code de la sécurité sociale dans sa rédaction résultant dudit article.

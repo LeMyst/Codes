@@ -8,9 +8,13 @@ Bénéficient d'indemnités journalières pendant la période d'incapacité temp
 
 3° Les aides familiaux et les associés d'exploitation mentionnés au 2° de l'article L. 722-10.
 
-Les indemnités journalières sont servies à l'expiration d'un délai, déterminé par décret, à compter du point de départ de l'incapacité de travail et pendant toute la période d'incapacité de travail qui précède soit la guérison complète, soit la consolidation de la blessure ou le décès, ainsi que dans le cas de rechute prévu au chapitre III du titre IV du livre IV du code de la sécurité sociale.
+Les indemnités journalières sont servies, à l'expiration d'un délai déterminé par décret, pendant une période d'une durée maximale fixée par décret, calculée de date à date. Cette durée maximale ne peut être plus courte que la période mentionnée au 1° de l'article L. 323-1 du code de la sécurité sociale. Dans le cas d'une interruption suivie d'une reprise du travail, la période court à nouveau dès le jour où la reprise du travail a atteint au moins une durée minimale fixée par décret.
+
+Les indemnités journalières sont servies à compter du point de départ de l'incapacité de travail et pendant la période d'incapacité de travail jusqu'à soit la guérison complète, soit la consolidation de la blessure, soit le décès, soit l'expiration de la durée maximale mentionnée au cinquième alinéa du présent article au terme de laquelle l'incapacité est réputée permanente, ainsi que dans le cas de rechute prévu au chapitre III du titre IV du livre IV du code de la sécurité sociale.
 
 L'indemnité est égale à une fraction du gain forfaitaire annuel fixé par arrêté des ministres chargés de l'agriculture et de la sécurité sociale. Elle est majorée à l'issue d'une période d'incapacité fixée par décret. Elle est incessible et insaisissable.
 
 NOTA:
-Conformément à l'article 83 III de la loi n° 2014-1554 du 22 décembre 2014, l'attribution d'indemnités journalières aux personnes mentionnées aux 2° et 3° de l'article L. 752-5 du présent code, dans sa rédaction résultant de ladite loi, est applicable aux arrêts de travail prescrits à compter du 1er janvier 2015.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au VI de l'article 81 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 81 précité, s'appliquent aux victimes dont le sinistre est intervenu à compter du 1er janvier 2027.

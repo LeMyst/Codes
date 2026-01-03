@@ -10,5 +10,7 @@ Elle inclut le montant des revenus de remplacement sans lien avec une affection 
 
 2° Par les organismes de sécurité sociale.
 
+Ne sont pas incluses dans l'assiette les sommes versées aux non-salariés agricoles pour les maladies professionnelles et les accidents du travail ou en réparation des maladies causées par des pesticides, mentionnées au 8° de l'article 81 du même code.
+
 NOTA:
-Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants agricoles au titre des périodes courant à compter du 1er janvier 2026.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

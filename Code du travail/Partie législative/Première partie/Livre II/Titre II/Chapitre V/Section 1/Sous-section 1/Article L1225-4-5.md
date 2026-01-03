@@ -1,6 +1,8 @@
-# Article L6323-12
+# Article L1225-4-5
 
-La période d'absence du salarié pour un congé de maternité, de paternité et d'accueil de l'enfant, d'adoption, d'un congé supplémentaire de naissance, de présence parentale, de proche aidant ou un congé parental d'éducation ou pour une maladie professionnelle ou un accident du travail est intégralement prise en compte pour le calcul de la durée du travail effectuée.
+Aucun employeur ne peut rompre le contrat de travail d'un salarié pendant un congé supplémentaire de naissance mentionné à l'article L. 1225-46-2.
+
+Toutefois, l'employeur peut rompre le contrat s'il justifie d'une faute grave de l'intéressé ou de son impossibilité de maintenir ce contrat pour un motif étranger à la naissance ou à l'arrivée de l'enfant.
 
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

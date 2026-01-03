@@ -1,6 +1,8 @@
-# Article L6323-12
+# Article L1225-46-3
 
-La période d'absence du salarié pour un congé de maternité, de paternité et d'accueil de l'enfant, d'adoption, d'un congé supplémentaire de naissance, de présence parentale, de proche aidant ou un congé parental d'éducation ou pour une maladie professionnelle ou un accident du travail est intégralement prise en compte pour le calcul de la durée du travail effectuée.
+La durée du congé supplémentaire de naissance est assimilée à une période de travail effectif pour la détermination des droits que le salarié tient de son ancienneté.
+
+Le salarié conserve le bénéfice de tous les avantages qu'il avait acquis avant le début du congé.
 
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

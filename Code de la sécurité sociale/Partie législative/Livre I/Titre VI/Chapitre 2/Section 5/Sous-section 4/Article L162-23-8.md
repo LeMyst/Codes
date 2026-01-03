@@ -1,6 +1,6 @@
 # Article L162-23-8
 
-I.-La part prévue au 2° du I de l'article L. 162-23, affectée à la dotation nationale de financement des missions d'intérêt général et d'aide à la contractualisation des établissements de santé mentionnés aux a, b, c et d de l'article L. 162-22, participe notamment au financement des engagements relatifs :
+I.-La dotation nationale de financement des missions d'intérêt général et d'aide à la contractualisation des établissements de santé mentionnés aux a, b, c et d de l'article L. 162-22 exerçant les activités mentionnées au 4° du même article L. 162-22, participe notamment au financement des engagements relatifs :
 
 1° A la recherche et à la formation des professionnels de santé et du personnel paramédical à l'exception des formations prises en charge par la région en application des articles L. 4151-9, L. 4244-1 et L. 4383-5 du code de la santé publique ;
 
@@ -27,4 +27,4 @@ II.-Le montant annuel de la dotation de chaque établissement de santé est fix�
 Les modalités de versement et de prise en charge de cette dotation sont fixées à l'article L. 162-23-10.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au V de l'article 72 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 72 précité, entrent en vigueur le 1er janvier 2026.

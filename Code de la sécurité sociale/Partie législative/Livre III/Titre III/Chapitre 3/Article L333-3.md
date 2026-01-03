@@ -10,8 +10,11 @@ L'allocation journalière n'est pas cumulable avec :
 
 4° La prestation partagée d'éducation de l'enfant à taux plein de la prestation d'accueil du jeune enfant prévue à l'article L. 531-4 ;
 
-5° La prestation partagée d'éducation de l'enfant à taux partiel de la prestation d'accueil du jeune enfant à l'ouverture du droit de celle-ci.
+5° La prestation partagée d'éducation de l'enfant à taux partiel de la prestation d'accueil du jeune enfant à l'ouverture du droit de celle-ci ;
+
+6° L'indemnité journalière mentionnée à l'article L. 331-8-1 du présent code.
 
 NOTA:
-Conformément au VI de l'article 8 de la loi n° 2014-873 du 4 août 2014, le présent article, tel que modifié par ledit article, est applicable aux enfants nés ou adoptés à partir du 1er octobre 2014.\
-Pour les enfants nés ou adoptés avant le 1er octobre 2014, les dispositions du présent code demeurent applicables dans leur rédaction antérieure à la date d'entrée en vigueur de l'article précité.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.

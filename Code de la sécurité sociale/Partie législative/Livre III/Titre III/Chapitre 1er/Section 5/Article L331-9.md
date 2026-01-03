@@ -6,7 +6,7 @@ L'indemnité journalière n'est pas cumulable avec :
 
 1° L'indemnisation des congés maladie ;
 
-2° L'indemnisation des congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ;
+2° L'indemnisation des congés de maternité, de paternité et d'accueil de l'enfant, d'adoption ou du congé supplémentaire de naissance ;
 
 3° Les indemnités journalières versées en cas d'accident du travail et de maladies professionnelles ;
 
@@ -17,4 +17,6 @@ L'employeur qui a maintenu le salaire de l'assuré en application de l'article L
 Pour les personnes bénéficiant des dispositions des articles L. 161-8 et L. 311-5 du présent code, la durée de l'indemnisation prévue au premier alinéa du présent article est portée à quinze jours, qui peuvent être fractionnés dans des conditions fixées par décret.
 
 NOTA:
-Conformément au V de l’article 1er de la loi n° 2020-692 du 8 juin 2020, ces dispositions s'appliquent pour les décès intervenus à compter du 1er juillet 2020.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.

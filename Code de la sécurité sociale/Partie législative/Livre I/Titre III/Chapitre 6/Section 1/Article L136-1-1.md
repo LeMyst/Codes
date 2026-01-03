@@ -60,7 +60,7 @@ h) La contribution des employeurs au financement mutualisé des organisations sy
 
 3° a) L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du code de commerce, dans la limite annuelle prévue par le I de l'article 80 quaterdecies du code général des impôts ;
 
-a bis) Le gain net réalisé sur des titres souscrits ou acquis par des salariés ou des dirigeants ou attribués à ceux-ci qui est acquis en contrepartie des fonctions de salarié ou de dirigeant dans la société émettrice de ces titres, dans toute société dans laquelle la société émettrice détient directement ou indirectement une quote-part du capital ou dans toute société qui détient directement ou indirectement une quote-part du capital de la société émettrice ;
+a bis) Le gain net mentionné au premier alinéa du II de l'article 163 bis H du code général des impôts ainsi que la fraction de ce gain qui excède la limite déterminée dans les conditions définies au même premier alinéa ;
 
 b) L'indemnisation mentionnée au II de l'article L. 225-270 du code de commerce versée en cas de dissolution de la société coopérative de main-d'œuvre ou, le cas échéant, la valeur des actions attribuées à ce titre ;
 
@@ -113,4 +113,6 @@ f) Les prestations mentionnées aux articles L. 325-1 et L. 325-2 du code rural 
 8° Dans la limite du seuil de revente à perte, tel que défini à l'article L. 442-5 du code de commerce, les réductions tarifaires jusqu'à 50 % du prix de vente public normal, toutes taxes comprises, dont bénéficient les salariés sur les produits initialement destinés à la vente mais qui ne peuvent pas ou ne peuvent plus être vendus par l'entreprise qui les emploie ou par toute entreprise du groupe auquel ils appartiennent, le groupe étant entendu au sens de l'article L. 2331-1 du code du travail.
 
 NOTA:
-Conformément au VI de l'article 22 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la présente loi, soit le 1er mars 2025, et s'applique aux contrats d'apprentissage conclus à compter de la même date.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au III de l’article 17 de la loi n°2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I dudit article, s'appliquent aux dispositions, aux cessions, aux conversions ou aux mises en location réalisées à compter du 15 février 2025.

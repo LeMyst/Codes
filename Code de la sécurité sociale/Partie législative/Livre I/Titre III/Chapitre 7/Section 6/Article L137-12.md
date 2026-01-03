@@ -6,7 +6,7 @@ Est instituée, à la charge de l'employeur et au profit de la Caisse nationale 
 
 2° La rupture conventionnelle mentionnée aux articles L. 1237-11 à L. 1237-15 du code du travail, pour leur part exclue de l'assiette des cotisations de sécurité sociale en application du 7° du II de l'article L. 242-1 du présent code.
 
-Le taux de cette contribution est fixé à 30 %.
+Le taux de cette contribution est fixé à 40 %.
 
 NOTA:
-Conformément au II de l’article 4 de la loi n° 2023-270 du 14 avril 2023, ces dispositions sont applicables aux indemnités versées à l'occasion des ruptures de contrat de travail intervenant à compter du 1er septembre 2023.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

@@ -2,7 +2,7 @@
 
 I.-Pour l'application du I de l'article L. 162-23-15 aux activités exercées par le service de santé des armées :
 
-1° Les hôpitaux des armées procèdent au recueil des indicateurs mentionnés à l'article R. 162-36. Sur cette base et sur celle des dispositions de l'article R. 162-36-2, le directeur général de l'agence régionale de santé d'Ile-de-France propose le montant de la dotation complémentaire alloué au service de santé des armées qui est arrêté par les ministres chargés de la santé et de la sécurité sociale dans les délais prévus à l'article R. 162-36-4 ;
+1° Les hôpitaux des armées procèdent au recueil des indicateurs mentionnés à l'article R. 162-36. Sur cette base et sur celle des dispositions de l'article R. 162-36-2, le directeur général de l'agence régionale de santé d'Ile-de-France propose le montant de la dotation complémentaire alloué au service de santé des armées qui est arrêté par les ministres chargés de la santé et de la sécurité sociale dans les délais prévus à l'article R. 162-30 ;
 
 2° L'agence exerce le contrôle prévu au deuxième alinéa de l'article L. 1435-7 du code de la santé publique pour les hôpitaux des armées dans les conditions fixées à l'article R. 162-36, le cas échéant en s'appuyant sur les inspecteurs ayant qualité de médecin ou de pharmacien des agences régionales de santé dans le ressort desquelles sont implantés les hôpitaux des armées ;
 
@@ -17,4 +17,4 @@ II.-Pour l'application du II de l'article L. 162-23-15 aux activités exercées 
 3° Les ministres chargés de la santé et de la sécurité sociale prononcent la sanction et en informent le ministre de la défense et la notifient à la caisse mentionnée à l'article L. 174-15.
 
 NOTA:
-Se reporter à l'article 6 du décret n° 2021-1613 concernant les modalités d'application.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

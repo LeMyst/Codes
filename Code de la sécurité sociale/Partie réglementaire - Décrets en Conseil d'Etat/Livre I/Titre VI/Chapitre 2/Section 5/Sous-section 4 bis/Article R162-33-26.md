@@ -1,6 +1,6 @@
 # Article R162-33-26
 
-I.-Chaque année, dans un délai de quinze jours suivant la publication de l'arrêté mentionné au I de l'article R. 162-33-4, les ministres chargés de la santé et de la sécurité sociale arrêtent au niveau national le montant de la dotation complémentaire mentionnée au 3° de l'article L. 162-22-8-2.
+I.-Chaque année, les ministres chargés de la santé et de la sécurité sociale arrêtent au niveau national le montant de la dotation complémentaire mentionnée au 3° de l'article L. 162-22-8-2.
 
 II.-Les catégories des indicateurs liés à l'amélioration de la qualité et de l'organisation des prises en charge, mentionnés au 3° de l'article L. 162-22-8-2, sont les suivantes :
 
@@ -25,3 +25,6 @@ L'arrêté des ministres chargés de la santé et de la sécurité sociale menti
 IV.-Au plus tard le 31 décembre de l'année en cours, les ministres chargés de la santé et de la sécurité sociale arrêtent pour chaque région le montant de la dotation complémentaire conformément aux modalités définies au III. Le directeur général de l'agence régionale de santé arrête, pour chaque établissement, le montant de la dotation complémentaire qui lui est alloué selon ces mêmes modalités.
 
 Cette dotation complémentaire est versée en une fois par la caisse dont relève l'établissement en application des articles L. 174-2 et L. 174-18.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

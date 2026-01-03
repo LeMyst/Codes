@@ -22,7 +22,7 @@ III.-A l'exclusion des entreprises et établissements publics mentionnés à l'a
 
 IV.-Lorsque dans une même entreprise ou un même établissement sont exercées plusieurs activités, l'exonération est applicable au titre des salariés employés dans chacune des activités relevant des secteurs mentionnés aux I, II et III au taux et sur l'assiette de rémunération correspondant à cette activité.
 
-IV bis.-Les exonérations prévues par le présent article ne peuvent être cumulées avec une autre exonération totale ou partielle de cotisations patronales de sécurité sociale, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18.
+IV bis.-Les exonérations prévues par le présent article ne peuvent être cumulées avec une autre exonération totale ou partielle de cotisations patronales de sécurité sociale, à l'exception des déductions forfaitaires prévues aux articles L. 241-18 et L. 241-18-1.
 
 V.-Le bénéfice de l'exonération prévue au présent article, ainsi que de tous autres allégements et exonérations de cotisations patronales prévus par le présent code, est subordonné au fait, pour l'entreprise ou le chef d'entreprise, de ne pas avoir fait l'objet d'une condamnation pénale passée en force de chose jugée soit pour fraude fiscale, soit pour travail dissimulé, marchandage ou prêt illicite de main-d'œuvre, en application des articles L. 5224-2, L. 8224-1, L. 8224-3, L. 8224-4, L. 8224-5, L. 8224-6, L. 8234-1 et L. 8234-2 du code du travail.
 
@@ -39,4 +39,4 @@ V quater.-L'exonération de cotisations sociales des sommes versées par l'emplo
 VI.-Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
 
 NOTA:
-Conformément aux dispositions de l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les dispositions de la présente ordonnance s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.
+Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.

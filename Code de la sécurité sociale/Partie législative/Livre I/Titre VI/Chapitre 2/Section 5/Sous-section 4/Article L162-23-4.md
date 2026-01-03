@@ -18,5 +18,11 @@ Les éléments mentionnés aux 1° à 6° s'appliquent le 1er janvier de l'anné
 
 II.-Les tarifs de responsabilité afférents aux activités de soins de suite et de réadaptation exercées par les établissements de santé privés mentionnés au e de l'article L. 162-22 sont fixés par l'Etat.
 
+III.-Pour les établissements mentionnés aux d et e de l'article L. 162-22, les tarifs nationaux de prestations mentionnés au 1° du I du présent article sont minorés lorsque, pour ces mêmes prestations, des honoraires sont facturés, dans les conditions définies aux articles L. 162-1-7 et L. 162-14-1, par les professionnels de santé exerçant en leur sein à titre libéral ou, dans les conditions définies à l'article L. 162-26-1, par ces établissements.
+
+Le directeur général de l'agence régionale de santé détermine pour chaque établissement concerné, dans des conditions fixées par décret, le coefficient de minoration applicable aux tarifs nationaux de prestations afin de tenir compte de ces honoraires.
+
+Ce coefficient s'applique à la date mentionnée au dernier alinéa du I du présent article.
+
 NOTA:
-Conformément au II de l'article 71 de la loi n° 2025-199 du 28 février 2025, jusqu'au 31 décembre 2025, par dérogation à l'article L. 162-23-4 du code de la sécurité sociale, dans sa rédaction résultant du 2° du I dudit article, les tarifs et les coefficients mentionnés au même article L. 162-23-4 prennent effet le 1er mars de l'année en cours.
+Conformément au V de l'article 72 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 72 précité, entrent en vigueur le 1er janvier 2026.

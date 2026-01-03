@@ -14,9 +14,9 @@ A compter de la date de publication de la loi n° 2004-810 du 13 août 2004 pré
 
 II.-Le I n'est pas applicable :
 
-1° Aux réductions et exonérations prévues au 5° bis du III de l'article L. 136-1-1, au III bis de l'article L. 136-8, aux huitième, avant-dernier et dernier alinéas de l'article L. 137-15, aux articles L. 241-13 et L. 241-17, au premier alinéa du II de l'article L. 242-1, à l'article L. 613-1 et à l'article L. 621-3, dans sa rédaction résultant de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025 ;
+1° Aux réductions et exonérations prévues au 5° bis du III de l'article L. 136-1-1, au III bis de l'article L. 136-8, aux huitième, avant-dernier et dernier alinéas de l'article L. 137-15, à l'article L. 241-13, au premier alinéa du II de l'article L. 242-1, à l'article L. 613-1 et à l'article L. 621-3, dans sa rédaction résultant de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025 ;
 
 2° A la réduction de la contribution mentionnée à l'article L. 137-30 résultant de l'abattement d'assiette prévu à l'article L. 137-2.
 
 NOTA:
-Conformément au B du IV de l'article 18 de la loi n° 2025-199 du 28 février 2025, le 2° du III de l'article précité est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

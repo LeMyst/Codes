@@ -22,7 +22,7 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 
 8° La couverture des frais relatifs aux activités de télésurveillance médicale relevant de la section 11 du chapitre II du présent titre ;
 
-9° La couverture des frais relatifs aux interventions et aux traitements réalisés dans le cadre des parcours mentionnés à l'article L. 4012-1 du code de la santé publique ;
+9° La couverture des frais relatifs aux interventions et aux traitements réalisés dans le cadre des parcours mentionnés à l'article L. 4012-1 du code de la santé publique et à l'article L. 162-63 du présent code ;
 
 10° La couverture des frais relatifs au parcours mentionné à l'article L. 2134-1 du code de la santé publique ;
 
@@ -31,4 +31,4 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 Les produits, les prestations et les actes prescrits à l'occasion d'un acte de téléconsultation réalisé en application de l'article L. 6316-1 du code de la santé publique ainsi que les prescriptions réalisées lors des télésoins mentionnés à l'article L. 6316-2 du même code ne sont pris en charge qu'à la condition d'avoir fait l'objet d'une communication orale, en vidéotransmission ou téléphonique, entre le prescripteur et le patient.
 
 NOTA:
-Conformément au IV de l'article 83 de la loi n° 2023-1250 du 26 décembre 2023, le 10° du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

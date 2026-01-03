@@ -42,7 +42,15 @@ VII.-Les conditions d'inscription d'un acte ou d'une prestation, leur inscriptio
 
 VIII.-Tout acte ou prestation inscrit fait l'objet d'un examen en vue d'une nouvelle hiérarchisation, dans les conditions prévues aux alinéas précédents, dans les cinq ans qui suivent l'entrée en vigueur de la décision de l'Union nationale des caisses d'assurance maladie.
 
+VIII bis.-Par dérogation au VIII, il peut être procédé à tout moment à l'adaptation de la hiérarchisation ou à la radiation d'un acte, d'une prestation ou d'un groupe d'actes ou de prestations lorsqu'il apparaît que leurs conditions de production ou de réalisation ont évolué de manière significative.
+
+Cette adaptation est engagée à la demande du directeur général de l'Union nationale des caisses d'assurance maladie, des ministres chargés de la santé et de la sécurité sociale ou des conseils nationaux professionnels et des commissions compétentes pour chaque profession. La procédure applicable est définie par voie réglementaire.
+
+VIII ter.-Avant le 31 décembre de chaque année, un avenant à la convention mentionnée à l'article L. 162-5 est négocié afin de déterminer les tarifs afférents aux actes et aux prestations ayant fait l'objet d'une nouvelle hiérarchisation au cours de l'année.
+
 IX.-Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
 
+Si l'inscription d'un acte, d'une prestation, d'un ou de plusieurs groupes d'actes ou d'un ou de plusieurs groupes de prestations dans la liste établie ou sa révision n'a pas été traduite dans la convention mentionnée à l'article L. 162-5 dans un délai de six mois à compter de la transmission à l'Union nationale des caisses d'assurance maladie de l'évaluation technique permettant la hiérarchisation des actes et des prestations concernées dans les conditions prévues au présent article, leur prise en charge ou leur remboursement est défini par voie réglementaire sur proposition du directeur général de l'Union nationale des caisses d'assurance maladie.
+
 NOTA:
-Conformément au IV de l’article 53 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur dans des conditions et à une date fixées par décret, et au plus tard le 31 décembre 2023.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

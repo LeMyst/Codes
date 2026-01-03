@@ -30,7 +30,7 @@ La convention détermine notamment :
 
 11° Les modalités de participation des pharmaciens à l'activité de télémédecine définie à l'article L. 6316-1 du code de la santé publique ;
 
-12° Des mesures tendant à favoriser ou maintenir une offre pharmaceutique dans les territoires définis à l'article L. 5125-6 du code de la santé publique.
+12° Des mesures tendant à favoriser ou maintenir une offre pharmaceutique, notamment dans les territoires définis à l'article L. 5125-6 du code de la santé publique.
 
 13° Les conditions de modulation de la rémunération des pharmaciens en fonction de leur participation à un cadre d'exercice coordonné ;
 
@@ -44,7 +44,9 @@ La convention détermine notamment :
 
 18° La rémunération, dans la limite d'un plafond fixé conventionnellement, due au pharmacien qui dispense des médicaments au domicile d'un patient dans le cadre de l'un des programmes de retour à domicile mis en place par l'assurance maladie ;
 
-19° La rémunération, dans la limite d'un plafond fixé conventionnellement, lorsque le pharmacien délivre des médicaments à l'unité dans les conditions mentionnées à l'article L. 5123-8 du code de la santé publique ou dans le cadre du régime applicable aux médicaments classés comme stupéfiants mentionnés à l'article L. 5132-7 du même code.
+19° La rémunération, dans la limite d'un plafond fixé conventionnellement, lorsque le pharmacien délivre des médicaments à l'unité dans les conditions mentionnées à l'article L. 5123-8 du code de la santé publique ou dans le cadre du régime applicable aux médicaments classés comme stupéfiants mentionnés à l'article L. 5132-7 du même code ;
+
+20° La tarification des prestations effectuées par les pharmaciens lorsqu'ils contribuent à l'évaluation et à la prise en charge de situations cliniques en application de la mission mentionnée au c du 9° de l'article L. 5125-1-1 A dudit code.
 
 Le Conseil national de l'ordre des pharmaciens est, avant l'approbation, consulté sur les dispositions conventionnelles relatives à la déontologie.
 
@@ -57,3 +59,6 @@ Toute mesure conventionnelle ayant pour effet une revalorisation des tarifs des 
 Lorsque le Comité d'alerte sur l'évolution des dépenses de l'assurance maladie émet un avis considérant qu'il existe un risque sérieux de dépassement de l'objectif national des dépenses d'assurance maladie au sens du cinquième alinéa de l'article L. 114-4-1 et dès lors qu'il apparaît que ce risque de dépassement est en tout ou partie imputable à l'évolution de celui des sous-objectifs mentionnés au 3° de l'article LO 111-3-5 comprenant les dépenses de soins de ville, l'entrée en vigueur de toute mesure conventionnelle ayant pour effet une revalorisation au cours de l'année des tarifs des honoraires, rémunérations et frais accessoires mentionnés aux 6° à 8°, au 11° et aux 13° à 19° du présent article est suspendue, après consultation des parties signataires à la convention nationale. A défaut d'un avenant fixant une nouvelle date d'entrée en vigueur des revalorisations compatible avec les mesures de redressement mentionnées à l'article L. 114-4-1, l'entrée en vigueur est reportée au 1er janvier de l'année suivante.
 
 Le II de l'article L. 162-14-1 est applicable aux pharmaciens titulaires d'officine.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

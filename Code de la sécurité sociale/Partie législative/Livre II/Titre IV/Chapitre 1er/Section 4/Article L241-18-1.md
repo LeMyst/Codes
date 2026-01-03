@@ -1,6 +1,6 @@
 # Article L241-18-1
 
-I. - Dans les entreprises dont l'effectif comprend au moins vingt et moins de deux cent cinquante salariés, toute heure supplémentaire effectuée à compter du 1er octobre 2022 par les salariés mentionnés au II de l'article L. 241-13 du code de la sécurité sociale ouvre droit à une déduction forfaitaire des cotisations patronales, à hauteur d'un montant fixé par décret.
+I. - Dans les entreprises dont l'effectif comprend au moins vingt salariés, toute heure supplémentaire effectuée à compter du 1er octobre 2022 par les salariés mentionnés au II de l'article L. 241-13 du code de la sécurité sociale ouvre droit à une déduction forfaitaire des cotisations patronales, à hauteur d'un montant fixé par décret.
 
 La réduction s'applique au titre des heures mentionnées aux 1° à 3° du I de l'article L. 241-17 du même code.
 
@@ -23,4 +23,6 @@ VI. - Un décret fixe les modalités d'application du présent article ainsi que
 VII. - Le présent article est applicable à Mayotte et à Saint-Pierre-et-Miquelon.
 
 NOTA:
-Conformément au V de l'article 22 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions s'appliquent aux cotisations dues au titre des périodes courant à compter du 1er octobre 2022.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au II de l'article 21 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, sont applicables aux revenus d'activité versés au titre des périodes d'emploi courant à compter du 1er janvier 2026.

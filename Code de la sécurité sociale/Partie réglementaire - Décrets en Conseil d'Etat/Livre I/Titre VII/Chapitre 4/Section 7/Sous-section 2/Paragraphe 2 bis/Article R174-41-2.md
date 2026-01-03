@@ -8,7 +8,7 @@ Pour l'application des 2°, 3° et 4° du I de l'article L. 162-22-19 :
 
 3° La dotation relative à la structuration de la recherche mentionnée au 5° de l'article R. 162-31-1 prend en compte l'ensemble des activités de psychiatrie inscrites sur la liste prévue à l'article L. 6147-7 du code de la santé publique.
 
-Sur la base des dispositions du présent article et de celles du 4° de l'article R. 162-31-1 du présent code et de l'article L. 162-23-15, l'agence régionale de santé d'Ile-de-France propose, pour chaque dotation, le montant qui est arrêté par les ministres chargés de la santé et de la sécurité sociale dans un délai de quinze jours suivant la publication de l'arrêté mentionné au II de l'article R. 162-31-1.
+Sur la base des dispositions du présent article, l'agence régionale de santé d'Ile-de-France propose, pour chaque dotation, le montant qui est arrêté par les ministres chargés de la santé et de la sécurité sociale dans le délai prévu au premier alinéa du II de l'article R. 162-30 ou, en ce qui concerne les dotations mentionnées aux 2° et 7° de l'article R. 162-31-2, celui prévu au second alinéa du II du même article.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

@@ -6,9 +6,11 @@ Le premier alinéa ne s'applique pas :
 
 1° Aux assurés demandant à bénéficier d'une fraction de pension dans le cadre d'un dispositif de retraite progressive prévu par des dispositions législatives ou réglementaires, notamment l'article L. 161-22-1-5 ;
 
-2° Aux assurés remplissant les conditions leur permettant de cumuler intégralement le service de leur pension de vieillesse et les revenus tirés de l'exercice d'une activité professionnelle, prévues aux troisième à avant-dernier alinéas de l'article L. 84 du code des pensions civiles et militaires de retraite, ainsi qu'aux quatrième à septième alinéas de l'article L. 161-22 du présent code, aux troisième à avant-dernier alinéas des articles L. 634-6 et L. 643-6 et à l'article L. 653-7, sous réserve que la reprise d'activité, lorsqu'elle a lieu chez le dernier employeur, intervienne au plus tôt six mois après la liquidation de la pension de vieillesse.
+2° Aux assurés remplissant les conditions leur permettant de cumuler entièrement le service de leur pension et les revenus tirés de l'exercice d'une activité professionnelle, définies au 3° du A du III de l'article L. 161-22.
 
 NOTA:
-Conformément au XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Se reporter aux XI et 3° et 7° du XII de l’article 26 de la loi n° 2023-270 du 14 avril 2023.
+Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1er janvier 2027.
+
+Par dérogation, ledit article n'est pas applicable lorsque le titulaire de la pension est entré en jouissance, avant cette date, d'une autre pension de vieillesse de base, à l'exception d'une pension liquidée au titre des 1° à 5° de l'article L. 161-22-1-2 du code de la sécurité sociale dans sa rédaction résultant dudit article.

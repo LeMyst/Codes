@@ -38,7 +38,7 @@ III.-Le montant mentionné au b du I est calculé en fonction d'un barème qui p
 
 5° (Abrogé) ;
 
-6° Le salaire net versé à la personne qui assure la garde de l'enfant et, s'il y a lieu, les indemnités mentionnées à l'article L. 423-4 du code de l'action sociale et des famillesdans la limite d'un plafond dont le niveau et les modalités de calcul sont fixés par décret. Ce décret peut fixer des plafonds distincts entre un assistant maternel agréé et une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail..
+6° Le salaire net versé à la personne qui assure la garde de l'enfant et, s'il y a lieu, les indemnités mentionnées à l'article L. 423-4 du code de l'action sociale et des famillesdans la limite d'un plafond dont le niveau et les modalités de calcul sont fixés par décret. Ce décret peut fixer des plafonds distincts entre un assistant maternel agréé et une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail. Pour la vérification du respect de ces plafonds, les indemnités mentionnées aux articles L. 1234-5, L. 1234-9, L. 1237-7, L. 1237-9, L. 1237-13, L. 1242-16, L. 1243-8, L. 3141-24 et L. 3141-28 du même code ne sont pas prises en compte.
 
 L'aide est calculée par enfant en cas d'emploi d'un assistant maternel agréé, et par ménage en cas d'emploi d'une personne mentionnée au premier alinéa de l'article L. 7221-1 du code du travail .
 
@@ -57,4 +57,4 @@ Par dérogation au premier alinéa du I de l'article L. 133-5-12, l'adhésion à
 VI.-Un décret définit les conditions d'application du présent article ainsi que les conditions de cumul, pour un même enfant ou plusieurs enfants, des compléments de libre choix du mode de garde versés au titre de modes de garde différents.
 
 NOTA:
-Conformément au II de l'article 92 de la loi n° 2025-199 du 28 février 2025, l'article précité entre en vigueur le 1er janvier 2026.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

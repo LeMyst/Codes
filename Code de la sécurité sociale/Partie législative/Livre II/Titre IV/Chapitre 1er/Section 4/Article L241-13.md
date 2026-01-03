@@ -2,11 +2,17 @@
 
 I.-Font l'objet d'une réduction dégressive les cotisations à la charge de l'employeur dues au titre des assurances sociales et des allocations familiales, les cotisations dues au titre des accidents du travail et des maladies professionnelles, à hauteur du taux fixé par l'arrêté mentionné à la seconde phrase du deuxième alinéa de l'article L. 241-5, les contributions mentionnées à l'article L. 813-4 du code de la construction et de l'habitation, les cotisations à la charge de l'employeur dues au titre des régimes de retraite complémentaire légalement obligatoires mentionnés à l'article L. 921-4 du présent code ou créés par la loi, la contribution prévue à l'article L. 137-40 du présent code et les contributions à la charge de l'employeur dues au titre de l'assurance chômage prévues au 1° de l'article L. 5422-9 du code du travail, à hauteur d'un taux ne tenant pas compte de l'application des deuxième à dernier alinéas de l'article L. 5422-12 du même code.
 
-Cette réduction s'applique aux revenus d'activité pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du présent code, majorés le cas échéant du montant de la prime de partage de la valeur prévue à l'article 1er de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat, qui sont inférieurs à un montant fixé par décret. Ce montant est compris entre le salaire minimum de croissance applicable au 1er janvier 2024 majoré de 200 % et le salaire minimum de croissance en vigueur majoré de 200 %.
+II.-Cette réduction s'applique aux cotisations et contributions mentionnées au I du présent article dues sur les revenus d'activité pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du présent code, majorés le cas échéant du montant de la prime de partage de la valeur prévue à l'article 1 er de la loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat, versés :
 
-II.-Cette réduction est appliquée aux revenus d'activité mentionnés au second alinéa du I du présent article versés aux salariés au titre desquels l'employeur est soumis à l'obligation édictée par l'article L. 5422-13 du code du travail et aux salariés mentionnés au 3° de l'article L. 5424-1 du même code, à l'exception des revenus d'activité versés par les particuliers employeurs. Elle s'applique également aux gains et rémunérations des apprentis pour lesquels l'employeur n'est pas éligible à l'exonération prévue à l'article L. 6227-8-1 dudit code.
+1° Aux salariés pour lesquels l'employeur est soumis à l'obligation prévue à l'article L. 5422-13 du code du travail, à l'exception des revenus versés par les particuliers employeurs ;
 
-Cette réduction n'est pas applicable aux revenus d'activité mentionnés au second alinéa du I du présent article versés par les employeurs relevant des dispositions du titre Ier du livre VII du présent code, à l'exception des employeurs relevant des régimes spéciaux de sécurité sociale des marins, des mines et des clercs et employés de notaires.
+2° Aux salariés des entreprises mentionnées aux 3°, 6° et 7° de l'article L. 5424-1 du même code qui ne sont pas affiliés à un régime spécial mentionné à la section 1 du chapitre I er du titre I er du livre VII du présent code, y compris les employeurs qui ne sont pas soumis à l'obligation mentionnée au 1° du présent II ;
+
+3° Aux salariés affiliés aux régimes spéciaux de sécurité sociale des marins, des mines et des clercs et employés de notaires ;
+
+4° Aux apprentis pour lesquels l'employeur n'est pas éligible à l'exonération prévue à l'article L. 6227-8-1 du code du travail.
+
+La réduction s'applique aux revenus d'activités mentionnés au premier alinéa du présent II qui sont inférieurs à un montant fixé par décret. Ce montant est compris entre le salaire minimum de croissance applicable au 1 er janvier 2024 majoré de 200 % et le salaire minimum de croissance en vigueur majoré de 200 %.
 
 III.-Le montant de la réduction est calculé chaque année civile, pour chaque salarié et pour chaque contrat de travail, selon des modalités fixées par décret. Il est égal au produit des revenus d'activité de l'année mentionnés au I et d'un coefficient.
 
@@ -17,6 +23,14 @@ La valeur maximale du coefficient est fixée par décret, dans la limite de la s
 La rémunération prise en compte pour la détermination du coefficient est celle définie à l'article L. 242-1, majorée le cas échéant du montant de la prime de partage de la valeur mentionnée au I du présent article. Toutefois, elle ne tient compte des déductions au titre de frais professionnels calculées forfaitairement en pourcentage de cette rémunération que dans des limites et conditions fixées par arrêté.
 
 Un décret précise les modalités de calcul de la réduction dans le cas des salariés dont le contrat de travail est suspendu avec maintien de tout ou partie de la rémunération.
+
+III bis.-Par dérogation au III du présent article, le coefficient mentionné au même III est calculé en fonction du salaire minimum national professionnel des salariés sans qualification applicable à l'entreprise, au sens du 4° du II de l'article L. 2261-22 du code du travail, dans la limite du montant du salaire minimum de croissance applicable.
+
+Cette dérogation s'applique aux entreprises qui relèvent d'une branche pour laquelle le salaire minimum national professionnel des salariés sans qualification, au sens du même 4°, est inférieur au salaire minimum de croissance en vigueur durant toute l'année civile précédant celle du mois civil au titre duquel le montant de la réduction est calculé et pour lesquelles aucun accord d'entreprise ni aucune décision unilatérale de l'employeur n'a prévu, au cours de ladite année civile, des salaires supérieurs au salaire minimum de croissance applicable.
+
+Le présent III bis n'est pas applicable aux entreprises pour lesquelles le montant de la réduction est inférieur en cas de non-application de cette dérogation.
+
+Les conditions d'application du présent III bis, notamment dans le cas des entreprises relevant de plusieurs branches ou de plusieurs conventions collectives, sont déterminées par décret.
 
 IV.-Le rapport ou le coefficient mentionné au deuxième alinéa du III est corrigé, dans des conditions fixées par décret, d'un facteur déterminé en fonction des stipulations légales ou conventionnelles applicables :
 
@@ -38,7 +52,15 @@ Pour les salariés expatriés mentionnés au a de l'article L. 5427-1 du code du
 
 Pour les salariés mentionnés à l'article L. 133-9 du présent code, le montant de la réduction s'impute en outre, selon les mêmes règles, sur les cotisations recouvrées par l'organisme de recouvrement habilité par l'Etat en application du même article L. 133-9.
 
-VIII.-(Abrogé)
+VIII.-Le présent article est applicable à Mayotte sous réserve des adaptations suivantes :
+
+1° Les cotisations et contributions mentionnées au I s'entendent comme celles, le cas échéant, applicables à Mayotte et sont prises en considération pour leur taux également applicable ;
+
+2° Pour la réduction applicable au titre de l'année 2026, le montant mentionné au dernier alinéa du II ne peut être inférieur au salaire minimum de croissance en vigueur majoré de 60 %. Pour les réductions applicables au titre de chacune des années 2027 à 2035, ce montant est réévalué au 1er janvier de chaque année. A compter du 1er janvier 2036, il est égal au montant mentionné au I ;
+
+3° Les références au salaire minimum de croissance s'entendent comme des références au salaire minimum de croissance applicable à Mayotte.
 
 NOTA:
 Conformément au B du IV de l'article 18 de la loi n° 2025-199 du 28 février 2025, le 2° du III de l'article précité est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.
+
+Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.

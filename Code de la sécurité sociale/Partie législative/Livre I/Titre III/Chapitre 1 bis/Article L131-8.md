@@ -4,27 +4,29 @@ Les organismes de sécurité sociale et les fonds mentionnés au présent articl
 
 1° Le produit de la taxe sur les salaires mentionnée à l'article 231 du code général des impôts, nette des frais d'assiette et de recouvrement déterminés dans les conditions prévues au III de l'article 1647 du même code, est versé :
 
--à la branche mentionnée au 3° de l'article L. 200-2 du présent code, pour une fraction correspondant à 63,25 % ;
+-à la branche mentionnée au 3° de l'article L. 200-2 du présent code, pour une fraction correspondant à 58,35 % ;
 
 -à la branche mentionnée au 4° du même article, pour une fraction correspondant à 10,74 % ;
 
--à la branche mentionnée au 1° du même article, pour une fraction correspondant à 20,93 % ;
+-à la branche mentionnée au 1° du même article, pour une fraction correspondant à 24,77 % ;
 
--à la branche mentionnée au 5° du même article, pour une fraction correspondant à 5,08 % ;
+-à la branche mentionnée au 5° du même article, pour une fraction correspondant à 6,14 % ;
 
 2° Le produit des taxes sur l'affectation des véhicules de tourisme à des fins économiques prévues au 1° de l'article L. 421-94 du code des impositions sur les biens et services est affecté :
 
 a) A la branche mentionnée au 1° de l'article L. 200-2 du présent code, pour 24,10 % ;
 
-b) A la branche mentionnée au 4° du même article L. 200-2, pour 75,90 % ;
+b) A la branche mentionnée au 3° du même article L. 200-2, pour 75,90 % ;
 
 3° Le produit des contributions mentionnées aux 1° et 3° du I et aux II, III et III bis de l'article L. 136-8 du présent code est versé :
 
 a) A la Caisse nationale des allocations familiales, pour la part correspondant à un taux de :
 
--0,95 % pour les contributions mentionnées aux 1° du I, au II et au III bis du même article L. 136-8 ;
+-0,95 % pour les contributions mentionnées au 1° des I et II et au III bis du même article L. 136-8 ;
 
 -0,68 % pour la contribution mentionnée au 3° du I dudit article L. 136-8 ;
+
+-0,3 % pour les revenus mentionnés au 2° du II du même article L. 136-8 ;
 
 b) Aux régimes obligatoires d'assurance maladie, en proportion des contributions sur les revenus d'activité acquittées par les personnes affiliées à chaque régime pour la contribution sur les revenus d'activité ou, pour la contribution assise sur les autres revenus, à la Caisse nationale de l'assurance maladie ou, lorsqu'un régime n'est pas intégré financièrement au sens de l'article L. 134-4, à ce même régime, dans des conditions fixées par décret et pour la part correspondant à un taux de :
 
@@ -34,7 +36,7 @@ b) Aux régimes obligatoires d'assurance maladie, en proportion des contribution
 
 -2,72 % pour les revenus mentionnés au 1° du II du même article L. 136-8 ;
 
--1,88 % pour les revenus mentionnés au 2° du même II ;
+-2,53 % pour les revenus mentionnés au 2° du même II ;
 
 -1,27 % pour les revenus mentionnés au III du même article L. 136-8 ;
 
@@ -42,7 +44,7 @@ b) Aux régimes obligatoires d'assurance maladie, en proportion des contribution
 
 c) A la Caisse d'amortissement de la dette sociale instituée par l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, pour la part correspondant au taux de 0,45 %, à l'exception de la contribution mentionnée au 3° du I de l'article L. 136-8 du présent code, pour laquelle le taux est fixé à 0,22 % ;
 
-d) A l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail pour la contribution sur les revenus d'activité mentionnée au 1° du I de l'article L. 136-8 du présent code, pour la part correspondant à un taux de 1,47 % ;
+d) A l'organisme mentionné au premier alinéa de l'article L. 5427-1 du code du travail pour la contribution mentionnée au 1° du I de l'article L. 136-8 du présent code, pour la part correspondant à un taux de 1,47 % ;
 
 e) A la branche mentionnée au 3° de l'article L. 200-2 pour la contribution sur les revenus de remplacement mentionnée au 2° du II et du III bis de l'article L. 136-8, pour la part correspondant à un taux de 2,94% ;
 
@@ -54,7 +56,7 @@ a) A la branche mentionnée au 3° de l'article L. 200-2, pour la part correspon
 
 b) A la Caisse d'amortissement de la dette sociale, pour la part correspondant à un taux de 0,45 % ;
 
-c) A la Caisse nationale de solidarité pour l'autonomie, pour la part correspondant à un taux de 2,08 % ;
+c) A la Caisse nationale de solidarité pour l'autonomie, pour la part correspondant à un taux de 3,48 % ;
 
 3° ter Le produit de la contribution mentionnée au III de l'article L. 136-7-1 est ainsi réparti :
 
@@ -62,11 +64,29 @@ a) A la branche mentionnée au 4° de l'article L. 200-2 pour 18 % ;
 
 b) A la branche mentionnée au 1° de l'article L. 200-2 pour 82 % ;
 
-4° La fraction du produit de la taxe mentionnée au b de l'article 1001 du code général des impôts est affectée à la branche mentionnée au 4° de l'article L. 200-2 ;
+3° quater Le produit des contributions mentionnées au IV de l'article L. 136-8 est versé :
 
-4° bis Le prélèvement mentionné au b de l'article 1001 du code général des impôts est affecté à la branche mentionnée au 5° de l'article L. 200-2 du présent code ;
+a) A la branche mentionnée au 3° de l'article L. 200-2, pour la part correspondant à un taux de 6,67 % ;
 
-5° Le produit des contributions mentionnées aux articles L. 137-14 et L. 137-18 et au deuxième alinéa de l'article L. 137-24 est affecté à la branche mentionnée au 4° de l'article L. 200-2 ;
+b) A la Caisse d'amortissement de la dette sociale, pour la part correspondant à un taux de 0,45 % ;
+
+c) A la Caisse nationale de solidarité pour l'autonomie, pour la part correspondant à un taux de 2,08 % ;
+
+4° La fraction du produit de la taxe mentionnée au b du II de l'article 1001 du code général des impôts est affectée à la branche mentionnée au 3° de l'article L. 200-2 ;
+
+4° bis Le prélèvement mentionné au b du II de l'article 1001 du code général des impôts est affecté à la branche mentionnée au 5° de l'article L. 200-2 du présent code ;
+
+5° Le produit des contributions mentionnées aux articles L. 137-14 et L. 137-18 est versé :
+
+a) A la branche mentionnée au 3° de l'article L. 200-2 pour 93,98 % ;
+
+b) A la branche mentionnée au 1° du même article L. 200-2 pour 6,02 % ;
+
+5° bis Le surplus du produit des prélèvements mentionné au second alinéa de l'article L. 137-24 est versé :
+
+a) A la branche mentionnée au 4° de l'article L. 200-2 pour 66 % ;
+
+b) A la branche mentionnée au 1° du même article L. 200-2 pour 34 % ;
 
 6° Le produit du droit de licence sur la rémunération des débitants de tabacs mentionné à l'article 568 du code général des impôts est versé à la branche mentionnée au même 1° ;
 
@@ -91,4 +111,4 @@ b) A l'Agence centrale des organismes de sécurité sociale au titre de ses miss
 L'Agence centrale des organismes de sécurité sociale est chargée de centraliser et de répartir entre leurs affectataires le produit des taxes et des impôts mentionnés au présent article. La répartition entre les affectataires est effectuée en appliquant les fractions définies au présent article pour leur valeur en vigueur à la date du fait générateur de ces taxes et impôts.
 
 NOTA:
-Conformément au A du XXIII de l'article 24 de la loi n° 2025-199 du 28 février 2025, les I à V, XV et XVI de l'article précité s'appliquent à compter du 1er janvier 2025.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

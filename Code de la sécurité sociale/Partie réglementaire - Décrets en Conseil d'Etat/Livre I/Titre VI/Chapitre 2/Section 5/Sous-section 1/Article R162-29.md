@@ -16,11 +16,11 @@ Le comité tient compte des avis rendus par la commission spécialisée d'organi
 
 Les avis du comité sont transmis au directeur général de l'agence régionale de santé et rendus publics avant la mise en œuvre des actions considérées.
 
-Le comité est informé de l'allocation définitive des ressources par établissement.
+Pour chaque établissement, la section concernée du comité est informée de l'allocation définitive des ressources pour lesquelles elle est compétente.
 
 Le directeur général de l'agence régionale de santé peut saisir le comité de toute question d'ordre général liée à l'allocation des ressources des activités mentionnées au présent article.
 
 L'agence régionale de santé assure le secrétariat du comité.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

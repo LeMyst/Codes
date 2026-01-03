@@ -17,11 +17,25 @@ Le pharmacien propose au patient, le cas échéant par substitution, une spécia
 
 Pour l'application du présent III, seules les spécialités inscrites sur l'une des listes mentionnées aux premier et deuxième alinéas de l'article L. 162-17 sont prises en compte.
 
-Pour les groupes génériques, la limitation de la base de remboursement mentionnée au présent III s'applique à compter de deux ans suivant la publication au Journal officiel ou, le cas échéant, au Bulletin officiel des produits de santé du prix de la première spécialité générique du groupe.
+Pour les groupes génériques ou hybrides, la limitation de la base de remboursement mentionnée au présent III s'applique un an après la publication au Journal officiel ou, le cas échéant, au Bulletin officiel des produits de santé du prix de la première spécialité générique ou hybride du groupe.
 
 IV.-Le III, à l'exception de l'avant-dernier alinéa, n'est pas applicable lorsque le prescripteur a exclu sur justification médicale la possibilité de substitution conformément au deuxième alinéa du II de l'article L. 5125-23 du code de la santé publique, ou lorsque la délivrance par substitution d'une spécialité hybride n'est pas admise en application du dernier alinéa du II du présent article.
 
-V.-Lorsque le pharmacien d'officine délivre, en application de l'article L. 5125-23-2 du code de la santé publique, une spécialité figurant sur la liste mentionnée au premier alinéa de l'article L. 162-17 du présent code autre que celle qui a été prescrite, cette substitution ne doit pas entraîner une dépense supplémentaire pour l'assurance maladie supérieure à la dépense qu'aurait entraînée la délivrance du médicament biologique similaire le plus onéreux du même groupe.
+V.-La base de remboursement des frais exposés par l'assuré au titre d'une spécialité appartenant à un groupe biologique similaire mentionné au b du 15° de l'article L. 5121-1 du code de la santé publique et figurant sur la liste mentionnée au premier alinéa du 2° de l'article L. 5125-23-2 du même code, délivrée par le pharmacien d'officine ou par une pharmacie à usage intérieur en application du 1° de l'article L. 5126-6 dudit code, est limitée à la base de remboursement la plus chère en vigueur pour les médicaments biologiques similaires appartenant au groupe biologique similaire concerné, lorsque le pharmacien délivre un médicament biologique :
+
+1° Sur présentation d'une prescription libellée en dénomination commune qui peut être respectée par la délivrance d'une spécialité figurant au sein d'un groupe biologique similaire mentionné à l'article L. 5121-1 du même code ;
+
+2° Ou pour laquelle la spécialité prescrite ou délivrée appartient à un groupe biologique similaire.
+
+Le pharmacien délivre pour la spécialité concernée le conditionnement le moins coûteux pour l'assurance maladie.
+
+Le pharmacien propose au patient, le cas échéant par substitution, une spécialité dont la base de remboursement n'excède pas la plus chère en vigueur pour les médicaments biologiques similaires appartenant au groupe biologique similaire concerné.
+
+Pour l'application du présent V, seules les spécialités inscrites sur l'une des listes mentionnées aux deux premiers alinéas de l'article L. 162-17 sont prises en compte.
+
+Pour les groupes biologiques similaires, la limitation de la base de remboursement mentionnée au présent V s'applique deux ans après la publication au Journal officiel ou, le cas échéant, au Bulletin officiel des produits de santé du prix du premier médicament biologique similaire du groupe.
+
+Le présent V n'est pas applicable lorsque le prescripteur a exclu, sur justification médicale, la possibilité de substitution conformément au 4° de l'article L. 5125-23-2 du code de la santé publique.
 
 V bis.-Les produits dispensés par un pharmacien d'officine en application de l'article L. 5125-23-3 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces produits soient inscrits sur la liste des produits et prestations remboursables mentionnée à l'article L. 165-1 du présent code.
 
@@ -36,3 +50,10 @@ VII.-Les médicaments et dispositifs médicaux dispensés par un pharmacien en a
 Les médicaments renouvelés par une infirmière ou un infirmier en application de l'article L. 4311-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits sur la liste des spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du présent code.
 
 Les médicaments dispensés par un pharmacien en application du deuxième alinéa de l'article L. 5125-23-1 du code de la santé publique sont pris en charge par les organismes d'assurance maladie, sous réserve que ces médicaments soient inscrits sur la liste des spécialités remboursables prévue au premier alinéa de l'article L. 162-17 du présent code.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au A du V de l'article 87 de la loi n° 2025-1403 du 30 décembre 2025, le dernier alinéa du III du présent article, dans sa rédaction résultant du A du I de l'article 87 précité, s'applique aux groupes génériques et hybrides dont le prix de la première spécialité générique ou hybride est publié au Journal officiel ou, le cas échéant, au Bulletin officiel des produits de santé à compter du 1er septembre 2026.
+
+Conformément au B du V de l'article 87 de la loi n° 2025-1403 du 30 décembre 2025, le V du présent article, dans sa rédaction résultant du B du I de l'article 87 précité, s'applique aux groupes biologiques similaires dont le prix du premier médicament biologique similaire est publié au Journal officiel ou, le cas échéant, au Bulletin officiel des produits de santé à compter du 1er septembre 2026. Il s'applique à compter de la même date aux groupes biologiques similaires pour lesquels une telle publication est intervenue avant le 1er septembre 2024. Pour les groupes biologiques similaires pour lesquels cette publication est intervenue entre le 1er septembre 2024 et le 31 août 2026, le même V s'applique à compter de la date à laquelle la durée de deux ans mentionnée à l'avant-dernier alinéa dudit V est échue.

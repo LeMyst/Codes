@@ -12,7 +12,7 @@ Les dispositions de l'article L. 162-20-1 applicables aux établissements de san
 
 Le montant de la dotation mentionnée au 1° de l'article L. 162-22-8-2 est fixé chaque année par arrêté des ministres chargés de la santé et de la sécurité sociale en prenant en compte le ressort territorial national du service de santé des armées.
 
-Les missions des caisses mentionnées aux articles L. 174-2 et L. 174-2-1 sont assurées en ce qui concerne le service de santé des armées par la Caisse nationale militaire de sécurité sociale.
+Les missions des caisses mentionnées aux articles L. 174-2 et L. 162-27 sont assurées en ce qui concerne le service de santé des armées par la Caisse nationale militaire de sécurité sociale.
 
 Les dépenses afférentes aux activités visées au premier alinéa sont prises en compte au sein de l'objectif mentionné à l'article L. 162-22-1.
 
@@ -23,4 +23,4 @@ Les dépenses afférentes aux activités mentionnées au troisième alinéa sont
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article, notamment celles relatives aux compétences exercées par directeur général de l'agence régionale de santé.
 
 NOTA:
-Conformément au 6° du A du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au V de l'article 72 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 72 précité, entrent en vigueur le 1er janvier 2026.

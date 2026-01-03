@@ -2,15 +2,11 @@
 
 I.-Bénéficient de l'exonération des cotisations dues aux régimes d'assurance maladie, maternité, veuvage, vieillesse, invalidité et décès et d'allocations familiales dont elles sont redevables au titre de l'exercice de leur activité les personnes qui créent ou reprennent une activité professionnelle ou entreprennent l'exercice d'une autre profession non salariée soit à titre indépendant relevant de l'article L. 611-1 du présent code ou de l'article L. 722-4 du code rural et de la pêche maritime, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle, notamment dans le cas où cette création ou reprise prend la forme d'une société mentionnée aux 11°, 12° ou 23° de l'article L. 311-3 du présent code ou aux 8° ou 9° de l'article L. 722-20 du code rural et de la pêche maritime.
 
-Les personnes mentionnées au premier alinéa du présent I sont celles qui :
-
-1° Soit relèvent simultanément du dispositif mentionné à l'article L. 613-7 du présent code et de l'une des catégories mentionnées à l'article L. 5141-1 du code du travail ;
-
-2° Soit ne relèvent pas des articles L. 613-7 et L. 642-4-2 du présent code.
+Le premier alinéa du présent article s'applique aux personnes qui relèvent de l'une des catégories mentionnées à l'article L. 5141-1 du code du travail, à l'exclusion des personnes mentionnées à l'article L. 642-4-2 du présent code, ainsi qu'aux personnes qui créent ou reprennent une entreprise implantée dans une commune relevant de l'une des zones mentionnées à l'article 44 quindecies A du code général des impôts.
 
 II.-L'exonération mentionnée au I est accordée pour une période de douze mois.
 
-Lorsque l'assiette des cotisations mentionnées au I est inférieure ou égale aux trois quarts du plafond mentionné à l'article L. 241-3 du présent code, l'exonération est totale. Au-delà de ce seuil d'assiette, le montant de l'exonération décroît linéairement et devient nul lorsque l'assiette est égale au plafond annuel de la sécurité sociale.
+Lorsque l'assiette des cotisations mentionnées au I est inférieure ou égale aux trois quarts du plafond mentionné à l'article L. 241-3 du présent code, le montant de l'exonération, qui est fixé par décret, ne peut excéder 25 % de ces cotisations. Au-delà de ce seuil d'assiette, le montant de l'exonération décroît linéairement et devient nul lorsque l'assiette est égale au plafond annuel de la sécurité sociale.
 
 L'exonération prévue à l'alinéa précédent porte :
 
@@ -18,7 +14,7 @@ L'exonération prévue à l'alinéa précédent porte :
 
 2° Sur les cotisations dues au titre de l'activité exercée au cours de la période d'exonération, si ces personnes relèvent d'un régime de non-salariés.
 
-Les personnes relevant du dispositif mentionné à l'article L. 613-7 du présent code formulent, lors de la création de leur activité, leur demande d'exonération auprès de l'organisme mentionné à l'article L. 213-1.
+Les personnes mentionnées au I formulent, lors de la création de leur activité, leur demande d'exonération auprès de l'organisme mentionné à l'article L. 213-1.
 
 Les conjoints collaborateurs des travailleurs indépendants ne relevant pas du dispositif mentionné à l'article L. 613-7 et bénéficiant de l'exonération prévue au présent article, à l'exclusion des conjoints collaborateurs des assurés relevant du titre V du livre VI ayant opté pour le calcul de leurs cotisations selon les modalités prévues au 3° de l'article L. 662-1, peuvent bénéficier de cette exonération. Dans ce cas, l'assiette prise en compte pour déterminer le montant de l'exonération accordée correspond à la fraction de l'assiette, prévue à l'article L. 131-6, du chef d'entreprise attribuée au conjoint collaborateur. Cette fraction est alors déduite de l'assiette permettant de déterminer le montant d'exonération applicable aux cotisations du chef d'entreprise.
 
@@ -27,4 +23,4 @@ III.-Le bénéfice de l'exonération mentionnée au I du présent article ne peu
 IV.-Une personne ne peut bénéficier de l'exonération mentionnée au I pendant une période de trois ans à compter de la date à laquelle elle a cessé d'en bénéficier au titre d'une activité antérieure.
 
 NOTA:
-Conformément au VII de l’article 18 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent au calcul des cotisations et des contributions dues par les travailleurs indépendants non agricoles autres que ceux mentionnés à l'article L. 613-7 du code de la sécurité sociale au titre des périodes courant à compter du 1er janvier 2025.
+Conformément au B du V de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du A du II du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.

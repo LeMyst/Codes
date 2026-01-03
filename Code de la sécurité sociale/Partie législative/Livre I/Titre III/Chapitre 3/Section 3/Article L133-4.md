@@ -2,7 +2,7 @@
 
 I.-A.-En cas d'inobservation des règles de tarification, de distribution ou de facturation :
 
-1° Des actes, prestations et produits figurant sur les listes mentionnées aux articles L. 162-1-7, L. 162-17, L. 165-1, L. 162-22-7, L. 162-22-7-3 et L. 162-23-6 ou relevant des dispositions des articles L. 162-16-5-1, L. 162-16-5-2, L. 162-17-2-1, L. 162-18-1, L. 162-22-3, L. 162-23-1, L. 162-62 et L. 165-1-5 ou des activités de télésurveillance médicale figurant sur la liste mentionnée à l'article L. 162-52 ;
+1° Des actes, prestations et produits figurant sur les listes mentionnées aux articles L. 162-1-7, L. 162-17, L. 165-1, L. 162-22-7, L. 162-22-7-3 et L. 162-23-6 ou relevant des dispositions des articles L. 162-16-5-1, L. 162-16-5-2, L. 162-17-2-1, L. 162-18-1, L. 162-22-3, L. 162-22-19, L. 162-23-1, L. 162-62 et L. 165-1-5 ou des activités de télésurveillance médicale figurant sur la liste mentionnée à l'article L. 162-52 ;
 
 2° Des frais de transports mentionnés aux articles L. 160-8 et L. 160-9-1,
 
@@ -29,4 +29,4 @@ Lorsque la mise en demeure reste sans effet, le directeur de l'organisme peut d�
 IV.-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
 
 NOTA:
-Conformément au VII de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

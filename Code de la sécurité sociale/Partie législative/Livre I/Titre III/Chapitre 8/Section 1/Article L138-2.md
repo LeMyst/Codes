@@ -2,11 +2,11 @@
 
 La contribution due par chaque entreprise est assise sur le montant du chiffre d'affaires hors taxes défini à l'article L. 138-1.
 
-L'assiette de la contribution est composée de trois parts. Une première part est constituée par le chiffre d'affaires hors taxes réalisé par l'entreprise au cours de l'année civile ; une deuxième part est constituée par la différence entre le chiffre d'affaires hors taxes réalisé au cours de l'année civile et celui réalisé l'année civile précédente. Une troisième part est constituée, pour les spécialités autres que celles mentionnées aux deux dernières phrases du premier alinéa de l'article L. 138-9, de la fraction du chiffre d'affaires hors taxes réalisée par l'entreprise au cours de l'année civile correspondant, pour l'ensemble des unités vendues, à la différence entre le prix fabricant hors taxes, augmenté de la marge maximale mentionnée au second alinéa de l'article L. 138-1 et minoré des remises maximales autorisées à l'article L. 138-9 dans la limite de 3,75 €, et le prix de vente hors taxes aux officines. Si cette différence est négative, cette troisième part est ramenée à zéro.
+L'assiette de la contribution est composée de trois parts. Une première part est constituée par le chiffre d'affaires hors taxes réalisé par l'entreprise au cours de l'année civile ; une deuxième part est constituée par la différence entre le chiffre d'affaires hors taxes réalisé au cours de l'année civile et celui réalisé l'année civile précédente. Une troisième part est constituée, pour les spécialités autres que celles mentionnées au II de l'article L. 138-9, de la fraction du chiffre d'affaires hors taxes réalisée par l'entreprise au cours de l'année civile correspondant, pour l'ensemble des unités vendues, à la différence entre le prix fabricant hors taxes, augmenté de la marge maximale mentionnée au second alinéa de l'article L. 138-1 et minoré des remises maximales autorisées à l'article L. 138-9 dans la limite de 3,75 €, et le prix de vente hors taxes aux officines. Si cette différence est négative, cette troisième part est ramenée à zéro.
 
 Le montant de la contribution est calculé en appliquant :
 
-a) Un taux de 1,5 % à la première part ;
+a) Un taux de 1,3 % à la première part ;
 
 b) Un taux de 2,25 % à la deuxième part, y compris lorsqu'elle est négative ;
 
@@ -19,4 +19,6 @@ Lorsqu'une entreprise est soumise pour la première fois à la contribution, ell
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au II de l’article 5 de la loi n° 2021-1754 du 23 décembre 2021, ces dispositions s'appliquent à la contribution prévue à l'article L. 138-1 du code de la sécurité sociale due à compter de l'exercice 2021.
+Conformément au II de l’article 37 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1er janvier 2026. Elles sont applicables aux contrats de fourniture de spécialités pharmaceutiques remboursables conclus ou renouvelés après cette date et, s'agissant des contrats en cours d'exécution, à l'expiration d'un délai de trois mois à compter de la date de leur prise d'effet.
+
+Conformément au II de l’article 36 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à la contribution prévue à l'article L. 138-1 du même code due à compter de l'exercice 2026.

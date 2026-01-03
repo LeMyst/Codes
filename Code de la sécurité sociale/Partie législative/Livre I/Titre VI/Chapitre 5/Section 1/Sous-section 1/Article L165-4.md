@@ -8,6 +8,12 @@ S'agissant des produits ou prestations inscrits sur la liste mentionnée au mêm
 
 S'agissant des produits ou prestations inscrits sur la liste par description générique ou description générique renforcée, les remises sont fixées par convention entre le comité et un ou plusieurs exploitants ou distributeurs au détail des produits ou prestations répondant à la description générique ou une organisation regroupant ces exploitants ou distributeurs au détail dans les conditions prévues à l'article L. 165-3-3 ou, à défaut, par décision du comité.
 
+II bis.-Les remises conventionnelles prévues aux I et II du présent article sont versées par les entreprises concernées de manière provisionnelle, à parts égales, chaque trimestre de l'année civile au titre de laquelle elles sont dues, pour un montant cumulé correspondant à 95 % du montant dû aux organismes mentionnés à l'article L. 213-1 au titre de l'antépénultième année civile.
+
+Une régularisation, portant sur la différence entre la somme des acomptes versés et le montant de la remise due, intervient pendant l'année civile suivant celle au titre de laquelle ces remises sont dues.
+
+Ces remises sont recouvrées par les organismes mentionnés au même article L. 213-1 désignés par le directeur de l'Agence centrale des organismes de sécurité sociale. Les prix nets, les tarifs nets ou les coûts nets s'entendent déduction faite de ces remises.
+
 III.-Le Comité économique des produits de santé assure un suivi périodique des dépenses des produits ou prestations mentionnés à l'article L. 165-1 en vue de constater si l'évolution de ces dépenses est compatible avec le respect de l'objectif national de dépenses d'assurance maladie. Ce suivi comporte au moins deux constats à l'issue des quatre et huit premiers mois de l'année.
 
 IV.-Les conventions conclues au titre des produits ou prestations bénéficiant, pour l'une de leurs indications, d'une prise en charge mentionnée à l'article L. 165-1-5 n'incluent que des remises portant sur les unités vendues à compter de la signature de la convention. Elles incluent également des prévisions relatives aux volumes de vente, le cas échéant indication par indication, pour la prochaine année.
@@ -21,3 +27,8 @@ A défaut de convention prévoyant des remises, le tarif de responsabilité tien
 V.-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 VI.-Le cadre des conventions mentionnées au présent article peut être, le cas échéant, précisé par l'accord mentionné au II de l'article L. 165-4-1.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au III de l’article 33 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I dudit article, s'appliquent pour la première fois aux remises dues au titre de l'année 2027.

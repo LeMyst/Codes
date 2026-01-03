@@ -4,9 +4,9 @@ I.-La prestation partagée d'éducation de l'enfant n'est pas cumulable avec le 
 
 II.-La prestation partagée d'éducation de l'enfant à taux plein n'est pas cumulable pour le bénéficiaire avec :
 
-1° L'indemnisation des congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ;
+1° L'indemnisation des congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ou du congé supplémentaire de naissance ;
 
-2° L'indemnité d'interruption d'activité ou l'allocation de remplacement pour maternité ou paternité, prévues aux articles L. 623-1 et L. 663-1 du présent code, aux articles L. 732-10 à L. 732-12-2 du code rural et de la pêche maritime et aux articles L. 5556-9 et L. 5556-10 du code des transports ;
+2° L'indemnité d'interruption d'activité ou l'allocation de remplacement pour maternité ou paternité, prévues aux articles L. 623-1, L. 623-2 et L. 663-1 du présent code, aux articles L. 732-10 à L. 732-12-2 du code rural et de la pêche maritime et aux articles L. 5556-9 et L. 5556-10 du code des transports ;
 
 3° L'indemnisation des congés de maladie ou d'accident du travail ;
 
@@ -21,3 +21,8 @@ III.-La prestation partagée d'éducation de l'enfant à taux partiel n'est pas 
 IV.-Lorsque le bénéficiaire de la prestation partagée d'éducation de l'enfant a un seul enfant à charge, la prestation est cumulable, le mois d'ouverture du droit, avec les indemnités et allocations visées aux 1° à 3° du II.
 
 V.-Pendant le mois au cours duquel le versement des indemnités ou allocations mentionnées aux 1° à 3° du II prend fin, celles-ci sont cumulables avec la prestation partagée d'éducation de l'enfant à taux plein, lorsqu'il est fait usage de l'option mentionnée au deuxième alinéa du VI de l'article L. 531-4.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.

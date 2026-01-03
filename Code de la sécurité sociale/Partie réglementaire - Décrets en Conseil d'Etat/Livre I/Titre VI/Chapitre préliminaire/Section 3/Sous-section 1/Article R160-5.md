@@ -26,7 +26,7 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 
 11° de 30 à 40 % pour tous les autres frais ;
 
-12° De 15 à 25 % pour les forfaits mentionnés aux 2° uniquement lorsqu'ils assurent le financement des urgences gynécologiques prises en charges au sein des services de gynécologie-obstétrique, 4°, 5°, 6° de l'article R. 162-33-1 ;
+12° De 15 à 25 % pour les forfaits mentionnés aux 3° uniquement lorsqu'ils assurent le financement des urgences gynécologiques prises en charges au sein des services de gynécologie-obstétrique, 5°, 6°, 7° de l'article R. 162-33-1 ;
 
 13° De 15 à 25 % pour les consultations et les actes facturés en sus des forfaits mentionnés au 12° ;
 
@@ -45,3 +45,6 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 20° De 35 à 45 % pour les frais relatifs aux dispositifs médicaux numériques à visée thérapeutique et aux activités de télésurveillance médicale pris en charge au titre de l'article L. 162-1-23.
 
 Dans le cas des préparations magistrales incluant une ou plusieurs spécialités pharmaceutiques déconditionnées, et dès lors que ce déconditionnement est autorisé conformément aux dispositions de l'article R. 5132-8 du code de la santé publique, le taux de participation de l'assuré est égal au plus faible de ceux applicables à ces spécialités.
+
+NOTA:
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

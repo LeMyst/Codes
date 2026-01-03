@@ -22,6 +22,11 @@ b) Le montant des dépenses réalisées par les départements en 2024, constaté
 
 Par dérogation, pour les départements participant à l'expérimentation prévue à l'article 79 de la loi n° 2023-1250 du 26 décembre 2023 précitée, les modalités de calcul du taux de couverture sont fixées par voie réglementaire, en tenant compte des effets de la réforme du régime adapté de financement des établissements mentionnés aux I, II et IV bis de l'article L. 313-12 du code de l'action sociale et des familles. Le taux de couverture est calculé en 2025 en simulant les effets qu'aurait eus cette réforme si elle avait été appliquée au 1er juillet 2024. Pour les années suivantes, le taux de couverture est calculé en simulant les effets qu'aurait eus cette réforme si elle avait été appliquée au 1er janvier 2024 ;
 
-3° Le cas échéant, un coefficient géographique s'appliquant au taux mentionné au 2° du présent article afin de tenir compte d'éventuels facteurs spécifiques, en particulier ceux se rapportant aux caractéristiques économiques, sociales et démographiques des collectivités régies par l'article 73 de la Constitution. Les modalités de calcul et d'application de ce coefficient sont précisées par voie réglementaire.
+3° Le cas échéant, un coefficient géographique s'appliquant au taux mentionné au 2° du présent article afin de tenir compte d'éventuels facteurs spécifiques, en particulier ceux se rapportant aux caractéristiques économiques, sociales et démographiques des collectivités régies par l'article 73 de la Constitution.
+
+Le calcul de ce coefficient prend en compte, en particulier, les conséquences de la faiblesse des revenus des bénéficiaires sur la capacité de ces collectivités à financer la charge additionnelle qui en résulte.
 
 Les modalités d'application du présent article, notamment les modalités de versement du concours, sont définies par voie réglementaire.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

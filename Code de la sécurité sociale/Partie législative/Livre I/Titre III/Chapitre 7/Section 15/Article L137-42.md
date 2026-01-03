@@ -1,10 +1,10 @@
 # Article L137-42
 
-Il est institué, au profit de la Caisse nationale des allocations familiales, une contribution salariale libératoire de 10 % assise sur le montant des avantages mentionnés au a bis du 3° du III de l'article L. 136-1-1 qui sont imposés à l'impôt sur le revenu suivant les règles de droit commun des traitements et salaires.
+Il est institué, au profit de la Caisse nationale des allocations familiales, une contribution salariale libératoire de 10 % assise sur le montant de la fraction du gain net mentionné au premier alinéa du II de l'article 163 bis H du code général des impôts qui excède la limite déterminée dans les conditions définies au même premier alinéa.
 
-Cette contribution est établie, recouvrée et contrôlée dans les conditions et selon les modalités prévues au III de l'article L. 136-6.
+Cette contribution est établie, recouvrée et contrôlée dans les conditions et selon les modalités prévues au III de l'article L. 136-6 du présent code.
 
 NOTA:
-Conformément au C du IV de l’article 93 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s’appliquent aux dispositions, cessions, conversions ou mises en location réalisées entre le lendemain de la promulgation de la présente loi et le 31 décembre 2027.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au V dudit article, la perte de recettes résultant pour l'Etat et les organismes de sécurité sociale des I et III est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+Conformément au III de l’article 17 de la loi n°2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I dudit article, s'appliquent aux dispositions, aux cessions, aux conversions ou aux mises en location réalisées à compter du 15 février 2025.

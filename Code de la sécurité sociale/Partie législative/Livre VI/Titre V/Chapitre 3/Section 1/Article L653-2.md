@@ -1,6 +1,6 @@
 # Article L653-2
 
-I.-La liquidation de la pension peut être demandée à partir de l'âge prévu au premier alinéa de l'article L. 351-1.
+I. - La liquidation de la pension peut être demandée à partir de l'âge prévu au premier alinéa de l'article L. 351-1.
 
 Lorsque l'intéressé a accompli la durée d'assurance fixée en application du deuxième alinéa de l'article L. 351-1 dans le présent régime et dans un ou plusieurs autres régimes d'assurance vieillesse de base, le montant de la pension de retraite est calculé en proportion de la durée d'assurance à la Caisse nationale des barreaux français.
 
@@ -14,13 +14,15 @@ Un décret en Conseil d'Etat détermine les conditions dans lesquelles le prése
 
 I bis.-La condition d'âge prévue au premier alinéa du I est abaissée d'au moins un an, dans des conditions fixées par décret, pour les assurés bénéficiaires d'un départ à la retraite au titre des II et IV. Cette condition d'âge est abaissée d'une durée pouvant aller jusqu'à neuf ans pour les assurés mentionnés au III.
 
-II.-L'âge prévu au premier alinéa du I est abaissé pour les assurés qui ont commencé leur activité avant un des quatre âges, dont le plus élevé ne peut excéder vingt et un ans, et dans des conditions déterminés par décret et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans le régime d'assurance vieillesse de base des avocats et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par décret qui ne peut être supérieure à la durée d'assurance mentionnée au deuxième alinéa de l'article L. 351-1, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'assuré. Un décret précise les modalités d'application du présent II, et notamment les conditions dans lesquelles, le cas échéant, peuvent être réputées avoir donné lieu au versement de cotisations certaines périodes d'assurance validées en application de l'article L. 351-3 ou de dispositions légales ou réglementaires ayant le même objet, applicables à des régimes obligatoires de base d'assurance vieillesse, selon les conditions propres à chacun de ces régimes, ainsi que les périodes validées en application des articles L. 381-1 et L. 381-2. Ce décret prévoit également les conditions dans lesquelles sont réputées avoir donné lieu à versement de cotisations par l'assuré les périodes pendant lesquelles les fonctionnaires, les magistrats et les militaires vérifiaient les conditions d'affiliation à l'assurance vieillesse du régime général mentionnées aux mêmes articles L. 381-1 et L. 381-2, mais étaient affiliés à un régime spécial.
+II. - L'âge prévu au premier alinéa du I est abaissé dans les conditions définies à l'article L. 351-1-1, les références au régime général mentionnées au même article L. 351-1-1 étant remplacées par celles au régime d'assurance vieillesse de base des avocats.
 
-III.-La condition d'âge prévue au premier alinéa du I est abaissée, dans des conditions fixées par décret, pour les assurés handicapés qui ont accompli, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance dans le régime d'assurance vieillesse de base des avocats et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par décret, cette durée ayant donné lieu à cotisations à la charge de l'assuré.
+III. - La condition d'âge prévue au premier alinéa du I est abaissée, dans des conditions fixées par décret, pour les assurés handicapés qui ont accompli, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance dans le régime d'assurance vieillesse de base des avocats et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par décret, cette durée ayant donné lieu à cotisations à la charge de l'assuré.
 
 La pension des intéressés est majorée en fonction de la durée ayant donné lieu à cotisations considérée, dans des conditions précisées par décret.
 
-IV.-La condition d'âge prévue au premier alinéa du I du présent article est abaissée, dans des conditions fixées par décret, pour les assurés relevant des 2° et 3° de l'article L. 653-4.
+IV. - La condition d'âge prévue au premier alinéa du I du présent article est abaissée, dans des conditions fixées par décret, pour les assurés relevant des 2° et 3° de l'article L. 653-4.
 
 NOTA:
-Conformément au B du VII de l’article 11 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au V de l'article 104 de la ladite loi, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2026.

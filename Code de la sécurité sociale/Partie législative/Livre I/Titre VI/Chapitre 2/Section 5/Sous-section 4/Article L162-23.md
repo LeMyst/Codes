@@ -6,13 +6,7 @@ Le montant de cet objectif est arrêté par l'Etat en fonction de l'objectif nat
 
 Il prend en compte les évolutions de toute nature à la suite desquelles des établissements, des services ou des activités sanitaires ou médico-sociaux se trouvent placés, pour tout ou partie, sous un régime juridique ou de financement différent de celui sous lequel ils étaient placés auparavant, notamment les conversions d'activité. Il peut être corrigé en fin d'année pour prendre en compte les évolutions intervenues en cours d'année.
 
-Il distingue les parts afférentes :
-
-1° Aux dépenses relatives au financement de la liste des spécialités pharmaceutiques définie à l'article L. 162-23-6 ;
-
-2° A la dotation nationale définie à l'article L. 162-23-8.
-
 II.-Un décret en Conseil d'Etat précise les éléments pris en compte pour la détermination de cet objectif ainsi que les modalités selon lesquelles, chaque année, sont déterminés les éléments mentionnés aux 1° à 6° de l'article L. 162-23-4 compatibles avec le respect de l'objectif, en prenant en compte à cet effet, notamment, les prévisions d'évolution de l'activité des établissements pour l'année en cours, mesurée notamment à partir des données mentionnées aux articles L. 6113-7 et L. 6113-8 du code de la santé publique. Les tarifs nationaux des prestations mentionnées au 2° de l'article L. 162-23-4 du présent code peuvent être déterminés, en tout ou partie, à partir des données afférentes au coût relatif des prestations, issues notamment de l'étude nationale de coûts définie à l'article L. 6113-11 du code de la santé publique.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au V de l'article 72 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 72 précité, entrent en vigueur le 1er janvier 2026.

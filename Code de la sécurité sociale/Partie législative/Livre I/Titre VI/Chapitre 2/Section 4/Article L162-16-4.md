@@ -18,7 +18,7 @@ II. – Le prix de vente mentionné au I peut être fixé à un niveau inférieu
 
 5° Les montants remboursés, prévus ou constatés, par l'assurance maladie obligatoire pour le médicament concerné et ceux à même visée thérapeutique ;
 
-6° L'existence de prix ou de tarifs inférieurs, déduction faite des différentes remises ou taxes en vigueur, dans d'autres pays européens présentant une taille totale de marché comparable et dont la liste est fixée par décret ;
+6° L'existence de prix ou de tarifs inférieurs, déduction faite des différentes remises ou taxes en vigueur, dans d'autres pays présentant des caractéristiques de marché comparables et dont la liste est fixée par décret ;
 
 7° Le médicament fait l'objet d'une importation parallèle au sens de l'article L. 5124-13 du code de la santé publique ou d'une distribution parallèle au sens de l'article L. 5124-13-2 du même code.
 
@@ -27,3 +27,6 @@ III. – Un décret en Conseil d'Etat détermine les conditions d'application du
 IV. – Sont constatées et poursuivies, dans les conditions prévues au titre V du livre IV du code de commerce, les infractions aux conventions et arrêtés mentionnés ci-dessus.
 
 V. – Le cadre des conventions mentionnées aux I et II du présent article peut être, le cas échéant, précisé par l'accord mentionné à l'article L. 162-17-4.
+
+NOTA:
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

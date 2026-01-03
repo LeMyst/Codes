@@ -2,7 +2,7 @@
 
 Sous réserve des dispositions de l'article R. 161-43-1 :
 
-1° Les feuilles de soins sont signées de l'assuré et du ou des professionnels ayant effectué les actes ou servi les prestations présentés au remboursement ;
+1° Les feuilles de soins sont signées de l'assuré et du ou des professionnels ayant effectué les actes ou servi les prestations présentées au remboursement ;
 
 2° Lorsque sont utilisées des feuilles de soins électroniques, les signatures sont données par la lecture de la carte mentionnée à l'article R. 161-33-1 et de la carte de professionnel de santé définie à l'article R. 161-52. Le procédé technique mis en oeuvre doit garantir le maintien, dès l'obtention de la signature du bénéficiaire, de l'intégrité des données constitutives de la feuille de soins jusqu'à transmission de celle-ci aux fins de remboursement ;
 
@@ -11,6 +11,4 @@ Sous réserve des dispositions de l'article R. 161-43-1 :
 Dans ce cas, et par dérogation aux dispositions qui précèdent, la signature de l'assuré ou du bénéficiaire ne vaut attestation que des seuls éléments relatifs à son identité, au lieu et à la durée de son séjour et aux conditions de prise en charge dont il bénéficie.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2022-1719 du 28 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
-
-Se reporter aux modalités d'application prévues au même article.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

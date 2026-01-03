@@ -1,42 +1,68 @@
 # Article L161-22
 
-Le service d'une pension de vieillesse prenant effet postérieurement au 31 mars 1983, liquidée au titre d'un régime de retraite de base légalement obligatoire, et dont l'entrée en jouissance intervient à compter d'un âge fixé par décret en Conseil d'Etat, ou ultérieurement, est subordonné, pour les assurés exerçant une activité salariée, à la rupture de tout lien professionnel avec l'employeur.
+I.-A.-Le service d'une pension de vieillesse liquidée au titre d'un régime de retraite de base légalement obligatoire et dont l'entrée en jouissance intervient à compter d'un âge fixé par décret est subordonné :
 
-Par dérogation, les dispositions du premier alinéa ne font pas obstacle à la reprise d'une activité relevant du régime général de sécurité sociale au titre du 1° de l'article L. 200-1, à l'exception des activités relevant de l'article L. 611-1, du régime des salariés agricoles ou de l'un des régimes spéciaux de retraite au sens de l'article L. 711-1 et procurant des revenus qui, ajoutés aux pensions servies par ces mêmes régimes ainsi que par les régimes complémentaires légalement obligatoires régis par le livre IX, sont inférieurs à 160 % du salaire minimum de croissance ou au dernier salaire d'activité perçu avant la liquidation de la ou desdites pensions et sous réserve que cette reprise d'activité, lorsqu'elle a lieu chez le dernier employeur, intervienne au plus tôt six mois après la date d'entrée en jouissance de la pension.
+1° Pour les assurés exerçant une activité salariée, à la rupture du lien professionnel avec l'employeur ;
 
-Lorsque l'addition des revenus et pensions mentionnés au deuxième alinéa est supérieure au plafond mentionné au même alinéa, l'assuré en informe la ou les caisses compétentes et chacune des pensions servies par ces régimes est réduite à due concurrence du dépassement, dans des conditions fixées par décret.
+2° Pour les assurés relevant du régime d'assurance vieillesse des personnes non salariées des professions agricoles, à la cessation de l'activité non salariée agricole dans les conditions prévues aux articles L. 732-39 et L. 732-40 du code rural et de la pêche maritime ;
 
-Par dérogation aux deux précédents alinéas, et sous réserve que l'assuré ait liquidé ses pensions de vieillesse personnelles auprès de la totalité des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales dont il a relevé, une pension de vieillesse peut être entièrement cumulée avec une activité professionnelle :
+3° Pour les fonctionnaires civils et militaires, à la radiation des cadres prévue à l'article L. 3 du code des pensions civiles et militaires de retraite.
 
-a) A partir de l'âge prévu au 1° de l'article L. 351-8 ;
+B.-La condition prévue au 1° du A du présent I n'est pas applicable aux assurés exerçant une des activités définies par décret en Conseil d'Etat et correspondant :
 
-b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1, lorsque l'assuré justifie d'une durée d'assurance et de périodes reconnues équivalentes mentionnée au deuxième alinéa du même article au moins égale à la limite mentionnée au même alinéa.
+1° A des activités dont la nature ou le caractère accessoire ne permet ou ne justifie pas une rupture du lien avec l'employeur à la date de l'entrée en jouissance de la pension ;
 
-La pension due par un régime de retraite légalement obligatoire dont l'âge d'ouverture des droits, le cas échéant sans minoration, est supérieur à l'âge prévu à l'article L. 161-17-2 n'est pas retenue pour apprécier la condition de liquidation de l'ensemble des pensions de retraite, et ce jusqu'à ce que l'assuré ait atteint l'âge à partir duquel il peut liquider cette pension ou, en cas de minoration, l'âge auquel celles-ci prennent fin.
+2° A des activités pour lesquelles l'assuré est logé par son employeur ;
 
-Les dispositions des trois premiers alinéas et celles des deux premiers alinéas des articles L. 634-6 et L. 643-6 ne font pas obstacle à l'exercice des activités suivantes :
+3° A des activités pour lesquelles il existe des difficultés de recrutement ;
 
-1° activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3, sauf pour les salariés artistes-interprètes qui exercent dans le cadre d'un contrat de travail à durée indéterminée, et de l'article L. 382-1 ainsi que les activités exercées par les artistes-interprètes rattachés au régime mentionné au premier alinéa de l'article L. 640-1 ;
+4° A des activités d'intérêt général ou concourant à un service public.
 
-2° activités à caractère artistique, littéraire ou scientifique, exercées accessoirement avant la liquidation de la pension de retraite ;
+II.-Le service d'une pension de retraite personnelle liquidée au titre d'un régime d'assurance vieillesse de base est suspendu lorsque l'assuré :
 
-3° participation aux activités juridictionnelles ou assimilées, consultations données occasionnellement, participation à des jurys de concours publics ou à des instances consultatives ou délibératives réunies en vertu d'un texte législatif ou réglementaire ;
+1° Reprend une activité non salariée agricole mentionnée au 2° du A du I ;
 
-4° activités exercées par des personnes bénéficiant de l'article L. 634-6-1 ;
+2° Reprend une activité de mandataire social en qualité de salarié assimilé mentionnée aux 8° ou 9° de l'article L. 722-20 du code rural et de la pêche maritime, dans des conditions fixées par décret ;
 
-5° activités d'hébergement en milieu rural réalisées avec des biens patrimoniaux ;
+3° Après avoir atteint l'âge mentionné à l'article L. 161-17-2 du présent code, reprend ou poursuit une activité sans être entré en jouissance de ses pensions de vieillesse personnelles auprès de la totalité des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes des organisations internationales dont il a relevé.
 
-6° des activités de parrainage définies aux articles L. 6522-2, L. 6523-3 et L. 6523-4 du code du travail ;
+Pour l'application du présent 3°, la pension due par un régime de retraite légalement obligatoire dont l'âge d'ouverture des droits, le cas échéant sans minoration, est supérieur à l'âge mentionné à l'article L. 161-17-2 n'est pas retenue pour apprécier la condition de liquidation de l'ensemble des pensions de retraite, jusqu'à ce que l'assuré ait atteint l'âge à partir duquel il peut demander l'entrée en jouissance de cette pension ou, en cas de minoration, l'âge auquel celle-ci prend fin.
 
-7° activités correspondant à des vacations accomplies dans des établissements de santé ou dans des établissements ou services sociaux et médico-sociaux et à leur demande par des médecins ou infirmiers en retraite, dans la limite d'une durée et d'un plafond prévus par décret en Conseil d'Etat. Le dépassement du plafond entraîne une réduction à due concurrence de la pension de retraite. Cette possibilité de cumul n'est ouverte qu'à compter de l'âge légal ou réglementaire de départ à la retraite ;
+Le présent 3° n'est pas applicable à la pension servie par un des régimes mentionnés aux 1° à 5° de l'article L. 161-22-1-2 aux assurés mentionnés aux mêmes 1° à 5°.
 
-8° Activités exercées dans les zones mentionnées au 1° de l'article L. 1434-4 du code de la santé publique en qualité de professionnel de santé au sens de la quatrième partie du même code ;
+III.-A.-Une pension de vieillesse personnelle servie au titre d'un régime légal ou rendu légalement obligatoire, de base ou complémentaire, peut être cumulée avec une activité professionnelle dans les conditions suivantes :
 
-9° Activités donnant lieu à la perception des indemnités mentionnées à l'article L. 382-31 du présent code.
+1° Lorsque l'âge de l'assuré est inférieur à l'âge mentionné à l'article L. 161-17-2, la pension servie est réduite à due concurrence des revenus professionnels et de remplacement ;
 
-Les dispositions du présent article ne sont pas opposables à l'assuré qui demande ou qui bénéficie d'une pension au titre d'une retraite progressive prévue par des dispositions législatives ou réglementaires, notamment par l'article L. 161-22-1-5.
+2° Lorsque l'âge de l'assuré est au moins égal à l'âge mentionné au même article L. 161-17-2 et inférieur à celui prévu au 1° de l'article L. 351-8 et que les revenus professionnels et de remplacement excèdent un seuil fixé par décret, la pension servie est réduite à due concurrence de la moitié du dépassement de ce seuil ;
 
-Sauf disposition contraire, les dispositions d'application du présent article sont prises par décret.
+3° Lorsque l'âge de l'assuré est au moins égal à l'âge mentionné au même 1°, la pension peut être entièrement cumulée avec les revenus professionnels et de remplacement.
+
+Pour l'assuré mentionné aux 1° et 2° du présent A qui perçoit des pensions de vieillesse de droits propres servies par plusieurs régimes de retraite de base et complémentaires, un décret détermine les modalités selon lesquelles la réduction mentionnée aux mêmes 1° et 2° est imputée à chaque pension en fonction des montants des pensions versées par chaque régime. Cette réduction est appliquée, par priorité, sur les pensions versées par les régimes de retraite de base. La somme des réductions imputée sur chaque pension ne peut excéder la réduction mentionnée auxdits 1° et 2°.
+
+Les revenus de remplacement pris en compte pour l'application du présent A sont les indemnités journalières mentionnées à l'article L. 321-1, l'indemnité complémentaire mentionnée à l'article L. 1226-1 du code du travail, les indemnités prévues au titre II du livre IV de la cinquième partie du même code ainsi que les dispositions légales et réglementaires ayant le même objet déterminées par décret.
+
+Lorsqu'un assuré reprend ou poursuit une activité non salariée, un décret détermine les conditions dans lesquelles sont appréciés ses revenus professionnels perçus l'année au cours de laquelle a pris effet sa pension.
+
+B.-Les revenus professionnels et de remplacement perçus à l'occasion de l'exercice d'une activité d'intérêt général ou concourant à un service public ne sont pas pris en compte pour l'application du A du présent III, selon des conditions d'âge, de durée, de plafond ou de lieu d'exercice de l'activité professionnelle fixées par décret en Conseil d'Etat.
+
+C.-Par dérogation au A du présent III, peuvent cumuler entièrement leur pension avec les revenus professionnels et de remplacement :
+
+1° Les assurés mentionnés aux 1° à 5° de l'article L. 161-22-1-2 dont la pension est servie par ces mêmes régimes ;
+
+2° Les fonctionnaires mentionnés à l'article L. 414-4 du code général de la fonction publique s'agissant des revenus perçus à l'occasion de l'exercice d'une activité mentionnée à l'article L. 611-1 du code de la sécurité intérieure, lorsque la pension est servie par le régime de la fonction publique de l'Etat.
+
+D.-Les caisses, organismes ou services chargés du recouvrement des sommes correspondant à la réduction prévue au A du présent III ainsi que les modalités de ce recouvrement sont déterminés par décret.
+
+E.-Lorsque l'assuré mentionné aux 1° et 2° du A du présent III reprend ou poursuit une activité relevant de l'article L. 611-1, il en informe la caisse compétente.
+
+IV.-Le présent article n'est pas applicable à l'assuré qui fait la demande ou qui bénéficie d'une pension au titre d'une retraite progressive prévue par des dispositions législatives ou réglementaires, dont les articles L. 161-22-1-5 du présent code et L. 89 bis du code des pensions civiles et militaires de retraite.
+
+V.-Sauf disposition contraire, les dispositions d'application du présent article sont prises par décret.
 
 NOTA:
-Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1er janvier 2027.
+
+Par dérogation, ledit article n'est pas applicable lorsque le titulaire de la pension est entré en jouissance, avant cette date, d'une autre pension de vieillesse de base, à l'exception d'une pension liquidée au titre des 1° à 5° de l'article L. 161-22-1-2 du code de la sécurité sociale dans sa rédaction résultant dudit article.

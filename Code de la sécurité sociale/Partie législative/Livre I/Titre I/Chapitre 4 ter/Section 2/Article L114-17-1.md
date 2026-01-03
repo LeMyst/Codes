@@ -22,7 +22,7 @@ II.-La pénalité mentionnée au I est due pour :
 
 4° Les agissements visant à obtenir ou à tenter de faire obtenir par toute fausse déclaration, manœuvre ou inobservation des règles du code de l'action sociale et des familles l'admission à l'aide médicale de l'Etat mentionnée au premier alinéa de l'article L. 251-1 du même code ;
 
-5° Le refus d'accès à une information, l'absence de réponse ou la réponse fausse, incomplète ou abusivement tardive à toute demande de pièce justificative, d'information, d'accès à une information ou à une convocation émanant de l'organisme local d'assurance maladie ou du service du contrôle médical, de la caisse mentionnée à l'article L. 215-1 ou L. 215-3 ou de l'organisme local chargé de verser les prestations au titre des assurances obligatoires contre les accidents de travail et les maladies professionnelles des professions agricoles dans le cadre d'un contrôle, d'une enquête ou d'une mise sous accord préalable prévus aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-17, L. 162-1-20 et L. 315-1 ;
+5° Le refus d'accès à une information, l'absence de réponse ou la réponse fausse, incomplète ou abusivement tardive à toute demande de pièce justificative, d'information, d'accès à une information ou à une convocation émanant de l'organisme local d'assurance maladie ou du service du contrôle médical, de la caisse mentionnée à l'article L. 215-1 ou L. 215-3 ou de l'organisme local chargé de verser les prestations au titre des assurances obligatoires contre les accidents de travail et les maladies professionnelles des professions agricoles dans le cadre d'un contrôle, d'une enquête ou d'une mise sous accord préalable prévus aux articles L. 114-9 à L. 114-21, L. 162-1-15, L. 162-1-20 et L. 315-1 ;
 
 6° Une récidive après au moins deux périodes de mise sous accord préalable en application de l'article L. 162-1-15 ou lorsque le professionnel de santé, le centre de santé ou la société de téléconsultation n'atteint pas l'objectif de réduction des prescriptions ou réalisations prévu au II du même article. Le montant de la pénalité encourue est fixé en fonction de l'ampleur de la récidive, selon un barème fixé par voie réglementaire ;
 
@@ -55,3 +55,6 @@ La constitution et la gestion de la commission mentionnée au II de l'article L.
 VI.-Les pénalités prononcées en application du présent article sont notifiées après avis conforme du directeur de l'Union nationale des caisses d'assurance maladie ou de son représentant désigné à cet effet. Son avis est réputé conforme dans un délai précisé par voie réglementaire.
 
 VII.-Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+NOTA:
+Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1er janvier 2026.

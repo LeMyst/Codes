@@ -12,9 +12,9 @@ II. - En vue de déterminer les modalités du précompte prévu au I du présent
 
 La méconnaissance du premier alinéa du présent II entraîne l'application d'une pénalité d'un montant maximal :
 
-1° Pour les vendeurs et prestataires, de 7 500 euros ;
+1° Pour les vendeurs et prestataires, de 3 250 euros ;
 
-2° Pour les opérateurs de plateforme, de 7 500 euros par vendeur ou prestataire concerné.
+2° Pour les opérateurs de plateforme, de 15 000 euros par vendeur ou prestataire concerné.
 
 Cette pénalité peut être à nouveau prononcée en cas de manquement réitéré au moins six mois après un précédent constat de manquement.
 
@@ -26,6 +26,8 @@ III. - Les opérateurs des plateformes concernées procèdent chaque mois, aupr�
 
 2° A la déclaration et au versement, pour le compte de chaque vendeur ou prestataire, des sommes précomptées en application du I du présent article.
 
+Par dérogation à l'article L. 133-10, les montants du chiffre d'affaires ou des recettes et les sommes précomptées déclarés en application des 1° et 2° du présent III sont arrondis au centime d'euro le plus proche.
+
 Un décret en Conseil d'Etat définit les modalités d'application du présent III.
 
 IV. - Les coûts des prélèvements, des déclarations et des versements qu'ils sont tenus d'effectuer en application du présent article sont à la charge des opérateurs de plateforme.
@@ -35,4 +37,4 @@ Les cotisations et contributions sociales, les taxes et les impôts précomptés
 La méconnaissance par un opérateur de plateforme de l'obligation de précompte prévue au I entraîne l'application d'une pénalité d'un montant maximal égal à 5 % du chiffre d'affaires ou des recettes sur lesquels cette obligation a été méconnue. Un décret détermine la procédure applicable au prononcé de cette pénalité.
 
 NOTA:
-Conformément au B du II de l’article 6 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions s'appliquent aux chiffres d'affaires et aux recettes réalisés à compter du 1er janvier 2027. Toutefois, les obligations mentionnées aux articles L. 613-6-1 et L. 613-8 du code de la sécurité sociale, dans leur rédaction résultant des 2° et 3° du I de l'article 6 de la loi précitée, sont progressivement applicables à compter du 1er janvier 2026 aux opérateurs de plateforme volontaires, selon des modalités prévues par décret. Les conditions dans lesquelles les plateformes se portent volontaires et la liste des plateformes concernées sont fixées par arrêté du ministre chargé de la sécurité sociale.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

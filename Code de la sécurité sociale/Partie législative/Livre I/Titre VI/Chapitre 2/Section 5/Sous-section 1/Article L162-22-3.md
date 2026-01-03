@@ -10,5 +10,7 @@ Un décret en Conseil d'Etat, pris après avis des organisations nationales les 
 
 3° Les modalités de facturation des prestations d'hospitalisation faisant l'objet d'une prise en charge par l'assurance maladie.
 
+Les modalités de facturation des actes des praticiens hospitaliers exerçant une activité libérale et les catégories déterminées au 2° du présent article tiennent compte des honoraires des praticiens et des moyens humains, notamment médicaux, mis en œuvre pour la prise en charge des patients dans les établissements mentionnés au a de l'article L. 162-22.
+
 NOTA:
-Conformément au E de l'article 49 de la loi n° 2023-1250 du 26 décembre 2023, les deux dernières phrases du 1° du présent article entrent en vigueur à une date fixée par décret et au plus tard le 1er octobre 2025.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

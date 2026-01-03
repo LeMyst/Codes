@@ -8,7 +8,7 @@ a) Les honoraires des praticiens, y compris ceux afférents aux examens de biolo
 
 b) Les honoraires des auxiliaires médicaux, à l'exclusion de ceux afférents aux soins infirmiers ;
 
-3° Sont exclus des forfaits mentionnés aux 4°, 5° et 6° de l'article R. 162-33-1 des établissements de santé mentionnés aux a, b et c de l'article L. 162-22 les frais afférents aux consultations et aux actes réalisés dans ces établissements à l'exclusion de ceux afférents aux soins infirmiers ;
+3° Sont exclus des forfaits mentionnés aux aux 5°, 6° et 7° de l'article R. 162-33-1 des établissements de santé mentionnés aux a, b et c de l'article L. 162-22 les frais afférents aux consultations et aux actes réalisés dans ces établissements à l'exclusion de ceux afférents aux soins infirmiers ;
 
 4° Sont exclus des forfaits mentionnés au 1° de l'article R. 162-33-1 couvrant l'activité d'hospitalisation à domicile et font l'objet d'une prise en charge distincte les honoraires des praticiens à l'exception :
 
@@ -17,4 +17,4 @@ a) De ceux afférents aux examens de biologie médicale ;
 b) Pour les établissements mentionnés aux a, b et c de l'article L. 162-22, de ceux du praticien désigné par le patient pour assurer de façon continue sa prise en charge à domicile.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2024-1267 du 31 décembre 2024, ces dispositions entrent en vigueur immédiatement, soit le 1er janvier 2025.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.

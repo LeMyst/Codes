@@ -18,7 +18,7 @@ II.-Le tarif de responsabilité mentionné au I peut être fixé à un niveau in
 
 4° Le coût net de remises pour l'assurance maladie obligatoire du produit ou de la prestation concernés et des autres produits ou prestations utilisés concomitamment ou séquentiellement avec ce produit ou cette prestation, notamment par rapport au coût net de remises de produits ou de prestations comparables utilisés seuls ou, le cas échéant, en association concomitamment ou séquentiellement ;
 
-5° L'existence de tarifs, de prix ou de coûts de traitement inférieurs, déduction faite des différentes remises ou taxes en vigueur, dans d'autres pays européens présentant une taille totale de marché comparable et dont la liste est fixée par décret ;
+5° L'existence de tarifs, de prix ou de coûts de traitement inférieurs, déduction faite des différentes remises ou taxes en vigueur, dans d'autres pays présentant des caractéristiques de marché comparables et dont la liste est fixée par décret ;
 
 6° Les volumes de vente prévus ou constatés des produits ou prestations ;
 
@@ -37,4 +37,4 @@ IV.-Le cadre des conventions mentionnées aux I et II du présent article peut �
 V.-Par dérogation aux I et II, le tarif de responsabilité des produits et prestations n'appartenant pas aux classes à prise en charge renforcée définies en application du deuxième alinéa de l'article L. 165-1 peut être fixé par arrêté des ministres chargés de la santé et de la sécurité sociale.
 
 NOTA:
-Conformément au III de l’article 58 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur dans des conditions et à des dates fixées par décret, et au plus tard le 31 décembre 2025, en fonction des catégories de produits ou prestations concernées.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

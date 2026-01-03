@@ -1,24 +1,12 @@
 # Article L162-23-15
 
-I. - Les établissements de santé exerçant les activités mentionnées aux 1°, 2° et 4° de l'article L. 162-22 bénéficient d'une dotation complémentaire lorsqu'ils atteignent des résultats évalués à l'aide d'indicateurs liés à la qualité et la sécurité des soins. Ces indicateurs prennent en compte les résultats et les expériences rapportés par les patients.
+Les établissements de santé exerçant les activités mentionnées aux 1°, 2° et 4° de l'article L. 162-22 peuvent être incités financièrement à la qualité et la sécurité des soins.
 
-II. - Pour certains des indicateurs liés à la qualité et la sécurité des soins mentionnés au I, un seuil minimal de résultats est requis. Ce seuil est fixé par indicateur en fonction de la répartition des résultats de l'ensemble des établissements concernés. Lorsqu'un établissement mentionné au même I n'atteint pas, sur trois mesures de résultat consécutives, un tel seuil minimal pour un même indicateur, l'établissement concerné fait l'objet d'une pénalité financière notifiée par le directeur général de l'agence régionale de santé, après qu'il a été mis en demeure de présenter ses observations. Toutefois, le directeur général de l'agence régionale de santé peut estimer, par décision spécialement motivée, qu'il n'y a pas lieu à sanction au regard de circonstances particulières propres à l'établissement concerné.
+En fonction des résultats obtenus, évalués à l'aide d'indicateurs, le directeur général de l'agence régionale de santé peut leur attribuer une dotation complémentaire.
 
-Le montant de la pénalité financière globale est apprécié en fonction du nombre d'indicateurs concernés et de la gravité des manquements constatés. La pénalité financière globale ne peut excéder un montant équivalent à 0,5 % des recettes annuelles d'assurance maladie de l'établissement.
+Un décret en Conseil d'Etat précise les modalités de détermination et de mise en œuvre de la dotation complémentaire ainsi que les catégories des indicateurs liés à la qualité et la sécurité des soins recueillis par chaque établissement.
 
-Lorsqu'un établissement ne satisfait pas à l'obligation de recueil d'un indicateur ou que ce recueil fait l'objet d'une invalidation par l'autorité administrative dans le cadre du contrôle de la qualité des données déclarées par l'établissement de santé, le seuil minimal requis pour cet indicateur est réputé non atteint.
-
-Lorsque, pour une mesure de résultat donnée, un établissement n'atteint pas le seuil minimal requis pour un indicateur, il en est alerté par le directeur général de l'agence régionale de santé qui lui indique la pénalité financière encourue en cas de manquement constaté sur trois mesures de résultat consécutives et propose des mesures d'accompagnement.
-
-L'établissement faisant l'objet d'une pénalité financière présente un plan d'amélioration de la qualité et de la sécurité des soins, élaboré dans les conditions prévues aux articles L. 6144-1 ou L. 6161-2-2 du code de la santé publique.
-
-Le produit des pénalités financières est affecté au financement des dotations mentionnées au I.
-
-III. - Un décret en Conseil d'Etat précise les modalités de détermination et de mise en œuvre de la dotation complémentaire et de la pénalité financière, les catégories des indicateurs liés à la qualité et la sécurité des soins recueillis par chaque établissement mentionné au premier alinéa du I et définit les modalités de détermination des seuils minimaux de résultats requis pour certains indicateurs.
-
-Le développement de l'autodialyse et de la dialyse à domicile figure parmi ces indicateurs. La lutte contre les erreurs médicamenteuses évitables figure également parmi ces indicateurs, en se fondant sur le suivi des interventions pharmaceutiques.
-
-Un arrêté des ministres chargés de la santé et de la sécurité sociale dresse la liste des indicateurs liés à la qualité et la sécurité des soins, détermine la période au cours de laquelle est recueilli chaque indicateur, qui ne peut être inférieure à un an, fixe les seuils minimaux de résultats requis pour certains indicateurs et prévoit les modalités de calcul de la dotation complémentaire et de la pénalité financière.
+Un arrêté des ministres chargés de la santé et de la sécurité sociale dresse la liste des indicateurs liés à la qualité et la sécurité des soins et leurs modalités d'évaluation.
 
 NOTA:
-Conformément au VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1er janvier 2026.

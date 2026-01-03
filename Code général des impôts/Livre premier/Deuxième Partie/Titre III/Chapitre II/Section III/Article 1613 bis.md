@@ -10,6 +10,8 @@ b) Un ou plusieurs produits soumis à l'accise sur les alcools mentionnés à l'
 
 font l'objet d'une taxe perçue au profit de la Caisse nationale de l'assurance maladie dès lors que la boisson obtenue présente un titre alcoométrique acquis de plus de 1,2 % vol. et inférieur à 12 % vol.
 
+I bis. - Les boissons présentant un titre alcoométrique acquis de plus de 1,2 % vol. et comportant une adjonction de substances ayant un effet stimulant sur le corps, dont la liste est fixée par arrêté et comprend notamment la caféine, la taurine et la guaranine, sont soumises à la même taxe.
+
 II.-Le tarif de la taxe mentionnée au I est fixé à :
 
 1° 3 € par décilitre d'alcool pur pour les boissons relevant des catégories fiscales des vins ou des autres boissons fermentées au sens de l'article L. 313-15 du code des impositions sur les biens et services ;
@@ -25,4 +27,4 @@ IV. - Les règles relatives au contrôle, au recouvrement et au contentieux de l
 V. – Le produit de cette taxe est versé à l'Agence centrale des organismes de sécurité sociale.
 
 NOTA:
-Conformément au A du VIII de l'article 111 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions sont applicables aux produits pour lesquels l'accise devient exigible à compter du 1er janvier 2024.
+Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

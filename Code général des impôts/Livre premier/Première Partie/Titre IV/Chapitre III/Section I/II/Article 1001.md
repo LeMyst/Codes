@@ -1,6 +1,6 @@
 # Article 1001
 
-Le tarif de la taxe spéciale sur les contrats d'assurances est fixé :
+I. - Le tarif de la taxe spéciale sur les contrats d'assurances est fixé :
 
 1° Pour les assurances contre l'incendie :
 
@@ -46,7 +46,7 @@ A 9 %.
 
 Les risques d'incendie couverts par des assurances ayant pour objet des risques de transport sont compris dans les risques désignés sous le 3° ou sous le 5° bis.
 
-Le produit de la taxe est affecté aux départements et, dans les conditions prévues au 2° de l'article L. 3662-1 du code général des collectivités territoriales, à la métropole de Lyon, à l'exception :
+II. - Le produit de la taxe est affecté aux départements et, dans les conditions prévues au 2° de l'article L. 3662-1 du code général des collectivités territoriales, à la métropole de Lyon, à l'exception :
 
 a) D'une fraction du produit de la taxe afférente aux contrats mentionnés au 5° ter, qui est affectée, à hauteur de 35 millions d'euros en 2016 et de 45 millions d'euros à compter de 2017, au budget général de l'Etat ;
 

@@ -2,7 +2,7 @@
 
 I. – Lorsque les dispositions du présent code l'exigent, tout conducteur ou, le cas échéant, tout accompagnateur d'un apprenti conducteur, est tenu de présenter à toute réquisition des agents de l'autorité compétente :
 
-1° Tout titre justifiant de son autorisation de conduire ;
+1° Tout titre numérique ou physique justifiant de son autorisation de conduire ;
 
 2° Le certificat d'immatriculation du véhicule et, le cas échéant, celui de la remorque si le poids total autorisé en charge (PTAC) de cette dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté du ministre de la justice et du ministre de l'intérieur ;
 

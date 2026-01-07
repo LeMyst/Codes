@@ -1,1 +1,1 @@
-Sous-paragraphe 2 : Conditions du maintien de l'affiliation prévu à l'article L. 722-7.
+Sous-paragraphe 2 : Affiliation dérogatoire prévue au second alinéa de l'article L. 722-6.

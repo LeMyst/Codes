@@ -2,10 +2,9 @@
 
 Les assurés volontaires mentionnés aux 1° et 2° de l'article D. 722-25 sont chaque année redevables d'une cotisation qui comprend :
 
-1° La cotisation prévue au 1° de l'article L. 731-42 pour eux-mêmes, leur conjoint et leurs aides familiaux majeurs ;
+1° La cotisation prévue au 1° de l'article L. 731-42 pour eux-mêmes ;
 
-2° La cotisation prévue au a) du 2° de l'article L. 731-42 due pour eux-mêmes ;
+2° La cotisation prévue au 2° de l'article L. 731-42 due pour leurs aides familiaux majeurs et due pour leur conjoint collaborateur.
 
-3° La cotisation prévue au 3° de l'article L. 731-42 due pour eux-mêmes ;
-
-4° La cotisation prévue au b) du 2° de l'article L. 731-42 due pour les années postérieures à 1993 en ce qui concerne leurs aides familiaux majeurs et due pour les années postérieures à 1998 en ce qui concerne leur conjoint collaborateur.
+NOTA:
+Conformément au I de l’article 5 du décret n° 2025-1417 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l’article 4 du décret précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations dues au titre des périodes courant à compter de cette date.

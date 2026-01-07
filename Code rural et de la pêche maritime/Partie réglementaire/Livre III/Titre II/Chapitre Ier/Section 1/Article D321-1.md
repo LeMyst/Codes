@@ -12,7 +12,7 @@ L'option pour la qualité de collaborateur d'exploitation ou d'entreprise agrico
 
 Dès que la caisse de mutualité sociale agricole ou la caisse mentionnée aux articles L. 781-2 et L. 781-44 constate que ces conditions ne sont plus réunies, elle avise l'intéressé que, en l'absence de contestation de sa part dans un délai d'un mois à compter de cette notification, il cesse de bénéficier de la qualité de collaborateur d'exploitation ou d'entreprise agricole.
 
-II.-L'option prévue au septième alinéa de l'article L. 321-5 est exercée ainsi qu'il suit par le conjoint du chef d'exploitation exerçant sur l'exploitation ou au sein de l'entreprise agricole une activité professionnelle régulière :
+II.-L'option prévue au sixième alinéa de l'article L. 321-5 est exercée ainsi qu'il suit par le conjoint du chef d'exploitation exerçant sur l'exploitation ou au sein de l'entreprise agricole une activité professionnelle régulière :
 
 1° L'option pour la qualité de collaborateur s'effectue dans les conditions fixées au I ;
 
@@ -21,6 +21,3 @@ II.-L'option prévue au septième alinéa de l'article L. 321-5 est exercée ain
 3° L'option pour la qualité de chef d'exploitation ou d'entreprise agricole résulte de l'affiliation en cette qualité au régime de protection sociale des personnes non salariées des professions agricoles. Elle prend effet à la date à laquelle la personne remplit les conditions de cette affiliation.
 
 III.-En cas de modification de qualité, l'option nouvelle s'effectue selon les modalités prévues au II.
-
-NOTA:
-Conformément à l’article 45 du décret n° 2022-1014 du 19 juillet 2022, ces dispositions entrent en vigueur à compter du 1er janvier 2023.

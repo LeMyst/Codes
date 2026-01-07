@@ -1,3 +1,3 @@
 # Article D6214-12
 
-La formation conduisant à la délivrance du certificat d'aptitude théorique de télépilote prévu par l'article D. 6214-4 ou de l'attestation d'aptitude aux fonctions de télépilote prévue par le deuxième alinéa de l'article D. 6214-6 peut être reconnue comme équivalente à la formation prévue par l'article D. 6214-10.
+Les formations établies par le règlement d'exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l'exploitation d'aéronefs sans équipage à bord peuvent être reconnues comme équivalentes à la formation prévue par l'article D. 6214-11.

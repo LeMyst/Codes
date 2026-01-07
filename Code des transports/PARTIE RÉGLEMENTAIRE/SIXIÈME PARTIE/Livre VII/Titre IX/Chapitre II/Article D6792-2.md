@@ -13,7 +13,9 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 | D. 6213-22 et D. 6213-23 | |
 | D. 6213-27 et D. 6213-28 | |
 | D. 6214-1 | |
-| D. 6214-3 à D. 6214-14 | |
+| D. 6214-3 et D. 6214-4 | Décret n° 2025-1449 du 31 décembre 2025 |
+| D. 6214-5 et D. 6214-6 | |
+| D. 6214-8 à D. 6214-14 | Décret n° 2025-1449 du 31 décembre 2025 |
 | Titre II | |
 | D. 6221-26 à D. 6221-34 | |
 | D. 6221-37 et D. 6221-38 | |

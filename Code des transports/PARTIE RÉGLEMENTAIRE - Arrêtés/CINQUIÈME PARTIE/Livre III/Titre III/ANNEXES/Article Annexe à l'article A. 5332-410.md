@@ -97,6 +97,8 @@ Mise en annexe d'un plan faisant apparaître distinctement l'ensemble des moyens
 
 - mesures additionnelles lors de l'escale d'un navire de croisière ;
 
+- procédures relatives à la manutention de la cargaison ;
+
 - moyens et prestations assurés pour chaque niveau de sûreté applicable, notamment pour ce qui concerne les prestations sous-traitées, avec description des relations avec les prestataires en matière de sûreté. Figurent en annexe chaque contrat de prestation, la description des tâches sous-traitées, les effectifs déployés suivant le niveau de sûreté et les modalités de contrôle de la bonne exécution du contrat par l'exploitant de l'installation portuaire, dont le contrôle sur place inopiné ;
 
 - renseignement par ailleurs de l'annexe 10.5 si l'installation portuaire est désignée point d'importance vitale.
@@ -159,7 +161,9 @@ g) Règles de surveillance humaines et/ou par système automatique ou de vidéos
 
 h) Procédures d'entretien des clôtures, points d'accès, équipements d'inspection-filtrage et tout autre équipement affectés à la protection périmétrique et au contrôle d'accès ;
 
-i) Procédures appliquées en cas d'incident de sûreté (pénétration irrégulière, panne des équipements d'inspection-filtrage, détérioration de clôtures, etc.).
+i) Procédures appliquées en cas d'incident de sûreté (pénétration irrégulière, panne des équipements d'inspection-filtrage, détérioration de clôtures, etc.) ;
+
+j) Procédure visant à aider l'agent de sûreté du navire à confirmer, sur demande, l'identité des personnes cherchant à monter à bord du navire.
 
 5.1.3. Gestion des titres de circulation
 

@@ -1,6 +1,7 @@
 # Article A5332-2
 
-En application du I de l'article R. 5332-1, la liste des ports comprenant ou auxquels est rattachée au moins une installation portuaire soumise aux paragraphes 1 et 2 de l'article 3 du règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 susvisé, est fixée comme suit :\
+En application du I de l'article R. 5332-1, la liste des ports comprenant ou auxquels est rattachée au moins une installation portuaire soumise aux paragraphes 1 et 2 de l'article 3 du règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 susvisé, est fixée comme suit :
+
 1° Grand port fluvio-maritime relevant de l'Etat :
 
 | Département | Port | Indicatif international (LOCODE/ONU) |
@@ -51,12 +52,12 @@ En application du I de l'article R. 5332-1, la liste des ports comprenant ou aux
 | Var | Sanary-sur-Mer | FRYNR |
 | Toulon | FRTLN |
 | Saint-Tropez | FRSTP |
-| Saint-Raphaël | FRSRL |
 | Alpes-Maritimes | Cannes | FRCEQ |
 | Antibes | FRANT |
 | Nice | FRNCE |
 | Villefranche-sur-Mer | FRVFM |
 | Haute-Corse | Bastia | FRBIA |
+| Saint-Florent | FRZFB |
 | L'Île-Rousse | FRILR |
 | Calvi | FRCLY |
 | Corse-du-Sud | Ajaccio | FRAJA |

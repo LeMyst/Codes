@@ -24,19 +24,19 @@ III. - Pour les revenus d'activité dus par les employeurs redevables de la cont
 
 - Tmin = 0,0200 ;
 
-- Tdelta = 0,3773 ;
+- Tdelta = 0,3781 ;
 
 - Pour les revenus d'activité dus par les employeurs redevables de cette même contribution au taux prévu au 2° de l'article L. 813-5 :
 
 - Tmin = 0,0200 ;
 
-- Tdelta = 0,3813.
+- Tdelta = 0,3821.
 
 Lorsque la somme des taux des cotisations et contributions effectivement à la charge de l'employeur est inférieure à la somme des valeurs Tmin et Tdelta, la valeur Tdelta est réduite jusqu'à ce que ces deux sommes soient égales. Pour l'application de cette règle, il n'est pas tenu compte de l'application des deuxième à dernier alinéas de l'article L. 5422-12 du code du travail.
 
-IV. - Sous réserve des dispositions prévues aux alinéas suivants, la valeur annuelle du salaire minimum de croissance à retenir dans la formule prévue au II est égale à 1 820 fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire. Le cas échéant, elle est majorée du produit du nombre d'heures supplémentaires mentionnées à l'article L. 241-18 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail rémunérées au cours de l'année par le montant horaire du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail.
+IV. - Sous réserve des dispositions prévues aux alinéas suivants, la valeur annuelle du salaire minimum de croissance à retenir dans la formule prévue au II est égale à 1 820 fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire. Le cas échéant, elle est majorée du produit du nombre d'heures supplémentaires mentionnées aux 1° à 4° de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail rémunérées au cours de l'année par le montant horaire du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail.
 
-Pour les salariés dont la rémunération contractuelle est fixée sur une base inférieure à la durée légale ainsi que pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail autres que ceux mentionnés au deuxième alinéa du V, le montant du salaire minimum de croissance ainsi déterminé est corrigé à proportion de la durée de travail, hors heures supplémentaires mentionnées à l'article L. 241-18 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail, inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise et rapportée à celle correspondant à la durée légale du travail.
+Pour les salariés dont la rémunération contractuelle est fixée sur une base inférieure à la durée légale ainsi que pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail autres que ceux mentionnés au deuxième alinéa du V, le montant du salaire minimum de croissance ainsi déterminé est corrigé à proportion de la durée de travail, hors heures supplémentaires mentionnées aux 1° à 4° de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail, inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise et rapportée à celle correspondant à la durée légale du travail.
 
 Pour les salariés dont la durée de travail est fixée en jours conformément au 3° du I de l'article L. 3121-64 du code du travail, dans le cas où ce nombre est inférieur à 218, le montant du salaire minimum de croissance annuel est corrigé du rapport entre le nombre de jours travaillés et la durée légale du travail de 218 jours.
 
@@ -62,3 +62,5 @@ B. - Par exception au A, pour les employeurs des salariés mentionnés au dernie
 
 NOTA:
 Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.
+
+Conformément à l'article 5 du décret n° 2025-1446 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026 et s'appliquent, le cas échéant, aux cotisations et contributions dues au titre des périodes d'activité courant à compter de cette date.

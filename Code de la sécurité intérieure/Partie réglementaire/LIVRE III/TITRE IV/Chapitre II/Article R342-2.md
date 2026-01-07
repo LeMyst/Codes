@@ -1,0 +1,3 @@
+# Article R342-2
+
+Pour l'application de la remise volontaire prévue à l'article L. 342-9, le détenteur se dessaisit des armes, des munitions ou de leurs éléments par le biais d'une remise à l'Etat aux fins de destruction par une affectation aux services de l'Etat. L'objectif de destruction ne fait pas obstacle à l'utilisation des armes, des munitions et de leurs éléments par les services de l'Etat jusqu'à leur destruction. Les conditions de cette destruction sont prévues par arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre chargé du budget et du ministère chargé de l'outre-mer.

@@ -7,3 +7,6 @@ Elle fait toutes recommandations en vue d'améliorer l'accès aux offices public
 L'ouverture d'une procédure visant à l'élaboration de la carte mentionnée au deuxième alinéa du présent article est rendue publique, dans un délai de cinq jours à compter de la date de cette ouverture, afin de permettre aux associations de défense des consommateurs agréées au niveau national pour ester en justice, aux instances ordinales des professions concernées, ainsi qu'à toute personne remplissant les conditions de nationalité, d'aptitude, d'honorabilité, d'expérience et d'assurance requises pour être nommée par le ministre de la justice en qualité de notaire ou de commissaire de justice d'adresser à l'Autorité de la concurrence leurs observations.
 
 Lorsque l'Autorité de la concurrence délibère en application du présent article, son collège comprend deux personnalités qualifiées nommées par décret pour une durée de trois ans non renouvelable.
+
+NOTA:
+Conformément au premier alinéa de l'article 4 du décret n° 2025-1273 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 1er du décret précité, s'appliquent aux avis de l'Autorité de la concurrence relatif à la liberté d'installation des avocats au Conseil d'Etat et à la Cour de cassation rendus à compter de la publication dudit décret, à savoir le 24 décembre 2025.

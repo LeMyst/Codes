@@ -95,12 +95,14 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | D. 719-47-1 à D. 719-47-5 | Résultant du décret n° 2014-336 du 13 mars 2014 |
 | D. 719-105, 1er, 2e, 4e, 5e, 6e et 7e alinéas, et D. 719-106 | Résultant du décret n° 2017-1896 du 29 décembre 2017 |
 | D. 719-181 à D. 719-185 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 719-186 à D. 719-188 | Résultant du décret n° 2025-1433 du 29 décembre 2025 |
 | D. 721-1 à D. 721-3 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 721-4 et D. 721-5 | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 721-6 | Résultant du décret n° 2013-782 du 28 août 2013 |
 | D. 721-7 et D. 721-8 | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 731-6 | Résultant du décret n° 2021-1387 du 25 octobre 2021 |
 | D. 732-3 à D. 732-6 | Résultant du décret n° 2014-635 du 18 juin 2014 |
+| D. 732-4-1 | Résultant du décret n° 2025-1433 du 29 décembre 2025 |
 | D. 732-7 | Résultant du décret n° 2016-308 du 17 mars 2016 |
 | D. 741-4-1 | Résultant du décret n° 2024-841 du 16 juillet 2024 |
 | D. 741-5 | Résultant du décret n° 2019-1075 du 21 octobre 2019 |

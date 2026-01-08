@@ -1,10 +1,18 @@
 # Article R631-24-10
 
-Les signataires d'un contrat d'engagement de service public qui souhaitent bénéficier, à la fin de leur formation ou de leur parcours de consolidation des compétences, d'un report de l'installation ou de la prise de fonctions en font la demande au directeur général de l'agence régionale de santé.
+Aux fins d'établissement de la liste mentionnée au cinquième alinéa de l'article L. 632-6, les directeurs généraux des agences régionales de santé communiquent à l'autorité administrative mentionnée à l'article L. 632-6 les lieux d'exercice de leur ressort susceptibles d'être proposés aux signataires de contrats d'engagement de service public. La liste des lieux d'exercice est mise en ligne sur le site internet de l'autorité administrative susmentionnée.
 
-Le directeur général de l'agence régionale de santé communique son avis sur la demande de report à l'autorité administrative mentionnée à l'article L. 632-6. Lorsque cette demande est justifiée par le projet professionnel ou universitaire du demandeur, le directeur général de l'agence régionale de santé recueille l'avis du directeur de l'unité de formation et de recherche de médecine ou d'odontologie ou de la composante assurant l'une de ces formations.
+Chaque lieu d'exercice figurant sur la liste est défini par :
 
-Tout report accordé donne lieu à une modification du contrat de l'intéressé et proroge le contrat d'engagement de service public d'une durée équivalente à celle de ce report.
+1° Sa délimitation géographique ;
+
+2° La description des fonctions à exercer ;
+
+3° Le cas échéant, la désignation de l'employeur.
+
+Sont en outre mentionnées les caractéristiques démographiques, sanitaires et sociales de chaque lieu d'exercice.
+
+Les lieux d'exercice des activités de soins ne peuvent pas se situer au sein d'un centre hospitalier universitaire mentionné à l'article L. 6141-2 du code de la santé publique, sauf si le directeur général de l'agence régionale de santé soumet à l'autorité administrative mentionnée à l'article L. 632-6 une proposition motivée en ce sens au vu des besoins en offre de soins.
 
 NOTA:
-Conformément au I de l'article 3 du décret n° 2025-270 du 24 mars 2025, jusqu'au 31 décembre 2025, le Centre national de gestion demeure l'autorité administrative chargée de la gestion des contrats d'engagement de service public conclus avant la date d'entrée en vigueur dudit décret. A ce titre, ces contrats restent régis par les dispositions de la section 5 du chapitre Ier du titre III du livre VI du code de l'éducation dans leur rédaction antérieure au décret précité.
+Conformément à l’article 2 du décret n°2026-4 du 5 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux candidatures à la signature d'un contrat d'engagement de service public présentées à compter du 16 janvier 2026.

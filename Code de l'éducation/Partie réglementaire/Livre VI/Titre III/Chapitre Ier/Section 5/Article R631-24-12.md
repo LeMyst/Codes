@@ -1,8 +1,6 @@
 # Article R631-24-12
 
-Dans une période d'un an précédant la date de fin de leurs études ou de leur parcours de consolidation des compétences, les signataires d'un contrat d'engagement de service public choisissent leur futur lieu d'exercice au sein de la liste mentionnée à l'article R. 631-24-11. Ils communiquent ce choix, par tout moyen donnant date certaine à sa réception, à l'autorité administrative mentionnée à l'article L. 632-6, au directeur général de l'agence régionale de santé concernée et, le cas échéant, à l'employeur. Ils peuvent se porter candidats simultanément à cinq lieux d'exercice, qu'ils classent par ordre de préférence.
-
-Les signataires qui ont bénéficié d'un report en application de l'article R. 631-24-10 choisissent leur futur lieu d'exercice, selon les modalités définies à l'alinéa précédent, au cours de la dernière année de la période de report.
+Tout médecin, pharmacien, chirurgien-dentiste ou sage-femme signataire d'un contrat d'engagement de service public peut demander durant son exécution un changement de lieu d'exercice, au sein de la même région ou dans une région différente, selon des modalités fixées par un arrêté des ministres chargés de la santé et de l'enseignement supérieur.
 
 NOTA:
-Conformément au I de l'article 3 du décret n° 2025-270 du 24 mars 2025, jusqu'au 31 décembre 2025, le Centre national de gestion demeure l'autorité administrative chargée de la gestion des contrats d'engagement de service public conclus avant la date d'entrée en vigueur dudit décret. A ce titre, ces contrats restent régis par les dispositions de la section 5 du chapitre Ier du titre III du livre VI du code de l'éducation dans leur rédaction antérieure au décret précité.
+Conformément à l’article 2 du décret n°2026-4 du 5 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux candidatures à la signature d'un contrat d'engagement de service public présentées à compter du 16 janvier 2026.

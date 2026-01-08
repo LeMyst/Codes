@@ -1,8 +1,8 @@
 # Article R631-24-8
 
-Le montant et les modalités de versement de l'allocation mensuelle mentionnée au troisième alinéa de l'article L. 632-6 sont définis par arrêté conjoint des ministres chargés de la santé et de la sécurité sociale.
+L'autorité administrative mentionnée à l'article L. 632-6 établit le nombre de mois d'engagement restants à compter de la date de l'installation ou la prise de fonctions.
+
+Pour la mise en œuvre de l'alinéa précédent, le directeur de l'unité de formation et de recherche ou de la composante informe l'autorité administrative mentionnée à l'article L. 632-6 de la date d'obtention du diplôme d'études spécialisées ou de la validation du troisième cycle d'odontologie, de pharmacie ou de maïeutique dans les deux mois suivant la fin du cursus de formation.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2020-268 du 17 mars 2020, les dispositions du présent décret sont applicables aux contrats d'engagement de service public conclus à compter de son entrée en vigueur. Les contrats conclus avant cette date restent soumis aux dispositions réglementaires qui leur étaient applicables avant l'entrée en vigueur du présent décret.
-
-Aux termes de l'article 3 dudit décret, l'article R. 631-24-8 dans sa rédaction résultant du même décret sont applicables aux médecins ou chirurgiens-dentistes détenteurs d'un diplôme étranger obtenu hors de l'Union européenne autorisés à poursuivre un parcours de consolidation des compétences en médecine ou en odontologie dans le cadre du IV de l'article 83 de la loi du 21 décembre 2006 susvisée.
+Conformément à l’article 2 du décret n°2026-4 du 5 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux candidatures à la signature d'un contrat d'engagement de service public présentées à compter du 16 janvier 2026.

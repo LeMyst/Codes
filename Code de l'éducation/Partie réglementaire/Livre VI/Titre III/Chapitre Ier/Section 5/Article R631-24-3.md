@@ -1,40 +1,12 @@
 # Article R631-24-3
 
-Une commission de sélection des candidatures est instituée dans chaque unité de formation et de recherche et chaque composante universitaire concernée. Elle comprend les membres suivants, ou leurs représentants :
+I.-Est instituée au sein de chaque unité de formation et de recherche, de médecine, d'odontologie, de pharmacie, et de maïeutique, de chaque composante universitaire ou de ce chaque structure concernée assurant ces formations, une commission de sélection des candidatures dont la composition et le fonctionnement sont fixés par arrêté des ministres chargés de la santé et de l'enseignement supérieur. La commission est présidée par le directeur de l'unité de formation et de recherche, de la composante universitaire ou de la structure de formation assurant ces formations. Ses membres sont nommés pour un mandat de cinq ans, renouvelable, par le directeur de l'unité de formation et de recherche ou de la composante universitaire ou de la structure de formation concernées.
 
-1° Pour l'unité de formation et de recherche de médecine ou la composante assurant cette formation :
+II.-Plusieurs commissions mentionnées au I peuvent constituer, à l'initiative des directeurs des unités de formation et de recherche, ou des composantes assurant ces formations, et des directeurs généraux des agences régionale de santé territorialement compétentes, une formation spéciale, compétente pour plusieurs unités de formation et de recherche ou composantes universitaires ou structures de formation.
 
-a) Le directeur de l'unité de formation et de recherche ou de la composante, président de la commission ;
+Les modalités d'organisation et de composition des formations spéciales mentionnés à l'alinéa précédent sont fixées par arrêté des ministres chargés de la santé et de l'enseignement supérieur.
 
-b) Le directeur général de l'agence régionale de santé ;
-
-c) Le président du conseil régional de l'ordre des médecins ;
-
-d) Le président de l'union régionale des professionnels de santé compétente pour les médecins libéraux ;
-
-e) Un directeur d'établissement public de santé de la région désigné par la Fédération hospitalière de France ;
-
-f) Un étudiant de deuxième cycle en médecine désigné par les organisations d'étudiants représentées au sein des conseils de faculté ;
-
-g) Un étudiant de troisième cycle des études de médecine inscrit en médecine générale et un étudiant de troisième cycle des études de médecine inscrit dans une autre spécialité, désignés par les organisations d'étudiants représentées au sein des conseils de faculté ;
-
-2° Pour l'unité de formation et de recherche d'odontologie ou la composante assurant cette formation :
-
-a) Le directeur de l'unité de formation et de recherche ou de la composante, président de la commission ;
-
-b) Les directeurs généraux des agences régionales de santé de l'inter-région ;
-
-c) Le président du conseil régional de l'ordre des chirurgiens-dentistes de la région de l'unité de formation et de recherche ou de la composante ;
-
-d) Le président de l'union régionale des professionnels de santé compétente pour les chirurgiens-dentistes libéraux de la région de l'unité de formation et de recherche ou de la composante ;
-
-e) Un directeur d'un établissement public de santé de la région désigné par la Fédération hospitalière de France ;
-
-f) Un étudiant de deuxième cycle en odontologie désigné par les organisations d'étudiants représentées au sein des conseils de faculté ;
-
-g) Un étudiant de troisième cycle des études d'odontologie inscrit en cycle court et un étudiant de troisième cycle des études odontologiques inscrit en cycle long, désignés par les organisations d'étudiants représentées au sein des conseils de faculté.
+III.-Les modalités d'examen des dossiers par les commissions mentionnées aux I et II et les conditions dans lesquelles les candidatures sont classées en tenant compte des résultats universitaires ainsi que de la qualité et la cohérence du projet professionnel présenté lors d'un entretien, sont fixées par arrêté des ministres chargés de la santé et de l'enseignement supérieur.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2020-268 du 17 mars 2020, les dispositions du présent décret sont applicables aux contrats d'engagement de service public conclus à compter de son entrée en vigueur. Les contrats conclus avant cette date restent soumis aux dispositions réglementaires qui leur étaient applicables avant l'entrée en vigueur du présent décret.
-
-Aux termes de l'article 3 dudit décret, l'article R. 631-24-3 dans sa rédaction résultant du même décret sont applicables aux médecins ou chirurgiens-dentistes détenteurs d'un diplôme étranger obtenu hors de l'Union européenne autorisés à poursuivre un parcours de consolidation des compétences en médecine ou en odontologie dans le cadre du IV de l'article 83 de la loi du 21 décembre 2006 susvisée.
+Conformément à l’article 2 du décret n°2026-4 du 5 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux candidatures à la signature d'un contrat d'engagement de service public présentées à compter du 16 janvier 2026.

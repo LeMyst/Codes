@@ -37,4 +37,6 @@ IV.-Le cadre des conventions mentionnées aux I et II du présent article peut �
 V.-Par dérogation aux I et II, le tarif de responsabilité des produits et prestations n'appartenant pas aux classes à prise en charge renforcée définies en application du deuxième alinéa de l'article L. 165-1 peut être fixé par arrêté des ministres chargés de la santé et de la sécurité sociale.
 
 NOTA:
+Conformément au III de l’article 58 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur dans des conditions et à des dates fixées par décret, et au plus tard le 31 décembre 2025, en fonction des catégories de produits ou prestations concernées.
+
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

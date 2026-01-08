@@ -8,7 +8,7 @@ Le conseil du syndicat peut déléguer certaines de ses attributions au directeu
 
 Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisions du conseil :
 
-1° Les décisions relatives au vote du budget et à l'approbation du compte financier ;
+1° Les décisions relatives au vote du budget et à l'approbation du compte financier unique ;
 
 2° Les décisions relatives à la modification de la répartition des contributions entre les collectivités territoriales membres du syndicat ;
 
@@ -49,4 +49,4 @@ Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisi
 Le conseil peut déléguer aux commissions prévues par l'article R. 1241-8 certaines décisions relatives à l'attribution de subventions à des projets d'investissement dont le montant ne dépasse pas un seuil qu'il fixe. Les commissions ne peuvent prendre de décisions qu'à l'unanimité de leurs membres présents.
 
 NOTA:
-Conformément au XI de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1er janvier 2026.

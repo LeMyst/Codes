@@ -1,0 +1,10 @@
+# Article R732-67
+
+Par dérogation au I de l'article R. 732-66, les majorations de points octroyées aux assurés remplissant les conditions, relatives au nombre moyen de leurs points au titre de l'ensemble de la période comprise entre le 1 er juillet 1952 et le 31 décembre 1972, mentionnées aux articles D. 732-76 et D. 732-77 dans leurs rédactions antérieures au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite s'appliquent séparément pour chacune des années civiles comprises dans cette période. Sauf si le résultat est déjà entier, les nombres de points annuels ainsi obtenus sont arrondis aux entiers supérieurs.
+
+L'article D. 732-77 dans sa rédaction antérieure au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite s'applique sous réserve de considérer que les formules mentionnées à ses troisième et cinquième alinéas fixent l'ampleur des majorations octroyées aux assurés dont le nombre moyen de points acquis est respectivement compris entre 19,51 et 27,34 ou supérieur à 27,34, dans la limite d'une majoration de 45 % s'agissant de la seconde de ces deux formules.
+
+Le nombre de points mentionnés au premier alinéa du I de l'article R. 732-66 tient compte, dans les mêmes proportions que celles prévues par le 1° de l'article R. 732-71 dans sa rédaction antérieure au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite, des cotisations versées, à la suite d'une demande présentée à compter du 1 er janvier 2026, en application des dispositions des articles L. 732-35 et L. 732-35-1.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.

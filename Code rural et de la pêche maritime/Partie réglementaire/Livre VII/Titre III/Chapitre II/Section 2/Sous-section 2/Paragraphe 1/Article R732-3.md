@@ -1,6 +1,6 @@
 # Article R732-3
 
-I.-Bénéficient d'une pension d'invalidité les personnes mentionnées aux premier et deuxième alinéas de l'article L. 732-8 dont l'inaptitude totale ou partielle a été constatée avant l'âge prévu à l'article L. 732-18, alors même que la maladie aurait seulement aggravé un état antérieur d'incapacité de travail.
+I.-Bénéficient d'une pension d'invalidité les personnes mentionnées aux premier et deuxième alinéas de l'article L. 732-8 du présent code dont l'inaptitude totale ou partielle a été constatée avant l'âge prévu à l'article L. 161-17-2 du code de la sécurité sociale, alors même que la maladie aurait seulement aggravé un état antérieur d'incapacité de travail.
 
 II.-L'état d'invalidité est apprécié compte tenu de l'état général, de l'âge, des facultés physiques et mentales, des aptitudes et de la formation professionnelle de l'intéressé ainsi que de ses possibilités de reclassement :
 
@@ -26,9 +26,9 @@ VI.-Quelle que soit la date de la demande, la pension d'invalidité prend effet 
 
 VII.-La pension d'invalidité est toujours attribuée à titre temporaire et sous réserve que l'intéressé se soumette, sauf motif valable, aux mesures prescrites en vue de sa rééducation fonctionnelle ou professionnelle.
 
-VIII.-La pension d'invalidité est servie jusqu'à la fin du mois au cours duquel l'intéressé atteint l'âge prévu à l'article L. 732-18-4. Elle est remplacée, à partir de cet âge, par la pension de vieillesse allouée en cas d'inaptitude au travail.
+VIII.-La pension d'invalidité est servie jusqu'à la fin du mois au cours duquel l'intéressé atteint l'âge prévu à l'article L. 351-1-5 du code de la sécurité sociale. Elle est remplacée, à partir de cet âge, par la pension de vieillesse allouée en cas d'inaptitude au travail.
 
-IX.-La part excédant les avantages de vieillesse auxquels l'assuré peut prétendre à cette date lui reste acquise. Elle peut être supprimée ou suspendue dans les conditions prévues à l'article R. 732-5 tant que l'assuré n'a pas atteint l'âge prévu à l'article L. 732-25. Elle lui est servie, sauf dispositions contraires prévues par arrêté du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget, au même titre et dans les mêmes conditions que la pension de retraite ou l'allocation d'assurance vieillesse agricole.
+IX.-La part excédant les avantages de vieillesse auxquels l'assuré peut prétendre à cette date lui reste acquise. Elle peut être supprimée ou suspendue dans les conditions prévues à l'article R. 732-5 du présent code tant que l'assuré n'a pas atteint l'âge prévu à au 1° de l'article L. 351-8 du code de la sécurité sociale. Elle lui est servie, sauf dispositions contraires prévues par arrêté du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget, au même titre et dans les mêmes conditions que la pension de retraite ou l'allocation d'assurance vieillesse agricole.
 
 NOTA:
-Conformément au I de l’article 13 du décret n° 2023-435 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023. Se reporter aux conditions d’application prévues au II dudit article.
+Se reporter aux modalités d’application prévues au II de l’article 1 du décret n° 2025-1409 du 31 décembre 2025.

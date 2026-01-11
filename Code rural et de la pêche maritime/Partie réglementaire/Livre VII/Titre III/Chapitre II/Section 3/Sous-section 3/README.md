@@ -1,1 +1,1 @@
-Sous-section 3 : Assurance vieillesse complémentaire obligatoire
+Sous-section 3 : Ouverture du droit, liquidation et calcul des pensions de réversion

@@ -8,4 +8,7 @@ a) Qui auraient donné lieu à cotisation avant le 1er janvier 1964 si les dispo
 
 b) Postérieurement au 1er janvier 1964, si elles ont donné lieu au paiement des cotisations d'assurance vieillesse des personnes non salariées des professions agricoles prévues à l'article L. 781-36 ;
 
-2° Les périodes prises en considération au titre de l'assurance volontaire pour les personnes mentionnées à l'article L. 732-52 et les périodes d'interruption d'activité prises en considération en application du second alinéa de l'article L. 781-31 et du 2 de l'article 18 du décret n° 98-312 du 23 avril 1998 relatif à la mise en œuvre d'une mesure de préretraite dans les départements d'outre-mer.
+2° Les périodes prises en considération au titre de l'assurance volontaire pour les personnes mentionnées à l'article L. 732-52 dans sa rédaction antérieure à la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025 et les périodes d'interruption d'activité prises en considération en application du second alinéa de l'article L. 781-31 et du 2 de l'article 18 du décret n° 98-312 du 23 avril 1998 relatif à la mise en œuvre d'une mesure de préretraite dans les départements d'outre-mer.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.

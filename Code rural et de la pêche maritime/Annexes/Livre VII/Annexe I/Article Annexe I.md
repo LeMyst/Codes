@@ -1,14 +1,14 @@
 # Article Annexe I
 
-Pour l'application de l'article D. 732-46, la valeur d'un trimestre est déterminée sur la base des paramètres et en application des formules suivantes :
+Pour l'application de l'article D. 732-77, la valeur d'un trimestre est déterminée sur la base des paramètres et en application des formules suivantes :
 
-1° Le coefficient forfaitaire visé au premier alinéa de l'article D. 732-46 du code rural et de la pêche maritime est égal au coefficient fixé en application du 2° de l'article D. 351-9 du code de la sécurité sociale ;
+1° Le coefficient forfaitaire visé au premier alinéa de l'article D. 732-77 du code rural et de la pêche maritime est égal au coefficient fixé en application du 2° de l'article D. 351-9 du code de la sécurité sociale ;
 
 2° Les coefficients viagers pris en compte dans la formule ci-après sont ceux déterminés en application du 3° de l'article D. 351-9 susmentionné ;
 
-3° La valeur d'un trimestre est déterminée, selon l'option prévue à l'article D. 732-45, par l'application de la formule suivante :
+3° La valeur d'un trimestre est déterminée, selon l'option prévue à l'article D. 351-7 du code de la sécurité sociale, par l'application de la formule suivante :
 
-a) Au titre du 1° de l'article D. 732-46 :
+a) Au titre du 1° de l'article D. 732-77 :
 
 (formule non reproduite ; consulter le fac-similé al'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000629781
 
@@ -29,3 +29,6 @@ C est le coefficient de minoration fixé au c) du 4° de l'article D. 351-9 du c
 D est la durée maximale d'assurance fixée au c) du 4° de l'article D. 351-9 susmentionné ;
 
 E est le terme actuariel défini au c) du 4° de l'article D. 351-9 susmentionné.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.

@@ -8,6 +8,9 @@ Lorsqu'un assuré relève ou a relevé successivement, alternativement ou simult
 
 3° La majoration de durée d'assurance mentionnée à l'article R. 351-7, s'applique pour chaque trimestre accompli dans l'un des régimes mentionnés au premier alinéa ;
 
-4° Pour la détermination des vingt-cinq années civiles mentionnées aux premier et troisième alinéas du I de l'article R. 351-29 et au deuxième alinéa de l'article R. 634-1, les salaires et revenus servant de base au calcul de la pension sont définis dans les conditions mentionnées à l'article L. 173-1-2 ;
+4° Pour la détermination des années civiles mentionnées au A du I de l'article R. 351-29 , les salaires et revenus servant de base au calcul de la pension sont définis dans les conditions mentionnées à l'article L. 173-1-2 ;
 
 5° La référence au salaire mentionné à l'article R. 351-27 est remplacée par la référence au salaire et revenu.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

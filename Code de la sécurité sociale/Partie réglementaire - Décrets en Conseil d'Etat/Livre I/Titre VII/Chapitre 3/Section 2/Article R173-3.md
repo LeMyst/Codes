@@ -4,4 +4,7 @@ Lorsqu'un assuré tributaire d'un régime spécial de retraite au sens de l'arti
 
 La part correspondant aux cotisations personnelles de l'assuré est déduite par ladite collectivité ou ledit établissement des versements rétroactifs que l'intéressé doit effectuer au titre du régime spécial.
 
-L'annulation de versements prévue au présent article est opérée par la caisse centrale de secours mutuels agricoles à la demande de l'Etat, de l'établissement ou de la collectivité intéressé.
+L'annulation de versements prévue au présent article est opérée par la caisse centrale de la mutualité sociale agricole à la demande de l'Etat, de l'établissement ou de la collectivité intéressé.
+
+NOTA:
+Se reporter aux modalités d'application prévues au II de l'article 2 du décret n° 2025-1409 du 30 décembre 2025.

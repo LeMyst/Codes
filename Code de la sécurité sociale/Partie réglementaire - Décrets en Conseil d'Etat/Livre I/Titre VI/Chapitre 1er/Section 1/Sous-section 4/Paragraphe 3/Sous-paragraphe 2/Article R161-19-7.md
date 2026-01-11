@@ -12,11 +12,13 @@ I.-L'assuré qui demande la liquidation provisoire de sa pension de vieillesse s
 
 Un arrêté du ministre chargé de la sécurité sociale fixe le modèle de la déclaration sur l'honneur et de l'attestation de l'employeur respectivement prévus aux 2° et 3°.
 
-II.-L'assuré qui demande la liquidation provisoire de sa pension de vieillesse sur le fondement du 2° de l'article L. 161-22-1-5 produit à l'appui de sa demande :
+II.-L'assuré qui demande la liquidation provisoire de sa pension de vieillesse sur le fondement du 2° ou du 3° de l'article L. 161-22-1-5 produit à l'appui de sa demande :
 
-1° Une déclaration sur l'honneur attestant qu'il n'exerce qu'une seule activité professionnelle, laquelle le fait relever du 2° de l'article L. 161-22-1-5 à la date d'entrée en jouissance de la pension de vieillesse. Cette déclaration est accompagnée de tout document justifiant de cette situation ;
+1° Une déclaration sur l'honneur attestant qu'il n'exerce qu'une seule activité professionnelle, laquelle le fait relever du 2° ou du 3° de l'article L. 161-22-1-5 à la date d'entrée en jouissance de la pension de vieillesse. Cette déclaration est accompagnée de tout document justifiant de cette situation ;
 
-2° Ses déclarations fiscales des revenus des cinq années précédant sa demande. Pour chaque année suivante, il produit avant le 1er juillet de l'année en cours la déclaration fiscale des revenus de l'année précédente.
+2° a) Dans les cas autres que ceux mentionnés au b, ses déclarations fiscales des revenus des cinq années précédant sa demande. Pour chaque année suivante, il produit avant le 1er juillet de l'année en cours la déclaration fiscale des revenus de l'année précédente.
+
+b) Pour les assurés dont la cessation progressive d'activité se traduit par une cession de terres ou de parts sociales, un document mentionnant les terres cessibles et, le cas échéant, les éléments de production hors-sol, portant sur la totalité de l'exploitation, avant cette cession, ainsi que des terres cédées à l'appui de la demande de retraite progressive et un engagement à renoncer définitivement à mettre en valeur directement ou indirectement les surfaces cédées.
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

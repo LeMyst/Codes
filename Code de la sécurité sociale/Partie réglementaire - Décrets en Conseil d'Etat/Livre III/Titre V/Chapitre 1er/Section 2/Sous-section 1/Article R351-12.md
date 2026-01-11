@@ -1,8 +1,8 @@
 # Article R351-12
 
-Pour l'application de l'article L. 351-3, sont comptés comme périodes d'assurance, depuis le 1er juillet 1930, pour l'ouverture du droit à pension :
+Pour l'application de l'article L. 351-3, sont comptés comme périodes d'assurance pour l'ouverture du droit à pension :
 
-1°) le trimestre civil au cours duquel l'assuré a bénéficié, au titre du 5° de l'article L. 321-1, du soixantième jour d'indemnisation, un trimestre étant également décompté pour chaque nouvelle période d'indemnisation de soixante jours ;
+1°) le trimestre civil au cours duquel l'assuré a bénéficié, au titre de l'article L. 321-1, du soixantième jour d'indemnisation, un trimestre étant également décompté pour chaque nouvelle période d'indemnisation de soixante jours ;
 
 2° a) Le trimestre civil au cours duquel l'assuré a bénéficié du quatre-vingt-dixième jour d'indemnisation au titre du 2° de l'article L. 330-1 et de l'article 32 de la loi n° 2004-1370 du 20 décembre 2004 de financement de la sécurité sociale pour 2005. Si la durée d'indemnisation a été inférieure à quatre-vingt-dix jours, le trimestre civil au cours duquel l'assuré a bénéficié du dernier jour d'indemnisation est décompté comme période d'assurance ;
 
@@ -28,7 +28,7 @@ d. des périodes postérieures au 31 décembre 1979 pendant lesquelles l'assuré
 
 e) Des périodes pendant lesquelles, en raison du différé d'indemnisation ou du délai d'attente prévus par les textes régissant leur versement, l'assuré n'a pas perçu le revenu de remplacement mentionné à l'article L. 5421-2 du code du travail ou les allocations mentionnées au 2° de l'article L. 5123-2 du même code dans sa rédaction antérieure au 1er janvier 2012 ;
 
-f. des périodes pendant lesquelles, par application d'accords professionnels ou interprofessionnels, nationaux ou régionaux, mentionnés au dernier alinéa de l'article L. 352-3 du code du travail dans sa rédaction antérieure au 1er mai 2008, l'assuré a bénéficié, en cas d'absence complète d'activité, d'une allocation versée par son entreprise, sous réserve que, durant lesdites périodes, une convention de conversion ait été conclue entre l'Etat et son entreprise par application du 4° de l'article R. 322-1 du même code ;
+f. des périodes pendant lesquelles, par application d'accords professionnels ou interprofessionnels, nationaux ou régionaux, mentionnés au dernier alinéa de l'article L. 352-3 du code du travail dans sa rédaction antérieure au 1er mai 2008, l'assuré a bénéficié, en cas d'absence complète d'activité, d'une allocation versée par son entreprise, sous réserve que, durant lesdites périodes, une convention de conversion ait été conclue entre l'Etat et son entreprise par application du 4° de l'article R. 322-1 du même code dans sa rédaction antérieure au 1er mai 2008 ;
 
 g. Des périodes pendant lesquelles l'assuré a bénéficié du revenu de remplacement prévu à l'article R. 5123-22 du code du travail en application de la convention prévue à l'article R. 5123-26 du même code ou de la rémunération prévue à l'article L. 1233-72 du même code ;
 
@@ -54,8 +54,6 @@ k) Les périodes de stage suivantes, mentionnées au 9° de l'article L. 351-3 :
 
 6°) les périodes pendant lesquelles l'assuré a été présent sous les drapeaux pour son service militaire légal, par suite de mobilisation ou comme volontaire en temps de guerre, sont retenues de date à date, le nombre de trimestres valables correspondant étant, éventuellement, arrondi au chiffre immédiatement supérieur.
 
-Toutefois, les périodes prévues aux 1°, 2° et 3° ne peuvent être comptées comme périodes d'assurance, postérieurement au 1er janvier 1942, que si mention en a été faite au compte de l'intéressé ;
-
 7°) les périodes pendant lesquelles l'assuré s'est trouvé dans l'une des situations mentionnées au 5° de l'article L. 351-3. Elles sont retenues de date à date, dans les conditions fixées par des arrêtés du ministre chargé de la sécurité sociale, le nombre de trimestres valables correspondant étant, éventuellement, arrondi au chiffre immédiatement supérieur. Les arrêtés mentionnés au 5° de l'article L. 351-3 précisent, de plus, les justifications à produire par les intéressés.
 
 8°) Les périodes mentionnées à l'article L. 432-11 ; elles sont retenues de date à date, le nombre de trimestres valables correspondant étant, éventuellement, arrondi au chiffre immédiatement supérieur.
@@ -74,9 +72,9 @@ e) Le nombre total de trimestres pouvant être validés par chaque intéressé e
 
 10° Autant de trimestres que la durée des périodes pendant lesquelles l'assuré a perçu, au cours de l'année civile, l'indemnité d'activité partielle mentionnée au II de l'article L. 5122-1 du code du travail correspond de fois à 220 heures.
 
+Toutefois, les périodes prévues aux 1°, 2° et 3° ne peuvent être comptées comme périodes d'assurance, postérieurement au 1er janvier 1942, que si mention en a été faite au compte de l'intéressé.
+
 L'application des dispositions du présent article ne peut avoir pour effet de porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance valable au titre d'une même année civile.
 
 NOTA:
-Conformément au II de l’article 7 du décret n° 2023-799 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.
-
-Conformément au troisième alinéa de l’article 7 du décret n° 2023-799 du 21 août 2023, les dispositions du 9° du présent article, dans sa rédaction issue dudit décret, s'appliquent aux périodes d'inscription en tant que sportif de haut niveau sur la liste mentionnée au premier alinéa de l'article L. 221-2 du code du sport postérieures au 1er janvier 2023.
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

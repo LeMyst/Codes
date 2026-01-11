@@ -1,6 +1,6 @@
 # Article R135-16-2
 
-Les versements forfaitaires résultant de l'application des a et b du 2° de l'article L. 135-2 pour les travailleurs indépendants mentionnés à l'article L. 611-1 et pour les personnes non salariées des professions agricoles, concernant les périodes mentionnées aux 2° et 3° de l'article L. 351-3, aux articles L. 643-3-1 et L. 653-3-1 du présent code et au dernier alinéa de l'article L. 732-21 du code rural et de la pêche maritime , sont égaux aux produits, d'une part, du taux et de l'assiette de cotisations fixés au troisième alinéa du présent article et, d'autre part, des effectifs des assurés mentionnés ci-dessus ayant bénéficié de l'allocation mentionnée à l' article L. 5424-25 du code du travail .
+Les versements forfaitaires résultant de l'application des a et b du 2° de l'article L. 135-2 pour les travailleurs indépendants mentionnés à l'article L. 611-1 et pour les personnes non salariées des professions agricoles, concernant les périodes mentionnées aux 2° et 3° de l'article L. 351-3, aux articles L. 643-3-1 et L. 653-3-1 du présent code et au au 2° de l'article L. 732-21 du code rural et de la pêche maritime , sont égaux aux produits, d'une part, du taux et de l'assiette de cotisations fixés au troisième alinéa du présent article et, d'autre part, des effectifs des assurés mentionnés ci-dessus ayant bénéficié de l'allocation mentionnée à l' article L. 5424-25 du code du travail .
 
 S'agissant des périodes de chômage indemnisé, les effectifs mentionnés au premier alinéa correspondent à la moyenne annuelle de l'effectif constaté chaque fin de mois selon les statistiques de Pôle emploi. S'agissant des périodes de chômage non indemnisé des travailleurs indépendants du régime général mentionnés à l'article L. 631-1 du présent code, les effectifs concernés sont constitués d'une fraction de l'effectif des travailleurs indépendants du régime général indemnisés, fixée par arrêté du ministre chargé de la sécurité sociale.
 
@@ -9,4 +9,4 @@ Le taux de la cotisation mentionnée au premier alinéa est égal au taux de la 
 S'agissant des périodes de chômage indemnisé, le versement du Fonds de solidarité vieillesse est réparti entre les régimes concernés, au prorata de leurs effectifs d'assurés bénéficiant de l'allocation mentionnée à l' article L. 5424-25 du code du travail et notifié à chacun d'eux par l'opérateur France Travail.
 
 NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

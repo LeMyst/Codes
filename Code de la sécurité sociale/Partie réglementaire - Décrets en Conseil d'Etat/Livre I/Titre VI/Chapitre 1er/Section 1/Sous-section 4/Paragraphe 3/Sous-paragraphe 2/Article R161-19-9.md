@@ -1,6 +1,6 @@
 # Article R161-19-9
 
-Lorsqu'un régime prévoit l'application d'un coefficient de minoration au salaire annuel de base déterminé à partir du taux plein, ce coefficient ne peut excéder 25 % du taux plein.
+Lorsqu'un régime prévoit l'application d'un coefficient de minoration pour les assurés ne justifiant pas de la durée d'assurance fixée à l'article L. 161-17-3, ce coefficient ne peut excéder 25 % du taux plein.
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2023-751 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d'application prévues au II de l'article 9 dudit décret.
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

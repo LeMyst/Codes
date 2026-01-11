@@ -1,6 +1,6 @@
 # Article L133-5-12
 
-I.- Par dérogation à l'article L. 3241-1 du code du travail, sous réserve de l'accord écrit et préalable du salarié, tout employeur ou toute personne ayant recours au dispositif mentionné aux 3°, 4° et 6° à 9° de l'article L. 133-5-6 peut procéder au versement des rémunérations dues au titre de l'emploi de ce salarié par voie dématérialisée, par l'intermédiaire de l'organisme mentionné à l'article L. 133-5-10. Sans préjudice des exclusions mentionnées au IV du présent article, il est mis fin à l'utilisation du dispositif prévu au présent alinéa après accord écrit de l'employeur et du salarié. A défaut d'accord, il peut être mis fin à l'utilisation de ce même dispositif par l'employeur, après information du salarié selon des modalités et dans un délai définis par décret.
+I.- Par dérogation à l'article L. 3241-1 du code du travail, sous réserve de l'accord écrit et préalable du salarié, tout employeur ou toute personne ayant recours au dispositif mentionné aux 3°, 4° et 6° à 9° de l'article L. 133-5-6 peut procéder au versement des rémunérations dues au titre de l'emploi de ce salarié par voie dématérialisée, par l'intermédiaire de l'organisme mentionné à l'article L. 133-5-10.
 
 Dans ce cas, la retenue à la source de l'impôt sur le revenu du salarié prévue au 1° du 2 de l'article 204 A du code général des impôts est effectuée par l'intermédiaire de l'organisme mentionné à l'article L. 133-5-10 du présent code dans les conditions prévues au 3 de l'article 1671 du code général des impôts.
 
@@ -57,6 +57,3 @@ VII. - Les décisions prises par l'organisme mentionné au premier alinéa de l'
 Les recours formés contre les décisions individuelles prises par l'organisme mentionné au premier alinéa de l'article L. 133-5-10 en application du présent article relèvent de la compétence des tribunaux judiciaires spécialement désignés en application de l'article L. 211-16 du code de l'organisation judiciaire.
 
 VIII. - Un décret définit les modalités d'application des IV à VII du présent article, notamment le délai de production des justificatifs mentionnés au 3° du IV ainsi que les conditions et la durée de l'exclusion prévue au même IV et de la suspension prévue au V.
-
-NOTA:
-Conformément au II de l'article 92 de la loi n° 2025-199 du 28 février 2025, l'article précité entre en vigueur le 1er janvier 2026.

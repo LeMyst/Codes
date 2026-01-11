@@ -48,12 +48,6 @@ IV.-Par dérogation aux dispositions du premier alinéa de l'article L. 531-1, l
 
 V.-En cas de résidence alternée de l'enfant au domicile de chacun des parents, prévue à l'article 373-2-9 du code civil, mise en œuvre de manière effective, un décret fixe les modalités et les conditions du bénéfice par ceux-ci du complément de libre choix du mode de garde.
 
-V bis.-Selon des modalités fixées par décret, le versement de la part mentionnée au b du I du présent article est suspendu lorsque la personne ou le ménage mentionné au premier alinéa du même I cesse de rémunérer l'assistant maternel agréé ou la personne mentionnée à l'article L. 7221-1 du code du travail qu'elle ou il emploie.
-
-Le décret mentionné au premier alinéa du présent V bis prévoit notamment les modalités selon lesquelles l'assistant maternel agréé ou la personne mentionnée à l'article L. 7221-1 du code du travail peut signaler le défaut de paiement à l'organisme débiteur des prestations familiales ou à l'organisme mentionné à l'article L. 133-5-10 du présent code.
-
-Par dérogation au premier alinéa du I de l'article L. 133-5-12, l'adhésion à l'intermédiation prévue au même article L. 133-5-12 de la personne ou du ménage mentionné au premier alinéa du présent V bis qui a régularisé sa situation d'impayé est obligatoire pour bénéficier à nouveau du complément de libre choix du mode de garde. En cas de nouveau défaut de paiement, les conditions prévues au 1° du IV de l'article L. 133-5-12 demeurent applicables.
-
 VI.-Un décret définit les conditions d'application du présent article ainsi que les conditions de cumul, pour un même enfant ou plusieurs enfants, des compléments de libre choix du mode de garde versés au titre de modes de garde différents.
 
 NOTA:

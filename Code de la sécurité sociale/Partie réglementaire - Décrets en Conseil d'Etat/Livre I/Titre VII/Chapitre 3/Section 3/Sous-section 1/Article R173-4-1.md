@@ -7,3 +7,10 @@ Au sein du régime d'accueil, la caisse chargée de la réception de la demande 
 L'imprimé de demande unique de retraite mentionné au premier alinéa doit être disponible dans toutes les caisses des régimes concernés, accompagné d'une notice précisant les règles de compétence mentionnées au deuxième alinéa.
 
 Le régime d'accueil est tenu de communiquer aux autres régimes, dits régimes-partenaires, les copies de l'imprimé unique et, le cas échéant, des pièces justificatives nécessaires à la liquidation des droits qui leur incombe.
+
+Il est donné au requérant récépissé de cette demande et des pièces qui l'accompagnent.
+
+Le silence gardé pendant quatre mois par la caisse à la demande de liquidation des droits à pension vaut décision de rejet.
+
+NOTA:
+Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.

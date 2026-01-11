@@ -19,4 +19,4 @@ II.-Le I n'est pas applicable :
 2° A la réduction de la contribution mentionnée à l'article L. 137-30 résultant de l'abattement d'assiette prévu à l'article L. 137-2.
 
 NOTA:
-Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+Conformément au B du IV de l'article 18 de la loi n° 2025-199 du 28 février 2025, le 2° du III de l'article précité est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.

@@ -34,7 +34,6 @@ Pour l'application des dispositions du présent code en Polynésie française, i
 
 16° " Institut d'émission d'outre-mer " au lieu de : " Banque de France " ;
 
-17° " Institut de la statistique de la Polynésie française " au lieu de " Institut national de la statistique et des études économiques " .
+17° " Institut de la statistique de la Polynésie française " au lieu de " Institut national de la statistique et des études économiques " ;
 
-NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+18° “ SIRET ou, en l'absence de celui-ci, numéro du répertoire TAHITI ”, au lieu de : “ SIRET ”.

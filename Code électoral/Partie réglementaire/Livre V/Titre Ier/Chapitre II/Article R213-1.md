@@ -8,7 +8,7 @@ Pour l'application de la section 3 du chapitre VI du titre Ier du livre Ier en N
 
 a) Au 2° du I, après les mots : “ dates de naissance ”, sont ajoutés les mots : “ commune ou circonscription consulaire d'inscription sur les listes électorales ” ;
 
-b) La référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72, la référence aux 2, 3° du II de l'article R. 72 est remplacée par la référence aux 2° et 3° du I de l'article R. 72-1 et la référence aux III, IV, V et VI de l'article R. 72 est remplacée par la référence aux II, III, IV et V de l'article R. 72-1 ;
+b) La référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72, la référence aux 2 et 3° du II de l'article R. 72 est remplacée par la référence aux 2° et 3° du I de l'article R. 72-1 et la référence aux III, IV, V et VI de l'article R. 72 est remplacée par la référence aux II, III, IV et V de l'article R. 72-1 ;
 
 c) Après le huitième alinéa du I, sont insérés trois alinéas ainsi rédigés :
 
@@ -40,8 +40,8 @@ e) Au cinquième alinéa du II qui devient le sixième alinéa du II, après les
 
 “ Les données à caractère personnel et informations recueillies via la télé-procédure mentionnée au premier alinéa de l'article R. 72 aux seules fins d'établir une procuration sont conservées pendant une durée fixée par arrêté du ministre de l'intérieur. Cette durée ne peut être inférieure à la durée de conservation des procurations établies par formulaire et ne peut dépasser deux années. ” ;
 
+3 bis° Après le premier alinéa de l'article R. 76-1, il est inséré un alinéa ainsi rédigé :
+
+“ Dans le cas prévu au cinquième alinéa du II de l'article R. 75, le nom et la qualité de l'autorité qui a établi la procuration sont remplacés par la mention : France Identité . ” ;
+
 4° A l'article R. 78, la référence au I de l'article R. 72 est remplacée par la référence au premier alinéa de l'article R. 72.
-
-4° Après le premier alinéa de l'article R. 76-1, il est inséré un alinéa ainsi rédigé :
-
-“ Dans le cas prévu au cinquième alinéa du II de l'article R. 75, le nom et la qualité de l'autorité qui a établi la procuration sont remplacés par la mention : France Identité . ”

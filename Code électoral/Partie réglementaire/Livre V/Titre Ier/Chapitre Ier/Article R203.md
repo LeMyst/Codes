@@ -36,4 +36,6 @@ Pour l'application des dispositions du présent code dans les îles Wallis et Fu
 
 17° " Conseil du contentieux administratif ", au lieu de : " tribunal administratif " ;
 
-18° " Institut d'émission d'outre-mer " au lieu de : " Banque de France ".
+18° " Institut d'émission d'outre-mer " au lieu de : " Banque de France " ;
+
+19° “ SIRET ou, en l'absence de celui-ci, numéro du répertoire des entreprises applicable dans les îles Wallis et Futuna ”, au lieu de : “ SIRET ”.

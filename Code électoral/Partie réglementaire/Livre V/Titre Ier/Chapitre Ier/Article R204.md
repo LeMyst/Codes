@@ -1,6 +1,6 @@
 # Article R204
 
-I. - Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2025-1059 du 3 novembre 2025 :
+I. - Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2026-8 du 8 janvier 2026 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 7, R. 8 et R. 10, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ;
 
@@ -38,6 +38,10 @@ Art. R. 40-1. - “Les électeurs votant par correspondance selon les dispositio
 
 IV. - Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, les dispositions des articles R. 75, R. 76-1, R. 77 et R. 78 sont applicables dans leur rédaction résultant du décret n° 2021-270 du 11 mars 2021.
 
-V. - Par dérogation au I, pour les élections en Nouvelle-Calédonie et en Polynésie française mentionnées au 5° du même I, les dispositions du titre I du livre I du présent code (partie réglementaire), à l'exclusion des mots : “ sur papier blanc ” figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2023-1389 du 29 décembre 2023, à l'exception des dispositions de l'article R. 32 qui sont applicables dans leur rédaction résultant du décret n° 2025-778 du 6 août 2025.
+V. - Par dérogation au I, pour les élections en Nouvelle-Calédonie et en Polynésie française mentionnées au 5° du même I, les dispositions du titre I du livre I du présent code (partie réglementaire), à l'exclusion des mots : “ sur papier blanc ” figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2023-1389 du 29 décembre 2023, à l'exception des dispositions de l'article R. 32 qui sont applicables dans leur rédaction résultant du décret n° 2025-778 du 6 août 2025 et des dispositions des articles R. 7, R. 8 et R. 10 qui sont applicables en Polynésie française dans leur rédaction résultant du décret n° 2018-350 du 14 mai 2018.
+
+Pour l'application du deuxième alinéa de l'article R. 7, le mot : “ trois ” est remplacé par le mot : “ six ”.
 
 VI. ‒ Par dérogation au I, pour les élections en Polynésie française mentionnées aux 1° et 3° du même I, les dispositions des articles R. 7, R. 8 et R. 10 sont applicables dans leur rédaction résultant du décret n° 2018-350 du 14 mai 2018.
+
+Pour l'application du deuxième alinéa de l'article R. 7, le mot : “ trois ” est remplacé par le mot : “ six ”.

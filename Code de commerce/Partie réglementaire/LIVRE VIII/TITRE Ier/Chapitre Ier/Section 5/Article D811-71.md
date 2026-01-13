@@ -1,0 +1,5 @@
+# Article D811-71
+
+Si l'administrateur judiciaire ne remplit plus les conditions requises pour l'obtention du label prévu par l'article D. 811-69, ne respecte pas les obligations de formation continue prévues par l'article D. 811-70, ou en cas de dysfonctionnements répétés ou de carence manifeste dans la prise en charge des dossiers de copropriétés en difficulté, le garde des sceaux, ministre de la justice peut, après avis du président du Conseil national des administrateurs judiciaires et des mandataires judiciaires et après avoir recueilli les observations de l'administrateur judiciaire concerné, prononcer le retrait du label.
+
+Le retrait du label peut être sollicité par le président du Conseil national des administrateurs judiciaires et des mandataires judiciaires, le procureur général près la cour d'appel dans le ressort de laquelle l'administrateur judiciaire à son domicile professionnel, ou le magistrat du parquet général désigné pour les inspections des administrateurs judiciaires pour les administrateurs ayant leur domicile professionnel dans les ressorts des cours d'appel pour lesquelles il est compétent.

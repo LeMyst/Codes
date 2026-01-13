@@ -58,6 +58,8 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION RESULTANT DU |
 | --- | --- |
 | Titre Ier |
+| Chapitre Ier : Des administrateurs judiciaires |
+| Articles D. 811-69 à D. 811-71 | Décret n° 2026-10 du 9 janvier 2026 |
 | Chapitre IV : Dispositions communes |
 | Article D. 814-37-1 | Décret n° 2020-101 du 7 février 2020 |
 | TITRE II |

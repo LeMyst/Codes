@@ -1,0 +1,3 @@
+# Article D811-69
+
+Le label "gestion des copropriétés en difficulté" permet de reconnaître la compétence des administrateurs judiciaires inscrits sur la liste prévue à l'article L. 811-2 avec la mention de la spécialité civile dans le traitement des copropriétés en difficulté au sens de la section 2 du chapitre II de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis. La liste des administrateurs judiciaires titulaires de ce label fait l'objet d'une diffusion sur le site du Conseil national des administrateurs judiciaires et mandataires judiciaires et auprès des premiers présidents et procureurs généraux des cours d'appel.

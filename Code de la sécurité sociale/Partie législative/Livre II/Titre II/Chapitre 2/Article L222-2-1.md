@@ -4,7 +4,7 @@ La branche mentionnée au 3° de l'article L. 200-2 prend en charge :
 
 1° Le financement des allocations mentionnées au dernier alinéa de l'article L. 643-1 et au chapitre V du titre Ier du livre VIII du présent code et à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le minimum vieillesse ;
 
-2° Les sommes représentatives de la prise en compte par le régime général, le régime des salariés agricoles, le régime des non-salariés agricoles, le régime d'assurance vieillesse des professions libérales et la Caisse nationale des barreaux français, dans la durée d'assurance :
+2° Les sommes représentatives de la prise en compte par le régime des salariés agricoles, le régime des non-salariés agricoles, le régime d'assurance vieillesse des professions libérales et la Caisse nationale des barreaux français, dans la durée d'assurance :
 
 a) Des périodes mentionnées aux 1°, 3° et 8° de l'article L. 351-3 du présent code ;
 
@@ -12,7 +12,7 @@ b) Des périodes pendant lesquelles les assurés ont bénéficié des allocation
 
 c) Des périodes pendant lesquelles l'assuré a bénéficié, en cas d'absence complète d'activité, d'un revenu de remplacement de la part de son entreprise en application d'un accord professionnel national mentionné à l'article L. 5123-6 du code du travail ;
 
-3° Les sommes correspondant à la prise en compte par le régime général et le régime des salariés agricoles des réductions de la durée d'assurance ou de périodes reconnues équivalentes, définies à l'article L. 351-7-1 du présent code ;
+3° (Abrogé) ;
 
 4° Les dépenses mentionnées au I de l'article 49 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 

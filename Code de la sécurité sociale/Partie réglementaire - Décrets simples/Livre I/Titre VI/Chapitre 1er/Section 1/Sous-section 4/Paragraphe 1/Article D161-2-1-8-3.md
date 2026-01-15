@@ -24,7 +24,7 @@ a) De cotiser en cas d'emploi à temps partiel sur une assiette correspondant à
 
 b) De compléter la durée d'assurance au titre de certaines périodes, telles que les années d'études supérieures, les années d'activité incomplètes ou les périodes d'activité professionnelle exercées hors de France ;
 
-c) De liquider une pension de retraite à titre provisoire en application de l'article L. 351-15 ou de dispositions législatives ou réglementaires ayant le même objet ;
+c) De liquider une pension de retraite à titre provisoire en application de l'article L. 161-22-1-5 ou de dispositions législatives ou réglementaires ayant le même objet ;
 
 d) De majorer la pension de retraite en application de l'article L. 351-1-2 ou de dispositions législatives ou réglementaires ayant le même objet ;
 
@@ -49,3 +49,6 @@ IV. – Les simulations mentionnées au 4° du III sont réalisées à législat
 Afin d'assurer la réalisation de ces simulations, un outil de simulation est rendu accessible en ligne aux assurés, selon des modalités fixées par décision du groupement d'intérêt public visé au VI de l'article L. 161-17.
 
 V. – Lorsque, dans le cadre de l'entretien, l'assuré soulève une question relative à ses droits à retraite en application du 1° du présent article ou formule une demande de rectification relative aux données du relevé mentionné à l'article R. 161-10 en application du 3°, qui ne relèvent pas de la compétence de l'organisme ou service réalisant l'entretien, ce dernier la transmet dans un délai de deux semaines à l'organisme ou service compétent, lequel adresse une réponse à l'assuré dans un délai de deux mois.
+
+NOTA:
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

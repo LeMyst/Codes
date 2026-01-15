@@ -12,13 +12,9 @@ Pour les établissements titulaires d'une autorisation mentionnée à l'article 
 
 Le taux de la contribution est fixé à 15 %.
 
-Cette contribution est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
+La contribution est due annuellement. Elle est constatée par les opérateurs mentionnés au premier alinéa dans les conditions prévues à l'article L. 161-1 du code des impositions sur les biens et services.
 
-La contribution est due annuellement. Son produit est déclaré et liquidé par les opérateurs mentionnés au premier alinéa :
-
-a) Sur l'annexe à la déclaration mentionnée au 1 de l'article 287 du code général des impôts, déposée au titre du mois ou du trimestre de l'année qui suit celle au titre de laquelle la taxe est due, pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel normal d'imposition prévu au 2 du même article 287 ;
-
-b) Sur la déclaration mentionnée au 3 dudit article 287 déposée au titre de l'année qui suit celle au titre de laquelle la taxe est due, pour les redevables de la taxe sur la valeur ajoutée soumis au régime simplifié d'imposition prévu à l'article 302 septies A du même code.
+L'article L. 180-1 du même code est applicable à cette contribution.
 
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.

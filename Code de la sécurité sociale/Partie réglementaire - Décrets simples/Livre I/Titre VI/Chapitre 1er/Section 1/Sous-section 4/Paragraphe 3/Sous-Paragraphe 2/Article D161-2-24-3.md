@@ -1,6 +1,6 @@
 # Article D161-2-24-3
 
-I.-La fraction de pension de vieillesse servie en application de l'article L. 161-22-1-5 et de l'article L. 161-22-1-6 est égale :
+I. - La fraction de pension de vieillesse servie en application de l'article L. 161-22-1-5 et de l'article L. 161-22-1-6 est égale :
 
 1° Pour les assurés mentionnés au 1° de l'article L. 161-22-1-5, à la différence entre 100 % et la quotité de travail à temps partiel ou réduit globale telle qu'elle résulte des articles R. 161-19-6, D. 161-2-24-5 et D. 161-2-24-6 ;
 
@@ -8,7 +8,9 @@ I.-La fraction de pension de vieillesse servie en application de l'article L. 16
 
 3° Pour les assurés mentionnés à l'article L. 161-22-1-6, à la différence entre 100 % et la quotité totale travaillée, calculée le cas échéant en additionnant les durées du travail effectuées dans le cadre de plusieurs emplois à temps non complet, sans que la fraction n'excède 60 %.
 
-II.-Par dérogation au I, la fraction de pension de vieillesse est fixée à titre provisionnel pendant les dix-huit premiers mois au taux de 50 % de la pension de vieillesse des assurés visés au 2° de l'article L. 161-22-1-5. A compter du 1er juillet de la deuxième année et chaque 1er juillet, il est, le cas échéant, procédé à la révision de la fraction de pension.
+4° Pour les assurés mentionnés au 3° de l'article L. 161-22-1-5 dont la cessation progressive d'activité se traduit par une cession de terres ou de parts sociales, à la fraction des terres ou des parts sociales de l'exploitation ou de l'entreprise agricole cédées, sans que la fraction n'excède 60 %.
+
+II. - Par dérogation au I, la fraction de pension de vieillesse est fixée à titre provisionnel pendant les dix-huit premiers mois au taux de 50 % de la pension de vieillesse des assurés mentionnés au 2° du I du présent article. A compter du 1er juillet de la deuxième année et chaque 1er juillet, il est, le cas échéant, procédé à la révision de la fraction de pension.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2023-753 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

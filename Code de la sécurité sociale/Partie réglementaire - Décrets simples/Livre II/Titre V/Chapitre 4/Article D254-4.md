@@ -1,8 +1,8 @@
 # Article D254-4
 
-L'organisme chargé du paiement des pensions d'invalidité, des pensions de vieillesse et des allocations aux vieux travailleurs salariés remet à chaque titulaire un extrait d'inscription établissant ses droits.
+L'organisme chargé du paiement des pensions d'invalidité, des pensions de vieillesse et l'allocation de solidarité aux personnes âgées remet à chaque titulaire une notification établissant ses droits.
 
-L'extrait d'inscription est adressé au titulaire.
+La notification est adressée au titulaire.
 
 Il comporte les indications suivantes :
 
@@ -18,3 +18,5 @@ Seront également mentionnés, s'il y a lieu, les nom, prénoms et adresse, ou t
 
 NOTA:
 Code de la sécurité sociale D721-5 (modifié par le Décret 93-1167 du 14 octobre 1993 art. 1) : l'article D254-4 est applicable à la caisse mutuelle et aux groupements mutualistes habilités à liquider et à payer les prestations pour son compte.
+
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

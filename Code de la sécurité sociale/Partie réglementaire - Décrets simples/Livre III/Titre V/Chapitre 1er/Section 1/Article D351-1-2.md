@@ -23,4 +23,4 @@ Pour l'application de chacune des limites prévues aux 1°, 2°, 3° et 5° du I
 Le nombre de trimestres ayant donné lieu à cotisations ou réputés tels ne peut excéder quatre pour une même année civile.
 
 NOTA:
-Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

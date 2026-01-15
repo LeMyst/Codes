@@ -7,4 +7,4 @@ Pour l'application de la condition de début d'activité mentionnée à l'articl
 2° S'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue au 1° du présent article, d'une durée d'assurance d'au moins quatre trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième, dix-huitième, vingtième, ou vingt-et-unième anniversaire.
 
 NOTA:
-Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

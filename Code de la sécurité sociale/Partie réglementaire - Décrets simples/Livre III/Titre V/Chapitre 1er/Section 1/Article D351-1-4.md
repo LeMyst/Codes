@@ -17,4 +17,4 @@ La durée d'assurance prise en compte au-delà de la limite mentionnée au deuxi
 La majoration prévue au présent article est calculée avant la majoration prévue à l'article L. 351-12.
 
 NOTA:
-Décret n° 2010-1734 du 30 décembre 2010 art. 11 : Ces dispositions sont applicables aux pensions prenant effet à compter du 1er juillet 2011.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

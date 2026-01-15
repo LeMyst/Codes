@@ -8,7 +8,7 @@ Est affilié obligatoirement à l'assurance vieillesse du régime général de s
 
 Toutefois, ne peut bénéficier de cette affiliation que le conjoint ou concubin dont les revenus propres provenant de l'exercice d'une activité professionnelle pendant l'année civile de référence, n'excèdent pas douze fois la base mensuelle de calcul des allocations familiales en vigueur au 1er janvier de ladite année.
 
-Ne peut également bénéficier de cette affiliation que le conjoint ou concubin qui ne participe pas, au sens de l'article L. 732-34 du code rural et de la pêche maritime, à la mise en valeur d'une exploitation agricole.
+Ne peut également bénéficier de cette affiliation que le conjoint ou concubin qui ne participe pas, au sens de l'article L. 321-5 du code rural et de la pêche maritime, à la mise en valeur d'une exploitation agricole.
 
 NOTA:
-Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

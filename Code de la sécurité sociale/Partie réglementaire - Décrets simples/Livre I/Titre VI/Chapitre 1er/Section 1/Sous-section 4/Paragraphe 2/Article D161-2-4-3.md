@@ -12,9 +12,9 @@ II. – Lorsque l'assuré remplit les conditions mentionnées au premier alinéa
 
 Dans tous les cas, l'assuré est informé de la suite donnée à sa demande.
 
-III. – La commission rend un avis motivé sur l'ampleur de l'incapacité, de la déficience ou du désavantage présenté par l'assuré au cours de tout ou partie de la période mentionnée à l'article D. 161-2-4-2 pour le bénéfice des dispositions de l'article L. 351-1-3 , du III des articles L. 643-3 et L. 653-2 du présent code et de l'article L. 732-18-2 du code rural et de la pêche maritime, ainsi que du 5° du I de l'article L. 24 du code des pensions civiles et militaires de retraites.
+III. – La commission rend un avis motivé sur l'ampleur de l'incapacité, de la déficience ou du désavantage présenté par l'assuré au cours de tout ou partie de la période mentionnée à l'article D. 161-2-4-2 pour le bénéfice des dispositions de l'article L. 351-1-3 , du III des articles L. 643-3 et L. 653-2 du présent code et du 5° du I de l'article L. 24 du code des pensions civiles et militaires de retraites.
 
 L'avis motivé est notifié à la caisse ou au service chargé de la liquidation de la pension de retraite.
 
 NOTA:
-Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

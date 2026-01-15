@@ -18,11 +18,9 @@ Pour l'application du 2° du I de l'article L. 351-14-1, la demande adressée au
 
 Pour l'application du 3° du I de l'article L. 351-14-1, la demande est adressée au régime général quel que soit le ou les régimes d'affiliation de l'assuré.
 
-Pour l'application du 4° du I de l'article L. 351-14-1, la demande est adressée au régime des salariés agricoles dès lors que l'assuré est ou a été affilié à ce régime et n'a jamais été affilié au régime général. La demande est adressée au régime général ou au régime des salariés agricoles au choix de l'assuré dès lors qu'il est ou a été affilié dans ces deux régimes. Les autres assurés adressent leur demande au régime général.
+Pour l'application du 4° du I de l'article L. 351-14-1, l'assuré de l'un des régimes mentionnés à l'article L. 173-1-2 ou du régime des non salariés des professions agricoles adresse sa demande au régime auquel il est ou a été affilié. Lorsqu'il relève ou a relevé successivement, alternativement ou simultanément d'au moins deux de ces régimes, la demande est adressée au régime de son choix. Les assurés ne relevant d'aucun de ces régimes adressent leur demande au régime général.
 
 La demande est adressée à la caisse chargée de l'assurance vieillesse du régime général de sécurité sociale dans le ressort de laquelle se trouve la résidence de l'assuré ou, en cas de résidence à l'étranger, la caisse dont il relevait lors du dernier report de salaire à son compte.
 
 NOTA:
-Conformément au II de l’article 3 du décret n° 2023-800 du 21 août 2023, ces dispositions sont applicables aux pensions prenant effet à compter du 1er septembre 2023.
-
-Conformément au II de l’article 3 du décret n° 2023-838 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1er janvier 2026.

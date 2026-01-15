@@ -19,4 +19,4 @@ II.-Les dispositions du 3° du I s'appliquent aux assurés nés entre le 1er sep
 3° Pour les assurés nés en 1969, les mots : “ soixante-deux ans ” sont remplacés par les mots : “ soixante-et-un ans et neuf mois ”.
 
 NOTA:
-Conformément à l'article 9 du décret n° 2023-436 du 3 juin 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.

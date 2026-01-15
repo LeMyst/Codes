@@ -4,7 +4,7 @@ I.-L'entretien prévu au V de l'article L. 161-17, dont bénéficie l'assuré da
 
 1° Sur les règles générales d'acquisition de droits à pension ;
 
-2° Sur les dispositifs lui permettant de cotiser volontairement à l'assurance vieillesse ou d'effectuer des rachats de cotisations au titre de périodes passées en application des articles L. 742-1 à L. 742-3, L. 742-6 et L. 763-1 du présent code et de l'article L. 722-18 du code rural et de la pêche maritime ;
+2° Sur les dispositifs lui permettant de cotiser volontairement à l'assurance vieillesse ou d'effectuer des rachats de cotisations au titre de périodes passées en application des articles L. 742-1 à L. 742-3 et L. 742-6 du présent code et de l'article L. 722-18 du code rural et de la pêche maritime ;
 
 3° Sur les modalités de prise en compte des activités professionnelles accomplies dans un Etat de l'Union européenne ou dans un Etat tiers ayant conclu une convention bilatérale de sécurité sociale avec la France.
 
@@ -19,3 +19,6 @@ III.-L'entretien est réalisé dans un délai maximal de trois mois suivant la d
 Le groupement d'intérêt public mentionné à l'article L. 161-17-1 élabore, en lien avec l'établissement public défini à l'article L. 767-1, les documents d'information générale et les éléments d'information complémentaires destinés à répondre aux besoins particuliers, qui sont transmis à l'assuré à l'occasion de l'entretien, le cas échéant sous forme dématérialisée. Ces informations sont également consultables et téléchargeables sur internet de manière accessible à l'ensemble du public.
 
 IV.-Le conjoint d'un assuré ayant un projet d'expatriation peut demander à bénéficier d'un entretien dans les conditions et selon les modalités prévues au présent article.
+
+NOTA:
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

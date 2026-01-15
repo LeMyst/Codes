@@ -18,11 +18,11 @@ b) Au titre du 2° du même article :
 
 où :
 
-RF est le montant maximal de la retraite forfaitaire mentionnée au 1° de l'article L. 732-24 du code rural et de la pêche maritime pour sa valeur au 1er janvier de l'année au cours de laquelle l'assuré est admis au bénéfice du versement ;
+RF est le montant maximal de la part prévue au a du 2° du I de l'article L. 732-24 du code rural et de la pêche maritime pour sa valeur au 1er janvier de l'année au cours de laquelle l'assuré est admis au bénéfice du versement ;
 
-NP est le nombre trimestriel moyen de points de retraite proportionnelle égal au quart du nombre de points de retraite correspondant à un revenu annuel déterminé selon les modalités fixées en application du a), du b) ou du c) du 2° de l'article 64 du présent décret et revalorisé selon les modalités fixées au 1° de l'article D. 351-9 mentionné, compte tenu du montant du minimum contributif en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est informé de l'acceptation de sa demande, non majoré au titre des périodes cotisées ;
+NP est le nombre trimestriel moyen de points égal au quart du nombre de points correspondant à un revenu annuel déterminé selon les modalités fixées en application du a), du b) ou du c) du 3° du I de l'article D. 351-8 du code de la sécurité sociale et revalorisé selon les modalités fixées au 1° de l'article D. 351-9 mentionné, compte tenu du montant du minimum contributif en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est informé de l'acceptation de sa demande, non majoré au titre des périodes cotisées ;
 
-V est la valeur de service du point de retraite proportionnelle en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est admis au bénéfice du versement, fixée en application de l'article R. 732-68 ;
+V est la valeur de service du point en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est admis au bénéfice du versement, fixée en application du I de l'article R. 732-65 ;
 
 C est le coefficient de minoration fixé au c) du 4° de l'article D. 351-9 du code de la sécurité sociale ;
 
@@ -32,3 +32,5 @@ E est le terme actuariel défini au c) du 4° de l'article D. 351-9 susmentionn�
 
 NOTA:
 Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.
+
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

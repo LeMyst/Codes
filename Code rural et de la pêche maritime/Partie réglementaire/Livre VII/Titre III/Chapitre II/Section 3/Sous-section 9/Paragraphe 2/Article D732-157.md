@@ -1,6 +1,6 @@
 # Article D732-157
 
-La liquidation et le service de la pension de retraite complémentaire sont subordonnés à la liquidation et au service de la pension de retraite de base mentionnée à l'article L. 732-24.
+La liquidation et le service de la pension de retraite complémentaire sont subordonnés à la liquidation et au service de la pension de retraite de base de droit propre du régime institué par le présent chapitre.
 
 Pour les personnes mentionnées aux I, III, IV et VI de l'article L. 732-56, la demande de liquidation de la pension de retraite de base est, sauf demande contraire expresse de l'assuré formulée dans un délai maximal de quinze jours après la date d'envoi de l'accusé de réception de ladite demande, réputée valoir également demande de liquidation de la pension de retraite complémentaire obligatoire servie à titre personnel. La date d'effet de la pension de retraite complémentaire est fixée au même jour que la date d'effet de la pension de retraite de base.
 
@@ -12,7 +12,7 @@ Les dispositions des articles L. 732-39 et L. 732-40 sont applicables à la pens
 
 Les arrérages des prestations du régime de retraite complémentaire obligatoire sont dus jusqu'à la fin du mois au cours duquel le prestataire est décédé. Ils sont payables aux ayants droit sur production du bulletin de décès et sur présentation des pièces établissant leur qualité.
 
-La demande de liquidation de la pension de réversion de la retraite de base, mentionnée aux articles L. 732-41 à L. 732-44, est, sauf demande contraire expresse du conjoint survivant de l'assuré formulée dans un délai maximal de quinze jours après la date d'envoi de l'accusé de réception de ladite demande, réputée valoir également demande de liquidation de la pension de réversion de la retraite complémentaire obligatoire mentionnée à l'article L. 732-62. La date d'entrée en jouissance de cette pension est fixée :
+La demande de liquidation de la pension de réversion de la retraite de base du régime institué par le présent chapitre est, sauf demande contraire expresse du conjoint survivant de l'assuré formulée dans un délai maximal de quinze jours après la date d'envoi de l'accusé de réception de ladite demande, réputée valoir également demande de liquidation de la pension de réversion de la retraite complémentaire obligatoire mentionnée à l'article L. 732-62. La date d'entrée en jouissance de cette pension est fixée :
 
 1° Au premier jour du mois suivant celui au cours duquel l'assuré est décédé, si la demande est déposée dans le délai d'un an suivant le décès ;
 
@@ -22,7 +22,9 @@ Cette date ne peut toutefois, sous réserve des dispositions prévues aux quatri
 
 La décision d'attribution ou de rejet de la pension de retraite complémentaire obligatoire mentionnée aux premier et deuxième alinéas du présent article est notifiée à l'assuré en même temps que la décision d'attribution ou de rejet de sa pension de retraite de base.
 
-La décision d'attribution ou de rejet de la pension de réversion de retraite complémentaire obligatoire mentionnée au neuvième alinéa du présent article est notifiée au conjoint survivant en même temps que la décision d'attribution ou de rejet de sa pension de réversion de retraite de base.
+La décision d'attribution ou de rejet de la pension de réversion de retraite complémentaire obligatoire est notifiée au conjoint survivant en même temps que la décision d'attribution ou de rejet de sa pension de réversion de retraite de base.
+
+La pension de retraite complémentaire obligatoire et la pension de réversion de retraite complémentaire obligatoire sont payées mensuellement dans les conditions prévues à l'article R. 355-2 du code de la sécurité sociale.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2014-494 du 16 mai 2014, ces dispositions sont applicables aux pensions dues à compter du 1er février 2014.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, les dispositions du b et du c du 46°, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.

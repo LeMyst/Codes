@@ -8,9 +8,11 @@ Les dispositions de l'article D. 351-1-11 du code de la sécurité sociale s'app
 
 3° Pour l'application du 2° du II, le médecin-conseil régional mentionné à l'article R. 315-3 du code de la sécurité sociale ou le médecin-conseil de l'échelon régional du contrôle médical qu'il désigne pour le représenter sont remplacés par le médecin directeur national du contrôle médical de la Caisse centrale de la mutualité sociale agricole, ou la personne qu'il désigne pour le représenter parmi les médecins des caisses de mutualité sociale agricole se trouvant dans le ressort de compétence du comité régional de reconnaissance des maladies professionnelles ;
 
-4° Pour l'application du 3° du II, l'ingénieur-conseil chef du service de prévention de la caisse mentionnée à l'article L. 215-1 ou à l'article L. 215-3 du code de la sécurité sociale ou son représentant sont remplacés par un conseiller en prévention des risques professionnels désigné au sein de sa caisse par le directeur mentionné au quatrième alinéa du présent article ;
+4° Pour l'application du 3° du II, l'ingénieur-conseil chef du service de prévention de la caisse mentionnée à l'article L. 215-1 ou à l'article L. 215-3 du code de la sécurité sociale ou son représentant sont remplacés par un conseiller en prévention des risques professionnels désigné au sein de sa caisse par le directeur mentionné au 2° du présent article ;
 
 5° Pour l'application de l'avant-dernier alinéa du 5° du II, le secrétariat de la commission pluridisciplinaire est assuré par la caisse départementale ou pluridépartementale de mutualité sociale agricole dont relève le département dans lequel se trouve le siège du comité régional de reconnaissance des maladies professionnelles.
 
 NOTA:
 Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.
+
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.

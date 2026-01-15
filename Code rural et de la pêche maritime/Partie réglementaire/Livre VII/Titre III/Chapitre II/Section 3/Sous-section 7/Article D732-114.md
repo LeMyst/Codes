@@ -1,6 +1,6 @@
 # Article D732-114
 
-Lorsque le montant mensuel de la majoration de pension calculée en application de l'article D. 732-112 augmenté des ressources définies au deuxième alinéa excède le douzième du plafond fixé à l'article D. 732-113, ce montant est réduit à due concurrence du dépassement.
+Lorsque le montant annuel de la majoration de pension calculée en application de l'article D. 732-112 augmenté des ressources définies au deuxième alinéa excède le plafond fixé aux I et II de l'article D. 732-113 ou lorsque le montant annuel de la majoration de pension calculée en application de l'article D. 732-112 augmenté des ressources définies au deuxième alinéa excède le plafond annuel fixé au III du même article D. 732-113, ces montants sont réduits à due concurrence du dépassement.
 
 Il est tenu compte, pour l'appréciation des ressources, de l'ensemble des pensions de retraite et des pensions de réversion servies à l'assuré par les régimes de base et par les régimes complémentaires légalement obligatoires d'assurance vieillesse imposables, ainsi que des majorations pour enfants rattachées à ces pensions.
 
@@ -9,3 +9,6 @@ Les personnes bénéficiaires de la majoration de pension sont tenues de faire c
 Toute modification de la situation familiale ou du montant des ressources donne lieu à une révision de la majoration de pension. La majoration de pension recalculée prend effet à compter du premier jour du mois suivant la date à laquelle est constatée la modification.
 
 Les organismes chargés de la liquidation des pensions de retraite ou de réversion non salariées agricoles contrôlent les déclarations des assurés, notamment en ce qui concerne leur situation familiale et leurs ressources. Pour l'exercice de leur contrôle, ils peuvent demander toutes les informations nécessaires aux administrations fiscales, aux organismes de sécurité sociale et aux organismes de retraite complémentaire.
+
+NOTA:
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.

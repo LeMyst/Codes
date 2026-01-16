@@ -1,8 +1,8 @@
 # Article D461-27
 
-Le comité directeur médical comprend :
+Le comité régional comprend :
 
-1° Le médecin-conseil régional mentionné à l'article R. 315-4 du code de la sécurité sociale ou un médecin-conseil, en activité ou retraité, qu'il désigne pour le représenter ;
+1° Le médecin-conseil directeur médical mentionné à l'article R. 315-4 du code de la sécurité sociale ou un médecin-conseil, en activité ou retraité, qu'il désigne pour le représenter ;
 
 2° Le médecin inspecteur du travail mentionné à l'article L. 8123-1 du code du travail ou, en cas d'indisponibilité, un médecin particulièrement compétent en matière de pathologies professionnelles, en activité ou retraité, inscrit sur une liste pour quatre ans renouvelables et titulaire du diplôme mentionné au premier alinéa de l'article L. 4623-1 du code du travail ou, lorsque la demande est présentée par un assuré relevant du régime des salariés ou des non-salariés des professions agricoles, titulaire d'un diplôme mentionné au 2° de l'article R. 717-50 du code rural et de la pêche maritime et qualifié en médecine du travail.
 

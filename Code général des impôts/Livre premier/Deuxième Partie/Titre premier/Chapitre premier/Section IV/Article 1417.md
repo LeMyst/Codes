@@ -6,9 +6,9 @@ I bis. – Par dérogation au I du présent article, l'article 1391 est applicab
 
 II. – Les dispositions de l'article 1391 B ter sont applicables aux contribuables dont le montant des revenus de l'année précédant celle au titre de laquelle l'imposition est établie n'excède pas la somme de 29 815 €, pour la première part de quotient familial, majorée de 6 966 € pour la première demi-part et 5 484 € à compter de la deuxième demi-part supplémentaire, retenues pour le calcul de l'impôt sur le revenu afférent auxdits revenus. Pour la Martinique, la Guadeloupe et la Réunion, les montants des revenus sont fixés à 36 032 €, pour la première part, majorés de 7 643 € pour la première demi-part, 7 288 € pour la deuxième demi-part et 5 484 € pour chaque demi-part supplémentaire à compter de la troisième. Pour la Guyane et Mayotte, ces montants sont fixés à 39 488 € pour la première part, majorés de 7 643 € pour chacune des deux premières demi-parts, 6 507 € pour la troisième demi-part et 5 484 € pour chaque demi-part supplémentaire à compter de la quatrième.
 
-III. – Les montants de revenus prévus aux I, I bis, II et II bis sont indexés, chaque année, comme la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+III. – Les montants de revenus prévus aux I, I bis, et II sont indexés, chaque année, comme la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-Les majorations mentionnées aux I, II et II bis sont divisées par deux pour les quarts de part.
+Les majorations mentionnées aux I, et II sont divisées par deux pour les quarts de part.
 
 Les montants mentionnés aux deux premiers alinéas du présent III sont arrondis à l'euro le plus proche ; la fraction d'euro égale à 0,50 est comptée pour 1.
 

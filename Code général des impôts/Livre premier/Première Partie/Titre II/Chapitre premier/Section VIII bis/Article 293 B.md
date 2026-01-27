@@ -24,7 +24,7 @@ B. - Les opérations prises en compte pour les besoins des plafonds mentionnés 
 
 2° Les livraisons par les auteurs d'œuvres de l'esprit, à l'exception des architectes, de leurs œuvres mentionnées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi ;
 
-3° Les opérations relatives à l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes mentionnés à l'article L. 212-1 du même code. ;
+3° Les opérations relatives à l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes mentionnés à l'article L. 212-1 du même code.
 
 II. - Lorsque l'un des plafonds de chiffre d'affaires prévus aux I ou I bis du présent article pour les opérations de l'année en cours est dépassé, la franchise cesse de s'appliquer pour les opérations intervenant à compter de la date du dépassement.
 

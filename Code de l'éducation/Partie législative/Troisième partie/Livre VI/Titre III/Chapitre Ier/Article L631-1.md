@@ -34,4 +34,4 @@ II. - Un décret en Conseil d'Etat détermine :
 
 10° Les conditions dans lesquelles les titulaires d'un diplôme sanctionnant des études de santé validé à l'étranger permettant d'exercer dans le pays de délivrance peuvent postuler aux diplômes français correspondants ;
 
-11° Les conditions et les modalités d'accès à la formation de médecine des étudiants français inscrits avant la promulgation de la loi n° du visant à améliorer l'accès aux soins par la territorialisation et la formation dans la même filière dans un Etat membre de l'Union européenne, un Etat partie à l'accord sur l'Espace économique européen, la Confédération suisse ou la Principauté d'Andorre.
+11° Les conditions et les modalités d'accès à la formation de médecine des étudiants français inscrits avant la promulgation de la loi n° 2025-580 du 27 juin 2025 du visant à améliorer l'accès aux soins par la territorialisation et la formation dans la même filière dans un Etat membre de l'Union européenne, un Etat partie à l'accord sur l'Espace économique européen, la Confédération suisse ou la Principauté d'Andorre.

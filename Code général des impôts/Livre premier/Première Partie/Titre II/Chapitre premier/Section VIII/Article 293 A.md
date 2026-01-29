@@ -55,3 +55,6 @@ Les manquements aux dispositions du présent 3 sont sanctionnés dans les condit
 Le représentant en douane transmet au redevable ou lui rend accessible par voie électronique, au plus tard lors de la réception des marchandises par le destinataire, l'information de la base imposable constatée conformément au dernier alinéa de l'article 292 ainsi que les documents nécessaires pour l'exercice du droit à déduction conformément au 2 de l'article 271.
 
 5. Sans préjudice du 4, dans les cas mentionnés aux b et c du 2° du 2, la personne qui réalise la livraison du bien importé et le destinataire de cette livraison sont solidairement tenus au paiement de la taxe.
+
+NOTA:
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.

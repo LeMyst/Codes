@@ -21,4 +21,6 @@ Sous réserve des adaptations prévues par le présent chapitre, sont applicable
 | R. 333-1 à R. 333-31 | |
 | R. 334-1 à R. 334-17 | |
 | R. 335-1 à R. 335-18 | |
-| R. 351-1 à R. 353-24 | |
+| R. 351-1 à R. 353-13 | |
+| R. 353-14 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 353-15 à R. 353-24 | |

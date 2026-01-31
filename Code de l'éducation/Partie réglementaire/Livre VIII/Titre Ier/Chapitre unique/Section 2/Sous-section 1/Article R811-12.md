@@ -14,7 +14,4 @@ Aucun certificat de réussite ni relevé de notes ne peut être délivré avant 
 
 Il en est de même lorsque le jury décide de saisir l'une des autorités mentionnées à l'article R. 811-25 des cas de fraude présumée.
 
-En cas de nullité de l'épreuve ou du groupe d'épreuves correspondant résultant d'une sanction prononcée en application des articles R. 811-36 ou R. 811-37, l'autorité administrative saisit le jury pour une nouvelle délibération portant sur les résultats obtenus par l'intéressé.
-
-NOTA:
-Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.
+En cas de nullité de l'épreuve ou du groupe d'épreuves correspondant résultant d'une sanction prononcée en application des articles R. 811-13-1 ou R. 811-13-2, l'autorité administrative saisit le jury pour une nouvelle délibération portant sur les résultats obtenus par l'intéressé.

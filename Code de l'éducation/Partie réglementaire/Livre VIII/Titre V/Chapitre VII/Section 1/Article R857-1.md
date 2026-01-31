@@ -4,13 +4,20 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
-| R. 811-10 à R. 811-22 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 811-23 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 811-24 à R. 811-28 R. 811-29 R. 811-30 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-11 à R. 811-15 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-16 à R. 811-21 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-22 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-23 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-24 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-25 à R. 811-27 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-28 à R. 811-30 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-31 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 811-32 à R. 811-35 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 811-36 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 811-37 à R. 811-42 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-32 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-33 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-34 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-38 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-39 et R. 811-40 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 811-42 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 821-2 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 821-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 822-3, 1er alinéa | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
@@ -25,7 +32,7 @@ II.-Pour l'application du I :
 
 2° Le dernier alinéa de l'article R. 811-13 est ainsi rédigé :
 
-“ Les auteurs ou complices des faits mentionnés au dernier alinéa de l'article R. 811-11 relèvent, en Nouvelle-Calédonie, de la section disciplinaire de l'université de la Nouvelle-Calédonie. ” ;
+“ Les auteurs des faits mentionnés au dernier alinéa de l'article R. 811-11 relèvent, en Nouvelle-Calédonie, de la section disciplinaire de l'université de la Nouvelle-Calédonie. ” ;
 
 3° Au quatrième alinéa de l'article R. 811-29, les mots : “ dans les conditions déterminées par les articles R. 6153-1 à R. 6153-91-1 du code de la santé publique ” sont supprimés ;
 

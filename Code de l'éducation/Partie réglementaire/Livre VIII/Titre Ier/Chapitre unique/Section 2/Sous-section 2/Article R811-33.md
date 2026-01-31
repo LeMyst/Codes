@@ -8,7 +8,8 @@ Peuvent également être entendues à leur demande les personnes qui ont engagé
 
 La personne poursuivie a la parole en dernier.
 
-Après la levée de la séance, la décision de sanction est prise par les membres de la commission de discipline ayant assisté à la totalité de la séance, en présence du secrétaire.
+Le président peut ordonner un supplément d'instruction. Les parties sont invitées à présenter des éléments complémentaires pour les seuls besoins de ce supplément d'instruction, dans un délai qui ne peut excéder un mois à compter de la date de la séance d'examen de l'affaire. A l'issue de ce délai, la commission de discipline délibère.
 
-NOTA:
-Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.
+Une nouvelle séance d'examen de l'affaire est convoquée si le président estime nécessaire d'entendre des observations orales sur les éléments nouvellement produits.
+
+Après la levée de la séance, la décision de sanction est prise par les membres de la commission de discipline ayant assisté à la totalité de la séance, en présence du secrétaire.

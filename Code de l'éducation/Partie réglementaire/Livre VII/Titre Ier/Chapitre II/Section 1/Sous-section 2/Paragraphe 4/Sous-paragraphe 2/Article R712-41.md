@@ -10,5 +10,4 @@ La notification doit mentionner les voies de recours et les délais selon lesque
 
 La notification à l'intéressé a lieu par lettre recommandée avec demande d'avis de réception.
 
-NOTA:
-Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023 et s'appliquent aux procédures engagées après cette date.
+En cas de faits de violence, d'antisémitisme, de racisme, de discrimination ou d'incitation à la haine, le président de la section disciplinaire informe toute personne qui s'estime lésée par les agissements de l'enseignant-chercheur ou de l'enseignant poursuivi et qui s'est fait connaître, selon le cas, de la sanction prononcée ou de l'absence de sanction.

@@ -8,7 +8,4 @@ L'élection des membres de chaque sexe au sein de chaque collège a lieu au scru
 
 L'élection de chacun des membres est acquise à la majorité absolue des suffrages exprimés au premier tour, à la majorité relative au second tour. En cas d'égalité des voix, le membre le plus âgé est désigné.
 
-En cas de carence de candidature ou lorsque, après application des alinéas précédents, l'effectif de la section disciplinaire est incomplet pour un sexe et un collège, les sièges vacants sont pourvus par tirage au sort parmi les élus du conseil académique du même sexe et appartenant au collège correspondant.
-
-NOTA:
-Conformément à l’article 45 du décret n° 2023-856 du 5 septembre 2023, ces dispositions entrent en vigueur le 1er octobre 2023.
+Lorsque, après application des alinéas précédents, l'effectif de la section disciplinaire est incomplet pour un sexe et un collège, les sièges vacants sont pourvus par tirage au sort parmi les élus du conseil académique du même sexe et appartenant au collège correspondant.

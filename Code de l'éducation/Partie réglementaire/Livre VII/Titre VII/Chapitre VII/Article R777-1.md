@@ -12,11 +12,12 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 711-16 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 712-1, R. 712-3 et R. 712-4 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 712-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 712-6 et R. 712-7 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 712-8 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-6 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| R. 712-8 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-9 à R. 712-11 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 712-13 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
-| R. 712-15 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 712-14 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 712-15 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-16 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 712-17 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 712-18 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
@@ -24,21 +25,23 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 712-21 et R. 712-22 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 712-23 à R. 712-25 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
 | R. 712-26 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 712-26-1 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
+| R. 712-26-1 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-27 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 712-27-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 712-28 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 712-29 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 712-30 et R. 712-31 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-30 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-31 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R 712-32 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 712-33 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-33 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-34 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 712-35 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-35 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-36 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 712-37 et R. 712-38 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-37 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 712-38 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 712-39 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 712-40 | Résultant du décret n° 2020-785 du 26 juin 2020 |
-| R. 712-41 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 712-41 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 712-42 et R. 712-43 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 712-44 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 712-45 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -48,7 +51,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 715-5 à R. 715-8 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 715-9, R. 715-9-2 à R. 715-9-4 | Résultant du décret n° 2018-1189 du 19 décembre 2018 |
 | R. 715-12 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 715-13 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 715-13 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 719-48 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-49 à R. 719-50-1 | Résultant du décret n° 2019-344 du 19 avril 2019 |
 | R. 719-51, R. 719-52, R. 719-54, R. 719-56, R. 719-61, R. 719-63-1 à R. 719-66 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
@@ -82,7 +85,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 732-1 et R. 732-2 | Résultant du décret n° 2014-635 du 18 juin 2014 |
 | R. 741-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 741-2 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 741-3 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 741-3 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 741-4 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 752-1 à R. 752-4 | Résultant du décret n° 2018-109 du 15 février 2018 |
 | R. 759-9 | Résultant du décret n° 2020-733 du 15 juin 2020 |
@@ -117,6 +120,3 @@ b) Le haut-commissaire de la République exerce les compétences dévolues au pr
 10° Au premier alinéa de l'article R. 762-18 et à l'article R. 762-19, le mot : “ départemental ” est supprimé ;
 
 11° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contrevaleur en monnaie locale.
-
-NOTA:
-Conformément à l’article 46 du décret n° 2024-1108 du 2 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025. Les budgets initiaux pour l'exercice 2025 demeurent régis par les règles applicables antérieurement à cette date.

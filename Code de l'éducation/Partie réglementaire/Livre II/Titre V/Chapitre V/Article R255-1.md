@@ -23,8 +23,14 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 232-26 et R. 232-27 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 232-28 à R. 232-30-1 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 232-31 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
-| R. 232-31-1 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
-| R. 232-32 à R. 232-42 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-31-1 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-32 à R. 232-35 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-35-1 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-36 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-37 et R. 232-38 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-39 et R. 232-40 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-41 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-42 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 232-43 | Résultant du décret n° 2007-1346 du 12 septembre 2007 |
 | R. 232-44 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 232-45 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
@@ -59,6 +65,3 @@ b) Les pouvoirs que le ministre chargé de l'éducation lui délègue par arrêt
 4° A l'article R. 222-24-7, les mots : “ Le recteur de région académique ” sont remplacés par les mots : “ Le vice-recteur ” et les mots : “ dans le ressort de la région académique ” sont remplacés par les mots : “ dans les îles Wallis et Futuna ” ;
 
 5° Au dernier alinéa de l'article R. 232-41, la phrase : “ Copie de la décision est adressée au recteur de région académique, chancelier des universités. ” est supprimée.
-
-NOTA:
-Conformément à l'article 5 du décret n° 2023-595 du 13 juillet 2023, ces dispositions entrent en vigueur en vue du prochain renouvellement du Conseil supérieur de l'éducation.

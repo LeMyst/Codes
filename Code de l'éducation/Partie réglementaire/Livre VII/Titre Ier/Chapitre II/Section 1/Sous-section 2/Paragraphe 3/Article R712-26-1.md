@@ -2,7 +2,7 @@
 
 Le membre de la section disciplinaire qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer dans les conditions prévues à l'article R. 712-27.
 
-La personne qui veut récuser un membre de la section disciplinaire doit, à peine d'irrecevabilité, le faire dès qu'elle a connaissance de la cause de la récusation. En aucun cas, la demande de récusation ne peut être formée après la fin de l'audience.
+La personne poursuivie ou l'auteur des poursuites disciplinaires qui veut récuser un membre de la section disciplinaire doit, à peine d'irrecevabilité, le faire dès qu'elle a connaissance de la cause de la récusation. En aucun cas, la demande de récusation ne peut être formée après la fin de l'audience.
 
 La demande de récusation est adressée par lettre recommandée, avec demande d'avis de réception, au président de la section disciplinaire ou remise au secrétariat de la juridiction. Dans ce dernier cas, il est délivré récépissé de la demande. La demande doit, à peine d'irrecevabilité, indiquer avec précision les motifs de la récusation et être accompagnée de tous les éléments utiles permettant de la justifier.
 

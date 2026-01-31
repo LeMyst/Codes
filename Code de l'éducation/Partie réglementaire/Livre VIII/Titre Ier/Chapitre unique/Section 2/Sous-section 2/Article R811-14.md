@@ -1,5 +1,7 @@
 # Article R811-14
 
+Le conseil académique, constitué en section disciplinaire conformément à l'article L. 811-5, est compétent pour prononcer des sanctions à l'égard des usagers de l'établissement, dans les conditions et selon la procédure prévues aux articles R. 811-11 à R. 811-42.
+
 La section disciplinaire du conseil académique compétente à l'égard des usagers comprend :
 
 1° Quatre professeurs des universités ou personnels assimilés au sens du collège A du I de l'article D. 719-4 ;
@@ -11,6 +13,3 @@ La section disciplinaire du conseil académique compétente à l'égard des usag
 Pour tenir compte de l'effectif total des usagers de l'université, et le cas échéant du nombre de sites universitaires, le nombre de membres peut être porté à six pour chacun des collèges définis aux 1° et 2° et à douze pour le collège défini au 3° ou à huit pour chacun des collèges définis aux 1° et 2° et à seize pour le collège défini au 3°. Un arrêté du ministre chargé de l'enseignement supérieur précise les modalités d'application de ces dispositions.
 
 Le président de l'université ne peut être membre de la section disciplinaire.
-
-NOTA:
-Conformément à l’article 20 du décret n° 2020-785 du 26 juin 2020, ces dispositions s'appliquent aux procédures engagées après la date de sa publication.

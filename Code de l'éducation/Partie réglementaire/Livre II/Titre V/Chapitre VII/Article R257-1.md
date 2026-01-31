@@ -24,8 +24,14 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 232-26 et R. 232-27 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 232-28 à R. 232-30-1 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 232-31 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
-| R. 232-31-1 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
-| R. 232-32 à R. 232-42 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-31-1 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-32 à R. 232-35 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-35-1 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-36 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-37 et R. 232-38 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-39 et R. 232-40 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
+| R. 232-41 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
+| R. 232-42 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 232-43 | Résultant du décret n° 2007-1346 du 12 septembre 2007 |
 | R. 232-44 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 232-45 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
@@ -125,6 +131,3 @@ c) Au b, les mots : “ enseignants, d'éducation et d'orientation des écoles, 
 d) Au e, les mots : “ l'orientation des élèves, les examens, la gestion des personnels éducatifs et dans le choix des équipements pédagogiques ” sont remplacés par les mots : “ les examens et la gestion des personnels éducatifs ” ;
 
 15° A l'article R. 241-21, les mots : “ les directeurs de centre d'information et d'orientation, ” sont supprimés.
-
-NOTA:
-Conformément à l'article 5 du décret n° 2023-595 du 13 juillet 2023, ces dispositions entrent en vigueur en vue du prochain renouvellement du Conseil supérieur de l'éducation.

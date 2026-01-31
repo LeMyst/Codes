@@ -1,0 +1,7 @@
+# Article R811-27
+
+Dès réception des documents mentionnés à l'article R. 811-26, le président de la section disciplinaire en transmet copie, par tout moyen permettant de conférer date certaine, à la personne poursuivie ainsi que, s'il s'agit d'un mineur, aux personnes qui exercent à son égard l'autorité parentale ou la tutelle. Il en transmet une copie au président de l'université, au recteur de région académique et au médiateur académique.
+
+Cette communication indique à l'usager poursuivi le délai dont il dispose pour présenter des observations écrites. Elle lui précise qu'il peut se faire assister ou représenter par un conseil de son choix, qu'il peut demander à être entendu par les rapporteurs chargés de l'instruction de l'affaire et qu'il peut prendre connaissance du dossier pendant le déroulement de cette instruction. Elle l'informe que, pendant toute la durée de la procédure, il dispose du droit de se taire.
+
+Lorsque les faits relèvent des 3° et 4° de l'article R. 811-11, le président de la section disciplinaire informe toute personne qui s'estime victime des faits reprochés et qui s'est fait connaître de l'engagement des poursuites. Il lui précise les différentes phases de la procédure et lui indique qu'elle peut demander à être entendue par la commission de discipline, en application de l'article R. 811-33, et qu'elle sera informée de l'issue des poursuites, en application de l'article R. 811-39.

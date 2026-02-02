@@ -40,7 +40,7 @@ Le conseil d'orientation stratégique du fonds de lutte contre les addictions li
 
 -le directeur de la recherche, des études, de l'évaluation et des statistiques ;
 
--le directeur de l'administration pénitentiaire ;
+-le directeur général de l'administration pénitentiaire ;
 
 -le directeur de la protection judiciaire de la jeunesse ;
 
@@ -63,3 +63,6 @@ Il se réunit, en composition plénière, sur convocation de son président, le 
 Le conseil d'orientation stratégique propose, une fois par an, au comité restreint du fonds, des orientations et axes d'interventions servant à définir les projets à financer en priorité pour l'année en cours, conformément aux priorités ministérielles précisées dans les plans d'action nationaux du champ de la santé. Pour chaque orientation et axe d'interventions, le conseil d'orientation stratégique précise les indicateurs et modalités d'évaluation pertinents et, le cas échéant, le champ d'application territorial.
 
 Le conseil d'orientation stratégique du fonds est également en charge du suivi annuel et de l'évaluation des actions financées par le fonds.
+
+NOTA:
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.

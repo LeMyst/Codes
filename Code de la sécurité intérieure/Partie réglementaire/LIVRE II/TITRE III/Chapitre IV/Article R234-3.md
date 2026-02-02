@@ -108,7 +108,7 @@ j) Les services suivants placés sous l'autorité du préfet de police :
 
 – la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ;
 
-k) Le service suivant placé sous l'autorité du directeur de l'administration pénitentiaire :
+k) Le service suivant placé sous l'autorité du directeur général de l'administration pénitentiaire :
 
 – le service national du renseignement pénitentiaire pour un cadre d'action limité à l'enceinte des établissements pénitentiaires ;
 
@@ -136,7 +136,7 @@ f) Le service suivant placé sous l'autorité du préfet de police :
 
 – la direction du renseignement ;
 
-g) Le service suivant placé sous l'autorité du directeur de l'administration pénitentiaire :
+g) Le service suivant placé sous l'autorité du directeur général de l'administration pénitentiaire :
 
 – le service national du renseignement pénitentiaire pour un cadre d'action limité à l'enceinte des établissements pénitentiaires ;
 
@@ -186,9 +186,9 @@ i) Le service suivant placé sous l'autorité du préfet de police :
 
 – la direction du renseignement ;
 
-j) Le service suivant placé sous l'autorité du directeur de l'administration pénitentiaire :
+j) Le service suivant placé sous l'autorité du directeur général de l'administration pénitentiaire :
 
 – le service national du renseignement pénitentiaire pour un cadre d'action limité à l'enceinte des établissements pénitentiaires.
 
 NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.

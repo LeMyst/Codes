@@ -40,7 +40,7 @@ b) A la direction régionale de la police judiciaire de Paris :
 
 Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris individuellement désignés et habilités peuvent, sous la responsabilité du service de cette direction régionale mentionné à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 
-4° Service placé sous l'autorité du directeur de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre de la finalité mentionnée au 4° de l'article L. 811-3.
+4° Service placé sous l'autorité du directeur général de l'administration pénitentiaire : le Service national du renseignement pénitentiaire au titre de la finalité mentionnée au 4° de l'article L. 811-3.
 
 NOTA:
-Conformément au I de l'article 21 du décret n° 2023-1013 du 2 novembre 2023, ces dispositions entrent en vigueur le 1er décembre 2023.
+Conformément à l’article 8 du décret n°2026-30 du 28 janvier 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er février 2026.

@@ -1,6 +1,6 @@
 # Article R6123-16
 
-Le budget de l'établissement comporte dix sections financières :
+Le budget de l'établissement comporte onze sections financières :
 
 1° Une section dédiée au financement de l'alternance, divisée en cinq sous-sections :
 
@@ -34,6 +34,8 @@ a) Une sous-section dédiée aux dépenses de fonctionnement ;
 
 b) Une sous-section dédiée aux dépenses d'investissement ;
 
-10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5.
+10° Une section dédiée à l'affectation des contributions mentionnées au 15° de l'article L. 6123-5 ;
+
+11° Une section dédiée à la période de reconversion.
 
 France compétences peut créer toute autre section pour compte de tiers.

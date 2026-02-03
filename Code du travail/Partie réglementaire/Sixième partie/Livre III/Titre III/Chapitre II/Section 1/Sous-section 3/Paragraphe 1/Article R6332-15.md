@@ -4,7 +4,9 @@ I.-L'opérateur de compétences gère les contributions mentionnées aux 2°, 3�
 
 1° Des actions en alternance ;
 
-2° Des actions utiles au développement des compétences au bénéfice des entreprises de moins de cinquante salariés.
+2° Des actions utiles au développement des compétences au bénéfice des entreprises de moins de cinquante salariés ;
+
+3° Des périodes de reconversion.
 
 II.-L'opérateur de compétences gère, le cas échéant, dans le cadre de sections constituées en son sein à cet effet, les contributions supplémentaires ayant pour objet le développement de la formation professionnelle continue mentionnées à l'article L. 6332-1-2 qui lui sont versées :
 

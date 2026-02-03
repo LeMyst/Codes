@@ -6,7 +6,7 @@ II.-Une somme d'un montant égal à celui de l'abondement mentionné au I est ve
 
 III.-L'employeur adresse à la Caisse des dépôts et consignations les informations nécessaires à l'abondement mentionné au I, notamment son montant, le nom du salarié bénéficiaire ainsi que les données permettant son identification.
 
-IV.-Le versement de la somme mentionnée au II et la transmission des informations mentionnées au III sont effectués, au plus tard, le dernier jour du trimestre civil suivant la date de l'entretien professionnel pris en compte pour apprécier la période de six ans mentionnée au premier alinéa de l'article L. 6323-13.
+IV.-Le versement de la somme mentionnée au II et la transmission des informations mentionnées au III sont effectués, au plus tard, le dernier jour du trimestre civil suivant la date de l'entretien professionnel pris en compte pour apprécier la période de huit ans mentionnée au premier alinéa de l'article L. 6323-13.
 
 NOTA:
 Se référer aux modalités d'application prévues au III de l'article 4 du décret n° 2021-1916 du 30 décembre 2021.

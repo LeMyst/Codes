@@ -16,7 +16,7 @@ Ce tarif est majoré pour la fraction des déchets qui sont réceptionnés à co
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-| ésignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Tarif (en euros) |
+| Désignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Tarif (en euros) |
 | --- | --- | --- |
 | C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 15 |
 | H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | 7,5 |

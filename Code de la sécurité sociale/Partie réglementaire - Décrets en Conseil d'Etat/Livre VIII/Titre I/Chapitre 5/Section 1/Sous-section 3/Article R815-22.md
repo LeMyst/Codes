@@ -14,7 +14,7 @@ Toutefois, et indépendamment des ressources exclues par des dispositions partic
 
 5° La majoration spéciale prévue par l'article L. 52-2 du même code ;
 
-6° La prestation complémentaire pour recours à tierce personne et les majorations accordées aux personnes dont l'état de santé nécessite l'aide constante d'une tierce personne, lorsqu'elles sont allouées à ce titre en application de l'article L. 18 du même code ou en application des législations des accidents du travail, des assurances sociales et de l'aide sociale ;
+6° La prestation complémentaire pour recours à tierce personne et les majorations accordées aux personnes dont l'état de santé nécessite l'aide constante d'une tierce personne, lorsqu'elles sont allouées à ce titre en application de l'article L. 133-1 du même code ou en application des législations des accidents du travail, des assurances sociales et de l'aide sociale ;
 
 7° L'allocation de compensation accordée aux aveugles et grands infirmes travailleurs et généralement les avantages en espèces dont les intéressés bénéficient au titre de l'aide sociale ;
 

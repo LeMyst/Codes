@@ -8,6 +8,6 @@ et
 
 2°) par la fraction du produit des cotisations d'allocations familiales des employeurs et travailleurs indépendants, qui lui sont affectées par l'arrêté pris en application de l'article L. 251-8 ;
 
-3°) par la rémunération des coûts de gestion liés à l'application des dispositions du I de l'article R. 20-34 du code des postes et télécommunications.
+3°) par la rémunération des coûts de gestion liés à l'application des dispositions du I de l'article R. 20-34 du code des postes et des communications électroniques.
 
 Ce fonds supporte les charges de fonctionnement et les dépenses en capital des services administratifs de la caisse nationale. Les dépenses comportent également les dotations et, éventuellement, les subventions et avances destinées à couvrir les charges de fonctionnement et les dépenses en capital des services administratifs des caisses d'allocations familiales.

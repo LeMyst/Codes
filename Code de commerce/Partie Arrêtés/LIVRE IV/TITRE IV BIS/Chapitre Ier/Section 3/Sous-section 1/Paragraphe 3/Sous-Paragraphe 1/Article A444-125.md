@@ -8,3 +8,6 @@ Les prestations en matière d'affectation d'un bien immobilier dans le patrimoin
 | 106 | Renonciation à l'affectation prévue à l'article 526-15 | 113,20 € |
 | 107 | Acte comportant reprise, cession ou apport du bien affecté, prévu aux articles L. 526-16 et L. 526-17 | 113,20 € |
 | 108 | Évaluation d'un bien immobilier dont la valeur doit être déclarée en vertu de l'article L. 526-10 | 113,20 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

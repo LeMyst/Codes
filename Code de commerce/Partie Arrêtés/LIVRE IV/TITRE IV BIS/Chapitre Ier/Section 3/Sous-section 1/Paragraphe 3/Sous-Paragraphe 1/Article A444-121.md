@@ -14,3 +14,6 @@ Le partage volontaire ou judiciaire (numéro 101 du tableau 5) donne lieu à la 
 2° D'un émolument proportionnel non dégressif de 0,484 % sur les reprises en nature.
 
 L'émolument prévu au 1° n'est perçu qu'une seule fois sur les valeurs qui figurent dans plusieurs opérations successives comprises dans un même acte de liquidation.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

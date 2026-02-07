@@ -7,3 +7,6 @@ Les procès-verbaux de dire, de protestation, de difficulté, de bornage, de car
 | 174 | Procès-verbal de dires, de protestations, de difficultés, de bornage | 188,66 € |
 | 175 | Procès-verbal de carence | 75,46 € |
 | 176 | Procuration | 26,41 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

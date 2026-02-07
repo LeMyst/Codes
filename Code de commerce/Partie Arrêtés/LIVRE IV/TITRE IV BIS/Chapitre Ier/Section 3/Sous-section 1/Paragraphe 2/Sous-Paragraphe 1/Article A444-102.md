@@ -23,3 +23,6 @@ Les ventes par adjudication judiciaire de tous biens et droits autres que meuble
 Lorsque le montant de l'adjudication ne dépasse pas 30 €, le notaire n'a droit qu'au remboursement de ses débours, dûment justifiés.
 
 L'émolument est calculé séparément sur le prix d'adjudication de chaque lot, même si plusieurs lots distincts sont adjugés séparément au même adjudicataire. Toutefois, l'émolument est calculé sur le prix des lots réunis si l'adjudication a lieu après la réunion totale ou partielle des lots mis en vente.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

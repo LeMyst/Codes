@@ -10,3 +10,6 @@ Le prêt, l'obligation avec ou sans garantie, la reconnaissance de dette, et l'o
 | Plus de 60 000 € | 0,266 % |
 
 En cas de prêts par plusieurs personnes physiques au même emprunteur, dans le même acte, aux mêmes conditions, l'émolument est calculé sur le montant global des capitaux empruntés.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

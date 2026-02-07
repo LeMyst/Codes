@@ -5,3 +5,6 @@ La première vente à terme d'un local d'habitation mentionné à l'article A. 4
 1° Sur le premier acte contenant le contrat de vente à terme proprement dit, d'un émolument proportionnel non dégressif égal à celui correspondant à la tranche supérieure de l'émolument de vente, en tenant compte des distinctions établies à l'article A. 444-95 en fonction du nombre d'unités principales d'habitation concernées par le permis de construire ;
 
 2° Sur le second acte notarié portant transfert de propriété après achèvement des travaux de construction, d'un émolument calculé selon les modalités prévues à l'article A. 444-95, diminué de l'émolument déjà perçu en vertu du 1° du présent article, augmenté de 79,24 €.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

@@ -14,3 +14,6 @@ Le contrat de mariage, la contre-lettre, le changement de régime matrimonial (n
 | Plus de 60 000 € | 0,266 % |
 
 Les dots, sans distinction de lignes, donnent lieu en sus à la perception des émoluments prévus à l'article A. 444-67 pour les donations entre vifs.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

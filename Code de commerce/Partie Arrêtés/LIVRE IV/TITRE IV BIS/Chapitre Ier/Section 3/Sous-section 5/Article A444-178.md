@@ -11,3 +11,6 @@ En matière de succession, les actes et formalités afférents à l'affirmation 
 | De 2 135 € à 3 963 € | 0,236 % |
 | De 3 964 € à 9 146 € | 0,118 % |
 | Plus de 9 146 € | 0,059 % |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

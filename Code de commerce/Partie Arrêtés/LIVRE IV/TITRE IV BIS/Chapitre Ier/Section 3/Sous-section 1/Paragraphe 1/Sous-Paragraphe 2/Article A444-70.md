@@ -10,3 +10,6 @@ L'option par le conjoint survivant pour l'acquisition ou l'attribution de biens 
 | Plus de 60 000 € | 0,799 % |
 
 En cas d'option pour l'attribution de biens propres ou pour le prélèvement de biens communs, l'émolument perçu est imputé à due concurrence sur l'émolument de la liquidation et du partage si ceux-ci interviennent dans la même étude.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

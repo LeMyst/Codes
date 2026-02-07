@@ -60,3 +60,6 @@ Les actes et formalités relatifs au partage judiciaire et aux ventes volontaire
 | u) Requête en autorisation de vente par adjudication en application de l'article 260 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle | 37,73 € |
 | v) Requête en vente volontaire d'immeuble par acceptation de succession à concurrence de l'actif net ou en vacance de succession en application de l'article 261 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements duBas-Rhin, du Haut-Rhin et de la Moselle | 37,73 € |
 | w) Requête en autorisation de vente en cas de personne protégée étrangère en application de l'article 262 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle | 37,73 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

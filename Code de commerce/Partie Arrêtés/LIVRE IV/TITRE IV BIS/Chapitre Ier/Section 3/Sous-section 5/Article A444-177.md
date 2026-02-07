@@ -71,3 +71,6 @@ Les actes et formalités relatifs au livre foncier décret n° 2009-1193 du 7 oc
 | d) Attestation à titre de preuve de prescription acquisitive | 3,78 € |
 | e) Production des pièces cadastrales | 11,32 € |
 | f) Production d'autres preuves | 56,68 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

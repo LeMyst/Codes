@@ -18,3 +18,6 @@ Les prestations figurant aux numéros 182 à 195 du tableau 5 donnent lieu à la
 | 193 | Demande d'état (par réquisition) | 3,77 € |
 | 194 | Actes destinés à être publiés au fichier immobilier : actes d'état civil, attestations, demandes de cadastre, copies authentiques, copies sur papier libre, copies publicité foncière, extraits d'acte, réquisitions d'état | 339,58 € |
 | 195 | Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux nécessaires à l'exercice de la mission de service public prévue à l' article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat | 15,31 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

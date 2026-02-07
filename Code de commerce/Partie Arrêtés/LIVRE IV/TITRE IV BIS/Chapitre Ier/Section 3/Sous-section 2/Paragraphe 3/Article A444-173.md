@@ -12,3 +12,6 @@ Les prestations figurant aux numéros 212 à 219 du tableau 5 donnent lieu à la
 | 217 | Demande de remise de pénalité, pour des faits non imputables au notaire | 37,73 € |
 | 218 | Rédaction d'affiches ou d'insertions dans les journaux en vue de publications diverses (par texte rédigé) | 37,73 € |
 | 219 | Consultation de fichier public | 11,32 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

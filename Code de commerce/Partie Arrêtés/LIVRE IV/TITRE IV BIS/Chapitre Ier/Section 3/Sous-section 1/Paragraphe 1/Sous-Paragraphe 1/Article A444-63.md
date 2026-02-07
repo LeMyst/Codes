@@ -10,3 +10,6 @@ La déclaration de succession (numéro 8 du tableau 5) donne lieu à la percepti
 | Plus de 30 000 € | 0,426 % |
 
 Lorsque le notaire établit une déclaration de succession comprenant des meubles ayant fait l'objet d'une prisée donnant lieu à la perception d'un émolument prévu par la section 1 du présent chapitre, aucun émolument ne peut être perçu par le notaire sur la partie de l'actif brut correspondant à la valeur prisée de ces meubles.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

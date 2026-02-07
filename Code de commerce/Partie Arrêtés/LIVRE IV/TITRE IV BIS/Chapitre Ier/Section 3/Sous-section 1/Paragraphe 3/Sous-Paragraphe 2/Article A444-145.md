@@ -7,3 +7,6 @@ Les prestations relatives à l'insaisissabilité des droits de l'entrepreneur in
 | 139 | Déclaration d'insaisissabilité de la résidence principale, prévue aux articles L. 526-1 et L. 526-2 | 113,20 € |
 | 140 | Renonciation à l'insaisissabilité des droits sur la résidence principale ou à la déclaration mentionnée au numéro 139, prévue à la première phrase du deuxième alinéa de l'article L. 526-3 | 24,53 € |
 | 141 | Révocation de la renonciation mentionnée au numéro 140, prévue à la quatrième phrase du deuxième aliéna de l'article L. 526-3 | 49,05 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

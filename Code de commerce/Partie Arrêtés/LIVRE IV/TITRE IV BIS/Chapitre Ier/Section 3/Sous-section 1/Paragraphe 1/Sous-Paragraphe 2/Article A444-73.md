@@ -12,3 +12,6 @@ L'acceptation ou déclaration d'emploi (numéro 28 du tableau 5) donne lieu à l
 | De 6 500 € à 17 000 € | 0,532 % |
 | De 17 000 € à 60 000 € | 0,355 % |
 | Plus de 60 000 € | 0,266 % |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

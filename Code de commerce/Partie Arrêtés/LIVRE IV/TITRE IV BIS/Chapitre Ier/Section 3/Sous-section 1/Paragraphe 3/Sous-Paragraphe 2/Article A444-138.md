@@ -21,3 +21,6 @@ Les prestations relatives à l'hypothèque rechargeable (numéros 125 à 127 du 
 | Plus de 30 000 € | 0,133 % |
 
 Lorsque les actes mentionnés au 1° et au 2° sont reçus simultanément, ils ne donnent lieu à la perception que de l'émolument prévu au 1°.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

@@ -40,3 +40,6 @@ e) Pour la cession du bail mentionné au d, d'un émolument proportionnel au pri
 | Plus de 30 000 € | 0,905 % |
 
 4° Pour le bail à vie, à durée illimitée ou emphytéotique, d'un émolument proportionnel à la somme retenue pour les besoins de la publicité foncière, selon le barème prévu au 3°.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

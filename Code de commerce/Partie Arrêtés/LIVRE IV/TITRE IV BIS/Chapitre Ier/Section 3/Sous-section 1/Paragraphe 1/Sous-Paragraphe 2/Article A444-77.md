@@ -10,3 +10,6 @@ Le compte de tutelle (numéro 33 du tableau 5) donne lieu à la perception d'un 
 | Plus de 60 000 € | 0,532 % |
 
 S'il y a liquidation préalable dans le même acte, l'émolument de liquidation est perçu, en outre, sur la part revenant à celui auquel le compte est rendu sans, toutefois, que l'émolument puisse être cumulé en ce qui touche les valeurs figurant dans la liquidation et dans le compte.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

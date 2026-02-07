@@ -10,3 +10,6 @@ L'élaboration d'un projet de liquidation du régime matrimonial (numéro 42 du 
 | Plus de 60 000 € | 0,519 % |
 
 Lorsque le notaire désigné par le juge en application du 10° de l'article 255 du code civil établit l'acte de partage, l'émolument perçu en application du présent article s'impute sur celui perçu au titre de la rédaction de l'acte de partage conformément à l'article A. 444-121.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

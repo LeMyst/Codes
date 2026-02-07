@@ -7,3 +7,6 @@ Les remises prévues à la première phrase du sixième alinéa de l'article L. 
 2° Dans la limite d'un taux de remise maximal de 20 % applicable à la part d'émolument calculée sur les tranches d'assiette supérieures ou égales à 100 000 €, pour les autres prestations.
 
 Le taux des remises mentionnées à la deuxième phrase du sixième alinéa de l'article L. 444-2 peut être convenu entre le professionnel et son client pour la part d'émoluments excédant le seuil d'émoluments de 200 000 €. Les émoluments pris en compte pour la détermination de ce seuil sont ceux qui résultent de l'application des tarifs fixés par la présente section, après application des remises éventuellement consenties par le professionnel en application des alinéas précédents.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

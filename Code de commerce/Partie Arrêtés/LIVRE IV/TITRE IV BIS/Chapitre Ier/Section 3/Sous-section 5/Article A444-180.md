@@ -45,3 +45,6 @@ Les actes et formalités relatifs à l'exécution forcée immobilière donnent l
 | Sommation de comparaître et avis | Rédaction | 37,73 € |
 | Par notification | 15,09 € |
 | r) Mandat de représentation en exécution forcée, administration forcée ou distribution | 26,41 € |
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

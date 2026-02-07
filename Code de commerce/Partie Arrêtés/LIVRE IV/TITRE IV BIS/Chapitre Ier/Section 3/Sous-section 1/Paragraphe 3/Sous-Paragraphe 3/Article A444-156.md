@@ -21,3 +21,6 @@ La liquidation de reprise par acte séparé (numéro 157 du tableau 5) donne lie
 | Plus de 60 000 € | 0,399 % |
 
 3° Un émolument proportionnel aux reprises en nature de 0,484 % non dégressif.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

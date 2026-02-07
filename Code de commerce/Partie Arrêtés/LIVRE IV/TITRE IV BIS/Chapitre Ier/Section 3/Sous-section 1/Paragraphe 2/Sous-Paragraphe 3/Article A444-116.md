@@ -19,3 +19,6 @@ a) La mise en conformité du descriptif aux obligations légales ; ou
 b) La modification du descriptif afin de prendre en compte la volonté des copropriétaires ou des parties.
 
 Les émoluments prévus au 2°, 3° et 4° sont, le cas échéant, perçus en sus de celui prévu au 1.
+
+NOTA:
+Conformément au 1° de l'article 129 de l’arrêté du 28 février 2020 (NOR : ECOC2003886A), ces dispositions entrent en vigueur le 1er mars 2020. Se reporter aux conditions d'application prévues au 2° de l'article précité.

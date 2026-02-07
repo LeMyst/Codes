@@ -22,7 +22,9 @@ h) Les entretiens, auditions préalables et la comparution devant la Commission 
 
 i) L'assistance ou la représentation d'un conseiller lors des entretiens, auditions et comparution prévus à l'alinéa précédent ;
 
-j) Le suivi de la formation initiale obligatoire prévue aux articles L. 1442-1 et L. 1442-2.
+j) Le suivi de la formation initiale obligatoire prévue aux articles L. 1442-1 et L. 1442-2 ;
+
+k) Les entretiens déontologiques mentionnés au I de l'article L. 1421-3.
 
 2° Les activités juridictionnelles suivantes :
 
@@ -49,4 +51,4 @@ g) La relecture et la signature par le président de la formation de référé o
 Les modalités d'indemnisation des activités mentionnées au présent article sont fixées par le décret prévu au 2° de l'article R. 1423-51.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2018-625 du 17 juillet 2018, les formations initiales mentionnées au j de l'article R. 1423-55 du code du travail, engagées depuis le 1er février 2018, entrent dans le champ des activités indemnisables.
+Conformément à l'article 4 du décret n° 2025-1088 du 17 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur dans les conditions fixées au VIII de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027.

@@ -8,7 +8,7 @@ Le candidat inéligible est remplacé par un candidat désigné dans le respect 
 
 A défaut de rectification, si un ou plusieurs candidats inscrits sur une liste sont reconnus inéligibles, la liste intéressée est considérée comme n'ayant présenté aucun candidat.
 
-Lorsque la recevabilité de candidatures ou de listes n'est pas reconnue par l'administration, le délai de rectification de trois jours prévu à la première phrase du premier alinéa du II ne court à l'égard de cette liste qu'à compter de la notification du jugement du tribunal administratif lorsqu'il est saisi d'une contestation de la décision de l'administration, en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnées à l'article L. 914-1-2.
+Lorsque la recevabilité de candidatures ou de listes n'est pas reconnue par l'administration, le délai de rectification de trois jours prévu à la première phrase du premier alinéa du II ne court à l'égard de cette liste qu'à compter de la notification du jugement du tribunal administratif lorsqu'il est saisi d'une contestation de la décision de l'administration, en application des dispositions de l'article R. 211-585 du code général de la fonction publique.
 
 Si le fait motivant l'inéligibilité est intervenu après la date limite de dépôt des listes, le candidat inéligible peut être remplacé, sans qu'il y ait lieu de modifier la date des élections.
 

@@ -12,12 +12,12 @@ b) Soit des activités sociales et culturelles du comité social et économique 
 
 2° Lorsque le salarié bénéficiait des activités sociales et culturelles d'un comité social et économique d'établissement du cédant, il conserve le bénéfice :
 
-a) Des activités sociales et culturelles que ce comité continue à proposer pendant la durée mentionnée au 2° de l'article L. 3111-16-10 s'il demeure en fonction chez le cessionnaire ;
+a) Des activités sociales et culturelles que ce comité ou l'organe chargé de sa liquidation continue à proposer pendant la durée mentionnée au 2° de l'article L. 3111-16-10 s'il demeure en fonction chez le cessionnaire ;
 
-b) Des activités sociales et culturelles de ce comité social et économique d'établissement s'il demeure en fonction chez le cédant ;
+b) Des activités sociales et culturelles de ce comité social et économique d'établissement ou de l'organe chargé de sa liquidation s'il demeure en fonction chez le cédant ;
 
-c) Des activités sociales et culturelles du comité social et économique central du cédant lorsque le comité social et économique d'établissement n'est pas maintenu que ce soit chez le cessionnaire ou chez le cédant ;
+c) Des activités sociales et culturelles du comité social et économique central du cédant lorsque le comité social et économique d'établissement n'est pas maintenu ou lorsqu'il n'existe pas d'organe chargé de sa liquidation, que ce soit chez le cessionnaire ou chez le cédant ;
 
 3° Une convention de financement entre le cédant et le cessionnaire peut fixer les modalités de financement des activités sociales et culturelles bénéficiant aux salariés mentionnés par le présent article.
 
-Un accord entre le cédant et le comité social et économique central du cédant adopté à la majorité des membres titulaires élus de la délégation du personnel du comité prévoit les modalités et les délais de remboursement des dépenses générées par le bénéfice des activités sociales et culturelles et prises en charge par le comité. A défaut d'accord, le comité social et économique central du cédant remet au cédant les justificatifs de paiement de ces dépenses au plus tard un mois après la fin de la période de douze mois mentionnée au 2° de l'article L. 3111-16-10. Le cédant procède au remboursement de ces dépenses au plus tard deux mois après la réception de ces justificatifs.
+Un accord entre le cédant et le comité social et économique d'établissement du cédant ou l'organe chargé de sa liquidation ou à défaut le comité social et économique central du cédant adopté à la majorité des membres titulaires élus de la délégation du personnel du comité prévoit les modalités et les délais de financement des dépenses générées par le bénéfice des activités sociales et culturelles et prises en charge par le comité ou par l'organe chargé de sa liquidation. A défaut d'accord, le comité social et économique d'établissement du cédant ou l'organe chargé de sa liquidation ou à défaut le comité social et économique central du cédant remet au cédant les justificatifs de paiement de ces dépenses au plus tard un mois après la fin de la période de douze mois mentionnée au 2° de l'article L. 3111-16-10. Le cédant procède au financement de ces dépenses au plus tard deux mois après la réception de ces justificatifs.

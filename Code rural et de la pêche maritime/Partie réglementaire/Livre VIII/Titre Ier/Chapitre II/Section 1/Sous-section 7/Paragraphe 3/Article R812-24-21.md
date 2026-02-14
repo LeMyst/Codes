@@ -1,3 +1,3 @@
 # Article R812-24-21
 
-La section disciplinaire est saisie par une lettre adressée à son président. Ce document mentionne le nom, l'adresse et la qualité des personnes faisant l'objet des poursuites ainsi que les faits qui leur sont reprochés. Il est accompagné de toutes pièces justificatives.
+La commission de discipline prévue par l'article R. 812-24-6 et les différentes formations de jugement prévues aux articles R. 812-24-12 à R. 812-24-14 ne peuvent valablement délibérer que si au moins la moitié des membres appelés à siéger sont présents. Le nombre de membres présents ne peut être inférieur à trois et le président doit figurer parmi les présents.

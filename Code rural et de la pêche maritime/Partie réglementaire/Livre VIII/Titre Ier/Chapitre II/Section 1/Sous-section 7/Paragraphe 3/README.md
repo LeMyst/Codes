@@ -1,1 +1,1 @@
-Paragraphe 3 : Procédure disciplinaire
+Paragraphe 3 : Dispositions générales

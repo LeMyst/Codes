@@ -1,3 +1,3 @@
 # Article R814-30-5
 
-Les membres de la section disciplinaire momentanément empêchés sont remplacés par leurs suppléants pour la durée de cet empêchement. S'ils perdent la qualité au titre de laquelle ils siègent au Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire ou s'ils sont définitivement empêchés, ils sont remplacés pour la durée du mandat restant à courir ; il y a lieu de procéder ensuite à la désignation de nouveaux suppléants.
+Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire statuant en matière disciplinaire est assisté d'un greffe, mis à sa disposition par le ministre chargé de l'agriculture, exerçant les fonctions prévues par les articles R. 232-23 et R. 232-41 du code de l'éducation.

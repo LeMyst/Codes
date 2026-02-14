@@ -1,1 +1,1 @@
-Paragraphe 1 : Dispositions générales
+Paragraphe 1 : Discipline des usagers

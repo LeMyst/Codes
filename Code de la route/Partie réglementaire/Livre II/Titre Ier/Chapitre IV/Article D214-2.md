@@ -2,11 +2,9 @@
 
 Le Conseil supérieur de l'éducation routière comprend :
 
-1° Deux parlementaires :
+1° (Abrogé).
 
-- un sénateur et un député désignés par leurs assemblées respectives ;
-
-2° Cinq représentants de l'Etat :
+2° Sept représentants de l'Etat :
 
 - le délégué à la sécurité et à la circulation routières ou son représentant. Il préside ce conseil ;
 
@@ -17,6 +15,10 @@ Le Conseil supérieur de l'éducation routière comprend :
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
 - le directeur général du travail ou son représentant ;
+
+- le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+
+- le délégué interministériel à l'accessibilité ou son représentant.
 
 3° Un représentant de chacune des organisations syndicales d'employeurs et de salariés du secteur de l'enseignement de la conduite et de la sécurité routière, représentatives au niveau de la branche professionnelle au sens des articles L. 2122-5 et L. 2152-1 du code du travail ;
 
@@ -32,11 +34,11 @@ Le Conseil supérieur de l'éducation routière comprend :
 
 9° Un représentant des éditeurs pédagogiques spécialisés dans l'éducation routière désigné par le ministre chargé de la sécurité routière ;
 
-10° Un représentant des concepteurs de simulateurs de conduite désigné par le ministre chargé de la sécurité routière ;
+10° (Abrogé) ;
 
 11° Quatre personnalités qualifiées choisies en raison de leurs activités professionnelles ou de leurs travaux en matière d'éducation routière désignées par le ministre chargé de la sécurité routière.
 
-Les membres du Conseil supérieur mentionnés aux 3°, 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° sont nommés par arrêté du ministre chargé de la sécurité routière pour une durée de cinq ans.
+Les membres du Conseil supérieur mentionnés aux 3°, 4°, 5°, 6°, 7°, 8°, 9° et 11° sont nommés par arrêté du ministre chargé de la sécurité routière pour une durée de cinq ans.
 
 NOTA:
 Conformément à l'article 8 du décret n° 2022-1025 du 20 juillet 2022, ces dispositions entrent en vigueur le 1er septembre 2022.

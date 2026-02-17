@@ -1,12 +1,9 @@
 # Article D612-36-2-8
 
-Toute fraude ou tentative de fraude d'un candidat commise à l'occasion de la procédure dématérialisée de recrutement peut entraîner une décision d'annulation de ses candidatures et, le cas échéant, de retrait des propositions d'admission faites par les établissements.
+Dans le respect du calendrier fixé par arrêté du ministre chargé de l'enseignement supérieur, le chef d'établissement fixe les périodes et modalités des opérations d'inscription administrative en première année des formations conduisant au diplôme national de master.
 
-L'établissement dans lequel le candidat est inscrit ou les établissements auprès desquels il a candidaté signalent les faits au recteur de région académique territorialement compétent dans le ressort du domicile du candidat. Les décisions mentionnées au premier alinéa sont prononcées par le recteur de région académique.
+L'inscription administrative du candidat est de droit dès lors qu'il a accepté définitivement une proposition d'admission et qu'il remplit les conditions d'inscription fixées par le chef d'établissement, telles que prévues à l'article D. 612-4.
 
-Les décisions mentionnées au premier alinéa n'interviennent qu'après que le candidat a été mis à même, par l'autorité compétente mentionnée au précédent alinéa, de présenter des observations. A cette fin, il est informé des faits qui lui sont reprochés, de la possibilité de prendre connaissance de son dossier et de formuler, dans un délai de cinq jours ouvrables, des observations écrites et, le cas échéant, sur sa demande, des observations orales. Il peut se faire assister par un conseil ou représenter par un mandataire de son choix. Au regard des observations éventuellement produites et des éléments recueillis, l'autorité compétente mentionnée au précédent alinéa peut décider de ne pas donner suite aux poursuites. Elle en informe l'intéressé.
+Le candidat qui ne respecte pas le délai d'inscription administrative, ne remplit pas les conditions permettant cette inscription ou ne se présente pas, sans justification valable, le jour de la rentrée fixé par l'établissement est réputé avoir renoncé à son admission.
 
-Ces décisions sont notifiées à l'intéressé. Elles mentionnent les voies et les délais de recours. Elles sont transmises au ministre chargé de l'enseignement supérieur. Une copie est adressée aux établissements concernés.
-
-NOTA:
-Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.
+L'établissement peut signaler sur la plateforme dématérialisée, aux dates fixées par le calendrier prévu à l'article D. 612-36-2, les places qui sont ainsi laissées vacantes.

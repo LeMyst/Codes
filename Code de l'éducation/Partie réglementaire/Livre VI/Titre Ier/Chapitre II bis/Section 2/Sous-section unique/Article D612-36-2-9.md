@@ -1,8 +1,12 @@
 # Article D612-36-2-9
 
-Un comité éthique et scientifique est institué auprès du ministre chargé de l'enseignement supérieur. Ce comité veille notamment au respect des principes juridiques et éthiques qui fondent la procédure nationale de recrutement ainsi que les procédures mises en place par les établissements dispensant des formations conduisant à l'obtention du diplôme national de master pour l'examen des candidatures. Le comité formule toute proposition de nature à améliorer la transparence de ces procédures et leur bonne compréhension par les candidats.
+Toute fraude ou tentative de fraude d'un candidat commise à l'occasion de la procédure dématérialisée de recrutement peut entraîner une décision d'annulation de tout ou partie de ses candidatures et, le cas échéant, de retrait des propositions d'admission faites par les établissements.
 
-Les missions, la composition et les modalités de fonctionnement du comité sont fixées par arrêté du ministre chargé de l'enseignement supérieur. Ses membres ne sont pas rémunérés.
+L'établissement dans lequel le candidat est inscrit ou les établissements auprès desquels il a candidaté signalent les faits au recteur de région académique territorialement compétent dans le ressort du domicile du candidat. Les décisions mentionnées au premier alinéa sont prononcées par le recteur de région académique.
+
+Les décisions mentionnées au premier alinéa n'interviennent qu'après que le candidat a été mis à même, par l'autorité compétente mentionnée au précédent alinéa, de présenter des observations. A cette fin, il est informé des faits qui lui sont reprochés, de la possibilité de prendre connaissance de son dossier et de formuler, dans un délai de cinq jours ouvrables, des observations écrites et, le cas échéant, sur sa demande, des observations orales. Il peut se faire assister par un conseil ou représenter par un mandataire de son choix. Au regard des observations éventuellement produites et des éléments recueillis, l'autorité compétente mentionnée au précédent alinéa peut décider de ne pas donner suite aux poursuites. Elle en informe l'intéressé.
+
+Ces décisions sont notifiées à l'intéressé. Elles mentionnent les voies et les délais de recours. Elles sont transmises au ministre chargé de l'enseignement supérieur. Une copie est adressée aux établissements concernés.
 
 NOTA:
 Conformément à l'article 3 du décret n° 2023-113 du 20 février 2023, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

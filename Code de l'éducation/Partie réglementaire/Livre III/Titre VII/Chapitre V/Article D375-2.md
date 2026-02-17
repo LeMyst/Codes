@@ -76,7 +76,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 331-38 | Résultant du décret n° 2019-370 du 25 avril 2019 |
 | D. 331-40 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 331-41 | Résultant du décret n° 2010-100 du 27 janvier 2010 |
-| D. 331-42 | Résultant du décret n° 2015-1531 du 26 octobre 2015 |
+| D. 331-42 | Résultant du décret n° 2026-88 du 13 février 2026 |
 | D. 331-43 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 331-62 | Résultant du décret n° 2024-228 du 16 mars 2024 |
 | D. 331-63 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
@@ -104,7 +104,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 332-27 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 332-29 | Résultant du décret n° 2015-1929 du 31 décembre 2015 |
 | D. 333-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 333-2 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 333-2 | Résultant du décret n° 2026-88 du 13 février 2026 |
 | D. 333-3 | Résultant du décret n° 2018-614 du 16 juillet 2018 |
 | D. 333-4 | Résultant du décret n° 2025-513 du 10 juin 2025 |
 | D. 333-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
@@ -283,6 +283,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 337-158-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-159 et D. 337-160 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-172 à D. 337-175 | Résultant du décret n° 2019-176 du 7 mars 2019 |
+| D. 337-183 à D. 337-225 | Résultant du décret n° 2026-88 du 13 février 2026 |
 | D. 338-9 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 338-11 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 338-12 et D. 338-13 | Résultant du décret n° 2009-1145 du 22 septembre 2009 |
@@ -506,7 +507,7 @@ b) Au deuxième alinéa, les mots : " dans les conditions fixées par le troisi�
 
 48° A l'article D. 337-89, les mots : ", dans le cadre d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " à Wallis et Futuna " ;
 
-49° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code " sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
+49° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail , ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code " sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
 
 50° A l'article D. 337-93 :
 
@@ -542,7 +543,7 @@ b) Au troisième alinéa, les mots : " dans les conditions prévues au troisièm
 
 a) Au troisième alinéa, les mots : " pour les candidats relevant du 2° de l'article D. 337-127 " et les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
 
-b) Au quatrième alinéa, les mots :, dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail, " sont supprimés ;
+b) Au quatrième alinéa, les mots :, dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail , " sont supprimés ;
 
 61° Au sixième alinéa de l'article D. 337-132, les mots : " ou privé sous contrat " sont supprimés et les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
@@ -564,7 +565,7 @@ b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie "
 
 67° A l'article D. 337-145 :
 
-a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
+a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail , " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
 
 b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie scolaire " ;
 
@@ -579,6 +580,44 @@ a) Au premier alinéa, les mots : " par le recteur, dans le cadre de l'académie
 b) Au deuxième alinéa, les mots : " par le recteur, dans le cadre de l'académie " sont remplacés par les mots : " à Wallis et Futuna " et les mots : " ou, par délégation de celui-ci, par les recteurs d'académie " sont supprimés ;
 
 70° A l'article D. 337-157, les mots : " Sur autorisation du recteur d'académie " sont remplacés par les mots : " Sur autorisation du vice-recteur ou de l'autorité chargée de l'organisation de l'examen " et le mot : " inter-académiques " est supprimé ;
+
+70° bis Au sixième alinéa de l'article D. 337-184, les mots : “au sens de l'article L. 6113-1 du code du travail” sont remplacés par les mots : “permettant de faire valider les acquis de l'expérience” ;
+
+70° ter A l'article D. 337-186 :
+
+a) Au I°, les mots : “, ou dans les établissements d'enseignement technique privés mentionnés au chapitre III du titre IV du livre IV du code de l'éducation,” sont supprimés ;
+
+b) Au 2°, les mots : “définie au livre II de la sixième partie du code du travail” sont supprimés ;
+
+c) Au 3°, les mots : “définie au livre III de la sixième partie du code du travail” sont supprimés ;
+
+70° quater Au premier alinéa de l'article D. 337-187, les mots : “, pour les candidats inscrits dans un établissement public local d'enseignement, dans les conditions fixées par les articles D. 331-23 et suivants et, pour les candidats inscrits dans un établissement privé sous contrat, dans les conditions fixées par les articles D. 331-46 et suivants” sont remplacés par les mots : “dans les conditions fixées par les articles D. 331-23 et suivants” ;
+
+70° quinquies A l'article D. 337-190, les mots : “dans les établissements publics locaux d'enseignement et dans les établissements d'enseignement privés sous contrat” sont remplacés par les mots : “dans les établissements d'enseignement publics” ;
+
+70° sexies A l'article D. 337-191 :
+
+a) Au premier alinéa, les mots : “conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail” sont supprimés ;
+
+b) Au deuxième alinéa, les mots : “dans les conditions fixées par le troisième alinéa de l'article L. 6222-7-1 du code du travail” sont supprimés ;
+
+70 septies Au 2° de l'article D. 337-197, les mots : “, et dans les conditions fixées par les articles R. 6412-1 à R. 6412-6 du code du travail” sont supprimés ;
+
+70° octies Au dernier alinéa du 1° de l'article D. 337-199, les mots : “, dans les conditions prévues par l'article R. 6412-7 du code du travail” sont supprimés ;
+
+70° nonies A l'article D. 337-202, les mots : “conformément aux articles R. 6412-1 à R. 6412-7 du code du travail” sont supprimés ;
+
+70° decies A l'article D. 337-203, les mots : “, dans les conditions prévues par les articles R. 6412-1 à R. 6412-7 du code du travail,” sont supprimés ;
+
+70° undecies Au premier alinéa de l'article D. 337-204, les mots : “ou privé sous contrat” sont supprimés et les mots : “porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public "formation continue et insertion professionnelle" (GIP-FCIP)” sont remplacés par les mots : “relevant d'un organisme public” ;
+
+70° duodecies A l'article D. 337-217, les mots : “, dans le cadre d'une académie ou d'un groupement d'académies” sont remplacés par les mots : “à Wallis-et-Futuna” ;
+
+70° terdecies Au deuxième alinéa de l'article D. 337-219, les mots : “conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code,” sont remplacés par les mots : “ou d'un contrat de professionnalisation” ;
+
+70° quaterdecies Au deuxième alinéa de l'article D. 337-222, il est ajouté une phrase ainsi rédigée :
+
+“Toutefois, à défaut d'un enseignant-chercheur, un professeur agrégé, un professeur certifié ou un professeur de lycée professionnel exerçant dans un établissement d'enseignement public peut être désigné.”
 
 71° A l'article D. 338-36, les mots : " du rectorat de leur domicile " sont remplacés par les mots : " des services du vice-rectorat " ;
 
@@ -596,7 +635,7 @@ b) Au deuxième alinéa, les mots : " par le recteur d'académie " sont remplac�
 
 75° L'article D. 341-1 est ainsi rédigé :
 
-" Art. D. 341-1.-Les dispositions des articles D. 331-23 à D. 331-42 sont applicables aux élèves de l'enseignement agricole. " ;
+" Art. D. 341-1.-Les dispositions des articles D. 331-23 à D. 331-42 sont applicables aux élèves de l'enseignement agricole, sauf en ce qui concerne le brevet national des métiers d'art mentionné à l'article D. 331-42. " ;
 
 76° A l'article D. 351-5, les deuxième, troisième, quatrième, cinquième et sixième alinéas sont remplacés par un alinéa ainsi rédigé :
 

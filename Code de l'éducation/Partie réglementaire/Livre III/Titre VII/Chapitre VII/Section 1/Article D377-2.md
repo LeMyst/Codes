@@ -199,6 +199,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-158 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-158-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-159 et D. 337-160 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-183 à D. 337-186 et D. 337-190 à D. 337-225 | Résultant du décret n° 2026-88 du 13 février 2026 |
 | D. 338-9 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 338-11 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 338-12 et D. 338-13 | Résultant du décret n° 2009-1145 du 22 septembre 2009 |
@@ -440,6 +441,40 @@ b) Au deuxième alinéa, les mots : " dans le cadre de l'académie " sont rempla
 
 61° A l'article D. 337-157, le mot : " inter-académiques " est supprimé ;
 
+61° bis Au sixième alinéa de l'article D. 337-184, les mots : “au sens de l'article L. 6113-1 du code du travail” sont remplacés par les mots : “permettant de faire valider les acquis de l'expérience” ;
+
+61° ter Les quatre premiers alinéas de l'article D. 337-186 sont remplacés par un alinéa ainsi rédigé :
+
+“Le brevet national des métiers d'art est préparé par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue.” ;
+
+61° quater A l'article D. 337-190, les mots : “dans les établissements publics locaux d'enseignement” sont remplacés par les mots : “dans les établissements d'enseignement secondaire publics” ;
+
+61° quinquies A l'article D. 337-191 :
+
+a) Au premier alinéa, les mots : “conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail” sont supprimés ;
+
+b) Au deuxième alinéa, les mots : “dans les conditions fixées par le troisième alinéa de l'article L. 6222-7-1 du code du travail” sont supprimés ;
+
+61° sexies A l'article D. 337-194, après le mot : “français”, est inséré le mot : “, néo-calédoniens” ;
+
+61° septies Au 2° de l'article D. 337-197, les mots : “, et dans les conditions fixées par les articles R. 6412-1 à R. 6412-6 du code du travail” sont supprimés ;
+
+61° octies Au dernier alinéa du 1° de l'article D. 337-199, les mots : “, dans les conditions prévues par l'article R. 6412-7 du code du travail” sont supprimés ;
+
+61° nonies A l'article D. 337-202, les mots : “conformément aux articles R. 6412-1 à R. 6412-7 du code du travail” sont supprimés ;
+
+61° decies A l'article D. 337-203, les mots : “, dans les conditions prévues par les articles R. 6412-1 à R. 6412-7 du code du travail,”sont supprimés ;
+
+61° undecies Au premier alinéa de l'article D. 337-204, les mots : “porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “formation continue et insertion professionnelle” (GIP-FCIP)” sont remplacés par les mots : “relevant d'un organisme public” ;
+
+61° duodecies A l'article D. 337-217, les mots : “d'une académie ou d'un groupement d'académies” sont remplacés par les mots : “du territoire ou par mutualisation avec des académies de métropole ou d'outre-mer” ;
+
+61° terdecies Au deuxième alinéa de l'article D. 337-219, les mots : “conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code” sont remplacés par les mots : “ou d'un contrat de professionnalisation” ;
+
+61° quaterdecies Au deuxième alinéa de l'article D. 337-222, il est ajouté une phrase ainsi rédigée :
+
+“Toutefois, à défaut d'un enseignant-chercheur, un professeur agrégé, un professeur certifié ou un professeur de lycée professionnel exerçant dans un établissement d'enseignement public peut être désigné.”
+
 62° A l'article D. 338-36, les mots : " du rectorat de leur domicile " sont remplacés par les mots : " des services du vice-rectorat " ;
 
 63° A l'article D. 338-40, après les mots : " sont organisées " sont insérés les mots : " en Nouvelle-Calédonie ou " ;
@@ -469,6 +504,3 @@ b) Au troisième alinéa, les mots : " Le médecin " sont remplacés par les mot
 68° Le premier alinéa de l'article D. 351-28-1 est ainsi rédigé :
 
 " Par dérogation aux dispositions du premier et du troisième alinéa de l'article D. 351-28, les candidats qui bénéficient d'une scolarité spécialement adaptée pour tenir compte d'un trouble du neuro-développement adressent directement leur demande d'aménagements des conditions d'examen ou de concours national à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. "
-
-NOTA:
-Conformément à l’article 5 du décret n° 2025-328 du 10 avril 2025, ces dispositions entrent en vigueur à la rentrée scolaire 2025, soit le 1er septembre 2025.

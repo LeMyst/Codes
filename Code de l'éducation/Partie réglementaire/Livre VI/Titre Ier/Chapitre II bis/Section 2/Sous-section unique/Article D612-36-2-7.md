@@ -1,9 +1,8 @@
 # Article D612-36-2-7
 
-Dans le respect du calendrier fixé par arrêté du ministre chargé de l'enseignement supérieur, le chef d'établissement fixe les périodes et modalités des opérations d'inscription administrative en première année des formations conduisant au diplôme national de master.
+Pour l'inscription définitive en première année d'une formation du deuxième cycle de l'enseignement supérieur qui n'est pas proposée sur la plateforme dématérialisée, que celle-ci soit dispensée par un établissement public d'enseignement supérieur ou par un établissement privé d'enseignement supérieur, le candidat produit l'attestation délivrée par cette plateforme indiquant qu'il n'y est pas inscrit. Cette attestation peut être téléchargée depuis la plateforme à tout moment de la procédure.
 
-L'inscription administrative du candidat est de droit dès lors qu'il a accepté définitivement une proposition d'admission et qu'il remplit les autres conditions d'inscription fixées par le chef d'établissement.
+Les établissements dispensant les formations concernées s'assurent du respect de cette formalité par leurs étudiants.
 
-Le candidat qui ne respecte pas le délai d'inscription administrative, ne remplit pas les conditions permettant cette inscription ou ne se présente pas, sans justification valable, le jour de la rentrée fixé par l'établissement est réputé avoir renoncé à son admission.
-
-L'établissement peut signaler sur la plateforme dématérialisée, aux dates fixées par le calendrier prévu à l'article D. 612-36-2, les places qui sont ainsi laissées vacantes.
+NOTA:
+Conformément à l’article 10 du décret n° 2024-149 du 27 février 2024, ces dispositions s'appliquent à compter de la campagne de candidature et de recrutement dans les formations qui débutent à compter de la prochaine rentrée universitaire.

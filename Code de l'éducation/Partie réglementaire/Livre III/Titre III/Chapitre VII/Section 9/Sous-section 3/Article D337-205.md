@@ -1,0 +1,3 @@
+# Article D337-205
+
+Les candidats ayant préparé le brevet national des métiers d'art par la voie scolaire dans un établissement privé hors contrat, par la voie de la formation professionnelle continue dans un établissement privé, ou par la voie de l'apprentissage dans un centre de formation d'apprentis non habilité, les candidats ayant suivi, quel que soit leur statut, une préparation à distance ainsi que les candidats qui se présentent au titre de leur expérience professionnelle en application du 2° de l'article D. 337-200, passent l'ensemble des épreuves ou des unités constitutives prévues au 1° de l'article D. 337-199 intégralement sous forme d'épreuves ponctuelles.

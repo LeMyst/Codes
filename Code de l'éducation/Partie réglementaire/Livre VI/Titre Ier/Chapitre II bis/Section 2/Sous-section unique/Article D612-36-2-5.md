@@ -1,6 +1,6 @@
 # Article D612-36-2-5
 
-I.-Un même candidat peut candidater, via la plateforme dématérialisée, à la fois dans des formations en alternance et dans des formations ne relevant pas de l'alternance.
+I.-Un même candidat peut candidater, via la plateforme dématérialisée, à la fois dans des formations en alternance, dans des formations ne relevant pas de l'alternance et dans des formations ouvertes à des étudiants alternants et des étudiants non alternants.
 
 II.-Pour les formations relevant exclusivement de l'alternance, les articles D. 612-36-2-1 à D. 612-36-2-4 sont applicables sous réserve des dispositions suivantes.
 
@@ -28,11 +28,13 @@ B.-Lors de la phase complémentaire, sont ouvertes aux candidats les formations 
 
 Les candidats ayant provisoirement accepté une proposition d'admission et ceux placés en recherche de contrat ou sur liste d'attente à l'issue de la phase principale conservent leur rang de classement au cours de la phase complémentaire. Les nouvelles candidatures font l'objet d'un rang de classement ou d'un refus. Les nouveaux candidats classés sont placés en recherche de contrat.
 
-Lors de la phase complémentaire de candidature, dans le délai fixé par le calendrier prévu au II de l'article D. 612-36-2, le candidat classe par ordre de préférence la totalité de ses candidatures, qu'elles relèvent ou non d'une formation en alternance. Toute proposition d'admission acceptée provisoirement lors de la phase principale est automatiquement classée dernière dans cet ordre de préférence.
+Lors de la phase complémentaire de candidature, dans le délai fixé par le calendrier prévu au II de l'article D. 612-36-2, le candidat classe par ordre de préférence toutes ses candidatures qu'il souhaite maintenir dans le cadre de la phase complémentaire, qu'elles relèvent ou non d'une formation en alternance.
 
 Le candidat qui ne procède pas à ce classement perd, pour l'ensemble des formations auxquelles il a candidaté, qu'elles relèvent ou non de l'alternance, le bénéfice de ses placements sur liste d'attente, de ses placements en recherche de contrat et de ses nouvelles candidatures. S'il dispose d'une proposition d'admission acceptée provisoirement, il voit cette acceptation devenir définitive, ce qui clôt la procédure pour ce qui le concerne.
 
-Les candidats téléversent dans la plateforme, pour chaque placement en recherche de contrat, un contrat d'alternance ou un certificat d'engagement avec un employeur délivré par le centre de formation en apprentissage partenaire de la formation.
+Si un candidat fait valoir, via la plateforme dématérialisée, des circonstances exceptionnelles de nature à justifier qu'il n'a pas procédé au classement de ses candidatures issues de la phase principale, il peut se voir attribuer un placement sur liste d'attente ou un placement en recherche de contrat dans les formations auxquelles il avait candidaté lors de la phase principale, en fonction de sa position initiale dans le classement.
+
+Les candidats téléversent dans la plateforme, et dans un délai fixé par le calendrier prévu à l'article D. 612-36-2, pour chaque placement en recherche de contrat, un contrat d'alternance ou un certificat d'engagement avec un employeur délivré par le centre de formation en apprentissage partenaire de la formation.
 
 L'établissement valide, via la plateforme et dans son ordre d'arrivée, le document téléversé, dès lors que celui-ci est conforme aux exigences pédagogiques de la formation et aux dispositions législatives et réglementaires. Après validation du document téléversé, une proposition d'admission ou, lorsque les capacités d'accueil sont atteintes, un placement sur liste d'attente est transmis au candidat. A défaut de décision prise par l'établissement dans le délai prévu par le calendrier mentionné au II de l'article D. 612-36-2, le document téléversé par le candidat est considéré comme validé par l'établissement.
 
@@ -49,3 +51,17 @@ Les placements en recherche de contrat ou sur liste d'attente dont ils bénéfic
 Des propositions d'admission leur sont faites en fonction des places vacantes dans les formations concernées, sous réserve de la validation par l'établissement d'un contrat ou d'un certificat d'engagement qu'ils ont préalablement téléversé ou qu'ils téléversent pendant cette phase.
 
 Dès que le candidat reçoit une proposition d'admission, il perd le bénéfice des placements en recherche de contrat ou sur liste d'attente dans des formations relevant de l'alternance qu'il a moins bien classés dans son ordre de préférence. Le candidat peut déposer un contrat après acceptation définitive d'une proposition d'admission dans une formation qui ne relève pas de l'alternance.
+
+Au terme de la phase complémentaire d'admission, le candidat disposant encore de placements en recherche de contrat au titre de certaines de ses candidatures est informé qu'il n'a pas été donné de suite favorable à ces candidatures. Ces décisions, prises par les chefs des établissements concernés, sont notifiées au candidat via la plateforme dématérialisée.
+
+III. - Pour les formations ouvertes à la fois à des étudiants alternants et non alternants, les articles D. 612-36-2-1 à D. 612-36-2-4 sont applicables sous réserve des dispositions suivantes.
+
+Un candidat disposant soit d'une proposition d'admission, soit d'un placement sur liste d'attente, peut téléverser dans la plateforme un contrat d'alternance ou un certificat d'engagement avec un employeur délivré par le centre de formation en apprentissage partenaire de la formation. Ainsi, l'acceptation définitive d'une proposition d'admission ne clôt pas la procédure pour ce candidat.
+
+L'établissement valide, via la plateforme, le document téléversé dès lors que celui-ci est conforme aux exigences pédagogiques de la formation et aux dispositions législatives et réglementaires. A défaut de décision prise par l'établissement dans le délai prévu par le calendrier mentionné au II de l'article D. 612-36-2, le document téléversé par le candidat est considéré comme validé par l'établissement.
+
+Le candidat qui bénéficie d'un placement sur liste d'attente et dont le contrat a été validé conserve ce placement sur liste d'attente.
+
+En cas de refus de validation du document par l'établissement, le candidat conserve sa proposition d'admission ou son placement sur liste d'attente et peut de nouveau téléverser un contrat ou un certificat d'engagement pour cette formation.
+
+Le candidat disposant d'une proposition d'admission acceptée définitivement et d'un contrat ou d'un certificat d'engagement validé est inscrit dans la formation en tant qu'alternant.

@@ -6,7 +6,7 @@ Trois voies de formation sont organisées dans les lycées :
 
 2° La voie technologique conduisant au diplôme national du baccalauréat technologique et au diplôme national du brevet de technicien qui porte mention d'une spécialité technique. Le diplôme national du brevet de technicien atteste que ses titulaires sont aptes à exercer une activité de technicien ;
 
-3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle.
+3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle, du baccalauréat professionnel, du brevet des métiers d'art, du certificat de spécialisation et du brevet national des métiers d'art. Ces diplômes portent mention d'une spécialité professionnelle.
 
 Les voies générale et technologique se composent :
 
@@ -18,7 +18,9 @@ La voie professionnelle comprend :
 
 a) Un cycle de deux ans conduisant à un des diplômes de niveau 3 dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
 
-b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle peut être organisée en familles de métiers définies par arrêté du ministre chargé de l'éducation.
+b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle peut être organisée en familles de métiers définies par arrêté du ministre chargé de l'éducation ;
+
+c) Un cycle de référence de trois ans conduisant au brevet national des métiers d'art constitué par les classes de première année, deuxième année et troisième année.
 
 Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et professionnelle ainsi qu'entre les cycles de la voie professionnelle.
 

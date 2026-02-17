@@ -1,1 +1,1 @@
-Section 5 : Le diplôme national du brevet des métiers d'art.
+Section 5 : Le brevet des métiers d'art

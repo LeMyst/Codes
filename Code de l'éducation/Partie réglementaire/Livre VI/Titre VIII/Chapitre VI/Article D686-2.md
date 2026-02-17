@@ -49,15 +49,11 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 612-34 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 612-35 et D. 612-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-36-1 | Résultant du décret n° 2016-672 du 25 mai 2016 |
-| D. 612-36-2 | Résultant du décret n° 2025-151 du 19 février 2025 |
-| D. 612-36-2-1 | Résultant du décret n° 2024-149 du 27 février 2024 |
+| D. 612-36-2 et D. 612-36-2-1 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-2-2 | Résultant du décret n° 2025-151 du 19 février 2025 |
-| D. 612-36-2-3 | Résultant du décret n° 2024-149 du 27 février 2024 |
-| D. 612-36-2-4 à D. 612-36-2-5 | Résultant du décret n° 2025-151 du 19 février 2025 |
-| D. 612-36-2-6 | Résultant du décret n° 2024-149 du 27 février 2024 |
-| D. 612-36-2-7 | Résultant du décret n° 2025-151 du 19 février 2025 |
-| D. 612-36-2-8 à D. 612-36-2-9 | Résultant du décret n° 2023-113 du 20 février 2023 |
-| D. 612-36-3-1 | Résultant du décret n° 2021-752 du 11 juin 2021 |
+| D. 612-36-2-3 | Résultant du décret n° 2026-91 du 13 février 2026 |
+| D. 612-36-2-4 | Résultant du décret n° 2025-151 du 19 février 2025 |
+| D. 612-36-2-5 à D. 612-36-2-10 et D. 612-36-3-1 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-4 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-37 à D. 612-41 D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-6 | Résultant du décret n° 2020-1180 du 25 septembre 2020 |

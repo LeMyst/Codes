@@ -18,8 +18,4 @@ III.-Les dérogations à la procédure dématérialisée mentionnée aux alinéa
 
 IV.-Le nombre maximal de candidatures par candidat et les modalités de décompte de celles-ci sont fixés par arrêté du ministre chargé de l'enseignement supérieur.
 
-V.-Lorsqu'à l'issue de la phase complémentaire, le nombre total de candidats admis ou placés en recherche de contrat est, pour une formation donnée, relevant ou non de l'alternance, inférieur à la capacité d'accueil de la formation, les établissements peuvent poursuivre le recrutement en dehors de la plateforme nationale mentionnée au I pour pourvoir les places restantes.
-
-Au terme de la procédure dématérialisée, lorsque les capacités d'accueil d'une formation en alternance ne sont pas atteintes, les candidats qui, dans le cadre de la procédure dématérialisée gérée par la plateforme nationale, ont été placés en recherche de contrat sans avoir pu, avant le terme de cette procédure, téléverser un contrat d'alternance ou un certificat d'engagement, peuvent, sous réserve de leur rang de classement et dans la limite des capacités d'accueil de la formation, commencer la formation dans les conditions prévues à l'article L. 6222-12-1 du code du travail. Les candidats admis à commencer la formation en sont informés par une décision du chef d'établissement qui leur est notifiée en dehors de la plateforme.
-
-Les établissements indiquent dans la plateforme le nombre de candidats recrutés en dehors de la procédure nationale dématérialisée.
+V. - Au cours des différentes phases de la procédure dématérialisée, un candidat reçoit notification des décisions le concernant via la plateforme dématérialisée. Il est réputé avoir reçu la notification à la date de sa première consultation, certifiée par l'accusé de réception délivré par la plateforme, ou, à défaut de consultation dans un délai de quinze jours à compter de la date de mise à disposition de la décision sur la plateforme, à l'issue de ce délai.

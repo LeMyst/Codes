@@ -8,7 +8,7 @@ Le formulaire peut, le cas échéant, figurer sur le même document que la formu
 
 Le formulaire comporte le rappel des dispositions du deuxième alinéa de l'article R. 225-77 et l'indication de la date avant laquelle, conformément aux statuts, il est reçu par la société pour qu'il en soit tenu compte ; lorsqu'il a été convenu entre la société et les intermédiaires habilités par elle que ces derniers n'accepteraient plus de transmettre à la société des formulaires de vote reçus par eux après une date antérieure à celle fixée par la société, il est fait mention de cette date.
 
-Sont annexés au formulaire :
+Les documents suivants sont annexés au formulaire sauf si celui-ci indique qu'ils sont disponibles sur un site internet dont l'adresse est précisée :
 
 1° Le texte des résolutions proposées accompagné d'un exposé des motifs et de l'indication de leur auteur ;
 

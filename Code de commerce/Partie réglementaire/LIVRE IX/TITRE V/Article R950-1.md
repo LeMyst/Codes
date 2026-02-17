@@ -216,9 +216,13 @@ Les articles R. 221-3 et R. 221-4 sont applicables dans leur rédaction résulta
 
 L'article R. 221-5 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
 
+L'article R. 221-7 est applicable dans sa rédaction résultant du décret n° 2023-1394 du 30 décembre 2023 ;
+
 L'article R. 223-10 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017 ;
 
 L'article R. 223-11 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+
+L'article R. 223-18 est applicable dans sa rédaction résultant du décret n° 2023-1394 du 30 décembre 2023 ;
 
 L'article R. 223-20 est applicable dans sa rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
@@ -262,13 +266,27 @@ L'article R. 225-60 est applicable dans sa rédaction résultant du décret n° 
 
 L'article R. 225-60-2 est applicable dans sa rédaction résultant du décret n° 2019-1308 du 6 décembre 2019 ;
 
-Les articles R. 225-61-1 et R. 225-61-2 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+L'article R. 225-61-1 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
-L'article R. 225-63 est applicable dans sa rédaction résultant du décret n° 2023-430 du 2 juin 2023 ;
+Les articles R. 225-61-2 et R. 225-61-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+
+L'article R. 225-63 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
 L'article R. 225-66 est applicable dans sa rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
-Les articles R. 225-67, R. 225-70, R. 225-72, R. 225-73, R. 225-79, R. 225-80, R. 225-81, R. 225-82 et R. 225-86 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 225-67 et R. 225-70 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+
+L'article R. 225-71 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
+
+Les articles R. 225-72 et R. 225-73 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+
+L'article R. 225-76 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
+
+Les articles R. 225-79, R. 225-80, R. 225-81 et R. 225-82 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+
+L'article R. 225-83 est applicable dans sa rédaction résultant du décret n° 2023-1394 du 30 décembre 2023 ;
+
+Les articles R. 225-86 et R. 225-88 sont applicables dans leur rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
 Les articles R. 225-95, R. 225-97 et R. 225-99 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
@@ -311,6 +329,8 @@ L'article R. 227-1-1 est applicable dans sa rédaction résultant du décret n°
 L'article R. 227-2 est applicable dans sa rédaction résultant du décret n° 2019-1097 du 28 octobre 2019 ;
 
 Les articles R. 228-3 et R. 228-4 sont applicables dans leur rédaction résultant du décret n° 2022-888 du 14 juin 2022 ;
+
+L'article R. 228-6 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
 Les articles R. 228-7, R. 228-8 et R. 228-10 sont applicables dans leur rédaction résultant du décret n° 2018-1226 du 24 décembre 2018 ;
 
@@ -362,7 +382,11 @@ Les articles R. 22-10-1 à R. 22-10-17, R. 22-10-18, R. 22-10-19, R. 22-10-20 à
 
 Les articles R. 22-10-17-1, R. 22-10-19-1 et R. 22-10-29-1 sont applicables dans leur rédaction résultant du décret n° 2024-904 du 8 octobre 2024.
 
-Les articles R. 22-10-23, R. 22-10-23-1, R. 22-10-23-2, R. 22-10-30-1 et R. 22-10-32 sont applicables dans leur rédaction résultant du décret n° 2025-1198 du 11 décembre 2025.
+Les articles R. 22-10-23, R. 22-10-23-1 et R. 22-10-23-2 sont applicables dans leur rédaction résultant du décret n° 2025-1198 du 11 décembre 2025 ;
+
+L'article R. 22-10-28 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
+
+Les articles R. 22-10-30-1 et R. 22-10-32 sont applicables dans leur rédaction résultant du décret n° 2025-1198 du 11 décembre 2025.
 
 3° Le livre III, à l'exception des articles R. 321-1 à R. 321-73 ;
 

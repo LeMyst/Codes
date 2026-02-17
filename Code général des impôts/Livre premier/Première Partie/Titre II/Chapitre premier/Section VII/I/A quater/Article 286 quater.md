@@ -14,3 +14,7 @@ III.-Un arrêté du ministre chargé du budget fixe les conditions de tenue de c
 
 NOTA:
 Conformément au II de l’article 34 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux livraisons de biens meubles corporels pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er janvier 2020.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du II du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées au premier alinéa de l'article L. 216-49 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

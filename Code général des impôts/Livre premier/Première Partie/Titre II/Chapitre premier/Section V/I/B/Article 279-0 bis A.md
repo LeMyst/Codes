@@ -37,3 +37,8 @@ I bis.-Relèvent également du taux mentionné au I du présent article les trav
 II.-A.-En application du 4° du I du présent article, les terrains des logements à construire sont situés, à la date du dépôt de la demande de permis de construire, sur le territoire d'une commune comptant déjà plus de 25 % de logements locatifs sociaux, au sens de l'article L. 302-5 du code de la construction et de l'habitation, ou dans un quartier prioritaire de la politique de la ville, au sens du 8° du I de l'article 278 sexies du présent code.
 
 B.-En application du 4° du I du présent article, la proportion du nombre des logements locatifs sociaux, au sens du 1° du I de l'article 278 sexies, excède 25 % des logements de l'ensemble immobilier.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du 3° du I et du II du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux 3° et 4° de l'article L. 221-66 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

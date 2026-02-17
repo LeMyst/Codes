@@ -64,3 +64,7 @@ Le crédit de taxe sur la valeur ajoutée constaté sur la déclaration mentionn
 
 NOTA:
 Conformément au II de l’article 86 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des deuxième à dernier alinéas du 1 et 4 du II, second alinéa du 2, 3 à l'exception du troisième alinéa, et 4 à 6 du III du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées au 3° de l'article L. 224-5 et articles L. 161-1, L. 171-1, L. 224-10 et L. 224-23 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

@@ -29,3 +29,8 @@ V ter. - Le règlement de la taxe sur la valeur ajoutée due au titre de l'acqui
 VI. - Les dispositions de l'article 297 A ne sont pas applicables aux livraisons de moyens de transport neufs visées au II.
 
 VII. - Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent article et, notamment, en tant que de besoin, les mesures permettant, en vue d'en assurer le contrôle, l'identification des moyens de transport neufs.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des V bis et V ter du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 171-1 et au dernier alinéa de l'article L. 232-11 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

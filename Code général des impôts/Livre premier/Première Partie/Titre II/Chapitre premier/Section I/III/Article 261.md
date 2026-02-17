@@ -156,3 +156,7 @@ L'arrêté mentionné au premier alinéa du présent 8 peut prévoir que l'exon�
 
 NOTA:
 Modifications effectuées en conséquence de l’article 18 de la loi n° 2014-1654 du 29 décembre 2014.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des troisième à dixième et dernier alinéas du d du 1° et 1° ter du 7du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux deuxième alinéa de l'article L. 213-82 et dernier alinéa de l'article L. 213-107 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

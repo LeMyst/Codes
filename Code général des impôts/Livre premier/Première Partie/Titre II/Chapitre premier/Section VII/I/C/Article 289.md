@@ -45,3 +45,8 @@ VII. – Pour satisfaire aux conditions prévues au V, l'assujetti peut émettre
 3° Soit sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, dans des conditions précisées par décret ;
 
 4° Soit en recourant à la procédure de cachet électronique qualifié au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE. Un décret précise les conditions d'émission, de cachet et de stockage de ces factures.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du 3 du I, du IV et du VII du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées au second alinéa de l'article L. 216-41, au premier alinéa de l'article L. 216-42 et au premier alinéa de l'article L. 216-44 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

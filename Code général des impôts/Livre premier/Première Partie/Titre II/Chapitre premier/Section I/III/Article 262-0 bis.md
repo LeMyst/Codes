@@ -35,3 +35,8 @@ IV.-Un décret en Conseil d'Etat définit :
 2° Les conditions et procédures préalables à la certification de la plate-forme mentionnée au II ;
 
 3° Les modalités techniques permettant le respect des obligations mentionnées au même II.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des deuxième à dernier alinéas du I et le II du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées au 4° de l'article L. 213-15 et article L. 215-40 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

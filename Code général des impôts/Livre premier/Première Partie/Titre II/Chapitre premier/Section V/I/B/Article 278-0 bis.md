@@ -94,3 +94,7 @@ NOTA:
 Conformément au II de l'article 42 de la loi n° 2025-127 du 14 février 2025, ces dispositions entrent en vigueur le 1er octobre 2025.
 
 Conformément au III dudit article, la perte de recettes résultant pour l'Etat du présent article est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des a à g du 2° du A du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux 1°, 2° et 3° de l'article L. 213-182 et au premier alinéa de l'article L. 213-183 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

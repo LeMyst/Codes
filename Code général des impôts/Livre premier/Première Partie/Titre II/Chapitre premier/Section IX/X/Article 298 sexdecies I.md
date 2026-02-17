@@ -25,3 +25,8 @@ Ce registre est conservé pendant dix ans à compter du 31 décembre de l'année
 Ce registre est mis à la disposition des administrations fiscales ou douanières, sur leur demande, par voie électronique. Il est suffisamment détaillé pour permettre à ces dernières de vérifier l'exactitude de la déclaration de taxe sur la valeur ajoutée mentionnée au III.
 
 VII.-Aux fins du présent régime, la contre-valeur en monnaie nationale du montant mentionné au I est déterminée annuellement avec effet au 1er janvier. Elle s'apprécie en fonction des taux de conversion applicables au premier jour ouvrable du mois d'octobre de l'année qui précède. Le montant ainsi converti est arrondi le cas échéant à l'euro le plus proche.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des III et VII du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux articles L. 161-1, et L. 171-1 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

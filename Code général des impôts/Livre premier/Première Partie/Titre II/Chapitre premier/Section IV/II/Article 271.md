@@ -55,3 +55,8 @@ d) Les opérations non imposables en France réalisées par des assujettis dans 
 e) Les opérations exonérées en application du 4° du 2 de l'article 261.
 
 VI. - Pour l'application du présent article, une opération légalement effectuée en franchise, conformément à l'article 275, ou en suspension de paiement, conformément au I de l'article 277 A, de la taxe sur la valeur ajoutée est considérée comme en ayant été grevée à concurrence du montant de la somme bénéficiant de la franchise ou dont le paiement a été suspendu.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des 3 du I et des 2 et 3 du II et IV du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 171-1 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

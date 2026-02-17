@@ -17,3 +17,8 @@ III.-Les informations tenues à la disposition de l'administration mentionnées 
 Ces informations sont conservées jusqu'au 31 décembre de la sixième année suivant celle durant laquelle a eu lieu l'opération d'importation.
 
 IV.-L'exploitant est tenu de faire toute diligence afin de s'assurer de l'identité des propriétaires des biens mentionnés au premier alinéa du I. Il informe par tous moyens ces propriétaires de leurs obligations en matière de taxe sur la valeur ajoutée en France.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des 1° à 4° du I du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées au premier alinéa de l'article L. 216-49 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

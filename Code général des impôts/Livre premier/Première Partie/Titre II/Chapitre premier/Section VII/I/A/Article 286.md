@@ -25,3 +25,8 @@ II.-1-0. Les assujettis bénéficiant d'une franchise de taxe relevant de l'arti
 III.-L'option formulée au titre du III de l'article 256 C vaut déclaration au sens des 1° et 2° du I du présent article pour l'assujetti unique constitué en application de l'article 256 C. Elle précise la dénomination, la domiciliation et le représentant de l'assujetti unique ainsi que la nature des activités de chacun de ses membres. La déclaration comporte la liste des membres ainsi que les numéros individuels d'identification à la taxe sur la valeur ajoutée qui leur ont été attribués avant leur entrée dans l'assujetti unique.
 
 Chaque membre de l'assujetti unique constitué en application du même article 256 C est tenu de remplir les obligations mentionnées aux 3°, 3° bis et 4° du I du présent article.
+
+NOTA:
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 215-26 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

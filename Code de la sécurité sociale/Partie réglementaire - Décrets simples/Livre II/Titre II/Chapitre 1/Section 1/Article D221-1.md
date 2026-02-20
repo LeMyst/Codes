@@ -1,24 +1,22 @@
 # Article D221-1
 
-Le compte de résultat de la branche mentionnée au 1° de l'article L. 200-2 enregistre :
+Le conseil de la Caisse nationale de l'assurance maladie mentionné à l'article L. 221-3 est composé de trente-cinq membres comprenant :
 
-1° La prise en charge des frais de santé effectuée par les caisses mentionnées aux articles L. 211-1 et L. 752-2 ainsi que par les organismes mentionnés au troisième alinéa de l'article L. 160-17 pour les assurés mentionnés à l'article L. 381-4, à l'exception des prises en charge des frais de santé effectuées pour le compte de la branche autonomie ;
+1° Treize représentants des assurés sociaux ;
 
-2° Les prestations mentionnées aux titres II à IV et VI du livre III, ainsi que les prestations mentionnées à l'article L. 622-2 ;
+2° Treize représentants des employeurs ;
 
-3° Les dépenses et recettes relatives au dispositif mentionné au 10° de l'article L. 221-1 ;
+3° Trois représentants désignés par la Fédération nationale de la mutualité française ;
 
-4° Les frais de gestion et autres charges de la branche maladie ;
+4° Quatre représentants d'institutions intervenant dans le domaine de l'assurance maladie désignées par arrêté du ministre chargé de la sécurité sociale ;
 
-5° Les cotisations mentionnées aux 1° et 2° du II de l'article L. 241-2 qui sont acquittées par les personnes mentionnées au 1° de l'article L. 200-1 ainsi que les cotisations mentionnées au 3° du II de l'article L. 241-2, la cotisation supplémentaire mentionnée au deuxième alinéa de l'article L. 621-2 et les contributions mentionnées à l'article L. 646-3 ;
+5° Une personnalité qualifiée dans les domaines d'activité des organismes d'assurance maladie et désignée par le ministre chargé de la sécurité sociale ;
 
-6° Les cotisations mentionnées au III de l'article L. 241-2 acquittées auprès des organismes mentionnés aux articles L. 211-1, L. 225-1 et L. 752-4 au titre des avantages de retraite et des allocations et revenus de remplacement mentionnés à l'article L. 131-2 ;
+6° Un représentant désigné conjointement par les associations d'étudiants mentionnées à l'article L. 811-3 du code de l'éducation ou, si ces dernières ne parviennent pas à un accord, par le ministre chargé de l'enseignement supérieur.
 
-7° La fraction du produit de la contribution sociale généralisée attribuée à la branche mentionnée au 1° de l'article L. 200-1 en application des dispositions des 3° à 3° ter de l'article L. 131-8 ;
+Siègent également aux séances du conseil avec voix consultative un représentant désigné en son sein par l'assemblée générale du Conseil de la protection sociale des travailleurs indépendants et trois représentants du personnel, élus à raison d'un représentant des employés et assimilés et de deux représentants des cadres et assimilés.
 
-8° Les autres ressources mentionnées au IV de l'article L. 241-2 autres que celles mentionnées au 7° ;
-
-9° Le solde des opérations mentionnées au premier alinéa de l'article D. 134-12.
+Assistent au conseil le directeur général, l'agent comptable et le contrôleur budgétaire.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2022-561 du 16 avril 2022, ces dispositions s'appliquent aux comptes de la branche autonomie du régime général, des organismes d'assurance maladie ainsi que des organismes débiteurs de prestations familiales afférents aux exercices clos à compter du 31 décembre 2021.
+Conformément à l'article 3 du décret n° 2026-100 du 16 février 2026, ces dispositions, dans leur rédaction résultant de l'article 1er du décret précité, entrent en vigueur en vue de la prochaine élection des représentants du personnel de la Caisse nationale de l'assurance maladie.

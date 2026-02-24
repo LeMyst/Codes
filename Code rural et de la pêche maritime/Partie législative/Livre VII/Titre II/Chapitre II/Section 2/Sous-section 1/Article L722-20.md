@@ -32,7 +32,7 @@ b) Salariés des filiales créées après le 31 décembre 2019, par les filiales
 
 11° Administrateurs des groupements mutualistes relevant du 6° du présent article, dès lors qu'ils perçoivent une indemnité de fonction et ne relèvent pas, à titre obligatoire, d'un régime de sécurité sociale ;
 
-12° Salariés des centres de gestion agréés et des associations de gestion et de comptabilité dont les statuts prévoient que le conseil d'administration est composé en majorité de membres désignés par des organisations professionnelles agricoles ou des chambres d'agriculture ;
+12° Salariés des associations de gestion et de comptabilité dont les statuts prévoient que le conseil d'administration est composé en majorité de membres désignés par des organisations professionnelles agricoles ou des chambres d'agriculture ;
 
 13° Par dérogation aux dispositions de l'article L. 6342-1 du code du travail, les personnes effectuant des stages de formation professionnelle continue conformément aux dispositions de la sixième partie du code du travail, lorsque ces stages sont effectués dans le cadre du plan de professionnalisation permettant de bénéficier des aides au titre de la politique d'installation en agriculture mentionnée à l'article L. 330-1 du présent code ;
 

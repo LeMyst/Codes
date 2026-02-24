@@ -2,11 +2,11 @@
 
 France compétences est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière. Elle a pour mission :
 
-1° De verser aux opérateurs de compétences mentionnés à l'article L. 6332-1 des fonds pour un financement complémentaire des contrats d'apprentissage et de professionnalisation au titre de la péréquation inter-branches ainsi que d'assurer le financement de l'aide au permis de conduire et de verser des fonds au Centre national de la fonction publique territoriale pour le financement des frais de formation des apprentis employés par les collectivités et établissements, selon des modalités fixées par décret ;
+1° De verser aux opérateurs de compétences mentionnés à l'article L. 6332-1 des fonds pour un financement complémentaire des contrats d'apprentissage et de professionnalisation au titre de la péréquation inter-branches et de verser des fonds au Centre national de la fonction publique territoriale pour le financement des frais de formation des apprentis employés par les collectivités et établissements, selon des modalités fixées par décret ;
 
 2° De verser aux régions des fonds pour le financement des centres de formation d'apprentis, au titre de l'article L. 6211-3, selon des modalités définies par décret en Conseil d'Etat, pris après concertation avec les régions ;
 
-3° D'assurer la répartition et le versement des fonds issus des contributions mentionnées au I de l'article L. 6131-4 ainsi qu'aux articles L. 6331-48, L. 6331-53 et L. 6331-65 dédiées au financement de la formation professionnelle, en fonction des conditions d'utilisation des ressources allouées, des effectifs et des catégories de public, dans des conditions fixées par un décret qui précise, notamment, la liste des informations relatives aux entreprises redevables de ces contributions transmises à France compétences par les organismes chargés du recouvrement de ces fonds. Ces fonds sont affectés :
+3° D'assurer la répartition et le versement des fonds issus des contributions mentionnées au I de l'article L. 6131-4 ainsi qu'aux articles L. 6323-36, L. 6331-48, L. 6331-53 et L. 6331-65 dédiées au financement de la formation professionnelle, en fonction des conditions d'utilisation des ressources allouées, des effectifs et des catégories de public, dans des conditions fixées par un décret qui précise, notamment, la liste des informations relatives aux entreprises redevables de ces contributions transmises à France compétences par les organismes chargés du recouvrement de ces fonds. Ces fonds sont affectés :
 
 a) A la Caisse des dépôts et consignations, pour le financement du compte personnel de formation ;
 
@@ -16,7 +16,7 @@ c) Aux opérateurs de compétences, selon leur champ d'intervention pour l'aide 
 
 d) Aux régions ;
 
-e) A l'opérateur assurant le versement de l'aide au permis de conduire ;
+e) (Abrogé) ;
 
 f) Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle désignés au titre du 4° ;
 
@@ -63,8 +63,3 @@ f) Les modalités et règles de prise en charge des financements alloués au tit
 15° De reverser aux opérateurs de compétences des branches concernées les montants perçus au titre des contributions supplémentaires ayant pour objet le développement de la formation professionnelle continue, créées par un accord professionnel national conclu en application de l'article L. 6332-1-2, lorsqu'elles sont recouvrées dans les conditions prévues au II de l'article L. 6131-3 ;
 
 16° D'établir, diffuser et actualiser selon une périodicité fixée par décret des tables de correspondance des branches et entreprises adhérentes des opérateurs de compétences, en vue de faciliter les déclarations des employeurs, et de guider l'affectation aux opérateurs de compétences des fonds collectés par les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime.
-
-NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
-
-Conformément au III dudit article, ces dispositions, dans leur rédaction antérieure à la présente loi, s'appliquent aux actions engagées pour lesquelles l'avenant qui précise la durée de la reconversion ou de la promotion par l'alternance a été conclu avant le 1er janvier 2026.

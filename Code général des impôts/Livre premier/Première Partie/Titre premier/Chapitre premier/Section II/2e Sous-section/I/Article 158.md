@@ -96,7 +96,7 @@ Les dispositions des deux alinéas précédents sont également applicables pour
 
 – 30 % s'il est âgé de plus de 69 ans.
 
-Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisations n'ayant pas fait l'objet de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier. Elles sont applicables aux rentes correspondant aux versements mentionnés au 1° de l'article L. 224-2 du code monétaire et financier qui n'ont pas fait l'objet d'une déduction du revenu imposable en application de l'option prévue au deuxième alinéa de l'article L. 224-20 du même code ou à ceux mentionnés au 2° de l'article L. 224-2 précité.
+Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisations n'ayant pas fait l'objet de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier. Elles sont applicables aux rentes correspondant aux versements mentionnés au 1° de l'article L. 224-2 du code monétaire et financier qui n'ont pas fait l'objet d'une déduction du revenu imposable en application de l'option prévue au deuxième alinéa de l'article L. 224-20 du même code, à ceux mentionnés au 2° de l'article L. 224-2 précité ou à ceux mentionnés au dernier alinéa de l'article 163 quinvicies du présent code.
 
 6 bis. Lorsqu'ils sont pris en compte dans l'assiette du revenu net global dans les conditions prévues au 2 de l'article 200 A :
 
@@ -125,4 +125,4 @@ Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisation
 4° (Abrogé).
 
 NOTA:
-Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2025-127 du 14 février 2025.
+Conformément au II de l'article 9 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.

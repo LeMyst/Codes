@@ -80,7 +80,7 @@ VI. - Les exonérations prévues au I s'appliquent à une activité non sédenta
 
 Lorsque le contribuable implanté dans une zone définie au III exerce d'autres activités en dehors de la zone, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit commun, en proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones.
 
-VII. - Les exonérations prévues au I ne s'appliquent pas aux activités bénéficiant ou ayant bénéficié, au titre d'une ou de plusieurs des cinq années précédant l'année de la création ou de la reprise dans les zones France ruralités revitalisation mentionnées aux II et III, des articles 44 sexies, 44 sexies A, 44 septies dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022,44 octies dans sa rédaction antérieure à la même loi, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
+VII. - Les exonérations prévues au I ne s'appliquent pas aux activités bénéficiant ou ayant bénéficié, au titre d'une ou de plusieurs des cinq années précédant l'année de la création ou de la reprise dans les zones France ruralités revitalisation mentionnées aux II et III, des articles 44 sexies, 44 sexies A, 44 septies dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022,44 octies dans sa rédaction antérieure à la même loi, 44 octies B, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
 
 Les exonérations ne s'appliquent pas aux créations ou aux reprises d'activité ou d'entreprise consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans les zones France ruralités revitalisation et France ruralités revitalisation “ plus ” mentionnées aux II et III du présent article, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
 
@@ -94,7 +94,7 @@ Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de r
 
 3° L'opération de reprise ou de restructuration résulte d'un changement de forme sociale de l'entreprise au profit des personnes mentionnées aux 1° et 2° du présent VII.
 
-VIII. - Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 duodecies, 44 terdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+VIII. - Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 octies B, 44 duodecies, 44 terdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
 IX. - Le bénéfice des exonérations est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises :
 
@@ -111,10 +111,4 @@ XI. - Le contribuable qui cesse volontairement son activité en zone France rura
 La cessation volontaire d'activité en zone France ruralités revitalisation mentionnée aux mêmes II et III s'entend de l'abandon de l'ensemble de l'activité industrielle, commerciale ou artisanale ou professionnelle, au sens du I de l'article 92, implantée en zone France ruralités revitalisation, qui ne serait pas dû à un événement de force majeure. La délocalisation d'une entreprise ou d'un organisme dans un lieu autre qu'une zone France ruralités revitalisation s'entend du transfert physique de son lieu d'exploitation dans une commune qui n'est pas située en zone France ruralités revitalisation.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
-
-Conformément au A du VII de l'article 99 de la loi n° 2025-127 du 14 février 2025, les dispositions du dernier alinéa du C, le F et le G du II s'appliquent à compter du 1er juillet 2024.
-
-Conformément au B du même article, les dispositions du III, le premier alinéa du VII, le VIII et le premier alinéa du XI s'appliquent à compter du 1er janvier 2025.
-
-Se reporter au IV à VIII dudit article pour les autres modalités.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

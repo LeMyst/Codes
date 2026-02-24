@@ -34,7 +34,7 @@ a) En application des troisième à septième alinéas de l'article L. 132-23 du
 
 b) Lorsqu'elles sont issues des versements mentionnés au 2° de l'article L. 224-2 du code monétaire et financier qui sont exonérés ;
 
-c) Pour la part correspondant au montant des versements mentionnés au 1° de l'article L. 224-2 du code monétaire et financier qui n'ont pas fait l'objet d'une déduction du revenu imposable en application de l'option prévue au deuxième alinéa de l'article L. 224-20 du même code ou celle correspondant au montant des versements mentionnés au 2° de l'article L. 224-2 du code précité qui ne sont pas exonérés ;
+c) Pour la part correspondant au montant des versements mentionnés au 1° de l'article L. 224-2 du code monétaire et financier qui n'ont pas fait l'objet d'une déduction du revenu imposable en application de l'option prévue au deuxième alinéa de l'article L. 224-20 du même code, celle correspondant au montant des versements mentionnés au 2° de l'article L. 224-2 du code précité qui ne sont pas exonérés ou celle correspondant au montant des versements mentionnés au dernier alinéa de l'article 163 quinvicies du présent code ;
 
 5° et 6° (Repris avec le 4°) ;
 
@@ -193,4 +193,4 @@ d. (disjoint)
 39° Les primes liées aux performances versées par l'Etat, en 2018, aux sportifs de l'équipe de France médaillés aux jeux Olympiques et Paralympiques et, le cas échéant, à leurs guides.
 
 NOTA:
-Modifications effectuées en conséquence de l'article 6-I de la loi n° 2019-1479 du 28 décembre 2019.
+Conformément au II de l'article 9 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.

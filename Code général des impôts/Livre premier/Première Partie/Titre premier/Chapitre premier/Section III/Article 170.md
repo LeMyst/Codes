@@ -4,7 +4,7 @@
 
 Lorsque le contribuable n'est pas imposable à raison de l'ensemble de ses revenus ou bénéfices, la déclaration est limitée à l'indication de ceux de ces revenus ou bénéfices qui sont soumis à l'impôt sur le revenu.
 
-Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner également le montant des plus-values en report d'imposition en application de l'article 150-0 B ter et le montant des plus-values exonérées en application du 1° bis du II de l'article 150 U, ainsi que les éléments nécessaires au calcul du revenu fiscal de référence tel que défini au 1° du IV de l'article 1417.
+Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner également le montant des plus-values en report d'imposition en application de l'article 150-0 B ter, le montant des plus-values exonérées en application du 1° bis du II de l'article 150 U, le montant des fractions de gain net en report d'imposition en application du C du IV de l'article 163 bis H ainsi que les éléments nécessaires au calcul du revenu fiscal de référence tel que défini au 1° du IV de l'article 1417.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des revenus de leur foyer.
 
@@ -21,4 +21,4 @@ Pour l'application des dispositions du présent code, le revenu déclaré s'ente
 4. Le contribuable est tenu de déclarer les éléments du revenu global qui, en vertu d'une disposition du présent code ou d'une convention internationale relative aux doubles impositions ou d'un autre accord international, sont exonérés mais qui doivent être pris en compte pour le calcul de l'impôt applicable aux autres éléments du revenu global.
 
 NOTA:
-Conformément au B du IV de l'article 29 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de l'imposition des revenus perçus ou réalisés en 2020. Les options exercées au titre d'une année antérieure continuent de produire leurs effets pour la durée restant à courir.
+Conformément au A du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux dispositions, cessions, conversions, échanges ou mises en location réalisés à compter du 15 février 2025, à l'exception du b du 1° du D qui s'applique aux donations et dons manuels intervenus à compter du lendemain de la promulgation de la présente loi.

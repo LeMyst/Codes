@@ -6,7 +6,7 @@ I bis. – Ils sont également substitués aux communes membres pour la percepti
 
 1. Du produit des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives :
 
-a) Aux installations de production d'électricité utilisant l'énergie mécanique du vent et aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue à l'article 1519 D ;
+a) Aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, à l'exception des installations ayant fait l'objet à compter du 1er janvier 2026 d'une modification substantielle ou notable, au sens de l'article L. 181-14 du code de l'environnement, induisant une augmentation de la puissance installée du parc éolien où ces installations sont situées, ainsi qu'aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale, prévue à l'article 1519 D du présent code ;
 
 b) Aux installations de production d'électricité d'origine nucléaire ou thermique à flamme, prévue à l'article 1519 E ;
 
@@ -20,7 +20,7 @@ e) Aux stations radioélectriques, prévue à l'article 1519 H ;
 
 f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz naturel, aux canalisations de transport de gaz naturel, aux stations de compression du réseau de transport de gaz naturel, aux canalisations de transport d'autres hydrocarbures et aux canalisations de transport de produits chimiques prévue à l'article 1519 HA ;
 
-1 bis. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent, installées à compter du 1er janvier 2019, prévue à l'article 1519 D ;
+1 bis. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 D et relative aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du 1er janvier 2019 ou aux installations ayant fait l'objet à compter du 1er janvier 2026 d'une modification substantielle ou notable, au sens de l'article L. 181-14 du code de l'environnement, induisant une augmentation de la puissance installée du parc éolien où ces installations sont situées ;
 
 1 ter. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, prévue à l'article 1519 F ;
 
@@ -179,6 +179,3 @@ Pour les établissements publics de coopération intercommunale soumis pour la p
 Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen pondéré est déterminé par le rapport de la somme des compensations au titre de la réduction pour création d'établissement versées aux communes membres au titre de l'année précédant la première année d'application du présent article et de la somme des bases exonérées ou des abattements appliqués au titre de l'année précédant cette même première année d'application.
 
 IX. – Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du présent article.
-
-NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

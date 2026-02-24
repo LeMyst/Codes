@@ -4,6 +4,24 @@ Sont exonérées de droits de mutation à titre gratuit, à concurrence de 75 % 
 
 Pour l'application du premier alinéa du présent article, n'est pas considérée comme une activité industrielle, commerciale, artisanale, agricole ou libérale l'exercice par une société d'une activité de gestion de son propre patrimoine mobilier ou immobilier. Est néanmoins considérée comme exerçant une activité commerciale la société qui, outre la gestion d'un portefeuille de participations, a pour activité principale la participation active à la conduite de la politique de son groupe constitué de sociétés contrôlées directement ou indirectement, exerçant une activité industrielle, commerciale, artisanale, agricole ou libérale, et auxquelles elle rend, le cas échéant et à titre purement interne, des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers.
 
+L'exonération ne s'applique pas à la fraction de la valeur vénale des parts ou actions mentionnées au même premier alinéa représentative de la valeur des éléments d'actif suivants qui ne sont pas exclusivement affectés par la société, pendant une durée d'au moins trois ans avant la transmission ou, à défaut, depuis leur acquisition, et jusqu'à la fin de l'engagement prévu au c ou, à défaut, jusqu'à sa cession, à l'activité industrielle, commerciale, artisanale, agricole ou libérale au sens du premier alinéa :
+
+- les biens affectés à l'exercice de la chasse ;
+
+- les biens affectés à l'exercice de la pêche ;
+
+- les véhicules de tourisme, au sens de l'article L. 421-2 du code des impositions sur les biens et services, les yachts, les bateaux de plaisance à voile ou à moteur et les aéronefs ;
+
+- les bijoux, les métaux précieux et les objets d'art, de collection ou d'antiquité, à l'exclusion de ceux bénéficiant du régime prévu à l'article 238 bis AB du présent code ;
+
+- les chevaux de course ou de concours ;
+
+- les vins et les alcools ;
+
+- les logements et résidences.
+
+L'exclusion mentionnée au troisième alinéa du présent article s'applique à la fraction de la valeur vénale des parts ou actions mentionnée au même troisième alinéa représentative des mêmes éléments d'actifs détenus par une société que la société mentionnée audit troisième alinéa contrôle directement ou indirectement, au sens du 2° du III de l'article 150-0 B ter, à la même condition, appréciée au regard de l'activité de la société contrôlée détentrice des actifs.
+
 L'exonération s'applique si les conditions suivantes sont réunies :
 
 a. Les parts ou les actions mentionnées au premier alinéa du présent article doivent faire l'objet d'un engagement collectif de conservation d'une durée minimale de deux ans en cours au jour de la transmission, qui a été pris par le défunt ou le donateur, pour lui et ses ayants cause à titre gratuit, avec d'autres associés. Le présent engagement peut être pris par une personne seule, pour elle et ses ayants cause à titre gratuit, sous les mêmes conditions ;
@@ -28,7 +46,7 @@ Dans cette hypothèse, l'exonération partielle est appliquée à la valeur des 
 
 Le bénéfice de l'exonération partielle est subordonné à la condition que les participations soient conservées inchangées à chaque niveau d'interposition pendant toute la durée de l'engagement collectif. Toutefois, le bénéfice du régime de faveur n'est pas remis en cause en cas d'augmentation de la participation détenue par les sociétés interposées.
 
-c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la déclaration de succession ou l'acte de donation, pour lui et ses ayants cause à titre gratuit, de conserver les parts ou les actions transmises pendant une durée de quatre ans à compter de la date d'expiration du délai visé au a.
+c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la déclaration de succession ou l'acte de donation, pour lui et ses ayants cause à titre gratuit, de conserver les parts ou les actions transmises pendant une durée de six ans à compter de la date d'expiration du délai visé au a.
 
 Le cas échéant, la société dont les titres sont transmis, qui possède directement ou indirectement dans les conditions prévues au 3 du b une participation dans la société dont les parts ou actions font l'objet de l'engagement collectif de conservation mentionné au a, doit conserver cette participation durant cette même période ;
 
@@ -75,6 +93,3 @@ i) En cas de non-respect de la condition prévue au c par suite d'une donation, 
 Les dispositions du présent article s'appliquent en cas de donation avec réserve d'usufruit à la condition que les droits de vote de l'usufruitier soient statutairement limités aux décisions concernant l'affectation des bénéfices.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les obligations déclaratives incombant aux redevables et aux sociétés.
-
-NOTA:
-Conformément au II de l’article 23 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux transmissions intervenues à compter du 17 octobre 2023.

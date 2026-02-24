@@ -37,6 +37,12 @@ L'entreprise qui donne le bien en crédit-bail ou en location avec option d'acha
 
 2° l'avantage en impôt procuré par les déductions pratiquées en application du présent article est intégralement rétrocédé à l'entreprise locataire ou crédit-preneuse sous forme de diminution de loyers accordée en même temps et au même rythme que celui auquel la déduction est pratiquée.
 
+III bis A. - Les taux mentionnés aux 1° à 5° du I et au premier alinéa du III sont majorés :
+
+1° De 20 % pour les moyennes entreprises au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
+
+2° De 30 % pour les petites entreprises au sens de la même annexe I.
+
 III bis.-La déduction prévue aux I et III du présent article s'applique également, dans les mêmes conditions, aux biens acquis, pris ou donnés en location, à l'état neuf, à compter du 1er janvier 2024 et jusqu'au 31 décembre 2024, pour lesquels le contribuable justifie d'un devis ayant fait l'objet d'une acceptation intervenue avant le 31 décembre 2023.
 
 IV.-Sur demande de l'administration, le contribuable présente tout document, visé par l'administration chargée du transport maritime, certifiant que la condition prévue au onzième alinéa du I est respectée.

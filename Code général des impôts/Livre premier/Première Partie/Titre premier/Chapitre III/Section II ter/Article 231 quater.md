@@ -60,7 +60,7 @@ c) Pour les locaux de stockage : 0,22 € ;
 
 d) Pour les surfaces de stationnement : 0,15 €.
 
-Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans la loi de finances de l'année. La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, au centime d'euro supérieur.
+Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. La valeur résultant de cette revalorisation est arrondie, s'il y a lieu, au centime d'euro supérieur.
 
 VII. - Pour l'application des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
 

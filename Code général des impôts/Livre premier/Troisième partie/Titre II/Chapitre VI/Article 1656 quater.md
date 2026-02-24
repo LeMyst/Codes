@@ -14,6 +14,13 @@ Pour l'application de ces dispositions, la référence au conseil départemental
 
 III. – Pour l'application des articles 1382 et 1394, la Ville de Paris est assimilée à un département. Toutefois, les propriétés de la Ville de Paris qui, au 31 décembre 2018 appartenaient à la commune ou au département de Paris et étaient exonérées de taxe foncière sur les propriétés bâties ou de taxe foncière sur les propriétés non bâties en application des articles 1382 et 1394, continuent de bénéficier de ces exonérations dans les mêmes conditions lorsqu'elles sont affectées à un service public ou d'utilité générale et non productives de revenus.
 
-IV.-Les articles 1382-0 et 1388-0 ainsi que le 3 des I et III de l'article 1518 A quinquies ne s'appliquent pas à la Ville de Paris.
+IV.-Les articles 1382-0 et 1388-0 ne s'appliquent pas à la Ville de Paris.
 
 A compter de 2022, l'avant-dernier alinéa du III de l'article 1530 bis, le cinquième alinéa de l'article 1599 quater D, l'avant-dernier alinéa de l'article 1609 G ainsi que le dernier alinéa du II et l'avant-dernier alinéa du IV de l'article 1636 B octies ne s'appliquent pas à la Ville de Paris.
+
+NOTA:
+Conformément au A du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I de l'article 1518 ter du code général des impôts ne s'applique pas à l'établissement des bases d'imposition de l'année 2027.
+
+Conformément au B du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, l'application du III de l'article 1518 ter du même code est suspendue à compter du renouvellement général des conseils municipaux de 2026 jusqu'au renouvellement général des conseils municipaux de 2032.
+
+Conformément au A du VI de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent à compter des impositions établies au titre de l'année 2027.

@@ -6,7 +6,4 @@
 
 1. (Abrogé).
 
-1. Les paiements afférents à la contribution prévue à l'article 234 nonies due par une société ou un groupement mentionné à l'article 234 terdecies sont effectués par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France lorsque leur montant excède 50 000 €.
-
-NOTA:
-Conformément à l'article 20 II de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les dispositions de l'article 1681 quinquies, dans leur rédaction issue de la présente loi, s'appliquent à la taxe due sur les rémunérations versées à compter du 1er janvier 2015.
+1. Les paiements afférents à la contribution prévue à l'article 234 nonies due par une société ou un groupement mentionné à l'article 234 terdecies sont effectués par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.

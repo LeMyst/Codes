@@ -36,7 +36,7 @@ Pour l'imposition forfaitaire sur les entreprises de réseaux relative aux insta
 
 15° Une fraction égale à 60 % de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux installations de production d'électricité d'origine géothermique, prévue à l'article 1519 HB. Pour ces dernières, le produit est rattaché au territoire où est installé le point de raccordement au réseau public de distribution ou de transport d'électricité ;
 
-16° La taxe d'aménagement dans les conditions prévues au 1° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
+16° La taxe d'aménagement dans les conditions prévues au 1° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale ou du groupement de collectivités et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 II. – Elles peuvent instituer les taxes suivantes :
 
@@ -48,7 +48,7 @@ II. – Elles peuvent instituer les taxes suivantes :
 
 4° La taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis;
 
-5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
+5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale ou du groupement de collectivités et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I du même article, s'appliquent à compter du 1er janvier 2026.

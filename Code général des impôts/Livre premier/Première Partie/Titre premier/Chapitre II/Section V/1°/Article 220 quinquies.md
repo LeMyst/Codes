@@ -1,6 +1,6 @@
 # Article 220 quinquies
 
-I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209, le déficit constaté au titre d'un exercice ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré comme une charge déductible du bénéfice de l'exercice précédent, dans la limite de la fraction non distribuée de ce bénéfice et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 quindecies A, 44 sexdecies, 44 septdecies et 207 à 208 ter B ou qui a bénéficié des dispositions du premier alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu à l'articles 220 quaterou qui a donné lieu à un impôt payé au moyen de crédits ou de réductions d'impôts.
+I. Par dérogation aux dispositions du troisième alinéa du I de l'article 209, le déficit constaté au titre d'un exercice ouvert à compter du 1er janvier 1984 par une entreprise soumise à l'impôt sur les sociétés peut, sur option, être considéré comme une charge déductible du bénéfice de l'exercice précédent, dans la limite de la fraction non distribuée de ce bénéfice et à l'exclusion du bénéfice exonéré en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 terdecies, 44 quaterdecies, 44 quindecies, 44 quindecies A, 44 sexdecies, 44 septdecies et 207 à 208 ter B ou qui a bénéficié des dispositions du premier alinéa du f du I de l'article 219 ou qui a ouvert droit au crédit d'impôt prévu à l'articles 220 quaterou qui a donné lieu à un impôt payé au moyen de crédits ou de réductions d'impôts.
 
 Le déficit imputé dans les conditions prévues au premier alinéa cesse d'être reportable sur les résultats des exercices suivant celui au titre duquel il a été constaté.
 
@@ -25,3 +25,6 @@ En cas de scission ou d'apport partiel d'actif, la créance est transmise au pro
 III. (Abrogé).
 
 IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises.
+
+NOTA:
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

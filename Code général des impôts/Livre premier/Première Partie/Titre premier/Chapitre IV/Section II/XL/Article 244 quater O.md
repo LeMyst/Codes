@@ -1,6 +1,6 @@
 # Article 244 quater O
 
-I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
+I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à la création d'ouvrages réalisés en un seul exemplaire ou en petite série. La création d'ouvrages uniques, réalisés en un exemplaire ou en petite série, se définit selon deux critères cumulatifs :
 
@@ -18,7 +18,7 @@ b) Un ouvrage produit en un exemplaire ou en petite série ne figurant pas à l'
 
 6° Des dépenses liées à l'élaboration d'ouvrages mentionnés au 1° confiées par ces entreprises à des stylistes ou bureaux de style externes.
 
-I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies et 44 terdecies à 44 septdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
+I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies et 44 terdecies à 44 septdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à l'activité de restauration du patrimoine ;
 
@@ -57,4 +57,4 @@ VII. – (Abrogé).
 VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2026.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

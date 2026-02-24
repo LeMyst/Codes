@@ -1,0 +1,3 @@
+# Article 1758 bis
+
+Le défaut de transmission dans les délais prescrits des informations prévues au III de l'article 1418 ainsi que les inexactitudes ou les omissions déclaratives entraînent l'application d'une majoration de 10 % du montant de la cotisation de la taxe d'habitation sur les résidences secondaires et des taxes prévues aux articles 1530 bis et 1607 bis à 1609 İ ainsi que, le cas échéant, de la majoration prévue à l'article 1407 ter dû au titre du logement concerné par le manquement. Le montant de cette majoration ne peut être inférieur à 150 euros. En cas de manquement délibéré, le taux de la majoration est porté à 40 %.

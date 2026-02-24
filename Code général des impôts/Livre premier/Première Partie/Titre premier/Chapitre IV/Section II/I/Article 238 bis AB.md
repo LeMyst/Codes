@@ -1,6 +1,6 @@
 # Article 238 bis AB
 
-Les entreprises qui achètent, à compter du 1er janvier 2002 et avant le 31 décembre 2025, des œuvres originales d'artistes vivants et les inscrivent à un compte d'actif immobilisé peuvent déduire du résultat de l'exercice d'acquisition et des quatre années suivantes, par fractions égales, une somme égale au prix d'acquisition.
+Les entreprises qui achètent, à compter du 1er janvier 2002 et avant le 31 décembre 2028, des œuvres originales d'artistes vivants et les inscrivent à un compte d'actif immobilisé peuvent déduire du résultat de l'exercice d'acquisition et des quatre années suivantes, par fractions égales, une somme égale au prix d'acquisition.
 
 La déduction ainsi effectuée au titre de chaque exercice ne peut excéder la limite mentionnée au premier alinéa du 3 de l'article 238 bis, minorée du total des versements mentionnés au même article.
 

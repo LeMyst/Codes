@@ -1,6 +1,6 @@
 # Article 278-0 bis A
 
-I.-Relèvent du taux réduit mentionné au premier alinéa de l'article 278-0 bis les prestations de rénovation énergétique qui répondent aux conditions suivantes :
+I. - Relèvent du taux réduit mentionné au premier alinéa de l'article 278-0 bis les prestations de rénovation énergétique qui répondent aux conditions suivantes :
 
 1° Elles sont effectuées dans des locaux achevés depuis au moins deux ans ;
 
@@ -14,17 +14,19 @@ b) Du chauffage et de la ventilation ;
 
 c) De la production d'eau chaude sanitaire.
 
-II.-Un arrêté conjoint des ministres chargés du budget, du logement et de l'énergie précise la nature et le contenu des prestations mentionnées au 3° du I ainsi que les caractéristiques et les niveaux de performance des matériaux, équipements, appareils et systèmes concernés mentionnés au même 3°.
+Sont comprises dans les équipements, appareils et systèmes mentionnés au premier alinéa du présent 3° les pompes à chaleur air/air qui répondent à des critères de performance environnementale et de durabilité appréciés sur leur cycle de vie.
 
-III.-Par dérogation au I du présent article, le taux prévu à l'article 278 s'applique aux prestations, réalisées sur une période de deux ans au plus :
+II. - Un arrêté conjoint des ministres chargés du budget, du logement et de l'énergie précise la nature et le contenu des prestations mentionnées au 3° du I ainsi que les caractéristiques et les niveaux de performance des matériaux, équipements, appareils et systèmes concernés mentionnés au même 3°.
+
+III. - Par dérogation au I du présent article, le taux prévu à l'article 278 s'applique aux prestations, réalisées sur une période de deux ans au plus :
 
 1° Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
 2° A l'issue desquelles la surface de plancher des locaux existants est augmentée de plus de 10 %.
 
-III bis.-Par dérogation au I du présent article, le taux prévu à l'article 278 s'applique aux prestations de rénovation énergétique comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
+III bis. - Par dérogation au I du présent article, le taux prévu à l'article 278 s'applique aux prestations de rénovation énergétique comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
 
-IV.-Pour l'application du I du présent article, le preneur de la prestation certifie sur le devis ou la facture que les conditions prévues au même I sont remplies.
+IV. - Pour l'application du I du présent article, le preneur de la prestation certifie sur le devis ou la facture que les conditions prévues au même I sont remplies.
 
 Ces documents sont établis en double exemplaire, dont l'un est remis au redevable, qui le conserve à l'appui de sa comptabilité.
 

@@ -8,5 +8,4 @@
 
 1. Quel que soit leur montant, la cotisation foncière des entreprises et l'imposition forfaitaire sur les entreprises de réseaux, recouvrées par voie de rôles, ne peuvent pas être acquittées par virement. Cette interdiction s'applique également aux frais mentionnés sur les rôles, à l'acompte et aux taxes additionnelles mentionnés à l'article 1679 quinquies. Toutefois, les contribuables mentionnés au 2 du présent article peuvent acquitter ces impôts, quel que soit leur montant, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
-NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+1. Les paiements afférents à l'impôt sur les sociétés en raison des revenus patrimoniaux mentionnés au 5 de l'article 206 sont effectués par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.

@@ -1,6 +1,6 @@
 # Article 1679 nonies
 
-Lorsque la surface de la construction au sens du 1° de l'article 1635 quater H et de l'article 1635 quater I est supérieure ou égale à 5 000 mètres carrés, le redevable de la taxe d'aménagement verse :
+Lorsque la surface de la construction au sens du 1° de l'article 1635 quater H et de l'article 1635 quater I est supérieure ou égale à 3 000 mètres carrés, le redevable de la taxe d'aménagement verse :
 
 1° Un premier acompte dont le montant est égal à 50 % du montant de la taxe d'aménagement ;
 
@@ -17,6 +17,4 @@ Ils s'imputent sur le montant définitif de la taxe d'aménagement due. Lorsque 
 Le recouvrement de chaque acompte fait l'objet d'un titre unique de perception émis à compter de sa date d'exigibilité.
 
 NOTA:
-Conformément à l'article 16 de l'ordonnance n° 2022-883 du 14 juin 2022, ces dispositions s'appliquent à compter de la date résultant du B du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021.
-
-Se reporter aux conditions d'application prévues à l’article 1er du décret n° 2022-1102 du 1er août 2022.
+Conformément au II de l'article 117 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux opérations pour lesquelles la délivrance de l'autorisation d'urbanisme intervient à compter du lendemain de la publication de la loi précitée.

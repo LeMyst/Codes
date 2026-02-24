@@ -4,15 +4,13 @@ Sauf délibération contraire de la commune ou de l'établissement public de coo
 
 Pour l'application exclusive de la présente exonération, lorsque la limite d'un quartier correspond à une voie publique, les immeubles situés sur chacune des bordures de cette voie sont réputés situés dans le quartier prioritaire.
 
-L'exonération s'applique aux immeubles existant au 1er janvier 2017 et rattachés à cette même date à un établissement remplissant les conditions pour bénéficier de l'exonération de cotisation foncière des entreprises prévue au I septies de l'article 1466 A ainsi qu'aux immeubles rattachés, entre le 1er janvier 2017 et le 31 décembre 2025, à un établissement remplissant les mêmes conditions.
+L'exonération s'applique aux immeubles rattachés, entre le 1er janvier 2026 et le 31 décembre 2030, à un établissement remplissant les conditions pour bénéficier de l'exonération de cotisation foncière des entreprises prévue au I septies de l'article 1466 A .
 
-L'exonération s'applique à compter du 1er janvier 2017 ou à compter du 1er janvier de l'année qui suit celle du rattachement à un établissement remplissant les conditions requises, si elle est postérieure.
+L'exonération s'applique à compter du 1er janvier de l'année qui suit celle du rattachement à un établissement remplissant les conditions requises.
 
 Elle cesse définitivement de s'appliquer à compter du 1er janvier de la deuxième année qui suit la période de référence, mentionnée à l'article 1467 A, pendant laquelle le redevable ne remplit plus les conditions requises.
 
-Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus affectés à une activité commerciale.
-
-En cas de changement d'exploitant au cours d'une période d'exonération, celle-ci est maintenue pour la période restant à courir et dans les conditions prévues pour le prédécesseur.
+Cette exonération cesse de s'appliquer à compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus affectés à une activité mentionnée au 1° du II de l'article 44 octies B.
 
 L'exonération porte sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale doté d'une fiscalité propre.
 
@@ -23,12 +21,4 @@ Les obligations déclaratives des personnes et organismes concernés par les exo
 Le bénéfice des exonérations est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
-
-Conformément au II de l'article 100 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent à compter du 1er janvier 2025.
-
-Conformément au III dudit article, la perte de recettes résultant pour l'Etat du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
-
-Conformément au IV du même article, la perte de recettes résultant pour les collectivités territoriales du I est compensée, à due concurrence, par la majoration de la dotation globale de fonctionnement et, corrélativement pour l'Etat, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
-
-Conformément au V de cet article, la perte de recettes résultant pour les organismes de sécurité sociale du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

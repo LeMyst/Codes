@@ -1,6 +1,6 @@
 # Article 212
 
-I. – Les intérêts afférents aux sommes laissées ou mises à disposition d'une entreprise par une entreprise liée, directement ou indirectement, au sens du 12 de l'article 39, sont déductibles :
+I. – Les intérêts afférents aux sommes laissées ou mises à disposition d'une entreprise par une entreprise qui est son associée ou par une entreprise liée, directement ou indirectement, au sens du 12 de l'article 39, sont déductibles :
 
 a) Dans la limite de ceux calculés d'après le taux prévu au premier alinéa du 3° du 1 du même article 39 ou, s'ils sont supérieurs, d'après le taux que cette entreprise emprunteuse aurait pu obtenir d'établissements ou d'organismes financiers indépendants dans des conditions analogues ;
 
@@ -15,4 +15,4 @@ III bis. – Le solde de la fraction d'intérêts non déductible immédiatement
 IV. – Les dispositions du deuxième alinéa du 3° du 1 de l'article 39 ne sont pas applicables aux sociétés régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération.
 
 NOTA:
-Conformément au A du II de l'article 45 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.
+Conformément au II de l'article 14 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux exercices clos à compter du 31 décembre 2025.

@@ -20,7 +20,7 @@ a) du montant des charges déduites en application de l'article 163 duovicies ai
 
 a bis) du montant des abattements mentionnés aux 1 ter ou 1 quater de l'article 150-0 D, à l'article 150-0 D ter, au 2° du 3 de l'article 158 et au 3 de l'article 200 A, du montant des plus-values en report d'imposition en application de l'article 150-0 B quater, du montant des plus-values soumises au prélèvement prévu à l'article 244 bis A et du montant des plus-values et distributions soumises au prélèvement prévu à l'article 244 bis B ;
 
-b) du montant des bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 terdecies à 44 septdecies, ainsi que du 9 de l'article 93 ;
+b) du montant des bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 terdecies à 44 septdecies, ainsi que du 9 de l'article 93 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires prévusau 1 du II et au II bis de l'article 125-0 A, aux II et III de l'article 125 A et au II de l'article 163 bis, du montant des produits et revenus soumis aux retenues à la source prévues à l'article 119 bis, aux articles 182 A, 182 A bis et 182 A ter, à hauteur de la fraction donnant lieu à une retenue libératoire de l'impôt sur le revenu, de ceux soumis aux versements libératoires prévus par l'article 151-0 retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A, 81 D et 155 B, de ceux perçus par les fonctionnaires des organisations internationales, de ceux exonérés par application d'une convention internationale relative aux doubles impositions, de ceux exonérés en application de l'article 80 sexdecies ainsi que de ceux exonérés en application des articles 163 quinquies B à 163 quinquies C bis ;
 
@@ -31,4 +31,4 @@ e) Des sommes correspondant aux droits visés à l'article L. 3152-4 ou à l'art
 2°) Abrogé (à compter des impositions établies au titre de 2000.)
 
 NOTA:
-Modifications effectuées en conséquence de l’article 2-I B 1° a de la loi n° 2025-127 du 14 février 2025.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

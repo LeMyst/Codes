@@ -18,7 +18,7 @@ a) La livraison financée par un prêt réglementé ou la mise à disposition da
 
 b) La réalisation de travaux d'amélioration, de transformation ou d'aménagement financés par un prêt réglementé ;
 
-7° Le contrat d'accession à la propriété s'entend, dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, du contrat unique de vente ou de construction de logements destinés à des personnes physiques dont les ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logement, ne dépassent pas les plafonds majorés prévus à la première phrase du dixième alinéa de l'article L. 411-2 du même code ;
+7° Le contrat d'accession à la propriété s'entend, dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, du contrat unique de vente ou de construction de logements destinés à des personnes physiques dont les ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logemen, n'excèdent pas un plafond fixé par décret et tenant compte de la composition du foyer et de la localisation du logement ; ;
 
 8° Les quartiers prioritaires de la politique de la ville s'entendent de ceux définis à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
@@ -74,7 +74,7 @@ III.-Dans le secteur de l'accession sociale à la propriété, relèvent des tau
 
 1° Les livraisons et livraisons à soi-même des logements destinés à être occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière lorsqu'ils font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision d'agrément prise par le représentant de l'Etat dans le département ;
 
-2° Les livraisons et livraisons à soi-même des logements et travaux faisant l'objet d'un contrat d'accession à la propriété pour lequel le prix de vente ou de construction n'excède pas le plafond prévu pour les logements mentionnés au 1° du présent III lorsque, à la date du dépôt de la demande de permis de construire, ces logements et travaux :
+2° Les livraisons et livraisons à soi-même des logements et travaux faisant l'objet d'un contrat d'accession à la propriété destiné à des personnes physiques dont les ressources ne dépassent pas les plafonds prévus pour les titulaires des contrats mentionnés au 1° du présent III et pour lequel le prix de vente ou de construction n'excède pas le plafond prévu pour les logements mentionnés au 1° du présent III lorsque, à la date du dépôt de la demande de permis de construire, ces logements et travaux :
 
 a) Soit sont situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou dans un quartier prioritaire de la politique de la ville faisant l'objet d'un contrat de ville prévu à l'article 6 de la loi n° 2014-173 du 21 février 2014 précitée, ou sont entièrement situés à moins de 300 mètres de la limite de ces quartiers ;
 

@@ -1,1 +1,1 @@
-II bis : Plateformes de dématérialisation partenaires
+II bis : Plateformes agréées

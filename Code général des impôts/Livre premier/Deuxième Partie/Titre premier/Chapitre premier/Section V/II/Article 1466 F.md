@@ -8,7 +8,7 @@ III. – Le taux de l'abattement mentionné au II est majoré dans les cas suiva
 
 1° Pour les établissements situés en Guyane et à Mayotte ;
 
-2° (abrogé)
+2° Au titre des années 2026 à 2030, pour les établissements situés dans les communes mentionnées au 2° du III de l'article 44 quaterdecies ;
 
 3° Pour les établissements d'entreprises qui exercent leur activité principale dans l'un des secteurs mentionnés au 3° du III de l'article 44 quaterdecies ;
 
@@ -25,6 +25,3 @@ VI. – Lorsqu'un établissement réunit les conditions requises pour bénéfici
 VII. – (Abrogé)
 
 VIII. – Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
-
-NOTA:
-Conformément au B du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies à compter de 2025.

@@ -80,5 +80,7 @@ zk) Au titre de 2017, à 1,004 pour les propriétés non bâties, à 1,004 pour 
 
 A compter de 2018, dans l'intervalle de deux actualisations prévues à l'article 1518, les valeurs locatives foncières sont majorées par application d'un coefficient égal à 1 majoré du quotient, lorsque celui-ci est positif, entre, d'une part, la différence de la valeur de l'indice des prix à la consommation harmonisé du mois de novembre de l'année précédente et la valeur du même indice au titre du mois de novembre de l'antépénultième année et, d'autre part, la valeur du même indice au titre du mois de novembre de l'antépénultième année.
 
+A compter de 2027, les valeurs locatives foncières des bâtiments et des terrains industriels évalués selon les règles fixées à l'article 1499 sont majorées chaque année par application d'un coefficient égal à la moyenne nationale des coefficients d'évolution départementaux des loyers mentionnés aux deux derniers alinéas du IV de l'article 1518 ter appliqués cette même année.
+
 NOTA:
 Modifications effectuées en conséquence de l’article 156-I-3° de la loi n° 2018-1317 du 28 décembre 2018.

@@ -22,7 +22,7 @@ Pour l'appréciation du caractère annexé des surfaces de stationnement mention
 
 V. – Sont exonérés de la taxe :
 
-1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement, situés dans une zone franche urbaine-territoire entrepreneur, telle que définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
+1° (Abrogé) ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux associations, reconnues d'utilité publique, dans lesquels elles exercent leur activité ;
 
@@ -112,4 +112,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX. – La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

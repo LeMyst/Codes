@@ -30,7 +30,7 @@ La fraction des produits mentionnés au premier alinéa du présent 2° qui n'es
 
 3° Lorsque les conditions d'application du b du 2 du II de l'article 125-0 A ne sont pas remplies, les produits mentionnés au 2° du présent B attachés à des primes versées à compter du 27 septembre 2017 sont soumis au taux mentionné au 1° du présent B.
 
-2. Par dérogation au 1, sur option expresse et irrévocable du contribuable, l'ensemble des revenus, gains nets, profits, plus-values et créances mentionnés à ce même 1 est retenu dans l'assiette du revenu net global défini à l'article 158. Cette option globale est exercée lors du dépôt de la déclaration prévue à l'article 170, et au plus tard avant l'expiration de la date limite de déclaration.
+2. Par dérogation au 1, sur option expresse du contribuable, l'ensemble des revenus, gains nets, profits, plus-values et créances mentionnés à ce même 1 est retenu dans l'assiette du revenu net global défini à l'article 158. Cette option globale est exercée lors du dépôt de la déclaration prévue à l'article 170, et au plus tard avant l'expiration de la date limite de déclaration.
 
 2 bis. (Abrogé)
 

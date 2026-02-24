@@ -1,6 +1,6 @@
 # Article 244 quater E
 
-I. – 1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2027 et exploités en Corse pour les besoins exclusifs d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
+I. – 1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2028 et exploités en Corse pour les besoins exclusifs d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse, ainsi que l'exploitation de jeux de hasard et d'argent ;
 
@@ -49,6 +49,3 @@ Lorsque l'investissement est réalisé par une société soumise au régime d'im
 IV. – Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
 V. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
-
-NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.

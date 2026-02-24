@@ -18,11 +18,11 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
-III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France jusqu'au 31 décembre 2026 :
+III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France jusqu'au 31 décembre 2028, et après cette date lorsque ces opérations ou ces prestations se rapportent à des œuvres pour lesquels l'agrément provisoire mentionné au IV a été délivré avant la date mentionnée au présent alinéa :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
 
-b) Les rémunérations versées aux artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété intellectuelle et aux artistes de complément, par référence pour chacun d'eux à la rémunération minimale prévue par les conventions et accords collectifs conclus entre les organisations de salariés et d'employeurs de la profession, ainsi que les charges sociales afférentes ;
+b) Les rémunérations versées aux artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété intellectuelle et aux artistes de complément, par référence, pour ceux ayant la nationalité française ou qui sont ressortissants d'un Etat mentionné au 2 du présent III, à la rémunération minimale prévue par les conventions et accords collectifs conclus entre les organisations de salariés et d'employeurs de la profession, ainsi que les charges sociales afférentes. Le montant de ces rémunérations et de ces charges sociales est retenu dans la limite de 30 % du budget de production de l'œuvre ;
 
 c) Les salaires versés aux personnels de la réalisation et de la production, ainsi que les charges sociales afférentes ;
 
@@ -40,7 +40,7 @@ Le montant cumulé des rémunérations mentionnées au a et des salaires mention
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 40 % en ce qui concerne les œuvres cinématographiques ou audiovisuelles de fiction dans lesquelles au moins 15 % des plans, soit en moyenne un plan et demi par minute, font l'objet d'un traitement numérique permettant d'ajouter des personnages, des éléments de décor ou des objets participant à l'action ou de modifier le rendu de la scène ou le point de vue de la caméra, à la condition que, au sein du budget de production de l'œuvre, le montant total des dépenses éligibles afférentes aux travaux de traitement numérique des plans soit supérieur à deux millions d'euros.
 
-2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
+2. Les auteurs et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
 
 1. Pour le calcul du crédit d'impôt, l'assiette des dépenses éligibles est plafonnée à 80 % du budget de production de l'œuvre.
 
@@ -53,3 +53,8 @@ VI. – La somme des crédits d'impôt calculés au titre d'une même œuvre ne 
 VII. – Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 
 VIII. – Un décret précise les conditions d'application du présent article.
+
+NOTA:
+Conformément au II de l'article 88 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I dudit article n'est applicable qu'aux sommes venant en déduction de l'impôt dû.
+
+Conformément au III de l'article 88 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

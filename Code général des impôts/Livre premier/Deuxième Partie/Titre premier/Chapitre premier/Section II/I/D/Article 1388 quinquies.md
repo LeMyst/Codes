@@ -14,7 +14,7 @@ III. – Le montant de l'abattement mentionné au II est majoré :
 
 1° Pour les immeubles ou parties d'immeubles situés en Guyane ou à Mayotte qui sont rattachés à un établissement satisfaisant aux conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F ;
 
-2° (abrogé)
+2° Au titre des années 2026 à 2030, pour les immeubles ou les parties d'immeubles situés dans les communes mentionnées au 2° du III de l'article 44 quaterdecies ;
 
 3° Pour ceux situés en Martinique, en Guadeloupe ou à La Réunion et rattachés à un établissement d'une entreprise qui exerce, à titre principal, une activité relevant d'un des secteurs mentionnés au 3° du III de l'article 44 quaterdecies ;
 

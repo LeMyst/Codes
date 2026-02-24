@@ -26,7 +26,7 @@ II. – Le prix d'acquisition est, sur justificatifs, majoré :
 
 6° Des frais acquittés pour la restauration et la remise en état des biens meubles.
 
-III. – Le prix d'acquisition est minoré du montant des amortissements admis en déduction en application de l'article 39 C, à l'exception de ceux de ces amortissements constitutifs de dépenses prises en compte pour la détermination de l'impôt sur le revenu en application de la première phrase du 4° du II du présent article.
+III. – Le prix d'acquisition est minoré du montant des amortissements admis en déduction en application des i et j du 1° du I de l'article 31 ou de l'article 39 C, à l'exception de ceux de ces amortissements constitutifs de dépenses prises en compte pour la détermination de l'impôt sur le revenu en application de la première phrase du 4° du II du présent article.
 
 Le premier alinéa du présent III n'est pas applicable aux biens ou aux droits relatifs à ces biens situés dans :
 

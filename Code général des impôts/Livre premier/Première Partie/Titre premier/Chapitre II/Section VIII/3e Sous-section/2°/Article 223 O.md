@@ -28,11 +28,11 @@ k. Des crédits d'impôt dégagés par chaque société du groupe en application
 
 l. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater T ; l'article 220 Z octies s'applique à la somme de ces crédits d'impôt ;
 
-m. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater M ; les dispositions de l'article 199 ter L s'appliquent à la somme de ces crédits d'impôt ;
+m. (Abrogé) ;
 
 n. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater L ; les dispositions de l'article 220 M s'appliquent à la somme de ces crédits ;
 
-o. (Périmé) ;
+o. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater K ; le même article 244 quater K s'applique à la somme de ces crédits d'impôt ;
 
 p. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater O ; les dispositions de l'article 220 P s'appliquent à la somme de ces crédits d'impôt ;
 
@@ -67,4 +67,4 @@ z quinquies. Des réductions d'impôts dégagées par chaque société du groupe
 2. (Abrogé).
 
 NOTA:
-Conformément au II de l'article 31 de la loi n° 2025-127 du 14 février 2025, l'article précité s'applique aux dépenses engagées à compter d'une date fixée par décret, postérieure à la réception par le Gouvernement de la réponse de la Commission européenne permettant de le considérer comme conforme au droit de l'Union européenne en matière d'aides d'Etat, et au plus tard six mois après cette réception.
+Conformément au B du II de l'article 33 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux dépenses engagées à compter du lendemain de la publication de la loi précitée.

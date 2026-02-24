@@ -4,6 +4,8 @@ I. – La valeur locative de chaque propriété bâtie ou fraction de propriét�
 
 Les propriétés mentionnées au premier alinéa sont classées dans des sous-groupes, définis en fonction de leur nature et de leur destination. A l'intérieur d'un sous-groupe, elles sont classées par catégories, en fonction de leur utilisation, de leurs caractéristiques physiques, de leur situation et de leur consistance. Les sous-groupes et catégories de locaux sont déterminés par décret en Conseil d'Etat.
 
+Les locaux considérés comme des magasins de très grandes surfaces, en application du présent I, dont les surfaces extérieures non couvertes utilisées pour l'exercice à titre principal d'une activité de vente de produits d'origine agricole, correspondant à l'affectation principale de ce local, constituent la part majoritaire de la surface totale sont assimilés à des terrains à usage commercial ou industriel au sens du présent I. Un décret précise les modalités d'application du présent alinéa.
+
 II. – A. – La valeur locative de chaque propriété bâtie ou fraction de propriété bâtie mentionnée au I est déterminée en fonction de l'état du marché locatif à la date de référence du 1er janvier 2013, sous réserve de la mise à jour prévue au III de l'article 1518 ter.
 
 Elle est obtenue par application d'un tarif par mètre carré déterminé conformément au 2 du B du présent II à la surface pondérée du local définie au C du présent II.
@@ -33,3 +35,6 @@ A défaut, la valeur vénale de la propriété ou fraction de propriété est d�
 La valeur locative mentionnée au premier alinéa du présent A est réduite de moitié pour tenir compte de l'impact de l'affectation de la propriété ou fraction de propriété, partielle ou totale, à un service public ou d'utilité générale.
 
 B. – La valeur locative des propriétés et fractions de propriétés mentionnées au A du présent III est, sous réserve de la mise à jour prévue au deuxième alinéa du IV de l'article 1518 ter, déterminée au 1er janvier 2013 ou, pour celles créées après le 1er janvier 2017, au 1er janvier de l'année de leur création.
+
+NOTA:
+Conformément au II de l'article 114 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1er janvier 2026.

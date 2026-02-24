@@ -12,9 +12,8 @@ II. - Sont exclus du champ de la taxe prévue au I :
 
 3° Les locaux destinés au logement des élèves dans les écoles et les pensionnats ;
 
-4° Les locaux destinés au logement des étudiants dans les résidences universitaires lorsque la gestion de ces locaux est assurée par un centre régional des œuvres universitaires et scolaires ou par un organisme en subordonnant la disposition à des conditions financières et d'occupation analogues.
+4° Les locaux destinés au logement des étudiants dans les résidences universitaires lorsque la gestion de ces locaux est assurée par un centre régional des œuvres universitaires et scolaires ou par un organisme en subordonnant la disposition à des conditions financières et d'occupation analogues ;
+
+5° Les locaux définis à l'article L. 324-6 du code du tourisme.
 
 III. - Un décret définit les obligations déclaratives et les justificatifs à produire par les personnes publiques et les organismes mentionnés aux 1° et 2° du II et par les organismes, autres que les centres régionaux des œuvres universitaires et scolaires, mentionnés au 4° du même II.
-
-NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

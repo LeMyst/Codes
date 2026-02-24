@@ -18,7 +18,11 @@ III. – La limite et le taux de l'abattement mentionné au II sont majorés dan
 
 1° Pour les bénéfices provenant d'exploitations situées en Guyane et à Mayotte ;
 
-2° (abrogé)
+2° Pour les bénéfices provenant d'exploitations situées dans les communes de La Réunion appartenant à un établissement public de coopération intercommunale à fiscalité propre particulièrement défavorisé au regard du taux de pauvreté.
+
+Un décret détermine les conditions d'appréciation du taux de pauvreté mentionné au premier alinéa du présent 2° et dresse la liste des communes éligibles.
+
+Le présent 2° s'applique à l'impôt sur le revenu dû au titre des années 2025 à 2029 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2025 et jusqu'aux exercices ouverts à compter du 31 décembre 2029 ;
 
 3° Pour les bénéfices provenant d'exploitations situées en Guadeloupe, en Martinique ou à La Réunion et qui exercent leur activité principale dans l'un des secteurs suivants :
 

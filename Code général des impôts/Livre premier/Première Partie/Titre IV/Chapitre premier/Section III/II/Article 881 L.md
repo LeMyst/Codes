@@ -1,6 +1,6 @@
 # Article 881 L
 
-I. - Les formalités hypothécaires pour lesquelles il est perçu une contribution de sécurité immobilière proportionnelle donnent lieu à la perception d'une contribution réduite de moitié, sous réserve des dispositions de l'article 881 M :
+I. - Les formalités pour lesquelles il est perçu une contribution de sécurité immobilière proportionnelle donnent lieu à la perception d'une contribution réduite de moitié, sous réserve des dispositions de l'article 881 M :
 
 1° Lorsqu'elles intéressent les organismes d'habitation à loyer modéré indiqués à l'article L. 411-2 du code de la construction et de l'habitation et les autres organismes et collectivités indiqués aux articles L. 432-1 à L. 432-4 et L. 472-1-1 du même code ;
 
@@ -16,4 +16,4 @@ c) Aux opérations prévues par l'ordonnance n° 45-610 du 10 avril 1945 fixant 
 
 d) Aux actes, pièces et écrits visés à l'article 1058 et à l'article L. 211-11 du code de l'action sociale et des familles concernant les associations familiales et les unions d'associations familiales.
 
-II.-Par exception aux dispositions du I, lorsqu'elles se rapportent aux opérations de fusions et d'apports réalisées par les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation ainsi que par les sociétés d'économie mixte de construction et de gestion de logements sociaux mentionnées à l'article L. 481-1 du même code, les formalités hypothécaires pour lesquelles il est perçu une contribution de sécurité immobilière proportionnelle donnent lieu à la perception d'une contribution au taux de 0,01 % jusqu'au 31 décembre 2021, sous réserve de l'article 881 M du présent code.
+II.-Par exception aux dispositions du I, lorsqu'elles se rapportent aux opérations de fusions et d'apports réalisées par les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation ainsi que par les sociétés d'économie mixte de construction et de gestion de logements sociaux mentionnées à l'article L. 481-1 du même code, les formalités pour lesquelles il est perçu une contribution de sécurité immobilière proportionnelle donnent lieu à la perception d'une contribution au taux de 0,01 % jusqu'au 31 décembre 2021, sous réserve de l'article 881 M du présent code.

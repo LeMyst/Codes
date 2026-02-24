@@ -46,11 +46,11 @@ b) Un associé détient avec les membres de son foyer fiscal au moins 25 % des d
 
 L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat caractérise l'extension d'une activité préexistante lorsque l'entreprise nouvellement créée bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise est placée dans une situation de dépendance.
 
-IV.-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies, 44 quindecies A ou 44 sexdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+IV.-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 octies B, 44 duodecies, 44 terdecies, 44 quindecies A ou 44 sexdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
 V.-Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 En dehors des zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 17 du même règlement.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

@@ -22,6 +22,8 @@ II. – Les dispositions du I sont applicables :
 
 b) Par dérogation au a du présent 2, au gain net réalisé en cas de retrait de titres d'un plan d'épargne en actions défini à l'article 163 quinquies D à hauteur de la fraction non exonérée mentionnée au 5° bis de l'article 157 ;
 
+Le présent 2 n'est pas applicable aux retraits de titres mentionnés à l'article 163 bis H effectués avant la réalisation du gain net mentionné au I du même article 163 bis H ;
+
 2 bis. Au gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini à l'article 163 quinquies D en cas de clôture après l'expiration de la cinquième année lorsqu'à la date de cet événement la valeur liquidative du plan ou de rachat du contrat de capitalisation est inférieure au montant des versements effectués sur le plan depuis son ouverture, compte non tenu de ceux afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan, et à condition que, à la date de la clôture, les titres figurant dans le plan aient été cédés en totalité ou que le contrat de capitalisation ait fait l'objet d'un rachat total ;
 
 2 ter. Au gain net déterminé dans les conditions prévues à l'article 150-0 B quinquies lors du retrait de titres ou de liquidités ou de la clôture d'un compte défini à l'article L. 221-32-4 du code monétaire et financier ;
@@ -113,4 +115,4 @@ Le gain net réalisé à l'occasion de chaque retrait ou rachat s'entend de la d
 IV. – Le I ne s'applique pas aux partages qui portent sur des valeurs mobilières, des droits sociaux et des titres assimilés, dépendant d'une succession ou d'une communauté conjugale et qui interviennent uniquement entre les membres originaires de l'indivision, leur conjoint, des ascendants, des descendants ou des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en est de même des partages portant sur des biens indivis issus d'une donation-partage et des partages portant sur des biens indivis acquis par des partenaires ayant conclu un pacte civil de solidarité ou par des époux, avant ou pendant le pacte ou le mariage. Ces partages ne sont pas considérés comme translatifs de propriété dans la mesure des soultes ou plus-values.
 
 NOTA:
-Conformément au A du III de l’article 3 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter de la date prévue au II de l'article 34 de la loi n° 2023-973 du 23 octobre 2023 relative à l'industrie verte, c’est-à-dire à une date fixée par décret, et au plus tard le 1er juillet 2024.
+Conformément au premier alinéa du B du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux retraits des titres mentionnés à l'article 163 bis H du code général des impôts intervenant à compter du 15 février 2025.

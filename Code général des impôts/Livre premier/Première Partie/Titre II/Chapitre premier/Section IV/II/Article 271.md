@@ -20,15 +20,21 @@ d) Celle qui correspond aux factures d'acquisition intracommunautaire établies 
 
 e) (Abrogé).
 
-2. La déduction peut être opérée :\
-   a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;\
-   b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 287, conformément au 5 du même article 287, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :\
-   1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;\
-   2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 292, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 293 A ;\
-   3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 277 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.\
-   Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue au 4 de l'article 1788 A.
+2. La déduction peut être opérée :
 
-1. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
+a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;
+
+b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 287, conformément au 5 du même article 287, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :
+
+1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;
+
+2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 292, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 293 A ;
+
+3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 277 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.
+
+Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue au 4 de l'article 1788 A.
+
+3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
 
 III. - A cet effet, les assujettis, qui sont autorisés à opérer globalement l'imputation de la taxe sur la valeur ajoutée, sont tenus de procéder à une régularisation :
 
@@ -48,7 +54,7 @@ a) Les opérations d'assurances et de réassurances et les opérations de courta
 
 b) Les services bancaires et financiers exonérés en application des dispositions des a à e du 1° de l'article 261 C lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de l'Union européenne ou se rapportent à des exportations de biens ;
 
-c) Les opérations exonérées en application des dispositions du 8 de l'article 261, des articles 262, 262-00 bis et 262 bis, des I et III de l'article 262 ter, de l'article 263, des 1° et 2° bis du II et du 2° du III de l'article 291 ;
+c) Les opérations exonérées en application des dispositions du 8 de l'article 261, des articles 262, 262-00 bis et 262 bis, des I et III de l'article 262 ter, de l'article 263, des 1° et 2° bis du II et du 2° du III de l'article 291 et du 1° du 1 de l'article 295 ;
 
 d) Les opérations non imposables en France réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se situait en France. Un décret en Conseil d'Etat fixe les modalités et les limites du remboursement de la taxe déductible au titre de ces opérations ; ce décret peut instituer des règles différentes suivant que les assujettis sont domiciliés ou établis dans les Etats membres de l'Union européenne ou dans d'autres pays ;
 

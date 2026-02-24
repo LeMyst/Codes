@@ -98,7 +98,9 @@ b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir 
 
 7° En cas de cession d'actions gratuites attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du code de commerce, à partir de la date d'acquisition prévue au sixième alinéa du I de l'article L. 225-197-1 du code de commerce ;
 
-8° En cas de cession ou de rachat des parts ou actions du nouveau fonds commun de placement ou de la nouvelle société d'investissement à capital variable créés dans le cadre d'une scission réalisée en application des articles L. 214-7-4, L. 214-8-7, L. 214-24-33 et L. 214-24-41 du code monétaire et financier, en cas de dissolution de ce fonds ou de cette société ainsi que pour les distributions mentionnées aux 7 et 7 bis ainsi qu'aux deux derniers alinéas du 8 du II de l'article 150-0 A du présent code, à partir de la date d'acquisition ou de souscription des parts ou actions de l'ancien fonds commun de placement ou de l'ancienne société d'investissement à capital variable.
+8° En cas de cession ou de rachat des parts ou actions du nouveau fonds commun de placement ou de la nouvelle société d'investissement à capital variable créés dans le cadre d'une scission réalisée en application des articles L. 214-7-4, L. 214-8-7, L. 214-24-33 et L. 214-24-41 du code monétaire et financier, en cas de dissolution de ce fonds ou de cette société ainsi que pour les distributions mentionnées aux 7 et 7 bis ainsi qu'aux deux derniers alinéas du 8 du II de l'article 150-0 A du présent code, à partir de la date d'acquisition ou de souscription des parts ou actions de l'ancien fonds commun de placement ou de l'ancienne société d'investissement à capital variable ;
+
+9° En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article 150-0 A de titres reçus à l'occasion d'une opération d'apport mentionnée au I de l'article 210 E bis, à partir de la date de l'exercice de l'une des options prévues aux 1 ou 2 de l'article 1655 sexies.
 
 En cas de cessions antérieures de titres ou droits de la société concernée pour lesquels le gain net a été déterminé en retenant un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3, le nombre de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou souscrits aux dates les plus anciennes.
 
@@ -130,7 +132,7 @@ Pour l'ensemble des valeurs françaises à revenu variable, il peut également r
 
 Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits sociaux qui, détenus directement ou indirectement dans les bénéfices sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants, ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années. Pour ces droits, le contribuable peut substituer au prix d'acquisition la valeur de ces droits au 1er janvier 1949 si elle est supérieure.
 
-5. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait dudit plan, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157.
+5. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait dudit plan, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157. Par dérogation, le prix d'acquisition des titres mentionnés à l'article 163 bis H et retirés dans les conditions prévues au dernier alinéa du 2 du II de l'article 150-0 A est réputé égal à leur valeur d'acquisition ou de souscription dans le plan.
 
 5 bis. En cas de cession de titres après la clôture d'un plan d'épargne avenir climat défini à l'article L. 221-34-2 du code monétaire et financier ou leur retrait dudit plan, le prix d'acquisition est réputé égal à leur valeur à la date, selon le cas, de la clôture ou du retrait.
 
@@ -146,7 +148,19 @@ Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits
 
 9. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article 150-0 A de titres reçus à l'occasion d'une opération mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres échangés, diminué du montant de la soulte reçue, qui n'a pas fait l'objet d'une imposition au titre de l'année de l'échange, ou majoré de la soulte versée lors de cet échange.
 
-9 bis. En cas de cession à titre onéreux ou de rachat de parts de fonds communs de placement à risques ou de fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital investissement pour lesquelles le contribuable a perçu une distribution mentionnée au 7 du II de l'article 150-0 A, le prix d'acquisition ou de souscription est diminué à concurrence du montant des sommes ou valeurs ainsi distribuées qui n'a pas été imposé en application du même 7.
+9 bis. En cas de cession à titre onéreux ou de rachat de parts de fonds communs de placement à risques ou de fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital investissement pour lesquelles le contribuable a perçu une distribution mentionnée au 7 du II de l'article 150-0 A, le prix d'acquisition ou de souscription est diminué à concurrence du montant des sommes ou valeurs ainsi distribuées qui n'a pas été imposé en application du même 7 ;
+
+9 ter. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article 150-0 A de titres reçus à l'occasion d'une opération d'apport mentionnée au I de l'article 210 E bis et attribués dans le délai d'un an prévu au V du même article 210 E bis, le prix ou la valeur d'acquisition à retenir pour le calcul du gain net est déterminé :
+
+1° Lorsque l'apport a porté sur l'intégralité du patrimoine, en retenant la valeur réelle nette de l'entreprise au jour de l'exercice de l'une des options prévues aux 1 ou 2 de l'article 1655 sexies ;
+
+2° Lorsque l'apport a porté sur une branche complète d'activité, en retenant la valeur correspondant au produit :
+
+a) De la valeur réelle nette de l'entreprise au jour de l'exercice de l'une des options prévues aux mêmes 1 ou 2 ;
+
+b) Et du rapport existant, à la date de l'apport, entre la valeur réelle nette de la branche complète d'activité apportée et la valeur réelle nette de l'entreprise apporteuse.
+
+Pour l'application des 1° et 2° du présent 9 ter, la valeur réelle nette de l'entreprise au jour de l'exercice de l'option est minorée des valeurs d'acquisition, définies au 2°, retenues pour les apports antérieurs de branches complètes d'activité effectués à compter de la date de l'option.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la société d'investissement à capital variable absorbée remises à l'échange.
 
@@ -183,4 +197,8 @@ c. abrogé
 Le montant des sommes reçues en exécution d'une telle clause de garantie de passif ou d'actif net diminue le prix d'acquisition des valeurs mobilières ou des droits sociaux à retenir par le cessionnaire pour la détermination du gain net de cession des titres concernés.
 
 NOTA:
-Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.
+Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'applique aux apports réalisés à compter du 1er janvier 2026.
+
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+
+Conformément au premier alinéa du B du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux retraits des titres mentionnés à l'article 163 bis H du code général des impôts intervenant à compter du 15 février 2025.

@@ -1,8 +1,10 @@
 # Article 1530
 
-I. – Les communes peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis, instituer une taxe annuelle sur les friches commerciales situées sur leur territoire.
+I. – A. - Les communes peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis, instituer une taxe annuelle sur les friches commerciales situées sur leur territoire.
 
-Toutefois, les établissements publics de coopération intercommunale à fiscalité propre ayant une compétence d'aménagement des zones d'activités commerciales peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis, instituer cette taxe en lieu et place de la commune.
+Par dérogation, les communes peuvent instituer la taxe sur le seul périmètre de leur territoire correspondant aux secteurs d'intervention délimités par une convention d'opération de revitalisation de territoire mentionnée au III de l'article L. 303-2 du code de la construction et de l'habitation prévoyant des actions ou opérations mentionnées au 9° du même III.
+
+B. - Les établissements publics de coopération intercommunale à fiscalité propre ayant une compétence d'aménagement des zones d'activités commerciales peuvent, par une délibération prise dans les conditions prévues au I de l'article 1639 A bis, instituer la taxe mentionnée au A du présent I en lieu et place de la commune.
 
 II. – La taxe est due pour les biens évalués en application de l'article 1498, à l'exception de ceux visés à l'article 1500, qui ne sont plus affectés à une activité entrant dans le champ de la cotisation foncière des entreprises défini à l'article 1447 depuis au moins deux ans au 1er janvier de l'année d'imposition et qui sont restés inoccupés au cours de la même période.
 
@@ -19,6 +21,3 @@ VI. – La taxe n'est pas due lorsque l'absence d'exploitation des biens est ind
 VII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions de la taxe sont régis comme en matière de taxe foncière sur les propriétés bâties.
 
 VIII. – Les dégrèvements accordés en application du VI ou par suite d'une imposition établie à tort en application du II sont à la charge de la commune ou de l'établissement public de coopération intercommunale. Ils s'imputent sur les attributions mensuelles de taxes et les impositions perçues par voie de rôle.
-
-NOTA:
-LOI n° 2012-1509 du 29 décembre 2012 de finances pour 2013 article 83 I : les dispositions du présent article s'appliquent à compter des impositions dues au titre de 2014.

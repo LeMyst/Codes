@@ -16,7 +16,7 @@ Au titre de l'année qui suit la sortie du régime d'imposition prévu à l'arti
 
 1. Les contribuables visés au 1 doivent tenir et, sur demande du service des impôts, présenter un document donnant le détail journalier de leurs recettes professionnelles.
 
-Lorsqu'il est tenu par un contribuable non adhérent d'une association de gestion agréée, ce document comporte, quelle que soit la profession exercée, l'identité déclarée par le client ainsi que le montant, la date et la forme du versement des honoraires.
+Ce document comporte, quelle que soit la profession exercée, l'identité déclarée par le client ainsi que le montant, la date et la forme du versement des honoraires.
 
 5. Les contribuables qui souhaitent renoncer au bénéfice du présent article peuvent opter pour le régime visé à l'article 97.
 
@@ -31,6 +31,3 @@ b. (Abrogé) ;
 c. Les contribuables dont tout ou partie des biens affectés à l'exploitation sont compris dans un patrimoine fiduciaire en application d'une opération de fiducie définie à l'article 2011 du code civil ;
 
 d Les contribuables qui exercent une activité occulte au sens du deuxième alinéa de l'article L. 169 du livre des procédures fiscales.
-
-NOTA:
-Modification effectuée en conséquence de l'article 22-I-2° et III A de la loi n° 2017-1837 du 30 décembre 2017.

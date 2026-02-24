@@ -48,11 +48,11 @@ a) Le nombre de salariés dont le contrat de travail est à durée indéterminé
 
 b) Ou le nombre de salariés embauchés à compter de la création de l'entreprise et remplissant les conditions décrites au a est égal au moins à la moitié du total des salariés embauchés dans les mêmes conditions, au cours de la même période.
 
-IV.-Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies, 44 quindecies A ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+IV.-Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 octies B, 44 duodecies, 44 terdecies, 44 quindecies A ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
 V.-Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 En dehors des zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 17 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 NOTA:
-Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

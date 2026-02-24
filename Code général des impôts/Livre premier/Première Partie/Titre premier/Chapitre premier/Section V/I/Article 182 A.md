@@ -1,6 +1,6 @@
 # Article 182 A
 
-I. A l'exception des salaires entrant dans le champ d'application de l'article 182 A bis, les traitements, salaires, pensions et rentes viagères, de source française, servis à des personnes qui ne sont pas fiscalement domiciliées en France donnent lieu à l'application d'une retenue à la source.
+I. A l'exception des salaires entrant dans le champ d'application de l'article 182 A bis et de la fraction du gain net imposée dans les conditions prévues au IV de l'article 163 bis H, les traitements, salaires, pensions et rentes viagères, de source française, servis à des personnes qui ne sont pas fiscalement domiciliées en France donnent lieu à l'application d'une retenue à la source.
 
 II. La base de cette retenue est constituée par le montant net des sommes versées, déterminé conformément aux règles applicables en matière d'impôt sur le revenu, à l'exclusion de celles qui prévoient la déduction des frais professionnels réels.
 
@@ -19,4 +19,4 @@ IV. - Chacune des limites des tranches du tarif prévu au III est révisée chaq
 V. La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les conditions prévues à l'article 197 A.
 
 NOTA:
-Modifications effectuées en conséquence de l’article 4-I-1° de la loi n° 2020-1721 du 29 décembre 2020 et de l'article 2-I B 1° a de la loi n° 2025-127 du 14 février 2025.
+Conformément au A du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux dispositions, cessions, conversions, échanges ou mises en location réalisés à compter du 15 février 2025, à l'exception du b du 1° du D qui s'applique aux donations et dons manuels intervenus à compter du lendemain de la promulgation de la présente loi.

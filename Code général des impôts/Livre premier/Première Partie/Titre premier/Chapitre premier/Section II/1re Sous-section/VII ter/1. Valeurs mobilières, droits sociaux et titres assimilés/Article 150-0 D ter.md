@@ -30,7 +30,7 @@ c) Cesser toute fonction dans la société dont les titres ou droits sont cédé
 
 a) Elle est une petite ou moyenne entreprise au sens de l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité. Cette condition s'apprécie à la date de clôture de chacun des deux derniers exercices qui précèdent la date de la cession ;
 
-b) Elle exerce une activité mentionnée au a du 2° du I de l'article 150-0 B ter, sous la même exclusion, ou a pour objet social exclusif de détenir des participations dans des sociétés exerçant les activités éligibles mentionnées à ce même a.
+b) Elle exerce une activité commerciale, au sens des articles 34 ou 35, industrielle, artisanale, libérale, agricole ou financière, à l'exclusion des activités de gestion de son propre patrimoine mobilier ou immobilier, ou a pour objet social exclusif de détenir des participations dans des sociétés exerçant les activités éligibles au sens du présent b.
 
 Cette condition s'apprécie de manière continue pendant les cinq années précédant la cession ;
 
@@ -83,4 +83,4 @@ L'abattement prévu au même II bis est remis en cause au titre de l'année qui 
 Lorsqu'il est fait application des deuxième et troisième alinéas du présent IV et que le cédant ne peut pas prétendre au bénéfice du II, la plus-value est, le cas échéant, réduite de l'abattement prévu aux 1 ter ou 1 quater de l'article 150-0 D.
 
 NOTA:
-Conformément au A du V de l'article 92 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux bons de souscription de parts de créateurs d'entreprise et aux titres souscrits en exercice de ces bons lorsque la souscription des titres est intervenue à compter du 1er janvier 2025.
+Conformément au B du III de l'article 11 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du II du même article, s'appliquent aux cessions réalisées à compter du lendemain de la publication de la loi précitée.

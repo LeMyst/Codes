@@ -8,7 +8,7 @@ Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les 
 
 II. – Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
 
-a) Le siège social de l'entreprise ainsi que l'ensemble de son activité et de ses moyens d'exploitation sont implantés dans les zones mentionnées au I. Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 25 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 25 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice ;
+a) Le siège social de l'entreprise ainsi que l'ensemble de son activité et de ses moyens d'exploitation sont implantés dans les zones mentionnées au I. Lorsqu'une entreprise exerce une activité sédentaire ou non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 25 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 25 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice ;
 
 b) L'entreprise emploie moins de onze salariés. L'effectif salarié est apprécié, au titre de chaque exercice, selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale ;
 
@@ -37,6 +37,3 @@ IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispos
 V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VI. – L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
-
-NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.

@@ -12,7 +12,7 @@ Chaque inscription doit indiquer la date, la désignation sommaire des objets ve
 
 Le livre prescrit ci-dessus ou la comptabilité en tenant lieu, ainsi que les pièces justificatives des opérations effectuées par les redevables, notamment les factures d'achat, doivent être conservés selon les modalités prévues aux I et I bis de l'article L. 102 B du livre des procédures fiscales ;
 
-3° bis Si elle effectue des livraisons de biens et des prestations de services ne donnant pas lieu à facturation conformément à l'article 289 du présent code et enregistre ces opérations au moyen d'un logiciel ou d'un système de caisse, utiliser un logiciel ou un système satisfaisant à des conditions d'inaltérabilité, de sécurisation, de conservation et d'archivage des données en vue du contrôle de l'administration fiscale, attestées par un certificat délivré par un organisme accrédité dans les conditions prévues à l'article L. 433-4 du code de la consommation ;
+3° bis Si elle effectue des livraisons de biens et des prestations de services ne donnant pas lieu à facturation conformément à l'article 289 du présent code et enregistre ces opérations au moyen d'un logiciel ou d'un système de caisse, utiliser un logiciel ou un système satisfaisant à des conditions d'inaltérabilité, de sécurisation, de conservation et d'archivage des données en vue du contrôle de l'administration fiscale, attestées par un certificat délivré par un organisme accrédité dans les conditions prévues à l'article L. 433-4 du code de la consommation ou par une attestation individuelle de l'éditeur, conforme à un modèle fixé par l'administration ;
 
 4° Fournir aux agents des impôts, ainsi qu'à ceux des autres services financiers désignés par décrets, pour chaque catégorie d'assujettis, tant au principal établissement que dans les succursales ou agences, toutes justifications nécessaires à la fixation des opérations imposables, sans préjudice des dispositions de l'article L. 85 du livre des procédures fiscales.
 
@@ -25,8 +25,3 @@ II.-1-0. Les assujettis bénéficiant d'une franchise de taxe relevant de l'arti
 III.-L'option formulée au titre du III de l'article 256 C vaut déclaration au sens des 1° et 2° du I du présent article pour l'assujetti unique constitué en application de l'article 256 C. Elle précise la dénomination, la domiciliation et le représentant de l'assujetti unique ainsi que la nature des activités de chacun de ses membres. La déclaration comporte la liste des membres ainsi que les numéros individuels d'identification à la taxe sur la valeur ajoutée qui leur ont été attribués avant leur entrée dans l'assujetti unique.
 
 Chaque membre de l'assujetti unique constitué en application du même article 256 C est tenu de remplir les obligations mentionnées aux 3°, 3° bis et 4° du I du présent article.
-
-NOTA:
-Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
-
-Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 215-26 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

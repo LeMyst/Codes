@@ -12,13 +12,15 @@ b. Ou elle est dirigée ou détenue directement à hauteur de 10 % au moins, seu
 
 c. Ou elle a réalisé des dépenses de recherche, définies aux a à g du II de l'article 244 quater B et au 1 du A du II de l'article 244 quater B bis, représentant entre 5 et 20 % des charges, à l'exception des pertes de change et des charges nettes sur cessions de valeurs mobilières de placement, fiscalement déductibles au titre de cet exercice et elle satisfait à des indicateurs de performance économique définis selon des modalités précisées par décret. Pour le calcul du ratio de dépenses de recherche, il n'est pas tenu compte des charges engagées auprès d'autres jeunes entreprises de croissance ou jeunes entreprises innovantes réalisant des projets de recherche et de développement ;
 
+d. Ou elle a réalisé des dépenses de recherche, au sens du c du présent 3°, et elle répond aux critères des jeunes entreprises d'utilité sociale mentionnées à l'article L. 3332-17-1 du code du travail ou aux conditions prévues au 2° du II de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire. Cette catégorie spécifique est qualifiée de jeune entreprise d'innovation à impact ;
+
 4° son capital est détenu de manière continue à 50 % au moins :
 
 a. par des personnes physiques ;
 
 b. ou par une société répondant aux mêmes conditions dont le capital est détenu pour 50 % au moins par des personnes physiques ;
 
-c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
+c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l' article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
 
 d. ou par des fondations ou associations reconnues d'utilité publique à caractère scientifique, ou par une société qualifiée elle-même de jeune entreprise innovante réalisant des projets de recherche et développement ;
 
@@ -27,4 +29,4 @@ e. ou par des établissements publics de recherche et d'enseignement ou leurs fi
 5° elle n'est pas créée dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités préexistantes ou d'une reprise de telles activités au sens du III de l'article 44 sexies.
 
 NOTA:
-Conformément au VI de l'article 22 de la LOI n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, ces dispositions entrent en vigueur le premier jour du mois suivant la publication de la présente loi, soit le 1er mars 2025, et est applicable aux cotisations et aux contributions dues au titre des périodes d'activité courant à compter de la même date.
+Conformément au A du V de l'article 23 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux versements effectués à compter du lendemain de la publication de ladite loi.

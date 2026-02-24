@@ -34,7 +34,7 @@ En cas de cession d'un bien détenu en indivision, ce seuil s'apprécie au regar
 
 En cas de cession d'un bien dont le droit de propriété est démembré, le seuil de 15 000 € s'apprécie au regard de chaque quote-part indivise en pleine propriété ;
 
-7° Qui sont cédés jusqu'au 31 décembre 2025 :
+7° Qui sont cédés jusqu'au 31 décembre 2027 :
 
 a) A un organisme d'habitations à loyer modéré, à une société d'économie mixte gérant des logements sociaux, à l'association mentionnée à l'article L. 313-34 du code de la construction et de l'habitation, à une société civile immobilière dont cette association détient la majorité des parts pour les logements mentionnés au 4° de l'article L. 831-1 du même code, à un organisme bénéficiant de l'agrément relatif à la maîtrise d'ouvrage prévu à l'article L. 365-2 dudit code ou à un organisme de foncier solidaire ;
 

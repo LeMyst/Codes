@@ -2,13 +2,13 @@
 
 1. Sont exonérés de la taxe sur la valeur ajoutée :
 
-1° Les transports maritimes de personnes et de marchandises effectués dans les limites de chacun des départements de la Guadeloupe, de la Martinique et de la Réunion ;
+1° Les transports aériens et maritimes de personnes et de marchandises effectués dans les limites de chacun des départements de la Guadeloupe, de la Martinique et de la Réunion ;
 
 2° Les ventes et importations de riz dans le département de la Réunion ;
 
-3° (Abrogé)
+3° (Abrogé) ;
 
-4° (Abrogé)
+4° (Abrogé) ;
 
 5° Dans les départements de la Guadeloupe, de la Martinique et de la Réunion :
 
@@ -22,7 +22,7 @@ c. La livraison en l'état de biens importés en exonération de la taxe conform
 
 7° Les affrètements et locations de courte durée, au sens du a du 1° de l'article 259 A du présent code, de navires de plaisance qui sont d'une longueur de coque supérieure à vingt-quatre mètres et dont la jauge brute est inférieure à trois mille, mis à disposition à partir du territoire de la Guadeloupe ou de la Martinique en vue de réaliser des voyages d'agréments en dehors des eaux territoriales.
 
-2. (abrogé)
+2. (abrogé).
 
 1. (Abrogé).
 

@@ -8,9 +8,9 @@ II. – 1. Les établissements publics de coopération intercommunale mentionné
 
 2. Les établissements publics de coopération intercommunale mentionnés au 1 se substituent également aux communes membres pour la perception :
 
-a) Du produit de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue à l'article 1519 D ;
+a) Du produit de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 D relative, d'une part, aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, à l'exception des installations ayant fait l'objet à compter du 1er janvier 2026 d'une modification substantielle ou notable, au sens de l'article L. 181-14 du code de l'environnement, induisant une augmentation de la puissance installée du parc éolien où ces installations sont situées, et, d'autre part, aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale ;
 
-b) Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du 1er janvier 2019, prévue au même article 1519 D.
+b) Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis du présent code, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 D et relative aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du 1er janvier 2019 ou aux installations ayant fait l'objet à compter du 1er janvier 2026 d'une modification substantielle ou notable, au sens de l'article L. 181-14 du code de l'environnement, induisant une augmentation de la puissance installée du parc éolien où ces installations sont situées.
 
 II bis. – Le II est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la deuxième phrase du premier alinéa du même II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette phrase.
 
@@ -45,6 +45,3 @@ Ces établissements publics peuvent, sur délibérations concordantes de l'étab
 Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut être mis à la charge de cet établissement public, à l'exclusion de la part calculée selon les modalités prévues aux 1° et 2° du a du D du IV du même 2.1.
 
 Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre les délibérations prévues au présent 5.
-
-NOTA:
-Conformément au G du XXVII de l’article 55 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent à compter du 1er janvier 2024.

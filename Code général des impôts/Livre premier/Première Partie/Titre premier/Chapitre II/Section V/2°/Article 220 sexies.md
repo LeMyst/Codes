@@ -92,7 +92,7 @@ a) Pour une œuvre de fiction :
 
 b) Pour une œuvre documentaire et d'adaptation audiovisuelle de spectacles : 1 450 € par minute produite et livrée ;
 
-c) Pour une œuvre d'animation : 3 000 € par minute produite et livrée.
+c) Pour une œuvre d'animation : 6 000 € par minute produite et livrée.
 
 Les œuvres audiovisuelles de fiction produites dans le cadre d'une coproduction internationale dont le coût de production est couvert au moins à hauteur de 30 % par des financements étrangers et dont le coût de production est supérieur ou égal à 35 000 € par minute produite peuvent être réalisées en langue étrangère. Dans ce cas, elles doivent faire l'objet d'une version livrée en langue française.
 
@@ -105,6 +105,6 @@ VII. – Les crédits d'impôt obtenus pour la production d'une même oeuvre cin
 VIII. – Un décret fixe les conditions d'application du présent article.
 
 NOTA:
-Conformément au II de l’article 38 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus d'un mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
+Conformément au II de l'article 85 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, ne s'appliquent qu'aux sommes venant en déduction de l'impôt dû.
 
-Conformément à l'article 1 du décret n° 2023-85 du 10 février 2023, ces dispositions entrent en vigueur le lendemain de la publication dudit décret, à savoir le 12 février 2023.
+Conformément au II de l'article 85 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant du II est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

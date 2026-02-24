@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 AB
 
-I.-1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital des entreprises mentionnées au 1 du II.
+I. - 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital des entreprises mentionnées au 1 du II.
 
 Cet avantage fiscal s'applique, dans les mêmes conditions, aux souscriptions effectuées par des personnes physiques en indivision. Chaque membre de l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa souscription représentative de titres reçus en contrepartie de souscriptions au capital des entreprises vérifiant les conditions prévues au II du présent article.
 
@@ -22,7 +22,7 @@ En cas de non-respect de la condition de conservation par suite d'une fusion ou 
 
 Les dispositions du troisième alinéa du présent 4° ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du souscripteur ou de son conjoint ou partenaire lié par un pacte civil de solidarité soumis à une imposition commune. Il en est de même en cas de donation à une personne physique des titres reçus en contrepartie de la souscription au capital de l'entreprise si le donataire reprend l'obligation de conservation des titres transmis prévue au premier alinéa du présent 4°. A défaut, la reprise de la réduction d'impôt obtenue est effectuée au nom du donateur ;
 
-5° Les apports ne sont pas remboursés au contribuable avant le 31 décembre de la septième année suivant celle de la souscription, sauf si le remboursement fait suite à la liquidation judiciaire de l'entreprise.
+5° Les apports ne sont pas remboursés au contribuable avant le 31 décembre de la cinquième année suivant celle de la souscription, sauf si le remboursement fait suite à la liquidation judiciaire de l'entreprise.
 
 En cas de non-respect de la condition prévue au premier alinéa du présent 5°, l'avantage fiscal mentionné au 1 du présent I est remis en cause au titre de l'année au cours de laquelle le contribuable cesse de respecter cette condition.
 
@@ -32,7 +32,7 @@ Cette condition s'applique également à l'indivision mentionnée au second alin
 
 7° Les souscriptions mentionnées au 1 du présent I confèrent aux souscripteurs les seuls droits résultant de la qualité d'actionnaire ou d'associé, à l'exclusion de toute autre contrepartie notamment sous la forme de garantie en capital, de tarifs préférentiels ou d'accès prioritaire aux biens produits ou aux services rendus par la société.
 
-II.-1. L'entreprise bénéficiaire de la souscription mentionnée au I satisfait aux conditions suivantes :
+II. - 1. L'entreprise bénéficiaire de la souscription mentionnée au I satisfait aux conditions suivantes :
 
 1° Elle est agréée “ entreprise solidaire d'utilité sociale ” conformément à l'article L. 3332-17-1 du code du travail ;
 
@@ -42,11 +42,11 @@ a) Soit l'une des activités mentionnées au 1° ou au 3° de l'article L. 365-1
 
 b) Soit une activité d'acquisition et de gestion par bail rural de tous biens ruraux bâtis et non bâtis, dans le respect des conditions suivantes :
 
--l'activité répond aux objectifs mentionnés au 1° du I de l'article L. 141-1 du code rural et de la pêche maritime et l'entreprise n'exerce pas d'activité d'exploitation ;
+- l'activité répond aux objectifs mentionnés au 1° du I de l'article L. 141-1 du code rural et de la pêche maritime et l'entreprise n'exerce pas d'activité d'exploitation ;
 
--les baux ruraux sont conclus avec des preneurs répondant aux conditions mentionnées au 3° du présent 1 et comportent des clauses mentionnées au troisième alinéa de l'article L. 411-27 du code rural et de la pêche maritime ;
+- les baux ruraux sont conclus avec des preneurs répondant aux conditions mentionnées au 3° du présent 1 et comportent des clauses mentionnées au troisième alinéa de l'article L. 411-27 du code rural et de la pêche maritime ;
 
--l'entreprise s'engage dans ses statuts à ne pas céder à titre onéreux les biens ruraux acquis pour l'exercice de son activité pendant une durée minimale de vingt ans, sauf à titre exceptionnel, lorsque le bien se révèle impropre à la culture ou doit être cédé dans le cadre d'un aménagement foncier ou pour faire face à de graves difficultés économiques conjoncturelles, après information du ministère de l'agriculture et pour un prix de cession n'excédant pas la valeur nette comptable dudit bien ;
+- l'entreprise s'engage dans ses statuts à ne pas céder à titre onéreux les biens ruraux acquis pour l'exercice de son activité pendant une durée minimale de vingt ans, sauf à titre exceptionnel, lorsque le bien se révèle impropre à la culture ou doit être cédé dans le cadre d'un aménagement foncier ou pour faire face à de graves difficultés économiques conjoncturelles, après information du ministère de l'agriculture et pour un prix de cession n'excédant pas la valeur nette comptable dudit bien ;
 
 3° Elle exerce son activité en faveur de personnes en situation de fragilité du fait de leur situation économique ou sociale au sens du 1° de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire.
 
@@ -60,11 +60,11 @@ Les missions effectuées par l'entreprise bénéficiaire pour l'exécution du se
 
 Un décret précise :
 
--les différents marchés de référence, en distinguant ceux des entreprises qui accomplissent des services sociaux relatifs au logement social mentionnés à l'article L. 365-1 du code de la construction et de l'habitation, ceux des autres entreprises intervenant en matière de logement et ceux des entreprises qui exercent l'activité mentionnée au b du 2° du présent 1 ;
+- les différents marchés de référence, en distinguant ceux des entreprises qui accomplissent des services sociaux relatifs au logement social mentionnés à l'article L. 365-1 du code de la construction et de l'habitation, ceux des autres entreprises intervenant en matière de logement et ceux des entreprises qui exercent l'activité mentionnée au b du 2° du présent 1 ;
 
--les modalités de détermination de la différence entre le tarif de mise à disposition par l'entreprise bénéficiaire et le tarif de référence sur le marché dans lequel elle intervient ;
+- les modalités de détermination de la différence entre le tarif de mise à disposition par l'entreprise bénéficiaire et le tarif de référence sur le marché dans lequel elle intervient ;
 
--le contenu de la convention mentionnée au deuxième alinéa du présent 4° ;
+- le contenu de la convention mentionnée au deuxième alinéa du présent 4° ;
 
 5° Les titres financiers ou parts sociales ayant fait l'objet des souscriptions ouvrant droit à la réduction d'impôt sont soumis aux exigences suivantes :
 
@@ -72,9 +72,9 @@ a) L'entreprise ne procède pas à la distribution de dividendes ;
 
 b) Ces titres ou parts sont incessibles à un prix excédant leur valeur d'acquisition, majorée d'un taux de rendement annuel qui ne peut être supérieur à un plafond défini comme la somme entre :
 
--le taux du livret A en vigueur au premier jour du mois de la date de la cession ;
+- le taux du livret A en vigueur au premier jour du mois de la date de la cession ;
 
--et, le cas échéant, une majoration, définie par arrêté du ministre de l'économie, dans la limite de 1,25 % ;
+- et, le cas échéant, une majoration, définie par arrêté du ministre de l'économie, dans la limite de 1,25 % ;
 
 c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les modalités de revalorisation de ces titres ou parts ;
 
@@ -88,15 +88,15 @@ c) Les statuts de l'entreprise prévoient, si de telles modalités existent, les
 
 a) Au numérateur :
 
--la somme du produit, pour chaque marché sur lequel l'entreprise est intervenue en application du 4° du 1 du présent II au cours de l'avant-dernier exercice clos :
+- la somme du produit, pour chaque marché sur lequel l'entreprise est intervenue en application du 4° du 1 du présent II au cours de l'avant-dernier exercice clos :
 
 i) de la surface mise à la disposition des personnes mentionnées au 3° du même 1 au cours de ce même exercice ;
 
 ii) par la différence de tarif prévue au premier alinéa du 4° dudit 1 constatée au cours dudit exercice ;
 
--majorée d'un montant forfaitaire représentatif du surcroît de charges d'exploitation mobilisées par l'entreprise pour l'accompagnement spécifique prévu au même premier alinéa, dont les modalités de calcul sont fixées par la convention prévue au deuxième alinéa du même 4° ;
+- majorée d'un montant forfaitaire représentatif du surcroît de charges d'exploitation mobilisées par l'entreprise pour l'accompagnement spécifique prévu au même premier alinéa, dont les modalités de calcul sont fixées par la convention prévue au deuxième alinéa du même 4° ;
 
--et minorée, le cas échéant, des autres aides publiques spécifiques destinées à compenser les coûts liés à l'exécution du service d'intérêt économique général défini au premier alinéa dudit 4° ;
+- et minorée, le cas échéant, des autres aides publiques spécifiques destinées à compenser les coûts liés à l'exécution du service d'intérêt économique général défini au premier alinéa dudit 4° ;
 
 b) Au dénominateur, le taux de la réduction d'impôt définie au 1 du I applicable au titre de l'exercice de souscription ;
 
@@ -108,9 +108,9 @@ b) De 15 millions d'euros, s'agissant des entreprises qui exercent l'activité m
 
 Un décret précise la nature et les obligations de transmission par l'entreprise des informations nécessaires à la justification du calcul du plafond défini au 1° du présent 2 ainsi que les modalités de leur exploitation par l'administration.
 
-III.-La réduction d'impôt prévue au I ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne avenir climat mentionné à l'article L. 221-34-2 du code monétaire et financier, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A ou 199 terdecies-0 B du présent code.
+III. - La réduction d'impôt prévue au I ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne avenir climat mentionné à l'article L. 221-34-2 du code monétaire et financier, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier, dans un sous-compte français du produit paneuropéen d'épargne-retraite individuelle mentionné à l'article L. 225-1 du même code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A ou 199 terdecies-0 B du présent code.
 
-IV.-Le bénéfice de la réduction d'impôt prévue au I est subordonné au respect de la décision 2012/21/ UE de la Commission du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
+IV. - Le bénéfice de la réduction d'impôt prévue au I est subordonné au respect de la décision 2012/21/ UE de la Commission du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
 
 NOTA:
-Conformément au A du III de l’article 3 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter de la date prévue au II de l'article 34 de la loi n° 2023-973 du 23 octobre 2023 relative à l'industrie verte, c’est-à-dire à une date fixée par décret, et au plus tard le 1er juillet 2024.
+Conformément au II de l'article 27 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux versements effectués à compter du lendemain de la publication de ladite loi.

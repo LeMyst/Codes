@@ -2,9 +2,7 @@
 
 I. – La cotisation foncière des entreprises est due pour l'année entière par le redevable qui exerce l'activité le 1er janvier.
 
-Toutefois le contribuable qui cesse toute activité dans un établissement n'est pas redevable de la cotisation foncière des entreprises pour les mois restant à courir, sauf en cas de cession de l'activité exercée dans l'établissement ou en cas de transfert d'activité ou lorsque le démantèlement et la dépollution du site sur lequel l'activité était exercée sont rendus obligatoires au titre de l'article R. 512-75-1 du code de l'environnement.
-
-Dans ce dernier cas, le contribuable demeure redevable de la cotisation foncière des entreprises jusqu'à la réhabilitation ou la remise en état du site, définie au VI du même article R. 512-75-1. Le présent alinéa exclut de son champ d'application les sociétés visées par une procédure collective au sens du livre VI du code de commerce.
+Toutefois le contribuable qui cesse toute activité dans un établissement n'est pas redevable de la cotisation foncière des entreprises pour les mois restant à courir, sauf en cas de cession de l'activité exercée dans l'établissement ou en cas de transfert d'activité.
 
 Lorsqu'au titre d'une année une cotisation foncière des entreprises a été émise au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de ce dernier, au titre de la même année, est établie au profit de l'Etat dans la limite du dégrèvement accordé au contribuable imposé à tort.
 
@@ -29,3 +27,6 @@ Sur décision de l'organe délibérant de la commune et de l'établissement publ
 VI. – Les organismes mentionnés au II de l'article 1447 deviennent imposables dans les conditions prévues au II, à compter de l'année au cours de laquelle l'une des trois conditions prévues au premier alinéa du 1 bis de l'article 206 n'est plus remplie. Lorsque l'organisme se livrait à une activité lucrative l'année précédant celle au cours de laquelle il devient imposable, la réduction de base prévue au troisième alinéa du II n'est pas applicable.
 
 Sous réserve des dispositions du deuxième alinéa du I, l'organisme reste redevable de la cotisation foncière des entreprises au titre de l'année au cours de laquelle il remplit les conditions prévues au premier alinéa du 1 bis de l'article 206, lorsqu'il ne les remplissait pas l'année précédente.
+
+NOTA:
+Conformément au II de l'article 44 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, s'appliquent à compter du 1er janvier 2026.

@@ -4,7 +4,7 @@ I. – Les contribuables qui créent des activités entre le 1er janvier 2007 et
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
 
-L'exonération ne s'applique pas aux créations d'activités dans les bassins d'emploi à redynamiser consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert des articles 44 sexies, 44 septies, dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022, 44 octies, dans sa rédaction antérieure à la même loi , 44 octies A, 44 quindecies, 44 quindecies A, 44 sexdecies et 44 septdecies ou de la prime d'aménagement du territoire.
+L'exonération ne s'applique pas aux créations d'activités dans les bassins d'emploi à redynamiser consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert des articles 44 sexies, 44 septies, dans sa rédaction antérieure à la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022, 44 octies, dans sa rédaction antérieure à la même loi , 44 octies A, 44 octies B, 44 quindecies, 44 quindecies A, 44 sexdecies et 44 septdecies ou de la prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration ou d'une restructuration d'activités préexistantes exercées dans les bassins d'emploi à redynamiser ou qui reprennent de telles activités, sauf pour la durée restant à courir, si l'activité reprise ou transférée bénéficie ou a bénéficié du régime d'exonération prévu au présent article.
 
@@ -30,15 +30,11 @@ L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'e
 
 III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du groupe.
 
-Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 octies A, 44 quindecies A, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
+Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 octies B, 44 quindecies A, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
 V. – (disjoint)
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
-
-Conformément au VII de l'article 99 de la loi n° 2025-127 du 14 février 2025, les dispositions du troisième alinéa du I s'appliquent à compter du 1er janvier 2025.
-
-Se reporter au IV à VIII dudit article pour les autres modalités.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

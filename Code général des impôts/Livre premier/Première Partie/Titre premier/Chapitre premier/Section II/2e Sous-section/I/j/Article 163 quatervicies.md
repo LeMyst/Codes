@@ -18,7 +18,7 @@ d) Sauf application de l'option prévue au deuxième alinéa de l'article L. 224
 
 Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte.
 
-b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
+b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des cinq années suivantes.
 
 c) (Abrogé).
 
@@ -31,3 +31,6 @@ II. – Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du 
 1. – Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 septdecies ou au 9 de l'article 93 ainsi que les abattements prévus à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
+
+NOTA:
+Conformément au II de l'article 10 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant du I dudit article est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

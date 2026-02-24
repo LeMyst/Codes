@@ -4,9 +4,9 @@ Le résultat net comptable d'une entité constitutive qui est une entité interp
 
 Le premier alinéa ne s'applique pas :
 
-1° Aux entités interposées qui sont une entité mère ultime ;
+1° Au résultat net comptable d'une entité interposée qui est une entité mère ultime ;
 
-2° Aux entités interposées détenues, directement ou par l'intermédiaire d'une chaîne d'entités transparentes, par une entité interposée mère ultime de son groupe.
+2° A la quote-part du résultat net comptable d'une entité interposée revenant à l'entité mère ultime, qui est elle-même une entité interposée, et qui détient cette première entité directement ou par l'intermédiaire d'une chaîne d'entités transparentes.
 
 NOTA:
-Conformément au A du IV de l’article 33 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux exercices ouverts à compter du 31 décembre 2023.
+Conformément au B du II de l’article 105 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du B du I dudit article, s'appliquent aux exercices ouverts à compter du 31 décembre 2023.

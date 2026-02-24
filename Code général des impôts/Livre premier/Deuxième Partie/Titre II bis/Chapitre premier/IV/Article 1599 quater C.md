@@ -10,7 +10,7 @@ III. – Les surfaces de stationnement mentionnées au I s'entendent des locaux 
 
 IV. – Sont exclues du champ de la taxe :
 
-1° Les surfaces de stationnement exonérées en application des 1° à 2° bis et 5° du V de l'article 231 ter ;
+1° Les surfaces de stationnement exonérées en application des 2° à 2° bis et 5° du V de l'article 231 ter ;
 
 2° Les surfaces de stationnement mentionnées au III du présent article d'une superficie inférieure à cinq cents mètres carrés.
 
@@ -43,4 +43,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX.-Le produit annuel de la taxe est affectée à la région d'Ile-de-France, retracée dans la section d'investissement de son budget, en vue de financer les dépenses d'investissement en faveur des transports en commun, dans la limite du montant prévu à l'article L. 4414-5 du code général des collectivités territoriales. Le solde de ce produit est affecté à l'établissement public Société des grands projets mentionné à l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite d'un plafond annuel.
 
 NOTA:
-Modifications effectuées en conséquence de l'article 165-I-B et II de la loi n° 2018-1317 du 28 décembre 2018.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

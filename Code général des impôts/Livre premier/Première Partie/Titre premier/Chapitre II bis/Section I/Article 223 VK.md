@@ -2,6 +2,14 @@
 
 Pour l'application du présent chapitre, est entendu par :
 
+1° A Accord de titrisation : l'opération financière qui a pour objet :
+
+a) De regrouper des actifs financiers ou non financiers ou les risques auxquels sont exposés ces actifs ;
+
+b) De les répartir en compartiments à destination de tiers ou de créanciers d'un véhicule de titrisation, défini au 49°, qui ne sont pas des entités constitutives du groupe d'entreprise dudit véhicule ;
+
+c) De limiter l'exposition de ces tiers ou de ces créanciers au seul risque d'insolvabilité de l'entité détenant les actifs mentionnés au a du présent 1° A ;
+
 1° Bénéfice qualifié net ou perte qualifiée nette des entités constitutives : la somme, respectivement positive ou négative, des résultats qualifiés de toutes les entités constitutives situées dans un même Etat ou territoire ;
 
 2° Crédit d'impôt non qualifié : un avantage en impôt remboursable en tout ou en partie qui ne répond pas à la définition posée au 3°.
@@ -76,21 +84,35 @@ b) Et entièrement détenue par une ou plusieurs entités soumises à la réglem
 
 14° Entité interposée :
 
-a) Une entité dont les produits, les charges, les bénéfices ou les pertes sont traités, par la législation de l'Etat ou du territoire dans lequel elle a été créée, comme s'ils étaient réalisés ou comptabilisés par le détenteur direct de cette entité, proportionnellement à sa participation dans cette entité, à moins qu'elle soit résidente et soumise aux impôts couverts au titre de ses revenus ou de ses bénéfices dans un autre Etat ou territoire ;
+a) Une entité dont la législation de l'Etat ou du territoire dans lequel elle a été créée prévoit d'en traiter les produits, les charges, les bénéfices ou les pertes comme s'ils étaient réalisés ou comptabilisés par le détenteur de cette entité, proportionnellement à sa participation dans cette entité.
 
-b) Une entité interposée est :
+Une telle entité n'est toutefois pas une entité interposée si elle est résidente et soumise aux impôts couverts au titre de ses revenus ou de ses bénéfices dans un autre Etat ou territoire que celui dans lequel elle est située.
 
--soit une entité transparente, lorsque ses produits, ses charges, ses bénéfices ou ses pertes sont aussi traités par la législation de l'Etat ou du territoire dans lequel est situé son détenteur direct comme s'ils étaient réalisés ou comptabilisés par ce détenteur, proportionnellement à sa participation dans l'entité ;
+Aux fins de la présente définition, le détenteur d'une entité interposée s'entend de la première entité constitutive détenant, directement ou indirectement, une participation dans l'entité interposée sans être elle-même une entité interposée. Si toutes les entités détenant, directement ou indirectement, une telle participation sont des entités interposées, le détenteur d'une entité interposée est l'entité mère ultime du groupe.
 
--soit une entité hybride inversée, lorsque ses produits, ses charges, ses bénéfices ou ses pertes ne sont pas traités par la législation de l'Etat ou du territoire dans lequel est situé son détenteur direct comme s'ils étaient réalisés ou comptabilisés par ce détenteur, proportionnellement à sa participation dans l'entité ;
+Une entité interposée est qualifiée :
 
-c) Une entité constitutive qui n'est ni résidente, ni soumise à un impôt couvert ou à un impôt complémentaire national qualifié dans un Etat ou territoire, en raison de son siège de direction, de son lieu de création ou d'autres critères similaires, est réputée être une entité interposée et une entité transparente s'agissant de ses produits, de ses charges, de ses bénéfices ou de ses pertes, lorsque les conditions cumulatives suivantes sont réunies :
+- d'entité transparente lorsque la législation de l'Etat ou du territoire dans lequel son détenteur est situé prévoit de traiter les produits, les charges, les bénéfices ou les pertes de l'entité et, le cas échéant, des entités constitutives par l'intermédiaire desquelles ce détenteur détient sa participation dans ladite entité comme s'ils étaient réalisés ou comptabilisés par celui-ci, proportionnellement à sa participation dans ces entités.
 
--la législation de l'Etat ou du territoire dans lequel sont situés les détenteurs directs de l'entité traite les produits, les charges, les bénéfices ou les pertes de l'entité comme s'ils étaient réalisés ou comptabilisés par ces détenteurs, proportionnellement à leur participation dans l'entité ;
+Est également une entité transparente l'entité mentionnée au b du présent 14° ;
 
--elle ne possède pas d'installation d'affaires dans l'Etat ou dans le territoire où elle a été créée ;
+- d'entité hybride inversée lorsque la législation fiscale de l'Etat ou du territoire dans lequel est situé son détenteur ne traite pas les produits et charges ou les bénéfices et pertes de l'entité ni, le cas échéant, les entités constitutives par l'intermédiaire desquelles ce détenteur détient sa participation dans ladite entité comme des entités transparentes dans les conditions prévues à l'avant-dernier alinéa du présent a ;
 
--ses produits, ses charges, ses bénéfices ou ses pertes ne sont pas attribuables à un établissement stable ;
+b) Une entité constitutive qui n'est ni résidente, ni soumise à un impôt couvert ou à un impôt complémentaire national qualifié dans un Etat ou territoire, en raison de son siège de direction, de son lieu de création ou d'autres critères similaires, s'agissant de ses produits, de ses charges, de ses bénéfices ou de ses pertes, lorsque les conditions cumulatives suivantes sont réunies :
+
+- la législation de l'Etat ou du territoire dans lequel sont situés les détenteurs directs de l'entité traite les produits, les charges, les bénéfices ou les pertes de l'entité comme s'ils étaient réalisés ou comptabilisés par ces détenteurs, proportionnellement à leur participation dans l'entité ;
+
+- elle ne possède pas d'installation d'affaires dans l'Etat ou dans le territoire où elle a été créée ;
+
+- ses produits, ses charges, ses bénéfices ou ses pertes ne sont pas attribuables à un établissement stable ;
+
+14° bis Entité hybride : une entité constitutive qui remplit les conditions cumulatives suivantes :
+
+a) La législation de l'Etat ou du territoire dans lequel elle est située considère l'entité comme imposable.
+
+Cette condition est présumée remplie même lorsque la législation de l'Etat ou du territoire ne comporte pas d'impôt équivalent à l'impôt sur les sociétés dès lors que l'entité n'est pas considérée comme une entité transparente conformément à l'avant-dernier alinéa du a du 14° ;
+
+b) La législation de l'Etat ou du territoire dans lequel est situé son détenteur, direct ou indirect, prévoit de traiter les produits, les charges, les bénéfices ou les pertes de l'entité comme s'ils étaient réalisés ou comptabilisés par ce détenteur, pour la part se rapportant à ses droits dans cette entité ;
 
 15° Entité mère : une entité mère intermédiaire, une entité mère partiellement détenue ou une entité mère ultime, qui n'est pas une entité exclue conformément à l'article 223 VL bis ;
 
@@ -103,6 +125,8 @@ c) Une entité constitutive qui n'est ni résidente, ni soumise à un impôt cou
 a) Une entité qui détient, directement ou indirectement, une participation conférant le contrôle, au sens du 38°, dans une entité constitutive et qui n'est pas elle-même détenue dans les mêmes conditions ;
 
 b) Ou l'entité principale d'un groupe au sens du b du 26° ;
+
+c) Ou un organe central mentionné à l'article L. 511-30 du code monétaire et financier ou une caisse départementale ou interdépartementale mentionnée à l'article L. 512-55 du même code titulaire d'un agrément collectif délivré par l'Autorité de contrôle prudentiel et de résolution pour elle-même et pour les caisses locales qui la détiennent, lorsque cette entité est tenue d'établir des états financiers consolidés en application d'une norme de comptabilité financière qualifiée ;
 
 19° Entité publique : une entité qui remplit les conditions cumulatives suivantes :
 
@@ -140,7 +164,9 @@ b) Pour les groupes définis au b du 26°, les états financiers établis par l'
 
 c) Les états financiers de l'entité mère ultime qui ne sont pas établis en application d'une norme de comptabilité financière qualifiée mais qui ont été retraités afin de corriger les écarts significatifs conformément à l'article 223 VN bis ;
 
-d) Lorsque l'entité mère ultime n'établit pas d'états financiers au sens des a, b ou c du présent 22°, les états financiers qui auraient été établis si elle avait été tenue de le faire, en application :
+c bis) Les comptes combinés établis par une entité en application de l'article L. 345-2 du code des assurances, du 8° de l'article L. 423-1-2 du code de la construction et de l'habitation ou de l'article L. 524-6-2 du code rural et de la pêche maritime ;
+
+d) Lorsque l'entité mère ultime n'établit pas d'états financiers au sens des a, b, c ou c bis du présent 22°, les états financiers qui auraient été établis si elle avait été tenue de le faire, en application :
 
 -d'une norme de comptabilité financière qualifiée ;
 
@@ -264,6 +290,8 @@ c) Et qui était en vigueur au plus tard le 1er juillet 2021 ;
 
 40° Régime fiscal des sociétés étrangères contrôlées : un ensemble de règles fiscales, autres qu'une règle d'inclusion du revenu qualifiée au sens du 41°, en application desquelles l'actionnaire ou l'associé, direct ou indirect, d'une entité étrangère ou le siège d'un établissement stable est soumis dans son Etat de résidence, proportionnellement à sa participation, à une imposition sur tout ou partie du résultat de cette entité ou de cet établissement, que ce résultat soit ou non distribué ;
 
+40° bis Régime fiscal agrégé des sociétés étrangères contrôlées : un régime fiscal des sociétés étrangères contrôlées qui agrège les bénéfices et les pertes qui sont imposés à un taux inférieur à 15 % ainsi que les impôts étrangers imputables de toutes les entités étrangères contrôlées, directement ou indirectement, par un associé soumis à ce régime afin d'établir une imposition complémentaire à la charge de cet associé ;
+
 41° Règle d'inclusion du revenu qualifiée : un ensemble de règles mises en œuvre dans le droit interne d'un Etat ou territoire, qui sont équivalentes et appliquées conformément aux règles prévues au présent chapitre ou dans le modèle de règles adopté par le cadre inclusif de l'Organisation de coopération et de développement économiques le 14 décembre 2021, selon lesquelles l'entité mère d'un groupe d'entreprises multinationales ou d'un groupe national calcule et paie la part de l'impôt complémentaire qui lui est attribuable à raison des entités constitutives faiblement imposées du groupe ;
 
 42° Règle relative aux bénéfices insuffisamment imposés qualifiée : un ensemble de règles mises en œuvre dans le droit interne d'un Etat ou territoire, qui sont équivalentes et appliquées conformément aux règles prévues au présent chapitre ou dans le modèle de règles adopté par le cadre inclusif de l'Organisation de coopération et de développement économiques le 14 décembre 2021, selon lesquelles un Etat ou territoire perçoit la fraction lui revenant de l'impôt complémentaire d'un groupe d'entreprises multinationales qui n'a pas été prélevé en application d'une règle d'inclusion du revenu qualifiée ;
@@ -278,7 +306,23 @@ c) Et qui était en vigueur au plus tard le 1er juillet 2021 ;
 
 47° Valeur nette comptable d'un actif corporel : la moyenne des valeurs comptables d'un actif corporel entre l'ouverture et la clôture de l'exercice après prise en compte du cumul des amortissements, des dépréciations et des pertes de valeur, tels qu'ils sont enregistrés dans les états financiers ;
 
-48° Véhicule d'investissement immobilier : une entité dont les capitaux sont largement répartis qui détient principalement des actifs immobiliers et qui est soumise à une imposition unique de son résultat, soit à son niveau, soit entre les mains de ses détenteurs, reportable d'un an au maximum.
+48° Véhicule d'investissement immobilier : une entité dont les capitaux sont largement répartis qui détient principalement des actifs immobiliers et qui est soumise à une imposition unique de son résultat, soit à son niveau, soit entre les mains de ses détenteurs, reportable d'un an au maximum ;
+
+49° Véhicule de titrisation : une entité qui participe à un accord de titrisation et qui remplit les conditions suivantes :
+
+a) L'entité exerce uniquement des activités permettant la réalisation d'un ou plusieurs accords de titrisation ;
+
+b) L'entité octroie des garanties sur les actifs qu'elle détient en faveur de ses créanciers ou ceux d'un autre véhicule de titrisation ;
+
+c) L'entité reverse tous les flux de liquidités provenant des actifs qu'elle détient à ses créanciers au moins annuellement, à l'exception de :
+
+- la fraction de liquidités destinée à assurer un niveau de bénéfices fixé dans le cadre de l'accord de titrisation, qui est destiné aux distributions ultérieures effectuées au profit des détenteurs du capital ;
+
+- la fraction de liquidités déterminée en application de l'accord de titrisation pour la constitution de provisions en vue de faire face aux paiements futurs effectués par l'entité, conformément aux termes de l'accord de titrisation, ou pour le maintien ou l'amélioration de la solvabilité de l'entité.
 
 NOTA:
-Conformément au II de l'article 53 de la loi n° 2025-127 du 14 février 2025, le A du I de l'article précité s'applique aux exercices clos à compter du 31 décembre 2024.
+Conformément au II de l’article 104 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue dudit article, s'appliquent aux exercices clos à compter du lendemain de la publication de ladite loi.
+
+Conformément au A du II de l’article 105 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du 4° du A du I dudit article, s'appliquent aux exercices clos à compter du lendemain de la publication de ladite loi.
+
+Conformément au B du II de l’article 105 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue des 1° à 3° et 5° du A du I dudit article, s'appliquent aux exercices ouverts à compter du 31 décembre 2023.

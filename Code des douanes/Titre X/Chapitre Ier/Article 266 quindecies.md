@@ -1,6 +1,6 @@
 # Article 266 quindecies
 
-I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles et des essences sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
+I. - Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles et des essences sont redevables d'une taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports.
 
 Pour l'application du présent article :
 
@@ -26,26 +26,26 @@ Pour l'application du présent article :
 
 Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
 
-II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
+II. - Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
 
-III.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences, et des gazoles pour lesquels elle est devenue exigible au cours de l'année civile.
+III. - La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est assise sur le volume total, respectivement, des essences, et des gazoles pour lesquels elle est devenue exigible au cours de l'année civile.
 
-Le montant de la taxe est calculé séparément, pour les essences, pour les gazoles et pour les carburéacteurs.
+Le montant de la taxe est calculé séparément pour les essences et pour les gazoles.
 
 Ce montant est égal au produit de l'assiette définie au premier alinéa du présent III par le tarif fixé au IV, auquel est appliqué un coefficient égal à la différence entre le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports, fixé au même IV, et la proportion d'énergie renouvelable déterminée dans les conditions prévues au V. Si la proportion d'énergie renouvelable est supérieure ou égale au pourcentage national cible d'incorporation d'énergie renouvelable dans les transports, la taxe est nulle.
 
-IV.-Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'énergie renouvelable dans les transports sont les suivants :
+IV. - Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'énergie renouvelable dans les transports sont les suivants :
 
 | Produits | Tarif (en euros par hectolitre) | Pourcentage cible |
 | --- | --- | --- |
 | Essences | 140 | 10,5 % |
 | Gazoles | 140 | 9,4 % |
 
-V.-A.-La proportion d'énergie renouvelable désigne le quotient entre la quantité d'énergie renouvelable définie au B et la quantité d'énergie contenue dans les produits inclus dans l'assiette.
+V. - A. - La proportion d'énergie renouvelable désigne le quotient entre la quantité d'énergie renouvelable définie au B et la quantité d'énergie contenue dans les produits inclus dans l'assiette.
 
 Ces quantités sont évaluées en pouvoir calorifique inférieur.
 
-B.-1.-La quantité d'énergie renouvelable mentionnée au A est égale à la somme des quantités suivantes :
+B. - 1. - La quantité d'énergie renouvelable mentionnée au A est égale à la somme des quantités suivantes :
 
 1° Les quantités d'énergies produites à partir de sources renouvelables contenues dans les carburants inclus dans l'assiette de la taxe que le redevable doit, à l'exception de celles mentionnées au b du 3° du présent 1 ;
 
@@ -81,7 +81,7 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 
 3° Lorsque l'énergie renouvelable est contenue dans des produits issus de la biomasse, ces derniers répondent aux critères de durabilité et de réduction des émissions de gaz à effet de serre mentionnés aux 1 à 11 de l'article 29 de la directive ENR, vérifiés dans les conditions prévues à l'article 30 de la même directive.
 
-C.-Pour l'application du 1° du 1 du B du présent V, ne sont pas prises en compte les quantités d'énergie issues de matières premières mentionnées ci-dessous excédant les seuils indiqués, appréciés par catégorie :
+C. - Pour l'application du 1° du 1 du B du présent V, ne sont pas prises en compte les quantités d'énergie issues de matières premières mentionnées ci-dessous excédant les seuils indiqués, appréciés par catégorie :
 
 | Catégorie de matières premières | Seuil pour les essences | Seuil pour les gazoles |
 | --- | --- | --- |
@@ -102,13 +102,13 @@ b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur conten
 
 2° Les quantités qui conduisent à excéder le seuil prévu pour la catégorie 2 sont prises en compte à hauteur de 100 % de leur contenu énergétique pour l'application du seuil prévu à la catégorie 1.
 
-D.-Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
+D. - Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
 
 | Essences | Gazoles |
 | --- | --- |
 | 1,8 % | 0,7 % |
 
-E.-Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
+E. - Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
 | Énergie | Coefficient multiplicatif | Seuil pour les essences | Seuil pour les gazoles |
 | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ E.-Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les 
 | Hydrogène renouvelable | 2 | aucun | aucun |
 | Energie des huiles végétales hydrotraitées issues des matières de catégorie 3 mentionnées à l'article 10 du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux) | 2 | 0 % | 20 % des quantités d'énergie contenues dans les produits suivants mis à la consommation en France ou déplacés à des fins commerciales vers la France : gazoles et essences utilisés pour les besoins de la pêche |
 
-VI.-1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers, qui fournissent de l'hydrogène pour les besoins mentionnés au a du 3° du 1 du B du V ou qui utilisent de l'hydrogène pour ceux mentionnés au c du même 3°.
+VI. - 1. Le redevable de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports peut acquérir, y compris à titre onéreux, des droits de comptabilisation de quantités d'énergie renouvelable additionnelles, dans les conditions prévues au B du V, auprès des autres redevables de cette taxe ou des personnes qui exploitent des infrastructures de recharge ouvertes au public qui fournissent en France de l'électricité pour l'alimentation de véhicules routiers, qui fournissent de l'hydrogène pour les besoins mentionnés aux a ou c du 3° du 1 du B du V ou qui utilisent de l'hydrogène pour ceux mentionnés au c du même 3°.
 
 Les droits ainsi cédés sont comptabilisés pour la détermination de la quantité d'énergie renouvelable selon les modalités, prévues aux B à E du même V, applicables au titre de la même année aux matières sur lesquelles ces droits portent.
 
@@ -130,7 +130,7 @@ Lorsque le cédant est redevable de la taxe incitative, seuls peuvent être céd
 
 3. Le cédant est solidaire du paiement du supplément de taxe résultant du non-respect des conditions prévues au B du V.
 
-VII.-Le ministre chargé du budget peut, pendant une période ne pouvant excéder trente jours, renouvelable, exclure de l'assiette de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports les volumes pour lesquels elle devient exigible pendant cette période, lorsque les conditions suivantes sont réunies :
+VII. - Le ministre chargé du budget peut, pendant une période ne pouvant excéder trente jours, renouvelable, exclure de l'assiette de la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports les volumes pour lesquels elle devient exigible pendant cette période, lorsque les conditions suivantes sont réunies :
 
 1° Des difficultés exceptionnelles d'approvisionnement entraînent, au niveau national ou local, une pénurie d'un ou plusieurs carburants mentionnés au I et nécessitent la mise à disposition de stocks stratégiques pétroliers dans un bref délai ;
 
@@ -138,15 +138,15 @@ VII.-Le ministre chargé du budget peut, pendant une période ne pouvant excéde
 
 Le ministre chargé du budget peut limiter l'exclusion à ceux des produits ou des zones géographiques pour lesquels les difficultés d'approvisionnement sont les plus importantes.
 
-VIII.-Un décret fixe les documents et justificatifs devant être fournis par le redevable aux fins de la prise en compte des produits dans la détermination de la part d'énergie renouvelable conformément au présent article.
+VIII. - Un décret fixe les documents et justificatifs devant être fournis par le redevable aux fins de la prise en compte des produits dans la détermination de la part d'énergie renouvelable conformément au présent article.
 
-IX.-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est déclarée, liquidée et, le cas échéant, payée par le redevable en une fois, au plus tard le 10 avril de l'année suivant celle sur la base de laquelle son assiette est déterminée.
+IX. - La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est déclarée, liquidée et, le cas échéant, payée par le redevable en une fois, au plus tard le 10 avril de l'année suivant celle sur la base de laquelle son assiette est déterminée.
 
 Toutefois, en cas de cessation définitive d'activité taxable, elle est déclarée et, le cas échéant, payée dans les trente jours qui suivent la date de cessation d'activité. Pour la détermination de l'assiette, seuls sont pris en compte les produits au titre desquels la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est devenue exigible avant cette date.
 
-La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
+La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoleset des essences. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
-X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
+X. - Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
 
 NOTA:
-Conformément au II de l'article 25 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er janvier 2026.
+Conformément au B du I de l'article 64 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction résultant du A dudit I, s'appliquent à compter du 1er janvier 2025.

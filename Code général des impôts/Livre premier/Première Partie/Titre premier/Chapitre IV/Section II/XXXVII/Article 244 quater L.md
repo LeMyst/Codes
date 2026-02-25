@@ -1,6 +1,6 @@
 # Article 244 quater L
 
-I. – Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2025 au cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de production biologique conformément aux règles fixées dans le règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l'étiquetage des produits biologiques, et abrogeant le règlement (CE) n° 834/2007 du Conseil.
+I. – Les entreprises agricoles bénéficient d'un crédit d'impôt au titre de chacune des années 2011 à 2028 au cours desquelles au moins 40 % de leurs recettes proviennent d'activités mentionnées à l'article 63 relevant du mode de production biologique conformément aux règles fixées dans le règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l'étiquetage des produits biologiques, et abrogeant le règlement (CE) n° 834/2007 du Conseil.
 
 II. – 1. Le montant du crédit d'impôt mentionné au I s'élève à 4 500 €.
 
@@ -11,3 +11,6 @@ II. – 1. Le montant du crédit d'impôt mentionné au I s'élève à 4 500 €
 III. – Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies, qui ne sont pas soumis à l'impôt sur les sociétés, peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 IV. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ou du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture.
+
+NOTA:
+Conformément au A du VI de l'article 31 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du E du I de l'article précité, ne s'appliquent qu'aux sommes venant en déduction de l'impôt dû.

@@ -8,7 +8,7 @@ Toutefois les rémunérations ne sont admises en déduction des résultats que d
 
 Une entreprise mettant à disposition de manière temporaire un salarié dans les conditions prévues à l'article L. 8241-3 du code du travail peut déduire les salaires, charges sociales afférentes et frais professionnels remboursés au salarié mis à disposition, même lorsqu'elle ne refacture que partiellement ces coûts à l'entreprise bénéficiaire de la mise à disposition. Le bénéfice de la déduction, pour la part excédant la refacturation, est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail, y compris les charges sociales et fiscales afférentes à cette indemnité.
+1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail , y compris les charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de l'entreprise, cette indemnité ainsi que les charges sociales et fiscales y afférentes revêtent du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Cette option ne peut pas être exercée par les entreprises créées après le 31 décembre 1986. Elle est exercée avant l'expiration du délai de dépôt de la déclaration des résultats du premier exercice clos à compter du 31 décembre 1987.
 
@@ -34,7 +34,7 @@ Un décret fixe les conditions d'application de ces dispositions, notamment en c
 
 Toutefois, ne sont pas admis en déduction les amortissements des fonds commerciaux.
 
-Par dérogation au deuxième alinéa du présent 2°, sont admis en déduction les amortissements constatés dans la comptabilité des entreprises au titre des fonds commerciaux lorsqu'ils sont acquis à compter du 1er janvier 2022 et jusqu'au 31 décembre 2025. Le présent alinéa ne s'applique pas aux fonds acquis auprès d'une entreprise liée au sens du 12 du présent article ou auprès d'une entreprise, y compris une entreprise individuelle, placée, dans les conditions définies au a du même 12, sous le contrôle de la même personne physique que l'entreprise qui acquiert le fonds.
+Par dérogation au deuxième alinéa du présent 2°, sont admis en déduction les amortissements constatés dans la comptabilité des entreprises au titre des fonds commerciaux lorsqu'ils sont acquis à compter du 1er janvier 2022 et jusqu'au 31 décembre 2029. Le présent alinéa ne s'applique pas aux fonds acquis auprès d'une entreprise liée au sens du 12 du présent article ou auprès d'une entreprise, y compris une entreprise individuelle, placée, dans les conditions définies au a du même 12, sous le contrôle de la même personne physique que l'entreprise qui acquiert le fonds.
 
 Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens ;
 
@@ -158,7 +158,7 @@ Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 1° A l'amortissement des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services pour la fraction de leur prix d'acquisition qui dépasse 18 300 € :
 
-a) Pour les véhicules immatriculés en recourant à la méthode de détermination des émissions de dioxyde de carbone dite WLTP au sens de l'article L. 421-6 du code des impositions sur les biens et services, la somme mentionnée au premier alinéa du présent 1° est de :
+a) Pour les véhicules immatriculés en recourant à la méthode de détermination des émissions de dioxyde de carbone dite WLTP au sens de l'article L. 421-6 du code des impositions sur les biens et services , la somme mentionnée au premier alinéa du présent 1° est de :
 
 -30 000 € si leurs émissions de dioxyde de carbone sont inférieures à 20 grammes par kilomètre ;
 
@@ -186,7 +186,7 @@ Elle est ramenée à 9 900 € lorsque les émissions de dioxyde de carbone sont
 
 La fraction de l'amortissement des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services exclue des charges déductibles par les limitations ci-dessus est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure des véhicules ainsi amortis.
 
-Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées ou inscrites au titre des monuments historiques, des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle.
+Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées ou inscrites au titre des monuments historiques, des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce , ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle.
 
 5. Sont également déductibles les dépenses suivantes :
 
@@ -214,7 +214,7 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 1. (Abrogé).
 
-1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
+1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier , la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
@@ -224,7 +224,7 @@ Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 
 Un décret fixe les modalités d'application du présent 9.
 
-10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
+10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier , la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
 
 Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aide à finalité régionale et dans les zones de redynamisation urbaine, définis au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
 
@@ -271,6 +271,10 @@ Le premier alinéa ne s'applique pas aux aides consenties en application d'un ac
 Les aides mentionnées au deuxième alinéa qui ne revêtent pas un caractère commercial sont déductibles à hauteur de la situation nette négative de l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette négative, à proportion des participations détenues par d'autres personnes que l'entreprise qui consent les aides.
 
 NOTA:
-Conformément au A du I de l'article 95 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux opérations de réduction de capital réalisées à compter du 1er mars 2025.
+Conformément au II de l'article 7 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la taxe est due au titre des exercices clos à compter du 31 décembre 2026.
 
-Se reporter au II, au III. B. et au IV pour les modalités relatives aux différentes taxes.
+Conformément au III de l'article 7 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant de la restriction des critères d'assujettissement à la taxe instituée à l'article 235 ter C du code général des impôts et de son assiette est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+
+Conformément au II de l'article 13 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le Gouvernement remet au Parlement, avant le 1er juillet 2029, un rapport évaluant le coût du dispositif prévu au troisième alinéa du 2° du 1 de l'article 39 du code général des impôts pour l'Etat ainsi que son efficacité au regard des objectifs qui lui sont fixés.
+
+Conformément au III de l'article 13 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent aux exercices clos à compter du 1er janvier 2026.

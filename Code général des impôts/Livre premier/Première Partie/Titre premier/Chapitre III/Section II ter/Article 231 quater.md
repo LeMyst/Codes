@@ -22,7 +22,7 @@ Pour l'appréciation du caractère annexé des surfaces de stationnement mention
 
 V. - Sont exonérés de la taxe :
 
-1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement situés dans une zone franche urbaine-territoire entrepreneur définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, de même que ceux situés dans une zone de revitalisation des centres-villes définie au II de l'article 1464 F du présent code ou dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
+1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement situés dans une zone de revitalisation des centres-villes définie au II de l'article 1464 F ou dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux associations, reconnues d'utilité publique, dans lesquels elles exercent leur activité ;
 

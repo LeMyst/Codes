@@ -45,4 +45,4 @@ V.-Un décret définit les conditions d'application du présent article. Il en a
 VI.-Le bénéfice du crédit d'impôt est subordonné au respect du régime cadre exempté de notification n° SA. 111723 relatif aux aides à la recherche, au développement et à l'innovation (RDI) pour la période 2024-2026, pris sur la base du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 NOTA:
-Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 37 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux contrats de collaboration de recherche conclus à compter du 1er janvier 2026.

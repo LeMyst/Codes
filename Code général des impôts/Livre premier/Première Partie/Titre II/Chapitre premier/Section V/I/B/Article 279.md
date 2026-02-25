@@ -54,7 +54,7 @@ g. Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des oeuv
 
 Cette disposition n'est pas applicable aux cessions de droits portant sur des oeuvres d'architecture et des logiciels, ainsi qu'aux cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article L. 214-1 du code du cinéma et de l'image animée ou dans le cadre de festivals de cinéma ;
 
-h. Lorsqu'elles ne relèvent pas du taux réduit prévu au M de l'article 278-0 bis, les prestations de collecte et de traitement des déchets des ménages et des autres déchets que les collectivités mentionnées à l'article L. 2224-13 du code général des collectivités territoriales peuvent, eu égard à leurs caractéristiques et aux quantités produites, collecter et traiter sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations ;
+h. (Abrogé) ;
 
 i Les prestations de services fournies à titre exclusif, ou à titre non exclusif pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du code du travail, par des associations, des entreprises ou des organismes déclarés en application de l'article L. 7232-1-1 du même code, et dont la liste est fixée par décret ;
 
@@ -67,3 +67,6 @@ l. Les remboursements et les rémunérations versés par les départements, les 
 m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 278 ;
 
 n. Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 278.
+
+NOTA:
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.

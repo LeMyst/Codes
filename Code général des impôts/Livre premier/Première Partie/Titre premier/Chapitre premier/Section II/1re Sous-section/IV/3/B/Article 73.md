@@ -36,15 +36,31 @@ Pour l'exploitant, associé coopérateur d'une société coopérative agricole m
 
 2. Les sommes déduites sont utilisées au cours des dix exercices qui suivent celui au cours duquel la déduction a été pratiquée pour faire face à des dépenses nécessitées par l'activité professionnelle. Ces sommes sont rapportées au résultat de l'exercice au cours duquel leur utilisation est intervenue ou au résultat de l'exercice suivant.
 
-Les sommes rapportées ne sont imposables qu'à hauteur de 70 % de leur montant lorsqu'elles sont utilisées pour des dépenses liées à l'exploitation, au cours de l'exercice de survenance sur l'exploitation, ou au cours de l'exercice suivant, de l'un des risques résultant :
+Les sommes rapportées ne sont imposables qu'à hauteur de 70 % de leur montant lorsqu'elles sont utilisées pour des dépenses liées à l'exploitation, au cours de l'exercice de survenance sur l'exploitation, ou au cours de l'exercice suivant, de l'un des aléas suivants :
 
-a) De l'apparition d'un foyer de maladie animale ou végétale ou d'un incident environnemental mentionnés à l'article L. 361-3 du code rural et de la pêche maritime remplissant les conditions pour ouvrir droit à une indemnisation par un fonds de mutualisation prévu au même article L. 361-3 ;
+a) L'apparition d'un foyer de maladie animale ou végétale ou d'un incident environnemental mentionnés à l'article L. 361-3 du code rural et de la pêche maritime entraînant des pertes économiques et remplissant les conditions pour ouvrir droit à une indemnisation par un fonds de mutualisation prévu au même article L. 361-3 ;
 
-b) D'une perte de récoltes ou de cultures liée à des dommages du fait d'aléas climatiques mentionnée à l'article L. 361-4 A du même code remplissant les conditions pour ouvrir droit à une indemnisation au titre des contrats d'assurance mentionnés à l'article L. 361-4 dudit code ou fondée sur la solidarité nationale dans les conditions précisées à l'article L. 361-4-1 du même code ;
+b) Les aléas climatiques mentionnés à l'article L. 361-4 A du même code entraînant des pertes de récoltes ou de cultures et remplissant les conditions pour ouvrir droit à une indemnisation au titre des contrats d'assurance mentionnés à l'article L. 361-4 dudit code ou fondée sur la solidarité nationale dans les conditions précisées à l'article L. 361-4-2 du même code ;
 
-c) De calamités agricoles mentionnées à l'article L. 361-5 du même code remplissant les conditions pour ouvrir droit à une indemnisation en application du même article L. 361-5.
+c) L'apparition de calamités agricoles mentionnées à l'article L. 361-5 du même code entraînant des pertes de moyens de production et remplissant les conditions pour ouvrir droit à une indemnisation en application du même article L. 361-5.
 
-Le montant des sommes rapportées qui ne sont pas imposées en application du présent 2 ne peut, au titre d'un exercice donné, excéder 50 000 euros. Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, ce plafond est multiplié par le nombre des associés exploitants, dans la limite de quatre.
+d) D'un aléa économique, qui s'entend :
+
+1° Soit d'une baisse de la valeur ajoutée de l'exercice, par rapport à la moyenne des valeurs ajoutées des trois exercices clos précédant celui de la survenance de l'aléa, supérieure à 10 % ;
+
+2° Soit d'une baisse de la valeur ajoutée de l'exercice, par rapport à la moyenne des valeurs ajoutées des trois derniers exercices clos avant l'exercice précédant celui de l'aléa, supérieure à 15 %.
+
+Pour l'application du présent d, la valeur ajoutée s'entend de la différence entre, d'une part, la somme, hors taxes, des ventes, des variations d'inventaire, de la production immobilisée et autoconsommée et des indemnités et subventions d'exploitation et, d'autre part, la somme, hors taxes, du coût d'achat des marchandises vendues et de la consommation de l'exercice en provenance de tiers. La valeur ajoutée de l'exercice doit être réalisée dans des conditions comparables à celles des trois exercices de référence retenus pour apprécier la baisse de la valeur ajoutée.
+
+L'exonération partielle prévue au présent d est subordonnée à la double condition :
+
+- qu'un contrat d'assurance mentionné à l'article L. 361-4 du code rural et de la pêche maritime couvrant les pertes de l'exercice ait été souscrit ;
+
+- et que le contribuable présente, à la demande de l'administration fiscale, une attestation émanant d'un expert-comptable inscrit au tableau de l'ordre des experts comptables, dans les conditions prévues par l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, et établissant la réalité de la baisse de valeur ajoutée mentionnée aux 1° et 2° du présent d ;
+
+e) De l'apparition d'un foyer de maladie animale ou végétale ou d'un incident environnemental remplissant les conditions pour ouvrir droit à une indemnisation dans le cadre d'un programme national ou européen.
+
+Le montant des sommes rapportées qui ne sont pas imposées en application du présent 2 ne peut, au titre d'un exercice donné, excéder 50 000 euros. Toutefois, le montant des sommes non imposées au titre du d du présent 2 ne peut excéder 40 % du même plafond. Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, ce plafond est multiplié par le nombre des associés exploitants, dans la limite de quatre.
 
 3. Lorsque ces sommes ne sont pas utilisées au cours des dix exercices qui suivent celui au titre duquel la déduction a été pratiquée, elles sont rapportées au résultat du dixième exercice suivant celui au titre duquel la déduction a été pratiquée.
 
@@ -65,6 +81,3 @@ IV. - Sur option du contribuable, le I de l'article 163-0 A s'applique aux dédu
 V. - Les bénéfices des exploitants titulaires de revenus mentionnés aux cinquième ou sixième alinéas de l'article 63 ne peuvent donner lieu à la déduction prévue au présent article, lorsque ces exploitants n'exercent aucune des activités mentionnées aux premier, deuxième, troisième ou quatrième alinéas de l'article 63.
 
 VI. - Le bénéfice de la déduction est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture, du règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ou du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
-
-NOTA:
-Modifications effectuées en conséquence de l'article 34 de la loi n° 2022-1726 du 30 décembre 2022.

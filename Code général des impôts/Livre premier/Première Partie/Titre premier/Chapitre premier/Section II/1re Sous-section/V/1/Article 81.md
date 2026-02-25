@@ -38,7 +38,7 @@ c) Pour la part correspondant au montant des versements mentionnés au 1° de l'
 
 5° et 6° (Repris avec le 4°) ;
 
-7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
+7° (Abrogé) ;
 
 8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les prestations et rentes viagères, servies aux victimes d'accidents du travail ou à leurs ayants droit ;
 
@@ -180,9 +180,9 @@ d. (disjoint)
 
 33° ter Les indemnités versées aux personnes souffrant de maladies radio-induites ou à leurs ayants droit, en application de la loi n° 2010-2 du 5 janvier 2010 relative à la reconnaissance et à l'indemnisation des victimes des essais nucléaires français ;
 
-34° (Abrogé)
+34° (Abrogé) ;
 
-35° L'aide financière de l'Etat mentionnée à l'article L. 5141-2 du code du travail ;
+35° (Abrogé) ;
 
 36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance ;
 

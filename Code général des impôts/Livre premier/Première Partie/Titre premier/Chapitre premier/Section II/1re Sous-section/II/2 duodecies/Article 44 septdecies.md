@@ -1,6 +1,6 @@
 # Article 44 septdecies
 
-I.-Dans les zones de développement prioritaire définies au II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2026 et qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments de l'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
+I.-Dans les zones de développement prioritaire définies au II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2027 et qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments de l'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés, respectivement, au cours de la première, de la seconde ou de la troisième période de douze mois suivant cette période d'exonération.
 

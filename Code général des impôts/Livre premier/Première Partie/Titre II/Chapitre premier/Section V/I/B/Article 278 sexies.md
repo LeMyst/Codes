@@ -18,7 +18,7 @@ a) La livraison financée par un prêt réglementé ou la mise à disposition da
 
 b) La réalisation de travaux d'amélioration, de transformation ou d'aménagement financés par un prêt réglementé ;
 
-7° Le contrat d'accession à la propriété s'entend, dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, du contrat unique de vente ou de construction de logements destinés à des personnes physiques dont les ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logemen, n'excèdent pas un plafond fixé par décret et tenant compte de la composition du foyer et de la localisation du logement ; ;
+7° Le contrat d'accession à la propriété s'entend, dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, du contrat unique de vente ou de construction de logements destinés à des personnes physiques dont les ressources, à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logemen, n'excèdent pas un plafond fixé par décret et tenant compte de la composition du foyer et de la localisation du logement ;
 
 8° Les quartiers prioritaires de la politique de la ville s'entendent de ceux définis à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 

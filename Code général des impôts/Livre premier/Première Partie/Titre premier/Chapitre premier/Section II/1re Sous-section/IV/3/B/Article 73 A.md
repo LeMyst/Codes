@@ -22,9 +22,8 @@ L'opération de fusion, de scission ou d'apport partiel d'actif réalisée par u
 
 Dans les situations mentionnées aux trois premiers alinéas du présent II, le respect de la condition prévue au dernier alinéa du I s'apprécie en minorant le nombre total et la valeur totale des stocks d'animaux de la société absorbante ou du bénéficiaire de la transmission retenus à la clôture du sixième exercice, du nombre et de la valeur des animaux figurant, le cas échéant, déjà dans les stocks de la société absorbante ou du bénéficiaire de la transmission à la date de l'opération de transmission, de fusion ou d'apport.
 
-III. - La provision prévue au I peut être pratiquée au titre des exercices clos à compter du 1er janvier 2025 et jusqu'au 31 décembre 2028.
+III. - La provision prévue au I peut être pratiquée au titre des exercices clos à compter du 1er janvier 2024 et jusqu'au 31 décembre 2028.
+
+Le bénéfice de la provision prévue au même I est exclusif du bénéfice de la déduction prévue au I de l'article 70 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024.
 
 IV. - Le bénéfice de la provision prévue au I du présent article est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture.
-
-NOTA:
-Conformément au IV de l'article 66 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, la perte de recettes pour l'Etat est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

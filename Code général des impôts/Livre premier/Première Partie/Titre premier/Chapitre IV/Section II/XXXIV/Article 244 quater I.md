@@ -1,6 +1,6 @@
 # Article 244 quater I
 
-I.-Les entreprises industrielles et commerciales imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies ou 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses d'investissement mentionnées au III du présent article, autres que de remplacement, engagées pour leurs activités contribuant à la production de batteries, de panneaux solaires, d'éoliennes ou de pompes à chaleur, sous réserve de remplir les conditions cumulatives suivantes :
+I.-Les entreprises industrielles et commerciales imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies ou 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses d'investissement mentionnées au III du présent article, autres que de remplacement, engagées pour leurs activités contribuant à la production de batteries, de panneaux solaires, d'éoliennes ou de pompes à chaleur, sous réserve de remplir les conditions cumulatives suivantes :
 
 1° Elles ne sont pas, à la date de clôture du dernier exercice précédant la délivrance de l'agrément mentionné au VIII, des entreprises en difficulté au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 

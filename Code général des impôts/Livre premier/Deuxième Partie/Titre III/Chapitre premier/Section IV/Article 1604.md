@@ -1,6 +1,6 @@
 # Article 1604
 
-I. – Une taxe calculée sur la même base que la taxe foncière sur les propriétés non bâties est perçue au profit des établissements du réseau défini à l'article L. 510-1 du code rural et de la pêche maritime, dans la limite d'un plafond annuel revalorisé à partir du plafond de l'année précédente par un coefficient déterminé annuellement en application du dernier alinéa de l'article 1518 bis du présent code.
+I. – Une taxe calculée sur la même base que la taxe foncière sur les propriétés non bâties est perçue au profit des établissements du réseau défini à l'article L. 510-1 du code rural et de la pêche maritime, dans la limite d'un plafond annuel.
 
 Par dérogation au II de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, ce plafond porte sur les émissions rattachées aux rôles de l'année de référence.
 

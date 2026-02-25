@@ -12,7 +12,7 @@ Les dépenses déductibles comprennent notamment :
 
 4° (Abrogé) ;
 
-5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport ;
+5° (Abrogé) ;
 
 6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39 ;
 

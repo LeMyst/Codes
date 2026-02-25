@@ -8,7 +8,7 @@ Pour les livraisons des logements visés aux 1° et 3° du III de l'article 278 
 
 II bis. – Tout preneur des livraisons soumises au taux réduit conformément à l'article 279-0 bis A est tenu au paiement du complément d'impôt lorsqu'il cesse de louer tout ou partie des logements dans les conditions prévues au 1° ou 4° du I du même article dans les vingt ans qui suivent le fait générateur de l'opération, sauf si cette cessation résulte, à compter de la onzième année, de cessions de logements.
 
-Jusqu'à la seizième année qui suit le fait générateur de l'opération de construction, les cessions ne peuvent porter sur plus de 50 % des logements.
+Les cessions intervenant au cours des quinze premières années suivant le fait générateur de l'opération ne peuvent porter sur plus de 50 % des logements.
 
 III. – Toute personne qui s'est livré à elle-même des travaux mentionnés à l'article 278 sexies A, à l'exception du 5° du I du même article 278 sexies A, est tenue au paiement du complément d'impôt lorsque les conditions auxquelles est subordonné l'octroi de ces taux cessent d'être remplies dans les trois ans qui suivent le fait générateur de l'opération.
 
@@ -29,3 +29,6 @@ B.-Les personnes destinataires des livraisons et acquisitions intracommunautaire
 Les opérations mentionnées au 2° du présent B donnent lieu à une information préalable de l'administration et, sous réserve du dernier alinéa du présent B, au paiement préalable de l'impôt.
 
 Toutefois, l'impôt n'est pas dû lorsque les biens sont cédés à une personne éligible qui les affecte à un usage éligible. Lorsque les biens ont préalablement été utilisés par les victimes de catastrophes tout en étant conservés par la personne éligible, l'impôt n'est pas non plus dû lorsqu'ils sont cédés à une personne fondée à bénéficier de l'exonération en vue de distribuer ces biens gratuitement à des personnes nécessiteuses et les utilisant effectivement pour cet usage.
+
+NOTA:
+Conformément à l'article 98 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent à compter du 1er janvier 2021.

@@ -4,9 +4,6 @@ Chacun des centres techniques industriels mentionnés à l'article L. 521-8-1 es
 
 Ces organismes sont également compétents, dans les mêmes limites, pour prononcer les sanctions fiscales mentionnées à l'article 1840 X du code général des impôts dans les conditions prévues à l'article L. 80 D du livre des procédures fiscales et pour instruire les réclamations dans les conditions prévues par le titre III du même livre.
 
-Toutefois, pour les biens des industries de l'ameublement et du bois mentionnés respectivement aux articles L. 471-7 et L. 471-8 du code des impositions sur les biens et services, seul l'organisme mentionné au 4° de l'article 5-1 de la loi n° 78-654 du 22 juin 1978 est compétent.
+Toutefois, pour les biens des industries de l'ameublement et du bois mentionnés respectivement aux articles L. 471-7 et L. 471-8 du code des impositions sur les biens et services, seul l'organisme mentionné au 4° de l'article 5-1 de la loi n° 78-654 du 22 juin 1978 est compétent. Pour les biens des industries de l'habillement mentionnés à l'article L. 471-6 du code des impositions sur les biens et services, seul l'organisme mentionné au 3° de l'article 5-1 de la loi n° 78-654 du 22 juin 1978 précitée est compétent.
 
 Le présent article n'est pas applicable aux taxes exigibles lors de l'importation.
-
-NOTA:
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -6,7 +6,7 @@ a. 10 % en l'absence de mise en demeure ou en cas de dépôt de la déclaration 
 
 b. 40 % lorsque la déclaration ou l'acte n'a pas été déposé dans les trente jours suivant la réception d'une mise en demeure d'avoir à le produire dans ce délai ;
 
-c. 80 % en cas de découverte d'une activité occulte ou, s'agissant de la taxe d'aménagement prévue à l'article 1635 quater A, en cas de construction ou d'aménagement sans autorisation.
+c. 80 % en cas de découverte d'une activité occulte ou, s'agissant de la taxe d'aménagement prévue à l'article 1635 quater A, en cas de construction, d'aménagement ou d'opération de transformation de bâtiments à destination autre que d'habitation en bâtiments à destination d'habitation sans autorisation.
 
 2. Pour les déclarations prévues à l'article 800, la majoration de 10 % est applicable à partir du premier jour du septième mois suivant celui de l'expiration des délais de six mois et de vingt-quatre mois prévus respectivement aux articles 641 et 641 bis.
 

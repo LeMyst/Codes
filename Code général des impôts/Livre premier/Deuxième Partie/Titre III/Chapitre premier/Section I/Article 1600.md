@@ -1,6 +1,6 @@
 # Article 1600
 
-I.-La taxe pour frais de chambres est constituée de deux contributions : une taxe additionnelle à la cotisation foncière des entreprises et une taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises. Elle est perçue au profit de CCI France et répartie entre les chambres de commerce et d'industrie de région, dans les conditions prévues au 10° de l'article L. 711-16 du code de commerce.
+I.-La taxe pour frais de chambres est constituée de deux contributions : une taxe additionnelle à la cotisation foncière des entreprises et une taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises. Elle est perçue au profit de CCI France et répartie entre les chambres de commerce et d'industrie de région et l'établissement public du commerce et de l'industrie de Corse, dans les conditions prévues au 10° de l'article L. 711-16 du code de commerce.
 
 Sont exonérés de cette taxe :
 

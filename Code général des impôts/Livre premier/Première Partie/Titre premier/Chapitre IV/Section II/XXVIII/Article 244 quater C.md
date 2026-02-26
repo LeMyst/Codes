@@ -17,6 +17,4 @@ VI. – Un décret fixe les conditions d'application du présent article, notamm
 VII. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 NOTA:
-Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
-
-Conformément au III de l'article 69 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux dépenses facturées au titre des contrats de collaboration conclus à compter du 1er janvier 2022.
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

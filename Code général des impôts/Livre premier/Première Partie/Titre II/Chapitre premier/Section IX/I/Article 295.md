@@ -27,6 +27,3 @@ c. La livraison en l'état de biens importés en exonération de la taxe conform
 1. (Abrogé).
 
 1. (Périmé).
-
-NOTA:
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

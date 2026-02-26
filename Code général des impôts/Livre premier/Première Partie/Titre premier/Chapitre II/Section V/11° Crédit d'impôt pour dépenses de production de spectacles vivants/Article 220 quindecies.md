@@ -77,8 +77,4 @@ Conformément au C du III de l'article 23 de la loi n° 2020-1721 du 29 décembr
 
 Conformément à l'article 50 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire prévues au VI de l'article 220 quindecies du code général des impôts déposées à compter du 1er janvier 2024.
 
-Conformément au II de l’article 58 de la loi n° 2023-1322 du 29 décembre 2023, le I du même article 58 ne s'applique qu'aux sommes venant en déduction de l'impôt dû.
-
-Conformément au III de l’article 58 de la loi n° 2023-1322 du 29 décembre 2023, la perte de recettes pour l'Etat résultant du I est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
-
 Conformément au II de l’article 59 de la loi n° 2023-1322 du 29 décembre 2023, le I du même article 58 s'applique aux demandes d'agrément à titre provisoire déposées à compter du 1er janvier 2024.

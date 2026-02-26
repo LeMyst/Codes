@@ -8,7 +8,7 @@ I. - Par délibération prise dans les conditions prévues au VI de l'article 16
 
 3° Les locaux industriels et à usage artisanal mentionnés au 3° du I de l'article 1635 quater I ;
 
-4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
+4° Les magasins et boutiques mentionnés à l'article 1388 quinquies C ;
 
 5° Les immeubles classés ou inscrits au titre des monuments historiques ;
 
@@ -29,6 +29,3 @@ Le bénéfice de l'exonération prévue aux 3°, 4° et 7° du I du présent art
 III. - Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de Lyon s'appliquent simultanément à la part de taxe d'aménagement perçue en application du 1° du 1 du IX de l'article 1379-0 bis du présent code et à celle qui lui revient en application du II de l'article 1586.
 
 IV. - Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2020, les exonérations adoptées par la Ville de Paris relatives à la part de taxe d'aménagement perçue en application du 16° du I de l'article 1379 s'appliquent également à celle qui lui revient en application du II de l'article 1586.
-
-NOTA:
-Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 3° du I du même article, s'appliquent à compter du 1er janvier 2026.

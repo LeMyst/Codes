@@ -51,8 +51,6 @@ Les données mentionnées aux I et II du présent article ainsi que la périodic
 IV. - Le présent article n'est pas applicable aux opérations faisant l'objet d'une mesure de classification au sens de l'article 413-9 du code pénal ni aux opérations concernées par une clause de confidentialité prévue pour un motif de sécurité nationale par un contrat ayant pour objet des travaux, des fournitures et des services ou la fourniture d'équipements mentionnés aux 1° à 4° de l'article L. 1113-1 du code de la commande publique.
 
 NOTA:
-Se reporter aux conditions d’applications prévues au B du III de l’article 26 de la loi n° 2022-1157 du 16 août 2022.
-
 Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
 
 Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 215-39, au second alinéa de l'article L. 216-56 et au dernier alinéa de l'article L. 216-55 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

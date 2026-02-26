@@ -71,6 +71,3 @@ Les modalités de dépôt de la déclaration de la taxe sont fixées par arrêt�
 IX. - La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes.
 
 X. - Le produit annuel de la taxe est affecté à l'établissement public local “ Société de la Ligne Nouvelle Provence Côte d'Azur ” créé à l'article 1er de l'ordonnance n° 2022-306 du 2 mars 2022 relative à la Société de la Ligne Nouvelle Provence Côte d'Azur et pour le financement de la mission définie au premier alinéa du II du même article 1er.
-
-NOTA:
-Modifications effectuées en conséquence de l’article 75-I-4° de la loi n° 2022-1726 du 30 décembre 2022.

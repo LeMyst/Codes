@@ -46,6 +46,8 @@ Pour les appareillages, équipements et matériels mentionnés aux c et f du pr�
 
 B. – Les abonnements relatifs aux livraisons d'énergie calorifique distribuée par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable au sens de l'article L. 211-2 du code de l'énergie ou d'un processus dont l'objet n'est pas la production de chaleur ;
 
+B bis. - La livraison d'énergie frigorifique distribuée par réseaux ;
+
 C. – La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées, les logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation et les établissements mentionnés au b du 5° et aux 8° et 10° du I de l'article L. 312-1 du code de l'action sociale et des familles. Ce taux s'applique également aux prestations d'hébergement et d'accompagnement social rendues dans les résidences hôtelières à vocation sociale mentionnées à l'article L. 631-11 du code de la construction et de l'habitation s'engageant à réserver plus de 80 % des logements de la résidence à des personnes désignées par le représentant de l'Etat dans le département ou à des personnes mentionnées au II de l'article L. 301-1 du même code, au premier alinéa de l'article L. 345-2 du code de l'action sociale et des familles ou à l'article L. 552-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ainsi qu'aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
 D. – Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes qui sont dans l'incapacité de les accomplir, fournies par des associations, des entreprises ou des organismes déclarés en application de l'article L. 7232-1-1 du code du travail, dont la liste est fixée par décret, à titre exclusif ou à titre non exclusif pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du même code ;
@@ -89,6 +91,8 @@ P. - La livraison et l'installation, dans les logements, d'équipements de produ
 2° L'efficacité énergétique ;
 
 3° La durabilité ou la performance environnementale.
+
+Les prestations de pose, d'installation et d'entretien des équipements de production d'électricité utilisant l'énergie radiative du soleil sont réalisées par une personne disposant, au cours de la réalisation de la prestation, d'une certification ou d'une qualification professionnelle en cours de validité correspondant au type d'installation réalisée et à la taille du chantier et répondant aux exigences techniques fixées par arrêté conjoint des ministres chargés du budget et de l'énergie.
 
 NOTA:
 Conformément au II de l'article 42 de la loi n° 2025-127 du 14 février 2025, ces dispositions entrent en vigueur le 1er octobre 2025.

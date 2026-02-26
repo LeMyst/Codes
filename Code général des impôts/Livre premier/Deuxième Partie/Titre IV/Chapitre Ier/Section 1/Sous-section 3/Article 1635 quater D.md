@@ -33,4 +33,4 @@ Le bénéfice des exonérations prévues aux 3° et 4° du I du présent article
 III.-Les exonérations prévues aux 5° à 7° du I du présent article ne s'appliquent pas à la part de la taxe d'aménagement instituée, le cas échéant, par les départements ou par la région d'Ile-de-France.
 
 NOTA:
-Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 2° du I du même article, s'appliquent à compter du 1er janvier 2026.

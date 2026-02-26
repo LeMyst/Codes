@@ -11,7 +11,7 @@ Sont applicables en Polynésie française les dispositions du présent livre men
 | R. 821-1 | Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement |
 | R. 823-1 et R. 823-2 | Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement |
 | Au titre IV | |
-| R. 841-2 | Résultant du décret n° 2025-344 du 14 avril 2025 |
+| R. 841-2 | Résultant du décret n° 2026-125 du 24 février 2026 |
 | Au titre V | |
 | R. 851-1 à R. 851-4 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 851-5 | Résultant du décret n° 2021-1362 du 20 octobre 2021 |

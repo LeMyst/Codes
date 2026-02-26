@@ -4,11 +4,11 @@ Relèvent des dispositions de l'article L. 841-2 du présent code les traitement
 
 1° Décret portant création au profit de la direction générale de la sécurité intérieure d'un traitement automatisé de données à caractère personnel dénommé CRISTINA ;
 
-2° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé “ SECU ” ;
+2° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé "SECU" ;
 
-3° Décret autorisant la mise en œuvre par la direction du renseignement et de la sécurité de la défense d'un traitement automatisé de données à caractère personnel dénommé “ SIRCID ” ;
+3° Décret autorisant la mise en œuvre par la direction du renseignement et de la sécurité de la défense d'un traitement automatisé de données à caractère personnel dénommé "SIRCID" ;
 
-4° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à caractère personnel dénommé “ DOREMI ” ;
+4° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à caractère personnel dénommé "DOREMI" ;
 
 5° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé FSPRT ;
 
@@ -16,17 +16,17 @@ Relèvent des dispositions de l'article L. 841-2 du présent code les traitement
 
 7° Le 1° de l'article R. 231-3 du code de la sécurité intérieure, pour les seules données mentionnées au 2° de l'article R. 231-8 du même code ;
 
-8° Décret autorisant la mise en œuvre par le service à compétence nationale TRACFIN d'un traitement automatisé de données à caractère personnel dénommé " STARTRAC ", pour les seules données intéressant la sûreté de l'Etat ;
+8° Décret autorisant la mise en œuvre par le service à compétence nationale TRACFIN d'un traitement automatisé de données à caractère personnel dénommé "STARTRAC", pour les seules données intéressant la sûreté de l'Etat ;
 
 9° Décret portant création au profit de la direction nationale du renseignement et des enquêtes douanières d'un traitement automatisé de données à caractère personnel dénommé BCR-DNRED ;
 
 10° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé GESTEREXT ;
 
-11° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à caractère personnel dénommé “ BIOPEX ” ;
+11° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à caractère personnel dénommé "BIOPEX" ;
 
-12° Décret autorisant la mise en œuvre par le commandement de la Légion étrangère d'un traitement automatisé de données à caractère personnel dénommé “ LEGATO ” ;
+12° Décret autorisant la mise en œuvre par le commandement de la Légion étrangère d'un traitement automatisé de données à caractère personnel dénommé "LEGATO" ;
 
-13° Décret n° 2017-1224 du 3 août 2017 portant création d'un traitement automatisé de données à caractère personnel dénommé " Automatisation de la consultation centralisée de renseignements et de données (ACCReD), pour les seules données intéressant la sûreté de l'Etat " ;
+13° Décret n° 2017-1224 du 3 août 2017 portant création d'un traitement automatisé de données à caractère personnel dénommé "Automatisation de la consultation centralisée de renseignements et de données (ACCReD), pour les seules données intéressant la sûreté de l'Etat" ;
 
 14° L'article R. 236-1 du code de la sécurité intérieure, pour les seules données intéressant la sûreté de l'Etat ;
 
@@ -34,18 +34,20 @@ Relèvent des dispositions de l'article L. 841-2 du présent code les traitement
 
 16° L'article R. 236-21 du code de la sécurité intérieure, pour les seules données intéressant la sûreté de l'Etat ;
 
-17° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé " TREX " ;
+17° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé "TREX" ;
 
 18° Décret n° 2018-383 du 23 mai 2018autorisant les traitements de données à caractère personnel relatifs au suivi des personnes en soins psychiatriques sans consentement, pour les données traitées pour la finalité prévue au 6° de l'article 1er de ce décret ;
 
-19° Décret autorisant la mise en œuvre par l'état-major des armées d'un traitement automatisé de données à caractère personnel dénommé " RINC " ;
+19° Décret autorisant la mise en œuvre par l'état-major des armées d'un traitement automatisé de données à caractère personnel dénommé "RINC" ;
 
-20° Décret n° 2023-64 du 3 février 2023 portant création d'un traitement automatisé de données à caractère personnel dénommé “ NATALI ”, pour les seules données intéressant la sûreté de l'Etat ;
+20° Décret n° 2023-64 du 3 février 2023 portant création d'un traitement automatisé de données à caractère personnel dénommé "NATALI", pour les seules données intéressant la sûreté de l'Etat ;
 
-21° Décret autorisant un traitement automatisé de données à caractère personnel dénommé : “ Fichier du renseignement pénitentiaire ” ;
+21° Décret autorisant un traitement automatisé de données à caractère personnel dénommé : "Fichier du renseignement pénitentiaire" ;
 
-22° Décret n° 2024-323 du 8 avril 2024 portant autorisation d'un traitement automatisé de données à caractère personnel relatif à la sécurité des établissements, ouvrages, installations et activités nucléaires dénommé “ traitement d'optimisation des données et informations d'intérêt nucléaire ”, pour les seules données intéressant la sûreté de l'Etat ;
+22° Décret n° 2024-323 du 8 avril 2024 portant autorisation d'un traitement automatisé de données à caractère personnel relatif à la sécurité des établissements, ouvrages, installations et activités nucléaires dénommé "traitement d'optimisation des données et informations d'intérêt nucléaire", pour les seules données intéressant la sûreté de l'Etat ;
 
 23° Décret portant autorisation d'un traitement de données à caractère personnel dénommé FiMPA ;
 
-24° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé “ PERS-CM ”.
+24° Décret autorisant la mise en œuvre par la direction générale de la sécurité extérieure d'un traitement automatisé de données à caractère personnel dénommé "PERS-CM" ;
+
+25° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé "Automatisation de la consultation centralisée de renseignements et de données du ministère de la défense" (ACCReD MINDEF).

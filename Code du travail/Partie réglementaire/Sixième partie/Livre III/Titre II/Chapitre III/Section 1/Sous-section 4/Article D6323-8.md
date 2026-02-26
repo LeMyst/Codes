@@ -8,6 +8,8 @@ I.-Sans préjudice des dispositions de l'article L. 6321-1, la préparation aux 
 
 La mobilisation des droits inscrits sur le compte en application des articles L. 6323-11, L. 6323-27 et L. 6323-34 pour le financement d'une préparation aux épreuves théoriques et pratiques d'un permis de conduire des véhicules terrestres à moteur du groupe léger autre que le permis de la catégorie BE mentionnée à l'article R. 221-4 du code de la route est subordonnée à la condition que le titulaire du compte ne dispose pas d'un permis de conduire en cours de validité sur le territoire national.
 
+Le montant du financement par l'un des tiers mentionnés aux 2° à 12° du II de l'article L. 6323-4, prévu en application du 4° du II de l'article L. 6323-6, ne peut être inférieur à cent euros.
+
 II.-La préparation mentionnée au I est assurée par un établissement d'enseignement de la conduite et de la sécurité routière qui satisfait l'ensemble des obligations suivantes :
 
 1° Etre agréé au titre des articles L. 213-1 ou L. 213-7 du code de la route ;

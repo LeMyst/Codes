@@ -61,6 +61,8 @@ b) En cas de retrait ou de rachat n'entraînant pas la clôture du plan, le gain
 
 La valeur liquidative ou de rachat ne tient pas compte des gains nets et produits de placement mentionnés au 8° afférents aux parts des fonds communs de placement à risques ou des fonds professionnels de capital investissement et aux actions des sociétés de capital-risque détenues dans le plan.
 
+Par dérogation au présent 5°, le gain net afférent au retrait des titres mentionnés à l'article 163 bis H du code général des impôts et effectué dans les conditions prévues au dernier alinéa du 2 du II de l'article 150-0 A du même code n'est pas assujetti à la contribution prévue au I du présent article.
+
 6° Lorsque les intéressés demandent la délivrance des droits constitués à leur profit au titre de la participation aux résultats de l'entreprise en application du chapitre II du titre IV du livre IV du code du travail, le revenu constitué par la différence entre le montant de ces droits et le montant des sommes résultant de la répartition de la réserve spéciale de participation dans les conditions prévues à l'article L. 442-4 du même code ;
 
 7° Lorsque les intéressés demandent la délivrance des sommes ou valeurs provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du livre IV du code du travail (1), le revenu constitué par la différence entre le montant de ces sommes ou valeurs et le montant des sommes versées dans le plan augmentées, le cas échéant, des sommes attribuées au titre de la réserve spéciale de la participation des salariés aux résultats de l'entreprise et des sommes versées dans le ou les précédents plans, à concurrence du montant des sommes transférées dans les conditions prévues aux articles L. 442-5 et L. 443-2 du code du travail, l'opération de transfert ne constituant pas une délivrance des sommes concernées ;
@@ -116,3 +118,6 @@ b) 1,60 % pour la vingt-deuxième année de détention ;
 c) 9 % pour chaque année de détention au-delà de la vingt-deuxième.
 
 Pour l'application de l'abattement, la durée de détention est décomptée selon les modalités prévues aux 1° à 3° du I du même article 150 VC.
+
+NOTA:
+Conformément au troisième alinéa du B du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du III du même article, s'appliquent aux retraits des titres mentionnés à l'article 163 bis H du code général des impôts intervenant entre le 15 février 2025 et le 31 décembre 2027.

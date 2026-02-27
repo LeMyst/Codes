@@ -1,6 +1,6 @@
 # Article 1641
 
-I. - A. - En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend à sa charge, l'Etat perçoit 2 % du montant des taxes suivantes :
+I. – A. – En contrepartie des frais de dégrèvement et de non-valeurs qu'il prend à sa charge, l'Etat perçoit 2 % du montant des taxes suivantes :
 
 a) Taxe foncière sur les propriétés bâties ;
 
@@ -18,7 +18,7 @@ g) Taxe pour la gestion des milieux aquatiques et la prévention des inondations
 
 h) Par dérogation au d du 1 du B, la taxe d'enlèvement des ordures ménagères au titre des cinq premières années au cours desquelles est mise en œuvre la part incitative mentionnée au I de l'article 1522 bis.
 
-B. - 1. En contrepartie des frais de dégrèvement visés au A, l'Etat perçoit 3,6 % du montant des taxes suivantes :
+B. – 1. En contrepartie des frais de dégrèvement visés au A, l'Etat perçoit 3,6 % du montant des taxes suivantes :
 
 a) Taxe pour frais de chambres d'agriculture ;
 
@@ -30,13 +30,11 @@ d) Taxe d'enlèvement des ordures ménagères sauf dans le cas prévu au h du A 
 
 e) (Abrogé).
 
-2. Sauf dispositions contraires et à l'exception de la taxe sur la vacance des locaux d'habitation, il en est de même pour les contributions et taxes qui sont établies et recouvrées comme en matière de contributions directes au profit des collectivités territoriales, de leurs établissements publics de coopération intercommunale et de fonds, établissements ou organismes divers.
+2. Sauf dispositions contraires, il en est de même pour les contributions et taxes qui sont établies et recouvrées comme en matière de contributions directes au profit des collectivités territoriales, de leurs établissements publics de coopération intercommunale et de fonds, établissements ou organismes divers.
 
 1. (Abrogé).
 
-II. - Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant des taxes visées au A du I et 5,4 % du montant de celles visées au B du même I et de celle prévue à l'article 1406 bis. Pour les impositions visées au même B et perçues au profit des collectivités locales et de leurs groupements, ce taux est réduit à 4,4 %.
+II. – Pour les frais d'assiette et de recouvrement, l'Etat perçoit 1 % du montant des taxes visées au A du I et 5,4 % du montant de celles visées au B du même I. Pour les impositions visées au même B et perçues au profit des collectivités locales et de leurs groupements, ce taux est réduit à 4,4 %.
 
 NOTA:
-Conformément au A du IX de l’article 108 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter des impositions établies au titre de l'année 2027.
-
-Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1er janvier 2027.
+Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.

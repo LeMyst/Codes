@@ -52,7 +52,7 @@ En cas d'acquisitions successives, les engagements souscrits par le cessionnaire
 
 Le présent 7° ne s'applique pas à la création de logements sociaux ou à l'affectation de surfaces à de tels logements dans les quartiers faisant l'objet d'une convention prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine ;
 
-8° Qui sont cédés jusqu'au 31 décembre 2025 à une collectivité territoriale, à un établissement public de coopération intercommunale compétent ou à un établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code de l'urbanisme en vue de leur cession selon les modalités prévues au a et au quatrième alinéa du 7° du présent II.
+8° Qui sont cédés jusqu'au 31 décembre 2027 à une collectivité territoriale, à un établissement public de coopération intercommunale compétent ou à un établissement public foncier mentionné aux articles L. 321-1 et L. 324-1 du code de l'urbanisme en vue de leur cession selon les modalités prévues au a et au quatrième alinéa du 7° du présent II.
 
 L'exonération est calculée au prorata de la surface habitable des logements sociaux ou intermédiaires destinés à être construits ou des surfaces destinées à être affectées à de tels logements conformément au cinquième alinéa du même 7°.
 

@@ -6,8 +6,6 @@ I. – Les communes perçoivent, dans les conditions déterminées par le prése
 
 2° La taxe foncière sur les propriétés non bâties, prévue à l'article 1393 ;
 
-2° bis La taxe sur la vacance des locaux d'habitation, prévue à l'article 1406 bis ;
-
 3° La taxe d'habitation sur les résidences secondaires, prévue à l'article 1407 ;
 
 4° La cotisation foncière des entreprises, prévue à l'article 1447 ;
@@ -53,6 +51,4 @@ II. – Elles peuvent instituer les taxes suivantes :
 5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale ou du groupement de collectivités et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 NOTA:
-Conformément au A du IX de l’article 108 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter des impositions établies au titre de l'année 2027.
-
-Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1er janvier 2027.
+Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I du même article, s'appliquent à compter du 1er janvier 2026.

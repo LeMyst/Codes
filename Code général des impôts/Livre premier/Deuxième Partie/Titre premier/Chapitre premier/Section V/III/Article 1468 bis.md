@@ -12,7 +12,7 @@ II. - Pour le calcul de l'augmentation nette de la base d'imposition de l'établ
 
 2° Des changements d'utilisation des propriétés bâties mentionnées au I de l'article 1498 ;
 
-3° De la perte du bénéfice des dispositions de l'article 1518 A quinquies A ;
+3° De la perte du bénéfice des dispositions du III de l'article 1518 A quinquies ;
 
 4° De l'application des articles 1518 A, 1518 A bis, 1518 A quater ;
 
@@ -25,8 +25,4 @@ II. - Pour le calcul de l'augmentation nette de la base d'imposition de l'établ
 8° De l'application de l'article 1647 D.
 
 NOTA:
-Conformément au A du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I de l'article 1518 ter du code général des impôts ne s'applique pas à l'établissement des bases d'imposition de l'année 2027.
-
-Conformément au B du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, l'application du III de l'article 1518 ter du même code est suspendue à compter du renouvellement général des conseils municipaux de 2026 jusqu'au renouvellement général des conseils municipaux de 2032.
-
-Conformément au A du VI de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent à compter des impositions établies au titre de l'année 2027.
+Conformément au D du XX de l’article 73 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent à compter du 1er juillet 2024.

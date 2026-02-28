@@ -9,10 +9,10 @@ Par dérogation aux dispositions du premier alinéa, au titre des trois premièr
 Les recettes réalisées par les sociétés et groupements non soumis à l'impôt sur les sociétés dont l'exploitant agricole est membre ne sont pas prises en compte pour apprécier les seuils mentionnés aux premier et troisième alinéas (1).
 
 NOTA:
-Conformément au I de l'article 49 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux exercices clos du 1er janvier 2019 au 31 décembre 2025.
-
-Conformément au III de l'article 51 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions s'appliquent aux exercices clos du 1er janvier 2019 au 31 décembre 2022.
+Conformément au III de l'article 51 de la loi n° 2018-1317 du 28 décembre 2018, dans sa rédaction résultant du II de l'article 31 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, s'appliquent aux exercices clos du 1er janvier 2019 au 31 décembre 2028.
 
 (1) Conformément au II de l'article 57 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2019.
 
 Conformément au IV de l’article 126 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent au bénéfice des exploitants qui bénéficient de dotations d'installation aux jeunes agriculteurs octroyées à compter du 1er janvier 2019.
+
+Conformément au I de l'article 49 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux exercices clos du 1er janvier 2019 au 31 décembre 2025.

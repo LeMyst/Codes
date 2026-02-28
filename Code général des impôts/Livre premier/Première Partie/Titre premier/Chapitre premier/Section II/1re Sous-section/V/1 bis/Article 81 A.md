@@ -18,9 +18,9 @@ b) Recherche ou extraction de ressources naturelles ;
 
 c) Navigation à bord de navires armés au commerce et immatriculés au registre international français,
 
-– soit pendant une durée supérieure à cent vingt jours au cours d'une période de douze mois consécutifs lorsqu'elle se rapporte à des activités de prospection commerciale.
-
 d) Navigation à bord de navires armés au commerce et immatriculés à Wallis-et-Futuna.
+
+– soit pendant une durée supérieure à cent vingt jours au cours d'une période de douze mois consécutifs lorsqu'elle se rapporte à des activités de prospection commerciale.
 
 Les dispositions du 2° ne s'appliquent ni aux travailleurs frontaliers ni aux agents de la fonction publique.
 
@@ -33,4 +33,4 @@ II. – Lorsque les personnes mentionnées au premier alinéa du I ne remplissen
 3° Etre déterminés dans leur montant préalablement aux séjours dans un autre Etat et en rapport, d'une part, avec le nombre, la durée et le lieu de ces séjours et, d'autre part, avec la rémunération versée aux salariés compte non tenu des suppléments mentionnés au premier alinéa. Le montant des suppléments de rémunération ne peut pas excéder 40 % de celui de la rémunération précédemment définie.
 
 NOTA:
-Conformément au II de l'article 3 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 3 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent à compter du 1er janvier 2026.

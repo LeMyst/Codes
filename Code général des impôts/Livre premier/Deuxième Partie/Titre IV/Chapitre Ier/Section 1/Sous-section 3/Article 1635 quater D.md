@@ -14,7 +14,7 @@ I.-Sont exonérés de la taxe d'aménagement :
 
 6° Les constructions et aménagements réalisés dans les zones d'aménagement concerté mentionnées à l'article L. 311-1 du code de l'urbanisme, lorsque le coût des équipements publics, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des constructeurs ou des aménageurs. Cette liste peut être complétée par une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ;
 
-7° Les constructions et aménagements réalisés dans les périmètres délimités par une convention de projet urbain partenarial prévue à l'article L. 332-11-3 du code de l'urbanisme, dans les limites de durée mentionnées dans cette convention, en application de l'article L. 332-11-4 du même code ;
+7° Les constructions, aménagements et opérations de transformation de bâtiments à destination autre que d'habitation en bâtiments à destination d'habitation réalisés dans les périmètres délimités par une convention de projet urbain partenarial prévue à l'article L. 332-11-3 du code de l'urbanisme, dans les limites de durée mentionnées dans cette convention, en application de l'article L. 332-11-4 du même code ;
 
 8° Les aménagements prescrits par un plan de prévention des risques naturels prévisibles, un plan de prévention des risques technologiques ou un plan de prévention des risques miniers sur des biens construits ou aménagés conformément aux dispositions du code de l'urbanisme avant l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de ces biens ;
 

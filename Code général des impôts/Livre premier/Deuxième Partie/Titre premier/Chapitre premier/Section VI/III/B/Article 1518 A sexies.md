@@ -12,11 +12,4 @@ Lorsque l'exploitant change pendant l'application de la réduction prévue au pr
 
 B. - Lorsqu'un rôle particulier est établi en application de l'article 1508, la réduction de la variation de valeur locative prévue au A du présent II s'applique à compter de la première année au titre de laquelle les bases rectifiées sont prises en compte dans les rôles généraux.
 
-III. - Le cas échéant, pour les locaux qui bénéficient au 31 décembre 2026 du présent article, la réduction cesse de s'appliquer lorsque la valeur locative est actualisée en application du A du III de l'article 1518 ter.
-
-NOTA:
-Conformément au A du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I de l'article 1518 ter du code général des impôts ne s'applique pas à l'établissement des bases d'imposition de l'année 2027.
-
-Conformément au B du V de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, l'application du III de l'article 1518 ter du même code est suspendue à compter du renouvellement général des conseils municipaux de 2026 jusqu'au renouvellement général des conseils municipaux de 2032.
-
-Conformément au A du VI de l'article 106 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent à compter des impositions établies au titre de l'année 2027.
+III. - Pour les locaux qui bénéficient au 31 décembre 2020 du II du présent article, la réduction est recalculée, pour les années restant à courir, après application du 3 des I et III de l'article 1518 A quinquies et de l'article 1499 dans sa rédaction applicable aux impositions dues au titre de 2021.

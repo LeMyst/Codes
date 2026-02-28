@@ -11,4 +11,4 @@ Pour l'appréciation des limites mentionnées aux deuxième et troisième aliné
 L'exonération partielle visée au premier alinéa ne s'applique pas lorsque le bail a été consenti depuis moins de deux ans au donataire de la transmission, à son conjoint, à un de leurs descendants ou à une société contrôlée par une ou plusieurs de ces personnes.
 
 NOTA:
-Conformément au D du III de l'article 70 de la loi n° 2025-127 du 14 février 2025, le G du I de l'article précité s'applique aux transmissions pour lesquelles le bail a été conclu à compter du 1er janvier 2025.
+Conformément au D du III de l'article 70 de la loi n° 2025-127 du 14 février 2025, dans sa rédaction résultant du III de l'article 31 de la loi n° 2026-103 du 19 février 2026, le G du I de l'article précité s'applique aux transmissions intervenant à compter du 15 février 2025 et pour lesquelles le bail a été conclu à compter du 1er janvier 2025.

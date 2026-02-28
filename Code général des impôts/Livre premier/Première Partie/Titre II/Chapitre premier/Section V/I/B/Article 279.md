@@ -67,3 +67,6 @@ l. Les remboursements et les rémunérations versés par les départements, les 
 m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 278 ;
 
 n. Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 278.
+
+NOTA:
+Conformément au II de l'article 96 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent à compter du 1er janvier 2026.

@@ -2,11 +2,80 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
-A-0.- (Abrogé).
+A-0.-Les autorisations mentionnées dans chacune des lignes du tableau du second alinéa du b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
 
-A.-(Abrogé).
+Les réceptions dans des installations non autorisées relèvent du tarif le plus élevé prévu respectivement au a et au b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 pour, respectivement, les installations de stockage ou d'incinération, majoré de 110 € par tonne.
 
-A bis.- (Abrogé).
+Relèvent du même tarif les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de ces autorisations ainsi que les transferts réalisés vers une installation hors de France en méconnaissance des réglementations d'effet équivalent mentionnées au premier alinéa du présent A-0.
+
+Les réceptions de déchets radioactifs métalliques dans une installation non autorisée à cette fin ou en méconnaissance des prescriptions de l'autorisation sont majorées de 110 € par tonne.
+
+A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 299 :
+
+a) Le tarif pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat est de 65 € par tonne.
+
+Ce tarif est majoré pour la fraction des déchets qui sont réceptionnés à compter de l'atteinte de l'objectif annuel mentionné au b bis du présent A. Cette majoration est déterminée par arrêté conjoint des ministres chargés du budget et de l'environnement entre un minimum de 5 € par tonne et un maximum de 10 € par tonne ;
+
+b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
+
+| ésignation des installations de traitement thermique de déchets non dangereux concernées | Unité de perception | Tarif (en euros) |
+| --- | --- | --- |
+| C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 | tonne | 15 |
+| H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes | tonne | 7,5 |
+| I.-Autres installations autorisées | tonne | 25 |
+
+b bis) Aux fins d'application de la majoration prévue au second alinéa du a du présent A, l'objectif annuel est constaté, en France, pour chaque installation de stockage de déchets non dangereux autorisée dans la région par un arrêté du préfet de région, publié avant le 31 octobre de l'année précédant celle de l'exigibilité de la taxe, dans les conditions suivantes :
+
+1° Lorsque le plan régional de prévention et de gestion des déchets prévu à l'article L. 541-13 du code de l'environnement ou le schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L. 4251-1 du code général des collectivités territoriales fixent, pour chaque installation de stockage de déchets non dangereux autorisée dans la région, un seuil annuel conforme à l'objectif de réduction pour 2025 des mises en décharge prévu au 7° du I de l'article L. 541-1 du code de l'environnement, l'objectif annuel est égal à ce seuil ;
+
+2° Dans les autres cas, l'objectif annuel est égal au produit des facteurs suivants :
+
+-la capacité de stockage autorisée pour l'installation, exprimée en tonnes, au titre de l'année d'exigibilité de la taxe ;
+
+-un coefficient égal au quotient entre, d'une part, la moitié de la masse de déchets effectivement stockée en 2010 sur le territoire de la région et, d'autre part, la masse de stockage autorisée sur le même territoire au titre de l'année d'exigibilité de la taxe.
+
+Pour les transferts hors de France, cet objectif est celui résultant des règles nationales applicables à l'installation de réception des déchets.
+
+La majoration prévue au second alinéa du a du présent A ne s'applique pas aux déchets réceptionnés dans les installations situées dans les collectivités régies par l'article 73 de la Constitution ou transférés à destination des installations situées hors de France pour lesquelles les règles nationales ne définissent aucun objectif annuel ;
+
+c) Lorsque plusieurs tarifs mentionnés au tableau du b sont applicables, le tarif le plus faible s'applique à l'assiette concernée ;
+
+d) (Abrogé) ;
+
+e) (Abrogé) ;
+
+f) Le tarif réduit mentionné au C du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des déchets, au sens de la directive 2008/98/ CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives ;
+
+g) (Abrogé) ;
+
+h) Le tarif mentionné au H du tableau du second alinéa du b s'applique aux tonnages des déchets identifiés comme des résidus issus d'opérations de tri performantes et dont le pouvoir calorifique inférieur est supérieur ou égal à un seuil fixé par arrêté conjoint des ministres chargés du budget et de l'environnement.
+
+Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard à la date de facturation, une attestation en double exemplaire certifiant que les déchets répondent aux conditions prévues au premier alinéa du présent h. L'arrêté mentionné au même premier alinéa précise les mentions portées sur l'attestation. Un exemplaire est remis à la personne qui réceptionne les déchets. Lorsqu'il est constaté que ces conditions ne sont pas remplies, l'apporteur est redevable du complément d'impôt.
+
+Une opération de tri s'entend d'une opération de séparation, au sein d'un même flux de déchets ayant fait l'objet d'une collecte séparée, entre les déchets faisant l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
+
+-les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
+
+-les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
+
+i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, une réfaction est applicable en fonction des investissements en cours ou engagés en faveur du tri ou de la valorisation matière des déchets :
+
+-jusqu'au 31 décembre 2029 à La Réunion ;
+
+-jusqu'au 31 décembre 2031 en Guadeloupe et en Martinique ;
+
+-jusqu'au 31 décembre 2034 en Guyane et à Mayotte.
+
+Un arrêté conjoint des ministres chargés du budget, de l'outre-mer et de l'environnement détermine les investissements éligibles et, pour chaque collectivité d'outre-mer relevant de l'article 73 de la Constitution, le taux de réfaction applicable, qui s'établit entre 20 % et 80 %.
+
+j) En Corse, entre le 1er janvier 2025 et le 31 décembre 2029, est appliquée une réfaction de 20 %.
+
+A bis.-Pour les déchets métalliques et les déchets radioactifs métalliques réceptionnés dans une installation mentionnée au c du 1 du I de l'article 299, les tarifs sont fixés comme suit :
+
+| Unité de perception | Quotités (en euros) |
+| --- | --- |
+| 2024 | 2025 | 2026 | A partir de 2027 |
+| Tonne | 200 | 300 | 350 | 400 |
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 

@@ -46,7 +46,7 @@ Pour les appareillages, équipements et matériels mentionnés aux c et f du pr�
 
 B. – Les abonnements relatifs aux livraisons d'énergie calorifique distribuée par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable au sens de l'article L. 211-2 du code de l'énergie ou d'un processus dont l'objet n'est pas la production de chaleur ;
 
-B bis. - La livraison d'énergie frigorifique distribuée par réseaux ;
+B bis. – La livraison d'énergie frigorifique distribuée par réseaux ;
 
 C. – La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées, les logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation et les établissements mentionnés au b du 5° et aux 8° et 10° du I de l'article L. 312-1 du code de l'action sociale et des familles. Ce taux s'applique également aux prestations d'hébergement et d'accompagnement social rendues dans les résidences hôtelières à vocation sociale mentionnées à l'article L. 631-11 du code de la construction et de l'habitation s'engageant à réserver plus de 80 % des logements de la résidence à des personnes désignées par le représentant de l'Etat dans le département ou à des personnes mentionnées au II de l'article L. 301-1 du même code, au premier alinéa de l'article L. 345-2 du code de l'action sociale et des familles ou à l'article L. 552-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ainsi qu'aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
@@ -72,7 +72,7 @@ K. – Les autotests de détection de l'infection par les virus de l'immunodéfi
 
 L. – Les droits d'entrée pour la visite d'un parc zoologique répondant aux conditions fixées par arrêté des ministres compétents ;
 
-M. – Les prestations de collecte séparée, de collecte en déchetterie, de tri et de valorisation matière des déchets des ménages et des autres déchets que les collectivités mentionnées à l'article L. 2224-13 du code général des collectivités territoriales peuvent, eu égard à leurs caractéristiques et aux quantités produites, collecter et traiter sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations ;
+M. – Les prestations de collecte et de traitement des déchets des ménages et des autres déchets que les collectivités mentionnées à l'article L. 2224-13 du code général des collectivités territoriales peuvent, eu égard à leurs caractéristiques et aux quantités produites, collecter et traiter sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations ;
 
 N. - Les prestations de pose, d'installation et d'entretien d'infrastructures de recharge pour véhicules électriques qui répondent aux conditions suivantes :
 
@@ -93,3 +93,10 @@ P. - La livraison et l'installation, dans les logements, d'équipements de produ
 3° La durabilité ou la performance environnementale.
 
 Les prestations de pose, d'installation et d'entretien des équipements de production d'électricité utilisant l'énergie radiative du soleil sont réalisées par une personne disposant, au cours de la réalisation de la prestation, d'une certification ou d'une qualification professionnelle en cours de validité correspondant au type d'installation réalisée et à la taille du chantier et répondant aux exigences techniques fixées par arrêté conjoint des ministres chargés du budget et de l'énergie.
+
+NOTA:
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des a à g du 2° du A du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux 1°, 2° et 3° de l'article L. 213-182 et au premier alinéa de l'article L. 213-183 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

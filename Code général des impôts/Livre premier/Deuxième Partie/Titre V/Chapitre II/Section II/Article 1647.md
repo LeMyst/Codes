@@ -38,7 +38,7 @@ VII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 2,5 % des sommes
 
 VIII. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées à l'article 1609 sexvicies et au 3° de l'article L. 421-30 du code des impositions sur les biens et services.
 
-IX. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées respectivement aux articles L. 452-28, L. 453-25 et L. 454-16 du code des impositions sur les biens et services.
+IX. – Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de 2,5 % sur le montant des taxes mentionnées respectivement à l'article 1609 sexdecies C du présent code et aux articles L. 452-28, L. 453-25 et L. 454-16 du code des impositions sur les biens et services.
 
 X.-Pour frais de recouvrement, l'Etat prélève 5 % des sommes recouvrées par la direction générale des finances publiques en application de l'article L. 256 D du livre des procédures fiscales au titre des impositions suivantes :
 
@@ -52,7 +52,7 @@ XI. – Pour frais de recouvrement, l'Etat prélève sur les sommes collectées 
 
 2° 0,5 % du montant du tarif de conception de la taxe sur les installations nucléaires de base relevant du secteur énergétique et assimilées prévu au c du même 2° ;
 
-3° 1 % du montant du tarif de stockage de la taxe sur les installations nucléaires de base concourant à la gestion des substances radioactives prévu au 2° de l'article L. 433-9 du même code, dans la limite d'un plafond de 70 000 euros.
+3° 1 % du montant du tarif de stockage de la taxe sur les installations nucléaires de base concourant à la gestion des substances radioactives prévu au 2° de l'article L. 433-15 du même code, dans la limite d'un plafond de 70 000 euros.
 
 XII. – (Abrogé)
 
@@ -79,8 +79,4 @@ XXI.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 XXII.-Le présent article est applicable dans les collectivités régies par l'article 74 de la Constitution et en Nouvelle-Calédonie dans la mesure où les impositions formant la base imposable des frais y sont applicables.
 
 NOTA:
-Conformément au B du VIII de l'article 111 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2026 et sont applicables aux impositions dont le fait générateur intervient à compter de cette date.
-
-Conformément au X de l’article 18 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2026.
-
-Conformément au XIII de l’article 75 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur le 1er janvier 2026.
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.

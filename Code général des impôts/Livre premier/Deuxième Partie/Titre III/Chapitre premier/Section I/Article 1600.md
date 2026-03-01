@@ -1,6 +1,6 @@
 # Article 1600
 
-I.-La taxe pour frais de chambres est constituée de deux contributions : une taxe additionnelle à la cotisation foncière des entreprises et une taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises. Elle est perçue au profit de CCI France et répartie entre les chambres de commerce et d'industrie de région et l'établissement public du commerce et de l'industrie de Corse, dans les conditions prévues au 10° de l'article L. 711-16 du code de commerce.
+I. - La taxe pour frais de chambres est constituée de deux contributions : une taxe additionnelle à la cotisation foncière des entreprises et une taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises. Elle est perçue au profit de CCI France et répartie entre les chambres de commerce et d'industrie de région et l'établissement public du commerce et de l'industrie de Corse, dans les conditions prévues au 10° de l'article L. 711-16 du code de commerce.
 
 Sont exonérés de cette taxe :
 
@@ -12,7 +12,7 @@ Sont exonérés de cette taxe :
 
 4° Les sociétés d'assurance mutuelles ;
 
-5° Les artisans établis dans la circonscription d'une chambre de métiers et de l'artisanat, régulièrement immatriculés au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat et qui ne sont pas portés sur la liste électorale de la chambre de commerce et d'industrie de leur circonscription ;
+5° Les artisans établis dans la circonscription d'une chambre de métiers et de l'artisanat, régulièrement immatriculés au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat et qui ne sont pas portés sur la liste électorale de la chambre de commerce et d'industrie de leur circonscription ou, en Corse, de l'établissement public du commerce et de l'industrie de Corse ;
 
 6° Les caisses de crédit agricole mutuel ;
 
@@ -30,7 +30,7 @@ Sont exonérés de cette taxe :
 
 II. – 1. – La taxe additionnelle à la cotisation foncière des entreprises mentionnée au I est due par les redevables de cette cotisation proportionnellement à leur base d'imposition.
 
-Cette base d'imposition est réduite de moitié pour les artisans régulièrement immatriculés au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat et qui restent portés sur la liste électorale de la chambre de commerce et d'industrie de leur circonscription.
+Cette base d'imposition est réduite de moitié pour les artisans régulièrement immatriculés au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat et qui restent portés sur la liste électorale de la chambre de commerce et d'industrie de leur circonscription ou, en Corse, de l'établissement public du commerce et de l'industrie de Corse.
 
 Le taux de cette taxe est égal à 1,12 %.
 
@@ -45,6 +45,4 @@ Son taux est égal à 9,23 %.
 2. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
 NOTA:
-Conformément au H du IV de l'article 79 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions s'appliquent aux impositions établies au titre de 2026.
-
-Conformément au A du VI de l'article 62 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions s'appliquent aux impositions dues au titre de 2026 et de 2027.
+Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.

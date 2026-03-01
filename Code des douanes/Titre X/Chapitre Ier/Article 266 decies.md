@@ -6,8 +6,11 @@
 
 1. (Abrogé)
 
-1. Les personnes mentionnées au 1 du I de l'article 266 sexies répercutent la taxe afférente dans les contrats conclus avec les personnes physiques ou morales dont ils réceptionnent les déchets ou les déchets radioactifs métalliques. Elles adressent chaque année auxdites personnes physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des finances publiques.
+1. (Abrogé)
 
 1. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
 
 1. (Abrogé)
+
+NOTA:
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, enrtent en vigueur le 1er mars 2026.

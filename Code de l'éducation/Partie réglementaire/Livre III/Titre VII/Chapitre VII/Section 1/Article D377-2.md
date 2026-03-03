@@ -59,13 +59,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 334-21-1 et D. 334-22 | Résultant du décret n° 2018-614 du 16 juillet 2018 |
 | D. 334-25 | Résultant du décret n° 2024-240 du 18 mars 2024 |
 | D. 334-26 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 334-27 | Résultant du décret n° 2024-240 du 18 mars 2024 |
+| D. 334-27 | Résultant du décret n° 2026-136 du 27 février 2026 |
 | D. 334-27-1 | Résultant du décret n° 2024-240 du 18 mars 2024 |
 | D. 334-28 à D. 334-30 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 334-31 à D. 334-32 | Résultant du décret n° 2013-469 du 5 juin 2013 |
 | D. 334-32-1 | Résultant du décret n° 2021-983 du 27 juillet 2021 |
-| D. 334-33 | Résultant du décret n° 2024-240 du 18 mars 2024 |
-| D. 334-34 | Résultant du décret n° 2024-240 du 18 mars 2024 |
+| D. 334-33 | Résultant du décret n° 2026-136 du 27 février 2026 |
+| D. 334-34 | Résultant du décret n° 2026-136 du 27 février 2026 |
 | D. 336-1 | Résultant du décret n° 2010-100 du 27 janvier 2010 |
 | D. 336-2 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 336-3 | Résultant du décret n° 2021-983 du 27 juillet 2021 |
@@ -457,11 +457,11 @@ b) Au deuxième alinéa, les mots : “dans les conditions fixées par le troisi
 
 61° sexies A l'article D. 337-194, après le mot : “français”, est inséré le mot : “, néo-calédoniens” ;
 
-61° septies Au 2° de l'article D. 337-197, les mots : “, et dans les conditions fixées par les articles R. 6412-1 à R. 6412-6 du code du travail” sont supprimés ;
+61° septies Au 2° de l'article D. 337-197, les mots : “, et dans les conditions fixées par les articles R. 6412-1 à R. 6412-6 du code du travail ” sont supprimés ;
 
 61° octies Au dernier alinéa du 1° de l'article D. 337-199, les mots : “, dans les conditions prévues par l'article R. 6412-7 du code du travail” sont supprimés ;
 
-61° nonies A l'article D. 337-202, les mots : “conformément aux articles R. 6412-1 à R. 6412-7 du code du travail” sont supprimés ;
+61° nonies A l'article D. 337-202, les mots : “conformément aux articles R. 6412-1 à R. 6412-7 du code du travail ” sont supprimés ;
 
 61° decies A l'article D. 337-203, les mots : “, dans les conditions prévues par les articles R. 6412-1 à R. 6412-7 du code du travail,”sont supprimés ;
 

@@ -7,3 +7,5 @@ En cas de substitution de personne ou de troubles affectant le déroulement des 
 Dans tous les cas, le surveillant responsable de la salle dresse un procès-verbal contresigné par le ou les autres surveillants et par le ou les auteurs des faits. En cas de refus de contresigner, mention est portée au procès-verbal.
 
 Le recteur d'académie est saisi sans délai des procès-verbaux correspondants par le chef de centre.
+
+En cas de fraude découverte postérieurement à l'épreuve, le correcteur de l'épreuve dresse un rapport d'incident. Le recteur d'académie est saisi sans délai de ce rapport.

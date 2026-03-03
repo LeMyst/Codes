@@ -1,6 +1,7 @@
 # Article R5114-32
 
-Les affiches prévues à l'article R. 5114-30 indiquent :\
+Les affiches prévues à l'article R. 5114-30 indiquent :
+
 1° Les nom, prénom, profession et domicile du poursuivant ;
 
 2° Le titre exécutoire en vertu duquel il agit ;

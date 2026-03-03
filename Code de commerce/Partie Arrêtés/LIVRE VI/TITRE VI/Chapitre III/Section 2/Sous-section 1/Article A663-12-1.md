@@ -1,14 +1,14 @@
 # Article A663-12-1
 
-Conformément aux dispositions de l'article R. 663-12-1, l'émolument dû à l'administrateur judiciaire au titre des diligences qu'il a effectuées dans le cadre de nouveaux apports de trésorerie en application des dispositions de l'article L. 626-10 (numéro 10-1 du tableau 4-1) qui ne peut excéder 20 000 euros, est fixé proportionnellement au montant cumulé de ces apports autorisés par le juge-commissaire ou mentionnés dans le jugement arrêtant le plan, selon le barème suivant :
+Conformément aux dispositions de l'article R. 663-12-1, l'émolument dû à l'administrateur judiciaire au titre des diligences qu'il a effectuées dans le cadre de nouveaux apports de trésorerie en application des dispositions de l'article L. 626-10 (numéro 10-1 du tableau 4-1) qui ne peut excéder 19 400,00 €, est fixé proportionnellement au montant cumulé de ces apports autorisés par le juge-commissaire ou mentionnés dans le jugement arrêtant le plan, selon le barème suivant :
 
-| TRANCHES D'ASSIETTE EN € | TAUX DE L'ÉMOLUMENT EN % |
+| Tranches d'assiette | Taux de l'émolument |
 | --- | --- |
-| De 0 à 15 000 | 3,292 % |
-| De 15 001 à 50 000 | 2,351 % |
-| De 50 001 à 150 000 | 1,411 % |
-| De 150 001 à 300 000 | 0,470 % |
-| Au-delà de 300 000 | 0,235 % |
+| De 0,00 € à 15 000,00 € | 3,194 % |
+| De 15 001,00 € à 50 000,00 € | 2,281 % |
+| De 50 001,00 € à 150 000,00 € | 1,369 % |
+| De 150 001,00 € à 300 000,00 € | 0,456 % |
+| Au-delà de 300 000,00 € | 0,228 % |
 
 NOTA:
-Conformément à l'article 6 de l'arrêté du 22 août 2023, ces dispositions entrent en vigueur le lendemain de sa publication dans les conditions fixées par l'article 18 du décret n° 2023-434 du 3 juin 2023.
+Conformément à l'article 11 de l'arrêté du 25 février 2026 (NOR : ECOC2604873A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er mars 2026.

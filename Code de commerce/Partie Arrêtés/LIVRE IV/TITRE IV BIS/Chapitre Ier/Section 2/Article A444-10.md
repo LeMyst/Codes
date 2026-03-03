@@ -10,11 +10,7 @@ Les remises sur les émoluments proportionnels sont régies par la sous-section 
 
 Les dispositions de la présente section sont applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Celles de sa sous-section 2 s'appliquent exclusivement aux huissiers de justice de ces trois départements.
 
-Les émoluments applicables jusqu'au 28 février 2026 sont ceux qui sont prévus par la présente section.
+Les émoluments applicables jusqu'au 29 février 2028 sont ceux qui sont prévus par la présente section.
 
 NOTA:
-Conformément à l'article 30 de l'arrêté du 28 février 2024 (NOR : ECOC2403961A) :
-
-1° - Le présent arrêté entre en vigueur le 1er mars 2024.
-
-2° - Toutefois, les émoluments des prestations effectuées avant le 1er mai 2024, ou dont la réalisation a donné lieu, avant le 1er mars 2024, au versement d'un acompte, d'une provision ou à l'engagement par le professionnel intervenant de frais ou débours restent régis par l'ancien tarif.
+Conformément à l'article 5 de l'arrêté du 25 février 2026 (NOR : ECOC2519621A), ces dispositions, dans leur rédaction issue de l'article 4 de l'arrêté précité, entrent en vigueur le 1er mars 2026.

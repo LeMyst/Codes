@@ -10,7 +10,7 @@ L'écrêtement, prévu à l'article R. 444-9, du total des émoluments perçus a
 
 Les dispositions de la présente section sont applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Celles de sa sous-section 5 s'y appliquent exclusivement.
 
-Les émoluments applicables jusqu'au 28 février 2026 sont ceux qui sont prévus par la présente section.
+Les émoluments applicables jusqu'au 29 février 2028 sont ceux qui sont prévus par la présente section.
 
 NOTA:
-Conformément à l'article 3 de l'arrêté du 28 février 2024 (NOR : ECOC2402646A), ces dispositions entrent en vigueur le 1er mars 2024.
+Conformément à l'article 5 de l'arrêté du 25 février 2026 (NOR : ECOC2604872A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er mars 2026.

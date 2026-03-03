@@ -1,6 +1,8 @@
 # Article R623-59
 
-I.-Les espèces, autres que celles énumérées par le règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 instituant un régime de protection communautaire des obtentions végétales, pour lesquelles les agriculteurs ont le droit, en application de l'article L. 623-24-1, d'utiliser sur leur propre exploitation, sans l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en culture d'une variété protégée, sont : 1° Plantes fourragères :
+I.-Les espèces, autres que celles énumérées par le règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 instituant un régime de protection communautaire des obtentions végétales, pour lesquelles les agriculteurs ont le droit, en application de l'article L. 623-24-1, d'utiliser sur leur propre exploitation, sans l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en culture d'une variété protégée, sont :
+
+1° Plantes fourragères :
 
 a) Trifolium pratense - Trèfle violet ;
 

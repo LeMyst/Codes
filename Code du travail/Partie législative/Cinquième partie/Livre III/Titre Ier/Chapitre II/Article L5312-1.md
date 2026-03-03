@@ -1,6 +1,6 @@
 # Article L5312-1
 
-I.-L'opérateur France Travail est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière qui a pour mission de :
+I. - L'opérateur France Travail est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière qui a pour mission de :
 
 1° Prospecter le marché du travail, développer une expertise sur l'évolution des emplois, des parcours professionnels et des compétences, procéder à la collecte des offres d'emploi, aider et conseiller les entreprises dans leur recrutement, assurer la mise en relation entre les offres et les demandes d'emploi, évaluer les résultats des actions d'accompagnement et participer activement à la lutte contre les discriminations à l'embauche et pour l'égalité professionnelle ;
 
@@ -12,7 +12,7 @@ I.-L'opérateur France Travail est une institution nationale publique dotée de 
 
 3° Procéder aux inscriptions sur la liste des demandeurs d'emploi, tenir celle-ci à jour dans les conditions prévues au titre Ier du livre IV de la présente partie, orienter les demandeurs d'emploi dans les conditions fixées à l'article L. 5411-5-1, veiller à la continuité des parcours des personnes inscrites et assurer le contrôle de la recherche d'emploi et des engagements dans les conditions prévues au chapitre VI du titre II du livre IV ;
 
-4° Assurer, pour le compte de l'organisme gestionnaire du régime d'assurance chômage, le service de l'allocation d'assurance et de l'allocation des travailleurs indépendants et, pour le compte de l'Etat, le service des allocations de solidarité prévues à la section 1 du chapitre III du titre II du livre IV de la présente partie, des allocations mentionnées à l'article L. 5424-21, de l'aide prévue au II de l'article 136 de la loi n° 96-1181 du 30 décembre 1996 de finances pour 1997, des sommes restant dues au titre du versement de l'allocation équivalent retraite prévue à l'article L. 5423-18, dans sa rédaction antérieure au 1er janvier 2009, et des sommes restant dues au titre de la prime forfaitaire prévue à l'article L. 5425-3, dans sa rédaction antérieure au 1er septembre 2017, ainsi que le service de toute autre allocation ou aide dont l'Etat lui confierait le versement par convention, et lutter contre le non-recours à ces aides et allocation ;
+4° Assurer, pour le compte de l'organisme gestionnaire du régime d'assurance chômage, le service de l'allocation d'assurance et de l'allocation des travailleurs indépendants et, pour le compte de l'Etat, le service des allocations de solidarité prévues à la section 1 du chapitre III du titre II du livre IV de la présente partie, des allocations mentionnées à l'article L. 5424-21, de l'aide prévue au II de l'article 136 de la loi n° 96-1181 du 30 décembre 1996 de finances pour 1997, des sommes restant dues au titre du versement de l'allocation équivalent retraite prévue à l'article L. 5423-18, dans sa rédaction antérieure au 1er janvier 2009, et des sommes restant dues au titre de la prime forfaitaire prévue à l'article L. 5425-3, dans sa rédaction antérieure au 1er septembre 2017, ainsi que le service de toute autre allocation ou aide dont l'Etat lui confierait le versement par convention, et lutter contre le non-recours à ces aides et allocations ;
 
 4° bis Décider de la suppression du revenu de remplacement ainsi que du prononcé et du recouvrement de la pénalité administrative, dans les conditions prévues aux sections 2 et 3 du chapitre VI du titre II du livre IV de la présente partie ;
 
@@ -24,7 +24,7 @@ I.-L'opérateur France Travail est une institution nationale publique dotée de 
 
 L'opérateur France Travail agit en collaboration avec les instances territoriales intervenant dans le domaine de l'emploi, en particulier les maisons de l'emploi, ainsi qu'avec les associations nationales et les réseaux spécialisés d'accueil et d'accompagnement, par des partenariats adaptés.
 
-II.-Pour la mise en œuvre des actions du réseau pour l'emploi prévues à l'article L. 5311-8, l'opérateur France Travail a pour missions :
+II. - Pour la mise en œuvre des actions du réseau pour l'emploi prévues à l'article L. 5311-8, l'opérateur France Travail a pour missions :
 
 1° De contribuer à l'élaboration des critères d'orientation des demandeurs d'emploi mentionnés à l'article L. 5411-5-1 ;
 
@@ -42,11 +42,9 @@ II.-Pour la mise en œuvre des actions du réseau pour l'emploi prévues à l'ar
 
 a) Au Comité national pour l'emploi mentionné à l'article L. 5311-9 ;
 
-b) Aux comités territoriaux pour l'emploi mentionnés à l'article L. 5311-10 (1).
+b) Aux comités territoriaux pour l'emploi mentionnés à l'article L. 5311-10.
 
 Les missions mentionnées au présent II sont mises en œuvre par l'opérateur France Travail en associant les autres personnes morales constituant le réseau pour l'emploi ou leurs représentants.
 
 NOTA:
-Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
-
-(1) Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur à une date prévue par décret, et au plus tard le 1er janvier 2025.
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er janvier 2024, à l'exception le b du 7° du II du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.

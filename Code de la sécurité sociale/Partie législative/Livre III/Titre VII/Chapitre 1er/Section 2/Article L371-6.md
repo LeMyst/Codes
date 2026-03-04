@@ -1,6 +1,6 @@
 # Article L371-6
 
-Les assurés malades ou blessés de guerre qui bénéficient de la législation des pensions militaires continuent de recevoir personnellement les soins auxquels ils ont droit au titre des articles L. 115 à L. 118 du code des pensions militaires d'invalidité et des victimes de la guerre, suivant les prescriptions desdits articles.
+Les assurés malades ou blessés de guerre qui bénéficient de la législation des pensions militaires continuent de recevoir personnellement les soins auxquels ils ont droit au titre de l'article L. 212-1 du code des pensions militaires d'invalidité et des victimes de la guerre, suivant les prescriptions desdits articles.
 
 Pour les maladies, blessures ou infirmités non visées par la législation sur les pensions militaires, ils bénéficient de la prise en charge des frais de santé mentionnée à l'article L. 160-1 et des indemnités journalières prévues à l'article L. 321-1 et au chapitre 3 du titre II du présent livre. Ils sont dispensés du pourcentage de participation aux frais médicaux et pharmaceutiques et autres mis à la charge des assurés malades ou invalides.
 

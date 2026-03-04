@@ -16,9 +16,9 @@ a) Chantiers de construction ou de montage, installation d'ensembles industriels
 
 b) Recherche ou extraction de ressources naturelles ;
 
-c) Navigation à bord de navires armés au commerce et immatriculés au registre international français,
+c) Navigation à bord de navires armés au commerce et immatriculés au registre international français ;
 
-d) Navigation à bord de navires armés au commerce et immatriculés à Wallis-et-Futuna.
+d) Navigation à bord de navires armés au commerce et immatriculés à Wallis-et-Futuna,
 
 – soit pendant une durée supérieure à cent vingt jours au cours d'une période de douze mois consécutifs lorsqu'elle se rapporte à des activités de prospection commerciale.
 

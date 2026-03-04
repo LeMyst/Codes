@@ -22,3 +22,5 @@ Lorsque le conseil examine une question pouvant concerner la déontologie et la 
 
 NOTA:
 Conformément à l'article 2 du décret n° 2022-979 du 2 juillet 2022, ces dispositions entrent en vigueur à compter du prochain renouvellement du mandat des membres du Conseil national de l'inspection du travail.
+
+Se reporter à l'arrêté du 19 décembre 2022 portant nomination des membres titulaires et suppléants du Conseil national de l'inspection du travail (NOR : MTRT2228755A) ainsi qu'à l'arrêté du 19 décembre 2022 portant nomination des membres titulaires et suppléants du Conseil national de l'inspection du travail (NOR : MTRT2228755A).

@@ -1,6 +1,6 @@
 # Article R717-18-1
 
-Indépendamment des examens d'aptitude à l'embauche et périodiques ainsi que des visites d'information et de prévention, tout travailleur en situation effective de travail fait l'objet lorsqu'il atteint l'âge de cinquante ans d'un examen médical destiné à établir le bilan de son exposition à des risques professionnels.
+Tout travailleur bénéficie de la visite médicale de mi-carrière prévue à l'article L. 4624-2-2 du code du travail. Cette visite vise, en outre, à établir le bilan de son exposition à des risques professionnels.
 
 Afin de procéder au recensement de ces expositions professionnelles, le médecin du travail peut solliciter le ou les employeurs concernés.
 

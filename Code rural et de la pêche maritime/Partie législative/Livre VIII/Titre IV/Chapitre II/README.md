@@ -1,1 +1,1 @@
-Chapitre II : Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon
+Chapitre II : Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon

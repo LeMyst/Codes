@@ -60,8 +60,6 @@ Les personnes qui contribuent de façon occasionnelle à l'exécution d'une miss
 
 29° Les représentants des retraités militaires au sein du Conseil supérieur de la fonction militaire mentionné à l'article L. 4124-1 du code de la défense, au titre des indemnités versées en application du décret n° 2023-271 du 14 avril 2023 ;
 
-30° Les chirurgiens-dentistes participant à la permanence des soins dentaires mise en œuvre par les agences régionales de santé en application de l'article L. 1435-5 du code de la santé publique au titre des rémunérations à l'acte ou forfaitaires versées par les caisses primaires d'assurance maladie en application de l'article L. 162-9.
+30° Les chirurgiens-dentistes participant à la permanence des soins dentaires mise en œuvre par les agences régionales de santé en application de l'article L. 1435-5 du code de la santé publique au titre des rémunérations à l'acte ou forfaitaires versées par les caisses primaires d'assurance maladie en application de l'article L. 162-9 ;
 
-NOTA:
-Par décision du Conseil d'Etat, décision n° 397362-397531 du 17 mars 2017 (ECLI:FR:CECHR:2017:397362.20170317), article 3 :
-L’article 1er du décret n° 2015-1869 du 30 décembre 2015 est annulé en tant qu’il ne fait pas figurer les experts désignés par le juge judiciaire pour accomplir des expertises médicales, psychiatriques ou psychologiques, autres que les médecins et psychologues exerçant des activités d’expertises médicales, psychiatriques ou psychologiques rémunérés en application des dispositions de l’article R. 91 du code de procédure pénale et qui ne sont pas affiliés à un régime de travailleurs non salariés, sur la liste, fixée à l’article D. 311-1 du code de la sécurité sociale, des collaborateurs occasionnels du service public au sens du 21° de l’article L. 311-3 du même code.
+31° Les experts psychologues appuyant l'autorité compétente mentionnée à l'article D. 162-31 du code de la sécurité sociale pour la sélection des psychologues participant au dispositif prévu à l'article L. 162-58, au titre des indemnités perçues dans ce cadre.

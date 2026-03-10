@@ -8,7 +8,7 @@ I. - France compétences verse :
 
 3° La dotation relative au financement des périodes de reconversions mentionnée au c du 3° de l'article L. 6123-5, aux opérateurs de compétences en fonction de l'effectif salarié de leurs entreprises adhérentes, déterminé selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale, figurant dans la table de correspondance mentionnée à l'article R. 6123-34 ;
 
-3° Les fonds affectés au financement de l'alternance mentionnés au c du 3° de l'article L. 6123-5 aux opérateurs de compétences, en fonction du montant des contributions des entreprises adhérentes de chaque opérateur de compétences figurant dans la table de correspondance mentionnée à l'article R. 6123-34.
+4° Les fonds affectés au financement de l'alternance mentionnés au c du 3° de l'article L. 6123-5 aux opérateurs de compétences, en fonction du montant des contributions des entreprises adhérentes de chaque opérateur de compétences figurant dans la table de correspondance mentionnée à l'article R. 6123-34.
 
 II. - France compétences fixe les modalités de répartition des dotations mentionnées au I par délibération de son conseil d'administration.
 

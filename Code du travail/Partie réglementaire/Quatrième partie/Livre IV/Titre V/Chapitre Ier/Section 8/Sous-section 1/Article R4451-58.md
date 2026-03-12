@@ -34,7 +34,7 @@ III.-Cette information et cette formation portent, notamment, sur :
 
 10° Les règles particulières relatives à une situation d'urgence radiologique ;
 
-11° Le cas échéant, les aspects relatifs à la sûreté et aux conséquences possibles de la perte du contrôle adéquat des sources scellées de haute activité telles que définies à l'annexe 13.7 visée à l' article R. 1333-1 du code de la santé publique .
+11° Le cas échéant, les aspects relatifs à la sûreté et aux conséquences possibles de la perte du contrôle adéquat des sources scellées de haute activité telles que définies à l'annexe 13.7 visée à l'article R. 1333-1 du code de la santé publique.
 
 IV.-Lorsque le travailleur est exposé au radon uniquement, l'information ou la formation porte notamment sur :
 

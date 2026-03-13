@@ -1,1 +1,1 @@
-Sous-section 3 : Deuxième cycle des études d'orthophonie
+Sous-section 3 : Délivrance du certificat de capacité d'orthophoniste

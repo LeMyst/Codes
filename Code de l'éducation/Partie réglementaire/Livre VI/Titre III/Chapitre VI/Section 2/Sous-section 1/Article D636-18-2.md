@@ -1,11 +1,24 @@
 # Article D636-18-2
 
-Les candidats à une inscription en vue du certificat de capacité d'orthophoniste justifient :
+Un arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur détermine :
 
--soit du baccalauréat ;
+1° Les modalités d'accès à la formation préparant au certificat de capacité d'orthophoniste ;
 
--soit du diplôme d'accès aux études universitaires ;
+2° Le contenu de cette formation, notamment les référentiels d'activités, de compétence et de formation ;
 
--soit d'un diplôme français ou étranger admis en dispense ou équivalence du baccalauréat en application de la réglementation nationale ;
+3° Les modalités d'organisation de celle-ci ;
 
--soit d'une qualification ou d'une expérience jugées suffisantes, conformément aux dispositions de l'article L. 613-5 du code de l'éducation.
+4° Les dispenses de scolarité, de stages, d'enseignements ou d'épreuves pouvant être accordées :
+
+a) Aux titulaires de titres et diplômes mentionnés à l'article L. 4341-3 du code de la santé publique ;
+
+b) Aux titulaires de titres ou de diplômes les autorisant à enseigner aux enfants atteints de déficience auditive.
+
+NOTA:
+Conformément à l'article 4 du décret n° 2026-174 du 11 mars 2026 :
+
+I. - Les dispositions du décret précité sont applicables aux étudiants entrant dans la formation conduisant au certificat de capacité d'orthophoniste, à compter du 1er septembre 2026.
+
+II. - Jusqu'au 1er septembre 2030, les étudiants ayant entrepris des études en vue du certificat de capacité d'orthophoniste avant la date mentionnée au I, restent régis par les dispositions du code de l'éducation et du décret n° 2013-798 du 30 août 2013 relatif au régime des études en vue du certificat de capacité d'orthophoniste dans leur version antérieure à l'entrée en vigueur du décret n° 2026-174 du 11 mars 2026.
+
+III. - L'arrêté mentionné à l'article D. 636-18-2 du code de l'éducation, dans sa rédaction résultant du décret n° 2026-174 du 11 mars 2026, détermine les modalités d'intégration des étudiants mentionnés au II en situation de redoublement, de césure ou de reprise d'études après une interruption de formation dans le régime des dispositions régissant les études conduisant au certificat de capacité d'orthophoniste dans leur version résultant dudit décret.

@@ -9,4 +9,6 @@ La licence de capitaine pilote est délivrée au capitaine ayant subi, avec succ
 NOTA:
 Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, la commission locale (pilotage dans les eaux maritimes) est renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
-Conformément à l'annexe 1 du décret n° 2020-806 du 29 juin 2020, la commission locale (pilotage dans les eaux maritimes) est renouvelée jusqu'au 8 juin 2025
+Conformément à l'annexe 1 du décret n° 2020-806 du 29 juin 2020, la commission locale (pilotage dans les eaux maritimes) est renouvelée jusqu'au 8 juin 2025.
+
+Conformément à l'annexe 1 du décret n° 2026-175 du 10 mars 2026, l'Assemblée commerciale (pilotage dans les eaux maritimes) est renouvelée jusqu'au 8 juin 2030.

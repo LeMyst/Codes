@@ -1,6 +1,8 @@
 # Article R412-43-1
 
-Constituent les mesures d'exécution prévues à l'article L. 412-1 :
+Constituent les mesures d'exécution prévues à l'article L. 412-1 les dispositions des articles 1er à 6, 11, 12 et 21 et des annexes au règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l'étiquetage énergétique.
+
+Constituent également les mesures d'exécution prévues à l'article L. 412-1 :
 
 1° Les dispositions des articles 1 à 7 et 9 à 11 du règlement délégué (UE) 2019/2013 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l'indication, par voie d'étiquetage, de la consommation d'énergie des dispositifs d'affichage électroniques et ses annexes ;
 
@@ -12,11 +14,11 @@ Constituent les mesures d'exécution prévues à l'article L. 412-1 :
 
 5° Les dispositions des articles 1er à 5 du règlement délégué (UE) n° 626/2011 de la Commission du 4 mai 2011 modifié, complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'indication, par voie d'étiquetage, de la consommation d'énergie des climatiseurs et ses annexes ;
 
-6° Les dispositions des articles 1er à 5 du règlement délégué (UE) n° 392/2012 de la Commission du 1er mars 2012 modifié, complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'indication, par voie d'étiquetage, de la consommation d'énergie des sèche-linge domestiques à tambour et ses annexes ;
+6° Les dispositions des articles 1er à 5 du règlement délégué (UE) 2023/2534 de la Commission du 13 juillet 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des sèche-linge domestiques à tambour et abrogeant le règlement délégué (UE) n° 392/2012 de la Commission et ses annexes ;
 
 7° Les dispositions des articles 1 à 6 et 8 à 10 du règlement (UE) 2019/2015 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des sources lumineuses et ses annexes ;
 
-8° (abrogé)
+8° (Abrogé) ;
 
 9° Les dispositions des articles 1er à 5 du règlement délégué (UE) n° 811/2013 de la Commission du 18 février 2013 modifié, complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des dispositifs de chauffage des locaux, des dispositifs de chauffage mixtes, des produits combinés constitués d'un dispositif de chauffage des locaux, d'un régulateur de température et d'un dispositif solaire et des produits combinés constitués d'un dispositif de chauffage mixte, d'un régulateur de température et d'un dispositif solaire et ses annexes ;
 
@@ -32,6 +34,6 @@ Constituent les mesures d'exécution prévues à l'article L. 412-1 :
 
 15° Les dispositions des articles 1er à 5 du règlement délégué (UE) n° 2015/1094 de la Commission du 5 mai 2015 modifié, complétant la directive 2010/30/ UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des armoires frigorifiques professionnelles et ses annexes ;
 
-16° les dispositions des articles 1er à 6, de l'article 11, de l'article 12 et de l'article 21 du règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l'étiquetage énergétique et ses annexes ;
+16° Les dispositions des articles 1er à 5 du règlement délégué (UE) 2023/1669 de la Commission du 16 juin 2023 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des smartphones et des tablettes et ses annexes ;
 
 17° Les articles 1 à 7 et 9 du règlement délégué (UE) 2019/2018 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 en ce qui concerne l'étiquetage énergétique des appareils de réfrigération disposant d'une fonction de vente directe et ses annexes.

@@ -4,11 +4,13 @@ I.-La certification est effectuée par un organisme certificateur bénéficiant 
 
 Le Comité français d'accréditation ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne transmettent à la Haute Autorité de santé, selon des modalités qu'elle détermine, les nom et coordonnées des organismes qu'ils ont accrédités.
 
-II.-Les organismes certificateurs transmettent la décision de certification dans un délai d'un mois suivant la conclusion de l'audit que ces derniers effectuent, concomitamment, aux prestataires de service et distributeurs de matériels concernés, à la Haute Autorité de santé et aux ministres chargés de la santé et de la sécurité sociale.
+II.-Les organismes certificateurs transmettent la décision de certification dans un délai d'un mois suivant la conclusion définitive de l'audit que ces derniers effectuent, concomitamment, aux prestataires de service et distributeurs de matériels concernés, à la Haute Autorité de santé et aux ministres chargés de la santé et de la sécurité sociale.
 
 Ils transmettent dans le même délai à la Haute Autorité de santé, selon des modalités qu'elle détermine, le nom des prestataires de service et des distributeurs de matériels certifiés, avec notamment l'ensemble des informations mentionnées au IV.
 
 III.-La certification est délivrée pour une durée maximale de quatre ans renouvelable.
+
+Par exception, les prestataires de services et distributeurs de matériel débutant leur activité se voient délivrer une certification provisoire, d'une durée d'un an, par un organisme mentionné au I, sous réserve du respect du référentiel de bonnes pratiques mentionné au 16° de l'article L. 161-37. Pendant la période de certification provisoire, les dispositions du présent article s'appliquent à l'exception des dispositions du V. La certification des prestataires intervient avant le terme de la certification provisoire, dans les conditions du présent article. La durée cumulée de la certification provisoire et de la certification ne peut excéder quatre ans.
 
 IV.-Le document attestant de la certification mentionne :
 
@@ -35,3 +37,5 @@ Lorsqu'un organisme certificateur a connaissance ou constate un manquement aux e
 L'organisme certificateur informe la Haute Autorité de santé et les ministres chargés de la santé et de la sécurité sociale des décisions de suspension ou de retrait de certification. La notification à la Haute Autorité de santé se fait selon les mêmes modalités que celles prévues par le II.
 
 L'organisme transmet à la Haute Autorité de santé un bilan annuel commenté mentionnant, notamment, le nombre de prestataires de service et de distributeurs de matériels qu'il a certifiés, les activités concernées ainsi que le nombre de décisions de suspension ou de retrait de certification qu'il a prises. Ces documents ainsi que la liste des organismes certificateurs sont tenus par la Haute Autorité de santé à la disposition des ministres chargés de la santé et de la sécurité sociale.
+
+VIII. - Pour les besoins de l'audit de certification ou de l'audit de contrôle respectivement mentionnés aux V et VII, les prestataires de services et distributeurs de matériel procèdent, dans le respect des dispositions du I de l'article L. 1110-4 du code de la santé publique, à la pseudonymisation des dossiers de leurs usagers auxquels les organismes certificateurs auront accès, dans la mesure nécessaire à l'accomplissement de la mission d'audit et pour les agents spécialement désignés pour celle-ci.

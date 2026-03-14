@@ -1,6 +1,6 @@
 # Article R160-16
 
-Pour l'application des 1° et 2° de l'article L. 160-14 ;
+Pour l'application des 1° et 2° de l'article L. 160-14 :
 
 I.-La participation de l'assuré aux tarifs servant de base au calcul de la prise en charge des frais de santé en cas de maladie est réduite à 24 euros dans les cas suivants :
 

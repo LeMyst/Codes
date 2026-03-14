@@ -20,7 +20,7 @@ Pour les livraisons de gaz naturel ou d'électricité mentionnées au b du même
 
 2 septies. Pour les transferts de quotas autorisant les exploitants à émettre des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/ CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/ CE du Conseil, et d'autres unités pouvant être utilisées par les opérateurs en vue de se conformer à cette directive, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
 
-Pour les transferts de certificats de garanties d'origine mentionnées aux articles L. 311-20, L. 311-22, L. 445-3, L. 445-15, L. 446-18, L. 446-22-1, L. 821-3, L. 824-1 et L. 824-2 du code de l'énergie, de certificats de garanties de capacité mentionnées à l'article L. 335-3 du même code et de certificats de production mentionnés à l'article L. 446-31 dudit code, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
+Pour les transferts de certificats de garanties d'origine mentionnées aux articles L. 311-20, L. 311-22, L. 445-3, L. 445-15, L. 446-18, L. 446-22-1, L. 821-3, L. 824-1 et L. 824-2 du code de l'énergie et de certificats de production mentionnés à l'article L. 446-31 dudit code, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
 
 2 octies. Pour les services de communications électroniques, à l'exclusion de ceux soumis à la taxe mentionnée à l'article L. 453-1 du code des impositions sur les biens et services, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France.
 
@@ -43,8 +43,10 @@ Les dispositions du premier alinéa et celles prévues au 3 de l'article 272 ne 
 Toutefois, ces dispositions ne sont pas applicables lorsque le donneur d'ordre établit qu'il n'a pas eu connaissance du non-respect par le façonnier de ses obligations fiscales.
 
 NOTA:
-Conformément à l’article 43 de l’ordonnance n° 2023-1210 du 20 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024 et sont applicables aux impositions pour lesquelles le fait générateur intervient à compter de cette date.
+Conformément au IV de l’article 19 de la LOI n° 2025-127 du 14 février 2025 de finances pour 2025, ces dispositions entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
 
-Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+Ils sont applicables à l'électricité produite, fournie ou consommée à compter de cette même date d'entrée en vigueur.
 
-Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du 2 septies du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 215-9 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.
+Les dispositions relatives à la contribution des fournisseurs d'électricité prévue à l'article L. 335-1 du code de l'énergie qui sont en vigueur avant cette date demeurent applicables à compter de cette date en tant qu'elles se rapportent à des garanties de capacités ou des consommations intervenant avant cette date.
+
+Conformément à l'article 1 du Décret n° 2026-177 du 11 mars 2026 relatif à l'entrée en vigueur du mécanisme de capacité, ces dispositions entrent en vigueur le lendemain de la publication dudit décret, soit le 14 mars 2026.

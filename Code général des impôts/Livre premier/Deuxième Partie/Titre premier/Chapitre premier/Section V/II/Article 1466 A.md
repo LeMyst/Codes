@@ -1,6 +1,6 @@
 # Article 1466 A
 
-I. – Les communes sur le territoire desquelles sont situés un ou plusieurs quartiers prioritaires de la politique de la ville ou leurs établissements publics de coopération intercommunale dotés d'une fiscalité propre peuvent exonérer de la cotisation foncière des entreprises par délibération prise dans les conditions de l'article 1639 A bis les créations ou extensions d'établissement réalisées jusqu'au 31 décembre 2025 dans un ou plusieurs de ces quartiers prioritaires, dans la limite d'un montant de base nette imposable fixé à 33 637 €.
+I. – Les communes sur le territoire desquelles sont situés un ou plusieurs quartiers prioritaires de la politique de la ville ou leurs établissements publics de coopération intercommunale dotés d'une fiscalité propre peuvent exonérer de la cotisation foncière des entreprises par délibération prise dans les conditions de l'article 1639 A bis les créations ou extensions d'établissement réalisées jusqu'au 31 décembre 2025 dans un ou plusieurs de ces quartiers prioritaires, dans la limite d'un montant de base nette imposable fixé à 33 637 €. Seuls les établissements employant moins de 150 salariés peuvent bénéficier de cette mesure.
 
 L'exonération s'applique aux entreprises qui ont employé moins de 250 salariés au cours de la période de référence retenue pour le calcul de la base d'imposition et dont soit le chiffre d'affaires annuel réalisé au cours de la même période n'excède pas 50 millions d'euros, soit le total de bilan, au terme de la même période, n'excède pas 43 millions d'euros. L'effectif à retenir est apprécié par référence au nombre moyen de salariés au cours de la période. Le chiffre d'affaires à prendre en compte est éventuellement corrigé pour correspondre à une année pleine et, pour une société mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, s'entend de la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
 
@@ -57,6 +57,8 @@ L'exonération porte, pendant cinq ans à compter de l'année qui suit la créat
 A l'issue de la période d'exonération et au titre des trois années suivant l'expiration de celle-ci, la base nette imposable des établissements mentionnés au premier alinéa du présent I septies fait l'objet d'un abattement. Le montant de cet abattement est égal à 60 % de la base nette imposable la première année, à 40 % la deuxième année et à 20 % la troisième année.
 
 L'exonération s'applique quand le contribuable remplit les conditions mentionnées au II de l'article 44 octies B.
+
+Le bénéfice des exonérations est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 II. – Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B, I sexies et I septies les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'exonération.
 

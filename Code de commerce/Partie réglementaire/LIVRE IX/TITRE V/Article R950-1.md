@@ -919,9 +919,7 @@ L'article R. 814-117 est applicable dans les îles Wallis et Futuna dans sa réd
 
 9° Le titre II du livre VIII, à l'exception des articles R. 821-158 à R. 821-170, dans sa rédaction issue du décret n° 2025-791 du 8 août 2025.
 
-Toutefois, les articles R. 821-1, R. 821-3, et R. 822-20 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017 ;
-
-L'article R. 823-5 est applicable dans sa rédaction résultant du décret n° 2023-1391 du 29 décembre 2023 ;
+Toutefois, l'article R. 823-5 est applicable dans sa rédaction résultant du décret n° 2023-1391 du 29 décembre 2023
 
 Sont applicables dans leur rédaction résultant du décret n° 2020-292 du 21 mars 2020 les articles R. 820-1-1, R. 821-5, R. 821-7, R. 821-14, R. 821-14-1, R. 821-14-2, R. 821-14-7, R. 821-14-14, R. 821-17, R. 821-48, R. 821-64, R. 821-71, R. 821-72, R. 821-75, R. 822-13, R. 822-14, R. 822-22, R. 822-23, R. 822-26, R. 822-30, R. 822-52, R. 822-62, R. 822-63, R. 822-89, R. 823-7-2, R. 823-10, R. 823-11, R. 823-14, R. 823-15, R. 823-17-1, R. 823-18, R. 823-19, R. 823-21, R. 824-4, R. 824-5, R. 824-6, R. 824-7, R. 824-11, R. 824-13, R. 824-16, R. 824-17, R. 824-18, R. 824-19, R. 824-22, R. 824-24 et R. 824-27 ;
 
@@ -934,3 +932,5 @@ Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résult
 Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019 ;
 
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
+
+10° L'annexe 8-1 de la partie réglementaire du code de commerce est applicable dans sa rédaction résultant du décret n° 2026-176 du 11 mars 2026 adaptant le code de déontologie de la profession de commissaire aux comptes à la mission de certification des informations en matière de durabilité. Pour l'application de cette annexe, les références au règlement (UE) n° 537/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux exigences spécifiques applicables au contrôle légal des comptes des entités d'intérêt public et abrogeant la décision 2005/909/CE de la Commission sont remplacées par des références aux dispositions applicables en métropole en vertu de ce règlement.

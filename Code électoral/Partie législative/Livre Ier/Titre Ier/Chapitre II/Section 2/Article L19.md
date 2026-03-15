@@ -16,19 +16,7 @@ Sa composition est rendue publique dans des conditions fixées par décret en Co
 
 Le maire, à sa demande ou à l'invitation de la commission, présente ses observations.
 
-IV.-Dans les communes de moins de 1 000 habitants, la commission est composée :
-
-1° D'un conseiller municipal pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, ou, à défaut, du plus jeune conseiller municipal. Le maire, les adjoints titulaires d'une délégation et les conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale ne peuvent siéger au sein de la commission en application du présent 1° ;
-
-2° D'un délégué de l'administration désigné par le représentant de l'Etat dans le département ;
-
-3° D'un délégué désigné par le président du tribunal judiciaire.
-
-Lorsqu'une délégation spéciale est nommée en application de l'article L. 2121-36 du code général des collectivités territoriales, le conseiller municipal mentionné au 1° du présent IV est remplacé par un membre de la délégation spéciale désigné par le représentant de l'Etat dans le département.
-
-Les conseillers municipaux et les agents municipaux de la commune, de l'établissement public de coopération intercommunale ou des communes membres de celui-ci ne peuvent pas être désignés en application des 2° et 3° du présent IV.
-
-V.-Dans les communes de 1 000 habitants et plus dans lesquelles trois listes au moins ont obtenu des sièges au conseil municipal lors de son dernier renouvellement, la commission est composée :
+V.-Dans les communes dans lesquelles trois listes au moins ont obtenu des sièges au conseil municipal lors de son dernier renouvellement, la commission est composée :
 
 1° De trois conseillers municipaux appartenant à la liste ayant obtenu le plus grand nombre de sièges, pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints titulaires d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale ;
 
@@ -38,17 +26,25 @@ En cas d'égalité en nombre de sièges entre plusieurs listes, l'ordre de prior
 
 A Paris, Marseille et Lyon, les commissions de chaque arrondissement sont composées de membres du conseil d'arrondissement désignés dans les mêmes conditions.
 
-VI.-Dans les communes de 1 000 habitants et plus dans lesquelles deux listes ont obtenu des sièges au conseil municipal lors de son dernier renouvellement, la commission est composée :
+VI.-Dans les communes dans lesquelles deux listes ont obtenu des sièges au conseil municipal lors de son dernier renouvellement, la commission est composée :
 
 1° De trois conseillers municipaux appartenant à la liste ayant obtenu le plus grand nombre de sièges, pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints titulaires d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale ;
 
 2° De deux conseillers municipaux appartenant à la deuxième liste ayant obtenu le plus grand nombre de sièges, pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints titulaires d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale.
 
-VII.-La commission est composée conformément au IV dans les communes de 1 000 habitants et plus :
+VII.-Dans les communes dans lesquelles une seule liste a obtenu des sièges au conseil municipal lors de son dernier renouvellement ou dans lesquelles il est impossible de constituer une commission complète selon les règles prévues aux V et VI, la commission est composée :
 
-1° Dans lesquelles une seule liste a obtenu des sièges au conseil municipal lors de son dernier renouvellement ;
+1° D'un conseiller municipal pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission ou, à défaut, du plus jeune conseiller municipal. Le maire, les adjoints titulaires d'une délégation et les conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale ne peuvent siéger dans la commission en application du présent 1° ;
 
-2° Ou dans lesquelles il est impossible de constituer une commission complète selon les règles prévues aux V et VI.
+2° D'un délégué de l'administration désigné par le représentant de l'Etat dans le département ;
+
+3° D'un délégué désigné par le président du tribunal judiciaire.
+
+Lorsqu'une délégation spéciale est nommée en application de l'article L. 2121-36 du code général des collectivités territoriales, le conseiller municipal mentionné au 1° du présent VII est remplacé par un membre de la délégation spéciale désigné par le représentant de l'Etat dans le département.
+
+Les conseillers municipaux et les agents municipaux de la commune, de l'établissement public de coopération intercommunale ou des communes membres de celui-ci ne peuvent pas être désignés en application des 2° et 3° du présent VII.
 
 NOTA:
-Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.
+Conformément à l'article 7 de la loi n° 2025-444 du 21 mai 2025, ces dispositions s'appliquent à compter du premier renouvellement général des conseils municipaux suivant la promulgation de ladite loi.
+
+Conformément à l'article 1er du décret n° 2025-848 du 27 août 2025, les électeurs sont convoqués le dimanche 15 mars 2026 en vue de procéder au renouvellement des conseils municipaux et du conseil de Paris.

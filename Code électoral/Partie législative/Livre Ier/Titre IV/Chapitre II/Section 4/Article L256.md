@@ -1,6 +1,10 @@
 # Article L256
 
-Le jour du scrutin, sont affichés dans chaque bureau de vote le nombre de conseillers municipaux à élire par la circonscription électorale, ainsi que les noms et prénoms des personnes candidates dans les conditions prévues à la section 1 bis du présent chapitre.
+Est nul tout bulletin qui ne répond pas aux conditions prévues à l'article L. 255-2, à l'exception des bulletins blancs.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
 
 NOTA:
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+Conformément à l'article 7 de la loi n° 2025-444 du 21 mai 2025, ces dispositions s'appliquent à compter du premier renouvellement général des conseils municipaux suivant la promulgation de ladite loi.
+
+Conformément à l'article 1er du décret n° 2025-848 du 27 août 2025, les électeurs sont convoqués le dimanche 15 mars 2026 en vue de procéder au renouvellement des conseils municipaux et du conseil de Paris.

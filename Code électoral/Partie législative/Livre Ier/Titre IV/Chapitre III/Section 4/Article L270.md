@@ -4,8 +4,13 @@ Le candidat venant sur une liste immédiatement après le dernier élu est appel
 
 Si le candidat ainsi appelé à remplacer le conseiller municipal se trouve de ce fait dans l'un des cas d'incompatibilité mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti, le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
 
-Lorsque les dispositions des alinéas précédents ne peuvent plus être appliquées, il est procédé au renouvellement du conseil municipal :
+Lorsque les deux premiers alinéas du présent article ne peuvent plus être appliqués, il est procédé au renouvellement du conseil municipal :
 
-1° Dans les trois mois de la dernière vacance, si le conseil municipal a perdu le tiers ou plus de ses membres, et sous réserve de l'application du deuxième alinéa de l'article L. 258 ;
+1° Dans les trois mois de la dernière vacance, si le conseil municipal a perdu le tiers ou plus de ses membres. Toutefois, dans l'année qui précède le renouvellement général des conseils municipaux, les élections ne sont obligatoires qu'au cas où le conseil municipal a perdu la moitié ou plus de ses membres ou qu'il compte moins de quatre membres ;
 
 2° Dans les conditions prévues aux articles L. 2122-8 et L. 2122-14 du code général des collectivités territoriales, s'il est nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
+
+NOTA:
+Conformément à l'article 7 de la loi n° 2025-444 du 21 mai 2025, ces dispositions s'appliquent à compter du premier renouvellement général des conseils municipaux suivant la promulgation de ladite loi.
+
+Conformément à l'article 1er du décret n° 2025-848 du 27 août 2025, les électeurs sont convoqués le dimanche 15 mars 2026 en vue de procéder au renouvellement des conseils municipaux et du conseil de Paris.

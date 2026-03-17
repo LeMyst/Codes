@@ -2,7 +2,7 @@
 
 I. – A Mayotte, la base d'imposition à la taxe foncière sur les propriétés bâties des propriétés cédées à compter du 18 septembre 2013 et jusqu'au 31 décembre 2016 par une personne publique aux occupants irréguliers des constructions affectées à leur habitation principale sises sur ces propriétés fait l'objet d'un abattement les cinq années suivant celle au cours de laquelle la cession est intervenue.
 
-Lorsque les propriétés mentionnées au premier alinéa du présent I sont cédées entre le 1er janvier 2017 et le 31 décembre 2025, la durée de l'abattement est de trois ans.
+Lorsque les propriétés mentionnées au premier alinéa du présent I sont cédées entre le 1er janvier 2017 et le 31 décembre 2028, la durée de l'abattement est de trois ans.
 
 En cas de changement de redevable de la taxe au cours de cette période, l'abattement cesse de s'appliquer.
 
@@ -19,4 +19,4 @@ IV. – L'abattement s'applique sauf délibération contraire de la commune ou d
 Les délibérations sont prises dans les conditions prévues à l'article 1639 A bis et portent sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale.
 
 NOTA:
-Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2021.
+Conformément au II de l'article 103 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.

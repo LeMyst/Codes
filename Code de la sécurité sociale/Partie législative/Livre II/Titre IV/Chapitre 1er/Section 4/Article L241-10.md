@@ -10,7 +10,7 @@ c) Des personnes titulaires :
 
 -soit de l'élément de la prestation de compensation mentionnée au 1° de l'article L. 245-3 du code de l'action sociale et des familles ;
 
--soit d'une majoration pour tierce personne servie au titre de l'assurance invalidité, d'un régime spécial de sécurité sociale ou de l'article L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre ;
+-soit d'une majoration pour tierce personne servie au titre de l'assurance invalidité, d'un régime spécial de sécurité sociale ou de l' article L. 133-1 du code des pensions militaires d'invalidité et des victimes de guerre ;
 
 -soit d'une prestation complémentaire pour recours à tierce personne servie au titre de la législation des accidents du travail ;
 

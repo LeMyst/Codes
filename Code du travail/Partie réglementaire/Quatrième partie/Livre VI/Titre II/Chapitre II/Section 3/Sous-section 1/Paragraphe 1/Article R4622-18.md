@@ -2,7 +2,7 @@
 
 Les entreprises foraines adhèrent à un service de prévention et de santé au travail interentreprises territorialement compétent :
 
-1° Soit pour la commune de résidence de l'employeur, soit pour la commune où se situe l'organisme auprès duquel il a fait élection de domicile dans les conditions prévues à l' article L. 264-1 du code de l'action sociale et des familles ;
+1° Soit pour la commune de résidence de l'employeur, soit pour la commune où se situe l'organisme auprès duquel il a fait élection de domicile dans les conditions prévues à l'article L. 264-1 du code de l'action sociale et des familles ;
 
 2° Soit pour l'une des communes où l'entreprise exerce habituellement son activité.
 

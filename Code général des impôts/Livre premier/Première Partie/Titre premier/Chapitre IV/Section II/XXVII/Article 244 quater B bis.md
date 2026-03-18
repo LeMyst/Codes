@@ -1,6 +1,6 @@
 # Article 244 quater B bis
 
-I.-A.-Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies et 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses facturées par des organismes de recherche et de diffusion des connaissances dans le cadre d'un contrat de collaboration de recherche conclu jusqu'au 31 décembre 2025.
+I.-A.-Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 octies B, 44 duodecies et 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses facturées par des organismes de recherche et de diffusion des connaissances dans le cadre d'un contrat de collaboration de recherche conclu jusqu'au 31 décembre 2028.
 
 B.-Les organismes de recherche mentionnés au A répondent à la définition donnée par la communication de la Commission européenne n° 2014/ C 198/01 relative à l'encadrement des aides d'Etat à la recherche, au développement et à l'innovation. Ils sont agréés par le ministre chargé de la recherche selon des modalités définies par décret.
 
@@ -46,3 +46,5 @@ VI.-Le bénéfice du crédit d'impôt est subordonné au respect du régime cadr
 
 NOTA:
 Conformément au II de l’article 37 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux contrats de collaboration de recherche conclus à compter du 1er janvier 2026.
+
+Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.

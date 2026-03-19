@@ -13,8 +13,6 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 | | | |
 | --- | --- | --- |
 | DÉSIGNATION DES MATIÈRES ou opérations imposables | UNITÉ DE PERCEPTION | QUOTITÉ (en euros) |
-| Substances émises dans l'atmosphère :-oxydes de soufre et autres composés soufrés | Tonne | 136,02 |
-| -acide chlorhydrique | Tonne | 43,24 (44,49 en 2009) |
 | -protoxyde d'azote | Tonne | 64,86 (66,74 en 2009) |
 | -oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote | Tonne | 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012) |
 | hydrocarbures non méthaniques, solvants et autres composés organiques volatils | Tonne | 136,02 |

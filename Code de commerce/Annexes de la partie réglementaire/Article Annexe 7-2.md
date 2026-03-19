@@ -97,7 +97,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Cour d'appel de Nancy |
 | Meurthe-et-Moselle | Val de Briey | 12 | 2 |
 | | Nancy | 24 | 4 |
-| Meuse | Bar-le-Duc | 12 | 2 |
+| Meuse | Bar-le-Duc | 14 | 2 |
 | Vosges | Epinal | 20 | 3 |
 | Cour d'appel de Nîmes |
 | Ardèche | Aubenas | 15 | 3 |
@@ -139,7 +139,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Finistère | Brest | 21 | 4 |
 | | Quimper | 16 | 3 |
 | Ille-et-Vilaine | Rennes | 36 | 4 |
-| | Saint-Malo | 16 | 3 |
+| | Saint-Malo | 18 | 3 |
 | Loire-Atlantique | Nantes | 34 | 5 |
 | | Saint-Nazaire | 15 | 3 |
 | Morbihan | Lorient | 23 | 3 |

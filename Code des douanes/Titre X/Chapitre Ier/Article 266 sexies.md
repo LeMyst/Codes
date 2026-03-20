@@ -76,7 +76,7 @@ II.-La taxe ne s'applique pas :
 
 III. - (Abrogé).
 
-IV. - (Abrogé) ;
+IV. - (Abrogé).
 
 NOTA:
 Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, enrtent en vigueur le 1er mars 2026.

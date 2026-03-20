@@ -42,7 +42,7 @@ a) L'apparition d'un foyer de maladie animale ou végétale ou d'un incident env
 
 b) Les aléas climatiques mentionnés à l'article L. 361-4 A du même code entraînant des pertes de récoltes ou de cultures et remplissant les conditions pour ouvrir droit à une indemnisation au titre des contrats d'assurance mentionnés à l'article L. 361-4 dudit code ou fondée sur la solidarité nationale dans les conditions précisées à l'article L. 361-4-2 du même code ;
 
-c) L'apparition de calamités agricoles mentionnées à l'article L. 361-5 du même code entraînant des pertes de moyens de production et remplissant les conditions pour ouvrir droit à une indemnisation en application du même article L. 361-5.
+c) L'apparition de calamités agricoles mentionnées à l'article L. 361-5 du même code entraînant des pertes de moyens de production et remplissant les conditions pour ouvrir droit à une indemnisation en application du même article L. 361-5 ;
 
 d) D'un aléa économique, qui s'entend :
 

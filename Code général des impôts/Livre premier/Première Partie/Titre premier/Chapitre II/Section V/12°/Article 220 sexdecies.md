@@ -78,7 +78,3 @@ IX.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
 
 NOTA:
 Conformément au II de l'article 60 de la loi n° 2023-1322 du 29 décembre 2023, les dispositions résultant des 2° et 3° du I dudit article s'appliquent aux demandes d'agrément provisoire déposées à compter du 1er janvier 2024.
-
-Conformément au II de l’article 58 de la loi n° 2023-1322 du 29 décembre 2023, le I du même article 58 ne s'applique qu'aux sommes venant en déduction de l'impôt dû.
-
-Conformément au III de l’article 58 de la loi n° 2023-1322 du 29 décembre 2023, la perte de recettes pour l'Etat résultant du I est compensée à due concurrence par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

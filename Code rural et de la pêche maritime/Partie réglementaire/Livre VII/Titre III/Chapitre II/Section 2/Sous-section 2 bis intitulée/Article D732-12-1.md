@@ -4,5 +4,7 @@ Pour l'attribution du capital décès prévu à l'article L. 732-9-1, la durée 
 
 Pour l'ouverture du droit au capital décès, les dispositions du troisième alinéa de l'article R. 732-2 sont applicables.
 
+Le taux d'incapacité permanente mentionné au premier alinéa de l'article L. 732-9-1 doit être au moins des deux tiers.
+
 NOTA:
-Conformément au III de l'article 4 du décret n° 2022-772 du 29 avril 2022, ces dispositions entrent en vigueur à la date prévue au deuxième alinéa du III de l'article 98 de la loi n° 2021-1754 du 23 décembre 2021 de financement de la sécurité sociale pour 2022.
+Conformément à l’article 2 du décret n°2026-198 du 19 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent aux décès survenus à compter du 1er janvier 2026, conformément au II de l'article 97 de la loi de financement de la sécurité sociale pour 2026.

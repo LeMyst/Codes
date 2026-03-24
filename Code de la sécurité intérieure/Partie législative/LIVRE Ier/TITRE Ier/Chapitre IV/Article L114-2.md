@@ -20,6 +20,8 @@ Le salarié peut contester, devant le juge administratif, l'avis de l'autorité 
 
 Le présent article est applicable aux salariés des employeurs de droit privé, ainsi qu'au personnel des personnes publiques employé dans les conditions du droit privé ou régi par un statut particulier, recrutés ou affectés sur les emplois mentionnés au premier alinéa.
 
+Avant l'affectation des personnels intérimaires des entreprises de travail temporaire à une mission directement liée à la sécurité des personnes et des biens en leur sein, l'enquête administrative prévue au même premier alinéa peut, dans les conditions prévues au présent article, être menée à l'initiative de l'autorité administrative ou à la demande de l'entreprise de transport public de personnes, de l'entreprise de transport de marchandises dangereuses soumise à l'obligation d'adopter un plan de sûreté ou du gestionnaire d'infrastructure. L'autorité administrative avise sans délai l'entreprise de transport ou le gestionnaire d'infrastructure concerné du résultat de l'enquête.
+
 Un décret en Conseil d'Etat fixe la liste des fonctions concernées et détermine les modalités d'application du présent article.
 
 NOTA:

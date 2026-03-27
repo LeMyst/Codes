@@ -1,0 +1,3 @@
+# Article R5311-3-8
+
+Tout membre d'un comité local pour l'emploi ayant voix délibérative peut, dans la limite de son ressort territorial, signaler, par tout moyen, de manière détaillée et argumentée, au préfet de département ainsi qu'aux représentants mentionnés à l'article R. 5311-31 qui président conjointement avec lui le comité local pour l'emploi, les manquements constatés d'un opérateur du réseau pour l'emploi mentionné aux 2° et 3° du II de l'article L. 5311-7 ou d'un organisme délégataire d'une collectivité territoriale ou de l'un de ses groupement, quant au respect des missions qui lui sont confiées en application de l'article L. 5311-8 ou à sa qualité de service.

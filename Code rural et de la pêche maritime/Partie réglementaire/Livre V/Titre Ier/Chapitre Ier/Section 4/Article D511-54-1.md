@@ -34,6 +34,15 @@ Elle délibère notamment sur :
 
 15° Les montants des indemnités mentionnées à l'article R. 511-85 ainsi que les conditions éventuelles d'indemnisation des membres associés des comités d'orientation de la chambre d'agriculture ;
 
-16° Les modalités de remboursement des frais de déplacement des membres de la chambre d'agriculture.
+16° Les modalités de remboursement des frais de déplacement des membres de la chambre d'agriculture ;
+
+17° Le règlement intérieur.
 
 Dans les limites qu'elle détermine, la session peut déléguer au bureau les attributions mentionnées aux 3°, 9°, 10°, 11°, 12°, 13°, 14° et 16°, ainsi que celles mentionnées au premier alinéa de l'article R. 511-69.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2026-208 du 24 mars 2026, avant le premier jour du septième mois suivant la publication dudit décret au Journal officiel de la République française :
+
+1° Les règlements intérieurs des établissements du réseau des chambres d'agriculture en vigueur à la date de publication de ce décret demeurent régis par les dispositions du code rural et de la pêche maritime dans leur rédaction antérieure à ce décret ;
+
+2° Les établissements du réseau des chambres d'agriculture établissent un règlement intérieur conforme aux dispositions de ce décret.

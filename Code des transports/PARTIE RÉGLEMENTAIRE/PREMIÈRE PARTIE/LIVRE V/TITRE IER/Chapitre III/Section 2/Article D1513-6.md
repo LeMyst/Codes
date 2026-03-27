@@ -1,0 +1,9 @@
+# Article D1513-6
+
+En matière de périmètre géographique :
+
+1° Pour l'application du règlement délégué (UE) 2022/670 de la Commission du 2 février 2022 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations en temps réel sur la circulation : les obligations relatives aux types de données mentionnés aux points 2 et 4 de l'annexe du règlement délégué (UE) 2022/670 s'appliquent à l'ensemble du réseau routier accessible au public pour le trafic motorisé. Les obligations relatives aux types de données visés aux points 1, 3, 5 et 6 de l'annexe du règlement délégué (UE) 2022/670 s'appliquent aux routes du réseau routier transeuropéen global et aux autoroutes non incluses dans le réseau transeuropéen de transport routier global ;
+
+2° Pour l'application du règlement délégué (UE) 885/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition de services d'informations concernant les aires de stationnement sûres et sécurisées pour les camions et les véhicules commerciaux : les zones sur lesquelles le déploiement de services d'informations concernant les aires de stationnement sûres et sécurisées, y compris les informations dynamiques, est requis sont constituées du réseau routier transeuropéen global ;
+
+3° Pour l'application du règlement délégué (UE) 886/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne les données et procédures pour la fourniture, dans la mesure du possible, d'informations minimales universelles sur la circulation liées à la sécurité routière gratuites pour les usagers : le service d'informations minimales universelles sur la circulation liées à la sécurité routière est déployé sur les autoroutes et le réseau routier transeuropéen global.

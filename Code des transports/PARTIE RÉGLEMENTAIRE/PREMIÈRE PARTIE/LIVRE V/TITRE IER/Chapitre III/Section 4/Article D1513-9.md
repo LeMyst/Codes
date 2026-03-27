@@ -1,0 +1,17 @@
+# Article D1513-9
+
+Le point d'accès national mentionné à l'article 5 du règlement délégué (UE) 885/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition de services d'informations concernant les aires de stationnement sûres et sécurisées pour les camions et les véhicules commerciaux, à l'article 7 du règlement délégué (UE) 886/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne les données et procédures pour la fourniture, dans la mesure du possible, d'informations minimales universelles sur la circulation liées à la sécurité routière gratuites pour les usagers et à l'article 3 du règlement délégué (UE) 2022/670 de la Commission du 2 février 2022 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations en temps réel sur la circulation référence les données et informations auxquelles les détenteurs et utilisateurs de données et d'informations mentionnés à l'article D. 1513-4 sont tenus de fournir l'accès en application des dispositions de ces règlements.
+
+A cette fin, les détenteurs et utilisateurs de données et d'informations fournissent au point d'accès national et mettent à jour un catalogue correspondant aux éléments suivants :
+
+- les listes de données et d'informations auxquelles ils proposent de fournir l'accès ;
+
+- les coordonnées du ou des points d'accès à ces données et à ces informations ;
+
+- les métadonnées permettant au point d'accès national de proposer un service de recherche de données.
+
+Le point d'accès national tient à jour les références normatives pour le format de données et de métadonnées applicables à la transmission des données couvertes par les règlements délégués (UE) 2022/670 de la Commission du 2 février 2022 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations en temps réel sur la circulation, n° 885/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE concernant la mise à disposition de services d'informations sur les aires de stationnement sûres et sécurisées pour les camions et les véhicules commerciaux et n° 886/2013 de la Commission du 15 mai 2013 complétant la directive 2010/40/UE concernant les données et procédures pour la fourniture, dans la mesure du possible, d'informations minimales universelles sur la circulation liées à la sécurité routière gratuites pour les usagers.
+
+L'adresse du point d'accès national et les caractéristiques techniques des métadonnées au sens du point 18 de l'article 2 du règlement (UE) 2022/670 de la Commission du 2 février 2022 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l'ensemble de l'Union, de services d'informations en temps réel sur la circulation mentionnées au présent article sont précisées par arrêté du ministre chargé des transports.
+
+Aucune donnée identifiant directement le véhicule, ses passagers, ou des personnes présentes sur les voies ne peut être transmise au point d'accès national ou rendue accessible par l'intermédiaire du point d'accès national par les détenteurs et utilisateurs de données mentionnés à l'article D. 1513-4 du présent code.

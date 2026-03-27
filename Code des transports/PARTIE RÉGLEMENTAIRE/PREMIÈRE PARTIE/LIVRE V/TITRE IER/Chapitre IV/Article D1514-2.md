@@ -26,13 +26,13 @@ III.-Les informations fournies sont accompagnées :
 
 IV.-Les informations visées aux I et II sont mises à jour par le constructeur ou son mandataire selon des modalités définies par arrêté du ministre chargé des transports.
 
-V.-Le point d'accès national défini à l'article 3 du décret n° 2015-474 du 27 avril 2015 relatif à la mise à disposition de services d'information concernant les aires de stationnement pour les camions et les véhicules commerciaux et aux données et procédures pour la fourniture d'informations sur la circulation liées à la sécurité routière permet aux gestionnaires d'infrastructures routières de demander l'accès :
+V.-Le point d'accès national défini à l'article D. 1513-9 permet aux gestionnaires d'infrastructures routières de demander l'accès :
 
 -pour les événements visés au I, aux informations visées au II dans un format lisible par machine ;
 
 -à la méthodologie de calcul du taux de confiance et de l'intervalle de confiance visés au III.
 
-Un arrêté du ministre chargé des transports définit les références ou standards utilisables pour le format des informations visées au II pour les altérations visées au I.
+Un arrêté du ministre chargé des transports définit les références ou standards utilisables pour le format des informations visées au II pour les altérations visées au I. Quel que soit le format retenu par le constructeur du véhicule terrestre à moteur ou son mandataire, les champs relatifs à l'identification sont laissés vides et toute information ou donnée permettant d'identifier directement ou indirectement le véhicule, son conducteur, son propriétaire, son locataire ou toute personne physique en faisant usage, sont ignorées.
 
 VI.-Le délai maximal de transmission des informations visées au II, après l'identification des altérations visées au I est précisé par arrêté du ministre chargé des transports.
 
@@ -58,9 +58,9 @@ Le constructeur du véhicule terrestre à moteur propose au gestionnaire routier
 
 Un arrêté du ministre en charge des transports précise les exigences de sécurité applicables aux modalités techniques de transmission de ces informations.
 
-IX.-Le point d'accès national défini à l'article 3 du décret n° 2015-474 du 27 avril 2015 relatif à la mise à disposition de services d'information concernant les aires de stationnement pour les camions et les véhicules commerciaux et aux données et procédures pour la fourniture d'informations sur la circulation liées à la sécurité routière permet aux gestionnaires d'infrastructures routières de demander l'accès aux données aux informations et les événements visés au VIII, dont l'anonymisation a été effectuée par le constructeur ou son mandataire selon les dispositions du XI, dans un format lisible par machine.
+IX.-Le point d'accès national défini à l'article D. 1513-9 permet aux gestionnaires d'infrastructures routières de demander l'accès aux données aux informations et les événements visés au VIII, dont l'anonymisation a été effectuée par le constructeur ou son mandataire selon les dispositions du XI, dans un format lisible par machine.
 
-Un arrêté du ministre chargé des transports définit les références ou standards utilisables pour le format des informations visées au VII.
+Un arrêté du ministre chargé des transports définit les références ou standards utilisables pour le format des informations visées au VII. Quel que soit le format retenu par le constructeur du véhicule terrestre à moteur ou son mandataire, les champs relatifs à l'identification sont laissés vides et toute information ou donnée permettant d'identifier directement ou indirectement le véhicule, son conducteur, son propriétaire, son locataire ou toute personne physique en faisant usage, sont ignorées.
 
 X.-La demande d'accès visée au IX donne lieu à une proposition de convention d'accès aux données de la part du constructeur du véhicule terrestre à moteur ou de son mandataire précisant les caractéristiques des données et leurs modalités techniques et tarifaires d'accès.
 

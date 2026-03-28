@@ -152,7 +152,7 @@ Article 14
 
 Interdiction des sollicitations et cadeaux.
 
-I. - Il est interdit au commissaire aux comptes, à la société de commissaires aux comptes à laquelle il appartient, le cas échéant, aux membres de la direction de ladite société et aux personnes mentionnées au II de l'article L. 822-11-3 de solliciter ou d'accepter des cadeaux sous forme pécuniaire ou non pécuniaire ou des faveurs de la personne ou de l'entité dont les comptes ou les informations en matière de durabilité sont certifiés ou de toute personne ou entité qui la contrôle ou qui est contrôlée par elle au sens des I et II de l'article L. 233-3 du code de commerce, sauf si leur valeur n'excède pas un plafond fixé par arrêté du ministre de la justice.
+I. - Il est interdit au commissaire aux comptes, à la société de commissaires aux comptes à laquelle il appartient, le cas échéant, aux membres de la direction de ladite société et aux personnes mentionnées au II de l'article L. 821-31 de solliciter ou d'accepter des cadeaux sous forme pécuniaire ou non pécuniaire ou des faveurs de la personne ou de l'entité dont les comptes ou les informations en matière de durabilité sont certifiés ou de toute personne ou entité qui la contrôle ou qui est contrôlée par elle au sens des I et II de l'article L. 233-3 du code de commerce, sauf si leur valeur n'excède pas un plafond fixé par arrêté du ministre de la justice.
 
 II. - Les dispositions du précédent alinéa sont applicables à l'organisme tiers indépendant, aux membres de la direction de cet organisme, à l'auditeur des informations en matière de durabilité et aux personnes mentionnées au deuxième alinéa de l'article L. 822-8 du code de commerce dans l'accomplissement de leur mission.
 
@@ -184,9 +184,9 @@ Sollicitation personnalisée et proposition de services en ligne.
 
 I.-Toute sollicitation personnalisée et toute proposition de services en ligne procurent une information sincère sur la nature des missions et prestations proposées par les commissaires aux comptes ou sur la nature de la mission proposée par les organismes tiers indépendants et les auditeurs des informations en matière de durabilité. Leur mise en œuvre respecte les règles déontologiques applicables à la profession des commissaires aux comptes et à la mission de certification des informations en matière de durabilité, notamment les principes de dignité, de loyauté envers les clients et de respect entre les professionnels intervenant pour la certification des comptes ou des informations en matière de durabilité.
 
-Toute autre forme de démarchage est interdite.
+Elles excluent tout élément comparatif ou dénigrant.
 
-II.-Les commissaires aux comptes ou, dans la présentation de leur mission, les organismes tiers indépendants et les auditeurs d'information en matière de durabilité ne peuvent effectuer de sollicitation personnalisée que sous la forme d'un envoi postal ou d'un courrier électronique adressé à une personne physique ou morale déterminée destinataire de l'offre de service. Le démarchage physique ou téléphonique, ainsi que tout message textuel envoyé sur un terminal téléphonique mobile sont par ailleurs exclus.
+II.-Les commissaires aux comptes ou, dans la présentation de leur mission, les organismes tiers indépendants et les auditeurs d'information en matière de durabilité ne peuvent effectuer de sollicitation personnalisée que sous la forme d'un envoi postal ou d'un courrier électronique adressé à une personne physique ou morale déterminée destinataire de l'offre de service. Toute autre forme de démarchage est interdite.
 
 La sollicitation personnalisée précise les modalités de détermination des honoraires du professionnel.
 

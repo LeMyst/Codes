@@ -1,6 +1,6 @@
 # Article R2251-54
 
-I.-Le service interne de sécurité de la SNCF fournit, sur leur demande, aux gestionnaires d'infrastructure, aux exploitants d'installations de service et aux entreprises ferroviaires utilisatrices du réseau ferré national, ci-après dénommés " l'entreprise ", les prestations de sûreté mentionnées à l'article R. 2251-55.
+I.-Le service interne de sécurité de la SNCF fournit, sur leur demande, aux gestionnaires d'infrastructure, aux exploitants d'aménagements de transport public routier accueillant les services de transport routier effectués en substitution aux services publics de transport ferroviaire de voyageurs, aux exploitants d'installations de service et aux entreprises ferroviaires utilisatrices du réseau ferré national les prestations de sûreté mentionnées à l'article R. 2251-55.
 
 Il fournit également ces prestations à toute autorité organisatrice de transport ferroviaire qui le demande, pour les activités qu'elle organise.
 

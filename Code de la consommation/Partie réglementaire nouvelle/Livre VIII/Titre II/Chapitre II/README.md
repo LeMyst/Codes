@@ -1,1 +1,1 @@
-Chapitre II : Institut national de la consommation
+Chapitre II : Commission des clauses abusives

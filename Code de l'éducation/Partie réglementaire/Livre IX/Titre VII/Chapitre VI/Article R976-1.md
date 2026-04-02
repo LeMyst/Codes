@@ -8,12 +8,12 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 911-6 | Résultant du décret n° 2021-1326 du 12 octobre 2021 |
 | R. 911-7 à R. 911-9 R. 911-11 à R. 911-20 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 911-21 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
-| R. 911-22 à R. 911-30 R. 911-36 à R. 911-41 R. 911-82, 1er alinéa R. 911-83 | Résultant du décret n° 2015-652 du 10 juin 2015 |
+| R. 911-22 à R. 911-30 R. 911-36 à R. 911-41R. 911-82, 1er alinéaR. 911-83 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 911-84 | Résultant du décret n° 2017-955 du 10 mai 2017 |
 | R. 911-85 et R. 911-86 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 911-87 | Résultant du décret n° 2021-1392 du 26 octobre 2021 |
 | R. 911-88 à R. 911-93 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| R. 913-4 à R. 913-8 R. 913-9, 1er alinéa R. 913-10 à R. 913-12 R. 913-14 | Résultant du décret n° 2018-407 du 29 mai 2018 |
+| R. 913-4 à R. 913-8 R. 913-9, 1er alinéaR. 913-10 à R. 913-12R. 913-14 | Résultant du décret n° 2018-407 du 29 mai 2018 |
 | R. 913-15 à R. 913-27 | Résultant du décret n° 2020-832 du 30 juin 2020 |
 | R. 914-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 914-2 et R. 914-3 | Résultant du décret n° 2008-1429 du 19 décembre 2008 |
@@ -25,21 +25,39 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | R. 914-10 | Résultant du décret n° 2025-352 du 17 avril 2025 |
 | R. 914-10-1 à R. 914-10-4 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-10-5 | Résultant du décret n° 2025-352 du 17 avril 2025 |
-| R. 914-10-6 à R. 914-10-10 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
-| R. 914-10-11 à R. 814-10-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
-| R. 914-10-14 à R. 914-10-22 R. 914-10-23, I, II et III R. 914-10-24 à R. 914-11 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-6 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-7 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-8 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-9 et R. 914-10-10 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-11 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-10-12 et R. 914-10-13 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-14 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-15 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-16 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-17 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-18 à R. 914-10-20 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-21 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-22 R. 914-10-23, I, II et III | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
+| R. 914-10-24 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-10-25 à R. 914-11 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-12 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
 | R. 914-12-1 à R. 914-13 | Résultant du décret n° 2013-1231 du 23 décembre 2013 |
 | R. 914-13-1 à R. 914-13-3 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
 | R. 914-13-4 | Résultant du décret n° 2018-235 du 30 mars 2018 |
-| R. 914-13-5 à R. 914-13-8 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
-| R. 914-13-9 | Résultant du décret n° 2025-352 du 17 avril 2025 |
-| R. 914-13-10 et R. 914-13-11 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
-| R. 914-13-12 et R. 914-13-13 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-5 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-6 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-13-7 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-8 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-13-9 | Résultant du décret n° 2022-429 du 25 mars 2022 |
+| R. 914-13-10 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-13-11 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-12 et R. 914-13-13 | Résultant du décret n° 2026-56 du 4 février 2026 |
 | R. 914-13-14 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
-| R. 914-13-15 | Résultant du décret n° 2018-235 du 30 mars 2018 |
-| R. 914-13-16 à R. 914-13-20 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
-| R. 914-13-21 | Résultant du décret n° 2018-235 du 30 mars 2018 |
+| R. 914-13-15 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-13-16 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-17 et R. 914-13-18 | Résultant du décret n° 2026-56 du 4 février 2026 |
+| R. 914-13-19 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
+| R. 914-13-20 et R. 914-13-21 | Résultant du décret n° 2026-56 du 4 février 2026 |
 | R. 914-13-22 à R. 914-13-39 | Résultant du décret n° 2013-1230 du 23 décembre 2013 |
 | R. 914-13-40 à R. 914-13-46 | Résultant du décret n° 2014-1176 du 14 octobre 2014 |
 | R. 914-13-47 et R. 914-13-48 | Résultant du décret n° 2016-833 du 23 juin 2016 |
@@ -203,4 +221,4 @@ b) Au troisième alinéa, les mots : “ La résiliation totale ou partielle du 
 26° A l'article R. 914-117, les mots : “ la rente viagère d'invalidité prévue à l'article R. 914-133 ” sont remplacés par les mots : “ les droits ouverts au titre de l'invalidité ”.
 
 NOTA:
-Conformément au II de l’article 42 du décret n° 2025-352 du 17 avril 2025, ces dispositions sont applicables à compter de la session 2026 des concours de recrutement.
+Conformément à l’article 4 du décret n° 2026-56 du 4 février 2026, ces dispositions, dans leur rédaction issue de l'article 3 dudit décret, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement privé, soit le 10 décembre 2026.

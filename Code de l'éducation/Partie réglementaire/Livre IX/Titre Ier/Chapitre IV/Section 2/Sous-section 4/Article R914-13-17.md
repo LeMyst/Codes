@@ -11,3 +11,8 @@ Il est procédé au dépouillement du scrutin dans un délai qui ne peut être s
 Le bureau de vote central et, le cas échéant, les bureaux de vote spéciaux comprennent un président et un secrétaire désignés par le ministre chargé de l'éducation nationale ainsi qu'un délégué de chaque liste en présence.
 
 Les sections de vote comprennent un président et un secrétaire désignés par le chef de service auprès duquel elles sont placées ainsi que, le cas échéant, un délégué de chaque liste en présence.
+
+Pour l'application des dispositions des deux alinéas précédents, chaque organisation syndicale ayant présenté sa candidature peut en outre désigner un délégué suppléant appelé à remplacer le délégué en cas d'empêchement.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2026-56 du 4 février 2026, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement privé, soit le 10 décembre 2026.

@@ -10,4 +10,7 @@ Dans les huit jours qui suivent la publication, les électeurs peuvent vérifier
 
 Le ministre chargé de l'éducation nationale statue sans délai sur ces réclamations.
 
-Aucune modification n'est alors admise sauf si un événement postérieur et prenant effet au plus tard la veille du scrutin entraîne, pour un maître, l'acquisition ou la perte de la qualité d'électeur. Dans ce cas, l'inscription ou la radiation est prononcée au plus tard la veille du scrutin soit à l'initiative de l'administration, soit à la demande de l'intéressé, et immédiatement portée à la connaissance des personnels par voie d'affichage.
+Aucune modification n'est alors admise sauf si un événement prenant effet au plus tard la veille du scrutin entraîne, pour un maître, l'acquisition ou la perte de la qualité d'électeur. Dans ce cas, l'inscription ou la radiation est prononcée au plus tard la veille du scrutin soit à l'initiative de l'administration, soit à la demande de l'intéressé, et immédiatement portée à la connaissance des personnels par voie d'affichage.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2026-56 du 4 février 2026, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement privé, soit le 10 décembre 2026.

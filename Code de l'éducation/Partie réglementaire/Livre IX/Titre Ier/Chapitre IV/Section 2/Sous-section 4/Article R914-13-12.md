@@ -8,7 +8,7 @@ Chaque liste de candidats doit comporter le nom d'un délégué qui peut être o
 
 Les listes de candidats doivent être déposées au moins six semaines avant la date du scrutin. Le dépôt de candidatures fait l'objet d'un récépissé remis au délégué de liste ou à son suppléant.
 
-Lorsque l'administration constate qu'une ou plusieurs listes de candidats ne satisfont pas aux conditions fixées par l'avant-dernier alinéa de l'article L. 914-1-2, elle informe le ou les délégués de liste, par décision motivée, de l'irrecevabilité de cette ou de ces candidatures.
+Lorsque l'administration constate qu'une ou plusieurs listes de candidats ne satisfont pas aux conditions fixées par l'avant-dernier alinéa de l'article L. 914-1-2, elle informe le ou les délégués de liste, par décision motivée, de l'irrecevabilité de cette ou de ces candidatures. Cette décision est remise au plus tard le jour suivant la date limite de dépôt des candidatures.
 
 II. ― Chaque organisation syndicale ne peut présenter qu'une liste de candidats pour un même scrutin. Nul ne peut être candidat sur plusieurs listes d'un même scrutin.
 
@@ -19,3 +19,6 @@ Chaque liste comprend un nombre de femmes et un nombre d'hommes correspondant au
 Lorsque l'application de l'alinéa précédent n'aboutit pas à un nombre entier de candidats à désigner pour chaque sexe, l'organisation syndicale procède indifféremment à l'arrondi à l'entier inférieur ou supérieur.
 
 Le dépôt de chaque liste doit être accompagné d'une déclaration de candidature signée par chaque candidat. Chaque liste déposée mentionne les nom, prénom et sexe de chaque candidat et indique le nombre de femmes et d'hommes.
+
+NOTA:
+Conformément à l’article 4 du décret n° 2026-56 du 4 février 2026, ces dispositions, dans leur rédaction issue de l'article 1 dudit décret, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement privé, soit le 10 décembre 2026.

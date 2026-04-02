@@ -10,5 +10,9 @@ Le bureau de vote central et, le cas échéant, les bureaux de vote spéciaux co
 
 Les sections de vote comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur ainsi que, le cas échéant, un délégué de chaque liste en présence.
 
+Pour l'application des dispositions des deux alinéas précédents, chaque organisation syndicale ayant présenté sa candidature peut en outre désigner un délégué suppléant appelé à remplacer le délégué en cas d'empêchement.
+
 NOTA:
 Décret n° 2013-1231 du 21 décembre 2013, article 6 : Au lieu de "ou le académique", il convient de lire "ou le directeur académique".
+
+Conformément à l’article 4 du décret n° 2026-56 du 4 février 2026, ces dispositions, dans leur rédaction issue de l'article 1 dudit décret, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement privé, soit le 10 décembre 2026.

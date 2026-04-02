@@ -9,4 +9,4 @@ Il peut dispenser une partie qui en fait la demande de se présenter à une séa
 Il peut entendre les parties en personne, les inviter à fournir les explications nécessaires à la solution du litige ainsi que les mettre en demeure de produire dans le délai qu'il détermine tous documents ou justifications propres à éclairer le conseil de prud'hommes.
 
 NOTA:
-Conformément à l'article 26 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.
+Conformément à l'article 25 du décret n° 2025-660 du 18 juillet 2025, ces dispositions entrent en vigueur le 1er septembre 2025. Elles sont applicables aux instances en cours à cette date.

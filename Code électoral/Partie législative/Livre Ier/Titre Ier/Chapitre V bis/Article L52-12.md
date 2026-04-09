@@ -12,7 +12,7 @@ La valeur vénale résiduelle des immobilisations éventuellement constituées a
 
 II.- Au plus tard avant 18 heures le dixième vendredi suivant le premier tour de scrutin, chaque candidat ou candidat tête de liste présent au premier tour dépose à la Commission nationale des comptes de campagne et des financements politiques son compte de campagne et ses annexes accompagné des justificatifs de ses recettes, notamment d'une copie des contrats de prêts conclus en application de l'article L. 52-7-1 du présent code, ainsi que des factures, devis et autres documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour son compte.
 
-III.-Le compte de campagne est présenté par un membre de l'ordre des experts-comptables. Ce dernier met le compte de campagne en état d'examen et s'assure de la présence des pièces justificatives requises.
+III.-Le compte de campagne est présenté par un membre de l'ordre des experts-comptables. Ce dernier met le compte de campagne en état d'examen et s'assure de la présence des pièces justificatives requises. Les frais d'expertise comptable liés à l'application du présent article sont inscrits dans le compte de campagne et éligibles au remboursement forfaitaire de la part de l'Etat prévu à l'article L. 52-11-1. La Commission nationale des comptes de campagne et des financements politiques peut ne retenir qu'une partie de ces frais lorsqu'ils s'avèrent manifestement excessifs au regard des prestations effectivement accomplies, des pièces et des justificatifs produits ou de la nature des difficultés présentées par le compte de campagne.
 
 Cette présentation n'est pas obligatoire :
 
@@ -27,6 +27,3 @@ V.-Pour l'application de l'article L. 52-11, les frais de transport aérien, mar
 Par dérogation au II et à la seconde phrase du 2° du III du présent article, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, le compte de campagne et, le cas échéant, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6 peuvent également être déposés à la préfecture ou la sous-préfecture.
 
 VI.-Pour l'application du présent article, en cas de scrutin binominal, le candidat s'entend du binôme de candidats.
-
-NOTA:
-Conformément à l’article 51 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction issue des 1° à 7°, 9° et 11° de l'article 50 de la loi précitée, entrent en vigueur dans les conditions prévues au second alinéa du II de l'article 48.

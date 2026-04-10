@@ -1,0 +1,5 @@
+# Article R4721-6
+
+Dès qu'il a constaté que les travailleurs se trouvent dans la situation dangereuse mentionnée à l'article L. 4721-8, l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 met l'employeur en demeure de remédier à cette situation en mettant en œuvre les mesures correctrices appropriées qu'il prend parmi celles prévues notamment aux articles R. 4412-66 à R. 4412-75 en donnant la priorité à celles permettant d'éviter les risques conformément à l'article L. 4121-2. Il lui notifie en même temps, si les circonstances l'exigent, l'obligation de prendre des mesures provisoires afin de protéger immédiatement la santé et la sécurité des travailleurs.
+
+La mise en demeure, qui est écrite, datée et signée et indique la situation dangereuse constatée ainsi que l'infraction mentionnée à l'article L. 4721-8 dont elle résulte, fixe un délai d'exécution à l'expiration duquel la situation dangereuse doit avoir cessé. Ce délai est fixé en tenant compte des circonstances et ne peut être inférieur à quinze jours.

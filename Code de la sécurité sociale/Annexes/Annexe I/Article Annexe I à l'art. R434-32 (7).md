@@ -7,10 +7,16 @@
 Il y a lieu de tenir compte :
 
 - Des troubles de la vision centrale de loin ou de près (vision de précision) ;
+
 - Des troubles de la vision périphérique (vision de sécurité) ;
+
 - Des troubles de la vision binoculaire ;
+
 - Des troubles du sens chromatique et du sens lumineux ;
-- Et des nécessités de la profession exercée. 6.1.1 - CÉCITÉ
+
+- Et des nécessités de la profession exercée.
+
+6.1.1 - CÉCITÉ
 
 Cécité complète.
 
@@ -30,7 +36,9 @@ Est considéré comme atteint de cécité professionnelle celui dont l'œil le m
 
 - Quasi-cécité 100
 
-- Cécité professionnelle 100 6.1.2 - SCOTOME CENTRAL BILATÉRAL
+- Cécité professionnelle 100
+
+6.1.2 - SCOTOME CENTRAL BILATÉRAL
 
 Avec conservation des champs visuels périphériques selon la profession 50 à 90.
 
@@ -44,7 +52,9 @@ Est perdu, l'oeil dont la vision est complètement abolie. Est considéré comme
 
 - Sans prothèse possible 40
 
-Taux auquel s'ajoute éventuellement un taux pour défiguration importante (voir "Téguments"). 6.1.4 - SCOTOME CENTRAL UNILATÉRAL
+Taux auquel s'ajoute éventuellement un taux pour défiguration importante (voir "Téguments").
+
+6.1.4 - SCOTOME CENTRAL UNILATÉRAL
 
 - Sans perte du champ visuel périphérique 15 à 18
 
@@ -139,7 +149,9 @@ Tous ces taux pourraient être diminués, en raison de la conservation du champ 
 
 6.1.8 - TROUBLES DU SENS CHROMATIQUE ET DU SENS LUMINEUX
 
-Ces troubles, dont l'origine traumatique isolée est très rare, sont des symptômes de lésion de l'appareil nerveux sensoriel ; ils entrent en ligne de compte dans l'appréciation de l'incapacité due à ces lésions. 6.1.9 - CAS PARTICULIERS
+Ces troubles, dont l'origine traumatique isolée est très rare, sont des symptômes de lésion de l'appareil nerveux sensoriel ; ils entrent en ligne de compte dans l'appréciation de l'incapacité due à ces lésions.
+
+6.1.9 - CAS PARTICULIERS
 
 6.1.9.1 - Tales de cornée
 
@@ -161,7 +173,9 @@ Paralysie de l'accomodation et du sphincter irien. - Ophtalmoplégie interne uni
 
 - Bilatérale 10
 
-6.1.10 - CATARACTES 6.1.10.1 - Unilatérales
+6.1.10 - CATARACTES
+
+6.1.10.1 - Unilatérales
 
 Non opérées ou inopérables : le taux d'incapacité sera fixé d'après le degré de vision.
 
@@ -231,7 +245,9 @@ Les éléments d'appréciation utiles seront :
 
 - Pour les déplacements du cristallin : fragilité zonulaire, ectopie de la lentille.
 
-- Pour les hémorragies intraoculaires : lésions vasculaires artérielles, veineuses, capillaires, altérations sanguines. 6.2 - ANNEXES DE L'OEIL
+- Pour les hémorragies intraoculaires : lésions vasculaires artérielles, veineuses, capillaires, altérations sanguines.
+
+6.2 - ANNEXES DE L'OEIL
 
 6.2.1 - ORBITE
 
@@ -239,7 +255,9 @@ Les éléments d'appréciation utiles seront :
 
 - Nerfs sensitifs : névrites, névralgies très douloureuses, en particuliers douleurs glaucomateuses, lésions du nerf trijumeau (symptôme neuro-paralytique, y compris les troubles de la sécrétion lacrymale, ou sa perte) à ajouter au trouble visuel 10 à 20
 
-- altérations vasculaires : (anévrisme, etc.) ; indemniser les troubles fonctionnels (voir barème spécial). 6.2.2 - PAUPIÈRES
+- altérations vasculaires : (anévrisme, etc.) ; indemniser les troubles fonctionnels (voir barème spécial).
+
+6.2.2 - PAUPIÈRES
 
 - Déviation des bords palpéraux (entropion, trichiasis, ectropion, cicatrices vicieuses, symblépharon, ankyloblépharon), suivant étendue ; ajouter à la diminution de la vision et à la défiguration éventuelle 5 à 10
 

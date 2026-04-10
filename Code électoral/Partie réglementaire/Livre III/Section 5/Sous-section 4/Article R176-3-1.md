@@ -8,7 +8,7 @@ Les opérations de vote par voie électronique sont placées sous le contrôle d
 
 3° Du directeur de la modernisation et de l'administration territoriale au ministère de l'intérieur ou de son suppléant ;
 
-4° Du directeur de l'Agence nationale de la sécurité des systèmes d'information ou de son représentant ;
+4° Du directeur de l'Agence nationale de la sécurité des systèmes d'information ou de son suppléant ;
 
 5° Du président de l'Assemblée des Français de l'étranger et de ses deux vice-présidents ou de leurs suppléants désignés par chacun d'entre eux au sein de l'Assemblée des Français de l'étranger lors de la première réunion de cette assemblée ;
 

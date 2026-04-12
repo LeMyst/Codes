@@ -1,0 +1,3 @@
+# Article R6123-1-5
+
+Pour l'exercice des missions mentionnées au I de l'article L. 6123-1, le Conseil national peut demander à être destinataire des études et évaluations dans les domaines de la formation et de l'orientation professionnelles produites par les services de l'Etat, les régions, France compétences, les centres d'animation, de ressources et d'information sur la formation - observatoires régionaux de l'emploi et de la formation professionnelle et par les comités régionaux de l'emploi, de la formation et de l'orientation professionnelles, ou par les organismes paritaires de gestion et d'observation des branches professionnelles.

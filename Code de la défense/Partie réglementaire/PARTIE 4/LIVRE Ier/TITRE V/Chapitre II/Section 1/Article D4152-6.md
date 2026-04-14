@@ -1,6 +1,8 @@
 # Article D4152-6
 
-Les diplômes et les brevets de l'enseignement militaire supérieur visés à l'article D. 4152-2 sont attribués par le ministre de la défense sur proposition du délégué général pour l'armement, du chef d'état-major ou du directeur, sous l'autorité duquel a été dispensé l'enseignement. La liste des diplômes est fixée par arrêté du ministre de la défense.
+Les diplômes et les brevets de l'enseignement militaire supérieur visés à l'article D. 4152-2 sont attribués par le ministre de la défense sur proposition du délégué général pour l'armement, du chef d'état-major ou du directeur, sous l'autorité duquel a été dispensé l'enseignement.
+
+La liste des diplômes est fixée par arrêté du ministre de la défense.
 
 Les brevets sont :
 

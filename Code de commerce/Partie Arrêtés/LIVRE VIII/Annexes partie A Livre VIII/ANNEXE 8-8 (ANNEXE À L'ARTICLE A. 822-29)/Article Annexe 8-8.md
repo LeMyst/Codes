@@ -1,7 +1,10 @@
 # Article Annexe 8-8
 
-CONDITIONS MINIMALES D'ASSURANCE CIVILE\
-PROFESSIONNELLE DES COMMISSAIRES AUX COMPTESArticle 1er Le présent contrat a pour objet de garantir l'assuré, sous réserve des limites et exclusions prévues aux articles 2 et 3, contre les conséquences pécuniaires de la responsabilité civile définie à l'article L. 822-17 et au deuxième alinéa de l'article L. 823-13 qu'il peut encourir.
+CONDITIONS MINIMALES D'ASSURANCE CIVILE PROFESSIONNELLE DES COMMISSAIRES AUX COMPTES
+
+Article 1er
+
+Le présent contrat a pour objet de garantir l'assuré, sous réserve des limites et exclusions prévues aux articles 2 et 3, contre les conséquences pécuniaires de la responsabilité civile définie à l'article L. 822-17 et au deuxième alinéa de l'article L. 823-13 qu'il peut encourir.
 
 Article 2
 

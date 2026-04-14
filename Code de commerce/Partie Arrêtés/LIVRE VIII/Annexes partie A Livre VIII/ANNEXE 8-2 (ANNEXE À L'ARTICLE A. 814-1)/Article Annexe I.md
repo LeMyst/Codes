@@ -175,7 +175,9 @@ Les fonds reçus en espèces sont déposés immédiatement en banque.A défaut, 
 
 Les écritures retraçant ces opérations mentionnent le numéro des reçus.
 
-II. ― **Description du jeu des écritures** 2. 1. Les caractéristiques de l'écriture.
+II. ― **Description du jeu des écritures**
+
+2. 1. Les caractéristiques de l'écriture.
 
 Chaque écriture comporte :
 
@@ -237,7 +239,9 @@ Aucun effacement d'écriture n'est autorisé. Une annulation ne peut intervenir 
 
 La validation doit intervenir avant la clôture de chaque période comptable.
 
-III. ― **Comptabilité en euros** La comptabilité doit être tenue en langue française.
+III. ― **Comptabilité en euros**
+
+La comptabilité doit être tenue en langue française.
 
 A partir du 1er janvier 1999, les documents comptables peuvent être établis en euros. Ce choix est irrévocable. Les règles de conversion et d'arrondis doivent être respectées.
 

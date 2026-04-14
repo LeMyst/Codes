@@ -1,6 +1,8 @@
 # Article D542-1
 
-I.-Sans préjudice des autres dispositions réglementaires relatives à la formation des personnes mentionnées à l'article L. 542-1, la formation initiale et continue des intéressés dans le domaine de la protection de l'enfance en danger est mise en œuvre dans le cadre de programmes qui traitent des thèmes suivants : 1° L'évolution et la mise en perspective de la politique de protection de l'enfance en France, notamment au regard de la Convention internationale des droits de l'enfant ;
+I.-Sans préjudice des autres dispositions réglementaires relatives à la formation des personnes mentionnées à l'article L. 542-1, la formation initiale et continue des intéressés dans le domaine de la protection de l'enfance en danger est mise en œuvre dans le cadre de programmes qui traitent des thèmes suivants :
+
+1° L'évolution et la mise en perspective de la politique de protection de l'enfance en France, notamment au regard de la Convention internationale des droits de l'enfant ;
 
 2° La connaissance du dispositif de protection de l'enfance, de la prévention à la prise en charge, en particulier celle de son cadre juridique, de son organisation et de ses acteurs, de ses stratégies et de ses types d'interventions, ainsi que des partenariats auxquels il donne lieu ;
 

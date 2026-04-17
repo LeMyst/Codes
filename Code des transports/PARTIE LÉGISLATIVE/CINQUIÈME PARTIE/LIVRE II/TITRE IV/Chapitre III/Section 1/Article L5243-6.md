@@ -10,7 +10,7 @@ Les frais d'immobilisation du navire sont à la charge de l'auteur de l'infracti
 
 A tout moment, l'autorité judiciaire peut ordonner la levée de l'immobilisation s'il est fourni un cautionnement dont elle fixe le montant et les modalités de versement.
 
-Les conditions d'affectation, d'emploi et de restitution du cautionnement sont réglées conformément aux dispositions des articles 142,142-2 et 142-3 du code de procédure pénale.
+Les conditions d'affectation, d'emploi et de restitution du cautionnement sont réglées conformément aux dispositions des articles 142, 142-2 et 142-3 du code de procédure pénale.
 
 La décision d'immobilisation peut être contestée dans un délai de cinq jours à compter de sa notification, par requête de la personne mise en cause, du propriétaire, de l'exploitant ou des tiers ayant des droits sur le navire devant le juge des libertés et de la détention du tribunal judiciaire saisi de l'enquête.
 

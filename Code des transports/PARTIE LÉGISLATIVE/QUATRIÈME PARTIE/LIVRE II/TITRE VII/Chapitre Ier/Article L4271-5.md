@@ -24,7 +24,7 @@ a) La première phrase est remplacée par les dispositions suivantes :
 
 Pendant la durée de la rétention du titre de conduite ou du certificat de qualification ainsi que dans le cas où le conducteur n'est pas titulaire de ce titre ou de ce certificat, il peut être procédé d'office à l'immobilisation du bateau, à la demande et sous la responsabilité des agents mentionnés à l'article L. 4272-1 du code des transports ou de ceux mentionnés à l'article L. 4272-2 du même code territorialement compétents, compte tenu de la nature de la voie d'eau, même sans l'accord du propriétaire, dans des conditions fixées par décret en Conseil d'Etat. ;
 
-b) A la dernière phrase, le mot : régulier est supprimé ;
+b) A la dernière phrase, le mot : "régulier" est supprimé ;
 
 c) L'article est complété par un alinéa ainsi rédigé :
 

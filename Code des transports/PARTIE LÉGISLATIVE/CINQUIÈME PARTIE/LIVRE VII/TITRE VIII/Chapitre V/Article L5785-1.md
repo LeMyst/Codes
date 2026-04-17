@@ -120,7 +120,7 @@ II.-Sous réserve des dispositions d'adaptations prévues au présent chapitre, 
 | L. 5531-15 à L. 5531-18 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5531-19 | Résultant de la loi n° 2013-431 du 28 mai 2013 |
 | L. 5532-1 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
-| L. 5533-1et L. 5533-2 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
+| L. 5533-1 et L. 5533-2 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5533-3 à L. 5533-3-2 | Résultant de l'ordonnance n° 2021-77 du 27 janvier 2021 |
 | L. 5533-4 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5533-5 à L. 5533-23 | Résultant de l'ordonnance n° 2020-599 du 20 mai 2020 |

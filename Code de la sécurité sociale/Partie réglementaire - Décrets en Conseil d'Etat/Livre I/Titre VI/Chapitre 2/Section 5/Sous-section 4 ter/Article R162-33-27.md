@@ -1,0 +1,3 @@
+# Article R162-33-27
+
+Les établissements de santé qui respectent le cahier des charges prévu au III de l'article 59 de la loi du 14 décembre 2020 de financement de la sécurité sociale pour 2021 bénéficient d'un financement de la prestation d'hébergement temporaire non médicalisé mentionnée à l'article L. 6111-1-6 du code de la santé publique, inclus dans les dotations mentionnées aux articles L. 162-22-2 et L. 162-23-8 sur le fondement d'un forfait par nuitée, dont le montant est fixé par arrêté des ministres chargés de la santé et de la sécurité sociale, et qui peut être modulé, notamment, selon les zones géographiques.

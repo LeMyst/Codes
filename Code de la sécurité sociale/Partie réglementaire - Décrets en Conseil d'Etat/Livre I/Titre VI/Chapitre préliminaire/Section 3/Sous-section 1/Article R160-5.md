@@ -42,9 +42,11 @@ La participation de l'assuré prévue au I de l'article L. 160-13 est fixée par
 
 19° De 35 à 45 % pour les frais relatifs aux activités de télésurveillance médicale mentionnées à l'article L. 162-48 ;
 
-20° De 35 à 45 % pour les frais relatifs aux dispositifs médicaux numériques à visée thérapeutique et aux activités de télésurveillance médicale pris en charge au titre de l'article L. 162-1-23.
+20° De 35 à 45 % pour les frais relatifs aux dispositifs médicaux numériques à visée thérapeutique et aux activités de télésurveillance médicale pris en charge au titre de l'article L. 162-1-23 ;
+
+21° De 35 à 45 % pour les frais relatifs aux protections périodiques réutilisables mentionnées à l'article L. 162-59.
 
 Dans le cas des préparations magistrales incluant une ou plusieurs spécialités pharmaceutiques déconditionnées, et dès lors que ce déconditionnement est autorisé conformément aux dispositions de l'article R. 5132-8 du code de la santé publique, le taux de participation de l'assuré est égal au plus faible de ceux applicables à ces spécialités.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2026-288 du 17 avril 2026, à titre transitoire, jusqu'à une date fixée par arrêté des ministres chargés de la santé et de la sécurité sociale et au plus tard au 31 décembre 2028, la prise en charge ou le remboursement des produits de protection périodique réutilisables en application de l'article 1er dudit décret sont subordonnés à leur distribution par le réseau des pharmacies d'officine.

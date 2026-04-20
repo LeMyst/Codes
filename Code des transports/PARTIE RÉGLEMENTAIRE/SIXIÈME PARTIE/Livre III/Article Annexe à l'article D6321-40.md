@@ -25,6 +25,7 @@ Liste des aérodromes de catégorie A
 | Martinique | Martinique - Aimé-Césaire |
 | Guyane | Cayenne - Félix Eboué |
 | Mayotte | Mayotte - Marcel Henry |
+| Mayotte | Bouyouni M'tsangamouji |
 
 Liste des aérodromes de catégorie B
 

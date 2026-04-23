@@ -32,3 +32,7 @@ Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 
 Conformément au VI de l'article 28 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du a du 2° du I de l'article précité, sont applicables à partir des contributions dues au titre de l'année 2025.
 
 Conformément au VI de l'article 28 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du b du 2° du I de l'article précité, sont applicables à partir des contributions dues au titre de l'année 2026.
+
+Le IV du présent article est applicable uniquement pour la contribution due au titre de 2025.
+
+À compter du 1er janvier 2027, le présent article sera modifié par les dispositions résultant de l’article 28 de la loi n° 2023-1250 du 26 décembre 2023 modifiée.

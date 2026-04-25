@@ -36,17 +36,17 @@ b. – les produits engendrés par les locaux annexes et accessoires des ensembl
 
 c. – les produits financiers issus du placement de la trésorerie de ces organismes.
 
-La fraction du bénéfice provenant d'activités autres que celles visées aux alinéas précédents est soumise à l'impôt sur les sociétés ;
+La fraction du bénéfice provenant d'activités autres que celles visées aux alinéas précédents est soumise à l'impôt sur les sociétés.
 
 Pour l'application des dispositions du premier alinéa de l'article 221 bis, la deuxième condition mentionnée à cet alinéa n'est pas exigée des sociétés qui cessent totalement ou partiellement d'être soumises au taux prévu au deuxième alinéa du I de l'article 219 du fait des dispositions du présent 4°. Les dispositions de l'article 111 bis ne s'appliquent pas à ces mêmes sociétés.
 
 Les dispositions du présent 4° s'appliquent aux exercices clos à compter du 1er janvier 2006.
 
-Toutefois, les organismes et les sociétés mentionnés au premier alinéa peuvent opter pour l'application anticipée de ces dispositions aux exercices clos à compter du 1er janvier 2005. Cette option est irrévocable.
+Toutefois, les organismes et les sociétés mentionnés au premier alinéa peuvent opter pour l'application anticipée de ces dispositions aux exercices clos à compter du 1er janvier 2005. Cette option est irrévocable ;
 
 4° bis. (abrogé) ;
 
-4° ter. (dispositions devenues sans objet)
+4° ter. (dispositions devenues sans objet) ;
 
 4° quater Les unions d'économie sociale dont les dirigeants de droit ou de fait ne sont pas rémunérés, pour :
 
@@ -62,11 +62,11 @@ c. les produits financiers issus du placement de la trésorerie de ces organisme
 
 6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
-6° bis. (Abrogé)
+6° bis. (Abrogé) ;
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de " Castors " dont les membres effectuent des apports de travail ;
 
-8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
+8° Les sociétés coopératives de construction désignées à l'article 1378 sexies ;
 
 9° Les établissements publics de recherche et les établissements publics d'enseignement supérieur ;
 
@@ -96,7 +96,7 @@ a) Les subventions mentionnées au c du 2° du I de l'article L. 313-19-1 du mê
 
 b) La quote-part de bénéfices provenant des activités réalisées au titre du service d'intérêt général défini aux neuvième à treizième alinéas de l'article L. 411-2 du code de la construction et de l'habitation par des sociétés imposées dans les conditions de l'article 8.
 
-16° (Abrogé)
+16° La société mentionnée au I de l'article L. 2111-3 du code des transports pour le produit de la majoration prévue à l'article L. 422-26-1 du code des impositions des biens et services qui lui est affecté selon les modalités prévues à l'article L. 2111-3-2 du code des transports.
 
 17° Les communautés professionnelles territoriales de santé dont le projet de santé est validé dans les conditions prévues à l'article L. 1434-12 du code de la santé publique, pour leurs ressources perçues au titre de leurs missions de service public en application de la convention prévue à l'article L. 1434-12-2 du même code.
 
@@ -117,4 +117,4 @@ Les résultats sont déterminés selon les règles visées à l'article 209 avan
 1. (Abrogé).
 
 NOTA:
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au b) du 7° de l'article 10 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er avril 2026.

@@ -40,7 +40,6 @@ Sont dispensés de l'autorisation de travail prévue à l'article R. 5221-1 :
 
 19° Le praticien étranger répondant aux conditions mentionnées au 2° de l'article L. 5221-2-1 ;
 
-20° Le salarié ressortissant d'un Etat membre de l'Union européenne, pendant la période d'application des mesures transitoires dans les conditions prévues au dernier alinéa de l'article L. 233-4 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+20° Le salarié ressortissant d'un Etat membre de l'Union européenne, pendant la période d'application des mesures transitoires dans les conditions prévues au dernier alinéa de l'article L. 233-4 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
-NOTA:
-Conformément au II de l'article 9 du décret n° 2021-360 du 31 mars 2021, ces dispositions entrent en vigueur le 1er mai 2021.
+21° Le titulaire d'une carte bleue européenne ou d'une carte de résident de longue durée-UE portant la mention “Ancien titulaire d'une carte bleue européenne”, prévues par les dispositions de la directive (UE) 2021/1883 du Parlement européen et du Conseil du 20 octobre 2021 établissant les conditions d'entrée et de séjour des ressortissants de pays tiers aux fins d'un emploi hautement qualifié et accordées dans un autre Etat membre de l'Union européenne, qui entre en France afin d'y exercer une activité salariée pour une durée maximale de quatre-vingt-dix jours sur toute période de cent quatre-vingts jours.

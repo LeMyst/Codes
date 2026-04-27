@@ -10,7 +10,4 @@ Les changements affectant la situation au regard de l'inscription ou du classeme
 
 4° L'obtention d'une pension d'invalidité au titre des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ;
 
-5° Pour le travailleur étranger, l'échéance de son titre de travail.
-
-NOTA:
-Conformément à l’article 21 du décret n° 2024-606 du 26 juin 2024, ces dispositions entrent en vigueur le 1er juillet 2024.
+5° Pour le travailleur étranger, l'échéance de son document de séjour, de son document provisoire délivré à l'occasion de sa première demande ou d'une demande de renouvellement de titre de séjour ou de son autorisation provisoire de séjour.

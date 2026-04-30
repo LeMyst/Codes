@@ -18,7 +18,7 @@ II.-Le dossier médical en santé au travail comprend les éléments suivants :
 
 6° La mention de l'information préalable du travailleur sur ses droits en matière d'accès aux données le concernant et sur les conditions d'accès à son dossier médical en santé au travail ;
 
-7° Le cas échéant, le consentement ou l'opposition du travailleur pour les situations prévues respectivement aux articles L. 4624-1 et L. 4624-8 du code du travail.
+7° Le cas échéant, le consentement ou l'opposition du travailleur pour les situations prévues respectivement aux articles L. 4622-2-1, L. 4624-1 et L. 4624-8 du code du travail.
 
 III.-L'alimentation et la consultation du dossier médical en santé au travail par les professionnels de santé en charge du suivi individuel du travailleur prévu à l'article L. 4624-1 du code du travail sont réalisées dans le respect des règles de confidentialité précisées au I de l'article L. 1110-4 du code de la santé publique et dans le respect des règles d'identification électronique et d'interopérabilité définies par les référentiels mentionnés aux articles L. 1470-1 à L. 1470-5 du code de la santé publique.
 
@@ -55,6 +55,3 @@ Le service de santé au travail en agriculture veille à ce que toutes dispositi
 Le dossier médical en santé au travail mentionné à l'article L. 4624-8 du code du travail est conservé pendant une durée de quarante ans à compter de la date de la dernière visite ou examen du titulaire au sein du service de santé au travail en agriculture concerné, dans la limite d'une durée de dix ans à compter de la date du décès de la personne titulaire du dossier. Ces délais sont suspendus par l'introduction de tout recours gracieux ou contentieux tendant à mettre en cause la responsabilité médicale du service ou de professionnels de santé à raison de leurs interventions au sein du service.
 
 Par dérogation à l'alinéa précédent, lorsque la durée de conservation d'un dossier médical en santé au travail devrait s'achever avant la durée mentionnée aux articles R. 4412-55, R. 4426-9 et R. 4451-83 du code du travail, la conservation du dossier est prorogée jusqu'aux échéances prévues par ces articles.
-
-NOTA:
-Se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-1434 du 15 novembre 2022.

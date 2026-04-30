@@ -4,6 +4,6 @@ A.-Les agents habilités mentionnés à l'article L. 250-3 sont habilités à pr
 
 Les agents mentionnés au premier alinéa sont également habilités, à l'importation, dans les conditions prévues ci-dessus, à vérifier de façon inopinée la conformité de l'étiquette accompagnant les semences et plants composés en tout ou partie d'organismes génétiquement modifiés ainsi que l'absence d'organismes génétiquement modifiés dans le cas où ils ne sont pas étiquetés.
 
-B.-Sont habilités à procéder au contrôle de l'étiquette pour le cas des semences composées en tout ou partie d'organismes génétiquement modifiés les agents des douanes dans les conditions prévues aux articles 60 à 60-10, 61,63 ter et 322 bis du code des douanes.
+B.-Sont habilités à procéder au contrôle de l'étiquette pour le cas des semences composées en tout ou partie d'organismes génétiquement modifiés les agents des douanes dans les conditions prévues aux articles 60 à 60-10, 61, 63 ter et 322 bis du code des douanes.
 
 C.-En cas de non-respect des exigences visées au A ci-dessus, il est fait application des dispositions prévues à l'article L. 251-17.

@@ -6,7 +6,7 @@ Ne peuvent faire l'objet d'un droit de préemption :
 
 2° Les aliénations moyennant rente viagère servie pour totalité ou pour l'essentiel sous forme de prestations de services personnels ;
 
-3° Les acquisitions effectuées par des cohéritiers sur licitation amiable ou judiciaire et les cessions consenties à des parents ou alliés jusqu'au quatrième degré inclus, ou à des cohéritiers ou à leur conjoint survivant ainsi que les actes conclus entre indivisaires en application des articles 815-14,815-15 et 883 du code civil ;
+3° Les acquisitions effectuées par des cohéritiers sur licitation amiable ou judiciaire et les cessions consenties à des parents ou alliés jusqu'au quatrième degré inclus, ou à des cohéritiers ou à leur conjoint survivant ainsi que les actes conclus entre indivisaires en application des articles 815-14, 815-15 et 883 du code civil ;
 
 4° Sous réserve, dans tous les cas, que l'exploitation définitive ainsi constituée ait une surface inférieure à la superficie mentionnée au I, 1° de l'article L331-2 du code rural et de la pêche maritime, les acquisitions réalisées :
 

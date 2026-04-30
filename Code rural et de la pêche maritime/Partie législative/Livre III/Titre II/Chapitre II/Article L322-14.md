@@ -1,8 +1,8 @@
 # Article L322-14
 
-En cas de partage, les associés qui participent ou ont participé à l'exploitation peuvent, sauf dispositions statutaires contraires, solliciter le bénéfice de la dévolution des biens fonciers selon les modalités des articles 831 ,832-1 ,832-3,832-4,833 et 834 du code civil.
+En cas de partage, les associés qui participent ou ont participé à l'exploitation peuvent, sauf dispositions statutaires contraires, solliciter le bénéfice de la dévolution des biens fonciers selon les modalités des articles 831 , 832-1 , 832-3, 832-4, 833 et 834 du code civil.
 
-Le partage ou la licitation des groupements fonciers sont régis par les dispositions des articles 746,748 bis et 750 bis du code général des impôts ci-après reproduits :
+Le partage ou la licitation des groupements fonciers sont régis par les dispositions des articles 746, 748 bis et 750 bis du code général des impôts ci-après reproduits :
 
 " Art. 746 : Les partages de biens meubles et immeubles entre copropriétaires, cohéritiers et coassociés, à quelque titre que ce soit, pourvu qu'il en soit justifié, sont assujettis à un droit d'enregistrement ou à une taxe de publicité foncière de 2,50 %.
 

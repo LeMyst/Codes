@@ -1,6 +1,6 @@
 # Article L205-1
 
-I. ― Sans préjudice des compétences des officiers et agents de police judiciaire et des autres agents publics spécialement habilités par la loi, sont habilités à rechercher et à constater les infractions prévues et réprimées par le 3° de l'article 444-3 et les articles 444-4,444-6 à 444-9,521-1,521-2, R. 645-8, R. 654-1 et R. 655-1 du code pénal, ainsi que par le présent livre, à l'exception de la section 2 du chapitre Ier du titre Ier et du titre IV :
+I. ― Sans préjudice des compétences des officiers et agents de police judiciaire et des autres agents publics spécialement habilités par la loi, sont habilités à rechercher et à constater les infractions prévues et réprimées par le 3° de l'article 444-3 et les articles 444-4, 444-6 à 444-9, 521-1, 521-2, R. 645-8, R. 654-1 et R. 655-1 du code pénal, ainsi que par le présent livre, à l'exception de la section 2 du chapitre Ier du titre Ier et du titre IV :
 
 1° Les inspecteurs de la santé publique vétérinaire ;
 

@@ -1,0 +1,1 @@
+Sous-section 2 : Dispositions spécifiques aux navires se trouvant dans un port, une rade ou à quai depuis plus de soixante-douze heures en cas de refus d'accès de l'occupant des locaux affectés à un usage privé ou d'habitation

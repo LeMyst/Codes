@@ -1,0 +1,7 @@
+# Article L424-6
+
+Pour la recherche et la prévention des infractions liées à la criminalité transfrontalière et dans un rayon maximal de dix kilomètres autour des ports et aéroports constituant des points de passage frontaliers au sens de l'article 2 du règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l'Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) désignés en raison de l'importance de leur fréquentation et de leur vulnérabilité, les agents de l'administration des douanes investis des fonctions de chef de poste ou les fonctionnaires désignés par eux titulaires du grade de contrôleur ou d'un grade supérieur peuvent vérifier le respect, par les personnes dont la nationalité étrangère peut être déduite d'éléments objectifs extérieurs à la personne même de l'intéressé, des obligations de détention, de port et de présentation des pièces ou documents prévus à l'article L. 812-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.\
+Un arrêté du ministre de l'intérieur, du ministre de la justice et du ministre chargé des douanes fixe le rayon autour du point de passage frontalier dans la limite duquel les contrôles peuvent être effectués.
+
+NOTA:
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.

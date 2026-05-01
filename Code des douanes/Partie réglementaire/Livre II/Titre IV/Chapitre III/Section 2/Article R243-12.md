@@ -1,0 +1,8 @@
+# Article R243-12
+
+L'enregistrement est suspendu ou retiré si les conditions de son octroi ne sont plus réunies, s'il apparaît qu'il a été délivré sur le fondement de renseignements ou de documents faux ou falsifiés ou lorsque, postérieurement à sa délivrance, l'opérateur, la personne responsable mentionnée à l'article R. 243-2, son éventuel suppléant ou la personne référente fait l'objet d'une condamnation définitive pour des faits qualifiés de crimes par la loi ou pour des infractions à la législation sur les stupéfiants.\
+L'enregistrement peut être suspendu ou retiré lorsque, postérieurement à sa délivrance, l'opérateur, la personne responsable mentionnée à l'article R. 243-2, son suppléant ou la personne référente fait l'objet d'une condamnation définitive et non assortie d'un sursis à une peine d'emprisonnement égale ou supérieure à un mois ou à une peine d'amende égale ou supérieure à 1 000 euros pour toute infraction à la législation en matière douanière ou à toute réglementation instaurant des restrictions sur les produits chimiques ou les médicaments ou lorsqu'il apparaît que l'opérateur n'a pas été en mesure d'assurer une gestion des substances classifiées conforme aux exigences de la réglementation.\
+La suspension ou le retrait de l'enregistrement ne peut intervenir qu'après que son titulaire a été mis en mesure de présenter ses observations et, le cas échéant, de régulariser sa situation dans un délai fixé par arrêté du ministre chargé des douanes.
+
+NOTA:
+Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.

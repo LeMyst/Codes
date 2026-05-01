@@ -1,1 +1,0 @@
-Chapitre VII : Exportation temporaire.

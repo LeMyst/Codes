@@ -1,0 +1,9 @@
+# Article L764-6
+
+I. - Les dispositions du titre IV du livre IV sont applicables de plein droit en Polynésie française, à l'exception des dispositions de la section 2 du chapitre II, de la section 2 du chapitre III et de la sous-section 2 de la section 1 du chapitre IV et de la sous-section 2 de la section 2 du chapitre IV qui ne sont pas applicables.\
+II. - Pour l'application du I :\
+1° A l'article L. 441-1, les mots : « L. 231-5 et L. 231-6 » sont remplacés par les mots : « L. 231-1 et L. 232-2 » ;\
+2° A l'article L. 443-5, les mots : « L. 423-25 » sont remplacés par les mots : « L. 423-24 ».
+
+NOTA:
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.

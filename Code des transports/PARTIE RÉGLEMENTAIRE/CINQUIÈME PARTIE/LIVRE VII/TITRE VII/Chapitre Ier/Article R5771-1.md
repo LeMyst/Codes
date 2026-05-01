@@ -9,4 +9,9 @@ Sont applicables en Polynésie française, sous réserve des compétences dévol
 | R. 5122-2 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | R. 5112-2-1-1, R. 5112-2-3-1 et R. 5112-2-8 à R. 5112-2-11 | Résultant du décret n° 2023-921 du 5 octobre 2023 |
 | R. 5131-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
-| R. 5141-1 à R. 5142-25 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+| R. 5141-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+| R. 5142-1-1 | Résultant du décret n° 2026-266 du 8 avril 2026 |
+| R. 5142-2 à R. 5142-25 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+
+NOTA:
+Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.

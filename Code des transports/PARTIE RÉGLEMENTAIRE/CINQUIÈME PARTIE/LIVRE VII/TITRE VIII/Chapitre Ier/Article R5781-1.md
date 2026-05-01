@@ -36,4 +36,9 @@ Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptatio
 | R. 5123-2 à R. 5123-21 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | R. 5131-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | R. 5133-1 à R. 5133-4 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
-| R. 5141-1 à R. 5142-25 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+| R. 141-1 à R. 5142-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+| R. 5142-1-1 | Résultant du décret n° 2026-266 du 8 avril 2026 |
+| R. 5142-2 à R. 5142-25 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
+
+NOTA:
+Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.

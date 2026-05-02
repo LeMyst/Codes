@@ -194,3 +194,5 @@ d. (disjoint)
 
 NOTA:
 Conformément au II de l'article 9 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.
+
+Conformément au II de l'article 4 de la loi n° 2021-1900 du 30 décembre 2021, la modification du montant du c du 19° ter du present article prévue par le I dudit article 4 s'applique a l'imposition des revenus de l'année 2022.

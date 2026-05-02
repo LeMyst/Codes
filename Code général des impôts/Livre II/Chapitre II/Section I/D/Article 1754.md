@@ -12,11 +12,7 @@ III. – Par dérogation aux dispositions du I :
 
 III bis. – Par dérogation au II du présent article, le recouvrement et le contentieux des amendes prévues aux articles 1729 C et 1770 terdecies sont régis par les dispositions applicables aux taxes foncières.
 
-III ter.-Par dérogation aux I et II du présent article :
-
-1° Les amendes, pénalités et confiscations prévues au code des douanes sont recouvrées dans les conditions prévues au même code ;
-
-2° Les amendes, pénalités et confiscations réprimant des infractions recherchées, constatées et poursuivies comme en matière de contributions indirectes sont recouvrées selon les règles applicables à ces mêmes contributions, sous réserve, lorsqu'elles sont prononcées par une juridiction, de l'article 345-0 bis du code des douanes.
+III ter.- (Abrogé).
 
 IV. – En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations et intérêts dus par le défunt ou la société dissoute constituent une charge de la succession ou de la liquidation.
 
@@ -37,4 +33,4 @@ V. – 1. En cas d'abus de droit ou de dissimulation d'une partie du prix stipul
 1. Le constituant et les bénéficiaires soumis au prélèvement de l'article 990 J sont solidairement responsables avec l'administrateur du trust du paiement de l'amende prévue au IV bis de l'article 1736.
 
 NOTA:
-Conformément au B du IX de l’article 80 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions entrent en vigueur le 1er avril 2023 et s'appliquent aux amendes, pénalités et confiscations en valeur pour lesquelles les jugements sont rendus à compter de cette même date.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 1er mai 2026.

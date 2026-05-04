@@ -1,6 +1,6 @@
 # Article L236-6
 
-Au titre des dispositions dérogatoires de l'article 2 bis du code des douanes, les agents des douanes peuvent, dans les conditions prévues aux articles 60 à 60-10, 61,63 ter, 65 et 410 du même code, effectuer des contrôles documentaires et vérifier par simple inspection visuelle la concordance entre les documents ou certificats et les marchandises mentionnées à l'article L. 236-5 ainsi que par la présence des estampilles et marques qui doivent figurer sur les marchandises.
+Au titre des dispositions dérogatoires de l'article 2 bis du code des douanes, les agents des douanes peuvent, dans les conditions prévues aux articles 60 à 60-10, 61, 63 ter, 65 et 410 du même code, effectuer des contrôles documentaires et vérifier par simple inspection visuelle la concordance entre les documents ou certificats et les marchandises mentionnées à l'article L. 236-5 ainsi que par la présence des estampilles et marques qui doivent figurer sur les marchandises.
 
 Ils sont habilités à constater les infractions aux obligations documentaires ainsi que les infractions au présent article.
 

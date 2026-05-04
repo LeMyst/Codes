@@ -8,6 +8,6 @@ Dans les autres cas, le conseil municipal pourra instituer la taxe prévue aux a
 
 Sont applicables à cette taxe les dispositions de l'article L. 2331-11 du code général des collectivités territoriales, ci-après reproduites :
 
-" Art. L. 2331-11 : Les taxes particulières dues par les habitants ou propriétaires en vertu des lois et usages locaux sont réparties par délibération du conseil municipal.
+"Art. L. 2331-11 : Les taxes particulières dues par les habitants ou propriétaires en vertu des lois et usages locaux sont réparties par délibération du conseil municipal.
 
-" Ces taxes sont recouvrées comme en matière d'impôts directs ".
+"Ces taxes sont recouvrées comme en matière d'impôts directs."

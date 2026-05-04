@@ -8,7 +8,7 @@ Il est soumis au régime fiscal par les articles 83 et 158-5, du code général 
 
 Il ne peut être saisi ou cédé dans les conditions prévues au chapitre V du titre IV du livre Ier du code du travail.
 
-Il bénéficie des privilèges prévus aux articles 2331,3°, et 2377,2°, du code civil, et L. 143-10 et L. 143-11 du code du travail.
+Il bénéficie des privilèges prévus aux articles 2331, 3°, et 2377, 2°, du code civil, et L. 143-10 et L. 143-11 du code du travail.
 
 NOTA:
 Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.

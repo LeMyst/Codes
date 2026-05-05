@@ -2,9 +2,7 @@
 
 Les prestations figurant aux numéros 85 à 115 du tableau mentionné à l'article A. 743-8 donnent lieu à la perception des émoluments suivants :
 
-Les prestations relatives au registre des bénéficiaires effectifs donnent lieu à la perception d'un émolument fixe conformément au tableau ci-après :
-
-| Numéro de la prestation (tableau 2 de l'article annexe 4-7) | Sous-catégorie | Désignation de la prestation | Émolument |
+| Numéro de la prestation (tableau 2 de l'article annexe 4-7) | Sous-catégorie | ésignation de la prestation | Émolument |
 | --- | --- | --- | --- |
 | 85 | Privilège du Trésor en matière fiscale | Première inscription, la radiation totale ou partielle d'une inscription non périmée | 1,52 € |
 | 86 | Inscription suivante, le renouvellement d'une inscription ou la subrogation | 2,03 € |

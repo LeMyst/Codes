@@ -18,7 +18,4 @@ Les nombres d'années obtenus sont arrondis à chaque étape à l'entier non nul
 
 A chaque étape, lorsque le total des nombres d'années obtenus est supérieur au nombre d'années à répartir, la ou les années surnuméraires sont retranchées au régime, au groupe de régime ou à la sous-période pour lequel ou laquelle la durée d'assurance mentionnée au présent II est la plus longue. En cas d'égalité, la ou les années surnuméraires sont retranchées par priorité au régime des personnes non salariées des professions agricoles, en son sein au titre des périodes antérieures au 1 er janvier 2016, au régime général de sécurité sociale ou au régime des personnes salariées des professions agricoles.
 
-III.-Par dérogation au I, le nombre d'années mentionné à ce I est égal, pour les assurés nés avant la 1 er janvier 1948, à celui mentionné à l'article R. 351-29-1 dans sa rédaction antérieure au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite.
-
-NOTA:
-Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.
+III.-Par dérogation au I, le nombre d'années mentionné à ce I est égal, pour les assurés nés avant le 1 er janvier 1948, à celui mentionné à l'article R. 351-29-1 dans sa rédaction antérieure au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite.

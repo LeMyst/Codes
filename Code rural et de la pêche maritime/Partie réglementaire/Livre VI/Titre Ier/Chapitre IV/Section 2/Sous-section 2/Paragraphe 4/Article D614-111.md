@@ -1,12 +1,14 @@
 # Article D614-111
 
-I.-Pour bénéficier de l'aide par la voie d'accès “ pratiques de gestion agro-écologique des surfaces agricoles ”, l'agriculteur doit respecter les conditions suivantes :
+I. - Pour bénéficier de l'aide par la voie d'accès “ pratiques de gestion agro-écologique des surfaces agricoles ”, l'agriculteur doit respecter les conditions suivantes :
 
 a) Assurer une diversification des cultures sur ses terres arables et sur certaines cultures pérennes assimilées à des cultures de terres arables ;
 
 b) Maintenir une proportion minimale de prairies permanentes non labourées et lorsqu'il s'agit de prairies permanentes dites “ sensibles ” mentionnées à l'article D. 641-53 du code rural et de la pêche maritime, sans traitement phytosanitaire, de 80 % des surfaces de prairies pour le niveau de base de l'écorégime et de 90 % pour le niveau supérieur ;
 
 c) Maintenir une couverture végétale minimale sur 75 % des inter-rangs de certaines cultures pérennes pour le niveau de base et sur 95 % de ces inter-rangs pour le niveau supérieur.
+
+Pour les cultures qui ne sont pas conduites en rangs, le taux de couverture est calculé sur la surface en cultures pérennes.
 
 Pour l'application du a, un arrêté du ministre chargé de l'agriculture précise les différentes catégories de cultures concernées, fixe le barème de points affectés à chacune de ces catégories, en tenant compte de la présence de prairies permanentes sur les exploitations et de la superficie en terres arables, ainsi que le nombre de points à atteindre pour respecter chacun des deux niveaux d'exigence du critère. Il fixe la liste des cultures pérennes qui sont assimilées à des terres arables.
 
@@ -18,7 +20,7 @@ Le niveau d'exigence retenu pour l'octroi de l'aide correspond au plus petit niv
 
 Toutefois, lorsque la surface admissible prise en compte pour une de ces trois conditions représente moins de 5 % de la surface admissible de l'exploitation, l'agriculteur est exempté de l'obligation de respecter cette condition.
 
-II.-Pour bénéficier de l'aide par la voie d'accès “ certification environnementale ”, l'agriculteur doit engager l'ensemble des surfaces agricoles de son exploitation à titre individuel dans une démarche ou une certification qui garantit le recours à des pratiques et systèmes de production respectueux des modes de production agro-écologiques.
+II. - Pour bénéficier de l'aide par la voie d'accès “ certification environnementale ”, l'agriculteur doit engager l'ensemble des surfaces agricoles de son exploitation à titre individuel dans une démarche ou une certification qui garantit le recours à des pratiques et systèmes de production respectueux des modes de production agro-écologiques.
 
 1° Pour le niveau de base de l'écorégime, l'agriculteur doit satisfaire à un niveau d'exigences dit “ CE2 + ” qui implique :
 
@@ -36,12 +38,12 @@ b) Le respect de l'une des obligations suivantes :
 
 Un arrêté du ministre chargé de l'agriculture précise les conditions de vérification par un organisme certificateur du respect des exigences mentionnées aux 1°, 2° et 3° ainsi que les dates limites auxquelles les certificats doivent être établis pour être pris en compte pour une campagne donnée.
 
-III.-Pour bénéficier de l'aide par la voie d'accès “ éléments favorables à la biodiversité ”, l'agriculteur doit justifier d'une proportion minimale de 7 % d'éléments favorables à la biodiversité sur la surface agricole utile de son exploitation pour le niveau de base et de 10 % pour le niveau supérieur.
+III. - Pour bénéficier de l'aide par la voie d'accès “ éléments favorables à la biodiversité ”, l'agriculteur doit justifier d'une proportion minimale de 7 % d'éléments favorables à la biodiversité sur la surface agricole utile de son exploitation pour le niveau de base et de 10 % pour le niveau supérieur.
 
 Un arrêté du ministre chargé de l'agriculture définit la liste des éléments concernés, leurs caractéristiques et leurs coefficients de conversion et de pondération.
 
-IV.-Pour bénéficier du “ bonus haie ” mentionné à l'article 1er, l'agriculteur doit entretenir une proportion minimale de 6 % de haies sur la surface agricole utile de son exploitation, dont 6 % sur les terres arables si son exploitation en comporte.
+IV. - Pour bénéficier du “ bonus haies ” mentionné au sixième alinéa de l'article D. 614-109, l'agriculteur doit entretenir une proportion minimale de 6 % de haies sur la surface agricole utile de son exploitation, dont 6 % sur les terres arables si son exploitation en comporte.
 
-Les haies doivent faire l'objet d'une gestion durable, incluant des techniques de coupe garantissant la reprise végétale de la haie, des itinéraires techniques assurant sa régénération et le maintien des services écosystémiques rendus par chaque type de haie.
+Les haies doivent faire l'objet d'une gestion durable, incluant des techniques de coupe garantissant la reprise végétale de la haies, des itinéraires techniques assurant sa régénération et le maintien des services écosystémiques rendus par chaque type de haies.
 
 Un arrêté du ministre chargé de l'agriculture précise les conditions de vérification par un organisme certificateur du respect de ces exigences et fixe les coefficients de conversion et de pondération des haies ainsi que les dates limites à laquelle les certificats doivent être établis pour être pris en compte pour une campagne donnée.

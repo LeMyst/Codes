@@ -12,7 +12,7 @@ L'enseignement supérieur agricole public relevant du ministre chargé de l'agri
 
 5° L'Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup) ;
 
-6° L'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS) ;
+6° L'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (Oniris VetAgroBio Nantes) ;
 
 7° L'Ecole nationale vétérinaire d'Alfort ;
 
@@ -25,6 +25,3 @@ L'enseignement supérieur agricole public relevant du ministre chargé de l'agri
 11° L'Ecole nationale supérieure des sciences agronomiques de Bordeaux Aquitaine (Bordeaux Sciences Agro) ;
 
 12° L'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
-
-NOTA:
-Conformément à l’article 20 du décret n° 2021-1723 du 20 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

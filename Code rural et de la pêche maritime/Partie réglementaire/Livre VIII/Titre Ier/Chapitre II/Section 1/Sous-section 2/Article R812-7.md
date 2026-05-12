@@ -14,7 +14,9 @@ Le conseil d'administration fixe les orientations générales de l'établissemen
 
 6° Le compte financier, l'affectation du résultat et l'utilisation des réserves ;
 
-7° Le montant des droits de scolarité acquittés par les stagiaires de la formation continue et les auditeurs libres ; le montant des rémunérations pour services rendus ;
+7° Le montant des droits de scolarité acquittés par les stagiaires de la formation continue et les auditeurs libres ;
+
+7° bis Les rémunérations pour service rendus ;
 
 8° Les acquisitions, locations et cessions d'immeubles ;
 
@@ -32,6 +34,6 @@ Le conseil d'administration fixe les orientations générales de l'établissemen
 
 15° Les actions en justice et les transactions.
 
-Il peut déléguer au directeur de l'établissement, dans les limites qu'il fixe, les attributions mentionnées aux 7°, 8°, 9°, 11° et 15°. Le directeur rend compte des décisions prises dans le cadre des attributions ainsi déléguées à la plus prochaine réunion du conseil d'administration.
+Il peut déléguer au directeur de l'établissement, dans les limites qu'il fixe, les attributions mentionnées aux 7°, 7° bis, 8°, 9°, 11° et 15°. Le directeur rend compte des décisions prises dans le cadre des attributions ainsi déléguées à la plus prochaine réunion du conseil d'administration.
 
 Le directeur, le secrétaire général, le directeur adjoint, ou les directeurs délégués et l'agent comptable assistent aux réunions avec voix consultative.

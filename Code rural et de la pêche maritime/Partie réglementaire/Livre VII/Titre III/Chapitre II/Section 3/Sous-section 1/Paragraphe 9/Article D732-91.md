@@ -20,7 +20,7 @@ Par dérogation au premier alinéa, pour le chef d'exploitation ou d'entreprise 
 
 III. - Pour les exploitations ou entreprises individuelles dont l'importance ne peut être appréciée par référence à la surface minimale d'assujettissement, les modalités d'ouverture des droits, de calcul et de service de la fraction de pension du chef d'exploitation ou d'entreprise agricole sont les mêmes que celles applicables aux assurés mentionnés au 2° de l'article L. 161-22-1-5 du code de la sécurité sociale.
 
-IV. - Pour les sociétés, la cessation progressive d'activité du chef d'exploitation ou d'entreprise agricole se traduit par la cession progressive des parts sociales qu'il détient. Dans le cas où l'assuré détient des parts sociales dans plusieurs sociétés, la diminution de l'activité de l'assuré est réalisée par la cession de ces parts dans l'ensemble de ces sociétés.
+IV. - Pour les sociétés, la cessation progressive d'activité du chef d'exploitation ou d'entreprise agricole se traduit par la cession progressive des parts sociales qu'il détient, sous réserve de ne pas les céder en totalité ou partiellement à son conjoint, à son partenaire avec qui il a conclu un pacte civil de solidarité ou à son concubin au sens de l'article 515-8 du code civil. Dans le cas où l'assuré détient des parts sociales dans plusieurs sociétés, la diminution de l'activité de l'assuré est réalisée par la cession de ces parts dans l'ensemble de ces sociétés.
 
 La cession des parts sociales est appréciée au regard de la totalité des parts détenues avant ladite cession. La demande de retraite progressive devant intervenir dans l'année suivant ladite cession.
 
@@ -29,4 +29,4 @@ La fraction des parts cédées par l'assuré doit être au moins égale à 20 %.
 V. - Les quotités de cession de terres ou de parts sociales sont exprimées en pourcentage arrondi à l'unité la plus proche. Le point de pourcentage égal à 0,5 est compté pour 1.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 4° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.

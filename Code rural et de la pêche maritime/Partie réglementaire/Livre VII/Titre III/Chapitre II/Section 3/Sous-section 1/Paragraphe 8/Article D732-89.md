@@ -1,4 +1,4 @@
-# Article R732-89
+# Article D732-89
 
 Le versement des cotisations peut être échelonné à la demande de l'assuré et, avec l'accord de la caisse de mutualité sociale agricole compétente, sur une période comprise entre la demande de versement des cotisations et la demande de liquidation de la pension de retraite. La période d'échelonnement ne peut excéder quatre ans.
 

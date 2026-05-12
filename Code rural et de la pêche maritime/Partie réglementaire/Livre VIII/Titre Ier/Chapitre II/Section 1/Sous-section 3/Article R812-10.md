@@ -1,6 +1,6 @@
 # Article R812-10
 
-Le directeur assure le bon fonctionnement de l'établissement et le représente en justice et à l'égard des tiers dans tous les actes de la vie civile. A cet effet, il exerce notamment les attributions suivantes :
+Le directeur veille à l'accomplissement des missions de l'enseignement supérieur agricole public, mentionnées à l'article L. 812-1 du présent code. Il assure le bon fonctionnement de l'établissement et le représente en justice et à l'égard des tiers dans tous les actes de la vie civile. A cet effet, il exerce notamment les attributions suivantes :
 
 1° Il prépare et exécute les délibérations du conseil d'administration ;
 
@@ -18,4 +18,4 @@ Le directeur assure le bon fonctionnement de l'établissement et le représente 
 
 8° Il rend compte de sa gestion au conseil d'administration.
 
-Il peut déléguer sa signature au secrétaire général, au directeur adjoint, aux directeurs délégués, ou à d'autres membres du personnel d'encadrement de l'établissement, dans la limite de leurs attributions.
+Il peut déléguer sa signature au secrétaire général, au directeur adjoint, aux directeurs délégués, ou à d'autres membres du personnel de l'établissement, dans la limite de leurs attributions, et aux directeurs des unités de recherche relevant de l'établissement placés sous son autorité en application des dispositions de l'article L. 313-1 du code de la recherche, pour la gestion des dotations globales de fonctionnement et d'équipement.

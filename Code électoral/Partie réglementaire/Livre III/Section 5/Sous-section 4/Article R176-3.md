@@ -24,6 +24,8 @@ Il fixe notamment :
 
 4° Les modalités de transmission de l'identifiant et du mot de passe prévues à l'article R. 176-3-7 ainsi que les modalités de récupération en cas de perte par l'électeur de son identifiant ou de son mot de passe ;
 
+4° bis Les modalités selon lesquelles l'électeur atteste de son identité à l'aide d'un moyen d'identification électronique présumé fiable et certifié au sens du III de l'article L. 102 du code des postes et des communications électroniques ;
+
 5° Le nombre maximal de caractères dont le candidat dispose lors de sa déclaration de candidature pour indiquer, le cas échéant, l'étiquette politique qu'il a choisie ;
 
 6° Les conditions de mise en œuvre d'un dispositif de secours en cas de défaillance.

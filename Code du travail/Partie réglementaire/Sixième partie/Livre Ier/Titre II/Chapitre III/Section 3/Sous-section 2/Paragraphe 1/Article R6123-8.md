@@ -1,6 +1,6 @@
 # Article R6123-8
 
-I.-Le conseil d'administration délibère sur :
+I. - Le conseil d'administration délibère sur :
 
 1° La fixation d'un niveau maximal de prise en charge éligible à la péréquation inter-branche mentionnée au 1° de l'article L. 6123-5 ;
 
@@ -40,11 +40,11 @@ I.-Le conseil d'administration délibère sur :
 
 19° La participation à un groupement d'intérêt public ou à toute autre forme de groupement public ou privé ;
 
-20° Le règlement du conseil d'administration, le règlement intérieur de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et la charte déontologique applicable aux membres du conseil d'administration et au personnel de l'établissement ;
+20° Le règlement du conseil d'administration, les règlements intérieurs de la commission en charge de la certification professionnelle prévue à l'article L. 6113-6 et de la commission mentionnée à l'article L. 6123-7-1, et la charte déontologique applicable aux membres du conseil d'administration, des commissions mentionnées aux articles L. 6113-6 et L. 6123-7-1 et des commissions spécialisées mentionnées au 21° du présent I, ainsi qu'au personnel de l'établissement ;
 
 21° La création de commissions spécialisées au sein de l'établissement et leurs règlements intérieurs.
 
-II.-Le conseil d'administration est tenu informé :
+II. - Le conseil d'administration est tenu informé :
 
 1° Des travaux des commissions et des instances créées au sein de l'établissement ;
 

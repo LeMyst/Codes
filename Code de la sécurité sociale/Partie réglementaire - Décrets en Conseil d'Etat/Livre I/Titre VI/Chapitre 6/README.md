@@ -1,1 +1,1 @@
-Chapitre 6 : Contrôle médical.
+Chapitre 6 : Dispositions communes aux médicaments, dispositifs médicaux et prestations associées remboursables

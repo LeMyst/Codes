@@ -1,1 +1,1 @@
-Sous-section 6 : Contrôle de la facturation
+Sous-section 6 : Contrôles

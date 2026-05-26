@@ -1,6 +1,6 @@
 # Article R161-15
 
-Les personnes bénéficiaires du droit à l'information exercent leurs droits d'accès et de rectification des données les concernant, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, auprès de l'organisme ou du service en charge de la gestion du régime faisant l'objet de la demande d'accès ou de rectification.
+Les personnes bénéficiaires du droit à l'information exercent leurs droits d'accès et de rectification des données, ainsi que le droit à la limitation du traitement, prévus respectivement aux articles 15, 16 et 18 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, auprès de l'organisme ou du service en charge de la gestion du régime faisant l'objet de la demande d'accès ou de rectification.
 
 La demande d'accès ou de rectification peut toutefois être adressée à l'organisme ou au service ayant envoyé ou remis l'information générale, les simulations, le relevé ou l'estimation ou ayant réalisé l'entretien, en indiquant le ou les régimes qu'elle vise. Celui-ci transmet la demande à chaque organisme ou service ayant en charge la gestion du ou des régimes visés et informe le demandeur de cette transmission.
 

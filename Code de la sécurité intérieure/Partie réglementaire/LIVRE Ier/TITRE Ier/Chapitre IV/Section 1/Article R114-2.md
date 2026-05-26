@@ -36,6 +36,8 @@ o) Des personnes physiques employées pour participer à l'activité de formatio
 
 p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense.
 
+s) Des agents d'Ile-de-France Mobilités mentionnés à l'article R. 1241-66-19 du code des transports.
+
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de proximité ;
 
 3° Recrutement ou nomination et affectation :

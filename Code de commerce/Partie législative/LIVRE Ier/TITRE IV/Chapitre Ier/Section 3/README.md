@@ -1,1 +1,0 @@
-Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité d'entreprise

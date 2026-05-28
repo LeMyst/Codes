@@ -68,8 +68,8 @@ Pour la mise en oeuvre des 12° et 13°, il peut être fait application des dér
 
 24° Le cas échéant, les modes de rémunération autres que le paiement à l'acte, y compris ceux intervenant en contrepartie d'engagements individualisés définis au 22° relatifs aux missions et aux modalités d'organisation prévues au 23° ;
 
-25° Le cas échéant, les modalités de versement d'une aide financière complémentaire aux médecins interrompant leur activité médicale pour cause de maternité ou de paternité.
+25° Le cas échéant, les modalités de versement d'une aide financière complémentaire aux médecins interrompant leur activité médicale pour cause de maternité ou de paternité ;
 
-26° S'agissant des médecins spécialistes en radiodiagnostic et en imagerie médicale et des médecins spécialistes en médecine nucléaire, les rémunérations liées à l'acquisition et au fonctionnement des équipements lourds d'imagerie médicale ainsi que la classification associée, dans le respect des dispositions des articles L. 162-1-9 et L. 162-1-9-1.
+26° S'agissant des médecins spécialistes en radiodiagnostic et en imagerie médicale et des médecins spécialistes en médecine nucléaire, les rémunérations liées à l'acquisition et au fonctionnement des équipements lourds d'imagerie médicale ainsi que la classification associée, dans le respect des dispositions des articles L. 162-1-9 et L. 162-1-9-1 ;
 
 27° Les conditions et modalités de participation financière au recrutement de personnels salariés intervenant auprès de médecins exerçant dans le cadre d'un exercice coordonné et ayant vocation à les assister dans leur pratique quotidienne et améliorer ainsi l'accès aux soins.

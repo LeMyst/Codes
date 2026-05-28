@@ -1,0 +1,1 @@
+Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité social et économique exerçant les attributions mentionnées au deuxième alinéa de l'article L. 2312-1 du code du travail

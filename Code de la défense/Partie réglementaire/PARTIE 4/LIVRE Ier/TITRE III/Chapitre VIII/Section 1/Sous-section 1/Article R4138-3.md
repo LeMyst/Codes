@@ -6,7 +6,7 @@ Le congé de maladie est attribué sur demande ou d'office par le commandant de 
 
 La date de prise d'effet du congé de maladie est celle de la cessation du service. Le congé de maladie intervenant au cours d'une permission en interrompt le déroulement. L'intéressé conserve le droit à la fraction de la permission dont il n'a pas bénéficié, selon les modalités propres au régime de ladite permission.
 
-Le commandant de la formation administrative ou l'autorité équivalente, à tout moment, faire procéder à un contrôle médical du militaire placé en congé de maladie afin de s'assurer que ce congé est justifié.
+Le commandant de la formation administrative ou l'autorité équivalente peut, à tout moment, faire procéder à un contrôle médical du militaire placé en congé de maladie afin de s'assurer que ce congé est justifié.
 
 Le contrôle médical est effectué par un praticien des armées n'exerçant pas son activité au sein de cette formation. Le militaire doit se soumettre à ce contrôle, sous peine de suspension du versement de sa rémunération ou de l'interruption du congé.
 

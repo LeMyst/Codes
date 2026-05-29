@@ -2,11 +2,11 @@
 
 La norme d'exercice professionnel relative à la sélection des éléments à contrôler, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
-NORME D'EXERCICE PROFESSIONNEL RELATIVE A LA SÉLECTION DES ÉLÉMENTS À CONTRÔLER
+NEP-530. SÉLECTION DES ÉLÉMENTS À CONTRÔLER
 
 Introduction
 
-1. Lorsque, dans le cadre de l'audit des comptes, le commissaire aux comptes met en œuvre des tests de procédures ou des tests de détail, il sélectionne les éléments sur lesquels portent ces procédures d'audit.
+1. Lorsque, dans le cadre de l'audit des comptes, le commissaire aux comptes met en œuvre des tests sur les contrôles ou des tests de détail, il sélectionne les éléments sur lesquels portent ces procédures d'audit.
 
 1. La présente norme a pour objet de définir les principes relatifs à l'utilisation par le commissaire aux comptes de méthodes de sélection dans le cadre de l'audit des comptes.
 
@@ -20,7 +20,7 @@ Méthodes de sélection d'éléments à contrôler
 
 En fonction des caractéristiques de la population qu'il veut contrôler, le commissaire aux comptes utilise une ou plusieurs des méthodes de sélection suivantes :
 
-― la sélection de tous les éléments ;
+- la sélection de tous les éléments ;
 
 - la sélection d'éléments spécifiques ;
 
@@ -48,7 +48,7 @@ Analyse des résultats des contrôles et conséquences sur l'audit
 
 8. Quelle que soit la méthode de sélection des éléments à contrôler qu'il retient, le commissaire aux comptes en fonction du résultat des procédures mises en œuvre :
 
-- apprécie si l'évaluation du risque d'anomalies significatives au niveau des assertions, qu'il avait définie pour cette population, reste appropriée ;
+- apprécie si l'évaluation du risque d'anomalies significatives au niveau des a assertions, qu'il avait définie pour cette population, reste appropriée ;
 
 - conclut sur le caractère suffisant et approprié des éléments collectés ;
 

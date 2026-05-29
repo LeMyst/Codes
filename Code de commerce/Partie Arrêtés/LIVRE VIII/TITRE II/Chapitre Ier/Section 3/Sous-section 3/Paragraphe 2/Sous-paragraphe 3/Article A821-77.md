@@ -2,7 +2,7 @@
 
 La norme d'exercice professionnel relative aux procédures analytiques, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
-NORME D'EXERCICE PROFESSIONNEL RELATIVE AUX PROCÉDURES ANALYTIQUES
+NEP-520. PROCÉDURES ANALYTIQUES
 
 Introduction
 
@@ -12,25 +12,25 @@ Introduction
 
 Définitions
 
-3. Contrôles de substance : procédures d'audit mises en œuvre pour détecter les anomalies significatives au niveau des assertions.
+3. Procédures de substance : procédures d'audit mises en œuvre pour détecter les anomalies significatives au niveau des assertions. Elles incluent :
 
-Elles incluent :
+- les tests de détail ;
 
-― les tests de détail ;
+- les procédures analytiques de substance.
 
-― les procédures analytiques.
+4. Procédures analytiques : techniques de contrôle qui consistent à apprécier des informations financières à partir :
 
-4. Procédure analytique : technique de contrôle qui consiste à apprécier des informations financières à partir :
+- de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ; et
 
-― de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ;
+- de l'analyse des variations significatives ou des tendances inattendues.
 
-― et de l'analyse des variations significatives ou des tendances inattendues.
+5. Procédures analytiques de substance : procédures analytiques menées en déterminant les montants ou ratios attendus dans les comptes et les écarts jugés acceptables entre ces montants ou ratios et ceux enregistrés.
 
 Mise en œuvre des procédures analytiques
 
-5. Le commissaire aux comptes met en œuvre des procédures analytiques lors de la prise de connaissance de l'entité et de son environnement et de l'évaluation du risque d'anomalies significatives dans les comptes. A ce stade, l'utilisation de cette technique peut notamment permettre au commissaire aux comptes d'identifier des opérations ou des événements inhabituels.
+6. Le commissaire aux comptes met en œuvre des procédures analytiques lors de la prise de connaissance de l'entité et de son environnement et de l'évaluation du risque d'anomalies significatives dans les comptes. A ce stade, l'utilisation de cette technique peut notamment permettre au commissaire aux comptes d'identifier des opérations ou des événements inhabituels.
 
-1. Lorsque le commissaire aux comptes conçoit les contrôles de substance à mettre en œuvre, en réponse à son évaluation du risque au niveau des assertions et pour les catégories d'opérations, les soldes de comptes et les informations fournies dans l'annexe qui ont un caractère significatif, il peut utiliser les procédures analytiques en tant que contrôles de substance. C'est le cas par exemple lorsqu'il estime que ces procédures, seules ou combinées avec d'autres, sont plus efficaces que les seuls tests de détail.
+1. Lorsque le commissaire aux comptes conçoit les procédures de substance à mettre en œuvre, en réponse à son évaluation du risque au niveau des assertions et pour les catégories d'opérations, les soldes de comptes et les informations fournies dans l'annexe qui ont un caractère significatif, il peut utiliser les procédures analytiques de substance en tant que procédures de substance. C'est le cas par exemple lorsqu'il estime que ces procédures, seules ou combinées avec d'autres, sont plus efficaces que les seuls tests de détail.
 
 1. Le commissaire aux comptes met en œuvre des procédures analytiques lors de la revue de la cohérence d'ensemble des comptes, effectuée à la fin de l'audit. L'application de cette technique lui permet d'analyser la cohérence d'ensemble des comptes au regard des éléments collectés tout au long de l'audit, sur l'entité et son secteur d'activité.
 

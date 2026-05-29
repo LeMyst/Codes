@@ -2,7 +2,7 @@
 
 La norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
-COMMUNICATION DES FAIBLESSES DU CONTRÔLE INTERNE
+NEP-265. COMMUNICATION DES FAIBLESSES DU CONTRÔLE INTERNE
 
 Introduction
 
@@ -14,7 +14,7 @@ Introduction
 
 2. Une faiblesse significative du contrôle interne est une faiblesse ou un ensemble de faiblesses du contrôle interne lié à l'information comptable et financière suffisamment importante pour mériter l'attention de l'organe collégial chargé de l'administration ou de l'organe chargé de la direction et de l'organe de surveillance, ainsi que, le cas échéant, du comité spécialisé.
 
-1. Lorsqu'il fait application de la norme d'exercice professionnel relative aux procédures d'audit mises en œuvre à l'issue de l'évaluation des risques, le commissaire aux comptes apprécie l'efficacité des contrôles pertinents pour l'audit lorsqu'il a décidé de s'appuyer sur ces contrôles ou lorsqu'il considère que les contrôles de substance seuls ne sont pas suffisants. Ainsi, les procédures d'audit mises en œuvre par le commissaire aux comptes n'ont pas pour objectif d'exprimer une opinion sur l'efficacité du contrôle interne.
+1. Lorsqu'il fait application de la norme d'exercice professionnel relative aux procédures d'audit mises en œuvre à l'issue de l'évaluation des risques, le commissaire aux comptes apprécie l'efficacité des contrôles pertinents pour l'audit lorsqu'il a décidé de s'appuyer sur ces contrôles ou lorsqu'il considère que les procédures de substance seules ne sont pas suffisantes. Ainsi, les procédures d'audit mises en œuvre par le commissaire aux comptes n'ont pas pour objectif d'exprimer une opinion sur l'efficacité du contrôle interne.
 
 1. La présente norme a pour objet de définir les modalités de la communication par le commissaire aux comptes des faiblesses du contrôle interne qu'il a relevées.
 

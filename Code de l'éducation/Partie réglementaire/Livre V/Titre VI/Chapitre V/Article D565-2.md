@@ -12,7 +12,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 511-36 à D. 511-38 | Résultant du décret n° 2009-553 du 15 mai 2009 |
 | D. 511-39 | Résultant du décret n° 2019-908 du 30 août 2019 |
 | D. 511-40 et D. 511-41 | Résultant du décret n° 2009-553 du 15 mai 2009 |
-| D. 511-42 et D. 511-43 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 511-42 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 511-43 | Résultant du décret n° 2026-414 du 28 mai 2026 |
 | D. 511-47 | Résultant du décret n° 2009-553 du 15 mai 2009 |
 | D. 511-48 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
 | D. 511-50 | Résultant du décret n° 2009-553 du 15 mai 2009 |

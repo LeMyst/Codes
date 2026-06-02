@@ -1,10 +1,8 @@
-# Article R4138-2
+# Article R4138-6-2
 
-I.-Les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense.
+Le militaire adresse sa demande de congé au commandant de la formation administrative ou à l'autorité équivalente dont il relève au moins un mois avant la date à laquelle il entend prendre son congé. La demande précise la date de prise du congé, sa durée ainsi que, le cas échéant, son fractionnement et les dates de ce fractionnement.
 
-Le congé de proche aidant prévu à l'article R. 4138-33-4 et le congé de solidarité familiale prévu à l'article R. 4138-33-8 sont accordés par le commandant de la formation administrative ou par l'autorité équivalente dont relève le militaire.
-
-II.-Pour les militaires de la gendarmerie nationale, les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27, R. 4138-33-4 et R. 4138-33-8 sont accordés par le ministre de l'intérieur, le congé prévu à l'article R. 4138-28 est accordé du ministre de la défense ou du ministre de l'intérieur
+Le délai mentionné à l'alinéa précédent est réduit à quinze jours lorsque le congé supplémentaire de naissance suit immédiatement le congé de paternité et d'accueil de l'enfant ou le congé d'adoption et que le militaire souhaite débuter son congé durant le mois suivant la naissance ou l'arrivée au foyer de l'enfant.
 
 NOTA:
 Conformément à l’article 31 du décret n°2026-427 du 30 mars 2026, ces dispositions s'appliquent aux demandes de congé supplémentaire de naissance présentées à compter du 1er juin 2026 et avec prise d'effet du congé à compter du 1er juillet 2026.

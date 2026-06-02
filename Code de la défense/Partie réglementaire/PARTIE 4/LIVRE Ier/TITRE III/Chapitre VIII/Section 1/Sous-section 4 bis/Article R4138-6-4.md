@@ -1,10 +1,8 @@
-# Article R4138-2
+# Article R4138-6-4
 
-I.-Les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense.
+Le congé supplémentaire de naissance prend fin de droit, à la demande du militaire intéressé, en cas de décès de l'enfant ou de diminution importante des ressources du foyer.
 
-Le congé de proche aidant prévu à l'article R. 4138-33-4 et le congé de solidarité familiale prévu à l'article R. 4138-33-8 sont accordés par le commandant de la formation administrative ou par l'autorité équivalente dont relève le militaire.
-
-II.-Pour les militaires de la gendarmerie nationale, les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27, R. 4138-33-4 et R. 4138-33-8 sont accordés par le ministre de l'intérieur, le congé prévu à l'article R. 4138-28 est accordé du ministre de la défense ou du ministre de l'intérieur
+L'autorité ayant accordé le congé peut écourter ce dernier, à la demande du militaire intéressé.
 
 NOTA:
 Conformément à l’article 31 du décret n°2026-427 du 30 mars 2026, ces dispositions s'appliquent aux demandes de congé supplémentaire de naissance présentées à compter du 1er juin 2026 et avec prise d'effet du congé à compter du 1er juillet 2026.

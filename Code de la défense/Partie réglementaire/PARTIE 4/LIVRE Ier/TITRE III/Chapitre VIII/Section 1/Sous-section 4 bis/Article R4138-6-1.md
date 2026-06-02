@@ -1,10 +1,16 @@
-# Article R4138-2
+# Article R4138-6-1
 
-I.-Les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense.
+Le congé supplémentaire de naissance prévu à l'article L. 4138-4 est accordé, à sa demande, au militaire ayant épuisé ses droits à congé de maternité, de paternité et d'accueil de l'enfant ou d'adoption.
 
-Le congé de proche aidant prévu à l'article R. 4138-33-4 et le congé de solidarité familiale prévu à l'article R. 4138-33-8 sont accordés par le commandant de la formation administrative ou par l'autorité équivalente dont relève le militaire.
+Le congé supplémentaire de naissance peut être fractionné en deux périodes d'une durée d'un mois.
 
-II.-Pour les militaires de la gendarmerie nationale, les congés prévus aux articles R. 4138-4 à R. 4138-6-4, R. 4138-27, R. 4138-33-4 et R. 4138-33-8 sont accordés par le ministre de l'intérieur, le congé prévu à l'article R. 4138-28 est accordé du ministre de la défense ou du ministre de l'intérieur
+La ou les périodes de congé débutent dans le délai de neuf mois suivant la naissance de l'enfant ou l'arrivée au foyer de l'enfant adopté.
+
+Le congé supplémentaire de naissance peut être reporté au-delà de ce délai :
+
+1° En cas de nécessités liées à la préparation et à la conduite des opérations ainsi qu'à la bonne exécution des missions des forces armées et formations rattachées. Le congé est pris dès que ces nécessités le permettent ;
+
+2° Lorsque la durée du congé de maternité, de paternité et d'accueil de l'enfant ou d'adoption est augmentée dans les conditions prévues à l'article L. 4138-4. Dans ce cas, le délai mentionné au troisième alinéa est augmenté de la même durée.
 
 NOTA:
 Conformément à l’article 31 du décret n°2026-427 du 30 mars 2026, ces dispositions s'appliquent aux demandes de congé supplémentaire de naissance présentées à compter du 1er juin 2026 et avec prise d'effet du congé à compter du 1er juillet 2026.

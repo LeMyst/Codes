@@ -1,6 +1,6 @@
 # Article L6325-1
 
-Le contrat de professionnalisation a pour objet de permettre d'acquérir une des qualifications prévues à l'article L. 6314-1 et de favoriser l'insertion ou la réinsertion professionnelle.
+Le contrat de professionnalisation a pour objet de permettre d'acquérir une des qualifications prévues à l'article L. 6314-1 ou un ou plusieurs blocs de compétences de certification professionnelle mentionnés au dernier alinéa de l'article L. 6113-1, selon des modalités définies par décret, et de favoriser l'insertion ou la réinsertion professionnelle.
 
 Ce contrat est ouvert :
 

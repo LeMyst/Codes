@@ -6,27 +6,20 @@ Le jury est composé comme suit :
 
 1° Un magistrat de l'ordre judiciaire, du troisième grade, en activité ou honoraire, président ;
 
-2° Un second magistrat de l'ordre judiciaire, en activité ou honoraire ;
+2° Un représentant de la Haute autorité de l'audit ;
 
-3° Un magistrat de la Cour des comptes ou un inspecteur des finances ;
+3° Un représentant de l'Autorité des normes comptables ;
 
-4° Un représentant de la Haute autorité de l'audit ;
+4° Deux membres de l'enseignement supérieur, professeurs ou maîtres de conférences ;
 
-5° Un représentant de l'Autorité des marchés financiers ;
-
-6° Un représentant de l'Autorité des normes comptables ;
-
-7° Quatre membres de l'enseignement supérieur, professeurs ou maîtres de conférences ;
-
-8° Deux commissaires aux comptes exerçant également les fonctions d'experts-comptables, désignés sur proposition du conseil supérieur de l'ordre des experts-comptables ;
-
-9° Deux commissaires aux comptes, désignés sur proposition de la Compagnie nationale des commissaires aux comptes.
+5° Quatre commissaires aux comptes, dont un au moins est inscrit au tableau de l'Ordre des experts-comptables, désignés sur proposition de la Compagnie nationale des commissaires aux comptes.
 
 Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 
 Des examinateurs spécialisés peuvent être adjoints au jury par arrêté du garde des sceaux, ministre de la justice, au plus tard la veille de l'épreuve pour laquelle ils sont désignés. Ils participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant à l'épreuve qu'ils ont évaluée ou corrigée.
 
-Le jury est valablement constitué si sept au moins de ses membres sont présents.
+Le jury est valablement constitué si cinq au moins de ses membres sont présents.
 
-NOTA:
-Conformément à l’article 12 de l’arrêté du 31 octobre 2025 (NOR : JUSB2524822A), ces dispositions, dans leur rédaction résultant dudit arrêté, entrent en vigueur le 1er décembre 2025.
+Les membres du jury sont nommés pour une période de quatre ans, renouvelable une fois.
+
+Le jury, à l'exception de son président et de son suppléant, est renouvelé par moitié tous les deux ans.

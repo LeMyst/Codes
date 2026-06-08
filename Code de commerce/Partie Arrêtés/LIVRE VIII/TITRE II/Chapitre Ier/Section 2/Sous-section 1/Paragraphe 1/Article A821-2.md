@@ -22,5 +22,6 @@ La liste des candidats autorisés à se présenter au certificat d'aptitude aux 
 
 La date et le lieu des épreuves sont notifiés par la Compagnie nationale des commissaires aux comptes, par voie de convocation individuelle.
 
-NOTA:
-Conformément à l'article 7 de l'arrêté du 28 décembre 2023 (NOR : JUSC2335250A), ces dispositions entrent en vigueur le 1er janvier 2024.
+Tout candidat au certificat d'aptitude aux fonctions de commissaire aux comptes remet au jury un curriculum vitae exposant ses expériences professionnelles, son parcours académique, ainsi que toute autre information utile pour l'épreuve orale d'entretien.
+
+Le curriculum vitae du candidat et sa pièce identité sont communiqués à la Compagnie nationale des commissaires aux comptes au moins deux semaines avant le début de l'épreuve orale d'admission.

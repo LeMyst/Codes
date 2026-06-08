@@ -16,7 +16,7 @@ II.-Le taux de cette contribution est fixé à :
 
 1° 30 % sur les options consenties dans les conditions prévues aux articles L. 225-177 à L. 225-186 et L. 22-10-56 à L. 22-10-58 du code de commerce. Elle est exigible le mois suivant la date de décision d'attribution des options ;
 
-2° 30 % sur les actions attribuées dans les conditions prévues aux articlesL. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du même code. Elle est exigible le mois suivant la date d'acquisition des actions par le bénéficiaire.
+2° 30 % sur les actions attribuées dans les conditions prévues aux articles L. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du même code. Elle est exigible le mois suivant la date d'acquisition des actions par le bénéficiaire.
 
 III.-Ces dispositions sont également applicables lorsque l'option est consentie ou l'attribution est effectuée, dans les mêmes conditions, par une société dont le siège est situé à l'étranger et qui est mère ou filiale de l'entreprise dans laquelle le bénéficiaire exerce son activité.
 

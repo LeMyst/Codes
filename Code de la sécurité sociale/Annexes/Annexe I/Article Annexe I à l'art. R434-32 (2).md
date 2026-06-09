@@ -4,7 +4,8 @@
 
 Le membre supérieur droit est dominant chez les droitiers, et le membre supérieur gauche est dominant chez les gauchers.
 
-Dominance cérébrale.\
+Dominance cérébrale.
+
 La notion de dominance hémisphérique cérébrale découle de la constatation de la prévalence d'un hémicorps dans l'action, avec une plus grande force ou une plus grande habileté des membres opposés à l'hémisphère dominant et commandés par lui. Elle est renforcée par le développement des structures du langage au sein de cet hémisphère dominant, ce qui aboutit à une prévalence de l'hémisphère dominant, le gauche, chez le droitier, pour l'ensemble des fonctions symboliques, de même que pour l'habileté manuelle.
 
 L'hémisphère dit dominant est habituellement l'hémisphère gauche, chez le droitier et il semble exister un lien assez étroit entre la dominance du langage et la préférence manuelle.
@@ -179,7 +180,7 @@ Les déformations proviennent essentiellement de cals volumineux, exubérants, e
 | Pseudarthroses de la diaphyse humérale : | | |
 | - Serrée | 20 | 15 |
 | - Lâche | 50 | 40 |
-| (Au voisinage de l'épaule et du coude, voir Epaule ballante » ou Coude ballant»). | | |
+| (Au voisinage de l'épaule et du coude, voir Epaule ballante ou Coude ballant). | | |
 | - Raccourcissement important (supérieur à 4 centimètres) | 5 à 10 | 4 à 8 |
 
 Coude :

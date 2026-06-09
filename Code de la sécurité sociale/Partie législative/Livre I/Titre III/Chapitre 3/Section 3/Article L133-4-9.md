@@ -12,4 +12,7 @@ Les contestations sont portées devant le juge de l'exécution. A peine d'irrece
 
 Sont en outre applicables les articles L. 123-1, L. 162-1, L. 162-2 et L. 211-3 du code des procédures civiles d'exécution.
 
-Le présent article n'est pas applicable aux sommes dues par le tiers détenteur au titre des rémunérations qui ne peuvent être saisies que dans les conditions et selon la procédure prévues aux articles L. 3252-1 à L. 3252-13 du code du travail.
+Le présent article n'est pas applicable aux sommes dues par le tiers détenteur au titre des rémunérations qui ne peuvent être saisies que dans les conditions et selon la procédure prévues aux articles L. 212-1 à L. 212-14 du code des procédures civiles d'exécution.
+
+NOTA:
+Conformément au X de l'article 60 de la loi n° 2023-1059, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2025.

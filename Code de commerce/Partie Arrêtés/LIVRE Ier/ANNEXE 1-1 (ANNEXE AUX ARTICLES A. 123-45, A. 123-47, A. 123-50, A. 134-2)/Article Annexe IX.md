@@ -1,9 +1,10 @@
 # Article Annexe IX
 
-DEMANDE D'IMMATRICULATION ET D'INSCRIPTION\
-MODIFICATIVE DES AUTRES PERSONNES MORALES
+DEMANDE D'IMMATRICULATION ET D'INSCRIPTION MODIFICATIVE DES AUTRES PERSONNES MORALES
 
-**1. Renseignements relatifs à la personne** 1.1. Etablissement public français.
+**1. Renseignements relatifs à la personne**
+
+1.1. Etablissement public français.
 
 1.1.1. Situation juridique.
 

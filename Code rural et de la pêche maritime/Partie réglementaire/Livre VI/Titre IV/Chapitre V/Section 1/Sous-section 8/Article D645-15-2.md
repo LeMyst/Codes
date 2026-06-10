@@ -1,6 +1,8 @@
 # Article D645-15-2
 
-Les vins stockés au titre du volume complémentaire individuel au cours de l'année précédente sont libérés, en tout ou partie, selon les modalités suivantes : 1° Ces vins sont remplacés, en totalité, pour un volume équivalent, par des vins de même couleur de la récolte de l'année, dans la limite du rendement autorisé pour l'appellation d'origine contrôlée concernée, à moins que le comité national des appellations d'origine relatives aux vins et aux boissons alcoolisées, et des eaux-de-vie de l'INAO, après avis de l'organisme de défense et de gestion, décide d'interdire leur remplacement.
+Les vins stockés au titre du volume complémentaire individuel au cours de l'année précédente sont libérés, en tout ou partie, selon les modalités suivantes :
+
+1° Ces vins sont remplacés, en totalité, pour un volume équivalent, par des vins de même couleur de la récolte de l'année, dans la limite du rendement autorisé pour l'appellation d'origine contrôlée concernée, à moins que le comité national des appellations d'origine relatives aux vins et aux boissons alcoolisées, et des eaux-de-vie de l'INAO, après avis de l'organisme de défense et de gestion, décide d'interdire leur remplacement.
 
 Les vins ainsi remplacés sont revendiqués dans l'appellation d'origine contrôlée au titre de laquelle ils ont été constitués au cours de la campagne suivant celle de leur production, sans que le volume total de vins revendiqués au cours de cette campagne puisse dépasser le rendement déterminé en application du I de l'article D. 645-7, modifié, le cas échéant, dans les conditions fixées au a du II du même article ;
 

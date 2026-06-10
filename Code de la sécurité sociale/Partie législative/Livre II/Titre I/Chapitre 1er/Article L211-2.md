@@ -4,7 +4,7 @@ Chaque caisse primaire d'assurance maladie est dotée d'un conseil et d'un direc
 
 Le conseil est composé :
 
-1° D'un nombre égal de représentants des assurés sociaux désignés par les organisations syndicales nationales de salariés représentatives au sens de l'article L. 133-2 du code du travail et de représentants d'employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
+1° D'un nombre égal de représentants des assurés sociaux désignés par les organisations syndicales nationales de salariés représentatives au sens de l'article L. 2121-1 du code du travail et de représentants d'employeurs désignés par les organisations professionnelles nationales d'employeurs représentatives ;
 
 2° De représentants de la Fédération nationale de la mutualité française ;
 

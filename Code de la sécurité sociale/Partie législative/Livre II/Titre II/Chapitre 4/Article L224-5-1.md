@@ -2,7 +2,7 @@
 
 L'union est dotée d'un conseil d'orientation composé :
 
--d'une part, des représentants des assurés sociaux désignés par les organisations syndicales nationales de salariés représentatives au sens de l'article L. 133-2 du code du travail et, en nombre égal, des représentants d'employeurs désignés par des organisations professionnelles nationales d'employeurs représentatives ;
+-d'une part, des représentants des assurés sociaux désignés par les organisations syndicales nationales de salariés représentatives au sens de l'article L. 2121-1 du code du travail et, en nombre égal, des représentants d'employeurs désignés par des organisations professionnelles nationales d'employeurs représentatives ;
 
 -d'autre part, du président et du vice-président des caisses nationales et de l'Agence centrale des organismes de sécurité sociale qui ne peuvent appartenir au même collège.
 

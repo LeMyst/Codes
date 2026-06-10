@@ -1,6 +1,6 @@
 # Article L311-11
 
-Les personnes physiques visées au premier alinéa de l'article L. 120-3 du code du travail ne relèvent du régime général de la sécurité sociale que s'il est établi que leur activité les place dans un lien de subordination juridique permanente à l'égard d'un donneur d'ordre.
+Les personnes physiques visées au premier alinéa de l'article L. 8221-6 du code du travail ne relèvent du régime général de la sécurité sociale que s'il est établi que leur activité les place dans un lien de subordination juridique permanente à l'égard d'un donneur d'ordre.
 
 Elles peuvent demander aux organismes chargés du recouvrement des cotisations du régime général de leur indiquer si cette activité relève de ce régime.
 

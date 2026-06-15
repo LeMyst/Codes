@@ -1,10 +1,10 @@
 # Article D241-7
 
-I. - Le montant prévu au deuxième alinéa du I l'article L. 241-13 est fixé à trois fois le montant du salaire minimum de croissance en vigueur.
+I. - Le montant prévu au dernier alinéa du II de l'article L. 241-13 est fixé à trois fois le montant du salaire minimum de croissance applicable au 1er janvier 2026.
 
 II. - Le coefficient prévu au deuxième alinéa du III de l'article L. 241-13 est déterminé par application de la formule suivante :
 
-Coefficient = Tmin + (Tdelta × [(1/2) × (3 × SMIC calculé pour un an / rémunération annuelle brute - 1)] P)
+Coefficient = Tmin + (Tdelta × [(1/2) × (3 × salaire minimum calculé pour un an / rémunération annuelle brute - 1)] P)
 
 Où :
 
@@ -12,7 +12,7 @@ Où :
 
 - les valeurs “Tmin”et “Tdelta”sont définies dans les conditions fixées au III ;
 
-- le “SMIC calculé pour un an” correspond au montant annuel brut en vigueur du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ;
+- le “salaire minimum calculé pour un an” correspond au montant annuel brut applicable au 1er janvier 2026 du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ;
 
 - la “rémunération annuelle brute” correspond au montant annuel de la rémunération définie selon les modalités prévues au III de l'article L. 241-13 ;
 
@@ -34,17 +34,15 @@ III. - Pour les revenus d'activité dus par les employeurs redevables de la cont
 
 Lorsque la somme des taux des cotisations et contributions effectivement à la charge de l'employeur est inférieure à la somme des valeurs Tmin et Tdelta, la valeur Tdelta est réduite jusqu'à ce que ces deux sommes soient égales. Pour l'application de cette règle, il n'est pas tenu compte de l'application des deuxième à dernier alinéas de l'article L. 5422-12 du code du travail.
 
-IV. - Sous réserve des dispositions prévues aux alinéas suivants, la valeur annuelle du salaire minimum de croissance à retenir dans la formule prévue au II est égale à 1 820 fois le salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire. Le cas échéant, elle est majorée du produit du nombre d'heures supplémentaires mentionnées aux 1° à 4° de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail rémunérées au cours de l'année par le montant horaire du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail.
+IV. - Sous réserve des dispositions prévues aux alinéas suivants, la valeur annuelle du salaire minimum à retenir dans la formule prévue au II est égale à 1 820 fois le montant horaire du salaire minimum ou à la somme de douze fractions identiques correspondant à sa valeur multipliée par les 52/12 de la durée légale hebdomadaire. Le cas échéant, elle est majorée du produit du nombre d'heures supplémentaires mentionnées aux 1° à 3° du I de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail rémunérées au cours de l'année par le montant horaire du salaire minimum.
 
-Pour les salariés dont la rémunération contractuelle est fixée sur une base inférieure à la durée légale ainsi que pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail autres que ceux mentionnés au deuxième alinéa du V, le montant du salaire minimum de croissance ainsi déterminé est corrigé à proportion de la durée de travail, hors heures supplémentaires mentionnées aux 1° à 4° de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail, inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise et rapportée à celle correspondant à la durée légale du travail.
+Pour les salariés dont la rémunération contractuelle est fixée sur une base inférieure à la durée légale ainsi que pour les salariés n'entrant pas dans le champ d'application de l'article L. 3242-1 du code du travail autres que ceux mentionnés au deuxième alinéa du V, le montant du salaire minimum annuel ainsi déterminé est corrigé à proportion de la durée de travail, hors heures supplémentaires mentionnées aux 1° à 3° du I de l'article L. 241-17 du code de la sécurité sociale et complémentaires au sens des articles L. 3123-8, L. 3123-9, L. 3123-20 et L. 3123-28 du code du travail, inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise et rapportée à celle correspondant à la durée légale du travail.
 
-Pour les salariés dont la durée de travail est fixée en jours conformément au 3° du I de l'article L. 3121-64 du code du travail, dans le cas où ce nombre est inférieur à 218, le montant du salaire minimum de croissance annuel est corrigé du rapport entre le nombre de jours travaillés et la durée légale du travail de 218 jours.
+Pour les salariés dont la durée de travail est fixée en jours conformément au 3° du I de l'article L. 3121-64 du code du travail, dans le cas où ce nombre est inférieur à 218, le montant du salaire minimum annuel ainsi déterminé est corrigé du rapport entre le nombre de jours travaillés et la durée légale du travail de 218 jours.
 
-En cas de suspension du contrat de travail avec paiement intégral de la rémunération brute du salarié, la fraction du montant du salaire minimum de croissance correspondant au mois où le contrat est suspendu est prise en compte pour sa valeur déterminée dans les conditions fixées aux premier à troisième alinéas du présent IV.
+En cas de suspension du contrat de travail avec paiement intégral de la rémunération brute du salarié, la fraction du montant du salaire minimum à retenir pour le mois où le contrat est suspendu est prise en compte pour sa valeur déterminée dans les conditions fixées aux premier à troisième alinéas du présent IV.
 
-Pour les salariés entrant dans le champ d'application de l'article L. 3242-1 du code du travail qui ne sont pas présents toute l'année ou dont le contrat de travail est suspendu sans paiement de la rémunération ou avec paiement partiel de celle-ci par l'employeur, ou pour les salariés n'entrant pas dans le champ d'application de cet article L. 3242-1 et dont le contrat de travail est suspendu avec paiement partiel de la rémunération, ainsi que pour les salariés mentionnés au deuxième alinéa du V, la fraction du montant du salaire minimum de croissance correspondant au mois où a lieu l'absence est corrigée selon le rapport entre les revenus d'activité, tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, dus et ceux qui auraient été dus si le salarié avait été présent tout le mois, hors éléments de rémunération qui ne sont pas affectés par l'absence. L'affectation par l'absence au sens du présent alinéa s'entend d'une proratisation strictement proportionnelle au temps d'absence.
-
-Si l'un des paramètres de détermination du montant annuel du salaire minimum de croissance à prendre en compte évolue en cours d'année, sa valeur annuelle est égale à la somme des valeurs déterminées par application des règles précédentes pour les périodes antérieure et postérieure à l'évolution.
+Pour les salariés entrant dans le champ d'application de l'article L. 3242-1 du code du travail qui ne sont pas présents toute l'année ou dont le contrat de travail est suspendu sans paiement de la rémunération ou avec paiement partiel de celle-ci par l'employeur, ou pour les salariés n'entrant pas dans le champ d'application de cet article L. 3242-1 et dont le contrat de travail est suspendu avec paiement partiel de la rémunération, ainsi que pour les salariés mentionnés au deuxième alinéa du V, la fraction du montant du salaire minimum à retenir pour le mois où a lieu l'absence est corrigée selon le rapport entre les revenus d'activité, tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1, dus et ceux qui auraient été dus si le salarié avait été présent tout le mois, hors éléments de rémunération qui ne sont pas affectés par l'absence. L'affectation par l'absence au sens du présent alinéa s'entend d'une proratisation strictement proportionnelle au temps d'absence.
 
 V. - Pour les salariés en contrat de travail temporaire mis à disposition au cours d'une année auprès de plusieurs entreprises utilisatrices, le coefficient mentionné au I est déterminé pour chaque mission.
 
@@ -61,6 +59,4 @@ VI. - A.- Le montant de la réduction prévue à l'article L. 241-13 est imputé
 B. - Par exception au A, pour les employeurs des salariés mentionnés au dernier alinéa du VII de l'article L. 241-13, le montant de la réduction est imputé en totalité sur les cotisations recouvrées par l'organisme de recouvrement habilité par l'Etat en application de l'article L. 133-9.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.
-
-Conformément à l'article 5 du décret n° 2025-1446 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026 et s'appliquent, le cas échéant, aux cotisations et contributions dues au titre des périodes d'activité courant à compter de cette date.
+Conformément à l'article 2 du décret n° 2026-509 du 12 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le lendemain de sa publication au Journal officiel et s'appliquent au calcul de la réduction prévue à l'article L. 241-13 du code de la sécurité sociale au titre de l'année 2026.

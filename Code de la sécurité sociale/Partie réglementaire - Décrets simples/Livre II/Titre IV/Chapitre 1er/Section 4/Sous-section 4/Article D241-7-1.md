@@ -17,7 +17,7 @@ Le résultat de ce produit étant arrondi à deux décimales, au centième le pl
 
 2° Le coefficient mentionné au II de l'article D. 241-7 est déterminé par application de la formule suivante :
 
-Coefficient = Tmin + ( Tdelta × [ (1/ (A - 1) ) × (A × SMIC calculé pour un an / rémunération annuelle brute - 1) ] P.) »
+Coefficient = Tmin + ( Tdelta × [ (1/ (A - 1) ) × (A × salaire minimum calculé pour un an / rémunération annuelle brute - 1) ] P.)
 
 Où :
 
@@ -36,7 +36,7 @@ Lorsque la somme des taux des cotisations et contributions effectivement à la c
 
 - la valeur “A” est égale au coefficient multiplicateur du salaire minimum de croissance résultant des dispositions du 1° ;
 
-- le “SMIC calculé pour un an” correspond au montant annuel brut en vigueur du salaire minimum de croissance applicable à Mayotte ;
+- le “salaire minimum calculé pour un an” correspond au montant annuel brut en vigueur du salaire minimum de croissance applicable à Mayotte étant précisé que si l'un des paramètres de détermination de ce montant annuel évolue en cours d'année, la valeur annuelle à retenir est égale à la somme des valeurs déterminées pour chacune des périodes antérieure et postérieure aux évolutions ;
 
 - la “rémunération annuelle brute” correspond au montant annuel de la rémunération définie selon les modalités prévues au III de l'article L. 241-13 ;
 
@@ -49,9 +49,9 @@ Lorsque la somme des taux des cotisations et contributions effectivement à la c
 
 Le résultat de ce produit est arrondi à deux décimales, au centième le plus proche ;
 
-3° Aux IV et V de l'article D. 241-7, les références au salaire minimum de croissance s'entendent comme des références au salaire minimum de croissance applicable à Mayotte ;
+3° Au V de l'article D. 241-7, les références au salaire minimum de croissance s'entendent comme des références au salaire minimum de croissance applicable à Mayotte ;
 
 4° L'imputation prévue au VI de l'article D. 241-7 est effectuée selon les modalité suivantes : le montant de la réduction est imputé sur les cotisations et contributions éligibles qui s'entendent, le cas échéant, comme celles applicables à Mayotte, et sont prises en considération pour leur taux également applicables à Mayotte.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-82 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l’article 1er, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'emploi courant à compter de cette date.
+Conformément à l'article 2 du décret n° 2026-509 du 12 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le lendemain de sa publication au Journal officiel et s'appliquent au calcul de la réduction prévue à l'article L. 241-13 du code de la sécurité sociale au titre de l'année 2026.

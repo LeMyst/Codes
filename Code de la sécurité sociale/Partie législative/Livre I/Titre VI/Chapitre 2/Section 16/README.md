@@ -1,0 +1,1 @@
+Section 16 : Prise en charge des prestations réalisées par les ergothérapeutes, les psychomotriciens et les diététiciens et d'un bilan neuropsychologique pour les mineurs atteints d'une affection de longue durée

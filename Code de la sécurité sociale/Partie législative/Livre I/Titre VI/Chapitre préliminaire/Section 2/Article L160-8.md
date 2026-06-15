@@ -2,7 +2,7 @@
 
 La protection sociale contre le risque et les conséquences de la maladie prévue à l'article L. 111-2-1 comporte :
 
-1° La couverture des frais de médecine générale et spéciale, des frais de soins et de prothèses dentaires, des frais pharmaceutiques et d'appareils, des frais d'examens de biologie médicale, y compris la couverture des frais relatifs aux actes d'investigation individuels, des frais d'hospitalisation et de traitement dans des établissements de soins, de réadaptation fonctionnelle et de rééducation ou d'éducation professionnelle, des frais des séances d'accompagnement psychologique mentionnées à l'article L. 162-58, ainsi que des frais d'interventions chirurgicales, y compris la couverture des médicaments, produits et objets contraceptifs et des frais d'examens et de biologie médicale ordonnés en vue de prescriptions contraceptives ;
+1° La couverture des frais de médecine générale et spéciale, des frais de soins et de prothèses dentaires, des frais pharmaceutiques et d'appareils, des frais d'examens de biologie médicale, y compris la couverture des frais relatifs aux actes d'investigation individuels, des frais d'hospitalisation et de traitement dans des établissements de soins, de réadaptation fonctionnelle et de rééducation ou d'éducation professionnelle, des frais des séances d'accompagnement psychologique mentionnées à l'article L. 162-58, des frais des séances mentionnées à l'article L. 162-64, des frais du bilan mentionné à l'article L. 162-65 ainsi que des frais d'interventions chirurgicales, y compris la couverture des médicaments, produits et objets contraceptifs et des frais d'examens et de biologie médicale ordonnés en vue de prescriptions contraceptives ;
 
 2° La couverture des frais de transport des personnes se trouvant dans l'obligation de se déplacer pour recevoir les soins ou subir les examens appropriés à leur état ainsi que pour se soumettre à un contrôle prescrit en application de la législation de sécurité sociale, selon les règles définies aux articles L. 162-4-1 et L. 322-5 et dans les conditions et limites tenant compte de l'état du malade et du coût du transport fixées par décret en Conseil d'Etat ;
 
@@ -26,9 +26,8 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 
 10° La couverture des frais relatifs au parcours mentionné à l'article L. 2134-1 du code de la santé publique ;
 
-11° La couverture des frais relatifs aux différentes catégories de protections périodiques réutilisables inscrites sur la liste prévue à l'article L. 162-59 pour les personnes assurées ayant leurs menstruations âgées de moins de vingt-six ans ou bénéficiaires de la protection complémentaire en matière de santé prévue à l'article L. 861-1.
+11° La couverture des frais relatifs aux différentes catégories de protections périodiques réutilisables inscrites sur la liste prévue à l'article L. 162-59 pour les personnes assurées ayant leurs menstruations âgées de moins de vingt-six ans ou bénéficiaires de la protection complémentaire en matière de santé prévue à l'article L. 861-1 ;
 
-Les produits, les prestations et les actes prescrits à l'occasion d'un acte de téléconsultation réalisé en application de l'article L. 6316-1 du code de la santé publique ainsi que les prescriptions réalisées lors des télésoins mentionnés à l'article L. 6316-2 du même code ne sont pris en charge qu'à la condition d'avoir fait l'objet d'une communication orale, en vidéotransmission ou téléphonique, entre le prescripteur et le patient.
+12° La couverture des frais d'hébergement des parents ou des responsables légaux des enfants hospitalisés mentionnés à l'article L. 6111-1-7 du code de la santé publique.
 
-NOTA:
-Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+Les produits, les prestations et les actes prescrits à l'occasion d'un acte de téléconsultation réalisé en application de l'article L. 6316-1 du même codeainsi que les prescriptions réalisées lors des télésoins mentionnés à l'article L. 6316-2 dudit code ne sont pris en charge qu'à la condition d'avoir fait l'objet d'une communication orale, en vidéotransmission ou téléphonique, entre le prescripteur et le patient.

@@ -20,5 +20,7 @@ II.-Sont précisés par décret en Conseil d'Etat :
 
 Des dépassements d'honoraires ne peuvent être pratiqués sur des séances prises en charge.
 
+III. - Par dérogation au 1° du II, aucun plafond ne s'applique au nombre de séances d'accompagnement psychologique mentionnées au I pouvant être prises en charge par les régimes obligatoires d'assurance maladie par année civile lorsque celles-ci sont prescrites à un mineur atteint d'une affection relevant des 3° et 4° de l'article L. 160-14 dans le cadre d'un protocole de soins mentionné à l'article L. 324-1.
+
 NOTA:
 Conformément au II de l'article 66 de la loi n° 2025-299 du 28 février 2025, ces dispositions sont également applicables aux séances d'accompagnement psychologique réalisées par les psychologues ayant signé une convention avec leur organisme local d'assurance maladie avant l'entrée en vigueur de ladite loi.

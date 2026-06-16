@@ -1,6 +1,8 @@
 # Article R272-3
 
-Ne sont pas applicables à Saint-Barthélemy : 1° Le chapitre VI du titre II ;
+Ne sont pas applicables à Saint-Barthélemy :
+
+1° Le chapitre VI du titre II ;
 
 2° Le chapitre VI du titre III ;
 

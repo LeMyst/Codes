@@ -20,7 +20,13 @@ b) D'examiner les propositions d'aménagement ou d'adaptation du poste repris pa
 
 c) De préconiser l'aménagement, l'adaptation du poste ou le reclassement du travailleur ;
 
-d) D'émettre, au besoin, un avis d'inaptitude.
+d) D'émettre, au besoin, un avis d'inaptitude ;
+
+3° Par dérogation aux dispositions des alinéas précédents et sauf demande du médecin du travail, de l'employeur ou du travailleur, la visite de reprise n'est pas requise si l'ensemble des conditions suivantes sont réunies :
+
+a) Le travailleur a bénéficié d'une visite de préreprise prévue à l'article L. 4624-2-4 du code du travail dans les trente jours précédant sa reprise effective du travail ;
+
+b) Lors de cette visite de préreprise, le médecin du travail a conclu qu'aucune mesure individuelle d'aménagement, d'adaptation ou de transformation du poste ni aucune mesure d'aménagement du temps de travail n'était nécessaire en vue de la reprise.
 
 NOTA:
-Conformément au I de l’article 4 du décret n° 2023-139 du 27 février 2023, ces dispositions s'appliquent aux arrêts de travail commençant au lendemain de sa publication, à savoir au 1er mars 2023.
+Conformément à l'article 5 du décret n° 2026-503 du 12 juin 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux arrêts de travail délivrés à compter du lendemain de la publication dudit décret.

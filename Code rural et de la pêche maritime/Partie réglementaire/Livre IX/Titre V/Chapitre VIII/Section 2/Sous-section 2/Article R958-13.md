@@ -1,6 +1,8 @@
 # Article R958-13
 
-Les totaux admissibles de captures peuvent être répartis, par arrêté de l'autorité désignée à l'article R. * 911-3, entre les armements disposant d'une autorisation en cours de validité pour au moins un navire de pêche dans la zone économique mentionnée à l'article R. 958-12. La répartition de chaque total admissible de captures est effectuée en tenant compte :
+Les totaux admissibles de captures peuvent être répartis, par arrêté de l'autorité désignée à l'article R. * 911-3, entre les armements disposant d'une autorisation en cours de validité pour au moins un navire de pêche dans la zone économique mentionnée à l'article R. 958-12.
+
+La répartition de chaque total admissible de captures est effectuée en tenant compte :
 
 1° Des antériorités des armements dans la pêcherie ;
 

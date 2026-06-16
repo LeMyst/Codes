@@ -12,7 +12,7 @@ Au cours de l'examen de préreprise, le médecin du travail peut recommander :
 
 A cet effet, il s'appuie en tant que de besoin sur le service social de la caisse de mutualité sociale agricole ou sur celui de l'entreprise dès lors qu'il existe.
 
-Sauf opposition du travailleur, le médecin du travail informe l'employeur et le médecin-conseil de ces recommandations pour que toutes les mesures soient mises en œuvre en vue de favoriser le maintien dans l'emploi du travailleur.
+Sauf opposition du travailleur, le médecin du travail informe l'employeur de l'organisation de cet examen et également l'employeur et le médecin-conseil de ces recommandations pour que toutes les mesures soient mises en œuvre en vue de favoriser le maintien dans l'emploi du travailleur.
 
 NOTA:
-Conformément au I de l’article 4 du décret n° 2023-139 du 27 février 2023, ces dispositions s'appliquent aux arrêts de travail commençant au lendemain de sa publication, à savoir au 1er mars 2023.
+Conformément à l'article 5 du décret n° 2026-503 du 12 juin 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux arrêts de travail délivrés à compter du lendemain de la publication dudit décret.

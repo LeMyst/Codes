@@ -1,6 +1,8 @@
 # Article D371-9
 
-Pour l'application des articles D. 343-3 à D. 343-18-2 en Guadeloupe, en Martinique, à La Réunion et, sous réserve des dispositions des articles D. 371-11 et D. 371-12, en Guyane : 1° Au 2° de l'article D. 343-4 les mots : " des articles L. 722-4 à L. 722-7 " sont remplacés par les mots : " de l'article L. 781-9 " ;
+Pour l'application des articles D. 343-3 à D. 343-18-2 en Guadeloupe, en Martinique, à La Réunion et, sous réserve des dispositions des articles D. 371-11 et D. 371-12, en Guyane :
+
+1° Au 2° de l'article D. 343-4 les mots : " des articles L. 722-4 à L. 722-7 " sont remplacés par les mots : " de l'article L. 781-9 " ;
 
 2° Aux a et b du 4° de l'article D. 343-4 et au premier alinéa de l'article D. 343-4-1 la date du " 1er janvier 1971 " est remplacée par la date du " 1er janvier 1976 " ;
 

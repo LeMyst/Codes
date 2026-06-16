@@ -1,6 +1,8 @@
 # Article R571-17
 
-Pour son application à Mayotte, l'article R. 511-6 est ainsi rédigé : " Art. R. 511-6.-La chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte est composée :
+Pour son application à Mayotte, l'article R. 511-6 est ainsi rédigé :
+
+" Art. R. 511-6.-La chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte est composée :
 
 " 1° De membres des professions concernées élus au scrutin de liste départemental répartis entre les trois collèges suivants :
 

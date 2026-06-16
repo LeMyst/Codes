@@ -4,7 +4,7 @@ Pour l'application de l'article L. 37, les listes électorales comportent les in
 
 1° Données d'identification de l'électeur : nom, nom d'usage, prénoms, date de naissance, lieu de naissance ;
 
-2° Adresse au titre de laquelle l'électeur est inscrit sur la liste électorale ;
+2° Adresse au titre de laquelle l'électeur est inscrit sur la liste électorale, sous réserve de l'application du dernier alinéa de l'article L. 37 ;
 
 3° Numéro du bureau de vote ;
 

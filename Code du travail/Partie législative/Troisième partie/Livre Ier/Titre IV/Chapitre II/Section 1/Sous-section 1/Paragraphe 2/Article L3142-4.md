@@ -14,6 +14,6 @@ Pour mettre en œuvre le droit à congé du salarié défini à l'article L. 314
 
 5° Trois jours pour le décès du conjoint, du partenaire lié par un pacte civil de solidarité, du concubin, du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une sœur ;
 
-6° Cinq jours pour l'annonce de la survenue d'un handicap, d'une pathologie chronique nécessitant un apprentissage thérapeutique ou d'un cancer chez un enfant.
+6° Dix jours pour l'annonce de la survenue d'un handicap, d'une pathologie chronique nécessitant un apprentissage thérapeutique ou d'un cancer chez un enfant.
 
 Les jours de congés mentionnés au présent article sont des jours ouvrables.

@@ -1,6 +1,6 @@
 # Article L242-7
 
-La caisse d'assurance retraite et de la santé au travail peut accorder des ristournes sur la cotisation ou imposer des cotisations supplémentaires dans les conditions fixées par arrêté interministériel, pour tenir compte selon le cas, soit des mesures de prévention ou de soins prises par l'employeur, soit des risques exceptionnels présentés par l'exploitation, révélés notamment par une infraction constatée en application de l'article L. 611-10 du code du travail ou résultant d'une inobservation des mesures de prévention prescrites en application des articles L. 422-1 et L. 422-4 du présent code.
+La caisse d'assurance retraite et de la santé au travail peut accorder des ristournes sur la cotisation ou imposer des cotisations supplémentaires dans les conditions fixées par arrêté interministériel, pour tenir compte selon le cas, soit des mesures de prévention ou de soins prises par l'employeur, soit des risques exceptionnels présentés par l'exploitation, révélés notamment par une infraction constatée en application de l'article L. 8113-7 du code du travail ou résultant d'une inobservation des mesures de prévention prescrites en application des articles L. 422-1 et L. 422-4 du présent code.
 
 La cotisation supplémentaire est due à partir de la date à laquelle ont été constatés les risques exceptionnels ci-dessus mentionnés. Son taux, la durée pendant laquelle elle est due et son montant forfaitaire minimal sont fixés par arrêté.
 

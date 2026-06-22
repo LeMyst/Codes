@@ -131,7 +131,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Vienne | Poitiers | 20 | 4 |
 | Cour d'appel de Reims |
 | Ardennes | Sedan | 20 | 3 |
-| Aube | Troyes | 17 | 3 |
+| Aube | Troyes | 20 | 3 |
 | Marne | Châlons-en-Champagne | 12 | 2 |
 | | Reims | 32 | 5 |
 | Cour d'appel de Rennes |

@@ -34,7 +34,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 312-17 | Résultant du décret n° 2024-615 du 27 juin 2024 |
 | R. 312-18 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 312-19 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| R. 312-21 | Résultant du décret n° 2022-144 du 8 février 2022 |
+| R. 312-21 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 312-22 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 312-23 et R. 312-23-1 | Résultant du décret n° 2023-984 du 25 octobre 2023 |
 | R. 312-24 et R. 312-25 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
@@ -78,7 +78,9 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 312-66-8 | Résultant du décret n° 2018-1195 du 20 décembre 2018 |
 | R. 312-66-9 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 312-66-10 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
+| R. 312-66-11 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 312-66-11 à R. 312-67 | Résultant du décret n° 2018-542 du 29 juin 2018 |
+| R. 312-67 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 312-68 et R. 312-69 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 312-70 et R. 312-71 | Résultant du décret n° 2018-542 du 29 juin 2018 |
 | R. 312-72 | Résultant décret n° 2022-144 du 8 février 2022 |

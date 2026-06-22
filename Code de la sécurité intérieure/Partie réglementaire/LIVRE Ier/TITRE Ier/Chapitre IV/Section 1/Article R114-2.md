@@ -1,6 +1,6 @@
 # Article R114-2
 
-Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les décisions suivantes relatives aux emplois publics participant à l'exercice des missions de souveraineté de l'Etat ainsi qu'aux emplois publics ou privés relevant du domaine de la sécurité ou de la défense :
+Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les décisions suivantes relatives aux emplois publics participant à l'exercice des missions de souveraineté de l'Etat , aux emplois publics ou privés relevant du domaine de la sécurité ou de la défense ainsi qu'aux emplois publics et privés exposant leurs titulaires à des risques de corruption ou de menaces liées à la criminalité organisée :
 
 1° Autorisation ou habilitation :
 
@@ -34,7 +34,7 @@ n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350
 
 o) Des personnes physiques employées pour participer à l'activité de formation aux activités privées de sécurité ;
 
-p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense.
+p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense ;
 
 s) Des agents d'Ile-de-France Mobilités mentionnés à l'article R. 1241-66-19 du code des transports.
 
@@ -72,7 +72,9 @@ n) Despersonnels de l'Autorité de sûreté nucléaire et de radioprotection ;
 
 o) Des agents civils du ministère de la défense et de la gendarmerie nationale ;
 
-p) Des agents des préfectures et des sous-préfectures chargés de la délivrance des passeports et des cartes nationales d'identité.
+p) Des agents des préfectures et des sous-préfectures chargés de la délivrance des passeports et des cartes nationales d'identité ;
+
+q) Du président et des membres du directoire d'un grand port fluvio-maritime ou d'un grand port maritime en application de l'article L. 5312-9 du code des transports.
 
 4° Agrément :
 

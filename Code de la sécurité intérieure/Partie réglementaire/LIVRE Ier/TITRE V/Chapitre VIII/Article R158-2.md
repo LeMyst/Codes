@@ -10,16 +10,19 @@ Sont applicables dans les Terres australes et antarctiques françaises, sous ré
 | R. 113-1 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 113-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 114-1 | Résultant du décret n° 2018-141 du 27 février 2018 |
-| R. 114-2, sauf le k du 1° et le n du 4° | Résultant du décret n° 2025-1268 du 22 décembre 2025 autorisant la modification de diverses dispositions du décret n° 2016-1460 du 28 octobre 2016 modifié autorisant la création d'un traitement de données à caractère personnel relatif aux passeports et aux cartes nationales d'identité et modifiant diverses dispositions du code de la sécurité intérieure |
+| R. 114-2, sauf le k, le q et le r du 1°, le q du 3°, le n et le o du 4° | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 114-3 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 114-4 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 114-5 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
-| R. 114-6 et R. 114-6-1 | Résultant du décret n° 2018-141 du 27 février 2018 |
+| R. 114-6 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
+| R. 114-6-1 | Résultant du décret n° 2018-141 du 27 février 2018 |
 | R. 114-6-2 et R. 114-6-3 | Résultant du décret n° 2018-887 du 12 octobre 2018 |
 | R. 114-6-4 | Résultant du décret n° 2018-141 du 27 février 2018 |
 | R. 114-6-5 et R. 114-6-6 | Résultant du décret n° 2018-887 du 12 octobre 2018 |
 | R. 114-7 | Résultant du décret n° 2022-770 du 2 mai 2022 |
-| R. 114-8 à R. 114-10 | Résultant du décret n° 2017-757 du 3 mai 2017 |
+| R. 114-8 | Résultant du décret n° 2017-757 du 3 mai 2017 |
+| R. 114-9 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
+| R. 114-10 | Résultant du décret n° 2017-757 du 3 mai 2017 |
 | Au titre II | |
 | R. 122-17 à R. 122-23 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 122-24 | Résultant du décret n° 2017-207 du 20 février 2017 |

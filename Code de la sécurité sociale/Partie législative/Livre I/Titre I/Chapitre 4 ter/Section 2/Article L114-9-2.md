@@ -1,0 +1,5 @@
+# Article L114-9-2
+
+Lorsque l'organisme d'assurance maladie complémentaire de l'assuré a connaissance de faits pouvant être de nature à constituer une fraude et que l'importance ou la nature de la fraude le justifie, dans des conditions définies par décret en Conseil d'Etat, il communique aux agents chargés du contrôle mentionnés à l'article L. 114-10 du présent code ou à l'article L. 724-7 du code rural et de la pêche maritime de l'organisme compétent les informations strictement nécessaires à l'identification de l'auteur de ces faits et des actes et des prestations sur lesquels ils portent.
+
+Les informations transmises ne peuvent être conservées par l'organisme d'assurance maladie obligatoire qu'aux fins de déclencher ou de poursuivre la procédure de contrôle ou d'enquête mentionnée au II de l'article L. 114-9 du présent code, de constater et, le cas échéant, d'exercer ou de défendre des droits en justice et de mettre en œuvre une procédure de sanction administrative prévue à l'article L. 114-17-1 ou l'une des procédures de placement hors de la convention définies aux articles L. 162-15-1 et L. 162-32-3 pour les organismes d'assurance maladie obligatoire.

@@ -46,7 +46,7 @@ IV.-Par dérogation au I, sont assujettis à la contribution sociale au taux de 
 
 5° Les produits, rentes viagères et rentes d'épargne mentionnés au 4° du même II.
 
-IV bis.-Abrogé
+IV bis. - Par dérogation au I, sont assujetties à la contribution sociale au taux de 25 % les sommes mentionnées au a du II de l'article L. 136-6 qui sont soumises à l'impôt sur le revenu en application de l'article 1649 quater-0 B bis du code général des impôts.
 
 V.-Abrogé
 
@@ -57,12 +57,4 @@ VI.-1. L'Agence centrale des organismes de sécurité sociale est chargée de ce
 1. Pour l'application du présent VI, le montant global des contributions et prélèvements sociaux mentionnés à l'article L. 138-21 qui est reversé par l'Etat à l'agence est réparti entre les affectataires de ces contributions et prélèvements au prorata des taux des contributions et prélèvements qui leur sont affectés à la date de leur fait générateur.
 
 NOTA:
-Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
-
-Conformément au II de l'article 12 de la loi n° 2025-1043 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article 12 précité, s'appliquent :
-
-1° A compter de l'imposition des revenus de l'année 2025 en ce qui concerne la contribution mentionnée à l'article L. 136-6 du code de la sécurité sociale, sous réserve du II de l'article 34 de la loi n° 2016-1918 du 29 décembre 2016 de financement rectificative pour 2016 ;
-
-2° A compter du 1 er janvier 2026 en ce qui concerne la contribution mentionnée à l'article L. 136-7 du code de la sécurité sociale, à l'exception des produits mentionnés aux 1° et 2° du C du V de l'article 8 de la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018 et des autres produits constatés mentionnés aux C et D du même V acquis ou constatés avant le 1 er janvier 2026.
-
-Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.
+Conformément à la première phrase du IV de l'article 65 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction issue du 2° du I de l'article précité, s'appliquent aux revenus imposables au titre de l'année 2026 et des années suivantes.

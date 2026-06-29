@@ -10,7 +10,9 @@ Le service de l'indemnité journalière est subordonné à l'obligation pour le 
 
 4° De s'abstenir de toute activité non autorisée ;
 
-5° D'informer sans délai la caisse de toute reprise d'activité intervenant avant l'écoulement du délai de l'arrêt de travail.
+5° D'informer sans délai la caisse de toute reprise d'activité intervenant avant l'écoulement du délai de l'arrêt de travail ;
+
+6° D'informer sans délai la caisse de l'adresse à laquelle le contrôle prévu au même article L. 315-2 peut être réalisé si le bénéficiaire réside à une autre adresse que celle initialement indiquée sur la prescription.
 
 En cas d'inobservation volontaire de ces obligations, le bénéficiaire restitue à la caisse les indemnités versées correspondantes, dans les conditions prévues à l'article L. 133-4-1.
 

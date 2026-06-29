@@ -2,7 +2,7 @@
 
 Le droit de communication permet d'obtenir, sans que s'y oppose le secret professionnel, les documents et informations nécessaires :
 
-1° Aux agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale pour contrôler la sincérité et l'exactitude des déclarations souscrites ou l'authenticité des pièces produites en vue de l'attribution et du paiement des prestations servies par lesdits organismes ;
+1° Aux agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale pour contrôler la sincérité et l'exactitude des déclarations souscrites ou l'authenticité des pièces produites en vue de l'attribution et du paiement des prestations servies par lesdits organismes et établir l'octroi de l'un des avantages prévus aux articles L. 221-1-5, L. 242-7 ou L. 422-5 du présent code ainsi qu'aux articles L. 4163-16 et L. 4163-18 du code du travail ;
 
 2° Aux agents chargés du contrôle mentionnés aux articles L. 243-7 du présent code et L. 724-7 du code rural et de la pêche maritime pour accomplir leurs missions de contrôle définies aux mêmes articles et leur mission de lutte contre le travail dissimulé définie aux articles L. 8271-7 à L. 8271-12 du code du travail (1) ;
 
@@ -10,7 +10,9 @@ Le droit de communication permet d'obtenir, sans que s'y oppose le secret profes
 
 4° Aux agents des organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et à l'article L. 725-3 du code rural et de la pêche maritime pour le recouvrement des créances relatives à une infraction aux interdictions de travail dissimulé mentionnées à l'article L. 8221-1 du code du travail ;
 
-5° Aux directeurs et aux directeurs comptables et financiers des organismes mentionnés aux articles L. 213-1 et L. 752-4 du présent code et aux agents placés sous leur autorité pour accomplir les actions de contrôle et de lutte contre la fraude mentionnées à l'article L. 114-9.
+5° Aux directeurs et aux directeurs comptables et financiers des organismes mentionnés aux articles L. 211-1, L. 212-1, L. 213-1, L. 215-1, L. 215-3 et L. 752-4 du présent code et à l'article L. 723-2 du code rural et de la pêche maritime et aux agents placés sous leur autorité pour accomplir les actions de contrôle et de lutte contre la fraude mentionnées à l'article L. 114-9 du présent code ;
+
+6° Aux agents des services mentionnés à l'article L. 262-15 du code de l'action sociale et des familles désignés par le président du conseil départemental, assermentés et agréés dans des conditions définies par arrêté du ministre chargé de la solidarité, afin de mener les actions de contrôle et de lutte contre la fraude relative au revenu de solidarité active.
 
 Le droit prévu au premier alinéa peut porter sur des informations relatives à des personnes non identifiées, dans des conditions fixées par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. Les données ainsi obtenues par les organismes mentionnés à l'article L. 213-1 du présent code et les organismes mentionnés à l'article L. 723-2 du code rural et de la pêche maritime peuvent, au titre de l'accomplissement de leurs missions de contrôle et de lutte contre le travail dissimulé, faire l'objet d'une interconnexion avec les données dont ces mêmes organismes disposent. Les modalités de l'interconnexion sont définies par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
 
@@ -20,6 +22,6 @@ Les documents et informations sont communiqués à titre gratuit, par voie déma
 
 Le silence gardé ou le refus de déférer à une demande relevant du premier alinéa du présent article est puni d'une pénalité de 1 500 € par cotisant, assuré ou allocataire concerné, sans que le total de la pénalité puisse être supérieur à 10 000 €.
 
-Le silence gardé ou le refus de déférer à une demande relevant du septième alinéa du présent article est puni d'une pénalité de 5 000 €. Cette pénalité s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.
+Le silence gardé ou le refus de déférer à une demande relevant du huitième alinéa du présent article est puni d'une pénalité de 5 000 €. Cette pénalité s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.
 
 Ces montants sont doublés en cas de récidive de refus ou de silence gardé du tiers dans le délai de cinq ans à compter de l'expiration du délai de trente jours octroyé au tiers pour faire droit à la première demande de l'organisme de sécurité sociale.

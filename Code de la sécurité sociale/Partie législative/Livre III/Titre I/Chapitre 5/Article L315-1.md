@@ -14,6 +14,8 @@ Lorsqu'un contrôle effectué par un médecin à la demande de l'employeur, en a
 
 III.-Le service du contrôle médical procède à l'analyse, sur le plan médical, de l'activité des établissements de santé mentionnés aux articles L. 162-29 et L. 162-29-1 dans lesquels sont admis des bénéficiaires de l'assurance maladie, de l'aide médicale de l'Etat ou de la prise en charge des soins urgents mentionnée à l'article L. 254-1 du code de l'action sociale et des familles, notamment au regard des règles définies en application des dispositions de l'article L. 162-1-7.
 
+Lorsque le service du contrôle médical de la caisse ne suit pas l'avis du médecin diligenté par l'employeur, il en informe ce dernier par un avis écrit motivé. Le non-respect de cette obligation n'a aucun effet sur les droits des salariés ou des employeurs et n'ouvre droit à aucun recours.
+
 III. bis.-Le service du contrôle médical procède auprès des établissements de santé visés à l'article L. 162-22, des pharmaciens et des distributeurs de produits ou prestations, dans le respect des règles déontologiques, aux contrôles nécessaires en matière de délivrance et de facturation de médicaments, produits ou prestations donnant lieu à remboursement par les caisses d'assurance maladie ou à prise en charge par l'Etat en application des articles L. 251-2 ou L. 254-1 du code de l'action sociale et des familles.
 
 IV.-Il procède également à l'analyse, sur le plan médical, de l'activité des professionnels de santé dispensant des soins aux bénéficiaires de l'assurance maladie, de l'aide médicale de l'Etat ou de la prise en charge des soins urgents mentionnée à l'article L. 254-1 du code de l'action sociale et des familles, notamment au regard des règles définies par les conventions qui régissent leurs relations avec les organismes d'assurance maladie ou, en ce qui concerne les médecins, du règlement mentionné à l'article L. 162-14-2. La procédure d'analyse de l'activité se déroule dans le respect des droits de la défense selon des conditions définies par décret.
@@ -29,8 +31,3 @@ VI.-Le service du contrôle médical transmet, sauf opposition du bénéficiaire
 VII.-Le service du contrôle médical peut, en application de l'article L. 1435-7 du code de la santé publique, procéder au contrôle du recueil des indicateurs de qualité et de sécurité des soins mentionnés aux articles L. 6144-1 et L. 6161-2-2 du même code.
 
 VIII.-Les missions du service du contrôle médical sont exercées par les praticiens conseils. Ceux-ci peuvent déléguer, sous leur responsabilité, la réalisation de certains actes et de certaines activités au personnel du contrôle médical disposant de la qualification nécessaire. Lorsque ces délégations concernent des auxiliaires médicaux, lesdites missions sont exercées dans la limite de leurs compétences prévues par le code de la santé publique. Lorsque, dans le cadre de ces délégations, des auxiliaires médicaux rendent des avis qui commandent l'attribution et le service de prestations, elles s'exercent dans le cadre d'un protocole écrit.
-
-NOTA:
-Conformément à l’article 4 du décret n° 2025-599 du 30 juin 2025, ces dispositions entrent en vigueur le 1er octobre 2025.
-
-Les activités et les personnels des échelons locaux et régionaux du service du contrôle médical du régime général restent régis, jusqu'à leur transfert aux caisses locales et au plus tard jusqu'au 31 décembre 2025, par les dispositions antérieurement applicables.

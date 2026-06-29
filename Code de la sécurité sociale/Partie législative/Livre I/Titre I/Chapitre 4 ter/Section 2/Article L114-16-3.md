@@ -12,8 +12,14 @@ Les agents mentionnés au premier alinéa de l'article L. 114-16-1 sont les suiv
 
 5° Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail désignés par son directeur général à cet effet ;
 
-6° Les agents de l'organisme mentionné à l'article L. 5427-1 du même code désignés par son directeur général à cet effet et les agents agissant en application de l'article L. 3253-14 du même code désignés par le directeur de l'institution prévue au premier alinéa du même article à cet effet ;
+6° Les agents de l'organisme mentionné à l'article L. 5427-1 du même code désignés par son directeur général à cet effet et les agents mentionnés au deuxième alinéa de l'article L. 3253-17-1 dudit code ;
 
 7° Les agents de chaque organisme mentionné à l'article L. 1431-1 du code de la santé publique désignés par le directeur de chacun de ces organismes ;
 
-8° Les agents consulaires.
+8° Les agents consulaires .
+
+9° Les agents désignés à cet effet par le directeur de la maison départementale des personnes handicapées mentionnée à l'article L. 146-3 du code de l'action sociale et des familles ou des services qui en exercent les missions en application des articles L. 531-8, L. 582-2 et L. 583-2 du même code ;
+
+10° Les agents des services mentionnés à l'article L. 232-16 dudit code et ceux exerçant les missions mentionnées aux articles L. 133-2 et L. 245-5 du même code, désignés à cet effet par le président du conseil départemental ;
+
+11° Les agents de la police nationale, de la gendarmerie nationale ou des douanes affectés à un organisme de coopération transfrontalière policière et douanière.

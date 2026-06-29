@@ -1,0 +1,3 @@
+# Article L114-9-5
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés et de l'Union nationale des caisses d'assurance maladie, précise les conditions et les modalités de mise en œuvre des échanges d'informations prévus aux articles L. 114-9-1 à L. 114-9-4, notamment les conditions d'habilitation du personnel de l'organisme d'assurance maladie complémentaire concerné ainsi que les modalités d'information des assurés et des professionnels concernés par ces échanges. Il définit le rôle, les attributions et les garanties de sécurité de l'intermédiaire mentionné à l'article L. 114-9-4.

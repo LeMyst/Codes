@@ -1,0 +1,5 @@
+# Article L931-3-9
+
+Les institutions de prévoyance et leurs unions sont autorisées à traiter, en application du h du paragraphe 2 de l'article 9 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les données à caractère personnel relatives à la santé de leurs membres participants et ayants droit couverts par un contrat ou par un règlement conclu pour le remboursement et l'indemnisation des frais occasionnés par une maladie, une maternité ou un accident, notamment les numéros de code des actes effectués et des prestations servies.
+
+Elles sont également autorisées à traiter les données d'identification et de facturation des professionnels et des organismes ou des établissements ayant prescrit ou dispensé ces actes ou ces prestations.

@@ -20,7 +20,9 @@ Ont également accès aux données de ce répertoire :
 
 6° Sous réserve d'être individuellement désignés et dûment habilités, dans le cadre de leurs missions, les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 du code du travail, les officiers et agents de police judiciaire, les agents des douanes et des services fiscaux, y compris ceux habilités à effectuer des enquêtes judiciaires en application des articles 28-1 et 28-2 du code de procédure pénale, les agents du service à compétence nationale prévu à l'article L. 561-23 du code monétaire et financier ;
 
-7° Sous réserve d'être individuellement désignés et dûment habilités, dans le cadre de leurs missions, les agents diplomatiques et consulaires dont les fonctions sont énumérées dans la convention de Vienne sur les relations consulaires du 24 avril 1963 ainsi que les agents placés sous leur autorité, chargés dans les postes diplomatiques et consulaires des fonctions de lutte contre la fraude.
+7° Sous réserve d'être individuellement désignés et dûment habilités, dans le cadre de leurs missions, les agents diplomatiques et consulaires dont les fonctions sont énumérées dans la convention de Vienne sur les relations consulaires du 24 avril 1963 ainsi que les agents placés sous leur autorité, chargés dans les postes diplomatiques et consulaires des fonctions de lutte contre la fraude ;
+
+8° Sous réserve d'être individuellement désignés et dûment habilités dans le cadre de leurs missions relatives à la lutte contre la fraude, les agents des services du représentant de l'Etat dans le département.
 
 Le répertoire contient les données communes d'identification des individus, les informations relatives à leur affiliation aux différents régimes concernés, à leur rattachement à l'organisme qui leur sert les prestations ou avantages, à la nature de ces derniers, l'adresse déclarée aux organismes pour les percevoir, ainsi que les informations permettant d'attester du respect des conditions de résidence. Au 1er janvier 2016, il contient également le montant des prestations en espèces servies par les organismes mentionnés au premier alinéa.
 

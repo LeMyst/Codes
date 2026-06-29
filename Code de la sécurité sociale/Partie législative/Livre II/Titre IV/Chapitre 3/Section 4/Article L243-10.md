@@ -1,0 +1,13 @@
+# Article L243-10
+
+I. - Dans le cas où un contrôle est effectué en application de l'article L. 243-7 pour rechercher des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail, tout agent chargé du contrôle peut être autorisé à être identifié dans l'ensemble des opérations de contrôle et des actes de procédure subséquents, à défaut de ses nom et prénom, par un numéro d'immatriculation administrative, complété par sa qualité et son service d'affectation, lorsque la révélation de son identité est susceptible, compte tenu des conditions d'exercice de sa mission, de mettre en danger sa vie ou son intégrité physique ou celles de ses proches.
+
+L'autorisation est délivrée nominativement par le directeur de l'organisme dont relève l'agent concerné. Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+II. - Lorsque, dans le cadre d'une procédure engagée devant une juridiction administrative ou judiciaire, la solution du litige dépend d'une question relative à un acte faisant l'objet d'une signature numérotée, les nom et prénom de la personne identifiée par un numéro d'immatriculation sont communiqués, à sa demande, à la juridiction ou au magistrat délégué par celle-ci, sans être versés au dossier de la procédure.
+
+Saisie par une partie à la procédure d'une requête écrite et motivée tendant à la communication des nom et prénom d'une personne bénéficiaire d'une autorisation délivrée en application du I, la juridiction décide des suites à donner à cette requête en tenant compte, d'une part, de la menace que la révélation de l'identité de cette personne ferait peser sur sa vie ou son intégrité physique ou celles de ses proches et, d'autre part, de la nécessité de communiquer cette identité pour l'exercice des droits de la défense de l'auteur de la demande. Le procureur de la République se prononce dans les mêmes conditions lorsqu'il est fait application des articles L. 3324-1 à L. 3324-13 du code de procédure pénale.
+
+En cas de demande d'annulation d'un acte de procédure fondée sur la violation des formes prescrites par la loi à peine de nullité ou sur l'inobservation des formalités substantielles dont l'appréciation nécessite la révélation des nom et prénom du bénéficiaire d'une autorisation délivrée en application du I du présent article, la juridiction saisie statue sans verser ces éléments au dossier de la procédure ni indiquer dans sa décision les nom et prénom du bénéficiaire de cette autorisation.
+
+III. - La révélation des nom et prénom du bénéficiaire d'une autorisation délivrée en application du I ou de tout élément permettant son identification personnelle ou sa localisation est punie des peines prévues à l'article L. 2221-15 du code de procédure pénale.

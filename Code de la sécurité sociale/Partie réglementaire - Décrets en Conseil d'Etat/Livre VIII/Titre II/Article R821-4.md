@@ -1,6 +1,6 @@
 # Article R821-4
 
-I. - Lorsque le demandeur ou le bénéficiaire de l'allocation aux adultes handicapés ne perçoit pas de revenu d'activité professionnelle ou que ses revenus d'activité sont exclusivement issus d'un travail dans un établissement ou un service d'accompagnement par le travail mentionnés à l'article L. 344-2 du code de l'action sociale et des familles, la condition de ressources prévue à l'article L. 821-3 s'applique conformément aux dispositions du présent article.
+I. - Lorsque le demandeur ou le bénéficiaire de l'allocation aux adultes handicapés ne perçoit pas de revenu d'activité professionnelle, la condition de ressources prévue à l'article L. 821-3 s'applique conformément aux dispositions du présent article.
 
 II. - La condition de ressources s'apprécie au regard des revenus perçus par le demandeur ou le bénéficiaire au cours de l'année civile de référence mentionnée à l'article R. 532-3.
 

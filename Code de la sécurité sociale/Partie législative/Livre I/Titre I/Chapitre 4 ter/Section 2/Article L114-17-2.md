@@ -26,6 +26,6 @@ La commission mentionnée au premier alinéa du présent II apprécie la respons
 
 L'avis de la commission est adressé simultanément au directeur de l'organisme et à l'intéressé.
 
-III.-Lorsque la pénalité est prononcée par le directeur de l'organisme mentionné à l'article L. 114-17, elle peut être prononcée sans solliciter l'avis de la commission mentionnée au II du présent article dans les cas où le préjudice constaté par la caisse ne dépasse pas un montant de quatre fois le plafond mensuel de la sécurité sociale.
+III.-Lorsque la pénalité est prononcée par le directeur de l'organisme mentionné aux articles L. 114-17 et L. 114-17-1, elle peut être prononcée sans solliciter l'avis de la commission mentionnée au II du présent article dans les cas où le préjudice constaté par la caisse ne dépasse pas un montant de huit fois le plafond mensuel de la sécurité sociale.
 
 IV.-Lorsque la pénalité est prononcée par le directeur de l'organisme mentionné à l'article L. 114-17-1, elle peut être prononcée sans solliciter l'avis de la commission mentionnée au II du présent article dans les cas de fraude définis par voie réglementaire.

@@ -26,6 +26,10 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 7° ter Aux agents du service à compétence nationale mentionné à l'article L. 561-23 du code monétaire et financier, pour l'exercice de leurs missions ;
 
+7° quater Aux agents habilités des organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et à l'article L. 723-2 du code rural et de la pêche maritime pour accomplir les actions de contrôle et de lutte contre la fraude mentionnées à l'article L. 114-9 du code de la sécurité sociale ;
+
+7° quinquies Aux agents habilités des services des départements mentionnés à l'article L. 262-15 du code de l'action sociale et des familles afin de prévenir la fraude liée au revenu de solidarité active et de lutter contre celle-ci ;
+
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
 
 8° bis Aux personnels habilités du fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1 du code des assurances en vue de mener les missions fixées au V du même article ;

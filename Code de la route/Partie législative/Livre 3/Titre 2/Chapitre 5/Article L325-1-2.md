@@ -22,9 +22,19 @@ b) Ou pour déposer ou laisser sans nécessité sur la voie publique des matéri
 
 8° En cas de refus d'obtempérer commis dans les conditions prévues à l'article L. 233-1.
 
+9° Lorsque le véhicule a été utilisé dans l'une des circonstances suivantes :
+
+a) Pour exercer l'activité d'exploitant de taxi sans être titulaire de l'autorisation de stationnement mentionnée à l'article L. 3121-1 du code des transports ;
+
+b) Pour exercer l'activité d'exploitant mentionnée à l'article L. 3122-1 du même code en contrevenant à l'article L. 3122-3 dudit code ;
+
+c) Pour contrevenir aux I, II ou 2° ou 3° du III de l'article L. 3120-2 du même code ;
+
+d) Pour réaliser des prestations de transport relevant du titre II du livre Ier de la troisième partie du même code, lorsque le conducteur ne dispose pas de la carte professionnelle mentionnée à l'article L. 3120-2-2 du même code correspondant à l'activité pratiquée.
+
 Ils en informent immédiatement, par tout moyen, le procureur de la République, sauf s'il a été fait recours à la procédure de l'amende forfaitaire.
 
-Si les vérifications prévues à l'article L. 235-2 ne permettent pas d'établir que la personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants, l'immobilisation et la mise en fourrière sont immédiatement levées.
+Si les vérifications prévues à l'article L. 235-2 du présent code ne permettent pas d'établir que la personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants, l'immobilisation et la mise en fourrière sont immédiatement levées.
 
 Si les deux conditions prévues aux 3° et 4° sont remplies, l'immobilisation et la mise en fourrière sont de plein droit.
 

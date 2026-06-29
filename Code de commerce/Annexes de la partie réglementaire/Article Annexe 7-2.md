@@ -164,6 +164,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 | Tarn-et-Garonne | Montauban | 15 | 3 |
 | Cour d'appel de Versailles |
 | Eure-et-Loir | Chartres | 24 | 4 |
-| Hauts-de-Seine | Nanterre | 72 | 10 |
-| Val-d'Oise | Pontoise | 50 | 8 |
+| Hauts-de-Seine | Nanterre | 77 | 10 |
+| Val-d'Oise | Pontoise | 55 | 8 |
 | Yvelines | Versailles | 50 | 8 |

@@ -1,0 +1,3 @@
+# Article L5312-15
+
+Pour l'accomplissement de leur mission de lutte contre la fraude, les agents chargés de la prévention des fraudes assermentés et agréés mentionnés à l'article L. 5312-13-1 ainsi que les agents chargés du contrôle et de la lutte contre la fraude mentionnés à l'article L. 114-10-1 du code de la sécurité sociale peuvent interroger les services du ministre des affaires étrangères tenant le registre mentionné à l'article L. 12 du code électoral, à la seule fin de contrôler le respect de la condition de résidence en France, lorsque les allocations mentionnées à l'article L. 5421-2 du présent code sont soumises à une telle condition.

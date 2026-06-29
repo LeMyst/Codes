@@ -2,7 +2,7 @@
 
 Tout salarié ayant une année d'ancienneté dans l'entreprise bénéficie, en cas d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident constaté par certificat médical et contre-visite s'il y a lieu, d'une indemnité complémentaire à l'allocation journalière prévue à l'article L. 321-1 du code de la sécurité sociale, à condition :
 
-1° D'avoir justifié dans les quarante-huit heures de cette incapacité, sauf si le salarié fait partie des personnes mentionnées à l'article L. 169-1 du code de la sécurité sociale ;
+1° D'avoir justifié dans les quarante-huit heures de cette incapacité, sauf si le salarié fait partie des personnes mentionnées à l'article L. 169-1 du même code ;
 
 2° D'être pris en charge par la sécurité sociale ;
 
@@ -10,6 +10,8 @@ Tout salarié ayant une année d'ancienneté dans l'entreprise bénéficie, en c
 
 Ces dispositions ne s'appliquent pas aux salariés travaillant à domicile, aux salariés saisonniers, aux salariés intermittents et aux salariés temporaires.
 
-Un décret en Conseil d'Etat détermine les formes et conditions de la contre-visite mentionnée au premier alinéa.
+Ces dispositions ne s'appliquent pas en cas de fraude avérée du salarié afin d'obtenir le versement des indemnités journalières mentionnées à l'article L. 321-1 dudit code ou au 2° de l'article L. 431-1 du même code dont l'employeur a été informé en application du VI de l'article L. 114-9 du même code.
+
+Un décret en Conseil d'Etat détermine les formes et conditions de la contre-visite mentionnée au premier alinéa du présent article.
 
 Le taux, les délais et les modalités de calcul de l'indemnité complémentaire sont déterminés par voie réglementaire.

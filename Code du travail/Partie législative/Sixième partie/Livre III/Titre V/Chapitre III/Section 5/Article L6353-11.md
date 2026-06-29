@@ -1,0 +1,5 @@
+# Article L6353-11
+
+Aux fins de prévention de la fraude et en vue d'assurer la qualité des actions de formation, les prestataires de formation mentionnés à l'article L. 6351-1 communiquent, par voie dématérialisée, aux ministères et aux organismes certificateurs, pour les certifications professionnelles mentionnées à l'article L. 6113-5 et leurs blocs de compétences ou pour les certifications et habilitations mentionnées à l'article L. 6113-6 qui les concernent, la liste des stagiaires ayant débuté une action de formation ou de validation des acquis de l'expérience conduisant à l'obtention de ces certifications professionnelles, certifications et habilitations ainsi que la liste des stagiaires ayant interrompu une telle action.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article, notamment les modalités de collecte, de traitement et d'échange des données à caractère personnel, y compris les données nécessaires à l'identification des stagiaires, dont le numéro d'inscription au répertoire national d'identification des personnes physiques.

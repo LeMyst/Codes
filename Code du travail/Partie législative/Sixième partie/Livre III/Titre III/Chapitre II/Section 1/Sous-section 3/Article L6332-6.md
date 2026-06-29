@@ -18,4 +18,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 8° Les conditions de gestion des versements mentionnés à l'article L. 6123-5 ;
 
-9° La définition et les modalités de fixation du plafond des dépenses pouvant être négociées dans le cadre de la convention prévue à l'article L. 6332-2 relatives aux frais de gestion, d'information et de mission des opérateurs de compétences.
+9° La définition et les modalités de fixation du plafond des dépenses pouvant être négociées dans le cadre de la convention prévue à l'article L. 6332-2 relatives aux frais de gestion, d'information et de mission des opérateurs de compétences ;
+
+10° Les modalités de mutualisation des contrôles mentionnés au 8° de l'article L. 6332-1, d'échanges d'informations et d'organisation d'actions de prévention de la fraude avec les services du ministre chargé de la formation professionnelle, qui peuvent prendre la forme d'un groupement d'intérêt public.

@@ -8,11 +8,11 @@ Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
 
 3° Les agents des impôts et des douanes ;
 
-4° Les agents des organismes de sécurité sociale et des caisses de mutualité sociale agricole agréés à cet effet et assermentés ;
+4° Les agents des organismes de sécurité sociale, des caisses de mutualité sociale agricole et de leur caisse nationale ou centrale agréés à cet effet et assermentés ;
 
 5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
-6° Les fonctionnaires des corps techniques de l'aviation civile commissionnés à cet effet et assermentés ;
+6° Les fonctionnaires des corps techniques et administratifs de l'aviation civile chargés de la lutte contre le travail illégal commissionnés à cet effet et assermentés ;
 
 7° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ;
 

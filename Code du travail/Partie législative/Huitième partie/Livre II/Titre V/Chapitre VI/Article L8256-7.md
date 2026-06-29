@@ -8,4 +8,4 @@ Les personnes morales reconnues pénalement responsables, dans les conditions pr
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
-Lorsqu'une amende est prononcée, la juridiction peut ordonner que la diffusion prévue au 9° du même article 131-39 soit opérée, pour une durée maximale de deux ans, par les services du ministre chargé du travail sur un site internet dédié, dans des conditions prévues par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+La juridiction peut ordonner que la diffusion prévue au 9° du même article 131-39 soit opérée, pour une durée maximale de deux ans, par les services du ministre chargé du travail sur un site internet, dans des conditions prévues par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.

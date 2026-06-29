@@ -4,6 +4,10 @@ I.-Sont éligibles au compte personnel de formation les actions de formation san
 
 Un décret fixe, pour chaque action sanctionnée par des certifications et habilitations enregistrées dans le répertoire spécifique mentionné au même article L. 6113-6, à l'exception de celles menant à la certification relative au socle de connaissances et de compétences professionnelles, un plafond de droits mobilisables inscrits sur le compte personnel de formation en application des articles L. 6323-11, L. 6323-27 et L. 6323-34.
 
+Toutefois, lorsque, sans motif légitime apprécié selon des modalités déterminées par décret, le titulaire du compte personnel de formation ne se présente pas aux évaluations et épreuves d'examen prévues par le ministère ou l'organisme certificateur, le titulaire ne peut mobiliser les droits inscrits sur son compte pour s'acquitter du règlement de l'organisme de formation. La Caisse des dépôts et consignations demande au titulaire le remboursement des sommes déjà utilisées, le cas échéant selon les modalités prévues aux articles L. 6323-45 à L. 6323-45-2.
+
+Le titulaire du compte personnel de formation ne peut mobiliser les droits inscrits sur son compte pour financer une action de formation sanctionnée par une certification ou la validation d'un bloc de compétences mentionnée au premier alinéa du présent I qui a été précédemment obtenue ou validée, à l'exception d'une certification visant à atteindre un niveau de connaissance d'une langue.
+
 II.-Sont également éligibles au compte personnel de formation :
 
 1° Les actions permettant de faire valider les acquis de l'expérience mentionnées au 3° de l'article L. 6313-1 ;

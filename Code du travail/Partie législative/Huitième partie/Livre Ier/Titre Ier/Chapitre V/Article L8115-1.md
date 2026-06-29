@@ -10,4 +10,6 @@ L'autorité administrative compétente peut, sur rapport de l'agent de contrôle
 
 4° Aux dispositions relatives à la détermination du salaire minimum de croissance prévues aux articles L. 3231-1 à L. 3231-11 et aux dispositions relatives au salaire minimum fixé par la convention collective ou l'accord étendu applicable à l'entreprise, et aux mesures réglementaires prises pour leur application ;
 
-5° Aux dispositions prises pour l'application des obligations de l'employeur relatives aux installations sanitaires, à la restauration et à l'hébergement prévues au chapitre VIII du titre II du livre II de la quatrième partie, ainsi qu'aux mesures relatives aux prescriptions techniques de protection durant l'exécution des travaux de bâtiment et génie civil prévues au chapitre IV du titre III du livre V de la même partie pour ce qui concerne l'hygiène et l'hébergement.
+5° Aux dispositions prises pour l'application des obligations de l'employeur relatives aux installations sanitaires, à la restauration et à l'hébergement prévues au chapitre VIII du titre II du livre II de la quatrième partie, ainsi qu'aux mesures relatives aux prescriptions techniques de protection durant l'exécution des travaux de bâtiment et génie civil prévues au chapitre IV du titre III du livre V de la même partie pour ce qui concerne l'hygiène et l'hébergement ;
+
+6° Aux dispositions des I et II de l'article L. 4121-3-1 relatives au document unique d'évaluation des risques professionnels et aux mesures réglementaires prises pour leur application, en cas d'absence du document.

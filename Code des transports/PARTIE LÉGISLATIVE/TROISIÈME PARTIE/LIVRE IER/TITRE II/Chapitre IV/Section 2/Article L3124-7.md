@@ -1,6 +1,6 @@
 # Article L3124-7
 
-I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de contrevenir à l'article L. 3122-3.
+I.-Est puni de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'exercer l'activité prévue à l'article L. 3122-1 sans être inscrit au registre mentionné à l'article L. 3122-3.
 
 II.-Les personnes physiques reconnues coupables de l'infraction prévue au I encourent également les peines complémentaires suivantes :
 
@@ -8,7 +8,9 @@ II.-Les personnes physiques reconnues coupables de l'infraction prévue au I enc
 
 2° L'immobilisation, pour une durée maximale d'un an, du véhicule qui a servi à commettre l'infraction ;
 
-3° La confiscation du véhicule qui a servi à commettre l'infraction.
+3° La confiscation du véhicule qui a servi à commettre l'infraction ;
+
+4° L'interdiction de paraître dans certains lieux ou dans certaines catégories de lieux prévue au 12° de l'article 131-6 du code pénal.
 
 III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de l'infraction prévue au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
 

@@ -44,9 +44,9 @@ VIII. – Le défaut de production, sur demande de l'administration, de l'attest
 
 IX. – Les infractions à l'article 242 ter E sont passibles d'une amende de 100 € par profit ou par perte non déclaré et qui ne peut excéder 50 000 € par déclaration. L'amende n'est pas applicable, en cas de première infraction commise au cours de l'année civile en cours et des trois années précédentes, lorsque les intéressés ont réparé leur omission soit spontanément, soit à la première demande de l'administration avant la fin de l'année au cours de laquelle la déclaration devait être souscrite.
 
-X. – Les infractions à l'article 1649 bis C sont passibles d'une amende de 750 € par portefeuille non déclaré ou de 125 € par omission ou inexactitude, dans la limite de 10 000 € par déclaration.
+X. – Les infractions à l'article 1649 bis C sont passibles d'une amende de 750 € par portefeuille ou par crypto-actif unique et non fongible non déclarés ou de 125 € par omission ou inexactitude, dans la limite de 10 000 € par déclaration.
 
-Les montants de 750 € et 125 € mentionnés au premier alinéa du présent X sont respectivement portés à 1 500 € et 250 € lorsque la valeur vénale des portefeuilles d'actifs numériques ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger est supérieure à 50 000 € à un moment quelconque de l'année concernée par l'obligation déclarative prévue à l'article 1649 bis C.
+Les montants de 750 € et 125 € mentionnés au premier alinéa du présent X sont respectivement portés à 1 500 € et 250 € lorsque la valeur vénale des crypto-actifs uniques et non fongibles détenus ou utilisés à l'étranger ou celle des portefeuilles de crypto-actifs ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger est supérieure à 50 000 € à un moment quelconque de l'année concernée par l'obligation déclarative prévue à l'article 1649 bis C.
 
 XI. – Les infractions à l'article 1649 ter A et aux I ou III de l'article 1649 ter D sont passibles d'une amende forfaitaire qui ne peut excéder 50 000 €.
 

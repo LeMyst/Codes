@@ -9,3 +9,8 @@ La contribution est déductible, dans les conditions et pour la part définies a
 a) Les gains mentionnés à l'article 150-0 A qui bénéficient de l'abattement prévu au 1 quater de l'article 150-0 D ou de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter ;
 
 b) Les avantages salariaux mentionnés au I de l'article 80 quaterdecies qui bénéficient des abattements prévus aux 1 ter ou 1 quater de l'article 150-0 D, dans sa rédaction antérieure au 1er janvier 2018, de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter ou de l'abattement de 50 % prévu au 3 de l'article 200 A.
+
+Par dérogation au premier alinéa du présent II, la contribution afférente aux sommes mentionnées au a du II de l'article L. 136-6 du code de la sécurité sociale qui sont soumises à l'impôt sur le revenu en application de l'article 1649 quater-0 B bis du présent code n'est pas admise en déduction du revenu imposable.
+
+NOTA:
+Conformément à la seconde phrase du IV de l'article 65 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction issue du II de l'article précité, s'appliquent s'appliquent à l'impôt sur le revenu dû au titre de l'année 2026 et des années suivantes.

@@ -1,6 +1,6 @@
 # Article 1744
 
-I.-Est punie de trois ans d'emprisonnement et d'une amende de 250 000 € la mise à disposition, à titre gratuit ou onéreux, d'un ou de plusieurs moyens, services, actes ou instruments juridiques, fiscaux, comptables ou financiers ayant pour but de permettre à un ou plusieurs tiers de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel des impôts mentionnés au présent code. Ces moyens, services, actes ou instruments consistent en :
+I.-Est punie de cinq ans d'emprisonnement et d'une amende de 500 000 € la mise à disposition, à titre gratuit ou onéreux, d'un ou de plusieurs moyens, services, actes ou instruments juridiques, fiscaux, comptables ou financiers ayant pour but de permettre à un ou plusieurs tiers de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel des impôts mentionnés au présent code. Ces moyens, services, actes ou instruments consistent en :
 
 1° L'ouverture de comptes ou la souscription de contrats auprès d'organismes établis à l'étranger ;
 
@@ -12,7 +12,7 @@ I.-Est punie de trois ans d'emprisonnement et d'une amende de 250 000 € la mis
 
 5° La réalisation de toute autre manœuvre destinée à égarer l'administration.
 
-Les peines sont portées à cinq ans d'emprisonnement et à 500 000 € d'amende lorsque la mise à disposition mentionnée au premier alinéa du présent I est commise en utilisant un service de communication au public en ligne.
+Les peines sont portées à sept ans d'emprisonnement et à une amende de trois millions d'euros lorsque la mise à disposition mentionnée au premier alinéa du présent I est commise en utilisant un service de communication au public en ligne ou en bande organisée.
 
 II.-Les articles L. 227 à L. 233 du livre des procédures fiscales ne sont pas applicables.
 

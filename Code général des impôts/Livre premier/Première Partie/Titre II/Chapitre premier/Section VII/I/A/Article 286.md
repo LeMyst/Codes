@@ -14,6 +14,8 @@ Le livre prescrit ci-dessus ou la comptabilité en tenant lieu, ainsi que les pi
 
 3° bis Si elle effectue des livraisons de biens et des prestations de services ne donnant pas lieu à facturation conformément à l'article 289 du présent code et enregistre ces opérations au moyen d'un logiciel ou d'un système de caisse, utiliser un logiciel ou un système satisfaisant à des conditions d'inaltérabilité, de sécurisation, de conservation et d'archivage des données en vue du contrôle de l'administration fiscale, attestées par un certificat délivré par un organisme accrédité dans les conditions prévues à l'article L. 433-4 du code de la consommation ou par une attestation individuelle de l'éditeur, conforme à un modèle fixé par l'administration ;
 
+Les données archivées mentionnées au premier alinéa du présent 3° bis sont restituées dans un format répondant aux normes établies par l'administration.
+
 4° Fournir aux agents des impôts, ainsi qu'à ceux des autres services financiers désignés par décrets, pour chaque catégorie d'assujettis, tant au principal établissement que dans les succursales ou agences, toutes justifications nécessaires à la fixation des opérations imposables, sans préjudice des dispositions de l'article L. 85 du livre des procédures fiscales.
 
 II.-1-0. Les assujettis bénéficiant d'une franchise de taxe relevant de l'article 293 B bis sont dispensés des obligations mentionnées aux 1° et 2° du I du présent article lorsqu'ils remplissent, dans l'Etat membre d'établissement, les obligations prévues par les dispositions transposant, dans cet Etat membre, les 1 et 2 de l'article 284 ter de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.

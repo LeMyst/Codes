@@ -1,6 +1,6 @@
 # Article 1740 A bis
 
-I. – Lorsque l'administration fiscale a prononcé à l'encontre du contribuable une majoration de 80 % sur le fondement du c du 1 de l'article 1728, des b ou c de l'article 1729 ou de l'article 1729-0 A, toute personne physique ou morale qui, dans l'exercice d'une activité professionnelle de conseil à caractère juridique, financier ou comptable ou de détention de biens ou de fonds pour le compte d'un tiers, a intentionnellement fourni à ce contribuable une prestation permettant directement la commission par ce contribuable des agissements, manquements ou manœuvres ainsi sanctionnés est redevable d'une amende dans les conditions prévues au II du présent article.
+I. – Lorsque l'administration fiscale a prononcé à l'encontre du contribuable une majoration de 80 % ou de 40 % sur le fondement des b et c du 1 de l'article 1728, de l'article 1729 ou de l'article 1729-0 A, toute personne physique ou morale qui, dans l'exercice d'une activité professionnelle de conseil à caractère juridique, financier ou comptable ou de détention de biens ou de fonds pour le compte d'un tiers, a intentionnellement fourni à ce contribuable une prestation permettant directement la commission par ce contribuable des agissements, manquements ou manœuvres ainsi sanctionnés est redevable d'une amende dans les conditions prévues au II du présent article.
 
 La prestation mentionnée au premier alinéa du présent I consiste à :
 

@@ -1,0 +1,5 @@
+# Article 990 FA
+
+Lorsque la personne morale, l'organisme, la fiducie ou l'institution comparable soumis à l'obligation déclarative mentionnée aux articles 990 E et 990 F ne dispose pas d'un établissement stable en France, elle est tenue de désigner, dans la déclaration mentionnée aux mêmes articles 990 E et 990 F, une personne physique ou morale fiscalement domiciliée en France ou dont le siège social est établi en France, autorisée à recevoir pour son compte l'ensemble des communications, des pièces de procédure et des notifications de l'administration relatives au contrôle de la taxe prévue à l'article 990 D ou en découlant.
+
+A défaut d'une telle désignation, l'entité juridique la plus proche des immeubles ou des droits immobiliers dans la chaîne de participations et connue de l'administration, qu'elle soit exonérée ou non, est réputée autorisée à recevoir, pour le compte de la personne mentionnée au premier alinéa du présent article, l'ensemble des communications, des pièces de procédure et des notifications de l'administration relatives au contrôle de la taxe prévue à l'article 990 D ou en découlant.

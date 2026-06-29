@@ -6,7 +6,7 @@
 
 1° Les produits des opérations de bourse effectuées dans des conditions analogues à celles qui caractérisent une activité exercée par une personne se livrant à titre professionnel à ce type d'opérations ;
 
-1° bis Les produits des opérations d'achat, de vente et d'échange d'actifs numériques effectuées dans des conditions analogues a ̀ celles qui caractérisent une activité exercée par une personne se livrant a ̀ titre professionnel a ̀ ce type d'opérations ;
+1° bis Les produits des opérations d'achat, de vente et d'échange de crypto-actifs effectuées dans des conditions analogues a ̀ celles qui caractérisent une activité exercée par une personne se livrant a ̀ titre professionnel a ̀ ce type d'opérations ;
 
 2° Les produits de droits d'auteurs perçus par les écrivains ou compositeurs et par leurs héritiers ou légataires ;
 
@@ -21,6 +21,3 @@
 7° Les sommes perçues par les avocats en qualité de fiduciaire d'une opération de fiducie définie à l'article 2011 du code civil.
 
 3. Les bénéfices réalisés par les greffiers titulaires de leur charge sont imposés, suivant les règles applicables aux bénéfices des charges et offices, d'après leur montant net déterminé sous déduction des traitements et indemnités alloués aux greffiers par l'Etat. Ces traitements et indemnités sont rangés dans la catégorie visée au V de la présente sous-section.
-
-NOTA:
-Conformément au II de l'article 70 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions sont applicables à compter du 1er janvier 2023.

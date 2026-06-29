@@ -26,7 +26,7 @@ II.-Toutefois, le prestataire de services n'est pas tenu de souscrire la déclar
 
 4° Il est soumis à l'obligation déclarative en application du d du 2° du I du présent article mais a sa résidence fiscale dans un Etat ou territoire partenaire et y remplit des obligations équivalentes à celles prévues à l'article 1649 AC bis ;
 
-5° Il a adressé une notification à l'administration fiscale, dans un format déterminé par cette dernière, confirmant qu'il remplit ses obligations dans un Etat ou un territoire partenaire en application de critères substantiellement similaires à ceux prévus au même article 1649 AC bis ;
+5° Il a adressé une notification à l'administration fiscale, dans un format déterminé par cette dernière, confirmant qu'il remplit ses obligations dans un Etat ou un territoire partenaire en application de critères substantiellement similaires à ceux prévus aux a à d du 2° du I du présent article et qu'il respecte dans cet Etat ou ce territoire des obligations équivalentes à celles prévues à l'article 1649 AC bis ;
 
 6° Il est soumis à l'obligation déclarative en application du I du présent article en raison de transactions effectuées par l'intermédiaire d'une succursale établie dans un Etat ou un territoire partenaire mais ses obligations sont remplies par cette succursale dans cet Etat ou ce territoire partenaire.
 

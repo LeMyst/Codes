@@ -14,4 +14,8 @@ Les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amen
 
 5° Au préjudice d'une personne publique, d'un organisme de protection sociale ou d'un organisme chargé d'une mission de service public, pour l'obtention d'une allocation, d'une prestation, d'un paiement ou d'un avantage indu.
 
-Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 euros d'amende lorsque l'escroquerie est commise en bande organisée.
+Les peines sont portées à dix ans d'emprisonnement et à 1 000 000 euros d'amende lorsque les escroqueries mentionnées à l'article 313-1 et aux 1° à 4° bis du présent article sont commises en bande organisée.
+
+Les peines sont portées à quinze ans de réclusion criminelle et à un million d'euros d'amende lorsque l'escroquerie mentionnée au 5° est commise en bande organisée.
+
+Les deux premiers alinéas de l'article 132-23 sont applicables à l'infraction mentionnée à l'avant-dernier alinéa du présent article.

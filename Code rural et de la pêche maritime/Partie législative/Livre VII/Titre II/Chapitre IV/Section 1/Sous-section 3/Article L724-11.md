@@ -1,6 +1,6 @@
 # Article L724-11
 
-Les agents de contrôle agréés et assermentés des caisses de mutualité sociale agricole peuvent demander aux cotisants, aux bénéficiaires de prestations, aux assurés sociaux et à leurs ayants droit leur nom, leur adresse, leur emploi, le montant de leurs revenus ainsi que toute information utile à l'exercice de leur mission.
+Les agents de contrôle agréés et assermentés des caisses de mutualité sociale agricole et de la caisse centrale de mutualité sociale agricole peuvent demander aux cotisants, aux bénéficiaires de prestations, aux assurés sociaux et à leurs ayants droit leur nom, leur adresse, leur emploi, le montant de leurs revenus ainsi que toute information utile à l'exercice de leur mission.
 
 Les cotisants, les bénéficiaires de prestations, les assurés sociaux et leurs ayants droit sont tenus de recevoir les agents de contrôle agréés et assermentés des caisses de mutualité sociale agricole qui se présentent pour assurer l'exercice de leurs missions et de leur présenter tous documents nécessaires à l'exercice de leur contrôle ou de leur enquête.
 

@@ -8,6 +8,8 @@ Pour l'application de l'article L. 351-3, sont comptés comme périodes d'assura
 
 b) Un trimestre est également décompté pour chaque nouvelle période d'indemnisation de quatre-vingt-dix jours ;
 
+c) Un trimestre est également décompté pour chaque période, continue ou non, durant laquelle l'assuré a bénéficié de cinquante-huit jours d'indemnisation au titre du congé supplémentaire de naissance mentionné à l'article L. 331-8-1 ;
+
 3°) chaque trimestre civil comportant une échéance du paiement des arrérages de la pension d'invalidité ;
 
 4°) autant de trimestres qu'au cours de l'année civile correspond de fois à cinquante jours la durée :
@@ -77,4 +79,4 @@ Toutefois, les périodes prévues aux 1°, 2° et 3° ne peuvent être comptées
 L'application des dispositions du présent article ne peut avoir pour effet de porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance valable au titre d'une même année civile.
 
 NOTA:
-Se reporter aux modalités d’application prévues au II de l’article 2 du décret n° 2025-1409 du 31 décembre 2025.
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.

@@ -12,4 +12,9 @@ Les conditions d'ouverture du droit prévues à l'article L. 313-1 sont appréci
 
 5° Les prestations en espèces de l'assurance maternité servies en cas de congé de paternité, à la date du début de ce congé ;
 
-6°) La prestation de l'assurance décès, à la date du décès.
+6° Les prestations en espèces de l'assurance maternité, servies en cas de congé supplémentaire de naissance, à la date du début de ce congé ;
+
+7°) La prestation de l'assurance décès, à la date du décès.
+
+NOTA:
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.

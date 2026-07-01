@@ -6,7 +6,7 @@ La déclaration comporte également les informations relatives aux cotisations s
 
 L'employeur déclare également les événements suivants concernant ses salariés survenus au cours du mois considéré :
 
-1° Le début et la fin de l'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption ou de paternité et d'accueil de l'enfant ;
+1° Le début et la fin de l'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption, de paternité et d'accueil de l'enfant ou de congé supplémentaire de naissance ;
 
 2° La fin du contrat de travail.
 
@@ -45,6 +45,4 @@ Un compte rendu peut être mis à la disposition de l'employeur, comportant nota
 VI.-Les manquements aux obligations prévues par le présent article sont sanctionnés dans les conditions prévues aux articles R. 243-12 à R. 243-14.
 
 NOTA:
-Conformément au II de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, pour les périodes d'emploi courant jusqu'au 31 décembre 2027, le compte rendu mentionné au 5° du V de l'article R. 133-13 du code de la sécurité sociale dans sa rédaction issue dudit décret peut être transmis au titre du constat d'anomalies résultant des vérifications prévues à l'article L. 133-5-3-1 du même code par les organismes et administrations destinataires de la déclaration mentionnée au I de l'article L. 133-5-3 du même code, selon des modalités qu'ils déterminent et au moyen d'une norme d'échanges autre que celle prévue à ce même article.
-
-Conformément au III de l'article 4 du décret n° 2023-1384 du 29 décembre 2023, les dispositions du 3° du V de l'article R. 133-13 du code de la sécurité sociale dans sa rédaction issue du présent décret entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés de la sécurité sociale et du budget et au plus tard le 1er janvier 2028.
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.

@@ -10,7 +10,7 @@ La déclaration sociale nominative est accomplie chaque mois même si aucune ré
 
 II. – La déclaration des événements mentionnés au I de l'article R. 133-13 est effectuée au plus tard en même temps que la déclaration sociale nominative relative au mois au cours duquel cet événement est survenu.
 
-Toutefois, sont déclarés dans un délai fixé par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'emploi, qui ne peut excéder cinq jours ouvrés, la fin du contrat de travail ainsi que, lorsque l'employeur n'est pas subrogé dans les droits de l'assuré aux indemnités journalières, le début et la fin de l'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption ou de paternité et d'accueil de l'enfant.
+Toutefois, sont déclarés dans un délai fixé par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'emploi, qui ne peut excéder cinq jours ouvrés, la fin du contrat de travail ainsi que, lorsque l'employeur n'est pas subrogé dans les droits de l'assuré aux indemnités journalières, le début et la fin de l'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption, de paternité et d'accueil de l'enfant ou de congé supplémentaire de naissance.
 
 Les dispositions du précédent alinéa ne sont pas applicables :
 
@@ -82,7 +82,7 @@ i) Les données relatives à sa rémunération pour le mois faisant l'objet de l
 
 j) Les données mentionnées aux d à g du 3° de l'article 39 C de l'annexe III au code général des impôts ;
 
-k) Les informations relatives aux événements survenus pendant la période déclarée : dates de début et de fin d'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption ou de paternité et d'accueil de l'enfant, ainsi que les informations nécessaires à la subrogation de l'employeur dans les droits du salarié aux indemnités journalières et au remboursement de celui-ci par les organismes d'assurance maladie ;
+k) Les informations relatives aux événements survenus pendant la période déclarée : dates de début et de fin d'arrêt de travail pour cause d'accident ou de maladie d'origine professionnelle ou non professionnelle, de congé de maternité, d'adoption, de paternité et d'accueil de l'enfant ou de congé supplémentaire de naissance, ainsi que les informations nécessaires à la subrogation de l'employeur dans les droits du salarié aux indemnités journalières et au remboursement de celui-ci par les organismes d'assurance maladie ;
 
 l) Les informations relatives à la rupture du contrat de travail, dont la qualification de la rupture et les éléments pris en compte pour le calcul des allocations chômage ;
 
@@ -93,4 +93,4 @@ m) Les données relatives à la prévoyance, dont les éléments relatifs à l'i
 VI. – Lorsque son contenu, tel que défini par la norme mentionnée au III de l'article R. 133-13, le rend possible, la déclaration sociale nominative permet en outre aux employeurs de transmettre les informations prévues par les dispositions conventionnelles ou contractuelles prises pour la mise en œuvre des garanties collectives dont bénéficient leurs salariés en application des dispositions de l'article L. 911-1 du présent code, ou des droits à congés de leurs salariés en application des dispositions de l'article L. 3141-32, du code du travail-aux organismes chargés de cette mise en œuvre.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2022-292 du 1er mars 2022, ces dispositions sont applicables à compter du 1er mars 2022.
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.

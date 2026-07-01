@@ -54,5 +54,11 @@ VII.-Le bénéfice de l'exonération prévue au présent article, ainsi que de t
 
 Lorsqu'un organisme chargé du recouvrement est avisé, par la transmission du procès-verbal établi par un des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail, de la commission d'une des infractions mentionnées à l'alinéa précédent, il suspend la mise en œuvre des exonérations prévues par le présent article jusqu'au terme de la procédure judiciaire.
 
+VIII.-Le présent article est applicable à Mayotte sous réserve des adaptations suivantes :
+
+1° Les références au salaire minimum de croissance s'entendent comme des références au salaire minimum de croissance applicable à Mayotte ;
+
+2° Les références au montant des cotisations à la charge de l'employeur au titre des assurances sociales et des allocations familiales s'entendent, le cas échéant, comme celles applicables à Mayotte et sont prises en considération pour leur taux également applicable.
+
 NOTA:
-Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.
+Conformément au D du II de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du D du II du même article, entrent en vigueur le 1er juillet 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.

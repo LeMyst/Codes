@@ -6,4 +6,9 @@ Pour le calcul de l'indemnité journalière de repos, le revenu d'activité ant�
 
 L'indemnité journalière de repos ne peut être inférieure à un minimum fixé par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
-Les dispositions des articles R. 323-10 et R. 323-11 sont applicables à l'indemnité journalière de repos.
+Les dispositions des articles R. 323-10 et R. 323-11 sont applicables à l'indemnité journalière de repos et à l'indemnité journalière en cas de congé supplémentaire de naissance.
+
+NOTA:
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.
+
+Conformément au second alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, pour les parents d'enfants nés ou adoptés avant l'entrée en vigueur du présent décret et à compter du 1er janvier 2026, ou d'enfants nés avant cette date dont la naissance était supposée intervenir à compter de la même date, la ou les périodes du congé débutent dans un délai de neuf mois suivant le 1er juillet 2026, délai le cas échéant augmenté en application des articles L. 1225-17 à L. 1225-22 du code du travail.

@@ -10,6 +10,9 @@ Des actions de prévention appropriées sont organisées dans des conditions fix
 
 Lorsque l'accident est dû à la faute inexcusable d'un employeur garanti par une assurance à ce titre, la caisse d'assurance retraite et de la santé au travail peut imposer à l'employeur la cotisation supplémentaire mentionnée à l'article L. 242-7. Le produit en est affecté au fonds national de prévention des accidents du travail et des maladies professionnelles.
 
-Le paiement du capital prévu à l'article L. 452-2 est garanti par privilège dans les conditions et au rang fixés par les articles L. 243-4 et L. 243-5.
+Le paiement du capital prévu à l'article L. 452-2 est garanti par privilège dans les conditions et au rang fixés à l'article L. 243-4.
 
 Dans le cas où un élève ou un étudiant mentionné aux a ou b du 2° de l'article L. 412-8 du présent code, au 1° du II de l'article L. 751-1 du code rural et de la pêche maritime ou au 1° de l'article L. 761-14 du même code, à la suite d'un accident ou d'une maladie survenu par le fait ou à l'occasion d'une période de formation en milieu professionnel ou d'un stage, engage une action en responsabilité fondée sur la faute inexcusable de l'employeur contre l'établissement d'enseignement, celui-ci est tenu d'appeler en la cause l'organisme d'accueil de la période de formation en milieu professionnel ou du stage pour qu'il soit statué dans la même instance sur la demande du stagiaire et sur la garantie des conséquences financières d'une reconnaissance éventuelle de faute inexcusable.
+
+NOTA:
+Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1er juillet 2026.

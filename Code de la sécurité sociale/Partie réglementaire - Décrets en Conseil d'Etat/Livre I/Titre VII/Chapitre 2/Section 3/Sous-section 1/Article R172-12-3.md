@@ -10,6 +10,11 @@ Pour l'application du second alinéa de l'article L. 172-2, le service et la cha
 
 4° En ce qui concerne les prestations en espèces servies en cas d'adoption, au régime auquel était affilié l'assuré le jour de l'arrivée de l'enfant dans le foyer ;
 
-5° En ce qui concerne les prestations en espèces servies en cas de paternité, au régime auquel était affilié l'assuré le jour de l'accouchement de la mère.
+5° En ce qui concerne les prestations en espèces servies en cas de paternité, au régime auquel était affilié l'assuré le jour de l'accouchement de la mère ;
+
+6° En ce qui concerne les prestations en espèces servies en cas de congé supplémentaire de naissance, au régime auquel était affilié l'assuré le jour du début du congé.
 
 Si l'assuré a interrompu son activité à la date considérée, le service et la charge financière des prestations incombent au dernier régime dont il relevait antérieurement.
+
+NOTA:
+Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.

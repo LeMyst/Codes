@@ -1,0 +1,16 @@
+# Article D623-4-1
+
+La durée de versement de l'indemnité journalière mentionnée à l'article L. 623-2 est fractionnable en deux période d'un mois chacune. Sous réserve des dispositions du deuxième alinéa, son montant est égal à 1/730 de la valeur annuelle du plafond mentionné à l'article L. 241-3 en vigueur à la date prévue du premier versement, affecté d'un coefficient de 0,7 au titre du premier mois et de 0,6, le cas échéant, au titre du second. L'indemnité est allouée, pour une durée d'un ou de deux mois, de date à date pour chacun des mois.
+
+Lorsque le revenu d'activité annuel moyen déterminé selon les règles définies au premier alinéa de l'article D. 622-7 à la date prévue du premier versement de l'indemnité journalière mentionnée à l'alinéa précédent est inférieur à un montant équivalent à 10 % de la moyenne des valeurs annuelles du plafond mentionné à l'article L. 241-3 en vigueur au cours des années sur lesquelles ce revenu moyen est calculé, cette indemnité est égale à 10 % de 1/730 de la valeur annuelle du plafond mentionné à l'article L. 241-3 dans sa version en vigueur à la date du prévue du premier versement. Les dispositions du présent alinéa ne sont pas applicables aux personnes mentionnées à l'article D. 622-9.
+
+La ou les périodes de cessation d'activité donnant lieu au versement de l'indemnité journalière mentionnée aux deux alinéas précédents débutent dans les neuf mois suivant la naissance de l'enfant ou, pour les parents adoptants, suivant l'arrivée de l'enfant au foyer.
+
+Lorsque la durée maximale de versement de l'indemnité journalière maternité, paternité ou d'adoption est augmentée en application du troisième alinéa du II de l'article L. 623-1, de l'article L. 623-4, des deuxième et troisième alinéas de l'article D. 623-2, de l'article D. 623-4 et du deuxième alinéa de l'article D. 623-7, le délai mentionné à l'alinéa précédent est augmenté d'autant.
+
+En cas de décès de l'enfant ou de diminution importante des ressources du foyer, l'assuré ou l'assurée a le droit de reprendre son activité avant le terme prévu de la période de cessation d'activité. Cette interruption donne lieu à une déclaration de l'assuré et à l'arrêt du versement de l'indemnité journalière.
+
+NOTA:
+Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.
+
+Pour les parents d'enfants nés ou adoptés avant l'entrée en vigueur dudit décret et à compter du 1er janvier 2026, ou d'enfants nés avant le 1er janvier 2026 dont la naissance était supposée intervenir à compter de cette date, les indemnités supplémentaires de naissance peuvent être versées si la ou les périodes de cessation d'activité débutent dans les neuf mois suivant le 1er juillet 2026, délai le cas échéant augmenté en application du troisième alinéa du II de l'article L. 623-1, de l'article L. 623-4, des deuxième et troisième alinéas de l'article D. 623-2, de l'article D. 623-4, du deuxième alinéa de l'article D. 623-7 du code de la sécurité sociale et du troisième alinéa de l'article D. 732-29-9 du code rural et de la pêche maritime.

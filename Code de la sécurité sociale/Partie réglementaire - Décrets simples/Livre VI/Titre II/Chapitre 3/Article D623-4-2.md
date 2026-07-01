@@ -1,12 +1,12 @@
-# Article D531-19
+# Article D623-4-2
 
-I.-Pour l'application du cinquième alinéa du I de l'article L. 531-5, sont assimilées à une activité professionnelle les situations suivantes ;
+Les indemnités journalières mentionnées à l'article L. 623-2 ne peuvent être cumulées avec :
 
-1° Les périodes de perception d'indemnités journalières de maladie, maternité, paternité, repos pour adoption, supplémentaires de naissance, accident du travail et de l'allocation de remplacement ;
+1° Les indemnités journalières mentionnée à l'article L. 622-1 ;
 
-2° Les périodes de chômage donnant lieu à versement d'indemnités mentionnées aux articles L. 5122-1 et L. 5422-1 du code du travail ;
+2° Les indemnités journalières mentionnés à l'article L. 623-1 ;
 
-3° Les périodes de formation professionnelle rémunérée au sens de la sixième partie du code du travail.
+3° Le revenu de remplacement prévu à l'article L. 5421-2 du code du travail.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

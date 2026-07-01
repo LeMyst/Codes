@@ -1,8 +1,8 @@
 # Article L321-4
 
-Seuls peuvent organiser et réaliser des ventes volontaires de meubles aux enchères publiques et des ventes aux enchères par voie électronique les opérateurs remplissant les conditions définies au présent article.
+Seuls peuvent organiser et réaliser des ventes volontaires de meubles aux enchères publiques, y compris par voie électronique, les personnes physiques ou morales remplissant les conditions définies au présent article.
 
-I.-S'il s'agit d'une personne physique, l'opérateur de ventes volontaires de meubles aux enchères publiques doit :
+I.-S'il s'agit d'une personne physique, le commissaire-priseur doit :
 
 1° Etre français ou ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
@@ -12,9 +12,9 @@ I.-S'il s'agit d'une personne physique, l'opérateur de ventes volontaires de me
 
 4° Avoir préalablement déclaré son activité auprès du Conseil des maisons de vente institué par l'article L. 321-18.
 
-II.-S'il s'agit d'une personne morale, l'opérateur de ventes volontaires de meubles aux enchères publiques doit :
+II.-S'il s'agit d'une personne morale, la maison de vente doit :
 
-1° Etre constitué en conformité avec la législation d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et avoir son siège statutaire, son administration centrale ou son principal établissement sur le territoire de l'un de ces Etats membres ou parties ;
+1° Etre constituée en conformité avec la législation d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et avoir son siège statutaire, son administration centrale ou son principal établissement sur le territoire de l'un de ces Etats membres ou parties ;
 
 2° Disposer d'au moins un établissement en France, y compris sous forme d'agence, de succursale ou de filiale ;
 
@@ -24,6 +24,6 @@ II.-S'il s'agit d'une personne morale, l'opérateur de ventes volontaires de meu
 
 5° Avoir préalablement déclaré son activité auprès du Conseil des maisons de vente institué par l'article L. 321-18.
 
-III.-Les personnes physiques remplissant les conditions mentionnées aux 1° à 3° du I prennent le titre de commissaire-priseur de ventes volontaires, à l'exclusion de tout autre, lorsqu'elles procèdent à ces ventes.
+III. - Seules les personnes physiques remplissant les conditions mentionnées aux 1° à 3° du I sont autorisées à porter le titre de commissaire-priseur.
 
-IV.-Les opérateurs de ventes volontaires de meubles aux enchères publiques portent à la connaissance du public, sur tous documents ou publicités, la date à laquelle a été faite leur déclaration d'activité auprès du Conseil des maisons de vente.
+IV.-Les personnes mentionnées aux I et II du présent article portent à la connaissance du public, sur tous documents et publicités, la date à laquelle a été faite leur déclaration d'activité auprès du Conseil des maisons de vente.

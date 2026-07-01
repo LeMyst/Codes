@@ -1,1 +1,1 @@
-Section 7 : Agréments et habilitations des personnes morales
+Section 7 : Agrément et habilitation des personnes morales

@@ -1,3 +1,6 @@
 # Article R5336-2
 
-En cas de manquement constaté aux dispositions des articles R. 5332-1 II, R. 5332-11, R. 5332-13, R. 5332-15, R. 5332-17 à R. 5332-28, R. 5332-32 à R. 5332-34, R. 5332-36 à R. 5332-38, R. 5332-40 à R. 5332-46, R. 5332-63 et R. 5332-64 et des textes pris pour leur application, le représentant de l'Etat dans le département peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont tirés, prononcer à l'encontre de la personne morale responsable une amende administrative d'un montant maximal de 7 500 euros.
+En cas de manquement constaté d'une personne morale au troisième alinéa de l'article R. 5332-1, aux articles R. 5332-15 et R. 5332-16, R. 5332-18, R. 5332-23, R. 5332-29 à R. 5332-31, au II de l'article R. 5332-33, à l'article R. 5332-35, R. 5332-36, R. 5332-37, R. 5332-43, R. 5332-44, au II de l'article R. 5332-46, R. 5332-48, R. 5332-50 à R. 5332-61, R. 5332-69, R. 5332-74, R. 5332-76, R. 5332-81 et R. 5332-83 et aux dispositions prises pour leur application, le préfet de département peut, en tenant compte de la nature et de la gravité du manquement et éventuellement des avantages de toute nature qui en sont tirés, faire application des dispositions de l'article L. 5336-1-3.
+
+NOTA:
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.

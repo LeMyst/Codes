@@ -1,1 +1,1 @@
-Section 6 : Agrément et habilitation des personnes physiques
+Section 6 : Autorisation, agréments et habilitations des personnes physiques

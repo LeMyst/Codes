@@ -1,1 +1,1 @@
-Sous-section 1 : Contrôles de sûreté applicables dans les zones à accès restreint
+Sous-section 1 : Agents chargés des contrôles et vérifications de sûreté

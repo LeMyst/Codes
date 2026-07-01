@@ -1,3 +1,6 @@
 # Article R5332-8
 
-Le préfet maritime ou le délégué du Gouvernement pour l'action de l'Etat en mer définit des mesures de sûreté particulières pour la partie maritime de la zone maritime et fluviale de régulation des ports figurant sur la liste prévue au I de l'article R. 5332-1. Ces dispositions déterminent pour chacun des niveaux de sûreté à respecter, les procédures à suivre, les mesures à mettre en place et les actions à mener en matière de sûreté. Le cas échéant, elles sont annexées au plan de sûreté du port.
+Un comité local de sûreté portuaire est créé par arrêté du préfet de département dans chaque département comprenant au moins un port identifié en application du deuxième alinéa de l'article R. 5332-1.
+
+NOTA:
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.

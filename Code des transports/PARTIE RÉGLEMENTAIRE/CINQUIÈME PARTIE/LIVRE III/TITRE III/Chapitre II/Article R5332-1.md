@@ -1,9 +1,10 @@
 # Article R5332-1
 
-I.-Les dispositions du présent chapitre s'appliquent dans les ports comprenant ou auxquels est rattachée au moins une installation portuaire soumise au règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif à l'amélioration de la sûreté des navires et des installations portuaires. Le ministre chargé des transports en fixe la liste par arrêté.
+Les dispositions du présent chapitre s'appliquent dans les ports et installations portuaires mentionnés à l'article L. 5332-1.
 
-Cet arrêté, pris après avis du représentant de l'Etat dans le département, classe les ports et autres lieux d'escale par catégories en fonction de l'importance et de la nature de leur trafic et détermine dans quelle mesure les dispositions du présent chapitre s'appliquent à ces catégories.
+Tout port soumis aux dispositions du présent chapitre est identifié sur une liste établie par un arrêté du ministre chargé des transports pris après avis ou sur proposition du préfet du département dans lequel il se situe.
 
-II.-La liste des installations portuaires qui sont soumises aux dispositions du présent chapitre est arrêtée pour chaque port par le représentant de l'Etat dans le département.
+Toute installation portuaire soumise aux dispositions du présent chapitre est identifiée par un arrêté du préfet de département dans lequel elle se situe, pris sur proposition de l'autorité portuaire et qui précise son exploitant, son périmètre et ses principales caractéristiques physiques et fonctionnelles.
 
-Cet arrêté, pris sur proposition de l'autorité portuaire, identifie l'exploitant, le périmètre et les principales caractéristiques physiques et fonctionnelles de chaque installation.
+NOTA:
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.

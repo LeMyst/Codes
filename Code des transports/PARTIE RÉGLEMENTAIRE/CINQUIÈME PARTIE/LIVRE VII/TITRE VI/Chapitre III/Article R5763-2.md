@@ -10,8 +10,7 @@ Pour l'application des dispositions mentionnées à l'article R. 5763-1 :
 
 4° La référence à la directive 2005/65/ CE du Parlement européen et du Conseil du 26 octobre 2005 relative à l'amélioration de la sûreté dans les ports est remplacée par la référence aux règles en vigueur en métropole en vertu de la directive 2005/65/ CE du Parlement européen et du Conseil du 26 octobre 2005 relative à l'amélioration de la sûreté dans les ports ;
 
-5° L'article R. 5332-9 est ainsi rédigé :
+5° Pour l'application du 6° de l'article R. 5332-62, les mots : "à l'article L. 5341-1" sont remplacés par les mots : "par la réglementation en vigueur localement".
 
-Art. R. 5332-9.-Pour l'ensemble des ports mentionnés au I de l'article R. 5332-1, le haut-commissaire de la République en Nouvelle-Calédonie crée un comité local de sûreté portuaire qu'il préside et dont il fixe la composition par arrêté.
-
-Les délibérations du comité local de sûreté portuaire et les informations dont ses membres ont connaissance à l'occasion de leurs travaux sont secrètes.
+NOTA:
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.

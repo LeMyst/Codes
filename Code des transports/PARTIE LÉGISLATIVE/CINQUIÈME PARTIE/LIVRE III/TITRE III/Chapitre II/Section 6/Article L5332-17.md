@@ -1,8 +1,14 @@
 # Article L5332-17
 
-L'accès permanent à une zone à accès restreint est réservé aux personnes habilitées. Les conditions et modalités de délivrance des habilitations sont fixées par décret en Conseil d'Etat.
+I.-Sont soumises à agrément les personnes exerçant au titre du présent chapitre des fonctions précisées par décret en Conseil d'Etat pour le compte de personnes morales mentionnées à l'article L. 5332-4.
 
-Il en va de même pour toute installation portuaire ne comprenant pas de zone à accès restreint, si l'autorité administrative le prévoit.
+II.-Sont soumises à habilitation :
+
+1° Les personnes accédant, sous la responsabilité des autorités portuaires, aux systèmes d'information des ports comprenant au moins une installation portuaire mentionnée au 2° de l'article L. 5332-16 ;
+
+2° Les personnes accédant, sous la responsabilité des exploitants d'installations portuaires, au système d'exploitation d'une installation portuaire mentionnée au même 2°.
+
+III.-L'agrément ou l'habilitation tiennent lieu d'autorisation d'accès aux zones à accès restreint et aux installations portuaires mentionnées à l'article L. 5332-16.
 
 NOTA:
-Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.
+Conformément au VII de l'article 64 de la loi n° 2025-532 du 13 juin 2025, ces dispositions entrent en vigueur six mois après la publication de leurs dispositions réglementaires d'application, et au plus tard le 1er juillet 2026.

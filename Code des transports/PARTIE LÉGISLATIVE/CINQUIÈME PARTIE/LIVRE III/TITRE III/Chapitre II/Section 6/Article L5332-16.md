@@ -1,10 +1,12 @@
 # Article L5332-16
 
-Les personnes chargées des missions de sûreté dont la liste est fixée par décret en Conseil d'Etat doivent être titulaires d'un agrément individuel délivré par l'autorité administrative.
+Toute personne doit disposer d'une autorisation pour accéder à :
 
-Les personnes mentionnées au deuxième alinéa du II de l'article L. 5332-15 sont agréées par l'autorité administrative et le procureur de la République.
+1° Une zone à accès restreint d'un port ou d'une installation portuaire ;
 
-L'agrément tient lieu de l'habilitation prévue à l'article L. 5332-17.
+2° Une installation portuaire dans laquelle des conteneurs sont déchargés, chargés, transbordés ou manutentionnés ;
+
+3° Une installation portuaire présentant des risques élevés et ne comprenant pas de zone à accès restreint.
 
 NOTA:
-Conformément à l’article 5 de l’ordonnance n° 2021-373 du 31 mars 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2022.
+Conformément au VII de l'article 64 de la loi n° 2025-532 du 13 juin 2025, ces dispositions entrent en vigueur six mois après la publication de leurs dispositions réglementaires d'application, et au plus tard le 1er juillet 2026.

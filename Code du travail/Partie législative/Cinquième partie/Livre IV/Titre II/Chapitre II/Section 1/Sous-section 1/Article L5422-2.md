@@ -1,3 +1,3 @@
 # Article L5422-2
 
-L'allocation d'assurance est accordée pour des durées limitées qui tiennent compte de l'âge des intéressés et de leurs conditions d'activité professionnelle antérieure. Ces durées peuvent également tenir compte, le cas échéant, du suivi d'une formation par les intéressés. Elles ne peuvent être inférieures aux durées déterminées par décret en Conseil d'Etat ou de ce que les intéressés relèvent du 2° du I de l'article L. 5422-1.
+L'allocation d'assurance est accordée pour des durées limitées qui tiennent compte de l'âge des intéressés et de leurs conditions d'activité professionnelle antérieure. Ces durées peuvent également tenir compte, le cas échéant, du suivi d'une formation par les intéressés ou de ce que les intéressés relèvent du 2° du I de l'article L. 5422-1. Elles ne peuvent être inférieures aux durées déterminées par décret en Conseil d'Etat.

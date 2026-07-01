@@ -16,4 +16,7 @@ Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les autoris
 
 7° Zones de sûreté créées en application de l'article L. 2271-4 du code des transports ;
 
-8° Zones à accès restreint, créées en application de l'article L. 5332-12 du code des transports, et installations portuaires mentionnées à l'article R. 5332-45 du même code.
+8° Zones à accès restreint et installations portuaires mentionnées à l'article L. 5332-16 du code des transports dans les conditions prévues à l'article L. 5332-18 du même code.
+
+NOTA:
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.

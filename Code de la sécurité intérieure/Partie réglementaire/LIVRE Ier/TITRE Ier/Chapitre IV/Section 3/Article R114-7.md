@@ -18,7 +18,7 @@ e) Agents des services internes de sécurité de la SNCF et de la Régie autonom
 
 f) Personnel embarqué à bord des navires à passagers, au sens du décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution, titulaires des titres de sûreté maritime ;
 
-g) Agent d'une compagnie exploitant des navires à passagers, au sens du décret du 30 août 1984 précité, agréé au titre du code international pour la sûreté des navires et des installations portuaires ;
+g) (Abrogé) ;
 
 h) Membres d'équipage de bateaux de transport par voies de navigation intérieure ;
 
@@ -39,3 +39,6 @@ b) Substances liquides nocives et dangereuses transportées en vrac, énumérée
 c) Gaz liquéfiés énumérés au chapitre 19 du recueil international de règles relatives à la construction et à l'équipement des navires transportant des gaz liquéfiés en vrac, et produits pour le transport desquels des conditions préliminaires appropriées ont été prescrites par l'administration et les administrations portuaires intéressées conformément au paragraphe 1.1.6.1 de ce recueil ;
 
 d) Marchandises dangereuses transportées en colis définies au 1.4.3.1. du code maritime international des marchandises dangereuses.
+
+NOTA:
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.

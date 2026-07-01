@@ -36,6 +36,10 @@ o) Des personnes physiques employées pour participer à l'activité de formatio
 
 p) Des militaires et agents civils ayant déposé une déclaration en application des dispositions des articles L. 4122-11 et L. 4122-13 du code de la défense ;
 
+q) Des professionnels de l'automobile, aux fins de télétransmettre des opérations directement dans le système de traitement automatisé prévu à l'article L. 330-1 du code de la route ;
+
+r) Des personnes mentionnées aux 9° et 10° de l'article R. 5332-62 du code des transports.
+
 s) Des agents d'Ile-de-France Mobilités mentionnés à l'article R. 1241-66-19 du code des transports.
 
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de proximité ;
@@ -104,10 +108,13 @@ l) Des agents des exploitants de transports publics de personnes habilités à r
 
 m) Des préposés du titulaire d'une autorisation individuelle d'exploitation d'un dépôt, débit ou installation mobile de produits explosifs, des personnes intervenant dans ces établissements en vue de l'entretien des équipements de sûreté, ainsi que des organismes chargés des études de sûreté ;
 
-n) Des personnels de la sûreté portuaire énumérés à l'article R. 5332-47 du code des transports ;
+n) Des personnes mentionnées aux 2° à 5°, 7° et 8° de l'article R. 5332-62 du code des transports ;
 
-o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine en mer, à la prévention de la pollution, à la sûreté et à la certification sociale des navires ;
+o) Des pilotes mentionnés au 6° de l'article R. 5332-62 du code des transports ;
 
 p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés au dernier alinéa de l'article L. 614-2 habilités à constater par procès-verbal les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage en application de l'article L. 614-6 ;
 
 q) Des personnes physiques exerçant à titre individuel une activité de formation aux activités privées de sécurité ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité de formation.
+
+NOTA:
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.

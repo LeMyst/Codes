@@ -1,8 +1,5 @@
 # Article 1649 bis C
 
-Les personnes ou les entités juridiques, domiciliées ou établies en France, sont tenues de déclarer, en même temps que leur déclaration de revenus ou de résultats, les références des portefeuilles d'actifs numériques mentionnés à l'article L. 54-10-1 du code monétaire et financier ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger.
+Les personnes ou les entités juridiques, domiciliées ou établies en France, sont tenues de déclarer, en même temps que leur déclaration de revenus ou de résultats, les références des portefeuilles de crypto-actifs soumis au règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937 ouverts, détenus, utilisés ou clos auprès d'entreprises, personnes morales, institutions ou organismes établis à l'étranger ainsi que celles des crypto-actifs uniques et non fongibles, au sens du 3 de l'article 2 du même règlement, détenus ou utilisés à l'étranger.
 
 Les modalités d'application du présent article sont fixées par décret.
-
-NOTA:
-Conformément au I de l'article 49 de l'ordonnance n° 2024-936 du 15 octobre 2024 (NOR : ECOT2415927R), ces dispositions entrent en vigueur le 30 décembre 2024.

@@ -1,1 +1,1 @@
-VII : Comité consultatif du crédit d'impôt pour dépenses de recherche
+VII : Comité consultatif des crédits d'impôt pour dépenses de recherche

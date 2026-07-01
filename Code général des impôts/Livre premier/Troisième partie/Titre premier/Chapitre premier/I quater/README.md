@@ -1,1 +1,1 @@
-I quater : Déclaration relative aux actifs numériques
+I quater : Déclaration relative aux crypto-actifs
